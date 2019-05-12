@@ -1,20 +1,17 @@
-# dotweb-archive.github.io
+# Deep Dot Web Privacy Guides
 
 Archive: Privacy guides, and History from deepdotweb.
-
-The world should have user-friendly access to the educational materials that were previously available on deepdotweb.com.
-
-## This is an unofficial archive
-
-This isn't anything to do with the market, but only educational material.
-
-You can argue that the market is educational.. and sure that's fine, but that's not the part i'm interested in preserving. You can follow these instructions and do it your own way, and\or clean-up parts of it you'd like to preserve, and submit a pull-request.
-
-There is way more content than I realized before I began.. so I'm making some arbitrary decisions, such as eliminating 50x50 images, and "shit posting" memes, etc.  
 
 
 ![](https://imgur.com/T7QpFTM.png)
 
+I was broken-hearted to recently find out that deepdotweb got seized.
+
+The world should have user-friendly access to the educational materials that were previously available on deepdotweb.com.
+
+It was the best place to find privacy guides, and though I'm grateful for the internet archive, I thought I could do something nice with [Jekyll and Github Pages](https://infominer.id/web-work/github-pages-starter-pack/). 
+
+---
 
 I ran:
 
@@ -32,14 +29,4 @@ I'm stripping away all the header material and the comments so I can spin up a s
 
 This app goes through and strips away everything besides what's between `<article>...</article>`.
 
----
-
-for my purposes, It's important to have all the security guides saved and easily accessible, and keeping a bunch of the old posts too for history\educational purposes.
-
-ultimately will link back to archived links of the pages so people can dig in if they like.
-
-I'll be using github pages\ jekyll static site generator, once I have the files cleaned up it will publish easily (maybe tonight).
-
-Not sure what I'll use, but there are a number of good resources for publishing on GitHub here:
-
-* [GitHub Pages Starter Pack](https://infominer.id/web-work/github-pages-starter-pack/)
+From there I had to do a bunch of search and replace so that it was all nice and ready for one of the static site generators.
