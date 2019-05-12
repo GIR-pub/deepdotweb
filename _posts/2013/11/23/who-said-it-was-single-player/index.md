@@ -1,87 +1,82 @@
 ---
-Who said it was single player
+title: Who said it was single player
 ---
-<article class="post-1728 post type-post status-publish format-standard has-post-thumbnail hentry category-memes tag-player tag-single post-listing">
+post-1728 tag-player tag-single
     
-    <div class="post-inner">
-    
-    
-    <p class="post-meta">
-    
-    <span>Posted by: <a href="http://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>
+
     
     
-    <span>November 23, 2013</span>
-    <span>in <a href="http://www.deepdotweb.com/category/memes/" title="View all posts in Memes &amp; Funny" rel="category tag">Memes &amp; Funny</a></span>
-    
-    <span><a href="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/#respond" title="Comment on Who said it was single player">Leave a comment</a></span>
-    </p>
-    <div class="clear"></div>
-    
-    <div class="entry">
-    
-    <div class="wp-socializer-buttons clearfix">
-    <span class="wpsr-btn">
-    <!-- Start WP Socializer Plugin - Facebook Button -->
-    <div class="fb-like" data-href="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/" data-share="false" data-layout="button_count" data-show-faces="0" data-action="like" data-colorscheme="light"></div>
-    <!-- End WP Socializer Plugin - Facebook Button -->
-    </span>
-    <span class="wpsr-btn">
-    <!-- Start WP Socializer Plugin - Retweet Button -->
-    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal"  data-lang="en"  data-url="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/" data-text="Who said it was single player - "></a>
-    <!-- End WP Socializer Plugin - Retweet Button -->
-    </span>
-    <span class="wpsr-btn">
-    <!-- Start WP Socializer Plugin - +1 Button -->
-    <div class="g-plusone" data-size="medium" data-href="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/"></div>
-    <!-- End WP Socializer Plugin - +1 Button -->
-    </span>
-    <span class="wpsr-btn">
-    <!-- Start WP Socializer Plugin - LinkedIn Button -->
-    <script type="IN/Share" data-url="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/" data-counter="right"></script>
-    <!-- End WP Socializer Plugin - LinkedIn Button -->
-    </span>
-    <span class="wpsr-btn">
-    <!-- Start WP Socializer Plugin - StumbleUpon Button -->
-    <su:badge layout="1"></su:badge>
-    <!-- End WP Socializer Plugin - StumbleUpon Button -->
-    </span>
-    </div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/IMAGE29.jpg" rel="lightbox" > <img class="aligncenter size-full wp-image-1729" alt="Multiplayer" src="http://www.deepdotweb.com/wp-content/uploads/2013/11/IMAGE29.jpg" width="460" height="389" /> </a></p>
-    <p>&nbsp;</p>
-    <p>Single player was supposed to be a component whereby we can play the game however we want to. Growing up with siblings, it was never that way. I would end up being influenced by them while I was playing and then finished the game not really knowing if I had really enjoyed it.</p>
-    <p>When I finally moved out, I thought this part was gone forever. And then came my friends&#8230;</p>
-    <p>&nbsp;</p>
-    
-    <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><h3>Share and Enjoy</h3>
-    
-    <!-- Start WP Socializer - Social Buttons - Output -->
-    <div class="wp-socializer 32px">
-    <ul class="wp-socializer-opacity columns-no">
-    <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.deepdotweb.com%2F2013%2F11%2F23%2Fwho-said-it-was-single-player%2F&amp;t=Who+said+it+was+single+player" title="Share this on Facebook" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Facebook" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -330px; border:0;"/></a></li>
-    
-    <li><a href="http://twitter.com/home?status=Who+said+it+was+single+player%20-%20http%3A%2F%2Fwww.deepdotweb.com%2F2013%2F11%2F23%2Fwho-said-it-was-single-player%2F%20" title="Tweet this !" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Twitter" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1386px; border:0;"/></a></li>
-    
-    <li><a href="http://delicious.com/post?url=http%3A%2F%2Fwww.deepdotweb.com%2F2013%2F11%2F23%2Fwho-said-it-was-single-player%2F&amp;title=Who+said+it+was+single+player&amp;notes=%26nbsp%3B%0D%0A%0D%0ASingle+player+was+supposed+to+be+a+component+whereby+we+can+play+the+game+however+we+want+to.+Growing+up+with+siblings%2C+it+was+never+that+way.+I+would+end+up+being+influenced+by+them+while+I+was+playing+and+then+finished+the+game+not+re" title="Post this on Delicious" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Delicious" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -132px; border:0;"/></a></li>
-    
-    <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.deepdotweb.com%2F2013%2F11%2F23%2Fwho-said-it-was-single-player%2F&amp;title=Who+said+it+was+single+player&amp;source=Deep+Dot+Web+-+Meme+and+News+From+the+Other+side+of+the+Web&amp;summary=%26nbsp%3B%0D%0A%0D%0ASingle+player+was+supposed+to+be+a+component+whereby+we+can+play+the+game+however+we+want+to.+Growing+up+with+siblings%2C+it+was+never+that+way.+I+would+end+up+being+influenced+by+them+while+I+was+playing+and+then+finished+the+game+not+re" title="Share this on LinkedIn" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="LinkedIn" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -693px; border:0;"/></a></li>
-    
-    <li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.deepdotweb.com%2F2013%2F11%2F23%2Fwho-said-it-was-single-player%2F&amp;title=Who+said+it+was+single+player" title="Submit this to StumbleUpon" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="StumbleUpon" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1287px; border:0;"/></a></li>
-    
-    <li><a href="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/" onclick="addBookmark(event);" title="Add to favorites" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Add to favorites" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -0px; border:0;"/></a></li>
-    
-    <li><a href="http://www.cloudflare.com/email-protection#7e410a1143580d0b1c141b1d0a43291611550d1f171a55170a55091f0d550d171019121b550e121f071b0c581c111a07435b4c48101c0d0e5b4d3c5b4e3a5b4e3f5bX0D%0ASingle+player+was+supposed+to+be+a+component+whereby+we+can+play+the+game+however+we+want+to.+Growing+up+with+siblings%2C+it+was+never+that+way.+I+would+end+up+being+influenced+by+them+while+I+was+playing+and+then+finished+the+game+not+re%20-%20http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/" title="Email this" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Email" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -297px; border:0;"/></a></li>
-    
-    <li><a href="http://www.deepdotweb.com/feed/rss/" title="Subscribe to RSS" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="RSS" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1221px; border:0;"/></a></li>
-    </ul>
-    <div class="wp-socializer-clearer"></div></div>
-    <!-- End WP Socializer - Social Buttons - Output -->
+<span>Posted by: <a href="http://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>
     
     
-    </div><!-- .entry /-->
-    <span style="display:none"><a href="http://www.deepdotweb.com/tag/player/" rel="tag">player</a> <a href="http://www.deepdotweb.com/tag/single/" rel="tag">single</a></span>				<span style="display:none" class="updated">2013-11-23</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="http://www.deepdotweb.com/author/chrisk/" title="Posts by Chris K." rel="author">Chris K.</a></strong></div>
+<span>November 23, 2013</span>
+<span>in <a href="http://www.deepdotweb.com/category/memes/" title="View all posts in Memes &amp; Funny" rel="category tag">Memes &amp; Funny</a></span>
+    
+<span><a href="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/#respond" title="Comment on Who said it was single player">Leave a comment</a></span>
+</p>
+<div class="clear"></div>
+    
+<div class="entry">
+    
+<div class="wp-socializer-buttons clearfix">
+<span class="wpsr-btn">
+<!-- Start WP Socializer Plugin - Facebook Button -->
+<div class="fb-like" data-href="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/" data-share="false" data-layout="button_count" data-show-faces="0" data-action="like" data-colorscheme="light"></div>
+<!-- End WP Socializer Plugin - Facebook Button -->
+</span>
+<span class="wpsr-btn">
+<!-- Start WP Socializer Plugin - Retweet Button -->
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal"  data-lang="en"  data-url="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/" data-text="Who said it was single player - "></a>
+<!-- End WP Socializer Plugin - Retweet Button -->
+</span>
+<span class="wpsr-btn">
+<!-- Start WP Socializer Plugin - +1 Button -->
+<div class="g-plusone" data-size="medium" data-href="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/"></div>
+<!-- End WP Socializer Plugin - +1 Button -->
+</span>
+<span class="wpsr-btn">
+<!-- Start WP Socializer Plugin - LinkedIn Button -->
+<script type="IN/Share" data-url="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/" data-counter="right"></script>
+<!-- End WP Socializer Plugin - LinkedIn Button -->
+</span>
+<span class="wpsr-btn">
+<!-- Start WP Socializer Plugin - StumbleUpon Button -->
+<su:badge layout="1"></su:badge>
+<!-- End WP Socializer Plugin - StumbleUpon Button -->
+</span>
+</div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/IMAGE29.jpg" rel="lightbox" > <img class="aligncenter size-full wp-image-1729" alt="Multiplayer" src="http://www.deepdotweb.com/wp-content/uploads/2013/11/IMAGE29.jpg" width="460" height="389" /> </a></p>
+<p>&nbsp;</p>
+<p>Single player was supposed to be a component whereby we can play the game however we want to. Growing up with siblings, it was never that way. I would end up being influenced by them while I was playing and then finished the game not really knowing if I had really enjoyed it.</p>
+<p>When I finally moved out, I thought this part was gone forever. And then came my friends&#8230;</p>
+<p>&nbsp;</p>
+    
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><h3>Share and Enjoy</h3>
+    
+             <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.deepdotweb.com%2F2013%2F11%2F23%2Fwho-said-it-was-single-player%2F&amp;t=Who+said+it+was+single+player" title="Share this on Facebook" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Facebook" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -330px; border:0;"/></a></li>
+    
+<li><a href="http://twitter.com/home?status=Who+said+it+was+single+player%20-%20http%3A%2F%2Fwww.deepdotweb.com%2F2013%2F11%2F23%2Fwho-said-it-was-single-player%2F%20" title="Tweet this !" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Twitter" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1386px; border:0;"/></a></li>
+    
+<li><a href="http://delicious.com/post?url=http%3A%2F%2Fwww.deepdotweb.com%2F2013%2F11%2F23%2Fwho-said-it-was-single-player%2F&amp;title=Who+said+it+was+single+player&amp;notes=%26nbsp%3B%0D%0A%0D%0ASingle+player+was+supposed+to+be+a+component+whereby+we+can+play+the+game+however+we+want+to.+Growing+up+with+siblings%2C+it+was+never+that+way.+I+would+end+up+being+influenced+by+them+while+I+was+playing+and+then+finished+the+game+not+re" title="Post this on Delicious" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Delicious" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -132px; border:0;"/></a></li>
+    
+<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.deepdotweb.com%2F2013%2F11%2F23%2Fwho-said-it-was-single-player%2F&amp;title=Who+said+it+was+single+player&amp;source=Deep+Dot+Web+-+Meme+and+News+From+the+Other+side+of+the+Web&amp;summary=%26nbsp%3B%0D%0A%0D%0ASingle+player+was+supposed+to+be+a+component+whereby+we+can+play+the+game+however+we+want+to.+Growing+up+with+siblings%2C+it+was+never+that+way.+I+would+end+up+being+influenced+by+them+while+I+was+playing+and+then+finished+the+game+not+re" title="Share this on LinkedIn" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="LinkedIn" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -693px; border:0;"/></a></li>
+    
+<li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.deepdotweb.com%2F2013%2F11%2F23%2Fwho-said-it-was-single-player%2F&amp;title=Who+said+it+was+single+player" title="Submit this to StumbleUpon" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="StumbleUpon" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1287px; border:0;"/></a></li>
+    
+<li><a href="http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/" onclick="addBookmark(event);" title="Add to favorites" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Add to favorites" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -0px; border:0;"/></a></li>
+    
+<li><a href="http://www.cloudflare.com/email-protection#7e410a1143580d0b1c141b1d0a43291611550d1f171a55170a55091f0d550d171019121b550e121f071b0c581c111a07435b4c48101c0d0e5b4d3c5b4e3a5b4e3f5bX0D%0ASingle+player+was+supposed+to+be+a+component+whereby+we+can+play+the+game+however+we+want+to.+Growing+up+with+siblings%2C+it+was+never+that+way.+I+would+end+up+being+influenced+by+them+while+I+was+playing+and+then+finished+the+game+not+re%20-%20http://www.deepdotweb.com/2013/11/23/who-said-it-was-single-player/" title="Email this" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Email" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -297px; border:0;"/></a></li>
+    
+<li><a href="http://www.deepdotweb.com/feed/rss/" title="Subscribe to RSS" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="RSS" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1221px; border:0;"/></a></li>
+</ul>
+<div class="wp-socializer-clearer"></div></div>
+<!-- End WP Socializer - Social Buttons - Output -->
     
     
-    </div><!-- .post-inner -->
-</article><!-- .post-listing -->
+    
+<span style="display:none"><a href="http://www.deepdotweb.com/tag/player/" rel="tag">player</a> <a href="http://www.deepdotweb.com/tag/single/" rel="tag">single</a></span>				
+Updated2013-11-23</span>
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="http://www.deepdotweb.com/author/chrisk/" title="Posts by Chris K." rel="author">Chris K.</a></strong></div>
+    
+    
+    
 

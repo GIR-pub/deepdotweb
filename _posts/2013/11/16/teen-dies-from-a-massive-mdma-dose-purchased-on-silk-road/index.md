@@ -1,31 +1,32 @@
 ---
-Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road
+title: Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road
 ---
-<article class="post-listing post-1362 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dies tag-dose tag-massive tag-mdma tag-purchased tag-road tag-silk tag-teen">
-    <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    <span>November 16, 2013</span>
-    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-    <span><a href="https://www.deepdotweb.com/2013/11/16/teen-dies-from-a-massive-mdma-dose-purchased-on-silk-road/#comments">9 Comments</a></span>
-    </p>
-    <div class="clear"></div>
-    <div class="entry">
-    <p>As it was published by a few news sources on the UK such as the <a href="http://www.dailymail.co.uk/news/article-2507675/Patrick-McMullen-teen-died-drugs-overdose-friends-listened-Skype.html">Daily Mail</a> and <a href="http://metro.co.uk/2013/11/14/a-tragedy-of-our-times-teen-dies-while-on-skype-after-buying-drugs-from-silk-road-4187879/">Metro</a>:</p>
-    <p>Quote:</p>
-    <p><em><span id="ext-gen186">A teenager died of a drugs overdose in his bedroom as friends listened helplessly online over Skype, an inquest heard.</span></em></p>
-    <p><em>Patrick McMullen, who hoped to study at Cambridge, had boasted of buying drugs from notorious illicit website Silk Road.</em></p>
-    <p id="ext-gen185"><em><span id="ext-gen184">The 17-year-old took <strong>500mg of ecstasy and three LSD</strong> tablets while his parents were out for the day.<br />
-    </span></em></p>
-    <p><em>Then he went online to chat with friends on internet call service Skype.</em></p>
-    <p><em><span id="ext-gen187">One of them, Jack Salisbury, told the inquest Patrick had boasted of taking ecstasy and LSD, and taking ketamine that he <strong>purchased on Silk Road</strong> – where users can obtain anything from drugs to fake passports.</span></em></p>
-    <p>And:</p>
-    <p><em>The 17-year-old, who had also spoken of taking ketamine bought from notorious underground website <strong>Silk Road</strong>, was heard ‘banging around’ and then fell silent.</em></p>
-    <p>Obviously its hard to tell so far from this information if the cause of death was a &#8220;bad batch&#8221; of the MDMA, some pre existing disease, results of over heating, not drinking or some sort of acute  serotonin syndrome  &#8211; As we know deaths from MDMA are not a common thing to happen, but what we can say for sure is that 500mg of MDMA (assuming its pure mdma) and 3 Tabs of LSD is a massive dose &#8211; and surely a bad behavior originated in lack of education about the substances that he was ingesting.  This of course could have been avoided with prior research, and purity tests &#8211; Things that were much more accessible without the stupid ban on drugs &#8211; whose disastrous results we can see in many cases such as this one, which were easily avoided if the drug trade was not exclusively in the hands of black market traders, but instead were sold in a controlled and clean manner with proper usage instructions clear warnings &#8211; like any medication.</p>
-    <p>We express our deepest sorrow for another loss cause by the war on drugs.</p>
-    </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dies/" rel="tag">dies</a> <a href="https://www.deepdotweb.com/tag/dose/" rel="tag">dose</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a></span> <span style="display:none" class="updated">2013-11-16</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-    </div>
+1362 category-deepdot-news category-news-updates tag-dies tag-dose tag-massive tag-mdma tag-purchased tag-road tag-silk tag-teen">
+
+<p class="post-meta">
+<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>November 16, 2013</span>
+<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+<span><a href="https://www.deepdotweb.com/2013/11/16/teen-dies-from-a-massive-mdma-dose-purchased-on-silk-road/#comments">9 Comments</a></span>
+</p>
+<div class="clear"></div>
+<div class="entry">
+<p>As it was published by a few news sources on the UK such as the <a href="http://www.dailymail.co.uk/news/article-2507675/Patrick-McMullen-teen-died-drugs-overdose-friends-listened-Skype.html">Daily Mail</a> and <a href="http://metro.co.uk/2013/11/14/a-tragedy-of-our-times-teen-dies-while-on-skype-after-buying-drugs-from-silk-road-4187879/">Metro</a>:</p>
+<p>Quote:</p>
+<p><em><span id="ext-gen186">A teenager died of a drugs overdose in his bedroom as friends listened helplessly online over Skype, an inquest heard.</span></em></p>
+<p><em>Patrick McMullen, who hoped to study at Cambridge, had boasted of buying drugs from notorious illicit website Silk Road.</em></p>
+<p id="ext-gen185"><em><span id="ext-gen184">The 17-year-old took <strong>500mg of ecstasy and three LSD</strong> tablets while his parents were out for the day.<br />
+</span></em></p>
+<p><em>Then he went online to chat with friends on internet call service Skype.</em></p>
+<p><em><span id="ext-gen187">One of them, Jack Salisbury, told the inquest Patrick had boasted of taking ecstasy and LSD, and taking ketamine that he <strong>purchased on Silk Road</strong> – where users can obtain anything from drugs to fake passports.</span></em></p>
+<p>And:</p>
+<p><em>The 17-year-old, who had also spoken of taking ketamine bought from notorious underground website <strong>Silk Road</strong>, was heard ‘banging around’ and then fell silent.</em></p>
+<p>Obviously its hard to tell so far from this information if the cause of death was a &#8220;bad batch&#8221; of the MDMA, some pre existing disease, results of over heating, not drinking or some sort of acute  serotonin syndrome  &#8211; As we know deaths from MDMA are not a common thing to happen, but what we can say for sure is that 500mg of MDMA (assuming its pure mdma) and 3 Tabs of LSD is a massive dose &#8211; and surely a bad behavior originated in lack of education about the substances that he was ingesting.  This of course could have been avoided with prior research, and purity tests &#8211; Things that were much more accessible without the stupid ban on drugs &#8211; whose disastrous results we can see in many cases such as this one, which were easily avoided if the drug trade was not exclusively in the hands of black market traders, but instead were sold in a controlled and clean manner with proper usage instructions clear warnings &#8211; like any medication.</p>
+<p>We express our deepest sorrow for another loss cause by the war on drugs.</p>
+</div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/dies/" rel="tag">dies</a> <a href="https://www.deepdotweb.com/tag/dose/" rel="tag">dose</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a></span> 
+Updated2013-11-16</span>
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+</div>
 </article>
 
