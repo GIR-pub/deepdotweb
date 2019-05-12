@@ -1,7 +1,7 @@
 ---
 title: Go Inside the Cave Charlie!
 ---
-post-1688 tag-candy-mountain tag-charlie tag-funny-meme
+1688 tag-candy-mountain tag-charlie tag-funny-meme
     
 
     

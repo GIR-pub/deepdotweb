@@ -1,7 +1,7 @@
 ---
 title: Gender Labelling
 ---
-post-2399 tag-gender tag-labelling post-listing tie_video">
+2399 tag-gender tag-labelling post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/kOjNcZvwjxI?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 

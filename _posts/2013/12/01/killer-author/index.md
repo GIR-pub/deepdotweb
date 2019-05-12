@@ -1,7 +1,7 @@
 ---
 title: Killer Author
 ---
-post-2079 tag-author tag-killer
+2079 tag-author tag-killer
     
 
     

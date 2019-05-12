@@ -1,7 +1,7 @@
 ---
 title: A Bad Tattoo
 ---
-post-1731 tag-bad tag-tattoo
+1731 tag-bad tag-tattoo
     
 
     

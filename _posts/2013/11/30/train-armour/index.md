@@ -1,7 +1,7 @@
 ---
 title: Train Armour
 ---
-post-1983 tag-armour tag-train
+1983 tag-armour tag-train
 
 <p class="post-meta">
 <span>Posted by: <a href="http://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>

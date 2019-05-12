@@ -1,7 +1,7 @@
 ---
 title: Harry Potter and Obama the Hedgehog
 ---
-post-2107 tag-harry tag-hedgehog tag-obama tag-potter
+2107 tag-harry tag-hedgehog tag-obama tag-potter
     
 
     

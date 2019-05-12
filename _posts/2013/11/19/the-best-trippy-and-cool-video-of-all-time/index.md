@@ -1,7 +1,7 @@
 ---
 title: The best trippy and cool video of all time!
 ---
-post-1505 tag-cool tag-cute tag-funny tag-trippy post-listing tie_video">
+1505 tag-cool tag-cute tag-funny tag-trippy post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/JBZ_4xjipUY?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 

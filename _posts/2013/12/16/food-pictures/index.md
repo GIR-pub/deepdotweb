@@ -1,7 +1,7 @@
 ---
 title: Food Pictures
 ---
-post-2200 tag-food tag-pictures
+2200 tag-food tag-pictures
     
 
     

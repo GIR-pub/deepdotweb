@@ -1,7 +1,7 @@
 ---
 title: Being Intelligent
 ---
-post-1955 tag-intelligent
+1955 tag-intelligent
     
 
     

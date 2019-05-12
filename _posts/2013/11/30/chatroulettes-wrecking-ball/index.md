@@ -1,7 +1,7 @@
 ---
 title: Chatroulette&#8217;s Wrecking Ball
 ---
-post-1999 tag-ball tag-chatroulettes tag-wrecking post-listing tie_video">
+1999 tag-ball tag-chatroulettes tag-wrecking post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/W6DmHGYy_xk?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

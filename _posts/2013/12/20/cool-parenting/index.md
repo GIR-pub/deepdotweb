@@ -1,7 +1,7 @@
 ---
 title: Cool Parenting
 ---
-post-2315 tag-cool tag-parenting post-listing tie_video">
+2315 tag-cool tag-parenting post-listing tie_video">
 <div class="single-post-video">
 <iframe width="507" height="380" src="http://www.youtube.com/embed/NBUhV4seFHA?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

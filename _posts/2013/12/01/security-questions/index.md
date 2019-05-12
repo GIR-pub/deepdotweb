@@ -1,7 +1,7 @@
 ---
 title: Security Questions
 ---
-post-2006 tag-questions tag-security post-listing tie_video">
+2006 tag-questions tag-security post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/tMEjpXJZgIA?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

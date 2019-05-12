@@ -1,7 +1,7 @@
 ---
 title: Dogs &amp; Cats
 ---
-post-1761 tag-amp tag-cats tag-dogs
+1761 tag-amp tag-cats tag-dogs
 
 <p class="post-meta">
 <span>Posted by: <a href="http://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>

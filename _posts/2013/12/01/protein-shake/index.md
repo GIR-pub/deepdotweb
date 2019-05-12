@@ -1,7 +1,7 @@
 ---
 title: Protein Shake
 ---
-post-2020 tag-protein tag-shake post-listing tie_video">
+2020 tag-protein tag-shake post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/5JTsFzk0x0A?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

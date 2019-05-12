@@ -1,7 +1,7 @@
 ---
 title: Japanese Game Shows
 ---
-post-1458 tag-game tag-japanese tag-shows post-listing tie_video">
+1458 tag-game tag-japanese tag-shows post-listing tie_video">
 <div class="single-post-video">
 <iframe width="507" height="380" src="http://www.youtube.com/embed/XFs8fzimWFE?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 

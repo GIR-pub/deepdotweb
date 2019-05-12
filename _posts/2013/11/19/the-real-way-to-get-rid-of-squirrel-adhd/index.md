@@ -1,7 +1,7 @@
 ---
 title: The real way to get rid of Squirrel ADHD!
 ---
-post-1501 tag-funny tag-squirrel tag-stoned
+1501 tag-funny tag-squirrel tag-stoned
 
 <p class="post-meta">
 <span>Posted by: <a href="http://www.deepdotweb.com/author/joyceg/" title="">Joyce G. </a></span>

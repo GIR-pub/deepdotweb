@@ -1,7 +1,7 @@
 ---
 title: Foriegn commercials can be so great!
 ---
-post-1516 tag-funny tag-kids tag-parenting post-listing tie_video">
+1516 tag-funny tag-kids tag-parenting post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/Fitxofd7kOA?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

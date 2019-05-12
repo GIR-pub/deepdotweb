@@ -1,7 +1,7 @@
 ---
 title: What a stoner sees when he thinks of a cat chasing a mouse!
 ---
-post-1494 tag-cat-and-mouse tag-realistic tag-stoner post-listing tie_thumb">
+1494 tag-cat-and-mouse tag-realistic tag-stoner post-listing tie_thumb">
 <div class="single-post-thumb">
 <img width="660" height="330" src="http://www.deepdotweb.com/wp-content/uploads/2013/11/edited-cat-earth-and-mouse-moon-660x330.jpg" class="attachment-slider" alt="What a stoner sees when he thinks of a cat chasing a mouse!" title="What a stoner sees when he thinks of a cat chasing a mouse!" />		</div>
     

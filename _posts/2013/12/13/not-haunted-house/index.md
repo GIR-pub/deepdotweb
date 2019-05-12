@@ -1,7 +1,7 @@
 ---
 title: Not Haunted House
 ---
-post-2172 tag-haunted tag-house
+2172 tag-haunted tag-house
     
 
     

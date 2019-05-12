@@ -1,7 +1,7 @@
 ---
 title: The Man Look
 ---
-post-1764 tag-man
+1764 tag-man
     
 
     

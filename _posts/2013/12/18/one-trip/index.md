@@ -1,7 +1,7 @@
 ---
 title: One trip
 ---
-post-2280 tag-trip post-listing tie_video">
+2280 tag-trip post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/d-HkwSO_xpU?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

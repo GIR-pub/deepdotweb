@@ -1,7 +1,7 @@
 ---
 title: Magnetic Ball
 ---
-post-1986 tag-ball tag-magnetic
+1986 tag-ball tag-magnetic
     
 
     

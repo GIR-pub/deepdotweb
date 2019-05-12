@@ -1,7 +1,7 @@
 ---
 title: Owning a real lightsaber
 ---
-post-1952 tag-lightsaber tag-owning tag-real
+1952 tag-lightsaber tag-owning tag-real
     
 
     

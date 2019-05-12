@@ -1,7 +1,7 @@
 ---
 title: Facebook Tagged Photos
 ---
-post-1434 tag-facebook tag-photos tag-tagged
+1434 tag-facebook tag-photos tag-tagged
     
 
     

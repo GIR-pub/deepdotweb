@@ -1,7 +1,7 @@
 ---
 title: Are we the bad guys?
 ---
-post-826 tag-bad tag-guys
+826 tag-bad tag-guys
     
 
     

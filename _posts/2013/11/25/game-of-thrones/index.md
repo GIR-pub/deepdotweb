@@ -1,7 +1,7 @@
 ---
 title: Game of Thrones
 ---
-post-1795 tag-game tag-thrones
+1795 tag-game tag-thrones
     
 
     

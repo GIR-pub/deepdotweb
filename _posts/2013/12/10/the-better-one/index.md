@@ -1,7 +1,7 @@
 ---
 title: The Better One
 ---
-post-2123
+2123
     
 
     

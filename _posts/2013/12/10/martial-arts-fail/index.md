@@ -1,7 +1,7 @@
 ---
 title: Martial Arts Fail
 ---
-post-2152 tag-arts tag-fail tag-martial post-listing tie_video">
+2152 tag-arts tag-fail tag-martial post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/ZcOFPgB-Mf4?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 

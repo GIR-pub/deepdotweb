@@ -1,7 +1,7 @@
 ---
 title: Message from adults to kids
 ---
-post-1716 tag-adults tag-kids tag-message post-listing tie_video">
+1716 tag-adults tag-kids tag-message post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/aMOmOHTsT2k?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

@@ -1,7 +1,7 @@
 ---
 title: Catching a Predator
 ---
-post-2396 tag-catching tag-predator post-listing tie_video">
+2396 tag-catching tag-predator post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/7iqG7IhWTWU?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 

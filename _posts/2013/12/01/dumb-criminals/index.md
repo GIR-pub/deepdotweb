@@ -1,7 +1,7 @@
 ---
 title: Dumb Criminals
 ---
-post-2025 tag-criminals tag-dumb post-listing tie_video">
+2025 tag-criminals tag-dumb post-listing tie_video">
 <div class="single-post-video">
 <iframe width="507" height="380" src="http://www.youtube.com/embed/sSUXTFceilo?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

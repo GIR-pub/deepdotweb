@@ -1,5 +1,5 @@
 ---
-Post-Auction Bitcoin Price Analysis
+Auction Bitcoin Price Analysis
 ---
 <article class="post-listing post-6379 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-analysis tag-bitcoin tag-postauction tag-price">
     <div class="post-inner">

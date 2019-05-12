@@ -1,7 +1,7 @@
 ---
 title: Salary
 ---
-post-2360 tag-salary
+2360 tag-salary
     
 
     

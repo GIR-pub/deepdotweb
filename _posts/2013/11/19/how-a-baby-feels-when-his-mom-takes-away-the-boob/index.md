@@ -1,7 +1,7 @@
 ---
 title: How a baby feels when his mom takes away the boob!
 ---
-post-1497 tag-baby tag-boob tag-funny
+1497 tag-baby tag-boob tag-funny
     
 
     

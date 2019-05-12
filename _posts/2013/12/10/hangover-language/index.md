@@ -1,7 +1,7 @@
 ---
 title: Hangover Language
 ---
-post-2136 tag-hangover tag-language post-listing tie_video">
+2136 tag-hangover tag-language post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/M4s3RtQOMHk?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

@@ -1,7 +1,7 @@
 ---
 title: Telekinetic Coffee Shop Surprise
 ---
-post-1972 tag-coffee tag-shop tag-surprise tag-telekinetic post-listing tie_video">
+1972 tag-coffee tag-shop tag-surprise tag-telekinetic post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/VlOxlSOr3_M?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

@@ -1,7 +1,7 @@
 ---
 title: Social Media Experiment by Jack Vale
 ---
-post-2071 tag-experiment tag-jack tag-media tag-social tag-vale post-listing tie_video">
+2071 tag-experiment tag-jack tag-media tag-social tag-vale post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/5P_0s1TYpJU?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

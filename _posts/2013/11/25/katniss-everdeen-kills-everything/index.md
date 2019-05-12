@@ -1,7 +1,7 @@
 ---
 title: Katniss Everdeen Kills Everything
 ---
-post-1800 tag-everdeen tag-katniss tag-kills post-listing tie_video">
+1800 tag-everdeen tag-katniss tag-kills post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/r3CuL7N82-k?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

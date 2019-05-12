@@ -1,7 +1,7 @@
 ---
 title: The Best Motivation
 ---
-post-1783 tag-motivation
+1783 tag-motivation
     
 
     

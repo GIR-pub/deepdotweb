@@ -1,7 +1,7 @@
 ---
 title: Anniversary Prank backfires
 ---
-post-1773 tag-anniversary tag-backfires tag-prank post-listing tie_video">
+1773 tag-anniversary tag-backfires tag-prank post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/R7AXBOT8KzU?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

@@ -1,7 +1,7 @@
 ---
 title: MEME 44691388160026
 ---
-post-2980 category-meme-images tag-generator tag-meme
+2980 category-meme-images tag-generator tag-meme
 
 <p class="post-meta">
 <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

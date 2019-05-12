@@ -1,7 +1,7 @@
 ---
 title: Toothpaste
 ---
-post-1975 tag-toothpaste
+1975 tag-toothpaste
     
 
     

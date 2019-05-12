@@ -1,7 +1,7 @@
 ---
 title: Just for fun
 ---
-post-2962 category-meme-images tag-generator tag-meme post-listing tie_thumb">
+2962 category-meme-images tag-generator tag-meme post-listing tie_thumb">
 <div class="single-post-thumb">
 <img width="400" height="330" src="http://www.deepdotweb.com/wp-content/uploads/2013/12/205513879910831-400x330.jpg" class="attachment-slider" alt="Just for fun" title="Just for fun" />		</div>
     

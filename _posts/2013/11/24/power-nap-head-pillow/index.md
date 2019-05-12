@@ -1,7 +1,7 @@
 ---
 title: Power Nap Head Pillow
 ---
-post-1755 tag-nap tag-pillow tag-power
+1755 tag-nap tag-pillow tag-power
     
 
     

@@ -1,7 +1,7 @@
 ---
 title: Foreign Tattoos
 ---
-post-1963 tag-foreign tag-tattoos
+1963 tag-foreign tag-tattoos
 
 <p class="post-meta">
 <span>Posted by: <a href="http://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>

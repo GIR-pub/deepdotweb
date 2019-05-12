@@ -1,7 +1,7 @@
 ---
 title: The Day Barney Died
 ---
-post-1993 tag-barney tag-day tag-died post-listing tie_video">
+1993 tag-barney tag-day tag-died post-listing tie_video">
 <div class="single-post-video">
 <iframe width="507" height="380" src="http://www.youtube.com/embed/epgXuMB1sF8?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

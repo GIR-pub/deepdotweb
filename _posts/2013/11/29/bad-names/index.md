@@ -1,7 +1,7 @@
 ---
 title: Bad Names
 ---
-post-1891 tag-bad tag-names
+1891 tag-bad tag-names
     
 
     

@@ -1,7 +1,7 @@
 ---
 title: Alone or not?
 ---
-post-1947
+1947
     
 
     

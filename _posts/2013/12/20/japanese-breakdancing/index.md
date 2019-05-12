@@ -1,7 +1,7 @@
 ---
 title: Japanese Breakdancing
 ---
-post-2312 tag-breakdancing tag-japanese post-listing tie_video">
+2312 tag-breakdancing tag-japanese post-listing tie_video">
 <div class="single-post-video">
 <iframe width="507" height="380" src="http://www.youtube.com/embed/tm-o2PNLaqE?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

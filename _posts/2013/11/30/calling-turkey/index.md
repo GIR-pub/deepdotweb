@@ -1,7 +1,7 @@
 ---
 title: Calling Turkey
 ---
-post-2003 tag-calling tag-turkey post-listing tie_video">
+2003 tag-calling tag-turkey post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/mYfDnc42wog?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

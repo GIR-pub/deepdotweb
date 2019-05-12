@@ -1,7 +1,7 @@
 ---
 title: Condom Size
 ---
-post-2390 tag-condom tag-size post-listing tie_video">
+2390 tag-condom tag-size post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/ROJy9TlhxtY?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

@@ -1,7 +1,7 @@
 ---
 title: Fat Cheetah plus Rolling = funny and good memories :)
 ---
-post-1510 tag-cheetah tag-fat tag-funny tag-good tag-memories tag-rolling post-listing tie_video">
+1510 tag-cheetah tag-fat tag-funny tag-good tag-memories tag-rolling post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/p6bKKbkvnVA?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

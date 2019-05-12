@@ -1,7 +1,7 @@
 ---
 title: The Letter B Prank
 ---
-post-1989 tag-letter tag-prank post-listing tie_video">
+1989 tag-letter tag-prank post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/gJuGKJaSyVU?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 

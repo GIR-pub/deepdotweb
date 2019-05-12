@@ -1,7 +1,7 @@
 ---
 title: How to draw a horse
 ---
-post-1474 tag-draw tag-horse
+1474 tag-draw tag-horse
     
 
     

@@ -1,7 +1,7 @@
 ---
 title: Tequila
 ---
-post-2097 tag-tequila
+2097 tag-tequila
     
 
     

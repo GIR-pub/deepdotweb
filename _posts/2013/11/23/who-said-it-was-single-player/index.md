@@ -1,7 +1,7 @@
 ---
 title: Who said it was single player
 ---
-post-1728 tag-player tag-single
+1728 tag-player tag-single
     
 
     

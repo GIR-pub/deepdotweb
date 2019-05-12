@@ -1,7 +1,7 @@
 ---
 title: How to choose a movie
 ---
-post-1455 tag-choose tag-movie
+1455 tag-choose tag-movie
     
 
     

@@ -1,7 +1,7 @@
 ---
 title: How to look normal
 ---
-post-1767 tag-normal
+1767 tag-normal
     
 
     

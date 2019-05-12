@@ -1,7 +1,7 @@
 ---
 title: What does the spleen do?
 ---
-post-2393 tag-spleen post-listing tie_video">
+2393 tag-spleen post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/aEi_4Cyx4Uw?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

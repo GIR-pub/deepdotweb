@@ -1,7 +1,7 @@
 ---
 title: Guide to a good handshake
 ---
-post-1996 tag-good tag-guide tag-handshake post-listing tie_video">
+1996 tag-good tag-guide tag-handshake post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/GQ-nmfmGoZg?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

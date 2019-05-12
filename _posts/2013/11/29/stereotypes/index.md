@@ -1,7 +1,7 @@
 ---
 title: Stereotypes
 ---
-post-1966 tag-stereotypes
+1966 tag-stereotypes
     
 
     

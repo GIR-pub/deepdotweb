@@ -1,7 +1,7 @@
 ---
 title: Pluto
 ---
-post-2127 tag-pluto
+2127 tag-pluto
     
 
     

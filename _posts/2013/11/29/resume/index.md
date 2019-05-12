@@ -1,7 +1,7 @@
 ---
 title: Resume
 ---
-post-1894 tag-resume
+1894 tag-resume
     
 
     

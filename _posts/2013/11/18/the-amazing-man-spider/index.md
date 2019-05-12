@@ -1,7 +1,7 @@
 ---
 title: The Amazing Man-Spider
 ---
-post-1428 tag-amazing tag-manspider
+1428 tag-amazing tag-manspider
     
 
     

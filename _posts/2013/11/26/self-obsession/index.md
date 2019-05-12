@@ -1,7 +1,7 @@
 ---
 title: Self Obsession
 ---
-post-1862 tag-obsession
+1862 tag-obsession
     
 
     

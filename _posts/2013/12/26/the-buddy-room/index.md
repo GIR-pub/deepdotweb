@@ -1,7 +1,7 @@
 ---
 title: The Buddy Room
 ---
-post-2342 tag-buddy tag-room
+2342 tag-buddy tag-room
     
 
     

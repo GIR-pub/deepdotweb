@@ -1,7 +1,7 @@
 ---
 title: Born just in time!
 ---
-post-1927 tag-born tag-time
+1927 tag-born tag-time
     
 
     

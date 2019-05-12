@@ -1,7 +1,7 @@
 ---
 title: Difference between North &amp; South Korea
 ---
-post-1471 tag-amp tag-difference tag-korea tag-north tag-south
+1471 tag-amp tag-difference tag-korea tag-north tag-south
     
 
     

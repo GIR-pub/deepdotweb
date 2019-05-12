@@ -1,7 +1,7 @@
 ---
 title: Discounts
 ---
-post-2254 tag-discounts
+2254 tag-discounts
     
 
     

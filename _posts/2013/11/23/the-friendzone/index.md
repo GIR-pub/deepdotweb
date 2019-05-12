@@ -1,7 +1,7 @@
 ---
 title: The Friendzone
 ---
-post-1744 tag-friendzone post-listing tie_video">
+1744 tag-friendzone post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/tkvri2N0AFU?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

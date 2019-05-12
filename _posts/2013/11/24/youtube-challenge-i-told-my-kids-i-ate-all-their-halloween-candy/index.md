@@ -1,7 +1,7 @@
 ---
 title: YouTube Challenge &#8211; I Told My Kids I Ate All Their Halloween Candy
 ---
-post-1770 tag-ate tag-candy tag-challenge tag-halloween tag-kids tag-told tag-youtube post-listing tie_video">
+1770 tag-ate tag-candy tag-challenge tag-halloween tag-kids tag-told tag-youtube post-listing tie_video">
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/RK-oQfFToVg?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

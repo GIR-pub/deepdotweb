@@ -1,7 +1,7 @@
 ---
 title: The cutest and silliest baby ever!
 ---
-post-1512 tag-baby tag-cute tag-funny post-listing tie_video">
+1512 tag-baby tag-cute tag-funny post-listing tie_video">
 <div class="single-post-video">
 <iframe width="507" height="380" src="http://www.youtube.com/embed/RP4abiHdQpc?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     
