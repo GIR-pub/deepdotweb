@@ -1,0 +1,30 @@
+---
+German Special Forces Arrest Darknet Amphetamine Vendor
+---
+<article class="post-listing post-15992 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-amphetamine tag-arrest tag-darknet tag-forces tag-german tag-special tag-vendor">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>October 22, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/10/22/german-special-forces-arrest-darknet-amphetamine-vendor/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>On October 14, 2016, German Special forces prepared for an early morning raid. Law enforcement followed a “drug trail” that led directly to a house in Dinslaken. An initial investigation revealed the house’s resident was a darknet vendor.</p>
+    <p>According to a spokesman from the prosecutor&#8217;s office, Special Task Force had been called in based on a potential firearm threat. Investigators believed the suspect to be armed and dangerous. After the raid, a police spokesman from Konstanz stated that the raid and subsequent arrest were peaceful. The suspect was detained without resistance.</p>
+    <p><img class="wp-image-15993 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/police-jpg.jpeg" alt="police.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/police-jpg.jpeg 634w, https://www.deepdotweb.com/wp-content/uploads/2016/10/police-jpg-300x185.jpeg 300w" sizes="(max-width: 634px) 100vw, 634px"/></p>
+    <p>The suspect, a 29-year-old man was under investigation for large scale drug trafficking via the deepweb. He operated on the deepweb under various aliases and sold mainly amphetamines, ecstasy, and LSD. Sources wrote that police followed a <a href="http://www.rp-online.de/nrw/staedte/dinslaken/drogenhandel-im-dunklen-netz-aid-1.6325209">trail from Lake Constance (Bodensee) all the way to Dinslaken</a>. The trail consisted of suspects in drug cases, photographic evidence, postal records.</p>
+    <p>In June, another <a href="http://www.suedkurier.de/region/kreis-konstanz/konstanz/Drogenhandel-ueber-das-Darknet-Vier-Jahre-Haft-fuer-29-jaehrigen-Konstanzer;art372448,8784694">man was arrested</a> for his role in a deepweb drug organization. The man resided in Konstanz and has since been sentenced to four years in prison. At the time of his arrest, he possessed 7 BTC, 250 LSD tabs, 5kg amphetamine, and 100g of hashish. Court documents revealed that the man originally started as a low level street dealer but eventually moved to sell on the deepweb. Two accomplices were arrested with with him. Both played a role in the organization but only drove packages to various postal offices. They were let off on probation.</p>
+    <p>Both aforementioned accomplices had been pointed out as connections between the two arrests, sources state. Prosecutors claimed they played the same role.</p>
+    <p>According to Andreas Mathy, a spokesman for the public prosecutor&#8217;s office near Lake Constance, the October 4 arrest was major. He explained that it was another arrest in part of a large darknet drug trafficking organization. Furthermore, he said that police had their sights set on darknet crimes for some time now, as well as this organization.</p>
+    <p>Mathy’s claims mirror those <a href="https://www.deepdotweb.com/2016/08/25/german-dnm-vendor-arrested-selling-glock-munich-shooter/">made by several law German officials</a> following the Munich shooting. Holger Muench, head of Germany’s Federal Police (BKA), told journalists that “We [the BKA] see that the dark net is a growing trading place and therefore we need to prioritize our investigations here.”</p>
+    <p>Along with the 29-year-old arrested in October, police picked up several accomplices. Names and aliases were not released. Mathy told reporters that the following investigation would be a lengthy and expensive process.</p>
+    <p>Mathy explained that all detainees need to be intensively interrogated. All electronic media associated with the case will likewise need to be examined. The 29-year-old was arrested with several unspecified electronic devices. This too was the case for the arrested accomplices. No timeline or “forecast” for this cases closure was given. No additional information on the accomplices was released by Mathy or any other official.</p>
+    <p>The investigation into the aforementioned darknet drug organization is ongoing. Law enforcement has chosen not to release any additional information until the investigation is complete. They are being cautious not to disrupt any ongoing procedures.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a> <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forces/" rel="tag">forces</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/special/" rel="tag">special</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-10-22</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

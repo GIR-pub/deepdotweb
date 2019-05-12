@@ -1,0 +1,30 @@
+---
+New York Man Sentenced to Prison After Buying 83 Stolen Credit Cards from the Darknet
+---
+<article class="post-listing post-16543 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4551 tag-buying tag-cards tag-credit tag-darknet tag-man tag-prison tag-sentenced tag-stolen tag-york">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>November 23, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/11/23/new-york-man-sentenced-prison-buying-83-stolen-credit-cards-darknet/#comments">3 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>A 26-year-old Yonkers man was sentenced to serve one to three years in prison for identity theft involving credit cards. Police arrested him and discovered more than 80 stolen credit cards, various fake IDs, and receipts for expensive items.</p>
+    <p>Acting District Attorney James A. McCarty announced on November 15 that Gabriel Young, 26, pleaded guilty Oct. 11, 2016, to second-degree criminal possession of a forged instrument. He was sentenced to prison time for second-degree <a href="http://www.lohud.com/story/news/crime/2016/11/15/yonkers-man-going-prison-fake-credit-card-scheme/93941252/">criminal possession of a forged Instrument</a>.</p>
+    <p>Young’s accomplice and co-defendant, Omar Hidalgo, pleaded guilty on Sept. 8 to second-degree criminal possession of a forged Instrument and is scheduled to be sentenced on Nov. 29.</p>
+    <p>The pair were arrested after Hildago entered a Best Buy and attempted to buy an iPad with a stolen credit card. He carried, and used, a fake ID with his face on the license but used the name “Daniel Lopez.” Best Buy employees were suspicious and brought the ID and credit card to the police who routinely surveyed the store.</p>
+    <p><img class="wp-image-16544 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/11/unnamed-jpg.jpeg" alt="unnamed.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/11/unnamed-jpg.jpeg 835w, https://www.deepdotweb.com/wp-content/uploads/2016/11/unnamed-jpg-300x225.jpeg 300w" sizes="(max-width: 835px) 100vw, 835px" /></p>
+    <p>Hidalgo managed to leave the Best Buy as this was happening. He ran across the parking lot to meet up with Young. The two met at the rental vehicle where Young was loading it with bags of food from a nearby Smash Burger. Police, at this point, had already exited the Best Buy and watched as the two entered the vehicle. Officers were able to make it to the car before the men had a chance to escape.</p>
+    <p>Police officers pulled both men out and searched the car. Hidalgo was removed from the vehicle and police found more forged licenses and several forged credit cards in his wallet. Young was pulled out of the car as well, from the driver&#8217;s seat. They found a cellphone, four forged credit cards, and cash stashed between the driver&#8217;s seat and console.</p>
+    <p>The car was impounded but not before police lifted the floor mats on the passenger side and found 83 forged credit cards, along with a forged Connecticut license. The car was notably filled with receipts, some of which proved the men had purchased multiple PlayStation 4 game systems, &#8220;dozens&#8221; of expensive gift cards, cell phones and a laptop. One receipt was for the food Young had, moments prior, ordered at Smash Burger.</p>
+    <p>Investigators obtained a warrant to search any electronic devices that belonged to the men. They found numerous credit card dumps that consisted of hundreds to thousands of stolen credit card numbers. McCarty, the district attorney, said that investigators discovered that the men purchased the <a href="https://www.deepdotweb.com/2016/06/27/life-stolen-credit-card/">credit card numbers from the darknet</a>. The fake IDs, although not announced, may have come from the darknet as well; many marketplaces, especially the ones offering stolen credit cards, offer entire identity kits as well. <a href="https://www.deepdotweb.com/2016/11/07/coburg-man-arrested-creating-selling-fake-ids-darknet/">Fake IDs, passports, and credit cards</a> are not often purchased alone, according to a study conducted by the EU.</p>
+    <p>Both men were arrested in the day of the incident, December 1, 2015, and have been in custody since. Young was remanded to the New York Department of Corrections to begin serving his prison time of one to three years. Hidalgo will be sentenced later this month.</p>
+    <p>Hidalgo, having pleaded guilty on September 8, 2016, for the same second-degree criminal possession of a forged instrument, is expected to receive the same sentencing.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/83/" rel="tag">83</a> <a href="https://www.deepdotweb.com/tag/buying/" rel="tag">buying</a> <a href="https://www.deepdotweb.com/tag/cards/" rel="tag">cards</a> <a href="https://www.deepdotweb.com/tag/credit/" rel="tag">credit</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/york/" rel="tag">york</a></span> <span style="display:none" class="updated">2016-11-23</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

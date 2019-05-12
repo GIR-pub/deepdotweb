@@ -1,0 +1,68 @@
+---
+Congrats: Blake Benthall AKA &#8220;Defcon&#8221; (Silk Road 2 Admin) Got Engaged
+---
+<article class="post-listing post-9964 post type-post status-publish format-standard hentry category-news tag-admin tag-aka tag-benthall tag-blake tag-congrats tag-defcon tag-engaged tag-road tag-silk">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+    <span>April 14, 2015</span>
+    <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
+    <span><a href="https://www.deepdotweb.com/2015/04/14/congrats-blake-benthall-aka-defcon-got-engaged/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <div class="wp-socializer-buttons clearfix">
+    <span class="wpsr-btn">
+    
+    <div class="fb-like" data-href="https://www.deepdotweb.com/2015/04/14/congrats-blake-benthall-aka-defcon-got-engaged/" data-share="false" data-layout="button_count" data-show-faces="0" data-action="like" data-colorscheme="light"></div>
+    
+    </span>
+    <span class="wpsr-btn">
+    
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-lang="en" data-url="https://www.deepdotweb.com/2015/04/14/congrats-blake-benthall-aka-defcon-got-engaged/" data-text="Congrats: Blake Benthall AKA &#8220;Defcon&#8221; (Silk Road 2 Admin) Got Engaged - "></a>
+    
+    </span>
+    <span class="wpsr-btn">
+    
+    <div class="g-plusone" data-size="medium" data-href="https://www.deepdotweb.com/2015/04/14/congrats-blake-benthall-aka-defcon-got-engaged/"></div>
+    
+    </span>
+    <span class="wpsr-btn">
+    
+    <script type="IN/Share" data-url="https://www.deepdotweb.com/2015/04/14/congrats-blake-benthall-aka-defcon-got-engaged/" data-counter="right"></script>
+    
+    </span>
+    </div><span class="wpsr_floatbts_anchor" data-offset="25"></span><p>Thanks @Defcunt for leaving us this comment:</p>
+    <blockquote><p>So where is Blake Benthall been since getting busted, and admitting to his involvment in SR2??</p>
+    <p>Well, apparently, as of Febuary 2015, he is engaged.</p>
+    <p>http://nicvargus.com/2015/02/05/stephie-mckay-surprise-surprise/</p>
+    <p>Stephie McKay is his girlfriend..</p>
+    <p>See where this guy says “Congrats, Stephie and Blake!”</p></blockquote>
+    <p>From her Facebook:<br/>
+    <a href="http://www.deepdotweb.com/wp-content/uploads/2015/04/defcon1.png"><img class="aligncenter  wp-image-9968" src="https://www.deepdotweb.com/wp-content/uploads/2015/04/defcon1.png" alt="defcon1" width="889" height="488" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/04/defcon1.png 1673w, https://www.deepdotweb.com/wp-content/uploads/2015/04/defcon1-300x165.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/04/defcon1-1024x562.png 1024w" sizes="(max-width: 889px) 100vw, 889px"/></a>His legal status is still unclear at this time &#8211; last time we checked it seemed that he was working on some deal with the prosecution, well,  at least he could have c<span id="result_box" class="short_text" lang="en"><span class="hps">onjugal visits</span></span>. Anyway, Congrats, the wedding could be paid with the <a title="Silk Road 2 Hacked, All Bitcoins Stolen – $2.7 Miliion" href="http://www.deepdotweb.com/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/">stolen Silk Road 2 BTC</a>.</p>
+    <p>Here are some photos for the wedding album with the curtsey of <a href="http://www.reddit.com/user/BlakeTheRat">/u/BlakeTheRat:</a></p>
+    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2015/04/71.jpg"><img class="aligncenter size-full wp-image-9972" src="https://www.deepdotweb.com/wp-content/uploads/2015/04/71.jpg" alt="7[1]" width="640" height="427" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/04/71.jpg 640w, https://www.deepdotweb.com/wp-content/uploads/2015/04/71-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px"/></a></p>
+    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2015/04/stephie-mckay1.jpg"><img class="aligncenter size-full wp-image-9973" src="https://www.deepdotweb.com/wp-content/uploads/2015/04/stephie-mckay1.jpg" alt="stephie-mckay[1]" width="780" height="450" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/04/stephie-mckay1.jpg 780w, https://www.deepdotweb.com/wp-content/uploads/2015/04/stephie-mckay1-300x173.jpg 300w" sizes="(max-width: 780px) 100vw, 780px"/></a></p>
+    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2015/04/blake-benthall-defcon1.jpg"><img class="aligncenter size-full wp-image-9974" src="https://www.deepdotweb.com/wp-content/uploads/2015/04/blake-benthall-defcon1.jpg" alt="blake-benthall-defcon[1]" width="1024" height="513" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/04/blake-benthall-defcon1.jpg 1024w, https://www.deepdotweb.com/wp-content/uploads/2015/04/blake-benthall-defcon1-300x150.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/04/blake-benthall-defcon1-660x330.jpg 660w, https://www.deepdotweb.com/wp-content/uploads/2015/04/blake-benthall-defcon1-995x498.jpg 995w" sizes="(max-width: 1024px) 100vw, 1024px"/></a></p>
+    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2015/04/4639b238de9111e2877122000a1fbc4f_71.jpg"><img class="aligncenter size-full wp-image-9975" src="https://www.deepdotweb.com/wp-content/uploads/2015/04/4639b238de9111e2877122000a1fbc4f_71.jpg" alt="4639b238de9111e2877122000a1fbc4f_7[1]" width="612" height="612" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/04/4639b238de9111e2877122000a1fbc4f_71.jpg 612w, https://www.deepdotweb.com/wp-content/uploads/2015/04/4639b238de9111e2877122000a1fbc4f_71-150x150.jpg 150w, https://www.deepdotweb.com/wp-content/uploads/2015/04/4639b238de9111e2877122000a1fbc4f_71-300x300.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/04/4639b238de9111e2877122000a1fbc4f_71-55x55.jpg 55w, https://www.deepdotweb.com/wp-content/uploads/2015/04/4639b238de9111e2877122000a1fbc4f_71-50x50.jpg 50w" sizes="(max-width: 612px) 100vw, 612px"/></a></p>
+    <h3>Share and Enjoy</h3>
+    
+    <div class="wp-socializer 32px">
+    <ul class="wp-socializer-opacity columns-no">
+    <li><a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F04%2F14%2Fcongrats-blake-benthall-aka-defcon-got-engaged%2F&amp;t=Congrats%3A+Blake+Benthall+AKA+%E2%80%9CDefcon%E2%80%9D+%28Silk+Road+2+Admin%29+Got+Engaged" title="Share this on Facebook" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Facebook" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -330px; border:0;"/></a></li>
+    <li><a href="http://twitter.com/home?status=Congrats%3A+Blake+Benthall+AKA+%E2%80%9CDefcon%E2%80%9D+%28Silk+Road+2+Admin%29+Got+Engaged%20-%20https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F04%2F14%2Fcongrats-blake-benthall-aka-defcon-got-engaged%2F%20" title="Tweet this !" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Twitter" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1386px; border:0;"/></a></li>
+    <li><a href="http://delicious.com/post?url=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F04%2F14%2Fcongrats-blake-benthall-aka-defcon-got-engaged%2F&amp;title=Congrats%3A+Blake+Benthall+AKA+%E2%80%9CDefcon%E2%80%9D+%28Silk+Road+2+Admin%29+Got+Engaged&amp;notes=Thanks+%40Defcunt+for+leaving+us+this+comment%3A%0D%0ASo+where+is+Blake+Benthall+been+since+getting+busted%2C+and+admitting+to+his+involvment+in+SR2%3F%3F%0D%0A%0D%0AWell%2C+apparently%2C+as+of+Febuary+2015%2C+he+is+engaged.%0D%0A%0D%0Ahttp%3A%2F%2Fnicvargus.com%2F2015%2F02%2F05%2Fstephie-mckay-surp" title="Post this on Delicious" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Delicious" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -132px; border:0;"/></a></li>
+    <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F04%2F14%2Fcongrats-blake-benthall-aka-defcon-got-engaged%2F&amp;title=Congrats%3A+Blake+Benthall+AKA+%E2%80%9CDefcon%E2%80%9D+%28Silk+Road+2+Admin%29+Got+Engaged&amp;source=Deep+Dot+Web+-+Surfacing+The+News+From+The+DeepWeb&amp;summary=Thanks+%40Defcunt+for+leaving+us+this+comment%3A%0D%0ASo+where+is+Blake+Benthall+been+since+getting+busted%2C+and+admitting+to+his+involvment+in+SR2%3F%3F%0D%0A%0D%0AWell%2C+apparently%2C+as+of+Febuary+2015%2C+he+is+engaged.%0D%0A%0D%0Ahttp%3A%2F%2Fnicvargus.com%2F2015%2F02%2F05%2Fstephie-mckay-surp" title="Share this on LinkedIn" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="LinkedIn" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -693px; border:0;"/></a></li>
+    <li><a href="http://www.stumbleupon.com/submit?url=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F04%2F14%2Fcongrats-blake-benthall-aka-defcon-got-engaged%2F&amp;title=Congrats%3A+Blake+Benthall+AKA+%E2%80%9CDefcon%E2%80%9D+%28Silk+Road+2+Admin%29+Got+Engaged" title="Submit this to StumbleUpon" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="StumbleUpon" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1287px; border:0;"/></a></li>
+    <li><a href="https://www.deepdotweb.com/2015/04/14/congrats-blake-benthall-aka-defcon-got-engaged/" onclick="addBookmark(event);" title="Add to favorites" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Add to favorites" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -0px; border:0;"/></a></li>
+    <li><a href="/cdn-cgi/l/email-protection#6a551e05574c191f08000f091e572905040d180b1e194f592b4128060b010f41280f041e020b0606412b212b414f2f584f525a4f53292e0f0c0905044f2f584f525aX%9D+%28Silk+Road+2+Admin%29+Got+Engaged&body=Thanks+%40Defcunt+for+leaving+us+this+comment%3A%0D%0ASo+where+is+Blake+Benthall+been+since+getting+busted%2C+and+admitting+to+his+involvment+in+SR2%3F%3F%0D%0A%0D%0AWell%2C+apparently%2C+as+of+Febuary+2015%2C+he+is+engaged.%0D%0A%0D%0Ahttp%3A%2F%2Fnicvargus.com%2F2015%2F02%2F05%2Fstephie-mckay-surp%20-%20https://www.deepdotweb.com/2015/04/14/congrats-blake-benthall-aka-defcon-got-engaged/" title="Email this" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Email" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -297px; border:0;"/></a></li>
+    <li><a href="https://www.deepdotweb.com/feed/rss/" title="Subscribe to RSS" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="RSS" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1221px; border:0;"/></a></li>
+    </ul>
+    <div class="wp-socializer-clearer"></div></div>
+    
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/aka/" rel="tag">aka</a> <a href="https://www.deepdotweb.com/tag/benthall/" rel="tag">benthall</a> <a href="https://www.deepdotweb.com/tag/blake/" rel="tag">blake</a> <a href="https://www.deepdotweb.com/tag/congrats/" rel="tag">congrats</a> <a href="https://www.deepdotweb.com/tag/defcon/" rel="tag">defcon</a> <a href="https://www.deepdotweb.com/tag/engaged/" rel="tag">engaged</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2015-04-14</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    </div>
+</article>
+

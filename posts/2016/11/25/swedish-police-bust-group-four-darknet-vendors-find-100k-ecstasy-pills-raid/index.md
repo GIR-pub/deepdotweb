@@ -1,0 +1,36 @@
+---
+Swedish Police Bust Group of Four Darknet Vendors, Find 100K Ecstasy Pills During Raid
+---
+<article class="post-listing post-16572 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-100k tag-bust tag-darknet tag-ecstasy tag-find tag-group tag-pills tag-police tag-raid tag-swedish tag-vendors">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>November 25, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/11/25/swedish-police-bust-group-four-darknet-vendors-find-100k-ecstasy-pills-raid/#comments">2 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>The Skaraborg District Court, on November 16, charged four individuals for the distribution of 15 types of drugs on the darknet. The indictment accused the group of selling nearly $500,000 worth of drugs—most of which came from ecstasy sales.</p>
+    <p>According the to indictment, the group, primarily the two men, had been selling on darknet marketplaces since 2013. One of the suspects, a 35-year-old man, became addicted to amphetamines in 2011. The lead prosecutor, Sofia Karlsson, said the 35-year-old also had a gambling addiction and both addictions lead the group to sell on the darknet.</p>
+    <p>The suspects were a 35-year-old man, a 25-year-old woman who was his live-in partner, a 30-year-old man, and finally a 29-year-old man. (Note: the age of the couple has been disputed; several news outlets reported both being one to two years younger. All ages in this article are pulled from communication with Karlsson, the lead prosecutor.) Only the 35-year-old and 30-year-old sold drugs at first. The woman did not enter the picture until 2015 when she moved in with her partner.</p>
+    <p>Police raided the couple’s apartment in Mariestad, Sweden, and <a href="http://mariestadstidningen.se/mariestad/2016/11/16/rekordstort-narkotikamal?refresh=true">discovered more than 100,000 ecstasy pills</a>. A total of 15 different types of drugs were found in the apartment—other than ecstasy—LSD and generic narcotics were the only drugs mentioned.</p>
+    <p><img class="wp-image-16573 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/11/2512607-jpg.jpeg" alt="2512607.jpg" width="919" height="612" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/11/2512607-jpg.jpeg 1140w, https://www.deepdotweb.com/wp-content/uploads/2016/11/2512607-jpg-300x200.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2016/11/2512607-jpg-1024x682.jpeg 1024w" sizes="(max-width: 919px) 100vw, 919px" /></p>
+    <p>The raid also yielded scales, vacuum sealers, ziploc bags, and stamps.</p>
+    <p>“In the beginning, we assumed that this was about a packer, distributor. But this is about a big seller. Operations have also been spread to Eskilstuna,” Johansson said.</p>
+    <p>Investigators initially believed the group only sold in Mariestad. But the most recent investigation changed their perspective; the group did sell primarily in Sweden but they shipped packages far beyond their own municipality. Many buyers resided in the US, officials said.</p>
+    <p>Only three were charged with serious drug charges in relation to the darknet distribution. The two main suspects—the cohabiting couple—were charged with serious drug charges. Their apartment in Mariestad served as a base of operations. The 35-year-old man, according to the indictment, was responsible for obtaining the drugs and managing the online sales and shipping. The 25-year-old woman created accounts where the group could deposit their earnings.</p>
+    <p>The other main suspect, the 30-year-old man, was charged with serious drug charges for the same reason as the first suspect. He, too, obtained the drugs and handled sales. His arrest was also the group’s major downfall. Police were able to access his computer and encrypted communication. That data was more than enough to arrest the remaining members of the group, the prosecutor reported.</p>
+    <p>“We do not know from where they obtained the drugs, but some traces indicate that they have taken it from abroad,” Karlsson told a local news outlet.</p>
+    <p>No details were released regarding the youngest member of the group. He was arrested and discovered after the others but his role was not announced.</p>
+    <p>&#8220;When they received orders for drugs via the Darknet and packaged and sent off the drugs by mail, the buyers sent payment for the drugs in Bitcoins, USD or SEK.&#8221; Karlsson wrote in the indictment she submitted to Skaraborg District Court.</p>
+    <p>The indictment was 3,500 pages long.</p>
+    <p>Several numbers were reported in respect to the total income the group earned but the original $500,000 number is believed to be accurate. Karlsson also reported that police were able to count, at a minimum, <a href="http://www.skovdenyheter.se/article/atal-for-miljonknark-pa-darknet/">6,000 sales on the darknet</a>.</p>
+    <p>The three main suspects face up to 15 years in prison, if convicted.</p>
+    <p>Swedish police announced, not even a month prior to this arrest, that they <a href="https://www.deepdotweb.com/2016/11/07/swedish-police-claim-de-anonymised-3000-darknet-buyers/">identified 3,000 darknet users</a>. But they did not make a distinction between buyers and sellers and no connection between that announcement and this arrest was mentioned. Sweden’s <a href="https://www.deepdotweb.com/2016/07/21/swedens-largest-darknet-vendor-busted-authorities/">largest darknet vendor was arrested</a> earlier this year and several other notable vendor busts have been made within a short period of time. Authorities can now add another four vendors to their list.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/100k/" rel="tag">100k</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/find/" rel="tag">find</a> <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/swedish/" rel="tag">swedish</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2016-11-25</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

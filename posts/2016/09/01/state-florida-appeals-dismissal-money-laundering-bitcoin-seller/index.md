@@ -1,0 +1,31 @@
+---
+State of Florida Appeals the Dismissal of “Money Laundering” Bitcoin Seller
+---
+<article class="post-listing post-15307 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-appeals tag-bitcoin tag-dismissal tag-florida tag-laundering tag-money tag-seller tag-state">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>September 1, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/09/01/state-florida-appeals-dismissal-money-laundering-bitcoin-seller/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>The recent ruling by a Florida judge where the cryptocurrency Bitcoin was controversially disqualified as a form of currency (as defined by Florida’s legal system) may be facing an overruling by an appeal from the state of Florida.</p>
+    <p>In the case of Florida v Michell Espinoza, the Florida-based bitcoin seller was charged with <a href="https://www.deepdotweb.com/2016/08/30/florida-man-trying-get-case-thrown-claiming-bitcoin-not-real-money/">one count of unlawfully engaging in the business of money services business, and two counts of money laundering. </a><img class="wp-image-15308 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/08/word-image.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/08/word-image.jpeg 960w, https://www.deepdotweb.com/wp-content/uploads/2016/08/word-image-300x200.jpeg 300w" sizes="(max-width: 960px) 100vw, 960px"/></p>
+    <p>Espinoza was arrested in 2014 after selling Bitcoin on three separate occasions to an undercover officer. On the fourth meeting, a sting operation was initiated by the Miami Beach Police Department and the United States Secret Service’s Miami Electronic Crimes Task Force. The man was immediately arrested upon completion of the fourth transaction.</p>
+    <p>In July of 2016, Espinoza was <a href="https://www.deepdotweb.com/2016/06/04/florida-man-trying-get-case-thrown-claiming-bitcoin-isnt-real-money/">cleared of all charges</a> by Judge Teresa Mary Pooler of the 11th Judicial Circuit for Miami-Dade County. The case took almost two years to complete on account of the lack of decisive information, that is whether or not the cryptocurrency Bitcoin can be categorized as actual money.</p>
+    <p>Judge Pooler determined that Bitcoin is not a “payment instrument,” which is defined under the state law as “a check, draft, warrant, money order, travelers check, electronic instrument, or other instrument, payment of money, or monetary value whether or not negotiable;” <a href="http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&amp;Search_String=&amp;URL=0500-0599/0560/Sections/0560.103.html">Fla. Stat. 560.103(29)</a>.</p>
+    <p>She determined that Bitcoin is not defined in the statute and that since Espinoza had not conducted the sale of a “payment instrument,” he had not engaged in a “money services business.”</p>
+    <p>The judge reasoned as follows:</p>
+    <p>Bitcoin may have some attributes in common with what we commonly refer to as money, but it differs in many important aspects. While Bitcoins can be exchanged for items of value, they are not a commonly used means of exchange. They are accepted by some but not all merchants or service providers. The value of Bitcoin fluctuates wildly and has been estimated to be eighteen times greater than the U.S. dollar. Their high volatility is explained by scholars as due to their insufficient liquidity, the uncertainty of future value, and the lack of a stabilization mechanism. With such volatility they have a limited ability to act as a store of value, another important attribute of money.</p>
+    <p>Bitcoin is a decentralized system. It does not have any central authority, such as a central reserve, and Bitcoins are not backed by anything. They are certainly not tangible wealth and cannot be hidden under a mattress like cash and gold bars.</p>
+    <p>This Court is not an expert in economics. However, it is very clear, even to someone with limited knowledge in the area, that Bitcoin has a long way to go before it is the equivalent of money.</p>
+    <p>Bitcoin has been under a significant amount of scrutiny lately, both by state and federal structures. For instance, in 2014, the I.R.S. concluded that digital currency is “property,” not physical currency when it comes to federal taxation. (<a href="https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance">I.R.S. Notice 2014-36</a>)</p>
+    <p><a href="http://www.coindesk.com/florida-files-appeal-charges-bitcoin-seller-dismissed/"><em>CoinDesk</em></a> reports that the state of Florida has filed an appeal disputing Judge Pooler’s ruling, as well as the court’s current stance for whether or not Bitcoin is a form of legitimate currency. While many were expecting the outcome of Florida v Michell Espinoza to set a nationwide precedent on Bitcoin status, the cryptocurrency’s legal future remains up in the air.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/appeals/" rel="tag">appeals</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dismissal/" rel="tag">dismissal</a> <a href="https://www.deepdotweb.com/tag/florida/" rel="tag">florida</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/seller/" rel="tag">seller</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a></span> <span style="display:none" class="updated">2016-09-01</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

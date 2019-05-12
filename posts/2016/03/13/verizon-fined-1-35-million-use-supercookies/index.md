@@ -1,0 +1,29 @@
+---
+Verizon Fined $1.35 Million For The Use Of “Supercookies”
+---
+<article class="post-listing post-13447 post type-post status-publish format-standard hentry category-news tag-3519 tag-fined tag-million tag-supercookies tag-verizon">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+    <span>March 13, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/03/13/verizon-fined-1-35-million-use-supercookies/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>According to a <a href="https://transition.fcc.gov/Daily_Releases/Daily_Business/2016/db0307/DOC-338091A1.pdf">news release</a> from the FCC, the FCC announced a <a href="https://transition.fcc.gov/Daily_Releases/Daily_Business/2016/db0307/DA-16-242A1.pdf">settlement</a> that resolves the investigation into Verizon for its use of unique identifier headers (UIDH), better known as “supercookies”, which were inserted into customers&#8217; mobile traffic without their consent or knowledge.</p>
+    <p>“These unique, undeletable identifiers – referred to as UIDH –are inserted into web traffic and used to identify customers in order to deliver targeted ads from Verizon and other third parties.”</p>
+    <p>Subsequent to this investigation and settlement, Verizon will now “[notify] consumers about its targeted advertising programs, … obtain customers’ opt-in consent before sharing UIDH with third  parties, and will obtain customers’ opt-in or opt-out consent before sharing UIDH internally within the Verizon corporate family.”</p>
+    <p>Not only will Verizon change its policies, but it will be fined $1.35 million.</p>
+    <p>“Verizon Wireless will pay a fine to the United States Treasury in the amount of one million, three hundred fifty thousand dollars ($1,350,000) within thirty (30) calendar days of the Effective Date. Verizon Wireless shall send electronic notification of payment to <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="155f7a7d7b7b6c3b5167747e70557376763b727a63">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> on the date said payment is made. The payment must be made by check or similar instrument, wire transfer, or credit card, &#8230; Regardless of the form of payment, a completed FCC Form 159 (Remittance Advice) must be submitted.”</p>
+    <p>However, $1.35 million is a drop in the bucket considering Verizon <a href="https://www.verizon.com/about/sites/default/files/Verizon_Fact_Sheet.pdf">reports</a> that it made $131.6 billion last year.</p>
+    <p>During the investigation, the FCC found that Verizon has been using supercookies for the purpose of delivering targeted advertisements since 2012 and only disclosed that it exists in 2014 after many news articles raised concerns over supercookies. Verizon finally updated its privacy policy to add a section that discloses it in 2015 but only after the FCC started investigating them.</p>
+    <p>Verizon inserted supercookies into HTTP requests made by mobile wireless users who were using their mobile data, this means that users who used their own internet connection weren&#8217;t affected. The cookie uniquely identified users and allowed Verizon to deliver targeted advertisements. The supercookie couldn&#8217;t be removed, and because of this and the fact that any site could see it, it was abused by sites to readd cookies which were deleted by users.</p>
+    <p>What damned Verizon was the fact that they didn&#8217;t get consent or tell anyone for that matter, which clearly violates the Open Internet Transparency Rule and Section 222 of the Act, which the FCC investigated them for.</p>
+    <p>“The Transparency Rule requires BIAS providers, including wireless mobile broadband providers, to disclose accurate information regarding their mobile broad band Internet access services sufficient for consumers to make informed choices regarding such services. 18 Under Section 222 of the Act, a telecommunications carrier has a duty to protect its customers’ proprietary information and any &#8221;telecommunications carrier that receives or obtains proprietary information from another carrier for purposes of providing any telecommunications service shall use such information only for such purpose, and shall not use such information for its own marketing efforts.&#8221;”</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/135/" rel="tag">135</a> <a href="https://www.deepdotweb.com/tag/fined/" rel="tag">fined</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/supercookies/" rel="tag">supercookies</a> <a href="https://www.deepdotweb.com/tag/verizon/" rel="tag">verizon</a></span> <span style="display:none" class="updated">2016-03-13</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    </div>
+</article>
+

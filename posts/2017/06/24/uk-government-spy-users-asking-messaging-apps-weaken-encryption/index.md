@@ -1,0 +1,33 @@
+---
+UK Government to Spy on Users by Asking Messaging Apps to Weaken Encryption
+---
+<article class="post-listing post-20854 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-apps tag-encryption tag-government tag-messaging tag-spy tag-uk tag-users tag-weaken">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+    <span>June 24, 2017</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2017/06/24/uk-government-spy-users-asking-messaging-apps-weaken-encryption/#comments">5 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Last week, British Prime Minister Theresa May received harsh criticisms from experts for her proposal to regulate the internet and essentially weaken encryption of messaging applications such as <a href="https://www.deepdotweb.com/2016/04/06/whatsapp-is-now-end-to-end-encrypted/">Whatsapp</a> and Telegram.</p>
+    <p><img class="wp-image-20862 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-44.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-44.png 590w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-44-300x200.png 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+    <p>In a response to a terror attack that occurred in London, May stated that the act of terror can be attributed to the existence of “safe spaces” on the web such as the <a href="https://www.deepdotweb.com/2017/06/06/demand-ethical-hackers-rise-corporations-look-combat-dark-web-criminals/">dark web</a> and encrypted messaging platforms that criminals are using to distribute data and communicate with one another.</p>
+    <p>May also placed the blame on major internet service providers and internet companies that are responsible for offering encrypted services and privacy-focused solutions to users. She strongly emphasized that unregulated and private areas of the web are triggering more terrorist attacks within the UK.</p>
+    <p>However, analysts at prominent cyber security firms and mainstream media outlets such as Wired have stated that weakening of encryption is not a practical solution under any circumstances. Firstly, an attack on encryption could jeopardize global financial systems and banking that could inflict severe financial damages onto major financial service providers. Other sectors such as travel and health care could also be affected by the lack of encryption.</p>
+    <p>More importantly, the idea that the “good guys” can see, surveil and control the “bad guys” is flawed as a whole because it is difficult to justify what is considered good and bad. For instance, if internet service providers and app developers are forced by the government to build backdoors to allow law enforcement agencies to surveil on users, the surveillance on the public and billions of internet users can’t be justified.</p>
+    <p>The US government’s plan to request travelers to forfeit passwords, social media account data, email information and data stored in personal devices such as laptops was criticized by experts and data analysts for the identical reason. It is an attack on the privacy of people in general and the idea that the complete removal of privacy would discourage and decrease terrorist attacks is invalid.</p>
+    <p>More importantly, Colin Clarke, a counterterrorism expert at RAND, said in an interview that the internet is oversold in terms of radicalization. Although the internet and its encrypted areas such as the dark web are used by criminals and terrorists to communicate, the majority of conversations are settled offline.</p>
+    <p>Michael Kenney of the University of Pittsburgh <a href="https://www.wired.com/2017/06/theresa-may-internet-terrorism/">stated:</a></p>
+    <p>&#8220;Traditionally the way [UK extremist group] Al-Muhajiroun have worked is that most of their radicalization has occurred offline.”</p>
+    <p>Therefore, May’s plan on requesting encryption service providers and messaging applications such as Whatsapp and Telegram to install backdoors in order to surveil hundreds of millions of mobile users would likely do more harm than good. It will place the privacy of millions of British mobile users under jeopardy.</p>
+    <p>Essentially, May’s strategy is to implement backdoors on messaging applications to enable law enforcement agencies including the MI5, the United Kingdom&#8217;s domestic counter-intelligence and security agency, to surveil on potential suspects.</p>
+    <p>However, cyber security expert Jennifer Arcuri stated that the implementation of backdoors would leave messaging apps vulnerable to hacking attacks and grant access to others apart from the MI5. In fact, it is possible that terror attacks can be carried out by hackers that exploit the encryption vulnerability or backdoor on messaging apps if they are built upon the request of the government.</p>
+    <p>Still, discussions on implementing backdoors on messing applications are being pursued, mostly because Westminster terrorist Khalid Masood utilized Whatsapp almost immediately before carrying out the horrific attack that led to the deaths of multiple British citizens.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/apps/" rel="tag">apps</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/messaging/" rel="tag">messaging</a> <a href="https://www.deepdotweb.com/tag/spy/" rel="tag">spy</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/weaken/" rel="tag">weaken</a></span> <span style="display:none" class="updated">2017-06-24</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
+    </div>
+</article>
+

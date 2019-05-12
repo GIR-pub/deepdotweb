@@ -1,0 +1,31 @@
+---
+Ex-Killer&#8217;s Letters &#8220;Sold Like Mad&#8221; on the Darknet
+---
+<article class="post-listing post-20511 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-exkillers tag-letters tag-mad tag-sold">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>June 10, 2017</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2017/06/10/ex-killers-letters-sold-like-mad-on-the-darknet/#respond">Leave a comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Following the <a href="http://www.irishmirror.ie/news/moors-murderer-ian-brady-79-10428388">death of the infamous murderer Ian Brady</a>, the <a href="http://www.belfasttelegraph.co.uk/news/uk/letters-of-evil-child-killer-brady-bought-on-dark-web-by-macabre-collectors-35743501.html">Belfast Telegraph spoke with an Ireland-based collector</a> of serial killer murderabilia. Law enforcement coined the reasonably foreign word—murderabilia was defined as memorabilia of murderers, usually serial killers. This collector explained that after Brady&#8217;s death, the price of his letters skyrocketed. As did some of his personal belongings like toothbrushes. Sellers started listing them on the darknet and buyers started buying them at an increased rate for one of two reasons.</p>
+    <p>Both reasons require a touch of background information. The “buyers” of his &#8220;stuff” are simply of the small niche of people psychologically drawn—as if by some magnet—to mass murderers and serial killers. While the niche may be small, a certain type of mental sister is associated with an obsession with serial killers. There&#8217;s little-to-no-need to embellish that; the point conveyed is that numerous people who pay remarkably high prices for a serial killer’s belongings.</p>
+    <p><img class="wp-image-20515 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-37.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-37.jpeg 800w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-37-300x200.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+    <p>The reasons are contingent upon each other. The first reason that the so-called “murderabilia” increased in price, at least on the darknet, was because Brady died. <a href="https://www.deepdotweb.com/tag/web/">The “clearnet” versions</a> of these darknet sites ”sold out” shortly after the murderer’s death. However, more highly priced and frequently bizarre items were made available on various darknet, “true crime” stole websites and forums.</p>
+    <p>Some of these items cost more because they were <em>weird</em>. Once, a single piece of Ted Bundy’s hair sold for more than $200. This touches that level of weirdness. Except with Brady’s toothbrushes from his stay in prison, for instance.</p>
+    <p>The second reason also requires the <a href="https://www.deepdotweb.com/tag/Murder/">murderer be dead</a>. As he grew older, sicker, and weaker, family members of the victims and law enforcement urged him to reveal the location of one dead boy that he kept to himself for 51 years in prison. He refused to give the information away and the boy’s body was not found near the other four victims. However, his encoded letters to his partner in crime and lover, Myra Hindley, likely contained the information, albeit in disguise.</p>
+    <p>The anonymous source explained:</p>
+    <p><em>“Ian Brady items have always been hot among collectors of serial killers&#8217; belongings, and the last day </em><a href="https://www.deepdotweb.com/tag/price/"><em>has seen a real spike in trades and expensive purchases</em></a><em> because his death makes his belongings even more collectible and valuable. Ian&#8217;s letters are now being sold like mad, as well as Christmas cards he signed and more personal items he has owned and used in prison.”</em></p>
+    <p>For fear of repercussion, the entity chose not to disclose his or her name. &#8220;I have heard items like his toothbrushes have been bought on the dark web,” he said. Some people, along with law enforcement, hunt for this so-called “Holy Grail” letter that reveals the spot of the buried 12-year-old, Keith Bennett.</p>
+    <p>As criminal as the act of buying oddly personal belongings from a serial killer may seem, it is not necessarily against the law. But owners of this content have only a limited number of places where they can attract the proper audience and still maintain some level of anonymity. Online storefronts started banning the content in the early 2000s, for instance.</p>
+    <p>An explicit example is the May 2001 eBay ban on murderabilia, effectively “<a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">forcing the industry underground</a>.” Save for a handful of sellers and they already sold out of Brady material, the Telegraph explained.</p>
+    <p>Three anonymous source closed with a mention that &#8220;Ian&#8217;s fourth victim Keith Bennett has never been found, and collectors know a letter stating where his body is would be worth a fortune.” He continued, “[t]he hunt is well and truly on for something like that.”</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/exkillers/" rel="tag">exkillers</a> <a href="https://www.deepdotweb.com/tag/letters/" rel="tag">letters</a> <a href="https://www.deepdotweb.com/tag/mad/" rel="tag">mad</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span> <span style="display:none" class="updated">2017-06-10</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

@@ -1,0 +1,27 @@
+---
+Oregon PlayPen Member Sentenced to 25 Years in Prison
+---
+<article class="post-listing post-24165 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2528 tag-member tag-oregon tag-playpen tag-prison tag-sentenced tag-years">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>December 29, 2017</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2017/12/29/oregon-playpen-member-sentenced-25-years-prison/#comments">7 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>A federal judge sentenced 44-year-old Thomas Gene Duncan to <a href="https://www.justice.gov/usao-or/pr/gresham-man-sentenced-25-years-prison-producing-and-possessing-child-pornography">25 years in prison</a> and a lifetime of supervised release. Duncan had spent almost 100 hours on a darknet child abuse forum called “<a href="https://www.deepdotweb.com/tag/playpen/">PlayPen</a>.” When the FBI raided his Gresham home in October, 2015, they found 120 videos and 4,000 pictures downloaded from numerous child abuse sites, including PlayPen. They also found explicit photos of his fiancée’s 12-year-old daughter.</p>
+    <p><img class="wp-image-24181 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-69.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-69.png 660w, https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-69-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+    <p>Duncan pleaded guilty on August 29, 2017, to one count each of the production and possession of child pornography in federal court. He pleaded guilty to one count each of first-degree rape, second-degree sodomy, and unlawful sexual penetration in state court. Duncan will be sentenced in state court in early January 2018.</p>
+    <p>Court documents revealed that Duncan signed up for “Playpen” in October 2014. FBI records showed that he had spent 72 hours on the site. During a one-week period in 2015 when the <a href="https://www.deepdotweb.com/tag/fbi/">FBI</a> had taken control of the site, Duncan had downloaded 89 pictures and videos. When the FBI raided the man’s house (technically his fiancée’s house), Duncan admitted that he had a large collection of digital media depicting child abuse on his laptop. He provided the FBI with the password to access his personal account. Investigators later counted more than 4,000 illegal images. After a further analysis by forensic investigators, the FBI learned that some of the pictures contained victims known to the defendant: two of his fiancée’s daughters. One, the younger of the two, appeared in photos, but had been abused by Duncan. The second, a 12-year-old, had been abused and photographed in various compromising outfits and positions.</p>
+    <p>Duncan had formerly served in the military—something he used in his defense while in court. He told federal agents that during his down time, he looked at adult porography. However, after completing his first tour in Iraq, he switched to child pornography for “stress relief”. He said that it first appealed to him after he saw a related popup on an adult porn site. After that, Duncan started searching for child pornography on the darknet. Queue in <a href="https://www.deepdotweb.com/tag/playpen/">PlayPen</a>.</p>
+    <p><img class="wp-image-24182 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-70.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-70.png 660w, https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-70-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+    <p>After the federal indictment for child pornography, a Multnomah County Grand Jury indicted Duncan for sex crimes against children. The mother of the abused girls, Janet Lynn Porter, knew of the child abuse, investigators discovered. A Multnomah County court convicted her of criminal mistreatment and a judge sentenced her to 36 months on probation. U.S. District Judge Robert E. Jones sentenced Duncan to 25 years in prison and a lifetime of supervised release.</p>
+    <p>Next month, a Multnomah County Circuit Court judge will sentence Duncan for the sexual abuse of his fiancée’s daughters.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/25/" rel="tag">25</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/oregon/" rel="tag">oregon</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-12-29</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

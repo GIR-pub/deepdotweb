@@ -1,0 +1,30 @@
+---
+German Fined For Ordering Narcotics For A Friend
+---
+<article class="post-listing post-19620 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+    <span>May 4, 2017</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2017/05/04/german-fined-for-ordering-narcotics-for-a-friend/#respond">Leave a comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>A craftsman from Schwabach, Germany was <a href="http://www.nordbayern.de/region/schwabach/koks-aus-dem-darknet-schwabacher-verurteilt-1.6016285">sentenced</a> to pay a fine for ordering <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> from the dark web for a friend.</p>
+    <p><a id="post-19620-_gjdgxs"></a> &#8220;Yes, I ordered it for a friend,&#8221; the suspect, the 24-year-old Jonas B (name changed due to privacy reasons) admitted after the indictment was read in his court trial. According to his confession, the defendant had problems with his family, and his financial situation was in a bad state. When a friend offered money in the summer of 2014 to buy drugs, including amphetamine, ecstasy, and cocaine, for him, he accepted the proposal since he needed cash for his living.</p>
+    <p>‘Quick money’ I could earn,&#8221; the defendant said. According to him, the friend gave him “500 euros for everything.” The 24-year-old purchased the <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> for 200-300 euros, while he kept the “change”.</p>
+    <p>&#8220;I saw this as the only way out,&#8221; the suspect said, who had been able to pay a monthly rent from the profit.</p>
+    <p>Jonas B. ordered the goods, who knew how to purchase illicit products from dark web marketplaces, from the dark net. He placed orders at a 20-year-old vendor residing in Leipzig, police information disclosed. The substances were delivered using fake names, such as &#8220;Heineken&#8221; or &#8220;Burger King&#8221;, by DHL or another postal delivery by registered mail.</p>
+    <p>“When the operator of the &#8220;mail-order&#8221; of the police went into the catch, the detectives from the Free State of Saxony found in his apartment about 300 kilograms of narcotics and a meticulously listed account. This is how Jonas B. was identified and explains why it took so long to court,” court documents stated.</p>
+    <p>Rudolf Feder, defending the 24-year-old, tried to make it clear that there was a big difference between trade and business.</p>
+    <p>&#8220;My client did not want to make a big profit,&#8221; said Feder, &#8220;he has been in a difficult personal situation and is desperately trying to earn money quickly in a relatively simple manner.”</p>
+    <p>After prosecutor Katja Beugel demanded 180 daily rates of 40 euros as a penalty, Feder claimed that the prosecutor’s request would be too harsh compared to the defendant’s crimes. The attorney pleaded for a cessation of the proceedings linked to a financial imposition.</p>
+    <p>“As an experienced attorney, Feder would have to know that there would be no fines if the accused did not make any profits,” the judge said. She sentenced the 24-year-old to pay fines for 90 days in daily rates of 40 euros.</p>
+    <p>Since Shiny Flakes, AKA. Maximilian S., who was 20-years-old when he got caught, was a darknet narcotics vendor residing in Leipzig, there is a huge possibility that Jonas B. was one of the past customers of the 20-year-old. The statement also mentioned “about 300 kilograms of narcotics”, which law enforcement authorities seized in the apartment of the suspect. When Shiny Flakes was busted, investigators found 320 kilograms of various substances, including cocaine, amphetamine, LSD, ecstasy, hash, and marijuana, in the vendor’s home. Law enforcement authorities seized later an additional of 40 kilograms of narcotics, 325,000 euros worth of bitcoins, and 48,000 euros in cash. Officials estimated that the confiscated drugs were worth approximately 4.1 million euros at the time. Additionally, investigators also found a list with information on both the darknet and clearnet (the normal part of the internet) trades of the suspect. With examining the list, authorities claimed that Maximilian S. sold about 914 kilograms of narcotics to his customers. After Shiny Flakes was arrested, he confessed how he made the money, how he ran the business, literally everything. In November 2015, despite the prosecutor’s request for eight years and eight months of imprisonment for the defendant, the Leipzig District Court <a href="https://www.deepdotweb.com/2015/11/07/shiny-flakes-sentenced-to-7-years/">sentenced</a> the darknet vendor to six years and six months in juvenile prison for the illegal trafficking of drugs in large quantities. Shiny Flakes received a lesser sentence since he pleaded guilty to the charges against him. The vendor was <a href="https://www.deepdotweb.com/2015/03/12/shiny-flakes-bust-38-houses-raided/">arrested</a> in February 2015, along with his 51-years-old Bulgarian courier, while they carried kilograms of narcotics, which were intended for a “replenishment”.</p>
+    </div>
+    <span style="display:none" class="updated">2017-05-04</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+    </div>
+</article>
+

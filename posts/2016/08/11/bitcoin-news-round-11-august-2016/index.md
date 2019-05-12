@@ -1,0 +1,40 @@
+---
+Bitcoin news round up 11 August 2016
+---
+<article class="post-listing post-15083 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1879 tag-3336 tag-august tag-bitcoin tag-news">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
+    <span>August 11, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/08/11/bitcoin-news-round-11-august-2016/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>This week’s summary of various cryptocurrency news and developments</p>
+    <p><strong>NEW DEVELOPMENTS</strong></p>
+    <p><strong>Ross Ulbricht’s defense dispute trial fairness</strong></p>
+    <p>Ross Ulbricht, also known as Dread Pirate Roberts (DPR), owner of the notorious dark marketplace Silk Road that was taken down in 2013, has been sentenced to two life sentences in prison without parole. His lawyer, Joshua Dratel, <a href="https://bitcoinmagazine.com/articles/ross-ulbricht-defense-files-reply-in-court-appeal-disputes-fairness-of-trial-1470431272">disputed the fairness of the trial</a> and requested that his clients’ convections should be vacated.</p>
+    <p><a href="http://motherboard.vice.com/blog/torture-wiretaps-and-drugs-the-curious-cases-of-ross-ulbrichts-new-lawyer">According to Dratel</a>, Ross Ulbricht’s Fifth and Sixth amendment rights were violated, as evidence regarding corrupt special agents Carl Mark Force IV and Shawn Bridges involved in his case was not allowed in court. Both of these agents have, in the past, confessed to corruption – they are currently both in prison.</p>
+    <p><strong>Bitfinex to resume trading today</strong></p>
+    <p>Earlier this month, the Hong Kong-based exchange <a href="https://techcrunch.com/2016/08/08/hacked-bitcoin-exchange-bitfinex-will-reduce-balances-by-36-to-distribute-losses-amongst-all-users/">Bitfinex was hacked</a> and a total of $65 million worth of bitcoins were stolen. The impact on the community and the market was immediately felt, as the price of bitcoin itself fell as soon as the news broke. Nevertheless, the exchange has <a href="http://www.coindesk.com/bitfinex-bitcoin-exchange-resume-trading/">announced that today</a>, at 16:00 UTC, trading will once again be enabled. Deposits and withdrawals will be possible for BTC, USD, ETH and ETC.</p>
+    <p>Bitfinex also noted that its platform was rebuilt on a new platform, and that it took several security measures to ensure security within the future. <a href="https://www.bitfinex.com/posts/133">According to the exchange</a>, follow-up announcements will discuss the hack, the losses and its recovery plan.</p>
+    <p><strong>WORLD AFFAIRS:</strong></p>
+    <p><strong>US Government will auction 2.700 bitcoins this month</strong></p>
+    <p>This week, the U.S. Marshals Service (USMS) announced that <a href="http://www.digitaltrends.com/computing/us-government-auctions-off-2700-bitcoin/">they were to auction 2.700 bitcoin</a> forfeited from various cases, including the one that led the end of the infamous black market Silk Road in 2013, as well as those that led to the arrest of agents that were working undercover in that same case and were then <a href="http://www.forbes.com/sites/katevinton/2015/03/30/two-former-federal-agents-charged-with-stealing-bitcoin-during-silk-road-investigation/">caught stealing hundreds of thousands of dollars</a> while working. The auction will take place in the 22<sup>nd</sup> of August from 12:00 UTC to 1(:00 UTC, and those interested have until the 16:00 UTC of the 18<sup>th</sup> to register and will require a $100.00 deposit.</p>
+    <p>This is the latest auction led by the USMS, that has in the past conducted auction including millions worth of bitcoin seized from properties such as the Silk Road.</p>
+    <p><strong>Australia to regulate bitcoin, as it is considered an attractive way to finance terrorism</strong></p>
+    <p><a href="http://www.austrac.gov.au/">AUSTRAC</a>, Australia’s financial intelligence agency, has published a report on terrorism financing within the country, which included information about how electronic and online payment methods are becoming an attractive way of funding terrorism as time goes by. According to the agency “Terrorist groups engaged in radicalization, recruitment and communication online (such as through social media) are a particularly high risk of using online payments systems and digital currencies.”</p>
+    <p>Later on this week, AUSTRAC is to attend a counter-terrorism financing summit along with Indonesia in Bali in order to improve anti-laundering and counter-terrorism financing laws within its borders, as it <a href="http://www.smh.com.au/world/australia-to-regulate-bitcoin-under-counterterrorism-finance-laws-20160808-gqnne2.html">works toward the regulation of digital currencies</a> such as bitcoin.</p>
+    <p>MOBILE UPDATE:</p>
+    <p><strong>Fake bitcoin wallet apps appeared in Apple App Store</strong></p>
+    <p>Apple has, in the past, allowed certain wrongful apps to enter its store, <a href="http://appleinsider.com/articles/16/08/09/apple-fighting-to-stem-fake-bitcoin-apps-on-app-store">and this time it happened again</a>. Fake bitcoin wallet apps are now on its App Store, according to a representative of bitcoin wallet Breadwallet, that noted a few apps with similar names to real bitcoin wallets <a href="http://www.newsbtc.com/2016/08/08/apple-lists-another-fake-bitcoin-wallet-app-store/">were surfacing in Apple’s store</a>. These apps are not the real ones, which means they can compromise user security. Users are advised to avoid the Apple App Store and Google Play, and to go to official websites to download their wallet apps, as this is not the first time this has happened. Although <a href="http://www.macrumors.com/2016/08/09/fake-bitcoin-ios-apps-app-store/">Apple quickly removes the fake wallets</a>, a few users are tricked and lose their funds in the meantime.</p>
+    <p>FINANCIAL:</p>
+    <p><strong>Bitcoin closing in on $600 once again</strong></p>
+    <p>After the hack on Bitfinex, the price of the cryptocurrency went down by about 20% as <a href="http://www.bbc.co.uk/news/technology-37009319">enthusiasts who used the exchange lost 36% of their funds</a> to cope with the losses of $65 million worth of bitcoin. Nevertheless, <a href="https://coinmarketcap.com/currencies/bitcoin/">the price has once again recovered</a> as the exchange announced it will be back up today, as traders become once again optimistic when they look at the future. According to some, the drop in price was natural and had nothing to do with the Hong Kong based exchange, as a temporary drop in price is a common thing- according to him, traders should see the drop as an opportunity.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/11/" rel="tag">11</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a></span> <span style="display:none" class="updated">2016-08-11</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
+    </div>
+</article>
+

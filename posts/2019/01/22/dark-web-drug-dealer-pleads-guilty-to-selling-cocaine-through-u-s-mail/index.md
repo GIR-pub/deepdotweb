@@ -1,0 +1,35 @@
+---
+Dark Web Drug Dealer Pleads Guilty to Selling Cocaine Through U.S. Mail
+---
+<article class="post-listing post-28164 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cocaine tag-dark tag-dealer tag-drug tag-guilty tag-mail tag-pleads tag-selling tag-web">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
+    <span>January 22, 2019</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2019/01/22/dark-web-drug-dealer-pleads-guilty-to-selling-cocaine-through-u-s-mail/#comments">7 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>A male resident of Florida <a href="https://www.kansascity.com/news/local/crime/article224023840.html">pleaded guilty to selling cocaine through the dark web</a>. Eimantas Juskevicius admitted that he would market the drugs on the dark web, and then after selling them, he would ship them to his customers via U.S. postal services.<img class="wp-image-28167 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2019/01/word-image-25.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2019/01/word-image-25.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2019/01/word-image-25-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+    <p>Juskevicius had been performing the illegal trade for a while over the darknet under the name ‘decandyman.’ The <a href="https://www.deepdotweb.com/2016/11/26/report-increase-parcels-containing-drugs-estonia/">mail services were favorable</a> for delivering drugs to his customers due to the lack of thorough scrutiny and inspection of the contents of his mail. They also saved him the trouble of delivering the drugs himself, which would raise suspicion from anti-drug trafficking agencies.</p>
+    <p>During drug trafficking investigations in 2017, the 24-year-old emerged as one of the suspected traffickers and investigations were geared towards confirming this suspicion. In May 2017, the FBI witfully laid a trap to lure the suspect into their hands.</p>
+    <p>Investigators pretended to be one of his customers and ordered drugs from Juskevicius through <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">the dark web</a>. He unknowingly fell for the trap and continued with the deal, thinking the customer was one of his regular customers.</p>
+    <p>After the order was received, the suspect arranged for the drugs to be delivered through postal mail service. The FBI later received the package which contained cocaine weighing about 9g.</p>
+    <p>The package was mailed from an address in Miami which happened to be the residence of Juskevicius. Investigators then discovered which post office he had used to send the package.</p>
+    <p>At the post office, postal inspectors aiding the police with their investigations determined that there were nine similar packages that had been mailed from the post office to other cities recently.</p>
+    <p>Surveillance footage of the on-goings at the post office showed an individual mailing the packages earlier on. The tape managed to capture the car that the person was driving, which investigators discovered was registered to Juskevicius.</p>
+    <p>The FBI made a second drug purchase in June 2017 for further confirmation of the allegations. Just like the first purchase, Juskevicius carried out the second deal unsuspectingly and arranged for the drugs to be delivered via mail.</p>
+    <p>The second package also came from the same address in Miami and contained cocaine. Investigators went to the address and apprehended Juskevicius for trading illicit drugs over the dark web and for the use of postal mail services to deliver drugs.</p>
+    <p>The suspect was then arraigned in the U.S. Federal District Court in Kansas City where he pleaded guilty to the crime and acknowledged that he had sold about 8 pounds of cocaine worth about $201,000. During court proceedings, it was agreed that Juskevicius was liable for a fine equal to the amount of profits he had made.</p>
+    <p>This case is among many other similar cases that involve ordering drugs through the darknet and using mail services to transport the drugs to various destinations. The <a href="https://www.deepdotweb.com/2018/02/10/doj-introduces-dark-web-team-fight-illegal-drug-trade/">FBI has promised</a> to continue their efforts to get a hold of such criminals and bring them to justice.</p>
+    <p>Drug peddlers have also been warned that despite using the darknet which grants them anonymity, there are still intelligent tactics that law enforcement can use to maneuver their way to criminals and bring them to justice. Postal services will also be working hand in hand with law enforcement agencies by thoroughly inspecting mailed items so as to reduce the increased tendency of mail services to be used as drug delivery services.</p>
+    <p>Juskevicius&#8217; case is still ongoing in court, and his sentence will be decided at a later date that is yet to be set by the judge handling his case. His sentence is expected to serve as a lesson to criminals of his kind and to discourage them from their operations.</p>
+    <p>Meanwhile, further investigations are still being carried out on Juskevicius for any crucial evidence in his case, such as any accomplices he might have had. Emerging suspects are also being investigated by the FBI, and their efforts have led to many drug-related arrests in Kansas.</p>
+    <p>The Feds have continually showed their effort in bringing down dark web criminals who are proving to be a major threat to the welfare of society. Law enforcement has been changing the way they perceive crime in the current century as it is more white collar.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/dealer/" rel="tag">dealer</a> <a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/mail/" rel="tag">mail</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2019-01-22</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
+    </div>
+</article>
+

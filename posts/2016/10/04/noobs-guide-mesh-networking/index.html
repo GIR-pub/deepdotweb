@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" prefix="og: http://ogp.me/ns#">
+<head>
+<meta name="google-site-verification" content="w7AT5AbCmIdSQW0LpWcxEefyTvmUeh-YKA9lCvB0F6w" />
+<meta name="google-site-verification" content="JVJljgnhv35JTXgfS8q9b5ATIGFouPaTV4UF3phMw24" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8" />
+<title>A Noob&#039;s Guide to Mesh Networking - Deep Dot Web</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="" />
+<meta property="og:title" content="A Noob&#8217;s Guide to Mesh Networking" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="Have you ever seen Shadowmaster’s Web Hierarchy Primer? A Redditor once referred to it as “the REAL ..." />
+<meta property="og:url" content="https://www.deepdotweb.com/2016/10/04/noobs-guide-mesh-networking/" />
+<meta property="og:site_name" content="Deep Dot Web" />
+<meta property="og:image" content="https://www.deepdotweb.com/wp-content/uploads/2014/10/meshnet-660x330.png" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="A Noob&#039;s Guide to Mesh Networking - Deep Dot Web" />
+<meta property="og:description" content="Have you ever seen Shadowmaster’s Web Hierarchy Primer? A Redditor once referred to it as “the REAL guide to the deep web.” I mention this because one section of it describes what are called “Private Networks,” and I quote: These networks do not require Internet access. Examples: PANs (Personal Area Networks), LANs (Local Area Networks),WANs ..." />
+<meta property="og:site_name" content="Deep Dot Web" />
+<meta property="article:tag" content="guide" />
+<meta property="article:tag" content="mesh" />
+<meta property="article:tag" content="networking" />
+<meta property="article:tag" content="noobs" />
+<meta property="article:section" content="Articles" />
+<meta property="article:published_time" content="2016-10-04T23:10:22-03:00" />
+<meta property="article:modified_time" content="2016-10-01T23:12:32-03:00" />
+<meta property="og:updated_time" content="2016-10-01T23:12:32-03:00" />
+<meta property="og:image" content="https://www.deepdotweb.com/wp-content/uploads/2014/10/meshnet.png" />
+<meta property="og:image:secure_url" content="https://www.deepdotweb.com/wp-content/uploads/2014/10/meshnet.png" />
+<meta property="og:image:width" content="673" />
+<meta property="og:image:height" content="362" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Have you ever seen Shadowmaster’s Web Hierarchy Primer? A Redditor once referred to it as “the REAL guide to the deep web.” I mention this because one section of it describes what are called “Private Networks,” and I quote: These networks do not require Internet access. Examples: PANs (Personal Area Networks), LANs (Local Area Networks),WANs ..." />
+<meta name="twitter:title" content="A Noob&#039;s Guide to Mesh Networking - Deep Dot Web" />
+<meta name="twitter:image" content="https://www.deepdotweb.com/wp-content/uploads/2014/10/meshnet.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.deepdotweb.com\/","name":"Deep Dot Web","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.deepdotweb.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+
+<link rel='dns-prefetch' href='//www.deepdotweb.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Deep Dot Web &raquo; Feed" href="https://www.deepdotweb.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Deep Dot Web &raquo; Comments Feed" href="https://www.deepdotweb.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Deep Dot Web &raquo; A Noob&#8217;s Guide to Mesh Networking Comments Feed" href="https://www.deepdotweb.com/2016/10/04/noobs-guide-mesh-networking/feed/" />
+<link rel='stylesheet' id='fes-css' href='https://www.deepdotweb.com/wp-content/plugins/feedburner-email-subscription/css/styles.css?ver=4.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-css' href='https://www.deepdotweb.com/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_stylesheet-css' href='https://www.deepdotweb.com/wp-content/plugins/captcha/css/front_end_style.css?ver=4.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.deepdotweb.com/wp-includes/css/dashicons.min.css?ver=4.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css' href='https://www.deepdotweb.com/wp-content/plugins/captcha/css/desktop_style.css?ver=4.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.deepdotweb.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mbpro-font-awesome-css' href='https://www.deepdotweb.com/wp-content/plugins/maxbuttons/assets/libraries/font-awesome/css/font-awesome.min.css?ver=6.27' type='text/css' media='all' />
+<link rel='stylesheet' id='widgetopts-styles-css' href='https://www.deepdotweb.com/wp-content/plugins/widget-options/assets/css/widget-options.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-style-css' href='https://www.deepdotweb.com/wp-content/themes/sahifa-child-new/style.css?ver=20161228-1' type='text/css' media='all' />
+<link rel='stylesheet' id='Droid+Sans-css' href='https://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700&#038;ver=4.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='arpw-style-css' href='https://www.deepdotweb.com/wp-content/plugins/advanced-random-posts-widget/assets/css/arpw-frontend.css?ver=4.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-css' href='https://www.deepdotweb.com/wp-content/plugins/sabai/assets/css/main.min.css?ver=1.3.46' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-font-awesome-css' href='https://www.deepdotweb.com/wp-content/plugins/sabai/assets/css/font-awesome.min.css?ver=1.3.46' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-discuss-css' href='https://www.deepdotweb.com/wp-content/plugins/sabai-discuss/assets/css/main.min.css?ver=1.3.46' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-directory-css' href='https://www.deepdotweb.com/wp-content/plugins/sabai-directory/assets/css/main.min.css?ver=1.3.46' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-paidlistings-css' href='https://www.deepdotweb.com/wp-content/plugins/sabai-paidlistings/assets/css/main.min.css?ver=1.3.46' type='text/css' media='all' />
+<link rel='stylesheet' id='sabai-googlemaps-css' href='https://www.deepdotweb.com/wp-content/plugins/sabai-googlemaps/assets/css/main.min.css?ver=1.3.46' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_isotope_ajax = {"url":"https:\/\/www.deepdotweb.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.deepdotweb.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.deepdotweb.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"https:\/\/www.deepdotweb.com\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.deepdotweb.com/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mb_ajax = {"ajaxurl":"https:\/\/www.deepdotweb.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.deepdotweb.com/wp-content/plugins/maxbuttons/js/min/front.js?ver=6.27'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1520779562","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.deepdotweb.com/wp-includes/js/utils.min.js?ver=4.9.3'></script>
+<link rel='https://api.w.org/' href='https://www.deepdotweb.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.deepdotweb.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 4.9.3" />
+<link rel='shortlink' href='https://www.deepdotweb.com/?p=15659' />
+<link rel="alternate" type="application/json+oembed" href="https://www.deepdotweb.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.deepdotweb.com%2F2016%2F10%2F04%2Fnoobs-guide-mesh-networking%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.deepdotweb.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.deepdotweb.com%2F2016%2F10%2F04%2Fnoobs-guide-mesh-networking%2F&#038;format=xml" />
+<script type="text/javascript">
+			var _statcounter = _statcounter || [];
+			_statcounter.push({"tags": {"author": "Ciphas"}});
+		</script>
+<link rel="shortcut icon" href="https://www.deepdotweb.com/wp-content/uploads/2014/05/favicon.ico" title="Favicon" />
+<!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="https://www.deepdotweb.com/wp-content/themes/sahifa/js/html5.js"></script>
+<script src="https://www.deepdotweb.com/wp-content/themes/sahifa/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.deepdotweb.com/wp-content/themes/sahifa/css/ie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.deepdotweb.com/wp-content/themes/sahifa/css/ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.deepdotweb.com/wp-content/themes/sahifa/css/ie7.css" />
+<![endif]-->
+<script type='text/javascript'>
+	/* <![CDATA[ */
+	var tievar = {'go_to' : 'Go to...'};
+	var tie = {"ajaxurl":"https://www.deepdotweb.com/wp-admin/admin-ajax.php" , "your_rating":"Your Rating:"};
+	/* ]]> */
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<style type="text/css" media="screen"> 
+	#main-nav,.cat-box-content,#sidebar .widget-container,.post-listing {border-bottom-color: #ef3636;}
+	.search-block .search-button,
+	#topcontrol,
+	#main-nav ul li.current-menu-item a,
+	#main-nav ul li.current-menu-item a:hover,
+/*	#main-nav ul li.current-menu-parent a,
+	#main-nav ul li.current-menu-parent a:hover,*/
+	#main-nav ul li.current-page-ancestor a,
+	#main-nav ul li.current-page-ancestor a:hover,
+	.pagination span.current,
+	.share-post span.share-text,
+	.flex-control-paging li a.flex-active,
+	.ei-slider-thumbs li.ei-slider-element,
+	.review-percentage .review-item span span,.review-final-score ,
+	.woocommerce span.onsale, .woocommerce-page span.onsale ,
+	.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle  {
+		background-color:#ef3636 !important;
+	}
+	::-webkit-scrollbar-thumb{background-color:#ef3636 !important;}
+	footer#theme-footer, .top-nav, .top-nav ul li.current-menu-item:after,#main-nav ul li.mega-menu .mega-menu-block, #main-nav ul ul {border-top-color: #ef3636;}
+	.search-block:after {border-right-color:#ef3636;}
+	#main-nav ul > li.parent-list:hover > a:after{border-color:transparent transparent #ef3636;}
+
+body{
+}
+
+</style>
+<meta name="google-site-verification" content="ZV9KofR9JX5We1JOcA79osFUpWs73NboHaK-b5jZkKI" />
+<style>
+    .torlinks-class ul {
+        list-style: none;
+    }
+    .torlinks-class ul ul li{
+        padding-left: 15px!important;
+    }
+    .torlinks-class a {
+        color:#191919;
+    }
+    .torlinks-class li {
+        border-top: 1px solid white;
+        padding: 3px!important;
+        color:#191919;
+        margin: 0;
+    }
+    .torlinks-class li.ok {
+        background: #66cc99;
+    }
+    .torlinks-class li.bad {
+        background: #ff6666;
+    }
+    .torlinks-class li.notActive {
+        background: ;
+    }
+    .torlinks-class li.separator {
+        font-size: 17px;
+        padding: 8px!important;
+        text-transform: uppercase;
+        font-family: BebasNeueRegular,arial,Georgia, serif;
+    }
+</style><link rel="amphtml" href="https://www.deepdotweb.com/2016/10/04/noobs-guide-mesh-networking/amp/"><script type="text/javascript">typeof jQuery!='undefined'&&jQuery(document).ready(function(a){jQuery('a').on('click',function(h){var c=jQuery(this);var d=!0;var b=c.attr('href')!==void 0?c.attr('href'):'';var e=b.replace(/^https?\:\/\//i,'').replace('www.','').split('/')[0];var f=document.domain.replace('www.','');var g=c.attr('target')!==void 0?c.attr('target'):'';if(!b.match(/^javascript:/i)){var a=[];if(a.value=0,a.non_i=!1,b.match(/^https?\:/i)&&e!==f?(a.category='external',a.action='click',a.label=b.replace(/^https?\:\/\//i,''),a.non_i=!0,a.loc=b):d=!1,d)return window._gat?_gaq.push(['_trackEvent',a.category.toLowerCase(),a.action.toLowerCase(),a.label.toLowerCase(),a.value,a.non_i]):ga('send','event',a.category.toLowerCase(),a.action.toLowerCase(),a.label.toLowerCase(),a.value),g=='_blank'?window.open(a.loc):setTimeout(function(){window.location.href=a.loc;},400),window.console&&window.console.log&&console.log('Outbound: '+a.label),!1;}});});</script><noscript>
+    <link rel="stylesheet"  href="https://www.deepdotweb.com/wp-content/themes/sahifa-child-new/no-script.css" type="text/css" media="all" />
+</noscript>
+</head>
+<body id="top" class="post-template-default single single-post postid-15659 single-format-standard">
+<div class="background-cover"></div>
+<header id="theme-header" class="theme-header">
+<div class="top-nav">
+<div class="breaking-news">
+<span>Breaking News</span>
+<ul>
+<li><a href="https://www.deepdotweb.com/2018/03/11/cryptocurrency-news-roundup-march-10-2018/" title="Cryptocurrency news roundup, March 10, 2018">Cryptocurrency news roundup, March 10, 2018</a></li>
+<li><a href="https://www.deepdotweb.com/2018/03/11/high-school-student-busted-selling-xanax-undercover-cop/" title="High school Student Busted For Selling Xanax to an Undercover Cop">High school Student Busted For Selling Xanax to an Undercover Cop</a></li>
+<li><a href="https://www.deepdotweb.com/2018/03/10/another-chemical-love-customer-faces-prison-drug-purchases/" title="Another Chemical Love Customer Faces Prison for Drug Purchases">Another Chemical Love Customer Faces Prison for Drug Purchases</a></li>
+<li><a href="https://www.deepdotweb.com/2018/03/10/british-dark-web-pedophile-jailed-32-years/" title="British Dark Web Pedophile Jailed For 32 Years">British Dark Web Pedophile Jailed For 32 Years</a></li>
+<li><a href="https://www.deepdotweb.com/2018/03/08/russian-dark-web-drug-linked-mass-school-overdose/" title="Russian Dark Web Drug Linked to Mass School Overdose">Russian Dark Web Drug Linked to Mass School Overdose</a></li>
+<li><a href="https://www.deepdotweb.com/2018/03/08/canada-spend-1-billion-federal-budget-fighting-cyber-crime/" title="Canada to Spend $1 Billion of Federal Budget on Fighting Cyber Crime">Canada to Spend $1 Billion of Federal Budget on Fighting Cyber Crime</a></li>
+</ul>
+<script type="text/javascript">
+			jQuery(document).ready(function(){
+								jQuery('.breaking-news ul').innerfade({animationtype: 'slide', speed: 3412 , timeout: 3735});
+							});
+		</script>
+</div> 
+<div class="top-menu"><ul id="menu-top" class="menu"><li id="menu-item-704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704"><a href="https://www.deepdotweb.com/advertise-on-deepdotweb/">Advertise On DeepDotWeb</a></li>
+<li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705"><a href="https://www.deepdotweb.com/write-for-us/">Write For Us</a></li>
+<li id="menu-item-3187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3187"><a href="https://www.deepdotweb.com/about-deepdotweb/">About DeepDotWeb</a></li>
+<li id="menu-item-3195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3195"><a href="https://www.deepdotweb.com/our-pgp-key/">Our PGP Key</a></li>
+<li id="menu-item-10915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10915"><a href="http://deepdot35wvmeyd5.onion/">DDW Onion Site</a></li>
+</ul></div>
+</div>
+<div class="header-content">
+<div class="logo">
+<h2> <a title="Deep Dot Web" href="https://www.deepdotweb.com/">
+<img src="https://www.deepdotweb.com/wp-content/themes/sahifa-child-new/images/logoddw.png" alt="Deep Dot Web" /><strong>Deep Dot Web Surfacing The News From The DeepWeb</strong>
+</a>
+</h2> </div>
+<div class="ads-top"> <div style="margin-left: 1%;margin-top: 1%;">
+<a href="https://bitcoincasinos.reviews/?n=ddwtop" target="_blank"><img src="https://www.deepdotweb.com/wp-content/uploads/2016/08/468btccrev.gif" /></a>
+</div> </div> <div class="clear"></div>
+</div>
+<nav id="main-nav">
+<div class="container">
+<div class="search-block">
+<form method="get" id="searchform" action="https://www.deepdotweb.com/">
+<button class="search-button" type="submit" value="Search"></button>
+<input type="text" id="s" name="s" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" />
+</form>
+</div>
+<div class="main-menu"><input type="checkbox" id="check_menu-main"><label for="check_menu-main">Menu</label><ul id="menu-main" class="menu"><li id="menu-item-5" class="menu-item  menu-item-type-custom  menu-item-object-custom  menu-item-home"><a href="http://www.deepdotweb.com">Home</a></li>
+<li id="menu-item-350" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  current-post-ancestor  current-menu-parent  current-post-parent"><a href="https://www.deepdotweb.com/category/deepdot-news/">News &#038; Articles</a></li>
+<li id="menu-item-5283" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Markets List</a></li>
+<li id="menu-item-8209" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">Markets Chart</a></li>
+<li id="menu-item-11956" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">Vpn&#8217;s Chart</a></li>
+<li id="menu-item-13227" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="https://bitcoincasinos.reviews/">Bitcoin Casinos</a></li>
+<li id="menu-item-5257" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="https://coinmixer.se/en/bitcoin-mixing-service/rid/33056950/">BTC Mixer</a></li>
+<li id="menu-item-5340" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="http://www.deepdotweb.com/questions-answers-beta/">Q&#038;A ~ Ask Here!</a></li>
+<li id="menu-item-477" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="https://www.deepdotweb.com/category/videos/">Videos</a></li>
+<li id="menu-item-456" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="https://www.deepdotweb.com/contact-us/">Contact Us</a></li>
+</ul></div> </div>
+</nav>
+</header>
+<div id="main-content" class="container">
+<div class="content">
+<div xmlns:v="http://rdf.data-vocabulary.org/#" id="crumbs"><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" class="crumbs-home" href="https://www.deepdotweb.com">Home</a></span> &raquo; <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://www.deepdotweb.com/category/articles/">Articles</a></span> &raquo; <span class="current">A Noob&#8217;s Guide to Mesh Networking</span></div>
+<div class="ads-post"> <a href="https://www.deepdotweb.com/vpn-comparison-chart/"><img src="https://www.deepdotweb.com/wp-content/uploads/2015/06/ddwan51.gif" alt="Click Here To Hide Tor" max-width="468" max-height="60" /></a> </div>
+<article class="post-listing post-15659 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-guide tag-mesh tag-networking tag-noobs">
+<div class="post-inner">
+<h1 class="name post-title entry-title" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing"><span itemprop="name">A Noob&#8217;s Guide to Mesh Networking</span></h1>
+<p class="post-meta">
+<span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
+<span>October 4, 2016</span>
+<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+<span><a href="https://www.deepdotweb.com/2016/10/04/noobs-guide-mesh-networking/#comments">3 Comments</a></span>
+</p>
+<div class="clear"></div>
+<div class="entry">
+<p>Have you ever seen <a href="https://i.imgur.com/Srbk0.jpg">Shadowmaster’s Web Hierarchy Primer</a>? A Redditor once referred to it as “the REAL guide to the deep web.”</p>
+<p>I mention this because one section of it describes what are called “Private Networks,” and I quote:</p>
+<p><em>These networks do not require Internet access. Examples: PANs (Personal Area Networks), LANs (Local Area Networks),WANs (Wide Area Networks). PANs are very short-range networks, connecting devices with technologies like bluetooth. LANs are short-range networks, connecting devices via routers or Ethernet cables. WANs are broad-range networks, capable of spanning the globe.</em></p>
+<p>So where do open mesh networks fit into all this? A wireless mesh network is created by connecting wireless access points at each user’s location. They would probably be analogous to the Personal Area Networks or Local Area Networks.</p>
+<p><img class="wp-image-15660 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-2.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-2.jpeg 751w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-2-300x211.jpeg 300w" sizes="(max-width: 751px) 100vw, 751px" /></p>
+<p>What’s interesting about them is that they could potentially provide competition for the traditional internet infrastructure as we know it – independent of ISPs. I discussed two of these networks in the article <a href="https://www.deepdotweb.com/2016/08/14/netsukuku-gnunet-viable-tor-alternatives/">Netsukuku and GNUnet: Viable Tor Alternatives?</a></p>
+<p>Though those networks are some of the better known mesh protocols, there are <em>over 70</em> competing schemes for routing packets across mesh networks in existence, with more in development – which is why I’ll only elaborate on a few here.</p>
+<p><strong>CCNx</strong></p>
+<p><strong><img class="wp-image-15661 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-3.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-3.jpeg 692w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-3-256x300.jpeg 256w" sizes="(max-width: 692px) 100vw, 692px" /></strong></p>
+<p>CCNx was one of the first mesh networks I was able to connect to. In their words, “The vision of Project CCNx® is to develop, promote and evaluate a new approach to a communication architecture we call content-centric networking.”</p>
+<p>Project CCNx is sponsored by the <a href="http://www.parc.com/">Palo Alto Research Center (PARC)</a>. They have created a new networking architecture that they call Content-Centric Networking (CCN). As opposed to IP-based Internet architecture, CCN makes content directly addressable and routable through a name-based system.</p>
+<p>The main principles of the system are:</p>
+<ul>
+<li>Content should be reachable by name, as opposed to a machine address. The process of using names to access information is more efficient than using IP and MAC addresses.</li>
+<li>Content should be safeguarded, instead of the connection (e.g. HTTPS); the data is what’s most important, so that’s what should be defended.</li>
+<li>Computing and memory can be programmed into the network as well, making up a full P2P network.</li>
+</ul>
+<p>To see CCNx’s protocol architecture in more detail, read <a href="http://www.ccnx.org/pubs/CCNxProtocolArchitecture.pdf">CCNx 1.0 Protocol Architecture</a>.</p>
+<p>You may wonder, can I actually connect to this network? Yes, in fact, you can, although like its mesh-routing peers, CCNx requires at least <em>some</em> prior knowledge. The source code is available at <a href="http://www.ccnx.org/releases/distillery-ccnx-absinthe-source-current.tgz">CCNx Sources</a>. PARC encourages developers to experiment with it and create original apps, etc.</p>
+<p>I also found a mobile CCNx relay for Android devices (developed by Razortooth Communications), which you can download at <a href="https://play.google.com/store/apps/details?id=com.rtc.ccnx.droid">CCNx TxRxRelay</a>. I can vouch that it works, although I have yet to connect to any peers. Anybody else want to be my wireless mesh neighbor?</p>
+<p><img class="wp-image-15662 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-4.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-4.jpeg 307w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-4-180x300.jpeg 180w" sizes="(max-width: 307px) 100vw, 307px" /></p>
+<p>This is quite a condensement of the material, but some of the links will explain in greater detail. As the network catches on with more people, it’s likely that it will have more functionality.</p>
+<p><strong>Cjdns</strong></p>
+<p><strong><img class="wp-image-15663 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-5.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-5.png 612w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-5-300x228.png 300w" sizes="(max-width: 612px) 100vw, 612px" /></strong></p>
+<p>Cjdns, like CCNx, is a networking protocol. Its creator, Caleb James DeLisle (a.k.a. cjdelisle), wanted to create a network that was simple to set up, but also fast and secure.</p>
+<p>The protocol implements an encrypted IPv6 network. It allocates addresses using public-key cryptography, while using a distributed hash table (DHT) for routing. In this way, it’s very similar to the <a href="https://github.com/irungentoo/toxcore">Tox instant messenger</a>, the <a href="http://www.yacy.net/en/">YaCy search engine</a>, and <a href="https://freenetproject.org/">Freenet</a>.</p>
+<p>Cjdns communicates with other computer programs through a <a href="http://vtun.sourceforge.net/tun/faq.html">TUN device</a>; the computer interprets this as a network interface that would accept IP datagrams.</p>
+<p>You may ask, so, why should I care? Well, if you’re a user of Tor, I2P, or other anonymity networks, then this is right up your alley! Cjdns only allows computers to communicate with one another after they have been verified cryptographically, therefore leaving very little chance for an intruder to spy on their traffic.</p>
+<p>Like Tor’s hidden services, cjdns addresses are generated via a secure hash algorithm. In this case, the addresses are the first 16 bytes (128 bits) of the double <a href="https://en.wikipedia.org/wiki/SHA-2">SHA-512</a> of the public key. It is required, however, that all addresses begin with the byte 0xFC, which is a private address (a.k.a. a unique local address or ULA). Follow so far?</p>
+<p>If not, DeLisle’s <a href="https://github.com/cjdelisle/cjdns">Github repository</a> for cjdns may explain a bit further.</p>
+<p>The main point is that cjdns was designed with security as a top priority, yet it doesn’t have to load slowly either (as is one of the common complaints about the Tor network). I suggest you try it.</p>
+<p>I should also mention that there’s another network by the name of <a href="https://hyperboria.net/">Hyperboria</a> that uses the cjdns routing protocol. Hyperboria is a P2P IPv6 network that features such things as:</p>
+<ul>
+<li>Automatic end-to-end encryption</li>
+<li>Distributed IP address allocation</li>
+<li>DHT-based Source Routing</li>
+</ul>
+<p>Hyperboria’s motto is “The privacy friendly network without borders.” If you have the opportunity to connect to cjdns and like it, then I would further recommend you try out Hyperboria as well.</p>
+<p>Heck, how can you not like a network who took part in the <a href="https://battlemesh.org">Wireless Battle of the Mesh</a>?</p>
+<p><strong>Libre Mesh (LiMe)</strong></p>
+<p><img class="wp-image-15664 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-6.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-6.png 396w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-6-300x162.png 300w" sizes="(max-width: 396px) 100vw, 396px" /></p>
+<p>The Libre Mesh project (LiMe) was started in 2013, by a group of network activists from a number of different countries.</p>
+<p>Like CCNx, the project was founded with several philosophical goals in mind:</p>
+<ul>
+<li>It’s an open network; anyone can connect with the right hardware.</li>
+<li>It’s neutral; there are no restrictions on the type, origin, or destination of the data.</li>
+<li>It’s free, hence the Spanish word “libre”; it has no restrictions.</li>
+</ul>
+<p>The “project” isn’t one piece of hardware or software in and of itself – it consists of the development of several tools. Libre Mesh’s firmware will create the possibility to deploy automatically configurable multi-radio mesh networks.</p>
+<p>The network architecture, as you can see in the above diagram, is based in two layers:</p>
+<ul>
+<li>Cloud Layer 2: this uses the dynamic routing protocol known as BATMAN-ADV. B.A.T.M.A.N. stands for “Better Approach to Mobile Ad-Hoc Networking.” (They have their own site at <a href="https://www.open-mesh.org/projects/open-mesh/wiki">WikiStart &#8211; OpenMesh &#8211; B.A.T.M.A.N.</a>)</li>
+<li>Network Layer 3: this uses, by default, the routing protocol BMX (BatMan-eXperimental). BMX6 (and its latest version, BMX7) is an IPV6 native dynamic routing protocol that boasts advanced features.</li>
+</ul>
+<p>To see more details about how Libre Mesh works, visit <a href="http://libre-mesh.org/howitworks.html">Libre Mesh: Objectives to Achieve.</a> I have yet to actually connect to LiMe, but I’ll leave that up to you, my fellow dark web explorers. You can download the precompiled binaries at <a href="http://downloads.libre-mesh.org/community_chaos/">Index of /community_chaos</a>.</p>
+<p>Let’s not forget – they also have a GitHub repository at <a href="https://github.com/libremesh/">Libre Mesh</a>.</p>
+<p><strong>The Network is Out There…</strong></p>
+<p>Besides the three networks above, there are dozens of other mesh networks that are either active, or being developed. So, if none of those interest you, check out some of these links:</p>
+<p><a href="http://wiki.laptop.org/go/Mesh_Network_Details">OLPC Mesh Network</a></p>
+<p><a href="https://sites.google.com/a/opensailing.net/digitata/">Digitata</a></p>
+<p><a href="http://www.smesh.org/">SMesh</a></p>
+<p><a href="https://www.irif.fr/~jch/software/babel/">Babel</a></p>
+<p><a href="http://owl.eng.mcmaster.ca/~todd/SolarMESH/">SolarMESH</a></p>
+<p><a href="http://ronja.twibright.com/about.php">Ronja</a></p>
+<p>That being said, it looks as though there’s a much larger “<a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">dark web</a>” than I ever could have imagined. Time to explore, is it not?</p>
+</div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/mesh/" rel="tag">mesh</a> <a href="https://www.deepdotweb.com/tag/networking/" rel="tag">networking</a> <a href="https://www.deepdotweb.com/tag/noobs/" rel="tag">noobs</a></span> <span style="display:none" class="updated">2016-10-04</span>
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
+</div>
+</article>
+<div class="related-posts">
+<h3>You might also like</h3>
+<div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: center; cursor: pointer;" href="https://www.deepdotweb.com/2016/06/08/fbi-wants-biometric-data-left-privacy-act/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(https://www.deepdotweb.com/wp-content/uploads/2016/06/biometric-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px; background-size: cover;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">FBI Wants Your Biometric Data Left Out of the Privacy Act</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: center; cursor: pointer;" href="https://www.deepdotweb.com/2017/04/01/suspected-drug-dealer-small-german-town-arrested-attempted-weapon-purchase/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(https://www.deepdotweb.com/wp-content/uploads/2017/03/schrobenhausen-after-arms-sales-continue-in-u-cus-150x150.jpeg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px; background-size: cover;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Suspected Drug Dealer In Small German Town Arrested For Attempted Weapon Purchase</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: center; cursor: pointer;" href="https://www.deepdotweb.com/2018/02/17/man-arrested-selling-darknet-drug-college-students/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(https://www.deepdotweb.com/wp-content/uploads/2016/11/arrested-150x150.png) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px; background-size: cover;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Man Arrested For Selling Darknet Drug to College Students</div></div></a></div><div style="clear: both"></div>
+</div>
+<div id="comments">
+<h3 id="comments-title">
+3 comments </h3>
+<ol class="commentlist"> <li id="comment-616536">
+<div class="comment even thread-even depth-1 comment-wrap">
+<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/4ac7389565e170316b999e8db6bf4ae8?s=45&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4ac7389565e170316b999e8db6bf4ae8?s=90&#038;d=mm&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+<div class="author-comment">
+<cite class="fn">blap</cite> <div class="comment-meta commentmetadata">
+<a href="https://www.deepdotweb.com/2016/10/04/noobs-guide-mesh-networking/#comment-616536"> October 5, 2016 at 11:31 am</a> </div>
+</div>
+<div class="clear"></div>
+<div class="comment-content">
+<p>great article, thank you deepdotweb!</p>
+</div>
+<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://www.deepdotweb.com/2016/10/04/noobs-guide-mesh-networking/?replytocom=616536#respond' onclick='return addComment.moveForm( "comment-616536", "616536", "respond", "15659" )' aria-label='Reply to blap'>Reply</a></div>
+</div>
+</li>
+<li id="comment-616539">
+<div class="comment odd alt thread-odd thread-alt depth-1 comment-wrap">
+<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/66cea38c4d1955bb155591fa19548213?s=45&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/66cea38c4d1955bb155591fa19548213?s=90&#038;d=mm&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+<div class="author-comment">
+<cite class="fn">blacklight</cite> <div class="comment-meta commentmetadata">
+<a href="https://www.deepdotweb.com/2016/10/04/noobs-guide-mesh-networking/#comment-616539"> October 5, 2016 at 12:00 pm</a> </div>
+</div>
+<div class="clear"></div>
+<div class="comment-content">
+<p>great article, can&#8217;t wait for more.</p>
+</div>
+<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://www.deepdotweb.com/2016/10/04/noobs-guide-mesh-networking/?replytocom=616539#respond' onclick='return addComment.moveForm( "comment-616539", "616539", "respond", "15659" )' aria-label='Reply to blacklight'>Reply</a></div>
+</div>
+</li>
+<li id="comment-617115">
+<div class="comment even thread-even depth-1 comment-wrap">
+<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/55aab327f133409d6cd027d00326dbe4?s=45&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/55aab327f133409d6cd027d00326dbe4?s=90&#038;d=mm&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' /></div>
+<div class="author-comment">
+<cite class="fn">Kyler Chin</cite> <div class="comment-meta commentmetadata">
+<a href="https://www.deepdotweb.com/2016/10/04/noobs-guide-mesh-networking/#comment-617115"> October 23, 2016 at 5:56 pm</a> </div>
+</div>
+<div class="clear"></div>
+<div class="comment-content">
+<p>Hello, I&#8217;m a CJDNS developer, @kylerschin . I just want to thank you for making this awesome article. We could really use your help! Thanks!</p>
+</div>
+<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://www.deepdotweb.com/2016/10/04/noobs-guide-mesh-networking/?replytocom=617115#respond' onclick='return addComment.moveForm( "comment-617115", "617115", "respond", "15659" )' aria-label='Reply to Kyler Chin'>Reply</a></div>
+</div>
+</li>
+</ol>
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/10/04/noobs-guide-mesh-networking/#respond" style="display:none;">Cancel reply</a></small></h3> <form action="https://www.deepdotweb.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required='true' /></p>
+<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" type="text" value="" size="30" aria-required='true' /></p>
+<p class="cptch_block"><span class="cptch_title">Captcha:<span class="required"> *</span></span><span class="cptch_wrap cptch_math_actions">
+<label class="cptch_label" for="cptch_input_82"><span class="cptch_span">&#111;ne</span>
+<span class="cptch_span">&nbsp;&#43;&nbsp;</span>
+<span class="cptch_span">5</span>
+<span class="cptch_span">&nbsp;=&nbsp;</span>
+<span class="cptch_span"><input id="cptch_input_82" class="cptch_input cptch_wp_comments" type="text" autocomplete="off" name="cptch_number" value="" maxlength="2" size="2" aria-required="true" required="required" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" /></span>
+<input type="hidden" name="cptch_result" value="+lE=" /><input type="hidden" name="cptch_time" value="1520779562" />
+<input type="hidden" name="cptch_form" value="wp_comments" />
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+						<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+					</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='15659' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="826d0763d9" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="223" /></p> </form>
+</div>
+</div>
+</div>
+<aside id="sidebar">
+<div id="text-5" class="widget widget_text"><div class="widget-top"><h4>Visit:</h4><div class="stripe-line"></div></div>
+<div class="widget-container"> <div class="textwidget"><div align="center">
+<p><a href="https://bitcoincasinos.reviews/?n=side" target="_blank" rel="noopener"><img src="https://www.deepdotweb.com/wp-content/uploads/2016/08/bannerrev.gif" width="300" height="300" /></a><a href="https://coinmixer.se/en/bitcoin-mixing-service/rid/33056950/" target="_blank" rel="nofollow"><img class="aligncenter wp-image-24420" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/mixyourcoins.jpg" alt="" width="278" height="218" /></a> <a href="https://www.deepdotweb.com/vpn-comparison-chart/"><img src="https://www.deepdotweb.com/wp-content/uploads/2015/08/Non-animated1_aNu_22-July-15__300x250_01-orange.jpg" width="330" height="104" /></a></p>
+</div>
+</div>
+</div></div><div id="torlinks-id-2" class="widget torlinks-class"><div class="widget-top"><h4>Markets List &#038; Availability Status</h4><div class="stripe-line"></div></div>
+<div class="widget-container"> <ul>
+<li class="separator"><a href="https://www.deepdotweb.com/marketplace-directory/categories/top-markets/">Top Markets!</a></li>
+<li class="ok"><a href="http://www.deepdotweb.com/marketplace-directory/listing/dream-market/">Dream market - 97.96%</a></li>
+<li class="ok"><a href="http://www.deepdotweb.com/marketplace-directory/listing/t%E2%80%A2chka-free-market/">Point / T•chka Free Market - 86.39%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/wall-street-market/">Wall Street Market - 97.02%</a></li>
+<li class="separator"><a href="https://www.deepdotweb.com/marketplace-directory/categories/invite-markets/">Invite / Referral Markets</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/olympus-market/">Olympus Market - 100%</a></li>
+<li class="bad"><a href="https://www.deepdotweb.com/marketplace-directory/listing/libertas-market/">Libertas Market (Monero Only) - 83.9%</a></li>
+<li class="separator"><a href="https://www.deepdotweb.com/marketplace-directory/categories/markets/">Markets</a></li>
+<li class="ok"><a href="http://www.deepdotweb.com/marketplace-directory/listing/the-majestic-garden/">The Majestic Garden - 96.13%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/zion-market/">Zion Market - 55.48%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/cgmc-cannabis-growers-merchants-cooperative/">CGMC - 83.38%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/berlusconi-market/">Berlusconi Market - 94.54%</a></li>
+<li class="separator"><a href="https://www.deepdotweb.com/marketplace-directory/categories/vendor-shops/">Vendor Shops</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/gammagoblin-pushing-taboo/">Gammagoblin - 89.37%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/the-french-connection/">The French Connection - 97.52%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/charlieuk/">CharlieUK - 87.75%</a></li>
+<li class="bad"><a href="https://www.deepdotweb.com/marketplace-directory/listing/toyouteam/">ToYouTeam - 74.61%</a></li>
+<li class="bad"><a href="https://www.deepdotweb.com/marketplace-directory/listing/europills/">EuroPills - 47.72%</a></li>
+<li class="bad"><a href="https://www.deepdotweb.com/marketplace-directory/listing/fight-club/">Fight Club - 47.63%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/elherbolario/">ElHerbolario - 97.85%</a></li>
+ <li class="bad"><a href="https://www.deepdotweb.com/marketplace-directory/listing/l33ter/">l33TER - 47.08%</a></li>
+<li class="bad"><a href="https://www.deepdotweb.com/marketplace-directory/listing/your-drug/">YourDrug - 37.4%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/the-church-jor/">The Church (JoR) - 91.09%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/rechardsport/">RechardSport - 83.22%</a></li>
+<li class="bad"><a href="https://www.deepdotweb.com/marketplace-directory/listing/dutch-magic/">Dutch Magic - 88.03%</a></li>
+<li class="bad"><a href="https://www.deepdotweb.com/marketplace-directory/listing/stoned100/">Stoned100 - 46.18%</a></li>
+<li class="bad"><a href="https://www.deepdotweb.com/marketplace-directory/listing/mushbud/">MUSHBUD - 33.4%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/qualityking/">QualityKing - 78.2%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/dutchdrugz/">DutchDrugz - 81.55%</a></li>
+<li class="separator"><a href="https://www.deepdotweb.com/marketplace-directory/categories/discussion-forums/">Discussion Forums (Independent)</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/darknet-avengers-dnmavengers/">Darknet Avengers - 97.04%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/the-hub/">The HUB - 91.26%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/onionland/">OnionLand - 97.97%</a></li>
+<li class="separator"><a href="https://www.deepdotweb.com/marketplace-directory/categories/non-english/">Non-English</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/rutor/">RuTor (Russian) - 96.39%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/italian-darknet-community/">IDC (Italian) - 96.89%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/wayaway/">WayAway (Russian) - 98.25%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/french-freedom-zone/">French Freedom Zone - 92.41%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/mercado-negro/">MercadoNegro (Brazillian Portuguese) - 96.58%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/french-deep-web/">French Deep Web - 96.44%</a></li>
+<li class="bad"><a href="https://www.deepdotweb.com/marketplace-directory/listing/hydra-russian/">HYDRA (Russian) - 42.7%</a></li>
+<li class="ok"><a href="https://www.deepdotweb.com/marketplace-directory/listing/italian-deep-web/">Italian Deep Web - 95.94%</a></li>
+</ul>
+
+</div></div><div id="text-9" class="widget widget_text"><div class="widget-top"><h4>Check Out</h4><div class="stripe-line"></div></div>
+<div class="widget-container"> <div class="textwidget"><div align="center">
+<a href="https://www.deepdotweb.com/2014/05/19/writer-dnm-bitcoin-enthusiast-we-want-you/" target="blank"><img src="https://www.deepdotweb.com/wp-content/uploads/2014/05/writer.png" title="writers wanted" /></a>
+<a href="http://energycontrol-international.org/" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/uploads/2016/11/BANNERDEF.jpg" title="Energy Control" /></a>
+<a href="http://freeross.org/" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/uploads/2014/07/free_ross.jpg" title="Free Ross Ulbricht - Dread Pirate Roberts" /></a>
+<a href="http://billpaymenthelp.com/" target="_blank"><img title="Bill Payment Help" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/billpayhelp2.png"></a>
+</div></div>
+</div></div></aside>
+<aside id="sidebar">
+<div class="widget widget-counter col3">
+<ul>
+<li class="rss-subscribers">
+<a href="http://www.deepdotweb.com/feed" target="_blank">
+<strong class="tieicon-rss"></strong>
+<span>Subscribe</span>
+<small>To RSS Feed</small>
+</a>
+</li>
+<li class="twitter-followers">
+<a href="http://www.twitter.com/DeepDotWeb" target="_blank">
+<strong class="tieicon-twitter"></strong>
+<span>7,051</span>
+<small>Followers</small>
+</a>
+</li>
+<li class="facebook-fans">
+<a href="https://www.facebook.com/deepdotwebcom" target="_blank">
+<strong class="tieicon-facebook"></strong>
+<span>2,566</span>
+<small>Fans</small>
+</a>
+</li>
+</ul>
+</div>
+<div id="feedburner-email-subscription-2" class="widget feedburner-email-subscription"><div class="widget-top"><h4>Subscribe For new Posts Notifications:</h4><div class="stripe-line"></div></div>
+<div class="widget-container"><form class="fes fes-default" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open( 'http://feedburner.google.com/fb/a/mailverify?uri=DeepDotWeb', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><div class="form-group"><label class="sr-only"><span class="screen-reader-text">Email Subscription</span></label><input class="form-control search-field" type="text" value="Your email here" onfocus="if(this.value=='Your email here')this.value='';" onblur="if(this.value=='')this.value='Your email here'" name="email" /></div><button type="submit" class="btn btn-default btn-submit">Subscribe Me!</button><input type="hidden" value="DeepDotWeb" name="uri" /><input type="hidden" name="loc" value="en_US" /></form></div></div><div id="text-3" class="widget widget_text"><div class="widget-top"><h4>Must Read</h4><div class="stripe-line"></div></div>
+<div class="widget-container"> <div class="textwidget"><ul>
+<li><a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Updated List of Dark Net Markets</a></li>
+<li><a href="https://www.deepdotweb.com/buy-bitcoins-with-paypal-credit-cards/">Click Here To Buy Bitcoins With Paypal!</a></li>
+<li><a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart</a></li>
+<li><a href="https://www.deepdotweb.com/vpn-comparison-chart/">Best VPN service Comparison Chart</a></li>
+<li><a href="https://www.deepdotweb.com/2015/12/30/buy-drugs-online-from-darknetmarkets/">How To Buy Drugs Online?</a></li>
+<li><a href="https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/">Jolly Roger’s Security Guide for Beginners</a></li>
+<li><a href="https://www.deepdotweb.com/multisig-guides/">MultiSig Guides</a></li>
+<li><a href="https://www.deepdotweb.com/security-tutorials/">Security Tutorials</a></li>
+<li><a href="https://www.deepdotweb.com/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">How to access I2P Sites</a></li>
+<li><a href="https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/">PGP Tutorial For Newbs (GPA - Gpg4Win)</a></li>
+<li><a href="https://www.deepdotweb.com/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">PGP Tutorial For Newbs (Kleopatra - Gpg4Win)</a></li>
+<li><a href="https://www.deepdotweb.com/2015/06/21/pgp-tutorial-for-newbs-gpg4usb/">PGP Tutorial For Newbs Gpg4usb</a></li>
+<li><a href="https://www.deepdotweb.com/2015/02/17/basic-guide-pgp-linux/">Basic Guide to PGP On Linux</a></li>
+<li><a href="http://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/">PGP Tutorial for OSX</a></li>
+<li><a href="https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/">PGP Tutorial for TAILS</a></li>
+<li><a href="http://www.deepdotweb.com/how-to-access-onion-sites/">How to access .onion sites?</a></li>
+<li><a href="http://www.deepdotweb.com/2014/03/02/deepdotwebs-darknet-dictionary/">DeepDotWeb's Darknet Dictionary</a></li>
+<ul></div>
+</div></div><div id="categories-3" class="widget widget_categories"><div class="widget-top"><h4>Categories</h4><div class="stripe-line"></div></div>
+<div class="widget-container"> <ul>
+<li class="cat-item cat-item-1564"><a href="https://www.deepdotweb.com/category/articles/">Articles</a>
+</li>
+<li class="cat-item cat-item-4"><a href="https://www.deepdotweb.com/category/deepdot-news/" title="Featured articles">Featured</a>
+</li>
+<li class="cat-item cat-item-2"><a href="https://www.deepdotweb.com/category/memes/">Memes &amp; Funny</a>
+</li>
+<li class="cat-item cat-item-2610"><a href="https://www.deepdotweb.com/category/news/">News</a>
+</li>
+<li class="cat-item cat-item-1563"><a href="https://www.deepdotweb.com/category/news-updates/">News Updates</a>
+</li>
+<li class="cat-item cat-item-1"><a href="https://www.deepdotweb.com/category/uncategorized/">Uncategorized</a>
+</li>
+<li class="cat-item cat-item-5"><a href="https://www.deepdotweb.com/category/videos/">Videos</a>
+</li>
+</ul>
+</div></div> <div class="widget" id="tabbed-widget">
+<div class="widget-container">
+<div class="widget-top">
+<ul class="tabs posts-taps">
+<li class="tabs"><a href="#tab1">Popular</a></li>
+<li class="tabs"><a href="#tab2">Recent</a></li>
+<li class="tabs"><a href="#tab3">Comments</a></li>
+<li class="tabs" style="margin-left:0"><a href="#tab4">Tags</a></li>
+</ul>
+</div>
+<div id="tab1" class="tabs-wrap">
+<ul>
+<li>
+<div class="post-thumbnail">
+<a href="https://www.deepdotweb.com/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/" title="Permalink to While Markets Get Seized: Pedophiles Launch a Crowdfunding Site" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2014/11/pcf-55x55.png" class="attachment-tie-small size-tie-small" alt="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site" title="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/11/pcf-55x55.png 55w, https://www.deepdotweb.com/wp-content/uploads/2014/11/pcf-150x150.png 150w, https://www.deepdotweb.com/wp-content/uploads/2014/11/pcf-50x50.png 50w" sizes="(max-width: 55px) 100vw, 55px" /><span class="overlay-icon"></span></a>
+</div>
+<h3><a href="https://www.deepdotweb.com/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/" title="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site">While Markets Get Seized: Pedophiles Launch a Crowdfunding Site</a></h3>
+<span class="date"><span>November 9, 2014</span></span>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="https://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/" title="Permalink to Is your VPN Legit or Shit?" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2014/06/vpn-55x55.jpg" class="attachment-tie-small size-tie-small" alt="Is your VPN Legit or Shit?" title="Is your VPN Legit or Shit?" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/06/vpn-55x55.jpg 55w, https://www.deepdotweb.com/wp-content/uploads/2014/06/vpn-150x150.jpg 150w, https://www.deepdotweb.com/wp-content/uploads/2014/06/vpn-50x50.jpg 50w" sizes="(max-width: 55px) 100vw, 55px" /><span class="overlay-icon"></span></a>
+</div>
+<h3><a href="https://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/" title="Is your VPN Legit or Shit?">Is your VPN Legit or Shit?</a></h3>
+<span class="date"><span>July 8, 2014</span></span>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" title="Permalink to Updated: List of Dark Net Markets (Tor &#038; I2P)" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2013/10/original1-55x55.jpg" class="attachment-tie-small size-tie-small" alt="Updated: List of Dark Net Markets (Tor &#038; I2P)" title="Updated: List of Dark Net Markets (Tor &#038; I2P)" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/10/original1-55x55.jpg 55w, https://www.deepdotweb.com/wp-content/uploads/2013/10/original1-150x150.jpg 150w, https://www.deepdotweb.com/wp-content/uploads/2013/10/original1-50x50.jpg 50w" sizes="(max-width: 55px) 100vw, 55px" /><span class="overlay-icon"></span></a>
+</div>
+<h3><a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" title="Updated: List of Dark Net Markets (Tor &#038; I2P)">Updated: List of Dark Net Markets (Tor &#038; I2P)</a></h3>
+<span class="date"><span>October 28, 2013</span></span>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" title="Permalink to PGP Tutorial For Newbs (Gpg4Win)" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2013/11/14-55x55.png" class="attachment-tie-small size-tie-small" alt="PGP Tutorial For Newbs (Gpg4Win)" title="PGP Tutorial For Newbs (Gpg4Win)" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/11/14-55x55.png 55w, https://www.deepdotweb.com/wp-content/uploads/2013/11/14-150x150.png 150w, https://www.deepdotweb.com/wp-content/uploads/2013/11/14-50x50.png 50w" sizes="(max-width: 55px) 100vw, 55px" /><span class="overlay-icon"></span></a>
+</div>
+<h3><a href="https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" title="PGP Tutorial For Newbs (Gpg4Win)">PGP Tutorial For Newbs (Gpg4Win)</a></h3>
+<span class="date"><span>November 11, 2013</span></span>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="https://www.deepdotweb.com/2014/04/08/grams-darknetmarkets-search-engine/" title="Permalink to Grams: DarkNetMarkets Search Engine" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2014/04/grams-55x55.png" class="attachment-tie-small size-tie-small" alt="Grams: DarkNetMarkets Search Engine" title="Grams: DarkNetMarkets Search Engine" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/04/grams-55x55.png 55w, https://www.deepdotweb.com/wp-content/uploads/2014/04/grams-150x150.png 150w, https://www.deepdotweb.com/wp-content/uploads/2014/04/grams-50x50.png 50w" sizes="(max-width: 55px) 100vw, 55px" /><span class="overlay-icon"></span></a>
+</div>
+<h3><a href="https://www.deepdotweb.com/2014/04/08/grams-darknetmarkets-search-engine/" title="Grams: DarkNetMarkets Search Engine">Grams: DarkNetMarkets Search Engine</a></h3>
+<span class="date"><span>April 8, 2014</span></span>
+</li>
+</ul>
+</div>
+<div id="tab2" class="tabs-wrap">
+<ul>
+<li>
+<div class="post-thumbnail">
+<a href="https://www.deepdotweb.com/2018/03/11/cryptocurrency-news-roundup-march-10-2018/" title="Permalink to Cryptocurrency news roundup, March 10, 2018" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2014/07/CoinsFrontPage11-55x55.jpg" class="attachment-tie-small size-tie-small" alt="Cryptocurrency news roundup, March 10, 2018" title="Cryptocurrency news roundup, March 10, 2018" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/07/CoinsFrontPage11-55x55.jpg 55w, https://www.deepdotweb.com/wp-content/uploads/2014/07/CoinsFrontPage11-150x150.jpg 150w, https://www.deepdotweb.com/wp-content/uploads/2014/07/CoinsFrontPage11-50x50.jpg 50w" sizes="(max-width: 55px) 100vw, 55px" /><span class="overlay-icon"></span></a>
+</div>
+<h3><a href="https://www.deepdotweb.com/2018/03/11/cryptocurrency-news-roundup-march-10-2018/">Cryptocurrency news roundup, March 10, 2018</a></h3>
+<span class="date"><span>March 11, 2018</span></span>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="https://www.deepdotweb.com/2018/03/11/high-school-student-busted-selling-xanax-undercover-cop/" title="Permalink to High school Student Busted For Selling Xanax to an Undercover Cop" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-13-55x55.jpeg" class="attachment-tie-small size-tie-small" alt="High school Student Busted For Selling Xanax to an Undercover Cop" title="High school Student Busted For Selling Xanax to an Undercover Cop" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-13-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-13-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-13-50x50.jpeg 50w" sizes="(max-width: 55px) 100vw, 55px" /><span class="overlay-icon"></span></a>
+</div>
+<h3><a href="https://www.deepdotweb.com/2018/03/11/high-school-student-busted-selling-xanax-undercover-cop/">High school Student Busted For Selling Xanax to an Undercover Cop</a></h3>
+<span class="date"><span>March 11, 2018</span></span>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="https://www.deepdotweb.com/2018/03/10/another-chemical-love-customer-faces-prison-drug-purchases/" title="Permalink to Another Chemical Love Customer Faces Prison for Drug Purchases" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-12-55x55.jpeg" class="attachment-tie-small size-tie-small" alt="Another Chemical Love Customer Faces Prison for Drug Purchases" title="Another Chemical Love Customer Faces Prison for Drug Purchases" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-12-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-12-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-12-50x50.jpeg 50w" sizes="(max-width: 55px) 100vw, 55px" /><span class="overlay-icon"></span></a>
+</div>
+<h3><a href="https://www.deepdotweb.com/2018/03/10/another-chemical-love-customer-faces-prison-drug-purchases/">Another Chemical Love Customer Faces Prison for Drug Purchases</a></h3>
+<span class="date"><span>March 10, 2018</span></span>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="https://www.deepdotweb.com/2018/03/10/british-dark-web-pedophile-jailed-32-years/" title="Permalink to British Dark Web Pedophile Jailed For 32 Years" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/prisonfeat-55x55.png" class="attachment-tie-small size-tie-small" alt="British Dark Web Pedophile Jailed For 32 Years" title="British Dark Web Pedophile Jailed For 32 Years" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/prisonfeat-55x55.png 55w, https://www.deepdotweb.com/wp-content/uploads/2017/02/prisonfeat-150x150.png 150w, https://www.deepdotweb.com/wp-content/uploads/2017/02/prisonfeat-50x50.png 50w" sizes="(max-width: 55px) 100vw, 55px" /><span class="overlay-icon"></span></a>
+</div>
+<h3><a href="https://www.deepdotweb.com/2018/03/10/british-dark-web-pedophile-jailed-32-years/">British Dark Web Pedophile Jailed For 32 Years</a></h3>
+<span class="date"><span>March 10, 2018</span></span>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="https://www.deepdotweb.com/2018/03/08/russian-dark-web-drug-linked-mass-school-overdose/" title="Permalink to Russian Dark Web Drug Linked to Mass School Overdose" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2015/01/russia1-55x55.jpg" class="attachment-tie-small size-tie-small" alt="Russian Dark Web Drug Linked to Mass School Overdose" title="Russian Dark Web Drug Linked to Mass School Overdose" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/01/russia1-55x55.jpg 55w, https://www.deepdotweb.com/wp-content/uploads/2015/01/russia1-150x150.jpg 150w, https://www.deepdotweb.com/wp-content/uploads/2015/01/russia1-50x50.jpg 50w" sizes="(max-width: 55px) 100vw, 55px" /><span class="overlay-icon"></span></a>
+</div>
+<h3><a href="https://www.deepdotweb.com/2018/03/08/russian-dark-web-drug-linked-mass-school-overdose/">Russian Dark Web Drug Linked to Mass School Overdose</a></h3>
+<span class="date"><span>March 8, 2018</span></span>
+</li>
+</ul>
+</div>
+<div id="tab3" class="tabs-wrap">
+<ul>
+<li>
+<div class="post-thumbnail">
+<img alt='' src='https://secure.gravatar.com/avatar/0336d2319ca5a5030651b6710bb36ea6?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0336d2319ca5a5030651b6710bb36ea6?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /> </div>
+<a href="https://www.deepdotweb.com/2018/03/10/british-dark-web-pedophile-jailed-32-years/#comment-655311">
+Name: I have handed over ip-logs of pedos 75% was from the religio... </a>
+</li>
+<li>
+<div class="post-thumbnail">
+<img alt='' src='https://secure.gravatar.com/avatar/46082c15053ac2db7d3ea9b3a13a56b6?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/46082c15053ac2db7d3ea9b3a13a56b6?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /> </div>
+<a href="https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/are-you-using-safe-mail-net/#comment-655310">
+hero: just delete account then all is gonna ASAP fool!!... </a>
+</li>
+<li>
+<div class="post-thumbnail">
+<img alt='' src='https://secure.gravatar.com/avatar/24f65eef227729cf9986eda1d6360d57?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/24f65eef227729cf9986eda1d6360d57?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /> </div>
+<a href="https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/are-you-using-safe-mail-net/#comment-655309">
+larkin: how can you permanently delete a free safe mail account? I c... </a>
+</li>
+<li>
+<div class="post-thumbnail">
+<img alt='' src='https://secure.gravatar.com/avatar/37068f849208a559b273f1a2303ca834?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/37068f849208a559b273f1a2303ca834?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /> </div>
+<a href="https://www.deepdotweb.com/2018/03/08/three-us-naval-cadets-investigation-dealing-drug-trade-darknet-2/#comment-655301">
+Leethee: Watch! Any given moment, those 3 will go free. Why? Because... </a>
+</li>
+<li>
+<div class="post-thumbnail">
+<img alt='' src='https://secure.gravatar.com/avatar/37068f849208a559b273f1a2303ca834?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/37068f849208a559b273f1a2303ca834?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /> </div>
+<a href="https://www.deepdotweb.com/2018/03/02/raleigh-man-pleaded-guilty-darknet-xanax-distribution/#comment-655300">
+Leethee: Damn, this dude must've lived it up with all that cash in ha... </a>
+</li>
+</ul>
+</div>
+<div id="tab4" class="tabs-wrap tagcloud">
+<a href="https://www.deepdotweb.com/tag/bitcoin/" class="tag-cloud-link tag-link-441 tag-link-position-1" style="font-size: 8pt;">bitcoin</a>
+<a href="https://www.deepdotweb.com/tag/darknet/" class="tag-cloud-link tag-link-422 tag-link-position-2" style="font-size: 8pt;">darknet</a>
+<a href="https://www.deepdotweb.com/tag/dark/" class="tag-cloud-link tag-link-699 tag-link-position-3" style="font-size: 8pt;">dark</a>
+<a href="https://www.deepdotweb.com/tag/web/" class="tag-cloud-link tag-link-449 tag-link-position-4" style="font-size: 8pt;">web</a>
+<a href="https://www.deepdotweb.com/tag/roundup/" class="tag-cloud-link tag-link-1666 tag-link-position-5" style="font-size: 8pt;">roundup</a>
+<a href="https://www.deepdotweb.com/tag/drug/" class="tag-cloud-link tag-link-121 tag-link-position-6" style="font-size: 8pt;">drug</a>
+<a href="https://www.deepdotweb.com/tag/news/" class="tag-cloud-link tag-link-895 tag-link-position-7" style="font-size: 8pt;">news</a>
+<a href="https://www.deepdotweb.com/tag/arrested/" class="tag-cloud-link tag-link-39 tag-link-position-8" style="font-size: 8pt;">arrested</a>
+<a href="https://www.deepdotweb.com/tag/sentenced/" class="tag-cloud-link tag-link-1558 tag-link-position-9" style="font-size: 8pt;">sentenced</a>
+<a href="https://www.deepdotweb.com/tag/vendor/" class="tag-cloud-link tag-link-1047 tag-link-position-10" style="font-size: 8pt;">vendor</a>
+<a href="https://www.deepdotweb.com/tag/man/" class="tag-cloud-link tag-link-83 tag-link-position-11" style="font-size: 8pt;">man</a>
+<a href="https://www.deepdotweb.com/tag/tor/" class="tag-cloud-link tag-link-30 tag-link-position-12" style="font-size: 8pt;">tor</a>
+<a href="https://www.deepdotweb.com/tag/silk/" class="tag-cloud-link tag-link-119 tag-link-position-13" style="font-size: 8pt;">silk</a>
+<a href="https://www.deepdotweb.com/tag/police/" class="tag-cloud-link tag-link-1260 tag-link-position-14" style="font-size: 8pt;">police</a>
+<a href="https://www.deepdotweb.com/tag/road/" class="tag-cloud-link tag-link-120 tag-link-position-15" style="font-size: 8pt;">road</a>
+<a href="https://www.deepdotweb.com/tag/market/" class="tag-cloud-link tag-link-81 tag-link-position-16" style="font-size: 8pt;">market</a>
+<a href="https://www.deepdotweb.com/tag/drugs/" class="tag-cloud-link tag-link-36 tag-link-position-17" style="font-size: 8pt;">drugs</a>
+<a href="https://www.deepdotweb.com/tag/price/" class="tag-cloud-link tag-link-1769 tag-link-position-18" style="font-size: 8pt;">price</a>
+<a href="https://www.deepdotweb.com/tag/prison/" class="tag-cloud-link tag-link-1193 tag-link-position-19" style="font-size: 8pt;">prison</a>
+<a href="https://www.deepdotweb.com/tag/german/" class="tag-cloud-link tag-link-191 tag-link-position-20" style="font-size: 8pt;">german</a>
+<a href="https://www.deepdotweb.com/tag/child/" class="tag-cloud-link tag-link-985 tag-link-position-21" style="font-size: 8pt;">child</a>
+<a href="https://www.deepdotweb.com/tag/years/" class="tag-cloud-link tag-link-1559 tag-link-position-22" style="font-size: 8pt;">years</a>
+<a href="https://www.deepdotweb.com/tag/net/" class="tag-cloud-link tag-link-700 tag-link-position-23" style="font-size: 8pt;">net</a>
+<a href="https://www.deepdotweb.com/tag/analysis/" class="tag-cloud-link tag-link-1807 tag-link-position-24" style="font-size: 8pt;">analysis</a>
+<a href="https://www.deepdotweb.com/tag/busted/" class="tag-cloud-link tag-link-399 tag-link-position-25" style="font-size: 8pt;">busted</a> </div>
+</div>
+</div>
+<div id="latest-tweets-widget-2" class="widget twitter-widget"><div class="widget-top"><h4> <a href="http://twitter.com/DeepDotWeb">@Follow Me</a>
+</h4><div class="stripe-line"></div></div>
+<div class="widget-container">
+<div id="twitter-widget">
+<ul class="twitter_update_list">
+<li class="twitter-item">Bolivia Police arrests 60 people for Cryptocurrency crimes - <a href="https://t.co/J7rMupv1e0" class="twitter-link">https://t.co/J7rMupv1e0</a> <a href="http://twitter.com/#search?q=darkweb" class="twitter-link">#darkweb</a> <a href="http://twitter.com/#search?q=privacy" class="twitter-link">#privacy</a> <a href="http://twitter.com/#search?q=deepdotweb" class="twitter-link">#deepdotweb</a> <a href="https://t.co/Z0jeEx9s5i" class="twitter-link">https://t.co/Z0jeEx9s5i</a> <small class="twitter-timestamp"><abbr title="2017/06/12 01:48:32">2017/06/12</abbr></small></li>
+<li class="twitter-item">Austria Urges The Netherlands To Shut Down Drug Laboratories - <a href="https://t.co/4pNRjJiwuR" class="twitter-link">https://t.co/4pNRjJiwuR</a> <a href="http://twitter.com/#search?q=darkweb" class="twitter-link">#darkweb</a> <a href="http://twitter.com/#search?q=privacy" class="twitter-link">#privacy</a> <a href="http://twitter.com/#search?q=deepdotweb" class="twitter-link">#deepdotweb</a> <a href="https://t.co/F3AUmcchvM" class="twitter-link">https://t.co/F3AUmcchvM</a> <small class="twitter-timestamp"><abbr title="2017/06/11 21:04:24">2017/06/11</abbr></small></li>
+<li class="twitter-item">Residential Community Was Involved In Dark Web Drug Deals In Germany - <a href="https://t.co/4kzpQi82ql" class="twitter-link">https://t.co/4kzpQi82ql</a> <a href="http://twitter.com/#search?q=darkweb" class="twitter-link">#darkweb</a> #privacy… <a href="https://t.co/HdpaJLQViF" class="twitter-link">https://t.co/HdpaJLQViF</a> <small class="twitter-timestamp"><abbr title="2017/06/11 16:04:24">2017/06/11</abbr></small></li>
+<li class="twitter-item">11.6.17 Dark Web and Cybercrime Roundup - <a href="https://t.co/4G5ccqSZq4" class="twitter-link">https://t.co/4G5ccqSZq4</a> <a href="http://twitter.com/#search?q=darkweb" class="twitter-link">#darkweb</a> <a href="http://twitter.com/#search?q=privacy" class="twitter-link">#privacy</a> <a href="http://twitter.com/#search?q=deepdotweb" class="twitter-link">#deepdotweb</a> <a href="https://t.co/TRyiWCYZLK" class="twitter-link">https://t.co/TRyiWCYZLK</a> <small class="twitter-timestamp"><abbr title="2017/06/11 12:04:27">2017/06/11</abbr></small></li>
+<li class="twitter-item">Bitcoin news roundup, June 11, 2017 - <a href="https://t.co/JR4pc4xrCC" class="twitter-link">https://t.co/JR4pc4xrCC</a> <a href="http://twitter.com/#search?q=darkweb" class="twitter-link">#darkweb</a> <a href="http://twitter.com/#search?q=privacy" class="twitter-link">#privacy</a> <a href="http://twitter.com/#search?q=deepdotweb" class="twitter-link">#deepdotweb</a> <a href="https://t.co/c5kGSbNMbB" class="twitter-link">https://t.co/c5kGSbNMbB</a> <small class="twitter-timestamp"><abbr title="2017/06/11 07:38:25">2017/06/11</abbr></small></li>
+</ul> </div>
+</div></div><div id="google-widget-2" class="widget google-widget"><div class="widget-top"><h4>Follow us on Google+ </h4><div class="stripe-line"></div></div>
+<div class="widget-container"> <div class="google-box">
+
+<script type="text/javascript">
+				  (function() {
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					po.src = 'https://apis.google.com/js/plusone.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				  })();
+				</script>
+
+<a style='display: block; height: 0;' href="https://plus.google.com/102978618401401268828" rel="publisher">&nbsp;</a>
+
+<g:plus href="https://plus.google.com/102978618401401268828" height="131" width="280" theme="light"></g:plus>
+</div>
+</div></div></aside> <div class="clear"></div>
+</div>
+<footer id="theme-footer">
+<div id="footer-widget-area" class="footer-4c">
+<div id="footer-first" class="footer-widgets-box">
+<div id="posts-list-widget-1" class="widget footer-widget posts-list"><div class="footer-widget-top"><h4>Popular Posts </h4></div>
+<div class="footer-widget-container"> <ul>
+<li>
+<h3><a href="https://www.deepdotweb.com/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/" title="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site">While Markets Get Seized: Pedophiles Launch a Crowdfunding Site</a></h3>
+<span class="date"><span>November 9, 2014</span></span>
+</li>
+<li>
+<h3><a href="https://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/" title="Is your VPN Legit or Shit?">Is your VPN Legit or Shit?</a></h3>
+<span class="date"><span>July 8, 2014</span></span>
+</li>
+<li>
+<h3><a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" title="Updated: List of Dark Net Markets (Tor &#038; I2P)">Updated: List of Dark Net Markets (Tor &#038; I2P)</a></h3>
+<span class="date"><span>October 28, 2013</span></span>
+</li>
+<li>
+<h3><a href="https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" title="PGP Tutorial For Newbs (Gpg4Win)">PGP Tutorial For Newbs (Gpg4Win)</a></h3>
+<span class="date"><span>November 11, 2013</span></span>
+</li>
+<li>
+<h3><a href="https://www.deepdotweb.com/2014/04/08/grams-darknetmarkets-search-engine/" title="Grams: DarkNetMarkets Search Engine">Grams: DarkNetMarkets Search Engine</a></h3>
+<span class="date"><span>April 8, 2014</span></span>
+</li>
+</ul>
+<div class="clear"></div>
+</div></div> </div>
+<div id="footer-second" class="footer-widgets-box">
+<div id="arpw-widget-3" class="widget footer-widget arpw-widget-random"><div class="footer-widget-top"><h4>Random Posts</h4></div>
+<div class="footer-widget-container"><div class="arpw-random-post "><ul class="arpw-ul"><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="https://www.deepdotweb.com/2014/10/31/bitcoin-set-help-poor-africa/" rel="bookmark">How Bitcoin Is Set To help The Poor In Africa?</a><time class="arpw-time published" datetime="2014-10-31T11:37:34-02:00">October 31, 2014</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="https://www.deepdotweb.com/2016/02/10/bitcoin-news-roundup-10-february-2016/" rel="bookmark">Bitcoin News Roundup – 10 February 2016</a><time class="arpw-time published" datetime="2016-02-10T09:42:44-02:00">February 10, 2016</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="https://www.deepdotweb.com/2014/01/25/infographic-a-comprehensive-guide-to-buying-drugs-using-silk-road-2-0/" rel="bookmark">Infographic &#8211; A Comprehensive Guide to Buying Drugs Using Silk Road 2.0</a><time class="arpw-time published" datetime="2014-01-25T16:56:15-02:00">January 25, 2014</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="https://www.deepdotweb.com/2015/04/14/bitcoin-price-analysis-april-14th/" rel="bookmark">Bitcoin Price Analysis April 14th</a><time class="arpw-time published" datetime="2015-04-14T20:41:14-03:00">April 14, 2015</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="https://www.deepdotweb.com/2014/05/09/interview-pirate-market-admin/" rel="bookmark">The Pirate Market: The Interview That Added A Multi-Sig Market!</a><time class="arpw-time published" datetime="2014-05-09T11:03:22-03:00">May 9, 2014</time></li></ul></div></div></div> </div>
+<div id="footer-third" class="footer-widgets-box">
+<div id="posts-list-widget-3" class="widget footer-widget posts-list"><div class="footer-widget-top"><h4>Latest Posts </h4></div>
+<div class="footer-widget-container"> <ul>
+<li>
+<h3><a href="https://www.deepdotweb.com/2018/03/11/cryptocurrency-news-roundup-march-10-2018/">Cryptocurrency news roundup, March 10, 2018</a></h3>
+<span class="date"><span>March 11, 2018</span></span>
+</li>
+<li>
+<h3><a href="https://www.deepdotweb.com/2018/03/11/high-school-student-busted-selling-xanax-undercover-cop/">High school Student Busted For Selling Xanax to an Undercover Cop</a></h3>
+<span class="date"><span>March 11, 2018</span></span>
+</li>
+<li>
+<h3><a href="https://www.deepdotweb.com/2018/03/10/another-chemical-love-customer-faces-prison-drug-purchases/">Another Chemical Love Customer Faces Prison for Drug Purchases</a></h3>
+<span class="date"><span>March 10, 2018</span></span>
+</li>
+<li>
+<h3><a href="https://www.deepdotweb.com/2018/03/10/british-dark-web-pedophile-jailed-32-years/">British Dark Web Pedophile Jailed For 32 Years</a></h3>
+<span class="date"><span>March 10, 2018</span></span>
+</li>
+<li>
+<h3><a href="https://www.deepdotweb.com/2018/03/08/russian-dark-web-drug-linked-mass-school-overdose/">Russian Dark Web Drug Linked to Mass School Overdose</a></h3>
+<span class="date"><span>March 8, 2018</span></span>
+</li>
+</ul>
+<div class="clear"></div>
+</div></div> </div>
+<div id="footer-fourth" class="footer-widgets-box">
+<div id="recent-comments-3" class="widget footer-widget widget_recent_comments"><div class="footer-widget-top"><h4>Recent Comments</h4></div>
+<div class="footer-widget-container"><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Name</span> on <a href="https://www.deepdotweb.com/2018/03/10/british-dark-web-pedophile-jailed-32-years/#comment-655311">British Dark Web Pedophile Jailed For 32 Years</a></li><li class="recentcomments"><span class="comment-author-link">hero</span> on <a href="https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/are-you-using-safe-mail-net/#comment-655310">ARE YOU USING SAFE-MAIL.NET ?</a></li><li class="recentcomments"><span class="comment-author-link">larkin</span> on <a href="https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/are-you-using-safe-mail-net/#comment-655309">ARE YOU USING SAFE-MAIL.NET ?</a></li><li class="recentcomments"><span class="comment-author-link">Leethee</span> on <a href="https://www.deepdotweb.com/2018/03/08/three-us-naval-cadets-investigation-dealing-drug-trade-darknet-2/#comment-655301">Three US Naval Cadets under Investigation for Dealing in Drug Trade on Darknet</a></li><li class="recentcomments"><span class="comment-author-link">Leethee</span> on <a href="https://www.deepdotweb.com/2018/03/02/raleigh-man-pleaded-guilty-darknet-xanax-distribution/#comment-655300">Raleigh Man Pleaded Guilty to Darknet Xanax Distribution</a></li></ul></div></div> </div>
+</div>
+<div class="clear"></div>
+</footer>
+<div class="clear"></div>
+<div class="footer-bottom">
+<div class="container">
+<div class="alignright">
+
+</div>
+
+<div class="alignleft">
+<a class="footer-logo" title="Deep Dot Web" href="https://www.deepdotweb.com/">
+<img src="https://www.deepdotweb.com/wp-content/themes/sahifa-child-new/images/deep-dot-web-logo.svg" alt="" />
+</a>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+<script>
+			<!--
+			var sc_project=9581585;
+			var sc_security="dbbcf343";
+						var scJsHost = (("https:" == document.location.protocol) ?
+				"https://secure." : "http://www.");
+			//-->
+			
+document.write("<sc"+"ript src='" +scJsHost +"statcounter.com/counter/counter.js'></"+"script>");		</script>
+<noscript><div class="statcounter"><a title="web analytics" href="https://statcounter.com/"><img class="statcounter" src="https://c.statcounter.com/9581585/0/dbbcf343/0/" alt="web analytics" /></a></div></noscript>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50836151-1', 'deepdotweb.com');
+  ga('send', 'pageview');
+
+</script><br> <script type="text/javascript">
+                    jQuery(function($) {
+                                                jQuery('a[href*="/vpn-comparison-chart/"]', '#menu-main').click(function(e){
+                            try {
+                                if (window._gat) {
+                                    _gaq.push(['_trackEvent', 'wp_aff', 'click', 'topmenu',0, 0]);
+                                } else {
+                                    ga('send', 'event','wp_aff', 'click', 'topmenu', 0);
+                                }
+                            } catch (e) {}
+                            wpCookies.set( 'wp-chart-link', 'topmenu', 0, '/' );
+                        });
+                                                jQuery('a[href*="/vpn-comparison-chart/"]', '#text-3').click(function(e){
+                            try {
+                                if (window._gat) {
+                                    _gaq.push(['_trackEvent', 'wp_aff', 'click', 'sidebar',0, 0]);
+                                } else {
+                                    ga('send', 'event','wp_aff', 'click', 'sidebar', 0);
+                                }
+                            } catch (e) {}
+                            wpCookies.set( 'wp-chart-link', 'sidebar', 0, '/' );
+                        });
+                                                jQuery('a[href*="/vpn-comparison-chart/"]', '.post-inner').click(function(e){
+                            try {
+                                if (window._gat) {
+                                    _gaq.push(['_trackEvent', 'wp_aff', 'click', 'noobs-guide-mesh-networking',0, 0]);
+                                } else {
+                                    ga('send', 'event','wp_aff', 'click', 'noobs-guide-mesh-networking', 0);
+                                }
+                            } catch (e) {}
+                            wpCookies.set( 'wp-chart-link', 'noobs-guide-mesh-networking', 0, '/' );
+                        });
+                                                jQuery('a[href*="/vpn-comparison-chart/"]', '.sabai-row').click(function(e){
+                            try {
+                                if (window._gat) {
+                                    _gaq.push(['_trackEvent', 'wp_aff', 'click', 'market_',0, 0]);
+                                } else {
+                                    ga('send', 'event','wp_aff', 'click', 'market_', 0);
+                                }
+                            } catch (e) {}
+                            wpCookies.set( 'wp-chart-link', 'market_', 0, '/' );
+                        });
+                                                jQuery('a[href*="/vpn-comparison-chart/"]', '.ads-post').click(function(e){
+                            try {
+                                if (window._gat) {
+                                    _gaq.push(['_trackEvent', 'wp_aff', 'click', 'noobs-guide-mesh-networking_ads',0, 0]);
+                                } else {
+                                    ga('send', 'event','wp_aff', 'click', 'noobs-guide-mesh-networking_ads', 0);
+                                }
+                            } catch (e) {}
+                            wpCookies.set( 'wp-chart-link', 'noobs-guide-mesh-networking_ads', 0, '/' );
+                        });
+                                                jQuery('a[href*="/vpn-comparison-chart/"]', '#text-5').click(function(e){
+                            try {
+                                if (window._gat) {
+                                    _gaq.push(['_trackEvent', 'wp_aff', 'click', 'sidebanner',0, 0]);
+                                } else {
+                                    ga('send', 'event','wp_aff', 'click', 'sidebanner', 0);
+                                }
+                            } catch (e) {}
+                            wpCookies.set( 'wp-chart-link', 'sidebanner', 0, '/' );
+                        });
+                                            });
+                </script> <script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.deepdotweb.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.deepdotweb.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0'></script>
+<script type='text/javascript' src='https://www.deepdotweb.com/wp-content/themes/sahifa/js/tie-scripts.js?ver=4.9.3'></script>
+<script type='text/javascript' src='https://www.deepdotweb.com/wp-includes/js/comment-reply.min.js?ver=4.9.3'></script>
+<script type='text/javascript' src='https://www.deepdotweb.com/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+<script async="async" type='text/javascript' src='https://www.deepdotweb.com/wp-content/plugins/akismet/_inc/form.js?ver=4.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cptch_vars = {"nonce":"aaa1c82caf","ajaxurl":"https:\/\/www.deepdotweb.com\/wp-admin\/admin-ajax.php","enlarge":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.deepdotweb.com/wp-content/plugins/captcha/js/front_end_script.js?ver=4.9.3'></script>
+<script>
+jQuery(document).ready(function () {
+jQuery('.single-post .entry img').each(function(){
+jQuery(this).wrap(function() {
+  return '<a href="' + jQuery(this).attr('src') + '" />';
+})   
+});
+});
+</script>
+ <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter42231114 = new Ya.Metrika({ id:42231114, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/42231114" style="position:absolute; left:-9999px;" alt="" /></div></noscript> 
+</body>
+</html>

@@ -1,0 +1,32 @@
+---
+Fentanyl Company Openly Funds Campaign Opposing Marijuana Legalization
+---
+<article class="post-listing post-15453 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-campaign tag-company tag-fentanyl tag-funds tag-legalization tag-marijuana tag-openly tag-opposing">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>September 15, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/09/15/fentanyl-company-openly-funds-campaign-opposing-marijuana-legalization/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>A pharmaceutical company that sells fentanyl donated $500,000 towards defeating a ballot that would legalize marijuana in Arizona. According to information posted online by the Arizona secretary of state’s office, the fentanyl company made a large contribution in late August. Legalization advocates consider this to be evidence that the largest struggle in legalizing marijuana is against pharmaceutical companies.</p>
+    <p>The drug manufacturer, Insys Therapeutics Inc, produces a patented cancer pain relief spray. The spray consists of a simple sublingual fentanyl solution, <a href="http://investors.insysrx.com/phoenix.zhtml?c=115949&amp;p=irol-SECText&amp;TEXT=aHR0cDovL2FwaS50ZW5rd2l6YXJkLmNvbS9maWxpbmcueG1sP2lwYWdlPTExMDc1ODIwJkRTRVE9MCZTRVE9MCZTUURFU0M9U0VDVElPTl9FTlRJUkUmc3Vic2lkPTU3">according to relevant SEC filings</a>.</p>
+    <p><img class="wp-image-15456 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/09/word-image-16.jpeg" /> Fentanyl, the drug in the spray, has been in the media’s spotlight after a series of fentanyl overdoses. Similar to every other opiate and opioid, fentanyl provides analgesia to patients with painful conditions. Due to marijuana’s ability to help user cope with pain, pharmaceutical companies producing painkillers have a lot at stake. Big pharma’s hand in fighting marijuana legalization has never been so transparent.</p>
+    <p>Steven Nelson at <a href="http://www.usnews.com/news/articles/2016-09-08/fentanyl-maker-donates-big-to-campaign-opposing-pot-legalization"><em>U.S. News and World Report</em></a> noted the donation and researched the Arizona-based company. While the fentanyl spray Subsys is currently their only product, the company does have an interesting past.</p>
+    <p>Nelson writes:</p>
+    <p>From 2011 through at least last year, Insys also sold a second product: a generic equivalent to Marinol, a synthetic version of the cannabinoid THC (tetrahydrocannabinol), which the Food and Drug Administration allows for treatment of cancer and HIV-related symptoms like nausea and loss of appetite, which cannabis advocates say the raw plant material can treat without a corporate middleman. Insys said in its August filing it has no plans to resume those sales, though<a href="http://www.medicaldaily.com/fda-approval-liquid-marijuana-thc-pills-393055"> it is</a> preparing a similar drug.</p>
+    <p>One of the largest motivations behind marijuana legalization is the safety of marijuana versus traditional painkillers. <a href="http://www.nytimes.com/roomfordebate/2016/04/26/is-marijuana-a-gateway-drug/overdoses-fell-with-medical-marijuana-legalization">After studying</a> the effects of state medical marijuana laws through 2010, Johns Hopkins University researchers concluded in 2014 that &#8220;medical cannabis laws are associated with significantly lower state-level opioid overdose mortality rates.&#8221;</p>
+    <p>The anti-legalization group Arizonans for Responsible Drug Policy received the donation. And according to campaign manager Adam Deguire, the group will not be returning the funds. Deguire stressed that Insys is an Arizona company and one of the contributors to Arizona’s legalization initiative is not.</p>
+    <p>Advocates for the marijuana legalization initiative Proposition 205 condemned the donation.</p>
+    <p>In a statement by J.P. Holyoak, chairman of the initiative-backing Campaign to Regulate Marijuana Like Alcohol, he said &#8220;we are truly shocked by our opponents&#8217; decision to keep a donation from what appears to be one of the more unscrupulous members of Big Pharma.&#8221;</p>
+    <p>The statement continues:</p>
+    <p>Our opponents have made a conscious decision to associate with this company. They are now funding their campaign with profits from the sale of opioids – and maybe even the improper sale of opioids. We hope that every Arizonan understands that Arizonans for Responsible Drug Policy is now a complete misnomer. Their entire campaign is tainted by this money. Any time an ad airs against Prop. 205, the voters should know that it was paid for by highly suspect Big Pharma actors.</p>
+    <p>Arizonans for Responsible Drug Policy openly made a move that many believe invalidates the group’s authenticity. No longer is the opposition to marijuana legalization driven by public safety. Instead, publicly accepting the donation indicates a protectionist defense for pharmaceutical companies. The fight against marijuana legalization is now openly driven by financial interests.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/campaign/" rel="tag">campaign</a> <a href="https://www.deepdotweb.com/tag/company/" rel="tag">company</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/legalization/" rel="tag">legalization</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/openly/" rel="tag">openly</a> <a href="https://www.deepdotweb.com/tag/opposing/" rel="tag">opposing</a></span> <span style="display:none" class="updated">2016-09-15</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

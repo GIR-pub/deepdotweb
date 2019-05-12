@@ -1,0 +1,32 @@
+---
+Netherlands Police Bust a Massive Darknet Vendor Under New Aliases
+---
+<article class="post-listing post-25197 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-aliases tag-bust tag-darknet tag-massive tag-netherlands tag-police tag-vendor">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>March 30, 2018</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2018/03/30/netherlands-police-bust-massive-darknet-vendor-new-aliases/#comments">2 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Netherlands police ended the career of one of the largest darknet dealers involved in the MDMA, ecstasy, and cocaine trade. According to <a href="https://www.politie.nl/nieuws/2018/maart/16/webshops-van-online-drugshandelaren-hansa-market-definitief-gesloten.html">the official press release</a>, the four suspects were behind the vendor accounts Doug-Heffernan, Smurfs, Mr. Bubblebgum, Rubiks and DrugsGames. They shipped tens of thousands of packages across the globe, police said.<img class="wp-image-25201 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-9.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-9.png 700w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-9-300x163.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+    <p>Raids were executed at five houses in Amsterdam and at another in Werkendam. The police seized three vehicles, drugs, bitcoin, and 3D printers. Three suspects got busted in their Amsterdam homes and one suspect caught in Werkendam. Thanks to careful planning on the police&#8217;s end, none of the suspects expected their impending incarceration. The three Amsterdam suspects had been using their computers during the raid. More specifically, the Amsterdam suspects were arrested while logged into their darknet market accounts.</p>
+    <p><img class="wp-image-25202" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-10.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-10.png 700w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-10-300x163.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+    <p>Police caught the Werkendam suspect in an equally compromising position. They caught him with a selection of 3D printers. In other darknet busts, the presence of 3D printers would have little impact on the case. If any. But these 3D printers played a role even the police called “smart.” For stealth, the alleged drug traffickers had had printed lookalike Nintendo game cartridges, makeup boxes, or similar containers. They shipped the drugs hidden inside inconspicuous objects they had printed. The Werkendam suspect handled the group’s printing and shipping, the police reported.</p>
+    <p>The vendor Doug-Heffernan caught the Dutch police&#8217;s attention during <a href="https://www.deepdotweb.com/2018/03/16/operation-bayonet-htcu-took-hansa-market-offline/">the 2017 Hansa takeover</a>. Police had allegedly identified the entities behind Doug-Heffernan after they pulled the market from the darknet. The press release did not reveal any details regarding the identification. However, a surprising number of vendors downloaded and opened vendor-locktime-tx.xlsx. Police collected the clearnet I.P. addresses of 64 vendors.</p>
+    <p><img class="wp-image-25203" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-35.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-35.jpeg 700w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-35-300x163.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+    <p>After Dutch police pulled the plug on Hansa, Doug-Heffernan disappeared. The account never reappeared on <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">other darknet markets</a>. Over time, though, the police noticed three accounts on Dream that seemingly matched the Doug-Heffernan profile: Smurfs, Mr. Bubblebgum, Rubiks and DrugsGames. Now, after the police’s Amsterdam and Werkendam raids, those four accounts changed. The vendor profiles now show the following text:</p>
+    <p>“<em>THIS ACCOUNT HAS BEEN SEIZED BY THE DUTCH NATIONAL POLICE</em></p>
+    <p><em>The following Terms &amp; Conditions apply:</em></p>
+    <p><em>According to Dutch Criminal Law, the possession of narcotics such as cocaïne, MDMA or XTC is a criminal act for which a maximum sentence of six years imprisonment may be imposed.</em></p>
+    <p><em>According to Dutch Criminal Law, the trade of narcotics such as cocaïne, MDMA or XTC is a criminal act for which a maximum sentence of eight years imprisonment may be imposed.</em></p>
+    <p><em>According to Dutch Criminal Law, the import and export of narcotics such as cocaïne, MDMA or XTC is a criminal act for which a maximum sentence of twelve years imprisonment may be imposed.</em>”</p>
+    <p>The arrest of the alleged vendors is unlikely to be the end of the case. According to the police, the vendors kept a list with the names and addresses of more than 1,000 customers.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/aliases/" rel="tag">aliases</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-03-30</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

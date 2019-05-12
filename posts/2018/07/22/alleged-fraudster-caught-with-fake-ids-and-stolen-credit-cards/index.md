@@ -1,0 +1,26 @@
+---
+Alleged Fraudster Caught with Fake IDs and Stolen Credit Cards
+---
+<article class="post-listing post-26366 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-alleged tag-cards tag-caught tag-credit tag-fake tag-fraudster tag-ids tag-stolen">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>July 22, 2018</span>
+    <span>in <a href="https://www.deepdotweb.com/category/uncategorized/" rel="category tag">Uncategorized</a></span>
+    <span><a href="https://www.deepdotweb.com/2018/07/22/alleged-fraudster-caught-with-fake-ids-and-stolen-credit-cards/#respond">Leave a comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>According to recent documents filed in Multnomah County, Oregon, an expensive stay at a hotel in Portland followed by a declined credit card transaction led to a suspected fraudster’s arrest. Police arrested the suspect for using stolen credit cards, fake identification documents, and counterfeit currency he had purchased on <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a>.<img class="wp-image-26369 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-50.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-50.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-50-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+    <p>Steven Perini, a felon with a lengthy record of drug distribution and identity theft charges, had been staying at the Duniway Hotel in Portland at the time of his arrest, <a href="https://www.koin.com/news/local/multnomah-county/docs-man-admits-to-stealing-20-australian-identities/1286056657">local news outlets reported</a>. The hotel manager suspected the 51-year-old man had been using stolen credit cards and identities to cover the $3,864 bill he owed the hotel. On his eighth day at the hotel, the manager had the man escorted to the lobby to pay for his stay at the hotel. The manager wanted to see a physical card.</p>
+    <p>Perini swiped a card. Declined. The manager never revealed that she had suspected Perini prior to the failed transaction. Perhaps she knew, due to the numerous mugshots online, that Perini was not “Raymond Cabine Jr.” According to the court documents, the driver&#8217;s license on Perini’s person belonged to a “Raymond Cabine Jr.” After the failed transaction, the manager called the police.</p>
+    <p>The police arrived at the scene and interviewed Perini. The <a href="https://www.deepdotweb.com/tag/fraud/">suspected fraudster</a> readily admitted that he had not one, but many stolen credit cards and fake IDs. He willingly pulled counterfeit notes and a driver&#8217;s licence out of his pocket when the police asked for evidence. He also explained that he had obtained everything from the darknet. Last year, while under investigation for drug crimes, Perini filed a lawsuit that accused almost a dozen Clackamas County law enforcement officers of humiliating him by conducting an illegal “visual anal and penis inspection.” He filed the suit after pleading guilty to identity theft. Perhaps he complied so willingly in an effort to avoid the “humiliation” of another “penis inspection.”</p>
+    <p>Officers then searched Perini&#8217;s room, an affidavit for probable cause explained. Inside, they found methamphetamine, 20 stolen credit cards, and a matching number of fake IDs. The police asked Perini for all of the identities and cards belonging to people living in or from Australia. The alleged fraudster responded, “[I do not] want to mess with citizens.” He clarified that by using only the stolen identities of Australian citizens, he would avoid prosecution at a federal level. These stolen cards and fake identities came from the darknet, he told the officers.</p>
+    <p>The police booked Perini on two aggravated identity theft charges, felony and misdemeanor theft charges, five identity theft charges, two possession of a forged instrument charges, and one possession of methamphetamine charge.</p>
+    <p>He is currently sitting in Multnomah County Jail with a $20,000 bail.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/cards/" rel="tag">cards</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/credit/" rel="tag">credit</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/fraudster/" rel="tag">fraudster</a> <a href="https://www.deepdotweb.com/tag/ids/" rel="tag">ids</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2018-07-22</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

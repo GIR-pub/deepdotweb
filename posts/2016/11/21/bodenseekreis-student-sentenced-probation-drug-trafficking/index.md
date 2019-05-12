@@ -1,0 +1,27 @@
+---
+Bodenseekreis Student Sentenced To Probation For Drug Trafficking
+---
+<article class="post-listing post-16508 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bodenseekreis tag-drug tag-probation tag-sentenced tag-student tag-trafficking">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+    <span>November 21, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/11/21/bodenseekreis-student-sentenced-probation-drug-trafficking/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>A 24-year-old student from Bodenseekreis, <a href="https://www.deepdotweb.com/tag/germany/">Germany</a> was <a href="http://www.suedkurier.de/region/bodenseekreis-oberschwaben/bodenseekreis/Bewaehrungsstrafe-Student-aus-Bodenseekreis-versorgt-Region-mit-Drogen-aus-Darknet;art410936,8989637">sentenced</a> to three years of probation for selling drugs he bought from the dark web.</p>
+    <p>According to official documents at the Konstanz District Court the student ordered <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> from dark net markets in 19 cases. Between 2014 and 2015, the accused bought all kinds of narcotics worth 37,000 Euros from a vendor shop on the dark web, police information says. All transactions were made exclusively in BTC, the 24-year-old exchanged currency in personal meetings. Vendors sent the student the drugs to his home address, or to packing stations where he used the names of his buyers so he could remain anonymous.</p>
+    <p>The 24-year-old was known in clubs in the country as the “Big Spender” where he sold ecstasy pills, speed, hash and cocaine to customers. According to court information, the man made about 100,000 Euros in profit in the course of 8 months, however, the student claims he invested all his profits in drugs.</p>
+    <p>After the accused saw how his business is booming, he hired people to sell the drugs he bought from the dark net. However, in March 2015, law enforcement authorities found and arrested him. According to police information, authorities busted a dark web vendor from the Leipzig area who kept a careful bookkeeping and provided info on his former customers. Based on the vendor’s records, numerous criminal proceedings against his customers were opened nationwide. The 24-year-old was on the customer list too, that’s how law enforcement authorities found him. In court, the accused said he was actually happy with the outcome.</p>
+    <p>&#8220;This must now have an end,&#8221; the 24-year-old said.</p>
+    <p>&#8220;I&#8217;m not proud of it,&#8221; he said in remorse for selling dangerous drugs to his customers.</p>
+    <p>The 24-year-old gave up his studies to sell and make quick bucks from narcotics. However, confession, remorse, and a favorable social prognosis saved the accused from prison. Although, the judge sentenced him to three years of probation and a payment of 37,000 euros in compensation for his deeds. This sum is only a fraction of the student’s profits from criminal drug trafficking. It will have to be paid to the state as an &#8220;additional punishment&#8221; in the form of an asset levy. However, the court is now reconsidering the amount so the 24-year-old could successfully pay it back in the future.</p>
+    <p>It remains a question which busted dark net vendor provided information on the 24-year-old. It is only an assumption, but there is a possibility that German dark web vendor <a href="https://www.deepdotweb.com/2015/03/11/vendor-bust-shiny-flakes-unknown-dutch-vendor/">Shiny Flakes</a> was the one who lead law enforcement authorities to the drug dealer student. The now 21-years-old Maximilian S. (AKA. Shiny Flakes) was arrested on February 27, 2015, in the Leipzig area. When the dark net vendor was arrested, police found an astonishing amount of drugs weighing 320 kgs in total. The narcotics included cocaine, hash, ecstasy pills, speed, LSD. Police information said the total amount of drugs Shiny Flakes sold was about 920 kilograms. In November 2015 he was <a href="https://www.deepdotweb.com/2015/11/07/shiny-flakes-sentenced-to-7-years/">sentenced</a> to 6 years and 6 months in juvenile prison after pleading guilty.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bodenseekreis/" rel="tag">bodenseekreis</a> <a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/probation/" rel="tag">probation</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2016-11-21</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+    </div>
+</article>
+

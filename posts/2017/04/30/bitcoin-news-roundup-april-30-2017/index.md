@@ -1,0 +1,49 @@
+---
+Bitcoin news roundup April 30, 2017
+---
+<article class="post-listing post-19526 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3676 tag-1778 tag-april tag-bitcoin tag-news tag-roundup">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
+    <span>April 30, 2017</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2017/04/30/bitcoin-news-roundup-april-30-2017/#respond">Leave a comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>This week’s summary of various cryptocurrency news and developments:</p>
+    <h2>New developments:</h2>
+    <p><strong>Understanding Antbleed, bitcoin’s new controversy</strong></p>
+    <p>After the AsicBoost controversy, bitcoin now has the antbleed controversy to deal with. Essentially, a mining chip vulnerability involving controversial company Bitmain could be used to remotely shut down bitcoin mining hardware, as the company added a “backdoor” that allows them to control hardware they created. <a href="http://www.antbleed.com/">The code was released anonymously</a> and the fact that it can be used to shut down bitcoin miners had led some to believe that bad actors can even use it to attack the bitcoin ecosystem as a whole, as Bitmain is one of the main machine suppliers in the market. <a href="http://www.coindesk.com/antbleed-bitcoins-newest-new-controversy-explained/">According to CoinDesk</a>, Satoshi Labs CEO Marek Palatinus has already confirmed the backdoor exists.</p>
+    <p><a href="https://blog.bitmain.com/en/antminer-firmware-update-april-2017/">Bitmain quickly responded</a> to the controversy with a fix that updates the firmware eliminating the part that allows machines to be shut off. According to the company, the feature was never finished, but was added in the first place so that miners could control their machines in case they were stolen or hijacked.</p>
+    <p><strong>SEC to review the Winklevoss bitcoin ETF rejection and to consider an Ethereum ETF</strong></p>
+    <p>Last month, the US Securities and Exchange Commission (SEC) rejected the <a href="https://www.deepdotweb.com/2017/03/12/bitcoin-news-roundup-march-12-2017/">Winklevoss’ quest to launch a bitcoin exchange-traded fund (ETF)</a> on the Bats BZX exchange, citing a lack of regulation among bitcoin’s biggest markets, as well as the risk of fraud. Less than two weeks later Bats petitioned for a review and now <a href="http://in.reuters.com/article/bitcoin-etf-idINKBN17R2BY">the SEC has finally approved to reconsider its decision</a>. Further comments are expected between and now and May 15.</p>
+    <p>Business website EconoTimes quoted the agency, saying:</p>
+    <ul>
+    <li>&#8220;Pursuant to Rule 431 of the Rules of Practice,11 BZX&#8217;s petition for review of the Disapproval Order is granted. Further, the Commission hereby establishes that any party to the action or other person may file a written statement in support of or in opposition to the Disapproval Order on or before May 15, 2017”</li>
+    </ul>
+    <p>Moreover, the SEC is currently weighing whether or not it should approve the EtherIndex Ether Trust, <a href="https://www.ethnews.com/sec-considers-ether-based-etf-proposal-orders-review-of-prior-bitcoin-etf-ruling">an ETF based in Ether</a> on the NYSE Arca exchange. The SEC is reportedly also seeking comments and feedback on which approach to take.</p>
+    <p><strong>A memory leak caused Bitcoin Unlimited nodes to crash</strong></p>
+    <p>Earlier this week, a Bitcoin Unlimited (BU) <a href="https://cointelegraph.com/news/bitcoin-unlimited-suffers-biggest-node-crash-on-record">node operator publicly reported</a> on Reddit he was having a hard time with what was apparently a memory leak. Shortly afterwards, BU nodes came crashing down from around 643 to 223 <a href="https://coin.dance/nodes/unlimited">according to data from Coin.Dance</a>, in what some believe to be another attack on the network. As The <a href="https://cointelegraph.com/news/bitcoin-unlimited-suffers-biggest-node-crash-on-record">CoinTelegraph notes</a>, similar occurrences have, in recent weeks, been successful at shutting down nodes for short periods of time, although this was the biggest crash in BU’s history. A <a href="https://www.reddit.com/r/btc/comments/677d7n/bu_nodes_being_attacked_again/dgoaqi6/">statement by Andrew Clifford</a>, President of the Bitcoin Unlimited foundation, reads:</p>
+    <ul>
+    <li>Unfortunately, running with full blocks and a massively bloated mempool is the hardest conditions for efficient block propagation while allowing flexibility for larger blocks. A point release is being prepared for this. In the meantime please try a size like maxmempool=20 in bitcoin.conf</li>
+    </ul>
+    <p><strong>Poloniex to delist 17 different altcoins</strong></p>
+    <p>Popular cryptocurrency exchange Poloniex has tweeted out it is going to delist 17 different altcoins, effective on May 2. After the exchange’s tweet, the value of these altcoins dropped significantly, as much as 90% in one case. Users and developers, such as those of Boolberry, tried to ask the U.S.-based exchange if there was anything that could be done in order to avoid being delisted, but so far the exchange doesn’t seem to have responded. The motives behind the move aren’t yet clear as well, although some users point out it was likely just a business decision, as these altcoins had relatively small user bases, and as such didn’t generate as much revenue as others.</p>
+    <p><a href="https://twitter.com/Poloniex/status/854486851238932481">https://twitter.com/Poloniex/status/854486851238932481</a></p>
+    <h2>World affairs:</h2>
+    <p><strong>Indian police has been cracking down on OneCoin</strong></p>
+    <p>According <a href="https://www.cryptocoinsnews.com/indian-police-crack-onecoin-seizures-arrests/">to CrytpoCoinsNews</a>, various emerging reports show Indian authorities have been cracking down on OneCoin, a digital currency investment believed to be a scam. Various news outlets reported that as many as 18 individuals have been arrested, as police recently went undercover during a OneCoin event in which at least 500 attendees were promised substantial gains by December 2018 on the purchase on one single OneCoin. Police also managed to confiscate over $2 million from bank accounts that belonged to the individuals. The funds are believed to have been collected from investors.</p>
+    <p><strong>South Korean bitcoin exchange Yapizon suffered a $5 million hack</strong></p>
+    <p>In a <a href="https://www.reddit.com/r/Bitcoin/comments/67lamq/yapizon_exchange_korea_got_hacked_lost_3831_btc/">translated notice</a>, South Korean bitcoin exchange Yapizon notified its users the exchange had lost 3,3831 bitcoins to hackers, reportedly the equivalent to 37,08% of its total assets. The exchange decided to spread the losses amongst its users, deducting the exact percentage it lost to user balances, in a move similar to the one Bitfinex did after it got hacked. Yapizon will be issuing tokens called Fei that will reportedly allow traders to reclaim their losses by gaining company profits in the long run. These tokens will be issued in the upcoming days and, for now, the exchange remains closed. Bitfinex only recently finished reimbursing customers.</p>
+    <h2>Financial:</h2>
+    <p><strong>Ethereum’s ether value surged to $68.51 per token</strong></p>
+    <p>Ethereum’s ether token has recently surged in value to nearly $70, presumably due to the SEC weighing in on its ETF, <a href="https://coinmarketcap.com/currencies/ethereum/">according to data from CoinMarketCap</a>. Other news have reportedly helped the currency as well, as <a href="https://www.ethnews.com/spotify-acquires-ethereum-equipped-mediachain-labs">Spotify recently acquired an ethereum-based blockchain company</a>, and bitcoin’s newest controversy, mentioned above, certainly has some influence as well. At the time of press, one token was worth $68.51, while the currency’s total market cap is now above $6 billion.</p>
+    <p><strong>Bitcoin hit a new all-time high</strong></p>
+    <p>Even though bitcoin has a new controversy to deal with, the SEC said it would be reviewing its rejection of the Winklevoss’ quest to launch a bitcoin ETF. The news seem to have helped bitcoin reach a new all-time high on several exchanges such as Coinbase, where the value of bitcoin went over the $1,350 mark. At the time of press <a href="https://www.coinbase.com/charts">one bitcoin was worth $1,340,7</a>0 on Coinbase.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a> <a href="https://www.deepdotweb.com/tag/april/" rel="tag">april</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2017-04-30</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
+    </div>
+</article>
+

@@ -1,0 +1,30 @@
+---
+Bitcoin Achieved $2,000, Regardless of WannaCry Ransomware, Change of Image?
+---
+<article class="post-listing post-20148 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4231 tag-achieved tag-bitcoin tag-change tag-image tag-ransomware tag-wannacry">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+    <span>May 22, 2017</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2017/05/22/bitcoin-achieved-2000-regardless-wannacry-ransomware-change-image/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Last week, the majority of mainstream media outlets in the US with the exception of CNBC and Bloomberg blamed bitcoin for the global WannaCry ransomware attack and for providing ransomware distributors a financial lifeline, instead of addressing a more important issue that is the development of Microsoft-targeting malware by the National Security Agency (NSA).</p>
+    <p>Although bitcoin is the lifeline for ransomware distributors and developers, by that logic, fiat money such as US dollars are also lifelines for most criminal activities and operations including illicit drug trading. Hence, analysts criticized the “bitcoin is criminal money” presented many mainstream media companies presented in the past week.</p>
+    <p>However, despite the short-term setback caused by the WannaCry ransomware attack which brought bitcoin price down from $1,800 to $1,700 overnight, in a period of seven days, bitcoin price surged from $1,700 to $2,083. Analysts from CNBC attributed the recent price surge of bitcoin to the rising global awareness of bitcoin from high profile and institutional investors, as well as the rising demand for bitcoin from US-based investors looking to avoid economic uncertainty and instability with a safe haven asset in bitcoin.</p>
+    <p><img class="wp-image-20149 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-104.png" width="671" height="419" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-104.png 1280w, https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-104-300x187.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-104-1024x639.png 1024w" sizes="(max-width: 671px) 100vw, 671px" /></p>
+    <p>Since early 2016, bitcoin has been perceived as digital gold, safe haven asset and wealth management product (WMP). An increasing number of investors have begun to purchase bitcoin as absolutely necessary hedge against market instability. In fact, some of the most prominent gold investors including Mike Maloney, the founder of widely-utilized precious metals broker GoldSilver.com.</p>
+    <p>Maloney stated that bitcoin is a mandatory asset to hold in a portfolio to avoid impending market crash, due to its transportability and high liquidity. He <a href="https://www.youtube.com/watch?v=w0Oz2R0u4VM">stated:</a></p>
+    <p>“You want to have an alternative monetary system that is already ready to go and those actually exist today. They are called cryptocurrencies. It started with Bitcoin. There have been several others that have been introduced. I own a few of them. I don’t own a lot of cryptocurrencies but I think it is something that is necessary to be prepared because if the monetary system fails, you’ll be able to do transactions right away with other people and you can do them over long distances. You can do them over the Internet just like you pay with your credit card today.”</p>
+    <p>Over the past year and a half, the public image of bitcoin has drastically altered from criminal dark web money to safe haven asset and digital gold. Even regions including India that still do not have practical regulatory frameworks for bitcoin users, businesses, traders and investors are seeing exponential increase in demand for the digital currency.</p>
+    <p>Several mainstream media outlets within India have revealed that at least 2,500 Indian investors are investing in bitcoin on a daily basis, through self-regulated bitcoin exchanges including Zebpay, Unocoin and Coinsecure.</p>
+    <p>Japan is also playing a crucial role in spreading adoption of bitcoin within Asia. Some of Japan’s largest multi-billion dollar corporations with great influence over the country&#8217;s technology and finance markets have launched their independent fiat-to-bitcoin exchanges to meet the rise in demand toward bitcoin.</p>
+    <p>Currently, bitcoin price is $2,085 and it is continuing to demonstrate an upward momentum after a strong 30-day rally. Over the past month alone, bitcoin price has increased by 40 percent, from $1,250 to $2,085.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2000/" rel="tag">2000</a> <a href="https://www.deepdotweb.com/tag/achieved/" rel="tag">achieved</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/change/" rel="tag">change</a> <a href="https://www.deepdotweb.com/tag/image/" rel="tag">image</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/wannacry/" rel="tag">wannacry</a></span> <span style="display:none" class="updated">2017-05-22</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
+    </div>
+</article>
+

@@ -1,0 +1,28 @@
+---
+Reflective Look at Net Neutrality
+---
+<article class="post-listing post-7107 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-net tag-neutrality">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/mikewilkerson/" title="">Mike Wilkerson </a></span>
+    <span>September 17, 2014</span>
+    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    <span><a href="https://www.deepdotweb.com/2014/09/17/a-reflective-look-at-net-neutrality/#comments">6 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Net Neutrality comments to be submitted to the FCC website, among others, have come to a close (9/15) with over 1.4 million comments and web heavyweights such as Tumblr, Netflix, and many others rallying behind the idea that the Internet should be kept open, and that all traffic should be created equal.</p>
+    <p>While I am an advocate for it, I had a conversation the other day that really made me think about these data streams and how they are treated from the other side of the fence.</p>
+    <p>We were discussing issues such as network congestion, the cost of servicing, repairs, etc, as well as a myriad of other difficulties that internet service providers face every day, and while yes, some have increased prices it has become more difficult (and costly) for them to keep up with even the average internet user in terms of the amount of data they are using these days.</p>
+    <p>This is where I find it interesting to be advocating <em>against</em> Net Neutrality instead of <em>for</em> it. As people increasingly use more and more data and more people access the Internet (according to a <a href="http://www.census.gov/hhes/computer/files/2012/Computer_Use_Infographic_FINAL.pdf">2012 consensus</a> 74.8% of households have Internet) these costs have risen exponentially and become a balancing act for ISPs to keep up, and while it may be <a href="http://www.fcc.gov/measuring-broadband-america/2013/February">sustainable</a> for now as technology advances down the road who is to say it will still stay that way without some form of change?</p>
+    <p>When an ISP can charge a website, such as Netflix, so that they have priority access on their network this money would go back to the ISP and contribute to further improving, deploying, and maintaining their systems. This in turn would allow better speeds, stability, latency and help with congestion issues for their customers.</p>
+    <p>While many problems do exist with the current regulations and rules under the proposed laws in regards to this now, I&#8217;d like to caution readers to simply take a moment and think about it from the other side of the fence.</p>
+    <p>I am in no way saying let us all suddenly change our minds and run off to support this but I do believe that certain parts of these radically proposed changes for the industry could in fact be a <em>good</em> thing. Perhaps in its current iteration it leaves a lot to be desired, and definitely needs to be smoothed over for the betterment of what these laws are attempting to do and how it impacts us in the Internet age.</p>
+    <p>I also think it is interesting that some of most extreme supporters of Net Neutrality do in fact take part in the exact same thing they are fighting so hard against: Data prioritization on a network. Most routers these days have a feature called Quality of Service (QoS) which delegates traffic into lanes, such as fast and slow, per the user needs. For example you may want to be able to download the newest expansion pack for a game, while not having your Netflix marathon paused because the network can&#8217;t quite handle it. Is this not a form of exactly the type of data manipulation that the most hardcore Internet activist are fighting against?</p>
+    <p>Obviously this example is at the most basest of forms but it isn&#8217;t meant to verify this articles theme but to supplement the idea that perhaps all of net neutrality isn&#8217;t a bad thing, and could in fact be a necessary evil for the sustainability of services (in this case the internet) offered by companies that customers are using more and more of, and as technology progresses I am positive will only become worse in terms of network quality unless we do something about it.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/neutrality/" rel="tag">neutrality</a></span> <span style="display:none" class="updated">2014-09-17</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/mikewilkerson/" title="Posts by Mike Wilkerson" rel="author">Mike Wilkerson</a></strong></div>
+    </div>
+</article>
+

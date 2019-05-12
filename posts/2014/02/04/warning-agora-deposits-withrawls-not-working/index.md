@@ -1,0 +1,34 @@
+---
+Warning: Agora Deposits &#038; Withrawls not working!
+---
+<article class="post-listing post-3827 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agora tag-deposits tag-warning tag-withrawls tag-working">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+    <span>February 4, 2014</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2014/02/04/warning-agora-deposits-withrawls-not-working/#comments">5 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p style="text-align: center;"><strong>Update 3</strong>:  <span style="color: #ff0000;"><strong>The Problem is now solved &#8211; back to normal, thanks again to the Agora admins for sorting this issue.</strong></span></p>
+    <p><span style="color: #000000;"><strong>Update 2</strong>: </span><span style="color: #ff0000;"><span style="color: #000000;">Our latest test showed that the functions are working now, but BTC that were withdrawn and before and were not broadcasted are still nowhere to be found. we will followup on this.</span> </span></p>
+    <p><strong>Update</strong>: Agora placed some warning on the wallet: <span style="text-decoration: underline;">We are aware of the payment issues, working on the solution. All should work again 08:00 UTC (the 5th feb.)<br/>
+    </span>Not clear enough and BTC functions are still not disabled like they should be in such situations. we are following up closely on this.</p>
+    <p><strong>Do not put money into this marketplace until its resolved</strong>, its not clear to us why market owner could not place a warning in the sites front end when such problems occur, or at least disable the deposit function if they know its broken, after all, agora is not some small insignificant marketplace, this is the 3rd largest and probably the most trusted marketplace nowadays. we have tested the deposit and withdrawal system several times during the day and we can confirm that it is broken at the moment &#8211;  when you deposit you get confirmations on the blockchain with no money going into the account, and when withdrawing &#8211; the sum is not even showing on the blockchain (not being sent at all to the withdrawal address).</p>
+    <p>These Deposits &amp; Withrawls issues comes after a downtime the site had for few hours today that included the sites forums as well. the forums and reddit are filled with reports of people trying to deposit and take out money from the market without success (there are several threads like this one on the Agora forums):</p>
+    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/deposit.png"><img class="aligncenter  wp-image-3831" alt="deposit" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/deposit.png" width="533" height="358" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/deposit.png 999w, https://www.deepdotweb.com/wp-content/uploads/2014/02/deposit-300x202.png 300w, https://www.deepdotweb.com/wp-content/uploads/2014/02/deposit-290x195.png 290w" sizes="(max-width: 533px) 100vw, 533px"/></a></p>
+    <p>We think that this is more than enough evidence for now:</p>
+    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/deposits3.png"><img class="aligncenter  wp-image-3840" alt="deposits3" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/deposits3.png" width="452" height="275" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/deposits3.png 1281w, https://www.deepdotweb.com/wp-content/uploads/2014/02/deposits3-300x183.png 300w, https://www.deepdotweb.com/wp-content/uploads/2014/02/deposits3-1024x624.png 1024w" sizes="(max-width: 452px) 100vw, 452px"/></a></p>
+    <p>And it was also posted in reddit:</p>
+    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/deposits2.png"><img class="aligncenter  wp-image-3833" alt="deposits2" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/deposits2.png" width="508" height="490" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/deposits2.png 910w, https://www.deepdotweb.com/wp-content/uploads/2014/02/deposits2-300x290.png 300w" sizes="(max-width: 508px) 100vw, 508px"/></a></p>
+    <p>This was the response from the admins so far:</p>
+    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/agora.png"><img class="aligncenter  wp-image-3830" alt="agora" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/agora.png" width="562" height="128" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/agora.png 697w, https://www.deepdotweb.com/wp-content/uploads/2014/02/agora-300x68.png 300w" sizes="(max-width: 562px) 100vw, 562px"/></a>And:<br/>
+    <a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/admin2.png"><img class="aligncenter  wp-image-3843" alt="admin2" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/admin2.png" width="695" height="110" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/admin2.png 916w, https://www.deepdotweb.com/wp-content/uploads/2014/02/admin2-300x47.png 300w" sizes="(max-width: 695px) 100vw, 695px"/></a></p>
+    <p>But for the time being, this issue is not yet fixed, and like this was not enough, we also had some reports about the same issues in bitcoin fog &#8211; the tumbling service that is affiliated with agora,it is advised to not do any business with this site until this issue is resolved, for the last few months agora marketplace was one of the most reliable places and we really hope that this will be sorted as quickly as possible. until then, a warning will be added to our list and will be revised again later, in case that this issue will be fixed, we will update this post.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/deposits/" rel="tag">deposits</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a> <a href="https://www.deepdotweb.com/tag/withrawls/" rel="tag">withrawls</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a></span> <span style="display:none" class="updated">2014-02-04</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    </div>
+</article>
+

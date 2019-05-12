@@ -1,0 +1,51 @@
+---
+Timeline: Arrests of AlphaBay Vendors AREA51 and DARKAPOLLO
+---
+<article class="post-listing post-15237 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-area51 tag-arrests tag-darkapollo tag-timeline tag-vendors">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>August 26, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/08/26/timeline-arrests-alphabay-vendors-area51-darkapollo/#comments">14 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Although much of the information has been redacted, a sworn affidavit by a DEA agent helps break down the investigation of two <a href="https://www.deepdotweb.com/2016/08/12/feds-indict-two-alphabay-vendors-distribution-conspiracy-charges/">recently indicted AlphaBay heroin dealers</a>.</p>
+    <p>The sworn affidavit by the agent who is only identified as ‘John Xxxx,’ details the work in his role as part of the Central California Darknet Strike Force, where he was trained to track down darknet vendors. He described learning to “operate an undercover dark marketplace account.” He also learned how to purchase narcotics with the accounts and how to utilize PGP and bitcoins.</p>
+    <p><strong><u>January 2016:</u></strong></p>
+    <p>John began investigating the top heroin dealers on AlphaBay. In his analysis, he came across AREA51 and DARKAPOLLO. He determined that both accounts were operated by the same person based on each vendor profile. Both vendors advertised that their heroin was directly imported from Afghanistan and both accounts offered the same products in the same quantities. He deduced the accounts were operated by the same individual(s).</p>
+    <p><a href="https://www.deepdotweb.com/wp-content/uploads/2016/08/area51.png"><img class="aligncenter size-full wp-image-15097" src="https://www.deepdotweb.com/wp-content/uploads/2016/08/area51.png" alt="area51" width="613" height="405" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/08/area51.png 613w, https://www.deepdotweb.com/wp-content/uploads/2016/08/area51-300x198.png 300w" sizes="(max-width: 613px) 100vw, 613px"/></a></p>
+    <p><strong><u>March 2016:</u></strong></p>
+    <p>A full investigation into AREA51 and DARKAPOLLO was initiated. John discovered, through forums discussing darknet markets, that customers of both vendors received packages that originated from Brooklyn, New York.</p>
+    <p><strong><u>July 2016:</u></strong></p>
+    <p>After reviewing AlphaBay transactions by methods that were not entirely disclosed, John was able to determine the quantity of heroin and their alleged uncut Peruvian and Colombian cocaine sold as of July 25<sup>th</sup>. The quantities advertised on each vendor’s profile ranged between one and five grams, both for the heroin and cocaine.</p>
+    <p>DARKAPOLLO sold approximately 610 grams of heroin and approximately 25 grams of cocaine and made approximately $139,594 from both drugs on AlphaBay.</p>
+    <p>AREA 51 sold approximately 810.5 grams of heroin and approximately 47 grams of cocaine.</p>
+    <p>John analyzed the public PGP key on each vendor’s profile and discovered both keys were registered to the same email address: <a href="/cdn-cgi/l/email-protection#50113431233833636110370f0f0f7e333f3d"><span class="__cf_email__" data-cfemail="3c7d585d4f545f0f0d7c5b">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>___.com</a>. Social media searches including the phrases “Adashc31” and “Adashc,” led to Twitter, Instagram, and Facebook accounts linked to &#8220;Ahmed Farooq.&#8221; Farooq’s Facebook account made it clear that he was located in Brooklyn, New York.</p>
+    <p><strong><u>April 2016:</u></strong></p>
+    <p>John submitted a grand jury subpoena to Facebook, requesting subscriber information on Farooq’s Facebook account.</p>
+    <p><strong><u>May 2016:</u></strong></p>
+    <p>Facebook released the requested information on Farooq. A verified phone number was revealed. An internal DEA search indicated that the user of the telephone number, Farooq, was involved in an on-going investigation for selling heroin in Brooklyn, New York.</p>
+    <p>John purchased .451 bitcoins on May 11<sup>th</sup>  to use in a heroin deal from either DARKAPOLLO or AREA51. Using his undercover AlphaBay account, the DEA agent purchased approximately one gram of heroin from AREA51 for $165. He included a message telling AREA51 to send the package to a predetermined undercover address. The package was to be addressed to &#8220;Alex Mendoza.&#8221;</p>
+    <p>On the 18<sup>th</sup>, the DEA received a notice from an unnamed US Postal Service Inspector that a package had arrived to the undercover address provided to AREA51. The package was retrieved on the 20th. The package was addressed to the name provided to AREA51, &#8220;Alex Mendoza,” and the return address of the package was to “Jessica Brown” in Brooklyn, New York. The tracking number was identified. Hereby referred to as UC PARCEL #1.</p>
+    <p>UC PARCEL #1 was brought to the Fresno Resident Office to begin processing it into evidence. The package contained a silver Mylar envelope and within the Mylar envelope was a ziplock bag containing white powder. The powder tested positive for heroin. All contents of the package were then submitted to the DEA Western Regional Lab to analyze for fingerprints. John then finalized the transaction by releasing the funds held in escrow.</p>
+    <p><strong><u>May 2016:</u></strong></p>
+    <p>The same process was repeated resulting in a second package dubbed UC PARCEL #2.</p>
+    <p>The return address was the same as the address on the initial package and the tracking number was also identified. Contents were shipped off to the Western Regional Lab for fingerprinting and drug analysis.</p>
+    <p>On May 31<sup>st</sup>, the lab results for UC PARCEL #1 came in, testing positive and verifying the white powder was indeed heroin. Three latent fingerprints were also discovered and all positively identified as belonging to Abudullah Almashwali.</p>
+    <p><strong><u>June 2016:</u></strong></p>
+    <p>The lab analysis of UC PARCEL #2 identified the white powder also as heroin. A single latent fingerprint was found on the Mylar envelope and three prints were found on the USPS envelope. All fingerprints also belonged to Almashwali.</p>
+    <p>As a result of John’s undercover purchases, the Postal Inspector was able “to conduct comparative analysis on these parcels to identify who purchased the postage for them.”</p>
+    <p>The time, date, and location where the postage was purchased were all identified. The postage for the first package was purchased via a USPS Self Service Kiosk (SSK) at the Homecrest Post Office in Brooklyn, New York on May 18, 2016. The Post Office was less than a mile from both Farooq’s and Almashwali’s residences. The Postal Inspector identified five transactions using the same credit card number at the self service kiosk that amounted to a total of 25 postage labels, including the postage for UC PARCEL #1.</p>
+    <p>The SSK takes photos during each transaction; these photos were pulled and John positively identified the individual in the photo as Almashwali. With this information, the Postal Inspector was able to identify additional postage purchased with Almashwali’s credit card.</p>
+    <p>An identical process was replicated for UC PARCEL #2 yielding nearly identical results. The one exception is the postage was purchased at the Farley Post Office in New York. Five additional express labels were purchased at this post office on May 4th.</p>
+    <p><strong><u>August 2016:</u></strong></p>
+    <p>Both men were <a href="https://www.deepdotweb.com/2016/08/12/feds-indict-two-alphabay-vendors-distribution-conspiracy-charges/">arrested on August 2</a><a href="https://www.deepdotweb.com/2016/08/12/feds-indict-two-alphabay-vendors-distribution-conspiracy-charges/"><sup>nd</sup></a><a href="https://www.deepdotweb.com/2016/08/12/feds-indict-two-alphabay-vendors-distribution-conspiracy-charges/">, </a><a href="https://www.deepdotweb.com/2016/08/12/feds-indict-two-alphabay-vendors-distribution-conspiracy-charges/">and indicted on August 11</a><a href="https://www.deepdotweb.com/2016/08/12/feds-indict-two-alphabay-vendors-distribution-conspiracy-charges/"><sup>th</sup></a> of federal charges for heroin and cocaine distribution, as well as federal conspiracy.</p>
+    <p>You can read the full affidavit <a href="https://regmedia.co.uk/2016/08/12/almashwali_arrest.pdf">here</a>.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/area51/" rel="tag">area51</a> <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/darkapollo/" rel="tag">darkapollo</a> <a href="https://www.deepdotweb.com/tag/timeline/" rel="tag">timeline</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2016-08-26</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

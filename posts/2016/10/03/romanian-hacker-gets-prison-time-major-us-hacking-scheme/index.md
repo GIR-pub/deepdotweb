@@ -1,0 +1,34 @@
+---
+Romanian Hacker Gets Prison Time For Major US Hacking Scheme
+---
+<article class="post-listing post-15640 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-hacker tag-hacking tag-major tag-prison tag-romanian tag-scheme tag-time">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>October 3, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/10/03/romanian-hacker-gets-prison-time-major-us-hacking-scheme/#comments">4 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>A Romanian computer hacker was sentenced to serve three years in prison for an international identity theft scheme. On September 22, the multi-year case against the hacker who breached security companies and medical offices has been finalized.</p>
+    <p>Mircea-Ilie Ispasoiu, the prosecuted hacker, had been operating since August 2011, <a href="https://www.justice.gov/usao-nj/file/769326/download">according to indictment papers</a>. In 2014, the US indicted Ispasoiu with two counts of wire fraud and two counts of unauthorized computer access. He was also charged with two counts of unauthorized computer access that caused damage. Lastly, his usage of the compromised data resulted in three counts of aggravated identity theft.</p>
+    <p>Ispasoiu was employed as a computer systems administrator at a large financial institution in Romania, court documents revealed. While working as a sysadmin, Ispasoiu began hacking organizations, companies, and private individuals. Between August 2011 and February 2014, the hacker breached database of retailers and medical offices.</p>
+    <p><img class="wp-image-15641 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/furtherscheme-png.png" alt="furtherscheme.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/furtherscheme-png.png 727w, https://www.deepdotweb.com/wp-content/uploads/2016/10/furtherscheme-png-300x165.png 300w" sizes="(max-width: 727px) 100vw, 727px" /></p>
+    <p>After compromising the network of a company he targeted, Ispasoiu would deploy remote access trojans (RAT) to vulnerable computers. When the RAT successfully infected a sufficient number of machines it would then automatically grab system login credentials. The credentials were subsequently used to access sensitive information on a server or machine. The data most often collected was of the name, address, and credit card variety. From one business alone, Ispasoiu stole more than 10,000 credit and debit card numbers.</p>
+    <p>The court documents explain the process involved in one of the hacks:</p>
+    <p>In or around September 2012, defendant ISPASOIU gained access to a computer affiliated with Victim #4 [the medical office] and caused malware to be placed on Victim #4&#8217;s network. Using this malware, defendant ISPASOIU stole information from Victim#4, including Log-In Credentials and Payment Card Data, that was then sent to an email address controlled by defendant ISPASOIU.</p>
+    <p>Of these breaches, the indictment names several significantly impacted victims. The Grand Jury is aware of a restaurant in Montclair, New Jersey; a car dealership in North Brunswick, New Jersey; a medical office in Phoenix, Arizona; and a large security firm operating across the US.</p>
+    <p>One breached company stands out, however; fingerprints and social security numbers were stolen from a security firm.</p>
+    <p>The US released no names of exploited companies, however <a href="http://news.softpedia.com/news/CICS-Employment-Services-Warns-Job-Applicants-of-Personal-Info-Leak-472444.shtml">CICS Employment Services</a> is understood to be the compromised security firm. Following the time frame of Ispasoiu’s hacks, the FBI notified CICS of a data breach.</p>
+    <p>CICS runs pre-employment background checks for various agencies throughout the US, storing SSNs and fingerprints of applicants. After the FBI notified CICS of the breach, CICS sent an email to everyone with data on company servers. This resulted in a nationwide identity theft scare, even to those who had not applied for a job in years.</p>
+    <p>Shortly after his 2015 extradition, Ispasoiu he was arraigned before U.S. Magistrate Judge Michael Hammer <a href="https://www.justice.gov/usao-nj/pr/romanian-national-extradited-new-jersey-face-charges-computer-hacking-scheme">in Newark federal court</a>. The Romanian man remained in custody for a year before a second court appearance in mid-2016.</p>
+    <p><img class="wp-image-15642 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/arraignment-png.png" alt="ARRAIGNMENT.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/arraignment-png.png 664w, https://www.deepdotweb.com/wp-content/uploads/2016/10/arraignment-png-300x168.png 300w" sizes="(max-width: 664px) 100vw, 664px" /></p>
+    <p>Ispasoiu pleaded guilty to Count One and Seven of the indictment in front of U.S. District Judge Kevin McNulty. Nearly six months passed before Judge McNulty made his sentencing decision.</p>
+    <p>On September 22, 2016, <a href="https://www.justice.gov/usao-nj/pr/romanian-national-sentenced-three-years-prison-role-computer-hacking-scheme">Ispasoiu was sentenced to 36 months in prison</a>. Of the two charges Ispasoiu was convicted of, wire fraud was the more severe. Wire fraud has a $1,000,000 maximum fine and the defendant was ordered to pay nearly that: $907,204.88. After release from prison, Ispasoiu is required to be under federal supervision for another 36 months.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/romanian/" rel="tag">romanian</a> <a href="https://www.deepdotweb.com/tag/scheme/" rel="tag">scheme</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a></span> <span style="display:none" class="updated">2016-10-03</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

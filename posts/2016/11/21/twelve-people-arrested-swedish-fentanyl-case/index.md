@@ -1,0 +1,29 @@
+---
+Twelve People Arrested In Swedish Fentanyl Case
+---
+<article class="post-listing post-16510 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-case tag-fentanyl tag-people tag-swedish tag-twelve">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+    <span>November 21, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/11/21/twelve-people-arrested-swedish-fentanyl-case/#respond">Leave a comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>A dozen persons were <a href="http://www.blt.se/karlskrona/syntetiskt-heroin-oroar-efter-tillslag/">arrested</a> in Olofström, Sweden. The suspects allegedly sold fentanyl on dark net markets.</p>
+    <p>“It shows up very often and we believe it [fentanyl] is used continuously in the country. A few years ago there was a trend of fentanyl patch, in recent times, we have seen it in the form of nasal spray,” a police officer investigating the case said.</p>
+    <p>Recently, during a <a href="https://www.deepdotweb.com/2016/11/07/swedish-police-claim-de-anonymised-3000-darknet-buyers/">joint global action</a> against dark net markets, <a href="https://www.deepdotweb.com/tag/hyperion/">Operation Hyperion</a>, about 3,000 dark web users, and 20,000 narcotic sales were identified in Sweden. An extensive cooperation between Swedish and foreign law enforcement authorities finally paid dividends in the form of revelations in the network. The current case is connected to Operation Hyperion.</p>
+    <p>A fentanyl dealing ring involving 12 people was busted by Swedish law enforcement authorities in Olofström. Authorities only found small amounts of <a href="https://www.deepdotweb.com/tag/fentanyl/">fentanyl</a>, however, they started worrying. The reason is that the synthetic heroin had caused many deaths and overdoses. Ten police officers were involved in the action.</p>
+    <p>“I want to say that the synthetic version is even more dangerous. It is difficult to quantify and may differ much in strength. And it is very addictive. We already had a death in Vaxjo,” a police officer said. “The Internet has become a way for dealers. But hashish and amphetamines are still common <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> in the streets. Other drugs, such as synthetic heroin, are sold mostly on the network. Those it [fentanyl] has taken, are not been among the younger people, but we don’t know that for sure. Trading on the internet is not as easy as it seems.”</p>
+    <p>On September 13, John Huber US Attorney in Utah issued a <a href="https://www.deepdotweb.com/2016/09/23/pill-counterfeiting-lab-bust-dea-warns-fentanyls-danger/">warning</a> regarding the dangers of the synthetic drug fentanyl. In the US state, the synthetic opioid is overshadowing the heroin epidemic. Huber mentioned a case where oxycodone pills were pressed using fentanyl. He added that police officers on scene did not have enough knowledge of the drug and this needs to change. The press release was not only for users of the substance but for every person who comes in contact with the synthetic narcotic.</p>
+    <p>“Unsuspecting drug abusers or addicts will take what they think is a pain pill that they’re used to taking, but it has been laced with this substance that is so powerful it can kill a healthy human being with as little as two milligrams,” the attorney’s statement goes by.</p>
+    <p>“It is a grave risk for law enforcement, for public health care workers and for first responders,” DEA Special Agent Brian Besser said in the press conference. The special agent is encouraging law enforcement authorities to be “vigilant in avoiding contact with the drug”. Officers should be aware that field testing fentanyl is dangerous. They should use hazmat equipment to properly collect, test and label the substance.</p>
+    <p>“We’re concerned for law enforcement and for first responders,” Layton Police Department Sergeant Clint Bobrowsky said. “You can absorb Fentanyl through the powder and you can inhale it. You can also absorb it through your skin which is incredibly dangerous for us as first responders and for the public.”</p>
+    <p>When Nathaniel Jetter was arrested by law enforcement authorities, officers were inadequately prepared for safely handling the situation. Five of them had to be decontaminated and treated for opioid overdose. Hazmat teams had to evacuate the whole motel because of the substance.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a> <a href="https://www.deepdotweb.com/tag/swedish/" rel="tag">swedish</a> <a href="https://www.deepdotweb.com/tag/twelve/" rel="tag">twelve</a></span> <span style="display:none" class="updated">2016-11-21</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+    </div>
+</article>
+

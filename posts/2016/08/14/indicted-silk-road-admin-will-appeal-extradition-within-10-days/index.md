@@ -1,0 +1,71 @@
+---
+Indicted Silk Road Admin Will Appeal Extradition Within 10 Days
+---
+<article class="post-listing post-15124 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-545 tag-admin tag-appeal tag-days tag-extradition tag-indicted tag-road tag-silk">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>August 14, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/08/14/indicted-silk-road-admin-will-appeal-extradition-within-10-days/#comments">2 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <div class="wp-socializer-buttons clearfix">
+    <span class="wpsr-btn">
+    
+    <div class="fb-like" data-href="https://www.deepdotweb.com/2016/08/14/indicted-silk-road-admin-will-appeal-extradition-within-10-days/" data-share="false" data-layout="button_count" data-show-faces="0" data-action="like" data-colorscheme="light"></div>
+    
+    </span>
+    <span class="wpsr-btn">
+    
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-lang="en" data-url="https://www.deepdotweb.com/2016/08/14/indicted-silk-road-admin-will-appeal-extradition-within-10-days/" data-text="Indicted Silk Road Admin Will Appeal Extradition Within 10 Days - "></a>
+    
+    </span>
+    <span class="wpsr-btn">
+    
+    <div class="g-plusone" data-size="medium" data-href="https://www.deepdotweb.com/2016/08/14/indicted-silk-road-admin-will-appeal-extradition-within-10-days/"></div>
+    
+    </span>
+    <span class="wpsr-btn">
+    
+    <script type="IN/Share" data-url="https://www.deepdotweb.com/2016/08/14/indicted-silk-road-admin-will-appeal-extradition-within-10-days/" data-counter="right"></script>
+    
+    </span>
+    </div><span class="wpsr_floatbts_anchor" data-offset="25"></span><p>Gary Davis, the Irishman <a href="https://www.deepdotweb.com/2016/08/13/alleged-silk-road-admin-libertas-extradited-us/">ordered to be extradited to the U.S.</a> in order to stand trial for his role as a Silk Road admin, told the press that he will be appealing the decision. Davis, formerly known as Libertas, has been fighting the extradition case for close to three years in opposition to “being dumped into an American Gulag to rot while facing outrageous charges.”</p>
+    <p>In an indictment filed by the FBI in 2013, Davis, along with two other Silk Road administrators, is accused of conspiracy to distribute narcotics, conspiracy to commit computer hacking and conspiracy to commit money laundering. If convicted, Davis could spend the rest of his life behind bars.</p>
+    <p>The 28-year-old claims to suffer from Asperger’s Syndrome and crippling depression, both of which are claims that some psychiatrists have corroborated. He writes that being ripped away from his support network of family and friends will be detrimental to his well-being.</p>
+    <p>Regardless of any objections made, High Court’s Justice Paul McDermott finally decided that the extradition will happen. Davis has 10 days to file an appeal before he is required to surrender himself to the United States.</p>
+    <p>A journalist from <a href="http://www.thetimes.co.uk/article/silk-road-accused-vows-to-appeal-his-extradition-8xncvwtp0?shareToken=15264b95deca99e11fe426fdd9108206"><em>The Times</em></a> was able to reach out to Davis for an update on the situation.</p>
+    <p>Gary Davis’s encrypted email:</p>
+    <blockquote><p>It goes without saying that I am absolutely devastated and thoroughly disappointed with the decision by the Irish courts to grant my extradition to the US.</p>
+    <p>This decision, which comes after a period of over two and a half years of exhausting court dates, agonising postponements, thrice weekly garda station bail sign-ons and immeasurable stress, which has negatively affected my mental health in a huge way and is entirely heartbreaking.</p>
+    <p>The conditions in the Metropolitan Correctional Center, New York, where I would be held post-extradition and pre-trial, are deplorable. Extended solitary confinement — an EU and UN recognised form of psychological torture — is routinely utilised as a tool, both administrative and disciplinary, to intimidate and punish prisoners held within its walls for the smallest infractions.</p>
+    <p>Indeed the MCC has been described by many notable publications as the “Guantanamo Bay of New York”, and it has faced harsh criticism from the UN Special Rapporteur on Torture, Professor Juan Méndez, who has repeatedly been denied access when investigating claims of human rights breaches within it.</p>
+    <p>The prospect of being torn from my support network here in Ireland which is essential for my mental well-being, flown half-way across the world, and being dumped into an American Gulag to rot while facing outrageous charges is gut-wrenching in the extreme.</p>
+    <p>As mentally exhausted and broken as this process has left me, my legal team have fought incredibly hard on my behalf and we will most certainly be appealing this decision.</p></blockquote>
+    <p>His legal counsel argued that Davis would be treated in a way that would violate his Constitutional rights and rights under the European Convention on Human Rights. Professor <a href="http://www.ohchr.org/EN/Issues/Torture/SRTorture/Pages/JuanMendez.aspx">Juan Méndez</a> has expressed concern for the way inmates are treated at the Metropolitan Correctional Center in New York where Davis will likely be held. It is worth mentioning, however, that the Professor has not been given access to the facility itself.</p>
+    <p>Justice Paul McDermott’s ruling was partially influenced by the way Davis treated his own mental illnesses: he apparently did not see a doctor regarding the Asperger’s Syndrome until after his indictment. According to court documents, no steps were being taken to cope with the Asperger’s Syndrome or the depression. He was not seeing a therapist or being actively treated either.</p>
+    <p>According to<em> The Times</em>, Justice McDermott “said that he was satisfied that Mr Davis did suffer from the condition but that it was an ‘unfortunate fact of life’ that people at risk of suicide and other mental issues were imprisoned from time to time.” The court was satisfied with the U.S. prison system’s ability to monitor and treat inmates with mental conditions.</p>
+    <p>If Davis is able to file an appeal in time, he will be given the opportunity to post bail and be “free” until his appeal is considered by a court of law. You can follow his <a href="https://twitter.com/GaryDavisIRL">Twitter account</a> where, if he does get out of jail, I’m sure he will be Tweeting updates.</p>
+    <h3>Share and Enjoy</h3>
+    
+    <div class="wp-socializer 32px">
+    <ul class="wp-socializer-opacity columns-no">
+    <li><a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.deepdotweb.com%2F2016%2F08%2F14%2Findicted-silk-road-admin-will-appeal-extradition-within-10-days%2F&amp;t=Indicted+Silk+Road+Admin+Will+Appeal+Extradition+Within+10+Days" title="Share this on Facebook" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Facebook" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -330px; border:0;"/></a></li>
+    <li><a href="http://twitter.com/home?status=Indicted+Silk+Road+Admin+Will+Appeal+Extradition+Within+10+Days%20-%20https%3A%2F%2Fwww.deepdotweb.com%2F2016%2F08%2F14%2Findicted-silk-road-admin-will-appeal-extradition-within-10-days%2F%20" title="Tweet this !" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Twitter" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1386px; border:0;"/></a></li>
+    <li><a href="http://delicious.com/post?url=https%3A%2F%2Fwww.deepdotweb.com%2F2016%2F08%2F14%2Findicted-silk-road-admin-will-appeal-extradition-within-10-days%2F&amp;title=Indicted+Silk+Road+Admin+Will+Appeal+Extradition+Within+10+Days&amp;notes=Gary+Davis%2C+the+Irishman+ordered+to+be+extradited+to+the+U.S.+in+order+to+stand+trial+for+his+role+as+a+Silk+Road+admin%2C+told+the+press+that+he+will+be+appealing+the+decision.+Davis%2C+formerly+known+as+Libertas%2C+has+been+fighting+the+extradition+case" title="Post this on Delicious" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Delicious" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -132px; border:0;"/></a></li>
+    <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.deepdotweb.com%2F2016%2F08%2F14%2Findicted-silk-road-admin-will-appeal-extradition-within-10-days%2F&amp;title=Indicted+Silk+Road+Admin+Will+Appeal+Extradition+Within+10+Days&amp;source=Deep+Dot+Web+-+Surfacing+The+News+From+The+DeepWeb&amp;summary=Gary+Davis%2C+the+Irishman+ordered+to+be+extradited+to+the+U.S.+in+order+to+stand+trial+for+his+role+as+a+Silk+Road+admin%2C+told+the+press+that+he+will+be+appealing+the+decision.+Davis%2C+formerly+known+as+Libertas%2C+has+been+fighting+the+extradition+case" title="Share this on LinkedIn" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="LinkedIn" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -693px; border:0;"/></a></li>
+    <li><a href="http://www.stumbleupon.com/submit?url=https%3A%2F%2Fwww.deepdotweb.com%2F2016%2F08%2F14%2Findicted-silk-road-admin-will-appeal-extradition-within-10-days%2F&amp;title=Indicted+Silk+Road+Admin+Will+Appeal+Extradition+Within+10+Days" title="Submit this to StumbleUpon" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="StumbleUpon" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1287px; border:0;"/></a></li>
+    <li><a href="https://www.deepdotweb.com/2016/08/14/indicted-silk-road-admin-will-appeal-extradition-within-10-days/" onclick="addBookmark(event);" title="Add to favorites" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Add to favorites" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -0px; border:0;"/></a></li>
+    <li><a href="/cdn-cgi/l/email-protection#f0cf849fcdd68385929a959384cdb99e949993849594dba3999c9bdba29f9194dbb1949d999edba7999c9cdbb1808095919cdbb588848291949984999f9edba79984Xhin+10+Days&body=Gary+Davis%2C+the+Irishman+ordered+to+be+extradited+to+the+U.S.+in+order+to+stand+trial+for+his+role+as+a+Silk+Road+admin%2C+told+the+press+that+he+will+be+appealing+the+decision.+Davis%2C+formerly+known+as+Libertas%2C+has+been+fighting+the+extradition+case%20-%20https://www.deepdotweb.com/2016/08/14/indicted-silk-road-admin-will-appeal-extradition-within-10-days/" title="Email this" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Email" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -297px; border:0;"/></a></li>
+    <li><a href="https://www.deepdotweb.com/feed/rss/" title="Subscribe to RSS" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="RSS" style="width:32px; height:32px; background: transparent url(https://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1221px; border:0;"/></a></li>
+    </ul>
+    <div class="wp-socializer-clearer"></div></div>
+    
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/appeal/" rel="tag">appeal</a> <a href="https://www.deepdotweb.com/tag/days/" rel="tag">days</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2016-08-14</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

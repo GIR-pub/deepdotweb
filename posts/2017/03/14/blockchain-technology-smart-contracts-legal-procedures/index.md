@@ -1,0 +1,37 @@
+---
+The Blockchain Technology, Smart Contracts and Legal Procedures
+---
+<article class="post-listing post-18615 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blockchain tag-contracts tag-legal tag-procedures tag-smart tag-technology">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+    <span>March 14, 2017</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2017/03/14/blockchain-technology-smart-contracts-legal-procedures/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>A significant sum of money is spent every year in various litigation processes. Technically speaking, a significant portion of litigations can be prevented from even emerging provided that contracts, laws and policies are properly objectified. Today, the interpretation of legislations, policies and contracts yields a great deal of confusion and a myriad of ambiguities, which further complicates the process of establishment of justice. <a href="https://www.deepdotweb.com/2017/01/17/havent-smart-contracts-ended-age-classic-contract-law-yet/">Legal procedures can be greatly simplified via implementation of the blockchain technology</a>. Throughout this article, we will discuss how the blockchain technology can be utilized to simplify legal processes.</p>
+    <p>Presently, law firms that utilize the blockchain technology and deal with law suits related to cryptocurrencies, which are also known as crypto-law enterprises, can convert content of various documents into hashes to deposit onto a blockchain. Given the fact that hashes stored on the blockchain can never be altered, the documents&#8217; validity can be universally confirmed in front of any court of law. Storing legal documents on the blockchain promotes the credibility and integrity of court data and legal evidence and renders tampering with such sensitive data an impossible task to achieve.</p>
+    <p><img class="wp-image-18621 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/smart-contracts-png.png" alt="smart contracts.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/smart-contracts-png.png 481w, https://www.deepdotweb.com/wp-content/uploads/2017/03/smart-contracts-png-300x134.png 300w" sizes="(max-width: 481px) 100vw, 481px" /></p>
+    <p>Smart contracts can be very useful for many of today&#8217;s legal services. Legal enterprises can convert legal contracts into smart contracts which can facilitate the execution of contracts with complicated outcomes. They can also be used to create auctions. A smart contract can be coded to sell an item at a predefined price. Buyers will bid and transfer their payments, yet the smart contract will only pick up the maximum offer and transfer back the remaining amount of money to the bidders.</p>
+    <p><strong>Smart Properties and Smart Contracts:</strong></p>
+    <p>Escrow services are forms of third party entities that are used to facilitate transactions and settle disputes between two or more trustless transacting participants. As bitcoin blockchain tokens are coded with &#8220;script&#8221;, escrow services can be coded into blockchain tokens. This led to the emergence of the concepts of smart contracts and smart properties. Within the context of a smart contract, execution of the contract occurs on a blockchain e.g. bitcoin&#8217;s or ethereum&#8217;s. Basically, a smart contract is a piece of code that is programmed with specific conditions and outcomes. A smart contract collectively integrates four important things:</p>
+    <p>1- Transforming a legal or a business agreement into a piece of computer of code i.e. a smart contract. In other words, the overall sequence of events of a business dealing or a transaction is expressed in the blockchain&#8217;s coding language e.g. script.</p>
+    <p>2- Accurately expressing the events that trigger the activity or payment in the form of parts of code of the smart contract. As such, a predefined event, e.g. completion of a certain work task, will trigger the payment procedure so that the designed party is automatically paid.</p>
+    <p>3- Using cryptographic digital signatures to verify senders of the messages.</p>
+    <p>4- Storing all the above components onto <a href="https://www.deepdotweb.com/2017/01/15/overview-smart-contract-scripting-cryptocurrency-blockchains/">a smart contract on the blockchain</a>.</p>
+    <p><strong>How can the blockchain technology impact legal services?</strong></p>
+    <p><a href="https://poseidon01.ssrn.com/delivery.php?ID=97411010609109809601710508808603009012207805704700206512208501809110500401803106409606001712105512611101409810311500311209601404105308901909209912602409110503106711006403400200002106700806602610106709412710412508">The impact the blockchain technology can have on the legal procedures</a> all over the world is massive and includes the following:</p>
+    <p>1- The blockchain technology will automate a large amount of paperwork such as drafting, petition appeal, orders&#8230;etc. The blockchain will make the internet-of-things (IoT) a reality.</p>
+    <p>2- Court procedures could be markedly simplified thanks to swift validation of credibility and legality of documents, certificates, reports, evidence, audits&#8230;.etc that can be made possible via the blockchain.</p>
+    <p>3- When criminal records are stored on the blockchain case solving and identification of criminals will be much easier.</p>
+    <p>3- Execution of legal contracts will be objectified and much more easier as smart contracts operate automatically on the blockchain. Accordingly, there will be a massive drop in petty litigation which would save much of courts&#8217; and authorities&#8217; precious time.</p>
+    <p>4- Law firms will eventually have to rebrand themselves into more specialized niches and focus more on specific sectors in order to be able to boost their business potential.</p>
+    <p>5- Blockchain&#8217;s smart contracts will make it possible to bring under the umbrella of the law what can be described as informal &#8220;word of mouth agreements or contracts&#8221; which is almost impossible to achieve without the blockchain mainly due to the tedious paperwork involved in such contract processes.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/contracts/" rel="tag">contracts</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/procedures/" rel="tag">procedures</a> <a href="https://www.deepdotweb.com/tag/smart/" rel="tag">smart</a> <a href="https://www.deepdotweb.com/tag/technology/" rel="tag">technology</a></span> <span style="display:none" class="updated">2017-03-14</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+    </div>
+</article>
+

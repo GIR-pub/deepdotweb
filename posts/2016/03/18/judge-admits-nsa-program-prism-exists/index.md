@@ -1,0 +1,33 @@
+---
+Judge Admits That NSA Program &#8216;PRISM&#8217; Exists
+---
+<article class="post-listing post-13511 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-exists tag-judge tag-nsa tag-prism tag-program">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
+    <span>March 18, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/03/18/judge-admits-nsa-program-prism-exists/#comments">3 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p class="Standard">In a <a href="https://www.aclu.org/sites/default/files/field_document/hasbajrami_-_faa_declassified_opinion_-_03.08.2016.pdf"><span style="color: windowtext; text-decoration: none; text-underline: none;">memorandum</span></a> by District Judge John Gleeson regarding the case against Agron Hasbajrami, Gleeson admitted that the NSA program “PRISM” exists.</p>
+    <p class="Standard"> Hasbajrami, an Albanian citizen and resident of Brooklyn, was arrested on September 6, 2011 and charged with three counts of attempting to provide material support to terrorists. He attempted to suppress the evidence obtained as a result of an investigation by the FBI&#8217;s JJTF (Joint Terrorism Task Force). Gleeson denied this motion to suppress and wrote a <a href="https://www.aclu.org/sites/default/files/field_document/hasbajrami_-_faa_declassified_opinion_-_03.08.2016.pdf"><span style="color: windowtext; text-decoration: none; text-underline: none;">memorandum</span></a> explaining his decision.</p>
+    <p class="Standard"> The investigation by the JJTF revealed that from August 2, 2011 to August 28, 2011, Hasbajrami exchanged emails with an individual he believed to be associated with a terrorist organization. He sent money to the individual to fund terrorist operations in support of the organization. He also attempted to travel to the Federally Administered Tribal Areas (FATA), a tribal region in north-western Pakistan, to join the terrorist organization. At the John F. Kennedy International Airport, Hasbajrami was apprehended by JJTF agents right before he was to board a flight to Turkey to get to Pakistan. In Hasbajrami&#8217;s luggage was a tent, boots, and cold-weather gear.</p>
+    <p class="Standard"> After Hasbajrami was arraigned, the government divulged how he was found; “he had been subject to FISA surveillance”. They also “intended at trial to use information obtained or derived from that surveillance and certain physical searches &#8230;”. This led Hasbajrami to plead guilty to one count of providing material support to terrorists. However, 6 months after being principally sentenced, Hasbajrami filed a motion seeking “relief from his conviction and sentence on the grounds under which he was convicted is unconstitutionally vague.”</p>
+    <p class="Standard"> Shortly after the filing, the government notified Hasbajrami saying that “certain evidence or information, obtained or derived from Title 1 or III FISA collection, that the government intended to offer into evidence or otherwise use or disclose in proceedings in this case was derived from acquisition of foreign intelligence information conducted pursuant to the FAA.”</p>
+    <p class="Standard">The JJTF essentially caught wind of what he up to after his emails were read as result of the NSA using PRISM on a different target.</p>
+    <p class="Standard">This revelation led Hasbajrami to withdraw his guilty plea which Gleeson allowed because he “could not have made an intelligent decision about whether to plead guilty”, “was not sufficiently informed about the facts”, and “was misled about an important aspect of his case.”</p>
+    <p class="Standard">Hasbajrami withdrew his guilty plea to challenge the constitutionality of the FAA-derived evidence and sought its suppression. The motion was denied, and he pled guilty to a single count of attempting and one count of conspiring to provide material support to terrorists. He was principally sentenced to a 192-month (16 year) term of imprisonment.</p>
+    <p class="Standard">As Gleeson explains his decision to deny the motion in the memorandum, he at one point describes the two types of FAA surveillance.</p>
+    <p class="Standard">“There are two types of Section 702 collection: PRISM and Upstream. … In PRISM collection, the government identifies the user accounts it wants to monitor and sends a ‘selector’—a specific communications facility, such as a target’s email address or telephone number—to the relevant communications service provider. A government directive then compels the communications service provider to give it communications sent to or from that selector. This type of surveillance, which intercepts ‘to/from’ communications, can result in the interception of communications with U.S. persons if the target happens to communicate with such a person.”</p>
+    <p class="Standard">Gleeson admitted to the existence of PRISM, who is likely the first federal judge to do so.</p>
+    <p class="Standard">As for why Gleeson denied the motion, he found that “the government lawfully conducted the FISA surveillance at issue. The government properly made the required certifications and followed the minimization procedures, and the applications established probable cause.”</p>
+    <p class="Standard">He also concluded that Hasbajrami “had a diminished—if not nonexistent—expectation of privacy in [his] communications.”</p>
+    <p class="Standard">The memorandum contains lots of interesting information and I highly recommend giving it a read.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/exists/" rel="tag">exists</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/prism/" rel="tag">prism</a> <a href="https://www.deepdotweb.com/tag/program/" rel="tag">program</a></span> <span style="display:none" class="updated">2016-03-18</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
+    </div>
+</article>
+

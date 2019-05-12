@@ -1,0 +1,26 @@
+---
+Two Darknet Vendors Busted in the Netherlands
+---
+<article class="post-listing post-25420 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-darknet tag-netherlands tag-vendors">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>April 19, 2018</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2018/04/19/two-darknet-vendors-busted-in-the-netherlands/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Police in Amsterdam arrested two suspected darknet dealers in Monday, April 9. According to an <a href="https://www.politie.nl/nieuws/2018/april/9/11-mannen-opgepakt-voor-het-runnen-van-een-drugspostoderbedrijf.html">announcement on politie.nl</a>, the men shipped “thousands” of packages of drugs across the world.<img class="wp-image-25421 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-41.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-41.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-41-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+    <p>The arrests took place not long after Dutch authorities conducted a &#8216;knock and talk’ operation that resulted in one immediate arrest and numerous candidates for a future arrest spree. Many of the people visited by the police had ordered very small amounts of drugs—often ecstasy—and simply listened to a warning from the police. Some of the people visited by police, though, had ordered large enough amounts of drugs to warrant further investigation by the police. Authorities suspected that many of the buyers may have purchased drugs simply to resell them.</p>
+    <p>The announcement covering the recent arrest of the 24-year-old and 25-year-old Amsterdam residents never revealed the marketplace(s) used by the suspected dealers. <a href="https://www.deepdotweb.com/marketplace-directory/listing/hansa-market">Hansa market</a>, though, most likely made the list of markets. The announcement noted that the men “ran several webshops [on the darknet].” Like many vendors, the two suspects may have owned their own personal vendor shops (on their own onion services).</p>
+    <p>In the recent past, the community has seen <a href="https://www.deepdotweb.com/marketplace-directory/categories/markets">marketplaces</a> unexpectedly seized by authorities, marketplaces pulled offline by the owners in exit scams, and some that simply vanished without stealing anyone&#8217;s bitcoin. Some, of course, only disappeared after one of the community’s resident penetration testers noticed significant flaws in a site’s infrastructure. Even though OpenBazaar markets have not yet been fully accepted by the community, personal vendor shops have existed for years.</p>
+    <p>According to the announcement, the duo sold “all kinds of hard drugs” on their webshops. The announcement mentioned LSD, ecstasy pills, MDMA, and cocaine. The pair allegedly mailed their drugs in airtight packaging to customers in France, Romania, Switzerland, the United States, and elsewhere. Officials said the airtight packaging was used to avoid package interception. It should be of no surprise that the authorities will likely intercept packages anyway.</p>
+    <p>On the morning of April 9, the police arrested both men and subsequently raided four houses. Either the men owned more than one house each or the authorities suspected the men had worked with accomplices. The announcement made no mention of additional suspects. The house searches yielded various amounts of drugs, money, “valuable goods,” and a pistol. Police seized everything as evidence. Both men have been held for questioning.</p>
+    <p>Although their identities on the darknet remain unknown, readers with a sharp eye or armchair detectives on Dread will likely identify the vendors following publication. The Dutch police have historically publicized their successful arrests by including the vendor’s darknet identity. If they plan to reveal the identity of these two men, it might not happen until after a conviction—if that happens.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2018-04-19</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

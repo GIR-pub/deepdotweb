@@ -1,0 +1,33 @@
+---
+Australia Arrests Four in Global Darknet Investigation
+---
+<article class="post-listing post-16387 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrests tag-australia tag-darknet tag-global tag-investigation">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>November 11, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/11/11/australia-arrests-four-global-darknet-investigation/#comments">1 Comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Federal officials in Australia published their own press release following the Operation Hyperion events in October. Australia, like many countries worldwide, participated in the <a href="https://www.deepdotweb.com/2016/10/31/dutch-national-prosecution-service-police-launch-hidden-service-global-darknet-enforcement-operation/">global darknet investigation called Operation Hyperion</a>. The Australian Federal Police (AFP) were among few agencies worldwide to issue a more-than-boilerplate press release.</p>
+    <p>The press release, jointly published by the AFP and Australian Criminal Intelligence Commission, described the ‘Darknet Period of Action’ as an initiative “to develop a more unified global law enforcement.” In Australia, the press release explained, the ‘Darknet Period of Action’ involved police activity across every state and territory in Australia.</p>
+    <p>The joint police work resulted in the execution of 11 warrants, four arrests, and six summons. Police found an array of drugs while executing the search warrants; some of which were listed: MDMA, steroids, cannabis, opium, cocaine and methamphetamine. More are to come in the following weeks, according to the report.</p>
+    <p>Minister for Justice, Michael Keenan spoke to the efficacy of Australian law enforcement:</p>
+    <p>Australians can rest assured that our Law Enforcement Agencies and their international partners are committed to targeting illicit drug trafficking by organised crime groups on every scale, from large multi-million dollar bulk shipments to small packages sent via ‘scatter importation’ methods through mail and cargo services.</p>
+    <p>According to AFP Assistant Commissioner Ian McCartney, Australian Border Force officers examined approximately 57.5 million pieces of mail last year. Multiple officers and heads of agencies spoke regarding the government’s ability to track darknet users. ACIC Executive Director Intelligence, Col Blanch explained that numerous Australian agencies monitor the DNMs and now have international support in doing so.</p>
+    <p>“If you are thinking of engaging in illegal activity through these websites, there is no guarantee you will remain anonymous, and you will be prosecuted,” Mr Blanch said.</p>
+    <p>Australia had been one of the more adaptive countries when looking at darknet crime. Operation Hyperion or Australia’s so-called ‘Darknet Period of Action’ were not Australian law enforcement’s first step into the darknet. The Queensland-based <a href="https://www.deepdotweb.com/2016/08/22/australias-taskforce-argos-hacked-computers-located-us/">“Taskforce Argos” took down the The Love Zone</a>, one of the largest darknet child exploitation sites in existence.</p>
+    <p>In August, Australia’s Financial Intelligence Unit created a dedicated cybercrime unit. The AFP received a <a href="https://www.deepdotweb.com/2016/08/02/australia-gets-25-4-million-combat-illegal-firearms-trade/">$25.4-million-dollar funding boost to combat illegal arms trade</a>, including the transactions that take place on the darknet. The events that took place between 2015 and 2016 drastically shaped the future of Australia’s law enforcement and the DNMs.</p>
+    <p>In contrast to all the initiatives Australia had already implemented, one might remember a Freedom of Information Request filed by ABC News that <a href="https://www.deepdotweb.com/2016/08/02/australia-post-unable-detect-drugs-explosives-mail/">shed light on Australia’s postal system</a>. Relevant excerpt below:</p>
+    <p>Australia Post has an obligation to inform relevant authorities should it suspect the presence of illegal goods in mail items, but lacks the technology or equipment to detect [such goods]. Australia Post does not have, for example, sniffer dogs, X-ray machines or explosive trace detectors. Australia Post lacks legal authority to open mail. Australia Post does not seek this legal authority which, in Australia Post’s view, properly sits with law enforcement agencies.</p>
+    <p>This has now changed, according to ABF Assistant Commissioner Strategic Border Command, Clive Murray. “The ABF and our partner agencies are well aware of Darknet websites and their use as a virtual trading venue for illicit goods,” said Assistant Commissioner Murray. “At some point, all goods sourced internationally must cross the border and the <a href="https://www.afp.gov.au/news-media/media-releases/international-operation-targets-users-darknet-marketplaces">ABF has the capability to target and detect these goods</a> – no matter what it is.”</p>
+    <p>The upcoming weeks are reported to yield more darknet-related arrests as law enforcement combs through relevant data. Next year, too will be changing, Keenan said. An additional $230 million was allocated to improve cybersecurity.</p>
+    <p>The AFP credits the United States, Canada, United Kingdom, New Zealand, France, Finland and the Netherlands in the newfound partnership.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/australia/" rel="tag">australia</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a></span> <span style="display:none" class="updated">2016-11-11</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

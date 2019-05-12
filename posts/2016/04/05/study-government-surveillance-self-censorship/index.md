@@ -1,0 +1,35 @@
+---
+Study On Government Surveillance And Self-Censorship
+---
+<article class="post-listing post-13637 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-government tag-selfcensorship tag-study tag-surveillance">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
+    <span>April 5, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/04/05/study-government-surveillance-self-censorship/#comments">3 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p class="Standard">A <a href="http://m.jmq.sagepub.com/content/early/2016/02/25/1077699016630255.full.pdf?ijkey=1jxrYu4cQPtA6&amp;keytype=ref&amp;siteid=spjmq"><span style="color: windowtext; text-decoration: none; text-underline: none;">study</span></a> authored by Elizabeth Stoycheff, an assistant professor at Wayne State University, was recently published in Journalism and Mass Communication Quarterly, which examined the “<a href="https://en.wikipedia.org/wiki/Spiral_of_silence"><span style="color: windowtext; text-decoration: none; text-underline: none;">spiral of silence</span></a>” theory and its effects in a post-Snowden world.</p>
+    <p class="Standard">The spiral of science theory was first proposed by political scientist <a name="firstHeading"></a>Elisabeth Noelle-Neumann, which states that people have a fear of isolation. A member of a group may become isolated by exclusion because of their opinions and thus causes people to essentially self-censor themselves.</p>
+    <p class="Standard">“Public opinion scholars have consistently showed that perception of hostile opinion climates—or when individuals believe their views differ from the majority—significantly chills one’s willingness to publicly disclose political views (for reviews, see Glynn, Hayes, &amp; Shanahan, 1997; Scheufele &amp; Moy, 2000; Shanahan, Glynn, &amp; Hayes, 2007). And recent scholarship has begun to explore how this relationship upholds in online environments. But U.S. Patriot Act provisions that grant the National Security Agency (NSA) the ability to surreptitiously monitor the online activities of U.S. citizens may make online opinion climates especially chilly.”</p>
+    <p class="Standard">The study aimed to understand how the spiral of silence works online. It looked at how individuals perceive the climate of opinion and the influence government surveillance has on the willingness to speak out.</p>
+    <p class="Standard">First, the participants were asked about their media use behaviors and political attitudes. They were also asked questions to assess their personality traits. Then, a group (nearly half) of the participants were randomly selected and presented with a message three times throughout the study that told them they were being watched by the NSA. The remaining participants were not shown this message.</p>
+    <p class="Standard">“The next section of the survey asks for your honest opinions about some controversial political issues. While we make every attempt to ensure your opinions are kept confidential, it is important to keep in mind that the National Security Agency does monitor the online activities of individual citizens, and these actions are beyond the study’s control.”</p>
+    <p class="Standard">All participants were shown a fake Facebook post by ABC News about U.S. airstrikes against ISIS in Iraq. The post was neutral and didn&#8217;t attempt to create a good or bad climate of opinion.</p>
+    <p class="Standard">Then, the “participants were subsequently asked about their willingness to publically express their opinions on this topic, their perceptions of how other Americans felt about this topic, [and] the extent to which they believed online surveillance justified, and demographic information.”</p>
+    <p class="Standard">Suffice to say, the results were interesting.</p>
+    <p class="Standard">“&#8230; the greater the distance between a participant’s opinion and perceived majority opinion, the less likely he or she was to speak out online. Exposure to the surveillance prime did not produce a similar significant effect &#8230;”</p>
+    <p class="Standard">“&#8230; participants who felt an impending terrorist attack was likely and self-reported high political interest were likely to speak out.”</p>
+    <p class="Standard">“&#8230; when individuals think they are being monitored and disapprove of such surveillance practices, they are equally as unlikely to voice opinions in friendly opinion climates as they are in hostile ones. Conforming to speak out when one is the majority and silencing when one is not appears strongest when it is coupled with perceived surveillance and a belief that this surveillance is justified.”</p>
+    <p class="Standard">The study also found results in favor of the hypotheses that “when individuals perceive surveillance and believe it to be justified, they may be more likely to conform their opinions, by speaking out when they feel they are in the majority, and remaining silent when they are not”.</p>
+    <p class="Standard">Additionally, individuals with a “nothing to hide” attitude – those who are usually in favor of surveillance – displayed a conformist demeanor.</p>
+    <p class="Standard">One may notice that the idea of government surveillance influencing one&#8217;s willingness to speak out is similar to Michel Foucalt&#8217;s concept of a panopticon for prisoners being housed. Every cell would be seen by the guards but the prisoners could not see the guards. Any transgression was met with severe punishment, and not only did the offending cell receive punishment but the surrounding cells did as well. This would lead to the prisoners correcting each other for fear that the guards were watching.</p>
+    <p class="Standard">It would&#8217;ve been interesting to see how this study would&#8217;ve turned out if the participants were told they had the option to voice their opinions about the airstrikes anonymously.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/selfcensorship/" rel="tag">selfcensorship</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/surveillance/" rel="tag">surveillance</a></span> <span style="display:none" class="updated">2016-04-05</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
+    </div>
+</article>
+

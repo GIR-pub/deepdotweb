@@ -1,0 +1,30 @@
+---
+Tor has joined the fight to stop the Upcoming Changes to Rule 41
+---
+<article class="post-listing post-15535 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3910 tag-fight tag-joined tag-rule tag-stop tag-tor tag-upcoming">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+    <span>September 24, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/09/24/tor-joined-fight-stop-upcoming-changes-rule-41/#comments">3 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Tor has joined the fight to stop the U.S. government’s changes to Rule 41. They are urging people to speak up, and fight the changes to <a href="http://themerkle.com/tor-lashes-out-at-the-upcoming-changes-to-rule-41/">Rule 41</a> which will take effect December 1<sup>st</sup> if no one does anything to stop it. To date, no one has done anything to fight it. Congress hasn’t even batted an eye towards the changes.</p>
+    <p>The changes will enable the Department of Justice to hack computers and spy on people through one single warrant, no matter its jurisdiction. What this means is that if a judge issues a warrant in Washington, the government can conduct its search nationwide, on any and all computers it feels the need too.</p>
+    <p>The changes specifically state that computers that use technology to conceal its data, such as encryption, of tools like Tor, would fall into the range of the changes. This means all VPN users, Tor users, and any and all encryption and privacy software users will, be the most likely going to be spied on.</p>
+    <p>Senator Ron Wyden said:</p>
+    <p>“If the Senate does nothing, if the Senate fails to act, what’s ahead for Americans is a massive expansion of government hacking and surveillance power.”</p>
+    <p>Wyden’s proposed bill is meant to prevent the proposed amendments to Rule 41 of the Federal Rules of Criminal Procedure from taking effect. He introduced the Stop Mass Hacking Act in May 2016.</p>
+    <p>Journalists, human rights workers, activists and people in oppressive countries, all use Tor. All of these and more will be in the firing line, if the new amendments are just allowed to pass.</p>
+    <p>“The FBI will be permitted to hack into a person’s computer or phone remotely and to search through and remove their data. The FBI will be able to introduce malware into computers. It will create vulnerabilities that will leave users exposed,” The Tor Project said.</p>
+    <p>The case of the teacher who possessed child porn downloaded from dark net is the case most are basing this off. The FBI seized PlayPen in February last year and uploaded malware to its servers, so everyone who accessed the site would be tracked. This lasted for two weeks; FBI kept a child pornography website up for two more weeks after seizing its servers. This has been met with much criticism as it became public. The FBI was accused of tuning the servers so that download speeds were the fastest PlayPen users ever saw. The question has been raised about why it is ok that the FBI as admitted to distributing child pornography, yet still no charges were filed.</p>
+    <p>The FBI’s NIT, has been kept under closely guarded lock and key. Evidence that has been gathered by the malware is not allowed during the court case because the FBI refused to share any of the details on the NIT. Tor has been very outspoken about the FBI giving up some information so they can patch the vulnerability that was exploited by the FBI’s deployment of said NIT.</p>
+    <p>Rule 41 will allow savvy law enforcement officials to seek those judges who don’t yet understand the tech. Some know that a back door for one good guy is eventually a back door for multiple bad guys. Many others do not. So some US officials can take advantage of this ignorance to expand their power. And since the FBI works for the Department of Justice, and the Department of Justice works for the White House, Rule 41 gives new surveillance power to Administrative branch of US government. New power over millions of people, that Congress never discussed or approved. People listen to the Tor community on issues of anonymity technology. But the threat to anonymity is just as destructive when it comes because a small rules change, a bureaucratic sleight of hand as when it comes through an attack on our software by a state intelligence agency. As Tor users, our threat model includes both, so our response as a community must also include both,” Tor developers said in a recent blog.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/41/" rel="tag">41</a> <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/joined/" rel="tag">joined</a> <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/stop/" rel="tag">stop</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/upcoming/" rel="tag">upcoming</a></span> <span style="display:none" class="updated">2016-09-24</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
+    </div>
+</article>
+

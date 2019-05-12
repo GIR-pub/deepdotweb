@@ -1,0 +1,33 @@
+---
+German Police Call the Deepweb an Interface for Terrorism, Promise to Crackdown Harder
+---
+<article class="post-listing post-15998 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-call tag-crackdown tag-deepweb tag-german tag-harder tag-interface tag-police tag-promise tag-terrorism">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>October 23, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/10/23/german-police-call-deepweb-interface-terrorism-promise-crackdown-harder/#comments">7 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Following an organized crime study, Holger Münch, president of Germany’s federal police (BKA), revealed how the deepweb changed the playing field. The data presented by Münch highlighted how the deepweb has been an interface for terrorism. Similar to <a href="https://www.deepdotweb.com/2016/07/31/german-police-start-focusing-darknet-crimes-munich-shooting/">Münch’s statement after the Munich shooting</a>, the BKA president vowed to increase action against illegal internet activity.</p>
+    <p>Münch said “We [the BKA] see that the dark net is a growing trading place and therefore we need to prioritize our investigations here.” He said this shortly after the discovery that the Munich gunman <a href="https://www.deepdotweb.com/2016/07/24/munich-gunman-got-weapon-darknet/">purchased his weapon from a German darknet market</a>.</p>
+    <p>Münch has stayed true to his word. Following the Munich event, an innumerable number of German darknet market vendors have been arrested. In fact, the deepweb vendor who sold the gun to the Munich shooter <a href="https://www.deepdotweb.com/2016/08/25/german-dnm-vendor-arrested-selling-glock-munich-shooter/">was arrested</a> not even a month after the event. <a href="https://www.deepdotweb.com/2016/05/17/dark-web-vendor-chemical-love-busted-50-kg-drugs-seized/">Chemical Love</a> was obliterated. Not only vendors have been arrested. Buyers have been arrested nearly every other day.</p>
+    <p>&#8220;Organised crime threatens us all,&#8221; Interior Minister Thomas de Maizière said.</p>
+    <p>The BKA had not looked at the deepweb in light of organized crime until now, however. Münch stressed that more organized crime cells and structured gangs have become increasingly difficult to trace. In many cases, the entities were unknown and located internationally. In others, the suspects appeared to be completely transparent.</p>
+    <p><img class="wp-image-15999 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/web_photo_cybercrime_27072016-jpg.jpeg" alt="web_photo_Cybercrime_27072016.JPG" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/web_photo_cybercrime_27072016-jpg.jpeg 600w, https://www.deepdotweb.com/wp-content/uploads/2016/10/web_photo_cybercrime_27072016-jpg-300x192.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px"/></p>
+    <p>While the BKA had mainly been focusing on deepweb drug smuggling, Münch announced that weapons and IDs have now been targeted. Officials revealed Germany developed an <a href="http://demallorcamagazin.com/2016/10/14/bka-gibt-einsch-tzung-zur-organisierten-kriminalit-t/">increased concern for deepweb arms trade and document forgery</a> after studying 2016’s organized crime reports.</p>
+    <p>The BKA announced that several steps have been made to put a stop to local organized crime. These steps, however, have only encouraged an increase in the usage of darknet marketplaces. “Heaver darknet marketplaces” was a phrase used to describe the relevant markets. The more pressure put on local gangs has pushed their movements to the deepweb, officials announced.</p>
+    <p>Münch stated that the majority of the issues in 2016 had not been incredibly different than previous years, save for the deepweb trend. A third of the crimes are still drug crimes.</p>
+    <p>Federal law enforcement’s greatest concern, Münch explained, is how darknet marketplaces change the face of terrorism. Despite previous studies by Europol stating that terrorist funding had not changed in years, the BKA claimed otherwise at the press conference.</p>
+    <p>“The BKA will also step up efforts against organized crime on the Internet, which facilitates extremist bombers business. Online marketplaces in the so-called darknet would gain more and more importance,” Münch said.</p>
+    <p>At the press conference, officials revealed that evidence pointed to a correlation between organized crime and terrorism. The more organized crime groups turn towards the deepweb means that terrorist cells will follow, a representative said.</p>
+    <p>Therefore, Münch proposed a crackdown on the parts of the deepweb that would specifically interest organized crime and terrorist groups. Weapons, fake identity cards, and stolen credit card data would be most needed by organized crime. Thus, they would be most needed by terrorist groups, law enforcement proposed.</p>
+    <p>If marketplaces that host these types of items are cut off now, the BKA will have a start, Münch said. &#8220;Terrorists may get no opportunity to pursue their dangerous ideology, and we must take every opportunity to &#8230; fight against terrorism.&#8221;</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/call/" rel="tag">call</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/harder/" rel="tag">harder</a> <a href="https://www.deepdotweb.com/tag/interface/" rel="tag">interface</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/promise/" rel="tag">promise</a> <a href="https://www.deepdotweb.com/tag/terrorism/" rel="tag">terrorism</a></span> <span style="display:none" class="updated">2016-10-23</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

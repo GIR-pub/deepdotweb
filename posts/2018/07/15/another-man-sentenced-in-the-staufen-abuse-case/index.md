@@ -1,0 +1,26 @@
+---
+Another Man Sentenced in the Staufen Abuse Case
+---
+<article class="post-listing post-26317 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-case tag-man tag-sentenced tag-staufen">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>July 15, 2018</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2018/07/15/another-man-sentenced-in-the-staufen-abuse-case/#comments">7 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>In a court in the southwestern German town of Staufen, a 44-year-old man was sentenced to eight years in prison for attempting to rape and torture <a href="https://www.bild.de/regional/stuttgart/kindesmissbrauch/prozess-freiburg-jugendamt-56138418.bild.html">the child of two pedophiles</a> he had met on many darknet child abuse sites. The man, not aware that the boy&#8217;s mother and partner had been arrested, talked online with undercover police agents who set up a meeting. They nabbed him after he had arrived.<img class="wp-image-26323 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-38.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-38.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-38-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+    <p>The 44-year-old from the state of Schleswig-Holstein is one of eight suspected (and some now convicted) members of a pedophile ring that ritualistically abused a nine-year-old boy in Staufen. The case had been called the “<a href="https://www.deepdotweb.com/2018/06/24/two-on-trial-for-selling-son-to-pedophiles-on-the-darknet/">Staufen abuse case</a>” by many German news publications. And German courts had been dealing with the primary suspects for months before learning about many of the conspirators.</p>
+    <p>In fact, German officials had been dealing with the boy, his mother, and the mother&#8217;s partner since long before the abuse case began. For years, German authorities dealt with the mother in welfare cases that involved her son and her partner. Although the signs, according to recent reports, indicated that the child would not be safe with his mother, the government failed to intervene. She was not allowed to have the boy around her partner. She ignored this rule, however.</p>
+    <p>Working with her partner, the mother offered her child to pedophiles on darknet chatrooms and forums such as <a href="https://www.deepdotweb.com/2018/05/14/tabooless-chat-admin-sentenced-to-prison-and-therapy/">Tabooless Chat and Elysium</a>. Selling her son to pedophiles was a profitable business, the court learned during the hearings. Some men would travel hundreds of miles for a chance to rape a child with approval from the child&#8217;s parents.</p>
+    <p>In more than one case, the pedophiles wanted more than to sexually abuse the boy. They wanted to kill the boy. The recently sentenced man from Schleswig-Holstein had attempted to trade his own son with the son of a man from Switzerland. A court sentenced him to 10 years in 2010, but another court overruled the sentence and the man walked free.</p>
+    <p>This time, after walking into a trap set by undercover investigators with access to the mother&#8217;s accounts on Tabooless and other platforms, the court handed the 44-year-old an eight year prison sentence, a period of supervised release, and a several thousand euros fine. The money would eventually go to the abused boy, the court ruled. It was what the man owed the boy in monetary damages.</p>
+    <p>The <a href="https://www.deepdotweb.com/2018/05/31/soldier-jailed-after-filming-himself-rape-child-on-the-darknet/">other convicted defendants</a> received similar prison sentences and similar fines. The 48-year-old mother and her 39-year-old partner have not yet been sentenced. The 39-year-old partner has been helping the police identify and arrest suspected child abusers.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/staufen/" rel="tag">staufen</a></span> <span style="display:none" class="updated">2018-07-15</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

@@ -1,0 +1,28 @@
+---
+Tor Facebook Users Hit 1 Million This Month
+---
+<article class="post-listing post-13905 post type-post status-publish format-standard hentry category-news tag-facebook tag-hit tag-million tag-month tag-tor tag-users">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+    <span>April 29, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/04/29/tor-facebook-users-hit-1-million-month/#respond">Leave a comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p><a href="http://qz.com/667880/a-million-people-now-access-facebook-on-the-dark-web-every-month/">The number of people checking they&#8217;re Facebook</a> through dark net currently stands at 1 million people per month, the tech giant announced April 22<sup>nd</sup> . Facebook maintains an onion site that resides on the Tor Network for almost two years. This is the firs time the company has revealed details about its presence in the shadowy corners of the Internet.</p>
+    <p>Tor protects users privacy by disguising their identity and location by bouncing web traffic randomly through a far off network of servers. The number of people connecting to Facebook over Tor is growing at a steady clip. Facebook said that in June 2015 around 525,000 people accessed this dark net site. Traffic has grown in  linear pattern since, according to Facebook, meaning about 50,000 new users have been accessing the social network through Tor each month.</p>
+    <p>“This growth is a reflection of the choices that people make to use Facebook over Tor, and the value that it provides them. We hope they will continue to provide feedback and help us keep improving,” a Facebook spokesperson said.</p>
+    <p>People who choose to communicate over Tor do so for a variety of reasons related to privacy, security, and safety,” write Alec Muffet, a London Facebook engineer who leads the companies work on dark net. “It&#8217;s important to us to provide methods for people to use our services securely. Particularly if they lack the reliable methods to do so.”</p>
+    <p>Facebook has added more ways to access the site on dark net over time. In January it made its own onion site accessible to smartphones running the Android operating system. Traffic to the Tor Network often spikes in places when governments try to restrict access to social media networks. This was the case in Bangladesh at the end of 2015, when the government cut off access to Facebook for around three weeks, citing security concerns following controversial death sentences handed down by the courts. Traffic through the Tor Network originating in Bangladesh surged during that period, although Facebook hasn&#8217;t clarified whether it saw a similar up kick of traffic to its own dark net site.</p>
+    <p>“To be clear, temporary increases have more to do with current events than access restrictions,” Melanie Ensign, a spokesperson for Facebook said. “ When accessing the Facebook website using Tor, Tor Browser is in charge of that data, so it is anonymous. Of course, someone may post a status update saying they are at some restaurant, for instance, and that would de-anonymize them.”</p>
+    <p>Another reason Tor points to is to ensure a user&#8217;s identity doesn&#8217;t leak to intermediaries, such as ISPs or an agency that surveils the internet. “Political activists organize on Facebook, their public identity is important to their work. So is their safety. Many people use Tor in countries where the internet is censored, not in order to be anonymous. Tor allows them to access the uncensored internet, including reaching Facebook. In Iran, for instance, Facebook is blocked. So people use Tor to get onto the internet and browse, and from there they can reach Facebook,” it notes in a statement released from Facebook.</p>
+    <p>Why does Facebook care about Tor? Providing another route for users who might not otherwise want to or have access to its service means it potentially gets to keep as well as gain that small group of people as Facebook users. If you want to be more cynical about it, you could say Facebook is engaging in a little brand washing of its data-powered business model by cosying up to a well known entity in the privacy and security space. Which might result in the perception that it cares about user privacy.</p>
+    <p>Facebook is happy to protect your data from falling into the hands of companies unattached to its business, but remember, once u pass through those blue gates its a data free for all.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/facebook/" rel="tag">facebook</a> <a href="https://www.deepdotweb.com/tag/hit/" rel="tag">hit</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/month/" rel="tag">month</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2016-04-29</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+    </div>
+</article>
+

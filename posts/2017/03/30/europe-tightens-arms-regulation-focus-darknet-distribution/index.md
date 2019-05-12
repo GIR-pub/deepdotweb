@@ -1,0 +1,31 @@
+---
+Europe Tightens Arms Regulation, Focus on Darknet Distribution
+---
+<article class="post-listing post-18883 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arms tag-darknet tag-distribution tag-europe tag-focus tag-regulation tag-tightens">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+    <span>March 30, 2017</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2017/03/30/europe-tightens-arms-regulation-focus-darknet-distribution/#comments">4 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Since early 2016, European law enforcement agencies including the Spanish National Police and the Agence nationale de la sécurité des systèmes d’information (ANSSI) have been targeting arms dealers and weapon distribution centers linked to darknet marketplaces. The ANSSI in particular noted that it has become more difficult to stop terrorist groups such as ISIS due to the presence of the dark web.</p>
+    <p>As a response to the rapid emergence of terrorist attacks, the European Parliament officially <a href="http://www.europarl.europa.eu/news/en/news-room/20170308IPR65677/parliament-approves-revised-eu-gun-law-to-close-security-loopholes">approved</a> the revised European Union (EU) firearms directive, which was supported by the Internal Market Committee on January 26.</p>
+    <p>The newly revised and approved EU firearms directive effectively tightens all regulations and policies in regard to the possession and delivery of arms and weaponry across EU countries. More importantly, newly designed regulatory frameworks on weaponry will make it increasingly difficult for individuals to possess any firearms that are defined as Category A and B, without obtaining an authorization from local police or law enforcement agencies.</p>
+    <p>In an announcement, Vicky Ford, the chair of the Committee on the Internal Market and Consumer Protection, stated:</p>
+    <p>“Over the past 18 months I and colleagues across this Parliament have worked with many different stakeholders, as well as law enforcement authorities, proof houses and legal experts, in order to protect the interests of legitimate owners whilst also addressing the security issues. The Parliament text has made many significant improvements. The changes that we have now agreed will close the loophole and be an important contribution to our security, whilst also respecting the rights of legal owners.”</p>
+    <p>Three of the major revisions which were included to the newly introduced EU firearms directive specifically focused on defining the legality of utilizing darknet marketplaces to purchase weapons, categorizing different types of firearms and clarifying the definition of firearm deactivation. &#8211;Changed</p>
+    <p>In the previous firearms directive, deactivated weapons referred to firearms that were disabled for use but could reactivated when necessary. The current EU firearms directive clearly notes that the deactivation of arms refers to permanent irreversible deactivation of weapons.</p>
+    <p>This particular “Irreversible deactivation” clause within the new directive is expected to have a significant impact on the operations of darknet marketplaces which distribute deactivated firearms across the EU. Under the newly approved directive, darknet marketplaces will not be able to sell deactivated firearms as once deactivated, firearms will not be able to function again. Moving forward, darknet operators will be forced to sell live firearms, which are strictly against the new directive.</p>
+    <p>Apart from individuals that are authorized by EU countries, residents within the EU are not permitted to possess live firearms.</p>
+    <p>“Member states will be able to grant “Category A” authorisations to certain types of individuals, e.g. target shooters and reservists, as well as to recognised museums and, in exceptional and duly reasoned cases, to collectors, subject to strict security measures. The new rules also require that all information needed to trace and identify firearms be recorded in national data-filing systems and that arrangements be made to improve the exchange of information between member states,” European Parliament representative wrote.</p>
+    <p>Analysts <a href="http://www.br.de/nachrichten/waffengesetz-eu-parlament-100.html">expect</a> the circulation of firearms within the EU to reduce substantially in the upcoming months. However, the vast majority of analysts fear that darknet marketplace operators will supply illegal firearms to terrorist groups within the EU by transporting weaponry from other continents.</p>
+    <p>While European law enforcement agencies including Europol are currently <a href="https://www.deepdotweb.com/2017/02/03/10000-firearms-seized-spain-bought-darknet/">pursuing</a> extensive investigations into dark web operations and illicit firearms distribution initiatives, analysts expect to see the European Parliament take a short-term approach to limit dark web activity within the EU.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/europe/" rel="tag">europe</a> <a href="https://www.deepdotweb.com/tag/focus/" rel="tag">focus</a> <a href="https://www.deepdotweb.com/tag/regulation/" rel="tag">regulation</a> <a href="https://www.deepdotweb.com/tag/tightens/" rel="tag">tightens</a></span> <span style="display:none" class="updated">2017-03-30</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
+    </div>
+</article>
+

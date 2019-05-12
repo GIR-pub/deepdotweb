@@ -1,0 +1,29 @@
+---
+IRS Demands Entire Coinbase User Database For Tax Purposes
+---
+<article class="post-listing post-16652 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-coinbase tag-database tag-demands tag-entire tag-irs tag-purposes tag-tax tag-user">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+    <span>November 29, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/11/29/irs-demands-entire-coinbase-user-database-tax-purposes/#comments">6 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>The Internal Revenue Service, a U.S. government agency responsible for tax collection and tax law enforcement, has requested popular bitcoin trading platform and wallet service provider Coinbase to provide personal and sensitive financial data of millions of customers over the past three years for tax filing purposes.</p>
+    <p>Various court filings have been submitted and a formal investigation was initiated by the IRS to estimate the amount of tax evaded by users on the platform. Court filings state that the IRS is formally seeking pertinent financial and personal information of all US-based Coinbase users between 2013 and 2015.</p>
+    <p>“The John Does whose identities are sought by the summons are United States persons who, at any time during the period January 1, 2013, through December 31, 2015, conducted transactions in a convertible virtual currency,” <a href="https://www.documentcloud.org/documents/3222199-Memorandum-in-Support-of-Petition-for-Coinbase.html">reads a memorandum</a> written by Department of Justice attorneys and filed on Thursday, November 17.</p>
+    <p>The &#8220;John Doe&#8221; summons abovementioned in the memorandum refers to an important technique widely utilized by the IRS to obtain information on taxpayers. The IRS is not required to know the identities of the taxpayers. If a court or a judge allows the IRS to issue a John Doe summons, the organization can legally reveal all identities of a group of taxpayers.</p>
+    <p>Wood LLP partner and attorney Robert Wood among other law practitioners criticized this technique since its emergence in 2011. At the time, Wood <a href="http://www.forbes.com/sites/robertwood/2011/12/30/irs-summons-meet-john-doe/#1179fc2d37b4">stated</a>. “A federal judge recently gave the IRS permission to serve a John Doe summons on California’s State Board of Equalization. The IRS wants names of Californians who gifted real property to their children or grandchildren between 2005 and 2010. The IRS believes many failed to file federal gift tax returns reporting family transfers.”</p>
+    <p>The IRS argues that the majority of users on Coinbase and other bitcoin exchanges as well as wallet platforms are not compliant with internal revenue laws. Specifically, users that fail to release reports on taxable income are punishable by law. Thus, by requesting a John Doe summons, they can legally reveal identities of Coinbase consumers during a time frame of their selection and require targeted users to pay taxes.</p>
+    <p>“There is a reasonable basis for believing these US taxpayers failed to comply with internal revenue laws. The taxpayers being investigated have not been or may not be complying with US internal revenue laws requiring the reporting of taxable income from virtual-currency transactions,” <a href="https://www.documentcloud.org/documents/3222198-Petition-for-Coinbase-Trader-Identities.html">the document read.</a></p>
+    <p>Coinbase however expressed their concerns with the IRS John Doe summons request, stating that the company is obligated to protect the privacy of its users. While Coinbase has worked with law enforcement and authorities in the past under viable conditions, the company believes that the government’s request is inappropriate and disproportionate</p>
+    <p>In a statement to its users, the Coinbase team emphasized that it is willing to fight the IRS in court to ensure that the John Doe summons is not passed and the privacy measures of users are maintained.</p>
+    <p>“Our customers’ privacy rights are important to us and our legal team is in the process of examining the government&#8217;s petition. In its current form, we will oppose the government’s petition in court. We will continue to keep our customers informed on developments in this matter,” <a href="https://blog.coinbase.com/2016/11/18/protecting-customer-privacy/">Coinbase stated.</a></p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/coinbase/" rel="tag">coinbase</a> <a href="https://www.deepdotweb.com/tag/database/" rel="tag">database</a> <a href="https://www.deepdotweb.com/tag/demands/" rel="tag">demands</a> <a href="https://www.deepdotweb.com/tag/entire/" rel="tag">entire</a> <a href="https://www.deepdotweb.com/tag/irs/" rel="tag">irs</a> <a href="https://www.deepdotweb.com/tag/purposes/" rel="tag">purposes</a> <a href="https://www.deepdotweb.com/tag/tax/" rel="tag">tax</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a></span> <span style="display:none" class="updated">2016-11-29</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
+    </div>
+</article>
+

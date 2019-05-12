@@ -1,0 +1,30 @@
+---
+Officials Blame the Netherlands for MDMA and Meth Influx
+---
+<article class="post-listing post-20467 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blame tag-influx tag-mdma tag-meth tag-netherlands tag-officials">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>June 8, 2017</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2017/06/08/officials-blame-netherlands-mdma-meth-influx/#comments">3 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>The Netherlands is well-known—even amidst law enforcement ranks—for being one of the main suppliers of <a href="https://www.deepdotweb.com/2016/12/26/study-shows-mdma-netherlands-less-pure-online-locally/">MDMA</a> and substituted amphetamines. So much so, users on drug market forums recommend avoiding buying any product from a vendor who either resides in or ships from the Netherlands. The packages draw too much attention. According to senior Austrian officials, the Netherlands is not doing nearly enough to prevent this type of drug trafficking.</p>
+    <p>Specifically, they said that the Netherlands is not properly enforcing laws regarding drug manufacturing. And even more precisely, officials claimed that the Netherlands was not doing enough to shut down drug laboratories designed to create and ship drugs to and throughout the United States and Europe.</p>
+    <p>A Reddit user once <a href="https://www.reddit.com/r/DarkNetMarkets/comments/4b03q0/netherlands_to_highrisk_countries_success_stories/">warned darknet market beginners</a> that “ordering from the Netherlands to high risk countries like the USA should never be taken lightly and you should assume a very large amount of risk. Getting caught can result in a burned drop or jail time.”</p>
+    <p><img class="wp-image-20476 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-28.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-28.jpeg 800w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-28-300x105.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+    <p>Austria&#8217;s Interior Minister Wolfgang Sobotka said that an <a href="http://www.newsweek.com/netherlands-underground-narco-labs-are-fueling-us-and-austrian-streets-613519">Austro-German drug task force intercepted 6,000 packages</a> during 2016. He referred to drug packages. Those 6,000 packages, he explained, added up to 170 kilograms of drugs “<a href="https://www.deepdotweb.com/tag/darknet/">ordered on the Darknet</a>.&#8221; A large quantity of them, he said, came from the Netherlands the German Postal Service period.</p>
+    <p>He called for better collaboration between law enforcement and government agencies. &#8220;It is crucial the production sites are shut down.&#8221;</p>
+    <p>Dieter Csefan, Austria&#8217;s chief drug crime official, revealed that his officers seized similar drugs. However, in addition to class A drugs like cocaine, ecstasy, in crystal meth, he started seeing more <a href="https://www.deepdotweb.com/tag/fentanyl">fentanyl and designer opioids</a>. So called gangs behind the manufacture of the substances operated from shipping containers, functioned as makeshift Laboratories. Each one of these Laboratories could produce 500 kilograms of drugs every week, although he did not specify which drugs were produced at this rate.</p>
+    <p><img class="wp-image-20477 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-29.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-29.jpeg 800w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-29-300x187.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+    <p>He did go on to say that the United States was the number one destination for these substances, followed by Austria. &#8220;These laboratories are underground,&#8221; Csefan said. &#8220;Huge ship containers are being buried five to six meters in the ground in the southern Netherlands.&#8221; Despite the challenges faced by law enforcement in the Netherlands, Franz Lang, head of Austria&#8217;s Federal Criminal Police Office, frowned upon their tactics and, in many cases, a lack thereof.</p>
+    <p>&#8220;Sometimes we have wishes for the Dutch judiciary which are not followed up on immediately, or not at all,&#8221; Lang said.</p>
+    <p>We live in an era where, to effectively fight crime, law enforcement needs to work in conjunction with law enforcement in neighboring countries. (Or allied countries in general.) But the Netherlands apparent apathy towards certain crimes hinders law enforcement and places the burden on law enforcement agencies outside the country, closely watching packages headed towards target countries.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/blame/" rel="tag">blame</a> <a href="https://www.deepdotweb.com/tag/influx/" rel="tag">influx</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/meth/" rel="tag">meth</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/officials/" rel="tag">officials</a></span> <span style="display:none" class="updated">2017-06-08</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

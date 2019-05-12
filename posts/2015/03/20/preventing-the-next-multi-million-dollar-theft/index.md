@@ -1,0 +1,39 @@
+---
+Preventing the Next Multi-Million Dollar Theft
+---
+<article class="post-listing post-9560 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-dollar tag-multimillion tag-preventing tag-theft">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+    <span>March 20, 2015</span>
+    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    <span><a href="https://www.deepdotweb.com/2015/03/20/preventing-the-next-multi-million-dollar-theft/#comments">21 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>Guest Post By Nadav Ivgi &#8211; Founder of <a href="https://www.bitrated.com/">Bitrated</a>  (Our previous interview with Nadav can be <a href="http://www.deepdotweb.com/2014/02/17/bitrated-bitcoin-arbitration-marketplace/">found here</a>)</p>
+    <p>This week, a huge story broke about yet another “underground” marketplace that ran away with all user funds in escrow. Evolution, one of the biggest underground marketplaces, has now shut down after their admins pulled off one of <a href="http://www.deepdotweb.com/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">the biggest heists to date</a> &#8211; currently estimated between 40,000 BTC and <a href="http://www.deepdotweb.com/2015/03/18/interview-with-nswgreat-evolution-staff-member/">130,000</a> BTC (12 to 35 million USD).</p>
+    <p>This is not the first time this has happened and unfortunately it probably won’t be the last, unless the Bitcoin community establishes (and enforces) more secure payment methods that don’t involve trusting centralized entities to hold large sums of money in escrow.</p>
+    <p>But all is not lost. A solution has existed in the Bitcoin scripting language for quite some time now, in the form of arbitration contracts based on 2-of-3 multi-signature transactions. Multi-signature was standardized as <a href="https://github.com/bitcoin/bips/blob/master/bip-0011.mediawiki">BIP 11</a> back in 2011, with one of the early references to the potential usage for arbitration contracts made by Mike Hearn at his <a href="https://www.youtube.com/watch?v=mD4L7xDNCmA#t=303">Bitcoin London 2012 presentation</a>.</p>
+    <p>With multi-signature, a trusted third party can be nominated by the buyer and seller, giving him the authority to resolve disputes and decide which party is right and should receive funds in case of dispute. The third party arbitrator does not hold funds in escrow and does not control them, and therefore cannot “run away” with them either.</p>
+    <p>And yet, despite repeating incidents that have shown the weaknesses of escrow, these solutions are still not widely used. The majority of marketplaces today (both “hidden” and “clear-web” ones) still rely on a standard centralized escrow, or on direct buyer to seller payments that provide no buyer protection at all.</p>
+    <p>Fortunately, Bitrated is here to change that.</p>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/iI9hpFUa_CI" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+    <p><a href="https://www.bitrated.com/">Bitrated</a> is a trust platform for the Bitcoin ecosystem. Originally launched at the end of 2013, it utilizes a payment system that facilitates the creation of 2-of-3 multi-signature contracts for the purpose of third-party arbitration, as well as a marketplace for arbitrators that wish to offer their services in exchange for fees.</p>
+    <p>Bitrated, was recently <a href="https://bitcoinmagazine.com/19371/bitrated-unveils-reputation-system-multisig-escrow/">re-launched as Bitrated v2</a>, a completely new codebase rewritten from the ground up to replace the old system, with a strong focus on ‘reputation’ as the foundation of the system, as well as improved usability and user experience.</p>
+    <p>Bitrated builds a layer of trust on top of Bitcoin and blockchain technology, using three primary components:</p>
+    <ol>
+    <li><strong>Payment system &#8211; </strong>Providing consumer protection and recourse for Bitcoin payments, by leveraging multi-signature transactions. This gives users peace of mind with their transactions, knowing that they can appeal to a trusted entity in case of dispute &#8211; but without running the risk that the trusted party would run away with the funds.</li>
+    <li><strong>Reputation management system</strong> &#8211; A system that allows individuals and companies to build their online reputation and check the credibility of others, based on ratings, a web-of-trust network, and by extracting metrics from the user’s online persona. Identities on Bitrated can remain pseudonymous, or, as an opt-in, attached to a real-world identity.</li>
+    <li><strong>Trust marketplace</strong> &#8211; A marketplace for arbitration services where trust agents can compete for customers by providing quality dispute resolution services, utilizing their domain expertise, building a reputation and offering competitive fees.</li>
+    </ol>
+    <p>The aim of Bitrated is to provide an infrastructure-level platform for other services, like marketplaces, wallets and exchanges, to build on top of. Our API is currently partially available, with more features due to be rolled out in the coming months. We’re currently gathering use-cases and requirements from API partners &#8211; if you want to help us design APIs that match your specific needs, please don’t hesitate to <a href="mailto:api@bitrated.com">contact us</a>.</p>
+    <p>One of the primary design goals for the Bitrated v2 system is to make it <a href="https://www.bitrated.com/security#trustless-server-model">as trustless as possible</a>. While it is operated as a web service, everything is backed by public-key cryptography. Each identity is represented by a public key, which is used to sign statements and actions made by the user, such as contracts, ratings and profile data. This means that even Bitrated itself cannot post ratings on behalf of users, or claim that they agreed to a contract that they didn’t agree to.</p>
+    <p>Needless to say, all private keys and cryptographic operations are managed using client-side technology. Private keys never touch our servers, not even in encrypted form. Bitrated cannot touch user funds, sign transactions or intervene in the arbitrator’s decision. You can read more about our security on the <a href="https://www.bitrated.com/security">security page</a>. If you’re a security researcher, we welcome security audits and offer a <a href="https://www.bitrated.com/bounty">bug bounty program</a>.</p>
+    <p>Bitrated just re-launched recently and are eager to hear the community’s feedback. If you have any ideas, suggestions or questions &#8211; please <a href="https://www.bitrated.com/contact">reach out to us</a>!</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dollar/" rel="tag">dollar</a> <a href="https://www.deepdotweb.com/tag/multimillion/" rel="tag">multimillion</a> <a href="https://www.deepdotweb.com/tag/preventing/" rel="tag">preventing</a> <a href="https://www.deepdotweb.com/tag/theft/" rel="tag">theft</a></span> <span style="display:none" class="updated">2015-03-20</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    </div>
+</article>
+

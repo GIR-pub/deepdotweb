@@ -1,0 +1,26 @@
+---
+International Darknet Drug Trafficker Sentenced to Prison
+---
+<article class="post-listing post-25463 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-drug tag-international tag-prison tag-sentenced tag-trafficker">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+    <span>April 23, 2018</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2018/04/23/international-darknet-drug-trafficker-sentenced-to-prison/#respond">Leave a comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>According to United States Attorney Bob Troyer, U.S. District Court Judge R. Brooke Jackson sentenced 22-year-old Leonardo Cristea to <a href="https://www.justice.gov/usao-co/pr/member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-prison">a three year prison sentence</a> for his role in the Italian Mafia Brussels (IMB) drug trafficking operation. After international law enforcement arrested Cristea and nine accomplices in May 2016, Cristea pleaded guilty to a single count of conspiracy drug importation.</p>
+    <p>Court documents revealed that Cristea conspired with Filip Lucian Simion—the ‘leader’ of the organization—to sell drugs on several darknet markets between January 2013 and May 2016. <a href="https://www.deepdotweb.com/2016/07/01/dark-net-vendor-group-italian-maffia-brussels-busted/">IMB actively sold drugs on Silk Road</a>, Silk Road 2.0, Nucleus, and many more markets. The drug trafficking organization, according to court documents, shipped kilograms of MDMA and amphetamine across the world. Italian Mafia Brussels shipped from European countries.</p>
+    <p>Some of the group&#8217;s drugs landed in the state of Colorado, invoking an investigation that started with the Boulder County District Attorney’s Office and the Boulder County Drug Task Force. Authorities in the United States were not alone in their investigation into Italian Mafia Brussels, though. Once the U.S. investigation had reached a point of no return, federal authorities started working with the Romanian Central Anti-Narcotics Unit and the Belgian Federal Judicial Police.</p>
+    <p>The investigation involved Homeland Security Investigations; the Internal Revenue Service; the United States Postal Inspection Service; the Department of Justice International Affairs; U.S. Customs and Border Protection; the Boulder County District Attorney’s Office; the Boulder County Drug Task Force; Romanian and Belgian authorities; Europol; and Eurojust. Many unnamed local authorities played a part in the investigation and takedown as well.</p>
+    <p>On May 3, 2016, U.S. authorities and their international counterparts conducted a series of early morning raids that ended with 10 suspects in police custody. Authorities caught Leonardo Cristea and Filip Lucian simultaneously in Bucharest, Romania. After a period of time in Romania, <a href="https://www.deepdotweb.com/2016/10/21/romania-extradites-deepweb-vendor-to-face-us-drug-charges/">both men were extradited to the District of Colorado</a>. The indictment charged both men with importing, distributing, aiding and abetting, money laundering conspiracy (<a href="https://www.deepdotweb.com/tag/bitcoin/">through bitcoin</a>), and distributing controlled substances via the internet. As the identified leader of the group Simion caught more severe charges than Cristea.</p>
+    <p>Simion pleaded guilty to one count of conspiracy to import controlled substances into the United States and one count of conspiracy to launder money. He entered his guilty plea only days before Judge Jackson sentenced his partner. The differences in the charges and court appearances comes from the severity of the charges and the fact that Cristea was extradited only two months after his arrest in Romania. The United States needed five months to extradite Simion. He will show up in court for sentencing in August and will remain in custody in Colorado until then.</p>
+    <p>Meanwhile, his partner will have already gotten the first few months of a 36-month prison sentence out of the way.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/international/" rel="tag">international</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a></span> <span style="display:none" class="updated">2018-04-23</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+    </div>
+</article>
+

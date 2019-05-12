@@ -1,0 +1,27 @@
+---
+Eight Arrested In Malta For Selling Counterfeit Euros
+---
+<article class="post-listing post-17122 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-counterfeit tag-euros tag-malta tag-selling">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+    <span>December 24, 2016</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2016/12/24/eight-arrested-malta-selling-counterfeit-euros/#respond">Leave a comment</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>The financial division of Europol and Maltese law enforcement authorities <a href="https://criptonoticias.com/sucesos/ocho-detenidos-europol-vender-euros-falsos-bitcoins/#axzz4SZyQmStF">arrested</a> eight suspects who are believed to be selling <a href="https://www.deepdotweb.com/tag/counterfeit/">counterfeit</a> euros on the dark web. Officials say the gang was among the biggest euro counterfeiters on the dark net.</p>
+    <p>Only eight people have been arrested by authorities, however, police claim they are a bigger part of a large international organization. The leader of the gang is among the detained suspects. According to law enforcement authorities, hundreds of members have been identified as part of the counterfeiter network in the course of the investigation. Police discovered that the leader of the organization has accomplices in the city of Naples, an area believed to have strong connections to mob activity.</p>
+    <p>The investigation revealed that the vendor sold counterfeit euro banknotes of 20, 50 and 100 on the dark web for 30% of the original value. All transactions were conducted in bitcoins. The estimated income of the gang is believed to be around 160,000 euros in cryptocurrencies, which was sold to an exchange house in Malta.</p>
+    <p>“This operation is an excellent example of how cooperation between law enforcement and the successful exchange of information are vital to combat this crime,” Wil van Gemert, Deputy Director of the Operations Department at Europol said in an official statement. “Services hidden in the darknet and payments made with bitcoins give sellers and buyers a false sense of anonymity. However, Europol and other forces are committed to investigating the trade that moves in the shadows, making sure that these criminals are brought to justice.”</p>
+    <p>BTC payments provide anonymity to the currency’s users, however, many exchanges in the world take measures to prevent financial crimes, such as money laundering. Although, the applications portfolio (the storage and the safekeeping of the cryptocurrency, such as BTC wallets) do not apply or should not request personal information from those who are willing to use their services.</p>
+    <p>The law enforcement operation started in January 2015 involving Italian police and also authorities from other countries, such as Austria, Germany, Portugal, France, Spain, Lithuania, Sweden and the Netherlands. All countries provided information to the Europol.</p>
+    <p>According to information provided by law enforcement authorities, bitcoin remains a favorable choice to both internet (clearnet) and dark web criminals.</p>
+    <p>It is unknown if this police action was part of Operation Hyperion, a global law enforcement action against dark net criminals. There were many countries participating in the operation including Australia, New Zealand, the United States and many countries from Europe. While Swedish police claim that they have <a href="https://www.deepdotweb.com/2016/11/07/swedish-police-claim-de-anonymised-3000-darknet-buyers/">deanonymized</a> about 3,000 dark web buyers (there have been arrests in the country, lately), the Netherlands started a <a href="https://www.deepdotweb.com/2016/10/31/dutch-national-prosecution-service-police-launch-hidden-service-global-darknet-enforcement-operation/">dark net site</a> showing the active vendors, the arrested sellers and the identified buyers on dark net marketplaces. The website is most probably used as a scare tactic since there has been only a few dark web related busts in the country. The Dutch authority site can be reached via this .onion link: http://politiepcvh42eav.onion</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/euros/" rel="tag">euros</a> <a href="https://www.deepdotweb.com/tag/malta/" rel="tag">malta</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a></span> <span style="display:none" class="updated">2016-12-24</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+    </div>
+</article>
+

@@ -1,0 +1,33 @@
+---
+Ridge Man Handed 8 Years Prison Sentence for Downloading Child Pornography
+---
+<article class="post-listing post-24800 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-downloading tag-handed tag-man tag-pornography tag-prison tag-ridge tag-sentence tag-years">
+    <div class="post-inner">
+    <p class="post-meta">
+    <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
+    <span>February 13, 2018</span>
+    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+    <span><a href="https://www.deepdotweb.com/2018/02/13/ridge-man-handed-8-years-prison-sentence-downloading-child-pornography/#comments">4 Comments</a></span>
+    </p>
+    <div class="clear"></div>
+    <div class="entry">
+    <p>The dark web as we all know harbors numerous unspeakable crimes which criminals commit daily. Some crimes are despicable and that’s the bitter truth that many people don’t want to admit. <a href="https://www.deepdotweb.com/2017/12/03/man-dark-web-child-pornography-case-sentenced-9-months/">Child pornography on the dark web</a> has been around for quite some time and because it isn’t being committed frequently such as illegal drug sales and other crimes, much attention hasn’t been drawn to it.</p>
+    <p>Most people choose to purchase illegal drugs from the dark web even though they know what’s at stake but ignore any risk regardless but infants and toddlers being subjected to sexual tortures is appalling.</p>
+    <p><a id="post-24800-_gjdgxs"></a> That is the case in Central Islip, as a 30-year-old man named <a href="https://www.longisland.com/news/02-01-18/fbi-long-island-man-sentenced-to-eight-years-imprisonment-for-downloading-child-pornography.html">Christopher Robert Grief</a>, nicknamed “Mookie” earlier in court on the 1st of February was given a prison sentence of eight years after he pleaded guilty to Receiving Child Pornography in Interstate and Foreign Commerce. This was according to a news release from the U.S. Attorney&#8217;s Office for the Eastern District of New York.</p>
+    <p>United States Judge Joseph F. Bianco, presiding also sentenced Mr. Grief to a lifetime supervised release after his prison sentence of which he must register as a sex offender during that time. In addition to that, he will not be allowed contact with minors unsupervised.</p>
+    <p>Reports from authority’s states that, Grief was apprehended back in September 2014 after a search warrant was issued for his residence. Upon reaching his residence, Law enforcement agents discovered child pornography, which included a video recording of the rape of a 3-month-old baby on Grief’s personal computer. He afterward admitted that he had a sexual interest in young children, the U.S. Department of Justice said.</p>
+    <p>Court filings also revealed that Grief used his online handle “Mookie” to frequently visit online dark web forums and marketplace which offered sexual torture of infants and toddlers. He usually engaged in chat in the forum about the torture of children and animals and also downloaded child pornography.</p>
+    <p>Further reports also state that Grief again stated that he made and posted a video of a mutilation and torture where he had abused a rat on an online dark web forum. Grief, after his arrest, has since been incarcerated.</p>
+    <p>Grief’s sentence was announced by William F. Sweeney, Jr., Assistant Director-in-Charge, Federal Bureau of Investigation, New York Field Office (FBI), Richard P. Donoghue, United States Attorney for the Eastern District of New York, and John W. Barry, Acting Commissioner, Suffolk County Police Department (SCPD). Allen L. Bode, Assistant United States Attorney is currently in charge of the prosecution, and the case is also being handled by the Office’s Long Island Criminal Division.</p>
+    <p>Surprisingly, this case isn’t the first to happen this year and we are a very long way from the end of it. If these kind of cases continue to happen at this rate, 2018 will be no different than the previous years where numerous cases of child pornography were recorded.</p>
+    <p>In the latter stages of January, the FBI in an unusual operation to bust viewers of child pornography on the dark web marketplace called Playpen ended up arresting a Brownsville man, Daniel Leal, who pleaded guilty to possessing material containing child pornography.</p>
+    <p>Mr. Leal pleaded guilty in front of U.S District Judge Andrew S. Hanen after entering a plea deal with prosecutors.</p>
+    <p>According to the FBI, the <a href="https://www.deepdotweb.com/2018/01/20/kentucky-man-sentenced-87-months-playpen-case/">dark web marketplace Playpen</a> which was created in August 2014, is believed to be the world’s biggest child pornography website, with over 150,000 users across the globe.</p>
+    <p>The FBI gained control over the website in December and created a mirror website which operated for about 14 days rather than shutting it down. During that time, any user who downloaded child pornography or even clicked on an image was automatically hacked by the FBI malware which then identified the <a href="https://www.deepdotweb.com/2017/08/06/dhl-goes-hacker-exposes-clearnet-ip-address/">IP addresses</a> of the users.</p>
+    <p>The operation according to reports yielded positive results with more than 1,000 leads.</p>
+    </div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/downloading/" rel="tag">downloading</a> <a href="https://www.deepdotweb.com/tag/handed/" rel="tag">handed</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/ridge/" rel="tag">ridge</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-02-13</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
+    </div>
+</article>
+
