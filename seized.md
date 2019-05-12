@@ -1,13 +1,7 @@
-<html>
-
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Domain Seizure</title>
-</head>
-
-<body style="background-color: black;">
-
-<p><img border="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDoAAAMFCAIAAAAaxAEYAAAKvmlDQ1BJQ0MgUHJv
+---
+title: Domain Seizure
+---
+<img border="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDoAAAMFCAIAAAAaxAEYAAAKvmlDQ1BJQ0MgUHJv
 ZmlsZQAASImVlwdUU9kWhs+9N73QAkgn9N5bACmhhyJIBxshCSSUGBOCil0ZHMGx
 oCKCiqKDIAqOBZBBRSxYGASUYh0QUVHHwYINlXeBR5h5b7331ttrnXu+u7PPPnuf
 dc9afwCgfGWLRBmwAgCZwixxZKAPPT4hkY4fBBCAAQGYAUs2RyJiRkSEAtSm57/b
@@ -14186,7 +14180,3 @@ XlIMTU9hdyvRkXyIZeFFUsuoupelQmeCvG7Ke0ganEiOvrW44psduI5Bj4kycyVp
 s6W5rRiaq6bZ4wu69A+SPaN3LWj5HP/3qlvrJjiJyG66I8qV3wydkdMXbodyZYFt
 lppbKyzWAV6h7NaP2e/czgg7u22aW/xvTTkAau5+eH52jxUe+Vge/5TC0qozTf8f
 Jla8ys/7VbcAAAAASUVORK5CYII=" width="1082" height="773" style="display: block; margin-left: auto;margin-right: auto";/p>
-
-</body>
-
-</html>
