@@ -1,7 +1,6 @@
 ---
-title: Simple Instructions: How to avoid getting scammed on any marketplace?
+title: Simple Instructions: How to avoid getting scammed on any marketplace?"
 ---
-
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 27, 2013</span>
 

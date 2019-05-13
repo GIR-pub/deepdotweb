@@ -1,7 +1,6 @@
 ---
-title: "Silk Road 2.0 Is now open For Business"
+title: "Silk Road 2.0 Is now open For Business""
 ---
-
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 13, 2013</span>
 

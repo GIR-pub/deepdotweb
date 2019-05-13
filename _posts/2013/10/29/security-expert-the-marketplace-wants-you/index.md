@@ -1,7 +1,6 @@
 ---
-title: Security Expert? &#8220;The Marketplace&#8221; Wants You!
+title: Security Expert? &#8220;The Marketplace&#8221; Wants You!"
 ---
-
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 29, 2013</span>
 

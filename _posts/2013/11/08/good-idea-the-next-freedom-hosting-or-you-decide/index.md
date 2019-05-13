@@ -1,7 +1,6 @@
 ---
-title: Good Idea, the Next Freedom Hosting, Or&#8230;? You decide.
+title: Good Idea, the Next Freedom Hosting, Or&#8230;? You decide."
 ---
-
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 8, 2013</span>

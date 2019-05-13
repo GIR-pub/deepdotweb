@@ -1,7 +1,6 @@
 ---
-title: "DPR Art?"
+title: "DPR Art?""
 ---
-
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 18, 2013</span>
