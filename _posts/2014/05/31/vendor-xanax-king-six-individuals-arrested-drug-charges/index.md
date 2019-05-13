@@ -1,7 +1,7 @@
 ---
 Vendor &#8220;Xanax King&#8221;: Six Individuals Arrested on Drug Charges
 ---
-<article class="post-listing post-5852 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-drug tag-individuals tag-king tag-vendor tag-xanax">
+<article class="post-listing post-5852 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-individuals tag-king tag-vendor tag-xanax">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 31, 2014</span>
@@ -22,7 +22,7 @@ Vendor &#8220;Xanax King&#8221;: Six Individuals Arrested on Drug Charges
     <p>This case is the product of an extensive investigation by the Organized Crime Drug Enforcement Task Force, a focused multi-agency, multi-jurisdictional task force investigating and prosecuting the most significant drug trafficking organizations throughout the United States by leveraging the combined expertise of federal, state and local law enforcement agencies.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a>  <a href="https://www.deepdotweb.com/tag/individuals/" rel="tag">individuals</a> <a href="https://www.deepdotweb.com/tag/king/" rel="tag">king</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2014-05-31</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

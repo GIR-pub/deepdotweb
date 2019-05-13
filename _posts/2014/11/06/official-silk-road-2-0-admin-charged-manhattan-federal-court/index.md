@@ -1,7 +1,7 @@
 ---
 Official: Silk Road 2.0 Admin Charged in Manhattan Federal Court
 ---
-<article class="post-listing post-7987 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous tag-silkroad2bust">
+<article class="post-listing post-7987 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 6, 2014</span>
@@ -38,7 +38,7 @@ Official: Silk Road 2.0 Admin Charged in Manhattan Federal Court
     <iframe id="doc_1203" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/245744857/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-8m3pQkf8Y2cIgutYFADj&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="0.7727272727272727"></iframe></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a></span> <span style="display:none" class="updated">2014-11-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

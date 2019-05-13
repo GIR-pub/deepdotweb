@@ -1,7 +1,7 @@
 ---
 Lexington Man Pleads Guilty to DNM Money Laundering Charge Using BTC
 ---
-<article class="post-listing post-10215 post type-post status-publish format-standard has-post-thumbnail hentry  tag-btc tag-charge tag-dnm tag-guilty tag-laundering tag-lexington tag-man tag-money tag-pleads">
+<article class="post-listing post-10215 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charge tag-dnm tag-guilty tag-laundering tag-lexington tag-man tag-money tag-pleads">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 6, 2015</span>
@@ -20,7 +20,7 @@ Lexington Man Pleads Guilty to DNM Money Laundering Charge Using BTC
     <p>&nbsp;</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/charge/" rel="tag">charge</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a>  <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/lexington/" rel="tag">lexington</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> </span> <span style="display:none" class="updated">2015-05-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

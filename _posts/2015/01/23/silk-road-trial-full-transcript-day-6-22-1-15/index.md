@@ -1,7 +1,7 @@
 ---
 Silk Road Trial Full Transcript: Day 6 (22.1.15)
 ---
-<article class="post-listing post-8866 post type-post status-publish format-standard has-post-thumbnail hentry  tag-silkroadtrial tag-transcriptsr">
+<article class="post-listing post-8866 post type-post status-publish format-standard has-post-thumbnail hentry  trial tag-transcriptsr">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 23, 2015</span>
@@ -19,7 +19,7 @@ Silk Road Trial Full Transcript: Day 6 (22.1.15)
     <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/253475008/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_31404" frameborder="0"></iframe></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a> <a href="https://www.deepdotweb.com/tag/transcriptsr/" rel="tag">transcriptSR</a></span> <span style="display:none" class="updated">2015-01-23</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

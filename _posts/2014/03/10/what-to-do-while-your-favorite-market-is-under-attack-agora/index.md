@@ -42,7 +42,7 @@ What To Do While Your Favorite Market Is Under Attack? (Agora)
     <p>To sum up, we hope that the marketplace will be back soon, with everyone&#8217;s money safe in it, until than, we will keep following and updating only if something really interesting will happen.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/favorite/" rel="tag">favorite</a></span> <span style="display:none" class="updated">2014-03-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

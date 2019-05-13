@@ -28,7 +28,7 @@ Darkcoin Gains Acceptance In The Online Gaming Market
     <p>This comes only a while after we reported that <a title="Permalink to Darkcoin Now Accepted on Minor Dark Net Markets" href="http://www.deepdotweb.com/2014/10/21/darkcoin-bow-accepted-minor-dark-net-marketplaces/" rel="bookmark">Darkcoin is Now Accepted on 2 Minor Dark Net Markets</a>.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/acceptance/" rel="tag">acceptance</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/gains/" rel="tag">gains</a> <a href="https://www.deepdotweb.com/tag/gaming/" rel="tag">gaming</a> </span> <span style="display:none" class="updated">2014-12-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -25,7 +25,7 @@ Weekly Bitcoin Update – 5 October 2014
     <p>Flinders Unviersity Australia has announced that it will begin to accept Bitcoin payments. As Eric Calouro of <a href="http://newsbtc.com/2014/10/03/flinders-university-accepting-bitcoin-entrepreneurial-program/">NewsBTC</a> notes, however, the cryptocurrency will only be accepted for &#8216;Venture Dorm&#8217;, an entrepreneurial education program that will last twelve weeks. That being said, Vice Chancellor Michael Barber stated that the university will not be accepting the currency for tuition payments and other expenses in addition to this recent effort.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-10-05</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

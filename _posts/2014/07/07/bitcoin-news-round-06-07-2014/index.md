@@ -22,7 +22,7 @@ Bitcoin news round-up 07.07.2014
     <p>Litecoin, the apparent silver to bitcoin’s gold, has begun “decoupling” from the currency and moving away from following the same peaks and troughs in pricing. After hitting $40 around the time bitcoin rose to $1,000 last year, some from the industry are now speculating that money is being taken out of litecoin and <a href="http://www.coindesk.com/litecoin-price-decouples-bitcoin-slump-continues/">pumped</a> into bitcoin – which will further strengthen bitcoin’s place in the market. Although bitcoin began recovering from its price slump in April, litecoin has continued to suffer and is still trading around the $10 mark. Dogecoin has yet to follow the pricing trends of either currency, and is still worth less than $0.01.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/06072014/" rel="tag">06072014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2014-07-07</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

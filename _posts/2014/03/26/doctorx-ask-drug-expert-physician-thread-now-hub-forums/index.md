@@ -1,7 +1,7 @@
 ---
 DoctorX &#8220;Ask a Drug Expert Physician&#8221; Thread &#8211; Now on The Hub Forums!
 ---
-<article class="post-listing post-4817 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorx tag-drug tag-expert tag-forums tag-hub tag-physician tag-thread">
+<article class="post-listing post-4817 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorx tag-expert tag-forums tag-hub tag-physician tag-thread">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 26, 2014</span>
@@ -45,7 +45,7 @@ DoctorX &#8220;Ask a Drug Expert Physician&#8221; Thread &#8211; Now on The Hub 
     <p>We thank Dr. Caudevilla for informing us about this, and for taking his time giving out free advice to the DNM users and helping them with staying healthy and safe!</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/doctorx/" rel="tag">doctorx</a>  <a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/hub/" rel="tag">hub</a> <a href="https://www.deepdotweb.com/tag/physician/" rel="tag">physician</a> <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> <span style="display:none" class="updated">2014-03-26</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

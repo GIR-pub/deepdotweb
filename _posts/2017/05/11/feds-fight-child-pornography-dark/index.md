@@ -1,7 +1,7 @@
 ---
 Feds to Fight Child Pornography on the Dark
 ---
-<article class="post-listing post-19759 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-dark tag-feds tag-fight tag-pornography">
+<article class="post-listing post-19759 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-dark tag-fight tag-pornography">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 11, 2017</span>

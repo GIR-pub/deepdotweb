@@ -57,7 +57,7 @@ Can Anoncoin Be The Currency Of The Deep Web?
     <p>Anonymous crypto-currency technology has progressed from virtual non-existence in mid-2013 to being a central feature of a multitude of crypto-currencies today. A year from now, we may see a crypto-currency that boasts network, blockchain, and address privacy. It will also be “trustless”, meaning that users need not trust a central service to provide anonymity. This future currency will require only small amounts of storage and may even usurp Bitcoin as the leading currency on the Dark Markets.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/anoncoin/" rel="tag">anoncoin</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2014-09-18</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

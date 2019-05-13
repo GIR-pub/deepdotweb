@@ -1,7 +1,7 @@
 ---
 Darkcoin Now Accepted on Minor Dark Net Markets
 ---
-<article class="post-listing post-7445 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accepted tag-bow tag-dark tag-darkcoin tag-marketplaces tag-minor tag-net">
+<article class="post-listing post-7445 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bow tag-dark tag-darkcoin tag-marketplaces tag-minor tag-net">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
     <span>October 21, 2014</span>
@@ -20,7 +20,7 @@ Darkcoin Now Accepted on Minor Dark Net Markets
     <p>The next phase, of course, will have to involve adoption by a major marketplace. Whether we mean by this <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market" target="_blank">Agora</a> or <a href="http://www.deepdotweb.com/marketplace-directory/listing/silk-road-2-0" target="_blank">Silk Road 2</a> or <a href="http://www.deepdotweb.com/marketplace-directory/listing/evolution-marketplace" target="_blank">Evolution</a> is beside the point. One can safely presume that once one adopts the rest will follow; this is especially true if adoption of Darkcoin sees clients and vendors moving to the first exchange to introduce the holy grail of the anonymous cryptocoin (which remains a long-standing chink in the Armour of the entire dark net marketplace enterprise). For now we must watch and wait as one of the most exciting phases of the deep dark web may be upon us.</p>
     <p>Both markets can be found in the new / under construction section of our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">Dark Net Markets list.</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/accepted/" rel="tag">accepted</a> <a href="https://www.deepdotweb.com/tag/bow/" rel="tag">bow</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/minor/" rel="tag">minor</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> <span style="display:none" class="updated">2014-10-21</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bow/" rel="tag">bow</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/minor/" rel="tag">minor</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> <span style="display:none" class="updated">2014-10-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/cipher/" title="Posts by Cipher" rel="author">Cipher</a></strong></div>
     </div>
 </article>

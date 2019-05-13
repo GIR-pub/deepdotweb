@@ -1,7 +1,7 @@
 ---
 German Police Released New Information In The Case Of The Ehingen Drug Shop
 ---
-<article class="post-listing post-19049 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-drug tag-ehingen tag-german tag-information tag-police tag-released tag-shop">
+<article class="post-listing post-19049 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-ehingen tag-german tag-information tag-police tag-released tag-shop">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 7, 2017</span>
@@ -24,7 +24,7 @@ German Police Released New Information In The Case Of The Ehingen Drug Shop
     <p>The investigation showed that the criminal group either smuggled the narcotics by car through the borders or bought them from darknet vendors, who sent the packages via the national postal service.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a>  <a href="https://www.deepdotweb.com/tag/ehingen/" rel="tag">ehingen</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="https://www.deepdotweb.com/tag/shop/" rel="tag">shop</a></span> <span style="display:none" class="updated">2017-04-07</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

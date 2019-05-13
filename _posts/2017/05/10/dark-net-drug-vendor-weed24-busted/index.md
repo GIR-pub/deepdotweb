@@ -1,7 +1,7 @@
 ---
 Dark Net Drug Vendor “Weed24” Busted
 ---
-<article class="post-listing post-19741 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-dark tag-drug tag-net tag-vendor tag-weed24">
+<article class="post-listing post-19741 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-dark tag-net tag-vendor tag-weed24">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 10, 2017</span>

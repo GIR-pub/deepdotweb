@@ -1,7 +1,7 @@
 ---
 Libertas: US seeks extradition of Wicklow man over ‘Silk Road’
 ---
-<article class="post-listing post-11041 post type-post status-publish format-standard hentry category-news tag-extradition tag-libertas tag-man tag-road tag-seeks tag-silk tag-wicklow">
+<article class="post-listing post-11041 post type-post status-publish format-standard hentry category-news tag-extradition tag-libertas tag-man tag-seeks tag-wicklow">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 15, 2015</span>
@@ -75,7 +75,7 @@ Libertas: US seeks extradition of Wicklow man over ‘Silk Road’
     
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/libertas/" rel="tag">libertas</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/seeks/" rel="tag">seeks</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/wicklow/" rel="tag">wicklow</a></span> <span style="display:none" class="updated">2015-07-15</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -33,7 +33,7 @@ Is Vendor &#8220;weaponsguy&#8221; On Agora Is ATF/FBI?
     <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/261033274/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_31519" frameborder="0"></iframe></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/atffbi/" rel="tag">atffbi</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/weaponsguy/" rel="tag">weaponsguy</a></span> <span style="display:none" class="updated">2015-04-07</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -92,7 +92,7 @@ Alphabay New feature: Digital contracts (PGP signed)
     <p>The new feature has been <b>thoroughly tested &amp; has passed all security checks</b> (including logic flaws testing) so if in the unlikely event of encountering a bug, please do not hesitate to contact me &amp; I will look at your findings right away.</p></blockquote>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/contracts/" rel="tag">contracts</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/feature/" rel="tag">feature</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/signed/" rel="tag">signed</a></span> <span style="display:none" class="updated">2015-04-29</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

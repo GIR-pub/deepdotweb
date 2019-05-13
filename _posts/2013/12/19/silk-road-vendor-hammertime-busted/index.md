@@ -1,7 +1,7 @@
 ---
 title: Silk Road Vendor &#8220;Hammertime&#8221; Busted
 ---
-2687  tag-busted tag-hammertime tag-road tag-silk tag-vendor">
+2687  tag-busted tag-hammertime tag-vendor">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 19, 2013</span>
@@ -22,4 +22,5 @@ title: Silk Road Vendor &#8220;Hammertime&#8221; Busted
 <p><iframe id="doc_4722" src="//www.scribd.com/embeds/192548341/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" height="600" width="100%" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/hammertime/" rel="tag">hammertime</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a>
+
 Updated: 2013-12-19

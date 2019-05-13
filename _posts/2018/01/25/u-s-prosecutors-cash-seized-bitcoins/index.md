@@ -2,7 +2,7 @@
 U.S Prosecutors to Cash in On Seized Bitcoins
 ---
 <article class="post-listing post-24542 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-bitcoins tag-cash tag-prosecutors tag-seized">
+ tag-cash tag-prosecutors tag-seized">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>January 25, 2018</span>
@@ -27,4 +27,4 @@ U.S Prosecutors to Cash in On Seized Bitcoins
 <p>Fentanyl, the synthetic opioid has been the cause of many deaths in the state and raised many concerns. Almost 500,000 pills were seized from his house in Cottonwood Heights in Utah. He had $1.2 million in cash hidden in garbage bags in his basement when he was arrested, as well as, pills which were made to look like Xanax. The feds upon further analysis realized that the pills were indeed fentanyl.</p>
 <p>Reports from the authorities suggest that Shamo and a partner were selling fake prescription drugs on a dark web marketplace to over thousands of people in the U.S.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/cash/" rel="tag">cash</a> <a href="https://www.deepdotweb.com/tag/prosecutors/" rel="tag">prosecutors</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a></span> <span style="display:none" class="updated">2018-01-25
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/cash/" rel="tag">cash</a> <a href="https://www.deepdotweb.com/tag/prosecutors/" rel="tag">prosecutors</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a></span> <span style="display:none" class="updated">2018-01-25

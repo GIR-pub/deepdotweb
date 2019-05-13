@@ -24,7 +24,7 @@ Weekly Bitcoin Update – 13-12-14
     <p>Bitcoin startup Circle has hired Paul Camp, a former JP Morgan employee that operated the company&#8217;s transactions services shop, to be its new Chief Financial Officer. Jeff John Roberts of <a href="https://gigaom.com/2014/12/10/bitcoin-slump-belied-by-circles-hire-of-jp-morgan-alum/">GigaOM</a> writes that Circle&#8217;s CEO Jeffrey Allaire has suggested that Camp “would be working his deep ties among bankers and regulators to bring bitcoin inside the mainstream financial fold” while referring to “core transaction platforms” on numerous occasions.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/121214/" rel="tag">121214</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-12-13</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

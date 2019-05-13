@@ -32,7 +32,7 @@ Vendor XanaxKing: Anti-Bail Letter
     <p>This is a lot of interesting information that many people can learn from. We will be following this case and updating as more information becomes available, Again, Full credit goes to <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> for posting this on Reddit.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/antibail/" rel="tag">antibail</a> <a href="https://www.deepdotweb.com/tag/letter/" rel="tag">letter</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/xanaxking/" rel="tag">xanaxking</a></span> <span style="display:none" class="updated">2014-07-29</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

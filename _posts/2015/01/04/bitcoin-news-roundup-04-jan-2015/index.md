@@ -23,7 +23,7 @@ Bitcoin News Roundup – 04 Jan. 2015
     <p>“Hashie’s operations are temporarily suspended” is the message that over 40,000 users receive when logging on to Hashie.co. According to the <a href="http://bitcoinexaminer.org/hashieco-clients-lose-profits-disappearance-bitcoin-mining-platform/">Bitcoin Examiner</a>, the cloud-based bitcoin mining platform has suspended operations, causing users to lose their hash tokens, nearly 1,481 BTC. What is weird is that the platform has turned into an Alternative Reality Game (ARG).</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jan/" rel="tag">jan</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-01-04</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -1,7 +1,7 @@
 ---
 Tutorial &#8211; How To Store Your Bitcoins Securely Using Cold Storage
 ---
-<article class="post-listing post-19779 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-cold tag-securely tag-storage tag-store tag-tutorial">
+<article class="post-listing post-19779 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cold tag-securely tag-storage tag-store tag-tutorial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>May 12, 2017</span>
@@ -92,7 +92,7 @@ Tutorial &#8211; How To Store Your Bitcoins Securely Using Cold Storage
     <p>6. The bitcoins will be added to the balance of your wallet and you can spend them via pressing &#8220;Send&#8221; on the top menu bar.</p>
     <p>This was a concise tutorial to help you use cold storage to securely store your bitcoins. If you have any questions, I will be happy to answer them. Just add them in the comments&#8217; section below and I will answer them as soon as possible.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/cold/" rel="tag">cold</a> <a href="https://www.deepdotweb.com/tag/securely/" rel="tag">securely</a> <a href="https://www.deepdotweb.com/tag/storage/" rel="tag">storage</a> <a href="https://www.deepdotweb.com/tag/store/" rel="tag">store</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2017-05-12</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cold/" rel="tag">cold</a> <a href="https://www.deepdotweb.com/tag/securely/" rel="tag">securely</a> <a href="https://www.deepdotweb.com/tag/storage/" rel="tag">storage</a> <a href="https://www.deepdotweb.com/tag/store/" rel="tag">store</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2017-05-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

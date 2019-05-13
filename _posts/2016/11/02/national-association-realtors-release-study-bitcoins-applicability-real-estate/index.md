@@ -1,7 +1,7 @@
 ---
 National Association of Realtors Release Study on Bitcoin&#8217;s Applicability in Real Estate
 ---
-<article class="post-listing post-16234 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applicability tag-association tag-bitcoins tag-estate tag-national tag-real tag-realtors tag-release tag-study">
+<article class="post-listing post-16234 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applicability tag-association tag-estate tag-national tag-real tag-realtors tag-release tag-study">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>November 2, 2016</span>
@@ -25,7 +25,7 @@ National Association of Realtors Release Study on Bitcoin&#8217;s Applicability 
     <p>“Real estate blockchain implementers will experience high profile poor implementations at first. All early adopters have suffered through this painful, yet educational period. These failures will complicate adoption,” <a href="http://crt.blogs.realtor.org/files/2016/10/blockchain_in_real_estate_applications1.pdf">wrote the association.</a></p>
     <p>Overtime, after a series long trial and error phases, the association notes that the industry will demonstrate proper usage and applications of the blockchain technology, especially in situations involving legal conflicts and contractual disagreements.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/applicability/" rel="tag">applicability</a> <a href="https://www.deepdotweb.com/tag/association/" rel="tag">association</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/estate/" rel="tag">estate</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a> <a href="https://www.deepdotweb.com/tag/realtors/" rel="tag">realtors</a> <a href="https://www.deepdotweb.com/tag/release/" rel="tag">release</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a></span> <span style="display:none" class="updated">2016-11-02</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/applicability/" rel="tag">applicability</a> <a href="https://www.deepdotweb.com/tag/association/" rel="tag">association</a> <a href="https://www.deepdotweb.com/tag/estate/" rel="tag">estate</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a> <a href="https://www.deepdotweb.com/tag/realtors/" rel="tag">realtors</a> <a href="https://www.deepdotweb.com/tag/release/" rel="tag">release</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a></span> <span style="display:none" class="updated">2016-11-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
     </div>
 </article>

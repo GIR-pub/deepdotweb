@@ -2,7 +2,7 @@
 Canadian Authorities Seize Bitcoin from Alleged Silk Road Vendor
 ---
 <article class="post-listing post-26398 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-alleged tag-authorities tag-bitcoin tag-canadian tag-road tag-seize tag-silk tag-vendor">
+ tag-alleged tag-authorities tag-bitcoin tag-canadian tag-seize tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 25, 2018</span>

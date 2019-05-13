@@ -1,7 +1,7 @@
 ---
 Drug Dealer Pleads Guilty to Bulk Buying Cannabis off The Dark Web.
 ---
-<article class="post-listing post-23735 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bulk tag-buying tag-cannabis tag-dark tag-dealer tag-drug tag-guilty tag-pleads tag-web">
+<article class="post-listing post-23735 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bulk tag-buying tag-cannabis tag-dark tag-guilty tag-pleads tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 30, 2017</span>
@@ -21,7 +21,7 @@ Drug Dealer Pleads Guilty to Bulk Buying Cannabis off The Dark Web.
     <p><a id="post-23735-_gjdgxs"></a><a href="https://www.deepdotweb.com/tag/fentanyl/">Fentanyl</a> is a synthetic opioid and currently posing the greatest challenge to various law enforcement agencies. Fentanyl is believed to be ordered from China through the dark web and delivered by mail to the US and other countries such as Canada. President Trump’s commission recommended enhanced screening of mail with drug-sniffing dogs and scrutiny of electronic data. The commission indicated in its report that detection of fentanyl and its analogues shipped into the US via international mail and express consignment presents a unique challenge. Authorities have indicated that the difficulty in curbing fentanyl supply is that many shipments are in small quantities and thus arrive in small packages difficult to screen. Just a few granules of fentanyl are fatal.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bulk/" rel="tag">bulk</a> <a href="https://www.deepdotweb.com/tag/buying/" rel="tag">buying</a> <a href="https://www.deepdotweb.com/tag/cannabis/" rel="tag">cannabis</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>     <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-11-30</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

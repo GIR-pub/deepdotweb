@@ -1,7 +1,7 @@
 ---
 Europol Gets Help From a Member of the Swedish Police to Fight Darknet Crime
 ---
-<article class="post-listing post-16520 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crimes tag-darknet tag-drug tag-enlists tag-europol tag-fight tag-specialist">
+<article class="post-listing post-16520 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crimes tag-darknet tag-enlists tag-europol tag-fight tag-specialist">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 22, 2016</span>

@@ -24,7 +24,7 @@ Bitcoin News Roundup – 5 Jul. 2015
     <p>Hotelgo24.com offers free bitcoins for bookings. According to <a href="http://australia.etbtravelnews.com/255830/online-booking-service-hotelgo24-com-offers-free-bitcoins/">Ebt Travel News</a>, the international online booking website has launched a strategy to increase the number of online bookings by offering to customers up 5% of bitcoin cash back for every booking. The startup offers a wide range of accommodation around the world, including 130,000 hotels in 198 countries.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jul/" rel="tag">jul</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-07-05</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

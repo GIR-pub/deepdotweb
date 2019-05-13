@@ -30,7 +30,7 @@ Bitcoin News Roundup – 12 Apr.2015
     <p>Back in December, NYSE, BBVA chipped into a $ 75 million series C funding into Coinbase. As of January 2015, it estimates it serves 2.1 million users across the United States plus 18 other countries in Europe.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a> <a href="https://www.deepdotweb.com/tag/apr2015/" rel="tag">apr2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-04-12</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

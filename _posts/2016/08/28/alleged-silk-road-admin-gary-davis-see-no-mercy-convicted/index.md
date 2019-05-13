@@ -1,7 +1,7 @@
 ---
 Alleged Silk Road Admin, Gary Davis, to See No Mercy if Convicted
 ---
-<article class="post-listing post-15264 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-alleged tag-convicted tag-davis tag-gary tag-mercy tag-road tag-silk">
+<article class="post-listing post-15264 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-alleged tag-convicted tag-davis tag-gary tag-mercy 
     
     <div class="post-inner">
     

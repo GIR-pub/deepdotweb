@@ -1,12 +1,9 @@
 ---
 title: Security Expert? &#8220;The Marketplace&#8221; Wants You!
 ---
-1017  tag-expert tag-marketplace tag-security">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 29, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/10/29/security-expert-the-marketplace-wants-you/#respond">Leave a comment</a></span>
 
 
 <p>A new marketplace we have mentioned here last week  &#8220;<a href="http://www.deepdotweb.com/2013/10/20/oh-joy-yet-another-marketplace-in-progress-the-marketplace/">The Marketplace</a>&#8221; is looking for IT / UI experts and old time verified vendors for beta testing of their system security,</p>
@@ -43,6 +40,6 @@ title: Security Expert? &#8220;The Marketplace&#8221; Wants You!
 <p>Personally, i find this marketplace as one of the more interesting options to come, so we will keep an open eye to see how this develops,</p>
 <p>and if you want to help &#8211; Feel free to contact them.</p>
 <p>to stay updated, check out their sub-reddit: http://www.reddit.com/r/themarketplace/</p>
-</div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a>
+
+
 Updated: 2013-10-29

@@ -1,7 +1,7 @@
 ---
 Silk Road Admin Ross Ulbricht (DPR) Sentenced to Life in Prison
 ---
-<article class="post-listing post-10486 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-dpr tag-life tag-prison tag-road tag-ross tag-sentenced tag-silk tag-ulbricht">
+<article class="post-listing post-10486 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-life tag-prison  tag-sentenced tag-ulbricht">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 30, 2015</span>
@@ -45,7 +45,7 @@ Silk Road Admin Ross Ulbricht (DPR) Sentenced to Life in Prison
     </ul>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a> <a href="https://www.deepdotweb.com/tag/life/" rel="tag">life</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2015-05-30</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

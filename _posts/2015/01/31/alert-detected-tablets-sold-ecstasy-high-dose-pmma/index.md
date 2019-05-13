@@ -26,7 +26,7 @@ ALERT: Detected Tablets Sold as Ecstasy With High Dose of PMMA
     </a> <a href="/imgs/2015/01/Superman2.jpg"><img class="aligncenter  wp-image-8946" src="/imgs/2015/01/Superman2.jpg" alt="Superman2" width="674" height="505" srcset="/imgs/2015/01/Superman2.jpg 2048w, /imgs/2015/01/Superman2-300x225.jpg 300w, /imgs/2015/01/Superman2-1024x768.jpg 1024w" sizes="(max-width: 674px) 100vw, 674px" /></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/alert/" rel="tag">alert</a> <a href="https://www.deepdotweb.com/tag/detected/" rel="tag">detected</a> <a href="https://www.deepdotweb.com/tag/dose/" rel="tag">dose</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/pmma/" rel="tag">pmma</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/tablets/" rel="tag">tablets</a></span> <span style="display:none" class="updated">2015-01-31</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

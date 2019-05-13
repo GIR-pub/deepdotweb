@@ -1,7 +1,7 @@
 ---
 Controlled Delivery of MDMA Package Leads to Arrests
 ---
-<article class="post-listing post-14968 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrests tag-controlled tag-delivery tag-leads tag-mdma tag-package">
+<article class="post-listing post-14968 post type-post status-publish format-standard has-post-thumbnail hentry  tag-controlled tag-delivery tag-leads tag-mdma tag-package">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 31, 2016</span>

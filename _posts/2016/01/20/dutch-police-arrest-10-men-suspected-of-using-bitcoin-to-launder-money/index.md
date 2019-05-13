@@ -26,7 +26,7 @@ Dutch Police Arrest 10 men Suspected of Using Bitcoin to Launder Money
     <p>Info Source: http://www.reuters.com/article/us-netherlands-crime-bitcoin-idUSKCN0UY0V8</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/launder/" rel="tag">launder</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/suspected/" rel="tag">suspected</a></span> <span style="display:none" class="updated">2016-01-20</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

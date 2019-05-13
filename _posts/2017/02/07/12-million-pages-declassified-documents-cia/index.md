@@ -31,7 +31,7 @@
     <p>“How many licks does it take to get to the center of a Tootsie Pop?”</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a> <a href="https://www.deepdotweb.com/tag/cia/" rel="tag">cia</a> <a href="https://www.deepdotweb.com/tag/declassified/" rel="tag">declassified</a> <a href="https://www.deepdotweb.com/tag/documents/" rel="tag">documents</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/pages/" rel="tag">pages</a></span> <span style="display:none" class="updated">2017-02-07</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

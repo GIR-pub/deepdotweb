@@ -1,7 +1,7 @@
 ---
 UN Report Shows One In Six Drug Users In Scotland Use The Dark Web For Buying Their Substances
 ---
-<article class="post-listing post-14733 post type-post status-publish format-standard hentry category-news tag-buying tag-dark tag-drug tag-report tag-scotland tag-shows tag-substances tag-users tag-web">
+<article class="post-listing post-14733 post type-post status-publish format-standard hentry category-news tag-buying tag-dark tag-report tag-scotland tag-shows tag-substances tag-users tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 5, 2016</span>

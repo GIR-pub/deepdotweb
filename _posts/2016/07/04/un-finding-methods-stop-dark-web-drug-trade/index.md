@@ -1,7 +1,7 @@
 ---
 UN Trying To Find Methods To Stop The Dark Web Drug Trade
 ---
-<article class="post-listing post-14714 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-drug tag-find tag-methods tag-stop tag-trade tag-web">
+<article class="post-listing post-14714 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-find tag-methods tag-stop tag-trade tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 4, 2016</span>

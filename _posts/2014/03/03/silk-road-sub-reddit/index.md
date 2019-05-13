@@ -1,7 +1,7 @@
 ---
 Silk Road Sub Reddit Is No More
 ---
-<article class="post-listing post-4547 post type-post status-publish format-standard has-post-thumbnail hentry  tag-reddit tag-road tag-silk">
+<article class="post-listing post-4547 post type-post status-publish format-standard has-post-thumbnail hentry  tag-reddit 
     
     <div class="post-inner">
     
@@ -42,7 +42,7 @@ Silk Road Sub Reddit Is No More
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/reddit/" rel="tag">reddit</a> </span>				<span style="display:none" class="updated">2014-03-03</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

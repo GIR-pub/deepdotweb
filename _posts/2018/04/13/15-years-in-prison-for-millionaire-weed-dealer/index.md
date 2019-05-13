@@ -2,7 +2,7 @@
 15 Years in Prison for Millionaire Weed Dealer
 ---
 <article class="post-listing post-25358 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-1886 tag-dealer tag-millionaire tag-prison tag-weed tag-years">
+ tag-1886 tag-millionaire tag-prison tag-weed tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 13, 2018</span>

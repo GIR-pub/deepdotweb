@@ -15,7 +15,7 @@ Seattle Police Raid Home Of Privacy Tor Exit Node Operators
     <p>According to a study from King&#8217;s College London, 57% of the domains on the dark web were found as facilitating illegal activities. Illegal activities include the sale of drugs, firearms, offering hacker services, child porn, and so on. This could easily make the police confused, that&#8217;s why they often raid the places of Tor exit node hosts.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/home/" rel="tag">home</a> <a href="https://www.deepdotweb.com/tag/node/" rel="tag">node</a> <a href="https://www.deepdotweb.com/tag/operators/" rel="tag">operators</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/seattle/" rel="tag">seattle</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2016-04-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

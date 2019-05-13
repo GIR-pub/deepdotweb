@@ -41,7 +41,7 @@ What is an ICO (Initial Coin Offering)
     <p>For the time being, users should access ICOs carefully with the information available and be careful to avoid scams.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a> <a href="https://www.deepdotweb.com/tag/ico/" rel="tag">ico</a> <a href="https://www.deepdotweb.com/tag/initial/" rel="tag">initial</a> <a href="https://www.deepdotweb.com/tag/offering/" rel="tag">offering</a></span> <span style="display:none" class="updated">2017-04-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

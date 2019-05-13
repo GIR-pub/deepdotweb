@@ -30,7 +30,7 @@ Section 215 Expires, Senate Approves USA Freedom Act
     <p>Reach him by email at <a href="/cdn-cgi/l/email-protection#12667a7771737c767b76736677527d62777c7f737b7e707d6a3c7d6075" target="_blank"><span class="__cf_email__" data-cfemail="582c303d3b39363c313c392c3d1837283d36353931343a372076372a3f">[email&#160;protected]</span></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/215/" rel="tag">215</a> <a href="https://www.deepdotweb.com/tag/act/" rel="tag">act</a> <a href="https://www.deepdotweb.com/tag/approves/" rel="tag">approves</a> <a href="https://www.deepdotweb.com/tag/expires/" rel="tag">expires</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/section/" rel="tag">section</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a> <a href="https://www.deepdotweb.com/tag/usa/" rel="tag">usa</a></span> <span style="display:none" class="updated">2015-06-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

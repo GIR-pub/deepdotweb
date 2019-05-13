@@ -27,7 +27,7 @@ Bitcoin News Roundup – 24Jan. 2015
     <p>Zebpay, the winner in the CoinAgenda conference startup competition, launched a mobile wallet for Android phones. As Armand Tanzarian of <a href="http://cointelegraph.com/news/113329/coinagenda-startup-winner-zebpay-launches-mobile-wallet-for-android-phones">Coin Telegraph</a> writes, Zebpay’snew application is designed to enable any use to transact bitcoins and instantly send them to their Android mobile contacts.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/24jan/" rel="tag">24jan</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-01-24</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

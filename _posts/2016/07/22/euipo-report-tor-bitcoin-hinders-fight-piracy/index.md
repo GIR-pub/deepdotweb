@@ -24,7 +24,7 @@ EUIPO Report: Tor and Bitcoin Hinders the Fight Against Piracy
     <p>The European Intellectual Property Office announced its <a href="https://www.europol.europa.eu/content/launch-ipc3-europe%E2%80%99s-response-intellectual-property-crime#_ftn2">new bond with Europol</a> to help fight multiple forms of copyright infringement. The partnership started the Intellectual Property Crime Coordinated Coalition, that’s main objective is to toughen the fight against counterfeit goods, and piracy crimes.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/euipo/" rel="tag">euipo</a> <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/hinders/" rel="tag">hinders</a> <a href="https://www.deepdotweb.com/tag/piracy/" rel="tag">piracy</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2016-07-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

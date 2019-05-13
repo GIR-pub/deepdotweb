@@ -49,7 +49,7 @@ Energy Control: Drug Testing Service For DeepWeb Users
     <a href="/imgs/2014/04/matraces.png"><img class="aligncenter size-full wp-image-4894" alt="matraces" src="/imgs/2014/04/matraces.png" width="571" height="429" srcset="/imgs/2014/04/matraces.png 571w, /imgs/2014/04/matraces-300x225.png 300w" sizes="(max-width: 571px) 100vw, 571px" /></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a></span> <span style="display:none" class="updated">2014-04-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

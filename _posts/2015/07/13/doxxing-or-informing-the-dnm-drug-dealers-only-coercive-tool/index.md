@@ -1,7 +1,7 @@
 ---
 Doxxing or informing; the DNM Drug Dealer’s only Coercive Tool
 ---
-<article class="post-listing post-10873 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coercive tag-dealers tag-dnm tag-doxxing tag-drug tag-informing tag-tool">
+<article class="post-listing post-10873 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coercive tag-dealers tag-dnm tag-doxxing tag-informing tag-tool">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>July 13, 2015</span>

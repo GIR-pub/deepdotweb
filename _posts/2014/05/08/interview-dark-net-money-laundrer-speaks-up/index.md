@@ -104,7 +104,7 @@ Interview: Dark Net Money Launderer Speaks Up
     <p><strong>DeepDotWeb: Thank you for your time!</strong></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/laundrer/" rel="tag">laundrer</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/speaks/" rel="tag">speaks</a></span> <span style="display:none" class="updated">2014-05-08</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

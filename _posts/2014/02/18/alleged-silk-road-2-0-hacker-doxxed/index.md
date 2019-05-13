@@ -1,7 +1,7 @@
 ---
 Alleged Silk Road 2.0 Hacker Doxxed!?
 ---
-<article class="post-listing post-4311 post type-post status-publish format-standard has-post-thumbnail hentry tag-alleged tag-doxxed tag-hacker tag-road tag-silk">
+<article class="post-listing post-4311 post type-post status-publish format-standard has-post-thumbnail hentry tag-alleged tag-doxxed tag-hacker 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 18, 2014</span>
@@ -35,7 +35,7 @@ Alleged Silk Road 2.0 Hacker Doxxed!?
     <p>Now we will still be following the forums as it was told by the Oracle that he will keep posting this again and again until all the stolen funds are returned. the most interesting question is if this will lead to some of the money being returned or now, we will update as we will have more information.</p>
     </div>
      <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> </span> <span style="display:none" class="updated">2014-02-18</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

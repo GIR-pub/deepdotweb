@@ -1,13 +1,6 @@
 ---
 title: Digitalink (Silk Road drug dealer) Pleads Guilty
 ---
-1185  tag-dealer tag-digitalink tag-drug tag-guilty tag-pleads tag-road tag-silk">
-
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-<span>November 6, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/11/06/digitalink-silk-road-drug-dealer-pleads-guilty/#comments">1 Comment</a></span>
-
 
 <p><strong><span style="text-decoration: underline;">As it was posted at the The Baltimore Sun:</span></strong></p>
 <p><em>An Edgewood drug dealer pleaded guilty Tuesday in federal court to supplying customers around the world through the Silk Road online marketplace.</em></p>
@@ -17,6 +10,6 @@ title: Digitalink (Silk Road drug dealer) Pleads Guilty
 <p><em>George had been in trouble in the past. In 2005, the same federal judge who accepted his plea Tuesday sentenced him to two years and three months in prison for running an eBay scam&#8230;.</em></p>
 <a href=" http://www.baltimoresun.com/news/maryland/bs-md-silk-road-plea-20131105,0,7979360.story" target="_blank" class="shortc-button medium red">Read the rest of the article at The Baltimore Sun</a>
 </div>
-<span style="display:none"> <a href="https://www.deepdotweb.com/tag/digitalink/" rel="tag">digitalink</a>  <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a> 
-Updated: 2013-11-06</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+    
+
+Updated: 2013-11-06

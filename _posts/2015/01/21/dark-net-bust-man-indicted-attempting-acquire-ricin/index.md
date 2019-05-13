@@ -28,7 +28,7 @@ Dark Net Bust: Man Indicted For Attempting to Acquire Ricin
     <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/253276025/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_72383" frameborder="0"></iframe></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/acquire/" rel="tag">acquire</a> <a href="https://www.deepdotweb.com/tag/attempting/" rel="tag">attempting</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/ricin/" rel="tag">ricin</a></span> <span style="display:none" class="updated">2015-01-21</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

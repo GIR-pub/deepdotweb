@@ -97,7 +97,7 @@
     <p>&#8220;<strong>sigaintevyh2rzvw.onion</strong>&#8220;.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/sigaint/" rel="tag">sigaint</a></span> <span style="display:none" class="updated">2015-04-26</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

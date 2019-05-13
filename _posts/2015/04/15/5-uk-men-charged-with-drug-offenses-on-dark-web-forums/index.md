@@ -1,7 +1,7 @@
 ---
 5 UK Men Charged With Drug Offenses on Dark Web Forums
 ---
-<article class="post-listing post-9987 post type-post status-publish format-standard hentry category-news tag-charged tag-dark tag-drug tag-forums tag-men tag-offenses tag-uk tag-web">
+<article class="post-listing post-9987 post type-post status-publish format-standard hentry category-news tag-charged tag-dark tag-forums tag-men tag-offenses tag-uk tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 15, 2015</span>
@@ -19,7 +19,7 @@
     <p>&nbsp;</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/offenses/" rel="tag">offenses</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-04-15</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

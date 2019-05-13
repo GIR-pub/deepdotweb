@@ -23,7 +23,7 @@ A Sneak Peek To Grams Search Engine &#8220;Stage 2: Infodesk&#8221;
     <p><a href="/imgs/2014/05/wn4g5.png"><img class="aligncenter  wp-image-5628" src="/imgs/2014/05/wn4g5.png" alt="Grams infodesk" width="458" height="225" srcset="/imgs/2014/05/wn4g5.png 1903w, /imgs/2014/05/wn4g5-300x147.png 300w, /imgs/2014/05/wn4g5-1024x503.png 1024w" sizes="(max-width: 458px) 100vw, 458px" /></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/engine/" rel="tag">engine</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/infodesk/" rel="tag">infodesk</a> <a href="https://www.deepdotweb.com/tag/peek/" rel="tag">peek</a> <a href="https://www.deepdotweb.com/tag/search/" rel="tag">search</a> <a href="https://www.deepdotweb.com/tag/sneak/" rel="tag">sneak</a> <a href="https://www.deepdotweb.com/tag/stage/" rel="tag">stage</a></span> <span style="display:none" class="updated">2014-05-17</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

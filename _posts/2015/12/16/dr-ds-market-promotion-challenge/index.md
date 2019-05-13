@@ -25,7 +25,7 @@ Dr. D&#8217;s Market Promotion Challenge: DR. D pays you CASH!
     <p>On the 5.2.2016 the winners will be posted on the login site of Dr. D&#8217;s Multilingual Market and be rewarded.&#8221;&#8221;</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/cash/" rel="tag">cash</a> <a href="https://www.deepdotweb.com/tag/challenge/" rel="tag">challenge</a> <a href="https://www.deepdotweb.com/tag/dr/" rel="tag">dr</a> <a href="https://www.deepdotweb.com/tag/ds/" rel="tag">ds</a> <a href="https://www.deepdotweb.com/tag/pays/" rel="tag">pays</a> <a href="https://www.deepdotweb.com/tag/promotion/" rel="tag">promotion</a></span> <span style="display:none" class="updated">2015-12-16</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

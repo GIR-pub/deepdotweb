@@ -1,7 +1,7 @@
 ---
 Opportunities Abroad For Deep Web Entrepreneurs Part 2
 ---
-<article class="post-listing post-7056 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aboard tag-deep tag-entrepreneurs tag-opportunities tag-part tag-web">
+<article class="post-listing post-7056 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aboard tag-deep tag-entrepreneurs tag-opportunities tag-web">
     
     <div class="post-inner">
     
@@ -44,7 +44,7 @@ Opportunities Abroad For Deep Web Entrepreneurs Part 2
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/aboard/" rel="tag">aboard</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/entrepreneurs/" rel="tag">entrepreneurs</a> <a href="https://www.deepdotweb.com/tag/opportunities/" rel="tag">opportunities</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				<span style="display:none" class="updated">2014-12-04</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

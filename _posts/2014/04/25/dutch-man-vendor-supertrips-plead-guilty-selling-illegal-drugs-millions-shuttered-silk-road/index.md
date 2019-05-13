@@ -1,7 +1,7 @@
 ---
 Dutch Man (Vendor: SuperTrips) To Plead Guilty To Selling Illegal Drugs For Millions On Shuttered Silk Road
 ---
-<article class="post-listing post-5121 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dutch tag-guilty tag-illegal tag-man tag-millions tag-plead tag-road tag-selling tag-shuttered tag-silk tag-supertrips tag-vendor">
+<article class="post-listing post-5121 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dutch tag-guilty tag-illegal tag-man tag-millions tag-plead tag-selling tag-shuttered tag-supertrips tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 25, 2014</span>
@@ -34,7 +34,7 @@ Dutch Man (Vendor: SuperTrips) To Plead Guilty To Selling Illegal Drugs For Mill
     <iframe id="doc_16737" class="scribd_iframe_embed" src="//www.scribd.com/embeds/220231205/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     </div>
     <span style="display:none"> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a>  <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/millions/" rel="tag">millions</a> <a href="https://www.deepdotweb.com/tag/plead/" rel="tag">plead</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/shuttered/" rel="tag">shuttered</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/supertrips/" rel="tag">supertrips</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-04-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

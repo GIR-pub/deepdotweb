@@ -1,7 +1,7 @@
 ---
 Ross Ulbricht&#8217;s Lawyer Moves To Drop All Charges
 ---
-<article class="post-listing post-4849 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-drop tag-lawyer tag-moves tag-ross tag-ulbrichts">
+<article class="post-listing post-4849 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-drop tag-lawyer tag-moves  tag-ulbrichts">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 2, 2014</span>
@@ -18,7 +18,7 @@ Ross Ulbricht&#8217;s Lawyer Moves To Drop All Charges
     <iframe id="doc_1771" src="//www.scribd.com/embeds/215745393/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" height="600" width="100%" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/drop/" rel="tag">drop</a> <a href="https://www.deepdotweb.com/tag/lawyer/" rel="tag">lawyer</a> <a href="https://www.deepdotweb.com/tag/moves/" rel="tag">moves</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/ulbrichts/" rel="tag">ulbrichts</a></span> <span style="display:none" class="updated">2014-04-02</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

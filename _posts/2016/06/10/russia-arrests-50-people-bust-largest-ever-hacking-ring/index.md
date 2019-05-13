@@ -1,7 +1,7 @@
 ---
 Russia Arrests 50 People In The Bust Of The Largest Ever Hacking Ring
 ---
-<article class="post-listing post-14466 post type-post status-publish format-standard hentry category-news tag-1447 tag-arrests tag-bust tag-hacking tag-largest tag-people tag-ring tag-russia">
+<article class="post-listing post-14466 post type-post status-publish format-standard hentry category-news tag-1447 tag-bust tag-hacking tag-largest tag-people tag-ring tag-russia">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 10, 2016</span>

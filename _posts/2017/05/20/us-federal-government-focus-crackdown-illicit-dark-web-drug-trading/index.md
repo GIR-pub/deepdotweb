@@ -1,7 +1,7 @@
 ---
 US Federal Government to Focus on Crackdown of Illicit Dark Web Drug Trading
 ---
-<article class="post-listing post-20000 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crackdown tag-dark tag-drug tag-federal tag-focus tag-government tag-illicit tag-trading tag-web">
+<article class="post-listing post-20000 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crackdown tag-dark tag-federal tag-focus tag-government tag-illicit tag-trading tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 20, 2017</span>

@@ -23,7 +23,7 @@ Weekly Bitcoin Update – 16 August 2014
     <p>Online marketplaces are not the only place where individuals can spend their Bitcoin. Pete Rizzo of <a href="http://www.coindesk.com/bitpagos-brings-bitcoin-8000-convenience-stores-ripio/">CoinDesk</a> reports that a total of 8,000 Argentinian convenience stores now sell Bitcoin to customers. Through Ripio, a Bitcoin brokerage service launched by BitPagos, cryptocurrency holders can use provide their Ripio account information at these stores to exchange their stored Bitcoins for pesosv or vice versa. BitPagos CEO Sebastian Serrano stated the company plans to expand their operations to other Latin American markets, including Venezuela.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-08-16</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

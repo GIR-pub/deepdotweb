@@ -27,7 +27,7 @@ Bitcoin news round-up 09.06.2014
     <p>One policy story that did reflect well on bitcoin was that the European Central Bank <a href="http://www.cryptocoinsnews.com/news/ecb-announces-negative-interest-rates-bitcoin-price-rallies/2014/06/05" target="_blank">announced a negative interest rate</a> for banks storing euros in central bank vaults. The news made bitcoin gain $15 whilst the price of euros and dollars on the FX market dropped one cent; although it gained it back later in the day. The move highlights the volatility of bitcoin, though also the lack of trust in the euro’s stability, Forbes reported.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/09062014/" rel="tag">09062014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2014-06-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

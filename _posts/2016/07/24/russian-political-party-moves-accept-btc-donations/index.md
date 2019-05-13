@@ -1,7 +1,7 @@
 ---
 Russian Political Party Moves to Accept BTC Donations
 ---
-<article class="post-listing post-14897 post type-post status-publish format-standard hentry category-news tag-accept tag-btc tag-donations tag-moves tag-party tag-political tag-russian">
+<article class="post-listing post-14897 post type-post status-publish format-standard hentry category-news tag-accept tag-donations tag-moves tag-party tag-political tag-russian">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>July 24, 2016</span>

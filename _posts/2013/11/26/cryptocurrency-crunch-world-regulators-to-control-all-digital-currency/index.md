@@ -1,7 +1,7 @@
 ---
 title: Cryptocurrency Crunch: World Regulators To Control All Digital Currency?
 ---
-1930  tag-control tag-crunch tag-cryptocurrency tag-currency tag-digital tag-regulators tag-world tie_thumb">
+1930  tag-control tag-crunch tag-cryptocurrency tag-currency tag-digital tag-regulators  tie_thumb">
 <div class="single-post-thumb">
 <img width="660" height="330" src="/imgs/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1-660x330.jpg" class="attachment-slider size-slider" alt="Cryptocurrency Crunch: World Regulators To Control All Digital Currency?" title="Cryptocurrency Crunch: World Regulators To Control All Digital Currency?" srcset="/imgs/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1-660x330.jpg 660w, /imgs/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1-300x149.jpg 300w, /imgs/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1.jpg 717w" sizes="(max-width: 660px) 100vw, 660px" /> </div>
 
@@ -28,5 +28,5 @@ title: Cryptocurrency Crunch: World Regulators To Control All Digital Currency?
 <p>No, total control of digital currency will have to be the result of a paradigm shift even more momentous than the creation of cryptocurrency itself.  Whether the economic and government elite will find some pretext, by which they can implement control, is unknown.  They will almost have to stiffly monitor all web-connected devices, define and outlaw cryptocurrency, or shut off electricity entirely in order to establish control.  Other than that, regulating the world of peer-to-peer economics is like playing a nightmare game of whack-a-mole …but with a billion moles.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/crunch/" rel="tag">crunch</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/regulators/" rel="tag">regulators</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a>
-Updated: 2013-11-26</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+
+Updated: 2013-11-26

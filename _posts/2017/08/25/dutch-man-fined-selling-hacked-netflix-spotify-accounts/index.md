@@ -35,7 +35,7 @@ Dutch Man Fined For Selling Hacked Netflix And Spotify Accounts
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/fined/" rel="tag">fined</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/netflix/" rel="tag">netflix</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/spotify/" rel="tag">spotify</a></span>				<span style="display:none" class="updated">2017-08-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

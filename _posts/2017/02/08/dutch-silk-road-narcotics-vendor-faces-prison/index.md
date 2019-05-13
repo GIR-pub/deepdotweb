@@ -1,7 +1,7 @@
 ---
 Dutch Silk Road Narcotics Vendor Faces Prison
 ---
-<article class="post-listing post-18033 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dutch tag-faces tag-narcotics tag-prison tag-road tag-silk tag-vendor">
+<article class="post-listing post-18033 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dutch tag-faces tag-narcotics tag-prison tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 8, 2017</span>

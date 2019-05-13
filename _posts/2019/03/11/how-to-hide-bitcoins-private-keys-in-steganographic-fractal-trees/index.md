@@ -1,7 +1,7 @@
 ---
 How to hide bitcoin&#8217;s private keys in steganographic fractal trees
 ---
-<article class="post-listing post-28590 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-fractal tag-hide tag-keys tag-private tag-steganographic tag-trees">
+<article class="post-listing post-28590 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fractal tag-hide tag-keys tag-private tag-steganographic tag-trees">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>March 11, 2019</span>
@@ -48,7 +48,7 @@ How to hide bitcoin&#8217;s private keys in steganographic fractal trees
     <p><strong>Final thoughts:</strong></p>
     <p>Hiding bitcoin in fractal steganographic based trees is a novel approach for securing bitcoin&#8217;s private keys. Experiments show that the proposed system is extremely secure and highly resistant to attacks such as image and hardcopy attacks.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/fractal/" rel="tag">fractal</a> <a href="https://www.deepdotweb.com/tag/hide/" rel="tag">hide</a> <a href="https://www.deepdotweb.com/tag/keys/" rel="tag">keys</a> <a href="https://www.deepdotweb.com/tag/private/" rel="tag">private</a> <a href="https://www.deepdotweb.com/tag/steganographic/" rel="tag">steganographic</a> <a href="https://www.deepdotweb.com/tag/trees/" rel="tag">trees</a></span> <span style="display:none" class="updated">2019-03-11</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fractal/" rel="tag">fractal</a> <a href="https://www.deepdotweb.com/tag/hide/" rel="tag">hide</a> <a href="https://www.deepdotweb.com/tag/keys/" rel="tag">keys</a> <a href="https://www.deepdotweb.com/tag/private/" rel="tag">private</a> <a href="https://www.deepdotweb.com/tag/steganographic/" rel="tag">steganographic</a> <a href="https://www.deepdotweb.com/tag/trees/" rel="tag">trees</a></span> <span style="display:none" class="updated">2019-03-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

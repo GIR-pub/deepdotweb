@@ -1,7 +1,7 @@
 ---
 Hong Kong Customs Reports Drug Smuggling Increased Fourfold From 2013
 ---
-<article class="post-listing post-15494 post type-post status-publish format-standard hentry category-news tag-620 tag-customs tag-drug tag-fourfold tag-hong tag-increased tag-kong tag-reports tag-smuggling">
+<article class="post-listing post-15494 post type-post status-publish format-standard hentry category-news tag-620 tag-customs tag-fourfold tag-hong tag-increased tag-kong tag-reports tag-smuggling">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 21, 2016</span>

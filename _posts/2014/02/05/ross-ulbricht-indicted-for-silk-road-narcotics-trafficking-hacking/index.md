@@ -1,7 +1,7 @@
 ---
 Ross Ulbricht indicted for Silk Road narcotics trafficking &#038; Hacking
 ---
-<article class="post-listing post-3853 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacking tag-indicted tag-narcotics tag-road tag-ross tag-silk tag-trafficking tag-ulbricht">
+<article class="post-listing post-3853 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacking tag-indicted tag-narcotics  tag-trafficking tag-ulbricht">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 5, 2014</span>
@@ -40,7 +40,7 @@ Ross Ulbricht indicted for Silk Road narcotics trafficking &#038; Hacking
     <p>The charges contained in the Indictments are merely accusations, and the defendants are presumed innocent unless and until proven guilty.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2014-02-05</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

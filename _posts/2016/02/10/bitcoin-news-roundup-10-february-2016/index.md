@@ -21,7 +21,7 @@ Bitcoin News Roundup – 10 February 2016
     <p>Stellar and Oradian enter a strategic partnership to bring cheap and seamless money transfer solutions to Nigeria. As Jp Buntinx of <a href="http://www.newsbtc.com/2016/02/03/stellar-oradian-bring-cheaper-money-transfers-nigeria/">NewsBtc</a> writes, the partnership aims to capitalize on the fact that large African banks do not seek to expand in Nigeria because of the costs involved. In contrast, a strategic partnership based on the cryptocurrency technology and the bitcoin is to the best interest of the African region as a whole. Furthermore, the fact that Oradian is already known for supplying micro-finance institution with cloud-based software makes the partnership extremely interesting.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/february/" rel="tag">february</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2016-02-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

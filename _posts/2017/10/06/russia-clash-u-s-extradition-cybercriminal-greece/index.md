@@ -44,7 +44,7 @@ Russia Clash with the U.S over Extradition of Cybercriminal from Greece
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/clash/" rel="tag">clash</a> <a href="https://www.deepdotweb.com/tag/cybercriminal/" rel="tag">cybercriminal</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/greece/" rel="tag">greece</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span>				<span style="display:none" class="updated">2017-10-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

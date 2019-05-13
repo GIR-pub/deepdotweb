@@ -1,7 +1,7 @@
 ---
 Silk Road Moderator Sentenced To Time Served
 ---
-<article class="post-listing post-13153 post type-post status-publish format-standard has-post-thumbnail hentry  tag-moderator tag-road tag-sentenced tag-served tag-silk tag-time">
+<article class="post-listing post-13153 post type-post status-publish format-standard has-post-thumbnail hentry  tag-moderator tag-sentenced tag-served tag-time">
     
     <div class="post-inner">
     

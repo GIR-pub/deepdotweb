@@ -24,7 +24,7 @@ Weekly Bitcoin Update – 11-10-14
     <p>Due to recent regulations, Bitcoin ATM Robocoin will no longer be able to facilitate anonymous transactions. Ruth Reader of <a href="http://venturebeat.com/2014/11/07/regulations-force-bitcoin-atm-robocoin-to-ban-anonymous-transactions/">VentureBeat</a> reports that the company&#8217;s ATM operators will now be implementing “Know Your Customer/Anti-Money Laundering (KYC/AML) software and hardware) in order to comply with regulations outlined by the Financial Crimes Enforcement Network. The response to the announcement amongst Robocoin ATM operators has been less than positive. As Reader notes, “One Robocoin ATM operator went so far as to suggest a boycott against Robocoin,” encouraging ATM operators to consider using an open-source platform developed by the company&#8217;s competitor, Lamassu.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/111014/" rel="tag">111014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-11-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

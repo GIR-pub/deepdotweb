@@ -1,7 +1,7 @@
 ---
 Bitcoin&#8217;s Black Market Promise In Argentina
 ---
-<article class="post-listing post-7014 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argentina tag-bitcoins tag-promise">
+<article class="post-listing post-7014 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argentina tag-promise">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>September 11, 2014</span>
@@ -27,7 +27,7 @@ Bitcoin&#8217;s Black Market Promise In Argentina
     <p><strong>Bonus</strong></p>
     <p>In northern South America, Colombia has seen a big decrease in drug related violence as drug gangs have decided boarders and respected them. It is unclear how long this last but this also a great opportunity for them to expand their business without any violence. Instead of lunching urban assaults on neighboring gangs to get a bigger market share, they could instead become a deep web dealer. As with all drugs on the deep web, cocaine sells for more on the deep web, than the street. Colombia, being at the source of most of the worlds cocaine, could get it for cheap and sell it for a great mark up online.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/argentina/" rel="tag">argentina</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/promise/" rel="tag">promise</a></span> <span style="display:none" class="updated">2014-09-11</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/argentina/" rel="tag">argentina</a> <a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/promise/" rel="tag">promise</a></span> <span style="display:none" class="updated">2014-09-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     </div>
 </article>

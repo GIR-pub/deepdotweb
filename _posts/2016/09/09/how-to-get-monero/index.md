@@ -27,7 +27,7 @@ How To Get Monero?
     <p>No matter which method you use to get Monero, it&#8217;s always a good idea to use good privacy practices online. Check out our <strong>Must Read</strong> section (on the sidebar) for tutorials on how to use TOR, I2P, privacy-oriented operating systems, and other helpful privacy tips.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a></span> <span style="display:none" class="updated">2016-09-09</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

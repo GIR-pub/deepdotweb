@@ -47,7 +47,7 @@ Two men who Purchased fake Dollar Bills on the dark web Arrested in Alabama
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/alabama/" rel="tag">alabama</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/bills/" rel="tag">bills</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/dollar/" rel="tag">dollar</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				<span style="display:none" class="updated">2017-09-04</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

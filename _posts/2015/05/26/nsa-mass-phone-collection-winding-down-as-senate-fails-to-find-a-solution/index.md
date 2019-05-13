@@ -35,7 +35,7 @@ NSA Mass Phone Collection &#8220;Winding Down,&#8221; as Senate Fails to Find a 
     <em>Reach him by email at <a href="mailto:thecandidate@openmailbox.org" target="_blank">thecandidate@openmailbox.org</a></em></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/collection/" rel="tag">collection</a> <a href="https://www.deepdotweb.com/tag/fails/" rel="tag">fails</a> <a href="https://www.deepdotweb.com/tag/find/" rel="tag">find</a> <a href="https://www.deepdotweb.com/tag/mass/" rel="tag">mass</a> <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/phone/" rel="tag">phone</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a> <a href="https://www.deepdotweb.com/tag/solution/" rel="tag">solution</a> <a href="https://www.deepdotweb.com/tag/winding/" rel="tag">winding</a></span> <span style="display:none" class="updated">2015-05-26</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

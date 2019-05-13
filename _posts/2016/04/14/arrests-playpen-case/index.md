@@ -1,7 +1,7 @@
 ---
 More Arrests In The Playpen Case
 ---
-<article class="post-listing post-13725 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrests tag-case tag-playpen">
+<article class="post-listing post-13725 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-playpen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 14, 2016</span>

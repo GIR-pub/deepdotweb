@@ -1,7 +1,7 @@
 ---
 title: Silk Road Drug Dealer &#8220;NOD&#8221; Was Flipped By Feds
 ---
-737  tag-dealer tag-drug tag-feds tag-flipped tag-nod tag-road tag-silk">
+737  
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 21, 2013</span>
@@ -21,6 +21,6 @@ title: Silk Road Drug Dealer &#8220;NOD&#8221; Was Flipped By Feds
 <p><a href="/imgs/2013/10/6silkroad1.jpg"><img class="aligncenter size-full wp-image-740" alt="Top Silk Road Drug Dealer Was Flipped By Feds" src="/imgs/2013/10/6silkroad1.jpg" width="689" height="891" srcset="/2013/10/6silkroad1.jpg 750w, /imgs/2013/10/6silkroad1-232x300.jpg 232w" sizes="(max-width: 689px) 100vw, 689px"/></a></p>
 <p>The only thing we are sure of, is that this silkroad drama is far from over.</p>
 </div>
-<span style="display:none">  
+
 
 Updated: 2013-10-21

@@ -1,7 +1,7 @@
 ---
 Drug Trafficking by Foot Nearly Extinct in Germany
 ---
-<article class="post-listing post-19379 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-extinct tag-foot tag-germany tag-trafficking">
+<article class="post-listing post-19379 post type-post status-publish format-standard has-post-thumbnail hentry  tag-extinct tag-foot tag-germany tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 25, 2017</span>

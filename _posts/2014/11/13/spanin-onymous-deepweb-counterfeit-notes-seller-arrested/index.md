@@ -36,7 +36,7 @@ Spain Onymous: DeepWeb Counterfeit Notes Seller Arrested
     <p>&nbsp;</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span> <span style="display:none" class="updated">2014-11-13</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

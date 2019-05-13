@@ -1,7 +1,7 @@
 ---
 Online Network Of Drug Traffickers Busted In Romania
 ---
-<article class="post-listing post-18233 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-drug tag-network tag-romania tag-traffickers">
+<article class="post-listing post-18233 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-network tag-romania tag-traffickers">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 19, 2017</span>

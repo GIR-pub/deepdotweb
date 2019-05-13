@@ -1,7 +1,7 @@
 ---
 title: The Silk Road Saga: Who is “The Employee”? – Part II
 ---
-1236  tag-employee tag-ii tag-part tag-road tag-saga tag-silk">
+1236  tag-ii  
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/keving/" title="">Kevin H. Danielsen </a></span>
 <span>November 8, 2013</span>
@@ -22,6 +22,7 @@ title: The Silk Road Saga: Who is “The Employee”? – Part II
 <p><a href="http://www.deepdotweb.com/2013/11/08/now-its-official-curtis-clark-green-is-flush-chronicpain/" target="_blank">Green has now pleaded guilty</a> on Wednesday for attempting to distribute cocaine, and faces up to 40 years in prison –which is arguably better than the death sentence that his former boss tried to give him.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/ii/" rel="tag">ii</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/saga/" rel="tag">saga</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a>
+
 Updated: 2013-11-08<a href="https://www.deepdotweb.com/author/keving/" title="Posts by Kevin H. Danielsen" rel="author">Kevin H. Danielsen</a></strong></div>
 </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 title: Silk Road 2.0 Is now open For Business
 ---
-1328 tag-business tag-open tag-road tag-silk">
+1328 tag-business tag-open 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 13, 2013</span>
@@ -45,5 +45,5 @@ title: Silk Road 2.0 Is now open For Business
 <p>&nbsp;</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> 
-Updated: 2013-11-13</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+
+Updated: 2013-11-13

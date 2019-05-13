@@ -1,7 +1,7 @@
 ---
 title: Ross Ulbricht to the FEDS: I want my $33 Million in BTC Back!
 ---
-2877  tag-33m tag-btc tag-ross tag-ulbricht">
+2877  tag-33m  tag-ulbricht">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 23, 2013</span>
@@ -17,5 +17,6 @@ title: Ross Ulbricht to the FEDS: I want my $33 Million in BTC Back!
 <p>Just read the rest of the article here, today was exhausting: <a href="http://nypost.com/2013/12/23/government-robbed-me-of-33m-in-bitcoins-silk-road-pirate/" target="_blank">http://nypost.com/2013/12/23/government-robbed-me-of-33m-in-bitcoins-silk-road-pirate/</a></p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/33m/" rel="tag">33m</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a>
+
 Updated: 2013-12-23</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

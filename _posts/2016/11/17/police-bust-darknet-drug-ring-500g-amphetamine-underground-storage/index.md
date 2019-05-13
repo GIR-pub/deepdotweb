@@ -1,7 +1,7 @@
 ---
 Police Bust a “Darknet” Drug Ring With 500g of Amphetamine in Underground Storage
 ---
-<article class="post-listing post-16468 post type-post status-publish format-standard has-post-thumbnail hentry  tag-500g tag-amphetamine tag-bust tag-darknet tag-drug tag-police tag-ring tag-storage tag-underground">
+<article class="post-listing post-16468 post type-post status-publish format-standard has-post-thumbnail hentry  tag-500g tag-amphetamine tag-bust tag-darknet tag-police tag-ring tag-storage tag-underground">
     
     <div class="post-inner">
     

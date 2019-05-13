@@ -28,7 +28,7 @@ Bitcoin News Roundup – 17Jan. 2015
     <p>CryptoDouble might be a new Bitcoin Ponzi scam. Claiming to be <em>“the group of professional traders and skilled analysts with valuable experience in the sphere of cryptocurrency”</em> and promising to double bitcoin and altcoin investments within 100 hours of deposit, the platform attracted a significant number of users, who trusted the company’s investment possibilities. According to JP Buntinx of <a href="http://www.cryptoarticles.com/crypto-news/bitcoin-altcoin-ponzi-scheme-cryptodouble-shut-down-takes-nearly-1000-btc-with-it">Cryptoarticles</a>, CryptoDouble went offline, without prior notice taking nearly 1,000 BTC with it.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/17jan/" rel="tag">17jan</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-01-17</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

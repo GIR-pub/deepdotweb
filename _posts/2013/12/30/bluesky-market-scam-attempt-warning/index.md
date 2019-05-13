@@ -39,4 +39,5 @@ title: BlueSky Marketplace Scam Attempt Warning
 <p>This warning adds up to previous warnings about Blue Sky Marketplace spamming forums &#8211; and some other account issues &#8211; the marketplace does not have a forum so we could not get any more responses about this matter. Read this information and decide for yourself if you should trust such marketplace with your funds.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/attempt/" rel="tag">attempt</a> <a href="https://www.deepdotweb.com/tag/bluesky/" rel="tag">bluesky</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a>
+
 Updated: 2013-12-30

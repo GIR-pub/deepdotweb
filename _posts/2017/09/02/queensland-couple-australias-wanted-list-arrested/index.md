@@ -48,7 +48,7 @@ Queensland couple on Australia’s most wanted list Arrested
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/australias/" rel="tag">australias</a> <a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a> <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/queensland/" rel="tag">queensland</a> <a href="https://www.deepdotweb.com/tag/wanted/" rel="tag">wanted</a></span>				<span style="display:none" class="updated">2017-09-02</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

@@ -23,7 +23,7 @@ Bitcoin News Roundup – 11 Jul.2015
     <p>Bitwala brings the email payment service to Europe. As Elliot Maras of <a href="https://www.cryptocoinsnews.com/bitcoin-email-payment-comes-europe/">CryptoCoins News</a> writes, the Netherlands-based bitcoin payment service has introduced EmailPay, a bitcoin email payment service that allows registered users to send a bitcoin payment using their email address. The settlement is in euros in the European Commission’s Single Euro Payments Area (SEPA).</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/11/" rel="tag">11</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jul2015/" rel="tag">jul2015</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-07-11</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

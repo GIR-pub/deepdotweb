@@ -1,7 +1,7 @@
 ---
 USS Marshals Auction: 50,000 BTC from Dread Pirate Roberts
 ---
-<article class="post-listing post-8311 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1514 tag-auction tag-btc tag-dread tag-marshals tag-pirate tag-roberts tag-uss">
+<article class="post-listing post-8311 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1514 tag-auction tag-dread tag-marshals tag-pirate tag-roberts tag-uss">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 17, 2014</span>
@@ -21,7 +21,7 @@ USS Marshals Auction: 50,000 BTC from Dread Pirate Roberts
     <p>THIS NOTICE DOES NOT CONSTITUTE AN OFFER TO SELL BUT INVITES INTERESTED PARTIES TO SUBMIT A BID FOR PURCHASE. THE FOLLOWING INFORMATION IS BEING PROVIDED WITHOUT RECOURSE TO THE UNITED STATES OF AMERICA AND THE UNITED STATES MARSHALS SERVICE.</p></blockquote>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/50000/" rel="tag">50000</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/dread/" rel="tag">dread</a> <a href="https://www.deepdotweb.com/tag/marshals/" rel="tag">marshals</a> <a href="https://www.deepdotweb.com/tag/pirate/" rel="tag">pirate</a> <a href="https://www.deepdotweb.com/tag/roberts/" rel="tag">roberts</a> <a href="https://www.deepdotweb.com/tag/uss/" rel="tag">uss</a></span> <span style="display:none" class="updated">2014-11-17</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

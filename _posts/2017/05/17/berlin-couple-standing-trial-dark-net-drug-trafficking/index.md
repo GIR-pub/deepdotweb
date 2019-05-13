@@ -1,7 +1,7 @@
 ---
 Berlin Couple Standing Trial For Dark Net Drug Trafficking
 ---
-<article class="post-listing post-19932 post type-post status-publish format-standard has-post-thumbnail hentry  tag-berlin tag-couple tag-dark tag-drug tag-net tag-standing tag-trafficking tag-trial">
+<article class="post-listing post-19932 post type-post status-publish format-standard has-post-thumbnail hentry  tag-berlin tag-couple tag-dark tag-net tag-standing tag-trafficking tag-trial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 17, 2017</span>

@@ -198,7 +198,7 @@ DeepDotWeb&#8217;s DarkNet Dictionary Project!
     <p><span style="text-decoration: underline;"><strong>ZULU Time</strong></span> &#8211; UTC-0 Western European time zone.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dictionary/" rel="tag">dictionary</a></span> <span style="display:none" class="updated">2014-03-02</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

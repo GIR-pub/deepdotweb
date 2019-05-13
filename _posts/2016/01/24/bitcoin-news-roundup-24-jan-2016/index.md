@@ -20,7 +20,7 @@ Bitcoin News Roundup – 24 Jan. 2016
     <p>New Hampshire bitcoin tax bill overruled. As Stan Higgins of <a href="http://www.coindesk.com/new-hampshire-legislators-vote-down-bitcoin-tax-bill/">Coin Desk</a> reports, with 264 to 74 votes, the New Hampshire House of Representatives has rejected the bitcoin tax bill that was originally introduced by Eric Schleien on January 2015. If passed, the bill would allow the New Hampshire citizens to pay their taxes with the digital currency using a bitcoin payment firm to process the transaction. However, the bill was killed as a number of representatives raised a red flag related to the exchange rate risks the New Hampshire state would experience as a result of the fluctuating market prices of bitcoin.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/24/" rel="tag">24</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jan/" rel="tag">jan</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2016-01-24</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

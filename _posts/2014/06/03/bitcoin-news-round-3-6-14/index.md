@@ -28,7 +28,7 @@ Bitcoin news round-up 3.6.14
     <p>Argentina’s central bank (BCRA) also struck a glancing <a href="http://www.coindesk.com/argentine-central-bank-issues-warning-burgeoning-bitcoin-ecosystem/">blow</a> against the digital currency, issuing a warning that digital currencies are not legal tender and stating they have the potential to facilitate money laundering and illicit finance. Due to the Argentine Peso facing inflation rates of over 100%, Argentinians are opting to trade their fiat currency in for bitcoin. The trend in the country has seen a number of digital exchanges open as a result.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/3614/" rel="tag">3614</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2014-06-03</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

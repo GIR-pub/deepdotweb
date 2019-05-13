@@ -1,7 +1,7 @@
 ---
 MXE: The Wonder Drug
 ---
-<article class="post-listing post-10958 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-mxe">
+<article class="post-listing post-10958 post type-post status-publish format-standard has-post-thumbnail hentry  tag-mxe">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/lines_of_thought/" title="">Lines_of_Thought </a></span>
     <span>July 6, 2015</span>

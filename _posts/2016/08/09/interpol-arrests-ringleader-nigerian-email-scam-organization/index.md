@@ -1,7 +1,7 @@
 ---
 Interpol Arrests Ringleader of Nigerian Email Scam Organization
 ---
-<article class="post-listing post-15046 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrests tag-email tag-interpol tag-nigerian tag-organization tag-ringleader tag-scam">
+<article class="post-listing post-15046 post type-post status-publish format-standard has-post-thumbnail hentry  tag-email tag-interpol tag-nigerian tag-organization tag-ringleader tag-scam">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 9, 2016</span>

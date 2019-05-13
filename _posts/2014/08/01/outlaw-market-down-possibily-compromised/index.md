@@ -36,7 +36,7 @@ Outlaw Market: Down, Possibly Compromised By Competitors
     <p>This site does not use online wallets so if money is lost it will be the escrow funds.  Hopefully the market will be back online with no losses.  This is just another chapter in the known competition between markets DDosing and attacking each other that we have seen before quite a few times now, like with <a href="http://www.deepdotweb.com/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/">Tormarket &amp; Silk Road</a> and <a href="http://www.deepdotweb.com/2014/03/10/what-to-do-while-your-favorite-market-is-under-attack-agora/">Agora</a>, For quite a few times now, among some others.</p>
     </div>
     <span style="display:none"> <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a></span> <span style="display:none" class="updated">2014-08-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

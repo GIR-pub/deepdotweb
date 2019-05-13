@@ -28,7 +28,7 @@ Bitcoin Price Update Nov-9, 2014
     <p>Although this past week ended on a bad note, with the last two days of the week being a mixture of bearish movement and sideways activity, the week was positive overall. As a whole, the Bitcoin price for the week increased by 5.52%. Additionally, the first half of Sunday, November 9 has been very positive, with the Bitcoin price reaching the high $350s—and even briefly flirting with the $360s. Thus, it is possible that we could see some positive gains, or a stable Bitcoin price at the very least. However, we will save our report of the activity on November 9 for next week.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/nov9/" rel="tag">nov9</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2014-11-09</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

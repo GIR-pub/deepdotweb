@@ -19,7 +19,7 @@ Link to Onion Added to The Top Menu &#038; Url added to Logo
     <p>We are happy to see that the onion address is being used, hoping to see it being used even more. Please contact us if you encounter any issue.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/added/" rel="tag">added</a> <a href="https://www.deepdotweb.com/tag/link/" rel="tag">link</a> <a href="https://www.deepdotweb.com/tag/logo/" rel="tag">logo</a> <a href="https://www.deepdotweb.com/tag/menu/" rel="tag">menu</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/top/" rel="tag">top</a> <a href="https://www.deepdotweb.com/tag/url/" rel="tag">url</a></span> <span style="display:none" class="updated">2015-06-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

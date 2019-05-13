@@ -16,6 +16,7 @@ title: News
 <p>It is good for maybe a Facebook post, but for an actual newspaper article&#8230;Really? Now if this is what they will put on the front page, I can&#8217;t imagine what other juicy contents await me.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a>
+
 Updated: 2013-12-18<a href="https://www.deepdotweb.com/author/chrisk/" title="Posts by Chris K." rel="author">Chris K.</a></strong></div>
 </div>
 </article>

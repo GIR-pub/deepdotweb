@@ -1,7 +1,7 @@
 ---
 Romania Extradites Deepweb Vendor to Face US Drug Charges
 ---
-<article class="post-listing post-15963 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-deepweb tag-drug tag-extradites tag-face tag-romania tag-vendor">
+<article class="post-listing post-15963 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-deepweb tag-extradites tag-face tag-romania tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 21, 2016</span>

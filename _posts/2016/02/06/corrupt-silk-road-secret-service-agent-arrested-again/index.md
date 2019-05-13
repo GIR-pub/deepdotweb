@@ -1,7 +1,7 @@
 ---
 Corrupt Silk Road Secret Service Agent Arrested – Again
 ---
-<article class="post-listing post-13162 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agent tag-corrupt tag-road tag-secret tag-silk">
+<article class="post-listing post-13162 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agent tag-corrupt tag-secret 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 6, 2016</span>
@@ -17,7 +17,7 @@ Corrupt Silk Road Secret Service Agent Arrested – Again
     <p>Bridges was a member of the Baltimore task force investigating Silk Road. Shortly after the arrest of a staff member, Bridges learned how to log in to the site with admin credentials. He then locked out some of the biggest drug vendors and stolen around 20,000 bitcoins from their accounts. The stolen bitcoins are estimated to be worth around $300,000 at the time of the theft and later around $800,000.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/corrupt/" rel="tag">corrupt</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/secret/" rel="tag">secret</a> <a href="https://www.deepdotweb.com/tag/service/" rel="tag">service</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2016-02-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -177,7 +177,7 @@ How To Use VPN Plus Tor To Get Double Encryption?
     <p>Overall VPN+TOR is only getting it popularity. It is still a young technology, which means there is a room for improvement. This solution, however has more to offer that its components used alone. Therefore we do recommend that you give it a try a let us know about your experience.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/double/" rel="tag">double</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2015-07-14</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

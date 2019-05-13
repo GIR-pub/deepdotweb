@@ -50,7 +50,7 @@ Guest Post: A legal guide to cannabis seeds
     <p>As the discussion on cannabis law is likely to be re-addressed in the future, it’s important to stay informed to know that you’re not breaking the law unintentionally.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/cannabis/" rel="tag">cannabis</a> <a href="https://www.deepdotweb.com/tag/guest/" rel="tag">guest</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="https://www.deepdotweb.com/tag/seeds/" rel="tag">seeds</a></span> <span style="display:none" class="updated">2016-03-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

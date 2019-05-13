@@ -1,7 +1,7 @@
 ---
 Former head of France&#8217;s drug war implicated in trafficking
 ---
-<article class="post-listing post-14255 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-frances tag-implicated tag-trafficking tag-war">
+<article class="post-listing post-14255 post type-post status-publish format-standard has-post-thumbnail hentry  tag-frances tag-implicated tag-trafficking tag-war">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 28, 2016</span>
@@ -24,7 +24,7 @@ Former head of France&#8217;s drug war implicated in trafficking
     <p>Other senior police officers have pointed out that controlled deliveries are legal, although this is not true when the main person responsible is protected completely. Sofiane Hambli has not opened up, but he could hold key information on the responsibility of the government.</p>
     </div>
     <span style="display:none"> <a href="https://www.deepdotweb.com/tag/frances/" rel="tag">frances</a> <a href="https://www.deepdotweb.com/tag/implicated/" rel="tag">implicated</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2016-05-28</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

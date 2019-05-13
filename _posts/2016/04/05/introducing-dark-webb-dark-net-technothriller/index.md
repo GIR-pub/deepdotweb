@@ -20,7 +20,7 @@ Introducing Dark Webb &#8211; A Dark Net Technothriller
     <p><em>Dark Webb</em> is out now in both print ebook editions, priced from $3.99 at <a href="http://www.amazon.com/Dark-Webb-The-Series-Book-ebook/dp/B01DLWNKQO" target="_blank">Amazon</a>. You can find out more about my other books, including how to get a free copy of Noah&#8217;s Ark, at <a href="http://harrydayle.com" target="_blank">my website</a>.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/technothriller/" rel="tag">technothriller</a> <a href="https://www.deepdotweb.com/tag/webb/" rel="tag">webb</a></span> <span style="display:none" class="updated">2016-04-05</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

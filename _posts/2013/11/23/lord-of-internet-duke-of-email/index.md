@@ -15,8 +15,8 @@ title: Lord of Internet, Duke of Email
 <p>&nbsp;</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/duke/" rel="tag">duke</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/lord/" rel="tag">lord</a>
-Updated: 2013-11-23</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chrisk/" title="Posts by Chris K." rel="author">Chris K.</a></strong></div>
+
+Updated: 2013-11-23<a href="https://www.deepdotweb.com/author/chrisk/" title="Posts by Chris K." rel="author">Chris K.</a></strong></div>
 </div>
 </article>
 

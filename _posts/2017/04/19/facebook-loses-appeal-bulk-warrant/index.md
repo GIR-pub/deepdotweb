@@ -1,7 +1,7 @@
 ---
 Facebook Loses Appeal Against Bulk Warrant
 ---
-<article class="post-listing post-19266 post type-post status-publish format-standard has-post-thumbnail hentry  tag-appeal tag-bulk tag-facebook tag-loses tag-warrant">
+<article class="post-listing post-19266 post type-post status-publish format-standard has-post-thumbnail hentry  tag-appeal tag-bulk tag-loses tag-warrant">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 19, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Millions of Dollars Lost in Case Against Silk Road Vendor
 ---
-<article class="post-listing post-18387 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-dollars tag-lost tag-millions tag-road tag-silk tag-vendor">
+<article class="post-listing post-18387 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-dollars tag-lost tag-millions tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 1, 2017</span>

@@ -16,7 +16,7 @@ Agora Update: Withdrawals Are Back Online
     <p>We were able to verify that deposit and <span class="market-wide-message">Withdrawals </span>worked fine. but will keep following for further developments.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a>  <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/withdrawals/" rel="tag">withdrawals</a></span> <span style="display:none" class="updated">2015-04-23</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

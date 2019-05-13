@@ -1,7 +1,7 @@
 ---
 Pandora Market: Is It Gone?
 ---
-<article class="post-listing post-6492 post type-post status-publish format-standard has-post-thumbnail hentry  tag-btc tag-everyones tag-pandora">
+<article class="post-listing post-6492 post type-post status-publish format-standard has-post-thumbnail hentry  tag-everyones tag-pandora">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 21, 2014</span>
@@ -38,7 +38,7 @@ Pandora Market: Is It Gone?
     <p>Sorry for those who have their money stuck / lost on Pandora, and hopefully this will be sorted and won&#8217;t happen again (but we can safely assume it probably will).</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/everyones/" rel="tag">everyones</a> <a href="https://www.deepdotweb.com/tag/pandora/" rel="tag">pandora</a></span> <span style="display:none" class="updated">2014-07-21</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

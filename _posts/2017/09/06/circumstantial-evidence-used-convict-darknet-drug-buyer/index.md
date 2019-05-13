@@ -1,7 +1,7 @@
 ---
 Circumstantial Evidence Used to Convict Darknet Drug Buyer
 ---
-<article class="post-listing post-22399 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyer tag-circumstantial tag-convict tag-darknet tag-drug tag-evidence">
+<article class="post-listing post-22399 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyer tag-circumstantial tag-convict tag-darknet tag-evidence">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 6, 2017</span>

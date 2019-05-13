@@ -71,7 +71,7 @@ The 2 Federal Agents Accused Of Stealing BTC While Investigating Silk Road
     
     
 </div><!-- .entry /-->
-<span style="display:none" class="updated">2015-03-31<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+<span style="display:none" class="updated">2015-03-31
     
     
 </div><!-- .post-inner -->

@@ -37,7 +37,7 @@ TheRealDeal: This Long-Dead Market Was Just Relaunched!
     <p>911 was an inside job! (no, not really)</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/longdead/" rel="tag">longdead</a> <a href="https://www.deepdotweb.com/tag/relaunched/" rel="tag">relaunched</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a></span> <span style="display:none" class="updated">2015-12-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

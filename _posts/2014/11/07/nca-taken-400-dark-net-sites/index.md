@@ -1,7 +1,7 @@
 ---
 NCA: &#8220;We have Taken down 400 Dark Net Sites&#8221;
 ---
-<article class="post-listing post-8045 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2368 tag-dark tag-nca tag-net tag-operation-onymous tag-silkroad2bust tag-sites">
+<article class="post-listing post-8045 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2368 tag-dark tag-nca tag-net tag-operation-onymous 2bust tag-sites">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 7, 2014</span>
@@ -85,7 +85,7 @@ NCA: &#8220;We have Taken down 400 Dark Net Sites&#8221;
     </a>The story is ongoing and the posts are being updated as we learn more details</strong></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/400/" rel="tag">400</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/nca/" rel="tag">nca</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a></span> <span style="display:none" class="updated">2014-11-07</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -23,7 +23,7 @@ Bitcoin News Roundup – 3 May 2015
     <p>Overstock plans to issue bitcoin-like stocks. As Scott Fargo of <a href="http://insidebitcoins.com/news/overstock-wants-to-issue-500-m-in-bitcoin-like-stocks/32101">Inside Bitcoins</a> writes, the largest online retailer has filed a prospectus with the Securities and Exchange Commission, asking consent to issue up to $500 million in stocks that will be regulated by a bitcoin network. According to the SEC filing <em>“We may decide to offer securities as digital securities… using technology similar to (or the same as) the distributed ledger technology used for trading digital currencies.” </em>Overstock’s initiative may alter the way the traditional stock market operates.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-05-03</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

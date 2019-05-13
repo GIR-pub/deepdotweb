@@ -1,7 +1,7 @@
 ---
 Timeline: Arrests of AlphaBay Vendors AREA51 and DARKAPOLLO
 ---
-<article class="post-listing post-15237 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-area51 tag-arrests tag-darkapollo tag-timeline tag-vendors">
+<article class="post-listing post-15237 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-area51 tag-darkapollo tag-timeline tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 26, 2016</span>

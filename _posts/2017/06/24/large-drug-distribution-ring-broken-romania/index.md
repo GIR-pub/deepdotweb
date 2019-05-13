@@ -1,7 +1,7 @@
 ---
 Large Drug Distribution Ring Broken Up in Romania
 ---
-<article class="post-listing post-20856 post type-post status-publish format-standard has-post-thumbnail hentry  tag-broken tag-distribution tag-drug tag-large tag-ring tag-romania">
+<article class="post-listing post-20856 post type-post status-publish format-standard has-post-thumbnail hentry  tag-broken tag-distribution tag-large tag-ring tag-romania">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 24, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Operation Python: DarkNetMarkets Related Busts In New Zeland
 ---
-<article class="post-listing post-6108 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busts tag-darknetmarkets tag-operation tag-python tag-related tag-zeland">
+<article class="post-listing post-6108 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busts tag-darknetmarkets tag-operation tag-python tag-zeland">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 19, 2014</span>
@@ -45,7 +45,7 @@ Operation Python: DarkNetMarkets Related Busts In New Zeland
     <p>Source: <a href="http://www.stuff.co.nz/dominion-post/10177294/Police-bust-drugs-ring-find-stolen-carving" target="_blank">http://www.stuff.co.nz/dominion-post/10177294/Police-bust-drugs-ring-find-stolen-carving</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/busts/" rel="tag">busts</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/python/" rel="tag">python</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a> <a href="https://www.deepdotweb.com/tag/zeland/" rel="tag">zeland</a></span> <span style="display:none" class="updated">2014-06-19</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

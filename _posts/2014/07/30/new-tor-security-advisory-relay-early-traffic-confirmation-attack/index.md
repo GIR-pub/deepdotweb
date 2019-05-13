@@ -27,7 +27,7 @@ New Tor Security Advisory: &#8220;Relay Early&#8221; Traffic Confirmation Attack
     <p>Also there are discussions going on reddit /r/dnm , /r/onions and /r/tor.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/advisory/" rel="tag">advisory</a> <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/confirmation/" rel="tag">confirmation</a> <a href="https://www.deepdotweb.com/tag/early/" rel="tag">early</a> <a href="https://www.deepdotweb.com/tag/relay/" rel="tag">relay</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> <span style="display:none" class="updated">2014-07-30</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

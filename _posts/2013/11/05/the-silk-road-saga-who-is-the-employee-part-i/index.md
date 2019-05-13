@@ -1,7 +1,7 @@
 ---
 title: The Silk Road Saga: Who is “The Employee”? – Part I
 ---
-1173  tag-employee tag-part tag-road tag-saga tag-silk">
+1173   
     
     
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
@@ -30,12 +30,6 @@ title: The Silk Road Saga: Who is “The Employee”? – Part I
 <p>It would later be reported that DPR hired the undercover agent, paying him $80,000 to torture and kill ‘The Employee’.  Of course, this didn’t happen, but DPR believed that it did, as the undercover agent sent staged assassination pictures for proof of the accomplished hit.</p>
 <p>The events in the timeline (<a href="http://antilop.cc/sr" target="_blank">http://antilop.cc/sr</a>) appear to provide unusual coincidences, suggesting that chronicpain and flush are the same.  In addition, the similarities between the two handles, from bragging about poker to their affinity for opiates, and especially character traits, and writing styles suggest that this might be the case.</p>
 <p><strong>Part II of this series will go one step further, assuming that chronicpain and flush are the same person; and also breaking into the real world to possibly discover the actual identity of ‘The Employee’: the man who was key in bringing down the Silk Road.</strong></p>
-    
-    
-    
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/saga/" rel="tag">saga</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span>				
-Updated: 2013-11-05<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-    
-    
-    
 
+
+Updated: 2013-11-05

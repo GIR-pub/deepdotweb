@@ -24,7 +24,7 @@ Infographic &#8211; A Comprehensive Guide to Buying Drugs Using Silk Road 2.0
     <p style="text-align: center;"><img class="aligncenter" alt="Buying Drugs on Silk Road 2.0" src="https://www.deepdotweb.com/images/infographics.png" width="993" height="12017"/></p>
     </div>
     <span style="display:none" class="updated">2014-01-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

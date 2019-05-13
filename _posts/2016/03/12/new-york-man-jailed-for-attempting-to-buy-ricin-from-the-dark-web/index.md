@@ -16,7 +16,7 @@ New York Man Jailed For Attempting To Buy Ricin From The Dark Web
     <p>Le’s final goal with the toxic substance remains unclear, however, he told the person working for the FBI that a client might want to discuss “details of operations,” including “explaining to them how death would end up looking like under forensic examination. Will it look like some heart attack? Organ failure? etc.” This shows that the man was aware that ricin could be used for ill.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/attempting/" rel="tag">attempting</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/ricin/" rel="tag">ricin</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/york/" rel="tag">york</a></span> <span style="display:none" class="updated">2016-03-12</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

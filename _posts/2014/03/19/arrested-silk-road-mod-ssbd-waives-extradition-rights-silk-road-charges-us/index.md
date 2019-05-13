@@ -1,7 +1,7 @@
 ---
 Arrested Silk Road Mod SSBD waives extradition rights over Silk Road charges in US
 ---
-<article class="post-listing post-4723 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-extradition tag-mod tag-rights tag-road tag-silk tag-ssbd tag-waives">
+<article class="post-listing post-4723 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-extradition tag-mod tag-rights tag-ssbd tag-waives">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 19, 2014</span>
@@ -33,7 +33,7 @@ Arrested Silk Road Mod SSBD waives extradition rights over Silk Road charges in 
     </strong></em></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/mod/" rel="tag">mod</a> <a href="https://www.deepdotweb.com/tag/rights/" rel="tag">rights</a>  <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a> <a href="https://www.deepdotweb.com/tag/waives/" rel="tag">waives</a></span> <span style="display:none" class="updated">2014-03-19</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

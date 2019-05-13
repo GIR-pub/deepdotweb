@@ -1,7 +1,7 @@
 ---
 Changes to EU’s Telecom Rules Are Coming Soon
 ---
-<article class="post-listing post-15205 post type-post status-publish format-standard hentry category-news tag-coming tag-eus tag-rules tag-telecom">
+<article class="post-listing post-15205 post type-post status-publish format-standard hentry category-news tag-eus tag-rules tag-telecom">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>August 23, 2016</span>
@@ -23,7 +23,7 @@ Changes to EU’s Telecom Rules Are Coming Soon
     <p>A reform of the ePrivacy rules will be proposed later this year, and the change to the EU’s telecom rules will come about in September.  The commission stated that it was considering the degree of the current rules needed to be adapted, “to ensure adequate levels of consumer protection and ensure that regulation does not distort competition.”</p>
     <p>Spokeswoman for the commission, Nathalie Vandystadt said, “This does not necessarily mean treating all communication services the same for all purposes.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/coming/" rel="tag">coming</a> <a href="https://www.deepdotweb.com/tag/eus/" rel="tag">eus</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a> <a href="https://www.deepdotweb.com/tag/telecom/" rel="tag">telecom</a></span> <span style="display:none" class="updated">2016-08-23</span>
+     <a href="https://www.deepdotweb.com/tag/eus/" rel="tag">eus</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a> <a href="https://www.deepdotweb.com/tag/telecom/" rel="tag">telecom</a></span> <span style="display:none" class="updated">2016-08-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

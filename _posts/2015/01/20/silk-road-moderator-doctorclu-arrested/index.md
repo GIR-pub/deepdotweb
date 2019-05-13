@@ -1,7 +1,7 @@
 ---
 Silk Road 2.0 Moderator DoctorClu Arrested
 ---
-<article class="post-listing post-8842 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorclu tag-moderator tag-road tag-silk">
+<article class="post-listing post-8842 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorclu tag-moderator 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 20, 2015</span>
@@ -26,7 +26,7 @@ Silk Road 2.0 Moderator DoctorClu Arrested
     <p><iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/253255340/content?start_page=1&#038;view_mode=scroll&#038;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_55288" width="100%" height="600" frameborder="0"></iframe></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/doctorclu/" rel="tag">doctorclu</a> <a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> </span> <span style="display:none" class="updated">2015-01-20</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

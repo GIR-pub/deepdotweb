@@ -70,7 +70,7 @@ Evolution Marketplace Staff Speak: We are growing fast!
     <p>We would like to thank Boogie for his time and the interview, and he hope to see more market using multisg transactions and growing in a way that is still keeping their users safe and happy.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/fast/" rel="tag">fast</a> <a href="https://www.deepdotweb.com/tag/growing/" rel="tag">growing</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/speak/" rel="tag">speak</a> <a href="https://www.deepdotweb.com/tag/staff/" rel="tag">staff</a></span> <span style="display:none" class="updated">2014-05-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

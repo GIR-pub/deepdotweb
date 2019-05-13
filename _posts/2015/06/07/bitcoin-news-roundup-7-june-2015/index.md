@@ -23,7 +23,7 @@ Bitcoin News Roundup – 7 June 2015
     <p>Apple’s Game of Birds allows bitcoin tipping. As William Suberg of <a href="http://cointelegraph.com/news/114444/apple-approves-new-game-of-birds-app-with-bitcoin-tipping">Coin Telegraph</a> writes, the game involves a bitcoin tipping tool that allows players to receive rewards while playing. The tool has been set up as a result of the partnership with Coinbase, but Apple considers to expand its use to any wallet address. Christian Moss, the Game of Birds developer explains that <em>“the game’s wallet balance is supplied by sponsors in exchange for advertising space in the app, more advertising revenue results in more bitcoin that can be sent to the player.”</em></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/june/" rel="tag">june</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-06-07</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

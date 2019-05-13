@@ -1,7 +1,7 @@
 ---
 Ross Ulbricht Faces New Round Of Narcotics Trafficking Charges
 ---
-<article class="post-listing post-6853 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-faces tag-narcotics tag-ross tag-trafficking tag-ulbricht">
+<article class="post-listing post-6853 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-faces tag-narcotics  tag-trafficking tag-ulbricht">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>August 23, 2014</span>
@@ -30,7 +30,7 @@ Ross Ulbricht Faces New Round Of Narcotics Trafficking Charges
     <p>Article Source: http://www.theguardian.com/technology/2014/aug/22/silk-road-suspect-ross-ulbricht-narcotics-trafficking</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/faces/" rel="tag">faces</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2014-08-23</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

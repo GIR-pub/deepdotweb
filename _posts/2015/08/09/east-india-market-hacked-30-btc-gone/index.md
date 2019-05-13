@@ -1,7 +1,7 @@
 ---
 East India Market Hacked &#8211; 30 BTC Gone
 ---
-<article class="post-listing post-11223 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1778 tag-btc tag-east tag-hacked tag-india tag-lost tag-market">
+<article class="post-listing post-11223 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1778 tag-east tag-hacked tag-india tag-lost tag-market">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 9, 2015</span>

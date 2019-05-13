@@ -16,7 +16,7 @@ Watch: Pills Being Pressed To Be Sold On The Dark Web
     <p>Obviously the video generated a discussion about if this is attracting to much attention or not, what do you think?</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a> <a href="https://www.deepdotweb.com/tag/pressed/" rel="tag">pressed</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/watch/" rel="tag">watch</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-06-18</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

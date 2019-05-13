@@ -1,7 +1,7 @@
 ---
 Bitcoin Ramping Up Drug Trade In Russia?
 ---
-<article class="post-listing post-13361 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-drug tag-ramping tag-russia tag-trade">
+<article class="post-listing post-13361 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-ramping tag-russia tag-trade">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>March 1, 2016</span>

@@ -1,7 +1,7 @@
 ---
 12 Arrested for Allegations of Being Part of a Dark Web Drug Trafficking Ring
 ---
-<article class="post-listing post-28446 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-allegations tag-dark tag-drug tag-part tag-ring tag-trafficking tag-web">
+<article class="post-listing post-28446 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-allegations tag-dark tag-ring tag-trafficking tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>February 25, 2019</span>

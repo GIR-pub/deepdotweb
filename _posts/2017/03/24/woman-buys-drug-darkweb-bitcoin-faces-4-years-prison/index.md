@@ -2,7 +2,7 @@
 Woman Buys Drug From Darkweb With Bitcoin, Faces 4 Years in Prison
 ---
 <article class="post-listing post-18764 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-bitcoin tag-buys tag-darkweb tag-drug tag-faces tag-prison tag-woman tag-years">
+ tag-bitcoin tag-buys tag-darkweb tag-faces tag-prison tag-woman tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 24, 2017</span>

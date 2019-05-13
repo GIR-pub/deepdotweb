@@ -25,7 +25,7 @@ DarkNet Video News Roundup: 23/4/16
     <p>All this weeks stories are generously aggregated and narrated by <a href="https://www.youtube.com/channel/UCwMqVH1YnfCgR01mozDRMeg">Dark Net News YourTube channel</a>. Make sure you head over there, subscribe and show them some love!</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/23416/" rel="tag">23416</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a> <a href="https://www.deepdotweb.com/tag/video/" rel="tag">video</a></span> <span style="display:none" class="updated">2016-04-23</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

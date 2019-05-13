@@ -1,7 +1,7 @@
 ---
 VirtualPatent &#8211; Tracing Online Ideas Via Decentralized Trusted Timestamping Using Bitcoin&#8217;s Blockchain
 ---
-<article class="post-listing post-18298 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-blockchain tag-decentralized tag-ideas tag-timestamping tag-tracing tag-trusted tag-virtualpatent">
+<article class="post-listing post-18298 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-decentralized tag-ideas tag-timestamping tag-tracing tag-trusted tag-virtualpatent">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 23, 2017</span>
@@ -23,7 +23,7 @@ VirtualPatent &#8211; Tracing Online Ideas Via Decentralized Trusted Timestampin
     <p>VirtualPatent automatically sends registered users a confirmation email once their files have been successfully timestamped. The confirmation email includes a list of all the hashes that were used to generate the aggregate hash from which the bitcoin address was formulated. Offering this data to the user ensures that even if VirtualPatent&#8217;s platform, or the OriginStamp service fail, users would have a copy of the data needed to validate that the hash of their file was actually embedded in a bitcoin transaction and recorded onto the blockchain.</p>
     <p>The UI of VirtualPatent promotes ease of use and provides all the actions that a user of an online discussion or sharing platform would need including creation of profiles, browsing posts, commenting on posts, sharing posts and following users. The platform&#8217;s functionality is insipired by Quora and StackExchange.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/ideas/" rel="tag">ideas</a>  <a href="https://www.deepdotweb.com/tag/timestamping/" rel="tag">timestamping</a> <a href="https://www.deepdotweb.com/tag/tracing/" rel="tag">tracing</a> <a href="https://www.deepdotweb.com/tag/trusted/" rel="tag">trusted</a> <a href="https://www.deepdotweb.com/tag/virtualpatent/" rel="tag">virtualpatent</a></span> <span style="display:none" class="updated">2017-02-23</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/ideas/" rel="tag">ideas</a>  <a href="https://www.deepdotweb.com/tag/timestamping/" rel="tag">timestamping</a> <a href="https://www.deepdotweb.com/tag/tracing/" rel="tag">tracing</a> <a href="https://www.deepdotweb.com/tag/trusted/" rel="tag">trusted</a> <a href="https://www.deepdotweb.com/tag/virtualpatent/" rel="tag">virtualpatent</a></span> <span style="display:none" class="updated">2017-02-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

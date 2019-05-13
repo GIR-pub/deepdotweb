@@ -44,7 +44,7 @@ Expert Blames the Difficulties in Fighting Human Trafficking on the Darkweb
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/blames/" rel="tag">blames</a> <a href="https://www.deepdotweb.com/tag/diffic/" rel="tag">diffic</a> <a href="https://www.deepdotweb.com/tag/experts/" rel="tag">experts</a></span>				<span style="display:none" class="updated">2017-09-28</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

@@ -1,7 +1,7 @@
 ---
 Judge Rejects Every Defense Argument In The Silk Road Trial
 ---
-<article class="post-listing post-6432 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argument tag-defense tag-judge tag-rejects tag-road tag-silk tag-trial">
+<article class="post-listing post-6432 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argument tag-defense tag-judge tag-rejects tag-trial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 9, 2014</span>
@@ -27,7 +27,7 @@ Judge Rejects Every Defense Argument In The Silk Road Trial
     <p><strong>Source</strong>: <a href="http://www.wired.com/2014/07/silkroad-bitcoin-isnt-money/" target="_blank">http://www.wired.com/2014/07/silkroad-bitcoin-isnt-money/</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/argument/" rel="tag">argument</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/rejects/" rel="tag">rejects</a>  <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span> <span style="display:none" class="updated">2014-07-09</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

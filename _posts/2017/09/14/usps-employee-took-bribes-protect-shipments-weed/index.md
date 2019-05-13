@@ -1,7 +1,7 @@
 ---
 USPS Employee Took Bribes to Protect Shipments of Weed
 ---
-<article class="post-listing post-22529 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-bribes tag-employee tag-protect tag-shipments tag-usps tag-weed">
+<article class="post-listing post-22529 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-bribes tag-protect tag-shipments tag-usps tag-weed">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 14, 2017</span>

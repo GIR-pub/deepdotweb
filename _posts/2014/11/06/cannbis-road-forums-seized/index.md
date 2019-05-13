@@ -1,7 +1,7 @@
 ---
 Cannbis Road Forums Seized
 ---
-<article class="post-listing post-8029 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous tag-silkroad2bust">
+<article class="post-listing post-8029 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 6, 2014</span>
@@ -18,7 +18,7 @@ Cannbis Road Forums Seized
     <p><strong>They are being updated constantly.</strong></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a></span> <span style="display:none" class="updated">2014-11-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

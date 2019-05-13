@@ -29,7 +29,7 @@ Exclusive: Large Number Of Deep Web Child Abuse Sites Shut Down Abruptly
     <p>Even though its pretty sure that other sites will pop up, its still good news when such sites are being taken down from whatever reason that may be, <strong>and hopefully this will serve as a reminder that the child abuse problem is a real world issue, regardless of the shut down of this site or another.</strong></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/abruptly/" rel="tag">abruptly</a> <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/exclusive/" rel="tag">exclusive</a> <a href="https://www.deepdotweb.com/tag/large/" rel="tag">large</a> <a href="https://www.deepdotweb.com/tag/number/" rel="tag">number</a> <a href="https://www.deepdotweb.com/tag/shut/" rel="tag">shut</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2014-06-24</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -41,7 +41,7 @@ Bitcoin Price Analysis March 15. 2016
     <p><img class="aligncenter size-full wp-image-13478" src="/imgs/2016/03/8.png" alt="8" width="940" height="355" srcset="/imgs/2016/03/8.png 940w, /imgs/2016/03/8-300x113.png 300w" sizes="(max-width: 940px) 100vw, 940px" /></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/15/" rel="tag">15</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-03-15</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

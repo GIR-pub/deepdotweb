@@ -33,7 +33,7 @@ More Than 60 Percent Of New Zealand Narcotic Users Obtained Their Fix From The D
     
     </div><!-- .entry /-->
     <span style="display:none" class="updated">2017-06-12</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

@@ -1,7 +1,7 @@
 ---
 Silk Road Moderator Peter Nash Sentenced to Time Served
 ---
-<article class="post-listing post-10412 post type-post status-publish format-standard has-post-thumbnail hentry  tag-moderator tag-nash tag-peter tag-road tag-sentenced tag-served tag-silk tag-time">
+<article class="post-listing post-10412 post type-post status-publish format-standard has-post-thumbnail hentry  tag-moderator tag-nash tag-peter tag-sentenced tag-served tag-time">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 27, 2015</span>
@@ -18,7 +18,7 @@ Silk Road Moderator Peter Nash Sentenced to Time Served
     <p>Recommended read detailing his full story: <a href="http://allthingsvice.com/2015/05/27/silk-road-from-the-inside-moderator-ssbd-tells-his-story/">Silk Road from the inside: Moderator SSBD tells his story</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> <a href="https://www.deepdotweb.com/tag/nash/" rel="tag">nash</a> <a href="https://www.deepdotweb.com/tag/peter/" rel="tag">peter</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/served/" rel="tag">served</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a></span> <span style="display:none" class="updated">2015-05-27</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

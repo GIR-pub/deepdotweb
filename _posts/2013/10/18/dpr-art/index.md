@@ -18,4 +18,5 @@ title: DPR Art?
 <p><a href="/imgs/2013/10/SHAMAN.jpg"><img class="aligncenter size-full wp-image-563" alt="SHAMAN" src="/imgs/2013/10/SHAMAN.jpg" width="390" height="640" srcset="/imgs/2013/10/SHAMAN.jpg 390w, /imgs/2013/10/SHAMAN-183x300.jpg 183w" sizes="(max-width: 390px) 100vw, 390px" /></a></p>
 </div>
 
+
 Updated: 2013-10-18

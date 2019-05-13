@@ -30,7 +30,7 @@ How Bitcoin Could Revolutionize the Payments Landscape in Africa
     <p>Bitcoin is still a relatively new concept and it had a difficult start on the global stage. However, there are ways how the electronic currency can be used to overcome market inefficiencies and provide benefits to its users. The main issue faced by African Bitcoin start-ups in the coming years will be to make the currency safer, in order to gain trust and win more customers.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/africa/" rel="tag">africa</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/landscape/" rel="tag">landscape</a> <a href="https://www.deepdotweb.com/tag/payments/" rel="tag">payments</a> <a href="https://www.deepdotweb.com/tag/revolutionize/" rel="tag">revolutionize</a></span> <span style="display:none" class="updated">2016-01-19</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

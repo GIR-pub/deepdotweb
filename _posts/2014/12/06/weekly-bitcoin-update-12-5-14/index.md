@@ -24,7 +24,7 @@ Weekly Bitcoin Update – 12-7-14
     <p>Bitreserve, which offers cryptocurrency holders the chance to “hold their value in other currencies,” has added gold. Ian DeMartino of <a href="http://cointelegraph.com/news/113038/bitreserve-adds-gold-other-metals-coming-soon">CoinTelegraph</a> writes that the serve has added the non-fiat option while also distributing around a dollar&#8217;s worth of gold to some Bitreserve members. The company&#8217;s service operates by buying and selling bitcoins and other currencies when a user wishes to make a transaction. The assets are always held by Bitreserve, not the user. For example, when a user who wishes to convert Bitcoin into gold, Bitreserve sells the equivalent Bitcoin holdings and purchases the gold with those dollars.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/12514/" rel="tag">12514</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-12-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

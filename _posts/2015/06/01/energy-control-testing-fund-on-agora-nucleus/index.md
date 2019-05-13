@@ -35,7 +35,7 @@ Energy Control Testing Fund On Agora &#038; Nucleus
     <p>This is a great way to fund ECTF by doing something you&#8217;re already doing.  Just use the links below to buy the kits &#8211; and the ECTF will receive a small commission that we can use to pay for testing.</p></blockquote>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a> <a href="https://www.deepdotweb.com/tag/fund/" rel="tag">fund</a> <a href="https://www.deepdotweb.com/tag/nucleus/" rel="tag">nucleus</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span> <span style="display:none" class="updated">2015-06-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

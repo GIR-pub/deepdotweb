@@ -1,7 +1,7 @@
 ---
 Multi-Agency Joint Operation Busts a Darknet Drug Trafficking Ring
 ---
-<article class="post-listing post-28406 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busts tag-darknet tag-drug tag-joint tag-multiagency tag-operation tag-ring tag-trafficking">
+<article class="post-listing post-28406 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busts tag-darknet tag-joint tag-multiagency tag-operation tag-ring tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
     <span>February 20, 2019</span>

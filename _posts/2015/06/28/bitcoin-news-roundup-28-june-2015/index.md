@@ -23,7 +23,7 @@ Bitcoin News Roundup – 28 June 2015
     <p>Facebook integrates its payment platform for desktop usage. As Justin O’Connell of <a href="https://www.cryptocoinsnews.com/facebook-challenges-bitcoin-payment-icon-added-desktop-users/">CryptoCoins News</a> writes, in March, Facebook introduced its payment platform on its Facebook Messenger application, but now the payment platform has expanded to desktop. Users can receive and send money to their Facebook contacts provided they have access to a US Visa or MasterCard. It is expected that the Facebook payment platform will soon start to accept the bitcoin as a payment option or even introduce its own digital currency to raise the competition in the cryptocurrency space.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/28/" rel="tag">28</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/june/" rel="tag">june</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-06-28</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

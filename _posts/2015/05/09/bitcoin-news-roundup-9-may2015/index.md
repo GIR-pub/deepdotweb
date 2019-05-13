@@ -23,7 +23,7 @@ Bitcoin News Roundup – 9 May2015
     <p>Starbucks Hong Kong is accepting bitcoins. As Scott Fargo of <a href="http://insidebitcoins.com/news/fold-brings-bitcoin-to-hong-kong-starbucks-branches/32269">Inside Bitcoins</a> reports, foldapp is a new application that allows users to pay for their coffee at Starbucks using their mobile phone. Although Starbucks never officially acknowledged that they would start accepting bitcoin payments in spite of the lower costs compared to traditional payment methods, accepting the digital currency in their Hong Kong branches, may lead to a broader bitcoin adoption. Currently, the foldapp is applicable in 10,000 locations in eight countries.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/may2015/" rel="tag">may2015</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-05-09</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

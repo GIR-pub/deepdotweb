@@ -1,7 +1,7 @@
 ---
 Onionshop Hacked ~ BTC Stolen (~700$)
 ---
-<article class="post-listing post-7155 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1968 tag-btc tag-hacked tag-onionshop tag-stolen">
+<article class="post-listing post-7155 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1968 tag-hacked tag-onionshop tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 21, 2014</span>
@@ -46,7 +46,7 @@ Onionshop Hacked ~ BTC Stolen (~700$)
     </div>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/700/" rel="tag">700</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/onionshop/" rel="tag">onionshop</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-09-21</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

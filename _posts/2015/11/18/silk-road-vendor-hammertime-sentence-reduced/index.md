@@ -1,7 +1,7 @@
 ---
 Silk Road Vendor Hammertime Sentence Reduced
 ---
-<article class="post-listing post-12219 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agents tag-corrupt tag-federal tag-hammertime tag-lighter tag-road tag-sentence tag-silk tag-vendor">
+<article class="post-listing post-12219 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agents tag-corrupt tag-federal tag-hammertime tag-lighter tag-sentence tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 18, 2015</span>

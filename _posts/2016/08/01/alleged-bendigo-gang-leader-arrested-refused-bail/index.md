@@ -24,7 +24,7 @@ Alleged Bendigo Gang Leader Arrested, Refused Bail
     <p>Magistrate Peter Mithen stated that Poot failed to comply with “previous court orders, the potential for a custodial sentence and the possibility of interfering with witnesses” meant the bail was opposed. Poot was remanded in custody to appear in court at a later date.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/bail/" rel="tag">bail</a> <a href="https://www.deepdotweb.com/tag/bendigo/" rel="tag">bendigo</a> <a href="https://www.deepdotweb.com/tag/gang/" rel="tag">gang</a> <a href="https://www.deepdotweb.com/tag/leader/" rel="tag">leader</a> <a href="https://www.deepdotweb.com/tag/refused/" rel="tag">refused</a></span> <span style="display:none" class="updated">2016-08-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -25,7 +25,7 @@ Bitcoin News Roundup – 31Jan. 2015
     <p>Gatecoin, the digital currency exchange platform, launches bitcoin exchange with segregated bank accounts. According to the <a href="http://bitcoinschannel.com/gatecoin-launches-bitcoin-exchange-with-segregated-bank-accounts/">Bitcoins Channel</a>, the Hong Kong-based exchange aims to offer to its customers in 40 countries around the globe the security of keeping their funds in separate accounts than Gatecoin’s accounts, thus minimizing <em>“counterparty risk.”</em></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/31jan/" rel="tag">31jan</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-01-31</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

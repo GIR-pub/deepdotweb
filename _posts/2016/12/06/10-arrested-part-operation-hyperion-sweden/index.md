@@ -1,7 +1,7 @@
 ---
 10 Arrested As Part Of Operation Hyperion In Sweden
 ---
-<article class="post-listing post-16782 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-hyperion tag-operation tag-part tag-sweden">
+<article class="post-listing post-16782 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-hyperion tag-operation tag-sweden">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 6, 2016</span>

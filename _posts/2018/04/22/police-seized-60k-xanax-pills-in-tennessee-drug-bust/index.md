@@ -2,7 +2,7 @@
 Police Seized 60K Xanax Pills in Tennessee Drug Bust
 ---
 <article class="post-listing post-25451 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-60k tag-bust tag-drug tag-pills tag-police tag-seized tag-tennessee tag-xanax">
+ tag-60k tag-bust tag-pills tag-police tag-seized tag-tennessee tag-xanax">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 22, 2018</span>
@@ -20,7 +20,8 @@ Police Seized 60K Xanax Pills in Tennessee Drug Bust
 <p>The Sheriff&#8217;s Office Narcotics Unit, <a href="https://www.deepdotweb.com/tag/DEA/">DEA agents</a>, USPIS Inspectors, Tennessee Bureau of Investigation agents, and FDA officers raided two Rutherford County homes. They found 58,000 counterfeit Xanax pills and more than a pound of pure alprazolam powder. For reasons unknown, the police needed the FDA to make the call regarding the legitimacy of the counterfeit Xanax pills. Even with the pound of alprazolam powder found at the scene, the police thought the pressed Xanax pills could have been genuine pharmaceutical ones. Unsurprisingly, the FDA confirmed that the pills were counterfeits.</p>
 <p>Authorities charged Davis and Dotson with possession of Schedule 4 substances and maintaining a dwelling for the purpose of distributing drugs. Davis, already a convicted felon, had a pistol in his possession and caught an additional charge for possessing a weapon as a felon. They are being held on $100,000 and $75,000 bonds, respectively.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/60k/" rel="tag">60k</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a>  <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/tennessee/" rel="tag">tennessee</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2018-04-22<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/60k/" rel="tag">60k</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a>  <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/tennessee/" rel="tag">tennessee</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2018-04-22</span>
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

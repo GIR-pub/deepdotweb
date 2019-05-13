@@ -39,7 +39,7 @@ Guest Post: VPN Tor vs Proxy Tor
     <p>Internet anonymity and privacy tools finally make their way to the mainstream audience. It is important to know the differences between Proxy and VPN and how both interact with the TOR network. The main point to remember is the that Proxy TOR should be used for simpler tasks like watching YouTube while <a href="https://privatoria.net/vpn-tor-2/">VPN TOR</a> is a choice better for sending a personal e-mail.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/guest/" rel="tag">guest</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="https://www.deepdotweb.com/tag/proxy/" rel="tag">proxy</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-10-28</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

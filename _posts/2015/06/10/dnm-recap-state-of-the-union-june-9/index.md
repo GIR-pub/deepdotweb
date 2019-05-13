@@ -22,7 +22,7 @@ DNM Recap: State of the Union June 10
     <p>Ultimately, it has been a relatively uneventful week in the darknet; stay tuned throughout the week for regular updates from DeepDot, and don’t be afraid to subscribe to receive email notifications of new posts (which you can do on any page). As always, be mindful of security and suspicious of new markets; above all else, protect yourself and use TOR, and never forget to PGP-encrypt sensitive information. Stay frosty.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/june/" rel="tag">june</a> <a href="https://www.deepdotweb.com/tag/recap/" rel="tag">recap</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/union/" rel="tag">union</a></span> <span style="display:none" class="updated">2015-06-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

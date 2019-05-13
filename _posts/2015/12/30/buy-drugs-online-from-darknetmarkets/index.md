@@ -200,7 +200,7 @@ How To Buy Drugs Online From DarknetMarkets?
     <p>Before you decide to buy drugs online from the dark net markets &#8211; use common sense!</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/buy-drugs-online/" rel="tag">buy drugs online</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a>  </span> <span style="display:none" class="updated">2015-12-30</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

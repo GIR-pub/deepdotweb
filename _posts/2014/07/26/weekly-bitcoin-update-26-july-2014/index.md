@@ -24,7 +24,7 @@ Weekly Bitcoin Update – 26 July 2014
     <p>Stan Higgins of <a href="http://www.coindesk.com/ecuador-bans-bitcoin-legislative-vote/">CoinDesk</a> reports that the National Assembly of Ecuador has voted to ban the usage of Bitcoin and other decentralized digital currencies. As a result, companies whose services extend to Ecuador will be forced to withdraw from the country. The proposed amendment also established guidelines for a state-run digital currency to be backed by the nation&#8217;s central bank. After voting had been completed, the the National Assembly offered a statement that spoke to the benefits of electronic money and its ability to “stimulate” the economy.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/26/" rel="tag">26</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-07-26</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

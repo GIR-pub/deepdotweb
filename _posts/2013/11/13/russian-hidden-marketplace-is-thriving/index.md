@@ -17,5 +17,5 @@ title: Russian Hidden Marketplace Is Thriving
 <p>And don&#8217;t worry, im just about to add this forum to our hidden marketplaces list. find it on the sidebar.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/thriving/" rel="tag">thriving</a>
-Updated: 2013-11-13</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+
+Updated: 2013-11-13

@@ -24,7 +24,7 @@ Manchester: Teenager Admits Trying To Buy Deadly Toxin From Dark Net
     <p>A 16-year-old girl was also arrested as part of the investigation but later released without charge.</p></blockquote>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/deadly/" rel="tag">deadly</a> <a href="https://www.deepdotweb.com/tag/manchester/" rel="tag">manchester</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a> <a href="https://www.deepdotweb.com/tag/toxin/" rel="tag">toxin</a></span> <span style="display:none" class="updated">2015-04-08</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

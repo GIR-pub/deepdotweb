@@ -7,13 +7,7 @@ title: The Marketplace Beta Tester First Review
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>November 4, 2013</span>
 
-    
-<span><a href="https://www.deepdotweb.com/2013/11/04/the-marketplace-beta-tester-first-review/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
-<div class="entry">
-    
+        
 <p><strong>Was posted today on Themarketplace Reddit &#8211; As i said before, this is the one i find most intriguing, so we will keep following to see where its headed</strong></p>
 <p><strong>original post was here:</strong> http://www.reddit.com/r/themarketplace/comments/1pr382/reviewwalkthrough_of_the_marketplace_by_a_beta/</p>
 <p>I embedded the images in post for easier reading.</p>
@@ -48,11 +42,6 @@ title: The Marketplace Beta Tester First Review
 <p>&nbsp;</p>
     
     
-    
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/beta/" rel="tag">beta</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/tester/" rel="tag">tester</a></span>				
-Updated: 2013-11-04</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-    
-    
-    
 
+
+Updated: 2013-11-04

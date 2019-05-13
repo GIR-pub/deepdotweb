@@ -1,7 +1,7 @@
 ---
 FBI Raid In New Orleans &#8211; Onymous Related
 ---
-<article class="post-listing post-8172 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-onymous tag-operation-onymous tag-orleans tag-raid tag-related tag-silkroad2bust">
+<article class="post-listing post-8172 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-onymous tag-operation-onymous tag-orleans tag-raid 2bust">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 11, 2014</span>
@@ -18,7 +18,7 @@ FBI Raid In New Orleans &#8211; Onymous Related
     <p>We will keep following the news related to operation onymous and report about any developments.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/onymous/" rel="tag">onymous</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/orleans/" rel="tag">orleans</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a></span> <span style="display:none" class="updated">2014-11-11</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

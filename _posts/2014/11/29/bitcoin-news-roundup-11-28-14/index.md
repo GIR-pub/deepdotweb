@@ -25,7 +25,7 @@ Bitcoin News Roundup: 11-28-14
     <p>The operator of the Kraken bitcoin exchange will assist with the disappeared bitcoins investigation while providing support during the investor repayment process. Takashi Mochizuki of <a href="http://blogs.wsj.com/moneybeat/2014/11/25/kraken-bitcoin-operator-to-help-liquidate-mt-gox/">The Wall Street Journal</a> believes that Payward Inc. should be met with approval from Mt. Gox creditors given the fact that Nobauki Kobayashi, who had overseen the failed exchanges liquidation, lacked the knowledge necessary to achieve their desired outcome.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/112814/" rel="tag">112814</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2014-11-29</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

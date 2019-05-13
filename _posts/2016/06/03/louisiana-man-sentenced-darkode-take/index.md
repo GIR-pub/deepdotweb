@@ -18,7 +18,7 @@ Darkode Take Down: Louisiana Man Sentenced
     <p>Operation Shrouded Horizon is being conducted by the FBI, Euro-pol and their European Cyber Crime Center. The case is being prosecuted by Assistant U.S. Attorneys James T. Kitchen and Charles A. Eberle of the Western District of Pennsylvania and Trial Attorneys Gavin A. Corn, Marie-Flore Johnson and Harold Chun of CCIPS, Assistant U.S. Attorney Erica O&#8217;Neil of the Eastern District of Wisconsin, and Assistant U.S. Attorney Myers Namie of the Western District of Louisiana. The Criminal Division&#8217;s Office of International Affairs also provided much needed help.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/darkode/" rel="tag">darkode</a> <a href="https://www.deepdotweb.com/tag/louisiana/" rel="tag">louisiana</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2016-06-03</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

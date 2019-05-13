@@ -1,7 +1,7 @@
 ---
 One Auction Bidder Claimed The 30,000 Silk Road Bitcoins
 ---
-<article class="post-listing post-6308 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1707 tag-auction tag-bidder tag-bitcoins tag-claimed tag-road tag-silk">
+<article class="post-listing post-6308 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1707 tag-auction tag-bidder tag-claimed 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 2, 2014</span>
@@ -27,8 +27,8 @@ One Auction Bidder Claimed The 30,000 Silk Road Bitcoins
     <p>The identity of the winning bidder remains unknown for now.</p>
     <p>Source: <a href="http://www.coindesk.com/us-marshals-one-auction-bidder-claimed-all-30000-silk-road-bitcoins/" target="_blank">http://www.coindesk.com/us-marshals-one-auction-bidder-claimed-all-30000-silk-road-bitcoins/</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/30000/" rel="tag">30000</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/bidder/" rel="tag">bidder</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/claimed/" rel="tag">claimed</a> </span> <span style="display:none" class="updated">2014-07-02</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/30000/" rel="tag">30000</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/bidder/" rel="tag">bidder</a> <a href="https://www.deepdotweb.com/tag/claimed/" rel="tag">claimed</a> </span> <span style="display:none" class="updated">2014-07-02</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

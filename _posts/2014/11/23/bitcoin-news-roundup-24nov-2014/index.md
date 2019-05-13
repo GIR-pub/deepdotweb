@@ -28,7 +28,7 @@ Bitcoin News Roundup – 24Nov. 2014
     <p>The Mozilla Foundation, the designer and developer of the Firefox web browser and Thunderbird email client, will now be accepting bitcoin donations. <a href="http://blog.coinbase.com/post/103133675787/mozilla-now-accepting-bitcoin-for-donations-via">Coinbase</a> announced on Nov. 20th that the foundation, which supports the Mozilla Webmaker education project and net neutrality activism, will be able to accept 100% of the donations without fees.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/24nov/" rel="tag">24nov</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2014-11-23</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

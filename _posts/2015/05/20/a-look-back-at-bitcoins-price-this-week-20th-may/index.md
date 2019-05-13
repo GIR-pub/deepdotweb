@@ -1,7 +1,7 @@
 ---
 A Look Back at Bitcoin’s Price This Week &#8211; 20th May
 ---
-<article class="post-listing post-10341 post type-post status-publish format-standard has-post-thumbnail hentry  tag-20th tag-bitcoins tag-price tag-week">
+<article class="post-listing post-10341 post type-post status-publish format-standard has-post-thumbnail hentry  tag-20th tag-price tag-week">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>May 20, 2015</span>
@@ -43,7 +43,7 @@ A Look Back at Bitcoin’s Price This Week &#8211; 20th May
     <p><a href="/imgs/2015/05/72.png"><img class="aligncenter  wp-image-10348" src="/imgs/2015/05/72.png" alt="7" width="807" height="403" srcset="/imgs/2015/05/72.png 1504w, /imgs/2015/05/72-300x150.png 300w, /imgs/2015/05/72-1024x511.png 1024w, /imgs/2015/05/72-660x330.png 660w, /imgs/2015/05/72-995x498.png 995w" sizes="(max-width: 807px) 100vw, 807px"/></a></p>
     <p>An upper resistance line dating back to late 2014 &#8211; early 2015 has to be broken for good measure and add to other indicators for a solid confirmation of a reversal. This is where the past 2 weeks of rise in prices is seemingly headed &#8211; to retest. Until then, in my opinion, the bear market is still in force.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/20th/" rel="tag">20th</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/week/" rel="tag">week</a></span> <span style="display:none" class="updated">2015-05-20</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/20th/" rel="tag">20th</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/week/" rel="tag">week</a></span> <span style="display:none" class="updated">2015-05-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

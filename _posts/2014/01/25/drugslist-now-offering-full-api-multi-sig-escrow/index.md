@@ -76,7 +76,7 @@ Drugslist Now Offering FULL API multi-sig escrow
     <p>Or check out out <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden marketplace list</a> &#8211; for other marketplaces and updates.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/api/" rel="tag">api</a> <a href="https://www.deepdotweb.com/tag/drugslist/" rel="tag">drugslist</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/full/" rel="tag">full</a> <a href="https://www.deepdotweb.com/tag/multisig/" rel="tag">multisig</a> <a href="https://www.deepdotweb.com/tag/offering/" rel="tag">offering</a></span> <span style="display:none" class="updated">2014-01-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

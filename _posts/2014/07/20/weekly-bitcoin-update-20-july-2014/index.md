@@ -25,7 +25,7 @@ Weekly Bitcoin Update – 20 July 2014
     <p>Jon Southurst of <a href="http://www.coindesk.com/australian-lawyers-bitcoin-groups-call-clarity-regulation/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+CoinDesk+(CoinDesk+-+The+Voice+of+Digital+Currency)">CoinDesk</a> writes that Australian lawyers and Bitcoin groups are calling for more clarity with regard to Bitcoin regulation. Ronald Tucker of the Australian Digital Currency Commerce Association (ADCCA) held a Bitcoin awareness-raising seminar last week that was attended by both Bitcoin business representatives and Australian government stakeholders. At the event, the ADCCA made a pitch for allowing the Bitcoin industry to self-regulate with the assistance of a government liaison.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/18/" rel="tag">18</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-07-20</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

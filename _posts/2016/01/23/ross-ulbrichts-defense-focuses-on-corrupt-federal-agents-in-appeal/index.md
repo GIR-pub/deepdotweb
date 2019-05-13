@@ -1,7 +1,7 @@
 ---
 Ross Ulbricht&#8217;s Defense Focuses On Corrupt Federal Agents In Appeal
 ---
-<article class="post-listing post-12978 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-silkroadtrial">
+<article class="post-listing post-12978 post type-post status-publish format-standard has-post-thumbnail hentry category-news trial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 23, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Father Of Two Brothers Who Died Overdosing On MDMA Support Drug Legalizing Campaign
 ---
-<article class="post-listing post-14570 post type-post status-publish format-standard hentry category-news tag-brothers tag-campaign tag-died tag-drug tag-father tag-legalizing tag-mdma tag-overdosing tag-support">
+<article class="post-listing post-14570 post type-post status-publish format-standard hentry category-news tag-brothers tag-campaign tag-died tag-father tag-legalizing tag-mdma tag-overdosing tag-support">
     
     <div class="post-inner">
     

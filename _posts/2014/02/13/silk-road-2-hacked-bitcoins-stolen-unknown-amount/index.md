@@ -1,7 +1,7 @@
 ---
 Silk Road 2 Hacked, All Bitcoins Stolen &#8211; $2.7 Miliion
 ---
-<article class="post-listing post-4147 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-hacked tag-road tag-silk tag-stolen">
+<article class="post-listing post-4147 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacked tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 13, 2014</span>
@@ -112,8 +112,8 @@ Silk Road 2 Hacked, All Bitcoins Stolen &#8211; $2.7 Miliion
     <p>Some even tried to help in some way.</p>
     <p>For us &#8211; the big question is &#8220;how much&#8221;? , we will keep following up on this and updating this post as we get new information &#8211; for now, you can check out other site <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">on this list</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a>  <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-02-13</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a>  <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-02-13</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

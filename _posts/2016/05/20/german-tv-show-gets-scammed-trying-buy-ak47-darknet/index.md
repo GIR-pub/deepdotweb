@@ -16,7 +16,7 @@ German TV show gets scammed trying to buy an AK47 on the DarkNet
     <p>So in the end, there was little media attention yet, the Kalashnikov never arrived the show actually <a href="http://www.chip.de/news/Waffen-im-Darknet-kaufen-Gar-nicht-so-einfach_93994136.html">got scammed for $800 in Bitcoin</a>. The German customs say that it would also be likely that they would have intercepted the delivery. The deserved backlash did not happen. The demonisation attempt of the DarkNet failed ridiculously &#8211; but somehow worked out on another level.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/ak47/" rel="tag">ak47</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/scammed/" rel="tag">scammed</a> <a href="https://www.deepdotweb.com/tag/show/" rel="tag">show</a> <a href="https://www.deepdotweb.com/tag/tv/" rel="tag">tv</a></span> <span style="display:none" class="updated">2016-05-20</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

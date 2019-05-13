@@ -59,7 +59,7 @@ Meet The Market Admin Who Was Responsible For the Ddos Attacks
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/meet/" rel="tag">meet</a> <a href="https://www.deepdotweb.com/tag/responsible/" rel="tag">responsible</a></span>				<span style="display:none" class="updated">2015-05-31</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

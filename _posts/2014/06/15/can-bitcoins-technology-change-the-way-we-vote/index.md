@@ -28,7 +28,7 @@ Can Bitcoin&#8217;s Technology Change The Way We Vote?
     <p style="margin-bottom: 0in;">While a tried and tested solution to internet voting using blockchain technology has yet to be released, programmers and blockchain enthusiasts are hard at work developing what many believe will be the next step in global political evolution. Only time will tell whether such a system is supported by the general populace or will be allowed to exist by the powers that be.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/voting/" rel="tag">voting</a></span> <span style="display:none" class="updated">2014-06-15</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

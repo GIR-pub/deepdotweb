@@ -1,7 +1,7 @@
 ---
 2014 Was The Worst Year In Drug Overdose Fatalities According To CDC
 ---
-<article class="post-listing post-12735 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-1779 tag-cdc tag-drug tag-fatalities tag-overdose tag-worst tag-year">
+<article class="post-listing post-12735 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-1779 tag-cdc tag-fatalities tag-overdose tag-worst tag-year">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>December 25, 2015</span>

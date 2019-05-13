@@ -24,7 +24,7 @@ Alphabay Can Now Be Used As a Coin Tumbler
     <p><strong>How does AlphaBay profit if there are no fees?</strong> AlphaBay is the largest darknet market and has a very big user base which results in many problems such as banks/LE/researchers identifying our hot wallets and analyzing the information to disrupt existing business networks. By combining everyones bitcoins and shuffling them using our obfuscation technology, we are able to create a <strong>working layer of privacy</strong> in terms of deposits/withdraws within AlphaBay marketplace. The technology and concept work at their full potential only when there are multiple users depositing/withdrawing &#8211; thus <strong>by using AlphaBay casually for purchases/vending, you contribute to the privacy and security of everyone involved.</strong></p></blockquote>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a> <a href="https://www.deepdotweb.com/tag/tumbler/" rel="tag">tumbler</a></span> <span style="display:none" class="updated">2016-04-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

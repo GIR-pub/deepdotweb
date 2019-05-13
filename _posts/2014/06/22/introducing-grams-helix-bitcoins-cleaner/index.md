@@ -1,7 +1,7 @@
 ---
 Introducing Grams Helix: Bitcoins Cleaner
 ---
-<article class="post-listing post-6160 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-cleaner tag-grams tag-helix tag-introducing">
+<article class="post-listing post-6160 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cleaner tag-grams tag-helix tag-introducing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 22, 2014</span>
@@ -41,8 +41,8 @@ Introducing Grams Helix: Bitcoins Cleaner
     <p>It was added by Grams admin that:</p>
     <blockquote><p>This step is truly unnecessary since Grams is very security conscious, but it is a step I am willing to take to earn the trust of all of you.</p></blockquote>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/cleaner/" rel="tag">cleaner</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/helix/" rel="tag">helix</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> <span style="display:none" class="updated">2014-06-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cleaner/" rel="tag">cleaner</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/helix/" rel="tag">helix</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> <span style="display:none" class="updated">2014-06-22</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

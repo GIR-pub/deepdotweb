@@ -20,7 +20,7 @@ Blockchain &#038; Bitcoin Conference will reveal prospects and risks of cryptocu
     <p>Details and registration on the website: <a href="http://goo.gl/8Mkgx5">Blockchain &amp; Bitcoin Conference 2016.</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/conference/" rel="tag">conference</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/exchanges/" rel="tag">exchanges</a> <a href="https://www.deepdotweb.com/tag/prospects/" rel="tag">prospects</a> <a href="https://www.deepdotweb.com/tag/reveal/" rel="tag">reveal</a> <a href="https://www.deepdotweb.com/tag/risks/" rel="tag">risks</a></span> <span style="display:none" class="updated">2016-09-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -1,7 +1,7 @@
 ---
 Drug Dealer Made Xanax and Sold It on the Dark Web.
 ---
-<article class="post-listing post-23759 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-dealer tag-drug tag-sold tag-web tag-xanax">
+<article class="post-listing post-23759 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-sold tag-web tag-xanax">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/eddiem/" title="">Eddie. M. </a></span>
     <span>December 2, 2017</span>

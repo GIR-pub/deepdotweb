@@ -60,7 +60,7 @@ Introducing Bitrated: Bitcoin Arbitration Marketplace
     <p>We have also added this solution to the <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of hidden marketplaces</a> as a related service</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/arbitration/" rel="tag">arbitration</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/bitrated/" rel="tag">bitrated</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a></span> <span style="display:none" class="updated">2014-02-17</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

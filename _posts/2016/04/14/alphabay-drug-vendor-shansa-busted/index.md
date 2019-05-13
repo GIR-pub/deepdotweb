@@ -1,7 +1,7 @@
 ---
 Alphabay Drug Vendor Shansa Arrested
 ---
-<article class="post-listing post-13719 post type-post status-publish format-standard hentry category-news tag-alphabay tag-busted tag-drug tag-shansa tag-vendor">
+<article class="post-listing post-13719 post type-post status-publish format-standard hentry category-news tag-alphabay tag-busted tag-shansa tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 14, 2016</span>

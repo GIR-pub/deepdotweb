@@ -54,7 +54,7 @@ DarkNetMarkets Listing Count *IS* Booming: 53,917 Listings!
     <p><a href="/imgs/2014/05/count.png"><img class="aligncenter  wp-image-5519" src="/imgs/2014/05/count.png" alt="count" width="655" height="533" srcset="/imgs/2014/05/count.png 927w, /imgs/2014/05/count-300x244.png 300w" sizes="(max-width: 655px) 100vw, 655px"/></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/53917/" rel="tag">53917</a> <a href="https://www.deepdotweb.com/tag/booming/" rel="tag">booming</a> <a href="https://www.deepdotweb.com/tag/count/" rel="tag">count</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/listing/" rel="tag">listing</a> <a href="https://www.deepdotweb.com/tag/listings/" rel="tag">listings</a></span> <span style="display:none" class="updated">2014-05-12</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

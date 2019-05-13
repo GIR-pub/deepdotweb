@@ -1,7 +1,7 @@
 ---
 US Marshals to Auction Another 50k DPR Bitcoins on March 5
 ---
-<article class="post-listing post-9130 post type-post status-publish format-standard has-post-thumbnail hentry  tag-50k tag-auction tag-bitcoins tag-dpr tag-march tag-marshals">
+<article class="post-listing post-9130 post type-post status-publish format-standard has-post-thumbnail hentry  tag-50k tag-auction tag-march tag-marshals">
     
 <div class="post-inner">
     
@@ -28,7 +28,7 @@ US Marshals to Auction Another 50k DPR Bitcoins on March 5
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/50k/" rel="tag">50k</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/marshals/" rel="tag">marshals</a></span>				<span style="display:none" class="updated">2015-02-18<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/50k/" rel="tag">50k</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/marshals/" rel="tag">marshals</a></span>				<span style="display:none" class="updated">2015-02-18
     
     
 </div><!-- .post-inner -->

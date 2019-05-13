@@ -24,7 +24,7 @@ Bitcoin News Roundup – 24 May 2015
     <p>Yellow, the bitcoin startup, launches a bitcoin voucher service in Egypt. As Joseph Young of <a href="http://cointelegraph.com/news/114287/yellow-launches-bitcoin-voucher-service-in-egypt-despite-countrys-tough-market">Coin Telegraph</a> writes,eventtus.com is expected to increase the bitcoin liquidity in Egypt as statistics show that only 10% of the population know how to use a credit card or has a bank account. Additionally, although Egypt has a very low credit card penetration rate (2%), it is the first country in the MENA region allowed to trade bitcoin for the local currency (Egyptian Pound).</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/24/" rel="tag">24</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-05-24</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

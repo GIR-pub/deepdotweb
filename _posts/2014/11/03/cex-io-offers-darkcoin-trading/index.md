@@ -16,7 +16,7 @@ CEX.IO Offers Darkcoin Trading
     <a href="/imgs/2014/11/cex.jpg"><img class="aligncenter size-full wp-image-7938" src="/imgs/2014/11/cex.jpg" alt="cex" width="624" height="456" srcset="/imgs/2014/11/cex.jpg 624w, /imgs/2014/11/cex-300x219.jpg 300w" sizes="(max-width: 624px) 100vw, 624px" /></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/cexio/" rel="tag">cexio</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/offers/" rel="tag">offers</a> <a href="https://www.deepdotweb.com/tag/trading/" rel="tag">trading</a></span> <span style="display:none" class="updated">2014-11-03</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

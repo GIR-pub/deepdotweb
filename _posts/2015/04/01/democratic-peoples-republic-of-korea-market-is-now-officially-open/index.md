@@ -42,7 +42,7 @@ Democratic People’s Republic of Korea Market Is Now Officially Open!
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/democratic/" rel="tag">democratic</a> <a href="https://www.deepdotweb.com/tag/korea/" rel="tag">korea</a> <a href="https://www.deepdotweb.com/tag/officially/" rel="tag">officially</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> <a href="https://www.deepdotweb.com/tag/peoples/" rel="tag">peoples</a> <a href="https://www.deepdotweb.com/tag/republic/" rel="tag">republic</a></span>				<span style="display:none" class="updated">2015-04-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

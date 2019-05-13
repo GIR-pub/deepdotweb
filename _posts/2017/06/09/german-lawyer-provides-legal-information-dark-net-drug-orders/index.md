@@ -1,7 +1,7 @@
 ---
 German Lawyer Provides Legal Information On Dark Net Drug Orders
 ---
-<article class="post-listing post-20484 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-drug tag-german tag-information tag-lawyer tag-legal tag-net tag-orders">
+<article class="post-listing post-20484 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-german tag-information tag-lawyer tag-legal tag-net tag-orders">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 9, 2017</span>

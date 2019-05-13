@@ -137,7 +137,7 @@ CyberGhost Review
     <p><a href="https://cybershield.cc/deepdogen_4vgxlcga4.html?aff_sub=ddwrev"><strong>&gt;&gt; Get the $2.75 per month VPN deal here.</strong></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/cyberghost/" rel="tag">cyberghost</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2019-01-15</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -22,7 +22,7 @@ How to use Tor to buy things anonymously from Agora with Bitcoin!
     <p>http://www.reddit.com/r/DarkNetMarkets/comments/1zcwt8/found_it_hard_to_use_agora_so_i_made_a_tutorial/</p>
     </div>
     <span style="display:none" class="updated">2014-03-02</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -1,7 +1,7 @@
 ---
 Wikipedia May Be Coming to the Darknet
 ---
-<article class="post-listing post-20909 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coming tag-darknet tag-wikipedia">
+<article class="post-listing post-20909 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-wikipedia">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>June 26, 2017</span>
@@ -17,7 +17,7 @@ Wikipedia May Be Coming to the Darknet
     <p>“It can be argued that the privacy gain of having an onion service over visiting Wikipedia with HTTPS over Tor is minimal, but I think it is worth having this option. I think that all major websites should serve a version over Tor,” <a href="https://motherboard.vice.com/en_us/article/wikipedians-want-to-to-put-wikipedia-on-the-dark-web">Cosonni told </a><a href="https://motherboard.vice.com/en_us/article/wikipedians-want-to-to-put-wikipedia-on-the-dark-web"><em>Motherboard</em></a> in a message over Twitter. Users connecting to hidden services never leave the Tor network, and so do not access the site through an exit node connected to the clearnet. On the Wikimedia-l listserv many editors agreed with Cosonni&#8217;s proposal. “I think that&#8217;s an excellent idea and very much aligned with our commitment to provide free information also for those who are living under unfavorable conditions. I personally endorse it,” <a href="https://lists.wikimedia.org/pipermail/wikimedia-l/2017-June/087709.html">editor David Cuenca Tudela replied</a> to Cosonni&#8217;s post revealing the hidden services proposal.</p>
     <p>If the proposal is accepted, Wikipedia would join other mainstream websites in offering the option of accessing the site through a Tor hidden service. In 2014, <a href="https://www.deepdotweb.com/2015/11/03/facebook-to-help-tor-project-getting-official-recognition-for-onion-addresses/">Facebook launched its own hidden service</a> on Tor. <a href="http://www.hackerfactor.com/blog/index.php?/archives/750-Freedom-of-Information.html">The Internet Archive is currently experimenting with offering their site through a Tor hidden service</a>, and have launched a <a href="http://archivecrfip2lpi.onion/">public beta version of their onion site</a>. Cosonni mentions that Wikimedia could use some of the software created for The Internet Archive&#8217;s hidden service. HackerFactor, who has been assisting The Internet Archive in moving to Tor, is also listed as an adviser on the Wikimedia proposal.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/coming/" rel="tag">coming</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/wikipedia/" rel="tag">wikipedia</a></span> <span style="display:none" class="updated">2017-06-26</span>
+     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/wikipedia/" rel="tag">wikipedia</a></span> <span style="display:none" class="updated">2017-06-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
     </div>
 </article>

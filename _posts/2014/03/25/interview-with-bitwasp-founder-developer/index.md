@@ -86,7 +86,7 @@ Interview With Bitwasp Founder &#038; Developer &#8211; Security, DarkNetMarkets
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitwasp/" rel="tag">bitwasp</a> <a href="https://www.deepdotweb.com/tag/founder/" rel="tag">founder</a></span>				<span style="display:none" class="updated">2014-03-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

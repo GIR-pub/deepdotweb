@@ -22,7 +22,7 @@ Bitcoin News Roundup – 26 Jul.2015
     <p>Tindr app facilitates crowdfunding in the UK. As Natalie Johnson of <a href="http://bitcoinist.net/crowdfunding-just-got-easier-new-tindr-app/">Bitcoinist</a> writes, the newly-launched mobile app assists investors to browse the profiles of crowdfunding campaigns in the UK and instantly connect with those that they want to invest their money. The app has 2,400 active users and has already facilitated 200,000 interactions.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/26/" rel="tag">26</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jul2015/" rel="tag">jul2015</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-07-26</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

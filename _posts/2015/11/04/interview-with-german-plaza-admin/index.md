@@ -81,7 +81,7 @@ Interview With German-Plaza Admin
     <p>If anyone has feedback, questions, or any kind of problem, please write a support ticket to us and we will take care of it. We place a lot of importance on our users’ opinions. So if anyone thinks that we could do anything better, please feel free to contact us. Alongside our users, we have the ability to make our market even greater!</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/germanplaza/" rel="tag">germanplaza</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a></span> <span style="display:none" class="updated">2015-11-04</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

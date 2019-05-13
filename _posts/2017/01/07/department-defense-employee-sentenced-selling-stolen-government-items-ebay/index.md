@@ -1,7 +1,7 @@
 ---
 Department of Defense Employee Sentenced for Selling Stolen Government Items on Ebay
 ---
-<article class="post-listing post-17365 post type-post status-publish format-standard has-post-thumbnail hentry  tag-defense tag-department tag-ebay tag-employee tag-government tag-items tag-selling tag-sentenced tag-stolen">
+<article class="post-listing post-17365 post type-post status-publish format-standard has-post-thumbnail hentry  tag-defense tag-department tag-ebay tag-government tag-items tag-selling tag-sentenced tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 7, 2017</span>

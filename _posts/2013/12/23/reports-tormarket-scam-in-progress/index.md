@@ -32,5 +32,5 @@ title: Reports: Tormarket Scam In Progress?
     This sure doesn&#8217;t look very encouraging for the Tormarket Situation,  as usual,  we will try to follow this as well and report once (anf if) we will have any solid information, so far it looks like the Sheep Sequel.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/progress/" rel="tag">progress</a> <a href="https://www.deepdotweb.com/tag/reports/" rel="tag">reports</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/tormarket/" rel="tag">tormarket</a>
-Updated: 2013-12-23</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+
+Updated: 2013-12-23

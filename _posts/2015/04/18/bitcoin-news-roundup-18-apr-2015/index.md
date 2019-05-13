@@ -55,7 +55,7 @@ Bitcoin News Roundup – 18 Apr. 2015
     <p><a href="http://www.reuters.com/article/2015/04/15/us-currency-bitcoin-london-insight-idUSKBN0N622320150415">Reuters</a> reports the UK is increasingly associated with favorable conditions that foster Bitcoin start ups. For example, it is home to Coin Scrum, one of the largest Bitcoin meet ups in the world. British authorities support financial innovation, going as far as dedicating $10 million research grant into digital currencies. London, New York and San Francisco are seemingly competing to position themselves as FinTech hosts . It remains to be seen what sort of impact regulation from London will look like once completed.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/18/" rel="tag">18</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/apr/" rel="tag">apr</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-04-18</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -1,7 +1,7 @@
 ---
 ITOM Revealed: Europe’s Plan To Crack Down On The Online Drug Trade
 ---
-<article class="post-listing post-7218 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crack tag-drug tag-europes tag-itom tag-plan tag-trade">
+<article class="post-listing post-7218 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crack tag-europes tag-itom tag-plan tag-trade">
     
     <div class="post-inner">
     

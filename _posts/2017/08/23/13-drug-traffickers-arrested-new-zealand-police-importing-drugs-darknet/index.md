@@ -1,7 +1,7 @@
 ---
 13 drug traffickers arrested by New Zealand police for importing drugs through Darknet
 ---
-<article class="post-listing post-22131 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-darknet tag-drug tag-importing tag-police tag-traffickers tag-zealand">
+<article class="post-listing post-22131 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-darknet tag-importing tag-police tag-traffickers tag-zealand">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>August 23, 2017</span>

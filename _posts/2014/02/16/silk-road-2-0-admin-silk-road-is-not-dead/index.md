@@ -1,7 +1,7 @@
 ---
 Silk Road 2.0 Admin: Silk Road is Not Dead
 ---
-<article class="post-listing post-4213 post type-post status-publish format-standard has-post-thumbnail hentry tag-admin tag-dead tag-road tag-silk">
+<article class="post-listing post-4213 post type-post status-publish format-standard has-post-thumbnail hentry tag-admin tag-dead 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 16, 2014</span>
@@ -67,7 +67,7 @@ Silk Road 2.0 Admin: Silk Road is Not Dead
     <p>We Wish all parties involved good luck, and future safe conduct.</p>
     </div>
      <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/dead/" rel="tag">dead</a> </span> <span style="display:none" class="updated">2014-02-16</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

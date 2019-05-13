@@ -26,7 +26,7 @@ PSA: DeepDotWeb&#8217;s New Onion Gateway!
     <p>Found any technical issue? <a href="http://www.deepdotweb.com/contact-us/">please contact!</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/deepdotweb/" rel="tag">deepdotweb</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a></span> <span style="display:none" class="updated">2015-06-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

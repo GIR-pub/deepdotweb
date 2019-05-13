@@ -30,7 +30,7 @@ Study: Estimating hidden service traffic from DNS leaks
     <p>See also <a title="Biryukov et al 2013" href="http://www.ieee-security.org/TC/SP2013/papers/4977a080.pdf">&#8216;Trawling for Tor Hidden Services: Detection, Measurement, Deanonymization&#8217;</a> &amp; <a href="http://donncha.is/2013/05/trawling-tor-hidden-services/">&#8220;Trawling Tor Hidden Service &#8211; Mapping the DHT&#8221;</a>.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/dns/" rel="tag">dns</a> <a href="https://www.deepdotweb.com/tag/estimating/" rel="tag">estimating</a> <a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/leaks/" rel="tag">leaks</a> <a href="https://www.deepdotweb.com/tag/service/" rel="tag">service</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> <span style="display:none" class="updated">2014-06-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

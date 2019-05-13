@@ -26,7 +26,7 @@ Bitcoin News Roundup – 25 Apr.2015
     <p>Taringa!, Argentina’s largest social network, favors the bitcoin. As Sarah Jennof <a href="http://www.newsbtc.com/2015/04/22/social-network-in-latin-america-offers-bitcoin-payments-for-content/">NewsBtc</a> reports, Taringa! hasannounced that it will compensate users in bitcoins in exchange for posting content on its platform by joining forces with the US-based bitcoin service provider, Xapo. Facebook’s rival in Latin America has a customer base of nearly to 75 million active users and continues to expand its reach in the region.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/25/" rel="tag">25</a> <a href="https://www.deepdotweb.com/tag/apr2015/" rel="tag">apr2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-04-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -16,7 +16,7 @@ Torepublic Hacked, DB Leaked
     <p><a href="/imgs/2015/12/PHP_Test1.jpg"><img class="aligncenter size-full wp-image-12751" src="/imgs/2015/12/PHP_Test1.jpg" alt="PHP_Test[1]" width="556" height="174" srcset="/imgs/2015/12/PHP_Test1.jpg 556w, /imgs/2015/12/PHP_Test1-300x94.jpg 300w" sizes="(max-width: 556px) 100vw, 556px" /></a>At this time, it remains unknown who was responsible for the hack.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/db/" rel="tag">db</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/leaked/" rel="tag">leaked</a> <a href="https://www.deepdotweb.com/tag/torepublic/" rel="tag">torepublic</a></span> <span style="display:none" class="updated">2015-12-24</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

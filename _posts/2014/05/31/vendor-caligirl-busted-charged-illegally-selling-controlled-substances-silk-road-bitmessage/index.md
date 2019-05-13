@@ -1,7 +1,7 @@
 ---
 Vendor &#8220;Caligirl&#8221; Busted: Charged With Selling Drugs On Silk Road &#038; Bitmessage
 ---
-<article class="post-listing post-5856 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitmessage tag-busted tag-caligirl tag-charged tag-controlled tag-illegally tag-road tag-selling tag-silk tag-substances tag-vendor">
+<article class="post-listing post-5856 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitmessage tag-busted tag-caligirl tag-charged tag-controlled tag-illegally tag-selling tag-substances tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 31, 2014</span>
@@ -20,7 +20,7 @@ Vendor &#8220;Caligirl&#8221; Busted: Charged With Selling Drugs On Silk Road &#
     <iframe id="doc_67169" class="scribd_iframe_embed" src="//www.scribd.com/embeds/227394579/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitmessage/" rel="tag">bitmessage</a> <a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/caligirl/" rel="tag">caligirl</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/controlled/" rel="tag">controlled</a> <a href="https://www.deepdotweb.com/tag/illegally/" rel="tag">illegally</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/substances/" rel="tag">substances</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-31</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

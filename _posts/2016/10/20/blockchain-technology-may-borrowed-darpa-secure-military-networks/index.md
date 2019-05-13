@@ -18,7 +18,7 @@ Blockchain Technology May Be Borrowed By DARPA To Secure Military Networks
     <p>Even though bitcoin has previously had some problems and its ability to gain universal acceptance as a substitute for regular money is questioned, the blockchain technology might just change the world, as reported by <a href="http://www.extremetech.com/computing/237461-darpa-may-borrow-blockchain-tech-from-bitcoin-to-secure-military-networks">Extreme Tech</a>.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/borrowed/" rel="tag">borrowed</a> <a href="https://www.deepdotweb.com/tag/darpa/" rel="tag">darpa</a> <a href="https://www.deepdotweb.com/tag/military/" rel="tag">military</a> <a href="https://www.deepdotweb.com/tag/networks/" rel="tag">networks</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/technology/" rel="tag">technology</a></span> <span style="display:none" class="updated">2016-10-20</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

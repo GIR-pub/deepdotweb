@@ -1,7 +1,7 @@
 ---
 Why does Dash have a bad reputation?
 ---
-<article class="post-listing post-20153 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bad tag-dash tag-reputation">
+<article class="post-listing post-20153 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dash tag-reputation">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/jonathanfoster/" title="">JONATHAN FOSTER </a></span>
     <span>May 26, 2017</span>

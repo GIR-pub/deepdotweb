@@ -1,7 +1,7 @@
 ---
 Deepweb Firearms Sale Lead to Arrests in Germany
 ---
-<article class="post-listing post-14774 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrests tag-deepweb tag-firearms tag-germany tag-lead tag-sale">
+<article class="post-listing post-14774 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deepweb tag-firearms tag-germany tag-lead tag-sale">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 9, 2016</span>

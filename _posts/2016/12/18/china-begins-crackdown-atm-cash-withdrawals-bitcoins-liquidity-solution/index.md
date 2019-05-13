@@ -1,7 +1,7 @@
 ---
 China Begins to Crackdown on ATM Cash Withdrawals; Bitcoin&#8217;s Liquidity as Solution
 ---
-<article class="post-listing post-17007 post type-post status-publish format-standard has-post-thumbnail hentry  tag-atm tag-begins tag-bitcoins tag-cash tag-china tag-crackdown tag-liquidity tag-solution tag-withdrawals">
+<article class="post-listing post-17007 post type-post status-publish format-standard has-post-thumbnail hentry  tag-atm tag-begins tag-cash tag-china tag-crackdown tag-liquidity tag-solution tag-withdrawals">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>December 18, 2016</span>
@@ -22,7 +22,7 @@ China Begins to Crackdown on ATM Cash Withdrawals; Bitcoin&#8217;s Liquidity as 
     <p>“What has happened is that individuals are turning up at ATM machines with stacks of cards from individual account holders and are withdrawing 10,000 a time,” the official <a href="http://www.scmp.com/news/hong-kong/economy/article/2053045/beijing-takes-aim-macau-gaming-industry-cut-currency-flight">said.</a></p>
     <p>While Beijing and the government is yet to respond to this situation, it is likely that the Chinese government will push for stricter regulations on cash withdrawals, which will further push the demand for bitcoin.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/atm/" rel="tag">atm</a> <a href="https://www.deepdotweb.com/tag/begins/" rel="tag">begins</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/cash/" rel="tag">cash</a> <a href="https://www.deepdotweb.com/tag/china/" rel="tag">china</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/liquidity/" rel="tag">liquidity</a> <a href="https://www.deepdotweb.com/tag/solution/" rel="tag">solution</a> <a href="https://www.deepdotweb.com/tag/withdrawals/" rel="tag">withdrawals</a></span> <span style="display:none" class="updated">2016-12-18</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/atm/" rel="tag">atm</a> <a href="https://www.deepdotweb.com/tag/begins/" rel="tag">begins</a> <a href="https://www.deepdotweb.com/tag/cash/" rel="tag">cash</a> <a href="https://www.deepdotweb.com/tag/china/" rel="tag">china</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/liquidity/" rel="tag">liquidity</a> <a href="https://www.deepdotweb.com/tag/solution/" rel="tag">solution</a> <a href="https://www.deepdotweb.com/tag/withdrawals/" rel="tag">withdrawals</a></span> <span style="display:none" class="updated">2016-12-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
     </div>
 </article>

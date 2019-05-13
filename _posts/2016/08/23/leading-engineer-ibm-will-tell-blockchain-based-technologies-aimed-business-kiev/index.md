@@ -20,7 +20,7 @@ Leading engineer from IBM will tell about blockchain based technologies aimed fo
     </a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/aimed/" rel="tag">aimed</a> <a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/engineer/" rel="tag">engineer</a> <a href="https://www.deepdotweb.com/tag/ibm/" rel="tag">ibm</a> <a href="https://www.deepdotweb.com/tag/kiev/" rel="tag">kiev</a> <a href="https://www.deepdotweb.com/tag/leading/" rel="tag">leading</a> <a href="https://www.deepdotweb.com/tag/technologies/" rel="tag">technologies</a></span> <span style="display:none" class="updated">2016-08-23</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

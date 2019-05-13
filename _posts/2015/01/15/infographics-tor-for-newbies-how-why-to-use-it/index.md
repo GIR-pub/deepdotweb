@@ -22,7 +22,7 @@ Infographics: Tor For Newbies &#8211; How &#038; Why To Use It?
     <a href="/imgs/2015/01/torfornewbiesDeepDotWeb.jpg"><img class="aligncenter size-full wp-image-8773" src="/imgs/2015/01/torfornewbiesDeepDotWeb.jpg" alt="Tor For Newbies" width="720" height="9441" srcset="/imgs/2015/01/torfornewbiesDeepDotWeb.jpg 720w, /imgs/2015/01/torfornewbiesDeepDotWeb-78x1024.jpg 78w" sizes="(max-width: 720px) 100vw, 720px" /></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/infographics/" rel="tag">infographics</a> <a href="https://www.deepdotweb.com/tag/newbies/" rel="tag">newbies</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2015-01-15</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

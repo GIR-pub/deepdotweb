@@ -23,7 +23,7 @@ Bitcoin news round-up 17.06.2014
     <p>With the World Cup generating top headlines this week, the bitcoin community is taking advantage by putting the coin to <a href="http://www.coindesk.com/bitcoin-betting-kicks-brazil-world-cup/" target="_blank">use on bitcoin betting sites</a>. Betting platforms that have sprung up catering to bitcoin include Bitkup, Cloudbet, Nitrogen Sports, and BetVIP.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2014-06-17</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

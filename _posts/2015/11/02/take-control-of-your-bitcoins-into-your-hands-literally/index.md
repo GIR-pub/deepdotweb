@@ -1,7 +1,7 @@
 ---
 Take Control of Your Bitcoins into Your Hands, Literally?
 ---
-<article class="post-listing post-11903 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-control tag-hands tag-literally">
+<article class="post-listing post-11903 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-hands tag-literally">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kalyan/" title="">Koni </a></span>
 <span>November 2, 2015</span>
@@ -17,7 +17,7 @@ Take Control of Your Bitcoins into Your Hands, Literally?
 <p>But let’s focus on the beneficial implications of this revolutionary invention. This combination of NFC-technology and bio-hacking has many applications outside the realm of cryptocurrency or even finance in general. The duo named above have explicitly stated that they plan to develop bio-payment systems that can be used in stores. In an email to Motherboard, Tara wrote that his goal was to “expand the frontiers of bio-functionality.” And sure enough, they are already in the process of doing so. Lanhed has implemented the use of his chip as an ICE-tag, allowing first responders to scan an unconscious body and gain quick access to the medical records of the person.</p>
 <p>So the future goal of this technology, like all others, is to try to bring it to a broader scope. Due to the limited capacity of the available bio-chips, not much information can be stored, other than a few documents and a private key. But as the bio-chip industry matures, we hope to see chips capable to storing a multitude of data, including documents and maybe even different forms of multimedia. But, in order to accomplish this, the software needs to be developed, and so anyone who is able to, try to take up the challenge. Maybe a world where you can project a movie or video-game on the street corner and entertain yourself until the bus comes? The possibilities are endless, but the inventions of Lanhed and Tara have bolstered the communities confidence in the arrival of these advances. By utilizing existing technology, Tara and Lanhed have taken not only a step forward for the Bitcoin/bio-hacking community, but also a step forward for society.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/hands/" rel="tag">hands</a> <a href="https://www.deepdotweb.com/tag/literally/" rel="tag">literally</a></span> <span style="display:none" class="updated">2015-11-02<a href="https://www.deepdotweb.com/author/kalyan/" title="Posts by Koni" rel="author">Koni</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/hands/" rel="tag">hands</a> <a href="https://www.deepdotweb.com/tag/literally/" rel="tag">literally</a></span> <span style="display:none" class="updated">2015-11-02<a href="https://www.deepdotweb.com/author/kalyan/" title="Posts by Koni" rel="author">Koni</a></strong></div>
 </div>
 </article>
 

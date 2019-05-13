@@ -23,7 +23,7 @@ Bitcoin News Roundup – 13 Dec. 2015
     <p>PayBis bitcoin exchange is out for expansion. As Marco E. G. Maltese of <a href="http://cointelegraph.com/news/115835/paybis-e-currency-and-bitcoin-exchange-planning-expansion">Coin Telegraph</a> writes, the newly launched bitcoin exchange (May 2015) offers users a wide range of digital currencies, including the option to purchase bitcoins via their PayPal account. The Latvian bitcoin exchange has about 1500 registered users and expects to expand its reputation through customer satisfaction and reliable reviews on the social media.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/13/" rel="tag">13</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-12-13</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

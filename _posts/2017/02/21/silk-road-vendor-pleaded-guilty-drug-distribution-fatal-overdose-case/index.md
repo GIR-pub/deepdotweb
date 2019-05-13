@@ -1,7 +1,7 @@
 ---
 Silk Road Vendor Pleaded Guilty to Drug Distribution in Fatal Overdose Case
 ---
-<article class="post-listing post-18259 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-distribution tag-drug tag-fatal tag-guilty tag-overdose tag-pleaded tag-road tag-silk tag-vendor">
+<article class="post-listing post-18259 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-distribution tag-fatal tag-guilty tag-overdose tag-pleaded tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 21, 2017</span>

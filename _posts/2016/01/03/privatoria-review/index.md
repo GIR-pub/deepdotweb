@@ -106,7 +106,7 @@ Privatoria Review
     <p><a href="https://privatoria.net/" target="_blank"><strong>&gt;&gt; Click HERE to Visit the Privatoria Official Site</strong></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/privatoria/" rel="tag">privatoria</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-03</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -111,7 +111,7 @@ IPVanish VPN Review
     <p><a href="https://www.ipvanish.com/ddw/?a_aid=563749ce0713e&amp;a_bid=48f95966&amp;chan=ipvrvi1" target="_blank" rel="noopener"><strong>&gt;&gt; Click HERE to Visit the IPVanish Official Site</strong></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/ipvanish/" rel="tag">ipvanish</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2015-11-17</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

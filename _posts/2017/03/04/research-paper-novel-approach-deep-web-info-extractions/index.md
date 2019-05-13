@@ -2,7 +2,7 @@
 Research Paper &#8211; A Novel Approach For Deep Web Info Extractions
 ---
 <article class="post-listing post-18432 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-approach tag-deep tag-extractions tag-info tag-paper tag-research tag-web">
+tag-approach tag-deep tag-extractions tag-paper tag-research tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 4, 2017</span>

@@ -26,7 +26,7 @@ Weekly Bitcoin News Report – Oct. 26th, 2014
     <p>Devavrat Shah, an MIT professor, has developed a way to predict bitcoin price fluctuations. As Rob Wile of <a href="http://fusion.net/story/23835/heres-how-to-predict-the-price-of-bitcoin/">Fusion</a> reports, Shah, along with recent graduate student Kang Zhang, made 2,872 trades over fifty days for an 89% return on investment. The process involved a Bayesian regression analysis, collecting 200 million datapoints from Okcoin.com to determine how prices move at specific intervals. Wile writes that the study showed that “the price movements often resembled patterns commonly found in stock price movements: triangle patterns, and head-and-shoulders patterns.”</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/26th/" rel="tag">26th</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/oct/" rel="tag">oct</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-10-26</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

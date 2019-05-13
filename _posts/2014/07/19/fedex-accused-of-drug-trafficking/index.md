@@ -1,7 +1,7 @@
 ---
 FedEx Accused of Drug Trafficking
 ---
-<article class="post-listing post-6526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accused tag-drug tag-fedex tag-trafficking">
+<article class="post-listing post-6526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accused tag-fedex tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 19, 2014</span>
@@ -32,7 +32,7 @@ FedEx Accused of Drug Trafficking
     <p>Article Source: http://www.courthousenews.com/2014/07/18/69617.htm</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a>  <a href="https://www.deepdotweb.com/tag/fedex/" rel="tag">fedex</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2014-07-19</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

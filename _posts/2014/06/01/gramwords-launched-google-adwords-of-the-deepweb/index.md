@@ -50,7 +50,7 @@
     </div></div>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/gramwords/" rel="tag">gramwords</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> <span style="display:none" class="updated">2014-06-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

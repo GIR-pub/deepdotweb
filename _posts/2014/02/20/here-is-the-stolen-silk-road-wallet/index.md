@@ -1,7 +1,7 @@
 ---
 Here is the Stolen Silk Road Wallet?
 ---
-<article class="post-listing post-4352 post type-post status-publish format-standard has-post-thumbnail hentry  tag-road tag-silk tag-stolen tag-wallet">
+<article class="post-listing post-4352 post type-post status-publish format-standard has-post-thumbnail hentry  tag-stolen tag-wallet">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 20, 2014</span>
@@ -84,7 +84,7 @@ Here is the Stolen Silk Road Wallet?
     </div>
     </div>
     <span style="display:none"> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> <span style="display:none" class="updated">2014-02-20</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

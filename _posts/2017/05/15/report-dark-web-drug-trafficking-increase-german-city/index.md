@@ -1,7 +1,7 @@
 ---
 Report: Dark Web Drug Trafficking On The Increase In German City
 ---
-<article class="post-listing post-19880 post type-post status-publish format-standard has-post-thumbnail hentry  tag-city tag-dark tag-drug tag-german tag-increase tag-report tag-trafficking tag-web">
+<article class="post-listing post-19880 post type-post status-publish format-standard has-post-thumbnail hentry  tag-city tag-dark tag-german tag-increase tag-report tag-trafficking tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 15, 2017</span>

@@ -26,7 +26,7 @@ Florida Man Trying to Get Case Thrown Out Claiming Bitcoin isn&#8217;t Real Mone
     <p>“You don&#8217;t buy hamburgers with comic books. You usually purchase them with cash, or in this case, bitcoins,” Prosecutor Tom Haggerty replied to Evans on Friday.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/claiming/" rel="tag">claiming</a> <a href="https://www.deepdotweb.com/tag/florida/" rel="tag">florida</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a> <a href="https://www.deepdotweb.com/tag/thrown/" rel="tag">thrown</a></span> <span style="display:none" class="updated">2016-06-04</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

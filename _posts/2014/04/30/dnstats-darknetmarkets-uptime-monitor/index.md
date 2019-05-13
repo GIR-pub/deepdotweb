@@ -58,7 +58,7 @@ Dnstats &#8211; DarkNetMarkets Uptime Monitor!
     <p>To the developer &#8211; Thanks you! great contribution.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/dnstats/" rel="tag">dnstats</a> <a href="https://www.deepdotweb.com/tag/monitor/" rel="tag">monitor</a> <a href="https://www.deepdotweb.com/tag/uptime/" rel="tag">uptime</a></span> <span style="display:none" class="updated">2014-04-30</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

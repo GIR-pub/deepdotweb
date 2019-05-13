@@ -26,7 +26,7 @@ Bitcoin News Roundup – 11Jan. 2015
     <p>Overstock.com Inc. plans to offer its staff the option to be paid in bitcoins.According to Ciara Linnane of <a href="http://www.marketwatch.com/story/overstockcom-to-offer-staff-option-of-being-paid-in-bitcoin-2015-01-09?link=MW_home_latest_news">Market Watch</a>, in the context of encouraging the broader use of the cryptocurrency, the online retailer has established a bitcoin ATM at its corporate headquarters. Overstock’s Chief ExecutivePatrick Byrne believes that the digital currency should be integrated at all levels of the financial system.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/11jan/" rel="tag">11jan</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-01-11</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -1,7 +1,7 @@
 ---
 Anti Encryption Bill Spells Bad News for National Security
 ---
-<article class="post-listing post-13824 post type-post status-publish format-standard hentry category-news tag-anti tag-bad tag-bill tag-encryption tag-national tag-news tag-security tag-spells">
+<article class="post-listing post-13824 post type-post status-publish format-standard hentry category-news tag-anti tag-bill tag-encryption tag-national tag-news tag-security tag-spells">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 21, 2016</span>

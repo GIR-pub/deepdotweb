@@ -1,7 +1,7 @@
 ---
 Live: Searchable Silk Road (1) Forum Backup
 ---
-<article class="post-listing post-6948 post type-post status-publish format-standard has-post-thumbnail hentry  tag-backup tag-forum tag-live tag-road tag-searchable tag-silk">
+<article class="post-listing post-6948 post type-post status-publish format-standard has-post-thumbnail hentry  tag-backup tag-forum tag-live tag-searchable 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 4, 2014</span>
@@ -26,7 +26,7 @@ Live: Searchable Silk Road (1) Forum Backup
     <p><a href="/imgs/2014/09/Srforumbackup.png"><img class="aligncenter  wp-image-6950" src="/imgs/2014/09/Srforumbackup.png" alt="Srforumbackup" width="542" height="384" srcset="/imgs/2014/09/Srforumbackup.png 891w, /imgs/2014/09/Srforumbackup-300x212.png 300w" sizes="(max-width: 542px) 100vw, 542px"/></a>We are sure that many people will find this search useful.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/backup/" rel="tag">backup</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/live/" rel="tag">live</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/searchable/" rel="tag">searchable</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2014-09-04</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

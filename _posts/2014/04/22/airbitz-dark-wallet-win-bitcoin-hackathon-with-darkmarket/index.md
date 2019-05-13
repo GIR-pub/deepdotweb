@@ -28,7 +28,7 @@ Airbitz &#038; Dark Wallet Win Bitcoin Hackathon with DarkMarket!
     <p>For details on the upcoming release of the Airbitz Wallet, check out this <a href="http://youtu.be/HMsz0HD7Qog" target="_blank">Success Council interview</a> with our CEO Paul Puey from the Toronto conference.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/airbitz/" rel="tag">airbitz</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/darkmarket/" rel="tag">darkmarket</a> <a href="https://www.deepdotweb.com/tag/hackathon/" rel="tag">hackathon</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a> <a href="https://www.deepdotweb.com/tag/win/" rel="tag">win</a></span> <span style="display:none" class="updated">2014-04-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

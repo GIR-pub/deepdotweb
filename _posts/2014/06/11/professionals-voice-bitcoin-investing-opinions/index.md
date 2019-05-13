@@ -51,7 +51,7 @@ Professionals Voice: Bitcoin Investing Opinions
     <p>The opinions on Bitcoin vary greatly. Some, like FINRA and Warren buffet, oppose it for various reasons (lack of safety/value. Others, like professionals workers and Marc Andreessen, hail Bitcoin as an opportunistic technological innovation (due to intrinsic value and usability). Although the opinions vary from person to person, the general consensus is the same: Bitcoin is a BIG DEAL!</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/investing/" rel="tag">investing</a> <a href="https://www.deepdotweb.com/tag/opinions/" rel="tag">opinions</a> <a href="https://www.deepdotweb.com/tag/professionals/" rel="tag">professionals</a> <a href="https://www.deepdotweb.com/tag/voice/" rel="tag">voice</a></span> <span style="display:none" class="updated">2014-06-11</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -23,7 +23,7 @@ Russia Offers 4 Million Rubles (~$100K) To De-Anonymize Tor
     <p>Article Source: http://rt.com/news/175408-russia-internet-tor-service/</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/deanonymize/" rel="tag">deanonymize</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/offers/" rel="tag">offers</a> <a href="https://www.deepdotweb.com/tag/rubles/" rel="tag">rubles</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2014-07-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

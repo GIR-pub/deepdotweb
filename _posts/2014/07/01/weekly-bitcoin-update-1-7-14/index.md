@@ -25,7 +25,7 @@ Weekly Bitcoin Update – 1.7.14
     <p><a href="http://www.abc.net.au/news/2014-06-30/tax-office-delays-ruling-on-bitcoin/5559816">ABC Australia News reports</a> that the Australian Tax Office will not rule on the status of bitcoin for the time being. Currently, bitcoin is considered neither currency nor property. As a result, Australian businesses must move forward without knowing what taxes they may face later on. Knowing the importance such a decision could mean for future Australian regulations, ABC Australia finds the ATO is currently balancing the technicalities of the ruling along with the suspicion that individuals may be using bitcoin to avoid paying taxes.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/june/" rel="tag">june</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-07-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

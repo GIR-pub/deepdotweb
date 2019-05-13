@@ -60,7 +60,7 @@ BlackBank Under Maintenance
     Reddit discussion can be found <a href="http://www.reddit.com/r/BlackBank/comments/36b6t2/blackbank_under_maintenance/">here</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/blackbank/" rel="tag">blackbank</a> <a href="https://www.deepdotweb.com/tag/maintenance/" rel="tag">maintenance</a></span> <span style="display:none" class="updated">2015-05-18</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

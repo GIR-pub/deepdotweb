@@ -1,7 +1,7 @@
 ---
 A New Study Shows UK Is Winning the Dark Net Drug Race
 ---
-<article class="post-listing post-15142 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-drug tag-net tag-race tag-shows tag-study tag-uk tag-winning">
+<article class="post-listing post-15142 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-net tag-race tag-shows tag-study tag-uk tag-winning">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>August 17, 2016</span>

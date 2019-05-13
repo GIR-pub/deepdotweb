@@ -1,7 +1,7 @@
 ---
 Silk Road And Beyond
 ---
-<article class="post-listing post-7388 post type-post status-publish format-standard has-post-thumbnail hentry  tag-road tag-silk">
+<article class="post-listing post-7388 post type-post status-publish format-standard has-post-thumbnail hentry  
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 17, 2014</span>
@@ -31,7 +31,7 @@ Silk Road And Beyond
     <p>I don’t like writing this kind of stuff publicly because it taunts our enemies and might spur them into action, but I risk it because the context for what we are doing is too often lost in the day to day stuff that happens here and it needs to be put in from time to time. Silk Road NEEDS our support. It needs everything we have. The return on what we put into it will be immeasurable if we can get through the months and years ahead and gain a real foothold on the global stage. HELP ME GET US THERE!!! Do it for me, do it for yourself, do it for your families and friends, and do it for mankind.” &#8211; Dead Pirate Roberts</p></blockquote>
     </div>
     <span style="display:none"></span> <span style="display:none" class="updated">2014-10-17</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

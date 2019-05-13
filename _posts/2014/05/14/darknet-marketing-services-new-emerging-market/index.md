@@ -40,7 +40,7 @@
     Obviously we cant tell if this is real or serious at all, but still its another fine example for the growing availability of marketing services in the Dark Net Markets scene, this is without a doubt an interesting insight about how &#8220;mainstream&#8221; and widespread its becoming slowely, we will of course keep following curiously, to see how this develops over time. If you have any interesting insights about this, feel free to share them with us.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/emerging/" rel="tag">emerging</a> <a href="https://www.deepdotweb.com/tag/marketing/" rel="tag">marketing</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a></span> <span style="display:none" class="updated">2014-05-14</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

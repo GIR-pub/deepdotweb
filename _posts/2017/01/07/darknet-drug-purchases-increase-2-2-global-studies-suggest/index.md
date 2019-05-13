@@ -1,7 +1,7 @@
 ---
 Darknet Drug Purchases Increase by 2.2%, Global Studies Suggest
 ---
-<article class="post-listing post-17367 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2700 tag-darknet tag-drug tag-global tag-increase tag-purchases tag-studies tag-suggest">
+<article class="post-listing post-17367 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2700 tag-darknet tag-global tag-increase tag-purchases tag-studies tag-suggest">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 7, 2017</span>

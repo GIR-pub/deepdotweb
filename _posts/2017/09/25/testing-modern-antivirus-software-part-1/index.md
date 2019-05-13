@@ -2,7 +2,7 @@
 Testing Modern Antivirus Software part 1
 ---
 <article class="post-listing post-22746 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-antivirus tag-modern tag-part tag-software tag-testing">
+tag-antivirus tag-modern tag-software tag-testing">
     
     <div class="post-inner">
     

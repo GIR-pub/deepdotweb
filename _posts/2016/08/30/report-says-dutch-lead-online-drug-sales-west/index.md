@@ -1,7 +1,7 @@
 ---
 Report Says Dutch Lead Online Drug Sales In The West
 ---
-<article class="post-listing post-15275 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-dutch tag-lead tag-report tag-sales tag-west">
+<article class="post-listing post-15275 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dutch tag-lead tag-report tag-sales tag-west">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 30, 2016</span>

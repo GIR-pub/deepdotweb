@@ -40,7 +40,7 @@ New DeepWeb Site Offers Free Ransomware Creation
     <p><a href="/imgs/2015/05/21.png"><img class="aligncenter size-full wp-image-10417" src="/imgs/2015/05/21.png" alt="2" width="1024" height="531" srcset="/imgs/2015/05/21.png 1024w, /imgs/2015/05/21-300x156.png 300w" sizes="(max-width: 1024px) 100vw, 1024px"/></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/creation/" rel="tag">creation</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/offers/" rel="tag">offers</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a></span> <span style="display:none" class="updated">2015-05-27</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

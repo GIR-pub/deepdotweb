@@ -58,7 +58,7 @@ Meet Steven Ruijter: Utopia Market Developer Aka &#8220;CosaNostra&#8221;
     </ul>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/cosanostra/" rel="tag">cosanostra</a> <a href="https://www.deepdotweb.com/tag/jail/" rel="tag">jail</a> <a href="https://www.deepdotweb.com/tag/story/" rel="tag">story</a> <a href="https://www.deepdotweb.com/tag/tells/" rel="tag">tells</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2015-06-04</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

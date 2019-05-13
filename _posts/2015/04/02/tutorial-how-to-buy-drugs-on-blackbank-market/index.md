@@ -139,7 +139,7 @@ Tutorial: How to Buy From BlackBank Market?
     <p>Hopefully following this tutorial helped you have a good experience on BlackBank. There is obviously more to BlackBank than what is in this guide, but this should get you set up and ready to order safely and securely. Keep an eye on more market guides coming soon!</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/blackbank/" rel="tag">blackbank</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a>  <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-04-02</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

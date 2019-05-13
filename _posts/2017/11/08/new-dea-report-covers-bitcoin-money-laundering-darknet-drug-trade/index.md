@@ -1,7 +1,7 @@
 ---
 New DEA Report Covers Bitcoin Money Laundering and Darknet Drug Trade
 ---
-<article class="post-listing post-23437 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-covers tag-darknet tag-dea tag-drug tag-laundering tag-money tag-report tag-trade">
+<article class="post-listing post-23437 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-covers tag-darknet tag-dea tag-laundering tag-money tag-report tag-trade">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>November 8, 2017</span>

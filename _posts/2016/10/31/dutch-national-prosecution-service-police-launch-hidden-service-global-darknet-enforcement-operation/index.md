@@ -52,7 +52,7 @@ Dutch National Prosecution Service and police launch Hidden Service in global Da
     </div>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/launch/" rel="tag">launch</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/prosecution/" rel="tag">prosecution</a> <a href="https://www.deepdotweb.com/tag/service/" rel="tag">service</a></span> <span style="display:none" class="updated">2016-10-31</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

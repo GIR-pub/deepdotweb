@@ -1,7 +1,7 @@
 ---
 German Dealer Busted After Five Package Seizures
 ---
-<article class="post-listing post-23642 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-dealer tag-german tag-package tag-seizures">
+<article class="post-listing post-23642 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-german tag-package tag-seizures">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 23, 2017</span>

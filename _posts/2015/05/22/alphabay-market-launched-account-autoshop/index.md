@@ -18,7 +18,7 @@ AlphaBay Market Launched Account Autoshop
     <p><a href="/imgs/2015/05/accounts.png"><img class="aligncenter size-full wp-image-10383" src="/imgs/2015/05/accounts.png" alt="accounts" width="1092" height="775" srcset="/imgs/2015/05/accounts.png 1092w, /imgs/2015/05/accounts-300x213.png 300w, /imgs/2015/05/accounts-1024x727.png 1024w" sizes="(max-width: 1092px) 100vw, 1092px" /></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/account/" rel="tag">account</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/autoshop/" rel="tag">autoshop</a> <a href="https://www.deepdotweb.com/tag/launched/" rel="tag">launched</a></span> <span style="display:none" class="updated">2015-05-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

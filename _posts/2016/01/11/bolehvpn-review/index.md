@@ -148,7 +148,7 @@ BolehVPN Review
     <p><a href=https://portal.bolehvpn.net/affiliate/ref.php?id=162&tid=BOMT1&tid1=bolehvpn-review target="_blank"><strong>&gt;&gt; Click HERE to Visit the BolehVPN Official Site</strong></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bolehvpn/" rel="tag">bolehvpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-11</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

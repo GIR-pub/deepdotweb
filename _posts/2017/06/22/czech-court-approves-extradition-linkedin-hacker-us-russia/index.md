@@ -24,7 +24,7 @@ Czech Court Approves Extradition Of LinkedIn Hacker: But To The US Or Russia?
     <p>According to US officials, Nikulin’s luxurious lifestyle was financed from the hacks he allegedly committed globally. Russian media has documented Nikulin&#8217;s lifestyle in editorials, showcasing his cars and friendship with various children of the Russian political elite. However, regarding his lifestyle, Nikulin claimed that he made his money as a mechanic, by buying and selling cars, and not from hacking.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/approves/" rel="tag">approves</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/czech/" rel="tag">czech</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/linkedin/" rel="tag">linkedin</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2017-06-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

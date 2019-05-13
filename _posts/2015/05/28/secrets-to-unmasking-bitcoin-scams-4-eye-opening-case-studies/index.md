@@ -86,7 +86,7 @@ Secrets to Unmasking Bitcoin Scams &#8211; 4 Eye Opening Case Studies
     <p>Ofir Beigel is the owner of <a href="http://99bitcoins.com/">99Bitcoins</a> and the Author of “<a href="http://99bitcoins.com/my-dirty-little-bitcoin-secret-lp/">My Dirty Little Bitcoin Secret</a>”. 99Bitcoins is a blog dedicated to helping people getting started with Bitcoins. My Dirty Little Bitcoin Secret is a book describing how Ofir managed to make over $100K in one year by taking advantage of the growing Bitcoin industry.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/eye/" rel="tag">eye</a> <a href="https://www.deepdotweb.com/tag/opening/" rel="tag">opening</a> <a href="https://www.deepdotweb.com/tag/scams/" rel="tag">scams</a> <a href="https://www.deepdotweb.com/tag/secrets/" rel="tag">secrets</a> <a href="https://www.deepdotweb.com/tag/studies/" rel="tag">studies</a> <a href="https://www.deepdotweb.com/tag/unmasking/" rel="tag">unmasking</a></span> <span style="display:none" class="updated">2015-05-28</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

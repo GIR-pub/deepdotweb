@@ -1,7 +1,7 @@
 ---
 Three Irishmen Jailed For Dark Web Drug Trading, Use of Cash Vital in Crackdown
 ---
-<article class="post-listing post-17600 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cash tag-crackdown tag-dark tag-drug tag-irishmen tag-jailed tag-trading tag-vital tag-web">
+<article class="post-listing post-17600 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cash tag-crackdown tag-dark tag-irishmen tag-jailed tag-trading tag-vital tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 19, 2017</span>

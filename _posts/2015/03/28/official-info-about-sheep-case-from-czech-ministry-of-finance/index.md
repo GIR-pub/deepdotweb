@@ -1,7 +1,7 @@
 ---
 Official Info About Sheep Case From Czech Ministry of Finance
 ---
-<article class="post-listing post-9724 post type-post status-publish format-standard hentry category-news tag-case tag-czech tag-finance tag-info tag-ministry tag-official tag-sheep">
+<article class="post-listing post-9724 post type-post status-publish format-standard hentry category-news tag-case tag-czech tag-finance tag-ministry tag-official tag-sheep">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 28, 2015</span>

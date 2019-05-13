@@ -25,7 +25,7 @@ Weekly Bitcoin Update – 24 August 2014
     <p>A United States federal judge has ruled that bitcoin is a form of money. As Carlo Caraluzzo of <a href="http://cointelegraph.com/news/112328/us-district-judge-bitcoin-is-money">CoinTelegraph</a> writes, U.S. District Judge Jed Rakoff ruled that Robert Faiella&#8217;s claim that his attempt to sell more than $1 million in bitcoin on Silk Road did not constitute “transmitting” money was false on the basis that bitcoins “clearly qualifies as &#8216;money&#8217; or &#8216;funds.&#8217;” Silk Road was being used as a way to sell illicit goods and services online before it was closed last year.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/24/" rel="tag">24</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-08-24</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

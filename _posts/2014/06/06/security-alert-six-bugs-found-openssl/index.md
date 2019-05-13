@@ -42,7 +42,7 @@ Security Alert: Six more bugs found in OpenSSL
     <p>This comes just couple of months after the original Heartbleed bug which required all users of openSSL to update their version and some owners of TOR hidden services to  change their private keys as a precaution. TOR users should follow up and update their browser bundle once such updated becomes available.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/alert/" rel="tag">alert</a> <a href="https://www.deepdotweb.com/tag/bugs/" rel="tag">bugs</a> <a href="https://www.deepdotweb.com/tag/openssl/" rel="tag">openssl</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a></span> <span style="display:none" class="updated">2014-06-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

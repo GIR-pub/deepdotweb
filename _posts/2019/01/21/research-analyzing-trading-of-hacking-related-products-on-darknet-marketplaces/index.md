@@ -1,7 +1,7 @@
 ---
 Research: Analyzing trading of hacking related products on darknet marketplaces
 ---
-<article class="post-listing post-28156 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analyzing tag-darknet tag-hacking tag-marketplaces tag-products tag-related tag-research tag-trading">
+<article class="post-listing post-28156 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analyzing tag-darknet tag-hacking tag-marketplaces tag-products tag-research tag-trading">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 21, 2019</span>

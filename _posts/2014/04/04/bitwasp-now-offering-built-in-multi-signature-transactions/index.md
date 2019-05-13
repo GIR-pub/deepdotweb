@@ -158,7 +158,7 @@ Bitwasp &#8211; Now Offering Built in multi-signature Transactions!
     <p>If there is ever a dispute along the way, the admin will be notified, and the users will have a chat thread to discuss the situation. If the order was escrow, the admin can create a new transaction. If the order was up-front, there is little the buyer can do unless the seller cooperates.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitwasp/" rel="tag">bitwasp</a> <a href="https://www.deepdotweb.com/tag/built/" rel="tag">built</a> <a href="https://www.deepdotweb.com/tag/multisignature/" rel="tag">multisignature</a> <a href="https://www.deepdotweb.com/tag/offering/" rel="tag">offering</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> <span style="display:none" class="updated">2014-04-04</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

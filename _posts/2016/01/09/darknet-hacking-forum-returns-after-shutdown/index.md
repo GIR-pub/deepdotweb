@@ -19,7 +19,7 @@ Darknet Hacking Forum &#8220;Hell&#8221; Returns After Shutdown
     <p>“Don&#8217;t worry about anything regarding LE, NSA and others. If you suspect anyone to be LE please let us know so that we can take proper action against them since this is not a place for them.”</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/returns/" rel="tag">returns</a> <a href="https://www.deepdotweb.com/tag/shutdown/" rel="tag">shutdown</a></span> <span style="display:none" class="updated">2016-01-09</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

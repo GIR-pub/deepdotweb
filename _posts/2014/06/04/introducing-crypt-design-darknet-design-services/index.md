@@ -40,7 +40,7 @@ Introducing Crypt Design: DarkNet Design Services!
     <p>Thanks DDW!</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/crypt/" rel="tag">crypt</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/design/" rel="tag">design</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a></span> <span style="display:none" class="updated">2014-06-04</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

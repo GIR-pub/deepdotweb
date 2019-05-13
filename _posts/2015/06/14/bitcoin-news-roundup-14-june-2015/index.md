@@ -24,7 +24,7 @@ Bitcoin News Roundup – 14 June 2015
     <p>BetChain launches “Free Spins Friday” promotion.As Ofir Beigel of <a href="http://99bitcoins.com/betchain-first-bitcoin-casino-offer-free-spins/">99bitcoins</a> reports, the global bitcoin casino with a long established reputation in terms of player experience and game offerings, is becoming the first bitcoin casino to automatically credit player with up to 50 free spins every Friday, giving them the opportunity to win bitcoins for free. This promotional offer is expected to place BetChain on top of the competition.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/13/" rel="tag">13</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/june/" rel="tag">june</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-06-14</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

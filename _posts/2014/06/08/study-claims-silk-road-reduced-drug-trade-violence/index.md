@@ -1,7 +1,7 @@
 ---
 Study Claims: Silk Road Reduced Drug-trade Violence
 ---
-<article class="post-listing post-5885 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claims tag-drugtrade tag-reduced tag-road tag-silk tag-study tag-violence">
+<article class="post-listing post-5885 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claims tag-drugtrade tag-reduced tag-study tag-violence">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 8, 2014</span>
@@ -26,7 +26,7 @@ Study Claims: Silk Road Reduced Drug-trade Violence
     <p>The pair believe criminologists should examine Silk Road’s records for information on and clues as to the potential uses of cryptographic technologies and their effect on the worldwide drug trade by making use of ‘webometric’ and ‘big data’ – for example, using data stored digitally to look at criminal patterns rather than using traditional methods of research such as interviewing incarcerated offenders. By using webometric and big data techniques, researchers can use real data that has been obtained unobtrusively, as well as having access to much larger and more powerful data sets.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/drugtrade/" rel="tag">drugtrade</a> <a href="https://www.deepdotweb.com/tag/reduced/" rel="tag">reduced</a>  <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/violence/" rel="tag">violence</a></span> <span style="display:none" class="updated">2014-06-08</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

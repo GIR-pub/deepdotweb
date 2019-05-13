@@ -1,7 +1,7 @@
 ---
 Bodenseekreis Student Sentenced To Probation For Drug Trafficking
 ---
-<article class="post-listing post-16508 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bodenseekreis tag-drug tag-probation tag-sentenced tag-student tag-trafficking">
+<article class="post-listing post-16508 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bodenseekreis tag-probation tag-sentenced tag-student tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 21, 2016</span>

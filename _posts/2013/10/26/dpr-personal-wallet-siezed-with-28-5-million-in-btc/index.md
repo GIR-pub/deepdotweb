@@ -1,7 +1,7 @@
 ---
 title: Official: DPR Personal Wallet Siezed With $28.5 Million in BTC (FBI Press Release)
 ---
-860  tag-219 tag-btc tag-dpr tag-million tag-personal tag-siezed tag-wallet">
+
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 26, 2013</span>
@@ -44,5 +44,6 @@ title: Official: DPR Personal Wallet Siezed With $28.5 Million in BTC (FBI Press
 <p>The prosecution of this case is being handled by the Office’s Complex Frauds Unit. Assistant United States Attorney Serrin Turner is in charge of the prosecution, and Assistant United States Attorney Christine Magdo is in charge of the forfeiture aspects of the case.</p>
 <p>The charges contained in the complaint are merely accusations, and the defendant is presumed innocent unless and until proven guilty.</p></blockquote>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/285/" rel="tag">285</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/siezed/" rel="tag">siezed</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a>
+
+
 Updated: 2013-10-26

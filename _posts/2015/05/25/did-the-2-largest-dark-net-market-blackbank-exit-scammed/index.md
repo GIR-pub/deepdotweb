@@ -32,7 +32,7 @@ Did The #2 Largest Dark Net Market, BlackBank, Exit Scammed?
     </ul>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/blackbank/" rel="tag">blackbank</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/largest/" rel="tag">largest</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/scammed/" rel="tag">scammed</a></span> <span style="display:none" class="updated">2015-05-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

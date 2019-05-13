@@ -1,7 +1,7 @@
 ---
 Translation: &#8220;Hunt Underway on Drug Crew operating on the Darknet&#8221;
 ---
-<article class="post-listing post-10271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crew tag-darknet tag-drug tag-hunt tag-operating tag-translation tag-underway">
+<article class="post-listing post-10271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crew tag-darknet tag-hunt tag-operating tag-translation tag-underway">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 12, 2015</span>
@@ -22,7 +22,7 @@ Translation: &#8220;Hunt Underway on Drug Crew operating on the Darknet&#8221;
     <p>In april 2013, a group of xtc-dealers were caught in Emmen. They sold pills worldwide and hid the drugs in DVD covers with the logo of church music. The company USP acknowledged that drugs has been discovered, but won&#8217;t go further into the size of the drug catch and the methods used for checks within the company.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/crew/" rel="tag">crew</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/hunt/" rel="tag">hunt</a> <a href="https://www.deepdotweb.com/tag/operating/" rel="tag">operating</a> <a href="https://www.deepdotweb.com/tag/translation/" rel="tag">translation</a> <a href="https://www.deepdotweb.com/tag/underway/" rel="tag">underway</a></span> <span style="display:none" class="updated">2015-05-12</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

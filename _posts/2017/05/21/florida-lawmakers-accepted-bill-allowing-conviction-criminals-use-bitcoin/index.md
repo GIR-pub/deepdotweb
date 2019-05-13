@@ -1,7 +1,7 @@
 ---
 Florida Lawmakers Accepted A Bill Allowing The Conviction Of Criminals Who Use Bitcoin
 ---
-<article class="post-listing post-20020 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accepted tag-allowing tag-bill tag-bitcoin tag-conviction tag-criminals tag-florida tag-lawmakers">
+<article class="post-listing post-20020 post type-post status-publish format-standard has-post-thumbnail hentry  tag-allowing tag-bill tag-bitcoin tag-conviction tag-criminals tag-florida tag-lawmakers">
     
     <div class="post-inner">
     
@@ -30,8 +30,8 @@ Florida Lawmakers Accepted A Bill Allowing The Conviction Of Criminals Who Use B
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/accepted/" rel="tag">accepted</a> <a href="https://www.deepdotweb.com/tag/allowing/" rel="tag">allowing</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/conviction/" rel="tag">conviction</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/florida/" rel="tag">florida</a> <a href="https://www.deepdotweb.com/tag/lawmakers/" rel="tag">lawmakers</a></span>				<span style="display:none" class="updated">2017-05-21</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/allowing/" rel="tag">allowing</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/conviction/" rel="tag">conviction</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/florida/" rel="tag">florida</a> <a href="https://www.deepdotweb.com/tag/lawmakers/" rel="tag">lawmakers</a></span>				<span style="display:none" class="updated">2017-05-21</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

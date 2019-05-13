@@ -22,7 +22,7 @@ Verizon Fined $1.35 Million For The Use Of “Supercookies”
     <p>“The Transparency Rule requires BIAS providers, including wireless mobile broadband providers, to disclose accurate information regarding their mobile broad band Internet access services sufficient for consumers to make informed choices regarding such services. 18 Under Section 222 of the Act, a telecommunications carrier has a duty to protect its customers’ proprietary information and any &#8221;telecommunications carrier that receives or obtains proprietary information from another carrier for purposes of providing any telecommunications service shall use such information only for such purpose, and shall not use such information for its own marketing efforts.&#8221;”</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/135/" rel="tag">135</a> <a href="https://www.deepdotweb.com/tag/fined/" rel="tag">fined</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/supercookies/" rel="tag">supercookies</a> <a href="https://www.deepdotweb.com/tag/verizon/" rel="tag">verizon</a></span> <span style="display:none" class="updated">2016-03-13</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

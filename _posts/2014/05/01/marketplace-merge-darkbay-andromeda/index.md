@@ -46,7 +46,7 @@ Marketplace Merge: DarkBay &#038; Andromeda
     <p>We wish him good luck, and hope to see other admins quitting gracefully when they feel its time to do so.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/andromeda/" rel="tag">andromeda</a> <a href="https://www.deepdotweb.com/tag/darkbay/" rel="tag">darkbay</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/merge/" rel="tag">merge</a></span> <span style="display:none" class="updated">2014-05-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -21,7 +21,7 @@ Bitcoin News Roundup – 15 Nov. 2015
     <p>Taiwan&#8217;s Financial Supervisory Commission (FSC) denies bitcoin ban. As Stan Higgins of <a href="http://www.coindesk.com/taiwan-finance-regulation-bitcoin-ban/">Coin Desk</a> writes, following a report by the Central News Agency regarding potential restrictive policies related to the bitcoin, the FSC now keeps a neutral stance on the digital currency. Chief of Taiwan’s leading banking, insurance and securities regulator, Tseng Ming-Chung, stated that <em>“the FSC would work with the country&#8217;s central bank and police to crack down any illegal act”</em> igniting speculation that the regulators were seeking to take action against those using digital currency.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/15/" rel="tag">15</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-11-15</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

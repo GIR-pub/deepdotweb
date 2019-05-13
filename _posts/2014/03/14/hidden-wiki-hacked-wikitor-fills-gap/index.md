@@ -37,7 +37,7 @@ The Hidden Wiki Hacked, WikiTor Fills The Gap
     <p>With signs of a strong ethic (at least as far as Tor activity goes), we hope to see WikiTor:  <strong>http://wikitor74em2u6rq.onion</strong> around for many years. we will be following and updating for new developments, if any.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/fills/" rel="tag">fills</a> <a href="https://www.deepdotweb.com/tag/gap/" rel="tag">gap</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/wiki/" rel="tag">wiki</a> <a href="https://www.deepdotweb.com/tag/wikitor/" rel="tag">wikitor</a></span> <span style="display:none" class="updated">2014-03-14</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

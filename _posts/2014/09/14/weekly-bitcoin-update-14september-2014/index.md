@@ -23,7 +23,7 @@ Weekly Bitcoin Update – 14 September 2014
     <p>The growth of bitcoin ATMs is set to expand outside of San Francisco. According to Victoria Wagner Ross of the <a href="http://www.examiner.com/article/bitcoin-atm-market-explodes">San Diego Technology Examiner</a>, several businesses are currently vying to gain control of the bitcoin ATM market, the largest of which being Lamasse Bitcoin Ventures. The company, headed by Zach and Josh Harvey, controls 39% of the bitcoin ATM market. Meanwhile, BitAccess, the company that opened the first bitcoin ATM in San Francisco, controls only 12% of the market. Nevertheless, the number of machines operational worldwide continues to grow.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/14/" rel="tag">14</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-09-14</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

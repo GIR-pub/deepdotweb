@@ -93,7 +93,7 @@ PGP Tutorial For OS X
     </div>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/os/" rel="tag">os</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-02-20</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

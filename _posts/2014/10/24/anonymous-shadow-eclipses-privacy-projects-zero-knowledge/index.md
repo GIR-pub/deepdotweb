@@ -224,7 +224,7 @@ Anonymous Shadow Eclipses Other Privacy Projects with Zero Knowledge
     <p>&nbsp;</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/eclipses/" rel="tag">eclipses</a> <a href="https://www.deepdotweb.com/tag/knowledge/" rel="tag">knowledge</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/projects/" rel="tag">projects</a> <a href="https://www.deepdotweb.com/tag/shadow/" rel="tag">shadow</a></span> <span style="display:none" class="updated">2014-10-24</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

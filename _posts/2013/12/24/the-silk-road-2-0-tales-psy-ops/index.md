@@ -1,7 +1,7 @@
 ---
 title: The Silk Road 2.0 Tales &#038; Psy-Ops!
 ---
-2904 tag-psyops tag-road tag-silk tag-tales">
+2904 tag-psyops tag-tales">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 24, 2013</span>
@@ -78,4 +78,5 @@ title: The Silk Road 2.0 Tales &#038; Psy-Ops!
 <div style="text-align: center;"><a href="/imgs/2013/12/psy1.png"><img class="aligncenter  wp-image-2910" alt="psy1" src="/imgs/2013/12/psy1.png" width="683" height="349" srcset="/imgs/2013/12/psy1.png 1812w, /imgs/2013/12/psy1-300x153.png 300w, /imgs/2013/12/psy1-1024x524.png 1024w" sizes="(max-width: 683px) 100vw, 683px" /></a> <a href="/imgs/2013/12/psy2.png"><img class="aligncenter  wp-image-2911" alt="psy2" src="/imgs/2013/12/psy2.png" width="631" height="225" srcset="/imgs/2013/12/psy2.png 1805w, /imgs/2013/12/psy2-300x107.png 300w, /imgs/2013/12/psy2-1024x366.png 1024w" sizes="(max-width: 631px) 100vw, 631px" /></a></div>
 </div>
  <a href="https://www.deepdotweb.com/tag/psyops/" rel="tag">psyops</a>  <a href="https://www.deepdotweb.com/tag/tales/" rel="tag">tales</a>
+
 Updated: 2013-12-24

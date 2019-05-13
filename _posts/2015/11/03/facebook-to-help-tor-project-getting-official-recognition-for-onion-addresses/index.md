@@ -1,7 +1,7 @@
 ---
 Facebook To Help Tor Project Getting Official Recognition For .onion Addresses
 ---
-<article class="post-listing post-11919 post type-post status-publish format-standard has-post-thumbnail hentry  tag-facebook tag-official tag-onion tag-project tag-recognition  tag-websites">
+<article class="post-listing post-11919 post type-post status-publish format-standard has-post-thumbnail hentry  tag-official tag-onion tag-project tag-recognition  tag-websites">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>November 3, 2015</span>

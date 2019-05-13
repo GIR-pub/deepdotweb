@@ -27,7 +27,7 @@ Warning: More Onion Cloner Phishing Scams
     <p><em>* The onion cloner script enables to mirror any .onion website on the fly and only catching specified fields like username and password ones. The user browsing the phished website sees no difference between that one and the real website &#8211; except the URL. <b>Be very careful when visiting links because it SNIFF your COOKIES if you are logged into the real marketplace</b>.</em></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/cloner/" rel="tag">cloner</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/phishing/" rel="tag">phishing</a> <a href="https://www.deepdotweb.com/tag/scams/" rel="tag">scams</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span> <span style="display:none" class="updated">2015-04-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

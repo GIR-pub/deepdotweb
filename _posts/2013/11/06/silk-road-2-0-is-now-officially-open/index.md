@@ -1,13 +1,6 @@
 ---
 title: Silk Road 2.0 Is now Officially open!
 ---
-1188 tag-officially tag-open tag-road tag-silk">
-
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-<span>November 6, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/11/06/silk-road-2-0-is-now-officially-open/#comments">40 Comments</a></span>
-
 
 <div class="box  warning"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong>Update: <a href="http://www.deepdotweb.com/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/" target="_blank">Silk Road 2 Hacked &#8211; All Bitcoins Stolen</a></strong>
@@ -68,9 +61,7 @@ title: Silk Road 2.0 Is now Officially open!
 </div>
 </div>
 <p>&nbsp;</p>
-</div>
-</div>
-</div>
- <a href="https://www.deepdotweb.com/tag/officially/" rel="tag">officially</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> 
-Updated: 2013-11-06</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+
+
+
+Updated: 2013-11-06

@@ -16,7 +16,7 @@ Agora Update: &#8220;it should be more safe to use JavaScript in the browser on 
     <p>From reading this update its not fully clear if the CSRF issue was 100% fixed or not, But it doesn&#8217;t matter so much because <strong>no one should enable scripts anyway</strong>,  not on Aogra on anywhere else using Tor, thats all.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/javascript/" rel="tag">javascript</a> <a href="https://www.deepdotweb.com/tag/safe/" rel="tag">safe</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-06-15</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

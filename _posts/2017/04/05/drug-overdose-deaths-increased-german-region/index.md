@@ -1,7 +1,7 @@
 ---
 Drug Overdose Deaths Increased In A German Region
 ---
-<article class="post-listing post-19007 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deaths tag-drug tag-german tag-increased tag-overdose tag-region">
+<article class="post-listing post-19007 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deaths tag-german tag-increased tag-overdose tag-region">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 5, 2017</span>

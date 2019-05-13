@@ -2,7 +2,7 @@
 Group of Silk Road Dealers Sentenced to Prison
 ---
 <article class="post-listing post-25260 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-dealers tag-group tag-prison tag-road tag-sentenced tag-silk">
+ tag-dealers tag-group tag-prison tag-sentenced 
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 4, 2018</span>
@@ -19,7 +19,8 @@ Group of Silk Road Dealers Sentenced to Prison
 <p>Sales records from the defunct marketplace revealed the weights and total quantities of drugs the group sold. For instance, they shipped a total of 17 kilograms of ‘liquid MDMA’, 1.2 kilograms of 2CB, and 1.4 kilograms of ketamine. The group likened themselves to the infamous TV drug dealer Walter White. They had a total of 6,305 sales on the marketplace but also sold to an unknown number of customers in person.</p>
 <p>In total, the sentences added up to 56 years in prison. Judge Michael Leeming passed the lengthiest prison sentence down to Assaf for his role as the ring leader. He got a prison sentence of 15 years and three months. Roden caught a 12 year prison sentence. Hyams got a slightly shorter prison sentence of 11 year and three months. Patel received 11 years and two months in prison. And Morgan, for his role as the group&#8217;s shipper, caught the shortest sentence at 7 years and two months in prison.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2018-04-04<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2018-04-04</span>
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

@@ -25,7 +25,7 @@ Happy Birthday To Grams!
     <p>&nbsp;</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/birthday/" rel="tag">birthday</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/happy/" rel="tag">happy</a></span> <span style="display:none" class="updated">2015-04-09</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

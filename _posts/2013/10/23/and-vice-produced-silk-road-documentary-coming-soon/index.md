@@ -1,7 +1,7 @@
 ---
 title: And Vice-produced Silk Road documentary Coming soon
 ---
-792  tag-coming tag-documentary tag-road tag-silk tag-viceproduced">
+792  
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 23, 2013</span>
@@ -18,5 +18,6 @@ title: And Vice-produced Silk Road documentary Coming soon
 <p>&nbsp;</p>
 <p>Read the full report here:  http://www.dailydot.com/entertainment/bbc-silk-road-documentary-vice/</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/coming/" rel="tag">coming</a> <a href="https://www.deepdotweb.com/tag/documentary/" rel="tag">documentary</a>  <a href="https://www.deepdotweb.com/tag/viceproduced/" rel="tag">viceproduced</a>
+   
+
 Updated: 2013-10-23

@@ -1,7 +1,7 @@
 ---
 SSBD, Silk Road Forum Moderator, Pleads Guilty in U.S.
 ---
-<article class="post-listing post-9473 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-forum tag-guilty tag-moderator tag-pleads tag-road tag-silk tag-ssbd">
+<article class="post-listing post-9473 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-forum tag-guilty tag-moderator tag-pleads tag-ssbd">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 14, 2015</span>

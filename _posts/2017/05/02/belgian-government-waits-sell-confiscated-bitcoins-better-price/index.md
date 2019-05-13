@@ -1,7 +1,7 @@
 ---
 Belgian Government Waits To Sell Confiscated Bitcoins For A Better Price
 ---
-<article class="post-listing post-19582 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belgian tag-bitcoins tag-confiscated tag-government tag-price tag-sell tag-waits">
+<article class="post-listing post-19582 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belgian tag-confiscated tag-government tag-price tag-sell tag-waits">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 2, 2017</span>
@@ -21,7 +21,7 @@ Belgian Government Waits To Sell Confiscated Bitcoins For A Better Price
     <p>Along with the prosecution, experts from the Federal Police and the financial department of the COSC are looking for a solution. Justice Minister Koen Geens (CD &amp; V) said in reply to a parliamentary question from N-VA MP Koen Metsu that nothing had been decided in about the bitcoins, and the BTC remains managed by the COSC. The COSC also has another 105 bitcoins (worth about 115,815 euros) from another drug case under its wing. Authorities also have to decide what to do with those bitcoins.</p>
     <p><a id="post-19582-_gjdgxs"></a> Bitcoin is one of the most volatile currencies in the world, which can suddenly take a deep dive as we could have seen at the beginning of this year. This fact does not make it easier for the Ministry of Justice to decide what would be the best to do with the BTC. According to them, seized goods should be managed as &#8220;inflation-proof&#8221;. The ministry explained that the car of a drug dealer should be sold at a fair price, same is true for the bitcoins. The COSC is waiting with the sale of the seized BTC since they do not seek to sell the cryptocurrency for a price lower compared to the time the bitcoins were seized.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/belgian/" rel="tag">belgian</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/confiscated/" rel="tag">confiscated</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/sell/" rel="tag">sell</a> <a href="https://www.deepdotweb.com/tag/waits/" rel="tag">waits</a></span> <span style="display:none" class="updated">2017-05-02</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/belgian/" rel="tag">belgian</a> <a href="https://www.deepdotweb.com/tag/confiscated/" rel="tag">confiscated</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/sell/" rel="tag">sell</a> <a href="https://www.deepdotweb.com/tag/waits/" rel="tag">waits</a></span> <span style="display:none" class="updated">2017-05-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

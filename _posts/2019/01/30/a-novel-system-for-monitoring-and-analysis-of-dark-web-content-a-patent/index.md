@@ -49,7 +49,7 @@ A novel system for monitoring and analysis of dark web content &#8211; (A patent
     <p>The overviewed patent provides a novel system for monitoring and analysis of dark web content, in addition to an alert module that can trigger dark web scans based on predefined changes in keyword density of content, activity of certain users, and others. The system can progress from one hidden service to the other while extracting the addresses associated with each scanned web page, classifying the extracted content, and controlling timing of operation and data collection pace.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/content/" rel="tag">content</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/monitoring/" rel="tag">monitoring</a> <a href="https://www.deepdotweb.com/tag/patent/" rel="tag">patent</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2019-01-30</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

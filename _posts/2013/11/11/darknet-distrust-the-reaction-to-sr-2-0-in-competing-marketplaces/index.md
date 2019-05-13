@@ -28,4 +28,5 @@ title: Darknet Distrust: The Reaction To SR 2.0 In Competing Marketplaces?
 <p>Putting it mildly, it appears as if Silk Road 2.0 has to rebuild trust with the community if it ever hopes to rise to the renowned status of its predecessor.  With so many on the darknet, who even suspect that Silk Road 2.0 is a grandiose ‘sting’ operation from law enforcement, the sequel has a long road ahead.  Pun fully intended.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/competing/" rel="tag">competing</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/distrust/" rel="tag">distrust</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/reaction/" rel="tag">reaction</a> <a href="https://www.deepdotweb.com/tag/sr/" rel="tag">sr</a>
+
 Updated: 2013-11-11

@@ -1,7 +1,7 @@
 ---
 Crypto Market &#038; Silk Road 3 Starts Last Door Recovery Society Charity Drive
 ---
-<article class="post-listing post-14116 post type-post status-publish format-standard hentry category-news tag-charity tag-crypto tag-door tag-drive tag-recovery tag-road tag-silk tag-society tag-starts">
+<article class="post-listing post-14116 post type-post status-publish format-standard hentry category-news tag-charity tag-crypto tag-door tag-drive tag-recovery tag-society tag-starts">
     
     <div class="post-inner">
     
@@ -31,7 +31,7 @@ Crypto Market &#038; Silk Road 3 Starts Last Door Recovery Society Charity Drive
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/charity/" rel="tag">charity</a> <a href="https://www.deepdotweb.com/tag/crypto/" rel="tag">crypto</a> <a href="https://www.deepdotweb.com/tag/door/" rel="tag">door</a> <a href="https://www.deepdotweb.com/tag/drive/" rel="tag">drive</a> <a href="https://www.deepdotweb.com/tag/recovery/" rel="tag">recovery</a>  <a href="https://www.deepdotweb.com/tag/society/" rel="tag">society</a> <a href="https://www.deepdotweb.com/tag/starts/" rel="tag">starts</a></span>				<span style="display:none" class="updated">2016-05-19</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

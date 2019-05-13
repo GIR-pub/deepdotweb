@@ -1,7 +1,7 @@
 ---
 Silk Goxed: How DPR used Mtgox for Hedging &#038; Lost Big
 ---
-<article class="post-listing post-8898 post type-post status-publish format-standard has-post-thumbnail hentry  tag-big tag-dpr tag-goxed tag-hedging tag-lost tag-mtgox tag-silk">
+<article class="post-listing post-8898 post type-post status-publish format-standard has-post-thumbnail hentry  tag-big tag-goxed tag-hedging tag-lost tag-mtgox 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 25, 2015</span>
@@ -284,7 +284,7 @@ Silk Goxed: How DPR used Mtgox for Hedging &#038; Lost Big
     etc</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/big/" rel="tag">big</a> <a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a> <a href="https://www.deepdotweb.com/tag/goxed/" rel="tag">goxed</a> <a href="https://www.deepdotweb.com/tag/hedging/" rel="tag">hedging</a> <a href="https://www.deepdotweb.com/tag/lost/" rel="tag">lost</a> <a href="https://www.deepdotweb.com/tag/mtgox/" rel="tag">mtgox</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2015-01-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

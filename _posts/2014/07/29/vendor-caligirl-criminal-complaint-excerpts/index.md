@@ -79,7 +79,7 @@ Vendor CALIGIRL Criminal Complaint Excerpts
     <p>This is a lot of interesting information that many people can learn from. We will be following this case and updating as more information becomes available, Again, Full credit goes to <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> for posting this on Reddit.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/caligirl/" rel="tag">caligirl</a> <a href="https://www.deepdotweb.com/tag/complaint/" rel="tag">complaint</a> <a href="https://www.deepdotweb.com/tag/criminal/" rel="tag">criminal</a> <a href="https://www.deepdotweb.com/tag/excerpts/" rel="tag">excerpts</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-07-29</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

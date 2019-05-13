@@ -1,7 +1,7 @@
 ---
 Mindblowing Silk Road Statistics: Best Selling Drugs
 ---
-<article class="post-listing post-4264 post type-post status-publish format-standard has-post-thumbnail hentry  tag-mindblowing tag-road tag-selling tag-silk tag-statistics">
+<article class="post-listing post-4264 post type-post status-publish format-standard has-post-thumbnail hentry  tag-mindblowing tag-selling tag-statistics">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 16, 2014</span>
@@ -59,7 +59,7 @@ Mindblowing Silk Road Statistics: Best Selling Drugs
     <p>There are pages and pages of data on this onion domain, its a very interesting insight to the most popular drugs being sold online.</p>
     </div>
     <span style="display:none"> <a href="https://www.deepdotweb.com/tag/mindblowing/" rel="tag">mindblowing</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/statistics/" rel="tag">statistics</a></span> <span style="display:none" class="updated">2014-02-16</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -1,7 +1,7 @@
 ---
 Hackers Claim To Sell The World-Check Database On Dark Web
 ---
-<article class="post-listing post-14886 post type-post status-publish format-standard hentry category-news tag-claim tag-dark tag-database tag-hackers tag-sell tag-web tag-worldcheck">
+<article class="post-listing post-14886 post type-post status-publish format-standard hentry category-news tag-claim tag-dark tag-database tag-hackers tag-sell tag-web check">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 23, 2016</span>

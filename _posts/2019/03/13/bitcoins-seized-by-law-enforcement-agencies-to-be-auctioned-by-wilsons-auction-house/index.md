@@ -1,7 +1,7 @@
 ---
 Bitcoins Seized by Law Enforcement Agencies to Be Auctioned by Wilsons Auction House
 ---
-<article class="post-listing post-28609 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agencies tag-auction tag-auctioned tag-bitcoins tag-enforcement tag-house tag-law tag-seized tag-wilsons">
+<article class="post-listing post-28609 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agencies tag-auction tag-auctioned tag-enforcement tag-house tag-law tag-seized tag-wilsons">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/steve_bale/" title="">Steve_Bale </a></span>
     <span>March 13, 2019</span>
@@ -25,7 +25,7 @@ Bitcoins Seized by Law Enforcement Agencies to Be Auctioned by Wilsons Auction H
     <p>According to Larkin, their auction agency is the best-suited way for the government to solve the problem of the accumulation of <a href="https://www.deepdotweb.com/2017/06/12/bolivia-police-arrests-60-people/">digital currencies seized from criminals</a>. This is because the agency has greatly invested in its infrastructure and systems to allow secure storage and to eliminate fraud or theft in the sale of bitcoin. It also has great experience in bidding and a very good reputation with the people. The contract, he says, will eliminate certain risks that come with digital trading currencies with untrustworthy dealers.</p>
     <p>He concluded by saying that the success of their previous auction of Monero greatly encourages them to pursue the upcoming auction. Moreover, auctioning bitcoins in a similar manner to other assets and varying its lots enables anyone to acquire them in a more simplified manner including former investors and newcomers.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agencies/" rel="tag">agencies</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/auctioned/" rel="tag">auctioned</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/house/" rel="tag">house</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/wilsons/" rel="tag">wilsons</a></span> <span style="display:none" class="updated">2019-03-13</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agencies/" rel="tag">agencies</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/auctioned/" rel="tag">auctioned</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/house/" rel="tag">house</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/wilsons/" rel="tag">wilsons</a></span> <span style="display:none" class="updated">2019-03-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/steve_bale/" title="Posts by Steve_Bale" rel="author">Steve_Bale</a></strong></div>
     </div>
 </article>

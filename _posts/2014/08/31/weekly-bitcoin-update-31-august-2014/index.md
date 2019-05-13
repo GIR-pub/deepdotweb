@@ -23,7 +23,7 @@ Weekly Bitcoin Update – 31 August 2014
     <p>Charles Shrem has decided to plead guilty to charges of helping to facilitate the drug trade on Silk Road. Andrew Ross Sorkin of <a href="http://dealbook.nytimes.com/2014/08/30/top-bitcoin-proponent-to-plead-guilty-to-federal-charge/">The New York Times</a> writes that Shrem will be pleading to “aiding and abetting the operation of an unlicensed money transmitting business.” Silk Road was used for the exchange of narcotics and drug paraphernalia. The New York federal court holds that Shrem converted billions of dollars into Bitcoin for use on Silk Road, which made it more difficult for the exchanges to be tracked.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/31/" rel="tag">31</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-08-31</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -1,7 +1,7 @@
 ---
 Belgian Amphetamine Vendor Sentenced to Forfeit 946 Bitcoins and Spend 40 Months in Prison
 ---
-<article class="post-listing post-17772 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3727 tag-4903 tag-amphetamine tag-belgian tag-bitcoins tag-forfeit tag-months tag-prison tag-sentenced tag-spend tag-vendor">
+<article class="post-listing post-17772 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3727 tag-4903 tag-amphetamine tag-belgian tag-forfeit tag-months tag-prison tag-sentenced tag-spend tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 27, 2017</span>
@@ -19,7 +19,7 @@ Belgian Amphetamine Vendor Sentenced to Forfeit 946 Bitcoins and Spend 40 Months
     <p>Two of Victor’s associates Jason DF and Wim V., received 150 and 200 hours of community service. The other two unnamed accomplices left the courtroom with no charges or criminal record of the event. Victor, in addition to the 40 months in prison, potentially faces 120 hours of community service.</p>
     <p>Additionally, at the time of the arrest, Victor amassed 4,000 or more bitcoins. He turned 2,000 over to the prosecutor’s office as ordered. They then asked for the remaining 2,000 but Victor’s lawyer claimed the money originated from programming work, and there was no way to prove otherwise.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/40/" rel="tag">40</a> <a href="https://www.deepdotweb.com/tag/946/" rel="tag">946</a> <a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a> <a href="https://www.deepdotweb.com/tag/belgian/" rel="tag">belgian</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/forfeit/" rel="tag">forfeit</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/spend/" rel="tag">spend</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-01-27</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/40/" rel="tag">40</a> <a href="https://www.deepdotweb.com/tag/946/" rel="tag">946</a> <a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a> <a href="https://www.deepdotweb.com/tag/belgian/" rel="tag">belgian</a> <a href="https://www.deepdotweb.com/tag/forfeit/" rel="tag">forfeit</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/spend/" rel="tag">spend</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-01-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 The FBI Says How It ‘Legally’ Found Silk Road’s Server&#8217;s IP
 ---
-<article class="post-listing post-6956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-ip tag-legally tag-roads tag-servers tag-silk">
+<article class="post-listing post-6956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-ip tag-legally tag-roads tag-servers 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 6, 2014</span>
@@ -39,7 +39,7 @@ The FBI Says How It ‘Legally’ Found Silk Road’s Server&#8217;s IP
     <p>Article Source: <strong><a href="http://www.wired.com/2014/09/the-fbi-finally-says-how-it-legally-pinpointed-silk-roads-server/" target="_blank">http://www.wired.com/2014/09/the-fbi-finally-says-how-it-legally-pinpointed-silk-roads-server/</a></strong></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/ip/" rel="tag">ip</a> <a href="https://www.deepdotweb.com/tag/legally/" rel="tag">legally</a> <a href="https://www.deepdotweb.com/tag/roads/" rel="tag">roads</a> <a href="https://www.deepdotweb.com/tag/servers/" rel="tag">servers</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2014-09-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

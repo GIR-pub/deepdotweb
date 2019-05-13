@@ -23,7 +23,7 @@ Bitcoin News Round-Up 22.06.2014
     <p>Japan has said it won’t <a href="http://www.reuters.com/article/2014/06/19/uk-japan-bitcoin-idUSKBN0EU0JA20140619?feedType=RSS&amp;feedName=technologyNews">regulate</a> bitcoin – for now. The country’s leading Liberal Democratic Party said that it had decided against regulating the currency for the moment, after the collapse of Mt. Gox caused them to consider more thorough scrutiny of the currency. &#8220;Basically, we concluded that we will, for now, avoid a move towards legal regulation,&#8221; said Takuya Hirai, an LDP lawmaker who leads the party&#8217;s internet media division, according to Reuters. The mood in Japan reflects what much of the rest of the world is seeing with regards bitcoin – uncertainty as to whether or not to lay down heavy handed regulation before fully understanding how the currency is likely to grow and change organically.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/21062014/" rel="tag">21062014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2014-06-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

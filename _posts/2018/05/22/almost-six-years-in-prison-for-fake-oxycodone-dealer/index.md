@@ -2,7 +2,7 @@
 Almost Six Years in Prison for Fake Oxycodone Dealer
 ---
 <article class="post-listing post-25791 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-dealer tag-fake tag-oxycodone tag-prison tag-years">
+ tag-fake tag-oxycodone tag-prison tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 22, 2018</span>

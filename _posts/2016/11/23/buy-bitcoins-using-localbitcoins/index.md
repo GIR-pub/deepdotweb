@@ -1,7 +1,7 @@
 ---
 How to buy Bitcoins using LocalBitcoins
 ---
-<article class="post-listing post-16526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-buy tag-localbitcoins">
+<article class="post-listing post-16526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-localbitcoins">
     
     <div class="post-inner">
     
@@ -52,7 +52,7 @@ How to buy Bitcoins using LocalBitcoins
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/localbitcoins/" rel="tag">localbitcoins</a></span>				<span style="display:none" class="updated">2016-11-23</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/localbitcoins/" rel="tag">localbitcoins</a></span>				<span style="display:none" class="updated">2016-11-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     
     

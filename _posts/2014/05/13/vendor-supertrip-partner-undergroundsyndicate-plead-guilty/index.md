@@ -32,7 +32,7 @@ Vendor SuperTrips Partner &#8211; &#8220;UnderGroundSyndicate&#8221; To Plead Gu
     <p>h/t <a href="https://twitter.com/kimjnews">@kimjnews</a> / <a href="https://twitter.com/lamoustache">@lamoustache</a></p>
     </div>
     <span style="display:none"> <a href="https://www.deepdotweb.com/tag/partner/" rel="tag">partner</a> <a href="https://www.deepdotweb.com/tag/plead/" rel="tag">plead</a> <a href="https://www.deepdotweb.com/tag/supertrip/" rel="tag">supertrip</a> <a href="https://www.deepdotweb.com/tag/undergroundsyndicate/" rel="tag">undergroundsyndicate</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-13</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

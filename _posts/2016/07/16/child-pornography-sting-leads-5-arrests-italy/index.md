@@ -1,7 +1,7 @@
 ---
 Child Pornography Sting Leads to 5 Arrests in Italy
 ---
-<article class="post-listing post-14817 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrests tag-child tag-italy tag-leads tag-pornography tag-sting">
+<article class="post-listing post-14817 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-italy tag-leads tag-pornography tag-sting">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 16, 2016</span>
@@ -21,7 +21,7 @@ Child Pornography Sting Leads to 5 Arrests in Italy
     <p>You can read about the Italian bust of the Babylon marketplace <a href="https://www.deepdotweb.com/2015/08/02/italian-police-bust-babylon-dark-web-market/">here</a>.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/italy/" rel="tag">italy</a> <a href="https://www.deepdotweb.com/tag/leads/" rel="tag">leads</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a> <a href="https://www.deepdotweb.com/tag/sting/" rel="tag">sting</a></span> <span style="display:none" class="updated">2016-07-16</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

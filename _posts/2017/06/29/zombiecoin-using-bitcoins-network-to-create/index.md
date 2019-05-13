@@ -1,7 +1,7 @@
 ---
 ZombieCoin &#8211; Using Bitcoin&#8217;s Network To Create Next Generation Botnets
 ---
-<article class="post-listing post-20963 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-botnets tag-create tag-generation tag-network tag-zombiecoin">
+<article class="post-listing post-20963 post type-post status-publish format-standard has-post-thumbnail hentry  tag-botnets tag-create tag-generation tag-network tag-zombiecoin">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>June 29, 2017</span>
@@ -27,7 +27,7 @@ ZombieCoin &#8211; Using Bitcoin&#8217;s Network To Create Next Generation Botne
     <p>3. Infected bots will then connect to bitcoin&#8217;s network, receive and propagate bitcoin transactions initiated by the botmaster. By adhering to bitcoin&#8217;s standard protocol, the bot&#8217;s network behavior will be indistinguishable from the behavior of honest bitcoin users.</p>
     <p>4. The botmaster will every so often broadcast C&amp;C instructions by concealing them and embedding them into bitcoin transactions.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/botnets/" rel="tag">botnets</a> <a href="https://www.deepdotweb.com/tag/create/" rel="tag">create</a> <a href="https://www.deepdotweb.com/tag/generation/" rel="tag">generation</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/zombiecoin/" rel="tag">zombiecoin</a></span> <span style="display:none" class="updated">2017-06-29</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/botnets/" rel="tag">botnets</a> <a href="https://www.deepdotweb.com/tag/create/" rel="tag">create</a> <a href="https://www.deepdotweb.com/tag/generation/" rel="tag">generation</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/zombiecoin/" rel="tag">zombiecoin</a></span> <span style="display:none" class="updated">2017-06-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

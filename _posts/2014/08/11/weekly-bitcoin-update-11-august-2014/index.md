@@ -23,7 +23,7 @@ Weekly Bitcoin Update – 11 August 2014
     <p>The Bitcoin Foundation is still wrestling with New York State&#8217;s recent “BitLicense” regulations and wishes to extend the comment period by up to six months. As Sydney Ember of <a href="http://dealbook.nytimes.com/2014/08/06/bitcoin-foundation-seeks-more-time-to-address-virtual-currency-rules/?_php=true&amp;_type=blogs&amp;_r=0">The New York Times</a> notes, the organization&#8217;s letter Benjamin M. Lawsky, the state&#8217;s superintendent of financial services, specifically cited that the Bitcoin community is “not well-versed in New York financial services law or regulation. Thus, the Foundation finds that it need more time to determine whether the regulations are beneficial for the Bitcoin community.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-08-11</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

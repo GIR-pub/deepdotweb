@@ -16,7 +16,7 @@ Agora: We Are Working On A Solution For The CSRF Issue
     <p>Again: Just disable JS on Tor browser and you should be Ok.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/csrf/" rel="tag">csrf</a> <a href="https://www.deepdotweb.com/tag/issue/" rel="tag">issue</a> <a href="https://www.deepdotweb.com/tag/solution/" rel="tag">solution</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a></span> <span style="display:none" class="updated">2015-06-13</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

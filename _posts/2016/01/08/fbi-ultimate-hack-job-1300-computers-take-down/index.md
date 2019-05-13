@@ -36,7 +36,7 @@ FBI Ultimate Hack Job, 1300 Computers Take Down
     <p>This may be one of the most successful dark web take downs for the FBI in its history. How it was done, however, may remain a mystery, while thousands of individuals will be tried with child pornography charges.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/1300/" rel="tag">1300</a> <a href="https://www.deepdotweb.com/tag/computers/" rel="tag">computers</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/job/" rel="tag">job</a> <a href="https://www.deepdotweb.com/tag/ultimate/" rel="tag">ultimate</a></span> <span style="display:none" class="updated">2016-01-08</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

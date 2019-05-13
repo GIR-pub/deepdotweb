@@ -1,7 +1,7 @@
 ---
 Site Doxx&#8217;es Judge of Silk Road Case &#8211; Calls To &#8220;Swat&#8221; Her
 ---
-<article class="post-listing post-7363 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-deepweb tag-details tag-dox tag-judge tag-personal tag-posted tag-road tag-silk">
+<article class="post-listing post-7363 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-deepweb tag-details tag-dox tag-judge tag-personal tag-posted 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 13, 2014</span>
@@ -56,7 +56,7 @@ Site Doxx&#8217;es Judge of Silk Road Case &#8211; Calls To &#8220;Swat&#8221; H
     <p>While its fine to argue if busting people like Ross is Ok or not or if he is innocent and is getting a fair trial, i &#8220;get the feeling&#8221; that posting such pages might cause much more damage and have no chance to in helping any real cause.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/details/" rel="tag">details</a> <a href="https://www.deepdotweb.com/tag/dox/" rel="tag">dox</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/posted/" rel="tag">posted</a> </span> <span style="display:none" class="updated">2014-10-13</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

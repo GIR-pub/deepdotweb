@@ -23,7 +23,7 @@ Bitcoin News Roundup – 17 Jan. 2016
     <p>ypsilon.NET joins forces with BitPay. As Gola Yashu of <a href="http://www.newsbtc.com/2016/01/14/european-travel-it-giant-embraces-bitcoin-following-partnership-with-bitpay/">NewsBtc</a> reports, the leading European travel IT company is integrating BitPay API on its platform to facilitate bitcoin payments. Patrick Götz, ypsilon.NET sales &amp; marketing director, states that <em>“As a leading IT company in an industry that is particularly hard hit by credit card fraud, we are always looking for new solutions for payment processing.”</em> The partnership is expected to offer ypsilon.NET a secure method of accepting digital currency payments on their platforms given the “extensive experience of BitPay as a payment processor for bitcoin.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jan/" rel="tag">jan</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2016-01-17</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -1,7 +1,7 @@
 ---
 Combining Bitcoin&#8217;s Zero Knowledge Proof ZKP Protocol With Graph Isomerism&#8217;s Problem
 ---
-<article class="post-listing post-17396 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-combining tag-graph tag-isomerisms tag-knowledge tag-problem tag-proof tag-protocol tag-zkp">
+<article class="post-listing post-17396 post type-post status-publish format-standard has-post-thumbnail hentry  tag-combining tag-graph tag-isomerisms tag-knowledge tag-problem tag-proof tag-protocol tag-zkp">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 8, 2017</span>
@@ -30,7 +30,7 @@ Combining Bitcoin&#8217;s Zero Knowledge Proof ZKP Protocol With Graph Isomerism
     <p>Accordingly, the presented protocol provides a zero-knowledge proof (ZKP) based on the problem of graph isomerism while promoting integrity, soundness and zero knowledge.</p>
     <p>Although zero-knowledge proof (ZKP) protocols have been first described in 1985 by Goldwasser, it is still inspiring researchers to innovate new cryptographic systems that omit the need for third parties. Just like <a href="https://www.deepdotweb.com/2016/11/25/komodo-platform-security-privacy/">the cryptocurrency project, the Komodo Platform</a>, a new cryptographic protocol has been just introduced to combine ZKP with the graph isomersim problem and soon enough we will see a new cryptocurrency that utilizes the idea.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/combining/" rel="tag">combining</a> <a href="https://www.deepdotweb.com/tag/graph/" rel="tag">graph</a> <a href="https://www.deepdotweb.com/tag/isomerisms/" rel="tag">isomerisms</a> <a href="https://www.deepdotweb.com/tag/knowledge/" rel="tag">knowledge</a> <a href="https://www.deepdotweb.com/tag/problem/" rel="tag">problem</a> <a href="https://www.deepdotweb.com/tag/proof/" rel="tag">proof</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a> <a href="https://www.deepdotweb.com/tag/zkp/" rel="tag">zkp</a></span> <span style="display:none" class="updated">2017-01-08</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/combining/" rel="tag">combining</a> <a href="https://www.deepdotweb.com/tag/graph/" rel="tag">graph</a> <a href="https://www.deepdotweb.com/tag/isomerisms/" rel="tag">isomerisms</a> <a href="https://www.deepdotweb.com/tag/knowledge/" rel="tag">knowledge</a> <a href="https://www.deepdotweb.com/tag/problem/" rel="tag">problem</a> <a href="https://www.deepdotweb.com/tag/proof/" rel="tag">proof</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a> <a href="https://www.deepdotweb.com/tag/zkp/" rel="tag">zkp</a></span> <span style="display:none" class="updated">2017-01-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

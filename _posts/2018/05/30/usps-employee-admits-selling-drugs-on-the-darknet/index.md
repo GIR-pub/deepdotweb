@@ -2,7 +2,7 @@
 USPS Employee Admits Selling Drugs on the Darknet
 ---
 <article class="post-listing post-25869 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-admits tag-darknet tag-employee tag-selling tag-usps">
+ tag-admits tag-darknet tag-selling tag-usps">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 30, 2018</span>

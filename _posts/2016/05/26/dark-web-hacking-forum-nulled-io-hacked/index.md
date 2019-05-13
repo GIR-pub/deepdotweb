@@ -17,7 +17,7 @@ Dark Web Hacking Forum Nulled.io Hacked
     <p>The identity of the team that took down Nulled&#8217;s database is not known, however, it could be possible that governments are taking a more aggressive approach on websites associated with hacking activities.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/nulledio/" rel="tag">nulledio</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-05-26</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

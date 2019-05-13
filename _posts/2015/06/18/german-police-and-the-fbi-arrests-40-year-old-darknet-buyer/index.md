@@ -1,7 +1,7 @@
 ---
 German Police And The FBI Arrests 40-year-old DarkNet Buyer
 ---
-<article class="post-listing post-10864 post type-post status-publish format-standard hentry category-news tag-40yearold tag-arrests tag-buyer tag-darknet tag-fbi tag-german tag-police">
+<article class="post-listing post-10864 post type-post status-publish format-standard hentry category-news tag-40yearold tag-buyer tag-darknet tag-fbi tag-german tag-police">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 18, 2015</span>
@@ -59,7 +59,7 @@ German Police And The FBI Arrests 40-year-old DarkNet Buyer
     
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/40yearold/" rel="tag">40yearold</a> <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2015-06-18</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

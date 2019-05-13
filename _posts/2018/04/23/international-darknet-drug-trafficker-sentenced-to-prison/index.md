@@ -2,7 +2,7 @@
 International Darknet Drug Trafficker Sentenced to Prison
 ---
 <article class="post-listing post-25463 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-darknet tag-drug tag-international tag-prison tag-sentenced tag-trafficker">
+ tag-darknet tag-international tag-prison tag-sentenced tag-trafficker">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 23, 2018</span>

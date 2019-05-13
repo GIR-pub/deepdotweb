@@ -24,7 +24,7 @@ Weekly Bitcoin Update – 2 August 2014
     <p>Remaining on the subject of nonprofits and charitable organizations, the Royal National Lifeboat Institution announced this week that it would begin to accept donations in the form of Bitcoin. As Howard Lake of <a href="http://www.fundraising.co.uk/2014/07/31/rnli-accept-donations-bitcoin/">UKFundraising</a> reports, the RNLI claims to be “the first major charity in the UK or Ireland to accept Bitcoin.” Deputy Director of Fundraising and Communications Leesa Harwood not only linked the RNLI&#8217;s decision to the organization&#8217;s history of fundraising innovation, staking claim to the first street collection in 1891, but also that Bitcoin could help to link the RNLI with “new types of supporters.”</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-08-02</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

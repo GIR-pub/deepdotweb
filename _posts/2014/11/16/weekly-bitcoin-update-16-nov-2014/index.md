@@ -28,7 +28,7 @@ Weekly Bitcoin Update – 16 Nov. 2014
     <p>While cryptocurrency advocates may view Bitcoin as a solution to today&#8217;s market conditions, Western Union CIO John David Thompson holds a starkly different stance on the digital currency&#8217;s potential. <a href="http://www.forexminute.com/bitcoin/cio-western-union-john-david-thompson-says-bitcoin-solution-todays-market-49888">Forexminute</a> writes on Thompson&#8217;s stance, which could be in contrast to earlier statements from the money transfer facilitator&#8217;s CEO, Hikmet Ersek. While Thompson does not believe the cryptocurrency can solve the issues within today&#8217;s marketplace, he does state that it represents an innovative technology for the transaction and exchange of information.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-11-16</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

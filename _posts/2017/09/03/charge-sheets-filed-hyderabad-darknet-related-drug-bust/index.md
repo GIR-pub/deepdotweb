@@ -2,7 +2,7 @@
 Charge Sheets to Be Filed On the Hyderabad Darknet Related Drug Bust
 ---
 <article class="post-listing post-22338 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-bust tag-charge tag-darknet tag-drug tag-filed tag-hyderabad tag-related tag-sheets">
+ tag-bust tag-charge tag-darknet tag-filed tag-hyderabad tag-sheets">
     
     <div class="post-inner">
     

@@ -2,7 +2,7 @@
 Trump Enacts Law to Help the Postal Service in Stopping Drug Trafficking
 ---
 <article class="post-listing post-27307 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-drug tag-enacts tag-law tag-postal tag-stopping tag-trafficking tag-trump">
+ tag-enacts tag-law tag-postal tag-stopping tag-trafficking tag-trump">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>November 20, 2018</span>

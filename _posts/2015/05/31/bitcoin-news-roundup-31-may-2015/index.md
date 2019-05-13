@@ -26,7 +26,7 @@ Bitcoin News Roundup – 31 May 2015
     <p>ChainPay, the global bitcoin gateway partners with Payment Goblin to facilitate seamless bitcoin transactions. According to <a href="http://insidebitcoins.com/news/chainpay-partners-with-payment-goblin-users-can-accept-bitcoin/32821">Bitcoinist.net</a>, the partnership will enable the customers of Payment Goblin, the UK-based payment processor, to accept bitcoin by using its API. According to an announcement by Payment Goblin “<em>Through this partnership, we hope to introduce merchants currently using traditional card payments to the benefits of digital currency.”</em></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/31/" rel="tag">31</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-05-31</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

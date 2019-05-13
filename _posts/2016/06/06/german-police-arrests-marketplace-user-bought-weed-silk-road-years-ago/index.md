@@ -1,7 +1,7 @@
 ---
 German Police Arrests User Who Bought Weed On Silk Road Years Ago
 ---
-<article class="post-listing post-14416 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrests tag-bought tag-german tag-marketplace tag-police tag-road tag-silk tag-user tag-weed tag-years">
+<article class="post-listing post-14416 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bought tag-german tag-marketplace tag-police tag-user tag-weed tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>June 6, 2016</span>

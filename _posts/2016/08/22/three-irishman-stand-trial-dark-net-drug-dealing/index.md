@@ -1,7 +1,7 @@
 ---
 Three Irishmen to Stand Trial for Dark Net Drug Dealing
 ---
-<article class="post-listing post-15183 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-dealing tag-drug tag-irishman tag-net tag-stand tag-trial">
+<article class="post-listing post-15183 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-dealing tag-irishman tag-net tag-stand tag-trial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>August 22, 2016</span>

@@ -120,7 +120,7 @@ Silk Road Tales: Oracle&#8217;s Memoirs
     <p>Oh, and here’s a final tidbit of&#8230;&#8230;  [ends &#8211; will be added if a full version is ever released]
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/memoirs/" rel="tag">memoirs</a> <a href="https://www.deepdotweb.com/tag/oracle/" rel="tag">oracle</a></span> <span style="display:none" class="updated">2014-06-29</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

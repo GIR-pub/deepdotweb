@@ -31,7 +31,7 @@
     <p>“It is hard to put into words the sheer depravity of this case. For almost nine years, Richard Huckle subjected at least 23 children, some of them very young, to the most horrifying abuse imaginable. Due to the determination of the CPS and investigating authorities, this dangerous man has been brought to justice and is no longer a risk to children,” Anthony Hill, the International Justice and Organized Crime Prosecutor at the Crown Prosecution Service said about Huckle.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/22/" rel="tag">22</a> <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/life/" rel="tag">life</a> <a href="https://www.deepdotweb.com/tag/pedofunding/" rel="tag">pedofunding</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/sentences/" rel="tag">sentences</a></span> <span style="display:none" class="updated">2016-06-12</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

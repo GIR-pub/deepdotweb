@@ -33,7 +33,7 @@ Introducing: DeepDotWeb Q&#038;A Beta System
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/beta/" rel="tag">beta</a> <a href="https://www.deepdotweb.com/tag/deepdotweb/" rel="tag">deepdotweb</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/qa/" rel="tag">qa</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a></span>				<span style="display:none" class="updated">2014-05-17</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

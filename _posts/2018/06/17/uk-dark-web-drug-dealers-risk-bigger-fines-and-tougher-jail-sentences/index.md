@@ -2,7 +2,7 @@
 UK Dark Web Drug Dealers Risk Bigger Fines and Tougher Jail Sentences
 ---
 <article class="post-listing post-26041 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-bigger tag-dark tag-dealers tag-drug tag-fines tag-risk tag-sentences tag-tougher tag-uk tag-web">
+ tag-bigger tag-dark tag-dealers tag-fines tag-risk tag-sentences tag-tougher tag-uk tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>June 17, 2018</span>

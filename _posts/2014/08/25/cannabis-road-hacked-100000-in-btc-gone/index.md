@@ -1,7 +1,7 @@
 ---
 Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone
 ---
-<article class="post-listing post-6866 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1899 tag-175 tag-bitcoins tag-cannabis tag-hacked tag-road">
+<article class="post-listing post-6866 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1899tag-cannabis tag-hacked tag-road">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>August 25, 2014</span>
@@ -63,8 +63,8 @@ Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone
     <div class="wp-socializer-clearer"></div></div>
     
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/100000/" rel="tag">100000</a> <a href="https://www.deepdotweb.com/tag/200/" rel="tag">200</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/cannabis/" rel="tag">cannabis</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a></span> <span style="display:none" class="updated">2014-08-25</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/100000/" rel="tag">100000</a>  <a href="https://www.deepdotweb.com/tag/cannabis/" rel="tag">cannabis</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a></span> <span style="display:none" class="updated">2014-08-25</span>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

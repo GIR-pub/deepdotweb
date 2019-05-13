@@ -39,7 +39,7 @@ HHS Security Director Sentenced to 25 Years for Tor-Network-Based CP
     <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/251819383/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_23790" frameborder="0"></iframe></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/25/" rel="tag">25</a> <a href="https://www.deepdotweb.com/tag/cp/" rel="tag">cp</a> <a href="https://www.deepdotweb.com/tag/director/" rel="tag">director</a> <a href="https://www.deepdotweb.com/tag/hhs/" rel="tag">hhs</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/tornetworkbased/" rel="tag">tornetworkbased</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2015-01-06</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

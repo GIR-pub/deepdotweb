@@ -2,7 +2,7 @@
 Marijuana Dealer Sentenced to Five Years in Prison
 ---
 <article class="post-listing post-25625 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-dealer tag-marijuana tag-prison tag-sentenced tag-years">
+ tag-marijuana tag-prison tag-sentenced tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 8, 2018</span>
@@ -18,7 +18,8 @@ Marijuana Dealer Sentenced to Five Years in Prison
 <p>Not long after the conviction, Mack had already started selling marijuana to Polson and others unknown to authorities. His money laundering tactics, according to the court documents, involved two basic tactics: use bank accounts associated with fake businesses and keep the deposits under $10,000. The IRS caught on fairly easily and included print-outs of the bank statements in court documents. Both Polson and Mack, during the investigation, found themselves in unrelated cases that required forfeitures of their own. Polson already forfeited his Corvette and Camaro LT—both of which he had purchased with drug money.</p>
 <p>If Polson behaves while in federal prison, he will be out in roughly 51 months.</p>
 </div>
-<span style="display:none"> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-05-08<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-05-08</span>
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

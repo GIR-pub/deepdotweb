@@ -29,7 +29,7 @@ RT: TOR is NOT PRISM Proof
     <p><span style="text-decoration: underline;">Source of information</span>: <a href="http://rt.com/news/159396-nsa-tor-ineffective-microsoft/">http://rt.com/news/159396-nsa-tor-ineffective-microsoft/</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/prism/" rel="tag">prism</a> <a href="https://www.deepdotweb.com/tag/proof/" rel="tag">proof</a> <a href="https://www.deepdotweb.com/tag/rt/" rel="tag">rt</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2014-05-18</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

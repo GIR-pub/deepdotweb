@@ -27,7 +27,7 @@ Researchers Reveal DDoS Attacks Rewards
     <p>However, websites can take legal actions towards the mining operations.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/researchers/" rel="tag">researchers</a> <a href="https://www.deepdotweb.com/tag/reveal/" rel="tag">reveal</a> <a href="https://www.deepdotweb.com/tag/rewards/" rel="tag">rewards</a></span> <span style="display:none" class="updated">2016-08-23</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

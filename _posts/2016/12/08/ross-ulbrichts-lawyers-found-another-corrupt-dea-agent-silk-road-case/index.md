@@ -1,7 +1,7 @@
 ---
 Ross Ulbricht’s Lawyers Found a Another Corrupt DEA Agent in Silk Road Case
 ---
-<article class="post-listing post-16794 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agent tag-case tag-corrupt tag-dea tag-lawyers tag-road tag-ross tag-silk tag-ulbrichts">
+<article class="post-listing post-16794 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agent tag-case tag-corrupt tag-dea tag-lawyers  tag-ulbrichts">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 8, 2016</span>

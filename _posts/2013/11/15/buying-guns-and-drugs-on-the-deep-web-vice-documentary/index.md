@@ -1,7 +1,7 @@
 ---
 title: Buying Guns and Drugs on the Deep Web (Vice Documentary)
 ---
-1350 tag-buying tag-deep tag-documentary tag-guns tag-vice tag-web 
+1350 tag-buying tag-deep tag-guns tag-vice tag-web 
 
 <iframe width="660" height="371" src="http://www.youtube.com/embed/HJOSm9Bg7WY?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     
@@ -67,6 +67,7 @@ title: Buying Guns and Drugs on the Deep Web (Vice Documentary)
     
     
 <span style="display:none"><a href="http://www.deepdotweb.com/tag/buying/" rel="tag">buying</a> <a href="http://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="http://www.deepdotweb.com/tag/documentary/" rel="tag">documentary</a> <a href="http://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="http://www.deepdotweb.com/tag/guns/" rel="tag">guns</a> <a href="http://www.deepdotweb.com/tag/vice/" rel="tag">vice</a> <a href="http://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				
+
 Updated: 2013-11-15</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     

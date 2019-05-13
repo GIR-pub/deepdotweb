@@ -1,7 +1,7 @@
 ---
 title: Sum up: The Arrest of Silk Road Admins/Mods SSBD, Libertas &#038; Inigo
 ---
-2805  tag-adminsmods tag-inigo tag-libertas tag-road tag-silk tag-ssbd">
+2805  tag-adminsmods tag-inigo tag-libertas tag-ssbd">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 21, 2013</span>
@@ -55,4 +55,5 @@ title: Sum up: The Arrest of Silk Road Admins/Mods SSBD, Libertas &#038; Inigo
 <p>We feel very bad for these yet another 3 victims of the war on drugs, and we will  be following and releasing more information as we will have it.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/adminsmods/" rel="tag">adminsmods</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/inigo/" rel="tag">inigo</a> <a href="https://www.deepdotweb.com/tag/libertas/" rel="tag">libertas</a>  <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a>
+
 Updated: 2013-12-21

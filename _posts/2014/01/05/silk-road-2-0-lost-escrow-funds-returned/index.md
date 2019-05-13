@@ -1,7 +1,7 @@
 ---
 Silk Road 2.0: Lost Escrow Funds returned!
 ---
-post-3133 post type-post status-publish format-standard has-post-thumbnail hentry tag-escrow tag-funds tag-lost tag-returned tag-road tag-silk">
+post-3133 post type-post status-publish format-standard has-post-thumbnail hentry tag-escrow tag-funds tag-lost tag-returned 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 5, 2014</span>
@@ -48,7 +48,7 @@ post-3133 post type-post status-publish format-standard has-post-thumbnail hentr
     <p>&nbsp;</p>
     </div>
      <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/lost/" rel="tag">lost</a> <a href="https://www.deepdotweb.com/tag/returned/" rel="tag">returned</a> </span> <span style="display:none" class="updated">2014-01-05</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

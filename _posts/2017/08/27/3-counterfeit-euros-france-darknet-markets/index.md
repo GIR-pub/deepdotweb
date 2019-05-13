@@ -22,7 +22,7 @@ Only 3% of Counterfeit Euros in France from Darknet Markets
     <p>The darknet counterfeits in France usually come from the Netherlands, according to the director. And naturally, with 73 percent of the notes coming from Italy via traditional methods, the darknet is not a major concern in France—as far as counterfeit currency goes.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/euros/" rel="tag">euros</a> <a href="https://www.deepdotweb.com/tag/france/" rel="tag">france</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a></span> <span style="display:none" class="updated">2017-08-27</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

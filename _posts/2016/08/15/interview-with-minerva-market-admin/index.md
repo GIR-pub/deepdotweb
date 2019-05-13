@@ -77,7 +77,7 @@ Interview With Minerva Market Admin
     <p>Thanks for taking the time to read a bit about us and our market. We hope you give us a try and see the Minerva experience. We really believe buyers deserve more from the markets out there. Markets are raking in profits and not giving back to the community that sustains them. We hope to set an example that all DNM will come to follow. In time we will get bigger and be able to do more. Any feedback you would like to give us, any questions or concerns feel free to email us at: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3c515552594e4a5d5852517c4f555b5d55524812534e5b">[email&#160;protected]</a> you can find our PGP key at: <a href="http://pgp.mit.edu/pks/lookup?op=get&amp;search=0x815799B5A9B86768" target="_blank">http://pgp.mit.edu/pks/lookup?op=get&amp;search=0x815799B5A9B86768</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/minerva/" rel="tag">minerva</a></span> <span style="display:none" class="updated">2016-08-15</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

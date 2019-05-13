@@ -1,7 +1,7 @@
 ---
 OP-ED: Agora, Where’s My BTC (and your consistency), Bitch?
 ---
-<article class="post-listing post-11380 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-bitch tag-btc tag-consistency tag-oped">
+<article class="post-listing post-11380 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-bitch tag-consistency tag-oped">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
 <span>August 31, 2015</span>

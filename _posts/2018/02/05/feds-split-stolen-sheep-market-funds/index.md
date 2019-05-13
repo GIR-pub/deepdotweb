@@ -2,7 +2,7 @@
 Feds Split Up Stolen Sheep Market Funds
 ---
 <article class="post-listing post-24682 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-feds tag-funds tag-sheep tag-split tag-stolen">
+ tag-funds tag-sheep tag-split tag-stolen">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 5, 2018</span>

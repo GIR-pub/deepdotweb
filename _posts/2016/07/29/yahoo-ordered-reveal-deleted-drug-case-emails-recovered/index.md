@@ -1,7 +1,7 @@
 ---
 Yahoo Ordered to Reveal How Deleted Drug Case Emails Were Recovered
 ---
-<article class="post-listing post-14952 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-deleted tag-drug tag-emails tag-ordered tag-recovered tag-reveal tag-yahoo">
+<article class="post-listing post-14952 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-deleted tag-emails tag-ordered tag-recovered tag-reveal tag-yahoo">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 29, 2016</span>

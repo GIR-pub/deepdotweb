@@ -23,7 +23,7 @@ Bitcoin News Roundup – 16 May 2015
     <p>CoinGaming.io, the popular online bitcoin casino, enters a partnership with XIN Gaming. As Scott Fargo of <a href="http://insidebitcoins.com/news/coingaming-io-expands-its-bitcoin-gambling-platform-through-xin-gaming-partnership/32524">Inside Bitcoins</a> writes, the China-based game developer is a global B2B supplier of digitally distributed casino games and systems. Given the Coinaming.io hosts over 700 casino slots games, dice games, and live dealers for table games, the partnership is expected to raise awareness about the digital currency in the gaming platforms and heavily introducing the bitcoin to the rising iGaming industry.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-05-16</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

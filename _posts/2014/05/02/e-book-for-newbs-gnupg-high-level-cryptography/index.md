@@ -45,7 +45,7 @@ E-Book Recommendation: GnuPG &#8211; High Level Cryptography
     <p><strong>Related</strong>: <a href="http://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/">PGP Tutorial For Newbs (Gpg4Win)</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/cryptography/" rel="tag">cryptography</a> <a href="https://www.deepdotweb.com/tag/ebook/" rel="tag">ebook</a> <a href="https://www.deepdotweb.com/tag/gnupg/" rel="tag">gnupg</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/level/" rel="tag">level</a> <a href="https://www.deepdotweb.com/tag/recommendation/" rel="tag">recommendation</a></span> <span style="display:none" class="updated">2014-05-02</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

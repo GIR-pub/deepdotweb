@@ -22,7 +22,7 @@ Small and medium-sized businesses are for Bitcoin. What are the benefits?
     <p>For more information, please visit <a href="http://bitcoinconf.eu/en">the event website.</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/benefits/" rel="tag">benefits</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/businesses/" rel="tag">businesses</a> <a href="https://www.deepdotweb.com/tag/mediumsized/" rel="tag">mediumsized</a> <a href="https://www.deepdotweb.com/tag/small/" rel="tag">small</a></span> <span style="display:none" class="updated">2016-04-05</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

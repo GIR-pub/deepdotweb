@@ -1,7 +1,7 @@
 ---
 2 Silk Road Buyers Convicted In New Zeland
 ---
-<article class="post-listing post-8579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyers tag-convicted tag-road tag-silk tag-zeland">
+<article class="post-listing post-8579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyers tag-convicted tag-zeland">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 9, 2014</span>
@@ -17,7 +17,7 @@
     <p>Fowler had also been caught with a cannabis growing operation and he pleaded guilty to possession of cannabis for supply&#8230; Clark was originally charged with importing the Ecstasy but that charge was dropped.</p></blockquote>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/buyers/" rel="tag">buyers</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a>  <a href="https://www.deepdotweb.com/tag/zeland/" rel="tag">zeland</a></span> <span style="display:none" class="updated">2014-12-09</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

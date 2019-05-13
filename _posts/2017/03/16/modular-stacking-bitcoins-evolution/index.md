@@ -2,7 +2,7 @@
 Modular Stacking and Bitcoin&#8217;s Evolution
 ---
 <article class="post-listing post-18646 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-bitcoins tag-evolution tag-modular tag-stacking">
+tag-evolution tag-modular tag-stacking">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 16, 2017</span>
@@ -29,7 +29,7 @@ tag-bitcoins tag-evolution tag-modular tag-stacking">
 <p>2. Markedly boosting the network&#8217;s versatility via a wide variety of extensions beyond being a digital currency.</p>
 <p>3. Serve as a risk-free sandbox for future experiments that can be later implemented on wider scales.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/modular/" rel="tag">modular</a> <a href="https://www.deepdotweb.com/tag/stacking/" rel="tag">stacking</a></span> <span style="display:none" class="updated">2017-03-16<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/modular/" rel="tag">modular</a> <a href="https://www.deepdotweb.com/tag/stacking/" rel="tag">stacking</a></span> <span style="display:none" class="updated">2017-03-16<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
 </div>
 </article>
 

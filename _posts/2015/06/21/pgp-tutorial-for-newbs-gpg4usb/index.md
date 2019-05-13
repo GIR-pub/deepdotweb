@@ -73,7 +73,7 @@ PGP Tutorial For Newbs Gpg4usb
     <p>If you&#8217;ve followed the above steps and understood each one you&#8217;re on your way to increased privacy in a world that wants to invade it. PGP can seem complicated at first, but once you learn it you&#8217;ll laugh at yourself for thinking it was so hard. Even if you still think it&#8217;s complicated or a waste of time, just keep in mind that taking an extra 60 seconds out of your day could possible save you from serving 5+ years in prison.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/gpg4usb/" rel="tag">gpg4usb</a> <a href="https://www.deepdotweb.com/tag/newbs/" rel="tag">newbs</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-06-21</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

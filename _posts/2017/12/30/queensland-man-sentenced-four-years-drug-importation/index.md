@@ -1,7 +1,7 @@
 ---
 Queensland Man Sentenced to Four Years for Drug Importation
 ---
-<article class="post-listing post-24194 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-importation tag-man tag-queensland tag-sentenced tag-years">
+<article class="post-listing post-24194 post type-post status-publish format-standard has-post-thumbnail hentry  tag-importation tag-man tag-queensland tag-sentenced tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 30, 2017</span>

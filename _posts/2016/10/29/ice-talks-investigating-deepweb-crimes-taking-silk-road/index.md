@@ -1,7 +1,7 @@
 ---
 ICE Talks About Investigating Deepweb Crimes and Taking Down Silk Road
 ---
-<article class="post-listing post-16155 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crimes tag-deepweb tag-ice tag-investigating tag-road tag-silk tag-talks">
+<article class="post-listing post-16155 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crimes tag-deepweb tag-ice tag-investigating tag-talks">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 29, 2016</span>

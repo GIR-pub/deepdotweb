@@ -1,7 +1,7 @@
 ---
 Two Drug Dealers Busted In India
 ---
-<article class="post-listing post-12668 post type-post status-publish format-standard hentry category-news tag-busted tag-dealers tag-drug tag-india">
+<article class="post-listing post-12668 post type-post status-publish format-standard hentry category-news tag-busted tag-dealers tag-india">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>December 22, 2015</span>

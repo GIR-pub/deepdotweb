@@ -1,7 +1,7 @@
 ---
 Law Enforcement Arrested 900 PlayPen Users Worldwide
 ---
-<article class="post-listing post-20003 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5454 tag-enforcement tag-law tag-playpen tag-users tag-worldwide">
+<article class="post-listing post-20003 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5454 tag-enforcement tag-law tag-playpen tag-users wide">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 20, 2017</span>

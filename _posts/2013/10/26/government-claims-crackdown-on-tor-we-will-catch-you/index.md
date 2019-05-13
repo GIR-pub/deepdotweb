@@ -1,7 +1,7 @@
 ---
 title: Government Claims Crackdown On Tor: “We will catch you”
 ---
-854  tag-catch tag-claims tag-crackdown tag-government 
+
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 26, 2013</span>
@@ -21,6 +21,6 @@ title: Government Claims Crackdown On Tor: “We will catch you”
 <p><em>“Law-enforcement bodies can only operate within their own jurisdictions and enforce the laws that apply within their own countries. They will never win the battle against international cyber crime without bringing in private agencies to help.&#8221;</em></p>
 <p>In fact, when Edward Snowden leaked classified information in the summer of 2013, documents revealed that even the NSA was not able to scratch the surface of the Tor network. While they may be able to do some investigative work, it takes massive amounts of resources and time to track a single individual. As for tracking the masses, even the NSA admits that they are not even close.</p>
 <p>Even in the case of taking down Silk Road, the FBI was forced to use conventional, real-world methods, such as sting operations, informants, staged assassinations, and the physical seizure of servers. As for their claims on peeling back the ‘Onion Network’ of Tor, it may be more of a bluff than a promise.</p>
-</div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a>
+
+
 Updated: 2013-10-26

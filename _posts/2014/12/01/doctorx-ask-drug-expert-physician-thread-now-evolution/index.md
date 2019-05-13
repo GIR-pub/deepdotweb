@@ -1,7 +1,7 @@
 ---
 DoctorX “Ask a Drug Expert Physician” Thread – Now On Evolution!
 ---
-<article class="post-listing post-8513 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorx tag-drug tag-evolution tag-expert tag-physician tag-thread">
+<article class="post-listing post-8513 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorx tag-evolution tag-expert tag-physician tag-thread">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 1, 2014</span>
@@ -34,7 +34,7 @@ DoctorX “Ask a Drug Expert Physician” Thread – Now On Evolution!
     <p><span style="color: #0000ff;"><strong>http://i25c62nvu4cgeqyz.onion/<wbr />viewtopic.php?id=35190</strong></span></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/doctorx/" rel="tag">doctorx</a>  <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/physician/" rel="tag">physician</a> <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> <span style="display:none" class="updated">2014-12-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

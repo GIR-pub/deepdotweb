@@ -22,7 +22,7 @@ Introducing: Jolly Roger&#8217;s Security Guide for Beginners
     <p>We thank the Jolly Roger for his contribution!</p>
     </div>
     <span style="display:none" class="updated">2014-02-13</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

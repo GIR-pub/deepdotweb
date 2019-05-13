@@ -1,7 +1,7 @@
 ---
 University Helped FBI In Silk Road 2 And Child Porn Busts
 ---
-<article class="post-listing post-12165 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busts tag-child tag-fbi tag-helped tag-porn tag-road tag-silk tag-university">
+<article class="post-listing post-12165 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busts tag-child tag-fbi tag-helped tag-porn tag-university">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 15, 2015</span>

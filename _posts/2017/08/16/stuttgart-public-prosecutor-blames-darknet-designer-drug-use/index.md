@@ -1,7 +1,7 @@
 ---
 Stuttgart Public Prosecutor Blames Darknet for Designer Drug Use
 ---
-<article class="post-listing post-21994 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blames tag-darknet tag-designer tag-drug tag-prosecutor tag-public tag-stuttgart">
+<article class="post-listing post-21994 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blames tag-darknet tag-designer tag-prosecutor tag-public tag-stuttgart">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 16, 2017</span>

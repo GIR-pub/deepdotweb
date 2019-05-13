@@ -1,7 +1,7 @@
 ---
 Supreme Court to Hear Alleged Silk Road Admin’s Appeal
 ---
-<article class="post-listing post-18914 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admins tag-alleged tag-appeal tag-court tag-hear tag-road tag-silk tag-supreme">
+<article class="post-listing post-18914 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admins tag-alleged tag-appeal tag-court tag-hear tag-supreme">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 1, 2017</span>

@@ -1,7 +1,7 @@
 ---
 PSA: The DNMAvengers Harm Reduction and Drug Testing Forum
 ---
-<article class="post-listing post-12304 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dnmavengers tag-drug tag-forum tag-harm tag-psa tag-reduction tag-testing">
+<article class="post-listing post-12304 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dnmavengers tag-forum tag-harm tag-psa tag-reduction tag-testing">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 21, 2015</span>

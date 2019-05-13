@@ -24,7 +24,7 @@ Weekly Bitcoin Update – 7 September 2014
     <p>Vox editor Ezra Klein, a regular contributor to Bloomberg News and The Rachel Maddow Show on MSNBC, <a href="http://www.vox.com/2014/9/5/6110897/we-made-the-wrong-call-on-buying-bitcoins">stated</a> that allowing Lee to invest in the cryptocurrency was the wrong decision. Klein stated that he had an issue categorizing bitcoin investments, but decided to allow the publishing of the story based upon the fact that “buying, holding and selling Bitcoins is, itself, part of the Bitcoin story.” Upon realizing the conflict of interest in Lee&#8217;s story, Klein stated the posting of the article was his fault and apologized. Lee will be selling the bitcoins he purchased and any proceeds from the sale will be going to charity.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2014-09-07</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

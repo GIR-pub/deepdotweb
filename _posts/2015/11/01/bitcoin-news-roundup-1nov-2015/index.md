@@ -22,7 +22,7 @@ Bitcoin News Roundup – 1Nov. 2015
     <p>Bitfinex, one of the leading bitcoin exchanges, partners with Blade Payments to launch real-time bitcoin debit card. As Carlo Thomas of <a href="https://coinreport.net/bitfinex-blade-payments-announce-partnership-real-time-bitcoin-debit-card/">Coin Report</a> writes, Bitfinex, the bitcoin trading platform and Blade Payments, the digital payment processor, join forces to offer real-time bitcoin debit cards to Bitfinex customers. Holders of the Blade cards will be able to purchase goods from online retailers and brick-and-mortar stores as well as withdraw money from the Bitfinex account using any ATM around the world. The partnership is expected to provide a reliable solution to the liquidity problem that many bitcoin users are facing.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/1nov/" rel="tag">1nov</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-11-01</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

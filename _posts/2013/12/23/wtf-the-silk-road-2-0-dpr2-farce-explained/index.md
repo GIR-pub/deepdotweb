@@ -1,7 +1,7 @@
 ---
 title: WTF? The Silk Road 2.0 / DPR2 Farce Explained
 ---
-2850  tag-dpr tag-farce tag-road tag-silk tag-wtf">
+2850  tag-farce tag-wtf">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 23, 2013</span>
@@ -52,5 +52,5 @@ title: WTF? The Silk Road 2.0 / DPR2 Farce Explained
 <p><a href="/imgs/2013/12/oracle8.png"><img class="aligncenter  wp-image-2858" alt="oracle8" src="/imgs/2013/12/oracle8.png" width="636" height="312" srcset="/imgs/2013/12/oracle8.png 1152w, /imgs/2013/12/oracle8-300x147.png 300w, /imgs/2013/12/oracle8-1024x503.png 1024w" sizes="(max-width: 636px) 100vw, 636px"/></a></p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a> <a href="https://www.deepdotweb.com/tag/farce/" rel="tag">farce</a>  <a href="https://www.deepdotweb.com/tag/wtf/" rel="tag">wtf</a>
-Updated: 2013-12-23</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+
+Updated: 2013-12-23

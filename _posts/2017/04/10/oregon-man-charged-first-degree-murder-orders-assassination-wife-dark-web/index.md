@@ -10,7 +10,7 @@ Oregon Man Charged For First-Degree Murder, Orders Assassination of His Wife in 
     </p>
     <div class="clear"></div>
     <div class="entry">
-    <p>Stephen Carl Allwine from Cottage Grove, Oregon, who previously made contacts in the Dark Web to plot an assassination of his wife, was indicted by a Washington County grand jury for premeditated first-degree murder.</p>
+    <p>Stephen Carl Allwine from Cotage Grove, Oregon, who previously made contacts in the Dark Web to plot an assassination of his wife, was indicted by a Washington County grand jury for premeditated first-degree murder.</p>
     <p><img class="wp-image-19112 aligncenter" src="/imgs/2017/04/word-image-34.png" srcset="/imgs/2017/04/word-image-34.png 620w, /imgs/2017/04/word-image-34-300x169.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
     <p>&nbsp;</p>
     <p>On March 24, the Washington County District Court officially increased the potential sentence of Allwine from second-degree to first-degree murder, considering the newly acquired pieces of evidence submitted by state prosecutors. One of the newly uncovered evidence was the drug level of the body of Amy Allwine when it was found late last year. Investigators discovered that Amy took a dosage of scopolamine which was 45 times higher than the recommended level.</p>
@@ -23,7 +23,7 @@ Oregon Man Charged For First-Degree Murder, Orders Assassination of His Wife in 
     <p>When the court finally decided to elevate the charge of Allwine from second-degree to first-degree murder and increase his bail, Washington County Attorney Pete Orput stated that the family of Amy and himself are trusting in the grand jury process and pursue necessary legal proceedings in a transparent and just manner.</p>
     <p>&#8220;We have great faith in the grand jury process and those people serving on the grand jury exercising their civic responsibility,&#8221; <a href="http://www.wctrib.com/news/4240204-grand-jury-indicts-allwine-first-degree-murder">said</a> Orput.</p>
     <p>As of now, local publications are unsure if Allwine accepted the conditional bail of $1 million offered by Judge Ekstrum. However, state prosecutors and attorneys including Orput are confident that the newly uncovered pieces of evidences including the transaction history of Allwine’s bitcoin wallet and the drug level of Amy’s body will be sufficient to prove Allwine guilty of his charge.</p>
-    <p>In January, Twin Cities <a href="http://www.twincities.com/2017/01/18/charges-link-cottage-grove-man-to-flubbed-murder-for-hire-cover-up-in-wifes-killing/">reported:</a></p>
+    <p>In January, Twin Cities <a href="http://www.twincities.com/2017/01/18/charges-link-cotage-grove-man-to-flubbed-murder-for-hire-cover-up-in-wifes-killing/">reported:</a></p>
     <p>“Authorities later connected Stephen Allwine to dogdaygod by a 35-character bitcoin address used on one of Allwine’s smartphones. Allwine’s smartphones also helped authorities confirm an affair he had with a woman he met on Ashley Madison, a website for those seeking extramarital affairs. The romance lasted a few months before fizzling in February.”</p>
     <p>In the upcoming weeks, investigators plan to focus on unraveling the identity of darknet marketplace operator dogdaygod and connecting Allwine’s bitcoin addresses to darknet purchases.</p>
     </div>

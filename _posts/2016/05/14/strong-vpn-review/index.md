@@ -97,7 +97,7 @@ Strong VPN Review
     <p><a href="http://strongvpn.com/?offer_id=4&amp;aff_id=2555" target="_blank"><strong>&gt;&gt; Click HERE to Visit the Strong VPN Official Site &lt;&lt;</strong></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-05-14</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

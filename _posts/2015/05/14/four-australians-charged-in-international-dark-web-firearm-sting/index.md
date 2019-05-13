@@ -39,7 +39,7 @@
     <p><a href="/imgs/2015/05/QLD-guns-311.jpg"><img class="aligncenter size-full wp-image-10309" src="/imgs/2015/05/QLD-guns-311.jpg" alt="QLD-guns-31[1]" width="810" height="488" srcset="/imgs/2015/05/QLD-guns-311.jpg 810w, /imgs/2015/05/QLD-guns-311-300x181.jpg 300w" sizes="(max-width: 810px) 100vw, 810px"/></a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/australians/" rel="tag">australians</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/firearm/" rel="tag">firearm</a> <a href="https://www.deepdotweb.com/tag/international/" rel="tag">international</a> <a href="https://www.deepdotweb.com/tag/sting/" rel="tag">sting</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-05-14</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

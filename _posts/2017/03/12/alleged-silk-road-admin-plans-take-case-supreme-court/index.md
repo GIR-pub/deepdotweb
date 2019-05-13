@@ -2,7 +2,7 @@
 Alleged Silk Road Admin Plans to Take Case to the Supreme Court
 ---
 <article class="post-listing post-18640 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-admin tag-alleged tag-case tag-court tag-plans tag-road tag-silk tag-supreme">
+ tag-admin tag-alleged tag-case tag-court tag-plans tag-supreme">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 12, 2017</span>

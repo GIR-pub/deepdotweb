@@ -24,7 +24,7 @@ Bitcoin Price Update Oct. 18th, 2014
     <p>And that is what happened during this past week on the Bitcoin markets! Remember, as we mentioned above, this report is shorter than usual and next week the report will return to its normal length and format.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/19octo/" rel="tag">19octo</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2014-10-19</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

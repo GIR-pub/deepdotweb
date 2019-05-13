@@ -1,7 +1,7 @@
 ---
 title: Warning: Silk Road 2.0 And DPR account might be compromised!
 ---
-2829 tag-account tag-compromised tag-dpr tag-road tag-silk tag-warning">
+2829 tag-account tag-compromised tag-warning">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 22, 2013</span>
@@ -64,4 +64,5 @@ title: Warning: Silk Road 2.0 And DPR account might be compromised!
 <p>At this point we would like to urge everyone to be safe, and we will be updating this as we will have more info about new developments.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/account/" rel="tag">account</a> <a href="https://www.deepdotweb.com/tag/compromised/" rel="tag">compromised</a> <a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a>  <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a>
+
 Updated: 2013-12-22

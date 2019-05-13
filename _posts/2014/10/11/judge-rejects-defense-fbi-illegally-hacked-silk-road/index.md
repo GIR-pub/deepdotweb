@@ -1,7 +1,7 @@
 ---
 Judge Rejects Defense That FBI Illegally Hacked Silk Road
 ---
-<article class="post-listing post-7356 post type-post status-publish format-standard has-post-thumbnail hentry  tag-defense tag-fbi tag-hacked tag-illegally tag-judge tag-rejects tag-road tag-silk">
+<article class="post-listing post-7356 post type-post status-publish format-standard has-post-thumbnail hentry  tag-defense tag-fbi tag-hacked tag-illegally tag-judge tag-rejects 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 11, 2014</span>
@@ -34,7 +34,7 @@ Judge Rejects Defense That FBI Illegally Hacked Silk Road
     <p><strong>Article Source</strong>: <a href="http://www.wired.com/2014/10/silk-road-judge-technicality/" target="_blank">http://www.wired.com/2014/10/silk-road-judge-technicality/</a></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/illegally/" rel="tag">illegally</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/rejects/" rel="tag">rejects</a> </span> <span style="display:none" class="updated">2014-10-11</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

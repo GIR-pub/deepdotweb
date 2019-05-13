@@ -1,7 +1,7 @@
 ---
 Monero Hard Fork Coming Soon
 ---
-<article class="post-listing post-15485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coming tag-fork tag-hard tag-monero">
+<article class="post-listing post-15485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fork tag-hard tag-monero">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>September 19, 2016</span>
@@ -52,7 +52,7 @@ Monero Hard Fork Coming Soon
     <div class="wp-socializer-clearer"></div></div>
     
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/coming/" rel="tag">coming</a> <a href="https://www.deepdotweb.com/tag/fork/" rel="tag">fork</a> <a href="https://www.deepdotweb.com/tag/hard/" rel="tag">hard</a> <a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a></span> <span style="display:none" class="updated">2016-09-19</span>
+     <a href="https://www.deepdotweb.com/tag/fork/" rel="tag">fork</a> <a href="https://www.deepdotweb.com/tag/hard/" rel="tag">hard</a> <a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a></span> <span style="display:none" class="updated">2016-09-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

@@ -36,7 +36,7 @@ Cyruserv Hosting Shuts Down
     <p>Those of you who are interested in the private key mentioned in the text &#8211; can get it from the original PGP signed message on the Cryserv&#8217;s site.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/cyruserv/" rel="tag">cyruserv</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/shuts/" rel="tag">shuts</a></span> <span style="display:none" class="updated">2015-12-23</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

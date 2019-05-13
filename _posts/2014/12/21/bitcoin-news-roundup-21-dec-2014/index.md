@@ -23,7 +23,7 @@ Bitcoin News Roundup – 21 Dec. 2014
     <p>Bitcoin holders who wish to purchase goods and services can now do so on BTXDeals.com. Natasha Lomas of <a href="http://techcrunch.com/2014/12/18/btxdeals/">TechCrunch</a> discusses the U.K.-based e-commerce site, where users can make payments for computer displays, software, and travel services. The prices are updated every ten minutes and are based on the Bitcoin-GBP Sterling exchange rate and vendors do not have to pay to list their goods on the site.</p>
     </div>
      <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2014-12-21</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

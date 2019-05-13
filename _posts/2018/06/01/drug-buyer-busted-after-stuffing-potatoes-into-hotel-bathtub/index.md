@@ -2,7 +2,7 @@
 Drug Buyer Busted After Stuffing Potatoes into Hotel Bathtub
 ---
 <article class="post-listing post-25893 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-bathtub tag-busted tag-buyer tag-drug tag-hotel tag-potatoes tag-stuffing">
+ tag-bathtub tag-busted tag-buyer tag-hotel tag-potatoes tag-stuffing">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>June 1, 2018</span>

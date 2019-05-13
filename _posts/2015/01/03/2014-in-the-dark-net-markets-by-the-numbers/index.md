@@ -191,7 +191,7 @@
     <p><strong>To sum up 2014: &#8220;sturm und drang, little change&#8221;!</strong></p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark-net-markets/" rel="tag">dark net markets</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a></span> <span style="display:none" class="updated">2015-01-03</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -33,7 +33,7 @@ Censorship of Mobile Money in Uganda: Why Bitcoin Matters
     <p>Already, in Kenya, Bitcoin is taking off in peer to peer markets. Here, mobile money is even more widely adopted than Uganda; all the banks are hooked into Mpesa as a payment gateway. Users often complain of Mpesa downtimes, delayed transactions and a monopolistic dominant Telcos. For whatever reason, if this system was down for a significant duration of time &#8211; whether by censorship or technical reason, bitcoin would come up as an alternative.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/censorship/" rel="tag">censorship</a> <a href="https://www.deepdotweb.com/tag/matters/" rel="tag">matters</a> <a href="https://www.deepdotweb.com/tag/mobile/" rel="tag">mobile</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/uganda/" rel="tag">uganda</a></span> <span style="display:none" class="updated">2016-03-04</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

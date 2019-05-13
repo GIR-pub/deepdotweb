@@ -37,7 +37,7 @@ While Markets Get Seized: Pedophiles Launch a Crowdfunding Site
     <p>So here you have it, tor-pedos: This is your chance to vote with your wallets whether PedoFunding stays, or leaves the darknet forever.&#8221;</p></blockquote>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/crowdfunding/" rel="tag">crowdfunding</a> <a href="https://www.deepdotweb.com/tag/launch/" rel="tag">launch</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/pedophiles/" rel="tag">pedophiles</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a></span> <span style="display:none" class="updated">2014-11-09</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

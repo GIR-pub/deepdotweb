@@ -1,7 +1,7 @@
 ---
 Silk Road Vendor Caligirl Pleaded Guilty
 ---
-<article class="post-listing post-7004 post type-post status-publish format-standard has-post-thumbnail hentry  tag-caligirl tag-guilty tag-pleaded tag-road tag-silk tag-vendor">
+<article class="post-listing post-7004 post type-post status-publish format-standard has-post-thumbnail hentry  tag-caligirl tag-guilty tag-pleaded tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 9, 2014</span>
@@ -31,7 +31,7 @@ Silk Road Vendor Caligirl Pleaded Guilty
     <p>We will be updating as more info becomes available.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/caligirl/" rel="tag">caligirl</a>  <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-09-09</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

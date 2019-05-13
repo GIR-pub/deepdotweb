@@ -1,7 +1,7 @@
 ---
 Narcotics Control Bureau to Seize 500 BTC from Darknet Vendors in India
 ---
-<article class="post-listing post-16191 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2424 tag-btc tag-bureau tag-control tag-darknet tag-india tag-narcotics tag-seize tag-vendors">
+<article class="post-listing post-16191 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2424 tag-bureau tag-control tag-darknet tag-india tag-narcotics tag-seize tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 31, 2016</span>

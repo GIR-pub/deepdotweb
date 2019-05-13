@@ -1,7 +1,7 @@
 ---
 Pandora Market BTC Prices Hacked or Broken
 ---
-<article class="post-listing post-3913 post type-post status-publish format-standard has-post-thumbnail hentry  tag-broken tag-btc tag-hacked tag-pandora tag-prices">
+<article class="post-listing post-3913 post type-post status-publish format-standard has-post-thumbnail hentry  tag-broken tag-hacked tag-pandora tag-prices">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 10, 2014</span>
@@ -21,7 +21,7 @@ Pandora Market BTC Prices Hacked or Broken
     <p>Just thought you should know &#8211; so make sure its fixed before you lose any money over there, we believe that the admins will fix that soon enough.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/broken/" rel="tag">broken</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/pandora/" rel="tag">pandora</a> <a href="https://www.deepdotweb.com/tag/prices/" rel="tag">prices</a></span> <span style="display:none" class="updated">2014-02-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -1,7 +1,7 @@
 ---
 Swedish Legislators Push for Change to End Drug Trafficking by Mail
 ---
-<article class="post-listing post-17773 post type-post status-publish format-standard has-post-thumbnail hentry  tag-change tag-drug tag-legislators tag-mail tag-push tag-swedish tag-trafficking">
+<article class="post-listing post-17773 post type-post status-publish format-standard has-post-thumbnail hentry  tag-change tag-legislators tag-mail tag-push tag-swedish tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 27, 2017</span>

@@ -1,7 +1,7 @@
 ---
 California Dealer Caught with 10K Alprazolam Pills
 ---
-<article class="post-listing post-23446 post type-post status-publish format-standard has-post-thumbnail hentry  tag-10k tag-alprazolam tag-california tag-caught tag-dealer tag-pills">
+<article class="post-listing post-23446 post type-post status-publish format-standard has-post-thumbnail hentry  tag-10k tag-alprazolam tag-california tag-caught tag-pills">
     
     <div class="post-inner">
     

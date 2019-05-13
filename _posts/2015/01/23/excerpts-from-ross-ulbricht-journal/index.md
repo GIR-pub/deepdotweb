@@ -1,7 +1,7 @@
 ---
 Excerpts From Ross Ulbricht&#8217;s 2013 Journal
 ---
-<article class="post-listing post-8874 post type-post status-publish format-standard has-post-thumbnail hentry  tag-silkroadtrial">
+<article class="post-listing post-8874 post type-post status-publish format-standard has-post-thumbnail hentry  trial">
     
     <div class="post-inner">
     
@@ -168,7 +168,7 @@ Excerpts From Ross Ulbricht&#8217;s 2013 Journal
     
     </div><!-- .entry /-->
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a></span>				<span style="display:none" class="updated">2015-01-23</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     
     </div><!-- .post-inner -->

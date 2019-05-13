@@ -1,7 +1,7 @@
 ---
 title: Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road
 ---
-1362  tag-dies tag-dose tag-massive tag-mdma tag-purchased tag-road tag-silk tag-teen">
+1362  tag-dies tag-dose tag-massive tag-mdma tag-purchased tag-teen">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 16, 2013</span>
@@ -23,5 +23,6 @@ title: Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road
 <p>We express our deepest sorrow for another loss cause by the war on drugs.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/dies/" rel="tag">dies</a> <a href="https://www.deepdotweb.com/tag/dose/" rel="tag">dose</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a>  <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a>
+
 Updated: 2013-11-16</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

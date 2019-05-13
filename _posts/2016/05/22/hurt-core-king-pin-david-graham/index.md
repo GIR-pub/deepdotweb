@@ -27,7 +27,7 @@ More on Hurt-core King Pin David Graham
     <p>Graham is now serving out 15 years and six months in prison, but is eligible for parole after he serves 10 years.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/david/" rel="tag">david</a> <a href="https://www.deepdotweb.com/tag/graham/" rel="tag">graham</a> <a href="https://www.deepdotweb.com/tag/hurtcore/" rel="tag">hurtcore</a> <a href="https://www.deepdotweb.com/tag/king/" rel="tag">king</a> <a href="https://www.deepdotweb.com/tag/pin/" rel="tag">pin</a></span> <span style="display:none" class="updated">2016-05-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

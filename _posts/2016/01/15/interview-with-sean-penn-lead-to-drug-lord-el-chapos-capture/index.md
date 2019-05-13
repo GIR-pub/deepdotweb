@@ -1,7 +1,7 @@
 ---
 Interview With Sean Penn Lead To Drug Lord El Chapo’s Capture
 ---
-<article class="post-listing post-12953 post type-post status-publish format-standard hentry category-news tag-capture tag-chapos tag-drug tag-el tag-interview tag-lead tag-lord tag-penn tag-sean">
+<article class="post-listing post-12953 post type-post status-publish format-standard hentry category-news tag-capture tag-chapos tag-el tag-interview tag-lead tag-lord tag-penn tag-sean">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 15, 2016</span>

@@ -18,7 +18,7 @@ Liverpool Man Who Bought Enough Ricin To Kill 1,400 People Fails Appeal
     <p>“We are wholly unpersuaded that the judge was wrong in concluding that the evidence could be admitted without causing unfairness. This ground is not arguable. We are not persuaded that the sentence passed was excessive.”</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/1400/" rel="tag">1400</a> <a href="https://www.deepdotweb.com/tag/appeal/" rel="tag">appeal</a> <a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/fails/" rel="tag">fails</a> <a href="https://www.deepdotweb.com/tag/kill/" rel="tag">kill</a> <a href="https://www.deepdotweb.com/tag/liverpool/" rel="tag">liverpool</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a> <a href="https://www.deepdotweb.com/tag/ricin/" rel="tag">ricin</a></span> <span style="display:none" class="updated">2016-06-15</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

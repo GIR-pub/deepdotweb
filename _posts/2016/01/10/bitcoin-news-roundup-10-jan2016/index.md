@@ -23,7 +23,7 @@ Bitcoin News Roundup – 10 Jan2016
     <p>Bitstamp enables bitcoin purchases via credit card. As Samburaj Das of <a href="https://www.cryptocoinsnews.com/bitstamp-adds-bitcoin-purchase-via-credit-card-in-germany-and-italy/">CryptoCoins News</a> writes, following the company’s announcement that the Slovenia and UK-based customers can use Mastercard and Visa to buy bitcoins, Italy and Germany are now joining the list. The daily limit is $300 and the weekly limit is $1500 purchases with acredit card to buy less than 1 BTC.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jan2016/" rel="tag">jan2016</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2016-01-10</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

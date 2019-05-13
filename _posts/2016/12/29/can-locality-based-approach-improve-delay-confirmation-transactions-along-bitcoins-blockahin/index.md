@@ -1,7 +1,7 @@
 ---
 Can A Locality Based Approach Improve The Delay in Confirmation of Transactions Along Bitcoin&#8217;s Blockahin?
 ---
-<article class="post-listing post-17144 post type-post status-publish format-standard has-post-thumbnail hentry  tag-approach tag-based tag-bitcoins tag-blockahin tag-confirmation tag-delay tag-improve tag-locality tag-transactions">
+<article class="post-listing post-17144 post type-post status-publish format-standard has-post-thumbnail hentry  tag-approach tag-based tag-blockahin tag-confirmation tag-delay tag-improve tag-locality tag-transactions">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>December 29, 2016</span>
@@ -24,7 +24,7 @@ Can A Locality Based Approach Improve The Delay in Confirmation of Transactions 
     <p><strong>Conclusion:</strong></p>
     <p>The scalability of bitcoin is one of the main factors hindering mass adoption of bitcoin, mainly due to delay in confirmation of transactions. Using a locality based approach can improve the transactional propagation delay which can lead to marked improvement in the lag time between execution of a transaction and its confirmation.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/approach/" rel="tag">approach</a> <a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/blockahin/" rel="tag">blockahin</a> <a href="https://www.deepdotweb.com/tag/confirmation/" rel="tag">confirmation</a> <a href="https://www.deepdotweb.com/tag/delay/" rel="tag">delay</a> <a href="https://www.deepdotweb.com/tag/improve/" rel="tag">improve</a> <a href="https://www.deepdotweb.com/tag/locality/" rel="tag">locality</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> <span style="display:none" class="updated">2016-12-29</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/approach/" rel="tag">approach</a> <a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/blockahin/" rel="tag">blockahin</a> <a href="https://www.deepdotweb.com/tag/confirmation/" rel="tag">confirmation</a> <a href="https://www.deepdotweb.com/tag/delay/" rel="tag">delay</a> <a href="https://www.deepdotweb.com/tag/improve/" rel="tag">improve</a> <a href="https://www.deepdotweb.com/tag/locality/" rel="tag">locality</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> <span style="display:none" class="updated">2016-12-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

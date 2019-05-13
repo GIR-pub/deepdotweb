@@ -1,7 +1,7 @@
 ---
 Global Drug Survey requests your help!
 ---
-<article class="post-listing post-8476 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-global tag-requests tag-survey">
+<article class="post-listing post-8476 post type-post status-publish format-standard has-post-thumbnail hentry  tag-global tag-requests tag-survey">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/monicabarratt/" title="">Monica Barratt </a></span>
     <span>November 28, 2014</span>

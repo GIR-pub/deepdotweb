@@ -1,7 +1,7 @@
 ---
 ZeroNet &#8211; A P2P networking protocol based on Bitcoin&#8217;s cryptography and the BitTorrent protocol
 ---
-<article class="post-listing post-28464 post type-post status-publish format-standard has-post-thumbnail hentry  tag-based tag-bitcoins tag-bittorrent tag-cryptography tag-networking tag-p2p tag-protocol tag-zeronet">
+<article class="post-listing post-28464 post type-post status-publish format-standard has-post-thumbnail hentry  tag-based tag-bittorrent tag-cryptography tag-networking tag-p2p tag-protocol tag-zeronet">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 27, 2019</span>
@@ -45,7 +45,7 @@ ZeroNet &#8211; A P2P networking protocol based on Bitcoin&#8217;s cryptography 
     <p><strong>Final thoughts:</strong></p>
     <p>ZeroNet is an attempt to decentralize the internet and render it totally resistant to censorship via means of Bitcoin&#8217;s cryptography and BitTorrent&#8217;s technology. Even though the project is still in its infancy, it has massive potential to grow and increase in popularity during the next few years.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/bittorrent/" rel="tag">bittorrent</a> <a href="https://www.deepdotweb.com/tag/cryptography/" rel="tag">cryptography</a> <a href="https://www.deepdotweb.com/tag/networking/" rel="tag">networking</a> <a href="https://www.deepdotweb.com/tag/p2p/" rel="tag">p2p</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a> <a href="https://www.deepdotweb.com/tag/zeronet/" rel="tag">zeronet</a></span> <span style="display:none" class="updated">2019-02-27</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/bittorrent/" rel="tag">bittorrent</a> <a href="https://www.deepdotweb.com/tag/cryptography/" rel="tag">cryptography</a> <a href="https://www.deepdotweb.com/tag/networking/" rel="tag">networking</a> <a href="https://www.deepdotweb.com/tag/p2p/" rel="tag">p2p</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a> <a href="https://www.deepdotweb.com/tag/zeronet/" rel="tag">zeronet</a></span> <span style="display:none" class="updated">2019-02-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

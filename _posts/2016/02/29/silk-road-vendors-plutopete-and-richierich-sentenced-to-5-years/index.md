@@ -1,7 +1,7 @@
 ---
 Silk Road Vendors PlutoPete and RichieRich Sentenced to 5 Years
 ---
-<article class="post-listing post-13352 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cocaine tag-dealing tag-face tag-meth tag-plutopete tag-road tag-silk tag-vendors">
+<article class="post-listing post-13352 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cocaine tag-dealing tag-face tag-meth tag-plutopete tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 29, 2016</span>
@@ -32,7 +32,7 @@ Silk Road Vendors PlutoPete and RichieRich Sentenced to 5 Years
     <p class="p1">“As in Ward’s case, dealers often don’t take any care in handling personal details of customers. We are working with our law enforcement  partners to further identify and pursue those  illegally trading in drugs and firearms online.”</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/dealing/" rel="tag">dealing</a> <a href="https://www.deepdotweb.com/tag/face/" rel="tag">face</a> <a href="https://www.deepdotweb.com/tag/jail/" rel="tag">jail</a> <a href="https://www.deepdotweb.com/tag/meth/" rel="tag">meth</a> <a href="https://www.deepdotweb.com/tag/plutopete/" rel="tag">plutopete</a>  <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2016-02-29</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

@@ -50,7 +50,7 @@ Interview With a (Mostly?) Legal DarkNet Vendor
     <p>There were some more question i wanted to ask Fake, but since it was trough the mail and not IM, and both of us are not native English speakers &amp; it seemed that the time differences between us were quite big, it was too exhausting &#8211; so i decided to keep it short this time. I would like to thank Fake for taking the time and answering those questions, if you need more info you can always find him on <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora</a> and <a href="http://www.deepdotweb.com/marketplace-directory/listing/evolution-marketplace">Evo</a> under the name &#8220;Fake&#8221;.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-16</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
 

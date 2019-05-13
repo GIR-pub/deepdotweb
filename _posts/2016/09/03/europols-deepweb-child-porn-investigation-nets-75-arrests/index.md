@@ -1,7 +1,7 @@
 ---
 Europol’s Deepweb Child Porn Investigation Nets 75 Arrests
 ---
-<article class="post-listing post-15315 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4202 tag-arrests tag-child tag-deepweb tag-europols tag-investigation tag-nets tag-porn">
+<article class="post-listing post-15315 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4202 tag-child tag-deepweb tag-europols tag-investigation tag-nets tag-porn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 3, 2016</span>
