@@ -2,15 +2,15 @@
 Internet users will go to darknet In Russia
 ---
 <article class="post-listing post-24421 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-internet tag-russia tag-users">
-    <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
-    <span>January 15, 2018</span>
-    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-    <span><a href="https://www.deepdotweb.com/2018/01/15/internet-users-will-go-to-darknet/#respond">Leave a comment</a></span>
-    </p>
-    <div class="clear"></div>
-    <div class="entry">
+<div class="post-inner">
+<p class="post-meta">
+<span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
+<span>January 15, 2018</span>
+<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+<span><a href="https://www.deepdotweb.com/2018/01/15/internet-users-will-go-to-darknet/#respond">Leave a comment</a></span>
+</p>
+<div class="clear"></div>
+<div class="entry">
     <p>Since November 1, a law regulating usage of VPN services and anonymizers in Russia is in full force. For Internet users it has become more difficult to get out of any Russian censorship. &#8220;Novaya Gazeta&#8221; <a href="https://www.novayagazeta.ru/articles/2017/11/03/74444-polzovateli-budut-utekat-v-darknet">interviewed</a> Artem Kozlyuk in order to find out how the new act works and how users &#8220;survive&#8221; in harsh circumstances. Kozlyuk is the head of the social organization <a href="https://roskomsvoboda.org/">&#8220;Roskomsvoboda&#8221;</a> and a co-founder of <a href="https://digitalrights.center/">the Digital Rights Protection Center</a>.<img class="wp-image-24424 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-23.jpeg" width="615" height="344" /></p>
     <p><strong> &#8211; Which anonymizers are prohibited?</strong></p>
     <p>&#8211; There is no clear description. Web-services, Tor browser, VPN providers can be banned. Ministry of Internal Affairs and Federal Security Service will decide in each case. They identify such services and then forward lists to Roskomnadzor (Federal Service for Supervision of Communications, Information Technology and Mass Media).</p>

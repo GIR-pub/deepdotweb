@@ -3,12 +3,8 @@ title: Are we the bad guys?
 ---
 826 tag-bad tag-guys
     
-
     
-    
-<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    
-    
+<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>October 25, 2013</span>
 <span>in <a href="http://www.deepdotweb.com/category/memes/" title="View all posts in Memes &amp; Funny" rel="category tag">Memes &amp; Funny</a></span>
     

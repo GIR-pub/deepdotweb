@@ -3,12 +3,8 @@ title: Free Ross Ulbricht
 ---
 1021 tag-free tag-ross tag-ulbricht
     
-
     
-    
-<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    
-    
+<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>October 29, 2013</span>
 <span>in <a href="http://www.deepdotweb.com/category/memes/" rel="category tag">Memes &amp; Funny</a></span>
     

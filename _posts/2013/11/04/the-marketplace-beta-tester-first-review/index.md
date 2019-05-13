@@ -3,12 +3,8 @@ title: The Marketplace Beta Tester First Review
 ---
 1157 category-articles category-deepdot-news tag-beta tag-marketplace tag-review tag-tester">
     
-
     
-    
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    
-    
+<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>November 4, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
     

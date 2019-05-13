@@ -3,12 +3,8 @@ title: Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Phar
 ---
 1222 category-articles category-deepdot-news tag-black tag-fakecounterfeit tag-health tag-issue tag-markets tag-pharmaceuticals tag-sold tag-warning">
     
-
     
-    
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    
-    
+<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>November 7, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
     

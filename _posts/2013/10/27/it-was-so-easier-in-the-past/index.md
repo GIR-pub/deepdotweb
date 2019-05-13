@@ -3,12 +3,8 @@ title: It was so easier in the past&#8230;
 ---
 873 tag-easier
     
-
     
-    
-<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    
-    
+<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>October 27, 2013</span>
 <span>in <a href="http://www.deepdotweb.com/category/memes/" rel="category tag">Memes &amp; Funny</a></span>
     

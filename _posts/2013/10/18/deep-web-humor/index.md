@@ -3,12 +3,8 @@ title: Deep Web Humor
 ---
 459
     
-
     
-    
-<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    
-    
+<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>October 18, 2013</span>
 <span>in <a href="http://www.deepdotweb.com/category/memes/" title="View all posts in Memes &amp; Funny" rel="category tag">Memes &amp; Funny</a></span>
     

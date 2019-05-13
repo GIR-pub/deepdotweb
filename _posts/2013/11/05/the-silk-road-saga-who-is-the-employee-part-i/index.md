@@ -3,12 +3,8 @@ title: The Silk Road Saga: Who is “The Employee”? – Part I
 ---
 1173 category-articles category-deepdot-news tag-employee tag-part tag-road tag-saga tag-silk">
     
-
     
-    
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    
-    
+<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>November 5, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
     

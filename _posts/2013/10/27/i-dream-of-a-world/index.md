@@ -3,12 +3,8 @@ title: I dream of a world&#8230;
 ---
 870 tag-dream tag-world
     
-
     
-    
-<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    
-    
+<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>October 27, 2013</span>
 <span>in <a href="http://www.deepdotweb.com/category/memes/" title="View all posts in Memes &amp; Funny" rel="category tag">Memes &amp; Funny</a></span>
     

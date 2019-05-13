@@ -3,12 +3,8 @@ title: Arrests around the world related to Silk Road&#8230;.So far
 ---
 846 category-articles category-deepdot-news tag-arrests tag-related tag-roadso tag-silk tag-world">
     
-
     
-    
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    
-    
+<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>October 25, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
     
