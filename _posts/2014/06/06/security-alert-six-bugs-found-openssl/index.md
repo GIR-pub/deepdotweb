@@ -41,7 +41,7 @@ Security Alert: Six more bugs found in OpenSSL
     <p>Users of anonymising network Tor should definitely update as the man-in-the-middle attack <a href="https://lists.torproject.org/pipermail/tor-talk/2014-June/033161.html" target="_blank">affects Tor clients and relays</a>. Readers may also recognise the name of the chap who, <a href="http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/ZDI-14-173-CVE-2014-0195-OpenSSL-DTLS-Fragment-Out-of-Bounds/ba-p/6501002#.U5DId5RdV68" target="_blank">according to HP&#8217;s ZDI team</a>, wrote the buggy DTLS code.</p></blockquote>
     <p>This comes just couple of months after the original Heartbleed bug which required all users of openSSL to update their version and some owners of TOR hidden services to  change their private keys as a precaution. TOR users should follow up and update their browser bundle once such updated becomes available.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alert/" rel="tag">alert</a> <a href="https://www.deepdotweb.com/tag/bugs/" rel="tag">bugs</a> <a href="https://www.deepdotweb.com/tag/openssl/" rel="tag">openssl</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a></span> <span style="display:none" class="updated">2014-06-06</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alert/" rel="tag">alert</a> <a href="https://www.deepdotweb.com/tag/bugs/" rel="tag">bugs</a> <a href="https://www.deepdotweb.com/tag/openssl/" rel="tag">openssl</a> </span> <span style="display:none" class="updated">2014-06-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

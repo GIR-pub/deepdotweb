@@ -1,7 +1,7 @@
 ---
 Breaking: Sheep Marketplace Owner Arrested
 ---
-<article class="post-listing post-9698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-breaking tag-marketplace tag-owner tag-sheep">
+<article class="post-listing post-9698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-breaking tag-owner tag-sheep">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 27, 2015</span>

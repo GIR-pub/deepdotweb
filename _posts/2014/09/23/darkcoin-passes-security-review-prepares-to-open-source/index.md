@@ -1,7 +1,7 @@
 ---
 Darkcoin Passes Security Review &#8211; Prepares to Open Source
 ---
-<article class="post-listing post-7194 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkcoin tag-open tag-passes tag-prepares tag-review tag-security tag-source">
+<article class="post-listing post-7194 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkcoin tag-open tag-passes tag-prepares tag-security tag-source">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 23, 2014</span>
@@ -24,7 +24,7 @@ Darkcoin Passes Security Review &#8211; Prepares to Open Source
     <span style="text-decoration: underline;">Community</span>: <a href="https://darkcointalk.org/threads/rc5-launching-september-22nd.2382/" target="_blank">https://darkcointalk.org/<wbr/>threads/rc5-launching-<wbr/>september-22nd.2382/</a><br/>
     <span style="text-decoration: underline;">Future Press Releases</span>: <a href="http://www.darkcoin.io/media.html" target="_blank">http://www.darkcoin.io/media.<wbr/>html</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> <a href="https://www.deepdotweb.com/tag/passes/" rel="tag">passes</a> <a href="https://www.deepdotweb.com/tag/prepares/" rel="tag">prepares</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a></span> <span style="display:none" class="updated">2014-09-23</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> <a href="https://www.deepdotweb.com/tag/passes/" rel="tag">passes</a> <a href="https://www.deepdotweb.com/tag/prepares/" rel="tag">prepares</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a>  <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a></span> <span style="display:none" class="updated">2014-09-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

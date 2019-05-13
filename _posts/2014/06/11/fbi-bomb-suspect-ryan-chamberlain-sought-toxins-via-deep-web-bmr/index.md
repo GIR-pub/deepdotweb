@@ -1,7 +1,7 @@
 ---
 FBI: Bomb Suspect Ryan Chamberlain Sought Toxins Via ‘Deep Web’ (BMR)
 ---
-<article class="post-listing post-5975 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bmr tag-bomb tag-chamberlain tag-deep tag-fbi tag-ryan tag-sought tag-suspect tag-toxins tag-web">
+<article class="post-listing post-5975 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bmr tag-bomb tag-chamberlain tag-deep tag-ryan tag-sought tag-suspect tag-toxins tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 11, 2014</span>
@@ -29,7 +29,7 @@ FBI: Bomb Suspect Ryan Chamberlain Sought Toxins Via ‘Deep Web’ (BMR)
     <p>Complaint:<br />
     <iframe id="doc_7386" class="scribd_iframe_embed" src="//www.scribd.com/embeds/229251691/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/bomb/" rel="tag">bomb</a> <a href="https://www.deepdotweb.com/tag/chamberlain/" rel="tag">chamberlain</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/ryan/" rel="tag">ryan</a> <a href="https://www.deepdotweb.com/tag/sought/" rel="tag">sought</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a> <a href="https://www.deepdotweb.com/tag/toxins/" rel="tag">toxins</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2014-06-11</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/bomb/" rel="tag">bomb</a> <a href="https://www.deepdotweb.com/tag/chamberlain/" rel="tag">chamberlain</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/ryan/" rel="tag">ryan</a> <a href="https://www.deepdotweb.com/tag/sought/" rel="tag">sought</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a> <a href="https://www.deepdotweb.com/tag/toxins/" rel="tag">toxins</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2014-06-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

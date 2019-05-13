@@ -1,7 +1,7 @@
 ---
 title: Uncle Scam: Czech Owner of Sheep Marketplace Working With the FBI?
 ---
-2243  tag-czech tag-fbi tag-marketplace tag-owner tag-scam tag-sheep tag-uncle tag-working">
+2243  tag-czech tag-owner tag-scam tag-sheep tag-uncle tag-working">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 4, 2013</span>
@@ -51,6 +51,6 @@ title: Uncle Scam: Czech Owner of Sheep Marketplace Working With the FBI?
 <p>If the FBI simply used SMP to track users in the darknet drug trade, allowing it to continue until the time was right, it is certainly not outside the realm of possibility.  With all we have found out about US government tactics in 2013 alone, no tactic seems out-of-bounds any longer.</p>
 <p>These, of course, are only theories…</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/czech/" rel="tag">czech</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/uncle/" rel="tag">uncle</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/czech/" rel="tag">czech</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/uncle/" rel="tag">uncle</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a>
 
 Updated: 2013-12-04

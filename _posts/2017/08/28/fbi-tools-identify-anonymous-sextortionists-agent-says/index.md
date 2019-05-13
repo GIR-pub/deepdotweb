@@ -2,7 +2,7 @@
 FBI Has Tools to Identify Anonymous “Sextortionists,” Agent Says
 ---
 <article class="post-listing post-22225 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-agent tag-anonymous tag-fbi tag-identify tag-sextortionists tag-tools">
+ tag-agent tag-anonymous tag-identify tag-sextortionists tag-tools">
     
     <div class="post-inner">
     
@@ -32,7 +32,7 @@ FBI Has Tools to Identify Anonymous “Sextortionists,” Agent Says
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/identify/" rel="tag">identify</a> <a href="https://www.deepdotweb.com/tag/sextortionists/" rel="tag">sextortionists</a> <a href="https://www.deepdotweb.com/tag/tools/" rel="tag">tools</a></span>				<span style="display:none" class="updated">2017-08-28</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/identify/" rel="tag">identify</a> <a href="https://www.deepdotweb.com/tag/sextortionists/" rel="tag">sextortionists</a> <a href="https://www.deepdotweb.com/tag/tools/" rel="tag">tools</a></span>				<span style="display:none" class="updated">2017-08-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

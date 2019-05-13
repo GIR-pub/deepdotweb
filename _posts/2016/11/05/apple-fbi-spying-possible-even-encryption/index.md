@@ -1,7 +1,7 @@
 ---
 Apple to FBI, Spying Possible Even With Encryption
 ---
-<article class="post-listing post-16283 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apple tag-encryption tag-fbi tag-spying">
+<article class="post-listing post-16283 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apple tag-encryption tag-spying">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>November 5, 2016</span>
@@ -22,7 +22,7 @@ Apple to FBI, Spying Possible Even With Encryption
     <p>According to the emails, Apple states that strong encryption does not limit their ability to comply. However, cryptographic encryption methods, at least widely-utilized systems, normally disallow even network administrators or companies, in this case Apple, from accessing user data.</p>
     <p>The fact that Apple is able to access most of the information on its devices must be considered as a warning sign that security and privacy-focused financial applications installed on mobile phones or tablets could be vulnerable to data theft, if law enforcement and government agencies fail to secure the information in a private ecosystem.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/apple/" rel="tag">apple</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/spying/" rel="tag">spying</a></span> <span style="display:none" class="updated">2016-11-05</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/apple/" rel="tag">apple</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/spying/" rel="tag">spying</a></span> <span style="display:none" class="updated">2016-11-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
     </div>
 </article>

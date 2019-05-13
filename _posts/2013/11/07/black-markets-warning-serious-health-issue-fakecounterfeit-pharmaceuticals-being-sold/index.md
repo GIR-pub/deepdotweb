@@ -8,7 +8,6 @@ title: "Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Pha
     
 <span><a href="https://www.deepdotweb.com/2013/11/07/black-markets-warning-serious-health-issue-fakecounterfeit-pharmaceuticals-being-sold/#comments">23 Comments</a></span>
 </p>
-<div class="clear"></div>
     
 <div class="entry">
     

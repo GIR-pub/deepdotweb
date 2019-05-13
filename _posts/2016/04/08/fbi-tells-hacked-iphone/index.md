@@ -1,7 +1,7 @@
 ---
 FBI tells How It Hacked The IPhone
 ---
-<article class="post-listing post-13669 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-hacked tag-iphone tag-tells">
+<article class="post-listing post-13669 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacked tag-iphone tag-tells">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 8, 2016</span>
@@ -21,7 +21,7 @@ FBI tells How It Hacked The IPhone
     <p>The fight between Apple and the FBI sparked technology companies and rights groups to argue that strong encryption, which scrambles data so it can be read only by who its meant to be seen by, is need to keep people safe and protect privacy. On the other side of the fight, law enforcement agencies argue that it can’t fight crimes unless it has access to information on mobile devices. The clash between Apple and the FBI brought more attention to the encryption battle, which is sure to keep building.</p>
     <p>Reuters reported Wednesday that the White House won’t offer public support for the encryption legislation soon to be proposed by Burr and Feinstein. Barack Obama previously had supported the bill, saying last month that Americans have always made privacy trade-offs with the government when it comes to public safety. &#8211; Urban Guerrilla1</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/iphone/" rel="tag">iphone</a> <a href="https://www.deepdotweb.com/tag/tells/" rel="tag">tells</a></span> <span style="display:none" class="updated">2016-04-08</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/iphone/" rel="tag">iphone</a> <a href="https://www.deepdotweb.com/tag/tells/" rel="tag">tells</a></span> <span style="display:none" class="updated">2016-04-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

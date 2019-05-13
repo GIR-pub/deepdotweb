@@ -1,7 +1,6 @@
 ---
 title: Silk Road tales and archives
 ---
-1132  
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 1, 2013</span>
@@ -37,8 +36,6 @@ title: Silk Road tales and archives
 </ul>
 <p><strong>Put your tin foil hat on and enjoy the ride</strong> <a href="http://antilop.cc/sr" target="_blank">http://antilop.cc/sr</a></p>
 <p>============</p>
-</div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/archives/" rel="tag">archives</a>  <a href="https://www.deepdotweb.com/tag/tales/" rel="tag">tales</a>
 
-Updated: 2013-11-01</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+
+Updated: 2013-11-01

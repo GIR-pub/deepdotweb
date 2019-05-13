@@ -1,7 +1,7 @@
 ---
 FBI Claims Messages That Were Sent By ISIS Can’t Be Read Due To Encryption
 ---
-<article class="post-listing post-12551 post type-post status-publish format-standard hentry category-news tag-claims tag-due tag-encryption tag-fbi tag-isis tag-messages tag-read">
+<article class="post-listing post-12551 post type-post status-publish format-standard hentry category-news tag-claims tag-due tag-encryption tag-isis tag-messages tag-read">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 14, 2015</span>
@@ -18,7 +18,7 @@ FBI Claims Messages That Were Sent By ISIS Can’t Be Read Due To Encryption
     <p>Comey also pointed out that due to the current encryption technology and privacy options (such as the Tor Browser), the FBI is one step backward terrorists and they need help to fix this. The director also made a statement regarding Simpson and Garland:</p>
     <p>“We have no idea what he said because those messages were encrypted. And to this day, I can’t tell you what he said with that terrorist 109 times the morning of that attack. That is a big problem. We have to grapple with it.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/due/" rel="tag">due</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/isis/" rel="tag">isis</a> <a href="https://www.deepdotweb.com/tag/messages/" rel="tag">messages</a> <a href="https://www.deepdotweb.com/tag/read/" rel="tag">read</a></span> <span style="display:none" class="updated">2015-12-14</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/due/" rel="tag">due</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/isis/" rel="tag">isis</a> <a href="https://www.deepdotweb.com/tag/messages/" rel="tag">messages</a> <a href="https://www.deepdotweb.com/tag/read/" rel="tag">read</a></span> <span style="display:none" class="updated">2015-12-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

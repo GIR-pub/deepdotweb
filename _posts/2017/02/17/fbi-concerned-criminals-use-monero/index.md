@@ -1,7 +1,7 @@
 ---
 FBI Concerned Criminals Could Use Monero
 ---
-<article class="post-listing post-18165 post type-post status-publish format-standard has-post-thumbnail hentry  tag-concerned tag-criminals tag-fbi tag-monero">
+<article class="post-listing post-18165 post type-post status-publish format-standard has-post-thumbnail hentry  tag-concerned tag-criminals tag-monero">
     
     <div class="post-inner">
     
@@ -27,7 +27,7 @@ FBI Concerned Criminals Could Use Monero
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/concerned/" rel="tag">concerned</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a></span>				<span style="display:none" class="updated">2017-02-17</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/concerned/" rel="tag">concerned</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a></span>				<span style="display:none" class="updated">2017-02-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
     
     

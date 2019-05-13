@@ -1,7 +1,7 @@
 ---
 Utopia Marketplace is Now Officially Open!
 ---
-<article class="post-listing post-3787 post type-post status-publish format-standard has-post-thumbnail hentry  tag-marketplace tag-officialy tag-open tag-utopia">
+<article class="post-listing post-3787 post type-post status-publish format-standard has-post-thumbnail hentry  tag-officialy tag-open tag-utopia">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 3, 2014</span>

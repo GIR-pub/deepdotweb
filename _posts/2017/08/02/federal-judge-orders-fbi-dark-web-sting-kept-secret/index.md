@@ -1,7 +1,7 @@
 ---
 Federal Judge Orders FBI Dark Web Sting to be Kept Secret
 ---
-<article class="post-listing post-21698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-fbi tag-federal tag-judge tag-orders tag-secret tag-sting tag-web">
+<article class="post-listing post-21698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-federal tag-judge tag-orders tag-secret tag-sting tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>August 2, 2017</span>
@@ -23,7 +23,7 @@ Federal Judge Orders FBI Dark Web Sting to be Kept Secret
     <p>Seven months ago, FBI took down a notorious child pornography dark web marketplace Playpen and arrested more than 900 users, operators and moderators. But, due to illegal warrant and inappropriate investigation methods, the majority of child pornography buyers were set free.</p>
     <p>It is important for the FBI and other law enforcement agencies to take necessary steps and precautions in completing investigations into serious criminal activities properly, offering fair, just and transparent hearings for the criminals. That way, criminals that are guilty of serious criminal activities will be forced to serve their time and the law enforcement will not have to deal with controversy surrounding illegal warrants and investigation methods.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a> <a href="https://www.deepdotweb.com/tag/secret/" rel="tag">secret</a> <a href="https://www.deepdotweb.com/tag/sting/" rel="tag">sting</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-08-02</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a> <a href="https://www.deepdotweb.com/tag/secret/" rel="tag">secret</a> <a href="https://www.deepdotweb.com/tag/sting/" rel="tag">sting</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-08-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
     </div>
 </article>

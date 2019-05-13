@@ -1,7 +1,7 @@
 ---
 Added: Discussion Forums, Market Listing &#038; Review Rules
 ---
-<article class="post-listing post-12361 post type-post status-publish format-standard hentry category-news tag-added tag-discussion tag-forums tag-listing tag-review tag-rules">
+<article class="post-listing post-12361 post type-post status-publish format-standard hentry category-news tag-added tag-discussion tag-forums tag-listing tag-rules">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 27, 2015</span>

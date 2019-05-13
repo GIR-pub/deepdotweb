@@ -1,7 +1,7 @@
 ---
 Senator Introduces Bill to Delay FBI Changes to Rule 41
 ---
-<article class="post-listing post-16792 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3910 tag-bill tag-delay tag-fbi tag-introduces tag-rule tag-senator">
+<article class="post-listing post-16792 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3910 tag-bill tag-delay tag-introduces tag-rule tag-senator">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 7, 2016</span>
@@ -21,7 +21,7 @@ Senator Introduces Bill to Delay FBI Changes to Rule 41
     <p>Sen. Ron Wyden has been a major voice in the effort to <a href="https://www.deepdotweb.com/tag/fbi/">fight the DoJ</a>. He introduced a bill earlier this year aimed at halting Rule 41 changes. The bill failed to make a difference, though. So, Wyden (along with Sens. Coons, Lee, Franken, and Daines) introduced another bill with similar intent. The bill is straightforward. This, literally, is the stated goal: &#8220;To delay the amendments to rule 41 of the Federal Rules of Criminal Procedure.&#8221;</p>
     <p>If Wyden&#8217;s &#8220;Review the Rule&#8221; bill gets approved, representatives would have more time to discuss Rule 41. The default approval date would be pushed far into 2017. It would grant relevant officials another seven months to truly examine the proposal.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/41/" rel="tag">41</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/delay/" rel="tag">delay</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/introduces/" rel="tag">introduces</a> <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/senator/" rel="tag">senator</a></span> <span style="display:none" class="updated">2016-12-07</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/41/" rel="tag">41</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/delay/" rel="tag">delay</a> <a href="https://www.deepdotweb.com/tag/introduces/" rel="tag">introduces</a> <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/senator/" rel="tag">senator</a></span> <span style="display:none" class="updated">2016-12-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

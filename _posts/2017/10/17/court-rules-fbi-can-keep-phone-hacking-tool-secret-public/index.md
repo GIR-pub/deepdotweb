@@ -2,7 +2,7 @@
 Court Rules FBI Can Keep Phone Hacking Tool Secret from the Public
 ---
 <article class="post-listing post-23108 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-court tag-fbi tag-hacking tag-phone tag-public tag-rules tag-secret tag-tool">
+ tag-court tag-hacking tag-phone tag-public tag-rules tag-secret tag-tool">
     
 <div class="post-inner">
     
@@ -27,7 +27,7 @@ Court Rules FBI Can Keep Phone Hacking Tool Secret from the Public
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/phone/" rel="tag">phone</a> <a href="https://www.deepdotweb.com/tag/public/" rel="tag">public</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a> <a href="https://www.deepdotweb.com/tag/secret/" rel="tag">secret</a> <a href="https://www.deepdotweb.com/tag/tool/" rel="tag">tool</a></span>				<span style="display:none" class="updated">2017-10-17<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/phone/" rel="tag">phone</a> <a href="https://www.deepdotweb.com/tag/public/" rel="tag">public</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a> <a href="https://www.deepdotweb.com/tag/secret/" rel="tag">secret</a> <a href="https://www.deepdotweb.com/tag/tool/" rel="tag">tool</a></span>				<span style="display:none" class="updated">2017-10-17<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
     
     
 </div><!-- .post-inner -->

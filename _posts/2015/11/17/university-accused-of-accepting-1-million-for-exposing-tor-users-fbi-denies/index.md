@@ -1,7 +1,7 @@
 ---
 University Accused Of Accepting $1 Million For Exposing Tor Users, FBI Denies
 ---
-<article class="post-listing post-12218 post type-post status-publish format-standard hentry category-news tag-accepting tag-accused tag-denies tag-exposing tag-fbi tag-million  tag-university tag-users">
+<article class="post-listing post-12218 post type-post status-publish format-standard hentry category-news tag-accepting tag-accused tag-denies tag-exposing tag-million  tag-university tag-users">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 17, 2015</span>
@@ -21,7 +21,7 @@ University Accused Of Accepting $1 Million For Exposing Tor Users, FBI Denies
     <p>&#8220;It’s too late to cover up what happened; now it’s time for [the Software Engineering Institute] to give us some answers.&#8221;</p>
     <p><a href="http://thehill.com/policy/cybersecurity/260075-fbi-denies-it-paid-researchers-1-million-to-unmask-web-users">Despite the evidence the Tor Project has on the CMU’s involvement with the FBI, the Federal Bureau of Investigation denies that the federal agency paid at least $1 million to researchers of the Carnegie Mellon University for criminal investigation purposes.</a> An FBI representative even told the press that allegation is inaccurate.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/accepting/" rel="tag">accepting</a> <a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a> <a href="https://www.deepdotweb.com/tag/denies/" rel="tag">denies</a> <a href="https://www.deepdotweb.com/tag/exposing/" rel="tag">exposing</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2015-11-17</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/accepting/" rel="tag">accepting</a> <a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a> <a href="https://www.deepdotweb.com/tag/denies/" rel="tag">denies</a> <a href="https://www.deepdotweb.com/tag/exposing/" rel="tag">exposing</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2015-11-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

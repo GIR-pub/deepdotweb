@@ -1,7 +1,7 @@
 ---
 The Legitimacy of the Latest FBI Hack is Still Being Questioned
 ---
-<article class="post-listing post-17577 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-hack tag-latest tag-legitimacy tag-questioned">
+<article class="post-listing post-17577 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hack tag-latest tag-legitimacy tag-questioned">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 18, 2017</span>
@@ -42,7 +42,7 @@ The Legitimacy of the Latest FBI Hack is Still Being Questioned
     <p><em>Lastly, I want to add that I could have released this leak only under my name and not under the name of ANONYMOUS. This was done to revive the lost image of Anonymous which has gone silent since last few years. And I am grateful that I received a good amount of support from the Anonymous Family as the mainstream media declined even to publish the hacks in first place. </em></p>
     <p><img class="wp-image-17596 aligncenter" src="/imgs/2017/01/word-image-13.jpeg" srcset="/imgs/2017/01/word-image-13.jpeg 652w, /imgs/2017/01/word-image-13-300x153.jpeg 300w" sizes="(max-width: 652px) 100vw, 652px"/></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/latest/" rel="tag">latest</a> <a href="https://www.deepdotweb.com/tag/legitimacy/" rel="tag">legitimacy</a> <a href="https://www.deepdotweb.com/tag/questioned/" rel="tag">questioned</a></span> <span style="display:none" class="updated">2017-01-18</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/latest/" rel="tag">latest</a> <a href="https://www.deepdotweb.com/tag/legitimacy/" rel="tag">legitimacy</a> <a href="https://www.deepdotweb.com/tag/questioned/" rel="tag">questioned</a></span> <span style="display:none" class="updated">2017-01-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

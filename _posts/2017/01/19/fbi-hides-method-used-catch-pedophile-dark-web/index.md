@@ -1,7 +1,7 @@
 ---
 FBI Hides Method Used to Catch Pedophile in Dark Web
 ---
-<article class="post-listing post-17601 post type-post status-publish format-standard has-post-thumbnail hentry  tag-catch tag-dark tag-fbi tag-hides tag-method tag-pedophile tag-web">
+<article class="post-listing post-17601 post type-post status-publish format-standard has-post-thumbnail hentry  tag-catch tag-dark tag-hides tag-method tag-pedophile tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 19, 2017</span>
@@ -23,7 +23,7 @@ FBI Hides Method Used to Catch Pedophile in Dark Web
     <p>“As it stands now, the government has arrested and charged hundreds of suspects as a result of the investigation. Now defendants are pushing back, challenging the tenuous legal basis for the FBI’s warrant and its refusal to disclose exactly how its malware operated. Some courts have upheld the FBI’s actions in dangerous decisions that, if ultimately upheld, threaten to undermine individuals’ constitutional privacy protections in personal computers.”</p>
     <p>The EFF also stated that the general public must expect more cases such as the Michaud-Playpen child pornography in the future, which will discourage the FBI to abuse the change in Rule 41 and misuse malware to surveil on users.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/hides/" rel="tag">hides</a> <a href="https://www.deepdotweb.com/tag/method/" rel="tag">method</a> <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-01-19</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/hides/" rel="tag">hides</a> <a href="https://www.deepdotweb.com/tag/method/" rel="tag">method</a> <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-01-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
     </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 FBI Transparency Report Shows a Decline in NSLs
 ---
-<article class="post-listing post-19955 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decline tag-fbi tag-nsls tag-report tag-shows tag-transparency">
+<article class="post-listing post-19955 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decline tag-nsls tag-report tag-shows tag-transparency">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 18, 2017</span>
@@ -22,7 +22,7 @@ FBI Transparency Report Shows a Decline in NSLs
     <p><a href="https://www.deepdotweb.com/2016/10/11/grand-jury-requests-signal-user-data-essentially-receives-nothing/">Open Whisper Systems published the results of a grand jury subpoena</a> that ended poorly for law enforcement. While not a NSL, the picture OWS painted looked excellent on paper. The subpoena requested the following: subscriber names, addresses, telephone numbers, email addresses, method of payment, IP registration, IP history logs and addresses, account history\toll records, upstream and downstream providers, any associated accounts acquired through cookie data, and any other contact information from redacted accounts. The organization, most known for an endorsement from Edward Snowden for the encrypted messaging app “Signal,” sent this in response:</p>
     <p><img class="wp-image-19972 aligncenter" src="/imgs/2017/05/word-image-82.png" srcset="/imgs/2017/05/word-image-82.png 900w, /imgs/2017/05/word-image-82-300x98.png 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/decline/" rel="tag">decline</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/nsls/" rel="tag">nsls</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/shows/" rel="tag">shows</a> <a href="https://www.deepdotweb.com/tag/transparency/" rel="tag">transparency</a></span> <span style="display:none" class="updated">2017-05-18</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/decline/" rel="tag">decline</a> <a href="https://www.deepdotweb.com/tag/nsls/" rel="tag">nsls</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/shows/" rel="tag">shows</a> <a href="https://www.deepdotweb.com/tag/transparency/" rel="tag">transparency</a></span> <span style="display:none" class="updated">2017-05-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

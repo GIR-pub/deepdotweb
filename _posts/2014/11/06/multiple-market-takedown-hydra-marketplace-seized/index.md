@@ -1,7 +1,7 @@
 ---
 Multiple Market Takedown: Hydra &#038; Cloud 9 Marketplace Seized
 ---
-<article class="post-listing post-7998 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hydra tag-marketplace tag-multiple tag-operation-onymous tag-seized 2bust tag-takedown">
+<article class="post-listing post-7998 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hydra tag-multiple tag-operation-onymous tag-seized 2bust tag-takedown">
     
     <div class="post-inner">
     

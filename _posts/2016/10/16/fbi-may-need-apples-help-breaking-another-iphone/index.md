@@ -1,7 +1,7 @@
 ---
 FBI May Need Apple’s Help in Breaking into Another iPhone
 ---
-<article class="post-listing post-15856 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apples tag-breaking tag-fbi tag-iphone">
+<article class="post-listing post-15856 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apples tag-breaking tag-iphone">
     
     <div class="post-inner">
     
@@ -34,7 +34,7 @@ FBI May Need Apple’s Help in Breaking into Another iPhone
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/apples/" rel="tag">apples</a> <a href="https://www.deepdotweb.com/tag/breaking/" rel="tag">breaking</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/iphone/" rel="tag">iphone</a></span>				<span style="display:none" class="updated">2016-10-16</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/apples/" rel="tag">apples</a> <a href="https://www.deepdotweb.com/tag/breaking/" rel="tag">breaking</a> <a href="https://www.deepdotweb.com/tag/iphone/" rel="tag">iphone</a></span>				<span style="display:none" class="updated">2016-10-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

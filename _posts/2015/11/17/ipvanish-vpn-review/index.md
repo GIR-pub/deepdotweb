@@ -1,7 +1,7 @@
 ---
 IPVanish VPN Review
 ---
-<article class="post-listing post-12121 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ipvanish tag-review tag-vpn">
+<article class="post-listing post-12121 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ipvanish tag-vpn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 17, 2015</span>

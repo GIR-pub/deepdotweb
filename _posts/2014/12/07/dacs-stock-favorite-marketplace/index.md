@@ -1,7 +1,7 @@
 ---
 DACs: Own Stock In Your Favorite Marketplace
 ---
-<article class="post-listing post-7083 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dacs tag-favorite tag-marketplace tag-stock">
+<article class="post-listing post-7083 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dacs tag-favorite tag-stock">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>December 7, 2014</span>

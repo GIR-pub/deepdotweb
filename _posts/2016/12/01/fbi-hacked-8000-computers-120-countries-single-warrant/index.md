@@ -1,7 +1,7 @@
 ---
 The FBI Hacked 8,000 Computers in 120 Countries With a Single Warrant
 ---
-<article class="post-listing post-16695 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4548 tag-4599 tag-computers tag-countries tag-fbi tag-hacked tag-single tag-warrant">
+<article class="post-listing post-16695 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4548 tag-4599 tag-computers tag-countries tag-hacked tag-single tag-warrant">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 1, 2016</span>
@@ -27,7 +27,7 @@ The FBI Hacked 8,000 Computers in 120 Countries With a Single Warrant
     <p>As far as is publicly known, these mass hacking techniques have been limited to child pornography investigations. But with the changes to Rule 41, there is a chance US authorities will expand their use to other crimes too.</p>
     <p>The full transcript is on DocumentCloud, thanks to Joseph Cox. <a href="https://www.documentcloud.org/documents/3224249-Hearing-in-Tippens-Day-1.html">Link</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/120/" rel="tag">120</a> <a href="https://www.deepdotweb.com/tag/8000/" rel="tag">8000</a> <a href="https://www.deepdotweb.com/tag/computers/" rel="tag">computers</a> <a href="https://www.deepdotweb.com/tag/countries/" rel="tag">countries</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/single/" rel="tag">single</a> <a href="https://www.deepdotweb.com/tag/warrant/" rel="tag">warrant</a></span> <span style="display:none" class="updated">2016-12-01</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/120/" rel="tag">120</a> <a href="https://www.deepdotweb.com/tag/8000/" rel="tag">8000</a> <a href="https://www.deepdotweb.com/tag/computers/" rel="tag">computers</a> <a href="https://www.deepdotweb.com/tag/countries/" rel="tag">countries</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/single/" rel="tag">single</a> <a href="https://www.deepdotweb.com/tag/warrant/" rel="tag">warrant</a></span> <span style="display:none" class="updated">2016-12-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

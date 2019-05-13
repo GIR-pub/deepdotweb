@@ -1,7 +1,7 @@
 ---
 Dutch National Prosecution Service and police launch Hidden Service in global Darknet enforcement operation
 ---
-<article class="post-listing post-16216 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-dutch tag-enforcement tag-global tag-launch tag-national tag-operation tag-police tag-prosecution tag-service">
+<article class="post-listing post-16216 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-dutch tag-enforcement tag-global tag-national tag-operation tag-police tag-prosecution tag-service">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 31, 2016</span>
@@ -51,7 +51,7 @@ Dutch National Prosecution Service and police launch Hidden Service in global Da
     </div>
     </div>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/launch/" rel="tag">launch</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/prosecution/" rel="tag">prosecution</a> <a href="https://www.deepdotweb.com/tag/service/" rel="tag">service</a></span> <span style="display:none" class="updated">2016-10-31</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a>  <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/prosecution/" rel="tag">prosecution</a> <a href="https://www.deepdotweb.com/tag/service/" rel="tag">service</a></span> <span style="display:none" class="updated">2016-10-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

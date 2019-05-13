@@ -1,7 +1,7 @@
 ---
 Evolution Marketplace Staff Speak: We are growing fast!
 ---
-<article class="post-listing post-5387 post type-post status-publish format-standard has-post-thumbnail hentry  tag-evolution tag-fast tag-growing tag-marketplace tag-speak tag-staff">
+<article class="post-listing post-5387 post type-post status-publish format-standard has-post-thumbnail hentry  tag-evolution tag-fast tag-growing tag-speak tag-staff">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 10, 2014</span>

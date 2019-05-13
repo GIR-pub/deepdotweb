@@ -1,7 +1,7 @@
 ---
 Wtf: Pedophiles Launch Dash (&#8220;Darkcoin&#8221;) Mining Crowdfunding Platform
 ---
-<article class="post-listing post-11068 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crowdfunding tag-darkcoin tag-dash tag-launch tag-mining tag-pedophiles tag-platform tag-wtf">
+<article class="post-listing post-11068 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crowdfunding tag-darkcoin tag-dash tag-mining tag-pedophiles tag-platform tag-wtf">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 16, 2015</span>
@@ -26,7 +26,7 @@ Wtf: Pedophiles Launch Dash (&#8220;Darkcoin&#8221;) Mining Crowdfunding Platfor
     <p><a href="/imgs/2015/07/unlock1.png"><img class="aligncenter size-full wp-image-11074" src="/imgs/2015/07/unlock1.png" alt="unlock1" width="719" height="413" srcset="/imgs/2015/07/unlock1.png 719w, /imgs/2015/07/unlock1-300x172.png 300w" sizes="(max-width: 719px) 100vw, 719px" /></a></p>
     <p>Lets just hope that this will fail like the previous one and that this method will be used to achieve better goals.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/crowdfunding/" rel="tag">crowdfunding</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/dash/" rel="tag">dash</a> <a href="https://www.deepdotweb.com/tag/launch/" rel="tag">launch</a> <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a> <a href="https://www.deepdotweb.com/tag/pedophiles/" rel="tag">pedophiles</a> <a href="https://www.deepdotweb.com/tag/platform/" rel="tag">platform</a> <a href="https://www.deepdotweb.com/tag/wtf/" rel="tag">wtf</a></span> <span style="display:none" class="updated">2015-07-16</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/crowdfunding/" rel="tag">crowdfunding</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/dash/" rel="tag">dash</a>  <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a> <a href="https://www.deepdotweb.com/tag/pedophiles/" rel="tag">pedophiles</a> <a href="https://www.deepdotweb.com/tag/platform/" rel="tag">platform</a> <a href="https://www.deepdotweb.com/tag/wtf/" rel="tag">wtf</a></span> <span style="display:none" class="updated">2015-07-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

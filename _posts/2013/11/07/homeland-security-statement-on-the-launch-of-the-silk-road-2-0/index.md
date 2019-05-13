@@ -1,7 +1,6 @@
 ---
 title: Homeland Security: Statement On The Launch Of The Silk Road 2.0
 ---
-1225 tag-homeland tag-launch  tag-statement">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 7, 2013</span>
@@ -24,6 +23,6 @@ title: Homeland Security: Statement On The Launch Of The Silk Road 2.0
 <p>One thing that we are sure of is that the &#8220;whack-a-mole&#8221; Game is not going to end either way, until the war on drugs will come to an end.</p>
 <p>&nbsp;</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/homeland/" rel="tag">homeland</a> <a href="https://www.deepdotweb.com/tag/launch/" rel="tag">launch</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/statement/" rel="tag">statement</a>
+     
 
 Updated: 2013-11-07

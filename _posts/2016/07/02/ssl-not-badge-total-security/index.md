@@ -29,7 +29,7 @@ SSL Is Not a Badge Of Total Security
     <p><strong>Third Step</strong>: The user runs the file which contains malicious shell commands to gain complete control over the computer.</p>
     <p>RFD attack allows attackers to gain control over a user’s machine (not just a user agent).  Therefore the need of SSL, although it is technically recommended by cybersecurity experts, is not a total badge of security. RFD web attack flawlessly defeats SSL security measures.  Do you really think SSL is a reliable encryption protocol? Please share your views.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/badge/" rel="tag">badge</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/ssl/" rel="tag">ssl</a> <a href="https://www.deepdotweb.com/tag/total/" rel="tag">total</a></span> <span style="display:none" class="updated">2016-07-02</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/badge/" rel="tag">badge</a>  <a href="https://www.deepdotweb.com/tag/ssl/" rel="tag">ssl</a> <a href="https://www.deepdotweb.com/tag/total/" rel="tag">total</a></span> <span style="display:none" class="updated">2016-07-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/vb/" title="Posts by V.B" rel="author">V.B</a></strong></div>
     </div>
 </article>

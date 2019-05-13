@@ -29,7 +29,7 @@ Silk Road Moderator Sentenced To Time Served
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/served/" rel="tag">served</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a></span>				<span style="display:none" class="updated">2016-02-05</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/served/" rel="tag">served</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a></span>				<span style="display:none" class="updated">2016-02-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     

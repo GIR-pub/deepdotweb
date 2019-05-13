@@ -25,7 +25,7 @@
     <p>This explains all the reporting about Bitcoin movements from these 2 seized addresses <a href="https://blockchain.info/address/1F1tAaz5x1HUXrCNLbtMDqcw6o5GNn4xqX">here</a> and <a href="https://blockchain.info/address/1FfmbHfnpaZjKFvyi1okTjJJusN455paPH">here</a> containing all the coins seized from DRP (Ross Ulbricht) on the Silk Road bust.</p>
     <p>The value of these coins at this time is around 18$ million. Along with the notice about the auction, Bitcoins had a noticeable decline in value.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/30000/" rel="tag">30000</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2014-06-12</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/30000/" rel="tag">30000</a>  <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2014-06-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -30,7 +30,7 @@ TradeRoute Went Down Following a Major Security Leak
     <p>Culper responded with few words, but just enough to prove that TradeRoute had exit scammed: “You are the reason they took off.”</p>
     <p><a href="/imgs/2017/10/tradmin2.png"><img class="aligncenter size-full wp-image-23100" src="/imgs/2017/10/tradmin2.png" alt="" width="2379" height="1732" srcset="/imgs/2017/10/tradmin2.png 2379w, /imgs/2017/10/tradmin2-300x218.png 300w, /imgs/2017/10/tradmin2-1024x746.png 1024w" sizes="(max-width: 2379px) 100vw, 2379px" /></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/leak/" rel="tag">leak</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/traderoute/" rel="tag">traderoute</a></span> <span style="display:none" class="updated">2017-10-15</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/leak/" rel="tag">leak</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a>  <a href="https://www.deepdotweb.com/tag/traderoute/" rel="tag">traderoute</a></span> <span style="display:none" class="updated">2017-10-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

@@ -2,7 +2,7 @@
 Georgia FBI Allegedly Identified an Alphabay Staff Member
 ---
 <article class="post-listing post-21714 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-allegedly tag-alphabay tag-fbi tag-georgia tag-identified tag-member tag-staff">
+ tag-allegedly tag-alphabay tag-georgia tag-identified tag-member tag-staff">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 3, 2017</span>
@@ -32,7 +32,7 @@ Georgia FBI Allegedly Identified an Alphabay Staff Member
     <p>Many former moderators still exist, although some had retired long ago: <strong>Raspi</strong>, <strong>Disc0</strong>, <strong>Russ0</strong>, <strong>BigMuscles</strong>, and the retired <strong>MountainHigh9</strong> (And a few more). One public relations manager <a href="https://www.reddit.com/user/trappy_AB">still existed on Reddit</a>, even after Alphabay went down. <strong>Trappy</strong>. Incidentally, he is the only public relations manager and is one of the few with American-ized English. (In contrast, BigMuscles is not likely to be the Atlanta suspect; he had several language barrier issues and English was far from his first language). And then there is the ScamWatch staff: <strong>Vaas</strong> and <strong>Onionhood</strong>. Disc0 was doxed (authenticity unknown) and the dox did not include Atlanta.</p>
     <p>As to the identified American staff member: Trappy conducted a review of a US marijuana vendor several years ago and the vendor only shipped US domestic; on Reddit, he referred to the United States as “domestic;” he complained about USPS; and his English was better than the majority of the moderators. While there&#8217;s no telling if Trappy is the US staff in question, he is a potential match. He might not even have a connection to Georgia FBI’s investigation. After all, Georgia officials thought IcyEagle contributed to the Alphabay takedown.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/allegedly/" rel="tag">allegedly</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/identified/" rel="tag">identified</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/staff/" rel="tag">staff</a></span> <span style="display:none" class="updated">2017-08-03</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/allegedly/" rel="tag">allegedly</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/identified/" rel="tag">identified</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/staff/" rel="tag">staff</a></span> <span style="display:none" class="updated">2017-08-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

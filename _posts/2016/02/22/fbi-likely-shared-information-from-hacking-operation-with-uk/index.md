@@ -1,7 +1,7 @@
 ---
 FBI Likely Shared Information From Hacking Operation With UK
 ---
-<article class="post-listing post-13283 post type-post status-publish format-standard hentry category-news tag-fbi tag-hacking tag-information tag-operation tag-shared tag-uk">
+<article class="post-listing post-13283 post type-post status-publish format-standard hentry category-news tag-hacking tag-information tag-operation tag-shared tag-uk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 22, 2016</span>
@@ -19,7 +19,7 @@ FBI Likely Shared Information From Hacking Operation With UK
     <p>Matt Sutton, from the NCA&#8217;s CEOP Command, made this statement regarding the case:</p>
     <p>“Every time an indecent image of a child is shared it adds to the abuse that child has suffered. The NCA works closely with international partners to share intelligence on people accessing indecent images of children online. They may think they are anonymous and can act with impunity if they operate on the hidden internet. But many have found in recent months that this is not the case.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/shared/" rel="tag">shared</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span> <span style="display:none" class="updated">2016-02-22</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/shared/" rel="tag">shared</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span> <span style="display:none" class="updated">2016-02-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

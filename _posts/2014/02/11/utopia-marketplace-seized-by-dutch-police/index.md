@@ -1,7 +1,7 @@
 ---
 Utopia Marketplace Seized by Dutch Police &#8211; 5 Arrested
 ---
-<article class="post-listing post-3928 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dutch tag-marketplace tag-police tag-seized tag-utopia">
+<article class="post-listing post-3928 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dutch tag-police tag-seized tag-utopia">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 11, 2014</span>

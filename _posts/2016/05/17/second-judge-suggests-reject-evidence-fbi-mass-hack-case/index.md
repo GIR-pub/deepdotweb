@@ -1,7 +1,7 @@
 ---
 Second Judge Suggests To Reject Evidence In FBI Mass Hack Case
 ---
-<article class="post-listing post-13992 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-evidence tag-fbi tag-hack tag-judge tag-mass tag-reject tag-suggests">
+<article class="post-listing post-13992 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-evidence tag-hack tag-judge tag-mass tag-reject tag-suggests">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 17, 2016</span>
@@ -20,7 +20,7 @@ Second Judge Suggests To Reject Evidence In FBI Mass Hack Case
     <p>Law enforcement authorities are sometimes granted a good-faith exception on Rule 41 in cases where investigators are thought to have acted on what they believed to be a legal warrant. However, Judge Cleary says that it does not apply for Arterbury’s case since the man’s house search would not happen at all if it wasn’t for violation.</p>
     <p>Arterbury’s trial is set for the date of May 17.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/evidence/" rel="tag">evidence</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/mass/" rel="tag">mass</a> <a href="https://www.deepdotweb.com/tag/reject/" rel="tag">reject</a> <a href="https://www.deepdotweb.com/tag/suggests/" rel="tag">suggests</a></span> <span style="display:none" class="updated">2016-05-17</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/evidence/" rel="tag">evidence</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/mass/" rel="tag">mass</a> <a href="https://www.deepdotweb.com/tag/reject/" rel="tag">reject</a> <a href="https://www.deepdotweb.com/tag/suggests/" rel="tag">suggests</a></span> <span style="display:none" class="updated">2016-05-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

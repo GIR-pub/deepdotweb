@@ -2,7 +2,7 @@
 Two Dutch Brothers Arrested For Ordering Explosives From Undercover FBI Agent
 ---
 <article class="post-listing post-18727 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-agent tag-brothers tag-dutch tag-explosives tag-fbi tag-ordering tag-undercover">
+ tag-agent tag-brothers tag-dutch tag-explosives tag-ordering tag-undercover">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 21, 2017</span>
@@ -26,7 +26,7 @@ Two Dutch Brothers Arrested For Ordering Explosives From Undercover FBI Agent
 <p>&#8220;What we do not know, of course, we do not know,&#8221; the OM said in a statement.</p>
 <p>The only way the prosecution could charge the two defendants with conspiracy to commit terrorist attacks is if they would get strong evidence on the brothers ordering explosives from other sources.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/brothers/" rel="tag">brothers</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/explosives/" rel="tag">explosives</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/undercover/" rel="tag">undercover</a></span> <span style="display:none" class="updated">2017-03-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/brothers/" rel="tag">brothers</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/explosives/" rel="tag">explosives</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/undercover/" rel="tag">undercover</a></span> <span style="display:none" class="updated">2017-03-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>
 

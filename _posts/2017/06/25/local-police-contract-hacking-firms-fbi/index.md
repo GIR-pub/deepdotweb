@@ -1,7 +1,7 @@
 ---
 Local Police Contract the Same Hacking Firms as the FBI
 ---
-<article class="post-listing post-20878 post type-post status-publish format-standard has-post-thumbnail hentry  tag-contract tag-fbi tag-firms tag-hacking tag-local tag-police">
+<article class="post-listing post-20878 post type-post status-publish format-standard has-post-thumbnail hentry  tag-contract tag-firms tag-hacking tag-local tag-police">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 25, 2017</span>
@@ -42,7 +42,7 @@ Local Police Contract the Same Hacking Firms as the FBI
     <p>Ultimately, the documents showed that <a href="https://www.deepdotweb.com/tag/police/">law enforcement</a> has no trouble lifting and decrypting entire images from virtually any phone on or off the market. And as the documents from Mesa PD revealed, they can use the UFED in almost any crime, including potentially harmless misdemeanors where a phone search is not essential or even relevant. As we move into an era where law enforcement searches every device within Bluetooth range, the fallout from an event similar to the Cellebrite hack now carries a massive and ever-increasing threat to the public.</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/contract/" rel="tag">contract</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/firms/" rel="tag">firms</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/local/" rel="tag">local</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2017-06-25</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/contract/" rel="tag">contract</a> <a href="https://www.deepdotweb.com/tag/firms/" rel="tag">firms</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/local/" rel="tag">local</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2017-06-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

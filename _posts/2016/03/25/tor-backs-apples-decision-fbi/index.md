@@ -1,7 +1,7 @@
 ---
 Tor Backs Apple’s Decision against FBI
 ---
-<article class="post-listing post-13568 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apples tag-backs tag-decision tag-fbi 
+<article class="post-listing post-13568 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apples tag-backs tag-decision 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>March 25, 2016</span>
@@ -20,7 +20,7 @@ Tor Backs Apple’s Decision against FBI
     <p>The faces behind Tor feel that the threats that Apple faces to hand over its cryptographic signing keys to the US government, or to sign alternate versions of its software for the US government, are no different than threats of force of compromise that any of its developers or our volunteer network operators may face from any actor, governmental or not. Tor representatives say that no matter the outcome of Apples decision, they are exploring further ways to eliminate single points of failure, so even if a government or a criminal obtains Tors cryptographic keys, it’s distributed network and its users would be able to detect this fact and report it as a security issue.</p>
     <p>The statement also says, “Like those at Apple, several of our developers have already stated that they would rather resign than honor any request to introduce a backdoor or vulnerability into our software that could be used to harm our users.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/apples/" rel="tag">apples</a> <a href="https://www.deepdotweb.com/tag/backs/" rel="tag">backs</a> <a href="https://www.deepdotweb.com/tag/decision/" rel="tag">decision</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2016-03-25</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/apples/" rel="tag">apples</a> <a href="https://www.deepdotweb.com/tag/backs/" rel="tag">backs</a> <a href="https://www.deepdotweb.com/tag/decision/" rel="tag">decision</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2016-03-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

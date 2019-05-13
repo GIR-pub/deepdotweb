@@ -1,7 +1,7 @@
 ---
 FBI Asks Businesses to Report DDoS Attacks
 ---
-<article class="post-listing post-23396 post type-post status-publish format-standard has-post-thumbnail hentry  tag-asks tag-attacks tag-businesses tag-ddos tag-fbi tag-report">
+<article class="post-listing post-23396 post type-post status-publish format-standard has-post-thumbnail hentry  tag-asks tag-attacks tag-businesses tag-ddos tag-report">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 5, 2017</span>
@@ -21,7 +21,7 @@ FBI Asks Businesses to Report DDoS Attacks
     <p>“The FBI requests DDoS victims contact their local FBI field office and/or file a complaint with the Internet Crime Complaint Center (IC3), regardless of dollar loss or timing of incident.” The FBI also wanted as much information about the attack that a target or victim could offer. Including, but not limited to, IP addresses associated with the attack, traffic protocol used, and damages caused downtime.</p>
     <p>Illegal darknet marketplace operators are unlikely to receive compensation for downtime caused by the DDoS attacks that brought down effectively <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">every relevant market</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/asks/" rel="tag">asks</a> <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/businesses/" rel="tag">businesses</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2017-11-05</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/asks/" rel="tag">asks</a> <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/businesses/" rel="tag">businesses</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2017-11-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

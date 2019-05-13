@@ -1,7 +1,7 @@
 ---
 FBI Begins Construction of Nationwide Watchlist For Employers
 ---
-<article class="post-listing post-18257 post type-post status-publish format-standard has-post-thumbnail hentry  tag-begins tag-construction tag-employers tag-fbi tag-nationwide tag-watchlist">
+<article class="post-listing post-18257 post type-post status-publish format-standard has-post-thumbnail hentry  tag-begins tag-construction tag-employers tag-nationwide tag-watchlist">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>February 21, 2017</span>
@@ -24,7 +24,7 @@ FBI Begins Construction of Nationwide Watchlist For Employers
     <p>“Often this is because states fail to update their own records, and the FBI does not proactively verify the accuracy of information coming from the states. This has a much greater impact on communities of color because all criminal history systems include a disproportionate number of African-Americans, Latinos, and immigrants,” <a href="https://theintercept.com/2017/02/04/the-fbi-is-building-a-national-watchlist-that-gives-companies-real-time-updates-on-employees/">said</a> Lynch.</p>
     <p>While it can be argued that the existence of the Rap Back program could lead to a fewer recruitment of employees with criminal activities, cases of faulty background checks and inaccurate criminal investigation will most likely increase rapidly in the upcoming years.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/begins/" rel="tag">begins</a> <a href="https://www.deepdotweb.com/tag/construction/" rel="tag">construction</a> <a href="https://www.deepdotweb.com/tag/employers/" rel="tag">employers</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/nationwide/" rel="tag">nationwide</a> <a href="https://www.deepdotweb.com/tag/watchlist/" rel="tag">watchlist</a></span> <span style="display:none" class="updated">2017-02-21</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/begins/" rel="tag">begins</a> <a href="https://www.deepdotweb.com/tag/construction/" rel="tag">construction</a> <a href="https://www.deepdotweb.com/tag/employers/" rel="tag">employers</a> <a href="https://www.deepdotweb.com/tag/nationwide/" rel="tag">nationwide</a> <a href="https://www.deepdotweb.com/tag/watchlist/" rel="tag">watchlist</a></span> <span style="display:none" class="updated">2017-02-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
     </div>
 </article>

@@ -2,7 +2,7 @@
 FBI Shows Video of AlphaBay Admin&#8217;s Arrest During Conference
 ---
 <article class="post-listing post-24612 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-admins tag-alphabay tag-arrest tag-conference tag-fbi tag-shows tag-video">
+ tag-admins tag-alphabay tag-arrest tag-conference tag-shows tag-video">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>January 30, 2018</span>
@@ -17,7 +17,7 @@ FBI Shows Video of AlphaBay Admin&#8217;s Arrest During Conference
 <p>Special Agent Phirippidis told the audience that the FBI was able to corner and arrest Alexandre Cazes with his unencrypted laptop still logged into his AlphaBay administrator account. Phirippidis explained that the FBI had “rammed a car through the front gate” of Cazes luxurious Bangkok residence. The video that Special Agent Phirippidis showed to the audience during his speech has never been released to the public. The FBI declined to provide a copy of the video to journalists at <a href="https://motherboard.vice.com/en_us/article/59wwxx/fbi-airs-alexandre-cazes-alphabay-arrest-video"><em>Motherboard</em></a> and also refused to provide any of the other materials used during Special Agent Phirippidis’ speech at the cybersecurity conference.</p>
 <p>A Freedom of Information Act request will be made to try and obtain the footage of Alexandre Cazes arrest.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/admins/" rel="tag">admins</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/conference/" rel="tag">conference</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/shows/" rel="tag">shows</a> <a href="https://www.deepdotweb.com/tag/video/" rel="tag">video</a></span> <span style="display:none" class="updated">2018-01-30<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/admins/" rel="tag">admins</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/conference/" rel="tag">conference</a> <a href="https://www.deepdotweb.com/tag/shows/" rel="tag">shows</a> <a href="https://www.deepdotweb.com/tag/video/" rel="tag">video</a></span> <span style="display:none" class="updated">2018-01-30<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
 </div>
 </article>
 

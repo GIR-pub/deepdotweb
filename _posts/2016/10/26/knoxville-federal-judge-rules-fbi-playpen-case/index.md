@@ -1,7 +1,7 @@
 ---
 Knoxville Federal Judge Rules Against FBI In PlayPen Case
 ---
-<article class="post-listing post-16065 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-fbi tag-federal tag-judge tag-knoxville tag-playpen tag-rules">
+<article class="post-listing post-16065 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-federal tag-judge tag-knoxville tag-playpen tag-rules">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 26, 2016</span>
@@ -21,7 +21,7 @@ Knoxville Federal Judge Rules Against FBI In PlayPen Case
     <p>Jordan allows the government to use the evidence gathered by the FBI in the case against Scarbrough over the objections of defense attorney Gregory P. Isaacs. Jordan used the “federal good-faith exception” to rescue the evidence. Under that exception, if federal agents believed they were acting under legal authority and did nothing illegal in their efforts to secure a warrant, the evidence can still be used.</p>
     <p>&#8220;(Isaacs&#8217;) objections that officers acted deliberately, recklessly or with gross negligence and that it should have been apparent to law enforcement that the Virginia magistrate lacked authority to sign the warrant are simply unsupported by the record,&#8221; Jordan wrote.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/knoxville/" rel="tag">knoxville</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a></span> <span style="display:none" class="updated">2016-10-26</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/knoxville/" rel="tag">knoxville</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a></span> <span style="display:none" class="updated">2016-10-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

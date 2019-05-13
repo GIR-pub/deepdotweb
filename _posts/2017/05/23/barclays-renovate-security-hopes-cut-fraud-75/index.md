@@ -25,7 +25,7 @@ Barclays to Renovate Security, Hopes to Cut Fraud by 75%
     <li>Avoid letting someone you do not know have access to your computer, especially remotely.</li>
     </ol>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/75/" rel="tag">75</a> <a href="https://www.deepdotweb.com/tag/barclays/" rel="tag">barclays</a> <a href="https://www.deepdotweb.com/tag/cut/" rel="tag">cut</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/hopes/" rel="tag">hopes</a> <a href="https://www.deepdotweb.com/tag/renovate/" rel="tag">renovate</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a></span> <span style="display:none" class="updated">2017-05-23</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/75/" rel="tag">75</a> <a href="https://www.deepdotweb.com/tag/barclays/" rel="tag">barclays</a> <a href="https://www.deepdotweb.com/tag/cut/" rel="tag">cut</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/hopes/" rel="tag">hopes</a> <a href="https://www.deepdotweb.com/tag/renovate/" rel="tag">renovate</a> </span> <span style="display:none" class="updated">2017-05-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

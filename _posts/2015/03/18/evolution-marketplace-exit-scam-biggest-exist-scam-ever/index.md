@@ -1,7 +1,7 @@
 ---
 Evolution Marketplace Exit Scam: Biggest Exist Scam Ever?
 ---
-<article class="post-listing post-9498 post type-post status-publish format-standard has-post-thumbnail hentry  tag-biggest tag-evolution tag-evoscam tag-exist tag-exit tag-marketplace tag-scam">
+<article class="post-listing post-9498 post type-post status-publish format-standard has-post-thumbnail hentry  tag-biggest tag-evolution tag-evoscam tag-exist tag-exit tag-scam">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 18, 2015</span>

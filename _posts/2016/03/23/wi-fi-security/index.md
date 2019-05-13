@@ -33,7 +33,7 @@ Wi-Fi Security
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/wifi/" rel="tag">wifi</a></span>				<span style="display:none" class="updated">2016-03-23</span>
+    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/wifi/" rel="tag">wifi</a></span>				<span style="display:none" class="updated">2016-03-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
     
     

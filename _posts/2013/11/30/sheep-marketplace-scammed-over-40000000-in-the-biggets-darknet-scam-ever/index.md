@@ -1,7 +1,7 @@
 ---
 title: Sheep Marketplace Scam: Over 40,000,000$ in the Biggest Darknet Scam Ever!
 ---
-2010  tag-797 tag-biggets tag-darknet tag-marketplace tag-scam tag-scammed tag-sheep">
+2010  tag-797 tag-biggets tag-darknet tag-scam tag-scammed tag-sheep">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 30, 2013</span>

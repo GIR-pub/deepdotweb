@@ -1,7 +1,7 @@
 ---
 Italian police Bust &#8220;Babylon&#8221; Dark Web Market
 ---
-<article class="post-listing post-11165 post type-post status-publish format-standard hentry category-news tag-babylon tag-bust tag-dark tag-italian tag-marketplace tag-police tag-web">
+<article class="post-listing post-11165 post type-post status-publish format-standard hentry category-news tag-babylon tag-bust tag-dark tag-italian tag-police tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 2, 2015</span>

@@ -1,7 +1,7 @@
 ---
 PlayPen Case: DOJ Says FBI Played No Role In Improving Child Porn Website
 ---
-<article class="post-listing post-15422 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-child tag-doj tag-fbi tag-improving tag-played tag-playpen tag-porn tag-role tag-website">
+<article class="post-listing post-15422 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-child tag-doj tag-improving tag-played tag-playpen tag-porn tag-role tag-website">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 14, 2016</span>
@@ -20,7 +20,7 @@ PlayPen Case: DOJ Says FBI Played No Role In Improving Child Porn Website
     <p>Adolf tries to get his defendant’s indictment dismissed by claiming the Bureau engaged in an “outrageous conduct” by operating PlayPen. However, the DOJ says Chase was arrested before the federal agency took control of the child pornography website. The Department of Justice also points out that other defendants, who were arrested as part of Operation Pacifier, have failed to convince judges with the same argument.</p>
     <p>“To be sure, agents considered seizing Playpen and removing it from existence immediately,” the DOJ writes. “Doing so might have ended child pornography trafficking on Playpen, but it would have come at a great cost: squandering any hope of identifying and apprehending the offenders responsible for engaging in hands-on exploitation as well as identifying and prosecuting those users.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/doj/" rel="tag">doj</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/improving/" rel="tag">improving</a> <a href="https://www.deepdotweb.com/tag/played/" rel="tag">played</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/role/" rel="tag">role</a> <a href="https://www.deepdotweb.com/tag/website/" rel="tag">website</a></span> <span style="display:none" class="updated">2016-09-14</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/doj/" rel="tag">doj</a> <a href="https://www.deepdotweb.com/tag/improving/" rel="tag">improving</a> <a href="https://www.deepdotweb.com/tag/played/" rel="tag">played</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/role/" rel="tag">role</a> <a href="https://www.deepdotweb.com/tag/website/" rel="tag">website</a></span> <span style="display:none" class="updated">2016-09-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

@@ -21,7 +21,7 @@ Vendor &#8220;SuperTrips&#8221; Pleaded Guilty For Selling Large Amounts On Silk
     <p>Slomp&#8217;s Plea Agreement:<br/>
     <iframe class="scribd_iframe_embed" src="//www.scribd.com/embeds/222913678/content?start_page=1&#038;view_mode=scroll&#038;access_key=key-xje0i2tl46spnom5gp1&#038;show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_63300" width="100%" height="600" frameborder="0"></iframe></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/amounts/" rel="tag">amounts</a>  <a href="https://www.deepdotweb.com/tag/large/" rel="tag">large</a> <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/supertrips/" rel="tag">supertrips</a></span> <span style="display:none" class="updated">2014-05-08</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/amounts/" rel="tag">amounts</a>  <a href="https://www.deepdotweb.com/tag/large/" rel="tag">large</a> <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a>  <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/supertrips/" rel="tag">supertrips</a></span> <span style="display:none" class="updated">2014-05-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 FBI Calls Playpen Case “Unprecedented in Scope”
 ---
-<article class="post-listing post-20059 post type-post status-publish format-standard has-post-thumbnail hentry  tag-calls tag-case tag-fbi tag-playpen tag-scope tag-unprecedented">
+<article class="post-listing post-20059 post type-post status-publish format-standard has-post-thumbnail hentry  tag-calls tag-case tag-playpen tag-scope tag-unprecedented">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 23, 2017</span>
@@ -33,7 +33,7 @@ FBI Calls Playpen Case “Unprecedented in Scope”
     </ul>
     <p>“It’s ongoing and we continue to address the threat to the best of our abilities,” said Alfin. “It’s the same with any criminal violation: As they get smarter, we adapt, we find them. It’s a cat-and-mouse game, except it’s not a game. Kids are being abused, and it’s our job to stop that.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/scope/" rel="tag">scope</a> <a href="https://www.deepdotweb.com/tag/unprecedented/" rel="tag">unprecedented</a></span> <span style="display:none" class="updated">2017-05-23</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/scope/" rel="tag">scope</a> <a href="https://www.deepdotweb.com/tag/unprecedented/" rel="tag">unprecedented</a></span> <span style="display:none" class="updated">2017-05-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

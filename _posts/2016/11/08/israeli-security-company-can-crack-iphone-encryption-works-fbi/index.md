@@ -1,7 +1,7 @@
 ---
 Israeli Security Company Can Crack IPhone Encryption and Works with the FBI
 ---
-<article class="post-listing post-16317 post type-post status-publish format-standard has-post-thumbnail hentry  tag-company tag-crack tag-encryption tag-fbi tag-iphone tag-israeli tag-security tag-works">
+<article class="post-listing post-16317 post type-post status-publish format-standard has-post-thumbnail hentry  tag-company tag-crack tag-encryption tag-iphone tag-israeli tag-security tag-works">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 8, 2016</span>
@@ -23,7 +23,7 @@ Israeli Security Company Can Crack IPhone Encryption and Works with the FBI
     <p>The FBI announced at a press conference in Minnesota that the agency possessed <a href="https://www.deepdotweb.com/2016/10/16/fbi-may-need-apples-help-breaking-another-iphone/">another iPhone in need of decryption</a>. FBI’s Rich Thorton did not disclose details regarding the phone model or when the phone was purchased. “We are in the process of assessing our legal and technical options to gain access to this device and the data it may contain,” Thorton said.</p>
     <p>In light of The Intercept’s discovery, something a Cellebrite CEO said in an interview may be of importance: “If it’s going to be done, it’s going to be done in this building,” Cellebrite CEO Yossi Carmil said.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/company/" rel="tag">company</a> <a href="https://www.deepdotweb.com/tag/crack/" rel="tag">crack</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/iphone/" rel="tag">iphone</a> <a href="https://www.deepdotweb.com/tag/israeli/" rel="tag">israeli</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/works/" rel="tag">works</a></span> <span style="display:none" class="updated">2016-11-08</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/company/" rel="tag">company</a> <a href="https://www.deepdotweb.com/tag/crack/" rel="tag">crack</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/iphone/" rel="tag">iphone</a> <a href="https://www.deepdotweb.com/tag/israeli/" rel="tag">israeli</a>  <a href="https://www.deepdotweb.com/tag/works/" rel="tag">works</a></span> <span style="display:none" class="updated">2016-11-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

@@ -43,7 +43,7 @@ Feds Give Security Researchers Two Years to Hack Almost Anything
     
     
     </div><!-- .entry /-->
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/give/" rel="tag">give</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/researchers/" rel="tag">researchers</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span>				<span style="display:none" class="updated">2016-12-05</span>
+    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/give/" rel="tag">give</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/researchers/" rel="tag">researchers</a>  <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span>				<span style="display:none" class="updated">2016-12-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

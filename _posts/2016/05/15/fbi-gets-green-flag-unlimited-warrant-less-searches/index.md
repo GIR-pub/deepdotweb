@@ -1,7 +1,7 @@
 ---
 FBI Gets Green Flag For Unlimited Warrant less Searches
 ---
-<article class="post-listing post-14081 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-flag tag-green tag-searches tag-unlimited tag-warrant">
+<article class="post-listing post-14081 post type-post status-publish format-standard has-post-thumbnail hentry  tag-flag tag-green tag-searches tag-unlimited tag-warrant">
     
     <div class="post-inner">
     
@@ -34,7 +34,7 @@ FBI Gets Green Flag For Unlimited Warrant less Searches
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/flag/" rel="tag">flag</a> <a href="https://www.deepdotweb.com/tag/green/" rel="tag">green</a> <a href="https://www.deepdotweb.com/tag/searches/" rel="tag">searches</a> <a href="https://www.deepdotweb.com/tag/unlimited/" rel="tag">unlimited</a> <a href="https://www.deepdotweb.com/tag/warrant/" rel="tag">warrant</a></span>				<span style="display:none" class="updated">2016-05-15</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/flag/" rel="tag">flag</a> <a href="https://www.deepdotweb.com/tag/green/" rel="tag">green</a> <a href="https://www.deepdotweb.com/tag/searches/" rel="tag">searches</a> <a href="https://www.deepdotweb.com/tag/unlimited/" rel="tag">unlimited</a> <a href="https://www.deepdotweb.com/tag/warrant/" rel="tag">warrant</a></span>				<span style="display:none" class="updated">2016-05-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     
     
