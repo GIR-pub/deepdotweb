@@ -1,5 +1,5 @@
 ---
-Brixton Prison Librarian Arrested For Trying To Buy Gun From The Dark Web
+Brixton Prison Librarian Arrested For Trying To Buy Gun From The Dark Web"
 ---
 <article class="post-listing post-13410 post type-post status-publish format-standard hentry category-news tag-brixton tag-buy tag-dark tag-gun tag-librarian tag-prison tag-web">
     <div class="post-inner">

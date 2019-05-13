@@ -1,5 +1,5 @@
 ---
-Legislation in Washington State Would Ban Bitcoin at Marijuana Stores
+Legislation in Washington State Would Ban Bitcoin at Marijuana Stores"
 ---
 <article class="post-listing post-18034 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ban tag-bitcoin tag-legislation tag-marijuana tag-state tag-stores tag-washington">
     <div class="post-inner">

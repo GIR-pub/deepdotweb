@@ -1,5 +1,5 @@
 ---
-German Tried To Extort Haribo And Kaufland With Poison
+German Tried To Extort Haribo And Kaufland With Poison"
 ---
 <article class="post-listing post-18497 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-extort tag-german tag-haribo tag-kaufland tag-poison">

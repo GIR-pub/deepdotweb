@@ -1,5 +1,5 @@
 ---
-What is a User Activated Soft Fork?
+What is a User Activated Soft Fork?"
 ---
 <article class="post-listing post-19469 post type-post status-publish format-standard has-post-thumbnail hentry  tag-activated tag-fork tag-kptx tag-soft tag-user">
     <div class="post-inner">

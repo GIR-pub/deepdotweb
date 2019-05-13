@@ -1,5 +1,5 @@
 ---
-Arizona Doctor Charged with Selling Bitcoin Without a License
+Arizona Doctor Charged with Selling Bitcoin Without a License"
 ---
 <article class="post-listing post-21417 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arizona tag-bitcoin tag-charged tag-doctor tag-license tag-selling">
     <div class="post-inner">

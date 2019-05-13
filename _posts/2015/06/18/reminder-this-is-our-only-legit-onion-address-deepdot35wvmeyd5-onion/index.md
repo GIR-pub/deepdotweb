@@ -1,5 +1,5 @@
 ---
-Reminder: This is our ONLY legit Onion address: deepdot35wvmeyd5.onion
+Reminder: This is our ONLY legit Onion address: deepdot35wvmeyd5.onion"
 ---
 <article class="post-listing post-10859 post type-post status-publish format-standard hentry category-news tag-address tag-deepdot35wvmeyd5onion tag-legit tag-onion tag-reminder">
     

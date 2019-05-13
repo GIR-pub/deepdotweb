@@ -1,5 +1,5 @@
 ---
-Vendor &#8220;SuperTrips&#8221; Pleaded Guilty For Selling Large Amounts On Silk Road
+Vendor &#8220;SuperTrips&#8221; Pleaded Guilty For Selling Large Amounts On Silk Road"
 ---
 <article class="post-listing post-5404 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amounts tag-guilty tag-large tag-pleaded tag-selling tag-supertrips">
     <div class="post-inner">

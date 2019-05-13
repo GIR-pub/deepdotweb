@@ -1,5 +1,5 @@
 ---
-Other Suspect Arrested in Coin.mx Bitcoin Exchange Scheme
+Other Suspect Arrested in Coin.mx Bitcoin Exchange Scheme"
 ---
 <article class="post-listing post-13909 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Ulbricht: Day two Onwards &#038; The Alleged Mt. Gox Connection
+Ulbricht: Day two Onwards &#038; The Alleged Mt. Gox Connection"
 ---
 <article class="post-listing post-8830 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alleged tag-connection tag-day tag-gox tag-mt tag-onwards trial tag-ulbricht">
     

@@ -1,5 +1,5 @@
 ---
-$400,000 In Bitcoin Seized in the Arrest of German Deepweb Vendors
+$400,000 In Bitcoin Seized in the Arrest of German Deepweb Vendors"
 ---
 <article class="post-listing post-15235 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4174 tag-arrest tag-bitcoin tag-deepweb tag-german tag-seized tag-vendors">
     <div class="post-inner">

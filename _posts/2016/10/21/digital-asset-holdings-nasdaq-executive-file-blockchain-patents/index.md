@@ -1,5 +1,5 @@
 ---
-Digital Asset Holdings &#038; Nasdaq Executive File Blockchain Patents
+Digital Asset Holdings &#038; Nasdaq Executive File Blockchain Patents"
 ---
 <article class="post-listing post-15973 post type-post status-publish format-standard has-post-thumbnail hentry  tag-asset tag-blockchain tag-digital tag-executive tag-file tag-holdings tag-nasdaq tag-patents">
     <div class="post-inner">

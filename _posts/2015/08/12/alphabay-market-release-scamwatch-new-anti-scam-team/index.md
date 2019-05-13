@@ -1,5 +1,5 @@
 ---
-Alphabay Market Release &#8220;ScamWatch&#8221; &#8211; New Anti-Scam Team
+Alphabay Market Release &#8220;ScamWatch&#8221; &#8211; New Anti-Scam Team"
 ---
 <article class="post-listing post-11249 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-alphabay tag-antiscam tag-release tag-scamwatch tag-team">
 <div class="post-inner">

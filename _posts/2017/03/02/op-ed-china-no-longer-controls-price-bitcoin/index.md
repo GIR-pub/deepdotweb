@@ -1,5 +1,5 @@
 ---
-Op-Ed: China No longer controls the price of Bitcoin
+Op-Ed: China No longer controls the price of Bitcoin"
 ---
 <article class="post-listing post-18470 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bitcoin tag-china tag-controls tag-longer tag-price">

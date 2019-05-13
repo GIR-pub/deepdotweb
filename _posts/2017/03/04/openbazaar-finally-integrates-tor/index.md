@@ -1,5 +1,5 @@
 ---
-OpenBazaar Finally Integrates Tor
+OpenBazaar Finally Integrates Tor"
 ---
 <article class="post-listing post-18431 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-finally tag-integrates tag-openbazaar 

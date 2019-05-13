@@ -1,5 +1,5 @@
 ---
-Final Defendants in Cannabinoid Ring Sentenced to 4.5 Years
+Final Defendants in Cannabinoid Ring Sentenced to 4.5 Years"
 ---
 <article class="post-listing post-21076 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4383 tag-cannabinoid tag-defendants tag-final tag-ring tag-sentenced tag-years">
     

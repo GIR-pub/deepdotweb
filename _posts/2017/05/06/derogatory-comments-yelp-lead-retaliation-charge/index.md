@@ -1,5 +1,5 @@
 ---
-“Derogatory Comments” on Yelp Lead to Retaliation Charge
+“Derogatory Comments” on Yelp Lead to Retaliation Charge"
 ---
 <article class="post-listing post-19664 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charge tag-comments tag-derogatory tag-lead tag-retaliation tag-yelp">
     

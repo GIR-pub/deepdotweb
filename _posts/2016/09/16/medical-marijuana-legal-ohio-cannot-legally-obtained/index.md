@@ -1,5 +1,5 @@
 ---
-Medical Marijuana Is Legal In Ohio But Cannot Be Legally Obtained
+Medical Marijuana Is Legal In Ohio But Cannot Be Legally Obtained"
 ---
 <article class="post-listing post-15432 post type-post status-publish format-standard has-post-thumbnail hentry  tag-legal tag-legally tag-marijuana tag-medical tag-obtained tag-ohio">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Tutorial: XMPP/Jabber OTR
+Tutorial: XMPP/Jabber OTr"
 ---
 <article class="post-listing post-9313 post type-post status-publish format-standard has-post-thumbnail hentry  tag-otr tag-tutorial tag-xmppjabber">
     <div class="post-inner">

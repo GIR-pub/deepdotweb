@@ -1,5 +1,5 @@
 ---
-Iowa Man Arrested for Selling Drugs to Ohio College Kids
+Iowa Man Arrested for Selling Drugs to Ohio College Kids"
 ---
 <article class="post-listing post-24874 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-college tag-iowa tag-kids tag-man tag-ohio tag-selling">

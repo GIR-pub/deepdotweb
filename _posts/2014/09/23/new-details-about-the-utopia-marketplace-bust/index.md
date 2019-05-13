@@ -1,5 +1,5 @@
 ---
-New Details About the Utopia/BMR Busts
+New Details About the Utopia/BMR Busts"
 ---
 <article class="post-listing post-7190 post type-post status-publish format-standard has-post-thumbnail hentry  tag-assassin tag-sale">
     <div class="post-inner">

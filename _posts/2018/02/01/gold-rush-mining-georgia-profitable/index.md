@@ -1,5 +1,5 @@
 ---
-Gold rush: why mining in Georgia is so profitable?
+Gold rush: why mining in Georgia is so profitable?"
 ---
 <article class="post-listing post-24629 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-georgia tag-gold tag-mining tag-profitable tag-rush">

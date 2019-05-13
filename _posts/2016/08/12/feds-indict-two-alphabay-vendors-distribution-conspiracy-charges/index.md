@@ -1,5 +1,5 @@
 ---
-Feds Indict Two AlphaBay Vendors on Distribution and Conspiracy Charges
+Feds Indict Two AlphaBay Vendors on Distribution and Conspiracy Charges"
 ---
 <article class="post-listing post-15096 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-charges tag-conspiracy tag-distribution tag-indict tag-vendors">
     <div class="post-inner">

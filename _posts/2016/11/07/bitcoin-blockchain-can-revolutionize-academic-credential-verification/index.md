@@ -1,5 +1,5 @@
 ---
-How Bitcoin Blockchain Can Revolutionize Academic Credential Verification
+How Bitcoin Blockchain Can Revolutionize Academic Credential Verification"
 ---
 <article class="post-listing post-16312 post type-post status-publish format-standard has-post-thumbnail hentry  tag-academic tag-bitcoin tag-blockchain tag-credential tag-revolutionize tag-verification">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Scotland Opiate Treatment is Endangering Other Drug Users
+Scotland Opiate Treatment is Endangering Other Drug Users"
 ---
 <article class="post-listing post-20630 post type-post status-publish format-standard has-post-thumbnail hentry  tag-endangering tag-opiate tag-scotland tag-treatment tag-users">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Utopia Marketplace is Now Officially Open!
+Utopia Marketplace is Now Officially Open!"
 ---
 <article class="post-listing post-3787 post type-post status-publish format-standard has-post-thumbnail hentry  tag-officialy tag-open tag-utopia">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-DeepDotWeb&#8217;s DarkNet Dictionary Project!
+DeepDotWeb&#8217;s DarkNet Dictionary Project!"
 ---
 <article class="post-listing post-1883 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-dictionary">
     <div class="post-inner">

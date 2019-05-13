@@ -1,5 +1,5 @@
 ---
-Security Alert: Six more bugs found in OpenSSL
+Security Alert: Six more bugs found in OpenSSl"
 ---
 <article class="post-listing post-5896 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alert tag-bugs tag-openssl tag-security">
     <div class="post-inner">

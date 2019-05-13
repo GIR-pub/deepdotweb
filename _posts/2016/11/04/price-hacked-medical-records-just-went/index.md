@@ -1,5 +1,5 @@
 ---
-The Price for your Hacked Medical Records Just Went Down
+The Price for your Hacked Medical Records Just Went Down"
 ---
 <article class="post-listing post-16242 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacked tag-medical tag-price tag-records">
     <div class="post-inner">

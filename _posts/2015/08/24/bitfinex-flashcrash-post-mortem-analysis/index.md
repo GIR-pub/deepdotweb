@@ -1,5 +1,5 @@
 ---
-BitFinex FlashCrash &#8211; Post-Mortem Analysis
+BitFinex FlashCrash &#8211; Post-Mortem Analysis"
 ---
 <article class="post-listing post-11326 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analysis tag-bitfinex tag-flashcrash tag-postmortem">
 <div class="post-inner">

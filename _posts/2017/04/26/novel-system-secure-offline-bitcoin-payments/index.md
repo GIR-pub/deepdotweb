@@ -1,5 +1,5 @@
 ---
-A Novel System for Secure Offline Bitcoin Payments
+A Novel System for Secure Offline Bitcoin Payments"
 ---
 <article class="post-listing post-19401 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-offline tag-payments tag-secure tag-system">
     

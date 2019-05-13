@@ -1,5 +1,5 @@
 ---
-Israel To Shut Down Its &#8220;Anti Drugs Authority&#8221; &#038; Fire Everyone
+Israel To Shut Down Its &#8220;Anti Drugs Authority&#8221; &#038; Fire Everyone"
 ---
 <article class="post-listing post-11273 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anti tag-authority tag-fire tag-israel tag-shut">
 <div class="post-inner">

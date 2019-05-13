@@ -1,5 +1,5 @@
 ---
-Lexington Man Pleads Guilty to DNM Money Laundering Charge Using BTC
+Lexington Man Pleads Guilty to DNM Money Laundering Charge Using BTc"
 ---
 <article class="post-listing post-10215 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charge tag-dnm tag-guilty tag-laundering tag-lexington tag-man tag-money tag-pleads">
     <div class="post-inner">

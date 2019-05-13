@@ -1,5 +1,5 @@
 ---
-Heroin Vendor Supremesmoke Busted
+Heroin Vendor Supremesmoke Busted"
 ---
 <article class="post-listing post-11317 post type-post status-publish format-standard hentry category-news tag-busted tag-heroin tag-supremesmoke tag-vendor">
 <div class="post-inner">

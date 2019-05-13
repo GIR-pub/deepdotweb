@@ -1,5 +1,5 @@
 ---
-Simple Whonix Installation Tutorial
+Simple Whonix Installation Tutorial"
 ---
 <article class="post-listing post-5913 post type-post status-publish format-standard has-post-thumbnail hentry  tag-installation tag-simple tag-tutorial tag-whonix">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-The Italian ANAC launched online whistleblowing platform using Tor onion services
+The Italian ANAC launched online whistleblowing platform using Tor onion services"
 ---
 <article class="post-listing post-24946 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-anac tag-italian tag-launched tag-onion tag-platform tag-services  tag-whistleblowing">

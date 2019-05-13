@@ -1,5 +1,5 @@
 ---
-New Law In The Netherlands Would Allow Authorities To Hack Cybercriminals
+New Law In The Netherlands Would Allow Authorities To Hack Cybercriminals"
 ---
 <article class="post-listing post-17193 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authorities tag-cybercriminals tag-hack tag-law tag-netherlands">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Browser Fingerprinting: Does Your Browser Stand Out?
+Browser Fingerprinting: Does Your Browser Stand Out?"
 ---
 <article class="post-listing post-16067 post type-post status-publish format-standard has-post-thumbnail hentry  tag-browser tag-fingerprinting tag-stand">
     <div class="post-inner">

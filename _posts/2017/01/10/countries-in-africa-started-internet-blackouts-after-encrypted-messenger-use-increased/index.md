@@ -1,5 +1,5 @@
 ---
-Countries in Africa Started Internet Blackouts After Encrypted Messenger Use Increased
+Countries in Africa Started Internet Blackouts After Encrypted Messenger Use Increased"
 ---
 <article class="post-listing post-17429 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

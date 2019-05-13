@@ -1,5 +1,5 @@
 ---
-Darknet Firearm Sales Indirectly Led to Austrian Cops Privately Carrying Guns
+Darknet Firearm Sales Indirectly Led to Austrian Cops Privately Carrying Guns"
 ---
 <article class="post-listing post-16824 post type-post status-publish format-standard has-post-thumbnail hentry  tag-austrian tag-carrying tag-cops tag-darknet tag-firearm tag-guns tag-indirectly tag-led tag-privately tag-sales">
     

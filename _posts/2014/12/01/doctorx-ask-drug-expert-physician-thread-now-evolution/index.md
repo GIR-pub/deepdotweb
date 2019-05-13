@@ -1,5 +1,5 @@
 ---
-DoctorX “Ask a Drug Expert Physician” Thread – Now On Evolution!
+DoctorX “Ask a Drug Expert Physician” Thread – Now On Evolution!"
 ---
 <article class="post-listing post-8513 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorx tag-evolution tag-expert tag-physician tag-thread">
     <div class="post-inner">

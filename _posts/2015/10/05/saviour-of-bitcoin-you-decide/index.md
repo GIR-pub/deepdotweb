@@ -1,5 +1,5 @@
 ---
-Saviour of Bitcoin? You decide
+Saviour of Bitcoin? You decide"
 ---
 <article class="post-listing post-11685 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-decide tag-saviour">
 <div class="post-inner">

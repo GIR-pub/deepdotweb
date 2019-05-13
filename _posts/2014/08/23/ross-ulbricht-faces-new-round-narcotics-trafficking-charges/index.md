@@ -1,5 +1,5 @@
 ---
-Ross Ulbricht Faces New Round Of Narcotics Trafficking Charges
+Ross Ulbricht Faces New Round Of Narcotics Trafficking Charges"
 ---
 <article class="post-listing post-6853 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-faces tag-narcotics  tag-trafficking tag-ulbricht">
     <div class="post-inner">

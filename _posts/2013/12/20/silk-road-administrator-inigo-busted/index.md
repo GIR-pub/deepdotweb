@@ -1,13 +1,9 @@
 ---
-title: "Silk Road Administrator &#8220;Inigo&#8221; Busted?!
+title: "Silk Road Administrator &#8220;Inigo&#8221; Busted?!"
 ---
-2757  tag-administrator tag-busted tag-inigo 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 20, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/12/20/silk-road-administrator-inigo-busted/#comments">2 Comments</a></span>
-
 
 <p style="text-align: center;"><strong><span style="color: #ff0000;">Update 2 :</span> <a href="http://www.deepdotweb.com/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/" target="_blank">Warning &#8211; Sr2.0 &amp; DPR might be compromised!</a></strong></p>
 <p style="text-align: center;"><strong>Update: All this info was confirmed &#8211; The silk road moderators / admins: <strong>ANDREW MICHAEL JONES, a/k/a “Inigo,” GARY DAVIS, a/k/a “Libertas,” and PETER PHILLIP NASH, a/k/a “Samesamebutdifferent,” a/k/a “Batman73,” a/k/a “Symmetry,” a/k/a “Anonymousasshit</strong> were arrested &#8211; <a href="http://www.deepdotweb.com/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/" target="_blank">We have posted the official statements and indictments here along with more information regarding the bust</a> and updated this post with the current information.<br />
@@ -39,7 +35,6 @@ title: "Silk Road Administrator &#8220;Inigo&#8221; Busted?!
 <p>Once again we would like to remind you that the first DPR was arrested while chatting online with a co-operating witness, so someone inside the Silk Road administrator is still a rat. and again, the Googleyed post (i guess that we will have to remind this again in the future):</p>
 <p><a href="/imgs/2013/12/googleyed1.jpg"><img class="aligncenter  wp-image-2552" alt="googleyed1" src="/imgs/2013/12/googleyed1.jpg" width="683" height="198" srcset="/imgs/2013/12/googleyed1.jpg 1218w, /imgs/2013/12/googleyed1-300x87.jpg 300w, /imgs/2013/12/googleyed1-1024x298.jpg 1024w" sizes="(max-width: 683px) 100vw, 683px" /></a></p>
 <p>Keep yourself updated at the discussion thread on Silk road forums: http://silkroad5v7dywlc.onion/index.php?topic=10153.0</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/administrator/" rel="tag">administrator</a>  <a href="https://www.deepdotweb.com/tag/inigo/" rel="tag">inigo</a> 
+
 
 Updated: 2013-12-20

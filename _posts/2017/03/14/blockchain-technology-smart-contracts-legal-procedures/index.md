@@ -1,5 +1,5 @@
 ---
-The Blockchain Technology, Smart Contracts and Legal Procedures
+The Blockchain Technology, Smart Contracts and Legal Procedures"
 ---
 <article class="post-listing post-18615 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-blockchain tag-contracts tag-legal tag-procedures tag-smart tag-technology">

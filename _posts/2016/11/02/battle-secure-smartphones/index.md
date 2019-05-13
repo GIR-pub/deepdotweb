@@ -1,5 +1,5 @@
 ---
-Battle of the Secure Smartphones
+Battle of the Secure Smartphones"
 ---
 <article class="post-listing post-16227 post type-post status-publish format-standard has-post-thumbnail hentry  tag-battle tag-secure tag-smartphones">
     <div class="post-inner">

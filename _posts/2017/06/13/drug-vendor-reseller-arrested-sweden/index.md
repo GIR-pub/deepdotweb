@@ -1,5 +1,5 @@
 ---
-Drug Vendor And Reseller Arrested In Sweden
+Drug Vendor And Reseller Arrested In Sweden"
 ---
 <article class="post-listing post-20535 post type-post status-publish format-standard has-post-thumbnail hentry  tag-reseller tag-sweden tag-vendor">
     <div class="post-inner">

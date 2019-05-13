@@ -1,5 +1,5 @@
 ---
-Police Studied IDC Financial Crime for Years
+Police Studied IDC Financial Crime for Years"
 ---
 <article class="post-listing post-19864 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crime tag-financial tag-idc tag-police tag-studied tag-years">
     

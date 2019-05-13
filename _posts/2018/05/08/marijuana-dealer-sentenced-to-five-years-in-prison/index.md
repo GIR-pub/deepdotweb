@@ -1,5 +1,5 @@
 ---
-Marijuana Dealer Sentenced to Five Years in Prison
+Marijuana Dealer Sentenced to Five Years in Prison"
 ---
 <article class="post-listing post-25625 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-marijuana tag-prison tag-sentenced tag-years">

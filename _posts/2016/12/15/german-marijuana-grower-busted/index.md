@@ -1,5 +1,5 @@
 ---
-German Marijuana Grower Busted
+German Marijuana Grower Busted"
 ---
 <article class="post-listing post-16933 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-The Silk Road Auction Legitimizes Bitcoin
+The Silk Road Auction Legitimizes Bitcoin"
 ---
 <article class="post-listing post-6255 post type-post status-publish format-standard has-post-thumbnail hentry  tag-auction tag-bitcoin tag-legitimizes 
     <div class="post-inner">

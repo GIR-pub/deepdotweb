@@ -1,5 +1,5 @@
 ---
-Belgian Sentenced To Community Service For Ordering Weapons Of War
+Belgian Sentenced To Community Service For Ordering Weapons Of War"
 ---
 <article class="post-listing post-16205 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belgian tag-community tag-ordering tag-sentenced tag-war tag-weapons">
     

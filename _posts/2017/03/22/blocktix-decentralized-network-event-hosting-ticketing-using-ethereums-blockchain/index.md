@@ -1,5 +1,5 @@
 ---
-Blocktix : Decentralized Network for Event Hosting &#038; Ticketing Using Ethereum&#8217;s Blockchain
+Blocktix : Decentralized Network for Event Hosting &#038; Ticketing Using Ethereum&#8217;s Blockchain"
 ---
 <article class="post-listing post-18740 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-blockchain tag-blocktix tag-decentralized tag-ethereums tag-event tag-hosting tag-network tag-ticketing">

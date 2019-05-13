@@ -1,5 +1,5 @@
 ---
-Two German Dealers Caught, 100,000 Euros Worth Of Drugs Seized
+Two German Dealers Caught, 100,000 Euros Worth Of Drugs Seized"
 ---
 <article class="post-listing post-15632 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1899 tag-caught tag-dealers tag-euros tag-german tag-seized tag-worth">
     <div class="post-inner">

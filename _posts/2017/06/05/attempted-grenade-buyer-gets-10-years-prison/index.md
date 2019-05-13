@@ -1,5 +1,5 @@
 ---
-Attempted Grenade Buyer Gets 10 Years in Prison
+Attempted Grenade Buyer Gets 10 Years in Prison"
 ---
 <article class="post-listing post-20405 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-attempted tag-buyer tag-grenade tag-prison tag-years">
     <div class="post-inner">

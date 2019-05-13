@@ -1,5 +1,5 @@
 ---
-How to earn interest on your Bitcoin &#8211; Magnr Lending
+How to earn interest on your Bitcoin &#8211; Magnr Lending"
 ---
 <article class="post-listing post-16825 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-earn tag-interest tag-lending tag-magnr">
     <div class="post-inner">

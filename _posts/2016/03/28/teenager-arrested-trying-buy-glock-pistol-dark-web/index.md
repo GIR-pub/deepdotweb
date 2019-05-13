@@ -1,5 +1,5 @@
 ---
-Teenager Arrested for Trying To Buy Glock Pistol From The Dark Web
+Teenager Arrested for Trying To Buy Glock Pistol From The Dark Web"
 ---
 <article class="post-listing post-13584 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-dark tag-glock tag-pistol tag-teenager tag-web">
     <div class="post-inner">

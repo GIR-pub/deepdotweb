@@ -1,5 +1,5 @@
 ---
-Canada Introduces Bill Allowing Customs to Open All Packages
+Canada Introduces Bill Allowing Customs to Open All Packages"
 ---
 <article class="post-listing post-19031 post type-post status-publish format-standard has-post-thumbnail hentry  tag-allowing tag-bill tag-canada tag-customs tag-introduces tag-open tag-packages">
     <div class="post-inner">

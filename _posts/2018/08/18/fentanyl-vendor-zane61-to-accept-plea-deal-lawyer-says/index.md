@@ -1,5 +1,5 @@
 ---
-Fentanyl Vendor “Zane61” to Accept Plea Deal, Lawyer Says
+Fentanyl Vendor “Zane61” to Accept Plea Deal, Lawyer Says"
 ---
 <article class="post-listing post-26576 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-accept tag-deal tag-fentanyl tag-lawyer tag-plea tag-vendor tag-zane61">

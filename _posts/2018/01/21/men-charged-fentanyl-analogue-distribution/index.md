@@ -1,5 +1,5 @@
 ---
-Men Charged for Fentanyl Analogue Distribution
+Men Charged for Fentanyl Analogue Distribution"
 ---
 <article class="post-listing post-24507 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-analogue tag-charged tag-distribution tag-fentanyl tag-men">

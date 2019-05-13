@@ -1,5 +1,5 @@
 ---
-Specialist Claims Successful Coin Mining Days are Gone
+Specialist Claims Successful Coin Mining Days are Gone"
 ---
 <article class="post-listing post-21570 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claims tag-coin tag-days tag-mining tag-specialist tag-successful">
     <div class="post-inner">

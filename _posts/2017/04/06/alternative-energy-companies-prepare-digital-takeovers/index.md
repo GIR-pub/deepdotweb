@@ -1,5 +1,5 @@
 ---
-Alternative Energy Companies Prepare for Digital Takeovers
+Alternative Energy Companies Prepare for Digital Takeovers"
 ---
 <article class="post-listing post-19032 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-companies tag-digital tag-energy tag-prepare tag-takeovers">
     <div class="post-inner">

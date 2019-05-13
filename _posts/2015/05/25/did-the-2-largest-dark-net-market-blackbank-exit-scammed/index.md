@@ -1,5 +1,5 @@
 ---
-Did The #2 Largest Dark Net Market, BlackBank, Exit Scammed?
+Did The #2 Largest Dark Net Market, BlackBank, Exit Scammed?"
 ---
 <article class="post-listing post-10390 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blackbank tag-dark tag-exit tag-largest tag-net tag-scammed">
     <div class="post-inner">

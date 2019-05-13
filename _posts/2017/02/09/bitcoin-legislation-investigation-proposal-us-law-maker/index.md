@@ -1,5 +1,5 @@
 ---
-Bitcoin Legislation and Investigation &#8211; A Proposal For the US Law Maker
+Bitcoin Legislation and Investigation &#8211; A Proposal For the US Law Maker"
 ---
 <article class="post-listing post-18046 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-investigation tag-law tag-legislation tag-maker tag-proposal">
     <div class="post-inner">

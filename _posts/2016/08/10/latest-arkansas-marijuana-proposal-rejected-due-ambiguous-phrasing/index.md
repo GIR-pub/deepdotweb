@@ -1,5 +1,5 @@
 ---
-Latest Arkansas Marijuana Proposal Rejected Due to Ambiguous Phrasing
+Latest Arkansas Marijuana Proposal Rejected Due to Ambiguous Phrasing"
 ---
 <article class="post-listing post-15062 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ambiguous tag-arkansas tag-due tag-latest tag-marijuana tag-phrasing tag-proposal tag-rejected">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Agora: We are working to resolve the problem.
+Agora: We are working to resolve the problem."
 ---
 <article class="post-listing post-11136 post type-post status-publish format-standard hentry category-news tag-agora tag-problem tag-resolve tag-working">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Rule 41 Warrant Used in Kelihos Botnet TAKEDOWN
+Rule 41 Warrant Used in Kelihos Botnet TAKEDOWn"
 ---
 <article class="post-listing post-19399 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3910 tag-botnet tag-kelihos tag-rule tag-takedown tag-warrant">
     <div class="post-inner">

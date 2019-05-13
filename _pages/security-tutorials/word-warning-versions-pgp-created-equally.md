@@ -1,5 +1,5 @@
 ---
-Word of Warning &#8212; All versions of PGP are NOT created equally!
+Word of Warning &#8212; All versions of PGP are NOT created equally!"
 ---
 5493
 

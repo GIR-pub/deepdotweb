@@ -1,5 +1,5 @@
 ---
-Turning Your Phone On Is Consenting To Being Tracked
+Turning Your Phone On Is Consenting To Being Tracked"
 ---
 <article class="post-listing post-13174 post type-post status-publish format-standard has-post-thumbnail hentry  tag-consenting tag-phone tag-tracked tag-turning">
     <div class="post-inner">

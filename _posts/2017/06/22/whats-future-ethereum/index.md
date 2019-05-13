@@ -1,5 +1,5 @@
 ---
-What’s the Future of Ethereum?
+What’s the Future of Ethereum?"
 ---
 <article class="post-listing post-20794 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ethereum tag-future">
     <div class="post-inner">

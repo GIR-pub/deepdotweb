@@ -1,5 +1,5 @@
 ---
-PrivateVPN Review – 2017 update
+PrivateVPN Review – 2017 update"
 ---
 <article class="post-listing post-12288 post type-post status-publish format-standard has-post-thumbnail hentry  tag-privatevpn tag-review">
 <div class="post-inner">

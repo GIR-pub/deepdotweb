@@ -1,5 +1,5 @@
 ---
-Mining Cryptocurrency With A Free Cloud Botnet, Why Not?
+Mining Cryptocurrency With A Free Cloud Botnet, Why Not?"
 ---
 <article class="post-listing post-6739 post type-post status-publish format-standard has-post-thumbnail hentry  tag-botnet tag-cloud tag-cryptocurrency tag-free tag-mining">
     <div class="post-inner">

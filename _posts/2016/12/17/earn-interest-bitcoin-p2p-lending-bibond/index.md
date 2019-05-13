@@ -1,5 +1,5 @@
 ---
-How to earn interest on your Bitcoin &#8211; P2P Lending with Bitbond
+How to earn interest on your Bitcoin &#8211; P2P Lending with Bitbond"
 ---
 <article class="post-listing post-16968 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bibond tag-bitcoin tag-earn tag-interest tag-lending tag-p2p">
     

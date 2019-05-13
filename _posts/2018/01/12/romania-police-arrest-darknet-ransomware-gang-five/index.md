@@ -1,5 +1,5 @@
 ---
-Romania Police Arrest a Darknet Ransomware Gang of Five
+Romania Police Arrest a Darknet Ransomware Gang of Five"
 ---
 <article class="post-listing post-24387 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-arrest tag-darknet tag-gang tag-police tag-ransomware tag-romania">

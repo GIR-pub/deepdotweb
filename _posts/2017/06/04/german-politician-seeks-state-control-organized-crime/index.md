@@ -1,5 +1,5 @@
 ---
-German Politician Seeks More State Control Over Organized Crime
+German Politician Seeks More State Control Over Organized Crime"
 ---
 <article class="post-listing post-20360 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-crime tag-german tag-organized tag-politician tag-seeks tag-state">
     <div class="post-inner">

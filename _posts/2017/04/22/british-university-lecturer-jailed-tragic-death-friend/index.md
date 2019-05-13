@@ -1,5 +1,5 @@
 ---
-British University Lecturer Jailed After Tragic Death Of His Friend
+British University Lecturer Jailed After Tragic Death Of His Friend"
 ---
 <article class="post-listing post-19330 post type-post status-publish format-standard has-post-thumbnail hentry  tag-british tag-death tag-jailed tag-lecturer tag-tragic tag-university">
     <div class="post-inner">

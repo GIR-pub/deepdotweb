@@ -1,5 +1,5 @@
 ---
-Alphabay Counterfeit Vendor “VIB” Busted in Austria
+Alphabay Counterfeit Vendor “VIB” Busted in Austria"
 ---
 <article class="post-listing post-23968 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-austria tag-busted tag-counterfeit tag-vendor tag-vib">
     <div class="post-inner">

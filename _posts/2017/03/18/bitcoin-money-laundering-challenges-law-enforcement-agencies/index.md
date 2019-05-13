@@ -1,5 +1,5 @@
 ---
-Bitcoin and Money Laundering &#8211; Challenges for Law Enforcement Agencies
+Bitcoin and Money Laundering &#8211; Challenges for Law Enforcement Agencies"
 ---
 <article class="post-listing post-18674 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agencies tag-bitcoin tag-challenges tag-enforcement tag-laundering tag-law tag-money">
 <div class="post-inner">

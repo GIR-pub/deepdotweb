@@ -1,5 +1,5 @@
 ---
-Five National Guard Members Charged for Bitcoin Fraud
+Five National Guard Members Charged for Bitcoin Fraud"
 ---
 <article class="post-listing post-20965 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-charged tag-fraud tag-guard tag-members tag-national">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Is Unsupervised Machine Learning the Next Step in Fighting Fraud?
+Is Unsupervised Machine Learning the Next Step in Fighting Fraud?"
 ---
 <article class="post-listing post-18529 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-fighting tag-fraud tag-learning tag-machine tag-step tag-unsupervised">

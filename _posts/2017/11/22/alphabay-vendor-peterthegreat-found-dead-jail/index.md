@@ -1,5 +1,5 @@
 ---
-Alphabay Vendor “PeterTheGreat” Found Dead in Jail
+Alphabay Vendor “PeterTheGreat” Found Dead in Jail"
 ---
 <article class="post-listing post-23631 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-dead tag-peterthegreat tag-vendor">
     <div class="post-inner">

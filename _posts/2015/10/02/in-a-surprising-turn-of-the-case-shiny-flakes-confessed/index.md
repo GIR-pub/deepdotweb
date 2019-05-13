@@ -1,5 +1,5 @@
 ---
-In a Surprising Turn Of The Case: &#8220;Shiny Flakes&#8221; Confessed
+In a Surprising Turn Of The Case: &#8220;Shiny Flakes&#8221; Confessed"
 ---
 <article class="post-listing post-11658 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-confessed tag-flakes tag-shiny tag-surprising tag-turn">
 <div class="post-inner">

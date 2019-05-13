@@ -1,5 +1,5 @@
 ---
-New Form Of Cerber Ransomware Being Offered On Russian Hacking Forum
+New Form Of Cerber Ransomware Being Offered On Russian Hacking Forum"
 ---
 <article class="post-listing post-14295 post type-post status-publish format-standard hentry category-news tag-cerber tag-form tag-forum tag-hacking tag-offered tag-ransomware tag-russian">
     <div class="post-inner">

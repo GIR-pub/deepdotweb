@@ -1,5 +1,5 @@
 ---
-Is The Bitcoin Dev Team Serious About Anonymity?
+Is The Bitcoin Dev Team Serious About Anonymity?"
 ---
 <article class="post-listing post-6857 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymity tag-bitcoin tag-dev tag-team">
     <div class="post-inner">

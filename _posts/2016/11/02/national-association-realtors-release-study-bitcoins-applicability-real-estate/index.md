@@ -1,5 +1,5 @@
 ---
-National Association of Realtors Release Study on Bitcoin&#8217;s Applicability in Real Estate
+National Association of Realtors Release Study on Bitcoin&#8217;s Applicability in Real Estate"
 ---
 <article class="post-listing post-16234 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applicability tag-association tag-estate tag-national tag-real tag-realtors tag-release tag-study">
     <div class="post-inner">

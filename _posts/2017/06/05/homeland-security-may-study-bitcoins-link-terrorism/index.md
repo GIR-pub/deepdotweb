@@ -1,5 +1,5 @@
 ---
-Homeland Security May Study Bitcoin’s Link to Terrorism
+Homeland Security May Study Bitcoin’s Link to Terrorism"
 ---
 <article class="post-listing post-20404 post type-post status-publish format-standard has-post-thumbnail hentry  tag-link tag-security tag-study tag-terrorism">
     <div class="post-inner">

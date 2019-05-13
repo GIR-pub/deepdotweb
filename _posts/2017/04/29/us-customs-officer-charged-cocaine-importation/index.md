@@ -1,5 +1,5 @@
 ---
-US Customs Officer Charged with Cocaine Importation
+US Customs Officer Charged with Cocaine Importation"
 ---
 <article class="post-listing post-19465 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-cocaine tag-customs tag-importation tag-officer">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Agora: Upgrading Our Infrastructure To Improve The Situation
+Agora: Upgrading Our Infrastructure To Improve The Situation"
 ---
 <article class="post-listing post-9768 post type-post status-publish format-standard hentry category-news tag-agora tag-improve tag-infrastructure tag-situation tag-upgrading">
 <div class="post-inner">

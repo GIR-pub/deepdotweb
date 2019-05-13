@@ -1,5 +1,5 @@
 ---
-Quick Tutorial: Sylpheed Email Client With Lelantos
+Quick Tutorial: Sylpheed Email Client With Lelantos"
 ---
 <article class="post-listing post-9672 post type-post status-publish format-standard has-post-thumbnail hentry  tag-client tag-email tag-lelantos tag-quick tag-sylpheed tag-tutorial">
     <div class="post-inner">

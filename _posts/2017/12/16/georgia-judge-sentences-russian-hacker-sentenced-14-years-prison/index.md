@@ -1,5 +1,5 @@
 ---
-Georgia Judge Sentences Russian Hacker to 14 Years in Prison
+Georgia Judge Sentences Russian Hacker to 14 Years in Prison"
 ---
 <article class="post-listing post-23936 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1945 tag-georgia tag-hacker tag-judge tag-prison tag-russian tag-sentenced tag-sentences tag-years">
     <div class="post-inner">

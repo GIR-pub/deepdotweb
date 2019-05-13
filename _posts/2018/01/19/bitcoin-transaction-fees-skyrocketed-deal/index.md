@@ -1,5 +1,5 @@
 ---
-Bitcoin Transaction Fees Have Skyrocketed &#8211; How To Deal With That?
+Bitcoin Transaction Fees Have Skyrocketed &#8211; How To Deal With That?"
 ---
 <article class="post-listing post-24483 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-bitcoin tag-deal tag-fees tag-skyrocketed tag-transaction">

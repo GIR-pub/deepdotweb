@@ -1,5 +1,5 @@
 ---
-French Couple Sentenced For The Resale Of Narcotics
+French Couple Sentenced For The Resale Of Narcotics"
 ---
 <article class="post-listing post-20358 post type-post status-publish format-standard has-post-thumbnail hentry  tag-couple tag-french tag-narcotics tag-resale tag-sentenced">
     <div class="post-inner">

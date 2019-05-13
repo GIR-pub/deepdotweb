@@ -1,5 +1,5 @@
 ---
-OpenBazaar 2.0 To Run On The Tor Network
+OpenBazaar 2.0 To Run On The Tor Network"
 ---
 <article class="post-listing post-15543 post type-post status-publish format-standard has-post-thumbnail hentry tag-network tag-openbazaar tag-run 
     <div class="post-inner">

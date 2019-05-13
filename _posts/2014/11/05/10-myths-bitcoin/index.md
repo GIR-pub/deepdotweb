@@ -1,5 +1,5 @@
 ---
-10 Myths About Bitcoin
+10 Myths About Bitcoin"
 ---
 <article class="post-listing post-7034 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-bitcoin tag-myths">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-CP Forum in Spain Taken Down by Reverse Image Searches
+CP Forum in Spain Taken Down by Reverse Image Searches"
 ---
 <article class="post-listing post-21077 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cp tag-forum tag-image tag-reverse tag-searches tag-spain">
     <div class="post-inner">

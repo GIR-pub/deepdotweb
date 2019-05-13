@@ -1,5 +1,5 @@
 ---
-German Vendor Caught in Special Forces Raid
+German Vendor Caught in Special Forces Raid"
 ---
 <article class="post-listing post-23412 post type-post status-publish format-standard has-post-thumbnail hentry  tag-caught tag-forces tag-german tag-raid tag-special tag-vendor">
     <div class="post-inner">

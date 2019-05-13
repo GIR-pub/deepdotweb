@@ -1,5 +1,5 @@
 ---
-Agora Update: Its Up again!
+Agora Update: Its Up again!"
 ---
 <article class="post-listing post-9651 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-agora tag-update">
 <div class="post-inner">

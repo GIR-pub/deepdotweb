@@ -1,5 +1,5 @@
 ---
-Satoshi Nakamoto&#8217;s Email Account Hacked
+Satoshi Nakamoto&#8217;s Email Account Hacked"
 ---
 <article class="post-listing post-6994 post type-post status-publish format-standard has-post-thumbnail hentry  tag-account tag-email tag-hacked tag-nakamotos tag-satoshi">
     <div class="post-inner">

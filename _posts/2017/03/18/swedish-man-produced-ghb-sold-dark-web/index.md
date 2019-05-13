@@ -1,5 +1,5 @@
 ---
-Swedish Man Produced GHB And Sold It On The Dark Web
+Swedish Man Produced GHB And Sold It On The Dark Web"
 ---
 <article class="post-listing post-18675 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-ghb tag-man tag-produced  tag-swedish tag-web">
 <div class="post-inner">

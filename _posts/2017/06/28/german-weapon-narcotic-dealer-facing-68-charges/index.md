@@ -1,5 +1,5 @@
 ---
-German Weapon And Narcotic Dealer Facing 68 Charges
+German Weapon And Narcotic Dealer Facing 68 Charges"
 ---
 <article class="post-listing post-20946 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5630 tag-charges tag-facing tag-german tag-narcotic tag-weapon">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Child Porn Charges Against Man In Israel
+Child Porn Charges Against Man In Israel"
 ---
 <article class="post-listing post-18594 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-charges tag-child tag-israel tag-man tag-porn">

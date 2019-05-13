@@ -1,5 +1,5 @@
 ---
-Solidus: A New Cryptocurrency That Promotes Permissionless Byzantine Consensus
+Solidus: A New Cryptocurrency That Promotes Permissionless Byzantine Consensus"
 ---
 <article class="post-listing post-17212 post type-post status-publish format-standard has-post-thumbnail hentry  tag-byzantine tag-consensus tag-cryptocurrency tag-permissionless tag-promotes tag-solidus">
     <div class="post-inner">

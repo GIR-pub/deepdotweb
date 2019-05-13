@@ -1,5 +1,5 @@
 ---
-Decentralized Exchanges: Goxed No More!
+Decentralized Exchanges: Goxed No More!"
 ---
 <article class="post-listing post-15646 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decentralized tag-exchanges tag-goxed">
     <div class="post-inner">

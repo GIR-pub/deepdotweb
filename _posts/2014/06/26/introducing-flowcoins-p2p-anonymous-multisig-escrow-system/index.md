@@ -1,5 +1,5 @@
 ---
-Introducing Flowcoins: P2P &#038; Anonymous Multisig Escrow System
+Introducing Flowcoins: P2P &#038; Anonymous Multisig Escrow System"
 ---
 <article class="post-listing post-6228 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-escrow tag-flowcoins tag-introducing tag-multisig tag-p2p tag-system">
     <div class="post-inner">

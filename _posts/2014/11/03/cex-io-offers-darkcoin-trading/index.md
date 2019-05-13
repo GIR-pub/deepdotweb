@@ -1,5 +1,5 @@
 ---
-CEX.IO Offers Darkcoin Trading
+CEX.IO Offers Darkcoin Trading"
 ---
 <article class="post-listing post-7937 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cexio tag-darkcoin tag-offers tag-trading">
     <div class="post-inner">

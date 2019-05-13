@@ -1,5 +1,5 @@
 ---
-SPECTER : A New Scalable and Fast Cryptocurrency Protocol
+SPECTER : A New Scalable and Fast Cryptocurrency Protocol"
 ---
 <article class="post-listing post-17450 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptocurrency tag-fast tag-protocol tag-scalable tag-specter">
     <div class="post-inner">

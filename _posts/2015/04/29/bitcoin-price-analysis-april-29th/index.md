@@ -1,5 +1,5 @@
 ---
-Bitcoin Price Analysis April 29th
+Bitcoin Price Analysis April 29th"
 ---
 <article class="post-listing post-10130 post type-post status-publish format-standard has-post-thumbnail hentry  tag-29th tag-analysis tag-april tag-bitcoin tag-price">
     <div class="post-inner">

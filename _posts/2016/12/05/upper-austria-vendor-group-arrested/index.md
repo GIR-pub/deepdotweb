@@ -1,5 +1,5 @@
 ---
-Upper Austria Vendor Group Arrested
+Upper Austria Vendor Group Arrested"
 ---
 <article class="post-listing post-16746 post type-post status-publish format-standard has-post-thumbnail hentry  tag-austria tag-group tag-upper tag-vendor">
     <div class="post-inner">

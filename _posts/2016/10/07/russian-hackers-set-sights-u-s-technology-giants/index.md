@@ -1,5 +1,5 @@
 ---
-Russian Hackers Set Sights on U.S. Technology Giants
+Russian Hackers Set Sights on U.S. Technology Giants"
 ---
 <article class="post-listing post-15704 post type-post status-publish format-standard has-post-thumbnail hentry  tag-giants tag-hackers tag-russian tag-set tag-sights tag-technology">
     <div class="post-inner">

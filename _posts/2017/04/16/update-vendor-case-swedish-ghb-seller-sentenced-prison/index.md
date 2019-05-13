@@ -1,5 +1,5 @@
 ---
-Update In Vendor Case: Swedish GHB Seller Sentenced To Prison
+Update In Vendor Case: Swedish GHB Seller Sentenced To Prison"
 ---
 <article class="post-listing post-19213 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-ghb tag-prison tag-seller tag-sentenced tag-swedish tag-update tag-vendor">
     <div class="post-inner">

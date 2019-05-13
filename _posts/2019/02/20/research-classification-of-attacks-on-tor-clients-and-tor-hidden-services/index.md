@@ -1,5 +1,5 @@
 ---
-Research: Classification of attacks on Tor clients and Tor hidden services
+Research: Classification of attacks on Tor clients and Tor hidden services"
 ---
 <article class="post-listing post-28407 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-classification tag-clients tag-research tag-services 
     <div class="post-inner">

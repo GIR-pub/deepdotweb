@@ -1,5 +1,5 @@
 ---
-Drug Task Force Sees Counterfeit Oxy Influx in Central Oregon
+Drug Task Force Sees Counterfeit Oxy Influx in Central Oregon"
 ---
 <article class="post-listing post-23398 post type-post status-publish format-standard has-post-thumbnail hentry  tag-central tag-counterfeit tag-force tag-influx tag-oregon tag-oxy tag-sees tag-task">
     

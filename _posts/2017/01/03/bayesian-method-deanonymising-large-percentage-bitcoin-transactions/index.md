@@ -1,5 +1,5 @@
 ---
-The Bayesian Method For Deanonymising A Large Percentage of Bitcoin Transactions
+The Bayesian Method For Deanonymising A Large Percentage of Bitcoin Transactions"
 ---
 <article class="post-listing post-17288 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bayesian tag-bitcoin tag-deanonymising tag-large tag-method tag-percentage tag-transactions">
     <div class="post-inner">

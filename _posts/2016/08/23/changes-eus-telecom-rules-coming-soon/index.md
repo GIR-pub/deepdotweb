@@ -1,5 +1,5 @@
 ---
-Changes to EU’s Telecom Rules Are Coming Soon
+Changes to EU’s Telecom Rules Are Coming Soon"
 ---
 <article class="post-listing post-15205 post type-post status-publish format-standard hentry category-news tag-eus tag-rules tag-telecom">
     <div class="post-inner">

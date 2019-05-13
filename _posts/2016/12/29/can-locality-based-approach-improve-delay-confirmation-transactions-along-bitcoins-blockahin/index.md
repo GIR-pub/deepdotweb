@@ -1,5 +1,5 @@
 ---
-Can A Locality Based Approach Improve The Delay in Confirmation of Transactions Along Bitcoin&#8217;s Blockahin?
+Can A Locality Based Approach Improve The Delay in Confirmation of Transactions Along Bitcoin&#8217;s Blockahin?"
 ---
 <article class="post-listing post-17144 post type-post status-publish format-standard has-post-thumbnail hentry  tag-approach tag-based tag-blockahin tag-confirmation tag-delay tag-improve tag-locality tag-transactions">
     <div class="post-inner">

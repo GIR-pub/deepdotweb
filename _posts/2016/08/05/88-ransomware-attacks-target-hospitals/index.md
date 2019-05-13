@@ -1,5 +1,5 @@
 ---
-88% Of All Ransomware Attacks Target Hospitals
+88% Of All Ransomware Attacks Target Hospitals"
 ---
 <article class="post-listing post-15021 post type-post status-publish format-standard hentry category-news tag-4084 tag-attacks tag-hospitals tag-ransomware tag-target">
     <div class="post-inner">

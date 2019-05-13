@@ -1,5 +1,5 @@
 ---
-Come For the Drugs. Stay For the Freedom
+Come For the Drugs. Stay For the Freedom"
 ---
 <article class="post-listing post-12059 post type-post status-publish format-standard has-post-thumbnail hentry  tag-freedom tag-stay">
 <div class="post-inner">

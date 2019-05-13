@@ -1,5 +1,5 @@
 ---
-Report: The Marketing Strategies Of “Petya” And “Mischa” Ransomware
+Report: The Marketing Strategies Of “Petya” And “Mischa” Ransomware"
 ---
 <article class="post-listing post-15670 post type-post status-publish format-standard has-post-thumbnail hentry  tag-marketing tag-mischa tag-petya tag-ransomware tag-report tag-strategies">
     <div class="post-inner">

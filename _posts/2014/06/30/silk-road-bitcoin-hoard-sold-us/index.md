@@ -1,5 +1,5 @@
 ---
-Silk Road Bitcoin hoard sold in US!
+Silk Road Bitcoin hoard sold in US!"
 ---
 <article class="post-listing post-6286 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-hoard ">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-How To Torrent Pharmaceutical Drugs
+How To Torrent Pharmaceutical Drugs"
 ---
 <article class="post-listing post-26530 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-pharmaceutical rent">

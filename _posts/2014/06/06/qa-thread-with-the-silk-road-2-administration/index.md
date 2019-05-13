@@ -1,5 +1,5 @@
 ---
-Q&#038;A Thread With The Silk Road 2 Administration
+Q&#038;A Thread With The Silk Road 2 Administration"
 ---
 <article class="post-listing post-5902 post type-post status-publish format-standard has-post-thumbnail hentry  tag-administration tag-qa tag-thread">
     <div class="post-inner">

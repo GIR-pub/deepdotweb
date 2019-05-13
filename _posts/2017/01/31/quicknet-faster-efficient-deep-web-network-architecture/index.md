@@ -1,5 +1,5 @@
 ---
-QuickNet &#8211; A Faster, More Efficient Deep Web Network Architecture
+QuickNet &#8211; A Faster, More Efficient Deep Web Network Architecture"
 ---
 <article class="post-listing post-17870 post type-post status-publish format-standard has-post-thumbnail hentry  tag-architecture tag-deep tag-efficient tag-faster tag-network tag-quicknet tag-web">
     <div class="post-inner">

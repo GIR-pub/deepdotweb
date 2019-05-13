@@ -1,5 +1,5 @@
 ---
-HANGING OFF THE MOLECULE: A BRIEF MEETING WITH ALEXANDER SHULGIN
+HANGING OFF THE MOLECULE: A BRIEF MEETING WITH ALEXANDER SHULGIn"
 ---
 <article class="post-listing post-16430 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alexander tag-hanging tag-meeting tag-molecule tag-shulgin">
     <div class="post-inner">

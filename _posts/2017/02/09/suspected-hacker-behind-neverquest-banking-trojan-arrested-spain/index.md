@@ -1,5 +1,5 @@
 ---
-Suspected Hacker Behind the NeverQuest Banking Trojan Arrested in Spain
+Suspected Hacker Behind the NeverQuest Banking Trojan Arrested in Spain"
 ---
 <article class="post-listing post-18047 post type-post status-publish format-standard has-post-thumbnail hentry  tag-banking tag-hacker tag-neverquest tag-spain tag-suspected tag-trojan">
     <div class="post-inner">

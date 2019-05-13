@@ -1,5 +1,5 @@
 ---
-Dutch Public Prosecutor Fights Against Bitcoin Money Laundering
+Dutch Public Prosecutor Fights Against Bitcoin Money Laundering"
 ---
 <article class="post-listing post-17554 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-dutch tag-fights tag-laundering tag-money tag-prosecutor tag-public">
     <div class="post-inner">

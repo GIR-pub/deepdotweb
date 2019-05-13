@@ -1,5 +1,5 @@
 ---
-Dark Net Arms Vendor Gunrunner to be Sentenced Next Month
+Dark Net Arms Vendor Gunrunner to be Sentenced Next Month"
 ---
 <article class="post-listing post-15173 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-dark tag-gunrunner tag-month tag-net tag-scheduled tag-sentenced">
     <div class="post-inner">

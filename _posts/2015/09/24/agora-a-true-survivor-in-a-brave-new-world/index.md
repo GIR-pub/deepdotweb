@@ -1,5 +1,5 @@
 ---
-Agora: A True Survivor in a Brave New World
+Agora: A True Survivor in a Brave New World"
 ---
 <article class="post-listing post-11584 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-brave tag-survivor tag-true 
 <div class="post-inner">

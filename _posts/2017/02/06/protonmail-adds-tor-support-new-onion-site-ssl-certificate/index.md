@@ -1,5 +1,5 @@
 ---
-ProtonMail Adds Tor Support with a New Onion Site and SSL Certificate
+ProtonMail Adds Tor Support with a New Onion Site and SSL Certificate"
 ---
 <article class="post-listing post-18000 post type-post status-publish format-standard has-post-thumbnail hentry  tag-adds tag-certificate tag-onion tag-protonmail tag-site tag-ssl tag-support 
     <div class="post-inner">

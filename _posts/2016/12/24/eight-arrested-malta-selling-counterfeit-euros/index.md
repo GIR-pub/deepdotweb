@@ -1,5 +1,5 @@
 ---
-Eight Arrested In Malta For Selling Counterfeit Euros
+Eight Arrested In Malta For Selling Counterfeit Euros"
 ---
 <article class="post-listing post-17122 post type-post status-publish format-standard has-post-thumbnail hentry  tag-counterfeit tag-euros tag-malta tag-selling">
     <div class="post-inner">

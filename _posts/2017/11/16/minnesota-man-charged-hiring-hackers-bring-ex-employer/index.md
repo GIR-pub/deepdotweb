@@ -1,5 +1,5 @@
 ---
-Minnesota Man Charged With Hiring Hackers to Bring Down Ex-Employer
+Minnesota Man Charged With Hiring Hackers to Bring Down Ex-Employer"
 ---
 <article class="post-listing post-23542 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bring tag-charged tag-exemployer tag-hackers tag-hiring tag-man tag-minnesota">
     <div class="post-inner">

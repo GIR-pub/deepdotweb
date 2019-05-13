@@ -1,5 +1,5 @@
 ---
-Coin.mx Operator Admits Fraud and Money Laundering
+Coin.mx Operator Admits Fraud and Money Laundering"
 ---
 <article class="post-listing post-17686 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admits tag-coinmx tag-fraud tag-laundering tag-money tag-operator">
     <div class="post-inner">

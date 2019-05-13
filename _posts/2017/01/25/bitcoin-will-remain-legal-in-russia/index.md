@@ -1,5 +1,5 @@
 ---
-No ban for Bitcoin in Russia
+No ban for Bitcoin in Russia"
 ---
 <article class="post-listing post-17688 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ban tag-bitcoin tag-russia">
     <div class="post-inner">

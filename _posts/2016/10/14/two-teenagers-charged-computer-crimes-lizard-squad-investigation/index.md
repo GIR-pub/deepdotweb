@@ -1,5 +1,5 @@
 ---
-Two Teenagers Charged With Computer Crimes In Lizard Squad Investigation
+Two Teenagers Charged With Computer Crimes In Lizard Squad Investigation"
 ---
 <article class="post-listing post-15812 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-computer tag-crimes tag-investigation tag-lizard tag-squad tag-teenagers">
     <div class="post-inner">

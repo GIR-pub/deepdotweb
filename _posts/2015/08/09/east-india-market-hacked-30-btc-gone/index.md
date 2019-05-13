@@ -1,5 +1,5 @@
 ---
-East India Market Hacked &#8211; 30 BTC Gone
+East India Market Hacked &#8211; 30 BTC Gone"
 ---
 <article class="post-listing post-11223 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1778 tag-east tag-hacked tag-india tag-lost tag-market">
 <div class="post-inner">

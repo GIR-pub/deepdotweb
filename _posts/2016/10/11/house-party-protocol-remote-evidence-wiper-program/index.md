@@ -1,5 +1,5 @@
 ---
-House Party Protocol &#8211; remote evidence wiper program
+House Party Protocol &#8211; remote evidence wiper program"
 ---
 <article class="post-listing post-15747 post type-post status-publish format-standard has-post-thumbnail hentry  tag-evidence tag-house tag-party tag-program tag-protocol tag-remote tag-wiper">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-DNMAvengers: Hosting DoctorX &#038; New Partnership with Energy Control
+DNMAvengers: Hosting DoctorX &#038; New Partnership with Energy Control"
 ---
 <article class="post-listing post-12543 post type-post status-publish format-standard hentry category-news tag-control tag-dnmavengers tag-doctorx tag-energy tag-hosting tag-partnership">
 <div class="post-inner">

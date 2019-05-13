@@ -1,5 +1,5 @@
 ---
-Four Man Standing Trial In Belgium For Darknet Arms Deal
+Four Man Standing Trial In Belgium For Darknet Arms Deal"
 ---
 <article class="post-listing post-20514 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-belgium tag-darknet tag-deal tag-man tag-standing tag-trial">
     <div class="post-inner">

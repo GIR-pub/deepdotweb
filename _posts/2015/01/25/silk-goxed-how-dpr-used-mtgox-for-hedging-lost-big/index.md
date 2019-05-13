@@ -1,5 +1,5 @@
 ---
-Silk Goxed: How DPR used Mtgox for Hedging &#038; Lost Big
+Silk Goxed: How DPR used Mtgox for Hedging &#038; Lost Big"
 ---
 <article class="post-listing post-8898 post type-post status-publish format-standard has-post-thumbnail hentry  tag-big tag-goxed tag-hedging tag-lost tag-mtgox 
     <div class="post-inner">

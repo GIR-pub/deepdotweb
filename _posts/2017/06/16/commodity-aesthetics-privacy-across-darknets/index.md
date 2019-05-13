@@ -1,5 +1,5 @@
 ---
-Commodity Aesthetics of Privacy Across Darknets
+Commodity Aesthetics of Privacy Across Darknets"
 ---
 <article class="post-listing post-20670 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aesthetics tag-commodity tag-darknets tag-privacy">
     <div class="post-inner">

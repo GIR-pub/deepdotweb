@@ -1,5 +1,5 @@
 ---
-How Scandinavia&#8217;s Biggest Vendor Created His Empire On Valhalla
+How Scandinavia&#8217;s Biggest Vendor Created His Empire On Valhalla"
 ---
 <article class="post-listing post-13122 post type-post status-publish format-standard has-post-thumbnail hentry  tag-biggest tag-created tag-empire tag-scandinavias tag-valhalla tag-vendor">
     <div class="post-inner">

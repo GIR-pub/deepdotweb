@@ -1,5 +1,5 @@
 ---
-Grams Bitball: Darknet Lotto on Tor &#8211; For Tor
+Grams Bitball: Darknet Lotto on Tor &#8211; For Tor"
 ---
 <article class="post-listing post-8930 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitball tag-grams tag-powerball tag-project tag-supports 
     <div class="post-inner">

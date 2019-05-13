@@ -1,5 +1,5 @@
 ---
-A Fully Decentralized, Arbiter-free, Prediction Market Using Colored Coins
+A Fully Decentralized, Arbiter-free, Prediction Market Using Colored Coins"
 ---
 <article class="post-listing post-18376 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arbiterfree tag-coins tag-colored tag-decentralized tag-fully tag-prediction">
     <div class="post-inner">

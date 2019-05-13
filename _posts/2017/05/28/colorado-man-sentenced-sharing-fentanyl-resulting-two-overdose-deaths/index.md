@@ -1,5 +1,5 @@
 ---
-Colorado Man Sentenced For Sharing Fentanyl Resulting In Two Overdose Deaths
+Colorado Man Sentenced For Sharing Fentanyl Resulting In Two Overdose Deaths"
 ---
 <article class="post-listing post-20192 post type-post status-publish format-standard has-post-thumbnail hentry  tag-colorado tag-deaths tag-fentanyl tag-man tag-overdose tag-resulting tag-sentenced tag-sharing">
     <div class="post-inner">

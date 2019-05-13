@@ -1,5 +1,5 @@
 ---
-UK “Absolutely” Focused on Hunting the WannaCry Hackers
+UK “Absolutely” Focused on Hunting the WannaCry Hackers"
 ---
 <article class="post-listing post-20402 post type-post status-publish format-standard has-post-thumbnail hentry  tag-absolutely tag-focused tag-hackers tag-hunting tag-uk tag-wannacry">
     <div class="post-inner">

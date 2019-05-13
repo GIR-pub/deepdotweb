@@ -1,5 +1,5 @@
 ---
-Tor Releases another Snapshot on the Road to Major Onion Router Updates
+Tor Releases another Snapshot on the Road to Major Onion Router Updates"
 ---
 <article class="post-listing post-16484 post type-post status-publish format-standard has-post-thumbnail hentry  tag-major tag-onion tag-releases tag-router tag-snapshot  tag-updates">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Silk Road &#038; Ross Ulbricht Tribute Songs Compilation
+Silk Road &#038; Ross Ulbricht Tribute Songs Compilation"
 ---
 <article class="post-listing post-8971 post type-post status-publish format-standard has-post-thumbnail hentry  tag-compilation  tag-songs tag-tribute tag-ulbricht">
 <div class="post-inner">

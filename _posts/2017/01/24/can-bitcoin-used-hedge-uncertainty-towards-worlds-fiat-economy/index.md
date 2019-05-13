@@ -1,5 +1,5 @@
 ---
-Can Bitcoin Be Used As a Hedge Against Uncertainty Towards the World&#8217;s Fiat Economy?
+Can Bitcoin Be Used As a Hedge Against Uncertainty Towards the World&#8217;s Fiat Economy?"
 ---
 <article class="post-listing post-17670 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-economy tag-fiat tag-hedge tag-uncertainty s">
     <div class="post-inner">

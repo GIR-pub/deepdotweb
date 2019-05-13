@@ -1,5 +1,5 @@
 ---
-Nigerian Fraudster Admits Role in 2 Million Dollar Fraud Scheme
+Nigerian Fraudster Admits Role in 2 Million Dollar Fraud Scheme"
 ---
 <article class="post-listing post-24493 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-admits tag-dollar tag-fraud tag-fraudster tag-million tag-nigerian tag-role tag-scheme">

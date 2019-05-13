@@ -1,5 +1,5 @@
 ---
-Canadian Authorities Seize Bitcoin from Alleged Silk Road Vendor
+Canadian Authorities Seize Bitcoin from Alleged Silk Road Vendor"
 ---
 <article class="post-listing post-26398 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-alleged tag-authorities tag-bitcoin tag-canadian tag-seize tag-vendor">

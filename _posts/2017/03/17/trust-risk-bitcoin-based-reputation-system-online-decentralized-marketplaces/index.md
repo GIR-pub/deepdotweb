@@ -1,5 +1,5 @@
 ---
-Trust Is Risk &#8211; Bitcoin Based Reputation System for Online Decentralized Marketplaces
+Trust Is Risk &#8211; Bitcoin Based Reputation System for Online Decentralized Marketplaces"
 ---
 <article class="post-listing post-18658 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-based tag-bitcoin tag-decentralized tag-marketplaces tag-reputation tag-risk tag-system tag-trust">

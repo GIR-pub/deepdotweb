@@ -1,5 +1,5 @@
 ---
-Attorney in Ireland Links the DNMs to an Ongoing Gang War
+Attorney in Ireland Links the DNMs to an Ongoing Gang War"
 ---
 <article class="post-listing post-18786 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-attorney tag-dnms tag-gang tag-ireland tag-links tag-ongoing tag-war">

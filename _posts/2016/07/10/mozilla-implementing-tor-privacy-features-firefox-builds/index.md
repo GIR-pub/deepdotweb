@@ -1,5 +1,5 @@
 ---
-Mozilla implementing Tor privacy features in Firefox builds
+Mozilla implementing Tor privacy features in Firefox builds"
 ---
 <article class="post-listing post-14777 post type-post status-publish format-standard has-post-thumbnail hentry  tag-builds tag-features tag-firefox tag-implementing tag-mozilla tag-privacy 
     <div class="post-inner">

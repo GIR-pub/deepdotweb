@@ -1,5 +1,5 @@
 ---
-Drug Dealer Made Xanax and Sold It on the Dark Web.
+Drug Dealer Made Xanax and Sold It on the Dark Web."
 ---
 <article class="post-listing post-23759 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark  tag-web tag-xanax">
     <div class="post-inner">

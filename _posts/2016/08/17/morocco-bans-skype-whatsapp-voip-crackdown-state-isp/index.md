@@ -1,5 +1,5 @@
 ---
-Morocco Bans Skype, WhatsApp, in VoIP Crackdown by State ISP
+Morocco Bans Skype, WhatsApp, in VoIP Crackdown by State ISp"
 ---
 <article class="post-listing post-15138 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bans tag-crackdown tag-isp tag-morocco tag-skype tag-state tag-voip tag-whatsapp">
     <div class="post-inner">

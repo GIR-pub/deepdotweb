@@ -1,5 +1,5 @@
 ---
-Police And Prosecution Investigating Neo-Nazi Connection In German Vendor Case
+Police And Prosecution Investigating Neo-Nazi Connection In German Vendor Case"
 ---
 <article class="post-listing post-21006 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-connection tag-german tag-investigating tag-neonazi tag-police tag-prosecution tag-vendor">
     <div class="post-inner">

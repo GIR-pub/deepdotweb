@@ -1,5 +1,5 @@
 ---
-Members Of British Arms Smuggling Ring Sentenced To Prison
+Members Of British Arms Smuggling Ring Sentenced To Prison"
 ---
 <article class="post-listing post-19634 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-british tag-members tag-prison tag-ring tag-sentenced tag-smuggling">
     <div class="post-inner">

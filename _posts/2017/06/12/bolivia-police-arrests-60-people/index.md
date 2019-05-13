@@ -1,5 +1,5 @@
 ---
-Bolivia Police arrests 60 people for Cryptocurrency crimes
+Bolivia Police arrests 60 people for Cryptocurrency crimes"
 ---
 <article class="post-listing post-20563 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3828 tag-bolivia tag-crimes tag-cryptocurrency tag-people tag-police">
     <div class="post-inner">

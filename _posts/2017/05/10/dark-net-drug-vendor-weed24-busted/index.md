@@ -1,5 +1,5 @@
 ---
-Dark Net Drug Vendor “Weed24” Busted
+Dark Net Drug Vendor “Weed24” Busted"
 ---
 <article class="post-listing post-19741 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-dark tag-net tag-vendor tag-weed24">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-LocalBitcoin Seller Guilty of Illegal Currency Exchange
+LocalBitcoin Seller Guilty of Illegal Currency Exchange"
 ---
 <article class="post-listing post-19953 post type-post status-publish format-standard has-post-thumbnail hentry  tag-currency tag-exchange tag-guilty tag-illegal tag-localbitcoin tag-seller">
     <div class="post-inner">

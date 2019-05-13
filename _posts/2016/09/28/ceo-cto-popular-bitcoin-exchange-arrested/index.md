@@ -1,5 +1,5 @@
 ---
-CEO and CTO of Popular Bitcoin Exchange Arrested
+CEO and CTO of Popular Bitcoin Exchange Arrested"
 ---
 <article class="post-listing post-15565 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-ceo tag-cto tag-exchange tag-kptx tag-popular">
     <div class="post-inner">

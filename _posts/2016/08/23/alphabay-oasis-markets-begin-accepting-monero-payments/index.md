@@ -1,5 +1,5 @@
 ---
-AlphaBay and Oasis Markets to Begin Accepting Monero for Payments
+AlphaBay and Oasis Markets to Begin Accepting Monero for Payments"
 ---
 <article class="post-listing post-15221 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accepting tag-alphabay tag-monero tag-oasis tag-payments">
     <div class="post-inner">

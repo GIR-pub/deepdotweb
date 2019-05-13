@@ -1,5 +1,5 @@
 ---
-Two New Models For Double Spending Attacks On Bitcoin&#8217;s Blockchain
+Two New Models For Double Spending Attacks On Bitcoin&#8217;s Blockchain"
 ---
 <article class="post-listing post-17242 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-blockchain tag-double tag-models tag-spending">
     <div class="post-inner">

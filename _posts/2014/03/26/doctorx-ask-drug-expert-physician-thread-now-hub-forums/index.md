@@ -1,5 +1,5 @@
 ---
-DoctorX &#8220;Ask a Drug Expert Physician&#8221; Thread &#8211; Now on The Hub Forums!
+DoctorX &#8220;Ask a Drug Expert Physician&#8221; Thread &#8211; Now on The Hub Forums!"
 ---
 <article class="post-listing post-4817 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorx tag-expert tag-forums tag-hub tag-physician tag-thread">
     <div class="post-inner">

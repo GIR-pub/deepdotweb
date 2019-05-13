@@ -1,5 +1,5 @@
 ---
-Concerns Over Transformed Alarm Weapon Sales On The Internet In Portugal
+Concerns Over Transformed Alarm Weapon Sales On The Internet In Portugal"
 ---
 <article class="post-listing post-19761 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alarm tag-concerns tag-internet tag-portugal tag-sales tag-transformed tag-weapon">
     <div class="post-inner">

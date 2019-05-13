@@ -1,5 +1,5 @@
 ---
-Decentralized, Online Markets: A Response to Rand Paul?
+Decentralized, Online Markets: A Response to Rand Paul?"
 ---
 <article class="post-listing post-6080 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decentralized tag-paul tag-rand tag-response">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-PSA: DNMAvengers Announcement &#8211; 75 Free Lab-tests!
+PSA: DNMAvengers Announcement &#8211; 75 Free Lab-tests!"
 ---
 <article class="post-listing post-22419 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4202 tag-announcement tag-dnmavengers tag-free tag-labtests tag-psa">
     <div class="post-inner">

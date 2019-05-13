@@ -1,5 +1,5 @@
 ---
-German Man on Trial for Abusing His Stepdaughter
+German Man on Trial for Abusing His Stepdaughter"
 ---
 <article class="post-listing post-25141 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-abusing tag-german tag-man tag-stepdaughter tag-trial">

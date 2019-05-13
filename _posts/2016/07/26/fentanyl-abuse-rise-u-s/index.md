@@ -1,5 +1,5 @@
 ---
-Fentanyl Abuse On the rise in The U.S.
+Fentanyl Abuse On the rise in The U.S."
 ---
 <article class="post-listing post-14916 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abuse tag-fentanyl">
     <div class="post-inner">

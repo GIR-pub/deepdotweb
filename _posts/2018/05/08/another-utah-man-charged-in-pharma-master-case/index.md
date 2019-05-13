@@ -1,5 +1,5 @@
 ---
-Another Utah Man Charged in Pharma-Master Case
+Another Utah Man Charged in Pharma-Master Case"
 ---
 <article class="post-listing post-25626 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-case tag-charged tag-man tag-pharmamaster tag-utah">

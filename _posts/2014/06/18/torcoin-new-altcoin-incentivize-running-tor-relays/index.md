@@ -1,5 +1,5 @@
 ---
-Torcoin: New Altcoin Hopes To Incentivize People Into Running Tor Relays
+Torcoin: New Altcoin Hopes To Incentivize People Into Running Tor Relays"
 ---
 <article class="post-listing post-6037 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coin  coin">
     <div class="post-inner">

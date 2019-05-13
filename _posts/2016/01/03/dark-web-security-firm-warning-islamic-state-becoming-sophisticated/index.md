@@ -1,5 +1,5 @@
 ---
-Dark Web Security Firm Warning Islamic State Becoming Sophisticated
+Dark Web Security Firm Warning Islamic State Becoming Sophisticated"
 ---
 <article class="post-listing post-12837 post type-post status-publish format-standard hentry category-news tag-dark tag-firm tag-islamic tag-security tag-sophisticated tag-state  tag-web">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Update In German Vendor Shop Case: Six Suspects Sentenced To Prison
+Update In German Vendor Shop Case: Six Suspects Sentenced To Prison"
 ---
 <article class="post-listing post-19365 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-german tag-prison tag-sentenced tag-shop tag-suspects tag-update tag-vendor">
     <div class="post-inner">

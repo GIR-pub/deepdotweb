@@ -1,5 +1,5 @@
 ---
-A Noob’s Guide to I2P-Bote
+A Noob’s Guide to I2P-Bote"
 ---
 <article class="post-listing post-16456 post type-post status-publish format-standard has-post-thumbnail hentry  tag-guide tag-i2pbote tag-noobs">
     <div class="post-inner">

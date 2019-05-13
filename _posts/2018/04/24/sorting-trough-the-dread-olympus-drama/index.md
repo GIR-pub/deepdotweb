@@ -1,5 +1,5 @@
 ---
-Sorting Through the Dread &#038; Olympus Drama
+Sorting Through the Dread &#038; Olympus Drama"
 ---
 <article class="post-listing post-25507 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-dread tag-olympus tag-takedown">

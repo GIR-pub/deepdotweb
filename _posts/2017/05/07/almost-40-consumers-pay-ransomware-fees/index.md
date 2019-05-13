@@ -1,5 +1,5 @@
 ---
-Almost 40% of Consumers Pay Ransomware Fees
+Almost 40% of Consumers Pay Ransomware Fees"
 ---
 <article class="post-listing post-19683 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3727 tag-consumers tag-fees tag-pay tag-ransomware">
     

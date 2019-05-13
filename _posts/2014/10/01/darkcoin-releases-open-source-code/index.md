@@ -1,5 +1,5 @@
 ---
-Darkcoin: Releases Open Source Code
+Darkcoin: Releases Open Source Code"
 ---
 <article class="post-listing post-7252 post type-post status-publish format-standard has-post-thumbnail hentry  tag-code tag-darkcoin tag-open tag-releases tag-source">
     <div class="post-inner">

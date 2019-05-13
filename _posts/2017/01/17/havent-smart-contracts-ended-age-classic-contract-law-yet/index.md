@@ -1,5 +1,5 @@
 ---
-Why Haven&#8217;t Smart Contracts Ended The Age of Classic Contract Law Yet?
+Why Haven&#8217;t Smart Contracts Ended The Age of Classic Contract Law Yet?"
 ---
 <article class="post-listing post-17568 post type-post status-publish format-standard has-post-thumbnail hentry  tag-age tag-classic tag-contract tag-contracts tag-ended tag-law tag-smart">
     <div class="post-inner">

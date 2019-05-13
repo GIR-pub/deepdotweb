@@ -1,5 +1,5 @@
 ---
-PSA: Cloudflare Now allows you To Whitelist ALL Tor&#8217;s Exit Nodes
+PSA: Cloudflare Now allows you To Whitelist ALL Tor&#8217;s Exit Nodes"
 ---
 <article class="post-listing post-13590 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cloudflare tag-exit tag-nodes tag-psa s tag-whitelist">
     <div class="post-inner">

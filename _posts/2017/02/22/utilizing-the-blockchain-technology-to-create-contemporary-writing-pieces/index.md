@@ -1,5 +1,5 @@
 ---
-Utilizing the blockchain technology to create contemporary writing pieces
+Utilizing the blockchain technology to create contemporary writing pieces"
 ---
 <article class="post-listing post-18272 post type-post status-publish format-standard has-post-thumbnail hentry
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Bitwasp &#8211; Now Offering Built in multi-signature Transactions!
+Bitwasp &#8211; Now Offering Built in multi-signature Transactions!"
 ---
 <article class="post-listing post-4879 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitwasp tag-built tag-multisignature tag-offering tag-transactions">
     <div class="post-inner">

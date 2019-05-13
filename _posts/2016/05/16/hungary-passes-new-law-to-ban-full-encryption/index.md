@@ -1,5 +1,5 @@
 ---
-Hungary Passes New Law To Ban Full Encryption
+Hungary Passes New Law To Ban Full Encryption"
 ---
 <article class="post-listing post-14084 post type-post status-publish format-standard has-post-thumbnail hentry  tag-encryption tag-hungary tag-law tag-passes tag-prohibit">
     <div class="post-inner">

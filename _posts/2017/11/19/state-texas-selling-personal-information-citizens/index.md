@@ -1,5 +1,5 @@
 ---
-The State Of Texas Is Selling Personal Information of Citizens
+The State Of Texas Is Selling Personal Information of Citizens"
 ---
 <article class="post-listing post-23579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-citizens tag-information tag-personal tag-selling tag-state tag-texas">
     <div class="post-inner">

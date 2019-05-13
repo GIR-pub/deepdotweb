@@ -1,5 +1,5 @@
 ---
-Warning: Fake &#8220;DeepDotWeb Announcement&#8221; By a Failed Market Owner
+Warning: Fake &#8220;DeepDotWeb Announcement&#8221; By a Failed Market Owner"
 ---
 <article class="post-listing post-6698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announcement tag-created tag-deepdotweb tag-failed tag-fake tag-owner 
     <div class="post-inner">

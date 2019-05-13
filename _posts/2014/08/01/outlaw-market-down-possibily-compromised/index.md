@@ -1,5 +1,5 @@
 ---
-Outlaw Market: Down, Possibly Compromised By Competitors
+Outlaw Market: Down, Possibly Compromised By Competitors"
 ---
 <article class="post-listing post-6669 post type-post status-publish format-standard has-post-thumbnail hentry  tag-outlaw">
     <div class="post-inner">

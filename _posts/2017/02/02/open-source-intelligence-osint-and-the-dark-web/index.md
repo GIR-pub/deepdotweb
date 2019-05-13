@@ -1,5 +1,5 @@
 ---
-Open Source Intelligence OSINT and the Dark Web
+Open Source Intelligence OSINT and the Dark Web"
 ---
 <article class="post-listing post-17903 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-intelligence tag-open tag-osint tag-source tag-web">
     <div class="post-inner">

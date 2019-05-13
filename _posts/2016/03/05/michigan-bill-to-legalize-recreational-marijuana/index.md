@@ -1,5 +1,5 @@
 ---
-Michigan Bill To Legalize Recreational Marijuana
+Michigan Bill To Legalize Recreational Marijuana"
 ---
 <article class="post-listing post-13365 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bill tag-legalize tag-marijuana tag-michigan tag-recreational">
     <div class="post-inner">

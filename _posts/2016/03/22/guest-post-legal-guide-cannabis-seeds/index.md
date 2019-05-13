@@ -1,5 +1,5 @@
 ---
-Guest Post: A legal guide to cannabis seeds
+Guest Post: A legal guide to cannabis seeds"
 ---
 <article class="post-listing post-13541 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cannabis tag-guest tag-guide tag-legal tag-post tag-seeds">
     <div class="post-inner">

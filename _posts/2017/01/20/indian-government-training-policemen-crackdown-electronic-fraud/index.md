@@ -1,5 +1,5 @@
 ---
-Indian Government is Training Policemen to Crackdown Electronic Fraud
+Indian Government is Training Policemen to Crackdown Electronic Fraud"
 ---
 <article class="post-listing post-17623 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crackdown tag-electronic tag-fraud tag-government tag-indian tag-policemen tag-training">
     

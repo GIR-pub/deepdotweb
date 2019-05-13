@@ -1,5 +1,5 @@
 ---
-Lyn Ulbricht Speaks Out: Lost Faith in the U.S. Justice System
+Lyn Ulbricht Speaks Out: Lost Faith in the U.S. Justice System"
 ---
 <article class="post-listing post-14442 post type-post status-publish format-standard has-post-thumbnail hentry  tag-faith tag-justice tag-lost tag-lyn tag-speaks tag-system tag-ulbricht">
     <div class="post-inner">

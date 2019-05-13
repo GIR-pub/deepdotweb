@@ -1,5 +1,5 @@
 ---
-A Self-replicating Code That Earns You Bitcoin On Autopilot!
+A Self-replicating Code That Earns You Bitcoin On Autopilot!"
 ---
 <article class="post-listing post-20964 post type-post status-publish format-standard has-post-thumbnail hentry  tag-autopilot tag-bitcoin tag-code tag-earns tag-selfreplicating">
     <div class="post-inner">

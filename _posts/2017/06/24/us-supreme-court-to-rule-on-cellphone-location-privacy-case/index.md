@@ -1,5 +1,5 @@
 ---
-US Supreme Court to Rule on Cellphone Location Privacy Case
+US Supreme Court to Rule on Cellphone Location Privacy Case"
 ---
 <article class="post-listing post-20874 post type-post status-publish format-standard has-post-thumbnail hentry 
     

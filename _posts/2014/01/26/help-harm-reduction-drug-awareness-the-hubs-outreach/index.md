@@ -1,5 +1,5 @@
 ---
-Help Harm Reduction &#038; Drug Awareness: The Hub&#8217;s Outreach!
+Help Harm Reduction &#038; Drug Awareness: The Hub&#8217;s Outreach!"
 ---
 <article class="post-listing post-3657 post type-post status-publish format-standard has-post-thumbnail hentry  tag-awareness tag-harm tag-hubs tag-outreach tag-reduction">
     <div class="post-inner">

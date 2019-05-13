@@ -1,5 +1,5 @@
 ---
-TheRealDeal: Launches Free LeakDB service
+TheRealDeal: Launches Free LeakDB service"
 ---
 <article class="post-listing post-12491 post type-post status-publish format-standard has-post-thumbnail hentry  tag-free tag-launches tag-leakdb tag-therealdeal">
 <div class="post-inner">

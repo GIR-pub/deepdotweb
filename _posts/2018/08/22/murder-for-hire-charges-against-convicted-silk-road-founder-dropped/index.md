@@ -1,5 +1,5 @@
 ---
-Murder for hire Charges against Convicted Silk Road founder Dropped
+Murder for hire Charges against Convicted Silk Road founder Dropped"
 ---
 <article class="post-listing post-26611 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-charges tag-convicted tag-dropped tag-founder tag-hire tag-murder 

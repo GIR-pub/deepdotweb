@@ -1,5 +1,5 @@
 ---
-ValueShuffle &#8211; Comprehensive Transaction Privacy For Bitcoin Users
+ValueShuffle &#8211; Comprehensive Transaction Privacy For Bitcoin Users"
 ---
 <article class="post-listing post-17745 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-comprehensive tag-privacy tag-transaction tag-users tag-valueshuffle">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Pandora Market: Is It Gone?
+Pandora Market: Is It Gone?"
 ---
 <article class="post-listing post-6492 post type-post status-publish format-standard has-post-thumbnail hentry  tag-everyones tag-pandora">
     <div class="post-inner">

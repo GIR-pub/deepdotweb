@@ -1,5 +1,5 @@
 ---
-Founder of BitInstant Charlie Shrem Released from Prison
+Founder of BitInstant Charlie Shrem Released from Prison"
 ---
 <article class="post-listing post-14925 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitinstant tag-charlie tag-founder tag-prison tag-released tag-shrem">
     <div class="post-inner">

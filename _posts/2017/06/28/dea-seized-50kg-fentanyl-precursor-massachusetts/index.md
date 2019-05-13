@@ -1,5 +1,5 @@
 ---
-DEA Seized 50kg of Fentanyl Precursor in Massachusetts
+DEA Seized 50kg of Fentanyl Precursor in Massachusetts"
 ---
 <article class="post-listing post-20947 post type-post status-publish format-standard has-post-thumbnail hentry  tag-50kg tag-dea tag-fentanyl tag-massachusetts tag-precursor tag-seized">
     <div class="post-inner">

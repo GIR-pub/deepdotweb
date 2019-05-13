@@ -1,5 +1,5 @@
 ---
-Warning: Fentanyl Being Sold As Heroin On DNMS
+Warning: Fentanyl Being Sold As Heroin On DNMs"
 ---
 <article class="post-listing post-11805 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dnms tag-fentanyl tag-heroin  
 <div class="post-inner">

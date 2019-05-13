@@ -1,5 +1,5 @@
 ---
-Swedish Police Used Helicopters In The Investigation Against Two Narcotic Vendors
+Swedish Police Used Helicopters In The Investigation Against Two Narcotic Vendors"
 ---
 <article class="post-listing post-20343 post type-post status-publish format-standard has-post-thumbnail hentry  tag-helicopters tag-investigation tag-narcotic tag-police tag-swedish tag-vendors">
     <div class="post-inner">

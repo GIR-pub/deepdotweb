@@ -1,5 +1,5 @@
 ---
-FDA to Increase focus on fentanyl and other synthetic opioids at postal facilities
+FDA to Increase focus on fentanyl and other synthetic opioids at postal facilities"
 ---
 <article class="post-listing post-22078 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-facilities tag-fda tag-fentanyl tag-focus tag-increase tag-opioids tag-postal tag-synthetic">

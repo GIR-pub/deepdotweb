@@ -1,5 +1,5 @@
 ---
-State of Florida Appeals the Dismissal of “Money Laundering” Bitcoin Seller
+State of Florida Appeals the Dismissal of “Money Laundering” Bitcoin Seller"
 ---
 <article class="post-listing post-15307 post type-post status-publish format-standard has-post-thumbnail hentry  tag-appeals tag-bitcoin tag-dismissal tag-florida tag-laundering tag-money tag-seller tag-state">
     <div class="post-inner">

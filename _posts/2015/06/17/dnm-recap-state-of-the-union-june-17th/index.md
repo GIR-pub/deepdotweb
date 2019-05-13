@@ -1,5 +1,5 @@
 ---
-DNM Recap: State of the Union June 17th
+DNM Recap: State of the Union June 17th"
 ---
 <article class="post-listing post-10836 post type-post status-publish format-standard has-post-thumbnail hentry  tag-17th tag-dnm tag-june tag-recap tag-state tag-union">
     <div class="post-inner">

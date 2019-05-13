@@ -1,5 +1,5 @@
 ---
-Blockchain &#038; Bitcoin Conference will reveal prospects and risks of cryptocurrency exchanges
+Blockchain &#038; Bitcoin Conference will reveal prospects and risks of cryptocurrency exchanges"
 ---
 <article class="post-listing post-15403 post type-post status-publish format-standard hentry category-news tag-bitcoin tag-blockchain tag-conference tag-cryptocurrency tag-exchanges tag-prospects tag-reveal tag-risks">
     <div class="post-inner">

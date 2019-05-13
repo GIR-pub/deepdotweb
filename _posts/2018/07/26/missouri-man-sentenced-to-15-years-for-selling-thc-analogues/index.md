@@ -1,5 +1,5 @@
 ---
-Missouri Man Sentenced to 15 Years for Selling THC Analogues
+Missouri Man Sentenced to 15 Years for Selling THC Analogues"
 ---
 <article class="post-listing post-26407 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-1886 tag-analogues tag-man tag-missouri tag-selling tag-sentenced tag-thc tag-years">

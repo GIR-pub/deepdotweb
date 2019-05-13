@@ -1,5 +1,5 @@
 ---
-How To Minimize Bitcoin Transaction Confirmation Delays Via Adjusting Miners&#8217; Fees?
+How To Minimize Bitcoin Transaction Confirmation Delays Via Adjusting Miners&#8217; Fees?"
 ---
 <article class="post-listing post-19586 post type-post status-publish format-standard has-post-thumbnail hentry  tag-adjusting tag-bitcoin tag-confirmation tag-delays tag-fees tag-miners tag-minimize tag-transaction">
     <div class="post-inner">

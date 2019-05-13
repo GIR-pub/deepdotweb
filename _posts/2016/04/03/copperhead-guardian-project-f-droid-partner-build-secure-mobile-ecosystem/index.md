@@ -1,5 +1,5 @@
 ---
-Copperhead, Guardian Project &#038; F-Droid To Build Secure Mobile Ecosystem
+Copperhead, Guardian Project &#038; F-Droid To Build Secure Mobile Ecosystem"
 ---
 <article class="post-listing post-13627 post type-post status-publish format-standard has-post-thumbnail hentry  tag-build tag-copperhead tag-ecosystem tag-fdroid tag-guardian tag-mobile tag-partner tag-project tag-secure">
     <div class="post-inner">

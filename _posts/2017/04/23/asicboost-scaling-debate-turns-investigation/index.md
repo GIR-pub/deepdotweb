@@ -1,5 +1,5 @@
 ---
-AsicBoost: Scaling Debate Turns into Investigation
+AsicBoost: Scaling Debate Turns into Investigation"
 ---
 <article class="post-listing post-19342 post type-post status-publish format-standard has-post-thumbnail hentry  tag-asicboost tag-debate tag-investigation tag-scaling tag-turns">
     <div class="post-inner">

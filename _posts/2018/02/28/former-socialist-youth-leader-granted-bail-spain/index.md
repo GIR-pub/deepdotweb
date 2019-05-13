@@ -1,5 +1,5 @@
 ---
-Former Socialist Youth Leader Granted Bail in Spain
+Former Socialist Youth Leader Granted Bail in Spain"
 ---
 <article class="post-listing post-24894 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bail tag-granted tag-leader tag-socialist tag-spain tag-youth">

@@ -1,5 +1,5 @@
 ---
-Police Recruit Another Canine Who Sniffs Out USB Drives
+Police Recruit Another Canine Who Sniffs Out USB Drives"
 ---
 <article class="post-listing post-15428 post type-post status-publish format-standard has-post-thumbnail hentry  tag-canine tag-drives tag-police tag-recruit tag-sniffs tag-usb">
     <div class="post-inner">

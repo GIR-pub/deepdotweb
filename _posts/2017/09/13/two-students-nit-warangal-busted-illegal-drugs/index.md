@@ -1,5 +1,5 @@
 ---
-Two students of NIT, Warangal busted with Illegal Drugs
+Two students of NIT, Warangal busted with Illegal Drugs"
 ---
 <article class="post-listing post-22518 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-busted tag-illegal tag-nit tag-students tag-warangal">

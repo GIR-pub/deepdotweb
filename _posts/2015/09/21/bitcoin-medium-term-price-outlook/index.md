@@ -1,5 +1,5 @@
 ---
-Bitcoin Medium Term Price Outlook
+Bitcoin Medium Term Price Outlook"
 ---
 <article class="post-listing post-11574 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-medium tag-outlook tag-price tag-term">
 <div class="post-inner">

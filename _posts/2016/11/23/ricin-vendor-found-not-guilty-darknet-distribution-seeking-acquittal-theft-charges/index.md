@@ -1,5 +1,5 @@
 ---
-Ricin Vendor Found Not Guilty of Darknet Distribution, Seeking Acquittal of Theft Charges
+Ricin Vendor Found Not Guilty of Darknet Distribution, Seeking Acquittal of Theft Charges"
 ---
 <article class="post-listing post-16538 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acquittal tag-charges tag-darknet tag-distribution tag-guilty tag-ricin tag-seeking tag-theft tag-vendor">
     <div class="post-inner">

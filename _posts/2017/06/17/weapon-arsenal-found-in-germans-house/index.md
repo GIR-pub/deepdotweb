@@ -1,5 +1,5 @@
 ---
-Weapon Arsenal Found In German’s House
+Weapon Arsenal Found In German’s House"
 ---
 <article class="post-listing post-20689 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-arsenal tag-germans tag-house tag-weapon">
     <div class="post-inner">

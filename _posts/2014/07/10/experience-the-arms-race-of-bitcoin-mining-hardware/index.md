@@ -1,5 +1,5 @@
 ---
-Experience: The Arms Race Of Bitcoin Mining Hardware
+Experience: The Arms Race Of Bitcoin Mining Hardware"
 ---
 <article class="post-listing post-6390 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-bitcoin tag-hardware tag-mining tag-race">
     <div class="post-inner">

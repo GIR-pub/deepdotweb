@@ -1,5 +1,5 @@
 ---
-Monero Hard Fork Coming Soon
+Monero Hard Fork Coming Soon"
 ---
 <article class="post-listing post-15485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fork tag-hard tag-monero">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Tor&#8217;s Co-Creator: Your Medical Records Have Bullseyes On Them
+Tor&#8217;s Co-Creator: Your Medical Records Have Bullseyes On Them"
 ---
 <article class="post-listing post-14110 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bullseyes tag-cocreator tag-medical tag-records s">
     <div class="post-inner">

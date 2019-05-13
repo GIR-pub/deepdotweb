@@ -1,5 +1,5 @@
 ---
-China Instates ID Requirement for Internet Comments Following VPN Ban
+China Instates ID Requirement for Internet Comments Following VPN Ban"
 ---
 <article class="post-listing post-22504 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-ban tag-china tag-comments tag-instates tag-internet tag-requirement tag-vpn">

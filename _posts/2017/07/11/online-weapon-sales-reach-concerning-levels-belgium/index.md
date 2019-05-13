@@ -1,5 +1,5 @@
 ---
-Online Weapon Sales Reach “Concerning” Levels in Belgium
+Online Weapon Sales Reach “Concerning” Levels in Belgium"
 ---
 <article class="post-listing post-21212 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belgium tag-levels tag-reach tag-sales tag-weapon">
     <div class="post-inner">

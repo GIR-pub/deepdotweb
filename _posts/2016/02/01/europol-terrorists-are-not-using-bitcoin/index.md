@@ -1,5 +1,5 @@
 ---
-Europol: Terrorists Are Not Using Bitcoin
+Europol: Terrorists Are Not Using Bitcoin"
 ---
 <article class="post-listing post-13131 post type-post status-publish format-standard hentry category-news tag-bitcoin tag-europol tag-terrorists">
     <div class="post-inner">

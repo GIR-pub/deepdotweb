@@ -1,5 +1,5 @@
 ---
-New Jersey Online Cocaine Ring Uncovered: 11 Men Arrested
+New Jersey Online Cocaine Ring Uncovered: 11 Men Arrested"
 ---
 <article class="post-listing post-13485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1879 tag-cocaine tag-jersey tag-men tag-ring tag-uncovered">
     <div class="post-inner">

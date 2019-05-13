@@ -1,5 +1,5 @@
 ---
-Australian Anti-Encryption Bill Moving Forward Despite Objections from Tech Experts
+Australian Anti-Encryption Bill Moving Forward Despite Objections from Tech Experts"
 ---
 <article class="post-listing post-26944 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-antiencryption tag-australian tag-bill tag-experts tag-moving tag-objections tag-tech">

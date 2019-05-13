@@ -1,5 +1,5 @@
 ---
-Cybercrime: The Study of Carding
+Cybercrime: The Study of Carding"
 ---
 <article class="post-listing post-11291 post type-post status-publish format-standard has-post-thumbnail hentry  tag-carding tag-cybercrime tag-study">
 <div class="post-inner">

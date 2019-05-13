@@ -1,5 +1,5 @@
 ---
-Silk Road Moderator (SSBD) Gets Out Of Prison Receives Blue Card
+Silk Road Moderator (SSBD) Gets Out Of Prison Receives Blue Card"
 ---
 <article class="post-listing post-14773 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blue tag-card tag-moderator tag-prison tag-receives tag-ssbd">
     

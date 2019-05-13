@@ -1,5 +1,5 @@
 ---
-The Rise of Darkcoin
+The Rise of Darkcoin"
 ---
 <article class="post-listing post-5666 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkcoin tag-rise">
     <div class="post-inner">

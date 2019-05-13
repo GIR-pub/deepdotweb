@@ -1,5 +1,5 @@
 ---
-8 Million Blockchain.info Left Unaccessible; DNS Hijack
+8 Million Blockchain.info Left Unaccessible; DNS Hijack"
 ---
 <article class="post-listing post-15995 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchaininfo tag-dns tag-hijack tag-left tag-million tag-unaccessible">
     <div class="post-inner">

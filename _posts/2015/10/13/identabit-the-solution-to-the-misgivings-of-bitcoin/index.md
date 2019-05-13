@@ -1,5 +1,5 @@
 ---
-Identabit: The Solution to the Misgivings of Bitcoin?
+Identabit: The Solution to the Misgivings of Bitcoin?"
 ---
 <article class="post-listing post-11757 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-identabit tag-misgivings tag-solution">
 <div class="post-inner">

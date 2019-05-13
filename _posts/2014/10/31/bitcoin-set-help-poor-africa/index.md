@@ -1,5 +1,5 @@
 ---
-How Bitcoin Is Set To help The Poor In Africa?
+How Bitcoin Is Set To help The Poor In Africa?"
 ---
 <article class="post-listing post-7452 post type-post status-publish format-standard has-post-thumbnail hentry  tag-africa tag-bitcoin tag-poor tag-set">
     <div class="post-inner">

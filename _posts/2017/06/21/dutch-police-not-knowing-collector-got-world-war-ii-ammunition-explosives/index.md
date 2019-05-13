@@ -1,5 +1,5 @@
 ---
-Dutch Police Not Knowing Where Collector Got World War II Ammunition And Explosives
+Dutch Police Not Knowing Where Collector Got World War II Ammunition And Explosives"
 ---
 <article class="post-listing post-20778 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ammunition tag-collector tag-dutch tag-explosives tag-ii tag-knowing tag-police tag-war 
     <div class="post-inner">

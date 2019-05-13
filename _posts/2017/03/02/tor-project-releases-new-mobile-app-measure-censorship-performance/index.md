@@ -1,5 +1,5 @@
 ---
-Tor Project Releases New Mobile App to Measure Censorship and Performance
+Tor Project Releases New Mobile App to Measure Censorship and Performance"
 ---
 <article class="post-listing post-18404 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-app tag-censorship tag-measure tag-mobile tag-performance tag-project tag-releases 

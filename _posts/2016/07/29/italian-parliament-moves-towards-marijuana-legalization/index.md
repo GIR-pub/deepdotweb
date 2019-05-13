@@ -1,5 +1,5 @@
 ---
-Italian Parliament Moves Towards Marijuana Legalization
+Italian Parliament Moves Towards Marijuana Legalization"
 ---
 <article class="post-listing post-14948 post type-post status-publish format-standard has-post-thumbnail hentry  tag-italian tag-legalization tag-marijuana tag-moves tag-parliament">
     

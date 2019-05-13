@@ -1,5 +1,5 @@
 ---
-Dealer Busted with 70g of MDMA Found Guilty, Claimed He Ordered from the Darknet for Himself
+Dealer Busted with 70g of MDMA Found Guilty, Claimed He Ordered from the Darknet for Himself"
 ---
 <article class="post-listing post-18089 post type-post status-publish format-standard has-post-thumbnail hentry  tag-70g tag-busted tag-claimed tag-darknet tag-guilty tag-mdma tag-ordered">
     <div class="post-inner">

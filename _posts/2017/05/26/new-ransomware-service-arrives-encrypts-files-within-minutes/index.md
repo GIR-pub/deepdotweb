@@ -1,5 +1,5 @@
 ---
-New Ransomware-as-a-Service Arrives, Encrypts Most Files Within Minutes
+New Ransomware-as-a-Service Arrives, Encrypts Most Files Within Minutes"
 ---
 <article class="post-listing post-20047 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrives tag-encrypts tag-files tag-minutes tag-ransomwareasaservice">
     <div class="post-inner">

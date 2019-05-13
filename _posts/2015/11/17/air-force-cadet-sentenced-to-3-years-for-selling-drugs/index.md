@@ -1,5 +1,5 @@
 ---
-Air Force Cadet Sentenced To 3 Years For Selling Drugs
+Air Force Cadet Sentenced To 3 Years For Selling Drugs"
 ---
 <article class="post-listing post-12164 post type-post status-publish format-standard hentry category-news tag-air tag-cadet tag-force tag-selling tag-sentenced tag-years">
     <div class="post-inner">

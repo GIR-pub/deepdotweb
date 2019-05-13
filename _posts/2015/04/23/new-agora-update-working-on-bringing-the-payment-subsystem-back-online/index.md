@@ -1,5 +1,5 @@
 ---
-New Agora Update: Working on Bringing the Payment Subsystem Back Online
+New Agora Update: Working on Bringing the Payment Subsystem Back Online"
 ---
 <article class="post-listing post-10056 post type-post status-publish format-standard hentry category-news tag-agora tag-bringing tag-payment tag-subsystem tag-update tag-working">
     <div class="post-inner">

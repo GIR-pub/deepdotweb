@@ -1,5 +1,5 @@
 ---
-Some countries are opening doors to adopt cryptocurrencies in a larger scale
+Some countries are opening doors to adopt cryptocurrencies in a larger scale"
 ---
 <article class="post-listing post-22970 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-adopt tag-countries tag-cryptocurrencies tag-doors tag-larger tag-opening tag-scale">

@@ -1,5 +1,5 @@
 ---
-How Much Did A Scammer Steal From SR2 Members?
+How Much Did A Scammer Steal From SR2 Members?"
 ---
 <article class="post-listing post-4377 post type-post status-publish format-standard has-post-thumbnail hentry  tag-members tag-scammer tag-sr2 tag-steal">
     

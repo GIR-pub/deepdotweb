@@ -1,5 +1,5 @@
 ---
-Reflections on the Global Drug Survey view on Dark Net Markets
+Reflections on the Global Drug Survey view on Dark Net Markets"
 ---
 <article class="post-listing post-10645 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-global tag-net tag-reflections tag-survey tag-view">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Three Arrested In France For Cultivating And Trafficking Marijuana
+Three Arrested In France For Cultivating And Trafficking Marijuana"
 ---
 <article class="post-listing post-20752 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cultivating tag-france tag-marijuana tag-trafficking">
     <div class="post-inner">

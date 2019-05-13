@@ -1,5 +1,5 @@
 ---
-Chandler ​Guo: Chinese Electricity Companies Are Using Surplus Energy to Mine Bitcoin
+Chandler ​Guo: Chinese Electricity Companies Are Using Surplus Energy to Mine Bitcoin"
 ---
 <article class="post-listing post-16891 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-chandler tag-chinese tag-companies tag-electricity tag-energy tag-guo tag-surplus">
     <div class="post-inner">

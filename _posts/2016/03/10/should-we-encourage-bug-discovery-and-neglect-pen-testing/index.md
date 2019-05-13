@@ -1,5 +1,5 @@
 ---
-Should We Encourage Bug Discovery And Neglect Pen Testing ?
+Should We Encourage Bug Discovery And Neglect Pen Testing ?"
 ---
 <article class="post-listing post-13413 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bug tag-discovery tag-encourage tag-neglect tag-pen tag-testing">
     <div class="post-inner">

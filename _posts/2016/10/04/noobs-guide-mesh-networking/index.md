@@ -1,5 +1,5 @@
 ---
-A Noob&#8217;s Guide to Mesh Networking
+A Noob&#8217;s Guide to Mesh Networking"
 ---
 <article class="post-listing post-15659 post type-post status-publish format-standard has-post-thumbnail hentry  tag-guide tag-mesh tag-networking tag-noobs">
     <div class="post-inner">

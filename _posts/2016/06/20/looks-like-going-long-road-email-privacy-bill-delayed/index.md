@@ -1,5 +1,5 @@
 ---
-Long Road for the Email Privacy Bill as Its Delayed Again
+Long Road for the Email Privacy Bill as Its Delayed Again"
 ---
 <article class="post-listing post-14537 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bill tag-delayed tag-email tag-long tag-privacy tag-road">
     <div class="post-inner">

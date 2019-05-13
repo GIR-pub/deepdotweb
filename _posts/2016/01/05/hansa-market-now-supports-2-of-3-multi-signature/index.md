@@ -1,5 +1,5 @@
 ---
-HANSA Market now supports 2-of-3 multi-signature
+HANSA Market now supports 2-of-3 multi-signature"
 ---
 <article class="post-listing post-12852 post type-post status-publish format-standard hentry category-news tag-2of3 tag-hansa tag-multisignature tag-supports">
     <div class="post-inner">

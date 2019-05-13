@@ -1,5 +1,5 @@
 ---
-Kentucky Man Sentenced to 87 Months in PlayPen Case
+Kentucky Man Sentenced to 87 Months in PlayPen Case"
 ---
 <article class="post-listing post-24494 post type-post status-publish format-standard hentry 
  tag-5949 tag-case tag-kentucky tag-man tag-months tag-playpen tag-sentenced">

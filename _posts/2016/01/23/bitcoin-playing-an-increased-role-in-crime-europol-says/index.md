@@ -1,5 +1,5 @@
 ---
-Bitcoin Playing An Increased Role In Crime, Europol Says
+Bitcoin Playing An Increased Role In Crime, Europol Says"
 ---
 <article class="post-listing post-13033 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-crime tag-europol tag-increased tag-playing tag-role">
     <div class="post-inner">

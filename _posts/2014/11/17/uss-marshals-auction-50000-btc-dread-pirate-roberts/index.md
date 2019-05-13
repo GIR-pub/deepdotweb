@@ -1,5 +1,5 @@
 ---
-USS Marshals Auction: 50,000 BTC from Dread Pirate Roberts
+USS Marshals Auction: 50,000 BTC from Dread Pirate Roberts"
 ---
 <article class="post-listing post-8311 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1514 tag-auction tag-dread tag-marshals tag-pirate tag-roberts tag-uss">
     <div class="post-inner">

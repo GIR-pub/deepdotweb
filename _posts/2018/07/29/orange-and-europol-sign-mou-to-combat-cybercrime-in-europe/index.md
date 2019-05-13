@@ -1,5 +1,5 @@
 ---
-ORANGE AND EUROPOL SIGN MOU TO COMBAT CYBERCRIME IN EUROPE
+ORANGE AND EUROPOL SIGN MOU TO COMBAT CYBERCRIME IN EUROPe"
 ---
 <article class="post-listing post-26436 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-combat tag-cybercrime tag-europe tag-europol tag-mou tag-orange tag-sign">

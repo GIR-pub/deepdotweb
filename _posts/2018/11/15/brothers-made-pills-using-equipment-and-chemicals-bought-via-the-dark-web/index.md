@@ -1,5 +1,5 @@
 ---
-Brothers Made Pills Using Equipment and Chemicals Bought via the Dark Web
+Brothers Made Pills Using Equipment and Chemicals Bought via the Dark Web"
 ---
 <article class="post-listing post-27243 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bought tag-brothers tag-chemicals tag-dark tag-equipment tag-pills tag-web">

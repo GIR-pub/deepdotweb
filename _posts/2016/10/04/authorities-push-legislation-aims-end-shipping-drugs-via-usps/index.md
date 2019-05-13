@@ -1,5 +1,5 @@
 ---
-Authorities Push Legislation That Aims To End The Shipping Of Drugs Via USPS
+Authorities Push Legislation That Aims To End The Shipping Of Drugs Via USPs"
 ---
 <article class="post-listing post-15655 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aims tag-authorities tag-legislation tag-push tag-shipping tag-usps">
     <div class="post-inner">

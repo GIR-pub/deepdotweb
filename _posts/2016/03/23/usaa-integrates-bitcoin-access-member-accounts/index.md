@@ -1,5 +1,5 @@
 ---
-USAA Integrates Bitcoin Access Into Member Accounts
+USAA Integrates Bitcoin Access Into Member Accounts"
 ---
 <article class="post-listing post-13551 post type-post status-publish format-standard has-post-thumbnail hentry  tag-access tag-accounts tag-bitcoin tag-integrates tag-member tag-usaa">
     

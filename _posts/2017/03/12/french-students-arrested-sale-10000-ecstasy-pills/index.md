@@ -1,5 +1,5 @@
 ---
-French Students Arrested For the Sale Of More Than 10,000 Ecstasy Pills
+French Students Arrested For the Sale Of More Than 10,000 Ecstasy Pills"
 ---
 <article class="post-listing post-18582 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-4937 tag-ecstasy tag-french tag-pills  tag-students">

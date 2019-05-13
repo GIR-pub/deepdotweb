@@ -1,5 +1,5 @@
 ---
-Real Life OpSec Matters Too
+Real Life OpSec Matters Too"
 ---
 <article class="post-listing post-13052 post type-post status-publish format-standard has-post-thumbnail hentry  tag-life tag-matters tag-opsec tag-real">
     <div class="post-inner">

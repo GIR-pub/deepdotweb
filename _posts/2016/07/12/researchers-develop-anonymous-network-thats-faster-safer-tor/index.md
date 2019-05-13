@@ -1,5 +1,5 @@
 ---
-Researchers Design Network they Claim is Faster &#038; Safer than Tor
+Researchers Design Network they Claim is Faster &#038; Safer than Tor"
 ---
 <article class="post-listing post-14787 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claim tag-design tag-faster tag-network tag-researchers tag-safer 
     <div class="post-inner">

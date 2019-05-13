@@ -1,5 +1,5 @@
 ---
-Napoli Group Counterfeiters Arrested in Bavarian Operation
+Napoli Group Counterfeiters Arrested in Bavarian Operation"
 ---
 <article class="post-listing post-25870 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bavarian tag-counterfeiters tag-group tag-napoli tag-operation">

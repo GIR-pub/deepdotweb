@@ -1,5 +1,5 @@
 ---
-DEA Busts a Massive Fentanyl Supplier in Massachusetts
+DEA Busts a Massive Fentanyl Supplier in Massachusetts"
 ---
 <article class="post-listing post-21816 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-busts tag-dea tag-fentanyl tag-massachusetts tag-massive tag-supplier">

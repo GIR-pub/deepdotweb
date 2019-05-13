@@ -1,5 +1,5 @@
 ---
-Wtf: Pedophiles Launch Dash (&#8220;Darkcoin&#8221;) Mining Crowdfunding Platform
+Wtf: Pedophiles Launch Dash (&#8220;Darkcoin&#8221;) Mining Crowdfunding Platform"
 ---
 <article class="post-listing post-11068 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crowdfunding tag-darkcoin tag-dash tag-mining tag-pedophiles tag-platform tag-wtf">
     <div class="post-inner">

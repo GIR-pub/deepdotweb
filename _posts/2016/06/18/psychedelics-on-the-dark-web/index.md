@@ -1,5 +1,5 @@
 ---
-Psychedelics on the Dark Web
+Psychedelics on the Dark Web"
 ---
 <article class="post-listing post-14462 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-psychedelics tag-web">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-How Lux Got Involved With Child Porn
+How Lux Got Involved With Child Porn"
 ---
 <article class="post-listing post-13188 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-involved tag-lux tag-porn">
     <div class="post-inner">

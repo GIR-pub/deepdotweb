@@ -1,5 +1,5 @@
 ---
-Joseph Cox: The Deep Web Isn&#8217;t All Dark
+Joseph Cox: The Deep Web Isn&#8217;t All Dark"
 ---
 <article class="post-listing post-6185 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-cox tag-dark tag-deep tag-joseph tag-web">
     <div class="post-inner">

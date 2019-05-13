@@ -1,5 +1,5 @@
 ---
-Hotspot Shield VPN Accused of Selling Customer Data to Advertisers
+Hotspot Shield VPN Accused of Selling Customer Data to Advertisers"
 ---
 <article class="post-listing post-22162 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-accused tag-advertisers tag-customer tag-data tag-hotspot tag-selling tag-shield tag-vpn">

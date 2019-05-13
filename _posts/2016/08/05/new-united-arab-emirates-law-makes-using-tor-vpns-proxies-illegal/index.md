@@ -1,5 +1,5 @@
 ---
-New United Arab Emirates Law Makes Using Tor, VPNs, and Proxies Illegal
+New United Arab Emirates Law Makes Using Tor, VPNs, and Proxies Illegal"
 ---
 <article class="post-listing post-15018 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arab tag-emirates tag-illegal tag-law tag-proxies  tag-united tag-vpns">
     <div class="post-inner">

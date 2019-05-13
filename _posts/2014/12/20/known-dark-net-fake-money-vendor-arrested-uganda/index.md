@@ -1,5 +1,5 @@
 ---
-Known Dark Net &#8220;Fake Money&#8221; Vendor Arrested In Uganda
+Known Dark Net &#8220;Fake Money&#8221; Vendor Arrested In Uganda"
 ---
 <article class="post-listing post-8678 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-fake tag-money tag-net tag-uganda tag-vendor">
     <div class="post-inner">

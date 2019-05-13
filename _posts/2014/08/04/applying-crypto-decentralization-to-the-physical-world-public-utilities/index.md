@@ -1,5 +1,5 @@
 ---
-Applying Crypto Decentralization to the Physical World: Public Utilities
+Applying Crypto Decentralization to the Physical World: Public Utilities"
 ---
 <article class="post-listing post-6482 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applying tag-crypto tag-decentralization tag-physical tag-public tag-utilities 
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Lexington Man Imprisoned for 43 Years for Attempting to Murder His Ex-Wife with a Darknet Bomb
+Lexington Man Imprisoned for 43 Years for Attempting to Murder His Ex-Wife with a Darknet Bomb"
 ---
 <article class="post-listing post-28622 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1181 tag-attempting tag-bomb tag-darknet tag-exwife tag-imprisoned tag-lexington tag-man tag-murder tag-years">
     <div class="post-inner">

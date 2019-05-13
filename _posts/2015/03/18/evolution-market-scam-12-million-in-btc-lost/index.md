@@ -1,5 +1,5 @@
 ---
-Evolution Market Scam: 12$ Million In BTC Lost?
+Evolution Market Scam: 12$ Million In BTC Lost?"
 ---
 <article class="post-listing post-9514 post type-post status-publish format-standard hentry category-news tag-evoscam">
 <div class="post-inner">

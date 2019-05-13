@@ -1,5 +1,5 @@
 ---
-Pedo with the Biggest CP Collection Ever to be Banned from Working
+Pedo with the Biggest CP Collection Ever to be Banned from Working"
 ---
 <article class="post-listing post-14780 post type-post status-publish format-standard hentry category-news tag-banned tag-biggest tag-collection tag-cp tag-pedo tag-working">
     <div class="post-inner">

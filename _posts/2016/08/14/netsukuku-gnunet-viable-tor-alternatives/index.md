@@ -1,5 +1,5 @@
 ---
-Netsukuku and GNUnet: Viable Tor Alternatives?
+Netsukuku and GNUnet: Viable Tor Alternatives?"
 ---
 <article class="post-listing post-15100 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternatives tag-gnunet tag-netsukuku 
     <div class="post-inner">

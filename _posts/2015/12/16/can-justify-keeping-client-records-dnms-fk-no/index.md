@@ -1,5 +1,5 @@
 ---
-Can you justify keeping client records on DNMs? F**k no.
+Can you justify keeping client records on DNMs? F**k no."
 ---
 <article class="post-listing post-10871 post type-post status-publish format-standard has-post-thumbnail hentry  tag-client tag-dnms tag-fk tag-justify tag-keeping tag-records">
     <div class="post-inner">

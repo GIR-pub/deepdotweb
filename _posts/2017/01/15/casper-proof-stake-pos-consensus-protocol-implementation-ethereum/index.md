@@ -1,5 +1,5 @@
 ---
-CASPER &#8211; Proof of Stake (PoS) Consensus Protocol For Implementation On Ethereum
+CASPER &#8211; Proof of Stake (PoS) Consensus Protocol For Implementation On Ethereum"
 ---
 <article class="post-listing post-17536 post type-post status-publish format-standard has-post-thumbnail hentry  tag-casper tag-consensus tag-ethereum tag-implementation tag-pos tag-proof tag-protocol tag-stake">
     <div class="post-inner">

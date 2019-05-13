@@ -1,5 +1,5 @@
 ---
-Illinois to Decriminalize Small Amounts of Marijuana
+Illinois to Decriminalize Small Amounts of Marijuana"
 ---
 <article class="post-listing post-14944 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amounts tag-decriminalize tag-illinois tag-marijuana tag-small">
     <div class="post-inner">

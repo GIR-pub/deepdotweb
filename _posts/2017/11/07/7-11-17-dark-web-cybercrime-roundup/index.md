@@ -1,5 +1,5 @@
 ---
-7.11.17 Dark Web and Cybercrime Roundup
+7.11.17 Dark Web and Cybercrime Roundup"
 ---
 <article class="post-listing post-23423 post type-post status-publish format-standard has-post-thumbnail hentry  tag-6082 tag-cybercrime tag-dark tag-roundup tag-web">
     <div class="post-inner">

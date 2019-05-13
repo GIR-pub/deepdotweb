@@ -1,5 +1,5 @@
 ---
-Only 3% of Counterfeit Euros in France from Darknet Markets
+Only 3% of Counterfeit Euros in France from Darknet Markets"
 ---
 <article class="post-listing post-22194 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-counterfeit tag-darknet tag-euros tag-france tag-markets">

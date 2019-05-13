@@ -1,5 +1,5 @@
 ---
-The First Ever r/DarkNetMarkets Meetup!
+The First Ever r/DarkNetMarkets Meetup!"
 ---
 <article class="post-listing post-9812 post type-post status-publish format-standard has-post-thumbnail hentry  tag-meetup tag-rdarknetmarkets">
     <div class="post-inner">

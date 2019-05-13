@@ -1,5 +1,5 @@
 ---
-Æternity Blockchain &#8211; A Functional Oracle Machine
+Æternity Blockchain &#8211; A Functional Oracle Machine"
 ---
 <article class="post-listing post-18377 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aeternity tag-blockchain tag-functional tag-machine tag-oracle">
     <div class="post-inner">

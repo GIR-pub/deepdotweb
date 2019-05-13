@@ -1,5 +1,5 @@
 ---
-Secrets to Unmasking Bitcoin Scams &#8211; 4 Eye Opening Case Studies
+Secrets to Unmasking Bitcoin Scams &#8211; 4 Eye Opening Case Studies"
 ---
 <article class="post-listing post-10439 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-case tag-eye tag-opening tag-scams tag-secrets tag-studies tag-unmasking">
     <div class="post-inner">

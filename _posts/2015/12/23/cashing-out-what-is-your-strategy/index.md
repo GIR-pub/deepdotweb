@@ -1,5 +1,5 @@
 ---
-Cashing Out &#8211; What is Your Strategy?
+Cashing Out &#8211; What is Your Strategy?"
 ---
 <article class="post-listing post-10463 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cashing tag-strategy">
     <div class="post-inner">

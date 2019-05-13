@@ -1,5 +1,5 @@
 ---
-German Father Bought Drugs With Counterfeit Euro Notes
+German Father Bought Drugs With Counterfeit Euro Notes"
 ---
 <article class="post-listing post-21845 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bought tag-counterfeit tag-euro tag-father tag-german tag-notes">

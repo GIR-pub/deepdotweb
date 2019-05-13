@@ -1,5 +1,5 @@
 ---
-Supreme Court Refuses to Review Ross Ulbricht’s Case
+Supreme Court Refuses to Review Ross Ulbricht’s Case"
 ---
 <article class="post-listing post-26291 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-case tag-court tag-refuses  tag-supreme tag-ulbrichts">

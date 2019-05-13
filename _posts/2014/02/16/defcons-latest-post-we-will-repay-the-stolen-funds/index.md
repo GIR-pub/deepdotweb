@@ -1,5 +1,5 @@
 ---
-Defcon&#8217;s Latest post: We Will Repay The Stolen Funds
+Defcon&#8217;s Latest post: We Will Repay The Stolen Funds"
 ---
 <article class="post-listing post-4257 post type-post status-publish format-standard has-post-thumbnail hentry  tag-defcons tag-funds tag-latest tag-post tag-repay tag-stolen">
     <div class="post-inner">

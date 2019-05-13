@@ -1,5 +1,5 @@
 ---
-US Charges Teenager for 100s of Fake Bomb Threats
+US Charges Teenager for 100s of Fake Bomb Threats"
 ---
 <article class="post-listing post-19697 post type-post status-publish format-standard has-post-thumbnail hentry  tag-100s tag-bomb tag-charges tag-fake tag-teenager tag-threats">
     <div class="post-inner">

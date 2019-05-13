@@ -1,5 +1,5 @@
 ---
-Several French DarkWeb Sites Hacked, Allegedly.
+Several French DarkWeb Sites Hacked, Allegedly."
 ---
 <article class="post-listing post-11566 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-allegedly tag-darkweb tag-french tag-hacked tag-sites">
 <div class="post-inner">

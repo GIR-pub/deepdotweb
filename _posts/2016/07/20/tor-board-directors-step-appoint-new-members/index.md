@@ -1,5 +1,5 @@
 ---
-Tor board of directors step down, appoint new members
+Tor board of directors step down, appoint new members"
 ---
 <article class="post-listing post-14843 post type-post status-publish format-standard has-post-thumbnail hentry  tag-appoint tag-board tag-directors tag-members tag-step 
     <div class="post-inner">

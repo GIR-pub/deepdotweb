@@ -1,5 +1,5 @@
 ---
-Dealer Allegedly Pressed Xanax in Rented Beach Homes
+Dealer Allegedly Pressed Xanax in Rented Beach Homes"
 ---
 <article class="post-listing post-26426 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-allegedly tag-beach tag-homes tag-pressed tag-rented tag-xanax">

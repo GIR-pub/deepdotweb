@@ -1,5 +1,5 @@
 ---
-Bitcoin As A Solution To Ad-Blockers
+Bitcoin As A Solution To Ad-Blockers"
 ---
 <article class="post-listing post-13524 post type-post status-publish format-standard hentry category-news tag-adblockers tag-bitcoin tag-solution">
     <div class="post-inner">

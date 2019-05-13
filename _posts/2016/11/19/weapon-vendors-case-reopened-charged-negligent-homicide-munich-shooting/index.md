@@ -1,5 +1,5 @@
 ---
-Weapon Vendor&#8217;s Case Reopened: Charged with Negligent Homicide in Munich Shooting
+Weapon Vendor&#8217;s Case Reopened: Charged with Negligent Homicide in Munich Shooting"
 ---
 <article class="post-listing post-16476 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-charged tag-homicide tag-munich tag-negligent tag-reopened tag-shooting tag-vendors tag-weapon">
     <div class="post-inner">

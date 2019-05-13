@@ -1,5 +1,5 @@
 ---
-An Insight Into Who Is Really Buying Legal Highs Online
+An Insight Into Who Is Really Buying Legal Highs Online"
 ---
 <article class="post-listing post-10172 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buying tag-highs tag-insight tag-legal tag-online">
     <div class="post-inner">

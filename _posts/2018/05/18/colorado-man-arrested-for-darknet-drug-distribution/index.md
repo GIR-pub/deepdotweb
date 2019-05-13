@@ -1,5 +1,5 @@
 ---
-Colorado Man Arrested for Darknet Drug Distribution
+Colorado Man Arrested for Darknet Drug Distribution"
 ---
 <article class="post-listing post-25735 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-colorado tag-darknet tag-distribution tag-man">

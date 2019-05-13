@@ -1,5 +1,5 @@
 ---
-Turkey National Police Hacked
+Turkey National Police Hacked"
 ---
 <article class="post-listing post-13272 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacked tag-national tag-police tag-turkey">
     <div class="post-inner">

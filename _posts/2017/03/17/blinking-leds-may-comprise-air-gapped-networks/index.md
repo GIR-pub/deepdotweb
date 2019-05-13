@@ -1,5 +1,5 @@
 ---
-Blinking LEDs May Comprise Air-Gapped Networks
+Blinking LEDs May Comprise Air-Gapped Networks"
 ---
 <article class="post-listing post-18656 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-airgapped tag-blinking tag-comprise tag-leds tag-networks">

@@ -1,5 +1,5 @@
 ---
-German Students Sentenced To Community Work For Purchasing Counterfeit Euro Notes
+German Students Sentenced To Community Work For Purchasing Counterfeit Euro Notes"
 ---
 <article class="post-listing post-20104 post type-post status-publish format-standard has-post-thumbnail hentry  tag-community tag-counterfeit tag-euro tag-german tag-notes tag-purchasing tag-sentenced tag-students tag-work">
     <div class="post-inner">

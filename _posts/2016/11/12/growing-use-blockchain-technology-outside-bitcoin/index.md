@@ -1,5 +1,5 @@
 ---
-The Growing Use of Blockchain Technology Outside Bitcoin
+The Growing Use of Blockchain Technology Outside Bitcoin"
 ---
 <article class="post-listing post-16400 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-blockchain tag-growing tag-technology">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Bavarian Man Busted for Attempted Glock Purchase
+Bavarian Man Busted for Attempted Glock Purchase"
 ---
 <article class="post-listing post-26587 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-attempted tag-bavarian tag-busted tag-glock tag-man tag-purchase">

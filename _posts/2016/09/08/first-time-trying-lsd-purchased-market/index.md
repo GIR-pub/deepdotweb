@@ -1,5 +1,5 @@
 ---
-First time trying LSD purchased from the Market.
+First time trying LSD purchased from the Market."
 ---
 <article class="post-listing post-15347 post type-post status-publish format-standard has-post-thumbnail hentry  tag-lsd tag-purchased tag-time">
     <div class="post-inner">

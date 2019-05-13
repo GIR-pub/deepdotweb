@@ -1,5 +1,5 @@
 ---
-New: Short news!
+New: Short news!"
 ---
 <article class="post-listing post-9033 post type-post status-publish format-standard hentry category-news tag-testpost">
 <div class="post-inner">

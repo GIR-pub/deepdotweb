@@ -1,5 +1,5 @@
 ---
-Bavarian Justice Minister To Introduce Bill Resulting In More Efficient Investigations Against Darknet Criminals
+Bavarian Justice Minister To Introduce Bill Resulting In More Efficient Investigations Against Darknet Criminals"
 ---
 <article class="post-listing post-21092 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bavarian tag-bill tag-criminals tag-darknet tag-efficient tag-introduce tag-investigations tag-justice tag-minister tag-resulting">
     <div class="post-inner">

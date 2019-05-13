@@ -1,5 +1,5 @@
 ---
-Nucleus: Issues &#038; Possible Exit Scam?
+Nucleus: Issues &#038; Possible Exit Scam?"
 ---
 <article class="post-listing post-12579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-exit s tag-nucleus tag-scam">
     <div class="post-inner">

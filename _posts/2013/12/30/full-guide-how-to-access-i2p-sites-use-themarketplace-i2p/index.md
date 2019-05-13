@@ -1,41 +1,41 @@
 ---
-title: "Transaction String Formatting
+title: "Transaction String Formatting"
 ---
 title: "---
-title: "Finalising transactions outside of The Marketplace
+title: "Finalising transactions outside of The Marketplace"
 ---
 title: "---
-title: "Selling on The Marketplace
----
-title: "---
-title: "Order Refunds (Order Cancelled, Order Rejected)
+title: "Selling on The Marketplace"
 ---
 title: "---
 title: "Order Refunds (Order Cancelled, Order Rejected)
 ---
 title: "---
-title: "Installation and Configuration
+title: "Order Refunds (Order Cancelled, Order Rejected)
 ---
 title: "---
-title: "Concepts
+title: "Installation and Configuration"
 ---
 title: "---
-title: "Prerequisites
+title: "Concepts"
 ---
 title: "---
-title: "Terminology &amp; Abbreviations
+title: "Prerequisites"
 ---
 title: "---
-title: "Versioning
+title: "Terminology &amp; Abbreviations"
 ---
 title: "---
-title: "Legal Disclaimer
+title: "Versioning"
 ---
 title: "---
-title: "Contents
+title: "Legal Disclaimer"
 ---
 title: "---
-title: "Full guide: How to access I2p sites &#038; Use TheMarketplace.i2p
+title: "Contents"
+---
+title: "---
+title: "Full guide: How to access I2p sites &#038; Use TheMarketplace.i2p"
 ---
 3051  tag-access tag-full tag-guide tag-i2p tag-sites tag-uthemarketplacei2p">
 

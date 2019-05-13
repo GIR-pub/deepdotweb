@@ -1,5 +1,5 @@
 ---
-A Globally Coordinated Operation Just Took Down Alphabay and Hansa
+A Globally Coordinated Operation Just Took Down Alphabay and Hansa"
 ---
 <article class="post-listing post-21462 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-coordinated tag-globally tag-hansa tag-operation">
     <div class="post-inner">

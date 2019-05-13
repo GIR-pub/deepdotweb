@@ -1,5 +1,5 @@
 ---
-D.C Couple Allegedly Losses $1.5 Million to Hackers in Phishing Scheme
+D.C Couple Allegedly Losses $1.5 Million to Hackers in Phishing Scheme"
 ---
 <article class="post-listing post-22163 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-1886 tag-allegedly tag-couple tag-dc tag-hackers tag-losses tag-million tag-phishing tag-scheme">

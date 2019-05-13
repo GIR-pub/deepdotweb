@@ -1,5 +1,5 @@
 ---
-Cryptomarkets &#8211; Mitigating the Problems of Conventional Offline Drug Markets
+Cryptomarkets &#8211; Mitigating the Problems of Conventional Offline Drug Markets"
 ---
 <article class="post-listing post-24525 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-conventional tag-cryptomarkets tag-mitigating tag-offline tag-problems">

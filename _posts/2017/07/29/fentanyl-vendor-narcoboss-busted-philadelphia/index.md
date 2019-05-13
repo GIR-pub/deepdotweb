@@ -1,5 +1,5 @@
 ---
-Fentanyl Vendor “NarcoBoss” Busted in Philadelphia
+Fentanyl Vendor “NarcoBoss” Busted in Philadelphia"
 ---
 <article class="post-listing post-21617 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-fentanyl tag-narcoboss tag-philadelphia tag-vendor">
     <div class="post-inner">

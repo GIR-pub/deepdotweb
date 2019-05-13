@@ -1,5 +1,5 @@
 ---
-Researchers Crack Satellite Phone Encryption with New Attack
+Researchers Crack Satellite Phone Encryption with New Attack"
 ---
 <article class="post-listing post-21475 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

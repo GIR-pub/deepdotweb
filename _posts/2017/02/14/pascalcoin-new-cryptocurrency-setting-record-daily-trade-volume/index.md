@@ -1,5 +1,5 @@
 ---
-PascalCoin &#8211; A New Cryptocurrency Setting a Record For Daily Trade Volume
+PascalCoin &#8211; A New Cryptocurrency Setting a Record For Daily Trade Volume"
 ---
 <article class="post-listing post-18117 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptocurrency tag-daily tag-pascalcoin tag-record tag-setting tag-trade tag-volume">
     <div class="post-inner">

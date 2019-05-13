@@ -1,5 +1,5 @@
 ---
-6 Nigerian Sentenced in $40 million fraud scheme
+6 Nigerian Sentenced in $40 million fraud scheme"
 ---
 <article class="post-listing post-15478 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3727 tag-fraud tag-million tag-nigerian tag-scheme tag-sentenced">
     <div class="post-inner">

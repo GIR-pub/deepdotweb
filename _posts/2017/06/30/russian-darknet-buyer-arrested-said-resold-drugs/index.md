@@ -1,5 +1,5 @@
 ---
-Russian Darknet Buyer Arrested, Said He Resold Drugs
+Russian Darknet Buyer Arrested, Said He Resold Drugs"
 ---
 <article class="post-listing post-20986 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyer tag-darknet tag-resold tag-russian">
     <div class="post-inner">

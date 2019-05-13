@@ -1,5 +1,5 @@
 ---
-TRD Admin On The Ransom DDoS That Is Hitting The Dark Net Markets
+TRD Admin On The Ransom DDoS That Is Hitting The Dark Net Markets"
 ---
 <article class="post-listing post-10252 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-dark tag-ddos tag-hitting tag-net tag-ransom tag-trd">
     

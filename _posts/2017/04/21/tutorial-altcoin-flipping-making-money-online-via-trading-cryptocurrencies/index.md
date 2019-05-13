@@ -1,5 +1,5 @@
 ---
-Tutorial &#8211; Altcoin Flipping : Making Money Online Via Trading Cryptocurrencies
+Tutorial &#8211; Altcoin Flipping : Making Money Online Via Trading Cryptocurrencies"
 ---
 <article class="post-listing post-19311 post type-post status-publish format-standard has-post-thumbnail hentry  tag-altcoin tag-cryptocurrencies tag-flipping tag-making tag-money tag-trading tag-tutorial">
     <div class="post-inner">

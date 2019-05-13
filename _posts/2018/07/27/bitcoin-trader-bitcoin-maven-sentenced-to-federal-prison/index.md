@@ -1,5 +1,5 @@
 ---
-Bitcoin Trader &#8216;Bitcoin Maven” Sentenced to Federal Prison
+Bitcoin Trader &#8216;Bitcoin Maven” Sentenced to Federal Prison"
 ---
 <article class="post-listing post-26417 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bitcoin tag-federal tag-maven tag-prison tag-sentenced tag-trader">

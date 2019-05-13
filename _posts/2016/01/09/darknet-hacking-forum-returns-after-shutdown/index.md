@@ -1,5 +1,5 @@
 ---
-Darknet Hacking Forum &#8220;Hell&#8221; Returns After Shutdown
+Darknet Hacking Forum &#8220;Hell&#8221; Returns After Shutdown"
 ---
 <article class="post-listing post-12869 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-forum tag-hacking tag-returns tag-shutdown">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Business from the inside out: Dropper
+Business from the inside out: Dropper"
 ---
 <article class="post-listing post-24684 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-business tag-dropper">

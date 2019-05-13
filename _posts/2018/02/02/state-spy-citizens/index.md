@@ -1,5 +1,5 @@
 ---
-How does a state spy on citizens?
+How does a state spy on citizens?"
 ---
 <article class="post-listing post-24642 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-citizens tag-spy tag-state">

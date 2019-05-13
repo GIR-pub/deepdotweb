@@ -1,5 +1,5 @@
 ---
-Silk Road Trial: The Evidence &#038; Admission that Shook The Court Room
+Silk Road Trial: The Evidence &#038; Admission that Shook The Court Room"
 ---
 <article class="post-listing post-8797 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admission tag-court tag-evidence tag-room tag-shook trial tag-trial">
     <div class="post-inner">

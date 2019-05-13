@@ -1,5 +1,5 @@
 ---
-Parent Claims Dealer Gave Fentanyl to Son, Darknet to Blame
+Parent Claims Dealer Gave Fentanyl to Son, Darknet to Blame"
 ---
 <article class="post-listing post-19619 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blame tag-claims tag-darknet tag-fentanyl tag-gave tag-parent tag-son">
     <div class="post-inner">

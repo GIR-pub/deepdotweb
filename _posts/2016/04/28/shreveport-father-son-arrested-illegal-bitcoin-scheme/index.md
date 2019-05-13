@@ -1,5 +1,5 @@
 ---
-Shreveport Father and Son Arrested for illegal Bitcoin Scheme
+Shreveport Father and Son Arrested for illegal Bitcoin Scheme"
 ---
 <article class="post-listing post-13894 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-father tag-illegal tag-scheme tag-shreveport tag-son">
     

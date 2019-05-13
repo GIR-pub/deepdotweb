@@ -1,5 +1,5 @@
 ---
-A new method for detecting malicious traffic over the Tor network
+A new method for detecting malicious traffic over the Tor network"
 ---
 <article class="post-listing post-27634 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-detecting tag-malicious tag-method tag-network  tag-traffic">

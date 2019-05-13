@@ -1,5 +1,5 @@
 ---
-ZiftrCoin: the Future of Cryptocurrencies?
+ZiftrCoin: the Future of Cryptocurrencies?"
 ---
 <article class="post-listing post-8742 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptocurrencies tag-future tag-ziftrcoin">
     <div class="post-inner">

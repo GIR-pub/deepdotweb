@@ -1,5 +1,5 @@
 ---
-French Bill To Force Decryption Of Encrypted Data
+French Bill To Force Decryption Of Encrypted Data"
 ---
 <article class="post-listing post-13445 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bill tag-data tag-decryption tag-encrypted tag-force tag-french">
     <div class="post-inner">

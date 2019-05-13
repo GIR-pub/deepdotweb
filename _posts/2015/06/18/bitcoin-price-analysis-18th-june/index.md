@@ -1,5 +1,5 @@
 ---
-Bitcoin Price Analysis 18th June
+Bitcoin Price Analysis 18th June"
 ---
 <article class="post-listing post-10845 post type-post status-publish format-standard has-post-thumbnail hentry  tag-18th tag-analysis tag-bitcoin tag-june tag-price">
     <div class="post-inner">

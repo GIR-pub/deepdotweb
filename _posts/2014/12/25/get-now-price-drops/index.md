@@ -1,5 +1,5 @@
 ---
-Get In Now Before The Price Drops!
+Get In Now Before The Price Drops!"
 ---
 <article class="post-listing post-8698 post type-post status-publish format-standard has-post-thumbnail hentry category-memes tag-drops tag-price">
     <div class="post-inner">

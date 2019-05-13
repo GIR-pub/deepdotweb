@@ -1,5 +1,5 @@
 ---
-Weapon Vendor Who Sold The Gun To The Münich Shooter Formally Charged
+Weapon Vendor Who Sold The Gun To The Münich Shooter Formally Charged"
 ---
 <article class="post-listing post-18869 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-charged tag-formally tag-gun tag-munich tag-shooter  tag-vendor tag-weapon">

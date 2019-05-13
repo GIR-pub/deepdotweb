@@ -1,5 +1,5 @@
 ---
-3 OD in Portland Jail: Evolution Fentanyl Vendor Busted
+3 OD in Portland Jail: Evolution Fentanyl Vendor Busted"
 ---
 <article class="post-listing post-9469 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-evolution tag-fentanyl tag-od tag-portland tag-vendor">
 <div class="post-inner">

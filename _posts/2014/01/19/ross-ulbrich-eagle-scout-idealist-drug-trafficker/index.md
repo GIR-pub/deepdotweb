@@ -1,5 +1,5 @@
 ---
-Ross Ulbrich: Eagle Scout. Idealist. Drug Trafficker?
+Ross Ulbrich: Eagle Scout. Idealist. Drug Trafficker?"
 ---
 <article class="post-listing post-3521 post type-post status-publish format-standard has-post-thumbnail hentry
     <div class="post-inner">

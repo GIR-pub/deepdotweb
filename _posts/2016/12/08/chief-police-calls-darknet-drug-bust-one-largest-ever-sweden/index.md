@@ -1,5 +1,5 @@
 ---
-Chief of Police Calls Darknet Drug Bust One of the Largest Ever in Sweden
+Chief of Police Calls Darknet Drug Bust One of the Largest Ever in Sweden"
 ---
 <article class="post-listing post-16809 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-calls tag-chief tag-darknet tag-largest tag-police tag-sweden">
     <div class="post-inner">

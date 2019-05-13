@@ -1,5 +1,5 @@
 ---
-OP-ED: Agora, Where’s My BTC (and your consistency), Bitch?
+OP-ED: Agora, Where’s My BTC (and your consistency), Bitch?"
 ---
 <article class="post-listing post-11380 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-bitch tag-consistency tag-oped">
 <div class="post-inner">

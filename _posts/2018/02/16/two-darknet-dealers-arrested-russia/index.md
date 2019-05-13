@@ -1,5 +1,5 @@
 ---
-Two Darknet Dealers Arrested in Russia
+Two Darknet Dealers Arrested in Russia"
 ---
 <article class="post-listing post-24813 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-darknet tag-dealers tag-russia">

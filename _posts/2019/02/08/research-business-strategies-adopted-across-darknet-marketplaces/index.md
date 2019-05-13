@@ -1,5 +1,5 @@
 ---
-Research: Business strategies adopted across darknet marketplaces
+Research: Business strategies adopted across darknet marketplaces"
 ---
 <article class="post-listing post-28315 post type-post status-publish format-standard has-post-thumbnail hentry  tag-adopted tag-business tag-darknet tag-marketplaces tag-strategies">
     <div class="post-inner">

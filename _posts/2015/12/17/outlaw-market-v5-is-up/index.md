@@ -1,5 +1,5 @@
 ---
-Outlaw Market V5 Is Up
+Outlaw Market V5 Is Up"
 ---
 <article class="post-listing post-12628 post type-post status-publish format-standard has-post-thumbnail hentry  tag-outlaw tag-v5">
     

@@ -1,5 +1,5 @@
 ---
-EU Council Requests The Registration Of Bitcoin Users
+EU Council Requests The Registration Of Bitcoin Users"
 ---
 <article class="post-listing post-17349 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-council tag-eu tag-registration tag-requests tag-users">
     <div class="post-inner">

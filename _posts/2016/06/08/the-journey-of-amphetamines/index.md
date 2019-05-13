@@ -1,5 +1,5 @@
 ---
-The Journey of Amphetamines
+The Journey of Amphetamines"
 ---
 <article class="post-listing post-14393 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amphetamines tag-journey">
     <div class="post-inner">

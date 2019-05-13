@@ -1,5 +1,5 @@
 ---
-Game Day For Ross Ulbricht and The New Frontier
+Game Day For Ross Ulbricht and The New Frontier"
 ---
 <article class="post-listing post-8768 post type-post status-publish format-standard has-post-thumbnail hentry  tag-day tag-frontier tag-game  trial tag-ulbricht">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Sex Predator Peter Scully To Escape Death Penalty In The Philippines
+Sex Predator Peter Scully To Escape Death Penalty In The Philippines"
 ---
 <article class="post-listing post-18741 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-death tag-escape tag-penalty tag-peter tag-philippines tag-predator tag-scully tag-sex">

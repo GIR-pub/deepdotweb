@@ -1,5 +1,5 @@
 ---
-Outlaw Market Prepares Scam-Deterring Revamp
+Outlaw Market Prepares Scam-Deterring Revamp"
 ---
 <article class="post-listing post-19442 post type-post status-publish format-standard has-post-thumbnail hentry  tag-outlaw tag-prepares tag-revamp tag-scamdeterring">
     <div class="post-inner">

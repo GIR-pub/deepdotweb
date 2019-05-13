@@ -1,5 +1,5 @@
 ---
-DNM Vendors Still Selling Fake Euros, Despite German Crackdown
+DNM Vendors Still Selling Fake Euros, Despite German Crackdown"
 ---
 <article class="post-listing post-20245 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crackdown tag-dnm tag-euros tag-fake tag-german tag-selling tag-vendors">
     <div class="post-inner">

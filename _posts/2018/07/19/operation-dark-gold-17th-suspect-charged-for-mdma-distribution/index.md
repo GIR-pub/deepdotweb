@@ -1,5 +1,5 @@
 ---
-Operation Dark Gold: 17th Suspect Charged for MDMA Distribution
+Operation Dark Gold: 17th Suspect Charged for MDMA Distribution"
 ---
 <article class="post-listing post-26336 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-17th tag-charged tag-dark tag-distribution tag-gold tag-mdma tag-operation tag-suspect">

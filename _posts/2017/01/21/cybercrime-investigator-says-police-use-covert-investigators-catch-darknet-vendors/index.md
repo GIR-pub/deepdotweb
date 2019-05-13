@@ -1,5 +1,5 @@
 ---
-Cybercrime Investigator Says Police Use “Covert Investigators” to Catch Darknet Vendors
+Cybercrime Investigator Says Police Use “Covert Investigators” to Catch Darknet Vendors"
 ---
 <article class="post-listing post-17642 post type-post status-publish format-standard has-post-thumbnail hentry  tag-catch tag-covert tag-cybercrime tag-darknet tag-investigator tag-investigators tag-police tag-vendors">
     <div class="post-inner">

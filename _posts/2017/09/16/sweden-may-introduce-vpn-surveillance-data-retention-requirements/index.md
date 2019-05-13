@@ -1,5 +1,5 @@
 ---
-Sweden May Introduce VPN Surveillance and More Data Retention Requirements
+Sweden May Introduce VPN Surveillance and More Data Retention Requirements"
 ---
 <article class="post-listing post-22572 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-data tag-introduce tag-requirements tag-retention tag-surveillance tag-sweden tag-vpn">

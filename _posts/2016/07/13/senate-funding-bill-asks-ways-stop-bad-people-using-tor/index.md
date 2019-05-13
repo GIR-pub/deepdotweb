@@ -1,5 +1,5 @@
 ---
-Senate Bill Asks For Ways to Stop Bad People From Using Tor
+Senate Bill Asks For Ways to Stop Bad People From Using Tor"
 ---
 <article class="post-listing post-14797 post type-post status-publish format-standard has-post-thumbnail hentry  tag-asks tag-bill tag-funding tag-people tag-senate tag-stop  tag-ways">
     <div class="post-inner">

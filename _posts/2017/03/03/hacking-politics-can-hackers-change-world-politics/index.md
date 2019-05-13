@@ -1,5 +1,5 @@
 ---
-Hacking and Politics &#8211; Can Hackers Change World Politics?
+Hacking and Politics &#8211; Can Hackers Change World Politics?"
 ---
 <article class="post-listing post-18417 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-change tag-hackers tag-hacking tag-politics 

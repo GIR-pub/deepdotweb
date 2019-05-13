@@ -1,5 +1,5 @@
 ---
-Why CSRF Is Not The Same As XSS
+Why CSRF Is Not The Same As XSs"
 ---
 <article class="post-listing post-14564 post type-post status-publish format-standard has-post-thumbnail hentry  tag-csrf tag-xss">
     <div class="post-inner">

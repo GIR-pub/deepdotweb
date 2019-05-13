@@ -1,5 +1,5 @@
 ---
-Cannabis Legalization Attempt Failed In South Tyrol
+Cannabis Legalization Attempt Failed In South Tyrol"
 ---
 <article class="post-listing post-16506 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempt tag-cannabis tag-failed tag-legalization tag-south tag-tyrol">
     <div class="post-inner">

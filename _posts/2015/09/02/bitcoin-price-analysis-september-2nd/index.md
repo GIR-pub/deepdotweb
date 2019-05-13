@@ -1,5 +1,5 @@
 ---
-Bitcoin Price Analysis September 2nd
+Bitcoin Price Analysis September 2nd"
 ---
 <article class="post-listing post-11404 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2nd tag-analysis tag-bitcoin tag-price tag-september">
 <div class="post-inner">

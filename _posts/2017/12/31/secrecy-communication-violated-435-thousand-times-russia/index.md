@@ -1,5 +1,5 @@
 ---
-Secrecy of communication is violated 435 thousand times in Russia
+Secrecy of communication is violated 435 thousand times in Russia"
 ---
 <article class="post-listing post-24206 post type-post status-publish format-standard has-post-thumbnail hentry  tag-6213 tag-communication tag-russia tag-secrecy tag-thousand tag-times tag-violated">
     <div class="post-inner">

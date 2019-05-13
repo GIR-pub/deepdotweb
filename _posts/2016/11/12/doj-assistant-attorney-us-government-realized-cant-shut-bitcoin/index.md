@@ -1,5 +1,5 @@
 ---
-DOJ Assistant Attorney: US Government Realized They Can’t Shut Down Bitcoin
+DOJ Assistant Attorney: US Government Realized They Can’t Shut Down Bitcoin"
 ---
 <article class="post-listing post-16393 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-government tag-realized tag-shut">
     <div class="post-inner">

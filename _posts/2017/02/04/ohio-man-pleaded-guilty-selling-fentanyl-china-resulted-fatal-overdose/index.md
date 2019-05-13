@@ -1,5 +1,5 @@
 ---
-Ohio Man Pleaded Guilty to Selling Fentanyl From China that Resulted in a Fatal Overdose
+Ohio Man Pleaded Guilty to Selling Fentanyl From China that Resulted in a Fatal Overdose"
 ---
 <article class="post-listing post-17969 post type-post status-publish format-standard has-post-thumbnail hentry  tag-china tag-fatal tag-fentanyl tag-guilty tag-man tag-ohio tag-overdose tag-pleaded tag-resulted tag-selling">
     

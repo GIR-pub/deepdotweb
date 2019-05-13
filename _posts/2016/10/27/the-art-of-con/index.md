@@ -1,5 +1,5 @@
 ---
-The Art of Con
+The Art of Con"
 ---
 <article class="post-listing post-16109 post type-post status-publish format-standard has-post-thumbnail hentry  tag-art tag-con">
     <div class="post-inner">

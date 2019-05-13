@@ -1,5 +1,5 @@
 ---
-Introducing The Grail: The 1776 Equal Trust Multisig System
+Introducing The Grail: The 1776 Equal Trust Multisig System"
 ---
 <article class="post-listing post-5468 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1492 tag-equal tag-escrow tag-grail tag-introducing tag-system tag-trust">
     <div class="post-inner">

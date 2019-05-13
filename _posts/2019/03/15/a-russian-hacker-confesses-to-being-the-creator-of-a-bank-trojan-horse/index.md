@@ -1,5 +1,5 @@
 ---
-A Russian Hacker Confesses to Being the Creator of a Bank Trojan Horse
+A Russian Hacker Confesses to Being the Creator of a Bank Trojan Horse"
 ---
 <article class="post-listing post-28634 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bank tag-confesses tag-creator tag-hacker tag-horse tag-russian tag-trojan">
     <div class="post-inner">

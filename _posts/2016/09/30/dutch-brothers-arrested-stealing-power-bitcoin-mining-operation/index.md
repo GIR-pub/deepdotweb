@@ -1,5 +1,5 @@
 ---
-Dutch Brothers Arrested For Stealing Power For Their Bitcoin Mining Operation
+Dutch Brothers Arrested For Stealing Power For Their Bitcoin Mining Operation"
 ---
 <article class="post-listing post-15609 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-brothers tag-dutch tag-mining tag-operation tag-power tag-stealing">
     <div class="post-inner">

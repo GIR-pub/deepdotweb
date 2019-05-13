@@ -1,5 +1,5 @@
 ---
-Alphabay: Introducing New wallet security measures
+Alphabay: Introducing New wallet security measures"
 ---
 <article class="post-listing post-13348 post type-post status-publish format-standard hentry category-news tag-alphabay tag-measures tag-security tag-wallet">
     <div class="post-inner">

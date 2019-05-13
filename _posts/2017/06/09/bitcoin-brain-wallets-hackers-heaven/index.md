@@ -1,5 +1,5 @@
 ---
-Bitcoin Brain Wallets : Hackers&#8217; Heaven!
+Bitcoin Brain Wallets : Hackers&#8217; Heaven!"
 ---
 <article class="post-listing post-20486 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-brain tag-hackers tag-heaven tag-wallets">
     <div class="post-inner">

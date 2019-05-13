@@ -1,5 +1,5 @@
 ---
-Russian Cybercriminal arrested by Thai Police
+Russian Cybercriminal arrested by Thai Police"
 ---
 <article class="post-listing post-24914 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-cybercriminal tag-police tag-russian tag-thai">

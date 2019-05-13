@@ -1,5 +1,5 @@
 ---
-Useful Proof of Work (PoW) &#8211; Energy Preserving Cryptocurrency PoW Protocols
+Useful Proof of Work (PoW) &#8211; Energy Preserving Cryptocurrency PoW Protocols"
 ---
 <article class="post-listing post-18697 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-cryptocurrency tag-energy tag-pow tag-preserving tag-proof tag-protocols tag-work">

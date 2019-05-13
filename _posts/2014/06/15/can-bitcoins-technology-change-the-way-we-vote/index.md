@@ -1,5 +1,5 @@
 ---
-Can Bitcoin&#8217;s Technology Change The Way We Vote?
+Can Bitcoin&#8217;s Technology Change The Way We Vote?"
 ---
 <article class="post-listing post-5969 post type-post status-publish format-standard has-post-thumbnail hentry  tag-based tag-blockchain tag-system tag-voting">
     <div class="post-inner">

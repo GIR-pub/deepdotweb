@@ -1,5 +1,5 @@
 ---
-Freeross.org Hosting Fund Raising Event Free Ross-A-Thon Dec. 4th
+Freeross.org Hosting Fund Raising Event Free Ross-A-Thon Dec. 4th"
 ---
 <article class="post-listing post-16515 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Darkcoin Now Accepted on Minor Dark Net Markets
+Darkcoin Now Accepted on Minor Dark Net Markets"
 ---
 <article class="post-listing post-7445 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bow tag-dark tag-darkcoin tag-marketplaces tag-minor tag-net">
     <div class="post-inner">

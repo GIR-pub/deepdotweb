@@ -1,5 +1,5 @@
 ---
-Silk Road Tales: Oracle&#8217;s Memoirs
+Silk Road Tales: Oracle&#8217;s Memoirs"
 ---
 <article class="post-listing post-6258 post type-post status-publish format-standard has-post-thumbnail hentry  tag-memoirs tag-oracle">
     <div class="post-inner">

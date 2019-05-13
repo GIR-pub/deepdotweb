@@ -1,5 +1,5 @@
 ---
-German Police Released New Information In The Case Of The Ehingen Drug Shop
+German Police Released New Information In The Case Of The Ehingen Drug Shop"
 ---
 <article class="post-listing post-19049 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-ehingen tag-german tag-information tag-police tag-released tag-shop">
     <div class="post-inner">

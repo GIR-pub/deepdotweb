@@ -1,5 +1,5 @@
 ---
-Darknet Vendor Confessed to Selling Heroin and Fentanyl on Multiple DNMs
+Darknet Vendor Confessed to Selling Heroin and Fentanyl on Multiple DNMs"
 ---
 <article class="post-listing post-16271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-confessed tag-darknet tag-dnms tag-fentanyl tag-heroin tag-multiple tag-selling tag-vendor">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Plea Agreement Of Former Political Consultant Made Public
+Plea Agreement Of Former Political Consultant Made Public"
 ---
 <article class="post-listing post-13327 post type-post status-publish format-standard hentry category-news tag-agreement tag-consultant tag-plea tag-political tag-public">
     <div class="post-inner">

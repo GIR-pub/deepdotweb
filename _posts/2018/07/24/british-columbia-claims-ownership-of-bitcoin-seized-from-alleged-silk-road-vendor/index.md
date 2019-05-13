@@ -1,5 +1,5 @@
 ---
-British Columbia Claims Ownership of Bitcoin seized from Alleged Silk Road vendor
+British Columbia Claims Ownership of Bitcoin seized from Alleged Silk Road vendor"
 ---
 <article class="post-listing post-26386 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-alleged tag-bitcoin tag-british tag-claims tag-columbia tag-ownership tag-seized tag-vendor">

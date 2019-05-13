@@ -1,5 +1,5 @@
 ---
-Interview With a DarkNet Vendor: VamonosDab
+Interview With a DarkNet Vendor: VamonosDab"
 ---
 <article class="post-listing post-7405 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-interview tag-vamonosdab tag-vendor">
     <div class="post-inner">

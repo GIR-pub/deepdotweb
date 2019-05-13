@@ -1,5 +1,5 @@
 ---
-The Trial Of The Swedish Vendor Group Started
+The Trial Of The Swedish Vendor Group Started"
 ---
 <article class="post-listing post-16934 post type-post status-publish format-standard has-post-thumbnail hentry  tag-group tag-started tag-swedish tag-trial tag-vendor">
     <div class="post-inner">

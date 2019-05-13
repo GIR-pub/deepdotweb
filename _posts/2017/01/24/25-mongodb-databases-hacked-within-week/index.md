@@ -1,5 +1,5 @@
 ---
-More Than 25% of MongoDB Databases Hacked Within a Week
+More Than 25% of MongoDB Databases Hacked Within a Week"
 ---
 <article class="post-listing post-17672 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2528 tag-databases tag-hacked tag-mongodb tag-week">
     <div class="post-inner">

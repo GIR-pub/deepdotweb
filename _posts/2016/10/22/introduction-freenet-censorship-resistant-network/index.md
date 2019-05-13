@@ -1,5 +1,5 @@
 ---
-Introduction to Freenet: A Censorship-Resistant Network
+Introduction to Freenet: A Censorship-Resistant Network"
 ---
 <article class="post-listing post-15981 post type-post status-publish format-standard has-post-thumbnail hentry  tag-censorshipresistant tag-freenet tag-introduction tag-network">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Why Are US Mainstream Media Outlets Removing the “Operation Darkroom” Story?
+Why Are US Mainstream Media Outlets Removing the “Operation Darkroom” Story?"
 ---
 <article class="post-listing post-17105 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkroom tag-mainstream tag-media tag-operation tag-outlets tag-removing tag-story">
     <div class="post-inner">

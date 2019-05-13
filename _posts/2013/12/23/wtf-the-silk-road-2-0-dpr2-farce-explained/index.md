@@ -1,5 +1,5 @@
 ---
-title: "WTF? The Silk Road 2.0 / DPR2 Farce Explained
+title: "WTF? The Silk Road 2.0 / DPR2 Farce Explained"
 ---
 2850  tag-farce tag-wtf">
 

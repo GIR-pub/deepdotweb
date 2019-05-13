@@ -1,5 +1,5 @@
 ---
-Stuttgart Man Jailed For Arms And Drugs Trafficking
+Stuttgart Man Jailed For Arms And Drugs Trafficking"
 ---
 <article class="post-listing post-18419 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-arms tag-jailed tag-man tag-stuttgart tag-trafficking">

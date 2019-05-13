@@ -1,5 +1,5 @@
 ---
-EU Groups Work on Anti BTC Money Laundering Tools
+EU Groups Work on Anti BTC Money Laundering Tools"
 ---
 <article class="post-listing post-20512 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anti tag-eu tag-groups tag-laundering tag-money tag-tools tag-work">
     <div class="post-inner">

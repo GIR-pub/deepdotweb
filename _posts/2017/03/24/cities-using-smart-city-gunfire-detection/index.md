@@ -1,5 +1,5 @@
 ---
-Some Cities Using Smart City Gunfire Detection
+Some Cities Using Smart City Gunfire Detection"
 ---
 <article class="post-listing post-18767 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-cities tag-city tag-detection tag-gunfire tag-smart">

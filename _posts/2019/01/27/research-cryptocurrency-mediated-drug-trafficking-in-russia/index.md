@@ -1,5 +1,5 @@
 ---
-Research: Cryptocurrency mediated drug trafficking in Russia
+Research: Cryptocurrency mediated drug trafficking in Russia"
 ---
 <article class="post-listing post-28227 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptocurrency tag-mediated tag-research tag-russia tag-trafficking">
     <div class="post-inner">

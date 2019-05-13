@@ -1,5 +1,5 @@
 ---
-Using the CHORD protocol for creating a P2P multimedia service system
+Using the CHORD protocol for creating a P2P multimedia service system"
 ---
 <article class="post-listing post-27643 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-chord tag-creating tag-multimedia tag-p2p tag-protocol tag-system">

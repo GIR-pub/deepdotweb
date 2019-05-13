@@ -1,5 +1,5 @@
 ---
-Bavarian Narcotics Ring Busted
+Bavarian Narcotics Ring Busted"
 ---
 <article class="post-listing post-18584 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bavarian tag-busted tag-narcotics tag-ring">

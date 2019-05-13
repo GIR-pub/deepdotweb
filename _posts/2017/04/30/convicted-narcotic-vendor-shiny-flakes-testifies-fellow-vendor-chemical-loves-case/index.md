@@ -1,5 +1,5 @@
 ---
-Convicted Narcotic Vendor Shiny Flakes Testifies In Fellow Vendor Chemical Love’s Case
+Convicted Narcotic Vendor Shiny Flakes Testifies In Fellow Vendor Chemical Love’s Case"
 ---
 <article class="post-listing post-19493 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-chemical tag-convicted tag-fellow tag-flakes tag-loves tag-narcotic tag-shiny tag-testifies tag-vendor">
     <div class="post-inner">

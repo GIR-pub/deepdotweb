@@ -1,5 +1,5 @@
 ---
-&#8220;NCA Wannabe&#8221; Sentenced For Importing Guns And Ammo
+&#8220;NCA Wannabe&#8221; Sentenced For Importing Guns And Ammo"
 ---
 <article class="post-listing post-12390 post type-post status-publish format-standard hentry category-news tag-ammo tag-guns tag-importing tag-nca tag-sentenced tag-wannabe">
 <div class="post-inner">

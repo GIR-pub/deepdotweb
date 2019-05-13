@@ -1,5 +1,5 @@
 ---
-Bitcoin Price Analysis 24th June
+Bitcoin Price Analysis 24th June"
 ---
 <article class="post-listing post-10894 post type-post status-publish format-standard has-post-thumbnail hentry  tag-24th tag-analysis tag-bitcoin tag-june tag-price">
     

@@ -1,5 +1,5 @@
 ---
-Research Reveals Australia is an Emerging Leader in Darknet Markets
+Research Reveals Australia is an Emerging Leader in Darknet Markets"
 ---
 <article class="post-listing post-18729 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-australia tag-darknet tag-emerging tag-leader tag-research tag-reveals">

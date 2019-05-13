@@ -1,5 +1,5 @@
 ---
-Russia Seems to have Changed its Mind about Bitcoin
+Russia Seems to have Changed its Mind about Bitcoin"
 ---
 <article class="post-listing post-14906 post type-post status-publish format-standard hentry category-news tag-bitcoin tag-changed tag-mind tag-russia">
     <div class="post-inner">

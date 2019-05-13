@@ -1,5 +1,5 @@
 ---
-Teenager Arrested for Facilitating Firearms Transactions
+Teenager Arrested for Facilitating Firearms Transactions"
 ---
 <article class="post-listing post-20473 post type-post status-publish format-standard has-post-thumbnail hentry  tag-facilitating tag-firearms tag-teenager tag-transactions">
     <div class="post-inner">

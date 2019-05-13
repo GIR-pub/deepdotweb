@@ -1,5 +1,5 @@
 ---
-BlackBank Market: Service Under DDOS
+BlackBank Market: Service Under DDOs"
 ---
 <article class="post-listing post-10228 post type-post status-publish format-standard hentry category-news tag-blackbank tag-ddos tag-experiencing tag-market">
     <div class="post-inner">

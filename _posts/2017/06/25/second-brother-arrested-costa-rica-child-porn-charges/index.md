@@ -1,5 +1,5 @@
 ---
-Second Brother Arrested In Costa Rica For Child Porn Charges
+Second Brother Arrested In Costa Rica For Child Porn Charges"
 ---
 <article class="post-listing post-20877 post type-post status-publish format-standard has-post-thumbnail hentry  tag-brother tag-charges tag-child tag-costa tag-porn tag-rica">
     <div class="post-inner">

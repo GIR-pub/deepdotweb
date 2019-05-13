@@ -1,5 +1,5 @@
 ---
-TokenCard: One card to rule them all
+TokenCard: One card to rule them all"
 ---
 <article class="post-listing post-20264 post type-post status-publish format-standard has-post-thumbnail hentry  tag-card tag-rule tag-tokencard">
     <div class="post-inner">

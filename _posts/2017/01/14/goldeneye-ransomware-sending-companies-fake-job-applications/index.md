@@ -1,5 +1,5 @@
 ---
-GoldenEye ransomware is sending companies fake job applications
+GoldenEye ransomware is sending companies fake job applications"
 ---
 <article class="post-listing post-17494 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applications tag-companies tag-fake tag-goldeneye tag-job tag-ransomware tag-sending">
     <div class="post-inner">

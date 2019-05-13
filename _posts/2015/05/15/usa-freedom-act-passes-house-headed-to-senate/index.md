@@ -1,5 +1,5 @@
 ---
-USA Freedom Act passes House, headed to Senate
+USA Freedom Act passes House, headed to Senate"
 ---
 <article class="post-listing post-10311 post type-post status-publish format-standard has-post-thumbnail hentry  tag-act tag-freedom tag-headed tag-house tag-passes tag-senate tag-usa">
     <div class="post-inner">

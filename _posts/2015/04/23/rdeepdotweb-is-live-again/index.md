@@ -1,5 +1,5 @@
 ---
-/r/DeepDotWeb Is live again!
+/r/DeepDotWeb Is live again!"
 ---
 <article class="post-listing post-10063 post type-post status-publish format-standard hentry category-news tag-live tag-rdeepdotweb">
     <div class="post-inner">

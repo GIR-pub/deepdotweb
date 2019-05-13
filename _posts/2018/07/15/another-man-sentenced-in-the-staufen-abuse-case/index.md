@@ -1,5 +1,5 @@
 ---
-Another Man Sentenced in the Staufen Abuse Case
+Another Man Sentenced in the Staufen Abuse Case"
 ---
 <article class="post-listing post-26317 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-abuse tag-case tag-man tag-sentenced tag-staufen">

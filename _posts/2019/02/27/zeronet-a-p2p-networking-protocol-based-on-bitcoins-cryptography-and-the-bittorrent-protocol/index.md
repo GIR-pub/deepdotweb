@@ -1,5 +1,5 @@
 ---
-ZeroNet &#8211; A P2P networking protocol based on Bitcoin&#8217;s cryptography and the BitTorrent protocol
+ZeroNet &#8211; A P2P networking protocol based on Bitcoin&#8217;s cryptography and the BitTorrent protocol"
 ---
 <article class="post-listing post-28464 post type-post status-publish format-standard has-post-thumbnail hentry  tag-based tag-bittorrent tag-cryptography tag-networking tag-p2p tag-protocol tag-zeronet">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Tutorial &#8211; How To Store Your Bitcoins Securely Using Cold Storage
+Tutorial &#8211; How To Store Your Bitcoins Securely Using Cold Storage"
 ---
 <article class="post-listing post-19779 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cold tag-securely tag-storage tag-store tag-tutorial">
     <div class="post-inner">

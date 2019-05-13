@@ -1,5 +1,5 @@
 ---
-Crypto Decentralization &#038; the Physical World: Banking
+Crypto Decentralization &#038; the Physical World: Banking"
 ---
 <article class="post-listing post-6442 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applying tag-banking tag-crypto tag-decentralization tag-physical 
     <div class="post-inner">

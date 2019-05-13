@@ -1,5 +1,5 @@
 ---
-Canada on the way to legalizing marijuana
+Canada on the way to legalizing marijuana"
 ---
 <article class="post-listing post-14737 post type-post status-publish format-standard has-post-thumbnail hentry  tag-canada tag-legalizing tag-marijuana">
     <div class="post-inner">

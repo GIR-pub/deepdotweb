@@ -1,5 +1,5 @@
 ---
-Law Enforcement Busted Two Slovenian Darknet Vendors for Selling Firearms and Grenades
+Law Enforcement Busted Two Slovenian Darknet Vendors for Selling Firearms and Grenades"
 ---
 <article class="post-listing post-17225 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-darknet tag-enforcement tag-firearms tag-grenades tag-law tag-selling tag-slovenian tag-vendors">
     <div class="post-inner">

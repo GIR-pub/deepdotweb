@@ -1,5 +1,5 @@
 ---
-New DEA Report Covers Bitcoin Money Laundering and Darknet Drug Trade
+New DEA Report Covers Bitcoin Money Laundering and Darknet Drug Trade"
 ---
 <article class="post-listing post-23437 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-covers tag-darknet tag-dea tag-laundering tag-money tag-report tag-trade">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Silk Road Admin Ross Ulbricht (DPR) Sentenced to Life in Prison
+Silk Road Admin Ross Ulbricht (DPR) Sentenced to Life in Prison"
 ---
 <article class="post-listing post-10486 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-life tag-prison  tag-sentenced tag-ulbricht">
     <div class="post-inner">

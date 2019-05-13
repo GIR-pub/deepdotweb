@@ -1,5 +1,5 @@
 ---
-Research: Weapons trafficking and terrorist activities taking place on the dark web
+Research: Weapons trafficking and terrorist activities taking place on the dark web"
 ---
 <article class="post-listing post-28304 post type-post status-publish format-standard has-post-thumbnail hentry  tag-activities tag-dark tag-place tag-research tag-terrorist tag-trafficking tag-weapons tag-web">
     <div class="post-inner">

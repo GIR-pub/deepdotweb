@@ -1,5 +1,5 @@
 ---
-Market Announcement: Kiss
+Market Announcement: Kiss"
 ---
 <article class="post-listing post-9049 post type-post status-publish format-standard hentry category-news tag-announcement tag-market">
 <div class="post-inner">

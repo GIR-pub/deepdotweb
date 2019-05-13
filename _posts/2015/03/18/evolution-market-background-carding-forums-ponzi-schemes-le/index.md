@@ -1,5 +1,5 @@
 ---
-Evolution Market Background: Carding Forums, Ponzi Schemes &#038; LE
+Evolution Market Background: Carding Forums, Ponzi Schemes &#038; Le"
 ---
 <article class="post-listing post-9540 post type-post status-publish format-standard has-post-thumbnail hentry tag-evoscam">
 <div class="post-inner">

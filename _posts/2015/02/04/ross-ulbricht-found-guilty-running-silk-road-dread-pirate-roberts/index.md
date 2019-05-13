@@ -1,5 +1,5 @@
 ---
-Ross Ulbricht: Found Guilty of Running Silk Road as Dread Pirate Roberts
+Ross Ulbricht: Found Guilty of Running Silk Road as Dread Pirate Roberts"
 ---
 <article class="post-listing post-8968 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dread tag-guilty tag-pirate tag-roberts  tag-running tag-ulbricht">
 <div class="post-inner">

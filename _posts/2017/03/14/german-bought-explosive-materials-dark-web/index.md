@@ -1,5 +1,5 @@
 ---
-German Bought Explosive Materials From Dark Web
+German Bought Explosive Materials From Dark Web"
 ---
 <article class="post-listing post-18614 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bought tag-dark tag-explosive tag-german tag-materials tag-web">

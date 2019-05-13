@@ -1,5 +1,5 @@
 ---
-Federal Judge Rules That Bitcoin Is Legal Money In Court Case
+Federal Judge Rules That Bitcoin Is Legal Money In Court Case"
 ---
 <article class="post-listing post-15567 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-case tag-court tag-federal tag-judge tag-legal tag-money tag-rules">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Vendors in Germany Dealt with Carfentanil and a Biological Weapon
+Vendors in Germany Dealt with Carfentanil and a Biological Weapon"
 ---
 <article class="post-listing post-22601 post type-post status-publish format-standard has-post-thumbnail hentry  tag-biological tag-carfentanil tag-dealt tag-germany tag-vendors tag-weapon">
     

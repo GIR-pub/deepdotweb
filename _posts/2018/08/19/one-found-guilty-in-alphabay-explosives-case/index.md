@@ -1,5 +1,5 @@
 ---
-One Found Guilty in Alphabay Explosives Case
+One Found Guilty in Alphabay Explosives Case"
 ---
 <article class="post-listing post-26588 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-alphabay tag-case tag-explosives tag-guilty">

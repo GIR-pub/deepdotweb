@@ -1,5 +1,5 @@
 ---
-Introducing: Jolly Roger&#8217;s Security Guide for Beginners
+Introducing: Jolly Roger&#8217;s Security Guide for Beginners"
 ---
 <article class="post-listing post-4136 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

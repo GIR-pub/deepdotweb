@@ -1,8 +1,8 @@
 ---
-A WORLD OF POSSIBILITIES
+A WORLD OF POSSIBILITIEs"
 ---
 ---
-Setting Up Your Own VPN
+Setting Up Your Own VPn"
 ---
 <article class="post-listing post-20732 post type-post status-publish format-standard has-post-thumbnail hentry  tag-setting tag-vpn">
     <div class="post-inner">

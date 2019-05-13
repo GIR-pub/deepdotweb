@@ -1,5 +1,5 @@
 ---
-The Pirate Market: The Interview That Added A Multi-Sig Market!
+The Pirate Market: The Interview That Added A Multi-Sig Market!"
 ---
 <article class="post-listing post-5228 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-interview tag-pirate">
     

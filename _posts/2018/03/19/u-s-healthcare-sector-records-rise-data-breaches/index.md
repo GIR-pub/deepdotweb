@@ -1,5 +1,5 @@
 ---
-U.S. Healthcare Sector Records Rise in Data Breaches
+U.S. Healthcare Sector Records Rise in Data Breaches"
 ---
 <article class="post-listing post-25095 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-breaches tag-data care tag-records tag-rise tag-sector">

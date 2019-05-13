@@ -1,5 +1,5 @@
 ---
-Swedish Chemical Weapon Vendor Is Soon To Be Sentenced After Psych Evaluation
+Swedish Chemical Weapon Vendor Is Soon To Be Sentenced After Psych Evaluation"
 ---
 <article class="post-listing post-16082 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chemical tag-evaluation tag-psych tag-sentenced tag-swedish tag-vendor tag-weapon">
     <div class="post-inner">

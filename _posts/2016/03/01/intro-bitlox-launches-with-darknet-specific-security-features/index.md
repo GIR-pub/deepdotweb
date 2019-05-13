@@ -1,5 +1,5 @@
 ---
-Intro: BitLox™ launches with Darknet-specific security features
+Intro: BitLox™ launches with Darknet-specific security features"
 ---
 <article class="post-listing post-13355 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitlox tag-darknetspecific tag-features tag-intro tag-launches tag-security">
     <div class="post-inner">

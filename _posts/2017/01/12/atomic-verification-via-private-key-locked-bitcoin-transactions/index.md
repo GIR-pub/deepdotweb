@@ -1,5 +1,5 @@
 ---
-Atomic Verification Via Private Key Locked Bitcoin Transactions
+Atomic Verification Via Private Key Locked Bitcoin Transactions"
 ---
 <article class="post-listing post-17451 post type-post status-publish format-standard has-post-thumbnail hentry  tag-atomic tag-bitcoin tag-key tag-locked tag-private tag-transactions tag-verification">
     <div class="post-inner">

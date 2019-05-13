@@ -1,5 +1,5 @@
 ---
-Liquid Sidechains and the Price of Bitcoin
+Liquid Sidechains and the Price of Bitcoin"
 ---
 <article class="post-listing post-11818 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-liquid tag-price tag-sidechains">
 <div class="post-inner">

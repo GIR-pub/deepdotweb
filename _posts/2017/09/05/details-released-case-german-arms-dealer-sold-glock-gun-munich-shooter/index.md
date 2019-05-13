@@ -1,5 +1,5 @@
 ---
-Details Released In The Case Of The German Arms Dealer Who Sold A Glock Gun To The Münich Shooter
+Details Released In The Case Of The German Arms Dealer Who Sold A Glock Gun To The Münich Shooter"
 ---
 <article class="post-listing post-22377 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-arms tag-case tag-details tag-german tag-glock tag-gun tag-munich tag-released tag-shooter ">

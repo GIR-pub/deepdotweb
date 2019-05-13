@@ -1,5 +1,5 @@
 ---
-Citizens Turn To Bitcoin in the Wake of Global Demonetization
+Citizens Turn To Bitcoin in the Wake of Global Demonetization"
 ---
 <article class="post-listing post-17223 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-citizens tag-demonetization tag-global tag-kptx tag-turn tag-wake">
     <div class="post-inner">

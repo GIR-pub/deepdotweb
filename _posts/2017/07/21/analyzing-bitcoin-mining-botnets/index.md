@@ -1,5 +1,5 @@
 ---
-Analyzing Bitcoin Mining Botnets (Minerbots) &#8211; How Can We Shield Our Systems Against Minerbots?
+Analyzing Bitcoin Mining Botnets (Minerbots) &#8211; How Can We Shield Our Systems Against Minerbots?"
 ---
 <article class="post-listing post-21476 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analyzing tag-bitcoin tag-botnets tag-minerbots tag-mining tag-shield tag-systems">
     <div class="post-inner">

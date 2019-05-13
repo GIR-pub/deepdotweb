@@ -1,5 +1,5 @@
 ---
-Bitcoin can Kill the State&#8217;s War Machine
+Bitcoin can Kill the State&#8217;s War Machine"
 ---
 <article class="post-listing post-6303 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-kill tag-machine tag-states tag-war">
     <div class="post-inner">

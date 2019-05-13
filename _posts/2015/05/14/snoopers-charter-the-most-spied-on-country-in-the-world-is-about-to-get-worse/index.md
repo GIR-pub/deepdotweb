@@ -1,5 +1,5 @@
 ---
-Snoopers&#8217; Charter: the Most Spied on Country in the World Is About to Get Worse
+Snoopers&#8217; Charter: the Most Spied on Country in the World Is About to Get Worse"
 ---
 <article class="post-listing post-10293 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charter tag-country tag-snoopers tag-spied  tag-worse">
     <div class="post-inner">

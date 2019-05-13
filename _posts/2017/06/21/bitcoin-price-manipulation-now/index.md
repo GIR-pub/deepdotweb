@@ -1,5 +1,5 @@
 ---
-Bitcoin Price Manipulation &#8211; Now and Then!
+Bitcoin Price Manipulation &#8211; Now and Then!"
 ---
 <article class="post-listing post-20775 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-manipulation tag-price">
     <div class="post-inner">

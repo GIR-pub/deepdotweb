@@ -1,5 +1,5 @@
 ---
-Bitcoin Price Analysis 5 Aug
+Bitcoin Price Analysis 5 Aug"
 ---
 <article class="post-listing post-11179 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analysis tag-aug tag-bitcoin tag-price">
 <div class="post-inner">

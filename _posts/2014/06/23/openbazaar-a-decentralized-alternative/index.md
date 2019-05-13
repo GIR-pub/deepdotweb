@@ -1,5 +1,5 @@
 ---
-OpenBazaar: A Decentralized Alternative
+OpenBazaar: A Decentralized Alternative"
 ---
 <article class="post-listing post-6151 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-decentralized tag-openbazaar">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-How to make money online on Bitshares&#8217; decentralized exchange network
+How to make money online on Bitshares&#8217; decentralized exchange network"
 ---
 <article class="post-listing post-20359 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitshares tag-decentralized tag-exchange tag-money tag-network tag-online">
     

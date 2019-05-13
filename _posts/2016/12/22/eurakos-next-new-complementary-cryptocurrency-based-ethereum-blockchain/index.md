@@ -1,5 +1,5 @@
 ---
-Eurakos Next: A New Complementary Cryptocurrency Based On the Ethereum Blockchain
+Eurakos Next: A New Complementary Cryptocurrency Based On the Ethereum Blockchain"
 ---
 <article class="post-listing post-17086 post type-post status-publish format-standard has-post-thumbnail hentry  tag-based tag-blockchain tag-complementary tag-cryptocurrency tag-ethereum tag-eurakos">
     <div class="post-inner">

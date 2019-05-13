@@ -1,5 +1,5 @@
 ---
-What the Internet as a Public Utility Would Mean for Alternative Networks
+What the Internet as a Public Utility Would Mean for Alternative Networks"
 ---
 <article class="post-listing post-8198 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-internet tag-networks tag-public tag-utility">
     <div class="post-inner">

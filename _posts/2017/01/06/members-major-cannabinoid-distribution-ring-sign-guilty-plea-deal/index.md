@@ -1,5 +1,5 @@
 ---
-Members of Major Cannabinoid Distribution Ring Sign Guilty Plea Deal
+Members of Major Cannabinoid Distribution Ring Sign Guilty Plea Deal"
 ---
 <article class="post-listing post-17351 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cannabinoid tag-deal tag-distribution tag-guilty tag-major tag-members tag-plea tag-ring tag-sign">
     <div class="post-inner">

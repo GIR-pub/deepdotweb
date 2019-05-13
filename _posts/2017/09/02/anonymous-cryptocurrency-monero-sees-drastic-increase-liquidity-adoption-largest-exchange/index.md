@@ -1,5 +1,5 @@
 ---
-Anonymous Cryptocurrency Monero Sees Drastic Increase in Liquidity, Adoption by Largest Exchange
+Anonymous Cryptocurrency Monero Sees Drastic Increase in Liquidity, Adoption by Largest Exchange"
 ---
 <article class="post-listing post-22314 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-adoption tag-anonymous tag-cryptocurrency tag-drastic tag-exchange tag-increase tag-largest tag-liquidity tag-monero tag-sees">

@@ -1,5 +1,5 @@
 ---
-Third Suspect Arrested in Connection with NSW Drug Syndicate
+Third Suspect Arrested in Connection with NSW Drug Syndicate"
 ---
 <article class="post-listing post-26521 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-connection tag-nsw tag-suspect tag-syndicate">

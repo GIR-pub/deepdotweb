@@ -1,5 +1,5 @@
 ---
-Cuba’s Digital Black Markets
+Cuba’s Digital Black Markets"
 ---
 <article class="post-listing post-22648 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-cubas tag-digital tag-markets">

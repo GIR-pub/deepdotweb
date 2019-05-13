@@ -1,5 +1,5 @@
 ---
-ISIS Supporter: The Islamic State Does NOT Use Bitcoin
+ISIS Supporter: The Islamic State Does NOT Use Bitcoin"
 ---
 <article class="post-listing post-7166 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-islamic tag-state tag-story tag-truth">
     <div class="post-inner">

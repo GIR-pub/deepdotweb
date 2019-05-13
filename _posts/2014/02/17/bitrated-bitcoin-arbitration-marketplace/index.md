@@ -1,5 +1,5 @@
 ---
-Introducing Bitrated: Bitcoin Arbitration Marketplace
+Introducing Bitrated: Bitcoin Arbitration Marketplace"
 ---
 <article class="post-listing post-4254 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arbitration tag-bitcoin tag-bitrated tag-introducing tag-marketplace">
     <div class="post-inner">

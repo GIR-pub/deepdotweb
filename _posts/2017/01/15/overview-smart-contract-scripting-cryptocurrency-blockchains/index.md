@@ -1,5 +1,5 @@
 ---
-An Overview Of Smart Contract Scripting For Cryptocurrency Blockchains
+An Overview Of Smart Contract Scripting For Cryptocurrency Blockchains"
 ---
 <article class="post-listing post-17534 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchains tag-contract tag-cryptocurrency tag-overview tag-scripting tag-smart">
     <div class="post-inner">

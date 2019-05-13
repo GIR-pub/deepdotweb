@@ -1,5 +1,5 @@
 ---
-German Man Busted for Amphetamine Orders
+German Man Busted for Amphetamine Orders"
 ---
 <article class="post-listing post-25599 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-amphetamine tag-busted tag-german tag-man tag-orders">

@@ -1,5 +1,5 @@
 ---
-Firefox 52 Adds a Tor-Like Font Whitelist to Prevent Fingerprinting through OS Fonts
+Firefox 52 Adds a Tor-Like Font Whitelist to Prevent Fingerprinting through OS Fonts"
 ---
 <article class="post-listing post-17489 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4830 tag-adds tag-fingerprinting tag-firefox tag-font tag-fonts tag-os tag-prevent like tag-whitelist">
     <div class="post-inner">

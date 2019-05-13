@@ -1,5 +1,5 @@
 ---
-DNM Vendor Dr Ropata Using Actor’s Image For Marketing Purposes
+DNM Vendor Dr Ropata Using Actor’s Image For Marketing Purposes"
 ---
 <article class="post-listing post-11773 post type-post status-publish format-standard hentry category-news tag-actors tag-dnm tag-dr tag-image tag-marketing tag-purposes tag-ropata tag-vendor">
 <div class="post-inner">

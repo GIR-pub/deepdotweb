@@ -1,5 +1,5 @@
 ---
-Pandora Market BTC Prices Hacked or Broken
+Pandora Market BTC Prices Hacked or Broken"
 ---
 <article class="post-listing post-3913 post type-post status-publish format-standard has-post-thumbnail hentry  tag-broken tag-hacked tag-pandora tag-prices">
     <div class="post-inner">

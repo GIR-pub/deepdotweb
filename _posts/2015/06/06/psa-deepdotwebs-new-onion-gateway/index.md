@@ -1,5 +1,5 @@
 ---
-PSA: DeepDotWeb&#8217;s New Onion Gateway!
+PSA: DeepDotWeb&#8217;s New Onion Gateway!"
 ---
 <article class="post-listing post-10603 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-deepdotweb tag-onion tag-psa">
     <div class="post-inner">

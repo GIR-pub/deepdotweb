@@ -1,5 +1,5 @@
 ---
-Ross Ulbricht indicted for Silk Road narcotics trafficking &#038; Hacking
+Ross Ulbricht indicted for Silk Road narcotics trafficking &#038; Hacking"
 ---
 <article class="post-listing post-3853 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacking tag-indicted tag-narcotics  tag-trafficking tag-ulbricht">
     <div class="post-inner">

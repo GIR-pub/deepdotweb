@@ -1,5 +1,5 @@
 ---
-The Ghost Telephonist Allows Hackers to Make Calls and Texts from Your Phone Number
+The Ghost Telephonist Allows Hackers to Make Calls and Texts from Your Phone Number"
 ---
 <article class="post-listing post-22027 post type-post status-publish format-standard has-post-thumbnail hentry  tag-calls tag-ghost tag-hackers tag-number tag-phone tag-telephonist tag-texts">
     <div class="post-inner">

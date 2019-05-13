@@ -1,5 +1,5 @@
 ---
-Defense Forces Employee Caught Selling Explosives Online
+Defense Forces Employee Caught Selling Explosives Online"
 ---
 <article class="post-listing post-20948 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

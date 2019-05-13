@@ -1,5 +1,5 @@
 ---
-Introduction to Zcash, the anonymous Bitcoin
+Introduction to Zcash, the anonymous Bitcoin"
 ---
 <article class="post-listing post-15564 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-bitcoin tag-introduction tag-zcash">
     <div class="post-inner">

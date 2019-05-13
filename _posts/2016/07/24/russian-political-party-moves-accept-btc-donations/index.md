@@ -1,5 +1,5 @@
 ---
-Russian Political Party Moves to Accept BTC Donations
+Russian Political Party Moves to Accept BTC Donations"
 ---
 <article class="post-listing post-14897 post type-post status-publish format-standard hentry category-news tag-accept tag-donations tag-moves tag-party tag-political tag-russian">
     <div class="post-inner">

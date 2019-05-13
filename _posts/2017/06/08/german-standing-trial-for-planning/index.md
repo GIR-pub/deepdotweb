@@ -1,5 +1,5 @@
 ---
-German Standing Trial For Planning To Run A Child Prostitution Ring In Thailand
+German Standing Trial For Planning To Run A Child Prostitution Ring In Thailand"
 ---
 <article class="post-listing post-20465 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

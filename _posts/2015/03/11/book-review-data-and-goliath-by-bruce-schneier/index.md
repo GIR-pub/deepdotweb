@@ -1,5 +1,5 @@
 ---
-Book Review: Data And Goliath By Bruce Schneier
+Book Review: Data And Goliath By Bruce Schneier"
 ---
 <article class="post-listing post-9373 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bruce tag-data tag-goliath tag-schneier">
 <div class="post-inner">

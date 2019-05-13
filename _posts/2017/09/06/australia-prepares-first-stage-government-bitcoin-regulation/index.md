@@ -1,5 +1,5 @@
 ---
-Australia Prepares for the First Stage of Government Bitcoin Regulation
+Australia Prepares for the First Stage of Government Bitcoin Regulation"
 ---
 <article class="post-listing post-22398 post type-post status-publish format-standard has-post-thumbnail hentry  tag-australia tag-bitcoin tag-government tag-prepares tag-regulation tag-stage">
     <div class="post-inner">

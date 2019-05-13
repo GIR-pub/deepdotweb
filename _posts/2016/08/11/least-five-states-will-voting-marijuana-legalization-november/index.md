@@ -1,5 +1,5 @@
 ---
-At Least Five States Will be Voting on Marijuana Legalization in November
+At Least Five States Will be Voting on Marijuana Legalization in November"
 ---
 <article class="post-listing post-15073 post type-post status-publish format-standard has-post-thumbnail hentry  tag-legalization tag-marijuana tag-november tag-states tag-voting">
     <div class="post-inner">

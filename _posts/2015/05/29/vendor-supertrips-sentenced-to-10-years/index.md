@@ -1,5 +1,5 @@
 ---
-Vendor &#8216;SuperTrips,&#8217; Sentenced To 10 Years
+Vendor &#8216;SuperTrips,&#8217; Sentenced To 10 Years"
 ---
 <article class="post-listing post-10479 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-sentenced tag-supertrips tag-vendor tag-years">
     <div class="post-inner">

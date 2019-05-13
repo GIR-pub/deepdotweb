@@ -1,5 +1,5 @@
 ---
-Using Bitcoin Transaction Analysis In Deanonymizing Users of Tor Hidden Services
+Using Bitcoin Transaction Analysis In Deanonymizing Users of Tor Hidden Services"
 ---
 <article class="post-listing post-24239 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-analysis tag-bitcoin tag-deanonymizing tag-services  tag-transaction tag-users">

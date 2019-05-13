@@ -1,5 +1,5 @@
 ---
-NCR Announces Bitcoin Integration into Small Business POS Software
+NCR Announces Bitcoin Integration into Small Business POS Software"
 ---
 <article class="post-listing post-8149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announces tag-bitcoin tag-business tag-integration tag-ncr tag-pos tag-small tag-software">
     <div class="post-inner">

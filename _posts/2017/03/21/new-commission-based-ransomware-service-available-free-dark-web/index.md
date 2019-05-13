@@ -1,5 +1,5 @@
 ---
-New Commission-based Ransomware As A Service Available Free On Dark Web
+New Commission-based Ransomware As A Service Available Free On Dark Web"
 ---
 <article class="post-listing post-18728 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-commissionbased tag-dark tag-free tag-ransomware tag-web">

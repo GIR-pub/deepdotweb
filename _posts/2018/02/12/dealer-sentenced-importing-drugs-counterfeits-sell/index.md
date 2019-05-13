@@ -1,5 +1,5 @@
 ---
-Dealer Sentenced for Importing Drugs and Counterfeits to Sell
+Dealer Sentenced for Importing Drugs and Counterfeits to Sell"
 ---
 <article class="post-listing post-24783 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-counterfeits tag-importing tag-sell tag-sentenced">

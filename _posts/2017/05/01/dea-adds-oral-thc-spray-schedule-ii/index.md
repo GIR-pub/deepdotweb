@@ -1,5 +1,5 @@
 ---
-DEA Adds an Oral THC Spray to Schedule II
+DEA Adds an Oral THC Spray to Schedule Ii"
 ---
 <article class="post-listing post-19531 post type-post status-publish format-standard has-post-thumbnail hentry  tag-adds tag-dea tag-ii tag-oral tag-schedule tag-spray tag-thc">
     <div class="post-inner">

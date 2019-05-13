@@ -1,5 +1,5 @@
 ---
-Google is Preparing Chrome for future wave of quantum attacks
+Google is Preparing Chrome for future wave of quantum attacks"
 ---
 <article class="post-listing post-14785 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-chrome tag-future tag-google tag-preparing tag-quantum tag-wave">
     

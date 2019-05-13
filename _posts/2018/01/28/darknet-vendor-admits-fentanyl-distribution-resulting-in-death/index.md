@@ -1,5 +1,5 @@
 ---
-Darknet Vendor Admits Fentanyl Distribution Resulting in Death
+Darknet Vendor Admits Fentanyl Distribution Resulting in Death"
 ---
 <article class="post-listing post-24587 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-admits tag-darknet tag-death tag-distribution tag-fentanyl tag-resulting tag-vendor">

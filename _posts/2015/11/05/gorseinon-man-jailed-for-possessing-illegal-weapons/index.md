@@ -1,5 +1,5 @@
 ---
-Gorseinon Man Jailed For Possessing Illegal Weapons
+Gorseinon Man Jailed For Possessing Illegal Weapons"
 ---
 <article class="post-listing post-12039 post type-post status-publish format-standard hentry category-news tag-gorseinon tag-illegal tag-jailed tag-man tag-possessing tag-weapons">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-An Overview of Sniper Attacks Against the Tor Network &#038; Current Defenses
+An Overview of Sniper Attacks Against the Tor Network &#038; Current Defenses"
 ---
 <article class="post-listing post-23991 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-current tag-defenses tag-network tag-overview tag-sniper 
     <div class="post-inner">

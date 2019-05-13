@@ -1,5 +1,5 @@
 ---
-The Alternate DPR defense May Still Succeed
+The Alternate DPR defense May Still Succeed"
 ---
 <article class="post-listing post-8915 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternate tag-defense trial tag-succeed">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Trans-Pacific Partnership Signed
+Trans-Pacific Partnership Signed"
 ---
 <article class="post-listing post-13172 post type-post status-publish format-standard has-post-thumbnail hentry  tag-partnership tag-signed tag-transpacific">
     <div class="post-inner">

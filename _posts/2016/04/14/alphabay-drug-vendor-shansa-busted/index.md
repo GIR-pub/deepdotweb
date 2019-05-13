@@ -1,5 +1,5 @@
 ---
-Alphabay Drug Vendor Shansa Arrested
+Alphabay Drug Vendor Shansa Arrested"
 ---
 <article class="post-listing post-13719 post type-post status-publish format-standard hentry category-news tag-alphabay tag-busted tag-shansa tag-vendor">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Interpol Teams up with cyber security firm to combat cyber threats
+Interpol Teams up with cyber security firm to combat cyber threats"
 ---
 <article class="post-listing post-22132 post type-post status-publish format-standard has-post-thumbnail hentry  tag-combat tag-cyber tag-firm tag-interpol tag-security tag-teams tag-threats">
     

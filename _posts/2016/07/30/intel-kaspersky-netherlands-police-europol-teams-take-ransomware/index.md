@@ -1,5 +1,5 @@
 ---
-Intel, Kaspersky, Netherlands Police and Europol Teams Up To Take Down Ransomware
+Intel, Kaspersky, Netherlands Police and Europol Teams Up To Take Down Ransomware"
 ---
 <article class="post-listing post-14958 post type-post status-publish format-standard hentry category-news tag-europol tag-intel tag-kaspersky tag-netherlands tag-police tag-ransomware tag-teams">
     <div class="post-inner">

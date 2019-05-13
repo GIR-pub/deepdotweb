@@ -1,5 +1,5 @@
 ---
-Pennsylvania State Prosecutor Pays $1,400 in Bitcoin as Ransom
+Pennsylvania State Prosecutor Pays $1,400 in Bitcoin as Ransom"
 ---
 <article class="post-listing post-16955 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3867 tag-bitcoin tag-pays tag-pennsylvania tag-prosecutor tag-ransom tag-state">
     <div class="post-inner">

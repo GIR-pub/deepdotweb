@@ -1,5 +1,5 @@
 ---
-British Festival Dealer Who Sold Drugs To Pay For Medical Treatment Jailed
+British Festival Dealer Who Sold Drugs To Pay For Medical Treatment Jailed"
 ---
 <article class="post-listing post-19724 post type-post status-publish format-standard has-post-thumbnail hentry  tag-british tag-festival tag-jailed tag-medical tag-pay  tag-treatment">
     <div class="post-inner">

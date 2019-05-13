@@ -1,5 +1,5 @@
 ---
-Signal for Android Updated to Bypass Censorship in Cuba and Oman
+Signal for Android Updated to Bypass Censorship in Cuba and Oman"
 ---
 <article class="post-listing post-17490 post type-post status-publish format-standard has-post-thumbnail hentry  tag-android tag-bypass tag-censorship tag-cuba tag-oman tag-signal tag-updated">
     <div class="post-inner">

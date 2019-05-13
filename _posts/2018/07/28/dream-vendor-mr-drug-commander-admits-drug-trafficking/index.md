@@ -1,5 +1,5 @@
 ---
-Dream Vendor ‘Mr Drug Commander’ Admits Drug Trafficking
+Dream Vendor ‘Mr Drug Commander’ Admits Drug Trafficking"
 ---
 <article class="post-listing post-26425 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-admits tag-commander tag-dream tag-trafficking tag-vendor">

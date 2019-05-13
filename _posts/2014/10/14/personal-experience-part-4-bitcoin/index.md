@@ -1,5 +1,5 @@
 ---
-Personal Experience: Part 4 – Bitcoin
+Personal Experience: Part 4 – Bitcoin"
 ---
 <article class="post-listing post-6835 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-personal tag-pgp">
     <div class="post-inner">

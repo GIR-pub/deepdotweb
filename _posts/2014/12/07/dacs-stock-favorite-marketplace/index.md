@@ -1,5 +1,5 @@
 ---
-DACs: Own Stock In Your Favorite Marketplace
+DACs: Own Stock In Your Favorite Marketplace"
 ---
 <article class="post-listing post-7083 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dacs tag-favorite tag-stock">
     <div class="post-inner">

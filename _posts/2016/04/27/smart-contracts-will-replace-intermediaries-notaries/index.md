@@ -1,5 +1,5 @@
 ---
-Smart contracts will replace intermediaries and notaries
+Smart contracts will replace intermediaries and notaries"
 ---
 <article class="post-listing post-13884 post type-post status-publish format-standard hentry category-news tag-contracts tag-intermediaries tag-notaries tag-replace tag-smart">
     <div class="post-inner">

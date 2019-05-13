@@ -1,5 +1,5 @@
 ---
-MXE: The Wonder Drug
+MXE: The Wonder Drug"
 ---
 <article class="post-listing post-10958 post type-post status-publish format-standard has-post-thumbnail hentry  tag-mxe">
     <div class="post-inner">

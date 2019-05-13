@@ -5,7 +5,7 @@ Financial:
 World affairs:
 ---
 ---
-New developments
+New developments"
 ---
 ---
 Bitcoin news roundup April 2, 2017

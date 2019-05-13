@@ -1,5 +1,5 @@
 ---
-Federal Authorities in California are Aggressively Targeting Alphabay and Silk Road Vendors
+Federal Authorities in California are Aggressively Targeting Alphabay and Silk Road Vendors"
 ---
 <article class="post-listing post-22828 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-aggressively tag-alphabay tag-authorities tag-california tag-federal tag-targeting tag-vendors">

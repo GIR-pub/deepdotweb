@@ -1,5 +1,5 @@
 ---
-US Attorney&#8217;s Office in Colorado Preparing to Prosecute Darknet and Bitcoin Crimes
+US Attorney&#8217;s Office in Colorado Preparing to Prosecute Darknet and Bitcoin Crimes"
 ---
 <article class="post-listing post-18242 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attorneys tag-bitcoin tag-colorado tag-crimes tag-darknet tag-office tag-preparing tag-prosecute">
     <div class="post-inner">

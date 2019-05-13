@@ -1,5 +1,5 @@
 ---
-Texan Charged with Attempted Murder for Planning to Rape and Eat a Child
+Texan Charged with Attempted Murder for Planning to Rape and Eat a Child"
 ---
 <article class="post-listing post-27217 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-attempted tag-charged tag-child tag-eat tag-murder tag-planning tag-rape tag-texan">

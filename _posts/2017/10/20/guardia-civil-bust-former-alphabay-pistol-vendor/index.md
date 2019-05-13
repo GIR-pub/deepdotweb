@@ -1,5 +1,5 @@
 ---
-Guardia Civil Bust Former Alphabay Pistol Vendor
+Guardia Civil Bust Former Alphabay Pistol Vendor"
 ---
 <article class="post-listing post-23167 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-alphabay tag-bust tag-civil tag-guardia tag-pistol tag-vendor">

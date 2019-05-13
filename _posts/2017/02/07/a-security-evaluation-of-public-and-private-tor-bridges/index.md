@@ -1,5 +1,5 @@
 ---
-A Security Evaluation of Public and Private Tor Bridges
+A Security Evaluation of Public and Private Tor Bridges"
 ---
 <article class="post-listing post-18014 post type-post status-publish format-standard has-post-thumbnail hentry
     <div class="post-inner">

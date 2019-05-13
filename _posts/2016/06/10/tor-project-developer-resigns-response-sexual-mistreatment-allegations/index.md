@@ -1,5 +1,5 @@
 ---
-Tor Project Developer Resigns In Response To Sexual Mistreatment Allegations
+Tor Project Developer Resigns In Response To Sexual Mistreatment Allegations"
 ---
 <article class="post-listing post-14467 post type-post status-publish format-standard has-post-thumbnail hentry  tag-allegations tag-developer tag-mistreatment tag-project tag-resigns tag-response tag-sexual 
     <div class="post-inner">

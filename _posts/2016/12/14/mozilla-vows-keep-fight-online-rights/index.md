@@ -1,5 +1,5 @@
 ---
-Mozilla Vows to Keep up the Fight for Online Rights
+Mozilla Vows to Keep up the Fight for Online Rights"
 ---
 <article class="post-listing post-16924 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fight tag-mozilla tag-rights tag-vows">
     <div class="post-inner">

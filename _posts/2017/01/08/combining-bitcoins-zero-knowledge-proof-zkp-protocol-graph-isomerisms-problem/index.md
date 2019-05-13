@@ -1,5 +1,5 @@
 ---
-Combining Bitcoin&#8217;s Zero Knowledge Proof ZKP Protocol With Graph Isomerism&#8217;s Problem
+Combining Bitcoin&#8217;s Zero Knowledge Proof ZKP Protocol With Graph Isomerism&#8217;s Problem"
 ---
 <article class="post-listing post-17396 post type-post status-publish format-standard has-post-thumbnail hentry  tag-combining tag-graph tag-isomerisms tag-knowledge tag-problem tag-proof tag-protocol tag-zkp">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-The GAO Tried to Illegally Buy 79 Guns Online and Failed
+The GAO Tried to Illegally Buy 79 Guns Online and Failed"
 ---
 <article class="post-listing post-24492 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-6259 tag-buy tag-failed tag-gao tag-guns tag-illegally tag-online">

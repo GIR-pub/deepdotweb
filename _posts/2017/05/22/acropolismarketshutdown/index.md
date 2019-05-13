@@ -1,5 +1,5 @@
 ---
-Acropolis Market Bites the Dust Without an Exit Scam
+Acropolis Market Bites the Dust Without an Exit Scam"
 ---
 <article class="post-listing post-20040 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

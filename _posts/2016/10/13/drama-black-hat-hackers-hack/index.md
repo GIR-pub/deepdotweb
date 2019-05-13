@@ -1,5 +1,5 @@
 ---
-Drama: Black Hat Hackers Hack Each Other
+Drama: Black Hat Hackers Hack Each Other"
 ---
 <article class="post-listing post-15774 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drama tag-hack tag-hackers tag-hat">
     <div class="post-inner">

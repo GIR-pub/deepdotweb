@@ -1,5 +1,5 @@
 ---
-ALERT: Detected Tablets Sold as Ecstasy With High Dose of PMMA
+ALERT: Detected Tablets Sold as Ecstasy With High Dose of PMMa"
 ---
 <article class="post-listing post-8944 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alert tag-detected tag-dose tag-ecstasy tag-high tag-pmma  tag-tablets">
     <div class="post-inner">

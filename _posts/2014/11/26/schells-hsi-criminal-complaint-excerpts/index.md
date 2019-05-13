@@ -1,5 +1,5 @@
 ---
-Schell&#8217;s HSI Criminal Complaint Excerpts
+Schell&#8217;s HSI Criminal Complaint Excerpts"
 ---
 <article class="post-listing post-8449 post type-post status-publish format-standard has-post-thumbnail hentry  tag-complaint tag-hsi">
     <div class="post-inner">

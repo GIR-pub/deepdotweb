@@ -1,5 +1,5 @@
 ---
-Belgian Government Waits To Sell Confiscated Bitcoins For A Better Price
+Belgian Government Waits To Sell Confiscated Bitcoins For A Better Price"
 ---
 <article class="post-listing post-19582 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belgian tag-confiscated tag-government tag-price tag-sell tag-waits">
     <div class="post-inner">

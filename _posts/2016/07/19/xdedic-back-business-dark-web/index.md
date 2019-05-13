@@ -1,5 +1,5 @@
 ---
-xDedic is Back in Business on the Dark Web
+xDedic is Back in Business on the Dark Web"
 ---
 <article class="post-listing post-14833 post type-post status-publish format-standard has-post-thumbnail hentry  tag-business tag-dark tag-web tag-xdedic">
     <div class="post-inner">

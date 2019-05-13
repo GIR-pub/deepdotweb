@@ -1,5 +1,5 @@
 ---
-RT: TOR is NOT PRISM Proof
+RT: TOR is NOT PRISM Proof"
 ---
 <article class="post-listing post-5655 post type-post status-publish format-standard has-post-thumbnail hentry  tag-prism tag-proof tag-rt 
     <div class="post-inner">

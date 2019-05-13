@@ -1,5 +1,5 @@
 ---
-DNM Vendor TripWithScience Donating Funds To Charities
+DNM Vendor TripWithScience Donating Funds To Charities"
 ---
 <article class="post-listing post-11699 post type-post status-publish format-standard hentry category-news tag-charities tag-dnm tag-donating tag-funds tag-tripwithscience tag-vendor">
 <div class="post-inner">

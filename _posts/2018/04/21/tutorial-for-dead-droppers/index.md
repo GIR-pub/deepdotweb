@@ -1,5 +1,5 @@
 ---
-Tutorial for Dead Droppers
+Tutorial for Dead Droppers"
 ---
 <article class="post-listing post-25443 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-dead tag-droppers tag-tutorial">

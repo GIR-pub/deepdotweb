@@ -1,5 +1,5 @@
 ---
-Judge Rejects Every Defense Argument In The Silk Road Trial
+Judge Rejects Every Defense Argument In The Silk Road Trial"
 ---
 <article class="post-listing post-6432 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argument tag-defense tag-judge tag-rejects tag-trial">
     <div class="post-inner">

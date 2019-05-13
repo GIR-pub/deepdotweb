@@ -1,5 +1,5 @@
 ---
-WA State Bill to Ban Bitcoin at Marijuana Shops Dies, &#038; the Companies that Bring Bitcoin to Marijuana Stores
+WA State Bill to Ban Bitcoin at Marijuana Shops Dies, &#038; the Companies that Bring Bitcoin to Marijuana Stores"
 ---
 <article class="post-listing post-19136 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ban tag-bill tag-bitcoin tag-bring tag-companies tag-dies tag-marijuana tag-shops tag-state tag-stores tag-wa">
     <div class="post-inner">

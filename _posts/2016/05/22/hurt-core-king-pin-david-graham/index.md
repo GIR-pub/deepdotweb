@@ -1,5 +1,5 @@
 ---
-More on Hurt-core King Pin David Graham
+More on Hurt-core King Pin David Graham"
 ---
 <article class="post-listing post-14196 post type-post status-publish format-standard has-post-thumbnail hentry  tag-david tag-graham tag-hurtcore tag-king tag-pin">
     <div class="post-inner">

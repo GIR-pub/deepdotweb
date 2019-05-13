@@ -1,5 +1,5 @@
 ---
-Introducing: DeepDotWeb&#8217;s Discussion Forum
+Introducing: DeepDotWeb&#8217;s Discussion Forum"
 ---
 <article class="post-listing post-7915 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deepdotwebs tag-discussion tag-forum tag-introducing">
     <div class="post-inner">

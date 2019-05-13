@@ -1,5 +1,5 @@
 ---
-Payments Firm Executive: Wire Transfer is Preferred Method For Cyber Criminals
+Payments Firm Executive: Wire Transfer is Preferred Method For Cyber Criminals"
 ---
 <article class="post-listing post-17408 post type-post status-publish format-standard has-post-thumbnail hentry  tag-criminals tag-cyber tag-executive tag-firm tag-method tag-payments tag-preferred tag-transfer tag-wire">
     <div class="post-inner">

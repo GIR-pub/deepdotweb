@@ -1,5 +1,5 @@
 ---
-New UK Code Seeks Tighter Security on Ships against Cyber Attacks
+New UK Code Seeks Tighter Security on Ships against Cyber Attacks"
 ---
 <article class="post-listing post-22827 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-attacks tag-code tag-cyber tag-security tag-seeks tag-ships tag-tighter tag-uk">

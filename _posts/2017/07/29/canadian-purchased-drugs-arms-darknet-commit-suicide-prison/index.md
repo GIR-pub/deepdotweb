@@ -1,5 +1,5 @@
 ---
-A Canadian Who Purchased Drugs and Arms from Darknet Commit Suicide in Prison
+A Canadian Who Purchased Drugs and Arms from Darknet Commit Suicide in Prison"
 ---
 <article class="post-listing post-21618 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-canadian tag-commit tag-darknet tag-prison tag-purchased tag-suicide">
     <div class="post-inner">

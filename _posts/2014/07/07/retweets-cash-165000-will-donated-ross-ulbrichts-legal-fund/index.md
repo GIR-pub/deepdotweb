@@ -1,5 +1,5 @@
 ---
-Retweets For Cash: ~165,000$ Will Be Donated To Ross Ulbricht&#8217;s Legal Fund
+Retweets For Cash: ~165,000$ Will Be Donated To Ross Ulbricht&#8217;s Legal Fund"
 ---
 <article class="post-listing post-6366 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1804 tag-cash tag-donated tag-fund tag-legal tag-retweets  tag-ulbrichts">
     <div class="post-inner">

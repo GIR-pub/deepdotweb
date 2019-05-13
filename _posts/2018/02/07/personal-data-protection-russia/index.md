@@ -1,5 +1,5 @@
 ---
-Personal Data Protection in Russia
+Personal Data Protection in Russia"
 ---
 <article class="post-listing post-24718 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-data tag-personal tag-protection tag-russia">

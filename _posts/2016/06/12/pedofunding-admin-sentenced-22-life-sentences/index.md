@@ -1,5 +1,5 @@
 ---
-&#8220;PedoFunding&#8221; Admin Sentenced to 22 Life Sentences
+&#8220;PedoFunding&#8221; Admin Sentenced to 22 Life Sentences"
 ---
 <article class="post-listing post-14474 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2700 tag-admin tag-life tag-pedofunding tag-sentenced tag-sentences">
     <div class="post-inner">

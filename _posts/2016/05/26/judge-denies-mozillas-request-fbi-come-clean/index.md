@@ -1,5 +1,5 @@
 ---
-Judge Denies Mozilla’s Request For FBI To Come Clean
+Judge Denies Mozilla’s Request For FBI To Come Clean"
 ---
 <article class="post-listing post-14232 post type-post status-publish format-standard has-post-thumbnail hentry  tag-clean tag-denies tag-judge tag-mozillas tag-request">
     <div class="post-inner">

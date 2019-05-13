@@ -1,5 +1,5 @@
 ---
-The Rise in “Ransom”-ware
+The Rise in “Ransom”-ware"
 ---
 <article class="post-listing post-14592 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ransomware tag-rise">
     <div class="post-inner">

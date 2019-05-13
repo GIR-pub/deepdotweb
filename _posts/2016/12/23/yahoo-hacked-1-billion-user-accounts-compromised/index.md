@@ -1,5 +1,5 @@
 ---
-Yahoo Was Hacked Again: 1 billion user accounts were compromised
+Yahoo Was Hacked Again: 1 billion user accounts were compromised"
 ---
 <article class="post-listing post-17104 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accounts tag-billion tag-compromised tag-hacked tag-user tag-yahoo">
     <div class="post-inner">

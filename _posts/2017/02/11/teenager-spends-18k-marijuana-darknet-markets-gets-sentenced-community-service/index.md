@@ -1,5 +1,5 @@
 ---
-Teenager Spends $18K on Marijuana from Darknet Markets, Gets Sentenced to Community Service
+Teenager Spends $18K on Marijuana from Darknet Markets, Gets Sentenced to Community Service"
 ---
 <article class="post-listing post-18078 post type-post status-publish format-standard has-post-thumbnail hentry  tag-18k tag-community tag-darknet tag-marijuana tag-sentenced tag-spends tag-teenager">
     <div class="post-inner">

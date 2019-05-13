@@ -1,5 +1,5 @@
 ---
-How Slur.io Sees the Future of Whistleblowing?
+How Slur.io Sees the Future of Whistleblowing?"
 ---
 <article class="post-listing post-9481 post type-post status-publish format-standard has-post-thumbnail hentry  tag-future tag-sees tag-slurio tag-whistleblowing">
     <div class="post-inner">

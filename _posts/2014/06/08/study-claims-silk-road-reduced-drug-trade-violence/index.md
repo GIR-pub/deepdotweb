@@ -1,5 +1,5 @@
 ---
-Study Claims: Silk Road Reduced Drug-trade Violence
+Study Claims: Silk Road Reduced Drug-trade Violence"
 ---
 <article class="post-listing post-5885 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claims tag-drugtrade tag-reduced tag-study tag-violence">
     <div class="post-inner">

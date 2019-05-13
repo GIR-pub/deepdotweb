@@ -1,5 +1,5 @@
 ---
-US Government Will Now Allow Defense Distributed to Distribute 3D Printed Firearms Software
+US Government Will Now Allow Defense Distributed to Distribute 3D Printed Firearms Software"
 ---
 <article class="post-listing post-26419 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-3d tag-defense tag-distribute tag-distributed tag-firearms tag-government tag-printed tag-software">

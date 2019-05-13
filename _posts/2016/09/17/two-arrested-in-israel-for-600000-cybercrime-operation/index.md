@@ -1,5 +1,5 @@
 ---
-Two Arrested In Israel For $600,000 Cybercrime Operation
+Two Arrested In Israel For $600,000 Cybercrime Operation"
 ---
 <article class="post-listing post-15464 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

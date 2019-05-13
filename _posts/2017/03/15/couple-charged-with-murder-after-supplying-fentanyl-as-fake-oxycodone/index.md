@@ -1,5 +1,5 @@
 ---
-Couple Charged With Murder After Supplying Fentanyl as Fake Oxycodone
+Couple Charged With Murder After Supplying Fentanyl as Fake Oxycodone"
 ---
 <article class="post-listing post-18625 post type-post status-publish format-standard has-post-thumbnail hentry 
 

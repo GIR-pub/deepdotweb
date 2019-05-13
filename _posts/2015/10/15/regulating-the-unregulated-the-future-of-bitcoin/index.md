@@ -1,5 +1,5 @@
 ---
-Regulating the Unregulated: The Future of Bitcoin?
+Regulating the Unregulated: The Future of Bitcoin?"
 ---
 <article class="post-listing post-11789 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-future tag-regulating tag-unregulated">
 <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Russia Offers 4 Million Rubles (~$100K) To De-Anonymize Tor
+Russia Offers 4 Million Rubles (~$100K) To De-Anonymize Tor"
 ---
 <article class="post-listing post-6616 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deanonymize tag-million tag-offers tag-rubles tag-russia 
     <div class="post-inner">

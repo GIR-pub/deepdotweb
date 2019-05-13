@@ -1,5 +1,5 @@
 ---
-German Arrested In Narcotics Bust In Thuringia
+German Arrested In Narcotics Bust In Thuringia"
 ---
 <article class="post-listing post-18613 post type-post status-publish format-standard has-post-thumbnail hentry 
 

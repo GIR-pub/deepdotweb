@@ -1,5 +1,5 @@
 ---
-Six Indicted in Darknet Fentanyl Distribution Ring
+Six Indicted in Darknet Fentanyl Distribution Ring"
 ---
 <article class="post-listing post-20711 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-distribution tag-fentanyl tag-indicted tag-ring">
     <div class="post-inner">

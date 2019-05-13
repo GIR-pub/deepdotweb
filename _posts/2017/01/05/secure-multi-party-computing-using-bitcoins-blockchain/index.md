@@ -1,5 +1,5 @@
 ---
-Secure Multi-party Computing Using Bitcoin&#8217;s Blockchain
+Secure Multi-party Computing Using Bitcoin&#8217;s Blockchain"
 ---
 <article class="post-listing post-17325 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-computing tag-multiparty tag-secure">
     <div class="post-inner">

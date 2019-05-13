@@ -1,5 +1,5 @@
 ---
-The Darkmail Alliance
+The Darkmail Alliance"
 ---
 <article class="post-listing post-8749 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alliance tag-darkmail">
 <div class="post-inner">

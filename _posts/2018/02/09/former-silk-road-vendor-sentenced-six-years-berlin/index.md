@@ -1,5 +1,5 @@
 ---
-Former Silk Road Vendor Sentenced to Six Years in Berlin
+Former Silk Road Vendor Sentenced to Six Years in Berlin"
 ---
 <article class="post-listing post-24740 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-berlin tag-sentenced tag-vendor tag-years">

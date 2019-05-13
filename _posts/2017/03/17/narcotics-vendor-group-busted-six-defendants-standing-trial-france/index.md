@@ -1,5 +1,5 @@
 ---
-Narcotics Vendor Group Busted: Six Defendants Standing Trial In France
+Narcotics Vendor Group Busted: Six Defendants Standing Trial In France"
 ---
 <article class="post-listing post-18659 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-busted tag-defendants tag-france tag-group tag-narcotics tag-standing tag-trial tag-vendor">

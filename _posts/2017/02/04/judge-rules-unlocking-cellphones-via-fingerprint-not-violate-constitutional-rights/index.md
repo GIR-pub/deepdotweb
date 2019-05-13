@@ -1,5 +1,5 @@
 ---
-Judge Rules That Unlocking Cellphones via Fingerprint Does Not Violate Constitutional Rights
+Judge Rules That Unlocking Cellphones via Fingerprint Does Not Violate Constitutional Rights"
 ---
 <article class="post-listing post-17971 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cellphones tag-constitutional tag-fingerprint tag-judge tag-rights tag-rules tag-unlocking tag-violate">
     <div class="post-inner">

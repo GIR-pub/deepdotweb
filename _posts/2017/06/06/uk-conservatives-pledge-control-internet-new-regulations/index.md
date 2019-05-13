@@ -1,5 +1,5 @@
 ---
-UK Conservatives Pledge to Control Internet with New Regulations
+UK Conservatives Pledge to Control Internet with New Regulations"
 ---
 <article class="post-listing post-20429 post type-post status-publish format-standard has-post-thumbnail hentry  tag-conservatives tag-control tag-internet tag-pledge tag-regulations tag-uk">
     <div class="post-inner">

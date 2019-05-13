@@ -1,5 +1,5 @@
 ---
-Former GP Cleared of “Crimebay” Murder for Hire Charges
+Former GP Cleared of “Crimebay” Murder for Hire Charges"
 ---
 <article class="post-listing post-26529 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-charges tag-cleared tag-crimebay tag-gp tag-hire tag-murder">

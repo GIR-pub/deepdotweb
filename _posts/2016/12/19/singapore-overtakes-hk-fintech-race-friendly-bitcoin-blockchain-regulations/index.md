@@ -1,5 +1,5 @@
 ---
-Singapore Overtakes HK in Fintech Race, Friendly Bitcoin &#038; Blockchain Regulations
+Singapore Overtakes HK in Fintech Race, Friendly Bitcoin &#038; Blockchain Regulations"
 ---
 <article class="post-listing post-17016 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-blockchain tag-fintech tag-friendly tag-hk tag-overtakes tag-race tag-regulations tag-singapore">
     <div class="post-inner">

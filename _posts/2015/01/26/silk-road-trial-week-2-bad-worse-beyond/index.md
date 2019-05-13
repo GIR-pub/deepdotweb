@@ -1,5 +1,5 @@
 ---
-Silk Road Trial: Week 2 – From Bad to Worse and Beyond
+Silk Road Trial: Week 2 – From Bad to Worse and Beyond"
 ---
 <article class="post-listing post-8912 post type-post status-publish format-standard has-post-thumbnail hentry  trial tag-trial tag-week tag-worse">
     <div class="post-inner">

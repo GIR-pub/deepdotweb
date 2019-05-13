@@ -1,5 +1,5 @@
 ---
-Legislators Introduce Bills to Protect Digital Privacy Rights at US Borders
+Legislators Introduce Bills to Protect Digital Privacy Rights at US Borders"
 ---
 <article class="post-listing post-19290 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bills tag-borders tag-digital tag-introduce tag-legislators tag-privacy tag-protect tag-rights">
     <div class="post-inner">

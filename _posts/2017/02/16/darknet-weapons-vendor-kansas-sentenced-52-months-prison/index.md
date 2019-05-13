@@ -1,5 +1,5 @@
 ---
-Darknet Weapons Vendor From Kansas Sentenced to 52 Months in Prison
+Darknet Weapons Vendor From Kansas Sentenced to 52 Months in Prison"
 ---
 <article class="post-listing post-18149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4830 tag-darknet tag-kansas tag-months tag-prison tag-sentenced tag-vendor tag-weapons">
     <div class="post-inner">

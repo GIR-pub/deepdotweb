@@ -1,5 +1,5 @@
 ---
-Tutorial &#8211; How To Generate Bitcoin Using Your PC On Autopilot Via Gridcoin
+Tutorial &#8211; How To Generate Bitcoin Using Your PC On Autopilot Via Gridcoin"
 ---
 <article class="post-listing post-18913 post type-post status-publish format-standard has-post-thumbnail hentry  tag-autopilot tag-bitcoin tag-generate tag-gridcoin tag-pc tag-tutorial">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-That Moment When&#8230;.
+That Moment When&#8230;."
 ---
 <article class="post-7202 post type-post status-publish format-standard hentry category-meme-images tag-generator tag-meme post-listing">
     <div class="post-inner">

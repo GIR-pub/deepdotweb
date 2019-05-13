@@ -1,5 +1,5 @@
 ---
-Alphabay to Support Yet Another Payment Method: Zcash
+Alphabay to Support Yet Another Payment Method: Zcash"
 ---
 <article class="post-listing post-20534 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-method tag-payment tag-support tag-zcash">
     <div class="post-inner">

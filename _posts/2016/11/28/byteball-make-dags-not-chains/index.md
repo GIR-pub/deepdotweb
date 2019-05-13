@@ -1,5 +1,5 @@
 ---
-Byteball: Make DAGs, Not Chains!
+Byteball: Make DAGs, Not Chains!"
 ---
 <article class="post-listing post-16632 post type-post status-publish format-standard has-post-thumbnail hentry  tag-byteball tag-chains tag-dags">
     <div class="post-inner">

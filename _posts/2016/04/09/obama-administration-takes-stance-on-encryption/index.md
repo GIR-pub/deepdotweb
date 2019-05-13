@@ -1,5 +1,5 @@
 ---
-Obama Administration takes Stance On Encryption
+Obama Administration takes Stance On Encryption"
 ---
 <article class="post-listing post-13684 post type-post status-publish format-standard has-post-thumbnail hentry  tag-administration tag-encryption tag-obama tag-stance tag-takes">
     <div class="post-inner">

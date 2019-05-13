@@ -1,5 +1,5 @@
 ---
-The Future of the Markets
+The Future of the Markets"
 ---
 <article class="post-listing post-12873 post type-post status-publish format-standard has-post-thumbnail hentry  tag-future tag-markets">
     <div class="post-inner">

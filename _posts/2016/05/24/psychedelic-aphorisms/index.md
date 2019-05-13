@@ -1,5 +1,5 @@
 ---
-PSYCHEDELIC APHORISMS
+PSYCHEDELIC APHORISMs"
 ---
 <article class="post-listing post-14131 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aphorisms tag-psychedelic">
     

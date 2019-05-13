@@ -1,5 +1,5 @@
 ---
-Israel Approves Web Censorship Law to Tackle Illegal Activities Online
+Israel Approves Web Censorship Law to Tackle Illegal Activities Online"
 ---
 <article class="post-listing post-21733 post type-post status-publish format-standard has-post-thumbnail hentry  tag-activities tag-approves tag-censorship tag-illegal tag-israel tag-law tag-tackle tag-web">
     <div class="post-inner">

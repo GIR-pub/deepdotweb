@@ -1,5 +1,5 @@
 ---
-Report: Easier To Acquire A Rifle Than A Pistol In The Netherlands
+Report: Easier To Acquire A Rifle Than A Pistol In The Netherlands"
 ---
 <article class="post-listing post-19758 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acquire tag-easier tag-netherlands tag-pistol tag-report tag-rifle">
     <div class="post-inner">

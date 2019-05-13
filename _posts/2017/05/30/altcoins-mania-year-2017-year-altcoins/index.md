@@ -1,5 +1,5 @@
 ---
-Altcoins mania &#8211; The year of 2017 is the year of altcoins
+Altcoins mania &#8211; The year of 2017 is the year of altcoins"
 ---
 <article class="post-listing post-20224 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3676 tag-altcoins tag-mania tag-year">
     <div class="post-inner">

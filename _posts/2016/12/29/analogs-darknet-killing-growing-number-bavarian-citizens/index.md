@@ -1,5 +1,5 @@
 ---
-Analogs from the Darknet are Killing a Growing Number of Bavarian Citizens
+Analogs from the Darknet are Killing a Growing Number of Bavarian Citizens"
 ---
 <article class="post-listing post-17214 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analogs tag-bavarian tag-citizens tag-darknet tag-growing tag-killing tag-number">
     <div class="post-inner">

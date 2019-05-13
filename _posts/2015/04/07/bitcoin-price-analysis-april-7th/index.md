@@ -1,5 +1,5 @@
 ---
-Bitcoin Price Analysis April 7th
+Bitcoin Price Analysis April 7th"
 ---
 <article class="post-listing post-9885 post type-post status-publish format-standard has-post-thumbnail hentry  tag-7th tag-analysis tag-april tag-bitcoin tag-price">
     <div class="post-inner">

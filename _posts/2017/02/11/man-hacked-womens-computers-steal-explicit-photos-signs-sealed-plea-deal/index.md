@@ -1,5 +1,5 @@
 ---
-Man Who Hacked Women’s Computers to Steal Explicit Photos Signs Sealed Plea Deal
+Man Who Hacked Women’s Computers to Steal Explicit Photos Signs Sealed Plea Deal"
 ---
 <article class="post-listing post-18080 post type-post status-publish format-standard has-post-thumbnail hentry  tag-computers tag-deal tag-explicit tag-hacked tag-man tag-photos tag-plea tag-sealed tag-signs tag-steal tag-womens">
     

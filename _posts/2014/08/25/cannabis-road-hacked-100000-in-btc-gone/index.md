@@ -1,5 +1,5 @@
 ---
-Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone
+Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone"
 ---
 <article class="post-listing post-6866 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1899tag-cannabis tag-hacked tag-road">
     <div class="post-inner">

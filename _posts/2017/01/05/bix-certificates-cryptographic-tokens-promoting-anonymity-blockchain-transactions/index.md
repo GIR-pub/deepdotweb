@@ -1,5 +1,5 @@
 ---
-BIX Certificates &#8211; Cryptographic Tokens Promoting Anonymity For Blockchain Transactions
+BIX Certificates &#8211; Cryptographic Tokens Promoting Anonymity For Blockchain Transactions"
 ---
 <article class="post-listing post-17326 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymity tag-bix tag-blockchain tag-certificates tag-cryptographic tag-promoting tag-tokens tag-transactions">
     <div class="post-inner">

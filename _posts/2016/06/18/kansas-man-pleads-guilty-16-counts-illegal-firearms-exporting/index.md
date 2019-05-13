@@ -1,5 +1,5 @@
 ---
-Kansas Man Pleads Guilty to 16 Counts of Illegal Firearms Exporting
+Kansas Man Pleads Guilty to 16 Counts of Illegal Firearms Exporting"
 ---
 <article class="post-listing post-14528 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-counts tag-exporting tag-firearms tag-guilty tag-illegal tag-kansas tag-man tag-pleads">
     <div class="post-inner">

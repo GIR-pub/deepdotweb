@@ -1,5 +1,5 @@
 ---
-Police Raid After Bitcoin &#8216;Creator&#8217; Revealed
+Police Raid After Bitcoin &#8216;Creator&#8217; Revealed"
 ---
 <article class="post-listing post-12517 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-creator tag-police tag-raid tag-revealed">
 <div class="post-inner">

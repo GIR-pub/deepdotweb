@@ -1,5 +1,5 @@
 ---
-Golem Network: Decentralized Computing
+Golem Network: Decentralized Computing"
 ---
 <article class="post-listing post-16700 post type-post status-publish format-standard has-post-thumbnail hentry  tag-computing tag-decentralized tag-golem tag-network">
     

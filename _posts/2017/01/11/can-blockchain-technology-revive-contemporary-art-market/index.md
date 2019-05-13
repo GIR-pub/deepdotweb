@@ -1,5 +1,5 @@
 ---
-Can the Blockchain Technology Revive The Contemporary Art Market?
+Can the Blockchain Technology Revive The Contemporary Art Market?"
 ---
 <article class="post-listing post-17439 post type-post status-publish format-standard has-post-thumbnail hentry  tag-art tag-blockchain tag-contemporary tag-revive tag-technology">
     <div class="post-inner">

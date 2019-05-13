@@ -1,5 +1,5 @@
 ---
-Former head of France&#8217;s drug war implicated in trafficking
+Former head of France&#8217;s drug war implicated in trafficking"
 ---
 <article class="post-listing post-14255 post type-post status-publish format-standard has-post-thumbnail hentry  tag-frances tag-implicated tag-trafficking tag-war">
     <div class="post-inner">

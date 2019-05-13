@@ -1,5 +1,5 @@
 ---
-Russian DNM Forum Vendors Interviewed on Freedom and Selling Guns Online
+Russian DNM Forum Vendors Interviewed on Freedom and Selling Guns Online"
 ---
 <article class="post-listing post-16295 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dnm tag-forum tag-freedom tag-guns tag-interviewed tag-russian tag-selling tag-vendors">
     <div class="post-inner">

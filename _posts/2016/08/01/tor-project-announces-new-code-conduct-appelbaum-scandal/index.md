@@ -1,5 +1,5 @@
 ---
-Tor Project Announces New Code of Conduct After Appelbaum Scandal
+Tor Project Announces New Code of Conduct After Appelbaum Scandal"
 ---
 <article class="post-listing post-14976 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announces tag-appelbaum tag-code tag-conduct tag-project tag-scandal 
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-DigesTor &#8211; Comparative tool for Tor passive traffic analysis attacks
+DigesTor &#8211; Comparative tool for Tor passive traffic analysis attacks"
 ---
 <article class="post-listing post-26887 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-analysis tag-attacks tag-comparative tag-digestor tag-passive tag-tool  tag-traffic">

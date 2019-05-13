@@ -1,5 +1,5 @@
 ---
-The Scurvy Crew: Its Been An Amazing Ride
+The Scurvy Crew: Its Been An Amazing Ride"
 ---
 <article class="post-listing post-10818 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amazing tag-ride tag-thescurvycrew">
     

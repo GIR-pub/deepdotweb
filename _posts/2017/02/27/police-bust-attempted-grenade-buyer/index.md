@@ -1,5 +1,5 @@
 ---
-Police Bust Attempted Grenade Buyer
+Police Bust Attempted Grenade Buyer"
 ---
 <article class="post-listing post-18365 post type-post status-publish format-standard has-post-thumbnail hentry 
     

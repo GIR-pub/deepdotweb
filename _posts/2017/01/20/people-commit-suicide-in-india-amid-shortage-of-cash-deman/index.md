@@ -1,5 +1,5 @@
 ---
-People Commit Suicide in India Amid Shortage of Cash, Demand of Bitcoin Goes up
+People Commit Suicide in India Amid Shortage of Cash, Demand of Bitcoin Goes up"
 ---
 <article class="post-listing post-17622 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

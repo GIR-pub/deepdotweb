@@ -1,5 +1,5 @@
 ---
-Bitcoin Blockchain&#8217;s High Security Will Lead Blockchain Startups to Pivot Back to Bitcoin
+Bitcoin Blockchain&#8217;s High Security Will Lead Blockchain Startups to Pivot Back to Bitcoin"
 ---
 <article class="post-listing post-15831 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-blockchain tag-blockchains tag-high tag-lead tag-pivot tag-security tag-startups">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Purity and Prices of Drugs Purchased Online Versus Offline in the Netherlands
+Purity and Prices of Drugs Purchased Online Versus Offline in the Netherlands"
 ---
 <article class="post-listing post-19009 post type-post status-publish format-standard has-post-thumbnail hentry  tag-netherlands tag-offline tag-prices tag-purchased tag-purity">
     <div class="post-inner">

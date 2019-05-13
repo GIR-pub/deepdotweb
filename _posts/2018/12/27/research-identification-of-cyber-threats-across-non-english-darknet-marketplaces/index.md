@@ -1,5 +1,5 @@
 ---
-Research: Identification of cyber threats across non-English darknet marketplaces
+Research: Identification of cyber threats across non-English darknet marketplaces"
 ---
 <article class="post-listing post-27721 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-cyber tag-darknet tag-identification tag-marketplaces tag-nonenglish tag-research tag-threats">

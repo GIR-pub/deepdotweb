@@ -1,5 +1,5 @@
 ---
-Cross-Marketplace Discussion &#038; News: The Hub Forum Is Live!
+Cross-Marketplace Discussion &#038; News: The Hub Forum Is Live!"
 ---
 <article class="post-listing post-3444 post type-post status-publish format-standard has-post-thumbnail hentry  tag-forums tag-hub tag-meet">
     <div class="post-inner">

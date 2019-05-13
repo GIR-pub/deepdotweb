@@ -1,5 +1,5 @@
 ---
-Take Control of Your Bitcoins into Your Hands, Literally?
+Take Control of Your Bitcoins into Your Hands, Literally?"
 ---
 <article class="post-listing post-11903 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-hands tag-literally">
 <div class="post-inner">

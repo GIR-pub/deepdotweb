@@ -1,5 +1,5 @@
 ---
-Utah Man Accused of Manufacturing and Selling drugs on the dark web
+Utah Man Accused of Manufacturing and Selling drugs on the dark web"
 ---
 <article class="post-listing post-25615 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-accused tag-dark tag-man tag-manufacturing tag-selling tag-utah tag-web">

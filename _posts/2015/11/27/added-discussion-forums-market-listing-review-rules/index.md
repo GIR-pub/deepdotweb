@@ -1,5 +1,5 @@
 ---
-Added: Discussion Forums, Market Listing &#038; Review Rules
+Added: Discussion Forums, Market Listing &#038; Review Rules"
 ---
 <article class="post-listing post-12361 post type-post status-publish format-standard hentry category-news tag-added tag-discussion tag-forums tag-listing tag-rules">
 <div class="post-inner">

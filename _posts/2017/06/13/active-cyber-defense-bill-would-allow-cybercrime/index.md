@@ -1,5 +1,5 @@
 ---
-Active Cyber Defense Bill Would Allow Cybercrime Victims to Hack Back
+Active Cyber Defense Bill Would Allow Cybercrime Victims to Hack Back"
 ---
 <article class="post-listing post-20599 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

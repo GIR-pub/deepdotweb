@@ -1,5 +1,5 @@
 ---
-World Economic Forum Publishes Flattering Report on Blockchain’s impact on the Financial Sector
+World Economic Forum Publishes Flattering Report on Blockchain’s impact on the Financial Sector"
 ---
 <article class="post-listing post-15184 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-blockchains tag-economic tag-financial tag-flattering tag-forum tag-impact tag-publishes tag-report tag-sector 
     <div class="post-inner">

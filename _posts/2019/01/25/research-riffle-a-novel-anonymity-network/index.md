@@ -1,5 +1,5 @@
 ---
-Research: Riffle &#8211; A novel anonymity network
+Research: Riffle &#8211; A novel anonymity network"
 ---
 <article class="post-listing post-28199 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymity tag-network tag-research tag-riffle">
     <div class="post-inner">

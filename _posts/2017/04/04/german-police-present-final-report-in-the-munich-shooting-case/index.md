@@ -1,5 +1,5 @@
 ---
-German Police Present Final Report In The Münich Shooting Case
+German Police Present Final Report In The Münich Shooting Case"
 ---
 <article class="post-listing post-18989 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-final tag-german tag-munich tag-police tag-present tag-report tag-shooting">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Tutorial &#8211; How To Accept Bitcoin Payments On Your Website
+Tutorial &#8211; How To Accept Bitcoin Payments On Your Website"
 ---
 <article class="post-listing post-18852 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-accept tag-bitcoin tag-payments tag-tutorial tag-website">

@@ -1,5 +1,5 @@
 ---
- Join: /r/DeepDotWeb!
+ Join: /r/DeepDotWeb!"
 ---
 <article class="post-listing post-10081 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-dark tag-darknetmarkets tag-join tag-rdarknetmarkets tag-rdeepdotweb">
     <div class="post-inner">

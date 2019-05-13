@@ -1,5 +1,5 @@
 ---
-LSD Purchase Went Bad: Three Arrested In Romania
+LSD Purchase Went Bad: Three Arrested In Romania"
 ---
 <article class="post-listing post-22042 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-lsd tag-purchase tag-romania">

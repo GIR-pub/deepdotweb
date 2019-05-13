@@ -1,5 +1,5 @@
 ---
-Designing Trust &#8211; Weighing The Utility of Smart Contracts Against The Risk of Decentralization
+Designing Trust &#8211; Weighing The Utility of Smart Contracts Against The Risk of Decentralization"
 ---
 <article class="post-listing post-17746 post type-post status-publish format-standard has-post-thumbnail hentry  tag-contracts tag-decentralization tag-designing tag-risk tag-smart tag-trust tag-utility tag-weighing">
     <div class="post-inner">

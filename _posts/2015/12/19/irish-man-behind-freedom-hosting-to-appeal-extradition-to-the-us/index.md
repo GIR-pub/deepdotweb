@@ -1,5 +1,5 @@
 ---
-Freedom Hosting: High Court grants extradition of Irishman to US
+Freedom Hosting: High Court grants extradition of Irishman to Us"
 ---
 <article class="post-listing post-12661 post type-post status-publish format-standard has-post-thumbnail hentry  tag-extradited tag-freedom tag-hosting">
 <div class="post-inner">

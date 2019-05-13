@@ -1,5 +1,5 @@
 ---
-Comparing the Security of Bitcoin to That of Common Online Payment Systems
+Comparing the Security of Bitcoin to That of Common Online Payment Systems"
 ---
 <article class="post-listing post-21253 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-common tag-comparing tag-payment tag-security tag-systems">
     <div class="post-inner">

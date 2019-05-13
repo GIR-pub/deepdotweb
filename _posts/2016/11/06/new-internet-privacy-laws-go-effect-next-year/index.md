@@ -1,5 +1,5 @@
 ---
-New Internet Privacy Laws Go Into Effect Next Year
+New Internet Privacy Laws Go Into Effect Next Year"
 ---
 <article class="post-listing post-16286 post type-post status-publish format-standard has-post-thumbnail hentry  tag-effect tag-internet tag-laws tag-privacy tag-year">
     <div class="post-inner">

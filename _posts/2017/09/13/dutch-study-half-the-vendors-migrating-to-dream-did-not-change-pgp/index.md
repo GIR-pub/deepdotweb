@@ -1,5 +1,5 @@
 ---
-Dutch Study: Half The Vendors Migrating To Dream Did Not Change PGP
+Dutch Study: Half The Vendors Migrating To Dream Did Not Change PGp"
 ---
 <article class="post-listing post-22520 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-change tag-dream tag-dutch tag-migrating tag-pgp tag-study tag-vendors">

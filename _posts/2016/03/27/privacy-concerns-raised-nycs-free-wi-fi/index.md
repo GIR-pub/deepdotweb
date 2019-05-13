@@ -1,5 +1,5 @@
 ---
-Privacy Concerns Raised Over NYC&#8217;s Free Wi-Fi
+Privacy Concerns Raised Over NYC&#8217;s Free Wi-Fi"
 ---
 <article class="post-listing post-13579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-concerns tag-free tag-nycs tag-privacy tag-raised tag-wifi">
     <div class="post-inner">

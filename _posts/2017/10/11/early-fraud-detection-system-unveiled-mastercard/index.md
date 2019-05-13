@@ -1,5 +1,5 @@
 ---
-Early Fraud Detection System Unveiled By MasterCard
+Early Fraud Detection System Unveiled By MasterCard"
 ---
 <article class="post-listing post-23012 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-detection tag-early tag-fraud tag-mastercard tag-system tag-unveiled">

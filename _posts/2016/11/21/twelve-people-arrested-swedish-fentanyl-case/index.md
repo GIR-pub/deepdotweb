@@ -1,5 +1,5 @@
 ---
-Twelve People Arrested In Swedish Fentanyl Case
+Twelve People Arrested In Swedish Fentanyl Case"
 ---
 <article class="post-listing post-16510 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-fentanyl tag-people tag-swedish tag-twelve">
     <div class="post-inner">

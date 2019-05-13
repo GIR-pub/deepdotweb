@@ -1,5 +1,5 @@
 ---
-Operation Tiger: 13 Arrested And Facing Drug Charges In New Zealand
+Operation Tiger: 13 Arrested And Facing Drug Charges In New Zealand"
 ---
 <article class="post-listing post-22111 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-1826 tag-charges tag-facing tag-operation tag-tiger tag-zealand">

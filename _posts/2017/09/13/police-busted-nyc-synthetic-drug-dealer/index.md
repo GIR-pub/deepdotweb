@@ -1,5 +1,5 @@
 ---
-Police Busted NYC Synthetic Drug Dealer
+Police Busted NYC Synthetic Drug Dealer"
 ---
 <article class="post-listing post-22519 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-busted tag-nyc tag-police tag-synthetic">

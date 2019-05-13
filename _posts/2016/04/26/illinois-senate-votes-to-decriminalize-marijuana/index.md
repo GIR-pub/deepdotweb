@@ -1,5 +1,5 @@
 ---
-Illinois Senate Votes To Decriminalize Marijuana
+Illinois Senate Votes To Decriminalize Marijuana"
 ---
 <article class="post-listing post-13874 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decriminalize tag-illinois tag-marijuana tag-senate tag-votes">
     <div class="post-inner">

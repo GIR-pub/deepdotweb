@@ -1,5 +1,5 @@
 ---
-How ZeroNet is disrupting the World Wide Web
+How ZeroNet is disrupting the World Wide Web"
 ---
 <article class="post-listing post-17124 post type-post status-publish format-standard has-post-thumbnail hentry  tag-disrupting tag-kptx tag-web tag-wide  tag-zeronet">
     <div class="post-inner">

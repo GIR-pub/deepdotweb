@@ -1,5 +1,5 @@
 ---
-US Firearm Vendor Tried To Sell Gun To Customer, Got Jailed
+US Firearm Vendor Tried To Sell Gun To Customer, Got Jailed"
 ---
 <article class="post-listing post-18271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-customer tag-firearm tag-gun tag-jailed tag-sell tag-vendor">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-NSA Mass Phone Collection &#8220;Winding Down,&#8221; as Senate Fails to Find a Solution
+NSA Mass Phone Collection &#8220;Winding Down,&#8221; as Senate Fails to Find a Solution"
 ---
 <article class="post-listing post-10404 post type-post status-publish format-standard has-post-thumbnail hentry  tag-collection tag-fails tag-find tag-mass tag-nsa tag-phone tag-senate tag-solution tag-winding">
     <div class="post-inner">

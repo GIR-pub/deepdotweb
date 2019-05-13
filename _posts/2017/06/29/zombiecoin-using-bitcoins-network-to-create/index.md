@@ -1,5 +1,5 @@
 ---
-ZombieCoin &#8211; Using Bitcoin&#8217;s Network To Create Next Generation Botnets
+ZombieCoin &#8211; Using Bitcoin&#8217;s Network To Create Next Generation Botnets"
 ---
 <article class="post-listing post-20963 post type-post status-publish format-standard has-post-thumbnail hentry  tag-botnets tag-create tag-generation tag-network tag-zombiecoin">
     <div class="post-inner">

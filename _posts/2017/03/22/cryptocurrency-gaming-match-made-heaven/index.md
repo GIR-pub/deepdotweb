@@ -1,5 +1,5 @@
 ---
-Cryptocurrency and Gaming &#8211; A match made in heaven
+Cryptocurrency and Gaming &#8211; A match made in heaven"
 ---
 <article class="post-listing post-18743 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-cryptocurrency tag-gaming tag-heaven tag-kptx tag-match">

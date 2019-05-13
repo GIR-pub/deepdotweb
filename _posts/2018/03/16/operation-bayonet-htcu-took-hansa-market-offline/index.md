@@ -1,5 +1,5 @@
 ---
-Operation Bayonet: This is how HTCU took Hansa Market offline
+Operation Bayonet: This is how HTCU took Hansa Market offline"
 ---
 <article class="post-listing post-25063 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bayonet tag-hansa tag-htcu tag-offline tag-operation">

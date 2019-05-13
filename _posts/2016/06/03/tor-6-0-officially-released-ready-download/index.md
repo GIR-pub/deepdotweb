@@ -1,5 +1,5 @@
 ---
-Tor 6.0 Officially Released and Ready for Download
+Tor 6.0 Officially Released and Ready for Download"
 ---
 <article class="post-listing post-14370 post type-post status-publish format-standard hentry category-news tag-3828 tag-download tag-officially tag-ready tag-released 
     <div class="post-inner">

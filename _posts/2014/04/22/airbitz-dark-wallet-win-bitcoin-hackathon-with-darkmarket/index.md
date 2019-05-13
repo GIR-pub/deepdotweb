@@ -1,5 +1,5 @@
 ---
-Airbitz &#038; Dark Wallet Win Bitcoin Hackathon with DarkMarket!
+Airbitz &#038; Dark Wallet Win Bitcoin Hackathon with DarkMarket!"
 ---
 <article class="post-listing post-5099 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-airbitz tag-bitcoin tag-dark tag-darkmarket tag-hackathon tag-wallet tag-win tie_video">
     

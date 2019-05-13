@@ -1,5 +1,5 @@
 ---
-Examining the Bitcoin Address Graph
+Examining the Bitcoin Address Graph"
 ---
 <article class="post-listing post-19380 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-bitcoin tag-examining tag-graph">
     <div class="post-inner">

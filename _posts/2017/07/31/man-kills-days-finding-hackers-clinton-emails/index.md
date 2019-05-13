@@ -1,5 +1,5 @@
 ---
-Man Kills Himself Days After Finding “Hackers” with Clinton Emails
+Man Kills Himself Days After Finding “Hackers” with Clinton Emails"
 ---
 <article class="post-listing post-21664 post type-post status-publish format-standard has-post-thumbnail hentry  tag-clinton tag-days tag-emails tag-finding tag-hackers tag-kills tag-man">
     <div class="post-inner">

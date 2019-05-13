@@ -1,5 +1,5 @@
 ---
-Firefox Zero-Day Can Be Used To Deanonymize Tor Users
+Firefox Zero-Day Can Be Used To Deanonymize Tor Users"
 ---
 <article class="post-listing post-16849 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deanonymize tag-firefox  tag-users tag-zeroday">
     <div class="post-inner">

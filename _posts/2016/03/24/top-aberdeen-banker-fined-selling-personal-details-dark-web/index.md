@@ -1,5 +1,5 @@
 ---
-Top Aberdeen Banker Fined For Selling Personal Details On The Dark Web
+Top Aberdeen Banker Fined For Selling Personal Details On The Dark Web"
 ---
 <article class="post-listing post-13559 post type-post status-publish format-standard hentry category-news tag-aberdeen tag-banker tag-dark tag-details tag-fined tag-personal tag-selling tag-top tag-web">
     <div class="post-inner">

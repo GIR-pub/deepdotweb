@@ -1,5 +1,5 @@
 ---
-Revealed: Details from the Case of the First Silk Road Vendor to Be arrested
+Revealed: Details from the Case of the First Silk Road Vendor to Be arrested"
 ---
 <article class="post-listing post-15394 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-details tag-revealed tag-vendor">
     <div class="post-inner">

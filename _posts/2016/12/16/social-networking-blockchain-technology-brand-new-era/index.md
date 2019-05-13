@@ -1,5 +1,5 @@
 ---
-Social Networking &#038; The Blockchain Technology &#8211; A Brand New Era
+Social Networking &#038; The Blockchain Technology &#8211; A Brand New Era"
 ---
 <article class="post-listing post-16954 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-brand tag-era tag-networking tag-social tag-technology">
     <div class="post-inner">

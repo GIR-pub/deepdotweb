@@ -1,5 +1,5 @@
 ---
-23 Charged in Fentanyl Distribution Ring
+23 Charged in Fentanyl Distribution Ring"
 ---
 <article class="post-listing post-18445 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-2706 tag-charged tag-distribution tag-fentanyl tag-ring">

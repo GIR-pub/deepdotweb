@@ -1,5 +1,5 @@
 ---
-Would Be Hitman Nabbed in New Jersey Sting
+Would Be Hitman Nabbed in New Jersey Sting"
 ---
 <article class="post-listing post-16239 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hitman tag-jersey tag-nabbed tag-sting">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Bitcoin Mining &#8211; Is It Still Profitable?
+Bitcoin Mining &#8211; Is It Still Profitable?"
 ---
 <article class="post-listing post-23923 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-mining tag-profitable">
     <div class="post-inner">

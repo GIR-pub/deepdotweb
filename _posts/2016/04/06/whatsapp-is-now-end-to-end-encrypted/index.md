@@ -1,5 +1,5 @@
 ---
-WhatsApp Is now End-to-End encrypted
+WhatsApp Is now End-to-End encrypted"
 ---
 <article class="post-listing post-13646 post type-post status-publish format-standard has-post-thumbnail hentry  tag-encrypted tag-endtoend tag-whatsapp">
     <div class="post-inner">

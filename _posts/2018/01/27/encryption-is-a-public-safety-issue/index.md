@@ -1,5 +1,5 @@
 ---
-FBI Director Believes Encryption is a Public Safety Issue
+FBI Director Believes Encryption is a Public Safety Issue"
 ---
 <article class="post-listing post-24574 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-believes tag-director tag-encryption  tag-public tag-safety">

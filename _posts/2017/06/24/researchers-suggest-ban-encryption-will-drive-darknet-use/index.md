@@ -1,5 +1,5 @@
 ---
-Researchers Suggest a Ban on Encryption Will Drive Darknet Use
+Researchers Suggest a Ban on Encryption Will Drive Darknet Use"
 ---
 <article class="post-listing post-20855 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ban tag-darknet tag-drive tag-encryption tag-researchers tag-suggest">
     <div class="post-inner">

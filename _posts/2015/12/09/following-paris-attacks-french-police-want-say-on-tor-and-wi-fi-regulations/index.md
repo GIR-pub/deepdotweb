@@ -1,5 +1,5 @@
 ---
-Following Paris Attacks; French Police want say on Tor and Wi-Fi Regulations
+Following Paris Attacks; French Police want say on Tor and Wi-Fi Regulations"
 ---
 <article class="post-listing post-12504 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-french tag-paris tag-police tag-regulations  tag-wifi">
 <div class="post-inner">

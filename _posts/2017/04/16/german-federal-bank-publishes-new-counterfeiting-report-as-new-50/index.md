@@ -1,5 +1,5 @@
 ---
-German Federal Bank Publishes New Counterfeiting Report As New 50 Euro Notes Get Released
+German Federal Bank Publishes New Counterfeiting Report As New 50 Euro Notes Get Released"
 ---
 <article class="post-listing post-19215 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

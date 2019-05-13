@@ -1,5 +1,5 @@
 ---
-title: Domain Seizure
+title: Domain Seizure"
 ---
 <img border="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDoAAAMFCAIAAAAaxAEYAAAKvmlDQ1BJQ0MgUHJv
 ZmlsZQAASImVlwdUU9kWhs+9N73QAkgn9N5bACmhhyJIBxshCSSUGBOCil0ZHMGx

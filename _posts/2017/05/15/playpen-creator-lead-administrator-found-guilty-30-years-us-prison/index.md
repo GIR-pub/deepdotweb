@@ -1,5 +1,5 @@
 ---
-Playpen Creator &#038; Lead Administrator Found Guilty, 30 Years in US Prison
+Playpen Creator &#038; Lead Administrator Found Guilty, 30 Years in US Prison"
 ---
 <article class="post-listing post-19884 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1778 tag-administrator tag-creator tag-guilty tag-lead tag-playpen tag-prison tag-years">
     <div class="post-inner">

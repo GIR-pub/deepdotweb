@@ -1,5 +1,5 @@
 ---
-The current state of coin-mixing services
+The current state of coin-mixing services"
 ---
 <article class="post-listing post-5704 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coinmixing tag-current tag-services tag-state">
     <div class="post-inner">

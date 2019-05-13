@@ -1,5 +1,5 @@
 ---
-Israeli Teenager Sourced Drugs From the Dark Web, Arrested For Them At School
+Israeli Teenager Sourced Drugs From the Dark Web, Arrested For Them At School"
 ---
 <article class="post-listing post-18885 post type-post status-publish format-standard has-post-thumbnail hentry 
 

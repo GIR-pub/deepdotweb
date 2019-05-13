@@ -1,5 +1,5 @@
 ---
-Silk Road Vendor Pleaded Guilty to Drug Distribution in Fatal Overdose Case
+Silk Road Vendor Pleaded Guilty to Drug Distribution in Fatal Overdose Case"
 ---
 <article class="post-listing post-18259 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-distribution tag-fatal tag-guilty tag-overdose tag-pleaded tag-vendor">
     <div class="post-inner">

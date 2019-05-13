@@ -1,5 +1,5 @@
 ---
-Major Narcotics Bust In India – 24 Arrested
+Major Narcotics Bust In India – 24 Arrested"
 ---
 <article class="post-listing post-18591 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-1898 tag-bust tag-india tag-major tag-narcotics">

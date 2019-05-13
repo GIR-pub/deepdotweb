@@ -1,5 +1,5 @@
 ---
-British Woman Overdosed On N-bomb – Thought It Was Cocaine
+British Woman Overdosed On N-bomb – Thought It Was Cocaine"
 ---
 <article class="post-listing post-21027 post type-post status-publish format-standard has-post-thumbnail hentry  tag-british tag-cocaine tag-nbomb tag-overdosed tag-thought tag-woman">
     <div class="post-inner">

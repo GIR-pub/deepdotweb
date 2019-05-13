@@ -1,5 +1,5 @@
 ---
-How To Do Unlinkable Bitcoin Transactions
+How To Do Unlinkable Bitcoin Transactions"
 ---
 <article class="post-listing post-25093 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bitcoin tag-transactions tag-unlinkable">

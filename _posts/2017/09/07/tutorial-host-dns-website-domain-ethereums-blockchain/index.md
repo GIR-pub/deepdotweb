@@ -1,5 +1,5 @@
 ---
-Tutorial &#8211; How To Host Your Own DNS Website Domain On Ethereum&#8217;s Blockchain
+Tutorial &#8211; How To Host Your Own DNS Website Domain On Ethereum&#8217;s Blockchain"
 ---
 <article class="post-listing post-22422 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-blockchain tag-dns tag-domain tag-ethereums tag-tutorial tag-website">

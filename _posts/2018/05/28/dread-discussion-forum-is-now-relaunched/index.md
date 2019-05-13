@@ -1,5 +1,5 @@
 ---
-Dread Discussion Forum Is Now Relaunched!
+Dread Discussion Forum Is Now Relaunched!"
 ---
 <article class="post-listing post-25863 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-discussion tag-dread tag-forum tag-relaunched">

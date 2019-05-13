@@ -1,5 +1,5 @@
 ---
-The Potential Value of Bitcoin is Exciting To Contemplate
+The Potential Value of Bitcoin is Exciting To Contemplate"
 ---
 <article class="post-listing post-13561 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-contemplate tag-exciting tag-potential">
     <div class="post-inner">

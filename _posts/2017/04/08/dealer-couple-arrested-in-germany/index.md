@@ -1,5 +1,5 @@
 ---
-Dealer Couple Arrested In Germany, Police Seized More Than a Kilogram Of Amphetamine
+Dealer Couple Arrested In Germany, Police Seized More Than a Kilogram Of Amphetamine"
 ---
 <article class="post-listing post-19074 post type-post status-publish format-standard has-post-thumbnail hentry 
     

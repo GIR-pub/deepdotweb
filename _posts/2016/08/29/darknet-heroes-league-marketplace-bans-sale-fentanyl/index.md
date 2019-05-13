@@ -1,5 +1,5 @@
 ---
-Darknet Heroes League Marketplace Bans the Sale of Fentanyl
+Darknet Heroes League Marketplace Bans the Sale of Fentanyl"
 ---
 <article class="post-listing post-15266 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bans tag-darknet tag-fentanyl tag-heroes tag-league tag-sale">
     <div class="post-inner">

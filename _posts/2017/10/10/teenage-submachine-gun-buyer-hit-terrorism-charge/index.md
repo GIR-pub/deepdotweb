@@ -1,5 +1,5 @@
 ---
-Teenage Submachine Gun Buyer Hit with a Terrorism Charge
+Teenage Submachine Gun Buyer Hit with a Terrorism Charge"
 ---
 <article class="post-listing post-22999 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-buyer tag-charge tag-gun tag-hit tag-submachine tag-teenage tag-terrorism">

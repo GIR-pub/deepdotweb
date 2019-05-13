@@ -1,5 +1,5 @@
 ---
-A new proof-of-work mechanism that can shield bitcoin&#8217;s blockchain against the 51% attack
+A new proof-of-work mechanism that can shield bitcoin&#8217;s blockchain against the 51% attack"
 ---
 <article class="post-listing post-17426 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4811 tag-attack tag-bitcoin tag-blockchain tag-mechanism tag-proofofwork tag-shield">
     <div class="post-inner">

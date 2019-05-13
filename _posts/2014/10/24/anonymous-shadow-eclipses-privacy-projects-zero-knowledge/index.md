@@ -1,5 +1,5 @@
 ---
-Anonymous Shadow Eclipses Other Privacy Projects with Zero Knowledge
+Anonymous Shadow Eclipses Other Privacy Projects with Zero Knowledge"
 ---
 <article class="post-listing post-7471 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-eclipses tag-knowledge tag-privacy tag-projects tag-shadow">
     <div class="post-inner">

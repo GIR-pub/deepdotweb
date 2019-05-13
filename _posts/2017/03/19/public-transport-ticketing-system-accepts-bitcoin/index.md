@@ -1,5 +1,5 @@
 ---
-A Public Transport Ticketing System That Accepts Bitcoin
+A Public Transport Ticketing System That Accepts Bitcoin"
 ---
 <article class="post-listing post-18686 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-accepts tag-bitcoin tag-public tag-system tag-ticketing tag-transport">

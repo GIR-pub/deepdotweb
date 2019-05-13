@@ -1,5 +1,5 @@
 ---
-Irish Police and ATF Pleased With Collaboration in Gunrunner Case
+Irish Police and ATF Pleased With Collaboration in Gunrunner Case"
 ---
 <article class="post-listing post-18623 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-atf tag-case tag-collaboration tag-gunrunner tag-irish tag-pleased tag-police">

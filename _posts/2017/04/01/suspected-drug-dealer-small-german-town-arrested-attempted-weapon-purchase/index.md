@@ -1,5 +1,5 @@
 ---
-Suspected Drug Dealer In Small German Town Arrested For Attempted Weapon Purchase
+Suspected Drug Dealer In Small German Town Arrested For Attempted Weapon Purchase"
 ---
 <article class="post-listing post-18912 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempted tag-german tag-purchase tag-small tag-suspected tag-town tag-weapon">
     <div class="post-inner">

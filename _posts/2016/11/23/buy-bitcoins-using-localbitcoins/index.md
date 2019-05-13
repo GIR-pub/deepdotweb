@@ -1,5 +1,5 @@
 ---
-How to buy Bitcoins using LocalBitcoins
+How to buy Bitcoins using LocalBitcoins"
 ---
 <article class="post-listing post-16526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-localbitcoins">
     

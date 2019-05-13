@@ -1,5 +1,5 @@
 ---
-Third Judge Rules FBI’s Playpen Warrant Invalid
+Third Judge Rules FBI’s Playpen Warrant Invalid"
 ---
 <article class="post-listing post-15603 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbis tag-invalid tag-judge tag-playpen tag-rules tag-warrant">
     <div class="post-inner">

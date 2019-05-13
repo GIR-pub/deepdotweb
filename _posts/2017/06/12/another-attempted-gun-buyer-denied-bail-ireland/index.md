@@ -1,5 +1,5 @@
 ---
-Another Attempted Gun Buyer Denied Bail in Ireland
+Another Attempted Gun Buyer Denied Bail in Ireland"
 ---
 <article class="post-listing post-20566 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempted tag-bail tag-buyer tag-denied tag-gun tag-ireland">
     <div class="post-inner">

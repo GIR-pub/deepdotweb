@@ -1,5 +1,5 @@
 ---
-UK Introduces a Money Laundering Bill Allowing Them to Seize Finances
+UK Introduces a Money Laundering Bill Allowing Them to Seize Finances"
 ---
 <article class="post-listing post-15989 post type-post status-publish format-standard has-post-thumbnail hentry  tag-allowing tag-bill tag-finances tag-introduces tag-laundering tag-money tag-seize tag-uk">
     <div class="post-inner">

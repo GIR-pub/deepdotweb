@@ -1,5 +1,5 @@
 ---
-Bitfinex Hacked, $65 Million in Bitcoin Stolen
+Bitfinex Hacked, $65 Million in Bitcoin Stolen"
 ---
 <article class="post-listing post-15007 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3813 tag-bitcoin tag-bitfinex tag-hacked tag-million tag-stolen">
     <div class="post-inner">

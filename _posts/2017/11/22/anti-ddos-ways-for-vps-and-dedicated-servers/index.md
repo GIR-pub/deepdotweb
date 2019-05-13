@@ -1,5 +1,5 @@
 ---
-Anti-DDoS ways for VPS and Dedicated Servers
+Anti-DDoS ways for VPS and Dedicated Servers"
 ---
 <article class="post-listing post-23630 post type-post status-publish format-standard has-post-thumbnail hentry  tag-antiddos tag-dedicated tag-servers tag-vps tag-ways">
     <div class="post-inner">

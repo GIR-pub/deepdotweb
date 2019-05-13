@@ -1,5 +1,5 @@
 ---
-Two Pennsylvania Men Charged for Fentanyl Distribution
+Two Pennsylvania Men Charged for Fentanyl Distribution"
 ---
 <article class="post-listing post-25373 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-charged tag-distribution tag-fentanyl tag-men tag-pennsylvania">

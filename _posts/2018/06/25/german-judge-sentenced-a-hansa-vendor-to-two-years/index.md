@@ -1,5 +1,5 @@
 ---
-German Judge Sentenced a Hansa Vendor to Two Years
+German Judge Sentenced a Hansa Vendor to Two Years"
 ---
 <article class="post-listing post-26140 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-german tag-hansa tag-judge tag-sentenced tag-vendor tag-years">

@@ -1,5 +1,5 @@
 ---
-United States Indicts Research Chemical Suppliers in China
+United States Indicts Research Chemical Suppliers in China"
 ---
 <article class="post-listing post-26731 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-chemical tag-china tag-indicts tag-research tag-states tag-suppliers tag-united">

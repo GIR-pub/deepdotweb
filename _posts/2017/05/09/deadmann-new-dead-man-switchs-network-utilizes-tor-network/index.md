@@ -1,5 +1,5 @@
 ---
-Deadmann : A New Dead Man Switch&#8217;s Network That Utilizes The Tor Network
+Deadmann : A New Dead Man Switch&#8217;s Network That Utilizes The Tor Network"
 ---
 <article class="post-listing post-19723 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dead tag-deadmann tag-man tag-network tag-switchs  tag-utilizes">
     <div class="post-inner">

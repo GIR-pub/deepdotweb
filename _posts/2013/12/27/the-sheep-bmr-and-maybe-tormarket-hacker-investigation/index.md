@@ -1,5 +1,5 @@
 ---
-title: "The Sheep, BMR (And Maybe Tormarket) Hacker Reddit Investigation
+title: "The Sheep, BMR (And Maybe Tormarket) Hacker Reddit Investigation"
 ---
 2974  tag-bmr tag-hacker tag-investigation tag-reddit tag-sheep market">
 

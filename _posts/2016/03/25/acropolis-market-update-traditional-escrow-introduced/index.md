@@ -1,5 +1,5 @@
 ---
-Acropolis Market Update, Traditional Escrow Introduced
+Acropolis Market Update, Traditional Escrow Introduced"
 ---
 <article class="post-listing post-13570 post type-post status-publish format-standard hentry category-news tag-acropolis tag-escrow tag-introduced tag-traditional tag-update">
     <div class="post-inner">

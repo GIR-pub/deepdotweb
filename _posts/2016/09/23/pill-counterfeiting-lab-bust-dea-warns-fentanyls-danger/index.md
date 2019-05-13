@@ -1,5 +1,5 @@
 ---
-After Pill Counterfeiting Lab Bust, DEA Warns Of Fentanyl’s Danger
+After Pill Counterfeiting Lab Bust, DEA Warns Of Fentanyl’s Danger"
 ---
 <article class="post-listing post-15528 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-counterfeiting tag-danger tag-dea tag-fentanyls tag-lab tag-pill tag-warns">
     <div class="post-inner">

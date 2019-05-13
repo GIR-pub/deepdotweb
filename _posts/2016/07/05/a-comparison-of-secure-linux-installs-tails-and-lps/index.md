@@ -1,5 +1,5 @@
 ---
-A comparison of secure Linux installs: Tails and LPS
+A comparison of secure Linux installs: Tails and LPs"
 ---
 <article class="post-listing post-14726 post type-post status-publish format-standard has-post-thumbnail hentry  tag-comparison tag-installs tag-linux tag-lps tag-secure tag-tails">
     <div class="post-inner">

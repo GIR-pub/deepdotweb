@@ -1,5 +1,5 @@
 ---
-title: "Reports: Tormarket Scam In Progress?
+title: "Reports: Tormarket Scam In Progress?"
 ---
 2845  tag-progress tag-reports tag-scam market">
 

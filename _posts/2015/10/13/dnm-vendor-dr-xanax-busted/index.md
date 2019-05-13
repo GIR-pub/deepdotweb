@@ -1,5 +1,5 @@
 ---
-DNM Vendor Dr.Xanax Busted
+DNM Vendor Dr.Xanax Busted"
 ---
 <article class="post-listing post-11751 post type-post status-publish format-standard hentry category-news tag-busted tag-dnm tag-drxanax tag-vendor">
 <div class="post-inner">

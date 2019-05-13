@@ -1,5 +1,5 @@
 ---
-Irishman Fighting Extradition to U.S. for His Part in Silk Road
+Irishman Fighting Extradition to U.S. for His Part in Silk Road"
 ---
 <article class="post-listing post-14636 post type-post status-publish format-standard has-post-thumbnail hentry  tag-extradition tag-fighting tag-irishman 
     

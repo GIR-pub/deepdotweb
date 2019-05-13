@@ -1,5 +1,5 @@
 ---
-TOR: Is There a Viable Alternative?
+TOR: Is There a Viable Alternative?"
 ---
 <article class="post-listing post-13973 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative  tag-viable">
     <div class="post-inner">

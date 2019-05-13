@@ -1,5 +1,5 @@
 ---
-Jeffrey Spies Nakamoto
+Jeffrey Spies Nakamoto"
 ---
 <article class="post-7010 post type-post status-publish format-standard has-post-thumbnail hentry category-meme-images tag-generator tag-meme post-listing">
     <div class="post-inner">

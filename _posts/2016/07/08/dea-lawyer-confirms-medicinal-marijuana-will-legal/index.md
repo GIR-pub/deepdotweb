@@ -1,5 +1,5 @@
 ---
-DEA lawyer confirms medicinal marijuana will be legal
+DEA lawyer confirms medicinal marijuana will be legal"
 ---
 <article class="post-listing post-14766 post type-post status-publish format-standard has-post-thumbnail hentry  tag-confirms tag-dea tag-lawyer tag-legal tag-marijuana tag-medicinal">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Dream Vendor “CzechoSlovakFarm” Busted in Slovakia
+Dream Vendor “CzechoSlovakFarm” Busted in Slovakia"
 ---
 <article class="post-listing post-23329 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-busted tag-czechoslovakfarm tag-dream tag-slovakia tag-vendor">

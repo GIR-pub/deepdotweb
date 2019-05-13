@@ -1,5 +1,5 @@
 ---
-French Banker Bought Counterfeit Euros From The Dark Web
+French Banker Bought Counterfeit Euros From The Dark Web"
 ---
 <article class="post-listing post-18583 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-banker tag-bought tag-counterfeit tag-dark tag-euros tag-french tag-web">

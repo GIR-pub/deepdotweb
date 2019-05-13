@@ -1,5 +1,5 @@
 ---
-Teenage SMG Buyer Granted Internet Access for Homework
+Teenage SMG Buyer Granted Internet Access for Homework"
 ---
 <article class="post-listing post-22882 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-access tag-buyer tag-granted tag-homework tag-internet tag-smg tag-teenage">

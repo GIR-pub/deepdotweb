@@ -1,5 +1,5 @@
 ---
-title: "Silk Road Reopens: Losing Escrow Funds &#038; Releasing New Features
+title: "Silk Road Reopens: Losing Escrow Funds &#038; Releasing New Features"
 ---
 2981  tag-escrow tag-features tag-funds tag-losing tag-releasing tag-reopens 
 

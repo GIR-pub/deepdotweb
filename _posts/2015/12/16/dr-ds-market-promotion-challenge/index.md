@@ -1,5 +1,5 @@
 ---
-Dr. D&#8217;s Market Promotion Challenge: DR. D pays you CASH!
+Dr. D&#8217;s Market Promotion Challenge: DR. D pays you CASH!"
 ---
 <article class="post-listing post-12571 post type-post status-publish format-standard hentry category-news tag-cash tag-challenge tag-dr tag-ds tag-pays tag-promotion">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Darknet Glock Vendor Gets 33 Months in Prison
+Darknet Glock Vendor Gets 33 Months in Prison"
 ---
 <article class="post-listing post-25404 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-1099 tag-darknet tag-glock tag-months tag-prison tag-vendor">

@@ -1,5 +1,5 @@
 ---
-City to Teach Kindergartners About Drugs, Darknet, and Addiction
+City to Teach Kindergartners About Drugs, Darknet, and Addiction"
 ---
 <article class="post-listing post-18481 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-addiction tag-city tag-darknet tag-kindergartners tag-teach">

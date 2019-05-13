@@ -1,12 +1,9 @@
 ---
-title: "Warning: Silk Road 2.0 And DPR account might be compromised!
+title: "Warning: Silk Road 2.0 And DPR account might be compromised!"
 ---
-2829 tag-account tag-compromised 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 22, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/#comments">1 Comment</a></span>
 
 
 <p><strong><span style="text-decoration: underline;">Update 3#</span>:</strong> <span style="color: #ff0000;">Must Read &#8211; <a href="http://www.deepdotweb.com/2013/12/24/the-silk-road-2-0-tales-psy-ops/" target="_blank"><span style="color: #ff0000;">The Silk Road Tales And Psy-Ops!</span></a></span></p>
@@ -63,6 +60,6 @@ title: "Warning: Silk Road 2.0 And DPR account might be compromised!
 <p><a href="/imgs/2013/12/swisher.png"><img class="aligncenter  wp-image-2840" alt="swisher" src="/imgs/2013/12/swisher.png" width="666" height="402" srcset="/imgs/2013/12/swisher.png 1213w, /imgs/2013/12/swisher-300x181.png 300w, /imgs/2013/12/swisher-1024x619.png 1024w" sizes="(max-width: 666px) 100vw, 666px"/></a></p>
 <p>At this point we would like to urge everyone to be safe, and we will be updating this as we will have more info about new developments.</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/account/" rel="tag">account</a> <a href="https://www.deepdotweb.com/tag/compromised/" rel="tag">compromised</a> <a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a>  <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a>
+
 
 Updated: 2013-12-22

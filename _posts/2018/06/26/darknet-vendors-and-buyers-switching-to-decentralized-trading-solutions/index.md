@@ -1,5 +1,5 @@
 ---
-Darknet Vendors and Buyers Switching to Decentralized Trading Solutions
+Darknet Vendors and Buyers Switching to Decentralized Trading Solutions"
 ---
 <article class="post-listing post-26146 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-buyers tag-darknet tag-decentralized tag-solutions tag-switching tag-trading tag-vendors">

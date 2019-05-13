@@ -1,5 +1,5 @@
 ---
-Tor Dev. Talks About WhatsApp Brazil Blockage
+Tor Dev. Talks About WhatsApp Brazil Blockage"
 ---
 <article class="post-listing post-14225 post type-post status-publish format-standard hentry category-news tag-blockage tag-brazil tag-dev tag-talks  tag-whatsapp">
     <div class="post-inner">

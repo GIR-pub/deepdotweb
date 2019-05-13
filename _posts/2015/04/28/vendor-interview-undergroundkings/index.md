@@ -1,5 +1,5 @@
 ---
-Vendor Interview: UnderGroundKings
+Vendor Interview: UnderGroundKings"
 ---
 <article class="post-listing post-9665 post type-post status-publish format-standard has-post-thumbnail hentry  tag-interview tag-undergroundkings tag-vendor">
     <div class="post-inner">

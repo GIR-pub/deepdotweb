@@ -1,5 +1,5 @@
 ---
-One Auction Bidder Claimed The 30,000 Silk Road Bitcoins
+One Auction Bidder Claimed The 30,000 Silk Road Bitcoins"
 ---
 <article class="post-listing post-6308 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1707 tag-auction tag-bidder tag-claimed 
     <div class="post-inner">

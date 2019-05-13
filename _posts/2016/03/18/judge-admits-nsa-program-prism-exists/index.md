@@ -1,5 +1,5 @@
 ---
-Judge Admits That NSA Program &#8216;PRISM&#8217; Exists
+Judge Admits That NSA Program &#8216;PRISM&#8217; Exists"
 ---
 <article class="post-listing post-13511 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admits tag-exists tag-judge tag-nsa tag-prism tag-program">
     <div class="post-inner">

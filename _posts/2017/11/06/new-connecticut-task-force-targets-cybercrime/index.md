@@ -1,5 +1,5 @@
 ---
-New Connecticut Task Force Targets Cybercrime
+New Connecticut Task Force Targets Cybercrime"
 ---
 <article class="post-listing post-23411 post type-post status-publish format-standard has-post-thumbnail hentry  tag-connecticut tag-cybercrime tag-force tag-targets tag-task">
     

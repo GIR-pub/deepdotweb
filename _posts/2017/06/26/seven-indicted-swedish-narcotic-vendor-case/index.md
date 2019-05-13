@@ -1,5 +1,5 @@
 ---
-Seven Indicted In Swedish Narcotic Vendor Case
+Seven Indicted In Swedish Narcotic Vendor Case"
 ---
 <article class="post-listing post-20910 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-indicted tag-narcotic tag-swedish tag-vendor">
     <div class="post-inner">

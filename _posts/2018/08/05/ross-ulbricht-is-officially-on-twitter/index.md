@@ -1,5 +1,5 @@
 ---
-Ross Ulbricht is Officially on Twitter
+Ross Ulbricht is Officially on Twitter"
 ---
 <article class="post-listing post-26471 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-officially  tag-twitter tag-ulbricht">

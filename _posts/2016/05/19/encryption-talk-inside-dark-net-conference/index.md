@@ -1,5 +1,5 @@
 ---
-Encryption Talk at &#8216;Inside The Dark Net&#8217; Conference
+Encryption Talk at &#8216;Inside The Dark Net&#8217; Conference"
 ---
 <article class="post-listing post-14125 post type-post status-publish format-standard hentry category-news tag-conference tag-dark tag-encryption tag-net tag-talk">
     <div class="post-inner">

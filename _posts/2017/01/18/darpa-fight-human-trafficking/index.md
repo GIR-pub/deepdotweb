@@ -1,5 +1,5 @@
 ---
-DARPA To Fight Against Human Trafficking
+DARPA To Fight Against Human Trafficking"
 ---
 <article class="post-listing post-17578 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darpa tag-fight tag-human tag-trafficking">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Want to know what&#8217;s going on? Here&#8217;s what we know. Facts and Theories.
+Want to know what&#8217;s going on? Here&#8217;s what we know. Facts and Theories."
 ---
 post-2871
 

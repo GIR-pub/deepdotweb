@@ -1,5 +1,5 @@
 ---
-How Bitcoin Could Revolutionize the Payments Landscape in Africa
+How Bitcoin Could Revolutionize the Payments Landscape in Africa"
 ---
 <article class="post-listing post-12970 post type-post status-publish format-standard has-post-thumbnail hentry  tag-africa tag-bitcoin tag-landscape tag-payments tag-revolutionize">
     <div class="post-inner">

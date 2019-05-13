@@ -1,5 +1,5 @@
 ---
-EU Approves New Data Protection Rules
+EU Approves New Data Protection Rules"
 ---
 <article class="post-listing post-13856 post type-post status-publish format-standard has-post-thumbnail hentry  tag-approves tag-data tag-eu tag-protection tag-rules">
     <div class="post-inner">

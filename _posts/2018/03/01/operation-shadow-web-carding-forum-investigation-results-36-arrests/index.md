@@ -1,5 +1,5 @@
 ---
-Operation Shadow Web Carding Forum Investigation Results in 36 Arrests
+Operation Shadow Web Carding Forum Investigation Results in 36 Arrests"
 ---
 <article class="post-listing post-24913 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-6322 tag-carding tag-forum tag-investigation tag-operation tag-results tag-shadow tag-web">

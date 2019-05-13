@@ -1,5 +1,5 @@
 ---
-Mobile phones and Bitcoin adoption in Africa
+Mobile phones and Bitcoin adoption in Africa"
 ---
 <article class="post-listing post-7149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-adoption tag-africa tag-bitcoin tag-mobile tag-phones">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Connecticut Man Found Child Pornography on the Darkweb and Shared it on Omegle
+Connecticut Man Found Child Pornography on the Darkweb and Shared it on Omegle"
 ---
 <article class="post-listing post-18066 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

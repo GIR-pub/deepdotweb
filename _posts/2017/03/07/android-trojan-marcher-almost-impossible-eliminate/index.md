@@ -1,5 +1,5 @@
 ---
-Android Trojan “Marcher” Almost Impossible to Eliminate
+Android Trojan “Marcher” Almost Impossible to Eliminate"
 ---
 <article class="post-listing post-18480 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-android tag-eliminate tag-impossible tag-marcher tag-trojan">

@@ -1,5 +1,5 @@
 ---
-Bitcoin price analysis 14th October
+Bitcoin price analysis 14th October"
 ---
 <article class="post-listing post-11762 post type-post status-publish format-standard has-post-thumbnail hentry  tag-14th tag-analysis tag-bitcoin tag-october tag-price">
 <div class="post-inner">

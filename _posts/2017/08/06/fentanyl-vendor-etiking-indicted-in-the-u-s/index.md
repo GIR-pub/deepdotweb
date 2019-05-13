@@ -1,5 +1,5 @@
 ---
-Fentanyl Vendor Etiking Indicted In The U.S.
+Fentanyl Vendor Etiking Indicted In The U.S."
 ---
 <article class="post-listing post-21763 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-A ransomware master known as “Pornopoker” was arrested in Russia
+A ransomware master known as “Pornopoker” was arrested in Russia"
 ---
 <article class="post-listing post-16901 post type-post status-publish format-standard has-post-thumbnail hentry  tag-master tag-pornopoker tag-ransomware tag-russia">
     <div class="post-inner">

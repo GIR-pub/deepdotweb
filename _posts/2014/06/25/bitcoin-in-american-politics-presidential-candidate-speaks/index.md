@@ -1,5 +1,5 @@
 ---
-Bitcoin in American Politics: Presidential Candidate Speaks
+Bitcoin in American Politics: Presidential Candidate Speaks"
 ---
 <article class="post-listing post-6149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-interview tag-presiden">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-International Law Enforcement Gathered to Share Concerns About Bitcoin and Money Laundering
+International Law Enforcement Gathered to Share Concerns About Bitcoin and Money Laundering"
 ---
 <article class="post-listing post-17991 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-concerns tag-enforcement tag-gathered tag-international tag-laundering tag-law tag-money tag-share">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Oregon Dream Vendor Busted for Fentanyl Importation
+Oregon Dream Vendor Busted for Fentanyl Importation"
 ---
 <article class="post-listing post-23876 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-dream tag-fentanyl tag-importation tag-oregon tag-vendor">
     <div class="post-inner">

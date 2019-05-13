@@ -1,5 +1,5 @@
 ---
-Independence Day: A Time for Unquestioned Nationalism
+Independence Day: A Time for Unquestioned Nationalism"
 ---
 <article class="post-listing post-6331 post type-post status-publish format-standard has-post-thumbnail hentry  tag-day tag-independence tag-nationalism tag-time tag-unquestioned">
     <div class="post-inner">

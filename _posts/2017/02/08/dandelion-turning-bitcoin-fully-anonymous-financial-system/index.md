@@ -1,5 +1,5 @@
 ---
-Dandelion &#8211; Turning Bitcoin Into A Fully Anonymous Financial System
+Dandelion &#8211; Turning Bitcoin Into A Fully Anonymous Financial System"
 ---
 <article class="post-listing post-18036 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-bitcoin tag-dandelion tag-financial tag-fully tag-system tag-turning">
     <div class="post-inner">

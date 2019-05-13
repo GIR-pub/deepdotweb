@@ -1,5 +1,5 @@
 ---
-How Ad Trackers Make Cryptocurrency Transactions Less Private
+How Ad Trackers Make Cryptocurrency Transactions Less Private"
 ---
 <article class="post-listing post-22424 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-ad tag-cryptocurrency tag-private tag-trackers tag-transactions">

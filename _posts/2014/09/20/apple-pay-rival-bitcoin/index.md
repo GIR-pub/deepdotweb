@@ -1,5 +1,5 @@
 ---
-Apple Pay, a Rival to Bitcoin?
+Apple Pay, a Rival to Bitcoin?"
 ---
 <article class="post-listing post-7114 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apple tag-bitcoin tag-pay tag-rival">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-A Bitcoin Framework For Sending Bitcoins Using Low-end Mobile Phones
+A Bitcoin Framework For Sending Bitcoins Using Low-end Mobile Phones"
 ---
 <article class="post-listing post-18300 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-framework tag-lowend tag-mobile tag-phones tag-sending">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Bitcoin has Transformed From Darknet Money into Digital Gold
+Bitcoin has Transformed From Darknet Money into Digital Gold"
 ---
 <article class="post-listing post-18148 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-darknet tag-digital tag-gold tag-money tag-transformed">
     <div class="post-inner">

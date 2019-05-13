@@ -1,5 +1,5 @@
 ---
-Chemical Love Leader Sentenced to 15 Years in Prison
+Chemical Love Leader Sentenced to 15 Years in Prison"
 ---
 <article class="post-listing post-20836 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1886 tag-chemical tag-leader tag-love tag-prison tag-sentenced tag-years">
     <div class="post-inner">

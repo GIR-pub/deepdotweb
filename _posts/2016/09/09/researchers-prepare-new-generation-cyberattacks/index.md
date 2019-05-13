@@ -1,5 +1,5 @@
 ---
-Researchers Prepare for a New Generation of Cyberattacks
+Researchers Prepare for a New Generation of Cyberattacks"
 ---
 <article class="post-listing post-15378 post type-post status-publish format-standard has-post-thumbnail hentry  tag-building tag-cyberattacks tag-generation tag-prepare tag-researchers 
     <div class="post-inner">

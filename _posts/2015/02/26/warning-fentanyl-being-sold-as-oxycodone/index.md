@@ -1,5 +1,5 @@
 ---
-Warning: Fentanyl Being Sold As Oxycodone
+Warning: Fentanyl Being Sold As Oxycodone"
 ---
 <article class="post-listing post-9324 post type-post status-publish format-standard hentry category-news tag-fentanyl tag-oxycodone  
 <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-PSA: Implemented HTTPS, TLS &#038; HSTS
+PSA: Implemented HTTPS, TLS &#038; HSTs"
 ---
 <article class="post-listing post-10632 post type-post status-publish format-standard hentry category-news tag-hsts tag-https tag-implemented tag-psa tag-tls">
     <div class="post-inner">

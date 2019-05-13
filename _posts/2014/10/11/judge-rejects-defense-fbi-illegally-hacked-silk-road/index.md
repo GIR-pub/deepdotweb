@@ -1,5 +1,5 @@
 ---
-Judge Rejects Defense That FBI Illegally Hacked Silk Road
+Judge Rejects Defense That FBI Illegally Hacked Silk Road"
 ---
 <article class="post-listing post-7356 post type-post status-publish format-standard has-post-thumbnail hentry  tag-defense tag-hacked tag-illegally tag-judge tag-rejects 
     <div class="post-inner">

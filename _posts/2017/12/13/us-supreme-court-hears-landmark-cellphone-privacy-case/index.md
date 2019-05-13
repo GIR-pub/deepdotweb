@@ -1,5 +1,5 @@
 ---
-US Supreme Court Hears Landmark Cellphone Privacy Case
+US Supreme Court Hears Landmark Cellphone Privacy Case"
 ---
 <article class="post-listing post-23890 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-cellphone tag-court tag-hears tag-landmark tag-privacy tag-supreme">
     <div class="post-inner">

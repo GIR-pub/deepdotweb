@@ -1,5 +1,5 @@
 ---
-Roger Clark Suspected Silk Road&#8217;s &#8220;Variety Jones&#8221;, arrested in Koh Chang
+Roger Clark Suspected Silk Road&#8217;s &#8220;Variety Jones&#8221;, arrested in Koh Chang"
 ---
 <article class="post-listing post-12470 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chang tag-clark tag-jones tag-koh tag-roads tag-roger tag-suspected tag-variety">
 <div class="post-inner">

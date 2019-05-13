@@ -1,5 +1,5 @@
 ---
-Florida Pedophile Busted by Undercover Cop on Kik
+Florida Pedophile Busted by Undercover Cop on Kik"
 ---
 <article class="post-listing post-25184 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-busted tag-cop tag-florida tag-kik tag-pedophile tag-undercover">

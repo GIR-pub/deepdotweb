@@ -1,5 +1,5 @@
 ---
-Trial Set for Utah Man Accused of Running Darknet Drug Trade
+Trial Set for Utah Man Accused of Running Darknet Drug Trade"
 ---
 <article class="post-listing post-25084 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-accused tag-darknet tag-man tag-running tag-set tag-trade tag-trial tag-utah">

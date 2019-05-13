@@ -1,5 +1,5 @@
 ---
-Basic guide to PGP on Tails
+Basic guide to PGP on Tails"
 ---
 <article class="post-listing post-23197 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-basic tag-guide tag-pgp tag-tails">

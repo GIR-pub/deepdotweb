@@ -1,5 +1,5 @@
 ---
-Suspect Spreading Philadelphia Ransomware Identified
+Suspect Spreading Philadelphia Ransomware Identified"
 ---
 <article class="post-listing post-18976 post type-post status-publish format-standard has-post-thumbnail hentry  tag-identified tag-philadelphia tag-ransomware tag-spreading tag-suspect">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-470 BTC Stolen in a Nearly Buried 2015 Drug Case
+470 BTC Stolen in a Nearly Buried 2015 Drug Case"
 ---
 <article class="post-listing post-20004 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-5455 tag-buried tag-case tag-stolen">
     <div class="post-inner">

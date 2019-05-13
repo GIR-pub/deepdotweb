@@ -1,5 +1,5 @@
 ---
-Planning a Leak? Chat With WikiLeaks Via a New Tor Hidden Service
+Planning a Leak? Chat With WikiLeaks Via a New Tor Hidden Service"
 ---
 <article class="post-listing post-10067 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chat tag-leak tag-planning  tag-wikileaks">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-New York State Police Gets FinCEN award for Dark Web and Bitcoin Investigation
+New York State Police Gets FinCEN award for Dark Web and Bitcoin Investigation"
 ---
 <article class="post-listing post-14227 post type-post status-publish format-standard has-post-thumbnail hentry  tag-award tag-bitcoin tag-dark tag-fincen tag-investigation tag-police tag-state tag-web tag-york">
     <div class="post-inner">

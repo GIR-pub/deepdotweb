@@ -1,5 +1,5 @@
 ---
-L2TP vs OpenVPN. The Ultimate Battle
+L2TP vs OpenVPN. The Ultimate Battle"
 ---
 <article class="post-listing post-11627 post type-post status-publish format-standard has-post-thumbnail hentry  tag-battle tag-l2tp tag-openvpn tag-ultimate">
 <div class="post-inner">

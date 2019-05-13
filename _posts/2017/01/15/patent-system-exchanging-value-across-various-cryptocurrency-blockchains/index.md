@@ -1,5 +1,5 @@
 ---
-Patent &#8211; A System For Exchanging Value Across Various Cryptocurrency Blockchains
+Patent &#8211; A System For Exchanging Value Across Various Cryptocurrency Blockchains"
 ---
 <article class="post-listing post-17535 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchains tag-cryptocurrency tag-exchanging tag-patent tag-system">
     <div class="post-inner">

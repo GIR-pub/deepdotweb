@@ -1,5 +1,5 @@
 ---
-Three More Reasons to Keep JavaScript off in Tor
+Three More Reasons to Keep JavaScript off in Tor"
 ---
 <article class="post-listing post-20226 post type-post status-publish format-standard has-post-thumbnail hentry  tag-javascript tag-reasons 
     <div class="post-inner">

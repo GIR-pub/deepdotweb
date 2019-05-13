@@ -1,5 +1,5 @@
 ---
-Busted Arms Dealer described to be in the “Premier League” of Arms Dealing
+Busted Arms Dealer described to be in the “Premier League” of Arms Dealing"
 ---
 <article class="post-listing post-22864 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-arms tag-busted tag-dealing tag-league tag-premier">

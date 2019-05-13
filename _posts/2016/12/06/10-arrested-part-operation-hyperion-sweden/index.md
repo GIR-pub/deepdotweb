@@ -1,5 +1,5 @@
 ---
-10 Arrested As Part Of Operation Hyperion In Sweden
+10 Arrested As Part Of Operation Hyperion In Sweden"
 ---
 <article class="post-listing post-16782 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-hyperion tag-operation tag-sweden">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Cantina Marketplace PWND: Admin Password was: &#8220;Password1&#8221; ?!
+Cantina Marketplace PWND: Admin Password was: &#8220;Password1&#8221; ?!"
 ---
 <article class="post-listing post-3716 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-cantina tag-password tag-password1">
     <div class="post-inner">

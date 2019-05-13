@@ -1,5 +1,5 @@
 ---
-German Couple Sentenced For Fraud And Drug Possession
+German Couple Sentenced For Fraud And Drug Possession"
 ---
 <article class="post-listing post-18570 post type-post status-publish format-standard has-post-thumbnail hentry 
 

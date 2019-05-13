@@ -1,5 +1,5 @@
 ---
-PGP Tutorial For Newbs Gpg4usb
+PGP Tutorial For Newbs Gpg4usb"
 ---
 <article class="post-listing post-9525 post type-post status-publish format-standard has-post-thumbnail hentry  tag-gpg4usb tag-newbs tag-pgp tag-tutorial">
     <div class="post-inner">

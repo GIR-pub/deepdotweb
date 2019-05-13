@@ -1,5 +1,5 @@
 ---
-A Brief Comparison of Secure Messaging Apps
+A Brief Comparison of Secure Messaging Apps"
 ---
 <article class="post-listing post-14550 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apps tag-comparison tag-messaging tag-secure">
     

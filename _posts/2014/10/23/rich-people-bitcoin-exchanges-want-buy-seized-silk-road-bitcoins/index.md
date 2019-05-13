@@ -1,5 +1,5 @@
 ---
-Why Did Rich People &#038; BTC Exchanges Want To Buy The Seized SR Coins?
+Why Did Rich People &#038; BTC Exchanges Want To Buy The Seized SR Coins?"
 ---
 <article class="post-listing post-6847 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-buy tag-exchanges tag-people tag-rich tag-seized 
     <div class="post-inner">

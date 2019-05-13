@@ -1,5 +1,5 @@
 ---
-Today&#8217;s Opioid Culture
+Today&#8217;s Opioid Culture"
 ---
 <article class="post-listing post-10975 post type-post status-publish format-standard has-post-thumbnail hentry  tag-culture tag-opioid tag-todays">
     <div class="post-inner">

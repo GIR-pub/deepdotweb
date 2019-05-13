@@ -1,5 +1,5 @@
 ---
-12 Things to Do While Your Market Is Down!
+12 Things to Do While Your Market Is Down!"
 ---
 <article class="post-listing post-9640 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-market">
 <div class="post-inner">

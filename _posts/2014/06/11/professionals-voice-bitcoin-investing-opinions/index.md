@@ -1,5 +1,5 @@
 ---
-Professionals Voice: Bitcoin Investing Opinions
+Professionals Voice: Bitcoin Investing Opinions"
 ---
 <article class="post-listing post-5960 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-investing tag-opinions tag-professionals tag-voice">
     <div class="post-inner">

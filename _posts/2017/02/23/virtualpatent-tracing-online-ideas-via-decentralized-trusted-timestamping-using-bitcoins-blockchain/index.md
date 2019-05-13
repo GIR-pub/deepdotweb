@@ -1,5 +1,5 @@
 ---
-VirtualPatent &#8211; Tracing Online Ideas Via Decentralized Trusted Timestamping Using Bitcoin&#8217;s Blockchain
+VirtualPatent &#8211; Tracing Online Ideas Via Decentralized Trusted Timestamping Using Bitcoin&#8217;s Blockchain"
 ---
 <article class="post-listing post-18298 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-decentralized tag-ideas tag-timestamping tag-tracing tag-trusted tag-virtualpatent">
     <div class="post-inner">

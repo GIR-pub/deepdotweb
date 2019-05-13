@@ -1,5 +1,5 @@
 ---
-UK Might Use Drones in Retaliation to Cyberattacks
+UK Might Use Drones in Retaliation to Cyberattacks"
 ---
 <article class="post-listing post-21360 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cyberattacks tag-drones tag-retaliation tag-uk">
     <div class="post-inner">

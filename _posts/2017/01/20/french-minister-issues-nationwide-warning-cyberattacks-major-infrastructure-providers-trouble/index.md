@@ -1,5 +1,5 @@
 ---
-French Minister Issues Nationwide Warning on Cyberattacks, Major Infrastructure Providers in Trouble
+French Minister Issues Nationwide Warning on Cyberattacks, Major Infrastructure Providers in Trouble"
 ---
 <article class="post-listing post-17624 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cyberattacks tag-french tag-infrastructure s tag-major tag-minister tag-nationwide tag-providers tag-trouble 
     <div class="post-inner">

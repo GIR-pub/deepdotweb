@@ -1,5 +1,5 @@
 ---
-Interview With German-Plaza Admin
+Interview With German-Plaza Admin"
 ---
 <article class="post-listing post-11899 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-germanplaza tag-interview">
     <div class="post-inner">

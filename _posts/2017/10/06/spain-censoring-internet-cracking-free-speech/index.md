@@ -1,5 +1,5 @@
 ---
-Spain Censoring the Internet, Cracking Down on Free Speech
+Spain Censoring the Internet, Cracking Down on Free Speech"
 ---
 <article class="post-listing post-22955 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-censoring tag-cracking tag-free tag-internet tag-spain tag-speech">

@@ -1,5 +1,5 @@
 ---
-Censorship of Mobile Money in Uganda: Why Bitcoin Matters
+Censorship of Mobile Money in Uganda: Why Bitcoin Matters"
 ---
 <article class="post-listing post-13394 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-censorship tag-matters tag-mobile tag-money tag-uganda">
     <div class="post-inner">

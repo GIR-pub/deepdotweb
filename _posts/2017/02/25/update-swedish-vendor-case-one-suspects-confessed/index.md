@@ -1,5 +1,5 @@
 ---
-Update In Swedish Vendor Case: One Of The Suspects Confessed
+Update In Swedish Vendor Case: One Of The Suspects Confessed"
 ---
 <article class="post-listing post-18329 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-confessed tag-suspects tag-swedish tag-update tag-vendor">
     <div class="post-inner">

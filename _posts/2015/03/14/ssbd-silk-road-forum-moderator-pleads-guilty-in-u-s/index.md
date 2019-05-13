@@ -1,5 +1,5 @@
 ---
-SSBD, Silk Road Forum Moderator, Pleads Guilty in U.S.
+SSBD, Silk Road Forum Moderator, Pleads Guilty in U.S."
 ---
 <article class="post-listing post-9473 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-forum tag-guilty tag-moderator tag-pleads tag-ssbd">
 <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-In-depth Guide to Tails + Persistence
+In-depth Guide to Tails + Persistence"
 ---
 <article class="post-listing post-9443 post type-post status-publish format-standard has-post-thumbnail hentry  tag-guide tag-indepth tag-persistence tag-tails">
     <div class="post-inner">

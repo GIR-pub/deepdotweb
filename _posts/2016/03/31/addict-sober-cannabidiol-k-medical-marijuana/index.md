@@ -1,5 +1,5 @@
 ---
-From Being an Addict to Sober: Cannabidiol a.k.a. Medical Marijuana
+From Being an Addict to Sober: Cannabidiol a.k.a. Medical Marijuana"
 ---
 <article class="post-listing post-13612 post type-post status-publish format-standard has-post-thumbnail hentry  tag-addict tag-aka tag-cannabidiol tag-marijuana tag-medical tag-sober">
     <div class="post-inner">

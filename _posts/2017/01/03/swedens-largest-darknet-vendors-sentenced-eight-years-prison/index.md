@@ -1,5 +1,5 @@
 ---
-Sweden’s Largest Darknet Vendors Sentenced to Eight Years in Prison
+Sweden’s Largest Darknet Vendors Sentenced to Eight Years in Prison"
 ---
 <article class="post-listing post-17290 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-largest tag-prison tag-sentenced tag-swedens tag-vendors tag-years">
     <div class="post-inner">

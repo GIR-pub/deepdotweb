@@ -1,5 +1,5 @@
 ---
-Amazon Demands Signal Stop Using Anti-Censorship Technique on Their Content Delivery Network
+Amazon Demands Signal Stop Using Anti-Censorship Technique on Their Content Delivery Network"
 ---
 <article class="post-listing post-25684 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-amazon tag-anticensorship tag-content tag-delivery tag-demands tag-network tag-signal tag-stop tag-technique">

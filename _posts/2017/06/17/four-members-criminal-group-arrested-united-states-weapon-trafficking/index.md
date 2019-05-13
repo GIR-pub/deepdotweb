@@ -1,5 +1,5 @@
 ---
-Four Members Of Criminal Group Arrested In The United States For Weapon Trafficking
+Four Members Of Criminal Group Arrested In The United States For Weapon Trafficking"
 ---
 <article class="post-listing post-20695 post type-post status-publish format-standard has-post-thumbnail hentry  tag-criminal tag-group tag-members tag-states tag-trafficking tag-united tag-weapon">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Gladstone Man Facing Jail For Possessing Ice
+Gladstone Man Facing Jail For Possessing Ice"
 ---
 <article class="post-listing post-13152 post type-post status-publish format-standard has-post-thumbnail hentry  tag-facing tag-gladstone tag-ice tag-man tag-possessing">
     <div class="post-inner">

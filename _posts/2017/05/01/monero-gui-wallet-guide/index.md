@@ -1,5 +1,5 @@
 ---
-Monero GUI Wallet Guide
+Monero GUI Wallet Guide"
 ---
 <article class="post-listing post-19529 post type-post status-publish format-standard has-post-thumbnail hentry  tag-gui tag-guide tag-monero tag-wallet">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Russia Investigates an Online Drug Trafficking Ring
+Russia Investigates an Online Drug Trafficking Ring"
 ---
 <article class="post-listing post-20944 post type-post status-publish format-standard has-post-thumbnail hentry  tag-investigates tag-ring tag-russia tag-trafficking">
     <div class="post-inner">

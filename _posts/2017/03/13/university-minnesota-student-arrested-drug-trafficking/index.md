@@ -1,5 +1,5 @@
 ---
-University Of Minnesota Student Arrested For Drug Trafficking
+University Of Minnesota Student Arrested For Drug Trafficking"
 ---
 <article class="post-listing post-18593 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-minnesota tag-student tag-trafficking tag-university">

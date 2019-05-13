@@ -1,5 +1,5 @@
 ---
-Prosecutors in Norway Want Silk Road Vendors’ Bitcoin
+Prosecutors in Norway Want Silk Road Vendors’ Bitcoin"
 ---
 <article class="post-listing post-18990 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-norway tag-prosecutors tag-vendors">
     <div class="post-inner">

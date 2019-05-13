@@ -1,5 +1,5 @@
 ---
-On the Topic of the DoJ’s Operation Pacifier Acquittal
+On the Topic of the DoJ’s Operation Pacifier Acquittal"
 ---
 <article class="post-listing post-20078 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acquittal tag-dojs tag-operation tag-pacifier tag-topic">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-176 Investigations Started In Sweden, Operation Hyperion
+176 Investigations Started In Sweden, Operation Hyperion"
 ---
 <article class="post-listing post-17348 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4783 tag-hyperion tag-investigations tag-norway tag-operation tag-started">
     <div class="post-inner">

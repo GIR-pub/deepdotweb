@@ -1,5 +1,5 @@
 ---
-The Balance Attack &#8211; A Novel Type of Attack Against PoW Blockchains
+The Balance Attack &#8211; A Novel Type of Attack Against PoW Blockchains"
 ---
 <article class="post-listing post-17784 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attack tag-balance tag-blockchains tag-pow tag-type">
     <div class="post-inner">

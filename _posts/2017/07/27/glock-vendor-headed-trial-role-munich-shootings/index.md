@@ -1,5 +1,5 @@
 ---
-Glock Vendor Headed to Trial for Role in Munich Shootings
+Glock Vendor Headed to Trial for Role in Munich Shootings"
 ---
 <article class="post-listing post-21582 post type-post status-publish format-standard has-post-thumbnail hentry  tag-glock tag-headed tag-munich tag-role tag-shootings tag-trial tag-vendor">
     <div class="post-inner">

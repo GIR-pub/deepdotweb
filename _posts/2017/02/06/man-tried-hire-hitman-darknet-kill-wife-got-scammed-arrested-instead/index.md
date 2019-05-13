@@ -1,5 +1,5 @@
 ---
-Man Tried to Hire a Hitman on the Darknet to Kill His Wife but Got Scammed and Arrested Instead
+Man Tried to Hire a Hitman on the Darknet to Kill His Wife but Got Scammed and Arrested Instead"
 ---
 <article class="post-listing post-17999 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-hire tag-hitman tag-kill tag-man tag-scammed tag-wife">
     <div class="post-inner">

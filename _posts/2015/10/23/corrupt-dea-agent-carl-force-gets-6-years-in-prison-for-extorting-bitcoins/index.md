@@ -1,5 +1,5 @@
 ---
-Corrupt DEA Agent Carl Force Gets 6 Years In Prison For Extorting Bitcoins
+Corrupt DEA Agent Carl Force Gets 6 Years In Prison For Extorting Bitcoins"
 ---
 <article class="post-listing post-11842 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agent tag-carl tag-corrupt tag-dea tag-extorting tag-force tag-prison tag-years">
 <div class="post-inner">

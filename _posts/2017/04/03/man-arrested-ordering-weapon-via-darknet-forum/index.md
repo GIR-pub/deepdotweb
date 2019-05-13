@@ -1,5 +1,5 @@
 ---
-Man Arrested After Ordering Weapon via Darknet Forum
+Man Arrested After Ordering Weapon via Darknet Forum"
 ---
 <article class="post-listing post-18986 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-forum tag-man tag-ordering tag-weapon">
     <div class="post-inner">

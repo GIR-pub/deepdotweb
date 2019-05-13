@@ -1,5 +1,5 @@
 ---
-High-profile Government Websites Hacked for Dark web Cryptocurrency.
+High-profile Government Websites Hacked for Dark web Cryptocurrency."
 ---
 <article class="post-listing post-24927 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-cryptocurrency tag-dark tag-government tag-hacked tag-highprofile tag-web tag-websites">

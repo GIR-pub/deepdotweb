@@ -1,5 +1,5 @@
 ---
-Simple TAILS Installation
+Simple TAILS Installation"
 ---
 <article class="post-listing post-5983 post type-post status-publish format-standard has-post-thumbnail hentry  tag-installation tag-simple tag-tails">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-A Gang that Used the Dark Web to Supply Drugs Busted.
+A Gang that Used the Dark Web to Supply Drugs Busted."
 ---
 <article class="post-listing post-26341 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-busted tag-dark tag-gang tag-supply tag-web">

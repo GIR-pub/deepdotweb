@@ -1,5 +1,5 @@
 ---
-Only 0.5 Percent of Darknet Market Listings are for Firearms, Study Shows
+Only 0.5 Percent of Darknet Market Listings are for Firearms, Study Shows"
 ---
 <article class="post-listing post-21747 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-firearms tag-listings tag-percent tag-shows tag-study">
     <div class="post-inner">

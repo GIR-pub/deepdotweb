@@ -1,5 +1,5 @@
 ---
-TheRealDeal: This Long-Dead Market Was Just Relaunched!
+TheRealDeal: This Long-Dead Market Was Just Relaunched!"
 ---
 <article class="post-listing post-12411 post type-post status-publish format-standard has-post-thumbnail hentry  tag-longdead tag-relaunched tag-therealdeal">
     <div class="post-inner">

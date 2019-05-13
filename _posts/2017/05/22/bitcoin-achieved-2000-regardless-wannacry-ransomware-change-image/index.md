@@ -1,5 +1,5 @@
 ---
-Bitcoin Achieved $2,000, Regardless of WannaCry Ransomware, Change of Image?
+Bitcoin Achieved $2,000, Regardless of WannaCry Ransomware, Change of Image?"
 ---
 <article class="post-listing post-20148 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4231 tag-achieved tag-bitcoin tag-change tag-image tag-ransomware tag-wannacry">
     <div class="post-inner">

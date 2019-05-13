@@ -1,5 +1,5 @@
 ---
-Recent DDoS Attack Sparks Consumer Need for IoT Protection
+Recent DDoS Attack Sparks Consumer Need for IoT Protection"
 ---
 <article class="post-listing post-16346 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attack tag-consumer tag-ddos tag-iot tag-protection tag-sparks">
     <div class="post-inner">

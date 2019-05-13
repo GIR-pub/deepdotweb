@@ -1,5 +1,5 @@
 ---
-Ether Price Plummets &#8211; What Happened?
+Ether Price Plummets &#8211; What Happened?"
 ---
 <article class="post-listing post-11294 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ether tag-happened tag-plummets tag-price">
 <div class="post-inner">

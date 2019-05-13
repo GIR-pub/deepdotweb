@@ -1,5 +1,5 @@
 ---
-Irish Gardaí To Set Up Darknet Special Squad
+Irish Gardaí To Set Up Darknet Special Squad"
 ---
 <article class="post-listing post-11389 post type-post status-publish format-standard hentry category-news">
 <div class="post-inner">

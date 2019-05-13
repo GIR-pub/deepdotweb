@@ -1,5 +1,5 @@
 ---
-Authorities Bust Bloomsfield Market Owner in Slovakia
+Authorities Bust Bloomsfield Market Owner in Slovakia"
 ---
 <article class="post-listing post-19711 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authorities tag-bloomsfield tag-bust tag-owner tag-slovakia">
     

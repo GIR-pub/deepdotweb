@@ -1,5 +1,5 @@
 ---
-title: "The Silk Road 2.0 Tales &#038; Psy-Ops!
+title: "The Silk Road 2.0 Tales &#038; Psy-Ops!"
 ---
 2904 tag-psyops 
 

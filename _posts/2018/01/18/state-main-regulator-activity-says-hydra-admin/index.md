@@ -1,5 +1,5 @@
 ---
-“State is the main regulator of our activity” – says Hydra admin
+“State is the main regulator of our activity” – says Hydra admin"
 ---
 <article class="post-listing post-24470 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-activity tag-admin tag-hydra tag-main tag-regulator tag-state">

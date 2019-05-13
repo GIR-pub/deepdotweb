@@ -1,5 +1,5 @@
 ---
-Can the blockchain technology disrupt the online gaming sector?
+Can the blockchain technology disrupt the online gaming sector?"
 ---
 <article class="post-listing post-20190 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-disrupt tag-gaming tag-sector tag-technology">
     <div class="post-inner">

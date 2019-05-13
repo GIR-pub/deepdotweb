@@ -1,5 +1,5 @@
 ---
-Bitcoin Price Analysis 22nd October
+Bitcoin Price Analysis 22nd October"
 ---
 <article class="post-listing post-11827 post type-post status-publish format-standard has-post-thumbnail hentry  tag-22nd tag-analysis tag-bitcoin tag-october tag-price">
 <div class="post-inner">

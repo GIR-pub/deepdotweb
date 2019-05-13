@@ -1,5 +1,5 @@
 ---
-Vendor &#8220;Dr Ropata&#8221;: The PsyOps I was Subjected To
+Vendor &#8220;Dr Ropata&#8221;: The PsyOps I was Subjected To"
 ---
 <article class="post-listing post-11851 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dr tag-psyops tag-ropata tag-subjected tag-vendor">
 <div class="post-inner">

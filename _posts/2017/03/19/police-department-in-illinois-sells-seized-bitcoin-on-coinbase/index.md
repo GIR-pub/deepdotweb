@@ -1,5 +1,5 @@
 ---
-Police Department in Illinois Sells Seized Bitcoin on Coinbase
+Police Department in Illinois Sells Seized Bitcoin on Coinbase"
 ---
 <article class="post-listing post-18685 post type-post status-publish format-standard has-post-thumbnail hentry 
 

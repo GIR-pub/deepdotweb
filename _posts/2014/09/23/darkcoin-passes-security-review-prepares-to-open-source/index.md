@@ -1,5 +1,5 @@
 ---
-Darkcoin Passes Security Review &#8211; Prepares to Open Source
+Darkcoin Passes Security Review &#8211; Prepares to Open Source"
 ---
 <article class="post-listing post-7194 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkcoin tag-open tag-passes tag-prepares tag-security tag-source">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Using Cryptocurrencies To Regulate The Deep Web
+Using Cryptocurrencies To Regulate The Deep Web"
 ---
 <article class="post-listing post-18367 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptocurrencies tag-deep tag-regulate tag-web">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-Pennsylvania Grand Jury Indicts an Alphabay Carfentanil Vendor
+Pennsylvania Grand Jury Indicts an Alphabay Carfentanil Vendor"
 ---
 <article class="post-listing post-22113 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-alphabay tag-carfentanil tag-grand tag-indicts tag-jury tag-pennsylvania tag-vendor">

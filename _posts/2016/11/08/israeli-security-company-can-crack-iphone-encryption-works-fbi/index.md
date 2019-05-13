@@ -1,5 +1,5 @@
 ---
-Israeli Security Company Can Crack IPhone Encryption and Works with the FBI
+Israeli Security Company Can Crack IPhone Encryption and Works with the FBi"
 ---
 <article class="post-listing post-16317 post type-post status-publish format-standard has-post-thumbnail hentry  tag-company tag-crack tag-encryption tag-iphone tag-israeli tag-security tag-works">
     <div class="post-inner">

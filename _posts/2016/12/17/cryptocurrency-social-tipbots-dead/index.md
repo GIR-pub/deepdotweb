@@ -1,5 +1,5 @@
 ---
-Are Cryptocurrency Social Tipbots Dead?
+Are Cryptocurrency Social Tipbots Dead?"
 ---
 <article class="post-listing post-16967 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptocurrency tag-dead tag-social tag-tipbots">
     <div class="post-inner">

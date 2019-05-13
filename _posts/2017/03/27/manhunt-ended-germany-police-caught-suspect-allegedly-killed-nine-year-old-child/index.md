@@ -1,5 +1,5 @@
 ---
-Manhunt Ended In Germany: Police Caught The Suspect Who Allegedly Killed A Nine-year-old Child
+Manhunt Ended In Germany: Police Caught The Suspect Who Allegedly Killed A Nine-year-old Child"
 ---
 <article class="post-listing post-18815 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-allegedly tag-caught tag-child tag-ended tag-germany tag-killed tag-manhunt tag-nineyearold tag-police tag-suspect">

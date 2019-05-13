@@ -1,5 +1,5 @@
 ---
-Blockchain Technology in Europe: Theory and Practice
+Blockchain Technology in Europe: Theory and Practice"
 ---
 <article class="post-listing post-13534 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-europe tag-practice tag-technology tag-theory">
     <div class="post-inner">

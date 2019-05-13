@@ -1,5 +1,5 @@
 ---
-Customer Arrested After Vendor Used the Wrong Stamps
+Customer Arrested After Vendor Used the Wrong Stamps"
 ---
 <article class="post-listing post-26520 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-customer tag-stamps tag-vendor tag-wrong">

@@ -1,5 +1,5 @@
 ---
-Spanish Police Smash a Bitcoin criminal gang&#8211;11 arrested over money laundering
+Spanish Police Smash a Bitcoin criminal gang&#8211;11 arrested over money laundering"
 ---
 <article class="post-listing post-25441 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-bitcoin tag-criminal tag-gang11 tag-laundering tag-money tag-police tag-smash tag-spanish">

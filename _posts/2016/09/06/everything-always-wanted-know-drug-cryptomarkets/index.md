@@ -1,5 +1,5 @@
 ---
-Everything You Always Wanted to Know About Drug Cryptomarkets
+Everything You Always Wanted to Know About Drug Cryptomarkets"
 ---
 <article class="post-listing post-15362 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptomarkets tag-wanted">
     <div class="post-inner">

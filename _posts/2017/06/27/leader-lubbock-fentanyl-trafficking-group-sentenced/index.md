@@ -1,5 +1,5 @@
 ---
-Leader of Lubbock Fentanyl Trafficking Group Sentenced
+Leader of Lubbock Fentanyl Trafficking Group Sentenced"
 ---
 <article class="post-listing post-20922 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fentanyl tag-group tag-leader tag-lubbock tag-sentenced tag-trafficking">
     <div class="post-inner">

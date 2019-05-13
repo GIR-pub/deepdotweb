@@ -1,5 +1,5 @@
 ---
-Methylone Supplier Charged Under the Kingpin Statute
+Methylone Supplier Charged Under the Kingpin Statute"
 ---
 <article class="post-listing post-21255 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-kingpin tag-methylone tag-statute tag-supplier">
     <div class="post-inner">

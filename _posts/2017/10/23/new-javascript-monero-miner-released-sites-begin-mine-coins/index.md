@@ -1,5 +1,5 @@
 ---
-New JavaScript Monero Miner Released as More Sites Begin to Mine Coins
+New JavaScript Monero Miner Released as More Sites Begin to Mine Coins"
 ---
 <article class="post-listing post-23235 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-coins tag-javascript tag-miner tag-monero tag-released tag-sites">

@@ -1,5 +1,5 @@
 ---
-Alleged Bendigo Gang Leader Arrested, Refused Bail
+Alleged Bendigo Gang Leader Arrested, Refused Bail"
 ---
 <article class="post-listing post-14970 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alleged tag-bail tag-bendigo tag-gang tag-leader tag-refused">
     <div class="post-inner">

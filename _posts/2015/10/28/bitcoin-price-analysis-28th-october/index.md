@@ -1,5 +1,5 @@
 ---
-Bitcoin Price Analysis &#8211; 28th October
+Bitcoin Price Analysis &#8211; 28th October"
 ---
 <article class="post-listing post-11868 post type-post status-publish format-standard has-post-thumbnail hentry  tag-28th tag-analysis tag-bitcoin tag-october tag-price">
 <div class="post-inner">

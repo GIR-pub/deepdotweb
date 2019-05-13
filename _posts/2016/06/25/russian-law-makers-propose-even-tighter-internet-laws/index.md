@@ -1,5 +1,5 @@
 ---
-Russian Law Makers Propose Even Tighter Internet Laws
+Russian Law Makers Propose Even Tighter Internet Laws"
 ---
 <article class="post-listing post-14590 post type-post status-publish format-standard hentry category-news tag-internet tag-law tag-laws tag-makers tag-propose tag-russian tag-tighter">
     <div class="post-inner">

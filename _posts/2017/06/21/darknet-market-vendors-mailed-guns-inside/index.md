@@ -1,5 +1,5 @@
 ---
-Darknet Market Vendors Mailed Guns Inside of DVD Players and Karaoke Machines
+Darknet Market Vendors Mailed Guns Inside of DVD Players and Karaoke Machines"
 ---
 <article class="post-listing post-20776 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

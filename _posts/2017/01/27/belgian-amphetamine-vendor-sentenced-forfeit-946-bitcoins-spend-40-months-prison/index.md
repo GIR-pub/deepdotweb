@@ -1,5 +1,5 @@
 ---
-Belgian Amphetamine Vendor Sentenced to Forfeit 946 Bitcoins and Spend 40 Months in Prison
+Belgian Amphetamine Vendor Sentenced to Forfeit 946 Bitcoins and Spend 40 Months in Prison"
 ---
 <article class="post-listing post-17772 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3727 tag-4903 tag-amphetamine tag-belgian tag-forfeit tag-months tag-prison tag-sentenced tag-spend tag-vendor">
     <div class="post-inner">

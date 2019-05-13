@@ -1,5 +1,5 @@
 ---
-Ross Ulbricht&#8217;s Lawyer Moves To Drop All Charges
+Ross Ulbricht&#8217;s Lawyer Moves To Drop All Charges"
 ---
 <article class="post-listing post-4849 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-drop tag-lawyer tag-moves  tag-ulbrichts">
     <div class="post-inner">

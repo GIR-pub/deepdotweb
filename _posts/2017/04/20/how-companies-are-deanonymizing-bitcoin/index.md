@@ -1,5 +1,5 @@
 ---
-How Companies are Deanonymizing Bitcoin
+How Companies are Deanonymizing Bitcoin"
 ---
 <article class="post-listing post-19289 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-companies tag-deanonymizing">
     <div class="post-inner">

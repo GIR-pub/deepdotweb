@@ -1,5 +1,5 @@
 ---
-Here’s some tips for using Signal as safely as possible
+Here’s some tips for using Signal as safely as possible"
 ---
 <article class="post-listing post-14751 post type-post status-publish format-standard has-post-thumbnail hentry  tag-signal tag-tips">
     <div class="post-inner">

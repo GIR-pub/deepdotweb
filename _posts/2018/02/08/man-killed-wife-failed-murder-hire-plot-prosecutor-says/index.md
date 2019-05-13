@@ -1,5 +1,5 @@
 ---
-Man Killed His Wife After Failed “Murder for Hire” Plot, Prosecutor Says
+Man Killed His Wife After Failed “Murder for Hire” Plot, Prosecutor Says"
 ---
 <article class="post-listing post-24731 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-failed tag-hire tag-killed tag-man tag-murder tag-plot tag-prosecutor tag-wife">

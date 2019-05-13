@@ -1,5 +1,5 @@
 ---
-Quantik USA Busted: $1M worth of Xanax pills seized
+Quantik USA Busted: $1M worth of Xanax pills seized"
 ---
 <article class="post-listing post-12985 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1m tag-busted tag-pills tag-qunatik tag-seized tag-usa tag-worth tag-xanax">
     <div class="post-inner">

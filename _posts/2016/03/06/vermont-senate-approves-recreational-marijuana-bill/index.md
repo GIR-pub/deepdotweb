@@ -1,5 +1,5 @@
 ---
-Vermont Senate Approves Recreational Marijuana Bill
+Vermont Senate Approves Recreational Marijuana Bill"
 ---
 <article class="post-listing post-13367 post type-post status-publish format-standard has-post-thumbnail hentry  tag-approves tag-bill tag-marijuana tag-recreational tag-senate tag-vermont">
     <div class="post-inner">

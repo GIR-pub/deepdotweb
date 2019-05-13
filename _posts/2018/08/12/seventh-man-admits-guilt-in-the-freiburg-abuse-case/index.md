@@ -1,5 +1,5 @@
 ---
-Seventh Man Admits Guilt in the Freiburg Abuse Case
+Seventh Man Admits Guilt in the Freiburg Abuse Case"
 ---
 <article class="post-listing post-26552 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-abuse tag-admits tag-case tag-freiburg tag-guilt tag-man tag-seventh">

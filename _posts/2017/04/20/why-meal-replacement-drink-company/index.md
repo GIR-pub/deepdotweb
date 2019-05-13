@@ -1,5 +1,5 @@
 ---
-Why Meal-Replacement Drink Company Soylent​ is Opening a Dark Web Store
+Why Meal-Replacement Drink Company Soylent​ is Opening a Dark Web Store"
 ---
 <article class="post-listing post-19291 post type-post status-publish format-standard has-post-thumbnail hentry  tag-company tag-dark tag-drink tag-mealreplacement tag-opening tag-soylent tag-store tag-web">
     <div class="post-inner">

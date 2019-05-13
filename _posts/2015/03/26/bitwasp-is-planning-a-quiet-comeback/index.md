@@ -1,5 +1,5 @@
 ---
-Can Bitwasp Make a Comeback? Maybe.
+Can Bitwasp Make a Comeback? Maybe."
 ---
 <article class="post-listing post-9618 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitwasp tag-comeback">
 <div class="post-inner">

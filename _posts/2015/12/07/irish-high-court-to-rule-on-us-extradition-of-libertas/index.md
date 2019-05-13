@@ -1,5 +1,5 @@
 ---
-Silk Road: Irish High Court To Rule On US Extradition Of Libertas
+Silk Road: Irish High Court To Rule On US Extradition Of Libertas"
 ---
 <article class="post-listing post-12486 post type-post status-publish format-standard has-post-thumbnail hentry  tag-court tag-extradition tag-high tag-irish tag-libertas tag-rule 
 <div class="post-inner">

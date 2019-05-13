@@ -1,5 +1,5 @@
 ---
-Texas Playpen Member Gets 17.5 Years in Prison
+Texas Playpen Member Gets 17.5 Years in Prison"
 ---
 <article class="post-listing post-23632 post type-post status-publish format-standard has-post-thumbnail hentry  tag-6125 tag-member tag-playpen tag-prison tag-texas tag-years">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-DNM Recap: July 17th
+DNM Recap: July 17th"
 ---
 <article class="post-listing post-11087 post type-post status-publish format-standard has-post-thumbnail hentry  tag-17th tag-dnm tag-july tag-recap">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-New Onion Address: deepdot35wvmeyd5.onion
+New Onion Address: deepdot35wvmeyd5.onion"
 ---
 <article class="post-listing post-10639 post type-post status-publish format-standard hentry category-news tag-address tag-deepdot35wvmeyd5onion tag-onion">
     <div class="post-inner">

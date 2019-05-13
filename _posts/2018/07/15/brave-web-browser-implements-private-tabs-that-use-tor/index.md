@@ -1,5 +1,5 @@
 ---
-Brave Web Browser Implements Private Tabs That Use Tor
+Brave Web Browser Implements Private Tabs That Use Tor"
 ---
 <article class="post-listing post-26308 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-brave tag-browser tag-implements tag-private tag-tabs  tag-web">

@@ -1,5 +1,5 @@
 ---
-Marketplace Merge: DarkBay &#038; Andromeda
+Marketplace Merge: DarkBay &#038; Andromeda"
 ---
 <article class="post-listing post-5192 post type-post status-publish format-standard has-post-thumbnail hentry  tag-andromeda tag-darkbay tag-merge">
     <div class="post-inner">

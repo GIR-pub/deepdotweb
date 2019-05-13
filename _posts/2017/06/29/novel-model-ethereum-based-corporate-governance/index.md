@@ -1,5 +1,5 @@
 ---
-A Novel Model of Ethereum Based Corporate Governance
+A Novel Model of Ethereum Based Corporate Governance"
 ---
 <article class="post-listing post-20966 post type-post status-publish format-standard has-post-thumbnail hentry  tag-based tag-corporate tag-ethereum tag-governance tag-model">
     <div class="post-inner">

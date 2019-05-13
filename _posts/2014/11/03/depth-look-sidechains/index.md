@@ -1,5 +1,5 @@
 ---
-In-Depth Look Into Sidechains
+In-Depth Look Into Sidechains"
 ---
 <article class="post-listing post-7485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-indepth tag-sidechains">
     <div class="post-inner">

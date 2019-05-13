@@ -1,5 +1,5 @@
 ---
-DarkNetMarkets Listing Count *IS* Booming: 53,917 Listings!
+DarkNetMarkets Listing Count *IS* Booming: 53,917 Listings!"
 ---
 <article class="post-listing post-5518 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1585 tag-booming tag-count tag-darknetmarkets tag-listing tag-listings">
     <div class="post-inner">

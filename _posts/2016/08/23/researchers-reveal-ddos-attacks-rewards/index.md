@@ -1,5 +1,5 @@
 ---
-Researchers Reveal DDoS Attacks Rewards
+Researchers Reveal DDoS Attacks Rewards"
 ---
 <article class="post-listing post-15202 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-ddos tag-researchers tag-reveal tag-rewards">
     <div class="post-inner">

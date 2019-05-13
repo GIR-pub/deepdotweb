@@ -1,5 +1,5 @@
 ---
-Majority of Web Users Not Willing to Trade Privacy For Discounts &#038; Benefits
+Majority of Web Users Not Willing to Trade Privacy For Discounts &#038; Benefits"
 ---
 <article class="post-listing post-18853 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-benefits tag-discounts tag-majority tag-privacy tag-trade tag-users tag-web">

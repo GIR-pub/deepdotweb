@@ -1,5 +1,5 @@
 ---
-US Fentanyl Vendor Gets Busted On Handwriting
+US Fentanyl Vendor Gets Busted On Handwriting"
 ---
 <article class="post-listing post-20967 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-fentanyl tag-handwriting tag-vendor">
     <div class="post-inner">

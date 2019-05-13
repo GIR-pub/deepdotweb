@@ -1,5 +1,5 @@
 ---
-Prison for Former Bitcoin Exchange CEO
+Prison for Former Bitcoin Exchange CEo"
 ---
 <article class="post-listing post-19048 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-ceo tag-exchange tag-prison">
     <div class="post-inner">

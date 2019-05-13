@@ -1,5 +1,5 @@
 ---
-Researchers Record Norway&#8217;s First Carfentanil Case
+Researchers Record Norway&#8217;s First Carfentanil Case"
 ---
 <article class="post-listing post-19618 post type-post status-publish format-standard has-post-thumbnail hentry  tag-carfentanil tag-case tag-norways tag-record tag-researchers">
     

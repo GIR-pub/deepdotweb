@@ -1,5 +1,5 @@
 ---
-ChaosVPN: The Hackers’ VPN!
+ChaosVPN: The Hackers’ VPN!"
 ---
 <article class="post-listing post-16415 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chaosvpn tag-hackers tag-vpn">
     <div class="post-inner">

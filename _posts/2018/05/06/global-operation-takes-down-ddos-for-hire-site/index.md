@@ -1,5 +1,5 @@
 ---
-Global Operation Takes Down DDoS-for-Hire Site
+Global Operation Takes Down DDoS-for-Hire Site"
 ---
 <article class="post-listing post-25606 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-ddosforhire tag-global tag-operation tag-site tag-takes">

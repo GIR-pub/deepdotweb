@@ -1,5 +1,5 @@
 ---
-Welfare Office Allegedly Ignored All Warning Signs in Freiburg Abuse Case
+Welfare Office Allegedly Ignored All Warning Signs in Freiburg Abuse Case"
 ---
 <article class="post-listing post-26397 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-abuse tag-allegedly tag-case tag-freiburg tag-office tag-signs  tag-welfare">

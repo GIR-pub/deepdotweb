@@ -1,5 +1,5 @@
 ---
-Chinese Government Requiring Muslims to Install Spyware on Their Electronic Devices
+Chinese Government Requiring Muslims to Install Spyware on Their Electronic Devices"
 ---
 <article class="post-listing post-21916 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chinese tag-devices tag-electronic tag-government tag-install tag-muslims tag-requiring tag-spyware">
     <div class="post-inner">

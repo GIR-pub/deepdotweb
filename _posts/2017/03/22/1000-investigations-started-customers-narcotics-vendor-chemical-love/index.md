@@ -1,5 +1,5 @@
 ---
-More Than 1,000 Investigations Started Against The Customers Of Narcotics Vendor Chemical Love
+More Than 1,000 Investigations Started Against The Customers Of Narcotics Vendor Chemical Love"
 ---
 <article class="post-listing post-18742 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-2821 tag-chemical tag-customers tag-investigations tag-love tag-narcotics tag-started tag-vendor">

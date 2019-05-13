@@ -1,5 +1,5 @@
 ---
-Agora Market To Stop Listing Lethal Weapons
+Agora Market To Stop Listing Lethal Weapons"
 ---
 <article class="post-listing post-10967 post type-post status-publish format-standard hentry category-news tag-agora tag-lethal tag-listing tag-stop tag-weapons">
     <div class="post-inner">

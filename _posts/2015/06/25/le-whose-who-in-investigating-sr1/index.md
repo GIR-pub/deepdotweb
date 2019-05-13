@@ -1,5 +1,5 @@
 ---
-LE – Whose Who In Investigating SR1?
+LE – Whose Who In Investigating SR1?"
 ---
 <article class="post-listing post-10926 post type-post status-publish format-standard has-post-thumbnail hentry  tag-investigating tag-le tag-sr1">
     <div class="post-inner">

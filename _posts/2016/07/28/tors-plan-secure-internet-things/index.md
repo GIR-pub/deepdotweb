@@ -1,5 +1,5 @@
 ---
-Tor’s Plan to Secure the Internet of Things
+Tor’s Plan to Secure the Internet of Things"
 ---
 <article class="post-listing post-14936 post type-post status-publish format-standard hentry category-news tag-internet tag-plan tag-secure s">
     <div class="post-inner">

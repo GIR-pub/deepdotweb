@@ -1,5 +1,5 @@
 ---
-Agora Down Time: Hardware Failure
+Agora Down Time: Hardware Failure"
 ---
 <article class="post-listing post-6643 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora">
     <div class="post-inner">

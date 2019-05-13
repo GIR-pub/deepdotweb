@@ -1,5 +1,5 @@
 ---
-Allwine Sentenced to Life in Prison for First Degree Murder
+Allwine Sentenced to Life in Prison for First Degree Murder"
 ---
 <article class="post-listing post-24814 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-allwine tag-degree tag-life tag-murder tag-prison tag-sentenced">

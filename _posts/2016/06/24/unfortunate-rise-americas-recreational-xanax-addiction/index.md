@@ -1,5 +1,5 @@
 ---
-The Unfortunate Rise of America’s Recreational Xanax Addiction
+The Unfortunate Rise of America’s Recreational Xanax Addiction"
 ---
 <article class="post-listing post-14572 post type-post status-publish format-standard has-post-thumbnail hentry  tag-addiction tag-americas tag-recreational tag-rise tag-unfortunate tag-xanax">
     <div class="post-inner">

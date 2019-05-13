@@ -1,5 +1,5 @@
 ---
-New Bill Would Require People to Disclose Cryptocurrency Holdings at the Border
+New Bill Would Require People to Disclose Cryptocurrency Holdings at the Border"
 ---
 <article class="post-listing post-21157 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bill tag-border tag-cryptocurrency tag-disclose tag-holdings tag-people tag-require">
     <div class="post-inner">

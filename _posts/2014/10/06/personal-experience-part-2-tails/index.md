@@ -1,5 +1,5 @@
 ---
-Personal Experience: Part 2 &#8211; Tails
+Personal Experience: Part 2 &#8211; Tails"
 ---
 <article class="post-listing post-6830 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-experiencetag tag-personal tag-tails">
     <div class="post-inner">

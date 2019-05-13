@@ -1,5 +1,5 @@
 ---
-Suspect Claims Someone Else Used His Computer to Buy Drugs, Jury Agrees
+Suspect Claims Someone Else Used His Computer to Buy Drugs, Jury Agrees"
 ---
 <article class="post-listing post-16787 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agrees tag-buy tag-claims tag-computer tag-jury tag-suspect">
     <div class="post-inner">

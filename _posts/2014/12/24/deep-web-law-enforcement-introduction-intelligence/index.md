@@ -1,5 +1,5 @@
 ---
-Deep Web &#038; Law Enforcement: Introduction to Intelligence
+Deep Web &#038; Law Enforcement: Introduction to Intelligence"
 ---
 <article class="post-listing post-7950 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-enforcement tag-intelligence tag-introduction tag-law tag-web">
     

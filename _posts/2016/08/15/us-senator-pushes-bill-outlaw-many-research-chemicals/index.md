@@ -1,5 +1,5 @@
 ---
-US Senator Pushes Bill to Outlaw Many Research Chemicals
+US Senator Pushes Bill to Outlaw Many Research Chemicals"
 ---
 <article class="post-listing post-15109 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bill tag-chemicals tag-illegal tag-pushes tag-research tag-senator">
     <div class="post-inner">

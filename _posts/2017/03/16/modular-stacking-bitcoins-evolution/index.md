@@ -1,5 +1,5 @@
 ---
-Modular Stacking and Bitcoin&#8217;s Evolution
+Modular Stacking and Bitcoin&#8217;s Evolution"
 ---
 <article class="post-listing post-18646 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-evolution tag-modular tag-stacking">

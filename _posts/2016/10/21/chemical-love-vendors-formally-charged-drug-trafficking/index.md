@@ -1,5 +1,5 @@
 ---
-Chemical Love Vendors Formally Charged for Drug Trafficking
+Chemical Love Vendors Formally Charged for Drug Trafficking"
 ---
 <article class="post-listing post-15977 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-chemical tag-formally tag-love tag-trafficking tag-vendors">
     <div class="post-inner">

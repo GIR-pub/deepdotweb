@@ -1,5 +1,5 @@
 ---
-LKA Warns Of “Invoice Fraud” Emails That Deploy Ransomware When Opened
+LKA Warns Of “Invoice Fraud” Emails That Deploy Ransomware When Opened"
 ---
 <article class="post-listing post-17407 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deploy tag-emails tag-fraud tag-invoice tag-lka tag-opened tag-ransomware tag-warns">
     <div class="post-inner">

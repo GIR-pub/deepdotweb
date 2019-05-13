@@ -1,5 +1,5 @@
 ---
-Police Officer Suspected Of Double Murder Remains In Custody In Luxemburg
+Police Officer Suspected Of Double Murder Remains In Custody In Luxemburg"
 ---
 <article class="post-listing post-19698 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">

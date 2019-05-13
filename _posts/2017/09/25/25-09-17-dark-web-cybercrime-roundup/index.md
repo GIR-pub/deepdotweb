@@ -1,5 +1,5 @@
 ---
-25.09.17 Dark Web and Cybercrime Roundup
+25.09.17 Dark Web and Cybercrime Roundup"
 ---
 <article class="post-listing post-22731 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-5961 tag-cybercrime tag-dark tag-roundup tag-web">

@@ -1,5 +1,5 @@
 ---
-Pandora Marketplace Hacked: Losing $250,000 in BTC
+Pandora Marketplace Hacked: Losing $250,000 in BTc"
 ---
 <article class="post-listing post-4739 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1447 tag-hacked tag-losing tag-pandora">
     <div class="post-inner">

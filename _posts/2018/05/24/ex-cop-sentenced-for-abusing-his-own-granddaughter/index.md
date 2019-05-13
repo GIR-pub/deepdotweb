@@ -1,5 +1,5 @@
 ---
-Ex-Cop Sentenced for Abusing His Own Granddaughter
+Ex-Cop Sentenced for Abusing His Own Granddaughter"
 ---
 <article class="post-listing post-25812 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-abusing tag-excop tag-granddaughter tag-sentenced">

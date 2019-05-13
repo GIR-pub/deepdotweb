@@ -1,5 +1,5 @@
 ---
-Darknet Bust Leads to Portugal’s First Bitcoin Seizure
+Darknet Bust Leads to Portugal’s First Bitcoin Seizure"
 ---
 <article class="post-listing post-25289 post type-post status-publish format-standard hentry 
  tag-bitcoin tag-bust tag-darknet tag-leads tag-portugals tag-seizure">

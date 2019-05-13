@@ -1,5 +1,5 @@
 ---
-How DarkNet Markets will Undermine Government Control: Guns
+How DarkNet Markets will Undermine Government Control: Guns"
 ---
 <article class="post-listing post-6140 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-darknet tag-government tag-guns tag-undermine">
     <div class="post-inner">

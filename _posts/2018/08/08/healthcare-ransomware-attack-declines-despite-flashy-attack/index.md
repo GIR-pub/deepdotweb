@@ -1,5 +1,5 @@
 ---
-Healthcare Ransomware Attack Declines despite Flashy Attack
+Healthcare Ransomware Attack Declines despite Flashy Attack"
 ---
 <article class="post-listing post-26510 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-attack tag-declines tag-flashy care tag-ransomware">

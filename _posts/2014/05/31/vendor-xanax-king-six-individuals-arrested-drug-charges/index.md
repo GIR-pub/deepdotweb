@@ -1,5 +1,5 @@
 ---
-Vendor &#8220;Xanax King&#8221;: Six Individuals Arrested on Drug Charges
+Vendor &#8220;Xanax King&#8221;: Six Individuals Arrested on Drug Charges"
 ---
 <article class="post-listing post-5852 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-individuals tag-king tag-vendor tag-xanax">
     <div class="post-inner">

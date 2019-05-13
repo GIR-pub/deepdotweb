@@ -1,5 +1,5 @@
 ---
-Vendor &#8220;Caligirl&#8221; Busted: Charged With Selling Drugs On Silk Road &#038; Bitmessage
+Vendor &#8220;Caligirl&#8221; Busted: Charged With Selling Drugs On Silk Road &#038; Bitmessage"
 ---
 <article class="post-listing post-5856 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitmessage tag-busted tag-caligirl tag-charged tag-controlled tag-illegally tag-selling tag-substances tag-vendor">
     <div class="post-inner">

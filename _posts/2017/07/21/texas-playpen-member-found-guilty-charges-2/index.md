@@ -1,5 +1,5 @@
 ---
-Texas Playpen Member Found Guilty of All Charges
+Texas Playpen Member Found Guilty of All Charges"
 ---
 <article class="post-listing post-21473 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-guilty tag-member tag-playpen tag-texas">
     <div class="post-inner">

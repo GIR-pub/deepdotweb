@@ -1,5 +1,5 @@
 ---
-Rules For Market &#038; Vendor Shops Listing
+Rules For Market &#038; Vendor Shops Listing"
 ---
 12331
 

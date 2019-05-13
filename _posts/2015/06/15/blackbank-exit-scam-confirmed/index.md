@@ -1,5 +1,5 @@
 ---
-BlackBank&#8217;s Exit Scam Confirmed: ~606BTC Gone.
+BlackBank&#8217;s Exit Scam Confirmed: ~606BTC Gone."
 ---
 <article class="post-listing post-10799 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blackbank tag-confirmed tag-exit tag-scam">
     <div class="post-inner">

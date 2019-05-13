@@ -1,5 +1,5 @@
 ---
-Latest From Antilop.cc: On Ross Ulbricht&#8217;s &#8220;mentor&#8221; Variety Jones
+Latest From Antilop.cc: On Ross Ulbricht&#8217;s &#8220;mentor&#8221; Variety Jones"
 ---
 <article class="post-listing post-9371 post type-post status-publish format-standard hentry category-news tag-antilopcc tag-jones tag-latest tag-mentor  tag-ulbrichts tag-variety">
 <div class="post-inner">

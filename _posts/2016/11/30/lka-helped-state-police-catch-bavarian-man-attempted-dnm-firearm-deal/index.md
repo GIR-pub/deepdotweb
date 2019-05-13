@@ -1,5 +1,5 @@
 ---
-The LKA Helped State Police Catch a Bavarian Man for Attempted DNM Firearm Deal
+The LKA Helped State Police Catch a Bavarian Man for Attempted DNM Firearm Deal"
 ---
 <article class="post-listing post-16655 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempted tag-bavarian tag-catch tag-deal tag-dnm tag-firearm tag-helped tag-lka tag-man tag-police tag-state">
     <div class="post-inner">

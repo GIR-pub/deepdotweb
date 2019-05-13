@@ -1,5 +1,5 @@
 ---
-Iowa Senate Pass Bills to Crackdown Card Skimmers on Gas Pump and ATM
+Iowa Senate Pass Bills to Crackdown Card Skimmers on Gas Pump and ATm"
 ---
 <article class="post-listing post-25074 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-atm tag-bills tag-card tag-crackdown tag-gas tag-iowa tag-pass tag-pump tag-senate tag-skimmers">

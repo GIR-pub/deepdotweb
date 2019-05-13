@@ -1,5 +1,5 @@
 ---
-Edge Weight Prediction On Bitcoin And Other Weight Signed Networks WSNs
+Edge Weight Prediction On Bitcoin And Other Weight Signed Networks WSNs"
 ---
 <article class="post-listing post-17664 post type-post status-publish format-standard has-post-thumbnail hentry
     <div class="post-inner">

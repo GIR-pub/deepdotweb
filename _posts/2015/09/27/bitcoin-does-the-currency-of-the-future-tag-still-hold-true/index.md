@@ -1,5 +1,5 @@
 ---
-Bitcoin: Does the “Currency of the Future” tag still hold true?
+Bitcoin: Does the “Currency of the Future” tag still hold true?"
 ---
 <article class="post-listing post-11349 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-currency tag-future tag-hold tag-tag tag-true">
 <div class="post-inner">

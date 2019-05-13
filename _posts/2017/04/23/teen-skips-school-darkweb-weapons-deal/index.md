@@ -1,5 +1,5 @@
 ---
-Teen Skips School for a Darkweb Weapons Deal
+Teen Skips School for a Darkweb Weapons Deal"
 ---
 <article class="post-listing post-19340 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkweb tag-deal tag-school tag-skips tag-teen tag-weapons">
     <div class="post-inner">

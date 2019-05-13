@@ -1,5 +1,5 @@
 ---
-Vendor Bust: Shiny Flakes With 320kg Of Drugs
+Vendor Bust: Shiny Flakes With 320kg Of Drugs"
 ---
 <article class="post-listing post-9406 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-dutch tag-flakes tag-shiny tag-unknown tag-vendor">
 <div class="post-inner">

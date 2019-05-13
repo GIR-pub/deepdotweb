@@ -1,5 +1,5 @@
 ---
-Is Vendor &#8220;weaponsguy&#8221; On Agora Is ATF/FBI?
+Is Vendor &#8220;weaponsguy&#8221; On Agora Is ATF/FBI?"
 ---
 <article class="post-listing post-9904 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-atffbi tag-vendor tag-weaponsguy">
     <div class="post-inner">

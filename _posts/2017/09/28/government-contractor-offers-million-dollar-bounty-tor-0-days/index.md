@@ -1,5 +1,5 @@
 ---
-Government Contractor Offers Million Dollar Bounty for Tor 0-Days
+Government Contractor Offers Million Dollar Bounty for Tor 0-Days"
 ---
 <article class="post-listing post-22812 post type-post status-publish format-standard has-post-thumbnail hentry 
  tag-0days tag-bounty tag-contractor tag-dollar tag-government tag-million tag-offers 

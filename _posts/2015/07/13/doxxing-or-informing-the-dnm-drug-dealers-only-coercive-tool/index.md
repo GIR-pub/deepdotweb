@@ -1,5 +1,5 @@
 ---
-Doxxing or informing; the DNM Drug Dealer’s only Coercive Tool
+Doxxing or informing; the DNM Drug Dealer’s only Coercive Tool"
 ---
 <article class="post-listing post-10873 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coercive tag-dealers tag-dnm tag-doxxing tag-informing tag-tool">
     <div class="post-inner">

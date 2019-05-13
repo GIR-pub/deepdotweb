@@ -1,5 +1,5 @@
 ---
-Darknet Weapon Vendor Who Sold Weapons to the Munich Gunman is Working with Police
+Darknet Weapon Vendor Who Sold Weapons to the Munich Gunman is Working with Police"
 ---
 <article class="post-listing post-16057 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-gunman tag-munich tag-police  tag-vendor tag-weapon tag-weapons tag-working">
     <div class="post-inner">

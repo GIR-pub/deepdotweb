@@ -1,5 +1,5 @@
 ---
-The Firearm Vendor Involved in the Munich Shooting Now Stands Trial in the Bavarian State Capital
+The Firearm Vendor Involved in the Munich Shooting Now Stands Trial in the Bavarian State Capital"
 ---
 <article class="post-listing post-17747 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bavarian tag-capital tag-firearm tag-involved tag-munich tag-shooting tag-stands tag-state tag-trial tag-vendor">
     <div class="post-inner">

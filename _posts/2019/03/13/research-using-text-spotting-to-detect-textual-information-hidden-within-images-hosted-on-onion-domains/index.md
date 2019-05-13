@@ -1,5 +1,5 @@
 ---
-Research: Using text spotting to detect textual information hidden within images hosted on onion domains
+Research: Using text spotting to detect textual information hidden within images hosted on onion domains"
 ---
 <article class="post-listing post-28607 post type-post status-publish format-standard has-post-thumbnail hentry  tag-detect tag-domains tag-hosted tag-images tag-information tag-onion tag-research tag-spotting tag-text tag-textual">
     <div class="post-inner">

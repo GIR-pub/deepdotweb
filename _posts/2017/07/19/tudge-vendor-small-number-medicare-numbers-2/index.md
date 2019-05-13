@@ -1,5 +1,5 @@
 ---
-Tudge: Vendor Has a ‘Small Number’ of Medicare Numbers
+Tudge: Vendor Has a ‘Small Number’ of Medicare Numbers"
 ---
 <article class="post-listing post-21418 post type-post status-publish format-standard has-post-thumbnail hentry  tag-medicare tag-number tag-numbers tag-small tag-tudge tag-vendor">
     <div class="post-inner">

@@ -1,5 +1,5 @@
 ---
-German Standing Trial For Ordering Three Guns From The Dark Web
+German Standing Trial For Ordering Three Guns From The Dark Web"
 ---
 <article class="post-listing post-19329 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-german tag-guns tag-ordering tag-standing tag-trial tag-web">
     <div class="post-inner">

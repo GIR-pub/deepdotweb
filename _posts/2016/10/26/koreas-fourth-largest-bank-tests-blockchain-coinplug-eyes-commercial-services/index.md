@@ -1,5 +1,5 @@
 ---
-Korea’s Fourth Largest Bank Tests Blockchain With Coinplug; Eyes Commercial Services
+Korea’s Fourth Largest Bank Tests Blockchain With Coinplug; Eyes Commercial Services"
 ---
 <article class="post-listing post-16077 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bank tag-blockchain tag-coinplug tag-commercial tag-eyes tag-fourth tag-koreas tag-largest tag-services tag-tests">
     <div class="post-inner">

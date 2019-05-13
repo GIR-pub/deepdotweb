@@ -1,5 +1,5 @@
 ---
-Tor Fingerprinting &#8211; Is the Tor Browser Immune Against Browser Fingerprinting?
+Tor Fingerprinting &#8211; Is the Tor Browser Immune Against Browser Fingerprinting?"
 ---
 <article class="post-listing post-23262 post type-post status-publish format-standard has-post-thumbnail hentry 
 tag-browser tag-fingerprinting tag-immune 

@@ -1,5 +1,5 @@
 ---
-How to hide bitcoin&#8217;s private keys in steganographic fractal trees
+How to hide bitcoin&#8217;s private keys in steganographic fractal trees"
 ---
 <article class="post-listing post-28590 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fractal tag-hide tag-keys tag-private tag-steganographic tag-trees">
     <div class="post-inner">

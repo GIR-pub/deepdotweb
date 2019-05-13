@@ -1,5 +1,5 @@
 ---
-Research: A novel user friendly system for monitoring darknet marketplaces
+Research: A novel user friendly system for monitoring darknet marketplaces"
 ---
 <article class="post-listing post-28608 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-friendly tag-marketplaces tag-monitoring tag-research tag-system tag-user">
     <div class="post-inner">

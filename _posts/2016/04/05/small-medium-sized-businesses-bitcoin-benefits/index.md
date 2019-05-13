@@ -1,5 +1,5 @@
 ---
-Small and medium-sized businesses are for Bitcoin. What are the benefits?
+Small and medium-sized businesses are for Bitcoin. What are the benefits?"
 ---
 <article class="post-listing post-13635 post type-post status-publish format-standard hentry category-news tag-benefits tag-bitcoin tag-businesses tag-mediumsized tag-small">
     <div class="post-inner">

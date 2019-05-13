@@ -1,5 +1,5 @@
 ---
-Farage’s Aide Denies Money Laundering, Fraud &#038; Extortion Charges
+Farage’s Aide Denies Money Laundering, Fraud &#038; Extortion Charges"
 ---
 <article class="post-listing post-15261 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aide tag-charges tag-denies tag-extortion tag-farages tag-fraud tag-laundering tag-money">
     <div class="post-inner">

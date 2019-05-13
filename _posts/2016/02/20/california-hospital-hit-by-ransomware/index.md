@@ -1,5 +1,5 @@
 ---
-California Hospital Hit By Ransomware
+California Hospital Hit By Ransomware"
 ---
 <article class="post-listing post-13271 post type-post status-publish format-standard hentry category-news tag-california tag-hit tag-hospital tag-ransomware">
     <div class="post-inner">

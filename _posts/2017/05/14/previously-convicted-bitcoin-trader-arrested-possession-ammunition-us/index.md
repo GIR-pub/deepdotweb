@@ -1,5 +1,5 @@
 ---
-Previously Convicted Bitcoin Trader Arrested For The Possession Of Ammunition In The US
+Previously Convicted Bitcoin Trader Arrested For The Possession Of Ammunition In The Us"
 ---
 <article class="post-listing post-19863 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ammunition tag-bitcoin tag-convicted tag-possession tag-previously tag-trader">
     <div class="post-inner">

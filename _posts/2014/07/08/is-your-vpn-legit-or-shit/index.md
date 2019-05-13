@@ -1,5 +1,5 @@
 ---
-Is your VPN Legit or Shit?
+Is your VPN Legit or Shit?"
 ---
 <article class="post-listing post-6048 post type-post status-publish format-standard has-post-thumbnail hentry  tag-legit tag-shit tag-vpn">
     <div class="post-inner">

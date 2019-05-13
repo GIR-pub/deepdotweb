@@ -1,5 +1,5 @@
 ---
-Arizona Bill Seeks to Update Law to Recognize Smart Contracts
+Arizona Bill Seeks to Update Law to Recognize Smart Contracts"
 ---
 <article class="post-listing post-18366 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arizona tag-bill tag-contracts tag-law tag-recognize tag-seeks tag-smart tag-update">
     <div class="post-inner">

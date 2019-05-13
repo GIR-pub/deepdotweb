@@ -1,5 +1,5 @@
 ---
-US Marshals to Auction $1.6m In Bitcoins, Some From the Silk Road Case
+US Marshals to Auction $1.6m In Bitcoins, Some From the Silk Road Case"
 ---
 <article class="post-listing post-15120 post type-post status-publish format-standard has-post-thumbnail hentry  tag-16m tag-auction tag-case tag-including tag-marshals 
     

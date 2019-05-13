@@ -1,5 +1,5 @@
 ---
-Concepts of Cryptolaw &#8211; How Blockchain Based Legal Applications Are Changing The Law?
+Concepts of Cryptolaw &#8211; How Blockchain Based Legal Applications Are Changing The Law?"
 ---
 <article class="post-listing post-18405 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applications tag-based tag-blockchain tag-changing tag-concepts tag-cryptolaw tag-law tag-legal">
 <div class="post-inner">

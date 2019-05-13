@@ -1,5 +1,5 @@
 ---
-MDMA: Culture, Use and the Future
+MDMA: Culture, Use and the Future"
 ---
 <article class="post-listing post-10972 post type-post status-publish format-standard has-post-thumbnail hentry  tag-culture tag-future tag-mdma">
     <div class="post-inner">

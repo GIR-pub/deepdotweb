@@ -1,5 +1,5 @@
 ---
-Quantum Computing Could Cripple Encryption; Bitcoin’s Role
+Quantum Computing Could Cripple Encryption; Bitcoin’s Role"
 ---
 <article class="post-listing post-15668 post type-post status-publish format-standard has-post-thumbnail hentry  tag-computing tag-cripple tag-encryption tag-quantum tag-role">
     <div class="post-inner">

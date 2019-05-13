@@ -1,5 +1,5 @@
 ---
-Drug Dealer Pleads Guilty to Bulk Buying Cannabis off The Dark Web.
+Drug Dealer Pleads Guilty to Bulk Buying Cannabis off The Dark Web."
 ---
 <article class="post-listing post-23735 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bulk tag-buying tag-cannabis tag-dark tag-guilty tag-pleads tag-web">
     <div class="post-inner">

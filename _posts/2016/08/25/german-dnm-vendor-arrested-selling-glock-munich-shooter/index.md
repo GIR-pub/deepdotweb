@@ -1,5 +1,5 @@
 ---
-German DNM Vendor Arrested For Selling Glock to Munich Shooter
+German DNM Vendor Arrested For Selling Glock to Munich Shooter"
 ---
 <article class="post-listing post-15232 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-german tag-glock tag-munich tag-selling tag-shooter tag-vendor">
     <div class="post-inner">

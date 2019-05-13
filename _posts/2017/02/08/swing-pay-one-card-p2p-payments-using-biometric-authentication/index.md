@@ -1,5 +1,5 @@
 ---
-Swing-Pay &#8211; One Card for all P2P Payments Using Biometric Authentication
+Swing-Pay &#8211; One Card for all P2P Payments Using Biometric Authentication"
 ---
 <article class="post-listing post-18035 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authentication tag-biometric tag-card tag-p2p tag-payments tag-swingpay">
     <div class="post-inner">
