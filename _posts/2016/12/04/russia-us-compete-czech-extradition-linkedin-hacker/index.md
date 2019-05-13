@@ -1,7 +1,7 @@
 ---
 Russia And US Compete For Czech Extradition Of LinkedIn Hacker
 ---
-<article class="post-listing post-16744 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-compete tag-czech tag-extradition tag-hacker tag-linkedin tag-russia">
+<article class="post-listing post-16744 post type-post status-publish format-standard has-post-thumbnail hentry  tag-compete tag-czech tag-extradition tag-hacker tag-linkedin tag-russia">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 4, 2016</span>

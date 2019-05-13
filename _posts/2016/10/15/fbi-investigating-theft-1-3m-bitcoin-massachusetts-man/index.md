@@ -1,7 +1,7 @@
 ---
 FBI Investigating The Theft Of 1.3m Bitcoin From Massachusetts Man
 ---
-<article class="post-listing post-15825 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-13m tag-bitcoin tag-fbi tag-investigating tag-man tag-massachusetts tag-theft">
+<article class="post-listing post-15825 post type-post status-publish format-standard has-post-thumbnail hentry  tag-13m tag-bitcoin tag-fbi tag-investigating tag-man tag-massachusetts tag-theft">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 15, 2016</span>

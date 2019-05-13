@@ -1,7 +1,7 @@
 ---
 Nucleus Is Gone: These Are The Top Alternatives!
 ---
-<article class="post-listing post-13795 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alternatives tag-nucleus tag-top">
+<article class="post-listing post-13795 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternatives tag-nucleus tag-top">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 20, 2016</span>

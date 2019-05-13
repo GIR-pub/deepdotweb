@@ -1,7 +1,7 @@
 ---
 Is Vendor &#8220;weaponsguy&#8221; On Agora Is ATF/FBI?
 ---
-<article class="post-listing post-9904 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agora tag-atffbi tag-vendor tag-weaponsguy">
+<article class="post-listing post-9904 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-atffbi tag-vendor tag-weaponsguy">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 7, 2015</span>

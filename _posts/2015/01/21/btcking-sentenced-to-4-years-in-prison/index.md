@@ -1,7 +1,7 @@
 ---
 BTCking: Sentenced To 4 Years in Prison
 ---
-<article class="post-listing post-8855 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-btcking tag-prison tag-sentenced tag-years">
+<article class="post-listing post-8855 post type-post status-publish format-standard has-post-thumbnail hentry  tag-btcking tag-prison tag-sentenced tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 21, 2015</span>

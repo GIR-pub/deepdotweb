@@ -1,7 +1,7 @@
 ---
 Introducing Grams Helix: Bitcoins Cleaner
 ---
-<article class="post-listing post-6160 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoins tag-cleaner tag-grams tag-helix tag-introducing">
+<article class="post-listing post-6160 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-cleaner tag-grams tag-helix tag-introducing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 22, 2014</span>

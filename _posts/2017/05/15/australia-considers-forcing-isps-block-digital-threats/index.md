@@ -1,7 +1,7 @@
 ---
 Australia Considers Forcing ISPs to Block Digital Threats
 ---
-<article class="post-listing post-19883 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australia tag-block tag-considers tag-digital tag-forcing tag-isps tag-threats">
+<article class="post-listing post-19883 post type-post status-publish format-standard has-post-thumbnail hentry  tag-australia tag-block tag-considers tag-digital tag-forcing tag-isps tag-threats">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 15, 2017</span>

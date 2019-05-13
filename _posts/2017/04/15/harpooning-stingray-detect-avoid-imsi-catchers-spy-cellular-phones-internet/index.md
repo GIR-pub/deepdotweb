@@ -1,7 +1,7 @@
 ---
 Harpooning the StingRay: How to Detect and Avoid IMSI Catchers that Spy on Cellular Phones and Internet
 ---
-<article class="post-listing post-19198 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-avoid tag-catchers tag-cellular tag-detect tag-harpooning tag-imsi tag-internet tag-phones tag-spy tag-stingray">
+<article class="post-listing post-19198 post type-post status-publish format-standard has-post-thumbnail hentry  tag-avoid tag-catchers tag-cellular tag-detect tag-harpooning tag-imsi tag-internet tag-phones tag-spy tag-stingray">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>April 15, 2017</span>

@@ -1,7 +1,7 @@
 ---
 The UK Creates New Dark Net Task Force
 ---
-<article class="post-listing post-12072 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-creates tag-dark tag-force tag-net tag-task tag-uk">
+<article class="post-listing post-12072 post type-post status-publish format-standard has-post-thumbnail hentry  tag-creates tag-dark tag-force tag-net tag-task tag-uk">
     
 <div class="post-inner">
     

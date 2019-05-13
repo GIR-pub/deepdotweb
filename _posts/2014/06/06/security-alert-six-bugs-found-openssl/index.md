@@ -1,7 +1,7 @@
 ---
 Security Alert: Six more bugs found in OpenSSL
 ---
-<article class="post-listing post-5896 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alert tag-bugs tag-openssl tag-security">
+<article class="post-listing post-5896 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alert tag-bugs tag-openssl tag-security">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 6, 2014</span>

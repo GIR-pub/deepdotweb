@@ -1,7 +1,7 @@
 ---
 3.7.17 Dark Web and Cybercrime Roundup
 ---
-<article class="post-listing post-21044 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5653 tag-cybercrime tag-dark tag-roundup tag-web">
+<article class="post-listing post-21044 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5653 tag-cybercrime tag-dark tag-roundup tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 3, 2017</span>

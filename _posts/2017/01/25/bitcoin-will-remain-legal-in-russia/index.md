@@ -1,7 +1,7 @@
 ---
 No ban for Bitcoin in Russia
 ---
-<article class="post-listing post-17688 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-ban tag-bitcoin tag-russia">
+<article class="post-listing post-17688 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ban tag-bitcoin tag-russia">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>January 25, 2017</span>

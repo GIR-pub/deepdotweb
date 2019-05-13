@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis &#8211; 27th May
 ---
-<article class="post-listing post-10421 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-27th tag-analysis tag-bitcoin tag-price">
+<article class="post-listing post-10421 post type-post status-publish format-standard has-post-thumbnail hentry  tag-27th tag-analysis tag-bitcoin tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>May 27, 2015</span>

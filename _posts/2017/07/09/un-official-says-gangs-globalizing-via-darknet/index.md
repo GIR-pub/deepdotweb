@@ -1,7 +1,7 @@
 ---
 UN Official Says Gangs are Globalizing via the Darknet
 ---
-<article class="post-listing post-21149 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-gangs tag-globalizing tag-official">
+<article class="post-listing post-21149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-gangs tag-globalizing tag-official">
     
     <div class="post-inner">
     

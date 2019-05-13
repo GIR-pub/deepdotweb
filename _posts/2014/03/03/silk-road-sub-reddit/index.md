@@ -1,7 +1,7 @@
 ---
 Silk Road Sub Reddit Is No More
 ---
-<article class="post-listing post-4547 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-reddit tag-road tag-silk">
+<article class="post-listing post-4547 post type-post status-publish format-standard has-post-thumbnail hentry  tag-reddit tag-road tag-silk">
     
     <div class="post-inner">
     

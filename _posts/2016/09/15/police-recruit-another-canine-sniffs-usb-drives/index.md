@@ -1,7 +1,7 @@
 ---
 Police Recruit Another Canine Who Sniffs Out USB Drives
 ---
-<article class="post-listing post-15428 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-canine tag-drives tag-police tag-recruit tag-sniffs tag-usb">
+<article class="post-listing post-15428 post type-post status-publish format-standard has-post-thumbnail hentry  tag-canine tag-drives tag-police tag-recruit tag-sniffs tag-usb">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 15, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Vendor Admits Selling 1,100 Grams of Heroin on Alphabay
 ---
-<article class="post-listing post-23346 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6071 tag-admits tag-alphabay tag-grams tag-heroin tag-selling tag-vendor">
+<article class="post-listing post-23346 post type-post status-publish format-standard has-post-thumbnail hentry  tag-6071 tag-admits tag-alphabay tag-grams tag-heroin tag-selling tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 1, 2017</span>

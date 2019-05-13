@@ -1,7 +1,7 @@
 ---
 Major Windows Security Flaw Leaks VPN Users Real IP Address
 ---
-<article class="post-listing post-8950 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-address tag-flaw tag-ip tag-leaks tag-major tag-real tag-security tag-users tag-vpn tag-windows">
+<article class="post-listing post-8950 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-flaw tag-ip tag-leaks tag-major tag-real tag-security tag-users tag-vpn tag-windows">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 1, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Bitcoin Exchanges Subpoenaed Over Silk Road Related Transactions
 ---
-<article class="post-listing post-5677 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-exchanges tag-related tag-road tag-silk tag-subpoenaed tag-transactions">
+<article class="post-listing post-5677 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-exchanges tag-related tag-road tag-silk tag-subpoenaed tag-transactions">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 20, 2014</span>

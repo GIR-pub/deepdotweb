@@ -1,7 +1,7 @@
 ---
 DEA lawyer confirms medicinal marijuana will be legal
 ---
-<article class="post-listing post-14766 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-confirms tag-dea tag-lawyer tag-legal tag-marijuana tag-medicinal">
+<article class="post-listing post-14766 post type-post status-publish format-standard has-post-thumbnail hentry  tag-confirms tag-dea tag-lawyer tag-legal tag-marijuana tag-medicinal">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 8, 2016</span>

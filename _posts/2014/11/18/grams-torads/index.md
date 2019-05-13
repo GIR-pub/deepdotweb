@@ -1,7 +1,7 @@
 ---
 Grams Grows with TorAds: First Advertising Network For Tor
 ---
-<article class="post-listing post-8355 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-advertising tag-grams tag-grows tag-network tag-tor tag-torads">
+<article class="post-listing post-8355 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advertising tag-grams tag-grows tag-network tag-tor tag-torads">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 18, 2014</span>

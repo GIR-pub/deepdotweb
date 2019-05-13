@@ -1,7 +1,7 @@
 ---
 Frankfurt Research: Drugs Seized More Frequently At Post Offices Than At Travelers
 ---
-<article class="post-listing post-19332 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-frankfurt tag-frequently tag-offices tag-post tag-research tag-seized tag-travelers">
+<article class="post-listing post-19332 post type-post status-publish format-standard has-post-thumbnail hentry  tag-frankfurt tag-frequently tag-offices tag-post tag-research tag-seized tag-travelers">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 22, 2017</span>

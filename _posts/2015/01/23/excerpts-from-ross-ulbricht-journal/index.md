@@ -1,7 +1,7 @@
 ---
 Excerpts From Ross Ulbricht&#8217;s 2013 Journal
 ---
-<article class="post-listing post-8874 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-silkroadtrial">
+<article class="post-listing post-8874 post type-post status-publish format-standard has-post-thumbnail hentry  tag-silkroadtrial">
     
     <div class="post-inner">
     

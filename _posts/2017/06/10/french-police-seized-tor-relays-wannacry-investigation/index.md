@@ -1,7 +1,7 @@
 ---
 French Police Seized Tor Relays in WannaCry Investigation
 ---
-<article class="post-listing post-20529 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-french tag-investigation tag-police tag-relays tag-seized tag-tor tag-wannacry">
+<article class="post-listing post-20529 post type-post status-publish format-standard has-post-thumbnail hentry  tag-french tag-investigation tag-police tag-relays tag-seized tag-tor tag-wannacry">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 10, 2017</span>

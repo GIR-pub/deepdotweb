@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis 22nd October
 ---
-<article class="post-listing post-11827 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-22nd tag-analysis tag-bitcoin tag-october tag-price">
+<article class="post-listing post-11827 post type-post status-publish format-standard has-post-thumbnail hentry  tag-22nd tag-analysis tag-bitcoin tag-october tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>October 22, 2015</span>

@@ -1,7 +1,7 @@
 ---
 French Minister Issues Nationwide Warning on Cyberattacks, Major Infrastructure Providers in Trouble
 ---
-<article class="post-listing post-17624 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cyberattacks tag-french tag-infrastructure tag-issues tag-major tag-minister tag-nationwide tag-providers tag-trouble tag-warning">
+<article class="post-listing post-17624 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cyberattacks tag-french tag-infrastructure tag-issues tag-major tag-minister tag-nationwide tag-providers tag-trouble tag-warning">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 20, 2017</span>

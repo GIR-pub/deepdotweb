@@ -1,7 +1,7 @@
 ---
 Italy Watched the Italian Darknet Community Since 2016
 ---
-<article class="post-listing post-19777 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-community tag-darknet tag-italian tag-italy tag-watched">
+<article class="post-listing post-19777 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-community tag-darknet tag-italian tag-italy tag-watched">
     
     <div class="post-inner">
     

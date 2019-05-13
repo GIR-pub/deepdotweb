@@ -1,7 +1,7 @@
 ---
 Former head of France&#8217;s drug war implicated in trafficking
 ---
-<article class="post-listing post-14255 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drug tag-frances tag-implicated tag-trafficking tag-war">
+<article class="post-listing post-14255 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-frances tag-implicated tag-trafficking tag-war">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 28, 2016</span>

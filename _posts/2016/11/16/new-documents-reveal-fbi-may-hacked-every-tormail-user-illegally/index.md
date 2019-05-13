@@ -1,7 +1,7 @@
 ---
 New Documents Reveal the FBI May Have Hacked Every TorMail User Illegally
 ---
-<article class="post-listing post-16436 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-documents tag-fbi tag-hacked tag-illegally tag-reveal tag-tormail tag-user">
+<article class="post-listing post-16436 post type-post status-publish format-standard has-post-thumbnail hentry  tag-documents tag-fbi tag-hacked tag-illegally tag-reveal tag-tormail tag-user">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 16, 2016</span>

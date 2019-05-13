@@ -1,7 +1,7 @@
 ---
 Russia Proposes Prison Time For Bitcoin Activity
 ---
-<article class="post-listing post-13465 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-activity tag-bitcoin tag-prison tag-proposes tag-russia tag-time">
+<article class="post-listing post-13465 post type-post status-publish format-standard has-post-thumbnail hentry  tag-activity tag-bitcoin tag-prison tag-proposes tag-russia tag-time">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 14, 2016</span>

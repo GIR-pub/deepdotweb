@@ -1,7 +1,7 @@
 ---
 Victoria University Student Charged For Running Dark Net Market
 ---
-<article class="post-listing post-16322 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charged tag-dark tag-market tag-net tag-running tag-student tag-university tag-victoria">
+<article class="post-listing post-16322 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-dark tag-market tag-net tag-running tag-student tag-university tag-victoria">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 8, 2016</span>

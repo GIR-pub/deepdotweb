@@ -1,7 +1,7 @@
 ---
 Alphabay Glock Vendor Admits to Firearm Deals from 2016
 ---
-<article class="post-listing post-21957 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-admits tag-alphabay tag-deals tag-firearm tag-glock tag-vendor">
+<article class="post-listing post-21957 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-admits tag-alphabay tag-deals tag-firearm tag-glock tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 14, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Bitcoin news roundup May 14, 2017
 ---
-<article class="post-listing post-19915 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1945 tag-3676 tag-bitcoin tag-news tag-roundup">
+<article class="post-listing post-19915 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1945 tag-3676 tag-bitcoin tag-news tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>May 14, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Homeland Security May Study Bitcoin’s Link to Terrorism
 ---
-<article class="post-listing post-20404 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoins tag-homeland tag-link tag-security tag-study tag-terrorism">
+<article class="post-listing post-20404 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-homeland tag-link tag-security tag-study tag-terrorism">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 5, 2017</span>

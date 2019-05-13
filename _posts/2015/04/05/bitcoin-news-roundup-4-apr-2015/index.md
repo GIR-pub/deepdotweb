@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 4 Apr 2015
 ---
-<article class="post-listing post-9859 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2524 tag-apr tag-bitcoin tag-news tag-roundup">
+<article class="post-listing post-9859 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-apr tag-bitcoin tag-news tag-roundup">
     
     <div class="post-inner">
     

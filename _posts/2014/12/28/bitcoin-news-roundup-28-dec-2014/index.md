@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 28 Dec. 2014
 ---
-<article class="post-listing post-8701 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1779 tag-2518 tag-bitcoin tag-dec tag-news tag-roundup">
+<article class="post-listing post-8701 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-2518 tag-bitcoin tag-dec tag-news tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 28, 2014</span>

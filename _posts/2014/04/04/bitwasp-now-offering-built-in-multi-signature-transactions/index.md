@@ -1,7 +1,7 @@
 ---
 Bitwasp &#8211; Now Offering Built in multi-signature Transactions!
 ---
-<article class="post-listing post-4879 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitwasp tag-built tag-multisignature tag-offering tag-transactions">
+<article class="post-listing post-4879 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitwasp tag-built tag-multisignature tag-offering tag-transactions">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 4, 2014</span>

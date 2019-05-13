@@ -1,7 +1,7 @@
 ---
 Appeals Court Allows Man To Be Jailed Indefinitely For Refusing To Decrypt Hard Drives
 ---
-<article class="post-listing post-19030 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-appeals tag-court tag-decrypt tag-drives tag-hard tag-indefinitely tag-jailed tag-man tag-refusing">
+<article class="post-listing post-19030 post type-post status-publish format-standard has-post-thumbnail hentry  tag-appeals tag-court tag-decrypt tag-drives tag-hard tag-indefinitely tag-jailed tag-man tag-refusing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>April 6, 2017</span>

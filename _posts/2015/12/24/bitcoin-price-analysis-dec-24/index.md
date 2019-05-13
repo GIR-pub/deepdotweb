@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis Dec. 24
 ---
-<article class="post-listing post-12738 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1898 tag-analysis tag-bitcoin tag-dec tag-price">
+<article class="post-listing post-12738 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1898 tag-analysis tag-bitcoin tag-dec tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>December 24, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Dark Web Vendors In Custody as Analysts Examine Their Computers
 ---
-<article class="post-listing post-19051 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-analysts tag-computers tag-custody tag-dark tag-examine tag-vendors tag-web">
+<article class="post-listing post-19051 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analysts tag-computers tag-custody tag-dark tag-examine tag-vendors tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 7, 2017</span>

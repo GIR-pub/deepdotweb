@@ -1,7 +1,7 @@
 ---
 Crimes Against Children are Growing In Canada
 ---
-<article class="post-listing post-15545 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-canada tag-children tag-crimes tag-growing">
+<article class="post-listing post-15545 post type-post status-publish format-standard has-post-thumbnail hentry  tag-canada tag-children tag-crimes tag-growing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>September 26, 2016</span>

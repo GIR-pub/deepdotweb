@@ -1,7 +1,7 @@
 ---
 Belgian Amphetamine Vendor Sentenced to Forfeit 946 Bitcoins and Spend 40 Months in Prison
 ---
-<article class="post-listing post-17772 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3727 tag-4903 tag-amphetamine tag-belgian tag-bitcoins tag-forfeit tag-months tag-prison tag-sentenced tag-spend tag-vendor">
+<article class="post-listing post-17772 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3727 tag-4903 tag-amphetamine tag-belgian tag-bitcoins tag-forfeit tag-months tag-prison tag-sentenced tag-spend tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 27, 2017</span>

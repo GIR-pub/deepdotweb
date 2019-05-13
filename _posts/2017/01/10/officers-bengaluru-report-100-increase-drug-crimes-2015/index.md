@@ -1,7 +1,7 @@
 ---
 Officers In Bengaluru Report 100% Increase in Drug Crimes From 2015
 ---
-<article class="post-listing post-17428 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3953 tag-2524 tag-bengaluru tag-crimes tag-drug tag-increase tag-officers tag-report">
+<article class="post-listing post-17428 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3953 tag-2524 tag-bengaluru tag-crimes tag-drug tag-increase tag-officers tag-report">
     
     <div class="post-inner">
     

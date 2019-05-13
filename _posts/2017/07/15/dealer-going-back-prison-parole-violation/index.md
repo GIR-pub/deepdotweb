@@ -1,7 +1,7 @@
 ---
 Dealer Going Back to Prison for Parole Violation
 ---
-<article class="post-listing post-21340 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dealer tag-parole tag-prison tag-violation">
+<article class="post-listing post-21340 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dealer tag-parole tag-prison tag-violation">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 15, 2017</span>

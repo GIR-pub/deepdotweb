@@ -1,7 +1,7 @@
 ---
 New Bill Would Require People to Disclose Cryptocurrency Holdings at the Border
 ---
-<article class="post-listing post-21157 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bill tag-border tag-cryptocurrency tag-disclose tag-holdings tag-people tag-require">
+<article class="post-listing post-21157 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bill tag-border tag-cryptocurrency tag-disclose tag-holdings tag-people tag-require">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>July 8, 2017</span>

@@ -1,7 +1,7 @@
 ---
 British University Lecturer Jailed After Tragic Death Of His Friend
 ---
-<article class="post-listing post-19330 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-british tag-death tag-friend tag-jailed tag-lecturer tag-tragic tag-university">
+<article class="post-listing post-19330 post type-post status-publish format-standard has-post-thumbnail hentry  tag-british tag-death tag-friend tag-jailed tag-lecturer tag-tragic tag-university">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 22, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Study On Government Surveillance And Self-Censorship
 ---
-<article class="post-listing post-13637 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-government tag-selfcensorship tag-study tag-surveillance">
+<article class="post-listing post-13637 post type-post status-publish format-standard has-post-thumbnail hentry  tag-government tag-selfcensorship tag-study tag-surveillance">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>April 5, 2016</span>

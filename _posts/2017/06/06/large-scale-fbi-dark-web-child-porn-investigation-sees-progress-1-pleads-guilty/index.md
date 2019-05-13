@@ -1,7 +1,7 @@
 ---
 Large-Scale FBI Dark Web Child Porn Investigation Sees Progress, 1 Pleads Guilty
 ---
-<article class="post-listing post-20426 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-dark tag-fbi tag-guilty tag-investigation tag-largescale tag-pleads tag-porn tag-progress tag-sees tag-web">
+<article class="post-listing post-20426 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-dark tag-fbi tag-guilty tag-investigation tag-largescale tag-pleads tag-porn tag-progress tag-sees tag-web">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Australian Man Accused Of Running An International Child Porn Ring
 ---
-<article class="post-listing post-11176 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accused tag-australian tag-child tag-international tag-man tag-porn tag-ring tag-running">
+<article class="post-listing post-11176 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accused tag-australian tag-child tag-international tag-man tag-porn tag-ring tag-running">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 4, 2015</span>

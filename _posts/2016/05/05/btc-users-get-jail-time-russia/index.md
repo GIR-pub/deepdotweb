@@ -1,7 +1,7 @@
 ---
 BTC Users Could Get Jail Time in Russia
 ---
-<article class="post-listing post-13964 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-btc tag-russia tag-time tag-users">
+<article class="post-listing post-13964 post type-post status-publish format-standard has-post-thumbnail hentry  tag-btc tag-russia tag-time tag-users">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 5, 2016</span>

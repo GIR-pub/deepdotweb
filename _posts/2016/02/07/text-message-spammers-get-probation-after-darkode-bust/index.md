@@ -1,7 +1,7 @@
 ---
 Text Message Spammers Get Probation After Darkode Bust
 ---
-<article class="post-listing post-13165 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bust tag-darkode tag-message tag-probation tag-spammers tag-text">
+<article class="post-listing post-13165 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-darkode tag-message tag-probation tag-spammers tag-text">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 7, 2016</span>

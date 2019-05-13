@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis Jan 24th
 ---
-<article class="post-listing post-17841 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-24th tag-analysis tag-bitcoin tag-jan tag-price">
+<article class="post-listing post-17841 post type-post status-publish format-standard has-post-thumbnail hentry  tag-24th tag-analysis tag-bitcoin tag-jan tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>January 24, 2017</span>

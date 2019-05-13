@@ -1,7 +1,7 @@
 ---
 Two Georgia Men Indicted For Darknet Weapon Sales
 ---
-<article class="post-listing post-20753 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-georgia tag-indicted tag-men tag-sales tag-weapon">
+<article class="post-listing post-20753 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-georgia tag-indicted tag-men tag-sales tag-weapon">
     
     <div class="post-inner">
     

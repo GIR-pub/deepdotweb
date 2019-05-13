@@ -1,7 +1,7 @@
 ---
 Silk Road Trial: Full Transcripts of Days 4 &#038; 5 (21 &#8211; 20.1.15)
 ---
-<article class="post-listing post-8861 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-days tag-full tag-road tag-silk tag-silkroadtrial tag-transcripts tag-transcriptsr tag-trial">
+<article class="post-listing post-8861 post type-post status-publish format-standard has-post-thumbnail hentry  tag-days tag-full tag-road tag-silk tag-silkroadtrial tag-transcripts tag-transcriptsr tag-trial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 22, 2015</span>

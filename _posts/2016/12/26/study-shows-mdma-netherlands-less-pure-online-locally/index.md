@@ -1,7 +1,7 @@
 ---
 Study Shows That MDMA in the Netherlands Is Less Pure Online Than Locally
 ---
-<article class="post-listing post-17154 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-locally tag-mdma tag-netherlands tag-online tag-pure tag-shows tag-study">
+<article class="post-listing post-17154 post type-post status-publish format-standard has-post-thumbnail hentry  tag-locally tag-mdma tag-netherlands tag-online tag-pure tag-shows tag-study">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 26, 2016</span>

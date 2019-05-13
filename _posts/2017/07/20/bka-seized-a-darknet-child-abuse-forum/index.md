@@ -1,7 +1,7 @@
 ---
 BKA Seized a Darknet Child Abuse Forum
 ---
-<article class="post-listing post-21440 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-bka tag-child tag-darknet tag-forum tag-seized">
+<article class="post-listing post-21440 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abuse tag-bka tag-child tag-darknet tag-forum tag-seized">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 20, 2017</span>

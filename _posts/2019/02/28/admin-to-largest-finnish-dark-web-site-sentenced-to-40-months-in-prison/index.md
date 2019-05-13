@@ -1,7 +1,7 @@
 ---
 Admin to Largest Finnish Dark Web Site Sentenced to 40 Months in Prison
 ---
-<article class="post-listing post-28472 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3727 tag-admin tag-dark tag-finnish tag-largest tag-months tag-prison tag-sentenced tag-site tag-web">
+<article class="post-listing post-28472 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3727 tag-admin tag-dark tag-finnish tag-largest tag-months tag-prison tag-sentenced tag-site tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
     <span>February 28, 2019</span>

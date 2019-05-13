@@ -1,7 +1,7 @@
 ---
 title: BMR Based Market: Utopia Market
 ---
-3063 category-deepdot-news category-news-updates tag-based tag-bmr tag-market tag-utopia">
+3063  tag-based tag-bmr tag-market tag-utopia">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 31, 2013</span>

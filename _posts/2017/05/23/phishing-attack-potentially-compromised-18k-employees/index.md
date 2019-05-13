@@ -1,7 +1,7 @@
 ---
 Phishing Attack Potentially Compromised 18k Employees
 ---
-<article class="post-listing post-20058 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-18k tag-attack tag-compromised tag-employees tag-phishing tag-potentially">
+<article class="post-listing post-20058 post type-post status-publish format-standard has-post-thumbnail hentry  tag-18k tag-attack tag-compromised tag-employees tag-phishing tag-potentially">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 23, 2017</span>

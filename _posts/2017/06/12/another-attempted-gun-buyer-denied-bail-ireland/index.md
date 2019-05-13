@@ -1,7 +1,7 @@
 ---
 Another Attempted Gun Buyer Denied Bail in Ireland
 ---
-<article class="post-listing post-20566 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempted tag-bail tag-buyer tag-denied tag-gun tag-ireland">
+<article class="post-listing post-20566 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempted tag-bail tag-buyer tag-denied tag-gun tag-ireland">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 12, 2017</span>

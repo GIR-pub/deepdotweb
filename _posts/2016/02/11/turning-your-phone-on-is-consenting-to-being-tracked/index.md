@@ -1,7 +1,7 @@
 ---
 Turning Your Phone On Is Consenting To Being Tracked
 ---
-<article class="post-listing post-13174 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-consenting tag-phone tag-tracked tag-turning">
+<article class="post-listing post-13174 post type-post status-publish format-standard has-post-thumbnail hentry  tag-consenting tag-phone tag-tracked tag-turning">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>February 11, 2016</span>

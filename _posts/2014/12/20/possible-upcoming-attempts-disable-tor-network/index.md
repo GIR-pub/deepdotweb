@@ -1,7 +1,7 @@
 ---
 Possible Upcoming Attempts to Disable The Tor Network
 ---
-<article class="post-listing post-8675 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempts tag-disable tag-network tag-tor tag-upcoming">
+<article class="post-listing post-8675 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempts tag-disable tag-network tag-tor tag-upcoming">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 20, 2014</span>

@@ -1,7 +1,7 @@
 ---
 Israeli Security Company Can Crack IPhone Encryption and Works with the FBI
 ---
-<article class="post-listing post-16317 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-company tag-crack tag-encryption tag-fbi tag-iphone tag-israeli tag-security tag-works">
+<article class="post-listing post-16317 post type-post status-publish format-standard has-post-thumbnail hentry  tag-company tag-crack tag-encryption tag-fbi tag-iphone tag-israeli tag-security tag-works">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 8, 2016</span>

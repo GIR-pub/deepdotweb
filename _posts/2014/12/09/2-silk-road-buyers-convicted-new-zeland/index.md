@@ -1,7 +1,7 @@
 ---
 2 Silk Road Buyers Convicted In New Zeland
 ---
-<article class="post-listing post-8579 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buyers tag-convicted tag-road tag-silk tag-zeland">
+<article class="post-listing post-8579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyers tag-convicted tag-road tag-silk tag-zeland">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 9, 2014</span>

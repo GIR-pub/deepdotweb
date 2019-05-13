@@ -1,7 +1,7 @@
 ---
 US Government Concerned with Carfentanil as a Chemical Weapon
 ---
-<article class="post-listing post-15834 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-carfentanil tag-chemical tag-concerned tag-government tag-weapon">
+<article class="post-listing post-15834 post type-post status-publish format-standard has-post-thumbnail hentry  tag-carfentanil tag-chemical tag-concerned tag-government tag-weapon">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 15, 2016</span>

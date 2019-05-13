@@ -1,7 +1,7 @@
 ---
 Evolution Market Staff Member: 130,000BTC Were Stolen
 ---
-<article class="post-listing post-9548 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-evoscam">
+<article class="post-listing post-9548 post type-post status-publish format-standard has-post-thumbnail hentry  tag-evoscam">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 18, 2015</span>

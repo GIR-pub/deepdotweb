@@ -1,7 +1,7 @@
 ---
 Almost 400 Investigated in Finnish Darknet Case
 ---
-<article class="post-listing post-23600 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2368 tag-case tag-darknet tag-finnish tag-investigated">
+<article class="post-listing post-23600 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2368 tag-case tag-darknet tag-finnish tag-investigated">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 20, 2017</span>

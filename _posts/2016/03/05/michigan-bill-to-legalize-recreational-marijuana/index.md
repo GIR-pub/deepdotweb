@@ -1,7 +1,7 @@
 ---
 Michigan Bill To Legalize Recreational Marijuana
 ---
-<article class="post-listing post-13365 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bill tag-legalize tag-marijuana tag-michigan tag-recreational">
+<article class="post-listing post-13365 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bill tag-legalize tag-marijuana tag-michigan tag-recreational">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 5, 2016</span>

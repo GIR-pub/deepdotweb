@@ -1,7 +1,7 @@
 ---
 Dutch Police Not Knowing Where Collector Got World War II Ammunition And Explosives
 ---
-<article class="post-listing post-20778 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-ammunition tag-collector tag-dutch tag-explosives tag-ii tag-knowing tag-police tag-war tag-world">
+<article class="post-listing post-20778 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ammunition tag-collector tag-dutch tag-explosives tag-ii tag-knowing tag-police tag-war tag-world">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 21, 2017</span>

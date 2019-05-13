@@ -1,7 +1,7 @@
 ---
 Montgomery Man Convicted For Illegal Gun Sales on Darknet Markets
 ---
-<article class="post-listing post-11004 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-convicted tag-fingerprints tag-man tag-montgomery tag-package tag-tracing">
+<article class="post-listing post-11004 post type-post status-publish format-standard has-post-thumbnail hentry  tag-convicted tag-fingerprints tag-man tag-montgomery tag-package tag-tracing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tariqriaz/" title="">Tariq Riaz </a></span>
     <span>July 9, 2015</span>

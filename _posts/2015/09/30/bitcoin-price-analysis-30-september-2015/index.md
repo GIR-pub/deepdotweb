@@ -1,7 +1,7 @@
 ---
 Bitcoin price analysis 30 September 2015
 ---
-<article class="post-listing post-11639 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2524 tag-1778 tag-analysis tag-bitcoin tag-price tag-september">
+<article class="post-listing post-11639 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-1778 tag-analysis tag-bitcoin tag-price tag-september">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>September 30, 2015</span>

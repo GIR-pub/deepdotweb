@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis 18th June
 ---
-<article class="post-listing post-10845 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-18th tag-analysis tag-bitcoin tag-june tag-price">
+<article class="post-listing post-10845 post type-post status-publish format-standard has-post-thumbnail hentry  tag-18th tag-analysis tag-bitcoin tag-june tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>June 18, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Industrial Spies Hunt Norwegian Trade Secrets On The Dark Web
 ---
-<article class="post-listing post-16546 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-hunt tag-industrial tag-norwegian tag-secrets tag-spies tag-trade tag-web">
+<article class="post-listing post-16546 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-hunt tag-industrial tag-norwegian tag-secrets tag-spies tag-trade tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 24, 2016</span>

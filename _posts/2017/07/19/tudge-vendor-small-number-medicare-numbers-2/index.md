@@ -1,7 +1,7 @@
 ---
 Tudge: Vendor Has a ‘Small Number’ of Medicare Numbers
 ---
-<article class="post-listing post-21418 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-medicare tag-number tag-numbers tag-small tag-tudge tag-vendor">
+<article class="post-listing post-21418 post type-post status-publish format-standard has-post-thumbnail hentry  tag-medicare tag-number tag-numbers tag-small tag-tudge tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 19, 2017</span>

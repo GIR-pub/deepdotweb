@@ -1,7 +1,7 @@
 ---
 Drama: Black Hat Hackers Hack Each Other
 ---
-<article class="post-listing post-15774 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-black tag-drama tag-hack tag-hackers tag-hat">
+<article class="post-listing post-15774 post type-post status-publish format-standard has-post-thumbnail hentry  tag-black tag-drama tag-hack tag-hackers tag-hat">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 13, 2016</span>

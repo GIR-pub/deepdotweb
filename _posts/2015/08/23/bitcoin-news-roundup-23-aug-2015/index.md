@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 23 Aug. 2015
 ---
-<article class="post-listing post-11321 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2524 tag-2706 tag-aug tag-bitcoin tag-news tag-roundup">
+<article class="post-listing post-11321 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-2706 tag-aug tag-bitcoin tag-news tag-roundup">
     
 <div class="post-inner">
     

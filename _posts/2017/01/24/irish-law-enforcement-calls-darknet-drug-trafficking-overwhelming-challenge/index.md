@@ -1,7 +1,7 @@
 ---
 Irish Law Enforcement Calls Darknet Drug Trafficking an “Overwhelming Challenge”
 ---
-<article class="post-listing post-17673 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-calls tag-challenge tag-darknet tag-drug tag-enforcement tag-irish tag-law tag-overwhelming tag-trafficking">
+<article class="post-listing post-17673 post type-post status-publish format-standard has-post-thumbnail hentry  tag-calls tag-challenge tag-darknet tag-drug tag-enforcement tag-irish tag-law tag-overwhelming tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 24, 2017</span>

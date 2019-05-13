@@ -1,7 +1,7 @@
 ---
 Investors See Bitcoin as Gold 2.0 Amid Global Market Instability
 ---
-<article class="post-listing post-16498 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updatestag-bitcoin tag-global tag-gold tag-instability tag-investors tag-market">
+<article class="post-listing post-16498 post type-post status-publish format-standard has-post-thumbnail hentry tag-bitcoin tag-global tag-gold tag-instability tag-investors tag-market">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>November 20, 2016</span>

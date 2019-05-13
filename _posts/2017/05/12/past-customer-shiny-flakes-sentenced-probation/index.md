@@ -1,7 +1,7 @@
 ---
 Past Customer Of Shiny Flakes Sentenced To Probation
 ---
-<article class="post-listing post-19775 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-customer tag-flakes tag-probation tag-sentenced tag-shiny">
+<article class="post-listing post-19775 post type-post status-publish format-standard has-post-thumbnail hentry  tag-customer tag-flakes tag-probation tag-sentenced tag-shiny">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 12, 2017</span>

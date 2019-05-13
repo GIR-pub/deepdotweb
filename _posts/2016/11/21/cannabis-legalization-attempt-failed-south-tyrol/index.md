@@ -1,7 +1,7 @@
 ---
 Cannabis Legalization Attempt Failed In South Tyrol
 ---
-<article class="post-listing post-16506 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempt tag-cannabis tag-failed tag-legalization tag-south tag-tyrol">
+<article class="post-listing post-16506 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempt tag-cannabis tag-failed tag-legalization tag-south tag-tyrol">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 21, 2016</span>

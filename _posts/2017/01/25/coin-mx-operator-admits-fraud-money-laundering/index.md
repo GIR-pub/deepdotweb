@@ -1,7 +1,7 @@
 ---
 Coin.mx Operator Admits Fraud and Money Laundering
 ---
-<article class="post-listing post-17686 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-coinmx tag-fraud tag-laundering tag-money tag-operator">
+<article class="post-listing post-17686 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admits tag-coinmx tag-fraud tag-laundering tag-money tag-operator">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 25, 2017</span>

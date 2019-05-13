@@ -1,7 +1,7 @@
 ---
 Arizona Bill Seeks to Update Law to Recognize Smart Contracts
 ---
-<article class="post-listing post-18366 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arizona tag-bill tag-contracts tag-law tag-recognize tag-seeks tag-smart tag-update">
+<article class="post-listing post-18366 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arizona tag-bill tag-contracts tag-law tag-recognize tag-seeks tag-smart tag-update">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>February 27, 2017</span>

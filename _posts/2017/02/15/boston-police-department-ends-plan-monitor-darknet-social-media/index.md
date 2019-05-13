@@ -1,7 +1,7 @@
 ---
 Boston Police Department Ends Plan To Monitor the Darknet and Social Media
 ---
-<article class="post-listing post-18133 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-boston tag-darknet tag-department tag-ends tag-media tag-monitor tag-plan tag-police tag-social">
+<article class="post-listing post-18133 post type-post status-publish format-standard has-post-thumbnail hentry  tag-boston tag-darknet tag-department tag-ends tag-media tag-monitor tag-plan tag-police tag-social">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>February 15, 2017</span>

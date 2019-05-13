@@ -1,7 +1,7 @@
 ---
 FCC: ISPs To Get Customer&#8217;s Permission Before Sharing Their Personal Info
 ---
-<article class="post-listing post-13536 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-customers tag-fcc tag-info tag-isps tag-permission tag-personal tag-sharing">
+<article class="post-listing post-13536 post type-post status-publish format-standard has-post-thumbnail hentry  tag-customers tag-fcc tag-info tag-isps tag-permission tag-personal tag-sharing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 21, 2016</span>

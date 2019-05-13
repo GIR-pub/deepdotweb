@@ -1,7 +1,7 @@
 ---
 Hospital Radiographer Sentenced For Huge Child Porn Collection
 ---
-<article class="post-listing post-12785 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-collection tag-hospital tag-huge tag-porn tag-radiographer tag-sentenced">
+<article class="post-listing post-12785 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-collection tag-hospital tag-huge tag-porn tag-radiographer tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 31, 2015</span>

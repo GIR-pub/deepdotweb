@@ -1,7 +1,7 @@
 ---
 Knoxville Federal Judge Rules Against FBI In PlayPen Case
 ---
-<article class="post-listing post-16065 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-fbi tag-federal tag-judge tag-knoxville tag-playpen tag-rules">
+<article class="post-listing post-16065 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-fbi tag-federal tag-judge tag-knoxville tag-playpen tag-rules">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 26, 2016</span>

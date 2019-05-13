@@ -1,7 +1,7 @@
 ---
 The Darknet Search Engine ‘Grams’ is Shutting Down
 ---
-<article class="post-listing post-23916 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-engine tag-grams tag-search tag-shutting">
+<article class="post-listing post-23916 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-engine tag-grams tag-search tag-shutting">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 15, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Ethiopian Smuggling Ring Busted In Italy
 ---
-<article class="post-listing post-16678 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-ethiopian tag-italy tag-ring tag-smuggling">
+<article class="post-listing post-16678 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-ethiopian tag-italy tag-ring tag-smuggling">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 1, 2016</span>

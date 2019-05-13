@@ -1,7 +1,7 @@
 ---
 Arizona Doctor Charged with Selling Bitcoin Without a License
 ---
-<article class="post-listing post-21417 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arizona tag-bitcoin tag-charged tag-doctor tag-license tag-selling">
+<article class="post-listing post-21417 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arizona tag-bitcoin tag-charged tag-doctor tag-license tag-selling">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>July 19, 2017</span>

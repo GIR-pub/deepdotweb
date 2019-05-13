@@ -1,7 +1,7 @@
 ---
 Interior Ministry And Police In North Rhine-Westphalia Turn Major Focus On Cybercrime Defense
 ---
-<article class="post-listing post-19124 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cybercrime tag-defense tag-focus tag-interior tag-major tag-ministry tag-north tag-police tag-rhinewestphalia tag-turn">
+<article class="post-listing post-19124 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cybercrime tag-defense tag-focus tag-interior tag-major tag-ministry tag-north tag-police tag-rhinewestphalia tag-turn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 11, 2017</span>

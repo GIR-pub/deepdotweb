@@ -1,7 +1,7 @@
 ---
 Grand Jury Indicts U-47 Vendor “PeterTheGreat”
 ---
-<article class="post-listing post-20169 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-grand tag-indicts tag-jury tag-peterthegreat tag-u47 tag-vendor">
+<article class="post-listing post-20169 post type-post status-publish format-standard has-post-thumbnail hentry  tag-grand tag-indicts tag-jury tag-peterthegreat tag-u47 tag-vendor">
     
     <div class="post-inner">
     

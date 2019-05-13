@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis &#8211; 25 Novemebr 2015
 ---
-<article class="post-listing post-12320 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2524 tag-2528 tag-analysis tag-bitcoin tag-novemebr tag-price">
+<article class="post-listing post-12320 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-2528 tag-analysis tag-bitcoin tag-novemebr tag-price">
     
 <div class="post-inner">
     

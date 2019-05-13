@@ -1,7 +1,7 @@
 ---
 xDedic is Back in Business on the Dark Web
 ---
-<article class="post-listing post-14833 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-business tag-dark tag-web tag-xdedic">
+<article class="post-listing post-14833 post type-post status-publish format-standard has-post-thumbnail hentry  tag-business tag-dark tag-web tag-xdedic">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>July 19, 2016</span>

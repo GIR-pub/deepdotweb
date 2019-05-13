@@ -1,7 +1,7 @@
 ---
 Local Police Contract the Same Hacking Firms as the FBI
 ---
-<article class="post-listing post-20878 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-contract tag-fbi tag-firms tag-hacking tag-local tag-police">
+<article class="post-listing post-20878 post type-post status-publish format-standard has-post-thumbnail hentry  tag-contract tag-fbi tag-firms tag-hacking tag-local tag-police">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 25, 2017</span>

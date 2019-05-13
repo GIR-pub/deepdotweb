@@ -1,7 +1,7 @@
 ---
 Market Is Currently Up Or Down? Check Our Sidebar!
 ---
-<article class="post-listing post-5276 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-check tag-market tag-sidebar-2">
+<article class="post-listing post-5276 post type-post status-publish format-standard has-post-thumbnail hentry  tag-check tag-market tag-sidebar-2">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 4, 2014</span>

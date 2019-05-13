@@ -1,7 +1,7 @@
 ---
 Three Arrested In The Netherlands For Selling Ecstasy On The DarkNet
 ---
-<article class="post-listing post-19367 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-ecstasy tag-netherlands tag-selling">
+<article class="post-listing post-19367 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-ecstasy tag-netherlands tag-selling">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 24, 2017</span>

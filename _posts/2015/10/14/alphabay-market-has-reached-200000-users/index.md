@@ -1,7 +1,7 @@
 ---
 Alphabay Market Has Reached 200,000 Users
 ---
-<article class="post-listing post-11775 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-901 tag-alphabay tag-market tag-reached tag-users">
+<article class="post-listing post-11775 post type-post status-publish format-standard has-post-thumbnail hentry  tag-901 tag-alphabay tag-market tag-reached tag-users">
     
 <div class="post-inner">
     

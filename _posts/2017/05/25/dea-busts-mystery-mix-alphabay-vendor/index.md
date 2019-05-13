@@ -1,7 +1,7 @@
 ---
 DEA Busts a “Mystery Mix” Alphabay Vendor
 ---
-<article class="post-listing post-20102 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-busts tag-dea tag-mix tag-mystery tag-vendor">
+<article class="post-listing post-20102 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-busts tag-dea tag-mix tag-mystery tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 25, 2017</span>

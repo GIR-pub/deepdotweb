@@ -1,7 +1,7 @@
 ---
 Over 200 Android Apps Are Tracking Users with Ultrasonic Beacons
 ---
-<article class="post-listing post-20056 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-175 tag-android tag-apps tag-beacons tag-tracking tag-ultrasonic tag-users">
+<article class="post-listing post-20056 post type-post status-publish format-standard has-post-thumbnail hentry  tag-175 tag-android tag-apps tag-beacons tag-tracking tag-ultrasonic tag-users">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>May 23, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Russian Hacker Sentenced in One State, Two States to Go
 ---
-<article class="post-listing post-20403 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-hacker tag-russian tag-sentenced tag-state tag-states">
+<article class="post-listing post-20403 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacker tag-russian tag-sentenced tag-state tag-states">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 5, 2017</span>

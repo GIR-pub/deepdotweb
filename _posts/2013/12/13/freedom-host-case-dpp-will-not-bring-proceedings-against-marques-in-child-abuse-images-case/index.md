@@ -1,7 +1,7 @@
 ---
 title: Freedom Host Case: DPP will not bring proceedings against Marques in child abuse images case
 ---
-2529 category-deepdot-news category-news-updates tag-abuse tag-bring tag-case tag-child tag-dpp tag-freedom tag-host tag-images tag-marques tag-proceedings">
+2529  tag-abuse tag-bring tag-case tag-child tag-dpp tag-freedom tag-host tag-images tag-marques tag-proceedings">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 13, 2013</span>

@@ -1,7 +1,7 @@
 ---
 Bavarian Justice Minister To Introduce Bill Resulting In More Efficient Investigations Against Darknet Criminals
 ---
-<article class="post-listing post-21092 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bavarian tag-bill tag-criminals tag-darknet tag-efficient tag-introduce tag-investigations tag-justice tag-minister tag-resulting">
+<article class="post-listing post-21092 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bavarian tag-bill tag-criminals tag-darknet tag-efficient tag-introduce tag-investigations tag-justice tag-minister tag-resulting">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 5, 2017</span>

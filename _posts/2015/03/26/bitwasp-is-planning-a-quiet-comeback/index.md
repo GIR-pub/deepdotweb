@@ -1,7 +1,7 @@
 ---
 Can Bitwasp Make a Comeback? Maybe.
 ---
-<article class="post-listing post-9618 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitwasp tag-comeback">
+<article class="post-listing post-9618 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitwasp tag-comeback">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 26, 2015</span>

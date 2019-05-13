@@ -1,7 +1,7 @@
 ---
 FBI Ultimate Hack Job, 1300 Computers Take Down
 ---
-<article class="post-listing post-12898 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3345 tag-computers tag-fbi tag-hack tag-job tag-ultimate">
+<article class="post-listing post-12898 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3345 tag-computers tag-fbi tag-hack tag-job tag-ultimate">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 8, 2016</span>

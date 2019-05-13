@@ -1,7 +1,7 @@
 ---
 British Student Jailed For Creating DDoS Tool And Selling It To Cybercriminals
 ---
-<article class="post-listing post-19739 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-british tag-creating tag-cybercriminals tag-ddos tag-jailed tag-selling tag-student tag-tool">
+<article class="post-listing post-19739 post type-post status-publish format-standard has-post-thumbnail hentry  tag-british tag-creating tag-cybercriminals tag-ddos tag-jailed tag-selling tag-student tag-tool">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Pandora Marketplace Hacked: Losing $250,000 in BTC
 ---
-<article class="post-listing post-4739 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1447 tag-btc tag-hacked tag-losing tag-pandora">
+<article class="post-listing post-4739 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1447 tag-btc tag-hacked tag-losing tag-pandora">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 20, 2014</span>

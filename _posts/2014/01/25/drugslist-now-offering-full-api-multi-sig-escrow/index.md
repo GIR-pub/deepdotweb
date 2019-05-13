@@ -1,7 +1,7 @@
 ---
 Drugslist Now Offering FULL API multi-sig escrow
 ---
-<article class="post-listing post-3644 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-api tag-drugslist tag-escrow tag-full tag-multisig tag-offering">
+<article class="post-listing post-3644 post type-post status-publish format-standard has-post-thumbnail hentry  tag-api tag-drugslist tag-escrow tag-full tag-multisig tag-offering">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 25, 2014</span>

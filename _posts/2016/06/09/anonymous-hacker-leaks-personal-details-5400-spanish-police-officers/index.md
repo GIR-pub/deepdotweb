@@ -1,7 +1,7 @@
 ---
 Hacker Leaks Personal Details Of 5400 Spanish Police Officers
 ---
-<article class="post-listing post-14458 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3841 tag-details tag-hacker tag-leaks tag-officers tag-personal tag-police tag-spanish">
+<article class="post-listing post-14458 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3841 tag-details tag-hacker tag-leaks tag-officers tag-personal tag-police tag-spanish">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 9, 2016</span>

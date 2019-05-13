@@ -1,7 +1,7 @@
 ---
 title: BMR Is Shutting Down!
 ---
-2223 category-deepdot-news category-news-updates tag-bmr tag-shutting">
+2223  tag-bmr tag-shutting">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 1, 2013</span>

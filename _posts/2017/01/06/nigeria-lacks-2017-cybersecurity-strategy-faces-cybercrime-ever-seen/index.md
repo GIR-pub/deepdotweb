@@ -1,7 +1,7 @@
 ---
 Nigeria Lacks a 2017 Cybersecurity Strategy but Faces the Most Cybercrime Ever Seen
 ---
-<article class="post-listing post-17350 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3676 tag-cybercrime tag-cybersecurity tag-faces tag-lacks tag-nigeria tag-strategy">
+<article class="post-listing post-17350 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3676 tag-cybercrime tag-cybersecurity tag-faces tag-lacks tag-nigeria tag-strategy">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 6, 2017</span>

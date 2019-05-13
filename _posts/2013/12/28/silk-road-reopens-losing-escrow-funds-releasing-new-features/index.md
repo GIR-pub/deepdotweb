@@ -1,7 +1,7 @@
 ---
 title: Silk Road Reopens: Losing Escrow Funds &#038; Releasing New Features
 ---
-2981 category-deepdot-news category-news-updates tag-escrow tag-features tag-funds tag-losing tag-releasing tag-reopens tag-road tag-silk">
+2981  tag-escrow tag-features tag-funds tag-losing tag-releasing tag-reopens tag-road tag-silk">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 28, 2013</span>

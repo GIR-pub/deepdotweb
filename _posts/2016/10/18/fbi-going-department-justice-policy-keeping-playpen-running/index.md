@@ -1,7 +1,7 @@
 ---
 Was the FBI Going Against Department of Justice Policy by Keeping Playpen Running?
 ---
-<article class="post-listing post-15922 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-department tag-fbi tag-justice tag-keeping tag-playpen tag-policy tag-running">
+<article class="post-listing post-15922 post type-post status-publish format-standard has-post-thumbnail hentry  tag-department tag-fbi tag-justice tag-keeping tag-playpen tag-policy tag-running">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>October 18, 2016</span>

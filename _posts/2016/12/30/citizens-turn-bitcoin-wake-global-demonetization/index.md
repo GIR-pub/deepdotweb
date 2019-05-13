@@ -1,7 +1,7 @@
 ---
 Citizens Turn To Bitcoin in the Wake of Global Demonetization
 ---
-<article class="post-listing post-17223 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-citizens tag-demonetization tag-global tag-kptx tag-turn tag-wake">
+<article class="post-listing post-17223 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-citizens tag-demonetization tag-global tag-kptx tag-turn tag-wake">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>December 30, 2016</span>

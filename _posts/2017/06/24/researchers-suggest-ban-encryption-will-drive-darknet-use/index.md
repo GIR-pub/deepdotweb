@@ -1,7 +1,7 @@
 ---
 Researchers Suggest a Ban on Encryption Will Drive Darknet Use
 ---
-<article class="post-listing post-20855 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-ban tag-darknet tag-drive tag-encryption tag-researchers tag-suggest">
+<article class="post-listing post-20855 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ban tag-darknet tag-drive tag-encryption tag-researchers tag-suggest">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 24, 2017</span>

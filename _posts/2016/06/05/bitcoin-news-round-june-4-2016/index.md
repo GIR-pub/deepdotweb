@@ -1,7 +1,7 @@
 ---
 Bitcoin News Round Up June 4 2016
 ---
-<article class="post-listing post-14388 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-bitcoin tag-june tag-news">
+<article class="post-listing post-14388 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-bitcoin tag-june tag-news">
     
     <div class="post-inner">
     

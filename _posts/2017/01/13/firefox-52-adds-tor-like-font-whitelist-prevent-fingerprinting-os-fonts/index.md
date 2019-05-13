@@ -1,7 +1,7 @@
 ---
 Firefox 52 Adds a Tor-Like Font Whitelist to Prevent Fingerprinting through OS Fonts
 ---
-<article class="post-listing post-17489 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4830 tag-adds tag-fingerprinting tag-firefox tag-font tag-fonts tag-os tag-prevent tag-torlike tag-whitelist">
+<article class="post-listing post-17489 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4830 tag-adds tag-fingerprinting tag-firefox tag-font tag-fonts tag-os tag-prevent tag-torlike tag-whitelist">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 13, 2017</span>

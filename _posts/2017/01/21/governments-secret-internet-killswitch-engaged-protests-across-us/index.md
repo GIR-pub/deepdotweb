@@ -1,7 +1,7 @@
 ---
 Is the Government’s Secret Internet Killswitch Being Engaged at Protests Across the US?
 ---
-<article class="post-listing post-17644 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-engaged tag-governments tag-internet tag-killswitch tag-protests tag-secret">
+<article class="post-listing post-17644 post type-post status-publish format-standard has-post-thumbnail hentry  tag-engaged tag-governments tag-internet tag-killswitch tag-protests tag-secret">
     
     <div class="post-inner">
     

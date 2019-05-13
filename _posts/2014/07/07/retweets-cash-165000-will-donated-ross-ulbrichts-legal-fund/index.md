@@ -1,7 +1,7 @@
 ---
 Retweets For Cash: ~165,000$ Will Be Donated To Ross Ulbricht&#8217;s Legal Fund
 ---
-<article class="post-listing post-6366 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1804 tag-cash tag-donated tag-fund tag-legal tag-retweets tag-ross tag-ulbrichts">
+<article class="post-listing post-6366 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1804 tag-cash tag-donated tag-fund tag-legal tag-retweets tag-ross tag-ulbrichts">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 7, 2014</span>

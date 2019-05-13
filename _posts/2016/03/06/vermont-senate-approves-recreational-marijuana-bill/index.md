@@ -1,7 +1,7 @@
 ---
 Vermont Senate Approves Recreational Marijuana Bill
 ---
-<article class="post-listing post-13367 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-approves tag-bill tag-marijuana tag-recreational tag-senate tag-vermont">
+<article class="post-listing post-13367 post type-post status-publish format-standard has-post-thumbnail hentry  tag-approves tag-bill tag-marijuana tag-recreational tag-senate tag-vermont">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 6, 2016</span>

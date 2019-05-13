@@ -1,7 +1,7 @@
 ---
 Two Men Associated With the “Closed” Hansa Darknet Market Busted By the Nrw
 ---
-<article class="post-listing post-21748 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-closed tag-darknet tag-hansa tag-market tag-men tag-nrw">
+<article class="post-listing post-21748 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-closed tag-darknet tag-hansa tag-market tag-men tag-nrw">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>August 5, 2017</span>

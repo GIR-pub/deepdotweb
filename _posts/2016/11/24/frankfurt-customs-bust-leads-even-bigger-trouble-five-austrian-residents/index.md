@@ -1,7 +1,7 @@
 ---
 Frankfurt Customs Bust Leads to Even Bigger Trouble For five Austrian Residents
 ---
-<article class="post-listing post-16566 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-austrian tag-bigger tag-bust tag-customs tag-frankfurt tag-leads tag-residents tag-trouble">
+<article class="post-listing post-16566 post type-post status-publish format-standard has-post-thumbnail hentry  tag-austrian tag-bigger tag-bust tag-customs tag-frankfurt tag-leads tag-residents tag-trouble">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>November 24, 2016</span>

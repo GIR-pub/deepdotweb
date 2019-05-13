@@ -1,7 +1,7 @@
 ---
 Bitcoin has Transformed From Darknet Money into Digital Gold
 ---
-<article class="post-listing post-18148 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-darknet tag-digital tag-gold tag-money tag-transformed">
+<article class="post-listing post-18148 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-darknet tag-digital tag-gold tag-money tag-transformed">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>February 16, 2017</span>

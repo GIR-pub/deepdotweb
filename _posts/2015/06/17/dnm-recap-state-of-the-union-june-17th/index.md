@@ -1,7 +1,7 @@
 ---
 DNM Recap: State of the Union June 17th
 ---
-<article class="post-listing post-10836 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-17th tag-dnm tag-june tag-recap tag-state tag-union">
+<article class="post-listing post-10836 post type-post status-publish format-standard has-post-thumbnail hentry  tag-17th tag-dnm tag-june tag-recap tag-state tag-union">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/christian/" title="">Christian </a></span>
     <span>June 17, 2015</span>

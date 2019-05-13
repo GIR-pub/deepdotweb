@@ -1,7 +1,7 @@
 ---
 DNM Recap: State of the Union June 10
 ---
-<article class="post-listing post-10660 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dnm tag-june tag-recap tag-state tag-union">
+<article class="post-listing post-10660 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dnm tag-june tag-recap tag-state tag-union">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 10, 2015</span>

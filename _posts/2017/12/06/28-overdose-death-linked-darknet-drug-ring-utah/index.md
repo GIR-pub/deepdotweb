@@ -1,7 +1,7 @@
 ---
 28 Overdose death linked to Darknet drug ring in Utah
 ---
-<article class="post-listing post-23812 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2518 tag-darknet tag-death tag-drug tag-linked tag-overdose tag-ring tag-utah">
+<article class="post-listing post-23812 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2518 tag-darknet tag-death tag-drug tag-linked tag-overdose tag-ring tag-utah">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
     <span>December 6, 2017</span>

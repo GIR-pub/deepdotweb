@@ -1,7 +1,7 @@
 ---
 Prison Librarian Bought Gun On Dark Web
 ---
-<article class="post-listing post-14437 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bought tag-dark tag-gun tag-librarian tag-prison tag-web">
+<article class="post-listing post-14437 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bought tag-dark tag-gun tag-librarian tag-prison tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 7, 2016</span>

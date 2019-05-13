@@ -1,7 +1,7 @@
 ---
 How Dark Web Evolved Into a Well-Structured Global Criminal Network
 ---
-<article class="post-listing post-20342 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-criminal tag-dark tag-evolved tag-global tag-network tag-web tag-wellstructured">
+<article class="post-listing post-20342 post type-post status-publish format-standard has-post-thumbnail hentry  tag-criminal tag-dark tag-evolved tag-global tag-network tag-web tag-wellstructured">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>June 3, 2017</span>

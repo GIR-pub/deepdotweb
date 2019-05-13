@@ -1,7 +1,7 @@
 ---
 Two Sussex Men Charged for Darknet Drug Sales and Money Laundering
 ---
-<article class="post-listing post-16889 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charged tag-darknet tag-drug tag-laundering tag-men tag-money tag-sales tag-sussex">
+<article class="post-listing post-16889 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-darknet tag-drug tag-laundering tag-men tag-money tag-sales tag-sussex">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 12, 2016</span>

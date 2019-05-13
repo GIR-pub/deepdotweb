@@ -1,7 +1,7 @@
 ---
 WA State Bill to Ban Bitcoin at Marijuana Shops Dies, &#038; the Companies that Bring Bitcoin to Marijuana Stores
 ---
-<article class="post-listing post-19136 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-ban tag-bill tag-bitcoin tag-bring tag-companies tag-dies tag-marijuana tag-shops tag-state tag-stores tag-wa">
+<article class="post-listing post-19136 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ban tag-bill tag-bitcoin tag-bring tag-companies tag-dies tag-marijuana tag-shops tag-state tag-stores tag-wa">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>April 12, 2017</span>

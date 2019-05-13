@@ -1,7 +1,7 @@
 ---
 Australia Gets Gun Amnesty, Better Mail Screening in July
 ---
-<article class="post-listing post-21028 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-amnesty tag-australia tag-gun tag-july tag-mail tag-screening">
+<article class="post-listing post-21028 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amnesty tag-australia tag-gun tag-july tag-mail tag-screening">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 2, 2017</span>

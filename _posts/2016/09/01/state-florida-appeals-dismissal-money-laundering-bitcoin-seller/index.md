@@ -1,7 +1,7 @@
 ---
 State of Florida Appeals the Dismissal of “Money Laundering” Bitcoin Seller
 ---
-<article class="post-listing post-15307 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-appeals tag-bitcoin tag-dismissal tag-florida tag-laundering tag-money tag-seller tag-state">
+<article class="post-listing post-15307 post type-post status-publish format-standard has-post-thumbnail hentry  tag-appeals tag-bitcoin tag-dismissal tag-florida tag-laundering tag-money tag-seller tag-state">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 1, 2016</span>

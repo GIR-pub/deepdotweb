@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis March 15. 2016
 ---
-<article class="post-listing post-13470 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1886 tag-3336 tag-analysis tag-bitcoin tag-march tag-price">
+<article class="post-listing post-13470 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1886 tag-3336 tag-analysis tag-bitcoin tag-march tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 15, 2016</span>

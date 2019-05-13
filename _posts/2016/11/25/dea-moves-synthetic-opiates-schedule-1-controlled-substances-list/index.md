@@ -1,7 +1,7 @@
 ---
 DEA Moves Synthetic Opiates into Schedule 1 Controlled Substances List
 ---
-<article class="post-listing post-16569 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-controlled tag-dea tag-list tag-moves tag-opiates tag-schedule tag-substances tag-synthetic">
+<article class="post-listing post-16569 post type-post status-publish format-standard has-post-thumbnail hentry  tag-controlled tag-dea tag-list tag-moves tag-opiates tag-schedule tag-substances tag-synthetic">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>November 25, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Digital Asset Holdings &#038; Nasdaq Executive File Blockchain Patents
 ---
-<article class="post-listing post-15973 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-asset tag-blockchain tag-digital tag-executive tag-file tag-holdings tag-nasdaq tag-patents">
+<article class="post-listing post-15973 post type-post status-publish format-standard has-post-thumbnail hentry  tag-asset tag-blockchain tag-digital tag-executive tag-file tag-holdings tag-nasdaq tag-patents">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>October 21, 2016</span>

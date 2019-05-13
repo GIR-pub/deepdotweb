@@ -1,7 +1,7 @@
 ---
 A ransomware master known as “Pornopoker” was arrested in Russia
 ---
-<article class="post-listing post-16901 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-master tag-pornopoker tag-ransomware tag-russia">
+<article class="post-listing post-16901 post type-post status-publish format-standard has-post-thumbnail hentry  tag-master tag-pornopoker tag-ransomware tag-russia">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>December 13, 2016</span>

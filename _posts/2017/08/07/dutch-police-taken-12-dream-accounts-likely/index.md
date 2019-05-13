@@ -1,7 +1,7 @@
 ---
 Dutch Police Have Taken Over 12 Dream Accounts, Likely More
 ---
-<article class="post-listing post-21786 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2688 tag-accounts tag-dream tag-dutch tag-police">
+<article class="post-listing post-21786 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-accounts tag-dream tag-dutch tag-police">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 7, 2017</span>

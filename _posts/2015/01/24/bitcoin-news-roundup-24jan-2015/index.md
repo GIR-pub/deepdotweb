@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 24Jan. 2015
 ---
-<article class="post-listing post-8891 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2524 tag-24jan tag-bitcoin tag-news tag-roundup">
+<article class="post-listing post-8891 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-24jan tag-bitcoin tag-news tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 24, 2015</span>

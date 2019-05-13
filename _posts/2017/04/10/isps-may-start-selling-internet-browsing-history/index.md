@@ -1,7 +1,7 @@
 ---
 ISPs May Start Selling Internet Browsing History
 ---
-<article class="post-listing post-19111 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-browsing tag-history tag-internet tag-isps tag-selling tag-start">
+<article class="post-listing post-19111 post type-post status-publish format-standard has-post-thumbnail hentry  tag-browsing tag-history tag-internet tag-isps tag-selling tag-start">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 10, 2017</span>

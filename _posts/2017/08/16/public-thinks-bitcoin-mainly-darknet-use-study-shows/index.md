@@ -1,7 +1,7 @@
 ---
 Public Thinks Bitcoin is Mainly for Darknet Use, Study Shows
 ---
-<article class="post-listing post-21992 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-darknet tag-public tag-shows tag-study tag-thinks">
+<article class="post-listing post-21992 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-darknet tag-public tag-shows tag-study tag-thinks">
     
     <div class="post-inner">
     

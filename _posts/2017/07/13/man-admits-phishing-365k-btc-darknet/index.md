@@ -1,7 +1,7 @@
 ---
 Man Admits Phishing $365k in BTC on the Darknet
 ---
-<article class="post-listing post-21256 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-365k tag-admits tag-btc tag-darknet tag-man tag-phishing">
+<article class="post-listing post-21256 post type-post status-publish format-standard has-post-thumbnail hentry  tag-365k tag-admits tag-btc tag-darknet tag-man tag-phishing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 13, 2017</span>

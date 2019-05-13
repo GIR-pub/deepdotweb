@@ -1,7 +1,7 @@
 ---
 Leader of Lubbock Fentanyl Trafficking Group Sentenced
 ---
-<article class="post-listing post-20922 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fentanyl tag-group tag-leader tag-lubbock tag-sentenced tag-trafficking">
+<article class="post-listing post-20922 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fentanyl tag-group tag-leader tag-lubbock tag-sentenced tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 27, 2017</span>

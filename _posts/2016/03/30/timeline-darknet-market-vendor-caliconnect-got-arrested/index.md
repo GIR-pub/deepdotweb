@@ -1,7 +1,7 @@
 ---
 Timeline: Arrest Of The Darknet Market Vendor &#8216;Caliconnect&#8217;
 ---
-<article class="post-listing post-13609 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-caliconnect tag-darknet tag-market tag-timeline tag-vendor">
+<article class="post-listing post-13609 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-caliconnect tag-darknet tag-market tag-timeline tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 30, 2016</span>

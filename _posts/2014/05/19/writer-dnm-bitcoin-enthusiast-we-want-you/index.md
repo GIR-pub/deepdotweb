@@ -1,7 +1,7 @@
 ---
 Like to Write? Dark Net / Bitcoin Enthusiast? We Want You!
 ---
-<article class="post-listing post-5658 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-dnm tag-enthusiast tag-writer">
+<article class="post-listing post-5658 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-dnm tag-enthusiast tag-writer">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 19, 2014</span>

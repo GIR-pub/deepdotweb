@@ -1,7 +1,7 @@
 ---
 Bitcoin News Round Up May 29 2016
 ---
-<article class="post-listing post-14289 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-1995 tag-bitcoin tag-news">
+<article class="post-listing post-14289 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-1995 tag-bitcoin tag-news">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/octree/" title="">Octree </a></span>
     <span>May 29, 2016</span>

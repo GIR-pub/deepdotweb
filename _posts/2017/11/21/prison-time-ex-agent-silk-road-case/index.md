@@ -1,7 +1,7 @@
 ---
 More Prison Time for Ex-Agent in Silk Road Case
 ---
-<article class="post-listing post-23614 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-exagent tag-prison tag-road tag-silk tag-time">
+<article class="post-listing post-23614 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-exagent tag-prison tag-road tag-silk tag-time">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 21, 2017</span>

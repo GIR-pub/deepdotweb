@@ -1,7 +1,7 @@
 ---
 German Students Sentenced To Community Work For Purchasing Counterfeit Euro Notes
 ---
-<article class="post-listing post-20104 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-community tag-counterfeit tag-euro tag-german tag-notes tag-purchasing tag-sentenced tag-students tag-work">
+<article class="post-listing post-20104 post type-post status-publish format-standard has-post-thumbnail hentry  tag-community tag-counterfeit tag-euro tag-german tag-notes tag-purchasing tag-sentenced tag-students tag-work">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 25, 2017</span>

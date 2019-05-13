@@ -1,7 +1,7 @@
 ---
 PlayPen Admin Found Guilty
 ---
-<article class="post-listing post-15563 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-guilty tag-playpen">
+<article class="post-listing post-15563 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-guilty tag-playpen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 27, 2016</span>

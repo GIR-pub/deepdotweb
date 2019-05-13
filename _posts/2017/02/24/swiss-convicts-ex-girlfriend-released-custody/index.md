@@ -1,7 +1,7 @@
 ---
 Swiss Convict’s Ex-Girlfriend Released From Custody
 ---
-<article class="post-listing post-18318 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-convicts tag-custody tag-exgirlfriend tag-released tag-swiss">
+<article class="post-listing post-18318 post type-post status-publish format-standard has-post-thumbnail hentry  tag-convicts tag-custody tag-exgirlfriend tag-released tag-swiss">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 24, 2017</span>

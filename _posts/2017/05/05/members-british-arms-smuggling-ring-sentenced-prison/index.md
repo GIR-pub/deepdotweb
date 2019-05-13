@@ -1,7 +1,7 @@
 ---
 Members Of British Arms Smuggling Ring Sentenced To Prison
 ---
-<article class="post-listing post-19634 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arms tag-british tag-members tag-prison tag-ring tag-sentenced tag-smuggling">
+<article class="post-listing post-19634 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-british tag-members tag-prison tag-ring tag-sentenced tag-smuggling">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 5, 2017</span>

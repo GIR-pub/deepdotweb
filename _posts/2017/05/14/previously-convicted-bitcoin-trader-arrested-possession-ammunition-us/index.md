@@ -1,7 +1,7 @@
 ---
 Previously Convicted Bitcoin Trader Arrested For The Possession Of Ammunition In The US
 ---
-<article class="post-listing post-19863 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-ammunition tag-bitcoin tag-convicted tag-possession tag-previously tag-trader">
+<article class="post-listing post-19863 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ammunition tag-bitcoin tag-convicted tag-possession tag-previously tag-trader">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 14, 2017</span>

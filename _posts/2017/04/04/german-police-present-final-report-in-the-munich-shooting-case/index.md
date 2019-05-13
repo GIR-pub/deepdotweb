@@ -1,7 +1,7 @@
 ---
 German Police Present Final Report In The Münich Shooting Case
 ---
-<article class="post-listing post-18989 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-final tag-german tag-munich tag-police tag-present tag-report tag-shooting">
+<article class="post-listing post-18989 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-final tag-german tag-munich tag-police tag-present tag-report tag-shooting">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 4, 2017</span>

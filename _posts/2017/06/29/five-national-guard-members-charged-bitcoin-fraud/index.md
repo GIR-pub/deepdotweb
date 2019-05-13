@@ -1,7 +1,7 @@
 ---
 Five National Guard Members Charged for Bitcoin Fraud
 ---
-<article class="post-listing post-20965 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-charged tag-fraud tag-guard tag-members tag-national">
+<article class="post-listing post-20965 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-charged tag-fraud tag-guard tag-members tag-national">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 29, 2017</span>

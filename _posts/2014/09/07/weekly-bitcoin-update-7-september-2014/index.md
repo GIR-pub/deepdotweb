@@ -1,7 +1,7 @@
 ---
 Weekly Bitcoin Update – 7 September 2014
 ---
-<article class="post-listing post-6970 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1779 tag-bitcoin tag-september tag-update tag-weekly">
+<article class="post-listing post-6970 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-september tag-update tag-weekly">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 7, 2014</span>

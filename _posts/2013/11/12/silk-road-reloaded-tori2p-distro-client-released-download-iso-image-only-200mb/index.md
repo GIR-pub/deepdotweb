@@ -1,7 +1,7 @@
 ---
 title: Silk Road reloaded: Tor/i2p distro client released!
 ---
-1313 category-deepdot-news category-news-updates tag-client tag-distro tag-released tag-reloaded tag-road tag-silk tag-tori2p">
+1313  tag-client tag-distro tag-released tag-reloaded tag-road tag-silk tag-tori2p">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 12, 2013</span>

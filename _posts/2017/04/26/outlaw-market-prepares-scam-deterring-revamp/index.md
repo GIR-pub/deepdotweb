@@ -1,7 +1,7 @@
 ---
 Outlaw Market Prepares Scam-Deterring Revamp
 ---
-<article class="post-listing post-19442 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-market tag-outlaw tag-prepares tag-revamp tag-scamdeterring">
+<article class="post-listing post-19442 post type-post status-publish format-standard has-post-thumbnail hentry  tag-market tag-outlaw tag-prepares tag-revamp tag-scamdeterring">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 26, 2017</span>

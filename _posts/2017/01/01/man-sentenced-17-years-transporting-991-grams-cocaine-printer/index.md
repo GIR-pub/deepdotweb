@@ -1,7 +1,7 @@
 ---
 Man Sentenced to 17 Years for Transporting 991 Grams of Cocaine in a Printer
 ---
-<article class="post-listing post-17261 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2684 tag-4752 tag-cocaine tag-grams tag-man tag-printer tag-sentenced tag-transporting tag-years">
+<article class="post-listing post-17261 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2684 tag-4752 tag-cocaine tag-grams tag-man tag-printer tag-sentenced tag-transporting tag-years">
     
     <div class="post-inner">
     

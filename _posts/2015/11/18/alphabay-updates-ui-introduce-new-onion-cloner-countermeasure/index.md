@@ -1,7 +1,7 @@
 ---
 Alphabay Updates UI, Introduce New Onion Cloner Countermeasure
 ---
-<article class="post-listing post-12248 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-cloner tag-countermeasure tag-introduce tag-onion tag-ui tag-updates">
+<article class="post-listing post-12248 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-cloner tag-countermeasure tag-introduce tag-onion tag-ui tag-updates">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 18, 2015</span>

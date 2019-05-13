@@ -1,7 +1,7 @@
 ---
 Two Inmates Controlled Canadian Fentanyl Trade from Prison
 ---
-<article class="post-listing post-23345 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-canadian tag-controlled tag-fentanyl tag-inmates tag-prison tag-trade">
+<article class="post-listing post-23345 post type-post status-publish format-standard has-post-thumbnail hentry  tag-canadian tag-controlled tag-fentanyl tag-inmates tag-prison tag-trade">
     
     <div class="post-inner">
     

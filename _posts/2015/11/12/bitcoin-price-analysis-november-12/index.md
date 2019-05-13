@@ -1,7 +1,7 @@
 ---
 Bitcoin price analysis November 12
 ---
-<article class="post-listing post-12091 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2688 tag-analysis tag-bitcoin tag-november tag-price">
+<article class="post-listing post-12091 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-analysis tag-bitcoin tag-november tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>November 12, 2015</span>

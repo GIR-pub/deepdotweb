@@ -1,7 +1,7 @@
 ---
 Dark Net Arms Vendor Gunrunner to be Sentenced Next Month
 ---
-<article class="post-listing post-15173 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arms tag-dark tag-dealer tag-gunrunner tag-month tag-net tag-scheduled tag-sentenced">
+<article class="post-listing post-15173 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-dark tag-dealer tag-gunrunner tag-month tag-net tag-scheduled tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>August 20, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Man Charged With Killing Wife, Murder-For-Hire Through Darknet​
 ---
-<article class="post-listing post-18232 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charged tag-darknet tag-killing tag-man tag-murderforhire tag-wife">
+<article class="post-listing post-18232 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-darknet tag-killing tag-man tag-murderforhire tag-wife">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>February 19, 2017</span>

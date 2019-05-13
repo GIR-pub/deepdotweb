@@ -1,7 +1,7 @@
 ---
 Freedom Hosting Owner Files Another Appeal to Fight US Extradition
 ---
-<article class="post-listing post-17241 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-appeal tag-extradition tag-fight tag-files tag-freedom tag-hosting tag-owner">
+<article class="post-listing post-17241 post type-post status-publish format-standard has-post-thumbnail hentry  tag-appeal tag-extradition tag-fight tag-files tag-freedom tag-hosting tag-owner">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 31, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Latest Shadow Brokers Dump Thrives on the Darknet
 ---
-<article class="post-listing post-19663 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-brokers tag-darknet tag-dump tag-latest tag-shadow tag-thrives">
+<article class="post-listing post-19663 post type-post status-publish format-standard has-post-thumbnail hentry  tag-brokers tag-darknet tag-dump tag-latest tag-shadow tag-thrives">
     
     <div class="post-inner">
     

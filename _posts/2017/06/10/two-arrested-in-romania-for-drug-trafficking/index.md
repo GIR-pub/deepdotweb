@@ -1,7 +1,7 @@
 ---
 Two Arrested In Romania For Drug Trafficking
 ---
-<article class="post-listing post-20513 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drug tag-romania tag-trafficking">
+<article class="post-listing post-20513 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-romania tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 10, 2017</span>

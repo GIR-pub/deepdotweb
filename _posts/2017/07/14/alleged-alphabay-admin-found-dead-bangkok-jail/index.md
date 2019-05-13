@@ -1,7 +1,7 @@
 ---
 Alleged Alphabay Admin Found Dead in Bangkok Jail
 ---
-<article class="post-listing post-21331 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-alleged tag-alphabay tag-bangkok tag-dead tag-jail">
+<article class="post-listing post-21331 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-alleged tag-alphabay tag-bangkok tag-dead tag-jail">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 14, 2017</span>

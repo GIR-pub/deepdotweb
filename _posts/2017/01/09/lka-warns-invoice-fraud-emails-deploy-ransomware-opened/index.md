@@ -1,7 +1,7 @@
 ---
 LKA Warns Of “Invoice Fraud” Emails That Deploy Ransomware When Opened
 ---
-<article class="post-listing post-17407 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-deploy tag-emails tag-fraud tag-invoice tag-lka tag-opened tag-ransomware tag-warns">
+<article class="post-listing post-17407 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deploy tag-emails tag-fraud tag-invoice tag-lka tag-opened tag-ransomware tag-warns">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 9, 2017</span>

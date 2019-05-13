@@ -1,7 +1,7 @@
 ---
 Ukrainian Official Says Blocking Tor is Unrealistic
 ---
-<article class="post-listing post-20315 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blocking tag-official tag-tor tag-ukrainian tag-unrealistic">
+<article class="post-listing post-20315 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blocking tag-official tag-tor tag-ukrainian tag-unrealistic">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 2, 2017</span>

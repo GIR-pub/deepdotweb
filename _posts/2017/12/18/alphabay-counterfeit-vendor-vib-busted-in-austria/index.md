@@ -1,7 +1,7 @@
 ---
 Alphabay Counterfeit Vendor “VIB” Busted in Austria
 ---
-<article class="post-listing post-23968 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-austria tag-busted tag-counterfeit tag-vendor tag-vib">
+<article class="post-listing post-23968 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-austria tag-busted tag-counterfeit tag-vendor tag-vib">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 18, 2017</span>

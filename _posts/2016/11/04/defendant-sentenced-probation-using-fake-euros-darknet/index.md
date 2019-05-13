@@ -1,7 +1,7 @@
 ---
 Defendant Sentenced to Probation for Using Fake Euros from the Darknet
 ---
-<article class="post-listing post-16268 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-defendant tag-euros tag-fake tag-probation tag-sentenced">
+<article class="post-listing post-16268 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-defendant tag-euros tag-fake tag-probation tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 4, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Bitcoin news roundup, 10th December 2016
 ---
-<article class="post-listing post-16951 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-10th tag-3336 tag-bitcoin tag-december tag-news tag-roundup">
+<article class="post-listing post-16951 post type-post status-publish format-standard has-post-thumbnail hentry  tag-10th tag-3336 tag-bitcoin tag-december tag-news tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>December 11, 2016</span>

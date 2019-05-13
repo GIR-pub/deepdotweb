@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis 25 March: Is Bitcoin Headed Towards Fresh Lows?
 ---
-<article class="post-listing post-9627 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2706 tag-analysis tag-bitcoin tag-fresh tag-headed tag-lows tag-march tag-price">
+<article class="post-listing post-9627 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2706 tag-analysis tag-bitcoin tag-fresh tag-headed tag-lows tag-march tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>March 25, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Concerns Over Transformed Alarm Weapon Sales On The Internet In Portugal
 ---
-<article class="post-listing post-19761 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alarm tag-concerns tag-internet tag-portugal tag-sales tag-transformed tag-weapon">
+<article class="post-listing post-19761 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alarm tag-concerns tag-internet tag-portugal tag-sales tag-transformed tag-weapon">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 11, 2017</span>

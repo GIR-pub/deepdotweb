@@ -1,7 +1,7 @@
 ---
 Princeton &#038; Stanford Research Shows Anonymous Browsing Histories Linked to Social Media
 ---
-<article class="post-listing post-18135 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-anonymous tag-browsing tag-histories tag-linked tag-media tag-princeton tag-research tag-shows tag-social tag-stanford">
+<article class="post-listing post-18135 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-browsing tag-histories tag-linked tag-media tag-princeton tag-research tag-shows tag-social tag-stanford">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>February 15, 2017</span>

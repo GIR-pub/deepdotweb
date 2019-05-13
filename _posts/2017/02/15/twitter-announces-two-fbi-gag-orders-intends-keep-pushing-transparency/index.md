@@ -1,7 +1,7 @@
 ---
 Twitter Announces Two FBI Gag Orders, Intends to Keep Pushing for Transparency
 ---
-<article class="post-listing post-18134 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-announces tag-fbi tag-gag tag-intends tag-orders tag-pushing tag-transparency tag-twitter">
+<article class="post-listing post-18134 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announces tag-fbi tag-gag tag-intends tag-orders tag-pushing tag-transparency tag-twitter">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 15, 2017</span>

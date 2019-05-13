@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analyses Feb-24 2016
 ---
-<article class="post-listing post-13310 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-analyses tag-bitcoin tag-feb24 tag-price">
+<article class="post-listing post-13310 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-analyses tag-bitcoin tag-feb24 tag-price">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Two Teenagers Charged With Computer Crimes In Lizard Squad Investigation
 ---
-<article class="post-listing post-15812 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charged tag-computer tag-crimes tag-investigation tag-lizard tag-squad tag-teenagers">
+<article class="post-listing post-15812 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-computer tag-crimes tag-investigation tag-lizard tag-squad tag-teenagers">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 14, 2016</span>

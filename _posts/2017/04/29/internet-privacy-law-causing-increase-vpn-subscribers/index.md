@@ -1,7 +1,7 @@
 ---
 Internet Privacy Law Causing Increase in VPN Subscribers
 ---
-<article class="post-listing post-19467 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-causing tag-increase tag-internet tag-law tag-privacy tag-subscribers tag-vpn">
+<article class="post-listing post-19467 post type-post status-publish format-standard has-post-thumbnail hentry  tag-causing tag-increase tag-internet tag-law tag-privacy tag-subscribers tag-vpn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 29, 2017</span>

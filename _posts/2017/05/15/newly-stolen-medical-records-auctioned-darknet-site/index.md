@@ -1,7 +1,7 @@
 ---
 Newly Stolen Medical Records Auctioned on Darknet Site
 ---
-<article class="post-listing post-19881 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-auctioned tag-darknet tag-medical tag-newly tag-records tag-site tag-stolen">
+<article class="post-listing post-19881 post type-post status-publish format-standard has-post-thumbnail hentry  tag-auctioned tag-darknet tag-medical tag-newly tag-records tag-site tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 15, 2017</span>

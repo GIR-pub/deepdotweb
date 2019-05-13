@@ -1,7 +1,7 @@
 ---
 FBI Gets Green Flag For Unlimited Warrant less Searches
 ---
-<article class="post-listing post-14081 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fbi tag-flag tag-green tag-searches tag-unlimited tag-warrant">
+<article class="post-listing post-14081 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-flag tag-green tag-searches tag-unlimited tag-warrant">
     
     <div class="post-inner">
     

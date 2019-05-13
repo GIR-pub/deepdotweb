@@ -1,7 +1,7 @@
 ---
 Did Tor Start Crowdfunding To Reduce US Government Funding?
 ---
-<article class="post-listing post-12422 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crowdfunding tag-dependency tag-government tag-reduce tag-start tag-tor">
+<article class="post-listing post-12422 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crowdfunding tag-dependency tag-government tag-reduce tag-start tag-tor">
     
 <div class="post-inner">
     

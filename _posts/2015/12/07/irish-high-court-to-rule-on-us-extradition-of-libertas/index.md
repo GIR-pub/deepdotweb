@@ -1,7 +1,7 @@
 ---
 Silk Road: Irish High Court To Rule On US Extradition Of Libertas
 ---
-<article class="post-listing post-12486 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-court tag-extradition tag-high tag-irish tag-libertas tag-road tag-rule tag-silk">
+<article class="post-listing post-12486 post type-post status-publish format-standard has-post-thumbnail hentry  tag-court tag-extradition tag-high tag-irish tag-libertas tag-road tag-rule tag-silk">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>December 7, 2015</span>

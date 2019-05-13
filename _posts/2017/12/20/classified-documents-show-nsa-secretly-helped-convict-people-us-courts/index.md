@@ -1,7 +1,7 @@
 ---
 Classified Documents Show NSA Secretly Helped Convict People in US Courts
 ---
-<article class="post-listing post-23992 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-classified tag-convict tag-courts tag-documents tag-helped tag-nsa tag-people tag-secretly tag-show">
+<article class="post-listing post-23992 post type-post status-publish format-standard has-post-thumbnail hentry  tag-classified tag-convict tag-courts tag-documents tag-helped tag-nsa tag-people tag-secretly tag-show">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>December 20, 2017</span>

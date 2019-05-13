@@ -1,7 +1,7 @@
 ---
 Ransomeware Hackers Launch Global Assault
 ---
-<article class="post-listing post-19918 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-assault tag-global tag-hackers tag-launch tag-ransomeware">
+<article class="post-listing post-19918 post type-post status-publish format-standard has-post-thumbnail hentry  tag-assault tag-global tag-hackers tag-launch tag-ransomeware">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dhume/" title="">D. Hume </a></span>
     <span>May 13, 2017</span>

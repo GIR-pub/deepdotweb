@@ -1,7 +1,7 @@
 ---
 Arizona Bill Would Ban Mandatory Tracking of Firearms By Blockchain
 ---
-<article class="post-listing post-18331 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arizona tag-ban tag-bill tag-blockchain tag-firearms tag-mandatory tag-tracking">
+<article class="post-listing post-18331 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arizona tag-ban tag-bill tag-blockchain tag-firearms tag-mandatory tag-tracking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>February 25, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Canada on the way to legalizing marijuana
 ---
-<article class="post-listing post-14737 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-canada tag-legalizing tag-marijuana">
+<article class="post-listing post-14737 post type-post status-publish format-standard has-post-thumbnail hentry  tag-canada tag-legalizing tag-marijuana">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 6, 2016</span>

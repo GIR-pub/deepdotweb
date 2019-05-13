@@ -1,7 +1,7 @@
 ---
 ThePurpleLotus: Indicted For Wire Fraud &#038; Counterfeiting Using “Silk Road” 1/2
 ---
-<article class="post-listing post-10475 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2688 tag-counterfeiting tag-fraud tag-indicted tag-road tag-silk tag-thepurplelotus tag-trademark tag-wire">
+<article class="post-listing post-10475 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-counterfeiting tag-fraud tag-indicted tag-road tag-silk tag-thepurplelotus tag-trademark tag-wire">
     <div class="post-inner">
         <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 28, 2015</span>

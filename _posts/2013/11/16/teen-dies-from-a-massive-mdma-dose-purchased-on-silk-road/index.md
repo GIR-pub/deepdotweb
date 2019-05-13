@@ -1,7 +1,7 @@
 ---
 title: Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road
 ---
-1362 category-deepdot-news category-news-updates tag-dies tag-dose tag-massive tag-mdma tag-purchased tag-road tag-silk tag-teen">
+1362  tag-dies tag-dose tag-massive tag-mdma tag-purchased tag-road tag-silk tag-teen">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 16, 2013</span>

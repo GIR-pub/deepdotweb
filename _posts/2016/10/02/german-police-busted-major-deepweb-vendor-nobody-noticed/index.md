@@ -1,7 +1,7 @@
 ---
 German Police Busted A Major Deepweb Vendor And Nobody Noticed
 ---
-<article class="post-listing post-15621 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-deepweb tag-german tag-major tag-noticed tag-police tag-vendor">
+<article class="post-listing post-15621 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-deepweb tag-german tag-major tag-noticed tag-police tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 2, 2016</span>

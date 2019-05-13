@@ -1,7 +1,7 @@
 ---
 UK Identity Fraud Hit Record Levels in 2016
 ---
-<article class="post-listing post-19010 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-fraud tag-hit tag-identity tag-levels tag-record tag-uk">
+<article class="post-listing post-19010 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-fraud tag-hit tag-identity tag-levels tag-record tag-uk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 5, 2017</span>

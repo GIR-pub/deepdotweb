@@ -1,7 +1,7 @@
 ---
 Woman Accused of Using Dark Web Sourced Information in Identity Theft
 ---
-<article class="post-listing post-28424 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accused tag-dark tag-identity tag-information tag-sourced tag-theft tag-web tag-woman">
+<article class="post-listing post-28424 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accused tag-dark tag-identity tag-information tag-sourced tag-theft tag-web tag-woman">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
     <span>February 22, 2019</span>

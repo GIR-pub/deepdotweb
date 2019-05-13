@@ -1,7 +1,7 @@
 ---
 Counterfeit Euro Notes In Sweden Increased By 120 Percent
 ---
-<article class="post-listing post-19012 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4548 tag-counterfeit tag-euro tag-increased tag-notes tag-percent tag-sweden">
+<article class="post-listing post-19012 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4548 tag-counterfeit tag-euro tag-increased tag-notes tag-percent tag-sweden">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 5, 2017</span>

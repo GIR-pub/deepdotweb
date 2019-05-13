@@ -1,7 +1,7 @@
 ---
 Members of Major Cannabinoid Distribution Ring Sign Guilty Plea Deal
 ---
-<article class="post-listing post-17351 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cannabinoid tag-deal tag-distribution tag-guilty tag-major tag-members tag-plea tag-ring tag-sign">
+<article class="post-listing post-17351 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cannabinoid tag-deal tag-distribution tag-guilty tag-major tag-members tag-plea tag-ring tag-sign">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 6, 2017</span>

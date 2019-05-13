@@ -1,7 +1,7 @@
 ---
 Six Indicted in Darknet Fentanyl Distribution Ring
 ---
-<article class="post-listing post-20711 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-distribution tag-fentanyl tag-indicted tag-ring">
+<article class="post-listing post-20711 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-distribution tag-fentanyl tag-indicted tag-ring">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 18, 2017</span>

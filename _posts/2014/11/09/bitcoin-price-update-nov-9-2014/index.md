@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Update Nov-9, 2014
 ---
-<article class="post-listing post-8121 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1779 tag-bitcoin tag-nov9 tag-price tag-update">
+<article class="post-listing post-8121 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-nov9 tag-price tag-update">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 9, 2014</span>

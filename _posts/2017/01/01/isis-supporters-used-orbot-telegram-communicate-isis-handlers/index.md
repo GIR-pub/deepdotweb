@@ -1,7 +1,7 @@
 ---
 ISIS Supporters Used Orbot and Telegram to Communicate with ISIS Handlers
 ---
-<article class="post-listing post-17263 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-communicate tag-handlers tag-isis tag-orbot tag-supporters tag-telegram">
+<article class="post-listing post-17263 post type-post status-publish format-standard has-post-thumbnail hentry  tag-communicate tag-handlers tag-isis tag-orbot tag-supporters tag-telegram">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 1, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Weapon Vendor&#8217;s Case Reopened: Charged with Negligent Homicide in Munich Shooting
 ---
-<article class="post-listing post-16476 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-charged tag-homicide tag-munich tag-negligent tag-reopened tag-shooting tag-vendors tag-weapon">
+<article class="post-listing post-16476 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-charged tag-homicide tag-munich tag-negligent tag-reopened tag-shooting tag-vendors tag-weapon">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 19, 2016</span>

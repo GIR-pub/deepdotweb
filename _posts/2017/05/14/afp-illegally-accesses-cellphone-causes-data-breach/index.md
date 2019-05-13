@@ -1,7 +1,7 @@
 ---
 AFP Illegally Accesses a Cellphone, Causes “Data Breach”
 ---
-<article class="post-listing post-19862 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accesses tag-afp tag-breach tag-cellphone tag-data tag-illegally">
+<article class="post-listing post-19862 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accesses tag-afp tag-breach tag-cellphone tag-data tag-illegally">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 14, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Senator Introduces Bill to Delay FBI Changes to Rule 41
 ---
-<article class="post-listing post-16792 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3910 tag-bill tag-delay tag-fbi tag-introduces tag-rule tag-senator">
+<article class="post-listing post-16792 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3910 tag-bill tag-delay tag-fbi tag-introduces tag-rule tag-senator">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 7, 2016</span>

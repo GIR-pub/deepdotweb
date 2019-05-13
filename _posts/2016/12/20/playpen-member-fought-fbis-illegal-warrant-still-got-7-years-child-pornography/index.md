@@ -1,7 +1,7 @@
 ---
 PlayPen Member Fought the FBI’s Illegal Warrant and Still Got 7 Years for Child Pornography
 ---
-<article class="post-listing post-17035 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-fbis tag-fought tag-illegal tag-member tag-playpen tag-pornography tag-warrant tag-years">
+<article class="post-listing post-17035 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-fbis tag-fought tag-illegal tag-member tag-playpen tag-pornography tag-warrant tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 20, 2016</span>

@@ -1,7 +1,7 @@
 ---
 title: Bitcoins To Be Accepted By Baidu, Sparking Rally To $200
 ---
-781 category-deepdot-news category-news-updates tag-175 tag-accepted tag-baidu tag-bitcoins tag-rally tag-sparking">
+781  tag-175 tag-accepted tag-baidu tag-bitcoins tag-rally tag-sparking">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 22, 2013</span>

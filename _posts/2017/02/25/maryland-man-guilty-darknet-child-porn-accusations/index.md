@@ -1,7 +1,7 @@
 ---
 Maryland Man Guilty of Darknet Child Porn Accusations
 ---
-<article class="post-listing post-18332 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accusations tag-child tag-darknet tag-guilty tag-man tag-maryland tag-porn">
+<article class="post-listing post-18332 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accusations tag-child tag-darknet tag-guilty tag-man tag-maryland tag-porn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 25, 2017</span>

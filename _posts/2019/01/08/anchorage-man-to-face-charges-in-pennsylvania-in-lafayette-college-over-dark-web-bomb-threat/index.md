@@ -1,7 +1,7 @@
 ---
 Anchorage Man to Face Charges in Pennsylvania in Lafayette College over Dark Web Bomb Threat
 ---
-<article class="post-listing post-27996 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-anchorage tag-bomb tag-charges tag-college tag-dark tag-face tag-lafayette tag-man tag-pennsylvania tag-threat tag-web">
+<article class="post-listing post-27996 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anchorage tag-bomb tag-charges tag-college tag-dark tag-face tag-lafayette tag-man tag-pennsylvania tag-threat tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>January 8, 2019</span>

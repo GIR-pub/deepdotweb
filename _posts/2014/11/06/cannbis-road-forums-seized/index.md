@@ -1,7 +1,7 @@
 ---
 Cannbis Road Forums Seized
 ---
-<article class="post-listing post-8029 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-operation-onymous tag-silkroad2bust">
+<article class="post-listing post-8029 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous tag-silkroad2bust">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 6, 2014</span>

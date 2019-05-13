@@ -1,7 +1,7 @@
 ---
 McConnell introduces a bill to expand NSA until 2020
 ---
-<article class="post-listing post-10070 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2800 tag-bill tag-expand tag-introduces tag-mcconnell tag-nsa">
+<article class="post-listing post-10070 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2800 tag-bill tag-expand tag-introduces tag-mcconnell tag-nsa">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 24, 2015</span>

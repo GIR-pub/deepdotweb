@@ -1,7 +1,7 @@
 ---
 Cambridge Professor Obtains 2,000 CP on Dark Web Only Receives 1 Year Sentence
 ---
-<article class="post-listing post-20048 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4231 tag-cambridge tag-cp tag-dark tag-obtains tag-professor tag-receives tag-sentence tag-web tag-year">
+<article class="post-listing post-20048 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4231 tag-cambridge tag-cp tag-dark tag-obtains tag-professor tag-receives tag-sentence tag-web tag-year">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 22, 2017</span>

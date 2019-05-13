@@ -1,7 +1,7 @@
 ---
 NZ Underworld: &#8220;Catch Us if You Can&#8221;
 ---
-<article class="post-listing post-11189 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-catch">
+<article class="post-listing post-11189 post type-post status-publish format-standard has-post-thumbnail hentry  tag-catch">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/johnnywalker/" title="">Johnny Walker </a></span>
 <span>August 6, 2015</span>

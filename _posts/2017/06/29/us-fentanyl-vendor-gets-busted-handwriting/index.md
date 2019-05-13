@@ -1,7 +1,7 @@
 ---
 US Fentanyl Vendor Gets Busted On Handwriting
 ---
-<article class="post-listing post-20967 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-fentanyl tag-handwriting tag-vendor">
+<article class="post-listing post-20967 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-fentanyl tag-handwriting tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 29, 2017</span>

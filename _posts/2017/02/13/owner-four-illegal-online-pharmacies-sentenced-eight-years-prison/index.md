@@ -1,7 +1,7 @@
 ---
 Owner of Four Illegal Online Pharmacies Sentenced to Eight Years in Prison
 ---
-<article class="post-listing post-18099 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-illegal tag-online tag-owner tag-pharmacies tag-prison tag-sentenced tag-years">
+<article class="post-listing post-18099 post type-post status-publish format-standard has-post-thumbnail hentry  tag-illegal tag-online tag-owner tag-pharmacies tag-prison tag-sentenced tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 13, 2017</span>

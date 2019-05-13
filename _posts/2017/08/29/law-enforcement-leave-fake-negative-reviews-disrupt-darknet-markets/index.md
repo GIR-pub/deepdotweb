@@ -1,7 +1,7 @@
 ---
 Law Enforcement Leave Fake Negative Reviews to Disrupt Darknet Markets
 ---
-<article class="post-listing post-22239 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-disrupt tag-enforcement tag-fake tag-law tag-leave tag-markets tag-negative tag-reviews">
+<article class="post-listing post-22239 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-disrupt tag-enforcement tag-fake tag-law tag-leave tag-markets tag-negative tag-reviews">
     
     <div class="post-inner">
     

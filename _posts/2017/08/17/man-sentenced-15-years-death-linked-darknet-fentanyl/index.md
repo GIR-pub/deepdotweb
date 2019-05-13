@@ -1,7 +1,7 @@
 ---
 Man Sentenced To 15 Years over Death Linked To Darknet Fentanyl
 ---
-<article class="post-listing post-22019 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1886 tag-darknet tag-death tag-fentanyl tag-linked tag-man tag-overdose tag-park tag-purchased tag-river tag-sentenced tag-years">
+<article class="post-listing post-22019 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1886 tag-darknet tag-death tag-fentanyl tag-linked tag-man tag-overdose tag-park tag-purchased tag-river tag-sentenced tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>August 17, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Google is Preparing Chrome for future wave of quantum attacks
 ---
-<article class="post-listing post-14785 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attacks tag-chrome tag-future tag-google tag-preparing tag-quantum tag-wave">
+<article class="post-listing post-14785 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-chrome tag-future tag-google tag-preparing tag-quantum tag-wave">
     
     <div class="post-inner">
     

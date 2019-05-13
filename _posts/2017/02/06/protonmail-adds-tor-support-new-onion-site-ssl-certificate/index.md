@@ -1,7 +1,7 @@
 ---
 ProtonMail Adds Tor Support with a New Onion Site and SSL Certificate
 ---
-<article class="post-listing post-18000 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-adds tag-certificate tag-onion tag-protonmail tag-site tag-ssl tag-support tag-tor">
+<article class="post-listing post-18000 post type-post status-publish format-standard has-post-thumbnail hentry  tag-adds tag-certificate tag-onion tag-protonmail tag-site tag-ssl tag-support tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 6, 2017</span>

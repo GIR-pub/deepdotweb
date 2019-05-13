@@ -1,7 +1,7 @@
 ---
 Congress Wants Postal Drug Smuggling Wiped Out
 ---
-<article class="post-listing post-15634 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-congress tag-drug tag-postal tag-wiped">
+<article class="post-listing post-15634 post type-post status-publish format-standard has-post-thumbnail hentry  tag-congress tag-drug tag-postal tag-wiped">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>October 3, 2016</span>

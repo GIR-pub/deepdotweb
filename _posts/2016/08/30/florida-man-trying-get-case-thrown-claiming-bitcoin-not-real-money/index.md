@@ -1,7 +1,7 @@
 ---
 Florida Man Trying to Get Case Thrown Out Claiming Bitcoin Is Not Real Money
 ---
-<article class="post-listing post-15280 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-case tag-claiming tag-florida tag-man tag-money tag-real tag-thrown">
+<article class="post-listing post-15280 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-case tag-claiming tag-florida tag-man tag-money tag-real tag-thrown">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>August 30, 2016</span>

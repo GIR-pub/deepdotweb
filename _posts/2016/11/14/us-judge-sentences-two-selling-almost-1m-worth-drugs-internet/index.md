@@ -1,7 +1,7 @@
 ---
 US Judge Sentences Two for Selling Almost $1M Worth of Drugs on the Internet
 ---
-<article class="post-listing post-16410 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1m tag-internet tag-judge tag-selling tag-sentences tag-worth">
+<article class="post-listing post-16410 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1m tag-internet tag-judge tag-selling tag-sentences tag-worth">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 14, 2016</span>

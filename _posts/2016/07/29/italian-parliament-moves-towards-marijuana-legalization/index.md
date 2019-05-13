@@ -1,7 +1,7 @@
 ---
 Italian Parliament Moves Towards Marijuana Legalization
 ---
-<article class="post-listing post-14948 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-italian tag-legalization tag-marijuana tag-moves tag-parliament">
+<article class="post-listing post-14948 post type-post status-publish format-standard has-post-thumbnail hentry  tag-italian tag-legalization tag-marijuana tag-moves tag-parliament">
     
     <div class="post-inner">
     

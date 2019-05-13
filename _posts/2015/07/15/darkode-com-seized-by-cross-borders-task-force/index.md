@@ -1,7 +1,7 @@
 ---
 Darkode Forum Seized by Cross-Borders Task Force
 ---
-<article class="post-listing post-11046 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crossborders tag-darkodecom tag-force tag-seized tag-task">
+<article class="post-listing post-11046 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crossborders tag-darkodecom tag-force tag-seized tag-task">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 15, 2015</span>

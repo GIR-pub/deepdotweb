@@ -1,7 +1,7 @@
 ---
 Handwriting Analysis Used to Identify Ohio Fentanyl Vendor
 ---
-<article class="post-listing post-21005 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-analysis tag-fentanyl tag-handwriting tag-identify tag-ohio tag-vendor">
+<article class="post-listing post-21005 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analysis tag-fentanyl tag-handwriting tag-identify tag-ohio tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 1, 2017</span>

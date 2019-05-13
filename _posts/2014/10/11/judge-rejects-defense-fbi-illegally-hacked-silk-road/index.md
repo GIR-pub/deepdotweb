@@ -1,7 +1,7 @@
 ---
 Judge Rejects Defense That FBI Illegally Hacked Silk Road
 ---
-<article class="post-listing post-7356 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-defense tag-fbi tag-hacked tag-illegally tag-judge tag-rejects tag-road tag-silk">
+<article class="post-listing post-7356 post type-post status-publish format-standard has-post-thumbnail hentry  tag-defense tag-fbi tag-hacked tag-illegally tag-judge tag-rejects tag-road tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 11, 2014</span>

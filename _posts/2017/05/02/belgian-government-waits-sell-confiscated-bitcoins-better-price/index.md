@@ -1,7 +1,7 @@
 ---
 Belgian Government Waits To Sell Confiscated Bitcoins For A Better Price
 ---
-<article class="post-listing post-19582 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-belgian tag-bitcoins tag-confiscated tag-government tag-price tag-sell tag-waits">
+<article class="post-listing post-19582 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belgian tag-bitcoins tag-confiscated tag-government tag-price tag-sell tag-waits">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 2, 2017</span>

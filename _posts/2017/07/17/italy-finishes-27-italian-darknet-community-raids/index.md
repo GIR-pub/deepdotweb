@@ -1,7 +1,7 @@
 ---
 Italy Finishes 27 More Italian Darknet Community Raids
 ---
-<article class="post-listing post-21381 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1384 tag-community tag-darknet tag-finishes tag-italian tag-italy tag-raids">
+<article class="post-listing post-21381 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1384 tag-community tag-darknet tag-finishes tag-italian tag-italy tag-raids">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 17, 2017</span>

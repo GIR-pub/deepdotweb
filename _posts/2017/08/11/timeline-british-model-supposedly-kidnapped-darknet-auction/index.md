@@ -1,7 +1,7 @@
 ---
 Timeline: British Model Supposedly Kidnapped for Darknet Auction
 ---
-<article class="post-listing post-21887 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-auction tag-british tag-darknet tag-kidnapped tag-model tag-supposedly tag-timeline">
+<article class="post-listing post-21887 post type-post status-publish format-standard has-post-thumbnail hentry  tag-auction tag-british tag-darknet tag-kidnapped tag-model tag-supposedly tag-timeline">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 11, 2017</span>

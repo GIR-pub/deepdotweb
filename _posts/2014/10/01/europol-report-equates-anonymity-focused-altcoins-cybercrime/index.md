@@ -1,7 +1,7 @@
 ---
 Europol Report Equates Anonymity Focused Altcoins With CyberCrime
 ---
-<article class="post-listing post-7267 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-altcoins tag-anonymity tag-cybercrime tag-equates tag-europol tag-focused tag-report">
+<article class="post-listing post-7267 post type-post status-publish format-standard has-post-thumbnail hentry  tag-altcoins tag-anonymity tag-cybercrime tag-equates tag-europol tag-focused tag-report">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>October 1, 2014</span>

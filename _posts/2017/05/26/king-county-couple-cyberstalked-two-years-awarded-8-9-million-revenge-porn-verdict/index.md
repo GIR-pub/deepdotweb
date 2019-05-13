@@ -1,7 +1,7 @@
 ---
 King County Couple Cyberstalked For Two Years: Awarded $8.9 Million In Revenge Porn Verdict
 ---
-<article class="post-listing post-20152 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5492 tag-awarded tag-county tag-couple tag-cyberstalked tag-king tag-million tag-porn tag-revenge tag-verdict tag-years">
+<article class="post-listing post-20152 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5492 tag-awarded tag-county tag-couple tag-cyberstalked tag-king tag-million tag-porn tag-revenge tag-verdict tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 26, 2017</span>

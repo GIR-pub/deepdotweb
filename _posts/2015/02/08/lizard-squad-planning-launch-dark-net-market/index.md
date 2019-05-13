@@ -1,7 +1,7 @@
 ---
 Lizard Squad Are Planning to Launch A Dark Net Market?
 ---
-<article class="post-listing post-8986 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-launch tag-lizard tag-market tag-net tag-planning tag-squad">
+<article class="post-listing post-8986 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-launch tag-lizard tag-market tag-net tag-planning tag-squad">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 8, 2015</span>

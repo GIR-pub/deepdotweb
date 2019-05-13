@@ -1,7 +1,7 @@
 ---
 Two Guilty Pleas from Area51 and DarkApollo
 ---
-<article class="post-listing post-19490 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-area51 tag-darkapollo tag-guilty tag-pleas">
+<article class="post-listing post-19490 post type-post status-publish format-standard has-post-thumbnail hentry  tag-area51 tag-darkapollo tag-guilty tag-pleas">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 30, 2017</span>

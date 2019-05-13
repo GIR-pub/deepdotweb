@@ -1,7 +1,7 @@
 ---
 PSA: DNMAvengers Announcement &#8211; 75 Free Lab-tests!
 ---
-<article class="post-listing post-22419 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4202 tag-announcement tag-dnmavengers tag-free tag-labtests tag-psa">
+<article class="post-listing post-22419 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4202 tag-announcement tag-dnmavengers tag-free tag-labtests tag-psa">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 6, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Bitcoin news roundup, 17th September, 2016
 ---
-<article class="post-listing post-15487 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-17th tag-3336 tag-bitcoin tag-news tag-roundup tag-september">
+<article class="post-listing post-15487 post type-post status-publish format-standard has-post-thumbnail hentry  tag-17th tag-3336 tag-bitcoin tag-news tag-roundup tag-september">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>September 18, 2016</span>

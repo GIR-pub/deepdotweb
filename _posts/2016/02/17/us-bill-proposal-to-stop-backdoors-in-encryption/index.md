@@ -1,7 +1,7 @@
 ---
 US Bill Proposal To Stop Backdoors In Encryption
 ---
-<article class="post-listing post-13220 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-backdoors tag-bill tag-encryption tag-proposal tag-stop">
+<article class="post-listing post-13220 post type-post status-publish format-standard has-post-thumbnail hentry  tag-backdoors tag-bill tag-encryption tag-proposal tag-stop">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>February 17, 2016</span>

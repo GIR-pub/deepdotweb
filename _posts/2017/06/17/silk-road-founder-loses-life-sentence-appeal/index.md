@@ -1,7 +1,7 @@
 ---
 Silk Road Founder Loses Life Sentence Appeal
 ---
-<article class="post-listing post-20691 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-appeal tag-founder tag-life tag-loses tag-road tag-sentence tag-silk">
+<article class="post-listing post-20691 post type-post status-publish format-standard has-post-thumbnail hentry  tag-appeal tag-founder tag-life tag-loses tag-road tag-sentence tag-silk">
     
     <div class="post-inner">
     

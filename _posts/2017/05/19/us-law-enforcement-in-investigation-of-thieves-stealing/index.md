@@ -1,7 +1,7 @@
 ---
 US Law Enforcement in Investigation of Thieves Stealing &#038; Selling Tax Information on Dark Web
 ---
-<article class="post-listing post-19974 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-enforcement tag-information tag-investigation tag-law tag-selling tag-stealing tag-tax tag-thieves tag-web">
+<article class="post-listing post-19974 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-enforcement tag-information tag-investigation tag-law tag-selling tag-stealing tag-tax tag-thieves tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 19, 2017</span>

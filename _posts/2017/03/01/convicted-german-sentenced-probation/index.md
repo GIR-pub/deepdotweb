@@ -1,7 +1,7 @@
 ---
 Convicted German Sentenced To Probation
 ---
-<article class="post-listing post-18388 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-convicted tag-german tag-probation tag-sentenced">
+<article class="post-listing post-18388 post type-post status-publish format-standard has-post-thumbnail hentry  tag-convicted tag-german tag-probation tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 1, 2017</span>

@@ -1,7 +1,7 @@
 ---
 UN Says the Darknet Threatens WMD Proliferation
 ---
-<article class="post-listing post-21397 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-proliferation tag-threatens tag-wmd">
+<article class="post-listing post-21397 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-proliferation tag-threatens tag-wmd">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 18, 2017</span>

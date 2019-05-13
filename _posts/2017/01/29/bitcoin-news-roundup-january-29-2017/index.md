@@ -1,7 +1,7 @@
 ---
 Bitcoin news roundup January 29, 2017
 ---
-<article class="post-listing post-17883 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3676 tag-2518 tag-bitcoin tag-january tag-news tag-roundup">
+<article class="post-listing post-17883 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3676 tag-2518 tag-bitcoin tag-january tag-news tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>January 29, 2017</span>

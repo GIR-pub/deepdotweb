@@ -1,7 +1,7 @@
 ---
 Catalonian Authorities Identified A Scam Where Fake And Stolen Smartphones Are Sold On The Internet
 ---
-<article class="post-listing post-19700 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-authorities tag-catalonian tag-fake tag-identified tag-internet tag-scam tag-smartphones tag-sold tag-stolen">
+<article class="post-listing post-19700 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authorities tag-catalonian tag-fake tag-identified tag-internet tag-scam tag-smartphones tag-sold tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 8, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 12 Apr.2015
 ---
-<article class="post-listing post-9929 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2688 tag-apr2015 tag-bitcoin tag-news tag-roundup">
+<article class="post-listing post-9929 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-apr2015 tag-bitcoin tag-news tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 12, 2015</span>

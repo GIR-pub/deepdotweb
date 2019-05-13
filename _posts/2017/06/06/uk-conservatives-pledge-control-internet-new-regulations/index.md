@@ -1,7 +1,7 @@
 ---
 UK Conservatives Pledge to Control Internet with New Regulations
 ---
-<article class="post-listing post-20429 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-conservatives tag-control tag-internet tag-pledge tag-regulations tag-uk">
+<article class="post-listing post-20429 post type-post status-publish format-standard has-post-thumbnail hentry  tag-conservatives tag-control tag-internet tag-pledge tag-regulations tag-uk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>June 6, 2017</span>

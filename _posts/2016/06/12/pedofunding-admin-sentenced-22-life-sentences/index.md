@@ -1,7 +1,7 @@
 ---
 &#8220;PedoFunding&#8221; Admin Sentenced to 22 Life Sentences
 ---
-<article class="post-listing post-14474 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2700 tag-admin tag-life tag-pedofunding tag-sentenced tag-sentences">
+<article class="post-listing post-14474 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2700 tag-admin tag-life tag-pedofunding tag-sentenced tag-sentences">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 12, 2016</span>

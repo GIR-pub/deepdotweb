@@ -1,7 +1,7 @@
 ---
 Visiting The Darkweb is a Sign of Terrorism, Warns U.K Police
 ---
-<article class="post-listing post-21105 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darkweb tag-police tag-sign tag-terrorism tag-uk tag-visiting tag-warns">
+<article class="post-listing post-21105 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkweb tag-police tag-sign tag-terrorism tag-uk tag-visiting tag-warns">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>July 6, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Tor Backs Apple’s Decision against FBI
 ---
-<article class="post-listing post-13568 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-apples tag-backs tag-decision tag-fbi tag-tor">
+<article class="post-listing post-13568 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apples tag-backs tag-decision tag-fbi tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>March 25, 2016</span>

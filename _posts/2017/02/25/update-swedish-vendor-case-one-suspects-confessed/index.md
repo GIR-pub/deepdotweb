@@ -1,7 +1,7 @@
 ---
 Update In Swedish Vendor Case: One Of The Suspects Confessed
 ---
-<article class="post-listing post-18329 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-confessed tag-suspects tag-swedish tag-update tag-vendor">
+<article class="post-listing post-18329 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-confessed tag-suspects tag-swedish tag-update tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 25, 2017</span>

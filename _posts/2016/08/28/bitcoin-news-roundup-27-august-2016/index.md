@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup 27 August 2016
 ---
-<article class="post-listing post-15270 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-1384 tag-august tag-bitcoin tag-news tag-roundup">
+<article class="post-listing post-15270 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-1384 tag-august tag-bitcoin tag-news tag-roundup">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Swedish Police Claim to Have De-Anonymised 3,000 Darknet Buyers
 ---
-<article class="post-listing post-16315 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1850 tag-buyers tag-claim tag-darknet tag-deanonymised tag-police tag-swedish">
+<article class="post-listing post-16315 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1850 tag-buyers tag-claim tag-darknet tag-deanonymised tag-police tag-swedish">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 7, 2016</span>

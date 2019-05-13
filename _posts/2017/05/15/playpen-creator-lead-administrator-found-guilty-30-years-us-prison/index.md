@@ -1,7 +1,7 @@
 ---
 Playpen Creator &#038; Lead Administrator Found Guilty, 30 Years in US Prison
 ---
-<article class="post-listing post-19884 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1778 tag-administrator tag-creator tag-guilty tag-lead tag-playpen tag-prison tag-years">
+<article class="post-listing post-19884 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1778 tag-administrator tag-creator tag-guilty tag-lead tag-playpen tag-prison tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 15, 2017</span>

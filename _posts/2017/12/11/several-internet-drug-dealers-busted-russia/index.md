@@ -1,7 +1,7 @@
 ---
 Several Internet Drug Dealers Busted in Russia
 ---
-<article class="post-listing post-23862 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-dealers tag-drug tag-internet tag-russia">
+<article class="post-listing post-23862 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-dealers tag-drug tag-internet tag-russia">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 11, 2017</span>

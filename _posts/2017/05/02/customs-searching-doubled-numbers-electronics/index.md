@@ -1,7 +1,7 @@
 ---
 Customs Searching Doubled Numbers of Electronics
 ---
-<article class="post-listing post-19585 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-customs tag-doubled tag-electronics tag-numbers tag-searching">
+<article class="post-listing post-19585 post type-post status-publish format-standard has-post-thumbnail hentry  tag-customs tag-doubled tag-electronics tag-numbers tag-searching">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 2, 2017</span>

@@ -1,7 +1,7 @@
 ---
 The CIA Can Predict Future Events Five Days in Advance
 ---
-<article class="post-listing post-15859 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-advance tag-cia tag-days tag-events tag-future tag-predict">
+<article class="post-listing post-15859 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advance tag-cia tag-days tag-events tag-future tag-predict">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 17, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis 22 July
 ---
-<article class="post-listing post-11099 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2700 tag-analysis tag-bitcoin tag-july tag-price">
+<article class="post-listing post-11099 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2700 tag-analysis tag-bitcoin tag-july tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 22, 2015</span>

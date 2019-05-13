@@ -1,7 +1,7 @@
 ---
 How Bitcoin Blockchain Can Revolutionize Academic Credential Verification
 ---
-<article class="post-listing post-16312 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-academic tag-bitcoin tag-blockchain tag-credential tag-revolutionize tag-verification">
+<article class="post-listing post-16312 post type-post status-publish format-standard has-post-thumbnail hentry  tag-academic tag-bitcoin tag-blockchain tag-credential tag-revolutionize tag-verification">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>November 7, 2016</span>

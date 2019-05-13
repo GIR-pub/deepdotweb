@@ -1,7 +1,7 @@
 ---
 Grams Flow: Easy access to Hidden Sites
 ---
-<article class="post-listing post-5909 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-access tag-easy tag-flow tag-grams tag-hidden tag-sites">
+<article class="post-listing post-5909 post type-post status-publish format-standard has-post-thumbnail hentry  tag-access tag-easy tag-flow tag-grams tag-hidden tag-sites">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 7, 2014</span>

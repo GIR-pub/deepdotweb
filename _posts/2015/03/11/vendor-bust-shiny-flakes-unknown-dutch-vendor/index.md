@@ -1,7 +1,7 @@
 ---
 Vendor Bust: Shiny Flakes With 320kg Of Drugs
 ---
-<article class="post-listing post-9406 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bust tag-dutch tag-flakes tag-shiny tag-unknown tag-vendor">
+<article class="post-listing post-9406 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-dutch tag-flakes tag-shiny tag-unknown tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 11, 2015</span>

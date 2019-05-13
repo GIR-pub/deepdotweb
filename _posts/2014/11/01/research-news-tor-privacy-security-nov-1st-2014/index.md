@@ -1,7 +1,7 @@
 ---
 Research &#038; News in Tor, Privacy &#038; Security – Nov 1st, 2014
 ---
-<article class="post-listing post-7928 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1st tag-1779 tag-news tag-nov tag-privacy tag-research tag-security tag-tor">
+<article class="post-listing post-7928 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1st tag-1779 tag-news tag-nov tag-privacy tag-research tag-security tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 1, 2014</span>

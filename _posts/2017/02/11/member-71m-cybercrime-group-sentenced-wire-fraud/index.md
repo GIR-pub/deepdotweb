@@ -1,7 +1,7 @@
 ---
 Member of $71m Cybercrime Group Sentenced for Wire Fraud
 ---
-<article class="post-listing post-18079 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-71m tag-cybercrime tag-fraud tag-group tag-member tag-sentenced tag-wire">
+<article class="post-listing post-18079 post type-post status-publish format-standard has-post-thumbnail hentry  tag-71m tag-cybercrime tag-fraud tag-group tag-member tag-sentenced tag-wire">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 11, 2017</span>

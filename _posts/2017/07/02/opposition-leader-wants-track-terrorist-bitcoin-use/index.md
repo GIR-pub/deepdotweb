@@ -1,7 +1,7 @@
 ---
 Opposition Leader Wants to Track Terrorist Bitcoin Use
 ---
-<article class="post-listing post-21025 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-leader tag-opposition tag-terrorist tag-track">
+<article class="post-listing post-21025 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-leader tag-opposition tag-terrorist tag-track">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 2, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Vendor &#8220;SuperTrips&#8221; Pleaded Guilty For Selling Large Amounts On Silk Road
 ---
-<article class="post-listing post-5404 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-amounts tag-guilty tag-large tag-pleaded tag-road tag-selling tag-silk tag-supertrips">
+<article class="post-listing post-5404 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amounts tag-guilty tag-large tag-pleaded tag-road tag-selling tag-silk tag-supertrips">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 8, 2014</span>

@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 31 Jan. 2016
 ---
-<article class="post-listing post-13124 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-1908 tag-bitcoin tag-jan tag-news tag-roundup">
+<article class="post-listing post-13124 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-1908 tag-bitcoin tag-jan tag-news tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 31, 2016</span>

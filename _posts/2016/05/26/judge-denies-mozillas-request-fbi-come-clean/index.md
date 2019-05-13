@@ -1,7 +1,7 @@
 ---
 Judge Denies Mozilla’s Request For FBI To Come Clean
 ---
-<article class="post-listing post-14232 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-clean tag-denies tag-fbi tag-judge tag-mozillas tag-request">
+<article class="post-listing post-14232 post type-post status-publish format-standard has-post-thumbnail hentry  tag-clean tag-denies tag-fbi tag-judge tag-mozillas tag-request">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 26, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Two German Men Sentenced for Selling Counterfeit Euros on the Deepweb
 ---
-<article class="post-listing post-15970 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-counterfeit tag-deepweb tag-euros tag-german tag-men tag-selling tag-sentenced">
+<article class="post-listing post-15970 post type-post status-publish format-standard has-post-thumbnail hentry  tag-counterfeit tag-deepweb tag-euros tag-german tag-men tag-selling tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 21, 2016</span>

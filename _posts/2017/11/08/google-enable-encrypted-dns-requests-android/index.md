@@ -1,7 +1,7 @@
 ---
 Google to Enable Encrypted DNS Requests in Android
 ---
-<article class="post-listing post-23436 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-android tag-dns tag-enable tag-encrypted tag-google tag-requests">
+<article class="post-listing post-23436 post type-post status-publish format-standard has-post-thumbnail hentry  tag-android tag-dns tag-enable tag-encrypted tag-google tag-requests">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>November 8, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Suspect linked to Bomb Threats offered Services on Dark Web
 ---
-<article class="post-listing post-22129 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bomb tag-dark tag-linked tag-offered tag-services tag-suspect tag-threats tag-web">
+<article class="post-listing post-22129 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bomb tag-dark tag-linked tag-offered tag-services tag-suspect tag-threats tag-web">
     
     <div class="post-inner">
     

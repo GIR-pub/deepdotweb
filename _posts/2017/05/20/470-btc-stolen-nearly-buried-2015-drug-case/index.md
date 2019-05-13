@@ -1,7 +1,7 @@
 ---
 470 BTC Stolen in a Nearly Buried 2015 Drug Case
 ---
-<article class="post-listing post-20004 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2524 tag-5455 tag-btc tag-buried tag-case tag-drug tag-stolen">
+<article class="post-listing post-20004 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-5455 tag-btc tag-buried tag-case tag-drug tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 20, 2017</span>

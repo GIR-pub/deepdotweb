@@ -1,7 +1,7 @@
 ---
 Russian Darknet Buyer Arrested, Said He Resold Drugs
 ---
-<article class="post-listing post-20986 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buyer tag-darknet tag-resold tag-russian">
+<article class="post-listing post-20986 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyer tag-darknet tag-resold tag-russian">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 30, 2017</span>

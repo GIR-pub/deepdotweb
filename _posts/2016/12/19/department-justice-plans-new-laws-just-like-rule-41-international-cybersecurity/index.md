@@ -1,7 +1,7 @@
 ---
 Department of Justice Plans New Laws “Just Like Rule 41” For International Cybersecurity
 ---
-<article class="post-listing post-17014 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3910 tag-cybersecurity tag-department tag-international tag-justice tag-laws tag-plans tag-rule">
+<article class="post-listing post-17014 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3910 tag-cybersecurity tag-department tag-international tag-justice tag-laws tag-plans tag-rule">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 19, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Silk Road Vendor &#8220;Caligirl&#8221; Sentenced to 5.10 Years in Prison
 ---
-<article class="post-listing post-8666 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2512 tag-caligirl tag-prison tag-road tag-sentenced tag-silk tag-vendor tag-years">
+<article class="post-listing post-8666 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2512 tag-caligirl tag-prison tag-road tag-sentenced tag-silk tag-vendor tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 19, 2014</span>

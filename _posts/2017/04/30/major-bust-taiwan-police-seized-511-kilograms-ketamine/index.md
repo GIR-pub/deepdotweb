@@ -1,7 +1,7 @@
 ---
 Major Bust In Taiwan: Police Seized 511 Kilograms Of Ketamine
 ---
-<article class="post-listing post-19492 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5350 tag-bust tag-ketamine tag-kilograms tag-major tag-police tag-seized tag-taiwan">
+<article class="post-listing post-19492 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5350 tag-bust tag-ketamine tag-kilograms tag-major tag-police tag-seized tag-taiwan">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 30, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Darknet Gun Seller Sentenced to Five Months in Austria
 ---
-<article class="post-listing post-23410 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-austria tag-darknet tag-gun tag-months tag-seller tag-sentenced">
+<article class="post-listing post-23410 post type-post status-publish format-standard has-post-thumbnail hentry  tag-austria tag-darknet tag-gun tag-months tag-seller tag-sentenced">
     
     <div class="post-inner">
     

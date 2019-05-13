@@ -1,7 +1,7 @@
 ---
 Bitcoin news roundup May 28, 2017
 ---
-<article class="post-listing post-20203 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3676 tag-2518 tag-bitcoin tag-news tag-roundup">
+<article class="post-listing post-20203 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3676 tag-2518 tag-bitcoin tag-news tag-roundup">
     
     <div class="post-inner">
     

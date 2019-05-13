@@ -1,7 +1,7 @@
 ---
 Another Marketplace Doxxed: &#8220;HansaMarket&#8221;
 ---
-<article class="post-listing post-4645 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-doxxed tag-hansamarket tag-market">
+<article class="post-listing post-4645 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doxxed tag-hansamarket tag-market">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 12, 2014</span>

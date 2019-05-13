@@ -1,7 +1,7 @@
 ---
 Houston Man Arrested After Attempting To Purchase Explosives On AlphaBay
 ---
-<article class="post-listing post-15566 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempted tag-buy tag-dark tag-explosives tag-houston tag-man tag-net">
+<article class="post-listing post-15566 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempted tag-buy tag-dark tag-explosives tag-houston tag-man tag-net">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Drug Distribution Suspects Admit Darknet Use
 ---
-<article class="post-listing post-18343 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admit tag-darknet tag-distribution tag-drug tag-suspects">
+<article class="post-listing post-18343 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admit tag-darknet tag-distribution tag-drug tag-suspects">
     
     <div class="post-inner">
     

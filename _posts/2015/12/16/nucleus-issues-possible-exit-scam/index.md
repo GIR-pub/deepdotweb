@@ -1,7 +1,7 @@
 ---
 Nucleus: Issues &#038; Possible Exit Scam?
 ---
-<article class="post-listing post-12579 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-exit tag-issues tag-nucleus tag-scam">
+<article class="post-listing post-12579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-exit tag-issues tag-nucleus tag-scam">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 16, 2015</span>

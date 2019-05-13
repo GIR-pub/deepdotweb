@@ -1,7 +1,7 @@
 ---
 Update In Vendor Case: Swedish GHB Seller Sentenced To Prison
 ---
-<article class="post-listing post-19213 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-ghb tag-prison tag-seller tag-sentenced tag-swedish tag-update tag-vendor">
+<article class="post-listing post-19213 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-ghb tag-prison tag-seller tag-sentenced tag-swedish tag-update tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 16, 2017</span>

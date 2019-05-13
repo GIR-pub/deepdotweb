@@ -1,7 +1,7 @@
 ---
 The Bayesian Method For Deanonymising A Large Percentage of Bitcoin Transactions
 ---
-<article class="post-listing post-17288 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bayesian tag-bitcoin tag-deanonymising tag-large tag-method tag-percentage tag-transactions">
+<article class="post-listing post-17288 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bayesian tag-bitcoin tag-deanonymising tag-large tag-method tag-percentage tag-transactions">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 3, 2017</span>

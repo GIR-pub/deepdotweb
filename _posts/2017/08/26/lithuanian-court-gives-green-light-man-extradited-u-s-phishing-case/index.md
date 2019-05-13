@@ -1,7 +1,7 @@
 ---
 Lithuanian Court gives Green Light for Man to be extradited to the U.S. in Phishing Case
 ---
-<article class="post-listing post-22178 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-court tag-extradited tag-green tag-light tag-lithuanian tag-man tag-phishing">
+<article class="post-listing post-22178 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-court tag-extradited tag-green tag-light tag-lithuanian tag-man tag-phishing">
     
     <div class="post-inner">
     

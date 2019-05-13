@@ -1,7 +1,7 @@
 ---
 British Man Jailed For Importing MDMA From The Netherlands With The Intention To Resell
 ---
-<article class="post-listing post-20610 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-british tag-importing tag-intention tag-jailed tag-man tag-mdma tag-netherlands tag-resell">
+<article class="post-listing post-20610 post type-post status-publish format-standard has-post-thumbnail hentry  tag-british tag-importing tag-intention tag-jailed tag-man tag-mdma tag-netherlands tag-resell">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 14, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Two Arrested In Germany For Running A Fake Microsoft Support Center
 ---
-<article class="post-listing post-19008 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-center tag-fake tag-germany tag-microsoft tag-running tag-support">
+<article class="post-listing post-19008 post type-post status-publish format-standard has-post-thumbnail hentry  tag-center tag-fake tag-germany tag-microsoft tag-running tag-support">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 5, 2017</span>

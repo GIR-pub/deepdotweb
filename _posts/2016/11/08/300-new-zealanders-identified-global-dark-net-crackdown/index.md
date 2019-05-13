@@ -1,7 +1,7 @@
 ---
 300 New Zealanders Identified In Global Dark Net Crackdown
 ---
-<article class="post-listing post-16326 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4481 tag-crackdown tag-dark tag-global tag-identified tag-net tag-zealanders">
+<article class="post-listing post-16326 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4481 tag-crackdown tag-dark tag-global tag-identified tag-net tag-zealanders">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 8, 2016</span>

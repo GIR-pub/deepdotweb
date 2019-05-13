@@ -1,7 +1,7 @@
 ---
 ProtonMail May Have Hacked Phishing Site
 ---
-<article class="post-listing post-22290 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-hacked tag-phishing tag-protonmail tag-site">
+<article class="post-listing post-22290 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacked tag-phishing tag-protonmail tag-site">
     
     <div class="post-inner">
     

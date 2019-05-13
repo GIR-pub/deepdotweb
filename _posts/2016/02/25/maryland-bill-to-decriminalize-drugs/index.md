@@ -1,7 +1,7 @@
 ---
 Maryland Bill To Decriminalize Drugs
 ---
-<article class="post-listing post-13321 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bill tag-decriminalize tag-maryland">
+<article class="post-listing post-13321 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bill tag-decriminalize tag-maryland">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>February 25, 2016</span>

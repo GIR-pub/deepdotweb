@@ -1,7 +1,7 @@
 ---
 Three Men Sentenced For 15 Years, Obtained Cache of Guns From Dark Web
 ---
-<article class="post-listing post-20001 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1886 tag-ammunition tag-cache tag-dark tag-guns tag-huge tag-men tag-obtained tag-sentenced tag-web tag-years">
+<article class="post-listing post-20001 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1886 tag-ammunition tag-cache tag-dark tag-guns tag-huge tag-men tag-obtained tag-sentenced tag-web tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 20, 2017</span>

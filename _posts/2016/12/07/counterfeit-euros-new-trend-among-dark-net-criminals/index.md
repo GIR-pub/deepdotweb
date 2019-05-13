@@ -1,7 +1,7 @@
 ---
 Counterfeit Euros Is The New Trend Among Dark Net Criminals
 ---
-<article class="post-listing post-16784 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-among tag-counterfeit tag-criminals tag-dark tag-euros tag-net tag-trend">
+<article class="post-listing post-16784 post type-post status-publish format-standard has-post-thumbnail hentry  tag-among tag-counterfeit tag-criminals tag-dark tag-euros tag-net tag-trend">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 7, 2016</span>

@@ -1,7 +1,7 @@
 ---
 FBI May Need Apple’s Help in Breaking into Another iPhone
 ---
-<article class="post-listing post-15856 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-apples tag-breaking tag-fbi tag-iphone">
+<article class="post-listing post-15856 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apples tag-breaking tag-fbi tag-iphone">
     
     <div class="post-inner">
     

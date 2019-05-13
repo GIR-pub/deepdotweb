@@ -1,7 +1,7 @@
 ---
 Why Meal-Replacement Drink Company Soylent​ is Opening a Dark Web Store
 ---
-<article class="post-listing post-19291 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-company tag-dark tag-drink tag-mealreplacement tag-opening tag-soylent tag-store tag-web">
+<article class="post-listing post-19291 post type-post status-publish format-standard has-post-thumbnail hentry  tag-company tag-dark tag-drink tag-mealreplacement tag-opening tag-soylent tag-store tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>April 20, 2017</span>

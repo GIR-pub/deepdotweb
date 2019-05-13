@@ -1,7 +1,7 @@
 ---
 Report: 60 Percent Of Child Porn Websites Are Located In Europe
 ---
-<article class="post-listing post-19738 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3828 tag-child tag-europe tag-located tag-percent tag-porn tag-report tag-websites">
+<article class="post-listing post-19738 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3828 tag-child tag-europe tag-located tag-percent tag-porn tag-report tag-websites">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 10, 2017</span>

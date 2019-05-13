@@ -1,7 +1,7 @@
 ---
 Parts of Germany See Decline in Counterfeit Use
 ---
-<article class="post-listing post-17427 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-counterfeit tag-decline tag-germany tag-parts">
+<article class="post-listing post-17427 post type-post status-publish format-standard has-post-thumbnail hentry  tag-counterfeit tag-decline tag-germany tag-parts">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 10, 2017</span>

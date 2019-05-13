@@ -1,7 +1,7 @@
 ---
 Fraud Group Used Stolen Databases to Pick Victims
 ---
-<article class="post-listing post-20879 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-databases tag-fraud tag-group tag-pick tag-stolen tag-victims">
+<article class="post-listing post-20879 post type-post status-publish format-standard has-post-thumbnail hentry  tag-databases tag-fraud tag-group tag-pick tag-stolen tag-victims">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 25, 2017</span>

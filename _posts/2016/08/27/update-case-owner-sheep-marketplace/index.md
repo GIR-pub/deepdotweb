@@ -1,7 +1,7 @@
 ---
 Update on the Case Against the Owner of the Sheep Marketplace
 ---
-<article class="post-listing post-15255 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-marketplace tag-owner tag-sheep tag-update">
+<article class="post-listing post-15255 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-marketplace tag-owner tag-sheep tag-update">
     
     <div class="post-inner">
     

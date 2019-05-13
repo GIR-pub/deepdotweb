@@ -1,7 +1,7 @@
 ---
 Millionaire Alphabay Vendor Willingly Gave His Account to Feds
 ---
-<article class="post-listing post-21026 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-account tag-alphabay tag-feds tag-gave tag-millionaire tag-vendor tag-willingly">
+<article class="post-listing post-21026 post type-post status-publish format-standard has-post-thumbnail hentry  tag-account tag-alphabay tag-feds tag-gave tag-millionaire tag-vendor tag-willingly">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 2, 2017</span>

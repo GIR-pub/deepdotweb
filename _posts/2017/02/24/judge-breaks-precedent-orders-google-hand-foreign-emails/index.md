@@ -1,7 +1,7 @@
 ---
 Judge Breaks Precedent and Orders Google to Hand Over Foreign Emails
 ---
-<article class="post-listing post-18317 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-breaks tag-emails tag-foreign tag-google tag-hand tag-judge tag-orders tag-precedent">
+<article class="post-listing post-18317 post type-post status-publish format-standard has-post-thumbnail hentry  tag-breaks tag-emails tag-foreign tag-google tag-hand tag-judge tag-orders tag-precedent">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>February 24, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Tried To Buy Phone With Counterfeit Notes – Four Arrested In Lyon
 ---
-<article class="post-listing post-18320 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buy tag-counterfeit tag-lyon tag-notes tag-phone">
+<article class="post-listing post-18320 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-counterfeit tag-lyon tag-notes tag-phone">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 24, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Mozilla Vows to Keep up the Fight for Online Rights
 ---
-<article class="post-listing post-16924 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fight tag-mozilla tag-online tag-rights tag-vows">
+<article class="post-listing post-16924 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fight tag-mozilla tag-online tag-rights tag-vows">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>December 14, 2016</span>

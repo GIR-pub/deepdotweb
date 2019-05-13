@@ -1,7 +1,7 @@
 ---
 Florida Man Arrested for Selling Fentanyl to Undercover Agents on Alphabay
 ---
-<article class="post-listing post-15012 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agents tag-alphabay tag-fentanyl tag-florida tag-man tag-selling tag-undercover">
+<article class="post-listing post-15012 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agents tag-alphabay tag-fentanyl tag-florida tag-man tag-selling tag-undercover">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 4, 2016</span>

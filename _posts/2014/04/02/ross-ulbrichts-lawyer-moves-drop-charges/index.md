@@ -1,7 +1,7 @@
 ---
 Ross Ulbricht&#8217;s Lawyer Moves To Drop All Charges
 ---
-<article class="post-listing post-4849 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charges tag-drop tag-lawyer tag-moves tag-ross tag-ulbrichts">
+<article class="post-listing post-4849 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-drop tag-lawyer tag-moves tag-ross tag-ulbrichts">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 2, 2014</span>

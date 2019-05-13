@@ -1,7 +1,7 @@
 ---
 18-year-old German Tried To Purchase Machine Gun From The Dark Web
 ---
-<article class="post-listing post-22143 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-18yearold tag-dark tag-german tag-gun tag-machine tag-purchase tag-web">
+<article class="post-listing post-22143 post type-post status-publish format-standard has-post-thumbnail hentry  tag-18yearold tag-dark tag-german tag-gun tag-machine tag-purchase tag-web">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Feds Indict Two AlphaBay Vendors on Distribution and Conspiracy Charges
 ---
-<article class="post-listing post-15096 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-charges tag-conspiracy tag-distribution tag-feds tag-indict tag-vendors">
+<article class="post-listing post-15096 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-charges tag-conspiracy tag-distribution tag-feds tag-indict tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 12, 2016</span>

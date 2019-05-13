@@ -1,7 +1,7 @@
 ---
 German Man Sentenced for Cyberbullying and Selling Electronics on the Darknet
 ---
-<article class="post-listing post-17213 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cyberbullying tag-darknet tag-electronics tag-german tag-man tag-selling tag-sentenced">
+<article class="post-listing post-17213 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cyberbullying tag-darknet tag-electronics tag-german tag-man tag-selling tag-sentenced">
     
     <div class="post-inner">
     

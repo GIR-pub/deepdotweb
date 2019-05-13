@@ -1,7 +1,7 @@
 ---
 Scotland Opiate Treatment is Endangering Other Drug Users
 ---
-<article class="post-listing post-20630 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drug tag-endangering tag-opiate tag-scotland tag-treatment tag-users">
+<article class="post-listing post-20630 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-endangering tag-opiate tag-scotland tag-treatment tag-users">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 15, 2017</span>

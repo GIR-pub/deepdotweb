@@ -1,7 +1,7 @@
 ---
 Section 215 Expires, Senate Approves USA Freedom Act
 ---
-<article class="post-listing post-10517 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2897 tag-act tag-approves tag-expires tag-freedom tag-section tag-senate tag-usa">
+<article class="post-listing post-10517 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2897 tag-act tag-approves tag-expires tag-freedom tag-section tag-senate tag-usa">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 1, 2015</span>

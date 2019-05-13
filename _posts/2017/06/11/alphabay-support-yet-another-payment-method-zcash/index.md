@@ -1,7 +1,7 @@
 ---
 Alphabay to Support Yet Another Payment Method: Zcash
 ---
-<article class="post-listing post-20534 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-method tag-payment tag-support tag-zcash">
+<article class="post-listing post-20534 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-method tag-payment tag-support tag-zcash">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 11, 2017</span>

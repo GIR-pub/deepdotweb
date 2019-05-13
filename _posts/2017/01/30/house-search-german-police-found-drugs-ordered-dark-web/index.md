@@ -1,7 +1,7 @@
 ---
 During House Search German Police Found Drugs Ordered From The Dark Web
 ---
-<article class="post-listing post-17860 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-german tag-home tag-police tag-search">
+<article class="post-listing post-17860 post type-post status-publish format-standard has-post-thumbnail hentry  tag-german tag-home tag-police tag-search">
     
     <div class="post-inner">
     

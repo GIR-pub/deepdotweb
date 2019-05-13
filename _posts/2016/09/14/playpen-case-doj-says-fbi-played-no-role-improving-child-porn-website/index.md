@@ -1,7 +1,7 @@
 ---
 PlayPen Case: DOJ Says FBI Played No Role In Improving Child Porn Website
 ---
-<article class="post-listing post-15422 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-child tag-doj tag-fbi tag-improving tag-played tag-playpen tag-porn tag-role tag-website">
+<article class="post-listing post-15422 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-child tag-doj tag-fbi tag-improving tag-played tag-playpen tag-porn tag-role tag-website">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 14, 2016</span>

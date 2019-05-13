@@ -1,7 +1,7 @@
 ---
 Australian Border Force Busts Darknet Drug Buyer For Importation and Distribution
 ---
-<article class="post-listing post-18162 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australian tag-border tag-busts tag-buyer tag-darknet tag-distribution tag-drug tag-force tag-importation">
+<article class="post-listing post-18162 post type-post status-publish format-standard has-post-thumbnail hentry  tag-australian tag-border tag-busts tag-buyer tag-darknet tag-distribution tag-drug tag-force tag-importation">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 17, 2017</span>

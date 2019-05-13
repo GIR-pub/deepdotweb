@@ -1,7 +1,7 @@
 ---
 Bitcoins Seized by Law Enforcement Agencies to Be Auctioned by Wilsons Auction House
 ---
-<article class="post-listing post-28609 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agencies tag-auction tag-auctioned tag-bitcoins tag-enforcement tag-house tag-law tag-seized tag-wilsons">
+<article class="post-listing post-28609 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agencies tag-auction tag-auctioned tag-bitcoins tag-enforcement tag-house tag-law tag-seized tag-wilsons">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/steve_bale/" title="">Steve_Bale </a></span>
     <span>March 13, 2019</span>

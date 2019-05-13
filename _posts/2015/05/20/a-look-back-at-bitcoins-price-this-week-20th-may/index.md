@@ -1,7 +1,7 @@
 ---
 A Look Back at Bitcoin’s Price This Week &#8211; 20th May
 ---
-<article class="post-listing post-10341 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-20th tag-bitcoins tag-price tag-week">
+<article class="post-listing post-10341 post type-post status-publish format-standard has-post-thumbnail hentry  tag-20th tag-bitcoins tag-price tag-week">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>May 20, 2015</span>

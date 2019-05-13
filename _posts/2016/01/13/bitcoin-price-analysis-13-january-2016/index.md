@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis 13 January 2016
 ---
-<article class="post-listing post-12939 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2688 tag-3336 tag-analysis tag-bitcoin tag-january tag-price">
+<article class="post-listing post-12939 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-3336 tag-analysis tag-bitcoin tag-january tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>January 13, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Downed CP website had 10,000 UK Members, Including a School Governor
 ---
-<article class="post-listing post-20060 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4937 tag-cp tag-downed tag-governor tag-including tag-members tag-school tag-uk tag-website">
+<article class="post-listing post-20060 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4937 tag-cp tag-downed tag-governor tag-including tag-members tag-school tag-uk tag-website">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 23, 2017</span>

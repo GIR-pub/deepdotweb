@@ -1,7 +1,7 @@
 ---
 Former Rugby Player Used Bitcoin to Purchase MDMA Over the Dark Web
 ---
-<article class="post-listing post-28147 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-dark tag-mdma tag-player tag-purchase tag-rugby tag-web">
+<article class="post-listing post-28147 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-dark tag-mdma tag-player tag-purchase tag-rugby tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
     <span>January 20, 2019</span>

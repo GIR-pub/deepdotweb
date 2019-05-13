@@ -1,7 +1,7 @@
 ---
 New Dark Net Toolkit Helps Link Bitcoin Transactions with Wallets
 ---
-<article class="post-listing post-15819 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-dark tag-helps tag-link tag-net tag-toolkit tag-transactions tag-wallets">
+<article class="post-listing post-15819 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-dark tag-helps tag-link tag-net tag-toolkit tag-transactions tag-wallets">
     
     <div class="post-inner">
     

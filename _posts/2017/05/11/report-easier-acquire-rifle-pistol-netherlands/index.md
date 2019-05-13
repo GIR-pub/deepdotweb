@@ -1,7 +1,7 @@
 ---
 Report: Easier To Acquire A Rifle Than A Pistol In The Netherlands
 ---
-<article class="post-listing post-19758 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-acquire tag-easier tag-netherlands tag-pistol tag-report tag-rifle">
+<article class="post-listing post-19758 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acquire tag-easier tag-netherlands tag-pistol tag-report tag-rifle">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 11, 2017</span>

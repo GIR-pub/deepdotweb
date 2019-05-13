@@ -1,7 +1,7 @@
 ---
 Turkey National Police Hacked
 ---
-<article class="post-listing post-13272 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-hacked tag-national tag-police tag-turkey">
+<article class="post-listing post-13272 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacked tag-national tag-police tag-turkey">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>February 20, 2016</span>

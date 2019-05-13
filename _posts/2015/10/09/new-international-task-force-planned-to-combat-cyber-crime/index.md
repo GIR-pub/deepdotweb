@@ -1,7 +1,7 @@
 ---
 New International Task Force Planned to Combat Cyber Crime
 ---
-<article class="post-listing post-11705 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-combat tag-crime tag-cyber tag-force tag-international tag-planned tag-task">
+<article class="post-listing post-11705 post type-post status-publish format-standard has-post-thumbnail hentry  tag-combat tag-crime tag-cyber tag-force tag-international tag-planned tag-task">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 9, 2015</span>

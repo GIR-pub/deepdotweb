@@ -1,7 +1,7 @@
 ---
 Chinese Government Requiring Muslims to Install Spyware on Their Electronic Devices
 ---
-<article class="post-listing post-21916 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-chinese tag-devices tag-electronic tag-government tag-install tag-muslims tag-requiring tag-spyware">
+<article class="post-listing post-21916 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chinese tag-devices tag-electronic tag-government tag-install tag-muslims tag-requiring tag-spyware">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>August 12, 2017</span>

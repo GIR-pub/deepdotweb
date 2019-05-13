@@ -1,7 +1,7 @@
 ---
 Indian Government Provides Cyber Safety Lessons to Teens to Prevent Dark Web Activity
 ---
-<article class="post-listing post-20173 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-activity tag-cyber tag-dark tag-government tag-indian tag-lessons tag-prevent tag-safety tag-teens tag-web">
+<article class="post-listing post-20173 post type-post status-publish format-standard has-post-thumbnail hentry  tag-activity tag-cyber tag-dark tag-government tag-indian tag-lessons tag-prevent tag-safety tag-teens tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 27, 2017</span>

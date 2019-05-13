@@ -1,7 +1,7 @@
 ---
 NYU Accidentally Exposed Secret NSA Encryption Cracking Project
 ---
-<article class="post-listing post-20170 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accidentally tag-cracking tag-encryption tag-exposed tag-nsa tag-nyu tag-project tag-secret">
+<article class="post-listing post-20170 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accidentally tag-cracking tag-encryption tag-exposed tag-nsa tag-nyu tag-project tag-secret">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>May 27, 2017</span>

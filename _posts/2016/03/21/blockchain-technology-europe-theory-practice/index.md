@@ -1,7 +1,7 @@
 ---
 Blockchain Technology in Europe: Theory and Practice
 ---
-<article class="post-listing post-13534 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blockchain tag-europe tag-practice tag-technology tag-theory">
+<article class="post-listing post-13534 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-europe tag-practice tag-technology tag-theory">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 21, 2016</span>

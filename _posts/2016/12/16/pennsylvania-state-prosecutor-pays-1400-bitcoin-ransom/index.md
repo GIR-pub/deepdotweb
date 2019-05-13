@@ -1,7 +1,7 @@
 ---
 Pennsylvania State Prosecutor Pays $1,400 in Bitcoin as Ransom
 ---
-<article class="post-listing post-16955 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3867 tag-bitcoin tag-pays tag-pennsylvania tag-prosecutor tag-ransom tag-state">
+<article class="post-listing post-16955 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3867 tag-bitcoin tag-pays tag-pennsylvania tag-prosecutor tag-ransom tag-state">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>December 16, 2016</span>

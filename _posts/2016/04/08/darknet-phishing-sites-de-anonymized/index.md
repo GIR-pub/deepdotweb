@@ -1,7 +1,7 @@
 ---
 IP Doxx: 7 DarkNet Markets Phishing Clones Exposed
 ---
-<article class="post-listing post-13679 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-clones tag-darknet tag-doxx tag-exposed tag-ip tag-markets tag-phishing">
+<article class="post-listing post-13679 post type-post status-publish format-standard has-post-thumbnail hentry  tag-clones tag-darknet tag-doxx tag-exposed tag-ip tag-markets tag-phishing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 8, 2016</span>

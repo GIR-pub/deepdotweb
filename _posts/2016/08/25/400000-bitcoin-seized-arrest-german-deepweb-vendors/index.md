@@ -1,7 +1,7 @@
 ---
 $400,000 In Bitcoin Seized in the Arrest of German Deepweb Vendors
 ---
-<article class="post-listing post-15235 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4174 tag-arrest tag-bitcoin tag-deepweb tag-german tag-seized tag-vendors">
+<article class="post-listing post-15235 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4174 tag-arrest tag-bitcoin tag-deepweb tag-german tag-seized tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 25, 2016</span>

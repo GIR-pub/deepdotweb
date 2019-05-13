@@ -1,7 +1,7 @@
 ---
 Austrian Sentenced For Ordering Drugs From Canada And The Netherlands
 ---
-<article class="post-listing post-17972 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-austrian tag-canada tag-netherlands tag-ordering tag-sentenced">
+<article class="post-listing post-17972 post type-post status-publish format-standard has-post-thumbnail hentry  tag-austrian tag-canada tag-netherlands tag-ordering tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 4, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Request for Info from the Veterans Affairs Asks for Dark Net Help
 ---
-<article class="post-listing post-14241 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-affairs tag-asks tag-dark tag-info tag-net tag-request tag-veterans">
+<article class="post-listing post-14241 post type-post status-publish format-standard has-post-thumbnail hentry  tag-affairs tag-asks tag-dark tag-info tag-net tag-request tag-veterans">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 27, 2016</span>

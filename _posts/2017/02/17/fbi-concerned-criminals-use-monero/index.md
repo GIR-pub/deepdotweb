@@ -1,7 +1,7 @@
 ---
 FBI Concerned Criminals Could Use Monero
 ---
-<article class="post-listing post-18165 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-concerned tag-criminals tag-fbi tag-monero">
+<article class="post-listing post-18165 post type-post status-publish format-standard has-post-thumbnail hentry  tag-concerned tag-criminals tag-fbi tag-monero">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Darknet Vendor BenzoChems Uploads Video of His Alprazolam Lab
 ---
-<article class="post-listing post-15355 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alprazolam tag-benzochems tag-darknet tag-lab tag-uploads tag-vendor tag-video">
+<article class="post-listing post-15355 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alprazolam tag-benzochems tag-darknet tag-lab tag-uploads tag-vendor tag-video">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 6, 2016</span>

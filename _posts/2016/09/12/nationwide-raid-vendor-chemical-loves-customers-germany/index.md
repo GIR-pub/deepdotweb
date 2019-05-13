@@ -1,7 +1,7 @@
 ---
 Nationwide Raid On Vendor Chemical Love’s Customers In Germany
 ---
-<article class="post-listing post-15406 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-chemical tag-customers tag-germany tag-loves tag-nationwide tag-raid tag-vendor">
+<article class="post-listing post-15406 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chemical tag-customers tag-germany tag-loves tag-nationwide tag-raid tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 12, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Silk Road Trial Full Transcript: Day 6 (22.1.15)
 ---
-<article class="post-listing post-8866 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-silkroadtrial tag-transcriptsr">
+<article class="post-listing post-8866 post type-post status-publish format-standard has-post-thumbnail hentry  tag-silkroadtrial tag-transcriptsr">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 23, 2015</span>

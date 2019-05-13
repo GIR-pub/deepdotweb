@@ -1,7 +1,7 @@
 ---
 30,000 Ecstasy Pills Seized Dutch Vendor Bust
 ---
-<article class="post-listing post-21159 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1707 tag-bust tag-dutch tag-ecstasy tag-pills tag-seized tag-vendor">
+<article class="post-listing post-21159 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1707 tag-bust tag-dutch tag-ecstasy tag-pills tag-seized tag-vendor">
     
     <div class="post-inner">
     

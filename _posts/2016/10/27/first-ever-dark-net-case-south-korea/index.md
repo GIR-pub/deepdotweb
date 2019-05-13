@@ -1,7 +1,7 @@
 ---
 First Ever Dark Net Case In South Korea
 ---
-<article class="post-listing post-16119 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-dark tag-korea tag-net tag-south">
+<article class="post-listing post-16119 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-dark tag-korea tag-net tag-south">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 27, 2016</span>

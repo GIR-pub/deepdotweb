@@ -1,7 +1,7 @@
 ---
 Gwern: Archives of ALL Dark Net Market Released
 ---
-<article class="post-listing post-11056 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-archives tag-dark tag-market tag-net tag-released">
+<article class="post-listing post-11056 post type-post status-publish format-standard has-post-thumbnail hentry  tag-archives tag-dark tag-market tag-net tag-released">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 16, 2015</span>

@@ -1,7 +1,7 @@
 ---
 DEA Places Fentanyl Analog in Schedule I
 ---
-<article class="post-listing post-15666 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-analog tag-dea tag-fentanyl tag-places tag-schedule">
+<article class="post-listing post-15666 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analog tag-dea tag-fentanyl tag-places tag-schedule">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/joewebber/" title="">Joe Webber </a></span>
     <span>October 5, 2016</span>

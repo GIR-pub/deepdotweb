@@ -1,7 +1,7 @@
 ---
 Russian Hackers Empty Out User Credentials from Big Name Tech Companies
 ---
-<article class="post-listing post-15614 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-big tag-companies tag-credentials tag-empty tag-hackers tag-russian tag-tech tag-user">
+<article class="post-listing post-15614 post type-post status-publish format-standard has-post-thumbnail hentry  tag-big tag-companies tag-credentials tag-empty tag-hackers tag-russian tag-tech tag-user">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>October 1, 2016</span>

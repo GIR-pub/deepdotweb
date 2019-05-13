@@ -1,7 +1,7 @@
 ---
 Final Dealer in Fentanyl Conspiracy Admits Guilt
 ---
-<article class="post-listing post-19137 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-conspiracy tag-dealer tag-fentanyl tag-final tag-guilt">
+<article class="post-listing post-19137 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admits tag-conspiracy tag-dealer tag-fentanyl tag-final tag-guilt">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 12, 2017</span>

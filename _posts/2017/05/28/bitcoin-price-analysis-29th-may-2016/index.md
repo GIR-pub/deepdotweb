@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis for 29th May 2017
 ---
-<article class="post-listing post-20292 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-29th tag-analysis tag-bitcoin tag-price">
+<article class="post-listing post-20292 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-29th tag-analysis tag-bitcoin tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>May 28, 2017</span>

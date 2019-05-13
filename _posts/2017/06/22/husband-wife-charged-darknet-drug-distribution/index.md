@@ -1,7 +1,7 @@
 ---
 Husband and Wife Charged for Darknet Drug Distribution
 ---
-<article class="post-listing post-20793 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charged tag-darknet tag-distribution tag-drug tag-husband tag-wife">
+<article class="post-listing post-20793 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-darknet tag-distribution tag-drug tag-husband tag-wife">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 22, 2017</span>

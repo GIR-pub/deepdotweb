@@ -1,7 +1,7 @@
 ---
 Decentralized Bitcoin Exchange Bitsquare Launches Wednesday
 ---
-<article class="post-listing post-13868 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-bitsquare tag-decentralized tag-exchange tag-launches tag-wednesday">
+<article class="post-listing post-13868 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-bitsquare tag-decentralized tag-exchange tag-launches tag-wednesday">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 25, 2016</span>

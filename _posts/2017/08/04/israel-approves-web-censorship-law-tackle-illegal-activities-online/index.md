@@ -1,7 +1,7 @@
 ---
 Israel Approves Web Censorship Law to Tackle Illegal Activities Online
 ---
-<article class="post-listing post-21733 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-activities tag-approves tag-censorship tag-illegal tag-israel tag-law tag-online tag-tackle tag-web">
+<article class="post-listing post-21733 post type-post status-publish format-standard has-post-thumbnail hentry  tag-activities tag-approves tag-censorship tag-illegal tag-israel tag-law tag-online tag-tackle tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>August 4, 2017</span>

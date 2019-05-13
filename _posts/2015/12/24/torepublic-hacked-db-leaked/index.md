@@ -1,7 +1,7 @@
 ---
 Torepublic Hacked, DB Leaked
 ---
-<article class="post-listing post-12749 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-db tag-hacked tag-leaked tag-torepublic">
+<article class="post-listing post-12749 post type-post status-publish format-standard has-post-thumbnail hentry  tag-db tag-hacked tag-leaked tag-torepublic">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 24, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Average Age of Cyber Crime Suspects is 17, Young Criminals Enter Dark Web
 ---
-<article class="post-listing post-19696 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2684 tag-age tag-average tag-crime tag-criminals tag-cyber tag-dark tag-enter tag-suspects tag-web tag-young">
+<article class="post-listing post-19696 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2684 tag-age tag-average tag-crime tag-criminals tag-cyber tag-dark tag-enter tag-suspects tag-web tag-young">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Report: Weapon Trade On The Dark Web Increased In The Netherlands
 ---
-<article class="post-listing post-20750 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-increased tag-netherlands tag-trade tag-weapon tag-web">
+<article class="post-listing post-20750 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-increased tag-netherlands tag-trade tag-weapon tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 20, 2017</span>

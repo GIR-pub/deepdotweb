@@ -1,7 +1,7 @@
 ---
 New York State Police Gets FinCEN award for Dark Web and Bitcoin Investigation
 ---
-<article class="post-listing post-14227 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-award tag-bitcoin tag-dark tag-fincen tag-investigation tag-police tag-state tag-web tag-york">
+<article class="post-listing post-14227 post type-post status-publish format-standard has-post-thumbnail hentry  tag-award tag-bitcoin tag-dark tag-fincen tag-investigation tag-police tag-state tag-web tag-york">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 25, 2016</span>

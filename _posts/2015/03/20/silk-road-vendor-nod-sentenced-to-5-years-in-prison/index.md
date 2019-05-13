@@ -1,7 +1,7 @@
 ---
 Silk Road Vendor NOD Sentenced To 5 Years In Prison
 ---
-<article class="post-listing post-9586 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-nod tag-prison tag-road tag-sentenced tag-silk tag-vendor tag-years">
+<article class="post-listing post-9586 post type-post status-publish format-standard has-post-thumbnail hentry  tag-nod tag-prison tag-road tag-sentenced tag-silk tag-vendor tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 20, 2015</span>

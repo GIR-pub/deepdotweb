@@ -1,7 +1,7 @@
 ---
 Payments Firm Executive: Wire Transfer is Preferred Method For Cyber Criminals
 ---
-<article class="post-listing post-17408 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-criminals tag-cyber tag-executive tag-firm tag-method tag-payments tag-preferred tag-transfer tag-wire">
+<article class="post-listing post-17408 post type-post status-publish format-standard has-post-thumbnail hentry  tag-criminals tag-cyber tag-executive tag-firm tag-method tag-payments tag-preferred tag-transfer tag-wire">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 9, 2017</span>

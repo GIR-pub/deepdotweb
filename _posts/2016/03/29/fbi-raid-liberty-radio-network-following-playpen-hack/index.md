@@ -1,7 +1,7 @@
 ---
 FBI Raid Liberty Radio Network Following Playpen Hack
 ---
-<article class="post-listing post-13597 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fbi tag-hack tag-liberty tag-network tag-playpen tag-radio tag-raid">
+<article class="post-listing post-13597 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-hack tag-liberty tag-network tag-playpen tag-radio tag-raid">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>March 29, 2016</span>

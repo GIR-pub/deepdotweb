@@ -1,7 +1,7 @@
 ---
 Electronic Surveillance Requests are up 500 Percent in the United States
 ---
-<article class="post-listing post-16245 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2424 tag-electronic tag-percent tag-requests tag-states tag-surveillance tag-united">
+<article class="post-listing post-16245 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2424 tag-electronic tag-percent tag-requests tag-states tag-surveillance tag-united">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>November 3, 2016</span>

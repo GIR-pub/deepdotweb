@@ -1,7 +1,7 @@
 ---
 Nottingham Man Jailed For Attempting To Buy A Gun From Dark Web
 ---
-<article class="post-listing post-12553 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempting tag-buy tag-dark tag-gun tag-jailed tag-man tag-nottingham tag-web">
+<article class="post-listing post-12553 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempting tag-buy tag-dark tag-gun tag-jailed tag-man tag-nottingham tag-web">
     
     <div class="post-inner">
     

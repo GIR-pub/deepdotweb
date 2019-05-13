@@ -1,7 +1,7 @@
 ---
 Latest Arkansas Marijuana Proposal Rejected Due to Ambiguous Phrasing
 ---
-<article class="post-listing post-15062 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-ambiguous tag-arkansas tag-due tag-latest tag-marijuana tag-phrasing tag-proposal tag-rejected">
+<article class="post-listing post-15062 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ambiguous tag-arkansas tag-due tag-latest tag-marijuana tag-phrasing tag-proposal tag-rejected">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 10, 2016</span>

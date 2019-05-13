@@ -1,7 +1,7 @@
 ---
 Multiple Men Indicted in Districts First BTC Related Case
 ---
-<article class="post-listing post-13521 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-btc tag-case tag-districts tag-indicted tag-men tag-multiple tag-related">
+<article class="post-listing post-13521 post type-post status-publish format-standard has-post-thumbnail hentry  tag-btc tag-case tag-districts tag-indicted tag-men tag-multiple tag-related">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>March 19, 2016</span>

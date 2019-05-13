@@ -1,7 +1,7 @@
 ---
 EnergyControl Drug Testing Service launch Its International Site
 ---
-<article class="post-listing post-16495 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drug tag-energycontrol tag-international tag-launch tag-service tag-site tag-testing">
+<article class="post-listing post-16495 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-energycontrol tag-international tag-launch tag-service tag-site tag-testing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 18, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Online Weapon Sales Reach “Concerning” Levels in Belgium
 ---
-<article class="post-listing post-21212 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-belgium tag-levels tag-online tag-reach tag-sales tag-weapon">
+<article class="post-listing post-21212 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belgium tag-levels tag-online tag-reach tag-sales tag-weapon">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 11, 2017</span>

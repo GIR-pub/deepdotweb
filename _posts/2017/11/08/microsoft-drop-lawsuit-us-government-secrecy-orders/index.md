@@ -1,7 +1,7 @@
 ---
 Microsoft to Drop Lawsuit Against US Government Secrecy Orders
 ---
-<article class="post-listing post-23435 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drop tag-government tag-lawsuit tag-microsoft tag-orders tag-secrecy">
+<article class="post-listing post-23435 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drop tag-government tag-lawsuit tag-microsoft tag-orders tag-secrecy">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>November 8, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Romanian Police Join Forces With Domestic Internet Security Company To Fight Cybercrime
 ---
-<article class="post-listing post-19229 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-company tag-cybercrime tag-domestic tag-fight tag-forces tag-internet tag-join tag-police tag-romanian tag-security">
+<article class="post-listing post-19229 post type-post status-publish format-standard has-post-thumbnail hentry  tag-company tag-cybercrime tag-domestic tag-fight tag-forces tag-internet tag-join tag-police tag-romanian tag-security">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 17, 2017</span>

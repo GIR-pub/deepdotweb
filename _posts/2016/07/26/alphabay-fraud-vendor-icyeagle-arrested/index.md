@@ -1,7 +1,7 @@
 ---
 Alphabay Fraud Vendor IcyEagle Arrested
 ---
-<article class="post-listing post-14914 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-fraud tag-icyeagle tag-vendor">
+<article class="post-listing post-14914 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-fraud tag-icyeagle tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 26, 2016</span>

@@ -1,7 +1,7 @@
 ---
 DHL Goes Down After Hacker Exposes Clearnet IP Address
 ---
-<article class="post-listing post-21805 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-address tag-clearnet tag-dhl tag-exposes tag-hacker tag-ip">
+<article class="post-listing post-21805 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-clearnet tag-dhl tag-exposes tag-hacker tag-ip">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 6, 2017</span>

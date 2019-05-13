@@ -1,7 +1,7 @@
 ---
 Dark Web Ricin Case: Judge Rejected Recommended Sentence
 ---
-<article class="post-listing post-13774 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-dark tag-judge tag-recommended tag-rejected tag-ricin tag-sentence tag-web">
+<article class="post-listing post-13774 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-dark tag-judge tag-recommended tag-rejected tag-ricin tag-sentence tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 18, 2016</span>

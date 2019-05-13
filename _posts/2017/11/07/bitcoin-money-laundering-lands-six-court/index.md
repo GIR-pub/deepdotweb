@@ -1,7 +1,7 @@
 ---
 Bitcoin Money Laundering Lands Six in Court
 ---
-<article class="post-listing post-23429 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-court tag-lands tag-laundering tag-money">
+<article class="post-listing post-23429 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-court tag-lands tag-laundering tag-money">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>November 7, 2017</span>

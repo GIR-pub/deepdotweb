@@ -1,7 +1,7 @@
 ---
 Blockchain Technology May Be Borrowed By DARPA To Secure Military Networks
 ---
-<article class="post-listing post-15959 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blockchain tag-borrowed tag-darpa tag-military tag-networks tag-secure tag-technology">
+<article class="post-listing post-15959 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-borrowed tag-darpa tag-military tag-networks tag-secure tag-technology">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 20, 2016</span>

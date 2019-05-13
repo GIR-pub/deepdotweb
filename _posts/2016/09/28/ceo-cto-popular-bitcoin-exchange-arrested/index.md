@@ -1,7 +1,7 @@
 ---
 CEO and CTO of Popular Bitcoin Exchange Arrested
 ---
-<article class="post-listing post-15565 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-ceo tag-cto tag-exchange tag-kptx tag-popular">
+<article class="post-listing post-15565 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-ceo tag-cto tag-exchange tag-kptx tag-popular">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>September 28, 2016</span>

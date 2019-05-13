@@ -1,7 +1,7 @@
 ---
 German Vendor Caught in Special Forces Raid
 ---
-<article class="post-listing post-23412 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-caught tag-forces tag-german tag-raid tag-special tag-vendor">
+<article class="post-listing post-23412 post type-post status-publish format-standard has-post-thumbnail hentry  tag-caught tag-forces tag-german tag-raid tag-special tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 6, 2017</span>

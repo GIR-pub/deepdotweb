@@ -1,7 +1,7 @@
 ---
 Four Child Pornographers Arrested In Brazil In Police Action
 ---
-<article class="post-listing post-19076 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-action tag-brazil tag-child tag-police tag-pornographers">
+<article class="post-listing post-19076 post type-post status-publish format-standard has-post-thumbnail hentry  tag-action tag-brazil tag-child tag-police tag-pornographers">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 8, 2017</span>

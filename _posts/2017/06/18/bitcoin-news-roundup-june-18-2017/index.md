@@ -1,7 +1,7 @@
 ---
 Bitcoin news roundup, June 18, 2017
 ---
-<article class="post-listing post-20773 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2684 tag-3676 tag-bitcoin tag-june tag-news tag-roundup">
+<article class="post-listing post-20773 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2684 tag-3676 tag-bitcoin tag-june tag-news tag-roundup">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Prosecutors in Norway Want Silk Road Vendors’ Bitcoin
 ---
-<article class="post-listing post-18990 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-norway tag-prosecutors tag-road tag-silk tag-vendors">
+<article class="post-listing post-18990 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-norway tag-prosecutors tag-road tag-silk tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>April 4, 2017</span>

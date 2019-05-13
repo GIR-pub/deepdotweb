@@ -1,7 +1,7 @@
 ---
 Bitcoin Weekly Price Analysis 26 April 2016
 ---
-<article class="post-listing post-13877 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-1858 tag-analysis tag-april tag-bitcoin tag-price tag-weekly">
+<article class="post-listing post-13877 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-1858 tag-analysis tag-april tag-bitcoin tag-price tag-weekly">
     
     <div class="post-inner">
     

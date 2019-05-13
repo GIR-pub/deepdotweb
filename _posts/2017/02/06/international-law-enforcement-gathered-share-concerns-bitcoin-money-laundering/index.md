@@ -1,7 +1,7 @@
 ---
 International Law Enforcement Gathered to Share Concerns About Bitcoin and Money Laundering
 ---
-<article class="post-listing post-17991 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-concerns tag-enforcement tag-gathered tag-international tag-laundering tag-law tag-money tag-share">
+<article class="post-listing post-17991 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-concerns tag-enforcement tag-gathered tag-international tag-laundering tag-law tag-money tag-share">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 6, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Jailed Child Porn Admin Testifies Against Co-Admin
 ---
-<article class="post-listing post-13133 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-child tag-coadmin tag-jailed tag-porn tag-testifies">
+<article class="post-listing post-13133 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-child tag-coadmin tag-jailed tag-porn tag-testifies">
     
     <div class="post-inner">
     

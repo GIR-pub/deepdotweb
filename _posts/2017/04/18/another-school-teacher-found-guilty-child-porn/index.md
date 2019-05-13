@@ -1,7 +1,7 @@
 ---
 Another School Teacher Found Guilty for Child Porn
 ---
-<article class="post-listing post-19252 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-guilty tag-porn tag-school tag-teacher">
+<article class="post-listing post-19252 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-guilty tag-porn tag-school tag-teacher">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 18, 2017</span>

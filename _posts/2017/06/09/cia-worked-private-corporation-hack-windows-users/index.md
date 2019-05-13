@@ -1,7 +1,7 @@
 ---
 CIA Worked With Private Corporation to Hack Windows Users
 ---
-<article class="post-listing post-20485 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cia tag-corporation tag-hack tag-private tag-users tag-windows tag-worked">
+<article class="post-listing post-20485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cia tag-corporation tag-hack tag-private tag-users tag-windows tag-worked">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>June 9, 2017</span>

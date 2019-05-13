@@ -1,7 +1,7 @@
 ---
 Lubbock Man Bought Cocaine From Dark Net And Resold It
 ---
-<article class="post-listing post-16055 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bought tag-cocaine tag-dark tag-lubbock tag-man tag-net tag-resold">
+<article class="post-listing post-16055 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bought tag-cocaine tag-dark tag-lubbock tag-man tag-net tag-resold">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 25, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Dutch Vendor Busted: &#8220;HollandOnline&#8221;
 ---
-<article class="post-listing post-9438 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bust tag-dutch tag-hollandonline tag-vendor">
+<article class="post-listing post-9438 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-dutch tag-hollandonline tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 12, 2015</span>

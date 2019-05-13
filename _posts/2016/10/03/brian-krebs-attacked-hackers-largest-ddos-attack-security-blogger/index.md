@@ -1,7 +1,7 @@
 ---
 Brian Krebs Attacked By Hackers: Largest DDoS Attack Against A Security Blogger
 ---
-<article class="post-listing post-15643 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attack tag-attacked tag-blogger tag-brian tag-ddos tag-hackers tag-krebs tag-largest tag-security">
+<article class="post-listing post-15643 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attack tag-attacked tag-blogger tag-brian tag-ddos tag-hackers tag-krebs tag-largest tag-security">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 3, 2016</span>

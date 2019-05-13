@@ -1,7 +1,7 @@
 ---
 Germany Seeks to Heighten Cyber Defences Ahead of a Critical European Parliament Election in May
 ---
-<article class="post-listing post-28207 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-ahead tag-critical tag-cyber tag-defences tag-election tag-european tag-germany tag-heighten tag-parliament tag-seeks">
+<article class="post-listing post-28207 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ahead tag-critical tag-cyber tag-defences tag-election tag-european tag-germany tag-heighten tag-parliament tag-seeks">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>January 26, 2019</span>

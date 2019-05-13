@@ -1,7 +1,7 @@
 ---
 Europol: The Dark Web Is The Heaven For Organized Criminals In The EU
 ---
-<article class="post-listing post-19722 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-criminals tag-dark tag-eu tag-europol tag-heaven tag-organized tag-web">
+<article class="post-listing post-19722 post type-post status-publish format-standard has-post-thumbnail hentry  tag-criminals tag-dark tag-eu tag-europol tag-heaven tag-organized tag-web">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Teen Skips School for a Darkweb Weapons Deal
 ---
-<article class="post-listing post-19340 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darkweb tag-deal tag-school tag-skips tag-teen tag-weapons">
+<article class="post-listing post-19340 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkweb tag-deal tag-school tag-skips tag-teen tag-weapons">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 23, 2017</span>

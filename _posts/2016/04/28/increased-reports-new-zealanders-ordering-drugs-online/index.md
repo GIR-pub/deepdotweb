@@ -1,7 +1,7 @@
 ---
 Increased Reports of New Zealanders Ordering Drugs Online
 ---
-<article class="post-listing post-13898 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-increased tag-online tag-ordering tag-reports tag-zealanders">
+<article class="post-listing post-13898 post type-post status-publish format-standard has-post-thumbnail hentry  tag-increased tag-online tag-ordering tag-reports tag-zealanders">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 28, 2016</span>

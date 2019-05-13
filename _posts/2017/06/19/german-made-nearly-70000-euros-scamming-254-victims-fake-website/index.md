@@ -1,7 +1,7 @@
 ---
 German Made Nearly 70,000 Euros Scamming 254 Victims With Fake Website
 ---
-<article class="post-listing post-20728 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4076 tag-3882 tag-euros tag-fake tag-german tag-scamming tag-victims tag-website">
+<article class="post-listing post-20728 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4076 tag-3882 tag-euros tag-fake tag-german tag-scamming tag-victims tag-website">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 19, 2017</span>

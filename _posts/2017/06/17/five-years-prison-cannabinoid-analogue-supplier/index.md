@@ -1,7 +1,7 @@
 ---
 Five Years in Prison for Cannabinoid Analogue Supplier
 ---
-<article class="post-listing post-20690 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-analogue tag-cannabinoid tag-prison tag-supplier tag-years">
+<article class="post-listing post-20690 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analogue tag-cannabinoid tag-prison tag-supplier tag-years">
     
     <div class="post-inner">
     

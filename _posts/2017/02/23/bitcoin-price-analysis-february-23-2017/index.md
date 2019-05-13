@@ -1,7 +1,7 @@
 ---
 Bitcoin price analysis February 23, 2017
 ---
-<article class="post-listing post-18357 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3676 tag-2700 tag-analysis tag-bitcoin tag-february tag-price">
+<article class="post-listing post-18357 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3676 tag-2700 tag-analysis tag-bitcoin tag-february tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>February 23, 2017</span>

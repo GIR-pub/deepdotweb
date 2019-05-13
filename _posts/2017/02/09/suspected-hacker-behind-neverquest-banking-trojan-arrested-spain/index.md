@@ -1,7 +1,7 @@
 ---
 Suspected Hacker Behind the NeverQuest Banking Trojan Arrested in Spain
 ---
-<article class="post-listing post-18047 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-banking tag-hacker tag-neverquest tag-spain tag-suspected tag-trojan">
+<article class="post-listing post-18047 post type-post status-publish format-standard has-post-thumbnail hentry  tag-banking tag-hacker tag-neverquest tag-spain tag-suspected tag-trojan">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 9, 2017</span>

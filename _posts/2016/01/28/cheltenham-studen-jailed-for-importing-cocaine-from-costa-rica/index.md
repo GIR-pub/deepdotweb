@@ -1,7 +1,7 @@
 ---
 Cheltenham Studen Jailed For Importing Cocaine From Costa Rica
 ---
-<article class="post-listing post-13111 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cheltenham tag-cocaine tag-costa tag-importing tag-jailed tag-rica tag-studen">
+<article class="post-listing post-13111 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cheltenham tag-cocaine tag-costa tag-importing tag-jailed tag-rica tag-studen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 28, 2016</span>

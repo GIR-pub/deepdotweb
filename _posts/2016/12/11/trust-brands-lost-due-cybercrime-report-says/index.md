@@ -1,7 +1,7 @@
 ---
 Trust In Brands Lost Due To Cybercrime, Report Says
 ---
-<article class="post-listing post-16848 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-brands tag-cybercrime tag-due tag-lost tag-report tag-trust">
+<article class="post-listing post-16848 post type-post status-publish format-standard has-post-thumbnail hentry  tag-brands tag-cybercrime tag-due tag-lost tag-report tag-trust">
     
     <div class="post-inner">
     

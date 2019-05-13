@@ -1,7 +1,7 @@
 ---
 Introducing: DeepDotWeb&#8217;s Discussion Forum
 ---
-<article class="post-listing post-7915 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-deepdotwebs tag-discussion tag-forum tag-introducing">
+<article class="post-listing post-7915 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deepdotwebs tag-discussion tag-forum tag-introducing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 30, 2014</span>

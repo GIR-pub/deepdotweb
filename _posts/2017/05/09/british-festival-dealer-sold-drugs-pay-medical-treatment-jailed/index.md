@@ -1,7 +1,7 @@
 ---
 British Festival Dealer Who Sold Drugs To Pay For Medical Treatment Jailed
 ---
-<article class="post-listing post-19724 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-british tag-dealer tag-festival tag-jailed tag-medical tag-pay tag-sold tag-treatment">
+<article class="post-listing post-19724 post type-post status-publish format-standard has-post-thumbnail hentry  tag-british tag-dealer tag-festival tag-jailed tag-medical tag-pay tag-sold tag-treatment">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 9, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Chinese National Sentence to 16 Years for Buying Ricin on Dark Net
 ---
-<article class="post-listing post-13829 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1887 tag-buying tag-chinese tag-dark tag-national tag-net tag-ricin tag-sentence tag-years">
+<article class="post-listing post-13829 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-buying tag-chinese tag-dark tag-national tag-net tag-ricin tag-sentence tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 21, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Anti-DDoS ways for VPS and Dedicated Servers
 ---
-<article class="post-listing post-23630 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-antiddos tag-dedicated tag-servers tag-vps tag-ways">
+<article class="post-listing post-23630 post type-post status-publish format-standard has-post-thumbnail hentry  tag-antiddos tag-dedicated tag-servers tag-vps tag-ways">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>November 22, 2017</span>

@@ -1,7 +1,7 @@
 ---
 65 Million Tumblr Passwords for Sale on TheRealDeal
 ---
-<article class="post-listing post-14325 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3813 tag-market tag-million tag-passwords tag-sale tag-therealdeal tag-tumblr">
+<article class="post-listing post-14325 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3813 tag-market tag-million tag-passwords tag-sale tag-therealdeal tag-tumblr">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/janobi/" title="">Janobi </a></span>
     <span>May 31, 2016</span>

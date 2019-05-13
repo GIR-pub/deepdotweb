@@ -1,7 +1,7 @@
 ---
 British Teen Bought Car Bomb from the Darknet
 ---
-<article class="post-listing post-23724 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bomb tag-bought tag-british tag-car tag-darknet tag-teen">
+<article class="post-listing post-23724 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bomb tag-bought tag-british tag-car tag-darknet tag-teen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>November 29, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Operation Onymous: Darknet Related Bust In Ireland
 ---
-<article class="post-listing post-7956 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bust tag-darknet tag-ireland tag-major tag-operation-onymous tag-related tag-silkroad2bust">
+<article class="post-listing post-7956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-darknet tag-ireland tag-major tag-operation-onymous tag-related tag-silkroad2bust">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 6, 2014</span>

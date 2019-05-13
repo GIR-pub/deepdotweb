@@ -1,7 +1,7 @@
 ---
 German DNM Vendor Arrested For Selling Glock to Munich Shooter
 ---
-<article class="post-listing post-15232 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-german tag-glock tag-market tag-munich tag-selling tag-shooter tag-vendor">
+<article class="post-listing post-15232 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-german tag-glock tag-market tag-munich tag-selling tag-shooter tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 25, 2016</span>

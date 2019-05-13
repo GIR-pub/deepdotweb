@@ -1,7 +1,7 @@
 ---
 Unsealed Documents Tell More Details About The PlayPen Case
 ---
-<article class="post-listing post-14221 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-details tag-documents tag-playpen tag-unsealed">
+<article class="post-listing post-14221 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-details tag-documents tag-playpen tag-unsealed">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 24, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Zimbabwean Economists Consider Adopting Bitcoin as National Currency
 ---
-<article class="post-listing post-16956 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-adopting tag-bitcoin tag-currency tag-economists tag-national tag-zimbabwean">
+<article class="post-listing post-16956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-adopting tag-bitcoin tag-currency tag-economists tag-national tag-zimbabwean">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>December 16, 2016</span>

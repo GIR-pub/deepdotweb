@@ -1,7 +1,7 @@
 ---
 Liberty Reserve Founder Sentenced To 20 Years In Prison
 ---
-<article class="post-listing post-14193 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updatestag-founder tag-liberty tag-prison tag-reserve tag-sentenced tag-years">
+<article class="post-listing post-14193 post type-post status-publish format-standard has-post-thumbnail hentry tag-founder tag-liberty tag-prison tag-reserve tag-sentenced tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 22, 2016</span>

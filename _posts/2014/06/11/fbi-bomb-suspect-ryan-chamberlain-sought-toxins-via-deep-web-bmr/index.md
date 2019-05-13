@@ -1,7 +1,7 @@
 ---
 FBI: Bomb Suspect Ryan Chamberlain Sought Toxins Via ‘Deep Web’ (BMR)
 ---
-<article class="post-listing post-5975 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bmr tag-bomb tag-chamberlain tag-deep tag-fbi tag-ryan tag-sought tag-suspect tag-toxins tag-web">
+<article class="post-listing post-5975 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bmr tag-bomb tag-chamberlain tag-deep tag-fbi tag-ryan tag-sought tag-suspect tag-toxins tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 11, 2014</span>

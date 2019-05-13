@@ -1,7 +1,7 @@
 ---
 title: Silk Road 2.0 Is now Officially open!
 ---
-1188 category-deepdot-news category-news-updatestag-officially tag-open tag-road tag-silk">
+1188 tag-officially tag-open tag-road tag-silk">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 6, 2013</span>

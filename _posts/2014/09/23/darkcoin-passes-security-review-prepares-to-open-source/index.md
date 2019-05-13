@@ -1,7 +1,7 @@
 ---
 Darkcoin Passes Security Review &#8211; Prepares to Open Source
 ---
-<article class="post-listing post-7194 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darkcoin tag-open tag-passes tag-prepares tag-review tag-security tag-source">
+<article class="post-listing post-7194 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkcoin tag-open tag-passes tag-prepares tag-review tag-security tag-source">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 23, 2014</span>

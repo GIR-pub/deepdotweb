@@ -1,7 +1,7 @@
 ---
 Police And Prosecution Investigating Neo-Nazi Connection In German Vendor Case
 ---
-<article class="post-listing post-21006 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-connection tag-german tag-investigating tag-neonazi tag-police tag-prosecution tag-vendor">
+<article class="post-listing post-21006 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-connection tag-german tag-investigating tag-neonazi tag-police tag-prosecution tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 1, 2017</span>

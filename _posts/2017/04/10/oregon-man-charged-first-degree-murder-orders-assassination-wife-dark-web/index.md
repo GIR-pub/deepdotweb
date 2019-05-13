@@ -1,7 +1,7 @@
 ---
 Oregon Man Charged For First-Degree Murder, Orders Assassination of His Wife in Dark Web
 ---
-<article class="post-listing post-19108 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-assassination tag-charged tag-dark tag-firstdegree tag-man tag-murder tag-orders tag-oregon tag-web tag-wife">
+<article class="post-listing post-19108 post type-post status-publish format-standard has-post-thumbnail hentry  tag-assassination tag-charged tag-dark tag-firstdegree tag-man tag-murder tag-orders tag-oregon tag-web tag-wife">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>April 10, 2017</span>

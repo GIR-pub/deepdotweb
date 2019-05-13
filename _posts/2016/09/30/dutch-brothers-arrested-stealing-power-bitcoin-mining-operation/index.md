@@ -1,7 +1,7 @@
 ---
 Dutch Brothers Arrested For Stealing Power For Their Bitcoin Mining Operation
 ---
-<article class="post-listing post-15609 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-brothers tag-dutch tag-mining tag-operation tag-power tag-stealing">
+<article class="post-listing post-15609 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-brothers tag-dutch tag-mining tag-operation tag-power tag-stealing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 30, 2016</span>

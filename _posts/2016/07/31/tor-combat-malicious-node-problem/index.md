@@ -1,7 +1,7 @@
 ---
 Tor to Combat Malicious Node Problem
 ---
-<article class="post-listing post-14962 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-combat tag-malicious tag-node tag-problem tag-tor">
+<article class="post-listing post-14962 post type-post status-publish format-standard has-post-thumbnail hentry  tag-combat tag-malicious tag-node tag-problem tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 31, 2016</span>

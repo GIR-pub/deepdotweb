@@ -1,7 +1,7 @@
 ---
 DoctorX &#8220;Ask a Drug Expert Physician&#8221; Thread &#8211; Now on The Hub Forums!
 ---
-<article class="post-listing post-4817 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-doctorx tag-drug tag-expert tag-forums tag-hub tag-physician tag-thread">
+<article class="post-listing post-4817 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorx tag-drug tag-expert tag-forums tag-hub tag-physician tag-thread">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 26, 2014</span>

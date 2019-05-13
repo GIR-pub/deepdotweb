@@ -1,7 +1,7 @@
 ---
 Croatian Police Arrest Suspects After Intercepting 57g Ecstasy Shipment
 ---
-<article class="post-listing post-15618 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-57g tag-arrest tag-croatian tag-ecstasy tag-intercepting tag-police tag-shipment tag-suspects">
+<article class="post-listing post-15618 post type-post status-publish format-standard has-post-thumbnail hentry  tag-57g tag-arrest tag-croatian tag-ecstasy tag-intercepting tag-police tag-shipment tag-suspects">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 1, 2016</span>

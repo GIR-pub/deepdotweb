@@ -1,7 +1,7 @@
 ---
 Norway Opened 33 New Cases In Operation Dark Room Child Porn Investigation
 ---
-<article class="post-listing post-20692 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1099 tag-cases tag-child tag-dark tag-investigation tag-norway tag-opened tag-operation tag-porn tag-room">
+<article class="post-listing post-20692 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1099 tag-cases tag-child tag-dark tag-investigation tag-norway tag-opened tag-operation tag-porn tag-room">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 17, 2017</span>

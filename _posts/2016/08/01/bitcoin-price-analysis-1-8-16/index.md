@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis 1.8.16
 ---
-<article class="post-listing post-14982 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4069 tag-analysis tag-bitcoin tag-price">
+<article class="post-listing post-14982 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4069 tag-analysis tag-bitcoin tag-price">
     
     <div class="post-inner">
     

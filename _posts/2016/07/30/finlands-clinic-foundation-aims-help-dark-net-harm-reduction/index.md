@@ -1,7 +1,7 @@
 ---
 Finland’s A-Clinic Foundation Aims to Help Dark Net Harm Reduction
 ---
-<article class="post-listing post-14960 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-aclinic tag-aims tag-dark tag-finlands tag-foundation tag-harm tag-net tag-reduction">
+<article class="post-listing post-14960 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aclinic tag-aims tag-dark tag-finlands tag-foundation tag-harm tag-net tag-reduction">
     
     <div class="post-inner">
     

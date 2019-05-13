@@ -1,7 +1,7 @@
 ---
 Dark Web Leads to Ketamine Abuse, Law Enforcement in Alert
 ---
-<article class="post-listing post-19931 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-alert tag-dark tag-enforcement tag-ketamine tag-law tag-leads tag-web">
+<article class="post-listing post-19931 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abuse tag-alert tag-dark tag-enforcement tag-ketamine tag-law tag-leads tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 17, 2017</span>

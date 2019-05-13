@@ -1,7 +1,7 @@
 ---
 Evolution Market: Now Offering Multisig Transactions!
 ---
-<article class="post-listing post-5332 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-evolution tag-market tag-multisig tag-offering tag-transactions">
+<article class="post-listing post-5332 post type-post status-publish format-standard has-post-thumbnail hentry  tag-evolution tag-market tag-multisig tag-offering tag-transactions">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 6, 2014</span>

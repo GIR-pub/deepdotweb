@@ -1,7 +1,7 @@
 ---
 FBI tells How It Hacked The IPhone
 ---
-<article class="post-listing post-13669 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fbi tag-hacked tag-iphone tag-tells">
+<article class="post-listing post-13669 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-hacked tag-iphone tag-tells">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 8, 2016</span>

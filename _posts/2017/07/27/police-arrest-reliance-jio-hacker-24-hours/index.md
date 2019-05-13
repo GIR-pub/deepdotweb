@@ -1,7 +1,7 @@
 ---
 Police Arrest Reliance Jio “Hacker” in Under 24 Hours
 ---
-<article class="post-listing post-21584 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1898 tag-arrest tag-hacker tag-hours tag-jio tag-police tag-reliance">
+<article class="post-listing post-21584 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1898 tag-arrest tag-hacker tag-hours tag-jio tag-police tag-reliance">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 27, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Dutch Public Prosecutor Fights Against Bitcoin Money Laundering
 ---
-<article class="post-listing post-17554 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-dutch tag-fights tag-laundering tag-money tag-prosecutor tag-public">
+<article class="post-listing post-17554 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-dutch tag-fights tag-laundering tag-money tag-prosecutor tag-public">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 16, 2017</span>

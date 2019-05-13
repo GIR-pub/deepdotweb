@@ -1,7 +1,7 @@
 ---
 Indian Drug Enforcement Officer Caught Stealing Bitcoins
 ---
-<article class="post-listing post-19417 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoins tag-caught tag-drug tag-enforcement tag-indian tag-officer tag-stealing">
+<article class="post-listing post-19417 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-caught tag-drug tag-enforcement tag-indian tag-officer tag-stealing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>April 27, 2017</span>

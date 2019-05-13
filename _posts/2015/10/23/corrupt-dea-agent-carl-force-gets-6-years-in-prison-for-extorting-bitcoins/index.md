@@ -1,7 +1,7 @@
 ---
 Corrupt DEA Agent Carl Force Gets 6 Years In Prison For Extorting Bitcoins
 ---
-<article class="post-listing post-11842 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agent tag-bitcoins tag-carl tag-corrupt tag-dea tag-extorting tag-force tag-prison tag-years">
+<article class="post-listing post-11842 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agent tag-bitcoins tag-carl tag-corrupt tag-dea tag-extorting tag-force tag-prison tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>October 23, 2015</span>

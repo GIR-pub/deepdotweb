@@ -1,7 +1,7 @@
 ---
 Group Sentenced For Massive Stolen Debit Card Scheme
 ---
-<article class="post-listing post-18987 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-card tag-debit tag-group tag-massive tag-scheme tag-sentenced tag-stolen">
+<article class="post-listing post-18987 post type-post status-publish format-standard has-post-thumbnail hentry  tag-card tag-debit tag-group tag-massive tag-scheme tag-sentenced tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 4, 2017</span>

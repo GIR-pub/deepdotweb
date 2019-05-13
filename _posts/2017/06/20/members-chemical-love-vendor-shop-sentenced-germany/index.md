@@ -1,7 +1,7 @@
 ---
 Members Of Chemical Love Vendor Shop Sentenced In Germany
 ---
-<article class="post-listing post-20751 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-chemical tag-germany tag-love tag-members tag-sentenced tag-shop tag-vendor">
+<article class="post-listing post-20751 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chemical tag-germany tag-love tag-members tag-sentenced tag-shop tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 20, 2017</span>

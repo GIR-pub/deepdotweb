@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 22 Mar. 2015
 ---
-<article class="post-listing post-9599 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2524 tag-2700 tag-bitcoin tag-mar tag-news tag-roundup">
+<article class="post-listing post-9599 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-2700 tag-bitcoin tag-mar tag-news tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 22, 2015</span>

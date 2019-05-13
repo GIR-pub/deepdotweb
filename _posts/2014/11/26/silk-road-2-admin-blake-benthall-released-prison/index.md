@@ -1,7 +1,7 @@
 ---
 Silk Road 2 Admin Blake Benthall Released From Prison?!
 ---
-<article class="post-listing post-8459 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-benthall tag-blake tag-prison tag-released tag-road tag-silk">
+<article class="post-listing post-8459 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-benthall tag-blake tag-prison tag-released tag-road tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 26, 2014</span>

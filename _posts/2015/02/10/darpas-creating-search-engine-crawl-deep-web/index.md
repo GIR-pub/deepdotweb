@@ -1,7 +1,7 @@
 ---
 DARPA&#8217;s Creating Search Engine to Crawl the Deep Web
 ---
-<article class="post-listing post-9020 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crawl tag-creating tag-dark tag-darpas tag-engine tag-net tag-search">
+<article class="post-listing post-9020 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crawl tag-creating tag-dark tag-darpas tag-engine tag-net tag-search">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 10, 2015</span>

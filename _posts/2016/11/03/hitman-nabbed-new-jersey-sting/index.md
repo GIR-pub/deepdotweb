@@ -1,7 +1,7 @@
 ---
 Would Be Hitman Nabbed in New Jersey Sting
 ---
-<article class="post-listing post-16239 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-hitman tag-jersey tag-nabbed tag-sting">
+<article class="post-listing post-16239 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hitman tag-jersey tag-nabbed tag-sting">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>November 3, 2016</span>

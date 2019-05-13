@@ -1,7 +1,7 @@
 ---
 title: Pandora Market: Scam or just Down?
 ---
-2937 category-deepdot-news category-news-updates tag-market tag-pandora tag-scam">
+2937  tag-market tag-pandora tag-scam">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 25, 2013</span>

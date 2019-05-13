@@ -1,7 +1,7 @@
 ---
 Federal Charge Against Teenager Who Tried To Buy Grenade From The Dark Web
 ---
-<article class="post-listing post-19660 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buy tag-charge tag-dark tag-federal tag-grenade tag-teenager tag-web">
+<article class="post-listing post-19660 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-charge tag-dark tag-federal tag-grenade tag-teenager tag-web">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Another Spy Program Leaked onto the Dark Web, Second Web Attack Imminent
 ---
-<article class="post-listing post-20344 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attack tag-dark tag-imminent tag-leaked tag-program tag-spy tag-web">
+<article class="post-listing post-20344 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attack tag-dark tag-imminent tag-leaked tag-program tag-spy tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>June 3, 2017</span>

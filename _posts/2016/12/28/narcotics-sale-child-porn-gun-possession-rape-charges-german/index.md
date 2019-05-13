@@ -1,7 +1,7 @@
 ---
 Narcotics Sale, Child Porn, Gun Possession And Rape Charges Against A German
 ---
-<article class="post-listing post-17191 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charges tag-child tag-german tag-gun tag-narcotics tag-porn tag-possession tag-rape tag-sale">
+<article class="post-listing post-17191 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-child tag-german tag-gun tag-narcotics tag-porn tag-possession tag-rape tag-sale">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 28, 2016</span>

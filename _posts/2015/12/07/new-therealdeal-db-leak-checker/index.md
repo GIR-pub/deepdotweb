@@ -1,7 +1,7 @@
 ---
 TheRealDeal: Launches Free LeakDB service
 ---
-<article class="post-listing post-12491 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-free tag-launches tag-leakdb tag-service tag-therealdeal">
+<article class="post-listing post-12491 post type-post status-publish format-standard has-post-thumbnail hentry  tag-free tag-launches tag-leakdb tag-service tag-therealdeal">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 7, 2015</span>

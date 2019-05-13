@@ -1,7 +1,7 @@
 ---
 German Police Place “Trial” Orders At AlphaBay Sellers To Track Criminals
 ---
-<article class="post-listing post-19397 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-criminals tag-german tag-orders tag-place tag-police tag-sellers tag-track tag-trial">
+<article class="post-listing post-19397 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-criminals tag-german tag-orders tag-place tag-police tag-sellers tag-track tag-trial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 26, 2017</span>

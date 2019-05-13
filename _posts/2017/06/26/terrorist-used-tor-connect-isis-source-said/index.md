@@ -1,7 +1,7 @@
 ---
 Terrorist Used Tor to Connect with ISIS, Source Said
 ---
-<article class="post-listing post-20908 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-connect tag-isis tag-source tag-terrorist tag-tor">
+<article class="post-listing post-20908 post type-post status-publish format-standard has-post-thumbnail hentry  tag-connect tag-isis tag-source tag-terrorist tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 26, 2017</span>

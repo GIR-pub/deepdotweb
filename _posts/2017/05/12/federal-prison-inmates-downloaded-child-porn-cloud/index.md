@@ -1,7 +1,7 @@
 ---
 Federal Prison Inmates Downloaded Child Porn On A Cloud
 ---
-<article class="post-listing post-19776 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-cloud tag-downloaded tag-federal tag-inmates tag-porn tag-prison">
+<article class="post-listing post-19776 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-cloud tag-downloaded tag-federal tag-inmates tag-porn tag-prison">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 12, 2017</span>

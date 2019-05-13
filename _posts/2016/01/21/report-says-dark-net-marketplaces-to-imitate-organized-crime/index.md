@@ -1,7 +1,7 @@
 ---
 Report Says: Dark Net Marketplaces To Imitate Organized Crime
 ---
-<article class="post-listing post-12974 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crime tag-dark tag-imitate tag-marketplaces tag-net tag-organized tag-report">
+<article class="post-listing post-12974 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crime tag-dark tag-imitate tag-marketplaces tag-net tag-organized tag-report">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 21, 2016</span>

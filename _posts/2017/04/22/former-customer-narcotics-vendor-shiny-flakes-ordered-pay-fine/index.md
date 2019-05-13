@@ -1,7 +1,7 @@
 ---
 Former Customer Of The Narcotics Vendor Shiny Flakes Ordered To Pay Fine
 ---
-<article class="post-listing post-19331 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-customer tag-fine tag-flakes tag-narcotics tag-ordered tag-pay tag-shiny tag-vendor">
+<article class="post-listing post-19331 post type-post status-publish format-standard has-post-thumbnail hentry  tag-customer tag-fine tag-flakes tag-narcotics tag-ordered tag-pay tag-shiny tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 22, 2017</span>

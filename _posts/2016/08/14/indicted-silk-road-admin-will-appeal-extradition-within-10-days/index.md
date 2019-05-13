@@ -1,7 +1,7 @@
 ---
 Indicted Silk Road Admin Will Appeal Extradition Within 10 Days
 ---
-<article class="post-listing post-15124 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-545 tag-admin tag-appeal tag-days tag-extradition tag-indicted tag-road tag-silk">
+<article class="post-listing post-15124 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-admin tag-appeal tag-days tag-extradition tag-indicted tag-road tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 14, 2016</span>

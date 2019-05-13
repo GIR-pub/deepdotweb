@@ -1,7 +1,7 @@
 ---
 2014 in The Dark Net Markets: By The Numbers
 ---
-<article class="post-listing post-8711 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark-net-markets tag-darknetmarkets">
+<article class="post-listing post-8711 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark-net-markets tag-darknetmarkets">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 3, 2015</span>

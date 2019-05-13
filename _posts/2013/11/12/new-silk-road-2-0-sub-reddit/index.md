@@ -1,7 +1,7 @@
 ---
 title: New Silk Road 2.0 Sub Reddit
 ---
-1318 category-deepdot-news category-news-updatestag-reddit tag-road tag-silk">
+1318 tag-reddit tag-road tag-silk">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 12, 2013</span>

@@ -1,7 +1,7 @@
 ---
 Dutch Police Arrest 10 men Suspected of Using Bitcoin to Launder Money
 ---
-<article class="post-listing post-13013 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-545 tag-arrest tag-bitcoin tag-dutch tag-launder tag-men tag-money tag-police tag-suspected">
+<article class="post-listing post-13013 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-arrest tag-bitcoin tag-dutch tag-launder tag-men tag-money tag-police tag-suspected">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 20, 2016</span>

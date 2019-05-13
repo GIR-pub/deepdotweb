@@ -1,7 +1,7 @@
 ---
 Two Swiss Arrested For Ordering Counterfeit Euros
 ---
-<article class="post-listing post-17990 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-counterfeit tag-euros tag-ordering tag-swiss">
+<article class="post-listing post-17990 post type-post status-publish format-standard has-post-thumbnail hentry  tag-counterfeit tag-euros tag-ordering tag-swiss">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 5, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Second Suspect Arrested in Darknet Child Abuse Case
 ---
-<article class="post-listing post-24133 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-case tag-child tag-darknet tag-suspect">
+<article class="post-listing post-24133 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abuse tag-case tag-child tag-darknet tag-suspect">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 28, 2017</span>

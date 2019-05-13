@@ -1,7 +1,7 @@
 ---
 Man Charged for Refusing to Give Authorities His Passwords
 ---
-<article class="post-listing post-20341 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-authorities tag-charged tag-give tag-man tag-passwords tag-refusing">
+<article class="post-listing post-20341 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authorities tag-charged tag-give tag-man tag-passwords tag-refusing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 3, 2017</span>

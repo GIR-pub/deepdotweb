@@ -1,7 +1,7 @@
 ---
 Shiny Flakes Sentenced To 7 Years
 ---
-<article class="post-listing post-12037 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-flakes tag-sentenced tag-shiny tag-years">
+<article class="post-listing post-12037 post type-post status-publish format-standard has-post-thumbnail hentry  tag-flakes tag-sentenced tag-shiny tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 7, 2015</span>

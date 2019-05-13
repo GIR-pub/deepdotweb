@@ -1,7 +1,7 @@
 ---
 Darknet Vendors are Flooding the UK with Fraudulent Train Tickets
 ---
-<article class="post-listing post-18164 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-flooding tag-fraudulent tag-tickets tag-train tag-uk tag-vendors">
+<article class="post-listing post-18164 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-flooding tag-fraudulent tag-tickets tag-train tag-uk tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 17, 2017</span>

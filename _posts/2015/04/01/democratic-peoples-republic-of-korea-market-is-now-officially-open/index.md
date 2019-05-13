@@ -1,7 +1,7 @@
 ---
 Democratic People’s Republic of Korea Market Is Now Officially Open!
 ---
-<article class="post-listing post-9825 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-democratic tag-korea tag-market tag-officially tag-open tag-peoples tag-republic">
+<article class="post-listing post-9825 post type-post status-publish format-standard has-post-thumbnail hentry  tag-democratic tag-korea tag-market tag-officially tag-open tag-peoples tag-republic">
     
     <div class="post-inner">
     

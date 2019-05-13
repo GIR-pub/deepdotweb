@@ -1,7 +1,7 @@
 ---
 More CIA Android Hacking
 ---
-<article class="post-listing post-21684 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-android tag-cia tag-hacking">
+<article class="post-listing post-21684 post type-post status-publish format-standard has-post-thumbnail hentry  tag-android tag-cia tag-hacking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>August 1, 2017</span>

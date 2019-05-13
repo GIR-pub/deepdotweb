@@ -1,7 +1,7 @@
 ---
 Florida Lawmakers Accepted A Bill Allowing The Conviction Of Criminals Who Use Bitcoin
 ---
-<article class="post-listing post-20020 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accepted tag-allowing tag-bill tag-bitcoin tag-conviction tag-criminals tag-florida tag-lawmakers">
+<article class="post-listing post-20020 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accepted tag-allowing tag-bill tag-bitcoin tag-conviction tag-criminals tag-florida tag-lawmakers">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Indiana State Police: Darknet Crime Like a Game of Whack-a-Mole
 ---
-<article class="post-listing post-19530 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crime tag-darknet tag-game tag-indiana tag-police tag-state tag-whackamole">
+<article class="post-listing post-19530 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crime tag-darknet tag-game tag-indiana tag-police tag-state tag-whackamole">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 1, 2017</span>

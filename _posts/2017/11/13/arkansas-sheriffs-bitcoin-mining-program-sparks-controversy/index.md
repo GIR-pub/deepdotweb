@@ -1,7 +1,7 @@
 ---
 Arkansas Sheriff’s Bitcoin Mining Program Sparks Controversy
 ---
-<article class="post-listing post-23504 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arkansas tag-bitcoin tag-controversy tag-mining tag-program tag-sheriffs tag-sparks">
+<article class="post-listing post-23504 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arkansas tag-bitcoin tag-controversy tag-mining tag-program tag-sheriffs tag-sparks">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 70 Malicious Tor Exit Nodes Exposed By Siganit.org
 ---
-<article class="post-listing post-10074 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-sigaint">
+<article class="post-listing post-10074 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-sigaint">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 26, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Federal Agents Want Suspect To Be Remanded In Custody In NSA Case
 ---
-<article class="post-listing post-16165 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agents tag-case tag-custody tag-federal tag-nsa tag-remanded tag-suspect">
+<article class="post-listing post-16165 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agents tag-case tag-custody tag-federal tag-nsa tag-remanded tag-suspect">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 30, 2016</span>

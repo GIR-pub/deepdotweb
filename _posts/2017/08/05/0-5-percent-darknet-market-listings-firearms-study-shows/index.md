@@ -1,7 +1,7 @@
 ---
 Only 0.5 Percent of Darknet Market Listings are for Firearms, Study Shows
 ---
-<article class="post-listing post-21747 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-firearms tag-listings tag-market tag-percent tag-shows tag-study">
+<article class="post-listing post-21747 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-firearms tag-listings tag-market tag-percent tag-shows tag-study">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 5, 2017</span>

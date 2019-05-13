@@ -1,7 +1,7 @@
 ---
 Investment on Security Firms Rise as Dark Web and Bitcoin Ransomware Cases Increase
 ---
-<article class="post-listing post-19312 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-cases tag-dark tag-firms tag-increase tag-investment tag-ransomware tag-rise tag-security tag-web">
+<article class="post-listing post-19312 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-cases tag-dark tag-firms tag-increase tag-investment tag-ransomware tag-rise tag-security tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>April 21, 2017</span>

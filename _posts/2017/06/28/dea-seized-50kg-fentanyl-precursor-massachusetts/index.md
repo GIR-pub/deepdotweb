@@ -1,7 +1,7 @@
 ---
 DEA Seized 50kg of Fentanyl Precursor in Massachusetts
 ---
-<article class="post-listing post-20947 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-50kg tag-dea tag-fentanyl tag-massachusetts tag-precursor tag-seized">
+<article class="post-listing post-20947 post type-post status-publish format-standard has-post-thumbnail hentry  tag-50kg tag-dea tag-fentanyl tag-massachusetts tag-precursor tag-seized">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 28, 2017</span>

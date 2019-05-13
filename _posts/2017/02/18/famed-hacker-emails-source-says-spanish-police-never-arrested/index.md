@@ -1,7 +1,7 @@
 ---
 Famed Hacker Emails Source, Says Spanish Police Never Arrested Him
 ---
-<article class="post-listing post-18180 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-emails tag-famed tag-hacker tag-police tag-source tag-spanish">
+<article class="post-listing post-18180 post type-post status-publish format-standard has-post-thumbnail hentry  tag-emails tag-famed tag-hacker tag-police tag-source tag-spanish">
     
     <div class="post-inner">
     

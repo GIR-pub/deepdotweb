@@ -1,7 +1,7 @@
 ---
 US Darknet Drug Traffickers Arrested After Overdose Of A Teen
 ---
-<article class="post-listing post-19950 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-drug tag-overdose tag-teen tag-traffickers">
+<article class="post-listing post-19950 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-drug tag-overdose tag-teen tag-traffickers">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 18, 2017</span>

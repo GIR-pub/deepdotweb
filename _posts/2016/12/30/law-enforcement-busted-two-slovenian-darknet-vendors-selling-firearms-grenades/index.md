@@ -1,7 +1,7 @@
 ---
 Law Enforcement Busted Two Slovenian Darknet Vendors for Selling Firearms and Grenades
 ---
-<article class="post-listing post-17225 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-darknet tag-enforcement tag-firearms tag-grenades tag-law tag-selling tag-slovenian tag-vendors">
+<article class="post-listing post-17225 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-darknet tag-enforcement tag-firearms tag-grenades tag-law tag-selling tag-slovenian tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 30, 2016</span>

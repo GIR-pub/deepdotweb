@@ -1,7 +1,7 @@
 ---
 Bitcoin news roundup, January 22, 2017
 ---
-<article class="post-listing post-17758 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3676 tag-2700 tag-bitcoin tag-january tag-news tag-roundup">
+<article class="post-listing post-17758 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3676 tag-2700 tag-bitcoin tag-january tag-news tag-roundup">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Weekly Bitcoin Update – 1.7.14
 ---
-<article class="post-listing post-6300 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1779 tag-1778 tag-bitcoin tag-june tag-update tag-weekly">
+<article class="post-listing post-6300 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1778 tag-bitcoin tag-june tag-update tag-weekly">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 1, 2014</span>

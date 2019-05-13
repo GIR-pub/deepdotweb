@@ -1,7 +1,7 @@
 ---
 French MP Wants To Crack Down On Dark Net Drug Sales
 ---
-<article class="post-listing post-14758 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crack tag-dark tag-drug tag-french tag-mp tag-net tag-sales">
+<article class="post-listing post-14758 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crack tag-dark tag-drug tag-french tag-mp tag-net tag-sales">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 8, 2016</span>

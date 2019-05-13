@@ -1,7 +1,7 @@
 ---
 Ex Australian Cop Busted for Selling Stolen Police Identification on Alphabay
 ---
-<article class="post-listing post-16711 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-australian tag-busted tag-cop tag-identification tag-police tag-selling tag-stolen">
+<article class="post-listing post-16711 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-australian tag-busted tag-cop tag-identification tag-police tag-selling tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>December 2, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Judge didn’t know couple ran Tor node
 ---
-<article class="post-listing post-13698 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-couple tag-judge tag-node tag-ran tag-tor">
+<article class="post-listing post-13698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-couple tag-judge tag-node tag-ran tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 12, 2016</span>

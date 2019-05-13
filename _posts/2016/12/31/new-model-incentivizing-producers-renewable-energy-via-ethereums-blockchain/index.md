@@ -1,7 +1,7 @@
 ---
 A New Model For Incentivizing Producers of Renewable Energy Via Ethereum&#8217;s Blockchain
 ---
-<article class="post-listing post-17243 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blockchain tag-energy tag-ethereums tag-incentivizing tag-model tag-producers tag-renewable">
+<article class="post-listing post-17243 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-energy tag-ethereums tag-incentivizing tag-model tag-producers tag-renewable">
     
     <div class="post-inner">
     

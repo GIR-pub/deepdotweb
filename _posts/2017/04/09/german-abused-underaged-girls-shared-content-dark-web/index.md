@@ -1,7 +1,7 @@
 ---
 German Abused Underaged Girls And Shared The Content On The Dark Web
 ---
-<article class="post-listing post-19083 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abused tag-content tag-dark tag-german tag-girls tag-shared tag-underaged tag-web">
+<article class="post-listing post-19083 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abused tag-content tag-dark tag-german tag-girls tag-shared tag-underaged tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 9, 2017</span>

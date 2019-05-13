@@ -1,7 +1,7 @@
 ---
 FBI Transparency Report Shows a Decline in NSLs
 ---
-<article class="post-listing post-19955 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-decline tag-fbi tag-nsls tag-report tag-shows tag-transparency">
+<article class="post-listing post-19955 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decline tag-fbi tag-nsls tag-report tag-shows tag-transparency">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 18, 2017</span>

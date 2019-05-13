@@ -1,7 +1,7 @@
 ---
 Swedish Chemical Weapon Vendor Is Soon To Be Sentenced After Psych Evaluation
 ---
-<article class="post-listing post-16082 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-chemical tag-evaluation tag-psych tag-sentenced tag-swedish tag-vendor tag-weapon">
+<article class="post-listing post-16082 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chemical tag-evaluation tag-psych tag-sentenced tag-swedish tag-vendor tag-weapon">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 27, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Bitcoin price analysis 14th October
 ---
-<article class="post-listing post-11762 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-14th tag-analysis tag-bitcoin tag-october tag-price">
+<article class="post-listing post-11762 post type-post status-publish format-standard has-post-thumbnail hentry  tag-14th tag-analysis tag-bitcoin tag-october tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>October 14, 2015</span>

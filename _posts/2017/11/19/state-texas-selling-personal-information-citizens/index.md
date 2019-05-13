@@ -1,7 +1,7 @@
 ---
 The State Of Texas Is Selling Personal Information of Citizens
 ---
-<article class="post-listing post-23579 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-citizens tag-information tag-personal tag-selling tag-state tag-texas">
+<article class="post-listing post-23579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-citizens tag-information tag-personal tag-selling tag-state tag-texas">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>November 19, 2017</span>

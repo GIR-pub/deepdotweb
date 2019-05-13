@@ -1,7 +1,7 @@
 ---
 Live: Searchable Silk Road (1) Forum Backup
 ---
-<article class="post-listing post-6948 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-backup tag-forum tag-live tag-road tag-searchable tag-silk">
+<article class="post-listing post-6948 post type-post status-publish format-standard has-post-thumbnail hentry  tag-backup tag-forum tag-live tag-road tag-searchable tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 4, 2014</span>

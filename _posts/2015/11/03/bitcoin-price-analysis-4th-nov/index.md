@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis 4th Nov
 ---
-<article class="post-listing post-12015 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3rd tag-analysis tag-bitcoin tag-nov tag-price">
+<article class="post-listing post-12015 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3rd tag-analysis tag-bitcoin tag-nov tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>November 3, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Four Man Standing Trial In Belgium For Darknet Arms Deal
 ---
-<article class="post-listing post-20514 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arms tag-belgium tag-darknet tag-deal tag-man tag-standing tag-trial">
+<article class="post-listing post-20514 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-belgium tag-darknet tag-deal tag-man tag-standing tag-trial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 10, 2017</span>

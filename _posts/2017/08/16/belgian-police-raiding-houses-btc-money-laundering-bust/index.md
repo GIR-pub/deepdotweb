@@ -1,7 +1,7 @@
 ---
 Belgian Police Raiding Houses in BTC Money Laundering Bust
 ---
-<article class="post-listing post-21993 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-belgian tag-btc tag-bust tag-houses tag-laundering tag-money tag-police tag-raiding">
+<article class="post-listing post-21993 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belgian tag-btc tag-bust tag-houses tag-laundering tag-money tag-police tag-raiding">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 16, 2017</span>

@@ -1,7 +1,7 @@
 ---
 title: Black Market Reloaded: Another Weapon Dealer Got Busted
 ---
-1245 category-deepdot-news category-news-updates tag-black tag-busted tag-dealer tag-hampton tag-market tag-reloaded tag-weapon tag-week">
+1245  tag-black tag-busted tag-dealer tag-hampton tag-market tag-reloaded tag-weapon tag-week">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 9, 2013</span>

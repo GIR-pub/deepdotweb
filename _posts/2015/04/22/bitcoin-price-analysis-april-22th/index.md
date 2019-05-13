@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis April 22th
 ---
-<article class="post-listing post-10032 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-22th tag-analysis tag-april tag-bitcoin tag-price">
+<article class="post-listing post-10032 post type-post status-publish format-standard has-post-thumbnail hentry  tag-22th tag-analysis tag-april tag-bitcoin tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 22, 2015</span>

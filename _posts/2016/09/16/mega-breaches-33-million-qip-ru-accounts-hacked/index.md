@@ -1,7 +1,7 @@
 ---
 More Mega Breaches as 33 million QIP.ru Accounts are Hacked
 ---
-<article class="post-listing post-15475 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1099 tag-accounts tag-breaches tag-hacked tag-mega tag-million tag-qipru">
+<article class="post-listing post-15475 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1099 tag-accounts tag-breaches tag-hacked tag-mega tag-million tag-qipru">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>September 16, 2016</span>

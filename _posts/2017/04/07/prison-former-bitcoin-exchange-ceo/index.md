@@ -1,7 +1,7 @@
 ---
 Prison for Former Bitcoin Exchange CEO
 ---
-<article class="post-listing post-19048 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-ceo tag-exchange tag-prison">
+<article class="post-listing post-19048 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-ceo tag-exchange tag-prison">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 7, 2017</span>

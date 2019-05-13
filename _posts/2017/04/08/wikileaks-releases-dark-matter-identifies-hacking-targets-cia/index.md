@@ -1,7 +1,7 @@
 ---
 Wikileaks Releases “Dark Matter” and Identifies Hacking Targets of the CIA
 ---
-<article class="post-listing post-19072 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cia tag-dark tag-hacking tag-identifies tag-matter tag-releases tag-targets tag-wikileaks">
+<article class="post-listing post-19072 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cia tag-dark tag-hacking tag-identifies tag-matter tag-releases tag-targets tag-wikileaks">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>April 8, 2017</span>

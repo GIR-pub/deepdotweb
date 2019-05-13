@@ -1,7 +1,7 @@
 ---
 Oregon Fentanyl Dark Net Market Vendor Pleads Guilty
 ---
-<article class="post-listing post-13430 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-fentanyl tag-guilty tag-market tag-net tag-oregon tag-pleads tag-vendor">
+<article class="post-listing post-13430 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-fentanyl tag-guilty tag-market tag-net tag-oregon tag-pleads tag-vendor">
     
     <div class="post-inner">
     

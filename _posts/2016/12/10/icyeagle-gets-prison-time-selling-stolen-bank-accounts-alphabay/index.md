@@ -1,7 +1,7 @@
 ---
 IcyEagle Gets Prison Time for Selling Stolen Bank Accounts on AlphaBay
 ---
-<article class="post-listing post-16847 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accounts tag-alphabay tag-bank tag-icyeagle tag-prison tag-selling tag-stolen tag-time">
+<article class="post-listing post-16847 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accounts tag-alphabay tag-bank tag-icyeagle tag-prison tag-selling tag-stolen tag-time">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 10, 2016</span>

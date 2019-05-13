@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis 16 sept 2015
 ---
-<article class="post-listing post-11553 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1887 tag-2524 tag-analysis tag-bitcoin tag-price tag-sept">
+<article class="post-listing post-11553 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-2524 tag-analysis tag-bitcoin tag-price tag-sept">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>September 16, 2015</span>

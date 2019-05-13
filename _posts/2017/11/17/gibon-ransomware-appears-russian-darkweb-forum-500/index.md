@@ -1,7 +1,7 @@
 ---
 Gibon Ransomware Appears on a Russian Darkweb Forum for $500
 ---
-<article class="post-listing post-23552 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2424 tag-appears tag-boom tag-continue tag-darkweb tag-forum tag-gibon tag-ransomware tag-russian tag-trade">
+<article class="post-listing post-23552 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2424 tag-appears tag-boom tag-continue tag-darkweb tag-forum tag-gibon tag-ransomware tag-russian tag-trade">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
     <span>November 17, 2017</span>

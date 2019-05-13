@@ -1,7 +1,7 @@
 ---
 Dark Web Vendor Chemical Love Busted, More Than 50 Kg Of Drugs Seized
 ---
-<article class="post-listing post-13993 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1447 tag-busted tag-chemical tag-dark tag-kg tag-love tag-seized tag-vendor tag-web">
+<article class="post-listing post-13993 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1447 tag-busted tag-chemical tag-dark tag-kg tag-love tag-seized tag-vendor tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 17, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Irish Darknet Drug Dealers Reassured of Receiving a Long Sentence in January
 ---
-<article class="post-listing post-16727 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-dealers tag-drug tag-irish tag-january tag-long tag-reassured tag-receiving tag-sentence">
+<article class="post-listing post-16727 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-dealers tag-drug tag-irish tag-january tag-long tag-reassured tag-receiving tag-sentence">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>December 3, 2016</span>

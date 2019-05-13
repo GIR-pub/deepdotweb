@@ -1,7 +1,7 @@
 ---
 Swiss Government Starts Investigation Against Pedophiles Uncovered In Anonymous Hack
 ---
-<article class="post-listing post-21093 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-anonymous tag-government tag-hack tag-investigation tag-pedophiles tag-starts tag-swiss tag-uncovered">
+<article class="post-listing post-21093 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-government tag-hack tag-investigation tag-pedophiles tag-starts tag-swiss tag-uncovered">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 5, 2017</span>

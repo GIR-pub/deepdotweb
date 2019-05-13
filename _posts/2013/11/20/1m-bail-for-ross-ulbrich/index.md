@@ -1,7 +1,7 @@
 ---
 title: $1M Bail for Ross Ulbrich
 ---
-1609 category-deepdot-news category-news-updates tag-1m tag-bail tag-ross tag-ulbrich">
+1609  tag-1m tag-bail tag-ross tag-ulbrich">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 20, 2013</span>

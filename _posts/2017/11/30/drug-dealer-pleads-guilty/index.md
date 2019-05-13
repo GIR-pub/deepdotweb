@@ -1,7 +1,7 @@
 ---
 Drug Dealer Pleads Guilty to Bulk Buying Cannabis off The Dark Web.
 ---
-<article class="post-listing post-23735 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bulk tag-buying tag-cannabis tag-dark tag-dealer tag-drug tag-guilty tag-pleads tag-web">
+<article class="post-listing post-23735 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bulk tag-buying tag-cannabis tag-dark tag-dealer tag-drug tag-guilty tag-pleads tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 30, 2017</span>

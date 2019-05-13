@@ -1,7 +1,7 @@
 ---
 Bitcoin news roundup, February 19, 2017
 ---
-<article class="post-listing post-18291 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3099 tag-3676 tag-bitcoin tag-february tag-news tag-roundup">
+<article class="post-listing post-18291 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3099 tag-3676 tag-bitcoin tag-february tag-news tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>February 19, 2017</span>

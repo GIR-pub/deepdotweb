@@ -1,7 +1,7 @@
 ---
 Another Bust In Germany: Vendor From Ostprignitz-Ruppin Arrested
 ---
-<article class="post-listing post-16167 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bust tag-germany tag-ostprignitzruppin tag-vendor">
+<article class="post-listing post-16167 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-germany tag-ostprignitzruppin tag-vendor">
     
     <div class="post-inner">
     

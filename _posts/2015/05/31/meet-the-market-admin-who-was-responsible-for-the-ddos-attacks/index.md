@@ -1,7 +1,7 @@
 ---
 Meet The Market Admin Who Was Responsible For the Ddos Attacks
 ---
-<article class="post-listing post-10492 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-attacks tag-ddos tag-market tag-meet tag-responsible">
+<article class="post-listing post-10492 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-attacks tag-ddos tag-market tag-meet tag-responsible">
     
     <div class="post-inner">
     

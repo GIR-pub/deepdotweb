@@ -1,7 +1,7 @@
 ---
 Alternative Energy Companies Prepare for Digital Takeovers
 ---
-<article class="post-listing post-19032 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alternative tag-companies tag-digital tag-energy tag-prepare tag-takeovers">
+<article class="post-listing post-19032 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-companies tag-digital tag-energy tag-prepare tag-takeovers">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 6, 2017</span>

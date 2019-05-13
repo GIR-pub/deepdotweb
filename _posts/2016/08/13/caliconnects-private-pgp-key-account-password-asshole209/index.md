@@ -1,7 +1,7 @@
 ---
 CaliConnect’s Private PGP Key &#038; Account Password Was “asshole209”
 ---
-<article class="post-listing post-15085 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-account tag-asshole209 tag-caliconnects tag-key tag-password tag-pgp tag-private">
+<article class="post-listing post-15085 post type-post status-publish format-standard has-post-thumbnail hentry  tag-account tag-asshole209 tag-caliconnects tag-key tag-password tag-pgp tag-private">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 13, 2016</span>

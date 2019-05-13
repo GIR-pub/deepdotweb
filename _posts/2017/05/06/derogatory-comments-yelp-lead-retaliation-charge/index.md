@@ -1,7 +1,7 @@
 ---
 “Derogatory Comments” on Yelp Lead to Retaliation Charge
 ---
-<article class="post-listing post-19664 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charge tag-comments tag-derogatory tag-lead tag-retaliation tag-yelp">
+<article class="post-listing post-19664 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charge tag-comments tag-derogatory tag-lead tag-retaliation tag-yelp">
     
     <div class="post-inner">
     

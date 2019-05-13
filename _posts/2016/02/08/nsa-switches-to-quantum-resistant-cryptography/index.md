@@ -1,7 +1,7 @@
 ---
 NSA Switches To Quantum-Resistant Cryptography
 ---
-<article class="post-listing post-13173 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cryptography tag-nsa tag-quantumresistant tag-switches">
+<article class="post-listing post-13173 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptography tag-nsa tag-quantumresistant tag-switches">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>February 8, 2016</span>

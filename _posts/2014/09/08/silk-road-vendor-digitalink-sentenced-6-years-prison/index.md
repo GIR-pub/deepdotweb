@@ -1,7 +1,7 @@
 ---
 Silk Road Vendor &#8220;Digitalink&#8221; Sentenced To 6 Years In Prison
 ---
-<article class="post-listing post-6984 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-digitalink tag-prison tag-sentenced tag-term tag-vendor tag-years">
+<article class="post-listing post-6984 post type-post status-publish format-standard has-post-thumbnail hentry  tag-digitalink tag-prison tag-sentenced tag-term tag-vendor tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 8, 2014</span>

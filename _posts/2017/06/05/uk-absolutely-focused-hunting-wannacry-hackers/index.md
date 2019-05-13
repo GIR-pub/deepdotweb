@@ -1,7 +1,7 @@
 ---
 UK “Absolutely” Focused on Hunting the WannaCry Hackers
 ---
-<article class="post-listing post-20402 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-absolutely tag-focused tag-hackers tag-hunting tag-uk tag-wannacry">
+<article class="post-listing post-20402 post type-post status-publish format-standard has-post-thumbnail hentry  tag-absolutely tag-focused tag-hackers tag-hunting tag-uk tag-wannacry">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 5, 2017</span>

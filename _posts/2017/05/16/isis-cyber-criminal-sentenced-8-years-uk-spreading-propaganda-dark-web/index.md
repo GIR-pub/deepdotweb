@@ -1,7 +1,7 @@
 ---
 ISIS Cyber Criminal Sentenced 8 Years in UK For Spreading Propaganda on Dark Web
 ---
-<article class="post-listing post-19899 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-criminal tag-cyber tag-dark tag-isis tag-propaganda tag-sentenced tag-spreading tag-uk tag-web tag-years">
+<article class="post-listing post-19899 post type-post status-publish format-standard has-post-thumbnail hentry  tag-criminal tag-cyber tag-dark tag-isis tag-propaganda tag-sentenced tag-spreading tag-uk tag-web tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 16, 2017</span>

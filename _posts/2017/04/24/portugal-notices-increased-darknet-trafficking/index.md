@@ -1,7 +1,7 @@
 ---
 Portugal Notices Increased Darknet Trafficking
 ---
-<article class="post-listing post-19368 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-increased tag-notices tag-portugal tag-trafficking">
+<article class="post-listing post-19368 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-increased tag-notices tag-portugal tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 24, 2017</span>

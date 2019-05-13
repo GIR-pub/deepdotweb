@@ -1,7 +1,7 @@
 ---
 New Ransomware Report: Education Is Targeted The Most
 ---
-<article class="post-listing post-15629 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-education tag-ransomware tag-report tag-targeted">
+<article class="post-listing post-15629 post type-post status-publish format-standard has-post-thumbnail hentry  tag-education tag-ransomware tag-report tag-targeted">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 2, 2016</span>

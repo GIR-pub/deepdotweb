@@ -1,7 +1,7 @@
 ---
 Yahoo Was Hacked Again: 1 billion user accounts were compromised
 ---
-<article class="post-listing post-17104 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accounts tag-billion tag-compromised tag-hacked tag-user tag-yahoo">
+<article class="post-listing post-17104 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accounts tag-billion tag-compromised tag-hacked tag-user tag-yahoo">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>December 23, 2016</span>

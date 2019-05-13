@@ -1,7 +1,7 @@
 ---
 NapoliGroup Was Under Investigation in 2012 and Controlled 90% of the Counterfeit Flow
 ---
-<article class="post-listing post-17084 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4691 tag-4692 tag-controlled tag-counterfeit tag-flow tag-investigation tag-napoligroup">
+<article class="post-listing post-17084 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4691 tag-4692 tag-controlled tag-counterfeit tag-flow tag-investigation tag-napoligroup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 22, 2016</span>

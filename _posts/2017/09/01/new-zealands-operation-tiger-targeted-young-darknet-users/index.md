@@ -1,7 +1,7 @@
 ---
 New Zealand’s “Operation Tiger” Targeted Young Darknet Users
 ---
-<article class="post-listing post-22292 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-operation tag-targeted tag-tiger tag-users tag-young tag-zealands">
+<article class="post-listing post-22292 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-operation tag-targeted tag-tiger tag-users tag-young tag-zealands">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 1, 2017</span>

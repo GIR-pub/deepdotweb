@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 17 Jan. 2016
 ---
-<article class="post-listing post-12960 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1887 tag-3336 tag-bitcoin tag-jan tag-news tag-roundup">
+<article class="post-listing post-12960 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-3336 tag-bitcoin tag-jan tag-news tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 17, 2016</span>

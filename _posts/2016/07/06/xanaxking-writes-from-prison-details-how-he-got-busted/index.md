@@ -1,7 +1,7 @@
 ---
 Dark Net Vendor XanaxKing Writes from Prison, Details How he Got Busted
 ---
-<article class="post-listing post-14742 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-dark tag-details tag-net tag-prison tag-vendor tag-writes tag-xanaxking">
+<article class="post-listing post-14742 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-dark tag-details tag-net tag-prison tag-vendor tag-writes tag-xanaxking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 6, 2016</span>

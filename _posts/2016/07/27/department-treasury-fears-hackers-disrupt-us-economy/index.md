@@ -1,7 +1,7 @@
 ---
 Department of Treasury Fears Hackers Could Disrupt US Economy
 ---
-<article class="post-listing post-14932 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-department tag-disrupt tag-economy tag-fears tag-hackers tag-treasury">
+<article class="post-listing post-14932 post type-post status-publish format-standard has-post-thumbnail hentry  tag-department tag-disrupt tag-economy tag-fears tag-hackers tag-treasury">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 27, 2016</span>

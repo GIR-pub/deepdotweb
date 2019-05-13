@@ -1,7 +1,7 @@
 ---
 Washington Xanax And MDMA Vendor Pair Busted
 ---
-<article class="post-listing post-13089 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-mdma tag-pair tag-vendor tag-washington tag-xanax">
+<article class="post-listing post-13089 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-mdma tag-pair tag-vendor tag-washington tag-xanax">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 26, 2016</span>

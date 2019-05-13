@@ -1,7 +1,7 @@
 ---
 Federal Judge Orders FBI Dark Web Sting to be Kept Secret
 ---
-<article class="post-listing post-21698 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-fbi tag-federal tag-judge tag-orders tag-secret tag-sting tag-web">
+<article class="post-listing post-21698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-fbi tag-federal tag-judge tag-orders tag-secret tag-sting tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>August 2, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Europol Seeks The Help Of Internet Users To Identify Pedophiles
 ---
-<article class="post-listing post-20729 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-europol tag-identify tag-internet tag-pedophiles tag-seeks tag-users">
+<article class="post-listing post-20729 post type-post status-publish format-standard has-post-thumbnail hentry  tag-europol tag-identify tag-internet tag-pedophiles tag-seeks tag-users">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 19, 2017</span>

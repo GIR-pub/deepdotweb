@@ -1,7 +1,7 @@
 ---
 Evil Ransom: Infect Two People, Receive Free Decryption Key
 ---
-<article class="post-listing post-17037 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-decryption tag-evil tag-free tag-infect tag-key tag-people tag-ransom tag-receive">
+<article class="post-listing post-17037 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decryption tag-evil tag-free tag-infect tag-key tag-people tag-ransom tag-receive">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>December 20, 2016</span>

@@ -1,7 +1,7 @@
 ---
 BMR Toxin Vendor Sentenced to 9 Years in Prison
 ---
-<article class="post-listing post-9139 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bmr tag-prison tag-sentenced tag-toxin tag-vendor tag-years">
+<article class="post-listing post-9139 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bmr tag-prison tag-sentenced tag-toxin tag-vendor tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 19, 2015</span>

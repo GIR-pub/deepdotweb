@@ -1,7 +1,7 @@
 ---
 Child Porn Crackdown In Slovenia: Law Enforcement Raided 13 Apartments
 ---
-<article class="post-listing post-18753 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1826 tag-apartments tag-child tag-crackdown tag-enforcement tag-law tag-porn tag-raided tag-slovenia">
+<article class="post-listing post-18753 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-apartments tag-child tag-crackdown tag-enforcement tag-law tag-porn tag-raided tag-slovenia">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 23, 2017</span>

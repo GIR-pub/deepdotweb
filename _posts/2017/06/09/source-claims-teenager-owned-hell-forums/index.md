@@ -1,7 +1,7 @@
 ---
 Source Claims a Teenager Owned the Hell Forums
 ---
-<article class="post-listing post-20487 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-claims tag-forums tag-owned tag-source tag-teenager">
+<article class="post-listing post-20487 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claims tag-forums tag-owned tag-source tag-teenager">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 9, 2017</span>

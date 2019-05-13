@@ -1,7 +1,7 @@
 ---
 GoldenEye ransomware is sending companies fake job applications
 ---
-<article class="post-listing post-17494 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-applications tag-companies tag-fake tag-goldeneye tag-job tag-ransomware tag-sending">
+<article class="post-listing post-17494 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applications tag-companies tag-fake tag-goldeneye tag-job tag-ransomware tag-sending">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>January 14, 2017</span>

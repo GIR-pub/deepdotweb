@@ -1,7 +1,7 @@
 ---
 Illinois to Decriminalize Small Amounts of Marijuana
 ---
-<article class="post-listing post-14944 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-amounts tag-decriminalize tag-illinois tag-marijuana tag-small">
+<article class="post-listing post-14944 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amounts tag-decriminalize tag-illinois tag-marijuana tag-small">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 29, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Illinois Senate Votes To Decriminalize Marijuana
 ---
-<article class="post-listing post-13874 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-decriminalize tag-illinois tag-marijuana tag-senate tag-votes">
+<article class="post-listing post-13874 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decriminalize tag-illinois tag-marijuana tag-senate tag-votes">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>April 26, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Canada Introduces Bill Allowing Customs to Open All Packages
 ---
-<article class="post-listing post-19031 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-allowing tag-bill tag-canada tag-customs tag-introduces tag-open tag-packages">
+<article class="post-listing post-19031 post type-post status-publish format-standard has-post-thumbnail hentry  tag-allowing tag-bill tag-canada tag-customs tag-introduces tag-open tag-packages">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 6, 2017</span>

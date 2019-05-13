@@ -1,7 +1,7 @@
 ---
 Demand For Ethical Hackers Rise as Corporations Look to Combat Dark Web Criminals
 ---
-<article class="post-listing post-20427 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-combat tag-corporations tag-criminals tag-dark tag-demand tag-ethical tag-hackers tag-rise tag-web">
+<article class="post-listing post-20427 post type-post status-publish format-standard has-post-thumbnail hentry  tag-combat tag-corporations tag-criminals tag-dark tag-demand tag-ethical tag-hackers tag-rise tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>June 6, 2017</span>

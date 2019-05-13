@@ -1,7 +1,7 @@
 ---
 WikiLeaks Exposes CIA’s SSH Hacks for Windows and Linux
 ---
-<article class="post-listing post-21491 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cias tag-exposes tag-hacks tag-linux tag-ssh tag-wikileaks tag-windows">
+<article class="post-listing post-21491 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cias tag-exposes tag-hacks tag-linux tag-ssh tag-wikileaks tag-windows">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title>DividedBy0 </a></span>
     <span>July 22, 2017</span>

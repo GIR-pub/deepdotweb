@@ -1,7 +1,7 @@
 ---
 German Politician Seeks More State Control Over Organized Crime
 ---
-<article class="post-listing post-20360 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-control tag-crime tag-german tag-organized tag-politician tag-seeks tag-state">
+<article class="post-listing post-20360 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-crime tag-german tag-organized tag-politician tag-seeks tag-state">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 4, 2017</span>

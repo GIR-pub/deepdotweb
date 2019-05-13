@@ -1,7 +1,7 @@
 ---
 New York Man Jailed For Attempting To Buy Ricin From The Dark Web
 ---
-<article class="post-listing post-13439 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempting tag-buy tag-dark tag-jailed tag-man tag-ricin tag-web tag-york">
+<article class="post-listing post-13439 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempting tag-buy tag-dark tag-jailed tag-man tag-ricin tag-web tag-york">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 12, 2016</span>

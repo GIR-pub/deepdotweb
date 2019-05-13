@@ -1,7 +1,7 @@
 ---
 Darknet Bust: Global Law Enforcement Raids Massive Counterfeiting Organization
 ---
-<article class="post-listing post-16969 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bust tag-counterfeiting tag-darknet tag-enforcement tag-global tag-law tag-massive tag-organization tag-raids">
+<article class="post-listing post-16969 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-counterfeiting tag-darknet tag-enforcement tag-global tag-law tag-massive tag-organization tag-raids">
     
     <div class="post-inner">
     

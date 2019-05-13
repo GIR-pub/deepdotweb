@@ -1,7 +1,7 @@
 ---
 New Bill To Require ID To Purchase Prepaid Phones
 ---
-<article class="post-listing post-13619 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bill tag-phones tag-prepaid tag-purchase tag-require">
+<article class="post-listing post-13619 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bill tag-phones tag-prepaid tag-purchase tag-require">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>April 1, 2016</span>

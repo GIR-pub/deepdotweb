@@ -1,7 +1,7 @@
 ---
 Customs Intercepts California Man’s Packages of Live King Cobras
 ---
-<article class="post-listing post-21930 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-california tag-cobras tag-customs tag-intercepts tag-king tag-live tag-mans tag-packages">
+<article class="post-listing post-21930 post type-post status-publish format-standard has-post-thumbnail hentry  tag-california tag-cobras tag-customs tag-intercepts tag-king tag-live tag-mans tag-packages">
     
     <div class="post-inner">
     

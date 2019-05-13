@@ -1,7 +1,7 @@
 ---
 Indian Government Leaking 130m Financial Records
 ---
-<article class="post-listing post-19954 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-130m tag-financial tag-government tag-indian tag-leaking tag-records">
+<article class="post-listing post-19954 post type-post status-publish format-standard has-post-thumbnail hentry  tag-130m tag-financial tag-government tag-indian tag-leaking tag-records">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 18, 2017</span>

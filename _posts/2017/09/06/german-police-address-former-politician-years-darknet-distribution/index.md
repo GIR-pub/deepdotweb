@@ -1,7 +1,7 @@
 ---
 German Police Address Former Politician for Years of Darknet Distribution
 ---
-<article class="post-listing post-22395 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-address tag-darknet tag-distribution tag-german tag-police tag-politician tag-years">
+<article class="post-listing post-22395 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-darknet tag-distribution tag-german tag-police tag-politician tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 6, 2017</span>

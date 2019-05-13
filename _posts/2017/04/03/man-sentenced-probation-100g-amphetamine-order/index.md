@@ -1,7 +1,7 @@
 ---
 Man Sentenced to Probation for 100g Amphetamine Order
 ---
-<article class="post-listing post-18985 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-100g tag-amphetamine tag-man tag-order tag-probation tag-sentenced">
+<article class="post-listing post-18985 post type-post status-publish format-standard has-post-thumbnail hentry  tag-100g tag-amphetamine tag-man tag-order tag-probation tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 3, 2017</span>

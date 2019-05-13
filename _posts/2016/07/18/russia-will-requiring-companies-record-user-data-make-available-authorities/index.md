@@ -1,7 +1,7 @@
 ---
 Russia to Enact Mass Internet Surveillance Laws
 ---
-<article class="post-listing post-14830 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-enact tag-internet tag-laws tag-mass tag-russia tag-surveillance">
+<article class="post-listing post-14830 post type-post status-publish format-standard has-post-thumbnail hentry  tag-enact tag-internet tag-laws tag-mass tag-russia tag-surveillance">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 18, 2016</span>

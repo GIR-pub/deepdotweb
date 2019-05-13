@@ -1,7 +1,7 @@
 ---
 Bitfinex Hacked, $65 Million in Bitcoin Stolen
 ---
-<article class="post-listing post-15007 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3813 tag-bitcoin tag-bitfinex tag-hacked tag-million tag-stolen">
+<article class="post-listing post-15007 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3813 tag-bitcoin tag-bitfinex tag-hacked tag-million tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 3, 2016</span>

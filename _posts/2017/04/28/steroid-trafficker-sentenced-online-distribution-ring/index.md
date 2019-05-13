@@ -1,7 +1,7 @@
 ---
 Steroid Trafficker Sentenced for Online Distribution Ring
 ---
-<article class="post-listing post-19448 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-distribution tag-online tag-ring tag-sentenced tag-steroid tag-trafficker">
+<article class="post-listing post-19448 post type-post status-publish format-standard has-post-thumbnail hentry  tag-distribution tag-online tag-ring tag-sentenced tag-steroid tag-trafficker">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 28, 2017</span>

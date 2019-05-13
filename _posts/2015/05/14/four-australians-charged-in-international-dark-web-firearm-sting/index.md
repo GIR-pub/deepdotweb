@@ -1,7 +1,7 @@
 ---
 17 Arrests in International &#8220;Dark Web&#8221; Firearm Sting
 ---
-<article class="post-listing post-10301 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australians tag-charged tag-dark tag-firearm tag-international tag-sting tag-web">
+<article class="post-listing post-10301 post type-post status-publish format-standard has-post-thumbnail hentry  tag-australians tag-charged tag-dark tag-firearm tag-international tag-sting tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 14, 2015</span>

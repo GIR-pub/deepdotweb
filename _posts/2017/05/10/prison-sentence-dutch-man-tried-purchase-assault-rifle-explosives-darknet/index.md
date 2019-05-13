@@ -1,7 +1,7 @@
 ---
 Prison Sentence For Dutch Man Who Tried To Purchase Assault Rifle And Explosives From The Darknet
 ---
-<article class="post-listing post-19737 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-assault tag-darknet tag-dutch tag-explosives tag-man tag-prison tag-purchase tag-rifle tag-sentence">
+<article class="post-listing post-19737 post type-post status-publish format-standard has-post-thumbnail hentry  tag-assault tag-darknet tag-dutch tag-explosives tag-man tag-prison tag-purchase tag-rifle tag-sentence">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 10, 2017</span>

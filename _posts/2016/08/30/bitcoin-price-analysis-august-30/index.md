@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis August 30
 ---
-<article class="post-listing post-15292 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2518 tag-analysis tag-august tag-bitcoin tag-price">
+<article class="post-listing post-15292 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2518 tag-analysis tag-august tag-bitcoin tag-price">
     
     <div class="post-inner">
     

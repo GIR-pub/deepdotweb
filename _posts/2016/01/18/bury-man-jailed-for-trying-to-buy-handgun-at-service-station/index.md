@@ -1,7 +1,7 @@
 ---
 Bury Man Jailed for Trying to Buy Handgun At Service Station
 ---
-<article class="post-listing post-12965 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bury tag-buy tag-handgun tag-jailed tag-man tag-service tag-station">
+<article class="post-listing post-12965 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bury tag-buy tag-handgun tag-jailed tag-man tag-service tag-station">
     
     <div class="post-inner">
     

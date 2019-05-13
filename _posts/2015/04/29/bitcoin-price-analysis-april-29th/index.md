@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis April 29th
 ---
-<article class="post-listing post-10130 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-29th tag-analysis tag-april tag-bitcoin tag-price">
+<article class="post-listing post-10130 post type-post status-publish format-standard has-post-thumbnail hentry  tag-29th tag-analysis tag-april tag-bitcoin tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>April 29, 2015</span>

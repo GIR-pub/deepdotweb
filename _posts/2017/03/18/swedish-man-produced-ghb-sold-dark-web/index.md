@@ -1,7 +1,7 @@
 ---
 Swedish Man Produced GHB And Sold It On The Dark Web
 ---
-<article class="post-listing post-18675 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-ghb tag-man tag-produced tag-sold tag-swedish tag-web">
+<article class="post-listing post-18675 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-ghb tag-man tag-produced tag-sold tag-swedish tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 18, 2017</span>

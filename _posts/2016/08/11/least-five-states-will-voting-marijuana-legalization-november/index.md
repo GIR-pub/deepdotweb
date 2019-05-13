@@ -1,7 +1,7 @@
 ---
 At Least Five States Will be Voting on Marijuana Legalization in November
 ---
-<article class="post-listing post-15073 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-legalization tag-marijuana tag-november tag-states tag-voting">
+<article class="post-listing post-15073 post type-post status-publish format-standard has-post-thumbnail hentry  tag-legalization tag-marijuana tag-november tag-states tag-voting">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 11, 2016</span>

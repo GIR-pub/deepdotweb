@@ -1,7 +1,7 @@
 ---
 Pedophile In Sextortion Case Used The Dark Web To Cover His Activities
 ---
-<article class="post-listing post-22144 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-activities tag-case tag-cover tag-dark tag-pedophile tag-sextortion tag-web">
+<article class="post-listing post-22144 post type-post status-publish format-standard has-post-thumbnail hentry  tag-activities tag-case tag-cover tag-dark tag-pedophile tag-sextortion tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 24, 2017</span>

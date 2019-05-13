@@ -1,7 +1,7 @@
 ---
 This week on Bitcoin markets &#038; Price Analysis &#8211; 13th May
 ---
-<article class="post-listing post-10282 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-markets tag-week">
+<article class="post-listing post-10282 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-markets tag-week">
     
     <div class="post-inner">
     

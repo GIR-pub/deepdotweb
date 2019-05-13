@@ -1,7 +1,7 @@
 ---
 Researchers Reveal DDoS Attacks Rewards
 ---
-<article class="post-listing post-15202 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attacks tag-ddos tag-researchers tag-reveal tag-rewards">
+<article class="post-listing post-15202 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-ddos tag-researchers tag-reveal tag-rewards">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>August 23, 2016</span>

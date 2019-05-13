@@ -1,7 +1,7 @@
 ---
 Australian Police Arrest Four Persons As Part Of Operation Hyperion
 ---
-<article class="post-listing post-16324 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-australian tag-hyperion tag-operation tag-part tag-persons tag-police">
+<article class="post-listing post-16324 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-australian tag-hyperion tag-operation tag-part tag-persons tag-police">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 8, 2016</span>

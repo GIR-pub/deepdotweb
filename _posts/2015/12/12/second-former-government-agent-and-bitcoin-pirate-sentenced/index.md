@@ -1,7 +1,7 @@
 ---
 Second Former Government Agent Sentenced to 71 Months
 ---
-<article class="post-listing post-12539 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3297 tag-agent tag-government tag-months tag-sentenced">
+<article class="post-listing post-12539 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3297 tag-agent tag-government tag-months tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 12, 2015</span>

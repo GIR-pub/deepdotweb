@@ -1,7 +1,7 @@
 ---
 PSA: DeepDotWeb&#8217;s New Onion Gateway!
 ---
-<article class="post-listing post-10603 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-address tag-deepdotweb tag-onion tag-psa">
+<article class="post-listing post-10603 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-deepdotweb tag-onion tag-psa">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 6, 2015</span>

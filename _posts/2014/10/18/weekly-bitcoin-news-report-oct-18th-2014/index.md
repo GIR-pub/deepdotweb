@@ -1,7 +1,7 @@
 ---
 Weekly Bitcoin News Report – Oct. 18th, 2014
 ---
-<article class="post-listing post-7418 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-17th tag-1779 tag-bitcoin tag-news tag-oct tag-report tag-weekly">
+<article class="post-listing post-7418 post type-post status-publish format-standard has-post-thumbnail hentry  tag-17th tag-1779 tag-bitcoin tag-news tag-oct tag-report tag-weekly">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 18, 2014</span>

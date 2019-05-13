@@ -1,7 +1,7 @@
 ---
 Alleged Silk Road Admin “Libertas” To Be Extradited To The US
 ---
-<article class="post-listing post-15103 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-alleged tag-extradited tag-libertas tag-road tag-silk">
+<article class="post-listing post-15103 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-alleged tag-extradited tag-libertas tag-road tag-silk">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 A Sneak Peek To Grams Search Engine &#8220;Stage 2: Infodesk&#8221;
 ---
-<article class="post-listing post-5624 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-engine tag-grams tag-infodesk tag-peek tag-search tag-sneak tag-stage">
+<article class="post-listing post-5624 post type-post status-publish format-standard has-post-thumbnail hentry  tag-engine tag-grams tag-infodesk tag-peek tag-search tag-sneak tag-stage">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 17, 2014</span>

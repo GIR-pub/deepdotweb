@@ -1,7 +1,7 @@
 ---
 Greek Law Enforcement Arrest BTC-e Founder for Laundering Billions in Bitcoin
 ---
-<article class="post-listing post-21632 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-billions tag-bitcoin tag-btce tag-enforcement tag-founder tag-greek tag-laundering tag-law">
+<article class="post-listing post-21632 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-billions tag-bitcoin tag-btce tag-enforcement tag-founder tag-greek tag-laundering tag-law">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Chandler ​Guo: Chinese Electricity Companies Are Using Surplus Energy to Mine Bitcoin
 ---
-<article class="post-listing post-16891 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-chandler tag-chinese tag-companies tag-electricity tag-energy tag-guo tag-surplus">
+<article class="post-listing post-16891 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-chandler tag-chinese tag-companies tag-electricity tag-energy tag-guo tag-surplus">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>December 12, 2016</span>

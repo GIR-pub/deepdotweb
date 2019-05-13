@@ -1,7 +1,7 @@
 ---
 Tor Project Developer Resigns In Response To Sexual Mistreatment Allegations
 ---
-<article class="post-listing post-14467 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-allegations tag-developer tag-mistreatment tag-project tag-resigns tag-response tag-sexual tag-tor">
+<article class="post-listing post-14467 post type-post status-publish format-standard has-post-thumbnail hentry  tag-allegations tag-developer tag-mistreatment tag-project tag-resigns tag-response tag-sexual tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 10, 2016</span>

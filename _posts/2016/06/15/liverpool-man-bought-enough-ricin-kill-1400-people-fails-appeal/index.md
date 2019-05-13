@@ -1,7 +1,7 @@
 ---
 Liverpool Man Who Bought Enough Ricin To Kill 1,400 People Fails Appeal
 ---
-<article class="post-listing post-14506 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3867 tag-appeal tag-bought tag-fails tag-kill tag-liverpool tag-man tag-people tag-ricin">
+<article class="post-listing post-14506 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3867 tag-appeal tag-bought tag-fails tag-kill tag-liverpool tag-man tag-people tag-ricin">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 15, 2016</span>

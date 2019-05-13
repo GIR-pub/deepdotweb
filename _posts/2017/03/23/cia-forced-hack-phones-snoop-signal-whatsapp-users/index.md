@@ -1,7 +1,7 @@
 ---
 CIA Forced to Hack Phones To Snoop on Signal and WhatsApp Users
 ---
-<article class="post-listing post-18756 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cia tag-forced tag-hack tag-phones tag-signal tag-snoop tag-users tag-whatsapp">
+<article class="post-listing post-18756 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cia tag-forced tag-hack tag-phones tag-signal tag-snoop tag-users tag-whatsapp">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 23, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Bolivia Police arrests 60 people for Cryptocurrency crimes
 ---
-<article class="post-listing post-20563 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3828 tag-arrests tag-bolivia tag-crimes tag-cryptocurrency tag-people tag-police">
+<article class="post-listing post-20563 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3828 tag-arrests tag-bolivia tag-crimes tag-cryptocurrency tag-people tag-police">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/arjunvaishnav/" title="">Arjun Vaishnav </a></span>
     <span>June 12, 2017</span>

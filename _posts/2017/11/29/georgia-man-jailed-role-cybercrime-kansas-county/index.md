@@ -1,7 +1,7 @@
 ---
 Georgia Man Jailed For Role in Cybercrime against Kansas County
 ---
-<article class="post-listing post-23725 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-county tag-cybercrime tag-georgia tag-jailed tag-kansas tag-man tag-role">
+<article class="post-listing post-23725 post type-post status-publish format-standard has-post-thumbnail hentry  tag-county tag-cybercrime tag-georgia tag-jailed tag-kansas tag-man tag-role">
     
     <div class="post-inner">
     

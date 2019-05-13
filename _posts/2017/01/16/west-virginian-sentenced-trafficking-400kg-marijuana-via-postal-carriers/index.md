@@ -1,7 +1,7 @@
 ---
 West Virginian Sentenced for Trafficking 400KG Marijuana, Most Via Postal Carriers
 ---
-<article class="post-listing post-17537 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-400kg tag-carriers tag-marijuana tag-postal tag-sentenced tag-trafficking tag-virginian tag-west">
+<article class="post-listing post-17537 post type-post status-publish format-standard has-post-thumbnail hentry  tag-400kg tag-carriers tag-marijuana tag-postal tag-sentenced tag-trafficking tag-virginian tag-west">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 16, 2017</span>

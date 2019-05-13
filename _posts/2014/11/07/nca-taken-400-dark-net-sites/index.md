@@ -1,7 +1,7 @@
 ---
 NCA: &#8220;We have Taken down 400 Dark Net Sites&#8221;
 ---
-<article class="post-listing post-8045 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2368 tag-dark tag-nca tag-net tag-operation-onymous tag-silkroad2bust tag-sites">
+<article class="post-listing post-8045 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2368 tag-dark tag-nca tag-net tag-operation-onymous tag-silkroad2bust tag-sites">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 7, 2014</span>

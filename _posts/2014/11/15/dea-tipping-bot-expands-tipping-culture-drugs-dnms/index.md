@@ -1,7 +1,7 @@
 ---
 “DEA” Tipping Bot Expands Tipping Culture To Drugs &#038; DNM&#8217;s
 ---
-<article class="post-listing post-8264 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bot tag-culture tag-dea tag-dnms tag-expands tag-tipping">
+<article class="post-listing post-8264 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bot tag-culture tag-dea tag-dnms tag-expands tag-tipping">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>November 15, 2014</span>

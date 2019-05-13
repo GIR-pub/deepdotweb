@@ -1,7 +1,7 @@
 ---
 Russian Hackers Set Sights on U.S. Technology Giants
 ---
-<article class="post-listing post-15704 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-giants tag-hackers tag-russian tag-set tag-sights tag-technology">
+<article class="post-listing post-15704 post type-post status-publish format-standard has-post-thumbnail hentry  tag-giants tag-hackers tag-russian tag-set tag-sights tag-technology">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>October 7, 2016</span>

@@ -4,7 +4,7 @@ This May Interest you : How to access onion sites?
 ---
 Tor 7.0 Released with Content Sandbox and Multi-process Mode
 ---
-<article class="post-listing post-20584 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2802 tag-content tag-download tag-mode tag-multiprocess tag-released tag-sandbox tag-tor">
+<article class="post-listing post-20584 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2802 tag-content tag-download tag-mode tag-multiprocess tag-released tag-sandbox tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/arjunvaishnav/" title="">Arjun Vaishnav </a></span>
     <span>June 13, 2017</span>

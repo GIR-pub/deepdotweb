@@ -1,7 +1,7 @@
 ---
 Swiss Convict Who Escaped From Custody Confessed
 ---
-<article class="post-listing post-20609 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-confessed tag-convict tag-custody tag-escaped tag-swiss">
+<article class="post-listing post-20609 post type-post status-publish format-standard has-post-thumbnail hentry  tag-confessed tag-convict tag-custody tag-escaped tag-swiss">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 14, 2017</span>

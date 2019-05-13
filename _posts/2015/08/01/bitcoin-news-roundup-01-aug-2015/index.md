@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 01 Aug.2015
 ---
-<article class="post-listing post-11158 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-aug tag-bitcoin tag-news tag-roundup">
+<article class="post-listing post-11158 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aug tag-bitcoin tag-news tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 1, 2015</span>

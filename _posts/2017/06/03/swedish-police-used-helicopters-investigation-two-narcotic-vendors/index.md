@@ -1,7 +1,7 @@
 ---
 Swedish Police Used Helicopters In The Investigation Against Two Narcotic Vendors
 ---
-<article class="post-listing post-20343 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-helicopters tag-investigation tag-narcotic tag-police tag-swedish tag-vendors">
+<article class="post-listing post-20343 post type-post status-publish format-standard has-post-thumbnail hentry  tag-helicopters tag-investigation tag-narcotic tag-police tag-swedish tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 3, 2017</span>

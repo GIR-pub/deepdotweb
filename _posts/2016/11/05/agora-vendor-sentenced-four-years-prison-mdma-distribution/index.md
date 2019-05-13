@@ -1,7 +1,7 @@
 ---
 Agora Vendor Sentenced to Four Years In Prison For MDMA Distribution
 ---
-<article class="post-listing post-16280 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agora tag-distribution tag-mdma tag-prison tag-sentenced tag-vendor tag-years">
+<article class="post-listing post-16280 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-distribution tag-mdma tag-prison tag-sentenced tag-vendor tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 5, 2016</span>

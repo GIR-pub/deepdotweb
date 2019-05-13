@@ -1,7 +1,7 @@
 ---
 Victim Rescued In Brazil’s First Bitcoin Ransom Kidnapping Plot
 ---
-<article class="post-listing post-19900 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-brazils tag-kidnapping tag-plot tag-ransom tag-rescued tag-victim">
+<article class="post-listing post-19900 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-brazils tag-kidnapping tag-plot tag-ransom tag-rescued tag-victim">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 16, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Dark Net Bust: Man Indicted For Attempting to Acquire Ricin
 ---
-<article class="post-listing post-8851 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-acquire tag-attempting tag-bust tag-dark tag-indicted tag-man tag-net tag-ricin">
+<article class="post-listing post-8851 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acquire tag-attempting tag-bust tag-dark tag-indicted tag-man tag-net tag-ricin">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 21, 2015</span>

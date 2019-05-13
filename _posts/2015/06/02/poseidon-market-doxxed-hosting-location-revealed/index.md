@@ -1,7 +1,7 @@
 ---
 Poseidon Market Doxxed: Hosting Location Revealed
 ---
-<article class="post-listing post-10540 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-hosting tag-location tag-market tag-poseidon tag-revealed">
+<article class="post-listing post-10540 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hosting tag-location tag-market tag-poseidon tag-revealed">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 2, 2015</span>

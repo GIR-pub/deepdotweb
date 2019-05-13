@@ -1,7 +1,7 @@
 ---
 Russian Tor Exit Node Operator Arrested
 ---
-<article class="post-listing post-19528 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-exit tag-node tag-operator tag-russian tag-tor">
+<article class="post-listing post-19528 post type-post status-publish format-standard has-post-thumbnail hentry  tag-exit tag-node tag-operator tag-russian tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>May 1, 2017</span>

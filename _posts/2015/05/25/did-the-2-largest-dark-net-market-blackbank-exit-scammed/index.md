@@ -1,7 +1,7 @@
 ---
 Did The #2 Largest Dark Net Market, BlackBank, Exit Scammed?
 ---
-<article class="post-listing post-10390 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blackbank tag-dark tag-exit tag-largest tag-market tag-net tag-scammed">
+<article class="post-listing post-10390 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blackbank tag-dark tag-exit tag-largest tag-market tag-net tag-scammed">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 25, 2015</span>

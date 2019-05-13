@@ -1,7 +1,7 @@
 ---
 US Customs Officer Charged with Cocaine Importation
 ---
-<article class="post-listing post-19465 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charged tag-cocaine tag-customs tag-importation tag-officer">
+<article class="post-listing post-19465 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-cocaine tag-customs tag-importation tag-officer">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 29, 2017</span>

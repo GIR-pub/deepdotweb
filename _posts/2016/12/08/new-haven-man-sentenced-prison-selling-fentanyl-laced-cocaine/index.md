@@ -1,7 +1,7 @@
 ---
 New Haven Man Sentenced to Prison for Selling Fentanyl-Laced Cocaine
 ---
-<article class="post-listing post-16808 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cocaine tag-fentanyllaced tag-haven tag-man tag-prison tag-selling tag-sentenced">
+<article class="post-listing post-16808 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cocaine tag-fentanyllaced tag-haven tag-man tag-prison tag-selling tag-sentenced">
     
     <div class="post-inner">
     

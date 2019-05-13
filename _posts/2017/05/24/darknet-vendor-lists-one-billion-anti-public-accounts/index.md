@@ -1,7 +1,7 @@
 ---
 Darknet Vendor Lists One Billion Anti-Public Accounts
 ---
-<article class="post-listing post-20077 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accounts tag-antipublic tag-billion tag-darknet tag-lists tag-vendor">
+<article class="post-listing post-20077 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accounts tag-antipublic tag-billion tag-darknet tag-lists tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 24, 2017</span>

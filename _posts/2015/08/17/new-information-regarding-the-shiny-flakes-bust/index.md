@@ -1,7 +1,7 @@
 ---
 New Information Regarding The Shiny Flakes Bust
 ---
-<article class="post-listing post-11289 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bust tag-flakes tag-information tag-shiny">
+<article class="post-listing post-11289 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-flakes tag-information tag-shiny">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 17, 2015</span>

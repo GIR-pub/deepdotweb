@@ -1,7 +1,7 @@
 ---
 The Darknet Shut Down Is A Model for Future Operation, Says Europol Official
 ---
-<article class="post-listing post-21917 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-europol tag-future tag-model tag-official tag-operation tag-shut">
+<article class="post-listing post-21917 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-europol tag-future tag-model tag-official tag-operation tag-shut">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/sagm-wood/" title="">Sagm Wood </a></span>
     <span>August 12, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Korea’s Fourth Largest Bank Tests Blockchain With Coinplug; Eyes Commercial Services
 ---
-<article class="post-listing post-16077 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bank tag-blockchain tag-coinplug tag-commercial tag-eyes tag-fourth tag-koreas tag-largest tag-services tag-tests">
+<article class="post-listing post-16077 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bank tag-blockchain tag-coinplug tag-commercial tag-eyes tag-fourth tag-koreas tag-largest tag-services tag-tests">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>October 26, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Outlaw Market V5 Is Up
 ---
-<article class="post-listing post-12628 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-market tag-outlaw tag-v5">
+<article class="post-listing post-12628 post type-post status-publish format-standard has-post-thumbnail hentry  tag-market tag-outlaw tag-v5">
     
 <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 28-year-old German Sentenced To Probation For Ordering Drugs
 ---
-<article class="post-listing post-16473 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-28yearold tag-german tag-ordering tag-probation tag-sentenced">
+<article class="post-listing post-16473 post type-post status-publish format-standard has-post-thumbnail hentry  tag-28yearold tag-german tag-ordering tag-probation tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 18, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Dark Web Euro Counterfeiter Duo Standing Trial In Germany
 ---
-<article class="post-listing post-19699 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-counterfeiter tag-dark tag-duo tag-euro tag-germany tag-standing tag-trial tag-web">
+<article class="post-listing post-19699 post type-post status-publish format-standard has-post-thumbnail hentry  tag-counterfeiter tag-dark tag-duo tag-euro tag-germany tag-standing tag-trial tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 8, 2017</span>

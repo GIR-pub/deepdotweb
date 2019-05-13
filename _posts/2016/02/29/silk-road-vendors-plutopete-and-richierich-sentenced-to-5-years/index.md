@@ -1,7 +1,7 @@
 ---
 Silk Road Vendors PlutoPete and RichieRich Sentenced to 5 Years
 ---
-<article class="post-listing post-13352 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cocaine tag-dealing tag-face tag-meth tag-plutopete tag-road tag-silk tag-vendors">
+<article class="post-listing post-13352 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cocaine tag-dealing tag-face tag-meth tag-plutopete tag-road tag-silk tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 29, 2016</span>

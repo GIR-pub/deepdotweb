@@ -1,7 +1,7 @@
 ---
 Report: Most Of The Cybercriminals Make $1,000 – 3,000 Per Month
 ---
-<article class="post-listing post-16925 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2821 tag-1850 tag-cybercriminals tag-month tag-report">
+<article class="post-listing post-16925 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2821 tag-1850 tag-cybercriminals tag-month tag-report">
     
     <div class="post-inner">
     

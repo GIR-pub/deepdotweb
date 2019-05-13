@@ -1,7 +1,7 @@
 ---
 Carder Warned By Judge To Expect Prison On His Next Offense
 ---
-<article class="post-listing post-11844 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-carder tag-expect tag-judge tag-offense tag-prison tag-warned">
+<article class="post-listing post-11844 post type-post status-publish format-standard has-post-thumbnail hentry  tag-carder tag-expect tag-judge tag-offense tag-prison tag-warned">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>October 23, 2015</span>

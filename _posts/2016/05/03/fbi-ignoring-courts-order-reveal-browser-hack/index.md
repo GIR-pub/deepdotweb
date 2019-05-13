@@ -1,7 +1,7 @@
 ---
 FBI Ignoring Courts Order To Reveal Browser Hack
 ---
-<article class="post-listing post-13931 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-browser tag-courts tag-fbi tag-hack tag-ignoring tag-order tag-reveal">
+<article class="post-listing post-13931 post type-post status-publish format-standard has-post-thumbnail hentry  tag-browser tag-courts tag-fbi tag-hack tag-ignoring tag-order tag-reveal">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 3, 2016</span>

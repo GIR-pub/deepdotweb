@@ -1,7 +1,7 @@
 ---
 Two Men Convicted of Fraud After Using Darknet Acquired Credit Cards for Ticket Scams
 ---
-<article class="post-listing post-16193 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buy tag-carders tag-germany tag-sell tag-tickets tag-train">
+<article class="post-listing post-16193 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-carders tag-germany tag-sell tag-tickets tag-train">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 31, 2016</span>

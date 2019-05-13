@@ -1,7 +1,7 @@
 ---
 &#8220;The number of cybercrimes in Russia has increased six fold, reaching $18 million in damage&#8221;
 ---
-<article class="post-listing post-23969 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1766 tag-cybercrimes tag-damage tag-fold tag-increased tag-million tag-number tag-reaching tag-russia">
+<article class="post-listing post-23969 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1766 tag-cybercrimes tag-damage tag-fold tag-increased tag-million tag-number tag-reaching tag-russia">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
     <span>December 18, 2017</span>

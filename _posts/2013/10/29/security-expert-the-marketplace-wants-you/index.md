@@ -1,7 +1,7 @@
 ---
 title: Security Expert? &#8220;The Marketplace&#8221; Wants You!
 ---
-1017 category-deepdot-news category-news-updates tag-expert tag-marketplace tag-security">
+1017  tag-expert tag-marketplace tag-security">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 29, 2013</span>

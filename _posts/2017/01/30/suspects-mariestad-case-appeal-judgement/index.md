@@ -1,7 +1,7 @@
 ---
 Suspects In Mariestad Case Appeal Judgement
 ---
-<article class="post-listing post-17853 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-appeal tag-case tag-judgement tag-mariestad tag-suspects">
+<article class="post-listing post-17853 post type-post status-publish format-standard has-post-thumbnail hentry  tag-appeal tag-case tag-judgement tag-mariestad tag-suspects">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 30, 2017</span>

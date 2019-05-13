@@ -1,7 +1,7 @@
 ---
 Drug Vendor And Reseller Arrested In Sweden
 ---
-<article class="post-listing post-20535 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drug tag-reseller tag-sweden tag-vendor">
+<article class="post-listing post-20535 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-reseller tag-sweden tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 13, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Shanese and Patricia Denied Bail over Alleged Dark Web Drug Crime
 ---
-<article class="post-listing post-28605 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alleged tag-bail tag-crime tag-dark tag-denied tag-drug tag-patricia tag-shanese tag-web">
+<article class="post-listing post-28605 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alleged tag-bail tag-crime tag-dark tag-denied tag-drug tag-patricia tag-shanese tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
     <span>March 12, 2019</span>

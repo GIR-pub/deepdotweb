@@ -1,7 +1,7 @@
 ---
 DEA Busted Former Alphabay Vendor “EtiKing”
 ---
-<article class="post-listing post-21129 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-busted tag-dea tag-etiking tag-vendor">
+<article class="post-listing post-21129 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-busted tag-dea tag-etiking tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 7, 2017</span>

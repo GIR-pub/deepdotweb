@@ -1,7 +1,7 @@
 ---
 FBI and NSA Still Not Having Trouble Getting Spy Orders
 ---
-<article class="post-listing post-13978 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fbi tag-nsa tag-orders tag-spy tag-trouble">
+<article class="post-listing post-13978 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-nsa tag-orders tag-spy tag-trouble">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 7, 2016</span>

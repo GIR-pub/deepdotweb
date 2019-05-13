@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis June 13 2017
 ---
-<article class="post-listing post-20657 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1826 tag-3676 tag-analysis tag-bitcoin tag-june tag-price">
+<article class="post-listing post-20657 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-3676 tag-analysis tag-bitcoin tag-june tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>June 13, 2017</span>

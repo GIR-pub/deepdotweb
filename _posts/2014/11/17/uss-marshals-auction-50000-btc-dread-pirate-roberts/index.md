@@ -1,7 +1,7 @@
 ---
 USS Marshals Auction: 50,000 BTC from Dread Pirate Roberts
 ---
-<article class="post-listing post-8311 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1514 tag-auction tag-btc tag-dread tag-marshals tag-pirate tag-roberts tag-uss">
+<article class="post-listing post-8311 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1514 tag-auction tag-btc tag-dread tag-marshals tag-pirate tag-roberts tag-uss">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 17, 2014</span>

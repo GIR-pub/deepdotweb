@@ -1,7 +1,7 @@
 ---
 DarkNetServices: New Vendor Shops Hosting
 ---
-<article class="post-listing post-5644 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknetservices tag-hosting tag-shops tag-vendor">
+<article class="post-listing post-5644 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknetservices tag-hosting tag-shops tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 18, 2014</span>

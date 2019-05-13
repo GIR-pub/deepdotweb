@@ -1,7 +1,7 @@
 ---
 Glock Vendor Headed to Trial for Role in Munich Shootings
 ---
-<article class="post-listing post-21582 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-glock tag-headed tag-munich tag-role tag-shootings tag-trial tag-vendor">
+<article class="post-listing post-21582 post type-post status-publish format-standard has-post-thumbnail hentry  tag-glock tag-headed tag-munich tag-role tag-shootings tag-trial tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 27, 2017</span>

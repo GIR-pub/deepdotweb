@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 04 Oct.2015
 ---
-<article class="post-listing post-11682 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-news tag-oct2015 tag-roundup">
+<article class="post-listing post-11682 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-news tag-oct2015 tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 4, 2015</span>

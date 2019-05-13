@@ -1,7 +1,7 @@
 ---
 Gladstone Man Facing Jail For Possessing Ice
 ---
-<article class="post-listing post-13152 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-facing tag-gladstone tag-ice tag-man tag-possessing">
+<article class="post-listing post-13152 post type-post status-publish format-standard has-post-thumbnail hentry  tag-facing tag-gladstone tag-ice tag-man tag-possessing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 4, 2016</span>

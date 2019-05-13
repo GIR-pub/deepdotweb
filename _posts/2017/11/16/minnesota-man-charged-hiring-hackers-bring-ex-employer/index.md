@@ -1,7 +1,7 @@
 ---
 Minnesota Man Charged With Hiring Hackers to Bring Down Ex-Employer
 ---
-<article class="post-listing post-23542 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bring tag-charged tag-exemployer tag-hackers tag-hiring tag-man tag-minnesota">
+<article class="post-listing post-23542 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bring tag-charged tag-exemployer tag-hackers tag-hiring tag-man tag-minnesota">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>November 16, 2017</span>

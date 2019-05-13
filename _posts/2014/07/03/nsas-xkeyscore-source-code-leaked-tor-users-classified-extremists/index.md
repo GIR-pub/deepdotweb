@@ -1,7 +1,7 @@
 ---
 NSA&#8217;s XKeyscore Source Code Leaked: All Tor Users Classified As &#8216;Extremists&#8217;
 ---
-<article class="post-listing post-6324 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-classified tag-code tag-extremists tag-leaked tag-nsas tag-source tag-tor tag-users tag-xkeyscore">
+<article class="post-listing post-6324 post type-post status-publish format-standard has-post-thumbnail hentry  tag-classified tag-code tag-extremists tag-leaked tag-nsas tag-source tag-tor tag-users tag-xkeyscore">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 3, 2014</span>

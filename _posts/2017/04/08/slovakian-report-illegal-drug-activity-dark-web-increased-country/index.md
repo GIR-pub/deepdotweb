@@ -1,7 +1,7 @@
 ---
 Slovakian Report: Illegal Drug Activity On The Dark Web Increased In The Country
 ---
-<article class="post-listing post-19073 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-activity tag-country tag-dark tag-drug tag-illegal tag-increased tag-report tag-slovakian tag-web">
+<article class="post-listing post-19073 post type-post status-publish format-standard has-post-thumbnail hentry  tag-activity tag-country tag-dark tag-drug tag-illegal tag-increased tag-report tag-slovakian tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 8, 2017</span>

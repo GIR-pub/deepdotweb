@@ -1,7 +1,7 @@
 ---
 Napoli Group Counterfeit Vendor Sentenced to House Arrest
 ---
-<article class="post-listing post-23824 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-counterfeit tag-group tag-house tag-napoli tag-sentenced tag-vendor">
+<article class="post-listing post-23824 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-counterfeit tag-group tag-house tag-napoli tag-sentenced tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 8, 2017</span>

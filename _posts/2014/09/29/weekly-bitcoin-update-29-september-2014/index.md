@@ -1,7 +1,7 @@
 ---
 Weekly Bitcoin Update &#8211; 29 September 2014
 ---
-<article class="post-listing post-7225 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1779 tag-bitcoin tag-september tag-update29 tag-weekly">
+<article class="post-listing post-7225 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-september tag-update29 tag-weekly">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>September 29, 2014</span>

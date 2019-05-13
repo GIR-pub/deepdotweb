@@ -1,7 +1,7 @@
 ---
 US Supreme Court Hears Landmark Cellphone Privacy Case
 ---
-<article class="post-listing post-23890 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-cellphone tag-court tag-hears tag-landmark tag-privacy tag-supreme">
+<article class="post-listing post-23890 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-cellphone tag-court tag-hears tag-landmark tag-privacy tag-supreme">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>December 13, 2017</span>

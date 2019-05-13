@@ -1,7 +1,7 @@
 ---
 Yet Another Amphetamine Vendor Arrested in Austria
 ---
-<article class="post-listing post-20598 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-amphetamine tag-austria tag-vendor">
+<article class="post-listing post-20598 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amphetamine tag-austria tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 13, 2017</span>

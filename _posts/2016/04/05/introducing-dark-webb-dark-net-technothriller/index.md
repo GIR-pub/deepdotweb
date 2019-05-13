@@ -1,7 +1,7 @@
 ---
 Introducing Dark Webb &#8211; A Dark Net Technothriller
 ---
-<article class="post-listing post-13639 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-introducing tag-net tag-technothriller tag-webb">
+<article class="post-listing post-13639 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-introducing tag-net tag-technothriller tag-webb">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 5, 2016</span>

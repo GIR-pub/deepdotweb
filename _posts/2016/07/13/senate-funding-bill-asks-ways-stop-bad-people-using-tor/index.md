@@ -1,7 +1,7 @@
 ---
 Senate Bill Asks For Ways to Stop Bad People From Using Tor
 ---
-<article class="post-listing post-14797 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-asks tag-bad tag-bill tag-funding tag-people tag-senate tag-stop tag-tor tag-ways">
+<article class="post-listing post-14797 post type-post status-publish format-standard has-post-thumbnail hentry  tag-asks tag-bad tag-bill tag-funding tag-people tag-senate tag-stop tag-tor tag-ways">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>July 13, 2016</span>

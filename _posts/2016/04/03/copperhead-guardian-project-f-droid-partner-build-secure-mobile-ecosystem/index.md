@@ -1,7 +1,7 @@
 ---
 Copperhead, Guardian Project &#038; F-Droid To Build Secure Mobile Ecosystem
 ---
-<article class="post-listing post-13627 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-build tag-copperhead tag-ecosystem tag-fdroid tag-guardian tag-mobile tag-partner tag-project tag-secure">
+<article class="post-listing post-13627 post type-post status-publish format-standard has-post-thumbnail hentry  tag-build tag-copperhead tag-ecosystem tag-fdroid tag-guardian tag-mobile tag-partner tag-project tag-secure">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>April 3, 2016</span>

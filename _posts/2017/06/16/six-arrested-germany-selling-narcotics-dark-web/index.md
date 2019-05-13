@@ -1,7 +1,7 @@
 ---
 Six Arrested In Germany For Selling Narcotics On The Dark Web
 ---
-<article class="post-listing post-20712 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-germany tag-narcotics tag-selling tag-web">
+<article class="post-listing post-20712 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-germany tag-narcotics tag-selling tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 16, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Darknet Weapon Vendor Who Sold Weapons to the Munich Gunman is Working with Police
 ---
-<article class="post-listing post-16057 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-gunman tag-munich tag-police tag-sold tag-vendor tag-weapon tag-weapons tag-working">
+<article class="post-listing post-16057 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-gunman tag-munich tag-police tag-sold tag-vendor tag-weapon tag-weapons tag-working">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 25, 2016</span>

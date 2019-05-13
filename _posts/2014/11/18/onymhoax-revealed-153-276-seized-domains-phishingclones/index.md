@@ -1,7 +1,7 @@
 ---
 OnymHoax Revealed: 153 Out of 276 Seized Domains Are Phishing/Clones
 ---
-<article class="post-listing post-8324 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-operation-onymous">
+<article class="post-listing post-8324 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 18, 2014</span>

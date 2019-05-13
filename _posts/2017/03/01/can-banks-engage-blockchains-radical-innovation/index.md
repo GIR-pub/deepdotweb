@@ -1,7 +1,7 @@
 ---
 How Can Banks Engage With Blockchain&#8217;s Radical Innovation?
 ---
-<article class="post-listing post-18390 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-banks tag-blockchains tag-engage tag-innovation tag-radical">
+<article class="post-listing post-18390 post type-post status-publish format-standard has-post-thumbnail hentry  tag-banks tag-blockchains tag-engage tag-innovation tag-radical">
     
 <div class="post-inner">
     

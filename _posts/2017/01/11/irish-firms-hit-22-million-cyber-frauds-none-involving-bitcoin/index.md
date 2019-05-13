@@ -1,7 +1,7 @@
 ---
 Irish Firms Hit With $22 Million in Cyber Frauds, None Involving Bitcoin
 ---
-<article class="post-listing post-17440 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2700 tag-bitcoin tag-cyber tag-firms tag-frauds tag-hit tag-involving tag-irish tag-million">
+<article class="post-listing post-17440 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2700 tag-bitcoin tag-cyber tag-firms tag-frauds tag-hit tag-involving tag-irish tag-million">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 11, 2017</span>

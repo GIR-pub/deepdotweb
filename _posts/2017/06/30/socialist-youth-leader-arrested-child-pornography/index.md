@@ -1,7 +1,7 @@
 ---
 Socialist Youth Leader Arrested for Child Pornography
 ---
-<article class="post-listing post-20985 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-leader tag-pornography tag-socialist tag-youth">
+<article class="post-listing post-20985 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-leader tag-pornography tag-socialist tag-youth">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 30, 2017</span>

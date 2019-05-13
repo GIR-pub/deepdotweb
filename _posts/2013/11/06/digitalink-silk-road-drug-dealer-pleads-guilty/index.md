@@ -1,7 +1,7 @@
 ---
 title: Digitalink (Silk Road drug dealer) Pleads Guilty
 ---
-1185 category-deepdot-news category-news-updates tag-dealer tag-digitalink tag-drug tag-guilty tag-pleads tag-road tag-silk">
+1185  tag-dealer tag-digitalink tag-drug tag-guilty tag-pleads tag-road tag-silk">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 6, 2013</span>

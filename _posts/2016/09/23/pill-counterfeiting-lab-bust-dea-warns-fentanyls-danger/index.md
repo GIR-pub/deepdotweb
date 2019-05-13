@@ -1,7 +1,7 @@
 ---
 After Pill Counterfeiting Lab Bust, DEA Warns Of Fentanyl’s Danger
 ---
-<article class="post-listing post-15528 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bust tag-counterfeiting tag-danger tag-dea tag-fentanyls tag-lab tag-pill tag-warns">
+<article class="post-listing post-15528 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-counterfeiting tag-danger tag-dea tag-fentanyls tag-lab tag-pill tag-warns">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 23, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Major Dream Vendor Busted in Germany
 ---
-<article class="post-listing post-23835 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-dream tag-germany tag-major tag-vendor">
+<article class="post-listing post-23835 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-dream tag-germany tag-major tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 9, 2017</span>

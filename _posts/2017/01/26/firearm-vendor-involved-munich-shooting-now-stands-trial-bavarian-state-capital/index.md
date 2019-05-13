@@ -1,7 +1,7 @@
 ---
 The Firearm Vendor Involved in the Munich Shooting Now Stands Trial in the Bavarian State Capital
 ---
-<article class="post-listing post-17747 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bavarian tag-capital tag-firearm tag-involved tag-munich tag-shooting tag-stands tag-state tag-trial tag-vendor">
+<article class="post-listing post-17747 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bavarian tag-capital tag-firearm tag-involved tag-munich tag-shooting tag-stands tag-state tag-trial tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 26, 2017</span>

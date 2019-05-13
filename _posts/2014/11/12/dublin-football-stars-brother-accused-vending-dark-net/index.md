@@ -1,7 +1,7 @@
 ---
 Dublin Football Star&#8217;s Brother Accused Of Vending On The Dark Net
 ---
-<article class="post-8192 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-operation-onymous tag-silkroad2bust post-listing">
+<article class="post-8192 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous tag-silkroad2bust post-listing">
     <div class="post-inner">
         <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 12, 2014</span>

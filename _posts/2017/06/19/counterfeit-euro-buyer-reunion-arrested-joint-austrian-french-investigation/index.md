@@ -1,7 +1,7 @@
 ---
 Counterfeit Euro Buyer From Réunion Arrested In Joint Austrian And French Investigation
 ---
-<article class="post-listing post-20731 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-austrian tag-buyer tag-counterfeit tag-euro tag-french tag-investigation tag-joint tag-reunion">
+<article class="post-listing post-20731 post type-post status-publish format-standard has-post-thumbnail hentry  tag-austrian tag-buyer tag-counterfeit tag-euro tag-french tag-investigation tag-joint tag-reunion">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 19, 2017</span>

@@ -1,7 +1,7 @@
 ---
 The Price for your Hacked Medical Records Just Went Down
 ---
-<article class="post-listing post-16242 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-hacked tag-medical tag-price tag-records">
+<article class="post-listing post-16242 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacked tag-medical tag-price tag-records">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>November 4, 2016</span>

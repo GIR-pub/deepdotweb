@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis 19th August
 ---
-<article class="post-listing post-11303 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-19th tag-analysis tag-august tag-bitcoin tag-price">
+<article class="post-listing post-11303 post type-post status-publish format-standard has-post-thumbnail hentry  tag-19th tag-analysis tag-august tag-bitcoin tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>August 19, 2015</span>

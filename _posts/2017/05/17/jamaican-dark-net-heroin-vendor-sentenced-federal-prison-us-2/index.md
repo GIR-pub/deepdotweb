@@ -1,7 +1,7 @@
 ---
 Jamaican Dark Net Heroin Vendor Sentenced To Federal Prison In The US
 ---
-<article class="post-listing post-19930 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-federal tag-heroin tag-jamaican tag-net tag-prison tag-sentenced tag-vendor">
+<article class="post-listing post-19930 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-federal tag-heroin tag-jamaican tag-net tag-prison tag-sentenced tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 17, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Norway Busted Massive a Darknet Child Porn Ring and Seized 150TB of Pictures and Videos
 ---
-<article class="post-listing post-16642 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-150tb tag-busted tag-child tag-darknet tag-massive tag-norway tag-pictures tag-porn tag-ring tag-seized tag-videos">
+<article class="post-listing post-16642 post type-post status-publish format-standard has-post-thumbnail hentry  tag-150tb tag-busted tag-child tag-darknet tag-massive tag-norway tag-pictures tag-porn tag-ring tag-seized tag-videos">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 29, 2016</span>

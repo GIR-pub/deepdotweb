@@ -1,7 +1,7 @@
 ---
 Black market Reloaded Forum Seized In Iran
 ---
-<article class="post-listing post-4177 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-black tag-forum tag-market tag-reloaded tag-seized">
+<article class="post-listing post-4177 post type-post status-publish format-standard has-post-thumbnail hentry  tag-black tag-forum tag-market tag-reloaded tag-seized">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 13, 2014</span>

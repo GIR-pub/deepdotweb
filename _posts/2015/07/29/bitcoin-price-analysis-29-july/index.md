@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Analysis 29 July
 ---
-<article class="post-listing post-11146 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1995 tag-analysis tag-bitcoin tag-july tag-price">
+<article class="post-listing post-11146 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1995 tag-analysis tag-bitcoin tag-july tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>July 29, 2015</span>

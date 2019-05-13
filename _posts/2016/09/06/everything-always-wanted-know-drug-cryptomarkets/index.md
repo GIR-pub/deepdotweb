@@ -1,7 +1,7 @@
 ---
 Everything You Always Wanted to Know About Drug Cryptomarkets
 ---
-<article class="post-listing post-15362 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cryptomarkets tag-drug tag-wanted">
+<article class="post-listing post-15362 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptomarkets tag-drug tag-wanted">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 6, 2016</span>

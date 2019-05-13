@@ -1,7 +1,7 @@
 ---
 Dutch Hospitals Report a Data Breach Almost Every Day
 ---
-<article class="post-listing post-16823 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-breach tag-data tag-day tag-dutch tag-hospitals tag-report">
+<article class="post-listing post-16823 post type-post status-publish format-standard has-post-thumbnail hentry  tag-breach tag-data tag-day tag-dutch tag-hospitals tag-report">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Court Documents Confirm CMU Paid By Government In Tor Attacks
 ---
-<article class="post-listing post-13337 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attacks tag-cmu tag-confirm tag-court tag-documents tag-government tag-paid tag-tor">
+<article class="post-listing post-13337 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-cmu tag-confirm tag-court tag-documents tag-government tag-paid tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>February 28, 2016</span>

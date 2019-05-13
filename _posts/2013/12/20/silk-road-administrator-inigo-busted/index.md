@@ -1,7 +1,7 @@
 ---
 title: Silk Road Administrator &#8220;Inigo&#8221; Busted?!
 ---
-2757 category-deepdot-news category-news-updates tag-administrator tag-busted tag-inigo tag-road tag-silk">
+2757  tag-administrator tag-busted tag-inigo tag-road tag-silk">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 20, 2013</span>

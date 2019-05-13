@@ -1,7 +1,7 @@
 ---
 Vendor &#8220;Caligirl&#8221; Busted: Charged With Selling Drugs On Silk Road &#038; Bitmessage
 ---
-<article class="post-listing post-5856 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitmessage tag-busted tag-caligirl tag-charged tag-controlled tag-illegally tag-road tag-selling tag-silk tag-substances tag-vendor">
+<article class="post-listing post-5856 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitmessage tag-busted tag-caligirl tag-charged tag-controlled tag-illegally tag-road tag-selling tag-silk tag-substances tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 31, 2014</span>

@@ -1,7 +1,7 @@
 ---
 Bitcoin Price analysis 23rd September
 ---
-<article class="post-listing post-11588 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-23rd tag-analysis tag-bitcoin tag-price tag-september">
+<article class="post-listing post-11588 post type-post status-publish format-standard has-post-thumbnail hentry  tag-23rd tag-analysis tag-bitcoin tag-price tag-september">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>September 23, 2015</span>

@@ -1,7 +1,7 @@
 ---
 British Woman Overdosed On N-bomb – Thought It Was Cocaine
 ---
-<article class="post-listing post-21027 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-british tag-cocaine tag-nbomb tag-overdosed tag-thought tag-woman">
+<article class="post-listing post-21027 post type-post status-publish format-standard has-post-thumbnail hentry  tag-british tag-cocaine tag-nbomb tag-overdosed tag-thought tag-woman">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 2, 2017</span>

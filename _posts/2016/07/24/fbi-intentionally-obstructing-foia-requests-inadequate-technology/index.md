@@ -1,7 +1,7 @@
 ---
 FBI Intentionally Obstructing FOIA Requests
 ---
-<article class="post-listing post-14893 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fbi tag-foia tag-inadequate tag-intentionally tag-obstructing tag-requests tag-technology">
+<article class="post-listing post-14893 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-foia tag-inadequate tag-intentionally tag-obstructing tag-requests tag-technology">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 24, 2016</span>

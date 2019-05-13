@@ -1,7 +1,7 @@
 ---
 6 Nigerian Sentenced in $40 million fraud scheme
 ---
-<article class="post-listing post-15478 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3727 tag-fraud tag-million tag-nigerian tag-scheme tag-sentenced">
+<article class="post-listing post-15478 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3727 tag-fraud tag-million tag-nigerian tag-scheme tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/joewebber/" title="">Joe Webber </a></span>
     <span>September 18, 2016</span>

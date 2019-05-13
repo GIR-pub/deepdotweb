@@ -1,7 +1,7 @@
 ---
 title: BlueSky Marketplace Scam Attempt Warning
 ---
-3015 category-deepdot-news category-news-updates tag-attempt tag-bluesky tag-market tag-scam tag-warning">
+3015  tag-attempt tag-bluesky tag-market tag-scam tag-warning">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 30, 2013</span>

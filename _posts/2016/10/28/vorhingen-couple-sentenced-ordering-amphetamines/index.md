@@ -1,7 +1,7 @@
 ---
 Vörhingen Couple Sentenced For Ordering Amphetamines
 ---
-<article class="post-listing post-16140 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-amphetamines tag-couple tag-ordering tag-sentenced tag-vorhingen">
+<article class="post-listing post-16140 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amphetamines tag-couple tag-ordering tag-sentenced tag-vorhingen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 28, 2016</span>

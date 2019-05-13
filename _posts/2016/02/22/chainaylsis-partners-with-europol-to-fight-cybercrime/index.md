@@ -1,7 +1,7 @@
 ---
 Chainaylsis Partners With Europol To Fight Cybercrime
 ---
-<article class="post-listing post-13303 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-chainaylsis tag-cybercrime tag-europol tag-fight tag-partners">
+<article class="post-listing post-13303 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chainaylsis tag-cybercrime tag-europol tag-fight tag-partners">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 22, 2016</span>

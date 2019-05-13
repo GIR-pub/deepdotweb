@@ -1,7 +1,7 @@
 ---
 Freedom Hosting: High Court grants extradition of Irishman to US
 ---
-<article class="post-listing post-12661 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-extradited tag-freedom tag-hosting">
+<article class="post-listing post-12661 post type-post status-publish format-standard has-post-thumbnail hentry  tag-extradited tag-freedom tag-hosting">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>December 19, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Hackfest Speeds Up Development for Next Generation Onion Services
 ---
-<article class="post-listing post-14366 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-development tag-generation tag-hackfest tag-onion tag-services tag-speeds">
+<article class="post-listing post-14366 post type-post status-publish format-standard has-post-thumbnail hentry  tag-development tag-generation tag-hackfest tag-onion tag-services tag-speeds">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>June 2, 2016</span>

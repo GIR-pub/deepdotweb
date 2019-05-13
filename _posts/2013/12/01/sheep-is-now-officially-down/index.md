@@ -4,7 +4,7 @@ title: Sheep is down
 title: ---
 title: Sheep Is now Officially Down!
 ---
-2218 category-deepdot-news category-news-updates tag-officially tag-sheep">
+2218  tag-officially tag-sheep">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 1, 2013</span>

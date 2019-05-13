@@ -1,7 +1,7 @@
 ---
 Bitcoin Sites Blocked by Russia in Avoidance of Shadow Economy Rise
 ---
-<article class="post-listing post-8793 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-avoidance tag-bitcoin tag-blocked tag-economy tag-rise tag-russia tag-shadow tag-sites">
+<article class="post-listing post-8793 post type-post status-publish format-standard has-post-thumbnail hentry  tag-avoidance tag-bitcoin tag-blocked tag-economy tag-rise tag-russia tag-shadow tag-sites">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 14, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Europol Report: Ransomware Presenting The Biggest Cyber Threat
 ---
-<article class="post-listing post-15701 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-biggest tag-cyber tag-europol tag-presenting tag-ransomware tag-report tag-threat">
+<article class="post-listing post-15701 post type-post status-publish format-standard has-post-thumbnail hentry  tag-biggest tag-cyber tag-europol tag-presenting tag-ransomware tag-report tag-threat">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 6, 2016</span>

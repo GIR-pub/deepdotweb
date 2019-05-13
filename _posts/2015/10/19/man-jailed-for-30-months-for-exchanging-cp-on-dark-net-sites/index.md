@@ -1,7 +1,7 @@
 ---
 Man Jailed For 30 Months For Exchanging CP On Dark Net Sites
 ---
-<article class="post-listing post-11814 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1778 tag-child tag-dark tag-exchanging tag-exminster tag-jailed tag-man tag-months tag-net tag-porn tag-sites">
+<article class="post-listing post-11814 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1778 tag-child tag-dark tag-exchanging tag-exminster tag-jailed tag-man tag-months tag-net tag-porn tag-sites">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>October 19, 2015</span>

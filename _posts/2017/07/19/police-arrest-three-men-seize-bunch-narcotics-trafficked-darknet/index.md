@@ -1,7 +1,7 @@
 ---
 Police Arrest Three Men and Seize Bunch of Narcotics Trafficked From Darknet
 ---
-<article class="post-listing post-21416 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-bunch tag-darknet tag-men tag-narcotics tag-police tag-seize tag-trafficked">
+<article class="post-listing post-21416 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-bunch tag-darknet tag-men tag-narcotics tag-police tag-seize tag-trafficked">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>July 19, 2017</span>

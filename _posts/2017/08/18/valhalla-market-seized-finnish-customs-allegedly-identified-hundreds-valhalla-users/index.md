@@ -1,7 +1,7 @@
 ---
 Valhalla Market Compromised: Finnish Customs Allegedly Identified Hundreds of Valhalla Users
 ---
-<article class="post-listing post-22057 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-allegedly tag-customs tag-hundreds tag-identified tag-market tag-seizedfinnish tag-users tag-valhalla">
+<article class="post-listing post-22057 post type-post status-publish format-standard has-post-thumbnail hentry  tag-allegedly tag-customs tag-hundreds tag-identified tag-market tag-seizedfinnish tag-users tag-valhalla">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 18, 2017</span>

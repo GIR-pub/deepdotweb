@@ -1,7 +1,7 @@
 ---
 Bitcoin news round-up 07.07.2014
 ---
-<article class="post-listing post-6359 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1800 tag-bitcoin tag-news tag-roundup">
+<article class="post-listing post-6359 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1800 tag-bitcoin tag-news tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 7, 2014</span>

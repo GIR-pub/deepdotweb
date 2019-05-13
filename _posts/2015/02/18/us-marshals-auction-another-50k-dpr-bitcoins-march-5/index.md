@@ -1,7 +1,7 @@
 ---
 US Marshals to Auction Another 50k DPR Bitcoins on March 5
 ---
-<article class="post-listing post-9130 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-50k tag-auction tag-bitcoins tag-dpr tag-march tag-marshals">
+<article class="post-listing post-9130 post type-post status-publish format-standard has-post-thumbnail hentry  tag-50k tag-auction tag-bitcoins tag-dpr tag-march tag-marshals">
     
 <div class="post-inner">
     

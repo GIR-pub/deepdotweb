@@ -1,7 +1,7 @@
 ---
 New Law In The Netherlands Would Allow Authorities To Hack Cybercriminals
 ---
-<article class="post-listing post-17193 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-authorities tag-cybercriminals tag-hack tag-law tag-netherlands">
+<article class="post-listing post-17193 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authorities tag-cybercriminals tag-hack tag-law tag-netherlands">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 28, 2016</span>

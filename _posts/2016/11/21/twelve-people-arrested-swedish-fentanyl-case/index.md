@@ -1,7 +1,7 @@
 ---
 Twelve People Arrested In Swedish Fentanyl Case
 ---
-<article class="post-listing post-16510 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-fentanyl tag-people tag-swedish tag-twelve">
+<article class="post-listing post-16510 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-fentanyl tag-people tag-swedish tag-twelve">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 21, 2016</span>

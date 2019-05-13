@@ -1,7 +1,7 @@
 ---
 Two Germans Arrested for Selling Fake Euros on the Darknet
 ---
-<article class="post-listing post-16703 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-euros tag-fake tag-germans tag-selling">
+<article class="post-listing post-16703 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-euros tag-fake tag-germans tag-selling">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 2, 2016</span>

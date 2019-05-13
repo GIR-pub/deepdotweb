@@ -1,7 +1,7 @@
 ---
 One of Two Dark Web Drug Dealers Arrested Is a Freelance Journalist
 ---
-<article class="post-listing post-23563 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-dealers tag-drug tag-freelance tag-journalist tag-web">
+<article class="post-listing post-23563 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-dealers tag-drug tag-freelance tag-journalist tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>November 18, 2017</span>

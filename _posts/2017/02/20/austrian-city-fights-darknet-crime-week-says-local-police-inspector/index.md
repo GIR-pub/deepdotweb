@@ -1,7 +1,7 @@
 ---
 An Austrian City Fights Darknet Crime Once a Week, Says Local Police Inspector
 ---
-<article class="post-listing post-18245 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-austrian tag-city tag-crime tag-darknet tag-fights tag-inspector tag-local tag-police tag-week">
+<article class="post-listing post-18245 post type-post status-publish format-standard has-post-thumbnail hentry  tag-austrian tag-city tag-crime tag-darknet tag-fights tag-inspector tag-local tag-police tag-week">
     
     <div class="post-inner">
     

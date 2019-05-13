@@ -1,7 +1,7 @@
 ---
 Australian Vendor Busted by New Darknet Taskforce
 ---
-<article class="post-listing post-21382 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australian tag-busted tag-darknet tag-taskforce tag-vendor">
+<article class="post-listing post-21382 post type-post status-publish format-standard has-post-thumbnail hentry  tag-australian tag-busted tag-darknet tag-taskforce tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 17, 2017</span>

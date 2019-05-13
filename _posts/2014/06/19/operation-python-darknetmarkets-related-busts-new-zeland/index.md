@@ -1,7 +1,7 @@
 ---
 Operation Python: DarkNetMarkets Related Busts In New Zeland
 ---
-<article class="post-listing post-6108 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busts tag-darknetmarkets tag-operation tag-python tag-related tag-zeland">
+<article class="post-listing post-6108 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busts tag-darknetmarkets tag-operation tag-python tag-related tag-zeland">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 19, 2014</span>

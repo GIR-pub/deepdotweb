@@ -1,7 +1,7 @@
 ---
 German TV show gets scammed trying to buy an AK47 on the DarkNet
 ---
-<article class="post-listing post-14134 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-ak47 tag-buy tag-darknet tag-german tag-scammed tag-show tag-tv">
+<article class="post-listing post-14134 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ak47 tag-buy tag-darknet tag-german tag-scammed tag-show tag-tv">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 20, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Law Enforcement Looks Into Islamic Preachers Spreading Instigating Videos on Darknet
 ---
-<article class="post-listing post-17770 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-enforcement tag-instigating tag-islamic tag-law tag-preachers tag-spreading tag-videos">
+<article class="post-listing post-17770 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-enforcement tag-instigating tag-islamic tag-law tag-preachers tag-spreading tag-videos">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 27, 2017</span>

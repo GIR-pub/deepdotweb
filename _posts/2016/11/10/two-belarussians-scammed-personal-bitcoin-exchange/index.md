@@ -1,7 +1,7 @@
 ---
 Two Belarussians Scammed In Personal Bitcoin Exchange
 ---
-<article class="post-listing post-16363 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-belarussians tag-bitcoin tag-exchange tag-personal tag-scammed">
+<article class="post-listing post-16363 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belarussians tag-bitcoin tag-exchange tag-personal tag-scammed">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 10, 2016</span>

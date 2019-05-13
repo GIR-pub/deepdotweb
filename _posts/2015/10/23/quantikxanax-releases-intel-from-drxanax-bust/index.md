@@ -1,7 +1,7 @@
 ---
 QuantikXanax Releases Intel from DrXanax Bust
 ---
-<article class="post-listing post-11839 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bust tag-drxanax tag-intel tag-quantikxanax tag-releases">
+<article class="post-listing post-11839 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-drxanax tag-intel tag-quantikxanax tag-releases">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/chrismccandless/" title="">Chris McCandless </a></span>
 <span>October 23, 2015</span>

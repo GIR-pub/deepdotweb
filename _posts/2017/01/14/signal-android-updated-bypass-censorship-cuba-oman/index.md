@@ -1,7 +1,7 @@
 ---
 Signal for Android Updated to Bypass Censorship in Cuba and Oman
 ---
-<article class="post-listing post-17490 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-android tag-bypass tag-censorship tag-cuba tag-oman tag-signal tag-updated">
+<article class="post-listing post-17490 post type-post status-publish format-standard has-post-thumbnail hentry  tag-android tag-bypass tag-censorship tag-cuba tag-oman tag-signal tag-updated">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 14, 2017</span>

@@ -1,7 +1,7 @@
 ---
 22-year-old German Bought Ingredients To Set Up Dark Net Store
 ---
-<article class="post-listing post-17192 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-22yearold tag-bought tag-dark tag-german tag-ingredients tag-net tag-set tag-store">
+<article class="post-listing post-17192 post type-post status-publish format-standard has-post-thumbnail hentry  tag-22yearold tag-bought tag-dark tag-german tag-ingredients tag-net tag-set tag-store">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 28, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Monero Hard Fork Coming Soon
 ---
-<article class="post-listing post-15485 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-coming tag-fork tag-hard tag-monero">
+<article class="post-listing post-15485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coming tag-fork tag-hard tag-monero">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>September 19, 2016</span>

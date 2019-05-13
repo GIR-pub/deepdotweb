@@ -1,7 +1,7 @@
 ---
 Darkleaks: Black Market for Secrets
 ---
-<article class="post-listing post-8963 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-black tag-darkleaks tag-market tag-secrets">
+<article class="post-listing post-8963 post type-post status-publish format-standard has-post-thumbnail hentry  tag-black tag-darkleaks tag-market tag-secrets">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 4, 2015</span>

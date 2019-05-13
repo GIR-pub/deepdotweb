@@ -1,7 +1,7 @@
 ---
 The First Ever r/DarkNetMarkets Meetup!
 ---
-<article class="post-listing post-9812 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-meetup tag-rdarknetmarkets">
+<article class="post-listing post-9812 post type-post status-publish format-standard has-post-thumbnail hentry  tag-meetup tag-rdarknetmarkets">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 1, 2015</span>

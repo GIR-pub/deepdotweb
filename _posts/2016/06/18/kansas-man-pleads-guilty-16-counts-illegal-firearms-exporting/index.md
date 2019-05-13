@@ -1,7 +1,7 @@
 ---
 Kansas Man Pleads Guilty to 16 Counts of Illegal Firearms Exporting
 ---
-<article class="post-listing post-14528 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1887 tag-counts tag-exporting tag-firearms tag-guilty tag-illegal tag-kansas tag-man tag-pleads">
+<article class="post-listing post-14528 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-counts tag-exporting tag-firearms tag-guilty tag-illegal tag-kansas tag-man tag-pleads">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>June 18, 2016</span>

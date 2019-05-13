@@ -1,7 +1,7 @@
 ---
 Police Catch Three Members of Darknet Drug Trafficking Group
 ---
-<article class="post-listing post-18915 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-catch tag-darknet tag-drug tag-group tag-members tag-police tag-trafficking">
+<article class="post-listing post-18915 post type-post status-publish format-standard has-post-thumbnail hentry  tag-catch tag-darknet tag-drug tag-group tag-members tag-police tag-trafficking">
     
     <div class="post-inner">
     

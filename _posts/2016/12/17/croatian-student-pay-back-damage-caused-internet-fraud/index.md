@@ -1,7 +1,7 @@
 ---
 Croatian Student Has To Pay Back The Damage He Caused With Internet Fraud
 ---
-<article class="post-listing post-16970 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-caused tag-croatian tag-damage tag-fraud tag-internet tag-pay tag-student">
+<article class="post-listing post-16970 post type-post status-publish format-standard has-post-thumbnail hentry  tag-caused tag-croatian tag-damage tag-fraud tag-internet tag-pay tag-student">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 17, 2016</span>

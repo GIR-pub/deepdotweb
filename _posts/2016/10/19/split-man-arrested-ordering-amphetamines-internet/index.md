@@ -1,7 +1,7 @@
 ---
 Split Man Arrested For Ordering Amphetamines From The Internet
 ---
-<article class="post-listing post-15944 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-amphetamines tag-internet tag-man tag-ordering tag-split">
+<article class="post-listing post-15944 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amphetamines tag-internet tag-man tag-ordering tag-split">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 19, 2016</span>

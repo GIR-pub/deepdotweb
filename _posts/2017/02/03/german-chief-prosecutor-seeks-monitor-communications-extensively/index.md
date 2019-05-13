@@ -1,7 +1,7 @@
 ---
 German Chief Prosecutor Seeks To Monitor Communications More Extensively
 ---
-<article class="post-listing post-17958 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-chief tag-communications tag-extensively tag-german tag-monitor tag-prosecutor tag-seeks">
+<article class="post-listing post-17958 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chief tag-communications tag-extensively tag-german tag-monitor tag-prosecutor tag-seeks">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 3, 2017</span>

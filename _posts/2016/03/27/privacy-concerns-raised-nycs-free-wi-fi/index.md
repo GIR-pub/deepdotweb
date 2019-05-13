@@ -1,7 +1,7 @@
 ---
 Privacy Concerns Raised Over NYC&#8217;s Free Wi-Fi
 ---
-<article class="post-listing post-13579 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-concerns tag-free tag-nycs tag-privacy tag-raised tag-wifi">
+<article class="post-listing post-13579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-concerns tag-free tag-nycs tag-privacy tag-raised tag-wifi">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 27, 2016</span>

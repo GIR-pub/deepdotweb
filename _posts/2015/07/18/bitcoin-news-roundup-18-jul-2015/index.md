@@ -1,7 +1,7 @@
 ---
 Bitcoin News Roundup – 18 Jul.2015
 ---
-<article class="post-listing post-11090 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1766 tag-bitcoin tag-jul2015 tag-news tag-roundup">
+<article class="post-listing post-11090 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1766 tag-bitcoin tag-jul2015 tag-news tag-roundup">
     
     <div class="post-inner">
     

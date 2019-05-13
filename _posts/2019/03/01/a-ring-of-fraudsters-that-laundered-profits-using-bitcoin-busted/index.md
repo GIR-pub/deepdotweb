@@ -1,7 +1,7 @@
 ---
 A Ring of Fraudsters that Laundered Profits Using Bitcoin Busted
 ---
-<article class="post-listing post-28479 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-busted tag-fraudsters tag-laundered tag-profits tag-ring">
+<article class="post-listing post-28479 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-busted tag-fraudsters tag-laundered tag-profits tag-ring">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
     <span>March 1, 2019</span>

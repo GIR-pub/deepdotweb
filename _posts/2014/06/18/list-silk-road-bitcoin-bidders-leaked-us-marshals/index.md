@@ -1,7 +1,7 @@
 ---
 List of Silk Road Bitcoin Bidders Leaked by US Marshals
 ---
-<article class="post-listing post-6100 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bidders tag-bitcoin tag-leaked tag-list tag-marshals tag-road tag-silk">
+<article class="post-listing post-6100 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bidders tag-bitcoin tag-leaked tag-list tag-marshals tag-road tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 18, 2014</span>

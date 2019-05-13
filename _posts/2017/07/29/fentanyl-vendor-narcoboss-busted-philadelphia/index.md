@@ -1,7 +1,7 @@
 ---
 Fentanyl Vendor “NarcoBoss” Busted in Philadelphia
 ---
-<article class="post-listing post-21617 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-fentanyl tag-narcoboss tag-philadelphia tag-vendor">
+<article class="post-listing post-21617 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-fentanyl tag-narcoboss tag-philadelphia tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 29, 2017</span>

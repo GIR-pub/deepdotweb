@@ -1,7 +1,7 @@
 ---
 UK Might Use Drones in Retaliation to Cyberattacks
 ---
-<article class="post-listing post-21360 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cyberattacks tag-drones tag-retaliation tag-uk">
+<article class="post-listing post-21360 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cyberattacks tag-drones tag-retaliation tag-uk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 16, 2017</span>

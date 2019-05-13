@@ -1,7 +1,7 @@
 ---
 German Standing Trial For Ordering Three Guns From The Dark Web
 ---
-<article class="post-listing post-19329 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-german tag-guns tag-ordering tag-standing tag-trial tag-web">
+<article class="post-listing post-19329 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-german tag-guns tag-ordering tag-standing tag-trial tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 22, 2017</span>

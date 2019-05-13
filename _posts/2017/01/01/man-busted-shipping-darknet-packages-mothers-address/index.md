@@ -1,7 +1,7 @@
 ---
 Man Busted for Shipping Darknet Packages to His Mother’s Address
 ---
-<article class="post-listing post-17262 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-address tag-busted tag-darknet tag-man tag-mothers tag-packages tag-shipping">
+<article class="post-listing post-17262 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-busted tag-darknet tag-man tag-mothers tag-packages tag-shipping">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 1, 2017</span>

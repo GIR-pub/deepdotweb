@@ -1,7 +1,7 @@
 ---
 German Federal Police Investigated 600 DNM Users Since 2015, Source Says
 ---
-<article class="post-listing post-16475 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2524 tag-4519 tag-dnm tag-federal tag-german tag-investigated tag-police tag-source tag-users">
+<article class="post-listing post-16475 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-4519 tag-dnm tag-federal tag-german tag-investigated tag-police tag-source tag-users">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 20, 2016</span>

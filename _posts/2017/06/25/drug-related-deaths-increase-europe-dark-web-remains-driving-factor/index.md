@@ -1,7 +1,7 @@
 ---
 Drug-Related Deaths Increase in Europe, Dark Web Remains Driving Factor
 ---
-<article class="post-listing post-20876 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-deaths tag-driving tag-drugrelated tag-europe tag-factor tag-increase tag-remains tag-web">
+<article class="post-listing post-20876 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-deaths tag-driving tag-drugrelated tag-europe tag-factor tag-increase tag-remains tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>June 25, 2017</span>

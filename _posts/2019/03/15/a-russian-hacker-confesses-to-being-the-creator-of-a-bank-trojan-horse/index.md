@@ -1,7 +1,7 @@
 ---
 A Russian Hacker Confesses to Being the Creator of a Bank Trojan Horse
 ---
-<article class="post-listing post-28634 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bank tag-confesses tag-creator tag-hacker tag-horse tag-russian tag-trojan">
+<article class="post-listing post-28634 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bank tag-confesses tag-creator tag-hacker tag-horse tag-russian tag-trojan">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/steve_bale/" title="">Steve_Bale </a></span>
     <span>March 15, 2019</span>

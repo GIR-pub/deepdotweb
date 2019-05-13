@@ -1,7 +1,7 @@
 ---
 US Attorney&#8217;s Office in Colorado Preparing to Prosecute Darknet and Bitcoin Crimes
 ---
-<article class="post-listing post-18242 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attorneys tag-bitcoin tag-colorado tag-crimes tag-darknet tag-office tag-preparing tag-prosecute">
+<article class="post-listing post-18242 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attorneys tag-bitcoin tag-colorado tag-crimes tag-darknet tag-office tag-preparing tag-prosecute">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 20, 2017</span>

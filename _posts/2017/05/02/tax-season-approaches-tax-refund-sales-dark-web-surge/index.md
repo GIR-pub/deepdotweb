@@ -1,7 +1,7 @@
 ---
 As Tax Season Approaches, Tax Refund Sales on Dark Web Surge
 ---
-<article class="post-listing post-19583 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-approaches tag-dark tag-refund tag-sales tag-season tag-surge tag-tax tag-web">
+<article class="post-listing post-19583 post type-post status-publish format-standard has-post-thumbnail hentry  tag-approaches tag-dark tag-refund tag-sales tag-season tag-surge tag-tax tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 2, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Vendor &#8216;SuperTrips,&#8217; Sentenced To 10 Years
 ---
-<article class="post-listing post-10479 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-545 tag-sentenced tag-supertrips tag-vendor tag-years">
+<article class="post-listing post-10479 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-sentenced tag-supertrips tag-vendor tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 29, 2015</span>

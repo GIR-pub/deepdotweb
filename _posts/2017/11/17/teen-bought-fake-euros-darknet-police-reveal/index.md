@@ -1,7 +1,7 @@
 ---
 Teen Bought Fake Euros From the Darknet, Police Reveal
 ---
-<article class="post-listing post-23553 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bought tag-darknet tag-euros tag-fake tag-police tag-reveal tag-teen">
+<article class="post-listing post-23553 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bought tag-darknet tag-euros tag-fake tag-police tag-reveal tag-teen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 17, 2017</span>

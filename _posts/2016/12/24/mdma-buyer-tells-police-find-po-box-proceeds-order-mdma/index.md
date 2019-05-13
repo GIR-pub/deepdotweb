@@ -1,7 +1,7 @@
 ---
 MDMA Buyer Tells Police Where to Find His PO Box, Proceeds to Order More MDMA
 ---
-<article class="post-listing post-17123 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-box tag-buyer tag-find tag-mdma tag-order tag-po tag-police tag-proceeds tag-tells">
+<article class="post-listing post-17123 post type-post status-publish format-standard has-post-thumbnail hentry  tag-box tag-buyer tag-find tag-mdma tag-order tag-po tag-police tag-proceeds tag-tells">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 24, 2016</span>

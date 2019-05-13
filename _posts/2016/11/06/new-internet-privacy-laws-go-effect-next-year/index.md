@@ -1,7 +1,7 @@
 ---
 New Internet Privacy Laws Go Into Effect Next Year
 ---
-<article class="post-listing post-16286 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-effect tag-internet tag-laws tag-privacy tag-year">
+<article class="post-listing post-16286 post type-post status-publish format-standard has-post-thumbnail hentry  tag-effect tag-internet tag-laws tag-privacy tag-year">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>November 6, 2016</span>

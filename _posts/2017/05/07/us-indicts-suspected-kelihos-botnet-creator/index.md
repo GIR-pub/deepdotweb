@@ -1,7 +1,7 @@
 ---
 US Indicts Suspected Kelihos Botnet Creator
 ---
-<article class="post-listing post-19682 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-botnet tag-creator tag-indicts tag-kelihos tag-suspected">
+<article class="post-listing post-19682 post type-post status-publish format-standard has-post-thumbnail hentry  tag-botnet tag-creator tag-indicts tag-kelihos tag-suspected">
     
     <div class="post-inner">
     

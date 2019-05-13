@@ -1,7 +1,7 @@
 ---
 Willy.Clock: Deported from Uganda to Face Counterfeiting Charges
 ---
-<article class="post-listing post-12525 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charges tag-counterfeiting tag-deported tag-face tag-uganda tag-willyclock">
+<article class="post-listing post-12525 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-counterfeiting tag-deported tag-face tag-uganda tag-willyclock">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 10, 2015</span>

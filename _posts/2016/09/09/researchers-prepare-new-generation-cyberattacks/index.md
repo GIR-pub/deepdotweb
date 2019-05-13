@@ -1,7 +1,7 @@
 ---
 Researchers Prepare for a New Generation of Cyberattacks
 ---
-<article class="post-listing post-15378 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-building tag-cyberattacks tag-generation tag-prepare tag-researchers tag-tor">
+<article class="post-listing post-15378 post type-post status-publish format-standard has-post-thumbnail hentry  tag-building tag-cyberattacks tag-generation tag-prepare tag-researchers tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 9, 2016</span>

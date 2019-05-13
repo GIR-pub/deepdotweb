@@ -1,7 +1,7 @@
 ---
 RCMP: China Might Not Help With North America Carfentanil Problem
 ---
-<article class="post-listing post-16714 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-america tag-carfentanil tag-china tag-north tag-problem tag-rcmp">
+<article class="post-listing post-16714 post type-post status-publish format-standard has-post-thumbnail hentry  tag-america tag-carfentanil tag-china tag-north tag-problem tag-rcmp">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 3, 2016</span>

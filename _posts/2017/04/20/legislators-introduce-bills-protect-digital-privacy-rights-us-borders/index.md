@@ -1,7 +1,7 @@
 ---
 Legislators Introduce Bills to Protect Digital Privacy Rights at US Borders
 ---
-<article class="post-listing post-19290 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bills tag-borders tag-digital tag-introduce tag-legislators tag-privacy tag-protect tag-rights">
+<article class="post-listing post-19290 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bills tag-borders tag-digital tag-introduce tag-legislators tag-privacy tag-protect tag-rights">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>April 20, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Ross Ulbricht indicted for Silk Road narcotics trafficking &#038; Hacking
 ---
-<article class="post-listing post-3853 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-hacking tag-indicted tag-narcotics tag-road tag-ross tag-silk tag-trafficking tag-ulbricht">
+<article class="post-listing post-3853 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacking tag-indicted tag-narcotics tag-road tag-ross tag-silk tag-trafficking tag-ulbricht">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 5, 2014</span>

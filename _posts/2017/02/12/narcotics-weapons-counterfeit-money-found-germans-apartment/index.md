@@ -1,7 +1,7 @@
 ---
 Narcotics, Weapons, And Counterfeit Money Found In German’s Apartment
 ---
-<article class="post-listing post-18091 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-apartment tag-counterfeit tag-germans tag-money tag-narcotics tag-weapons">
+<article class="post-listing post-18091 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apartment tag-counterfeit tag-germans tag-money tag-narcotics tag-weapons">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 12, 2017</span>

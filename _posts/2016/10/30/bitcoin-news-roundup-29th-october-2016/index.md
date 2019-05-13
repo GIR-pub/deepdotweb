@@ -1,7 +1,7 @@
 ---
 Bitcoin news roundup 29th October 2016
 ---
-<article class="post-listing post-16213 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-29th tag-bitcoin tag-news tag-october tag-roundup">
+<article class="post-listing post-16213 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3336 tag-29th tag-bitcoin tag-news tag-october tag-roundup">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>October 30, 2016</span>

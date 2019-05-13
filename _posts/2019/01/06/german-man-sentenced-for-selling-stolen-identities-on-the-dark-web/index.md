@@ -1,7 +1,7 @@
 ---
 German Man Sentenced for Selling Stolen Identities on the Dark Web
 ---
-<article class="post-listing post-27977 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-german tag-identities tag-man tag-selling tag-sentenced tag-stolen tag-web">
+<article class="post-listing post-27977 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-german tag-identities tag-man tag-selling tag-sentenced tag-stolen tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 6, 2019</span>

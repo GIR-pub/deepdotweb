@@ -1,7 +1,7 @@
 ---
 Corrupt Fed’s “Frivolous” Appeal Denied in Silk Road Case
 ---
-<article class="post-listing post-20666 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-appeal tag-case tag-corrupt tag-denied tag-feds tag-frivolous tag-road tag-silk">
+<article class="post-listing post-20666 post type-post status-publish format-standard has-post-thumbnail hentry  tag-appeal tag-case tag-corrupt tag-denied tag-feds tag-frivolous tag-road tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 16, 2017</span>

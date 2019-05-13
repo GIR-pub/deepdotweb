@@ -1,7 +1,7 @@
 ---
 Police Found Child Porn on the Laptop of a Counterfeit Euro Buyer
 ---
-<article class="post-listing post-17106 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buyer tag-child tag-counterfeit tag-euro tag-laptop tag-police tag-porn">
+<article class="post-listing post-17106 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyer tag-child tag-counterfeit tag-euro tag-laptop tag-police tag-porn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 25, 2016</span>

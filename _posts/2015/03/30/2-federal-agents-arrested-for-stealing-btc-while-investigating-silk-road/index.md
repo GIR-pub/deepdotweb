@@ -1,7 +1,7 @@
 ---
 2 Federal Agents Arrested For Stealing BTC While Investigating Silk Road
 ---
-<article class="post-listing post-9783 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agents tag-btc tag-federal tag-investigating tag-road tag-silk tag-stealing">
+<article class="post-listing post-9783 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agents tag-btc tag-federal tag-investigating tag-road tag-silk tag-stealing">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 30, 2015</span>

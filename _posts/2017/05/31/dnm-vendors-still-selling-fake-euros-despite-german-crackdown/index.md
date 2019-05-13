@@ -1,7 +1,7 @@
 ---
 DNM Vendors Still Selling Fake Euros, Despite German Crackdown
 ---
-<article class="post-listing post-20245 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crackdown tag-dnm tag-euros tag-fake tag-german tag-selling tag-vendors">
+<article class="post-listing post-20245 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crackdown tag-dnm tag-euros tag-fake tag-german tag-selling tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 31, 2017</span>

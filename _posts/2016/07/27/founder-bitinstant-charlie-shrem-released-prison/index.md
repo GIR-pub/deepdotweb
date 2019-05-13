@@ -1,7 +1,7 @@
 ---
 Founder of BitInstant Charlie Shrem Released from Prison
 ---
-<article class="post-listing post-14925 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitinstant tag-charlie tag-founder tag-prison tag-released tag-shrem">
+<article class="post-listing post-14925 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitinstant tag-charlie tag-founder tag-prison tag-released tag-shrem">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 27, 2016</span>

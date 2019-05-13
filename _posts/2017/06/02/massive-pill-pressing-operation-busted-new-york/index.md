@@ -1,7 +1,7 @@
 ---
 Massive Pill Pressing Operation Busted in New York
 ---
-<article class="post-listing post-20318 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-massive tag-operation tag-pill tag-pressing tag-york">
+<article class="post-listing post-20318 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-massive tag-operation tag-pill tag-pressing tag-york">
     
     <div class="post-inner">
     

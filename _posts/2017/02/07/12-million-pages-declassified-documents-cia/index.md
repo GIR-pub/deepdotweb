@@ -1,7 +1,7 @@
 ---
 12 Million Pages of Declassified Documents From CIA
 ---
-<article class="post-listing post-18016 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2688 tag-cia tag-declassified tag-documents tag-million tag-pages">
+<article class="post-listing post-18016 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-cia tag-declassified tag-documents tag-million tag-pages">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 7, 2017</span>

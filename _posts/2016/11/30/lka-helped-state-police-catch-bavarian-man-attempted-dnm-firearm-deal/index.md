@@ -1,7 +1,7 @@
 ---
 The LKA Helped State Police Catch a Bavarian Man for Attempted DNM Firearm Deal
 ---
-<article class="post-listing post-16655 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempted tag-bavarian tag-catch tag-deal tag-dnm tag-firearm tag-helped tag-lka tag-man tag-police tag-state">
+<article class="post-listing post-16655 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attempted tag-bavarian tag-catch tag-deal tag-dnm tag-firearm tag-helped tag-lka tag-man tag-police tag-state">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 30, 2016</span>

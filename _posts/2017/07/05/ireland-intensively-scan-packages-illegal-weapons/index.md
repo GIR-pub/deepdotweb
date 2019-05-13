@@ -1,7 +1,7 @@
 ---
 Ireland to Intensively Scan Packages for Illegal Weapons
 ---
-<article class="post-listing post-21091 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-illegal tag-intensively tag-ireland tag-packages tag-scan tag-weapons">
+<article class="post-listing post-21091 post type-post status-publish format-standard has-post-thumbnail hentry  tag-illegal tag-intensively tag-ireland tag-packages tag-scan tag-weapons">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 5, 2017</span>

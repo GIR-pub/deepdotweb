@@ -1,7 +1,7 @@
 ---
 Ridge Man Handed 8 Years Prison Sentence for Downloading Child Pornography
 ---
-<article class="post-listing post-24800 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-downloading tag-handed tag-man tag-pornography tag-prison tag-ridge tag-sentence tag-years">
+<article class="post-listing post-24800 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-downloading tag-handed tag-man tag-pornography tag-prison tag-ridge tag-sentence tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>February 13, 2018</span>

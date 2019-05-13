@@ -1,7 +1,7 @@
 ---
 Companies Required to Give Customer Data to Authorities in China’s New Cybersecurity Law
 ---
-<article class="post-listing post-16628 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-authorities tag-chinas tag-companies tag-customer tag-cybersecurity tag-data tag-give tag-law tag-required">
+<article class="post-listing post-16628 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authorities tag-chinas tag-companies tag-customer tag-cybersecurity tag-data tag-give tag-law tag-required">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 28, 2016</span>

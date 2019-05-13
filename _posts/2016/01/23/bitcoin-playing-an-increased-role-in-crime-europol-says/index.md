@@ -1,7 +1,7 @@
 ---
 Bitcoin Playing An Increased Role In Crime, Europol Says
 ---
-<article class="post-listing post-13033 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-crime tag-europol tag-increased tag-playing tag-role">
+<article class="post-listing post-13033 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-crime tag-europol tag-increased tag-playing tag-role">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 23, 2016</span>

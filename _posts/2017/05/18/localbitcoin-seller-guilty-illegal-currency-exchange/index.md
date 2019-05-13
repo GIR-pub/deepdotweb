@@ -1,7 +1,7 @@
 ---
 LocalBitcoin Seller Guilty of Illegal Currency Exchange
 ---
-<article class="post-listing post-19953 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-currency tag-exchange tag-guilty tag-illegal tag-localbitcoin tag-seller">
+<article class="post-listing post-19953 post type-post status-publish format-standard has-post-thumbnail hentry  tag-currency tag-exchange tag-guilty tag-illegal tag-localbitcoin tag-seller">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 18, 2017</span>

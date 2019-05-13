@@ -1,7 +1,7 @@
 ---
 Interpol Claims Illegal Wildlife Trade is Occurring on the Darknet
 ---
-<article class="post-listing post-20983 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-claims tag-darknet tag-illegal tag-interpol tag-occurring tag-trade tag-wildlife">
+<article class="post-listing post-20983 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claims tag-darknet tag-illegal tag-interpol tag-occurring tag-trade tag-wildlife">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>June 30, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Germany Facing Record Levels of Internet Fraud
 ---
-<article class="post-listing post-20208 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-facing tag-fraud tag-germany tag-internet tag-levels tag-record">
+<article class="post-listing post-20208 post type-post status-publish format-standard has-post-thumbnail hentry  tag-facing tag-fraud tag-germany tag-internet tag-levels tag-record">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 29, 2017</span>

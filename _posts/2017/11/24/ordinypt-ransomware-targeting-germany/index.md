@@ -1,7 +1,7 @@
 ---
 Ordinypt Ransomware Targeting Germany
 ---
-<article class="post-listing post-23661 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-germany tag-ordinypt tag-ransomware tag-targeting">
+<article class="post-listing post-23661 post type-post status-publish format-standard has-post-thumbnail hentry  tag-germany tag-ordinypt tag-ransomware tag-targeting">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>November 24, 2017</span>

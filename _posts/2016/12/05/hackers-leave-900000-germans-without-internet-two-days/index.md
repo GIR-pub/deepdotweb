@@ -1,7 +1,7 @@
 ---
 Hackers Leave 900,000 Germans Without Internet for Two Days
 ---
-<article class="post-listing post-16751 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4613 tag-days tag-germans tag-hackers tag-internet tag-leave">
+<article class="post-listing post-16751 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4613 tag-days tag-germans tag-hackers tag-internet tag-leave">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>December 5, 2016</span>

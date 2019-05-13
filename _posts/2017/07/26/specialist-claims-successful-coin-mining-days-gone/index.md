@@ -1,7 +1,7 @@
 ---
 Specialist Claims Successful Coin Mining Days are Gone
 ---
-<article class="post-listing post-21570 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-claims tag-coin tag-days tag-mining tag-specialist tag-successful">
+<article class="post-listing post-21570 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claims tag-coin tag-days tag-mining tag-specialist tag-successful">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 26, 2017</span>

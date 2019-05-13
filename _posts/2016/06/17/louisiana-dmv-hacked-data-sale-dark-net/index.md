@@ -1,7 +1,7 @@
 ---
 Louisiana DMV Hacked, Data for Sale on Dark Net
 ---
-<article class="post-listing post-14517 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-data tag-dmv tag-hacked tag-louisiana tag-net tag-sale">
+<article class="post-listing post-14517 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-data tag-dmv tag-hacked tag-louisiana tag-net tag-sale">
     
     <div class="post-inner">
     

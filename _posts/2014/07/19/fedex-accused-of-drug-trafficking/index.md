@@ -1,7 +1,7 @@
 ---
 FedEx Accused of Drug Trafficking
 ---
-<article class="post-listing post-6526 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accused tag-drug tag-fedex tag-trafficking">
+<article class="post-listing post-6526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accused tag-drug tag-fedex tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 19, 2014</span>

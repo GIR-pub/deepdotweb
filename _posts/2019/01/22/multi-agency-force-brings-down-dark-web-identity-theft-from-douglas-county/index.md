@@ -1,7 +1,7 @@
 ---
 Multi-Agency Force Brings Down Dark Web Identity Theft from Douglas County
 ---
-<article class="post-listing post-28166 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-brings tag-county tag-dark tag-douglas tag-force tag-identity tag-multiagency tag-theft tag-web">
+<article class="post-listing post-28166 post type-post status-publish format-standard has-post-thumbnail hentry  tag-brings tag-county tag-dark tag-douglas tag-force tag-identity tag-multiagency tag-theft tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>January 22, 2019</span>

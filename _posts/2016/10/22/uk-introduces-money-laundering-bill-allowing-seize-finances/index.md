@@ -1,7 +1,7 @@
 ---
 UK Introduces a Money Laundering Bill Allowing Them to Seize Finances
 ---
-<article class="post-listing post-15989 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-allowing tag-bill tag-finances tag-introduces tag-laundering tag-money tag-seize tag-uk">
+<article class="post-listing post-15989 post type-post status-publish format-standard has-post-thumbnail hentry  tag-allowing tag-bill tag-finances tag-introduces tag-laundering tag-money tag-seize tag-uk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 22, 2016</span>

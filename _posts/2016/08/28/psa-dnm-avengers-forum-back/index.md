@@ -1,7 +1,7 @@
 ---
 PSA: DNM Avengers Forum Is Back
 ---
-<article class="post-listing post-15287 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-avengers tag-dnm tag-forum tag-psa">
+<article class="post-listing post-15287 post type-post status-publish format-standard has-post-thumbnail hentry  tag-avengers tag-dnm tag-forum tag-psa">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 28, 2016</span>

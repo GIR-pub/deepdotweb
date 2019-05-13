@@ -1,7 +1,7 @@
 ---
 Vendor SuperTrips Partner &#8211; &#8220;UnderGroundSyndicate&#8221; To Plead Guilty
 ---
-<article class="post-listing post-5550 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-guilty tag-partner tag-plead tag-supertrip tag-undergroundsyndicate tag-vendor">
+<article class="post-listing post-5550 post type-post status-publish format-standard has-post-thumbnail hentry  tag-guilty tag-partner tag-plead tag-supertrip tag-undergroundsyndicate tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 13, 2014</span>

@@ -1,7 +1,7 @@
 ---
 Mozilla is Fixing a Major Flaw in Firefox
 ---
-<article class="post-listing post-15579 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-firefox tag-fixing tag-flaw tag-major tag-mozilla">
+<article class="post-listing post-15579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-firefox tag-fixing tag-flaw tag-major tag-mozilla">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>September 28, 2016</span>

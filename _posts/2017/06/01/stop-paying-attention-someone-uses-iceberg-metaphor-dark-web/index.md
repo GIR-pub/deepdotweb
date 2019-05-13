@@ -1,7 +1,7 @@
 ---
 Stop Paying Attention When Someone Uses The Iceberg Metaphor For The Dark Web
 ---
-<article class="post-listing post-20262 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attention tag-dark tag-iceberg tag-metaphor tag-paying tag-stop tag-web">
+<article class="post-listing post-20262 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attention tag-dark tag-iceberg tag-metaphor tag-paying tag-stop tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 1, 2017</span>

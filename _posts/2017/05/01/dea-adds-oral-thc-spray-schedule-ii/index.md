@@ -1,7 +1,7 @@
 ---
 DEA Adds an Oral THC Spray to Schedule II
 ---
-<article class="post-listing post-19531 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-adds tag-dea tag-ii tag-oral tag-schedule tag-spray tag-thc">
+<article class="post-listing post-19531 post type-post status-publish format-standard has-post-thumbnail hentry  tag-adds tag-dea tag-ii tag-oral tag-schedule tag-spray tag-thc">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 1, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Parent Claims Dealer Gave Fentanyl to Son, Darknet to Blame
 ---
-<article class="post-listing post-19619 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blame tag-claims tag-darknet tag-dealer tag-fentanyl tag-gave tag-parent tag-son">
+<article class="post-listing post-19619 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blame tag-claims tag-darknet tag-dealer tag-fentanyl tag-gave tag-parent tag-son">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 4, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Feds Indict A &#8220;Top Ten&#8221; Email Spammer For Wire Fraud
 ---
-<article class="post-listing post-18342 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-email tag-feds tag-fraud tag-indict tag-spammer tag-ten tag-top tag-wire">
+<article class="post-listing post-18342 post type-post status-publish format-standard has-post-thumbnail hentry  tag-email tag-feds tag-fraud tag-indict tag-spammer tag-ten tag-top tag-wire">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 26, 2017</span>
