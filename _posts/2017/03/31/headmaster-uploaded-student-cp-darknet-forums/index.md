@@ -15,9 +15,7 @@ Headmaster Uploaded Student CP to Darknet Forums
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/31/headmaster-uploaded-student-cp-darknet-forums/#comments">1 Comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p>Romain Farina, the director of a school in Villefontaine, France, possessed a massive cache of child pornography, investigators recently discovered. Authorities indicted Farina in 2015 after he sexually abused numerous adolescents who attended his school. Two years later, after a second search of the man&#8217;s residence, authorities found hard drives that connected Farina to a darknet identity named “pedo-master.”</p>
 <p>Between the 2015 arrest of the headmaster and his later​ suicide in a jail cell, investigators searched the man&#8217;s house and came up empty-handed. In mid-March, 2017, authorities conducted another search of his home. They searched his house—fully—upon the realization that they ignored the attic in prior searches. The attic search yielded several storage mediums. The details released failed to fully clarify if the search team also found electronic devices with user interfaces or not. However, the drives contained 500,000 photos and 11,000 videos of child pornography featuring his students. Farina both created the films with his students and uploaded them to darknet forums.</p>
 <p>Sébastien Lopez, the father of a child Farina abused, read the report from a forensic laboratory. He explained that the videos featured 26 students—and all of them responded to Farina on a first name basis. Lopez said that officials reported that they identified all 26 victims. They matched previous victim lists, the forensic analysis read. However, Lopez&#8217;s lawyer warned that as many as ten of the names featured in the films and uploaded online caused enough concern for a re-analysis.</p>

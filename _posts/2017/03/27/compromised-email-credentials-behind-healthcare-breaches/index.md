@@ -15,9 +15,7 @@ Compromised Email Credentials Behind Most Healthcare Breaches
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/27/compromised-email-credentials-behind-healthcare-breaches/#respond">Leave a comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p>According to Evolve IP and ID Agent, hackers breached organisations through compromised emails 63% of the time. The security firms conducted a study of the security practices of 1,000 healthcare organizations. Out of those 1,000 organizations, employees at 680 of them already lost control of their email credentials. Whoever hacked the email accounts of those from the 68% of organisation also uploaded credentials to the darknet.</p>
 <p>Only 76% of the uploaded passwords contained immediately usable information. And even then, only 23% of the breached emails came with plaintext passwords. Darknet marketplaces and forums <a href="https://www.databreaches.net/hl7-vendor-hack-compromised-clients-ehr-records-the-dark-overlord/">routinely hosted breached healthcare data in 2016</a>, but password dumps found their way to the clearnet too. The darknet provided good cover for hackers or credential vendors last year but landed the publicity needed for a healthcare breach. As another advertisement venue many hackers took to the clearnet.</p>
 <p><img class="wp-image-18829 aligncenter" src="/imgs/2017/03/word-image-57.png" srcset="/imgs/2017/03/word-image-57.png 521w, /imgs/2017/03/word-image-57-300x181.png 300w" sizes="(max-width: 521px) 100vw, 521px" /></p>

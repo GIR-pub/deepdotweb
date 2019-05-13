@@ -14,9 +14,7 @@ Bitcoin News Roundup – 11 Oct. 2015
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/10/11/bitcoin-news-roundup-11-oct-2015/#respond">Leave a comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Gemini bitcoin exchange is live. As P.H Madore of <a href="https://www.cryptocoinsnews.com/gemini-bitcoin-exchange-launches-needs-no-bitlicense-fincen/">CryptoCoins News</a> writes, the Winklevoss Twins have announced in the company’s blog that their long-waited bitcoin exchange has officially opened its doors to institutional and retail investors on October 8<sup>th</sup>. Gemini offers the four pillars of business, product, security, licensing and compliance. Through the Gemini Trust Company, LLC, Gemini becomes a fiduciary, accepting customers under New York Banking Law, and it is exempted from registering with FinCEN for anti-money laundering.</p>
 <p>The U.S. government rosters final bitcoin auction from the Silk Road. As Nate Raymond of <a href="http://www.reuters.com/article/2015/10/05/us-usa-bitcoin-auction-idUSKCN0RZ1SP20151005">Reuters</a> writes, the U.S. Marshals Service (USMS) plans to sell 44,341 BTC (approximately $10.6mιn current exchange rates) seized during the arrest of Ross Ulbricht, the creator of Silk Road online black market. The online action is scheduled for November 5<sup>th</sup>.</p>

@@ -14,9 +14,7 @@ Alphabay Market Has Reached 200,000 Users
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/10/14/alphabay-market-has-reached-200000-users/#comments">14 Comments</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p>According to a new post made by <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay market</a> admins on the market forums:<a href="/imgs/2015/10/alphabay200k.png"><img class="aligncenter size-full wp-image-11781" src="/imgs/2015/10/alphabay200k.png" alt="alphabay200k" width="882" height="175" srcset="/imgs/2015/10/alphabay200k.png 882w, /imgs/2015/10/alphabay200k-300x60.png 300w" sizes="(max-width: 882px) 100vw, 882px" /></a></p>
 <blockquote><p>We reached <b>200,000 users</b> on the Marketplace just now. On behalf of the entire AlphaBay Staff, we thank you for your ongoing support, faith &amp; effort to shape AlphaBay as it is today &#8211; a top-grade black market!</p>
 <p>With the help of our community, we will continue to do our best to run AlphaBay for many milestones ahead in a transparent way, accompanied by strong security practices &amp; blazing-fast marketplace speed.</p>

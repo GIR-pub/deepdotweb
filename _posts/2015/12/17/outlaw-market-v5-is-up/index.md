@@ -14,9 +14,7 @@ Outlaw Market V5 Is Up
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/12/17/outlaw-market-v5-is-up/#comments">1 Comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p>One of the oldest markets, <a href="http://www.deepdotweb.com/marketplace-directory/listing/outlaw-market/">Outlaw market</a> has just been updated to a new version with new features, unfortunately new UI is not one of them, as the admins told <a href="https://www.deepdotweb.com" target="_blank">DeepDotWeb</a>:</p>
 <blockquote><p>Although we haven&#8217;t been able to finish our UI yet, we do have uploaded our v5 of the market. Quite some invisible backend updates, and more added features. This text will be shown shortly, and should you also give an update of our newest things!</p>
 <p>Our UI is still being worked on. The good thing about operating a market on the long term is that there&#8217;s no haste required&#8230; ;)</p></blockquote>

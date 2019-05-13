@@ -15,9 +15,7 @@ German Tried To Extort Haribo And Kaufland With Poison
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/08/german-tried-extort-haribo-kaufland-poison/#respond">Leave a comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p>Bonn prosecutors started an investigation against a 74-year-old pensioner from Dortmund, <a href="https://www.deepdotweb.com/tag/germany/">Germany</a>. The retired man allegedly tried to <a href="https://www.thelocal.de/20170217/pensioner-arrested-over-threat-to-poison-haribo-bears-with-cyanide">extort money</a> from Haribo and supermarket chain Kaufland.</p>
 <p>According to official court documents, in December, the 74-year-old allegedly threatened to poison candy using <a href="https://www.deepdotweb.com/tag/cyanide/">cyanide</a> if the two companies didn’t pay the suspect one million euros. The accused person attached signs to various products from the two companies, reading ”careful, poison”, and left the items in multiple stores, officials claim. Sources say that Kaufland pizzas and Haribo Gold Bears were the main targets of the pensioner. According to the prosecution, the man ordered cyanide from the dark web, however, he never received it.</p>
 <p><img class="wp-image-18502 aligncenter" src="/imgs/2017/03/pensioner-arrested-over-threat-to-poison-haribo-be.jpeg" alt="Pensioner arrested over threat to poison Haribo bears with cyanide" width="687" height="458" srcset="/imgs/2017/03/pensioner-arrested-over-threat-to-poison-haribo-be.jpeg 1000w, /imgs/2017/03/pensioner-arrested-over-threat-to-poison-haribo-be-300x200.jpeg 300w" sizes="(max-width: 687px) 100vw, 687px" /></p>

@@ -1,16 +1,11 @@
 ---
-title: "The Silk Road Saga: Who is “The Employee”? – Part I
+title: "The Silk Road Saga: Who is 'The Employee'? – Part I"
 ---
-1173   
-    
-    
+
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>November 5, 2013</span>
 
-    
-<span><a href="https://www.deepdotweb.com/2013/11/05/the-silk-road-saga-who-is-the-employee-part-i/#respond">Leave a comment</a></span>
-</p>    
-<div class="entry">
+
     
 <p>The Silk Road was finally brought down by the feds after operating for almost three years.  Ross Ulbricht, known as Dread Pirate Roberts, was the kingpin of this multi-million-dollar online drug bazaar.  His recent October arrest was what ran the Silk Road’s illicit dealings aground, never to set sail again.  This story of hitmen and heroine, stings and busts, has made international headlines; however, very little is still known about exactly how DPR met his doom and the Silk Road came to its abrupt end.</p>
 <p>While Ulbricht made quite a few mistakes, perhaps the most influential of those was recruiting ‘The Employee’.  The identity of ‘The Employee’ is highly speculated upon, but recent investigations into the Silk Road’s timeline suggests the ‘The Employee’ may have controlled username: chronicpain &#8211; as it was suggested at the &#8220;Silk Road tales and archives&#8221; which can be found here:  <a href="http://antilop.cc/sr" target="_blank">http://antilop.cc/sr</a></p>

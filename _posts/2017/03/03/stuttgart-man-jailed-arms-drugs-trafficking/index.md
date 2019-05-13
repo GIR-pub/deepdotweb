@@ -15,9 +15,7 @@ Stuttgart Man Jailed For Arms And Drugs Trafficking
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/03/stuttgart-man-jailed-arms-drugs-trafficking/#respond">Leave a comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p>Earlier in 2016, law enforcement authorities <a href="https://www.deepdotweb.com/2017/02/12/narcotics-weapons-counterfeit-money-found-germans-apartment/">arrested</a> a 28-year-old from Stuttgart, Germany for possessing large amounts of narcotics, counterfeit money, and weapons in his apartment. Now, the 7th Criminal Court <a href="http://www.stuttgarter-nachrichten.de/inhalt.landgericht-stuttgart-verurteilt-waffenhaendler-ex-hockeyspieler-muss-ins-gefaengnis.e38786f1-eb0c-4dec-b09c-33a2ed8e900e.html">sentenced</a> him to five years in prison.</p>
 <p><a id="post-18419-_gjdgxs"></a> <img class="wp-image-18425 aligncenter" src="/imgs/2017/02/the-accused-had-ordered-cocaine-marijuana-and-wea.jpeg" alt="The accused had ordered cocaine, marijuana and weapons on the Internet.  Photo: dpa" srcset="/imgs/2017/02/the-accused-had-ordered-cocaine-marijuana-and-wea.jpeg 510w, /imgs/2017/02/the-accused-had-ordered-cocaine-marijuana-and-wea-300x197.jpeg 300w" sizes="(max-width: 510px) 100vw, 510px" /></p>
 <p>At the end of 2015, the suspect, who is a former hockey youth national player, ordered seven counterfeit 50 euro bills from a vendor shop on the dark net called “Crime Network”. However, the quality of the bills was so bad that he allegedly lit one of the notes.</p>

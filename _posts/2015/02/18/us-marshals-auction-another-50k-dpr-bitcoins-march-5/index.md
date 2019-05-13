@@ -14,9 +14,7 @@ US Marshals to Auction Another 50k DPR Bitcoins on March 5
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/02/18/us-marshals-auction-another-50k-dpr-bitcoins-march-5/#comments">3 Comments</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p>Following the previous auctions of <a href="http://www.deepdotweb.com/2014/06/12/30000-seized-bitcoins-from-silk-road-are-up-for-sale/">30k bitcoin</a> and <a href="http://www.deepdotweb.com/2014/11/17/uss-marshals-auction-50000-btc-dread-pirate-roberts/">50k bitcoins</a>, the US Marshal Service just announced another asset Forfeiture Bitcoin Sale of <a href="http://www.usmarshals.gov/assets/2015/dpr-february-auction/">50k bitcoins</a>.</p>
 <p>According to the <a href="http://www.usmarshals.gov/assets/2015/dpr-february-auction/">USMS site</a>:</p>
 <blockquote><p><span style="color: #333333;">THIS SEALED BID AUCTION IS FOR A PORTION OF THE BITCOINS CONTAINED IN WALLET FILES THAT RESIDED ON CERTAIN COMPUTER HARDWARE BELONGING TO ROSS WILLIAM ULBRICHT, THAT WERE SEIZED ON OR ABOUT OCTOBER 24, 2013 (“COMPUTER HARDWARE BITCOINS”).</span></p>

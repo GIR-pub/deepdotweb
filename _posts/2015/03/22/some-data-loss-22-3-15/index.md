@@ -14,9 +14,7 @@ Some Data Loss 22-3-15
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/03/22/some-data-loss-22-3-15/#respond">Leave a comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
 <!-- Start WP Socializer Plugin - Facebook Button -->

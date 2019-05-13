@@ -15,9 +15,7 @@ Darknet Data Broker Sold 95,000 Coachella Accounts on the Darknet
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/15/darknet-data-broker-sold-95000-coachella-accounts-darknet/#respond">Leave a comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p>Data breaches are far from uncommon in the day and age we live in, <a href="https://www.deepdotweb.com/2017/01/24/25-mongodb-databases-hacked-within-week/">yet some are more eye-catching than others.</a> For instance, a self-described “Data Broker” listed 950,000 Coachella user accounts on a darknet marketplace. <a href="https://www.databreaches.net/?s=darknet&amp;searchsubmit=">Database breaches and the darknet go hand-in-hand</a>; hackers have an anonymous platform to distribute their stolen data. Mainly, based on the number of people with interest in the event, news of the breach spread more rapidly than normal. Mainstream media began to pick the story up.</p>
 <p>The accounts, according to the hacker, came from Coachella Music &amp; Arts Festival‘s website. <a href="http://www.itsecuritynews.info/950000-coachella-festival-credentials-for-sale-on-dark-web/">Motherboard tested 20 accounts, Joseph Cox claimed</a>, but testament to the full dumps validity exists. Cox wrote that the “hacker” (self-described “data broker”) generously sent 10,000 accounts to Motherboard. This tactic works in multiple fashions. For instance, if the beach prices real, <a href="https://www.deepdotweb.com/tag/hacker/">the hacker gains credibility</a>. This is especially important for hackers with little to no name recognition.</p>
 <p><img class="wp-image-18631 aligncenter" src="/imgs/2017/03/word-image-40.png" width="968" height="545" srcset="/imgs/2017/03/word-image-40.png 1920w, /imgs/2017/03/word-image-40-300x169.png 300w, /imgs/2017/03/word-image-40-1024x576.png 1024w" sizes="(max-width: 968px) 100vw, 968px" /></p>

@@ -5,10 +5,6 @@ title: "Security Questions
 
 <iframe width="660" height="371" src="http://www.youtube.com/embed/tMEjpXJZgIA?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     
-
-    
-<div class="entry">
-    
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
 <!-- Start WP Socializer Plugin - Facebook Button -->

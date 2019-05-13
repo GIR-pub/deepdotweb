@@ -14,9 +14,7 @@ Bitcoin Price Analysis &#8211; 25 Novemebr 2015
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/11/25/bitcoin-price-analysis-25-novemebr-2015/#comments">1 Comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p><a href="/imgs/2015/11/12.jpg"><img class="aligncenter size-full wp-image-12321" src="/imgs/2015/11/12.jpg" alt="1" width="1644" height="916" srcset="/imgs/2015/11/12.jpg 1644w, /imgs/2015/11/12-300x167.jpg 300w, /imgs/2015/11/12-1024x571.jpg 1024w" sizes="(max-width: 1644px) 100vw, 1644px" /></a></p>
 <p>Since the 1 year high at $504 on November 4, price has been on a decline, surprising many who expecting an aggressive bull run, however. Corrections are part of market cycles, and necessary, like the current price action.</p>
 <p>The past 3 weeks have been a correction of the parabolic move up from $ 240. (3)(4) was a flat sideways level after a breakdown, moving sideways for some days before breaking down again to (1) at $ 300 &#8211; a significant support level. Testing this level and holding, forced price sideways, in a triangular fashion while still respecting this level. It closely resembles the triangle at (3) (4), only differing in its magnitude. Price is now at $ 321, as it converges towards a tipping point. Will this triangle break up or down?</p>

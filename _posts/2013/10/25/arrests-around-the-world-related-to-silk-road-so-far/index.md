@@ -5,10 +5,6 @@ title: "Arrests around the world related to Silk Road&#8230;.So far"
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>October 25, 2013</span>
 
-
-    
-<div class="entry">
-    
 <p>An interesting forum post on the Silk Road 2.0 forums (being set up as we speak) counting the arrests that happened so far that are related to silk road &#8211; you can read the original post here:<br />
     https://silkroad5v7dywlc.onion/index.php?topic=1381.0</p>
 <p><strong>EDIT:  We Were just informed that this information was originated from here  <a href="http://www.gwern.net/Silk%20Road#safe and ">http://www.gwern.net/Silk%20Road#safe and </a></strong><br />

@@ -14,9 +14,7 @@ Legal Aspects of DAO (Decentralized Autonomous Organization)
 
     
 <span><a href="https://www.deepdotweb.com/2017/03/26/legal-aspects-dao-decentralized-autonomous-organization/#respond">Leave a comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p>Decentralized autonomous organization (DAO) represents an innovative means for organization of a network of decentralized users for taking common decisions and engaging in <a href="https://www.deepdotweb.com/2017/03/06/concepts-cryptolaw-blockchain-based-legal-applications-changing-law/">smart contracts</a>. Any user can submit a smart contract proposal to the DAO. Every user can vote for or against any given smart contract. The DAO program will execute the decision voted for by the majority. The following represents DAO&#8217;s features:</p>
 <p>1. Joint control of the fund</p>
 <p>2. Individual control over one&#8217;s own funds via choosing to leave the DAO.</p>

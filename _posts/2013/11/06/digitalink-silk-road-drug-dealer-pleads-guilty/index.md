@@ -1,6 +1,7 @@
 ---
 title: "Digitalink (Silk Road drug dealer) Pleads Guilty"
 ---
+
 <p><strong><span style="text-decoration: underline;">As it was posted at the The Baltimore Sun:</span></strong></p>
 <p><em>An Edgewood drug dealer pleaded guilty Tuesday in federal court to supplying customers around the world through the Silk Road online marketplace.</em></p>
 <p><em>Jacob Theodore George IV, 32, admitted to agents with the Department of Homeland Security in January 2012 that he sold heroin and methylone — a synthetic drug often marketed as &#8220;bath salts&#8221; — using the hidden site.</em></p>

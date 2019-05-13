@@ -15,9 +15,7 @@ Early Fraud Detection System Unveiled By MasterCard
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/10/11/early-fraud-detection-system-unveiled-mastercard/#respond">Leave a comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p>&nbsp;</p>
 <p>With the world continuing to experience great change, leading to many developments in the electronic and IT sectors, the familiar situation thus <a href="https://www.deepdotweb.com/2017/09/20/hacker-transfers-500000-american-bank-company-dubai/">theft and hacking</a> continue to increase. According to research, hacking is rising exponentially and this always gives the cause for worry about hackers gaining access to your credit cards and making a grab for your money.</p>
 <p>This current situation has led to people seeking better ways to avoid being affected. Well, the wait seems to be over for some people as MasterCard, one of the leading global payments &amp; Technology Company that connects consumers, businesses, merchants, issuers, and governments all over the world has announced its new Early Fraud Detection System.</p>

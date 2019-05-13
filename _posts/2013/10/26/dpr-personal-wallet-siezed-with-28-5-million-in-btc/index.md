@@ -4,8 +4,6 @@ title: "Official: DPR Personal Wallet Siezed With $28.5 Million in BTC (FBI Pres
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 26, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/10/26/dpr-personal-wallet-siezed-with-28-5-million-in-btc/#respond">Leave a comment</a></span>
 
 
 <p>So it seems,  as it was reported today by forbes:<br/>

@@ -14,9 +14,7 @@ How To Buy From TheRealDeal Market?
 
     
 <span><a href="https://www.deepdotweb.com/2015/12/21/how-to-buy-from-therealdeal-market/#comments">37 Comments</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p><a href="https://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market/">TheRealDeal Market</a> has recently updated it entire UI to look similar to the past Evolution market, the admin have provided us with a market buying tutorial &#8211; this tutorial addresses escrow transactions, Multisig tutorial will be added later.</p>
 <p>According to the main admin, the evolution code (or at least a large portion of it) was purchased from a hacking forum quite recently, but lacked some major parts of code (wallet functionality was messed up, feedback system was broken, legacy-sales system was broken (and fixed today), and the search function was completely missing &#8211; but at this point all the cool evolution listing filters are working and the main search tab on top will be fully functional today) &#8211; He also mentioned that he will be providing free vendor account for next 24 &#8211; 48 hours.</p>
 <p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>

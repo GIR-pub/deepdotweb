@@ -1,15 +1,11 @@
 ---
 title: "Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Pharmaceuticals Being Sold!"
 ---
+
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>November 7, 2013</span>
 
-    
-<span><a href="https://www.deepdotweb.com/2013/11/07/black-markets-warning-serious-health-issue-fakecounterfeit-pharmaceuticals-being-sold/#comments">23 Comments</a></span>
-</p>
-    
-<div class="entry">
-    
+
 <p>As was posted in more than one reddit thread:  &#8220;by degenerate vendors &#8211; fake Adderall (Pink AD 30 Shire knockoff), fake percocet (Endo 10mg knockoff), fake hydrocodone (Watson 853 yellow knockoff)&#8221;</p>
 <p>&nbsp;</p>
 <p><strong>Readdit post:</strong></p>

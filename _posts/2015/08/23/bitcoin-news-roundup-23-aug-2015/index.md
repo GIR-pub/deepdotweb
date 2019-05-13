@@ -14,9 +14,7 @@ Bitcoin News Roundup – 23 Aug. 2015
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/08/23/bitcoin-news-roundup-23-aug-2015/#respond">Leave a comment</a></span>
-</p>    
-<div class="entry">
-    
+</p>        
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>An American startup unifies Internet of Things with the blockchain technology. As Stacey Higginbotham of <a href="http://fortune.com/2015/08/18/filament-blockchain-iot/">Fortune</a> reports, Filament has raised $5million in a Series A funding round led by Bullpen Capital to leverage blockchain for IoT. Filament has built Tap, a rugged sensor package and technology network that allows its sensors to conduct business even when they aren’t actually connected to the internet. Other investors that participated in the round included Haystack, Verizon Ventures, Samsung Ventures, Crosslink Capital, Working Lab Capital, Digital Currency Group and Techstars, among others.</p>
 <p>On the same page, Intel aims to combine Internet of Things with bitcoin Transactions. Jp Buntinx of <a href="http://bitcoinist.net/intel-unify-internet-things-bitcoin-transactions/">Bitcoinist</a> reports that Intel aims to make IoT mainstream by using blockchain technology to create a seamless environment that can secure bitcoin transactions. According to Intel’s statement “<em>We missed mobility, we’re not going to miss the Internet of Things.”</em></p>
