@@ -1,7 +1,7 @@
 ---
 Golem Network: Decentralized Computing
 ---
-<article class="post-listing post-16700 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-computing tag-decentralized tag-golem tag-network">
+<article class="post-listing post-16700 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-computing tag-decentralized tag-golem tag-network">
     
     <div class="post-inner">
     

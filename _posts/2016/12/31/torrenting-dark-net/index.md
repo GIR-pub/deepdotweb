@@ -1,7 +1,7 @@
 ---
 Torrenting on the Dark Net
 ---
-<article class="post-listing post-17240 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-dark tag-net tag-torrenting">
+<article class="post-listing post-17240 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-net tag-torrenting">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/astrogeek20/" title="">astrogeek20 </a></span>

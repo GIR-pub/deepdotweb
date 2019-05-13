@@ -1,7 +1,7 @@
 ---
 Monitoring Malicious Activities On Darknets &#8211; A Research Study
 ---
-<article class="post-listing post-20263 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-activities tag-darknets tag-malicious tag-monitoring tag-research tag-study">
+<article class="post-listing post-20263 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-activities tag-darknets tag-malicious tag-monitoring tag-research tag-study">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

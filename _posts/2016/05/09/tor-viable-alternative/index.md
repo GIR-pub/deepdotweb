@@ -1,7 +1,7 @@
 ---
 TOR: Is There a Viable Alternative?
 ---
-<article class="post-listing post-13973 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-alternative tag-tor tag-viable">
+<article class="post-listing post-13973 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-alternative tag-tor tag-viable">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/c3lt1c/" title="">c3lt1c </a></span>

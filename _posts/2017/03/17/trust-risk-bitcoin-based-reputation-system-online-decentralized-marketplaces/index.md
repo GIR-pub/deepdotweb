@@ -1,7 +1,7 @@
 ---
 Trust Is Risk &#8211; Bitcoin Based Reputation System for Online Decentralized Marketplaces
 ---
-<article class="post-listing post-18658 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-based tag-bitcoin tag-decentralized tag-marketplaces tag-online tag-reputation tag-risk tag-system tag-trust">
+<article class="post-listing post-18658 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-based tag-bitcoin tag-decentralized tag-marketplaces tag-online tag-reputation tag-risk tag-system tag-trust">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

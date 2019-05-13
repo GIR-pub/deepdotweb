@@ -1,7 +1,7 @@
 ---
 Don’t Put All Your Eggs In One Cloud Basket
 ---
-<article class="post-listing post-8992 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-basket tag-cloud tag-eggs tag-put">
+<article class="post-listing post-8992 post type-post status-publish format-standard has-post-thumbnail hentry tag-basket tag-cloud tag-eggs tag-put">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

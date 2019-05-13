@@ -1,7 +1,7 @@
 ---
 Op-Ed: Why Ulbricht Needed to Get Life
 ---
-<article class="post-listing post-10520 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-life tag-needed tag-oped tag-ulbricht">
+<article class="post-listing post-10520 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-life tag-needed tag-oped tag-ulbricht">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>

@@ -1,7 +1,7 @@
 ---
 Intel chips from last 7 years can be hacked remotely
 ---
-<article class="post-listing post-20019 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-chips tag-hacked tag-intel tag-remotely tag-years">
+<article class="post-listing post-20019 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-chips tag-hacked tag-intel tag-remotely tag-years">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>

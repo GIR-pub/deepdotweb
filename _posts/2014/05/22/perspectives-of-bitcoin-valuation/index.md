@@ -1,7 +1,7 @@
 ---
 Perspectives of Bitcoin Valuation
 ---
-<article class="post-listing post-5684 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoin tag-perspectives tag-valuation">
+<article class="post-listing post-5684 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-perspectives tag-valuation">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/nostradammit/" title="">Nostradammit </a></span>

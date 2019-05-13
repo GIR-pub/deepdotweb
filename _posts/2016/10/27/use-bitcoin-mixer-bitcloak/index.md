@@ -1,7 +1,7 @@
 ---
 How to use a Bitcoin Mixer: BitCloak
 ---
-<article class="post-listing post-16087 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcloak tag-bitcoin tag-mixer">
+<article class="post-listing post-16087 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcloak tag-bitcoin tag-mixer">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

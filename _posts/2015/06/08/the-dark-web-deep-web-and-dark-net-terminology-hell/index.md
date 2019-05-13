@@ -1,7 +1,7 @@
 ---
 The Dark Web, Deep Web and Dark Net – Terminology Hell
 ---
-<article class="post-listing post-10608 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-dark tag-deep tag-net tag-terminology tag-web">
+<article class="post-listing post-10608 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-deep tag-net tag-terminology tag-web">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

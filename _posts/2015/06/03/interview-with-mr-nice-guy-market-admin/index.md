@@ -1,7 +1,7 @@
 ---
 Interview: &#8220;Mr. Nice Guy&#8221; Market Admin Tells His Story
 ---
-<article class="post-listing post-10575 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-admin tag-ddos tag-guy tag-interview tag-market tag-nice tag-post">
+<article class="post-listing post-10575 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-admin tag-ddos tag-guy tag-interview tag-market tag-nice tag-post">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

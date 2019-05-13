@@ -1,7 +1,7 @@
 ---
 µchain &#8211; A New Mutable Blockchain That We All Need!
 ---
-<article class="post-listing post-18479 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-blockchain tag-mutable tag-chain">
+<article class="post-listing post-18479 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-mutable tag-chain">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

@@ -1,7 +1,7 @@
 ---
 Prevention against DDoS attacks
 ---
-<article class="post-listing post-27352 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-attacks tag-ddos tag-prevention">
+<article class="post-listing post-27352 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-attacks tag-ddos tag-prevention">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

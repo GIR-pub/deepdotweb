@@ -1,7 +1,7 @@
 ---
 Tutorial: How to Buy From Outlaw Market?
 ---
-<article class="post-listing post-11531 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-buy tag-market tag-outlaw tag-tutorial">
+<article class="post-listing post-11531 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-market tag-outlaw tag-tutorial">
     
 <div class="post-inner">
     

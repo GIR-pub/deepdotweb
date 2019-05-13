@@ -1,7 +1,7 @@
 ---
 Grams Bitball: Darknet Lotto on Tor &#8211; For Tor
 ---
-<article class="post-listing post-8930 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitball tag-grams tag-powerball tag-project tag-supports tag-tor">
+<article class="post-listing post-8930 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitball tag-grams tag-powerball tag-project tag-supports tag-tor">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

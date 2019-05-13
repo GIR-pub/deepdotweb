@@ -1,7 +1,7 @@
 ---
 The IPFS and the blockchain
 ---
-<article class="post-listing post-19721 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-blockchain tag-ipfs">
+<article class="post-listing post-19721 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-ipfs">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

@@ -1,7 +1,7 @@
 ---
 Book Review: Data And Goliath By Bruce Schneier
 ---
-<article class="post-listing post-9373 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-book tag-bruce tag-data tag-goliath tag-review tag-schneier">
+<article class="post-listing post-9373 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-book tag-bruce tag-data tag-goliath tag-review tag-schneier">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/jonsouthurst/" title="">Jon Southurst </a></span>

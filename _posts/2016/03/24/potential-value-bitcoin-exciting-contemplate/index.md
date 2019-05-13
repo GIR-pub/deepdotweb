@@ -1,7 +1,7 @@
 ---
 The Potential Value of Bitcoin is Exciting To Contemplate
 ---
-<article class="post-listing post-13561 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoin tag-contemplate tag-exciting tag-potential">
+<article class="post-listing post-13561 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-contemplate tag-exciting tag-potential">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>

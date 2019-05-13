@@ -1,7 +1,7 @@
 ---
 MDMA: Culture, Use and the Future
 ---
-<article class="post-listing post-10972 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-culture tag-future tag-mdma">
+<article class="post-listing post-10972 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-culture tag-future tag-mdma">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lines_of_thought/" title="">Lines_of_Thought </a></span>

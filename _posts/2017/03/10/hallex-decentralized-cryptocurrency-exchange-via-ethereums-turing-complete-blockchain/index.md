@@ -1,7 +1,7 @@
 ---
 Hallex &#8211; A Decentralized Cryptocurrency Exchange Via Ethereum&#8217;s Turing-Complete Blockchain
 ---
-<article class="post-listing post-18530 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-blockchain tag-cryptocurrency tag-decentralized tag-ethereums tag-exchange tag-hallex tag-turingcomplete">
+<article class="post-listing post-18530 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-cryptocurrency tag-decentralized tag-ethereums tag-exchange tag-hallex tag-turingcomplete">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

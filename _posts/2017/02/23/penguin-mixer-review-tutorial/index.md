@@ -1,7 +1,7 @@
 ---
 Penguin Mixer: Review and Tutorial
 ---
-<article class="post-listing post-18299 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-mixer tag-penguin tag-review tag-tutorial">
+<article class="post-listing post-18299 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-mixer tag-penguin tag-review tag-tutorial">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

@@ -1,7 +1,7 @@
 ---
 title: Tutorial: Buying Bitcoins With Paypal &#038; Credit Cards!
 ---
-1845 category-articles category-deepdot-news tag-bitcoins tag-buying tag-cards tag-credit tag-paypal tag-tutorial">
+1845 category-deepdot-news tag-bitcoins tag-buying tag-cards tag-credit tag-paypal tag-tutorial">
 
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

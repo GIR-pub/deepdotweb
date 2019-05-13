@@ -1,7 +1,7 @@
 ---
 Tutorial: How To Buy From the Zion Market?
 ---
-<article class="post-listing post-17786 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-buy tag-market tag-tutorial tag-zion">
+<article class="post-listing post-17786 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-market tag-tutorial tag-zion">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

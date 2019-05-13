@@ -1,7 +1,7 @@
 ---
 &#8220;DarkNet Marketing Services&#8221; Is the New Emerging Market?
 ---
-<article class="post-listing post-5564 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-darknet tag-emerging tag-market tag-marketing tag-services">
+<article class="post-listing post-5564 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-darknet tag-emerging tag-market tag-marketing tag-services">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

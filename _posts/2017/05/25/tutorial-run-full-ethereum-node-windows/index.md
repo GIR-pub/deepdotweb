@@ -1,7 +1,7 @@
 ---
 Tutorial &#8211; How To Run a Full Ethereum Node On Windows
 ---
-<article class="post-listing post-20103 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-ethereum tag-full tag-node tag-run tag-tutorial tag-windows">
+<article class="post-listing post-20103 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-ethereum tag-full tag-node tag-run tag-tutorial tag-windows">
     
     <div class="post-inner">
     

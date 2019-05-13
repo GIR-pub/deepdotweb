@@ -1,7 +1,7 @@
 ---
 Bitcoin Transaction Fees Have Skyrocketed &#8211; How To Deal With That?
 ---
-<article class="post-listing post-24483 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoin tag-deal tag-fees tag-skyrocketed tag-transaction">
+<article class="post-listing post-24483 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-deal tag-fees tag-skyrocketed tag-transaction">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

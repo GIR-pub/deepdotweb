@@ -1,7 +1,7 @@
 ---
 What’s the Future of Ethereum?
 ---
-<article class="post-listing post-20794 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-ethereum tag-future">
+<article class="post-listing post-20794 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-ethereum tag-future">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/leahzitter/" title="">Leah Zitter </a></span>

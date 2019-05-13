@@ -1,7 +1,7 @@
 ---
 Personal Experience: Part 1 &#8211; Entering The DeepWeb
 ---
-<article class="post-listing post-6824 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-deepweb tag-entering tag-experiencetag tag-part tag-vendor">
+<article class="post-listing post-6824 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-deepweb tag-entering tag-experiencetag tag-part tag-vendor">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>

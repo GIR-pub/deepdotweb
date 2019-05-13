@@ -1,7 +1,7 @@
 ---
 Is The Tor Browser Fully Anonymous? (The Myth and Reality)
 ---
-<article class="post-listing post-18884 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-anonymous tag-browser tag-fully tag-myth tag-reality tag-tor">
+<article class="post-listing post-18884 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-browser tag-fully tag-myth tag-reality tag-tor">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

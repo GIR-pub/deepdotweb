@@ -1,7 +1,7 @@
 ---
 Business from the inside out: Dropper
 ---
-<article class="post-listing post-24684 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-business tag-dropper">
+<article class="post-listing post-24684 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-business tag-dropper">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>

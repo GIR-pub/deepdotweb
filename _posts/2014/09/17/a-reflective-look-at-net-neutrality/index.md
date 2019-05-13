@@ -1,7 +1,7 @@
 ---
 Reflective Look at Net Neutrality
 ---
-<article class="post-listing post-7107 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-net tag-neutrality">
+<article class="post-listing post-7107 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-net tag-neutrality">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/mikewilkerson/" title="">Mike Wilkerson </a></span>

@@ -1,7 +1,7 @@
 ---
 Intel Source – Personal Communications By Phone #2
 ---
-<article class="post-listing post-8426 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-communications tag-intel tag-intelphone tag-personal tag-phone tag-source">
+<article class="post-listing post-8426 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-communications tag-intel tag-intelphone tag-personal tag-phone tag-source">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>

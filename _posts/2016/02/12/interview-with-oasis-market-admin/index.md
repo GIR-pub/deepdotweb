@@ -1,7 +1,7 @@
 ---
 Interview with Oasis Market Admin
 ---
-<article class="post-listing post-13206 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-admin tag-interview tag-market tag-oasis">
+<article class="post-listing post-13206 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-admin tag-interview tag-market tag-oasis">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

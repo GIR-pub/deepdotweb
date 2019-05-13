@@ -1,7 +1,7 @@
 ---
 The US Fires First “Live Round” in America’s War on Prescription Drugs
 ---
-<article class="post-listing post-6909 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-1907 tag-americas tag-drugs tag-fires tag-government tag-live tag-war">
+<article class="post-listing post-6909 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-1907 tag-americas tag-drugs tag-fires tag-government tag-live tag-war">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/freedom/" title="">Freedom Writer </a></span>

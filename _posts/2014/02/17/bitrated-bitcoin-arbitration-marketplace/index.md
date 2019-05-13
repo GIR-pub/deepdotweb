@@ -1,7 +1,7 @@
 ---
 Introducing Bitrated: Bitcoin Arbitration Marketplace
 ---
-<article class="post-listing post-4254 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-arbitration tag-bitcoin tag-bitrated tag-introducing tag-marketplace">
+<article class="post-listing post-4254 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-arbitration tag-bitcoin tag-bitrated tag-introducing tag-marketplace">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

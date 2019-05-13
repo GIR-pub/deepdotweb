@@ -1,7 +1,7 @@
 ---
 Tutorial: Installing Tor With Privoxy
 ---
-<article class="post-listing post-10263 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-installing tag-privoxy tag-tor tag-tutorial">
+<article class="post-listing post-10263 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-installing tag-privoxy tag-tor tag-tutorial">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/jackmeyer/" title="">Jack Meyer </a></span>

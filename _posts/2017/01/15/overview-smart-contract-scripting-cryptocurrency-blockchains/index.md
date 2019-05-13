@@ -1,7 +1,7 @@
 ---
 An Overview Of Smart Contract Scripting For Cryptocurrency Blockchains
 ---
-<article class="post-listing post-17534 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-blockchains tag-contract tag-cryptocurrency tag-overview tag-scripting tag-smart">
+<article class="post-listing post-17534 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchains tag-contract tag-cryptocurrency tag-overview tag-scripting tag-smart">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

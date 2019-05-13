@@ -1,7 +1,7 @@
 ---
 *WARNING* Fake And Possibly Toxic Ketamine Hitting The Marketplaces
 ---
-<article class="post-listing post-4407 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-fake tag-hitting tag-ketamine tag-marketplaces tag-possibly tag-toxic tag-warning">
+<article class="post-listing post-4407 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-fake tag-hitting tag-ketamine tag-marketplaces tag-possibly tag-toxic tag-warning">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

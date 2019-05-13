@@ -1,7 +1,7 @@
 ---
 Guest Post: A legal guide to cannabis seeds
 ---
-<article class="post-listing post-13541 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-cannabis tag-guest tag-guide tag-legal tag-post tag-seeds">
+<article class="post-listing post-13541 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cannabis tag-guest tag-guide tag-legal tag-post tag-seeds">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

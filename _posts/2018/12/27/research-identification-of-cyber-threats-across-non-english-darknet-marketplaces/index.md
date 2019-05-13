@@ -1,7 +1,7 @@
 ---
 Research: Identification of cyber threats across non-English darknet marketplaces
 ---
-<article class="post-listing post-27721 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-cyber tag-darknet tag-identification tag-marketplaces tag-nonenglish tag-research tag-threats">
+<article class="post-listing post-27721 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cyber tag-darknet tag-identification tag-marketplaces tag-nonenglish tag-research tag-threats">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

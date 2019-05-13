@@ -1,7 +1,7 @@
 ---
 Tutorial: How To Buy From the House of Lions Market?
 ---
-<article class="post-listing post-17904 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-buy tag-house tag-lions tag-market tag-tutorial">
+<article class="post-listing post-17904 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-house tag-lions tag-market tag-tutorial">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

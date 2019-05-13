@@ -1,7 +1,7 @@
 ---
 Interview With &#8220;Sigaint DarkNet Email&#8221; Admin
 ---
-<article class="post-listing post-9076 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-admin tag-interview tag-sigaint">
+<article class="post-listing post-9076 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-admin tag-interview tag-sigaint">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

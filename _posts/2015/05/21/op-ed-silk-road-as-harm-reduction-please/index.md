@@ -1,7 +1,7 @@
 ---
 Op-Ed: Silk Road as harm reduction? Please&#8230;
 ---
-<article class="post-listing post-10337 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-harm tag-reduction tag-road tag-silk tag-silkroadtrial">
+<article class="post-listing post-10337 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-harm tag-reduction tag-road tag-silk tag-silkroadtrial">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>

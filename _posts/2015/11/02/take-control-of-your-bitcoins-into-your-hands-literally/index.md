@@ -1,7 +1,7 @@
 ---
 Take Control of Your Bitcoins into Your Hands, Literally?
 ---
-<article class="post-listing post-11903 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoins tag-control tag-hands tag-literally">
+<article class="post-listing post-11903 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-control tag-hands tag-literally">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kalyan/" title="">Koni </a></span>

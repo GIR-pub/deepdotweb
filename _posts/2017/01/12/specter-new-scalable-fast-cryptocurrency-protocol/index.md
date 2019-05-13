@@ -1,7 +1,7 @@
 ---
 SPECTER : A New Scalable and Fast Cryptocurrency Protocol
 ---
-<article class="post-listing post-17450 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-cryptocurrency tag-fast tag-protocol tag-scalable tag-specter">
+<article class="post-listing post-17450 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cryptocurrency tag-fast tag-protocol tag-scalable tag-specter">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

@@ -1,7 +1,7 @@
 ---
 Auction Bitcoin Price Analysis
 ---
-<article class="post-listing post-6379 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-analysis tag-bitcoin tag-postauction tag-price">
+<article class="post-listing post-6379 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analysis tag-bitcoin tag-postauction tag-price">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>

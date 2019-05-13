@@ -1,7 +1,7 @@
 ---
 Why The Deep Web Will Continue To Grow Part 1
 ---
-<article class="post-listing post-7022 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-continue tag-deep tag-deepwebgrow tag-grow tag-part tag-web">
+<article class="post-listing post-7022 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-continue tag-deep tag-deepwebgrow tag-grow tag-part tag-web">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>

@@ -1,7 +1,7 @@
 ---
 Deep Web &#038; Law Enforcement: Informers
 ---
-<article class="post-listing post-7951 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-deep tag-enforcement tag-informers tag-law tag-web">
+<article class="post-listing post-7951 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-deep tag-enforcement tag-informers tag-law tag-web">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>

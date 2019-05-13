@@ -1,7 +1,7 @@
 ---
 Clickstream tracking of users of the Tor browser &#8211; A research paper
 ---
-<article class="post-listing post-27401 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-browser tag-clickstream tag-paper tag-research tag-tor tag-tracking tag-users">
+<article class="post-listing post-27401 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-browser tag-clickstream tag-paper tag-research tag-tor tag-tracking tag-users">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

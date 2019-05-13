@@ -1,7 +1,7 @@
 ---
 Alleged Silk Road 2.0 Hacker Doxxed!?
 ---
-<article class="post-listing post-4311 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-45 tag-alleged tag-doxxed tag-hacker tag-road tag-silk">
+<article class="post-listing post-4311 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-45 tag-alleged tag-doxxed tag-hacker tag-road tag-silk">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

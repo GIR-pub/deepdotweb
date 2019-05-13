@@ -1,7 +1,7 @@
 ---
 The Rise in “Ransom”-ware
 ---
-<article class="post-listing post-14592 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-ransomware tag-rise">
+<article class="post-listing post-14592 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-ransomware tag-rise">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/jfc/" title="">JFC </a></span>

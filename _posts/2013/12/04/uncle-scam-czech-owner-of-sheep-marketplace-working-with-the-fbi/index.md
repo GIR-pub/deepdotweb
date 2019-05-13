@@ -1,7 +1,7 @@
 ---
 title: Uncle Scam: Czech Owner of Sheep Marketplace Working With the FBI?
 ---
-2243 category-articles category-deepdot-news tag-czech tag-fbi tag-marketplace tag-owner tag-scam tag-sheep tag-uncle tag-working">
+2243 category-deepdot-news tag-czech tag-fbi tag-marketplace tag-owner tag-scam tag-sheep tag-uncle tag-working">
 
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

@@ -1,7 +1,7 @@
 ---
 The Journey of Amphetamines
 ---
-<article class="post-listing post-14393 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-amphetamines tag-journey">
+<article class="post-listing post-14393 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-amphetamines tag-journey">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kevin/" title="">-Kevin- </a></span>

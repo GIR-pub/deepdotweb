@@ -1,7 +1,7 @@
 ---
 TheCthulhu: Shoddy “Dark Web” Journalism
 ---
-<article class="post-listing post-10917 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-dark tag-journalism tag-shoddy tag-thecthulhu tag-web">
+<article class="post-listing post-10917 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-journalism tag-shoddy tag-thecthulhu tag-web">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

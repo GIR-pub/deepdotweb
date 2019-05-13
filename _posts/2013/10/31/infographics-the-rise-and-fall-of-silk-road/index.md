@@ -1,7 +1,7 @@
 ---
 title: Infographics: The Rise And Fall of Silk Road
 ---
-1124 category-articles category-deepdot-news tag-fall tag-infographics tag-rise tag-road tag-silk">
+1124 category-deepdot-news tag-fall tag-infographics tag-rise tag-road tag-silk">
 
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

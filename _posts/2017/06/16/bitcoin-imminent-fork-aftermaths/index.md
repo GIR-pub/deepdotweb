@@ -1,7 +1,7 @@
 ---
 Bitcoin and an Imminent Fork &#8211; The Aftermaths
 ---
-<article class="post-listing post-20667 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-aftermaths tag-bitcoin tag-fork tag-imminent">
+<article class="post-listing post-20667 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-aftermaths tag-bitcoin tag-fork tag-imminent">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

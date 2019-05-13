@@ -1,7 +1,7 @@
 ---
 Secure Data Wiping on GNU/Linux
 ---
-<article class="post-listing post-7402 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-data tag-gnulinux tag-secure tag-wiping">
+<article class="post-listing post-7402 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-data tag-gnulinux tag-secure tag-wiping">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>

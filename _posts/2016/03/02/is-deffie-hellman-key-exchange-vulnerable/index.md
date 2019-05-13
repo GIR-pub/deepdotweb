@@ -1,7 +1,7 @@
 ---
 Is Deffie Hellman Key Exchange Vulnerable ?
 ---
-<article class="post-listing post-13323 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-deffie tag-exchange tag-hellman tag-key tag-vulnerable">
+<article class="post-listing post-13323 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-deffie tag-exchange tag-hellman tag-key tag-vulnerable">
     
     <div class="post-inner">
     

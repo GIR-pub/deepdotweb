@@ -1,7 +1,7 @@
 ---
 title: PGP Tutorial For Newbs (Gpg4Win)
 ---
-1289 category-articles category-deepdot-news tag-gpg4win tag-newbs tag-pgp tag-tutorial">
+1289 category-deepdot-news tag-gpg4win tag-newbs tag-pgp tag-tutorial">
 
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

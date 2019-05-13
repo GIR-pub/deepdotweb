@@ -1,7 +1,7 @@
 ---
 5 Reasons Your Favorite Anonymous Crypto Isn&#8217;t Anonymous
 ---
-<article class="post-listing post-6820 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-anonymous tag-crypto tag-currency tag-favorite tag-reasons">
+<article class="post-listing post-6820 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-crypto tag-currency tag-favorite tag-reasons">
     
     <div class="post-inner">
     

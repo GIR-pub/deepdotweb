@@ -1,7 +1,7 @@
 ---
 Tutorial: XMPP/Jabber OTR
 ---
-<article class="post-listing post-9313 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-otr tag-tutorial tag-xmppjabber">
+<article class="post-listing post-9313 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-otr tag-tutorial tag-xmppjabber">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/dave/" title="">Dave </a></span>

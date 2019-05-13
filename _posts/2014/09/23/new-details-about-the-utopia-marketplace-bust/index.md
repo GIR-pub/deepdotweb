@@ -1,7 +1,7 @@
 ---
 New Details About the Utopia/BMR Busts
 ---
-<article class="post-listing post-7190 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-assassin tag-sale">
+<article class="post-listing post-7190 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-assassin tag-sale">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

@@ -1,7 +1,7 @@
 ---
 PSYCHEDELIC APHORISMS
 ---
-<article class="post-listing post-14131 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-aphorisms tag-psychedelic">
+<article class="post-listing post-14131 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-aphorisms tag-psychedelic">
     
     <div class="post-inner">
     

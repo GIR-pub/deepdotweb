@@ -1,7 +1,7 @@
 ---
 A New Patent &#8211; System for Autonomous Device Transacting Using Cryptocurrency
 ---
-<article class="post-listing post-21395 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-autonomous tag-cryptocurrency tag-device tag-patent tag-system tag-transacting">
+<article class="post-listing post-21395 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-autonomous tag-cryptocurrency tag-device tag-patent tag-system tag-transacting">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

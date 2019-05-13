@@ -1,7 +1,7 @@
 ---
 Rise and Fall of my Counterfeiting Experience
 ---
-<article class="post-listing post-14127 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-counterfeiting tag-experience tag-fall tag-rise">
+<article class="post-listing post-14127 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-counterfeiting tag-experience tag-fall tag-rise">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/alwaysthrowaways/" title="">alwaysthrowaways </a></span>

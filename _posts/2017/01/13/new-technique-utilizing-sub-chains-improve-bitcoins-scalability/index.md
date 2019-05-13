@@ -1,7 +1,7 @@
 ---
 A new technique utilizing sub-chains to improve bitcoin&#8217;s scalability
 ---
-<article class="post-listing post-17410 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoins tag-improve tag-scalability tag-subchains tag-technique tag-utilizing">
+<article class="post-listing post-17410 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-improve tag-scalability tag-subchains tag-technique tag-utilizing">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

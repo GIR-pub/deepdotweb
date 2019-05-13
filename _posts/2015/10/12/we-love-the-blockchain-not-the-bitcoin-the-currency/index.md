@@ -1,7 +1,7 @@
 ---
 We love the blockchain, not the bitcoin the currency
 ---
-<article class="post-listing post-11718 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-banks tag-blockchain tag-ledgers">
+<article class="post-listing post-11718 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-banks tag-blockchain tag-ledgers">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>

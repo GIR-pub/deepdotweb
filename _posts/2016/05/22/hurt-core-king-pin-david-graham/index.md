@@ -1,7 +1,7 @@
 ---
 More on Hurt-core King Pin David Graham
 ---
-<article class="post-listing post-14196 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-david tag-graham tag-hurtcore tag-king tag-pin">
+<article class="post-listing post-14196 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-david tag-graham tag-hurtcore tag-king tag-pin">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

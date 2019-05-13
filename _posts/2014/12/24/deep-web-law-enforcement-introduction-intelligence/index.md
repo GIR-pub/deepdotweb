@@ -1,7 +1,7 @@
 ---
 Deep Web &#038; Law Enforcement: Introduction to Intelligence
 ---
-<article class="post-listing post-7950 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-deep tag-enforcement tag-intelligence tag-introduction tag-law tag-web">
+<article class="post-listing post-7950 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-deep tag-enforcement tag-intelligence tag-introduction tag-law tag-web">
     
     <div class="post-inner">
     

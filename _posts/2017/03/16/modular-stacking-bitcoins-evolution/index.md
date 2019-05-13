@@ -1,7 +1,7 @@
 ---
 Modular Stacking and Bitcoin&#8217;s Evolution
 ---
-<article class="post-listing post-18646 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoins tag-evolution tag-modular tag-stacking">
+<article class="post-listing post-18646 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-evolution tag-modular tag-stacking">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

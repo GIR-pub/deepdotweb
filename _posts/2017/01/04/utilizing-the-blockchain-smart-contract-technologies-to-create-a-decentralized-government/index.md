@@ -1,7 +1,7 @@
 ---
 Utilizing The Blockchain &#038; Smart Contract Technologies To Create a Decentralized Government
 ---
-<article class="post-listing post-17309 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-blockchain tag-contract tag-create tag-decentralized tag-government tag-smart tag-technologies tag-utilizing">
+<article class="post-listing post-17309 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-contract tag-create tag-decentralized tag-government tag-smart tag-technologies tag-utilizing">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

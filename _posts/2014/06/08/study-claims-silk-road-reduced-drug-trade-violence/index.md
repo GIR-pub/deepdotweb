@@ -1,7 +1,7 @@
 ---
 Study Claims: Silk Road Reduced Drug-trade Violence
 ---
-<article class="post-listing post-5885 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-claims tag-drugtrade tag-reduced tag-road tag-silk tag-study tag-violence">
+<article class="post-listing post-5885 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-claims tag-drugtrade tag-reduced tag-road tag-silk tag-study tag-violence">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

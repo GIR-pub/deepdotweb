@@ -1,7 +1,7 @@
 ---
 Bitcoin in American Politics: Presidential Candidate Speaks
 ---
-<article class="post-listing post-6149 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoins tag-interview tag-presiden">
+<article class="post-listing post-6149 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-interview tag-presiden">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/ikewest/" title="">Ike West </a></span>

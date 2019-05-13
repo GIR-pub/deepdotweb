@@ -1,7 +1,7 @@
 ---
 What’s with Australians and DNMs?
 ---
-<article class="post-listing post-10878 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-australians tag-dnms">
+<article class="post-listing post-10878 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-australians tag-dnms">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>

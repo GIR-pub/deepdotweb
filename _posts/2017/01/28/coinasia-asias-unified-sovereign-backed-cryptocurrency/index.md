@@ -1,7 +1,7 @@
 ---
 CoinAsia &#8211; Asia&#8217;s Unified Sovereign Backed Cryptocurrency
 ---
-<article class="post-listing post-17785 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-asias tag-backed tag-coinasia tag-cryptocurrency tag-sovereign tag-unified">
+<article class="post-listing post-17785 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-asias tag-backed tag-coinasia tag-cryptocurrency tag-sovereign tag-unified">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

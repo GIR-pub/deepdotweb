@@ -1,7 +1,7 @@
 ---
 Two New Models For Double Spending Attacks On Bitcoin&#8217;s Blockchain
 ---
-<article class="post-listing post-17242 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-attacks tag-bitcoins tag-blockchain tag-double tag-models tag-spending">
+<article class="post-listing post-17242 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-attacks tag-bitcoins tag-blockchain tag-double tag-models tag-spending">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

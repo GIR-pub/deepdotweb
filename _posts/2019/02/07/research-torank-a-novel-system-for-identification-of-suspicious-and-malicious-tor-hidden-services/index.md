@@ -1,7 +1,7 @@
 ---
 Research: ToRank &#8211; A novel system for identification of suspicious and malicious Tor hidden services
 ---
-<article class="post-listing post-28308 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-hidden tag-identification tag-malicious tag-research tag-services tag-suspicious tag-system tag-tor tag-torank">
+<article class="post-listing post-28308 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-hidden tag-identification tag-malicious tag-research tag-services tag-suspicious tag-system tag-tor tag-torank">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

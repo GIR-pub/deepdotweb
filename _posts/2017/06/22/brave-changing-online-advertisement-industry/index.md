@@ -1,7 +1,7 @@
 ---
 Brave: Changing the Online Advertisement Industry
 ---
-<article class="post-listing post-20797 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-advertisement tag-brave tag-changing tag-industry tag-online">
+<article class="post-listing post-20797 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-advertisement tag-brave tag-changing tag-industry tag-online">
     
     <div class="post-inner">
     

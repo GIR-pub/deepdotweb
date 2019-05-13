@@ -1,7 +1,7 @@
 ---
 How Police Infiltrated a Darknet Forum to Hunt Down Pedophiles
 ---
-<article class="post-listing post-14852 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-darknet tag-forum tag-hunt tag-infiltrated tag-pedophiles tag-police">
+<article class="post-listing post-14852 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-darknet tag-forum tag-hunt tag-infiltrated tag-pedophiles tag-police">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>

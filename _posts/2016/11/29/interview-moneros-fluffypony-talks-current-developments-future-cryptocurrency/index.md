@@ -1,7 +1,7 @@
 ---
 Interview: Monero&#8217;s fluffypony talks about current developments and the future of cryptocurrency
 ---
-<article class="post-listing post-16636 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-cryptocurrency tag-current tag-developments tag-fluffypony tag-future tag-interview tag-moneros tag-talks">
+<article class="post-listing post-16636 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cryptocurrency tag-current tag-developments tag-fluffypony tag-future tag-interview tag-moneros tag-talks">
     
     <div class="post-inner">
     

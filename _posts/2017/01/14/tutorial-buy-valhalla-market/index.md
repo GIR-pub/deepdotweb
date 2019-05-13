@@ -1,7 +1,7 @@
 ---
 Tutorial: How To Buy From the Valhalla Market?
 ---
-<article class="post-listing post-17495 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-buy tag-market tag-tutorial tag-valhalla">
+<article class="post-listing post-17495 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-market tag-tutorial tag-valhalla">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

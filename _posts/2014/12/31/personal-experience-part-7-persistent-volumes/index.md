@@ -1,7 +1,7 @@
 ---
 Personal Experience: Part 7 – Persistent Volumes
 ---
-<article class="post-listing post-8087 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-experience tag-experiencetag tag-part tag-persistent tag-personal tag-volumes">
+<article class="post-listing post-8087 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-experience tag-experiencetag tag-part tag-persistent tag-personal tag-volumes">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>

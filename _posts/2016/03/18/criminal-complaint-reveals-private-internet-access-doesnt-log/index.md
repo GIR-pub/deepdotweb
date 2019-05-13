@@ -1,7 +1,7 @@
 ---
 Criminal Complaint Reveals &#8216;Private Internet Access&#8217; Doesn&#8217;t Log
 ---
-<article class="post-listing post-13513 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-access tag-complaint tag-criminal tag-internet tag-log tag-private tag-reveals">
+<article class="post-listing post-13513 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-access tag-complaint tag-criminal tag-internet tag-log tag-private tag-reveals">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>

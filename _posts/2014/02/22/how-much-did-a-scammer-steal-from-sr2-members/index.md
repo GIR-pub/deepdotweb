@@ -1,7 +1,7 @@
 ---
 How Much Did A Scammer Steal From SR2 Members?
 ---
-<article class="post-listing post-4377 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-members tag-scammer tag-sr2 tag-steal">
+<article class="post-listing post-4377 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-members tag-scammer tag-sr2 tag-steal">
     
     <div class="post-inner">
     

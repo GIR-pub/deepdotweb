@@ -1,7 +1,7 @@
 ---
 Cryptocurrency hacks: The Biggest Heists In Blockchain History
 ---
-<article class="post-listing post-15699 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-biggest tag-blockchain tag-cryptocurrency tag-hacks tag-heists tag-history">
+<article class="post-listing post-15699 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-biggest tag-blockchain tag-cryptocurrency tag-hacks tag-heists tag-history">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

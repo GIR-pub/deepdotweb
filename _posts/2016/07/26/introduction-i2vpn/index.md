@@ -1,7 +1,7 @@
 ---
 Introduction: I2VPN
 ---
-<article class="post-listing post-14856 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-i2vpn tag-introduction">
+<article class="post-listing post-14856 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-i2vpn tag-introduction">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

@@ -1,7 +1,7 @@
 ---
 Interview with a Top Alphabay Accounts Phisher
 ---
-<article class="post-listing post-21271 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-alphabay tag-interview tag-phisher tag-top">
+<article class="post-listing post-21271 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-alphabay tag-interview tag-phisher tag-top">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

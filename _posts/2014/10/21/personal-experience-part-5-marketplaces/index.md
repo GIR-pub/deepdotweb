@@ -1,7 +1,7 @@
 ---
 Personal Experience: Part 5 – Marketplaces
 ---
-<article class="post-listing post-6837 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-experience tag-experiencetag tag-marketplaces tag-part tag-personal">
+<article class="post-listing post-6837 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-experience tag-experiencetag tag-marketplaces tag-part tag-personal">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>

@@ -1,7 +1,7 @@
 ---
 Research: A novel user friendly system for monitoring darknet marketplaces
 ---
-<article class="post-listing post-28608 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-darknet tag-friendly tag-marketplaces tag-monitoring tag-research tag-system tag-user">
+<article class="post-listing post-28608 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-darknet tag-friendly tag-marketplaces tag-monitoring tag-research tag-system tag-user">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

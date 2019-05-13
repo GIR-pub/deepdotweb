@@ -1,7 +1,7 @@
 ---
 Study: Estimating hidden service traffic from DNS leaks
 ---
-<article class="post-listing post-6170 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-dns tag-estimating tag-hidden tag-leaks tag-service tag-study tag-traffic">
+<article class="post-listing post-6170 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dns tag-estimating tag-hidden tag-leaks tag-service tag-study tag-traffic">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

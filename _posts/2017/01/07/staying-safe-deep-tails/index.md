@@ -1,7 +1,7 @@
 ---
 Staying Safe on the Deep with TAILS
 ---
-<article class="post-listing post-17368 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-deep tag-safe tag-staying tag-tails">
+<article class="post-listing post-17368 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-deep tag-safe tag-staying tag-tails">
     
     <div class="post-inner">
     

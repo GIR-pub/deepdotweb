@@ -1,7 +1,7 @@
 ---
 Interview: Dark Net Money Launderer Speaks Up
 ---
-<article class="post-listing post-5374 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-dark tag-interview tag-laundrer tag-money tag-net tag-speaks">
+<article class="post-listing post-5374 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-interview tag-laundrer tag-money tag-net tag-speaks">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

@@ -1,7 +1,7 @@
 ---
 Patent &#8211; A System For Exchanging Value Across Various Cryptocurrency Blockchains
 ---
-<article class="post-listing post-17535 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-blockchains tag-cryptocurrency tag-exchanging tag-patent tag-system">
+<article class="post-listing post-17535 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchains tag-cryptocurrency tag-exchanging tag-patent tag-system">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

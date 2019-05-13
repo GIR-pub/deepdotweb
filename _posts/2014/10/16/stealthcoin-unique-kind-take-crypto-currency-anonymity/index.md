@@ -1,7 +1,7 @@
 ---
 StealthCoin Unique Kind Take On Crypto-Currency Anonymity
 ---
-<article class="post-listing post-7330 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-anonymity tag-cryptocurrency tag-kind tag-stealthcoin tag-unique">
+<article class="post-listing post-7330 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymity tag-cryptocurrency tag-kind tag-stealthcoin tag-unique">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>

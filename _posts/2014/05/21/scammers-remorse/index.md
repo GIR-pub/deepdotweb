@@ -1,7 +1,7 @@
 ---
 A Scammer&#8217;s Remorse
 ---
-<article class="post-listing post-5686 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-remorse tag-scammers">
+<article class="post-listing post-5686 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-remorse tag-scammers">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/black-ink/" title="">Black Ink </a></span>

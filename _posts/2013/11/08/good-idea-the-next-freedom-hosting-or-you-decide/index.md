@@ -1,7 +1,7 @@
 ---
 title: Good Idea, the Next Freedom Hosting, Or&#8230;? You decide.
 ---
-1241 category-articles category-deepdot-news tag-decide tag-freedom tag-good tag-hosting tag-idea">
+1241 category-deepdot-news tag-decide tag-freedom tag-good tag-hosting tag-idea">
 
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

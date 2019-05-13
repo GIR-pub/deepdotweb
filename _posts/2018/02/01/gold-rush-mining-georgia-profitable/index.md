@@ -1,7 +1,7 @@
 ---
 Gold rush: why mining in Georgia is so profitable?
 ---
-<article class="post-listing post-24629 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-georgia tag-gold tag-mining tag-profitable tag-rush">
+<article class="post-listing post-24629 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-georgia tag-gold tag-mining tag-profitable tag-rush">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>

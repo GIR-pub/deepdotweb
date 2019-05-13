@@ -1,7 +1,7 @@
 ---
 title: Sum up: The Arrest of Silk Road Admins/Mods SSBD, Libertas &#038; Inigo
 ---
-2805 category-articles category-deepdot-news tag-adminsmods tag-arrested tag-inigo tag-libertas tag-road tag-silk tag-ssbd">
+2805 category-deepdot-news tag-adminsmods tag-arrested tag-inigo tag-libertas tag-road tag-silk tag-ssbd">
 
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

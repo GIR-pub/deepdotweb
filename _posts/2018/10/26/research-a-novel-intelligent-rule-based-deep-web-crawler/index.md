@@ -1,7 +1,7 @@
 ---
 Research: A novel intelligent rule-based deep web crawler
 ---
-<article class="post-listing post-27060 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-crawler tag-deep tag-intelligent tag-research tag-rulebased tag-web">
+<article class="post-listing post-27060 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-crawler tag-deep tag-intelligent tag-research tag-rulebased tag-web">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

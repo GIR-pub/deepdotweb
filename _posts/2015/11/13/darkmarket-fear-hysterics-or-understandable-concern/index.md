@@ -1,7 +1,7 @@
 ---
 Darkmarket fear: Hysterics or understandable concern?
 ---
-<article class="post-listing post-12067 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-concern tag-darkmarket tag-fear tag-hysterics tag-understandable">
+<article class="post-listing post-12067 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-concern tag-darkmarket tag-fear tag-hysterics tag-understandable">
     
     <div class="post-inner">
     

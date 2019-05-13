@@ -1,7 +1,7 @@
 ---
 The 2 Federal Agent Embezzlement Complaint Excerpts
 ---
-<article class="post-listing post-9801 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-agent tag-complaint tag-embezzlement tag-excerpts tag-federal">
+<article class="post-listing post-9801 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-agent tag-complaint tag-embezzlement tag-excerpts tag-federal">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

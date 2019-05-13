@@ -1,7 +1,7 @@
 ---
 Windows 10 is not Free &#8211; Privacy Issues
 ---
-<article class="post-listing post-17902 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-545 tag-free tag-issues tag-privacy tag-windows">
+<article class="post-listing post-17902 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-545 tag-free tag-issues tag-privacy tag-windows">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>

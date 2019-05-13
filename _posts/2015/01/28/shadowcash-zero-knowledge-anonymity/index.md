@@ -1,7 +1,7 @@
 ---
 Shadowcash Hits Zero-Knowledge Jackpot with Casino-style Anonymity
 ---
-<article class="post-listing post-8922 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-anonymity tag-casinostyle tag-enabling tag-shadowcashs tag-update tag-zeroknowledge">
+<article class="post-listing post-8922 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymity tag-casinostyle tag-enabling tag-shadowcashs tag-update tag-zeroknowledge">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

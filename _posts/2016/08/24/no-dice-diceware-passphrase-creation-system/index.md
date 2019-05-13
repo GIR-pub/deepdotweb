@@ -1,7 +1,7 @@
 ---
 No Dice: Diceware Passphrase Creation System
 ---
-<article class="post-listing post-15243 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-creation tag-dice tag-diceware tag-passphrase tag-system">
+<article class="post-listing post-15243 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-creation tag-dice tag-diceware tag-passphrase tag-system">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>

@@ -1,7 +1,7 @@
 ---
 Behind-the-Scenes: a Darknet Market on the Ethereum Blockchain
 ---
-<article class="post-listing post-21158 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-behindthescenes tag-blockchain tag-darknet tag-ethereum tag-market">
+<article class="post-listing post-21158 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-behindthescenes tag-blockchain tag-darknet tag-ethereum tag-market">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>

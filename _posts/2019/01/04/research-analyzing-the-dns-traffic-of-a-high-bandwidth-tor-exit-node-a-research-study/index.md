@@ -1,7 +1,7 @@
 ---
 Research: Analyzing the DNS traffic of a high bandwidth Tor exit node &#8211; A research study
 ---
-<article class="post-listing post-27961 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-analyzing tag-bandwidth tag-dns tag-exit tag-high tag-node tag-research tag-study tag-tor tag-traffic">
+<article class="post-listing post-27961 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analyzing tag-bandwidth tag-dns tag-exit tag-high tag-node tag-research tag-study tag-tor tag-traffic">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

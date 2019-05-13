@@ -1,7 +1,7 @@
 ---
 PascalCoin &#8211; A New Cryptocurrency Setting a Record For Daily Trade Volume
 ---
-<article class="post-listing post-18117 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-cryptocurrency tag-daily tag-pascalcoin tag-record tag-setting tag-trade tag-volume">
+<article class="post-listing post-18117 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cryptocurrency tag-daily tag-pascalcoin tag-record tag-setting tag-trade tag-volume">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

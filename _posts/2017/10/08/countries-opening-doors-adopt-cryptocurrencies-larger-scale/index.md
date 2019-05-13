@@ -1,7 +1,7 @@
 ---
 Some countries are opening doors to adopt cryptocurrencies in a larger scale
 ---
-<article class="post-listing post-22970 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-adopt tag-countries tag-cryptocurrencies tag-doors tag-larger tag-opening tag-scale">
+<article class="post-listing post-22970 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-adopt tag-countries tag-cryptocurrencies tag-doors tag-larger tag-opening tag-scale">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

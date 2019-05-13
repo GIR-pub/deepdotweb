@@ -1,7 +1,7 @@
 ---
 An Overview of Peer-to-peer (P2P) Botnets
 ---
-<article class="post-listing post-20669 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-botnets tag-overview tag-p2p tag-peertopeer">
+<article class="post-listing post-20669 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-botnets tag-overview tag-p2p tag-peertopeer">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

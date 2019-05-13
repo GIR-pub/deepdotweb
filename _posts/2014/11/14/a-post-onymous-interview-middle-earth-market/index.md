@@ -1,7 +1,7 @@
 ---
 Interview With Middle Earth Marketplace Admin (Post Onymous)
 ---
-<article class="post-listing post-8125 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-admin tag-earth tag-interview tag-market tag-middle tag-onymous tag-post">
+<article class="post-listing post-8125 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-admin tag-earth tag-interview tag-market tag-middle tag-onymous tag-post">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

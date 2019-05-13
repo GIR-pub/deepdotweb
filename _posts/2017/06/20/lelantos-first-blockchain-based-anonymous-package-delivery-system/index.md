@@ -1,7 +1,7 @@
 ---
 Lelantos &#8211; The First Blockchain Based Anonymous Package Delivery System
 ---
-<article class="post-listing post-20754 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-anonymous tag-based tag-blockchain tag-delivery tag-lelantos tag-package tag-system">
+<article class="post-listing post-20754 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-based tag-blockchain tag-delivery tag-lelantos tag-package tag-system">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

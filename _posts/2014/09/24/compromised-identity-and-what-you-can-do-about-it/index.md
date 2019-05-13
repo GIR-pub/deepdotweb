@@ -1,7 +1,7 @@
 ---
 Guide: Preventing &#038; Dealing With Compromised Identity
 ---
-<article class="post-listing post-6199 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-compromised tag-identity">
+<article class="post-listing post-6199 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-compromised tag-identity">
     
     <div class="post-inner">
     

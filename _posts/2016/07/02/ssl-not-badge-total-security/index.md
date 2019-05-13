@@ -1,7 +1,7 @@
 ---
 SSL Is Not a Badge Of Total Security
 ---
-<article class="post-listing post-14701 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-badge tag-security tag-ssl tag-total">
+<article class="post-listing post-14701 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-badge tag-security tag-ssl tag-total">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/vb/" title="">V.B </a></span>

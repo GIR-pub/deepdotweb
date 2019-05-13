@@ -1,7 +1,7 @@
 ---
 Interview With a Dark Net Market Developer
 ---
-<article class="post-listing post-12260 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-dark tag-developer tag-interview tag-net">
+<article class="post-listing post-12260 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-developer tag-interview tag-net">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

@@ -4,7 +4,7 @@ A WORLD OF POSSIBILITIES
 ---
 Setting Up Your Own VPN
 ---
-<article class="post-listing post-20732 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-setting tag-vpn">
+<article class="post-listing post-20732 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-setting tag-vpn">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>

@@ -1,7 +1,7 @@
 ---
 Steganalysis: finding hidden data in Images
 ---
-<article class="post-listing post-17272 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-data tag-finding tag-hidden tag-images tag-steganalysis">
+<article class="post-listing post-17272 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-data tag-finding tag-hidden tag-images tag-steganalysis">
     
     <div class="post-inner">
     

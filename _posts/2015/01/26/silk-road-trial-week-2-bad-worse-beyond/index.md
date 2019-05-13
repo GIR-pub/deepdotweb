@@ -1,7 +1,7 @@
 ---
 Silk Road Trial: Week 2 – From Bad to Worse and Beyond
 ---
-<article class="post-listing post-8912 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bad tag-road tag-silk tag-silkroadtrial tag-trial tag-week tag-worse">
+<article class="post-listing post-8912 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bad tag-road tag-silk tag-silkroadtrial tag-trial tag-week tag-worse">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>

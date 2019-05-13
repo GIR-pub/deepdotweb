@@ -1,7 +1,7 @@
 ---
 Snoopers&#8217; Charter: the Most Spied on Country in the World Is About to Get Worse
 ---
-<article class="post-listing post-10293 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-charter tag-country tag-snoopers tag-spied tag-world tag-worse">
+<article class="post-listing post-10293 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-charter tag-country tag-snoopers tag-spied tag-world tag-worse">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/politech/" title="">Politech </a></span>

@@ -1,7 +1,7 @@
 ---
 VPN with Tor
 ---
-<article class="post-listing post-6541 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-tor tag-vpn">
+<article class="post-listing post-6541 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-tor tag-vpn">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>

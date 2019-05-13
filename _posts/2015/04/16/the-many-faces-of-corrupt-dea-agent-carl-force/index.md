@@ -1,7 +1,7 @@
 ---
 Corruption: The many faces of corrupt DEA agent Carl Force (2)
 ---
-<article class="post-listing post-9893 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-srcorruption">
+<article class="post-listing post-9893 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-srcorruption">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>

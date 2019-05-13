@@ -1,7 +1,7 @@
 ---
 Simple Whonix Installation Tutorial
 ---
-<article class="post-listing post-5913 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-installation tag-simple tag-tutorial tag-whonix">
+<article class="post-listing post-5913 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-installation tag-simple tag-tutorial tag-whonix">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>

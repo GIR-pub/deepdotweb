@@ -1,7 +1,7 @@
 ---
 Tutorial: How To Buy From Middle Earth Marketplace?
 ---
-<article class="post-listing post-10094 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-buy tag-earth tag-marketplace tag-middle tag-tutorial">
+<article class="post-listing post-10094 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-earth tag-marketplace tag-middle tag-tutorial">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

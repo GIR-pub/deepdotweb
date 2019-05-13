@@ -1,7 +1,7 @@
 ---
 K-Chains &#8211; Blockchain Protocols Based On Quantum Mechanics
 ---
-<article class="post-listing post-18114 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-based tag-blockchain tag-kchains tag-mechanics tag-protocols tag-quantum">
+<article class="post-listing post-18114 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-based tag-blockchain tag-kchains tag-mechanics tag-protocols tag-quantum">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

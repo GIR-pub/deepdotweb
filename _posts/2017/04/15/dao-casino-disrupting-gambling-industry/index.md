@@ -1,7 +1,7 @@
 ---
 DAO Casino: Disrupting the gambling industry
 ---
-<article class="post-listing post-19199 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-casino tag-dao tag-disrupting tag-gambling tag-industry">
+<article class="post-listing post-19199 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-casino tag-dao tag-disrupting tag-gambling tag-industry">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

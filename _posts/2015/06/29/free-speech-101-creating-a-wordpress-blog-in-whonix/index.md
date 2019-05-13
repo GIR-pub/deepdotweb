@@ -1,7 +1,7 @@
 ---
 Free Speech 101: Creating a WordPress Blog in Whonix
 ---
-<article class="post-listing post-9376 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-1941 tag-blog tag-creating tag-free tag-speech tag-whonix tag-wordpress">
+<article class="post-listing post-9376 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-1941 tag-blog tag-creating tag-free tag-speech tag-whonix tag-wordpress">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/politech/" title="">Politech </a></span>

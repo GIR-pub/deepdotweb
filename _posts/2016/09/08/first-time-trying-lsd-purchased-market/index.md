@@ -1,7 +1,7 @@
 ---
 First time trying LSD purchased from the Market.
 ---
-<article class="post-listing post-15347 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-lsd tag-market tag-purchased tag-time">
+<article class="post-listing post-15347 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-lsd tag-market tag-purchased tag-time">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/ermando/" title="">Ermando </a></span>

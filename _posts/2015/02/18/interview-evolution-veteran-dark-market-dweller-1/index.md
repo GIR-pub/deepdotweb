@@ -1,7 +1,7 @@
 ---
 Interview: The Evolution Of a Veteran Dark Market Dweller #1
 ---
-<article class="post-listing post-8488 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-dark tag-dweller tag-evolution tag-interview tag-market tag-veteran tag-veterandarkmarketdweller">
+<article class="post-listing post-8488 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-dweller tag-evolution tag-interview tag-market tag-veteran tag-veterandarkmarketdweller">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>

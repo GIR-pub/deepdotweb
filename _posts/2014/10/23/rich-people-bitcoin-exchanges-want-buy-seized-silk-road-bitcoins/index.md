@@ -1,7 +1,7 @@
 ---
 Why Did Rich People &#038; BTC Exchanges Want To Buy The Seized SR Coins?
 ---
-<article class="post-listing post-6847 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoin tag-bitcoins tag-buy tag-exchanges tag-people tag-rich tag-road tag-seized tag-silk">
+<article class="post-listing post-6847 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-bitcoins tag-buy tag-exchanges tag-people tag-rich tag-road tag-seized tag-silk">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>

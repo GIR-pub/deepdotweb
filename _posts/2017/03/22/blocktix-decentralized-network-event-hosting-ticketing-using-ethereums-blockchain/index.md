@@ -1,7 +1,7 @@
 ---
 Blocktix : Decentralized Network for Event Hosting &#038; Ticketing Using Ethereum&#8217;s Blockchain
 ---
-<article class="post-listing post-18740 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-blockchain tag-blocktix tag-decentralized tag-ethereums tag-event tag-hosting tag-network tag-ticketing">
+<article class="post-listing post-18740 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-blocktix tag-decentralized tag-ethereums tag-event tag-hosting tag-network tag-ticketing">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

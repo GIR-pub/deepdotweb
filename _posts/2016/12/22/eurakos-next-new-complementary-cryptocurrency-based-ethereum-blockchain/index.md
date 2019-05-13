@@ -1,7 +1,7 @@
 ---
 Eurakos Next: A New Complementary Cryptocurrency Based On the Ethereum Blockchain
 ---
-<article class="post-listing post-17086 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-based tag-blockchain tag-complementary tag-cryptocurrency tag-ethereum tag-eurakos">
+<article class="post-listing post-17086 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-based tag-blockchain tag-complementary tag-cryptocurrency tag-ethereum tag-eurakos">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

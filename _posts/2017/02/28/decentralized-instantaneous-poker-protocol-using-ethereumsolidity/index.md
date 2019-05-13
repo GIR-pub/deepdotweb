@@ -1,7 +1,7 @@
 ---
 Decentralized Instantaneous Poker Protocol Using Ethereum/Solidity
 ---
-<article class="post-listing post-18375 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-decentralized tag-ethereumsolidity tag-instantaneous tag-poker tag-protocol">
+<article class="post-listing post-18375 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-decentralized tag-ethereumsolidity tag-instantaneous tag-poker tag-protocol">
     
     <div class="post-inner">
     

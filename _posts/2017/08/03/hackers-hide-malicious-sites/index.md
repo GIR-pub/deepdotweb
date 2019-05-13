@@ -1,7 +1,7 @@
 ---
 HOW HACKERS HIDE MALICIOUS SITES
 ---
-<article class="post-listing post-21713 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-hackers tag-hide tag-malicious tag-sites">
+<article class="post-listing post-21713 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-hackers tag-hide tag-malicious tag-sites">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>

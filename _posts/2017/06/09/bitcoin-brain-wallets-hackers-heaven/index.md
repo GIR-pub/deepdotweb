@@ -1,7 +1,7 @@
 ---
 Bitcoin Brain Wallets : Hackers&#8217; Heaven!
 ---
-<article class="post-listing post-20486 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoin tag-brain tag-hackers tag-heaven tag-wallets">
+<article class="post-listing post-20486 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-brain tag-hackers tag-heaven tag-wallets">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

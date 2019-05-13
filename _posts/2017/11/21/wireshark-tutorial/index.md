@@ -1,7 +1,7 @@
 ---
 Wireshark Tutorial
 ---
-<article class="post-listing post-23615 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-tutorial tag-wireshark">
+<article class="post-listing post-23615 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-tutorial tag-wireshark">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>

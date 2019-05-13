@@ -1,7 +1,7 @@
 ---
 Russia Emerging Black Market For Bitcoin
 ---
-<article class="post-listing post-7386 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoin tag-black tag-emerging tag-market tag-russia">
+<article class="post-listing post-7386 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-black tag-emerging tag-market tag-russia">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>

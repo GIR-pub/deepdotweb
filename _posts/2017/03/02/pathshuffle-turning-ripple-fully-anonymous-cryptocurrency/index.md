@@ -1,7 +1,7 @@
 ---
 PathShuffle &#8211; Turning Ripple Into A Fully Anonymous Cryptocurrency
 ---
-<article class="post-listing post-18406 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-anonymous tag-cryptocurrency tag-fully tag-pathshuffle tag-ripple tag-turning">
+<article class="post-listing post-18406 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-cryptocurrency tag-fully tag-pathshuffle tag-ripple tag-turning">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

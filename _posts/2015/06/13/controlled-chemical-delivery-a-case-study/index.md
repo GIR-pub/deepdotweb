@@ -1,7 +1,7 @@
 ---
 Controlled Chemical Delivery – A Case Study
 ---
-<article class="post-listing post-8628 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-case tag-chemical tag-controlled tag-delivery tag-study">
+<article class="post-listing post-8628 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-case tag-chemical tag-controlled tag-delivery tag-study">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>

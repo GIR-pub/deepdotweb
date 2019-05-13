@@ -1,7 +1,7 @@
 ---
 Interview With a Vendor: &#8220;Darknet is a safe place, Outside of it, isn&#8217;t&#8221;
 ---
-<article class="post-listing post-5348 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-agora tag-extensive tag-interview tag-stardockgalix tag-vendor">
+<article class="post-listing post-5348 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-agora tag-extensive tag-interview tag-stardockgalix tag-vendor">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

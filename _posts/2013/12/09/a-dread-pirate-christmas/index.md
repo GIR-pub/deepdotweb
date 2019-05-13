@@ -1,7 +1,7 @@
 ---
 title: A Dread Pirate Christmas
 ---
-2363 category-articles category-deepdot-news tag-christmas tag-dread tag-pirate">
+2363 category-deepdot-news tag-christmas tag-dread tag-pirate">
 
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/roul/" title="">Raoul Duke </a></span>

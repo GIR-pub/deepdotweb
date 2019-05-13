@@ -1,7 +1,7 @@
 ---
 How To Torrent Pharmaceutical Drugs
 ---
-<article class="post-listing post-26530 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-drugs tag-pharmaceutical tag-torrent">
+<article class="post-listing post-26530 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-drugs tag-pharmaceutical tag-torrent">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>

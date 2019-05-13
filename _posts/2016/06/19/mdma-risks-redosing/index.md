@@ -1,7 +1,7 @@
 ---
 MDMA: The Risks of Redosing
 ---
-<article class="post-listing post-14502 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-mdma tag-redosing tag-risks">
+<article class="post-listing post-14502 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-mdma tag-redosing tag-risks">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kevin/" title="">-Kevin- </a></span>

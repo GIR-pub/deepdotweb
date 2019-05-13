@@ -1,7 +1,7 @@
 ---
 Darkode: Extended Background Story
 ---
-<article class="post-listing post-11093 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-background tag-darkode tag-extended tag-story">
+<article class="post-listing post-11093 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-background tag-darkode tag-extended tag-story">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/canahontra/" title="">Canahontra </a></span>

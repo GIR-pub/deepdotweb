@@ -1,7 +1,7 @@
 ---
 How To Minimize Bitcoin Transaction Confirmation Delays Via Adjusting Miners&#8217; Fees?
 ---
-<article class="post-listing post-19586 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-adjusting tag-bitcoin tag-confirmation tag-delays tag-fees tag-miners tag-minimize tag-transaction">
+<article class="post-listing post-19586 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-adjusting tag-bitcoin tag-confirmation tag-delays tag-fees tag-miners tag-minimize tag-transaction">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

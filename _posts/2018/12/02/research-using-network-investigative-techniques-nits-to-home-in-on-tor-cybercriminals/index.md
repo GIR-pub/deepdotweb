@@ -1,7 +1,7 @@
 ---
 Research: Using Network Investigative Techniques (NITs) to Home in on Tor Cybercriminals
 ---
-<article class="post-listing post-27441 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-cybercriminals tag-home tag-investigative tag-network tag-nits tag-techniques tag-tor">
+<article class="post-listing post-27441 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cybercriminals tag-home tag-investigative tag-network tag-nits tag-techniques tag-tor">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

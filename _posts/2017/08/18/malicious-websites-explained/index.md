@@ -1,7 +1,7 @@
 ---
 Malicious Websites Explained
 ---
-<article class="post-listing post-22025 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-explained tag-malicious tag-websites">
+<article class="post-listing post-22025 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-explained tag-malicious tag-websites">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>

@@ -1,7 +1,7 @@
 ---
 Tutorial &#8211; How To Accept Bitcoin Payments On Your Website
 ---
-<article class="post-listing post-18852 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-accept tag-bitcoin tag-payments tag-tutorial tag-website">
+<article class="post-listing post-18852 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-accept tag-bitcoin tag-payments tag-tutorial tag-website">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

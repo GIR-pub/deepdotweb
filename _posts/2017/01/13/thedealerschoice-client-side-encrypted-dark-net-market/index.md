@@ -1,7 +1,7 @@
 ---
 TheDealersChoice, a client-side, encrypted Dark Net market
 ---
-<article class="post-listing post-17328 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-clientside tag-dark tag-encrypted tag-kptx tag-market tag-net tag-thedealerschoice">
+<article class="post-listing post-17328 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-clientside tag-dark tag-encrypted tag-kptx tag-market tag-net tag-thedealerschoice">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

@@ -1,7 +1,7 @@
 ---
 How To Setup Your Own Honeypot?
 ---
-<article class="post-listing post-22141 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-honeypot tag-setup">
+<article class="post-listing post-22141 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-honeypot tag-setup">
     
     <div class="post-inner">
     

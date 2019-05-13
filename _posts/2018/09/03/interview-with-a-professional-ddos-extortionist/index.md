@@ -1,7 +1,7 @@
 ---
 Interview with a Professional DDoS Extortionist
 ---
-<article class="post-listing post-26675 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-ddos tag-extortionist tag-interview tag-professional">
+<article class="post-listing post-26675 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-ddos tag-extortionist tag-interview tag-professional">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

@@ -1,7 +1,7 @@
 ---
 Using Bitcoin Casinos To Launder Bitcoin
 ---
-<article class="post-listing post-13715 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoin tag-casinos tag-launder">
+<article class="post-listing post-13715 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-casinos tag-launder">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>

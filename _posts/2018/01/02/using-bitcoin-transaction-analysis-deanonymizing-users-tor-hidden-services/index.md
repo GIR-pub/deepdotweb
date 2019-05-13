@@ -1,7 +1,7 @@
 ---
 Using Bitcoin Transaction Analysis In Deanonymizing Users of Tor Hidden Services
 ---
-<article class="post-listing post-24239 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-analysis tag-bitcoin tag-deanonymizing tag-hidden tag-services tag-tor tag-transaction tag-users">
+<article class="post-listing post-24239 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analysis tag-bitcoin tag-deanonymizing tag-hidden tag-services tag-tor tag-transaction tag-users">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

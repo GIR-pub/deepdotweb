@@ -1,7 +1,7 @@
 ---
 External Verification of Oblivious RAM Using Ethereum&#8217;s Smart Contracts
 ---
-<article class="post-listing post-17397 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-contracts tag-ethereums tag-external tag-oblivious tag-ram tag-smart tag-verification">
+<article class="post-listing post-17397 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-contracts tag-ethereums tag-external tag-oblivious tag-ram tag-smart tag-verification">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

@@ -1,7 +1,7 @@
 ---
 Cryptocurrency and Gaming &#8211; A match made in heaven
 ---
-<article class="post-listing post-18743 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-cryptocurrency tag-gaming tag-heaven tag-kptx tag-match">
+<article class="post-listing post-18743 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cryptocurrency tag-gaming tag-heaven tag-kptx tag-match">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

@@ -1,7 +1,7 @@
 ---
 Interview With Bitwasp Founder &#038; Developer &#8211; Security, DarkNetMarkets &#038; Future Development
 ---
-<article class="post-listing post-4789 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitwasp tag-founder">
+<article class="post-listing post-4789 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitwasp tag-founder">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 The Colorful World of Reagents
 ---
-<article class="post-listing post-14245 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-colorful tag-reagents tag-world">
+<article class="post-listing post-14245 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-colorful tag-reagents tag-world">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kevin/" title="">-Kevin- </a></span>

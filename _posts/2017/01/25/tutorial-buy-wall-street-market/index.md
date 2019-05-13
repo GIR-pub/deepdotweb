@@ -1,7 +1,7 @@
 ---
 Tutorial: How To Buy From the Wall Street Market?
 ---
-<article class="post-listing post-17687 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-buy tag-market tag-street tag-tutorial tag-wall">
+<article class="post-listing post-17687 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-market tag-street tag-tutorial tag-wall">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

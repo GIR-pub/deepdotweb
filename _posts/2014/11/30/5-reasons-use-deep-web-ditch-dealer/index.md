@@ -1,7 +1,7 @@
 ---
 5 Reasons You Should Use The Deep Web And Ditch Your Dealer
 ---
-<article class="post-listing post-6882 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-dealer tag-deep tag-ditch tag-reasons tag-web">
+<article class="post-listing post-6882 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dealer tag-deep tag-ditch tag-reasons tag-web">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>

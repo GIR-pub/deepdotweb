@@ -1,7 +1,7 @@
 ---
 An Overview of Modern Tor Deanonymization Attacks
 ---
-<article class="post-listing post-22505 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-attacks tag-deanonymization tag-modern tag-overview tag-tor">
+<article class="post-listing post-22505 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-attacks tag-deanonymization tag-modern tag-overview tag-tor">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

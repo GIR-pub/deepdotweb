@@ -1,7 +1,7 @@
 ---
 A Public Transport Ticketing System That Accepts Bitcoin
 ---
-<article class="post-listing post-18686 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-accepts tag-bitcoin tag-public tag-system tag-ticketing tag-transport">
+<article class="post-listing post-18686 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-accepts tag-bitcoin tag-public tag-system tag-ticketing tag-transport">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

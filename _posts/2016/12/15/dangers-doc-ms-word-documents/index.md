@@ -1,7 +1,7 @@
 ---
 Dangers of .doc &#8211; MS Word Documents
 ---
-<article class="post-listing post-16932 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-dangers tag-doc tag-documents tag-ms tag-word">
+<article class="post-listing post-16932 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dangers tag-doc tag-documents tag-ms tag-word">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>

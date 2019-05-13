@@ -1,7 +1,7 @@
 ---
 Introduction to Zcash, the anonymous Bitcoin
 ---
-<article class="post-listing post-15564 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-anonymous tag-bitcoin tag-introduction tag-zcash">
+<article class="post-listing post-15564 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-bitcoin tag-introduction tag-zcash">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

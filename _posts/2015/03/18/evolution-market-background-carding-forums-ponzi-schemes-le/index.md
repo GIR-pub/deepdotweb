@@ -1,7 +1,7 @@
 ---
 Evolution Market Background: Carding Forums, Ponzi Schemes &#038; LE
 ---
-<article class="post-listing post-9540 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-evoscam">
+<article class="post-listing post-9540 post type-post status-publish format-standard has-post-thumbnail hentry tag-evoscam">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

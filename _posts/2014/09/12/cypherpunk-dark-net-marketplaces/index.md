@@ -1,7 +1,7 @@
 ---
 Cypherpunk and Dark Net Marketplaces
 ---
-<article class="post-listing post-6801 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-cypherpunk tag-dark tag-marketplaces tag-net">
+<article class="post-listing post-6801 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cypherpunk tag-dark tag-marketplaces tag-net">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>

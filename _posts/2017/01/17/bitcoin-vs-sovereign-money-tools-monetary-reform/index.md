@@ -1,7 +1,7 @@
 ---
 Bitcoin Vs Sovereign Money As Tools For Monetary Reform
 ---
-<article class="post-listing post-17567 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoin tag-monetary tag-money tag-reform tag-sovereign tag-tools">
+<article class="post-listing post-17567 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-monetary tag-money tag-reform tag-sovereign tag-tools">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

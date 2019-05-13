@@ -1,7 +1,7 @@
 ---
 AsicBoost: Scaling Debate Turns into Investigation
 ---
-<article class="post-listing post-19342 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-asicboost tag-debate tag-investigation tag-scaling tag-turns">
+<article class="post-listing post-19342 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-asicboost tag-debate tag-investigation tag-scaling tag-turns">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

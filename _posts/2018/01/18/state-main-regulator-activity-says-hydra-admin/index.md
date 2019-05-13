@@ -1,7 +1,7 @@
 ---
 “State is the main regulator of our activity” – says Hydra admin
 ---
-<article class="post-listing post-24470 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-activity tag-admin tag-hydra tag-main tag-regulator tag-state">
+<article class="post-listing post-24470 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-activity tag-admin tag-hydra tag-main tag-regulator tag-state">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>

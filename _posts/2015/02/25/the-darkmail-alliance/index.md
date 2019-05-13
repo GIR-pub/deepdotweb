@@ -1,7 +1,7 @@
 ---
 The Darkmail Alliance
 ---
-<article class="post-listing post-8749 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-alliance tag-darkmail">
+<article class="post-listing post-8749 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-alliance tag-darkmail">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>

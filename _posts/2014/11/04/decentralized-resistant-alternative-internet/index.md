@@ -1,7 +1,7 @@
 ---
 A Decentralized, Resistant, Alternative Internet
 ---
-<article class="post-listing post-7271 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-alternative tag-decentralized tag-internet tag-resistant">
+<article class="post-listing post-7271 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-alternative tag-decentralized tag-internet tag-resistant">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>

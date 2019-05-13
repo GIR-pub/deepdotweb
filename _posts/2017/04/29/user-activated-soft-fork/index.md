@@ -1,7 +1,7 @@
 ---
 What is a User Activated Soft Fork?
 ---
-<article class="post-listing post-19469 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-activated tag-fork tag-kptx tag-soft tag-user">
+<article class="post-listing post-19469 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-activated tag-fork tag-kptx tag-soft tag-user">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>

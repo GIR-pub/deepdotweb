@@ -1,7 +1,7 @@
 ---
 A new method for detecting malicious traffic over the Tor network
 ---
-<article class="post-listing post-27634 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-detecting tag-malicious tag-method tag-network tag-tor tag-traffic">
+<article class="post-listing post-27634 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-detecting tag-malicious tag-method tag-network tag-tor tag-traffic">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>

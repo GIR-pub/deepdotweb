@@ -1,7 +1,7 @@
 ---
 Legal Aspects of DAO (Decentralized Autonomous Organization)
 ---
-<article class="post-listing post-18802 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-aspects tag-autonomous tag-dao tag-decentralized tag-legal tag-organization">
+<article class="post-listing post-18802 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-aspects tag-autonomous tag-dao tag-decentralized tag-legal tag-organization">
     
 <div class="post-inner">
     

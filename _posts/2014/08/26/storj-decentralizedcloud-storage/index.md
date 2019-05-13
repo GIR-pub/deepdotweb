@@ -1,7 +1,7 @@
 ---
 Storj &#8211; Decentralized Cloud Storage
 ---
-<article class="post-listing post-6893 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-cloud tag-decentralized tag-storage tag-storj">
+<article class="post-listing post-6893 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cloud tag-decentralized tag-storage tag-storj">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>

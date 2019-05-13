@@ -1,7 +1,7 @@
 ---
 Liquid Sidechains and the Price of Bitcoin
 ---
-<article class="post-listing post-11818 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-bitcoin tag-liquid tag-price tag-sidechains">
+<article class="post-listing post-11818 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-liquid tag-price tag-sidechains">
 <div class="post-inner">
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>

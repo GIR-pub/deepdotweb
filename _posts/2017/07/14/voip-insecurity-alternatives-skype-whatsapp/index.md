@@ -1,7 +1,7 @@
 ---
 VOIP (IN)SECURITY: ALTERNATIVES TO SKYPE AND WHATSAPP
 ---
-<article class="post-listing post-21233 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-alternatives tag-insecurity tag-skype tag-voip tag-whatsapp">
+<article class="post-listing post-21233 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-alternatives tag-insecurity tag-skype tag-voip tag-whatsapp">
     <div class="post-inner">
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
