@@ -45,7 +45,7 @@ Heads Up To Market Admins Running IIS
     <p>All the best,<br/>
     TheRealDeal Market</p></blockquote>
     <p>The listing of the exploit on TheRealDeal:</p>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2015/04/exploit.png" rel="lightbox"> <img class="aligncenter size-full wp-image-10010" src="http://www.deepdotweb.com/wp-content/uploads/2015/04/exploit.png" alt="exploit" width="875" height="419"/> </a></p>
+    <p><a href="/imgs/2015/04/exploit.png" rel="lightbox"> <img class="aligncenter size-full wp-image-10010" src="/imgs/2015/04/exploit.png" alt="exploit" width="875" height="419"/> </a></p>
     <h3>Share and Enjoy</h3>
     
     <div class="wp-socializer 32px">

@@ -21,7 +21,7 @@ Urgent PSA: Stop Doxxing Yourself!!
 <li>Their picture</li>
 <li>Their social network profiles</li>
 </ul>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2015/03/fruit.png"><img class="aligncenter size-full wp-image-9776" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/fruit.png" alt="fruit" width="673" height="362" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/fruit.png 673w, https://www.deepdotweb.com/wp-content/uploads/2015/03/fruit-300x161.png 300w" sizes="(max-width: 673px) 100vw, 673px"/></a><br/>
+<p><a href="/imgs/2015/03/fruit.png"><img class="aligncenter size-full wp-image-9776" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/fruit.png" alt="fruit" width="673" height="362" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/fruit.png 673w, https://www.deepdotweb.com/wp-content/uploads/2015/03/fruit-300x161.png 300w" sizes="(max-width: 673px) 100vw, 673px"/></a><br/>
 <strong>Whatever it is, WE DON&#8217;T WANT TO KNOW. <span style="text-decoration: underline;">PLEASE STOP</span>!</strong> For the seriously low hanging fruits among you, i will be more specific:</p>
 <ol>
 <li>Stop sending us mail with incriminating information about yourself from your personal GMAILS (they are being deleted immediately!)</li>

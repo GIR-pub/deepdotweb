@@ -38,7 +38,7 @@ New: Short news!
     
 </span>
 </div><span class="wpsr_floatbts_anchor" data-offset="25"></span><p>Added a quick news widget to be updated with short announcements,  Breaking news and interesting items:</p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2015/02/short.png" rel="lightbox"> <img class="aligncenter size-full wp-image-9044" src="http://www.deepdotweb.com/wp-content/uploads/2015/02/short.png" alt="short" width="1174" height="647"/> </a></p>
+<p><a href="/imgs/2015/02/short.png" rel="lightbox"> <img class="aligncenter size-full wp-image-9044" src="/imgs/2015/02/short.png" alt="short" width="1174" height="647"/> </a></p>
 <h3>Share and Enjoy</h3>
     
 <div class="wp-socializer 32px">

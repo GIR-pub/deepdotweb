@@ -43,7 +43,7 @@ Cross-Marketplace Discussion &#038; News: The Hub Forum Is Live!
     <p>Alfred</p>
     <p>=====End Quote=====</p>
     <p>Screenshot of the forum (yes&#8230; also SMF):</p>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/01/hub.png"><img class="aligncenter  wp-image-3446" alt="The Hub Forum" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/hub.png" width="774" height="886" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/01/hub.png 774w, https://www.deepdotweb.com/wp-content/uploads/2014/01/hub-262x300.png 262w" sizes="(max-width: 774px) 100vw, 774px"/></a></p>
+    <p><a href="/imgs/2014/01/hub.png"><img class="aligncenter  wp-image-3446" alt="The Hub Forum" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/hub.png" width="774" height="886" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/01/hub.png 774w, https://www.deepdotweb.com/wp-content/uploads/2014/01/hub-262x300.png 262w" sizes="(max-width: 774px) 100vw, 774px"/></a></p>
     <p>We Will be integrating links to the forum on our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace list</a>, Along with the Reddit links, with the hope that it will be used as a neutral gathering and discussion area for the different markets not related to one single market managements and not bound to get shut down by LE since there will be no illegal activity on the forums.</p>
     <p>We wish Alferd and the other team members good luck with this project, it has a lot of potential.</p>
     </div>

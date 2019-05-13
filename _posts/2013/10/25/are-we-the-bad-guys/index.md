@@ -40,7 +40,7 @@ title: Are we the bad guys?
 <su:badge layout="1"></su:badge>
 <!-- End WP Socializer Plugin - StumbleUpon Button -->
 </span>
-</div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/10/RaB62I1.jpg" rel="lightbox" > <img class="aligncenter size-full wp-image-827" alt="Bad guys stars war" src="http://www.deepdotweb.com/wp-content/uploads/2013/10/RaB62I1.jpg" width="570" height="411" /> </a>And i was sure the white plastic suites means we are the good guys!</p>
+</div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p><a href="/imgs/2013/10/RaB62I1.jpg" rel="lightbox" > <img class="aligncenter size-full wp-image-827" alt="Bad guys stars war" src="/imgs/2013/10/RaB62I1.jpg" width="570" height="411" /> </a>And i was sure the white plastic suites means we are the good guys!</p>
     
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><h3>Share and Enjoy</h3>
     

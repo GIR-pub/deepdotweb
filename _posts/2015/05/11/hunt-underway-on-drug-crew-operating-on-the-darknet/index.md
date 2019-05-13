@@ -56,7 +56,7 @@ Hunt Underway on Drug Crew operating on the Darknet
     <hr/>
     <p>I am at work so I have no time for a translation. Just wanted to make sure nobody missed this.</p></blockquote>
     <p>So LE are trying to warn dutch vendors to improve their OPSEC?  this press release seems a bit unusual as no busts were made and the investigation is ongoing.</p>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2015/05/zObBHKL1.png" rel="lightbox"> <img class="aligncenter size-full wp-image-10239" src="http://www.deepdotweb.com/wp-content/uploads/2015/05/zObBHKL1.png" alt="zObBHKL[1]" width="475" height="537"/> </a></p>
+    <p><a href="/imgs/2015/05/zObBHKL1.png" rel="lightbox"> <img class="aligncenter size-full wp-image-10239" src="/imgs/2015/05/zObBHKL1.png" alt="zObBHKL[1]" width="475" height="537"/> </a></p>
     <p>* Will try and get a proper translation later. If you are reading this and you can translate from dutch, <a href="http://www.deepdotweb.com/contact-us/">contact</a>.</p>
     <h3>Share and Enjoy</h3>
     

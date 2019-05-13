@@ -13,7 +13,7 @@ title: Goodbye SilkRoad &#038; Breaking bad
 <div class="entry">
 <p>Well, it a bit late now &#8211;  but it was a very sad week when we lost both of them just couple of days apart.</p>
 <p>&nbsp;</p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/10/BrSrMeme.jpg"><img class="aligncenter size-full wp-image-577" alt="Silkroad Breaking Bad - Goodbye" src="https://www.deepdotweb.com/wp-content/uploads/2013/10/BrSrMeme.jpg" width="393" height="356" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/10/BrSrMeme.jpg 393w, https://www.deepdotweb.com/wp-content/uploads/2013/10/BrSrMeme-300x272.jpg 300w" sizes="(max-width: 393px) 100vw, 393px"/></a></p>
+<p><a href="/imgs/2013/10/BrSrMeme.jpg"><img class="aligncenter size-full wp-image-577" alt="Silkroad Breaking Bad - Goodbye" src="https://www.deepdotweb.com/wp-content/uploads/2013/10/BrSrMeme.jpg" width="393" height="356" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/10/BrSrMeme.jpg 393w, https://www.deepdotweb.com/wp-content/uploads/2013/10/BrSrMeme-300x272.jpg 300w" sizes="(max-width: 393px) 100vw, 393px"/></a></p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/breaking-bad/" rel="tag">breaking bad</a> <a href="https://www.deepdotweb.com/tag/logo/" rel="tag">logo</a> <a href="https://www.deepdotweb.com/tag/meme/" rel="tag">meme</a> <a href="https://www.deepdotweb.com/tag/silkroad/" rel="tag">silkroad</a></span> 
 Updated2013-10-19

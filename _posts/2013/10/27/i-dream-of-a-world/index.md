@@ -40,7 +40,7 @@ script type="IN/Share" data-url="http://www.deepdotweb.com/2013/10/27/i-dream-of
 su:badge layout="1"></su:badge>
 !-- End WP Socializer Plugin - StumbleUpon Button -->
 /span>
-</div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/10/1376575_466455113463165_1134540300_n1.jpg" rel="lightbox" > <img class="aligncenter size-full wp-image-871" alt="I dream.." src="http://www.deepdotweb.com/wp-content/uploads/2013/10/1376575_466455113463165_1134540300_n1.jpg" width="499" height="389" /> </a></p>
+</div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p><a href="/imgs/2013/10/1376575_466455113463165_1134540300_n1.jpg" rel="lightbox" > <img class="aligncenter size-full wp-image-871" alt="I dream.." src="/imgs/2013/10/1376575_466455113463165_1134540300_n1.jpg" width="499" height="389" /> </a></p>
 <p>I always knew the chicken intentions wree only for good.</p>
     
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><h3>Share and Enjoy</h3>

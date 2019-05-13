@@ -17,7 +17,7 @@ BlackBank Market Now Offering MultiSig Escrow
     <p>You can discuss this new feature at their reddit thread here: www.reddit.com/r/DarkNetMarkets/comments/1y1twm/blackbank_market_small_updates_multisig_escrow/</p>
     <h2>Introduction</h2>
     <p>After researching several methods and implementations of Multi-Sig Escrow, there has been a compromise in terms of ease of use and security. In order to provide the best experience, Multi-Sig security applies only to Escrow, as this is the only time funds would be inaccessible. In every other case, BlackBank should not be used to store funds in the system.</p>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/1.jpg"><img class="aligncenter size-full wp-image-4232" alt="1" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/1.jpg" width="400" height="232" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/1.jpg 400w, https://www.deepdotweb.com/wp-content/uploads/2014/02/1-300x174.jpg 300w" sizes="(max-width: 400px) 100vw, 400px"/></a></p>
+    <p><a href="/imgs/2014/02/1.jpg"><img class="aligncenter size-full wp-image-4232" alt="1" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/1.jpg" width="400" height="232" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/1.jpg 400w, https://www.deepdotweb.com/wp-content/uploads/2014/02/1-300x174.jpg 300w" sizes="(max-width: 400px) 100vw, 400px"/></a></p>
     <ol>
     <li>Buyer deposits BTC into BlackBank and after 6 confirmations can make purchases.</li>
     <li>If the item has escrow, the Buyer enters a <b>public key</b>. At this point, the funds are not locked yet and can be cancelled and withdrawn at anytime.</li>
@@ -37,23 +37,23 @@ BlackBank Market Now Offering MultiSig Escrow
     <ul>
     <li><a href="http://brainwallet.org/" rel="nofollow">brainwallet.org</a></li>
     </ul>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/2.jpg"><img class="aligncenter size-full wp-image-4233" alt="2" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/2.jpg" width="400" height="589" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/2.jpg 400w, https://www.deepdotweb.com/wp-content/uploads/2014/02/2-204x300.jpg 204w" sizes="(max-width: 400px) 100vw, 400px"/></a></p>
+    <p><a href="/imgs/2014/02/2.jpg"><img class="aligncenter size-full wp-image-4233" alt="2" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/2.jpg" width="400" height="589" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/2.jpg 400w, https://www.deepdotweb.com/wp-content/uploads/2014/02/2-204x300.jpg 204w" sizes="(max-width: 400px) 100vw, 400px"/></a></p>
     <h2>Buyer&#8217;s Guide</h2>
     <h3>Making a Multi-Sig Escrow Purchase</h3>
     <h4>Purchasing an Item</h4>
     <p>After you have your public and private key pair, you will use your public key to make a purchase. Store your private key someplace safe; keep it with your public key for cross-reference. After selecting the options, enter your <b>public key</b> and <b>refund address</b> to purchase:</p>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/3.jpg"><img class="aligncenter size-full wp-image-4234" alt="3" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/3.jpg" width="529" height="448" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/3.jpg 529w, https://www.deepdotweb.com/wp-content/uploads/2014/02/3-300x254.jpg 300w" sizes="(max-width: 529px) 100vw, 529px"/></a></p>
+    <p><a href="/imgs/2014/02/3.jpg"><img class="aligncenter size-full wp-image-4234" alt="3" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/3.jpg" width="529" height="448" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/3.jpg 529w, https://www.deepdotweb.com/wp-content/uploads/2014/02/3-300x254.jpg 300w" sizes="(max-width: 529px) 100vw, 529px"/></a></p>
     <h4>Cancel Purchase</h4>
     <p>If a purchase has not been accept by the vendor yet, you can always cancel the purchase:</p>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/4.png"><img class="aligncenter size-full wp-image-4235" alt="4" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/4.png" width="600" height="115" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/4.png 600w, https://www.deepdotweb.com/wp-content/uploads/2014/02/4-300x58.png 300w" sizes="(max-width: 600px) 100vw, 600px"/></a></p>
+    <p><a href="/imgs/2014/02/4.png"><img class="aligncenter size-full wp-image-4235" alt="4" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/4.png" width="600" height="115" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/4.png 600w, https://www.deepdotweb.com/wp-content/uploads/2014/02/4-300x58.png 300w" sizes="(max-width: 600px) 100vw, 600px"/></a></p>
     <h4>Releasing Escrow</h4>
     <p>After you are satisfied with your item or service, you release your escrow by entering your private key:</p>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/5.jpg"><img class="aligncenter size-full wp-image-4236" alt="5" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/5.jpg" width="379" height="195" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/5.jpg 379w, https://www.deepdotweb.com/wp-content/uploads/2014/02/5-300x154.jpg 300w" sizes="(max-width: 379px) 100vw, 379px"/></a></p>
+    <p><a href="/imgs/2014/02/5.jpg"><img class="aligncenter size-full wp-image-4236" alt="5" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/5.jpg" width="379" height="195" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/5.jpg 379w, https://www.deepdotweb.com/wp-content/uploads/2014/02/5-300x154.jpg 300w" sizes="(max-width: 379px) 100vw, 379px"/></a></p>
     <h2>Guide for Vendors</h2>
     <h3>Handling Multi-Sig Purchases</h3>
     <h4>How to Accept a Purchase</h4>
     <p>When accepting a purchase, please enter your public key and a withdrawal address:</p>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/6.jpg"><img class="aligncenter size-full wp-image-4237" alt="6" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/6.jpg" width="400" height="181" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/6.jpg 400w, https://www.deepdotweb.com/wp-content/uploads/2014/02/6-300x136.jpg 300w" sizes="(max-width: 400px) 100vw, 400px"/></a></p>
+    <p><a href="/imgs/2014/02/6.jpg"><img class="aligncenter size-full wp-image-4237" alt="6" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/6.jpg" width="400" height="181" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/6.jpg 400w, https://www.deepdotweb.com/wp-content/uploads/2014/02/6-300x136.jpg 300w" sizes="(max-width: 400px) 100vw, 400px"/></a></p>
     <h4>Options after accepting a purchase</h4>
     <p>After a purchase is made, there will be additional details provided:</p>
     <ul>
@@ -61,7 +61,7 @@ BlackBank Market Now Offering MultiSig Escrow
     <li><b>Manual FE Code:</b> for manually finalizing outside of BlackBank</li>
     <li><b>Payment Address:</b> make sure this is correct as this is where the payment will go when the funds are released</li>
     </ul>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/7.jpg"><img class="aligncenter size-full wp-image-4238" alt="7" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/7.jpg" width="600" height="270" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/7.jpg 600w, https://www.deepdotweb.com/wp-content/uploads/2014/02/7-300x135.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"/></a></p>
+    <p><a href="/imgs/2014/02/7.jpg"><img class="aligncenter size-full wp-image-4238" alt="7" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/7.jpg" width="600" height="270" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/7.jpg 600w, https://www.deepdotweb.com/wp-content/uploads/2014/02/7-300x135.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"/></a></p>
     <h2>Finalizing Outside of BlackBank</h2>
     <p>In the event that BlackBank is unavailable to finalize an order, every step has been taken to make it easy for the buyer and vendor to finalize outside of the market. A finalize early code is provided to both the buyer and vendor. At this time, there is only a finalize to vendor code. If there is demand for a refund code, please let me know in the forum and I will implement it.</p>
     <h3>How to use the Manual FE Code</h3>
@@ -73,10 +73,10 @@ BlackBank Market Now Offering MultiSig Escrow
     </div>
     <p>2. Replace PRIVATE_KEY_A and PRIVATE_KEY_B with the <b>Buyer</b> and <b>Vendor</b> private keys.</p>
     <p>3. Using the official Bitcoin-QT Wallet Client, select <b>&#8220;Help&#8221;</b> followed by <b>&#8220;Debug window&#8221;</b>:</p>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/8.jpg"><img class="aligncenter size-full wp-image-4239" alt="8" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/8.jpg" width="600" height="408" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/8.jpg 600w, https://www.deepdotweb.com/wp-content/uploads/2014/02/8-300x204.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"/></a></p>
+    <p><a href="/imgs/2014/02/8.jpg"><img class="aligncenter size-full wp-image-4239" alt="8" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/8.jpg" width="600" height="408" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/8.jpg 600w, https://www.deepdotweb.com/wp-content/uploads/2014/02/8-300x204.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"/></a></p>
     <p>4. Select the &#8220;Console&#8221; tab and enter the code with the Private Keys from both Vendor and Buyer into the input box at the bottom and submit.</p>
     <p>5. You will get the following result:</p>
-    <p><a href="http://www.deepdotweb.com/wp-content/uploads/2014/02/9.jpg"><img class="aligncenter size-full wp-image-4240" alt="9" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/9.jpg" width="600" height="359" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/9.jpg 600w, https://www.deepdotweb.com/wp-content/uploads/2014/02/9-300x180.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"/></a></p>
+    <p><a href="/imgs/2014/02/9.jpg"><img class="aligncenter size-full wp-image-4240" alt="9" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/9.jpg" width="600" height="359" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/9.jpg 600w, https://www.deepdotweb.com/wp-content/uploads/2014/02/9-300x180.jpg 300w" sizes="(max-width: 600px) 100vw, 600px"/></a></p>
     <p>6. If &#8220;complete&#8221; is <b>false</b>, this means that one of the Private Keys is incorrect. If complete is <b>true</b>, copy the &#8220;hex&#8221; portion of the code.</p>
     <div>
     <p><b>Ex.</b><br/>

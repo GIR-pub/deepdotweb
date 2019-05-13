@@ -40,7 +40,7 @@ script type="IN/Share" data-url="http://www.deepdotweb.com/2013/10/27/it-was-so-
 su:badge layout="1"></su:badge>
 !-- End WP Socializer Plugin - StumbleUpon Button -->
 /span>
-</div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/10/1378423_583517231697694_1714020142_n1.jpg" rel="lightbox" > <img class="aligncenter size-full wp-image-874" alt="cat" src="http://www.deepdotweb.com/wp-content/uploads/2013/10/1378423_583517231697694_1714020142_n1.jpg" width="500" height="403" /> </a></p>
+</div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p><a href="/imgs/2013/10/1378423_583517231697694_1714020142_n1.jpg" rel="lightbox" > <img class="aligncenter size-full wp-image-874" alt="cat" src="/imgs/2013/10/1378423_583517231697694_1714020142_n1.jpg" width="500" height="403" /> </a></p>
 <p>Just wanted to lay down for a minute&#8230;</p>
     
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><h3>Share and Enjoy</h3>
