@@ -1,7 +1,7 @@
 ---
 Operation Hydrabad: 5 Arrested in New Zealand
 ---
-<article class="post-listing post-8575 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-hydrabad tag-operation tag-zeland">
+<article class="post-listing post-8575 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-hydrabad tag-operation tag-zeland">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 9, 2014</span>

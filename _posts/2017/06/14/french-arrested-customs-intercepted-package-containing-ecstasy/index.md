@@ -1,7 +1,7 @@
 ---
 French Arrested After Customs Intercepted A Package Containing Ecstasy
 ---
-<article class="post-listing post-20621 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-customs tag-ecstasy tag-french tag-intercepted tag-package">
+<article class="post-listing post-20621 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-customs tag-ecstasy tag-french tag-intercepted tag-package">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 14, 2017</span>

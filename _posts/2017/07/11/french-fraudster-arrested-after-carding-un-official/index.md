@@ -1,7 +1,7 @@
 ---
 French Fraudster Arrested After Carding UN Official
 ---
-<article class="post-listing post-21176 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-carding tag-fraudster tag-french tag-official">
+<article class="post-listing post-21176 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-carding tag-fraudster tag-french tag-official">
     
     <div class="post-inner">
     

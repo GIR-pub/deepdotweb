@@ -2,7 +2,7 @@
 Kentucky Man Arrested, Convicted Of Child Pornography
 ---
 <article class="post-listing post-25607 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-child tag-convicted tag-kentucky tag-man tag-pornography">
+category-news-updates tag-child tag-convicted tag-kentucky tag-man tag-pornography">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>May 6, 2018</span>

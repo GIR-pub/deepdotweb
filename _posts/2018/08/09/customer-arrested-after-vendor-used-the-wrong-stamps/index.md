@@ -2,7 +2,7 @@
 Customer Arrested After Vendor Used the Wrong Stamps
 ---
 <article class="post-listing post-26520 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-customer tag-stamps tag-vendor tag-wrong">
+category-news-updates tag-customer tag-stamps tag-vendor tag-wrong">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 9, 2018</span>

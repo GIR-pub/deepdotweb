@@ -1,7 +1,7 @@
 ---
 Germany’s Deepweb Crackdown Continues as Another Vendor Gets Arrested
 ---
-<article class="post-listing post-15946 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-continues tag-crackdown tag-deepweb tag-germanys tag-vendor">
+<article class="post-listing post-15946 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-continues tag-crackdown tag-deepweb tag-germanys tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 19, 2016</span>

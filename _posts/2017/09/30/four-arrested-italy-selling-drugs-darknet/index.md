@@ -2,7 +2,7 @@
 Four Arrested in Italy for Selling Drugs from the Darknet
 ---
 <article class="post-listing post-22844 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-darknet tag-italy tag-selling">
+category-news-updates tag-darknet tag-italy tag-selling">
     
     <div class="post-inner">
     

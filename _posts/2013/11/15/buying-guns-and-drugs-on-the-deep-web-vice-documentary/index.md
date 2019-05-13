@@ -1,7 +1,7 @@
 ---
 title: Buying Guns and Drugs on the Deep Web (Vice Documentary)
 ---
-1350 tag-buying tag-deep tag-documentary tag-guns tag-vice tag-web post-listing tie_video">
+1350 tag-buying tag-deep tag-documentary tag-guns tag-vice tag-web 
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/HJOSm9Bg7WY?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

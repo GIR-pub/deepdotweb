@@ -2,7 +2,7 @@
 Dual arrested over deadly dark web drug importation from China to Montgomery
 ---
 <article class="post-listing post-25345 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-china tag-dark tag-deadly tag-drug tag-dual tag-importation tag-montgomery tag-web">
+category-news-updates tag-china tag-dark tag-deadly tag-drug tag-dual tag-importation tag-montgomery tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>April 12, 2018</span>

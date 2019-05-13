@@ -1,7 +1,7 @@
 ---
 34 Teenagers Arrested For DDoS Attacks, Europol Wants to Send a Message
 ---
-<article class="post-listing post-17051 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4689 tag-arrested tag-attacks tag-ddos tag-europol tag-message tag-send tag-teenagers">
+<article class="post-listing post-17051 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4689 tag-attacks tag-ddos tag-europol tag-message tag-send tag-teenagers">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>December 21, 2016</span>

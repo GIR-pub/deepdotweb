@@ -2,7 +2,7 @@
 Three Drug Buyers Arrested in Austrian Investigation
 ---
 <article class="post-listing post-25288 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-austrian tag-buyers tag-drug tag-investigation">
+category-news-updates tag-austrian tag-buyers tag-drug tag-investigation">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 6, 2018</span>

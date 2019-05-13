@@ -1,7 +1,7 @@
 ---
 Alaskan Man Arrested After $15,000 Ecstasy Package Intercepted
 ---
-<article class="post-listing post-15493 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4257 tag-alaskan tag-arrested tag-ecstasy tag-intercepted tag-man tag-package">
+<article class="post-listing post-15493 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4257 tag-alaskan tag-ecstasy tag-intercepted tag-man tag-package">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 21, 2016</span>

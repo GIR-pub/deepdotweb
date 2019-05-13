@@ -2,7 +2,7 @@
 Man Arrested by ‘Almost Ten’ Officers for Ordering Five Pills
 ---
 <article class="post-listing post-24237 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-man tag-officers tag-ordering tag-pills tag-ten">
+category-news-updates tag-man tag-officers tag-ordering tag-pills tag-ten">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 2, 2018</span>

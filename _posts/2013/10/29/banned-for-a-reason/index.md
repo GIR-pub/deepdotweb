@@ -1,7 +1,7 @@
 ---
 title: Banned for a reason
 ---
-1010 tag-banned tag-reason post-listing tie_video">
+1010 tag-banned tag-reason 
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/Z0YjfNF72h4?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 

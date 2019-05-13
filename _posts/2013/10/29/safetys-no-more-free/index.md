@@ -1,7 +1,7 @@
 ---
 title: Safety&#8217;s no more free
 ---
-989 tag-free tag-safetys post-listing tie_video">
+989 tag-free tag-safetys 
 <div class="single-post-video">
 <iframe width="507" height="380" src="http://www.youtube.com/embed/pFjVbiPzwpI?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

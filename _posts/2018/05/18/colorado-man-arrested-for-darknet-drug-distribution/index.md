@@ -2,7 +2,7 @@
 Colorado Man Arrested for Darknet Drug Distribution
 ---
 <article class="post-listing post-25735 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-colorado tag-darknet tag-distribution tag-drug tag-man">
+category-news-updates tag-colorado tag-darknet tag-distribution tag-drug tag-man">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 18, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Teenager Arrested for Trying To Buy Glock Pistol From The Dark Web
 ---
-<article class="post-listing post-13584 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-buy tag-dark tag-glock tag-pistol tag-teenager tag-web">
+<article class="post-listing post-13584 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buy tag-dark tag-glock tag-pistol tag-teenager tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>March 28, 2016</span>

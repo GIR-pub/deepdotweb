@@ -1,7 +1,7 @@
 ---
 Dunedin Students Arrested For Importing Drugs From Dark Net
 ---
-<article class="post-listing post-12246 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-dark tag-dunedin tag-importing tag-net tag-students">
+<article class="post-listing post-12246 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-dunedin tag-importing tag-net tag-students">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 23, 2015</span>

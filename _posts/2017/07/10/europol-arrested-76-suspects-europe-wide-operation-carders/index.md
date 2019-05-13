@@ -1,7 +1,7 @@
 ---
 Europol Arrested 76 Suspects In Europe-Wide Operation Against Carders
 ---
-<article class="post-listing post-21193 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5199 tag-arrested tag-carders tag-europewide tag-europol tag-operation tag-suspects">
+<article class="post-listing post-21193 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5199 tag-carders tag-europewide tag-europol tag-operation tag-suspects">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 10, 2017</span>

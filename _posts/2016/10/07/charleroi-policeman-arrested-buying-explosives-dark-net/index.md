@@ -1,7 +1,7 @@
 ---
 Charleroi Policeman Arrested for Buying Explosives from Dark Net
 ---
-<article class="post-listing post-15707 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-buying tag-charleroi tag-dark tag-explosives tag-net tag-policeman">
+<article class="post-listing post-15707 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buying tag-charleroi tag-dark tag-explosives tag-net tag-policeman">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>October 7, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Three Arrested In France For Cultivating And Trafficking Marijuana
 ---
-<article class="post-listing post-20752 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-cultivating tag-france tag-marijuana tag-trafficking">
+<article class="post-listing post-20752 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cultivating tag-france tag-marijuana tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 20, 2017</span>

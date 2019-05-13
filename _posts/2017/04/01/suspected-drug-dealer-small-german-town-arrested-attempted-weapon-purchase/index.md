@@ -1,7 +1,7 @@
 ---
 Suspected Drug Dealer In Small German Town Arrested For Attempted Weapon Purchase
 ---
-<article class="post-listing post-18912 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-attempted tag-dealer tag-drug tag-german tag-purchase tag-small tag-suspected tag-town tag-weapon">
+<article class="post-listing post-18912 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempted tag-dealer tag-drug tag-german tag-purchase tag-small tag-suspected tag-town tag-weapon">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 1, 2017</span>

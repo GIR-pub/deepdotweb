@@ -1,7 +1,7 @@
 ---
 3 Australian Men Arrested for Importing Drugs from the Darknet
 ---
-<article class="post-listing post-28314 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-australian tag-darknet tag-importing tag-men">
+<article class="post-listing post-28314 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australian tag-darknet tag-importing tag-men">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>February 8, 2019</span>

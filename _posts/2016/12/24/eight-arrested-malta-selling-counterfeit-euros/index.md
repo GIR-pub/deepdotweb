@@ -1,7 +1,7 @@
 ---
 Eight Arrested In Malta For Selling Counterfeit Euros
 ---
-<article class="post-listing post-17122 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-counterfeit tag-euros tag-malta tag-selling">
+<article class="post-listing post-17122 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-counterfeit tag-euros tag-malta tag-selling">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 24, 2016</span>

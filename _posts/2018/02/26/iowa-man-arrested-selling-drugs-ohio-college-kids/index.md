@@ -2,7 +2,7 @@
 Iowa Man Arrested for Selling Drugs to Ohio College Kids
 ---
 <article class="post-listing post-24874 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-college tag-iowa tag-kids tag-man tag-ohio tag-selling">
+category-news-updates tag-college tag-iowa tag-kids tag-man tag-ohio tag-selling">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 26, 2018</span>

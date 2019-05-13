@@ -2,7 +2,7 @@
 Napoli Group Counterfeiters Arrested in Bavarian Operation
 ---
 <article class="post-listing post-25870 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-bavarian tag-counterfeiters tag-group tag-napoli tag-operation">
+category-news-updates tag-bavarian tag-counterfeiters tag-group tag-napoli tag-operation">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 30, 2018</span>

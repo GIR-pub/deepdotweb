@@ -2,7 +2,7 @@
 Two Dutch Brothers Arrested For Ordering Explosives From Undercover FBI Agent
 ---
 <article class="post-listing post-18727 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-agent tag-arrested tag-brothers tag-dutch tag-explosives tag-fbi tag-ordering tag-undercover">
+category-news-updates tag-agent tag-brothers tag-dutch tag-explosives tag-fbi tag-ordering tag-undercover">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 21, 2017</span>

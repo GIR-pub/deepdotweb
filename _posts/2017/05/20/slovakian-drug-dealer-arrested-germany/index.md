@@ -1,7 +1,7 @@
 ---
 Slovakian Drug Dealer Arrested In Germany
 ---
-<article class="post-listing post-20002 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-dealer tag-drug tag-germany tag-slovakian">
+<article class="post-listing post-20002 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dealer tag-drug tag-germany tag-slovakian">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 20, 2017</span>

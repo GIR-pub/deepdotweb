@@ -1,7 +1,7 @@
 ---
 Furanylfentanyl Vendor Duo Arrested In Norway
 ---
-<article class="post-listing post-19125 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-duo tag-furanylfentanyl tag-norway tag-vendor">
+<article class="post-listing post-19125 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-duo tag-furanylfentanyl tag-norway tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 11, 2017</span>

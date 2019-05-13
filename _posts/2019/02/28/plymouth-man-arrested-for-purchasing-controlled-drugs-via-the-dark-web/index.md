@@ -1,7 +1,7 @@
 ---
 Plymouth Man Arrested for Purchasing Controlled Drugs via the Dark Web
 ---
-<article class="post-listing post-28470 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-controlled tag-dark tag-man tag-plymouth tag-purchasing tag-web">
+<article class="post-listing post-28470 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-controlled tag-dark tag-man tag-plymouth tag-purchasing tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>February 28, 2019</span>

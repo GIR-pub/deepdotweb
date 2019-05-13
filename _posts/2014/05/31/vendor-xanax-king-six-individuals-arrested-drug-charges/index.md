@@ -1,7 +1,7 @@
 ---
 Vendor &#8220;Xanax King&#8221;: Six Individuals Arrested on Drug Charges
 ---
-<article class="post-listing post-5852 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-charges tag-drug tag-individuals tag-king tag-vendor tag-xanax">
+<article class="post-listing post-5852 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charges tag-drug tag-individuals tag-king tag-vendor tag-xanax">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 31, 2014</span>

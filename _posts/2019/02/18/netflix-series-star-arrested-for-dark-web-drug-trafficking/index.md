@@ -1,7 +1,7 @@
 ---
 Netflix Series Star Arrested for Dark Web Drug Trafficking
 ---
-<article class="post-listing post-28385 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-dark tag-drug tag-netflix tag-series tag-star tag-trafficking tag-web">
+<article class="post-listing post-28385 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-drug tag-netflix tag-series tag-star tag-trafficking tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>February 18, 2019</span>

@@ -1,7 +1,7 @@
 ---
 Four Suspects Arrested In The Canary Islands As Part Of A Darknet Law Enforcement Operation
 ---
-<article class="post-listing post-19109 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-canary tag-darknet tag-enforcement tag-islands tag-law tag-operation tag-part tag-suspects">
+<article class="post-listing post-19109 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-canary tag-darknet tag-enforcement tag-islands tag-law tag-operation tag-part tag-suspects">
     
     <div class="post-inner">
     

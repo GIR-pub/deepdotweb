@@ -1,7 +1,7 @@
 ---
 15 People Arrested in Norways Biggest Dark net Drug Bust
 ---
-<article class="post-listing post-13815 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1886 tag-arrested tag-biggest tag-bust tag-dark tag-drug tag-net tag-norways tag-people">
+<article class="post-listing post-13815 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1886 tag-biggest tag-bust tag-dark tag-drug tag-net tag-norways tag-people">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 21, 2016</span>

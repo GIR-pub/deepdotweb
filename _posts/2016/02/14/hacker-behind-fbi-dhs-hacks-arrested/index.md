@@ -1,7 +1,7 @@
 ---
 Hacker Behind FBI, DHS Hacks Arrested
 ---
-<article class="post-listing post-13219 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-dhs tag-fbi tag-hacker tag-hacks">
+<article class="post-listing post-13219 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dhs tag-fbi tag-hacker tag-hacks">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>February 14, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Former Apple Employees Arrested For Selling Customer Data on Dark Web
 ---
-<article class="post-listing post-20923 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-apple tag-arrested tag-customer tag-dark tag-data tag-employees tag-selling tag-web">
+<article class="post-listing post-20923 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-apple tag-customer tag-dark tag-data tag-employees tag-selling tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>June 27, 2017</span>

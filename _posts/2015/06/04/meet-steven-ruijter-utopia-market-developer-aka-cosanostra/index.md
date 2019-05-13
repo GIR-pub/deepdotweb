@@ -1,7 +1,7 @@
 ---
 Meet Steven Ruijter: Utopia Market Developer Aka &#8220;CosaNostra&#8221;
 ---
-<article class="post-listing post-10563 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cosanostra tag-jail tag-story tag-tells tag-year">
+<article class="post-listing post-10563 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cosanostra tag-story tag-tells tag-year">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 4, 2015</span>

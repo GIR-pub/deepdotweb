@@ -1,7 +1,7 @@
 ---
 Silk Road 2.0 Moderator DoctorClu Arrested
 ---
-<article class="post-listing post-8842 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-doctorclu tag-moderator tag-road tag-silk">
+<article class="post-listing post-8842 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-doctorclu tag-moderator tag-road tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 20, 2015</span>

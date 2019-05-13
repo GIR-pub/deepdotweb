@@ -1,7 +1,7 @@
 ---
 FBI “Playpen Investigation”: Ex-Homeland Security analyst Arrested
 ---
-<article class="post-listing post-13486 post type-post status-publish format-standard hentry category-news tag-analyst tag-arrested tag-exhomeland tag-fbi tag-investigation tag-playpen tag-security">
+<article class="post-listing post-13486 post type-post status-publish format-standard hentry category-news tag-analyst tag-exhomeland tag-fbi tag-investigation tag-playpen tag-security">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title>American Guerrilla </a></span>
     <span>March 16, 2016</span>

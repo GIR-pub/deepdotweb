@@ -2,7 +2,7 @@
 Romanian Arrested After Four Package Interceptions
 ---
 <article class="post-listing post-25212 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-interceptions tag-package tag-romanian">
+category-news-updates tag-interceptions tag-package tag-romanian">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 31, 2018</span>

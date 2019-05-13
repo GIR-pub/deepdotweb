@@ -1,7 +1,7 @@
 ---
 Five Arrested for Hacking 41 ATMs and Stealing $2.5m in Taiwan
 ---
-<article class="post-listing post-18101 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-25m tag-3910 tag-arrested tag-atms tag-hacking tag-stealing tag-taiwan">
+<article class="post-listing post-18101 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-25m tag-3910 tag-atms tag-hacking tag-stealing tag-taiwan">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 13, 2017</span>

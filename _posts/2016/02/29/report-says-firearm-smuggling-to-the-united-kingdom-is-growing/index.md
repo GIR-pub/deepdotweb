@@ -1,7 +1,7 @@
 ---
 Report Says Firearm Smuggling To The United Kingdom Is Growing
 ---
-<article class="post-listing post-13329 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-firearm tag-growing tag-kingdom tag-report tag-smuggling tag-united">
+<article class="post-listing post-13329 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-firearm tag-growing tag-kingdom tag-report tag-united">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 29, 2016</span>

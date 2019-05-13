@@ -1,7 +1,7 @@
 ---
 Upper Austria Vendor Group Arrested
 ---
-<article class="post-listing post-16746 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-austria tag-group tag-upper tag-vendor">
+<article class="post-listing post-16746 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-austria tag-group tag-upper tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 5, 2016</span>

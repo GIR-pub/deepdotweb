@@ -2,7 +2,7 @@
 Six Arrested In Austrian Vendor Bust
 ---
 <article class="post-listing post-18499 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrested tag-austrian tag-bust tag-vendor">
+category-news-updates tag-austrian tag-bust tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 8, 2017</span>

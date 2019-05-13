@@ -1,7 +1,7 @@
 ---
 Man Arrested After Ordering Weapon via Darknet Forum
 ---
-<article class="post-listing post-18986 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-darknet tag-forum tag-man tag-ordering tag-weapon">
+<article class="post-listing post-18986 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-forum tag-man tag-ordering tag-weapon">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 3, 2017</span>
