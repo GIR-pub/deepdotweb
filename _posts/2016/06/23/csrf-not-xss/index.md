@@ -3,8 +3,7 @@ Why CSRF Is Not The Same As XSS
 ---
 <article class="post-listing post-14564 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-csrf tag-xss">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/vb/" title="">V.B </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/vb/" title="">V.B </a></span>
     <span>June 23, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/06/23/csrf-not-xss/#respond">Leave a comment</a></span>

@@ -6,8 +6,7 @@ Shreveport Father and Son Arrested for illegal Bitcoin Scheme
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     
     

@@ -3,7 +3,6 @@ Police Log IPs, Making Arrest By Planting Own Nodes In Freenet
 ---
 <article class="post-listing post-12342 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-computers tag-freenet tag-ips tag-making tag-planting tag-police tag-tracking">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>November 27, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

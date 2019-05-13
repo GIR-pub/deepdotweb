@@ -3,8 +3,7 @@ Pandora Market: Is It Gone?
 ---
 <article class="post-listing post-6492 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-btc tag-everyones tag-market tag-pandora">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 21, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/07/21/pandora-market-is-it-gone/#comments">9 Comments</a></span>

@@ -3,7 +3,6 @@ President Obama Signed Budget Bill Including CISA
 ---
 <article class="post-listing post-12720 post type-post status-publish format-standard hentry category-news tag-bill tag-budget tag-cisa tag-including tag-obama tag-president tag-signed">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>December 21, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

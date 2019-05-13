@@ -3,8 +3,7 @@ The IPFS and the blockchain
 ---
 <article class="post-listing post-19721 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-ipfs">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>May 9, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/05/09/the-ipfs-and-the-blockchain/#comments">4 Comments</a></span>

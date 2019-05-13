@@ -5,7 +5,6 @@ title: Beyond Silk Road: Potential Risks, Threats, and Promises of Virtual Curre
 <div class="single-post-video">
 <iframe src="http://www.senate.gov/isvp/?comm=govtaff&type=arch&stt=930&filename=govtaff111813&auto_play=false&poster=http%3A%2F%2Fwww%2Ehsgac%2Esenate%2Egov%2Fimages%2Fvideo%2Dposter%2Dflash%2Dfit%2Epng" width="100%" height="400"></iframe> </div>
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 21, 2013</span>
 <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>

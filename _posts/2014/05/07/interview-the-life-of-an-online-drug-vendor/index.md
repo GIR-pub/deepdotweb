@@ -3,8 +3,7 @@ Interview With a Vendor: &#8220;Darknet is a safe place, Outside of it, isn&#821
 ---
 <article class="post-listing post-5348 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-agora tag-extensive tag-interview tag-stardockgalix tag-vendor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 7, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/05/07/interview-the-life-of-an-online-drug-vendor/#comments">8 Comments</a></span>

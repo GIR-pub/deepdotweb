@@ -6,8 +6,7 @@ Ulbricht: Day two Onwards &#038; The Alleged Mt. Gox Connection
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     
     

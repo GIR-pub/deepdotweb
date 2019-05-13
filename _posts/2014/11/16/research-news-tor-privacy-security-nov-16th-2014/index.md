@@ -3,8 +3,7 @@ Research &#038; News in Tor, Privacy, &#038; Security – Nov 16th, 2014
 ---
 <article class="post-listing post-8285 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-16th tag-1779 tag-news tag-nov tag-privacy tag-research tag-security tag-tor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
     <span>November 16, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/11/16/research-news-tor-privacy-security-nov-16th-2014/#comments">2 Comments</a></span>

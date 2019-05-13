@@ -3,8 +3,7 @@ Research: Cryptocurrency mediated drug trafficking in Russia
 ---
 <article class="post-listing post-28227 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cryptocurrency tag-drug tag-mediated tag-research tag-russia tag-trafficking">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 27, 2019</span>
     
     <span><a href="https://www.deepdotweb.com/2019/01/27/research-cryptocurrency-mediated-drug-trafficking-in-russia/#respond">Leave a comment</a></span>

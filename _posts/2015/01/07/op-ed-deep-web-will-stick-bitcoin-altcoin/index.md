@@ -3,8 +3,7 @@ Op-Ed: Why The Deep Web Will Stick With Bitcoin, and Not An Altcoin
 ---
 <article class="post-listing post-8220 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-altcoin tag-bitcoin tag-deep tag-oped tag-stick tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>January 7, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/01/07/op-ed-deep-web-will-stick-bitcoin-altcoin/#comments">3 Comments</a></span>

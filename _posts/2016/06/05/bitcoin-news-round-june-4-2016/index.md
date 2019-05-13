@@ -6,8 +6,7 @@ Bitcoin News Round Up June 4 2016
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/octree/" title="">Octree </a></span>
     
     

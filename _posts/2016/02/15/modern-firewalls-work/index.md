@@ -6,8 +6,7 @@ How Do Modern Firewalls Work?
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/c3lt1c/" title="">c3lt1c </a></span>
     
     

@@ -3,8 +3,7 @@ Suspect Claims Someone Else Used His Computer to Buy Drugs, Jury Agrees
 ---
 <article class="post-listing post-16787 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agrees tag-buy tag-claims tag-computer tag-drugs tag-jury tag-suspect">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 7, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/12/07/suspect-claims-someone-else-used-computer-buy-drugs-jury-agrees/#comments">7 Comments</a></span>

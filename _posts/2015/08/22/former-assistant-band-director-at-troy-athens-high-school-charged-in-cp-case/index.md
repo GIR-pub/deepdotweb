@@ -3,7 +3,6 @@ Former Assistant Band Director At Troy Athens High School Charged In CP Case
 ---
 <article class="post-listing post-11319 post type-post status-publish format-standard hentry category-news tag-assistant tag-athens tag-band tag-case tag-charged tag-cp tag-director tag-high tag-school tag-troy">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>August 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

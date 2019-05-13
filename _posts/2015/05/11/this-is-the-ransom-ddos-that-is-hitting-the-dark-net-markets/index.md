@@ -6,8 +6,7 @@ TRD Admin On The Ransom DDoS That Is Hitting The Dark Net Markets
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     
     

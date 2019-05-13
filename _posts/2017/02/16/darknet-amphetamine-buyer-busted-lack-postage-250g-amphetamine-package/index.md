@@ -3,8 +3,7 @@ Darknet Amphetamine Buyer Busted After Lack of Postage on a 250g Amphetamine Pac
 ---
 <article class="post-listing post-18150 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-250g tag-amphetamine tag-busted tag-buyer tag-darknet tag-lack tag-package tag-postage">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 16, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/02/16/darknet-amphetamine-buyer-busted-lack-postage-250g-amphetamine-package/#comments">1 Comment</a></span>

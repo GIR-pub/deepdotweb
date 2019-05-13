@@ -3,7 +3,6 @@ Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
 ---
 <article class="post-listing post-11357 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news category-news-updates tag-agora tag-finish tag-market tag-money tag-operations tag-orders tag-pause tag-withdraw">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 26, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

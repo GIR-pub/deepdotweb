@@ -3,8 +3,7 @@ Dandelion &#8211; Turning Bitcoin Into A Fully Anonymous Financial System
 ---
 <article class="post-listing post-18036 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-bitcoin tag-dandelion tag-financial tag-fully tag-system tag-turning">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 8, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/02/08/dandelion-turning-bitcoin-fully-anonymous-financial-system/#respond">Leave a comment</a></span>

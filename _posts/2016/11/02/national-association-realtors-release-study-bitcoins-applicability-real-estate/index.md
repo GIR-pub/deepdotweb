@@ -3,8 +3,7 @@ National Association of Realtors Release Study on Bitcoin&#8217;s Applicability 
 ---
 <article class="post-listing post-16234 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-applicability tag-association tag-bitcoins tag-estate tag-national tag-real tag-realtors tag-release tag-study">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>November 2, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/11/02/national-association-realtors-release-study-bitcoins-applicability-real-estate/#respond">Leave a comment</a></span>

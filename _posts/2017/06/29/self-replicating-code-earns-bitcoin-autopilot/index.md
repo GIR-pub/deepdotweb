@@ -3,8 +3,7 @@ A Self-replicating Code That Earns You Bitcoin On Autopilot!
 ---
 <article class="post-listing post-20964 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-autopilot tag-bitcoin tag-code tag-earns tag-selfreplicating">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>June 29, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/06/29/self-replicating-code-earns-bitcoin-autopilot/#respond">Leave a comment</a></span>

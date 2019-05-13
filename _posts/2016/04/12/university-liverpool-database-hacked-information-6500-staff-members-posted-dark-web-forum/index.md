@@ -3,8 +3,7 @@ University Of Liverpool Database Hacked, Information Of 6,500 Staff Members Post
 ---
 <article class="post-listing post-13700 post type-post status-publish format-standard hentry category-news tag-3612 tag-dark tag-database tag-forum tag-hacked tag-information tag-liverpool tag-members tag-posted tag-staff tag-university tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 12, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/04/12/university-liverpool-database-hacked-information-6500-staff-members-posted-dark-web-forum/#comments">3 Comments</a></span>

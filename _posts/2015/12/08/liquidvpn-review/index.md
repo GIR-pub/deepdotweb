@@ -3,7 +3,6 @@ LiquidVPN Review
 ---
 <article class="post-listing post-12446 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-liquidvpn tag-review tag-vpn">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 8, 2015</span>
 

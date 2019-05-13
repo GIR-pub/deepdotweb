@@ -5,7 +5,6 @@ title: Catching a Predator
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/7iqG7IhWTWU?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 
-<p class="post-meta">
 <span>Posted by: <a href="http://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>
 <span>December 20, 2013</span>
 <span>in <a href="http://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>

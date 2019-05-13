@@ -3,7 +3,6 @@ title: Down the Bitcoin Rabbit Hole: Is the Currency Truly Anonymous?
 ---
 1344 category-deepdot-news tag-anonymous tag-bitcoin tag-currency tag-hole tag-rabbit">
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 14, 2013</span>
 

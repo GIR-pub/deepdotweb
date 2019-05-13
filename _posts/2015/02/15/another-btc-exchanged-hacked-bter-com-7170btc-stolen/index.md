@@ -3,7 +3,6 @@ Another BTC Exchanged Hacked: Bter.com &#8211; 7170BTC stolen
 ---
 <article class="post-listing post-9081 post type-post status-publish format-standard hentry category-news tag-7170btc tag-btc tag-btercom tag-exchanged tag-hacked tag-stolen">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 15, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

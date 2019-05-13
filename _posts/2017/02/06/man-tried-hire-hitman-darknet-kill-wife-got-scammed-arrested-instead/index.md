@@ -3,8 +3,7 @@ Man Tried to Hire a Hitman on the Darknet to Kill His Wife but Got Scammed and A
 ---
 <article class="post-listing post-17999 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-darknet tag-hire tag-hitman tag-kill tag-man tag-scammed tag-wife">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 6, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/02/06/man-tried-hire-hitman-darknet-kill-wife-got-scammed-arrested-instead/#comments">3 Comments</a></span>

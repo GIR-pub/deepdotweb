@@ -3,8 +3,7 @@ Lyn Ulbricht Speaks Out: Lost Faith in the U.S. Justice System
 ---
 <article class="post-listing post-14442 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-faith tag-justice tag-lost tag-lyn tag-speaks tag-system tag-ulbricht">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>June 7, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/06/07/lyn-ulbricht-speaks-lost-faith-u-s-justice-system/#comments">9 Comments</a></span>

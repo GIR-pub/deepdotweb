@@ -3,8 +3,7 @@ Verizon Fined $1.35 Million For The Use Of “Supercookies”
 ---
 <article class="post-listing post-13447 post type-post status-publish format-standard hentry category-news tag-3519 tag-fined tag-million tag-supercookies tag-verizon">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 13, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/03/13/verizon-fined-1-35-million-use-supercookies/#comments">1 Comment</a></span>

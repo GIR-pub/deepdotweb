@@ -6,8 +6,7 @@ Interpol Teams up with cyber security firm to combat cyber threats
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     
     

@@ -3,8 +3,7 @@ Heads Up To Market Admins Running IIS
 ---
 <article class="post-listing post-10008 post type-post status-publish format-standard hentry category-news tag-admins tag-heads tag-market tag-urgent">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 17, 2015</span>
     <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="http://www.deepdotweb.com/2015/04/17/urgent-heads-up-to-market-admins/#comments">12 Comments</a></span>

@@ -3,7 +3,6 @@ Man Given a Suspended Sentence for Nine Darknet Purchases
 ---
 <article class="post-listing post-24698 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-darknet tag-man tag-purchases tag-sentence tag-suspended">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/uncategorized/" rel="category tag">Uncategorized</a></span>

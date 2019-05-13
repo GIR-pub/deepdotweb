@@ -3,8 +3,7 @@ NIST to Begin Preparations for Quantum Resistant Cryptography
 ---
 <article class="post-listing post-14005 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-computer tag-cryptography tag-nist tag-preparations tag-quantum tag-resistant">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/sculptor/" title="">sculptor </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/sculptor/" title="">sculptor </a></span>
     <span>May 11, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/05/11/nist-begin-preparations-quantum-computer-resistant-cryptography/#comments">2 Comments</a></span>

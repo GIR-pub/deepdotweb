@@ -6,7 +6,6 @@ South Dakota Teen FacingPrison after Ordering 20,000 Fentanyl Pills Form the Dar
 <div class="post-inner">
     
     
-<p class="post-meta">
     
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     

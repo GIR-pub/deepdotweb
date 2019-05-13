@@ -3,7 +3,6 @@ NSW Man Busted for Role in an International Darknet Drug Operation
 ---
 <article class="post-listing post-26073 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-darknet tag-drug tag-international tag-man tag-nsw tag-operation tag-role">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>June 20, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

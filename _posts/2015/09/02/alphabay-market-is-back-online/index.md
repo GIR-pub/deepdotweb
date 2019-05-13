@@ -3,7 +3,6 @@ Alphabay Market: Back Online With Upgraded infrastructure
 ---
 <article class="post-listing post-11411 post type-post status-publish format-standard hentry category-news tag-alphabay tag-infrastructure tag-market tag-online tag-upgraded">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>September 2, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

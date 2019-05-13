@@ -3,7 +3,6 @@ Update on Silk Road 2.0 leak
 ---
 <article class="post-listing post-9074 post type-post status-publish format-standard hentry category-news tag-45 tag-leak tag-road tag-silk tag-update">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 14, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

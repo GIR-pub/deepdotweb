@@ -6,8 +6,7 @@ Thailand Police seizes Assets of Late Alleged Mastermind behind AlphaBay
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     
     

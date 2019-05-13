@@ -3,8 +3,7 @@ Italy Continues To Raid the Darknet Marketplace to Fish out The Illegal Traders
 ---
 <article class="post-listing post-21358 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-continues tag-darknet tag-fish tag-illegal tag-italy tag-marketplace tag-raid tag-traders">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>July 16, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/07/16/italy-continues-raid-darknet-marketplace-fish-illegal-traders/#comments">5 Comments</a></span>

@@ -3,8 +3,7 @@ Porn Site xHamster Hacked, More Than 380,000 User Accounts for Sale
 ---
 <article class="post-listing post-16748 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4612 tag-accounts tag-hacked tag-porn tag-sale tag-site tag-user tag-xhamster">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>December 5, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/12/05/porn-site-xhamster-hacked-380000-user-accounts-sale/#respond">Leave a comment</a></span>

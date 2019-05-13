@@ -3,8 +3,7 @@ Why Undercover Gun Sellers Are Here To Stay?
 ---
 <article class="post-listing post-10334 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-gun tag-sellers tag-stay tag-undercover">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>May 19, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/05/19/why-undercover-gun-sellers-are-here-to-stay/#comments">8 Comments</a></span>

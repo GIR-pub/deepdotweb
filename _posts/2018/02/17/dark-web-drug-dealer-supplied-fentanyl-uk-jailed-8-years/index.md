@@ -3,7 +3,6 @@ Dark Web drug dealer who supplied fentanyl into the UK jailed 8 years
 ---
 <article class="post-listing post-24841 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-dealer tag-drug tag-fentanyl tag-jailed tag-supplied tag-uk tag-web tag-years">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>February 17, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

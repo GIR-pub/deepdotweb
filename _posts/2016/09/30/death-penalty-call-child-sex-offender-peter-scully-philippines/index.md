@@ -3,8 +3,7 @@ Death Penalty Call For Child Sex Offender Peter Scully In Philippines
 ---
 <article class="post-listing post-15606 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-call tag-child tag-death tag-offender tag-penalty tag-peter tag-philippines tag-scully tag-sex">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 30, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/09/30/death-penalty-call-child-sex-offender-peter-scully-philippines/#comments">9 Comments</a></span>

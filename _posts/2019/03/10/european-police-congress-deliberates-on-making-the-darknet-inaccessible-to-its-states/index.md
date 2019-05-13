@@ -3,8 +3,7 @@ European Police Congress Deliberates on Making the Darknet Inaccessible to its S
 ---
 <article class="post-listing post-28576 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-congress tag-darknet tag-deliberates tag-european tag-inaccessible tag-making tag-police tag-states">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/steve_bale/" title="">Steve_Bale </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/steve_bale/" title="">Steve_Bale </a></span>
     <span>March 10, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/03/10/european-police-congress-deliberates-on-making-the-darknet-inaccessible-to-its-states/#comments">4 Comments</a></span>

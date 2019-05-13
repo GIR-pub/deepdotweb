@@ -3,7 +3,6 @@
 ---
 <article class="post-listing post-9783 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agents tag-arrested tag-btc tag-federal tag-investigating tag-road tag-silk tag-stealing">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 30, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

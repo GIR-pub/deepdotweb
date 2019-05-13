@@ -3,8 +3,7 @@ Interview with a Top Alphabay Accounts Phisher
 ---
 <article class="post-listing post-21271 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-alphabay tag-interview tag-phisher tag-top">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 12, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/07/12/interview-top-alphabay-accounts-phisher/#comments">30 Comments</a></span>

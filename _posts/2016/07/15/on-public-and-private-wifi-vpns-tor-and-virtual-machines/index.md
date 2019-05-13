@@ -3,8 +3,7 @@ On Public and Private WiFi, VPNs, Tor, and Virtual Machines
 ---
 <article class="post-listing post-14804 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-machines tag-private tag-public tag-tor tag-virtual tag-vpns tag-wifi">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 15, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/07/15/on-public-and-private-wifi-vpns-tor-and-virtual-machines/#comments">12 Comments</a></span>

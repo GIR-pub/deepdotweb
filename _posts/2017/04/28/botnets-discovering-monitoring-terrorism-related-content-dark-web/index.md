@@ -3,8 +3,7 @@ Botnets for Discovering and Monitoring Terrorism Related Content on the Dark Web
 ---
 <article class="post-listing post-19451 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-botnets tag-content tag-dark tag-discovering tag-monitoring tag-related tag-terrorism tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title>Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title>Tamer Sameeh </a></span>
     <span>April 28, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/04/28/botnets-discovering-monitoring-terrorism-related-content-dark-web/#respond">Leave a comment</a></span>

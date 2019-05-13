@@ -3,8 +3,7 @@ Accused Shiny Flakes Customer: “Everyone Could Use My Address”
 ---
 <article class="post-listing post-21686 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accused tag-address tag-customer tag-flakes tag-shiny">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 1, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/08/01/accused-shiny-flakes-customer-everyone-use-address/#comments">3 Comments</a></span>

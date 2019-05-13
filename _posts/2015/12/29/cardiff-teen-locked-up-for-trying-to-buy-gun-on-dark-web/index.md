@@ -3,8 +3,7 @@ Cardiff Teen Locked Up for Trying To Buy Gun on Dark Web
 ---
 <article class="post-listing post-12782 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buy tag-cardiff tag-dark tag-gun tag-locked tag-teen tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 29, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/12/29/cardiff-teen-locked-up-for-trying-to-buy-gun-on-dark-web/#comments">16 Comments</a></span>

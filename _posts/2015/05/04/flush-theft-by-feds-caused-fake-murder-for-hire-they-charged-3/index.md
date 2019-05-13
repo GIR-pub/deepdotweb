@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-9894 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-srcorruption">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>May 4, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/05/04/flush-theft-by-feds-caused-fake-murder-for-hire-they-charged-3/#respond">Leave a comment</a></span>

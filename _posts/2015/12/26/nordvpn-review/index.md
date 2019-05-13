@@ -3,8 +3,7 @@ NordVPN Review
 ---
 <article class="post-listing post-12634 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-nordvpn tag-review">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 26, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/12/26/nordvpn-review/#comments">52 Comments</a></span>

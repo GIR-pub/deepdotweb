@@ -3,8 +3,7 @@ Porn Network Breached, Hacker Sells User Data On The Dark Web
 ---
 <article class="post-listing post-13633 post type-post status-publish format-standard hentry category-news tag-breached tag-dark tag-data tag-hacker tag-network tag-porn tag-sells tag-user tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 4, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/04/04/porn-network-breached-hacker-sells-user-data-dark-web/#respond">Leave a comment</a></span>

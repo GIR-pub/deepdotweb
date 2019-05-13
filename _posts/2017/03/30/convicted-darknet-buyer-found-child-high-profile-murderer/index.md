@@ -3,7 +3,6 @@ Convicted Darknet Buyer Found to be Child of High Profile Murderer
 ---
 <article class="post-listing post-18882 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buyer tag-child tag-convicted tag-darknet tag-high tag-murderer tag-profile">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 30, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

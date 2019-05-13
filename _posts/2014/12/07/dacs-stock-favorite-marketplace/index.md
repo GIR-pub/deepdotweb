@@ -3,8 +3,7 @@ DACs: Own Stock In Your Favorite Marketplace
 ---
 <article class="post-listing post-7083 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dacs tag-favorite tag-marketplace tag-stock">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>December 7, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/12/07/dacs-stock-favorite-marketplace/#comments">7 Comments</a></span>

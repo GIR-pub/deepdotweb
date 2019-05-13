@@ -3,8 +3,7 @@ VPN with Tor
 ---
 <article class="post-listing post-6541 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-tor tag-vpn">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>
     <span>July 21, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/07/21/vpn-tor/#comments">6 Comments</a></span>

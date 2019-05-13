@@ -3,7 +3,6 @@ Preventing the Next Multi-Million Dollar Theft
 ---
 <article class="post-listing post-9560 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dollar tag-multimillion tag-preventing tag-theft">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 20, 2015</span>
 

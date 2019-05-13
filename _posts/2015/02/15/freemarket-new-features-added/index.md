@@ -3,7 +3,6 @@ The FreeMarket &#8211; New Features Added
 ---
 <article class="post-listing post-9087 post type-post status-publish format-standard hentry category-news tag-added tag-features tag-freemarket">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 15, 2015</span>
 <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

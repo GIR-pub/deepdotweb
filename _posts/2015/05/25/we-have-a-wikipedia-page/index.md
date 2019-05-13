@@ -3,8 +3,7 @@ We Have A WikiPedia Page!
 ---
 <article class="post-listing post-10387 post type-post status-publish format-standard hentry category-news tag-page tag-wikipedia">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 25, 2015</span>
     <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="http://www.deepdotweb.com/2015/05/25/we-have-a-wikipedia-page/#comments">2 Comments</a></span>

@@ -3,7 +3,6 @@ Darknet Vendor Sentenced To 8 Years, Sold Drugs In Order To Pay Back A Debt
 ---
 <article class="post-listing post-11426 post type-post status-publish format-standard hentry category-news tag-darknet tag-debt tag-drugs tag-order tag-pay tag-selling tag-sentenced tag-vendor tag-years">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>September 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

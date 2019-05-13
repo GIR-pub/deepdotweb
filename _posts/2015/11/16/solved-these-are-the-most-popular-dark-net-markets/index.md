@@ -3,8 +3,7 @@ Solved: These Are The Most Popular Dark Net Markets!
 ---
 <article class="post-listing post-12166 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-lie tag-markets tag-numbers tag-popular">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 16, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/11/16/solved-these-are-the-most-popular-dark-net-markets/#comments">9 Comments</a></span>

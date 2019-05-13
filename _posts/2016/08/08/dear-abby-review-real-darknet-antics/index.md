@@ -3,8 +3,7 @@ DEAR ABBY &#8211; A Review of (REAL) Darknet Antics
 ---
 <article class="post-listing post-15032 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-abby tag-antics tag-darknet tag-dear tag-real tag-review">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/rh/" title="">R.H </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/rh/" title="">R.H </a></span>
     <span>August 8, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/08/08/dear-abby-review-real-darknet-antics/#comments">10 Comments</a></span>

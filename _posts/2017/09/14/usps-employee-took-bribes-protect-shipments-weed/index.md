@@ -3,8 +3,7 @@ USPS Employee Took Bribes to Protect Shipments of Weed
 ---
 <article class="post-listing post-22529 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-bribes tag-employee tag-protect tag-shipments tag-usps tag-weed">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 14, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/uncategorized/" rel="category tag">Uncategorized</a></span>
     <span><a href="https://www.deepdotweb.com/2017/09/14/usps-employee-took-bribes-protect-shipments-weed/#comments">2 Comments</a></span>

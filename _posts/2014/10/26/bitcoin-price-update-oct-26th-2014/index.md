@@ -3,8 +3,7 @@ Bitcoin Price Update Oct. 26th, 2014
 ---
 <article class="post-listing post-7504 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1779 tag-26th tag-bitcoin tag-oct tag-price tag-update">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>October 26, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/10/26/bitcoin-price-update-oct-26th-2014/#respond">Leave a comment</a></span>

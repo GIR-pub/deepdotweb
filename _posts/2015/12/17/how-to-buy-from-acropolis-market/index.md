@@ -3,7 +3,6 @@ How To Buy From Acropolis Market?
 ---
 <article class="post-listing post-12592 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-acropolis tag-buy tag-market">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 17, 2015</span>
 

@@ -3,8 +3,7 @@ Melon Protocol &#8211; A Protocol for Managing Digital Assets Using Ethereum&#82
 ---
 <article class="post-listing post-18374 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-assets tag-blockchain tag-digital tag-ethereums tag-managing tag-melon tag-protocol">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 28, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/02/28/melon-protocol-protocol-managing-digital-assets-using-ethereums-blockchain/#respond">Leave a comment</a></span>

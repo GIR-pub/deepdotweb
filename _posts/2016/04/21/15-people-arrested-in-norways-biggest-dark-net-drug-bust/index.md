@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-13815 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1886 tag-arrested tag-biggest tag-bust tag-dark tag-drug tag-net tag-norways tag-people">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 21, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/04/21/15-people-arrested-in-norways-biggest-dark-net-drug-bust/#comments">5 Comments</a></span>

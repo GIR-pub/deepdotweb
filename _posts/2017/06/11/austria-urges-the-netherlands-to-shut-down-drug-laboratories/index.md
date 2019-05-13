@@ -3,8 +3,7 @@ Austria Urges The Netherlands To Shut Down Drug Laboratories
 ---
 <article class="post-listing post-20537 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-austria tag-drug tag-laboratories tag-netherlands tag-shut tag-urges">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 11, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/06/11/austria-urges-the-netherlands-to-shut-down-drug-laboratories/#comments">4 Comments</a></span>

@@ -6,8 +6,7 @@ Topix2&#8217;s Admin Soon to be Sentenced
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     
     

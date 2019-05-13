@@ -3,8 +3,7 @@ New Agora Update: Working on Bringing the Payment Subsystem Back Online
 ---
 <article class="post-listing post-10056 post type-post status-publish format-standard hentry category-news tag-agora tag-bringing tag-online tag-payment tag-subsystem tag-update tag-working">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 23, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/04/23/new-agora-update-working-on-bringing-the-payment-subsystem-back-online/#comments">2 Comments</a></span>

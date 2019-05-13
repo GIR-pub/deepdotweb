@@ -3,7 +3,6 @@ Using the CHORD protocol for creating a P2P multimedia service system
 ---
 <article class="post-listing post-27643 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-chord tag-creating tag-multimedia tag-p2p tag-protocol tag-service tag-system">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 20, 2018</span>
 

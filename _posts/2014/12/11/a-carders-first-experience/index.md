@@ -3,8 +3,7 @@ A Carder&#8217;s First Experience
 ---
 <article class="post-listing post-7350 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-carders tag-experience">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
     <span>December 11, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/12/11/a-carders-first-experience/#comments">114 Comments</a></span>

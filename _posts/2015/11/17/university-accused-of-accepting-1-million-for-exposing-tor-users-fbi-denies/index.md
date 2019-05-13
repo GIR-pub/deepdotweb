@@ -3,8 +3,7 @@ University Accused Of Accepting $1 Million For Exposing Tor Users, FBI Denies
 ---
 <article class="post-listing post-12218 post type-post status-publish format-standard hentry category-news tag-accepting tag-accused tag-denies tag-exposing tag-fbi tag-million tag-tor tag-university tag-users">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 17, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/11/17/university-accused-of-accepting-1-million-for-exposing-tor-users-fbi-denies/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ Dr. D&#8217;s Market Promotion Challenge: DR. D pays you CASH!
 ---
 <article class="post-listing post-12571 post type-post status-publish format-standard hentry category-news tag-cash tag-challenge tag-dr tag-ds tag-market tag-pays tag-promotion">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 16, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/12/16/dr-ds-market-promotion-challenge/#comments">4 Comments</a></span>

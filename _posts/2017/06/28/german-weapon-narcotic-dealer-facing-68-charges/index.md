@@ -3,8 +3,7 @@ German Weapon And Narcotic Dealer Facing 68 Charges
 ---
 <article class="post-listing post-20946 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5630 tag-charges tag-dealer tag-facing tag-german tag-narcotic tag-weapon">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 28, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/06/28/german-weapon-narcotic-dealer-facing-68-charges/#respond">Leave a comment</a></span>

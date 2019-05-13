@@ -3,7 +3,6 @@ Research: Intelligence extraction of Tor hidden services &#8211; A research stud
 ---
 <article class="post-listing post-27076 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-research">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>October 28, 2018</span>
 

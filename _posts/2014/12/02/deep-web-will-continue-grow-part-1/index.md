@@ -3,8 +3,7 @@ Why The Deep Web Will Continue To Grow Part 1
 ---
 <article class="post-listing post-7022 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-continue tag-deep tag-deepwebgrow tag-grow tag-part tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>December 2, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/12/02/deep-web-will-continue-grow-part-1/#comments">3 Comments</a></span>

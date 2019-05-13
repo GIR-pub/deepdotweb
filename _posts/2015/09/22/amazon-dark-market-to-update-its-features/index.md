@@ -3,7 +3,6 @@ Amazon Dark Market To Update Its Features
 ---
 <article class="post-listing post-11586 post type-post status-publish format-standard hentry category-news tag-amazon tag-dark tag-features tag-market tag-update">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>September 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

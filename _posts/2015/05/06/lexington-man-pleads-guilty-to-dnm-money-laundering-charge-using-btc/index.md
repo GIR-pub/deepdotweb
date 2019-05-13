@@ -3,8 +3,7 @@ Lexington Man Pleads Guilty to DNM Money Laundering Charge Using BTC
 ---
 <article class="post-listing post-10215 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-btc tag-charge tag-dnm tag-guilty tag-laundering tag-lexington tag-man tag-money tag-pleads">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 6, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/06/lexington-man-pleads-guilty-to-dnm-money-laundering-charge-using-btc/#respond">Leave a comment</a></span>

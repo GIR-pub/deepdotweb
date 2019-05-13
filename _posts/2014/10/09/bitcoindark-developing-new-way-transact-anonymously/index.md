@@ -3,8 +3,7 @@ BitcoinDark: A New Way To Transact Anonymously
 ---
 <article class="post-listing post-7109 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymously tag-bitcoindark tag-developing tag-transact">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>October 9, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/10/09/bitcoindark-developing-new-way-transact-anonymously/#comments">2 Comments</a></span>

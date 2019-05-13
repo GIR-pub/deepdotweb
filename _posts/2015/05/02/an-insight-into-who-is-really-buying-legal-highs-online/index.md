@@ -3,8 +3,7 @@ An Insight Into Who Is Really Buying Legal Highs Online
 ---
 <article class="post-listing post-10172 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buying tag-highs tag-insight tag-legal tag-online">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 2, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/05/02/an-insight-into-who-is-really-buying-legal-highs-online/#comments">8 Comments</a></span>

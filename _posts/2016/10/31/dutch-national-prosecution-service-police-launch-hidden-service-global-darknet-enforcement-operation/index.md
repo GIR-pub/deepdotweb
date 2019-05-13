@@ -3,8 +3,7 @@ Dutch National Prosecution Service and police launch Hidden Service in global Da
 ---
 <article class="post-listing post-16216 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-dutch tag-enforcement tag-global tag-hidden tag-launch tag-national tag-operation tag-police tag-prosecution tag-service">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 31, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/10/31/dutch-national-prosecution-service-police-launch-hidden-service-global-darknet-enforcement-operation/#comments">7 Comments</a></span>

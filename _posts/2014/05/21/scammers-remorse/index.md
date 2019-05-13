@@ -3,8 +3,7 @@ A Scammer&#8217;s Remorse
 ---
 <article class="post-listing post-5686 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-remorse tag-scammers">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/black-ink/" title="">Black Ink </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/black-ink/" title="">Black Ink </a></span>
     <span>May 21, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/05/21/scammers-remorse/#comments">1 Comment</a></span>

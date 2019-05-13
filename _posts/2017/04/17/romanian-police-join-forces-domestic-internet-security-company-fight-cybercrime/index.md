@@ -3,8 +3,7 @@ Romanian Police Join Forces With Domestic Internet Security Company To Fight Cyb
 ---
 <article class="post-listing post-19229 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-company tag-cybercrime tag-domestic tag-fight tag-forces tag-internet tag-join tag-police tag-romanian tag-security">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 17, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/04/17/romanian-police-join-forces-domestic-internet-security-company-fight-cybercrime/#respond">Leave a comment</a></span>

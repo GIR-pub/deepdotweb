@@ -6,8 +6,7 @@ The Son of a Politician Arrested in a Darknet Drug Raid
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     
     

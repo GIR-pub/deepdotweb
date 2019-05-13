@@ -3,8 +3,7 @@ Grams: Becoming Hub For DarkNet Info &#038; Ads (Part 1)
 ---
 <article class="post-listing post-5794 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-grams tag-infodesk">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 31, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/05/31/introducing-grams-infodesk-features-part-1/#comments">2 Comments</a></span>

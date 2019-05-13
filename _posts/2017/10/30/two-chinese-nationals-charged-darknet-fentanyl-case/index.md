@@ -3,7 +3,6 @@ Two Chinese Nationals Charged in Darknet Fentanyl Case
 ---
 <article class="post-listing post-23313 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-charged tag-chinese tag-darknet tag-fentanyl tag-nationals">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>October 30, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

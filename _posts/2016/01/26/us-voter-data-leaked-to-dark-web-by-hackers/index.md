@@ -3,8 +3,7 @@ US Voter Data Leaked To Dark Web By Hackers
 ---
 <article class="post-listing post-13088 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-dark tag-data tag-hackers tag-leaked tag-voter tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 26, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/01/26/us-voter-data-leaked-to-dark-web-by-hackers/#respond">Leave a comment</a></span>

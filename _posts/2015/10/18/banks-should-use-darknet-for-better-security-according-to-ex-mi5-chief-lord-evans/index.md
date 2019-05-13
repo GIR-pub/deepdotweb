@@ -3,7 +3,6 @@ Banks Should Use Darknet For Better Security According To Ex MI5 Chief Lord Evan
 ---
 <article class="post-listing post-11811 post type-post status-publish format-standard hentry category-news tag-banks tag-chief tag-darknet tag-evans tag-lord tag-mi5 tag-security">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>October 18, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

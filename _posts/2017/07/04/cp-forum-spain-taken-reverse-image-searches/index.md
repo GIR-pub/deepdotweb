@@ -3,8 +3,7 @@ CP Forum in Spain Taken Down by Reverse Image Searches
 ---
 <article class="post-listing post-21077 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cp tag-forum tag-image tag-reverse tag-searches tag-spain">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 4, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/07/04/cp-forum-spain-taken-reverse-image-searches/#respond">Leave a comment</a></span>

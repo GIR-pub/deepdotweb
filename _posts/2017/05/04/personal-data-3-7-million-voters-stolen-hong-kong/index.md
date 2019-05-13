@@ -3,8 +3,7 @@ Personal Data Of 3.7 Million Voters Stolen In Hong Kong
 ---
 <article class="post-listing post-19622 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5375 tag-data tag-hong tag-kong tag-million tag-personal tag-stolen tag-voters">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 4, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/05/04/personal-data-3-7-million-voters-stolen-hong-kong/#comments">1 Comment</a></span>

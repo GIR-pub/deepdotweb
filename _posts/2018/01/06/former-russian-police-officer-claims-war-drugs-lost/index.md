@@ -3,7 +3,6 @@ Former Russian police officer claims: &#8220;War on drugs is lost&#8221;
 ---
 <article class="post-listing post-24296 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-claims tag-drugs tag-lost tag-officer tag-police tag-russian tag-war">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>January 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

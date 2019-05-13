@@ -3,7 +3,6 @@ SR2 DB Leak Update: 10% of The Data Released
 ---
 <article class="post-listing post-9057 post type-post status-publish format-standard hentry category-news tag-db tag-decryption tag-leak tag-released tag-sample tag-sr2 tag-update">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 13, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

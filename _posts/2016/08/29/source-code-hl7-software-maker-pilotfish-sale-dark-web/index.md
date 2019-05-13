@@ -3,8 +3,7 @@ Source Code Of HL7 Software Maker PilotFish For Sale On Dark Web
 ---
 <article class="post-listing post-15278 post type-post status-publish format-standard hentry category-news tag-code tag-dark tag-hl7 tag-maker tag-pilotfish tag-sale tag-software tag-source tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 29, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/08/29/source-code-hl7-software-maker-pilotfish-sale-dark-web/#respond">Leave a comment</a></span>

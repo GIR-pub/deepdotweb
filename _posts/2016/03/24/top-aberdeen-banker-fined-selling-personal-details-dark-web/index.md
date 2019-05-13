@@ -3,8 +3,7 @@ Top Aberdeen Banker Fined For Selling Personal Details On The Dark Web
 ---
 <article class="post-listing post-13559 post type-post status-publish format-standard hentry category-news tag-aberdeen tag-banker tag-dark tag-details tag-fined tag-personal tag-selling tag-top tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>March 24, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/03/24/top-aberdeen-banker-fined-selling-personal-details-dark-web/#comments">1 Comment</a></span>

@@ -3,8 +3,7 @@ Wireshark Tutorial
 ---
 <article class="post-listing post-23615 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-tutorial tag-wireshark">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
     <span>November 21, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/11/21/wireshark-tutorial/#comments">3 Comments</a></span>

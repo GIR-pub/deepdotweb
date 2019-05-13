@@ -3,8 +3,7 @@ Lexington Man Imprisoned for 43 Years for Attempting to Murder His Ex-Wife with 
 ---
 <article class="post-listing post-28622 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1181 tag-attempting tag-bomb tag-darknet tag-exwife tag-imprisoned tag-lexington tag-man tag-murder tag-years">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/steve_bale/" title="">Steve_Bale </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/steve_bale/" title="">Steve_Bale </a></span>
     <span>March 14, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/03/14/lexington-man-imprisoned-for-43-years-for-attempting-to-murder-his-ex-wife-with-a-darknet-bomb/#respond">Leave a comment</a></span>

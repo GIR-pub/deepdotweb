@@ -3,7 +3,6 @@ title: Reports: Tormarket Scam In Progress?
 ---
 2845 category-deepdot-news category-news-updates tag-progress tag-reports tag-scam tag-tormarket">
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 23, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

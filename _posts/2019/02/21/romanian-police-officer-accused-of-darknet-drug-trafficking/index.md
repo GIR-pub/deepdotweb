@@ -3,8 +3,7 @@ Romanian Police Officer Accused of Darknet Drug Trafficking
 ---
 <article class="post-listing post-28413 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accused tag-darknet tag-drug tag-officer tag-police tag-romanian tag-trafficking">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
     <span>February 21, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/02/21/romanian-police-officer-accused-of-darknet-drug-trafficking/#comments">1 Comment</a></span>

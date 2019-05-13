@@ -3,8 +3,7 @@ US Law Enforcement Agencies Say Drug Gangs Are Using China Crypto Channels for M
 ---
 <article class="post-listing post-28138 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agencies tag-channels tag-china tag-crypto tag-drug tag-enforcement tag-gangs tag-laundering tag-law tag-money">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>January 19, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/01/19/us-law-enforcement-agencies-say-drug-gangs-are-using-china-crypto-channels-for-money-laundering/#respond">Leave a comment</a></span>

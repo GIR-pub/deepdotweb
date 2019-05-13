@@ -6,8 +6,7 @@ Bitcoin News Roundup 27 August 2016
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     
     

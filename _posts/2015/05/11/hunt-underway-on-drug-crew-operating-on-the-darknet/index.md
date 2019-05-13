@@ -3,8 +3,7 @@ Hunt Underway on Drug Crew operating on the Darknet
 ---
 <article class="post-listing post-10238 post type-post status-publish format-standard hentry category-news tag-crew tag-darknet tag-drug tag-hunt tag-operating tag-underway">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 11, 2015</span>
     <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="http://www.deepdotweb.com/2015/05/11/hunt-underway-on-drug-crew-operating-on-the-darknet/#comments">3 Comments</a></span>

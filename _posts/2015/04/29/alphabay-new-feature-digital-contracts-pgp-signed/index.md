@@ -3,8 +3,7 @@ Alphabay New feature: Digital contracts (PGP signed)
 ---
 <article class="post-listing post-10128 post type-post status-publish format-standard hentry category-news tag-alphabay tag-contracts tag-digital tag-feature tag-pgp tag-signed">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 29, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/04/29/alphabay-new-feature-digital-contracts-pgp-signed/#comments">6 Comments</a></span>

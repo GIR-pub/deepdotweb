@@ -3,8 +3,7 @@ Eight Busted for Selling Fentanyl-laced Oxycodone Pills on the Darknet
 ---
 <article class="post-listing post-22240 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-darknet tag-fentanyllaced tag-oxycodone tag-pills tag-selling">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 29, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/08/29/eight-busted-selling-fentanyl-laced-oxycodone-pills-darknet/#comments">2 Comments</a></span>

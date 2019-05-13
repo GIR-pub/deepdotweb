@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-10074 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-sigaint">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 26, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/04/26/70-malicious-tor-exit-nodes-exposed-by-siganit-org/#comments">7 Comments</a></span>

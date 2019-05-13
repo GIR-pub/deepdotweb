@@ -3,8 +3,7 @@ Department of Justice Plans New Laws “Just Like Rule 41” For International C
 ---
 <article class="post-listing post-17014 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3910 tag-cybersecurity tag-department tag-international tag-justice tag-laws tag-plans tag-rule">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 19, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/12/19/department-justice-plans-new-laws-just-like-rule-41-international-cybersecurity/#comments">7 Comments</a></span>

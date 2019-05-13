@@ -6,8 +6,7 @@ Researchers Discover Sneaky Phishing Attacks on Credentials, Sold on Dark Web
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     
     

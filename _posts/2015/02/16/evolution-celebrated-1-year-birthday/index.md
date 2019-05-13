@@ -3,7 +3,6 @@ Evolution Celebrated 1 Year Birthday
 ---
 <article class="post-listing post-9089 post type-post status-publish format-standard hentry category-news tag-birthday tag-evolution tag-year">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 16, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

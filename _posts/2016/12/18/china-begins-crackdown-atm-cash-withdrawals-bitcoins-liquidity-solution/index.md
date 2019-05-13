@@ -3,8 +3,7 @@ China Begins to Crackdown on ATM Cash Withdrawals; Bitcoin&#8217;s Liquidity as 
 ---
 <article class="post-listing post-17007 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-atm tag-begins tag-bitcoins tag-cash tag-china tag-crackdown tag-liquidity tag-solution tag-withdrawals">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>December 18, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/12/18/china-begins-crackdown-atm-cash-withdrawals-bitcoins-liquidity-solution/#comments">4 Comments</a></span>

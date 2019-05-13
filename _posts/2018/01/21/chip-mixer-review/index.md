@@ -3,7 +3,6 @@ Chip Mixer Review
 ---
 <article class="post-listing post-24509 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-chip tag-mixer tag-review">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>January 21, 2018</span>
 

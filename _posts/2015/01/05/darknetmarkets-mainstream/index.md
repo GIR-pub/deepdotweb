@@ -3,8 +3,7 @@ Before DarkNetMarkets Were Mainstream
 ---
 <article class="post-listing post-8105 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-darknetmarkets tag-mainstream">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>January 5, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/01/05/darknetmarkets-mainstream/#comments">6 Comments</a></span>

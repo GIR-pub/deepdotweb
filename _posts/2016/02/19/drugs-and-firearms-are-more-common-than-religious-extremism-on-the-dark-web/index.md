@@ -3,8 +3,7 @@ Drugs And Firearms Are More Common Than Religious Extremism On The Dark Web
 ---
 <article class="post-listing post-13285 post type-post status-publish format-standard hentry category-news tag-common tag-dark tag-drugs tag-extremism tag-firearms tag-religious tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 19, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/02/19/drugs-and-firearms-are-more-common-than-religious-extremism-on-the-dark-web/#comments">1 Comment</a></span>

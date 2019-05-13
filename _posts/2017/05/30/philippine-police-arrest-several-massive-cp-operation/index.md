@@ -3,8 +3,7 @@ Philippine Police Arrest Several in Massive CP Operation
 ---
 <article class="post-listing post-20228 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-cp tag-massive tag-operation tag-philippine tag-police">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 30, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/05/30/philippine-police-arrest-several-massive-cp-operation/#comments">2 Comments</a></span>

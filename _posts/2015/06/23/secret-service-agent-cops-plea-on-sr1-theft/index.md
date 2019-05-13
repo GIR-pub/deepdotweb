@@ -3,8 +3,7 @@ Secret Service agent cops plea on SR1 theft
 ---
 <article class="post-listing post-10884 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-agent tag-cops tag-plea tag-secret tag-service tag-sr1 tag-theft">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>June 23, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/06/23/secret-service-agent-cops-plea-on-sr1-theft/#comments">4 Comments</a></span>

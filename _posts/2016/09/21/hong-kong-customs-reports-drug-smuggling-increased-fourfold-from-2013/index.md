@@ -3,8 +3,7 @@ Hong Kong Customs Reports Drug Smuggling Increased Fourfold From 2013
 ---
 <article class="post-listing post-15494 post type-post status-publish format-standard hentry category-news tag-620 tag-customs tag-drug tag-fourfold tag-hong tag-increased tag-kong tag-reports tag-smuggling">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 21, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/09/21/hong-kong-customs-reports-drug-smuggling-increased-fourfold-from-2013/#respond">Leave a comment</a></span>

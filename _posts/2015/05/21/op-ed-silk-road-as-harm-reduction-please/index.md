@@ -3,8 +3,7 @@ Op-Ed: Silk Road as harm reduction? Please&#8230;
 ---
 <article class="post-listing post-10337 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-harm tag-reduction tag-road tag-silk tag-silkroadtrial">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>May 21, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/05/21/op-ed-silk-road-as-harm-reduction-please/#comments">11 Comments</a></span>

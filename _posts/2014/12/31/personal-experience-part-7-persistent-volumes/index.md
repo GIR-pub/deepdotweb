@@ -3,8 +3,7 @@ Personal Experience: Part 7 – Persistent Volumes
 ---
 <article class="post-listing post-8087 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-experience tag-experiencetag tag-part tag-persistent tag-personal tag-volumes">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>December 31, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/12/31/personal-experience-part-7-persistent-volumes/#comments">1 Comment</a></span>

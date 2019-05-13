@@ -6,8 +6,7 @@ Steganalysis: finding hidden data in Images
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/babysnoop/" title="">babysnoop </a></span>
     
     

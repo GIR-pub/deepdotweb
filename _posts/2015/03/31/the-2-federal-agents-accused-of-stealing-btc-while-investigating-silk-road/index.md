@@ -6,7 +6,6 @@ The 2 Federal Agents Accused Of Stealing BTC While Investigating Silk Road
 <div class="post-inner">
     
     
-<p class="post-meta">
     
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     

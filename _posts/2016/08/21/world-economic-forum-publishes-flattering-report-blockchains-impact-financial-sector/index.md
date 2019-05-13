@@ -3,8 +3,7 @@ World Economic Forum Publishes Flattering Report on Blockchain’s impact on the
 ---
 <article class="post-listing post-15184 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-blockchains tag-economic tag-financial tag-flattering tag-forum tag-impact tag-publishes tag-report tag-sector tag-world">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/dhume/" title="">D. Hume </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/dhume/" title="">D. Hume </a></span>
     <span>August 21, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/08/21/world-economic-forum-publishes-flattering-report-blockchains-impact-financial-sector/#respond">Leave a comment</a></span>

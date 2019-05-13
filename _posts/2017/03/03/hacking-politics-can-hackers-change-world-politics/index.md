@@ -3,7 +3,6 @@ Hacking and Politics &#8211; Can Hackers Change World Politics?
 ---
 <article class="post-listing post-18417 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-change tag-hackers tag-hacking tag-politics tag-world">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 3, 2017</span>
 

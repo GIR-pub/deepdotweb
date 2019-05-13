@@ -3,7 +3,6 @@ DNM Vendor Dr.Xanax Busted
 ---
 <article class="post-listing post-11751 post type-post status-publish format-standard hentry category-news tag-busted tag-dnm tag-drxanax tag-vendor">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 13, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

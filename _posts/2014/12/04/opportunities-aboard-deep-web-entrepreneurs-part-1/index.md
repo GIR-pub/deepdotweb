@@ -3,8 +3,7 @@ Opportunities Abroad For Deep Web Entrepreneurs Part 1
 ---
 <article class="post-listing post-7058 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-aboard tag-deep tag-entrepreneurs tag-opportunities tag-part tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 4, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/12/04/opportunities-aboard-deep-web-entrepreneurs-part-1/#comments">3 Comments</a></span>

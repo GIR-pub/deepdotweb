@@ -3,8 +3,7 @@ From Being an Addict to Sober: Cannabidiol a.k.a. Medical Marijuana
 ---
 <article class="post-listing post-13612 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-addict tag-aka tag-cannabidiol tag-marijuana tag-medical tag-sober">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 31, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/03/31/addict-sober-cannabidiol-k-medical-marijuana/#comments">13 Comments</a></span>

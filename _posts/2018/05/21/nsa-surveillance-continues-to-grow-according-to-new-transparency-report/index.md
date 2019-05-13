@@ -3,7 +3,6 @@ NSA Surveillance Continues to Grow According to New Transparency Report
 ---
 <article class="post-listing post-25779 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-continues tag-grow tag-nsa tag-report tag-surveillance tag-transparency">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>May 21, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

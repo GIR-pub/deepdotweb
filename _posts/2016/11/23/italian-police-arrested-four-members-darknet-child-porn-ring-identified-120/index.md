@@ -3,8 +3,7 @@ Italian Police Arrested Four Members of a Darknet Child Porn Ring, Identified 12
 ---
 <article class="post-listing post-16523 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4548 tag-arrested tag-child tag-darknet tag-identified tag-italian tag-members tag-police tag-porn tag-ring">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 23, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/11/23/italian-police-arrested-four-members-darknet-child-porn-ring-identified-120/#comments">1 Comment</a></span>

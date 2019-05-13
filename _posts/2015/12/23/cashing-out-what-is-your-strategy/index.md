@@ -3,8 +3,7 @@ Cashing Out &#8211; What is Your Strategy?
 ---
 <article class="post-listing post-10463 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cashing tag-strategy">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/archer/" title="">Archer </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/archer/" title="">Archer </a></span>
     <span>December 23, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/12/23/cashing-out-what-is-your-strategy/#comments">11 Comments</a></span>

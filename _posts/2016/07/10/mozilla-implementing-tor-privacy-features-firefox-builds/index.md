@@ -3,8 +3,7 @@ Mozilla implementing Tor privacy features in Firefox builds
 ---
 <article class="post-listing post-14777 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-builds tag-features tag-firefox tag-implementing tag-mozilla tag-privacy tag-tor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 10, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/07/10/mozilla-implementing-tor-privacy-features-firefox-builds/#comments">4 Comments</a></span>

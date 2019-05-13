@@ -3,8 +3,7 @@ Meadow Vista Dark Net Vendor Sentenced To Nine Years In Federal Court
 ---
 <article class="post-listing post-12073 post type-post status-publish format-standard hentry category-news tag-court tag-dark tag-federal tag-meadow tag-net tag-sentenced tag-vendor tag-vista tag-years">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 11, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/11/11/meadow-vista-dark-net-vendor-sentenced-to-nine-years-in-federal-court/#comments">6 Comments</a></span>

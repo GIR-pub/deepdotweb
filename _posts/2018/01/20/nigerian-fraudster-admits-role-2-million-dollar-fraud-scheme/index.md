@@ -3,7 +3,6 @@ Nigerian Fraudster Admits Role in 2 Million Dollar Fraud Scheme
 ---
 <article class="post-listing post-24493 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-dollar tag-fraud tag-fraudster tag-million tag-nigerian tag-role tag-scheme">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 20, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

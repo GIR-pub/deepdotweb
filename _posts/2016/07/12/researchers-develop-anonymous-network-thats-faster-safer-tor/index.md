@@ -3,8 +3,7 @@ Researchers Design Network they Claim is Faster &#038; Safer than Tor
 ---
 <article class="post-listing post-14787 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-claim tag-design tag-faster tag-network tag-researchers tag-safer tag-tor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 12, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/07/12/researchers-develop-anonymous-network-thats-faster-safer-tor/#comments">3 Comments</a></span>

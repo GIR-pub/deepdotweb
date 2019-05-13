@@ -3,8 +3,7 @@ Patriot Act extension Dies; Senate ready to vote on USA Freedom Act
 ---
 <article class="post-listing post-10350 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-act tag-dies tag-extension tag-freedom tag-mcconnells tag-patriot tag-ready tag-senate tag-usa tag-vote">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/timothyjones/" title="">Timothy Jones </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/timothyjones/" title="">Timothy Jones </a></span>
     <span>May 22, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/22/patriot-act-extension-dies-senate-ready-to-vote-on-usa-freedom-act/#comments">1 Comment</a></span>

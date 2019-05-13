@@ -3,7 +3,6 @@ FBI Unmasked CP Website User Using A Spyware
 ---
 <article class="post-listing post-11672 post type-post status-publish format-standard hentry category-news tag-cp tag-fbi tag-spyware tag-unmasked tag-user tag-website">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>October 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

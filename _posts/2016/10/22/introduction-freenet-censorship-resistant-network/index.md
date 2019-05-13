@@ -3,8 +3,7 @@ Introduction to Freenet: A Censorship-Resistant Network
 ---
 <article class="post-listing post-15981 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-censorshipresistant tag-freenet tag-introduction tag-network">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
     <span>October 22, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/10/22/introduction-freenet-censorship-resistant-network/#comments">7 Comments</a></span>

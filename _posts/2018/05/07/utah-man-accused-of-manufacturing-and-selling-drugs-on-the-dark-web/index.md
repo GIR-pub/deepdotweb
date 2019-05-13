@@ -3,7 +3,6 @@ Utah Man Accused of Manufacturing and Selling drugs on the dark web
 ---
 <article class="post-listing post-25615 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accused tag-dark tag-drugs tag-man tag-manufacturing tag-selling tag-utah tag-web">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 7, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

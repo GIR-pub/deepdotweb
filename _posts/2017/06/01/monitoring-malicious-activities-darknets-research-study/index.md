@@ -3,8 +3,7 @@ Monitoring Malicious Activities On Darknets &#8211; A Research Study
 ---
 <article class="post-listing post-20263 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-activities tag-darknets tag-malicious tag-monitoring tag-research tag-study">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>June 1, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/06/01/monitoring-malicious-activities-darknets-research-study/#respond">Leave a comment</a></span>

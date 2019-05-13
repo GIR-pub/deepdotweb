@@ -3,8 +3,7 @@ ShadowCash deanonymized?
 ---
 <article class="post-listing post-13221 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-deanonymized tag-shadowcash">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>February 17, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/02/17/shadowcash-deanonymized/#comments">7 Comments</a></span>

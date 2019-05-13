@@ -3,8 +3,7 @@ How Bitcoin Is Set To help The Poor In Africa?
 ---
 <article class="post-listing post-7452 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-africa tag-bitcoin tag-poor tag-set">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
     <span>October 31, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/10/31/bitcoin-set-help-poor-africa/#comments">3 Comments</a></span>

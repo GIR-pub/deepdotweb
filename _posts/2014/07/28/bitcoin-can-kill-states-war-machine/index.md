@@ -3,8 +3,7 @@ Bitcoin can Kill the State&#8217;s War Machine
 ---
 <article class="post-listing post-6303 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-kill tag-machine tag-states tag-war">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>July 28, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/07/28/bitcoin-can-kill-states-war-machine/#comments">1 Comment</a></span>

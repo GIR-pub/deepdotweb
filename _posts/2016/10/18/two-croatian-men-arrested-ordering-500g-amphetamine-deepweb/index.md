@@ -3,8 +3,7 @@ Two Croatian Men Arrested After Ordering 500g Amphetamine from the Deepweb
 ---
 <article class="post-listing post-15925 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-500g tag-amphetamine tag-arrested tag-croatian tag-deepweb tag-men tag-ordering">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 18, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/10/18/two-croatian-men-arrested-ordering-500g-amphetamine-deepweb/#comments">5 Comments</a></span>

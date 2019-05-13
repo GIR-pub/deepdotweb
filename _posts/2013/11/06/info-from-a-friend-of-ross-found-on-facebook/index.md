@@ -3,7 +3,6 @@ title: info from a friend of Ross found on Facebook
 ---
 1175 category-deepdot-news tag-facebook tag-friend tag-info tag-ross">
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 6, 2013</span>
 

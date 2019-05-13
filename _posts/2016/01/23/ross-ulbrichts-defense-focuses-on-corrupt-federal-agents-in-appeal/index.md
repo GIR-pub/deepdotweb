@@ -3,8 +3,7 @@ Ross Ulbricht&#8217;s Defense Focuses On Corrupt Federal Agents In Appeal
 ---
 <article class="post-listing post-12978 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-silkroadtrial">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 23, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/01/23/ross-ulbrichts-defense-focuses-on-corrupt-federal-agents-in-appeal/#comments">1 Comment</a></span>

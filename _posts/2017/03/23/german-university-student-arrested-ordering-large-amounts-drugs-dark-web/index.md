@@ -3,7 +3,6 @@ German University Student Arrested For Ordering Large Amounts Of Drugs From The 
 ---
 <article class="post-listing post-18754 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-amounts tag-arrested tag-dark tag-drugs tag-german tag-large tag-ordering tag-student tag-university tag-web">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 23, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

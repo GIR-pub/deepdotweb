@@ -3,8 +3,7 @@ Over 10,000 Firearms Seized in Spain, Bought on the Darknet
 ---
 <article class="post-listing post-17956 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4937 tag-bought tag-darknet tag-firearms tag-seized tag-spain">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>February 3, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/02/03/10000-firearms-seized-spain-bought-darknet/#comments">6 Comments</a></span>

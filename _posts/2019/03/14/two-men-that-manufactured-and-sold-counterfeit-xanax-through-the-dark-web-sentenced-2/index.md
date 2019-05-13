@@ -3,8 +3,7 @@ Two Men that Manufactured and Sold Counterfeit Xanax Through the Dark Web Senten
 ---
 <article class="post-listing post-28620 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-counterfeit tag-dark tag-manufactured tag-men tag-sentenced tag-sold tag-web tag-xanax">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
     <span>March 14, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/03/14/two-men-that-manufactured-and-sold-counterfeit-xanax-through-the-dark-web-sentenced-2/#comments">1 Comment</a></span>

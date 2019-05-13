@@ -3,8 +3,7 @@ Maximizing Security of Cloud Storage Providers Using PGP and Bitcoin&#8217;s Blo
 ---
 <article class="post-listing post-17308 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-blockchain tag-cloud tag-maximizing tag-pgp tag-providers tag-security tag-storage tag-technology">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 4, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/01/04/maximizing-security-cloud-storage-providers-using-pgp-bitcoins-blockchain-technology/#respond">Leave a comment</a></span>

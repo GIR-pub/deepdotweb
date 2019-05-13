@@ -3,8 +3,7 @@ No AML Rules For BTC Wallet Providers In The UK
 ---
 <article class="post-listing post-13930 post type-post status-publish format-standard hentry category-news tag-aml tag-btc tag-provieders tag-rules tag-uk tag-wallet">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 3, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/05/03/no-aml-rules-btc-wallet-provieders-uk/#respond">Leave a comment</a></span>

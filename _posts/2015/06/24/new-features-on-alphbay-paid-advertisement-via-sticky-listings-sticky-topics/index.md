@@ -3,8 +3,7 @@ New Features on Alphbay: Paid Advertisement via Sticky Listings &#038; Sticky To
 ---
 <article class="post-listing post-10903 post type-post status-publish format-standard hentry category-news tag-advertisement tag-alphbay tag-features tag-listings tag-paid tag-sticky tag-topics">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 24, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/06/24/new-features-on-alphbay-paid-advertisement-via-sticky-listings-sticky-topics/#comments">7 Comments</a></span>

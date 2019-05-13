@@ -3,7 +3,6 @@ UN To Call On Governments All Around The World To Stop War On Drugs
 ---
 <article class="post-listing post-11825 post type-post status-publish format-standard hentry category-news tag-call tag-drugs tag-governments tag-stop tag-war tag-world">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>October 21, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

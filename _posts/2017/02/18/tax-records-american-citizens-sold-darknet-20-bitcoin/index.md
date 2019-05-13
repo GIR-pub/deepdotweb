@@ -3,8 +3,7 @@ Tax Records of American Citizens Sold on Darknet For $20 in Bitcoin
 ---
 <article class="post-listing post-18181 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-45 tag-american tag-bitcoin tag-citizens tag-darknet tag-records tag-sold tag-tax">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>February 18, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/02/18/tax-records-american-citizens-sold-darknet-20-bitcoin/#comments">1 Comment</a></span>

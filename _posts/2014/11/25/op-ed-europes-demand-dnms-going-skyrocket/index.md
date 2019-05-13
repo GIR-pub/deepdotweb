@@ -3,8 +3,7 @@ Op-Ed: Why Europe&#8217;s Demand For DNMs Is Going To SkyRocket
 ---
 <article class="post-listing post-8246 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-demand tag-dnms tag-europes tag-oped tag-skyrocket">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>November 25, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/11/25/op-ed-europes-demand-dnms-going-skyrocket/#comments">3 Comments</a></span>

@@ -3,8 +3,7 @@ AlphaBay Market Launched Account Autoshop
 ---
 <article class="post-listing post-10382 post type-post status-publish format-standard hentry category-news tag-account tag-alphabay tag-autoshop tag-launched tag-market">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 22, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/22/alphabay-market-launched-account-autoshop/#comments">3 Comments</a></span>

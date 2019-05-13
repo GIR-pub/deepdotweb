@@ -3,8 +3,7 @@ Blackmailer Warned Supermarket He Put Cyanide In Food, Wanted £2 Million
 ---
 <article class="post-listing post-15430 post type-post status-publish format-standard hentry category-news tag-blackmailer tag-cyanide tag-food tag-million tag-put tag-supermarket tag-wanted tag-warned">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 15, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/09/15/blackmailer-warned-supermarket-put-cyanide-food-wanted-2-million/#respond">Leave a comment</a></span>

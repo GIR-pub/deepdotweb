@@ -3,8 +3,7 @@ German Police Expect Fewer Counterfeit Euros in 2017
 ---
 <article class="post-listing post-17176 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3676 tag-counterfeit tag-euros tag-expect tag-german tag-police">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 27, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/12/27/german-police-expect-fewer-counterfeit-euros-2017/#respond">Leave a comment</a></span>

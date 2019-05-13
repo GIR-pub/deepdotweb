@@ -3,8 +3,7 @@ UK Government Still Trying to Control End to End Encryption
 ---
 <article class="post-listing post-14854 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-control tag-encryption tag-government tag-uk">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>July 21, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/07/21/uk-government-still-trying-control-end-end-encryption/#comments">2 Comments</a></span>

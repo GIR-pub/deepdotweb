@@ -3,8 +3,7 @@ FBI’s Attack On Tor Shows The Threat Of Subpoenas To Security Researchers
 ---
 <article class="post-listing post-13409 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-attack tag-fbis tag-researchers tag-security tag-shows tag-subpoenas tag-threat tag-tor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>March 8, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/03/08/fbis-attack-on-tor-shows-the-threat-of-subpoenas-to-security-researchers/#comments">5 Comments</a></span>

@@ -3,7 +3,6 @@ Child Porn Ring Admin Lux Pleads Guilty
 ---
 <article class="post-listing post-11528 post type-post status-publish format-standard hentry category-news tag-admin tag-child tag-guilty tag-lux tag-pleads tag-porn tag-ring">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>September 15, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

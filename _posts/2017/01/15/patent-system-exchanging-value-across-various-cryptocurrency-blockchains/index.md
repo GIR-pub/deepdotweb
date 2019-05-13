@@ -3,8 +3,7 @@ Patent &#8211; A System For Exchanging Value Across Various Cryptocurrency Block
 ---
 <article class="post-listing post-17535 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchains tag-cryptocurrency tag-exchanging tag-patent tag-system">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 15, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/01/15/patent-system-exchanging-value-across-various-cryptocurrency-blockchains/#comments">3 Comments</a></span>

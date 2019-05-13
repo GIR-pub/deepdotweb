@@ -6,7 +6,6 @@ Bitcoin Price Analysis &#8211; 25 Novemebr 2015
 <div class="post-inner">
     
     
-<p class="post-meta">
     
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     

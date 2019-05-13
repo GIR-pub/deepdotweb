@@ -3,8 +3,7 @@ Australian Prime Minister Tries Alleviating Fears Over Census Privacy Concerns
 ---
 <article class="post-listing post-15134 post type-post status-publish format-standard hentry category-news tag-alleviating tag-australian tag-census tag-concerns tag-fears tag-minister tag-prime tag-privacy">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 16, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/08/16/australian-prime-minister-tries-alleviating-fears-census-privacy-concerns/#respond">Leave a comment</a></span>

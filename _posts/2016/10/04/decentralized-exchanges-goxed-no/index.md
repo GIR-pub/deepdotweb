@@ -3,8 +3,7 @@ Decentralized Exchanges: Goxed No More!
 ---
 <article class="post-listing post-15646 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-decentralized tag-exchanges tag-goxed">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>October 4, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/10/04/decentralized-exchanges-goxed-no/#comments">1 Comment</a></span>

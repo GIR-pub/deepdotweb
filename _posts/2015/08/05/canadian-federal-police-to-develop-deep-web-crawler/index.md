@@ -3,7 +3,6 @@ Canadian Federal Police To Develop Deep Web Crawler
 ---
 <article class="post-listing post-11194 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-canadian tag-crawler tag-deep tag-develop tag-federal tag-police tag-web">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>August 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

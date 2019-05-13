@@ -3,7 +3,6 @@ Darknet Child Porn Ring Busted In Israel
 ---
 <article class="post-listing post-11489 post type-post status-publish format-standard hentry category-news tag-busted tag-child tag-darknet tag-israel tag-porn tag-ring">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>September 9, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

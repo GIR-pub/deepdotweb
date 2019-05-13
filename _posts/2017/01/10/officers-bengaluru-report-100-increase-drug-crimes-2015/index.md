@@ -6,8 +6,7 @@ Officers In Bengaluru Report 100% Increase in Drug Crimes From 2015
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     
     

@@ -3,8 +3,7 @@ Blockchain &#038; Bitcoin Conference will reveal prospects and risks of cryptocu
 ---
 <article class="post-listing post-15403 post type-post status-publish format-standard hentry category-news tag-bitcoin tag-blockchain tag-conference tag-cryptocurrency tag-exchanges tag-prospects tag-reveal tag-risks">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 10, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/09/10/blockchain-bitcoin-conference-will-reveal-prospects-risks-cryptocurrency-exchanges/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ Silk Road Trial: The Evidence &#038; Admission that Shook The Court Room
 ---
 <article class="post-listing post-8797 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admission tag-court tag-evidence tag-road tag-room tag-shook tag-silk tag-silkroadtrial tag-trial">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>January 14, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/01/14/silk-road-trial1/#comments">5 Comments</a></span>

@@ -3,8 +3,7 @@ Fake Press Cards Sold On The Dark Web Force Danish Police To Increase Security I
 ---
 <article class="post-listing post-22421 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cards tag-danish tag-dark tag-fake tag-force tag-increase tag-parliament tag-police tag-press tag-security tag-sold tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 7, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/09/07/fake-press-cards-sold-dark-web-force-danish-police-increase-security-parliament/#comments">1 Comment</a></span>

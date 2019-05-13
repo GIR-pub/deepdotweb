@@ -3,7 +3,6 @@ title: Lord of Internet, Duke of Email
 ---
 1722 tag-duke tag-email tag-internet tag-lord">
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>
 <span>November 23, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/memes/" rel="category tag">Memes &amp; Funny</a></span>

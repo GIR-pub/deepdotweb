@@ -3,8 +3,7 @@ First time trying LSD purchased from the Market.
 ---
 <article class="post-listing post-15347 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-lsd tag-market tag-purchased tag-time">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/ermando/" title="">Ermando </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/ermando/" title="">Ermando </a></span>
     <span>September 8, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/09/08/first-time-trying-lsd-purchased-market/#comments">8 Comments</a></span>

@@ -3,8 +3,7 @@ Hackers Behind the October Data Breach Exposing Data on Darknet Identified by Ma
 ---
 <article class="post-listing post-23734 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-breach tag-darknet tag-data tag-exposing tag-hackers tag-identified tag-malaysia tag-october tag-police">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
     <span>November 30, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/11/30/hackers-behind-october-data-breach-exposing-data-darknet-identified-malaysia-police/#respond">Leave a comment</a></span>

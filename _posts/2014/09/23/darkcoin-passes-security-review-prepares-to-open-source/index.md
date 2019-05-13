@@ -3,8 +3,7 @@ Darkcoin Passes Security Review &#8211; Prepares to Open Source
 ---
 <article class="post-listing post-7194 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darkcoin tag-open tag-passes tag-prepares tag-review tag-security tag-source">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 23, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/09/23/darkcoin-passes-security-review-prepares-to-open-source/#comments">6 Comments</a></span>

@@ -3,8 +3,7 @@ Free Speech 101: Creating a WordPress Blog in Whonix
 ---
 <article class="post-listing post-9376 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-1941 tag-blog tag-creating tag-free tag-speech tag-whonix tag-wordpress">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/politech/" title="">Politech </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/politech/" title="">Politech </a></span>
     <span>June 29, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/06/29/free-speech-101-creating-a-wordpress-blog-in-whonix/#respond">Leave a comment</a></span>

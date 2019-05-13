@@ -6,8 +6,7 @@ Queensland couple on Australia’s most wanted list Arrested
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     
     

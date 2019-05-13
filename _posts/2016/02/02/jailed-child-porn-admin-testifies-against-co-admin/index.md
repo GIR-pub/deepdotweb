@@ -6,8 +6,7 @@ Jailed Child Porn Admin Testifies Against Co-Admin
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     
     

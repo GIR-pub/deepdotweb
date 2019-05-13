@@ -3,8 +3,7 @@ Op-Ed: “Going Dark” is an FBI Lie
 ---
 <article class="post-listing post-20105 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-fbi tag-lie tag-oped">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 25, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/05/25/op-ed-going-dark-fbi-lie/#respond">Leave a comment</a></span>

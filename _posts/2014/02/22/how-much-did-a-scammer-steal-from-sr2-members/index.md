@@ -6,8 +6,7 @@ How Much Did A Scammer Steal From SR2 Members?
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     
     

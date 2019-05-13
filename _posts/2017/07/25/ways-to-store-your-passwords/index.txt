@@ -191,7 +191,6 @@ var userSettings = {"url":"\/","uid":"0","time":"1501565385","secure":"1"};
 <article class="post-listing post-21553 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-passwords tag-store tag-ways">
 <div class="post-inner">
 <h1 class="name post-title entry-title" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing"><span itemprop="name">(Some Of) The Best Ways To Store Your Passwords</span></h1>
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
 <span>July 25, 2017</span>
 

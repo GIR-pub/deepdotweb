@@ -3,8 +3,7 @@ Luxembourg Pedophile Downloaded 3,900 Illegal Pictures
 ---
 <article class="post-listing post-24195 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6207 tag-downloaded tag-illegal tag-luxembourg tag-pedophile tag-pictures">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 30, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/12/30/luxembourg-pedophile-downloaded-3900-illegal-pictures/#comments">6 Comments</a></span>

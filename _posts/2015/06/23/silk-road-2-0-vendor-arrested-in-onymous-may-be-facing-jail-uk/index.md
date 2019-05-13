@@ -3,8 +3,7 @@ Silk Road 2.0 Vendor Arrested in Onymous May Be Facing Jail (UK)
 ---
 <article class="post-listing post-10890 post type-post status-publish format-standard hentry category-news tag-45 tag-arrested tag-facing tag-jail tag-onymous tag-road tag-silk tag-uk tag-vendor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 23, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/06/23/silk-road-2-0-vendor-arrested-in-onymous-may-be-facing-jail-uk/#respond">Leave a comment</a></span>

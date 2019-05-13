@@ -6,8 +6,7 @@ Man sentenced over 300 years for Darkweb child porn case
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
     
     

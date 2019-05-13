@@ -3,8 +3,7 @@ Estonian State Prosecutor Vahur Verte Confiscates Bitcoins Earned As Criminal In
 ---
 <article class="post-listing post-24136 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoins tag-confiscates tag-criminal tag-earned tag-estonian tag-income tag-prosecutor tag-state tag-vahur tag-verte">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>December 28, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/12/28/estonian-state-prosecutor-vahur-verte-confiscates-bitcoins-earned-criminal-income/#comments">3 Comments</a></span>

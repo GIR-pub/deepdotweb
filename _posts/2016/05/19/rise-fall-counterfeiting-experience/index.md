@@ -3,8 +3,7 @@ Rise and Fall of my Counterfeiting Experience
 ---
 <article class="post-listing post-14127 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-counterfeiting tag-experience tag-fall tag-rise">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/alwaysthrowaways/" title="">alwaysthrowaways </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/alwaysthrowaways/" title="">alwaysthrowaways </a></span>
     <span>May 19, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/05/19/rise-fall-counterfeiting-experience/#comments">28 Comments</a></span>

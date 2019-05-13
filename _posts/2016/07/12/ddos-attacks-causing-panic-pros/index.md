@@ -3,8 +3,7 @@ DdoS Attacks Causing Panic for IT Pro’s
 ---
 <article class="post-listing post-14793 post type-post status-publish format-standard hentry category-news tag-attacks tag-causing tag-ddos tag-panic tag-pros">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 12, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/07/12/ddos-attacks-causing-panic-pros/#respond">Leave a comment</a></span>

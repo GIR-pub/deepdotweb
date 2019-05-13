@@ -3,8 +3,7 @@ German Police Released New Information In The Case Of The Ehingen Drug Shop
 ---
 <article class="post-listing post-19049 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-drug tag-ehingen tag-german tag-information tag-police tag-released tag-shop">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 7, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/04/07/german-police-released-new-information-case-ehingen-drug-shop/#comments">2 Comments</a></span>

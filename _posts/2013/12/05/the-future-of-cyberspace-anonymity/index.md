@@ -3,7 +3,6 @@ title: The Future of Cyberspace Anonymity
 ---
 2319 category-deepdot-news tag-anonymity tag-cyberspace tag-future">
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 5, 2013</span>
 

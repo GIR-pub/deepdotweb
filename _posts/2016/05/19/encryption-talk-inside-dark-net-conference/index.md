@@ -3,8 +3,7 @@ Encryption Talk at &#8216;Inside The Dark Net&#8217; Conference
 ---
 <article class="post-listing post-14125 post type-post status-publish format-standard hentry category-news tag-conference tag-dark tag-encryption tag-net tag-talk">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 19, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/05/19/encryption-talk-inside-dark-net-conference/#respond">Leave a comment</a></span>

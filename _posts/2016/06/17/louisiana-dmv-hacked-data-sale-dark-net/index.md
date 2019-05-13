@@ -6,8 +6,7 @@ Louisiana DMV Hacked, Data for Sale on Dark Net
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     
     

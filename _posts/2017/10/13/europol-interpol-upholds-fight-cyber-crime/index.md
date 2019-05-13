@@ -3,7 +3,6 @@ Europol and Interpol Upholds Fight against Cyber Crime
 ---
 <article class="post-listing post-23035 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crime tag-cyber tag-europol tag-fight tag-interpol tag-upholds">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>October 13, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

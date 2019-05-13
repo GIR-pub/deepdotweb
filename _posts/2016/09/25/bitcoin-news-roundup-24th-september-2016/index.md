@@ -3,8 +3,7 @@ Bitcoin News Roundup 24th September 2016
 ---
 <article class="post-listing post-15556 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-24th tag-bitcoin tag-news tag-roundup tag-september">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>September 25, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/09/25/bitcoin-news-roundup-24th-september-2016/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ Kosovo hackers
 ---
 <article class="post-6808 post type-post status-publish format-standard has-post-thumbnail hentry category-meme-images tag-generator tag-meme post-listing">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="http://www.deepdotweb.com/author/" title=""> </a></span>
+        <span>Posted by: <a href="http://www.deepdotweb.com/author/" title=""> </a></span>
     <span>August 19, 2014</span>
     <span>in <a href="http://www.deepdotweb.com/category/meme-images/" rel="category tag">Meme Images</a></span>
     <span><a href="http://www.deepdotweb.com/2014/08/19/kosovo-hackers/#respond" title="Comment on Kosovo hackers">Leave a comment</a></span>

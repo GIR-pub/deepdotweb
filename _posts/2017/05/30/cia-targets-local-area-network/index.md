@@ -3,8 +3,7 @@ What CIA does on target&#8217;s Local Area Network
 ---
 <article class="post-listing post-20225 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-area tag-cia tag-local tag-network tag-targets">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>May 30, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/05/30/cia-targets-local-area-network/#comments">3 Comments</a></span>

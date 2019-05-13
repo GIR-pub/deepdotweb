@@ -3,8 +3,7 @@ Yahoo Helped the FBI Catch a Pedophile in France and Identified a CP Network Onl
 ---
 <article class="post-listing post-17006 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-catch tag-cp tag-fbi tag-france tag-helped tag-identified tag-network tag-online tag-pedophile tag-yahoo">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 18, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/12/18/yahoo-helped-fbi-catch-pedophile-france-identified-cp-network-online/#respond">Leave a comment</a></span>

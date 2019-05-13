@@ -3,8 +3,7 @@ Personal Experience: Part 9 – Bitcoin vending on the Clearnet
 ---
 <article class="post-listing post-8091 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-experiencetag">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>January 20, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/01/20/personal-experience-part-9-bitcoin-vending-clearnet/#respond">Leave a comment</a></span>

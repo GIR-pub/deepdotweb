@@ -3,8 +3,7 @@ Manchester: Teenager Admits Trying To Buy Deadly Toxin From Dark Net
 ---
 <article class="post-listing post-9917 post type-post status-publish format-standard hentry category-news tag-admits tag-buy tag-deadly tag-manchester tag-teenager tag-toxin">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 8, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/04/08/manchester-teenager-admits-trying-to-buy-deadly-toxin-from-dark-net/#comments">7 Comments</a></span>

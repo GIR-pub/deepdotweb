@@ -3,8 +3,7 @@ Hybrid Consensus and Fair Proof-of-Work (fPoW)
 ---
 <article class="post-listing post-19135 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-consensus tag-fair tag-fpow tag-hybrid tag-proofofwork">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>April 12, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/04/12/hybrid-consensus-fair-proof-work-fpow/#respond">Leave a comment</a></span>

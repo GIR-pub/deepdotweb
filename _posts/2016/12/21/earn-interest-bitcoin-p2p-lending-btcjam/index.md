@@ -3,8 +3,7 @@ How to earn interest on your Bitcoin &#8211; P2P Lending with BTCJam
 ---
 <article class="post-listing post-17048 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-btcjam tag-earn tag-interest tag-lending tag-p2p">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>December 21, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/12/21/earn-interest-bitcoin-p2p-lending-btcjam/#comments">1 Comment</a></span>

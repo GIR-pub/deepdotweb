@@ -6,8 +6,7 @@ US Marshals to Auction $1.6m In Bitcoins, Some From the Silk Road Case
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     
     

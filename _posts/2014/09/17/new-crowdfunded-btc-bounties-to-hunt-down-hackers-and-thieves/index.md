@@ -5,8 +5,7 @@ New: CrowdFunded BTC Bounties to Hunt Down Hackers and Thieves
     <div class="single-post-video">
     <iframe width="660" height="371" src="http://www.youtube.com/embed/nWFemmRkRzw?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 17, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/09/17/new-crowdfunded-btc-bounties-to-hunt-down-hackers-and-thieves/#comments">1 Comment</a></span>

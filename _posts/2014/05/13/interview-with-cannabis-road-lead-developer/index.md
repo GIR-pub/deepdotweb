@@ -3,8 +3,7 @@ Interview With “Cannabis Road” Lead Developer
 ---
 <article class="post-listing post-5536 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cannabis tag-interview tag-road">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 13, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/05/13/interview-with-cannabis-road-lead-developer/#respond">Leave a comment</a></span>

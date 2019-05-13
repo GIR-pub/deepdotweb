@@ -3,8 +3,7 @@ Experience: The Arms Race Of Bitcoin Mining Hardware
 ---
 <article class="post-listing post-6390 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-arms tag-bitcoin tag-hardware tag-mining tag-race">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/jabberwocky/" title="">Jabberwocky </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/jabberwocky/" title="">Jabberwocky </a></span>
     <span>July 10, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/07/10/experience-the-arms-race-of-bitcoin-mining-hardware/#comments">1 Comment</a></span>

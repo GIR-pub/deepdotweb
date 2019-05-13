@@ -3,7 +3,6 @@ Dark web gun fantasist pleads guilty
 ---
 <article class="post-listing post-11519 post type-post status-publish format-standard hentry category-news tag-dark tag-fantasist tag-guilty tag-gun tag-pleads tag-web">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>September 10, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

@@ -6,8 +6,7 @@ Feds Give Security Researchers Two Years to Hack Almost Anything
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     
     

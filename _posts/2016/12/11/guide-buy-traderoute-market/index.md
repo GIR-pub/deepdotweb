@@ -3,8 +3,7 @@ Guide: How To buy From The TradeRoute Market?
 ---
 <article class="post-listing post-16863 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-guide tag-market tag-traderoute">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 11, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/12/11/guide-buy-traderoute-market/#comments">6 Comments</a></span>

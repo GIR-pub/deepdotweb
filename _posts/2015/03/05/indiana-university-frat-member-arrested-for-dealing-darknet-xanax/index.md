@@ -3,8 +3,7 @@ Indiana University Frat Member Arrested for Dealing DarkNet Xanax
 ---
 <article class="post-listing post-9390 post type-post status-publish format-standard hentry category-news tag-arrested tag-darknet tag-dealing tag-frat tag-indiana tag-member tag-university tag-xanax">
 <div class="post-inner">
-<  <p class="post-meta">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<  <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/05/indiana-university-frat-member-arrested-for-dealing-darknet-xanax/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ Crypviser: Blockchain-based IM encryption
 ---
 <article class="post-listing post-20982 post type-post status-publish format-standard has-post-thumbnail hentry
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>June 30, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/06/30/crypviser-blockchain-based-im-encryption/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ Dutch Vendors Scoring On Dark Net Market Deals
 ---
 <article class="post-listing post-12375 post type-post status-publish format-standard hentry category-news tag-dark tag-deals tag-dutch tag-market tag-net tag-scoring tag-vendors">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 11, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/04/11/dutch-vendors-scoring-dark-net-market-deals/#comments">1 Comment</a></span>

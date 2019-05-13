@@ -3,8 +3,7 @@ Anonymous Teaches Hacking On Dark Web Chat Network
 ---
 <article class="post-listing post-13981 post type-post status-publish format-standard hentry category-news tag-anonymous tag-chat tag-dark tag-hacking tag-network tag-teaches tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 7, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/05/07/anonymous-teaches-hacking-dark-web-chat-network/#comments">103 Comments</a></span>

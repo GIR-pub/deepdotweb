@@ -3,8 +3,7 @@ Canada To Push For Marijuana Legalization In 2017
 ---
 <article class="post-listing post-13900 post type-post status-publish format-standard hentry category-news tag-3676 tag-canada tag-legalization tag-marijuana tag-push">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>April 28, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/04/28/canada-push-marijuana-legalization-2017/#comments">2 Comments</a></span>

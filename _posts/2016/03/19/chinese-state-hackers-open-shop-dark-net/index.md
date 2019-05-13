@@ -3,8 +3,7 @@ Chinese State Hackers open up shop on Dark Net
 ---
 <article class="post-listing post-13519 post type-post status-publish format-standard hentry category-news tag-chinese tag-dark tag-hackers tag-net tag-open tag-shop tag-state">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>March 19, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/03/19/chinese-state-hackers-open-shop-dark-net/#respond">Leave a comment</a></span>

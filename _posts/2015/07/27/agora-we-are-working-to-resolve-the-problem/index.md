@@ -3,8 +3,7 @@ Agora: We are working to resolve the problem.
 ---
 <article class="post-listing post-11136 post type-post status-publish format-standard hentry category-news tag-agora tag-problem tag-resolve tag-working">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 27, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/07/27/agora-we-are-working-to-resolve-the-problem/#comments">19 Comments</a></span>

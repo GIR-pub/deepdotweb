@@ -3,8 +3,7 @@ Tor 6.0 Officially Released and Ready for Download
 ---
 <article class="post-listing post-14370 post type-post status-publish format-standard hentry category-news tag-3828 tag-download tag-officially tag-ready tag-released tag-tor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>June 3, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/06/03/tor-6-0-officially-released-ready-download/#comments">1 Comment</a></span>

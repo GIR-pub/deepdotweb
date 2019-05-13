@@ -3,8 +3,7 @@ Belgian Authorities Did Not Find Nuclear Power Plant’s Plans On Dark Web
 ---
 <article class="post-listing post-16680 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-authorities tag-belgian tag-dark tag-find tag-nuclear tag-plans tag-plants tag-power tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 1, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/12/01/belgian-authorities-not-find-nuclear-power-plants-plans-dark-web/#comments">1 Comment</a></span>

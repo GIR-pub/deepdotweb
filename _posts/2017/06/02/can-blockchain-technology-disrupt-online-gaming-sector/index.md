@@ -3,8 +3,7 @@ Can the blockchain technology disrupt the online gaming sector?
 ---
 <article class="post-listing post-20190 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-disrupt tag-gaming tag-online tag-sector tag-technology">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>June 2, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/06/02/can-blockchain-technology-disrupt-online-gaming-sector/#respond">Leave a comment</a></span>

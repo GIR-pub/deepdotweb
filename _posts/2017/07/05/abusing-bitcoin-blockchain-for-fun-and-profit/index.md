@@ -3,8 +3,7 @@ Abusing Bitcoin Blockchain for Fun and Profit
 ---
 <article class="post-listing post-21089 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-abusing tag-bitcoin tag-blockchain tag-fun tag-profit">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>July 5, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/07/05/abusing-bitcoin-blockchain-for-fun-and-profit/#comments">3 Comments</a></span>

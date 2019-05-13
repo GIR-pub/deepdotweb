@@ -3,8 +3,7 @@ German Police Raided Three Suspects for Showing Interest in Darknet Firearm Sale
 ---
 <article class="post-listing post-18090 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-firearm tag-german tag-interest tag-police tag-raided tag-sales tag-showing tag-suspects">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 12, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/02/12/german-police-raided-three-suspects-showing-interest-darknet-firearm-sales/#comments">5 Comments</a></span>

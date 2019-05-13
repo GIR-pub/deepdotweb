@@ -3,8 +3,7 @@ Hacker Teach How He Hacked Spain’s Catalan Police Union Website
 ---
 <article class="post-listing post-14230 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-catalan tag-hacked tag-hacker tag-police tag-spains tag-teach tag-union tag-website">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/janobi/" title="">Janobi </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/janobi/" title="">Janobi </a></span>
     <span>May 26, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/05/26/police-catalan-hack/#comments">6 Comments</a></span>

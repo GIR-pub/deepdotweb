@@ -3,8 +3,7 @@ Study: Estimating hidden service traffic from DNS leaks
 ---
 <article class="post-listing post-6170 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dns tag-estimating tag-hidden tag-leaks tag-service tag-study tag-traffic">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 22, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/22/study-estimating-hidden-service-traffic-dns-leaks/#comments">2 Comments</a></span>

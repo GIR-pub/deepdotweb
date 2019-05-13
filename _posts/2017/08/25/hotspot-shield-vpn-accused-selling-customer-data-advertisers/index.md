@@ -3,8 +3,7 @@ Hotspot Shield VPN Accused of Selling Customer Data to Advertisers
 ---
 <article class="post-listing post-22162 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accused tag-advertisers tag-customer tag-data tag-hotspot tag-selling tag-shield tag-vpn">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>August 25, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/08/25/hotspot-shield-vpn-accused-selling-customer-data-advertisers/#comments">1 Comment</a></span>

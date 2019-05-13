@@ -3,8 +3,7 @@ Twelve Kazakhstan Traffickers Raided by Special Forces
 ---
 <article class="post-listing post-23562 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-forces tag-kazakhstan tag-raided tag-special tag-traffickers tag-twelve">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 18, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/uncategorized/" rel="category tag">Uncategorized</a></span>
     <span><a href="https://www.deepdotweb.com/2017/11/18/twelve-kazakhstan-traffickers-raided-special-forces/#respond">Leave a comment</a></span>

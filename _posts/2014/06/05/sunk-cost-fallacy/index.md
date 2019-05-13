@@ -5,8 +5,7 @@ The Sunk Cost Fallacy
     <div class="single-post-video">
     <iframe width="660" height="371" src="http://www.youtube.com/embed/vpnxd31y0Fo?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>
     <span>June 5, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
     <span><a href="https://www.deepdotweb.com/2014/06/05/sunk-cost-fallacy/#respond">Leave a comment</a></span>

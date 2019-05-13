@@ -3,7 +3,6 @@ Evolution Market Scam: 12$ Million In BTC Lost?
 ---
 <article class="post-listing post-9514 post type-post status-publish format-standard hentry category-news tag-evoscam">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 18, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

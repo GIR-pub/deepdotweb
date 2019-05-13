@@ -3,8 +3,7 @@ This week on Bitcoin markets. . . 8th July
 ---
 <article class="post-listing post-10982 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-8th tag-bitcoin tag-july tag-markets tag-week">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>July 8, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/07/08/this-week-on-bitcoin-markets-8th-july/#comments">1 Comment</a></span>

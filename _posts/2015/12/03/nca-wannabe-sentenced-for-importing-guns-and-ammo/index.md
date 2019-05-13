@@ -3,7 +3,6 @@
 ---
 <article class="post-listing post-12390 post type-post status-publish format-standard hentry category-news tag-ammo tag-guns tag-importing tag-nca tag-sentenced tag-wannabe">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>December 3, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

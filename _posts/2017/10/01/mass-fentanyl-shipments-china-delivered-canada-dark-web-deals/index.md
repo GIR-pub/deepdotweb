@@ -6,8 +6,7 @@ Mass Fentanyl Shipments From China Delivered to Canada Through Dark Web Deals
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     
     

@@ -3,7 +3,6 @@ The Decrypted SR2 User Table Dump
 ---
 <article class="post-listing post-9063 post type-post status-publish format-standard hentry category-news tag-decrypted tag-dump tag-sr2 tag-table tag-user">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 13, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

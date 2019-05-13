@@ -3,8 +3,7 @@ Research: Weapons trafficking and terrorist activities taking place on the dark 
 ---
 <article class="post-listing post-28304 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-activities tag-dark tag-place tag-research tag-terrorist tag-trafficking tag-weapons tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 6, 2019</span>
     
     <span><a href="https://www.deepdotweb.com/2019/02/06/research-weapons-trafficking-and-terrorist-activities-taking-place-on-the-dark-web/#comments">4 Comments</a></span>

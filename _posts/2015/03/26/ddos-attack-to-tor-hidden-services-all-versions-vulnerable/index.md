@@ -3,7 +3,6 @@ Ddos attack on TOR hidden services &#8211; All Versions Vulnerable
 ---
 <article class="post-listing post-9654 post type-post status-publish format-standard hentry category-news tag-attack tag-ddos tag-hidden tag-services tag-tor tag-versions tag-vulnerable">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 26, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

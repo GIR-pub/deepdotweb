@@ -3,7 +3,6 @@ Bitcoin news roundup March 19, 2017
 ---
 <article class="post-listing post-18725 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3099 tag-3676 tag-bitcoin tag-march tag-news tag-roundup">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
 <span>March 19, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

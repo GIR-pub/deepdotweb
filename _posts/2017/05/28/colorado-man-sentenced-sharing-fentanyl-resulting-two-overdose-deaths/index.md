@@ -3,8 +3,7 @@ Colorado Man Sentenced For Sharing Fentanyl Resulting In Two Overdose Deaths
 ---
 <article class="post-listing post-20192 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-colorado tag-deaths tag-fentanyl tag-man tag-overdose tag-resulting tag-sentenced tag-sharing">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 28, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/05/28/colorado-man-sentenced-sharing-fentanyl-resulting-two-overdose-deaths/#comments">1 Comment</a></span>

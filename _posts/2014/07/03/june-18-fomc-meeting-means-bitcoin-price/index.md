@@ -6,8 +6,7 @@ June 18 FOMC Meeting, What it Means for Bitcoin Price?
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     
     

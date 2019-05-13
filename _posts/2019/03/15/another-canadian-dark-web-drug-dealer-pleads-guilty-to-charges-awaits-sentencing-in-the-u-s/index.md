@@ -3,8 +3,7 @@ Another Canadian dark web drug dealer pleads guilty to charges, awaits sentencin
 ---
 <article class="post-listing post-28633 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-awaits tag-canadian tag-charges tag-dark tag-dealer tag-drug tag-guilty tag-pleads tag-sentencing tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>March 15, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/03/15/another-canadian-dark-web-drug-dealer-pleads-guilty-to-charges-awaits-sentencing-in-the-u-s/#respond">Leave a comment</a></span>

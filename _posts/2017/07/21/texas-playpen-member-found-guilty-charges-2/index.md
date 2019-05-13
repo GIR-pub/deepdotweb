@@ -3,8 +3,7 @@ Texas Playpen Member Found Guilty of All Charges
 ---
 <article class="post-listing post-21473 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charges tag-guilty tag-member tag-playpen tag-texas">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 21, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/07/21/texas-playpen-member-found-guilty-charges-2/#comments">1 Comment</a></span>

@@ -3,7 +3,6 @@ Kentucky Man Sentenced to 87 Months in PlayPen Case
 ---
 <article class="post-listing post-24494 post type-post status-publish format-standard hentry category-deepdot-news category-news-updates tag-5949 tag-case tag-kentucky tag-man tag-months tag-playpen tag-sentenced">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 20, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

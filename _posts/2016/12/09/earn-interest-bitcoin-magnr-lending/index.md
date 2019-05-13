@@ -3,8 +3,7 @@ How to earn interest on your Bitcoin &#8211; Magnr Lending
 ---
 <article class="post-listing post-16825 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-earn tag-interest tag-lending tag-magnr">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>December 9, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/12/09/earn-interest-bitcoin-magnr-lending/#respond">Leave a comment</a></span>

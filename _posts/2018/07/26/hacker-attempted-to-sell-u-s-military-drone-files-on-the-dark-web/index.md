@@ -3,7 +3,6 @@ Hacker Attempted to Sell U.S Military Drone Files on the Dark Web
 ---
 <article class="post-listing post-26409 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempted tag-dark tag-drone tag-files tag-hacker tag-military tag-sell tag-web">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>July 26, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

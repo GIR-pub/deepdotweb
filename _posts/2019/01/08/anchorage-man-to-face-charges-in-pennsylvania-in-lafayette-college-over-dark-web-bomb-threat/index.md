@@ -3,8 +3,7 @@ Anchorage Man to Face Charges in Pennsylvania in Lafayette College over Dark Web
 ---
 <article class="post-listing post-27996 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-anchorage tag-bomb tag-charges tag-college tag-dark tag-face tag-lafayette tag-man tag-pennsylvania tag-threat tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>January 8, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/01/08/anchorage-man-to-face-charges-in-pennsylvania-in-lafayette-college-over-dark-web-bomb-threat/#respond">Leave a comment</a></span>

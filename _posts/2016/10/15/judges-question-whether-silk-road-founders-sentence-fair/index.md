@@ -3,8 +3,7 @@ Judges question whether Silk Road founder’s sentence is fair
 ---
 <article class="post-listing post-15822 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fair tag-founders tag-judges tag-question tag-road tag-sentence tag-silk">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/joewebber/" title="">Joe Webber </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/joewebber/" title="">Joe Webber </a></span>
     <span>October 15, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/10/15/judges-question-whether-silk-road-founders-sentence-fair/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ Swedish Police Bust Group of Four Darknet Vendors, Find 100K Ecstasy Pills Durin
 ---
 <article class="post-listing post-16572 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-100k tag-bust tag-darknet tag-ecstasy tag-find tag-group tag-pills tag-police tag-raid tag-swedish tag-vendors">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 25, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/11/25/swedish-police-bust-group-four-darknet-vendors-find-100k-ecstasy-pills-raid/#comments">2 Comments</a></span>

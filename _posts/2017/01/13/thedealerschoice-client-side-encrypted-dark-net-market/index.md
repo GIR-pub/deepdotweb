@@ -3,8 +3,7 @@ TheDealersChoice, a client-side, encrypted Dark Net market
 ---
 <article class="post-listing post-17328 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-clientside tag-dark tag-encrypted tag-kptx tag-market tag-net tag-thedealerschoice">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>January 13, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/01/13/thedealerschoice-client-side-encrypted-dark-net-market/#comments">9 Comments</a></span>

@@ -3,8 +3,7 @@ FBI Likely Shared Information From Hacking Operation With UK
 ---
 <article class="post-listing post-13283 post type-post status-publish format-standard hentry category-news tag-fbi tag-hacking tag-information tag-operation tag-shared tag-uk">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 22, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/02/22/fbi-likely-shared-information-from-hacking-operation-with-uk/#comments">1 Comment</a></span>

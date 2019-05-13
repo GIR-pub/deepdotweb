@@ -3,8 +3,7 @@ Two Austrians Sentenced For Ordering Counterfeit Euro Notes To Finance Their Dru
 ---
 <article class="post-listing post-19366 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-addictions tag-austrians tag-counterfeit tag-drug tag-euro tag-finance tag-notes tag-ordering tag-sentenced">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 24, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/04/24/two-austrians-sentenced-ordering-counterfeit-euro-notes-finance-drug-addictions/#respond">Leave a comment</a></span>

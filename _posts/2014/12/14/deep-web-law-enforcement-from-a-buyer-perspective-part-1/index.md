@@ -3,8 +3,7 @@ Deep Web &#038; Law Enforcement: From a Buyer Perspective, Part 1
 ---
 <article class="post-listing post-7942 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buyer tag-buyerperspective tag-deep tag-enforcement tag-law tag-part tag-perspective tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>December 14, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/12/14/deep-web-law-enforcement-from-a-buyer-perspective-part-1/#comments">19 Comments</a></span>

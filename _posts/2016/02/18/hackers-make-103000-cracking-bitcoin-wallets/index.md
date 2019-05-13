@@ -3,8 +3,7 @@ Hackers Make $103,000 Cracking Bitcoin Wallets
 ---
 <article class="post-listing post-13273 post type-post status-publish format-standard hentry category-news tag-3440 tag-bitcoin tag-cracking tag-hackers tag-wallets">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>February 18, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/02/18/hackers-make-103000-cracking-bitcoin-wallets/#comments">2 Comments</a></span>

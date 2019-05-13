@@ -3,8 +3,7 @@ The Journey of Amphetamines
 ---
 <article class="post-listing post-14393 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-amphetamines tag-journey">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kevin/" title="">-Kevin- </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kevin/" title="">-Kevin- </a></span>
     <span>June 8, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/06/08/the-journey-of-amphetamines/#comments">5 Comments</a></span>

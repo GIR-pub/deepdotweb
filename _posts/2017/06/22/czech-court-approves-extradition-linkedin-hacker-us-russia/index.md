@@ -3,8 +3,7 @@ Czech Court Approves Extradition Of LinkedIn Hacker: But To The US Or Russia?
 ---
 <article class="post-listing post-20796 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-approves tag-court tag-czech tag-extradition tag-hacker tag-linkedin tag-russia">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 22, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/06/22/czech-court-approves-extradition-linkedin-hacker-us-russia/#respond">Leave a comment</a></span>

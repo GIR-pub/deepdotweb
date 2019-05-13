@@ -3,7 +3,6 @@ title: A Published Chapter From The Book &#8220;Drugs 2.0&#8221; On Gwern
 ---
 590 category-deepdot-news tag-45 tag-book tag-chapter tag-drugs tag-gwern tag-published">
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 20, 2013</span>
 

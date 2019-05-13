@@ -3,8 +3,7 @@ Darknet Nation: DarkNetMarket Social Network
 ---
 <article class="post-listing post-4365 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-darknet tag-darknetmarket tag-nation tag-network tag-social">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 21, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/02/21/darknet-nation-darknetmarket-social-network/#comments">11 Comments</a></span>

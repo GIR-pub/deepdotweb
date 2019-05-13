@@ -3,8 +3,7 @@ How to use a Bitcoin Mixer: BitBlender
 ---
 <article class="post-listing post-16171 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitblender tag-bitcoin tag-mixer">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>October 31, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/10/31/use-bitcoin-mixer-bitblender/#comments">13 Comments</a></span>

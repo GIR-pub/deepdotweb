@@ -3,8 +3,7 @@ Former Employee of Healthcare Giant Sells Data of 1 Million Clients on Dark Web
 ---
 <article class="post-listing post-21695 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-clients tag-dark tag-data tag-employee tag-giant tag-healthcare tag-million tag-sells tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>August 2, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/08/02/former-employee-healthcare-giant-sells-data-1-million-clients-dark-web/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ PGP Tutorial For OS X
 ---
 <article class="post-listing post-9153 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-os tag-pgp tag-tutorial">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 20, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/#comments">28 Comments</a></span>

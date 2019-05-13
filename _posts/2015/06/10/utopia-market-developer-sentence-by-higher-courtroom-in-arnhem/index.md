@@ -3,8 +3,7 @@ Utopia Market Developer Sentence By Higher Courtroom in Arnhem
 ---
 <article class="post-listing post-10677 post type-post status-publish format-standard hentry category-news tag-arnhem tag-courtroom tag-developer tag-higher tag-market tag-sentence tag-utopia">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 10, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/06/10/utopia-market-developer-sentence-by-higher-courtroom-in-arnhem/#respond">Leave a comment</a></span>

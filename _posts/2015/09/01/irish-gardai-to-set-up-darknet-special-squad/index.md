@@ -3,7 +3,6 @@ Irish Gardaí To Set Up Darknet Special Squad
 ---
 <article class="post-listing post-11389 post type-post status-publish format-standard hentry category-news">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>September 1, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

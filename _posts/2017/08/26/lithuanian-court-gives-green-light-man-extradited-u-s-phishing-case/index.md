@@ -6,8 +6,7 @@ Lithuanian Court gives Green Light for Man to be extradited to the U.S. in Phish
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     
     

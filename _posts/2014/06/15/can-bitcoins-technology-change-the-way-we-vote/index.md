@@ -3,8 +3,7 @@ Can Bitcoin&#8217;s Technology Change The Way We Vote?
 ---
 <article class="post-listing post-5969 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-based tag-blockchain tag-system tag-voting">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 15, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/15/can-bitcoins-technology-change-the-way-we-vote/#comments">2 Comments</a></span>

@@ -6,8 +6,7 @@ Final Defendants in Cannabinoid Ring Sentenced to 4.5 Years
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     
     

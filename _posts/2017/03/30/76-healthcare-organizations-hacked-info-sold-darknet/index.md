@@ -3,7 +3,6 @@
 ---
 <article class="post-listing post-18881 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5199 tag-darknet tag-hacked tag-healthcare tag-info tag-organizations tag-sold">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 30, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

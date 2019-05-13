@@ -3,7 +3,6 @@ Intel Source – Cops attack the weakest link too #3
 ---
 <article class="post-listing post-8429 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-intelphone">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
 <span>February 12, 2015</span>
 

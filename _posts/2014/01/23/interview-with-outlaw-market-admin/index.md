@@ -3,8 +3,7 @@ Interview With OutLaw Market Admin
 ---
 <article class="post-listing post-3592 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-market tag-outlaw">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 23, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/01/23/interview-with-outlaw-market-admin/#comments">11 Comments</a></span>

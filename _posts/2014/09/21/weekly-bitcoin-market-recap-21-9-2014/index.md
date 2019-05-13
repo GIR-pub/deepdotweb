@@ -3,8 +3,7 @@ Weekly Bitcoin Market Recap: 21-9-2014
 ---
 <article class="post-listing post-7176 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-1966 tag-bitcoin tag-market tag-recap tag-weekly">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>September 21, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/09/21/weekly-bitcoin-market-recap-21-9-2014/#comments">1 Comment</a></span>

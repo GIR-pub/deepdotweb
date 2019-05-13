@@ -3,8 +3,7 @@ Monero GUI Wallet Guide
 ---
 <article class="post-listing post-19529 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-gui tag-guide tag-monero tag-wallet">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>May 1, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/05/01/monero-gui-wallet-guide/#comments">14 Comments</a></span>

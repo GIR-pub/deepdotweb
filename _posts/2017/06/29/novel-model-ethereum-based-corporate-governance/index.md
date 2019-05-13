@@ -3,8 +3,7 @@ A Novel Model of Ethereum Based Corporate Governance
 ---
 <article class="post-listing post-20966 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-based tag-corporate tag-ethereum tag-governance tag-model">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>June 29, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/06/29/novel-model-ethereum-based-corporate-governance/#respond">Leave a comment</a></span>

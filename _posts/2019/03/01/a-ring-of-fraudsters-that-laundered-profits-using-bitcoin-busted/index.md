@@ -3,8 +3,7 @@ A Ring of Fraudsters that Laundered Profits Using Bitcoin Busted
 ---
 <article class="post-listing post-28479 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-busted tag-fraudsters tag-laundered tag-profits tag-ring">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
     <span>March 1, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/03/01/a-ring-of-fraudsters-that-laundered-profits-using-bitcoin-busted/#respond">Leave a comment</a></span>

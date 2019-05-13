@@ -3,7 +3,6 @@ Tor Fingerprinting &#8211; Is the Tor Browser Immune Against Browser Fingerprint
 ---
 <article class="post-listing post-23262 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-browser tag-fingerprinting tag-immune tag-tor">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>October 25, 2017</span>
 

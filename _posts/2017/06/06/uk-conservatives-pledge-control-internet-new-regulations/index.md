@@ -3,8 +3,7 @@ UK Conservatives Pledge to Control Internet with New Regulations
 ---
 <article class="post-listing post-20429 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-conservatives tag-control tag-internet tag-pledge tag-regulations tag-uk">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>June 6, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/06/06/uk-conservatives-pledge-control-internet-new-regulations/#comments">10 Comments</a></span>

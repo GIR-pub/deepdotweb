@@ -3,8 +3,7 @@ Q&#038;A Thread With The Silk Road 2 Administration
 ---
 <article class="post-listing post-5902 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-administration tag-qa tag-road tag-silk tag-thread">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 6, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/06/qa-thread-with-the-silk-road-2-administration/#comments">1 Comment</a></span>

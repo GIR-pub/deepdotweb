@@ -6,8 +6,7 @@ Bitcoin News Roundup – 4 Apr 2015
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     
     

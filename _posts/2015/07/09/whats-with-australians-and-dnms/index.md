@@ -3,8 +3,7 @@ What’s with Australians and DNMs?
 ---
 <article class="post-listing post-10878 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-australians tag-dnms">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>July 9, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/07/09/whats-with-australians-and-dnms/#comments">3 Comments</a></span>

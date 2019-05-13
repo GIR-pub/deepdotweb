@@ -3,7 +3,6 @@ Silk Road &#038; Ross Ulbricht Tribute Songs Compilation
 ---
 <article class="post-listing post-8971 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-compilation tag-road tag-ross tag-silk tag-songs tag-tribute tag-ulbricht">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 5, 2015</span>
 

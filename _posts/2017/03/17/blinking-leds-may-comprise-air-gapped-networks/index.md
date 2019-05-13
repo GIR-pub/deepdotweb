@@ -3,7 +3,6 @@ Blinking LEDs May Comprise Air-Gapped Networks
 ---
 <article class="post-listing post-18656 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-airgapped tag-blinking tag-comprise tag-leds tag-networks">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 17, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

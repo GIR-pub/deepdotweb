@@ -3,7 +3,6 @@ Russian FreeHacks Forum on the Darknet
 ---
 <article class="post-listing post-26539 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-forum tag-freehacks tag-russian">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>August 11, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

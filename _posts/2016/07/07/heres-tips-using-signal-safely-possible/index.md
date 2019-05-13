@@ -3,8 +3,7 @@ Here’s some tips for using Signal as safely as possible
 ---
 <article class="post-listing post-14751 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-safely tag-signal tag-tips">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 7, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/07/07/heres-tips-using-signal-safely-possible/#comments">4 Comments</a></span>

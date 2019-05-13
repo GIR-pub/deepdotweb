@@ -6,8 +6,7 @@ Father Of Two Brothers Who Died Overdosing On MDMA Support Drug Legalizing Campa
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     
     

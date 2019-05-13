@@ -3,8 +3,7 @@ Beaver: The Most “Honest” Dark Net Market Ever?
 ---
 <article class="post-listing post-14264 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-honest tag-market tag-net">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 28, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/05/28/honest-dark-net-market-ever/#comments">2 Comments</a></span>

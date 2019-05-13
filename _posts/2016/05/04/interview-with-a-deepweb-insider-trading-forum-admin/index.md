@@ -3,8 +3,7 @@ Interview: Insider Trading Forum Admin
 ---
 <article class="post-listing post-13928 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-admin tag-deepweb tag-forum tag-insider tag-interview tag-trading">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 4, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/05/04/interview-with-a-deepweb-insider-trading-forum-admin/#comments">35 Comments</a></span>

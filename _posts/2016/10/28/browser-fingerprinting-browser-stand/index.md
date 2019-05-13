@@ -3,8 +3,7 @@ Browser Fingerprinting: Does Your Browser Stand Out?
 ---
 <article class="post-listing post-16067 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-browser tag-fingerprinting tag-stand">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
     <span>October 28, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/10/28/browser-fingerprinting-browser-stand/#respond">Leave a comment</a></span>

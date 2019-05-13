@@ -3,8 +3,7 @@ Report Says How Weapons Are Smuggled Into The United Kingdom
 ---
 <article class="post-listing post-13787 post type-post status-publish format-standard hentry category-news tag-kingdom tag-report tag-smuggled tag-united tag-weapons">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 19, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/04/19/report-says-weapons-smuggled-united-kingdom/#respond">Leave a comment</a></span>

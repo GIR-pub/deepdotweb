@@ -3,8 +3,7 @@ BlackBank Market: Permanent Alternate Onion Addresses
 ---
 <article class="post-listing post-10236 post type-post status-publish format-standard hentry category-news tag-addresses tag-alternate tag-blackbank tag-market tag-onion tag-permanent">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 9, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/09/blackbank-market-permanent-alternate-onion-addresses/#comments">16 Comments</a></span>

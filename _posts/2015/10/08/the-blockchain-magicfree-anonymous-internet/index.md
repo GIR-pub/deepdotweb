@@ -3,7 +3,6 @@ The Blockchain Magic: Φ Free Anonymous Internet
 ---
 <article class="post-listing post-11707 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-blockchain tag-free tag-internet tag-magic tag-3146">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 8, 2015</span>
 

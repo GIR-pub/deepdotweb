@@ -3,7 +3,6 @@ Alphabay Vendors CaliConnect and BTH-Overdose Sentenced to Prison
 ---
 <article class="post-listing post-24641 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-bthoverdose tag-caliconnect tag-prison tag-sentenced tag-vendors">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 2, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

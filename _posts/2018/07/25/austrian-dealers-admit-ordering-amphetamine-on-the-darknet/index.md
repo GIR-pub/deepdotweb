@@ -3,7 +3,6 @@ Austrian Dealers Admit Ordering Amphetamine on the Darknet
 ---
 <article class="post-listing post-26396 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admit tag-amphetamine tag-austrian tag-darknet tag-dealers tag-ordering">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 25, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

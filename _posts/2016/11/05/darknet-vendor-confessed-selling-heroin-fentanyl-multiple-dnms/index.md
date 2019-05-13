@@ -3,8 +3,7 @@ Darknet Vendor Confessed to Selling Heroin and Fentanyl on Multiple DNMs
 ---
 <article class="post-listing post-16271 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-confessed tag-darknet tag-dnms tag-fentanyl tag-heroin tag-multiple tag-selling tag-vendor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 5, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/11/05/darknet-vendor-confessed-selling-heroin-fentanyl-multiple-dnms/#respond">Leave a comment</a></span>

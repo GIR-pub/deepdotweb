@@ -3,8 +3,7 @@ Russia Seems to have Changed its Mind about Bitcoin
 ---
 <article class="post-listing post-14906 post type-post status-publish format-standard hentry category-news tag-bitcoin tag-changed tag-mind tag-russia">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>July 25, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/07/25/russia-seems-changed-mind-bitcoin/#respond">Leave a comment</a></span>

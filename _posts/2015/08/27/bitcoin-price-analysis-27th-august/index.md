@@ -3,7 +3,6 @@ Bitcoin Price Analysis 27th August
 ---
 <article class="post-listing post-11372 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-27th tag-analysis tag-august tag-bitcoin tag-price">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>August 27, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

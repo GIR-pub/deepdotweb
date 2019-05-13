@@ -3,8 +3,7 @@ Dark Web Child Porn Users Caught Using Clearnet File Sharing Service
 ---
 <article class="post-listing post-20076 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-caught tag-child tag-clearnet tag-dark tag-file tag-porn tag-service tag-sharing tag-users tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/dhume/" title="">D. Hume </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/dhume/" title="">D. Hume </a></span>
     <span>May 24, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/05/24/dark-web-child-porn-users-caught-using-clearnet-file-sharing-service/#comments">3 Comments</a></span>

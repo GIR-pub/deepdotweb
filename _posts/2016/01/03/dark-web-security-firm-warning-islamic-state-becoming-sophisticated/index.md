@@ -3,8 +3,7 @@ Dark Web Security Firm Warning Islamic State Becoming Sophisticated
 ---
 <article class="post-listing post-12837 post type-post status-publish format-standard hentry category-news tag-dark tag-firm tag-islamic tag-security tag-sophisticated tag-state tag-warning tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 3, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/01/03/dark-web-security-firm-warning-islamic-state-becoming-sophisticated/#comments">2 Comments</a></span>

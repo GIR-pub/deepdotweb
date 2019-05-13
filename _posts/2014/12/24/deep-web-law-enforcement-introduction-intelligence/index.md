@@ -6,8 +6,7 @@ Deep Web &#038; Law Enforcement: Introduction to Intelligence
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     
     

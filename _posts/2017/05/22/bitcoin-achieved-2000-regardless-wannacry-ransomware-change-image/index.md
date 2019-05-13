@@ -3,8 +3,7 @@ Bitcoin Achieved $2,000, Regardless of WannaCry Ransomware, Change of Image?
 ---
 <article class="post-listing post-20148 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4231 tag-achieved tag-bitcoin tag-change tag-image tag-ransomware tag-wannacry">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 22, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/05/22/bitcoin-achieved-2000-regardless-wannacry-ransomware-change-image/#comments">1 Comment</a></span>

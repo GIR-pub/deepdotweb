@@ -3,7 +3,6 @@ Leak Shows US Army and NSA Compromised Tor, I2P, VPNs and Wants to Track Monero
 ---
 <article class="post-listing post-24621 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-army tag-compromised tag-i2p tag-leak tag-monero tag-nsa tag-shows tag-tor tag-track tag-vpns">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>January 31, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

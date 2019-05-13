@@ -3,8 +3,7 @@ Bitcoin Economics: Volatility
 ---
 <article class="post-listing post-14659 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-ecoinomics tag-volatility">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/jfc/" title="">JFC </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/jfc/" title="">JFC </a></span>
     <span>June 29, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/06/29/ecoinomics/#comments">2 Comments</a></span>

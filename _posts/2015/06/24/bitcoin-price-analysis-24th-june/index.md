@@ -6,8 +6,7 @@ Bitcoin Price Analysis 24th June
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     
     

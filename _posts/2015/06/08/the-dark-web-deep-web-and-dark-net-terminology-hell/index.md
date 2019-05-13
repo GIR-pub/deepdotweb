@@ -3,8 +3,7 @@ The Dark Web, Deep Web and Dark Net – Terminology Hell
 ---
 <article class="post-listing post-10608 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-deep tag-net tag-terminology tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 8, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/06/08/the-dark-web-deep-web-and-dark-net-terminology-hell/#comments">7 Comments</a></span>

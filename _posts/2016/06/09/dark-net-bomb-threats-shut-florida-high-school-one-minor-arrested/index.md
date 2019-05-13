@@ -6,8 +6,7 @@ Dark Net Bomb Threats Shut Down Florida High School, One Minor Arrested
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     
     

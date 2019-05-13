@@ -6,8 +6,7 @@ New Connecticut Task Force Targets Cybercrime
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     
     

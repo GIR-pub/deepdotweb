@@ -3,8 +3,7 @@ Blockchain in finance and management fields. Fintech and govtech cases at Blockc
 ---
 <article class="post-listing post-14918 post type-post status-publish format-standard hentry category-news tag-blockchain tag-cases tag-conference tag-fields tag-finance tag-fintech tag-govtech tag-kiev tag-management">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 26, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/07/26/blockchain-finance-management-fields-fintech-govtech-cases-blockchain-conference-kiev/#respond">Leave a comment</a></span>

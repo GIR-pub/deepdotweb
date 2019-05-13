@@ -3,8 +3,7 @@ Brixton Prison Librarian Arrested For Trying To Buy Gun From The Dark Web
 ---
 <article class="post-listing post-13410 post type-post status-publish format-standard hentry category-news tag-arrested tag-brixton tag-buy tag-dark tag-gun tag-librarian tag-prison tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>March 8, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/03/08/brixton-prison-librarian-arrested-for-trying-to-buy-gun-from-the-dark-web/#comments">2 Comments</a></span>

@@ -3,8 +3,7 @@ Georgia Judge Sentences Russian Hacker to 14 Years in Prison
 ---
 <article class="post-listing post-23936 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1945 tag-georgia tag-hacker tag-judge tag-prison tag-russian tag-sentenced tag-sentences tag-years">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 16, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/12/16/georgia-judge-sentences-russian-hacker-sentenced-14-years-prison/#comments">1 Comment</a></span>

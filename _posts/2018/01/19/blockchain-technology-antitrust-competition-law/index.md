@@ -3,7 +3,6 @@ The Blockchain Technology &#038; Antitrust and Competition Law
 ---
 <article class="post-listing post-24484 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-antitrust tag-blockchain tag-competition tag-law tag-technology">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>January 19, 2018</span>
 

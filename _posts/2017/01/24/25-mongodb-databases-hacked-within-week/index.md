@@ -3,8 +3,7 @@ More Than 25% of MongoDB Databases Hacked Within a Week
 ---
 <article class="post-listing post-17672 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2528 tag-databases tag-hacked tag-mongodb tag-week">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 24, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/01/24/25-mongodb-databases-hacked-within-week/#respond">Leave a comment</a></span>

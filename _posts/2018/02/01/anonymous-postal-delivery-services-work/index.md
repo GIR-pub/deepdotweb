@@ -3,7 +3,6 @@ Anonymous Postal &#038; Delivery Services &#8211; Could it work?
 ---
 <article class="post-listing post-24630 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-delivery tag-postal tag-services tag-work">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>February 1, 2018</span>
 

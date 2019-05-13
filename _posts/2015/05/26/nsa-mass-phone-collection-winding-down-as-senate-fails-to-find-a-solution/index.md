@@ -3,8 +3,7 @@ NSA Mass Phone Collection &#8220;Winding Down,&#8221; as Senate Fails to Find a 
 ---
 <article class="post-listing post-10404 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-collection tag-fails tag-find tag-mass tag-nsa tag-phone tag-senate tag-solution tag-winding">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 26, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/26/nsa-mass-phone-collection-winding-down-as-senate-fails-to-find-a-solution/#comments">1 Comment</a></span>

@@ -3,8 +3,7 @@ Dealers Selling Drugs On The “Amazon Of India”
 ---
 <article class="post-listing post-13363 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-amazon tag-dealers tag-drugs tag-india tag-selling">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 4, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/03/04/dealers-selling-drugs-on-the-amazon-of-india/#comments">4 Comments</a></span>

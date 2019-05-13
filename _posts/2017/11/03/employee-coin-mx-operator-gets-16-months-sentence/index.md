@@ -3,8 +3,7 @@ Employee of Coin.Mx Operator Gets 16 Months Sentence
 ---
 <article class="post-listing post-23362 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1887 tag-admitted tag-coinmx tag-employee tag-fraud tag-laundering tag-money tag-months tag-operator tag-sentence">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>November 3, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/11/03/employee-coin-mx-operator-gets-16-months-sentence/#comments">2 Comments</a></span>

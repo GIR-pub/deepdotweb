@@ -3,7 +3,6 @@ Nucleus Market Has Removed Its Weapons Category
 ---
 <article class="post-listing post-12309 post type-post status-publish format-standard hentry category-news tag-category tag-market tag-nucleus tag-removed tag-weapons">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

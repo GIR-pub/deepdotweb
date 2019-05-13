@@ -3,8 +3,7 @@ How Bitcoin Could Revolutionize the Payments Landscape in Africa
 ---
 <article class="post-listing post-12970 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-africa tag-bitcoin tag-landscape tag-payments tag-revolutionize">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 19, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/01/19/how-bitcoin-could-revolutionize-the-payments-landscape-in-africa/#comments">1 Comment</a></span>

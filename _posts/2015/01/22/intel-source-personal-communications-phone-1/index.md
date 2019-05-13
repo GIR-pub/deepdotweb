@@ -3,8 +3,7 @@ Intel Source – Personal Communications By Phone #1
 ---
 <article class="post-listing post-8401 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-communications tag-intel tag-intelphone tag-personal tag-phone tag-source">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>January 22, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/01/22/intel-source-personal-communications-phone-1/#respond">Leave a comment</a></span>

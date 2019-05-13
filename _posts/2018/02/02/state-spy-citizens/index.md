@@ -3,7 +3,6 @@ How does a state spy on citizens?
 ---
 <article class="post-listing post-24642 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-citizens tag-spy tag-state">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>February 2, 2018</span>
 

@@ -3,7 +3,6 @@ ORANGE AND EUROPOL SIGN MOU TO COMBAT CYBERCRIME IN EUROPE
 ---
 <article class="post-listing post-26436 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-combat tag-cybercrime tag-europe tag-europol tag-mou tag-orange tag-sign">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>July 29, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

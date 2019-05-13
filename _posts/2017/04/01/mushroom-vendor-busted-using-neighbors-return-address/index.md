@@ -3,8 +3,7 @@ Mushroom Vendor Busted After Using Neighbor&#8217;s Return Address
 ---
 <article class="post-listing post-18916 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-address tag-busted tag-mushroom tag-neighbors tag-return tag-vendor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 1, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/04/01/mushroom-vendor-busted-using-neighbors-return-address/#comments">3 Comments</a></span>

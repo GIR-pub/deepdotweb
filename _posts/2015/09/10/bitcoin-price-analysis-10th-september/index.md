@@ -3,7 +3,6 @@ Bitcoin Price Analysis 10th September
 ---
 <article class="post-listing post-11491 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-9th tag-analysis tag-bitcoin tag-price tag-september">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>September 10, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

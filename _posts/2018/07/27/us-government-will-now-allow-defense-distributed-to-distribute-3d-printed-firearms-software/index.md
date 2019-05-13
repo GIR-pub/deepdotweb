@@ -3,7 +3,6 @@ US Government Will Now Allow Defense Distributed to Distribute 3D Printed Firear
 ---
 <article class="post-listing post-26419 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3d tag-defense tag-distribute tag-distributed tag-firearms tag-government tag-printed tag-software">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>July 27, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

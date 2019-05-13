@@ -3,8 +3,7 @@ Paper: Oppressive and Free Countries Use Tor The Most
 ---
 <article class="post-listing post-13686 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-countries tag-free tag-oppressive tag-paper tag-tor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>April 10, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/04/10/paper-oppressive-free-countries-use-tor/#comments">4 Comments</a></span>

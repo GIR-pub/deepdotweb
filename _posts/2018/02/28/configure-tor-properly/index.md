@@ -3,7 +3,6 @@ How To Configure Tor Properly
 ---
 <article class="post-listing post-24893 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-configure tag-properly tag-tor">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
 <span>February 28, 2018</span>
 

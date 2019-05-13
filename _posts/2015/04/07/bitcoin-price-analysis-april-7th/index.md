@@ -3,8 +3,7 @@ Bitcoin Price Analysis April 7th
 ---
 <article class="post-listing post-9885 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-7th tag-analysis tag-april tag-bitcoin tag-price">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>April 7, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/04/07/bitcoin-price-analysis-april-7th/#comments">1 Comment</a></span>

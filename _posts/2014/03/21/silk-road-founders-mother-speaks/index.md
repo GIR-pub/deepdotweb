@@ -5,8 +5,7 @@ Silk Road Founder&#8217;s Mother Speaks Out
     <div class="single-post-video">
     <iframe width="660" height="371" src="http://www.youtube.com/embed/AP7tKS74H7I?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 21, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
     <span><a href="https://www.deepdotweb.com/2014/03/21/silk-road-founders-mother-speaks/#comments">1 Comment</a></span>

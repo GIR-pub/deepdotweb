@@ -3,8 +3,7 @@ Credentials of Senior Figures in Britain Hacked and Sold On the Darknet by Russi
 ---
 <article class="post-listing post-21179 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-britain tag-credentials tag-darknet tag-figures tag-hacked tag-hackers tag-russian tag-senior tag-sold">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>July 9, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/07/09/credentials-senior-figures-britain-hacked-sold-darknet-russian-hackers/#respond">Leave a comment</a></span>

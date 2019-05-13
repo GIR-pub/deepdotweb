@@ -6,8 +6,7 @@ German Law Enforcement to Trial Run a “Cyber-Armed Forces” Center
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     
     

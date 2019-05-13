@@ -3,8 +3,7 @@ How the Secret Service Tracked Down Darknet Cash Counterfeiter Billmaker
 ---
 <article class="post-listing post-28448 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-billmaker tag-cash tag-counterfeiter tag-darknet tag-secret tag-service tag-tracked">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>February 26, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/02/26/how-the-secret-service-tracked-down-darknet-cash-counterfeiter-billmaker/#respond">Leave a comment</a></span>

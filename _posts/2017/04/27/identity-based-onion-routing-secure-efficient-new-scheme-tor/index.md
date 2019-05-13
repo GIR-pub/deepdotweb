@@ -6,8 +6,7 @@ Identity Based Onion Routing &#8211; A Secure and Efficient New Scheme for Tor
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     
     

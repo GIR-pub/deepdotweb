@@ -5,7 +5,6 @@ title: Banned for a reason
 <div class="single-post-video">
 <iframe width="660" height="371" src="http://www.youtube.com/embed/Z0YjfNF72h4?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 
-<p class="post-meta">
 <span>Posted by: <a href="http://www.deepdotweb.com/author/masad/" title="">Mohammed Asad </a></span>
 <span>October 29, 2013</span>
 <span>in <a href="http://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>

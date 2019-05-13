@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-8069 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2372 tag-bulgarian tag-domains tag-hosting tag-onion tag-operation-onymous tag-seized tag-silkroad2bust tag-single">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 8, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/11/08/129-seized-onion-domains-single-bulgarian-hosting/#comments">9 Comments</a></span>

@@ -3,7 +3,6 @@ The PerfectScans Roadshow Slaps The Deebweb In The Face
 ---
 <article class="post-listing post-11312 post type-post status-publish format-standard has-post-thumbnail hentry category-memes tag-deebweb tag-face tag-perfectscans tag-roadshow tag-slaps">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/perfectscans/" title="">PerfectScans </a></span>
 <span>August 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/memes/" rel="category tag">Memes &amp; Funny</a></span>

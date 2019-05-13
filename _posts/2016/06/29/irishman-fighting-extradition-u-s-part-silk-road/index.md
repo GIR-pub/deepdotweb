@@ -6,8 +6,7 @@ Irishman Fighting Extradition to U.S. for His Part in Silk Road
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     
     

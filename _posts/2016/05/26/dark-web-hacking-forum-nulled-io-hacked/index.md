@@ -3,8 +3,7 @@ Dark Web Hacking Forum Nulled.io Hacked
 ---
 <article class="post-listing post-14231 post type-post status-publish format-standard hentry category-news tag-dark tag-forum tag-hacked tag-hacking tag-nulledio tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 26, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/05/26/dark-web-hacking-forum-nulled-io-hacked/#comments">1 Comment</a></span>

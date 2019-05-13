@@ -3,7 +3,6 @@ Public Consensus Networks &#038; Secret Management : From Access Control to Rans
 ---
 <article class="post-listing post-18730 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-access tag-consensus tag-control tag-management tag-networks tag-public tag-ransomware tag-secret">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 21, 2017</span>
 

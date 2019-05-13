@@ -3,8 +3,7 @@ UMBRA: The Ultimate Privacy Platform
 ---
 <article class="post-listing post-15804 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-platform tag-privacy tag-ultimate tag-umbra">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/arcanum/" title="">Arcanum </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/arcanum/" title="">Arcanum </a></span>
     <span>October 13, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/10/13/umbra-ultimate-privacy-platform/#comments">1 Comment</a></span>

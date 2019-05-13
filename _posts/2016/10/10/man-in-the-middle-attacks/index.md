@@ -3,8 +3,7 @@ Man In The Middle Attacks
 ---
 <article class="post-listing post-15734 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-attacks tag-man tag-middle">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>October 10, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/10/10/man-in-the-middle-attacks/#comments">5 Comments</a></span>

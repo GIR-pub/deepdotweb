@@ -3,8 +3,7 @@ Bitcoin Price Analysis August 23
 ---
 <article class="post-listing post-15212 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2706 tag-analysis tag-august tag-bitcoin tag-price">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>August 23, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/08/23/bitcoin-price-analysis-august-23/#comments">1 Comment</a></span>

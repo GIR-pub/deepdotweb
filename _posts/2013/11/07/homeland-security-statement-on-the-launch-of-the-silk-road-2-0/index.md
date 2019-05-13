@@ -3,7 +3,6 @@ title: Homeland Security: Statement On The Launch Of The Silk Road 2.0
 ---
 1225 category-deepdot-news tag-45 tag-homeland tag-launch tag-road tag-security tag-silk tag-statement">
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 7, 2013</span>
 

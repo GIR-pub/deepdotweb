@@ -3,8 +3,7 @@ Google: ISIS Should Be Pushed Back To Dark Web
 ---
 <article class="post-listing post-13087 post type-post status-publish format-standard hentry category-news tag-dark tag-google tag-isis tag-pushed tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 25, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/01/25/google-isis-should-be-pushed-back-to-dark-web/#comments">3 Comments</a></span>

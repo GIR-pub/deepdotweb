@@ -3,8 +3,7 @@ Vendor Interview: UnderGroundKings
 ---
 <article class="post-listing post-9665 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-interview tag-undergroundkings tag-vendor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 28, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/04/28/vendor-interview-undergroundkings/#comments">5 Comments</a></span>

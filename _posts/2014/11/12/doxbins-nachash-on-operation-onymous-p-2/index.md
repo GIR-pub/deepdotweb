@@ -3,8 +3,7 @@ Doxbin’s Nachash On Operation Onymous (P.2)
 ---
 <article class="post-listing post-8160 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-nashcashtag tag-operation-onymous tag-silkroad2bust">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
     <span>November 12, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/11/12/doxbins-nachash-on-operation-onymous-p-2/#comments">4 Comments</a></span>

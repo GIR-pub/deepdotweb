@@ -3,8 +3,7 @@ Tutorial &#8211; Altcoin Flipping : Making Money Online Via Trading Cryptocurren
 ---
 <article class="post-listing post-19311 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-altcoin tag-cryptocurrencies tag-flipping tag-making tag-money tag-online tag-trading tag-tutorial">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>April 21, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/04/21/tutorial-altcoin-flipping-making-money-online-via-trading-cryptocurrencies/#comments">10 Comments</a></span>

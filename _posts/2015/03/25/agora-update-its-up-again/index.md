@@ -3,7 +3,6 @@ Agora Update: Its Up again!
 ---
 <article class="post-listing post-9651 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-agora tag-update">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 25, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

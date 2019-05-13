@@ -6,8 +6,7 @@ A New Model For Incentivizing Producers of Renewable Energy Via Ethereum&#8217;s
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     
     

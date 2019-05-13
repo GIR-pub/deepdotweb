@@ -6,8 +6,7 @@ FBI Gets Green Flag For Unlimited Warrant less Searches
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     
     

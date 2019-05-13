@@ -3,8 +3,7 @@ Gorseinon Man Jailed For Possessing Illegal Weapons
 ---
 <article class="post-listing post-12039 post type-post status-publish format-standard hentry category-news tag-gorseinon tag-illegal tag-jailed tag-man tag-possessing tag-weapons">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 5, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/11/05/gorseinon-man-jailed-for-possessing-illegal-weapons/#comments">1 Comment</a></span>

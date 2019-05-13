@@ -4,7 +4,6 @@ title: News
 2309 tag-news">
     
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>
 <span>December 18, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/memes/" rel="category tag">Memes &amp; Funny</a></span>

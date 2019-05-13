@@ -3,8 +3,7 @@ Alphabay: Introducing New wallet security measures
 ---
 <article class="post-listing post-13348 post type-post status-publish format-standard hentry category-news tag-alphabay tag-measures tag-security tag-wallet">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 28, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/02/28/alphabay-new-wallet-security-measures/#comments">6 Comments</a></span>

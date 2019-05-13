@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-7237 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-545 tag-informative tag-posts tag-rdarknetmarkets tag-top">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>October 29, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/10/29/top-10-informative-posts-rdarknetmarkets/#comments">6 Comments</a></span>

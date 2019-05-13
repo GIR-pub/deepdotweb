@@ -6,8 +6,7 @@ Interview: Monero&#8217;s fluffypony talks about current developments and the fu
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/babysnoop/" title="">babysnoop </a></span>
     
     

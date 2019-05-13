@@ -3,8 +3,7 @@ Bitcoin Price Analysis 25 October 2016
 ---
 <article class="post-listing post-16133 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3336 tag-2528 tag-analysis tag-bitcoin tag-october tag-price">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>October 25, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/10/25/bitcoin-price-analysis-25-october-2016/#comments">2 Comments</a></span>

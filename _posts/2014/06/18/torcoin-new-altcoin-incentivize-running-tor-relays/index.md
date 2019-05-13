@@ -3,8 +3,7 @@ Torcoin: New Altcoin Hopes To Incentivize People Into Running Tor Relays
 ---
 <article class="post-listing post-6037 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-coin tag-tor tag-torcoin">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
     <span>June 18, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/18/torcoin-new-altcoin-incentivize-running-tor-relays/#respond">Leave a comment</a></span>

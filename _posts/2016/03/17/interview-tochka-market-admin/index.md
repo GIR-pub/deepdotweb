@@ -3,8 +3,7 @@ Interview With Tochka Market Admin
 ---
 <article class="post-listing post-13490 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-admin tag-interview tag-market tag-tochka">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 17, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/03/17/interview-tochka-market-admin/#comments">13 Comments</a></span>

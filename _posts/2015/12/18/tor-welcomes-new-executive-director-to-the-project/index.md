@@ -3,8 +3,7 @@ Tor Welcomes New Executive Director To The Project
 ---
 <article class="post-listing post-12662 post type-post status-publish format-standard hentry category-news tag-director tag-executive tag-project tag-tor tag-welcomes">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 18, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/12/18/tor-welcomes-new-executive-director-to-the-project/#comments">1 Comment</a></span>

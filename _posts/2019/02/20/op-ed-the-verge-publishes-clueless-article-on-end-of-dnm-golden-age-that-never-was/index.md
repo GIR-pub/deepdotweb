@@ -3,8 +3,7 @@ Op-Ed: The Verge Publishes Clueless Article on end of DNM &#8220;Golden-Age&#822
 ---
 <article class="post-listing post-28403 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-article tag-clueless tag-dnm tag-goldenage tag-oped tag-publishes tag-verge">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/elmerfud/" title="">ElmerFud </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/elmerfud/" title="">ElmerFud </a></span>
     <span>February 20, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/02/20/op-ed-the-verge-publishes-clueless-article-on-end-of-dnm-golden-age-that-never-was/#respond">Leave a comment</a></span>

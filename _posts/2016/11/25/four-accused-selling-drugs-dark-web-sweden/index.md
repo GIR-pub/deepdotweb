@@ -3,8 +3,7 @@ Four Accused Of Selling Drugs On Dark Web In Sweden
 ---
 <article class="post-listing post-16583 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accused tag-dark tag-drugs tag-selling tag-sweden tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 25, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/11/25/four-accused-selling-drugs-dark-web-sweden/#comments">1 Comment</a></span>

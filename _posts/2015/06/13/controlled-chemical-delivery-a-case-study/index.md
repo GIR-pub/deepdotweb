@@ -3,8 +3,7 @@ Controlled Chemical Delivery – A Case Study
 ---
 <article class="post-listing post-8628 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-case tag-chemical tag-controlled tag-delivery tag-study">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>June 13, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/06/13/controlled-chemical-delivery-a-case-study/#respond">Leave a comment</a></span>

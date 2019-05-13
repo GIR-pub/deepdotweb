@@ -3,7 +3,6 @@ Cybercrime: The Study of Carding
 ---
 <article class="post-listing post-11291 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-carding tag-cybercrime tag-study">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 17, 2015</span>
 

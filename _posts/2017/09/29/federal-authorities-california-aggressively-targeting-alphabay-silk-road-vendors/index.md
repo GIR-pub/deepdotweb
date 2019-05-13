@@ -6,8 +6,7 @@ Federal Authorities in California are Aggressively Targeting Alphabay and Silk R
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     
     

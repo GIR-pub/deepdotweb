@@ -3,8 +3,7 @@ Swiss Authorities Left Powerless Against Online German Weapons Shop
 ---
 <article class="post-listing post-17289 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-authorities tag-german tag-left tag-online tag-powerless tag-shop tag-swiss tag-weapons">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 3, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/01/03/swiss-authorities-left-powerless-against-online-german-weapons-shop/#comments">7 Comments</a></span>

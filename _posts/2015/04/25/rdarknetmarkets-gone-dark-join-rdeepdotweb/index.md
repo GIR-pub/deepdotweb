@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-10081 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-dark tag-darknetmarkets tag-join tag-rdarknetmarkets tag-rdeepdotweb">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 25, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/04/25/rdarknetmarkets-gone-dark-join-rdeepdotweb/#comments">4 Comments</a></span>

@@ -3,8 +3,7 @@ Alphabay Drug Vendor Shansa Arrested
 ---
 <article class="post-listing post-13719 post type-post status-publish format-standard hentry category-news tag-alphabay tag-busted tag-drug tag-shansa tag-vendor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 14, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/04/14/alphabay-drug-vendor-shansa-busted/#comments">2 Comments</a></span>

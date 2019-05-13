@@ -3,8 +3,7 @@ So, You Want To Be a Darknet Drug Lord&#8230;
 ---
 <article class="post-listing post-9992 post type-post status-publish format-standard has-post-thumbnail hentry tag-darknet tag-drug tag-lord">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 15, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a></span>
     <span><a href="https://www.deepdotweb.com/2015/04/15/so-you-want-to-be-a-darknet-drug-lord/#comments">7 Comments</a></span>

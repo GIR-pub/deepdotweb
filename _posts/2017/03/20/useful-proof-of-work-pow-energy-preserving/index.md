@@ -3,7 +3,6 @@ Useful Proof of Work (PoW) &#8211; Energy Preserving Cryptocurrency PoW Protocol
 ---
 <article class="post-listing post-18697 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cryptocurrency tag-energy tag-pow tag-preserving tag-proof tag-protocols tag-work">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 20, 2017</span>
 

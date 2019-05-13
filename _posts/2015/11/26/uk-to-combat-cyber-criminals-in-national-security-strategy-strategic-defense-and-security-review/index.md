@@ -3,8 +3,7 @@ UK To Combat Cyber Criminals In National Security Strategy, Strategic Defense An
 ---
 <article class="post-listing post-12344 post type-post status-publish format-standard hentry category-news tag-combat tag-criminals tag-cyber tag-defense tag-national tag-review tag-security tag-strategic tag-strategy tag-uk">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 26, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/11/26/uk-to-combat-cyber-criminals-in-national-security-strategy-strategic-defense-and-security-review/#comments">2 Comments</a></span>

@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-15021 post type-post status-publish format-standard hentry category-news tag-4084 tag-attacks tag-hospitals tag-ransomware tag-target">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 5, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/08/05/88-ransomware-attacks-target-hospitals/#respond">Leave a comment</a></span>

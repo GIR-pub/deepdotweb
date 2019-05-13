@@ -3,7 +3,6 @@ The Italian ANAC launched online whistleblowing platform using Tor onion service
 ---
 <article class="post-listing post-24946 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-anac tag-italian tag-launched tag-onion tag-online tag-platform tag-services tag-tor tag-whistleblowing">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>March 4, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

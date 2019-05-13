@@ -3,8 +3,7 @@ High School Student Used the Dark Web to Research on How to Make a Bomb
 ---
 <article class="post-listing post-28599 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bomb tag-dark tag-high tag-research tag-school tag-student tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
     <span>March 12, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/03/12/high-school-student-used-the-dark-web-to-research-on-how-to-make-a-bomb/#comments">6 Comments</a></span>

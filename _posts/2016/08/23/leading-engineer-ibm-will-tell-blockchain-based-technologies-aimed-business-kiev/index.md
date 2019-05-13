@@ -3,8 +3,7 @@ Leading engineer from IBM will tell about blockchain based technologies aimed fo
 ---
 <article class="post-listing post-15229 post type-post status-publish format-standard hentry category-news tag-aimed tag-based tag-blockchain tag-business tag-engineer tag-ibm tag-kiev tag-leading tag-technologies">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>August 23, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/08/23/leading-engineer-ibm-will-tell-blockchain-based-technologies-aimed-business-kiev/#respond">Leave a comment</a></span>

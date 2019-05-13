@@ -3,8 +3,7 @@ Research: Top 10 Cities Hosting Botnets
 ---
 <article class="post-listing post-15916 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-545 tag-botnets tag-cities tag-hosting tag-research tag-top">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 18, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/10/18/research-top-10-cities-hosting-botnets/#comments">3 Comments</a></span>

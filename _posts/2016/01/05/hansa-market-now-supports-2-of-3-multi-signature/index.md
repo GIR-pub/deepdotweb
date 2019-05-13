@@ -3,8 +3,7 @@ HANSA Market now supports 2-of-3 multi-signature
 ---
 <article class="post-listing post-12852 post type-post status-publish format-standard hentry category-news tag-2of3 tag-hansa tag-market tag-multisignature tag-supports">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 5, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/01/05/hansa-market-now-supports-2-of-3-multi-signature/#respond">Leave a comment</a></span>

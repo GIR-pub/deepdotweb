@@ -3,8 +3,7 @@ Australia Finally recognizing Bitcoin as Currency
 ---
 <article class="post-listing post-14080 post type-post status-publish format-standard hentry category-news tag-australia tag-bitcoin tag-currency tag-finally tag-recognizing">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 15, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/05/15/australia-finally-recognizing-bitcoin-currency/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ Agora Downtimes &#8211; Resources Reminder
 ---
 <article class="post-listing post-9990 post type-post status-publish format-standard hentry category-news tag-agora tag-downtime tag-reminder tag-resource">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 15, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/04/15/agora-downtimes-resources-reminder/#comments">4 Comments</a></span>

@@ -3,7 +3,6 @@ PrivateVPN Review – 2017 update
 ---
 <article class="post-listing post-12288 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-privatevpn tag-review">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 25, 2015</span>
 

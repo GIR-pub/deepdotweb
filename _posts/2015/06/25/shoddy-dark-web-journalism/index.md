@@ -3,8 +3,7 @@ TheCthulhu: Shoddy “Dark Web” Journalism
 ---
 <article class="post-listing post-10917 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-journalism tag-shoddy tag-thecthulhu tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 25, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/06/25/shoddy-dark-web-journalism/#respond">Leave a comment</a></span>

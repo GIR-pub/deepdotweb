@@ -3,7 +3,6 @@ The War On Drugs – The Cyber Chapter
 ---
 <article class="post-listing post-11127 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-chapter tag-cyber tag-drugs tag-war">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anthonydowd/" title="">Anthony Dowd </a></span>
 <span>September 15, 2015</span>
 

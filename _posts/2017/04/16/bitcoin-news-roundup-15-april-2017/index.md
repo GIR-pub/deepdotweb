@@ -3,8 +3,7 @@ Bitcoin news roundup 15 April, 2017
 ---
 <article class="post-listing post-19249 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1886 tag-3676 tag-april tag-bitcoin tag-news tag-roundup">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
     <span>April 16, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/04/16/bitcoin-news-roundup-15-april-2017/#respond">Leave a comment</a></span>

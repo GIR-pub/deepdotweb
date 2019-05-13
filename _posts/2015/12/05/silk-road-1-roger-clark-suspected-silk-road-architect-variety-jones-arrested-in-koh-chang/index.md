@@ -3,7 +3,6 @@ Roger Clark Suspected Silk Road&#8217;s &#8220;Variety Jones&#8221;, arrested in
 ---
 <article class="post-listing post-12470 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-chang tag-clark tag-jones tag-koh tag-roads tag-roger tag-silk tag-suspected tag-variety">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

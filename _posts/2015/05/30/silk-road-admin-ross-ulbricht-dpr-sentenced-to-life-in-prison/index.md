@@ -3,8 +3,7 @@ Silk Road Admin Ross Ulbricht (DPR) Sentenced to Life in Prison
 ---
 <article class="post-listing post-10486 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-dpr tag-life tag-prison tag-road tag-ross tag-sentenced tag-silk tag-ulbricht">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 30, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/30/silk-road-admin-ross-ulbricht-dpr-sentenced-to-life-in-prison/#comments">7 Comments</a></span>

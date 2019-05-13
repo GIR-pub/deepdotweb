@@ -3,7 +3,6 @@ title: Press Release: Family of alleged Silk Road Operator Ross Ulbricht Launche
 ---
 1698 category-deepdot-news tag-alleged tag-defense tag-family tag-fund tag-launches tag-legal tag-operator tag-press tag-release tag-road tag-ross tag-silk tag-ulbricht">
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 21, 2013</span>
 

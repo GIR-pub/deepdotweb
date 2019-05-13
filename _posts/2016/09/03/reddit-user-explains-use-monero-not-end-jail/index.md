@@ -3,8 +3,7 @@ Reddit User Explains How To Use Monero and “Not End Up in Jail”
 ---
 <article class="post-listing post-15317 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-explains tag-jail tag-monero tag-reddit tag-user">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 3, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/09/03/reddit-user-explains-use-monero-not-end-jail/#comments">6 Comments</a></span>

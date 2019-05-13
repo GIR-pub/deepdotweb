@@ -3,7 +3,6 @@ Identabit: The Solution to the Misgivings of Bitcoin?
 ---
 <article class="post-listing post-11757 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-identabit tag-misgivings tag-solution">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kalyan/" title="">Koni </a></span>
 <span>October 13, 2015</span>
 

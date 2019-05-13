@@ -3,7 +3,6 @@ How To Buy Drugs Online From DarknetMarkets?
 ---
 <article class="post-listing post-12789 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-buy-drugs-online tag-darknetmarkets tag-drugs tag-online">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 30, 2015</span>
 

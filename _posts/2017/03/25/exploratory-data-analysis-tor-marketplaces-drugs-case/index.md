@@ -3,7 +3,6 @@ Exploratory Data Analysis for Tor Marketplaces &#8211; The Drugs&#8217; Case
 ---
 <article class="post-listing post-18787 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analysis tag-case tag-data tag-drugs tag-exploratory tag-marketplaces tag-tor">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 25, 2017</span>
 

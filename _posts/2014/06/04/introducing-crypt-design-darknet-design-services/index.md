@@ -3,8 +3,7 @@ Introducing Crypt Design: DarkNet Design Services!
 ---
 <article class="post-listing post-5845 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-crypt tag-darknet tag-design tag-introducing tag-services">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 4, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/04/introducing-crypt-design-darknet-design-services/#comments">11 Comments</a></span>

@@ -3,8 +3,7 @@ Should We Encourage Bug Discovery And Neglect Pen Testing ?
 ---
 <article class="post-listing post-13413 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bug tag-discovery tag-encourage tag-neglect tag-pen tag-testing">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/michaelatobraaboagye/" title="">Michael Atobra Aboagye </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/michaelatobraaboagye/" title="">Michael Atobra Aboagye </a></span>
     <span>March 10, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/03/10/should-we-encourage-bug-discovery-and-neglect-pen-testing/#comments">1 Comment</a></span>

@@ -3,7 +3,6 @@ Stanford Professor Awarded Grant For Darknet Analyzer Search Engine
 ---
 <article class="post-listing post-11655 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-analyzer tag-awarded tag-darknet tag-engine tag-grant tag-professor tag-search tag-stanford">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>October 2, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

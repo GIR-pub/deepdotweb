@@ -3,7 +3,6 @@ Agora Marketplace Forums are Back up
 ---
 <article class="post-listing post-9392 post type-post status-publish format-standard hentry category-news tag-agora tag-forums tag-marketplace">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 6, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

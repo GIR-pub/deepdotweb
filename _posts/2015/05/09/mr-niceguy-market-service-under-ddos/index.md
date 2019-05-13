@@ -3,8 +3,7 @@ Mr NiceGuy Market: Service Under DDOS
 ---
 <article class="post-listing post-10230 post type-post status-publish format-standard hentry category-news">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 9, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/09/mr-niceguy-market-service-under-ddos/#comments">6 Comments</a></span>

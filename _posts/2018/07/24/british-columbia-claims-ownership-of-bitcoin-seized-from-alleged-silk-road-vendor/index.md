@@ -3,7 +3,6 @@ British Columbia Claims Ownership of Bitcoin seized from Alleged Silk Road vendo
 ---
 <article class="post-listing post-26386 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alleged tag-bitcoin tag-british tag-claims tag-columbia tag-ownership tag-road tag-seized tag-silk tag-vendor">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>July 24, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

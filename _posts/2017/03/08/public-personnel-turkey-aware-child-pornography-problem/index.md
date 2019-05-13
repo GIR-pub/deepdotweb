@@ -3,7 +3,6 @@ Are Public Personnel In Turkey Aware of the Child Pornography Problem?
 ---
 <article class="post-listing post-18496 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-aware tag-child tag-personnel tag-pornography tag-problem tag-public tag-turkey">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 8, 2017</span>
 

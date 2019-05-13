@@ -6,7 +6,6 @@ Did Tor Start Crowdfunding To Reduce US Government Funding?
 <div class="post-inner">
     
     
-<p class="post-meta">
     
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     

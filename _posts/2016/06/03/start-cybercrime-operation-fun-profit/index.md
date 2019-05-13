@@ -3,8 +3,7 @@ How to Start Your Own Cybercrime Operation for Fun and Profit
 ---
 <article class="post-listing post-14309 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cybercrime tag-fun tag-operation tag-profit tag-start">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/sculptor/" title="">sculptor </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/sculptor/" title="">sculptor </a></span>
     <span>June 3, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/06/03/start-cybercrime-operation-fun-profit/#comments">6 Comments</a></span>

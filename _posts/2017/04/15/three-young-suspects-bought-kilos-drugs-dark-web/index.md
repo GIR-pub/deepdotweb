@@ -3,8 +3,7 @@ Three Young Suspects Bought Kilos Of Drugs From The Dark Web
 ---
 <article class="post-listing post-19197 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bought tag-dark tag-drugs tag-kilos tag-suspects tag-web tag-young">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 15, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/04/15/three-young-suspects-bought-kilos-drugs-dark-web/#comments">2 Comments</a></span>

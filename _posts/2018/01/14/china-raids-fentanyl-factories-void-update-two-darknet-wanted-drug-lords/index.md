@@ -3,7 +3,6 @@ China Raids Fentanyl Factories with Void Update on Two Darknet Wanted Drug Lords
 ---
 <article class="post-listing post-24409 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-china tag-darknet tag-drug tag-factories tag-fentanyl tag-lords tag-raids tag-update tag-void tag-wanted">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>January 14, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

@@ -3,8 +3,7 @@ Introduction To Sidechains and Blockchain 2.0
 ---
 <article class="post-listing post-6042 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-45 tag-blockchain tag-sidechains">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
     <span>June 26, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/26/sidechains-blockchain-2-0/#respond">Leave a comment</a></span>

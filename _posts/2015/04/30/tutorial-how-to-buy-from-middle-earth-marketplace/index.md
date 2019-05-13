@@ -3,8 +3,7 @@ Tutorial: How To Buy From Middle Earth Marketplace?
 ---
 <article class="post-listing post-10094 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-earth tag-marketplace tag-middle tag-tutorial">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 30, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/04/30/tutorial-how-to-buy-from-middle-earth-marketplace/#comments">8 Comments</a></span>

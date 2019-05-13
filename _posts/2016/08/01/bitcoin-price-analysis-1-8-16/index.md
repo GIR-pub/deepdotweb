@@ -6,8 +6,7 @@ Bitcoin Price Analysis 1.8.16
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     
     

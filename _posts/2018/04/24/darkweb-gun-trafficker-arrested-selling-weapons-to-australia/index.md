@@ -3,7 +3,6 @@ Darkweb Gun Trafficker Arrested Selling Weapons To Australia
 ---
 <article class="post-listing post-25484 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-australia tag-darkweb tag-gun tag-selling tag-trafficker tag-weapons">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>April 24, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

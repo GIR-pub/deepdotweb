@@ -3,7 +3,6 @@ DNMAvengers: Hosting DoctorX &#038; New Partnership with Energy Control
 ---
 <article class="post-listing post-12543 post type-post status-publish format-standard hentry category-news tag-control tag-dnmavengers tag-doctorx tag-energy tag-hosting tag-partnership">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

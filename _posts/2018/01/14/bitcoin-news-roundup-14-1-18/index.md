@@ -3,7 +3,6 @@ Bitcoin News Roundup 14.1.18
 ---
 <article class="post-listing post-24408 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6239 tag-bitcoin tag-news tag-roundup">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
 <span>January 14, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

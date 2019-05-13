@@ -3,8 +3,7 @@ D.P.A. Calls for lesser sentence for Ulbricht
 ---
 <article class="post-listing post-13545 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-calls tag-dpa tag-lesser tag-sentence tag-ulbricht">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>March 22, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/03/22/d-p-calls-lesser-sentence-ulbricht/#comments">7 Comments</a></span>

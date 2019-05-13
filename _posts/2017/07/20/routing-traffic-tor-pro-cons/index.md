@@ -3,8 +3,7 @@ ROUTING ALL TRAFFIC THROUGH TOR: PRO AND CONS
 ---
 <article class="post-listing post-21415 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cons tag-pro tag-routing tag-tor tag-traffic">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
     <span>July 20, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/07/20/routing-traffic-tor-pro-cons/#comments">5 Comments</a></span>

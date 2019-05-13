@@ -3,8 +3,7 @@ Possible Large-Scale DDOS Attacks on TOR Exit Nodes
 ---
 <article class="post-listing post-12118 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attacks tag-ddos tag-exit tag-largescale tag-nodes tag-tor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/chrismccandless/" title="">Chris McCandless </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/chrismccandless/" title="">Chris McCandless </a></span>
     <span>November 14, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/11/14/possible-large-scale-ddos-attacks-on-tor-exit-nodes/#comments">5 Comments</a></span>

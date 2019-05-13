@@ -3,7 +3,6 @@ US Military Data Offered on Darknet
 ---
 <article class="post-listing post-26531 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-data tag-military tag-offered">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>August 10, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

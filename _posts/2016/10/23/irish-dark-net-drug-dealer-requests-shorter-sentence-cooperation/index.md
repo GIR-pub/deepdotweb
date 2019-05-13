@@ -3,8 +3,7 @@ Irish Dark Net Drug Dealer Requests Shorter Sentence for His Cooperation
 ---
 <article class="post-listing post-16007 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cooperation tag-dark tag-dealer tag-drug tag-irish tag-net tag-requests tag-sentence tag-shorter">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>October 23, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/10/23/irish-dark-net-drug-dealer-requests-shorter-sentence-cooperation/#comments">3 Comments</a></span>

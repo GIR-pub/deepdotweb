@@ -39,8 +39,7 @@ CyberGhost Review
 ---
 <article class="post-listing post-28094 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cyberghost tag-review">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 15, 2019</span>
     
     <span><a href="https://www.deepdotweb.com/2019/01/15/cyberghost-review/#comments">3 Comments</a></span>

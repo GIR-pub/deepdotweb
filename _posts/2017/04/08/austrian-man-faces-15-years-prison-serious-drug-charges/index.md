@@ -3,8 +3,7 @@ Austrian Man Faces 15 Years In Prison For Serious Drug Charges
 ---
 <article class="post-listing post-19075 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1886 tag-austrian tag-charges tag-drug tag-faces tag-man tag-prison tag-years">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 8, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/04/08/austrian-man-faces-15-years-prison-serious-drug-charges/#respond">Leave a comment</a></span>

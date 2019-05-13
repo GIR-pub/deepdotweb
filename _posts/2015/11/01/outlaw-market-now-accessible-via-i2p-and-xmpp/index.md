@@ -3,8 +3,7 @@ Outlaw Market now accessible via I2P (and XMPP)
 ---
 <article class="post-listing post-11911 post type-post status-publish format-standard hentry category-news tag-accessible tag-i2p tag-market tag-outlaw tag-xmpp">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 1, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/11/01/outlaw-market-now-accessible-via-i2p-and-xmpp/#comments">1 Comment</a></span>

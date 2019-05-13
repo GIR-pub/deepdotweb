@@ -3,8 +3,7 @@ Risk of Using Browser Autofill Feature
 ---
 <article class="post-listing post-17861 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-autofill tag-browser tag-feature tag-risk">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>January 30, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/01/30/risk-of-using-browser-autofill-feature/#comments">1 Comment</a></span>

@@ -3,7 +3,6 @@
 ---
 <article class="post-listing post-9052 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-messages tag-secret tag-send tag-ways">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 13, 2015</span>
 

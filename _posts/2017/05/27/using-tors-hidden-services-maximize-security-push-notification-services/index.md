@@ -3,8 +3,7 @@ Using Tor&#8217;s Hidden Services To Maximize the Security of Push Notification 
 ---
 <article class="post-listing post-20171 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-hidden tag-maximize tag-notification tag-push tag-security tag-services tag-tors">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>May 27, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/05/27/using-tors-hidden-services-maximize-security-push-notification-services/#comments">1 Comment</a></span>

@@ -3,8 +3,7 @@ Now You Can Buy&#8230; Coffee! On The DeepWeb
 ---
 <article class="post-listing post-5986 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buy tag-coffee tag-deepweb">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 12, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/06/12/now-can-buy-coffee-deepweb/#respond">Leave a comment</a></span>

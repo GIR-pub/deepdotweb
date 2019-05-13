@@ -6,8 +6,7 @@ Exclusive: Can the Libyan Post Silently Infiltrate the US telecom Infrastructure
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     
     

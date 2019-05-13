@@ -3,8 +3,7 @@ Smart contracts will replace intermediaries and notaries
 ---
 <article class="post-listing post-13884 post type-post status-publish format-standard hentry category-news tag-contracts tag-intermediaries tag-notaries tag-replace tag-smart">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 27, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/04/27/smart-contracts-will-replace-intermediaries-notaries/#respond">Leave a comment</a></span>

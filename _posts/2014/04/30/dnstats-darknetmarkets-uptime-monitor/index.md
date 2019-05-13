@@ -3,8 +3,7 @@ Dnstats &#8211; DarkNetMarkets Uptime Monitor!
 ---
 <article class="post-listing post-5160 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-darknetmarkets tag-dnstats tag-monitor tag-uptime">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 30, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/04/30/dnstats-darknetmarkets-uptime-monitor/#comments">3 Comments</a></span>

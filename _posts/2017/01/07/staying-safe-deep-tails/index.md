@@ -6,8 +6,7 @@ Staying Safe on the Deep with TAILS
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     
     

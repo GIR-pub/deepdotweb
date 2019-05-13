@@ -3,8 +3,7 @@ On the Topic of the DoJ’s Operation Pacifier Acquittal
 ---
 <article class="post-listing post-20078 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-acquittal tag-dojs tag-operation tag-pacifier tag-topic">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 24, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/05/24/topic-dojs-operation-pacifier-acquittal/#respond">Leave a comment</a></span>

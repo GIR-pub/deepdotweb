@@ -3,8 +3,7 @@ Four Members Of Criminal Group Arrested In The United States For Weapon Traffick
 ---
 <article class="post-listing post-20695 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-criminal tag-group tag-members tag-states tag-trafficking tag-united tag-weapon">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>June 17, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/06/17/four-members-criminal-group-arrested-united-states-weapon-trafficking/#comments">1 Comment</a></span>

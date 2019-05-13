@@ -3,8 +3,7 @@ Agora Market To Stop Listing Lethal Weapons
 ---
 <article class="post-listing post-10967 post type-post status-publish format-standard hentry category-news tag-agora tag-lethal tag-listing tag-market tag-stop tag-weapons">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 7, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/07/07/agora-market-to-stop-listing-lethal-weapons/#comments">8 Comments</a></span>

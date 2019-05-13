@@ -3,8 +3,7 @@ Agora Update: DoS Attack
 ---
 <article class="post-listing post-10457 post type-post status-publish format-standard hentry category-news tag-agora tag-attack tag-dos tag-update">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 28, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/28/agora-update-dos-attack/#comments">13 Comments</a></span>

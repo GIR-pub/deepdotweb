@@ -3,8 +3,7 @@ PSA: Cloudflare Now allows you To Whitelist ALL Tor&#8217;s Exit Nodes
 ---
 <article class="post-listing post-13590 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cloudflare tag-exit tag-nodes tag-psa tag-tors tag-whitelist">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 28, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/03/28/psa-cloudflare-now-allows-whitelist-tors-exit-nodes/#comments">2 Comments</a></span>

@@ -3,8 +3,7 @@ Ex-Cop Called “Piratedeadpool” Stole Pensioner’s $3.4 Million Share Portfo
 ---
 <article class="post-listing post-28529 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4689 tag-called tag-dark tag-excop tag-million tag-pensioners tag-piratedeadpool tag-portfolio tag-share tag-stole tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
     <span>March 6, 2019</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2019/03/06/ex-cop-called-piratedeadpool-stole-pensioners-3-4-million-share-portfolio-using-dark-web/#respond">Leave a comment</a></span>

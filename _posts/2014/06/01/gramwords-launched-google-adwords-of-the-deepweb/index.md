@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-5833 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-grams tag-gramwords tag-introducing">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 1, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/01/gramwords-launched-google-adwords-of-the-deepweb/#comments">8 Comments</a></span>

@@ -6,8 +6,7 @@ Two men who Purchased fake Dollar Bills on the dark web Arrested in Alabama
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     
     

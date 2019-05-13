@@ -3,8 +3,7 @@ BIX Certificates &#8211; Cryptographic Tokens Promoting Anonymity For Blockchain
 ---
 <article class="post-listing post-17326 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymity tag-bix tag-blockchain tag-certificates tag-cryptographic tag-promoting tag-tokens tag-transactions">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 5, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/01/05/bix-certificates-cryptographic-tokens-promoting-anonymity-blockchain-transactions/#respond">Leave a comment</a></span>

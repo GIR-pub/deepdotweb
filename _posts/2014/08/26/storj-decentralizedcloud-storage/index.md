@@ -3,8 +3,7 @@ Storj &#8211; Decentralized Cloud Storage
 ---
 <article class="post-listing post-6893 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cloud tag-decentralized tag-storage tag-storj">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
     <span>August 26, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/08/26/storj-decentralizedcloud-storage/#comments">1 Comment</a></span>

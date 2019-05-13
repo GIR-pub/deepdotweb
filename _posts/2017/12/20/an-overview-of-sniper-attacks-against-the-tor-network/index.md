@@ -3,8 +3,7 @@ An Overview of Sniper Attacks Against the Tor Network &#038; Current Defenses
 ---
 <article class="post-listing post-23991 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-attacks tag-current tag-defenses tag-network tag-overview tag-sniper tag-tor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>December 20, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/12/20/an-overview-of-sniper-attacks-against-the-tor-network/#comments">1 Comment</a></span>

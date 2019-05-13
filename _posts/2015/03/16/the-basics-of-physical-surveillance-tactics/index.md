@@ -3,7 +3,6 @@ The Basics of Physical Surveillance Tactics
 ---
 <article class="post-listing post-8621 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-basics tag-physical tag-surveillance tag-tactics">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
 <span>March 16, 2015</span>
 

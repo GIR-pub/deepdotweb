@@ -3,8 +3,7 @@ New UK Drug Law Leads To More Dark Web Sales
 ---
 <article class="post-listing post-15521 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-drug tag-law tag-leads tag-sales tag-uk tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 23, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/09/23/new-uk-drug-law-leads-to-more-dark-web-sales/#comments">4 Comments</a></span>

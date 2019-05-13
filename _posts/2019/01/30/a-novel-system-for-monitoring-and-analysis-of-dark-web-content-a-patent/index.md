@@ -3,8 +3,7 @@ A novel system for monitoring and analysis of dark web content &#8211; (A patent
 ---
 <article class="post-listing post-28248 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analysis tag-content tag-dark tag-monitoring tag-patent tag-system tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 30, 2019</span>
     
     <span><a href="https://www.deepdotweb.com/2019/01/30/a-novel-system-for-monitoring-and-analysis-of-dark-web-content-a-patent/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ Market Is Currently Up Or Down? Check Our Sidebar!
 ---
 <article class="post-listing post-5276 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-check tag-market tag-sidebar-2">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 4, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/05/04/market-currently-check-sidebar/#respond">Leave a comment</a></span>

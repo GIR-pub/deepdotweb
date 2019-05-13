@@ -3,7 +3,6 @@ Warning: Evolution Market Withdrawal Issues
 ---
 <article class="post-listing post-9495 post type-post status-publish format-standard hentry category-news tag-evolution tag-evoscam tag-issues tag-market tag-warning tag-withdrawal">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 17, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

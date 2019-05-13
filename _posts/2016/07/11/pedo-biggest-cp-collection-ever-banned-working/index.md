@@ -3,8 +3,7 @@ Pedo with the Biggest CP Collection Ever to be Banned from Working
 ---
 <article class="post-listing post-14780 post type-post status-publish format-standard hentry category-news tag-banned tag-biggest tag-collection tag-cp tag-pedo tag-working">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>July 11, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/07/11/pedo-biggest-cp-collection-ever-banned-working/#comments">10 Comments</a></span>

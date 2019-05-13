@@ -3,8 +3,7 @@ The FBI Hacked 8,000 Computers in 120 Countries With a Single Warrant
 ---
 <article class="post-listing post-16695 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4548 tag-4599 tag-computers tag-countries tag-fbi tag-hacked tag-single tag-warrant">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 1, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/12/01/fbi-hacked-8000-computers-120-countries-single-warrant/#comments">6 Comments</a></span>

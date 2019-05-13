@@ -3,8 +3,7 @@ How to earn interest on your Bitcoin &#8211; Poloniex Lending
 ---
 <article class="post-listing post-16765 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-earn tag-interest tag-lending tag-poloniex">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>December 6, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/12/06/earn-interest-bitcoin-poloniex-lending/#comments">9 Comments</a></span>

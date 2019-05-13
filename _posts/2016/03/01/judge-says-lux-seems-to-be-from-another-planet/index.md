@@ -3,8 +3,7 @@ Judge Says Lux Seems To Be ”From Another Planet”
 ---
 <article class="post-listing post-13328 post type-post status-publish format-standard hentry category-news tag-judge tag-lux tag-planet">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>March 1, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/03/01/judge-says-lux-seems-to-be-from-another-planet/#comments">3 Comments</a></span>

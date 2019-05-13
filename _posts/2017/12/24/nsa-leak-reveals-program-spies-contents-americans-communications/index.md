@@ -3,8 +3,7 @@ NSA Leak Reveals Program that Spies on the Contents of Americans Communications
 ---
 <article class="post-listing post-24060 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-americans tag-communications tag-contents tag-leak tag-nsa tag-program tag-reveals tag-spies">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>December 24, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/12/24/nsa-leak-reveals-program-spies-contents-americans-communications/#comments">7 Comments</a></span>

@@ -3,7 +3,6 @@ DigesTor &#8211; Comparative tool for Tor passive traffic analysis attacks
 ---
 <article class="post-listing post-26887 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analysis tag-attacks tag-comparative tag-digestor tag-passive tag-tool tag-tor tag-traffic">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>October 10, 2018</span>
 

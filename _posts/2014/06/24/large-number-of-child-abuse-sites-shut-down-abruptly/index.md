@@ -3,8 +3,7 @@ Exclusive: Large Number Of Deep Web Child Abuse Sites Shut Down Abruptly
 ---
 <article class="post-listing post-6190 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abruptly tag-abuse tag-child tag-deep tag-exclusive tag-large tag-number tag-shut tag-sites tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 24, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/06/24/large-number-of-child-abuse-sites-shut-down-abruptly/#comments">47 Comments</a></span>

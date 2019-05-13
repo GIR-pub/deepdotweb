@@ -6,8 +6,7 @@ Police Studied IDC Financial Crime for Years
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     
     

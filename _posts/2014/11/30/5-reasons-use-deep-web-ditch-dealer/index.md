@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-6882 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dealer tag-deep tag-ditch tag-reasons tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>November 30, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/11/30/5-reasons-use-deep-web-ditch-dealer/#comments">31 Comments</a></span>

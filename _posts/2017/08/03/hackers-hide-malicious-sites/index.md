@@ -3,8 +3,7 @@ HOW HACKERS HIDE MALICIOUS SITES
 ---
 <article class="post-listing post-21713 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-hackers tag-hide tag-malicious tag-sites">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
     <span>August 3, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/08/03/hackers-hide-malicious-sites/#comments">1 Comment</a></span>

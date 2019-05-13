@@ -3,8 +3,7 @@ Bitcoin Blockchain&#8217;s High Security Will Lead Blockchain Startups to Pivot 
 ---
 <article class="post-listing post-15831 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-blockchain tag-blockchains tag-high tag-lead tag-pivot tag-security tag-startups">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>October 15, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/10/15/bitcoin-blockchains-high-security-will-lead-blockchain-startups-pivot-back-bitcoin/#comments">2 Comments</a></span>

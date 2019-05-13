@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-4407 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-fake tag-hitting tag-ketamine tag-marketplaces tag-possibly tag-toxic tag-warning">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 24, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/02/24/warning-fake-possibly-toxic-ketamine-hitting-marketplaces/#comments">6 Comments</a></span>

@@ -24,8 +24,7 @@ SETTING UP A BULLET-PROOF SECURITY SMARTPHONE
 ---
 <article class="post-listing post-20925 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bulletproof tag-security tag-setting tag-smartphone">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
     <span>June 27, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/06/27/setting-bullet-proof-security-smartphone/#comments">5 Comments</a></span>

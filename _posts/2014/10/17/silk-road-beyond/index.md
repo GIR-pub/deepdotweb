@@ -3,8 +3,7 @@ Silk Road And Beyond
 ---
 <article class="post-listing post-7388 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-road tag-silk">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 17, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/10/17/silk-road-beyond/#respond">Leave a comment</a></span>

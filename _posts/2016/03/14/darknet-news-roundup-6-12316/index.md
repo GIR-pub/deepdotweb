@@ -5,8 +5,7 @@ DarkNet Video News Roundup: 6-12/3/16
     <div class="single-post-video">
     <iframe width="660" height="371" src="https://www.youtube.com/embed/3gUjF4S9x7M?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 14, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
     <span><a href="https://www.deepdotweb.com/2016/03/14/darknet-news-roundup-6-12316/#respond">Leave a comment</a></span>

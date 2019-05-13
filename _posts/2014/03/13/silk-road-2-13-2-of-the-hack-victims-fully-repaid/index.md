@@ -6,8 +6,7 @@ Silk Road 2.0 Admin: 13.2% Of the Stolen Bitcoins Fully Repaid
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     
     

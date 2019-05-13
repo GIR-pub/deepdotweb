@@ -3,7 +3,6 @@
 ---
 <article class="post-listing post-9135 post type-post status-publish format-standard hentry category-news tag-charged tag-crimes tag-deep tag-people tag-uk tag-web">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 18, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

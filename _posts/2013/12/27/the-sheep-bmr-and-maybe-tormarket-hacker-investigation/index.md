@@ -3,7 +3,6 @@ title: The Sheep, BMR (And Maybe Tormarket) Hacker Reddit Investigation
 ---
 2974 category-deepdot-news tag-bmr tag-hacker tag-investigation tag-reddit tag-sheep tag-tormarket">
 
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 27, 2013</span>
 

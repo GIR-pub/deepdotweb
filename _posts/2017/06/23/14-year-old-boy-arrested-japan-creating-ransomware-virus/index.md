@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-20830 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-14yearold tag-arrested tag-boy tag-creating tag-japan tag-ransomware tag-virus">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/jackmeyer/" title="">Jack Meyer </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/jackmeyer/" title="">Jack Meyer </a></span>
     <span>June 23, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/06/23/14-year-old-boy-arrested-japan-creating-ransomware-virus/#respond">Leave a comment</a></span>

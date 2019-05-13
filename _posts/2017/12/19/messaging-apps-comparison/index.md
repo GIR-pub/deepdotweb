@@ -3,8 +3,7 @@ Messaging Apps Comparison
 ---
 <article class="post-listing post-23977 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-apps tag-comparison tag-messaging">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/puppie/" title="">Puppie </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/puppie/" title="">Puppie </a></span>
     <span>December 19, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/12/19/messaging-apps-comparison/#comments">4 Comments</a></span>

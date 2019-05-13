@@ -3,8 +3,7 @@ Air Force Cadet Sentenced To 3 Years For Selling Drugs
 ---
 <article class="post-listing post-12164 post type-post status-publish format-standard hentry category-news tag-air tag-cadet tag-drugs tag-force tag-selling tag-sentenced tag-years">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 17, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/11/17/air-force-cadet-sentenced-to-3-years-for-selling-drugs/#comments">6 Comments</a></span>

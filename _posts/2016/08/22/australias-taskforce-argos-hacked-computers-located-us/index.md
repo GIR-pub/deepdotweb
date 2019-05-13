@@ -3,8 +3,7 @@ Australia’s Taskforce Argos Hacked Computers Located In The US
 ---
 <article class="post-listing post-15198 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-argos tag-australias tag-computers tag-hacked tag-located tag-taskforce">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 22, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/08/22/australias-taskforce-argos-hacked-computers-located-us/#comments">4 Comments</a></span>

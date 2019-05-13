@@ -3,7 +3,6 @@ Bitcoin News Roundup – 20 Dec. 2015
 ---
 <article class="post-listing post-12672 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-45 tag-2524 tag-bitcoin tag-dec tag-news tag-roundup">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 20, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

@@ -3,8 +3,7 @@ Report Says Dutch Lead Online Drug Sales In The West
 ---
 <article class="post-listing post-15275 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drug tag-dutch tag-lead tag-online tag-report tag-sales tag-west">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 30, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/08/30/report-says-dutch-lead-online-drug-sales-west/#comments">2 Comments</a></span>

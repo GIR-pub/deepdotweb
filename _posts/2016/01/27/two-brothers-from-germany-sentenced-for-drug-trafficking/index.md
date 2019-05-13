@@ -3,8 +3,7 @@ Two German Brothers Sentenced For Drug Trafficking
 ---
 <article class="post-listing post-13096 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-brothers tag-drug tag-germany tag-sentenced tag-trafficking">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 27, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/01/27/two-brothers-from-germany-sentenced-for-drug-trafficking/#comments">5 Comments</a></span>

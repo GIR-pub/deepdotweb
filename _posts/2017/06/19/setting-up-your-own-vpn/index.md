@@ -6,8 +6,7 @@ Setting Up Your Own VPN
 ---
 <article class="post-listing post-20732 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-setting tag-vpn">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
     <span>June 19, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/06/19/setting-up-your-own-vpn/#comments">9 Comments</a></span>

@@ -3,8 +3,7 @@ Tor Releases another Snapshot on the Road to Major Onion Router Updates
 ---
 <article class="post-listing post-16484 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-major tag-onion tag-releases tag-road tag-router tag-snapshot tag-tor tag-updates">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>November 19, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/11/19/tor-releases-another-snapshot-road-major-onion-router-updates/#respond">Leave a comment</a></span>

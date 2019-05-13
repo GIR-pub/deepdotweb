@@ -3,8 +3,7 @@ Agora Admin Explains: Why is Agora Always down?
 ---
 <article class="post-listing post-6925 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-admin tag-agora tag-explains">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 1, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/09/01/agora-admin-explains-why-is-agora-always-down/#comments">35 Comments</a></span>

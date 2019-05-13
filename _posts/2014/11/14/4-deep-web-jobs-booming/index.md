@@ -3,8 +3,7 @@
 ---
 <article class="post-listing post-6878 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-booming tag-deep tag-jobs tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>November 14, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/11/14/4-deep-web-jobs-booming/#comments">19 Comments</a></span>

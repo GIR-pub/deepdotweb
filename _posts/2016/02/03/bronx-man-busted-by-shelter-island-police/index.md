@@ -3,8 +3,7 @@ Bronx Man Busted By Shelter Island Police
 ---
 <article class="post-listing post-13150 post type-post status-publish format-standard hentry category-news tag-bronx tag-busted tag-island tag-man tag-police tag-shelter">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 3, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/02/03/bronx-man-busted-by-shelter-island-police/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ What is a User Activated Soft Fork?
 ---
 <article class="post-listing post-19469 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-activated tag-fork tag-kptx tag-soft tag-user">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>April 29, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/04/29/user-activated-soft-fork/#respond">Leave a comment</a></span>

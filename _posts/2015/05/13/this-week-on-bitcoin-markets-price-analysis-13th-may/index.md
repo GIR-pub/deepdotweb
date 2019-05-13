@@ -6,8 +6,7 @@ This week on Bitcoin markets &#038; Price Analysis &#8211; 13th May
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     
     

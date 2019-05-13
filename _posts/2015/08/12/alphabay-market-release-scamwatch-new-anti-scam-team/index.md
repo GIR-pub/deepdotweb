@@ -3,7 +3,6 @@ Alphabay Market Release &#8220;ScamWatch&#8221; &#8211; New Anti-Scam Team
 ---
 <article class="post-listing post-11249 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-alphabay tag-antiscam tag-market tag-release tag-scamwatch tag-team">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

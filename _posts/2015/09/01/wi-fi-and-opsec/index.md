@@ -3,7 +3,6 @@ Wi-Fi and OPSec
 ---
 <article class="post-listing post-11107 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-opsec tag-wifi">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/c3lt1c/" title="">c3lt1c </a></span>
 <span>September 1, 2015</span>
 

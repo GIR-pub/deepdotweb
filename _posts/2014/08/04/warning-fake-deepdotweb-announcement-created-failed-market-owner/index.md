@@ -3,8 +3,7 @@ Warning: Fake &#8220;DeepDotWeb Announcement&#8221; By a Failed Market Owner
 ---
 <article class="post-listing post-6698 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-announcement tag-created tag-deepdotweb tag-failed tag-fake tag-market tag-owner tag-warning">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>August 4, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/08/04/warning-fake-deepdotweb-announcement-created-failed-market-owner/#comments">6 Comments</a></span>

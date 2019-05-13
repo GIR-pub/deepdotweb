@@ -3,8 +3,7 @@ Silk Goxed: How DPR used Mtgox for Hedging &#038; Lost Big
 ---
 <article class="post-listing post-8898 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-big tag-dpr tag-goxed tag-hedging tag-lost tag-mtgox tag-silk">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 25, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/01/25/silk-goxed-how-dpr-used-mtgox-for-hedging-lost-big/#respond">Leave a comment</a></span>

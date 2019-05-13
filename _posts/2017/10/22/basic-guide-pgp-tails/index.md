@@ -3,7 +3,6 @@ Basic guide to PGP on Tails
 ---
 <article class="post-listing post-23197 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-basic tag-guide tag-pgp tag-tails">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/iris/" title="">Iris </a></span>
 <span>October 22, 2017</span>
 

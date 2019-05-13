@@ -3,8 +3,7 @@ Evolution Marketplace Staff Speak: We are growing fast!
 ---
 <article class="post-listing post-5387 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-evolution tag-fast tag-growing tag-marketplace tag-speak tag-staff">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 10, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/05/10/evolution-marketplace-staff-speak-we-are-growing-fast/#comments">6 Comments</a></span>

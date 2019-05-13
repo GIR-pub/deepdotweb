@@ -3,7 +3,6 @@ Research: The aftermaths of Operation Bayonet and the migration of vendors to Dr
 ---
 <article class="post-listing post-27150 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-aftermaths tag-bayonet tag-dream tag-market tag-migration tag-operation tag-research tag-vendors">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>November 7, 2018</span>
 

@@ -3,7 +3,6 @@ A Comprehensive Privacy Analysis of Tor Hidden Services
 ---
 <article class="post-listing post-18788 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analysis tag-comprehensive tag-hidden tag-privacy tag-services tag-tor">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 25, 2017</span>
 

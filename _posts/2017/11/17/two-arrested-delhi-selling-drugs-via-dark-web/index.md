@@ -3,8 +3,7 @@ Two Arrested in Delhi for Selling Drugs via the Dark web
 ---
 <article class="post-listing post-23551 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-dark tag-delhi tag-drugs tag-selling tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>November 17, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/11/17/two-arrested-delhi-selling-drugs-via-dark-web/#respond">Leave a comment</a></span>

@@ -6,8 +6,7 @@ How to make money online on Bitshares&#8217; decentralized exchange network
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     
     

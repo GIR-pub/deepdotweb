@@ -6,8 +6,7 @@ One of Four Indicted in Connection with 2014 Yahoo Hack pleads not guilty.
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     
     

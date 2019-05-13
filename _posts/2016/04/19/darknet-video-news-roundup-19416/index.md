@@ -5,8 +5,7 @@ DarkNet Video News Roundup: 19/4/16
     <div class="single-post-video">
     <iframe width="660" height="371" src="https://www.youtube.com/embed/VUuF2A3vBJQ?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 19, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
     <span><a href="https://www.deepdotweb.com/2016/04/19/darknet-video-news-roundup-19416/#comments">2 Comments</a></span>

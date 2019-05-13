@@ -3,8 +3,7 @@ Planning a Leak? Chat With WikiLeaks Via a New Tor Hidden Service
 ---
 <article class="post-listing post-10067 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-chat tag-hidden tag-leak tag-planning tag-service tag-tor tag-wikileaks">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/politech/" title="">Politech </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/politech/" title="">Politech </a></span>
     <span>May 6, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/06/planning-a-leak-chat-with-wikileaks-via-a-new-tor-hidden-service/#comments">6 Comments</a></span>

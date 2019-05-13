@@ -3,7 +3,6 @@ New: Short news!
 ---
 <article class="post-listing post-9033 post type-post status-publish format-standard hentry category-news tag-testpost">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 12, 2015</span>
 <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

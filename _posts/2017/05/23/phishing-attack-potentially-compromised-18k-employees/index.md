@@ -3,8 +3,7 @@ Phishing Attack Potentially Compromised 18k Employees
 ---
 <article class="post-listing post-20058 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-18k tag-attack tag-compromised tag-employees tag-phishing tag-potentially">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 23, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/05/23/phishing-attack-potentially-compromised-18k-employees/#respond">Leave a comment</a></span>

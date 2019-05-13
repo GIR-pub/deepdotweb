@@ -3,8 +3,7 @@ Plea Agreement Of Former Political Consultant Made Public
 ---
 <article class="post-listing post-13327 post type-post status-publish format-standard hentry category-news tag-agreement tag-consultant tag-plea tag-political tag-public">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 27, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/02/27/plea-agreement-of-former-political-consultant-made-public/#respond">Leave a comment</a></span>

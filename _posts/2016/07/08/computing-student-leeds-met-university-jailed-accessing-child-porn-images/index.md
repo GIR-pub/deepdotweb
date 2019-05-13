@@ -3,8 +3,7 @@ Computing Student At Leeds Met University Jailed For Accessing Child Porn Images
 ---
 <article class="post-listing post-14765 post type-post status-publish format-standard hentry category-news tag-accessing tag-child tag-computing tag-images tag-jailed tag-leeds tag-met tag-porn tag-student tag-university">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 8, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/07/08/computing-student-leeds-met-university-jailed-accessing-child-porn-images/#comments">1 Comment</a></span>

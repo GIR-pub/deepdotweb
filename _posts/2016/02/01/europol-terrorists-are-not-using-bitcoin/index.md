@@ -3,8 +3,7 @@ Europol: Terrorists Are Not Using Bitcoin
 ---
 <article class="post-listing post-13131 post type-post status-publish format-standard hentry category-news tag-bitcoin tag-europol tag-terrorists">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 1, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/02/01/europol-terrorists-are-not-using-bitcoin/#comments">3 Comments</a></span>

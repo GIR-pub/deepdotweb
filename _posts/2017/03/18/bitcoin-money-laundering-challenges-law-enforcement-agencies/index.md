@@ -3,7 +3,6 @@ Bitcoin and Money Laundering &#8211; Challenges for Law Enforcement Agencies
 ---
 <article class="post-listing post-18674 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agencies tag-bitcoin tag-challenges tag-enforcement tag-laundering tag-law tag-money">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 18, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

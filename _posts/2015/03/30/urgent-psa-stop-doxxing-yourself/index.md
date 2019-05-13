@@ -3,7 +3,6 @@ Urgent PSA: Stop Doxxing Yourself!!
 ---
 <article class="post-listing post-9775 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-news-updates tag-doxxing tag-psa tag-stop tag-urgent">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 30, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

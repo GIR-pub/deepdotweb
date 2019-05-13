@@ -3,8 +3,7 @@ PGP Tutorial For Newbs Gpg4usb
 ---
 <article class="post-listing post-9525 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-gpg4usb tag-newbs tag-pgp tag-tutorial">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 21, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/06/21/pgp-tutorial-for-newbs-gpg4usb/#comments">31 Comments</a></span>

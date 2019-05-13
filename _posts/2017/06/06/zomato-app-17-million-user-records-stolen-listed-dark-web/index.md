@@ -3,8 +3,7 @@ Zomato App &#8211; 17 Million User Records Stolen, Listed on Dark Web
 ---
 <article class="post-listing post-20425 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2684 tag-app tag-dark tag-hacked tag-listed tag-million tag-records tag-restaurant tag-stolen tag-user tag-web tag-zomato">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>June 6, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/06/06/zomato-app-17-million-user-records-stolen-listed-dark-web/#respond">Leave a comment</a></span>

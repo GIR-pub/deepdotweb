@@ -3,8 +3,7 @@ Research: Riffle &#8211; A novel anonymity network
 ---
 <article class="post-listing post-28199 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymity tag-network tag-research tag-riffle">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 25, 2019</span>
     
     <span><a href="https://www.deepdotweb.com/2019/01/25/research-riffle-a-novel-anonymity-network/#comments">2 Comments</a></span>

@@ -3,8 +3,7 @@ Interview With Middle Earth Marketplace Admin (Post Onymous)
 ---
 <article class="post-listing post-8125 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-admin tag-earth tag-interview tag-market tag-middle tag-onymous tag-post">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 14, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/11/14/a-post-onymous-interview-middle-earth-market/#comments">4 Comments</a></span>

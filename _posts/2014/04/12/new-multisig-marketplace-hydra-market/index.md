@@ -3,8 +3,7 @@ New Multisig Marketplace: Hydra market
 ---
 <article class="post-listing post-4954 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-hydra tag-market tag-marketplace tag-multisig">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 12, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/04/12/new-multisig-marketplace-hydra-market/#comments">13 Comments</a></span>

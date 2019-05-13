@@ -3,8 +3,7 @@ Russian is Collecting Encryption Keys as “Anti-Terrorism” Legislation Goes i
 ---
 <article class="post-listing post-14998 post type-post status-publish format-standard hentry category-news tag-antiterrorism tag-collecting tag-effect tag-encryption tag-government tag-keys tag-legislation tag-russian">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 3, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2016/08/03/russian-collecting-encryption-keys-anti-terrorism-legislation-goes-effect/#respond">Leave a comment</a></span>

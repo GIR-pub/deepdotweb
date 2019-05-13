@@ -3,7 +3,6 @@ Southwest Germany To Join Forces With Saarland To Combat Cybercrime
 ---
 <article class="post-listing post-18900 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-combat tag-cybercrime tag-forces tag-germany tag-join tag-saarland tag-southwest">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 31, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

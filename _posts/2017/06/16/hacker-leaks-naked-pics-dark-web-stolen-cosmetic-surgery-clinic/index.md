@@ -3,8 +3,7 @@ Hacker leaks Naked Pics at dark web stolen from Cosmetic Surgery Clinic
 ---
 <article class="post-listing post-20668 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-clinic tag-cosmetic tag-dark tag-hacker tag-leaks tag-naked tag-pics tag-stolen tag-surgery tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/arjunvaishnav/" title="">Arjun Vaishnav </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/arjunvaishnav/" title="">Arjun Vaishnav </a></span>
     <span>June 16, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/06/16/hacker-leaks-naked-pics-dark-web-stolen-cosmetic-surgery-clinic/#comments">1 Comment</a></span>

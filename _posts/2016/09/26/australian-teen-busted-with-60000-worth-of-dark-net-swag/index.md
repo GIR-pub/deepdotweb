@@ -3,8 +3,7 @@ Australian Teen Arrested, Could face 25 years in Prison for Dark Net Drug Import
 ---
 <article class="post-listing post-15544 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4281 tag-australian tag-busted tag-dark tag-net tag-swag tag-teen tag-worth">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>September 26, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/09/26/australian-teen-busted-with-60000-worth-of-dark-net-swag/#comments">7 Comments</a></span>

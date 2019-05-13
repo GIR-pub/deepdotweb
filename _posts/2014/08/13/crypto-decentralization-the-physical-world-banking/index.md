@@ -3,8 +3,7 @@ Crypto Decentralization &#038; the Physical World: Banking
 ---
 <article class="post-listing post-6442 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-applying tag-banking tag-crypto tag-decentralization tag-physical tag-world">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>August 13, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/08/13/crypto-decentralization-the-physical-world-banking/#respond">Leave a comment</a></span>

@@ -3,8 +3,7 @@ South Australian Police to Start Using FBI-Like Facial Recognition Software
 ---
 <article class="post-listing post-15036 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australian tag-facial tag-fbilike tag-police tag-recognition tag-software tag-south tag-start">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 8, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/08/08/south-australian-police-start-using-fbi-like-facial-recognition-software/#comments">1 Comment</a></span>

@@ -3,7 +3,6 @@ Vendor &#8220;Dr Ropata&#8221;: The PsyOps I was Subjected To
 ---
 <article class="post-listing post-11851 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dr tag-psyops tag-ropata tag-subjected tag-vendor">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 29, 2015</span>
 

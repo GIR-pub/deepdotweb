@@ -3,8 +3,7 @@ Cryptocurrencies &#8211; Financial Systems With The Highest Cybersecurity Standa
 ---
 <article class="post-listing post-17452 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cryprocurrencies tag-cybersecurity tag-financial tag-highest tag-planet tag-standards tag-systems">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 12, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/01/12/cryprocurrencies-financial-systems-highest-cybersecurity-standards-planet/#comments">2 Comments</a></span>

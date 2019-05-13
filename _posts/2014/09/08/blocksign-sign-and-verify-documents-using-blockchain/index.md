@@ -3,8 +3,7 @@ BlockSign: Sign and Verify Documents Using Blockchain
 ---
 <article class="post-listing post-6932 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-blocksign tag-documents tag-sign tag-verify">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
     <span>September 8, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/09/08/blocksign-sign-and-verify-documents-using-blockchain/#respond">Leave a comment</a></span>

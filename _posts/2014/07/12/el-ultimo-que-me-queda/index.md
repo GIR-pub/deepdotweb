@@ -6,8 +6,7 @@ El ultimo que me queda
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="http://www.deepdotweb.com/author/" title=""> </a></span>
     
     

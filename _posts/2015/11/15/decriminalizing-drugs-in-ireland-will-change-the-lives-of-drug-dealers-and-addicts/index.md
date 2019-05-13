@@ -3,8 +3,7 @@ Decriminalizing Drugs In Ireland Will Change The Lives Of Drug Dealers And Addic
 ---
 <article class="post-listing post-12087 post type-post status-publish format-standard hentry category-news tag-addicts tag-change tag-dealers tag-decriminalizing tag-drug tag-drugs tag-ireland tag-lives">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 15, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/11/15/decriminalizing-drugs-in-ireland-will-change-the-lives-of-drug-dealers-and-addicts/#comments">4 Comments</a></span>

@@ -3,8 +3,7 @@ HTML5 Introduces New Security Threats!
 ---
 <article class="post-listing post-15839 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-html5 tag-introduces tag-security tag-threats">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/sculptor/" title="">sculptor </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/sculptor/" title="">sculptor </a></span>
     <span>October 16, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/10/16/html5-introduces-new-security-threats/#comments">2 Comments</a></span>

@@ -3,8 +3,7 @@ FBI Claims Messages That Were Sent By ISIS Can’t Be Read Due To Encryption
 ---
 <article class="post-listing post-12551 post type-post status-publish format-standard hentry category-news tag-claims tag-due tag-encryption tag-fbi tag-isis tag-messages tag-read">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 14, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="https://www.deepdotweb.com/2015/12/14/fbi-claims-messages-that-were-sent-by-isis-cant-be-read-due-to-encryption/#comments">8 Comments</a></span>

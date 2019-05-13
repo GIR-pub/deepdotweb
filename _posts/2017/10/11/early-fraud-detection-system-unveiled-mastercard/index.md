@@ -6,7 +6,6 @@ Early Fraud Detection System Unveiled By MasterCard
 <div class="post-inner">
     
     
-<p class="post-meta">
     
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     

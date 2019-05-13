@@ -6,8 +6,7 @@ How to earn interest on your Bitcoin &#8211; P2P Lending with Bitbond
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     
     

@@ -3,8 +3,7 @@ Bitcoin Price Analysis 12 July 2017
 ---
 <article class="post-listing post-21315 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2688 tag-3676 tag-analysis tag-bitcoin tag-july tag-price">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>July 12, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/07/12/bitcoin-price-analysis-12-july-2017/#comments">3 Comments</a></span>

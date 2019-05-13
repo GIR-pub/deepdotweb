@@ -3,8 +3,7 @@ Convicted Narcotic Vendor Shiny Flakes Testifies In Fellow Vendor Chemical Love�
 ---
 <article class="post-listing post-19493 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-chemical tag-convicted tag-fellow tag-flakes tag-loves tag-narcotic tag-shiny tag-testifies tag-vendor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 30, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/04/30/convicted-narcotic-vendor-shiny-flakes-testifies-fellow-vendor-chemical-loves-case/#comments">3 Comments</a></span>

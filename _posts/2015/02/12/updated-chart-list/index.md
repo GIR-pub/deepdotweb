@@ -3,7 +3,6 @@ Updated the Chart &#038; list
 ---
 <article class="post-listing post-9037 post type-post status-publish format-standard hentry category-news tag-chart tag-list tag-updated">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

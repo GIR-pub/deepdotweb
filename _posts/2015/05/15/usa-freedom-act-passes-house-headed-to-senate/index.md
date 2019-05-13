@@ -3,8 +3,7 @@ USA Freedom Act passes House, headed to Senate
 ---
 <article class="post-listing post-10311 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-act tag-freedom tag-headed tag-house tag-passes tag-senate tag-usa">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/timothyjones/" title="">Timothy Jones </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/timothyjones/" title="">Timothy Jones </a></span>
     <span>May 15, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/15/usa-freedom-act-passes-house-headed-to-senate/#comments">2 Comments</a></span>

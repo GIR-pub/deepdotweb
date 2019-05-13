@@ -3,8 +3,7 @@ Long Road for the Email Privacy Bill as Its Delayed Again
 ---
 <article class="post-listing post-14537 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bill tag-delayed tag-email tag-long tag-privacy tag-road">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 20, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/06/20/looks-like-going-long-road-email-privacy-bill-delayed/#respond">Leave a comment</a></span>

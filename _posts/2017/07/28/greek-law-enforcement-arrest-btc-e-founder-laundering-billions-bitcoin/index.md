@@ -6,8 +6,7 @@ Greek Law Enforcement Arrest BTC-e Founder for Laundering Billions in Bitcoin
     <div class="post-inner">
     
     
-    <p class="post-meta">
-    
+        
     <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     
     

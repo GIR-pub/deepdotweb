@@ -3,8 +3,7 @@ Comprehensive Guide to Backdoors
 ---
 <article class="post-listing post-17689 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-backdoors tag-comprehensive tag-guide">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>January 25, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/01/25/comprehensive-guide-backdoors/#respond">Leave a comment</a></span>

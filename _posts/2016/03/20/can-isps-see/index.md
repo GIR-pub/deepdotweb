@@ -3,8 +3,7 @@ What Can ISPs See?
 ---
 <article class="post-listing post-13525 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-isps">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 20, 2016</span>
     
     <span><a href="https://www.deepdotweb.com/2016/03/20/can-isps-see/#comments">5 Comments</a></span>

@@ -3,8 +3,7 @@ Gwern: Silk Road 2 Scrape Torrent Released
 ---
 <article class="post-listing post-10353 post type-post status-publish format-standard hentry category-news tag-gwern tag-released tag-road tag-scrape tag-silk tag-torrent">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 20, 2015</span>
     <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="http://www.deepdotweb.com/2015/05/20/gwern-silk-road-2-scrape-torrent-released/#respond">Leave a comment</a></span>

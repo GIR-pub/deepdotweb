@@ -3,8 +3,7 @@ ZombieCoin &#8211; Using Bitcoin&#8217;s Network To Create Next Generation Botne
 ---
 <article class="post-listing post-20963 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-botnets tag-create tag-generation tag-network tag-zombiecoin">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>June 29, 2017</span>
     
     <span><a href="https://www.deepdotweb.com/2017/06/29/zombiecoin-using-bitcoins-network-to-create/#respond">Leave a comment</a></span>

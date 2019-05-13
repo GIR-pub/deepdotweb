@@ -3,7 +3,6 @@ Scam Prevention and Finalizing Early
 ---
 <article class="post-listing post-11876 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-early tag-finalizing tag-prevention tag-psa tag-scam">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/chrismccandless/" title="">Chris McCandless </a></span>
 <span>October 30, 2015</span>
 

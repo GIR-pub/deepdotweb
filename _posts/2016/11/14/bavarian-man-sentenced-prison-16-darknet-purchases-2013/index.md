@@ -3,8 +3,7 @@ Bavarian Man Sentenced to Prison for 16 Darknet Purchases in 2013.
 ---
 <article class="post-listing post-16426 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1887 tag-620 tag-bavarian tag-darknet tag-man tag-prison tag-purchases tag-sentenced">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 14, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/11/14/bavarian-man-sentenced-prison-16-darknet-purchases-2013/#comments">2 Comments</a></span>

@@ -3,8 +3,7 @@ Silk Road&#8217;s Unsealed Documents Compilation
 ---
 <article class="post-listing post-9851 post type-post status-publish format-standard hentry category-news tag-compilation tag-documents tag-roads tag-silk tag-unsealed">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 3, 2015</span>
     <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="http://www.deepdotweb.com/2015/04/03/silk-roads-unsealed-documents-compilation/#respond">Leave a comment</a></span>

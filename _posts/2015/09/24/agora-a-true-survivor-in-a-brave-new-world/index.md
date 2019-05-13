@@ -3,7 +3,6 @@ Agora: A True Survivor in a Brave New World
 ---
 <article class="post-listing post-11584 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-agora tag-brave tag-survivor tag-true tag-world">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/c3lt1c/" title="">c3lt1c </a></span>
 <span>September 24, 2015</span>
 

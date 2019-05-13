@@ -3,8 +3,7 @@ Advanced ATM Skimming Tools Circulate Dark Web, Severe Security Issues
 ---
 <article class="post-listing post-22846 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-advanced tag-atm tag-circulate tag-dark tag-issues tag-security tag-severe tag-skimming tag-tools tag-web">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>September 30, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/09/30/advanced-atm-skimming-tools-circulate-dark-web-severe-security-issues/#comments">5 Comments</a></span>

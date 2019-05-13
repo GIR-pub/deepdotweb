@@ -3,7 +3,6 @@ Update In German Vendor Shop Case: Three Suspects Were Sentenced To Prison
 ---
 <article class="post-listing post-18805 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-german tag-prison tag-sentenced tag-shop tag-suspects tag-update tag-vendor">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 26, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

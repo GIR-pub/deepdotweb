@@ -3,8 +3,7 @@ Global Drug Survey 2017 Will Highlight Darknet Drug Users Worldwide
 ---
 <article class="post-listing post-16560 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3676 tag-darknet tag-drug tag-global tag-highlight tag-survey tag-users tag-worldwide">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 24, 2016</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2016/11/24/global-drug-survey-2017-will-highlight-darknet-drug-users-worldwide/#respond">Leave a comment</a></span>

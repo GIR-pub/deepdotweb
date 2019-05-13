@@ -3,7 +3,6 @@ Bye-Bye EvolutionMarket Subreddit
 ---
 <article class="post-listing post-9556 post type-post status-publish format-standard hentry category-news tag-evoscam">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>

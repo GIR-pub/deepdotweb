@@ -6,7 +6,6 @@ German Tried To Extort Haribo And Kaufland With Poison
 <div class="post-inner">
     
     
-<p class="post-meta">
     
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     

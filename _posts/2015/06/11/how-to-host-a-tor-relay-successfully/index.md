@@ -3,8 +3,7 @@ How to Host a Tor Relay Successfully?
 ---
 <article class="post-listing post-9270 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-host tag-relay tag-successfully tag-tor">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/dave/" title="">Dave </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/dave/" title="">Dave </a></span>
     <span>June 11, 2015</span>
     
     <span><a href="https://www.deepdotweb.com/2015/06/11/how-to-host-a-tor-relay-successfully/#comments">4 Comments</a></span>

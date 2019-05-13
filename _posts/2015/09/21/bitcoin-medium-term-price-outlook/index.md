@@ -3,7 +3,6 @@ Bitcoin Medium Term Price Outlook
 ---
 <article class="post-listing post-11574 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-medium tag-outlook tag-price tag-term">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>September 21, 2015</span>
 

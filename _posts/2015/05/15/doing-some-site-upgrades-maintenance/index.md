@@ -3,8 +3,7 @@ Doing Some Site Upgrades &#038; Maintenance
 ---
 <article class="post-listing post-10318 post type-post status-publish format-standard hentry category-news tag-maintenance tag-site tag-upgrades">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 15, 2015</span>
     <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     <span><a href="http://www.deepdotweb.com/2015/05/15/doing-some-site-upgrades-maintenance/#comments">1 Comment</a></span>

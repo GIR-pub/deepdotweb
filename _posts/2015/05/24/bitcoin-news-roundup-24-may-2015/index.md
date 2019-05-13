@@ -3,8 +3,7 @@ Bitcoin News Roundup – 24 May 2015
 ---
 <article class="post-listing post-10385 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2524 tag-1898 tag-bitcoin tag-news tag-roundup">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 24, 2015</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2015/05/24/bitcoin-news-roundup-24-may-2015/#respond">Leave a comment</a></span>

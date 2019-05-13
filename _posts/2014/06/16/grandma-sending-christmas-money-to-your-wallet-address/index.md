@@ -3,8 +3,7 @@ Grandma Sending Christmas Money to Your Wallet Address?
 ---
 <article class="post-listing post-5736 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-address tag-bitcoin tag-christmas tag-early tag-grandma tag-internet tag-money tag-sending tag-wallet">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 16, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/16/grandma-sending-christmas-money-to-your-wallet-address/#respond">Leave a comment</a></span>

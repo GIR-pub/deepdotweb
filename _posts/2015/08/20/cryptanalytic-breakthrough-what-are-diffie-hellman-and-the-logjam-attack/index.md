@@ -3,7 +3,6 @@ Cryptanalytic Breakthrough: What Are Diffie-Hellman and the Logjam Attack?
 ---
 <article class="post-listing post-10616 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-attack tag-breakthrough tag-cryptanalytic tag-diffiehellman tag-logjam">
 <div class="post-inner">
-<p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/politech/" title="">Politech </a></span>
 <span>August 20, 2015</span>
 

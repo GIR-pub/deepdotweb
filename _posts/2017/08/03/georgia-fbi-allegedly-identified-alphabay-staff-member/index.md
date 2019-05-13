@@ -3,8 +3,7 @@ Georgia FBI Allegedly Identified an Alphabay Staff Member
 ---
 <article class="post-listing post-21714 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-allegedly tag-alphabay tag-fbi tag-georgia tag-identified tag-member tag-staff">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 3, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/08/03/georgia-fbi-allegedly-identified-alphabay-staff-member/#comments">5 Comments</a></span>

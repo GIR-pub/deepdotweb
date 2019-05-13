@@ -3,8 +3,7 @@ Australian Authorities: Rise In Organized Crime Is Due To The Increased Populari
 ---
 <article class="post-listing post-22473 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australian tag-authorities tag-crime tag-cryptocurrencies tag-due tag-increased tag-organized tag-popularity tag-rise">
     <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+        <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 10, 2017</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2017/09/10/australian-authorities-rise-organized-crime-due-increased-popularity-cryptocurrencies/#comments">8 Comments</a></span>
