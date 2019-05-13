@@ -9,7 +9,7 @@ Russian Law Makers Propose Even Tighter Internet Laws
     <span><a href="https://www.deepdotweb.com/2016/06/25/russian-law-makers-propose-even-tighter-internet-laws/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Russia plans to step up its internet controls with a new anti-terrorism legislation to advance their online surveillance measures. Many think Russia already has a rather strict policy with the implementation of SORM, which allows authorities to monitor any online communications. Russian blogs and online news venues have very strict guidelines they have to follow, as well as a law that requires web firms to store Russian’s information within the country.</p>
     <p><a href="http://fortune.com/2016/06/21/russia-encryption-surveillance/">Measures were proposed</a> by Russia’s head of the parliamentary security committee, Irina Yarovaya and would require ISP’s to store metadata about customers’ activities for up to three years, and the contents of all their communications for six months.</p>
     <p>They’re state officials would be able to request this stored data, for anti-terrorism purposes. Under current Russian law, telecommunications providers only have to store metadata for up to six months. The ultra-conservative senator Yelena Mizulina has proposed measures in part with the same proposed laws that would force online communications providers like WhatsApp and Telegram to give authorities ways to decrypt users’ communications.</p>

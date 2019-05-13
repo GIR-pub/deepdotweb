@@ -9,7 +9,7 @@ Report: 60 Percent Of Child Porn Websites Are Located In Europe
     <span><a href="https://www.deepdotweb.com/2017/05/10/report-60-percent-child-porn-websites-located-europe/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a recent <a href="http://www.sueddeutsche.de/panorama/kriminalitaet-europa-wird-zum-kinderporno-schwerpunkt-1.3477805">report</a> by the Internet Watch Foundation, the majority, about 60 percent, of the child pornography websites are located on European servers.</p>
     <p><img class="wp-image-19744 aligncenter" src="/imgs/2017/05/cyber-cops-at-the-lka-bayern.jpeg" alt="Cyber-cops at the LKA Bayern" width="567" height="319" srcset="/imgs/2017/05/cyber-cops-at-the-lka-bayern.jpeg 940w, /imgs/2017/05/cyber-cops-at-the-lka-bayern-300x169.jpeg 300w" sizes="(max-width: 567px) 100vw, 567px"/></p>
     <p>The recently conducted report of the Internet Watch Foundation (IWF) also showed a dramatic increase in child sex abuse images. This fact raises a concern for law enforcement authorities across the world to combat this rising epidemic. According to the IWF, the rise in the abusive images can be explained by the <a href="https://www.deepdotweb.com/2017/04/13/stuttgart-form-cybercrime-center-combat-organized-crime-internet/">cybercriminals</a> ability to conceal their identity better than before. The annual report of the charity showed that the number of websites hosting sexually explicit images of minors increased by 20 percent in 2016 to the number of 2,416.</p>

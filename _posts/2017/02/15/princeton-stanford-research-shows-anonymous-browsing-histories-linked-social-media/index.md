@@ -9,7 +9,7 @@ Princeton &#038; Stanford Research Shows Anonymous Browsing Histories Linked to 
     <span><a href="https://www.deepdotweb.com/2017/02/15/princeton-stanford-research-shows-anonymous-browsing-histories-linked-social-media/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Princeton University’s assistant professor of computer science Arvind Narayanan in collaboration with three Stanford University researchers released a study entitled “<a href="http://randomwalker.info/publications/browsing-history-deanonymization.pdf">De-anonymizing Web Browsing Data with Social Networks,</a>” to demonstrate how anonymous browsing histories are linked to social media platforms such as Facebook, Reddit and Twitter to supplement various operations such as targeted advertising.</p>
     <p>Through simulation and experiments based on actual user data, the four researchers from Stanford and Princeton garnered evidence to prove that online trackers and network adversaries are able to <a href="https://www.deepdotweb.com/2016/07/29/bitcluster-helps-de-anonymize-bitcoin/">de-anonymize</a> web browsing data for commercial usage.</p>
     <p>“Our approach is based on a simple observation: each person has a distinctive social network, and thus the set of links appearing in one’s feed is unique. Assuming users visit links in their feed with higher probability than a random user, browsing histories contain tell-tale marks of identity,” the paper read.</p>

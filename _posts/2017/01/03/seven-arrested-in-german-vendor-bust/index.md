@@ -17,7 +17,7 @@ Seven Arrested In German Vendor Bust
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Two men from Duisburg (aged 20 and 28), Germany and five suspects (aged 22 to 30) from Goslar, Hameln, Vreden, Esslohe, and Saarbrücken, were <a href="http://www.waz.de/staedte/duisburg/bande-soll-drogen-ueber-das-darknet-vertrieben-haben-id209003487.html">arrested</a> in suspicion of running a vendor shop on the dark web.</p>
     <p>According to documents at the König-Heinrich-Platz Court, the seven suspects were running a <a href="https://www.deepdotweb.com/tag/vendor/">vendor shop</a> on the dark net selling narcotics, including marijuana, cocaine, amphetamine and ecstasy pills. The busted vendor shop’s name remains unknown due to the lack of information provided by authorities.</p>

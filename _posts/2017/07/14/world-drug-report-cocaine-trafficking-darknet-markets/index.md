@@ -9,7 +9,7 @@ World Drug Report: Cocaine Trafficking and Darknet Markets
     <span><a href="https://www.deepdotweb.com/2017/07/14/world-drug-report-cocaine-trafficking-darknet-markets/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The United Nations Office on Drugs and Crime released the World Drug Report on June 22. Drug trends resembled those from the <a href="https://www.deepdotweb.com/2017/06/13/25-uk-drug-users-use-darknet-markets/">Global Drug Survey</a>. Health issues as well. The World Drug Report highlighted additional changes to the drug landscape: global increases of <a href="http://www.unodc.org/wdr2017/en/plant_based.html">coca bush cultivation</a>.<img class="wp-image-21238 aligncenter" src="/imgs/2017/07/word-image-54.jpeg" srcset="/imgs/2017/07/word-image-54.jpeg 660w, /imgs/2017/07/word-image-54-300x136.jpeg 300w, /imgs/2017/07/word-image-54-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>Coca bush cultivation increased by 30 percent between 2015 and 2016. Given the increased demand for cocaine, the supply needed to expand in order to provide the quantities necessary. Although cocaine use dropped over the past few years, the United Nations Office on Drugs and Crime (UNODC) said this may soon change.</p>
     <p><img class="wp-image-21239 aligncenter" src="/imgs/2017/07/word-image-55.jpeg" srcset="/imgs/2017/07/word-image-55.jpeg 821w, /imgs/2017/07/word-image-55-300x225.jpeg 300w" sizes="(max-width: 821px) 100vw, 821px" /></p>

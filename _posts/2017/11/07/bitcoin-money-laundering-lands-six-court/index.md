@@ -9,7 +9,7 @@ Bitcoin Money Laundering Lands Six in Court
     <span><a href="https://www.deepdotweb.com/2017/11/07/bitcoin-money-laundering-lands-six-court/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Six men are facing charges in the Netherlands after being accused of <a href="https://www.deepdotweb.com/2017/08/16/belgian-police-raiding-houses-btc-money-laundering-bust/">laundering hundreds of thousands</a> of euros with the aid of the <a href="https://www.deepdotweb.com/2017/09/07/ad-trackers-make-cryptocurrency-transactions-less-private/">online cryptocurrency</a>, Bitcoin. They allegedly laundered the money by reselling bitcoins paid for by illicit drug sales.</p>
     <p>The men appeared in a Dutch court on Wednesday and are now facing a potential jail term ranging from 6 to 36 months, at the request of prosecutors, with their crimes relating to drug possession and money laundering.</p>
     <p>Many researchers have stated over the past few months that, the growing occurrences of money laundering activities happening around the world can be attributed to the increase in the popularity as well as the use of Bitcoin and other online cryptocurrencies.</p>

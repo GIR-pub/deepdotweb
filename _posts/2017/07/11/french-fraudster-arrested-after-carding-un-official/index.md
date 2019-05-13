@@ -17,7 +17,7 @@ French Fraudster Arrested After Carding UN Official
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A 23-year-old man of Avignon, Vaucluse, France was <a href="http://www.laprovence.com/article/edition-vaucluse/4506767/un-escroc-qui-piratait-les-donnees-bancaires-avec-un-hacker-interpelle.html">arrested</a> by law enforcement authorities for carrying out a fraud operation on the dark web, in which he used the financial information, such as the <a href="https://www.deepdotweb.com/2017/06/18/canadian-backpacker-fined-booking-stolen-credit-card-details/">credit cards</a> and <a href="https://www.deepdotweb.com/2017/04/13/creator-nuke-banking-trojan-leaks-source-code/">banking</a> details, of the victims to order products with a mysterious partner.</p>
     <p><img class="wp-image-21182 aligncenter" src="/imgs/2017/07/c-users-vitaris-appdata-local-microsoft-windows-i-2.jpeg" alt="C:\Users\Vitáris\AppData\Local\Microsoft\Windows\INetCache\Content.Word\20170622_1_1_4_1_0_obj15042632_1.jpg" width="550" height="402" /></p>

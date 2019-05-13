@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/12/18/number-cybercrimes-russia-increased-six-fold-reaching-18-million-damage/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://zampolit.com/dossier/chayka-yuriy-yakovlevich/">Yuri Chaika</a>, the Attorney General of Russia, reported significant increases in cybercrimes in the state during 2017, which number grew six times as much for the last 3 years.<img class="wp-image-23972 aligncenter" src="/imgs/2017/12/word-image-34.jpeg" width="515" height="344" srcset="/imgs/2017/12/word-image-34.jpeg 1200w, /imgs/2017/12/word-image-34-300x200.jpeg 300w, /imgs/2017/12/word-image-34-1024x683.jpeg 1024w, /imgs/2017/12/word-image-34-290x195.jpeg 290w" sizes="(max-width: 515px) 100vw, 515px" /></p>
     <p>At the meeting devoted to cyber counterstrikes Chaika provided <a href="https://rg.ru/2017/08/24/iurij-chajka-rasskazal-v-briks-o-borbe-s-internet-prestupnostiu.html">the following data</a>: &#8220;For the period 2013-2016 the number of cybercrimes increased from 11,000 to 66,000. And in 2017 the growth is 26%. The official statistics say that for the first half of 2017 cybercrimes dealt unprecedented damage &#8211; more than $18 million. This dictates the need to improve the efficiency of law enforcement agencies countering such offences&#8221;.</p>
     <p>He claims that &#8220;cyber fraud, information blockades, computer espionage get the widest spread&#8221;.</p>

@@ -9,7 +9,7 @@ Israeli Security Company Can Crack IPhone Encryption and Works with the FBI
     <span><a href="https://www.deepdotweb.com/2016/11/08/israeli-security-company-can-crack-iphone-encryption-works-fbi/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The FBI battled Apple for several months in early 2016, attempting to force Apple into decrypting the San Bernardino shooter’s iPhone. Apple, the FBI claimed, was the only company with the ability to unlock the iPhone 5C. Apple firmly denied these claims. Then the Justice Department revealed that a third party hacked the iPhone and Apple was no longer needed.</p>
     <p>Speculation ensued; the Justice Department released no relevant names or details as to how the iPhone was unlocked. Yedioth Ahronoth, an Israeli newspaper, eventually <a href="http://www.reuters.com/article/us-apple-encryption-cellebrite-idUSKCN0WP17J">reported</a> that the unannounced entity behind the iPhone decryption was a local security firm. The little-known, 17-year-old Israeli firm named Cellebrite Mobile Synchronization was believed to be the culprit.</p>
     <p><img class="wp-image-16318 aligncenter" src="/imgs/2016/11/cellebrite_devices_article-jpg.jpeg" alt="cellebrite_devices_article.jpg" width="878" height="586" srcset="/imgs/2016/11/cellebrite_devices_article-jpg.jpeg 1440w, /imgs/2016/11/cellebrite_devices_article-jpg-300x200.jpeg 300w, /imgs/2016/11/cellebrite_devices_article-jpg-1024x683.jpeg 1024w, /imgs/2016/11/cellebrite_devices_article-jpg-290x195.jpeg 290w" sizes="(max-width: 878px) 100vw, 878px" /></p>

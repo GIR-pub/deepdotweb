@@ -9,7 +9,7 @@ WhatsApp Is now End-to-End encrypted
     <span><a href="https://www.deepdotweb.com/2016/04/06/whatsapp-is-now-end-to-end-encrypted/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>For the past six weeks the biggest story out of the tech. world has been the FBI’s battle with Apple to unlock a terrorists IPhone. Apples refusal to cooperate has sparked a red hot debate over digital privacy and security. Recently the founders of WhatsApp have managed to make bigger Silicon Valley news than Apple, and the FBI.</p>
     <p><a href="http://www.wired.com/2016/04/forget-apple-vs-fbi-whatsapp-just-switched-encryption-billion-people/" target="_blank">WhatsApp is an online messaging service</a> that is currently owned by Facebook, that has grown into one of the world’s biggest, most important applications. It is estimated that over one billion people use the app for messaging, trading pictures and videos, as well as making phone calls. WhatsApp founders Brian Acton and Jan Koum teamed up with well-known coder and cryptographer “Moxie Marlinspike to add end to end encryption to every form of communication on its service.</p>
     <p>Now any group of people using the service will encrypt all messages, phone calls, pictures and videos moving within the app, no matter if it’s being used with IPhones, Android, or Windows. With this end to end encryption not even WhatsApp employees can read any of the data being sent across the app. This has been done so that WhatsApp has no way to comply with a court order demanding access to the content of any messages, phone calls, videos, or pictures.</p>

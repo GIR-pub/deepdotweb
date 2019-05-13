@@ -9,7 +9,7 @@ Dutch Police Not Knowing Where Collector Got World War II Ammunition And Explosi
     <span><a href="https://www.deepdotweb.com/2017/06/21/dutch-police-not-knowing-collector-got-world-war-ii-ammunition-explosives/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities <a href="http://www.bndestem.nl/etten-leur/granatenverzamelaar-etten-leur-onderzoek-een-hele-berg-werk~a53a9c1a/">discovered</a> a large cache, containing kilograms of ammunition and explosives from World War II, at a man’s home in Etten-Leur, the Netherlands. Investigators do not know the source or the method how the suspect acquired the illegal items.</p>
     <p><img class="wp-image-20786 aligncenter" src="/imgs/2017/06/investigators-found-a-large-cache-of-illegal-ammun.jpeg" alt="Investigators found a large cache of illegal ammunition and explosives in Etten-Leur, the Netherlands." srcset="/imgs/2017/06/investigators-found-a-large-cache-of-illegal-ammun.jpeg 694w, /imgs/2017/06/investigators-found-a-large-cache-of-illegal-ammun-300x169.jpeg 300w" sizes="(max-width: 694px) 100vw, 694px" /></p>
     <p>It is certain that the number of grenades, including frag, phosphorous (smoke) and other hand grenades, was too much for the 30-year-old man to legally keep at his house, but investigators also found other types of explosives, such as artillery shells. According to the experts, one exploding grenade can be enough for a fatal accident due to the number of the explosives kept in the house.</p>

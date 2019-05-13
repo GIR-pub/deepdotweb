@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2016/12/21/34-teenagers-arrested-ddos-attacks-europol-wants-send-message/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>34 teenagers, mainly under the age of 20, were arrested by the European Union’s law enforcement agency <a href="https://www.deepdotweb.com/2016/02/01/europol-terrorists-are-not-using-bitcoin/">Europol</a> on December 12 for deploying DDoS-for-hire attacks on various websites. Europol Head of European <a href="https://www.deepdotweb.com/2016/12/11/trust-brands-lost-due-cybercrime-report-says/">Cybercrime</a> Center (EC3) Steve Wilson stated a strong case will be made against young adults attempting to pursue a criminal path with technologies.</p>
     <p>Wilson, who led the successful Europol investigation and crackdown on the large-scale <a href="https://www.deepdotweb.com/2016/07/12/ddos-attacks-causing-panic-pros/">DDoS</a>-for-hire network established by teenagers, said in a press release that most young adults in this generation of technological innovation fails to recognize the consequences of criminal activities involving technologies.</p>
     <p>Particularly, Wilson noted that law enforcement agencies across the globe must help young adults understand the losses and discomfort businesses and organizations are forced to deal with when they are targeted by large scale DDoS-for-hire attacks. While some medium-sized websites could easily pass through minutes or hours of downtime, attacks on enterprise-level platforms like bank applications or financial websites could cost hundreds of thousands of dollars in server and maintenance fees.</p>

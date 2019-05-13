@@ -9,7 +9,7 @@ Narcotics, Weapons, And Counterfeit Money Found In German’s Apartment
     <span><a href="https://www.deepdotweb.com/2017/02/12/narcotics-weapons-counterfeit-money-found-germans-apartment/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 28-year-old man from Stuttgart, Germany <a href="http://www.stuttgarter-nachrichten.de/inhalt.28-jaehriger-vor-dem-landgericht-stuttgart-drogen-waffen-blueten-angeklagter-gesteht.c702efbe-55e7-4058-ad7f-83476a1defa8.html">stood</a> before court for possessing large amounts of <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a>, counterfeit money, and weapons in his apartment. According to police information, all illegal goods were ordered from the dark web.</p>
     <p>The case started in 2016 when the suspect bought a kilogram of marijuana from a dark web vendor “River 87”, the defendant confessed. Meanwhile, the dark net supplier has been convicted, and is currently doing his time in Kempten. The narcotics originated from the Netherlands and “from an underground plantage in Northern-Germany”. The accused claimed that he only sold small amounts of the marijuana, to his friend, who he was doing business with, sold the larger part of the shipment.</p>
     <p>The 28-year-old also added that he bought two fake identification cards (150 euros each) from the dark net to make the drug supply safe. He used the fake documentation to set up packing stations at a post office, so the narcotics could be delivered there.</p>

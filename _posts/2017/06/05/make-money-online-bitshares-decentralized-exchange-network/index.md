@@ -17,7 +17,7 @@ How to make money online on Bitshares&#8217; decentralized exchange network
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Throughout the past century, centralized exchanges have again and again proven to be not only unreliable, but also untrustworthy. Whether it is Mt.Gox, MF Global, Cryptsy or Bitstamp, many people have been defrauded simply because they trusted a third party, or an intermediary, to store their funds. No matter how big these funds are, or how many insurers, regulators or auditors are involved, every form of theft, deception and fraud can take place. These transgressions take place rather frequently with centralized retail banks and exchanges all over the world. Bitshares BTS represents the first ever decentralized exchange.</p>
     <p><strong>What Are Bitshares BTS?</strong></p>

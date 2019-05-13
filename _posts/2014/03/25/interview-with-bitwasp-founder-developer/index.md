@@ -17,7 +17,7 @@ Interview With Bitwasp Founder &#038; Developer &#8211; Security, DarkNetMarkets
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Following all the marketplaces that got hacked, and the fact that many of them were based on the Bitwasp software, we were very happy when the founder of Bitwasp contacted us and offered to answer some questions regarding Bitwasp, DarkNet uses, Security and the latest &amp; future developments of the Bitwasp market software, we have spoken to the Bitwasp team:</p>
     <p>Cameron Ruggles as Founder<br />

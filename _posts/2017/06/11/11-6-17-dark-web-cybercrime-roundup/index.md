@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/06/11/11-6-17-dark-web-cybercrime-roundup/#comments">14 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>CIA Worked With Private Corporation to Hack Windows Users</strong></p>
     <p>Following the FBI legal battle with Apple, the Israeli cybersecurity firm known as Cellebrite took the spotlight as law enforcement’s cellphone hacking go-to. Over time, information from Cellebrite and similar firms circulated and the public received a glance at that companies that create law enforcement&#8217;s hacking tools. Now, as a result of one of <a href="https://www.deepdotweb.com/2017/03/23/cia-forced-hack-phones-snoop-signal-whatsapp-users/">Wikileaks Vault 7 leaks</a>, we know one of the cybersecurity firms used by the <a href="https://www.deepdotweb.com/tag/cia/">CIA</a>—Siege Technologies from New Hampshire. It should, in reality, be of little surprise that the CIA needed help developing Athena and Hera, two tools exposed in the recent Vault 7 leaks. <a href="https://www.deepdotweb.com/2017/06/09/cia-worked-private-corporation-hack-windows-users/">DeepDotWeb</a></p>
     <p><img class="wp-image-20592 aligncenter" src="/imgs/2017/06/word-image-63.jpeg" srcset="/imgs/2017/06/word-image-63.jpeg 800w, /imgs/2017/06/word-image-63-300x157.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

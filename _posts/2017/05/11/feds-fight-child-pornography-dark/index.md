@@ -9,7 +9,7 @@ Feds to Fight Child Pornography on the Dark
     <span><a href="https://www.deepdotweb.com/2017/05/11/feds-fight-child-pornography-dark/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to the Department of Justice, “The expansion of the Internet has led to an explosion in the market for child pornography.” This is nothing new to DeepDotWeb readers; we covered Operation Pacifier and continue to monitor those cases. Taskforce Argos took down The Love Zone, another CP forum—and we covered the arrests and the investigation itself. Now, after a controversial year with respect to internet CP, the <a href="https://www.justice.gov/psc/national-strategy-child-exploitation-prevention-and-interdiction">FBI released their internal figures regarding online child pornography</a>.</p>
     <p>The FBI explained that investigations into CP cases take place through the Child Exploitation Task Forces—a multi-agency partnership with federal and state law enforcement. “<a href="https://www.scribd.com/document/346633516/2016-Natl-Strategy-Rpt-Online-Version-Updated-Final-08-16-2016-2">Nearly 400 law enforcement partner organizations</a> participate in these task forces,” the announcement explained. FBI intelligence analysts and subject matter experts work with the partner agencies, along with the National Center for Missing &amp; Exploited Children (NCMEC).</p>
     <p><img class="wp-image-19765 aligncenter" src="/imgs/2017/05/word-image-34.jpeg" srcset="/imgs/2017/05/word-image-34.jpeg 800w, /imgs/2017/05/word-image-34-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

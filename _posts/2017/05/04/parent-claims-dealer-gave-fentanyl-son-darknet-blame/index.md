@@ -9,7 +9,7 @@ Parent Claims Dealer Gave Fentanyl to Son, Darknet to Blame
     <span><a href="https://www.deepdotweb.com/2017/05/04/parent-claims-dealer-gave-fentanyl-son-darknet-blame/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In November 2016, an 18-year-old overdosed at his father&#8217;s house in Deal, Kent. Afterwards, the toxicology report cited fentanyl as the cause of death. Robert Fraser overdosed on a couch with white lines prepared before him. However, due to a lack of evidence, the police ended their investigation into the crime. Sources reported that they attempted, before closing the case on May 12, to find the supplier. Robert&#8217;s mother recently claimed that she does not believe her son ingested fentanyl the night he died.</p>
     <p>She said he obtained the drug from a dealer but was unaware of the substance’s identity. She similarly argued that he <a href="https://www.deepdotweb.com/tag/darknet">ordered it on the darknet</a>, a place where “it is kids giving it to kids.“</p>
     <p>She argued that her son went to buy cannabis and the dealer provided <em>them</em> with a <a href="https://www.deepdotweb.com/tag/fentanyl/">free bag of fentanyl</a>. Robert brought a friend with him, the mother explained. He explained that the powder came wrapped in an airtight bag within another airtight bag. Despite the presence of a witness to the alleged cannabis deal, the police still ended the case due to lack of evidence.</p>

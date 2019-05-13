@@ -9,7 +9,7 @@ Australia Gets Gun Amnesty, Better Mail Screening in July
     <span><a href="https://www.deepdotweb.com/2017/07/02/australia-gets-gun-amnesty-better-mail-screening-july/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Between July 1 and September 30, the Australian Federal Government will run a mass <a href="https://firearmsamnesty.ag.gov.au/Pages/about-the-amnesty.aspx#skip">illegal firearm amnesty</a>. For three months, anyone with an illegal, unregistered, or unwanted guns can dispose of it at police stations throughout Australia. This will be the first national illegal weapon amnesty in 20+ years.</p>
     <p>The Federal Government recreated the program from 20 years ago, save for at least one element. In 1996, the program was a <em>buyback</em> program where the government paid people to turn in weapons. This time, <a href="https://www.deepdotweb.com/tag/gun/">gun owners</a> will not receive any monetary compensation for turning in a firearm.</p>
     <p>Authorities hope to eliminate some of the suspected 260,000 <a href="https://www.deepdotweb.com/tag/firearms/">illegal firearms</a> out of circulation. Those skeptical of the amnesty believe that it will do nothing to stop terror or criminals. Vice-president of Gun Control Australia, Roland Browne, told The World Today that “amnesties are good in the sense that they take guns out of the hands of the community who don&#8217;t need them and that&#8217;s especially helpful in the case of suicide.” But, he continued, “if you are dealing with people who are hellbent on causing terror, they are not going to hand in their guns.”</p>

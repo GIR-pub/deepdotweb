@@ -10,7 +10,7 @@ FDA to Increase focus on fentanyl and other synthetic opioids at postal faciliti
     <span><a href="https://www.deepdotweb.com/2017/08/20/fda-increase-focus-fentanyl-synthetic-opioids-postal-facilities/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Food and Drug Administration is reinforcing its effort to detect opioids which make its way into the country illegally via mail. This comes as a result of the alarming concerns being raised about synthetic fentanyl swamping the country as well as similar drugs being shipped from China and other places.</p>
     <p>Scott Gottlieb, the commissioner of The Food and Drug Administration made some comments internally on Thursday so a group of senior managers stating that, he was placing about three dozen employees to international mail facilities run by the U.S. Postal Service to aid in detecting and analyzing suspicious packages, as well as to the FDA’s cybercrime and forensic-chemistry units.</p>
     <p><a id="post-22078-_gjdgxs"></a> “Given the scope of the opioid crisis, and the risk posed by these synthetic drugs, it’s my belief that we need to devote even more resources and attention to these risks,” said Gottlieb, who has made the opioid crisis a top priority in his brief tenure as FDA head.</p>

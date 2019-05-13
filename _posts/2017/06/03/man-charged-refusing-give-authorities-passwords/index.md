@@ -9,7 +9,7 @@ Man Charged for Refusing to Give Authorities His Passwords
     <span><a href="https://www.deepdotweb.com/2017/06/03/man-charged-refusing-give-authorities-passwords/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The director of CAGE, Muhammad Rabbani, refused to give British authorities the <a href="http://deepdotweb.com/tag/privacy">password to his phone and laptop</a> “about 20 times.” The last time, though, British police at Heathrow airport <a href="https://www.deepdotweb.com/tag/arrested/">arrested</a> the man for violating anti-terror laws. Rabbani claimed his devices contained confidential information and testimonies about torture in Afghanistan. London’s Metropolitan Police recently charged Rabbani for intentionally obstructing a police investigation.</p>
     <p>CAGE, formerly known as Cageprisoners Ltd, describes itself as “an independent advocacy organisation working to empower communities impacted by the War on Terror.” However, their movements and idealistic principles placed them in a position where governments called the group “<a href="http://www.bbc.com/news/uk-31657333">apologists for terror</a>.” They also have an inherent proximity to terror. For instance, Moazzam Begg, the group&#8217;s outreach director, spent time in the infamous Guantanamo Bay detention camp.</p>
     <p><img class="wp-image-20346 aligncenter" src="/imgs/2017/05/word-image-173.jpeg" width="668" height="376" srcset="/imgs/2017/05/word-image-173.jpeg 800w, /imgs/2017/05/word-image-173-300x169.jpeg 300w" sizes="(max-width: 668px) 100vw, 668px" /></p>

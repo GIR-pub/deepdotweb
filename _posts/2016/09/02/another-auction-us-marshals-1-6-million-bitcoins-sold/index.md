@@ -9,7 +9,7 @@ Another Auction By The US Marshals: $1.6 Million In Bitcoins Sold
     <span><a href="https://www.deepdotweb.com/2016/09/02/another-auction-us-marshals-1-6-million-bitcoins-sold/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a id="post-15310-_gjdgxs"></a> The US Marshals Service <a href="https://www.deepdotweb.com/2015/10/09/us-marshalls-to-auction-ross-ulbrichts-remaining-bitcoin-stash-worth-11-million/">has again auctioned</a> bitcoins seized from cybercriminals. This time, $1.6 million worth of BTC were <a href="http://thehill.com/policy/technology/292275-us-marshals-auction-off-16m-in-bitcoin">sold</a> to one successful bidder on Monday.</p>
     <p>CoinDesk, a website reporting on virtual currencies, confirmed with the Marshals, that four total bids were made <a href="https://www.usmarshals.gov/assets/2016/bitcoinauction/">at this auction</a>.</p>
     <p>The US Marshals acquired the bitcoins from several cases involving the Silk Road case, including the cases involving Ross Ulbricht.</p>

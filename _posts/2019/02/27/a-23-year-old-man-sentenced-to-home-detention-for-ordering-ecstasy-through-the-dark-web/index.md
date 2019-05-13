@@ -9,7 +9,7 @@ A 23-year-old Man Sentenced to Home Detention for Ordering Ecstasy Through the D
     <span><a href="https://www.deepdotweb.com/2019/02/27/a-23-year-old-man-sentenced-to-home-detention-for-ordering-ecstasy-through-the-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 23-year-old man from Napier, New Zealand, was sentenced to home detention after he was found guilty of three counts of importing ecstasy ordered through the dark web. Like the majority of those who purchase illicit items through the dark web, he was arrested after customs authorities intercepted two of his drug packages. He allegedly ordered the drugs on behalf of his friends and for himself and had them mailed to his home address.</p>
     <p><img class="wp-image-28466" src="/imgs/2019/02/word-image-22.jpeg" srcset="/imgs/2019/02/word-image-22.jpeg 660w, /imgs/2019/02/word-image-22-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>According to reports, 23-year-old Troy Callib Wallace began purchasing ecstasy via the dark web in early 2018. After ordering the drugs, he had them delivered to his home by mail. Over time, customs authorities grew suspicious of the packages shipped from abroad to his address. On April 17, Auckland customs authorities confiscated a package addressed to Wallace. On opening the package, the authorities found 0.4 grams of ecstasy. After several days, the authorities intercepted yet another package addressed to Wallace, the package carried 4.4 grams of ecstasy. Due to the discovery of drugs in the package, the customs authorities alerted the Napier police of Wallace’s drug importation activities.</p>

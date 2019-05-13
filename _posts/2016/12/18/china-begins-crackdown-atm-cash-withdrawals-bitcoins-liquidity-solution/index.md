@@ -9,7 +9,7 @@ China Begins to Crackdown on ATM Cash Withdrawals; Bitcoin&#8217;s Liquidity as 
     <span><a href="https://www.deepdotweb.com/2016/12/18/china-begins-crackdown-atm-cash-withdrawals-bitcoins-liquidity-solution/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Stepping upon the path of <a href="https://www.deepdotweb.com/2016/12/02/darknet-group-india-arrested-shipping-xanax-us/">India</a>, <a href="https://www.deepdotweb.com/2016/03/19/chinese-state-hackers-open-shop-dark-net/">China</a> has begun to impose some serious capital controls and restrictions on cash. On December 8, the Chinese government officially halved the amount money UnionPay bank card holders can withdraw from ATMs in Macau, in an attempt to regulate the Macau gambling industry and prevent the devaluation of yuan.</p>
     <p>According to <a href="http://www.scmp.com/news/hong-kong/economy/article/2053045/beijing-takes-aim-macau-gaming-industry-cut-currency-flight">SCMP</a>, several billions of yuan are sent from Beijing to Macau on an annual basis, due to the massive expenditures of gamblers in the city. By restricting the daily withdrawal limit in Macau, the government hopes to see a substantial decrease in the outflow of the <a href="https://www.deepdotweb.com/2016/11/09/chinese-financial-regulations-segwit-release-continue-push-bitcoin-price/">Chinese</a> yuan.</p>
     <p>The daily withdrawal limit cut from 10,000 to 5,000 Macanese pataca is set to take effect on Saturday, December 10. Considering that US$1.25 billion worth of Macanese pataca is withdrawn in Macau on a monthly basis, the withdrawal limit cut is set to decrease the outflow of the Chinese yuan by around $600 million.</p>

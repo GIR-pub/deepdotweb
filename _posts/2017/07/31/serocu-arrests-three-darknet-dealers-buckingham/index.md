@@ -9,7 +9,7 @@ SEROCU Arrests Three Darknet Dealers in Buckingham
     <span><a href="https://www.deepdotweb.com/2017/07/31/serocu-arrests-three-darknet-dealers-buckingham/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>After an investigation into drug trafficking by the South East Regional Organised Crime Unit, officers arrested three suspects for drug distribution through the <a href="https://www.deepdotweb.com/tag/darknet">darknet</a>. The investigation, according to SEROCU, centered on darknet drug trafficking and fraud. A full investigation is underway as detectives examine seized evidence.</p>
     <p>In early July, SEROCU&#8217;s Cyber Crime Unit raided multiple homes in Buckingham. The raids resulted in three arrests: a 33-year-old woman, a 34-year-old man, and a 36-year-old man. All three were arrested for suspected drug trafficking crimes and money laundering conspiracy.</p>
     <p><img class="wp-image-21666" src="/imgs/2017/07/word-image-144.jpeg" srcset="/imgs/2017/07/word-image-144.jpeg 800w, /imgs/2017/07/word-image-144-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

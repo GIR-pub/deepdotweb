@@ -9,7 +9,7 @@ State Department Fails at Cybersecurity Again, New Report Reveals
     <span><a href="https://www.deepdotweb.com/2016/11/27/state-department-fails-cybersecurity-new-report-reveals/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Cybersecurity at the US State Department has been scrutinized for years while under the leadership of Hillary Clinton and John Kerry. The department has a tech budget of $1.92 billion annually, yet has never scored well on internal security tests. This year’s report looked no better than previous ones.</p>
     <p>The State Department’s Office of Inspector General’s (OIG) latest report revealed that the State Department is still failing at cybersecurity. Beyond that, the department scored worse in some criterias.</p>
     <p><img class="wp-image-16618 aligncenter" src="/imgs/2016/11/1467837737198-jpg.jpeg" alt="1467837737198.jpg" width="689" height="388" srcset="/imgs/2016/11/1467837737198-jpg.jpeg 876w, /imgs/2016/11/1467837737198-jpg-300x169.jpeg 300w" sizes="(max-width: 689px) 100vw, 689px"/></p>

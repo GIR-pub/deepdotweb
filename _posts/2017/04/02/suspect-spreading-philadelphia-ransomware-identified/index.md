@@ -9,7 +9,7 @@ Suspect Spreading Philadelphia Ransomware Identified
     <span><a href="https://www.deepdotweb.com/2017/04/02/suspect-spreading-philadelphia-ransomware-identified/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In March 2017, cybercrime investigators in Austria made a breakthrough in a so-called “ransomware case.” Someone infected an Upper Austrian company with malware known as Philadelphia or the Philadelphia Ransomware. Investigators discovered the attacker responsible for the infection: a 19-year-old from the region. The suspect, armed with ransomware from the darknet, likely infected several other companies in the region, a Federal Criminal Officer explained.</p>
     <p>Philadelphia quickly became known as one of the most user friendly malware kits for an attacker in 2016. A forum post, on the clearnet, explained <a href="https://www.bleepingcomputer.com/forums/t/626035/philapdelphia-new-ransomware-from-developer-of-stampado/">where the ransomware came from</a>, how attackers spread Stampado, and of course the price of Philadelphia. Cybercrime investigators in Austria heard an increasing number of reports from Upper Austrian countries that involved ransomware.</p>
     <p><img class="wp-image-18977 aligncenter" src="/imgs/2017/03/word-image-28.jpeg" srcset="/imgs/2017/03/word-image-28.jpeg 853w, /imgs/2017/03/word-image-28-300x204.jpeg 300w" sizes="(max-width: 853px) 100vw, 853px" /></p>

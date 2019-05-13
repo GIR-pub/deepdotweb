@@ -9,7 +9,7 @@ More Prison Time for Ex-Agent in Silk Road Case
     <span><a href="https://www.deepdotweb.com/2017/11/21/prison-time-ex-agent-silk-road-case/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Shaun Bridges, the dirty Secret Service agent who had already <a href="https://www.deepdotweb.com/2015/12/12/second-former-government-agent-and-bitcoin-pirate-sentenced/">landed a six-year prison sentence</a> for the theft of $800,000 worth of bitcoins during the Silk Road investigation, just received another two-years for another bitcoin heist.</p>
     <p>In March 2015, authorities arrested Shaun Bridges and Drug Enforcement Administration agent Carl Force. Both men had been part of the team behind the investigation and seizure of the Silk Road marketplace. Both men had stolen substantial amounts of bitcoin from the Silk Road and diverted the money into their bitcoin wallets. Bridges later pleaded guilty to both money laundering and obstruction of justice. Force, in turn, pleaded guilty to money laundering, extortion, and obstruction of justice.</p>
     <p>The Department of Justice settled upon a 71-month sentence for Bridges and an 87-month sentence for Force. Bridges also agreed to forfeit $500,000 to the U.S. government. “I’ve lost a lot,” <a href="https://www.deepdotweb.com/2015/12/12/second-former-government-agent-and-bitcoin-pirate-sentenced/">Bridges allegedly told the court</a>. “I’ve accepted responsibility…I just [want] to apologize to everybody.”</p>

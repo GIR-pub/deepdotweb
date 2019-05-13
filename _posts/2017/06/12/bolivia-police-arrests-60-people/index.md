@@ -9,7 +9,7 @@ Bolivia Police arrests 60 people for Cryptocurrency crimes
     <span><a href="https://www.deepdotweb.com/2017/06/12/bolivia-police-arrests-60-people/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Bolivia is one of the countries that has closed its doors to the discussion on Bitcoin and Blockchain technology, although it still cannot avoid its use.</p>
     <p>Before the prohibition by the authorities, illegal businesses rose out within the realm of cryptocurrencies. This has been confirmed after the report that 60 arrests of supposed promoters of fraudulent businesses with digital currencies in the city of Santa Cruz spread out locally.</p>
     <p>The director of the Financial System Supervision Authority (ASFI), Lenny Valdivia, announced the arrests as a reminder for the public to understand the illegality of Bitcoin or any cryptocurrency use in Bolivia. Since 2014, such virtual currencies have not been regulated by any governmental or financial entity.</p>

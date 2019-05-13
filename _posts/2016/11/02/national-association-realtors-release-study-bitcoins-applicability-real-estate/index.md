@@ -9,7 +9,7 @@ National Association of Realtors Release Study on Bitcoin&#8217;s Applicability 
     <span><a href="https://www.deepdotweb.com/2016/11/02/national-association-realtors-release-study-bitcoins-applicability-real-estate/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The National Association of Realtors, a US trade association for 1.1 million real estate brokers, recently <a href="http://crt.blogs.realtor.org/files/2016/10/blockchain_in_real_estate_applications1.pdf">released a study</a> on the applicability of bitcoin and blockchain in the industry, particularly in storing and distributing information in an immutable ecosystem.</p>
     <p>Overall, the study, entitled “Blockchain in Real Estate: Useful Application Areas,” recognizes the factors of success behind bitcoin and other major cryptocurrencies in the market. The National Association of Realtors understands that security and immutability are two of the most crucial features and characteristics of a blockchain network.</p>
     <p>However, the association believes major crypto-networks like bitcoin significantly lack the ability to engage in smart contracts and the settlement of agreements. Simply put, it aims to emphasize and prioritize flexibility, functionality and scalability over security.</p>

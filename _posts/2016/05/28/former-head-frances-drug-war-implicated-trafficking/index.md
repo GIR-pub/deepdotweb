@@ -9,7 +9,7 @@ Former head of France&#8217;s drug war implicated in trafficking
     <span><a href="https://www.deepdotweb.com/2016/05/28/former-head-frances-drug-war-implicated-trafficking/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The former head of France&#8217;s anti-drug agency OCRTIS has been accused of involvement with marijuana traffickers, according to the French <a href="http://www.liberation.fr/france/2016/05/22/stups-ou-encore-le-patron-de-la-lutte-antidrogue-accuse-d-etre-au-coeur-du-trafic_1454417">newspaper Libération</a>. OCRTIS is charged with directing police and customs.</p>
     <p>François Thierry is accused of having let tens of tons of cannabis enter France over the past few years.</p>
     <p>He is also accused of having recruited some of the biggest European traffickers for his efforts.</p>

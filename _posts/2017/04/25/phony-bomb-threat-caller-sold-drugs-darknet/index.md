@@ -9,7 +9,7 @@ Phony Bomb Threat Caller Sold Drugs on the Darknet
     <span><a href="https://www.deepdotweb.com/2017/04/25/phony-bomb-threat-caller-sold-drugs-darknet/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In early April, <a href="https://www.deepdotweb.com/tag/arrested/">police arrested 19-year-old Michael Kaydar</a> at his home in Ashkelon, Israel. Israel’s Rishon Lezion Magistrate&#8217;s’ Court remanded the 19-year-old Israeli-American hacker for the third time in part of a larger investigation. Court advised the man of conducting hundreds of fake bomb threat phone calls to Jewish institutions. The investigation took off once the hacker called Jewish Community Centers in the United States.</p>
     <p>The FBI traced the call back to a SpoofCard phone service—a website where Kaydar placed the bomb threat calls with a fake, or spoofed, phone number. FBI agents took the matter seriously as they suspected the calls were connected to the same entity that made calls since January and possibly more across the world. Also, the FBI dislike bomb threats and treat them all, phony or legitimate, the same.</p>
     <p><img class="wp-image-19383 aligncenter" src="/imgs/2017/04/word-image-33.jpeg" srcset="/imgs/2017/04/word-image-33.jpeg 635w, /imgs/2017/04/word-image-33-300x169.jpeg 300w" sizes="(max-width: 635px) 100vw, 635px"/></p>

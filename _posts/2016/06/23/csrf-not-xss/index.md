@@ -9,7 +9,7 @@ Why CSRF Is Not The Same As XSS
     <span><a href="https://www.deepdotweb.com/2016/06/23/csrf-not-xss/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Since <a href="https://hackerone.com/">HackerOne</a> came into the system to create close connection between white hats and tech. companies (primarily for security reasons), we have come across terminologies like <strong>CSRF</strong>, <strong>XSS</strong>, <strong>SQLi </strong>and the <strong>Poisoned null byte</strong>. These terminologies are part of today’s most common, harmful vulnerabilities affecting web applications.  Major tech. companies (<strong>Google</strong>, <strong>PayPal</strong>, <strong>Uber</strong>, and <strong>Twitter</strong>) have benefited from white hats or security researchers like <a href="https://twitter.com/rafaybaloch">@Rafaybaloch</a><strong>,  </strong><a href="https://hackerone.com/filedescriptor">filedescriptor </a>, and <strong>Egor Hakimov’s </strong> willingness to help detect hidden bugs or technical mistakes yet unknown to  developers and programmers.</p>
     <p>However, it seems outsiders still find it difficult to differentiate between XSS and CSRF.  We should not interchange XSS with CSRF.  <strong>XSS and CSRF</strong> don’t apply to each other.</p>
     <p><strong>Definition of XSS</strong></p>

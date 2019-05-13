@@ -9,7 +9,7 @@ EUIPO Report: Tor and Bitcoin Hinders the Fight Against Piracy
     <span><a href="https://www.deepdotweb.com/2016/07/22/euipo-report-tor-bitcoin-hinders-fight-piracy/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The <a href="https://euipo.europa.eu/">European Intellectual Property Office</a> published a <a href="https://euipo.europa.eu/tunnel-web/secure/webdav/guest/document_library/observatory/resources/Research_on_Online_Business_Models_IBM/Research_on_Online_Business_Models_IBM_en.pdf">new report</a> that found a range of business models that are being used by pirate sites. European Intellectual Property Office is teaming up with Europol this week, signaling Tor and Bitcoin as key threats to the ongoing fight against piracy.</p>
     <p><a href="https://torrentfreak.com/tor-and-bitcoin-hinder-anti-piracy-efforts-160715/">The report highlights</a> all of the ways pirate sites like Kickass Torrents and The Pirate Bay use to keep themselves alive and active. It gave general details of the business models mentioned to distribute the pirated materials. It covered not only torrent sites like the ones mentioned, but also online store fronts selling counterfeit goods. The hopes of the report were to help fight against this growing problem.</p>
     <blockquote><p>The study will provide enhanced understanding to policymakers, civil society and private businesses. At the same time, it will help to identify and better understand the range of responses necessary to tackle the challenge of large scale online Intellectual Property Rights infringements,</p></blockquote>

@@ -17,7 +17,7 @@ Decentralized Instantaneous Poker Protocol Using Ethereum/Solidity
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Today&#8217;s standard model of communication renders it impossible to establish a fair multiparty computation model, if an honest majority of participants cannot be guaranteed. This represents a big problem when it comes to designing a 100% fair, secure, decentralized poker platform. Accordingly, the past couple of decades have witnessed numerous research attempts to bypass this hypothetical impossibility mainly via implementing techniques such as optimistic fair exchange and gradual release. With the advent of bitcoin, a line of research, which emerged from cryptocurrency experimental studies, sought establishing fairness within <a href="https://www.deepdotweb.com/2017/01/05/secure-multi-party-computing-using-bitcoins-blockchain/">secure multiparty computation (MPC) models</a> via implementation of monetary penalties.</p>
     <p>A group of researchers recently published <a href="https://arxiv.org/pdf/1701.06726.pdf">a paper that included a framework for a decentralized poker platform</a> that relies on a protocol for amortized MPC with monetary penalties and a highly secure method for cash distribution. The protocol includes an initial phase during which parties communicate with a cryptocurrency network; this would then enable them to interact exclusively among themselves along one or more poker games during which money changes hands.</p>

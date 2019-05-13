@@ -17,7 +17,7 @@ German Man Sentenced for Cyberbullying and Selling Electronics on the Darknet
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The presiding judge at the Nuremberg District Court, on December 14, sentenced a 24-year-old to three years and five months in prison. The Lower Saxonian man faced charges that involved <a href="https://www.deepdotweb.com/2016/07/18/cybercrime-outshines-traditional-crime-uk/">computer fraud, computer sabotage</a>, incitement, violence, the spread of both animal and child pornography, along with data spying. His indictment included additional charges, but those received the most focus. “These actions take my breath away,” the presiding judge said.</p>
     <p><img class="wp-image-17218 aligncenter" src="/imgs/2016/12/word-image-30.jpeg" srcset="/imgs/2016/12/word-image-30.jpeg 615w, /imgs/2016/12/word-image-30-300x200.jpeg 300w" sizes="(max-width: 615px) 100vw, 615px" /> In the courtroom, observers heard some of the “breathtaking” actions of the 24-year-old. For instance, he shipped socks that contained pork innards to unknowing victims. Racist items and bomb-making chemicals arrived in the mailboxes of people who were none the wiser. One person in particular, the judge said, faced the majority of the suspect’s bullying: a YouTuber from Franconia. The accused “<a href="https://www.tag24.de/nachrichten/nuernberg-prozess-cyber-kriminalitaet-dark-web-pornos-192181">made life difficult for the YouTuber</a>,” several sites reported.</p>

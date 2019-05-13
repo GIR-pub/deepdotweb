@@ -9,7 +9,7 @@ Two Arrested In Romania For Drug Trafficking
     <span><a href="https://www.deepdotweb.com/2017/06/10/two-arrested-in-romania-for-drug-trafficking/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities <a href="http://ziaruldeiasi.ro/stiri/traficanti-de-cannabis-ecstasy-si-amfetamina-arestati-preventiv-la-ia-i--160506.html">arrested</a> two men in Iasi, Romania for trafficking in narcotics. Police claimed that one of the suspects ordered the illicit substances from the dark web, while the other bought them from him with the intention to resell the drugs.</p>
     <p><a id="post-20513-_gjdgxs"></a> <img class="aligncenter wp-image-20523" src="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-geth.jpeg" alt="" width="640" height="470" srcset="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-geth.jpeg 640w, /imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-geth-300x220.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
     <p>A press release of the Romanian law enforcement authorities revealed that on May 20, 2017 the Iasi Territorial Service of the Directorate for Investigating Organized Crime and Terrorism (DIICOT) ordered the detention of two defendants, Andrei Dragoş Spiratos and Tudor Constantin Ernilă, for a period of 24 hours for the crimes of drug trafficking and importing narcotics to Romania.</p>

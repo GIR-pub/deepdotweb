@@ -9,7 +9,7 @@ Report Says How Weapons Are Smuggled Into The United Kingdom
     <span><a href="https://www.deepdotweb.com/2016/04/19/report-says-weapons-smuggled-united-kingdom/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <div class="wp-socializer-buttons clearfix">
     <span class="wpsr-btn">
     

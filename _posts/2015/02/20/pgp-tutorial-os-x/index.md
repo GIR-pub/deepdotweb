@@ -9,7 +9,7 @@ PGP Tutorial For OS X
     <span><a href="https://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/#comments">28 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <div class="usertext-body may-blank-within md-container">
     <div class="md">
     <p><em>Full credit goes to <a href="http://www.reddit.com/user/MLP_is_my_OPSEC">MLP_is_my_OPSEC</a> for writing this tutorial – Thanks for publishing and giving your permission to repost!</em></p>

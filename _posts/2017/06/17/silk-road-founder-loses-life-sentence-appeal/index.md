@@ -17,7 +17,7 @@ Silk Road Founder Loses Life Sentence Appeal
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On May 31, 2017, a federal appeals court upheld the rulings made by US District Judge Kathleen Forrest and thereby <a href="https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/">confirmed Ross Ulbricht&#8217;s life sentence</a>. Ulbricht received a lifetime in prison without a chance of parole in 2015. His defense prepared “dozens of pages” that challenged her decisions. The judges dismissed everything brought to their attention.</p>
     <p>However, the the three judges agreed the life sentence might not have been their course of action. Despite this, the judges found no reason to overturn Judge Forrest&#8217;s sentencing. And this is in accord with the US legal system; even if they agreed that life in prison was “quite a leap” from the status quo, the appeal provided no arguments that would have significantly impacted Ulbricht&#8217;s sentence, they explained.</p>

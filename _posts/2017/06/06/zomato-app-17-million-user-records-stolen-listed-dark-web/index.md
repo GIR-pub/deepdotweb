@@ -9,7 +9,7 @@ Zomato App &#8211; 17 Million User Records Stolen, Listed on Dark Web
     <span><a href="https://www.deepdotweb.com/2017/06/06/zomato-app-17-million-user-records-stolen-listed-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Zomato, a restaurant search and discovery application which serves tens of millions of users on a daily basis, was hacked this past week. More than 17 million user records were stolen and listed on the dark web.</p>
     <p>In a strange turn of events, it appears as if Zomato bought the details of its users back from the dark web as the hacker was paid by Zomato to take the listing of its client data from the dark web. Essentially, the Zomato team paid off the hacker who listed the data of Zomato’s 17 million users on the dark web to ensure that sensitive information of their clients remain safe.</p>
     <p><img class="wp-image-20430 aligncenter" src="/imgs/2017/06/word-image-12.png" srcset="/imgs/2017/06/word-image-12.png 736w, /imgs/2017/06/word-image-12-300x225.png 300w" sizes="(max-width: 736px) 100vw, 736px"/></p>

@@ -9,7 +9,7 @@ Minnesota Man Charged With Hiring Hackers to Bring Down Ex-Employer
     <span><a href="https://www.deepdotweb.com/2017/11/16/minnesota-man-charged-hiring-hackers-bring-ex-employer/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Federal prosecutors in an ongoing Minnesota case involving cybercrime stated that a local business, and Monticello-based technology firm was a victim of cyber-attack which was instigated by a former worker.</p>
     <p>The former worker who was also a state resident employed <a href="https://www.deepdotweb.com/2017/01/22/eu-hire-hackers-ex-drug-users-stop-darknet-drug-trafficking/">hackers-for-hire</a> to sabotage the website of Monticello.</p>
     <p>According to the FBI, this case is in relation to the growing form of cybercrime as professional hackers are contracted to ramp up attacks on individuals, businesses and other personal digital devices connected to the web.</p>

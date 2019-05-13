@@ -9,7 +9,7 @@ The Bayesian Method For Deanonymising A Large Percentage of Bitcoin Transactions
     <span><a href="https://www.deepdotweb.com/2017/01/03/bayesian-method-deanonymising-large-percentage-bitcoin-transactions/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Although bitcoin is famous for its anonymity level, it is agreed that it is not completely anonymous as there are multiple ways for tracking the sender of bitcoin transactions in most cases. We will discuss the Bayesian method for identification of bitcoin addresses throughout this article.</p>
     <p><img class="wp-image-17292 aligncenter" src="/imgs/2016/12/btc-anonymous-jpg.jpeg" alt="BTC anonymous.jpg" srcset="/imgs/2016/12/btc-anonymous-jpg.jpeg 450w, /imgs/2016/12/btc-anonymous-jpg-300x226.jpeg 300w" sizes="(max-width: 450px) 100vw, 450px" /></p>
     <p><a href="https://arxiv.org/pdf/1612.06747v3.pdf">The Bayesian method for identification of bitcoin addresses</a> can be broken down into 3 main steps:</p>

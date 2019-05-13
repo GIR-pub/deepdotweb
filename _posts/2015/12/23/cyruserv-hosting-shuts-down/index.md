@@ -9,7 +9,7 @@ Cyruserv Hosting Shuts Down
     <span><a href="https://www.deepdotweb.com/2015/12/23/cyruserv-hosting-shuts-down/#comments">14 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>During the past week our list of vendor shops became significantly shorter, due to at least 7 sites going down the previous week for unknown reason, the common thing for them was that they were all hosted in the same place  &#8211; Cyruserv (cyruserv.net &amp; cyruservvvklto2l.onion) , a popular Dark Web hosting service that hosted many sites, vendor shops &amp; services. Yesterday, the mystery was solved when the hosting service owner published his goodbye message detailing the reason for the shut down along some background of older dark net happenings such the Budster scam and some others:</p>
     <blockquote><p>I apologize for errors in this writing. It is the Silly Season, and I like all should be am quite drunk.</p>
     <p>Bitcoin caused serious problems for me. The server could no longer move through the cloud. For the past month a hacker group has been hacking home directories. At first this was a mystery. It started happening after turning off memory sanitzation.</p>

@@ -9,7 +9,7 @@ A ransomware master known as “Pornopoker” was arrested in Russia
     <span><a href="https://www.deepdotweb.com/2016/12/13/ransomware-master-known-pornopoker-arrested-russia/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.bleepingcomputer.com/news/security/ransomware-author-pornopoker-arrested-in-russia/">A publication from BleepingComputer</a> reports that a man known as “Pornopoker” has been arrested by Russian authorities, for writing and distributing ransomware. His real name is yet to be released.</p>
     <p>Pornopoker, allegedly a 40-year-old man from Volgograd, Russia, was arrested at the Domodedovo International Airport, located near Moscow. He was caught by Russian authorities after he returned from Thailand where he was hiding.</p>
     <p><img class="wp-image-16912 aligncenter" src="/imgs/2016/12/c-users-chico-downloads-pornopoker-jpg.jpeg" alt="C:\Users\chico\Downloads\Pornopoker.jpg" srcset="/imgs/2016/12/c-users-chico-downloads-pornopoker-jpg.jpeg 916w, /imgs/2016/12/c-users-chico-downloads-pornopoker-jpg-300x168.jpeg 300w" sizes="(max-width: 916px) 100vw, 916px" /></p>

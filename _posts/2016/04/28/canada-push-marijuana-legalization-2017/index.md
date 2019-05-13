@@ -9,7 +9,7 @@ Canada To Push For Marijuana Legalization In 2017
     <span><a href="https://www.deepdotweb.com/2016/04/28/canada-push-marijuana-legalization-2017/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p class="Standard">Canada will <a href="https://www.thestar.com/news/canada/2016/04/20/marijuana-legislation-coming-to-canada-next-spring.html"><span style="color: windowtext; text-decoration: none; text-underline: none;">introduce</span></a> legislation next in 2017 to legalize and regulate marijuana, following through with one of Justin Trudeau&#8217;s campaign promises made last fall. The announcement came Wednesday, April 20 from Health Minister Jane Philpott in her address to the United Nations session on drug policy.</p>
     <p class="Standard">“We know it is impossible to arrest our way out of this problem,” said Philpott. She went on to say, “Canada will continue to modernize our approach to drug policy. Building on our successes, such as (safe injection sites), our work will embrace upstream prevention, compassionate treatment and harm reduction”.</p>
     <p class="Standard">Philpott has been <a href="https://twitter.com/liberal_party/status/722847916964995072"><span style="color: windowtext; text-decoration: none; text-underline: none;">quoted</span></a> saying that legalization “will keep marijuana out of the hands of children and profits out of the hands of criminals.”</p>

@@ -9,7 +9,7 @@ Six Arrested In Germany For Selling Narcotics On The Dark Web
     <span><a href="https://www.deepdotweb.com/2017/06/16/six-arrested-germany-selling-narcotics-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On May 31, the Special Deployment Commando (SEK) <a href="http://www.aachener-zeitung.de/lokales/aachen/zwei-sek-einsaetze-in-brand-drogen-ueber-darknet-verkauft-1.1637487">arrested</a> six people in the area of Aachen, Germany for selling drugs, including <a href="https://www.deepdotweb.com/2017/04/28/probation-sentence-imposed-german-commercial-trafficking-amphetamine/">amphetamine</a>, on the dark web.</p>
     <p><img class="aligncenter wp-image-20721" src="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-aach.jpeg" alt="" width="704" height="396" srcset="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-aach.jpeg 704w, /imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-aach-300x169.jpeg 300w" sizes="(max-width: 704px) 100vw, 704px" /></p>
     <p>On May 31 evening, the SEK was tasked to perform two raids in Aachen. The first assignment took place on the corner street at about 5:00 pm, however, shortly after 7 pm, there was another police operation in Buschstraße. According to the prosecutor’s office in Aachen, both missions were related to drug-criminality. In the law enforcement operation, the SEK units detained six.</p>

@@ -9,7 +9,7 @@ German Chief Prosecutor Seeks To Monitor Communications More Extensively
     <span><a href="https://www.deepdotweb.com/2017/02/03/german-chief-prosecutor-seeks-monitor-communications-extensively/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Chief Prosecutor Dr. Peter Frank <a href="http://www.chip.de/news/Werden-wir-bald-alle-abgehoert-Es-wird-mit-Terror-Bekaempfung-begruendet_107568096.html">demands</a> more powers for authority to monitor telecommunications. If he succeeds with his plan, law enforcement will be able to decrypt encrypted messages, used by dark net criminals and terrorists, more efficiently.</p>
     <p><img class="wp-image-17966 aligncenter" src="/imgs/2017/01/chief-prosecutor-dr-peter-frank-more-powers-in-t.jpeg" alt="Chief Prosecutor Dr. Peter Frank: More powers in the monitoring of telecommunications demanded." srcset="/imgs/2017/01/chief-prosecutor-dr-peter-frank-more-powers-in-t.jpeg 640w, /imgs/2017/01/chief-prosecutor-dr-peter-frank-more-powers-in-t-300x168.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px"/></p>
     <p>The federal prosecutor seeks to surveil telecommunications due to the terrorist attacks in 2016. According to him, the current legal situation led to a &#8220;massive deficit in obtaining evidence through telecommunications.&#8221; In the case of potential terrorists, the phone calls between the suspects are mostly encrypted, and investigators have a hard time decoding them.</p>

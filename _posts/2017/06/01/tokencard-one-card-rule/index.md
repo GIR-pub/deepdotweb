@@ -9,7 +9,7 @@ TokenCard: One card to rule them all
     <span><a href="https://www.deepdotweb.com/2017/06/01/tokencard-one-card-rule/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Ethereum, as a cryptocurrency platform, has been growing at an astonishing rate. With a market cap valuation of over $8 billion, it currently holds the 3rd largest cryptocurrency position, second only to Bitcoin and Ripple. However, Ethereum was developed not as a cryptocurrency. It was a smart contract platform that allows users to develop and deploy dApps and smart contracts.</p>
     <p>These dApps may sometimes make use of an alternative token, depending on the function and structure of the dApp itself. This is the case with projects like <a href="https://www.deepdotweb.com/2017/05/03/augur-search-engine-future/">Augur</a>, the <a href="https://www.deepdotweb.com/2016/12/02/golem-network-decentralized-computing/">Golem Network</a>, FirstBlood, Singular-DTV, Wings DAO and many others. Some of these tokens have taken a place on the top 20 biggest projects in the cryptosphere and although they have very different functions in their own context, they usually share the same ERC20 standard.</p>
     <p>Although these tokens are generally not meant to be used as payment for services and/or goods, some investors may be forced to convert them into BTC or fiat currency through an exchange in order to pay bills, make a purchase, etc… This usually incurs in additional charges and a whole lot of work, as not all tokens are available in one exchange.</p>

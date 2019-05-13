@@ -9,7 +9,7 @@ Netherlands: Six Darknet Marketplace Vendors Arrested
     <span><a href="https://www.deepdotweb.com/2017/07/13/netherlands-six-darknet-marketplace-vendors-arrested/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Netherlands is one of the superpowers in drug dealings in Europe, and a report released last year confirmed that the country is counted among the leading producers of drugs through the Darknet marketplace.</p>
     <p>As part of the measures to reduce the use of Darknet drug trade in the Netherlands, authorities took down some shops set up on the Darknet marketplace for selling drugs. The operation yielded results as six Drug vendors were arrested between the months of May and June.</p>
     <p>On a Facebook post, the Marechaussee confirmed that the arrested suspects were in charge of stores set up on the Darknet for selling out drugs. These vendors take responsibilities of making sure ordered drugs from the Darknet arrive to their buyers. According to the investigation, the drugs are normally packaged and sent to buyers through the various postal carriers.</p>

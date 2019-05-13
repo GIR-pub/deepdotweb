@@ -9,7 +9,7 @@ Uncompensated Drug Mule Reported Dealers to Cops
     <span><a href="https://www.deepdotweb.com/2017/06/30/uncompensated-drug-mule-reported-dealers-cops/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to the Ministry of Internal Affairs in Penza, a city in Penza Oblast, Russia, <a href="https://58.xn--b1aew.xn--p1ai/news/item/10470504">police arrested two drug crime suspects</a> who sold drugs online and operated a drug distribution operation. The men, a 23-year-old and a 24-year-old, sold amphetamine online until June 13. This follows an ongoing investigation into stimulant and cannabinoid smugglers in the region.</p>
     <p>The men, authorities wrote in the press release, rented an apartment in the region and used the apartment to package various substances. Police found several types of drugs at the apartment, totalling more than one kilogram. The majority of the packages contained substituted cathinones or amphetamines, but related arrests revealed that the distributors also shipped cocaine on occasion.</p>
     <p><img class="wp-image-20991 aligncenter" src="/imgs/2017/06/word-image-190.jpeg" srcset="/imgs/2017/06/word-image-190.jpeg 800w, /imgs/2017/06/word-image-190-300x169.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

@@ -9,7 +9,7 @@ Dark Net Vendor In Torhout Arrested
     <span><a href="https://www.deepdotweb.com/2016/11/01/dark-net-vendor-torhout-arrested/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Stijn V., a 25-year-old from Torhout, Belgium, was arrested for allegedly selling chemical drugs on a dark net market. Four of his partners were also busted who are risking lighter prison sentences.</p>
     <p>According to official court documents, Stijn V. accepted payments in bitcoins. Law enforcement authorities were alerted by his activities when an undercover police officer ordered a parcel from the 25-year-old. Investigators screened the package and found fingerprints on it, which led to the arrest of the drug dealers in January 2015.</p>
     <p>The investigation showed the man was dealing with amphetamines and other illegal chemical substances. According to the prosecutor’s office, the vendor received about 2,000 transactions from customers on the dark net. Bitcoin at the time was worth about 184 Euros, now, the virtual currency’s price has emerged to 600 Euros. Authorities wanted to confiscate 4,000 BTC from the man, however, defense argued that the amount police want to seize is higher than the 25-year-old received from customers.</p>

@@ -9,7 +9,7 @@ German Gets Suspended Sentence For The Commercial Trafficking Of Narcotics
     <span><a href="https://www.deepdotweb.com/2017/06/26/german-gets-suspended-sentence-for-the-commercial/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A man from Bopfingen, Germany was <a href="http://www.schwaebische.de/region_artikel,-Drogendealer-bekommt-einmalige-Chance-von-Gericht-_arid,10681041_toid,290.html">given a sentence</a> of two years or suspended prison, along with three years of probation for ordering <a href="https://www.deepdotweb.com/2017/06/08/group-busted-shipping-drugs-inside-lawnmowers/">drugs</a> from the dark web, which he partly resold to local customers for a profit.</p>
     <p>On the morning of June 7, the Ellwangen District Court sentenced the 28-year-old suspect for illicit acquisition and commercial trafficking of <a href="https://www.deepdotweb.com/2017/06/04/french-couple-sentenced-resale-narcotics/">narcotics</a>.</p>
     <p>Along with the two suspended years, the just set the probationary period to three years. In addition, the convicted person must prove that he took part in an outpatient treatment program, and pay 3,000 euros to a non-profit organization located in Tübingen. In addition, he was ordered to pay an additional 2,000 euros since, according to the prosecutor, drug sales should not be worthwhile.</p>

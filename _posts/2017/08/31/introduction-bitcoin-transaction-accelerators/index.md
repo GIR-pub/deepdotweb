@@ -17,7 +17,7 @@ Introduction to Bitcoin Transaction Accelerators
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>As we watch Bitcoin blockchain <a href="https://en.wikipedia.org/wiki/Bitcoin_scalability_problem">scaling issues popup</a>, their weight can be felt by users. The waiting list for BTC transaction sometime grows beyond control, causing users either to pay a large fee or to content with delayed transactions. Some Bitcoin service providers, however, offer Bitcoin transaction accelerator services intended to help clear the pending Bitcoin transactions and make them go through the Bitcoin network smoothly.</p>
     <p>Transaction Accelerators allow users to reduce the waiting time of each transaction during a congestion time by prioritizing transactions. They do so by adding submitted transactions onto their mining networks to ensure that the tx. Is included in the first block mined by the providers. However, this is a process that relies heavily on the provider&#8217;s mining power and is not guaranteed to work 100% of the time due to the luck factor in Bitcoin.</p>

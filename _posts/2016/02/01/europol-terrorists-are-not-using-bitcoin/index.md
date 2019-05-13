@@ -9,7 +9,7 @@ Europol: Terrorists Are Not Using Bitcoin
     <span><a href="https://www.deepdotweb.com/2016/02/01/europol-terrorists-are-not-using-bitcoin/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.ibtimes.co.uk/isis-bitcoin-not-used-by-daesh-terrorists-dark-web-facebook-twitter-still-common-1540319">According to a recent Europol investigation, there is no evidence linking the Islamic State with Bitcoin.</a> It has been feared by both the media and governments that ISIS used Bitcoin or other cryptocurrencies for their cause. This fear increased after the November 13 Paris attacks, and that made Europol conclude an investigation of the case. The official report goes by:</p>
     <p>&#8220;There is no evidence however of IS-financing networks in existence. Despite third party reporting suggesting the use of anonymous currencies like bitcoin by terrorists to finance their activities, this has not been confirmed by law enforcement. The financing of terrorist operations has not undergone any marked changes in the recent past. The sources of funding of the operatives in the EU are largely unknown.&#8221;</p>
     <p>According to experts, possible payment methods for the Islamic State would be bank transfers and cash, instead of Bitcoin. Unlike traditional financing methods, BTC transactions can be easily tracked on a public ledger in real-time, which offers no advantage to the terrorists.</p>

@@ -17,7 +17,7 @@ Utah Man Faces Life Sentence for Selling Drugs on the Darknet
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Utah has once again grabbed headlines on Darknet related news, as a man faces a life sentence for running a store on the Darknet that distributes illicit drugs to buyers.</p>
     <p>28 years old, Aaron Shamon, pleaded not guilty to several criminal counts, but he may be sentenced to a life imprisonment if found guilty.</p>

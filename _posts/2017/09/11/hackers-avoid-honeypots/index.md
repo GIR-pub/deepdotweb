@@ -10,7 +10,7 @@ tag-avoid tag-hackers tag-honeypots">
     <span><a href="https://www.deepdotweb.com/2017/09/11/hackers-avoid-honeypots/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>Honeypots are networks, servers or web applications purposely built to appear vulnerable, thus showing obsolete operating systems and software, open services and ports, in order to attract malign visitors and induce them to try exploiting the system. While in a preceding <a href="https://www.deepdotweb.com/2017/08/24/how-to-setup-your-own-honeypot/">tutorial</a> I explained how to build your own honeypot, here I will explain how hackers try to avoid them, what shrewdness they can apply when surfing the internet looking for victims and how you can fall victim of a honeypot surfing the deep web. Finally we’ll talk about how enterprises system administrators deal with fake access points put in the enterprise’s networks just to steal juicy sensitive data.<img class="wp-image-22495 aligncenter" src="/imgs/2017/09/word-image-26.png" width="695" height="188" srcset="/imgs/2017/09/word-image-26.png 1200w, /imgs/2017/09/word-image-26-300x81.png 300w, /imgs/2017/09/word-image-26-1024x276.png 1024w" sizes="(max-width: 695px) 100vw, 695px" /></p>
     <h2>Scan The Honeypot</h2>

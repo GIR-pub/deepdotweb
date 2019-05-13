@@ -17,7 +17,7 @@ Customs Intercepts California Man’s Packages of Live King Cobras
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On July 25, the Central District of California <a href="https://www.justice.gov/usao-cdca/pr/monterey-park-man-arrested-federal-smuggling-charges-stemming-shipment-live-king-cobras">issued a press release</a> that detailed the arrest of Rodrigo Franco, a 34-year-old California man. According to the criminal complaint, Franco imported king cobras and albino Chinese soft-shelled turtles. After the California man ordered the snakes from an online wildlife dealer, Customs and Border Protection intercepted the mail under the suspicion that the packages contained drugs.</p>
     <p>On March 2, a Customs and Border Protection officer flagged the package as Franco&#8217;s address connected to drug shipments, of some sort. The federal agents avoided these details. However, upon opening the package, the agent found potato chips cans. He then noticed movement inside a can. CBP immediately called the U.S. Fish and Wildlife Service for assistance. To some surprise, the FWS agents recognized the address as well—only not for drugs.</p>

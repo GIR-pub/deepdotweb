@@ -17,7 +17,7 @@ Silk Road Moderator (SSBD) Gets Out Of Prison Receives Blue Card
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><a href="https://www.deepdotweb.com/tag/nash/">Peter Phillip Nash</a>, the former moderator of the Silk Road website, came out of jail after 18 months served. The man Charged with conspiring to traffic drugs and money laundering on the dark web, which carries a minimum of 10 years in prison for the, however, the court realized that Nash was only a minor player and not an “active” member of the Silk Road staff. Last December, Queensland&#8217;s Public Safety Business Agency informed Mr Nash his blue card had been revoked, A successful appeal granted the former moderator a <a href="http://www.thereporter.com.au/news/dark-web-identity-gets-blue-card/3056468/">safety valve relief</a>, which got him a <a href="https://en.wikipedia.org/wiki/Blue_Card_(Australia)">blue card</a>.</p>
     <p>Michelle Howard, a member at Queensland Civil and Administrative Tribunal, published a judgment where she confirmed that Nash was just a website moderator, despite the fact that the man pleaded guilty to conspiring to traffic drugs.</p>

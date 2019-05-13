@@ -9,7 +9,7 @@ German Federal Police Investigated 600 DNM Users Since 2015, Source Says
     <span><a href="https://www.deepdotweb.com/2016/11/20/german-federal-police-investigated-600-dnm-users-since-2015-source-says/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Austrian news outlet <a href="http://www.krone.at/digital/drogenhandel-im-darknet-597-verdaechtige-angezeigt-von-bka-ausgeforscht-story-538765"><em>Kronen Zeitung</em></a> (Krone) spoke with a BKA official about darknet crime in Germany. The source, who did not reveal a name, said the BKA investigated nearly 600 darknet <em>drug</em> buyers and vendors since 2015.</p>
     <p>The number of investigations was for vendors and buyers who resided in Germany; outside of Germany, many more had been investigated but they were not Germany&#8217;s responsibility to pursue. This increasing number, the source said, was why the BKA joined in the “EU-supported project” to fight darknet drug trafficking.</p>
     <p><img class="wp-image-16477 aligncenter" src="/imgs/2016/11/screenshot_2016-11-12_18-22-12-png.png" alt="Screenshot_2016-11-12_18-22-12.png" width="746" height="425" srcset="/imgs/2016/11/screenshot_2016-11-12_18-22-12-png.png 1073w, /imgs/2016/11/screenshot_2016-11-12_18-22-12-png-300x171.png 300w, /imgs/2016/11/screenshot_2016-11-12_18-22-12-png-1024x583.png 1024w" sizes="(max-width: 746px) 100vw, 746px" /></p>

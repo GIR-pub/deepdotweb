@@ -17,7 +17,7 @@ Two Georgia Men Indicted For Darknet Weapon Sales
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On May 31, the U.S. Attorney’s Office of the Northern District of Georgia announced an <a href="https://www.justice.gov/usao-ndga/pr/gun-traffickers-arrested-allegedly-using-dark-web-export-guns-across-world">indictment against two Georgia men</a> for smuggling guns via the darknet. The men sent more than 50 “suspect packages” to at least a dozen countries. The four-year investigating began in Melbourne, Australia, in 2013.</p>
     <p>Customs authorities in Australia intercepted a package that contained a karaoke machine. And within the karaoke machine, authorities found a pistol. They then questioned the package&#8217;s recipient and gathered intel on the shipper. Upon package seizure, Customs knew that someone from Georgia shipped the package.</p>

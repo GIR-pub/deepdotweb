@@ -10,7 +10,7 @@ Russia Goes After Tor, VPNs, and Proxies in Latest Bill
     <span><a href="https://www.deepdotweb.com/2017/08/10/russia-goes-tor-vpns-proxies-latest-bill/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In Russia, a bill further restricting internet freedom and privacy has come close to becoming law. The bill finally takes steps to prevent the public from using <a href="https://www.deepdotweb.com/tag/tor/">Tor</a>, <a href="https://www.deepdotweb.com/tag/vpn/">VPNs</a>, and <a href="https://www.deepdotweb.com/tag/proxy/">web proxies</a>. All that remains before the bill becomes a law is the signature of President Vladimir Putin. Both the Russian Parliament and the Russian Federation Council approved the bill in late July.</p>
     <p>Russia is well known for the alleged suppression of free speech through state-sponsored censorship all the way down to physical abuse of reporters and journalists. Although the Russian constitution enables the freedom of speech and freedom of press, this has rarely been reflected in reports from journalist advocacy groups and freedom of speech organizations—the majority of which operate outside of Russia. For example, in 2013, Russia ranked 148 out of 179 countries in the <a href="https://freedomhouse.org/report/freedom-press/2015/russia">Press Freedom Index</a>.</p>
     <p><img class="wp-image-21869 aligncenter" src="/imgs/2017/08/screenshot_2017-07-27_15-08-35-png.png" alt="Screenshot_2017-07-27_15-08-35.png" srcset="/imgs/2017/08/screenshot_2017-07-27_15-08-35-png.png 700w, /imgs/2017/08/screenshot_2017-07-27_15-08-35-png-300x133.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>

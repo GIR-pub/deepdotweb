@@ -9,7 +9,7 @@ DdoS Attacks Causing Panic for IT Pro’s
     <span><a href="https://www.deepdotweb.com/2016/07/12/ddos-attacks-causing-panic-pros/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A new survey has IT pro’s scared to death, if it’s results are correct about the threat of DdoS extortions.</p>
     <p>IT security professionals are in an uproar over a DdoS-extortion attack sometime in the next year. A new report show that about 80 percent of them fear they’ll be targeted in such attacks within the next 12 months. <a href="http://www.scmagazineuk.com/80-percent-of-euro-businesses-fear-ddos-extortion/article/507715/">Corero Network Security</a> released the report, that is based off of a 103 attendee survey taken at the Info security Europe event in London.</p>
     <p>These attacks ae one of the most popular tools in a hacker’s arsenal these days. These distributed denial of service attacks work by flooding the targeted victim with traffic. Mainly done with an army of botnets, so that it would seem that millions of people are all visiting the site at that one particular time.</p>

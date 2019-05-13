@@ -17,7 +17,7 @@ Darknet Bust: Global Law Enforcement Raids Massive Counterfeiting Organization
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Many law enforcement agencies, each with their own name for the operation, just arrested an extensive counterfeiting organization. Most of the investigation took place in Naples, Italy. During the hunt for the distributor of more than 600,000 <a href="https://www.deepdotweb.com/2016/12/07/counterfeit-euros-new-trend-among-dark-net-criminals/">counterfeit euros</a>, the investigation crossed borders. From Naples, notes traveled to Spain—with law enforcement close behind—then Portugal, Malta, France, and Germany. Europol arrested eight key players and several countries identified suspects of their own.</p>
     <p>In Naples, the Special Unit Currency Police and Tax Police Unit of the Guardia executed the first arrest warrant. The Public Prosecutor of Brescia Republic’s warrant disclosed information about 16 suspects within Italy. <a href="http://www.lostrillone.tv/mobile/index.php?pag=leggi&amp;id=11510">Each suspect elicited a potentially different investigative</a> scope. For instance, the warrant ordered the capture of four individuals—officials jailed one suspect and placed three under house arrest. The warrant also called for the seizure of 7,700,000 euros.</p>

@@ -9,7 +9,7 @@ Three Arrested In German Vendor Shop Bust
     <span><a href="https://www.deepdotweb.com/2016/11/25/three-arrested-german-vendor-shop-bust/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Cybercrime Regional Center <a href="http://www.wetter.de/cms/anklage-nach-zerschlagung-eines-drogen-shops-im-darknet-4035931.html">accused three suspects</a> who are believed to be connected to a German <a href="https://www.deepdotweb.com/tag/vendor/">vendor</a> shop selling <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> on a German language “Dark Net Market Forum.” A 31-year-old and a 54-year-old are charged with the distribution of drugs on the dark web while a 25-year-old is accused of buying illegal substances from the vendor shop for resale.</p>
     <p>According to the General Public Prosecutor’s Office in Koblenz, the 31-year-old and the 54-year-old vendor duo distributed narcotics from October 2015 to August 2016. They only accepted BTC as payment and advertised that they ship out their product by the national postal service within one day. Law enforcement authorities said the two vendors sold a total of 5,300 grams of amphetamine, 550 grams of heroin, 660 grams of cocaine, 400 grams of MDMA, 1,800 grams of hash, and 1,100 ecstasy pills in 570 orders.</p>
     <p>In August, police raided six locations in the Regensburg area and seized drugs with a market value of 130,000 euros. In addition to that, authorities confiscated bitcoins worth 330,000 euros from the 31-year-old accused. All three suspects remained silent at their court hearings. The charges were made by the Mainz District Court since narcotics were also sent to the Rhineland-Palatinate state capital.</p>

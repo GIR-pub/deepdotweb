@@ -9,7 +9,7 @@ Survey &#8211; Evaluating the Vulnerabilities of Electronic Payment Systems (Par
     <span><a href="https://www.deepdotweb.com/2017/02/27/survey-evaluating-vulnerabilities-electronic-payment-systems-part-1/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Online payment methods are gaining popularity at a furious pace. Tens of electronic payment systems are available presently with strong levels of security; however, attack procedures and hacking techniques are also advancing at a high rate. University of Paris published a survey that examined the security of various electronic payment systems. The research focused on dominant systems as well as innovative and experimental systems in an attempt to improve the current security level of various payment systems.</p>
     <p>The survey examined Card-present (CP) transactions while reviewing its dominant system, i.e. EMV, including some studies done at Cambridge University to delineate variant attack types against this standard which has proven that &#8220;offline&#8221; authentication methods are inheritably insecure and that is the reason underlying the use of smart cards rather than magnetic stripe cards which don&#8217;t take part in the authentication process. The survey also examined the security level of the following payment systems:</p>
     <p>1- Card-not-present transactions methods such as 3D SET, 3D Secure, SET/EMV and EMV/CAP.</p>

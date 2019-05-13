@@ -9,7 +9,7 @@ Bitcoins Seized by Law Enforcement Agencies to Be Auctioned by Wilsons Auction H
     <span><a href="https://www.deepdotweb.com/2019/03/13/bitcoins-seized-by-law-enforcement-agencies-to-be-auctioned-by-wilsons-auction-house/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Wilsons Private Auctioneering House is set to hold an online bitcoin auction in Europe for a whole 24 hours from February 28th at midday to 1st March. The bitcoins to be sold are those that were <a href="https://www.wilsonsauctions.com/news/wilsons-auctions-marks-new-belgium-contract-with-launch-of-first-bitcoin-auction/">seized by the Belgian federal government as proceeds from a drug ring</a> which was convicted for selling illegal drugs <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">through the dark web</a>.</p>
     <p><strong><img class="wp-image-28617" src="/imgs/2019/03/word-image-8.jpeg" srcset="/imgs/2019/03/word-image-8.jpeg 660w, /imgs/2019/03/word-image-8-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></strong></p>
     <p>The unreserved auction will be held as from 18:00 hours at Wilsons branches of Belfast and Northern Ireland for those who wish to bid physically. It will also be aired online at the same time so that online buyers can engage in the activity.</p>

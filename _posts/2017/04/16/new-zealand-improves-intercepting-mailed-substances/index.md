@@ -9,7 +9,7 @@ New Zealand Improves at Intercepting Mailed Substances
     <span><a href="https://www.deepdotweb.com/2017/04/16/new-zealand-improves-intercepting-mailed-substances/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The UN Office on Drugs and Crime registers, every week, a new “designer drug,” a senior scientist at the Institute of Environmental Science and Research explained. He explained that chemists created designer drugs for two major reasons. He only cared about one. The one he focused on involved avoiding detection at New Zealand’s borders. <a href="https://www.deepdotweb.com/?s=New+Zealand+">Substance detection at the New Zealand border</a> fell behind as new chemicals spawned weekly.</p>
     <p>As drugs with tweaked structures emerge, law enforcement—customs in particular—find the identification increasingly difficult. Cameron Johnson, a researcher at the Institute of Environmental Science and Research (ESR), used 3-chloromethcathinone as a primary example of the he explained to <a href="http://www.stuff.co.nz/science/90497871/the-sophisticated-science-behind-stopping-drugs-at-new-zealands-borders">stuff.co.nz</a>. That drug, 3-chloromethcathinone, came from the addition of a chlorine atom on the phenyl ring of the drug’s base molecular structure methcathinone. Of course, methcathinone is a pseudo-analog of methamphetamine.</p>
     <p>&#8220;They make the tweaks to mimic the controlled substances,&#8221; Johnson said. &#8220;Whether it makes them more potent or less potent is unknown because these things are so new. There&#8217;s not a lot research done on them, which highlights the danger they pose to New Zealanders.&#8221;</p>

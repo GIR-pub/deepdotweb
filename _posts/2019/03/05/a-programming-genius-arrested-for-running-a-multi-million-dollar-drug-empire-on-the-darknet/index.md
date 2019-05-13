@@ -9,7 +9,7 @@ A Programming Genius Arrested for Running a Multi-Million Dollar Drug Empire on 
     <span><a href="https://www.deepdotweb.com/2019/03/05/a-programming-genius-arrested-for-running-a-multi-million-dollar-drug-empire-on-the-darknet/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 46-year-old man identified as Paul Le Roux, a former computer programmer, was arrested for trafficking drugs, weapons, and <a href="https://www.dailymail.co.uk/news/article-6712945/Amazing-story-350-pound-programming-genius-Jeff-Bezos-dark-web.html">gold via the dark web</a>. He is considered to be the coordinator of one of the biggest organized criminal groups, an attribute that earned him the nickname, ‘the Jeff Bezos of international organized criminal activities.’<img class="wp-image-28527 aligncenter" src="/imgs/2019/03/word-image-2.jpeg" srcset="/imgs/2019/03/word-image-2.jpeg 660w, /imgs/2019/03/word-image-2-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>Apart from trafficking, Le Roux provided hitmen who could be hired to murder people. He also had professional soldiers across various continents whose services were used in attempt to overthrow current governments.</p>
     <p>His illicit activities earned him an enormous amount of $250 million per year, which allowed him to buy lavish homes in various locations, including Hong Kong and the Philippines, and enabled him to live a <a href="https://www.deepdotweb.com/2018/12/23/convicted-dark-web-drug-trafficker-to-pay-300000-euros-to-the-state/">luxurious life</a>. Le Roux aimed at having an online store that sold anything people desired.</p>

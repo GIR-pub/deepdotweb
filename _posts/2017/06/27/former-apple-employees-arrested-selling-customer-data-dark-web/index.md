@@ -9,7 +9,7 @@ Former Apple Employees Arrested For Selling Customer Data on Dark Web
     <span><a href="https://www.deepdotweb.com/2017/06/27/former-apple-employees-arrested-selling-customer-data-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On June 7, after months of investigation, 22 people were arrested in the Southern province of Zhejiang, China, for stealing <a href="https://www.deepdotweb.com/2016/11/05/apple-fbi-spying-possible-even-encryption/">Apple</a> customer information and selling it on the dark web.<img class="wp-image-20932 aligncenter" src="/imgs/2017/06/word-image-46.png" srcset="/imgs/2017/06/word-image-46.png 650w, /imgs/2017/06/word-image-46-300x169.png 300w" sizes="(max-width: 650px) 100vw, 650px" /></p>
     <p>The cyber criminal group gathered sensitive personal data from Apple consumers such as names, addresses and Apple IDs amongst other types and sold batches of information on darknet marketplaces for around $1.50 per account.</p>
     <p>According to Graham Cluley, award-winning computer security analyst, the Chinese criminal group profited more than $7.36 million in a relatively short period of time.</p>

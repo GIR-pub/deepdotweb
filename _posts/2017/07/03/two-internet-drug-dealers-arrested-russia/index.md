@@ -9,7 +9,7 @@ Two More Internet Drug Dealers Arrested in Russia
     <span><a href="https://www.deepdotweb.com/2017/07/03/two-internet-drug-dealers-arrested-russia/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>As a result of an ongoing operation into drug trafficking on the area, the Federal Drug Control Service of the Russian Federation (FSKN) arrested two members of a group responsible for the production and distribution of amphetamine in St. Petersburg. The two suspects sold their products through an <a href="http://www.deepdotweb.com/marketplace-directory/listing/ramp-russian-anonymous-marketplace/">online drug store</a>.</p>
     <p>The FSKN identified an organized crime ring operating out of St. Petersburg, a Russian port city. In late May, officials in the Leningrad region annoyed the arrests statistics for arrests in the Leningrad region and St. Petersburg in particular. The arrests were a part of an ongoing and permanent operation in the Northwestern Federal District. (The Children of <a href="https://www.deepdotweb.com/tag/Russia">Russia</a> 2017 campaign is not exclusive to the Northwestern Federal District, but this specific operation was linked to the 11 regions within it. Other Districts are currently running their own operations and campaigns.)</p>
     <p><img class="wp-image-21067 aligncenter" src="/imgs/2017/07/word-image-12.jpeg" srcset="/imgs/2017/07/word-image-12.jpeg 800w, /imgs/2017/07/word-image-12-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

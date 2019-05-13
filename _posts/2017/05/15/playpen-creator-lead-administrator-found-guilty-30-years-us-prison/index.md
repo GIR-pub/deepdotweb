@@ -9,7 +9,7 @@ Playpen Creator &#038; Lead Administrator Found Guilty, 30 Years in US Prison
     <span><a href="https://www.deepdotweb.com/2017/05/15/playpen-creator-lead-administrator-found-guilty-30-years-us-prison/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On May 1, Steven Chase, a 58-year-old creator and lead administrator of Playpen, was officially sentenced to 30 years in prison by US District Judge Richard Voorhees of the Western District of North Carolina. Chase was also required to forfeit his residence in Naples and accept a lifetime term of supervised release.</p>
     <p>Playpen is a sophisticated dark web marketplace and platform developed to distribute child pornography on the Tor anonymity network. Various law enforcement agencies across the world have collaborated to crackdown Playpen and reveal the identities of its administrators, founders and moderators.</p>
     <p>So far, five Playpen administrators including Chase have been arrested, charged and sentenced. Two months ago, DeepDotWeb <a href="https://www.deepdotweb.com/2017/03/11/fourth-playpen-moderator-gets-20-year-sentence-promoting-child-porn/">reported</a> that a 47-year-old moderator of Playpen by the name of David Lynn Browning was sentenced to 20 years in prison. The sentencing of Chase marks the fifth arrest and conviction of Playpen-related criminals and moderators.</p>

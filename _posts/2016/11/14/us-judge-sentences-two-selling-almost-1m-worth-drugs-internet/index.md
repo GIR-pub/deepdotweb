@@ -9,7 +9,7 @@ US Judge Sentences Two for Selling Almost $1M Worth of Drugs on the Internet
     <span><a href="https://www.deepdotweb.com/2016/11/14/us-judge-sentences-two-selling-almost-1m-worth-drugs-internet/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Department of Justice announced that two Pakistani nationals were sentenced for shipping more than $780,000 drugs into the US. Both men were sentenced by Judge Beryl Howell of the U.S. District Court in the District of Columbia. London police arrested the suspects in 2012 and extradited them to US on a 48-count indictment.</p>
     <p>Sheikh Waseem Ul Haq, 43, and Tahir Saeed, 54, operated an illegal online pharmacy. Between 2005 and 2012, the two shipped out $2m worth of pharmaceuticals to customers worldwide, operating from the UK and Pakistan. The US received $780,000 worth of the illegal pharmaceuticals, setting both men in US law enforcement’s scope.</p>
     <p>Both defendants were arrested at Heathrow Airport by the London Metropolitan Police Service Fugitive Squad in 2012. They were then extradited to the US and have been sitting in federal custody since the extradition.</p>

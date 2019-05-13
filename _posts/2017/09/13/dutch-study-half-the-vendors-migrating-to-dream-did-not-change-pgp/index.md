@@ -10,7 +10,7 @@ Dutch Study: Half The Vendors Migrating To Dream Did Not Change PGP
     <span><a href="https://www.deepdotweb.com/2017/09/13/dutch-study-half-the-vendors-migrating-to-dream-did-not-change-pgp/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A <a href="https://www.tno.nl/media/10032/17-9099-factsheetbrochure-dws-05.pdf">recent study</a> by Dutch researchers shows that over half of the vendors who migrated to the Dream Market after Operation Bayonet, did not change their usernames and PGP setups.</p>
     <p>The Dutch research institution TNO released a study, in which the researchers analyzed the dark web markets – with a special focus on the vendors – after law enforcement authorities took down AlphaBay and Hansa in a coordinated global action, Operation Bayonet.</p>
     <p>On July 20, multiple law enforcement agencies, including the Europol and the U.S. Department of Justice, <a href="https://www.deepdotweb.com/2017/07/20/globally-coordinated-operation-just-took-alphabay-hansa/">announced</a> the takedown of Hansa and <a href="https://www.deepdotweb.com/tag/alphabay/">AlphaBay</a>. At the time, when AlphaBay went down, the users of the marketplace suspected an exit scam, however, it was a globally coordinated law enforcement action. On July 12, Thai authorities arrested Alexandre Cazes, 26, one of the administrators of AlphaBay. The next day, a prison guard found the 26-year-old Canadian <a href="https://www.deepdotweb.com/2017/07/14/alleged-alphabay-admin-found-dead-bangkok-jail/">hanged</a> in his cell.</p>

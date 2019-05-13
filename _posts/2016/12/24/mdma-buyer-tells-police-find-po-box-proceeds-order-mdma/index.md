@@ -9,7 +9,7 @@ MDMA Buyer Tells Police Where to Find His PO Box, Proceeds to Order More MDMA
     <span><a href="https://www.deepdotweb.com/2016/12/24/mdma-buyer-tells-police-find-po-box-proceeds-order-mdma/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On December 29, 2015, Liam Tomas Yemm hid MDMA inside a makeup bag in his car. Later on, at the yearly Falls Festival, drug dogs hit on his vehicle and subsequently found the MDMA. He admitted that the MDMA came from the darknet—on Nucleus—and that he purchased it with Bitcoin. A thorough sweep of his car yielded further incriminating evidence: a scale, gelatin capsules, and plastic bags.</p>
     <p>Yemm, nearly a year later, pleaded guilty to drug possession charges. The Hobart Magistrates Court heard the prosecution explain that the dogs hit on Yemm’s vehicle, resulting in a search of the man’s car. In the car, officers found there evidence required to charge Yemm with conspiracy to distribute. The drugs, scales, and capsules finalized that.</p>
     <p><img class="wp-image-17128 aligncenter" src="/imgs/2016/12/word-image-28.jpeg" width="706" height="471" srcset="/imgs/2016/12/word-image-28.jpeg 940w, /imgs/2016/12/word-image-28-300x200.jpeg 300w" sizes="(max-width: 706px) 100vw, 706px"/></p>

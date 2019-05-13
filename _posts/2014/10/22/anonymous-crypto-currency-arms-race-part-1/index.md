@@ -9,7 +9,7 @@ The Anonymous Crypto-Currency Arms Race Part 1
     <span><a href="https://www.deepdotweb.com/2014/10/22/anonymous-crypto-currency-arms-race-part-1/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><em>All the parts are available in the <a href="http://www.deepdotweb.com/tag/ArmsRace/">Armsrace Tag</a>  &#8211; Once published</em></p>
     <p>While the world focuses on the many historical events happening around the world &#8211; the increasing divide between the west and Russia, Israel killing Palestinians, the Ebola outbreak in West Africa, and a heated Southeast Asian sea – there is an even more important event happening in the dark corners of the web. Since the deep web&#8217;s earliest days, the technology and business practices used have been improving steadily. Marketplaces have been getting better at avoiding economic oppression and making buying drugs as pleasant as buying an iPhone off e-bay. It is safe to say the emergence of Bitcoin was a great boost to the underground marketplaces. The deep web had marketplaces made for the internet but didn&#8217;t a currency made for the internet.</p>
     <p><strong>Hidden For All to See</strong></p>

@@ -18,7 +18,7 @@
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><strong>Russian Authorities Announced RAMP Takedown</strong></p>
     <p>The Russian Anonymous Marketplace (RAMP), after the <a href="https://www.deepdotweb.com/2017/07/20/globally-coordinated-operation-just-took-alphabay-hansa/">Alphabay and Hansa takedown</a>, effectively tied with <a href="http://www.deepdotweb.com/marketplace-directory/listing/dream-market/">Dream market</a> for <a href="https://www.deepdotweb.com/2017/07/12/alphabaydown-whosnext/">market share and popularity</a>. Many English speaking market users had never heard of the site, given that it was primarily for Russia, Ukraine, and other nearby countries. Most sales were dead drops. Very little shipping ever occurred. But, even if the death of RAMP changed nothing but for RAMP users, it marked a new moment in darknet market history.</p>

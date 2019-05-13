@@ -9,7 +9,7 @@ Europol Arrested 76 Suspects In Europe-Wide Operation Against Carders
     <span><a href="https://www.deepdotweb.com/2017/07/10/europol-arrested-76-suspects-europe-wide-operation-carders/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In a recent operation against online fraudsters, the Europol <a href="https://www.rte.ie/news/technology/2017/0621/884459-online-fraud/">arrested</a> 76 persons in 26 countries who are suspected of committing <a href="https://www.deepdotweb.com/2017/06/22/two-members-spain-based-mobile-phone-fraud-network-arrested/">fraud</a> using stolen <a href="https://www.deepdotweb.com/2017/05/19/two-suspects-arrested-florida-credit-card-skimming-scheme/">credit card</a> information.</p>
     <p>The law enforcement operation, “eCommerce Action 2017”, was coordinated by the European Cybercrime Centre (EC3) to take down cyber criminals who are using stolen financial information, with the main focus on credit and debit cards, to purchase goods from eCommerce stores.</p>
     <p>According to the Europol, the 76 arrested suspects were responsible for conducting over 20,000 fraudulent transactions using compromised credit cards worth over 5 million euros. In the operation, financial institutes, e-merchants, logistics firms, and credit card issuers provided law enforcement authorities information to help the investigation against the fraudsters.</p>

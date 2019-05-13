@@ -9,7 +9,7 @@ Former Employee of Healthcare Giant Sells Data of 1 Million Clients on Dark Web
     <span><a href="https://www.deepdotweb.com/2017/08/02/former-employee-healthcare-giant-sells-data-1-million-clients-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>Former employee of Bupa, the multi-billion dollar healthcare giant with over 84,000 employees, was fired from the company after selling between 500,000 and 1 million medical records on the dark web.</p>
     <p><img class="wp-image-21699 aligncenter" src="/imgs/2017/08/word-image.png" srcset="/imgs/2017/08/word-image.png 541w, /imgs/2017/08/word-image-300x156.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></p>

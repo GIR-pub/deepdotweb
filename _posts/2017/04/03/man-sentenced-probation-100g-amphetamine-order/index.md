@@ -9,7 +9,7 @@ Man Sentenced to Probation for 100g Amphetamine Order
     <span><a href="https://www.deepdotweb.com/2017/04/03/man-sentenced-probation-100g-amphetamine-order/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>On March 16, a 26-year-old from Weissenhorn stood before a judge at the Supreme Court of Appeals on amphetamine distribution charges. The 26-year-old ordered the drug once – in 2014. And the order involved no intended distribution. He simply wanted amphetamine; he used it as early as age twelve—thanks, in part, to his mother—an amphetamine user as well. As a result, he left the courtroom free of amphetamine distribution charges.</p>
     <p>&#8220;<a href="http://www.swp.de/ulm/lokales/kreis_neu_ulm/im-darknet-drogen-bestellt-14612678.html">It was an exceptional case in several respects</a>,&#8221; one news outlet wrote. Government officials considered the case unique as well. Perhaps the most noteworthy piece of evidence involved the date he ordered amphetamine. Early 2014. But the investigation indirectly started in 2015. The defendant’s life changed dramatically between the darknet marketplace order and 2017—an element that impressed the judge and improved the chances of a light sentence.</p>

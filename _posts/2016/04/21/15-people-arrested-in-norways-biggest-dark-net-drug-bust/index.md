@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2016/04/21/15-people-arrested-in-norways-biggest-dark-net-drug-bust/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.thelocal.no/20160419/norway-police-charge-15-for-dealing-drugs-on-dark-web">15 people were arrested in what Norway</a> is calling their biggest drug bust ever to target dark net.</p>
     <p>The case originated in the FBI&#8217;s  2013 closure of Silk Road. American authorities were able to access a list of sellers and clients names. Among the names were hundreds of Norwegian traders who operated on Silk Road. The operators also traded under aliases from other markets, that were linked back  to the user names on Sink Road.</p>
     <p><img class="aligncenter size-full wp-image-13817" src="/imgs/2016/04/kripos.jpg" alt="kripos" width="245" height="150" /></p>

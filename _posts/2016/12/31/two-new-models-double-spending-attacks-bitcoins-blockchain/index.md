@@ -9,7 +9,7 @@ Two New Models For Double Spending Attacks On Bitcoin&#8217;s Blockchain
     <span><a href="https://www.deepdotweb.com/2016/12/31/two-new-models-double-spending-attacks-bitcoins-blockchain/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.deepdotweb.com/2016/10/06/cryptocurrency-hacks-biggest-heists-blockchain-history/">Counterfeiting a digital signature on bitcoin&#8217;s blockchain</a> is a significantly hard task to execute successfully in terms of processing power. Accordingly, it is almost impossible to change a bitcoin transaction that has been already been signed. Nevertheless, it is still possible to alter the state of a valid transaction via a technique known as &#8220;double spend attack&#8221; that requires enormous processing power.</p>
     <p><img class="wp-image-17250 aligncenter" src="/imgs/2016/12/double-spend-cartoon-jpg.jpeg" alt="double spend cartoon.jpg" srcset="/imgs/2016/12/double-spend-cartoon-jpg.jpeg 638w, /imgs/2016/12/double-spend-cartoon-jpg-300x225.jpeg 300w" sizes="(max-width: 638px) 100vw, 638px"/></p>
     <p>Here are the elements of a successful double spend attack:</p>

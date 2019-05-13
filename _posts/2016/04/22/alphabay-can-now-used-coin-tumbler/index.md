@@ -9,7 +9,7 @@ Alphabay Can Now Be Used As a Coin Tumbler
     <span><a href="https://www.deepdotweb.com/2016/04/22/alphabay-can-now-used-coin-tumbler/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Those of you who use Coin tumblers that charge them up to 3% of their transaction amount might want to try this new feature on <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay Market</a>, as their homepage states:</p>
     <blockquote><p>Alphabay can now safely be used as a <b>coin tumbler</b>! This means that no level of blockchain analysis can prove that your coins come from Alphabay since we use our own obfuscation technology. Making a deposit and withdrawing after is now a way to tumble your coins and break the link to the source of the funds. Since tumbling is not illegal, and since we leave no paper trail, you now have ironclad plausible deniabilty with your Bitcoins.</p></blockquote>
     <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay&#8217;s</a> withdrawal fee is a fixed to 0.001 BTC contrary to most mixer who charge up to 3% from the transaction amount, and allows you to input up to 5 different addresses for a single withdrawal &#8211; each withdrawal will be randomly split across those addresses along with an optional random delay in sending of up to 24 hours:</p>

@@ -9,7 +9,7 @@ The Darknet Shut Down Is A Model for Future Operation, Says Europol Official
     <span><a href="https://www.deepdotweb.com/2017/08/12/darknet-shut-model-future-operation-says-europol-official/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Different agencies across Europe and America took the responsibility to submit the ever growing drug overdose under control. Many drug users and possessors have been arrested in the past, but that seems to have not had any effect on the drug use.</p>
     <p>The agencies this time resorted to uprooting the root of the drug supplies, for the overdose control to fall into place automatically. Even though the FBI launched a similar attack in 2013 on the Old Silk Road, drug trade on the Darknet never ceased to rise after that operation.</p>
     <p><img class="wp-image-21920 aligncenter" src="/imgs/2017/08/word-image-7.png" /></p>

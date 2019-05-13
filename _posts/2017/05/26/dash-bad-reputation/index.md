@@ -9,7 +9,7 @@ Why does Dash have a bad reputation?
     <span><a href="https://www.deepdotweb.com/2017/05/26/dash-bad-reputation/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><em>*This article is meant to present an unbiased review of Dash (formerly <a href="https://www.deepdotweb.com/tag/darkcoin/">darkcoin</a>) and the facts surrounding it. I do not hold any of the coins mentioned (including Monero) in this article in any quantity.*</em></p>
     <p>So you may have seen announcements recently about Monero being introduced in addition to Bitcoin on several darknet markets such as <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a>. <a href="https://www.deepdotweb.com/tag/monero/">Monero</a> is a currency offering anonymous transactions through ring signatures. However, if you have been following altcoins recently, you may have noticed that Dash’s market cap is significantly larger than Monero as seen in the picture below.</p>
     <p><img class="wp-image-20157 aligncenter" src="/imgs/2017/05/word-image-105.png" width="861" height="186" srcset="/imgs/2017/05/word-image-105.png 1112w, /imgs/2017/05/word-image-105-300x65.png 300w, /imgs/2017/05/word-image-105-1024x221.png 1024w" sizes="(max-width: 861px) 100vw, 861px" /></p>

@@ -9,7 +9,7 @@ Cybersecurity Insurance Market to Increase by 3X to $10 Billion in 2020
     <span><a href="https://www.deepdotweb.com/2017/05/28/cybersecurity-insurance-market-increase-3x-10-billion-2020/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The demand for cyber security systems and solutions have been on the rise as a result of the emergence of complex and highly sophisticated ransomware, hacking attacks and security breaches. Although analysts agree that prevention is the optimal solution against ransomware attacks and other forms of hacking attacks, companies have begun to seek cyber security insurance as ransomware attacks began to inflict significant financial damages to organizations.</p>
     <p><img class="wp-image-20193 aligncenter" src="/imgs/2017/05/word-image-113.png" srcset="/imgs/2017/05/word-image-113.png 660w, /imgs/2017/05/word-image-113-300x169.png 300w" sizes="(max-width: 660px) 100vw, 660px"/></p>
     <p>Over the past few years, various bitcoin demanding ransomware have breached into the systems of corporations and hundreds of thousands of personal computers worldwide. DeepDotWeb previously reported that investment on security firms substantially increased due to the rising demand toward cyber security and protection.</p>

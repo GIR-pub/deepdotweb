@@ -9,7 +9,7 @@ Police Say Fentanyl Bust Has Ties To Dark Net
     <span><a href="https://www.deepdotweb.com/2016/05/30/police-say-fentanyl-bust-ties-dark-net/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A major fentanyl distribution operation was busted up on Thursday in Connecticut. The operation is believed to have ties to the Dark Net.</p>
     <p><a href="http://www.vocativ.com/320798/dark-net-drug-bust-nets-two-kilos-of-fentanyl/">Connecticut police arrested nine people</a> and took 2 ½ kilos of fentanyl, two kilos of MDMA, 50,000 counterfeit Xanax pills, 40 pounds of marijuana, two guns, and $500,000 in cold hard cash. Ongoing investigations have led police to believe that most of the fentanyl found in New England is being produced in China, and sold on Dark Net.</p>
     <p><a href="/imgs/2016/05/fent.jpg"><img class="aligncenter size-full wp-image-14293" src="/imgs/2016/05/fent.jpg" alt="fent" width="744" height="800" srcset="/imgs/2016/05/fent.jpg 744w, /imgs/2016/05/fent-279x300.jpg 279w" sizes="(max-width: 744px) 100vw, 744px"/></a></p>

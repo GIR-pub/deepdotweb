@@ -9,7 +9,7 @@ The Colorful World of Reagents
     <span><a href="https://www.deepdotweb.com/2016/05/27/colorful-world-reagents/#comments">9 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In composing this article, my hopes are that a better understanding of the reagents (such as Marquis, Mandelin, and Mecke) found in testing kits will encourage their use. Too often drugs can be mislabeled or misrepresented, exposing consumers to the possibility of an unwanted experience. Thankfully testing kits are <a href="http://www.amazon.com/Marquis-Reagent--Test-MDMA-others/dp/B00NS6Q1VK/ref=sr_1_4_a_it?ie=UTF8&amp;qid=1464296605&amp;sr=8-4&amp;keywords=drug+testing+kits+marquis">readily available</a>.</p>
     <p>Testing kits contain liquid reagents that are an inexpensive and private way to verify the presence or absence of a substance within a pill or powder. For those who are unfamiliar, a testing reagent is a solution that is dripped onto a small amount of the substance in question. A reaction then occurs and the resulting color indicates information about the substance. An understanding of why reagents catalyse a unique drug-dependent color change begins with a brief look the perception of color. <a href="/imgs/2016/05/1.png"><img class="aligncenter size-full wp-image-14246" src="/imgs/2016/05/1.png" alt="1" width="225" height="182" /></a></p>
     <p>As visible light is reflected off of an object, it passes through our cornea, enters the pupil, and is focused by a transparent lens onto the fovea of the retina. Light perception begins at the fovea, which contains a high concentration of photoreceptive cells called rods and cones.</p>

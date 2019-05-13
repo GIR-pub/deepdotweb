@@ -9,7 +9,7 @@ Social Networking &#038; The Blockchain Technology &#8211; A Brand New Era
     <span><a href="https://www.deepdotweb.com/2016/12/16/social-networking-blockchain-technology-brand-new-era/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The blockchain technology has not only revolutionized the global financial system, but it has also introduced a new concept of decentralization that is just beginning to change the world around us. When it comes to social networking, blockchains can forge innovative solutions that omit the control and censorship imposed by centralized business corporations such as Facebook, Twitter&#8230;etc.</p>
     <p><strong>How Can The Blockchain Technology Transform Social Networking?</strong></p>
     <p>The blockchain utilizes a public ledger that stores all the data handled by the blockchain protocol. In other words, there is no central server that could be hacked to undermine the protocol; instead, all data stored on the public ledger is broadcast to the whole network and is stored by nodes across the blockchain. Accordingly, a social network that is built using the blockchain protocol will be more &#8220;hack-resistant&#8221; than it would be, if built using a centralized hosting server.</p>

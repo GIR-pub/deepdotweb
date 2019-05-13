@@ -9,7 +9,7 @@ Highly Educated Young Users are Leading Illicit Dark Web Narcotics Trade
     <span><a href="https://www.deepdotweb.com/2017/06/15/highly-educated-young-users-are-leading-illicit-dark-web/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Global Drug Survey and its lead researcher Monica Barratt have found that highly educated young users have been leading illicit dark web narcotics trade over the past year.</p>
     <p><img class="wp-image-20653 aligncenter" src="/imgs/2017/06/word-image-28.png" width="464" height="258" srcset="/imgs/2017/06/word-image-28.png 900w, /imgs/2017/06/word-image-28-300x167.png 300w" sizes="(max-width: 464px) 100vw, 464px" /></p>
     <p>According to the findings of the Global Drug Survey, users of dark web that order illicit drugs and narcotics using darknet marketplaces are likely to be male, young and recipients of high level education.</p>

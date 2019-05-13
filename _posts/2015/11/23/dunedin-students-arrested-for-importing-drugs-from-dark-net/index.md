@@ -9,7 +9,7 @@ Dunedin Students Arrested For Importing Drugs From Dark Net
     <span><a href="https://www.deepdotweb.com/2015/11/23/dunedin-students-arrested-for-importing-drugs-from-dark-net/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.odt.co.nz/news/dunedin/363444/students-arrested-raids">Two Otago University students (aged 23) have been arrested for importing drugs from dark net markets and selling them on the streets.</a> The police raid was a part of a joint action called Operation Albany, which was conducted at two properties located in the university area of Dunedin on November 16. The two drug-dealing students were granted name suppression by court after being charged with importing and supplying drugs from the dark web.</p>
     <p>As part of the raid, at one address the police found around $18,000 in cash, as well as quantities of cocaine, ecstasy, LSD and prescription medicine packaged for sale on the street, Detective Senior Sergeant Malcolm Inglis stated.</p>
     <p>&#8221;They were all made up in small amounts ready for sale.&#8221;</p>

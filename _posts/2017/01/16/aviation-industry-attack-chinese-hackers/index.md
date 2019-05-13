@@ -9,7 +9,7 @@ Aviation Industry Under Attack By Chinese Hackers
     <span><a href="https://www.deepdotweb.com/2017/01/16/aviation-industry-attack-chinese-hackers/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A recent <a href="http://www.aerotelegraph.com/chinesische-hacker-attackieren-luftfahrtindustrie">study</a> by a security company shows that Chinese hackers are conducting successful cyberattacks on the aviation industry.</p>
     <p><img class="wp-image-17561 aligncenter" src="/imgs/2017/01/http-www-aerotelegraph-com-wp-content-uploads-20.jpeg" alt="http://www.aerotelegraph.com/wp-content/uploads/2016/12/hacker.jpg" srcset="/imgs/2017/01/http-www-aerotelegraph-com-wp-content-uploads-20.jpeg 653w, /imgs/2017/01/http-www-aerotelegraph-com-wp-content-uploads-20-300x145.jpeg 300w" sizes="(max-width: 653px) 100vw, 653px"/></p>
     <p>Long since, security experts have been warning firms and governments against Chinese <a href="https://www.deepdotweb.com/tag/hacker/">hacker</a> attacks aiming at sensitive information and business secrets. Fire Eye, a security software company, released a report showing that the <a href="https://www.deepdotweb.com/tag/cybercrime/">cybercriminals</a> from the Asian country are attacking the flight industry. According to Fire Eye, the breaches are not only frequent, but they are also quite successful.</p>

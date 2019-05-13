@@ -17,7 +17,7 @@ Identity Based Onion Routing &#8211; A Secure and Efficient New Scheme for Tor
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The onion routing internet protocol promotes anonymous networking on various forms of public networks. Today, the are several onion routing schemes, such as Tor, to deploy the anonymous networking protocol across public networks. Despite the fact that the multi-pass schemes for the construction of the cryptographic circuit are somehow satisfactory, their circuit construction algorithms exhibit some drawbacks when it comes to security and efficiency.</p>
     <p><a href="http://www.ripublication.com/ijaer17/ijaerv12n6_41.pdf">A newly published paper</a> proposed a new identity based onion routing scheme that enables users to communicate with public networks via unique anonymous channels. The newly presented scheme excludes interactive and iterative procedures of symmetric keys, between network users and onion routers, via implementing a circuit construction into the process of non-interactive message delivery. It greatly improves the costs of communication, in terms of computing resources and storage capacity, required from each internet user and the onion router, when compared to the previous protocols of onion routing; thus, offering internet users secure anonymous connection to the internet at competitive computation costs.</p>

@@ -9,7 +9,7 @@ Buyer Said Someone Else Used His Name, Charges Dropped
     <span><a href="https://www.deepdotweb.com/2017/07/15/buyer-said-someone-else-used-name-charges-dropped/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Roughly two years ago, a man’s name appeared on a “meticulous” log of buyers that Police seized from a major darknet vendor. That man, a 26-year-old from Gilching, a municipality in Starnberg, went to <a href="http://www.sueddeutsche.de/muenchen/starnberg/gericht-als-fake-adresse-ausgesucht-1.3563093">court in mid-June on ecstasy charges</a>. He denied ever ordering the packages and argued that someone used his name. The defense worked; he left the courtroom a free man.</p>
     <p>The vendor with the “meticulous” list of buyers, while left unnamed in the media releases, was described as a vendor that matched Shiny Flakes perfectly. Courtroom reporters revealed that law enforcement found the name two years ago. The list, found in 2015, belonged to a vendor who operated a massive operation of Leipzig. Reporters revealed one more piece of information: that the vendor received a seven year prison sentence—sentenced as a juvenile.</p>
     <p><img class="wp-image-21352 aligncenter" src="/imgs/2017/07/word-image-73.jpeg" width="560" height="326" srcset="/imgs/2017/07/word-image-73.jpeg 800w, /imgs/2017/07/word-image-73-300x175.jpeg 300w" sizes="(max-width: 560px) 100vw, 560px" /></p>

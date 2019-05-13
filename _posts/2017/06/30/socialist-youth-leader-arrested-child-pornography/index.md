@@ -9,7 +9,7 @@ Socialist Youth Leader Arrested for Child Pornography
     <span><a href="https://www.deepdotweb.com/2017/06/30/socialist-youth-leader-arrested-child-pornography/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The general secretary of the Socialist Youth of Elche (Alicante) was <a href="http://www.lavanguardia.com/sucesos/20170613/423380733181/pornografia-infantil-abusos-secretario-general-juventudes-psoe-lche.html">arrested in early June</a> for the possession of child pornography. The Directorate General of the National Police announced his arrest and incarceration shortly after it occurred. The general secretary was arrested by the National Police after a year-long investigation into child pornography on the <a href="https://www.deepdotweb.com/tag/darknet/">darknet</a>.</p>
     <p>The (potentially former) general secretary of the Socialist Youth of Elche, Alejandro Diaz Chaves, shared child pornography on the darknet for at least one year. During his chats, he told forum members that he abused two different children: one girl around two years of age and another under the age of six.</p>
     <p><img class="wp-image-20994 aligncenter" src="/imgs/2017/06/word-image-192.jpeg" srcset="/imgs/2017/06/word-image-192.jpeg 800w, /imgs/2017/06/word-image-192-300x169.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

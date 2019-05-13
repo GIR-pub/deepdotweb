@@ -9,7 +9,7 @@ Three Arrested In France For Cultivating And Trafficking Marijuana
     <span><a href="https://www.deepdotweb.com/2017/06/20/three-arrested-france-cultivating-trafficking-marijuana/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>One May 30, French police <a href="http://www.breizh-info.com/2017/06/02/70974/pays-de-retz-trois-jeunes-majeurs-faisaient-pousser-cannabis-revendaient-a-saint-hilaire-de-chaleons">arrested</a> three men in Saint-Hilaire de Chaléons, France, who allegedly cultivated cannabis, which they resold to their customers.</p>
     <p><img class="aligncenter wp-image-20758" src="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-cann.jpeg" alt="" width="648" height="365" srcset="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-cann.jpeg 810w, /imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-cann-300x169.jpeg 300w" sizes="(max-width: 648px) 100vw, 648px"/></p>
     <p>The police disclosed that three market gardeners, 18, 20, and 22 years old were all running a narcotic operations, where they grew cannabis at a greenhouse, produced the substance, and resold them to customers. Since there is only a minimal information in the case, we do not know if the suspects used “traditional” ways (selling the drug locally, on the streets) or the dark web to sell the marijuana to their customers.</p>

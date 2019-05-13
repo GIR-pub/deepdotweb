@@ -9,7 +9,7 @@ Bavarian Man Sentenced to Prison for 16 Darknet Purchases in 2013.
     <span><a href="https://www.deepdotweb.com/2016/11/14/bavarian-man-sentenced-prison-16-darknet-purchases-2013/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An electronics engineer from Rosenheim, Bavaria, just received 22 months imprisonment for making 16 separate drug purchases on the darknet. The convoluted case dated back to 2013 and was brought to Bavarian authorities by the US FBI.</p>
     <p>Every aspect of the case was controversial, <em>OVB</em> reported after the trial on November 7. The 28-year-old electronics engineer, currently living in Bad Aibling, made 16 drug purchases on the DNMs. The purchases were from American darknet vendors.</p>
     <p>Prosecutors argued that many more transactions may have existed but only 16 were discovered.</p>

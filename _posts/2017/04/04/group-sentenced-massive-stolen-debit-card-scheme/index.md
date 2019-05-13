@@ -9,7 +9,7 @@ Group Sentenced For Massive Stolen Debit Card Scheme
     <span><a href="https://www.deepdotweb.com/2017/04/04/group-sentenced-massive-stolen-debit-card-scheme/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In March 2017, Senior U.S. District Judge Edward J. Lodge <a href="https://www.justice.gov/usao-id/pr/traveling-crew-sentenced-using-stolen-debit-card-numbers-local-bank">sentenced four for wire fraud</a> conspiracy. Back in December 2016, a federal grand jury convicted six members of the same “crew” on conspiracy to commit wire fraud charges. The four members that Judge Lodge sentenced together received an additional host of independent convictions. And all of them consisted of wire fraud and aggravated identity theft.</p>
     <p>Two members of the so-called “Traveling Crew” pleaded guilty one-week prior to the hearing and then testified against the original four.</p>
     <p>Alejandro Hidalgo, Dilcia Martinez-Marquez, Enrique Matos-Herrera, and Jose Salazar-Quintana received the strictest sentences—save for Martinez-Marquez. In addition to the conspiracy to commit wire fraud convictions that the entire crew received, the four main defendants received convictions for the charges listed below.</p>

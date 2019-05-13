@@ -9,7 +9,7 @@ Belgian Authorities Did Not Find Nuclear Power Plant’s Plans On Dark Web
     <span><a href="https://www.deepdotweb.com/2016/12/01/belgian-authorities-not-find-nuclear-power-plants-plans-dark-web/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Last month, Belgian newspaper Sudpresse reported that they found plans for the Tihange nuclear power plant on the dark web. Now, Belgian authorities say that they <a href="http://www.lalibre.be/actu/belgique/nucleaire-les-services-belges-n-ont-rien-trouve-dans-le-darknet-58346c52cd70a4454c03e011">couldn’t find</a> any information regarding the nuclear power plant on the dark net.</p>
     <p>“Neither the security services or a private company could find the documents on the dark net relating to a Belgian nuclear facility, which security was allegedly jeopardized,” De Miguel Bruycker, the director of the Cyber Security Center said on Tuesday.</p>
     <p>When Sudpresse reported on the issue, the Cyber Security Centre, State Security and Military Intelligence (GISS) immediately started surveying the dark web for information on the compromised facility. The government agencies hired a private security company to help them, and an ethical hacker also joined the search.</p>

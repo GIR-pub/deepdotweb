@@ -9,7 +9,7 @@ The Komodo Platform: Security and Privacy
     <span><a href="https://www.deepdotweb.com/2016/11/25/komodo-platform-security-privacy/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The <a href="https://komodoplatform.com/">Komodo Platform</a> is a cryptocurrency project that uses zero knowledge proofs to provide true anonymity for its users, allowing them to choose between transparent and private transactions according to the circumstances. The Komodo blockchain is protected by the delayed Proof of Work mechanism, a consensus protocol built by the SuperNET team. It allows Komodo to notarize its blocks on the Bitcoin blockchain, making its security second only to Bitcoin itself.</p>
     <p>Delayed Proof of Work (dPoW) relies on notary nodes, special nodes that have been voted on and selected by the community, to import data from the Komodo blockchain onto Bitcoin, notarizing the transactions that have occurred within the Komodo Platform. The data is then brought back to Komodo by these same nodes. This process is done through custom transactions created on the Bitcoin blockchain &#8211; <a href="https://komodoplatform.com/whitepaper">Read the Delayed Proof of Work Whitepaper</a></p>
     <p><img class="wp-image-16577 aligncenter" src="/imgs/2016/11/word-image-31.png" srcset="/imgs/2016/11/word-image-31.png 731w, /imgs/2016/11/word-image-31-300x220.png 300w" sizes="(max-width: 731px) 100vw, 731px"/></p>

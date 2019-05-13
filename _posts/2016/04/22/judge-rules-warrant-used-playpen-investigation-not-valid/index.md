@@ -9,7 +9,7 @@ Judge Rules Warrant Used in PlayPen Investigation Not Valid
     <span><a href="https://www.deepdotweb.com/2016/04/22/judge-rules-warrant-used-playpen-investigation-not-valid/#comments">14 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A <a href="https://www.documentcloud.org/documents/2806358-16-4-20-Order-Motion-to-Suppress.html" target="_blank">ruling</a> by a US federal judge William Young today declared that the magistrate judge who issued a warrant authorizing the FBI to infect suspects&#8217; PC&#8217;s with tracking malware lacked all of the authority to do so.</p>
     <p><a href="https://www.deepdotweb.com/2016/02/26/fbi-wages-war-on-pedophiles-using-tor/">In early 2015</a>, the Feds had used the warrant to install a so called NIT, a Network Investigative Technique, on the computers of people who visited a website hidden in the Tor network that hosted a huge archive of photos and videos of child sex abuse.</p>
     <p><img class="aligncenter size-full wp-image-13833" src="/imgs/2016/04/fbi.jpg" alt="fbi" width="705" height="375" srcset="/imgs/2016/04/fbi.jpg 705w, /imgs/2016/04/fbi-300x160.jpg 300w" sizes="(max-width: 705px) 100vw, 705px" /></p>

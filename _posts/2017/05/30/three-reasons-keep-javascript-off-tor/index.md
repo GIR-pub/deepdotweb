@@ -9,7 +9,7 @@ Three More Reasons to Keep JavaScript off in Tor
     <span><a href="https://www.deepdotweb.com/2017/05/30/three-reasons-keep-javascript-off-tor/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Dr. Neal Krawetz, self-proclaimed security specialist and forensic researcher, took to his personal blog to <a href="http://www.hackerfactor.com/blog/index.php?/archives/761-Exploiting-the-TOR-Browser.html">publicize three low-level vulnerabilities</a> in the Tor browser bundle. Upon first read of that sentence, one might wonder why Dr. Krawetz used his personal blog instead of the proper channels. That, it seemed, was a majorly frustrating element for the researcher: that “official” channels rarely elicited a response at all.</p>
     <p>Based on his post that summarized three vulnerabilities in the Tor browser, one might consider lack of communication between the Tor Project and (at least in this case) security researchers a vulnerability of its own. A quick read of some of his posts revealed that the researcher had a complicated relationship with the Tor project and the Tor Browser itself. But, it also showed that he was not in experienced in the world of anonymity and <a href="https://www.deepdotweb.com/tag/privacy/">privacy on the internet</a>. Despite some of the fundamental differences between his blog, The Hacker Factor (Blog) and DeepDotWeb, Dr. Krawetz raised concerns that were undeniably relevant to any Tor user.</p>
     <p>Here, he explained the difficulties he faced when he attempted contact with anyone (other than the <a href="https://twitter.com/torproject/status/858346480553394177">official Twitter account</a> users) at the Tor Project.</p>

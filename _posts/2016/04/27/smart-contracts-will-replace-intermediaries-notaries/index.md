@@ -9,7 +9,7 @@ Smart contracts will replace intermediaries and notaries
     <span><a href="https://www.deepdotweb.com/2016/04/27/smart-contracts-will-replace-intermediaries-notaries/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Real estate purchase, investments in the business, sports betting, all this will be perform  through smart contracts without intermediaries, notaries and registration authorities.</p>
     <p>A smart contract is one of the most promising areas based on blockchain. This is a computer protocol allowing you to simplify and automate any contracts /deals /agreements.</p>
     <p>The parties to the contract can stipulate any conditions, the performance of which is guaranteed by the network. Thus, a smart contract will become an autonomous mechanism, which will be in charge of financial agreements.</p>

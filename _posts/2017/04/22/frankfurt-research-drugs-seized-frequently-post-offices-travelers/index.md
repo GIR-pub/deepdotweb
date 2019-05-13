@@ -9,7 +9,7 @@ Frankfurt Research: Drugs Seized More Frequently At Post Offices Than At Travele
     <span><a href="https://www.deepdotweb.com/2017/04/22/frankfurt-research-drugs-seized-frequently-post-offices-travelers/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a id="post-19332-_gjdgxs"></a> Officials at the Frankfurt Airport <a href="http://www.fnp.de/rhein-main/Drogen-werden-am-Flughafen-haeufiger-in-der-Post-gefunden;art1491,2562698">seized</a> more <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> coming in by mail to post offices and to residential addresses than at the possession of travelers.</p>
     <p>According to the recent study, at Germany’s largest airport, <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> are found more frequently in the post office of the Frankfurt Airport, and more rarely at travelers.</p>
     <p>&#8220;We have an extreme shift in drug smuggling from travel to mail,&#8221; said the head of the Frankfurt office, Albrecht Vieth, on Wednesday in Frankfurt. According to Vieth, a major reason for this is the dark web trade. The head of the Frankfurt office stated that over the hidden part of the internet, small amounts of narcotics are often ordered and shipped. The number of seized drug packages in the at the Frankfurt Airport had increased by 232 percent to 4,515 cases within one year.</p>

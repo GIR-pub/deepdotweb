@@ -9,7 +9,7 @@ Australian Police Arrest Four Persons As Part Of Operation Hyperion
     <span><a href="https://www.deepdotweb.com/2016/11/08/australian-police-arrest-four-persons-part-operation-hyperion/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Australian Federal Police (AFP), the Australian Criminal Intelligence Commission, the Immigration Department, and local police joined forces in Operation Hyperion, a global law enforcement authority action against dark net users participating in illegal activities.</p>
     <p>The &#8220;dark net period of action&#8221;, as police like to call it, was intended to develop a &#8220;more unified global law enforcement response to the growing use of dark net sites to buy and sell illicit goods and services&#8221;. Agencies from the United States, Canada, United Kingdom, New Zealand, France, Finland and the Netherlands also participated in the joint police action.</p>
     <p>Eleven search warrants were executed across Australia, which resulted in <a href="http://www.itnews.com.au/news/aussie-police-arrest-four-in-global-dark-net-sting-440508">four arrests</a> and further six court summonings. Seized narcotics included MDMA, cocaine, cannabis and other illegal substances, according to the Immigration Department. Just as in New Zealand, Australian authorities promised to continue targeting activity on dark net sites over the coming weeks.</p>

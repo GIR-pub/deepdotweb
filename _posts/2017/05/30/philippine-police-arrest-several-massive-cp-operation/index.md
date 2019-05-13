@@ -9,7 +9,7 @@ Philippine Police Arrest Several in Massive CP Operation
     <span><a href="https://www.deepdotweb.com/2017/05/30/philippine-police-arrest-several-massive-cp-operation/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>After an international tip, authorities in the Philippines​ arrested another pedophile akin to Peter Scully. Like Scully, this child abuse advocate played <em>some</em> role in an international child abuse network. The abusers live-streamed child pornography​ and torture, via the darknet, to thousands of viewers worldwide. They arrested the Queensland man while he attempted to erase some of the data in his possession. He did not succeed.</p>
     <p>Police found a tablet that contained 4,000 contacts involved in the network. Some watchers, some child traffickers, and many unknown. The Australian Federal Police, <a href="https://www.deepdotweb.com/2016/09/30/death-penalty-call-child-sex-offender-peter-scully-philippines/">like in the Scully case</a>, immediately acted on the data—as did the Philippine authorities.</p>
     <p>The arrest and seizure of hard drives, computers, and other storage devices has been called the largest of its kind in the country. The Australian Federal Police, as of early May, saved numerous children and helped Philippine authorities arrest more members of the ring. (The full details of which have not been disclosed.)</p>

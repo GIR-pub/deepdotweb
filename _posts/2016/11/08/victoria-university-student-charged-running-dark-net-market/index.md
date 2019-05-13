@@ -9,7 +9,7 @@ Victoria University Student Charged For Running Dark Net Market
     <span><a href="https://www.deepdotweb.com/2016/11/08/victoria-university-student-charged-running-dark-net-market/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>During a global law enforcement crackdown, a 22-year-old man was <a href="http://www.stuff.co.nz/national/crime/85969933/vic-underworld-suspect-among-arrests-in-crackdown-on-online-drug-black-markets">charged</a> for running a market website on the dark web. According to the police, Victoria University students set up the site to trade drugs.</p>
     <p>The action was performed during a global law enforcement sting called Operation Hyperion. Police arrested six persons so far and sent 66 formal warnings.</p>
     <p>The 22-year-old is accused of running the Vic Underworld (changed to NZ Underworld later) site on the dark net. The dark web market is now defunct, however, it was compared to the infamous Silk Road marketplace when it was online. Police received information from a student at Victoria in July 2015 who anonymously spoke to <a href="http://www.stuff.co.nz/technology/70624104/police-investigate-silk-roadlike-drugs-market-run-by-wellington-students">Dominion Post</a> and helped authorities catch the suspects. When the site was running, vendors mostly sold party drugs, painkillers and fake pharmaceutical scripts to customers. The 22-year-old will stand before Wellington District Court on Friday.</p>

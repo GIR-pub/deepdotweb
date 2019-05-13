@@ -9,7 +9,7 @@ US Darknet Drug Traffickers Arrested After Overdose Of A Teen
     <span><a href="https://www.deepdotweb.com/2017/05/18/us-darknet-drug-traffickers-arrested-overdose-teen/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities in the United States linked the fatal overdose of a teen to two darknet narcotic vendors, who were <a href="http://koin.com/2017/05/03/fatal-teen-od-linked-to-dark-net-drug-traffickers/">arrested</a> recently.</p>
     <p><img class="wp-image-19956 aligncenter" src="/imgs/2017/05/https-lintvkoin-files-wordpress-com-2017-05-khle.jpeg" alt="https://lintvkoin.files.wordpress.com/2017/05/khleborod-barrero.jpg?w=520" srcset="/imgs/2017/05/https-lintvkoin-files-wordpress-com-2017-05-khle.jpeg 520w, /imgs/2017/05/https-lintvkoin-files-wordpress-com-2017-05-khle-300x204.jpeg 300w" sizes="(max-width: 520px) 100vw, 520px" /></p>
     <p>The Drugs and Vice Division of the Portland Police Bureau, the Department of Homeland Security and the U.S. Postal Service started an investigation after 18-year-old Aisha Zughieh-Collins was found dead from an overdose from the synthetic substance U-47700.</p>

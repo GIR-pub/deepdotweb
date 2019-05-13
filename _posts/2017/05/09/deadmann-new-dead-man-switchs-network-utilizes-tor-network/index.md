@@ -9,7 +9,7 @@ Deadmann : A New Dead Man Switch&#8217;s Network That Utilizes The Tor Network
     <span><a href="https://www.deepdotweb.com/2017/05/09/deadmann-new-dead-man-switchs-network-utilizes-tor-network/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://deadmann.com/docs/deadmann-design.pdf">Deadmann is a newly proposed anonymous network protocol</a> which is comprised of multiple dead man&#8217;s switches that can share data even when a user across the network becomes incapacitated. Previously proposed models of dead man&#8217;s switches failed at achieving the following:</p>
     <ul>
     <li>Preserve users&#8217; anonymity</li>

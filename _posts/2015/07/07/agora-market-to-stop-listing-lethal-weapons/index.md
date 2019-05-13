@@ -9,7 +9,7 @@ Agora Market To Stop Listing Lethal Weapons
     <span><a href="https://www.deepdotweb.com/2015/07/07/agora-market-to-stop-listing-lethal-weapons/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Agora admins have posted a new message on the market announcing that from now own it will not allow the sale of lethal weapons:</p>
     <p>Original announcement link on agora: http://agorahooawayyfoe.onion/info/noweapons</p>
     <blockquote><p>&#8212;&#8211;BEGIN PGP SIGNED MESSAGE&#8212;&#8211;<br />

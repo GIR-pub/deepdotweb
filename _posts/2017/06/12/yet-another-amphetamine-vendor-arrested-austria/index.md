@@ -9,7 +9,7 @@ Yet Another Amphetamine Vendor Arrested in Austria
     <span><a href="https://www.deepdotweb.com/2017/06/12/yet-another-amphetamine-vendor-arrested-austria/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Towards the end of September 2016, Customs Officers in Frankfurt, Germany, intercepted a package that contain 500 grams of amphetamine paste. This package, like so many <a href="https://www.deepdotweb.com/tag/customs/">similar package seizures</a> conducted at the hands of Customs Officers at the same Customs Office, sparked an investigation into the declared recipient. After several more package seizures, investigators made their move.</p>
     <p>A 24 year old living in Hallein, Austria preferred the packages. <a href="http://www.polizei.gv.at/sbg/presse/aussendungen/presse.aspx?prid=445A766D4D522F534932493D&amp;pro=7">The official press release from the Salzburg police</a> explained that the young man ordered “several more” packages as well. Some newspapers wrote that he ordered—or authorities seized—five more packages. However, the only figure that represented the quantity of drugs from the mail came from the first package. 500 grams of amphetamine paste.</p>
     <p><img class="wp-image-20581 aligncenter" src="/imgs/2017/06/word-image-58.jpeg" srcset="/imgs/2017/06/word-image-58.jpeg 800w, /imgs/2017/06/word-image-58-300x168.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

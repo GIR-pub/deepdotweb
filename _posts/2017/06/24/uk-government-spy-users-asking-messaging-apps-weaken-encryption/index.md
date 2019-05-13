@@ -9,7 +9,7 @@ UK Government to Spy on Users by Asking Messaging Apps to Weaken Encryption
     <span><a href="https://www.deepdotweb.com/2017/06/24/uk-government-spy-users-asking-messaging-apps-weaken-encryption/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Last week, British Prime Minister Theresa May received harsh criticisms from experts for her proposal to regulate the internet and essentially weaken encryption of messaging applications such as <a href="https://www.deepdotweb.com/2016/04/06/whatsapp-is-now-end-to-end-encrypted/">Whatsapp</a> and Telegram.</p>
     <p><img class="wp-image-20862 aligncenter" src="/imgs/2017/06/word-image-44.png" srcset="/imgs/2017/06/word-image-44.png 590w, /imgs/2017/06/word-image-44-300x200.png 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
     <p>In a response to a terror attack that occurred in London, May stated that the act of terror can be attributed to the existence of “safe spaces” on the web such as the <a href="https://www.deepdotweb.com/2017/06/06/demand-ethical-hackers-rise-corporations-look-combat-dark-web-criminals/">dark web</a> and encrypted messaging platforms that criminals are using to distribute data and communicate with one another.</p>

@@ -9,7 +9,7 @@ New Ransomware-as-a-Service Arrives, Encrypts Most Files Within Minutes
     <span><a href="https://www.deepdotweb.com/2017/05/26/new-ransomware-service-arrives-encrypts-files-within-minutes/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>FrozrLock, the ransomware discovered by the BleepingComputer team with early tips and guidance of security researcher David Montenegro and Avast security research Jakub Kroustek, is a new type of a ransomware-as-a-service tool which began to infect devices and servers since April 16.</p>
     <p>Although its origin is yet to be disclosed, researchers state the ransomware first started to operate in Russia. In a private conversation with BleepingComputer, Kroustek <a href="https://www.bleepingcomputer.com/news/security/frozrlock-ransomware-advertised-on-the-dark-web-as-great-security-tool-/">said</a>:</p>
     <p>“First detections were from Russia, without making any conclusions about its origin. [It was] spreading via JS downloaders named as Contract_432732593256.js”.</p>

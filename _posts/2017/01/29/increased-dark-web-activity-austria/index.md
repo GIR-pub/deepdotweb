@@ -9,7 +9,7 @@ Increased Dark Web Activity In Austria
     <span><a href="https://www.deepdotweb.com/2017/01/29/increased-dark-web-activity-austria/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a <a href="http://www.tt.com/panorama/verbrechen/12482431-91/drogen-stammen-immer-h%C3%A4ufiger-aus-dem-darknet.csp">report</a> by the media outlet tt.com, illegal dark net activity in <a href="https://www.deepdotweb.com/tag/austria/">Austria</a> had increased.</p>
     <p><a id="post-17851-_gjdgxs"></a> <img class="wp-image-17856 aligncenter" src="/imgs/2017/01/c-users-dzsuvax-desktop-dt-common-streams-streams.jpeg" alt="C:\Users\dzsuvax\Desktop\dt.common.streams.StreamServer.jpg" width="680" height="510" srcset="/imgs/2017/01/c-users-dzsuvax-desktop-dt-common-streams-streams.jpeg 940w, /imgs/2017/01/c-users-dzsuvax-desktop-dt-common-streams-streams-300x225.jpeg 300w" sizes="(max-width: 680px) 100vw, 680px"/></p>
     <p>Unlike on the clearnet (the normal part of the internet), dark web users do not connect to the Tor network via a central server, but via intermediaries. The Tor browser provides anonymity to the users by arranging a secure connection and the constant change of servers. This feature helps citizens in oppressed countries to access websites that are banned, however, it also makes law enforcement’s job more difficult.</p>

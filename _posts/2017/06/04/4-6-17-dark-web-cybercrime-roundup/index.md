@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/06/04/4-6-17-dark-web-cybercrime-roundup/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>“Silk Road Creator Ross Ulbricht Loses Life Sentence Appeal</strong>”</p>
     <p>A Second Circuit appellate court struck down Ulbricht&#8217;s appeal on literally every challenge raised by the defense. The appeal centered on violation of Ulbricht&#8217;s Fourth Amendment rights and the evidence tampering caused by the corrupt federal agents investigating Ulbricht and the Silk Road. “Although we might not have imposed the same sentence ourselves in the first instance, on the facts of this case a life sentence was ‘within the range of permissible decisions’ that the district court could have reached,” the judges wrote. <a href="https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/">Wired</a></p>
     <p><img class="wp-image-20397 aligncenter" src="/imgs/2017/06/word-image-4.jpeg" srcset="/imgs/2017/06/word-image-4.jpeg 800w, /imgs/2017/06/word-image-4-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px"/></p>

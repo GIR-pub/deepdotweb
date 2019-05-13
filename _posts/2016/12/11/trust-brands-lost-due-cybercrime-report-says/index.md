@@ -17,7 +17,7 @@ Trust In Brands Lost Due To Cybercrime, Report Says
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>MarkMonitor, the global leader in online brand protection conducted a <a href="http://www.emerce.nl/wire/vertrouwen-merken-gaat-verloren-door-cybercriminaliteit">report</a> about consumer trust and cybercrime. According to the research, 16 percent of Dutch consumers lose confidence in a brand that is involved in <a href="https://www.deepdotweb.com/tag/cybercrime/">cybercrime</a>.</p>
     <p>The report shows that 45 percent of the consumers in the <a href="https://www.deepdotweb.com/tag/netherlands/">Netherlands</a> has already been a victim of cybercrime. Almost the third of the victims (31%) will express negative feelings towards the brands who were attacked by cybercriminals. 56 percent of the consumers believe these events will eventually damage the reputation of the hacked companies. 37 percent believe that confidence will be damaged in the brand, while almost half (49 percent) of them think that consumers in the future will no longer be involved with a brand that has been the victim of a cyber attack. The findings of the research emphasize the importance of a comprehensive brand protection strategy for companies.</p>

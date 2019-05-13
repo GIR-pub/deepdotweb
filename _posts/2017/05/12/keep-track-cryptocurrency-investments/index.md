@@ -9,7 +9,7 @@ How to Keep Track of Your Cryptocurrency Investments
     <span><a href="https://www.deepdotweb.com/2017/05/12/keep-track-cryptocurrency-investments/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p style="text-align: left;">The cryptocurrency investment space is low. There are hundreds of alternative cryptocurrencies out there, many of which employ exciting technologies and provide innovative features. There are currencies, blockchain platforms, app coins, and all types of other “stuff”. There are even meme coins like Dogecoin and Pepecash.</p>
     <p>If you’re a cryptocurrency enthusiast, it is easy to consider and use these altcoins that bear so much promise (or not). However, keeping track of all your investments is nothing less than a challenge. Investing requires you to find different exchanges and wallets. This guide will help you keep track of all your prized crypto holdings.</p>
     <p>Of course, there are some that believe Bitcoin is the one and only cryptocurrency worth talking about or investing in. If that’s your case, this guide can still be useful for you.</p>

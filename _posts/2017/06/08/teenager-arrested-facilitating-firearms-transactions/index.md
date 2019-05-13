@@ -9,7 +9,7 @@ Teenager Arrested for Facilitating Firearms Transactions
     <span><a href="https://www.deepdotweb.com/2017/06/08/teenager-arrested-facilitating-firearms-transactions/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In December 2016, law enforcement from Dilsen-Stokkem became aware of an 18-year-old darknet marketplace vendor, but not just any teenage vendor—the officers discovered that the young man sought to start a small weapons business. And small only refers to the fact that it was little more than a family owned business.</p>
     <p>The 18-year-old bought and sold Glock firearms exclusively or almost exclusively, according to the prosecuting attorney. However, he showed a growing interest in Kalashnikovs. Undercover officers met with the young man, or his business associates depending on the circumstance, for several weeks before making an arrest.</p>
     <p>The group, or rather the 18-year-old who operated the vending account, started interacting with undercover officers through the darknet. He told the undercover officers that “<a href="http://m.hbvl.be/cnt/dmf20170522_02893620/tot-5-jaar-cel-geeist-voor-wapensmokkel-via-darknet">money was the goal</a>” when he interacted with them. Since the age of 16, the defendant found his way into the darknet where he started to grow accustomed to the prevalent illegal trades. From there, he and several co-defendants started the so-called “business.”</p>

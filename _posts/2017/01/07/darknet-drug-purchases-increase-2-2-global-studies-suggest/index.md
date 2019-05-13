@@ -9,7 +9,7 @@ Darknet Drug Purchases Increase by 2.2%, Global Studies Suggest
     <span><a href="https://www.deepdotweb.com/2017/01/07/darknet-drug-purchases-increase-2-2-global-studies-suggest/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Two major global drug studies from Global Drug Survey and the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) emphasized the impact of the darknet on the rising global <a href="https://www.deepdotweb.com/2016/12/16/turkish-health-expert-30-percent-drugs-comes-internet/">drug</a> usages. EMCDDA specifically noted the rise of <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">cryptomarkets </a>such as AlphaBay, that accept anonymous cryptocurrencies including Monero to facilitate transactions.</p>
     <p><a href="https://www.deepdotweb.com/2016/12/30/citizens-turn-bitcoin-wake-global-demonetization/">Bitcoin</a>, the best performing currency and asset of 2016 and the most widely recognized global digital currency is not anonymous by nature. Although there exists several proposals including TumbleBit that will highly likely anonymize the digital currency, currently, bitcoin transactions can be traced and extensively surveilled.</p>
     <p>Tightening Know Your Customer (KYC) and Anti Money Laundering (AML) policies on bitcoin exchanges and service providers have made bitcoin even more accessible by law enforcement, as it allows local authorities to demand personal information and financial data from trading platforms. With that, agencies can track down a bitcoin transaction, find its correlation with an exchange, unravel user information and ultimately, crackdown the illicit drug buyer.</p>

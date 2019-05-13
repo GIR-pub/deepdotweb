@@ -9,7 +9,7 @@ Helsinki Police Arrest 16 in Darknet Investigation
     <span><a href="https://www.deepdotweb.com/2017/02/18/helsinki-police-arrest-16-darknet-investigation/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Finland rarely hits the news for darknet busts of any sort, and especially not considerably large busts. However, according to a Finland need source, the country may have just set their own record for darknet address or not man-hour. Police in Helsinki reported the arrest of 16 people in connection with darknet market drug dealing. The record set, though, came from the length of the investigation—three weeks.</p>
     <p>Police said the &#8220;breakthrough” came from a “legally permitted and secret&#8221; investigation into the group. The group, officials told Finland news source YLE, just opened up shop on a darknet marketplace. The darknet, the officials said, required the Tor browser which rendered the group—along with any other users, including buyers—almost entirely anonymous. However, their “intensive online surveillance&#8221; helped identify the Helsinki-based clandestine drug syndicate despite the anonymity Tor provided.</p>
     <p><img class="wp-image-18221 aligncenter" src="/imgs/2017/02/word-image-31.jpeg" width="715" height="402" srcset="/imgs/2017/02/word-image-31.jpeg 1024w, /imgs/2017/02/word-image-31-300x169.jpeg 300w" sizes="(max-width: 715px) 100vw, 715px" /></p>

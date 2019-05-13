@@ -9,7 +9,7 @@ Over 10,000 Firearms Seized in Spain, Bought on the Darknet
     <span><a href="https://www.deepdotweb.com/2017/02/03/10000-firearms-seized-spain-bought-darknet/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Since January 12, the Spanish National Police located in Madrid, Bilbao, Valencia and Gerona, along with <a href="https://www.deepdotweb.com/2016/12/10/700-pages-terrorism-data-stolen-leaked-europol/">Europol</a> conducted a nationwide operation to crackdown on the illicit distribution and acquisition of firearms.</p>
     <p>Over the past few weeks, investigators of Europol, the European Union (EU)’s law enforcement agency and the Spanish police followed various leads to track down a criminal group that had been selling firearms in a sporting goods store to individuals and large-scale organization.</p>
     <p>After obtaining a warrant to search six houses in Bilbao, Cantabria and Geronia, investigators discovered that five individuals were leading the illicit <a href="https://www.deepdotweb.com/2016/12/09/darknet-firearm-sales-indirectly-led-austrian-cops-privately-carrying-guns/">firearms distribution</a> operation which oversaw repairment of firearms, acquisition of weapons such as rifles, anti-aerial machine guns and hand guns and other services that included activating unused or deactivated firearms by replacing dysfunctional components.</p>

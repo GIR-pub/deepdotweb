@@ -9,7 +9,7 @@ Fentanyl Vendor “NarcoBoss” Busted in Philadelphia
     <span><a href="https://www.deepdotweb.com/2017/07/29/fentanyl-vendor-narcoboss-busted-philadelphia/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>On July 5, <a href="http://www.publicnow.com/view/368BD1F4A9016956C86642867AA1260169096C2C">federal agents arrested “Narcoboss,”</a> an Alphabay fentanyl vendor from SouthWest Philadelphia. The vendor “was a top-10 target,” according to a Department of Homeland Security Investigations agent. Koffie faces drug trafficking charges and charges associated with distributing a controlled substance resulting in death.<img class="wp-image-21623 aligncenter" src="/imgs/2017/07/screenshot_2017-07-15_18-20-14s-png.png" alt="Screenshot_2017-07-15_18-20-14s.png" srcset="/imgs/2017/07/screenshot_2017-07-15_18-20-14s-png.png 660w, /imgs/2017/07/screenshot_2017-07-15_18-20-14s-png-300x136.png 300w, /imgs/2017/07/screenshot_2017-07-15_18-20-14s-png-272x125.png 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>Special Agent Eric J. Yingling filed <a href="https://www.scribd.com/document/353858458/United-States-of-America-v-HENRY-KOFFIE-a-k-a-NarcoBoss-Criminal-Complaint">the Criminal Complaint</a> affidavit and application for an arrest warrant. The Criminal Complaint detailed the steps that law enforcement took in order to arrest Koffie. SA Yingling worked at the Opioid Task Force in the Pittsburgh Division of the FBI, but explained that many law enforcement agencies played a role in the takedown—some completely independent of other investigations.</p>

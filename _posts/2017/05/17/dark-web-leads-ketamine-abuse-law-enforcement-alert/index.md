@@ -9,7 +9,7 @@ Dark Web Leads to Ketamine Abuse, Law Enforcement in Alert
     <span><a href="https://www.deepdotweb.com/2017/05/17/dark-web-leads-ketamine-abuse-law-enforcement-alert/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The dark web has reintroduced ketamine to large markets around the world, including the UK and Taiwan. According to Drugs 2.0 author Mike Power, by early 2014, the supply and operations of ketamine dealers throughout the UK were wiped out. However, the dark web revived the global ketamine market and dealers have begun to supply the drug to larger markets.</p>
     <p>Over the past decade, law enforcement agencies and regulators in various countries focused on the crackdown of ketamine abusers. Some countries have attempted to decrease the supply to ketamine so that only institutional healthcare service providers and hospitals would have stocks of ketamine readily available for emergency use cases.</p>
     <p><img class="wp-image-19937 aligncenter" src="/imgs/2017/05/word-image-79.png" width="699" height="393" srcset="/imgs/2017/05/word-image-79.png 1200w, /imgs/2017/05/word-image-79-300x169.png 300w, /imgs/2017/05/word-image-79-1024x576.png 1024w" sizes="(max-width: 699px) 100vw, 699px" /><br />

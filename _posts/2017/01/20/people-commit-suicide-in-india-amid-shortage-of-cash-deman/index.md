@@ -9,7 +9,7 @@ People Commit Suicide in India Amid Shortage of Cash, Demand of Bitcoin Goes up
     <span><a href="https://www.deepdotweb.com/2017/01/20/people-commit-suicide-in-india-amid-shortage-of-cash-deman/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Just months after <a href="https://www.deepdotweb.com/2016/12/02/darknet-group-india-arrested-shipping-xanax-us/">Indian</a> Prime Minister Narendra Modi’s announcement to demonetize two of the most widely used banknotes in the country, the circulation of cash halved, declining from over 18,000 billion to 8,000 billion rupees. Such drastic change in India’s cash-based economy led to disastrous economic and financial impact.</p>
     <p>Within weeks after the demonetization, the general population of India struggled to obtain enough <a href="https://www.deepdotweb.com/2016/12/18/china-begins-crackdown-atm-cash-withdrawals-bitcoins-liquidity-solution/">cash</a> to support daily living and finance day-to-day operations. On most salary dates in mid-month and at the end of each month, individuals had to wait more than 24 hours to claim their own money.</p>
     <p>On <a href="http://blogs.wsj.com/indiarealtime/2016/12/12/timeline-how-indias-war-on-cash-unfolded/">November 17,</a> the Indian government and its central bank cut the daily limit on cash exchanges from 4,500 rupees to 2,000 rupees. As cash became even more scarce and the central bank’s initiative virtually disallowed people from withdrawing cash without creating a bank account, a substantial number of individuals took it to the extreme and committed suicide.</p>

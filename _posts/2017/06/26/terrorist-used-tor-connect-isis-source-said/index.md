@@ -9,7 +9,7 @@ Terrorist Used Tor to Connect with ISIS, Source Said
     <span><a href="https://www.deepdotweb.com/2017/06/26/terrorist-used-tor-connect-isis-source-said/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The background and profiles of the terrorists connected to the London Bridge and Borough Market attack are still full of holes waiting to be filled. And as with any incident of this scale, the conspiracy between an organization&#8217;s affiliates can eventually spin off into something entirely unrelated. One such example is the <a href="https://www.theregister.co.uk/2017/06/06/break_e2e_crypto_fight_jihad_cunning_plan/">recent demonization of encryption</a> in the UK—a topic that is slowly morphing into a query about the <a href="https://www.deepdotweb.com/2017/06/05/homeland-security-may-study-bitcoins-link-terrorism/">dark web’s role in increasing terror</a>.</p>
     <p>WhatsApp was singled out immediately by various political figures in another recent attack in London. The reasoning was simple; Khalid Masood, the attacker who reportedly acted alone, sent a message on WhatsApp prior to killing four and wounding dozens. Authorities want closure in the investigation. And of course, the situation played out similarly to the one between the FBI and Apple in the United States.</p>
     <p>One of the San Bernardino attackers owned an iPhone that was protected by Apple&#8217;s security mechanisms. The FBI wanted access but claimed to lack the technical prowess. The Bureau fought a legal battle with Apple and ultimately just went with an outside source similar to Cellebrite. Apple refused to create a fake firmware update for the phone that removed the device&#8217;s encryption.</p>

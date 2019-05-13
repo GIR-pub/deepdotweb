@@ -9,7 +9,7 @@ US Customs Officer Charged with Cocaine Importation
     <span><a href="https://www.deepdotweb.com/2017/04/29/us-customs-officer-charged-cocaine-importation/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In a hearing on Wednesday, April 13, United States Magistrate Judge Cheryl L. Pollak formally arraigned a former United States Customs and Border Protection employee for cocaine importation. The indictment and criminal complaint accused the CBP employee—Fernando Marte—of “<a href="https://www.justice.gov/usao-edny/pr/us-customs-and-border-protection-officer-indicted-conspiracy-import-more-100-pounds">conspiring to import, and with importing, more than five kilograms of</a> Cocaine from the Dominican Republic.” The complaint achieved that the criminal activity began in January 2016 and ran just more than one year.</p>
     <p><img class="wp-image-19470 aligncenter" src="/imgs/2017/04/word-image-48.jpeg" srcset="/imgs/2017/04/word-image-48.jpeg 625w, /imgs/2017/04/word-image-48-300x219.jpeg 300w" sizes="(max-width: 625px) 100vw, 625px" /></p>
     <p>The United States Department of Homeland Security announced the charges—Customs and Border Protection along, with ICE fall under Homelands Security umbrella of organizations. Aside from the Acting US attorney, Bridget M. Rohde, only Homeland Security Officials announced the charges – Angel M. Melendez, ICE and HSI Special Agent in Charge, New York; Leon Hayward, Acting Director, CBP, New York; and Gregory Null, Special Agent in Charge, Department of Homeland Security.</p>

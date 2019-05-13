@@ -17,7 +17,7 @@
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><strong>Update: One PlayPen Member May Only Serve Four Years</strong></p>
     <p>We wrote about the prosecution&#8217;s request that former US Army combat engineer David Tippens serve four years in prison for possession of child pornography. Four years in prison for one of the men caught in Operation Pacifier seemed low at the time. But since the judge opted to render the FBI&#8217;s evidence inadmissible, Tippens only received one conviction: one count of possession of child abuse imagery. The prosecution pushed for a four year sentence with 15-years of federal supervision. The Court heard the prosecutors describe how terrible of a person Tippens was, regardless of the dropped charges. Sentencing came around this week and Tippens received only a 6-month sentence. According to <a href="https://nakedsecurity.sophos.com/2017/06/16/6-months-for-abuser-caught-in-fbis-playpen-snare/">Naked Security</a>, the Court was impressed with his “distinguished” Army career and that his “pornography addiction related to PTSD that would be addressed through continuing counseling.” <a href="https://www.deepdotweb.com/2017/06/14/one-playpen-member-may-serve-four-years/">DeepDotWeb</a></p>

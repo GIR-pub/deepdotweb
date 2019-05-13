@@ -9,7 +9,7 @@ German Internet Fraud Duo Sentenced
     <span><a href="https://www.deepdotweb.com/2016/12/12/german-internet-fraud-duo-sentenced/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 22-year-old and a 21-year-old was <a href="http://www.rundschau-online.de/region/rhein-sieg/eitorf/hoher-sachschaden-internet-betrug-im-grossen-stil---duo-aus-windeck-verurteilt-25192450">sentenced</a> for committing internet <a href="https://www.deepdotweb.com/tag/fraud/">fraud</a> by Waldbröler District Court in Germany.</p>
     <p>According to official court documents, the duo cracked email and eBay accounts and used victim information to purchase electronic devices, such as cameras. After they received the goods, they sold them for profit. Recently, the two fraudsters had to stand trial at Waldböler District Court. The reading of the charges against them took quite some time.</p>
     <p>The younger suspect was 19-years-old at the time he committed the crimes, meaning he was under the juvenile justice law. He committed serious fraud in 85 cases. Judge Dr. Fabian Krapoth sentenced him to a year and six months on probation. The 21-year-old has to perform 25 hours of community service each month for charitable purposes. His companion was only charged with fraud in three cases. He received a fine of 60 daily rates of 25 euros each. He had been recruited by his younger partner and received 350 euros from him to crack three accounts and make them available on the internet, court documents say.</p>

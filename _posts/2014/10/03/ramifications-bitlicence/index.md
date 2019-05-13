@@ -9,7 +9,7 @@ The Ramifications of BitLicence
     <span><a href="https://www.deepdotweb.com/2014/10/03/ramifications-bitlicence/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Introduction</strong></p>
     <p>The New York Department of Financial Services (NYDFS) released its long-anticipated list of proposed rules and regulations that will be required for New York-based bitcoin businesses. As the first state to pass regulations on Bitcoin the ‘BitLicence’ could potentially be used as a draft template for other states/ nations if they decide to regulate Bitcoin.</p>
     <p><span style="text-decoration: underline;">Who need’s a BitLicence?</span></p>

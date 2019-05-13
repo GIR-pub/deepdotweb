@@ -9,7 +9,7 @@ Three German Darknet Dealers Sentenced to Probation
     <span><a href="https://www.deepdotweb.com/2017/11/04/three-german-darknet-dealers-sentenced-probation/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On October 18, a Saarland court passed down unusually mild sentences to three so-called “<a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">darknet dealers</a>.” The men had distributed mushrooms, LSD, heroin, and <a href="https://www.deepdotweb.com/tag/amphetamine/">amphetamine</a> for several months before their arrest, the police said. After authorities intercepted packages addressed to one of the three dealers, they raided the suspect&#8217;s apartment and struck gold: the feathers had maintained whiteboards with active deals, customer names, and payment statuses.</p>
     <p>Although the board contributed nothing to the arrest of all three dealers, their “<a href="http://m.bild.de/regional/saarland/darknet/saarlands-groesste-darknet-deppen-53566768.bildMobile.html">carefully managed business</a>” directly impacted the case and subsequent sentencing. The incriminating whiteboards led to quick confessions from the men, given the combined weight of the evidence collected by law enforcement.</p>
     <p><img class="wp-image-23386" src="/imgs/2017/11/word-image.jpeg" srcset="/imgs/2017/11/word-image.jpeg 1134w, /imgs/2017/11/word-image-300x169.jpeg 300w, /imgs/2017/11/word-image-1024x576.jpeg 1024w" sizes="(max-width: 1134px) 100vw, 1134px" /></p>

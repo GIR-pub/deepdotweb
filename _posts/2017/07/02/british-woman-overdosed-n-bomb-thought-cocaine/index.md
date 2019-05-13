@@ -9,7 +9,7 @@ British Woman Overdosed On N-bomb – Thought It Was Cocaine
     <span><a href="https://www.deepdotweb.com/2017/07/02/british-woman-overdosed-n-bomb-thought-cocaine/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A British woman in her 20s accidentally overdosed on 25I-NBOMe, which is also called &#8220;25I&#8221;, or &#8220;N-bomb&#8221;, and died in Paris. According to the police, the woman thought the substance was cocaine.</p>
     <p>According to the news publication <a href="https://heatst.com/world/france-records-its-first-ever-death-linked-to-n-bomb-drug/">Heatst.com</a>, the 29-year-old British woman visited one of her friends in Paris in April. In the night of April 29 and 30, they had held a party in an apartment, where the friend told the victim that she had obtained <a href="https://www.deepdotweb.com/2017/05/31/reporters-explained-pure-cocaine-not-good-thing/">cocaine</a>. However, the substance was not cocaine, it was N-bomb. Soon after ingesting the drug, the 29-year-old went into a coma for 11 days and died at the Lariboisière Hospital in Paris.</p>
     <p>&#8220;The problem is that very little is known about [the drug’s] effects except that it is active from the microgram and therefore impossible to measure oneself,” Grégory Pfau, a pharmacist in the team of liaison and addictology care of the Pitié-Salpêtrière Hospital, said in a statement. Pfau added that users should be extremely cautious with such substances as N-bomb, or drugs that fall under the category of New Psychoactive Substances (NPS) since users can only see instructions on the dosage on “specialized sites”.</p>

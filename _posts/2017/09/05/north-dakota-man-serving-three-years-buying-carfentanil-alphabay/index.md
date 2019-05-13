@@ -18,7 +18,7 @@ North Dakota Man Serving Three Years for Buying Carfentanil on Alphabay
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>In June, 20-year-old Jesse Erickson of West Fargo, North Dakota, landed in the middle of an ongoing DEA, local police, and Cass County Drug Force investigation. They arrested him at his home where they had caught him with carfentanil. According to local news sites that covered the case, Erickson told police that he had also ordered <a href="https://www.deepdotweb.com/tag/mdma/">MDMA</a> that was to arrive shortly after the arrest.<img class="wp-image-22384" src="/imgs/2017/09/carfentanil1_custom-8635c9b1510853138a5dfbf837c437.jpeg" alt="carfentanil1_custom-8635c9b1510853138a5dfbf837c4377c319b7afd-s900-c85.jpg" /></p>
     <p>Local police notified the United States Postal Service and they intercepted the package. It had been shipped from the Netherlands and was headed towards Erickson&#8217;s house that he shared with his mother. When questioned by police, Erickson explained that he had purchased the drugs on the now-defunct <a href="https://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay market</a>.</p>

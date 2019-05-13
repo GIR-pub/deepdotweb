@@ -9,7 +9,7 @@ The New York Times Launches a Tor Version of their Website
     <span><a href="https://www.deepdotweb.com/2017/11/10/new-york-times-launches-tor-version-website/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>While many people think the dark web is no good except for buying drugs and guns, a new innovation has now made it possible to also read the news on the same platform.</p>
     <p>The New York Times announced on the 27th of last month that it was launching a <a href="https://www.deepdotweb.com/2017/10/25/tor-fingerprinting-tor-browser-immune-browser-fingerprinting/">Tor Onion Service</a> of its website, at the address, <strong>https://www.nytimes3xbfgragh.onion/.</strong></p>
     <p>The launch was an “experiment in secure connection” on <a href="https://www.deepdotweb.com/2017/10/23/23-10-17-dark-web-cybercrime-roundup/">the dark web</a> and will only be accessible through the use of TOR (The Onion Router).</p>

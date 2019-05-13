@@ -9,7 +9,7 @@ Unsealed Documents Tell More Details About The PlayPen Case
     <span><a href="https://www.deepdotweb.com/2016/05/24/unsealed-documents-tell-details-playpen-case/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>As an earlier report on <a href="http://motherboard.vice.com/read/an-admins-foolish-errors-helped-the-fbi-unmask-child-porn-site-playpen">Motherboard by Joseph Cox</a> points out, sometimes it doesnt always take sophisticated malware and programs to identify criminals on dark net.</p>
     <p>&#8220;Due to a misconfiguration of the server hosting the TARGET WEBSITE(Playpen), the TARGET WEBSITE was available for access on the regular Internet to users who knew the true IP address of the server,&#8221; the warrant application from February 2015 read. These documents were unsealed as part of the <a href="https://www.deepdotweb.com/2016/05/16/attorney-still-fighting-washington-state-playpen-case/">Richard Stamper</a>, child pornography suspicion case.</p>
     <p>&#8220;Basically, Playpen must have set their site to a default, meaning if you typed in the IP address you could see the Playpen site,&#8221; the UK activist and technologist Thomas White explained via encrypted chat.</p>

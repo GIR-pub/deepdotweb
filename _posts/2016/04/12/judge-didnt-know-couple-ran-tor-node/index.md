@@ -9,7 +9,7 @@ Judge didn’t know couple ran Tor node
     <span><a href="https://www.deepdotweb.com/2016/04/12/judge-didnt-know-couple-ran-tor-node/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A <a href="https://www.deepdotweb.com/2016/04/06/seattle-law-enforcement-authorities-raid-homes-privacy-activists/">week after</a> Seattle police <a href="http://www.thestranger.com/slog/2016/04/08/23914735/judge-who-authorized-police-search-of-seattle-privacy-activists-wasnt-told-they-operate-tor-network">searched the home</a> of two well-known privacy activists for child porn and found nothing, it is being questioned why the department didn’t include a very important piece of information to obtain the warrant; that the activists operated a Tor node out of their apartment, in order to help internet users all over the world browse anonymously.</p>
     <p>“You knew about the Tor node,” cybersecurity consultant and co- founder of Seattle’s Center for Open Policing Eric Rachner said to the police department on Twitter. “But didn’t mention it in the warrant application. Y’all pulled a fast one on the judge…you knew the uploader could have been literally anyone in the world.”</p>
     <p>At 6 a.m. on March 30<sup>th</sup>, Seattle police showed up at the Queen Ann apartment f Jan Bultmann and David Robinson with a search warrant to search they’re residence for child porn. They didn’t find anything. Bultmann and Robinson are both board members of the Seattle Privacy Coalition, were released after being held in a van, but said they were shaken up and upset.</p>

@@ -9,7 +9,7 @@ Decentralized Bitcoin Exchange Bitsquare Launches Wednesday
     <span><a href="https://www.deepdotweb.com/2016/04/25/decentralized-bitcoin-exchange-bitsquare-launches-wednesday/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://bitcoinmagazine.com/articles/decentralized-peer-to-peer-bitcoin-exchange-bitsquare-to-launch-next-week-1461260120">Having been in development for over two years</a>, what promises to be the first decentralized Bitcoin exchange is set to officially open next Wednesday.</p>
     <p><a href="https://bitsquare.io/">Bitsquare</a> is an open source project headed by Austrian born Manfred Karrer, which allows anyone to trade Bitcoin for fiat currency as well as altcoins, without requiring a company, central intermediary or permission from anyone.</p>
     <p>“Bitcoin&#8217;s reliance on centralized exchanges is diametrically opposed to its principles. I hope Bitsquare will solve that problem,” Karrer said.</p>

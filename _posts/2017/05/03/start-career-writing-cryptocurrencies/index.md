@@ -17,7 +17,7 @@ How to start a career writing about cryptocurrencies
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Bitcoin, and the blockchain technology in general, have created tens of jobs that were not available before the genesis block was first mined. Script &amp; multisig developers, microtransaction engineers, ASIC chip designers, cryptocurrency escrow agents and cryptocurrency journalists &amp; writers are few examples of jobs that never existed before the advent of bitcoin. Writing about cryptocurrencies can be a reasonably profitable career that can help one earn some good amount of money, working online from home.</p>
     <p>I have been writing about the blockchain technology for over five years now and I am now making a living being a cryptocurrency writer and technical analyst. Just googling my name, &#8220;Tamer Sameeh&#8221;, will show you hundreds of the articles and technical analysis pieces that I have written throughout my career as a cryptocurrency writer. Throughout this tutorial, I will present you with an easy-to-follow guide that will help you start a career writing about cryptocurrencies.</p>

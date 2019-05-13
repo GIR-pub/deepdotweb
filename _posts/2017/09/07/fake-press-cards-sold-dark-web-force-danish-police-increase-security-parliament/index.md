@@ -10,7 +10,7 @@ Fake Press Cards Sold On The Dark Web Force Danish Police To Increase Security I
     <span><a href="https://www.deepdotweb.com/2017/09/07/fake-press-cards-sold-dark-web-force-danish-police-increase-security-parliament/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Counterfeit press cards sold on the dark web <a href="http://journalisten.dk/politiet-falske-pressekort-goer-det-svaerere-os">present</a> a threat to the Danish police. Law enforcement in the country take the fake press cards, which are advertised for nearly $160, seriously. The Danish Parliament emphasized that the journalists’ bags and jackets should be screened no matter if they own a press card.</p>
     <p>According to the Danish media outlet Journalisten, darknet vendors are advertising <a href="https://www.deepdotweb.com/2017/08/09/german-father-bought-drugs-counterfeit-euro-notes/">counterfeit</a> press cards for 1,000 DKK, the equivalent of $159. The customers can use their own photos and personal information for the orders, which will get shipped in 21 days.</p>
     <p>A press card provides access to police closures and closed arrangements. At an official event, the press card means a lot when assessing who is allowed to get through, press officer Thomas Kristensen explained.</p>

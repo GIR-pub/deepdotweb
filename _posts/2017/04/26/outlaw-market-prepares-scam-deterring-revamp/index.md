@@ -9,7 +9,7 @@ Outlaw Market Prepares Scam-Deterring Revamp
     <span><a href="https://www.deepdotweb.com/2017/04/26/outlaw-market-prepares-scam-deterring-revamp/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/outlaw-market/">Outlaw is one of the few darknet marketplaces</a> that predated Alphabay—almost difficult to imagine. However, other than a small number of devoted users, the market sees fewer new customers than Alphabay or Dream, the other darknet marketplace veterans. Why this is the case, only few know. However, the administration outlined plans that may not only revolutionize Outlaw but also attract both more vendors and customers.</p>
     <p>The first change, and possibly the most important, is one beneath the surface. One of the most powerful decision-making elements, as evidenced by every other post on any number of darknet discussion boards, is financial safety. Consumers want to know their money will not vanish in an exit scam. They want to know if a vendor is trustworthy.</p>
     <p>In most cases, ratings help determine every decision a consumer makes. This works for finding the best product but also for finding the most reliable or trustworthy vendor. In this era, the classic escrow system is flawed. Bad customers can easily scam perfectly good vendors. And for newer, less established vendors, escrow may not always be the most viable marketplace sales platform.</p>

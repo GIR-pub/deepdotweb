@@ -18,7 +18,7 @@ Bitcoin news roundup April 2, 2017
     <span><a href="https://www.deepdotweb.com/2017/04/02/bitcoin-news-roundup-april-2-2017/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <p><strong>MasterCard survey shows European shoppers are wary of digital currencies</strong></p>
     <p>According to CoinDesk a survey conducted by MasterCard shows European consumers don’t seem to be too fond of digital currencies when paying for things online. The survey reportedly polled nearly 43.000 people between the ages of 18 and 64, and revealed that a mere 2% of respondents claim to use digital currencies when paying for goods online. As far as interest went, only 11% of respondents expressed it regarding payments in digital currencies, as others preferred alternatives such as e-wallets and QR code scanning. According to MasterCard, the top country in which people are interested in digital currencies is Spain.</p>

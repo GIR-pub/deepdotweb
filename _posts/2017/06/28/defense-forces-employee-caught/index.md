@@ -9,7 +9,7 @@ Defense Forces Employee Caught Selling Explosives Online
     <span><a href="https://www.deepdotweb.com/2017/06/28/defense-forces-employee-caught/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A Finnish Defense Forces employee <a href="https://yle.fi/uutiset/osasto/news/police_finnish_defence_forces_employee_sold_stolen_explosives_on_dark_web/9664815">sold stolen explosives on the darknet</a>, local authorities announced. An apparent connection was made after Finnish law enforcement posed as a potential customer. “Arrangements” were made between the employee and the undercover officer that ultimately led to the explosive seller&#8217;s arrest.</p>
     <p>Since the investigation is still ongoing, officials released a limited set of details. As of June 13, the police have not yet revealed how the ordeal began. Regardless of how the investigation unfolded, the suspect&#8217;s house contained more than two kilograms of stolen explosives and hundreds of rounds of ammunition. All of which was stolen from the Defense Forces.</p>
     <p>Note that news reports called the suspect a Defense Forces employee. His actual role is unknown.</p>

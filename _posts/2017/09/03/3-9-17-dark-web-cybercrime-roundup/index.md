@@ -18,7 +18,7 @@
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><strong>Alphabay Vendor “PeterTheGreat” [Faced] a Judge in August [and Pleaded Guilty]</strong></p>
     <p>One out of two defendants behind the <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Alphabay</a> and Dream vendor account “PeterTheGreat” pleaded guilty at recent court date. After the arrest of a couple from South Carolina for the distribution of U-47700, it was not long before the internet made the connection between both suspects and PeterTheGreat. Not long after that, the government unsealed the grand jury indictment filed against the duo. The grand jury indictment accused 24-year-old Ana Milena Barrero of conspiracy to distribute U-47700 and two counts of use of the mail system in while committing a felony. And the indictment accused Barrero’s boyfriend, 28-year-old Theodore Vitaliy Khleborod, of conspiracy to distribute U-47700.</p>

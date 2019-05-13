@@ -9,7 +9,7 @@ Drug Dealer Made Xanax and Sold It on the Dark Web.
     <span><a href="https://www.deepdotweb.com/2017/12/02/drug-dealer-made-xanax-sold-dark-web/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Xanax is the brand name for a powerful drug called Benzodiazepine Alprazolam and it is used for medicinal purposes to treat anxiety and panic attacks. Xanax is highly addictive and is only prescribed temporarily as its effectiveness diminishes the longer a patient takes it. It is so addictive that some patients require supervised withdrawal. The withdrawal process can induce anxiety, making addiction self-fulfilling and very painful.</p>
     <p><a id="post-23759-_gjdgxs"></a> According to a recently unsealed indictment, Matthew Lee Yensan, of Raleigh, North Carolina, was charged with possession and intent to distribute marijuana, possession of intent to distribute alprazolam (generic name for Xanax), distribution of a controlled substance by means of internet and possession of firearms to further <a href="https://www.deepdotweb.com/?s=drug+trafficking">drug trafficking</a>.</p>
     <p>The U.S. Drug Enforcement Administration received a tip in June that Yensan was mass producing <a href="https://www.deepdotweb.com/?s=xanax">Xanax</a> from a unit storage in Gorman Street and sold the drugs on the <a href="https://www.deepdotweb.com/?s=dark+web">dark web</a>. The DEA agents then followed him for weeks.</p>

@@ -9,7 +9,7 @@ As Tax Season Approaches, Tax Refund Sales on Dark Web Surge
     <span><a href="https://www.deepdotweb.com/2017/05/02/tax-season-approaches-tax-refund-sales-dark-web-surge/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>With the tax season approaching, tax refund sales are on the rise again on the dark web. According to various cyber security firms including the IBM X-Force, 20 million samples of tax-themed spams and scams are captured on a daily basis by the company’s system.</p>
     <p>In February, DeepDotWeb <a href="https://www.deepdotweb.com/2017/02/18/tax-records-american-citizens-sold-darknet-20-bitcoin/">reported</a> the first case of W-2 form sale on the dark web, discovered by Krbs on Security founder Brian Krebs. While surfing through the dark web, Krebs discovered a massive database of W-2 forms, a type of tax return form sent by an employer to an employee and the Internal Revenue Service at the end of the year.</p>
     <p>Krebs <a href="https://www.deepdotweb.com/2017/02/18/tax-records-american-citizens-sold-darknet-20-bitcoin/">wrote:</a></p>

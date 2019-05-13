@@ -9,7 +9,7 @@ Dealer Going Back to Prison for Parole Violation
     <span><a href="https://www.deepdotweb.com/2017/07/15/dealer-going-back-prison-parole-violation/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In April 2013, a 19-year-old New Zealand student spent two nights in jail <a href="http://www.stuff.co.nz/manawatu-standard/news/8604002/Student-accused-of-drug-importing-freed-on-bail">after a raid for drug distribution</a>. He ordered various drugs online and resold them in person. He spent time in prison but paroled out in February 2016. He recently caught a new charge—an event that resulted in a trip back to prison.</p>
     <p>Officers arrested Benjamin Patrick Belmont at age 19 for importing and distributing drugs the he bought from the Silk Road. He ordered ecstasy, <a href="https://www.deepdotweb.com/tag/mdma/">MDMA</a>, LSD, and cocaine between November 2012 and April 2013. Customs Officers intercepted 993 micrograms of crystal MDMA, five tabs of LSD, and 6.1 grams of cocaine. They also intercepted 1,266 ecstasy pills.</p>
     <p>After the investigation into the student reached a point where an arrest was possible, officers raided his flat. Belmont had a 12-gauge Remington shotgun, ammunition, more drugs, and $80,000 cash. Investigators found that he made 80 bank deposits for a total of $123,000 when he sold drugs. He also converted $113,000 into <a href="https://www.deepdotweb.com/tag/Bitcoin">Bitcoin</a>.</p>

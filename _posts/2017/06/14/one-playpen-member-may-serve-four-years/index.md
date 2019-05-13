@@ -9,7 +9,7 @@ One PlayPen Member May Only Serve Four Years
     <span><a href="https://www.deepdotweb.com/2017/06/14/one-playpen-member-may-serve-four-years/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>One of the men caught in the FBI’s notorious “Operation Pacifier,” U.S. Army Sgt. David Tippens, fought the charges filed against him with more intensity than most. Documents released in his case revealed the “outrageous” behavior of the FBI. Tippens, defended by the public defender who got <a href="https://www.deepdotweb.com/2017/05/24/topic-dojs-operation-pacifier-acquittal/">one PlayPen member acquitted</a>, appeared to be headed in the same direction. However, based on the extremity of some of his actions, David tippens will likely spend four years in prison.</p>
     <p>The FBI’s illegal warrant and subsequent hacking caused the prosecution&#8217;s case to slowly fall apart. Judges across the country <a href="https://www.deepdotweb.com/2016/09/29/third-judge-rules-fbis-playpen-warrant-invalid/">suppressed the evidence</a> obtained as a result of warrant. The FBI refused to hand over complete details of the “NIT” malware used to identify Tor users who accessed the child pornography website.</p>
     <p><img class="wp-image-20627 aligncenter" src="/imgs/2017/06/word-image-77.jpeg" srcset="/imgs/2017/06/word-image-77.jpeg 809w, /imgs/2017/06/word-image-77-300x197.jpeg 300w" sizes="(max-width: 809px) 100vw, 809px" /></p>

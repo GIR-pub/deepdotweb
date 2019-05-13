@@ -9,7 +9,7 @@ Alphabay Glock Vendor Admits to Firearm Deals from 2016
     <span><a href="https://www.deepdotweb.com/2017/08/14/alphabay-glock-vendor-admits-firearm-deals-2016/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On July 27, an Indiana man admitted to his role in weapon trafficking in connection with Alphabay arms trafficking. Benjamin Donald Brunni—a 19-year-old from Greensburg, Indiana—drove from Indiana to New Jersey to sell an <a href="https://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay</a> buyer 10 firearms. Law enforcement, as often the case in weapons deals, had posed as the Alphabay buyer, and ultimately trapped Brunni.</p>
     <p>Brunni, along with his co-defendant Nicholas Michael Albertson, maintained an Alphabay presence where they showed an interest in both purchasing and selling firearms, according to HSI special agents. The co-defendant, Albertson, pleaded guilty to the same charge on July 14, 2017. Federal agents charged both men with one count of transporting and selling firearms without a license.</p>
     <p>“This guilty plea serves as a stern warning about the consequences awaiting arms traffickers who think the Darknet is a safe haven to conduct illegal activities,” said the acting SA in charge of Homeland Security Investigations (HSI) in Newark, Debra Parker. “HSI will continue to work with its law enforcement partners to hold criminals, who use anonymous internet software for illegal activities, accountable for their actions.”</p>

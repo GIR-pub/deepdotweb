@@ -9,7 +9,7 @@ Alphabay death: Wondering which market is Headed to the Top? Here is some inside
     <span><a href="https://www.deepdotweb.com/2017/07/12/alphabaydown-whosnext/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Update</strong>: Added <a href="http://www.deepdotweb.com/marketplace-directory/listing/ramp-russian-anonymous-marketplace/">Ramp (Russian)</a> &#8211;  Which is the most significant after AB</p>
     <p>So everyone is wondering which will be the next big market. I thought I could shed some light on that using data I use from a site which is pretty much the number one source for all <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">DNM links</a>. This site has great presence on good searches. Here is a brief explanation:</p>
     <p><em>You might also want to read the previous post:  <a title="Permalink to Solved: These Are The Most Popular Dark Net Markets!" href="https://www.deepdotweb.com/2015/11/16/solved-these-are-the-most-popular-dark-net-markets/" rel="bookmark">Solved: These Are The Most Popular Dark Net Markets!</a></em></p>

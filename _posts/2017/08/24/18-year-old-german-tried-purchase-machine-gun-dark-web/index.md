@@ -17,7 +17,7 @@
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><a id="post-22143-_gjdgxs"></a> A young man was <a href="http://www.infranken.de/regional/hassberge/kreis-hassberge-18-jaehriger-versuchte-maschinenpistole-im-darknet-zu-kaufen;art217,2810566#cookie_accepted">arrested</a> by German law enforcement authorities for attempted purchase of a machine gun from the dark web. When investigators searched his apartment, they discovered multiple pieces of <a href="https://www.deepdotweb.com/2017/08/09/german-father-bought-drugs-counterfeit-euro-notes/">counterfeit</a> 50 euro bills in addition to a considerable amount of <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a>. The defendant is facing serious charges.</p>
     <p><img class="wp-image-22157 aligncenter" src="/imgs/2017/08/word-image-20.jpeg" srcset="/imgs/2017/08/word-image-20.jpeg 900w, /imgs/2017/08/word-image-20-300x199.jpeg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>

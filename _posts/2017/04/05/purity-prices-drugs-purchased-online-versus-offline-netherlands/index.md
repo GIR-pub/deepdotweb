@@ -9,7 +9,7 @@ Purity and Prices of Drugs Purchased Online Versus Offline in the Netherlands
     <span><a href="https://www.deepdotweb.com/2017/04/05/purity-prices-drugs-purchased-online-versus-offline-netherlands/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Throughout the past decade, the sourcing, marketing and trading of illicit drugs on the world wide web have grown at a rapid rate. The perception of high quality of products is the main catalyst driving customers to online drug marketplaces, especially those on the deep web, however, there is very little evidence supporting this assumption. Moreover, the perception of better prices also attracts customers to online darknet marketplaces, yet studies of darknet drug prices are very few and contradicting.</p>
     <p>Practically speaking, online prices are actually higher for some drugs, variable depending on the quality and purity of the drug, changeable over time and variable according to the geographical location of the seller and the buyer.</p>
     <p>A study performed by a group of researchers from the University of Manchester found out that the online prices of certain drugs were relatively low, when compared to prices on the street, but they concluded that this is usually related to bulk offers which are intended for further distribution and resale, so are incomparable to street prices at the customer level.</p>

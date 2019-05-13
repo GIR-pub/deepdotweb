@@ -9,7 +9,7 @@ Cannabis Legalization Attempt Failed In South Tyrol
     <span><a href="https://www.deepdotweb.com/2016/11/21/cannabis-legalization-attempt-failed-south-tyrol/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>South Tyrol (Alto Adige in Italian) is an autonomous province in Italy with a population more than 500,000. Recently, in Bolzano, the capital city of the region, the libertarians issued a <a href="https://www.suedtirolnews.it/politik/kein-drogengipfel">motion</a> to legalize <a href="https://www.deepdotweb.com/tag/cannabis/">cannabis</a> use, however, it was rejected by the South Tyrolian State Parliament.</p>
     <p>&#8220;Alto Adige has to fight with a sprawling drug swamp,&#8221; Pius Leitner from the Freedom party said. &#8220;Almost every day, injuries or transgressions in the field of addictive drugs are detected. The consequences are serious, the cost of the public and personal issues. A major problem is the currently prevailing trivialization of drugs and the impetus of legalization. In addition, the massive mass migration has opened up new drug markets.&#8221;</p>
     <p>When there is a left-wing government, there is a tendency to the <a href="https://www.deepdotweb.com/tag/legalization/">legalization</a> of light drugs, such as cannabis. Take the <a href="https://www.deepdotweb.com/2016/08/11/least-five-states-will-voting-marijuana-legalization-november/">USA</a> or the Netherlands for example. Now, in South Tyrol the Forum for Prevention wanted to legalize cannabis to avoid drug abuse in the autonomous region, however, it was opposed by the Center Bad Bachgart.</p>

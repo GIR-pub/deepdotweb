@@ -17,7 +17,7 @@ Feds Give Security Researchers Two Years to Hack Almost Anything
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The U.S. Copyright Office recently removed restrictions that hindered IoT security researchers. Digital Millennium Copyright Act (DMCA) restrictions <a href="https://www.eff.org/files/2016/10/27/2015-8_eff_comments_re_1201-second_round_with_appendix.pdf">prevented researchers from reverse engineering copyrighted software</a>. The same was true for cars, voting machines, &#8220;IoT&#8221; devices, and similar devices.</p>
     <p>Government opinions on the topic were scattered across the playing field. But the Army recently allowed hackers to hack the Pentagon and the results were promising. Officials recommended reaching out to the private sector for security tests. Time and money, in the end, would be saved. Times have changed. The State Department, though, just <a href="https://www.deepdotweb.com/">failed their own security test</a>. And since many officials approved the “Hack the Army” program; the State Department could be next.</p>

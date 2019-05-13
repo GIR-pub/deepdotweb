@@ -9,7 +9,7 @@ Byteball: Make DAGs, Not Chains!
     <span><a href="https://www.deepdotweb.com/2016/11/28/byteball-make-dags-not-chains/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://byteball.org/">Byteball</a> is a decentralized cryptocurrency like none seen before it. It has no blocks, hence no blockchain, hence no block size issue. It relies instead in DAG (Directed Acyclic Graph) to partially organize transactions, which form their own “blocks” called units. These units are limitless, but the fee paid for each transactions ir proportional to their size. &#8211; <a href="https://byteball.org/Byteball.pdf">Read Whitepaper</a></p>
     <p><img class="wp-image-16633 aligncenter" src="/imgs/2016/11/word-image-33.png" srcset="/imgs/2016/11/word-image-33.png 628w, /imgs/2016/11/word-image-33-300x89.png 300w" sizes="(max-width: 628px) 100vw, 628px"/></p>
     <p>Byteball DAG</p>

@@ -17,7 +17,7 @@ Dealer Couple Arrested In Germany, Police Seized More Than a Kilogram Of Ampheta
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>German law enforcement authorities <a href="http://www.idowa.de/inhalt.erding-landshut-dealerpaerchen-festgenommen-ein-kilo-amphetamin-sichergestellt.e0ef611d-1f8d-4d06-a5f4-1b895a44ca3c.html">arrested</a> a couple who allegedly bought <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> from the dark web and resold them to customers locally.</p>
     <p><a id="post-19074-_gjdgxs"></a> On the evening of Monday morning, an officer of the local police arrested a 28-year-old woman and her 37-year-old boyfriend, both from Landshut, Germany, in Erding. According to police information, the couple sold more than a kilogram of <a href="https://www.deepdotweb.com/tag/amphetamine/">amphetamine</a> to their customers in the Freising area. Law enforcement authorities were investigating the two suspects for weeks. The investigation uncovered that the 28-year-old and the 37-year-old engaged in the illegal trade of the synthetic <a href="https://www.deepdotweb.com/tag/drugs/">drug</a> in large quantities. On Monday evening, the two suspects were detained by the police and were taken into custody in the city center of Landshut. In the raid, investigators seized 800 grams of amphetamine (police did not disclose the place where they found the narcotics) and 200 grams of amphetamine along with 5.5 grams of MDMA from the woman’s apartment.</p>

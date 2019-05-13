@@ -9,7 +9,7 @@ Darknet Vendor Confessed to Selling Heroin and Fentanyl on Multiple DNMs
     <span><a href="https://www.deepdotweb.com/2016/11/05/darknet-vendor-confessed-selling-heroin-fentanyl-multiple-dnms/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>DEA agents conducted undercover buys from a darknet vendor between 2015 and 2016. That vendor, after sitting in jail for months, pleaded guilty on October 27. In a Broward County courthouse, Chrissano Leslie aka “owlcity” admitted to selling heroin and fentanyl on the DNMs. He pleaded guilty to all charges of drug-dealing, money-laundering conspiracy, and aggravated identity theft.</p>
     <p>In addition to heroin and fentanyl, Leslie sold α-PVP. The state of Florida has had issues with widespread α-PVP use; according to mainstream media, Florida has dealt with more α-PVP abuse than many states combined. Sources of the drug, both online and at a street level, became a high priority for Florida law enforcement.</p>
     <p>Leslie landed on the DEA’s radar after the U.S. Postal Service intercepted several of his outgoing packages. The U.S. Postal Inspection Service (USPIS) notified the DEA after discovering the presence of α-PVP and fentanyl. Several public service <a href="https://www.deepdotweb.com/2016/09/23/pill-counterfeiting-lab-bust-dea-warns-fentanyls-danger/">warnings regarding Fentanyl</a> have been made by the DEA where they promised to end fentanyl trafficking.</p>

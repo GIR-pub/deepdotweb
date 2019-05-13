@@ -9,7 +9,7 @@ Multi-Agency Force Brings Down Dark Web Identity Theft from Douglas County
     <span><a href="https://www.deepdotweb.com/2019/01/22/multi-agency-force-brings-down-dark-web-identity-theft-from-douglas-county/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Recently in the city of Long Tree of Colorado, two arrests <a href="https://www.denverpost.com/2019/01/06/douglas-county-retail-theft-strike-force/">linked to identity theft</a> have been made. These are among many other apprehensions that have been made by organized multi-agency services in Douglas County aimed at bringing retail identity theft to a halt.<img class="wp-image-28171 aligncenter" src="/imgs/2019/01/word-image-27.jpeg" srcset="/imgs/2019/01/word-image-27.jpeg 660w, /imgs/2019/01/word-image-27-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>Other such white-collar crimes include defalcation as reported from Highlands Ranch, a local case of <a href="https://www.deepdotweb.com/2018/12/20/brooklyn-woman-sentenced-for-dark-web-identity-theft-and-fraud-conspiracy-charges/">identity theft</a> of iPhone users, and cloning of credit cards. These crimes have led to Colorado being ranked as the second state most prone to identity theft, following Florida.</p>
     <p>Stolen identity is marketed on <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet market sites</a> where prices vary depending on the worth of the stolen identity. These sites are favorable to identity theft criminals as they are heavily encrypted and offer anonymity.</p>

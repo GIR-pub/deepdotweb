@@ -9,7 +9,7 @@ Undercover Police Befriends Dark Web Criminal Who Killed His Wife
     <span><a href="https://www.deepdotweb.com/2017/05/06/undercover-police-befriends-dark-web-criminal-killed-wife/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A Calgary officer, whose name remains undisclosed, befriended the murderer of his common-law wife Lisa Mitchell in order to gain his trust and close the investigation successfully on the murder case successfully.</p>
     <p>Allan Shyback, a 40-year-old man who previously lived together with Mitchell a few years ago, was suspected of murdering Mitchell after her body hidden in a plastic container was found in the basement of Shyback’s home.</p>
     <p>According to the official <a href="http://www.metronews.ca/news/calgary/2017/04/20/undercover-police-officer-buddied-up-with-accused-killer.html">report</a> of the Calgary police, the common-law husband of Mitchell participated in an undercover investigation called “Operation Aurora” in 2013, which involved the case of Shyback and the murder of Mitchell that occurred in 2012. The Calgary police revealed that its undercover investigative team including the husband of Mitchell established 83 undercover scenarios to engage with Shyback and his dark web operations.</p>

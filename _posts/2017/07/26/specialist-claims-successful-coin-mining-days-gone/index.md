@@ -9,7 +9,7 @@ Specialist Claims Successful Coin Mining Days are Gone
     <span><a href="https://www.deepdotweb.com/2017/07/26/specialist-claims-successful-coin-mining-days-gone/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>At the <a href="https://qz.com/1024930/bitcoin-malware-an-italian-banks-server-was-hijacked-to-mine-bitcoin-says-darktrace/">Research and Applied AI Summit in London</a>, the director of technology at Darktrace spoke of a bank server that a European crime syndicate hijacked to mine Bitcoin. The incident contrasted the machine learning company&#8217;s findings for recent Bitcoin mining—he explained that the era of secretive Bitcoin mining had passed. Professional enterprises with dedicated servers dominated the sector due to the power requirements for lucrative <a href="https://www.deepdotweb.com/tag/mining/">Bitcoin mining</a>, he explained.</p>
     <p>Dave Palmer, Darktrace&#8217;s technology director, manages the cybersecurity firm’s mathematics departments and methodology. Darktrace utilizes machine learning and artificial intelligence to detect anomalies in computer systems. The firm purportedly developed the world&#8217;s first “<a href="https://www.darktrace.com/products/#darktrace-ics">Enterprise Immune System</a>.” Their unique strategy allows clients to respond to “in-progress cyber-attacks.”</p>

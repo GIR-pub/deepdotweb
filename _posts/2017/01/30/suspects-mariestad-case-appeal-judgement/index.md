@@ -9,7 +9,7 @@ Suspects In Mariestad Case Appeal Judgement
     <span><a href="https://www.deepdotweb.com/2017/01/30/suspects-mariestad-case-appeal-judgement/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Skaraborg District Court in Sweden recently sentenced a 30-year-old and a 35-year-old to eight years and six months in prison for running a vendor shop on the dark web. Now, both men <a href="http://mariestadstidningen.se/mariestad/2017/01/15/35-aring-overklagar-knarkdomen?refresh=true">appealed</a> their convictions at the Gota Court of Appeal.</p>
     <p><img class="wp-image-17854 aligncenter" src="/imgs/2017/01/https-www-deepdotweb-com-wp-content-uploads-2016.jpeg" alt="/imgs/2016/12/word-image-41.jpeg" srcset="/imgs/2017/01/https-www-deepdotweb-com-wp-content-uploads-2016.jpeg 612w, /imgs/2017/01/https-www-deepdotweb-com-wp-content-uploads-2016-300x169.jpeg 300w" sizes="(max-width: 612px) 100vw, 612px"/></p>
     <p>With the appeal filed, there is a risk to the suspects. If the prosecutor files a cross-appeal, both of them could receive harsher sentences. The prosecutor asked for a maximum sentence for both men, 14 years in prison.</p>

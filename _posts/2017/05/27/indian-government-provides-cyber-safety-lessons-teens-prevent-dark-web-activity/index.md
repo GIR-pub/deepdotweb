@@ -9,7 +9,7 @@ Indian Government Provides Cyber Safety Lessons to Teens to Prevent Dark Web Act
     <span><a href="https://www.deepdotweb.com/2017/05/27/indian-government-provides-cyber-safety-lessons-teens-prevent-dark-web-activity/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Delhi police in partnership with local Indian educational institutions and schools have begun to provide cyber safety lessons to teenagers across the country. According to Dependra Pathak, a spokesperson and special commissioner for Delhi Police, the law enforcement agency will teach safe online habits to ensure teenagers don’t get involved in illicit cyber activities and fall victim to illegal operations.</p>
     <p><img class="wp-image-20187 aligncenter" src="/imgs/2017/05/word-image-112.png" srcset="/imgs/2017/05/word-image-112.png 700w, /imgs/2017/05/word-image-112-300x178.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
     <p>As a start, Delhi Police invited all of the schools in the country to its cyber security workshops and seminars to encourage teachers to plan and establish appropriate cyber security lessons for their students. So far, the cyber security program designed by the cyber cell of Economic Offences Wing was attended by 423 computer teachers from 302 schools in the country.</p>

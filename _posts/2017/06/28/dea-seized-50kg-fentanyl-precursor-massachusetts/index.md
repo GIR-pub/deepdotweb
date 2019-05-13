@@ -9,7 +9,7 @@ DEA Seized 50kg of Fentanyl Precursor in Massachusetts
     <span><a href="https://www.deepdotweb.com/2017/06/28/dea-seized-50kg-fentanyl-precursor-massachusetts/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>At a storage facility in Massachusetts, the Drug Enforcement Administration <a href="https://www.justice.gov/usao-ma/pr/50-kilos-fentanyl-precursor-chemical-seized-worcester-county">seized 50 kilograms of N-Phenethyl-4-piperidinone</a> aka NPP Law enforcement agencies and synthing forums know NPP as an integral piece of the puzzle when creating fentanyl and several of the analogs. And fittingly, the DEA placed NPP on a controlled precursor in 2007.</p>
     <p>The precursor is neither the only route to fentanyl or useful in only fentanyl synthesis. It may, however, be the quickest and simplest option for smaller clandestine laboratories to pump out fentanyl. The press release pointed to a multi-agency investigation behind the discovery. Along with state law enforcement, the DEA worked with the United States Postal Inspection Service.</p>
     <p><img class="wp-image-20957 aligncenter" src="/imgs/2017/06/word-image-181.jpeg" srcset="/imgs/2017/06/word-image-181.jpeg 798w, /imgs/2017/06/word-image-181-300x173.jpeg 300w" sizes="(max-width: 798px) 100vw, 798px" /></p>

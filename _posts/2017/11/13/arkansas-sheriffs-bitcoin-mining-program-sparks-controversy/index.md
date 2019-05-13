@@ -17,7 +17,7 @@ Arkansas Sheriff’s Bitcoin Mining Program Sparks Controversy
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>An Arkansas sheriff’s office launched a <a href="http://deepdotweb.com/tage/bitcoin">bitcoin</a> mining pilot program in its Cyber Crimes Division in hopes that the mined bitcoin will help investigators in future crimes on the <a href="http://deepdotweb.com/tag/darknet">darknet</a>. In a statement to the press, detective Olin Rankin said the Cyber Crimes Division plans to use bitcoin in the same ways that criminals use bitcoin in undercover operations on the internet. The focus is on one sector of internet crime in particular: the exploitation of children through hidden forums and messageboards.</p>
     <p>The public raised questions regarding <a href="http://www.arkansasonline.com/news/2017/oct/30/deputies-mine-bitcoins-work/?f=news-arkansas">the program’s purpose</a> and whether or not the mined bitcoin would make any difference in criminal investigations. Benton County Sheriff Shawn Holloway explained that the Cyber Crimes Division would use bitcoin mining to help keep the public safe. How mining bitcoin will put the department at an advantage remains unknown; spokespersons for the department, for the prosecutor’s office, and for the Division neglected to fully explain what the benefit to mining bitcoin would be. And, as of the announcement, none of the mined bitcoin had been spent or used in any operations.</p>

@@ -9,7 +9,7 @@ Using Bitcoin Casinos To Launder Bitcoin
     <span><a href="https://www.deepdotweb.com/2016/04/13/using-bitcoin-casinos-launder-bitcoin/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>There are a lot of different ways bitcoin can be used to facilitate illegal activities. One of which is using it as the currency of a darknet market, like the infamous Silk Road. While there has been a crackdown on darknet markets, it hasn&#8217;t had any real impact. To see this in action, you can go to the darknet markets <a href="https://www.reddit.com/r/darknetmarkets">subreddit</a> where you&#8217;ll find a thriving community that almost 100k people have subscribed to.</p>
     <p>On the the aforementioned subreddit, you will find <s>everything you&#8217;d expect from a normal subreddit like healthy and constructive discussion.</s> Bailey Jay, paranoia-fueled rants (those who make these are often called within the community a “bartard” ), vendor reviews and complaints, market announcements which may or may not end in an exit scam, FUD, relevant news and PSAs, and so on.</p>
     <p>It must be noted that you can find these kinds of discussions on the forums as well – the only difference being that you don&#8217;t need JavaScript enabled to join in.</p>

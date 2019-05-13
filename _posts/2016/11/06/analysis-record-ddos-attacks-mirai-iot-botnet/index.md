@@ -9,7 +9,7 @@ Analysis: Record DDoS Attacks by Mirai &#8211; IoT Botnet
     <span><a href="https://www.deepdotweb.com/2016/11/06/analysis-record-ddos-attacks-mirai-iot-botnet/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Number of Internet of Things (IoT) devices is growing exponentially over time. Internet connected cameras, thermostats, refrigerators and others were recently part of biggest Distributed Denial of Service Attack (DDoS) in the history.</p>
     <p>This article contains explanation of botnets, DDoS and analysis of recent record breaking DDoS attack by Mirai Botnet and brief analysis of the C++ source code!</p>
     <p>DDoS attack is an attempt to make an online service unavailable by overwhelming it with traffic from multiple sources. For example, if a website&#8217;s server is capable of serving 1 byte per second and a DDoS attack of 5 bytes per second is launched against your site: in the first second, 1 byte would be processed, and then the remaining 5 bytes would be queued until the next second. At first, visitors don&#8217;t have to wait too long in the queue, but as the queue becomes longer, timeouts will increase.</p>

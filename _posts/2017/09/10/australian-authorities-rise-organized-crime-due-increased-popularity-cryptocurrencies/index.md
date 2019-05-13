@@ -10,7 +10,7 @@ Australian Authorities: Rise In Organized Crime Is Due To The Increased Populari
     <span><a href="https://www.deepdotweb.com/2017/09/10/australian-authorities-rise-organized-crime-due-increased-popularity-cryptocurrencies/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a id="post-22473-_gjdgxs"></a> Australia’s financial sector has experienced a major increase in organized crime. The country’s criminal intelligence agency <a href="https://www.finextra.com/newsarticle/30997/australia-blames-bitcoin-for-rise-in-organised-crime">reported</a> that this rise is due to the growth of online banking systems and increased popularity of cryptocurrencies.</p>
     <p><img class="wp-image-22478 aligncenter" src="/imgs/2017/09/word-image-6.jpeg" width="614" height="460" srcset="/imgs/2017/09/word-image-6.jpeg 2500w, /imgs/2017/09/word-image-6-300x225.jpeg 300w, /imgs/2017/09/word-image-6-1024x768.jpeg 1024w" sizes="(max-width: 614px) 100vw, 614px" /></p>
     <p>Recently, the Australian Criminal Intelligence Commission (ACIC) published a report, in which the agency stated that the expected damage of the <a href="https://www.deepdotweb.com/2017/08/16/belgian-police-raiding-houses-btc-money-laundering-bust/">money laundering</a> and further financial crimes – conducted by organized criminal gangs – costs the country over $28.43 billion annually.</p>

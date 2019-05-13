@@ -9,7 +9,7 @@ Hungary Passes New Law To Ban Full Encryption
     <span><a href="https://www.deepdotweb.com/2016/05/16/hungary-passes-new-law-to-ban-full-encryption/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Parliament in Hungary voted on a legislative amendment that would prohibit end to end encryption, online daily index.hu reported yesterday. The reasons behind this are to help fight the growing threat of terrorism Hungary is facing. The proposed changes would mandate any providers offering end to end encryption to provide data for the Hungarian government when it requests so.</p>
     <p><a href="http://bbj.hu/politics/legislation-would-ban-fully-encrypted-communication_115941">When this change takes place</a> it would make applications that offer end to end encryption such as the Hungry based CryptTalk pointless.  Cabinet Chief Janos Lazar said at one of his weekly press conferences that “services using encryption would not be banned, but intelligence services would ask service providers to let intelligence services monitor the communication flow in a terror situation.</p>
     <p>Decoding encrypted messages isn&#8217;t always possible. With CrypTalk there are no servers where information is stored and not even the developers are able to decrypt the communications.</p>

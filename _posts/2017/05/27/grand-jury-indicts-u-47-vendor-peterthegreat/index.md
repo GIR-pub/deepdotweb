@@ -17,7 +17,7 @@ Grand Jury Indicts U-47 Vendor “PeterTheGreat”
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>An indictment recently named the couple legally considered responsible for the death of an eighteen-year-old overdose victim in Portland Oregon. The two, Theodore Vitaliy Khleborod and Ana Milena Barrero, sold U-47700 on darknet markets like <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a>. In early May, only weeks after their arrest (and even less time since the police stopped using the seized vendor account), a grand jury indicted both defendants.</p>
     <p><img class="wp-image-20174 aligncenter" src="/imgs/2017/05/word-image-108.png" width="690" height="385" srcset="/imgs/2017/05/word-image-108.png 1076w, /imgs/2017/05/word-image-108-300x167.png 300w, /imgs/2017/05/word-image-108-1024x571.png 1024w" sizes="(max-width: 690px) 100vw, 690px" /></p>

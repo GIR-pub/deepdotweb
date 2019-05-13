@@ -9,7 +9,7 @@ Two Men that Manufactured and Sold Counterfeit Xanax Through the Dark Web Senten
     <span><a href="https://www.deepdotweb.com/2019/03/14/two-men-that-manufactured-and-sold-counterfeit-xanax-through-the-dark-web-sentenced-2/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Two Men that Manufactured and Sold Counterfeit Xanax Through the Dark Web Sentenced</p>
     <p>BY: CASHCARD</p>
     <p>Two men were sentenced in the Hartford Federal Court for their roles in the manufacture and distribution of counterfeit Xanax and <a href="https://www.deepdotweb.com/2018/11/20/steroid-dealer-convicted-for-ordering-and-selling-steroids-in-idaho/">anabolic steroids via the dark web</a>. One of the men, believed to be the mastermind of the entire operation, was sentenced to 20 months in prison, while his accomplice was given a 3-year probation sentence. The pair allegedly admitted to having sold thousands of Xanax pills and anabolic asteroids.</p>

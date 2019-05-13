@@ -17,7 +17,7 @@ Police Bust a “Darknet” Drug Ring With 500g of Amphetamine in Underground St
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A group of four drug traffickers were arrested after a multi-month investigation by a German narcotics taskforce. The group operated at a street level, but resold drugs from the darknet in “considerable” quantities. Most notable, perhaps, was that police seized a half-kilogram of amphetamine during the raids.</p>
     <p>The investigation, according to the <a href="http://www.presseportal.de/blaulicht/pm/19027/3471571">police report</a>, took several months because of how complex the group’s system was. Norderstedt investigators were required to track members of the group at all times to reveal structures and delivery routes.</p>

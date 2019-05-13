@@ -9,7 +9,7 @@ Major Dream Vendor Busted in Germany
     <span><a href="https://www.deepdotweb.com/2017/12/09/major-dream-vendor-busted-germany/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>The Federal Criminal Police Office (BKA) made yet another significant bust in November. This time, according to <a href="https://www.scribd.com/document/365431415/Rauschgift-Darknet-Mrdrogenkommandant-Announcement">the BKA’s press release</a>, German authorities arrested a so-called “top vendor” on both the Hansa and Dream Marketplaces. The vendor, a 29-year-old German National, used the pseudonyms “mrdrogenkommandant” and “drogenfahndung.”</p>
     <p>BKA investigators, the Central Office for the Suppression of Cybercrime (ZIT), and the Public Prosecutor&#8217;s Office of Coburg opened an investigation into mrdrogenkommandant in August 2017. The investigation revealed that the vendor and his numerous associates lived in the Netherlands but made regular—even daily—trips to Germany. Mrdrogenkommandant and his conspirators sold more than enough drugs to warrant trips to various parcel reception stations at the end of every workday. The BKA learned of these daily trips.</p>

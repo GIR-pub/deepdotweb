@@ -9,7 +9,7 @@ The Journey of Amphetamines
     <span><a href="https://www.deepdotweb.com/2016/06/08/the-journey-of-amphetamines/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>While researching at Berlin University, the Romanian doctoral student Lazar Edeleanu published a thesis involving phenyl-isobutyric acid. His original research detailed the discovery of several novel molecules, including one that would revolutionize medicine. Thought originally to be worthless, he named the molecule phenyl-isopropylamine and moved his research in a different direction.</p>
     <p><a href="/imgs/2016/06/amph1.png"><img class="aligncenter size-full wp-image-14394" src="/imgs/2016/06/amph1.png" alt="amph1" width="655" height="169" srcset="/imgs/2016/06/amph1.png 655w, /imgs/2016/06/amph1-300x77.png 300w" sizes="(max-width: 655px) 100vw, 655px"/></a></p>
     <p>Edeleanu’s new discovery soon became a distant memory as nearly 40 years sped by until the molecule resurfaced in a Los Angeles laboratory. While studying asthma, the American pharmacologist Gordon Alles researched ephedrine in hopes of minimizing its side effect profile.</p>

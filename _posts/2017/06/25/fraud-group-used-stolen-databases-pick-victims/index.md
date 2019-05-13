@@ -9,7 +9,7 @@ Fraud Group Used Stolen Databases to Pick Victims
     <span><a href="https://www.deepdotweb.com/2017/06/25/fraud-group-used-stolen-databases-pick-victims/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Marking an important moment in an investigation that started last May, the Civil Guard in Murcia, Spain <a href="http://www.laverdad.es/murcia/jumilla/sorprenden-integrantes-dedicada-20170603125117-nt.html">arrested two key players of a identity fraud ring</a>. The investigation took place under the name “Operation Darkweb,” (but not to be confused with an ongoing drug investigation in Spain). This investigation pinpointed into two men who participated in a network of fraudulent activity, often related to telephones.</p>
     <p>In May, the Civil Guard arrested another member of this <a href="https://www.deepdotweb.com/tag/fraud/">fraud network</a>—although, at the time, the connection to a much larger criminal organization was not known. During a search of the suspect’s computer, authorities found a massive collection of what appeared to be stolen identities. Not everything found was a complete stolen identity; the owner stored lists of names and addresses, but also stored files that contained a full set of identification documents.</p>
     <p>Amount those documents were passports and the identity cards of unknown foreigners. Some of the hidden files on the computer contained names, unspecified ID numbers, postal information, and banking data. After a few months filled with investigation, authorities discovered that most of the names lined up with people that had fallen victim to several types of digital scams.</p>

@@ -9,7 +9,7 @@ Risk of Using Browser Autofill Feature
     <span><a href="https://www.deepdotweb.com/2017/01/30/risk-of-using-browser-autofill-feature/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Everybody hates filling out web forms so some browsers offer a handy Autofill feature to automate the job for you. Unfortunately, it&#8217;s handy for hackers, too.</p>
     <p>Hackers can abuse this feature to phish for your private information as well as credit card number, expiration date and cvc. Any website can have a lot of hidden fields that might get auto-filled and submitted without your knowledge. Take a quick look yourself:</p>
     <p>This proof-of-concept <a href="https://anttiviljami.github.io/browser-autofill-phishing/">demo website</a> consists of a simple online web form with just two fields: name and email. But what&#8217;s not visible are many out of sight fields, including the credit card information, phone number, organization, address, postal code, city etc. There&#8217;s more than one way of coding this, for example (linked demo site):</p>

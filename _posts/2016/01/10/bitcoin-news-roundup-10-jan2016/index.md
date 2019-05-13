@@ -9,7 +9,7 @@ Bitcoin News Roundup – 10 Jan2016
     <span><a href="https://www.deepdotweb.com/2016/01/10/bitcoin-news-roundup-10-jan2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
     <p>Germany seeks to control cryptocurrency transactions. As Lana Smiley of <a href="http://cointelegraph.com/news/115998/german-government-tracks-bitcoin-transactions-to-prevent-terrorism-financing">Coin Telegraph</a> reports, following the Munich terror alert, the Christian Social Union (CSU) presented a document with potential solutions to combat terrorism. The document referred to controlling transactions involving the digital currency as a means to prevent terrorism financing. Given that the bitcoin transactions are anonymous, the German government was to have control on them to dry out terrorists from income sources.</p>
     <p>Τhe US Securities and Exchange Commission (SEC) files a motion against GAW Miners. As Stan Higgins of <a href="http://www.coindesk.com/sec-motion-default-ponzi-scheme-gaw-miners/">Coin Desk</a> writes, following an SEC suit in December against GAW Miners and ZenMinerfor alleged Ponzi schemes, the two startups have failed to respond to the official complaint on December 28th, thus forcing SEC to file a motion against them. Josh Garza, GAW Miners CEO, was charged with securities fraud and the operation of a Ponzi scheme according to a long-standing investigation that was concluded in December. However, Garza’s name is not mentioned in the file motion.</p>

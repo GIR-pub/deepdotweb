@@ -9,7 +9,7 @@ Weapon Arsenal Found In German’s House
     <span><a href="https://www.deepdotweb.com/2017/06/17/weapon-arsenal-found-in-germans-house/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Earlier this week, customs authorities searched a man’s home from Oberbergischen Kreis, Germany, and <a href="http://www.rundschau-online.de/region/oberberg/gummersbach/bestellung-aus-dem-darknet-waffenarsenal-bei-38-jaehrigem-oberberger-sichergestellt-27015334">found extensive amounts of firearms and ammunition</a>. Investigators said that the suspect ordered the weapons from the dark web.</p>
     <p><img class="aligncenter wp-image-20697" src="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-71-1.jpeg" alt="" width="645" height="324" /></p>
     <p>On May 30, investigators from the Customs Office in Frankfurt am Main issued a warrant on the home of a 38-year-old man. During the house search, law enforcement authorities seized Three long-range weapons, more precisely two shotguns and a machine gun, along with a handgun, approximately 1,000 rounds of ammunition, prohibited pyrotechnics, and black powder.</p>

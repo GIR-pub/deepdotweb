@@ -9,7 +9,7 @@ Electronic Surveillance Requests are up 500 Percent in the United States
     <span><a href="https://www.deepdotweb.com/2016/11/03/electronic-surveillance-requests-500-percent-united-states/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A recent release by the courts shows that electronic surveillance is up by 500 percent in and around Washing D.C.; including parts of Virginia. <a href="https://www.washingtonpost.com/local/public-safety/us-courts-electronic-surveillance-up-500-percent-in-dc-area-since-2011-almost-all-sealed-cases/2016/10/22/48693ffa-8f10-11e6-9c52-0b10449e33c4_story.html">The release is broad</a>, and general leaving many unanswered questions. Listing show that the growth of electronic surveillance by law enforcement has grown to new heights since the 1986 law that allowed the collection of user data such as phone records, email and other internet related communications.</p>
     <p>“<em>Unsealing basic docket information is an important first step for courts to recognize that they have been long enabling a kind of vast, secret system of surveillance that we now know to be so pervasive</em>,” Staff Attorney for the American Civil Liberties Union, Brett Kaufman said.</p>
     <p>Two federal courts are included with having the most activity when it comes to these requests, facilitating investigations that stretch across the nation. These two courts are also the only known courts to have made disclosures about the surveillance dockets.</p>

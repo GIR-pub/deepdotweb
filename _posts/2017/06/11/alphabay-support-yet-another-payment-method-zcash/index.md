@@ -9,7 +9,7 @@ Alphabay to Support Yet Another Payment Method: Zcash
     <span><a href="https://www.deepdotweb.com/2017/06/11/alphabay-support-yet-another-payment-method-zcash/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In March 2017, Alphabay developers revealed a framework for yet another cryptocurrency: Ethereum. One month later, on May 1, the marketplace allowed the withdrawal and deposit of Ethereum. And rewind to 2016, Alphabay developers made the same advancement with Monero. Back to modern day, <a href="https://www.reddit.com/r/DarkNetMarkets/comments/6d7q81/alphabay_will_accept_zcash_starting_july_1st_2017/">Alphabay staff announced impending support of Zcash</a>, much to the surprise of Reddit users.</p>
     <p>The community showed their highest level of acceptance when <a href="https://www.deepdotweb.com/2016/08/23/alphabay-oasis-markets-begin-accepting-monero-payments/">Alphabay announced the adoption of Monero</a>. At the time, Alphabay was only the second <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet drug market</a> to implement Monero, and only by three days. The marketplace ahead of Alphabay in the currency adoption race, Oasis, now sits in the list of dead marketplaces, so the point is a moot one.</p>
     <p><img class="wp-image-20538 aligncenter" src="/imgs/2017/06/word-image-43.jpeg" srcset="/imgs/2017/06/word-image-43.jpeg 800w, /imgs/2017/06/word-image-43-300x174.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

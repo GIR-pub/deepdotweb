@@ -9,7 +9,7 @@ Darknet Weapons Vendor From Kansas Sentenced to 52 Months in Prison
     <span><a href="https://www.deepdotweb.com/2017/02/16/darknet-weapons-vendor-kansas-sentenced-52-months-prison/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Acting Assistant Attorney General Kenneth A. Blanco of the Justice Department’s Criminal Division along with Acting U.S. Attorney Tom Beall of the District of Kansas announced the end of a darknet gunrunner case. A Kansas man Michael Andrew Ryan, aka Brad Jones and GunRunner, signed a plea deal to shorten his sentence—contingent upon information Ryan provided. According to the Department of Justice&#8217;s press release, he provided the information requested and received the prison sentence and further penalties outlined in the court documents.</p>
     <p>U.S. District Judge Daniel D. Crabtree of the District of Kansas <a href="http://www.kansascity.com/news/local/crime/article129764179.html#storylink=cpy">sentenced Ryan to 52 months in prison</a>. In addition, Ryan must forfeit any remaining weaponry in his possession. According to the court documentation, law enforcement seized Ryan’s weapons at the time of his arrest. They additionally confiscated the defendant&#8217;s ammunition for assorted firearms.</p>
     <p><img class="wp-image-18156 aligncenter" src="/imgs/2017/02/word-image-17.png" width="810" height="482" srcset="/imgs/2017/02/word-image-17.png 2420w, /imgs/2017/02/word-image-17-300x179.png 300w, /imgs/2017/02/word-image-17-1024x609.png 1024w" sizes="(max-width: 810px) 100vw, 810px"/></p>

@@ -9,7 +9,7 @@ Comprehensive Guide to Backdoors
     <span><a href="https://www.deepdotweb.com/2017/01/25/comprehensive-guide-backdoors/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>When I was learning this, I was disappointed with internet guides for setting up remote access, aka backdoor to a computer so here&#8217;s my contribution. Also, it&#8217;s important for security and privacy concerned people to understand this because these methods are often used maliciously to gain control over target computer.</p>
     <p>In this article, I&#8217;m going to cover theory and practice behind binding TCP shells and reverse TCP shells. After that I will briefly touch upon their advanced versions &#8211; secure shells (SSH) and reverse secure shells.</p>
     <p><strong>Theory</strong></p>

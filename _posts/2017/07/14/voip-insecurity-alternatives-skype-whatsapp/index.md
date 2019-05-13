@@ -9,7 +9,7 @@ VOIP (IN)SECURITY: ALTERNATIVES TO SKYPE AND WHATSAPP
     <span><a href="https://www.deepdotweb.com/2017/07/14/voip-insecurity-alternatives-skype-whatsapp/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>Skype was released on August 29, 2003 and was quite a revolution. With Skype the voice and video information was packetized and transmitted over internet protocol networks; people could call for free, using only an internet connection. Skype was then acquired by Microsoft that started to work with NSA in the PRISM surveillance program in order to access private calls and messages from nine big companies including Microsoft, Apple, Google, Facebook.</p>
     <p><img class="wp-image-21243 aligncenter" src="/imgs/2017/07/word-image-14.png" srcset="/imgs/2017/07/word-image-14.png 700w, /imgs/2017/07/word-image-14-300x225.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>

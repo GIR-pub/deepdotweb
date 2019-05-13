@@ -9,7 +9,7 @@ Stuttgart Public Prosecutor Blames Darknet for Designer Drug Use
     <span><a href="https://www.deepdotweb.com/2017/08/16/stuttgart-public-prosecutor-blames-darknet-designer-drug-use/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>In Stuttgart, <a href="https://www.deepdotweb.com/tag/german/">Germany</a>, the number of drug charges involving novel psychoactive substances (NPS) is on the rise. And, according to drug clinics in the area, the so called “legal highs” are also contributing to a growing number of fatal overdoses.<img class="wp-image-22008 aligncenter" src="/imgs/2017/08/legal-highs-2-1024x575-jpg.jpeg" alt="Legal-highs-2-1024x575.jpg" width="751" height="422" /></p>
     <p>The senior physician at a local <a href="https://www.deepdotweb.com/tag/drug/">drug addiction</a> clinic spoke of a 23-year-old who had almost died while on unknown chemicals. Three Police officers kept him from jumping off a ledge several stories high. “He explained to me,&#8221; Benedict Bloching, the clinic&#8217;s senior physician said, &#8220;that he had never had such bad experiences with illegal drugs before. Such cases are a commonplace at the clinic, Bloching explained. However, “such drug cases are often not recognized at all.”</p>

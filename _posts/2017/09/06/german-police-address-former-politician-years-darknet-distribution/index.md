@@ -9,7 +9,7 @@ German Police Address Former Politician for Years of Darknet Distribution
     <span><a href="https://www.deepdotweb.com/2017/09/06/german-police-address-former-politician-years-darknet-distribution/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A former district committee member and board spokesperson of the Green party in Friedrichshain-Kreuzberg sold drugs on the darknet since 2013, German authorities announced on August 22. That very same day, a special police commando unit raided the 40-year-old’s apartment after a lengthy investigation into his criminal activities. In total, according to the Berlin Landeskriminalamt (LKA), “Boris J.,” the suspect, had made 6,500 individual sales.</p>
     <p>He sold, according to the LKA and Oldenburg police, various “synthetic” drugs. The detectives mentioned 34,200 ecstasy pills, more than 7,000 <a href="https://www.deepdotweb.com/tag/lsd/">LSD</a> tabs, and an unknown number of 2C-B capsules. Reddit&#8217;s resident darknet market users believe the former politician was a vendor under the name “03welle.” Boris J, according to the police, shipped his packages inside music CD cases. Marketplace buyers stated that 03welle utilized the same tactic. They both had sold the same drugs, as well. Although dates are no more than circumstantial evidence, both 03welle and Boris J. started in 2013.</p>
     <p><img class="wp-image-22401 aligncenter" src="/imgs/2017/09/screenshot_20170824_125513-png.png" alt="Screenshot_20170824_125513.png" srcset="/imgs/2017/09/screenshot_20170824_125513-png.png 587w, /imgs/2017/09/screenshot_20170824_125513-png-300x152.png 300w" sizes="(max-width: 587px) 100vw, 587px" /></p>

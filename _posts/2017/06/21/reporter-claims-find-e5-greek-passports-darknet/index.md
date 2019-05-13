@@ -9,7 +9,7 @@ Reporter Claims to Find €5 Greek Passports on the Darknet
     <span><a href="https://www.deepdotweb.com/2017/06/21/reporter-claims-find-e5-greek-passports-darknet/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a Eleftheros Typos, a well-known Greek newspaper, law enforcement in Greece only recently became aware of <a href="http://www.eleftherostypos.gr/ellada/105014-apokalypsi-e-t-plasta-ellinika-diabatiria-sto-dark-web-gia-5-eyro/">fake passports on darknet markets</a>. The newspaper, known in English as “Free Press,” walked through the process in the Sunday print edition of the publication.</p>
     <p>The second Silk Road, “<a href="https://www.deepdotweb.com/marketplace-directory/listing/silk-road-2-0">Silk Road 2.0</a>,” hosted various identity documents. Fake IDs and fake ID templates were a commonplace. Identification document vendors sold fake ID scans and physical fake IDs, and although less common, passports too. Real passports are much more difficult to viably sell than digital passport templates. Partially because physical versions require a great deal of work to obtain on a regular basis. And, not coincidentally, the real passports, on darknet marketplaces cost more by a substantial margin.</p>
     <p><img class="wp-image-20789 aligncenter" src="/imgs/2017/06/word-image-128.jpeg" /></p>

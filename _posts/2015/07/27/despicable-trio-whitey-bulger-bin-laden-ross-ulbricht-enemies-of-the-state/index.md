@@ -9,7 +9,7 @@ Despicable trio &#8211; Whitey Bulger, Osama &#038; Ulbricht &#8211; Enemies of 
     <span><a href="https://www.deepdotweb.com/2015/07/27/despicable-trio-whitey-bulger-bin-laden-ross-ulbricht-enemies-of-the-state/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><em>Contributed by the article author</em> &#8211; There are indications that that DPR&#8217;s home for the next 50 years or so until he dies will be The United States Penitentiary, Coleman II</p>
     <p>Cursory observations of this complex reveal it classified as:</p>
     <p><strong>Maximum Security Prison &#8211; The United States Penitentiary, Coleman is a high-security United States federal prison for male inmates in Florida..</strong></p>

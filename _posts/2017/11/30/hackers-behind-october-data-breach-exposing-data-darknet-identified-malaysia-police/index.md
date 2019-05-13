@@ -9,7 +9,7 @@ Hackers Behind the October Data Breach Exposing Data on Darknet Identified by Ma
     <span><a href="https://www.deepdotweb.com/2017/11/30/hackers-behind-october-data-breach-exposing-data-darknet-identified-malaysia-police/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In October 2017, a data breach hit the whole country of Malaysia which went down into history as one of the worst ever recorded in the country. Over 46 million mobile phone subscribers were affected, and their data were later exposed on the Darknet for sale.</p>
     <p>The Malaysia police have identified the brains behind that incident after a thorough investigation. On Thursday, they officially announced that they have <a href="http://gearsofbiz.com/malaysian-police-identify-suspected-hackers-behind-breach-that-exposed-data-of-millions-on-dark-web/212285">identified several suspects</a> linked to the data breach.</p>
     <p>They recently assured the general public about the commencement of the investigation right after the attack, and it has really been fast and effective so far.</p>

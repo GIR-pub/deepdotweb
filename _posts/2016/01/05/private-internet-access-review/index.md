@@ -9,7 +9,7 @@ Private Internet Access Review (PIA)
     <span><a href="https://www.deepdotweb.com/2016/01/05/private-internet-access-review/#comments">16 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Private Internet Access is a popular <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN</a> solution that offers users the possibility to customize their preferences according to their level of knowledge.</p>
     <p><a href="/imgs/2015/12/image0014.jpg"><img class="aligncenter size-full wp-image-12709" src="/imgs/2015/12/image0014.jpg" alt="image001" width="1246" height="633" srcset="/imgs/2015/12/image0014.jpg 1246w, /imgs/2015/12/image0014-300x152.jpg 300w, /imgs/2015/12/image0014-1024x520.jpg 1024w" sizes="(max-width: 1246px) 100vw, 1246px" /></a></p>
     <p>The solution is provided by the London Media Trust company with headquarter in Los Angeles and branches all over the world. Their main goal is to free the internet from governmental control and censorship and offer the end user unlimited access to online resources through a secure VPN channel. According to their statement, privacy and freedom to a safe online browsing are the main concerns for the Private Internet Access team.</p>

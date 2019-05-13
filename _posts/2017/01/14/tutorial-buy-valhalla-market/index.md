@@ -9,7 +9,7 @@ Tutorial: How To Buy From the Valhalla Market?
     <span><a href="https://www.deepdotweb.com/2017/01/14/tutorial-buy-valhalla-market/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Today we want to show you how to use the Valhalla Market, also known as Silkkitie. It is one of the oldest markets on the deepweb and has been active since 2013 . Valhalla supports multisig payments, escrow and Finalize Early. Although multisignature payments are supported, the funds in your balance are still held by the market , therefore exit scams are still possible (although unlikely given the long standing reputation of the market). To enforce security on for both buyers and sellers, PGP encryption and 2-factor authentication are mandatory.</p>
     <p><strong>Part 1 – Protect your privacy</strong></p>
     <p><strong>Step 1: </strong>In order to access the Valhalla Market, you&#8217;ll need is the Tor Browser which conceals your location by redirecting Internet traffic through a network of nodes. Click <a href="https://www.torproject.org/projects/torbrowser.html">here</a> to go to the Tor Browser download page and download the version that best suits your O.S</p>

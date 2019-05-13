@@ -17,7 +17,7 @@ US Supreme Court to Rule on Cellphone Location Privacy Case
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The <a href="https://www.reuters.com/article/us-usa-court-mobilephone-idUSKBN18W1RY">United States Supreme Court recently agreed to hear an appeal</a> in a case that could have huge implications on cellphone privacy. A man named Timothy Carpenter was convicted of armed robberies in Ohio and Michigan after police discovered the man was in the approximate area of the robberies during the times they were committed. The police had obtained the “cell site location information” from Carpenter&#8217;s cellular service provider without a warrant. Cellular service providers are able to determine the approximate location of their customers by looking at which local cellphone towers the customer&#8217;s cellular device is connecting to.</p>
     <p>Every year, law enforcement requests tens of thousands of records of cell site location information from users of each of the major cellular service providers in America, such as Verizon, AT&amp;T, Sprint, and T-Mobile. The requests to cellular service providers for cell site location information by law enforcement are rarely denied. The records law enforcement obtained on Carpenter&#8217;s cellphone location went back 127 days and revealed nearly 13,000 separate location points. The location information revealed private information, such as where Carpenter attended church.</p>

@@ -9,7 +9,7 @@ Frankfurt: 50% of German Dark web Traffic is Illegal
     <span><a href="https://www.deepdotweb.com/2017/05/28/frankfurt-50-german-dark-web-traffic-illegal/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On May 8, 2017, the Frankfurt public prosecutor spoke <a href="https://www.deepdotweb.com/tag/darknet/">about the darknet</a> and raised more questions regarding law enforcement’s job in policing hidden services. He acknowledged that the line between crime and free speech was undeniably difficult to distinguish. While allowing almost-unrestricted Tor access could save police resources and protect journalists, it might allow crime levels to go unchecked, he explained.</p>
     <p>And the opposite argument, possibly just as bad, carries a threat of equal weight. Those who use the darknet for activities that he considered legal would likely suffer without a safe environment to “<a href="https://re-publica.com/en/member/12523">be a whistleblower</a>.” And criminals, as always, would find a way to do exactly what they were doing before the police intervention.</p>
     <p>Andreas May, the Frankfurt public prosecutor who spoke about the topic, explained that the darknet, in his experience, was actually small in size when compared to the clearnet. Worldwide, he said, only 2 million people used the darknet, counting both legal and illegal activity. In Germany, nearly 50% of Tor users (or .onion travelers in any form) used hidden services for illegal activity.</p>

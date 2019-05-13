@@ -9,7 +9,7 @@ Mystery Device on Dark Web Allows Criminals to Steal Cars
     <span><a href="https://www.deepdotweb.com/2017/05/16/mystery-device-dark-web-allows-criminals-steal-cars/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The National Insurance Crime Bureau (NICB) has warned drivers against a mystery device currently being circulated around the dark web. According to Roger Morris from NICB, a device that is currently being sold on darknet marketplaces enables hackers and criminals to steal cars by relaying a smart key’s signal to a secondary device.</p>
     <p>Essentially, with two data relaying devices, criminals can hack into a car’s smart-lock system to open its doors and initiate its engine without its system ever being alert. The entire process requires two devices; one is used to intercept the original key’s fab signal and the second device is used to obtain the signal intercepted and relayed by the first device to gain access to the car.</p>
     <p><img class="wp-image-19910 aligncenter" src="/imgs/2017/05/word-image-76.png" srcset="/imgs/2017/05/word-image-76.png 850w, /imgs/2017/05/word-image-76-300x199.png 300w" sizes="(max-width: 850px) 100vw, 850px"/></p>

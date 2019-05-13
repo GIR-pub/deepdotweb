@@ -9,7 +9,7 @@ The Price for your Hacked Medical Records Just Went Down
     <span><a href="https://www.deepdotweb.com/2016/11/04/price-hacked-medical-records-just-went/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Leaked data stories have flooded the news lately as the rise in cyber related crimes has sky rocketed. It got so bad at one point, medical records were a prime target. Hackers might start thinking twice about putting in the work to retrieve those files of private data now.</p>
     <p>A recent study by the Institute for Critical Infrastructure Technology and the cybersecurity firms Flashpoint, and Intel Security shows the price for <a href="https://www.cyberscoop.com/dark-web-health-records-price-dropping/">stolen medical records</a> has dropped dramatically as more and more files hit the markets.</p>
     <p>“In the face of exceeding supply, stagnant demand and increased law enforcement attention, it’s becoming increasingly difficult for criminals to make a living selling partial medical records,” James Scott of ICIT said.</p>

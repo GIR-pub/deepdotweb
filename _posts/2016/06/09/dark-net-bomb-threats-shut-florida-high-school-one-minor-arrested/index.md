@@ -17,7 +17,7 @@ Dark Net Bomb Threats Shut Down Florida High School, One Minor Arrested
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A 14-year-old who attended Buchholz High School was arrested in February for making fake bomb threats. <a href="http://www.gainesville.com/article/20160602/ARTICLES/160609898?p=1&amp;tc=pg">He didn’t call in the threats himself</a>, he actually said he used the dark net to pay for the threats to be issued.</p>
     <p>He was allegedly making threats on February 8<sup>th</sup>, 16<sup>th</sup>, and 18<sup>th</sup>. The judge decided as part of his sentence he was to write a letter of apology to the community and was made to perform several hours of community service.</p>

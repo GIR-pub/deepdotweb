@@ -9,7 +9,7 @@ BitCluster Helps De-anonymize Bitcoin
     <span><a href="https://www.deepdotweb.com/2016/07/29/bitcluster-helps-de-anonymize-bitcoin/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Last Friday, <a href="https://www.bit-cluster.com/">BitCluster</a> was released at <a href="https://xi.hope.net/schedule.html#-de-anonymizing-bitcoin-one-transaction-at-a-time-">HOPE XI</a> by David Decary-Hetu, and Mathieu Lavoie. BitCluster is a tool that helps one analyze the information found in the blockchain. The software builds a data base of nodes by associating bitcoin transactions together.</p>
     <p>What this means is that for people who are not creating a new bitcoin wallet for every transaction, or if you are making multiple purchases from the same account; your sending a unique key to validate the data. This unique key is what BitCluster uses to track your transactions. This alone isn’t enough to out your identity information, but it does get the interested party a lot closer.</p>
     <p><a href="/imgs/2016/07/cluster.png"><img class="aligncenter size-full wp-image-14955" src="/imgs/2016/07/cluster.png" alt="cluster" width="617" height="530" srcset="/imgs/2016/07/cluster.png 617w, /imgs/2016/07/cluster-300x258.png 300w" sizes="(max-width: 617px) 100vw, 617px"/></a></p>

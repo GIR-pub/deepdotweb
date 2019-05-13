@@ -9,7 +9,7 @@ FBI and NSA Still Not Having Trouble Getting Spy Orders
     <span><a href="https://www.deepdotweb.com/2016/05/07/fbi-nsa-still-not-trouble-getting-spy-orders/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>For years critics have claimed that the US&#8217; Foreign Intelligence Surveillance Court is a pushover. It&#8217;s allegedly s reluctant to reject spying orders that it&#8217;s little more than a speed bump for the FBI and NSA. That reputation isn&#8217;t about to change anytime soon.</p>
     <p><a href="http://www.reuters.com/article/us-usa-cybersecurity-surveillance-idUSKCN0XR009">Reuters</a> possesses a memo obtained from the Justice Department showing that FISC didn&#8217;t reject any of the 1457 surveillance order requests it received in 2015, even in part. That&#8217;s no different than in 2014, but it suggests that the court isn&#8217;t any less forgiving in an era of tighter government controls.</p>
     <p><a href="/imgs/2016/05/spyorder1.png"><img class="aligncenter wp-image-13979" src="/imgs/2016/05/spyorder1.png" alt="spyorder1" width="851" height="579" srcset="/imgs/2016/05/spyorder1.png 1410w, /imgs/2016/05/spyorder1-300x204.png 300w, /imgs/2016/05/spyorder1-1024x696.png 1024w" sizes="(max-width: 851px) 100vw, 851px" /></a></p>

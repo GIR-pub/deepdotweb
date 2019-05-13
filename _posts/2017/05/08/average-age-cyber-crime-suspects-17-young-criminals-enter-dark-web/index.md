@@ -17,7 +17,7 @@ Average Age of Cyber Crime Suspects is 17, Young Criminals Enter Dark Web
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to the National Crime Agency (NCA), a national law enforcement agency in the UK, the average age of cyber crime suspects is 17. An increasing number of young criminals are entering the dark web, engaging themselves in illicit activities linked to drug distribution and hacking.</p>
     <p>Earlier this month, NCA released a research paper actively investigating the motive of young cyber criminals. The researchers from NCA noted that a growing number of teenagers have become involved in illicit operations and dark web activities due to their desire to obtain popularity and reputation online.</p>

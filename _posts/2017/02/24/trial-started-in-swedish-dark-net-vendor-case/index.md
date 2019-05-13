@@ -17,7 +17,7 @@ Trial Started In Swedish Dark Net Vendor Case
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Four men (aged around 25) are <a href="http://sverigesradio.se/sida/artikel.aspx?programid=128&amp;artikel=6625554">standing trial</a> at the Halmstad District Court in Sweden for allegedly running a vendor shop on the dark web selling narcotics.</p>
     <p><img class="wp-image-18325 aligncenter" src="/imgs/2017/02/trial-in-halmstad-district-court-photo-mattias.jpeg" alt="Trial in Halmstad District Court.  Photo: Mattias Bolin / Swedish Radio" srcset="/imgs/2017/02/trial-in-halmstad-district-court-photo-mattias.jpeg 612w, /imgs/2017/02/trial-in-halmstad-district-court-photo-mattias-300x169.jpeg 300w" sizes="(max-width: 612px) 100vw, 612px" /></p>

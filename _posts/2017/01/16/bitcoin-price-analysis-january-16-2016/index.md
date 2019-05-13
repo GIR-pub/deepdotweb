@@ -9,7 +9,7 @@ Bitcoin Price Analysis January 16, 2016
     <span><a href="https://www.deepdotweb.com/2017/01/16/bitcoin-price-analysis-january-16-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Beijing Now Controls the Price of Bitcoin</strong></p>
     <p>Bitcoin kicked off the new year at lofty levels of $1139, inches away from gold parity &#8211; depending on which exchange you looked at. The digital currency surprised critics last year, scooping pole position for best performing currency and commodity class of 2016. Bitcoin investors took home 125% returns at close of December 31st.</p>
     <p>But the momentum that spilled over into 2017, has come under dubious events, sparking off multiple sell offs from its high. China, is home to at least 90% of Bitcoin trading; the Yuan is traded most against BTC, trailed closely by the Japanese Yen and third by the US dollar. The People’s Bank of China has been mulling over tighter foreign exchange and capital controls &#8211; according to <a href="http://www.reuters.com/article/uk-china-regulator-banks-exclusive-idUSKBN14V0CP">Reuters</a> &#8211; and this time, Bitcoin exchanges have been roped in under scrutiny. The price of Bitcoin reacted to these events in typical fashion &#8211; 2 sharp consecutive sell offs to a $751, and a price of $816 as of writing this.</p>

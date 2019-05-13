@@ -9,7 +9,7 @@ Feds Used Reddit Posts to Catch a Fentanyl Vendor
     <span><a href="https://www.deepdotweb.com/2017/04/09/feds-used-reddit-posts-catch-fentanyl-vendor/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On March 20, 2017, Acting US Attorney for the Southern District of New York announced the <a href="https://www.justice.gov/usao-sdny/pr/acting-manhattan-us-attorney-announces-arrest-chukwuemeka-okparaeke-conspiracy">arrest of an Alphabay vendor</a> named Fentmaster. For the most part, law enforcement&#8217;s investigation followed a standard operation&#8217;s trajectory. Save for two distinctions that caught the eyes of the mainstream media and plagues of /r/darknetmarkets readers. First, he set off alarms at the post office for handling his packages with latex-dipped gloves.</p>
     <p><img class="wp-image-19096 aligncenter" src="/imgs/2017/04/word-image-25.png" srcset="/imgs/2017/04/word-image-25.png 924w, /imgs/2017/04/word-image-25-300x66.png 300w" sizes="(max-width: 924px) 100vw, 924px"/></p>
     <p>And second, the vendor, Chukwuemeka Okparaeke, operated multiple Reddit accounts. That is hardly unusual. Vendors often run a personal account and a private account. However, his vendor account rarely saw any action and his personal account made routine appearances on the /r/darknetmarkets subreddit. So much so that, <a href="https://www.scribd.com/document/343023037/Okparaeke-Signed-Complaint">according to the Criminal Complaint</a>, the account&#8217;s comments and stories tied everything together.</p>

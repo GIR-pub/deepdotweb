@@ -9,7 +9,7 @@ Bitcoin Price Analysis 13 January 2016
     <span><a href="https://www.deepdotweb.com/2016/01/13/bitcoin-price-analysis-13-january-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week bitcoin broke up to upside, contrary to my forecast from last week. The virtual currency moved up +6%, topping off at $466 while global fiat financial markets suffered under turbulence.</p>
     <p><img class="aligncenter size-full wp-image-12940" src="/imgs/2016/01/1-3.jpg" alt="1" width="1612" height="918" srcset="/imgs/2016/01/1-3.jpg 1612w, /imgs/2016/01/1-3-300x171.jpg 300w, /imgs/2016/01/1-3-1024x583.jpg 1024w" sizes="(max-width: 1612px) 100vw, 1612px"/></p>
     <p><strong>Painting the Tape<em><br/>

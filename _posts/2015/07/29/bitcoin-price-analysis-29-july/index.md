@@ -9,7 +9,7 @@ Bitcoin Price Analysis 29 July
     <span><a href="https://www.deepdotweb.com/2015/07/29/bitcoin-price-analysis-29-july/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="/imgs/2015/07/14.jpg"><img class="aligncenter size-full wp-image-11147" src="/imgs/2015/07/14.jpg" alt="1" width="600" height="436" srcset="/imgs/2015/07/14.jpg 600w, /imgs/2015/07/14-300x218.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
     <p>This week was mostly a sideways range bound trend, that didn’t break out until Friday/Saturday. <em>Marubozu</em><strong> &#8211; </strong>a flat ended long candlestick is common in break outs, to force past resistances or support. What followed was a gradual trend approaching $ 300 in a series of steps &#8211; highest top at $ 298. At the time of writing this, price is at $ 295, and another flat trend is seemingly taking shape. Perhaps gathering steam for another [expected] breakout?</p>
     <p><a href="/imgs/2015/07/23.jpg"><img class="aligncenter size-full wp-image-11148" src="/imgs/2015/07/23.jpg" alt="2" width="589" height="437" srcset="/imgs/2015/07/23.jpg 589w, /imgs/2015/07/23-300x223.jpg 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>

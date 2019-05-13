@@ -9,7 +9,7 @@ Novel Defense Techniques To Secure Tor Communications &#8211; A Research Study
     <span><a href="https://www.deepdotweb.com/2017/12/21/novel-defense-techniques-secure-tor-communications-research-study/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Tor network depends mainly on resources, which are owned and managed by volunteers, to cater daily for millions of internet users seeking to maintain high levels of anonymity and privacy. As such, these resources have to be efficiently managed, by the Tor network, while also dealing with challenges facing its utility and robustness. A large percentage of the challenges facing Tor emerge from insufficient trust in three main entities:</p>
     <ol>
     <li>Operators of relay nodes whose function is to manages the flow of Tor network traffic through the relay nodes.</li>

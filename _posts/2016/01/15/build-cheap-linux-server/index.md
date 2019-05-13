@@ -17,7 +17,7 @@ Build a Cheap Linux Server
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Part I: Building &amp; Preparing</p>
     <p>My professional expertise is generally limited to all things Network, however I dabbled in other areas in school and continue to dabble in my free time at home. I have always taken an interest in different Operating Systems and how they compare to each other; so once I got over Darwin and its proprietary everything I feel in love with Linux: clean, fast, customizable and open source. I have always tried to challenge my Linux CLI skills but it’s only recently that I took the plunge into Linux Servers. Whether you&#8217;re building a server for fun, for simple file services or working up to building your own Onion site everyone has to start somewhere. Remember that companies like Apple, Amazon and even Google started with limited hardware <a href="https://en.wikipedia.org/wiki/Google">in a garage</a>.<a href="#_ftn1" name="_ftnref1"></a></p>

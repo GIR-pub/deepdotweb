@@ -17,7 +17,7 @@ British Student Jailed For Creating DDoS Tool And Selling It To Cybercriminals
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A student from Hertfordshire, the United Kingdom was <a href="http://www.bbc.com/news/uk-england-beds-bucks-herts-39705068">sentenced</a> to prison for creating a stressing tool that was used by <a href="https://www.deepdotweb.com/2017/04/17/romanian-police-join-forces-domestic-internet-security-company-fight-cybercrime/">cybercriminals</a> to conduct successful <a href="https://www.deepdotweb.com/2016/12/21/34-teenagers-arrested-ddos-attacks-europol-wants-send-message/">DDoS</a> attacks.</p>
     <p><img class="wp-image-19746 aligncenter" src="/imgs/2017/05/adam-mudd.jpeg" alt="Adam Mudd" srcset="/imgs/2017/05/adam-mudd.jpeg 660w, /imgs/2017/05/adam-mudd-300x169.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

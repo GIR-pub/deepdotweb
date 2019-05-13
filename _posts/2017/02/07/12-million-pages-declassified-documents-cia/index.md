@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/02/07/12-million-pages-declassified-documents-cia/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>UFO’s, Modern Wars &amp; STARGATE Oh My</strong></p>
     <p>CIA took to <a href="https://www.deepdotweb.com/2016/10/22/introduction-freenet-censorship-resistant-network/">Twitter</a> Trump style, tweeting the announcement that “Approx. <a href="https://twitter.com/CIA/status/821486113038733313/photo/1">930,000 documents</a>, totaling more than 12 million pages” became available online last week. CIA used hashtags to describe several subject names of files released online: #ColdWar, #BerlinTunnel, #Vietnam and others.</p>
     <p><img class="wp-image-18023 aligncenter" src="/imgs/2017/02/word-image.png" /></p>

@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/06/06/14-year-old-kid-jumps-building-taking-ecstasy-bought-dark-web/#comments">9 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 14-year-old middle school student jumped out of a 30-feet building after taking ecstasy and anxiety medication he purchased from his classmates, who bought the drugs on the dark web. According to local British publications, Samuel Murray intoxicated himself with brandy and a “cocktail of drugs” mixed with ecstasy before nearly killing himself by leaping out of his window.</p>
     <p>The Daily Mail revealed that Samuel returned home from a night out at around 1:30 AM. When his mother rejected his request to leave the home and continue spending more time with his friends, the intoxicated Murray jumped out of the window of his apartment as a rebellious act. As a result, Samuel broke his pelvis in three different areas and according to his doctor, it may take two years for Samuel to fully recover and walk again.</p>
     <p><img class="wp-image-20437 aligncenter" src="/imgs/2017/06/word-image-15.png" srcset="/imgs/2017/06/word-image-15.png 634w, /imgs/2017/06/word-image-15-300x224.png 300w" sizes="(max-width: 634px) 100vw, 634px" /></p>

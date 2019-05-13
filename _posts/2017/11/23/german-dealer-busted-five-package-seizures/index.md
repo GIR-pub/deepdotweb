@@ -9,7 +9,7 @@ German Dealer Busted After Five Package Seizures
     <span><a href="https://www.deepdotweb.com/2017/11/23/german-dealer-busted-five-package-seizures/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Public Prosecutor&#8217;s Office of Tübingen and the Rottenburg Police Headquarters issued a press release concerning the investigation and arrest of a 24-year-old drug dealer. Law enforcement had known of the suspected dealer&#8217;s activities in early October, before starting an investigation. They became aware of the alleged criminal activities while following a trail of &#8220;police-known suspects&#8221; that led directly to the now-apprehended drug dealer.</p>
     <p>Evidence gathered while following the trail of drugs from the so-called &#8220;police-known suspects&#8221; indicated that the drugs had originated from the darknet. The joint press release failed to detail anything of substance regarding the investigative jump from following drug users to believing the drugs came from a dealer connected to a vendor on a darknet market. In any case, the &#8220;how&#8221; is unimportant. Utilizing one of the many tactics employed by law enforcement agencies, the Rottenburg police discovered that the 24-year-old distributed drugs that he had ordered from a <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet vendor</a>.</p>
     <p><img class="wp-image-23645 aligncenter" src="/imgs/2017/11/200863-jpg.jpeg" alt="200863.jpg" srcset="/imgs/2017/11/200863-jpg.jpeg 700w, /imgs/2017/11/200863-jpg-300x150.jpeg 300w, /imgs/2017/11/200863-jpg-660x330.jpeg 660w" sizes="(max-width: 700px) 100vw, 700px" /></p>

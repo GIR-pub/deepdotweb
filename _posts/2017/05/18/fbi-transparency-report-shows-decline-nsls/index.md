@@ -9,7 +9,7 @@ FBI Transparency Report Shows a Decline in NSLs
     <span><a href="https://www.deepdotweb.com/2017/05/18/fbi-transparency-report-shows-decline-nsls/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a recent <a href="https://icontherecord.tumblr.com/transparency/odni_transparencyreport_cy2016">transparency report by the Office of the Director of National Intelligence</a>, the FBI issued less National Security Letters this year than last year by a 5% margin. National Security Letters (NSL) fall into a semi-shady area of law enforcement—partially because of the lack of oversight surrounding them. Additionally, the NSLs come with a gag order, more times than not. This places companies in an awkward position as the letters function as secret warrants, despite their lack of complete authority compared to an actual <a href="https://www.deepdotweb.com/tag/warrant/">warrant</a>. The company, if issued a gag order along with the NSL, can face serious legal consequences if even a word of the letter slips out.</p>
     <p>Companies prefer not to violate their user&#8217;s trust but certainly don&#8217;t want to violate a NSL gag order. It is a tough position. The letters are often used for collecting user data from email providers, cellular data from telecom companies – basically everything one would expect. The NSL can compel an ISP to release even a customer’s Internet history.</p>
     <p><img class="wp-image-19969 aligncenter" src="/imgs/2017/05/word-image-74.jpeg" srcset="/imgs/2017/05/word-image-74.jpeg 715w, /imgs/2017/05/word-image-74-300x252.jpeg 300w" sizes="(max-width: 715px) 100vw, 715px" /></p>

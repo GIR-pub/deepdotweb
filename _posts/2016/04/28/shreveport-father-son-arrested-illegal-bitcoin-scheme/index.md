@@ -17,7 +17,7 @@ Shreveport Father and Son Arrested for illegal Bitcoin Scheme
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><a href="https://www.justice.gov/usao-wdla/pr/former-shreveport-chiropractor-son-plead-guilty-operating-illegal-bitcoin-exchange">United States Attorney Stephanie A Finley </a>announced that a former Shreveport chiropractor and his son plead guilty Tuesday to funneling money through an unlawful Bitcoin financial scheme.</p>
     <p>According to the reports, the Lords had been using Bitcoin for several illegal things from 2013 to 2015.</p>

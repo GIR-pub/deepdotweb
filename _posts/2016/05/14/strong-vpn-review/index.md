@@ -9,7 +9,7 @@ Strong VPN Review
     <span><a href="https://www.deepdotweb.com/2016/05/14/strong-vpn-review/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>STRONG VPN</strong></p>
     <p>Strong VPN is operated by StrongVPN.com/Reliablehosting.com. The large and popular US-based entity is on a mission to provide a 5-star support with exceptional all fiber network for your servers. Strong VPN network is a redundant multihomed BPG4 system that utilizes Cisco and Foundry Networks routers and switches. They also connect to more than thirty other networks in North America, Europe, and Asia over a multi-gigabit fiber optics.</p>
     <p>We subscribed to Strong VPN and tested their VPN service</a> so we can give you the best Strong VPN review. When reviewing Strong VPN we’re looking at factors such as privacy, security, speed, customer care, and pricing. We also looked at their privacy policy as this is really important for those of you wanting to use it for the deep web, streaming or torrenting.</p>

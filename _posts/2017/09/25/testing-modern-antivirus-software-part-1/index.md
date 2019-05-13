@@ -18,7 +18,7 @@ tag-antivirus tag-modern tag-software tag-testing">
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>This is an introduction to this vast topic in which we will focus on evading AV signature detection attempts to run Metasploit&#8217;s windows/shell/reverse_tcp payload under the nose of Kaspersky, Avira, Avast and 58 other (on their VirusTotal edition).</p>
     <p>Let&#8217;s start with information gathering &#8211; what AV actually does in order to stop malware.</p>

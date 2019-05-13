@@ -18,7 +18,7 @@ Two men who Purchased fake Dollar Bills on the dark web Arrested in Alabama
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Two men have been arrested in Alabama after they allegedly went on a spree of spending fake $100 bills which they purchased online from the <a href="https://www.deepdotweb.com/2017/08/23/suspect-linked-bomb-threats-offered-services-dark-web/">dark web</a>.</p>
     <p>According to reports, Justin Landon Aldon, 31, and Shahal Devonte Lewis, 26, were engaged in a multi-state counterfeit money spending spree. They are now in custody facing numerous charges.</p>

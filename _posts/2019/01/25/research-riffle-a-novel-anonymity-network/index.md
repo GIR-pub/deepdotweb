@@ -9,7 +9,7 @@ Research: Riffle &#8211; A novel anonymity network
     <span><a href="https://www.deepdotweb.com/2019/01/25/research-riffle-a-novel-anonymity-network/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Riffle is a communication system designed at MIT to address the problems associated with the Tor network. Riffle is a unique anonymity network that implements a verifiable shuffle and is believed to be ten times faster than the Tor network. According to <a href="https://www.freehaven.net/anonbib/cache/riffle-pets2016.pdf">an article published as part of 2016&#8217;s Proceedings on Privacy Enhancing Anonymity</a>, researchers from MIT and Qatar&#8217;s Computing Research Institute developed the Riffle protocol to address <a href="https://www.deepdotweb.com/2017/01/08/onion-router-darkweb-overview-current-state-vulnerabilities/">vulnerabilities of the Tor protocol</a>.</p>
     <p>Throughout this article, we will overview the Riffle communication system.</p>
     <p><img class="wp-image-28203" src="/imgs/2019/01/riffle-online-anonymous-proxy-tool-png.png" alt="riffle-online-anonymous-proxy-tool.png" srcset="/imgs/2019/01/riffle-online-anonymous-proxy-tool-png.png 728w, /imgs/2019/01/riffle-online-anonymous-proxy-tool-png-300x157.png 300w" sizes="(max-width: 728px) 100vw, 728px" /></p>

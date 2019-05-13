@@ -9,7 +9,7 @@ Prison for Former Bitcoin Exchange CEO
     <span><a href="https://www.deepdotweb.com/2017/04/07/prison-former-bitcoin-exchange-ceo/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>C. Aliens</p>
     <p>Prison for Former Bitcoin Exchange CEO</p>
     <p>On March 21, 2017, the U.S. Attorney’s Office of the Northern District of Ohio announced Daniel Mercede’s sentencing information. Mercede, a 29-year-old Bay Village man pleaded <a href="https://www.justice.gov/usao-ndoh/pr/bay-village-man-sentenced-more-six-years-prison-420000-fraud-involving-concert-tickets">guilty to access device fraud, bank fraud, and operating an unlicensed money exchanging business</a>. Law enforcement pursued him after he used stolen credit card to operate a massive ticket fraud scheme. Throughout the course of the investigation, law enforcement learned that he owned and operated a Bitcoin exchange and use it as an outlet for laundering the fraud proceeds.</p>

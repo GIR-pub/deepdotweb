@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/12/06/28-overdose-death-linked-darknet-drug-ring-utah/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Utah has been hit by drug overdoses in recent years, and the number of overdose cases recorded increases year after year. Statistically, at least one person dies of a drug overdose every day. Opioid overdoses have been reported to kill more people than gun violence and accident fatalities.</p>
     <p>Authorities in Utah have launched an investigation into a recent drug overdose that led to the death of 28 people. The drug is suspected to be opioid ordered from the Darknet marketplace and sold on the street as revealed by the prosecutor on Monday. The 28 overdose death <a href="https://www.ksl.com/?sid=46202097&amp;nid=148">has been linked to a Darknet drug ring</a> in Utah.</p>
     <p>Two suspects in charge of a drug distribution in Utah were arrested. Aaron Shamo was the ringleader and Wilson Crandall was an accomplice. Michael Gadd, the prosecutor has instructed that the suspects be put in jail throughout the investigation process.</p>

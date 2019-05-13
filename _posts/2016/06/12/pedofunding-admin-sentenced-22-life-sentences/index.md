@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2016/06/12/pedofunding-admin-sentenced-22-life-sentences/#comments">63 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Richard Huckle, dubbed Britain’s worst pedophile for abusing 200 Malaysian children; has been sentenced to 22 life sentences.</p>
     <p>Huckle, a freelance photographer lived in Ashford, Kent, and admitted to numerous offences against children between the ages of six months and 12 years old. The Judge, Peter Rock QC, ordered Huckle to serve a minimum of 25 years in order for him to reflect on his so called “campaign of rape” which spanned some nine years.</p>
     <p><a href="http://home.bt.com/news/uk-news/paedophile-huckle-handed-22-life-sentences-for-abusing-up-to-200-children-11364066415856">He was sharing his pictures and videos</a> of his sexual exploits with children worldwide on the website TLS, or <a href="https://www.deepdotweb.com/2015/08/11/australian-darkweb-pedo-site-admin-sentenced-to-35-years-in-jail/">The Love Zone</a>. He even tried to make his assaults on children a career by <a href="https://www.deepdotweb.com/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/">crowdfunding the release of his images</a>, and was in the process of putting together a manual for pedophiles at the time of his arrest.</p>

@@ -9,7 +9,7 @@ Cheltenham Studen Jailed For Importing Cocaine From Costa Rica
     <span><a href="https://www.deepdotweb.com/2016/01/28/cheltenham-studen-jailed-for-importing-cocaine-from-costa-rica/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Jordan Richards-Chiverton (22), a Cheltenham university student, imported <a href="http://www.gloucestershireecho.co.uk/Cheltenham-student-jailed-importing-cocaine-Costa/story-28599085-detail/story.html">£500 worth of cocaine from a dark net vendor located in Costa Rica</a>, which resulted in 2 years of jail sentence given by Gloucester Crown Court. According to official documents, the man made the <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">dark web</a> deal on August/September 2014.</p>
     <p>However, the package raised the postal workers&#8217; suspicion in Coventry, which was followed by the local police catching the parcel. When Richards-Chiverton went to the postal office to collect his package, the law enforcement authorities have busted him on September 9, 2014.</p>
     <p>The man confessed “attempting to evade the prohibition on the importation of cocaine” and was sentenced by Recorder Paul Grumbar.</p>

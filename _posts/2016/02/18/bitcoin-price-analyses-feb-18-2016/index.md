@@ -9,7 +9,7 @@ Bitcoin Price Analyses Feb-18 2016
     <span><a href="https://www.deepdotweb.com/2016/02/18/bitcoin-price-analyses-feb-18-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><img class="aligncenter size-full wp-image-13254" src="/imgs/2016/02/1-3.jpg" alt="1" width="859" height="510" srcset="/imgs/2016/02/1-3.jpg 859w, /imgs/2016/02/1-3-300x178.jpg 300w" sizes="(max-width: 859px) 100vw, 859px"/></p>
     <p>This week the price of bitcoin held steady over and above a $365 floor, stretching back to January 14, 2016. The last time this support was breached, was on a cascade sell off from $446 on January 12, 2016, when a bear seemed to have resumed. The resulting sell off dropped sharply to $352 low, before bouncing back up and trading in a sideways range for the past 5 weeks. The upper limit was $430, with an exception, an unusual pump to $427. The lower limit has been $361, which has proved a fairly reliable support.</p>
     <p><img class="aligncenter size-full wp-image-13255" src="/imgs/2016/02/2-3.jpg" alt="2" width="855" height="528" srcset="/imgs/2016/02/2-3.jpg 855w, /imgs/2016/02/2-3-300x185.jpg 300w" sizes="(max-width: 855px) 100vw, 855px"/></p>

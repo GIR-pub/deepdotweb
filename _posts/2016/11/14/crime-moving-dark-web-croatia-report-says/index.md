@@ -17,7 +17,7 @@ Crime Is Moving To The Dark Web In Croatia, Report Says
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to news site <a href="http://novilist.hr/Vijesti/Crna-kronika/Sve-vise-kriminala-seli-na-internet-izolirana-nije-ni-Hrvatska?meta_refresh=true">novilist.hr</a>, Croatia has seen an increase in dark web criminal activity, recently. The report says, since the anonymity of the Tor network and dark net marketplaces, more and more potential criminals are using the dark web for their activities.</p>
     <p>“Such people are more difficult to identify than on other conventional platforms, but that does not mean they are absolutely safe. Doing such activities on different layers of access to the Internet only allows a certain degree of anonymity”, said Kristina Posavec leader of the department of high-tech crime.</p>

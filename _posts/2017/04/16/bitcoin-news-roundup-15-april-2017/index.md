@@ -9,7 +9,7 @@ Bitcoin news roundup 15 April, 2017
     <span><a href="https://www.deepdotweb.com/2017/04/16/bitcoin-news-roundup-15-april-2017/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>Support for a UASF has been building up </strong></p>

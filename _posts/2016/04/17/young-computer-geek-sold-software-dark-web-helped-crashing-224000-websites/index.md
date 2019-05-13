@@ -9,7 +9,7 @@ Young Computer Geek Sold Software On Dark Web That Helped In The Crashing Of 224
     <span><a href="https://www.deepdotweb.com/2016/04/17/young-computer-geek-sold-software-dark-web-helped-crashing-224000-websites/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <div class="wp-socializer-buttons clearfix">
     <span class="wpsr-btn">
     

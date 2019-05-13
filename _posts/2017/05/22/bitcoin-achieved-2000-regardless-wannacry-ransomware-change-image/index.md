@@ -9,7 +9,7 @@ Bitcoin Achieved $2,000, Regardless of WannaCry Ransomware, Change of Image?
     <span><a href="https://www.deepdotweb.com/2017/05/22/bitcoin-achieved-2000-regardless-wannacry-ransomware-change-image/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Last week, the majority of mainstream media outlets in the US with the exception of CNBC and Bloomberg blamed bitcoin for the global WannaCry ransomware attack and for providing ransomware distributors a financial lifeline, instead of addressing a more important issue that is the development of Microsoft-targeting malware by the National Security Agency (NSA).</p>
     <p>Although bitcoin is the lifeline for ransomware distributors and developers, by that logic, fiat money such as US dollars are also lifelines for most criminal activities and operations including illicit drug trading. Hence, analysts criticized the “bitcoin is criminal money” presented many mainstream media companies presented in the past week.</p>
     <p>However, despite the short-term setback caused by the WannaCry ransomware attack which brought bitcoin price down from $1,800 to $1,700 overnight, in a period of seven days, bitcoin price surged from $1,700 to $2,083. Analysts from CNBC attributed the recent price surge of bitcoin to the rising global awareness of bitcoin from high profile and institutional investors, as well as the rising demand for bitcoin from US-based investors looking to avoid economic uncertainty and instability with a safe haven asset in bitcoin.</p>

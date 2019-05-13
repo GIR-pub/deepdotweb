@@ -9,7 +9,7 @@ Reporters Explained that Pure Cocaine is “not a good thing”
     <span><a href="https://www.deepdotweb.com/2017/05/31/reporters-explained-pure-cocaine-not-good-thing/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Researches and drug users from the UK reported a &#8220;dramatic&#8221; increase in cocaine purity. Spikes in purity, in the past, appeared only momentarily. Often followed by a nationwide decline, followed by an interesting decline in emergency room visits. Researchers in the UK, after some of the initial reports surfaced, sought answers to the supposed potency increase.</p>
     <p>As often the case with drug-related changes or <em>even perceived changes</em>, the darknet immediately became the focus. Not a bad place to start either. As <a href="https://www.deepdotweb.com/2016/06/24/2016-global-drug-survey-shows-dmn-customers-ever/">studies have shown</a>, the new availability of drugs changed the landscape of street-level drug dealing.</p>
     <p>One publication wrote that the spike in purity came from a &#8220;competition between darkweb dealers, posting high-purity cocaine to the UK.&#8221; Researchers considered this scenario, albeit not always with cocaine or in the UK, after shifts in a drug landscape. The <a href="https://www.globaldrugsurvey.com/the-global-drug-survey-2015-findings/">2015 Global Drug Survey</a> exemplified this. Times have changed, however. Some drugs thrived on the darknet and some kept to the streets or usual methods of distribution.</p>

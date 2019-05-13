@@ -9,7 +9,7 @@ Ordinypt Ransomware Targeting Germany
     <span><a href="https://www.deepdotweb.com/2017/11/24/ordinypt-ransomware-targeting-germany/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A new <a href="https://www.deepdotweb.com/2016/10/11/house-party-protocol-remote-evidence-wiper-program/">wiper malware</a> called Ordinypt has been discovered and is targeting businesses and victims in Germany. The ransomware has the facade of fake job applicants inquiring about openings and rather than encrypting users&#8217; documents, the ransomware overwrites files with random data.</p>
     <p>ID-Ransomware coder, Michael Gillespie first discovered Ordinypt when one of its ransom notes was uploaded to the website of his firm.</p>
     <p>According to Bleeping Computer, Karsten Hahn, a researcher with G Data on the 6th of this month also discovered another sample and got to know that, Ordinypt has Germany as his target. Through the use of VirusTotal detections, he found out that Ordinypt is targeting German users through emails written in German, and delivering ransom notes in an error-free German language.</p>

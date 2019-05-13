@@ -9,7 +9,7 @@ Quantik USA Busted: $1M worth of Xanax pills seized
     <span><a href="https://www.deepdotweb.com/2016/01/19/qunatik-usa-busted/#comments">17 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Quantik USA team, the domestic usa resellers of the biggest darknet markets Xanax vendor from Canada &#8211; <a href="https://www.deepdotweb.com/marketplace-directory/listing/quantik-vendor-shop/">Quantik xanx</a>, was arrested. According the the <a href="http://stjohnsheriff.org/pressrelease_details.php?id=1641">press release</a> from the sheriff office: St. John the Baptist Parish Sheriff’s Office narcotics detectives received information and conducted an investigation that led to the execution of two judicial court authorized search warrants on Tuesday, January 5.</p>
     <p>The first search warrant was executed at 1:16 pm at a residence in the 100 block of Oak Fern Court in LaPlace.  Detectives recovered approximately 100,000 pills of alprazolam, the trade name Xanax, and packaging for distribution throughout the United States.  Detectives arrested Matthew Helms, 23, and Megan De St.Germaine, 26.  Helms and De St Germaine who live at the residence were home when detectives executed the search warrant.</p>
     <p>The second search warrant was executed at 1:52 pm at a residence in the 500 block of Walnut Street in LaPlace.  Detectives recovered over 10,400 doses of alprazplam and packaging for distribution.  Detectives arrested Brandon Zar, 24.  Zar who lives at the residence was home when detectives executed the search warrant.</p>

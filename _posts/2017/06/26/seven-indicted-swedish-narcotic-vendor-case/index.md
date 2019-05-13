@@ -9,7 +9,7 @@ Seven Indicted In Swedish Narcotic Vendor Case
     <span><a href="https://www.deepdotweb.com/2017/06/26/seven-indicted-swedish-narcotic-vendor-case/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>On June 7, the prosecution <a href="https://www.skaraborgslanstidning.se/article/skovdebor-i-jatteharva/">charged</a> six men and a woman from Skövde, Sweden, and Grebbestad, Sweden, for running a vendor shop on the dark web selling drugs to their customers.</p>
     <p><img class="wp-image-20918 aligncenter" src="/imgs/2017/06/c-users-vitaris-desktop-twerk-img-image-jpg.jpeg" alt="C:\Users\Vitáris\Desktop\twerk\img\image.jpg" width="641" height="428" /></p>

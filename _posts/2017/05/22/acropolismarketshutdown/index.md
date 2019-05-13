@@ -9,7 +9,7 @@ Acropolis Market Bites the Dust Without an Exit Scam
     <span><a href="https://www.deepdotweb.com/2017/05/22/acropolismarketshutdown/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>When the industry is drug trafficking and “anonymous,” online drug trafficking at that, there will never be a lack of casualties. At least in the foreseeable future. But with drug cryptomarkets, the majority of any damage comes from the marketplace itself. And even though then, the loss is usually only a financial one. When June 30 rolls around, the community will lose yet another market.</p>
     <p>Acropolis marketplace <a href="https://www.reddit.com/r/DarkNetMarkets/comments/6bxnc9/acropolis_market_shutdown_notice/">admins issued a signed announcement</a> that explained the situation they found themselves in. Unlike many recent marketplace exits—usually exit scams—the Acropolis administrators explained that they found themselves unfit to run the marketplace. “Due to personal reasons we are no longer in a position to continue to provide escrow services.” And again, unlike countless markets that <a href="https://www.deepdotweb.com/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">left the scene like a thief in the night</a>, the admins urged users to finish this their business on the site.</p>
     <p><img class="wp-image-20042 aligncenter" src="/imgs/2017/05/word-image-91.jpeg" srcset="/imgs/2017/05/word-image-91.jpeg 800w, /imgs/2017/05/word-image-91-300x185.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

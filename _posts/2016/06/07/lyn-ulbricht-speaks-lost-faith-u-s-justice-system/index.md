@@ -9,7 +9,7 @@ Lyn Ulbricht Speaks Out: Lost Faith in the U.S. Justice System
     <span><a href="https://www.deepdotweb.com/2016/06/07/lyn-ulbricht-speaks-lost-faith-u-s-justice-system/#comments">9 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Creator of Silk Road Ross Ulbricht was given a <a href="https://www.deepdotweb.com/2015/05/30/silk-road-admin-ross-ulbricht-dpr-sentenced-to-life-in-prison/">double life sentence without parole</a> on May 29<sup>th</sup>, 2015. A little over a year later, his mother, as well as himself are working on an appeal for a retrial to try to get the double life sentences dropped due to two of the agents being found guilty of corruption, extortion and theft.</p>
     <p><a href="/imgs/2016/06/lynn.jpg"><img class="aligncenter size-full wp-image-14443" src="/imgs/2016/06/lynn.jpg" alt="lynn" width="368" height="245" srcset="/imgs/2016/06/lynn.jpg 368w, /imgs/2016/06/lynn-300x200.jpg 300w" sizes="(max-width: 368px) 100vw, 368px"/></a></p>
     <p><a href="http://www.ibtimes.co.uk/lyn-ulbricht-mother-silk-road-creator-ross-ulbricht-reveals-she-has-lost-faith-us-justice-system-1562929">Lyn Ulbricht, Ross’ mother, spoke to IBTimes UK</a> about what they hope to gain by having a retrial, and her complete lack of faith in the U.S. justice system, and what Ross has been doing for the past 12 months of his incarceration. They filed the appeal for retrial on January 12<sup>th</sup>, and the government has until June 17<sup>th</sup> to reply. After that the defense can prepare the case.</p>

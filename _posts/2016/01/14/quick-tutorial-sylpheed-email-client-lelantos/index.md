@@ -9,7 +9,7 @@ Quick Tutorial: Sylpheed Email Client With Lelantos
     <span><a href="https://www.deepdotweb.com/2016/01/14/quick-tutorial-sylpheed-email-client-lelantos/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Thanks to Gros Lulu for contributing this article! A manual for the Sylpheed email client with Lelantos Tor webmail accounts:</p>
     <p>Some of you already use a Tor based email system, or are looking for one.</p>
     <p>I really like the Lelantos Tor webmail service: <strong>http://lelantoss7bcnwbv.onion</strong><br/>

@@ -9,7 +9,7 @@ Bitcoin Price Analysis Dec. 24
     <span><a href="https://www.deepdotweb.com/2015/12/24/bitcoin-price-analysis-dec-24/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="/imgs/2015/12/13.jpg"><img class="aligncenter size-full wp-image-12739" src="/imgs/2015/12/13.jpg" alt="1" width="1636" height="896" srcset="/imgs/2015/12/13.jpg 1636w, /imgs/2015/12/13-300x164.jpg 300w, /imgs/2015/12/13-1024x561.jpg 1024w" sizes="(max-width: 1636px) 100vw, 1636px"/></a></p>
     <p>Over the past 2 weeks, bitcoin price went up from a low retracement bottom at $ 346, going up to $ 467, attempting to touch last month’s $ 504 high. This rise up has been anything but momentous, especially compared to the run up to $ 502. Low volumes have accompanied this rise up. At current price levels, the trend has hit a resistance level at $467</p>
     <p><em>“resistance at the ¥3,000 ($465) level. If it holds, we could be retracing to 2,000 yuan ($310)”</em></p>

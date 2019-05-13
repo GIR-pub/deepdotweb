@@ -9,7 +9,7 @@ US Federal Government to Focus on Crackdown of Illicit Dark Web Drug Trading
     <span><a href="https://www.deepdotweb.com/2017/05/20/us-federal-government-focus-crackdown-illicit-dark-web-drug-trading/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The US federal government and its law enforcement agencies are focusing on the crackdown on illicit drug trading which occurs on the dark web on a daily basis. Investigators have become increasing concerned over the engagement of young adults and teenagers in illicit dark web drug trading and how easy it is to obtain illegal products and services on darknet marketplaces with complete anonymity.</p>
     <p>In an exclusive interview with a local Omaha publication <a href="http://www.3newsnow.com/news/national/drug-sellers-and-buyers-find-online-dealing-more-popular-because-its-anonymous">3NewsNow</a>, Kirby Plessas, a dark web expert and founder of Plessas Experts Network, explained that an average user of the dark web is able to purchase or sell drugs on darknet marketplaces within 20 minutes, with the usage of bitcoin.</p>
     <p>According to Plessas, drugs such as cocaine, heroin and marijuana are readily available on darknet marketplaces, which are rather difficult to obtain through regulated channels and local markets. She further explained that traders or drug distributors on the dark web are ranked based on their previous transactions and history of trading.</p>

@@ -9,7 +9,7 @@ ZeroNet &#8211; A P2P networking protocol based on Bitcoin&#8217;s cryptography 
     <span><a href="https://www.deepdotweb.com/2019/02/27/zeronet-a-p2p-networking-protocol-based-on-bitcoins-cryptography-and-the-bittorrent-protocol/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Anonymous networking has been gaining massive popularity during the past few years. More and more users are relying on <a href="https://www.deepdotweb.com/2017/03/30/tor-browser-fully-anonymous-myth-reality/">network protocols such as Tor</a> in order to be able to browse the internet anonymously. Zeronet is a new distributed, censorship resistant networking protocol that is based on Bitcoin&#8217;s cryptography and BitTorrent&#8217;s technology, which has massive potential to grow in popularity during the next few years. Throughout this article, we will overview Zeronet and its applications.</p>
     <p><img class="wp-image-28468" src="/imgs/2019/02/zeronett-png.png" alt="zeronett.png" srcset="/imgs/2019/02/zeronett-png.png 220w, /imgs/2019/02/zeronett-png-212x300.png 212w" sizes="(max-width: 220px) 100vw, 220px" /></p>
     <p><strong>What is ZeroNet?</strong></p>

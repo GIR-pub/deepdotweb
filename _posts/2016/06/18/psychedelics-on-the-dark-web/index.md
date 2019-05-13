@@ -9,7 +9,7 @@ Psychedelics on the Dark Web
     <span><a href="https://www.deepdotweb.com/2016/06/18/psychedelics-on-the-dark-web/#comments">14 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Whether you are a budding Alan Watts apprentice in the art of Zen Buddhism dissecting what it means to be alive or a Timothy Leary student sent into the future from a not so distant past set to question authority and find your inner potential and say a big fuck you to the government while meditating and tripping balls at the same time, the dark web has you covered when it comes to psychedelic drugs.</p>
     <p>However, this has not always been the case. If you weren’t involved in the scenes of the swinging sixties with connections deep into the underground cultures that made the counter culture movements of the sixties possible or you didn’t have the networks into the naughty nineties and without our good friend the internet (which was most people due to the scarcity of the internet before the boom in the nineties) and <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">dark net markets</a> yet to make waves, you were bound to restricted possibilities. Now, thankfully for those who enjoy breaking through into infinite realms of consciousness and for those that like to throw themselves down the rabbit hole, those once exclusive and restricted possibilities are now morphing into something that symbolizes something entirely different; unrestricted VIP access to those realms of wonder, awe and inspiration that our fellow psychonauts and psychedelic connoisseurs love to flirt with, and all this is thanks to the dark web of-course.</p>
     <p><strong>Did you know? – Part One</strong></p>

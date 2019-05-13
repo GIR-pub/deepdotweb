@@ -9,7 +9,7 @@ Op-Ed: “Going Dark” is an FBI Lie
     <span><a href="https://www.deepdotweb.com/2017/05/25/op-ed-going-dark-fbi-lie/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In 2009, the FBI publicly introduced the term and initiative “<a href="https://www.fbi.gov/services/operational-technology/going-dark">Going Dark</a>,” a reference to a “capability gap” between the Bureau and the public. To this day, the FBI maintains a position of inferiority to users of any type of encryption. Their struggle, as seen in the changes to Rule 41, has taken the form of a fight to legally circumvent any type of electronic privacy.</p>
     <p><img class="wp-image-20132 aligncenter" src="/imgs/2017/05/word-image-121.jpeg" srcset="/imgs/2017/05/word-image-121.jpeg 660w, /imgs/2017/05/word-image-121-300x136.jpeg 300w, /imgs/2017/05/word-image-121-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>“<em>The notion that privacy should be absolute, or that the government should keep their hands off our phones, to me just makes no sense given our history and our values</em>.” – Former President Barack Obama as <a href="https://www.fbi.gov/news/speeches/expectations-of-privacy-balancing-liberty-security-and-public-safety">cited by Former FBI Director James Comey</a>.</p>

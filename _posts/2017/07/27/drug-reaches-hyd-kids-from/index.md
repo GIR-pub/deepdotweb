@@ -9,7 +9,7 @@ Drug Reaches Hyd Kids from Darknet through Whatsapp, an Investigation from Last 
     <span><a href="https://www.deepdotweb.com/2017/07/27/drug-reaches-hyd-kids-from/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>Last week a group of drug peddlers were arrested by the Hyderabad police. It was followed by an investigation, and the investigators were stunned with the outcome.</p>
     <p>Investigators discovered how easily drugs are available to kids. India drug users have benefited from the easy accessibility of the Darknet drug shops, but the only hindrance between them and their drug freedom is the police. The police are not giving up on Darknet drug users as they have made <a href="https://www.deepdotweb.com/2015/12/22/two-drug-dealers-busted-in-india/">arrests</a> upon others, and raids to hunt down the drug peddlers. Recently, some foreign students were arrested for forming a gang distributing illicit drugs to people.</p>

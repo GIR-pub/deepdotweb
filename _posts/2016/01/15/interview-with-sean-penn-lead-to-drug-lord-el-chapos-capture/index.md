@@ -9,7 +9,7 @@ Interview With Sean Penn Lead To Drug Lord El Chapo’s Capture
     <span><a href="https://www.deepdotweb.com/2016/01/15/interview-with-sean-penn-lead-to-drug-lord-el-chapos-capture/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://news.vice.com/article/sean-penn-rolling-stone-joaquin-el-chapo-guzman-captured-mexico">The Sinaloa Cartel kingpin, Joaquin ”El Chapo” Guzmán, has been captured by the law enforcement authorities after months of hiding, following his unbelievable escape that happened 6 months ago.</a> Before the drug lord’s capture, movie star Sean Penn was making an interview with El Chapo at his hiding place in the mountains. According to a Mexican official, the actor’s encounter with the kingpin was a big help for law enforcement authorities.</p>
     <p>El Chapo’s first encounter with the media was in October when Penn interviewed him. The drug lord was taken into custody on January 8 by Mexican authorities after a bloody shootout in the coastal town of Los Mochis, which resides in the northern part of Sinaloa.</p>
     <p>&#8220;I supply more heroin, methamphetamine, cocaine and marijuana than anybody else in the world. I have a fleet of submarines, airplanes, trucks and boats,&#8221; Chapo reportedly boasted to Penn during their 7-hour meeting that began on the night of October 2 and lasted until 4 am. According to the interviewing actor, who published a <a href="http://www.rollingstone.com/culture/features/el-chapo-speaks-20160109">feature story</a> about Guzmán with Rolling Stone on January 9, the interview was arranged with the help of the Mexican actress Kate del Castillo.</p>

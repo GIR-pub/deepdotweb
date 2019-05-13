@@ -17,7 +17,7 @@ Father Of Two Brothers Who Died Overdosing On MDMA Support Drug Legalizing Campa
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Ray Lakeman, the father of Jacques Lakeman (20) Torin (19) <a href="http://www.mirror.co.uk/news/uk-news/brothers-died-side-by-side-hotel-room-5598001">who were found dead in a flat above a pub</a> in Bolton in November 2014, is <a href="http://www.iomtoday.co.im/news/isle-of-man-news/father-of-tragic-brothers-backs-uk-campaign-to-legalise-drugs-1-7963448">backing a campaign group</a> called Anyone’s child to legalize and regulate drugs. Both of the father’s children overdosed on MDMA, which they bought from abroad on the dark net.</p>
     <p>Sarah Lakeman, the mother of the tragic brothers, a teacher at Castle Rushen High School, said she does not share her husband’s views.</p>

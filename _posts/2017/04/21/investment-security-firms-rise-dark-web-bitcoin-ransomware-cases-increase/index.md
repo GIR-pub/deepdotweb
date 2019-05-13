@@ -9,7 +9,7 @@ Investment on Security Firms Rise as Dark Web and Bitcoin Ransomware Cases Incre
     <span><a href="https://www.deepdotweb.com/2017/04/21/investment-security-firms-rise-dark-web-bitcoin-ransomware-cases-increase/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Early-stage and state-led investments on cybersecurity firms are increasing exponentially. According to reports from the Big Four accounting firms which include EY, PwC, Deloitte and KPMG, the surge in cybersecurity investments is a direct result of rising cases of ransomware attacks, phishing scams and data thefts.</p>
     <p><a href="https://www.deepdotweb.com/2017/04/02/suspect-spreading-philadelphia-ransomware-identified/">Ransomware</a> attacks and phishing scams are correlated in a sense that they both are popular hacking methods utilized by modern hacking groups to breach internal database and servers of companies. Ransomware encrypts files and servers of corporations, paralyzing operations until a payment in bitcoin is processed. Phishing scams target high level employees in a corporation to steal financial information and use it to misdirect payments.</p>
     <p><img class="wp-image-19326 aligncenter" src="/imgs/2017/04/word-image-92.png" srcset="/imgs/2017/04/word-image-92.png 776w, /imgs/2017/04/word-image-92-300x124.png 300w" sizes="(max-width: 776px) 100vw, 776px" /></p>

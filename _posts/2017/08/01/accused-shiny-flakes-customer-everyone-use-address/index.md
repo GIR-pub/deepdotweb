@@ -9,7 +9,7 @@ Accused Shiny Flakes Customer: “Everyone Could Use My Address”
     <span><a href="https://www.deepdotweb.com/2017/08/01/accused-shiny-flakes-customer-everyone-use-address/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>In June 2017, a 26-year-old from Gilching went to court <a href="https://www.deepdotweb.com/2015/08/17/new-information-regarding-the-shiny-flakes-bust/">on ecstasy charges</a>. His name appeared on of Shiny Flakes “meticulous” lists. But because the prosecution could not prove that someone else had placed the orders and used the defendant’s address, the judge ordered that the case be dropped. Not even a week later, a 31-year-old from Nördlingen <a href="http://www.augsburger-allgemeine.de/noerdlingen/Darknet-Lieferungen-nach-Noerdlingen-id42059461.html">faced six similar charges</a>, per the Shiny Flakes list. Likewise, the verdict was the same: not guilty.<img class="wp-image-21692" src="/imgs/2017/07/s-jpg.jpeg" alt="s.jpg" /></p>
     <p>Between July 2014 and January 2015, the 31-year-old ordered cocaine, ecstasy, marijuana, and amphetamine, according to Prosecutor Alexandra Körner. He had purchased the drugs in various amounts and throughout six different orders. According to the Shiny Flakes list, someone—using the defendant&#8217;s last name—ordered the packages to the defendant’s current address. While the last name was the same, the first name varied per order, the prosecutor said.</p>

@@ -17,7 +17,7 @@ Lithuanian Court gives Green Light for Man to be extradited to the U.S. in Phish
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A local court in Vilnius, Lithuania on Monday approved for a businessman suspected of defrauding more than $100 million out of two major multinational tech companies, Google and Facebook in a <a href="https://www.deepdotweb.com/2017/08/07/7-8-17-dark-web-cybercrime-roundup/">cyber crime</a> case to be extradited to the United States. Although the U.S. indictment failed to mention the names of the companies, Snieguole Uzdanaviciene, Rimasauskas’ attorney, said the firms thus Facebook and Google were mentioned in the U.S. extradition request.</p>
     <p>In March, a U.S. indictment which was made public revealed that Evaldas Rimasauskas is charged with money laundering and wire fraud with each crime carrying a maximum prison sentence of 20 years. An aggravated identity theft charge in addition also carries a mandatory minimum sentence of two years. All these crimes are alleged to have taken place between 2013 to 2015.</p>

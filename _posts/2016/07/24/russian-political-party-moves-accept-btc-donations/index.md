@@ -9,7 +9,7 @@ Russian Political Party Moves to Accept BTC Donations
     <span><a href="https://www.deepdotweb.com/2016/07/24/russian-political-party-moves-accept-btc-donations/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Reports have surfaced telling us that in spite of Russia’s talk of banning Bitcoin altogether, a minor political party is trying to accept Bitcoin donations.</p>
     <p><a href="http://www.coindesk.com/russian-political-party-accept-bitcoin-donations/">They call themselves</a> The Party of Growth. The party was formed in 2009 under a different name, Just Cause. The Party of Growth is now setting its sights on being able to receive Bitcoin in donations. It’s a very noteworthy move, considering Russian Government all but hates the digital currency.</p>
     <p>Reports surfaced after reports from TASS that covered remarks made by Boris Titov, who is the head of the party, and just so happens to be an advisor to Vladimir Putin in regards to business and entrepreneurial issues. Titov was cited as saying that there is a need to source funding for the party from new directions, one of said is crowdfunding. He also said that the party would only accept bitcoin donations from users with verified identities.</p>

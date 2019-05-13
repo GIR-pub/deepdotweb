@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/06/26/26-6-17-dark-web-cybercrime-roundup/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Six Indicted in Darknet Fentanyl Distribution Ring</strong></p>
     <p>The case against the former Alphabay vendor known as Pharma-Master grew substantially larger. A superseding grand jury Indictment charged five additional suspects in one of the “nation&#8217;s largest fentanyl cases.” In 2016, authorities arrested a fentanyl dealer. Police later revealed that t he dealer was a well-known <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a> vendor. The superseding indictment added a host of information about the case, along with five new co-defendants. During some of the raids, police found 70,000 fake Oxycodone pills, $1.2 million in cash, and “more than approximately 25,000 pills that have the appearance of Alprazolam.” <a href="https://www.deepdotweb.com/2017/06/18/six-indicted-darknet-fentanyl-distribution-ring/">DeepDotWeb</a><img class="wp-image-20901 aligncenter" src="/imgs/2017/06/word-image-162.jpeg" srcset="/imgs/2017/06/word-image-162.jpeg 660w, /imgs/2017/06/word-image-162-300x136.jpeg 300w, /imgs/2017/06/word-image-162-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p><img class="wp-image-20902 aligncenter" src="/imgs/2017/06/word-image-163.jpeg" srcset="/imgs/2017/06/word-image-163.jpeg 800w, /imgs/2017/06/word-image-163-300x207.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

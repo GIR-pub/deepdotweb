@@ -9,7 +9,7 @@ Hackfest Speeds Up Development for Next Generation Onion Services
     <span><a href="https://www.deepdotweb.com/2016/06/02/hackfest-speeds-development-next-generation-onion-services/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A blog post on the Tor site said that a couple of weeks ago, Tor dev.’s got together and worked on nothing but onion services for an entire 7 days.</p>
     <p>“The event was very rewarding and we wrote this blog post to share with you how we spent our week!” the post read.</p>
     <p><a href="https://blog.torproject.org/blog/mission-montreal-building-next-generation-onion-services">This is Tor&#8217;s second &#8216;onion hackfest&#8217;</a>. The last being legendary Arlington Accords in July of 2015. Tor has been working on Proposal 224; or, Next Generation Onion Services for the past couple months and this week long meeting was to help get them ahead with the developments.</p>

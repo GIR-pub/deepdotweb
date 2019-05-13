@@ -9,7 +9,7 @@ Bitcoin Price Analysis Jan 24th
     <span><a href="https://www.deepdotweb.com/2017/01/24/bitcoin-price-analysis-jan-24/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>The Price of Bitcoin is Recovering</strong></p>
     <p>This week, Bitcoin continued its recovery from the $758 low of January 12, 2017 to a high of $940 on January 22. Since two consecutive sharp sell offs from $1139 all time high at the beginning of 2017, the digital currency’s price is gradually reclaiming its lost levels. While part of this resurgence is down to classic technical analysis, recent comments from China and development in the United States have fueled the recent trend up: an expected Bitcoin IPO on the NYSE in October 2017 and unofficial approval of Bitcoin trading activities by the Chinese Central Bank. Bitcoin is going back to $1000!</p>
     <p><img class="wp-image-17842 aligncenter" src="/imgs/2017/01/deep-11-png.png" alt="deep 11.png" width="743" height="439" srcset="/imgs/2017/01/deep-11-png.png 2260w, /imgs/2017/01/deep-11-png-300x177.png 300w, /imgs/2017/01/deep-11-png-1024x605.png 1024w" sizes="(max-width: 743px) 100vw, 743px"/></p>

@@ -18,7 +18,7 @@ Russia Clash with the U.S over Extradition of Cybercriminal from Greece
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Reports from a Greek judicial official reveals that Russia and the United States have once locked horns again after <a href="https://www.deepdotweb.com/2017/06/22/czech-court-approves-extradition-linkedin-hacker-us-russia/">Russia sought an extradition</a> of a Russian national believed to be a cybercriminal who was arrested in Greece at the request of the United States.</p>
     <p>Aleksandr Vinnik was the mastermind of the crime organization accused of laundering over $4 billion in bitcoin. This included funds from Mt Gox, the failed bitcoin exchange which was hacked.</p>

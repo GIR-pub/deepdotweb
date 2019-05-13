@@ -9,7 +9,7 @@ Bitcoin news roundup April 30, 2017
     <span><a href="https://www.deepdotweb.com/2017/04/30/bitcoin-news-roundup-april-30-2017/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>Understanding Antbleed, bitcoin’s new controversy</strong></p>

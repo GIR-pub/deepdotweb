@@ -9,7 +9,7 @@ BTC Users Could Get Jail Time in Russia
     <span><a href="https://www.deepdotweb.com/2016/05/05/btc-users-get-jail-time-russia/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://qz.com/672780/russia-is-considering-legislation-that-would-send-bitcoin-users-to-jail-for-up-to-7-years/">The Russian Finance Ministry</a> is preparing to introduce legislation next month that would fine and jail digital currency users, according to Bloomberg. The Legislation, which was amended last month, has miltiple tiers of penalties depending on the persons usage, according to Interfax, a Russian news agency. For regular citizens who casually use bitcoin, a penalty is 500,000 rubles($7,800) or four years in prison. For organized groups, like bitcoin miners who confirm transactions on the network, its 1 million rubles($15,500) or six years in prison. Executives or managers of financial institutions would face a fine of up to 2.5 million rubles($38,000) or up to seven years in jail.</p>
     <p>Russia wouldn&#8217;t be the first country to go after bitcoin users. Iceland,Ecuador, and Vietnam have each banned the currency in some way. Digital currencies like bitcoin boast properties that spook central banks and regulators. Crypto currencies allow for anonymous transactions, which could be used for the trading of illicit goods and services.</p>
     <p>“Bitcoin can be used to finance the shadow economy and crimes, and this risk we cannot allow in Russia&#8217;s financial system, which we are striving to make transparent and healthy,” Russian central bank&#8217;s press division told Bloomberg.</p>

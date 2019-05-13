@@ -9,7 +9,7 @@ Drug-Related Deaths Increase in Europe, Dark Web Remains Driving Factor
     <span><a href="https://www.deepdotweb.com/2017/06/25/drug-related-deaths-increase-europe-dark-web-remains-driving-factor/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The new European Drug Report released by European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) discovered that one-quarter of all people ages 15 to 64 in the EU which accounts to around 93 million Europeans have consumed illegal drugs in the past.</p>
     <p>In 2015 alone, 1 million drug-related offenses were registered by the European Union and countries outside the EU have also reported a significant increase in drug consumption and possession.</p>
     <p>One of the major issues highlighted by the European Drug Report was the increased death toll in Europe, Germany in particular, as a result of drug overdose. According to the European drug report, 8,400 people faced deaths in Europe after being overdosed on heroin and other deadly drugs such as fentanyl.</p>

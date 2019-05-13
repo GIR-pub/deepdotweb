@@ -9,7 +9,7 @@ Coin.mx Operator Admits Fraud and Money Laundering
     <span><a href="https://www.deepdotweb.com/2017/01/25/coin-mx-operator-admits-fraud-money-laundering/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On Monday, January 9, 2017, the United States Attorney for the Southern District of New York announced the long-awaited guilty plea in the Coin.mx case. Preet Bharara, the aforementioned US attorney, said Anthony Murgio, the owner of Coin.mx, pleaded guilty in front of U.S. District Judge Alison J. Nathan. Murgio, according to the recently released court documents, illegally processed more than $10m in Bitcoin and participated in a multi-million dollar fraud scheme.</p>
     <p>The case <em>nearly</em> set standards for the crypto-currency—Bitcoin and likely all forks and similar currencies—in September 2016. Murgio fought many of the charges and used the IRS’s definition of Bitcoin to do so. The IRS, when cryptocurrencies started growing in popularity, felt the need to define Bitcoin and similar virtual currencies as property—not currency at all.</p>
     <p>According to <a href="https://www.irs.gov/pub/irs-drop/n-14-21.pdf"><em>IRS Virtual Currency Guidance: Virtual Currency Is Treated as Property for U.S. Federal Tax Purposes; General Rules for Property Transactions Apply</em></a></p>

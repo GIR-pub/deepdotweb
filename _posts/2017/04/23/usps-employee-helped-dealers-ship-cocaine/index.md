@@ -9,7 +9,7 @@ USPS Employee Helped Dealers Ship Cocaine
     <span><a href="https://www.deepdotweb.com/2017/04/23/usps-employee-helped-dealers-ship-cocaine/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In July 2016, seven men pleaded guilty violating federal narcotics and money laundering laws. Another man pleaded guilty shortly afterwards as part of the same indictment. That indictment accused former United States postmaster Joseph Borrelli of the same crimes. On April 7, 2017, United States District Judge Arthur Schwab sentenced the <a href="https://www.justice.gov/usao-wdpa/pr/former-us-postmaster-sentenced-prison-role-cocaine-conspiracy">ex-USPS employee to four years imprisonment</a> for conspiracy to distribute cocaine.</p>
     <p>The 49-year-old former postmaster aided the other seven men in an intercontinental <a href="https://www.deepdotweb.com/tag/usps/">cocaine trafficking ring that used USPS</a> as a carrier. Like many drug traffickers, dealers, or darknet vendors—whatever name one carries in relation to shipping narcotics or other illegal drugs—this ring used various tactics to conceal packages. Buyers often scrutinize <a href="https://www.deepdotweb.com/tag/darknet/">darknet vendors</a> for their stealth. And those with the best or unique stealth methods often utilize a tactic or trick when shipping orders. The less a package stands out, the better.</p>
     <p><img class="wp-image-19346 aligncenter" src="/imgs/2017/04/word-image-30.jpeg" srcset="/imgs/2017/04/word-image-30.jpeg 777w, /imgs/2017/04/word-image-30-300x169.jpeg 300w" sizes="(max-width: 777px) 100vw, 777px" /></p>

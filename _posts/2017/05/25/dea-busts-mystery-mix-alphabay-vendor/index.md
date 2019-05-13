@@ -9,7 +9,7 @@ DEA Busts a “Mystery Mix” Alphabay Vendor
     <span><a href="https://www.deepdotweb.com/2017/05/25/dea-busts-mystery-mix-alphabay-vendor/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In Cape Girardeau, Missouri, the Drug Enforcement Agency arrested a Joshua J. Kelly, a well known beheld on Alphabay. On May 11, 2017 law enforcement raided his shop, Heady Warez smoke shop after the DEA investigated a vendor known as “ustous.” Responses, thus far, have a unique element about them—one that does not come with many drug vendor arrests—at least within the crypto market community.</p>
     <p><img class="wp-image-20107 aligncenter" src="/imgs/2017/05/word-image-113.jpeg" srcset="/imgs/2017/05/word-image-113.jpeg 660w, /imgs/2017/05/word-image-113-300x136.jpeg 300w, /imgs/2017/05/word-image-113-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px"/></p>
     <p>Not even a month since the opioid vendor PeterTheGreat landed in jail, the feds busted another opioid vendor. There is no denying that law enforcement is <a href="https://www.deepdotweb.com/tag/heroin">cracking down on opioid sellers</a>, both on and off the streets. However, ustous’s arrest may simply have been the fruit of an investigation from a low-hanging branch.</p>

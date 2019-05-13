@@ -9,7 +9,7 @@ Atomic Verification Via Private Key Locked Bitcoin Transactions
     <span><a href="https://www.deepdotweb.com/2017/01/12/atomic-verification-via-private-key-locked-bitcoin-transactions/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The <a href="https://www.deepdotweb.com/2016/04/27/smart-contracts-will-replace-intermediaries-notaries/">smart contract technology</a> permits the creation of new protocols that can be implemented on top of bitcoin&#8217;s protocol itself. This signals the development of complex scripts, that are far beyond the requirement of a single digital signature. <a href="https://eprint.iacr.org/2016/1184.pdf">A research paper, which has been published a few days ago, introduced a new concept of private key locked bitcoin transactions</a>, which represents an innovative type of transactions that permit atomic verification of a specific private key (which belongs to an asymmetric pair of keys) throughout the process of execution of the script.</p>
     <p><img class="wp-image-17458 aligncenter" src="/imgs/2017/01/bitcoin-locked-transaction-jpg.jpeg" alt="bitcoin locked transaction.jpg" width="639" height="664" srcset="/imgs/2017/01/bitcoin-locked-transaction-jpg.jpeg 1200w, /imgs/2017/01/bitcoin-locked-transaction-jpg-289x300.jpeg 289w, /imgs/2017/01/bitcoin-locked-transaction-jpg-986x1024.jpeg 986w" sizes="(max-width: 639px) 100vw, 639px"/></p>
     <p><strong>What Are Private Key Locked Bitcoin Transactions?</strong></p>

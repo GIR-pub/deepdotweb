@@ -17,7 +17,7 @@ Authorities Bust Bloomsfield Market Owner in Slovakia
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On May 4, <a href="https://www.europol.europa.eu/newsroom/news/darknet-dealer-of-drugs-and-arms-arrested-slovak-authorities">Europol announced the arrest of a darknet vendor in Slovakia</a>. With surprisingly little enthusiasm, they also revealed that Slovakian law enforcement seized computer equipment that, at one time, hosted a darknet marketplace. Europol compared information from the computer with their own information and confirmed that the darknet vendor also owned and maintained a darknet market.</p>
     <p>Police in Slovakia raided five locations and found five firearms, more than five hundred rounds of ammunition, and a large cannabis grow op. They called it a “sophisticated indoor cannabis plantation” and reported a total of 58 plants. Furthermore​, we discovered, police seized the computers and performed a preliminary forensic analysis while on the crime scene. Adding another layer of confusion, news outlets clarified that <a href="http://www.zive.sk/clanok/124882/policia-obvinila-dve-osoby-ktore-mali-pachat-trestnu-cinnost-cez-darknet">authorities arrested two darknet vendors</a>: a 28-year-old known as Luke and a 33-year-old known as Adam.</p>

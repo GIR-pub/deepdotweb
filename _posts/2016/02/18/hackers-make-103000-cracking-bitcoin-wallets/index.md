@@ -9,7 +9,7 @@ Hackers Make $103,000 Cracking Bitcoin Wallets
     <span><a href="https://www.deepdotweb.com/2016/02/18/hackers-make-103000-cracking-bitcoin-wallets/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Hackers have made about $103,000 cracking bitcoin wallets that were “secured” using BrainWallet.</p>
     <p>Not too long after a group of researchers <a href="https://eprint.iacr.org/2016/103.pdf">published</a> a paper about efficiently cracking bitcoin BrainWallets, it was <a href="http://fc16.ifca.ai/preproceedings/36_Vasek.pdf">revealed</a> in a paper that there are a group of hackers who have already taken advantage of these weaknesses and have drained every wallet they could.</p>
     <p>“Surprisingly, after excluding activities by researchers, we identified just 884 brain wallets worth around $100K in use from September 2011 to August 2015. We find that all but 21 wallets were drained, usually within 24 hours but often within minutes. We find that around a dozen “drainers&#8221; are competing to liquidate brain wallets as soon as they are funded”</p>

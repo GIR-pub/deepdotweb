@@ -9,7 +9,7 @@ Hackers Claim To Sell The World-Check Database On Dark Web
     <span><a href="https://www.deepdotweb.com/2016/07/23/hackers-claim-sell-world-check-database-dark-web/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a report from security researcher Chris Vickery, a copy of the World-Check database was <a href="http://thehill.com/policy/cybersecurity/287927-dark-web-vendors-claim-to-sell-stolen-terrorism-database">exposed</a> on the internet since a client has misconfigured some security setting on the cloud platform. This means, that if an attacker saw this security flaw, he could easily steal the whole database.</p>
     <p>Some other reports claim that there are hackers on the dark net based Real Deal Market who are selling them, one of them, called “bestbuy” put it up for sale for the price of 10 bitcoins (around $7000) and the other, “Data Direct” for 3.5 bitcoins (nearly $2000).</p>
     <p>World-Check, the product of Thomson Reuters, has over 300 government agencies, nine of the world’s top 10 law firms and 49 of the world’s top 50 banks as their clients. This database has profiles of millions of people, amongst them, there are tens of thousands who are linked to terrorism. World-Check creates its profiles on public information, including international terrorist watchlists.</p>

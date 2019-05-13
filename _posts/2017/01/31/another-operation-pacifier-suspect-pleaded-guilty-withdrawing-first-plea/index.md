@@ -17,7 +17,7 @@ Another Operation Pacifier Suspect Pleaded Guilty Again After Withdrawing the Fi
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Years ago, the FBI began investigating darknet child pornography viewers, sharers, and a whole dragnet of unrelated individuals. The legality of the case and more importantly the validity of the evidence the FBI obtained faced scrutiny from both sides of the law. Federal judges ruled both for and against the use of the illegal Network Investigative (NIT) on the defendants in the case. As we recently covered, the FBI hacked over 8,000 computers with the malware and the vast majority never viewed child porn. One of the three main defendants to fight the case, based on the FBI’s handling of the investigation, just pleaded guilty to child pornography crimes.</p>
     <p>Bruce Lorente, a 58-year-old from Seattle, Washington, recently <a href="http://www.seattletimes.com/seattle-news/crime/seattle-man-nabbed-in-controversial-fbi-child-porn-sting-pleads-guilty/">pleaded guilty to possession of child pornography</a>. This plea is the second guilty plea to the same crime, in the same case, by Lorente. Earlier in the judicial process, the court allowed Lorente to withdraw his guilty plea based on the newly released evidence regarding the FBI’s highly controversial investigate techniques. <em>The Seattle Times</em> wrote that “Bryan raised constitutional and procedural concerns about the Operation Pacifier investigation.”</p>

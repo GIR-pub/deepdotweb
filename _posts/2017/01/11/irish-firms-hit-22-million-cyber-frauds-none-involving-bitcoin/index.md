@@ -9,7 +9,7 @@ Irish Firms Hit With $22 Million in Cyber Frauds, None Involving Bitcoin
     <span><a href="https://www.deepdotweb.com/2017/01/11/irish-firms-hit-22-million-cyber-frauds-none-involving-bitcoin/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Major public corporations and government agencies in Ireland were hit by US$23 million <a href="https://www.deepdotweb.com/2016/12/12/german-internet-fraud-duo-sentenced/">cyber frauds</a> in the past year. Over 20 cyber attacks are being investigated by the Garda National Economic Crime Bureau (GNECB), but interestingly, there are no reported cases of bitcoin involvement.</p>
     <p>Over the past two years, various law enforcement agencies and governments including Interpol and the government of the Philippines emphasized the importance of KYC/AML regulations for <a href="https://www.deepdotweb.com/2017/01/03/bayesian-method-deanonymising-large-percentage-bitcoin-transactions/">bitcoin</a>, due to increasing cases of bitcoin-related cybercrime. However, representatives and investigators at the GNECB stated that the majority of cyber crimes involved bank payments and cash transfer, and were settled without the usage of bitcoin.</p>
     <p>The largest case currently under investigation is a $7.3 million bank fraud initiated by an international gang composed of cyber criminals. An undisclosed “household name” Irish company were misled by criminals that instructed the company to send a bank deposit to an overseas account. While specifications of the incident aren’t made public yet, the entire process was completed through bank settlement.</p>

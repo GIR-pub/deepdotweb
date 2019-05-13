@@ -9,7 +9,7 @@ Windows 10 is not Free &#8211; Privacy Issues
     <span><a href="https://www.deepdotweb.com/2017/02/02/windows-10-not-free-privacy-issues/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Did you know that Microsoft records your voice, camera and every keystroke on Windows 10? Of course, it&#8217;s all in the Terms of Agreement.</p>
     <p>&#8220;When you interact with your Windows device by speaking, handwriting, or typing, Microsoft collects speech, inking, and typing information – including information about your Calendar and People [contacts]…&#8221;</p>
     <p>Here&#8217;s their privacy statement preview for Windows 10. They do a really good job at explaining it like it&#8217;s nothing important, just some cookies and beacons. Here&#8217;s how they explain how they collect data:</p>

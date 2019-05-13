@@ -9,7 +9,7 @@ ISPs May Start Selling Internet Browsing History
     <span><a href="https://www.deepdotweb.com/2017/04/10/isps-may-start-selling-internet-browsing-history/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On March 23, 2017, the US Senate voted to revoke the internet privacy regulations the FCC pushed last year. The rules protected private citizen data by restricting access to internet browsing history by internet service providers—when used as a source of revenue. A corporation like AT&amp;T or Comcast <a href="https://www.theverge.com/2016/10/27/13428976/fcc-passes-isp-privacy-rules">now needs subscriber’s permission before sharing such data</a>.</p>
     <p>ISP companies inherently observe the web browsing data of each subscriber. But they struggled to use that web browsing data for advertisement purposes after the FCC essentially shut that down in 2016. Major ISP companies like AT&amp;T and Charter have since argued that they were treated unfairly in contrast to internet services and websites. And they made a loud enough noise about their complaint; the US Senate <a href="https://www.congress.gov/bill/115th-congress/senate-joint-resolution/34/text">voted on the reversal of a rule</a> that gave the public some degree of internet privacy.</p>
     <p><img class="wp-image-19117 aligncenter" src="/imgs/2017/04/word-image-36.png" srcset="/imgs/2017/04/word-image-36.png 769w, /imgs/2017/04/word-image-36-300x189.png 300w" sizes="(max-width: 769px) 100vw, 769px"/></p>

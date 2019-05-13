@@ -9,7 +9,7 @@ US Judge: “Actual Location” of Electronic Data Does Not Matter
     <span><a href="https://www.deepdotweb.com/2017/05/06/us-judge-actual-location-electronic-data-not-matter/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In late April 2017, magistrate judge Laurel Beeler rejected Google’s motion to quash a search warrant that requested data stored on foreign servers. This decision directly contradicted one made by circuit Judges in the New York Second Circuit Court of Appeals in a case where <a href="https://www.deepdotweb.com/2016/07/21/court-rules-government-cant-access-international-data/">Microsoft fought a similar warrant</a>. In both—unrelated but strikingly similar—cases, the tech giants received Stored Communications Act (SCA) warrants. Both complied with respect to data stored in the United States but refused to release overseas data. Microsoft won.</p>
     <p>Google, as of April 19, 2017, lost. According to judge Laurel Beeler, Google’s internationally stored data was different than that of the data Microsoft stored overseas. Not in the sense that the content was of a different variety. But that Google’s storage protocols rendered the Microsoft Corp. v. United States ruling relevant.</p>
     <p><img class="wp-image-19668 aligncenter" src="/imgs/2017/05/word-image-10.jpeg" srcset="/imgs/2017/05/word-image-10.jpeg 800w, /imgs/2017/05/word-image-10-300x188.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

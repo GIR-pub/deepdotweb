@@ -9,7 +9,7 @@ Upper Austria Vendor Group Arrested
     <span><a href="https://www.deepdotweb.com/2016/12/05/upper-austria-vendor-group-arrested/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Three men were <a href="http://www.krone.at/oesterreich/darknet-dealer-in-oberoesterreich-verhaftet-trio-ausgeforscht-story-540593">arrested</a> in Vöcklabruck, <a href="https://www.deepdotweb.com/tag/austria/">Austria</a> who are suspected of running a vendor shop on the dark web.</p>
     <p>A 47-year-old and two 20-year-old men allegedly sold about one kilogram of <a href="https://www.deepdotweb.com/tag/amphetamine/">amphetamines</a> on the dark net. Police information says the trio was in business from September 2015 to November 2016. The vendor group dealt in bulk orders of amphetamines, they allegedly sent out 10 to 11 orders to their customers with each package containing at least 100 grams of speed. According to law enforcement authorities, the customers of the vendor trio were also drug dealers who bought the narcotics for trafficking purposes. Police also added that the trio had financed their own drug dependencies from the profits they made.</p>
     <p>Law enforcement authorities discovered the trio’s illegal activities when they intercepted a parcel containing 109 grams of amphetamines addressed to a customer in Vienna. The customs found the drugs during a routine inspection. The three suspects are currently held in detention in an underground prison in Wels.</p>

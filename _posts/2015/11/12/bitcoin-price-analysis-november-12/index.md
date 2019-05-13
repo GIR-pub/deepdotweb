@@ -9,7 +9,7 @@ Bitcoin price analysis November 12
     <span><a href="https://www.deepdotweb.com/2015/11/12/bitcoin-price-analysis-november-12/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="/imgs/2015/11/11.jpg"><img class="aligncenter size-full wp-image-12092" src="/imgs/2015/11/11.jpg" alt="1" width="1306" height="779" srcset="/imgs/2015/11/11.jpg 1306w, /imgs/2015/11/11-300x179.jpg 300w, /imgs/2015/11/11-1024x611.jpg 1024w" sizes="(max-width: 1306px) 100vw, 1306px"/></a></p>
     <p>This week, the price of bitcoin behaved as expected on last week’s analysis &#8211; “<em>A correction with a chance of more upside sums it up”</em></p>
     <p>More upside was exciting, flatlining at $ 430 and thereafter blowing past it, all the way up to $ 504. It was pretty exciting to witness the market in full euphoria. We have not observed these price levels since August of 2014.</p>

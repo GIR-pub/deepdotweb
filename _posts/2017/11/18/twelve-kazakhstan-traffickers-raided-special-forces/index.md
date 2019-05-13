@@ -9,7 +9,7 @@ Twelve Kazakhstan Traffickers Raided by Special Forces
     <span><a href="https://www.deepdotweb.com/2017/11/18/twelve-kazakhstan-traffickers-raided-special-forces/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In the Kazakhstan cities of Almaty and Astana, the country’s National Security Committee (NSC) carried out a large-scale operation against organized crime syndicates that distributed drugs through the darknet. Not counting previously detained individuals with connections to the drug trafficking organizations, the investigation led to the arrest of 12 drug traffickers. According to the NSC, the investigation is ongoing and now directed towards darknet market drug buyers.</p>
     <p>The action was the product of a collaboration between cybersecurity units in law enforcement and National Security Committee’s special forces. Authorities claimed they watched online drug markets for an undisclosed amount of time before taking action. During this preliminary investigation period, the country’s law enforcement and national security forces discovered “separate online stores.” The organized crime groups controlled or operated stores on a darknet market, the NSC said in their <a href="http://www.knb.kz/ru/news/presecena-onlain-torgovla-narkotikami">official report</a>.</p>
     <p><img class="wp-image-23567 aligncenter" src="/imgs/2017/11/word-image-12.png" srcset="/imgs/2017/11/word-image-12.png 800w, /imgs/2017/11/word-image-12-300x150.png 300w, /imgs/2017/11/word-image-12-660x330.png 660w" sizes="(max-width: 800px) 100vw, 800px" /></p>

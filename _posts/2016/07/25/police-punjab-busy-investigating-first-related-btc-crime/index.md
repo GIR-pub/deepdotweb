@@ -9,7 +9,7 @@ Police in Punjab Investigating It’s First Related BTC Crime
     <span><a href="https://www.deepdotweb.com/2016/07/25/police-punjab-busy-investigating-first-related-btc-crime/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Police in Punjab are investigating their first ever case involving Bitcoin. Unfortunately, it also involves financial fraud data being purchased on the darknet.</p>
     <p><a href="http://www.hindustantimes.com/punjab/financial-fraud-punjab-cops-brush-with-darknet-bitcoins/story-w4YDmUJFDgkV12scPzWWxO.html">A group of four</a>, two Punjab residents and two residence of the US stole Rs 1.2-crore worth of US Dollars using stole credit card data bought on darknet. Bitcoin was used to buy the information they used, as well as sharing in the stolen funds between all four involved.</p>
     <p>Baljit Singh and his partner Amritpal Singn, both 27 years old, were arrested in Jalandhar last week. From December 2014 to February 2015 the pair scored $500 each from over 400 transactions between relatives and friends living in the US using Western Union.</p>

@@ -9,7 +9,7 @@ IRS Demands Entire Coinbase User Database For Tax Purposes
     <span><a href="https://www.deepdotweb.com/2016/11/29/irs-demands-entire-coinbase-user-database-tax-purposes/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Internal Revenue Service, a U.S. government agency responsible for tax collection and tax law enforcement, has requested popular bitcoin trading platform and wallet service provider Coinbase to provide personal and sensitive financial data of millions of customers over the past three years for tax filing purposes.</p>
     <p>Various court filings have been submitted and a formal investigation was initiated by the IRS to estimate the amount of tax evaded by users on the platform. Court filings state that the IRS is formally seeking pertinent financial and personal information of all US-based Coinbase users between 2013 and 2015.</p>
     <p>“The John Does whose identities are sought by the summons are United States persons who, at any time during the period January 1, 2013, through December 31, 2015, conducted transactions in a convertible virtual currency,” <a href="https://www.documentcloud.org/documents/3222199-Memorandum-in-Support-of-Petition-for-Coinbase.html">reads a memorandum</a> written by Department of Justice attorneys and filed on Thursday, November 17.</p>

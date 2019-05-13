@@ -17,7 +17,7 @@ Ohio Man Pleaded Guilty to Selling Fentanyl From China that Resulted in a Fatal 
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>In 2015, a 36-year-old from Akron, Ohio, sold fentanyl that resulted in the death of an unidentified Akron fentanyl-user. Leroy Shuarod Steele, one of the three defendants named in the indictment, admitted that he sold the fentanyl. Steele&#8217;s guilty plea, according to the U.S. Attorney’s Office for the Northern District of Ohio, is &#8220;likely&#8221; to bring a 20-year prison sentence. A 2-count Federal indictment, in 2015, charged Steele with intent to distribute fentanyl and distribution that ended in a fatal overdose.</p>
     <p>The indictment only identified the now-deceased customer with two-initials: T.R. It mentioned, additionally, that the buyer lived in Akron along with Steele. Ohio served as the face and partial launchpad for U.S. Senator Rob Portman&#8217;s legislation aimed at ending <a href="https://www.deepdotweb.com/2016/09/23/pill-counterfeiting-lab-bust-dea-warns-fentanyls-danger/">opioid trafficking</a> in the United States. The bill, called the Synthetics Trafficking &amp; Overdose Prevention (STOP) Act, specifically focused on opioid trafficking via the postal system and pinpointed China as the main supplier of <a href="https://www.deepdotweb.com/2016/10/04/authorities-push-legislation-aims-end-shipping-drugs-via-usps/">illegal opioids and opiates</a>.</p>

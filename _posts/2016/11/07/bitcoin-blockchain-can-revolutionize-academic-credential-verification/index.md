@@ -9,7 +9,7 @@ How Bitcoin Blockchain Can Revolutionize Academic Credential Verification
     <span><a href="https://www.deepdotweb.com/2016/11/07/bitcoin-blockchain-can-revolutionize-academic-credential-verification/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>For companies, it is particularly difficult and time consuming to verify academic credentials and certificates of applicants. Chris Jagers, the CEO of Learning Machine believes the blockchain technology can permanently change the traditional method of verification utilized by most companies and educational institutions globally.</p>
     <p>One of the most controversial cases in the world of technology is <a href="http://www.thedailybeast.com/articles/2012/05/13/farewell-yahoo-ceo-scott-thompson-ousted-for-a-resume-lie.html">the release</a> of former Yahoo CEO Scott Thompson, after it was revealed that he falsely listed a computer-science degree from Stonehill College to be eligible for a position at Yahoo.</p>
     <p>Yahoo recruitment and human resources departments received harsh criticisms from the community following the release of Thompson due to the lack of due diligence from the company’s part in verifying each credentials and experience of their future CEO. Realistically however, the traditional method of issuing academic credentials should have been the receiving end of criticisms.</p>

@@ -17,7 +17,7 @@ Bury Man Jailed for Trying to Buy Handgun At Service Station
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Montgomery Richard Kyle Byrne (31) from Bury <a href="http://www.manchestereveningnews.co.uk/news/greater-manchester-news/montgomery-byrne-jailed-dark-web-10743557">was busted by the National Crime Agency (NCA)</a> when he attempted to hand over £1,300 to buy a Glock pistol and 300 rounds of ammunition at a motorway service station. Byrne has been sentenced for up to 6 years of prison at Birmingham Crown Court after pleading guilty to to nine firearms offences, including possessing a bolt action rifle and “a quantity of cartridges with bullets designed to explode on or immediately before contact”.</p>
     <p><img class="aligncenter size-full wp-image-12968" src="/imgs/2016/01/byrne-montage1.jpg" alt="byrne-montage[1]" width="615" height="409" srcset="/imgs/2016/01/byrne-montage1.jpg 615w, /imgs/2016/01/byrne-montage1-300x200.jpg 300w" sizes="(max-width: 615px) 100vw, 615px" /></p>

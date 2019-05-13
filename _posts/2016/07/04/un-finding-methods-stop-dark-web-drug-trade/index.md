@@ -9,7 +9,7 @@ UN Trying To Find Methods To Stop The Dark Web Drug Trade
     <span><a href="https://www.deepdotweb.com/2016/07/04/un-finding-methods-stop-dark-web-drug-trade/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The UNODC (the United Nation’s Office on Drugs and Crime) published its <a href="http://www.unodc.org/wdr2016/">annual report</a> on Thursday where they have mentioned some new methods and technologies to <a href="http://motherboard.vice.com/read/un-report-urges-solutions-to-dark-web-drug-trade">cope with the drug trade</a> on the dark net. The report says:</p>
     <p>“Law enforcement and the criminal justice system in many countries are still not in a position to deal effectively with the anonymous online marketplace known as the &#8216;dark net&#8217;.”</p>
     <p>Since most of the users use Tor and encryption technologies to remain hidden while accessing dark net marketplaces and forums, law enforcement authorities have trouble to identify and locate their IP addresses.</p>

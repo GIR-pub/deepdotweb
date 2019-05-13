@@ -9,7 +9,7 @@ Report: Dark Web Drug Trafficking On The Increase In German City
     <span><a href="https://www.deepdotweb.com/2017/05/15/report-dark-web-drug-trafficking-increase-german-city/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a <a href="http://www.badische-zeitung.de/offenburg/ein-fass-ohne-boden-x2x--136123700.html">recent report</a> by German authorities, drug trafficking on the darknet is on a high level in the city of Offenburg and in the surrounding areas.</p>
     <p><img class="wp-image-19885 aligncenter" src="/imgs/2017/05/http-ais-badische-zeitung-de-piece-08-1d-15-2b-1.jpeg" alt="" width="566" height="450" srcset="/imgs/2017/05/http-ais-badische-zeitung-de-piece-08-1d-15-2b-1.jpeg 566w, /imgs/2017/05/http-ais-badische-zeitung-de-piece-08-1d-15-2b-1-300x239.jpeg 300w" sizes="(max-width: 566px) 100vw, 566px"/></p>
     <p>The report showed that a person can purchase a gram of cocaine for 75 euros, 50 grams of the same substance for 2,750 euros, and &#8220;more on request”. The <a href="https://www.deepdotweb.com/2017/04/22/former-customer-narcotics-vendor-shiny-flakes-ordered-pay-fine/">narcotics</a> are shipped via the national postal service in letters or packages. The vendors ensure fast delivery times, while the best quality is guaranteed, in addition to the positive customer reviews, which makes the purchase of drugs on the dark web as easy as an on a legal internet platform, the report claimed. However, the narcotics trade on the dark side of the internet presents a big threat to law enforcement authorities in Offenburg.</p>

@@ -9,7 +9,7 @@ Dark Web Ricin Case: Judge Rejected Recommended Sentence
     <span><a href="https://www.deepdotweb.com/2016/04/18/dark-web-ricin-case-judge-rejected-recommended-sentence-former-political-consultant/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Judge Vince Girdhari Chhabria <a href="http://www.courthousenews.com/2016/04/06/judge-balks-at-light-sentence-in-poison-case.htm">rejected the recommended sentence</a> of 30 months in prison and three years probation of <a href="https://www.deepdotweb.com/2014/06/11/fbi-bomb-suspect-ryan-chamberlain-sought-toxins-via-deep-web-bmr/">Ryan Kelly Chamberlain</a> (44).</p>
     <p>Chamberlain is a former political consultant who pleaded guilty to the possession of a biological toxin and a firearm with the serial number removed. He acquired the poison and the .22 caliber Derringer pistol from <a href="https://www.deepdotweb.com/?s=Black+Market+Reloaded">Black Market Reloaded</a> (<a href="https://www.deepdotweb.com/tag/bmr/">BMR</a>). Chamberlain has been in federal jail since June 2014 when the FBI arrested him. The Bureau had been surveilling him for weeks and tracked the shipment of the poison to the man’s apartment. Eventually, Chamberlain fled, the feds were on his trail for three days and caught him in a park in San Francisco. He had also posted a suicide note online in which he mentioned his depression, family troubles, and a difficult break-up.</p>
     <p>Chamberlain told court about his mental state regarding the case:</p>

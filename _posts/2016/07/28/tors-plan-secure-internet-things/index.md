@@ -9,7 +9,7 @@ Tor’s Plan to Secure the Internet of Things
     <span><a href="https://www.deepdotweb.com/2016/07/28/tors-plan-secure-internet-things/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Tor Project is joining forces with Home Assistant, and The Guardian to create a newer security system to funnel all the data traffic for the device to the end user via Tor, not public internet.  <a href="http://news.softpedia.com/news/tor-wants-to-secure-the-internet-of-things-iot-506496.shtml">The new system</a> is the Home Assistant platform, only it’s running a special Tor Onion Service Configuration.</p>
     <p>You only need a device that’s Raspberry-Pi or close to it, to run Home Assistants software. The software will run a Tor configuration that sets up a special Onion site on the device. For remote access to IoT simply need the Onion link to the Home assistant software, then the connection will then rely from the remote device, to the actual IoT device, acting like a proxy.</p>
     <p>Using this new system, there will be no need to set up difficult SSL/TLS certificates to support HTTPS connections, since Tor is encrypted by default. Users won’t need to open firewall ports or use VPNs to access the connected IoT device. All connections are routed through Tor so nobody will be able to see the users traffic. This means that nobody will be able to tell if it’s a marketplace or a surveillance camera.</p>

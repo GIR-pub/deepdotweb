@@ -9,7 +9,7 @@ How Companies are Deanonymizing Bitcoin
     <span><a href="https://www.deepdotweb.com/2017/04/20/how-companies-are-deanonymizing-bitcoin/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>One of the most common misconceptions regarding Bitcoin is that it is anonymous or untraceable, when in fact this couldn’t be further from the truth. Bitcoin is the opposite of untraceable. All of the transactions that have ever occurred in the network are stored in the immutable and public ledger that is the Blockchain.</p>
     <p>One could counter with the fact that, despite being public, Bitcoin is still anonymous in the sense that no personal data is required. This is also not true. Bitcoin’s nature is pseudonymous, meaning that one or more pseudonyms are attributed to every user. This pseudonym is the public key or wallet address.</p>
     <p>Think of it this way: An unsigned letter is anonymous, but one signed with a fake name is pseudonymous. How does this make a difference? Well, in an anonymous environment, there is absolutely nothing that connects the letter to the author, while in the other case, the pseudonym connects the letter to the author. If this pseudonym is found in another letter, we can always assume the letter is from the same author. With the signature (even if it’s fake), one now has the information not only to link both letters to the author but also to acquire certain pieces of data about his identity.</p>

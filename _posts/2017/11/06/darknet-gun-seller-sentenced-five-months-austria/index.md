@@ -17,7 +17,7 @@ Darknet Gun Seller Sentenced to Five Months in Austria
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Towards the end of October, Spain’s Guardia Civil department arrested <a href="https://www.deepdotweb.com/2017/10/20/guardia-civil-bust-former-alphabay-pistol-vendor/#comments">a former Alphabay firearm vendor</a>. With cooperation from Europol, international law enforcement agencies also arrested six of the vendor’s customers. The investigation led to the discovery that the 24-year-old vendor had shipped weapons to at least 30 customers in 11 countries. Several days after the announcement, a Salzburg judge convicted a 26-year-old vendor who had bought his guns and gun parts from a vendor in Spain.</p>
     <p>The prosecutor’s office in Salzburg charged the 26-year-old with weapons law violations for the alleged purchase and distribution of an AK-47 and at least five Glocks. According to the prosecution, the man had created a buyer account on an unidentified <a href="https://www.deepdotweb.com/tag/darknet/">darknet marketplace</a> as early as 2015. He “repeatedly” ordered both weapons and assorted parts from vendors in Spain and the United States. Judge Günther Nocker sentenced the man to five months in prison, taking into account weapons charges in other countries. <img class="wp-image-23413 aligncenter" src="/imgs/2017/11/word-image-6.png" srcset="/imgs/2017/11/word-image-6.png 759w, /imgs/2017/11/word-image-6-300x162.png 300w" sizes="(max-width: 759px) 100vw, 759px" /></p>

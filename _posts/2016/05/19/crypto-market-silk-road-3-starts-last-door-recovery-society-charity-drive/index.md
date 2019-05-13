@@ -17,7 +17,7 @@ Crypto Market &#038; Silk Road 3 Starts Last Door Recovery Society Charity Drive
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Press release from Crypto Market &amp; Silk Road 3 admins (same one of both markets), as it was provided to <a href="https://www.deepdotweb.com">DeepDotWeb</a>:</p>
     <blockquote><p>On the 8th of June $5 from every sale will be donated to the Last Door Recovery Society(even if the sale does not amount to $5).</p>

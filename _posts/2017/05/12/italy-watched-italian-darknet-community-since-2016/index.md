@@ -17,7 +17,7 @@ Italy Watched the Italian Darknet Community Since 2016
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On Friday, April 28, the Central Operational Service and Lecco Police conducted a series of arrests as <a href="http://www.poliziadistato.it/articolo/155902ff2039c1b311359547">part of an international drug investigation</a>. Lecco News reported the event live as law enforcement in Lecco held a press conference that explained the unfolding events. In the Police Headquarters Meeting Room, the Lecco chief prosecutor, Antonio Chapman, told reporters that the “operation is a window into <a href="http://lecconews.lc/news/live-dalla-questura-di-lecco-operazione-nel-deep-web-arresti-per-la-droga-via-internet-187854/#.WQN1mf8pC2f">the unexplored world and hidden web</a>.” We later learned that the 50 raids connected to the takedown of the Italian Darknet Community.</p>
     <p>The Italian Darknet Community functions as one of Italy’s main darknet marketplaces. In reality, the <a href="https://www.deepdotweb.com/marketplace-directory/listing/italian-darknet-community/">Italian Darknet Community</a> (IDC) took the form of a forum instead of a traditional marketplace. But vendors sold on the site too; similar to many other hidden forums, IDC allowed the sale and discussion of virtually everything, save for the usual suspects—child pornography, pedophilia in general, and terrorism.</p>

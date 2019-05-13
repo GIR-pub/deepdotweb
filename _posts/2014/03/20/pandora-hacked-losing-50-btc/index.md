@@ -9,7 +9,7 @@ Pandora Marketplace Hacked: Losing $250,000 in BTC
     <span><a href="https://www.deepdotweb.com/2014/03/20/pandora-hacked-losing-50-btc/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><span style="text-decoration: underline;"><strong>Update</strong></span>: Withdrawals are working again.</p>
     <p>We had a quiet couple of weeks but now a claim from the Pandora Marketplace  admin (Alice) was published stating that guess what&#8230;. the market was hacked, losing around 50% of all the BTC totaling at around $250,000 value (somewhere around 425BTC at the current rate), we know this drill very well by now with all the hacks and scams that we have witnessed, Alice posted a very detailed post on the pandora forums explaining what happened, and how the market admins intend to sort this issue out and return the lost funds by collecting higher commissions from the vendors and repaying everyone within the time frame of a month or so.</p>
     <p>This is the post from the Pandora admin Alice (you can read the original one here: http://bl3j73taluhwidx5.onion/index.php?topic=6629.0) with some formatting fixes:</p>

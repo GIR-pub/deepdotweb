@@ -9,7 +9,7 @@ French Police Seized Tor Relays in WannaCry Investigation
     <span><a href="https://www.deepdotweb.com/2017/06/10/french-police-seized-tor-relays-wannacry-investigation/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On March 17, news outlets reported the sudden absence of several French Tor relays. Further data revealed that law enforcement agencies in France seized the the relays in connection with the investigation into WannaCrypt. WannaCrypt, the ransomware that struck “<a href="https://www.golem.de/news/wanna-cry-mehrere-tor-server-in-frankreich-beschlagnahmt-1705-127905.html">more than 200,000 devices worldwide</a>,” used Tor to connect to a C2 server.</p>
     <p>The Central Office for Combating Crime Related to Information and Communication Technologies (OCLCTIC) took down at least three servers, one French news report explained. According to another source, the nodes taken down were <a href="https://www.deepdotweb.com/tag/tor/">Tor entry guard nodes</a>. Tor guard nodes, or entry nodes with the guard flag, are basically a relay that the Tor network trusts more so than other nodes.</p>
     <p>As listed on the Tor blog, the requirements for a guard node are not particularly overwhelming:</p>

@@ -9,7 +9,7 @@ Two Swiss Arrested For Ordering Counterfeit Euros
     <span><a href="https://www.deepdotweb.com/2017/02/05/two-swiss-arrested-ordering-counterfeit-euros/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 20-year-old and a 28-year-old Swiss citizen were <a href="http://www.verlagshaus-jaumann.de/inhalt.weil-am-rhein-duo-fliegt-beim-ersten-versuch-auf.9f9be29e-41d4-4b90-97d7-6bbe3a3b6824.html">sentenced</a> for using counterfeit euros that they ordered from the dark web.</p>
     <p>On April 20, 2016, the two suspects from Northwestern Switzerland ordered ten notes of 50 euros from the dark web, according to official court information. They paid for the currency with bitcoins. The duo received the bills on May 17. On the same day, they traveled to Weil am Rhein, Germany with the purpose to use the counterfeit money.</p>
     <p>They tried to pay with one of the 50 euro notes for two bottles of mineral water in a restaurant on the main street in Friedlingen. However, they failed. The waitress, after she noticed that the bill was counterfeit, immediately called the police and held the two suspects at the restaurant. On the scene, law enforcement authorities found a plastic bag, hidden in the 28-year-old’s underpants, containing the other nine 50 euro notes.</p>

@@ -9,7 +9,7 @@ A Self-replicating Code That Earns You Bitcoin On Autopilot!
     <span><a href="https://www.deepdotweb.com/2017/06/29/self-replicating-code-earns-bitcoin-autopilot/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>What if a piece of code can replicate itself autonomously and earn you money, in the form of bitcoin, on autopilot?</p>
     <p>During the development process of TENNET (the Tribler Exit Node Network), <a href="https://repository.tudelft.nl/islandora/object/uuid:a1b443c7-8b37-4263-ae96-d38bc8b8f397">a decentralized autonomously operating agent, that is capable of generating money online via providing a Tribler exit node service, was created.</a></p>

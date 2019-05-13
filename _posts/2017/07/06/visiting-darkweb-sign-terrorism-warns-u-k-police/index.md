@@ -9,7 +9,7 @@ Visiting The Darkweb is a Sign of Terrorism, Warns U.K Police
     <span><a href="https://www.deepdotweb.com/2017/07/06/visiting-darkweb-sign-terrorism-warns-u-k-police/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The widespread of terrorism in Europe has been very severe recently. As a way of effectively dealing with terrorism, UK police has embarked on counter-terrorism campaign following the recent terror attack in London.</p>
     <p>The London authorities are not keeping their hands folded despite arresting several suspects who are believed to be behind the recent terrorism in the UK. According to information from <a href="https://motherboard.vice.com/en_us/article/uk-cops-say-visiting-the-dark-web-is-a-potential-sign-of-terrorism">reporters</a>, police in London have been giving out leaflets with listings of suspicious activities that are to be noted as a sign of potential terrorism.</p>
     <p>The listings which include “visiting the Darkweb” are meant to engage the citizens to identify such activities and to also be well informed so that information flow can work effectively. A report released last year exposed how weapons are <a href="https://www.deepdotweb.com/2016/04/19/report-says-weapons-smuggled-united-kingdom/">smuggled into UK from the Darknet</a></p>

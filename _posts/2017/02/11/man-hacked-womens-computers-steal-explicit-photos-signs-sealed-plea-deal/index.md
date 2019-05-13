@@ -17,7 +17,7 @@ Man Who Hacked Women’s Computers to Steal Explicit Photos Signs Sealed Plea De
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to the U.S. Attorney’s Office for the Northern District of Alabama, a former Shelby County resident <a href="https://www.justice.gov/usao-ndal/pr/former-shelby-county-man-agrees-plead-guilty-illegally-accessing-womens-computers">agreed to plead guilty to hacking email and file storage accounts of 50 women</a>. Authorities kept the plea-agreement sealed but still revealed some case details. Roger C. Stanton the FBI Special Agent in Charge, explained that the defendant, Kevin Maldonado, phished the Gmail account passwords of 50 women, if not more. He used the details to access cloud storage where he hunted explicit photographs for personal use.</p>
     <p><img class="wp-image-18086 aligncenter" src="/imgs/2017/02/word-image-9.png" srcset="/imgs/2017/02/word-image-9.png 526w, /imgs/2017/02/word-image-9-300x135.png 300w" sizes="(max-width: 526px) 100vw, 526px" /> Between 2013 and June 2015, Maldonado used various <a href="https://www.deepdotweb.com/tag/hacking/">methods to obtain passwords</a> from 50 or more victims. Roger C. Stanton said “at least 50 women,” but never clarified if the defendant hacked additional accounts following the original incident. Officials opted to keep some court documents sealed based on the nature of the hacked data. Law enforcement, in the released court documents, only identified the victims through initials (presumably their own initials). The press release referenced only one victim and she shared Maldonado&#8217;s initials: K. M.</p>

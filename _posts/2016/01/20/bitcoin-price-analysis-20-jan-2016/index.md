@@ -9,7 +9,7 @@ Bitcoin Price Analysis 20-Jan-2016
     <span><a href="https://www.deepdotweb.com/2016/01/20/bitcoin-price-analysis-20-jan-2016/#comments">9 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week, the price of bitcoin fell 18%, weighed down by negative sentiments on systemic risk &#8211; blocksize fork debate. Price fell off a cliff at $431 on January 15, 1am UTC + 3, in a series of dumps all the way down to a low $352 in 24 hours. December 3 was the last time price was here, and it looks set to continue as the blockchain fork debate intensifies. As I write this, price is at $380 on Bitstamp.</p>
     <p><img class="aligncenter size-full wp-image-13004" src="/imgs/2016/01/1-4.jpg" alt="1" width="1115" height="662" srcset="/imgs/2016/01/1-4.jpg 1115w, /imgs/2016/01/1-4-300x178.jpg 300w, /imgs/2016/01/1-4-1024x608.jpg 1024w" sizes="(max-width: 1115px) 100vw, 1115px"/></p>
     <p>The break to the downside, forced price out of a trading range bound by $465 and $417. A huge red candle highlights this on the chart below.</p>

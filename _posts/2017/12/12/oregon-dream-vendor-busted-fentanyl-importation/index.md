@@ -9,7 +9,7 @@ Oregon Dream Vendor Busted for Fentanyl Importation
     <span><a href="https://www.deepdotweb.com/2017/12/12/oregon-dream-vendor-busted-fentanyl-importation/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to the Portland Police Bureau, 33-year-old Joseph R. Caruso imported fentanyl analogs from China and redistributed them through the darknet. Investigators linked Caruso to a fatal overdose in Wisconsin packaging material found at the scene of the overdose. They later connected him to the Alphabay and <a href="https://www.deepdotweb.com/marketplace-directory/listing/dream-market">Dream</a> vendors &#8220;DaddyGreenJeans&#8221; and &#8220;MrCandy.&#8221; Postal inspectors intercepted a suspicious package addressed to Caruso while investigating him. They arrested the man street a controlled delivery in late November.</p>
     <p>Although investigators are looking into his role in the death of an unidentified Wisconsin man, prosecutors have only <a href="http://www.kptv.com/story/36934565/overdose-death-in-wisconsin-leads-to-arrest-of-lake-oswego-man">charged Caruso</a> for drug importation and distribution related crimes. One count of the importation of a controlled substance with intent to distribute and one count of and attempted possession of a controlled substance with intent to distribute.</p>
     <p><img class="wp-image-23882 aligncenter" src="/imgs/2017/12/word-image-22.jpeg" width="683" height="384" /></p>

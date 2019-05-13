@@ -9,7 +9,7 @@ Agora Vendor Sentenced to Four Years In Prison For MDMA Distribution
     <span><a href="https://www.deepdotweb.com/2016/11/05/agora-vendor-sentenced-four-years-prison-mdma-distribution/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Postal workers in Washington intercepted several packages of MDMA and Xanax that led to the arrest of a <a href="https://www.deepdotweb.com/marketplace-directory/categories/vendor-shops/">darknet vendor</a>. That vendor, Tristan Simpson Brennand, was arrested in December 2014, released on bond, and subsequently arrested again. On October 10, Brennand was sentenced to four years in prison for drug distribution.</p>
     <p>In a letter to the court, Brennand explained that he started selling drugs to support his opioid addiction. At 19-years-old, the Olympia resident switched from opioids in pill form to heroin. From there, he began requiring an increased cash flow. He decided to re-sell drugs on the <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">DNMs</a>.</p>
     <p>“When I reflect on the past two years there is almost nothing I’m proud of,” wrote Brennand, now 22, in a letter to the court. “The two emotions that best describe my feelings towards my crimes and actions are regret and shame.”</p>

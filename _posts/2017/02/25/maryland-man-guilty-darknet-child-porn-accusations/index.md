@@ -9,7 +9,7 @@ Maryland Man Guilty of Darknet Child Porn Accusations
     <span><a href="https://www.deepdotweb.com/2017/02/25/maryland-man-guilty-darknet-child-porn-accusations/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>United States Attorney for the District of Maryland Rod J. Rosenstein announced that a Maryland man pleaded guilty to sharing more than 100,000 images of child pornography on the deepweb. The defendant, Kevin Heiting, shared images on the darknet and the dark web, according to the FBI. He additionally communicated with a 14-year-old boy over the darknet eguest sexual simager, said Special Agent in Charge of U.S. Immigration and Customs Enforcement’s Homeland Security Investigations, Andre R. Watson.</p>
     <p>In June 2014, forensic analysts discovered that Heiting’s laptop shared connections to thousands of computers. Those computers, prosecutors explained, connected to other child pornography viewers across the world—connected via the darknet.</p>
     <p>Later, in 2016, a federal grand jury indicted Heiting following an investigation by ICE’s Homeland Security Investigations and the FBI. A raid at Heiting’s home revealed massive reserves of child pornography. Law enforcement seized two laptop computers, “<a href="https://www.justice.gov/usao-md/pr/montgomery-county-man-pleads-guilty-distribution-child-pornography">a tower computer</a>,” and a cellphone. “A forensic analysis of one of the seized hard drive revealed more than 17,913 video files and 405,071 image files,” a USAO press release from the District of Maryland explained.<br />

@@ -17,7 +17,7 @@ Irishman Fighting Extradition to U.S. for His Part in Silk Road
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The U.S. Government and Microsoft are squaring off with each other now over an Irishman wanted by the FBI.</p>
     <p><a href="http://www.ibtimes.com/silk-road-emails-center-microsofts-irish-email-battle-us-government-report-2385320">The Irishman</a>, <a href="https://www.deepdotweb.com/2015/07/15/libertas-us-seeks-extradition-of-wicklow-man-over-silk-road/">Gary Davis, from Wicklow</a> (a.k.a Silk Road Admin Libertas) is currently fighting an extradition case to the United States in order to not face charged for is alleged involvement in Silk Road. Davis is said to have been another admin on the site at the time the FBI shut it down.</p>

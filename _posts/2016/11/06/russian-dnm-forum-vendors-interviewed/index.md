@@ -9,7 +9,7 @@ Russian DNM Forum Vendors Interviewed on Freedom and Selling Guns Online
     <span><a href="https://www.deepdotweb.com/2016/11/06/russian-dnm-forum-vendors-interviewed/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Rarely do darknet weapon vendors make clearnet appearances. Drug vendors, on the other hand, can be found anywhere; even on social media, advertising or defending their product. Many drug vendors have even been interviewed by DeepDotWeb. Similarly, we have interviewed high-profile market admins such like the <a href="https://www.deepdotweb.com/2015/04/20/interview-with-alphabay-admin/">main administrator of Alphabay, alpha02</a>. Yet weapon vendors rarely see the light of day.</p>
     <p><em>Meduza</em>, a Russian news aggregator and online newspaper, conducted interviews with several major Russian deepweb entities. The interviews spanned a great length of time and covered many deepweb, darknet, and illicit topics. The topic that garnered the most attention, though, was that of <a href="http://nld.com.vn/thoi-su-quoc-te/chuyen-so-huu-sung-o-nga-co-sung-the-gioi-ngam-20161029231754698.htm">Russian firearm trade on DNMs</a>.</p>
     <p>One site in particular raised global attention: Runion. Runion is one of Russia’s largest deepweb forums, according to Daniil Turovsky, a Moscow-based journalist. A source told <em>Meduza</em> that many Russian underground forums and marketplaces vanished following the Freedom Hosting drama. The four largest sites, Runion, <a href="https://www.deepdotweb.com/marketplace-directory/listing/ramp-russian-anonymous-marketplace">RAMP</a>, R2D2, and Amberoad continued to thrive, the source said.</p>

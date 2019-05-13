@@ -9,7 +9,7 @@ Australian Man who imported Drugs from the Dark Web Denied Bail
     <span><a href="https://www.deepdotweb.com/2017/11/07/australian-man-imported-drugs-dark-web-denied-bail/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An Australian man accused of purchasing more than a kilogram of MDMA and amphetamine via the dark web had his bail appeal thrown out.</p>
     <p>23-year-old Jay Vince, a native of Highton, Victoria was alleged to have imported 835g of amphetamine and 219g of MDMA from the Netherlands. According to the Geelong Magistrates’ Court, the goods were arranged to arrive in nine batches.</p>
     <p>The problem of dark web dealings including drugs, guns and other illicit products drug in Australia continues to flourish mainly because this modern age business model is almost undetectable.</p>

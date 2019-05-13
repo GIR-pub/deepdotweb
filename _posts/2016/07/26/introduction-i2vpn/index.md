@@ -9,7 +9,7 @@ Introduction: I2VPN
     <span><a href="https://www.deepdotweb.com/2016/07/26/introduction-i2vpn/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Service introduction &#8211; as it was provided by the service owner: I2VPN (<strong>i2vpnraen5bggqge.onion</strong>) is a new <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN</a> that provides you guaranteed anonymity and security through a anonymizing network known as I2P. I2VPN is rather unique and wraps all of its connections via random computers in the world (like Tor) which none of us own.. I2VPN has also many features such as transparency, Whonix-style workstations, a API, et cetra.</p>
     <p><a href="/imgs/2016/07/I2VPNdiagram-ng-1.png"><img class="aligncenter size-full wp-image-14902" src="/imgs/2016/07/I2VPNdiagram-ng-1.png" alt="I2VPNdiagram-ng-1" width="816" height="1056" srcset="/imgs/2016/07/I2VPNdiagram-ng-1.png 816w, /imgs/2016/07/I2VPNdiagram-ng-1-232x300.png 232w, /imgs/2016/07/I2VPNdiagram-ng-1-791x1024.png 791w" sizes="(max-width: 816px) 100vw, 816px" /></a> <a href="/imgs/2016/07/I2VPNdiagram-ng-2.png"><img class="aligncenter size-full wp-image-14903" src="/imgs/2016/07/I2VPNdiagram-ng-2.png" alt="I2VPNdiagram-ng-2" width="816" height="1056" srcset="/imgs/2016/07/I2VPNdiagram-ng-2.png 816w, /imgs/2016/07/I2VPNdiagram-ng-2-232x300.png 232w, /imgs/2016/07/I2VPNdiagram-ng-2-791x1024.png 791w" sizes="(max-width: 816px) 100vw, 816px" /></a></p>
     <p>Service fee is around 4$, Payments are easy and can be done using any of these methods: BTC, DASH.</p>

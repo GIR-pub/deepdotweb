@@ -17,7 +17,7 @@
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Law enforcement authorities <a href="http://www.bndestem.nl/brabant/eis-42-maanden-cel-voor-draaien-postorderbedrijf-voor-de-drugswereld-in-tilburg~a9ca8c23/">found</a> an astonishing amount of drugs in a Dutchman’s apartment. The defendant is charged with the possession of narcotics.</p>
     <p>According to the Dutch news publication bndestem.nl, as the defendant was standing in the courtroom, the prosecutor detailed the amount of narcotics in his apartment. The prosecution used the police report:<img class="wp-image-21164 aligncenter" src="/imgs/2017/07/c-users-vitaris-appdata-local-microsoft-windows-i.jpeg" alt="C:\Users\Vitáris\AppData\Local\Microsoft\Windows\INetCache\Content.Word\download.jpg" srcset="/imgs/2017/07/c-users-vitaris-appdata-local-microsoft-windows-i.jpeg 694w, /imgs/2017/07/c-users-vitaris-appdata-local-microsoft-windows-i-300x200.jpeg 300w" sizes="(max-width: 694px) 100vw, 694px" /></p>

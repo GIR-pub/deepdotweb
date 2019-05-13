@@ -9,7 +9,7 @@ An Overview of the Economics of Cryptographic Tokens and Initial Coin Offerings 
     <span><a href="https://www.deepdotweb.com/2017/07/06/overview-economics-cryptographic-tokens-initial-coin-offerings-icos/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Blockchain based projects have adopted <a href="https://www.deepdotweb.com/2017/04/10/ico-initial-coin-offering/">initial coin offerings (ICOs)</a> as means to simplify the process of raising capital. The cryptographic tokens offered within these ICOs are aimed at fulfilling a myriad of roles across various platforms. Some of these tokens resemble currencies, while others are similar to securities, and others offer features that are completely new. Each startup&#8217;s technological strategy yields a token that possesses unique characteristics and uses.</p>
     <p><a href="http://www.accessecon.com/Pubs/VUECON/VUECON-17-00008.pdf">A recently published paper</a> developed the economics underlying cryptographic tokens and ICOs. The authors of the paper highlighted the significance of putting into account specific aspects of financial economics, monetary theory and game theory, in order to be able to design a successful cryptographic token. Failing to adapt to these concepts can lead to creation of a useless token. They also explored what economics can tell us regarding how we can efficiently assess the actual value of tokens, how companies should design their ICOs, and what the impact of assigning different roles to tokens on a given platform could be.</p>
     <p><img class="wp-image-21112 aligncenter" src="/imgs/2017/07/word-image-24.jpeg" width="625" height="352" /></p>

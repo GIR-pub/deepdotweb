@@ -9,7 +9,7 @@ Obama Administration Approves Sharing of Raw NSA Intercepts
     <span><a href="https://www.deepdotweb.com/2017/01/30/obama-administration-approves-sharing-of-raw-nsa-intercepts/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On January 12<sup>th</sup>, 2016, the Obama administration approved new rules which allow the NSA to share raw signals intelligence collected under <a href="https://www.archives.gov/federal-register/codification/executive-order/12333.html">Executive Order 12333</a> with other intelligence agencies and law enforcement agencies such as the DEA, FBI, DHS, IRS, and even local and state police.</p>
     <p><strong>Executive Order 12333</strong></p>
     <p>Executive Order 12333 was first signed by President Ronald Reagan on December 4<sup>th</sup>, 1981. It created new authorities for US intelligence agencies. The order was amended three times during President George W. Bush’s two terms in office, in 2003, 2004, and 2008. Under this Executive Order the NSA is authorized to collect virtually all electronic communications from both people who are within the United States, as well as people who are outside of the country, without a warrant, court order, probable cause, or reasonable suspicion.</p>

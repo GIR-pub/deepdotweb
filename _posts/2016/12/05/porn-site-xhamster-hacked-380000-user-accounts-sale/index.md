@@ -9,7 +9,7 @@ Porn Site xHamster Hacked, More Than 380,000 User Accounts for Sale
     <span><a href="https://www.deepdotweb.com/2016/12/05/porn-site-xhamster-hacked-380000-user-accounts-sale/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Over 100,000 user accounts on the porn site xHamster are trading and selling on the Darknet right now.</p>
     <p>Over 380,000 users have been found by the breach notification website LeakBase. The <a href="https://motherboard.vice.com/read/hackers-are-trading-hundreds-of-thousands-of-xhamster-porn-account-details">xHamster data base</a> includes usernames, emails, and a score of not so hashed passwords.</p>
     <p>More than 12 million people use xHamster, and although it’s a free subscription, users are encouraged to upload their own videos to the site. In a research analysis, 50 of the leaked user accounts were tried, and all 50 came back as active accounts, suggesting the leak is accurate.</p>

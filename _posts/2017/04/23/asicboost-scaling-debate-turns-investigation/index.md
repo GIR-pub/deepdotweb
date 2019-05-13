@@ -9,7 +9,7 @@ AsicBoost: Scaling Debate Turns into Investigation
     <span><a href="https://www.deepdotweb.com/2017/04/23/asicboost-scaling-debate-turns-investigation/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Bitcoin scaling debate is one that has been going on for years and has been constantly evolving as new Bitcoin Improvement Proposals emerge. Most recently, <a href="https://www.deepdotweb.com/2017/03/21/brief-summary-bitcoin-unlimited/">Bitcoin Unlimited</a> and <a href="https://www.deepdotweb.com/2017/01/29/a-brief-introduction-to-segwit/">SegWit</a> have been competing for miner approval in order to activate their respective protocol changes.</p>
     <p>With these two main options on the table, Bitcoin has been split in two factions. Those in support of Bitcoin Unlimited and its emergent consensus protocol and those in favour of SegWti and its soft-fork to increase block capacity and fix other issues like transaction malleability.</p>
     <p>Several companies and individuals that hold influence in the Bitcoin community have aligned with either one or the other option (with exceptions). Although, Bitcoin Unlimited currently has an <a href="https://coin.dance/blocks">advantage in hashing power</a>, a look at CoinDance’s <a href="https://coin.dance/poli">political analysis</a> reveals that most companies are in favour of SegWit and oppose BU. Among the supporters of Bitcoin Unlimited is Bitmain, one of the biggest mining pool and hardware providers in the industry.</p>

@@ -9,7 +9,7 @@ Increased Reports of New Zealanders Ordering Drugs Online
     <span><a href="https://www.deepdotweb.com/2016/04/28/increased-reports-new-zealanders-ordering-drugs-online/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=11625506">Kiwi&#8217;s are increasingly using social media</a> to buy and sell drugs, and are finding it easier than ever to get P, according to new drug monitoring research.</p>
     <p>The Illicit Drug Monitoring System(IDMS) study shows that nearly three-quarters of frequent drug users now use social media and encrypted websites to purchase and sell narcotics. Conducted by Massey University academics and funded by New Zealand Police, the report provides annual snapshots of trends in illegal drug use and drug markets in New Zealand.</p>
     <p>More than 300 regular drug users from Auckland, Wellington, and Christchurch were interviewed about drug trends between August and December 2014. Dr. Chris Wilkins, Senior Researcher and Leader of Illegal Drug Research Team at the Shore and Whariki Research Center, said social media and encrypted websites offered a new platform to connect drug users and sellers.</p>

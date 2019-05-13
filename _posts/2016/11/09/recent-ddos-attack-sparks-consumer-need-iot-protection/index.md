@@ -9,7 +9,7 @@ Recent DDoS Attack Sparks Consumer Need for IoT Protection
     <span><a href="https://www.deepdotweb.com/2016/11/09/recent-ddos-attack-sparks-consumer-need-iot-protection/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The massive DDoS attack that took out the host of several popular websites in the United States and Europe in October still didn’t seem to be enough to get the ball rolling on a set <a href="http://www.insidecounsel.com/2016/10/31/despite-unprecedented-ddos-attack-experts-see-litt?ref=footer-news&amp;slreturn=1478131671">of national cybersecurity laws. </a></p>
     <p>Adam Levin, founder of the data protection company IDT911 sees the recent attack as one of several reasons to implement these laws; and quick:</p>
     <p><em>We are talking about the recall of thousands of products, and we’re talking about the health of the digital economy, and frankly, national security in the fact of attacks like this. So something has to give; it’s just a question of when or whether or not this is the tipping point. Not sure it is yet, but at some point, it will be</em>.</p>

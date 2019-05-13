@@ -9,7 +9,7 @@ Privatoria Review
     <span><a href="https://www.deepdotweb.com/2016/01/03/privatoria-review/#comments">17 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Privatoria is a <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN</a> solution that offers both low prices and a series of powerful advanced features that recommend it for Deep Web access and other activities that the user wants to maintain anonymous. The company was founded in 2013 and the team that runs it has over 10 years of experience in the IT and Internet Security area. They are a based in the Czech Republic and their one and true mission is to support people’s right to privacy as one of the rights guaranteed by the Universal Declaration of Human Rights.</p>
     <p><a href="/imgs/2015/12/image0013.jpg"><img class="aligncenter size-full wp-image-12699" src="/imgs/2015/12/image0013.jpg" alt="image001" width="1348" height="768" srcset="/imgs/2015/12/image0013.jpg 1348w, /imgs/2015/12/image0013-300x171.jpg 300w, /imgs/2015/12/image0013-1024x583.jpg 1024w" sizes="(max-width: 1348px) 100vw, 1348px"/></a></p>
     <p>Privatoria is a reliable service that can be used by both individuals and companies that want to know their data is secure and their transmissions are shielded from any leakage. Also, the solution promises to fight malicious software that is specifically designed to steal and forward personal information by applying a complex approach in ensuring the user’s privacy. To support this statement, the Privatoria solution includes the following:</p>

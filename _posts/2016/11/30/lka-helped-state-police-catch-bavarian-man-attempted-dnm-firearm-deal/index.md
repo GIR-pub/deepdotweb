@@ -9,7 +9,7 @@ The LKA Helped State Police Catch a Bavarian Man for Attempted DNM Firearm Deal
     <span><a href="https://www.deepdotweb.com/2016/11/30/lka-helped-state-police-catch-bavarian-man-attempted-dnm-firearm-deal/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A young man in Upper Bavaria was recently arrested for trying to buy a pistol on the DNMs. The deal never went through. Very few knew what happened to the man after he was arrested and sent to a facility; newly released data reveals that the LKA was involved in the attempted firearm purchase and local police only conducted the raid.</p>
     <p>Germany cracked down on darknet transactions. Nearly every day, German law enforcement provides the world with another darknet-related arrest to read about. The words Holger Muench said following the Munich shooting were not said lightheartedly.</p>
     <p>He said that the Bundeskriminalamt (Federal Criminal Police Office or BKA) saw the darknet as a high priority. As such, law enforcement throughout Germany directed focus towards the darknet.</p>

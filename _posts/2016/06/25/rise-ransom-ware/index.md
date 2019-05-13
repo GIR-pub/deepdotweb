@@ -9,7 +9,7 @@ The Rise in “Ransom”-ware
     <span><a href="https://www.deepdotweb.com/2016/06/25/rise-ransom-ware/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Ransom-ware is loosely defined as malware that attacks the victim’s machine and prevents them from using their system until they pay a ransom using Bitcoin, an anonymous crypto-currency. Hackers seem to target systems that have some sort of time sensitive significance to them, like university researchers Dropbox files, hospital databases, and school district networks. In the case of some hacked university researchers, Dropbox simply <a href="http://www.scientificamerican.com/article/ransomware-cyberattack-exposes-vulnerability-of-universities/">restored the users files</a> as soon as them were notified of the breach.</p>
     <p><a href="/imgs/2016/06/rans1.png"><img class="aligncenter size-full wp-image-14593" src="/imgs/2016/06/rans1.png" alt="rans1" width="350" height="200" srcset="/imgs/2016/06/rans1.png 350w, /imgs/2016/06/rans1-300x171.png 300w" sizes="(max-width: 350px) 100vw, 350px"/></a></p>
     <p>Unfortunately for other researchers at the same university, in Calgary, Canada, their data wasn’t as easily recovered. The university <a href="http://www.scientificamerican.com/article/ransomware-cyberattack-exposes-vulnerability-of-universities/">paid $15,500 for the decryption keys</a> as an extra precaution, in the case that they weren’t able to regain their systems. This is proof that public institutions typically have to cave to this kind of extortion, due to their vulnerable systems, and time sensitive data.</p>

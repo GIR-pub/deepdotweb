@@ -9,7 +9,7 @@ Ex-UKIP Member Faces Upto 20 Years in Prison For Wire Fraud
     <span><a href="https://www.deepdotweb.com/2017/01/14/ex-ukip-member-faces-upto-20-years-prison-wire-fraud/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In August of 2016, DeepDotWeb <a href="https://www.deepdotweb.com/2016/08/21/prominent-ukip-members-aide-arrested-deepweb-money-laundering/">reported</a> the UK Independence Party (UKIP) and the European Parliament member Nigel Farage&#8217;s aide’s arrest in the midst of boarding a flight to Britain. During that time, former UKIP aide George Cottrell was charged with 21 offences, including money laundering and blackmail.</p>
     <p>This week, Cottrell plead guilty to wire fraud, settling an agreement with the prosecutors. The man in the 20s admitted to most of the claims presented by the prosecutors, including various offers which he submitted to darknet drug traffickers and dealers.</p>
     <p>One of the major deals Cottrell offered to darknet traders was a money laundering service, with which he guaranteed to launder up to US$150,000 a month through both domestic and overseas bank accounts. Cottrell convinced illicit drug traders of this method, claiming that the usage of several payment channels can guarantee full anonymity.</p>

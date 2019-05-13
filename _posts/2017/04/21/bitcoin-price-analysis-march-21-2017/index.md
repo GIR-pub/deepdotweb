@@ -9,7 +9,7 @@ Bitcoin price analysis April 21 2017
     <span><a href="https://www.deepdotweb.com/2017/04/21/bitcoin-price-analysis-march-21-2017/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The price of Bitcoin looks ripe for an attempt to break past the all time $1350 high on Western exchanges. In fact, a significant segment of the market is extremely bullish with forecasts as high as $1400, $1600 and even $2000. Since the sharp sell off to $891, after the $1350 pre-ETF announcement high, price has been going up in zig zags to a high of $1243 on Europe’s largest licensed exchange Bitstamp as at writing this . On Bitfinex, bitcoin is trading at a $90 premium, clocking a high at $1326!</p>
     <p><img class="wp-image-19353" src="/imgs/2017/04/chart-chart-jpeg.jpeg" alt="Chart chart.jpeg" srcset="/imgs/2017/04/chart-chart-jpeg.jpeg 1640w, /imgs/2017/04/chart-chart-jpeg-300x154.jpeg 300w, /imgs/2017/04/chart-chart-jpeg-1024x524.jpeg 1024w" sizes="(max-width: 1640px) 100vw, 1640px" /></p>
     <p>Since last week’s analysis, price retraced from its $1229 peak to a low $1141, bouncing off the 30 day EMA on the 12 hour chart. A second bounce off this moving average line held at $1150 before 2 consecutive impulsive moves up to $1244 on Bitstamp and $1327 on Bitfinex.</p>

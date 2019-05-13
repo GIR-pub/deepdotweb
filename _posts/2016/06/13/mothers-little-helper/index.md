@@ -9,7 +9,7 @@ Benzodiazepines: Mother’s little helper
     <span><a href="https://www.deepdotweb.com/2016/06/13/mothers-little-helper/#comments">9 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Benzodiazepines are one of the most well-known medications prescribed for an impressive variety of indications: muscle relaxation (spasms, dystonia), short-term anxiety such as panic attacks, alcohol withdrawal, acute violent episodes, as a hypnotic (for sleep), long-term anxiety as with generalized anxiety disorder, amnesic (pre-surgery), epilepsy, even to calm fears associated with visiting dentist.</p>
     <p>Depressant medications have a rich history. Ages ago the most commonly used sedative was perhaps alcohol. One cringes at the thought of chugging whiskey to undergo limb amputations, but this was once reality. Opiates also boast a major role in the history of medicine. They still do, though their application has shifted drastically from sedative-related to pain management.</p>
     <p>Thankfully, physicians and pharmacologists sought to move away from dangerous substances to those with fewer side effects (I’m looking at you addiction potential and respiratory depression). Barbiturates were soon ushered in and commonly used in the 1960s. Though, perhaps not soon enough, we reluctantly admitted they were hardly an improvement. During the early 1970s we also witnessed the rise and fall of Quaaludes as a common sedative/hypnotic. We’ve all heard stories, but the general theme is that Quaaludes are far more recreational than they are medicinal.</p>

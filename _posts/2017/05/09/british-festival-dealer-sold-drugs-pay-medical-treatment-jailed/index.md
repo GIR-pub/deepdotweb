@@ -9,7 +9,7 @@ British Festival Dealer Who Sold Drugs To Pay For Medical Treatment Jailed
     <span><a href="https://www.deepdotweb.com/2017/05/09/british-festival-dealer-sold-drugs-pay-medical-treatment-jailed/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p style="text-align: left;"><a id="post-19724-_gjdgxs"></a> A student in the United Kingdom had been previously arrested for selling <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> at a festival to pay his medical treatment. Now, he was <a href="http://www.dawlishnewspapers.co.uk/article.cfm?id=104345&amp;headline=Festival%20dealer%20sold%20drugs%20to%20pay%20for%20medical%20treatment&amp;sectionIs=news&amp;searchyear=2017">sentenced</a> to prison before the Exeter Crown Court.</p>
     <p><img class="wp-image-19732 aligncenter" src="/imgs/2017/05/http-www-dawlishnewspapers-co-uk-images-news-201.jpeg" alt="http://www.dawlishnewspapers.co.uk/images/news/2017/Rawlinson-Lewis-120198.jpg" srcset="/imgs/2017/05/http-www-dawlishnewspapers-co-uk-images-news-201.jpeg 570w, /imgs/2017/05/http-www-dawlishnewspapers-co-uk-images-news-201-225x300.jpeg 225w" sizes="(max-width: 570px) 100vw, 570px" /></p>
     <p>Lewis Rawlinson, a 19-year-old student, according to the court documents, imported narcotics from abroad (mostly from the Netherlands), which he allegedly bought on the dark web, and resold them at the Lockdown Festival at Powderham Castle in September 2016. The defendant sold ecstasy and LSD and the festival, court documents stated.</p>

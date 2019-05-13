@@ -9,7 +9,7 @@ Personal Experience: Part 3 &#8211; PGP
     <span><a href="https://www.deepdotweb.com/2014/10/10/personal-experience-part-3-pgp/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><em>This a post in series of posts describing a personal experience from learning about the DNM’s to becoming a vendor – all the parts of this series will be available to here: <a href="http://www.deepdotweb.com/tag/ExperienceTag/">ExperienceTag</a></em></p>
     <p>Part 3:</p>
     <p>Before today I had never sent an encrypted email. It was relatively easy to get started, especially with the built-in tools that TAILS comes with. There is also no shortage of easily-accessed tutorials. I won&#8217;t be guiding you through the process here, but instead recording my thoughts on the experience of using it for the first time.</p>

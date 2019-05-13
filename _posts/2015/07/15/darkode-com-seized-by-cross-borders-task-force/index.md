@@ -9,7 +9,7 @@ Darkode Forum Seized by Cross-Borders Task Force
     <span><a href="https://www.deepdotweb.com/2015/07/15/darkode-com-seized-by-cross-borders-task-force/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Over 60 &#8220;hackers&#8221; arrested in joint operation between FBI, NCA, Europol and other law enforcement agencies in global crackdown on cybercrime black market</p>
     <div id="attachment_11047" style="width: 810px" class="wp-caption aligncenter"><a href="/imgs/2015/07/banner1.jpg"><img class="size-full wp-image-11047" src="/imgs/2015/07/banner1.jpg" alt="Seized: darkode.com / me " width="800" height="600" srcset="/imgs/2015/07/banner1.jpg 800w, /imgs/2015/07/banner1-300x225.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Seized: darkode</p></div>
     <p>The &#8220;Notorious&#8221; cybercrime forum Darkode, frequented by Lizard Squad and other hacking groups, has been taken offline in a coordinated international law enforcement clampdown across 18 countries.</p>

@@ -9,7 +9,7 @@ The IPFS and the blockchain
     <span><a href="https://www.deepdotweb.com/2017/05/09/the-ipfs-and-the-blockchain/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Some of our readers have probably heard about the <a href="https://ipfs.io/">IPFS</a> or <a href="https://ipfs.io/">InterPlanetary File System</a>. It’s an hypermedia distribution protocol created to make the web faster, safer, and more open. The IPFS is designed to provide a decentralized alternative to the current http protocol that is censorship resistant and much more efficient.</p>
     <p>Like Bitcoin, the IPFS is a peer-to-peer network run by multiple nodes that store files that are submitted to the network. These nodes store only content that are interesting, including common indexing information that helps users find the nodes that keep the files they are looking for within the network.</p>
     <p>Each file submitted to the network is given a unique cryptographic hash that allows the IPFS network to automatically delete duplicates and track version history for every file. Historic versioning prevents information from being easily erased. Since the files are provided by distributed nodes, download speeds are higher.</p>

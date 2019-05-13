@@ -17,7 +17,7 @@ Steganalysis: finding hidden data in Images
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The art of hiding secret messages in innocuous looking objects, known as steganography was introduced in a <a href="https://www.deepdotweb.com/2016/11/13/steganography-hiding-data-images/">DDW article</a> last month, featuring a tutorial on a useful tool that embeds data (usually text messages) into JPEG images – without making it obvious to the naked eye.</p>
     <p>Today I would like to discuss steganography&#8217;s counterparty, namely steganalysis – the art of uncovering hidden communication and exposing the use of steganography. Steganalysis is not to be confused with the more well known cryptanalysis which focuses on decrypting a message that has already been intercepted. When performing Steganalysis you do not know where to look, you can&#8217;t identify the channel of communication which could be a stego image (image carrying a hidden message) uploaded onto facebook, a torrent of a star wars flick (which could carry a massive amount of hidden data – even a small video) &#8230; the possibilities are endless.</p>

@@ -9,7 +9,7 @@ German Police to Start Focusing on Darknet Crimes After Munich Shooting
     <span><a href="https://www.deepdotweb.com/2016/07/31/german-police-start-focusing-darknet-crimes-munich-shooting/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The gunman who killed nine people in a rampage in Munich on Friday had <a href="https://www.deepdotweb.com/2016/07/24/munich-gunman-got-weapon-darknet/">purchased his 9mm Glock 17 on the deepweb</a>, investigators discovered in a search of his home. As a result, in the latest annual report on cyber crime, German police say they will be making new efforts to fight crime on the <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">darknet</a>.</p>
     <p>According to <a href="http://www.reuters.com/article/us-germany-cyber-idUSKCN1071KW">Reuters</a>, Holger Muench, head of Germany&#8217;s Federal Police (BKA), told journalists that “We [the BKA] see that the dark net is a growing trading place and therefore we need to prioritize our investigations here.&#8221; Encrypted communications through Tor are making it difficult to determine how the Munich shooter got his gun. “The investigation is very difficult,” a police spokesperson told the press.</p>
     <p>Muench said that while they had taken five <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet marketplaces</a> out of circulation in the previous year, the BKA wants to start focusing on the criminals who are using the sites for buying and selling, not just the marketplace as a whole. Especially focusing on those who use the darknet to illegally obtain weapons.</p>

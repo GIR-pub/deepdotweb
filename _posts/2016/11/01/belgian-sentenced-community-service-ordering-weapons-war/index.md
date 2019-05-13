@@ -17,7 +17,7 @@ Belgian Sentenced To Community Service For Ordering Weapons Of War
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A 37-year-old man from Herent, Belgium was sentenced to 80 hours of community service for possessing and ordering weapons of war from the dark net.</p>
     <p>According to court documents, the 37-year-old man had seen the news about the ongoing war in Syria and the possible consequences of it on Belgium. He wanted to protect himself and his family, according to the court ruling. That’s when he decided to order a Kalashnikov assault rifle, a Glock handgun, a silencer and ammo for the weapons from the dark web. He found a US weapon vendor on a dark net market, which he came in contact with. Before the package arrived, Belgian law enforcement authorities were alerted and seized the parcel and arrested the 37-year-old soon after it was delivered to the man’s home address.</p>

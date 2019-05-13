@@ -9,7 +9,7 @@ New Form Of Cerber Ransomware Being Offered On Russian Hacking Forum
     <span><a href="https://www.deepdotweb.com/2016/05/30/new-form-cerber-ransomware-offered-russian-hacking-forum/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Security Researchers at Forcepoint discovered that a Russian hacking forum on the dark web is <a href="http://www.scmagazineuk.com/cerber-ransomware-on-sale-in-russian-darknet-with-new-scripting-features/article/498069/">selling the Cerber ransomware as a RaaS</a> (Ransom-as-a-service). This is a new form since Cerber has been distributed via exploit kits or email using macro-enabled Word document files, however, this is the first time WSFs (Windows Script Files) have been used for this purpose.</p>
     <p>WSFs are executable with the Windows wscript.exe utility and can contain scripts from any Windows Script compatible scripting engine in a single file. After successful execution of the file, the Cerber crypto-ransomware will be downloaded on the victim&#8217;s system.</p>
     <p>The hackers are making the victims download Cerber in two methods; first is a double-zipped file with a WSF inside attached to the malicious email and the other is an unsubscribe link located at the bottom of the message, which is also linking to the same ZIP file.</p>

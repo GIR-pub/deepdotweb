@@ -9,7 +9,7 @@ Stolen NSA Tools to Come in a Monthly Subscription
     <span><a href="https://www.deepdotweb.com/2017/06/02/stolen-nsa-tools-come-monthly-subscription/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Shadow Brokers first exited the stable with what seemed like overwhelming potential for disaster. They stole hacking tools from a group that claimed to have stolen them from the NSA. They tried to sell those twice-stolen tools. And then they failed and went underground. Then, in a strange turn of events, someone found them on the <a href="https://www.deepdotweb.com/2016/12/24/zeronet-disrupting-world-wide-web-kptx/">ZeroNet</a>, selling the packages one-by-one.</p>
     <p>Fast forward to modern day, shortly after one of the <a href="https://www.deepdotweb.com/2017/05/13/ransomeware-hackers-launch-global-assault/">world&#8217;s largest cyber attacks ever seen</a>, the Shadow Brokers surfaced again. This time, they announced a new method of dumping the cyber weaponry on the public: an “exploit of the month” club, if you will. Of course, the Shadow Brokers used different terminology. Yet, the analogy to a “<a href="http://www.darkreading.com/attacks-breaches/shadowbrokers-to-launch-monthly-subscription-service-for-exploits/d/d-id/1328893">wine of the month club</a>” came unexpectedly.</p>
     <p><img class="wp-image-20327 aligncenter" src="/imgs/2017/05/word-image-164.jpeg" srcset="/imgs/2017/05/word-image-164.jpeg 800w, /imgs/2017/05/word-image-164-300x148.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

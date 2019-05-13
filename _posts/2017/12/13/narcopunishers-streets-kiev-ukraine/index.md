@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/12/13/narcopunishers-streets-kiev-ukraine/#comments">21 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&#8220;Narcopunishers&#8221; &#8211; is a movement of people&#8217;s avengers in Ukraine who claimed themselves to be fighters against drug trafficking. They encourage everyone to take part in a &#8220;drug dealers hunt&#8221; and turn narcos in by filing a report on the website. The information provided is not even verified and taken as the truth, which means that innocent people might get involved.<img class="wp-image-23896" src="/imgs/2017/12/word-image-23.jpeg" /></p>
     <p>When drug dealers (or the ones “believed” to be drug dealers) are found, narcopunishers humiliate them, use physical force and scorch dwelling, in order to make narcos confess and glue a sticker with the store&#8217;s name on drug dealer&#8217;s forehead. No exceptions are made as both street and <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">DNM</a> narcos fall into their hands. Police condemn such actions and consider that &#8220;Robin Hoods&#8221; can be imprisoned as well as the ones against whom they declared war.</p>
     <p><strong>How do they function?</strong></p>

@@ -9,7 +9,7 @@ Introduction to Cryptography, Part 2
     <span><a href="https://www.deepdotweb.com/2016/06/14/introduction-cryptography-part-2/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In the first part of the series, we went over what cryptography is and gave a few examples of historical ciphers. Part two is going to cover stream / block ciphers and their modes of operation, as well as go over the data encryption standard (DES). Let’s start by learning about block ciphers.</p>
     <p>Symmetric cryptography is broken down into two different categories – block ciphers and stream ciphers. Block ciphers encrypt blocks of plain text bits with the same key every time. When being encrypted, all plaintext bits that are in the same block depend on each other. Most block ciphers have a block length of 128 bits, or a block length of 64 bits as seen in the data encryption standard and triple DES (3DES). Later on in this article we are going to go over the data encryption standard more in depth. When dealing with encrypted computer communications over the Internet, block ciphers are the ones mostly used.</p>
     <p>Unlike block ciphers, stream ciphers encrypt each bit individually. To achieve this, each bit from a <em>key stream </em>is added to a plaintext bit. A key stream is a stream of random or pseudo random characters that are combined with the plaintext to produce the final encrypted message. There are two types of stream ciphers: asynchronous and synchronous. Synchronous stream ciphers depend only on the key, and asynchronous ones depend on both the key and cipher text. Most common stream ciphers are of the synchronous type.</p>

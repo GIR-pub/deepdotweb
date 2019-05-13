@@ -9,7 +9,7 @@ US Voter Data Leaked To Dark Web By Hackers
     <span><a href="https://www.deepdotweb.com/2016/01/26/us-voter-data-leaked-to-dark-web-by-hackers/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://motherboard.vice.com/read/hackers-are-sharing-reams-of-us-voter-data-on-the-dark-web">According to databreaches.net, the personal information of 191 million voters of the United States has been exposed.</a> Hackers are now posting data of voter millions on a ”well-known cybercrime forum” (<a href="https://www.deepdotweb.com/2016/01/09/darknet-hacking-forum-returns-after-shutdown/">Hell</a>). The leaked info is not that sensitive by its nature, however, this act shows that every type of data could be interesting for hackers.</p>
     <p>The leaked information includes the full name of the voters’, date of birth (DOB), the date they registered to vote, addresses, local school districts, and other data. Previous elections and political affiliations are also included in the pack.</p>
     <p>It still remains a question where the data has been stolen. According to news site CSO Online, on December 28, 2015, a database configuration issue had left 191 million voter records exposed to hackers. That data was discovered by security researcher Christopher Vickery, who found his own personal information within the dump.</p>

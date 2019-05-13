@@ -9,7 +9,7 @@ Bitcoin Price Analysis June 13 2017
     <span><a href="https://www.deepdotweb.com/2017/06/13/bitcoin-price-analysis-june-13-2017/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Flippening</p>
     <p>Bitcoin’s teething problems have not gone unnoticed. This week, Ethereum came closer to surpassing the market cap of Bitcoin. ETH price broke past $300 to an all time high of $400, backed by mainstream media and speculator bids on the flippening. Bitcoin’s scaling deadlock and high transaction fees, have led to doubt amongst investors over its continued dominance in the short term. Ethereum, meanwhile, has roped in buyers into the crypto mania of the past 3 months. Amid proclamations of Bitcoin’s impending doom, Bloomberg reported <a href="https://www.bloomberg.com/news/articles/2017-05-31/bitcoin-risks-being-eclipsed-by-digital-coin-cousin-ethereum">Bitcoin Is at Risk of No Longer Being the Biggest Digital Currency</a>, and days later ETH’s market cap clawed up to Bitcoin, at $36,290,735,803 and $43,645,356,249 respectively as at writing this.</p>
     <p><img class="wp-image-20658" src="/imgs/2017/06/etthereum-110-to-400-jpg.jpeg" alt="Etthereum 110 to 400.jpg" srcset="/imgs/2017/06/etthereum-110-to-400-jpg.jpeg 2001w, /imgs/2017/06/etthereum-110-to-400-jpg-300x134.jpeg 300w, /imgs/2017/06/etthereum-110-to-400-jpg-1024x456.jpeg 1024w" sizes="(max-width: 2001px) 100vw, 2001px"/></p>

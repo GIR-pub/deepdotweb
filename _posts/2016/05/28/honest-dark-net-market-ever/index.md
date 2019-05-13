@@ -9,7 +9,7 @@ Beaver: The Most “Honest” Dark Net Market Ever?
     <span><a href="https://www.deepdotweb.com/2016/05/28/honest-dark-net-market-ever/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Four students from Carnegie Mellon, and MIT have written a paper entitled, “Beaver: A Decentralized Anonymous Marketplace with Secure Reputation.” The paper has come to many spotlights on cryptocurrencies this week. It tells tales of an advanced marketplace with the ultimate privacy in mind that’s main focus is reputations based on free market associations.</p>
     <p><a href="http://www.livebitcoinnews.com/meet-beaver-a-decentralized-anonymous-marketplace/">They tell about</a> how an anonymous market could establish a reliable reputation system that is strong enough to avoid Sybil attacks to vendor feedback and keeping customers privacy above all. The marketplace’s ‘fails’ are gone over in regards to some other decentralized marketplaces like OpenBazaar and Silk Road 1. The framework for OpenBazaar does not support ‘privacy-centric techniques’ like Tor does, because of the UDP protocol the report says.</p>
     <p><a href="/imgs/2016/05/beaver.png"><img class="aligncenter size-full wp-image-14265" src="/imgs/2016/05/beaver.png" alt="beaver" width="660" height="330" srcset="/imgs/2016/05/beaver.png 660w, /imgs/2016/05/beaver-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px"/></a></p>

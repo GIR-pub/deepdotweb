@@ -12,7 +12,7 @@ Tor 7.0 Released with Content Sandbox and Multi-process Mode
     <span><a href="https://www.deepdotweb.com/2017/06/13/tor-7-0-released-content-sandbox-multi-process-mode/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a id="post-20584-_gjdgxs"></a><a href="https://www.torproject.org/projects/torbrowser.html.en"><strong>Tor Browser 7.0</strong></a><strong> is the new version of the </strong><a href="http://www.muycomputer.com/2014/10/31/tor-browser-bundle/"><strong>web</strong></a><strong> browser specialized in private navigation and is a fundamental part of the Open Source communications network system Tor, which aims to achieve anonymity at the network level.</strong></p>
     <p><strong>With the advent of Tor Browser 7.0, we have new security measures and many changes to remain anonymous on the Internet. Here, you will find all the changes and improvements available in the latest official version of Tor Browser.</strong></p>
     <p><img class="wp-image-20585 aligncenter" src="/imgs/2017/06/word-image-60.jpeg" srcset="/imgs/2017/06/word-image-60.jpeg 817w, /imgs/2017/06/word-image-60-300x163.jpeg 300w" sizes="(max-width: 817px) 100vw, 817px" /></p>

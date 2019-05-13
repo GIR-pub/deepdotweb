@@ -9,7 +9,7 @@ Curtis Green Writes Silk Road Tell All, Needs Help with Cover Art
     <span><a href="https://www.deepdotweb.com/2016/06/25/curtis-green-writes-silk-road-tell-needs-help-cover-art/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Anyone remember <a href="https://www.deepdotweb.com/2013/11/08/now-its-official-curtis-clark-green-is-flush-chronicpain/">Curtis Green</a>? One of the admins for Silk Road? Yes, the one Ross Ulbricht supposedly put a hit out on. <a href="http://www.dailydot.com/politics/curtis-green-silk-road-memoir/">Patrick Howell O’Neill from the Daily Dot</a> reported yesterday that he’s back in the headlines, but this time it’s for his book.</p>
     <p><a href="/imgs/2016/06/curtis.jpg"><img class="aligncenter wp-image-14586" src="/imgs/2016/06/curtis.jpg" alt="curtis" width="804" height="1206" srcset="/imgs/2016/06/curtis.jpg 1321w, /imgs/2016/06/curtis-200x300.jpg 200w, /imgs/2016/06/curtis-682x1024.jpg 682w" sizes="(max-width: 804px) 100vw, 804px"/></a></p>
     <p>Known as chronicpain on Silk Road, Green was arrested and turned on Ulbricht and Silk Road to cooperate with law enforcement. Ulbricht known as Dread Pirate Roberts founded Silk Road, and was accused to paying $80,000 dollars to have Green killed.</p>

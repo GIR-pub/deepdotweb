@@ -10,7 +10,7 @@ Bitcoin News Roundup 24.9.17
     <span><a href="https://www.deepdotweb.com/2017/09/24/bitcoin-news-roundup-24-9-17/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>JP Morgan’s Jamie Dimon strikes Bitcoin again, says it’s “worth nothing”</strong></p>

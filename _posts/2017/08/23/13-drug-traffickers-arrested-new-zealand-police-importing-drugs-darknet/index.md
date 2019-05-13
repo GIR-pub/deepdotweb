@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/08/23/13-drug-traffickers-arrested-new-zealand-police-importing-drugs-darknet/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The New Zealand authorities undertook a six month operation arresting 13 and seizing drugs suspected to have been ordered through the Darknet marketplace.</p>
     <p>The passion to completely uproot the drug supply in the country brought a number of agencies together in a six-month operation.</p>
     <p><a id="post-22131-_gjdgxs"></a> The Waitemata Police Tactical Crime Team and the Custom sought to bust class A and class B drug importers after series of articles and reports revealed that the youth are the most buyers of these illicit drugs on the Darknet marketplaces.</p>

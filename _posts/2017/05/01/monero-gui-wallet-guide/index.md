@@ -9,7 +9,7 @@ Monero GUI Wallet Guide
     <span><a href="https://www.deepdotweb.com/2017/05/01/monero-gui-wallet-guide/#comments">14 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Monero was the first altcoin to be added to a deep web market. The<a href="https://www.reddit.com/r/DarkNetMarkets/comments/4z0wm3/alphabay_market_launched_first_phase_of_monero/"> Alphabay announcement</a> was actually the main catalyst for the amazing rally that took Monero from the $2 mark to $20. It is a privacy driven cryptocurrency and it’s one of the best in its field. However, for a long time, Monero didn’t have its own Graphic User Interface (GUI) wallet due to the complication associated with building it. However, this has recently changed with the release of the <a href="https://getmonero.org/2017/03/29/monero-gui-beta-2-released.html">official Monero GUI</a>, which is currently in its second beta version.</p>
     <p>This surely makes Monero much simpler to work with given that users no longer have to get familiar with the commands. It’s also much safer than third party alternatives in which the user does not control the private keys.</p>
     <p>Today, we’re going to take a look at the new wallet and teach you how to take full advantage of it!</p>

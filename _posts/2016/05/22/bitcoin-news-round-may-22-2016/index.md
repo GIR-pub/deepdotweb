@@ -9,7 +9,7 @@ Bitcoin News Round Up May 22 2016
     <span><a href="https://www.deepdotweb.com/2016/05/22/bitcoin-news-round-may-22-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s aggregated bitcoin news on bitcoin from across the web</p>
     <p><strong>CRYPTO EXCHANGES</strong></p>
     <p><strong>Coinbase Rebrands, adds Trading Support for Ether</strong></p>

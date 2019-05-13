@@ -9,7 +9,7 @@ Trio That Sold Drugs Worth Over $17M Through the Dark Web Busted
     <span><a href="https://www.deepdotweb.com/2019/03/01/trio-that-sold-drugs-worth-over-17m-through-the-dark-web-busted/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A man and two women were arrested for allegedly distributing drugs all over Australia through the dark web and the Australian post. The three are believed to have sold drugs worth over $17 million and to have established themselves as the largest dark web drug vendor in Australia over time. The man allegedly led the group and had a vendor’s account in an undisclosed dark web marketplace while the two women prepared, packaged and distributed drugs ordered through the dark web.</p>
     <p><img class="wp-image-28485" src="/imgs/2019/02/word-image-27.jpeg" srcset="/imgs/2019/02/word-image-27.jpeg 660w, /imgs/2019/02/word-image-27-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>According to <a href="https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGNzUxNTguaHRtbCZhbGw9MQ%3D%3D">a statement released by the NSW Police</a>, the case against 25-year-old Cody Ronald Ward from Callala Beach, 24-year-old Shanese Koullias from Callala Bay, and 20-year-old Patricia Koullias from Quakers Hill was investigated by Strike Force Royden. Strike Force Royden was established in April 2018 by detectives of the State Crime Command’s Criminal Group Squad and tasked with the fight against the distribution of illicit drugs in New South Wales.</p>

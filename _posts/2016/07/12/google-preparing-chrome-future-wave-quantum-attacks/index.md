@@ -17,7 +17,7 @@ Google is Preparing Chrome for future wave of quantum attacks
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On the 7<sup>th</sup>, <a href="https://www.wired.com/2016/07/google-tests-new-crypto-chrome-fend-off-quantum-attacks/">Wired reported</a> that Google pushed a Chrome update to a very small number of users that included a new form of encryption alongside the current elliptic curve factorization. Even though only a small users are going to be able to test out this encryption, it points to a new wave of cybersecurity. <a href="https://www.wired.com/2016/07/google-tests-new-crypto-chrome-fend-off-quantum-attacks/">Wired</a> calls it <em>“preparations to head off a potentially disastrous but still-distant quantum cryptopocalypse” </em>and I think this hit the nail on the head.</p>
     <p>Cybersecurity, for the longest time, has been a perpetual cat-and-mouse game between encryption experts and hackers. The news, almost daily, is littered with articles referencing either a new security breach or a security exploit patch. There’s no end in site for complete protection because there will always be individuals trying to bypass what security measures may be in place. For now, the current limitations of how far hardware is capable of going to break encryption is not much of a mystery. While hardware keeps improving in terms of speed and efficiency, the ability to run through any Public-key cryptography that utilizes integer factorization remains almost entirely non-existent. Quantum computing will change everything. If you don’t want to read about the inner workings of quantum computing and encryption, skip to the fifth paragraph.</p>

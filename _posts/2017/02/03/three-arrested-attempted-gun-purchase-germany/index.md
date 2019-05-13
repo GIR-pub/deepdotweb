@@ -9,7 +9,7 @@ Three Arrested For Attempted Gun Purchase In Germany
     <span><a href="https://www.deepdotweb.com/2017/02/03/three-arrested-attempted-gun-purchase-germany/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 43, 46, and a 51-year-old were all <a href="http://www.blogspan.net/presse/pol-rt-festnahmen-nach-versuchtem-waffenkauf-im-darknet-stuttgartreutlingenfrickenhausen-es/mitteilung/1351929/">arrested</a> in Germany for attempted weapon purchase over the dark web, according to the joint press release of the Stuttgart Public Prosecutor and the Reutlingen Police Department.</p>
     <p>The investigation started in December 2016, after the Federal Criminal Police Office (BKA) tipped a police officer in Esslingen. According to authorities, the 46-year-old, from Frickenhausen, had shown interest in several shotguns on dark net marketplaces. After extensive cyber and covert investigations, police managed to identify the two other suspects, who were the alleged acquaintances of the 46-year-old. On Thursday, law enforcement authorities raided all accused persons’ homes and detained them.</p>
     <p>According to officials, police used the “special mission command” during the raid of the 46-year-old’s home. The suspect was a well-known sportsman, however, authorities did not provide enough information on the topic.</p>

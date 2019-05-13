@@ -9,7 +9,7 @@ Tor to Combat Malicious Node Problem
     <span><a href="https://www.deepdotweb.com/2016/07/31/tor-combat-malicious-node-problem/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The discovery of over a <a href="https://www.deepdotweb.com/2016/07/07/researchers-found-over-100-snooping-tor-hsdir-relays/">hundred malicious nodes</a> has prompted the Tor Network to develop a new design which is designed to fight this ongoing problem.</p>
     <p><a href="https://threatpost.com/upcoming-tor-design-battles-hidden-services-snooping/119462/">Developer Sebastian Hahn assured</a> that code has already been written to address this issue, and that the release date is being determined. The Tor Network has said that the attacks do not unmask the operator behind the hidden service, which the law enforcement community has been trying to accomplish for some time now.</p>
     <p>Amirali Sanatinia, who is working on his PhD in computer science at Northeastern University, is responsible for this discovery. Alongside his professor at the College of Computer and Information Science, Guevara Noubir; they are set to present their paper next week at DEF CON.</p>

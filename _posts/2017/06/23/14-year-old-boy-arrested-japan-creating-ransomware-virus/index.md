@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/06/23/14-year-old-boy-arrested-japan-creating-ransomware-virus/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>A 14-year-old boy was detained in Japan for creating a ransomware program, which asks for a ransom payment to access the infected computer.</strong></p>
     <p>According to sources in <a href="http://www.japantimes.co.jp/news/2017/06/05/national/crime-legal/osaka-teen-first-alleged-ransomware-maker-arrested-japan/#.WTcu3Pk184h">The Japan Times</a> , the teenager is a third-year high school student in Takatsuki city, located in Osaka. The teenager was arrested on Monday this week for <strong>combining various free encryption programs to create specialized malware to make computer files inaccessible</strong> unless a sum of money was paid.</p>
     <p><img class="wp-image-20850 aligncenter" src="/imgs/2017/06/n-ransomware-a-20170606-jpg.jpeg" alt="n-ransomware-a-20170606.jpg" width="577" height="273" srcset="/imgs/2017/06/n-ransomware-a-20170606-jpg.jpeg 1497w, /imgs/2017/06/n-ransomware-a-20170606-jpg-300x142.jpeg 300w, /imgs/2017/06/n-ransomware-a-20170606-jpg-1024x485.jpeg 1024w" sizes="(max-width: 577px) 100vw, 577px"/></p>

@@ -9,7 +9,7 @@ Man Admits Phishing $365k in BTC on the Darknet
     <span><a href="https://www.deepdotweb.com/2017/07/13/man-admits-phishing-365k-btc-darknet/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Michael Richo, a 35-year-old Connecticut man, pleaded guilty to charges linked to a $365,000 <a href="https://www.deepdotweb.com/tag/bitcoin/">Bitcoin</a> phishing scam on June 27. He admitted that he created fake login pages to popular darknet marketplaces and farmed the credentials. He then logged into their real account and withdrew Bitcoin balances.</p>
     <p>We wrote about Richo <a href="https://www.deepdotweb.com/2016/10/12/connecticut-man-arrested-phishing-deepweb-logins-stealing-bitcoins/">after his arrest in 2016</a>. The defendant spread phishing links across the internet through online forums. Like any clearnet phishing scheme, the links took unsuspecting visitors to page that looked similar to the real marketplace login. After they logged into the fake marketplace, Richo checked their balances for a quantity of Bitcoin with stealing.</p>
     <p><img class="wp-image-21265 aligncenter" src="/imgs/2017/07/word-image-64.jpeg" srcset="/imgs/2017/07/word-image-64.jpeg 800w, /imgs/2017/07/word-image-64-300x202.jpeg 300w, /imgs/2017/07/word-image-64-290x195.jpeg 290w" sizes="(max-width: 800px) 100vw, 800px" /></p>

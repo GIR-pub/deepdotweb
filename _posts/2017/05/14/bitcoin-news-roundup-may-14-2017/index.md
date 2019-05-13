@@ -9,7 +9,7 @@ Bitcoin news roundup May 14, 2017
     <span><a href="https://www.deepdotweb.com/2017/05/14/bitcoin-news-roundup-may-14-2017/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>There are over 150,000 unconfirmed bitcoin transactions</strong></p>

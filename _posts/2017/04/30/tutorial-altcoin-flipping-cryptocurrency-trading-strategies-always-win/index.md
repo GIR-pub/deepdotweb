@@ -9,7 +9,7 @@ Tutorial &#8211; Altcoin Flipping (Cryptocurrency Trading Strategies That Always
     <span><a href="https://www.deepdotweb.com/2017/04/30/tutorial-altcoin-flipping-cryptocurrency-trading-strategies-always-win/#comments">20 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Altcoin flipping can be a highly rewarding way to make money online. By now, if you have already read the &#8220;Tutorial &#8211; Altcoin Flipping : Making Money Online Via Trading Cryptocurrencies&#8221;, you should by now know how to create accounts on cryptocurrency exchanges and fund them with bitcoins. Throughout this tutorial, I will present you with some useful tips that can help you make good profits via altcoin flipping.</p>
     <p><strong>Dividing your capital into trading lots:</strong></p>
     <p>Whatever the amount of your capital, I recommend dividing them into five equal trading lots. So, if your capital equals one bitcoin, you will divide them into five equal trading lots; 0.2 bitcoin each. My strategy is to use 4 lots to buy 4 different coins and leave the fifth lot to use whenever good trade entry points emerge in the future. For example, a capital of 0.5 BTC would be divided into five 0.1 trading lots as follows:</p>

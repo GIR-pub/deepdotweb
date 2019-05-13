@@ -9,7 +9,7 @@ Fentanyl Vendor Etiking Indicted In The U.S.
     <span><a href="https://www.deepdotweb.com/2017/08/06/fentanyl-vendor-etiking-indicted-in-the-u-s/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A Pennsylvania man, who is allegedly responsible for the overdose deaths of 19 people, was officially <a href="http://www.orlandosentinel.com/news/breaking-news/os-jeremy-achey-arrest-dark-web-fentanyl-20170720-story.html">charged</a> by federal prosecutors.</p>
     <p>Jeremy Achey, 43, of Bethlehem, Pennsylvania, was charged on July 20 with conspiracy and distribution of controlled substance analogs. If he is found guilty in court, he could face a lifetime sentence in prison. According to federal prosecutors, the defendant was responsible for 19 overdose-related deaths, including one man in Orange County who died after taking the synthetic opioid substance tetrahydrofuran <a href="https://www.deepdotweb.com/tag/fentanyl">fentanyl</a>. The DEA’s investigation on the case revealed that the man bought the drug from the Etiking vendor shop, a pseudo name, which Achey allegedly used for <a href="https://www.deepdotweb.com/2017/07/19/police-arrest-three-men-seize-bunch-narcotics-trafficked-darknet/">narcotics</a> trading.</p>
     <p>“Florida DEA agents continue investigating this overdose death attributable to the substance delivered by the defendant, and an additional 19 overdose deaths that occurred in the 2017 calendar year,” Judge Perkins wrote regarding the connection between the overdose deaths and Achey. “The people who died of overdose deaths were all “Darknet” customers of the defendant,” the judge emphasized.</p>

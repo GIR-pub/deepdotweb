@@ -9,7 +9,7 @@ Bitcoin news roundup, February 19, 2017
     <span><a href="https://www.deepdotweb.com/2017/02/19/bitcoin-news-roundup-february-19-2017/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>Former president of Bank of China claims it’s impossible to kill bitcoin</strong></p>

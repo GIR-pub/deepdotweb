@@ -9,7 +9,7 @@ Bitcoin price analysis Febraury 14, 2017
     <span><a href="https://www.deepdotweb.com/2017/02/14/bitcoin-price-analysis-febraury-14-2017/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>China Strikes Again</strong></p>
     <p>The People’s Bank of China, conducted an impromptu inspection some of the biggest exchanges in China. Price plunged as soon as word was out, from its $1085 highs, down to $951. Over the past 3 months, the world’s 2nd largest economy was partly responsible for the bull run of late 2016, and fully responsible for all the market turmoil and sell offs in 2017. Despite a reduction in global Yuan trading volumes, China’s impact on Bitcoin’s price continues to be a force. But, not for much longer. 2 expected Bitcoin ETFs in the United States are gaining investor appeal, while Japan is 2 months away from legalizing Bitcoin as a payment method in the small pacific Island. The price of Bitcoin is in limbo.</p>
     <p><img class="wp-image-18284 aligncenter" src="/imgs/2017/02/inverse-head-and-shoulders-pboc-png.png" alt="Inverse head and shoulders, PBOC.png" srcset="/imgs/2017/02/inverse-head-and-shoulders-pboc-png.png 2354w, /imgs/2017/02/inverse-head-and-shoulders-pboc-png-300x167.png 300w, /imgs/2017/02/inverse-head-and-shoulders-pboc-png-1024x572.png 1024w" sizes="(max-width: 2354px) 100vw, 2354px" /></p>

@@ -9,7 +9,7 @@ Nucleus: Issues &#038; Possible Exit Scam?
     <span><a href="https://www.deepdotweb.com/2015/12/16/nucleus-issues-possible-exit-scam/#comments">23 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>#4th Update on Nucleus</strong>: Seems to be back up: <a href="https://www.deepdotweb.com/marketplace-directory/listing/nucleus-market/">Nucleus Market</a>.</p>
     <p><strong>#3rd Update on Nucleus</strong>: &#8220;We have answered some questions about unaccessible accounts on the Support, but server will stay offline for next 5 &#8211; 9 hours due to preparations for relaunch.&#8221;</p>
     <p><strong>#2nd Update on <strong>Nucleus</strong></strong>: &#8220;We are still investigating the problem. Server should be back online yesterday.&#8221;</p>

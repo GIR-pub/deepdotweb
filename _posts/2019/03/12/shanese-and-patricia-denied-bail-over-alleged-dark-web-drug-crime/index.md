@@ -9,7 +9,7 @@ Shanese and Patricia Denied Bail over Alleged Dark Web Drug Crime
     <span><a href="https://www.deepdotweb.com/2019/03/12/shanese-and-patricia-denied-bail-over-alleged-dark-web-drug-crime/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Magistrate Gabriel Fleming at the Nowra Local Court on 22 February 2019, <a href="https://www.theflindersnews.com.au/story/5922533/alleged-dark-web-drug-sisters-refused-bail/?cs=9397">denied bail request</a>s from Patricia Koullias, 20, of Quaker Hill and Shanese Koullias, 24, of Callala Bay. The duo was charged by authorities for being involved in a prohibited drugs operation worth $17 million conducted through the dark web.</p>
     <p>According to a report, the detectives from the State Crime Command’s Criminal Groups Squad launched an investigation into the online drug operations in April 2018. In the course of the operation, they discovered an online based sophisticated criminal drug group that operated from the South Coast.</p>
     <p>According to the report, the investigators came across a man who acted as the ring leader named Cody Ronald Ward, 25. He led the operation of illegal dark web related drugs such as cannabis, cocaine, LSD, MDMA, prescription medication and methylamphetamine (ice), and amphetamine.</p>

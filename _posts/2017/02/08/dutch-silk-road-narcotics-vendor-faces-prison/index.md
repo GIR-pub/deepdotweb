@@ -9,7 +9,7 @@ Dutch Silk Road Narcotics Vendor Faces Prison
     <span><a href="https://www.deepdotweb.com/2017/02/08/dutch-silk-road-narcotics-vendor-faces-prison/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Public Prosecutor (OM) <a href="http://www.dvhn.nl/groningen/Groninger-37-verdacht-van-moderne-drugshandel-op-het-dark-web-21941552.html">recommended</a> a sentence of fifteen months (five months suspended) in prison for a 37-year-old from Groningen, the Netherlands for selling drugs on the Silk Road Marketplace.</p>
     <p><img class="wp-image-18037 aligncenter" src="/imgs/2017/02/photo-archive-dvhn.jpeg" alt="PHOTO ARCHIVE DVHN" srcset="/imgs/2017/02/photo-archive-dvhn.jpeg 768w, /imgs/2017/02/photo-archive-dvhn-300x150.jpeg 300w, /imgs/2017/02/photo-archive-dvhn-660x330.jpeg 660w" sizes="(max-width: 768px) 100vw, 768px"/></p>
     <p>According to the OM, the suspect sold hard <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> on the infamous <a href="https://www.deepdotweb.com/?s=silk+road">Silk Road Marketplace</a>. The 37-year-old used his own room at a residential building on the Oude Boteringestraat in Groningen as his base of operations.</p>

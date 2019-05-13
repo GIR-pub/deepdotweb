@@ -9,7 +9,7 @@ Companies Required to Give Customer Data to Authorities in China’s New Cyberse
     <span><a href="https://www.deepdotweb.com/2016/11/28/companies-required-give-customer-data-authorities-chinas-new-cybersecurity-law/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Companies Required to Give Customer Data to Authorities in China’s New Cybersecurity Law</p>
     <p>China has approved a controversial cybersecurity law that gave the government unprecedented access to technology worldwide. The law was green-lit as a national security measure but went too far, human rights groups said. It granted the government the ability to censor online content and restrict free speech.</p>
     <p>Some parts of the bill drew more attention than others. For instance, computer equipment manufacturers will be required to undergo mandatory testing and certification of computers and computer parts. Internet companies will be required to store customer data and additionally need to fully cooperate with investigators.</p>

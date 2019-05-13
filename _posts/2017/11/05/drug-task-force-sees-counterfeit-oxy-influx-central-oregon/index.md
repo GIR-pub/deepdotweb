@@ -17,7 +17,7 @@ Drug Task Force Sees Counterfeit Oxy Influx in Central Oregon
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to Lieutenant Nick Parker of the Central Oregon Drug Enforcement task force, the so-called “Central Oregon opioid epidemic” has expanded to include darknet drugs. Darknet drugs, the Lieutenant explained, encompassed an entire category or counterfeit or “mismatched” pills. The influx of counterfeit pills did not begin with <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a>, but Parker implied the issue had taken off during the last few years when more buses turned to the darknet for their fix.</p>
     <p>Parker explained that <a href="http://kbnd.com/kbnd-news/local-news-feed/329257">in his opinion</a>, darknet vendors are intentionally sending counterfeit pills. The alternative, presumably, would be that vendors had been accidentally selling fentanyl-pressed oxycodone pills. In Central Oregon, drug users are getting hooked more easily to harder drugs than they had anticipated. This, he explained, is partially due to darknet vendors and their plans to send “whatever is readily available.”</p>

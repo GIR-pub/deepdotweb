@@ -9,7 +9,7 @@ Lexington Man Imprisoned for 43 Years for Attempting to Murder His Ex-Wife with 
     <span><a href="https://www.deepdotweb.com/2019/03/14/lexington-man-imprisoned-for-43-years-for-attempting-to-murder-his-ex-wife-with-a-darknet-bomb/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 32-year-old inmate from Lexington, Kentucky, was <a href="https://www.newsobserver.com/news/state/south-carolina/article226751294.html">sentenced to 43 years federal imprisonment</a> on Monday for attempting to purchase a <a href="https://www.deepdotweb.com/2018/05/10/inmate-orders-mail-bomb-on-darknet-to-kill-ex-wife/">bomb over the dark web</a>. The prisoner, known as Michael Young, purchased the bomb over the internet from his prison cell and arranged for it to be delivered to a certain address in Florida via mail.</p>
     <p><strong><img class="wp-image-28631" src="/imgs/2019/03/word-image-30.png" srcset="/imgs/2019/03/word-image-30.png 660w, /imgs/2019/03/word-image-30-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></strong></p>
     <p>FBI reports show that he obtained a cell phone illegally which he used to access the internet and <a href="https://www.deepdotweb.com/2018/01/30/teenager-arrested-sentenced-buying-bomb-darknet-kill-parents/">purchase the bomb from the dark web</a>. The action-triggered bomb was intended to kill his ex-wife the moment she opened it.</p>

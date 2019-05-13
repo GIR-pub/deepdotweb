@@ -17,7 +17,7 @@ End-to-End Calls Rise in Popularity, Increased Privacy for Dark Web Users
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>In November of 2016, reputable human rights organization Amnesty International, with over seven million members worldwide, released a research paper on the lack of end-to-end encryption offered by today’s social media platforms and mobile messaging applications.</p>
     <p>Researchers at Amnesty International discovered that some of the most widely utilized messaging applications including Skype, Snapchat, Tencent’s WeChat, Telegram, KakaoTalk and Facebook Messenger either did not have end-to-end encryption support at all or failed to set end-to-end encryption as default.</p>

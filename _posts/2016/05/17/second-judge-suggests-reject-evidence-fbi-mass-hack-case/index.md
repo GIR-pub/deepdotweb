@@ -9,7 +9,7 @@ Second Judge Suggests To Reject Evidence In FBI Mass Hack Case
     <span><a href="https://www.deepdotweb.com/2016/05/17/second-judge-suggests-reject-evidence-fbi-mass-hack-case/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Magistrate Judge Paul J Cleary is the second judge in the FBI mass hack case who just <a href="http://motherboard.vice.com/read/second-judge-argues-evidence-from-fbi-mass-hack-should-be-thrown-out">suggested throwing out the evidence</a> obtained by a piece of malware that the federal agency had previously uploaded on the <a href="https://www.deepdotweb.com/2016/01/08/fbi-ultimate-hack-job-1300-computers-take-down/">infiltrated PlayPen child porn site</a> (as part of Operation Pacifier) back in February 2015. On April 25, the judge just recommended the evidence to be suppressed in a similar case.</p>
     <p>The new recommendation relates to Scott Fredrick Arterbury, who was arrested in November 2015 in Oklahoma and was charged with the possession of child pornography content. Judge Cleary made this statement in his report:</p>
     <p>“This Court finds that the NIT (network investigative technique) warrant was not authorized by any of the applicable provisions of Rule 41. The warrant is void ab initio, suppression is warranted and the good-faith exception is inapplicable&#8221;</p>

@@ -9,7 +9,7 @@ Man Charged With Killing Wife, Murder-For-Hire Through Darknet​
     <span><a href="https://www.deepdotweb.com/2017/02/19/man-charged-killing-wife-murder-hire-darknet%e2%80%8b/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Earlier this week, Stephen Carl Allwine from Cotage Grove, Oregon, was <a href="https://www.google.co.kr/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=a+large+amount+of+computer+equipment,+which+appeared+to+be+very+sophisticated+and+technologically+advanced">arrested</a> and sent back to jail after local police discovered that Allwine attempted to track his 9-year-old son with a GPS installed on a smartwatch.</p>
     <p>In late January, Allwine was arrested with allegations of murdering his wife. Local law enforcement agencies and police officers tracked Allwine’s activities in the dark web and discovered that the 43-year-old man ordered a murder-for-hire paid in bitcoin. Allwine offered US$5,000 in bitcoin to a darknet user by the alias of “Dogdaygod” to hit and run his wife Amy Allwine. Police stated that the payment was already made because Allwine’s bitcoin address was connected to Dogdaygod.</p>
     <p><img class="wp-image-18235 aligncenter" src="/imgs/2017/02/word-image-69.png" width="657" height="438" srcset="/imgs/2017/02/word-image-69.png 1191w, /imgs/2017/02/word-image-69-300x200.png 300w, /imgs/2017/02/word-image-69-1024x683.png 1024w" sizes="(max-width: 657px) 100vw, 657px" /></p>

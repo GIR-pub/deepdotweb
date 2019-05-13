@@ -9,7 +9,7 @@ Global Drug Survey 2017 Will Highlight Darknet Drug Users Worldwide
     <span><a href="https://www.deepdotweb.com/2016/11/24/global-drug-survey-2017-will-highlight-darknet-drug-users-worldwide/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The leader in worldwide drug studies, Global Drug Survey (GDS), announced a media partnership with Australia’s Fairfax Media. Additionally, the 2017 survey will pay special attention to how drug users across the globe make use of the darknet and what role the darknet has on drug use.</p>
     <p>The London-based organization was founded to collect information on global drug use, specifically focused on health and safety. They have conducted such global surveys for several years now and each time, the darknet-related information became more prevalent. Media partnerships started growing as well; in addition to the <a href="http://www.bordermail.com.au/story/4295997/fairfax-media-teams-up-with-global-drugs-survey/?cs=24">recent Fairfax Media collaboration</a>, GDS has worked with news agencies like <a href="https://www.globaldrugsurvey.com/clients-and-partners/">VICE and Cosmopolitan</a>.</p>
     <p><img class="wp-image-16561 aligncenter" src="/imgs/2016/11/fb-header-click-here-jpg.jpeg" alt="fb-header-click-here.jpg" srcset="/imgs/2016/11/fb-header-click-here-jpg.jpeg 851w, /imgs/2016/11/fb-header-click-here-jpg-300x111.jpeg 300w" sizes="(max-width: 851px) 100vw, 851px"/></p>

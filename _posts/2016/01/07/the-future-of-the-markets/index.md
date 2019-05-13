@@ -9,7 +9,7 @@ The Future of the Markets
     <span><a href="https://www.deepdotweb.com/2016/01/07/the-future-of-the-markets/#comments">22 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <div class="usertext-body may-blank-within md-container ">
     <div class="md">
     <p><em>An interesting post by <a class="author may-blank id-t2_k6a4c" href="https://www.reddit.com/user/MLP_is_my_OPSEC">MLP_is_my_OPSEC</a> on Reddit, which he sent me, and i thought it could be a good idea to share it to get people thinking, added some note at the bottom. The original Reddit post and discussion can be <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3zpprh/the_future_of_the_markets/">found here</a>:</em></p>

@@ -17,7 +17,7 @@ How to buy Bitcoins using LocalBitcoins
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Today we want to show you how to buy bitcoins from your peers without the need to deposit national currencies or provide personal information. We are talking about <a href="https://localbitcoins.com/?ch=4v6y" target="_blank">LocalBitcoins</a>, a p2p Bitcoin exchange that allows users to buy and sell from each other for basically every payment method available. This is a prefered exchange among deep web users, since it protects your privacy to a certain degree as it does not require you to provide any personal information or documents. Of course, this method is not infallible as it requires you to reveal your identity to the person selling Bitcoin. You can also sell your btc on LocalBitcoins. LocalBitcoins charges a 1% fee to the user that posts the trade. All other trades are free of charge.</p>
     <p>Let’s get started</p>

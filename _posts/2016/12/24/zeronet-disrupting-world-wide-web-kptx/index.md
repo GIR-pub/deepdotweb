@@ -9,7 +9,7 @@ How ZeroNet is disrupting the World Wide Web
     <span><a href="https://www.deepdotweb.com/2016/12/24/zeronet-disrupting-world-wide-web-kptx/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The coming of the <a href="https://zeronet.readthedocs.io/en/latest/">ZeroNet peer to peer network</a> has the ability to restore the privacy most internet users lost via social media networks and other mediums; This is made possible by combining Bitcoin cryptography and the BitTorrent network which users can rely on to hide their IP address while allowing messages and files to be transferred anonymously.</p>
     <p><strong>What is ZeroNet?</strong></p>
     <p><a href="https://en.wikipedia.org/wiki/ZeroNet">ZeroNet</a> is a decentralized and open source person to person web platform, using Bitcoin cryptography and the BitTorrent network to protect internet users’ privacy and promote the distribution of uncensored content. This content can never be deleted since the websites on this platform are being hosted (served) by its visitors, allowing the content to have no down time.</p>

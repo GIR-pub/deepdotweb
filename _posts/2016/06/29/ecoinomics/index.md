@@ -9,7 +9,7 @@ Bitcoin Economics: Volatility
     <span><a href="https://www.deepdotweb.com/2016/06/29/ecoinomics/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Bitcoin is a perfect example of extreme volatility. Lets break it down to the basics.</p>
     <p><u>Need to Know: Finance</u></p>
     <p>Finance and Economics are two similar fields of study, but they make important distinctions that any dark net market professional should know. First, both fields define <a href="http://financial-dictionary.thefreedictionary.com/Volatility+(economics)">volatility</a> as the measure of how quickly an investment, asset, or currency changes with time. Financiers typically quantify volatility as the <a href="https://en.wikipedia.org/wiki/Standard_deviation">standard deviation</a> of daily returns for a given period of time. This information is valuable for derivative trading because it is used to calculate moving averages and trends. Volatility is also a strong indicator of the amount of risk an investment has.</p>

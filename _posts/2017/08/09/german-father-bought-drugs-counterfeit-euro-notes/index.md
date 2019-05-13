@@ -10,7 +10,7 @@ German Father Bought Drugs With Counterfeit Euro Notes
     <span><a href="https://www.deepdotweb.com/2017/08/09/german-father-bought-drugs-counterfeit-euro-notes/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A father of a child from Troisdorf, Germany was <a href="http://www.rundschau-online.de/region/rhein-sieg/troisdorf/urteil-junger-vater-bezahlte-drogen-mit-falschen-fuenfzigern-aus-dem-darknet-28010240">sentenced</a> to prison for ordering <a href="https://www.deepdotweb.com/2017/06/19/counterfeit-euro-buyer-reunion-arrested-joint-austrian-french-investigation/">counterfeit euro</a> notes from the dark web and putting the falsified bills into circulation. Court records reported that the man even purchased narcotics with the fake notes.</p>
     <p>According to the court documents, the suspect, a 23-year-old father of Troisdorf, North-Rhine Westphalia, Germany, purchased three pieces of counterfeit euro notes on the dark web, which he put into circulation.</p>
     <p>Because of the seriousness of the defendant’s crimes, the judge sentenced him to six months of imprisonment along with three years of probation. Judge Ulrich Wilbrand emphasized that the 23-year-old did not commit the crimes because he was naive or curious. According to judge Wilbrand, the accused, who has not been convicted before, showed a “criminal energy”, thus, he presented a high risk of breaking the law again.</p>

@@ -9,7 +9,7 @@ Bitcoin news roundup, February 26, 2017
     <span><a href="https://www.deepdotweb.com/2017/02/26/bitcoin-news-roundup-february-26-2017/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>The Chinese province of Sichuan is becoming the country’s bitcoin mining capital</strong></p>

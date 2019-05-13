@@ -17,7 +17,7 @@ Two Accused In The J.P. Morgan Case Plead Not Guilty While Third One Waits Extra
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Two Israeli men who were recently extradited to the US, Ziv Orenstein and Gery Shalon, in their first appearances in US court <a href="http://www.wsj.com/articles/two-accused-in-j-p-morgan-hacking-case-plead-not-guilty-1465505356">pleaded not guilty</a> to the charges against them regarding the J.P. Morgan hacking case. The two charges included breaking into around a dozen companies’ computer networks, including J.P. Morgan Chase &amp; Co. The third defendant, Josh Aaron, a US citizen, has been already arrested in Russia and he is waiting to be extradited to the United States.</p>
     <p>The three men and they co-conspirators were accused by federal prosecutors of carrying out data breaches at several companies, selling the stolen information (including customers’ email addresses and phone numbers) and making hundreds of millions of dollars in profits. According to law enforcement authorities, the hacking allegedly facilitated a host of other crimes, including illegal internet casinos, pump-and-dump schemes, a payment processing service for other criminals and an unlicensed bitcoin exchange.</p>

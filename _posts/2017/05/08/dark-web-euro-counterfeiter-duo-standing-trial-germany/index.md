@@ -9,7 +9,7 @@ Dark Web Euro Counterfeiter Duo Standing Trial In Germany
     <span><a href="https://www.deepdotweb.com/2017/05/08/dark-web-euro-counterfeiter-duo-standing-trial-germany/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Two Germans are standing before the District Court of Osnabrück for <a href="http://www.noz.de/lokales/lingen/artikel/885597/anklage-emslaender-produzierten-7500-falsche-fuenfziger">producing</a> more than 7,500 <a href="https://www.deepdotweb.com/tag/fake/">fake</a> euro bills, which they allegedly sold on the darknet.</p>
     <p><img class="wp-image-19707 aligncenter" src="/imgs/2017/05/counterfeit-50-euro-bills-should-have-produced-two.jpeg" alt="Counterfeit 50 euro bills should have produced two Emsländer.  Symbolfoto: dpa" srcset="/imgs/2017/05/counterfeit-50-euro-bills-should-have-produced-two.jpeg 800w, /imgs/2017/05/counterfeit-50-euro-bills-should-have-produced-two-300x169.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
     <p>According to the German media outlet noz.de, one of the biggest procedures started on April 24 before the District Court of Osnabrück against counterfeiters in the country. The prosecutor’s office in Osnabrück accused two 24-year-old men from Emsland, together with an unknown third person who is currently under investigation, of the production of more than 7,500 fake 50 euro notes, and with the distribution of <a href="https://www.deepdotweb.com/2017/04/24/two-austrians-sentenced-ordering-counterfeit-euro-notes-finance-drug-addictions/">counterfeit</a> currencies over the internet.</p>

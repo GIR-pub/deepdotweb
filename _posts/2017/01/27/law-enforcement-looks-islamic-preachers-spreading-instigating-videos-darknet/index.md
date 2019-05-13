@@ -9,7 +9,7 @@ Law Enforcement Looks Into Islamic Preachers Spreading Instigating Videos on Dar
     <span><a href="https://www.deepdotweb.com/2017/01/27/law-enforcement-looks-islamic-preachers-spreading-instigating-videos-darknet/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Indian government and its law enforcement organization National Investigation Agency (NIA) is conducting an investigation on several controversial islamic preachers distributing instigating videos on the darknet.</p>
     <p>Officers of the NIA stated that a new group of preachers were absurdly and offensively imitating radical islamic preachers with the sole intent of spreading propaganda and false information on islamic beliefs.</p>
     <p>The NIA further emphasized that the group has spread insolent courses and lectures on islamic beliefs and people through various mediums and outlets such as social media and the darknet. Individuals who were convinced of the legitimacy of these courses bought the videos on the darknet, failing to recognize the dishonorable intent of the criminals.</p>

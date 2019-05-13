@@ -9,7 +9,7 @@ Two Englishmen Sentenced for Downloading Child Pornography from the Darknet
     <span><a href="https://www.deepdotweb.com/2017/01/17/two-englishmen-sentenced-downloading-child-pornography-darknet/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On January 5, both Exeter Crown Court and York Crown Court in England saw two separate cases of defendants who used the darknet to access child pornography. In one case, <a href="http://www.exeterexpressandecho.co.uk/exeter-man-found-child-abuse-images-on-the-dark-web/story-30033673-detail/story.html">a 40-year-old from Birchy Barton Hill, Exeter</a>, pleaded guilty to three counts of downloading or viewing child pornography. In the other case, Martin Richard Shepherd, a 45-year-old hospital IT employee, pleaded guilty to making and distributing CP, and unauthorized access to private computer files.</p>
     <p>The first defendant, Gabor Papai, fared better than the second. In the courtroom, he admitted that <a href="https://www.deepdotweb.com/?s=pacifier">he viewed, downloaded and shared CP from 2011-2016</a>. Francesca Whebell, the prosecutor, said police raided Papai&#8217;s house in late 2016 and seized all electronic equipment within it. They, the police, received evidence that “suggested” he accessed CP images and movies. A forensic examination confirmed the suggestion above. Files on the man’s computer showed children between the ages of six and fifteen from all three categories of CP crimes, “including the most severe.”</p>
     <p>“There were also search terms including &#8216;young video models&#8217; and &#8216;little girl with grandpa.&#8217; He had also installed a Tor browser which allows anonymous use of the internet,” she added.</p>

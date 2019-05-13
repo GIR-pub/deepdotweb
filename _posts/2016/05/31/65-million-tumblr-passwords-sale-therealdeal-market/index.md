@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2016/05/31/65-million-tumblr-passwords-sale-therealdeal-market/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In the last few weeks there have been releases of some very high profile database breaches, <a href="https://www.deepdotweb.com/2016/05/22/insights-peace-seller-leaked-linkedin-database/">linkedin</a>, myspace and now tumblr.</p>
     <p>All of these sites have been hit with hacks, and resulted in massive data breaches, yet these hacks are only now coming to the surface.</p>
     <p><a href="/imgs/2016/05/Tumblr.png"><img class="aligncenter size-full wp-image-14326" src="/imgs/2016/05/Tumblr.png" alt="Tumblr" width="660" height="330" srcset="/imgs/2016/05/Tumblr.png 660w, /imgs/2016/05/Tumblr-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px"/></a></p>

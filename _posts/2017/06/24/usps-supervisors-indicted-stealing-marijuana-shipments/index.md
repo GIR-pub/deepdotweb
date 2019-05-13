@@ -9,7 +9,7 @@ USPS Supervisors Indicted for Stealing Marijuana Shipments
     <span><a href="https://www.deepdotweb.com/2017/06/24/usps-supervisors-indicted-stealing-marijuana-shipments/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A recent federal indictment charged three U.S. Postal employees for stealing packages of marijuana from the mail stream. According to the indictment, the three USPS employees stole the packages for resale. They then sold the packages to a fourth conspirator who sold the marijuana throughout Ohio.</p>
     <p>The Acting U.S. Attorney for the Northern District of Ohio, David A. Sierleja, said <a href="https://www.justice.gov/usao-ndoh/pr/three-us-postal-employees-and-fourth-man-indicted-stealing-packages-containing">the trio stole packages between February and May 2017</a>. They set aside packages they thought contained marijuana, opened them, removed the drugs, and sold the stolen marijuana to the fourth employee. The indictment accused the three USPS employees of stealing 100 pounds of marijuana during the given timeframe.</p>
     <p><img class="wp-image-20857 aligncenter" src="/imgs/2017/06/word-image-142.jpeg" srcset="/imgs/2017/06/word-image-142.jpeg 800w, /imgs/2017/06/word-image-142-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

@@ -9,7 +9,7 @@ Methylone Supplier Charged Under the Kingpin Statute
     <span><a href="https://www.deepdotweb.com/2017/07/13/methylone-supplier-charged-kingpin-statute/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In May 2017, a federal grand jury indicted 39-year-old Terrence Deon Reames on charges connected to operating a continuing criminal enterprise. <a href="https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.justice.gov/usao-mdtn/pr/nashville-man-indicted-illegally-importing-and-distributing-molly-china&amp;ved=0ahUKEwjCl4jvh-HUAhXE4SYKHY0NCd0QFggkMAU&amp;usg=AFQjCNEsxZam1fEGt5jH_e5E1ferv7wZpg">Authorities charged Reames under the Kingpin Statute</a> for importing and distributing methylone and ethylone. Acting U.S. Attorney for the Middle District of Tennessee, Jack Smith, announced that the man became a high profile vendor in Nashville prior to his arrest.</p>
     <p>The indictment accused Reames of <a href="https://www.deepdotweb.com/tag/drugs/">distributing drugs</a> with five or more individuals between May 2011 and August 2014. During the investigation, authorities found that Reames had connected with an <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">online methylone and ethylone supplier</a> located in China. He convinced others in Nashua that the profits from this “Molly” would be substantial.</p>
     <p><img class="wp-image-21262 aligncenter" src="/imgs/2017/07/word-image-62.jpeg" srcset="/imgs/2017/07/word-image-62.jpeg 800w, /imgs/2017/07/word-image-62-300x212.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

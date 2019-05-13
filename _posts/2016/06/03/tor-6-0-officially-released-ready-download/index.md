@@ -9,7 +9,7 @@ Tor 6.0 Officially Released and Ready for Download
     <span><a href="https://www.deepdotweb.com/2016/06/03/tor-6-0-officially-released-ready-download/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>As regular Tor users are well aware, the browser has been updated to 6.0. The new release is based on Firefox 45 Extended Support Release. Among other features, the new browser has better support for security and privacy. Things like making DUCKDUCKGO its default search engine.</p>
     <p><a href="http://www.tomshardware.com/news/tor-browser-6.0-duckduckgo-support,31935.html">Mozilla’s Firefox ESR</a> is a more stable, enterprise ready version, and its features are only upgraded after every seven versions of Firefox are released.  In between the upgrades, it still receives all the security patches. The browser also comes with built in Tor support. It’s also bundled with privacy bases extensions like NoScript and HTTPS Everywhere, and has Firefox’s Private Mode enabled automatically.</p>
     <p>The last version of Tor was based on Firefox’s ESR 38 that came out in May of 2015. Tor 6.0 leaps to Firefox version 45. The next updates won’t happen until Firefox releases version 52.</p>

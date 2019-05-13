@@ -9,7 +9,7 @@ German Marijuana Grower Busted
     <span><a href="https://www.deepdotweb.com/2016/12/15/german-marijuana-grower-busted/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On November 29, German law enforcement authorities <a href="http://www.abendzeitung-muenchen.de/inhalt.reger-drogenhandel-im-darknet-mann-27-betreibt-marihuana-aufzucht-in-geheimzimmer.39ea3404-225e-4671-a7c2-c48a216ddd3b.html">arrested</a> a 27-year-old Rosenheim man who operated a nationwide <a href="https://www.deepdotweb.com/tag/drugs/">drug</a> trafficking ring on the dark web.</p>
     <p>German police had suspicion when one of the parcels the vendor sent was delivered back to the sender. However, the return address belonged to a travel agency who reported the issue to local authorities. Police worked along with postal workers to catch the suspect. Law enforcement authorities busted the dealer after a few months of investigation. According to police information, the dark net vendor did not write his own address on the parcels he sent, he always used travel agencies’ addresses in Rosenheim as a return address.</p>
     <p>A close work between local police and postal workers led to a breakthrough in the case. They identified the mailboxes the vendor used for mailing out the narcotics. Shortly after, law enforcement authorities arrested the suspect when he was trying to send four parcels to his potential customers at the post office. His 23-year-old cohabitant was also detained when police performed a home search on the 27-year-old’s apartment. Both of the arrested are suspected of drug trafficking.</p>

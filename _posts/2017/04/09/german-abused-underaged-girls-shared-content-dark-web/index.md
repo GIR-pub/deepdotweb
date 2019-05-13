@@ -9,7 +9,7 @@ German Abused Underaged Girls And Shared The Content On The Dark Web
     <span><a href="https://www.deepdotweb.com/2017/04/09/german-abused-underaged-girls-shared-content-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On March 21, investigators <a href="http://www.bild.de/regional/berlin/kindesmissbrauch/mann-lockte-maedchen-im-netz-und-missbrauchte-sie-50996682.bild.html">detained</a> a man from Berlin, Germany who is suspected of luring underaged girls and sharing the media content of their abuse on the dark web.</p>
     <p><img class="wp-image-19087 aligncenter" src="/imgs/2017/04/word-image-10.jpeg" width="773" height="435" srcset="/imgs/2017/04/word-image-10.jpeg 993w, /imgs/2017/04/word-image-10-300x169.jpeg 300w" sizes="(max-width: 773px) 100vw, 773px" /></p>
     <p>According to police information, the 36-year-old man allegedly abused girls between the age of 9 and 14. The suspect misled the victims with fake profiles on social networks, the local police and the prosecutor announced it on Friday. Officials added that the 36-year-old disguised as a 13-year-old girl on social networks to win the trust of his victims. Police claimed that the suspect shared the child pornographic content with other pedophiles on the dark web.</p>

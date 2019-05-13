@@ -9,7 +9,7 @@ What To Do While Your Favorite Market Is Under Attack? (Agora)
     <span><a href="https://www.deepdotweb.com/2014/03/10/what-to-do-while-your-favorite-market-is-under-attack-agora/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><span style="text-decoration: underline;"><strong>Update</strong></span>: The Agora team just posted an update indicating that they are on the right direction with solving the ddos issues (original thread can be found here: http://i4rx33ibdndtqayh.onion/index.php/topic,4290.0/topicseen.html): <a href="/imgs/2014/03/agonline.png"><img class="aligncenter  wp-image-4629" src="/imgs/2014/03/agonline.png" alt="agonline" width="626" height="165" srcset="/imgs/2014/03/agonline.png 1175w, /imgs/2014/03/agonline-300x79.png 300w, /imgs/2014/03/agonline-1024x270.png 1024w" sizes="(max-width: 626px) 100vw, 626px"/></a></p>
     <p><span style="text-decoration: underline;"><strong>The original post:</strong></span></p>
     <p>Yes, we know that Agora is down, everyone knows that agora is is down &#8211; its been up and down with this recent attack for the past 2 weeks, so i cant believe there is someone who did not notice that yet. im writing this as a response to the 20 &#8211; 30 mails we are getting every day requesting us to report the fact that agora is down due to attack / cyber war / ddos or what ever other reason, since you probably tried to access the market and got this message, this is not news to you:</p>

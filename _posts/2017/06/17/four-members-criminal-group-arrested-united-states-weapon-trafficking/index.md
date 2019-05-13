@@ -9,7 +9,7 @@ Four Members Of Criminal Group Arrested In The United States For Weapon Traffick
     <span><a href="https://www.deepdotweb.com/2017/06/17/four-members-criminal-group-arrested-united-states-weapon-trafficking/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In a multi-agency investigation, U.S. law enforcement authorities managed to <a href="http://www.11alive.com/news/crime/ga-men-allegedly-used-dark-net-markets-to-smuggle-guns-around-the-world/444598878">arrest</a> four suspects in Georgia. Two of the defendants were already charged with firearm trafficking.</p>
     <p>According to a <a href="https://www.justice.gov/usao-ndga/pr/gun-traffickers-arrested-allegedly-using-dark-web-export-guns-across-world">press release</a> from the U.S. Department of Justice, the 28-year-old Gerren Johnson of Austell and the 29-year-old William Jackson of East Point were arrested in May. Court documents stated that the two had used the dark web to smuggle <a href="https://www.deepdotweb.com/2017/05/11/concerns-transformed-alarm-weapon-sales-internet-portugal/">weapons</a> to multiple foreign countries.</p>
     <p>&#8220;Relying on the anonymity of the internet, these defendants hoped to circumvent federal firearms laws,&#8221; U.S. Attorney John Horn said.</p>

@@ -9,7 +9,7 @@ Austria One Step Closer to Mass Surveillance
     <span><a href="https://www.deepdotweb.com/2017/06/15/austria-one-step-closer-mass-surveillance/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Following the attack in Manchester, some political groups fought for complete government supervision over instant messaging. <a href="https://www.deepdotweb.com/tag/whatsapp/">WhatsApp messenger</a> especially. The Social Democratic Party of Austria and Austrian People’s Party pushed for increased government oversight far before the Manchester attacks. But the recent attacks add ammunition to their agendas.</p>
     <p>And now the country faces a true constitutional crisis—deliberating whether or not increased surveillance would protect citizens from acts of terror.</p>
     <p>The director of the Federal Office for Constitutional Protection firmly believes that terrorism is an immediate threat. Peter Gridling, the aforementioned director and so-called “chief constitutional expert” told the public “we can not sleep peacefully at the moment.” He claimed a terrorist attack in Austria was imminent.</p>

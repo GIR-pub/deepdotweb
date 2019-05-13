@@ -9,7 +9,7 @@ DHL Goes Down After Hacker Exposes Clearnet IP Address
     <span><a href="https://www.deepdotweb.com/2017/08/06/dhl-goes-hacker-exposes-clearnet-ip-address/#comments">9 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>Reddit user known as /u/t0mcheck publicly disclosed “crippling” vulnerabilities in two <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet markets</a>: DHL and Sourcery Market. As usual, the posts increased the number of heated conversations between users and moderators. Eventually everything came down to DHL. According to a DHL representative, was not new to marketplace staff—they had known for two years. Now, along with Sourcery Market, both marketplaces vanished.</p>
     <p>Either may come back, but Reddit users called exit scam. “Yeah, I don&#8217;t think we&#8217;ll see them around anymore,” one user wrote.</p>

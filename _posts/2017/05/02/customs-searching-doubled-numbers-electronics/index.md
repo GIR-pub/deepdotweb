@@ -9,7 +9,7 @@ Customs Searching Doubled Numbers of Electronics
     <span><a href="https://www.deepdotweb.com/2017/05/02/customs-searching-doubled-numbers-electronics/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a new report from Customs and Border Protection (and Immigration and Customs Enforcement), the border searches of phones and laptops nearly doubled since the previous year. The Customs and Border Protection report, revealed an increase of about 80 percent in the first six months of the DHS fiscal year. Device searches rose from 8,383 in October to 14,993 in March.</p>
     <p>The report drastically contradicted a number provided by an anonymous Department of Homeland Security spokesperson. A spokesperson from the DHS spoke, earlier this year, with NBC about the searches. He or she told NBC that as many as 5,000 searches occurred in the month of February alone. The new report points to a number of searches that effectively halves the initial numbers given to NBC. And for those asking themselves why a report from Homeland Security is being compared with a report from <a href="https://www.deepdotweb.com/page/1/?s=Customs+">Customs and Border Protection</a>: the Department of Homeland Security is basically a parent organization for both CBP and ICE, along with US Coast Guard, the TSA, and the Secret Service.</p>
     <p><img class="wp-image-19597 aligncenter" src="/imgs/2017/05/word-image-3.jpeg" srcset="/imgs/2017/05/word-image-3.jpeg 800w, /imgs/2017/05/word-image-3-300x211.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

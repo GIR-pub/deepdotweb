@@ -9,7 +9,7 @@ Europol Seeks The Help Of Internet Users To Identify Pedophiles
     <span><a href="https://www.deepdotweb.com/2017/06/19/europol-seeks-the-help-of-internet-users-to-identify-pedophiles/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>As part of the organization&#8217;s ongoing efforts to end cybercrime, <a href="https://www.europol.europa.eu/newsroom/news/europol-launches-public-appeal-to-help-identify-victims-of-child-sexual-exploitation">Europol launched a crowdsourcing initiative</a> called “Trace an Object.” Europol, the law enforcement agency that exists to provide support to EU member states, launched “Trace an Object” as an extension of ongoing investigations into child abuse. In essence, <a href="https://www.deepdotweb.com/tag/europol">Europol</a> will upload images that connect to unsolved child abuse cases—the images may contain objects or visual cues recognizable only by certain members of the public.</p>
     <p>For example, the pictures might contain items identifiable by people from a particular region or even even as specific as a city or town. Shopping bags from local businesses or groceries. A unique style of wallpaper. Even “a shampoo bottle, a magazine cover or even wallpaper,” the Europol press release explained. &#8220;The most innocent clues can sometimes help crack a case. The objects are all taken from the background of an image with sexually explicit material involving minors.”</p>
     <p><img class="wp-image-20765 aligncenter" src="/imgs/2017/06/word-image-122.jpeg" srcset="/imgs/2017/06/word-image-122.jpeg 800w, /imgs/2017/06/word-image-122-300x105.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

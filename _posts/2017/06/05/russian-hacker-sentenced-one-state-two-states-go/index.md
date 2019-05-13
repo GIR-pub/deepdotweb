@@ -9,7 +9,7 @@ Russian Hacker Sentenced in One State, Two States to Go
     <span><a href="https://www.deepdotweb.com/2017/06/05/russian-hacker-sentenced-one-state-two-states-go/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In 2016, a federal jury in Washington convicted Roman Seleznev of <a href="https://www.justice.gov/usao-wdwa/pr/russian-cyber-criminal-convicted-following-eight-day-trial">38 counts of various financial cybercrime charges</a>. After the Washington court gave Seleznev a 27 year sentence, he traveled down south to Atlanta, GA. There, on May 19, a judge arraigned the 32-year-old Russian national on more cyber fraud charges.</p>
     <p>In another indictment—the Atlanta one—a federal jury charged Seleznev with the 2008 hack of RBS Worldpay, an Atlanta-based payment processor. The hack was the “most sophisticated and organized computer fraud attack ever conducted,” at the time, that is. <a href="https://www.deepdotweb.com/tag/hack/">The hack</a> was ultimately smaller in scale than his other crimes; the court in Washington found him guilty of causing $169 million in damage to businesses.</p>
     <p><img class="wp-image-20411 aligncenter" src="/imgs/2017/06/word-image-12.jpeg" srcset="/imgs/2017/06/word-image-12.jpeg 800w, /imgs/2017/06/word-image-12-300x189.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px"/></p>

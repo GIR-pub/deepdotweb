@@ -9,7 +9,7 @@ Woman Accused of Using Dark Web Sourced Information in Identity Theft
     <span><a href="https://www.deepdotweb.com/2019/02/22/woman-accused-of-using-dark-web-sourced-information-in-identity-theft/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 27-year-old woman from Mauston, Sauk County, is accused of using information sourced from the dark web in identity theft. The woman allegedly purchased credentials from the <a href="https://www.deepdotweb.com/tag/dark/">dark web</a> to supplement information she stole from her victim’s mailboxes. She was placed in custody to await trial and was charged with two counts of credit card fraud and three separate counts of forgery and identity theft.</p>
     <p><img class="wp-image-28428" src="/imgs/2019/02/word-image-20.jpeg" srcset="/imgs/2019/02/word-image-20.jpeg 660w, /imgs/2019/02/word-image-20-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>According <a href="https://www.wiscnews.com/news/local/crime-and-courts/mauston-woman-accused-of-identity-theft-in-sauk-county-mailbox/article_40255d85-4871-58cb-82f3-ca7ce4c3207d.html">to reports, authorities disclosed</a> that they began investigations against 27-year-old Annie Ella Rozinski after an insurance firm filed a complaint with the police in December concerning a $1,586 cheque that the firm alleged had been cashed fraudulently. The insurance firm told the police that the client they had sent the cheque to claimed he had not received it, yet it had been cashed out in a Wisconsin Dells store and restaurant. Police from Mauston and Lake Delton investigated the case by questioning people of interest and by viewing the security cameras’ footage at the store.</p>

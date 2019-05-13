@@ -9,7 +9,7 @@ Group Busted for Shipping Drugs Inside Lawnmowers
     <span><a href="https://www.deepdotweb.com/2017/06/08/group-busted-shipping-drugs-inside-lawnmowers/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Investigators from the National Crime Agency (NCA) chased down a drug trafficking ring after finding a lawnmower. In 2015, the NCA intercepted a package from the Netherlands—really a crate from the Netherlands—that contained 11 packages of MDMA hidden within a lawnmower. There, an investigation began.</p>
     <p>The investigation closed in February 2016 after the NCA gathered more than enough evidence to bring forth a guilty conviction. Fast forward to May 2017; the crew received sentences as lengthy as 14 years in prison and as brief as four months at a prison camp.</p>
     <p>Neil Snazel, a defendant with one of the 14 year sentences, <a href="http://www.nationalcrimeagency.gov.uk/news/1085-jail-for-traffickers-whose-lawnmower-shipments-disguised-a-tonne-of-drugs">imported more than a literal ton of Class A and B drugs</a> in lawnmower shipments. Snazel shipped the products to Derek Maguire who kept them in a storage locker at his house. Maguire stored ecstasy, <a href="http://deepdotweb.com/tag/marijuana">cannabis</a> and ketamine. Within a four-month period of time, Snazel arranged shipment of 15 more pieces of machinery, stuffed with <a href="https://www.deepdotweb.com/tag/drug/">illegal drugs</a>.</p>

@@ -9,7 +9,7 @@ Federal Judge Orders FBI Dark Web Sting to be Kept Secret
     <span><a href="https://www.deepdotweb.com/2017/08/02/federal-judge-orders-fbi-dark-web-sting-kept-secret/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Magistrate Judge Paige Gossett ordered an FBI dark web sting to be kept confidential despite the evidence necessary to uncover the details of the investigation for a fair and transparent case.</p>
     <p><img class="wp-image-21706 aligncenter" src="/imgs/2017/08/word-image-1.png" width="566" height="307" /></p>
     <p>Earlier this month, Tyrell Fears, a graduate of Dutch Fork High School, along with two other men were arrested and charged for conspiracy to murder. Officials and investigators from the FBI suspected Fears of attempting to murder Shauna Clark, the former wife of Michael Young, who is currently serving a 50-year sentence in the SC Department of Corrections.</p>

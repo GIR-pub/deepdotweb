@@ -9,7 +9,7 @@ Homeland Security May Study Bitcoin’s Link to Terrorism
     <span><a href="https://www.deepdotweb.com/2017/06/05/homeland-security-may-study-bitcoins-link-terrorism/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In a situation similar to one <a href="https://www.deepdotweb.com/2017/04/19/europol-links-darknet-markets-terrorism/">DeepDotWeb has routinely covered</a>, a US congresswoman proposed a bill that added Bitcoin threat assessment to the Department of Homeland Security’s list of duties. Like Europol and Interpol, congresswoman Kathleen Rice requested that the DHS “investigate whether <a href="https://motherboard.vice.com/en_us/article/new-bill-asks-homeland-security-to-investigate-whether-terrorists-use-bitcoin">terrorists use virtual currencies</a>, or receive funding with them.”</p>
     <p>Rice, a ranking Democrat in the House Counterterrorism and Intelligence Subcommittee, announced that Bitcoin and other cryptocurrencies provided the level of anonymity needed by terrorist organizations. While cryptocurrencies have garnered a uniquely tarnished reputation for their roles in darknet drug marketplaces, investigative authorities never provided substantial proof to this effect.</p>
     <p><img class="wp-image-20415 aligncenter" src="/imgs/2017/06/word-image-13.jpeg" srcset="/imgs/2017/06/word-image-13.jpeg 800w, /imgs/2017/06/word-image-13-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

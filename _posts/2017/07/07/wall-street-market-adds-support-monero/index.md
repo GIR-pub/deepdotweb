@@ -9,7 +9,7 @@ Wall Street Market Adds Support for Monero
     <span><a href="https://www.deepdotweb.com/2017/07/07/wall-street-market-adds-support-monero/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On May 22, <a href="https://www.deepdotweb.com/marketplace-directory/listing/wall-street-market/">the Wall Street Market</a> technical operator said that staff were a bit busy “working on a new big feature for WSM.” And on July 6, the Wall Street Market (WSM) staff revealed that big feature: Monero implementation.</p>
     <p>Currently, Wall Street Market is the only darknet marketplace with Monero support. Both <a href="https://www.deepdotweb.com/2016/08/23/alphabay-oasis-markets-begin-accepting-monero-payments/">Alphabay and and Oasis enabled Monero</a> transactions in August. But Oasis vanished. And Alphabay went offline in early July—temporarily, according to Alphabay staff members on Reddit. Nevertheless, until Alphabay returns, WSM is the only Monero-accepting marketplace.</p>
     <p><img class="wp-image-21168 aligncenter" src="/imgs/2017/07/word-image-43.jpeg" srcset="/imgs/2017/07/word-image-43.jpeg 660w, /imgs/2017/07/word-image-43-300x136.jpeg 300w, /imgs/2017/07/word-image-43-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>

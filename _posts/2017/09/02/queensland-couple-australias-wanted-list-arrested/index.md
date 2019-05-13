@@ -18,7 +18,7 @@ Queensland couple on Australia’s most wanted list Arrested
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A couple from Queensland who is believed to be on the list of 19 most wanted criminals in Australia have been caught by the Australian police after almost a year after they were twice released on bail. The Queensland couple was allegedly involved in the selling of many illicit and deadly drugs obtained from the <a href="https://www.deepdotweb.com/2017/08/20/brussels-police-officer-busted-darknet-breach/">dark web</a>.</p>
     <p>Jonathan Grey, 41 and his wife Kathleen Grey, 46, were apprehended on Monday afternoon. The couple was first arrested in July 2016 and was charged numerous <a href="https://www.deepdotweb.com/2017/08/22/operation-tiger-13-arrested-facing-drug-charges-new-zealand/">drug offenses</a> including using the dark markets of the internet as means of selling amphetamines, heroin, and cannabis. The Gold Coast couple escaped from authorities September last year after they were granted bail by the state but were again arrested in September after allegedly planting cannabis in their Gold Coast home and selling it but were released on bail for a second time, by a Beenleigh magistrate.</p>

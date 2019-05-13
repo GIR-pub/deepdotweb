@@ -9,7 +9,7 @@ Leader of Lubbock Fentanyl Trafficking Group Sentenced
     <span><a href="https://www.deepdotweb.com/2017/06/27/leader-lubbock-fentanyl-trafficking-group-sentenced/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In June, a Lubbock man admitted his role in a fentanyl distribution conspiracy. He, alongside his co-defendant, pleaded not guilty in February this year. Sidney Caleb Lanier, the 36-year-old father of three, explained that his arrest in 2016 ultimately saved his life. Authorities said the man was set to be the <a href="http://lubbockonline.com/crime-and-courts/local-news/news/2017-06-10/lubbock-fentanyl-dealer-tells-court-arrest-saved-his">biggest fentanyl dealer in Lubbock</a>.</p>
     <p>He told the court that he could not stop and would not know how to do so, even if he could. Laneir’s attorney, Dan Hurley, explained that his client “did not know what he was doing 90 percent of the time.” He lost control at a quickening pace after he found that fentanyl provided the relief he needed following 15 surgeries as a result of a driving accident.</p>
     <p><img class="wp-image-20927 aligncenter" src="/imgs/2017/06/word-image-171.jpeg" srcset="/imgs/2017/06/word-image-171.jpeg 800w, /imgs/2017/06/word-image-171-300x169.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

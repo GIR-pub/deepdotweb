@@ -9,7 +9,7 @@ Tor: &#8216;Mystery&#8217; spike in Hidden Services Addresses
     <span><a href="https://www.deepdotweb.com/2016/02/23/tor-mystery-spike-in-hidden-services-addresses/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A recent spike in .onion services has many speculating as to what might be happening. More than 25,000 new hidden services have surfaced in the last few days; leading some to believe one thing, and others to believe another. The possibilities are vast, but there are a few likely suspects.</p>
     <p>The new anonymous <a href="https://www.deepdotweb.com/2016/02/03/into-ricochet/">chat client Ricochet</a>. In short, Ricochet stays anonymous by using the Tor network. Professor Alan Woodward of the University of Surrey is one who believes this could be a possibility. Professor Woodward thinks Ricochet is causing this by creating so many unique .onion addresses. Now you might think 25,000 new app users in a few days is highly unlikely, take this into consideration first.</p>
     <p>While TorChat already exists, it hasn’t been updated in quite some time. Also on Feb. 15<sup>th</sup>, The NCC group published a very positive security audit backing Ricochet’s claims of being anonymous. Now, think of how many people all over the world use, and keep up with Tor related technology. Now take in to consideration the amount of criminal activity that occurs over the Tor Network. While the majority of those people would be looking everywhere to find more reliable means of communication. Finally, think of Big Brother itself.</p>

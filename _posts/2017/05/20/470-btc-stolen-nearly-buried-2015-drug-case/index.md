@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/05/20/470-btc-stolen-nearly-buried-2015-drug-case/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In India, after the Ahmedabad branch of the Narcotics Control Bureau (NCB) raided a narcotics ring, investigators seized 470 bitcoins from the group’s bitcoin wallets. The raid on the group of online drug traffickers occurred in early 2015. At some point in June of the same year, an NCB investigator named Satyendra Kumar Singh “froze the accounts.” Roughly one year later, NCB authorities requested a status report on the coins and quickly realized the wallets no longer held any Bitcoin.</p>
     <p>The true “owners” of the Bitcoin landed in custody for online drug distribution. According to a senior NCB official, the suspects from the initial case—the drug dealers, not the thieving law enforcement officer—sold “banned psychotropic drugs,” specifically “anti-depressants and stimulants.” They sold through an online “platform” that law enforcement kept under wraps. And, following the pattern of many online “platform” dealers, this anti-depressant and stimulant trafficking group received payment in the form of Bitcoin.</p>
     <p>People knew the online platform as “Provizer Pharma.” An online pharmacy that sold prescription medication to customers across the world. Unlike some legitimate online pharmacy companies, Provizer Pharma never required prescriptions. Yet, somehow, <a href="https://www.documentcloud.org/documents/3422737-DEA-Investigative-Report-TDCJ.html">the State of Texas almost bought sodium thiopental from the pharmacy</a>.</p>

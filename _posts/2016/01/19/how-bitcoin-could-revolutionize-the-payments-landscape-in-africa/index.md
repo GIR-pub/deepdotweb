@@ -9,7 +9,7 @@ How Bitcoin Could Revolutionize the Payments Landscape in Africa
     <span><a href="https://www.deepdotweb.com/2016/01/19/how-bitcoin-could-revolutionize-the-payments-landscape-in-africa/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Some years ago, the electronic currency Bitcoin was only interesting for technology geeks. However, that has changed and Bitcoin has become more attractive for a wide range of investors. Especially in Africa, the electronic currency is getting attention.</p>
     <p>The poorest continent on earth is not the easiest place to transfer money electronically. Credit card penetration is low and there is an over-reliance on cash. That makes it more difficult and less safe for individuals and businesses to manage their daily operations. Some entrepreneurs say, Bitcoin could be a way to solve this problem.</p>
     <p><img class="aligncenter size-full wp-image-12971" src="/imgs/2016/01/1.png" alt="1" width="1281" height="317" srcset="/imgs/2016/01/1.png 1281w, /imgs/2016/01/1-300x74.png 300w, /imgs/2016/01/1-1024x253.png 1024w" sizes="(max-width: 1281px) 100vw, 1281px" /></p>

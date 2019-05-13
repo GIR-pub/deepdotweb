@@ -9,7 +9,7 @@ Cashing Out &#8211; What is Your Strategy?
     <span><a href="https://www.deepdotweb.com/2015/12/23/cashing-out-what-is-your-strategy/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong><em>**This is part one of a six part series on how to cash out &#8211; and keep &#8211; your money and your freedom.</em></strong></p>
     <h2>Personal Freedom and Financial Privacy is Disappearing</h2>
     <p>Governments around the developed world, desperate for assets, are using laws designed to combat terrorism to keep track of, contain, and control your money and your freedom.</p>

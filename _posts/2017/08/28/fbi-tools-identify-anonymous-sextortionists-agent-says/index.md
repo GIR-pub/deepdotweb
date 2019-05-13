@@ -18,7 +18,7 @@ FBI Has Tools to Identify Anonymous “Sextortionists,” Agent Says
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to Jay Abbott, special agent in charge of the FBI office in Indianapolis, the FBI “have tools” to identify criminals on the darknet. During an interview on “sextortion” with Indianapolis news center WIBC, Abbott explained the darknet (internet anonymity) and a the connection to extortion—in light of two recent cases. For some reason, <a href="https://www.deepdotweb.com/2017/08/11/timeline-british-model-supposedly-kidnapped-darknet-auction/">the “abduction” of Chloe Ayling</a> in Italy received a mention. The other, more relevant case, involved a California man who allegedly <a href="https://www.justice.gov/usao-sdin/pr/california-man-charged-plainfield-cyber-threat-case">used the darknet for extortion</a> and various baseless threats.</p>
     <p>Underneath the subheading titled “The Dangers of Anonymity,” WIBC conveyed Abbott’s description of anonymity. &#8220;When you use this, when you access it, you can communicate, make it practically impossible for anyone to identify your IP address,&#8221; the <a href="https://www.deepdotweb.com/tag/fbi/">FBI agent</a> explained. &#8220;If you&#8217;re a person that is trying to take advantage of a young woman and you don&#8217;t want to be identified, you might send them an e-mail over the Tor network,&#8221; said Abbott. According to WIBC, Abbot then said that the darknet could be the start of extortion. (Presumably not that the darknet causes “sextortion,” although his exact words were not in print).</p>

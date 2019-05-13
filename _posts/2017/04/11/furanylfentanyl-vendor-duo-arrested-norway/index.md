@@ -9,7 +9,7 @@ Furanylfentanyl Vendor Duo Arrested In Norway
     <span><a href="https://www.deepdotweb.com/2017/04/11/furanylfentanyl-vendor-duo-arrested-norway/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities <a href="https://www.ba.no/nyhet/politi/krim/livsfarlig-rusmiddel-i-omlop-menn-i-20-arene-pagrepet-i-bergen/s/5-8-543669">arrested</a> two young suspects in Bergen, Norway for allegedly selling the dangerous synthetic drug, furanylfentanyl, to their customers on the dark web.</p>
     <p><img class="wp-image-19130 aligncenter" src="/imgs/2017/04/https-g-acdn-no-obscura-api-dynamic-r1-ece5-tr_1.jpeg" alt="https://g.acdn.no/obscura/API/dynamic/r1/ece5/tr_1080_608_l_f/0000/berg/2017/3/27/14/BA35060.jpg?chk=C13B9A" width="686" height="386" srcset="/imgs/2017/04/https-g-acdn-no-obscura-api-dynamic-r1-ece5-tr_1.jpeg 1080w, /imgs/2017/04/https-g-acdn-no-obscura-api-dynamic-r1-ece5-tr_1-300x169.jpeg 300w, /imgs/2017/04/https-g-acdn-no-obscura-api-dynamic-r1-ece5-tr_1-1024x576.jpeg 1024w" sizes="(max-width: 686px) 100vw, 686px" /></p>
     <p>Norwegian investigators detained a 26-year-old man on February 15 for allegedly running a vendor shop on the dark web selling furanylfentanyl. Another, a 23-year-old suspect, was also indicted on drug-related charges, however, police did not place the defendant in custody.</p>

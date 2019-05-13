@@ -9,7 +9,7 @@ No AML Rules For BTC Wallet Providers In The UK
     <span><a href="https://www.deepdotweb.com/2016/05/03/no-aml-rules-btc-wallet-provieders-uk/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.coindesk.com/uk-treasury-we-wont-regulate-bitcoin-wallet-providers/">The UK Treasury</a> has said that it wont seek to impose anti money laundering rules on digital currency wallet providers in a bid to avoid overbuilding those services.</p>
     <p><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/517992/6-2118-Action_Plan_for_Anti-Money_Laundering__web_.pdf">Remarks were issued last week in a report</a> that detailed the UK governments pans to tackle money laundering and terrorist financing risks more broadly. According to the report, the UK Treasury has plans to bring digital currency exchange firms into anti money laundering regulation, reinforcing plans first announced last year.</p>
     <p>An outstanding question at that time related to whether these rules would extend to wallet services that do not offer fiat to digital exchange functionality. According to the new report, these companies will not have to face those kinds of requirements.</p>

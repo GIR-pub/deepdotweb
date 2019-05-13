@@ -17,7 +17,7 @@ Bitcoin News Round Up June 4 2016
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The week’s summary of various cryptocurrency news and developments.</p>
     <p><strong>NEW DEVELOPMENTS:</strong></p>

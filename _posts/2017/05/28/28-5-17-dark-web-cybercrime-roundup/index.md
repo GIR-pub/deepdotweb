@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/05/28/28-5-17-dark-web-cybercrime-roundup/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>DEA Says Four Recent Vendor Busts are Connected</strong></p>
     <p>The DoJ announced that four separate darknet opioid cases were connected. The vendors: <a href="https://www.deepdotweb.com/2016/11/05/darknet-vendor-confessed-selling-heroin-fentanyl-multiple-dnms/">OwlCity</a>​, DigitalPossi2014, <a href="https://www.deepdotweb.com/2017/05/25/dea-busts-mystery-mix-alphabay-vendor/">ustous</a>, and Polira. The cases, aside from the drugs involved and darknet markets in general, looked unrelated. The DoJ said very little and left out much needed details. An undercover federal investigation into U-47 vendors? <a href="https://www.deepdotweb.com/2017/05/26/dea-says-four-recent-vendor-busts-connected/">DeepDotWeb</a></p>
     <p><strong>Continued: Grand Jury Indicts U-47 Vendor “PeterTheGreat”</strong></p>

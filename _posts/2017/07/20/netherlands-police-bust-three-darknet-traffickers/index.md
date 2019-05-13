@@ -9,7 +9,7 @@ Netherlands Police Bust Three Darknet Traffickers
     <span><a href="https://www.deepdotweb.com/2017/07/20/netherlands-police-bust-three-darknet-traffickers/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In early July, the National Police in North Holland raided eight locations in Amsterdam, Amstelveen, and Zandvoort. The searches were part of a January investigation into <a href="https://www.deepdotweb.com/tag/darknet/">darknet</a> vendors from the area. Police captured three suspects in their homes; the other locations contained drugs, firearms, cash, and manufacturing materials.<img class="wp-image-21448 aligncenter" src="/imgs/2017/07/word-image-109.jpeg" srcset="/imgs/2017/07/word-image-109.jpeg 660w, /imgs/2017/07/word-image-109-300x136.jpeg 300w, /imgs/2017/07/word-image-109-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>The police explained that in September 2016, the Specialized Post / Parcel Intervention Team (P2it) intercepted six drug packages. The interceptions continued through the end of 2016. Then, on January 2, National Office of the Public Prosecutor granted law enforcement the ability to open parcels that had been shipped by the suspected drug traffickers.</p>
     <p><img class="wp-image-21449 aligncenter" src="/imgs/2017/07/word-image-110.jpeg" srcset="/imgs/2017/07/word-image-110.jpeg 800w, /imgs/2017/07/word-image-110-300x169.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

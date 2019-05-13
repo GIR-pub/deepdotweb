@@ -17,7 +17,7 @@ Public Thinks Bitcoin is Mainly for Darknet Use, Study Shows
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>YouGov, an international market research company, conducted a <a href="https://www.deepdotweb.com/tag/bitcoin">study on Bitcoin</a> and Ethereum. The findings, the company said, in spite of the growing popularity of both currencies, indicated several findings that some may find surprising.</p>
     <p>YouGov researches nearly everything. “Domino&#8217;s trails behind rival Pizza Hut in quality perception,” one of the company&#8217;s tweets reads. Another tweet points out that “53% of US adults prefer hearing the bad news before hearing the good news.” One of the more recent tweets, though, mentioned the legality of Bitcoin. “29% of US adults think Bitcoin and Ether are mostly used for illegal dark web transactions,” <a href="https://twitter.com/YouGovUS">the tweet conveyed</a>.</p>

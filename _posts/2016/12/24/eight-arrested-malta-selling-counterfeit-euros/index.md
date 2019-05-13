@@ -9,7 +9,7 @@ Eight Arrested In Malta For Selling Counterfeit Euros
     <span><a href="https://www.deepdotweb.com/2016/12/24/eight-arrested-malta-selling-counterfeit-euros/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The financial division of Europol and Maltese law enforcement authorities <a href="https://criptonoticias.com/sucesos/ocho-detenidos-europol-vender-euros-falsos-bitcoins/#axzz4SZyQmStF">arrested</a> eight suspects who are believed to be selling <a href="https://www.deepdotweb.com/tag/counterfeit/">counterfeit</a> euros on the dark web. Officials say the gang was among the biggest euro counterfeiters on the dark net.</p>
     <p>Only eight people have been arrested by authorities, however, police claim they are a bigger part of a large international organization. The leader of the gang is among the detained suspects. According to law enforcement authorities, hundreds of members have been identified as part of the counterfeiter network in the course of the investigation. Police discovered that the leader of the organization has accomplices in the city of Naples, an area believed to have strong connections to mob activity.</p>
     <p>The investigation revealed that the vendor sold counterfeit euro banknotes of 20, 50 and 100 on the dark web for 30% of the original value. All transactions were conducted in bitcoins. The estimated income of the gang is believed to be around 160,000 euros in cryptocurrencies, which was sold to an exchange house in Malta.</p>

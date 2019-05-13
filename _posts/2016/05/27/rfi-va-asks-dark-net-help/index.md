@@ -9,7 +9,7 @@ Request for Info from the Veterans Affairs Asks for Dark Net Help
     <span><a href="https://www.deepdotweb.com/2016/05/27/rfi-va-asks-dark-net-help/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <div class="wp-socializer-buttons clearfix">
     <span class="wpsr-btn">
     

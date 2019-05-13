@@ -17,7 +17,7 @@ Report: Cyber Attacks At An All-time High
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The San Jose headquartered cyber security company ThreatMetrix <a href="http://markets.businessinsider.com/news/stocks/Global-Cybercrime-Levels-Reach-All-Time-High-with-a-45-Percent-Rise-in-Attacks-for-the-Asia-Pacific-Region-Reveals-ThreatMetrix-Report-1002267756">released</a> its report for the second quarter of 2017. The study showed that cyber attacks reached their highest-ever levels.</p>
     <p>According to ThreatMetrix’s study, the cyber security detected 144 million attacks in the last 90 days, which is an all-time high. The level and the rate of attacks are rising globally with the Asia Pacific region experiencing a yearly growth of 45 percent in cybercrime. ThreatMetrix researchers emphasized that the hackers are “increasingly targeting emerging digital business models”, including ridesharing apps and media streaming organizations.</p>

@@ -10,7 +10,7 @@ New UK Code Seeks Tighter Security on Ships against Cyber Attacks
     <span><a href="https://www.deepdotweb.com/2017/09/29/new-uk-code-seeks-tighter-security-ships-cyber-attacks/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A new code of practice has been launched by the UK government aimed at helping ship owners improve and tighten security. This decision came as a result of the growing threat that <a href="https://www.deepdotweb.com/2017/09/11/9-9-17-dark-web-cybercrime-roundup/">cybercrime</a> poses as it continues to spread and this time around to a much more bewildering place, the shipping sector.</p>
     <p>The term ‘cybercrime’ to most people, just gives a mental story of <a href="https://www.deepdotweb.com/2015/11/19/hackers-carrying-out-largest-theft-of-customer-data-in-us-history-facing-prison/">data theft</a>, hacking of firms, database, networks, accounts amongst many others. But the level of which cybercrime has reached, the possibility of hackers trying to hack or take control of huge machines in our physical world shouldn’t be overlooked.</p>
     <p>Transportation assets such as cars, planes, ships at sea, as well as, trains are all likely targets of cybercrime.</p>

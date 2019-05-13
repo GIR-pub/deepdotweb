@@ -9,7 +9,7 @@ Alphabay Counterfeit Vendor “VIB” Busted in Austria
     <span><a href="https://www.deepdotweb.com/2017/12/18/alphabay-counterfeit-vendor-vib-busted-in-austria/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>At the Vienna Regional Criminal Court, an entire “<a href="http://www.oe24.at/oesterreich/chronik/wien/Falschgeld-Bande-im-Gemeindebau/311295075">counterfeiting gang</a>” received sentences for producing counterfeit Euro notes and selling them on <a href="https://www.deepdotweb.com/tag/alphabay">Alphabay</a>. According to the court, the four members of the so-called “counterfeiting gang” had set up a workshop at a residence in the Landstraße district. The group of Austrians received different sentences based on the roles they played in the conspiracy.</p>
     <p>The leader, was a 25-year-old Austrian family man who turned to counterfeiting after he found himself unable to provide for his family. According to the man&#8217;s lawyer, the family man somehow landed 150,000 Euros in debt. The 25-year-old found a guide on Google that explained the steps needed to produce fake banknotes. &#8220;It was &#8211; stupidly speaking &#8211; relatively easy,&#8221; he told the court.</p>
     <p>He then got help from a homeless 25-year-old he had “grown up with,” he told the court. He had shown his friend two 50 notes. One was real and one was fake. The friend could not tell the difference between the two, he said. The friend told the court he had no idea how his friend had been unemployed yet shopped as if he had excess money. They decided to do business together and included a third friend. The third friend, a 23-year-old, had a residence in Landstraße.</p>

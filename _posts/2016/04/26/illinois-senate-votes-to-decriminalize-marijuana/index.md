@@ -9,7 +9,7 @@ Illinois Senate Votes To Decriminalize Marijuana
     <span><a href="https://www.deepdotweb.com/2016/04/26/illinois-senate-votes-to-decriminalize-marijuana/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On Tuesday, one day before April 20, the Illinois Senate <a href="http://www.ilga.gov/legislation/votehistory/99/senate/09900SB2228_04192016_003000T.pdf">passed</a> <a href="http://www.ilga.gov/legislation/billstatus.asp?DocNum=2228&amp;GAID=13&amp;GA=99&amp;DocTypeID=SB&amp;LegID=93232&amp;SessionID=88">SB2228</a>, a marijuana decriminalization bill, in a 40-14 vote. The bill is now in the House of Representatives and if it is passed there and signed into law by the Governor, Illinois will join the 20 other states where marijuana is decriminalized.</p>
     <p>In regards to the bill, one of the its sponsors, Heather Steans, told Illinois public radio station, WUIS, “<em>Right now many municipalities across Illinois already do it this way, through a civil offense, This is now just saying nowhere can somebody be charged criminally for possession of small amounts of marijuana.”</em></p>
     <p>Under the proposed legislation, possession of 10 grams or less of marijuana will only be met with a fine up to $200. Last year&#8217;s proposal set 15 grams as the limit with a fine up to $125 but was shot down by the Governor because it was perceived to be too lax. This year&#8217;s proposal isn&#8217;t too bad when compared to current Illinois law where 10 grams would land you 6 months in jail and/or a fine up to $1500.</p>

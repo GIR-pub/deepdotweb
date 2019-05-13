@@ -9,7 +9,7 @@ Can the Blockchain Technology Revive The Contemporary Art Market?
     <span><a href="https://www.deepdotweb.com/2017/01/11/can-blockchain-technology-revive-contemporary-art-market/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Contemporary art can create means to investigate the impacts of financial logic across the socio-cultural continuum. Throughout this article, we&#8217;ll take a look at how we can utilize the blockchain technology to benefit and catalyze the evolution of contemporary art.</p>
     <p>Contemporary art can be used as a parameter for analyzing finance&#8217;s cultural logic due to the fact that it outlines the conflicts existing between price and value, in view of the intimate relationship that bridges between automation and the creative efforts that mark artistic production. Although automation is dependent on innovative computational models and various financial metrics, creative efforts rely on the raw material, semiotic and relational circumstances that comprise the worth of an art piece. Consequently, the value of contemporary art is highly determined by the logic deployed by financial power, which correlates cultural and social dynamics to automated pricing techniques.</p>
     <p><img class="wp-image-17444 aligncenter" src="/imgs/2017/01/contemporary-jpg.jpeg" alt="contemporary.jpg" srcset="/imgs/2017/01/contemporary-jpg.jpeg 500w, /imgs/2017/01/contemporary-jpg-300x212.jpeg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>

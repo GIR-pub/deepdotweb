@@ -17,7 +17,7 @@ Finland’s A-Clinic Foundation Aims to Help Dark Net Harm Reduction
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The drug trade in Finland has moved online in a large way.  One addiction charity plans to update its way of operating by mimicking the same fashion as the online drug markets.</p>
     <p><a href="http://yle.fi/uutiset/drugs_charity_to_provide_support_via_the_dark_web/9052274">A-Clinic Foundation of Finland</a> is bringing they’re addiction support and prevention efforts to the Tor Network. The launch date of two-years is aimed to reduce drug harm through anonymous and confidential e-services which include a wide database of substances that are being sold online.</p>

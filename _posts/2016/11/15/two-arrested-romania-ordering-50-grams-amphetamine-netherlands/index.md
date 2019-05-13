@@ -9,7 +9,7 @@ Two Arrested in Romania for Ordering 50 Grams of Amphetamine from the Netherland
     <span><a href="https://www.deepdotweb.com/2016/11/15/two-arrested-romania-ordering-50-grams-amphetamine-netherlands/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Romania’s Directorate for Investigating Organized Crime and Terrorism (DIICOT) arrested two men on November 3 for drug trafficking and international drug trafficking. DIICOT’s Bacau Territorial Service announced the arrest on the official press release site on November 7.</p>
     <p>DIICOT Investigators believed the two men ordered a package from the Netherlands in late September using the internet. From the press release:</p>
     <p>There is reasonable suspicion that in September 2016 the defendants Serban Marius and Rachiteanu Eusebius-Gabriel initiated steps to acquire high-risk drugs. In this case they accessed networks to track down and get in touch with a provider of amphetamine abroad, in clandestine conditions.</p>

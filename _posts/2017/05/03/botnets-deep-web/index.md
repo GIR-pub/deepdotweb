@@ -9,7 +9,7 @@ Botnets and the Deep Web
     <span><a href="https://www.deepdotweb.com/2017/05/03/botnets-deep-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A bot is a special form of malware that is considered one of today&#8217;s most sophisticated tools of cybercrime. They enable hackers to control a large number of computers simultaneously, and turn them into an army of &#8220;zombie&#8221; machines, that operate collectively as a powerful &#8220;botnet&#8221; to create spam, and commit various forms of malicious activities.</p>
     <p><strong>What is a botnet?</strong></p>
     <p>A botnet is usually comprised of a large number of infected victim machines located across various parts of the globe. Given the fact that botnet infected machines will perform the computational operations ordered by its master, these victim machines are sometimes referred to as &#8220;zombies&#8221;. The hacker that controls these botnets is known as a botmaster or a botherder.</p>

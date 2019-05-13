@@ -18,7 +18,7 @@ Charge Sheets to Be Filed On the Hyderabad Darknet Related Drug Bust
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The progress of the Hyderabad drug bust has been impressive and effective so far. The Telangana&#8217;s Prohibition and Excise department arrested 22 people accused of peddling high-end designer and recreational drugs from the deep of the internet called the Darknet.</p>
     <p>The investigation into the arrest has been a smooth one, and the recent news reaching us is that a <a href="http://www.deccanherald.com/content/628690/charge-sheets-hyderabad-drug-racket.html">charge sheet will be filed</a> from next month. This will be another stage of the Hyderabad drug bust which has brought around 100 people into the investigation.</p>

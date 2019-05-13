@@ -9,7 +9,7 @@ Bitcoin price Analysis 6 January 2016
     <span><a href="https://www.deepdotweb.com/2016/01/06/bitcoin-price-analysis-6-january-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="/imgs/2016/01/1.jpg"><img class="aligncenter size-full wp-image-12858" src="/imgs/2016/01/1.jpg" alt="1" width="1612" height="940" srcset="/imgs/2016/01/1.jpg 1612w, /imgs/2016/01/1-300x175.jpg 300w, /imgs/2016/01/1-1024x597.jpg 1024w" sizes="(max-width: 1612px) 100vw, 1612px"/></a></p>
     <p>These last 2 weeks of bitcoin have been a contracting triangle pattern &#8211; flat top with a rising bottom (an ascending triangle wave pattern). Price bounced at a support at $ 406, and it has been grinding sideways since December 27th. It is part of a larger bearish drop from $ 464. I expect sideways action to break out to the downside, and is only a consolidation after an impulsive drop from $ 455 to $ 406</p>
     <p><a href="/imgs/2016/01/2.jpg"><img class="aligncenter size-full wp-image-12859" src="/imgs/2016/01/2.jpg" alt="2" width="1628" height="738" srcset="/imgs/2016/01/2.jpg 1628w, /imgs/2016/01/2-300x136.jpg 300w, /imgs/2016/01/2-1024x464.jpg 1024w" sizes="(max-width: 1628px) 100vw, 1628px"/></a></p>

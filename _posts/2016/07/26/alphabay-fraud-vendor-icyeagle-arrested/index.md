@@ -9,7 +9,7 @@ Alphabay Fraud Vendor IcyEagle Arrested
     <span><a href="https://www.deepdotweb.com/2016/07/26/alphabay-fraud-vendor-icyeagle-arrested/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Aaron James Glende, 35, of Winona, AKA “IcyEagle” <a href="https://www.justice.gov/usao-ndga/pr/icyeagle-dark-web-vendor-stolen-information-charged-atlanta">was arrested</a> by the FBI in Atlanta and was charged with bank fraud, access device fraud, and aggravated identity theft. The indictment says that Glende was selling fraud related products on Alphabay, a marketplace on the dark net. U. S. Attorney John Horn said this in a statement about the suspect:</p>
     <p>“Glende allegedly sold stolen bank account information on a website designed to traffic criminal goods and services, including weapons, stolen credit cards, and illegal narcotics. As cyber criminals increasingly trade financial information for cash, citizens must be vigilant with their account information.”</p>
     <p>“The threat posed by cyber criminals is a persistently increasing problem for everyday citizens here in the U.S. and abroad. This investigation and resulting arrest clearly illustrates that the FBI, however, will not cease in its effort to identify, locate, arrest and seek prosecution of these criminals regardless of how deep in the digital underground they reside,” added J. Britt Johnson, Special Agent in Charge from the FBI’s Atlanta Field Office.</p>

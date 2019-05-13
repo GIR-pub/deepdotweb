@@ -17,7 +17,7 @@ Darknet Vendors Behind “FinestDrugsDE” Facing 15 Years in Prison
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>In November 2016, police raided numerous apartments in Thuringia, Germany. During the raids, law enforcement made discoveries that they called the <a href="http://www.focus.de/politik/deutschland/meiningen-prozess-beginnt-drogen-im-darknet-verkauft-dealern-drohen-15-jahre-haft_id_7471173.html">biggest blow against online drug trafficking</a>, at the time. They found notebooks of recorded data, phones, hard drives, kilograms of drugs, and two suspects: 31-year-old Philipp H. and 19-year-old Stefanie W. Those two suspects <a href="https://www.google.com/amp/s/www.deepdotweb.com/2017/05/11/darknet-vendor-faces-many-years-3700-sales/amp/">now face 15 years in prison</a> for selling drugs on the Dream darknet market, among other crimes.<img class="wp-image-22252 aligncenter" src="/imgs/2017/08/r4kr8bgv-png.png" alt="r4kr8bgv.png" srcset="/imgs/2017/08/r4kr8bgv-png.png 720w, /imgs/2017/08/r4kr8bgv-png-300x96.png 300w" sizes="(max-width: 720px) 100vw, 720px" /></p>
     <p>Authorities first investigated three suspects. In addition to the the romantically involved duo, police investigated Philip’s 51-year-old father. No public statement—or at least on the police’s website—mentioned a dropped car against the father, but the suspect count had dropped to two and then stayed that way. Although a third entity may have had some participation, the prosecution claims that the duo sold 17 types of drugs on both the <a href="https://www.deepdotweb.com/marketplace-directory/listing/dream-market">Dream market</a> and a clearnet shop called “finestdrugs[dot]to.”</p>

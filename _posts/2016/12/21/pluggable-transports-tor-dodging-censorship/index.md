@@ -9,7 +9,7 @@ Pluggable Transports for Tor: Dodging Censorship
     <span><a href="https://www.deepdotweb.com/2016/12/21/pluggable-transports-tor-dodging-censorship/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Are you able to freely use Tor in your country? In that case, you’re one of the fortunate ones . If it’s merely a case where Tor is blocked by your ISP, there are easier solutions.</p>
     <p>You may already be familiar with Tor bridge relays, which the Tor project describes in detail at <a href="https://www.torproject.org/docs/bridges.html.en">Tor: bridges</a>. However, if you live in a country where the internet is heavily censored (e.g. North Korea or Burma), some of them use deep packet inspection (DPI) to filter internet traffic flows, even if they use alternate IP addresses.</p>
     <p>This is where pluggable transports (PTs) come in.</p>

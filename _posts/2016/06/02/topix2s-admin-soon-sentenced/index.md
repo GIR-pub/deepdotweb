@@ -17,7 +17,7 @@ Topix2&#8217;s Admin Soon to be Sentenced
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>26-year-old David Trail of Scotland plead guilty to supplying Diazepam and hacking credit card details. In what the Scottish authorities are calling a landmark conviction, the IT specialist was convicted 18 months after his home was raided as part of an international bust on &#8216;illicit internet traders&#8217; which was coordinated by German, English, and Scottish police, as well as the United States FBI.<br />
     Trail was the <a href="https://www.deepdotweb.com/marketplace-directory/listing/topix-2/">admin at Topix2</a>, which the courts described as a form of eBay for criminals.</p>

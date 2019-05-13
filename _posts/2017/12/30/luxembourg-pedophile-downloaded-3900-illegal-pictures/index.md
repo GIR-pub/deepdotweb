@@ -9,7 +9,7 @@ Luxembourg Pedophile Downloaded 3,900 Illegal Pictures
     <span><a href="https://www.deepdotweb.com/2017/12/30/luxembourg-pedophile-downloaded-3900-illegal-pictures/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On December 13, a Luxembourg court <a href="http://5minutes.rtl.lu/grande-region/luxembourg/1107822.html">convicted a 33-year-old man</a> of possession of child pornography and for distribution of child pornography. He had downloaded the illegal pictures and videos from sources on both the clearnet and <a href="https://www.deepdotweb.com/tag/darknet/">darknet</a> while going through a so-called “depressive” phase. The investigators focused on episodes in 2012, 2013, and 2015.</p>
     <p>At a previous hearing, the lead detective who had worked on the case explained that authorities in Germany made the initial discovery that led to the arrest of the 33-year-old. German police reached out and informed Luxembourg authorities that an IP address in Lamadeleine had accessed and downloaded a video containing child pornography. The address had accessed the video at some point in September 2014. The investigator did not reveal when the German police had alerted Luxembourg police of the IP address.</p>
     <p>Luxembourg police traced the IP address back to a house in Lamadeleine. The house belonged to the defendant. During and after the house search, the then-suspect fully cooperated with police. He even admitted that he had downloaded the video that the German police had identified. He admitted that he had additional child pornography on his computer. He said that he could not stop watching it and that it “acted on him like dope.”</p>

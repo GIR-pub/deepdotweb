@@ -9,7 +9,7 @@ Bitcoin news roundup, June 25, 2017
     <span><a href="https://www.deepdotweb.com/2017/06/25/bitcoin-news-roundup-june-25-2017/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>SegWit2x, a bitcoin scaling proposal, has been signaled by over 80% of the bitcoin network</strong></p>

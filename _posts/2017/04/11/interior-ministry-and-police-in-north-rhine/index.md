@@ -9,7 +9,7 @@ Interior Ministry And Police In North Rhine-Westphalia Turn Major Focus On Cyber
     <span><a href="https://www.deepdotweb.com/2017/04/11/interior-ministry-and-police-in-north-rhine/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>As cyberattacks are on the rise and hackers are becoming more and more sophisticated, the Interior Ministry and the police in North Rhine-Westphalia (NRW), Germany <a href="http://www.presseportal.de/blaulicht/pm/56636/3596162">work together</a> to establish a strong defense against <a href="https://www.deepdotweb.com/tag/cybercrime/">cybercriminals</a>. Authorities in the German state identified the worldwide problem, which causes losses of billions of dollars to governments, companies, and individuals per year.</p>
     <p>&#8220;This is why we have continued the work with the NRW police in the Cybercrime area,&#8221; Interior Minister Ralf Jäger said. &#8220;In addition, the organizational structure is streamlined and the highly specialized investigators are becoming more powerful.”</p>
     <p>According to the interior minister, the ministry hired 36 IT experts who will strengthen the cyber competence center at the state criminal authority with their expertise and techniques. Jäger added that each of the 16 Crime Centers across the country opens an additional position for IT professionals.</p>

@@ -9,7 +9,7 @@ FBI tells How It Hacked The IPhone
     <span><a href="https://www.deepdotweb.com/2016/04/08/fbi-tells-hacked-iphone/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Recently, The FBI has been keeping how it managed to break into an IPhone used by Syed Farook; one of the terrorists responsible for the attack in San Bernardino, California. But now the FBI has been telling its secret to some of the members of Congress.</p>
     <p><a href="http://www.cnet.com/news/fbi-spills-iphone-hacking-secret-to-senators/">The Feds have started briefing</a> some US Senators about how they accessed the data stored on Farooks IPhone 5C. This phone has been at the center of the clash between Apple and the FBI, and has sparked a bigger, general debate over online privacy and security.</p>
     <p>Sen. Dianne Feinstein(D-Calif.) had been briefed by the FBI on how it got into the IPhone, a representative from her office confirmed to CNET, though he declined to give any details about the briefing. Feinstein is Vice Chairman of the Senate Select Committee on Intelligence and one of the backers for a bill that will make sure the government can access encrypted data.</p>

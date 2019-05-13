@@ -9,7 +9,7 @@ Long Road for the Email Privacy Bill as Its Delayed Again
     <span><a href="https://www.deepdotweb.com/2016/06/20/looks-like-going-long-road-email-privacy-bill-delayed/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Senators Mike Lee and Patrick Leahy asked that the email privacy bill be pulled from the Judiciary Committee’s agenda Thursday. This makes it look like it will be a bumpy road for this bill, as it’s markup was already delayed a week prior to this. <a href="http://thehill.com/policy/technology/overnights/282964-overnight-tech-email-privacy-delay-domain-transition-approval"> This bill is an amendment</a> from John Cornyn the Senates Majority Whip that if passed, would allow the FBI the ability to use National Security Letters to obtain information from tech companies without a warrant. Lee made it clear that he is unlikely to change his opposition on this measure.</p>
     <p>“Unfortunately, some Senators on the committee have decided late in the day that this bill should be a vehicle to move an unrelated and controversial expansion of the use of national security letters by the FBI. Such an expansion would swallow up the protections this bill offers to the American people. While there are other concerns we had hoped to negotiate, the national security letter amendment is something I cannot in good conscience have attached to this bill,” Senator Lee stated.</p>
     <p>“I think if we ca get it to the bipartisan it passes,” Leahy said.</p>

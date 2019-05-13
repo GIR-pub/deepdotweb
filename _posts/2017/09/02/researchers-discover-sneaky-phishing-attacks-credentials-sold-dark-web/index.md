@@ -18,7 +18,7 @@ Researchers Discover Sneaky Phishing Attacks on Credentials, Sold on Dark Web
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A new type of PDF phishing attack has emerged, with analysts claiming that the attack originated from Western Africa based on the IP addresses evaluated during previous investigations. The attack embeds phishing URLs to the attached PDF that redirect users to a phishing platform that steal user credentials.</p>
     <p><img class="wp-image-22322 aligncenter" src="/imgs/2017/09/rsz_20444222428_f367c34dd1_b-jpg.jpeg" alt="rsz_20444222428_f367c34dd1_b.jpg" srcset="/imgs/2017/09/rsz_20444222428_f367c34dd1_b-jpg.jpeg 660w, /imgs/2017/09/rsz_20444222428_f367c34dd1_b-jpg-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

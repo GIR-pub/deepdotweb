@@ -9,7 +9,7 @@ Belgian Amphetamine Vendor Arrested Due to Insufficient Postage on His Packages
     <span><a href="https://www.deepdotweb.com/2016/11/04/belgian-amphetamine-vendor-arrested-due-to-insufficient-postage-on-his-packages/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In Belgium, <a href="https://www.deepdotweb.com/2016/11/01/dark-net-vendor-torhout-arrested/">a 25-year-old programmer was arrested for distributing amphetamines via darknet marketplaces</a>. The accused, along with three accomplices, fell under the investigation due to lack of sufficient postage on a package. <a href="https://www.deepdotweb.com/2016/05/17/dark-web-vendor-chemical-love-busted-50-kg-drugs-seized/">Like the famed Chemical Love</a>, the recently arrested programmer shipped packages with local businesses listed as the return address.</p>
     <p>The accused programmer, Stijn Victor, operated his business while still living at his family home in Torhout. This, according to the prosecutor, is a reason Victor used local businesses as return addresses. The 25-year-old’s parents were unable to check the mail and discover returned packages.</p>
     <p>Insufficient postage on at least six packages resulted in each one being returned to sender. The return address on these six packages was that of a local computer shop called “Exellent.” The owner, Jos Denolf, told a local news agency that he <a href="http://www.nieuwsblad.be/cnt/dmf20161025_02539497">opened the first package</a> and was shocked by the contents. He immediately reported the package to law enforcement.</p>

@@ -9,7 +9,7 @@ Maryland Resident Receives 60-Year Sentence For Releasing Child Porn in Dark Web
     <span><a href="https://www.deepdotweb.com/2017/01/27/maryland-resident-receives-60-year-sentence-releasing-child-porn-dark-web/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Christopher Michael Salisbury, a 38-year-old <a href="https://www.deepdotweb.com/2016/02/25/maryland-bill-to-decriminalize-drugs/">Maryland</a> resident, received a 60-year prison sentence for abusing young girls from ages 4 to 13.</p>
     <p>The Maryland US Attorney’s Office revealed that Salisbury proceeded to videotape the sexual harassment of at least two underaged girls and distributed the compilation footage in the dark web.</p>
     <p>Maryland US Attorney Rod Rosenstein described the actions of Salisbury as “horrendous,” mostly due to the fact that the sexual harassment of young girls went on for an extended period.</p>

@@ -9,7 +9,7 @@ Liechtenstein Bank in the Limelight over Money Channeled by a Darknet Millionair
     <span><a href="https://www.deepdotweb.com/2019/03/11/liechtenstein-bank-in-the-limelight-over-money-channeled-by-a-darknet-millionaire-in-alpha-bay-investigation/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A Liechtenstein Bank is in the limelight after investigation and evidence in public records of the District Court of Southern District of Californian indicated that Bank Alpinum allowed a dark web criminal to transfer of millions of francs.</p>
     <p>The US Department of Justice launched a fight against dark web criminals two years ago, which was successful. In a well-coordinated joint investigation by Europol and six other different states, several illegal dark web trading forums, including the largest platform, Alpha Bay, were shut down.</p>
     <p>The operation led to the <a href="http://https://www.deepdotweb.com/2018/09/07/canadian-man-accused-of-selling-fentanyl-on-alphabay-and-dream/">arrest of dark web vendors</a> including one Alexandre Cazes, a Canadian who had sought refuge in Thailand and thought himself as safe there. He was arrested in the Southeast Asian country as the Thai police confiscated most of his assets, including expensive vehicles and real-estate investments in Granada, Cyprus, and Antigua. At the time, he had over ten bank accounts in Thailand and several offshore accounts with the Grenadines, St. Vincent and Loyal Bank which had already stopped and rejected him as a customer. However, the Bank Alpinum in Vaduz continued to transact with him as a good customer.</p>

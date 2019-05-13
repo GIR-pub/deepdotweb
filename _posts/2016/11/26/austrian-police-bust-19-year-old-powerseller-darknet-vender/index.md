@@ -9,7 +9,7 @@ Austrian Police Bust a 19-Year-Old “Powerseller” Darknet Vender
     <span><a href="https://www.deepdotweb.com/2016/11/26/austrian-police-bust-19-year-old-powerseller-darknet-vender/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to the National Police Directorate (LPD), a 19-year-old student was arrested for being a “powerseller” on the darknet. The investigation, according to the police, took more than 20 months. Since April 18, 2015, the “pharmacist” made at least 1,800 sales, investigators wrote.</p>
     <p>The National Criminal Police in Vienna (LKA) was notified by the LPD that this so-called <a href="http://derstandard.at/2000047728477/19-Jaehriger-Pharmaziestudent-verkaufte-Drogen-im-Darknet">“powerseller” was operating out of Vienna</a>. Little information, at the start of the investigation, little was known about the student. <a href="http://www.vienna.at/suchtmittel-im-darknet-verkauft-powerseller-in-meidling-festgenommen/5017434">He was called a pharmacist—a student of drugs</a>. But whether he was truly working in a pharmacy or even studying to become a pharmacist was not made known.</p>
     <p><img class="wp-image-16603 aligncenter" src="/imgs/2016/11/1390280_3_p51711-foto2-jpg-1.jpeg" alt="1390280_3_p51711-Foto2.jpg" srcset="/imgs/2016/11/1390280_3_p51711-foto2-jpg-1.jpeg 1000w, /imgs/2016/11/1390280_3_p51711-foto2-jpg-1-300x169.jpeg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>

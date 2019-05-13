@@ -17,7 +17,7 @@ A New Model For Incentivizing Producers of Renewable Energy Via Ethereum&#8217;s
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><a href="https://poseidon01.ssrn.com/delivery.php?ID=37409601300109711312311408606812306910107301002806102510008302502901209208502801200003203003300811111100702411601309312000211404405703700604708500702109507900809109403105107312310708909309308111607600206811912511">A group of researchers published a paper</a> to help the US State Public Utilities Commissions (PUC) establish an inexpensive framework that enables them to create a unique system for rewarding producers of renewable energy via &#8220;Renewable Energy Credits&#8221; REC in the form of a cryptocurrency released on <a href="https://www.deepdotweb.com/2014/08/18/ethereum-making-entire-world-trustless/">Ethereum&#8217;s blockchain</a>. The standards proposed by the researchers reward Renewable Energy Producers QP with REC that is equal to the amount of electrical energy produced from renewable sources including solar, geothermal and wind.</p>
     <p><img class="wp-image-17253 aligncenter" src="/imgs/2016/12/renewable-jpg.jpeg" alt="renewable.jpg" srcset="/imgs/2016/12/renewable-jpg.jpeg 398w, /imgs/2016/12/renewable-jpg-300x241.jpeg 300w" sizes="(max-width: 398px) 100vw, 398px" /></p>

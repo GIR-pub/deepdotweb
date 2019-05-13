@@ -17,7 +17,7 @@ Interview: Monero&#8217;s fluffypony talks about current developments and the fu
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Anyone currently having a closer look into the world of cryptocurrencies, would have likely stumbled across <a href="https://getmonero.org/home">Monero</a>, a privacy focused cryptocoin that is gaining a lot of traction right now. We travel to Plettenberg Bay, South Africa to have lunch (and of course beer) with <a href="https://twitter.com/fluffyponyza">fluffypony</a>, one of Monero&#8217;s core team members. The topic of our discussion was Monero&#8217;s current developments and the future of cryptocurrency. For a better overview the interview is split into the following seven sections.</p>
     <ul>

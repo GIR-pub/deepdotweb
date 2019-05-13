@@ -9,7 +9,7 @@ German Standing Trial For Ordering Three Guns From The Dark Web
     <span><a href="https://www.deepdotweb.com/2017/04/22/german-standing-trial-ordering-three-guns-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A man from Neuburg-Schrobenhausen, Germany is <a href="http://www.augsburger-allgemeine.de/aichach/Waffendeal-auf-Supermarkt-Parkplatz-25-Jaehriger-vor-Gericht-id41097951.html">standing trial</a> for attempted purchase of three Glock guns from the dark web, along with growing and possessing large amounts of <a href="https://www.deepdotweb.com/2017/02/11/teenager-spends-18k-marijuana-darknet-markets-gets-sentenced-community-service/">marijuana</a>.</p>
     <p><img class="wp-image-19333 aligncenter" src="/imgs/2017/04/word-image-28.jpeg" srcset="/imgs/2017/04/word-image-28.jpeg 572w, /imgs/2017/04/word-image-28-300x169.jpeg 300w" sizes="(max-width: 572px) 100vw, 572px" /></p>
     <p>“On a late summer afternoon last year. A man is sitting in a supermarket cafe. He&#8217;s waiting. A little later a young guy appears. He raises his hand briefly, reveals himself. The two talk, then they go to a car in the parking lot. The luggage compartment is opened. The older of the two takes something from a bag. The young man checks the item and then takes three bundles of money from his pocket. It is 10,400 euros,” an author of the German news outlet augsburger-allgemeine.de described the <a href="https://www.deepdotweb.com/2017/03/29/weapon-vendor-sold-gun-munich-shooter-formally-charged/">weapons</a> deal the 25-year-old suspect allegedly conducted.</p>

@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/04/04/15-west-african-countries-join-convention-cybercrime/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>15 West African countries are <a href="http://beninmondeinfos.com/index.php/monde/33-afrique/6204-afrique-lutte-contre-la-cybercriminalite-les-magistrats-ouest-africains-se-mettent-au-senegal">planning to join</a> the International Convention on Cybercrime (Budapest Convention) to focus on the training of the officials against cyber attacks.</p>
     <p><img class="wp-image-18999 aligncenter" src="/imgs/2017/04/word-image-2.png" width="535" height="389" srcset="/imgs/2017/04/word-image-2.png 640w, /imgs/2017/04/word-image-2-300x218.png 300w" sizes="(max-width: 535px) 100vw, 535px" /></p>
     <p>The training is held in Dakar and Senegal and is expected to be completed by the weekend. The course is inspired by the recurrence of cyber-criminality offenses in West African jurisdictions these days. Indeed, &#8220;the connection is increasingly developed in Africa and at the same time, there are vulnerabilities that arise, cases of digital identity theft, fraud, online scams, and this is frequent,” a judge in the case said.</p>

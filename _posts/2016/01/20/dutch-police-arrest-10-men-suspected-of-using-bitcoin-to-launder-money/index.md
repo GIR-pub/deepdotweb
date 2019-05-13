@@ -9,7 +9,7 @@ Dutch Police Arrest 10 men Suspected of Using Bitcoin to Launder Money
     <span><a href="https://www.deepdotweb.com/2016/01/20/dutch-police-arrest-10-men-suspected-of-using-bitcoin-to-launder-money/#comments">9 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Accoring to the <a href="https://www.om.nl/actueel/nieuwsberichten/@92718/10-aanhoudingen/">dutch police</a> Ten men suspected of using the digital currency <a href="https://www.deepdotweb.com/tag/bitcoin/">Bitcoin</a> to launder up to 20 million euros ($22 million) of criminal money made from online drug deals have been arrested in the Netherlands, Dutch prosecutors said on Wednesday.</p>
     <div id="attachment_13015" style="width: 630px" class="wp-caption aligncenter"><img class="size-full wp-image-13015" src="/imgs/2016/01/MercedesFIOD_01.png" alt="Seized Car" width="620" height="349" srcset="/imgs/2016/01/MercedesFIOD_01.png 620w, /imgs/2016/01/MercedesFIOD_01-300x169.png 300w" sizes="(max-width: 620px) 100vw, 620px" /><p class="wp-caption-text">Seized Car</p></div>
     <p>The men, described as all in their 20s and with Dutch nationality, were arrested on Tuesday in coordinated raids on 15 locations around the country, said spokeswoman Valentine Hoen of the country&#8217;s Fiscal Information and Investigation Service.</p>

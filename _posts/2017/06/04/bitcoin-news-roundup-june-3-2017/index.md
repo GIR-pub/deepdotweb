@@ -18,7 +18,7 @@ Bitcoin news roundup June 4, 2017
     <span><a href="https://www.deepdotweb.com/2017/06/04/bitcoin-news-roundup-june-3-2017/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <p><strong>Ross Ulbricht’s life sentence appeal has been denied</strong></p>
     <p>Silk Road founder <a href="http://pdfserver.amlaw.com/nlj/ULBRICHT-ca2-20170531.pdf">Ross Ulbricht saw his life sentence appeal denied</a> this week by the U.S. District Court of Appeals. Ross Ulbricht’s legal team argued that the IP addresses central to the case were obtained without a warrant and as such, violated his Fourth Amendment rights. Life sentences are usually reserved for violent crimes, which is seen as making Ulbricht’s sentence unreasonable, as he was even given a “kingpin” charge, which is generally withheld for major drug cartel leaders.</p>

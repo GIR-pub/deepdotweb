@@ -9,7 +9,7 @@ Outlaw Market now accessible via I2P (and XMPP)
     <span><a href="https://www.deepdotweb.com/2015/11/01/outlaw-market-now-accessible-via-i2p-and-xmpp/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/outlaw-market">Outlaw Market</a> now accessible via I2P (and XMPP), as the admin announced:</p>
     <div id="crayon-594aa9b9ee36e384612058" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
     <div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>

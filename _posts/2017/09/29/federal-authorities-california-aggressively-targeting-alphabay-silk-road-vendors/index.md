@@ -18,7 +18,7 @@ Federal Authorities in California are Aggressively Targeting Alphabay and Silk R
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to various court documents obtained by <a href="https://arstechnica.com/tech-policy/2017/09/feds-in-california-are-aggressively-going-after-silk-road-alphabay-vendors/">ArsTechnica</a>, 11 vendors from large-scale dark web marketplaces Alphabay and Silkroad, which were shut down by the US law enforcement, are set to be sentenced by early 2018.<img class="wp-image-22831 aligncenter" src="/imgs/2017/09/ubhc6n28azcc-jpg.jpeg" alt="uBHc6n28azCc.jpg" srcset="/imgs/2017/09/ubhc6n28azcc-jpg.jpeg 738w, /imgs/2017/09/ubhc6n28azcc-jpg-300x189.jpeg 300w" sizes="(max-width: 738px) 100vw, 738px" /></p>
     <p>One of the 11 vendors is David Ryan Burchard, a long-time vendor on Alphabay, Silkroad and many other dark web marketplaces. As one of the largest marijuana and cocaine vendors on the dark web, Burchard processed over $1.4 million in sale of narcotics. Most vendors that were arrested along with the shutdown of AlphaBay in July pleaded guilty to their charges.</p>

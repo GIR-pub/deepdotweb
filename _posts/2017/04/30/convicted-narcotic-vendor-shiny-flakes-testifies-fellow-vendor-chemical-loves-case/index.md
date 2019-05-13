@@ -9,7 +9,7 @@ Convicted Narcotic Vendor Shiny Flakes Testifies In Fellow Vendor Chemical Love�
     <span><a href="https://www.deepdotweb.com/2017/04/30/convicted-narcotic-vendor-shiny-flakes-testifies-fellow-vendor-chemical-loves-case/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Recently, Maximilian S., AKA. “Shiny Flakes”, <a href="http://www.morgenweb.de/mannheimer-morgen_artikel,-metropolregion-was-mach-ich-eigentlich-hier-_arid,1031010.html">testified</a> in the case of the “Chemical Love” vendor group.</p>
     <p><img class="wp-image-19509 aligncenter" src="/imgs/2017/04/the-leipziger-nursery-dealer-maximilian-s-her.jpeg" alt="The Leipziger &quot;Nursery Dealer&quot; Maximilian S. - here a picture of the process ..." width="645" height="423" srcset="/imgs/2017/04/the-leipziger-nursery-dealer-maximilian-s-her.jpeg 860w, /imgs/2017/04/the-leipziger-nursery-dealer-maximilian-s-her-300x197.jpeg 300w" sizes="(max-width: 645px) 100vw, 645px" /></p>
     <p>According to court documents, on April 10, the 22-year-old Maximilian S., who was convicted for running the Shiny Flakes vendor shop on the dark web selling narcotics, testified at the Landau District Court in Germany in the case of the Chemical Love vendor group. The judge was particularly interested in how Shiny Flakes organized his webshop and operation, and who he sourced narcotics from (which he resold to his customers on the internet) to clarify whether there were cross-connections to the operators of the Chemical Love vendor shop.</p>

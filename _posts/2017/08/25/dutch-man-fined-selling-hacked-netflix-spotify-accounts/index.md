@@ -18,7 +18,7 @@ Dutch Man Fined For Selling Hacked Netflix And Spotify Accounts
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A copyright watchdog in the Netherlands discovered that a Dutch man was selling stolen streaming accounts on the internet. The suspect agreed to pay a fine to the company. Local news outlets reported that the man acquired the stolen accounts from the dark web.</p>
     <p>According to the Dutch news publication <a href="http://www.destentor.nl/zwolle/illegale-handel-zwollenaar-brengt-stichting-brein-op-idee~ae758355/">destentor.nl</a>, the 26-year-old suspect of Zwolse, Overijssel, the Netherlands created and operated a website on the internet where he allegedly sold hacked accounts for streaming services, such as Spotify and Netflix. The Dutch copyright watchdog BREIN (Bescherming Rechten Entertainment Industrie Nederland), identified the illegal activities of the man and started an investigation against him.</p>

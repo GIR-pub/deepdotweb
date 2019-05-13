@@ -9,7 +9,7 @@ EU Approves New Data Protection Rules
     <span><a href="https://www.deepdotweb.com/2016/04/24/eu-approves-new-data-protection-rules/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.news18.com/news/tech/eu-approves-new-data-protection-rules-to-strengthen-online-privacy-1230542.html">Thur</a><a href="http://www.news18.com/news/tech/eu-approves-new-data-protection-rules-to-strengthen-online-privacy-1230542.html">s</a><a href="http://www.news18.com/news/tech/eu-approves-new-data-protection-rules-to-strengthen-online-privacy-1230542.html">day the European Union approved new data protection</a> rules to help strengthen on line privacy, streamline legislation between the 28 member states, and boost police and security cooperation.</p>
     <p>The rules will create a strong data protection law for Europe&#8217;s 500 million citizens, replacing an outdated patchwork of national rules that only allow for tiny fines in cases of violation. There will be a right to be forgotten, that means consumers can ask for non essential information to be deleted from web searches, such as Google.</p>
     <p><img class="aligncenter size-full wp-image-13858" src="/imgs/2016/04/eudataprotection.jpg" alt="eudataprotection" width="512" height="359" srcset="/imgs/2016/04/eudataprotection.jpg 512w, /imgs/2016/04/eudataprotection-300x210.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></p>

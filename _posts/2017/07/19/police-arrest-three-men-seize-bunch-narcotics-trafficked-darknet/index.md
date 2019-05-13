@@ -9,7 +9,7 @@ Police Arrest Three Men and Seize Bunch of Narcotics Trafficked From Darknet
     <span><a href="https://www.deepdotweb.com/2017/07/19/police-arrest-three-men-seize-bunch-narcotics-trafficked-darknet/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The course to bring illegal Darknet traders down to the law inspired a prohibition exercise which led to the arrest of three: Mohammad Abdul Waheb (20), Mohammad Abdul Quddos (20) and Calvin Mascarenhas (19). They were arrested for being in possession of narcotics suspected to have been bought from the Darknet marketplace. The three <a href="https://telanganatoday.com/three-possession-narcoticspsychotropic-drugs-held">arrested suspects</a> are residents of Chandrayangutta, Ismail Nagar, and Bowenpally respectively.</p>
     <p>Akun Sabharwal, the Prohibition, and Excise director, revealed that Mohammad Abdul Waheb is a student, Mohammad Abdul Quddos is a private firm worker, and Calvin Mascarenhas is a musician.</p>
     <p>Darknet marketplace is used by several individuals in India, and a close source has revealed that the suspects include some notable celebrities and also school children. A senior police officer hinted: “The gang was selling the contraband to one highly reputed film producer among others and the details will be revealed once the investigation is completed.”</p>

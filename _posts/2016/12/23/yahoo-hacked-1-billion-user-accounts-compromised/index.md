@@ -9,7 +9,7 @@ Yahoo Was Hacked Again: 1 billion user accounts were compromised
     <span><a href="https://www.deepdotweb.com/2016/12/23/yahoo-hacked-1-billion-user-accounts-compromised/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Back in September, <a href="https://www.deepdotweb.com/2016/09/30/yahoo-announces-500m-accounts-compromised/">DeepDotWeb reported Yahoo announced 500 million accounts were compromised</a> by what the company claimed to be a “state-sponsored actor”. Back then all affect users were notified and the problem appeared to be swept under the rug.</p>
     <p>Now, <a href="https://investor.yahoo.net/ReleaseDetail.cfm?&amp;ReleaseID=1004285">Yahoo issued a press release in which it states more than 1 billion user accounts were compromised</a> – and sensitive information was stolen. According to the company, phone numbers, birthdates, security questions and even hashed passwords (using MD5). The hack occurred back in August 2013. The company’s investigation indicates credit card data and bank account information was not stolen.</p>
     <p>The internet giant claims forensic experts found out a third party gained access to the company’s proprietary code, which it then used to forge cookies. All affected users are personally being notified by the company, after it already invalidated the forged cookies. The press release also claims the suspect is the same state-sponsored actor responsible for the hack that compromised 500 million user accounts.</p>

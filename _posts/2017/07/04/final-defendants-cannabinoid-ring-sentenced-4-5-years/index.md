@@ -17,7 +17,7 @@ Final Defendants in Cannabinoid Ring Sentenced to 4.5 Years
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>In early June, we wrote about the sentencing of several members of a <a href="https://www.deepdotweb.com/2017/06/17/five-years-prison-cannabinoid-analogue-supplier/">US-based cannabinoid trafficking ring</a>. At the time of the update, nearly all the defendants named in the indictment had been sentenced. The leaders of the organization were still waiting for their sentencing court dates.</p>
     <p>Not long after the latest update, both of the main owners of the Olathe-based business pleaded guilty to one count of each of the following: conspiracy; producing and selling misbranded drugs; producing and selling counterfeit drugs; and conspiracy to launder money. In less than two years, the Dua generated more than $16 million in synthetic cannabinoid and substituted cathinone sales.</p>

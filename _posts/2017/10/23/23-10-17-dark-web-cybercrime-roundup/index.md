@@ -10,7 +10,7 @@
     <span><a href="https://www.deepdotweb.com/2017/10/23/23-10-17-dark-web-cybercrime-roundup/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In early October, a three-judge panel in Greece approved the United States extradition request for Alexander Vinnik, a suspected operator of the BTC-e <a href="https://www.deepdotweb.com/tag/bitcoin/">bitcoin exchange</a>. The United States accused Vinnik of orchestrating a $4bn bitcoin laundering operation, along with several related charges in a 21-count indictment. Vinnik, a Russian national, opposed his extradition to the United States. He appealed to the Russian government and the Russian Interior Ministry mirrored his stance. “I am a Russian citizen and will let the court in Russia deal with it,” he said.</p>
     <p><img class="wp-image-23228 aligncenter" src="/imgs/2017/10/thanksrussia-png.png" alt="ThanksRussia.png" srcset="/imgs/2017/10/thanksrussia-png.png 792w, /imgs/2017/10/thanksrussia-png-300x230.png 300w" sizes="(max-width: 792px) 100vw, 792px" /></p>
     <p>Later in October, according to Russian media outlets, another panel of judges met in Thessaloniki and approved the Russian extradition request. Vinnik, who claimed BTC-e hired him as a contractor and that he had no involvement in any illegal activity, faces fraud charges over $11,500 in Russia. “Vinnik has agreed to be handed over to Russia and there’s no reason not to do so,” a Greek prosecutor reportedly concluded. <a href="https://www.deepdotweb.com/2017/10/20/us-fights-russia-alleged-btc-e-founder-extradition/">DeepDotWeb</a></p>

@@ -9,7 +9,7 @@ Austrian Darknet Vendor Arrested With Sensitive Information From 350 Customers
     <span><a href="https://www.deepdotweb.com/2016/11/05/austrian-darknet-vendor-arrested-sensitive-information-350-customers/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>As early as spring 2016, the narcotic taskforce of the Steyr police were on the trail of a suspected drug dealer. Police intercepted a package of drugs from Germany that was en route to the 45-year-old darknet vendor. The vendor has now been arrested after a lengthy investigation by the SPK.</p>
     <p>One of the case investigators explained that the accused vendor was not initially suspected of distributing via the darknet. Packages of drugs were mailed to the man for resale, but often were delivered in person. The initial interception was a package that was to be physically trafficked into Austria by car. Details remain scarce but the arrest of the driver resulted in the investigation of the 45-year-old, previously innocent man.</p>
     <p>Detectives had little evidence to rely on until an inbound package, addressed to the suspect’s apartment, was seized. The package contained a significant quantity of drugs, confirming again the man was a dealer.</p>

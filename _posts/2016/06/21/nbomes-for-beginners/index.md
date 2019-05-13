@@ -9,7 +9,7 @@ NBOMEs for Beginners
     <span><a href="https://www.deepdotweb.com/2016/06/21/nbomes-for-beginners/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A guide to NBOMEs and what you need to know By a.grey for DDW</p>
     <p><u>An Introduction into the world of RCs</u></p>
     <p>Research chemicals. Whether you’ve heard about them on your local news channel,  national newspaper, <a href="https://www.deepdotweb.com/2014/08/15/research-chemicals-today/">here</a> on DDW or by a friend who favours them; research chemicals are all over.<br/>

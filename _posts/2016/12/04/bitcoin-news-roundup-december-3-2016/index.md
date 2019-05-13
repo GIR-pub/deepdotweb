@@ -9,7 +9,7 @@ Bitcoin news roundup December 3, 2016
     <span><a href="https://www.deepdotweb.com/2016/12/04/bitcoin-news-roundup-december-3-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>Unioin launches mobile wallet app for iOS and Android</strong></p>

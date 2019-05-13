@@ -9,7 +9,7 @@ The FBI Hacked 8,000 Computers in 120 Countries With a Single Warrant
     <span><a href="https://www.deepdotweb.com/2016/12/01/fbi-hacked-8000-computers-120-countries-single-warrant/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In August, we wrote about the <a href="https://www.deepdotweb.com/2016/08/07/fbis-operation-pacifier-hit-50-computers-austria/">FBI’s hacking tool that hacked computers in Austria</a>. Throughout 2016, judges made decisions on the validity of the data obtained via the hack. A judge, without jurisdiction, allowed the FBI to hack 1000 computers. Now, court documents from a recent trial revealed that 8,000 computers got hacked.</p>
     <p>According to the recent transcript, the FBI hacked at least 8,000 computers. They hacked computers in 120 different countries too. We knew the FBI hacked far beyond the scope outlined in the warrant. But illegal hacking of this scale was hardly considered a possibility.</p>
     <p><img class="wp-image-16696 aligncenter" src="/imgs/2016/11/high-jpg.jpeg" alt="high.jpg" width="861" height="407" srcset="/imgs/2016/11/high-jpg.jpeg 1200w, /imgs/2016/11/high-jpg-300x142.jpeg 300w, /imgs/2016/11/high-jpg-1024x484.jpeg 1024w" sizes="(max-width: 861px) 100vw, 861px" /></p>

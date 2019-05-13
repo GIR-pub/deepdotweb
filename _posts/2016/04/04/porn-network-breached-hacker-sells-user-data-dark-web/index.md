@@ -9,7 +9,7 @@ Porn Network Breached, Hacker Sells User Data On The Dark Web
     <span><a href="https://www.deepdotweb.com/2016/04/04/porn-network-breached-hacker-sells-user-data-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A hacker <a href="http://motherboard.vice.com/en_uk/read/hacker-breaches-porn-network-advertises-user-data-on-dark-web">gained access to the porn network</a> Team Skeet and Paper Street Media (PSM), he is selling the login credentials, names, both physical and IP addresses of around 237,000 users on Dream Market under the username of TheNeoBoss. When asked about the purpose of his actions, the hacker stated:</p>
     <p>“I want to publicly shame them (the users) for their poor practices.”</p>
     <p>Some of the sold data also include the credit card details of the users, according to TheNeoBoss. The hacker&#8217;s ad on Dream Market costs 0.962 bitcoins (around $400) and goes by:</p>

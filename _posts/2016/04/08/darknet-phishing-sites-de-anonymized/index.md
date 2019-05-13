@@ -9,7 +9,7 @@ IP Doxx: 7 DarkNet Markets Phishing Clones Exposed
     <span><a href="https://www.deepdotweb.com/2016/04/08/darknet-phishing-sites-de-anonymized/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>One of the dark net plagues are <a href="https://www.deepdotweb.com/2015/07/03/beware-of-phishing-scams-on-clearnet-sites-darknetmarkets-org/">phishing sites</a>, mostly <a href="https://www.deepdotweb.com/2015/04/22/reminder-onion-cloner-phishing-scams/">clones</a> who mirror the markets on the fly while replacing deposit addresses as a way to steal bitcoins. There are several of them even cloning DeepDotWeb&#8217;s onion site and replacing market addresses with their own cloner sites, Today, several of them were doxxed and their real IP revealed, so i just wanted to share this for anyone who wish to hit them / report them to the hosting Abuse at OrangeWebsite, investigate them or whatever:</p>
     <p>82.221.131.240:48001 Alphabay<br/>
     82.221.131.240:48002 Crypto Market<br/>

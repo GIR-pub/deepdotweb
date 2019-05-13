@@ -9,7 +9,7 @@ Secure Multi-party Computing Using Bitcoin&#8217;s Blockchain
     <span><a href="https://www.deepdotweb.com/2017/01/05/secure-multi-party-computing-using-bitcoins-blockchain/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Secure multiparty computation (MPC) has been extensively researched during the past 30 years as it can theoretically provide limitless computational power. The rise of bitcoin and the blockchain technology, during the recent few years, have created new possibilities that can revolutionize MPC.</p>
     <p>Inspired by bitcoin, a group of researchers published <a href="https://dspace.mit.edu/handle/1721.1/105933">a thesis that focused on the formulation of a secure MPC platform that relies on the blockchain technology</a> to promote security, efficiency and scalability. Just like bitcoin entirely changed the concept of distributed consensus, the thesis aimed at taking secure MPC from theory to the realm of practice. The thesis offers a model of secure computation within an environment comprised of rational players.</p>
     <p><strong>Overview of the Proposed Decentralized MPC Protocol:</strong></p>

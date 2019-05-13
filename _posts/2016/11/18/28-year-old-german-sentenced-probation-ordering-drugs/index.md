@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2016/11/18/28-year-old-german-sentenced-probation-ordering-drugs/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 28-year-old man from Aibling, Germany was <a href="http://www.ovb-online.de/rosenheim/bad-aibling/junkie-wurde-ermittelt-6941159.html">sentenced</a> to 22 months of probation for ordering drugs from the dark web.</p>
     <p>According to police information, the Aibling electrician ordered <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> in 16 cases in 2013. The 28-year-old thought he was in complete anonymity when he made the purchases, however, he was among those persons who the <a href="https://www.deepdotweb.com/tag/fbi/">FBI</a> cracked their IP addresses. After the Bureau tracked back the man’s location, they provided information to border forces and local law enforcement authorities in <a href="https://www.deepdotweb.com/tag/germany/">Germany</a>.</p>
     <p>Since one of the orders of the electrician was of larger quantities, he was also charged with the trafficking of narcotics. The court hearing took place in Rosenheim under the chairmanship of Judge Christian Merkel. Jürgen Liebhart, defending the accused, admitted all but one of his client’s offenses. He claimed that the 28-year-old never sold drugs.</p>

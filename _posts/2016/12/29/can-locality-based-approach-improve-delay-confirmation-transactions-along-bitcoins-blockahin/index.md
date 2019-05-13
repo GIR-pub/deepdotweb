@@ -9,7 +9,7 @@ Can A Locality Based Approach Improve The Delay in Confirmation of Transactions 
     <span><a href="https://www.deepdotweb.com/2016/12/29/can-locality-based-approach-improve-delay-confirmation-transactions-along-bitcoins-blockahin/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Did you ever have to deal with delays <a href="https://www.deepdotweb.com/2014/02/28/moving-bitcoins-works-transaction-taking-long/">in confirmation of your bitcoin transactions</a>? Delays in confirmation of bitcoin transactions can range from a few hours to 2-4 days in some uncommon cases. Can using a locality based protocol improve the propagation delay of transactions across the blockchain&#8217;s nodes and prevent delay of confirmation of transactions?</p>
     <p><img class="wp-image-17146 aligncenter" src="/imgs/2016/12/scalingbitcoin-logo-png.png" alt="scalingbitcoin-logo.png" srcset="/imgs/2016/12/scalingbitcoin-logo-png.png 1016w, /imgs/2016/12/scalingbitcoin-logo-png-300x59.png 300w" sizes="(max-width: 1016px) 100vw, 1016px"/></p>
     <p><strong>What is Bitcoin&#8217;s Scalability?</strong></p>

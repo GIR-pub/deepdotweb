@@ -9,7 +9,7 @@ Other Suspect Arrested in Coin.mx Bitcoin Exchange Scheme
     <span><a href="https://www.deepdotweb.com/2016/04/29/other-suspect-arrested-in-coin-mx-bitcoin-exchange-scheme/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.cryptocoinsnews.com/police-arrest-suspect-in-bitcoin-exchange-scheme/">Police arrested Michael Murglo</a> in Palm Beach, Florida for participating in a scheme to pay bribes to allow the Coin.mx bitcoin exchange gain control of a New Jersey credit union, according to Fortune. Prosecutors claim the scheme stole information on 100 million people.</p>
     <p>Murgio, 65, who serves on a Palm Beach County, Florida school board, was indicted in a federal court in Manhattan. He was indicted along with three others, including his son, Anthony Murgio. The Federal Bureau of Investigation arrested Murgio Thursday in Palm Beach, Fla. His attorney did not respond to requests for comment.</p>
     <p>Murgio will be arraigned tomorrow, the 26<sup>th</sup> of April, in New York, where he will hear what the charges against him are, according to WPTV in West Palm Beach, Fla.</p>

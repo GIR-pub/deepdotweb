@@ -17,7 +17,7 @@ Wendelstein Man Facing Court For Ordering Drugs From Dark Web
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Franz K. (26), from Wendelstein, is<a href="http://www.nordbayern.de/region/schwabach/drogenbestellung-im-darknet-wendelsteiner-vor-gericht-1.4894848"> facing charges for ordering several different drugs from dark net markets</a>, such as hash, marijuana, and even viagra. According to the Swabach District Court, the amount of the illegal substances were around 203 grams and were delivered to the man by the German postal service. The man watched a documentary about the dark web, that encouraged him to use dark net markets to buy drugs for himself.</p>
     <p>Franz K. stated in court that the buying of the substances was “very easy”. However, the customs in Munich caught a package from the 26-year-old man and identified him as one of the regular customers of “Atlas 2012” or by the vendor&#8217;s real name “Ronny Kolbenzurichter”. The data from the dark net were saved and analyzed by the local police, which resulted in the law enforcement authorities raiding Franz K.&#8217;s house.</p>

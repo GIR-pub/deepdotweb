@@ -9,7 +9,7 @@ PSA: DNMAvengers Announcement &#8211; 75 Free Lab-tests!
     <span><a href="https://www.deepdotweb.com/2017/09/06/dnmavengers-announcement/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Posted to the request of the <a href="https://www.deepdotweb.com/?s=avengers">DNMAvenfers</a> admin:</p>
     <p>Hello!</p>
     <p>So for those of you whom don&#8217;t know, <a href="https://www.deepdotweb.com/marketplace-directory/listing/darknet-avengers-dnmavengers/">DNMAvengers</a> is an forum that hasoperated since 2015 doing harm reductional work via testing vendors products. The forum has been defunct (In the sense that no codes have been given out) for some time now, but that is finally changing and we have some exciting news to bring with that aswell.</p>

@@ -9,7 +9,7 @@ Bitcoin Price Analysis 20th April 2016
     <span><a href="https://www.deepdotweb.com/2016/04/20/bitcoin-price-analysis-20th-april-2016/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Bitcoin price analysis for the week ending 20th April 2016 was bullish, as price broke levels and made new highs.</p>
     <p><img class="aligncenter size-full wp-image-13808" src="/imgs/2016/04/1-3.jpg" alt="1" width="612" height="413" srcset="/imgs/2016/04/1-3.jpg 612w, /imgs/2016/04/1-3-300x202.jpg 300w, /imgs/2016/04/1-3-290x195.jpg 290w" sizes="(max-width: 612px) 100vw, 612px"/></p>
     <p>The price of bitcoin stirred up bullish sentiments, reviving hopes of a continued trend from September 2015. Over the month of March price has been trading within a range, marked by $423 on the upper and $403 on the lower limit. Simultaneously, bitcoin has been gradually creeping up a trendline, that has been a support for higher and higher lows. This week was exciting to watch, as price broke through $423 resistance, topping off at $439 on Bitstamp seen on this 1 D chart below.</p>

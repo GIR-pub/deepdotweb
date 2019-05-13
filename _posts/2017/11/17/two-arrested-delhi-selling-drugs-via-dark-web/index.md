@@ -9,7 +9,7 @@ Two Arrested in Delhi for Selling Drugs via the Dark web
     <span><a href="https://www.deepdotweb.com/2017/11/17/two-arrested-delhi-selling-drugs-via-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Two men have been busted by the Delhi Police Crime Branch for allegedly running a <a href="https://www.deepdotweb.com/2016/01/15/interview-with-sean-penn-lead-to-drug-lord-el-chapos-capture/">drug cartel</a> in Delhi and Noida through the aid of the dark web.</p>
     <p>According to reports, the two accused, including a Disco Jockey, Kamal Kalara who mostly performs at rave parties and nightclubs in Noida and Delhi, supplied the drugs that were ordered from the dark web to the youths. The whole drug operation only used bitcoins as the payment mode.</p>
     <p>The Delhi Police Crime Branch stated that Kamal Kalara was arrested in Rohini after they received a tip-off. Upon his arrest, the police found 100 pills of ecstasy with him. Kamal then gave out the name of Mahesh Goyal, an accomplice and a resident of resident of Sector-11, Dwarka during questioning was then arrested later by the police. Just like Kamal, the police also recovered <a href="https://www.deepdotweb.com/2017/10/31/mdma-vendor-duo-sentenced-six-years-prison/">20 grams of MDMA</a> on Goyal, when he was arrested.</p>

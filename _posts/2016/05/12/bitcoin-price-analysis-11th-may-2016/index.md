@@ -9,7 +9,7 @@ Bitcoin Price Analysis 12th May 2016
     <span><a href="https://www.deepdotweb.com/2016/05/12/bitcoin-price-analysis-11th-may-2016/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week, the price of bitcoin pushed up to reclaim lost highs at $466 from 2 weeks ago, despite a hoax unmasking of Bitcoin’s mysterious creator. Perhaps a systemic risk, as Satoshi’s coins represent 7% of available scarce supply. Now, the headlines and traders are bullish. As of writing this, price sits at $453.</p>
     <p><a href="/imgs/2016/05/1.jpg"><img class="aligncenter size-full wp-image-14032" src="/imgs/2016/05/1.jpg" alt="1" width="616" height="415" srcset="/imgs/2016/05/1.jpg 616w, /imgs/2016/05/1-300x202.jpg 300w, /imgs/2016/05/1-290x195.jpg 290w" sizes="(max-width: 616px) 100vw, 616px"/></a></p>
     <p>As seen above on the 6 hour chart on Bitstamp, price has gradually advanced up towards $470, a resistance level that’s been tested multiple times over 2016. Once again, it pushed back on price, forcing a retracement down to $440. A double bottom on $440 level was a firm launch pad for another attempt at breaking higher. This time however, momentum failed at $466, forcing another sell off to $445.</p>

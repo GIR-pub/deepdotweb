@@ -9,7 +9,7 @@ New Documents Reveal the FBI May Have Hacked Every TorMail User Illegally
     <span><a href="https://www.deepdotweb.com/2016/11/16/new-documents-reveal-fbi-may-hacked-every-tormail-user-illegally/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In 2013, the FBI took down Freedom Hosting and with it, brought down a minimum of 23 child pornography sites. The seizure of child pornography (CP) servers was considered a win by law enforcement and many Tor users. However, recently unsealed documents reveal just how far <a href="http://motherboard.vice.com/read/unsealed-court-docs-show-fbi-used-malware-like-a-grenade">the FBI stepped outside the law</a>.</p>
     <p>During the investigation, agents discovered a connection between an email service and many CP websites. The FBI was then given a warrant to hack 300 users of TorMail, the email service in mentioned.</p>
     <p>TorMail was an encrypted mail platform that allowed users to send and receive emails over the Tor network. The FBI was allowed to hack TorMail users after discovering that both TorMail and the CP sites were hosted on the same server. <img class="wp-image-16437 aligncenter" src="/imgs/2016/11/tormail-png.png" alt="tormail.png" srcset="/imgs/2016/11/tormail-png.png 543w, /imgs/2016/11/tormail-png-300x90.png 300w" sizes="(max-width: 543px) 100vw, 543px" /></p>

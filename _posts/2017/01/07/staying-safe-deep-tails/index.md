@@ -17,7 +17,7 @@ Staying Safe on the Deep with TAILS
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>This tutorial is about getting into the deep web in a easy and more secured way.</p>
     <p>When you access the deep web simply by downloading Tor into your computer, you are putting yourself at risk. First, you are leaving traces on your computer that you access the deep web (unless you delete and download Tor every time you want to go <em>deeper</em>, which is painfully annoying). Also, someone else that can reach your computer may find some unpleasant information, and you probably have some personal documents, pictures, videos, etc. that can be stolen. Thus, it’s imperative to get an operating system that resets every time it is opened which doesn’t compromise your work!</p>

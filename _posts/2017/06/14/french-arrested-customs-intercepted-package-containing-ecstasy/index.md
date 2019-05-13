@@ -9,7 +9,7 @@ French Arrested After Customs Intercepted A Package Containing Ecstasy
     <span><a href="https://www.deepdotweb.com/2017/06/14/french-arrested-customs-intercepted-package-containing-ecstasy/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A few days ago, law enforcement authorities <a href="http://www.20minutes.fr/nantes/2075583-20170527-nantes-tranquille-drogue-amour-livree-domicile">arrested</a> a young man from Nantes, France for ordering <a href="https://www.deepdotweb.com/2017/03/12/french-students-arrested-sale-10000-ecstasy-pills/">ecstasy</a> pills from the Netherlands.</p>
     <p><img class="wp-image-20625 aligncenter" src="/imgs/2017/06/c-users-vitaris-appdata-local-microsoft-windows-i.jpeg" alt="C:\Users\Vitáris\AppData\Local\Microsoft\Windows\INetCache\Content.Word\960x614_illustration-cachets-mdma.jpg" width="600" height="384" srcset="/imgs/2017/06/c-users-vitaris-appdata-local-microsoft-windows-i.jpeg 960w, /imgs/2017/06/c-users-vitaris-appdata-local-microsoft-windows-i-300x192.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
     <p>According to the French news outlet 20minutes.fr, a young man in his twenties was detained on May 26 after customs intercepted a package containing ecstasy pills arriving from the Netherlands. The prosecution considers charging the suspect with the importation of narcotics.</p>

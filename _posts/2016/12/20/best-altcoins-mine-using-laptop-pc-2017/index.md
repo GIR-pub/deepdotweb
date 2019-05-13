@@ -9,7 +9,7 @@ The Best Altcoins To Mine Using a Laptop or a PC in 2017
     <span><a href="https://www.deepdotweb.com/2016/12/20/best-altcoins-mine-using-laptop-pc-2017/#comments">20 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Even though I am a fond of huge in-house bitcoin mining rigs, I also love to experiment on PC altcoins&#8217; mining, in an attempt to find the best altcoins one can mine using his/her PC. Accordingly, I decided to look through the altcoins one can mine with his PC and GPU. After researching through a considerable number of coins, which can be mined without ASICs, I found some interesting results.</p>
     <p><img class="wp-image-17046 aligncenter" src="/imgs/2016/12/altcoins-jpg.jpeg" alt="altcoins.jpg" width="676" height="474" srcset="/imgs/2016/12/altcoins-jpg.jpeg 822w, /imgs/2016/12/altcoins-jpg-300x210.jpeg 300w" sizes="(max-width: 676px) 100vw, 676px" /></p>
     <p><strong>My Laptop Specifications:</strong></p>

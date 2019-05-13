@@ -9,7 +9,7 @@ CBP Official Explains Darknet Drugs and Package Seizures
     <span><a href="https://www.deepdotweb.com/2017/07/15/cbp-official-explains-darknet-drugs-package-seizures/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On June 27, a <a href="https://judiciary.house.gov/hearing/h-r-2851-stop-importation-trafficking-synthetic-analogues-act-2017/">House Committee on the Judiciary</a> held a hearing for <a href="https://www.congress.gov/bill/115th-congress/house-bill/2851/text">H.R. 2851</a>: Stop the Importation and Trafficking of Synthetic Analogues Act of 2017. The law would allow the Attorney General to introduce analogs into a new drug category, Schedule A. Additionally, it would lengthen penalties for drug crimes and add mandatory minimum sentences. One witness, Robert Perez of the U.S. Customs and Border Protection testified on drugs, the darknet, trafficking, and detection methods [<a href="https://www.dhs.gov/news/2017/06/27/written-testimony-cbp-house-judiciary-subcommittee-crime-terrorism-homeland-security#">ICE/CBP transcript</a>].</p>
     <p>The bill garnered bipartisan support as well as a significant opposition from criminal justice reform groups. The unchecked power of the bill, if it becomes law, allows the Attorney General to control the war on drugs, opposers claimed. Instead of needing a substance’s abuse record and public health risk analysis, an eight point study, the AG could schedule a chemical at will.</p>
     <p><img class="wp-image-21346 aligncenter" src="/imgs/2017/07/word-image-68.jpeg" srcset="/imgs/2017/07/word-image-68.jpeg 800w, /imgs/2017/07/word-image-68-300x208.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

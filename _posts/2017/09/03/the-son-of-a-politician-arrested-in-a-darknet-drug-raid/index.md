@@ -18,7 +18,7 @@ The Son of a Politician Arrested in a Darknet Drug Raid
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The drug raid in Germany has moved from the streets to the home of an influential politician in the country. In the past, many drug traffickers were arrested after they were found guilty of purchasing illicit drugs from the Darknet. Most of the Darknet related arrests in Germany involved weapon trafficking. The investigation by the authorities has now taken them to the son a politician.</p>
     <p>Following the recent emergence of high-class illicit drugs from the Darknet marketplace to the country, the Landeskriminalamt collaborated with the customs investigation office in Dresden to conduct a large scale investigation into the Darknet. The investigation proved to be successful in the past and has once again achieved its purpose, as a 31-year-old son of a famous politician in Germany was <a href="https://www.all-in.de/nachrichten/deutschland_welt/boulevard/Groesserer-Drogen-Fund-bei-Sohn-von-bekannter-FDP-Politikerin;art15814,2493013">arrested for purchasing drugs</a> from the Darknet.</p>

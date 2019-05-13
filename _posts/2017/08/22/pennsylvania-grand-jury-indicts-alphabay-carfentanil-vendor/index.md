@@ -18,7 +18,7 @@ Pennsylvania Grand Jury Indicts an Alphabay Carfentanil Vendor
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A grand jury indictment from August 1 accused an <a href="https://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay</a> vendor of conspiracy to distribute two drugs, along with the distribution of another three. The vendor, a Florida resident known as “Gman19635” on Alphabay and Robert M. Gilner by the United States government, faces a maximum sentence of a lifetime in prison, and a mandatory minimum based on his priors and other external factors.</p>
     <p>A federal grand jury in the Western District of Pennsylvania <a href="https://www.justice.gov/usao-wdpa/pr/florida-man-charged-distributing-fentanyl-carfentanil-meth-and-ecstacy">indicted Gilner on August 1</a> for crimes committed only months prior. Assistant United States Attorney Shardul S. Desai announced the charges on August 7. The grand jury indictment alleged that the St. Petersburg, Florida man committed the several, if not all of the crimes, in the state of Pennsylvania.</p>

@@ -10,7 +10,7 @@ Senate Inquiry Set to Examine Stolen Medicare Information on the Darknet
     <span><a href="https://www.deepdotweb.com/2017/09/10/senate-inquiry-set-examine-stolen-medicare-information-darknet/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Australian Senate Finance and Public Administration References Committee revealed an upcoming probe into the circumstances surrounding the stolen Medicare numbers that ended for sale on <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet markets</a>. The probe will also examine software and protocol issues with Health Professional Online Services, issues with My Health Record, and the method in which healthcare professionals handle Medicare information.</p>
     <p>The probe will take place under the name “Circumstances in which Australian personal Medicare information has been compromised and made available for sale illegally on the &#8216;dark web.’” This event closely follows a story from July where a Guardian journalist, Paul Farrell, investigated the existence of Medicare numbers on the <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay market</a>. Farrell found a digital items vendor named “OzRort” that offered a unique product. In addition to the stolen credit card numbers and email addresses, OzRort sold Medicare numbers for a person of their choosing.</p>
     <p><img class="wp-image-22475 aligncenter" src="/imgs/2017/09/word-image-103-jpeg.jpeg" alt="word-image-103.jpeg" srcset="/imgs/2017/09/word-image-103-jpeg.jpeg 800w, /imgs/2017/09/word-image-103-jpeg-300x140.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

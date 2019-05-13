@@ -9,7 +9,7 @@ Behind-the-Scenes: a Darknet Market on the Ethereum Blockchain
     <span><a href="https://www.deepdotweb.com/2017/07/08/behind-scenes-darknet-market-ethereum-blockchain/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A team of developers are nearly finished with a decentralized market known as &#8220;Tralfamadore.” Everything on the market—from vendor listings to sales themselves—will be free from the confines of any one marketplace; the backend, running on the <a href="https://www.deepdotweb.com/tag/ethereum/">Ethereum blockchain</a>, will function as a database for market content. As a decentralized system, nobody holds your funds and all orders are controlled by individual ethereum wallets.</p>
     <p>In a post on Reddit, the group&#8217;s spokesperson known (Billy Pilgrim) detailed Tralfamadore. And, he explained a dilemma the group may find themselves in, pending future events. Note that Pilgrim said that he could be considered a spokesperson, but that it was not a formal title.</p>
     <p>Pilgrim was kind enough to answer a few questions regarding Tralfamadore and the current state of development. But first, an excerpt from <a href="https://www.reddit.com/r/DarkNetMarkets/comments/6gav2z/interest_in_crowdfunding_for_tralfamadore_a/">the Reddit post where he explained the project</a>:</p>

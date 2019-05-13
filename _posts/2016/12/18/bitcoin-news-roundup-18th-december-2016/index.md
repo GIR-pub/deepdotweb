@@ -9,7 +9,7 @@ Bitcoin news roundup, 18th December 2016
     <span><a href="https://www.deepdotweb.com/2016/12/18/bitcoin-news-roundup-18th-december-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>Digital exchange Kraken has acquired a bitcoin buying service</strong></p>

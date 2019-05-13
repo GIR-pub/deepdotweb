@@ -17,7 +17,7 @@ FBI Gets Green Flag For Unlimited Warrant less Searches
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><a href="http://www.infoworld.com/article/3066712/privacy/warrantless-searches-surge-as-online-privacy-dwindles.html">The United States government</a> is using warrant less searches along with secret requests for information, and these requests and searches keep growing in numbers.</p>
     <p>The Office of the Director of National Intelligence released a transparency report this week showing the number of warrant less searches has doubled between 2013 and 2015. The intelligence community vacuums up millions of communications from Internet foundations running in and out of the country, and information from Google, Apple and Microsoft, just to name a few. The NSA stores this information, in what is known as the 702 database.</p>

@@ -9,7 +9,7 @@ Estonian State Prosecutor Vahur Verte Confiscates Bitcoins Earned As Criminal In
     <span><a href="https://www.deepdotweb.com/2017/12/28/estonian-state-prosecutor-vahur-verte-confiscates-bitcoins-earned-criminal-income/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Vahur Verte, an Estonian prosecutor confiscated bitcoins earned through illegal undertakings which he referred to as “<a href="http://m.baltictimes.com/article/jcms/id/140118/">criminal income</a>.” He said that criminals use this cryptocurrency to hide their criminal prints and activities and to make it difficult for law enforcers to trace them or find out their actions.</p>
     <p>An internal report warned that the anonymous bitcoin payment network is becoming a safe place for criminal money laundering, cyber-criminal activity, illegal <a href="https://www.deepdotweb.com/2017/12/11/several-internet-drug-dealers-busted-russia/">Drugs</a> trading, terrorism financing, human trafficking, child pornography, illegal internet gambling, and theft of the Bitcoins themselves from their anonymous owners’ virtual wallets.</p>
     <p>From the report, it’s evident that bitcoin combines cryptography and a peer-to-peer architecture to avoid a central regulatory authority. However, law enforcement agencies can take heart as even financial experts have no confidence in it as a universal currency and do not believe that bitcoin will stay. Karpeles, CEO at Mt. Gox, which controls more than 70 percent of all global trade in bitcoins said, “If people want to stay safe, don’t buy bitcoin right now&#8230;..Bitcoin is a high risk investment&#8230;. Its value could be zero the day after tomorrow.”</p>

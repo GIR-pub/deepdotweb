@@ -10,7 +10,7 @@ Busted Arms Dealer described to be in the “Premier League” of Arms Dealing
     <span><a href="https://www.deepdotweb.com/2017/10/01/busted-arms-dealer-described-premier-league-arms-dealing/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 29-year old man from Bordesley Green, who supplied dozens of <a href="https://www.deepdotweb.com/2017/09/05/details-released-case-german-arms-dealer-sold-glock-gun-munich-shooter/">guns and ammunition</a> to criminals in Birmingham was described as being involved in the ‘Premier League’ of gun runners. Those weapons were used in various organized crimes by gangs across the UK.</p>
     <p>Umair Khan used the online alias ‘cheeko412’ to purchase ammunition, guns, and explosives from the dark web. This included over 50 revolvers and over 1,600 bullets rounds of ammunition with all this happening between August 2014 to February 2017.</p>
     <p>Reports from the Birmingham Crown Court revealed that Khan sold two of the illegally purchased pistols to 16-year-old boys.</p>

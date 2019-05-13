@@ -9,7 +9,7 @@ Blockchain in finance and management fields. Fintech and govtech cases at Blockc
     <span><a href="https://www.deepdotweb.com/2016/07/26/blockchain-finance-management-fields-fintech-govtech-cases-blockchain-conference-kiev/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>What problems can blockchain solve in the finance sphere and total asset management – will be discussed by speakers of the third annual <a href="http://bitcoinconf.com.ua/en">Blockchain &amp; Bitcoin Conference Kiev.</a></p>
     <p>On 23 September Kyiv will become a meeting point for financiers, IT specialists and entrepreneurs with successful experience of working with blockchain. A separate themed section has been organized for them.</p>
     <p><strong>Hall “Pro” will feature 13 presentations, divided into three blocks. </strong></p>

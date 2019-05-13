@@ -10,7 +10,7 @@ Police Busted NYC Synthetic Drug Dealer
     <span><a href="https://www.deepdotweb.com/2017/09/13/police-busted-nyc-synthetic-drug-dealer/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities <a href="http://www.thedailybeast.com/reddit-drug-lord-doxxed-deadbeat-clients-from-luxe-drug-den">arrested</a> a suspect who was allegedly running two websites where he had sold synthetic “research drugs” to his customers. Police reported that one of the suspect’s sales resulted in the death of a Wisconsin man.</p>
     <p><img class="wp-image-22523" src="/imgs/2017/09/word-image-11.jpeg" /></p>
     <p>Brian Parker, of New York City, was arrested by law enforcement authorities on August 26. The suspect allegedly ran a drug lab in his apartment, advertising the synthetic narcotics on two different websites. According to the news publication The Daily Beast, Parker disguised the drugs as “research chemicals” and sold them to his customers for bitcoins, Amazon gift cards, and Hotels.com vouchers.</p>

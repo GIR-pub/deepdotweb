@@ -9,7 +9,7 @@ Report: Increase In Parcels Containing Drugs In Estonia
     <span><a href="https://www.deepdotweb.com/2016/11/26/report-increase-parcels-containing-drugs-estonia/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A recent <a href="http://www.postimees.ee/2839105/video-ja-fotod-eestlased-tellivad-narkot-ueha-enam-postiga">report</a> by the Tax and Customs Administration (MTA) in Estonia revealed that the number of packages containing <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> arrived in the country has seen an increase.</p>
     <p>According to the report, the International Postal Department seizes an average of one pack a day that has <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> inside. The number of narcotics packages intercepted by Estonian border authorities have been growing since the past few years. Also, not just the number of parcels has seen an increase, but the average quantity of substances inside. According to the report, over the past few years, the average quantity of narcotics seized increased from a few grams to ten as many as 100.</p>
     <p><a href="/imgs/2016/11/parceldrugs.png"><img class="aligncenter size-full wp-image-16595" src="/imgs/2016/11/parceldrugs.png" alt="parceldrugs" width="660" height="330" srcset="/imgs/2016/11/parceldrugs.png 660w, /imgs/2016/11/parceldrugs-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></a></p>

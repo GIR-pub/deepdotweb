@@ -9,7 +9,7 @@ Dark Web Security Firm Warning Islamic State Becoming Sophisticated
     <span><a href="https://www.deepdotweb.com/2016/01/03/dark-web-security-firm-warning-islamic-state-becoming-sophisticated/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.bizjournals.com/newyork/news/2015/12/29/dark-web-security-startup-warns-islamic-state.html">Flashpoint Intelligence, a security startup specializing in studying parts of the dark web, says Islamic State attackers are learning to do more to US websites than just vandalizing and DDoSing their home pages.</a> The previous ISIS attacks on US domains were relatively unsophisticated, however, according to the security firm&#8217;s report, it may not stay that way forever.</p>
     <p>Alex Kassirer, terrorism intelligence specialist told Politico:</p>
     <p>“The capability’s not there and that’s why we’re seeing these low-level attacks of opportunity. But that’s not to say it’s going to be that way going forward. They’re undoubtedly working on cultivating those skills.”</p>

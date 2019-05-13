@@ -9,7 +9,7 @@ Investors See Bitcoin as Gold 2.0 Amid Global Market Instability
     <span><a href="https://www.deepdotweb.com/2016/11/20/investors-see-bitcoin-gold-2-0-amid-global-market-instability/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Over the past few years, bitcoin solidated its title as “the global currency” by outperforming reserve currencies and assets worldwide. The rising value of bitcoin and its decentralized nature have led high profile investors and traders to consider bitcoin as a safe asset.</p>
     <p>Upon the election of Donald Trump, the price of bitcoin immediately surged amid global market instability. Australian stock markets lost US32 billion overnight, while American markets rapidly declined in value. One of the very few assets that experienced an increase in value is bitcoin, primarily due to its separation from the global economy.</p>
     <p>Most assets and currencies, including US dollars, precious metals and stocks are heavily reliant on the performance of certain markets. Once a major asset sees a decline, others decrease in value as well, demonstrating a domino-like effect.</p>

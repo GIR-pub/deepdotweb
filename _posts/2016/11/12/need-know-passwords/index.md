@@ -9,7 +9,7 @@ All You Need To Know About Passwords
     <span><a href="https://www.deepdotweb.com/2016/11/12/need-know-passwords/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Choosing and managing passwords is the fundamental security measure in client&#8217;s control. Even if the application and it&#8217;s server is impenetrable, it means absolutely nothing if your password can be cracked by an average Joe.</p>
     <p>You would think that all security conscious people would know how to protect themselves, but I frequently see cases like this:</p>
     <p>CaliConnect’s Private PGP Key &amp; Account Password Was “<a href="https://www.deepdotweb.com/2016/08/13/caliconnects-private-pgp-key-account-password-asshole209/">asshole209</a>”</p>

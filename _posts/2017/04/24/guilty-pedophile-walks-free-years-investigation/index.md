@@ -9,7 +9,7 @@ Guilty Pedophile Walks Free After Years of Investigation
     <span><a href="https://www.deepdotweb.com/2017/04/24/guilty-pedophile-walks-free-years-investigation/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Five years after the investigation began, Detective Garda Kieran Murphy received incriminating evidence from the suspect’s computers, he told Dublin Circuit Criminal Court. The detective explained that in 2010, Interpol provided the Garda with the information—a mere IP address—of a suspected child pornography viewer. A brief investigation followed wherein investigators discovered that a 37-year-old IT expert downloaded child pornography from the darknet.</p>
     <p>He, upon the Garda’s search of his residence, handed over two laptops. The Garda mirrored his behavior and handed them over to the Garda Computer Crime Investigation Unit. That unit faced a workload of digital evidence that kept them in a continual “backlog” of forensic analysis. Although the 37-year-old suspect, Richard Coghlan, surrendered the laptops in 2010, Detective Murphy <a href="http://www.independent.ie/irish-news/courts/no-jail-for-man-who-downloaded-more-than-300-child-pornography-images-35572380.html">received no actionable information until November 2015</a>.</p>
     <p><img class="wp-image-19369 aligncenter" src="/imgs/2017/04/word-image-31.jpeg" width="881" height="495" srcset="/imgs/2017/04/word-image-31.jpeg 1370w, /imgs/2017/04/word-image-31-300x169.jpeg 300w, /imgs/2017/04/word-image-31-1024x576.jpeg 1024w" sizes="(max-width: 881px) 100vw, 881px"/></p>

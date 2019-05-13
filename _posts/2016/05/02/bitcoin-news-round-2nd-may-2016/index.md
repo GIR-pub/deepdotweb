@@ -9,7 +9,7 @@ Bitcoin News Round Up 2nd May 2016
     <span><a href="https://www.deepdotweb.com/2016/05/02/bitcoin-news-round-2nd-may-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A roundup of news that made headlines in the Bitcoin ecosystem.</p>
     <p><strong>BITCOIN FUNDING:</strong></p>
     <p><strong>Digital Currency Group Adds Western Union, New Investors and Board Members </strong></p>

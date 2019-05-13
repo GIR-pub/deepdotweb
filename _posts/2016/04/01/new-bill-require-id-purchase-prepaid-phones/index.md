@@ -9,7 +9,7 @@ New Bill To Require ID To Purchase Prepaid Phones
     <span><a href="https://www.deepdotweb.com/2016/04/01/new-bill-require-id-purchase-prepaid-phones/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://en.wikipedia.org/wiki/Jonestown">Jonestown</a> survivor State Representative Jackie Speier of California introduced a <a href="https://www.congress.gov/bill/114th-congress/house-bill/4886/">bill</a> last week that would “require purchasers of pre-paid mobile devices or SIM cards to provide identification, and for other purposes.”</p>
     <p>In a <a href="http://speier.house.gov/index.php?option=com_content&amp;view=article&amp;id=1841:speier-introduces-bill-to-require-id-when-purchasing-burner-phones-and-other-pre-paid-mobile-devices&amp;catid=20&amp;Itemid=7">press release</a> about Speier&#8217;s bill introduction, “burner” phones were described as “pre-paid phones that terrorists, human traffickers, and narcotics dealers often use to avoid scrutiny by law enforcement because they can be purchased without identification and record-keeping requirements.”</p>
     <p>Speier sees this as a “legal gap”, which her bill –  Closing the Pre-Paid Mobile Device Security Gap Act of 2016 also known as H.R.4886 – aims to close up. She said in a statement that “This bill would close one of the most significant gaps in our ability to track and prevent acts of terror, drug trafficking, and modern-day slavery”.</p>

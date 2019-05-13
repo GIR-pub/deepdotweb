@@ -9,7 +9,7 @@ UK Identity Fraud Hit Record Levels in 2016
     <span><a href="https://www.deepdotweb.com/2017/04/05/uk-identity-fraud-hit-record-levels-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Cifas, a not-for-profit organization working to fight fraud in the UK, warned the public that <a href="https://www.cifas.org.uk/press_centre/identity-fraud-reaches-record-levels">identity fraud numbers hit record levels in 2016</a>. In addition to the warning, the fraud prevention group noted that 88 percent of all recorded identity fraud occurred online. Fraudsters used several methods of obtaining personal information last year; methods ranged from the classic mail theft and social engineering​ to buying full identity kits found on darknet markets.</p>
     <p><img class="wp-image-19023 aligncenter" src="/imgs/2017/04/word-image-3.jpeg" width="853" height="453" srcset="/imgs/2017/04/word-image-3.jpeg 1200w, /imgs/2017/04/word-image-3-300x159.jpeg 300w, /imgs/2017/04/word-image-3-1024x544.jpeg 1024w" sizes="(max-width: 853px) 100vw, 853px"/></p>
     <p>The study on 2016 fraud incidents revealed that a growing number of young people have become victims. No longer is identity theft only a threat to individuals of 35 years or more. Cifas reported 25,000 victims under the age 30, and an additional increase in cases involving victims under 21. The report noted a 34 percent rise in cases of identity fraud against the 21 and younger age group. The number of victims over 40 increased too, just by a smaller factor.</p>

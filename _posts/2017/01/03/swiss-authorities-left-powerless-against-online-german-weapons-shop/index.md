@@ -9,7 +9,7 @@ Swiss Authorities Left Powerless Against Online German Weapons Shop
     <span><a href="https://www.deepdotweb.com/2017/01/03/swiss-authorities-left-powerless-against-online-german-weapons-shop/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On May 18, a man from Frick, Switzerland visited the website <a href="http://www.tagesanzeiger.ch/schweiz/migrantenschreck-schweizer-kaufen-waffen-gegen-fluechtlinge/story/21167106">migrantenshreck.ru</a> (migrant fright in English), a <a href="https://www.deepdotweb.com/tag/firearm/">firearm</a> webshop promising fast and discreet product delivery for customers who want to protect themselves against asylum seekers. Behind the shop is Mario Rönsch, a well-known German right wing extremist who is infamous in the country for calling for violence and incitement.</p>
     <p><img class="wp-image-17297 aligncenter" src="/imgs/2016/12/http-files-newsnetz-ch-upload-1-0-104915-jpg.jpeg" alt="http://files.newsnetz.ch/upload/1/0/104915.jpg" srcset="/imgs/2016/12/http-files-newsnetz-ch-upload-1-0-104915-jpg.jpeg 553w, /imgs/2016/12/http-files-newsnetz-ch-upload-1-0-104915-jpg-262x300.jpeg 262w" sizes="(max-width: 553px) 100vw, 553px"/></p>
     <p>The Frick man ordered a Schreckschuss Revolver for 399 euros and a pack of 9mm pepper spray gas cartridges, made by Walther costing 39.98 euros. He also purchased a tube of Oxet A2 silicone gel for 7.99 euros, which is a necessary equipment for hard rubber bullets. This type of <a href="https://www.deepdotweb.com/tag/ammunition/">ammunition</a> can lead to severe injuries at short distances.</p>

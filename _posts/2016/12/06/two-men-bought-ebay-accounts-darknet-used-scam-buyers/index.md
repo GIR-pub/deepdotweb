@@ -9,7 +9,7 @@ Two Men Bought eBay Accounts from the Darknet, Used Them to Scam Buyers
     <span><a href="https://www.deepdotweb.com/2016/12/06/two-men-bought-ebay-accounts-darknet-used-scam-buyers/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On November 29, a judge in Windeck sentenced two men for fraud—both on the clearnet and on the darknet. They bought email and eBay logins from the darknet and used the accounts to scam buyers. The two would list items on the stolen eBay account, get paid, and never ship the product.</p>
     <p>The accounts were never in either man&#8217;s name; the true account owner ended up paying for the duo&#8217;s fraud. The prosecutor revealed that the items were not petty either. Often times, the men would sell large-scale, expensive items. Judge Dr. Fabian Krapoth, the judge that oversaw the case, mentioned camera sales. Investigators said $19,160 worth came from the camera sales. Later on, police discovered another $106,445 of damage.</p>
     <p>Both men, a 21-year-old and a 22-year-old, worked with an accomplice, officials said. Investigators were unaware of the third party&#8217;s identity. But, one of the primary suspects—during the sentencing—announced the partner&#8217;s name. Police are now investigating the third member, authorities announced. For this reason, LKA officials refused to disclose further information.</p>

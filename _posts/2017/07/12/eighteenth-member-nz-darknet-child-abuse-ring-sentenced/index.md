@@ -9,7 +9,7 @@ Eighteenth Member of NZ Darknet Child Abuse Ring Sentenced
     <span><a href="https://www.deepdotweb.com/2017/07/12/eighteenth-member-nz-darknet-child-abuse-ring-sentenced/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In December 2015, US Homeland Security notified New Zealand Police&#8217;s Online Child Exploitation unit (OCEANZ) about a child exploitation ring with connections to the darknet. A New Zealand man, Drew Webb, proved integral to the case. He centered the ring and his arrest led to the freedom of 31 children.</p>
     <p>A June 2017 <a href="https://www.deepdotweb.com/tag/sentenced/">sentencing</a> of one of the group&#8217;s members from Scotland marked another milestone for law enforcement. After Webb&#8217;s arrest, New Zealand police helped put offenders behind bars at a global scale. The June sentencing marked the <a href="http://www.bbc.com/news/uk-scotland-glasgow-west-40340702">successful conviction of 18 members</a>.</p>
     <p>National manager for OCEANZ, Detective Senior Sergeant John Michael, explained the importance of Webb&#8217;s arrest to the Herald. &#8220;This group, many of them parents or step-parents of children, were part of this group focused on the sexual exploitation of their own children,&#8221; he said. According to Detective John Michael, &#8220;once [Webb] was arrested that opened up a whole new phase of investigation where we identified, around the world, people that we believed posed a really high risk to their own children.”</p>

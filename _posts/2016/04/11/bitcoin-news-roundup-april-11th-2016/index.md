@@ -9,7 +9,7 @@ Bitcoin News Roundup – April 11th 2016
     <span><a href="https://www.deepdotweb.com/2016/04/11/bitcoin-news-roundup-april-11th-2016/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week, there was a variety of Bitcoin news across the board, most of it was good. Here is a recap of some of the week’s headlines.<strong><br/>
     </strong></p>
     <p><strong>REGULATION:</strong></p>

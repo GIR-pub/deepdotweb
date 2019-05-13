@@ -18,7 +18,7 @@ tag-anonymity tag-geolocation tag-hardware tag-internet tag-protecting tag-relay
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Anonymity and privacy of internet users have attracted considerable attention during the past few years. A pivotal privacy issue is that a user&#8217;s geographical location can be pinpointed, if his/her IP address has been detected, giving the attacker a relatively precise real-time location. In most cases, this information is adequate for an attacker, to close in and eventually determine the location of the user via implementation of traditional tracking methods.</p>
     <p>Presently available anonymity solutions, including The Onion Routing Project (TOR), proxy servers and <a href="https://www.deepdotweb.com/2016/07/15/on-public-and-private-wifi-vpns-tor-and-virtual-machines/">Virtual Private Networks (VPNs)</a> aim at mitigating this problem via routing network traffic through a single, or multiple third party relay nodes. This prevents an attacker from determining the real origin or destination of a data packet. This approach is effective in isolating a user from the websites he/she is visiting, yet it does little, when it comes to guarding the user&#8217;s geographical location, as the attacker can still detect VPN, or Tor traffic emerging from the user&#8217;s network connection. Consequently, a system is needed to sever the association between a user&#8217;s IP address and his/her geographical location.</p>

@@ -9,7 +9,7 @@ Tor Metrics Data Shows Massive Spike of Tor Use from the United Arab Emirates
     <span><a href="https://www.deepdotweb.com/2017/02/20/tor-metrics-data-shows-massive-spike-of-tor-use/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Not long ago, an entire country banned Tor. And the ban, unlike previous bans, became a permanent ban. The country that banned Tor also, coincidentally, condoned and used statewide censorship for years on end: Turkey. Turkey is not the only country where citizens fear the state sponsored compromisation of privacy. According to the Tor Project&#8217;s “Tor Metrics,” The United Arab Emirates just took the crown from Russia for the quickest Tor adoption within only &#8220;<a href="https://cointelegraph.com/news/tor-users-expotential-rise-in-uae-suggests-increased-global-lack-of-privacy">several days</a>.”</p>
     <p>Tor users in the United Arab Emirates grew at a somewhat surprising rate. Per the metrics provided by the Tor Project&#8217;s analytics website, The number of directly connecting <a href="https://metrics.torproject.org/userstats-relay-country.html?start=2016-10-23&amp;end=2017-01-21&amp;country=ae&amp;events=points">relay users increased from 150,000 to more than 300,000</a> between January 1, 2017, and February 11, 2017. Russia, previously topped the charts on this metric—a country known undeniably for Internet censorship and a need for Tor.</p>
     <p><img class="wp-image-18248 aligncenter" src="/imgs/2017/02/word-image-71.png" width="726" height="369" srcset="/imgs/2017/02/word-image-71.png 2500w, /imgs/2017/02/word-image-71-300x153.png 300w, /imgs/2017/02/word-image-71-1024x521.png 1024w" sizes="(max-width: 726px) 100vw, 726px" /></p>

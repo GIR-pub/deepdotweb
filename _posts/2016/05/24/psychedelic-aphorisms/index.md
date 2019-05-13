@@ -17,7 +17,7 @@ PSYCHEDELIC APHORISMS
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>DeepDotWeb&#8217;s in-house shaman would like to share with you some of his thoughts:</p>
     <p>BEGINNING OF THE FIRST INSTALLMENT</p>

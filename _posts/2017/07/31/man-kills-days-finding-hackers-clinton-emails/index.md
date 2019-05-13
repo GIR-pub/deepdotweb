@@ -9,7 +9,7 @@ Man Kills Himself Days After Finding “Hackers” with Clinton Emails
     <span><a href="https://www.deepdotweb.com/2017/07/31/man-kills-days-finding-hackers-clinton-emails/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>Peter W. Smith, according to <a href="https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;url=http://www.chicagotribune.com/news/local/politics/ct-peter-smith-death-met-0713-20170713-story.html&amp;ved=0ahUKEwigxdunnJDVAhVJNiYKHYyuBRkQqQIIICgBMAE&amp;usg=AFQjCNHCrIPwcUJ21UujmoGKFGzRrovaoA">the Chicago Tribune</a>, took his own life 10 days after contacting the Wall Street Journal. Smith told the Journal that he had found five <a href="https://www.deepdotweb.com/tag/hacker/">groups of hackers</a> on the darknet that had a copy of all 33,000 of Hillary Clinton&#8217;s deleted/stolen emails. He then died. The 81-year-old’s death was shrouded in mystery and the cause of death remained unknown by the public—until mid-July.</p>
     <p>The GOP operative died in a hotel near the Mayo Clinic on May 14, according to death records from Olmsted County, Minnesota. He left an intricately worded note for authorities, undoubtedly with foresight into the type of repercussions his death would bring. In the death note, Smith wrote that he had taken his own life due to medical difficulties and an expiring health insurance plan.</p>

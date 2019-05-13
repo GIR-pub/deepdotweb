@@ -9,7 +9,7 @@ French Minister Issues Nationwide Warning on Cyberattacks, Major Infrastructure 
     <span><a href="https://www.deepdotweb.com/2017/01/20/french-minister-issues-nationwide-warning-cyberattacks-major-infrastructure-providers-trouble/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Earlier this week, French Defense Minister Jean-Yves Le Drian issue a nationwide warning on cyberattacks, stating that major civil infrastructure providers including electricity, water, transport and telecommunication firms may face security issues in the near future.</p>
     <p>The announcement of Le Drian came after the Ministry of <a href="https://www.deepdotweb.com/2017/01/07/department-defense-employee-sentenced-selling-stolen-government-items-ebay/">Defense</a> of France reported that it effectively prevented and blocked over 24,000 external attacks in the past year. Le Drian described most of these attacks as sophisticated hacking attempts. He warned important infrastructure providers to be aware of the increasing number of cyber attacks and to be ready to deal with data threats.</p>
     <p>&#8220;We should not be naive [thinking France could not face a cyber attack]… The number of cyber attacks against my ministry doubles every year. In 2016, about 24,000 external attacks had been blocked by our security services,&#8221; Le Drian <a href="https://sputniknews.com/europe/201701081049365052-france-boost-cybersecurity/">said</a> in an interview with French weekly Journal du Dimanche.</p>

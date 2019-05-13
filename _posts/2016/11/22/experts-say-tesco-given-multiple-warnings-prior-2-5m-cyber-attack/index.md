@@ -9,7 +9,7 @@ Experts Say Tesco Was Given Multiple Warnings Prior to a £2.5M Cyber-Attack
     <span><a href="https://www.deepdotweb.com/2016/11/22/experts-say-tesco-given-multiple-warnings-prior-2-5m-cyber-attack/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Tesco bank has reported losing £2.5 million in a recent cyber-attack. Experts are saying that the warning signs were clear, and hackers were bragging months before Tesco even knew.</p>
     <p>Cyber security company, Cyberint, stated recently that they had discovered posts on multiple Dark Net hacking forums about a lender being easy to cash out from. So far there hasn’t been any links indicating whether the most recent attack is the topic of these posts and Tesco has declined to comment on the issue multiple times. Tesco stated is unable to give any details to the crime while the investigation is under way.</p>
     <p>It has been suggested that the <a href="http://www.bbc.com/news/technology-37974776">cyber raid</a> involved contactless payments that were triggered by the use of smartphones. A separate online security firm said that Tesco had been warned that several of its mobile apps were malfunctioning months in advance; but these warnings were ignored.</p>

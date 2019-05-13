@@ -9,7 +9,7 @@ Payments Firm Executive: Wire Transfer is Preferred Method For Cyber Criminals
     <span><a href="https://www.deepdotweb.com/2017/01/09/payments-firm-executive-wire-transfer-preferred-method-cyber-criminals/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement agencies across the world including the European Union (EU) and Interpol have emphasized the necessity of bitcoin regulations due to rise of darknet sales &amp; drug trades. However, B2B payments firm Bottomline Technologies vice president of product strategy, cyber fraud and risk management Mike Vigue stated in an interview that direct transactions and bank wire transfers are the preferred method for cybercriminals and fraudsters.</p>
     <p>In essence, the darknet is a marketplace of anonymous users selling and purchasing a wide range of products. It provides freedom to merchants and consumers to acquire or trade any items of their choice. This flexibility is seldom abused by certain users or criminals selling illicit items over the darknet.</p>
     <p>However, over the past few years, law enforcement agencies have established a widely spread propaganda on the darket, describing it as a safe haven of criminals.</p>

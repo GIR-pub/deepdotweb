@@ -9,7 +9,7 @@ A New Patent &#8211; System for Autonomous Device Transacting Using Cryptocurren
     <span><a href="https://www.deepdotweb.com/2017/07/18/new-patent-system-autonomous-device-transacting-using-cryptocurrency/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Across a great proportion of centralized systems, many transacting devices, whether separated by short or long distances, can achieve high levels of interaction and connectivity without having to be connected physically with each other and as such, are able to communicate wirelessly with one another. Nevertheless, such centralized systems that connect these devices are associated with multiple disadvantages that limit connectivity and functionality in remote locations, reduce the autonomy of devices that operate in centralized systems and thus, do not promote optimal connectivity, autonomous communications and transactions among various transacting devices.</p>
     <p>Moreover, due to the innate lure of exploitation and abuse of centralized systems, all of these economic physical and digital elements, when considered with existing or newly designed products, have to be essentially autonomous and decentralized in nature to boost their potential. It is only in decentralized and autonomous environments that new markets can emerge naturally, maximizing the potential benefits for all those involved in them.</p>
     <p><img class="wp-image-21399 aligncenter" src="/imgs/2017/07/word-image-87.jpeg" srcset="/imgs/2017/07/word-image-87.jpeg 720w, /imgs/2017/07/word-image-87-300x200.jpeg 300w" sizes="(max-width: 720px) 100vw, 720px" /></p>

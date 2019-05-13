@@ -9,7 +9,7 @@ Steroid Trafficker Sentenced for Online Distribution Ring
     <span><a href="https://www.deepdotweb.com/2017/04/28/steroid-trafficker-sentenced-online-distribution-ring/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to Acting United States Attorney Tom Larson of the Western District of Missouri, the second defendant of a <a href="https://www.deepdotweb.com/tag/roundup/">four person online steroid smuggling ring</a> received a sentence in a federal court. The defendant, Aaron Vincent Schweidler, a 32-year-old from Smithfield, NC, ran a $2.25 million anabolic steroid “over the internet” conspiracy. U.S. Chief District Judge Greg Kays sentenced him to four years in federal prison without a chance of parole.</p>
     <p>On Monday, November 7, 2016, the man <a href="https://www.justice.gov/usao-wdmo/pr/former-weston-man-pleads-guilty-225-million-internet-steroids-distribution">pleaded guilty to his role in the manufacture and distribution of anabolic steroids</a>, along with conspiracy to commit money laundering. Schweidler admitted that he, along with his co-workers conspirators, ran an internet “company” called Power Trip where they sold the steroids to customers throughout the United States. All co-defendants, Nicole R. Lyne, 26; Michael G. Peters, 27; and Samuel C. Miller IV, 30, pleaded guilty of the same crimes. Miller and Peters also admitted identity theft.</p>
     <p>The operation started in 2011, in Utah, until Schweidler raised enough cash to move to North Carolina. There, he continued the business. Peters followed and served as the main co-conspirator at that time. Schweidler handed more and more responsibility to Peters who then took on Lyne and Miller.</p>

@@ -9,7 +9,7 @@ Ethiopian Smuggling Ring Busted In Italy
     <span><a href="https://www.deepdotweb.com/2016/12/01/ethiopian-smuggling-ring-busted-italy/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An Ethiopian narcotics smuggling ring was <a href="http://www.sassarinotizie.com/24ore-articolo-389003-varese_spedivano_pacchi_droga_gdf_sequestra_14_tonnellate_16_arresti_2.aspx">busted</a> by the Guardia di Finanza (GDF – Financial Guard). It resulted in 16 arrests and the seizure of nearly 1.4 tons of drugs.</p>
     <p>The gang made about 100 routes from Ethiopia, the main target being Rome. In the Italian capital, law enforcement authorities caught a man with 1,300 pounds (590 kilograms) of narcotics in an airport, which is considered as the second biggest raid on airports around the world. In Torino, the military had to carry out a controlled delivery on another suspect of the Ethiopian ring who had nine pounds (3 kgs) of <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> when arrested.</p>
     <p>The GDF discovered several methods of how marijuana is being smuggled from Spain and Canada. Law enforcement authorities found out that many narcotics packages coming from these two countries are ordered through the dark web and the transactions are paid in BTC. Dark net orders also resulted in new types of synthetic drugs coming into <a href="https://www.deepdotweb.com/tag/italy/">Italy</a>, some of them were seized for the first time in the country.</p>

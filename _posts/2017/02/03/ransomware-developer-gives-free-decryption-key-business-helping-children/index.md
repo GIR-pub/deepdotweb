@@ -9,7 +9,7 @@ Ransomware Developer Gives Out Free Decryption Key to Business Helping Children
     <span><a href="https://www.deepdotweb.com/2017/02/03/ransomware-developer-gives-free-decryption-key-business-helping-children/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Not all <a href="https://www.deepdotweb.com/2017/01/14/goldeneye-ransomware-sending-companies-fake-job-applications/">ransomware</a> distributors have an unscrupulous intent, it seems.</p>
     <p>Earlier this month, a small business owner with the alias “SwervinErvin” was <a href="https://twitter.com/notdan/status/821587540474023940">granted</a> a free decryption key to a ransomware infection his company’s computers were affected by.</p>
     <p>On a <a href="https://www.bleepingcomputer.com/forums/t/634258/aes-key-gen-assistprotonmailcom-help-support/">forum</a>, SwervinErvin revealed that a ransomware distributor who goes by the email <a href="mailto:AES_KEY_GEN_ASSIST@protonmail.com">AES_KEY_GEN_ASSIST@protonmail.com</a> provided free decryption key and decoder to him and his businesses after the distributor found out that the firm of SwervinErvin is dedicated in helping children in need.</p>

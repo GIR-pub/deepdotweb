@@ -9,7 +9,7 @@ Fentanyl Abuse On the rise in The U.S.
     <span><a href="https://www.deepdotweb.com/2016/07/26/fentanyl-abuse-rise-u-s/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Reports of <a href="https://en.wikipedia.org/wiki/Fentanyl">Fentanyl</a> abuse rates <a href="http://www.wtvm.com/story/32483303/special-report-fentanyl-abuse">are on the rise in the US</a> responsible for hundreds, if not thousands of deaths within the US alone. Even though the prescription opioid is strongly regulated, its being manufactured with illegally obtained chemicals by street chemicals. Selling on the street under such names as Apache, China Girl, TNT, Dance Fever, and Murder 8, it has become highly sought after by opiate users for its powerful effects.</p>
     <p>Part of the problem comes from users not knowing the product they’re buying is cut with Fentanyl. Dealers cut they’re product and advertise as pure heroin. Some dealers however, take a more honest approach, claiming it brings in more business.</p>
     <p>“I could literally take the smallest grain that you could see with your eye and that would be a dose. I started taking it around and giving it to people and it just blew up my reputation,” a former dealer said in an interview. “You’re getting more bang for your buck.”</p>

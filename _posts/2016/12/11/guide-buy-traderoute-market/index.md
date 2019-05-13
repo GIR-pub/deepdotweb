@@ -9,7 +9,7 @@ Guide: How To buy From The TradeRoute Market?
     <span><a href="https://www.deepdotweb.com/2016/12/11/guide-buy-traderoute-market/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Market tutorial for <a href="https://www.deepdotweb.com/marketplace-directory/listing/traderoute/">The Trade Route market</a>, as it was provided by the market staff:</p>
     <p><strong>1. Security</strong></p>
     <p>First of all we have to be sure that we are completely anonymous while using Trade Route.</p>

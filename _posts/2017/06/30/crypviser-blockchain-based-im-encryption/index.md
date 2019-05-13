@@ -9,7 +9,7 @@ Crypviser: Blockchain-based IM encryption
     <span><a href="https://www.deepdotweb.com/2017/06/30/crypviser-blockchain-based-im-encryption/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Being a DeepDotWeb user, you know that keeping your information secure is important. Although message encryption, like any other technology, can be used for less than noble purposes, the benefits it brings to ordinary users and companies outweigh the damage by far. This is why users, from tech-savvy to average, are always looking for better ways to secure their conversations.</p>
     <p>Some services do provide a certain level of privacy, but their centralized business structure still brings multiple drawbacks that can endanger your security, usually through “Man In The Middle” attacks, where the access to encrypted messages or the ability to authenticate them falsely is granted.</p>
     <p>In order to fix the lack of security and efficiency found in today’s message encryption solutions, <a href="https://ico.crypviser.net/">Crypviser </a>is tapping into the properties of blockchain technology to build <em>“the first encrypted network for social and business communication based on Blockchain”.</em></p>

@@ -17,7 +17,7 @@ During House Search German Police Found Drugs Ordered From The Dark Web
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A 22-year-old man and his 27-year-old wife were <a href="https://www.tag24.de/nachrichten/polizei-durchsucht-drogen-wohnung-und-findet-mehr-als-erwartet-melle-buer-202976">arrested</a> in Melle, Germany for possessing of narcotics.</p>
     <p>The investigation started with an internet search, which led police to the 22-year-old’s home. Authorities suspected that the accused bought narcotics from a dark web vendor shop. On January 10, law enforcement authorities visited the man’s apartment. His wife opened the door and allowed officials in.</p>

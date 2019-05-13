@@ -18,7 +18,7 @@ China Instates ID Requirement for Internet Comments Following VPN Ban
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Chinese regulators have <a href="https://www.engadget.com/2017/08/27/china-orders-internet-comments-linked-to-real-identities/">released new rules</a> which would require identity verification for people in China who make comments on the internet. This new regulation expands on a prior regulation that has been in effect for several years already which requires identity verification in order for people in China to purchase cell phone numbers or to use online chat services such as Weibo and WeChat. The new identification rules from the Cyberspace Administration of China come on the heels of a new regulation which bans the use of <a href="https://www.deepdotweb.com/tag/vpn/">Virtual Private Networks (VPNs)</a>.</p>
     <p>Supporters of the new ID rule point to other countries around the world that have been cracking down on digital rights in the name of defending “national security”.</p>

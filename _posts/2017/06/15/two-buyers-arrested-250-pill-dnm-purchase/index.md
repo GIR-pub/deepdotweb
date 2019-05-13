@@ -9,7 +9,7 @@ Two Buyers Arrested for 250 Pill DNM Purchase
     <span><a href="https://www.deepdotweb.com/2017/06/15/two-buyers-arrested-250-pill-dnm-purchase/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On February 11, 2017, customs officials at the Vienna Schwechat airport intercepted a package of 250 ecstasy pills. The <a href="http://www.regionews.at/newsdetail/Voelkermarkt_20_Jaehriger_bestellt_sich_im_Darknet_Drogen-148728">ecstasy originated from the Netherlands</a>—a red flag for law enforcement. Several months later, following an investigation by Austrian law enforcement, the district police in Volkermarkt arrested the buyer of the package.</p>
     <p>The Netherlands is well-known as one of the greatest exporters of substituted amphetamines and (substituted) derivative phenethylamines. This substance category contains many novel psychoactive substances covered in the Global Drug Survey 2017.</p>
     <p><img class="wp-image-20639 aligncenter" src="/imgs/2017/06/word-image-82.jpeg" width="269" height="161" srcset="/imgs/2017/06/word-image-82.jpeg 800w, /imgs/2017/06/word-image-82-300x179.jpeg 300w" sizes="(max-width: 269px) 100vw, 269px" /></p>

@@ -9,7 +9,7 @@ Combining Bitcoin&#8217;s Zero Knowledge Proof ZKP Protocol With Graph Isomerism
     <span><a href="https://www.deepdotweb.com/2017/01/08/combining-bitcoins-zero-knowledge-proof-zkp-protocol-graph-isomerisms-problem/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://europa.eu/rapid/press-release_IP-13-94_en.htm">The European Commission stated in a report published in 2013</a>, that their cyber security polls have concluded that in response to the current online security problems; 38% of European internet users have modified their internet behavior, 18% became less likely to make online purchases and 15% are now more reluctant to use internet banking. The report also revealed that 74% of the participants believed that the risk of being affected by cybercrime has risen, 12% were already affected by cybercrime in a way or another and 89% refrained from disclosing their personal information online. All this reveals a great <a href="https://www.deepdotweb.com/2016/06/14/introduction-cryptography-part-2/">demand for cryptography</a> to secure not only electronic payments but also personal communications.</p>
     <p>A group of researchers suggested a zero knowledge proof (ZKP) protocol that is based on the problem of graph isomerism. The proposed protocol can be used in creation of a cryptocurrency, just like bitcoin, and can also be used in encryption of data and securing communications.</p>
     <p><img class="wp-image-17399 aligncenter" src="/imgs/2017/01/zkp-png.png" alt="ZKP.PNG" width="698" height="372" srcset="/imgs/2017/01/zkp-png.png 1012w, /imgs/2017/01/zkp-png-300x160.png 300w" sizes="(max-width: 698px) 100vw, 698px" /></p>

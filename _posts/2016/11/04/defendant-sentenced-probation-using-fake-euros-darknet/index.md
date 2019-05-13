@@ -9,7 +9,7 @@ Defendant Sentenced to Probation for Using Fake Euros from the Darknet
     <span><a href="https://www.deepdotweb.com/2016/11/04/defendant-sentenced-probation-using-fake-euros-darknet/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Emmendingen District Court recently sentenced a 25-year-old to two years of probation for crimes involving counterfeit currency. This case shares aspects with one we reported on October 21; Bavarian police arrested two men for making and <a href="https://www.deepdotweb.com/2016/10/21/two-german-men-sentenced-selling-counterfeit-euros-deepweb/#comments">distributing counterfeit euros via the deepweb</a>.</p>
     <p>Both men arrested in the Bavarian counterfeiting case, a 22-year-old and a 24-year-old, were discovered by their landlord. The owner of the garage where the men set up a counterfeiting workshop reported unusual activity to the police. Both men were convicted and received varying prison sentences.</p>
     <p>However, the 25-year-old from Emmendingen was accused of nearly the inverse. In 2014, the man suffered from a self-admitted drug problem. He ordered drugs from darknet markets in order to sustain his addiction. The orders were for large quantities of unspecified narcotics, the indictment claims.</p>

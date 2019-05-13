@@ -9,7 +9,7 @@ Two Austrians Arrested For Drug Trafficking
     <span><a href="https://www.deepdotweb.com/2017/02/10/two-austrians-arrested-drug-trafficking/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An 18-year-old and a 19-year-old were <a href="http://ooe.orf.at/news/stories/2821184/">arrested</a> in Ried im Innkreis, Austria for ordering large quantities of narcotics from the dark web.</p>
     <p>According to police information, the duo ordered <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> from the dark net. They consumed about half of the substances and sold the other half to customers. They advertised the <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> on social media platforms, and sold to even underage persons, officials said. The suspects operated their business last year.</p>
     <p>The dealers financed their own addictions, and also improved their livelihood with drug trafficking, according to police information. Their operation ended when the Main Customs Office in Frankfurt intercepted two narcotics packages on their way to the Post Office in Vienna.</p>

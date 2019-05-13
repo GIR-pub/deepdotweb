@@ -11,7 +11,7 @@ DarkNet Video News Roundup: 10/4/16
     <span><a href="https://www.deepdotweb.com/2016/04/10/darknet-video-news-roundup-10416/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This Week&#8217;s post from <a href="https://www.youtube.com/channel/UCwMqVH1YnfCgR01mozDRMeg">Dark Net News YourTube channel</a> – Where you could find a weekly video aggregation of all the featured news of the past week.</p>
     <p><span style="text-decoration: underline;"><strong>The headlines for this week are:</strong></span></p>
     <p><em>Note from the publisher: DarkNet News this week is a little short, I&#8217;ve had a few requests to shorten the stories, as they were getting a bit long and wordy. I&#8217;ve tried to pick the key points and shorten them a little. I&#8217;d like your opinion on the change. What do you think?</em></p>

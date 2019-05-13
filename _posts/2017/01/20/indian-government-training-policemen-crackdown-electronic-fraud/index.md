@@ -17,7 +17,7 @@ Indian Government is Training Policemen to Crackdown Electronic Fraud
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Indian government and law enforcement are allocating increased capital in training police officers to <a href="https://www.deepdotweb.com/2016/07/22/india-investigating-first-known-domestic-deepweb-vendor/">crackdown</a> electronic fraud involving online transactions. A facility was launched in the police headquarters in Kasaba Bawada to ensure police officers obtain necessary information and technical expertise to detect electronic fraud.</p>
     <p>Sohali Sharma, superintendent of Police, <a href="http://timesofindia.indiatimes.com/city/kolhapur/policemen-being-trained-to-investigate-electronic-frauds/articleshow/56395904.cms">announced:</a></p>

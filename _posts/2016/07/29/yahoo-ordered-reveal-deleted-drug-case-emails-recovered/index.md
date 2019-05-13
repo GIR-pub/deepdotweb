@@ -9,7 +9,7 @@ Yahoo Ordered to Reveal How Deleted Drug Case Emails Were Recovered
     <span><a href="https://www.deepdotweb.com/2016/07/29/yahoo-ordered-reveal-deleted-drug-case-emails-recovered/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>We recently wrote how deleted Yahoo emails were questionably involved in a <a href="https://www.deepdotweb.com/2016/07/02/yahoo-brought-back-deleted-emails-convict-russell-knaggs/">drug trafficking case</a> – and in a development to that story, a judge is ordering Yahoo to explain how it was done.</p>
     <p>While serving a 16-year sentence in UK prison cell, Russell Knaggs orchestrated a plan to import five tons of cocaine from South America, hidden in boxes of fruit. The case against him was built on emails between the collaborators of the plan – emails that had been seemingly deleted. And then somehow produced later in court by Yahoo.</p>
     <p>Knaggs&#8217; defense team, as well internet privacy advocates, have questioned Yahoo&#8217;s involvement the entire time. The email and search giant managed to contradict themselves throughout the entire case when the company&#8217;s <a href="https://www.eff.org/files/filenode/social_network/yahoo_sn_leg-doj.pdf">law enforcement guide</a> stated that Yahoo “is not able to search for or produce deleted emails,” but Knaggs&#8217; defense team claims Yahoo did just that.</p>

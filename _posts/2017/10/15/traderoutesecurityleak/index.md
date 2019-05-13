@@ -10,7 +10,7 @@ TradeRoute Went Down Following a Major Security Leak
     <span><a href="https://www.deepdotweb.com/2017/10/15/traderoutesecurityleak/#comments">115 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Weeks before the darknet market DDoS attacks began, <a href="https://www.deepdotweb.com/marketplace-directory/listing/traderoute/">TradeRoute Market</a> arranged weekly payments with an infamous <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet marketplace</a> phisher known as “Phishkingz.” In a conversation with DeepDotWeb about two days before Traderoute went down, Phishkingz revealed that he had found a way to access code from the marketplace’s admin backend. Shortly after Phishkingz revealed his findings, TradeRoute exit scammed.</p>
     <p>The marketplace went down during the most recent DDoS wave, alongside the majority of the “top markets.” As the downtime increased, market users posted on Reddit with increasingly credible concern. <a href="https://www.reddit.com/r/TradeRoute/comments/76704w/dear_traderoute_its_pk_aka_billyisonthenet1/">Phishkingz (PK) voiced his concern</a> in a post titled “Dear TradeRoute Its [Phishkingz] aka BillyIsOnTheNet1 Either Post A Message Or I Leak The Source.”</p>
     <p><img class="wp-image-23095" src="/imgs/2017/10/word-image-19.png" srcset="/imgs/2017/10/word-image-19.png 1008w, /imgs/2017/10/word-image-19-300x154.png 300w" sizes="(max-width: 1008px) 100vw, 1008px" /></p>

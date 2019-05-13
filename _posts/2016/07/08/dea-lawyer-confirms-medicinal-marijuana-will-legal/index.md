@@ -9,7 +9,7 @@ DEA lawyer confirms medicinal marijuana will be legal
     <span><a href="https://www.deepdotweb.com/2016/07/08/dea-lawyer-confirms-medicinal-marijuana-will-legal/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In June, news outlets started reporting that the DEA was soon to be moving marijuana from <a href="https://www.dea.gov/druginfo/ds.shtml">Schedule I</a> to <a href="https://www.dea.gov/druginfo/ds.shtml">Schedule II</a>. This would mean that marijuana would no longer be classified with drugs that have no medicinal potential and are highly prone to abuse, like heroin and synthetic cannabinoids. Instead, it will be classified with drugs that still have a high potential for abuse, but also have important medical functions, such as Adderall and Vicodin.</p>
     <p>Allowing marijuana to be classified as Schedule II with other prescription drugs allows marijuana to be legally prescribed on a Federal level. Some states currently have both legal recreational and medicinal marijuana, but until now, it has never been Federally legal. Meaning that even though your local Police may not arrest you for possession of medical marijuana, the Federal government is still quite capable of doing so.</p>
     <p><em><a href="/imgs/2016/07/deammj.png"><img class="aligncenter size-full wp-image-14767" src="/imgs/2016/07/deammj.png" alt="deammj" width="1042" height="664" srcset="/imgs/2016/07/deammj.png 1042w, /imgs/2016/07/deammj-300x191.png 300w, /imgs/2016/07/deammj-1024x653.png 1024w" sizes="(max-width: 1042px) 100vw, 1042px"/></a></em></p>

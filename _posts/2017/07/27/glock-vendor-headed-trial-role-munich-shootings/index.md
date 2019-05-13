@@ -9,7 +9,7 @@ Glock Vendor Headed to Trial for Role in Munich Shootings
     <span><a href="https://www.deepdotweb.com/2017/07/27/glock-vendor-headed-trial-role-munich-shootings/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In late 2016, the Federal Public Prosecutor’s Office of Frankfurt charged a darknet weapons vendor with negligent homicide and negligent bodily harm. The vendor—known as Philipp K., a 32-year-old from Marburg—admitted providing Ali David Sonboly, the Munich gunman, with a Glock 17. The Prosecutor’s Office had, at the time, charged the vendor with only weapon crimes. Roughly one year after the shooting, officials announced that K. will <a href="https://www.pressreader.com/germany/tz/20170711/281754154358771">face the new charges in August 2017</a>.</p>
     <p>The Federal Criminal Police Office arrested the vendor shortly after <a href="https://www.deepdotweb.com/tag/munich/">the Munich shooting</a> occurred. He confessed, helped police catch other vendors, and revealed a hidden weapon cache. In helping investigators, K. incriminated himself to an even greater degree. Authorities found encrypted messages between K. and Sonboly where K. “could have known [Sonboly] was planning to kill people with the gun.”</p>
     <p>/ <img class="wp-image-21588" src="/imgs/2017/07/co-sp-2016-034-0028-01-218641-bi-crop-h-886e203-jp.jpeg" alt="co-sp-2016-034-0028-01-218641-bi-crop-h.886e203.jpg" srcset="/imgs/2017/07/co-sp-2016-034-0028-01-218641-bi-crop-h-886e203-jp.jpeg 800w, /imgs/2017/07/co-sp-2016-034-0028-01-218641-bi-crop-h-886e203-jp-300x211.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

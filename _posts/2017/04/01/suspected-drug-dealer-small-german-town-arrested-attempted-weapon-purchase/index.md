@@ -9,7 +9,7 @@ Suspected Drug Dealer In Small German Town Arrested For Attempted Weapon Purchas
     <span><a href="https://www.deepdotweb.com/2017/04/01/suspected-drug-dealer-small-german-town-arrested-attempted-weapon-purchase/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>German law enforcement authorities <a href="http://www.donaukurier.de/lokales/schrobenhausen/Schrobenhausen-Waffendeal-Darknet-Schrobenhausen-Nach-Waffenkauf-weiter-in-U-Haft;art603,3338572">detained</a> a young man for ordering a weapon from the dark web, and for <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> trafficking.</p>
     <p>On Thursday, September 15, 2016, armed undercover officers arrested a 24-year-old man at a large supermarket parking lot on Pöttmesser Strasse. Schrobenhausen is a small town in Germany with a population of 14,600 people. When special forces in heavy protective clothing and masks, with heavy weapons, arrested the suspect in his car at the parking lot, the whole town was amazed. Such police actions are performed in large cities, or on TV, but not in Schrobenhausen. The scene, where armed officials overwhelmed the 24-year-old in the parking lot, will be never forgotten by the citizens of the small town.</p>
     <p><img class="wp-image-18917 aligncenter" src="/imgs/2017/03/schrobenhausen-after-arms-sales-continue-in-u-cus.jpeg" alt="Schrobenhausen: After arms sales continue in U-custody" srcset="/imgs/2017/03/schrobenhausen-after-arms-sales-continue-in-u-cus.jpeg 600w, /imgs/2017/03/schrobenhausen-after-arms-sales-continue-in-u-cus-300x137.jpeg 300w, /imgs/2017/03/schrobenhausen-after-arms-sales-continue-in-u-cus-272x125.jpeg 272w" sizes="(max-width: 600px) 100vw, 600px" /></p>

@@ -17,7 +17,7 @@ Famed Hacker Emails Source, Says Spanish Police Never Arrested Him
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Spain&#8217;s Policia Nacional, in late January and early February, arrested three suspected hackers for hacks that targeted two spyware-for-hire companies. Both companies, Hacking Team and Gamma International created and sold malware, spyware, and communication interception tools to law enforcement—exclusively—for years on end. In 2015 and 2014, a hacker breached both companies. One hacker, <a href="https://www.deepdotweb.com/2016/06/09/anonymous-hacker-leaks-personal-details-5400-spanish-police-officers/">Phineas Fisher</a>, claimed responsibility for the hacks and data dumps. After <a href="http://ccaa.elpais.com/ccaa/2017/01/31/catalunya/1485857756_658955.html">local media started publishing news of the arrest</a>, rumours spread that one of the arrested individuals was none other than Phineas Fisher.</p>
     <p>The National Police arrested two individuals in Barcelona, Spain, and one 33-year-old man in Salamanca. News outlets in Spain quickly reported that the man from <a href="https://www.bleepingcomputer.com/news/security/spanish-police-claim-to-have-arrested-phineas-fisher-hacking-team-hacker/">Salamanca was Phineas Fisher</a>, the hacker behind both the Hacking Team and Gamma International breaches.</p>

@@ -9,7 +9,7 @@ Identification of darknet hacker communities (forums, IRCs, carding shops, and d
     <span><a href="https://www.deepdotweb.com/2019/01/17/identification-of-darknet-hacker-communities/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Cyber attacks lead to global losses that exceed $450 billion each year. To address this problem, ethical hackers and researchers put great efforts into Cyber Threat Intelligence (CTI) development in order to identify hackers and emerging threats. CTI analysts have highlighted the significance of studying the ever-growing online hacker communities. Despite their valuable CTI importance, collection of data from online hacker communities represents a non-trivial task.</p>
     <p><a href="https://ieeexplore.ieee.org/abstract/document/8587327">A recently published paper</a> summarizes the efforts of a group of researchers in systemic identification and analysis of hacker forums, Internet Relay Chats (IRCs), carding shops, and darknet marketplaces. The paper presents 102 hacker platforms with a total of 43,902,913 records.</p>
     <p>Throughout this article, we will overview the hacker communities presented via this paper.</p>

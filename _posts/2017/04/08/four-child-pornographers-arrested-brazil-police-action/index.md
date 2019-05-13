@@ -9,7 +9,7 @@ Four Child Pornographers Arrested In Brazil In Police Action
     <span><a href="https://www.deepdotweb.com/2017/04/08/four-child-pornographers-arrested-brazil-police-action/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Brazilian authorities <a href="https://www.bemparana.com.br/noticia/493811/quatro-suspeitos-de-compartilhar-pornografia-infantil-sao-presos-em-praia-grande">arrested</a> at least four persons who were suspected of producing and distributing <a href="https://www.deepdotweb.com/tag/pornography/">child pornography</a> material on the internet.</p>
     <p>The Brazilian Federal Police (PF) launched a police action, named “Operation Rescue” in Praia Grande and Baixada Santista on Wednesday. The PF conducted raids on five locations, where investigators believed files containing sexual <a href="https://www.deepdotweb.com/tag/abuse/">abused</a> children and adolescents were distributed. A man and a woman were arrested in the act of “conspiring with material containing child sexual abuse.” According to police information, the other two defendants are also a man and a woman.</p>
     <p>Named Operation Rescue, the investigation of the Federal Police of Santos was initiated in January of this year. During the police action, investigators identified the distribution on an international website where photos containing sexual exploitation of children, allegedly produced by the suspects themselves, were found.</p>

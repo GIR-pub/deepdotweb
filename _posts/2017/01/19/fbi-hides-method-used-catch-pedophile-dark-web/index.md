@@ -9,7 +9,7 @@ FBI Hides Method Used to Catch Pedophile in Dark Web
     <span><a href="https://www.deepdotweb.com/2017/01/19/fbi-hides-method-used-catch-pedophile-dark-web/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Federal Bureau of Investigation (FBI) has found itself in the midst of a controversial debate in regards to the agency’s recent decision to charge a man alleged for various pedophiliac activities, including the illicit acquisition of child pornography.</p>
     <p>Initially, the FBI filed a lawsuit against Jay Michaud, a middle school teacher in Vancouver, Washington, for his involvement in darknet meetup site Playpen, operated by and for pedophiles across the nation. Investigators discovered Michaud’s unlawful activities on the site and was successful in gaining evidence to prove his involvement within the Playpen platform.</p>
     <p>Strangely, the FBI announced to drop the case in December, filing a dismissal motion after the majority of its investigation was complete. In collaboration with local law enforcement, the FBI also raided the home of Michaud, wherein they found a collection of child pornography and solid proof to support the prosecutor&#8217;s claim at the trial.</p>

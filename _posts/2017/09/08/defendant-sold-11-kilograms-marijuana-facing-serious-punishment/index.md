@@ -18,7 +18,7 @@ Defendant Sold 11 Kilograms of Marijuana, Facing Serious Punishment
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A German man was <a href="https://www.braunschweiger-zeitung.de/braunschweig/article211678187/39-Jaehriger-soll-mit-elf-Kilogramm-Marihuana-gehandelt-haben.html">charged</a> with drug trafficking. The prosecution accused him of selling 11 kilograms of <a href="https://www.deepdotweb.com/2017/08/08/silk-road-vendor-caliconnect-admits-marijuana-distribution/">marijuana</a>. The defendant also ordered narcotics from the dark web for his personal use.</p>
     <p>Law enforcement authorities stopped a 39-year-old’s car because of his suspicious Hanoverian license plate. The suspect, 39, of Brunswick, Lower Saxony, Germany was arrested on the scene since the police officers found two garbage bags in the trunk that contained approximately two kilograms of marijuana.</p>

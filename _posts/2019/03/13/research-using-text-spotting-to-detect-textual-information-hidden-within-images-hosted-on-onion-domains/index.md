@@ -9,7 +9,7 @@ Research: Using text spotting to detect textual information hidden within images
     <span><a href="https://www.deepdotweb.com/2019/03/13/research-using-text-spotting-to-detect-textual-information-hidden-within-images-hosted-on-onion-domains/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Due to the continuous efforts of law enforcement agencies to monitor illegal activities taking place on the Tor network, <a href="https://www.deepdotweb.com/2018/11/14/multi-homing-vendors-and-loyal-buyers-on-darknet-marketplaces/">darknet marketplace vendors</a> have developed novel means for evading the digital forensic tools used to gather evidence of such activities. Specifically, hiding textual content within images can effectively evade text analysis techniques used to monitor content on onion hidden services.</p>
     <p><a href="http://dehesa.unex.es/handle/10662/8796">A recently published paper</a> introduced a text spotting framework specifically developed to detect and identify textual content within images hosted on <a href="https://www.deepdotweb.com/2018/10/28/research-intelligence-extraction-of-tor-hidden-services-a-research-study/">Tor hidden services</a>. Throughout this article, we will take a look at this text spotting framework and its effectiveness in obtaining useful information from onion domains.</p>
     <p><strong>The used text detection algorithm:</strong></p>

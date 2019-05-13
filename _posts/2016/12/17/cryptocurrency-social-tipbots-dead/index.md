@@ -9,7 +9,7 @@ Are Cryptocurrency Social Tipbots Dead?
     <span><a href="https://www.deepdotweb.com/2016/12/17/cryptocurrency-social-tipbots-dead/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Cryptocurrency tipbots are apps that enable users on various social media platforms, such as Facebook, Twitter and Reddit, to send microtransactions or &#8220;tips&#8221; to other users. Although a year or so ago there were many cryptocurrency tipbots that enabled users to send tens of coins to anyone on the globe, many of those tipbots have stopped providing their services for different reasons, so are cryptocurrency tipbots dead?</p>
     <p><strong>A Brief History of Cryptocurrency Tipbots:</strong></p>
     <p>BitcoinTip was the first cryptocurrency tipbot ever to facilitate bitcoin micropayments between users on Reddit in July, 2012. However, BitcoinTip stopped functioning in April, 2014 after helping reddit users migrate to a new tipping service known as Changetip.</p>

@@ -17,7 +17,7 @@ Federal Charge Against Teenager Who Tried To Buy Grenade From The Dark Web
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A Kansas teenager was <a href="http://www.kansas.com/news/local/crime/article145765354.html">charged</a> by federal prosecutors for attempted purchase of a <a href="https://www.deepdotweb.com/2017/02/27/police-bust-attempted-grenade-buyer/">grenade</a> from the dark web.</p>
     <p><img class="wp-image-19665 aligncenter" src="/imgs/2017/05/photo-illustration.jpeg" alt="Photo illustration" width="656" height="443" srcset="/imgs/2017/05/photo-illustration.jpeg 960w, /imgs/2017/05/photo-illustration-300x203.jpeg 300w, /imgs/2017/05/photo-illustration-290x195.jpeg 290w" sizes="(max-width: 656px) 100vw, 656px" /></p>

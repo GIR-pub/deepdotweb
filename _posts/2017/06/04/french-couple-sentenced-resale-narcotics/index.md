@@ -9,7 +9,7 @@ French Couple Sentenced For The Resale Of Narcotics
     <span><a href="https://www.deepdotweb.com/2017/06/04/french-couple-sentenced-resale-narcotics/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A couple was <a href="http://www.lavoixdunord.fr/163724/article/2017-05-16/deux-ans-ferme-et-du-sursis-pour-un-couple-de-trafiquants">sentenced</a> in Bethune, France for ordering <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> from the dark web and selling them to local customers.</p>
     <p><img class="wp-image-20364 aligncenter" src="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-b971.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\B9712003135Z.1_20170516181920_000+GNM92C4KE.2-0.jpg" width="718" height="404" srcset="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-b971.jpeg 1350w, /imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-b971-300x169.jpeg 300w, /imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-b971-1024x576.jpeg 1024w" sizes="(max-width: 718px) 100vw, 718px"/></p>
     <p>According to the French media outlet lavoixdunord.fr, the trial resulted in tears and sadness on one side, while a big relief on the other side. Since the wife was sentenced to probation, her family was relieved, however, the husband was imprisoned by the court.</p>

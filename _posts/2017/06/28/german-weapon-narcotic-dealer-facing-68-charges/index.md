@@ -9,7 +9,7 @@ German Weapon And Narcotic Dealer Facing 68 Charges
     <span><a href="https://www.deepdotweb.com/2017/06/28/german-weapon-narcotic-dealer-facing-68-charges/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A man in his 30s from Lüdenscheid, Germany is <a href="https://www.come-on.de/luedenscheid/prozess-gegen-darknet-nutzer-waffen-drogen-8386902.html">facing 68 charges</a>, including the illegal sale of weapons and drugs on a darknet forum.</p>
     <p>According to the court documents, the prosecution is currently preparing a comprehensive case against the 33-year-old defendant. A cybercrime specialist from the Cologne public prosecutor&#8217;s office reported that the family father had allegedly traded drugs and weapons in a variety of cases on the dark side of the internet. The accusation against the man (who has no previous convictions, as of the court records) includes 68 allegations. German media outlets reported that the court trial may begin after the summer holidays.</p>
     <p><img class="wp-image-20955 aligncenter" src="/imgs/2017/06/c-users-vitaris-desktop-twerk-img-129233207-c4c83.jpeg" width="682" height="441" /></p>

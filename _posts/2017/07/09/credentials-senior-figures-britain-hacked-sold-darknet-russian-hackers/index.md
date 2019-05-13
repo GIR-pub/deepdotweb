@@ -9,7 +9,7 @@ Credentials of Senior Figures in Britain Hacked and Sold On the Darknet by Russi
     <span><a href="https://www.deepdotweb.com/2017/07/09/credentials-senior-figures-britain-hacked-sold-darknet-russian-hackers/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Credentials of senior figures of the United Kingdom, including ministers, ambassadors, and police have been sighted on the Darknet marketplace for sale. The passwords and emails which are believed to have been hacked by a group of Russian hackers are sold at cheaper prices for individuals who need them for their frauding activities.</p>
     <p>According to reports, the stolen credentials include thousands of government related accounts and contain Russian language descriptions on the Darknet marketplace.</p>
     <p>Cyber crime has been severe for the past years, and stolen data sold on the Darknet has called for an intensive security of data. <a href="http://www.ibtimes.com/russian-hacking-passwords-emails-stolen-uk-ministers-sold-dark-web-2556824">Information</a> says that over 1000 British MPs, 7000 police employees, and several other senior figures had their personal data stolen and are on sale on the Darknet marketplace.</p>

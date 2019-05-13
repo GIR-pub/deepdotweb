@@ -17,7 +17,7 @@ Bitcoin Weekly Price Analysis 26 April 2016
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>This week, the price of bitcoin was immensely bullish, stirring up trader sentiment on expectations of another bubble, just in time for the halving.</p>
     <p><img class="aligncenter size-full wp-image-13878" src="/imgs/2016/04/1-5.jpg" alt="1" width="617" height="413" srcset="/imgs/2016/04/1-5.jpg 617w, /imgs/2016/04/1-5-300x201.jpg 300w, /imgs/2016/04/1-5-290x195.jpg 290w" sizes="(max-width: 617px) 100vw, 617px" /></p>

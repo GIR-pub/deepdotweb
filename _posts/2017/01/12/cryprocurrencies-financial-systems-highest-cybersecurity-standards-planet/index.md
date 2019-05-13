@@ -9,7 +9,7 @@ Cryptocurrencies &#8211; Financial Systems With The Highest Cybersecurity Standa
     <span><a href="https://www.deepdotweb.com/2017/01/12/cryprocurrencies-financial-systems-highest-cybersecurity-standards-planet/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Cybercrime is increasingly becoming a threat from year to year and its yearly losses have been steadily rising during the past few years. As more and more people are relying on technology and the internet to store wealth and trade (forex, saving accounts, cryptocurrencies, bonds, stock, commodities&#8230;etc), cyber-security has become a big concern for individuals, companies and governments. Cryptocurrencies offered a trustless decentralized financial infrastructure that can represent a secure platform for storing wealth and transferring value.</p>
     <p><img class="wp-image-17461 aligncenter" src="/imgs/2017/01/security-jpg.jpeg" alt="security.jpg" width="779" height="438" srcset="/imgs/2017/01/security-jpg.jpeg 1430w, /imgs/2017/01/security-jpg-300x169.jpeg 300w, /imgs/2017/01/security-jpg-1024x576.jpeg 1024w" sizes="(max-width: 779px) 100vw, 779px" /></p>
     <p><strong>An Overview of the Causes Underlying Today&#8217;s Cyber-security Threats:</strong></p>

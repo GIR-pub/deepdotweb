@@ -9,7 +9,7 @@ Major Bust In Taiwan: Police Seized 511 Kilograms Of Ketamine
     <span><a href="https://www.deepdotweb.com/2017/04/30/major-bust-taiwan-police-seized-511-kilograms-ketamine/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities in Taiwan seized approximately 511 kilograms of <a href="https://www.deepdotweb.com/tag/ketamine/">ketamine</a>, which they believe to be originated from the dark web.</p>
     <p><img class="wp-image-19506 aligncenter" src="/imgs/2017/04/http-static-apple-nextmedia-com-images-e-paper-2.jpeg" alt="http://static.apple.nextmedia.com/images/e-paper/20170413/large/1492063284_edef.jpg" srcset="/imgs/2017/04/http-static-apple-nextmedia-com-images-e-paper-2.jpeg 640w, /imgs/2017/04/http-static-apple-nextmedia-com-images-e-paper-2-300x169.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
     <p>According to a <a href="http://hk.apple.nextmedia.com/realtime/china/20170413/56559396">local news source</a>, the Taipei City Police seized large amounts of <a href="https://www.deepdotweb.com/2016/05/12/esu-student-arrested-buying-lsd-dark-web/">LSD</a> and 551 kilograms of ketamine in Taipei, Taiwan (Republic of China or ROC), which law enforcement authorities estimate would be enough for at least one million people to take the drugs at least once. Police claimed that the <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> are from the dark web, and are connected to “underground black market transactions”. The law enforcement action was conducted as part of the “closed city anti-drug project”.</p>

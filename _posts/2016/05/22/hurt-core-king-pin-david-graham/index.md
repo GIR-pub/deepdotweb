@@ -9,7 +9,7 @@ More on Hurt-core King Pin David Graham
     <span><a href="https://www.deepdotweb.com/2016/05/22/hurt-core-king-pin-david-graham/#comments">19 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Mathew Graham, 21 at the time, was found to be the Administrator for several extreme child porn sites on dark net. He ran all of them from his bedroom at his parents home in South Morang on Melbourne&#8217;s north side. He went by “Lux” as he ran the global <a href="https://www.deepdotweb.com/2014/06/24/large-number-of-child-abuse-sites-shut-down-abruptly/">child porn ring</a>, which contained images and videos of sexual torture, murder and mutilation of children and infants on the dark net, all running it from his bedroom in his parents home.</p>
     <p><a href="/imgs/2016/05/lux.jpg"><img class="aligncenter size-full wp-image-14198" src="/imgs/2016/05/lux.jpg" alt="lux" width="650" height="366" srcset="/imgs/2016/05/lux.jpg 650w, /imgs/2016/05/lux-300x169.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></a></p>
     <p>Arresting officer Detective Sergeant Christine Stafford stated that Graham was “staunch and confident” when his parents home was raided. Of course he denied everything and handed over his phone with no fight. He had forgotten about three images however, that were of dead children being abused.</p>

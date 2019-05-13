@@ -9,7 +9,7 @@ Bitcoin Price Analysis 22 July
     <span><a href="https://www.deepdotweb.com/2015/07/22/bitcoin-price-analysis-22-july/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="/imgs/2015/07/13.jpg"><img class="aligncenter size-full wp-image-11100" src="/imgs/2015/07/13.jpg" alt="1" width="597" height="465" srcset="/imgs/2015/07/13.jpg 597w, /imgs/2015/07/13-300x234.jpg 300w" sizes="(max-width: 597px) 100vw, 597px"/></a></p>
     <p>This week, bitcoin continued in a correction; a pullback from a strong upswing that broke out of a 6 month long flat resistance at $316, 2 weeks ago.</p>
     <p><em>“A market correction refers to a price decline of at least 10% of any security or market index following a temporary upswing in market prices” </em> (around $ 284)</p>

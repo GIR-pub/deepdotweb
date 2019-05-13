@@ -9,7 +9,7 @@ Australia Sees Its Largest Data Breach in History
     <span><a href="https://www.deepdotweb.com/2016/11/07/australia-sees-largest-data-breach-history/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Australia has seen its largest data breach ever recently. Over a million medical and personal records belonging to Australian citizens has been found online.</p>
     <p>It happened that <a href="http://www.itnews.com.au/news/australias-biggest-data-breach-sees-13m-records-leaked-440305">1.28 million donor records</a> contained in a 1.74 GB file were sent to security expert and operator of haveibeenpwned.com, Troy Hunt by an anonymous party on Tuesday. The anonymous source told Hunt that the database was found through scanning IP address ranges that search for exposed web servers.</p>
     <p>The file holds everything from personal information to medical records containing sensitive information. The database gathered information from an online form that has to be filled out prior to being able to donate blood. The possible donors had to fill out a form and questionnaire with personal information as well as list sensitive information like any high risk sexual behavior. What the records do not contain are blood reports and analyses findings, or responses from the full donor questions that all donors have to answer at the time of the donation.</p>

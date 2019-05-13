@@ -9,7 +9,7 @@ MDMA: The Risks of Redosing
     <span><a href="https://www.deepdotweb.com/2016/06/19/mdma-risks-redosing/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>MDMA offers one of the most unique experiences, a pure moment of ecstasy that transcends words. MDMA is truly an amazing compound and one single article could not possibly do it justice. As such, this document does not and could not intend to be all inclusive: the focus here is on dangers associated with redosing.</p>
     <p>MDMA was first synthesized in 1912 by chemist Anton Köllisch who was working for the pharmaceutical company Merck. He hoped to identify a novel treatment for excessive bleeding, as Bayer held a patent on what was most effective. MDMA was not what he was looking for and soon forgotten. The compound remained relatively unknown until it gained fame during the 1970s and 1980s in the United States as a party drug. Psychiatrists would also realize the therapeutical potential of MDMA in recent times as well. MDMA has earned the respect of many and has a bright future in medicine.</p>
     <p>MDMA is methylenedioxymethylamphetamine. That is, MDMA is a methamphetamine molecule with a methylenedioxy group attached to its arene ring. A methylenedioxy group consists of two oxygens that are connected by carbon. MDMA is a phenethylamine, which means it bears resemblance to compounds such as amphetamine and mescaline.</p>

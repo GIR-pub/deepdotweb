@@ -9,7 +9,7 @@ IPVanish VPN Review
     <span><a href="https://www.deepdotweb.com/2015/11/17/ipvanish-vpn-review/#comments">32 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In the world of <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN</a> protection, IPVanish has stepped up in the last few years. It has become a world-renowned VPN service provider that comes with a complete solution for all devices. This company has over 367 servers across Europe, North America and Asia, offering encrypted Internet connections for many years.</p>
     <p><strong><em><a href="https://www.ipvanish.com/ddw/?a_aid=563749ce0713e&amp;a_bid=48f95966&amp;chan=ipvrvi1" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-12126" src="/imgs/2015/11/IPVanish-Homepage.png" alt="IPVanish-Homepage" width="1221" height="621" srcset="/imgs/2015/11/IPVanish-Homepage.png 1221w, /imgs/2015/11/IPVanish-Homepage-300x153.png 300w, /imgs/2015/11/IPVanish-Homepage-1024x521.png 1024w" sizes="(max-width: 1221px) 100vw, 1221px" /></a></em></strong></p>
     <p><strong>IPVanish in a Nutshell</strong></p>

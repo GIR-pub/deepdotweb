@@ -9,7 +9,7 @@ Two Sussex Men Charged for Darknet Drug Sales and Money Laundering
     <span><a href="https://www.deepdotweb.com/2016/12/12/two-sussex-men-charged-darknet-drug-sales-money-laundering/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An investigation conducted by <a href="http://www.littlehamptongazette.co.uk/news/crime/county-news-two-charged-with-drugs-offences-following-dark-web-investigation-1-7708028">South East Regional Organized Crime</a> (SEROCU) led to the arrest of four men for darknet crimes. SEROCU investigated four men: two from Sussex and two from Birmingham. The Crawley Magistrates’ Court has seen only the Sussex men. The other two faced charges in Birmingham. Police confirmed that the court formally charged the two Sussex men with a string of darknet-related drug offenses.</p>
     <p>The first Sussex suspect was Myles Cirjanic-Edwards, a 25-year-old from The Boulevard, Crawley. The court charged Cirjanic-Edwards with six offenses:</p>
     <ul>

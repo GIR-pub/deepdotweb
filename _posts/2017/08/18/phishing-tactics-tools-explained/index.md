@@ -9,7 +9,7 @@ Phishing: Tactics And Tools Explained
     <span><a href="https://www.deepdotweb.com/2017/08/18/phishing-tactics-tools-explained/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.deepdotweb.com/2017/07/13/man-admits-phishing-365k-btc-darknet/">Phishing</a> (password harvesting fishing) is one of the most effective technique that hackers use to steal your credentials. Phishing is a mix of social engineering and computer skills that consists of pretending to be a reputable organization asking you to do a certain security procedure; this procedure involves changing your password or revealing your bank credentials. The innocent user is tricked because the email he receives or the website he visits, seems completely legitimate, thanks to the attacker&#8217;s’ computer skills. Phishing can be leveraged in several manners, in this article I will explain the different approaches and how to protect yourself when possible.</p>
     <p><img class="wp-image-22028 aligncenter" src="/imgs/2017/08/word-image-11.png" srcset="/imgs/2017/08/word-image-11.png 648w, /imgs/2017/08/word-image-11-300x169.png 300w" sizes="(max-width: 648px) 100vw, 648px" /></p>
     <h2>The Basics</h2>

@@ -9,7 +9,7 @@ Slovakian Report: Illegal Drug Activity On The Dark Web Increased In The Country
     <span><a href="https://www.deepdotweb.com/2017/04/08/slovakian-report-illegal-drug-activity-dark-web-increased-country/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a recent <a href="https://aktualne.atlas.sk/slovensko/spolocnost/nelegalnych-drogovych-aktivit-pribuda-komunikaciu-pouzivaju-takzvany-darknet.html">research</a> on the <a href="https://www.deepdotweb.com/tag/drugs/">drug</a> issue in Slovakia, the illegal drug activity in the increased in the country, especially on the darknet.</p>
     <p><img class="wp-image-19078 aligncenter" src="/imgs/2017/04/cocaine-drugs.jpeg" alt="cocaine, drugs" srcset="/imgs/2017/04/cocaine-drugs.jpeg 670w, /imgs/2017/04/cocaine-drugs-300x164.jpeg 300w" sizes="(max-width: 670px) 100vw, 670px"/></p>
     <p>The report, conducted by the government for the years the period of 2013-2016, showed that authorities had identified a new phenomenon in the distribution of <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> on the dark web. According to the study, the illegal activity is difficult to cope with the anonymous nature of the Tor Network and the darknet marketplaces. In the illicit trades, one of the most commonly used currency is bitcoin.</p>

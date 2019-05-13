@@ -9,7 +9,7 @@ Timeline: British Model Supposedly Kidnapped for Darknet Auction
     <span><a href="https://www.deepdotweb.com/2017/08/11/timeline-british-model-supposedly-kidnapped-darknet-auction/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>After six days of imprisonment, a 20-year-old British model managed to talk her way to freedom. After the model, Chloe Ayling, arrived in Milan for a photoshoot, two men kidnapped her and held her hostage at a secure location.According to <a href="http://www.poliziadistato.it/articolo/165985bdc2b70f1752453343">an announcement from the Polizia di Stato</a>, Ayling’s kidnappers had planned to sell her through a controversial darknet auction site.</p>
     <p>The announcement, however, added that Investigators in Milan, the Postal Police Department of Lombardy, and Polish law enforcement had not verified the story or the existence of the darknet site “Black Death.” And now, only days after the news broke, suspicion has fallen on the young girl—not necessarily from law enforcement, but from from journalists and darknet researchers. Black Death, the darknet auction site, made the news right two years ago when Motherboard published a piece that covered the site. The darknet market or community allegedly enabled global human trafficking and organized crime hits.</p>
     <p><img class="wp-image-21889 aligncenter" src="/imgs/2017/08/spectacle-d13901-png.png" alt="Spectacle.d13901.png" srcset="/imgs/2017/08/spectacle-d13901-png.png 744w, /imgs/2017/08/spectacle-d13901-png-300x181.png 300w" sizes="(max-width: 744px) 100vw, 744px" /></p>

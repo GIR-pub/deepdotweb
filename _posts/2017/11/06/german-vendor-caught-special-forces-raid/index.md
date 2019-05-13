@@ -9,7 +9,7 @@ German Vendor Caught in Special Forces Raid
     <span><a href="https://www.deepdotweb.com/2017/11/06/german-vendor-caught-special-forces-raid/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to <a href="http://www.presseportal.de/blaulicht/pm/10374/3771332">a press release</a> issued by a spokesperson for the Rhein-Erft-Kreis district police in Germany, a lengthy investigation led to the arrest of an alleged <a href="https://www.deepdotweb.com/tag/vendor/">darknet vendor</a> and his suspected accomplices. The primary target of the investigation, a 43-year-old Bedburg man, reportedly distributed drugs via <a href="https://www.deepdotweb.com/marketplace-directory/categories/top-markets">darknet markets</a> from January 2016 until his arrest in late October, 2017. Investigators had obtained evidence that the main suspect had trafficked a wide assortment of drugs on two separate darknet markets.</p>
     <p>Between January 2016 and late October 2017, the 43-year-old had earned roughly $210,000 in Bitcoin. The suspected accomplices, a 40-year-old from Germany and a 32-year-old from Moldova, aided the primary suspect in his vending activities, according to the police report.</p>
     <p>Although the news only recently broke, police explained that German Spezialeinsatzkräfte (special forces) had raided the lead suspect&#8217;s apartment on October 23, 2017. During the raid, authorities discovered significant quantities of assorted drugs, cash, gold, and a <a href="https://www.deepdotweb.com/tag/bitcoin/">sizeable stash of Bitcoin</a>. They arrested the suspects on provisional warrants before continuing the search and investigation.</p>

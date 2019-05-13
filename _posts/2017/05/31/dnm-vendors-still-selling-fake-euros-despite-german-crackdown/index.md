@@ -9,7 +9,7 @@ DNM Vendors Still Selling Fake Euros, Despite German Crackdown
     <span><a href="https://www.deepdotweb.com/2017/05/31/dnm-vendors-still-selling-fake-euros-despite-german-crackdown/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>C. Aliens</p>
     <p>DNM Vendors Still Selling Fake Euros, Despite German Crackdown</p>
     <p>The counterfeit currency industry, in 2016, bloomed on the darknet and impacted specific regions far more than others. DeepDotWeb readers need no convincing that Germany has struggled with an influx​ of counterfeit currency, tickets, and nearly anything else worth counterfeiting. Even though Germany&#8217;s darknet crackdown started with weapons, a recent warning from the Federal Criminal Police Office revealed that counterfeits are still an issue.</p>

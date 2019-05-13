@@ -9,7 +9,7 @@ FBI Calls Playpen Case “Unprecedented in Scope”
     <span><a href="https://www.deepdotweb.com/2017/05/23/fbi-calls-playpen-case-unprecedented-scope/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A recent court case sparked heated debates surrounding tactics used by the FBI in the investigation into the now-convicted <a href="https://www.deepdotweb.com/2016/09/27/playpen-admin-found-guilty/">Steven W. Chase</a>. Chase, as many know, created the “world’s largest child pornography website” called Playpen. He actively participated in administrative roles on the site as the site&#8217;s lead admin. Only few protested the convictions of Chase, two admins, and hundreds of current legal battles between site viewers and the government. However, whether or not the FBI overstepped legal boundaries is an ongoing dispute, both on and off the internet.</p>
     <p>Not only is the world questioning the scope of the FBI’s investigative authority within the United States, their <a href="https://www.deepdotweb.com/2016/08/07/fbis-operation-pacifier-hit-50-computers-austria/">power beyond US borders is being questioned</a>. In many law enforcement investigations into markets and forums—CP-related or otherwise—international authorities often collaborated. This time, some of the international authorities blindly collaborated without any knowledge of the investigation. Until the FBI sent them persons to investigate further.</p>
     <p>The FBI, in the <a href="https://www.fbi.gov/news/stories/playpen-creator-sentenced-to-30-years">recent announcement published after Steven W. Chase’s sentencing</a>, proudly announced the “unprecedented” nature of the case:</p>

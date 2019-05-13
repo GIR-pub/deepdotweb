@@ -9,7 +9,7 @@ Solidus: A New Cryptocurrency That Promotes Permissionless Byzantine Consensus
     <span><a href="https://www.deepdotweb.com/2016/12/29/solidus-new-cryptocurrency-promotes-permissionless-byzantine-consensus/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Although bitcoin has exhibited a logarithmic rise in popularity during the past few years, the world&#8217;s first decentralized currency has also been faced by many challenges. It is inarguable that the long time needed to successfully confirm some transactions and the small transaction throughput are considered the biggest challenges hurdling mass adoption of bitcoin. Lack of incentive at specific steps along the bitcoin protocol has also raised concerns related to selfish mining and transaction withholding.</p>
     <p><a href="https://arxiv.org/pdf/1612.02916v1.pdf">Solidus is a new cryptocurrency that has been proposed by a group of researchers from MIT</a> to overcome those challenges. According to the white paper published a few days ago, Solidus is a decentralized cryptocurrency that is built using a permissionless Byzantine concensus.</p>
     <p><img class="wp-image-17215 aligncenter" src="/imgs/2016/12/byzantine-jpg.jpeg" alt="byzantine.jpg" width="790" height="527" srcset="/imgs/2016/12/byzantine-jpg.jpeg 1000w, /imgs/2016/12/byzantine-jpg-300x200.jpeg 300w" sizes="(max-width: 790px) 100vw, 790px" /></p>

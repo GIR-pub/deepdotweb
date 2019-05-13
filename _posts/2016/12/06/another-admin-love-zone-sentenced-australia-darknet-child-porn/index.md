@@ -9,7 +9,7 @@ Another Admin of The Love Zone Sentenced in Australia Over Darknet Child Porn
     <span><a href="https://www.deepdotweb.com/2016/12/06/another-admin-love-zone-sentenced-australia-darknet-child-porn/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An Australian judge sentenced another VIP member of The Love Zone (TLZ) to seven years in prison. The accused was an Adelaide man named David Glen Cecchin. He fought the case and painted a far different picture than reality. But an inside source made Cecchin&#8217;s fate concrete.</p>
     <p><a href="https://www.deepdotweb.com/2015/11/23/queensland-task-force-setting-up-for-catching-dark-web-pedophiles/">Taskforce Argos</a> was the team responsible for the TLZ takedown. Members of the specialized team hunted a TLZ user who used a specific word as his signature: &#8220;hiyas.&#8221; The user was an administrator of the famed child porn site. Officers found a man who shared this practice on the clearnet. Shannon McCoole of Adelaide, Australia.</p>
     <p>Chief Judge Geoffrey Muecke, South Australian District Court, jailed Cecchin for seven years. Cecchin pleaded guilty to five child porn offences between 2012 and 2014. Judge Muecke described his actions as &#8220;prolonged, extensive and grave.&#8221;</p>

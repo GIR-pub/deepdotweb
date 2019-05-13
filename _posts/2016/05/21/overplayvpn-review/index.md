@@ -9,7 +9,7 @@ OverplayVPN Review
     <span><a href="https://www.deepdotweb.com/2016/05/21/overplayvpn-review/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>While conducting our Overplay VPN review we found that they promote their product as being secure, flexible and fast. Also, they are among the most innovative providers on the market right now and their network is growing exponentially fast. Currently, their network covers 48 countries worldwide, each country being the host of a cluster of powerful servers that make the network fast and reliable.</p>
     <p>To test their features and strength and find their weaknesses, we took a closer look at their Windows client and compiled a comprehensive review that will show you the real face of the OverplayVPN. Let’s see if they really have what it takes to deliver what they promise in both online security and privacy. But first, let‘s take a look at the company.</p>
     <p><a href="/imgs/2016/05/overplay1.jpg"><img class="aligncenter size-full wp-image-14170" src="/imgs/2016/05/overplay1.jpg" alt="overplay1" width="919" height="471" srcset="/imgs/2016/05/overplay1.jpg 919w, /imgs/2016/05/overplay1-300x154.jpg 300w" sizes="(max-width: 919px) 100vw, 919px"/></a></p>

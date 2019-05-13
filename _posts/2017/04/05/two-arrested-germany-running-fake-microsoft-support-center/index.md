@@ -9,7 +9,7 @@ Two Arrested In Germany For Running A Fake Microsoft Support Center
     <span><a href="https://www.deepdotweb.com/2017/04/05/two-arrested-germany-running-fake-microsoft-support-center/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>German police <a href="http://www.notebookcheck.com/Cybercrime-Polizei-gelingt-Schlag-gegen-Fake-Microsoft-Mitarbeiter.207438.0.html">arrested</a> two suspects in Wilhelmshaven, Lower Saxony for running a fake Microsoft support center.</p>
     <p><a id="post-19008-_gjdgxs"></a> <img class="wp-image-19018 aligncenter" src="/imgs/2017/04/http-directcom-com-eaglemtn-wp-content-uploads-2.png" alt="http://directcom.com/eaglemtn/wp-content/uploads/2015/05/scam-alert-1024x788.png" width="697" height="536" srcset="/imgs/2017/04/http-directcom-com-eaglemtn-wp-content-uploads-2.png 1024w, /imgs/2017/04/http-directcom-com-eaglemtn-wp-content-uploads-2-300x231.png 300w" sizes="(max-width: 697px) 100vw, 697px" /></p>
     <p>At the end of February, the <a href="https://www.deepdotweb.com/tag/cybercrime/">cybercrime</a> team of the Wilhelmshaven police searched residential and business premises in the Wilhelmshaven area arresting two suspects and gathering extensive evidence in the case. According to police information, the two defendants allegedly worked for an international criminal organization, disguising as Microsoft employees and providing telephone support for customers who had been infected by malware. Law enforcement authorities did not enclose whether the two suspects directly infected the computers of the victims. However, since they were allegedly part of an international criminal organization, they possibly knew that their gang had infected the victims.</p>

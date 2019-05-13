@@ -17,7 +17,7 @@
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The Global Drug Survey (GDS) is a London-based drug and alcohol research group that releases, once a year, the results of the world&#8217;s largest survey on drug use. The survey covers, for example, trends in drug popularity within a specific country. One point of interest from the <a href="https://www.globaldrugsurvey.com/past-findings/the-global-drug-survey-2016-findings/">Global Drug Survey 2016</a> showed that <a href="https://www.deepdotweb.com/2016/06/24/2016-global-drug-survey-shows-dmn-customers-ever/">global darknet market usage</a> increased significantly—and it did this year as well. However, this year, some countries showed vastly different changes than others.</p>
     <p>One such example of this was the increase of darknet users in the UK. The GDS 2016 revealed that 18.3 percent of UK respondents used the darknet for obtaining various substances. That number, according to the GDS 2017, jumped from 18.3 percent to 25.3 percent within a year. And, since 2014, the number of drug users that purchased substances from <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet marketplaces (DNMs)</a> more than doubled.</p>

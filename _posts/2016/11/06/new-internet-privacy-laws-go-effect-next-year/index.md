@@ -9,7 +9,7 @@ New Internet Privacy Laws Go Into Effect Next Year
     <span><a href="https://www.deepdotweb.com/2016/11/06/new-internet-privacy-laws-go-effect-next-year/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Thursday, The FCC voted to pass new privacy laws that require ISP’s, or Internet Service Providers to obtain customer permission before they are allowed to gather and use personal information. <a href="http://www.usatoday.com/story/tech/news/2016/10/27/fcc-adopt-new-broadband-customer-privacy-rules/92822596/">Under the new laws</a>, ISPs will have to get ‘opt-in’ permission to collect such data as browsing history, usage, health, financial, children information, GPS info, as well as any and all online communication. Under the new laws, customers must all be informed how their information is being used, and who they share it with.</p>
     <p>“Consumers care deeply about their privacy and so should we,” Commissioner Mignon Clyburn Clyburn said.</p>
     <p>Clyburn had joined other Democrats such as Tom Wheeler in passing the new laws at their monthly meeting. Wheeler was cited as saying the new privacy rules are a common-sense step because before them there were no protections.</p>

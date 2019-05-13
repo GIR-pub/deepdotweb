@@ -9,7 +9,7 @@ Altcoins mania &#8211; The year of 2017 is the year of altcoins
     <span><a href="https://www.deepdotweb.com/2017/05/30/altcoins-mania-year-2017-year-altcoins/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Since the genesis block was mined on bitcoin&#8217;s blockchain, the market capitalization of cryptocurrencies has never witnessed the rate of growth we have been experiencing since the beginning of the year 2017. The gains were sometimes even astronomical e.g. Litecoin&#8217;s (LTC), Ethereum&#8217;s (ETH) as well as Ripple&#8217;s (XRP) price each increased by more than 1000% since the beginning of the year, STEEM rose by around 700% and GameCredits witnessed a 300% increase in market capitalization. Those were just a few examples (we will get into many more throughout this article) as the list of altcoins that witnessed massive growth this year is rather long.</p>
     <p>This unprecedented growth of altcoins accompanied a bullish rally that has been taking bitcoin&#8217;s market by storm since the beginning of the year. For the first time ever, bitcoin price has touched the $1,900 mark a few days ago, which was not even predicted by the most optimistic observer. This definitely reflects increased trust of the public in the decentralized blockchain-based economy, especially that the fiat economy is failing, in many countries, to fulfill the dreams of the world citizens.</p>
     <p><img class="wp-image-20229 aligncenter" src="/imgs/2017/05/word-image-141.jpeg" srcset="/imgs/2017/05/word-image-141.jpeg 640w, /imgs/2017/05/word-image-141-300x225.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px"/></p>

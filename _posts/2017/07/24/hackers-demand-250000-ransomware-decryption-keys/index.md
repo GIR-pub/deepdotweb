@@ -9,7 +9,7 @@ Hackers Demand Over $250,000 for Ransomware Decryption Keys
     <span><a href="https://www.deepdotweb.com/2017/07/24/hackers-demand-250000-ransomware-decryption-keys/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Hackers Demand Over $250,000 for Ransomware Decryption Keys</p>
     <p>The alleged authors of the NotPetya ransomware, which swept through Ukraine locking the systems of governments, financial institutes and businesses, <a href="https://thinkprogress.org/notpetya-hackers-emerge-with-ransom-demands-f111543e683a">demanded a payment</a> of 100 BTC, which was over $250,000 at the time, for the private keys.</p>
     <p>Earlier this week, <a href="https://motherboard.vice.com/en_us/article/8xagk4/hackers-connected-to-notpetya-ransomware-surface-online-empty-bitcoin-wallet">Motherboard</a> reported that cyber security researchers detected movement around the BTC wallet used for storing the ransom payments during the June 28 NotPetya attack, a variation of the Petya ransomware used to encrypt the files of the victims. According to the research, $10,000 worth of bitcoins were withdrawn from the wallet and the same hacker group allegedly offered authorities to unlock the files – for the sum of 100 BTC – by publishing the private key of the ransomware.</p>

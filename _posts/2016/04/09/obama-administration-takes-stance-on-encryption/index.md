@@ -9,7 +9,7 @@ Obama Administration takes Stance On Encryption
     <span><a href="https://www.deepdotweb.com/2016/04/09/obama-administration-takes-stance-on-encryption/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.zdnet.com/article/obama-administration-finally-takes-a-position-on-encryption-legislation/">The Obama administration has said it doesn’t support draft legislation</a> that will force tech companies to unlock their devices when compelled to by a court order. New bipartisan legislation, co-authored by the leading officials on the Senate Intelligence Committee; which hasn’t been formally announced, would impose fines against tech companies if law enforcement agencies are unable to access data on encrypted devices.</p>
     <p>“The administration has decided not to seek legislative remedy now, but it makes sense to continue conversations with industry,” FBI Director James B. Comey said at the Senate hearing Thursday of the Homeland Security and Governmental Affairs Committee.</p>
     <p>The decision, which maintains the status quo, underscores the bind the administration is in; balancing competing pressures to help law enforcement and protect consumer privacy.</p>

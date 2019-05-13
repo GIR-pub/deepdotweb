@@ -17,7 +17,7 @@ Suspect linked to Bomb Threats offered Services on Dark Web
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Reports coming from the U.S authorities have revealed that an American-Israeli teenager charged with making bomb threats to Jewish community centers as well as schools over the United States advertised his services on an online <a href="https://www.deepdotweb.com/2017/08/09/law-enforcement-arrested-the-first-hansa/">darknet marketplace</a> which is no more and may even have had a customer. He was accused of a swell of bomb threats against over dozens of Jewish community centers.</p>
     <p>Unsealed court documents obtained recently by a federal court suggests that 18 year old Michael Kadar advertised a “School Email Bomb Threat Service” on <a href="https://www.deepdotweb.com/2017/08/08/alphabay-vendor-area51-aka-darkapollo-sentenced-6-5-years/">AlphaBay</a>, an online marketplace for illegal goods and services that were taken down by the U.S Justice Department in July. He offered to send customized threats to schools at a price of $30, plus a $15 surcharge if the buyer wanted to have someone framed for it.</p>

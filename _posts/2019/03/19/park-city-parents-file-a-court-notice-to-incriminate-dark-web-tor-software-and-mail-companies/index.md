@@ -9,7 +9,7 @@ Park City Parents File a Court Notice to Incriminate Dark Web, Tor Software and 
     <span><a href="https://www.deepdotweb.com/2019/03/19/park-city-parents-file-a-court-notice-to-incriminate-dark-web-tor-software-and-mail-companies/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>James Seaver and his wife, Deborah, have recently joined a court notice in which they blame <a href="https://www.parkrecord.com/news/defendants-in-lawsuit-claim-dark-web-companies-postal-services-at-fault-for-teens-death/">the dark web and mail services for their son, Grant Seaver’s, death</a>. Seaver was a teenager aged 13 from Park City, Utah, who died in September 2016 due to a <a href="https://www.deepdotweb.com/2018/11/18/opioid-trafficker-admits-selling-and-manufacturing-fentanyl-analogues/">U-4770</a> drug overdose. The drug with the street name Pink was allegedly purchased from the dark web.</p>
     <p><strong><img class="wp-image-28683" src="/imgs/2019/03/word-image-13.jpeg" srcset="/imgs/2019/03/word-image-13.jpeg 660w, /imgs/2019/03/word-image-13-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></strong></p>
     <p>Two days after Seaver’s death, another boy, Ryan Ainsworth, aged 13, also passed on for the same reason. Seaver and Ainsworth’s parents claim that the two were together on the day of the overdose.</p>

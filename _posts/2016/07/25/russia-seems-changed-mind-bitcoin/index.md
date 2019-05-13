@@ -9,7 +9,7 @@ Russia Seems to have Changed its Mind about Bitcoin
     <span><a href="https://www.deepdotweb.com/2016/07/25/russia-seems-changed-mind-bitcoin/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In the past, Russia’s Ministry of finance had banned bitcoin wanted to jail anyone using it. A new report, in Russian is showing us otherwise. <a href="http://calvinayre.com/2016/07/20/business/russia-wants-to-label-bitcoin-as-foreign-currency/">The Russian government now wants to label</a> crypto currencies as foreign currency. While the use of bitcoin will still be prohibited, Russian citizens will be able to buy it with online platforms, and spend it in other countries.</p>
     <p>“According to the Constitution…the only ruble issuer in the country is the Bank of Russia. Thus issuing any other currency <a href="https://www.deepdotweb.com/2016/05/05/btc-users-get-jail-time-russia/">is illegal</a>,” Deputy Finance Minister Alexey Molseev said about the Russian government still pushing for the bill to punish any bitcoin use.</p>
     <p>“The bill we are now refining specific language <a href="https://www.deepdotweb.com/2016/05/05/btc-users-get-jail-time-russia/">to allow this kind of cryptocurrency</a> purchases with a view to their use outside of Russia,” he added.</p>

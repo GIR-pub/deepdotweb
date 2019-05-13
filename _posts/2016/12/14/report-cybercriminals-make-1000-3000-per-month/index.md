@@ -17,7 +17,7 @@ Report: Most Of The Cybercriminals Make $1,000 – 3,000 Per Month
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A recent <a href="https://www.recordedfuture.com/cyber-criminal-profiling/">report</a> conducted by cybersecurity firm Recorded Future shows that most of the cybercriminals <a href="http://www.csoonline.com/article/3145944/security/report-most-cybercriminals-earn-1000-to-3000-a-month.html">earn</a> between $1,000 and $3,000 a month, however, 20 percent make about $20,000 per month.</p>
     <p>According to report author Andrei Barysevich, director of Recorded Future, the data is based on a survey conducted by a closed underground community. He says the security company posted a survey while investigating invitation-only <a href="https://www.deepdotweb.com/tag/underground/">underground</a> internet and dark web hacker forums.</p>

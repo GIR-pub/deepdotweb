@@ -9,7 +9,7 @@ Darknet Vendor Lists One Billion Anti-Public Accounts
     <span><a href="https://www.deepdotweb.com/2017/05/24/darknet-vendor-lists-one-billion-anti-public-accounts/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On May 5, the creator of the famed “Have I Been Pwned?” breach alert system, Troy Hunt, announced that he loaded “<a href="https://www.troyhunt.com/password-reuse-credential-stuffing-and-another-1-billion-records-in-have-i-been-pwned/">over 1 billion breached accounts into HIBP</a>.” At the date of his blog post, HIBP hosted 2.7 billion breached accounts from numerous breaches. “There&#8217;s a lot more there now,” he explained, referring to a massive number of breached accounts—currently for sale as anti-public username lists.</p>
     <p>On Hansa marketplace, some of the major vendors—DoubleFlag, for instance—sat on the back-burner as two relatively unknown vendors made headlines. “Wildfruit2” and “DBworld.” Both vendors listed nearly identical products on the <a href="https://www.deepdotweb.com/tag/darknet/">darknet marketplace</a> known as Hansa. One, Dbworld, advertises 457,962,538 username and cleartext passwords from users that shared passwords across multiple websites, often those with details already compromised in previous database attacks.</p>
     <p><img class="wp-image-20084 aligncenter" src="/imgs/2017/05/word-image-101.jpeg" srcset="/imgs/2017/05/word-image-101.jpeg 804w, /imgs/2017/05/word-image-101-300x224.jpeg 300w" sizes="(max-width: 804px) 100vw, 804px"/></p>

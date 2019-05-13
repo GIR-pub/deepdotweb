@@ -9,7 +9,7 @@ This week on Bitcoin markets. . . 15th July
     <span><a href="https://www.deepdotweb.com/2015/07/15/this-week-on-bitcoin-markets-15th-july/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="/imgs/2015/07/12.jpg"><img class="aligncenter size-full wp-image-11034" src="/imgs/2015/07/12.jpg" alt="1" width="597" height="431" srcset="/imgs/2015/07/12.jpg 597w, /imgs/2015/07/12-300x217.jpg 300w" sizes="(max-width: 597px) 100vw, 597px"/></a></p>
     <p>This week, the price of bitcoin stepped up its recent momentum, shooting up from a shallow retracement bottom at $ 262, up to a new 4 month high of $ 316. 5 months since the last time this price level was breached in a failed attempt, piercing right through $ 300 resistance level was a strong indicator of intent. Last week, after a brief halt at $ 279, where resistance held back further up moves, we expected a retracement, that turned into sideways action for a couple of days. Considering the historical significance of $ 300 resistance zone, evident from 2 previous attempts this year, any retracement here is only natural and expected.</p>
     <p>Points at which market momentum decelerates are not coincidental; technical levels, moving averages, fibonacci retracement targets, historical supports typically assert themselves on price movements. Each of these indicators sheds light on possible targets to watch on up, down or range limits for sideways price moves.</p>

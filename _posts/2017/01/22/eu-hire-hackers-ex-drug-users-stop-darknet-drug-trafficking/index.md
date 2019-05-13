@@ -9,7 +9,7 @@ The EU to Hire Hackers and Ex-Drug Users to Stop Darknet Drug Trafficking
     <span><a href="https://www.deepdotweb.com/2017/01/22/eu-hire-hackers-ex-drug-users-stop-darknet-drug-trafficking/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Alexis Goosdeel, chief of The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA), announced a new approach to fighting darknet drug sales. On January 4, Goosdeel spoke to the Belgian newspaper <em>Le Soir</em> about a newly drafted strategy aimed solely at the buying and selling of darknet-traced drugs. And according to <em>Le Soir, </em>the strategy, while not due for implementation any time too soon, looked promising. The EMCDDA reported that they would begin hiring hackers to disrupt the flow and usability of any illicit marketplace.</p>
     <p>For those outside the EU member states, EMCDDA’s role is “to provide the European Union and its Member States with factual, objective, reliable and comparable information at European level concerning drugs and drug addiction and the consequences they cause,” one source summarized. The organization’s lengthier aim and mission is readily accessible at the Mission link on the site’s front-page—<a href="http://www.emcdda.europa.eu/about/mission">EMCDDA | Mission</a>. DeepDotWeb reported the group&#8217;s studies routinely, especially in situations where fact-checking proved necessary.</p>
     <p><img class="wp-image-17557 aligncenter" src="/imgs/2017/01/word-image-9.jpeg" width="948" height="422" srcset="/imgs/2017/01/word-image-9.jpeg 1824w, /imgs/2017/01/word-image-9-300x134.jpeg 300w, /imgs/2017/01/word-image-9-1024x456.jpeg 1024w" sizes="(max-width: 948px) 100vw, 948px"/></p>

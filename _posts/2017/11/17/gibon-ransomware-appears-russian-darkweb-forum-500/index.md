@@ -9,7 +9,7 @@ Gibon Ransomware Appears on a Russian Darkweb Forum for $500
     <span><a href="https://www.deepdotweb.com/2017/11/17/gibon-ransomware-appears-russian-darkweb-forum-500/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Matthew Mesa, a proofpoint researcher has discovered a Gibon ransomware being sold on a <a href="https://www.scmagazine.com/gibon-ransomware-delivered-via-malspam/article/705727/">Darknet marketplace for $500</a>. There are quite a number of forums on the Darknet where different goods and services are advertised and discussed. Matthew Mesa, on his research duty, came across a Russian forum where the Gibon ransomware was being advertised. The Russian Darknet forum is known for providing different forms of ransomware, just as <a href="https://www.deepdotweb.com/2016/05/30/new-form-cerber-ransomware-offered-russian-hacking-forum/">a new form of Ceber Ransomware was offered there last year</a>.</p>
     <p>The Gibon ransomware has the ability to infect all data on a machine except files in window folders. Though it was recently discovered on the Darknet, investigation says that this dangerous ransomware has been on the Darknet since May 2017.</p>
     <p>Once Gibon gets into a machine, it encrypts stored data and makes sure that the &#8220;.encrypt&#8221; extension to each filename is appended. The ransomware contains a base64 encoded string.</p>

@@ -9,7 +9,7 @@ Tudge: Vendor Has a ‘Small Number’ of Medicare Numbers
     <span><a href="https://www.deepdotweb.com/2017/07/19/tudge-vendor-small-number-medicare-numbers-2/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In July, a Guardian journalist, Paul Farrell, reported that he had recently bought his <a href="https://www.theguardian.com/australia-news/2017/jul/06/medicare-data-breach-tax-office-suspends-cards-as-id-before-u-turn">Medicare number from a darknet market vendor</a>. Minister for Human Services, Alan Tudge, called the theft a “traditional” one not a cybersecurity breach. He then called upon the Australian Federal Police for assistance.<img class="wp-image-21425 aligncenter" src="/imgs/2017/07/.jpeg" /></p>
     <p>Farrell found a vendor on (the now non existant) <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a> who sold stolen Australian ISP email logins, Australian credit cards, and now stolen Medicare numbers. Starting October 2016, under the name “OzRort,” this vendor provided buyers with Medicare numbers for a person of their choosing. And for only 0.0089 <a href="https://www.deepdotweb.com/tag/bitcoin/">bitcoin</a> (around $22).</p>
     <p><img class="wp-image-21426" src="/imgs/2017/07/word-image-101.jpeg" srcset="/imgs/2017/07/word-image-101.jpeg 800w, /imgs/2017/07/word-image-101-300x200.jpeg 300w, /imgs/2017/07/word-image-101-290x195.jpeg 290w" sizes="(max-width: 800px) 100vw, 800px" /></p>

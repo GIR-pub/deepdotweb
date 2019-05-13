@@ -9,7 +9,7 @@ Chinese National Sentence to 16 Years for Buying Ricin on Dark Net
     <span><a href="https://www.deepdotweb.com/2016/04/21/chinese-national-sentence-16-years-buying-ricin-dark-net/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.fbi.gov/news/stories/2016/april/man-gets-16-years-for-attempting-to-purchase-ricin">Chinese national Cheng Le</a>, who was living in New York City, attempted to order ricin through the dark net. Ricin is a highly potent and potentially fatal toxin with no known antidote. According to U.S. Attorney for the Southern District of New York, Preet Bharara, “In Le&#8217;s own words, established at trial, he was looking for simple and easy death pills and ways to commit 100% risk free murder.”</p>
     <p><a href="https://www.deepdotweb.com/2016/03/12/new-york-man-jailed-for-attempting-to-buy-ricin-from-the-dark-web/">On a particular dark net marketplace in early December 2014</a>, Le asked, “This might sound blunt but do you sell ricin?” Unknown to Le, the person he was messaging wasn&#8217;t a lethal poison dealer, he was in fact and under cover FBI agent. Over the next couple weeks Le and the under cover agent exchanged more than 20 encrypted messages.  Some of Le&#8217;s messages included:</p>
     <p>“If the ricin is good quality, I&#8217;ve already had buyers lining up.”</p>

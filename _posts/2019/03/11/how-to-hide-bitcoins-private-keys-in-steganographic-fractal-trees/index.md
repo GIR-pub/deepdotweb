@@ -9,7 +9,7 @@ How to hide bitcoin&#8217;s private keys in steganographic fractal trees
     <span><a href="https://www.deepdotweb.com/2019/03/11/how-to-hide-bitcoins-private-keys-in-steganographic-fractal-trees/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Owning bitcoin is all about controlling and securing your coins&#8217; private keys. To send funds from your <a href="https://www.deepdotweb.com/2017/09/30/trust-issues-open-closed-source-light-wallets-bitcoin/">bitcoin wallet</a> to another user, you have to sign the transaction using your private key. If you lose your private key, this means that you have literally lost your bitcoins. As such, it is pivotal to keep your private keys stored using the most secure means possible. Some people boost the security of private key storage via hiding them within plain text files via <a href="https://www.deepdotweb.com/2017/05/12/tutorial-store-bitcoins-securely-using-cold-storage/">cold storage</a> and <a href="https://www.deepdotweb.com/2017/01/05/hardware-wallets-keep-friends-close-bitcoins-closer-kptx/">hardware wallets</a>.</p>
     <p><a href="https://ieeexplore.ieee.org/abstract/document/8642736">A recently published research paper</a> proposed a novel approach for hiding bitcoin&#8217;s private keys into steganographic fractals, which is an innovative technique that hasn&#8217;t been described before. This novel approach has been shown to be highly secure and resistant to attacks. Throughout this article, we will take a look at how bitcoin&#8217;s private keys can be hidden via steganographic fractals.</p>
     <p><strong>What are steganographic fractals?</strong></p>

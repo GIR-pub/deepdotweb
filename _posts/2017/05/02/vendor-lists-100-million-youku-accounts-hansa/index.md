@@ -9,7 +9,7 @@ Vendor Lists 100 Million Youku Accounts on Hansa
     <span><a href="https://www.deepdotweb.com/2017/05/02/vendor-lists-100-million-youku-accounts-hansa/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An entire database from Youku Inc., thanks to an entity known as CosmicDark, landed on the <a href="https://www.deepdotweb.com/marketplace-directory/listing/hansa-market/">HANSA darknet marketplace</a> for only $300. The database contained usernames and passwords for Youku, one of the largest digital entertainment companies in China. CosmicDark listed 100,759,591 separate accounts and provided a significant number of sample entries for the skeptics.</p>
     <p><img class="wp-image-19592 aligncenter" src="/imgs/2017/05/word-image.jpeg" srcset="/imgs/2017/05/word-image.jpeg 660w, /imgs/2017/05/word-image-300x136.jpeg 300w, /imgs/2017/05/word-image-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>CosmicDark is less of a household name than than some of the more frequently seen data brokers, hackers, or vendors. However, despite some lack of name recognition, the Hansa vendor currently has 47 active listings. At the time of this article, the listings consisted of gaming forums like the NewSeaSims EA leak, the XP Game Saves database leak, and the WiiIUSO database. The T-Mobile customer leak, via Experian, also appeared under the vendor&#8217;s listing profile.</p>

@@ -10,7 +10,7 @@ Alphabay Vendor “Area51” aka “DarkApollo” Sentenced to 6.5 Years
     <span><a href="https://www.deepdotweb.com/2017/08/08/alphabay-vendor-area51-aka-darkapollo-sentenced-6-5-years/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>On July 24, U.S. Attorney Phillip A. Talbert announced <a href="https://www.justice.gov/usao-edca/pr/heroin-and-cocaine-vendor-alphabay-sentenced-65-years-prison">the sentencing of Abudullah Almashwali</a> aka one half of “DarkApollo” and “Area51.” Almashwali, along with Chaudhry Ahmad Farooq, his co-defendant, sold heroin and cocaine on the former darknet marketplace known as Alphabay. Although the duo were taken down by law enforcement <a href="https://www.scribd.com/document/345274107/almashwali-arrest-pdf">at the same time</a>, only Almashwali received his prison sentence; Farooq’s sentencing date is in January 2018.</p>
     <p>Almashwali received a 78 month prison sentence for conspiracy to distribute heroin and cocaine and for the distribution of heroin and cocaine. Law enforcement agents were able to determine which one of the two men carried the bulk of the operation. And it was not 31-year-old Almashwali; his co-defendant, 24-year-old Farooq, managed the operation. Almashwali simply purchased stamps and shipped Farooq&#8217;s orders, the court documents explained.</p>

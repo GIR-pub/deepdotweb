@@ -9,7 +9,7 @@ Several Internet Drug Dealers Busted in Russia
     <span><a href="https://www.deepdotweb.com/2017/12/11/several-internet-drug-dealers-busted-russia/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to reports from Russia&#8217;s Ministry of Internal Affairs, authorities arrested three Russian citizens for selling drugs on the internet. The three, believed to have been part of an organized drug trafficking group, allegedly sold illegal substances in exchange for <a href="http://deepdotweb.com/tag/bitcoin">cryptocurrencies</a>.</p>
     <p>The Investigation Department of the Ministry of Internal Affairs in Kaluga Oblast investigated three suspects involved in organized drug distribution through the internet. Two suspects lived in the Maloyaroslavets district of Kaluga and one lived in the Zhizdrinsky district. According to evidence uncovered by criminal investigators, the group leader started selling drugs online in early 2017.</p>
     <p><img class="wp-image-23868" src="/imgs/2017/12/word-image-13.png" srcset="/imgs/2017/12/word-image-13.png 1184w, /imgs/2017/12/word-image-13-300x167.png 300w, /imgs/2017/12/word-image-13-1024x569.png 1024w" sizes="(max-width: 1184px) 100vw, 1184px" /></p>

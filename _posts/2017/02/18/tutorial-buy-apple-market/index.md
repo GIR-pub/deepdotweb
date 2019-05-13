@@ -9,7 +9,7 @@ Tutorial: How To Buy From the Apple Market
     <span><a href="https://www.deepdotweb.com/2017/02/18/tutorial-buy-apple-market/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Today we’re going to show you how to use the Apple Market. This market is fairly new but has managed to get a great reputation so far. It allows multisignature and traditional ecrow. Balances and traditional escrows are held by the market, so exit scams by the market are possible. The market has a decent variety of products and an very simplistic and easy to use interface. It’s a good market overall and a good alternative to the more popular ones.</p>
     <p><strong>Part 1 – Protect your privacy</strong></p>
     <p><strong>Step 1: </strong>In order to access any darknet market, you’ll need Tor Browser. TOR allows you to conceal your location by redirecting Internet traffic through a network of nodes. Click <a href="https://www.torproject.org/projects/torbrowser.html">here</a> to go to the Tor Browser download page and download the version that best suits your O.S.</p>

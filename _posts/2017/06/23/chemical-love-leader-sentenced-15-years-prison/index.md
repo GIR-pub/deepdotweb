@@ -9,7 +9,7 @@ Chemical Love Leader Sentenced to 15 Years in Prison
     <span><a href="https://www.deepdotweb.com/2017/06/23/chemical-love-leader-sentenced-15-years-prison/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In April 2016, German law enforcement raided a cellar in Rülzheim and several locations in Baden-Württemberg. The media caught on and asked questions. Investigators then reported that the arrests pertained to a group behind “<a href="https://www.deepdotweb.com/2016/10/21/chemical-love-vendors-formally-charged-drug-trafficking/">Germany&#8217;s biggest illegal web shop for narcotics</a>.” Now the entire group in the Chemical Love case received sentences, save for one.</p>
     <p>Chemical Love was, as prosecutors said, one of Germany’s largest online drug marketplaces. The group sold drugs on both the clearnet and darknet. But, perhaps for those without knowledge of the entire situation, the arrest of the former football player Walter Kelsch stood out the most. The big name during the sentencing, though, was that of Walter Kelsch’s son.</p>
     <p><img class="wp-image-20845 aligncenter" src="/imgs/2017/06/word-image-42.png" srcset="/imgs/2017/06/word-image-42.png 660w, /imgs/2017/06/word-image-42-300x124.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

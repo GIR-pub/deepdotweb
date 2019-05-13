@@ -9,7 +9,7 @@ Twelve People Arrested In Swedish Fentanyl Case
     <span><a href="https://www.deepdotweb.com/2016/11/21/twelve-people-arrested-swedish-fentanyl-case/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A dozen persons were <a href="http://www.blt.se/karlskrona/syntetiskt-heroin-oroar-efter-tillslag/">arrested</a> in Olofström, Sweden. The suspects allegedly sold fentanyl on dark net markets.</p>
     <p>“It shows up very often and we believe it [fentanyl] is used continuously in the country. A few years ago there was a trend of fentanyl patch, in recent times, we have seen it in the form of nasal spray,” a police officer investigating the case said.</p>
     <p>Recently, during a <a href="https://www.deepdotweb.com/2016/11/07/swedish-police-claim-de-anonymised-3000-darknet-buyers/">joint global action</a> against dark net markets, <a href="https://www.deepdotweb.com/tag/hyperion/">Operation Hyperion</a>, about 3,000 dark web users, and 20,000 narcotic sales were identified in Sweden. An extensive cooperation between Swedish and foreign law enforcement authorities finally paid dividends in the form of revelations in the network. The current case is connected to Operation Hyperion.</p>

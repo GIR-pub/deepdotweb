@@ -9,7 +9,7 @@ Bitcoin news roundup, July 30, 2017
     <span><a href="https://www.deepdotweb.com/2017/07/30/bitcoin-news-roundup-july-30-2017/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>A BTC-e operator was arrested, accused of laundering $4 billion, there may be a connection to the Mt Gox hack</strong></p>

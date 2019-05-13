@@ -9,7 +9,7 @@ Napoli Group Counterfeit Vendor Sentenced to House Arrest
     <span><a href="https://www.deepdotweb.com/2017/12/08/napoli-group-counterfeit-vendor-sentenced-house-arrest/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Carmine Guerriero, one of the main actors associated with the international counterfeiting ring known as the “Napoli Group,” received a five year sentence for his role in the crime syndicate’s activities. For the widespread distribution of hundreds of thousands of <a href="https://www.deepdotweb.com/tag/euros/">counterfeit Euros</a>, Guerriero will spend five years under house arrest.</p>
     <p>The Guardia di Finanza arrested Guerriero in December 2016. More than a year prior to the arrest, Europol launched an investigation into the counterfeiting ring at a global scale. The international investigation led <a href="https://www.deepdotweb.com/2016/12/17/darknet-bust-global-law-enforcement-raids-massive-counterfeiting-organization/">police forces arresting at least 28 suspects</a> spread throughout several countries. Law enforcement caught 15 suspects in Spain, eight suspects in Italy, four suspects in France, and one in Portugal. The Italian suspects included the recently sentenced Guerriero and many of his family members.</p>
     <p><img class="wp-image-23827 aligncenter" src="/imgs/2017/12/word-image-11.jpeg" srcset="/imgs/2017/12/word-image-11.jpeg 640w, /imgs/2017/12/word-image-11-300x169.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>

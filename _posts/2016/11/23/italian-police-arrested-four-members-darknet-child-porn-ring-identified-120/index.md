@@ -9,7 +9,7 @@ Italian Police Arrested Four Members of a Darknet Child Porn Ring, Identified 12
     <span><a href="https://www.deepdotweb.com/2016/11/23/italian-police-arrested-four-members-darknet-child-porn-ring-identified-120/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In October, Europol and law enforcement in Italy arrested seven members of a <a href="https://www.deepdotweb.com/2016/11/01/child-porn-ring-busted-italy-7-arrested/">child porn ring with ties to The Love Zone</a>. Italian law enforcement, yet again, made another darknet-related child pornography bust, this time netting four suspects.</p>
     <p>The Polizia Postale (Postal Police), with the aid of several local agencies, searched 44 houses for 31 suspects. The searches were conducted throughout nine regions: Tuscany, Lombardy, Veneto, Trentino Alto Adige, Emilia Romagna, Umbria, Lazio, Puglia and Sicily. Despite the identification of many suspects, authorities considered the sweep to be widely unsuccessful.</p>
     <p>Italian law enforcement identified another 120 suspects located abroad—all of whom will be investigated by the corresponding agencies. The majority of the suspects were located within Europe, USA and Latin America, according to the press release.</p>

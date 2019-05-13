@@ -9,7 +9,7 @@ Nucleus Is Gone: These Are The Top Alternatives!
     <span><a href="https://www.deepdotweb.com/2016/04/20/nucleus-top-10-alternatives/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Yeah, exit scams are not really news, but the tradition says we must post the obligatory gone pic:</p>
     <p><img class="aligncenter size-full wp-image-6494" src="/imgs/2014/07/gone1.jpg" alt="gone[1]" width="480" height="360" srcset="/imgs/2014/07/gone1.jpg 480w, /imgs/2014/07/gone1-300x225.jpg 300w" sizes="(max-width: 480px) 100vw, 480px"/></p>
     <p>Nobody knows why, so do yourself a favor and ignore the <a href="https://www.reddit.com/r/NucleusMarket/comments/4ffr6f/nucleus_was_hacked/" target="_blank">trolls</a> &amp; meaningless meth fueled <a href="https://www.reddit.com/r/DarkNetMarkets/comments/4fiy1g/this_is_why_ive_been_saying_that_nucleus_owner/" target="_blank">walletexplorer inspection</a> posts you read on Reddit and the news articles who <a href="https://www.reddit.com/r/NucleusMarket/comments/4ffr6f/nucleus_was_hacked/" target="_blank">quotes them</a> as if they were real, the fact that we still see those is almost insulting. That aside, the bottom line is that Nucleus, until last week the second largest market (after <a href="https://www.deepdotweb.com/2015/11/16/solved-these-are-the-most-popular-dark-net-markets/" target="_blank">Alphabay</a>) seems to be down since the 13th April, unannounced, and we know what that usually means.</p>

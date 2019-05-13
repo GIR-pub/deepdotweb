@@ -9,7 +9,7 @@ Report Says: Dark Net Marketplaces To Imitate Organized Crime
     <span><a href="https://www.deepdotweb.com/2016/01/21/report-says-dark-net-marketplaces-to-imitate-organized-crime/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.smh.com.au/technology/technology-news/dark-net-drug-marketplaces-begin-to-emulate-organised-street-crime-20160111-gm3k1i.html">Dark Web Markets are getting more similar to traditional organized crime features, the latest reports from the National Drug and Alcohol Research Centre (NDARC) says.</a> According to the institute, drug dealers <a href="https://www.deepdotweb.com/2015/07/09/whats-with-australians-and-dnms/">based in Australia</a> are the most common users of the “system per capita” than any other nationalities.</p>
     <p>The NDARC&#8217;s Drugs Trend Project, which has been monitoring dark net markets since the year of 2013, reports an emergence in extortion, server attacks and “conflict over digital territory” between online marketplaces and third parties over the past 12 months. Joe Van Buskirk, research officer at NDARC made this statement about the dark net markets in general:</p>
     <p>&#8220;Because of the anonymizing features of the Tor network, there is no concern for legality. Any sort of substances can be sold.&#8221;</p>

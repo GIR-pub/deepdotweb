@@ -9,7 +9,7 @@ Bitcoin Price Analysis for 29th May 2017
     <span><a href="https://www.deepdotweb.com/2017/05/28/bitcoin-price-analysis-29th-may-2016/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Is Bitcoin in a Bubble?</strong></p>
     <p>Bitcoin was back in the news this week, after another strong rally to a new all time high of $2760 on May 25, 1430 UCT. Bitcoin continues to prove critics wrong and rope in new investors, speculators, news anchors and traditional wall street money. ABC news Australia had a news <a href="http://i.imgur.com/rx5Fd7q.jpg">segment</a> 3 days in a row, showing Bitcoin alongside gold, brent oil, iron ore and major currencies. Fidelity, a $2.2 trillion asset management company, revealed it was mining bitcoin and was gradually getting into digital currencies. All these happened despite a widening rift in the community on how to scale Bitcoin, which has led some to speculate on an impending bubble top.</p>
     <p><img class="wp-image-20301 aligncenter" src="/imgs/2017/05/xbt-silver-jpg-1.jpeg" alt="XBT Silver.jpg" srcset="/imgs/2017/05/xbt-silver-jpg-1.jpeg 840w, /imgs/2017/05/xbt-silver-jpg-1-300x220.jpeg 300w" sizes="(max-width: 840px) 100vw, 840px" /></p>

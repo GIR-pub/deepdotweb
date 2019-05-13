@@ -11,7 +11,7 @@ DarkNet Video News Roundup: 1/4/16
     <span><a href="https://www.deepdotweb.com/2016/04/02/darknet-video-news-roundup-1416/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The second post of our new collaboration with <a href="https://www.youtube.com/channel/UCwMqVH1YnfCgR01mozDRMeg">Dark Net News YourTube channel</a> &#8211; Where you could find a weekly video aggregation of all the featured news of the past week.</p>
     <p><span style="text-decoration: underline;"><strong>The headlines for this week are:</strong></span></p>
     <ul>

@@ -9,7 +9,7 @@ New Partnership Aims To End Child Porn Related Bitcoin Use
     <span><a href="https://www.deepdotweb.com/2016/07/13/new-partnership-aims-to-put-an-end-to-child-porn-related-bitcoin-use/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Elliptic, a bitcoin startup based in London, and the Internet Watch Foundation (IWF), a charity monitoring child abuse on the web, are partnering to <a href="http://in.reuters.com/article/us-bitcoin-internet-sexcrimes-idINKCN0ZM0GA">suppress the use of BTC</a> in online child pornography.</p>
     <p>Recently, the IWF provided Elliptic a database of bitcoin addresses that they identified with child porn. With this information, Elliptic can identify those illegal activities on the blockchain (bitcoin&#8217;s public ledger of transactions). James Smith, CEO of Elliptic said this regarding their involvement:</p>
     <p>&#8220;This is the first time anybody has started identifying these crimes in bitcoin and flagging them up in a system like ours. This is a great step &#8230; towards our goal of getting rid of any sort of illicit activity in bitcoin.&#8221;</p>

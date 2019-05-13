@@ -9,7 +9,7 @@ Attempted Grenade Buyer Gets 10 Years in Prison
     <span><a href="https://www.deepdotweb.com/2017/06/05/attempted-grenade-buyer-gets-10-years-prison/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>After an investigation by the NCA and Organised Crime Partnership, authorities arrested a suspect for an attempted grenade purchase. The suspect, a 22-year-old man, pleaded guilty to an attempted grenade purchase. He paid a darknet vendor for a fully functioning grenade, the OCP said.</p>
     <p>A judge recently sentenced the 22-year-old Luis McMullan to 10 years in prison for his crimes. <a href="http://www.nationalcrimeagency.gov.uk/news/1089-dark-web-grenade-buyer-had-stash-of-knives-and-knuckle-dusters">McMullan pleaded guilty</a> to the importation of said grenade and guilty to the possession of firearms and ammunition. He additionally pleaded guilty to the possession of <a href="https://www.deepdotweb.com/tag/drugs/">class A substances</a> with intent to supply.</p>
     <p><img class="wp-image-20420 aligncenter" src="/imgs/2017/06/word-image-17.jpeg" width="670" height="377" srcset="/imgs/2017/06/word-image-17.jpeg 800w, /imgs/2017/06/word-image-17-300x169.jpeg 300w" sizes="(max-width: 670px) 100vw, 670px"/></p>

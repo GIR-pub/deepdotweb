@@ -9,7 +9,7 @@ Police And Prosecution Investigating Neo-Nazi Connection In German Vendor Case
     <span><a href="https://www.deepdotweb.com/2017/07/01/police-prosecution-investigating-neo-nazi-connection-german-vendor-case/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>At the end of May, German law enforcement authorities detained six persons who were allegedly running a vendor shop selling narcotics on the dark web. On June 13, the prosecutor’s office and the police department in Aachen, Germany, announced they are also <a href="https://www.bnr.de/artikel/hintergrund/drogen-affine-neonazis">investigating</a> the neo-Nazi connection in the case.</p>
     <p>On May 31 evening, the SEK (Special Deployment Commando) was tasked to <a href="http://www.aachener-zeitung.de/lokales/aachen/zwei-sek-einsaetze-in-brand-drogen-ueber-darknet-verkauft-1.1637487">perform two raids</a> in Aachen, Germany. The first assignment took place on the corner street at about 5:00 pm, however, shortly after 7 pm, there was another police operation in Buschstraße. According to the prosecutor’s office in Aachen, both missions were related to drug-criminality. In the law enforcement operation, the SEK units detained six people.</p>
     <p><img class="wp-image-21015 aligncenter" src="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-aach-1.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\aachen-razzia-drogenbande-100-_v-gseapremiumxl.jpg" /></p>

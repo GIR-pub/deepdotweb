@@ -17,7 +17,7 @@ Bitcoin news roundup May 28, 2017
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments</h2>

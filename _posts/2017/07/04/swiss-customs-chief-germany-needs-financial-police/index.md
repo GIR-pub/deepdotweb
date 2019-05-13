@@ -9,7 +9,7 @@ Swiss Customs Chief: Germany Needs A Financial Police
     <span><a href="https://www.deepdotweb.com/2017/07/04/swiss-customs-chief-germany-needs-financial-police/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a id="post-21074-_gjdgxs"></a> Recently, Frank Bruckenhofer, Chairman of the Customs Department of the Trade Union of the Swiss Confederation, <a href="https://www.neues-deutschland.de/artikel/1054294.zoll-braucht-eine-finanzpolizei.html">pointed out</a> in Berlin that Germany needs a Financial Police.</p>
     <p>Bruckenhofer said that the customs are in a “disastrous condition” in the fight against crime. According to the customs official, the only reason why the disaster was prevented is the high motivation of the employees working at the customs department, especially in the enforcement service. Bruckenhofer emphasized the challenges that law enforcement authorities are facing in the forms of Organized Crime and international terrorism. The official’s department calls for a powerful administrative structure, a new strategic orientation, 4,000 additional posts for employees, and modern equipment. Most importantly, Bruckenhofer urged Germany to create a department for a financial police, which will closely work with the Federal Criminal Police Office (BKA) and the State Criminal Police Office (LKA).</p>
     <p>Bruckenhofer summarized its core requirements in a 32-page position paper called &#8220;Positron 2017&#8221;. This paper is addressed to the &#8220;political decision-makers in Berlin&#8221; three months prior the Bundestag elections. The union wants to create more publicity for an important authority that is indispensable to the security of the country:</p>

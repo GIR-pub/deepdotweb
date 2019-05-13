@@ -9,7 +9,7 @@ Germany Facing Record Levels of Internet Fraud
     <span><a href="https://www.deepdotweb.com/2017/05/29/germany-facing-record-levels-internet-fraud/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A recent case in Germany revealed just how common fraudulent online storefronts have become. The Munich District Court heard a case that exemplified the fraud issues in Germany. And Matthias Huber, public prosecutor, explained the reason similar shops kept causing problems for the general public—and the police.</p>
     <p>The biggest issue that victims often face, he explained, was that fraudsters usually operated covertly, stacking up a significant amount of money, and then washing their hands and starting fresh. A customer never saw his or her money again, even after police involvement. A Munich District Court heard the case of Mark-Thomas E, a 35-year-old defendant who owned more than 21 online shops and brought in more than $482,000 in fraudulent proceeds.</p>
     <p>He <em>sold</em> 750 different items. Some of the items he <em>sold</em> were “coffee machines, mobile phones, and game consoles,” <a href="http://mobil.stern.de/wirtschaft/news/fake-shops-im-netz--wie-betrueger-online-kaeufer-abzocken-7451040.html">one site explained</a>. He never truly sold or shipped a single item.</p>

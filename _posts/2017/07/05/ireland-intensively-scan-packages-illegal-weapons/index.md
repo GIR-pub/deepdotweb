@@ -9,7 +9,7 @@ Ireland to Intensively Scan Packages for Illegal Weapons
     <span><a href="https://www.deepdotweb.com/2017/07/05/ireland-intensively-scan-packages-illegal-weapons/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Ireland&#8217;s Gardaí announced an increased level of surveillance on the country&#8217;s ports and airports in an effort to cut down on inbound weapon smuggling. The Gardaí learned that a number of extremists may have recently used the darknet to facilitate illegal weapon importation. According to the Met Police, attackers in London may be attempting to do the same.</p>
     <p>The Met Police told the Gardaí that they were <a href="http://www.irishtimes.com/search/search-7.1213540?tag_company=Det+Chief+Supt&amp;article=true">investigating a potential lead</a> that stemmed from the London terror attacks. One of the attackers, Rachid Redouane, may have attempted to obtain weapons online, authorities explained. And investigators at the Met have been pursuing a theory that Redouane and possibly others tried to use Ireland as a location for firearm shipments. And specifically shipments from a <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">supplier on the darknet</a>.</p>
     <p>Recently police in the US arrested four men in a darknet weapons smuggling case. Two of the men, both from Atlanta, held information on the group that revealed, to law enforcement, that the group shipped to more than 50 countries. One of which was Ireland. People in Ireland continually get arrested for ordering weapons online.</p>

@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/07/24/24-7-17-dark-web-cybercrime-roundup/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>A Globally Coordinated Operation Just Took Down Alphabay and Hansa</strong></p>
     <p>The events over the past three weeks were not unrelated to Alphabay’s downtime, law enforcement agencies revealed on July 20. Although even before the announcement, the world learned that Alexandre Cazes’s death was directly linked to an investigation into Alphabay and even alpha02. Law enforcement agencies spoke with Martin Cazes, Alexandre’s father, and told him that Alexandre created Alphabay. Additionally, according to Martin, the police had connected Alexandre to alpha02—contradictory to our former understanding that Alexandre was DeSnake. His qualifications matched those of DeSnake’s.</p>
     <p><img class="wp-image-21540" src="/imgs/2017/07/screenshotee-png.png" alt="screenshotee.png" srcset="/imgs/2017/07/screenshotee-png.png 800w, /imgs/2017/07/screenshotee-png-300x152.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

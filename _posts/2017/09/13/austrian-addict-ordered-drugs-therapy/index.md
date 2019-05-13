@@ -10,7 +10,7 @@ Austrian Addict Ordered Drugs During Therapy
     <span><a href="https://www.deepdotweb.com/2017/09/13/austrian-addict-ordered-drugs-therapy/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An Austrian man, who was previously sentenced to drug treatment, ordered narcotics from the dark web during his therapy. As the customs authorities discovered that the packages contained drugs, they stopped them at the border offices. Law enforcement reported that the parcels contained heroin and amphetamine. Since the suspect violated the conditions imposed by the court, he was <a href="http://www.noen.at/purkersdorf/region-purkersdorf-suechtiger-bestellte-drogen-im-internet/58.983.425">sentenced</a> to prison.</p>
     <p>During his court trial, the previously convicted 25-year-old man from Purkersdorf, Lower Austria, Austria begged the judge for another chance. The defendant stated that he already had “enough chances” but if his life does not get under control, “everything&#8217;s over”. The St. Pölten court, instead of a prison sentence, ordered the man to participate in a drug treatment therapy. However, the 25-year-old couldn’t resist the temptation and ordered <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> from the dark web while he was being treated at a patient center for drug addicts.</p>
     <p>&#8220;I know I&#8217;ve had enough chances. But I still ask for one more. Because if I do not manage my life now, everything is over,” the defendant said during his court trial.</p>

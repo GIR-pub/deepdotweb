@@ -9,7 +9,7 @@ Texas Playpen Member Gets 17.5 Years in Prison
     <span><a href="https://www.deepdotweb.com/2017/11/22/texas-playpen-member-gets-17-5-years-prison/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>One member of Playpen, a darknet child pornography forum, recently received a prison sentence of almost 18-years. Daryl Glenn Pawlak was one of the many Playpen members caught by the FBI in a single operation dubbed “<a href="https://www.deepdotweb.com/tag/pacifier/">Operation Pacifier</a>.” Pawlak, a 39-year-old man from Texas, had <a href="https://www.deepdotweb.com/2017/07/21/texas-playpen-member-found-guilty-charges-2/">previously pleaded guilty</a> to the receipt of child pornography and one count of access with intent to view sexual images of a minor.</p>
     <p>DeepDotWeb covered dozens of Operation Pacifier suspects as they battled the case for one reason or another. And for rusted reasons, we covered the case as a whole; The FBI illegally hacked thousands of computers across the globe with a nearly undefined scope and unchecked reach. Because of this—and acknowledgment of it by dozens of federal judges—many Playpen members managed to get sentenced to time served or the very minimum possible sentence. One even managed to win a battle against the US Department of Justice that resulted in all charges being dropped. Pawlak, though, received more prison time than many sentenced Playpen members put together.</p>
     <p><img class="wp-image-23637 aligncenter" src="/imgs/2017/11/word-image-22.jpeg" srcset="/imgs/2017/11/word-image-22.jpeg 800w, /imgs/2017/11/word-image-22-300x198.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

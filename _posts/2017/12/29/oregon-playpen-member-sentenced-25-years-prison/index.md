@@ -9,7 +9,7 @@ Oregon PlayPen Member Sentenced to 25 Years in Prison
     <span><a href="https://www.deepdotweb.com/2017/12/29/oregon-playpen-member-sentenced-25-years-prison/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A federal judge sentenced 44-year-old Thomas Gene Duncan to <a href="https://www.justice.gov/usao-or/pr/gresham-man-sentenced-25-years-prison-producing-and-possessing-child-pornography">25 years in prison</a> and a lifetime of supervised release. Duncan had spent almost 100 hours on a darknet child abuse forum called “<a href="https://www.deepdotweb.com/tag/playpen/">PlayPen</a>.” When the FBI raided his Gresham home in October, 2015, they found 120 videos and 4,000 pictures downloaded from numerous child abuse sites, including PlayPen. They also found explicit photos of his fiancée’s 12-year-old daughter.</p>
     <p><img class="wp-image-24181 aligncenter" src="/imgs/2017/12/word-image-69.png" srcset="/imgs/2017/12/word-image-69.png 660w, /imgs/2017/12/word-image-69-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>Duncan pleaded guilty on August 29, 2017, to one count each of the production and possession of child pornography in federal court. He pleaded guilty to one count each of first-degree rape, second-degree sodomy, and unlawful sexual penetration in state court. Duncan will be sentenced in state court in early January 2018.</p>

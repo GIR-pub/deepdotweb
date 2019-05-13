@@ -9,7 +9,7 @@ UN Report Shows One In Six Drug Users In Scotland Use The Dark Web For Buying Th
     <span><a href="https://www.deepdotweb.com/2016/07/05/un-report-shows-one-six-drug-users-scotland-use-dark-web-buying-substances/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A recent UN report shows that 1 in 6 persons in Scotland who uses drugs are ordering their “packages” <a href="http://www.dailyrecord.co.uk/news/scottish-news/one-six-scottish-drug-users-8283087#39x8Db5AuXcY0Eip.97">from the dark web</a>. The research also shows that Scotland has one of the biggest percentages of dark net users per country. They came sixth behind Sweden, Poland, Norway, Denmark and England and Wales.</p>
     <p>According to the United Nations report, Scottish dark net users buy mostly magic mushrooms and ecstasy tablets from the illegal marketplaces. The study shows concerns on criminals raising funds by trafficking drugs. The UN made this statement:</p>
     <p>“This raises concerns in terms of the potential of the dark net to attract new users by facilitating access to drugs in a setting that allows users to avoid direct contact with criminals and law enforcement authorities.”</p>

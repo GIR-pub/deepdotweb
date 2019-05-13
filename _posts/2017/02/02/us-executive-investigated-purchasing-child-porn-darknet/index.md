@@ -9,7 +9,7 @@ US Executive Being Investigated For Purchasing Child Porn on Darknet
     <span><a href="https://www.deepdotweb.com/2017/02/02/us-executive-investigated-purchasing-child-porn-darknet/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>US executive and linguistics expert James Kirk Jones was arrested earlier this week after investigators discovered he was creating a collection of <a href="https://www.deepdotweb.com/2016/11/23/italian-police-arrested-four-members-darknet-child-porn-ring-identified-120/">child pornography</a> obtained from the darknet.</p>
     <p>Upon the issuance of a warrant, local law enforcement officers and investigators seized the laptop, mobile phone and hard drive of Jones. Within the local storage of his laptop, investigators found 39 gigabytes of child pornography. According to the Criminal Investigation Department (CID) of India’s Telangana state, the child pornography collection of jones was extended to his mobile phone and hard drive, where more footages of child pornography were found.</p>
     <p>CID investigators have gathered sufficient evidence to charge Jones for the illegal possession of child pornography. In the upcoming weeks, CID investigators in collaboration with local law enforcement agencies will look into other accomplices or potential clients of Jones who purchased child pornography from Jones and his vendors on the darknet.</p>

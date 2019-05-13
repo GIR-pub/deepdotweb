@@ -9,7 +9,7 @@ Apple to FBI, Spying Possible Even With Encryption
     <span><a href="https://www.deepdotweb.com/2016/11/05/apple-fbi-spying-possible-even-encryption/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Apple was declared the victor in its latest battle with the FBI which officially came to an end in March 2016. The multi-billion dollar technology company kept its dignity by refusing to offer sensitive user data to the FBI. In a recently leaked Wikileaks-Podesta email however, Apple has stated that it will continue its relationship with law enforcement by sending sensitive customer data upon their request.</p>
     <p>The Podesta Emails is a series created by WikiLeaks to expose private messages that the Hillary Clinton campaign Chairman and long-term associate of the Clintons John Podesta has sent and received over the past decade.</p>
     <p>In one of the leaked emails sent by Apple Environment, Policy and Social Initiatives Vice President <a href="http://www.apple.com/pr/bios/lisa-jackson.html">Lisa Jackson</a> to Podesta, the Apple team clearly stated that the current methods of encryption in place allows the firm to essentially send an unlimited amount of personal and sensitive user data to law enforcement.</p>

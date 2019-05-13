@@ -9,7 +9,7 @@ Dark Web Pedo Sentenced 13 Years in Prison
     <span><a href="https://www.deepdotweb.com/2017/05/22/dark-web-pedo-sentenced-13-years-prison/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Roy Harvender Jr. from New Castle County, Delaware, a 59-year-old member of Website 19, a dark web child pornography darknet marketplace which fully operated from 2012 to 2014, was arrested and sentenced to 13 years in prison.</p>
     <p><img class="wp-image-20049 aligncenter" src="/imgs/2017/05/word-image-86.png" srcset="/imgs/2017/05/word-image-86.png 600w, /imgs/2017/05/word-image-86-300x201.png 300w, /imgs/2017/05/word-image-86-290x195.png 290w" sizes="(max-width: 600px) 100vw, 600px"/></p>
     <p>Harvender, who is better known in the dark web as ricenbeans, actively engaged in the distribution and acquisition of child pornography on the Website 19 darknet marketplace. Unlike other dark web sites which simply require payments in bitcoin for access to illicit child pornography, Website 19 had a strict rule which required members such as Harvender to submit or distribute child pornography in order to access other files in the marketplace.</p>

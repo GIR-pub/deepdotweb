@@ -9,7 +9,7 @@ US Charges Teenager for 100s of Fake Bomb Threats
     <span><a href="https://www.deepdotweb.com/2017/05/08/us-charges-teenager-100s-fake-bomb-threats/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An 18-year-old with both Israeli and United States citizenships made fake bomb threats to Jewish Community Centers throughout the world. Then, the teenager landed in the <a href="https://www.deepdotweb.com/tag/fbi/">FBI investigative scope</a> for a barrage of focused attacks in the United States. He made calls to JCCs in Florida and called in fake emergency information about Georgian residents.</p>
     <p>The 18-year-old (he is officially referred to as both an 18-year-old and a 19-year-old) made threatening calls to Jewish Community Centers for months. He called in bomb threats and disrupted day-to-day activities. It started with Jewish Community Centers, a press release read. He called in bomb threats and active shooter situations. Every time police responded, the vicinity needed clearing, people needed evacuation, and full lockdowns often occurred.</p>
     <p>He grew more courageous and started branching out. He called schools and other, similar institutions throughout the United States. Criminal complaints in Florida popped up first. Macon, Georgia, was next in line. He called police departments with fictionalized information about numerous individuals in residences in Athens, Georgia. <a href="https://www.deepdotweb.com/tag/police/">Police responded</a>, prepared for violent situations, but only found that no emergency existed in the first place.</p>

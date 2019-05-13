@@ -9,7 +9,7 @@ Indiana State Police: Darknet Crime Like a Game of Whack-a-Mole
     <span><a href="https://www.deepdotweb.com/2017/05/01/indiana-state-police-darknet-crime-like-game-whack-mole/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>For a police force, the Indiana State Police played a larger role in fighting cybercrime than many others. The Cyber and Intelligence Division ran several programs over the past few years that promoted online awareness. They focussed on the protection of children and the advancement of law enforcement&#8217;s scope. OSINT, cryptocurrency, and <a href="http://www.theindychannel.com/news/local-news/indiana-state-police-announce-initiative-to-reduce-cyber-youth-victimization">methods stalkers used for cyberstalking</a> commonly came up in a reference to the department. Their scope, though, recently grew deeper after the darknet took the blame for a young man&#8217;s heroin overdose.</p>
     <p>The darknet, of course, had no say in the matter. The former University of Arkansas student succumbed to narcotic abuse well before the fatal overdose. As a freshman at the school, William Doerhoff battled opioid addiction for the first year. “Fueling his addiction, Doerhoff purchased his poison online – and by the end of the year, he was hooked,” <a href="http://www.myfoxzone.com/mb/tech/the-heroin-epidemic-on-the-dark-web/431335117">a news outlet wrote</a>.</p>
     <p><img class="wp-image-19568 aligncenter" src="/imgs/2017/04/word-image-63.jpeg" srcset="/imgs/2017/04/word-image-63.jpeg 930w, /imgs/2017/04/word-image-63-300x194.jpeg 300w" sizes="(max-width: 930px) 100vw, 930px" /></p>

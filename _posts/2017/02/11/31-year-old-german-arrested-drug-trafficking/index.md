@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/02/11/31-year-old-german-arrested-drug-trafficking/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities <a href="http://www.mz-web.de/landkreis-harz/prozess-31-jaehriger-vor-gericht-wegen-drogenhandels-25582178">detained</a> a 31-year-old suspect from Wernigerode, Germany for drug trafficking.</p>
     <p><img class="wp-image-18081 aligncenter" src="/imgs/2017/02/hemp-plants.jpeg" alt="Hemp plants" width="768" height="385" srcset="/imgs/2017/02/hemp-plants.jpeg 938w, /imgs/2017/02/hemp-plants-300x150.jpeg 300w, /imgs/2017/02/hemp-plants-660x330.jpeg 660w" sizes="(max-width: 768px) 100vw, 768px" /></p>
     <p>The suspect stood before the Fifth Criminal Court of Magdeburg on Friday. The prosecution accused the 31-year-old of ordering about 560 grams of amphetamines in September 2015 from the dark web.</p>

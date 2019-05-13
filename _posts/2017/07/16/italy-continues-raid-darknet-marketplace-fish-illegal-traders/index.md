@@ -9,7 +9,7 @@ Italy Continues To Raid the Darknet Marketplace to Fish out The Illegal Traders
     <span><a href="https://www.deepdotweb.com/2017/07/16/italy-continues-raid-darknet-marketplace-fish-illegal-traders/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The continuous growth of Drug trafficking on the Darknet in Italy has called for an investigation into this hidden part of the internet. Italy has been categorized as part of the criminal networks. In April this year, a raid on the Darknet saw the Flying squad of the police headquarters in Lecco, arresting five people and seizing a bunch of drugs. The Leco police have engaged in many <a href="https://www.deepdotweb.com/2017/05/14/police-studied-idc-financial-crime-years/">criminal studies</a> for years.</p>
     <p>The raid was launched across Italy and in 17 provinces, aimed to put a stop to the drug smuggling over the Darknet marketplaces. Some of these provinces include Perugia Pesaro, Urbino, Power, Rimini, Salerno, Siena, Sondrio, Trieste, Udine, Venice, Verona, and few others.</p>
     <p>The Central Operational Service and Lecco Police some time ago started this online investigation. This was part of the International Drug Investigation. A research shows that a 50 raid conducted closed down the <a href="https://www.deepdotweb.com/2017/05/12/italy-watched-italian-darknet-community-since-2016/">Italian Darknet Community</a>. The Italian Darknet community was a forum which also encouraged selling of illegal drugs. It encouraged the operation of child pornography, terrorism, and pedophile.</p>

@@ -9,7 +9,7 @@ Report Says Canadian Cyberthreats Are Different Than The Ones In The US
     <span><a href="https://www.deepdotweb.com/2016/01/09/report-says-canadian-cyberthreats-are-different-than-the-ones-in-the-us/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.scmagazine.com/ransomware-not-on-canadas-threat-landscape-researchers-find/article/463527/">According to a landscape report made by Trend Micro researchers, the cyberthreats in the US and in Canada are not the same.</a> Such as the United States, Canada has its own share of malware and banking trojans (such as Dridex), however, ransomware is not present in the northern country. Christopher Budd, Trend Micro’s global threat communications manager, reasoned with this statement:</p>
     <p>“For whatever reasons the market forces just aren&#8217;t driving them in that direction.”</p>
     <p>The official report did not say why such threats are not present in the country, however, according to Budd, the cost-benefit analyses by cybercriminals could show that using ransomware may have a low-yield since Canadians are not culturally attuned to falling victim such attacks. He also pointed out that ransomware attacks have ”worked their way around the globe” and their main targets were the United Kingdom and New Zealand before cybercriminals began targeting American businesses and institutes. Based on this information, Budd thinks it may be possible that Canadians will be targetted by ransomware attacks in the future.</p>

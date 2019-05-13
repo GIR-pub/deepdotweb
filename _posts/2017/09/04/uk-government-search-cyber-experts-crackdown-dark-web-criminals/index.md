@@ -10,7 +10,7 @@ UK Government on Search For Cyber Experts to Crackdown on Dark Web Criminals
     <span><a href="https://www.deepdotweb.com/2017/09/04/uk-government-search-cyber-experts-crackdown-dark-web-criminals/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The UK National Crime Agency (NCA) is actively recruiting cyber experts and dark web analysts to focus on the crackdown of illicit drug rings and operations being pursued by dark web marketplaces.<img class="wp-image-22357 aligncenter" src="/imgs/2017/09/rsz_16733391312_178055d01d_b-jpg.jpeg" alt="rsz_16733391312_178055d01d_b.jpg" srcset="/imgs/2017/09/rsz_16733391312_178055d01d_b-jpg.jpeg 660w, /imgs/2017/09/rsz_16733391312_178055d01d_b-jpg-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>Specifically, NCA is on a lookout for G5 Armed Surveillance Investigator in the Armed Operations Unit, which <a href="http://www.belfastlive.co.uk/news/belfast-news/national-crime-agency-hunt-staff-13509751">according to local sources</a> will cooperate with the Intelligence and Operations Directorate to lead investigations into dark web marketplaces and their illegal activities.</p>
     <p>Earlier this year, <a href="https://www.deepdotweb.com/2017/06/13/25-uk-drug-users-use-darknet-markets/">DeepDotWeb reported</a> that the UK has seen a drastic increase in dark web activity across many regions. According to a report covered by DeepDotWeb in June released by the Global Drug Survey, a staggering 25 percent of British drug users have been acquiring illicit substances from dark web marketplaces. In fact, the rate of dark web usage amongst illicit drug users of the UK was the third highest in the world, behind Norway and Finland.</p>

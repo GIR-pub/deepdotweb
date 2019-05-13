@@ -9,7 +9,7 @@ Hacker Teach How He Hacked Spain’s Catalan Police Union Website
     <span><a href="https://www.deepdotweb.com/2016/05/26/police-catalan-hack/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The dark web has become synonymous with hacking, a day doesn’t go by when a white/grey/black hat hacker has completed a hack, and highlighted security issues, or dumped another database with a trove of valuable secrets displayed across various underground forums or dark net markets.</p>
     <p>The latest hacker to enter the fray is Phineas Fisher, who shot to fame when he hacked “Hacking team” and “Gamma Group”, an organisation based in Italy that sold, and provided support to various international police forces, or <a href="http://motherboard.vice.com/read/hacker-claims-responsibility-for-the-hit-on-hacking-team">clandestine organisations</a>.</p>
     <p>Since his initial rise to fame, Phineas has again hit the headlines for two main reasons.  Firstly his donation of $11,000 in <a href="https://www.deepdotweb.com/2016/05/26/hacker-robs-bank-25-btc-donates-fight-isis/">bitcoin to anti ISIS outfit in Syria</a>, and now a few days later for hacking the Spain’s Catalan police union website called Sindicat De Mossos d’Esquadra (SME).</p>

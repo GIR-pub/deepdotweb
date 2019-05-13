@@ -9,7 +9,7 @@ Counterfeit Euro Notes In Sweden Increased By 120 Percent
     <span><a href="https://www.deepdotweb.com/2017/04/05/counterfeit-euro-notes-sweden-increased-120-percent/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a <a href="http://sverigesradio.se/sida/artikel.aspx?programid=160&amp;artikel=6656263">report</a> conducted by the National Forensic Center (NFC) in Linköping, Sweden, the counterfeit euro notes in circulation in the country increased by 120 percent from 2014 to 2016.</p>
     <p><img class="wp-image-19014 aligncenter" src="/imgs/2017/04/http-i-imgur-com-sopzqkv-jpg.jpeg" alt="http://i.imgur.com/SOpzqkV.jpg" width="923" height="519" srcset="/imgs/2017/04/http-i-imgur-com-sopzqkv-jpg.jpeg 1437w, /imgs/2017/04/http-i-imgur-com-sopzqkv-jpg-300x169.jpeg 300w, /imgs/2017/04/http-i-imgur-com-sopzqkv-jpg-1024x576.jpeg 1024w" sizes="(max-width: 923px) 100vw, 923px"/></p>
     <p>The National Forensic Center examines half of the total amount of <a href="https://www.deepdotweb.com/tag/counterfeit/">counterfeit</a> euro notes each year. Last year, they examined 660 fake bills. In two years, it is an increase of over 120 percent. The total estimated value of the notes analyzed in 2016 is expected to be around 500,000 SEK (57,000 USD).</p>

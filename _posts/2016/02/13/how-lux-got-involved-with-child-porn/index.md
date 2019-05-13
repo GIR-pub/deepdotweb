@@ -9,7 +9,7 @@ How Lux Got Involved With Child Porn
     <span><a href="https://www.deepdotweb.com/2016/02/13/how-lux-got-involved-with-child-porn/#comments">23 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Matthew David Graham (23), using the pseudonym ”Lux” on his site, <a href="https://www.deepdotweb.com/2015/09/15/child-porn-ring-admin-lux-pleads-guilty/">was the administrator of one of the biggest child porn rings</a> that had more than 215,000 users at the time. The pedo site was infamous for its brutality; Lux’s website featured hurtcore child porn. Graham in 2014 decided to close down the whole domain. <a href="https://www.deepdotweb.com/2014/06/24/large-number-of-child-abuse-sites-shut-down-abruptly/">He even posted a farewell message to the users</a>:</p>
     <blockquote><p>”As always, all Empires eventually fall and today is the day that the {Removed} falls.</p>
     <p>After years of running CP hidden services, today is the day that I walk away. There are personal issues which my close friends have been made aware of that have forced me to make this decision.</p>

@@ -9,7 +9,7 @@ Bitcoin News Roundup – April 4th 2016
     <span><a href="https://www.deepdotweb.com/2016/04/04/bitcoin-news-roundup-april-4th-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Recapping the week’s biggest Bitcoins stories from around the web:</p>
     <p><strong>Overstock.com Invest $ 4 million in Caribbean Bitcoin Startup</strong></p>
     <p>Earlier this year, Bitt, a bitcoin startup from Barbados, announced its plans to use the bitcoin blockchain for issuing fiat digital currency for the Caribbean Islands. The firm already launched the Barbadian dollar as an asset on the blockchain, using the coloured coins protocol.</p>

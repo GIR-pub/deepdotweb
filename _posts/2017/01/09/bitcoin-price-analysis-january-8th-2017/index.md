@@ -9,7 +9,7 @@ Bitcoin Price Analysis For January 8th, 2017
     <span><a href="https://www.deepdotweb.com/2017/01/09/bitcoin-price-analysis-january-8th-2017/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Bitcoin price continued rising during the past week to score a high of around $1139.89 on bitstamp last Wednesday. Just after the week&#8217;s high was recorded, a downwards price correction wave pulled price down to a low of $812, before rising again to $903 at the time of writing of this article.</p>
     <p>So, the bullish wave, that has been fueling the price surge since last September, has been apparently reversed when price approached the all-time high ($1168.72) recorded in November, 2013. So, what can we expect during the upcoming week? Will price continue rising after this brief price correction attempt? or will the market&#8217;s bears take control and pull price down to even lower levels?</p>
     <p><em>As I will be writing the weekly bitcoin analysis on Deepdotweb.com, I will set up throughout this article, key resistance and support levels that will help us better understand my bitcoin price analysis during the upcoming weeks. </em></p>

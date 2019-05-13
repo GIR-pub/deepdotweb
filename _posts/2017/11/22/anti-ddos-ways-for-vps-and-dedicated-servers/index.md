@@ -9,7 +9,7 @@ Anti-DDoS ways for VPS and Dedicated Servers
     <span><a href="https://www.deepdotweb.com/2017/11/22/anti-ddos-ways-for-vps-and-dedicated-servers/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>DDos (Distributed Denial of Service) attacks have become a major threat to current computer networks.</p>
     <p>If your website goes down due to an overload of website traffic, you’re probably a victim of the notorious distributed denial of service (DDoS) attack. DDoS attacks have become a nightmare for companies with an active online presence. From BBC to Twitter and from Donald Trump’s website to Netflix, 2016 saw some of the most unprecedented cyber attacks in the history of the Internet.</p>
     <p>In the ever-changing world of high-tech gadgets and rising popularity of Internet of Things, <a href="https://www.deepdotweb.com/2017/11/05/fbi-asks-businesses-report-ddos-attacks/">DDoS attacks</a> have increased 2.5 times over the last 3 years, and are believed to become increasingly frequent in the coming years.</p>

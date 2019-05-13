@@ -9,7 +9,7 @@ Counterfeit Euros Is The New Trend Among Dark Net Criminals
     <span><a href="https://www.deepdotweb.com/2016/12/07/counterfeit-euros-new-trend-among-dark-net-criminals/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Christmas and the holidays are near and e-commerce sales are booming. So too is the dark web where, according to a report by German newspaper <a href="http://www.volksfreund.de/nachrichten/welt/themendestages/themenderzeit/Weitere-Themen-des-Tages-Neue-Masche-der-Kriminellen-Falschgeld-aus-dem-Internet-Derzeit-sind-vermehrt-50-Euro-Blueten-im-Umlauf;art742,4564094">volksfreund.de</a>, criminals are buying progressively more counterfeit Euros. They say this is the reason why there’s plenty of fake Euro bills in the Rhineland-Palatinate region.</p>
     <p>There’s a recent story about Markus Reis, the owner of the Zeltinger Hof hotel, who was pointed out by an employee of the local bank on a fake 100 Euro bill he tried to use as payment. Reis did not believe his eyes since the bill seemed genuine to untrained eyes. When compared to a legitimate 100 Euro bill, it was still hard to distinguish, which one was the real one.</p>
     <p>At the moment, it is believed that there could be thousands of fake 50 Euro bills in specific regions of Germany. Since 50 Euro bills are the most popular ones in the country, counterfeiters use this to take advantage. Bundesbank, a German financial institution, registered 45,700 pieces of 50 Euro bills just in the first half of 2016. This takes about 60 percentage of all banknotes they registered in that part of the year.</p>

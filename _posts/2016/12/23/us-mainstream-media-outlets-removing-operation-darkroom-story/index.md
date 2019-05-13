@@ -9,7 +9,7 @@ Why Are US Mainstream Media Outlets Removing the “Operation Darkroom” Story?
     <span><a href="https://www.deepdotweb.com/2016/12/23/us-mainstream-media-outlets-removing-operation-darkroom-story/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Towards the end of 2016, Norwegian officials announced the <a href="http://www.nordlys.no/seksuelle-overgrep/overgrep-mot-barn/krim/51-personer-involvert-i-pedofilisak-det-er-flere-hoyt-utdannende-med-hoy-it-kompetanse/s/5-34-518851">completion of an international darknet child pornography investigation</a>. Police identified 51 suspects, and many were law enforcement officers, politicians, or other well-known individuals. The investigators seized 150 terabytes of child porn under the now defunct &#8220;Operation Darkroom.&#8221;</p>
     <p>Mainstream media picked up on the article and published stories about the arrests but the news, now, has changed. Various news outlets and Twitter users noticed the websites started to remove the articles. The question is simple: why? Thankfully, for some, the articles are easily <a href="http://archive.is/uq4oF">located</a>.</p>
     <p><img class="wp-image-17114 aligncenter" src="/imgs/2016/12/cache-png.png" alt="cache.PNG" srcset="/imgs/2016/12/cache-png.png 600w, /imgs/2016/12/cache-png-300x213.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>

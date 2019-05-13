@@ -9,7 +9,7 @@ Tor Releases another Snapshot on the Road to Major Onion Router Updates
     <span><a href="https://www.deepdotweb.com/2016/11/19/tor-releases-another-snapshot-road-major-onion-router-updates/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>The Tor Project’s Nick Mathewson announced that on Nov. 8<sup>th</sup>, another release of an Alpha Development snapshot for Tor 0.2.9, The Onion Router, would be released</strong>.</p>
     <p><a id="post-16484-_gjdgxs"></a> Coming three weeks after 0.2.9.4 Alpha, <a href="http://news.softpedia.com/news/new-tor-the-onion-router-anonymity-network-stable-branch-getting-closer-510097.shtml">Tor .0.2.9.5</a> added a great number of bug fixes and overall improvements for issues that have been reported since its predecessors release by Tor’s development team. This release takes us one step closer to the grand release of the newest major updates of The Onion Router network:</p>
     <p><strong><em>We’re getting closer to stable, but we still need testing. Tor 0.2.9.5-alpha fixes numerous bugs discovered in the previous alpha version. We believe one of two probably remain, and we encourage everyone to test this release</em></strong>.</p>

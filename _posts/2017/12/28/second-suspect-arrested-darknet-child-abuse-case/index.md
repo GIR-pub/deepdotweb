@@ -9,7 +9,7 @@ Second Suspect Arrested in Darknet Child Abuse Case
     <span><a href="https://www.deepdotweb.com/2017/12/28/second-suspect-arrested-darknet-child-abuse-case/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>During the Fall of 2017, the Federal Criminal Police Office (BKA) released photograph pulled from a video found on a darknet child abuse forum and asked for the public’s help in identifying the victim (and the abuser). Within hours, the child’s mother saw the pictures and travelled to a police station with her daughter. The police quickly identified the abuser as the woman’s 24-year-old partner and <a href="https://www.deepdotweb.com/tag/arrested/">brought him into custody</a> shortly afterwards. Now, according police in Lower Saxony, a second suspect has emerged.</p>
     <p>Due to the highly unusual nature of the tactics used in the case, the BKA held a press conference where a spokesperson told the public that all other attempts at identifying the crime scene and victim had failed. Videos victim, a 4-year-old girl, first surfaced on the darknet in 2016, police said. The abuser then uploaded pictures and videos of various episodes of sexual abuse until July 2017. In these cases, a senior prosecutor for the Central Office for Cybercrime (ZIT) explained, the investigators can usually narrow down a list of suspects based on pieces of information accidentally revealed by the abuser.</p>
     <p><img class="wp-image-24138" src="/imgs/2017/12/word-image-51.png" srcset="/imgs/2017/12/word-image-51.png 800w, /imgs/2017/12/word-image-51-300x159.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

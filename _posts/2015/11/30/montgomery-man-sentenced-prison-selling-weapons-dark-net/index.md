@@ -9,7 +9,7 @@ Montgomery Man Sentenced To Prison For Selling Weapons On Dark Net
     <span><a href="https://www.deepdotweb.com/2015/11/30/montgomery-man-sentenced-prison-selling-weapons-dark-net/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.justice.gov/usao-mdal/pr/montgomery-man-sentenced-selling-firearms-dark-web">Michael Albert Focia (48) of Montgomery, Alabama was sentenced for 51 months of jail time for dealing with firearms without a license</a> and two counts of selling guns to customers who were outside the State of Alabama, according to George L. Beck, Jr., United States Attorney for the Middle District of Alabama.</p>
     <p>We have already written an <a href="https://www.deepdotweb.com/2015/07/09/montgomery-man-convicted-after-tracing-with-fingerprints-on-the-package/">article about Focia</a>. We have detailed in that content how Focia was caught by federal agents due to his actions.</p>
     <p>According to court documents, the prosecution came up with evidence that proves Focia was selling guns on the dark web. During the investigation, federal agents have uncovered that the dark net weapon dealer has shipped 32 firearms to many different locations, including Australia and Sweden. According to the feds, Focia has used different stealth tactics to hide his identity when sending the packages, this included placing false return address labels on packages, using aliases for sending, falsely declaring the contents of the parcels he was sending, and packing the firearms so that they appeared to be computer hard drives if inspected. U.S. Attorney Beck made this statement regarding Focia’s case:</p>

@@ -9,7 +9,7 @@ Ex Australian Cop Busted for Selling Stolen Police Identification on Alphabay
     <span><a href="https://www.deepdotweb.com/2016/12/02/ex-australian-cop-busted-selling-stolen-police-identification-alphabay/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Former Australian police officer James Goris was arrested Tuesday morning in correlation with a raid on his home in Castlemaine following a five-month investigation. <a href="http://www.edenmagnet.com.au/story/4313207/former-cop-sold-fake-police-ids-online-court-told/?cs=4090">An investigation</a> into Goris’ online habits started when he was accused of selling fake police, airport, and port authority identification on the Darknet.</p>
     <p>Police stated that they had fears the documents could be used by anyone in order to gain access to a police station, as well as to bypass airport security. The court was told that Goris’ crimes could have aided terrorists and a number of other criminals. Goris’ investigation was a joint effort by Victoria Police’s E-Crime Squad, Australian Federal Police, and NSW Police.</p>
     <p><a id="post-16711-_gjdgxs"></a> Goris served with the Victoria Police until 2010 and denied bail by Bendigo Magistrates’ Court Wednesday. Goris is currently facing five separate charges. Goris set up shop on the popular Darknet marketplace, <a href="https://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a>.</p>

@@ -9,7 +9,7 @@ Colorado Man Sentenced For Sharing Fentanyl Resulting In Two Overdose Deaths
     <span><a href="https://www.deepdotweb.com/2017/05/28/colorado-man-sentenced-sharing-fentanyl-resulting-two-overdose-deaths/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A man from Breckenridge, Colorado, the United States was <a href="http://www.summitdaily.com/news/crime/breckenridge-man-sentenced-to-five-years-for-role-in-two-fentanyl-overdose-deaths/">sentenced</a> for ordering <a href="https://www.deepdotweb.com/2017/05/04/parent-claims-dealer-gave-fentanyl-son-darknet-blame/">fentanyl</a> from the dark web, which he shared with his brother and a friend, who later died from the overdose of the controlled substance.</p>
     <p><img class="wp-image-20201 aligncenter" src="/imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-brf-.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\Brf-Fentanyl-SDN-051317.jpg" srcset="/imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-brf-.jpeg 620w, /imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-brf--300x225.jpeg 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
     <p>The 22-year-old Christopher Malcolm purchased the synthetic opioid fentanyl from the darknet, which he supplied to two others, who later died from the fatal use of the drug. The defendant was originally charged with two counts of negligent homicide, however, he later pleaded guilty to the distribution of a controlled substance.</p>

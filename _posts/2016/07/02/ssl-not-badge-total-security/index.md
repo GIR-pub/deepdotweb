@@ -9,7 +9,7 @@ SSL Is Not a Badge Of Total Security
     <span><a href="https://www.deepdotweb.com/2016/07/02/ssl-not-badge-total-security/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Although SSL is an encryption protocol (or a security measure in general) to cover up or protect active traffic between a user and a web server, it can’t prevent eavesdropping. In spite of SSL, advance hackers can sniff in on traffic, analyse active traffic, and monitor traffic to steal sensitive information via session hijacking and other forms of web attack.  Nevertheless, basic users still prefer to purchase items on sites with extended validation certificate certified by Symantec and other reputable ones.  Perhaps that green padlock on the left side of the unique resource locator/Indicator is quite enough to protect them from intruders.</p>
     <p>Before I explain into details why SSL is not entirely secure but still needed just to boost “user’s confidence” and how attackers can employ diverse session hijacking methods and even Reflected File Download to make SSL redundant, let’s practically understand the mechanism of SSL.</p>
     <p>First and foremost, SSL is far different from SSH. System administrators use SSH to securely access remote services via telnet. Typically <a href="https://en.wikipedia.org/wiki/Telnet">Telnet</a>  uses port 23. When traffic is encrypted with SSH, routing firewalls or natural routers, network access control and media access control recognise Telnet as port 22. The same can be said of FTP. <a href="https://en.wikipedia.org/wiki/FTP">FTP</a> in its raw state uses port 20 and 21. FTP alongside SSH uses port22.</p>

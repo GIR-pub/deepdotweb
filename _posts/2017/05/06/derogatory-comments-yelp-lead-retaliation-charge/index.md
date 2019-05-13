@@ -17,7 +17,7 @@
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On April 19, U.S. District Judge Sidney A. Fitzwater convicted a 53-year-old search engine optimizer and reputation manager of one count of retaliation. William Laurence Stanley, the defendant, landed in custody in 2016 after extorting Generational Equity, court documents revealed. While in custody, he began another extortion process against the reputation management company. He faces a <a href="https://www.deepdotweb.com/tag/sentenced/">maximum sentence of 10 years in prison</a>.</p>
     <p>Generational Equity hired Stanley in 2009 and fired him roughly a year later for operating outside of his contract. <a href="https://www.justice.gov/usao-ndtx/pr/search-engine-optimizer-sentenced-more-three-years-federal-prison-extorting-money-local">He began the extortion in 2013</a>. Records show that he first threatened to link the company to an unannounced scam. Later records indicate that he the scam he referred to was the entirety of a reputation management’s sole function—keeping an entity’s name and reputation clean.</p>

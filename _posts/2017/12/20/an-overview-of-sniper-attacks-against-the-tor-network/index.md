@@ -9,7 +9,7 @@ An Overview of Sniper Attacks Against the Tor Network &#038; Current Defenses
     <span><a href="https://www.deepdotweb.com/2017/12/20/an-overview-of-sniper-attacks-against-the-tor-network/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Wide scale internet censorship attempts by governments have catalyzed the creation of newer techniques to enhance the privacy of internet users and resist various censorship attempts. Tor represents the most widely used system for counteracting censorship and promoting the privacy of internet users. Currently, Tor serves hundreds of thousands of internet users all over the world and transfers approximately 3 GiB/s collectively every day. Tor utilizes onion routing to route users&#8217; network traffic via a network of diverse relay nodes, preventing any relay node from matching a user to his/her final internet destination. Consequently, attacks against Tor are of pivotal importance to internet users who are highly concerned about the privacy of their online activities.</p>
     <p><img class="wp-image-23995 aligncenter" src="/imgs/2017/12/word-image-34.png" srcset="/imgs/2017/12/word-image-34.png 384w, /imgs/2017/12/word-image-34-300x122.png 300w" sizes="(max-width: 384px) 100vw, 384px" /></p>
     <p><strong>What is the Sniper Attack?</strong></p>

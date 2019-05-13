@@ -9,7 +9,7 @@ Russia Investigates an Online Drug Trafficking Ring
     <span><a href="https://www.deepdotweb.com/2017/06/28/russia-investigates-online-drug-trafficking-ring/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Russian Authorities arrested four suspects in an investigation into a <a href="https://xn--b1aew.xn--p1ai">large scale drug trafficking network</a> that operated from Ussuriysk, Primorsky Krai, Russia. The Drug Control Department of the Ministry of the Interior confirmed that the suspects were in custody and had been charged on June 5.</p>
     <p>During the investigation, undercover officers bought from one of the main suspects—a 42-year-old in Ussuriysk. Afterwards, while conducting a search at his place of residence, authorities found a “derivate of ‘N-metilefedron.’” This name, even when fully translated either refers into the English language, sizes not fit any International Nonproprietary Name. It either refers to methcathinone or N-methylephedrine. Since N-methylephedrine is less valuable than ephedrine and the only other reference is to methcathinone, N-metilefedron will now be in reference to methcathinone.</p>
     <p><img class="wp-image-20949 aligncenter" src="/imgs/2017/06/word-image-178.jpeg" srcset="/imgs/2017/06/word-image-178.jpeg 800w, /imgs/2017/06/word-image-178-300x240.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

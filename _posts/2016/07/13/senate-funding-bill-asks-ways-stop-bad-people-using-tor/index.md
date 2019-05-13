@@ -9,7 +9,7 @@ Senate Bill Asks For Ways to Stop Bad People From Using Tor
     <span><a href="https://www.deepdotweb.com/2016/07/13/senate-funding-bill-asks-ways-stop-bad-people-using-tor/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A new bill going through Congress wants to stop “bad people from using Tor. It not only provides a safe haven for online activists and whistle-blowers for people in oppressed countries, but also for criminals, drug users, and pedophiles.</p>
     <p>The people behind the Tor project aren’t known for taking too kindly to oppressive, intrusive, surveillance minded governments. To go even further beyond the paranoid thoughts that government funding already compromises Tor, we take into consideration the Snowden incident that revealed that Tor is in fact, one of the only tools that still has the NSA baffled in most situations.</p>
     <p>With all that being said, it comes as no surprise that Congress may be secretly fighting against the state funding of Tor. The latest State Dept. appropriations bill is snaking its way silently through Congress references to stopping circumvention technologies from being used by bad people. How this is possible, I have no idea. I just came up with three flaws in my head, and can only imagine what readers are thinking themselves.</p>

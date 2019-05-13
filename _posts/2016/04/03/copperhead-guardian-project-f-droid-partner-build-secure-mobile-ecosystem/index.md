@@ -9,7 +9,7 @@ Copperhead, Guardian Project &#038; F-Droid To Build Secure Mobile Ecosystem
     <span><a href="https://www.deepdotweb.com/2016/04/03/copperhead-guardian-project-f-droid-partner-build-secure-mobile-ecosystem/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p class="Standard">Copperhead, Guardian Project, and F-Droid are partnering up and want to raise funding for an “open, verifiably secure mobile ecosystem of software, services and hardware”, according to the Guardian Project&#8217;s <a href="https://guardianproject.info/2016/03/28/copperhead-guardian-project-and-f-droid-partner-to-build-open-verifiably-secure-mobile-ecosystem/"><span style="color: windowtext; text-decoration: none; text-underline: none;">blog</span></a>.</p>
     <p class="Standard">The blog post goes on to say, “Through a future planned crowdfunded and commercial offering, the partnership will provide affordable off-the-shelf solutions, including device hardware and self-hosted app and update distribution servers, for any individual and organizations looking for complete mobile stacks they can trust.”</p>
     <p class="Standard">In other words, they want to create a truly secure phone. The phone will consist of CopperheadOS as the OS, F-Droid for your app store needs, and a slew of must-have apps for privacy and security developed by the Guardian Project. The three organizations each have a &#8216;specialty&#8217; – if you will – and plan to contribute to this project accordingly.</p>

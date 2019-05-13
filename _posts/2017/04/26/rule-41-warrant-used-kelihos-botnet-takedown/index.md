@@ -9,7 +9,7 @@ Rule 41 Warrant Used in Kelihos Botnet TAKEDOWN
     <span><a href="https://www.deepdotweb.com/2017/04/26/rule-41-warrant-used-kelihos-botnet-takedown/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A joint announcement from the FBI, the Department of Justice Criminal Division, and the FBI Anchorage Criminal Division <a href="https://www.justice.gov/opa/pr/justice-department-announces-actions-dismantle-kelihos-botnet-0">released information on an extensive operation</a> to disrupt the Kelihos botnet. Additionally, they announced that the US government will continue to share samples of the Kelihos botnet with the internet security community. The target in doing so is to keep antivirus software up-to-date with respect to current malware. “Many paid and free programs” already possess the capability to catch Kelihos activity, the announcement said.</p>
     <p>The release pointed to the Microsoft Safety Scanner as one of the few free antivirus programs capable of detecting the malware. And this comes at a fitting moment, given the malware targets vulnerable Windows machines. Other suspected connections to Windows once existed but have since vanished, thanks to the release of various court documents.</p>
     <p><img class="wp-image-19407 aligncenter" src="/imgs/2017/04/word-image-41.jpeg" srcset="/imgs/2017/04/word-image-41.jpeg 700w, /imgs/2017/04/word-image-41-300x187.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>

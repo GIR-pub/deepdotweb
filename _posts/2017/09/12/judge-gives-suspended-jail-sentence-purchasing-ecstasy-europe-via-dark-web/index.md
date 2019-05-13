@@ -10,7 +10,7 @@ Judge gives Suspended jail sentence for purchasing ecstasy from Europe via the D
     <span><a href="https://www.deepdotweb.com/2017/09/12/judge-gives-suspended-jail-sentence-purchasing-ecstasy-europe-via-dark-web/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 22-year old man has been handed a two-year suspended jail sentence after he bought 350 ecstasy tablets from the Netherlands and Germany via the dark web.</p>
     <p>The culprit, Tyler James Evers, of Strong Street in Terang, a town in the Western District of Victoria, Australia pleaded guilty to importing speed, and three counts of importing a marketable quantity of <a href="https://www.deepdotweb.com/2017/08/19/200-prepared-packs-20000-ecstasy-pills-seized-drug-raid/">ecstasy</a> in a County Court in Warrnambool. His arrest came after an investigation conducted by the Australian Federal Police.</p>
     <p>Officers of the Taskforce Icarus raided a Terang home believed to be his parent’s and also his home in Strong Street after four packages he ordered from the <a href="https://www.deepdotweb.com/2017/08/30/four-suspects-arrested-rachakonda-police-ordering-drugs-darknet/">dark web</a> were intercepted by border protection officers.</p>

@@ -9,7 +9,7 @@ Swedish Police Claim to Have De-Anonymised 3,000 Darknet Buyers
     <span><a href="https://www.deepdotweb.com/2016/11/07/swedish-police-claim-de-anonymised-3000-darknet-buyers/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The month of October ended with harsh examples of global law enforcement’s ever-growing darknet presence. We wrote about one such example: Operation Hyperion. Dutch police launched a site on the deepweb where they issued a warning to buyers and sellers. <a href="https://www.deepdotweb.com/2016/10/31/dutch-national-prosecution-service-police-launch-hidden-service-global-darknet-enforcement-operation/">“You have our attention</a>,” the site announced, followed by a list of arrested vendors.</p>
     <p>On October 31, Swedish police issued a press release regarding the <a href="https://polisen.se/Aktuellt/Nyheter/2016/Oktober/Tusentals-kopare-av-droger-pa-natet-identifierade/">mass identification of darknet transactions and buyers</a>. Swedish police, with the help of the Customs Service, identified 20,000 narcotic sales and 3,000 buyers.</p>
     <p>Sweden’s breakthrough in identifying buyers from the DNMs coincided perfectly with the <a href="https://www.ice.gov/news/releases/law-enforcement-agencies-around-world-collaborate-international-darknet-marketplace">announcement made by ICE</a>. Similarly, the announcement coincided with the <a href="https://politiepcvh42eav.onion.to/">newly-launched warning page</a> to darknet buyers and sellers.</p>

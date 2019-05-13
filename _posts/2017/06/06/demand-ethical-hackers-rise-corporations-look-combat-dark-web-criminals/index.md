@@ -9,7 +9,7 @@ Demand For Ethical Hackers Rise as Corporations Look to Combat Dark Web Criminal
     <span><a href="https://www.deepdotweb.com/2017/06/06/demand-ethical-hackers-rise-corporations-look-combat-dark-web-criminals/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Hackers are categorized into black, grey and white hat hackers. Black hat hackers are individuals or groups which target corporations and organizations with a malicious intent for political or financial gain. Grey hat hackers aim to find exploits in the computer and IT systems of corporations and either publish the findings or request incentive for the exploitation. Lastly, white hat hackers, also known as ethical hackers, are hackers who are contracted to find exploitations in company servers and systems to prevent potential attacks.</p>
     <p>For instance, the undisclosed individual who hacked into Zomato’s servers and hacked 17 million Zomato accounts can be labeled as a grey hat hacker, as the hacker collaborated with Zomato to recover the accounts and implement security solutions in return for a bounty or incentive.</p>
     <p>On the contrary, the developers and distributors of the WannaCry ransomware can be described as black hat hackers, as they breached into over 300,000 computer systems with a purely malicious intent to obtain financial gain. In total the developers of the WannaCry ransomware have pocketed around $80,000.</p>

@@ -9,7 +9,7 @@ Israel Approves Web Censorship Law to Tackle Illegal Activities Online
     <span><a href="https://www.deepdotweb.com/2017/08/04/israel-approves-web-censorship-law-tackle-illegal-activities-online/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p><a id="post-21733-_gjdgxs"></a> Hard Luck to Israel Darknet users following the recent announcement of the government to block all activities deemed illegal on the internet including the Darknet marketplaces.</p>
     <p>The court has approved web censorship laws to fight against all these activities. The effort is to fight against online prostitution service, illegal gambling, terror group websites and other drugs and illicit related services on the Darknet marketplace.</p>

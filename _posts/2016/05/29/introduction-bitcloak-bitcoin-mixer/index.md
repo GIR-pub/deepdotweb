@@ -9,7 +9,7 @@ Introduction: BitCloak Bitcoin Mixer
     <span><a href="https://www.deepdotweb.com/2016/05/29/introduction-bitcloak-bitcoin-mixer/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><em>This is an introduction post about a bitcoin mixing service called BitCloak, the post has been provided by the service admin and is posted as is.</em></p>
     <p>BitCloak is a Bitcoin mixer present only in the darknet as Tor hidden service at the following url: <strong><a href="http://bitcloak43blmhmn.onion" target="_blank">http://bitcloak43blmhmn.onion</a></strong></p>
     <p><a href="/imgs/2016/05/home.jpg"><img class="aligncenter size-full wp-image-14271" src="/imgs/2016/05/home.jpg" alt="home" width="1100" height="935" srcset="/imgs/2016/05/home.jpg 1100w, /imgs/2016/05/home-300x255.jpg 300w, /imgs/2016/05/home-1024x870.jpg 1024w" sizes="(max-width: 1100px) 100vw, 1100px" /></a></p>

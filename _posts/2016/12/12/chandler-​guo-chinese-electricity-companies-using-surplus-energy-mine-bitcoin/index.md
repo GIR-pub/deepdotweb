@@ -9,7 +9,7 @@ Chandler ​Guo: Chinese Electricity Companies Are Using Surplus Energy to Mine 
     <span><a href="https://www.deepdotweb.com/2016/12/12/chandler-%e2%80%8bguo-chinese-electricity-companies-using-surplus-energy-mine-bitcoin/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.chandlerguo.com">Chandler Guo</a>, a prominent bitcoin investor in major bitcoin mining pool Bw.com and various Ethereum Classic startus, recently revealed that Chinese electricity companies are using surplus energy to mine bitcoin.</p>
     <p>Over the past 6 months, capital controls in China have become increasingly tight. The Chinese government has begun to regulate foreign investments of large corporations and lately began to restrict the importation of gold to prevent capital from leaving the country.</p>
     <p>All of these efforts are a part of the Chinese government’s initiative to stop the devaluation of the Chinese yuan, which has recorded a 5.8% decline against the US dollars.</p>

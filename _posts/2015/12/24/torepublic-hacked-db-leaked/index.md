@@ -9,7 +9,7 @@ Torepublic Hacked, DB Leaked
     <span><a href="https://www.deepdotweb.com/2015/12/24/torepublic-hacked-db-leaked/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a Polish <a href="http://niebezpiecznik.pl/post/wyciek-bazy-torepublic/">website</a> &#8211; <a href="https://www.deepdotweb.com/marketplace-directory/listing/torepublic-forum/">Torepublic</a>, a polish DNM &amp; forum was hacked and its DB leaked (The DB is <span class="notranslate">dated 19 December 2015</span>).  This explains why the site has been down for the past week.</p>
     <p>DB sample:</p>
     <p><a href="/imgs/2015/12/CWvr_TCVAAAYpBU-600x2631.png"><img class="aligncenter size-full wp-image-12750" src="/imgs/2015/12/CWvr_TCVAAAYpBU-600x2631.png" alt="CWvr_TCVAAAYpBU-600x263[1]" width="600" height="263" srcset="/imgs/2015/12/CWvr_TCVAAAYpBU-600x2631.png 600w, /imgs/2015/12/CWvr_TCVAAAYpBU-600x2631-300x132.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>Defacement of the site:</p>

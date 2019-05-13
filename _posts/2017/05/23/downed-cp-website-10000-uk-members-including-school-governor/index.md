@@ -9,7 +9,7 @@ Downed CP website had 10,000 UK Members, Including a School Governor
     <span><a href="https://www.deepdotweb.com/2017/05/23/downed-cp-website-10000-uk-members-including-school-governor/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Earlier this year, <a href="https://www.deepdotweb.com/2017/02/09/anonymous-hacks-freedom-hosting-ii-bringing-almost-20-active-darknet-sites/">DeepDotWeb reported that Anonymous hacked Freedom Hosting II</a>, effectively bringing down almost 20% of all active darknet websites. According to the hacker, 50% of the websites hosted by Freedom Hosting II were child porn websites, even though the hosting provider claimed to have “a zero tolerance policy to child pornography.”</p>
     <p>Among those websites was Paradise Village, a portal that had been up and running for nearly two years without authorities being able to shut it down, according to <a href="https://www.thetimes.co.uk/edition/news/child-abuse-network-had-10-000-uk-members-d665p2nwk~">The Times</a>. Paradise Village reportedly had over 80,000 registered users, 10,000 of which were from the UK, including an NHS employee, a sex offender, and a school governor.</p>
     <p>Analysis of the hacked data has revealed that Paradise Village had a mostly male viewership, but that some women also visited the site. This type of data was taken from a forum that was accessible to users that did not use the Tor browser. A few identities, such as that of a user claiming to be a Czech university lecturer, who bragged about having sex with an 11-year-old girl, have not yet been confirmed.</p>

@@ -10,7 +10,7 @@ Two students of NIT, Warangal busted with Illegal Drugs
     <span><a href="https://www.deepdotweb.com/2017/09/13/two-students-nit-warangal-busted-illegal-drugs/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The latest result to emerge from the series of events regarding the <a href="https://www.deepdotweb.com/2017/08/12/investigation-revealed-side-recent-hyderabad-darknet-drug-bust/">Hyderabad drug bust</a> is the apprehending of two senior students of National Institute of Technology (NIT), Warangal pursuing Btech.</p>
     <p>The Task Force officers of Excise and Prohibition on Wednesday raided their hostel room on campus and caught the students who had five blots of LSD (Lysergic acid Diethylamide) in their possession.</p>
     <p>Y Ramesh and G Dwijj, the culprits, were arrested on drug peddling charges which included procuring, consuming and selling of Lysergic Acid Diethylamide.</p>

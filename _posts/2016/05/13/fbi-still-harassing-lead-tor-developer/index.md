@@ -9,7 +9,7 @@ FBI Still Harassing Lead Tor Developer
     <span><a href="https://www.deepdotweb.com/2016/05/13/fbi-still-harassing-lead-tor-developer/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.techdirt.com/articles/20160505/00383034349/fbi-harassing-core-tor-developer-demanding-she-meet-with-them-refusing-to-explain-why.shtml">Lead software developer for Tor</a>, Isis Agora Lovecruft claims that the FBI is harassing her because they would like to talk with her, but will not disclose a reason why.  An FBI agent showed up at her parents home and left a card, instructing them to have Isis call them.  Later, phone calls to her parents home from the FBI requesting her to contact them once more started. Lovecruft didn&#8217;t contact them herself. Instead she had her lawyer reach out to the FBI agent in question.</p>
     <p><a href="/imgs/2016/05/card1.jpeg"><img class="aligncenter  wp-image-14056" src="/imgs/2016/05/card1.jpeg" alt="card[1]" width="693" height="520" srcset="/imgs/2016/05/card1.jpeg 1024w, /imgs/2016/05/card1-300x225.jpeg 300w" sizes="(max-width: 693px) 100vw, 693px"/></a></p>
     <p>“Word got to my lawyer in the U.S., who decided to call FBI Special Agent Mark Burnett, on that Friday, saying that he represented me and my family. Burnett said the FBI simply wanted to ask me some questions. My lawyer responded by stating that as my invoked representation, all questions should be directed through him rather than me or my family. The agent agreed, paused while some muffled male voices were heard in the background, and asked to call back in five minutes,” Lovecruft stated.</p>

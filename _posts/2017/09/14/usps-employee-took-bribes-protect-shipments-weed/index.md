@@ -9,7 +9,7 @@ USPS Employee Took Bribes to Protect Shipments of Weed
     <span><a href="https://www.deepdotweb.com/2017/09/14/usps-employee-took-bribes-protect-shipments-weed/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In March of this year a drug dealer in Buffalo, New York, pleaded guilty to bribery of a USPS employee and possession of marijuana with intent to distribute. The USPS employee was a 27-year-old woman named Briana Fugate. On August 25, Assistant U.S. Attorney Wei Xiang announced the conviction and sentencing of <a href="https://www.justice.gov/usao-wdny/pr/former-postal-carrier-sentenced-bribery-drug-distribution-and-delay-mail">the former USPS employee</a>.</p>
     <p>U.S. District Judge Lawrence J. Vilardo convicted Fugate of “bribery, distribution of marijuana, and delay of mail.” She received a one year sentence. Although the press release never mentioned additional prison time for a probation violation—as she was on probation for state larceny—additional punishments may be waiting for her upon release.</p>
     <p><img class="wp-image-22534" src="/imgs/2017/09/extralarge-jpg-1.jpeg" alt="extralarge.jpg" srcset="/imgs/2017/09/extralarge-jpg-1.jpeg 620w, /imgs/2017/09/extralarge-jpg-1-300x200.jpeg 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>

@@ -9,7 +9,7 @@ Intel, Kaspersky, Netherlands Police and Europol Teams Up To Take Down Ransomwar
     <span><a href="https://www.deepdotweb.com/2016/07/30/intel-kaspersky-netherlands-police-europol-teams-take-ransomware/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The European Police Agency <a href="https://www.europol.europa.eu/content/no-more-ransom-law-enforcement-and-it-security-companies-join-forces-fight-ransomware">announced on Monday</a> they join forces with <a href="https://blog.kaspersky.com/ransomware-blocker-to-cryptor/12435/">Kaspersky</a>, Intel and the Netherlands Police to stop the growth of ransomware. The joint group launched a website online called “<a href="https://www.nomoreransom.org/">No More Ransom</a>” to help inform the public about the dangers of ransomware and help victims recover their data without having to pay to the attackers.</p>
     <p>According to a Kaspersky research, the number of ransomware attacks increased more than five times between the years of 2014-2015 and 2015-2016, from the value of 131,111 to 718,536.</p>
     <p>Jornt van der Wiel, security researcher at Kaspersky says that by paying the cybercriminals on demand, victims of ransomware boost the underground economy, which leads to the growth of ransomware attackers:</p>

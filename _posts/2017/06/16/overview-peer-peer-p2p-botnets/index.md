@@ -9,7 +9,7 @@ An Overview of Peer-to-peer (P2P) Botnets
     <span><a href="https://www.deepdotweb.com/2017/06/16/overview-peer-peer-p2p-botnets/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A <a href="https://www.deepdotweb.com/2017/05/03/botnets-deep-web/">botnet</a> is a network of machines that are infected and controlled by a malicious attacker. Botnets are by far the most serious security threat across the internet today. Even though most botnets rely on a central command and control (C&amp;C) server, <a href="http://cs.ucf.edu/~czou/research/P2PBotnets-bookChapter.pdf">peer-to-peer (P2P) botnets</a> have recently emerged as more dangerous forms of botnets. P2P botnets are more resistant to security defensive measures as they lack C&amp;C servers of conventional botnets.</p>
     <p><strong>Centralized Vs P2P Botnets:</strong></p>
     <p>A botnet is comprised of a network of infected machines (bots) that run malicious software, which has been silently installed via a myriad of techniques including worms, trojan horses and viruses. These compromised machines, or zombie computers, are controlled remotely by the attacker, or the &#8220;botmaster&#8221;. When a botnet is composed of a large number of machines, it has a huge cumulative bandwidth and robust computing capabilities. Botnets are exploited by their botmasters for launching various forms of malicious activities including email spamming, keylogging, password cracking and distributed denial of service (DDoS) attacks.</p>

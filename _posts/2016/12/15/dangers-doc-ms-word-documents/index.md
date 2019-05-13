@@ -9,7 +9,7 @@ Dangers of .doc &#8211; MS Word Documents
     <span><a href="https://www.deepdotweb.com/2016/12/15/dangers-doc-ms-word-documents/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Microsoft Office Word documents have &#8220;macro&#8221; functionality which is implemented in Visual Basic for Applications (VBA) programming language. VBA is nearly the same as Visual Basic, main difference is that VB compiles to an executable and VBA needs a document as a carrier.</p>
     <p>In my previous article, I analyzed .svg images for spreading malware. SVG images used embedded JavaScript which runs in a browser which poses some restrictions. VBA on the other hand runs as an executable, thus has more permissions.</p>
     <p>Some social engineering is needed for victim to click &#8216;Enable Content&#8217;, but I don&#8217;t think that&#8217;s difficult. That button loads and starts the scripts. <strong>Clicking &#8216;enable content&#8217; is enough for malware to get installed. </strong>Very often social engineering trick is to use Microsoft&#8217;s generic option: Enable macros to view content.</p>

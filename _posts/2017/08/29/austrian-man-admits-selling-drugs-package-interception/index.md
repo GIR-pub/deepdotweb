@@ -17,7 +17,7 @@ Austrian Man Admits to Selling Drugs After Package Interception
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On February 2017, customs officers in Vienna, Austria intercepted an incoming package “filled” with heroin. The package had come from Holland and was addressed to a 24-year-old old in Kirchdorf, Austria. The natural escalation occurred: law enforcement raided the young man&#8217;s home. Although the home proved more boring than they had likely hoped.<img class="wp-image-22256 aligncenter" src="/imgs/2017/08/1790316_t1w747h560q80v27301_xio-fcmsimage-20170803.jpeg" alt="1790316_t1w747h560q80v27301_xio-fcmsimage-20170803181003-006004-59834adb26cc8-.77b7bc93-9227-4656-8b51-4c452d7b3290.jpeg" /></p>
     <p>At the house, they had only found small amounts of heroin—seemingly not quantifiable. “Small amounts of heroin, search poisons and other evidence of heroin trafficking could be found and secured,” the press release explained. Although the suspect volunteered that he had purchased the heroin from <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">darknet markets</a>, that mattered very little at the time. Officials made the decision to let the 24-year-old off the hook and return to ordinary life. His admission of guilt, from February of this year, impacted more recent events, though. And certainly reflected on the February incident as well, in retrospect.</p>

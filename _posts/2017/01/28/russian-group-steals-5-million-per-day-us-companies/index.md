@@ -9,7 +9,7 @@ Russian Group Steals Up To $5 Million Per Day From US Companies
     <span><a href="https://www.deepdotweb.com/2017/01/28/russian-group-steals-5-million-per-day-us-companies/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>White Ops, a US-based <a href="https://www.deepdotweb.com/2017/01/12/cryprocurrencies-financial-systems-highest-cybersecurity-standards-planet/">cyber security</a> firm, revealed that a Russian cyber criminal group has been stealing up to US$5 million on a daily basis from American corporations through the utilization of a botnet.</p>
     <p>A <a href="https://www.deepdotweb.com/2016/11/06/analysis-record-ddos-attacks-mirai-iot-botnet/">botnet</a>, also known as a zombie army, is a class of online computers commanded to send spam or viruses to other computers on the internet. Russian hackers is using a specially designed botnet to redirect automated web traffic to a bot signature.</p>
     <p>In a period of 12 months, the botnet-based operation of the Russian criminal group grew exponentially in size, essentially forming a bot farm with a series of proxies and IP allocation. Using its resources, the group then directed its pool of online IP addresses and computers to video advertisers to receive compensation from video advertising networks.</p>

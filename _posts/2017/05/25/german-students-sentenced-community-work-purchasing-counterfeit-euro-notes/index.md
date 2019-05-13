@@ -9,7 +9,7 @@ German Students Sentenced To Community Work For Purchasing Counterfeit Euro Note
     <span><a href="https://www.deepdotweb.com/2017/05/25/german-students-sentenced-community-work-purchasing-counterfeit-euro-notes/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Two students were <a href="https://www.tag24.de/nachrichten/dresden-gericht-polizei-falschgeld-studenten-darknet-faelschung-249660">sentenced</a> to community work in Dresden, Germany for ordering counterfeit euro notes from the dark web.</p>
     <p><img class="wp-image-20130 aligncenter" src="/imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-6b1d.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\6b1da44dfb42f8047b67.jpg" width="564" height="360" srcset="/imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-6b1d.jpeg 980w, /imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-6b1d-300x191.jpeg 300w" sizes="(max-width: 564px) 100vw, 564px" /></p>
     <p>Recently, the 20-year-old Felix H. and the 21-year-old Max L. were standing trial for purchasing <a href="https://www.deepdotweb.com/tag/counterfeit/">counterfeit</a> euro bills from the dark net, which they intended to put into circulation in order to make profits. Both of the defendants admitted their crimes before the court. Felix, who is studying media informatics, said that while he was browsing the dark web he came across offers advertising counterfeit money. The student admitted that he ordered 10 pieces of <a href="https://www.deepdotweb.com/2017/05/08/us-charges-teenager-100s-fake-bomb-threats/">fake</a> 50 euro notes for his friend Max (the other defendant) from an Italian vendor on the dark web paying 210 euros in total.</p>

@@ -9,7 +9,7 @@ Student Gets Prison Time for Importation and Trafficking Through the Darknet
     <span><a href="https://www.deepdotweb.com/2016/11/17/student-gets-prison-time-importation-trafficking-darknet/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Federal authorities arrested Daren Moshe, a 24-year-old college student, outside a New York UPS store on October 3, 2014. He was selling α-PVP on the darknet. Two years later, a plea deal was finalized and Moshe was sentenced to six years in prison.</p>
     <p>He admitted to selling importing drugs from China and <a href="http://nypost.com/2016/11/08/student-who-bought-illegal-drugs-from-china-to-be-popular-sentenced-to-six-years/">selling them on Agora marketplace</a>.</p>
     <p>The Department of Homeland Security began investigating Moshe in September, 2014. A package of α-PVP, hidden inside lamps that resembled rabbits, was opened by customs in New York. The combined weight of the powder in the shipment was 507 grams.</p>

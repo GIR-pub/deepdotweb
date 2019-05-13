@@ -9,7 +9,7 @@ ChaosVPN: The Hackers’ VPN!
     <span><a href="https://www.deepdotweb.com/2016/11/14/chaosvpn-hackers-vpn/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>You have to admit it – even the name sounds intriguing, doesn’t it? ChaosVPN is a VPN intended to connect hackers and hackerspaces. The Chaos Computer Club, based in Hamburg, Germany, designed it.</p>
     <p>I discovered ChaosVPN in a very unusual way. I’m a member of several dark web-related social networks (on the clearnet, that is) and one of the group members asked how to connect to it. Thus, I was directed to the <a href="https://wiki.hamburg.ccc.de/ChaosVPN">ChaosVPN wiki</a>, which, of course, explains how to connect and all the basics.</p>
     <p>The part that really made me laugh, of course, was this “warning” emblazoned on the front page:</p>

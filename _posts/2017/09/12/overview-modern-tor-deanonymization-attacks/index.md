@@ -10,7 +10,7 @@ tag-attacks tag-deanonymization tag-modern tag-overview
     <span><a href="https://www.deepdotweb.com/2017/09/12/overview-modern-tor-deanonymization-attacks/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Tor was designed to provide a decentralized, censorship resistant network that can offer internet users, websites and various web services anonymity via easy-to-implement means. Nevertheless, since the advent of Tor, some users have failed to maintain their anonymity. Throughout this article, we will discuss Tor&#8217;s deanonymization techniques that are available today. We will go through traffic and timing correlation attacks, operational security (OPSEC) failure, electronic fingerprinting and remote code execution as discussed by a <a href="https://link.springer.com/chapter/10.1007/978-3-319-64701-2_52">recently published research study</a>.</p>
     <p>Given the fact that Tor network harbors controversial content, including drug markets, child pornography&#8230;etc, law enforcement agencies (LEAs) have been utilizing a myriad of exploits to <a href="https://www.deepdotweb.com/2017/08/21/targeting-adversaries-deanonymization-attacks-tor-users/">deanonymize some of Tor&#8217;s users</a>. These techniques involve exploits of human errors, in addition to complicated mathematical methods that can take advantage of software flaws. Moreover, operational security (OPSEC) failures, which are usually related to mistakes committed by users, can facilitate deanonymization.</p>
     <p><img class="wp-image-22509" src="/imgs/2017/09/word-image-10.jpeg" width="713" height="487" /></p>

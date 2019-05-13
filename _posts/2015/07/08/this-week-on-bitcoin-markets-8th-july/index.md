@@ -9,7 +9,7 @@ This week on Bitcoin markets. . . 8th July
     <span><a href="https://www.deepdotweb.com/2015/07/08/this-week-on-bitcoin-markets-8th-july/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <div class="wp-socializer-buttons clearfix">
     <span class="wpsr-btn">
     

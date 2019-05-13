@@ -9,7 +9,7 @@ Russian Darknet Buyer Arrested, Said He Resold Drugs
     <span><a href="https://www.deepdotweb.com/2017/06/30/russian-darknet-buyer-arrested-said-resold-drugs/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In Udmurtia, a federal subject of <a href="https://www.deepdotweb.com/tag/russia">Russia</a> located the Volga Federal District, drug seizures, especially seizures of substituted cathinones are far from uncommon. According to the most recent poll, <a href="http://udmurt.media/news/zdorove/20541/">6,000 or more drug addicts reside in Udmurtia</a> and that number only counts addicts, not drug users. With the growing popularity of the darknet, many started ordering drugs from the darknet and distributing them both locally and redistributing them online.</p>
     <p>Local law enforcement recently caught another drug smuggler of the above variety: the type that buys drugs for redistribution. Officers of the Russian Interior Ministry’s Drug Control Service arrested the driver of a vehicle who, as police discovered after stopping his car, <a href="https://xn--b1aew.xn--p1ai">carried numerous packages of stimulants</a> that he had purchased online.</p>
     <p><img class="wp-image-20997 aligncenter" src="/imgs/2017/06/word-image-194.jpeg" srcset="/imgs/2017/06/word-image-194.jpeg 800w, /imgs/2017/06/word-image-194-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

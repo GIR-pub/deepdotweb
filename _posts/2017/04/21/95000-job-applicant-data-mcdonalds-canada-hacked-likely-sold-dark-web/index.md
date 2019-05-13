@@ -17,7 +17,7 @@
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>An undisclosed group of hackers successfully breached into the database and servers of the $106 billion fast food chain McDonald’s. Representatives of McDonald’s Canada admitted to the theft of three years worth of applicant data.</p>
     <p>In a statement, McDonald’s Canada further revealed that personal information of 95,000 applications were stolen from the local servers of the company. A wide range of sensitive data was compromised, including names, addresses, phone numbers, employment histories and more.</p>

@@ -9,7 +9,7 @@ German Authorities Fighting Against Child Porn
     <span><a href="https://www.deepdotweb.com/2017/02/26/german-authorities-fighting-child-porn/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The spread of child pornographic content on the internet has always been a big issue law enforcement authorities in the world had to cope with. Like many countries already, including the United States and Australia, Germany is waging a war against online pedophiles.</p>
     <p>After the incident in the Diocese of Limburg, <a href="https://www.deepdotweb.com/tag/germany/">Germany</a>, authorities in the country started to turn more focus on darknet pedophiles. The office manager of the Limburg bishop allegedly stored child porn material on the computer at his workplace. The investigation is still going in the case. However, Limburg has enough scandalous surroundings, including the flagrant dismissal of bishop Franz-Peter Tebartz-van Elst.</p>
     <p><img class="wp-image-18354 aligncenter" src="/imgs/2017/02/internet-detectives-are-looking-specifically-for-c.jpeg" alt="Internet detectives are looking specifically for child porn exchange exchanges on the Internet and try to identify victims and offenders." srcset="/imgs/2017/02/internet-detectives-are-looking-specifically-for-c.jpeg 605w, /imgs/2017/02/internet-detectives-are-looking-specifically-for-c-300x159.jpeg 300w" sizes="(max-width: 605px) 100vw, 605px" /></p>

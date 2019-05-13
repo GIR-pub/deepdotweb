@@ -9,7 +9,7 @@ Eight Busted for Selling Fentanyl-laced Oxycodone Pills on the Darknet
     <span><a href="https://www.deepdotweb.com/2017/08/29/eight-busted-selling-fentanyl-laced-oxycodone-pills-darknet/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>After a two year investigation into <a href="https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;url=http://news4sanantonio.com/news/local/fentanyl-pill-operation-shut-down-14-people-arrested&amp;ved=0ahUKEwjJjbK-1dzVAhXJYiYKHZY5CBsQqQIIJSgBMAA&amp;usg=AFQjCNGPzwZHOQcOgysc-uDgByO0XYnyog">drug trafficking in Texas</a>, federal authorities finally arrested a “ring” of both darknet and local drug traffickers. The group consisted of eight members. As collective members, they ordered fentanyl from a laboratory in China then created fake prescription painkillers with a pill press. They sold these on the darknet and many ended up on the streets in Texas.</p>
     <p>In 2015, University of Texas at San Antonio Police first encountered these pills around campus. San Antonio Police confirmed these findings, DEA agent Leon Pauley said. Court documents reveal that the authorities arrested and charged all eight members, although one was freed on bail.</p>
     <p><img class="wp-image-22246 aligncenter" src="/imgs/2017/08/screenshot_20170816_174218-png-1.png" alt="Screenshot_20170816_174218.png" srcset="/imgs/2017/08/screenshot_20170816_174218-png-1.png 744w, /imgs/2017/08/screenshot_20170816_174218-png-1-300x150.png 300w, /imgs/2017/08/screenshot_20170816_174218-png-1-660x330.png 660w" sizes="(max-width: 744px) 100vw, 744px" /></p>

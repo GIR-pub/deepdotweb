@@ -9,7 +9,7 @@ Police Arrest Reliance Jio “Hacker” in Under 24 Hours
     <span><a href="https://www.deepdotweb.com/2017/07/27/police-arrest-reliance-jio-hacker-24-hours/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In early July, a hacker leaked the data of Reliance Jio customers through a clearnet website. The site revealed a subscriber&#8217;s name, subscription date, and account email address. Reliance, however, denied that any breach had occurred. Internet users then spotted an Alphabay vendor selling info on 120 million users of a “large Indian telecommunications company.” After denying that anyone compromised customer data, <a href="http://english.manoramaonline.com/business/news/2017/07/12/reliance-jio-data-leak-hacker-nabbed-rajasthan.html">a hacker was arrested for doing just that</a>.</p>
     <p>Reliance Jio, in spite of numerous complaints from users who had validated their information on the hacker’s website, called the claims “unsubstantiated.” The Alphabay post never mentioned the telecom company by name, but Reliance Jio fit the description and had roughly 120 million subscribers.</p>
     <p><img class="wp-image-21594" src="/imgs/2017/07/jio-hacked-png.png" alt="jio-hacked.png" srcset="/imgs/2017/07/jio-hacked-png.png 728w, /imgs/2017/07/jio-hacked-png-300x157.png 300w" sizes="(max-width: 728px) 100vw, 728px" /></p>

@@ -9,7 +9,7 @@ Anchorage Man to Face Charges in Pennsylvania in Lafayette College over Dark Web
     <span><a href="https://www.deepdotweb.com/2019/01/08/anchorage-man-to-face-charges-in-pennsylvania-in-lafayette-college-over-dark-web-bomb-threat/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An Anchorage man was <a href="https://www.mcall.com/news/police/mc-nws-lafayette-bomb-threat-bail-hearing-20181218-story.html">arrested by police</a> last week and will be charged in Pennsylvania for a dark web bomb threat at Lafayette College, which has caused panic in Easton.</p>
     <p>The FBI launched an investigation after a wave of panic, caused by a bomb threat posted on Twitter, spread on social media. Law enforcement conducted a warranted search at the Lafayette College campus in Easton on Saturday night, 5 May 2018, and a young man, who claimed to be a student at the college, was arrested. He had, on several occasions, openly declared his allegiance to the ISIS terror group and was planning to bomb the campus, according to his social media posts.</p>
     <p>Gavin Lee Casdorph was arrested in a house to house raid on Easton campus and has since admitted to making bomb threats after the FBI confronted him in a lengthy interrogation. According to the investigating agents, Casdorph made<a href="https://www.deepdotweb.com/2018/12/15/u-s-israeli-man-sentenced-to-10-years-for-bomb-and-shooting-threats-for-bitcoins/"> threats of bombing</a> the college on a Twitter account registered under the username, ‘BdanJafarSaleem’.</p>

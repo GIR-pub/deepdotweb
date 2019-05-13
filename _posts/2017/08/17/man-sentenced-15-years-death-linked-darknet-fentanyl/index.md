@@ -9,7 +9,7 @@ Man Sentenced To 15 Years over Death Linked To Darknet Fentanyl
     <span><a href="https://www.deepdotweb.com/2017/08/17/man-sentenced-15-years-death-linked-darknet-fentanyl/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>A 26-year-old man was sentenced to 15 years in prison by the US District Court for selling fentanyl through the Darknet which resulted in an overdose death.</p>
     <p><img class="wp-image-22022 aligncenter" src="/imgs/2017/08/word-image-11.jpeg" srcset="/imgs/2017/08/word-image-11.jpeg 860w, /imgs/2017/08/word-image-11-300x169.jpeg 300w" sizes="(max-width: 860px) 100vw, 860px" /></p>

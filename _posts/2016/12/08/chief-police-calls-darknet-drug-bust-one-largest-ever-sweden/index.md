@@ -9,7 +9,7 @@ Chief of Police Calls Darknet Drug Bust One of the Largest Ever in Sweden
     <span><a href="https://www.deepdotweb.com/2016/12/08/chief-police-calls-darknet-drug-bust-one-largest-ever-sweden/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On November 16, the Skaraborg District Court charged four individuals for drug distribution. The group sold 15 types of drugs and shipped them across the globe— mostly to the US. They also hand-delivered products within Sweden, investigators explained. Chief Inspector Lars Johansson said &#8220;<a href="http://www.skovdenyheter.se/article/storsta-knarkfallet-nagonsin/">this is the largest drug case ever</a>,&#8221; at a recent press conference.</p>
     <p>Many of the initial figures were majorly inaccurate. The case was an undeniably large case when we wrote about it. But the latest announcement revealed that it was even bigger than we thought. The new numbers, especially those regarding volume and income, literally doubled. For instance, a<a href="http://mariestadstidningen.se/mariestad/2016/11/16/rekordstort-narkotikamal?refresh=true"> local news outlet reported 3,500 pages of court documents</a>. Johansson, during the press release, reported 5,000 pages.</p>
     <p><img class="wp-image-16815 aligncenter" src="/imgs/2016/12/lsdexcerpt-0061415737331-jpg.jpeg" alt="lsdexcerpt-0061415737331.jpg" srcset="/imgs/2016/12/lsdexcerpt-0061415737331-jpg.jpeg 480w, /imgs/2016/12/lsdexcerpt-0061415737331-jpg-300x215.jpeg 300w" sizes="(max-width: 480px) 100vw, 480px"/></p>

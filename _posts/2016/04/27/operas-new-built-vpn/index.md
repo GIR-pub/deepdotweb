@@ -9,7 +9,7 @@ Opera&#8217;s New Built-In “VPN”
     <span><a href="https://www.deepdotweb.com/2016/04/27/operas-new-built-vpn/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Opera, a browser that already has an ad-blocking feature, recently <a href="http://www.opera.com/blogs/desktop/2016/04/free-vpn-integrated-opera-for-windows-mac/">added</a> a new feature to their browser – a free VPN with unlimited data usage. It currently has IP addresses in the United States, Canada, and Germany. This addition was well-received and met with praise, but there&#8217;s a twist to it.</p>
     <p><img class="aligncenter size-full wp-image-13890" src="/imgs/2016/04/opera.png" alt="opera" width="615" height="80" srcset="/imgs/2016/04/opera.png 615w, /imgs/2016/04/opera-300x39.png 300w" sizes="(max-width: 615px) 100vw, 615px"/></p>
     <p>It&#8217;s actually an HTTP/S proxy that requires authentication. For some reason Opera insists on calling it a VPN even though it says below “Enable VPN”  that it&#8217;s a proxy.</p>

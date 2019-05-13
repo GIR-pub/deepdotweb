@@ -9,7 +9,7 @@ What is a User Activated Soft Fork?
     <span><a href="https://www.deepdotweb.com/2017/04/29/user-activated-soft-fork/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>We’re at crosspoint in the Bitcoin journey, where it is up to members of the community to decide what Bitcoin will become and how it will adapt to its growing user base. In the future, we’ll probably look back at this as another page in a long history book and be proud to have been part of this technological revolution.</p>
     <p>Now, however, we have a choice to make as a community and it’s not just up to the miners any more. While the Bitcoin debate is one that has been dependent on miners’ decisions for years, it appears that now users (nodes) will get a say in how Bitcoin will scale due to the prospect of an User Activated Soft Forks (UASF).</p>
     <p>Currently, two popular scaling solutions are competing for miner approval, <a href="https://www.deepdotweb.com/2017/03/21/brief-summary-bitcoin-unlimited/">Bitcoin Unlimited</a> and <a href="https://www.deepdotweb.com/2017/01/29/a-brief-introduction-to-segwit/">SegWit</a>. Both proposals need to reach a predetermined percentage of miner support in order to be activated. SegWit needs 95% and Bitcoin Unlimited needs 75%.</p>

@@ -9,7 +9,7 @@ Dutch Vendors Scoring On Dark Net Market Deals
     <span><a href="https://www.deepdotweb.com/2016/04/11/dutch-vendors-scoring-dark-net-market-deals/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This post is a bit old and was forgotten in queue &#8211; but still relevant: According to the Public Prosecutor, <a href="http://www.nltimes.nl/2015/11/24/dutch-criminals-prolifically-peddle-drugs-firearms-on-dark-web/">who made this announcement at an international cybercrime consultation in Noordwijk</a>, there are plenty of Dutch vendors on dark net markets, one of the marketplaces, about 10 percent of the deals were made by Dutch sellers. If the statistics are true, that number is quite great, however, it is not much of a surprise from the Netherlands.</p>
     <p>The Noordwijk meeting was held on November 23 and 24 and law enforcement authorities from the European Union, United States, Norway and Australia discussed the joint tackling of illegal trade on the dark web.</p>
     <p>Not just drug deals, but busts are not really uncommon in the Netherlands. Last year five Dutch people were arrested by the local police in a raid. According to the law enforcement authorities, the men were selling drugs on dark net markets. During the raid, police have found around 900 BTC on the drug dealers’ account(s) (it was not clearly stated), estimated it was worth around half million Euros at the time. The members of the vendor team were sentenced from 1 to 6 years of prison.</p>

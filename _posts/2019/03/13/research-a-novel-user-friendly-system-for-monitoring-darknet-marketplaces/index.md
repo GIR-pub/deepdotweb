@@ -9,7 +9,7 @@ Research: A novel user friendly system for monitoring darknet marketplaces
     <span><a href="https://www.deepdotweb.com/2019/03/13/research-a-novel-user-friendly-system-for-monitoring-darknet-marketplaces/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Darknet markets have been emerging during the past few years as the ideal online platforms for trading various forms of illicit goods and services including drugs, weapons, counterfeit documents, stolen private data, hacking tools, and others. As such, it is pivotal for law enforcement agencies all over the world to develop effective means for monitoring darknet marketplaces and tracing individuals engaging in illegal activities on these dark web based platforms.</p>
     <p><a href="https://dspace.cvut.cz/handle/10467/79794">A recently published research study</a> introduced the design of a novel system for collecting information about various goods and services offered for sale on darknet marketplaces. The proposed system enables users to search the harvested data and alerts them whenever changes take place on the monitored marketplaces. Throughout this article, we will overview this system and how it can benefit cyber crime investigation units.</p>
     <p><img class="wp-image-28615" src="/imgs/2019/03/darknetmm-jpg.jpeg" alt="darknetmm.jpg" srcset="/imgs/2019/03/darknetmm-jpg.jpeg 306w, /imgs/2019/03/darknetmm-jpg-300x162.jpeg 300w" sizes="(max-width: 306px) 100vw, 306px" /></p>

@@ -9,7 +9,7 @@ The Unfortunate Rise of America’s Recreational Xanax Addiction
     <span><a href="https://www.deepdotweb.com/2016/06/24/unfortunate-rise-americas-recreational-xanax-addiction/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <ol>
     <li><strong>What is Xanax?</strong></li>
     </ol>

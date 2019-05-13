@@ -9,7 +9,7 @@ Millionaire Alphabay Vendor Willingly Gave His Account to Feds
     <span><a href="https://www.deepdotweb.com/2017/07/02/millionaire-alphabay-vendor-willingly-gave-account-feds/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On June 9, a Homeland Security Investigations SA <a href="http://koin.com/2017/06/14/feds-portland-man-made-1m-selling-darknet-drugs/">arrested an Alphabay vendor in Portland</a>, Oregon. At the time, the vendor, Skylaar D. Ford, was on a post-release supervision program for a previous drug conviction. Despite being subject to the warrantless searches that came with probation and parole, Ford grossed more than one million dollars selling drugs on darknet markets.</p>
     <p>In September 2016, Multnomah County Parole and Probation officers conducted a search of Ford&#8217;s home. Ford consented to the search but also had little choice under state supervision. PPO officers found 10 pounds of marijuana and the police bureau called the HSI agent for assistance. HSI SA Guy Gino knew about <a href="https://www.deepdotweb.com/tag/bitcoin/">Bitcoin</a> and the <a href="https://www.deepdotweb.com/tag/darknet/">darknet</a>, according to the criminal Complaint.</p>
     <p><img class="wp-image-21032 aligncenter" src="/imgs/2017/06/word-image-56.png" width="635" height="336" srcset="/imgs/2017/06/word-image-56.png 800w, /imgs/2017/06/word-image-56-300x159.png 300w" sizes="(max-width: 635px) 100vw, 635px" /></p>

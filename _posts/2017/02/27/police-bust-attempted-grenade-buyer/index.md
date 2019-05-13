@@ -17,7 +17,7 @@ Police Bust Attempted Grenade Buyer
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>In early February, police arrested a 21-year-old man for trying to buy a gun and several grenades from the darknet. The police arrested him and raised his home where they found other weapons. The officers confiscated the weapons along with several laptops and a cell phone. They reminded the public that the man power no threat to the public</p>
     <p>The investigation, police say, took several weeks to carry out. He was “<a href="https://www.politie.nl/nieuws/2017/februari/9/11-aanhouding-na-poging-koop-wapen-en-handgranaten-op-het-darkweb.html">under the delusion</a>” that he was completely anonymous while using the Deep Web. This was not the case, an officer emphasized. True internet—at least darknet—anonymity never existed in the first place, he added. Police watched his online activities for, according to the police, up to the weeks.</p>

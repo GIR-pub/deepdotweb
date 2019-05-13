@@ -9,7 +9,7 @@ On the Topic of the DoJ’s Operation Pacifier Acquittal
     <span><a href="https://www.deepdotweb.com/2017/05/24/topic-dojs-operation-pacifier-acquittal/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Department of Justice’s decision to drop all charges against an Operation Pacifier suspect raised questions across the country—and world for that matter. Many mainstream media outlets found it abhorrent that a would-be sex offender walked free, simply because the FBI classified “some source code.” In the meantime, they neglected the good: that even in a case where guilt was obvious, the courts upheld the law.</p>
     <p>Time after time, the FBI refused court ordered disclosure of their Network Investigative Technique used to <a href="https://www.deepdotweb.com/2016/12/01/fbi-hacked-8000-computers-120-countries-single-warrant/">illegally hack 8,700 Tor users</a>. The Bureau obtained the warrant from a Magistrate Judge in the Eastern District of Virginia. The warrant revealed that <a href="https://www.deepdotweb.com/2016/01/08/fbi-ultimate-hack-job-1300-computers-take-down/">the FBI planned to hack computers</a>—they did not mislead regarding the generalized intent.</p>
     <p><img class="wp-image-20091 aligncenter" src="/imgs/2017/05/word-image-107.jpeg" srcset="/imgs/2017/05/word-image-107.jpeg 800w, /imgs/2017/05/word-image-107-300x144.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px"/></p>

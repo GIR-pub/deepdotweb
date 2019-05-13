@@ -9,7 +9,7 @@ Bitcoin Price Analysis 12 July 2017
     <span><a href="https://www.deepdotweb.com/2017/07/12/bitcoin-price-analysis-12-july-2017/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Will Bitcoin Tear Itself Apart?</p>
     <p>This week, the Bitcoin market sentiment seemed to suddenly turn from bullish to bearish overnight. Alternative cryptocurrency markets also turned bearish, as the sharp decline of bitcoin dragged everything down with it. Ethereum dropped 40% from $280 to a low $198 as at writing this. Bitcoin market dominance, a metric that tracks the market capitalization of Bitcoin against the total market capitalization of all cryptocurrencies, moved back to over 50% of market share, perhaps the only positive news of the week. Bitcoin reasserted its significance in the overall market, despite an 8% drop since the last price analysis.</p>
     <p><img class="wp-image-21316" src="/imgs/2017/07/analysus-png.png" alt="Analysus.png" srcset="/imgs/2017/07/analysus-png.png 964w, /imgs/2017/07/analysus-png-300x178.png 300w" sizes="(max-width: 964px) 100vw, 964px" /></p>

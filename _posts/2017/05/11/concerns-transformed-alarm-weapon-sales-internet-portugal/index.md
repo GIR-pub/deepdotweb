@@ -9,7 +9,7 @@ Concerns Over Transformed Alarm Weapon Sales On The Internet In Portugal
     <span><a href="https://www.deepdotweb.com/2017/05/11/concerns-transformed-alarm-weapon-sales-internet-portugal/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Portuguese authorities <a href="http://www.dn.pt/sociedade/interior/em-tres-anos-a-psp-apreendeu--6870-armas-de-alarme-transformadas-6246924.html">expressed their concern</a> over the sale of transformed alarm <a href="https://www.deepdotweb.com/2017/04/23/teen-skips-school-darkweb-weapons-deal/">weapons</a> on the internet. According to the police report, citizens in Portugal search mostly for those of Turkish origin.</p>
     <p><img class="wp-image-19770 aligncenter" src="/imgs/2017/05/word-image-37.jpeg" srcset="/imgs/2017/05/word-image-37.jpeg 728w, /imgs/2017/05/word-image-37-300x192.jpeg 300w" sizes="(max-width: 728px) 100vw, 728px" /></p>
     <p>Transformed alarm <a href="https://www.deepdotweb.com/2017/02/22/us-firearm-vendor-tried-sell-gun-customer-got-jailed/">firearms</a>, which are illegal to be sold or possessed, can be easily acquired on the internet, and are one of the biggest concerns of the Polícia de Segurança Pública (PSP; Public Security Police, the civil preventive police force of Portugal), as an increasing number of criminal groups are using them.</p>

@@ -12,7 +12,7 @@ Setting Up Your Own VPN
     <span><a href="https://www.deepdotweb.com/2017/06/19/setting-up-your-own-vpn/#comments">9 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN is a virtual private network</a>. It is virtual because one creates a virtual tunnel between your computer and a server to exchange data. It is private because it is supposed to require a username and a password to be accessed and it is a network because it links more devices to one or more servers all over different locations. A VPN helps you surf the web anonymously for two reasons:</p>
     <ul>
     <li>the websites you visit, see the VPN server’s ip, not yours.</li>

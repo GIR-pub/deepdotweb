@@ -9,7 +9,7 @@ Beware of Phishing Scams On Clearnet Sites! (darknetmarkets.org)
     <span><a href="https://www.deepdotweb.com/2015/07/03/beware-of-phishing-scams-on-clearnet-sites-darknetmarkets-org/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>AVOID</strong>  &#8211; The Most recent scam list responsible for spreading phishing url to unsuspecting visitors has been located on this site:</p>
     <ul>
     <li><em>darknetmarkets.o r g/mark ets</em> (added spaces in the url)</li>

@@ -9,7 +9,7 @@ Macomb County Computer Enforcement Targets Dark Web Predator
     <span><a href="https://www.deepdotweb.com/2016/04/20/macomb-county-computer-enforcement-targets-dark-web-predator/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.fox2detroit.com/news/local-news/122675693-story">Macomb County, Mich.’s Computer Enforcement</a>, Macomb Area Computer Enforcement(MACE) is targeting child predators on the dark web.</p>
     <p>I had no idea there were so many sick people out there who want to prey on children,” Sgt. Pamela McLean, MACE.</p>
     <p>McLean goes undercover to catch child predators. Around 80 % of their computer crime cases are child exploitation cases. “The want and desire for seeking out an underage child is so much, they can’t control themselves,” McLean said.</p>

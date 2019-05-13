@@ -9,7 +9,7 @@ LocalBitcoin Seller Guilty of Illegal Currency Exchange
     <span><a href="https://www.deepdotweb.com/2017/05/18/localbitcoin-seller-guilty-illegal-currency-exchange/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The legal stance of Bitcoin, in the United States, seemingly varies from court case to court case. The IRS calls Bitcoin a piece of property, for all intents and purposes. State courts, judges, and laws differ tremendously. A clear answer is a rare and infrequent occurrence. When a state&#8217;s view on Bitcoin becomes clear, it usually coincides with a court case where Bitcoin is the focus. In a recent money transmitting case, Missouri’s view was clarified.</p>
     <p>Acting United States Attorney for the Western District of Missouri, Tom Larson, announced that Jason R. Klein pleaded guilty to <a href="https://www.justice.gov/usao-wdmo/pr/nixa-man-pleads-guilty-illegal-bitcoin-exchange">operating an illegal currency exchange</a>. Klein, a 37-year-old entrepreneur, operated a Bitcoin exchange company, the Department of Justice said. While we have seen several <a href="https://www.deepdotweb.com/2017/01/25/coin-mx-operator-admits-fraud-money-laundering/">individuals lose similar court cases</a>, this one stands out as particularly unique.</p>
     <p><img class="wp-image-19960 aligncenter" src="/imgs/2017/05/word-image-67.jpeg" srcset="/imgs/2017/05/word-image-67.jpeg 800w, /imgs/2017/05/word-image-67-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

@@ -9,7 +9,7 @@ Oregon Man Charged For First-Degree Murder, Orders Assassination of His Wife in 
     <span><a href="https://www.deepdotweb.com/2017/04/10/oregon-man-charged-first-degree-murder-orders-assassination-wife-dark-web/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Stephen Carl Allwine from Cotage Grove, Oregon, who previously made contacts in the Dark Web to plot an assassination of his wife, was indicted by a Washington County grand jury for premeditated first-degree murder.</p>
     <p><img class="wp-image-19112 aligncenter" src="/imgs/2017/04/word-image-34.png" srcset="/imgs/2017/04/word-image-34.png 620w, /imgs/2017/04/word-image-34-300x169.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
     <p>&nbsp;</p>

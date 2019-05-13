@@ -17,7 +17,7 @@ Researchers Claim the Darknet Has More Legal Sites Than Illegal Ones
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">darknet</a> (or darkweb/any variation thereof) has an undeniable stigma. Some know the hidden sites to be a gateway to speaking freely. Others use darknet marketplaces to purchase drugs that are safer than those on the street. Another group may use the anonymity to share child pornography. In the words of Ross Ulbricht, “I learned… when you give people freedom, you don’t know what they’ll do with it.”</p>
     <p>Researchers from Terbium Labs claim to have found evidence that disputes the majorly negative reputation the darknet has garnered.</p>

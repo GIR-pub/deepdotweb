@@ -9,7 +9,7 @@ Ransomeware Hackers Launch Global Assault
     <span><a href="https://www.deepdotweb.com/2017/05/13/ransomeware-hackers-launch-global-assault/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Computer systems in dozens of countries were locked down on Friday, in an attack cybersecurity experts said made use of a software vulnerability that the <a href="http://nsa.gov/">US National Security Agency </a>had allegedly exploited earlier.</p>
     <p><img class="wp-image-19919 aligncenter" src="/imgs/2017/05/word-image-62.jpeg" width="747" height="420" srcset="/imgs/2017/05/word-image-62.jpeg 1024w, /imgs/2017/05/word-image-62-300x169.jpeg 300w" sizes="(max-width: 747px) 100vw, 747px" /></p>
     <p>Among those caught up in the attacks were American delivery giant <a href="http://fedex.com/">FedEx</a>, and the UK’s <a href="http://nhs.uk/">National Health Service</a>, which reported 16 hospitals or clinics shut down and forced to cancel appointments and divert ambulances as a result. The <a href="http://government.ru/en/department/86/">Russian Ministry of the Interior</a> reportedly had over 1,000 of its PCs infected.</p>

@@ -9,7 +9,7 @@ Bitcoin News Round Up May 29 2016
     <span><a href="https://www.deepdotweb.com/2016/05/29/bitcoin-news-round-may-29-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s overview of cryptocurrency news and developments throughout the world.</p>
     <p><strong>NEW DEVELOPMENTS:</strong></p>
     <p><strong>Bitcoin Halving Imminent</strong></p>

@@ -9,7 +9,7 @@ Ricin Vendor Found Not Guilty of Darknet Distribution, Seeking Acquittal of Thef
     <span><a href="https://www.deepdotweb.com/2016/11/23/ricin-vendor-found-not-guilty-darknet-distribution-seeking-acquittal-theft-charges/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Uppsala University PhD student who had been accused of multiple crimes, including selling ricin on the darknet, has started an acquittal process. There was only enough evidence to convict the 27-year-old with theft from the university—nothing more.</p>
     <p>We wrote about the case in early November after the lead prosecutor spoke to the press regarding the case. He believed the doctoral student <a href="https://www.deepdotweb.com/2016/11/02/prosecutor-says-ricin-vender-convicted-theft-distribution-possibly-extortion/">would be found guilty on all charges</a>, including the attempt to threaten and extort representatives of the Czech Government.</p>
     <p>He mailed a letter containing ricin to the Czech Republic after demanding millions in bitcoins. His defense was able to eradicate the extortion charges for two main reasons. The first is in regard to the actual letter’s contents; there was no ricin. Cyanogen bromide was inside the envelope instead, rendering the charge worthless, the defense argued during a hearing.</p>

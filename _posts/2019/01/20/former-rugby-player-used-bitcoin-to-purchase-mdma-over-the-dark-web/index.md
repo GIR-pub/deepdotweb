@@ -9,7 +9,7 @@ Former Rugby Player Used Bitcoin to Purchase MDMA Over the Dark Web
     <span><a href="https://www.deepdotweb.com/2019/01/20/former-rugby-player-used-bitcoin-to-purchase-mdma-over-the-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A former rugby player in the A-grade Darwin Rugby League in Australia was given an 18 month prison sentence after he pleaded guilty to possession of MDMA pills with the intent to supply. The rugby player allegedly acquired hundreds of MDMA pills from a dark web marketplace; prosecution failed to disclose the name of the marketplace. According to court documents, the player obtained the pills for his personal use and to resell to fund his own drug habit.</p>
     <p><img class="wp-image-28152" src="/imgs/2019/01/word-image-24.jpeg" srcset="/imgs/2019/01/word-image-24.jpeg 660w, /imgs/2019/01/word-image-24-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>Twenty-seven year old Gavin Brown pleaded guilty to supplying MDMA in commercial quantities. According to the evidence presented against Brown in the Supreme Court of the Northern Territory, Brown made the MDMA purchase on an unspecified date in April 2018. Brown allegedly purchased 500 MDMA pills from a dark web marketplace and <a href="https://www.deepdotweb.com/tag/bitcoin/">paid for them with bitcoin.</a> The total cost of the drugs was reportedly 6,000 Australian dollars. After making the purchase, Brown allegedly waited 24 days before the MDMA pills were delivered.</p>

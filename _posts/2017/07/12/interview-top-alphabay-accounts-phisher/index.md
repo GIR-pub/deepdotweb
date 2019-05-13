@@ -9,7 +9,7 @@ Interview with a Top Alphabay Accounts Phisher
     <span><a href="https://www.deepdotweb.com/2017/07/12/interview-top-alphabay-accounts-phisher/#comments">30 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Ok who are you and what do you do? (online persona of course)</strong></p>
     <p>Hello I am Phishkingz, and I dominate the phishing scene on the darkweb. I will provide a PGP sig.</p>
     <div id="crayon-5c0f25b0bbd20239144736" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">

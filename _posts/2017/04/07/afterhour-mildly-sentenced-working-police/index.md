@@ -9,7 +9,7 @@ AfterHour “Mildly” Sentenced After for Working With Police
     <span><a href="https://www.deepdotweb.com/2017/04/07/afterhour-mildly-sentenced-working-police/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In January, Brandenburg officials announced that <a href="https://www.deepdotweb.com/tag/fbi/">the FBI</a> helped German law enforcement catch a darknet drug trafficker and three of his accomplices. The main defendant, a 31-year-old known as Mark W., sold drugs on the Silk Road marketplace before law enforcement shut the site down. The Brandenburg resident and accomplices sold more than 1.05 million euros between April 2012 and July 2013. The ring finally stood trial and received their sentences.</p>
     <p>Mark W. and some of his so-called “employees” landed in jail in late 2013 for numerous drug crimes. German law enforcement conducted drug raids in Brandenburg, Berlin, and Bavaria as part of a larger operation into online drug distributors. Mark W.&#8217;s Silk Road venture, according to the FBI, stood out as a large operation as well. Mark W. would have become one of the largest international vendors located in the region. He was one of the top sellers, too. Mark ran a vendor profile under the name “Afterhour​.”</p>
     <p><img class="wp-image-19052 aligncenter" src="/imgs/2017/04/word-image-12.png" srcset="/imgs/2017/04/word-image-12.png 762w, /imgs/2017/04/word-image-12-300x173.png 300w" sizes="(max-width: 762px) 100vw, 762px" /></p>

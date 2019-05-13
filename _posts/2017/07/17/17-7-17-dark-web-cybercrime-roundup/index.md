@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/07/17/17-7-17-dark-web-cybercrime-roundup/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Alleged Alphabay Admin Found Dead in Bangkok Jail</strong></p>
     <p>On July 12, news sites in Thailand reported that a 26-year-old Canadian man had died in a Bangkok jail. The news spread quickly and the world soon learned the man’s identity: Alexandre Cazes of Trois-Rivières, Québec, Canada. Alphabay marketplace disappeared when the Royal Canadian Mounted Police raided locations throughout Trois-Rivières, hunting for “computer equipment.”</p>
     <p><img class="wp-image-21374 aligncenter" src="/imgs/2017/07/2a952fc037db4927b75c36622dbff5e2-2-jpg.jpeg" alt="2A952FC037DB4927B75C36622DBFF5E2 (2).jpg" srcset="/imgs/2017/07/2a952fc037db4927b75c36622dbff5e2-2-jpg.jpeg 660w, /imgs/2017/07/2a952fc037db4927b75c36622dbff5e2-2-jpg-300x136.jpeg 300w, /imgs/2017/07/2a952fc037db4927b75c36622dbff5e2-2-jpg-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>

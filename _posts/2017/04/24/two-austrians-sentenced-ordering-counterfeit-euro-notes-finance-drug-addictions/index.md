@@ -9,7 +9,7 @@ Two Austrians Sentenced For Ordering Counterfeit Euro Notes To Finance Their Dru
     <span><a href="https://www.deepdotweb.com/2017/04/24/two-austrians-sentenced-ordering-counterfeit-euro-notes-finance-drug-addictions/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Two men from Schärding, Austria and Ried, Austria were <a href="http://www.nachrichten.at/oberoesterreich/innviertel/Falschgeld-Betrug-endet-fuer-zwei-Innviertler-in-Haft;art70,2531638">sentenced</a> to prison for ordering <a href="https://www.deepdotweb.com/2017/04/05/counterfeit-euro-notes-sweden-increased-120-percent/">counterfeit</a> euro bills from the darknet and putting them into circulation to finance their <a href="https://www.deepdotweb.com/tag/narcotics/">narcotic</a> addiction issues.</p>
     <p><img class="wp-image-19372 aligncenter" src="/imgs/2017/04/falkengeld-fraud-ends-for-two-innviertler-in-custo.jpeg" alt="Falkengeld-Fraud ends for two Innviertler in custody" srcset="/imgs/2017/04/falkengeld-fraud-ends-for-two-innviertler-in-custo.jpeg 561w, /imgs/2017/04/falkengeld-fraud-ends-for-two-innviertler-in-custo-300x168.jpeg 300w" sizes="(max-width: 561px) 100vw, 561px"/></p>
     <p>According to police information, the two suspects, in order to finance their lives, and above it all, their <a href="https://www.deepdotweb.com/2017/03/30/israeli-teenager-sourced-drugs-dark-web-arrested-school/">drug</a> addictions at least for a short time, ordered 50 pieces of 50 euro banknotes from the dark web. They paid using <a href="https://www.deepdotweb.com/2017/04/07/prison-former-bitcoin-exchange-ceo/">bitcoins</a> and 2,500 euros worth of counterfeit bills cost them a total of 300 euros.</p>

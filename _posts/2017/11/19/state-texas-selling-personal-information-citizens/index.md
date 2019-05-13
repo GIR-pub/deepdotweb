@@ -9,7 +9,7 @@ The State Of Texas Is Selling Personal Information of Citizens
     <span><a href="https://www.deepdotweb.com/2017/11/19/state-texas-selling-personal-information-citizens/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>We all know that cybercrime including <a href="https://www.deepdotweb.com/2017/05/14/officials-keep-synthetic-identity-fraud/">identity theft</a> has flooded the world these last few years. The ever-advancing technology has created rooms for internet crime which is costing many people their money as well as personal information. A recent study revealed that 1 out of every 16 U.S. adults has been a victim of identity theft.</p>
     <p>Now a much bizarre story has emerged about the Texas state government selling the personal information of its citizens since 2010. This scheme has reportedly swooped about $2.7 million dollars since 2010. The irony of this story remains the fact that, the government is supposed to be the ones to help protect its citizens from identity theft and not the other way around.</p>
     <p>This is however possible because, unlike private companies, the state does not give out a privacy statement which alerts citizens whenever you apply for or renew your driver’s license or pay your annual vehicle registration.</p>

@@ -9,7 +9,7 @@ Turkish Government Permanently Bans Tor and VPN Services
     <span><a href="https://www.deepdotweb.com/2016/12/30/turkish-government-permanently-bans-tor-vpn-services/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In an effort to prevent people from circumventing internet censorship, the Turkish government blocked access to Tor. According to <a href="https://twitter.com/TurkeyBlocks">TurkeyBlocks</a>, the government imposed an immediate 12-hour ban on Tor, VPNs, and social media. The social media and messaging services made their way back online after the 12-hour mark, but the Tor ban remains blocked.</p>
     <p><img class="wp-image-17231 aligncenter" src="/imgs/2016/12/word-image-130.png" srcset="/imgs/2016/12/word-image-130.png 501w, /imgs/2016/12/word-image-130-300x146.png 300w" sizes="(max-width: 501px) 100vw, 501px" /> TurkeyBlocks monitors internet censorship in real time and announces changes via their website and Twitter account. On December 18, the organization posted a tweet confirming the limited or slow access to major social media accounts. Additionally, they announced and confirmed that the government blocked Tor.</p>
     <p>On the TurkeyBlocks website regarding the social media network restrictions:</p>

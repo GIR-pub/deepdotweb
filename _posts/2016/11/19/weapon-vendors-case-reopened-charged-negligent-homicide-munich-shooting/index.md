@@ -9,7 +9,7 @@ Weapon Vendor&#8217;s Case Reopened: Charged with Negligent Homicide in Munich S
     <span><a href="https://www.deepdotweb.com/2016/11/19/weapon-vendors-case-reopened-charged-negligent-homicide-munich-shooting/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Federal Public Prosecutor&#8217;s Office of Frankfurt extended the warrant and investigation into Philipp K. for &#8220;negligent homicide in nine cases.&#8221; Philipp K. was initially arrested for violating weapon laws in Germany, but further investigation has been initiated</p>
     <p>Investigators arrested the vender nearly a month after the shooting, posed as undercover buyers. He <a href="https://www.deepdotweb.com/2016/08/25/german-dnm-vendor-arrested-selling-glock-munich-shooter/">admitted selling David Ali Sonboly a Glock 17</a> and several rounds of ammunition during communication with undercover officers. Officials believed the 31-year-old arms dealer had no knowledge of what his customers would do with the guns.</p>
     <p>Georg Ungefuk, a spokesperson for the Federal Public Prosecutor&#8217;s Office of Frankfurt, told a local newspaper:</p>

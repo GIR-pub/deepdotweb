@@ -9,7 +9,7 @@ Paper: Oppressive and Free Countries Use Tor The Most
     <span><a href="https://www.deepdotweb.com/2016/04/10/paper-oppressive-free-countries-use-tor/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Who uses Tor? The answer to this question may seem obvious but Eric Jardine, in a paper <a href="http://nms.sagepub.com/content/early/2016/03/30/1461444816639976">published</a> in New Media &amp; Society, pointed out “Activists often state that such tools are used by political dissidents who stand up to repressive regimes, but these claims lack abroad, cross-national empirical basis. Without a solid empirical foundation, it is unclear if anonymity networks are used consistently by political dissidents in highly repressive contexts.”</p>
     <p>Jardine continued, “Data on use of the Tor network from 2011 to 2013 suggest that political repression does drive usage of anonymity-granting technologies. The results indicate that both very high and very low levels of political repression tend to drive use of Tor the most. In other words, the relationship between a country’s level of repression and the rate of individual usage of anonymity-granting technologies is U-shaped.”</p>
     <p>Motherboard <a href="https://motherboard.vice.com/read/countries-that-use-tor-most-are-either-highly-repressive-or-highly-liberal">reports</a> that Jardine told them in a phone call that “There is evidence to suggest that at extreme levels of repression, Tor does provide a useful tool to people in those circumstances to do things that they otherwise would not be able to do”.</p>

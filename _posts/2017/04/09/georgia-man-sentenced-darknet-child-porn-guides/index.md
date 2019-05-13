@@ -9,7 +9,7 @@ Georgia Man Sentenced for Darknet Child Porn Guides
     <span><a href="https://www.deepdotweb.com/2017/04/09/georgia-man-sentenced-darknet-child-porn-guides/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 28-year-old man from Gwinnett County, Georgia, operated a clearnet website where he hosted child pornography. He additionally <a href="http://www.11alive.com/mb/news/crime/gwinnett-man-sentenced-for-child-porn-site-creating-how-to-guide/425069104">wrote guides for other pedophiles</a> on making use of the darknet to view, distribute, and discuss topics regarding child pornography, After less than one hour of deliberation, the jury convicted the defendant, Thomas Scot Edvalson, of 22 counts of sexual exploitation of children.</p>
     <p>The case began years ago, during some unknown point in 2012. A GoDaddy employee tipped off the The National Center for Missing and Exploited Children, an agency dedicated to the assistance of children. He explained that a subscriber&#8217;s website—one who used GoDaddy as a hosting service—displayed numerous pornographic images of children. The National Center for Missing and Exploited Children passed the information on to the Georgia Bureau of Investigation.</p>
     <p>The Georgia Bureau of Investigation quickly worked on locating the owner or at least registrant associated with the website. After investigators linked the website to an address in Gwinnett County, they forwarded the identifying information to the Gwinnett County Police Department. From there, the GCPD took control of the case. They also traced the IP address of the website to the physical address of the website`s owner. The house belonged to a much younger Thomas Scot Edvalson.</p>

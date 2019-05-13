@@ -9,7 +9,7 @@ How To Minimize Bitcoin Transaction Confirmation Delays Via Adjusting Miners&#82
     <span><a href="https://www.deepdotweb.com/2017/05/02/minimize-bitcoin-transaction-confirmation-delays-via-adjusting-miners-fees/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A few days ago, I wanted to sell some bitcoins for USD on my debit card. I decided to use Paxful, as I have a well trusted buyer there, whom I have been dealing with for quite a while. So, I transferred my bitcoins to my wallet on Paxful. Surprisingly enough, the transaction was confirmed exactly 30.25 hours after initiating it, which was extremely inconvenient to me and my trading partner. Interestingly, it happened that I sent a couple of transactions after initiating the Paxful transaction, and they were both confirmed much earlier than the Paxful transaction, so why are some transactions confirmed before the others? and why do some transactions take a long time to get confirmed?</p>
     <p><strong>Fees versus Confirmation Delays:</strong></p>
     <p>Obviously, when traffic across the bitcoin network increases, <a href="https://www.deepdotweb.com/2014/02/28/moving-bitcoins-works-transaction-taking-long/">confirmation delays can be expected</a>. This usually happens during times of bullish rallies. Bitcoin price had just crossed the $1,200 mark, when I had to wait for more than 30 hours for my transaction to get confirmed. With high bitcoin traffic, miners will prioritize transactions with higher fees.</p>

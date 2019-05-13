@@ -9,7 +9,7 @@ Suspect Claims Someone Else Used His Computer to Buy Drugs, Jury Agrees
     <span><a href="https://www.deepdotweb.com/2016/12/07/suspect-claims-someone-else-used-computer-buy-drugs-jury-agrees/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Kyle Nathan Smith, a 45-year-old Christchurch man, pleaded <a href="http://www.stuff.co.nz/national/crime/87058301/Not-guilty-verdicts-in-dark-web-drugs-trial">not guilty to five drug importation charges</a>. The judge, Judge Brian Callaghan, agreed with the defendant. He found Smith not guilty on five charges of heroin, methamphetamine, and MDMA importation. The 45-year-old claimed someone else used his computer to buy drugs off the darknet.</p>
     <p>At the start of the three-day Christchurch District Court trial, Smith pleaded guilty to two charges. One was the possession of cannabis and the other was the cultivation of cannabis. In addition, the court found Smith guilty of possession of methamphetamine.</p>
     <p>Officials arrested Smith after Customs intercepted five packages headed into the country. The packages contained heroin, methamphetamine, and MDMA, along with ecstasy pills. Smith was not specifically charged for the ecstasy pills. The MDMA charge encompassed ecstasy importation.</p>

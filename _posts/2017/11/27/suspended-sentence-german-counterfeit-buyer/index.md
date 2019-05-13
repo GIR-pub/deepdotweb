@@ -9,7 +9,7 @@ Suspended Sentence for German Counterfeit Buyer
     <span><a href="https://www.deepdotweb.com/2017/11/27/suspended-sentence-german-counterfeit-buyer/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In Bamberg, a set of poorly printed euro notes led to the arrest of a 26-year-old who had ordered hundreds of counterfeit euros from the <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">darknet</a>. The investigation began in January after a shopkeeper immediately spotted the fake notes based on their poor design and construction. Despite the defendant&#8217;s poor odds of walking out of the courtroom, <a href="http://www.infranken.de/regional/bamberg/falsche-fuenfziger-aus-dem-darknet;art212,3005331">the judge let him walk</a> with a relatively light sentence.</p>
     <p>In January 2017, the 26-year-old Bamberger attempted to pay for merchandise at a shop in the center of Bamberg. He used three <a href="https://www.deepdotweb.com/tag/counterfeit/">fake 50-euro notes</a>. The shop assistant who received the notes notified the police. The police, in turn, opened an investigation into the showing of counterfeit notes in the Bamberg area.</p>
     <p><img class="wp-image-23697 aligncenter" src="/imgs/2017/11/word-image-28.jpeg" srcset="/imgs/2017/11/word-image-28.jpeg 620w, /imgs/2017/11/word-image-28-300x160.jpeg 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>

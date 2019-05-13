@@ -9,7 +9,7 @@ Three Arrested In The Netherlands For Selling Ecstasy On The DarkNet
     <span><a href="https://www.deepdotweb.com/2017/04/24/three-arrested-netherlands-selling-ecstasy-darknet/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities <a href="http://www.bndestem.nl/roosendaal/roosendalers-verhandelen-grote-hoeveelheden-drugs-met-instagramlogo-via-postpakketten~abc70646/">arrested</a> three men, aged 25, 26 and 47, in Roosendaal, <a href="https://www.deepdotweb.com/2017/04/05/purity-prices-drugs-purchased-online-versus-offline-netherlands/">the Netherlands</a>, for allegedly selling large amounts of <a href="https://www.deepdotweb.com/tag/ecstasy/">ecstasy</a> pills on the darknet.</p>
     <p><img class="wp-image-19374 aligncenter" src="/imgs/2017/04/https-images1-persgroep-net-rcs-fxklydff1xb5urhm.jpeg" alt="https://images1.persgroep.net/rcs/FxklyDfF1xb5UrHME_YhtTXzMMQ/diocontent/102416004/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&amp;quality=0.9" srcset="/imgs/2017/04/https-images1-persgroep-net-rcs-fxklydff1xb5urhm.jpeg 694w, /imgs/2017/04/https-images1-persgroep-net-rcs-fxklydff1xb5urhm-300x169.jpeg 300w" sizes="(max-width: 694px) 100vw, 694px"/></p>
     <p>On March 30, Dutch authorities detained the three suspects for suspected trafficking in large quantities of drugs, which were sent via the national postal service to abroad countries, including the United States, Belgium, and Germany. According to police information, the alleged dealers conducted their sales on dark net marketplaces.</p>

@@ -9,7 +9,7 @@ How to earn interest on your Bitcoin &#8211; P2P Lending with BTCJam
     <span><a href="https://www.deepdotweb.com/2016/12/21/earn-interest-bitcoin-p2p-lending-btcjam/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Bitcoin is a bit like the wild west of finance. If you want to be the one walking away towards the setting sun when the dust settles, you have to be extra careful as Bitcoin scams and ponzi schemes are everywhere. Unfortunately, these scams often work and many “investors” are left at the bottom of the pyramid holding an empty wallet where their bitcoins used to be. We want to make sure that this does not happen to you, and as so we are going to show you some examples on how to get interest on your Bitcoin without falling victim to these elaborate schemes that seek to rob you of your beloved coins.</p>
     <p>Before we start, a few guidelines would be to stay away from any model that offers ridiculous interest rates like 1% per day or 10% per month. The same can be said for any model that is not transparent on how they get this interest or that simply state that profits comes from trading. Finally, do your research. A simple google search can make the difference. <a href="https://bitcointalk.org/index.php?topic=1326821.0">There is also a very good thread on Bitcointalk listing some known scams</a>.</p>
     <p>This is a four part guide on how to earn interest on your Bitcoin from reliable sources. The first part was on how to lend cryptocurrencies using Magnr. Last time we introduced our users to P2P lending, more specifically on Bibond. This time, we’re going to talk about another P2P lending website, BTCJam.</p>

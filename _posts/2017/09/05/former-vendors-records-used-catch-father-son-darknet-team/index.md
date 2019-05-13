@@ -10,7 +10,7 @@ Former Vendor’s Records Used to Catch Father and Son Darknet Team
     <span><a href="https://www.deepdotweb.com/2017/09/05/former-vendors-records-used-catch-father-son-darknet-team/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On August 23, multiple federal agencies <a href="https://www.justice.gov/usao-sdny/pr/father-and-son-charged-selling-fentanyl-and-oxycodone-dark-web">announced the arrests</a> of Michael and Philip Luciano for fentanyl and oxycodone distribution on Alphabay, a defunct darknet marketplace. The father-son team sold on Alphabay under the name “Zane61,” the court documents revealed. From as early as February 2016, “Zane61” was a registered Alphabay account. The duo sold through the account until July 2017 when law enforcement finalized the <a href="https://www.deepdotweb.com/2017/07/20/globally-coordinated-operation-just-took-alphabay-hansa/">Alphabay and Hansa takedown</a>.</p>
     <p>According to the announcement from the U.S. Attorney’s Office of the Southern District of New York, both men turned themselves in on the day the announcement had been made—August 23. Both received a single count of conspiracy to distribute fentanyl and oxycodone, along with a single count of possession with intent to distribute the same drugs.</p>
     <p><img class="wp-image-22381" src="/imgs/2017/09/screenshot_20170823_194628-png-1.png" alt="Screenshot_20170823_194628.png" /></p>

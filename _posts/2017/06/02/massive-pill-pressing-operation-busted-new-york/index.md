@@ -17,7 +17,7 @@ Massive Pill Pressing Operation Busted in New York
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>After a year-long investigation, <a href="https://www.justice.gov/usao-wdny/pr/major-illegal-narcotics-ring-dismantled-elmira-four-defendants-arrested">law enforcement busted the largest “fentanyl” trafficking conspiracy</a> in New York. The DEA, ATF, HSI, CBP, and local police investigated the case. And on May 16th law enforcement made their move and arrested for individuals in connection with the drug trafficking ring. The Criminal Complaint accuses four of them with conspiracy with intent to distribute both furanyl fentanyl and U-47700. Two of the four named in the criminal complaint were charged with possessing a firearm in furtherance of a drug-trafficking crime.</p>
     <p>U.S. Attorney James P. Kennedy, Jr. announced​ that the number of overdose victims climbs daily. A Google search shows an overdose on a near-daily basis. Many deaths were attributed to furanyl fentanyl and U-47700. The majority of which were in the Western District of New York and same general location of the four in the criminal complaint. The four: Robert Ian Thatcher, Maximilian Sams, Dwayne Banks, and Carlito Rios, Jr.</p>

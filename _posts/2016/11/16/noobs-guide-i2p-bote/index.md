@@ -9,7 +9,7 @@ A Noob’s Guide to I2P-Bote
     <span><a href="https://www.deepdotweb.com/2016/11/16/noobs-guide-i2p-bote/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>As darknets go, some people may think of I2P as one of the more technically-oriented ones. For that reason, I think it deserves more tutorials!</p>
     <p>If you’ve already read our 2013 article <a href="https://www.deepdotweb.com/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">Full Guide: How to Access I2P Sites &amp; Use themarketplace.i2p</a>, then you at least have some idea how to access I2P.</p>
     <p>Therefore, I thought I2P-Bote, a messaging platform that operates over the I2P network, deserved a little attention.</p>

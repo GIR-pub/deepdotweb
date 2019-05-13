@@ -9,7 +9,7 @@ A Russian Hacker Confesses to Being the Creator of a Bank Trojan Horse
     <span><a href="https://www.deepdotweb.com/2019/03/15/a-russian-hacker-confesses-to-being-the-creator-of-a-bank-trojan-horse/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 33-year-old male citizen from Russia who is responsible for affecting people’s computers and laptops with a Trojan virus has confessed to the crime in a Federal Court in Manhattan. <a href="https://www.zdnet.com/article/russian-national-author-of-neverquest-banking-trojan-pleads-guilty/">Stanislav V. Lisov created the malware known as NeverQuest</a> and programmed it to infect people’s devices when they accessed various online platforms.</p>
     <p><strong><img class="wp-image-28637" src="/imgs/2019/03/word-image-9.jpeg" srcset="/imgs/2019/03/word-image-9.jpeg 660w, /imgs/2019/03/word-image-9-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></strong></p>
     <p><a href="https://www.deepdotweb.com/2017/06/23/14-year-old-boy-arrested-japan-creating-ransomware-virus/">The virus</a>, also known as Vawtrack or Snifula, has infected a large number of devices in Germany, Spain, France, and the U.S. since its creation in 2014. It is solely responsible for the loss of millions of dollars from the bank accounts of its victims.</p>

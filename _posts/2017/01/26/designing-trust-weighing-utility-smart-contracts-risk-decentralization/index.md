@@ -9,7 +9,7 @@ Designing Trust &#8211; Weighing The Utility of Smart Contracts Against The Risk
     <span><a href="https://www.deepdotweb.com/2017/01/26/designing-trust-weighing-utility-smart-contracts-risk-decentralization/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>By the year 2025, around 10% of the world&#8217;s gross domestic product (GDP) will be stored on blockchains, according to <a href="http://www3.weforum.org/docs/WEF_The_future_of_financial_infrastructure.pdf">a report that was published by The World Economic Forum in August, 2016</a>. Smart contracts are forms of electronic contracts that are coded and executed on a blockchain, and can disrupt global finance by omitting the need for intermediary third parties. Use cases of <a href="https://www.deepdotweb.com/2014/08/18/ethereum-making-entire-world-trustless/">smart contracts</a> in the financial sector include the following:</p>
     <p><img class="wp-image-17751 aligncenter" src="/imgs/2017/01/smart-contract-png-2.png" alt="smart contract.png" width="685" height="408" srcset="/imgs/2017/01/smart-contract-png-2.png 1430w, /imgs/2017/01/smart-contract-png-2-300x179.png 300w, /imgs/2017/01/smart-contract-png-2-1024x610.png 1024w" sizes="(max-width: 685px) 100vw, 685px"/></p>
     <ul>

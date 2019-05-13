@@ -9,7 +9,7 @@ Cambridge Professor Obtains 2,000 CP on Dark Web Only Receives 1 Year Sentence
     <span><a href="https://www.deepdotweb.com/2017/05/22/cambridge-professor-obtains-2000-cp-dark-web-receives-1-year-sentence/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Simon Jarvis, a 53-year-old professor at the prestigious educational institution Cambridge University, was sentenced to 12 months in prison after pleading guilty to the possession and distribution of Category A child pornography.</p>
     <p>Law enforcement agencies and investigators often categorize child pornography to three levels: Category A, B and C, with A being the most serious. It was revealed that Jarvis was in possession of over 2,000 videos and images of child pornography, with 45 of the images belonging to Category A.</p>
     <p>According to the investigators, Jarvis went as far as to distribute some of Category C child pornography images on public social media platforms such as Tumblr. Jarvis also admittedly told the investigators that he dealt with child pornography since 2000 and had a “fantasy” of children as young as four.</p>

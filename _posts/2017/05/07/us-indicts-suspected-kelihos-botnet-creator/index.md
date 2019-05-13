@@ -17,7 +17,7 @@ US Indicts Suspected Kelihos Botnet Creator
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On April 10, 2017, the Department of Justice announced a massive <a href="https://www.justice.gov/opa/pr/justice-department-announces-actions-dismantle-kelihos-botnet-0">law enforcement operation that aimed to eliminate the Kelihos botnet</a>. The operation involved US law enforcement agencies and “foreign” partners, according to the press release. A Pen Register Trap and Trace Order, signed by a United States Magistrate Judge, allowed the FBI to sinkhole the botnet. On April 21, a federal grand jury in Bridgeport, Connecticut, formally charged the creator of the botnet.</p>
     <p>Peter Yuryevich Levashov, a 32-year-old Russian National, was the focus of an international investigation. Now, after only a short period of time, a grand jury returned an indictment that <a href="https://www.justice.gov/opa/pr/russian-national-indicted-multiple-offenses-connection-kelihos-botnet">charged Levashov with seven unique crimes</a>. One count of aggravated identity theft; one count of threatening to cause damage to a computer; one count of causing intentional damage to a computer; one count of accessing computers for fraudulent purposes; one count of wire fraud; one count of conspiracy; and two counts of email fraud.</p>

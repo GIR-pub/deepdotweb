@@ -18,7 +18,7 @@ Expert Blames the Difficulties in Fighting Human Trafficking on the Darkweb
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Human trafficking has been a problem subjecting a lot of innocent people into captivity and slavery. The danger of this act is not only posed by its existence but also, how fast the curve of its related cases is rising.</p>
     <p>The Polaris Project on January 31, 2017 released that human trafficking skyrocketed by 35% in 2016.</p>

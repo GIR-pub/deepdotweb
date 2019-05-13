@@ -9,7 +9,7 @@ Dark Net Drug Vendor “Weed24” Busted
     <span><a href="https://www.deepdotweb.com/2017/05/10/dark-net-drug-vendor-weed24-busted/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a id="post-19741-_gjdgxs"></a> Law enforcement authorities in Germany <a href="http://www.swp.de/heidenheim/lokales/heidenheim/darknet_-dealer-verkauft-drogen-an-einen-polizisten-14860813.html">arrested</a> a man from Heidenheim an der Brenz for allegedly running the vendor shop “Weed24” on the darknet selling narcotics to his customers.</p>
     <p><img class="wp-image-19751 aligncenter" src="/imgs/2017/05/illegal-drugs-are-increasingly-being-traded-in-dar.jpeg" alt="Illegal drugs are increasingly being traded in Darknet." srcset="/imgs/2017/05/illegal-drugs-are-increasingly-being-traded-in-dar.jpeg 592w, /imgs/2017/05/illegal-drugs-are-increasingly-being-traded-in-dar-300x203.jpeg 300w, /imgs/2017/05/illegal-drugs-are-increasingly-being-traded-in-dar-290x195.jpeg 290w" sizes="(max-width: 592px) 100vw, 592px"/></p>
     <p>This week, the 23-year-old suspect was standing before the Heidenheim District Court for charges, including <a href="https://www.deepdotweb.com/tag/drugs/">drug</a> trafficking on the dark web. According to the court documents, the defendant sold drugs on darknet marketplaces under the pseudo name “Weed24”. However, investigators claimed that the 23-year-old not just sold substances on the dark side of the internet, but he also bought one kilogram of <a href="https://www.deepdotweb.com/2017/04/18/250g-amphetamine-buyer-to-see-a-judge-in-april/">amphetamine</a>, ecstasy, and cocaine from a vendor who advertised his “goods” on the darknet.</p>

@@ -9,7 +9,7 @@ Two Men Associated With the “Closed” Hansa Darknet Market Busted By the Nrw
     <span><a href="https://www.deepdotweb.com/2017/08/05/two-men-associated-closed-hansa-darknet-market-busted-nrw/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p><a href="http://www1.wdr.de/nachrichten/darknet-festnahmen-siegerland-koeln-internationale-ermittlungen-100.html">Two drug lords</a> are now in the police custody after an investigation led to their arrest in Germany. According to police, They contributed to the rise of dangerous substances, sold on one of the largest, now busted, Darknet markets; Hansa. Their ages are 31 and 32 years, but their identities were withheld by authorities.</p>
     <p>Some reports say that they were the administrators of the Hansa market.</p>

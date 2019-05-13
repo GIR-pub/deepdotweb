@@ -9,7 +9,7 @@ Firefox Zero-Day Can Be Used To Deanonymize Tor Users
     <span><a href="https://www.deepdotweb.com/2016/12/11/firefox-zero-day-can-used-deanonymize-tor-users/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Recently, a Firefox <a href="https://www.deepdotweb.com/?s=zero+day">zero-day</a> was being used to <a href="http://www.computerworld.com/article/3145687/security/firefox-zero-day-can-be-used-to-unmask-tor-browser-users.html">target</a> Tor users. Experts say the code is nearly identical to what the Federal Bureau of Investigation used in their hack against Tor users in 2013. However, on the same day, the exploit came out, the Tor Project and Mozilla published browser updates that <a href="http://arstechnica.com/security/2016/11/tor-releases-urgent-update-for-firefox-0day-thats-under-active-attack/">fixed</a> the issues within the software.</p>
     <p>The Tor Project was notified about the zero-day by a user who posted the exploit code to the Tor mailing list from a Sigaint dark net email address.</p>
     <p>“This is a <a href="https://www.deepdotweb.com/tag/javascript/">JavaScript</a> exploit actively used against Tor Browser NOW,” the anonymous user wrote.</p>

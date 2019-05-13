@@ -9,7 +9,7 @@ Op-Ed: The Verge Publishes Clueless Article on end of DNM &#8220;Golden-Age&#822
     <span><a href="https://www.deepdotweb.com/2019/02/20/op-ed-the-verge-publishes-clueless-article-on-end-of-dnm-golden-age-that-never-was/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.theverge.com/">TheVerge.com</a> is a trendy website with a tech news approach akin to the Facebook Group I FUCKING LOVE SCIENCE&#8217;s approach to science. At publishing time, their website&#8217;s front page is reminiscent of an aneurysm, the top story&#8217;s headline reading: <em>EMOJI ARE SHOWING UP IN COURT CASES EXPONENTIALLY, AND COURTS AREN’T PREPARED</em></p>
     <p>Need I say more?</p>
     <p><img class="wp-image-28404" src="/imgs/2019/02/word-image-9.png" srcset="/imgs/2019/02/word-image-9.png 491w, /imgs/2019/02/word-image-9-226x300.png 226w" sizes="(max-width: 491px) 100vw, 491px" /></p>

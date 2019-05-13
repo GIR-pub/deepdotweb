@@ -9,7 +9,7 @@ Heroin: Numbers 3 and 4
     <span><a href="https://www.deepdotweb.com/2016/06/20/heroin-numbers-3-4/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The present author would like to emphasize that the following is in the context of harm reduction. Heroin is a very dangerous drug that should be avoided. That being said, some may have seen discussion regarding #3 and #4 forms of heroin. In the paragraphs that follow I hope to detail their difference, which essentially comes down to stages of processing.</p>
     <div id="attachment_14522" style="width: 410px" class="wp-caption aligncenter"><a href="/imgs/2016/06/heroin1.jpg"><img class="size-full wp-image-14522" src="/imgs/2016/06/heroin1.jpg" alt="Heroin Hydrochloride Bottle" width="400" height="273" srcset="/imgs/2016/06/heroin1.jpg 400w, /imgs/2016/06/heroin1-300x205.jpg 300w" sizes="(max-width: 400px) 100vw, 400px"/></a><p class="wp-caption-text">Heroin Hydrochloride Bottle</p></div>
     <p>Opium is the original opiate. Opium is derived from the sap of poppies and primarily contains two molecules of interest: morphine and codeine. As can be seen, both morphine and codeine share a similar molecular structure. They possess three planar 6-carbon rings connected on one side by an oxygen. A nitrogen and some carbons extend outward from their flat structures. Around 200 years ago, morphine was first isolated and used as a treatment for opium addiction. This treatment plan was abandoned as the addiction potential of morphine was soon discovered.</p>

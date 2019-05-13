@@ -9,7 +9,7 @@ FBI Ultimate Hack Job, 1300 Computers Take Down
     <span><a href="https://www.deepdotweb.com/2016/01/08/fbi-ultimate-hack-job-1300-computers-take-down/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a report on <a href="https://motherboard.vice.com/read/the-fbis-unprecedented-hacking-campaign-targeted-over-a-thousand-computers">vice motherboard</a> &#8211;  The Federal Bureau of Investigation since the summer of 2015 has been upping the ante in its attempts to shutdown illegal pornography sites, primarily sites sharing child porn. But to what extent is the FBI permitted to go out with hack campaigns against Tor Dark Net websites.</p>
     <p>In New York, two men were <a href="http://www.reuters.com/article/us-usa-crime-childporn-idUSKCN0PI2CH20150708">criminally charged</a> in connection with an FBI investigation of a child pornography website. These two were just a couple of the 200,000+ users this site maintained in its databases. Both men were charged with knowingly possessing such porn.</p>
     <p>Justice may be shutting down these websites and arresting pedophiles and other dangerous people but the FBI tactics are unprecedented and raising some questions about their legality, including using a <a href="https://motherboard.vice.com/read/the-fbis-unprecedented-hacking-campaign-targeted-over-a-thousand-computers">hacking tool</a> that revealed the IP addresses of these two individuals, when the Tor site was hidden from revealing any personal information.</p>

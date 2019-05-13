@@ -9,7 +9,7 @@ BKA Seized a Darknet Child Abuse Forum
     <span><a href="https://www.deepdotweb.com/2017/07/20/bka-seized-a-darknet-child-abuse-forum/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>For five weeks, the <a href="http://www.presseportal.de/blaulicht/pm/7/3677700">Federal Prosecutor&#8217;s Office in Frankfurt announced</a>, German law enforcement investigated a darknet child abuse forum. The forum, known as “Elysium,” only appeared in December of last year. However, between December 2016 and July 2017, the forum had already attracted 87,000 members. On July 6, the Prosecutor&#8217;s Office announced that law enforcement removed the site and arrested a dozen of the priority suspects.</p>
     <p>On June 12, the Federal Criminal Police Office raided an apartment in the Limburg-Weilburg district. The apartment belonged to a 39-year-old male that served as the forum administrator and technical admin. While raising his apartment, the BKA found the server that hosted the illicit forum. In one fell swoop, authorities ended the administrator and the <a href="https://www.deepdotweb.com/marketplace-directory/categories/discussion-forums/">forum</a> itself.</p>
     <p><img class="wp-image-21445 aligncenter" src="/imgs/2017/07/word-image-107.jpeg" srcset="/imgs/2017/07/word-image-107.jpeg 800w, /imgs/2017/07/word-image-107-300x202.jpeg 300w, /imgs/2017/07/word-image-107-290x195.jpeg 290w" sizes="(max-width: 800px) 100vw, 800px" /></p>

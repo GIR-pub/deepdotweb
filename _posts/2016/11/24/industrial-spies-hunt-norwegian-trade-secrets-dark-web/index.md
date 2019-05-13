@@ -9,7 +9,7 @@ Industrial Spies Hunt Norwegian Trade Secrets On The Dark Web
     <span><a href="https://www.deepdotweb.com/2016/11/24/industrial-spies-hunt-norwegian-trade-secrets-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to general manager Ludwig Sandell at Dignato AS, there are <a href="https://www.nrk.no/norge/kriminelle-pa-dark-web-jakter-statoil-informasjon-1.13198354">industrial trade secrets</a> posted on the dark web, which concerns Norwegian companies, such as Statoil or DNB.</p>
     <p>“Many companies have given up control of how valuable information is handled. In a time when it is so easy to get any information from the dark web,” Sandell said.</p>
     <p>Sandell&#8217;s security adviser tests the security of businesses and looking for secret, hidden criminal networks where sensitive information is traded. The “surveillance center” of the security company is based in Porsgrunn, Norway.</p>

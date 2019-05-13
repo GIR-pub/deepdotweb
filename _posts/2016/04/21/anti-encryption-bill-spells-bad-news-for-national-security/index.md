@@ -9,7 +9,7 @@ Anti Encryption Bill Spells Bad News for National Security
     <span><a href="https://www.deepdotweb.com/2016/04/21/anti-encryption-bill-spells-bad-news-for-national-security/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://bgr.com/2016/04/15/burr-feinstein-anti-encryption-law/">A couple of days ago, a first draft of the anti-encryption bill</a> from Senators Richard Burr(R-NC) and Dianne Feinstein(D-CA) came to light and suffered instant backlash from security experts. The new law has been labeled so bad that only would it make the some of the NSA&#8217;s own work illegal, but it would also outlaw some of the things we&#8217;ve take for granted for years, like the ability to compress large files to share them on line.</p>
     <p><img class="aligncenter size-full wp-image-13827" src="/imgs/2016/04/encryption-1.jpg" alt="encryption" width="640" height="360" srcset="/imgs/2016/04/encryption-1.jpg 640w, /imgs/2016/04/encryption-1-300x169.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
     <p>The Compliance with Court Orders Act of the draft was met with hard criticism. More than 45,000 people already signed a petition from CREDO Action for the withdraw of the bill.</p>

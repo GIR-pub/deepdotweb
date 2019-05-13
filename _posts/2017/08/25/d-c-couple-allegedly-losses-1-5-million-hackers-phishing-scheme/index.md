@@ -10,7 +10,7 @@ D.C Couple Allegedly Losses $1.5 Million to Hackers in Phishing Scheme
     <span><a href="https://www.deepdotweb.com/2017/08/25/d-c-couple-allegedly-losses-1-5-million-hackers-phishing-scheme/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Online <a href="http://wamu.org/story/17/08/08/hackers-allegedly-steal-1-5-million-d-c-couple-home-buying-phishing-scheme/">phishing</a> schemes are nothing new. They’ve been around for many years now and start with an email to home buyers about wiring a final payment; then scammers intercept and take it all.</p>
     <p>A D.C couple Sean Smith and Erin Wrona who were hopeful they were going to purchase a home but fell victim to a scam. They wired their title company $1.57 million upon request; they only thought it was a routine request leading to the closing on the purchase of a five-bedroom, 2,300-square-foot Cleveland Park home.</p>
     <p>A month later when they went to the offices of Federal Title &amp; Escrow to sign the final paperwork, an attorney for the company told them that the funds the couple thought they had wired had not ended up in escrow as expected. As a matter of fact, no one at Federal Title even had knowledge the money had been sent.</p>

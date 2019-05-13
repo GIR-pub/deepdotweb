@@ -9,7 +9,7 @@ Bitcoin Price analysis 30th November 2016
     <span><a href="https://www.deepdotweb.com/2016/11/30/bitcoin-price-analysis-30th-november-2016/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Bitcoin Price Hits a New $1000 high on Indian Exchanges</strong></p>
     <p>Bitcoin was back on the headlines this week, reasserting itself as the asset of choice for Indians seeking a safe haven asset class. While on most days it’s China, this week demand peaked in India, where an official ban on 500 and 1000 rupee paper notes by Prime Minister Modi indirectly propped demand on Indian exchange ZebPay. Bitcoin traded at a $100 premium, leading Chinese and Western exchanges. In the United States, Coinbase, fought off an unprecedented civil petition in Federal Court by the IRS, seeking access to customer transaction history from 2013 &#8211; 2015. Meanwhile, Segregated Witness soft fork activation gained adoption by 26% of mining nodes, but, at the cost of reigniting 2015’s Bitcoin’s divisive block size debate.</p>
     <p><img class="wp-image-16666 aligncenter" src="/imgs/2016/11/btc-price-recovery-png-1.png" alt="BTC price recovery.png" width="1007" height="601" srcset="/imgs/2016/11/btc-price-recovery-png-1.png 2490w, /imgs/2016/11/btc-price-recovery-png-1-300x179.png 300w, /imgs/2016/11/btc-price-recovery-png-1-1024x611.png 1024w" sizes="(max-width: 1007px) 100vw, 1007px"/></p>

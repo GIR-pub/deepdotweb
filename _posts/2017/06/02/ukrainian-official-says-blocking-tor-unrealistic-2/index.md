@@ -9,7 +9,7 @@ Ukrainian Official Says Blocking Tor is Unrealistic
     <span><a href="https://www.deepdotweb.com/2017/06/02/ukrainian-official-says-blocking-tor-unrealistic-2/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Andrew Kikhtenko, a Department Head for a drug combating unit of the Ukrainian National Police, explained that blocking Tor use was out of the picture. Mind you, Ukraine is currently in the process of <a href="http://ukranews.com/news/495648-k-prodlenyyu-sankcyy-es-protyv-rf-prysoedynylys-4-strany">implementing internet restrictions</a> that prevent citizens from viewing specific Russian websites. The country is not alone in sanctions against Russia. The country’s law enforcement, though, is the only one that publicly considered blocking <a href="https://www.deepdotweb.com/tag/tor/">access to Tor</a>.</p>
     <p>The President of Ukraine, Petro Poroshenko, signed a decree that outlawed numerous Russian websites and TV stations. But the head of the Internet Association of Ukraine, Alexander Fedienko, explained that more than a few sites would be restricted. He <a href="https://112.ua/glavnye-novosti/dlya-polnogo-blokirovaniya-rossiyskih-saytov-nuzhno-dva-goda-i-1-mlrd-doll-internet-associaciya-ukrainy-390267.html">explained the blocking method</a>:</p>
     <p>“<em>Most likely, we will block not sites, but the entire autonomous system where there are these sites and other platforms are not listed in the sanctions. The user will be deprived not only of access to networks such as ‘VKontakte,’ and to other platforms that have been in this system</em>.”</p>

@@ -9,7 +9,7 @@ Tutorial: How To Buy From the House of Lions Market?
     <span><a href="https://www.deepdotweb.com/2017/02/02/tutorial-buy-house-lions-market/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Welcome to the <a href="http://leomarketjdridoo.onion/register/856aeda2b30778">House of Lions market</a>! Today, we’re going to show you how to enter the market and how to buy an item. The H.O.L market is fairly simple to use as it employs a traditional balance/escrow mechanism. This means that all balances are handled by the market and that the escrow is centralized. So, this simplicity comes at a cost: You will not be in control of your funds, meaning that an exit scam is possible, so proceed with care.</p>
     <p>House of Lions has a very simple and intuitive interface and makes the process of configuring PGP easier than most markets. Buying an item is also very easy. So, let’s get to it!</p>
     <p><strong>Part 1 – Protect your privacy</strong></p>

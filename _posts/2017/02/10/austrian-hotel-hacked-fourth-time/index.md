@@ -9,7 +9,7 @@ Austrian Hotel Hacked For The Fourth Time
     <span><a href="https://www.deepdotweb.com/2017/02/10/austrian-hotel-hacked-fourth-time/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Seehotel Jägerwirt on the Turracher Höhe, Austria was <a href="http://kaernten.orf.at/news/stories/2821290/">hacked</a> for the fourth time by cybercriminals.</p>
     <p>The hotel has been operating in the Kärnten-Styrian ski area for 111 years. In the past few years, the hotel management implemented advanced IT systems for the Jägerwirt. Hotel Chief Christoph Brandstätter found himself in front of a locked computer for the fourth time. One day before the attack, a new firewall was installed to the hotel’s system. The new firewall was the reason why the last breach was the less efficient. This time, only a few files were affected, and all data could be restored successfully.</p>
     <p><img class="wp-image-18075 aligncenter" src="/imgs/2017/02/jagerwirt-turrach-hacked.jpeg" alt="Jägerwirt Turrach hacked" width="644" height="362" srcset="/imgs/2017/02/jagerwirt-turrach-hacked.jpeg 800w, /imgs/2017/02/jagerwirt-turrach-hacked-300x169.jpeg 300w" sizes="(max-width: 644px) 100vw, 644px"/></p>

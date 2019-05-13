@@ -9,7 +9,7 @@ Cybercrime Outshines Traditional Crime in the UK
     <span><a href="https://www.deepdotweb.com/2016/07/18/cybercrime-outshines-traditional-crime-uk/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Cybercrime as we all know is on the rise all over the world. Bank robberies happening from the comfort of one’s home, where the robbers don’t even have to leave they’re computer chairs. It seems that one place in particular, the UK, is the number of <a href="http://www.darkreading.com/threat-intelligence/cybercrime-now-surpasses-traditional-crime-in-uk/d/d-id/1326208">cybercrimes has passed those of traditional crimes</a>.</p>
     <p><a href="http://www.nationalcrimeagency.gov.uk/publications/709-cyber-crime-assessment-2016/file">The UK’s National Crime Agency</a> is blaming the rise in cybercrime on the “rapid pace of technology” and the ever growing capabilities of cyber criminals. This suggests the need for a more collective response from government, and law enforcement, as well as from the tech industry to help reduce vulnerabilities and prevent more cybercrimes from happening.</p>
     <p>“In any calculation, we must consider that there are millions of individual victims, many thousands of corporate victims and correspondingly substantial losses,” the NCA’s report said.</p>

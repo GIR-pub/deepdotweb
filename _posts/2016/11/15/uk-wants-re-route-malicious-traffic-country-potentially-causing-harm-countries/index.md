@@ -9,7 +9,7 @@ The UK Wants to Re-Route Malicious Traffic from its Country, Potentially Causing
     <span><a href="https://www.deepdotweb.com/2016/11/15/uk-wants-re-route-malicious-traffic-country-potentially-causing-harm-countries/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Internet providers are being asked to change protocols to protect computers from falling victim to hackers to be used in big time cyber-attacks. The governments cyber security defense department wants to work with networks like Virgin Media and BT to rewrite standards to help restrict a tactic used by hackers to pretend to be other computers in order to use them to attack online. This is also called spoofing. Dr. Ian Levy explained what is in the works:</p>
     <p><strong><em>Distributed denial of service attacks, which employ this method, have been used in numerous high profile incidents in the past fortnight, included an unprecedented hack that brought down Netflix, eBay and hundreds more popular websites. We think we can get to a point where we can say a UK machine can’t participate in a DDoS attack. We think that we can fix the underpinning infrastructure of the internet through implementation changes with ISPs and CPSs</em></strong>.</p>
     <p><a href="http://www.telegraph.co.uk/technology/2016/11/05/gchq-wants-internet-providers-to-rewrite-systems-to-block-hacker/">Their plan</a> involves changing to the BGP, or Border Gateway Protocol and SS7, Signaling System 7 standards that have been used for decades now. They are also widely used for routing traffic. They also want to stop providers from re-routing UK web traffic and help prevent text message scams.</p>

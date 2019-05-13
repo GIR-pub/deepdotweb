@@ -18,7 +18,7 @@ Anonymous Cryptocurrency Monero Sees Drastic Increase in Liquidity, Adoption by 
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Monero, the second largest privacy-focused anonymous cryptocurrency behind Dash, has recently demonstrated a rapid increase in value after being adopted and integrated by Bithumb, the world’s largest cryptocurrency exchange by volume.</p>
     <p>Over the past 12 months, South Korea evolved into a major cryptocurrency market, becoming the biggest Ethereum exchange market by trading volume. A significant increase in demand from professional and institutional investors in Asia allowed Bithumb to overtake US-based exchanges such as Bittrex and Kraken to become the global cryptocurrency market’s leading digital currency trading platform.</p>

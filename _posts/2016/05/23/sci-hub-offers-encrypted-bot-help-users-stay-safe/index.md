@@ -9,7 +9,7 @@ Sci-Hub Offers Encrypted Bot to Help Users Stay Safe
     <span><a href="https://www.deepdotweb.com/2016/05/23/sci-hub-offers-encrypted-bot-help-users-stay-safe/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The <a href="http://scihub.org/">Pirate Bay for scientists</a> has offered up a new feature where users can actually search for papers in the <a href="https://telegram.org/">Telegram Messenger app</a>, an encrypted way of communication.</p>
     <p>All you have to do is download Telegram onto your mobile device, add Sci-Hub bot @scihubot and enter the title of the paper you want to download. The bot instantly replies with the PDF version of the paper to your device.</p>
     <p><a href="http://www.ibtimes.co.uk/sci-hub-pirate-bay-scientists-now-available-anonymous-telegram-messaging-app-1560576">IBTimes UK tried it</a> out with multiple papers that were hidden behind paywalls. They searched for a paper on &#8216;Transparent wood&#8217; published in Advanced Materials in May, and the bot said that the paper had not been added to the database yet.</p>

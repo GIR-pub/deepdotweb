@@ -9,7 +9,7 @@ Tutorial: How To Buy From the Wall Street Market?
     <span><a href="https://www.deepdotweb.com/2017/01/25/tutorial-buy-wall-street-market/#comments">30 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Today, we’re going to teach you how to buy from the Wall Street market. This market offers a wide range of special features, including 2 out of 3 Multisig escrow, direct deposits (no wallets), PGP 2-factor authentication, Bitmessage Notification System &amp; Autoshop for Digital Goods (CCs, Accounts and so on). Multisig escrow and direct deposits ensure that the funds are never fully controlled by the market, making exit scams impossible and ensuring that no funds are lost even if the market is shut down by L.E. Funds can only be accessed by the vendor after orders are finalized and can never be accessed by the market staff only. Wall Street also makes the deepweb a fun and interactive place by employing a badge reward system. Read more <a href="http://wallstyizjhkrvmj.onion/faq/1">here</a>.</p>
     <p><strong>Part 1 – Protect your privacy</strong></p>
     <p><strong>Step 1: </strong>In order to access any darknet market, you’ll need Tor Browser. TOR allows you to conceal your location by redirecting Internet traffic through a network of nodes. Click <a href="https://www.torproject.org/projects/torbrowser.html">here</a> to go to the Tor Browser download page and download the version that best suits your O.S.</p>

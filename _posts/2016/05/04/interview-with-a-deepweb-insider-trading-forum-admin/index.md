@@ -9,7 +9,7 @@ Interview: Insider Trading Forum Admin
     <span><a href="https://www.deepdotweb.com/2016/05/04/interview-with-a-deepweb-insider-trading-forum-admin/#comments">35 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Kickass Forum (<strong>kickassugvgoftuk.onion</strong>), is a relatively new forum focused at hacking and coding, but also includes a section for insider trading information leaks and is exclusive to leaked information/data (majorly targeting corporates and executives). Users are using there the information for following reasons:</p>
     <ul>
     <li>Stock Market Trading</li>

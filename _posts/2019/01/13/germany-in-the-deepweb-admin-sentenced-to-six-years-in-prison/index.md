@@ -9,7 +9,7 @@ Germany in the DeepWeb Admin Sentenced to Six Years in Prison
     <span><a href="https://www.deepdotweb.com/2019/01/13/germany-in-the-deepweb-admin-sentenced-to-six-years-in-prison/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A German court sentenced the owner of one of most prolific dark web forums in Germany to six years in prison for allowing the sale of firearms on the forum. A judge held him accountable for <a href="https://www.deepdotweb.com/2018/08/29/new-murder-charges-filed-in-german-dark-web-forum-case/">several homicides and assaults</a> connected to the forum.</p>
     <p>A 31-year-old from Karlsruhe was identified as the owner of the German dark web forum, “Germany in the DeepWeb,” between 2013 and 2017. German law enforcement launched an investigation into the forum following the Munich Massacre. Investigators learned that a vendor on the forum had sold the gunman, David Sonboly, a Glock and ammunition. Sonboly then used the Glock to kill ten people and wound several others. Prosecutors held the vendor accountable by negligence for Sonboly&#8217;s crimes. Prosecutors later held the forum owner accountable for the same crimes.</p>
     <p>Opinions about the defendant&#8217;s guilt varied between the officials involved in the case and members of the public. The forum owner initially faced less serious charges. Prosecutors had only issued a search warrant for aiding and abetting the illegal sale of narcotics and aiding and abetting the illegal sale of firearms. Facing only charges for running a site where users could buy and sell almost anything, the defendant secured pre-trial release and preemptively admitted running the dark web forum.</p>

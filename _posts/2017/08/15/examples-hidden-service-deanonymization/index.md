@@ -9,7 +9,7 @@ Examples Of Hidden Service Deanonymization
     <span><a href="https://www.deepdotweb.com/2017/08/15/examples-hidden-service-deanonymization/#comments">18 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>All have been disclosed and fixed</strong></p>
     <p>A penetration tester under the name “UnhandledException,” with credit to “bl00d,” wrote an essay on hidden service deanonymization for DeepDotWeb in an effort to warn the community. In the wake of current situations and in preparation for future events, extra scrutinization is in high demand as new markets rise to fill <a href="https://www.deepdotweb.com/2017/07/20/globally-coordinated-operation-just-took-alphabay-hansa/">the Alphabay and Hansa void</a>.</p>
     <p>In the first topic covered, UnhandledException explained where safest place to host a hidden service would be—a physical host controlled by the hidden service owner or through anonymous hosting providers. UnhandledException’s proposal was to take the physical route over a host owned by an unaffiliated third party. (This is a controversial topic as many believe that taking the anonymous server route—especially an anonymous server in Russia or Kazakhstan.) UnhandledException backed up the decision with a set of “pros” that outlined the positives to hosting a hidden service on one&#8217;s own hardware.</p>

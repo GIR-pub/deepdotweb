@@ -9,7 +9,7 @@ Opposition Leader Wants to Track Terrorist Bitcoin Use
     <span><a href="https://www.deepdotweb.com/2017/07/02/opposition-leader-wants-track-terrorist-bitcoin-use/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On June 12, Leader of the Opposition in Australia, Bill Shorten, spoke to the House of Representatives about Bitcoin and encryption. Similar to other government-related discussions involving either topic, his argument called for government intervention.</p>
     <p>Shorten’s speech followed the direction of the opinions shared by the Minister Assisting the Prime Minister on Cybersecurity, Dan Tehan. <a href="https://www.deepdotweb.com/2017/05/15/australia-considers-forcing-isps-block-digital-threats/">Tehan voiced his recent concerns</a> regarding possible illegal use of the internet. He wanted the government to force ISPs to provide network-level support in conjunction with the government&#8217;s increased monitoring for threats.</p>
     <p><img class="wp-image-21029 aligncenter" src="/imgs/2017/06/word-image-202.jpeg" /></p>

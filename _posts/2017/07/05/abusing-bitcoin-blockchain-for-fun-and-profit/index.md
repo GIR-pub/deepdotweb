@@ -9,7 +9,7 @@ Abusing Bitcoin Blockchain for Fun and Profit
     <span><a href="https://www.deepdotweb.com/2017/07/05/abusing-bitcoin-blockchain-for-fun-and-profit/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Hackers don&#8217;t stop at &#8216;What is it used for?&#8217; but always extend their curiosity to &#8216;What it can be used for?&#8217; and that&#8217;s part of what differentiates hacker&#8217;s mindset from many others. With that in mind, today we will look at good ol&#8217; blockchain.</p>
     <p>Because it&#8217;s used for writing transactions, btc blockchain carries some properties you&#8217;re probably familiar with: public accessibility (anyone or anything can get the information from the blockchain), decentralization – meaning no authority can change confirmed blocks and last, but very important, you can write arbitrary data to the blockchain by making transactions! This is what a transaction packet looks like:</p>
     <p><img class="wp-image-21094 aligncenter" src="/imgs/2017/07/word-image-2.png" srcset="/imgs/2017/07/word-image-2.png 558w, /imgs/2017/07/word-image-2-300x156.png 300w" sizes="(max-width: 558px) 100vw, 558px" /></p>

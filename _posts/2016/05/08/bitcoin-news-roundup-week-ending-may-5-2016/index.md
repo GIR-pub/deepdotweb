@@ -9,7 +9,7 @@ Bitcoin News Roundup May 5th 2016
     <span><a href="https://www.deepdotweb.com/2016/05/08/bitcoin-news-roundup-week-ending-may-5-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week, the unmasking of Satoshi Nakamoto made the headlines across bitcoin news outlets. Read on to find out what else made the news wire</p>
     <p><strong>BITCOIN DEVELOPMENT:</strong></p>
     <p><strong>Opinion Divided on Satoshi Nakamoto’s identity as Australian Craig Wright </strong></p>

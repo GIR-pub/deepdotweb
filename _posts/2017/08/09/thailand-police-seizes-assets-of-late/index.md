@@ -18,7 +18,7 @@ Thailand Police seizes Assets of Late Alleged Mastermind behind AlphaBay
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Thailand Police officials have seized almost $21 million worth of assets ranging from cryptocurrency to fleet of cars. These assets belonged to the alleged late founder of the dark web marketplace <a href="https://www.deepdotweb.com/tag/alphabay">AlphaBay</a>, one of the two largest markets which were taken by the FBI this month.</p>
     <p>He died by committing suicide on July 24th in his jail cell at the Narcotics Suppression Bureau in Bangkok where he was waiting to be extradited to the U.S.</p>

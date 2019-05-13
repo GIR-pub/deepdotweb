@@ -9,7 +9,7 @@ Gwern: Archives of ALL Dark Net Market Released
     <span><a href="https://www.deepdotweb.com/2015/07/16/gwern-archives-of-all-dark-net-market-released/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Another important contribution from <a href="http://www.gwern.net/">Gwern</a>, and this time the full archives of all Dark Net Markets &#8211; From 2011 until 2015. Links to the archives are available at:</p>
     <ul>
     <li><a href="https://archive.org/download/dnmarchives/dnmarchives_archive.torrent">Torrent</a></li>

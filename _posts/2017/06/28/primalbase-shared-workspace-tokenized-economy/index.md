@@ -9,7 +9,7 @@ Primalbase: Shared workspace for the tokenized economy
     <span><a href="https://www.deepdotweb.com/2017/06/28/primalbase-shared-workspace-tokenized-economy/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Cryptocurrencies and assets have been used to represent all sorts of commodities and assets. From fiat currencies to precious metals and company stocks, tokenization is gaining traction. Issuing assets and commodities on the blockchain is extremely easy and provides multiple advantages to holders who can easily transfer and exchange them.<img class="wp-image-20953 aligncenter" src="/imgs/2017/06/word-image-51.png" srcset="/imgs/2017/06/word-image-51.png 660w, /imgs/2017/06/word-image-51-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>This concept, however, is being taken one step further by <a href="http://primalbase.com/">Primalbase</a>, a co-working initiative that seeks to bring innovators and entrepreneurs together in a common workspace where ideas can flourish, while providing a completely new way of dealing shared workspaces. The official <a href="http://primalbase.com/">Primalbase website</a> reads:</p>
     <p><em>“Building upon the well-established business model of shared workspaces, the Primalbase project transforms traditional office rental into a new-generation community-based ecosystem where one can share, sell or rent out high-quality office spaces using Ethereum and Waves-based digital tokens.”</em></p>

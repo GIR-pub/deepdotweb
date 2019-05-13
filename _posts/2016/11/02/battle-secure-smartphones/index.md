@@ -9,7 +9,7 @@ Battle of the Secure Smartphones
     <span><a href="https://www.deepdotweb.com/2016/11/02/battle-secure-smartphones/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Dark web users just <em>love</em> having their smartphone communications spied on, right? (Detect any sarcasm there?)</p>
     <p>While no internet-connected device is 100% secure, some definitely are more armored than others.  In the smartphone arena, several phones consistently rank among the best.</p>
     <p>To which ones might I be referring? The Kali Linux NetHunter 3.0, Copperhead OS, and Blackphone 2 are a few favorites. Obviously these devices can be used by more than just those who explore the dark web, but if you&#8217;re someone who does, a little protection can&#8217;t hurt, right?</p>

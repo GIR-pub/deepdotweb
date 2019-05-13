@@ -18,7 +18,7 @@ Four Busted in South Korea&#8217;s First Darknet Drug Operation
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to Yonhap News Agency, South Korea&#8217;s largest news outlet, the Seoul Metropolitan Police Department announced the arrest of four suspects in connection with darknet cannabis distribution. Yonhap reported that the main suspect, according to the indictment, had rented out a large building and converted the place into a marijuana grow center. From there, he sold to local dealers and to entities through the <a href="https://www.deepdotweb.com/tag/darknet/">darknet</a>.</p>
     <p>Seoul police arrested one dealer—a 25-year-old known as Aomo—for selling drugs to a dealer in the downtown residential area of Seoul. Police only identified Aomo, but had seemingly picked up both dealers. They may have picked up one of the marijuana dealers earlier this year, although the details remained unclear at the time of the announcement.</p>

@@ -9,7 +9,7 @@ A comparison of secure Linux installs: Tails and LPS
     <span><a href="https://www.deepdotweb.com/2016/07/05/a-comparison-of-secure-linux-installs-tails-and-lps/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>There’s many lengths one can go to when it comes to operation security or personal privacy. One of the safest and best options for keeping your data safe is running an intentionally secure Linux distribution. There’s two main players in this line of operating systems: Tails and LPS. Tails is known everywhere, but LPS has been generating a significant amount traffic lately – espescially within the last two weeks. Since both OS have their own advantages and downfalls, I’d like to cover a handful of them in this article.</p>
     <p>Starting with Tails, by far the more popular OS in this category, due in part by being backed by The TOR Project. Other noteworthy companies behind the OS in either development or financial support are the Debian Project, Mozilla, and The Freedom of the Press Foundation. In the article where <a href="https://www.deepdotweb.com/2016/06/22/brief-comparison-secure-messaging-apps/">I wrote about Signal and Wickr</a>, I mentioned that the NSA had leaked slides mentioning how the Signal app was a security concern for them. The same goes for Tails.</p>
     <p><em>“catastrophic,&#8221; leading to a &#8220;near-total loss/lack of insight to target communications, presence&#8230;&#8221;(</em><a href="https://en.wikipedia.org/wiki/Tails_(operating_system)"><em>Source</em></a><em>)</em></p>

@@ -9,7 +9,7 @@ Torrenting on the Dark Net
     <span><a href="https://www.deepdotweb.com/2016/12/31/torrenting-dark-net/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Torrenting on the Clear Net can be very unsafe as your IP Address will be visible to other peers. Moreover, your ISP can track your history. Never fear, one can also torrent on the Dark Net. There are 2 main options for torrenting on the Dark Net. One can either use TOR or I2P. Each service has different advantages and disadvantages.</p>
     <p><strong>Tor:</strong></p>
     <p><img class="wp-image-17244 aligncenter" src="/imgs/2016/12/word-image-132.png" srcset="/imgs/2016/12/word-image-132.png 731w, /imgs/2016/12/word-image-132-300x181.png 300w" sizes="(max-width: 731px) 100vw, 731px"/><br/>

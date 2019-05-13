@@ -17,7 +17,7 @@ Brave: Changing the Online Advertisement Industry
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The world of online advertisement is a messy one. Between fraudulent and intrusive ads, ad blockers, adblocker-blockers, etc., it’s pretty hard to understand what exactly is going on, or what needs fixing. One thing has always been clear though, that the end user is getting the worst part of it all.</p>
     <p>Often times, users are either forced to deal with ads they don’t want to see which are intrusive, annoying and sometimes fraudulent. Even if they install an adblocker, many websites will not allow them to view the content if the user has an ad blocker which means that these apps end up being somewhat useless.</p>

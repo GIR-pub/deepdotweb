@@ -17,7 +17,7 @@ Florida Lawmakers Accepted A Bill Allowing The Conviction Of Criminals Who Use B
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On May 5, lawmakers in Florida <a href="http://www.miamiherald.com/news/local/crime/article149028844.html">accepted a measure</a> that would allow authorities to convict criminals, who use bitcoin for <a href="https://www.deepdotweb.com/2017/04/11/austrian-report-money-laundering-rise/">money laundering</a>.</p>
     <p>According to the media outlet miamiherald.com, both the House and the Senate approved the new bill, which will await the approval of Governor Rick Scott. The new measure was submitted after a judge in Miami <a href="http://www.miamiherald.com/news/local/crime/article91682102.html">threw out the criminal case</a> against a suspect who was accused of selling $1,500 worth of <a href="https://www.deepdotweb.com/tag/bitcoin/">BTC</a> to undercover agents who told him that they want to purchase stolen credit card information with the cryptocurrency. The defendant in the case, Michell Espinoza, was charged with illegally transmitting and laundering $1,500 worth of bitcoins. In the case, Judge Teresa Mary Pooler ruled that bitcoin was not backed by any government or bank, and was not “tangible wealth” and “cannot be hidden under a mattress like cash and gold bars,” which resulted in the case being dropped.</p>

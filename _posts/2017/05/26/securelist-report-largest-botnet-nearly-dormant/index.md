@@ -9,7 +9,7 @@ Securelist Report: The Largest Botnet is Nearly Dormant
     <span><a href="https://www.deepdotweb.com/2017/05/26/securelist-report-largest-botnet-nearly-dormant/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to the Kaspersky Lab Securelist report “<a href="https://securelist.com/analysis/quarterly-spam-reports/78221/spam-and-phishing-in-q1-2017/">Spam and Phishing in Q1 2017</a>,” activity from the world&#8217;s largest botnet sharply dropped and almost ceased completely in late December 2016. For almost the entirety of the first quarter of 2017, the Necurs botnet sat in a dormant state. And as one of the largest distributors of spam—mainly emails with malicious attachments—the number of malicious emails fell too.</p>
     <p>Researchers at Securelist noted that the Necurs botnet was still active and the bots waited for commands; they wrote that the server was prepared for an uptick in activity. But the reason behind the decline in use—so suddenly and at a time when mail-spam seemingly peaked—remained unknown. “Perhaps the criminals behind the botnet got scared by all the fuss made about encryptors and decided to temporarily suspend their mass mailings,” researchers wrote.</p>
     <p><img class="wp-image-19994 aligncenter" src="/imgs/2017/05/word-image-80.jpeg" srcset="/imgs/2017/05/word-image-80.jpeg 800w, /imgs/2017/05/word-image-80-300x159.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px"/></p>

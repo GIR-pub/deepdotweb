@@ -9,7 +9,7 @@ Stop Paying Attention When Someone Uses The Iceberg Metaphor For The Dark Web
     <span><a href="https://www.deepdotweb.com/2017/06/01/stop-paying-attention-someone-uses-iceberg-metaphor-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Roger Dingledine, the cofounder of the Tor Project, <a href="https://technical.ly/philly/2017/05/15/dark-web-roger-dingledine/">spoke at the Philly Tech Week 2017</a> criticizing the news providers who use the “iceberg metaphor” for describing the darknet and the deep web.</p>
     <p><img class="wp-image-20267 aligncenter" src="/imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-roge.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\roger-dingeldine-ptw17.jpg" width="596" height="299" srcset="/imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-roge.jpeg 1213w, /imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-roge-300x150.jpeg 300w, /imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-roge-1024x513.jpeg 1024w, /imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-roge-660x330.jpeg 660w, /imgs/2017/05/c-users-dzsuvax-desktop-twerk-deepdotweb-img-roge-995x498.jpeg 995w" sizes="(max-width: 596px) 100vw, 596px"/></p>
     <p>According to the Tor project cofounder, every time the media writes a story about the dark web, they show a picture of an iceberg to describe the anonymous part of the internet as a sinister place, where most of the traffic is conducted by criminals. Dingledine advises his audience not to pay attention when someone uses the iceberg metaphor.</p>

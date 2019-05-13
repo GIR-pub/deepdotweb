@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/12/10/10-12-17-dark-web-cybercrime-roundup/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Chemical Love Conspirator Sentenced to Three Years in Prison</strong></p>
     <p>Chemical Love: Nicholas Kelsch ran Chemical Love, a massive darknet drug shop/online drug trafficking organization. German authorities rounded up Nicholas aka z100 and four co-conspirators in 2016. As of late December 2017, four of the five Chemical Love drug traffickers received sentences. A German court finally managed to sentence the fourth co-conspirator, former VfB Stuttgart professional football player Walter Kelsch. He received three years in prison for his role in the drug trafficking organization.</p>
     <p><img class="wp-image-23847" src="/imgs/2017/12/word-image-16.jpeg" srcset="/imgs/2017/12/word-image-16.jpeg 850w, /imgs/2017/12/word-image-16-300x169.jpeg 300w" sizes="(max-width: 850px) 100vw, 850px" /></p>

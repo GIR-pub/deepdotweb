@@ -17,7 +17,7 @@ New Haven Man Sentenced to Prison for Selling Fentanyl-Laced Cocaine
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Frank Pina, a 57-year-old New Haven resident, just received an 81-month prison sentence from <a href="https://www.justice.gov/usao-ct/pr/new-haven-man-sentenced-87-months-distributing-fentanyl-laced-cocaine-involved-spate">U.S. District Judge Michael P. Shea</a>. Shea sentenced Pina for distributing fentanyl-laced cocaine. His “cocaine” killed three New Haven residents in June alone. Pina himself overdosed on the concoction at least one time, court documents revealed.</p>
     <p><a href="https://www.scribd.com/document/332822209/FRANK-PINA-Affidavit">According to said documents</a>, on June 23, seventeen people in New Haven overdosed on cocaine. Three victims died and those who remained gave statements to police. The DEA and New Haven Police Department (NHPD) interviewed the survivors for additional information. They learned that the hospitalized New Haven residents thought that they were using cocaine. However, Naloxone revitalized many of the patients—an indication that opioids were involved. Then the DEA and NHPD opened an investigation into the deaths and overdoses. DEA laboratories confirmed that <a href="https://www.deepdotweb.com/tag/fentanyl/">the cause of death was pure fentanyl</a>.</p>

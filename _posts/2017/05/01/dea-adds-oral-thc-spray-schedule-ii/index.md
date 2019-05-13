@@ -9,7 +9,7 @@ DEA Adds an Oral THC Spray to Schedule II
     <span><a href="https://www.deepdotweb.com/2017/05/01/dea-adds-oral-thc-spray-schedule-ii/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Insys Therapeutics Inc, the same company that was associated with the marijuana legalization campaign in 2016, pushed the FDA to examine and approve the medical use of their oral cannabinoid solution. The FDA approved the drug, delta-9-THC, under the Insys label “Syndros” in 2016. Now, as of mid-2017, the DEA, acting under the recommendation of the HHS and and suggestion from the FDA, placed the drug into Schedule II of the Controlled Substances Act. This decision sparked controversy.</p>
     <p>The most commonly referenced controversial element of the entire ordeal spawned region a decision made by the pharmaceutical company in 2016. Amidst the 2016 election, the Arizonans for Responsible Drug Policy fought a ballot measure that would have legalized marijuana. Recreational marijuana. Insys Therapeutics funded roughly 10 percent of the money raised by the campaign against recreational marijuana. <a href="http://www.newsweek.com/marijuana-legalization-legal-states-synthetic-drug-574744">According to Newsweek</a>, they fought the legalization to “protect the safety of Arizona’s citizens, and particularly its children.</p>
     <p><img class="wp-image-19572 aligncenter" src="/imgs/2017/04/word-image-65.jpeg" srcset="/imgs/2017/04/word-image-65.jpeg 800w, /imgs/2017/04/word-image-65-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

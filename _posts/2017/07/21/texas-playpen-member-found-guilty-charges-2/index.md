@@ -9,7 +9,7 @@ Texas Playpen Member Found Guilty of All Charges
     <span><a href="https://www.deepdotweb.com/2017/07/21/texas-playpen-member-found-guilty-charges-2/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Like dozens of the defendants caught in the FBI’s “<a href="https://www.deepdotweb.com/tag/pacifier/">Operation Pacifier</a>,” 39-year-old <a href="http://www.star-telegram.com/news/local/community/fort-worth/article159539579.html">Daryl Glenn Pawlak</a> fought the case with vigor. He opposed the FBI&#8217;s use of the NIT that connected his username to his company computer. He first accessed “Playpen,” the child sexual abuse forum, in August 2014, according to a grand jury indictment returned in 2016.</p>
     <p>Between August 2014 and May 2015, Pawlak logged 14 hours on the website. The indictment has a list of some of the file names of the child abuse media accessed by Pawlak. For instance, one file was named “abeob*****178.jpg,” and had been vividly described by the FBI as abuse against a 6-year-old.</p>
     <p><img class="wp-image-21478" src="/imgs/2017/07/word-image-119.jpeg" srcset="/imgs/2017/07/word-image-119.jpeg 800w, /imgs/2017/07/word-image-119-300x198.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

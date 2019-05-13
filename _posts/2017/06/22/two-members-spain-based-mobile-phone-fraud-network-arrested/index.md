@@ -9,7 +9,7 @@ Two Members of a Spain-based Mobile Phone Fraud Network Arrested
     <span><a href="https://www.deepdotweb.com/2017/06/22/two-members-spain-based-mobile-phone-fraud-network-arrested/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Two persons were <a href="http://www.laverdad.es/murcia/jumilla/sorprenden-integrantes-dedicada-20170603125117-nt.html">arrested</a> in Jumilla, Spain for being part of a network that fraudulently purchased smartphones from service providers.</p>
     <p><img class="wp-image-20802 aligncenter" src="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-dark.jpeg" alt="" width="624" height="385" srcset="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-dark.jpeg 624w, /imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-dark-300x185.jpeg 300w" sizes="(max-width: 624px) 100vw, 624px" /></p>
     <p>The Civil Guard of the Region of Murcia carried out a law enforcement action, called “Operation Darkweb” in Jumilla, to clarify a series of scams in the acquisition of mobile phones. The operation resulted in the arrest of two people from Valencia. Investigators suspect the two individuals to be part of a regional criminal network. The prosecution accused the duo of multiple crimes, including <a href="https://www.deepdotweb.com/tag/fraud/">fraud</a>, forgery of public documents, and “continued usurpation of civil status”.</p>

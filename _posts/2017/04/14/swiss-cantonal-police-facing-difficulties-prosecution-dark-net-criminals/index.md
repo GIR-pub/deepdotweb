@@ -17,7 +17,7 @@ Swiss Cantonal Police Facing Difficulties In The Prosecution Of Dark Net Crimina
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to a report, the cantonal police in Bern, Switzerland is <a href="http://www.derbund.ch/bern/kanton/schwierige-polizeiarbeit-auf-der-dunklen-seite-des-internets/story/22268575">confronted with new challenges</a> when they are investigating cybercrime-related cases.</p>
     <p><img class="wp-image-19189 aligncenter" src="/imgs/2017/04/a-document-for-the-danger-in-the-net-a-firearm-w.jpeg" alt="A document for the danger in the net: A firearm, which was distributed in the Darknet and 2016 in Germany police secured.  Switzerland also took part in the international search." srcset="/imgs/2017/04/a-document-for-the-danger-in-the-net-a-firearm-w.jpeg 640w, /imgs/2017/04/a-document-for-the-danger-in-the-net-a-firearm-w-300x200.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>

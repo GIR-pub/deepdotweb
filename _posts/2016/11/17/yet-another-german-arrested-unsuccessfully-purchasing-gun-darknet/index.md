@@ -9,7 +9,7 @@ Yet Another German Arrested After Unsuccessfully Purchasing a Gun from the Darkn
     <span><a href="https://www.deepdotweb.com/2016/11/17/yet-another-german-arrested-unsuccessfully-purchasing-gun-darknet/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 28-year-old was arrested for the attempted purchase of a Glock 17 from the darknet, not but days after another German pleaded guilty for the same crime.</p>
     <p>The 28-year-old from Erding was arrested in a way that mirrored the arrest of another. In late September, a 24-year-old from the Neuburg-Schrobenhausen district was arrested for <a href="https://www.deepdotweb.com/2016/11/10/24-year-old-suspect-admits-attempting-purchase-several-firearms-darknet/">another attempted weapons purchase from the darknet</a>. Police were able to prevent the buy from occurring.</p>
     <p>This case followed the same pattern. He tried, <em>and failed</em>, to purchase a Glock 17, extra magazines, and ammunition. Weapon buys on the darknet have been repeatedly warned against, but this case exemplifies such reasoning. The semi-automatic pistol, a Glock 17, was the <a href="https://www.deepdotweb.com/2016/07/24/munich-gunman-got-weapon-darknet/">same model used by David Sonboly</a> in the Munich attack.</p>

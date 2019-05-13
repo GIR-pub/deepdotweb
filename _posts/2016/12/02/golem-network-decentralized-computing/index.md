@@ -17,7 +17,7 @@ Golem Network: Decentralized Computing
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><a href="https://golem.network/">Golem</a> is a distributed computing network based on an Ethereum smart-contract payment system. It allow its users to buy or sell computational power from their peers, offering a competitive alternative to traditional centralized cloud-based platforms like Google Cloud Platform and Microsoft Azure. This decentralized solution can be used for pretty much anything, from stock market simulations, to protein folding simulation, to CGI rendering, and even cryptocurrency mining</p>
     <p>Anyone can join the network as a buyer or seller, being able to perform any of the roles as the situation requires, making Golem a prosumer market. Sellers can monetize their idle computational power which creates a passive source of income, and buyers can perform computational tasks that are too demanding for their hardware easily and for a fair price.</p>

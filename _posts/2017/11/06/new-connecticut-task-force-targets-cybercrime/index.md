@@ -17,7 +17,7 @@ New Connecticut Task Force Targets Cybercrime
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>As technology continues to advance, so does cybercrime. It is spreading its wings to new sectors as well as enforcing its presence in the daily activities of human beings.</p>
     <p>Crimes ranging from <a href="https://www.deepdotweb.com/2017/09/01/protonmail-may-hacked-phishing-site/">Phishing schemes</a>, identity theft, drug distribution rings, ransomware and malware attacks, security hack and breaches, are visible more now than ever and Connecticut are beginning to experience such issues.</p>

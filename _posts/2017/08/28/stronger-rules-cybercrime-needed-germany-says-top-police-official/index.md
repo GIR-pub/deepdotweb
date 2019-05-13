@@ -18,7 +18,7 @@ Stronger rules on Cybercrime needed in Germany says Top Police Official
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><a href="https://www.deepdotweb.com/tag/cybercrime">Cybercrime</a> has been on the rise as is the size of people or groups committing those crimes. This poses a great threat to many firms and company and countries as a whole around the globe. It is just an epitome of old crimes but this time around through a new medium, and a quirky set-up all on its own with the aid of the internet and the rate at which cyber crime is increasing now seemingly points to the fact that it is not stopping anytime sooner.</p>
     <p>Germany, among the most digitally advanced countries in the world, is experiencing an alarming the rate in the growth of cybercrime. This has prompted the German authorities with Germany&#8217;s top police official calling for tougher laws and rules to tackle cybercrime.</p>

@@ -18,7 +18,7 @@ Man sentenced over 300 years for Darkweb child porn case
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A resident of Virginia has been sentenced to 300 years in prison for engaging in child pornographic acts. Before his arrest, he had been finding victims for his pornographic acts from the darknet under the screen name, Va Dad4yung.</p>
     <p>Henrick Styles <a href="http://wkrg.com/2017/09/04/man-receives-over-300-year-sentence-for-child-porn/">pleaded guilty to 37 charges</a> but could be in jail for 25 years after forcing a plea deal. This will only be activated if he shows good behavior during his prison sentence.</p>

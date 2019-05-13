@@ -9,7 +9,7 @@ French MP Wants To Crack Down On Dark Net Drug Sales
     <span><a href="https://www.deepdotweb.com/2016/07/08/french-mp-wants-crack-dark-net-drug-sales/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Bernard Debré, a member of the Republicans Party in France, is very much worried about the <a href="http://sputniknews.com/europe/20160630/1042219145/france-drugs-online.html">sale of illegal substances</a> on the <a href="https://www.deepdotweb.com">dark web</a> and the clearnet. To draw public attention, he even ordered some drugs from an online marketplace.</p>
     <p>Debré took part in a survey recently where he discovered that illicit substances can be bought online pretty easily. He said:</p>
     <p>“All you need to do to find drugs on the Web is log onto an official website, usually in The Netherlands, which offers spice, which is an extremely dangerous narcotic and hallucinogenic mushroom. We could have easily banned all this business, but the problem is that a handful of people in France want to legalize these drugs. In Holland, people are pretty much tolerant about these drugs, while in France they are outlawed. What I’m saying is that we need to end this cross-border trade, because the hallucinogenic mushrooms I found there are banned but are still available online.”</p>

@@ -17,7 +17,7 @@ Louisiana DMV Hacked, Data for Sale on Dark Net
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A hacker known as ‘NSA’ operating on &#8220;<a href="https://www.deepdotweb.com/?s=therealdeal">Therealdeal</a>&#8221; <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">dark net market</a> is selling over a quarter million driver’s license records he obtained from hacking a database from the state of Louisiana. It’s said that the records mainly show crime, traffic offences and the like ranging from speeding, theft and murder.</p>
     <p>With ages from teenagers to seniors, the most common year of birth being 1983. How these figures were bought to light, is still unsure. Most likely from sources at the hacked DMV.  The data for sale contains all the regular info you might think to see in such a data leak, like first and last name, date of birth, zip code, home address and details pertaining to traffic and criminal offences.</p>

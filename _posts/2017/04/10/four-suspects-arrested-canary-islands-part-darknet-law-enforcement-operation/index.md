@@ -17,7 +17,7 @@ Four Suspects Arrested In The Canary Islands As Part Of A Darknet Law Enforcemen
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Earlier this week, Spanish investigators <a href="http://www.lavanguardia.com/vida/20170325/421171934509/detienen-a-cuatro-jovenes-en-tenerife-por-introducir-drogas-sinteticas-en-canarias-obtenidas-en-la-red-oscura.html">arrested</a> four young persons for distributing synthetic <a href="https://www.deepdotweb.com/2017/03/23/german-university-student-arrested-ordering-large-amounts-drugs-dark-web/">drugs</a> they bought from the dark web.</p>
     <p><a id="post-19109-_gjdgxs"></a> According to a press release by the Guardia Civil (Civil Guard – an organized police force charged with duties under the authority of both the Ministry of the Interior and the Ministry of Defence in Spain), Spanish law enforcement authorities arrested four suspects, aged between 18 and 29, in Tenerife, the Canary Islands, for “forming a criminal organization dedicated to the introduction of synthetic drugs bought in Europe through the darknet with virtual money or <a href="https://www.deepdotweb.com/tag/bitcoin/">bitcoin</a>.”</p>

@@ -9,7 +9,7 @@ Dr. D&#8217;s Market Promotion Challenge: DR. D pays you CASH!
     <span><a href="https://www.deepdotweb.com/2015/12/16/dr-ds-market-promotion-challenge/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Always nice to see markets thinking out of the box when it comes to their marketing efforts, such example can be found now on <a href="http://www.deepdotweb.com/marketplace-directory/listing/mr-nice-guy/">Dr. D&#8217;s Market</a>:</p>
     <p>&#8220;&#8221;PROMOTION CHALLENGE: You promote DR. D pays you CASH!</p>
     <p>Dr. D&#8217;s Market is growing everyday. Anyone who will help to speed this up and promote this Market, will be rewarded with CASH in bitcoin, directly to there Dr. D&#8217;s account, for withdraw or to be spent on the Dr. D&#8217;s Multilingual Market.</p>

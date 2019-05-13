@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/01/06/176-investigations-started-norway-operation-hyperion/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>176 investigations <a href="http://www.st.nu/blaljus/brott/norrlandska-narkotikakopare-togs-vid-internationell-insats">started</a> against 226 persons in Sweden as part of Operation Incognito, the Scandinavian side of the United States-led Operation Hyperion. Hyperion was a global law enforcement action against dark web criminals (who dealt mostly with narcotics).</p>
     <p>Authorities already detained and remanded 12 of the suspects in custody from the Northern region. Most of the suspects are located in the Western part of the country, police information says.</p>
     <p>“The results show that drug trafficking has moved into the homes, and that you can order <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> in the mail while sitting with your kids, or in the bedroom. We have, in these cases, managed to break the anonymity of the Darknet,” said Linda Staaf, head of the intelligence unit at the National Police Operations Department in a press release.</p>

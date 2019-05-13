@@ -9,7 +9,7 @@ Europol Gets Help From a Member of the Swedish Police to Fight Darknet Crime
     <span><a href="https://www.deepdotweb.com/2016/11/22/europol-enlists-help-darknet-specialist-fight-drug-crimes/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Europol in the Netherlands announced a new addition to the crime fighting taskforce. The employee, a commissioner with a background in intelligence work with the Stockholm police, was enlisted to help fight crime on the darknet.</p>
     <p>The article announcing the new role spoke of the unique position Ericsson would be playing. Europol had been facing an influx of terrorism-related crime and with the long hours and overworked staff, some issues went unattended for far too long. Europol hoped Ericsson would fill the gap and become a liaison between fighting terrorism and darknet crimes.</p>
     <p>So far Ericsson has not faced any rivalry between agencies and countries, a source wrote. Europol consists of 28 member states but the source said there is very little miscommunication or animosity between the entities. “It is a pleasant and easy environment to work in, everyone is motivated. I really believe in this idea. <a href="https://www.gp.se/nyheter/v%C3%A4rlden/med-uppdrag-att-arbeta-f%C3%B6r-ett-s%C3%A4krare-eu-1.3950514">I think it is the future</a>,” he said.</p>

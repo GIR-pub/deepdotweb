@@ -9,7 +9,7 @@ What is an ICO (Initial Coin Offering)
     <span><a href="https://www.deepdotweb.com/2017/04/10/ico-initial-coin-offering/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The cryptocurrency market is often referred to as the “wild west of finance”. Cryptocurrencies can sometimes increase in value several times over. Investment opportunities in the form of crowdfunding campaigns are extremely common in the cryptocurrency sphere. These come in the form of ICOs, short for Initial Coin Offering.</p>
     <p>Crowdfunding and cryptocurrency is a match made in heaven. Development teams get the funds required to build their ideas into full-blown projects without having to go through all the usual red tape and investors can access a truly global market that is not geographically limited.</p>
     <p>Initial Coin Offerings are similar to Initial Public Offers. Development teams issue cryptocurrency tokens that are then sold to the public in exchange for Bitcoin, other cryptocurrencies and national currencies.</p>

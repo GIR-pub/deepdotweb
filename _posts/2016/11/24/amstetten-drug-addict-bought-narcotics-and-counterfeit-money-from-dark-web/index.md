@@ -9,7 +9,7 @@ Amstetten Drug Addict Bought Narcotics And Counterfeit Money From Dark Web
     <span><a href="https://www.deepdotweb.com/2016/11/24/amstetten-drug-addict-bought-narcotics-and-counterfeit-money-from-dark-web/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An 18-year-old from Amstetten, <a href="https://www.deepdotweb.com/tag/austria/">Austria</a> was <a href="http://www.meinbezirk.at/amstetten/lokales/suechtiger-im-bezirk-amstetten-i-hau-di-nieder-d1929081.html">sentenced</a> to 15 months in prison for buying drugs and <a href="https://www.deepdotweb.com/tag/counterfeit/">counterfeit</a> money from the dark web.</p>
     <p>According to official court documents, the Amstetten man had been addicted to narcotics since the age of 14. Soon after he turned 18, he did not have any money to finance his addictions so he bought drugs from the dark net. The 18-year-old ordered from mostly vendors based in the Netherlands or Poland. After the packages arrived, he sold the <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> to his customers to make profits.</p>
     <p>Patrick Hinterleitner from the St. Pöltner’s Prosecutor’s Office said when law enforcement authorities performed a home search at the accused he resisted fiercely when police tried to arrest him in June. The 18-year-old wanted to prevent authorities from seizing the <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> he had in his home. In addition to that, he threatened an officer and kicked another in the leg.</p>

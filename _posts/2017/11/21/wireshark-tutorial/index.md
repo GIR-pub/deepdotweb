@@ -9,7 +9,7 @@ Wireshark Tutorial
     <span><a href="https://www.deepdotweb.com/2017/11/21/wireshark-tutorial/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The following tutorial is intended as a brief introduction to the most famous packet sniffer in the world, Wireshark. The most complete guide you can find, is the <a href="https://www.wireshark.org/download/docs/user-guide-a4.pdf">user-guide-wireshark.pdf</a>, that counts 192 pages. Anyway if you don’t want to read all those pages, you can find few easier tutorials on the <a href="https://www.deepdotweb.com/2017/09/19/art-google-hacking/">web</a>. This is one of them, and it will guide you from the theoretical basis to a “hands-on” approach for the graphical interface.</p>
     <h2>Introduction</h2>
     <p>The data that you send and receive with your computer, are encapsulated following the ISO/OSI model or the TCP/IP architecture. In the following images you can see how the ISO/OSI model and the TCP/IP architecture are built and how they deal with each other.</p>

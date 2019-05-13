@@ -9,7 +9,7 @@ Three Irishmen Jailed For Dark Web Drug Trading, Use of Cash Vital in Crackdown
     <span><a href="https://www.deepdotweb.com/2017/01/19/three-irishmen-jailed-dark-web-drug-trading-use-cash-vital-crackdown/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>As previously reported by <a href="https://www.deepdotweb.com/2016/12/03/irish-darknet-drug-dealers-reassured-receiving-long-sentence-january/">DeepDotWeb</a> In December, three Irishmen including Richard Sinclair of Coleraine, Stephen Rodgers of Carrickfergus and Kyle Hall of Belfast were charged with several offenses including money laundering, possession of and intent to supply class A drugs and intent to supply and class A drugs.</p>
     <p>This week, Sinclair and Hall both plead guilty to most of the charges presented by the prosecutors, receiving 7 year and 5-year sentences respectively. Sinclair was charged with more serious offenses, after it was discovered that he acquired drugs using bitcoin through the darknet&#8211;first charge of illegal possession of drugs&#8211;and attempted to sell class A drugs by placing them inside DVD cases for distribution.</p>
     <p>One major factor which led to the longest jail sentence of Sinclair was his active operation in the online darknet marketplace and the offline drug trading operation he was conducting with support from Hall.</p>

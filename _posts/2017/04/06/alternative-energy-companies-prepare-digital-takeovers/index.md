@@ -9,7 +9,7 @@ Alternative Energy Companies Prepare for Digital Takeovers
     <span><a href="https://www.deepdotweb.com/2017/04/06/alternative-energy-companies-prepare-digital-takeovers/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>At a recent renewable energy convention and trade fair, companies with a vested interest in the trade organized an IT security workshop. The presentation, according to some who observed the event was quite frightening. An information and data security consultant demonstrated the damage a malicious hacker could cause. He walked the guests <a href="https://www.deepdotweb.com/tag/darknet/">into the darknet</a>.</p>
     <p>The cluster management Digital Economy Schleswig-Holstein (DiWiSH), the Network Agency for Renewable Energies (EE.SH), and the industry association watt_2.0 e.V. <a href="http://www.ee-sh.de/de/aktuelles/meldungen/20170320-IT_Sicherheit.php">organized the cybersecurity workshop</a> during the New Energy Trade Fair. As the world of cybercrime evolves, the list of potential targets expands. Renewable energy executives see the power infrastructure built on regenerative energy systems such as wind turbines or photovoltaic systems as the next major target.</p>
     <p><img class="wp-image-19039 aligncenter" src="/imgs/2017/04/word-image-8.png" srcset="/imgs/2017/04/word-image-8.png 832w, /imgs/2017/04/word-image-8-300x174.png 300w" sizes="(max-width: 832px) 100vw, 832px" /></p>

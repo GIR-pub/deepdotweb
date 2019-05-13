@@ -9,7 +9,7 @@ Indian Middleman Charged With Money Laundering For Trading Bitcoin
     <span><a href="https://www.deepdotweb.com/2016/12/30/indian-middleman-charged-money-laundering-trading-bitcoin/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A bitcoin trader was arrested in India and charged with money laundering last Sunday. <a href="http://indiatoday.intoday.in/story/black-money-cyber-threat-bitcoins-crypto-currency-digital-money-zebpay/1/838545.html">A group of undercover journalists from India&#8217;s Today</a> reported that they lifted the shades off a small &#8220;internet broker&#8221; that offered exchange of India&#8217;s demonetized banknotes, the 500 and 1000 rupees, to bitcoin.</p>
     <p><img class="wp-image-17226 aligncenter" src="/imgs/2016/12/btc-india-jpg.jpeg" alt="BTC india.jpg" srcset="/imgs/2016/12/btc-india-jpg.jpeg 558w, /imgs/2016/12/btc-india-jpg-300x165.jpeg 300w" sizes="(max-width: 558px) 100vw, 558px"/></p>
     <p>According to the Indian police, a man named, Vijay, used a small shop in a mall in Delhi to offer exchange services of demonetized banknotes to bitcoin. Vijay used Zebpay, an Indian bitcoin exchange, to buy the coins he used in his business. However, he added a 20% exchange fee to the price listed on Zebpay, so he made 2 bitcoins for every 10 bitcoins he sold to his customers.</p>

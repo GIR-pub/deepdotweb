@@ -9,7 +9,7 @@ Dutch Public Prosecutor Fights Against Bitcoin Money Laundering
     <span><a href="https://www.deepdotweb.com/2017/01/16/dutch-public-prosecutor-fights-bitcoin-money-laundering/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a <a href="https://fd.nl/economie-politiek/1181589/om-voert-strijd-op-tegen-witwassen-via-bitcoin">survey</a> conducted by the media outlet fd.nl, the Dutch Public Prosecutor (OM) is waging a war against criminal traders and exchanges of bitcoin. The Dutch OM is looking forward to at least three BTC money laundering criminal cases in 2017.</p>
     <p>Bitcoin trading has always been legal. The cryptocurrency had seen a 28 percent increase from 2015 to 2016, its current price is standing at €980, the highest point ever. BTC is popular in countries with capital restrictions or weakening currencies, such as China. However, bitcoin is also a popular currency among <a href="https://www.deepdotweb.com/tag/cybercrime/">cybercriminals</a>, that’s why the Dutch OM seeks to prosecute money laundering cases.</p>
     <p>Criminals choose <a href="https://www.deepdotweb.com/tag/bitcoin/">bitcoin</a> as their currency of choice since it is not connected to any countries, central banks or financial supervisors. This could result in fast and mostly anonymous transactions. According to a Europol investigation, more than 40 percent of online transactions between criminals were paid in bitcoins.</p>

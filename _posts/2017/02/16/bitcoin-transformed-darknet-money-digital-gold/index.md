@@ -9,7 +9,7 @@ Bitcoin has Transformed From Darknet Money into Digital Gold
     <span><a href="https://www.deepdotweb.com/2017/02/16/bitcoin-transformed-darknet-money-digital-gold/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In the early years of bitcoin, even until the end of 2014, <a href="https://www.deepdotweb.com/2017/01/25/bitcoin-will-remain-legal-in-russia/">bitcoin</a> was perceived as darknet money used to purchase drugs and illicit goods in the <a href="https://www.deepdotweb.com/2017/01/29/increased-dark-web-activity-austria/">dark web</a>. Over the past two years, this image of bitcoin has changed significantly. Bitcoin has transformed from darknet money into digital gold.</p>
     <p>In late 2016, the global financial market and economy struggled, leading to the decline of many fiat-related multi-trillion dollar markets, assets, reserve currencies and bonds. Countries like India and China tightened existing regulations on cash and introduced impractical policies that have caused extreme discomfort to the general population.</p>
     <p>For instance, the Chinese government introduced various unjustifiable monetary policies such as heavy regulation on Wealth Management Products (WMPs) and restriction on capital outflow to prevent further devaluation of the Chinese Yuan.</p>

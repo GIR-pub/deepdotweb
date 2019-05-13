@@ -9,7 +9,7 @@ Newly Stolen Medical Records Auctioned on Darknet Site
     <span><a href="https://www.deepdotweb.com/2017/05/15/newly-stolen-medical-records-auctioned-darknet-site/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Relatively speaking, Lithuania amassed their fair share of data breaches within the past five years. In many cases, the hacks occurred both inside and outside the medical sector—the medical breaches, though carried less of a foreign impact than the others. However, a Lithuanian plastic surgery clinic recently <a href="https://www.databreaches.net/lithuania-cybercriminals-blackmail-plastic-surgery-clinic-with-stolen-photos/">landed in the spotlight for a data breach</a> that showcased patient pictures on the darknet.</p>
     <p>International media saw Lithuania on the news for a medical data breach not long ago. The “Tsar Team&#8221; aka “Fancy Bear“ hacked the World Anti-Doping Agency (WADA). Confidential medical data of 25 famous athletes made their rounds in the internet. Serena Williams lost her confidential information in that breach and was among the most famous of the victims. The database hack of Lithuanian web host “000webhost” likely rang more alarm bells, however. Hackers dumped 13 million passwords and HaveIbeenpwned activity spiked.</p>
     <p><img class="wp-image-19887 aligncenter" src="/imgs/2017/05/word-image-55.jpeg" srcset="/imgs/2017/05/word-image-55.jpeg 800w, /imgs/2017/05/word-image-55-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

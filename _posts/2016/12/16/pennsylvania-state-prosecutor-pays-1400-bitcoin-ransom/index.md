@@ -9,7 +9,7 @@ Pennsylvania State Prosecutor Pays $1,400 in Bitcoin as Ransom
     <span><a href="https://www.deepdotweb.com/2016/12/16/pennsylvania-state-prosecutor-pays-1400-bitcoin-ransom/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The computer of a Allegheny County district attorney Stephen Zappala, a state prosecutor in Pennsylvania, was infected by a ransomware known as Avalanche. Zappala paid US$1,400 in bitcoin to decrypt his computer and gain access to his files.</p>
     <p>Avalanche is arguably the largest ransomware operation to date which was cracked down by the the U.S Federal Bureau of Investigation (FBI), Europol and agencies across 30 countries globally earlier this year. The international investigation led to the seizure of over 800,000 domains, 39 servers and 5 individuals, a group that allegedly ran the Avalanche network.</p>
     <p>In 2015, Zappala’s office was hit by the ransomware Avalanche an employee tried to access a government link in an phishing email. The email link redirected the computer of the prosecutor’s office to Avalanche, which encrypted files and data stored in the computer.</p>

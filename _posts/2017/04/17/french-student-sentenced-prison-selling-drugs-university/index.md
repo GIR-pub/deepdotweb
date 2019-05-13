@@ -9,7 +9,7 @@ French Student Sentenced To Prison For Selling Drugs At The University
     <span><a href="https://www.deepdotweb.com/2017/04/17/french-student-sentenced-prison-selling-drugs-university/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities in France <a href="http://www.ladepeche.fr/article/2017/04/03/2549259-l-etudiant-s-alimentait-sur-le-darknet.html">arrested</a> a university student who is suspected of ordering <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> from the dark web and selling them locally.</p>
     <p><img class="wp-image-19231 aligncenter" src="/imgs/2017/04/order-on-internet-and-discreet-delivery-via-posta.jpeg" alt="Order on internet and discreet delivery, via postal services./DDM Xavier de Fenoyl, illustration" srcset="/imgs/2017/04/order-on-internet-and-discreet-delivery-via-posta.jpeg 644w, /imgs/2017/04/order-on-internet-and-discreet-delivery-via-posta-259x300.jpeg 259w" sizes="(max-width: 644px) 100vw, 644px"/></p>
     <p>According to police information, the 23-year-old computer science student, who was a ”festive consumer”, preferred to use the darknet to purchase the <a href="https://www.deepdotweb.com/2017/03/23/german-university-student-arrested-ordering-large-amounts-drugs-dark-web/">drugs</a> versus shady street deals. Investigators claimed that all kinds of narcotics are sold on dark web marketplaces, including cocaine, ketamine, ecstasy, marijuana, LSD, and amphetamine. The defendant told the Correctional Court in Toulouse that he feared lest when he ordered narcotics from the dark side of the internet, compared to deals when he had to purchase drugs from local vendors.</p>

@@ -9,7 +9,7 @@ Mullvad Review
     <span><a href="https://www.deepdotweb.com/2016/01/28/mullvad-review/#comments">14 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>The Company</strong></p>
     <p>In this Mullvad Review we found out that Mullvad is a <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN service</a> operated by Amagicom AB Company based in the city of Gothenburg, Sweden. Mullvad’s mission is to make the internet censorship and surveillance ineffective. Mullvad endeavors to keep your online activity, location and identity private. Its location in Sweden gives it a head start over other VPN service providers. In Sweden, the EU Data Retention Directive (DRD) did not apply to VPN providers during implantation which makes Sweden an ideal place to locate servers and also operate VPN services. Luck of censorship makes Sweden a haven for internet users who need privacy.</p>
     <p><strong>Free Trial and Money back guarantee</strong></p>

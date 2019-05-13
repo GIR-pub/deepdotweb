@@ -17,7 +17,7 @@ PSYCHEDELIC APHORISMS #2
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>BEGINNING OF THE SECOND INSTALLMENT</p>
     <p>*           *           *</p>

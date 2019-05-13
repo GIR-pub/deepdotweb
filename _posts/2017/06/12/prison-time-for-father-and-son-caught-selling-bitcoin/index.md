@@ -9,7 +9,7 @@ Prison Time for Father and Son Caught Selling Bitcoin
     <span><a href="https://www.deepdotweb.com/2017/06/12/prison-time-for-father-and-son-caught-selling-bitcoin/#comments">9 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In the Western District of Louisiana—on April 20, 2016—a father and son pleaded guilty to <a href="https://www.justice.gov/usao-wdla/pr/former-shreveport-chiropractor-son-plead-guilty-operating-illegal-bitcoin-exchange">conspiring to operate an unlicensed money servicing business</a>. The son pleaded guilty to an additional charge of conspiracy to distribute. After the courts denied their motion to withdraw their admissions of guilt, U.S. District Judge S. Maurice Hicks Jr. sentenced the two to 46 months in prison and 106 months in prison, respectively.</p>
     <p><a id="post-20564-_gjdgxs"></a> The father, Randall B. Lord, and his son, Michael A. Lord, sold Bitcoin without a money servicing license. According to court documents, the duo bought significant quantities of the cryptocurrency on Coinbase. Coinbase is a notoriously aggressive Bitcoin exchange. They sold on Localbitcoins.com (LBC), a currency exchange with a much more relaxed environment.</p>
     <p><a id="post-20564-_30j0zll"></a> <img class="wp-image-20573 aligncenter" src="/imgs/2017/06/word-image-53.jpeg" srcset="/imgs/2017/06/word-image-53.jpeg 800w, /imgs/2017/06/word-image-53-300x141.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

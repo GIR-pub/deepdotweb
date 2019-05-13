@@ -9,7 +9,7 @@ Final Dealer in Fentanyl Conspiracy Admits Guilt
     <span><a href="https://www.deepdotweb.com/2017/04/12/final-dealer-fentanyl-conspiracy-admits-guilt/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On March 27, 2017, Jessica Christine Holl of Lubbock, Texas, pleaded guilty to her involvement in a darkweb fentanyl trafficking ring. Three fentanyl traffickers landed in a federal investigation after <a href="https://www.ice.gov/news/releases/3-lubbock-texas-residents-arrested-fentanyl-related-charges">ICE and the DEA intercepted two packages of fentanyl</a> from China. One in 2015 and one in 2016. The package listed a Lubbock woman as the US recipient.</p>
     <p>Texas law enforcement, in conjunction with the DEA and other federal agencies, investigated the case. According to court documents and press releases from the DEA, ICE, HSI, and the District Attorney, among others, the package interception led to the year-long Investigation—mainly through confidential informants. <a href="https://www.deepdotweb.com/tag/roundup/">Three Lubbock residents became the primary suspects</a> in the investigation: Jessica Christine Holl, Jamie Marie Robertson, and Sydney Caleb Lanier.</p>
     <p><img class="wp-image-19143 aligncenter" src="/imgs/2017/04/12287151_g-jpg.jpeg" alt="12287151_G.jpg" srcset="/imgs/2017/04/12287151_g-jpg.jpeg 640w, /imgs/2017/04/12287151_g-jpg-300x225.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>

@@ -17,7 +17,7 @@ Georgia Man Jailed For Role in Cybercrime against Kansas County
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A Georgia man will now spend two years and three months in federal prison for his role in an <a href="https://www.deepdotweb.com/2017/08/25/d-c-couple-allegedly-losses-1-5-million-hackers-phishing-scheme/">email parody scheme</a> that cost Sedgwick County more than $566,000.</p>
     <p>George S. James, a 49-year-old from Brookhaven, Georgia, was on Wednesday sentenced to 27 months in prison, according to U.S Attorney Tom Beall. James pleaded guilty to one count of wire fraud.</p>

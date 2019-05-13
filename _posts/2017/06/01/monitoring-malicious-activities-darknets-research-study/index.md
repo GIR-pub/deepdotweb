@@ -9,7 +9,7 @@ Monitoring Malicious Activities On Darknets &#8211; A Research Study
     <span><a href="https://www.deepdotweb.com/2017/06/01/monitoring-malicious-activities-darknets-research-study/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Darknets are comprised of machines and/or servers with unassigned IP addresses, which operate in a passive mode that is characterized by minimal or no communication with public parts of the internet. It is rather unusual for data to be received on such networks; and if this happens, <a href="https://www.deepdotweb.com/2017/01/08/onion-router-darkweb-overview-current-state-vulnerabilities/">malicious activity is suspected</a>. Data sent in such way could represent an adversary looking for network vulnerabilities that he can use to launch future attacks.</p>
     <p>A group of researchers from the Indian Institute of Technology (IIT) Kanpur, India, studied <a href="http://home.iitk.ac.in/~devyadav/cs498a/report.pdf">the patterns of malicious activities on darknets</a>, via monitoring and analyzing darknet traffic across a /24 public IPv4 space of IIT Kanpur.</p>
     <p><strong>Study Approach:</strong></p>

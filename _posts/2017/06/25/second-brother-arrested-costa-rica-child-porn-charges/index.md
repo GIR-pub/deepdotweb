@@ -9,7 +9,7 @@ Second Brother Arrested In Costa Rica For Child Porn Charges
     <span><a href="https://www.deepdotweb.com/2017/06/25/second-brother-arrested-costa-rica-child-porn-charges/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On June 5, Costa Rican law enforcement authorities <a href="http://qcostarica.com/second-brother-arrested-in-child-pornography-and-sexual-abuse-case-of-9-year-old/">detained</a> a man, who is one of the two brothers suspected of producing and distributing <a href="https://www.deepdotweb.com/2017/06/06/large-scale-fbi-dark-web-child-porn-investigation-sees-progress-1-pleads-guilty/">child pornography</a> content on the dark web, and sexually assaulting a nine-year-old girl since she was six-years-old.</p>
     <p><img class="wp-image-20882" src="/imgs/2017/06/c-users-vitaris-desktop-twerk-img-oij-allanamient.jpeg" alt="C:\Users\Vitáris\Desktop\twerk\img\OIJ-allanamiento-hermanos-Rojas-familia_.jpg" srcset="/imgs/2017/06/c-users-vitaris-desktop-twerk-img-oij-allanamient.jpeg 960w, /imgs/2017/06/c-users-vitaris-desktop-twerk-img-oij-allanamient-300x164.jpeg 300w" sizes="(max-width: 960px) 100vw, 960px" /></p>
     <p>On the morning of May 23, police detained a 35-year-old man, <a href="http://qcostarica.com/man-arrested-for-sexual-abuse-of-minor-and-posting-video-on-the-internet/">the first brother</a>, in San Miguel de Higuito de Desamparados, Costa Rica, who is suspected of crimes of sexual <a href="https://www.deepdotweb.com/2017/05/05/father-man-abused-child-uploaded-video-dark-web/">abuse</a> of a minor and dissemination of child pornography.</p>

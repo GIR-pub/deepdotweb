@@ -9,7 +9,7 @@ Tutorial: How To Buy From the Zion Market?
     <span><a href="https://www.deepdotweb.com/2017/01/28/tutorial-buy-zion-market/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Today, we’re going to teach you how to buy from the<a href="https://www.deepdotweb.com/marketplace-directory/listing/zion-market/"> Zion market</a>. This is a fairly new market with a low range of products. However, Zion shows promise in its features and security! Users can choose between a 2 out of 2 or 3 multisignature, meaning that escrow can be managed by the market and vendor or by the three: market, vendor, and you. This means that the market is never in control of your funds. Zion market has no built-in wallets or balances, so every order will require you to make a transaction.</p>
     <p>Zion allows 2-fa with PGP and has an amazingly useful security feature, the “Emergency Destruction Password”. It’s a sort of self-destruct button that allows you to erase all evidence on the Zion market quickly. It can be used as a decoy for L.E or to quickly erase your account when you don’t want to use it any more.</p>
     <p>Zion is easy to use and secure. Exit scams by the market are not possible (unless if the market collaborates with the seller to do so). Zion also protects your privacy by allowing Monero payments that are instantly converted to BTC.</p>

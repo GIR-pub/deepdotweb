@@ -17,7 +17,7 @@ Darkmarket fear: Hysterics or understandable concern?
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Fear, it seems, is the mission-creep now invading the darknet . It appears that dark markets, the narco-types, are fearful of taking the top slot. But why?</p>
     <p>History tells them, and us, that if you put your head over the parapet you&#8217;ll find yourself the main target. When Agora went offline the other markets in 2nd 3rd etc. places, by default, were expected and by expectations should have taken up the slack. This scenario has not really happened.</p>

@@ -9,7 +9,7 @@ California Hospital Hit By Ransomware
     <span><a href="https://www.deepdotweb.com/2016/02/20/california-hospital-hit-by-ransomware/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Systems at Hollywood Presbyterian Medical Center in Los Angeles, California have been offline for more than a week now due to a ransomware attack. The hackers are asking for 9,000 BTC which is about 3.6 million USD.</p>
     <p>Hospital president and CEO, Allen Stefanek has said that this attack is interfering with day-to-day operations. Stefanek has also made the statement that the attack was &#8220;random&#8221; and was not malicious. NBC4 <a href="http://www.nbclosangeles.com/news/local/Hollywood-Hospital-Victim-of-Cyber-Attack-368574071.html">reports</a> that staff at the hospital noticed “significant IT issues and declared an internal emergency” on February 5.</p>
     <p>The impact on day-to-day operations this has had on the hospital is very frustrating for the staff.</p>

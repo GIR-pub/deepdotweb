@@ -9,7 +9,7 @@ Google: ISIS Should Be Pushed Back To Dark Web
     <span><a href="https://www.deepdotweb.com/2016/01/25/google-isis-should-be-pushed-back-to-dark-web/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.wired.co.uk/news/archive/2016-01/19/google-stop-islamic-state">According to Google, the online ”propaganda machine” of the Islamic State (ISIS) should be pushed back from public view to the dark net.</a> Jared Cohen, the director of Google Ideas, states to ”recapture digital territory” from the terrorist group, they need to make ISIS’ members fear the fact that they may be caught while posting messages on the clearnet. Cohen made these statements at a talk on ”Waging a Digital Counterinsurgency” at Chatham House:</p>
     <p>&#8220;Terrorist groups like Isis, they operate in the dark web whether we want them to or not. What is new is that they&#8217;re operating without being pushed back in the same internet we all enjoyed. So success looks like Isis being contained to the dark web.”</p>
     <p>&#8220;The reality is what Isis is doing with technology ranges from communication to spamming, to all sorts of tactics that you&#8217;re probably more familiar with fraud and spam and various scams you&#8217;ve received in your inbox.&#8221;</p>

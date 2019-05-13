@@ -9,7 +9,7 @@ US Firearm Vendor Tried To Sell Gun To Customer, Got Jailed
     <span><a href="https://www.deepdotweb.com/2017/02/22/us-firearm-vendor-tried-sell-gun-customer-got-jailed/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Michael Ryan, a 36-year-old graduate from Kansas, US, was <a href="http://www.dailyrecord.co.uk/news/scottish-news/american-gunrunner-used-shady-websites-9760581">sentenced</a> to 52 months in prison for running a vendor shop on the dark web. According to law enforcement authorities, the suspect sold <a href="https://www.deepdotweb.com/tag/weapon/">weapons</a> under the pseudo name ”Gunrunner” on the Black Market Reloaded (BMR) marketplace.</p>
     <p><img class="wp-image-18275 aligncenter" src="/imgs/2017/02/http-i3-dailyrecord-co-uk-incoming-article976062.jpeg" alt="http://i3.dailyrecord.co.uk/incoming/article9760625.ece/ALTERNATES/s615/gunrunner.jpg" srcset="/imgs/2017/02/http-i3-dailyrecord-co-uk-incoming-article976062.jpeg 615w, /imgs/2017/02/http-i3-dailyrecord-co-uk-incoming-article976062-300x200.jpeg 300w" sizes="(max-width: 615px) 100vw, 615px" /></p>
     <p>During the investigation, law enforcement authorities discovered that Ryan sold a powerful Hi-Point handgun and 19 bullets to a customer in Edinburgh. The seller allegedly sent the package using FedEx. After his detention, the weapon vendor admitted that he also exported <a href="https://www.deepdotweb.com/tag/firearm/">firearms</a> to England, Ireland, and Australia.</p>

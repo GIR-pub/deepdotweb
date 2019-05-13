@@ -9,7 +9,7 @@ Bitcoin News Round Up 25 April 2016
     <span><a href="https://www.deepdotweb.com/2016/04/25/bitcoin-news-round-25-april-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Recapping Bitcoin news that made the headlines this week.</p>
     <p><strong>REGULATION:</strong></p>
     <p><strong>Japan’s OK’s set of Virtual Currency Bills</strong></p>

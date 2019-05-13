@@ -9,7 +9,7 @@ Father And Other Man Abused Child And Uploaded Video To The Dark Web
     <span><a href="https://www.deepdotweb.com/2017/05/05/father-man-abused-child-uploaded-video-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities in Lübeck, Germany are <a href="https://www.ndr.de/nachrichten/schleswig-holstein/Zweijaehrige-von-zwei-Maennern-vergewaltigt,missbrauch1402.html">investigating a case</a> where two men are suspected of abusing a child multiple times and uploading the video to the darknet.</p>
     <p><img class="wp-image-19647 aligncenter" src="/imgs/2017/05/scales-of-justice.jpeg" alt="Scales of justice" width="835" height="835" srcset="/imgs/2017/05/scales-of-justice.jpeg 1200w, /imgs/2017/05/scales-of-justice-150x150.jpeg 150w, /imgs/2017/05/scales-of-justice-300x300.jpeg 300w, /imgs/2017/05/scales-of-justice-1024x1024.jpeg 1024w, /imgs/2017/05/scales-of-justice-55x55.jpeg 55w, /imgs/2017/05/scales-of-justice-50x50.jpeg 50w" sizes="(max-width: 835px) 100vw, 835px" /></p>
     <p>According to the court documents, the public prosecutor’s office in Lübeck accused a 28-year-old man, who is the father of the victim, and a 47-year-old man, of sexually assaulting a two-year-old girl. Police information stated that the suspects abused the child sexually three times. They are charged with serious sexual abuse in nine cases.</p>

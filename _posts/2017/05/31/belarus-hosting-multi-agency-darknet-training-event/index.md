@@ -9,7 +9,7 @@ Belarus Hosting Multi-Agency Darknet Training Event
     <span><a href="https://www.deepdotweb.com/2017/05/31/belarus-hosting-multi-agency-darknet-training-event/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>As the criminal activity on the darknet becomes less of an exception and more of the norm, law enforcement learns to adapt to the modern age of crime. An example of this is an event at the International Training Center of the Police Academy between May 15 and 19 in Belarus.</p>
     <p>There, regional authorities and international experts will learn about “strengthening the capacity of law enforcement bodies of Belarus and other Eastern European countries in the fight against drug trafficking.” But more specifically on “including new psychoactive substances on the &#8220;shadow&#8221; of cyberspace markets.” The Interior Ministry and state police governance planned the event in February 2016.</p>
     <p><img class="wp-image-20253 aligncenter" src="/imgs/2017/05/word-image-150.jpeg" srcset="/imgs/2017/05/word-image-150.jpeg 770w, /imgs/2017/05/word-image-150-300x200.jpeg 300w" sizes="(max-width: 770px) 100vw, 770px"/></p>

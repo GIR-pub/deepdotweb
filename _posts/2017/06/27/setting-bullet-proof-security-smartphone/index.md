@@ -30,7 +30,7 @@ SETTING UP A BULLET-PROOF SECURITY SMARTPHONE
     <span><a href="https://www.deepdotweb.com/2017/06/27/setting-bullet-proof-security-smartphone/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>When you have to deal with smartphones, every speech about privacy seems pointless, since the forces which attempt to do your anonymity seem too strong to be defeated. To improve your privacy, there are things you can do in the same way as on laptops and smartphones, but I will firstly cover the most important differences between the two systems. You could think that if you can secure your laptop, you can do the same with your smartphone, but there are four strong differences:</p>
     <ul>
     <li>SIM identification</li>

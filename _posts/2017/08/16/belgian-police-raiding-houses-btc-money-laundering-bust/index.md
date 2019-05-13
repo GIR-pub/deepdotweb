@@ -9,7 +9,7 @@ Belgian Police Raiding Houses in BTC Money Laundering Bust
     <span><a href="https://www.deepdotweb.com/2017/08/16/belgian-police-raiding-houses-btc-money-laundering-bust/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>Seemingly unrelated to the recent United States demanding of Greek police to arrest <a href="https://www.deepdotweb.com/2017/07/28/greek-law-enforcement-arrest-btc-e-founder-laundering-billions-bitcoin/">the alleged owner of BTC-e</a>, the Belgian judicial police raided nine locations for the same reason. Not that the U.S. asked them to conduct the raids and subsequent arrests; according to the latest published news, the Belgian judicial police suspected several men of money laundering through LocalBitcoins.</p>
     <p>Police, for the usual reasons, left the name and identifying details of the suspects shielded from the public eye. However, we learned, as of July 31, that of the nine raids, police officers ultimately arrested three suspects. Technically, the nine raids only yielded two suspects: two brothers. The searches occurred at addresses in Brussels, Jette, Sint-Jans Molenbeek, Laeken and Evere. The arrest action took place at addresses in Jette and Sint-Jans-Molenbeek.</p>

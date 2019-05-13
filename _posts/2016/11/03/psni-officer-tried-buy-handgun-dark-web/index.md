@@ -9,7 +9,7 @@ PSNI Officer Tried To Buy Handgun From The Dark Web
     <span><a href="https://www.deepdotweb.com/2016/11/03/psni-officer-tried-buy-handgun-dark-web/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Allen Kennedy, a 30-year-old officer at the PSNI (Police Service of Northern Ireland), <a href="http://www.belfastlive.co.uk/news/belfast-news/serving-psni-officer-tried-pistol-12081162">tried to buy</a> a handgun, ammunition and a silencer from the dark net, according to court documents.</p>
     <p>The PSNI officer was arrested during a sting operation in Belfast on September 5. He was arrested at Annadale Embankment in the southern part of the city after handing over £500 to receive a package. In his car, investigators found cocaine hidden inside drinks tins and WD-40 oil sprays. Court heard the man was involved in a drug dealing operation.</p>
     <p>The 30-year-old claimed he tried to purchase the handgun to commit suicide, however, detectives rejected his claims. The question stands: if Kennedy really wanted to commit suicide, why did he bought a silencer too? He is currently in detention at Strandtown Police Station in East Belfast. Bail was refused since investigators fear he may run or re-offend.</p>

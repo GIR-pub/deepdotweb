@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/11/07/7-11-17-dark-web-cybercrime-roundup/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Dream Vendor “CzechoSlovakFarm” Busted in Slovakia</strong></p>
     <p>According to an official <a href="https://www.facebook.com/policiaslovakia/posts/1748419831854898">update posted on Facebook</a> by Slovak law enforcement, police in the Trenčín Region of northwestern Slovakia had apprehended a 24-year-old darknet marijuana vendor named Juraj. The police’s statement alleged that Juraj had grown marijuana in his Northwest Trenčín family home from September 2016 until his late 2017 arrest. He had used the house as a base of operations for international marijuana distribution. The 24-year-old, known to his customers on <a href="http://www.deepdotweb.com/marketplace-directory/listing/dream-market/">the Dream and Valhalla marketplaces</a> as “CzechoSlovakFarm,” allegedly shipped from Slovakia to roughly one dozen countries including Hungary, Turkey, Bosnia, France, and Italy.</p>
     <p><img class="wp-image-23424" src="/imgs/2017/11/csf-jpeg.jpeg" alt="CSF.jpeg" srcset="/imgs/2017/11/csf-jpeg.jpeg 960w, /imgs/2017/11/csf-jpeg-300x200.jpeg 300w" sizes="(max-width: 960px) 100vw, 960px" /></p>

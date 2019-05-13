@@ -9,7 +9,7 @@ Encryption Talk at &#8216;Inside The Dark Net&#8217; Conference
     <span><a href="https://www.deepdotweb.com/2016/05/19/encryption-talk-inside-dark-net-conference/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>At the Inside Dark Web conference in New York City Thursday, an attorney who works for the U.S. Army and the CIA discussed plans to<a href="http://www.scmagazine.com/legal-effects-of-encryption-bills-discussed-at-dark-web-event/article/496158/"> regulate encryption technologies</a>.</p>
     <p>“State legislative response may be un-Constitutional, because it would place a burden on interstate commerce,” Alexander Urbelis, who works at Blackstone Law Group said. “So they may, in fact, be a way to encourage the federal government to enact encryption legislation.”</p>
     <p>California, Louisiana, and New York have all introduced some kind of encryption legislation recently.</p>

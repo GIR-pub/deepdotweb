@@ -9,7 +9,7 @@ How to use a Bitcoin Mixer: Coinmixer
     <span><a href="https://www.deepdotweb.com/2016/11/09/use-bitcoin-mixer-coinmixer-kptx/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Click here to see part 3: </strong><a href="https://www.deepdotweb.com/2016/10/31/use-bitcoin-mixer-bitblender/"><strong>BitBlender</strong></a></p>
     <p><strong>Bitcoin mixers are quite popular and they will probably continue to be so even as new privacy solutions like Monero or Zcash come along. Coin tumblers provide a great service, but they should be used carefully.</strong></p>
     <p>We want to show you how to use, not only Bitcoin mixer, but four. We want to show you how to use four mixers so you can make your own choice about which one to use. We do not advertise these mixers as being the best out there but they are certainly popular. Remember: When using a third party service, there is always a chance your funds can be stolen or lost. This goes for centralized exchanges, web wallets and coin mixers. Last time, we showed you how to use the BitBlender mixer. This time, we’ll show you how to use CoinMixer.se.</p>

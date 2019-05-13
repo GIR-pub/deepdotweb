@@ -9,7 +9,7 @@ xDedic is Back in Business on the Dark Web
     <span><a href="https://www.deepdotweb.com/2016/07/19/xdedic-back-business-dark-web/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>xDedic, the <a href="https://xdedic.biz/">underground market</a> offering access to thousands of government, business, and university servers that have been hacked was exposed earlier this year, and has once again resurfaced, this time with a new onion address (xdedicvhnguh5s6k.onion)</p>
     <p>The market, revealed in June 2016 Kaspersky Lab report, is in the business of selling access to around <a href="https://www.deepdotweb.com/2016/06/22/70000-government-corporate-servers-sale-cheap-6-hacker-marketplace/">70,000 compromised web servers from over 150 countries</a> around the world. Shortly after the website was brought to light, owners and administrators shut it down.</p>
     <p><a href="/imgs/2016/07/xDedic.png"><img class="aligncenter size-full wp-image-14834" src="/imgs/2016/07/xDedic.png" alt="xDedic" width="660" height="330" srcset="/imgs/2016/07/xDedic.png 660w, /imgs/2016/07/xDedic-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></a></p>

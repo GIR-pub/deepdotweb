@@ -9,7 +9,7 @@ Probation Sentence Imposed On German For Commercial Trafficking Of Amphetamine
     <span><a href="https://www.deepdotweb.com/2017/04/28/probation-sentence-imposed-german-commercial-trafficking-amphetamine/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Sigmaringen District Court <a href="http://www.suedkurier.de/region/linzgau-zollern-alb/pfullendorf/Drogenbeschaffung-ueber-das-Dark-Net;art372570,9213907">sentenced</a> a German citizen to probation for ordering <a href="https://www.deepdotweb.com/2017/04/03/man-sentenced-probation-100g-amphetamine-order/">amphetamine</a> from the darknet in large quantities and selling them to customers for a profit.</p>
     <p><img class="wp-image-19459 aligncenter" src="/imgs/2017/04/lesspgreater-you-can-buy-a-lot-in-darknet-for-example-we.jpeg" alt="&lt;P&gt; You can buy a lot in Darknet - for example, weapons and drugs.  &lt;Em&gt; Image: &lt;/ em&gt; Fotolia &lt;/ p&gt;" srcset="/imgs/2017/04/lesspgreater-you-can-buy-a-lot-in-darknet-for-example-we.jpeg 502w, /imgs/2017/04/lesspgreater-you-can-buy-a-lot-in-darknet-for-example-we-300x287.jpeg 300w" sizes="(max-width: 502px) 100vw, 502px" /></p>
     <p>According to the court documents, two trials were held by the jury and four witnesses had been heard in the case of the 39-year-old accused from Pfullendorf, Germany. The defendant was accused of the commercial trafficking of narcotics in three cases.</p>

@@ -9,7 +9,7 @@ Swiss Convict Who Escaped From Custody Confessed
     <span><a href="https://www.deepdotweb.com/2017/05/24/swiss-convict-who-escaped-from-custody-confessed/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Tobias Kuster, a Swiss convict serving his prison time, escaped from custody last year. While he was on the run, he allegedly murdered a man and attempted to order a gun from the dark web. He was arrested in January. Recently, the convict <a href="http://www.blick.ch/news/schweiz/zuerich/150-millionen-erpresser-im-knast-verhaftet-was-hat-er-mit-tobias-kuster-zu-tun-wende-im-seefeld-mord-id6657771.html">confessed and new information was revealed</a> in the investigation.</p>
     <p><img class="wp-image-20100 aligncenter" src="/imgs/2017/05/word-image-112.jpeg" srcset="/imgs/2017/05/word-image-112.jpeg 472w, /imgs/2017/05/word-image-112-217x300.jpeg 217w" sizes="(max-width: 472px) 100vw, 472px" /></p>
     <p>The 23-year-old Tobias Kuster, currently serving five and half years in prison for violent crimes, did not return to the Pöschwies Prison Office from an unaccompanied parole on June 23, 2016. The suspect was on the run for seven months until law enforcement authorities arrested him when he tried to purchase a weapon from the dark web. On June 30, 2016 “MS”, a 42-year-old IT specialist, was stabbed. The police suspect that Kuster was behind the <a href="https://www.deepdotweb.com/2017/05/08/police-officer-suspected-double-murder-remains-custody-luxemburg/">murder</a>.</p>

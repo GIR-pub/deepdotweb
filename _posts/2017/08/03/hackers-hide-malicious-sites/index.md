@@ -10,7 +10,7 @@ tag-hackers tag-hide tag-malicious tag-sites">
     <span><a href="https://www.deepdotweb.com/2017/08/03/hackers-hide-malicious-sites/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>Since 2006, security researchers have been watching a new technique used in cybercrime to hide malicious traffic behind an intricate network of proxies. This technique called fast-flux, was initially used by few people but lead to thousands of personal computers infected and criminal content like <a href="https://www.deepdotweb.com/2017/07/13/man-admits-phishing-365k-btc-darknet/">phishing</a> sites and <a href="https://www.deepdotweb.com/2017/05/13/new-osx-malware-uses-tor-mitm-proxy/">malwares</a> successfully delivered to innocent users. Fast-flux networks are today the key to develop online criminal activities.</p>
     <h2>HOW DOES IT WORK ?</h2>

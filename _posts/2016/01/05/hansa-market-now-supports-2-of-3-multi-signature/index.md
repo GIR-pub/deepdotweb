@@ -9,7 +9,7 @@ HANSA Market now supports 2-of-3 multi-signature
     <span><a href="https://www.deepdotweb.com/2016/01/05/hansa-market-now-supports-2-of-3-multi-signature/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Good news for <a href="https://www.deepdotweb.com/marketplace-directory/listing/hansa-market/">HANSA market </a>users, the market now supports 2-of-3 multi-signature transactions and not only 2-of-2 multi-signature transactions, the official announcement made by the admins:<br/>
     
     <div id="crayon-5822fe5be43e9798401276" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">

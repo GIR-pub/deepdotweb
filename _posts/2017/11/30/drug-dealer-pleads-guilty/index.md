@@ -9,7 +9,7 @@ Drug Dealer Pleads Guilty to Bulk Buying Cannabis off The Dark Web.
     <span><a href="https://www.deepdotweb.com/2017/11/30/drug-dealer-pleads-guilty/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Postal service providers play a big role in the dark web drug trade; they facilitate delivery of drug packages unknowingly. Dependence on postal services to deliver packages has proven to be a big challenge to dark web drug trade, as postal inspectors have been intercepting mailed packages leading to arrests and subsequent prosecution of alleged package owners.</p>
     <p>Jesse McMahon, 25, who has been in custody since June is an interception victim of packages delivered through the mail. He was arrested after the police intercepted a 2kg cannabis parcel on its way to his unit. A sting operation the next day saw the police seize $9,000 in cash, the bags of cannabis, more loose cannabis and even knuckledusters. He told the police he had planned to sell the cannabis by the ounce and half ounce, and would likely have made $30,000.</p>
     <p>McMahon pleaded guilty to a string of drug and weapon charges, making him the latest in a growing number of drug dealers in court. He was busted by the police buying drugs online using Bitcoins.</p>

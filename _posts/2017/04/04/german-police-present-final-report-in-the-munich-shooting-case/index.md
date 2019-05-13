@@ -9,7 +9,7 @@ German Police Present Final Report In The Münich Shooting Case
     <span><a href="https://www.deepdotweb.com/2017/04/04/german-police-present-final-report-in-the-munich-shooting-case/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On July 22, 2016, a gunman, who had been later identified as the 18-year-old Ali David Sonboly, killed nine people and himself injuring 36 others in the vicinity of the Olympia shopping mall (OEZ) in the Moosach district of Münich. The shooting took place at a McDonald’s restaurant near the shopping mall, and in the OEZ itself. According to witness reports, the 18-year-old was heard shouting &#8220;I am German&#8221; (Ich bin Deutscher) and &#8220;I was born here&#8221; (Ich bin hier geboren) after an onlooker shouted anti-Turkish statements and other abuse at him.</p>
     <p><img class="wp-image-19001 aligncenter" src="/imgs/2017/04/ali-david-s-launched-a-bloodbath-at-the-oez-in-ju.jpeg" alt="Ali David S. launched a bloodbath at the OEZ in July 2016."/></p>
     <p>Recently, the local State Criminal Police Office (LKA) presented its <a href="http://www.abendzeitung-muenchen.de/inhalt.motiv-war-mobbing-oez-amoklauf-lka-und-polizei-stellen-abschlussbericht-vor.647639b5-206f-42a4-a406-4a7f7009eae2.html">final report</a> in the case. According to the agency, the motive of the shooter was bullying.</p>

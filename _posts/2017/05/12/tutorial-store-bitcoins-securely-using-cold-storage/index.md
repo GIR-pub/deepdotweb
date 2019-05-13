@@ -9,7 +9,7 @@ Tutorial &#8211; How To Store Your Bitcoins Securely Using Cold Storage
     <span><a href="https://www.deepdotweb.com/2017/05/12/tutorial-store-bitcoins-securely-using-cold-storage/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Tutorial &#8211; How To Store Your Bitcoins Securely Using Cold Storage</strong></p>
     <p><strong>By Tamer Sameeh</strong></p>
     <p>Cold storage is the process of storing your bitcoins offline. This represents the most secure way to store your bitcoins, especially when large number of coins are considered. There are multiple methods for cold storage:</p>

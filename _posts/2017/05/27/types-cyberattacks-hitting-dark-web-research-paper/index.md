@@ -9,7 +9,7 @@ Types of Cyberattacks Hitting the Dark Web &#8211; A Research Paper
     <span><a href="https://www.deepdotweb.com/2017/05/27/types-cyberattacks-hitting-dark-web-research-paper/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The dark web represents parts of the internet that only exist on darknets and overlay networks. Special software, such as the Tor browser, and network configurations are required to access various parts of the dark web. Darknets are forms of peer-to-peer (P2P) networks that are operated by individuals as well as public organizations. Tor, I2P and Freenet are the most prominent examples of darknets that exist today. Since the emergence of the dark web, the research community has been only focusing on analyzing the size and features of the dark web, along <a href="https://www.deepdotweb.com/2017/05/12/italy-watched-italian-darknet-community-since-2016/">with the goods and services offered on its various marketplaces</a>. Nevertheless, very little is known about the nature and forms of attacks that take place on the dark web.</p>
     <p>When websites of the surface web are considered, today professionals understand exactly how website vulnerabilities are exploited, in addition to the pivotal role played by botnets and Google Dorks to create a form of &#8220;background attack noise&#8221; to heighten the efficacy of attacks launched on websites on the surface web.</p>
     <p><img class="wp-image-20185 aligncenter" src="/imgs/2017/05/word-image-136.jpeg" srcset="/imgs/2017/05/word-image-136.jpeg 620w, /imgs/2017/05/word-image-136-300x202.jpeg 300w, /imgs/2017/05/word-image-136-290x195.jpeg 290w" sizes="(max-width: 620px) 100vw, 620px"/></p>

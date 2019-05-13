@@ -9,7 +9,7 @@ Law Enforcement Busted Two Slovenian Darknet Vendors for Selling Firearms and Gr
     <span><a href="https://www.deepdotweb.com/2016/12/30/law-enforcement-busted-two-slovenian-darknet-vendors-selling-firearms-grenades/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Europol and the Ljubljana Police Directorate (Policijska uprava Ljubljana or LPD) <a href="https://www.europol.europa.eu/newsroom/news/darknet-arms-vendor-arrested-in-slovenia-support-of-europol">recently announced the arrest of two darknet weapons vendors</a>. Europol&#8217;s Focal Point Firearms unit aided the LPD in identifying two Slovenian nationals suspected of distributing automatic weapons via the darknet. The two, until their December 13 arrest also sold grenades, ammunition, knives, and handguns. They received 11 counts of illicit manufacturing and trafficking of weapons or explosives.</p>
     <p>The LPD announced that “<a href="http://policija.si/index.php/policijske-uprave/pu-ljubljana/index.php?option=com_content&amp;view=article&amp;id=86569&amp;Itemid=244">by performing classical and covert investigative measures</a>,” they found two men in Ljubljana—both selling on the darknet. The first, a 39-year-old Slovenian citizen, appeared on the police’s radar first; law enforcement discovered a darknet weapons vendor who shipped from Slovenia. After they had begun investigating the 39-year-old, they found an accomplice; a 33-year-old Slovenian citizen became part of the investigation.</p>
     <p><img class="wp-image-17234 aligncenter" src="/imgs/2016/12/word-image-32.jpeg" srcset="/imgs/2016/12/word-image-32.jpeg 800w, /imgs/2016/12/word-image-32-300x200.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /><br />

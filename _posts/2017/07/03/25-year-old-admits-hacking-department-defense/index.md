@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/07/03/25-year-old-admits-hacking-department-defense/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On June 15, the UK’s <a href="http://www.nationalcrimeagency.gov.uk/news/1111-hacker-stole-satellite-data-from-us-department-of-defense">National Crime Agency announced</a> that a 25-year-old hacker pleaded guilty to hacking the United States Department of Defense. He hacked a DoD satellite communication system in June 2014 and upload evidence two months later. Working with the FBI and DoD, the NCA arrested the hacker, Sean Caffrey, in March 2015.</p>
     <p><img class="wp-image-21058 aligncenter" src="/imgs/2017/07/word-image-5.jpeg" width="607" height="273" srcset="/imgs/2017/07/word-image-5.jpeg 800w, /imgs/2017/07/word-image-5-300x135.jpeg 300w" sizes="(max-width: 607px) 100vw, 607px" /></p>
     <p>At Birmingham Crown Court, Caffrey pleaded guilty to violating a law under the Computer Misuse Act. He “accessed and stole the ranks, usernames and email addresses of more than 800 users of a satellite communication system,” the <a href="https://www.deepdotweb.com/tag/nca">NCA’s</a> statement explained. He also stole information from or of 34,000 satellite phones.</p>

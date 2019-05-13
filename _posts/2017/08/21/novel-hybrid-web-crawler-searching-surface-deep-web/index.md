@@ -18,7 +18,7 @@ tag-crawler tag-deep tag-hybrid tag-searching tag-surface tag-web">
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>&nbsp;</p>
     <p>The spread of terrorism over the globe has led to an increase in the efforts of law enforcement agencies (LEAs) along the rough path of discovering information related to terrorist activities via taking advantage of <a href="https://www.deepdotweb.com/2017/02/01/new-concept-deep-web-crawlers/">the most recent innovations in the web search sector</a>. Their efforts have been centered upon the &#8220;surface web&#8221; which represents parts of the internet that can be indexed by traditional search engines e.g. Google, Bing, Yahoo! and Duckduckgo. Nevertheless, these search engines are only capable of indexing just a small percentage of the pages available on the world wide web. The remainder represents non-indexable content that is part of the so called &#8220;deep web&#8221;, which generally includes web pages that cannot be accessed by web crawlers, or spiders, that are utilized by traditional search engines, due to a myriad of limitations (such as dynamic pages generated in response to specific queries, as well as private content that requires private access).</p>

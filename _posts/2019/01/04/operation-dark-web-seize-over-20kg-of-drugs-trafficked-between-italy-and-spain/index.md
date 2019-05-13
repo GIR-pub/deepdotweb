@@ -9,7 +9,7 @@ Operation ‘Dark Web’ Seize over 20kg of Drugs Trafficked between Italy and S
     <span><a href="https://www.deepdotweb.com/2019/01/04/operation-dark-web-seize-over-20kg-of-drugs-trafficked-between-italy-and-spain/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The <a href="https://www.ladigetto.it/interno/Cronaca/82664-operazione-">police have arrested six men</a> in Tranto for their involvement in dark web drug trafficking between Italy and Spain. The suspects are said to have purchased large quantities of marijuana and narcotics off the dark web and to have had them shipped after paying with bitcoin.</p>
     <p>The six suspects, five Italians and one Spanish, were arrested in Trento by the Mobile Squad in a joint police operation with special agents from the Directorate of Criminal Investigation, the Mobile Squad, the customs and border officials, the Intelligence Service, and the Flying Squad.</p>
     <p>The investigation was launched after a massive drug seizure at the German airport in Frankfurt on 8 August 2017, which brought about a debate on the state of security at the airport. An envelope containing about 20 grams of cocaine, which had been <a href="https://www.deepdotweb.com/2018/12/16/a-german-faces-trial-for-drugs-ordered-on-dream-market-a-dark-web-marketplace/">procured online on a dark web marketplace</a> and destined for an Italian citizen, was seized at the airport.</p>

@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/05/22/22-5-17-dark-web-cybercrime-roundup/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>22.5.17 Dark Web and Cybercrime Roundup:</p>
     <p>“<strong>US Darknet Drug Traffickers Arrested After Overdose Of A Teen</strong>”</p>
     <p>The overdose of an 18-year-woman on the US West Coast led to the arrest of a well-known Alphabay vendor on the East Coast, PeterTheGreat. Law enforcement caught the duo behind the vendor account within a few months—an accomplishment authorities used to express the effectiveness of their “high intensity” drug trafficking taskforce. The taskforce combines state and federal law enforcement and resources to enhance the reach of investigators that need to cross state lines. <a href="https://www.deepdotweb.com/2017/05/16/victim-rescued-brazils-first-bitcoin-ransom-kidnapping-plot/">DeepDotWeb</a></p>

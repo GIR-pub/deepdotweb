@@ -9,7 +9,7 @@ Here’s some tips for using Signal as safely as possible
     <span><a href="https://www.deepdotweb.com/2016/07/07/heres-tips-using-signal-safely-possible/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A few weeks ago, we <a href="https://www.deepdotweb.com/2016/06/22/brief-comparison-secure-messaging-apps/">wrote</a> about how Signal was one of the better encrypted messaging applications for mobile devices. In the article, it was mentioned that no matter how secure you think your platform is – there’s always a weak link. More often than not, user error plays a major key in how weak that link is. An article was published by <a href="https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/">The Intercept</a>_ yesterday that points out a few extra steps one can take to further protect themselves while using Signal. I’ll run through their list briefly. This list is fairly straightforward, and if you’re not a newcomer to operation security or the ins-and-outs of Signal, this write-up probably won’t provide too much insight.</p>
     <p><a href="/imgs/2016/07/signal1.jpg"><img class="aligncenter size-full wp-image-14752" src="/imgs/2016/07/signal1.jpg" alt="signal1" width="540" height="334" srcset="/imgs/2016/07/signal1.jpg 540w, /imgs/2016/07/signal1-300x186.jpg 300w" sizes="(max-width: 540px) 100vw, 540px" /></a></p>
     <p><strong>If you’re on Android: </strong></p>

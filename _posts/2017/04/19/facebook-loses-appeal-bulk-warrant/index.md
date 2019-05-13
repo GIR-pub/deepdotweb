@@ -9,7 +9,7 @@ Facebook Loses Appeal Against Bulk Warrant
     <span><a href="https://www.deepdotweb.com/2017/04/19/facebook-loses-appeal-bulk-warrant/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On Tuesday, April 4, a New York state court denied Facebook&#8217;s objection to a slew of search warrants that demanded access to 381 user accounts. Facebook argued that the warrants—all issued by the News York State Attorney&#8217;s Office—violated a person&#8217;s right to privacy, including privacy rights outlined in the Constitution. As with the warrant obtained in the playpen case, Facebook argued that the warrant went too far. It exceeded justifiable limitations, Facebook and their supporters explained.</p>
     <p><img class="wp-image-19276 aligncenter" src="/imgs/2017/04/word-image-66.png" srcset="/imgs/2017/04/word-image-66.png 777w, /imgs/2017/04/word-image-66-300x165.png 300w" sizes="(max-width: 777px) 100vw, 777px" /></p>
     <p>The News York State Attorney&#8217;s Office issued the warrants in 2013 after authorities concluded that many users committed social security fraud at as widespread&#8221; level. Facebook&#8217;s appeal raised support from companies throughout the sector. The Electronic Frontier Foundation, Apple, Google, Microsoft and Twitter all backed Facebook&#8217;s appeal. Incidentally, some of these companies recently fought legal battles of their own—often against the FBI or similar federal agency.</p>

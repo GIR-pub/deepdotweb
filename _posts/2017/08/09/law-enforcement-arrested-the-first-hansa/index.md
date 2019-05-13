@@ -10,7 +10,7 @@ Law Enforcement Arrested The First Hansa Users In The Netherlands
     <span><a href="https://www.deepdotweb.com/2017/08/09/law-enforcement-arrested-the-first-hansa/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Dutch Public Prosecutor’s Office <a href="https://www.nrc.nl/nieuws/2017/07/23/overdag-een-9-tot-5-baans-nachts-drugsdealer-12211437-a1567679">announced</a> the first arrests conducted by law enforcement in the country regarding the takedown of the Hansa Market.</p>
     <p>According to the Public Prosecutor’s Office in the Netherlands, law enforcement authorities arrested one of the top sellers in the country. The 28-year-old man of Krimpen aan den Ijssel, the Netherlands allegedly sold large quantities of cannabis both domestically and internationally for many years under the pseudonym of &#8220;Quality Weeds&#8221;. In his home and cellar box, mail packages and &#8220;a considerable amount of money&#8221; were found by investigators. In addition to the arrest of the alleged dark web vendor, law enforcement authorities detained three 17-year-old boys in Gelderland for the suspicion of drug sales.</p>
     <p>However, this is only the beginning. The Dutch Public Prosecutor’s Office expects more arrests. More arrests will occur because of a global law enforcement action, in which authorities managed to take down Hansa, the most popular marketplace after AlphaBay went offline All communications between buyers and sellers were recorded without the knowledge of both the buyers and the sellers on Hansa. In the past, law enforcement authorities managed to shut down darknet marketplaces, however, they were not able to actively monitor the illegal activities from the inside.</p>

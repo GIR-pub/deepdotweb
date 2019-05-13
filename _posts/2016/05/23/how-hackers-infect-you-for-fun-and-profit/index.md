@@ -9,7 +9,7 @@ How Hackers Infect You For Fun and Profit?
     <span><a href="https://www.deepdotweb.com/2016/05/23/how-hackers-infect-you-for-fun-and-profit/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Every internet user has to have been affected by malware at some point in their life.  This is not a surprise, as computer viruses seem to be nearly more infectious than real, biological pathogens!</p>
     <p><a href="http://www.pandasecurity.com/mediacenter/src/uploads/2016/05/Pandalabs-2016-T1-EN-LR.pdf">According to PandaLabs</a>, they have neutralized over 20 million malware threats in the first quarter of 2016 alone (That’s 27,000 samples a day!)  Despite the security firms working around the clock to fight malware, there are still catastrophic amounts of newly created malware distributed daily.  Black hat hackers and programmers spend precious time creating state of the art malware and techniques for distributing their payloads for a variety of reasons, the most common being the desire to make large sums of money over the internet.  There are plenty of ways hackers manage to get rich by spreading viruses, but first of all, how does malware manage to make it onto victim computers?</p>
     <p><a href="/imgs/2016/05/virus.png"><img class="aligncenter size-full wp-image-14165" src="/imgs/2016/05/virus.png" alt="virus" width="1176" height="555" srcset="/imgs/2016/05/virus.png 1176w, /imgs/2016/05/virus-300x142.png 300w, /imgs/2016/05/virus-1024x483.png 1024w" sizes="(max-width: 1176px) 100vw, 1176px" /></a></p>

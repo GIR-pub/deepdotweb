@@ -10,7 +10,7 @@ Advanced ATM Skimming Tools Circulate Dark Web, Severe Security Issues
     <span><a href="https://www.deepdotweb.com/2017/09/30/advanced-atm-skimming-tools-circulate-dark-web-severe-security-issues/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Advanced ATM skimming tools are circulating the dark web and banks are struggling to implement necessary security measures to prevent loss of funds and theft of debit card information.<img class="wp-image-22855 aligncenter" src="/imgs/2017/09/rsz_atm-1524870_960_720-jpg.jpeg" alt="rsz_atm-1524870_960_720.jpg" /></p>
     <p>Over the past decade, ATM skimming has remained a popular method of data theft internationally. In most cases, hackers replace ATM card scanners with their customized hardware that has identical physical characteristics with ATM card scanners. Because the outer framework is so similar to the real hardware, bank users and debit card users usually cannot differentiate one from the other.</p>
     <p>However, as banks began to implement security precautions by advising debit card holders and users to switch from mag stripe to EMV cards, and by offering tips on differentiating malware to legitimate ATM scanners, traditional ATM skimming methods have become outdated and unusable.</p>

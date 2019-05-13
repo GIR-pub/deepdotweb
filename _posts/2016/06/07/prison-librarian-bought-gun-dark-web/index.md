@@ -9,7 +9,7 @@ Prison Librarian Bought Gun On Dark Web
     <span><a href="https://www.deepdotweb.com/2016/06/07/prison-librarian-bought-gun-dark-web/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Dwain Osborne (26), a prison librarian at HMP Brixton, <a href="http://www.standard.co.uk/news/crime/drugdealing-prison-librarian-bought-gun-on-the-dark-web-a3259961.html">ordered a Glock 19 handgun and 100 rounds of ammunition</a> to it from a dark web marketplace and he wanted the gun delivered to his home address in Penge, which Osborne also used as the center of his drug dealing operation.</p>
     <p>The dealer who was selling the gun to Osborne was a US agent who notified the National Crime Agency (NCA), who then raided the man’s home in October. The prison librarian was released then on bail, however, police officers at the second raid on his home in February this year found 10 wraps of cocaine weighing 3.75g, a further amount of 13.8g cocaine, scales, and £735 in cash.</p>
     <p>Prosecutor Tom Forster said Osborne stated that his drugs were for personal use, however, his browsing history contained searches including “how to buy a kilo of cocaine in Peru”:</p>

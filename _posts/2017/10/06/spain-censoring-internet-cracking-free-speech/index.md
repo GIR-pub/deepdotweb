@@ -18,7 +18,7 @@ Spain Censoring the Internet, Cracking Down on Free Speech
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The government of <a href="https://www.deepdotweb.com/tag/spain/">Spain</a> has begun to crack down on freedom of speech and expression online. The crackdown stems from a referendum to be voted on in October where the people of Catalonia will determine if they want Catalonia to become an independent republic and separate from Spain.</p>
     <p>Days after a Spanish court ordered all domains associated with the Catalan independence referendum to be taken offline, the Barcelona headquarters of Fundació puntCAT, the <a href="https://www.internetnews.me/2017/09/20/dotcat-registry-offices-raided-spanish-police/">.cat domain registrar, was raided</a> by the Civil Guard. The Spanish <a href="https://en.wikipedia.org/wiki/Civil_Guard_(Spain)">Civil Guard</a> is a military force with police powers, and they function as a national police organization. Fundació puntCAT is a private non-profit which is a Top-Level Domain (TLD) operator which provides the Catalan speaking community with .cat domain names. Fundació puntCAT is the registrar for over 112,000 domains. The Spanish court has essentially called on Fundació puntCAT to monitor the content of all of the websites which use their services for any mentions of the Catalonia independence referendum. All of Fundació puntCAT’s servers were seized during the raid.</p>

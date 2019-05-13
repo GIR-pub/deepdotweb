@@ -9,7 +9,7 @@ FBI Warns That Hackers Target Open FTP Servers
     <span><a href="https://www.deepdotweb.com/2017/04/12/fbi-warns-hackers-target-open-ftp-servers/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In a Private Industry Notification, the Federal Bureau of Investigation revealed they knew of threat actors who targeted specific healthcare facilities. The FBI explained that these “hackers” <a href="https://www.scribd.com/document/343248057/FBI-PHI-FTP">hunted open FTP connections from medical and dental practices</a> across the United States. From there, the intruders stole sensitive medical information and use it for extortion, identity theft, or simply a darknet marketplace listing.</p>
     <p>According the FBI, the hackers take advantage of the anonymous FTP servers for &#8220;the purposes of intimidating, harassing, and blackmailing business owners.&#8221; At DeepDotWeb, we mainly cover <a href="https://www.deepdotweb.com/2017/03/30/76-healthcare-organizations-hacked-info-sold-darknet/">hacked healthcare records that Iand on the darknet</a>. TheDarkOverlord is one of the most well-known examples of hackers who hacked healthcare practices for the purpose of extortion.</p>
     <p><img class="wp-image-19146 aligncenter" src="/imgs/2017/04/word-image-39.png" srcset="/imgs/2017/04/word-image-39.png 1070w, /imgs/2017/04/word-image-39-300x110.png 300w, /imgs/2017/04/word-image-39-1024x374.png 1024w" sizes="(max-width: 1070px) 100vw, 1070px" /></p>

@@ -17,7 +17,7 @@ Five Years in Prison for Cannabinoid Analogue Supplier
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>C. Aliens</p>
     <p>Five Years in Prison for Cannabinoid Analogue Supplier</p>

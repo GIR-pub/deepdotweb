@@ -9,7 +9,7 @@ Senate Bill To Backdoor US Encryption
     <span><a href="https://www.deepdotweb.com/2016/04/15/senate-bill-backdoor-us-encryption/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The “Compliance with Court Orders Act of 2016”, from Committee Chairman Richard Burr and Dianne Feinstein, aims to effectively backdoor encryption in the United States according to a draft of the bill.</p>
     <p>The bill, which has yet to be introduced, states that “A covered entity that receives a court order from a government for information or data shall – provide such information or data to such government in an intelligible format; or provide technical assistance as is necessary to obtain such information or data in an intelligible format or to achieve the purpose of the court order.”</p>
     <p>It defines “intelligible” as data that&#8217;s either never been encrypted or data that was encrypted and then decrypted.</p>

@@ -9,7 +9,7 @@ DOJ Assistant Attorney: US Government Realized They Can’t Shut Down Bitcoin
     <span><a href="https://www.deepdotweb.com/2016/11/12/doj-assistant-attorney-us-government-realized-cant-shut-bitcoin/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Kathryn Haun, Assistant Attorney for the US Department of Justice in San Francisco, admitted in an interview that cryptocurrency <a href="https://www.cryptocoinsnews.com/govt-realized-bitcoin-not-shut-says-u-s-federal-prosecutor/">bitcoin could not be shut down</a>.</p>
     <p>Haun is also a lecturer on digital currencies at Stanford Law School, and responsible for prosecuting her own corrupt colleagues <a href="https://www.deepdotweb.com/2015/10/23/corrupt-dea-agent-carl-force-gets-6-years-in-prison-for-extorting-bitcoins/">Carl Mark Force</a> and <a href="https://www.deepdotweb.com/2016/02/06/corrupt-silk-road-secret-service-agent-arrested-again/">Shaun Bridges</a> during the <a href="https://www.deepdotweb.com/2015/05/30/silk-road-admin-ross-ulbricht-dpr-sentenced-to-life-in-prison/">Silk Road case</a>. She admitted that in 2013, the US Government did not shut down the cryptocurrency since they “recognized you can’t shut down bitcoin.”</p>
     <p>“There is simply no way,” – Haun said. “With these technologies, once the genie is out of the bottle you can’t put it back in…but even if we could hold the developers of these technologies accountable.” She also added that shutting down bitcoin would “counter to the legal system.”</p>

@@ -9,7 +9,7 @@ Three Young Suspects Bought Kilos Of Drugs From The Dark Web
     <span><a href="https://www.deepdotweb.com/2017/04/15/three-young-suspects-bought-kilos-drugs-dark-web/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>German investigators <a href="http://www.abendzeitung-muenchen.de/inhalt.drei-verdaechtige-in-u-haft-jugendbande-verkauft-kiloweise-drogen-im-darknet.a47721f3-a1e4-41c3-9cba-95fc9dfcea83.html">arrested</a> three young persons for ordering large amounts of narcotics from the darknet and selling them to local customers.</p>
     <p><img class="wp-image-19201 aligncenter" src="/imgs/2017/04/rund-12-kilo-marihuana-und-einige-ecstasy-tablette.jpeg" alt="Rund 12 Kilo Marihuana und einige Ecstasy-Tabletten verkaufte die Bande im Darknet. Foto: Zollfahndungsamt" width="660" height="371" srcset="/imgs/2017/04/rund-12-kilo-marihuana-und-einige-ecstasy-tablette.jpeg 1024w, /imgs/2017/04/rund-12-kilo-marihuana-und-einige-ecstasy-tablette-300x169.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>Three young people, between the ages of 16 and 19, are under investigation, the Customs Office in Münich reported on Wednesday. According to police information, since September 2016, the criminal group allegedly ordered at least 12 kilograms of <a href="https://www.deepdotweb.com/tag/marijuana/">marijuana</a> and 400 pieces of ecstasy tablets. Officials added that the suspects allegedly smuggled the narcotics inside Germany, meaning that they bought the substances from abroad vendors, possibly residing in the Netherlands or in Belgium.</p>

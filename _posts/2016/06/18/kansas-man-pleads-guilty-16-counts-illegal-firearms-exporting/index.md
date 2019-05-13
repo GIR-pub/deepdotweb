@@ -9,7 +9,7 @@ Kansas Man Pleads Guilty to 16 Counts of Illegal Firearms Exporting
     <span><a href="https://www.deepdotweb.com/2016/06/18/kansas-man-pleads-guilty-16-counts-illegal-firearms-exporting/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Michael Andrew Ryan, of Manhattan, Kansas plead guilty to six counts of attempting to export firearms illegally from the United States to individuals across the globe, as it was announced by Assistant Attorney General Leslie R. Caldwell and Acting U.S. Attorney Tom Beall.</p>
     <p>Ryan, who is 35 will have his <a href="https://www.justice.gov/opa/pr/kansas-man-pleads-guilty-exporting-firearms-overseas-purchasers">sentencing set on Sept. 12<sup>th</sup>, 2016</a>.</p>
     <p>“With a computer and an internet connection, Ryan hosted an international arms trafficking business on the dark web, peddling firearms and ammunition throughout the world. Criminals of all stripes take advantage of technological advances to further their crimes and attempt to avoid identification and arrest. In this case, thanks to the hard work of the prosecutors and law enforcement officers involved, we were able to shut down dangerous criminal activity and secure the defendant’s conviction, but we must remain vigilant to ensure that law enforcement retains the necessary capabilities to keep up with criminals,” Caldwell stated.</p>

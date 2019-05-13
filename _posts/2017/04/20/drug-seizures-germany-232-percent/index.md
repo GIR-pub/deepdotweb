@@ -9,7 +9,7 @@ Drug Seizures in Germany Up 232 Percent
     <span><a href="https://www.deepdotweb.com/2017/04/20/drug-seizures-germany-232-percent/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Frankfurt Airport Customs Office, more often than not, is at the center of many <a href="https://www.deepdotweb.com/2016/11/24/frankfurt-customs-bust-leads-even-bigger-trouble-five-austrian-residents/">deep web drug crimes in Germany</a>. This is with good reason; the customs office serves as a major hub for both people and mail. And not only a hub for those in the region, the Frankfurt Airport Customs Office connects one part of the world with another part, via mail.. Not exclusively; but deep web arrests would be far less common without the customs office.</p>
     <p>According to the <em>Daily Sabah</em>, a Frankfurt customs official announced a <a href="https://www.dailysabah.com/europe/2017/04/05/drug-trafficking-by-mail-in-germany-surges-by-232-pct">232 percent increase in drug seizures</a> by customs offices throughout Germany. While specific time frames were non-existent, the customs office said that they saw a 232 percent increase in &#8220;the trafficking of drugs via the post last year.”</p>
     <p><img class="wp-image-19292 aligncenter" src="/imgs/2017/04/word-image-27.jpeg" srcset="/imgs/2017/04/word-image-27.jpeg 610w, /imgs/2017/04/word-image-27-300x169.jpeg 300w" sizes="(max-width: 610px) 100vw, 610px" /></p>

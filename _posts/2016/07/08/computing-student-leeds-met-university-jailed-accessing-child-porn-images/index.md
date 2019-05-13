@@ -9,7 +9,7 @@ Computing Student At Leeds Met University Jailed For Accessing Child Porn Images
     <span><a href="https://www.deepdotweb.com/2016/07/08/computing-student-leeds-met-university-jailed-accessing-child-porn-images/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Macan Sahota (24), a student studying computer studies and ethical hacking at the Leeds Met University, was <a href="http://www.yorkshireeveningpost.co.uk/news/leeds-computing-student-jailed-over-vile-images-accessed-from-dark-web-1-7991107">jailed for 16 months</a> for downloading 386 “still and moving” child pornography images from the dark web. The content featured babies being sexually abused and pictures showing children and animals.</p>
     <p>According to Jonathan Sharp from prosecution, the law enforcement authorities discovered Sahota’s illicit activities and executed a search warrant on his Leeds home address in March 2015.</p>
     <p>Leeds Crown Court heard that Sahota not just downloaded the images for “personal use”, but he also distributed them to other people. He pleaded guilty to two offenses of possession of indecent images of children, two of possession of extreme pornographic images, one of distributing indecent images of children and one of publishing obscene images. Mohammed Zawa, in the student’s defense, said that Sahota had stopped accessing the material by the time police detected his offending as “he was ashamed of what he had been doing.”</p>

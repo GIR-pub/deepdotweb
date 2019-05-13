@@ -9,7 +9,7 @@ Bitcoin Price analysis April 13 2017
     <span><a href="https://www.deepdotweb.com/2017/04/13/bitcoin-price-analysis-april-13-2017/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The price of Bitcoin has been trending up the last 3 weeks, making consistent zig zag pattern from $891 to a high of $1229. What looks like a renewed bull trend has given life to bullish hopes. From the traders’ forums, to twitter forecasts and price analysis &#8211; almost everyone seems to be bullish. Some analysts are predicting lofty highs of $1500 if the current trend continues. Despite the ongoing deadlock on how to upgrade the Bitcoin protocol, it seems, at first glance, the market is intent on at least retesting the all time high at $1350 on Western exchanges. Are we on the precipice of <em>“the next great bitcoin bubble?” </em></p>
     <p><img class="wp-image-19238 aligncenter" src="/imgs/2017/04/gold-bitcoin-agains-png.png" alt="Gold bitcoin agains.png" width="1022" height="515" srcset="/imgs/2017/04/gold-bitcoin-agains-png.png 1600w, /imgs/2017/04/gold-bitcoin-agains-png-300x151.png 300w, /imgs/2017/04/gold-bitcoin-agains-png-1024x516.png 1024w" sizes="(max-width: 1022px) 100vw, 1022px" /></p>
     <p>The chart above plots both the price of XAU/USD Gold and XBT/USD Bitcoin. Price is flirting with gold parity, the second attempt in a month after breaking past the price of Gold back on March 3rd 2017. Last time, the excitement of a possible Bitcoin Trust ETF approval by the SEC stirred higher prices, hours before release of the official decision. The breach only lasted for hours, before the reality of the NO decision settled in. Price began a drop down.</p>

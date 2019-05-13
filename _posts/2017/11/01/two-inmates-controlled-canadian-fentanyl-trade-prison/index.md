@@ -17,7 +17,7 @@ Two Inmates Controlled Canadian Fentanyl Trade from Prison
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On July 27, 2015, the U.S. Attorney&#8217;s Office in the District of North Dakota announced the details of a fentanyl operation dubbed “Operation Denial.” The fentanyl overdoses of North Dakota teenagers pushed the operation into existence. The investigation first crossed North Dakota to Oregon. From Oregon, investigators traced fentanyl sources across international borders. Since 2015, the Department of Justice indicted dozens of suspects throughout the United States, Canada, and even China. In a <a href="https://www.justice.gov/file/1004071/download?utm_medium=email&amp;utm_source=govdelivery">recent set of indictments</a>, the DoJ charged 10 suspects—three Americans, five Canadian citizens, and two suspects living in China.</p>
     <p>The network itself, the investigation revealed, originated in China. Jian Zhang, the alleged organizer and leader of the drug trafficking organization, operated from “Zaron Bio-tech,” a company he had established in China. Certain North American co-conspirators arranged orders between other network members and Jian Zhang. Law enforcement had already caught many of these members of the distribution network, including Daniel Vivas Ceron and <a href="https://www.deepdotweb.com/2016/03/11/oregon-fentanyl-dark-net-market-vendor-pleads-guilty/">Brandon Corde Hubbard</a>. Hubbard, <a href="https://www.deepdotweb.com/2015/03/14/3-od-in-portland-jail-evolution-fentanyl-vendor-busted/">a former vendor on the Evolution darknet market</a>, was one of the first five named in a federal indictment.</p>

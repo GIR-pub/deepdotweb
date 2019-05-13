@@ -9,7 +9,7 @@ Would Be Hitman Nabbed in New Jersey Sting
     <span><a href="https://www.deepdotweb.com/2016/11/03/hitman-nabbed-new-jersey-sting/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>An 18-year-old by the name of Joshua Craig Rowling was arrested after driving to a meeting where he thought he was going to contract work where the other party wanted to put out a “hit” on someone. Rowling was charged with conspiracy to commit murder. He is being help in Bergen County Jail in New Jersey on a $1-million-dollar bond.</p>
     <p>Rowling was being investigated for using the <a href="http://patch.com/new-jersey/mahwah/hitman-who-drove-mahwah-meeting-arrested-prosecutor">Dark Net to advertise his services as a hitman</a>. Law enforcement found out that Rowling agreed to fulfil a hit contract in exchange for a firearm, and some money. He drove from his home in Mahwah to a bar called the Mason Jar that was also in Mahwah. He was under the impression he was meeting with a client, but it was actually an undercover police officer.</p>
     <p>Rowling was placed under arrest and a search was done of his home and his vehicle. No information was released about exactly what evidence was found, but authorities did say that “<strong><em>numerous items of evidence were gathered</em></strong>.”</p>

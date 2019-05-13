@@ -9,7 +9,7 @@ Liberty Reserve Founder Sentenced To 20 Years In Prison
     <span><a href="https://www.deepdotweb.com/2016/05/22/liberty-reserve-founder-sentenced-20-years-prison/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Arthur Budovsky (42), the creator of Liberty Reserve, a virtual currency before Bitcoin got into the game, <a href="http://money.cnn.com/2016/05/06/technology/liberty-reserve-prison/index.html">was sentenced to 20 years in federal prison</a>. According to the US government, the whole project of Budovsky was a $6 billion money-laundering operation.</p>
     <p><a href="/imgs/2016/05/libertyreserve.png"><img class="aligncenter size-full wp-image-14194" src="/imgs/2016/05/libertyreserve.png" alt="libertyreserve" width="660" height="330" srcset="/imgs/2016/05/libertyreserve.png 660w, /imgs/2016/05/libertyreserve-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></a></p>
     <p>For 7 years, starting in 2006, anyone could use Liberty Reserve&#8217;s website to transfer money with just little oversight. All the required information was someone&#8217;s name, email address, and date of birth. Unlike Liberty Reserve, banks have stricter standards to avoid funneling criminal funds. However, according to federal agents, that’s what Liberty Reserve just turned into, it was a most common payment method for cybercriminals, such as carders and identity thieves.</p>

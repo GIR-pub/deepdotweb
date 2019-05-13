@@ -9,7 +9,7 @@ Handwriting Analysis Used to Identify Ohio Fentanyl Vendor
     <span><a href="https://www.deepdotweb.com/2017/07/01/handwriting-analysis-used-identify-ohio-fentanyl-vendor/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In May, federal law enforcement agencies were tasked with making undercover fentanyl purchases from <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet vendors</a>. On May 30, a Homeland Security Agent found a listing leading to the <a href="https://www.usatoday.com/story/news/nation-now/2017/06/13/mail-order-opioids/393416001/">arrest of a couple from Cincinnati, Ohio</a>.</p>
     <p>According to the <a href="https://www.scribd.com/document/351325653/Halpin-and-Bosworth">Criminal Complaint</a>, the investigation into the couple&#8217;s activities involved a Homeland Security agent and an inspector from the United States Postal Inspection Service. The HSI agent found a listing for “100mg of Fentanyl HCL 98% purity.” The USPIS inspector joined in after the HSI agent specified the address and ordered the package.</p>
     <p><img class="wp-image-21010 aligncenter" src="/imgs/2017/06/word-image-197.jpeg" width="619" height="464" srcset="/imgs/2017/06/word-image-197.jpeg 800w, /imgs/2017/06/word-image-197-300x225.jpeg 300w" sizes="(max-width: 619px) 100vw, 619px" /></p>

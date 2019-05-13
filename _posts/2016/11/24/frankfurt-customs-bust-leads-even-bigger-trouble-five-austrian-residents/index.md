@@ -9,7 +9,7 @@ Frankfurt Customs Bust Leads to Even Bigger Trouble For five Austrian Residents
     <span><a href="https://www.deepdotweb.com/2016/11/24/frankfurt-customs-bust-leads-even-bigger-trouble-five-austrian-residents/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>During a check performed by customs at Frankfurt Airport. Agents randomly selected the package for inspection when a quarter kilo of amphetamines were found inside. Authorities stated the <a href="http://ooe.orf.at/news/stories/2808986/">24-year-old Austrian man was a regular user of the Dark Net.</a></p>
     <p>Authorities said it was by chance only that his package was selected for inspection at the Airport Frankfurt AM Main in Germany. Once discovered, the German Customs agents alerted Austrian authorities. The Wels Public prosecutor ordered a search of the man’s home.</p>
     <p>Authorities also said for over a year the Bad Ischl resident ordered drugs from Dark Net Markets. The man admitted to sourcing drugs from the Dark Net, and also that he re-sold the drugs he purchased. The man was also found in possession of one Marijuana plant.</p>

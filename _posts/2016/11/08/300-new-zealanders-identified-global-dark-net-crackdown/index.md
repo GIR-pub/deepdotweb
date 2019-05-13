@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2016/11/08/300-new-zealanders-identified-global-dark-net-crackdown/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>About 300 persons from New Zealand were <a href="http://www.newshub.co.nz/nznews/kiwi-drug-buyers-identified-in-worldwide-darknet-bust-2016110116">identified</a> by law enforcement authorities during a global police action called Operation Hyperion. The worldwide action took place between October 22 and 28. This was a &#8220;coordinated effort&#8221; to bust persons globally who are involved in illegal drugs trade on the dark web.</p>
     <p>Police and customs focused in the country prioritized screening for illegal drugs transported by the nation’s postal service, tracking the packages to both the buyers and the vendors of illicit substances. Seized drugs included cocaine, methamphetamine, heroin, alpha-PVP, LSD, ecstasy, and cannabis seeds.</p>
     <p>Authorities claim that almost 300 people involved in the dark net narcotics trade had been identified, six arrested, and 66 formal warnings given. 160 persons were already questioned (“identified and spoken to”) by law enforcement authorities. One person faces 13 charges for importing LSD, ecstasy and cannabis.</p>

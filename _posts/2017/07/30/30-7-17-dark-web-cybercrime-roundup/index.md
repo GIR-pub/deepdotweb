@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/07/30/30-7-17-dark-web-cybercrime-roundup/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>Fentanyl Vendor “NarcoBoss” Busted in Philadelphia</strong></p>
     <p>Although the arrest occurred in early July, details are still trickling down the wire as curious members of the community discover the vendor’s social media accounts. NarcoBoss, once known as DNMKingpin on a banned <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a> account, landed amidst a high-profile FBI, HSI, and USPIS investigation. The feds ordered enough of NarcoBoss&#8217;s products to build a preliminary profile. They ordered, specifically, “China white synthetic <a href="https://www.deepdotweb.com/tag/heroin/">heroin</a> fentanyl mix.” Investigators knew the location that both DNMKingpin and NarcoBoss used for shipping products.</p>
     <p>Eventually, and majority due to a concurrent investigation across the United States into a fentanyl overdose, <a href="https://www.scribd.com/document/353858458/United-States-of-America-v-HENRY-KOFFIE-a-k-a-NarcoBoss-Criminal-Complaint">investigators identified NarcoBoss</a>. Described as a “top ten target” by HSI, Henry Koffie proceed fairly easy to take down. Once they had identified him, that is. Koffie posted on Twitter and Instagram under the username “<a href="https://twitter.com/countstackula_">CountStackula_</a>.” And yes, he posted pictures of his *stacks” on a routine basis. He also posted pictures of his travel tickets when he took vacations; the vacations coincided with his Alphabay downtime.</p>

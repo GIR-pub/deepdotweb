@@ -9,7 +9,7 @@ Evil Ransom: Infect Two People, Receive Free Decryption Key
     <span><a href="https://www.deepdotweb.com/2016/12/20/evil-ransom-infect-two-people-receive-free-decryption-key/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On December 7, the MalwareHunterTeam, a company which operates a popular platform called CyberTracker, <a href="https://www.bleepingcomputer.com/news/security/new-scheme-spread-popcorn-time-ransomware-get-chance-of-free-decryption-key/">discovered</a> a first-of-its-kind <a href="https://www.deepdotweb.com/2016/10/06/europol-report-ransomware-presenting-biggest-cyber-threat/">ransomware</a> that grants a free decryption key to a victim that successfully infects two more people with the same ransomware.</p>
     <p>Conventionally, when a victim or a computer operator is infected with ransomware, its creators demand a ransom for an <a href="https://www.deepdotweb.com/2016/10/08/encryptor-raas-operator-shuts-website-deletes-decryption-master-key/">decryption</a> key to gain access again to the files of the infected computer. Once a payment is accepted&#8211;usually settled in digital currencies like bitcoin for increased anonymity&#8211;the hacker provides a decryption key or directly decrypts the files of the computer.</p>
     <p>However, newly designed ransomware called Popcorn Time forces victims to pass the malware to people around in order to save their files, computers and infected devices. More importantly, any victim that tries to guess the decryption code will see their files deleted after 4 failed attempts.</p>

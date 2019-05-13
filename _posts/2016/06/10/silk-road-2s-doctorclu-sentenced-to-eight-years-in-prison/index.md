@@ -9,7 +9,7 @@ Silk Road 2’s &#8220;DoctorClu&#8221; Sentenced to Eight Years in Prison
     <span><a href="https://www.deepdotweb.com/2016/06/10/silk-road-2s-doctorclu-sentenced-to-eight-years-in-prison/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The prosecutors in Silk road 2&#8217;s second highest admin “<a href="https://www.deepdotweb.com/2015/01/20/silk-road-moderator-doctorclu-arrested/">DoctorClu</a>” case, got their wish as Brian Farrell was <a href="https://www.documentcloud.org/documents/2852008-Farrell-Sentence.html">sentenced to eight years in prison</a> Friday. It was the exact amount of time the prosecutors had asked for.</p>
     <p><a href="http://arstechnica.com/tech-policy/2016/06/second-in-command-at-silk-road-2-0-sentenced-to-8-years-in-prison/">Farrell, who went by DoctorClu</a> on the copycat site, Silk Road 2; was the second highest administrator on the site. The sentencing came months after Farrell had plead guilty to one count of distribution of heroin, cocaine, and methamphetamine. Each count carried a minimum of five years.</p>
     <p>When the Feds searched Farrell’s home on the 2<sup>nd</sup> of January they found three handguns, various computer media, prescription medications, paraphernalia, 20 silver bullion bars with a value of over $3,900, and around $35,000. As if the prison sentence wasn’t enough, the silver and all the cash was turned over to the government.</p>

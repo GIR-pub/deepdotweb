@@ -9,7 +9,7 @@ Two Belarussians Scammed In Personal Bitcoin Exchange
     <span><a href="https://www.deepdotweb.com/2016/11/10/two-belarussians-scammed-personal-bitcoin-exchange/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Two Belarussians who conducted a bitcoin exchange personally with a third person were <a href="http://www.corrieredicomo.it/giallo-internazionale-truffa-fuggono-400mila-euro/">scammed</a> with 397,000 Euros.</p>
     <p>The two Belarussian citizens agreed to exchange their 500 BTC for 400,000 Euros in a pub named Lario located in Como, Italy. The bar was just in the city center where the two sellers and a third person met on Monday. When they entered the pub, they asked their business partner to show the money to prove his intentions are real. The buyer did so, he showed the two sellers a suitcase full of cash, believed to be 400,000 Euros inside. After that, the Belarussians turned on their laptops and initiated a transaction to the buyer’s BTC wallet. They spent an hour chatting and finishing their lunch, ending with the third person handing over the suitcase full of money and leaving.</p>
     <p>After the buyer left, the Belarussians opened the suitcase and discovered that only 3,000 Euros (six bank notes of 500 Euros) were genuine, the other part of the cash (397,000 Euros) was counterfeit. The two sellers looked for the scammer, however, they couldn’t find him. The only option they had was to go to the police station in Como and report the crime.</p>

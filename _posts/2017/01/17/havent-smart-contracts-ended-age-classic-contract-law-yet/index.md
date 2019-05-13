@@ -9,7 +9,7 @@ Why Haven&#8217;t Smart Contracts Ended The Age of Classic Contract Law Yet?
     <span><a href="https://www.deepdotweb.com/2017/01/17/havent-smart-contracts-ended-age-classic-contract-law-yet/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Implementation of the smart contracts&#8217; technology represents a group of challenges when applied to conventional approaches of contract law. Furthermore, these challenges exhibit a universal nature which remain unchanged whatever the jurisdiction is. The most striking problem underline the fact that <a href="https://www.deepdotweb.com/2016/04/27/smart-contracts-will-replace-intermediaries-notaries/">smart contracts</a> are built to operate in a virtual echo-system that lies parallel to the legal system. Accordingly, the smart contract technology was innovated without considering the legal principles of fairness, lawfulness and protection of weak parties.</p>
     <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2885241">A group of researchers published a paper that outlined the divergence between the smart contract technology and conventional contract law</a>. Let&#8217;s talk a look at some of the opinions presented in this paper:</p>
     <p><img class="wp-image-17573 aligncenter" src="/imgs/2017/01/smart-contract-png-1.png" alt="smart contract.png" width="973" height="580" srcset="/imgs/2017/01/smart-contract-png-1.png 1430w, /imgs/2017/01/smart-contract-png-1-300x179.png 300w, /imgs/2017/01/smart-contract-png-1-1024x610.png 1024w" sizes="(max-width: 973px) 100vw, 973px"/></p>

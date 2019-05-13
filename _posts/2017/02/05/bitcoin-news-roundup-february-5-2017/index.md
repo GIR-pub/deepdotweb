@@ -9,7 +9,7 @@ Bitcoin news roundup, February 5, 2017
     <span><a href="https://www.deepdotweb.com/2017/02/05/bitcoin-news-roundup-february-5-2017/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>Fidelity Charitable revealed it received $7 million in bitcoin donations last year</strong></p>

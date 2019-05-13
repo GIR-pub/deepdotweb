@@ -9,7 +9,7 @@ Bitcoin Mining &#8211; Is It Still Profitable?
     <span><a href="https://www.deepdotweb.com/2017/12/15/bitcoin-mining-still-profitable/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The best answer for this question would be &#8220;it all comes down to how much you will invest.&#8221; However, to get a more meaningful answer, there are multiple factors to be considered:</p>
     <p>1. The price of bitcoin is constantly changing and the volatility is currently extremely high. One bitcoin is currently worth more than $11,000, and less than a month ago it was worth around $6,000, so its price increased by more than 80% in just a single month.</p>
     <p>2. Bitcoin mining difficulty is constantly rising. In other words, the same hash rate you are using today to mine a single bitcoin won&#8217;t yield the same amount the following month.</p>

@@ -9,7 +9,7 @@ Interview With German-Plaza Admin
     <span><a href="https://www.deepdotweb.com/2015/11/04/interview-with-german-plaza-admin/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.deepdotweb.com/marketplace-directory/listing/german-plaza/">German-Plaza</a>,  Is a market focused at digital items, we recently conducted an interview with one of the admins. Here it is:</p>
     <p>Admin proof &#8211;</p>
     <div id="crayon-5c106f8feb76d415318874" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">

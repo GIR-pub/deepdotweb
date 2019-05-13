@@ -9,7 +9,7 @@ Bitcoin Playing An Increased Role In Crime, Europol Says
     <span><a href="https://www.deepdotweb.com/2016/01/23/bitcoin-playing-an-increased-role-in-crime-europol-says/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://bitcoinist.net/europol-bitcoin-playing-increasing-role-crime/">After the joint law enforcement operation of law enforcement authorities of Austria, Bosnia and Herzegovina, Germany, and the United Kingdom started chasing the hacker group DD4BC (Distributed Denial of Service – DDoS – for Bitcoin), the Europol stated that Bitcoin is playing an ”increasing role in all criminal activities”.</a></p>
     <p>The UK Metropolitan Police Cyber Crime Unit (MPCCU) found the key members of the cybercriminal group DD4BC in Bosnia and Herzegovina ”leading to vital information.” Activities were coordinated among law enforcement units in Australia, France, Japan, Romania, the United States, Switzerland and the Interpol.</p>
     <p>During Operation Pleiades, a member of DD4BC was arrested by the law enforcement authorities, and another suspect has been caught. Several property searches took place and valuable pieces of evidence were gathered in the operation that was started by Austrian authorities and supported by Europol’s European Cybercrime Centre (EC3) and the Joint Cybercrime Action Taskforce (J-Cat).</p>

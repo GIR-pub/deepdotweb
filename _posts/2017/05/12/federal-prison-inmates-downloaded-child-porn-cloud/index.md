@@ -9,7 +9,7 @@ Federal Prison Inmates Downloaded Child Porn On A Cloud
     <span><a href="https://www.deepdotweb.com/2017/05/12/federal-prison-inmates-downloaded-child-porn-cloud/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Five inmates at a federal prison in New Jersey, the United States, were <a href="http://www.nbcnews.com/news/us-news/federal-prison-inmates-used-dark-web-cellphones-swap-child-porn-n751386">downloading and watching child pornographic material</a> using <a href="https://www.deepdotweb.com/2016/10/30/radioactive-chemical-smuggler-discovered-purchasing-radium-deepweb/">smuggled</a> cell phones, while they were behind the bars.</p>
     <p><img class="wp-image-19781 aligncenter" src="/imgs/2017/05/https-media1-s-nbcnews-com-j-newscms-2017_17-197.jpeg" alt="https://media1.s-nbcnews.com/j/newscms/2017_17/1978511/170426-fort-dix-prison-mn-1255_cd7f5149db52a1687975ae1d3aea98bf.nbcnews-ux-2880-1000.jpg" width="758" height="375" srcset="/imgs/2017/05/https-media1-s-nbcnews-com-j-newscms-2017_17-197.jpeg 960w, /imgs/2017/05/https-media1-s-nbcnews-com-j-newscms-2017_17-197-300x148.jpeg 300w" sizes="(max-width: 758px) 100vw, 758px" /></p>
     <p>According to the court documents, the five suspects were downloading and swapping videos and photos of children being abused, including toddlers and babies. The inmates allegedly downloaded the illicit material on a cloud and shared the content with each other at the low-security facility at Fort Dix. However, according to the media outlet nbcnews.com, one of the five inmates was a government informant.</p>

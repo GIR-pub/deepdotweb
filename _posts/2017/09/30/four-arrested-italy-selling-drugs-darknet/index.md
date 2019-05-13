@@ -18,7 +18,7 @@ Four Arrested in Italy for Selling Drugs from the Darknet
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On September 16, a Carabinieri operation spanning from a province in Venice to the province of Pordenone netted four suspected drug dealers who sourced their products from <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">the darknet</a>. The Carabinieri found—while searching all four suspects—thousands of Euros, several pounds of marijuana, 100 grams of MDMA, 70 grams of methamphetamine, heroin, and evidence of drug distribution.</p>
     <p>The arrests fell into place after a single arrest in Cinto Caomaggiore, a province of Venice, Veneto, Italy. The details surrounding the identification of the first dealer remain somewhat vague. Investigators revealed that <em>their investigation had revealed</em> that a 23-year-old man in Cinto Caomaggiore had purchased drugs through the darknet. They added that he had sent the drugs to his home. In alignment with how such operations against suspected drug buyers usually unfold, the <a href="http://www.veneziatoday.it/cronaca/mdma-droga-acquistata-internet-cinto.html">Carabinieri then raided the home</a> of the man known only as “RA.”</p>

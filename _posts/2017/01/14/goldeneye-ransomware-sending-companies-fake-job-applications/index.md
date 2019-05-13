@@ -9,7 +9,7 @@ GoldenEye ransomware is sending companies fake job applications
     <span><a href="https://www.deepdotweb.com/2017/01/14/goldeneye-ransomware-sending-companies-fake-job-applications/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Cybercriminals keep on finding new ways to boost their conversion rates and make a bigger profit at the end of the month. Now, cybersecurity researchers at Check Point tell us about GoldenEye ransomware, a variant of the Petya ransomware that is being used to target companies’ HR departments, as people in these departments regularly need to open files in emails from unknown sources.</p>
     <p>Cybercriminals have launched a campaign in which they send companies’ HR departments an email posing as job applicants. The email itself contains a short message that directs victims towards two attachments. One of them is a cover letter in PDF format, without any malicious code in it. Reportedly, the goal of this cover letter is to make the victims feel like it’s a regular job application, giving them a false sense of security.</p>
     <p>The other file contained in the email is an Excel file that, once opened, will claim to be loading while showing the target a picture of a flower. Text in German will ask the victim to enable content so macros can run. Once the victim concedes, code inside the macros initiates the encryption process.</p>

@@ -9,7 +9,7 @@ Two Guilty Pleas from Area51 and DarkApollo
     <span><a href="https://www.deepdotweb.com/2017/04/30/two-guilty-pleas-area51-darkapollo/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In 2016, a law enforcement agent with the Central California Darknet Strike Force Investigated two Alphabay vendors: Area51 and DarkApollo. The case provided a look at the way some vendors handled customer information, as well as their own. After what seemed like an incredibly short amount of time for a case against a darknet vendor, Abudullah Almashwali, pleaded guilty to distribution of heroin and cocaine.</p>
     <p>Almashwali, one of two vendors arrested in the Central California Darknet Strike Force operation, <a href="https://www.justice.gov/usao-edca/pr/second-defendant-pleads-guilty-distributing-heroin-and-cocaine-dark-web-marketplace">pleaded guilty on Friday, April 14, 2017</a>. His partner and co-defendant, Chaudhry Ahmad Farooq, pleaded guilty to conspiring to traffic heroin in January 2017. Farooq admitted that he sold 636.5 grams of heroin on <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a>. He made $145,807 in Bitcoin during his run as a darknet vendor.</p>
     <p><img class="wp-image-19494 aligncenter" src="/imgs/2017/04/word-image-60.jpeg" srcset="/imgs/2017/04/word-image-60.jpeg 800w, /imgs/2017/04/word-image-60-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

@@ -9,7 +9,7 @@ Bitcoin news roundup, December 10, 2017
     <span><a href="https://www.deepdotweb.com/2017/12/10/bitcoin-news-roundup-december-10-2017/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>CBOE to launch Bitcoin futures on December 10</strong></p>

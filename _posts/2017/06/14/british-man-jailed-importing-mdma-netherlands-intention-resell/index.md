@@ -9,7 +9,7 @@ British Man Jailed For Importing MDMA From The Netherlands With The Intention To
     <span><a href="https://www.deepdotweb.com/2017/06/14/british-man-jailed-importing-mdma-netherlands-intention-resell/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A few days ago, a man from Wiltshire, the United Kingdom, was <a href="http://www.wiltsglosstandard.co.uk/news/15308636.Man_caught_importing_drugs_from_Netherlands/">sentenced</a> to prison for ordering crystal <a href="https://www.deepdotweb.com/2017/03/17/three-darknet-vendors-busted-for-mdma-sales/">MDMA</a> and <a href="https://www.deepdotweb.com/2017/04/24/three-arrested-netherlands-selling-ecstasy-darknet/">ecstasy</a> pills from the Netherlands, which he intended to resell to his customers locally.</p>
     <p><img class="wp-image-20618 aligncenter" src="/imgs/2017/06/word-image-75.jpeg" srcset="/imgs/2017/06/word-image-75.jpeg 480w, /imgs/2017/06/word-image-75-150x150.jpeg 150w, /imgs/2017/06/word-image-75-300x300.jpeg 300w, /imgs/2017/06/word-image-75-55x55.jpeg 55w, /imgs/2017/06/word-image-75-50x50.jpeg 50w" sizes="(max-width: 480px) 100vw, 480px" /></p>
     <p>According to the court documents, the 27-year-old Joseph Bailey crawled the dark web to search for narcotics. When he found his desired seller, he ordered the <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> from the Netherlands. Police reported that the man used bitcoins to purchase the illegal substances. However, customs authorities intercepted the package, after it has arrived at the United Kingdom on a freight plane.</p>

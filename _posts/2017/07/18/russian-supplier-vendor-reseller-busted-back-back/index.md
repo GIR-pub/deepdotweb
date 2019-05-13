@@ -9,7 +9,7 @@ Russian Supplier, Vendor, and Reseller Busted Back-to-Back
     <span><a href="https://www.deepdotweb.com/2017/07/18/russian-supplier-vendor-reseller-busted-back-back/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In Russia, drug dealer arrests occur at an increasing rate. During 2017, hardly a day passed by without a significant drug bust. One connected to online drug sales, more specifically. In late June, within only a matter of days, <a href="https://www.deepdotweb.com/tag/russia/">Russian police</a> made a vendor arrest, a reseller arrest, and one major supplier arrest.<img class="wp-image-21401 aligncenter" src="/imgs/2017/07/word-image-88.jpeg" srcset="/imgs/2017/07/word-image-88.jpeg 660w, /imgs/2017/07/word-image-88-300x136.jpeg 300w, /imgs/2017/07/word-image-88-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>Unlike the marketplaces in many countries, <a href="http://www.deepdotweb.com/marketplace-directory/listing/ramp-russian-anonymous-marketplace/">the RAMP forums</a> encourage local deals. Not the same way someone would meet a local drug dealer—but local in the sense that the buyer can order from a vendor who places products in various discrete locations throughout an area. The buyer pays and receives a photo of the hidden cache. Vendors themselves or busted ones, at least, rarely drop off the so-called “treasure” personally.</p>
     <p><strong>Carfentanil Reseller</strong></p>

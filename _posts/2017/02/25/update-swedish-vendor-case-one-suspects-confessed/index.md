@@ -9,7 +9,7 @@ Update In Swedish Vendor Case: One Of The Suspects Confessed
     <span><a href="https://www.deepdotweb.com/2017/02/25/update-swedish-vendor-case-one-suspects-confessed/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Earlier this week, four men were <a href="http://sverigesradio.se/sida/artikel.aspx?programid=128&amp;artikel=6626280">detained</a> in Halmstad, Sweden, who are suspected of running a vendor shop on the dark web. Now, one of the accused persons confessed.</p>
     <p>According to official documents at the Halmstad District Court, the four suspects were selling narcotics on the dark web. They are charged with aggravated drug trafficking and serious drug offenses. The vendor group ordered (possibly from the dark web) bulk quantities of narcotics and resold them on dark net marketplaces for profits. The suspects allegedly sold substances to around 20 customers, police says. They accepted bitcoins and shipped the narcotics in vacuum sealed packages using the national postal system.</p>
     <p>Law enforcement authorities were already ahead of the vendor group. As they caught the trail, they started investigating them. Authorities managed to intercept some of the parcels the vendors sent to their customers containing <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a>. The seized packages are considered as part of the evidence in the trial.</p>

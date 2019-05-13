@@ -9,7 +9,7 @@ Australian Border Force Busts Darknet Drug Buyer For Importation and Distributio
     <span><a href="https://www.deepdotweb.com/2017/02/17/australian-border-force-busts-darknet-drug-buyer-importation-distribution/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Australian Border Force and South Australia Police arrested a 31-year-old Port Neill man for importing a marketable quantity of drugs. Both law enforcement agencies, in conjunction with “partner agencies,” linked the man to a significant number of darknet purchases. After searching the man&#8217;s properties, the likelihood of the drugs being for personal use dropped to an astronomically low level. Officers arrested the suspect and charged him with 14 counts of drug trafficking. All for controlled substances.</p>
     <p>Law enforcement treats the borders of Australia with care. Just days before police arrested the Port Neill man, the Australian Border Force caught another suspect who illegally imported a number of steroids. Clint Sims, ABF Commander of Immigration and Customs Enforcement, said,</p>
     <p>“These seizures are another example of the ABF’s ongoing commitment to stamp out the illicit <a href="http://www.heraldsun.com.au/news/law-order/melbourne-man-charged-with-importing-steroids-and-performance-enhancing-drugs/news-story/d97624f8cc50300ee588a4ff2ca42263">importation of dangerous drugs</a> and protecting the Australian community.”</p>

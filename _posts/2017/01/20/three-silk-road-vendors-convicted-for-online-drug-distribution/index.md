@@ -9,7 +9,7 @@ Three Silk Road Vendors Convicted for Online Drug Distribution
     <span><a href="https://www.deepdotweb.com/2017/01/20/three-silk-road-vendors-convicted-for-online-drug-distribution/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A federal jury in Orlando, Florida, found Julian Villa-Gomez Lemus, a 31-year-old from Visalia, CA, guilty of selling drugs via the darknet. Previously—or very shortly before but within the same week—Julian Villa-Gomez Lemus watched his conspirators plead guilty for the same or very similar crimes. All of the defendants shared a conviction: <a href="https://www.dea.gov/divisions/mia/2017/mia010517.shtml">conspiracy to distribute controlled substances</a>. However, the degree of each charge varied amongst the men.</p>
     <p><img class="wp-image-17629 aligncenter" src="/imgs/2017/01/word-image-76.png" srcset="/imgs/2017/01/word-image-76.png 575w, /imgs/2017/01/word-image-76-300x165.png 300w" sizes="(max-width: 575px) 100vw, 575px" /></p>
     <p>According to the indictment, Julian Villa-Gomez, Fadhle Muqbel Saeed, and Alfonso Bojorquez-Vazquez involved themselves in said drug dealing conspiracy. <a href="https://www.scribd.com/document/336047020/flmd-047016068221">The six-count indictment</a>, only recently unsealed, charged the three with <a href="https://www.justice.gov/usao-mdfl/pr/california-man-convicted-conspiracy-distribute-drugs-internet">conspiracy to distribute several drugs</a>: marijuana, methamphetamine, and hydrocodone. In addition to the conspiracy charges, the indictment accused the men of aiding and abetting each other and those both “known and unknown to the jury.”</p>

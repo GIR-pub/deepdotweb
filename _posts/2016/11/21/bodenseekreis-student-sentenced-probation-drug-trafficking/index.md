@@ -9,7 +9,7 @@ Bodenseekreis Student Sentenced To Probation For Drug Trafficking
     <span><a href="https://www.deepdotweb.com/2016/11/21/bodenseekreis-student-sentenced-probation-drug-trafficking/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 24-year-old student from Bodenseekreis, <a href="https://www.deepdotweb.com/tag/germany/">Germany</a> was <a href="http://www.suedkurier.de/region/bodenseekreis-oberschwaben/bodenseekreis/Bewaehrungsstrafe-Student-aus-Bodenseekreis-versorgt-Region-mit-Drogen-aus-Darknet;art410936,8989637">sentenced</a> to three years of probation for selling drugs he bought from the dark web.</p>
     <p>According to official documents at the Konstanz District Court the student ordered <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> from dark net markets in 19 cases. Between 2014 and 2015, the accused bought all kinds of narcotics worth 37,000 Euros from a vendor shop on the dark web, police information says. All transactions were made exclusively in BTC, the 24-year-old exchanged currency in personal meetings. Vendors sent the student the drugs to his home address, or to packing stations where he used the names of his buyers so he could remain anonymous.</p>
     <p>The 24-year-old was known in clubs in the country as the “Big Spender” where he sold ecstasy pills, speed, hash and cocaine to customers. According to court information, the man made about 100,000 Euros in profit in the course of 8 months, however, the student claims he invested all his profits in drugs.</p>

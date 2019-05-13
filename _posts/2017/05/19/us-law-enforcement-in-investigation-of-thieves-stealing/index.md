@@ -9,7 +9,7 @@ US Law Enforcement in Investigation of Thieves Stealing &#038; Selling Tax Infor
     <span><a href="https://www.deepdotweb.com/2017/05/19/us-law-enforcement-in-investigation-of-thieves-stealing/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>US law enforcement is actively investigating into a large number of tax information theft cases involving activities on the dark web.</p>
     <p>In the US, residents are required to submit their tax returns by April 15. Thus, hackers and cyber criminals dealing with tax return forms and data are most active during this time of the year. Over the past few months, an increasing number of employers have reported the loss and theft of tax return forms submitted to their employees.</p>
     <p>Most recently, Brigham Gonzalez who was scouted and appointed by a new company earlier this year, told a local publication in the US called ABC30 that her company was reportedly hacked by an undisclosed group of hackers and her tax returns have been compromised.</p>

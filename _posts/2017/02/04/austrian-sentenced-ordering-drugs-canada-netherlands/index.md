@@ -9,7 +9,7 @@ Austrian Sentenced For Ordering Drugs From Canada And The Netherlands
     <span><a href="https://www.deepdotweb.com/2017/02/04/austrian-sentenced-ordering-drugs-canada-netherlands/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 21-year-old from Bludenz, Austria was <a href="http://www.vol.at/postpakete-mit-rauschgift-aus-kanada-und-holland/5103194">sentenced</a> to 12 months of probation for ordering narcotics from the dark web and reselling them.</p>
     <p><img class="wp-image-17979 aligncenter" src="/imgs/2017/01/according-to-own-data-the-drug-consume-has-sold-8.jpeg" alt="According to own data, the drug consume has sold 80 grams of marijuana, 125 ecstasy tablets and three grams of amphetamines." srcset="/imgs/2017/01/according-to-own-data-the-drug-consume-has-sold-8.jpeg 650w, /imgs/2017/01/according-to-own-data-the-drug-consume-has-sold-8-300x201.jpeg 300w, /imgs/2017/01/according-to-own-data-the-drug-consume-has-sold-8-290x195.jpeg 290w" sizes="(max-width: 650px) 100vw, 650px" /></p>
     <p>According to the defendant, he bought drugs from dark net vendors since the prices on the dark web were much cheaper than on the streets. The 21-year-old placed orders for packs of 233 grams of marijuana and 200 ecstasy tablets from Canada and the Netherlands between the end of 2015 and July 2016. The accused admitted that he sold 80 grams of marijuana, 125 ecstasy pills and three grams of amphetamines from the narcotics he bought from the dark net. According to his confession, he used cannabis, LSD and amphetamines. The suspect admitted that he smoked “a lot of marijuana” (he purchased from the dark net) at his home.</p>

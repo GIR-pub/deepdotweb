@@ -9,7 +9,7 @@ The Distribution of Opioids on a Darknet Markets &#8211; A Research Study
     <span><a href="https://www.deepdotweb.com/2017/07/14/distribution-opioids-darknet-markets-research-study/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Crypto-marketplaces are marketplaces that are hosted on anonymous networks, such as the Tor network, or other Darknets, and are mainly focused on the sale of illegal substances and illicit drugs. These online marketplaces utilize various tools to ensure the anonymity of their users and confidentiality of the delivered products by mail. Throughout the past few years, illicit drug trafficking on Darknet marketplaces is increasingly representing a big share of the global drug dealing business.</p>
     <p><a href="http://www.sciencedirect.com/science/article/pii/S0379073816303620">A study conducted in 2016</a>, aimed at analyzing the online practices of selling and buying of illicit drugs on one of the most active Crypto-marketplaces (Evolution) during the period between January 2014 to March 2015. Interestingly enough, the study identified around 48,000 drug listings and approximately 2,700 vendors offering to sell various illicit drugs from 70 countries. The results of the study revealed that the most common categories of drugs listed by vendors were cannabis (approximately 25%), followed by MDA and MDMA (ecstasy), stimulants (e.g. speed and cocaine), and opioids (e.g. heroin, fentanyl, codeine and morphine).</p>
     <p><img class="wp-image-21248 aligncenter" src="/imgs/2017/07/word-image-59.jpeg" srcset="/imgs/2017/07/word-image-59.jpeg 750w, /imgs/2017/07/word-image-59-300x83.jpeg 300w" sizes="(max-width: 750px) 100vw, 750px" /></p>

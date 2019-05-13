@@ -9,7 +9,7 @@ No ban for Bitcoin in Russia
     <span><a href="https://www.deepdotweb.com/2017/01/25/bitcoin-will-remain-legal-in-russia/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Although the relationship between Russia and Bitcoin has always been <a href="https://www.deepdotweb.com/2015/01/14/bitcoin-sites-blocked-russia-avoidance-shadow-economy-rise/">uneasy</a>, the cryptocurrency was never officially banned in the country. A new statement by the Bank of Russia now reveals that Bitcoin will, in fact, remain legal in Russia and that no further action to prohibit its use.</p>
     <p>Although the currency is still not seen as legal tender in Russia, the statement brings ease-of-mind to Bitcoiners in the region who were previously unsure of Bitcoin’s future within the country.</p>
     <p>Bitcoin mining still remains illegal in Russia, as the only currency that can be issued within the country is the Ruble. Users are, however, free to buy, sell, and transfer the digital currency with no restrictions applied.</p>

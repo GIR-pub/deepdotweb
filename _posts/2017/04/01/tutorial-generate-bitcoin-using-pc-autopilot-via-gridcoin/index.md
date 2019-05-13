@@ -9,7 +9,7 @@ Tutorial &#8211; How To Generate Bitcoin Using Your PC On Autopilot Via Gridcoin
     <span><a href="https://www.deepdotweb.com/2017/04/01/tutorial-generate-bitcoin-using-pc-autopilot-via-gridcoin/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>If you are new to bitcoin, and cryptocurrency in general, you may wish to have at least a few thousands of satoshis to give the payment system a try. Throughout this tutorial, I will show you a unique way to generate cryptocurrency, that you can easily convert to bitcoin on multiple cryptocurrency exchanges, using just your laptop and an internet connection, on auto-pilot.</p>
     <p>I will show you how to donate your computing power and earn Gridcoin in return through a simple-to-follow tutorial.</p>
     <p><strong>What is Gridcoin?</strong></p>

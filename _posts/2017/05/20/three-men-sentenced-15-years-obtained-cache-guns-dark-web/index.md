@@ -9,7 +9,7 @@ Three Men Sentenced For 15 Years, Obtained Cache of Guns From Dark Web
     <span><a href="https://www.deepdotweb.com/2017/05/20/three-men-sentenced-15-years-obtained-cache-guns-dark-web/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Three men pleaded guilty to the possession of a massive storage of ammunition, firearms and paraphernalia on November 2, 2016. This week, brothers Abdullah Ali and Adam Ali, and 21-year-old Roman Nikolajevs were sentenced to 15 years in prison for the illegal possession of firearms and illicit activities on the dark web.</p>
     <p><img class="wp-image-20007 aligncenter" src="/imgs/2017/05/word-image-84.png" srcset="/imgs/2017/05/word-image-84.png 620w, /imgs/2017/05/word-image-84-300x200.png 300w, /imgs/2017/05/word-image-84-290x195.png 290w" sizes="(max-width: 620px) 100vw, 620px"/></p>
     <p>&nbsp;</p>

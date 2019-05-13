@@ -9,7 +9,7 @@ Rise and Fall of my Counterfeiting Experience
     <span><a href="https://www.deepdotweb.com/2016/05/19/rise-fall-counterfeiting-experience/#comments">28 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Names and details have been slightly altered to conceal my true identity from anyone who could recognize it, but this is the time of when I got involved with counterfeit bills and escaped with barely my freedom.</p>
     <p>I&#8217;ve been browsing the deep web since the days of the original <a href="https://www.deepdotweb.com/tag/silkroad/">Silk Road</a>. Back then, that&#8217;s all I did. I was just a spectator walking amongst the players of the biggest game in the world. I watched because I was intrigued. I had so many questions. Can you really buy drugs online? Is it really safe? Is the quality and price really that good? As my knowledge grew, one by one these questions were answered and invariably replaced with other, more questions. I realized that drugs were not the only things to buy and sell on these markets of freedom.</p>
     <p><a href="/imgs/2016/05/fakes1.jpg"><img class="aligncenter size-full wp-image-14128" src="/imgs/2016/05/fakes1.jpg" alt="fakes[1]" width="800" height="800" srcset="/imgs/2016/05/fakes1.jpg 800w, /imgs/2016/05/fakes1-150x150.jpg 150w, /imgs/2016/05/fakes1-300x300.jpg 300w, /imgs/2016/05/fakes1-55x55.jpg 55w, /imgs/2016/05/fakes1-50x50.jpg 50w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>

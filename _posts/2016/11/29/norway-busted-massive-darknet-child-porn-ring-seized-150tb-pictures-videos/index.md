@@ -9,7 +9,7 @@ Norway Busted Massive a Darknet Child Porn Ring and Seized 150TB of Pictures and
     <span><a href="https://www.deepdotweb.com/2016/11/29/norway-busted-massive-darknet-child-porn-ring-seized-150tb-pictures-videos/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Norwegian officials announced the bust of Norway’s largest child-abuse ring wherein police identified 51 suspects and seized 150 terabytes of child porn. Officials spoke about a new branch of law enforcement focused on darknet crime as well as the name of the operation—Operation Darkroom.</p>
     <p>Hilde Reikrås, head of the taskforce responsible for the takedown and Operation Darkroom, announced that 20 of the 51 suspects were arrested in the Western Police District. The remaining suspects are in custody throughout Norway. An unspecified number of suspects resided overseas; Reikrås said that the proper international authorities had been notified.</p>
     <p>Police are still in the process of investigating additional Norwegian suspects, another official said. <img class="wp-image-16644 aligncenter" src="/imgs/2016/11/nedlasting-jpg.jpeg" alt="nedlasting.jpg" srcset="/imgs/2016/11/nedlasting-jpg.jpeg 1080w, /imgs/2016/11/nedlasting-jpg-300x200.jpeg 300w, /imgs/2016/11/nedlasting-jpg-1024x683.jpeg 1024w" sizes="(max-width: 1080px) 100vw, 1080px"/></p>

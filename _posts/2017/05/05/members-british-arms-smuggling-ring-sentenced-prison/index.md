@@ -9,7 +9,7 @@ Members Of British Arms Smuggling Ring Sentenced To Prison
     <span><a href="https://www.deepdotweb.com/2017/05/05/members-british-arms-smuggling-ring-sentenced-prison/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The three members of a smuggling ring involving <a href="https://www.deepdotweb.com/2017/04/01/suspected-drug-dealer-small-german-town-arrested-attempted-weapon-purchase/">weapons</a> ordered from the dark web were <a href="http://www.getsurrey.co.uk/news/surrey-news/godalming-man-who-used-dark-12921417">sentenced</a> to prison in the United Kingdom.</p>
     <p><img class="wp-image-19649 aligncenter" src="/imgs/2017/05/http-i4-getsurrey-co-uk-incoming-article12922399.jpeg" alt="http://i4.getsurrey.co.uk/incoming/article12922399.ece/ALTERNATES/s615/GoldamingMAIN.jpg" srcset="/imgs/2017/05/http-i4-getsurrey-co-uk-incoming-article12922399.jpeg 615w, /imgs/2017/05/http-i4-getsurrey-co-uk-incoming-article12922399-300x200.jpeg 300w" sizes="(max-width: 615px) 100vw, 615px" /></p>
     <p>Mark Richards, a 38-year-old man from Godalming, the United Kingdom, was considered as the mastermind of the smuggling ring, who, according to police information, used the dark web to order firearms and ammunition for resale purposes. The gang had two other members, the 38-year-old Martin Beard, and the 39-year-old Aaron Bishop, who took the delivery of the guns from the main suspect.</p>

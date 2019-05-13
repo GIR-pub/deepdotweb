@@ -9,7 +9,7 @@ Officials to “Keep Up“ With Synthetic Identity Fraud
     <span><a href="https://www.deepdotweb.com/2017/05/14/officials-keep-synthetic-identity-fraud/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to reports from the U.S. Attorney’s Office for the Northern District of Georgia, cases involving “synthetic identities” are among the fastest growing forms of identity fraud in the United States. U. S. Attorney John Horn announced that the Attorney&#8217;s Office will keep up, or at least remain current, with the fraud. While reports of synthetic identity use date back to 2013, the numbers in 2016 and 2017 dwarf those from previous years.</p>
     <p>Unlike identity theft, synthetic identities are an “<a href="https://www.justice.gov/usao-ndga/pr/identity-thief-sentenced-using-new-form-fraud-synthetic-identities">unfortunate new form of criminal fraud</a>” that utilize fake Social Security numbers to create fake identities. These fake identities come from using the fake Social Security numbers to build credit history through credit reporting agencies. The fake Social Security numbers, in the end, result in a <a href="https://www.deepdotweb.com/tag/fraud">fake identity with good credit history</a>. Criminals use the credit history to open credit cards under the fake identity. Those credit cards, linked to a fictitious name, collect hundreds of thousands of dollars in debt.</p>
     <p><img class="wp-image-19854 aligncenter" src="/imgs/2017/05/word-image-44.jpeg" srcset="/imgs/2017/05/word-image-44.jpeg 600w, /imgs/2017/05/word-image-44-300x165.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>

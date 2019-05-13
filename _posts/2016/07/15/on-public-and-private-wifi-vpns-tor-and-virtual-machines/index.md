@@ -9,7 +9,7 @@ On Public and Private WiFi, VPNs, Tor, and Virtual Machines
     <span><a href="https://www.deepdotweb.com/2016/07/15/on-public-and-private-wifi-vpns-tor-and-virtual-machines/#comments">12 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>If you require privacy while connected to the internet – and I mean really require it – there is no reason to only make it part of the way to being safe. In the world we live in today, it&#8217;s foolish to ever assume you&#8217;re completely untraceable. The most we can accomplish is making it as difficult as possible for the tracing to happen. Nearly every tool we use for privacy has been compromised in some way or another; users are repetitively making careless mistakes and the government is successfully capitalizing on them. Nobody is secure.</p>
     <p>That being said, there are ways to make tracking you down so increasingly difficult that only the most well-funded and militantly dedicated entities will pursue you. One instance of this type of set-up, while not as complex as it could be, involves running Tor with multiple VPNs—inside virtual machines. It&#8217;s admittedly a major pain in the ass, but it&#8217;s one of  the most secure ways to access the internet. I&#8217;ll be covering the basics of running Tor within a VPN within a virtual machine.</p>
     <p><strong>VPNs</strong></p>

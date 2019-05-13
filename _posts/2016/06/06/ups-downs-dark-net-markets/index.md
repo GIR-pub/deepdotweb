@@ -9,7 +9,7 @@ The Ups and Downs of Dark Net Markets
     <span><a href="https://www.deepdotweb.com/2016/06/06/ups-downs-dark-net-markets/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This article is here to make clear of the advantages and downsides of using <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">dark net markets</a>. We will be assessing the qualities and concerns to fairly judge how using a dark net market can be a good thing but also the various aspects to watch out for ­and what can potentially make using a <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">dark net market</a> a cause for caution. Over the last few years we’ve seen a handful of markets come and go and it would be wise to judge past history and common sense of the present and insight into the future to make light of the ups and downs of dark net markets. We hope you find this presentation of information useful.</p>
     <p>It’s worth noting that some advantages may also have their equal opposite downside and same applies to the downsides listed below. Reliability and security can vary as can anonymity depending on how you purchase bitcoins and protect your sensitive information.<br/>
     By reading this article, we are assuming you are practicing good opsec.</p>

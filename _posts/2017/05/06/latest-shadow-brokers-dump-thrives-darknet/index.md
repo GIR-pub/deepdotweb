@@ -17,7 +17,7 @@ Latest Shadow Brokers Dump Thrives on the Darknet
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The Shadow Brokers need no introduction. The same can be said for the batch of stolen files the Shadow Brokers recently set loose. And naturally, the stolen files made their rounds across the internet. As with many things in this sector, it took no time before the darknet started crawling with both the files and communities—new and old—centered around the collection of hacking tools and zero-day exploits.</p>
     <p>According to an analyst team at SenseCy, a cyber intelligence group, some underground hacking communities have hit their highest point yet. Not only because these hacking tools proved themselves some of the most powerful tools to date, but a interest spike too. This should come as little surprise as well; every time the Shadow Brokers surfaced in the news, even the <a href="https://www.deepdotweb.com/tag/web/">mainstream media involved themselves</a>.</p>

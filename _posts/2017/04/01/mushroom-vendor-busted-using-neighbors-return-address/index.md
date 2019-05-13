@@ -9,7 +9,7 @@ Mushroom Vendor Busted After Using Neighbor&#8217;s Return Address
     <span><a href="https://www.deepdotweb.com/2017/04/01/mushroom-vendor-busted-using-neighbors-return-address/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The National Police arrested a Dutch woman for cultivating and distributing psychedelic mushrooms through darknet marketplaces. Police began investigating the woman in February when a package returned to sender—but like many vendors before her, the package returned to the wrong “sender.”</p>
     <p>In this case, the returned package really struck close to home. One of her neighbors received a “mysterious parcel” that contained an envelope stuffed full of psychedelic mushrooms. The neighbor&#8217;s address appeared as the sender&#8217;s address and after finding this suspicious, the recipient contacted local authorities. She called 091 and summoned an officer. Once he arrived and examined the situation, he contacted additional investigators.</p>
     <p>He believed the mushrooms were psychedelic and therefore in an illegal mushroom category. He, along with other agents in the scene that made identification attempts, explained to the woman that the package became part of a drug investigation. She needed to yield any and all evidence to the authorities, they told her. Upon bringing the evidence to the proper officials, agents received the task of catching the vendor. Despite lacking information beyond a package of mushrooms, investigators gathered a fairly clear picture of what occurred.</p>

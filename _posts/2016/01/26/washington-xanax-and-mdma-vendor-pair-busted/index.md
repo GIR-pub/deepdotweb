@@ -9,7 +9,7 @@ Washington Xanax And MDMA Vendor Pair Busted
     <span><a href="https://www.deepdotweb.com/2016/01/26/washington-xanax-and-mdma-vendor-pair-busted/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://komonews.com/news/local/indictment-washington-teen-drug-dealers-thrived-on-darknet">Boden Gregory Bridge (20) and Tristan Simpson Brennand (21), has been accused of using the dark web to traffic MDMA and Xanax to customers in the United States.</a> Both men from Washington are currently facing federal charges and are alleged to have started selling drugs as teens.</p>
     <p>In January 2014, a federal informant told the law enforcement authorities that Brennand had been selling and shipping drugs to customers from dark net markets. According to official court documents, Brennand sold illegal substances on Agora and Evolution.</p>
     <p>A sworn statement by a US postal inspector agent states that the informant reported him that Brennand bought pounds of ecstasy from a vendor source in Germany. The informant also claimed that Brennand was receiving thousands of Xanax bars from India, as well as marijuana and hash oil from wholesalers in the United States.</p>

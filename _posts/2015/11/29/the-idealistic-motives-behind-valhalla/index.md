@@ -9,7 +9,7 @@ Journalist Investigates The Idealistic Motives Behind Valhalla Market
     <span><a href="https://www.deepdotweb.com/2015/11/29/the-idealistic-motives-behind-valhalla/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This article was <a href="http://www.hs.fi/kuukausiliite/a1446526960209" target="_blank">originally published</a> by the acclaimed journalist Pekka Vahvanen for Helsingin Sanomat, the biggest newspaper of Scandinavia. The article was translated to English exclusively for Deepdotweb  &#8211; A previous interview we have published with Silkkitie / Valhalla admin, can be found <a href="https://www.deepdotweb.com/2015/10/16/interview-with-valhalla-silkkitie-admin/" target="_blank">here</a>.</p>
     <p>While sitting in a café Ville goes through the drug supply of Tor network. On <a href="http://www.deepdotweb.com/marketplace-directory/listing/silkkitie/" target="_blank">Valhalla darknet market</a>, formerly known as Silkkitie, there is for example amphetamine, LSD, ecstasy, and marijuana available. Ville is a 25 years old grad student of natural sciences. For three years now he has ordered his drugs from the Internet.</p>
     <p>Ville takes out a small notebook in which he has listed in chronological order all the substances he has tried. First one is alcohol during elementary school. Then became cannabis in high school. Next in the university were mushrooms, 4-AcO-DMT, 2C-D, MXE, DXM, LSD, amphetamine, cocaine&#8230; There are 34 different psychoactive substances in his notebook. Most of them he has ordered through the Tor network.</p>

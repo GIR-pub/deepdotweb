@@ -17,7 +17,7 @@ Police Catch Three Members of Darknet Drug Trafficking Group
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On March 15, The public prosecutor&#8217;s office in Ravensburg announced the details of a high-profile investigation. Since “at least the turn of the year,” the announcement began, law enforcement investigators tracked a drug organization with five known members. Throughout the course of “extensive” investigations, authorities learned <a href="http://www.new-facts.eu/biberach-international-agierende-rauschgifthaendler-in-haft-drogen-ueber-das-darknet-verkauft-700-transaktionen-214008.html">the organization operated a darknet drug trafficking ring.</a> They found more than just drug trafficking, too. The group dealt with stolen identities, fake IDs, and counterfeit Euro notes.</p>
     <p>By the end of February 2017, authorities gathered enough intel about the group that they felt prepared to make arrests. The “criminal group” rented an “office” in Ehingen that served as their headquarters, the prosecutor&#8217;s office announced. Officers conducted surveillance at the office that lead investigators to two key elements that furthered the investigation. <img class="wp-image-18942 aligncenter" src="/imgs/2017/03/word-image-24.jpeg" width="783" height="587" srcset="/imgs/2017/03/word-image-24.jpeg 1024w, /imgs/2017/03/word-image-24-300x225.jpeg 300w" sizes="(max-width: 783px) 100vw, 783px" /></p>

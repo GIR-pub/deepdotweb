@@ -9,7 +9,7 @@ Bitcoin Price Analysis 2.5.17
     <span><a href="https://www.deepdotweb.com/2017/05/02/bitcoin-price-analysis-2-5-17/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week, almost all cryptocurrencies went up in price, simultaneously driving up the total market share of altcoins as the combined market cap broke another resistance level. The price of Bitcoin went up too, $1390 as at writing this, alongside Ethereum ($84), Zero Cash ($107) and Ethereum Classic ($7.9).</p>
     <p><em>“Bitcoin dominance is on a major decline. At current growth, the altcoin market cap will exceed bitcoin in the next 2 months.”</em></p>
     <p><img class="wp-image-19652 aligncenter" src="/imgs/2017/05/altccoin-market-share-jpg.jpeg" alt="Altccoin market share.jpg" srcset="/imgs/2017/05/altccoin-market-share-jpg.jpeg 1069w, /imgs/2017/05/altccoin-market-share-jpg-300x104.jpeg 300w, /imgs/2017/05/altccoin-market-share-jpg-1024x355.jpeg 1024w" sizes="(max-width: 1069px) 100vw, 1069px" /></p>

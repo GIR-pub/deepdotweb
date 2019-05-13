@@ -9,7 +9,7 @@ UK Police: Stun Guns Bought on the Dark Web Used by Gangs
     <span><a href="https://www.deepdotweb.com/2015/12/18/stun-guns-bought-on-the-dark-web-used-by-gangs/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to <a href="http://www.mirror.co.uk/news/uk-news/iphone-stun-guns-used-gangs-7016975" target="_blank">mirror.co.uk</a>: Gangs have always smuggled and dealt through the black market and other illegal venues of trade for weapons, drugs, and even money laundering.</p>
     <p>However in today’s world, gangs are taking advantage of the newest illegal market, the Dark Net, and using the untraceable Bitcoin as their currency. While Bitcoin by design is an identifiable currency with a transparent ledger and log of transactions, the coin owners are never identified immediately and are generally left anonymous.</p>
     <p>Gangs are taking advantage of this on the dark web and purchasing stun guns that can be 100 times more powerful than Tasers police carry on their person. These guns are being used in robberies and assaults all over the UK.</p>

@@ -9,7 +9,7 @@ Croatian Student Has To Pay Back The Damage He Caused With Internet Fraud
     <span><a href="https://www.deepdotweb.com/2016/12/17/croatian-student-pay-back-damage-caused-internet-fraud/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to information from the Zadar Municipal Court, an 18-year-old Croatian high school student was <a href="http://www.vijesti.rtl.hr/novosti/hrvatska/2024367/internetski-prevarant-iz-zadra-nasamario-trideset-ljudi-djevojci-umjesto-iphonea-5-isporucio-cjepanicu/">arrested</a> for internet fraud.</p>
     <p>Court information says the suspect scammed nearly 30 persons who tried to buy products from the 18-year-old. For example, the fraudster advertised an iPhone 5, which a customer bought and when she opened the package it contained worthless pieces of wood. The 18-year-old sent everyone junk items instead of the genuine ones he advertised. Authorities say the suspect made about 200,000 HRK (about $28,600) by scamming people. Since the lack of information provided, it is unclear which website did the suspect used to sell his “products” and whether the dark web was involved in his business.</p>
     <p>After the 18-year-old was detained by Croatian law enforcement authorities, he was released on bail, however, the high school student escaped to Austria to avoid prosecution. Although, he changed his mind shortly after and returned back to Zadar admitting the charges against him.</p>

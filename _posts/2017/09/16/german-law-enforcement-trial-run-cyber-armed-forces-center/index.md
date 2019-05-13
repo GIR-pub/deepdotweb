@@ -18,7 +18,7 @@ German Law Enforcement to Trial Run a “Cyber-Armed Forces” Center
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The State Criminal Police Office in Stuttgart and the Ministry of the Interior, in collaboration with numerous private industry organizations, announced plans for a new law enforcement branch known as the “Cyber-Armed Forces Coordination Center.” Depending on how the pilot program plays out, the Cyber-Armed Forces may set the standard for cyber defense in <a href="https://www.deepdotweb.com/tag/german/">Germany</a>, Minister of the Interior Thomas Strobl announced. Strobl, according to <a href="http://www.stuttgarter-nachrichten.de/inhalt.sicherheitsexperten-warnen-firmen-im-land-sind-bei-hackerattacken-oft-schutzlos.a074c7ef-9bb9-43cd-afc2-2080632542d4.html">StN</a>, could not yet reveal the location of this new center or what exactly it would do. He was, however, able to reveal information the news outlet considered “concrete.”</p>
     <p>Minister Strobl explained that many small businesses are unable to afford IT or cybercrime specialists. Yet, many of the large companies handled cyberattacks on their own. He introduced the concept in the days before August as a cyber defense center that could respond &#8220;seven days a week and 24 hours a day quickly if they [small or medium sized businesses] were affected by a cyber attack.&#8221; He added that “IT security is the foundation of the digital world&#8221; detailed the reasons every organization should have access to “cyberexperts.”</p>

@@ -17,7 +17,7 @@ Large-Scale FBI Dark Web Child Porn Investigation Sees Progress, 1 Pleads Guilty
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On May 20, DeepDotWeb reported that the Federal Bureau of Investigation (FBI) arrested over 900 user of PlayPen, a darknet child pornography marketplace, after the initial arrest of its administrators and creators.</p>
     <p>This week, Arthur Cummings, one of the 900 users of PlayPen, pleaded guilty to his charges of child pornography possession at the US District court in Worcester and was set to be sentenced on July 11. Cummings will be sentenced to a minimum of five years and up to 20 in prison.</p>

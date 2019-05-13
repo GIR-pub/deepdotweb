@@ -9,7 +9,7 @@ Founder of Liberty Reserve Pleads Guilty
     <span><a href="https://www.deepdotweb.com/2016/02/06/founder-of-liberty-reserve-pleads-guilty/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Founder of Liberty Reserve, Arthur Budovsky, <a href="http://www.justice.gov/opa/pr/founder-liberty-reserve-pleads-guilty-laundering-more-250-million-through-his-digital">pleaded guilty</a> to one count of conspiring to commit money laundering before U.S. District Judge Denise L. Cote. The laundered amount was more than $250 million. His sentencing is scheduled to take place on May 6 where he faces up to 20 years in prison. Bloomberg <a href="http://www.bloomberg.com/news/articles/2016-01-29/liberty-reserve-founder-said-to-plead-guilty-in-currency-scheme">reported</a> that this is because of a plea deal he took, without it he would&#8217;ve faced life in prison.</p>
     <p>Vladimir Kats, Azzeddine El Amine, Mark Marmilev and Maxim Chukharev, who were also indicted have already pleaded guilty. The last two, Marmilev and Chukharev were sentenced to 5 years and 3 years in prison. There were two others who were indicted, presumably Ahmed Yassine Abdelghani and Allan Esteban Hidalgo Jimenez, but they remain at large and are fugitives.</p>
     <p>Budovsky was arrested in Spain in May 2013 and was finally <a href="http://www.justice.gov/usao-sdny/pr/founder-liberty-reserve-arthur-budovsky-extradited-spain-face-charges-manhattan-federal">extradited</a> to the U.S. in 2014.</p>

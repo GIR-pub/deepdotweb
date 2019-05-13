@@ -9,7 +9,7 @@ BolehVPN Review
     <span><a href="https://www.deepdotweb.com/2016/01/11/bolehvpn-review/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>BolehVPN was founded in 2007 as a response to ISPs actions of blocking sites that were considered bad for the local society and content filtering. These actions stood right in front of the idea of a free internet and led to the birth of a new <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN solution</a> that values clients’ anonymity and support P2P connections.</p>
     <p><a href=https://portal.bolehvpn.net/affiliate/ref.php?id=162&tid=BOMT1&tid1=bolehvpn-review target="_blank"><img class="aligncenter size-full wp-image-12915" src="/imgs/2016/01/1-2.jpg" alt="1" width="904" height="500" srcset="/imgs/2016/01/1-2.jpg 904w, /imgs/2016/01/1-2-300x166.jpg 300w" sizes="(max-width: 904px) 100vw, 904px" /></a></p>
     <p>Since 2007, the solution grew and BolehVPN became one of the largest solutions for the South-East Asian area. Their quality of services and high level of support attract new clients and the network gets bigger every day.</p>

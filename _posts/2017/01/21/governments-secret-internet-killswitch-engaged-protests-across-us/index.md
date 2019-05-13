@@ -17,7 +17,7 @@ Is the Government’s Secret Internet Killswitch Being Engaged at Protests Acros
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A Standard Operating Procedure developed by the United States federal government allegedly for the purposes of stopping terrorists from detonating radio-activated bombs, may actual be being used as a cellular phone and internet killswitch at protests across the country.</p>
     <p><strong>Government Fights to Keep Internet Killswitch Secret</strong></p>

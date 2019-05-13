@@ -9,7 +9,7 @@ Department of Treasury Fears Hackers Could Disrupt US Economy
     <span><a href="https://www.deepdotweb.com/2016/07/27/department-treasury-fears-hackers-disrupt-us-economy/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Financial Security of the US could be in the hands of hackers, a <a href="https://www.treasury.gov/press-center/press-releases/Pages/jl0522.aspx">press release</a> from the Treasury Department states after a financial cybersecurity meeting involving the FBI and SEC. Over 17 financial regulation agencies attended the event to work on “strengthening information sharing on cyber vulnerabilities, threats and incidents.”</p>
     <p>During the <a href="https://www.fbiic.gov/">Financial and Banking Information Infrastructure Committee (FBIIC)</a> meeting, the FBI provided information and details on the current cybercrime landscape in an effort to work on “furthering the adoption of cybersecurity best practices and enhancing the financial sector’s ability to respond to and recover from cyber incidents.” Of current threats to the federal government, those involving hackers are causing the most concern.</p>
     <p>Excerpt from the readout below:</p>

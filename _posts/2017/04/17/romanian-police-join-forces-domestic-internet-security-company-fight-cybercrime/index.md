@@ -9,7 +9,7 @@ Romanian Police Join Forces With Domestic Internet Security Company To Fight Cyb
     <span><a href="https://www.deepdotweb.com/2017/04/17/romanian-police-join-forces-domestic-internet-security-company-fight-cybercrime/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Romanian police collaborate with internet security company <a href="https://www.bitdefender.com/">BitDefender</a> to fight cybercrime on a global scale.</p>
     <p>According to a <a href="https://www.agerpres.ro/comunicate/2017/04/04/comunicat-de-presa-igpr-15-13-27">press release</a> published by the General Inspectorate of the Romanian Police (IGPR – Romania’s police force), they are joining forces with domestic internet security company BitDefender to fight cybercrime globally.</p>
     <p>Bitdefender is an internet security software company based in Romania, represented through subsidiaries and partners in over 100 countries. The firm has been developing online protection since 2001. In September 2014, the company claimed to have its technologies installed in around 500 million home and corporate devices across the world. Their products include antivirus and antispyware capabilities against internet security threats such as viruses, Trojans, rootkits, rogues, &#8220;aggressive adware,&#8221; spam and others, and that their applications including web protection, cloud antispam, firewall, a vulnerability scanner, parental controls, file encryption, device anti-theft and backup for corporate and home users.</p>

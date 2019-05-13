@@ -9,7 +9,7 @@ Report: Easier To Acquire A Rifle Than A Pistol In The Netherlands
     <span><a href="https://www.deepdotweb.com/2017/05/11/report-easier-acquire-rifle-pistol-netherlands/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A recently conducted <a href="http://revu.nl/nieuws/smokkelaar-nederland-is-spil-in-europese-wapenhandel/">report</a> claimed that it is easier to acquire a rifle than a <a href="https://www.deepdotweb.com/2017/04/22/german-standing-trial-ordering-three-guns-dark-web/">pistol</a> in the Netherlands.</p>
     <p><img class="wp-image-19763 aligncenter" src="/imgs/2017/05/arms-trade-2750.jpeg" alt="Arms Trade 2750" srcset="/imgs/2017/05/arms-trade-2750.jpeg 750w, /imgs/2017/05/arms-trade-2750-300x140.jpeg 300w" sizes="(max-width: 750px) 100vw, 750px" /></p>
     <p>&#8220;The darknet and the internet just simplified the purchase of <a href="https://www.deepdotweb.com/2017/02/25/arizona-bill-ban-mandatory-tracking-firearms-blockchain/">firearms</a>; you order, pay in bitcoins, and you get the <a href="https://www.deepdotweb.com/2017/04/03/man-arrested-ordering-weapon-via-darknet-forum/">weapon</a> delivered by a courier,&#8221; one of the researchers stated.</p>

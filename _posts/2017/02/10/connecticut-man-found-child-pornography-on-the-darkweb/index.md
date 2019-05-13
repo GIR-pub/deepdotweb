@@ -9,7 +9,7 @@ Connecticut Man Found Child Pornography on the Darkweb and Shared it on Omegle
     <span><a href="https://www.deepdotweb.com/2017/02/10/connecticut-man-found-child-pornography-on-the-darkweb/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>After a tip from Omegle, an online chat service, police officers arrested a former elementary school janitor for <a href="https://www.deepdotweb.com/2017/01/17/ohio-man-indicted-on-child-porn-charges/">possession of child pornography</a> (CP). According to a local news outlet, Douglas Mehan, a 50-year-old from Milford, Connecticut, found the media via a “<a href="http://www.nhregister.com/general-news/20170120/warrant-former-milford-school-custodian-used-dark-web-anonymous-chat-room-for-child-porn">special web browser</a>.” The web browser, they wrote, allowed him to search for and download the content anonymously. However, he used a regular browser to share the videos on Omegle, and the chat service’s moderators flagged Mehan’s IP address.</p>
     <p>News stations, after the incident, called Omegle an anonymous chat program or client. A once-over of the service’s privacy statement discredited these claims. However, the “anonymous” internet chat service requires no voluntarily submitted information from a user. They have stored user data since day one, but the lack of a signup form provided Mehan with a false sense of security.</p>
     <p>Below is an excerpt from <a href="http://www.omegle.com/static/privacy.html">Omegle’s privacy policy</a> that Mehan apparently missed:</p>

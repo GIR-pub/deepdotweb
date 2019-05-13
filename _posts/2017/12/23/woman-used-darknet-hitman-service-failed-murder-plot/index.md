@@ -9,7 +9,7 @@ Woman Used Darknet Hitman Service in Failed Murder Plot
     <span><a href="https://www.deepdotweb.com/2017/12/23/woman-used-darknet-hitman-service-failed-murder-plot/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In Denmark, a woman faces charges for attempting to have her boyfriend killed through a fake hitman-for-hire service on the darknet. At an undisclosed date prior to March 31, 2017, British authorities alerted Italian authorities that someone in Denmark had attempted to have an Italian citizen killed. Italian authorities then alerted law enforcement in Denmark.</p>
     <p>Although North Zealand police arrested the 58-year-old suspect in March of this year, they managed to keep the case from reaching the public until mid-October. On October 24, a press officer from the northeastern Zealand police told TV 2 that, &#8220;it is true that a case [involving an online murder attempt] has been raised, but I cannot say more than that.” The press, at that point, knew little more than the dates of the <a href="http://nyheder.tv2.dk/krimi/2017-10-31-kvinde-bestilte-lejemord-vigtigt-han-bliver-draebt-i-foerste-forsoeg?cid=tv2.dk:Kvinde%20bestilte%20lejemord%3A%20-%20Vigtigt%20han%20bliver%20dr%C3%A6bt%20i%20f%C3%B8rste%20fors%C3%B8g:article">four court appearances in December</a>. After the first court appearance on December 7, some substantial information finally surfaced.</p>
     <p><img class="wp-image-24039 aligncenter" src="/imgs/2017/12/word-image-45.jpeg" srcset="/imgs/2017/12/word-image-45.jpeg 404w, /imgs/2017/12/word-image-45-300x169.jpeg 300w" sizes="(max-width: 404px) 100vw, 404px" /></p>

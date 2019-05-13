@@ -9,7 +9,7 @@ Tor&#8217;s Co-Creator: Your Medical Records Have Bullseyes On Them
     <span><a href="https://www.deepdotweb.com/2016/05/19/tors-co-creator-medical-records-bullseyes/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Paul Syverson, Co-creator of the Tor web browser met with journalists and tech professionals Thursday saying, “I invented the dark web.”  This meeting was part of the “Inside the Dark Web” conference. The topics of anonymized onion routing, and cybercrime on the internet.</p>
     <p>“Medical identity theft is poised to take over as the primary form of identity theft,” Syverson noted.</p>
     <p><a href="http://www.huffingtonpost.com/entry/paul-syverson-tor-interview_us_5734a06ae4b060aa78197df2">With over 155 million Americans medical data has been exposed</a> in the last six years alone, according to the Brookings Institution. Mostly being blamed on hospitals and other organizations arent doing anything to protect and secure patient information. This would mean that they are responsible in part for making sure connections are secure.</p>

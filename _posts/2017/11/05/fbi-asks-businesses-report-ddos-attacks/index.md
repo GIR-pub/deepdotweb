@@ -9,7 +9,7 @@ FBI Asks Businesses to Report DDoS Attacks
     <span><a href="https://www.deepdotweb.com/2017/11/05/fbi-asks-businesses-report-ddos-attacks/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In an October public service announcement, the <a href="https://www.ic3.gov/media/2017/171017-2.aspx">FBI explained “DDoS-for-hire” services</a> and requested that victims of DDoS attacks file a complaint with the FBI’s Internet Crime Complaint Center (IC3). They explained that malicious actors sell DDoS-for-hire services (aka booters) on criminal marketplaces with effectively one goal: preventing access to a “U.S. company or government website.”</p>
     <p>In an earlier press release, the FBI warned that hackers could hijack Internet of Things (IoT) devices and use them for launching attacks against third parties. The FBI used the Mirai botnet as an example of the damage caused by IoT takeovers. While the IoT announcement covered other botnet related activities, it focused mainly on DDoS attacks. And also to give a shout-out to the Mirai botnet for launching <a href="https://www.deepdotweb.com/2016/11/06/analysis-record-ddos-attacks-mirai-iot-botnet/">DDoS attacks from unsecured IoT devices</a> (or just IoT devices in general – their security is truly abhorrent).</p>
     <p><img class="wp-image-23400 aligncenter" src="/imgs/2017/11/word-image-4.jpeg" srcset="/imgs/2017/11/word-image-4.jpeg 800w, /imgs/2017/11/word-image-4-300x141.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

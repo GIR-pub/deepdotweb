@@ -9,7 +9,7 @@ Dublin Man Downloaded 300 Child Porn Images, Avoids Prison
     <span><a href="https://www.deepdotweb.com/2017/04/14/dublin-man-downloaded-300-child-porn-images-avoids-prison/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.deepdotweb.com/tag/ireland/">Irish</a> law enforcement authorities arrested a man in 2010, who was suspected of possessing <a href="https://www.deepdotweb.com/2017/03/23/child-porn-crackdown-slovenia-law-enforcement-raided-13-apartments/">child porn</a> content on his devices. Now, after a long forensic evaluation of the evidence, the judge <a href="http://www.thejournal.ie/darknet-3311338-Mar2017/">sentenced</a> him to probation.</p>
     <p><img class="wp-image-19186 aligncenter" src="/imgs/2017/04/judge-martin-nolan-sentenced-coghlan-to-two-and-a-.jpeg" alt="Judge Martin Nolan sentenced Coghlan to two-and-a-half years in prison which he suspended in full on strict conditions. (Stock image)" width="834" height="689" srcset="/imgs/2017/04/judge-martin-nolan-sentenced-coghlan-to-two-and-a-.jpeg 1437w, /imgs/2017/04/judge-martin-nolan-sentenced-coghlan-to-two-and-a--300x248.jpeg 300w, /imgs/2017/04/judge-martin-nolan-sentenced-coghlan-to-two-and-a--1024x846.jpeg 1024w" sizes="(max-width: 834px) 100vw, 834px" /></p>
     <p>Richard Coghlan, a 37-year-old IT expert, allegedly downloaded more than 300 images and multiple movies of child pornographic content. According to the defendant’s statement, he had recently lost his job at the time, was sleeping all day, and accessed child porn websites at night. The suspect later told Gardaí (Garda Síochána – the police force of Ireland) that he went “into a hollow”.</p>

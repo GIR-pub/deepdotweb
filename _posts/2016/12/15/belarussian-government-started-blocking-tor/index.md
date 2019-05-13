@@ -9,7 +9,7 @@ Belarussian Government Started Blocking Tor
     <span><a href="https://www.deepdotweb.com/2016/12/15/belarussian-government-started-blocking-tor/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Last weekend, the Belarussian government started <a href="http://sputnik.by/technology/20161206/1026408605/nachalas-blokirovka-tor-v-belarusi.html">blocking</a> the Tor Browser and it seems their attempt is quite successful.</p>
     <p>In March 2016, President Aljakszandr Rihoravics Lukasenka issued a decree “On improving the procedure for the transfer of Telecommunications&#8221;. One part included a document that contained the ban of the <a href="https://www.deepdotweb.com/tag/tor/">Tor Browser</a>, which is engaged in forwarding traffic.</p>
     <p>According to Belarussian internet users, starting from Sunday, they were unable to view websites via the Tor Browser (including blocked sites in the country). The government claims they banned the software to prevent citizens from accessing illegal websites, such as dark net markets. However, “advanced web users” are sharing tutorials and workaround methods in order to use Tor.</p>

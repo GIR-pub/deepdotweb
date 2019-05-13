@@ -9,7 +9,7 @@ BKA Arrests 67 Suspects in a Child Porn Bust
     <span><a href="https://www.deepdotweb.com/2017/08/04/bka-arrests-67-suspects-child-porn-bust/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>In early July, the German Federal Criminal Police Office busted the owner of a forum promoting and hosting images and videos of “bizarre” child abuse. Between December 2016 and July 2017, the site had amassed more than 87,000 members. Not even 20 days later, <a href="https://www.deepdotweb.com/tag/bka/">the BKA</a> struck again. By July 20, German police had identified roughly 75 suspected members of a child “pornography” ring.<img class="wp-image-21736 aligncenter" src="/imgs/2017/08/lu2n-nemecka_policia-jpg.jpeg" alt="LU2n.nemecka_policia.jpg" srcset="/imgs/2017/08/lu2n-nemecka_policia-jpg.jpeg 660w, /imgs/2017/08/lu2n-nemecka_policia-jpg-300x136.jpeg 300w, /imgs/2017/08/lu2n-nemecka_policia-jpg-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>While <a href="https://www.deepdotweb.com/2017/07/20/bka-seized-a-darknet-child-abuse-forum/">arresting users of the Elysium child exploitation forums</a>, German police were simultaneously arresting child abusers linked to an app that offered “secure private, and Beautiful Online Group Chat.” The app itself is both completely legal and without ill-intent. The app—or service, really—allows users to join chat rooms and share media with contacts and group members. And the company collaborated with the BKA to a degree that surprised German authorities. Police officers said the suspects were identified thanks to &#8220;very good cooperation&#8221; with the U.S.-based operators of the service or app, Chatstep.</p>

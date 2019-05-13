@@ -9,7 +9,7 @@ Tried To Buy Phone With Counterfeit Notes – Four Arrested In Lyon
     <span><a href="https://www.deepdotweb.com/2017/02/24/tried-buy-phone-counterfeit-notes-four-arrested-lyon/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Four men from Lyon, France were <a href="http://www.lyoncapitale.fr/Journal/Lyon/Justice/Fait-divers/Ils-achetent-un-portable-avec-des-faux-billets-achetes-sur-le-Dark-Web">arrested</a> for trying to purchase a phone using counterfeit bank notes.</p>
     <p>The event took place in Lyon on Monday, when the four suspects, aged between 17 and 22, tried to buy a phone with seven counterfeit 50 euro notes. After their detention, the suspects admitted that they ordered the counterfeit money from the dark web.</p>
     <p><img class="wp-image-18327 aligncenter" src="/imgs/2017/02/police-lyon.jpeg" alt="Police lyon ()" srcset="/imgs/2017/02/police-lyon.jpeg 650w, /imgs/2017/02/police-lyon-300x200.jpeg 300w, /imgs/2017/02/police-lyon-290x195.jpeg 290w" sizes="(max-width: 650px) 100vw, 650px"/></p>

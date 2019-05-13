@@ -17,7 +17,7 @@ IRS Warns of Tax Information for Sale on the Darknet Through W-2 Fraud
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On August 15, the tax industry, including the Internal Revenue Service, warned of an increase of W-2 scans that targeted employees. This, or tax fraud in general, is not a new addition to any of the modernized forms of fraud or identity theft. And as of the past few years, one of the fears of data theft is that the stolen data will end up for sale on darknet markets and forums. The actual identity fraud or tax fraud with the stolen information poses the greatest threat as there is no fear of theft without it.</p>
     <p>According to the IRS, a scam called a “business email compromise” (BEC) had increased in frequency since inception, topping the charts in 2017. From a tax management perspective, these emails are potentially the most destructive. “A business email compromise occurs when a cybercriminal is able to “spoof” or impersonate a company or organization executive’s email address and target a payroll, financial or human resources employee with a request,” the IRS said. “For example, fraudsters will try to trick an employee to transfer funds into a specified account or request a list of all employees and their Forms W-2.”</p>

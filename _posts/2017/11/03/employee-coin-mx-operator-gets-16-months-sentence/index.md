@@ -9,7 +9,7 @@ Employee of Coin.Mx Operator Gets 16 Months Sentence
     <span><a href="https://www.deepdotweb.com/2017/11/03/employee-coin-mx-operator-gets-16-months-sentence/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A Ukrainian software engineer from Florida received a 16 months prison sentence for his role in creating a Bitcoin scam, using an <a href="https://www.deepdotweb.com/2017/01/25/coin-mx-operator-admits-fraud-money-laundering/">illegal Bitcoin exchange</a>, Coin.mx, to launder money for a global hacking network which targeted financial and publishing firms.</p>
     <p>US District Judge Alison Nathan on Friday, sentenced the accused, Yuri Lebedev after he was convicted earlier this year by a jury in Manhattan on conspiracy and fraud-related charges. One Trevon Gross, a pastor from New Jersey was also arrested alongside.</p>
     <p>Reports from US filings state that Yuri Lebedev ran multiple servers for <a href="https://www.deepdotweb.com/2017/01/25/coin-mx-operator-admits-fraud-money-laundering/">Coin.mx</a>, the illegal Florida-based exchange that deceived banks and payment transactions, by allowing the exchange to disguise Bitcoin transactions as restaurant delivery charges and online collectible items.</p>

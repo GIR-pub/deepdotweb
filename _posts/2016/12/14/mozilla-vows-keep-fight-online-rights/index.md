@@ -9,7 +9,7 @@ Mozilla Vows to Keep up the Fight for Online Rights
     <span><a href="https://www.deepdotweb.com/2016/12/14/mozilla-vows-keep-fight-online-rights/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Mozilla has once again taken a vow to fight for internet user’s privacy and net neutrality.</p>
     <p><a href="http://www.mediapost.com/publications/article/290175/mozilla-vows-to-fight-for-online-privacy-net-neut.html">The company unveiled it 2015 annual report</a> Thursday, which stated that the company will continue to protect, and fight for online user’s privacy and rights. It stated that they have strong beliefs in transparency, user control, and trust when it comes to advocating for online rights.</p>
     <p>Their report mentions several key issues for privacy related initiatives. Among them was the company’s action in the Apple Vs. FBI court proceedings in which the FBI demanded that Apple unlock the cellphone of a terrorist shooter in California. <a href="https://www.deepdotweb.com/2016/10/16/fbi-may-need-apples-help-breaking-another-iphone/">Apple protected the privacy of its customer regardless of terrorist actions, but in the end the FBI was able to get into the iPhone without help from Apple</a>.</p>

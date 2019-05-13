@@ -9,7 +9,7 @@ How to Start Your Own Cybercrime Operation for Fun and Profit
     <span><a href="https://www.deepdotweb.com/2016/06/03/start-cybercrime-operation-fun-profit/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.politico.com/story/2014/06/cybercrime-yearly-costs-107601">Cybercrime costs 575 billion yearly</a>.  And as we have seen more technological advancements in past years, cybercrime keeps getting easier.  Hackers and their malware are always one step ahead of law enforcement and security firms working around the clock, pooling their efforts to prevent cybercrime.  To illustrate how anyone could launch their own cybercrime operation with little skills and a small investment, we will take a step into the darknet and look at some products offered on markets accessible to anyone.  All one needs is TOR and a brain!  Into the rabbit hole we go!</p>
     <p>To run a successful operation, we need a goal and a purpose.  Let’s say we want to make Bitcoin.  Let’s start by figuring out what sort of malware we want to spread.  Ransomware seems to be the current trend which can reap profits in Bitcoin, so let’s find some ransomware!</p>
     <p><a href="/imgs/2016/05/ginx.jpg"><img class="aligncenter size-full wp-image-14313" src="/imgs/2016/05/ginx.jpg" alt="ginx" width="618" height="438" srcset="/imgs/2016/05/ginx.jpg 618w, /imgs/2016/05/ginx-300x213.jpg 300w" sizes="(max-width: 618px) 100vw, 618px" /></a></p>

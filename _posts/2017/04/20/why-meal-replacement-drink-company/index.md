@@ -9,7 +9,7 @@ Why Meal-Replacement Drink Company Soylent​ is Opening a Dark Web Store
     <span><a href="https://www.deepdotweb.com/2017/04/20/why-meal-replacement-drink-company/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Venture capital-backed meal replacement drink manufacturer Soylent officially launched a <a href="https://www.deepdotweb.com/2017/03/28/majority-web-users-not-willing-trade-privacy-discounts-benefits/">dark web</a> store called Soy Route as a part of its collaborative marketing project with advertising agency Wieden+Kennedy.</p>
     <p>Similar to alternative dark web marketplaces and stores, Soy Route is a .onion website which can only be accessed through the anonymous browser Tor. On the Soy Route dark web store, consumers of Soylent are guided by the company’s artificial intelligence (AI) representative Trish that was specifically developed to interact with Soylent customers in real-time.</p>
     <p>With the help of Trish, Soylent consumers can purchase the firm’s limited-edition products and experimental flavors of Soylent drinks with bitcoin. According to Soylent CEO Rob Rhinehart, most of the limited-edition products or flavors that are currently being sold on the Soy Route dark web store are not be availed elsewhere.</p>

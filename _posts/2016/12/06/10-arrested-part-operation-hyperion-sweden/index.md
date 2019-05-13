@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2016/12/06/10-arrested-part-operation-hyperion-sweden/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities in Kronoberg County, Sweden <a href="http://www.smp.se/vaxjo/flera-personer-avslojade-i-storre-drogharva/">arrested</a> 10 of the 50 alleged suspects who were identified as dark net narcotics buyers.</p>
     <p>”We have received information that there are suspected buyers in Ljungby. In Växjö, two people were arrested in Araby Park. Police found a few hundred grams of <a href="https://www.deepdotweb.com/tag/cannabis/">cannabis</a> on them,” said Robert Loeffel, Head of Region South.</p>
     <p>During the busts, mostly <a href="https://www.deepdotweb.com/tag/lsd/">LSD</a> and cannabis were seized by Swedish authorities. Police claim the law enforcement action was part of <a href="https://www.deepdotweb.com/tag/hyperion/">Operation Hyperion</a>.</p>

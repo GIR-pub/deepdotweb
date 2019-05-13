@@ -9,7 +9,7 @@ Alphabay Vendor “PeterTheGreat” Found Dead in Jail
     <span><a href="https://www.deepdotweb.com/2017/11/22/alphabay-vendor-peterthegreat-found-dead-jail/#comments">19 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Spartanburg County Coroner&#8217;s Office is investigating the death of an inmate in a South Carolina jail. On Monday, November 6, detention officers found suspected darknet drug trafficker Theodore Vitaliy Khleborod dead in his cell. Officials pronounced him dead shortly thereafter.</p>
     <p>According to federal authorities, Theodore Vitaliy Khleborod and Ana Milena Barrero had distributed opioids on numerous darknet marketplaces. The duo, according to court documents, sold highly-potent opioids under the handle <a href="https://www.deepdotweb.com/2017/05/27/grand-jury-indicts-u-47-vendor-peterthegreat/">“PeterTheGreat” or “Peter The Great”</a> (PTG). Mainstream news outlets infamously painted PTG as the U-47700 (U4) vendor behind the overdose of a Portland teenager named Aisha Zughbieh-Collins.</p>
     <p><img class="wp-image-23634 aligncenter" src="/imgs/2017/11/word-image-29.png" srcset="/imgs/2017/11/word-image-29.png 800w, /imgs/2017/11/word-image-29-300x188.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

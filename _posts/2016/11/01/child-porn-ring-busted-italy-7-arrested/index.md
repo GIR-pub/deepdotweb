@@ -9,7 +9,7 @@ Child Porn Ring Busted In Italy, 7 Arrested
     <span><a href="https://www.deepdotweb.com/2016/11/01/child-porn-ring-busted-italy-7-arrested/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A <a href="http://lapresse.it/pedopornografia-smantellata-organizzazione-criminale-7-arresti.html">joint action</a> between District Anti-Mafia Directorate of the Public Prosecutor of Rome and the Europol European Cybercrime Center resulted in the arrest of seven suspects who are believed to be a part of a major dark net child porn community.</p>
     <p>This is the first time in Italy where internet pedophiles have been busted. The suspects are charged with the association for transnational conspiracy aimed at committing crimes of pedophilia and child pornography. In addition to that, Italian law enforcement authorities provided information on numerous potential child victims of sexual abuse and abduction.</p>
     <p>The FBI and the Queensland local police have also participated in the action since there were connections between the arrested Italian suspects and Australian pedo king Shannon Grant McCoole and his Danish and Dutch helpers.</p>

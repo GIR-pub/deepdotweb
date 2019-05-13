@@ -17,7 +17,7 @@ More Than 60 Percent Of New Zealand Narcotic Users Obtained Their Fix From The D
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>The annual Global Drug Survey (GDS) was <a href="https://www.globaldrugsurvey.com/wp-content/themes/globaldrugsurvey/results/GDS2017_key-findings-report_final.pdf">released</a> recently, showing that little more than 60 percent of drug users from New Zealand <a href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=11863754">acquired narcotics from the dark web</a> in the past year.</p>
     <p>The London-based independent research company produces reports from global media, public health, and for corporate organizations. With the GDS’ annual reports, the company seeks to present data, which will create digital health applications delivering screening and brief interventions for narcotics and alcohol. The Global Drug Survey states that their mission is to aim to make drug use safer regardless of the legal status of the drug, “by sharing information with individuals, communities, health and policy organizations”. In their 2017 report, A total of 119,846 people from over 50 countries participated in the survey. According to the GDS, they had used the data of 115,523 persons in the preparation of the reports. From New Zealand, the number of respondents was 3,800 persons. The Global Drug Survey always collects the data from drug and alcohol users in an anonymous manner.</p>

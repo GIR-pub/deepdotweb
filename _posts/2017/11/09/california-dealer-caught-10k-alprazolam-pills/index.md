@@ -17,7 +17,7 @@ California Dealer Caught with 10K Alprazolam Pills
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Following a two month investigation by a prescription drug task force in Ventura County, California, detectives conducted a traffic stop that led to the suspect’s arrest. The Ventura County Sheriff&#8217;s Interagency Pharmaceutical Crimes Unit and the Ventura County Sheriff&#8217;s East County Street Narcotics Unit concluded, during their joint investigation, that 31-year-old Ryan Tallmadge had supplied Los Angeles and Ventura residents with <a href="http://deepdotweb.com/tag/xanax">Xanax</a> and MDMA for several months. Inside Tallmadge’s car, the detectives found 1,700 Xanax pills and 15 grams of MDMA.</p>
     <p>Ventura County authorities booked Tallmadge at the Ventura County Sheriff&#8217;s East County Jail on one count of possession for sale (aka possession with intent) of a controlled substance (MDMA) and one count of possession for sale of a designated controlled substance (alprazolam).</p>

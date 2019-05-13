@@ -9,7 +9,7 @@ Facebook Buys Stolen Accounts Off the Darknet to Keep Their Users Safe
     <span><a href="https://www.deepdotweb.com/2016/11/20/facebook-buys-stolen-accounts-off-darknet-keep-users-safe/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Keeping Facebook safe and keeping Facebook secure are two different tasks, Facebook’s Chief Security Officer Alex Stamos said at recent conference. Security, he explained to the crowd, is building walls of defense to keep threats out. But “safety is bigger than that.”</p>
     <p>Stamos explained that the “bigger” form of safety was making use of stolen password dumps on the darknet. Instead of simply comparing the password hashes of Facebook users with those made publicly available, Facebook buys the account dumps hidden on the DNMs.</p>
     <p>Database breaches containing <a href="https://www.deepdotweb.com/2016/10/06/researchers-tell-the-senate-how-medical-records-end-up-on-the-deepweb/">electronic healthcare records have routinely popped</a> up on marketplaces like the TheRealDeal. Social media has been regularly exploited too. Earlier this year, <a href="https://www.deepdotweb.com/2016/05/31/65-million-tumblr-passwords-sale-therealdeal-market/">65 million Tumblr accounts surfaced</a> for a surprisingly low price.</p>

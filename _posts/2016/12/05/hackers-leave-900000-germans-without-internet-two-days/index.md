@@ -9,7 +9,7 @@ Hackers Leave 900,000 Germans Without Internet for Two Days
     <span><a href="https://www.deepdotweb.com/2016/12/05/hackers-leave-900000-germans-without-internet-two-days/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Sunday, German company Telekom saw an outage that stretched into Monday. 900,000 customers were left without Internet, Phone, and Cable service.</p>
     <p>Routers across Germany were down for two days, and the company says that it wasn’t a problem with the network; it was identifying routers during the dial-up process. IT analysts found data that suggested the outage was the result of an outside cyber-attack. A spokesperson for the company explained that the analyst found evidence that they were the victim of a hacking attack.</p>
     <p><a href="http://www.thelocal.de/20161128/mass-internet-outrage-hits-900000-telekom-users">Telekom introduced</a> new software yesterday that fixed the issues preventing customers from having internet, phone, and cable services. Before the introduction of the new software, Telekom suggested customers simply unplug their routers, plugging them back in, and then allowing for a software update. The company reported that some user’s services were restored before the company introduced the new software.</p>

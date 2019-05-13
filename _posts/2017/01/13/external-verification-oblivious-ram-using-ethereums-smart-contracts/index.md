@@ -9,7 +9,7 @@ External Verification of Oblivious RAM Using Ethereum&#8217;s Smart Contracts
     <span><a href="https://www.deepdotweb.com/2017/01/13/external-verification-oblivious-ram-using-ethereums-smart-contracts/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Oblivious RAM, or ORAM, represent a group of protocols that enable users to store data on a trustless server and to retrieve it as if it was stored on a local disk or server. The protocols are formulated to ensure that the server&#8217;s administrators would know nothing about the user&#8217;s data or the retrieval pattern, knowing only the size of the space occupied by the data and the frequency of its access by the user.</p>
     <p>Although Oblivious RAM protocols have been initially described by <a href="http://http.icsi.berkeley.edu/ftp/pub/techreports/1993/tr-93-072.pdf">Goldreich and Ostrovsky in 1993</a>, the recent years have witnessed an evolution in the technology that markedly increased the efficiency of ORAM. A few days ago, a group of researchers published a paper that presented an Oblivious RAM protocol that implements Ethereum &#8216;s smart contracts for external verification.</p>
     <p><img class="wp-image-17402 aligncenter" src="/imgs/2017/01/ram-jpg.jpeg" alt="RAM.jpg" srcset="/imgs/2017/01/ram-jpg.jpeg 634w, /imgs/2017/01/ram-jpg-300x202.jpeg 300w, /imgs/2017/01/ram-jpg-290x195.jpeg 290w" sizes="(max-width: 634px) 100vw, 634px"/></p>

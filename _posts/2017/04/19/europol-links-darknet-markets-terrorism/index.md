@@ -9,7 +9,7 @@ Europol Links Darknet Markets and Terrorism
     <span><a href="https://www.deepdotweb.com/2017/04/19/europol-links-darknet-markets-terrorism/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Europol—via themselves, law enforcement, the private sector, or otherwise—continually made Bitcoin-related appearances over the last five years. And according to the most recent study that involved Bitcoin and illegal firearm trade, illegal firearm dealers moved to the darknet. Not just any firearm dealers (I.e., vendors), but organized crime vendors. Europol quietly pushed a connection between organized crime, the dark web, Bitcoin, and terrorism for years and they finally moved one step closer to a day where that proposed connection gets announced.</p>
     <p>Their latest publication, the <a href="https://www.scribd.com/document/344475874/EUROPEAN-UNION-SERIOUS-AND-ORGANISED-CRIME-THREAT-ASSESSMENT-2017">2017 European Union Serious Organized Crime Threat Assessment</a> may have taken things more than a single step closer. Europol struggled, in some way and at inconsistent times, with Bitcoin and cryptocurrency in general. The SOCTA or Serious Organized Crime Threat Assessment, covered the obvious: organized crime. Not all, but many of the publications issued by Europol involved <a href="https://www.deepdotweb.com/2016/01/23/bitcoin-playing-an-increased-role-in-crime-europol-says/">organized crime in conjunction with Bitcoin</a>.</p>
     <p><img class="wp-image-19281 aligncenter" src="/imgs/2017/04/word-image-70.png" srcset="/imgs/2017/04/word-image-70.png 701w, /imgs/2017/04/word-image-70-300x148.png 300w" sizes="(max-width: 701px) 100vw, 701px" /></p>

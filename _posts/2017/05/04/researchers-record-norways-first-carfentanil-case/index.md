@@ -17,7 +17,7 @@ Researchers Record Norway&#8217;s First Carfentanil Case
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A researcher at the department of drug use at the Norwegian Institute of Public Health recently <a href="http://www.aftenbladet.no/innenriks/15-aring-funnet-dod--hadde-trolig-tatt-livsfarlig-syntetisk-dop-542314b.html">confirmed the first carfentanil seizure in Norway</a>. In March, a 15-year-old died of an overdose on a substance that, at the time of the death, remained unknown. The 15-year-old died with a small vial labeled C-50 in his room. The police reported that the container only contained a few milligrams of an unknown powder.</p>
     <p>Researchers at the Norwegian Institute of Public Health and Oslo University Hospital spoke about the drug and the threat it posed to the public. The public, they said, knew very little of the substance’s relative potency in comparison to the strength of the more popular street drugs.</p>

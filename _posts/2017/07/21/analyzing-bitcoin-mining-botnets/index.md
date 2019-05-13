@@ -9,7 +9,7 @@ Analyzing Bitcoin Mining Botnets (Minerbots) &#8211; How Can We Shield Our Syste
     <span><a href="https://www.deepdotweb.com/2017/07/21/analyzing-bitcoin-mining-botnets/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Botnets have recently become one of the most serious forms of malicious tools used by cybercriminals to launch a myriad of attacks not only on individuals, but also on servers belonging to large organizations. Botnets can be used to perform a variety of malicious attacks including DDoS attacks, email spamming, phishing of private data, identity theft, bitcoin mining and others. Most recently, cybercriminals have been using botnets to exploit the computational power of victim&#8217;s machines in pooled bitcoin mining. Such forms of botnets are referred to as &#8220;miner botnets&#8221;.</p>
     <p><a href="http://search.proquest.com/openview/ace850434f42b9975f5867d74e4bdace/1?pq-origsite=gscholar&amp;cbl=136216">A recently published paper</a> discussed how miner botnets are used to mine bitcoin via compromised machines. The authors of the paper also examined the network flow of two miner botnets known as &#8220;ZeroAccess&#8221; and &#8220;Neris&#8221;, providing a DNS relationship that aids in identification of the botnets. They also proposed a security algorithm and framework that can protect an OS from being compromised by a miner botnet. Throughout this article, we will review this study and its interesting results.</p>
     <p><img class="wp-image-21486" src="/imgs/2017/07/word-image-24.png" srcset="/imgs/2017/07/word-image-24.png 730w, /imgs/2017/07/word-image-24-300x276.png 300w" sizes="(max-width: 730px) 100vw, 730px" /></p>

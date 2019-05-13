@@ -17,7 +17,7 @@ One of Four Indicted in Connection with 2014 Yahoo Hack pleads not guilty.
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Karim Baratov, a Canadian citizen who was born in Kazakhstan, who was arrested in Canada last March at the request of US prosecutors due to his alleged role in the <a href="https://www.deepdotweb.com/2017/03/31/us-indicts-four-connection-2014-yahoo-hack/">2014 Yahoo hack</a> has pled not guilty.</p>
     <p>He was charged with gaining illegal access to more than 80 Yahoo accounts in exchange for commissions.</p>

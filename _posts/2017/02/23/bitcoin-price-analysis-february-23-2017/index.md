@@ -9,7 +9,7 @@ Bitcoin price analysis February 23, 2017
     <span><a href="https://www.deepdotweb.com/2017/02/23/bitcoin-price-analysis-february-23-2017/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Bitcoin Rallies Ahead of Bitcoin ETF Decision</p>
     <p>This week the price of Bitcoin rallied from $980, past $1000 to a monthly high at $1127, inches away from the $1139 high of January 5. This strong run was partly fueled by speculation on a the Winklevii Twins’ proposed Bitcoin Trust ETF. On March 11, 2 members of the SEC will rule on whether to approve or reject the application. With as much as $ 300 million expected to flow in if approved, lofty $2000 targets are on the table. This week’s rally was either pricing in approved ETF news (on insider’s knowledge), or it was, and is, a massive pre-ETF pump that dumps if the ETF is declined.</p>
     <p><img class="wp-image-18358 aligncenter" src="/imgs/2017/02/chart-1-price-analysis-feb-22-jpeg.jpeg" alt="Chart 1 price analysis feb 22.jpeg" srcset="/imgs/2017/02/chart-1-price-analysis-feb-22-jpeg.jpeg 951w, /imgs/2017/02/chart-1-price-analysis-feb-22-jpeg-300x169.jpeg 300w" sizes="(max-width: 951px) 100vw, 951px"/></p>

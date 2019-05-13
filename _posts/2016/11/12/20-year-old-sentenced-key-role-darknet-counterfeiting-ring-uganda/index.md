@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2016/11/12/20-year-old-sentenced-key-role-darknet-counterfeiting-ring-uganda/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Zachary L. Ruiz aka “Mr. Mouse” was sentenced to four years in prison and three years of probation on November 2, 2016. The Las Vegas counterfeiter hoped his mental health problems would let him avoid a strict punishment.</p>
     <p>The judge recognized the young man’s behavioral and developmental issues but noted “[Ruiz] also demonstrated what appears to be an easy ability to engage in sophisticated criminal activity.”</p>
     <p>In 2014, the <a href="https://www.deepdotweb.com/2014/12/20/known-dark-net-fake-money-vendor-arrested-uganda/">United States indicted Ryan Andrew Gustafson aka Willy Clock</a> on charges of conspiracy, conspiracy to launder money, and the passing and receiving of counterfeit money. Several other darknet-linked counterfeiters were on that indictment, and one was Ruiz. At the time of the indictment, Ruiz was 19-years-old.</p>

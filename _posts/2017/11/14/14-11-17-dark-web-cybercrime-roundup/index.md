@@ -17,7 +17,7 @@
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><strong>Operation CROZET Nets Two International Drug Traffickers</strong></p>
     <p>A nine-month investigation into two international drug dealers by the Australian Federal Police (AFP) and Australian Border Force (ABF) reached a tipping point this month, according to a press release from the AFP. A 27-year-old Merna man his 26-year-old partner from Kew had allegedly imported hundreds of kilograms of various drugs into the Melbourne area.</p>

@@ -17,7 +17,7 @@ Security Researchers Found a “One-Stop-Shop” for Hacking Tools on Command an
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Security researchers from Kaspersky Lab’s Secure List described the accidental discovery of a “one-stop-shop” for hacking tools. The <a href="https://www.deepdotweb.com/2016/12/26/shadow-brokers-take-zeronet-sell-stolen-nsa-exploits/">Kaspersky Lab team</a> intercepted traffic from machines infected with the Hawkeye RAT and “stumbled upon an interesting domain.” They found a command and control server that saved the keylog data provided by the HawEye RAT. The server <a href="https://securelist.com/blog/research/76986/one-stop-shop-server-steals-data-then-offers-it-for-sale/">additionally sold hacking software, tools, and site-specific logins</a>.</p>
     <p><img class="wp-image-17415 aligncenter" src="/imgs/2017/01/word-image-31.png" width="858" height="487" srcset="/imgs/2017/01/word-image-31.png 1352w, /imgs/2017/01/word-image-31-300x170.png 300w, /imgs/2017/01/word-image-31-1024x581.png 1024w" sizes="(max-width: 858px) 100vw, 858px" /></p>

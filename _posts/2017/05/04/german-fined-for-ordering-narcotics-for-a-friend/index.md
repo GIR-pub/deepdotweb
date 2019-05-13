@@ -9,7 +9,7 @@ German Fined For Ordering Narcotics For A Friend
     <span><a href="https://www.deepdotweb.com/2017/05/04/german-fined-for-ordering-narcotics-for-a-friend/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A craftsman from Schwabach, Germany was <a href="http://www.nordbayern.de/region/schwabach/koks-aus-dem-darknet-schwabacher-verurteilt-1.6016285">sentenced</a> to pay a fine for ordering <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> from the dark web for a friend.</p>
     <p><a id="post-19620-_gjdgxs"></a> &#8220;Yes, I ordered it for a friend,&#8221; the suspect, the 24-year-old Jonas B (name changed due to privacy reasons) admitted after the indictment was read in his court trial. According to his confession, the defendant had problems with his family, and his financial situation was in a bad state. When a friend offered money in the summer of 2014 to buy drugs, including amphetamine, ecstasy, and cocaine, for him, he accepted the proposal since he needed cash for his living.</p>
     <p>‘Quick money’ I could earn,&#8221; the defendant said. According to him, the friend gave him “500 euros for everything.” The 24-year-old purchased the <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> for 200-300 euros, while he kept the “change”.</p>

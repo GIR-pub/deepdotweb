@@ -17,7 +17,7 @@ Europol: The Dark Web Is The Heaven For Organized Criminals In The EU
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to <a href="https://www.deepdotweb.com/2017/04/19/europol-links-darknet-markets-terrorism/">Europol</a> director Rob Wainwright, the internet, and especially the darknet, is the “new field of action” of organized criminals in the European Union.</p>
     <p><a id="post-19722-_gjdgxs"></a> The Europol director emphasized that the internet is used by criminals to illicit activities and trafficking of all kinds: the smuggling of <a href="https://www.deepdotweb.com/2017/04/23/teen-skips-school-darkweb-weapons-deal/">weapons</a> and narcotics, the spread of online child sexual abuse material. This was <a href="http://www.eunews.it/2017/04/24/europol-il-web-e-il-nuovo-terreno-di-azione-del-crimine-organizzato-nellue/83645">stated</a> on April 24 before the Justice Committee of the European Parliament by Europol Director Rob Wainwright, presenting the report of the agency for the year of 2017 on <a href="https://www.deepdotweb.com/2017/04/13/stuttgart-form-cybercrime-center-combat-organized-crime-internet/">organized crime</a>. Wainwright had stressed the need to establish greater cooperation between the EU Member States to effectively combat international crime, and in particular what is happening online.</p>

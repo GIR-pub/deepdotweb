@@ -9,7 +9,7 @@ PascalCoin &#8211; A New Cryptocurrency Setting a Record For Daily Trade Volume
     <span><a href="https://www.deepdotweb.com/2017/02/14/pascalcoin-new-cryptocurrency-setting-record-daily-trade-volume/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Right after being enlisted on <a href="https://www.deepdotweb.com/2016/12/06/earn-interest-bitcoin-poloniex-lending/">Poloniex</a>, the cryptocurrency exchange, the price of <a href="http://www.pascalcoin.org/">PascalCoin (PASCAL)</a> soared by more than 1600% within less than 24 hours. The volume of exchange exceeded 7000 bitcoins less than a day after the PASC/BTC market was added to Poloniex. Although the first block on PASCAL&#8217;s blockchain was mined last August, PascalCoin didn&#8217;t attract much attention until less than a week ago. Before being enlisted on Poloniex, PASCAL price averaged between 600 and 2000 satoshis on Cryptopia. A high of around 165,000 satoshis was recorded on Poloniex last Friday which means that PASCAL coin has set a record of a 8250% rise within 24 hours.</p>
     <p>So, let&#8217;s get familiar with PascalCoin and see how it is different from bitcoin and other altcoins:</p>
     <p><strong>What is PascalCoin?</strong></p>

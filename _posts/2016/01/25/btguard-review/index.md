@@ -9,7 +9,7 @@ BTGuard Review
     <span><a href="https://www.deepdotweb.com/2016/01/25/btguard-review/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>We have decided to do a BTGuard Review even though they are a much smaller VPN provider. They have pretty good privacy though so that made us give them a closer look. Founded in 2008, BTGuard is a well known VPN service provider located in Toronto, Canada. The company has focused its <strong>main strength in bringing together peer-to-peer communities online, into its magical fold</strong><strong>.</strong> Having a tagline “Anonymous BitTorrent Services,’’ BTGuard largely centers on the needs of BitTorrent users who enjoy having peer-to-peer file sharing and avoid being legally bothered for copyright issues.</p>
     <p><a href="http://btguard.com/?a=ManagerVPN" target="_blank" rel="nofollow"><img class="aligncenter size-full wp-image-13056" src="/imgs/2016/01/1-7.jpg" alt="1" width="560" height="300" srcset="/imgs/2016/01/1-7.jpg 560w, /imgs/2016/01/1-7-300x161.jpg 300w" sizes="(max-width: 560px) 100vw, 560px" /></a></p>
     <p>BTGuard might appear to be an abbreviation of BitTorrent Guard which however is not true as no VPN provider would focus exclusively on one website. BTGuard provides anonymous and secure internet access to its users, thereby protecting the individual identity and sensitive personal information on the internet.</p>

@@ -9,7 +9,7 @@ An Overview Of Smart Contract Scripting For Cryptocurrency Blockchains
     <span><a href="https://www.deepdotweb.com/2017/01/15/overview-smart-contract-scripting-cryptocurrency-blockchains/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The blockchain technology offers secure means for recording information in a distributed, decentralized manner, which opened the door for using it to transfer value via cryptocurrecies. The blockchain technology utilized the concept of &#8220;smart contracts&#8221; which was coined by Nick Szabo in 1994, aiming at revolutionizing contract law and formal business practices via innovation of electronic commerce protocols between trustless parties across the internet.</p>
     <p><strong>What Are Smart Contracts?</strong></p>
     <p>A <a href="https://www.deepdotweb.com/2016/04/27/smart-contracts-will-replace-intermediaries-notaries/">smart contract</a> is a form of an electronic transaction protocol that is coded to execute the predesigned terms of a given contract. While omitting the need for trusted intermediary parties, a smart contract satisfies all conditions of a contract, including terms of payment, confidentiality, liens and enforcement, while also minimizing malicious, as well as unplanned accidental exceptions. Implementation of the smart contract technology can minimize fraud losses, transaction fees, arbitrations and enforcement costs.</p>

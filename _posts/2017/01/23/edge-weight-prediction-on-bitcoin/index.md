@@ -9,7 +9,7 @@ Edge Weight Prediction On Bitcoin And Other Weight Signed Networks WSNs
     <span><a href="https://www.deepdotweb.com/2017/01/23/edge-weight-prediction-on-bitcoin/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The bitcoin network is a <a href="https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/obtaining-sending-and-receiving-bitcoins-anonymously/">semi-anonymous platform</a> where it is rather difficult to build trust among individuals receiving or sending bitcoin payments across the blockchain. <a href="https://pdfs.semanticscholar.org/29d0/f0556502566f1615ff347b5f568bce46063a.pdf">A group of researchers from University of Maryland experimented using edge weight prediction</a> along a group of models of weighted signed networks WSNs including bitcoin&#8217;s .</p>
     <p>A Weighted signed network WSN is a network where edges, or participants, are marked with positive and/or negative weights. In other words, a WSN can monitor and record like/dislike, trust/distrust and other forms of online social relationships between individuals across the network. The paper addressed the problem of weight prediction of edges across such networks. The researchers proposed two new parameters for node behavior:</p>
     <p>1- The goodness of a node: this parameter reflects how much a node it liked and trusted by other nodes across the network.</p>

@@ -9,7 +9,7 @@ Pedo with the Biggest CP Collection Ever to be Banned from Working
     <span><a href="https://www.deepdotweb.com/2016/07/11/pedo-biggest-cp-collection-ever-banned-working/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>When Christopher Daldorph was arrested last year, the National Crime Agency said they had uncovered the biggest child porn collection they had ever seen. The last 14 years while he was working as a radiographer, Daldorph spent an estimated 14 years searching the deep web for images and videos depicting sex abuse acts on children.</p>
     <p><a href="http://www.dailystar.co.uk/news/latest-news/527837/Sick-pervert-set-to-face-lifetime-work-ban">During the search of his home in April</a>, police uncovered 1.8 terabytes of child porn. Daldorph admitted to spending on average two hours each day watching his grotesque collection. Almost all of the material had been found on the deep web, and law enforcement found over a million pictures and videos on his computers and hard drives.</p>
     <p>Admitting to the charges right away, Daldorph was jailed for two years and four months; being charged with possessing and admitting ownership of indecent images.</p>

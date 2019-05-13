@@ -9,7 +9,7 @@ Most Child Porn Are Found On Image Hosting Services
     <span><a href="https://www.deepdotweb.com/2016/05/01/child-porn-found-image-hosting-services/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a <a href="https://www.iwf.org.uk/assets/media/annual-reports/IWF%202015%20Annual%20Report%20Final%20for%20web.pdf">new report</a> from the United Kingdom based <a href="http://www.telegraph.co.uk/technology/3683295/What-is-the-Internet-Watch-Foundation.html">Internet Watch Foundation</a>, most of the child pornography material could be found <a href="http://www.vocativ.com/311726/where-child-porn-lives-online/">hidden away on image hosting websites</a>, mostly located in the United States. Vocativ made this statement in their article about the Internet Watch Foundation’s work:</p>
     <p>”The IWF, a non-profit largely funded by the European Union and online companies, including internet service providers, social networks, and trade organizations, runs a hotline for reports of suspected child porn and employs analysts that seek this stuff out. They then notify law enforcement and, at least for content hosted in the U.K., issue takedown requests.”</p>
     <p>IWF’s report shows pretty interesting metrics. For example, by the country where child porn is hosted, the USA is the first with 57 percent, then comes Europe behind with 41 percent and other countries with the remaining. This information shows that the data is actually hosted on physical servers, not necessarily where the images were created.</p>

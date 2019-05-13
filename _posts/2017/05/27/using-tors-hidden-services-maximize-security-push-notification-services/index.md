@@ -9,7 +9,7 @@ Using Tor&#8217;s Hidden Services To Maximize the Security of Push Notification 
     <span><a href="https://www.deepdotweb.com/2017/05/27/using-tors-hidden-services-maximize-security-push-notification-services/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.deepdotweb.com/2013/12/20/push-notification/">Push notification</a>, which is also referred to as server push notification, represent the process of delivery of data from a software app to a given computing device, without having to deal with any specific requests from the client.</p>
     <p>Apart from pull notifications, which involve requesting data from a given server by the client, push notifications arise from a server. As a rule, the end user chooses whether or not to receive alerts; this usually occurs during the installation process. The end user is provided with means to manage their alerts in case he/she changes their mind in the future.</p>
     <p>One of the most essential advantages of push notifications, when mobile computing is considered, lies in the fact that the technology does not need any specific software to be running on a mobile device so that a message would be received. As such, this will enable smartphones to receive and display text messages or social media notifications even if the mobile phone&#8217;s screen is locked and the social media&#8217;s application, which is pushing the notification, is not running.</p>

@@ -17,7 +17,7 @@ IT Wizard Avoids Jail after Importing Drugs from Canada Ordered From the Dark We
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Luke Goscombe, a computer wizard who was in the illegal act <a href="https://www.deepdotweb.com/2017/05/29/german-grew-mushrooms-and-ordered-cannabis-from-the-dark-web/">importing huge amounts of cannabis</a> from Canada has avoided jail, even though it appears that he supplied part of the drugs to other people.</p>
     <p>Luke, who works a Tyning Crescent in Slimbridge as an IT technical support worker, admitted to smuggling cannabis into the UK.</p>

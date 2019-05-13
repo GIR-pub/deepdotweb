@@ -18,7 +18,7 @@ Czechs Turning to Tor as Privacy Concerns Increase
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to the Czech News Agency (ČTK), citing Pravo, the number of Czechs using Tor for access to the darknet is steadily increasing. They are not using it for “<a href="http://praguemonitor.com/2017/08/25/pr%C3%A1vo-more-and-more-czechs-using-darknet-have-privacy">drugs, arms, or child porn</a>,” for the most part, Pravo published in a late August edition. Czechs are using Tor out of a growing concern for their privacy and internet footprints.</p>
     <p>IT expert Ondrej Profant explained that Czechs fear the tracking and tracing of the “traditional internet.” They use <a href="https://www.deepdotweb.com/tag/tor/">Tor</a> and the <a href="https://www.deepdotweb.com/tag/darknet/">darknet</a> to avoid leaving a digital footprint. &#8220;Facebook, for instance, is monitoring even movements of a mouse,&#8221; he said. (This happens everywhere now; a 2011 Microsoft study examined a user&#8217;s eye gaze direction on SERPs. They found a practically undetectable method of spotting where users look: a single script, smaller than 1kb, that tracked a user&#8217;s mouse cursor.)</p>

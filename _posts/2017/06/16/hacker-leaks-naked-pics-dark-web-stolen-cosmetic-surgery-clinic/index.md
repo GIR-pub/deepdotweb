@@ -9,7 +9,7 @@ Hacker leaks Naked Pics at dark web stolen from Cosmetic Surgery Clinic
     <span><a href="https://www.deepdotweb.com/2017/06/16/hacker-leaks-naked-pics-dark-web-stolen-cosmetic-surgery-clinic/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Hackers broke in Grozio Chirurgija, a cosmetic surgery clinic and stole about 25,000 private photographs including nude photographs as well as personal information.</p>
     <p><img class="aligncenter wp-image-20679" src="/imgs/2017/06/word-image-94.jpeg" alt="" width="660" height="397"/></p>
     <p>The deputy chief of Lithuania’s criminal police bureau Andzejus Raginskis told reporters about a group of hackers called Tsar Team. They broke into the servers of the Grozio Chirurgija clinic earlier this year and demanded a ransom of more than half a million dollars not to leak information of customers from Germany, Denmark, England and other European countries. But the clinic refused to pay the ransom and afterward, the hackers leaked private information and nude photographs onto the Dark Web.</p>

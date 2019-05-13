@@ -18,7 +18,7 @@ Pennsylvania Man Sentenced to 87 Months for Pill Distribution
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On August 31, U.S. District Court Judge Malachy E. Mannion sentenced 36-year-old Franklin Tejeda to 87 months in prison for his part in an international pill trafficking organization. Tejeda, according to United States Attorney Bruce D. Brandler, imported hundreds of thousands of Schedule ll and Schedule IV pills between 2014 and 2016.</p>
     <p><a href="https://www.justice.gov/usao-mdpa/pr/hazleton-man-sentenced-more-seven-years-prison-pill-distribution-conspiracy-0">The press release</a> from the United States Attorney’s Office for the Middle District of Pennsylvania revealed that Tejeda had pleaded guilty to the charges in October 2016. The Drug Enforcement Administration and United States Postal Inspection Service investigated the case as part of Pennsylvania&#8217;s “Heroin Initiative.” While the Hazleton man received no charges directly related to heroin use or distribution, the United States Attorney&#8217;s Office did charge him with importing more than six types of prescription drugs.</p>

@@ -9,7 +9,7 @@ Research: Estimating the volume and scope of tobacco trading on darknet marketpl
     <span><a href="https://www.deepdotweb.com/2019/03/02/research-estimating-the-volume-and-scope-of-tobacco-trading-on-darknet-marketplaces/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Most research studies on darknet marketplaces, or <a href="https://www.deepdotweb.com/2016/09/06/everything-always-wanted-know-drug-cryptomarkets/">cryptomarkets</a>, focus on the sales of illegal drugs. Most studies conducted during the past few years have provided minimal information on the magnitude and scope of trading of other forms of products on darknet marketplaces, including tobacco trading. <a href="https://www.tandfonline.com/doi/full/10.1080/17440572.2019.1569520?scroll=top&amp;needAccess=true">A recently published paper</a> aimed at analyzing the volume of tobacco sales taking place on cryptomarkets, and the different forms of tobacco products being offered on these marketplaces. Throughout this article, we will overview some of the interesting information provided by this paper.</p>
     <p><img class="wp-image-28494" src="/imgs/2019/03/tobacco-leaves-jpg.jpeg" alt="tobacco-leaves.jpg" srcset="/imgs/2019/03/tobacco-leaves-jpg.jpeg 1430w, /imgs/2019/03/tobacco-leaves-jpg-300x211.jpeg 300w, /imgs/2019/03/tobacco-leaves-jpg-1024x721.jpeg 1024w" sizes="(max-width: 1430px) 100vw, 1430px" /></p>
     <p><strong>Collection and description of data related to tobacco trafficking on cryptomarkets:</strong></p>

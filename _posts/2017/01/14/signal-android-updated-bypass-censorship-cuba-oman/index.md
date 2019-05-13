@@ -9,7 +9,7 @@ Signal for Android Updated to Bypass Censorship in Cuba and Oman
     <span><a href="https://www.deepdotweb.com/2017/01/14/signal-android-updated-bypass-censorship-cuba-oman/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Open Whisper Systems (OWS), the group behind the Signal, encrypted messaging app endorsed by Edward Snowden, updated their Android app to circumvent censorship in Cuba and Oman. The circumvention of such Internet blocking is not a new concept—engineers built Tor for the same reasons. Likewise, this is nothing new for OWS either. In Mid-December, they executed a similar method of circumvention for users in Egypt and the United Arab Emirates.</p>
     <p>The organization published a blog post titled “<a href="https://whispersystems.org/blog/doodles-stickers-censorship/">Doodles, stickers, and censorship circumvention for Signal Android</a>.” After the stickers and doodles mention, the post described the situation in Egypt and the United Arab Emirates. According to Signal users, OWS explained, Signal’s connection—or lack of connection—decreased the usability to a significant degree. After an investigation, the group discovered that ISPs blocked connections between Signal and the internet.</p>
     <p><img class="wp-image-17496 aligncenter" src="/imgs/2017/01/word-image-5.jpeg" width="1010" height="515" srcset="/imgs/2017/01/word-image-5.jpeg 1431w, /imgs/2017/01/word-image-5-300x153.jpeg 300w, /imgs/2017/01/word-image-5-1024x522.jpeg 1024w" sizes="(max-width: 1010px) 100vw, 1010px" /> From the blog post regarding the Egypt and UAE fixes:</p>

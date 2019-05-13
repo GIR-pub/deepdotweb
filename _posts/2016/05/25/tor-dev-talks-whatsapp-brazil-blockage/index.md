@@ -9,7 +9,7 @@ Tor Dev. Talks About WhatsApp Brazil Blockage
     <span><a href="https://www.deepdotweb.com/2016/05/25/tor-dev-talks-whatsapp-brazil-blockage/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Acording to the <a href="https://blog.torproject.org/blog/tracking-impact-whatsapp-blockage-tor">post on the Tor blog by Isabela</a>, on May 2 2016, a Brazilian judge ordered all cell phone carries to block access to WhatsApp messaging service for 72 hours. This applied tot he whole nation of Brazil, or around 100 million WhatsApp users. Internet censorship events happen all the time. Most accur in countries like Brazil. Places with oppressive governments like Egypt and Saudi Arabia.</p>
     <p>With observation of certian data points, we can determine whether or not our tools are capable of going around these blackages. Tor has a set of tools that can help study, and learn the answers. They can not only help determine if the censorship is happening, but also how it was done by the party cencoring, and they help see if people are using Tors tools to bypass the blockage.</p>
     <p>The OONI, or, Open Observation of Network Interference is a Tor based project thats main focus is detecting these censorships, along with detecting surveillance, and traffic manipulation on the internet. Regarding the recent WhatsApp censorship, OONI published a report telling how the Brazilian mobile carriers blacked out WhatsApp for the 72 hours through DNS hijacking.</p>

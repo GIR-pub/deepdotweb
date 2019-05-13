@@ -9,7 +9,7 @@ One of Two Dark Web Drug Dealers Arrested Is a Freelance Journalist
     <span><a href="https://www.deepdotweb.com/2017/11/18/one-two-dark-web-drug-dealers-arrested-freelance-journalist/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In wake of the arrest of two people in Delhi, who were dealing drugs ordered from the darknet, reports emerging from that case also revealed that one of the culprits is a freelance journalist.</p>
     <p>Mahesh Goyal was researching the malpractices associated with the same crime he got involved with. He crossed paths with the suppliers and then went straight into business with them.</p>
     <p>Mahesh Goyal was arrested together with an accomplice who works as a Disco Jockey for supplying ecstasy and MDMA for the youth at rave parties.</p>

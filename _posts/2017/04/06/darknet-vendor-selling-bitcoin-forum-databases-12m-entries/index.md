@@ -9,7 +9,7 @@ Darknet Vendor Selling Bitcoin Forum Databases With 12m Entries
     <span><a href="https://www.deepdotweb.com/2017/04/06/darknet-vendor-selling-bitcoin-forum-databases-12m-entries/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>DoubleFlag, a vendor on TheRealDeal darknet marketplace, recently posted a listing that caught even darknetmarket regulars by surprise. For $400, <a href="https://www.hackread.com/millions-of-accounts-from-hacked-bitcoin-on-dark-web/">anyone with the technical know-how can own databases from Bitcoin discussion forums</a> with a grand goal of 12,000,000 user entries. Some of the most well known forums now have their user data listed on the darknet.</p>
     <p>The entity, whether a hacker, a broker, or simply a vendor, is not unknown. For the sake of fluidity, DoubleFlag is a vending entity—as far as this article goes. Many of the massive database listings over the last year came from DoubleFlag. <a href="https://www.deepdotweb.com/2016/09/21/nearly-400000-utorrent-accounts-for-sale-on-therealdeal-market/">The vendor listed the infamous uTorrent database</a> that sparkled controversy between uTorrent staff and users. The sale published close to 400,000 accounts for $600.</p>
     <p><img class="wp-image-19043 aligncenter" src="/imgs/2017/04/word-image-9.png" srcset="/imgs/2017/04/word-image-9.png 768w, /imgs/2017/04/word-image-9-300x124.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>

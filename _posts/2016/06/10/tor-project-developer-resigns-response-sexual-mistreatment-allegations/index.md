@@ -9,7 +9,7 @@ Tor Project Developer Resigns In Response To Sexual Mistreatment Allegations
     <span><a href="https://www.deepdotweb.com/2016/06/10/tor-project-developer-resigns-response-sexual-mistreatment-allegations/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Jacob Appelbaum, one of the most well known developers of the Tor Project, <a href="http://techcrunch.com/2016/06/04/tor-project-developer-steps-down-amid-sexual-mistreatment-allegations/">stepped down</a> due to “public allegations of sexual mistreatment.” The Tor Project only released a brief one-sentence-statement on Thursday about the case, however, they went into further details as they heard that rumors were spreading around in the online community about sexual assault.</p>
     <p>Appelbaum did the security research at the Tor Project, however, he is also a journalist who worked on topics, such as WikiLeaks and the Edward Snowden disclosures. <a href="http://www.rollingstone.com/culture/news/meet-the-american-hacker-behind-wikileaks-20101201?page=5">Rolling Stone</a> called him the “public face of the Tor Project” in a 2010 profile, which detailed his involvement with Tor and WikiLeaks. Before joining the Tor Project, Appelbaum worked on the security for Greenpeace and the Rainforest Action Network.</p>
     <p>According to Tor Project executive director Shari Steele, Appelbaum had been followed by allegations of sexual assault for quite some time:</p>

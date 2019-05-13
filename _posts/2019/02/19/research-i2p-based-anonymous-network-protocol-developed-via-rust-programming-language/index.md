@@ -9,7 +9,7 @@ Research: I2P based anonymous network protocol developed via Rust programming la
     <span><a href="https://www.deepdotweb.com/2019/02/19/research-i2p-based-anonymous-network-protocol-developed-via-rust-programming-language/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>With more and more people concerned about their online privacy, anonymous network protocols have been advancing at an amazing rate. However, the levels of privacy of data transmission on public networks still represent the weakest link in the chain of information security. Presently, popular network encryption tools, such as VPNs, utilize a single link network framework. Whenever a node fails within a single link framework, encryption is compromised, even if user&#8217;s anonymity is preserved.</p>
     <p>The onion routing anonymous network protocols deploy transmission and reception of data across the same network. <a href="https://www.deepdotweb.com/2018/11/25/i2p-network-current-status-and-censorship-resistance-a-research-paper/">The Invisible Internet Project (I2P)</a> implements a decentralized, multi-link framework that utilizes the distributed hash list (DHL) for encryption key infrastructure and Kademlia as the data transport algorithm, which can guarantee the privacy of transmitted data across the public network.</p>
     <p><a href="http://cdmd.cnki.com.cn/Article/CDMD-10511-1018239124.htm">A recently published research paper</a> introduces a novel I2P based anonymous network communication protocol programmed via the Rust language. Throughout this article, we will take a look at this novel distributed network protocol.</p>

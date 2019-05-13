@@ -17,7 +17,7 @@ A Brief Comparison of Secure Messaging Apps
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>We are in a period of time where personal security is of rising concern. No longer is data protection only essential to network admins in corporations and government entities, but it’s becoming something that even people who haven’t even heard of the deepweb are becoming conscious of. Because of this, companies are starting to release tools and software to make data security easier for the layman. Three of some of the most popular tools take the form of mobile apps and I’ll be discussing the pros and cons of these in this article. Two of the tools take the form of mobile messaging applications and the third doesn’t quite fall under the same category: it’s a secure email client that has mobile access.</p>
     <p><strong>Wickr</strong></p>

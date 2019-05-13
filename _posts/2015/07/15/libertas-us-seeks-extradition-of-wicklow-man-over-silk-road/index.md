@@ -9,7 +9,7 @@ Libertas: US seeks extradition of Wicklow man over ‘Silk Road’
     <span><a href="https://www.deepdotweb.com/2015/07/15/libertas-us-seeks-extradition-of-wicklow-man-over-silk-road/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <div class="wp-socializer-buttons clearfix">
     <span class="wpsr-btn">
     

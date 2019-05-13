@@ -9,7 +9,7 @@ German Standing Trial For Planning To Run A Child Prostitution Ring In Thailand
     <span><a href="https://www.deepdotweb.com/2017/06/08/german-standing-trial-for-planning/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 23-year-old man was <a href="http://www.swp.de/reutlingen/lokales/reutlingen_und_umgebung/alles-nur-erregende-sexuelle-fantasien_-15014476.html">standing trial</a> for serious child abuse-related charges in Reutlingen, Germany.</p>
     <p>Since there were multiple serious charges against the accused person, he could only comment on the case on the 11th day of the trial. The 23-year-old was charged with <a href="https://www.deepdotweb.com/2017/05/05/father-man-abused-child-uploaded-video-dark-web/">sexual abuse</a> of children and adolescents, spreading of <a href="https://www.deepdotweb.com/2017/05/12/federal-prison-inmates-downloaded-child-porn-cloud/">child pornography</a>, as well as the planned establishment of a child prostitution ring by a business partner in Thailand, and the planned <a href="https://www.deepdotweb.com/2017/05/16/victim-rescued-brazils-first-bitcoin-ransom-kidnapping-plot/">kidnapping</a> and rape of a child, including possible “disposal” in Germany.</p>
     <p>The 23-year-old was arrested by law enforcement authorities at the end of August, last year. Even after the suspect was placed into custody, the investigation was still running. For instance, investigators were still examining the message and chat history of the defendant.</p>

@@ -9,7 +9,7 @@ What is Augur? (A Search Engine for the Future)
     <span><a href="https://www.deepdotweb.com/2017/05/03/augur-search-engine-future/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://augur.net/">Augur</a> is a decentralized prediction market platform built on the Ethereum network. Although this may not sound very exciting at first, it actually is. The platform brings together old and new concepts and technologies to create a useful tool for some and a revenue stream for others.</p>
     <p>The concept of a <a href="https://en.wikipedia.org/wiki/Prediction_market">prediction market</a> isn’t new. The idea is to speculate on future events (think of sports betting but for everything else) in a market where supply and demand create the odds and market prices indicate what the crowd thinks the probability outcome will be for x or y.</p>
     <p>As so, prediction markets allow people to “gamble” or “invest” in outcomes of certain events, but they also allow participants to know the probability of a certain event or outcome taking place. This concept is known as the <a href="https://en.wikipedia.org/wiki/Wisdom_of_the_crowd">wisdom of the crowd</a>, a theory that states that if you ask a large number of people something, their collective answer is often better than the answer given by an expert.</p>

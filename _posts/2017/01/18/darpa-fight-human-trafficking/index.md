@@ -9,7 +9,7 @@ DARPA To Fight Against Human Trafficking
     <span><a href="https://www.deepdotweb.com/2017/01/18/darpa-fight-human-trafficking/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On December 28, President of the United States Barack Obama announced that January would be the National Slavery and Human Trafficking Prevention Month. As part of this program, the Defense Advanced Research Projects Agency (DARPA) will be <a href="http://satprnews.com/2017/01/04/darpa-program-helps-to-fight-human-trafficking/">developing</a> next-gen search technologies. This new tech will help law enforcement authorities track down the online violators of the crimes.</p>
     <p>In a recent Department of Defense news interview, Wade Shen, a program manager in DARPA’s Information Innovation Office, said the program, “Memex”, is designed to assist police and other authorities in online investigations against human traffickers.</p>
     <p>“Our goal is to understand the footprint of <a href="https://www.deepdotweb.com/?s=human+trafficking">human trafficking</a> in online spaces, whether that be the dark web or the open web,” Shen explained. “The term dark web is used to refer to the fact that crimes can be committed in those spaces because they’re anonymous and therefore, people can make use of [them] for nefarious activities.”</p>

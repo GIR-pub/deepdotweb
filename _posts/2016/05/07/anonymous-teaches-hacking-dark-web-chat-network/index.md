@@ -9,7 +9,7 @@ Anonymous Teaches Hacking On Dark Web Chat Network
     <span><a href="https://www.deepdotweb.com/2016/05/07/anonymous-teaches-hacking-dark-web-chat-network/#comments">103 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On April 24 night, 250 people all around the world were logging into OnionIRC, a hidden internet relay chat network on the dark web, through their Tor browsers. The members of the chat were not there to buy drugs or exchange child pornography material. No, they joined the secure chat room to learn hacking, <a href="http://www.ibtimes.com/school-hacking-inside-dark-web-virtual-classroom-where-anonymous-wants-become-great-2360403">taught by Anonymous hacktivists</a>, such as ”Athena” who made this statement when the course started:</p>
     <p>“This course will cover many topics, all relevant to privacy, security, and anonymity.”</p>
     <p>Athena and another fellow instructor, “Tyche,” gave detailed instructions on how to use the Tor browser, encrypt a hard drive and discuss the pros and cons of using a VPN. When the lesson was about over, they answered the questions of the students and promised them that their next lesson will much more ”fun”.</p>

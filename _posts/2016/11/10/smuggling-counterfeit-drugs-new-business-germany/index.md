@@ -9,7 +9,7 @@ Smuggling Counterfeit Drugs Is The New Business In Germany
     <span><a href="https://www.deepdotweb.com/2016/11/10/smuggling-counterfeit-drugs-new-business-germany/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a <a href="https://www.welt.de/vermischtes/article159212206/Arzneimittel-sind-das-neue-Kokain.html">report</a> by welt.de, organized criminals cut huge profits by smuggling counterfeit drugs into Germany.</p>
     <p>Unlike “traditional drugs”, counterfeit pills are quite easy to smuggle and can be sold for high prices, the report says. However, German authorities are allegedly planning a two-step action to create a barrier for this new trade.</p>
     <p>Currently, a criminal gang is standing before Potsdam Court for smuggling counterfeit drugs from Asia to Germany. Court heard that the suspects earned about 21 million Euros during a three-year period. The case has been going on for almost two years since the network the gang created is elaborate. They used highly trained smugglers and created fake companies worldwide. The criminals set up about 1,000 internet based webshops where they advertised their fake products. Luckily for the customers, most of the pills did not contain any active ingredients.</p>

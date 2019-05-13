@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/08/07/7-8-17-dark-web-cybercrime-roundup/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><strong>MalwareTech Arrested for Creating the Kronos Banking Trojan</strong></p>
     <p>One of the more controversial topics of the week involved Marcus Hutchins, the malware researcher who <a href="https://www.deepdotweb.com/2017/06/05/uk-absolutely-focused-hunting-wannacry-hackers/">accidentally slowed the WannaCry ransomware outbreak</a> by finding and purchasing a domain that served as a “kill switch.” The discovery slowed the outbreak enough that some countries were able to apply critical OS patches, resulting in the researcher’s “accidental hero” status. However, the most recent news painted the the 23-year-old in a new light.</p>
     <p><img class="wp-image-21832" src="/imgs/2017/08/screenshot_20170807_092051-png.png" alt="Screenshot_20170807_092051.png" srcset="/imgs/2017/08/screenshot_20170807_092051-png.png 700w, /imgs/2017/08/screenshot_20170807_092051-png-300x205.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>

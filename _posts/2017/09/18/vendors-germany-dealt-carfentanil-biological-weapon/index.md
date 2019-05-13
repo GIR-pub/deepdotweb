@@ -17,7 +17,7 @@ Vendors in Germany Dealt with Carfentanil and a Biological Weapon
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>At an unspecified date in “mid 2017,” the Federal Criminal Police Office (BKA) identified a so-called “group of darknet dealers” and needed the assistance of a special unit of the Köln (Cologne) public prosecutor’s office. They called upon the Central Contact Point for Cybercrime in North Rhine-Westphalia (ZAC NRW). The suspected darknet dealers gave investigators a case with what law enforcement believed to be an increased risk. The vendors not only sold drugs, but also dealt with a biological weapon and a highly toxic chemical used in drug synthesis and as a weapon throughout history.</p>
     <p><img class="wp-image-22605 aligncenter" src="/imgs/2017/09/zac-rust5-jpg.jpeg" alt="zac-rust5.jpg" srcset="/imgs/2017/09/zac-rust5-jpg.jpeg 600w, /imgs/2017/09/zac-rust5-jpg-300x206.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>

@@ -9,7 +9,7 @@ QuickNet &#8211; A Faster, More Efficient Deep Web Network Architecture
     <span><a href="https://www.deepdotweb.com/2017/01/31/quicknet-faster-efficient-deep-web-network-architecture/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://arxiv.org/abs/1701.02291">QuickNet</a> is a novel deep network architecture that is faster and more efficient than the current &#8220;fast&#8221; deep web network architectures such as SqueezeNet. QuickNet utilizes fewer parameters when compared to previous network architectures. This has been made possible via implementing a couple of pivotal modifications to <a href="https://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_below_the_surface.pdf">the reference &#8220;Darknet&#8221; network architecture model</a>:</p>
     <p>a- Using depth-wise separable convolutions.</p>
     <p>b- Using parametric rectified linear units.</p>

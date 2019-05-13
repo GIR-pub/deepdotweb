@@ -9,7 +9,7 @@ Italy Finishes 27 More Italian Darknet Community Raids
     <span><a href="https://www.deepdotweb.com/2017/07/17/italy-finishes-27-italian-darknet-community-raids/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>On the morning of June 29, 2017, <a href="http://questure.poliziadistato.it/it/Lecco/articolo/126259564cf2c7438856120415">Italian police raided 27 homes</a> throughout 27 provinces. The raids resulted in nine arrests, although only one of the suspects, as of July 1, was identified as a darknet drug vendor. This operation was part two of an investigation into the users of the former <a href="https://www.deepdotweb.com/marketplace-directory/listing/italian-darknet-community/">Italian Darknet Community</a>.<img class="wp-image-21384" src="/imgs/2017/07/word-image-79.jpeg" srcset="/imgs/2017/07/word-image-79.jpeg 660w, /imgs/2017/07/word-image-79-300x136.jpeg 300w, /imgs/2017/07/word-image-79-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px"/></p>
     <p>The State Police of Rome and the Lecco Mobile Squad found a 19-year-old from Paterno, a province of Potenza. He had marijuana and hashish in his home. Additionally, he operated a grow operation. The teenager had eight guests, all young. They had an an unknown quantity of ”synthetic drugs.”</p>
     <p><img class="wp-image-21385" src="/imgs/2017/07/word-image-80.jpeg" srcset="/imgs/2017/07/word-image-80.jpeg 800w, /imgs/2017/07/word-image-80-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px"/></p>

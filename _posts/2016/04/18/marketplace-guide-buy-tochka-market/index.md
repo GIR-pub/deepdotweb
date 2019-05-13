@@ -9,7 +9,7 @@ Marketplace Guide: How to Buy From Tochka Market?
     <span><a href="https://www.deepdotweb.com/2016/04/18/marketplace-guide-buy-tochka-market/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The following tutorial was provided by Tochka market admins to be published on DeepDotWeb (with minor modifications):</p>
     <p>Gentlemen,please read this guide on how to operate on Tochka. This guide will help you purchase things on Tochka. It&#8217;s very important that you have read and understood every step. It&#8217;s real easy! :) The Listing for Tochka as well as its official onion link are placed <a href="http://www.deepdotweb.com/marketplace-directory/listing/t%E2%80%A2chka-free-market/">here</a> , here is <a href="https://www.deepdotweb.com/2016/03/17/interview-tochka-market-admin/">an interview with Tochka market admin</a>.</p>
     <p><strong>PREPARATION</strong></p>

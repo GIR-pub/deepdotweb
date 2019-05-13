@@ -17,7 +17,7 @@ Officers In Bengaluru Report 100% Increase in Drug Crimes From 2015
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>In Bengaluru, India, police officers reported a 100 percent increase in the number of narcotic-related arrests during 2016, compared to the arrest numbers from 2015. In 2016, officers arrested 289 individuals, both buyers and sellers. In stark contrast, officers only busted 141 people in 2015. The type of drug remained the same—from marijuana to LSD.</p>
     <p>Police attributed the increase to the growing need for illegal narcotics, as well as the ease of access. They said that an increased market for party drugs developed for several reasons. (Note: the report classified LSD as a party drug, potentially skewing figures). Many dealers or “peddlers” sold through social networks and, similarly, more people of the partying age started using social networks. “Bengaluru is infamous for LSD blots. This year, five Indians were arrested for dealing with party drugs. Most of the business is done through the darknet or social networking sites,” an officer explained. “The drugs are smuggled into the city by road from Mumbai, Goa, and Mangaluru,” he added.</p>

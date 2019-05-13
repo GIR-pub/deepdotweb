@@ -9,7 +9,7 @@ Zimbabwean Economists Consider Adopting Bitcoin as National Currency
     <span><a href="https://www.deepdotweb.com/2016/12/16/zimbabwean-economists-consider-adopting-bitcoin-as-national-currency/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Zimbabwean economists including Phillip Haslam believe <a href="https://www.deepdotweb.com/2016/11/28/uk-regulator-partners-epiphyte-test-bitcoin-remittances/">bitcoin</a> is a viable alternative to the foreign currencies in circulation in the country as it brings several immediate advantages to Zimbabwe.</p>
     <p>In an interview with the <a href="https://www.issafrica.org/iss-today/think-again-can-the-rand-rescue-zimbabwes-economy">Institute For Security Studies </a>(ISS), Haslam emphasized two important advantages and aspects of bitcoin which could allow Zimbabweans to adopt bitcoin without further sacrifices and risks:</p>
     <ol>

@@ -9,7 +9,7 @@ US Voter Registration Records For Sale On Dark Net Market
     <span><a href="https://www.deepdotweb.com/2016/07/22/us-voter-registration-records-sale-dark-net-market/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A vendor who goes by the name “DataDirect” is selling the entire US voter registration record on The Real Deal Market (a marketplace on the dark net). The hacker claims he has records for 50 states and he sells them for 0.5 BTC (around $340) per state. The listing’s description goes by:</p>
     <p>“US voter registration records. Selling the DB on a State-by-State basis. 0.5 BTC per state (you must tell me which State you want. Some people think it’s unfair to make each State cost the same amount because some States are much bigger than others. I think it’s just easier this way.”</p>
     <p>This is not the first time when voter data has been leaked online. In December 2015, security researcher Chris Vickery found 191 million of US voter registrations records on the internet in an unprotected folder. It is unclear though, whether DataDirect downloaded the records from that folder or hacked government servers. According to Vickery, in December, there was a lack of interest shown by the law enforcement authorities in recovering the data or taking the database off from public view:</p>

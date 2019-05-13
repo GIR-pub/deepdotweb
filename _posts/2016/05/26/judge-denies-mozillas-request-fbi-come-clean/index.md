@@ -9,7 +9,7 @@ Judge Denies Mozilla’s Request For FBI To Come Clean
     <span><a href="https://www.deepdotweb.com/2016/05/26/judge-denies-mozillas-request-fbi-come-clean/#comments">5 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Mozilla’s bid to disclose its vulnerability was rejected by a US judge. US district court judge Robert Bryan in Tacoma, Washington. Before Mozilla requested anything, Bryan told prosecutors to give information on the flaw in the Tor browser the FBI used to track Michaud’s whereabouts. The Justice Department asked Bryan to reconsider, saying it was due to a national security risk, but the judge said last Thursday that prosecutors didn’t have to.</p>
     <p><a href="http://www.itpro.co.uk/security/26534/mozilla-s-bid-for-tor-hack-used-in-child-porn-case-rejected">Mozilla sent a request</a> to the judge for the information so they could shut down the vulnerability which they say is a security risk to Firefox users.</p>
     <p>“It appears that Mozilla’s concerns should be addressed to the United States,” Bryan said.</p>

@@ -9,7 +9,7 @@ Bitcoin news roundup, June 11, 2017
     <span><a href="https://www.deepdotweb.com/2017/06/11/bitcoin-news-roundup-june-11-2017/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>A CNBC commentator claims Bitcoin could reach $1 million thanks to ransomware</strong></p>

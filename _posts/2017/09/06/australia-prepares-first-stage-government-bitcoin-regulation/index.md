@@ -9,7 +9,7 @@ Australia Prepares for the First Stage of Government Bitcoin Regulation
     <span><a href="https://www.deepdotweb.com/2017/09/06/australia-prepares-first-stage-government-bitcoin-regulation/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="https://www.ft.com/content/4cd5cc3c-8309-11e7-a4ce-15b2513cb3ff">According to the Financial Times</a>, Australian authorities announced legislation that will massively alter the course of cryptocurrency in the country. The legislation places “digital currency” exchanges under the legal jurisdiction of Australia&#8217;s Transaction Reports and Analysis Centre (Austrac). Austrac is Australia&#8217;s financial crime branch of government, and as such, will be investigating crimes committed with cryptocurrency.</p>
     <p>Unsurprisingly, the Australian Minister for Justice, Malcolm Keenan, pushed the movement. At some point during August 2016, Keenan announced an Austrac restructuring that freed up space for a “cybercrime” department. He said that the country needed a closer eye directed towards cryptocurrency crimes for the “unprecedented national security threats” they created.</p>
     <p><img class="wp-image-22408" src="/imgs/2017/09/screenshot_20170825_021325-png-1.png" alt="Screenshot_20170825_021325.png" srcset="/imgs/2017/09/screenshot_20170825_021325-png-1.png 881w, /imgs/2017/09/screenshot_20170825_021325-png-1-300x168.png 300w" sizes="(max-width: 881px) 100vw, 881px" /></p>

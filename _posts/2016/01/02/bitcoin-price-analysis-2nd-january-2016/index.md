@@ -9,7 +9,7 @@ Bitcoin Price Analysis 2nd January 2016
     <span><a href="https://www.deepdotweb.com/2016/01/02/bitcoin-price-analysis-2nd-january-2016/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="/imgs/2016/01/image001.jpg"><img class="aligncenter size-full wp-image-12823" src="/imgs/2016/01/image001.jpg" alt="image001" width="697" height="403" srcset="/imgs/2016/01/image001.jpg 697w, /imgs/2016/01/image001-300x173.jpg 300w" sizes="(max-width: 697px) 100vw, 697px"/></a></p>
     <p>This week, bitcoin price was down from a high of $ 467 in last week’s analysis. The bear drop from a peak at $ 476 over Christmas, is part of a weak reversal from $ 300 that a failed to recapture $ 500 highs. This week’s drop exhibits patterns of consolidation and sideways action, before a break out. As of writing this, price is at $ 433</p>
     <p><a href="/imgs/2016/01/image002.jpg"><img class="aligncenter size-full wp-image-12824" src="/imgs/2016/01/image002.jpg" alt="image002" width="697" height="308" srcset="/imgs/2016/01/image002.jpg 697w, /imgs/2016/01/image002-300x133.jpg 300w" sizes="(max-width: 697px) 100vw, 697px"/></a></p>

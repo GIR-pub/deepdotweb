@@ -9,7 +9,7 @@ What’s the Future of Ethereum?
     <span><a href="https://www.deepdotweb.com/2017/06/22/whats-future-ethereum/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>As of June 5, Ethereum traded higher than Bitcoin on the market and looks set for more gains. Ether, the Ethereum token, catapulted from $8.24 January 1 to $203.30 a month ago, a 2,367 percent gain. Since then Ethereum ratcheted a mighty $212 in late May, and surged to $250.41 two days ago, with a slight drop to $246.62, Monday morning. With Russian President Vladimir Putin meeting with Ethereum inventor Vitalik Buterin to discuss applications of the technology in his country, analysts see an ether on the rise.</p>
     <p><strong>Reasons for Ethereum Success</strong></p>
     <p>Right now, most of the world, Asia leading, is mad for cryptocurrency with growing global economic uncertainty, and many investors looking for unconventional means of investments to shelter their money.</p>

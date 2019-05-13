@@ -17,7 +17,7 @@ Canadian Man Had Access To 967 Child Porn Files
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Jonathan Bettez, a 36-year-old Canadian man was arrested for possessing child pornography. According to police information, the man had access to <a href="http://www.tvanouvelles.ca/2016/12/09/bettez-aurait-visionne-des-agressions-sexuelles-denfants-sur-internet">967 child porn files</a> containing images and videos from children aged 3 months to 12 years who were being assaulted sexually.</p>
     <p>Law enforcement authorities searched for the <a href="https://www.deepdotweb.com/?s=child+porn">child porn</a> data and in a police database and compared the files found on the man’s computer, however, they did not find anything illegal on the device at first. On April 29, a judge allowed authorities to secretly make mirror copies of Bettez’s computer, although, the action was unsuccessful. On July 18, the Canadians made another attempt, they knocked on the 36-year-old’s door and searched his home, they found two tower PCs, however, the hard disks were all empty.</p>

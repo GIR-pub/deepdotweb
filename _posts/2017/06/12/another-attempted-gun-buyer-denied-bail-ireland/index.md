@@ -9,7 +9,7 @@ Another Attempted Gun Buyer Denied Bail in Ireland
     <span><a href="https://www.deepdotweb.com/2017/06/12/another-attempted-gun-buyer-denied-bail-ireland/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Between December 2016 and January 2017, the Police Service of Northern Ireland (PSNI) <a href="https://www.deepdotweb.com/2017/01/19/three-irishmen-jailed-dark-web-drug-trading-use-cash-vital-crackdown/">arrested six men</a> (<a href="https://www.deepdotweb.com/2016/12/03/irish-darknet-drug-dealers-reassured-receiving-long-sentence-january/">two cases</a>) in an operation against gangland activity “fueled by the darknet.” Darren Bennett was one of the men law enforcement investigated for illegal firearm transactions. And because of the implications associated with illegal firearm deals, a High Court judge ruled that Bennett must remain in custody to keep the Carrickfergus gang feuds from reigniting.</p>
     <p>Darren Bennett, prosecutors claimed, attempted to purchase a Glock pistol and ammunition from an entity on the darknet. They explained that the 22-year-old arranged for a transaction in Belfast through “<a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">underground sites</a> accessible by only the darknet.” Previously, <a href="https://www.deepdotweb.com/2017/03/25/attorney-ireland-links-dnms-ongoing-gang-war/">Bennett​ expected a release</a>, but the Court clearly planned otherwise.</p>
     <p><img class="wp-image-20579 aligncenter" src="/imgs/2017/06/word-image-57.jpeg" srcset="/imgs/2017/06/word-image-57.jpeg 800w, /imgs/2017/06/word-image-57-300x165.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px"/></p>

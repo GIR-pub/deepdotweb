@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/02/05/19-year-old-german-addict-ordered-narcotics-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 19-year-old from Waakirchen, Germany was <a href="https://tegernseerstimme.de/drogen-thriller-in-waakirchen/235071.html">sentenced</a> to one week in prison and to four <a href="https://www.deepdotweb.com/tag/drugs/">drug</a> screenings for ordering <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> from the dark net.</p>
     <p><img class="wp-image-17992 aligncenter" src="/imgs/2017/02/https-tegernseerstimme-de-files-2017-01-drogen-i.jpeg" alt="" srcset="/imgs/2017/02/https-tegernseerstimme-de-files-2017-01-drogen-i.jpeg 740w, /imgs/2017/02/https-tegernseerstimme-de-files-2017-01-drogen-i-300x202.jpeg 300w, /imgs/2017/02/https-tegernseerstimme-de-files-2017-01-drogen-i-290x195.jpeg 290w" sizes="(max-width: 740px) 100vw, 740px"/></p>
     <p>The accused stood before court on January 18. The charges against him included drug trafficking and money laundering. However, the 19-year-old had his own version ready.</p>

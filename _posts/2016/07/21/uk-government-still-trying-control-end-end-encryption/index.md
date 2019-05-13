@@ -9,7 +9,7 @@ UK Government Still Trying to Control End to End Encryption
     <span><a href="https://www.deepdotweb.com/2016/07/21/uk-government-still-trying-control-end-end-encryption/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The UK government recently asked communication service providers to lift, or disable end to end encryption so that they have the ability to eavesdrop on online conversations.</p>
     <p><a href="http://www.theinquirer.net/inquirer/news/2464928/snoopers-charter-government-still-intent-on-control-over-end-to-end-internet-encryption">It seems that the concept of encryption</a> has been lost on the politicians and the government as they are still demanding backdoors to be put into services and products. During the late night House of Lords’ committee stage debate, the request was made on the Investigatory Powers Bill by Earl Howe. Howe is the governments deputy leader in the House of Lords, as well as the Minister of State for Defense. It was assured however, that there will be nothing to worry about as this will come with many “strong controls and safeguards,”.</p>
     <p>“Law enforcement and the intelligence agencies must retain the ability to require telecoms operators to remove encryption in limited circumstances, subject to strong controls and safeguards, to address the increasing technical sophistication of those who would seek to do us harm,” Howe remarked.</p>

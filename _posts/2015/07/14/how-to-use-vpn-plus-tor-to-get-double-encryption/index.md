@@ -9,7 +9,7 @@ How To Use VPN Plus Tor To Get Double Encryption?
     <span><a href="https://www.deepdotweb.com/2015/07/14/how-to-use-vpn-plus-tor-to-get-double-encryption/#comments">33 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><em>Guest post by <a href="https://privatoria.net/">privatoria.net:</a></em></p>
     <p>Tor is a great solution for people looking for on-line privacy and anonymity. Keeping all the positive sides of Tor in a mind one also has to take its vulnerabilities into account as well. Among those are incompatibility with P2P downloads and variable connection speed (it all depends on the exact Tor node you connect to every time). There is a solution to stay with Tor and forget about all of its weak points. In this article we showcase how to use popular Tor technology with good old VPN technology.</p>
     <p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&#8211;&gt; Click here to see the best VPN&#8217;s for privacy &lt;&#8211;</a></p>

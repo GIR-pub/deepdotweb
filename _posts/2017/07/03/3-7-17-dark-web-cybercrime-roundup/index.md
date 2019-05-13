@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/07/03/3-7-17-dark-web-cybercrime-roundup/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><img class="wp-image-21045" src="/imgs/2017/07/word-image.jpeg" srcset="/imgs/2017/07/word-image.jpeg 660w, /imgs/2017/07/word-image-300x136.jpeg 300w, /imgs/2017/07/word-image-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p><strong>US Fentanyl Vendor Gets Busted On Handwriting</strong></p>
     <p>Federal agencies brought down a pair of <a href="https://www.deepdotweb.com/tag/fentanyl">fentanyl vendors</a> from Ohio with oddly unnecessary tactics. Federal agents bought fentanyl from darknet vendors. They then profiled the packs and and found the couple&#8217;s most frequented Post Office. Through “surveys,” they connected one of the defendants, James Halpin, to the case. Agents then intercepted an inbound package that contained fentanyl and carfentanil. The address belonged to the second vendor, Grace Bosworth. Investigators pulled Grace Bosworth and Brian Bosworth’s dissolution of marriage (divorce) filing and matched her signatures to the handwriting on the outgoing packages. Busted. <a href="https://www.deepdotweb.com/2017/06/29/us-fentanyl-vendor-gets-busted-handwriting/">DeepDotWeb</a></p>

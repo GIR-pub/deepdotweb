@@ -17,7 +17,7 @@ Police Studied IDC Financial Crime for Years
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>On April 28, Italian news outlets published a breaking story that spread rapidly. Authorities in Lecco, Italy, <a href="http://www.poliziadistato.it/articolo/155902ff2039c1b311359547">announced a pivotal moment in an undercover operation</a> into an entire dark web forum. The forum, Italian Darknet Community (IDC), functioned as both a forum and marketplace—and given that it appeared on many darknet marketplace lists, many knew IDC as only a darknet marketplace.</p>
     <p>On that date, the Police of Lecco and Central Operational Service held a live press conference wherein they spoke of the details of the aforementioned pivotal moment. The press conference covered a 15-month darknet investigation by law enforcement in Italy. In January, 2016, officials explained, special groups of investigators infiltrated the IDC. The use of undercover tactics, they explained, lead to several small arrests throughout the course of the investigation but the so-called “little fish” were not the target.</p>

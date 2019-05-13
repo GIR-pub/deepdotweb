@@ -9,7 +9,7 @@ Small and medium-sized businesses are for Bitcoin. What are the benefits?
     <span><a href="https://www.deepdotweb.com/2016/04/05/small-medium-sized-businesses-bitcoin-benefits/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Bitcoin is still an attractive sphere for investment, despite the fact that financiers and developers switched their attention to the blockchain. In the last year alone, venture capital investments in cryptocurrency start-ups reached a record level.</p>
     <p><img class="aligncenter size-full wp-image-2259" src="https://bitcoincasinos.reviews/wp-content/uploads/2016/04/770x436_Tatar_eng.png" alt="770x436_Tatar_eng" width="770" height="436"/></p>
     <p>The sphere of cryptocurrency is interesting primarily for small and medium-sized investors, not global corporations. According to the head of the London Ledger Partners Jeremy Miller, up to 90% of the Bitcoin capitalization falls on family investment companies. In comparison with other assets, the digital currency brings them big profits.</p>

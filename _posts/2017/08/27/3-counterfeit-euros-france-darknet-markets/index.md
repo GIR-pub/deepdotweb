@@ -10,7 +10,7 @@ Only 3% of Counterfeit Euros in France from Darknet Markets
     <span><a href="https://www.deepdotweb.com/2017/08/27/3-counterfeit-euros-france-darknet-markets/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>France, despite a drastic decline in counterfeit use throughout Europe, still sees a significant number of counterfeiting crimes. Very few of the counterfeit noted in circulation originated from within France, as well. Yet, out of all the countries in Europe, France is first on the list of countries most affected by counterfeit currency. The director of the anti-counterfeiting detailed the current situation in France, along with the reasoning behind the increased counterfeit numbers when compared to other countries in the reason.</p>
     <p>Fabien Lang, the head of the Central Office for the Suppression of Counterfeiting (OCRFM) said that several 2016 changes had influenced the overall decline in numbers. Starting in 2017, countries had reported an average of a 35 percent decrease in counterfeit use. One of the main reasons for this decrease, Lang said, was a change made by the European Central Bank. The bank introduced new Euro notes: a €20 banknote and a €50 banknote. The notes incorporated new security features that increased the level of skill needed to reproduce the notes.</p>
     <p><img class="wp-image-22201" src="/imgs/2017/08/7082010_51356d46-5816-11e7-97f3-07810dbb137a-1_100-1.jpeg" alt="7082010_51356d46-5816-11e7-97f3-07810dbb137a-1_1000x625.jpeg" /></p>

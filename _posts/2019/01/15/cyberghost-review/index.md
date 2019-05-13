@@ -45,7 +45,7 @@ CyberGhost Review
     <span><a href="https://www.deepdotweb.com/2019/01/15/cyberghost-review/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Virtual Private Network (or VPN) service provides online security and anonymity to millions of users around the world. It encrypts your data and creates a tunnel around it to prevent IP address leakage. It also allows its users to bypass georestriction and access websites and content they usually cannot from their location.</p>
     <p>By design, VPN software connects you to the server and assigns you with a different IP address which you share with other people connected to the same server.</p>
     <p>One of the most improved and most popular VPN services is CyberGhost.</p>

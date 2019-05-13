@@ -9,7 +9,7 @@ Australia Arrests Four in Global Darknet Investigation
     <span><a href="https://www.deepdotweb.com/2016/11/11/australia-arrests-four-global-darknet-investigation/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Federal officials in Australia published their own press release following the Operation Hyperion events in October. Australia, like many countries worldwide, participated in the <a href="https://www.deepdotweb.com/2016/10/31/dutch-national-prosecution-service-police-launch-hidden-service-global-darknet-enforcement-operation/">global darknet investigation called Operation Hyperion</a>. The Australian Federal Police (AFP) were among few agencies worldwide to issue a more-than-boilerplate press release.</p>
     <p>The press release, jointly published by the AFP and Australian Criminal Intelligence Commission, described the ‘Darknet Period of Action’ as an initiative “to develop a more unified global law enforcement.” In Australia, the press release explained, the ‘Darknet Period of Action’ involved police activity across every state and territory in Australia.</p>
     <p>The joint police work resulted in the execution of 11 warrants, four arrests, and six summons. Police found an array of drugs while executing the search warrants; some of which were listed: MDMA, steroids, cannabis, opium, cocaine and methamphetamine. More are to come in the following weeks, according to the report.</p>

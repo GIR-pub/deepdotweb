@@ -9,7 +9,7 @@ Scotland Opiate Treatment is Endangering Other Drug Users
     <span><a href="https://www.deepdotweb.com/2017/06/15/scotland-opiate-treatment-endangering-drug-users/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Director of Scottish Drugs Forum, David Liddell, explained that more cocaine, ecstasy and alcohol users landed in emergency departments, in 2017, than opiate and opioid users. This came as an interesting twist—opiates like heroin and fentanyl “were Scotland&#8217;s biggest problem in terms of substance misuse.” This, he explained, indicated that <a href="http://www.heraldscotland.com/news/15310558.Scots_addicted_to_cocaine__ecstasy_and_alcohol_putting_pressure_on_A_E_departments/?ref=rss">the focus of drug services</a> in the country made seeking help for cocaine or ecstasy abuse more difficult.</p>
     <p>The <a href="https://www.globaldrugsurvey.com">Global Drug Survey 2017 revealed</a> that drug users in Scotland used marijuana, cocaine, and MDMA most frequently. Scotland also showed a higher percentage of hazardous alcohol drinkers than hazardous alcohol drinkers in the average country surveyed. More cocaine, MDMA, and alcohol users turned up in A&amp;E departments in Scotland than most of the UK; Liddell said that the country needed harm reduction advice for cocaine, MDMA, and alcohol, not just services and programs for opioid users.</p>
     <p><img class="wp-image-20635 aligncenter" src="/imgs/2017/06/word-image-79.jpeg" srcset="/imgs/2017/06/word-image-79.jpeg 800w, /imgs/2017/06/word-image-79-300x145.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

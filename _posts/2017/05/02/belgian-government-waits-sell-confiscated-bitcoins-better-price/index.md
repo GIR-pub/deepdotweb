@@ -9,7 +9,7 @@ Belgian Government Waits To Sell Confiscated Bitcoins For A Better Price
     <span><a href="https://www.deepdotweb.com/2017/05/02/belgian-government-waits-sell-confiscated-bitcoins-better-price/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Belgian authorities are currently <a href="http://www.standaard.be/cnt/dmf20170414_02835694">sitting on</a> more than 1,000 BTC they seized from darknet narcotics vendors. The Ministry of Justice seeks to sell the seized cryptocurrency at the price it was worth when authorities confiscated the <a href="https://www.deepdotweb.com/2017/04/07/prison-former-bitcoin-exchange-ceo/">bitcoins</a> from the criminals.</p>
     <p><img class="wp-image-19587 aligncenter" src="/imgs/2017/05/justice-does-not-know-what-to-do-with-bitcoins.jpeg" alt="Justice does not know what to do with bitcoins" srcset="/imgs/2017/05/justice-does-not-know-what-to-do-with-bitcoins.jpeg 568w, /imgs/2017/05/justice-does-not-know-what-to-do-with-bitcoins-300x198.jpeg 300w" sizes="(max-width: 568px) 100vw, 568px" /></p>
     <p>Law enforcement authorities <a href="https://www.deepdotweb.com/2016/11/04/belgian-amphetamine-vendor-arrested-due-to-insufficient-postage-on-his-packages/">arrested</a> the 25-year-old Stijn Victor in Torhout, Belgium, who was working as a computer programmer by the time, in January 2015 for selling chemical drugs on the darknet. The suspect was not working alone, three of his accomplices were also detained, however, the other members of the gang played a lesser role in the narcotic operation.</p>

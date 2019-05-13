@@ -9,7 +9,7 @@ Utilizing The Blockchain &#038; Smart Contract Technologies To Create a Decentra
     <span><a href="https://www.deepdotweb.com/2017/01/04/utilizing-the-blockchain-smart-contract-technologies-to-create-a-decentralized-government/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Bitcoin and the blockchain technology haven&#8217;t only revolutionized the financial system, but also introduced us to a whole new era of decentralization that can change the global political system. The blockchain technology has the potential to enable individuals to change how they interact in politics via an unprecedented system that is primarily based on disintermediation via blockchain&#8217;s automatic trustless transactions. Such system can totally transform the tenets which underpin the current global political system and models of governance, raising a question by many decentralization enthusiasts:</p>
     <p>&#8220;Do we really need the traditional &#8220;State&#8221; along with its centralized governance institutions?&#8221;</p>
     <p><strong>Do We Still Need a Federal State?</strong></p>

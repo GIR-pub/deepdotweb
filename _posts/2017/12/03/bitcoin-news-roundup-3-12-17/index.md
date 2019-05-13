@@ -9,7 +9,7 @@ Bitcoin News Roundup 3.12.17
     <span><a href="https://www.deepdotweb.com/2017/12/03/bitcoin-news-roundup-3-12-17/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New developments:</h2>
     <p><strong>Nasdaq to launch bitcoin futures by mid-2018</strong></p>

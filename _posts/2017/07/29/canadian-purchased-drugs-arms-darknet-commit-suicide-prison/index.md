@@ -9,7 +9,7 @@ A Canadian Who Purchased Drugs and Arms from Darknet Commit Suicide in Prison
     <span><a href="https://www.deepdotweb.com/2017/07/29/canadian-purchased-drugs-arms-darknet-commit-suicide-prison/#comments">15 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>A Canadian who was arrested for drug trafficking on the Darknet has committed <a href="http://www.tvanouvelles.ca/2017/07/12/dark-web-le-quebecois-arrete-en-thailande-sest-suicide-en-prison">suicide</a> in his prison cell. Alexandre Cazes, 26, was arrested in Thailand and detained on July 5th. He committed suicide in the Narcotics Bureau in Bangkok, in his cell. The suspect was on the wanted list of the FBI, but he fled to Bangkok to escape the drug trafficking charges.</p>
     <p>A report has said that Cazes lived a luxurious life as he owned a Lamborghini. The Lamborghini was seized. After his arrest on July 5th at No. 514 Private House Phutthamonthon 3 Road, Thawi Watthana, Bangkok, authorities made sure that extradition papers were prepared. The cost of the car in Thailand is said to be four times more expensive than in the west due to import taxes.</p>

@@ -9,7 +9,7 @@
     <span><a href="https://www.deepdotweb.com/2017/02/28/aeternity-blockchain-functional-oracle-machine/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Æternity is an exceptionally scalable blockchain protocol that is based on Ethereum&#8217;s network. Æternity offers a unique consensus mechanism that can be utilized to check oracles (we will touch on oracles later on in this article), which maximizes their efficiency, as Æternity prevents layering of consensus mechanisms on top of one another. State channels are implemented to maximize scalability and privacy. Channels&#8217; tokens can be transferred via means of functional smart contracts that have access to the answers of an oracle. Æternity renders smart contracts faster and easier to execute, because it doesn&#8217;t act through recording contract code, or state, on the blockchain, i.e. on-chain, but without affecting the functionality of the smart contracts.</p>
     <p>A week ago <a href="http://blockchain.aeternity.com/%C3%A6ternity-blockchain-whitepaper.pdf">a white paper was published to introduce the architecture of Æternity</a> and its potential use cases. Æternity can be used on a global scale in prediction markets and synthetic assets&#8217; markets.</p>
     <p><strong>How Can Æternity Blockchain Serve Smart Contract Platforms?</strong></p>

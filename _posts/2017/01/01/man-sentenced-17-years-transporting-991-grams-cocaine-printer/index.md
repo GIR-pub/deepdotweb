@@ -17,7 +17,7 @@ Man Sentenced to 17 Years for Transporting 991 Grams of Cocaine in a Printer
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>U.S. District Judge Mitchell S. Goldberg, on December 22, <a href="https://www.scribd.com/document/334950204/Government-s-Sentencing-Memorandum">convicted a four-time drug trafficker to 204 months in prison</a>. Angel Catalino Ivostraza-Torres, a 53-year-old from North Philidelphia, received one count of possession with intent to distribute 500 grams of cocaine—first-degree distribution. In total, according to court documents, Ivostraza-Torres possessed 991 grams of cocaine. Investigators, based on evidence built against Ivostraza-Torres, claimed he intended to sell it all.</p>
     <p>The case against Ivostraza-Torres began when a United States Postal Inspection Service (USPIS) officer detected a <a href="https://www.deepdotweb.com/tag/mail/">suspicious Express Mail package</a>. According to Cotelia Bond-Young, the investigating USPIS officer on the case, the package originated from Peurto Rico. She ran both names and addresses on the parcel through the <a href="https://www.deepdotweb.com/2016/10/04/authorities-push-legislation-aims-end-shipping-drugs-via-usps/">Law Enforcement Database &#8220;CLEAR.”</a> The CLEAR database showed that the return address listed a fake name and the recipient address similarly listed an incorrect name. She said that &#8220;Jesus M. Soto Rivera,&#8221; the name listed as the addressee, was not associated with the address on the package.</p>

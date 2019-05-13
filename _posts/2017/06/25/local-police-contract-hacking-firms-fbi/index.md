@@ -9,7 +9,7 @@ Local Police Contract the Same Hacking Firms as the FBI
     <span><a href="https://www.deepdotweb.com/2017/06/25/local-police-contract-hacking-firms-fbi/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>C. Aliens</p>
     <p>Local Police Contract the Same Hacking Firms as the FBI</p>
     <p>As part of an ongoing investigation into law enforcement’s forensic procedures regarding cellphones, <a href="https://www.muckrock.com/news/archives/2017/jun/05/tulsa-tucson-cellebrite/">Muckrock filed Freedom of Information Requests</a> with several police Departments in the US. The organization wanted information related to utilization logs, guidelines, policy, and even payment contracts. They requested the payment information from commercial hacking companies like Cellebrite and Susteen. And recently, some of the information yielded the data they wanted.</p>

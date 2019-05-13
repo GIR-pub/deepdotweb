@@ -9,7 +9,7 @@ Messaging Apps Comparison
     <span><a href="https://www.deepdotweb.com/2017/12/19/messaging-apps-comparison/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>With the attack on privacy in todays world, having a means of secure messaging is more imperative than ever and within the world of the dark net and drugs this couldn’t be more true. Everyday it feels like big brothers shadowy talons are clawing us in and taking away more of our civil liberties and freedoms but with this has come the need to fight back. Because of this many feel that email is becoming an outdated means of communication with its centralized nature, lack of default encryption, requirement of trust and its bleeding metadata.</p>
     <p>In this article I’ll be exploring some popular email alternatives and how they stack up against each other with the intent of showing you the options you have available as you face this brave new world. It’s important to remember that for a service to be truly useful it must be accessible by everyone and work universally across devices and different OS. Before we continue a few key points.</p>
     <ul>

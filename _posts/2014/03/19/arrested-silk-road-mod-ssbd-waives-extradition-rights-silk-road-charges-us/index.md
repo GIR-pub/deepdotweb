@@ -9,7 +9,7 @@ Arrested Silk Road Mod SSBD waives extradition rights over Silk Road charges in 
     <span><a href="https://www.deepdotweb.com/2014/03/19/arrested-silk-road-mod-ssbd-waives-extradition-rights-silk-road-charges-us/#comments">9 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The arrested Silk Road moderator Peter Phillip Nash, 41 Who was also known under the name Samesamebutdifferent (SSBD) &#8211; A Former Queensland prison employee appeared in the Brisbane magistrates court on Wednesday. He was accused of helping run Silk Road one being one of the staff members under the alleged &#8220;Dread Pirate Roberts&#8221; Ross Ulbricht.</p>
     <p>He has now waived his extradition rights paving the way for him to face charges in the US of conspiracy to launder money. The Extradition can be executed  once the Commonwealth attorney general in Australia approves it. <a href="http://www.couriermail.com.au/news/queensland/former-queensland-public-servant-peter-nash-agrees-to-extradition-to-us-over-claims-he-ran-drug-ring-from-wacol-prison-office/story-fnihsrf2-1226859045009">The couriermail quoted the court protocol</a>:</p>
     <p>Nash today told Queensland’s Chief Magistrate Tim Carmody he was aware of his rights and was prepared to be sent to the USA as soon as possible to answer the charges.</p>

@@ -9,7 +9,7 @@ Cardiff Teen Locked Up for Trying To Buy Gun on Dark Web
     <span><a href="https://www.deepdotweb.com/2015/12/29/cardiff-teen-locked-up-for-trying-to-buy-gun-on-dark-web/#comments">16 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.bbc.com/news/uk-wales-south-east-wales-35164237">A 17-year-old teen in Cardiff has been sentenced to 12 months of juvenile prison for trying to buy a Glock handgun from a dark net vendor residing in the United States.</a> In addition to that, when the NCA raided his house where the 17-year-old lived, law enforcement authorities found evidence on the computer, which showed that he was involved in a DDoS attack that led to the shutdown of some web pages.</p>
     <p>The teenager admitted the attempt to import a firearm along other offences (such as the DDoS) under the Computer Misuse Act. The sentence of the 17-year-old which was given by the Cardiff Youth Court on December 22 was: 12-months in a young offenders&#8217; institution and forced to pay £1,000 in the form of reparations to the victim of the DDoS attack.</p>
     <p>Colin Williams, operations manager of the NCA in Wales made this statement regarding the case:</p>

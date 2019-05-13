@@ -9,7 +9,7 @@ DEA Busted Former Alphabay Vendor “EtiKing”
     <span><a href="https://www.deepdotweb.com/2017/07/07/dea-busted-former-alphabay-vendor-etiking/#comments">16 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Federal agents, after several months of investigation, arrested a EtiKing, a former <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a> and <a href="http://www.deepdotweb.com/marketplace-directory/listing/dream-market/">Dream vendor</a>. EtiKing a.k.a. Jeremy P. Achey became the target of an investigation after <em>one</em> of his customers died from an overdose. In reality, the DEA started investigating him after they took interest in one of the deaths; agents now believe EtiKing&#8217;s drugs may have caused 19 deaths throughout the United States.<img class="wp-image-21131 aligncenter" src="/imgs/2017/07/word-image-25.jpeg" srcset="/imgs/2017/07/word-image-25.jpeg 660w, /imgs/2017/07/word-image-25-300x136.jpeg 300w, /imgs/2017/07/word-image-25-272x125.jpeg 272w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p>In February, a Florida woman and her fiance overdosed on tetrahydrofuranfentanyl and Etizolam. The 24-year-old woman died but the man (hereinafter “Fiancé”) lived through the ordeal, albeit in a hospital bed. DEA agents were made aware of the situation in February. The fiancé complied with them fully during the investigation.</p>
     <p><img class="wp-image-21132" src="/imgs/2017/07/word-image-26.jpeg" srcset="/imgs/2017/07/word-image-26.jpeg 800w, /imgs/2017/07/word-image-26-300x192.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

@@ -9,7 +9,7 @@ Silk Road Vendor Pleaded Guilty to Drug Distribution in Fatal Overdose Case
     <span><a href="https://www.deepdotweb.com/2017/02/21/silk-road-vendor-pleaded-guilty-drug-distribution-fatal-overdose-case/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Kevin Campbell, a drug treatment worker from Chicago pleaded guilty to the distribution of controlled substances via the Silk Road marketplace. After a one-year investigation between 2013 and 2014, Chicago law enforcement raided Campbell&#8217;s Chicago home and found further evidence to connect the suspect to a 2013 crime in Bellevue, Washington. In August 2013, Washington emergency response crews attended a 911 call and found a <a href="https://www.justice.gov/usao-wdwa/pr/chicago-drug-treatment-worker-pleads-guilty-distributing-heroin-internet">heroin overdose victim with the Silk Road pulled up on a screen in front of him</a>.</p>
     <p>A house guest made the 911 call, according to court documents. He reported <a href="http://komonews.com/news/local/man-admits-to-selling-heroin-over-the-web-drugs-tied-to-bellevue-death">finding Jordan Mettee, 27, unconscious in his bedroom</a>. When investigators arrived at the scene, they began to put a case together against a darknet vendor that fit Campbell&#8217;s profile.</p>
     <p><img class="wp-image-18268 aligncenter" src="/imgs/2017/02/word-image-76.png" srcset="/imgs/2017/02/word-image-76.png 741w, /imgs/2017/02/word-image-76-300x225.png 300w" sizes="(max-width: 741px) 100vw, 741px" /></p>

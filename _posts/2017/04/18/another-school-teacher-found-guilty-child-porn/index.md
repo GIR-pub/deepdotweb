@@ -9,7 +9,7 @@ Another School Teacher Found Guilty for Child Porn
     <span><a href="https://www.deepdotweb.com/2017/04/18/another-school-teacher-found-guilty-child-porn/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A Penarth man started serving an eight-month prison sentence following the results of his early April hearing at Newport Crown Count. The man, 45-year-old Paul Bulpin, pleaded guilty to three counts of making indecent images and three counts of possessing indecent images of children. After his arrest on March 2 of this year, Bulpin explained that <a href="http://www.walesonline.co.uk/news/wales-news/teacher-jailed-after-police-found-12837610">he downloaded child pornography from the darkweb</a> &#8220;out of morbid curiosity.&#8221;</p>
     <p>He said that he wanted to know why people abused children, made explicit images, and addictively viewed the media. Law enforcement found <a href="https://www.deepdotweb.com/tag/child/">374 unique depictions of child pornography</a> on Bulpins&#8217; laptop—most of the pictures showed six-year-old girls. Prosecutors called this a particularly concerning fact as the man worked as a school teacher yet watched videos where the children showed “discernible pain and distress.”</p>
     <p>Bulpin explained that he only watched the videos and downloaded the pictures out of curiosity. He said he felt driven after his periodic depression set in. His lawyer, Jeffrey Jones, told the court that Bulpin suffered from diagnosed Aspergers and obsessive compulsive disorder; his mental health provided him no favors, especially with respect to the man&#8217;s mood.</p>

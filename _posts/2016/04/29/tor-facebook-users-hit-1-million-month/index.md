@@ -9,7 +9,7 @@ Tor Facebook Users Hit 1 Million This Month
     <span><a href="https://www.deepdotweb.com/2016/04/29/tor-facebook-users-hit-1-million-month/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://qz.com/667880/a-million-people-now-access-facebook-on-the-dark-web-every-month/">The number of people checking they&#8217;re Facebook</a> through dark net currently stands at 1 million people per month, the tech giant announced April 22<sup>nd</sup> . Facebook maintains an onion site that resides on the Tor Network for almost two years. This is the firs time the company has revealed details about its presence in the shadowy corners of the Internet.</p>
     <p>Tor protects users privacy by disguising their identity and location by bouncing web traffic randomly through a far off network of servers. The number of people connecting to Facebook over Tor is growing at a steady clip. Facebook said that in June 2015 around 525,000 people accessed this dark net site. Traffic has grown in  linear pattern since, according to Facebook, meaning about 50,000 new users have been accessing the social network through Tor each month.</p>
     <p>“This growth is a reflection of the choices that people make to use Facebook over Tor, and the value that it provides them. We hope they will continue to provide feedback and help us keep improving,” a Facebook spokesperson said.</p>

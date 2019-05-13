@@ -9,7 +9,7 @@ Vendor BlimeSub a.k.a BTH-Overdose busted
     <span><a href="https://www.deepdotweb.com/2016/12/26/vendor-blimesub-k-bth-overdose-busted/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Emil Babadjov, the person behind the vendor aliases “Blime-Sub” and “BTH-Overdose,” <a href="https://www.justice.gov/usao-edca/pr/fentanyl-and-heroin-sold-dark-web-marketplace">was arrested</a> and made his initial court appearance on December 14 2016, in San Francisco. According to <a href="https://www.justice.gov/usao-edca/press-release/file/918816/download">the indictment</a> he sold heroin, fentanyl, and methamphetamine on Alphabay with both accounts having combined over 2300 sales.</p>
     <p>This article will focus on how law enforcement investigated and eventually caught Babadjov. Since <a href="https://www.justice.gov/usao-edca/press-release/file/918811/download">the complaint</a> is quite lengthy the article will outline the key parts of the investigation and tell them in a structured order.</p>
     <p><img class="wp-image-17157 aligncenter" src="/imgs/2016/12/word-image-123.png" /></p>

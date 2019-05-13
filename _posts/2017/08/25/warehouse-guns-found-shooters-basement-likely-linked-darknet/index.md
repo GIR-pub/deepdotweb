@@ -18,7 +18,7 @@ A “Warehouse” of Guns Found in Shooter’s Basement, Likely Linked to the Da
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>In June, in Kratovo, <a href="https://www.deepdotweb.com/tag/russia/">Russia</a>, a 50-year-old man spent his last hours shooting at anyone in his site, which eventually included Russian law enforcement. After the man dropped several bodies, the police decided that they had dealt with him for long enough. He ended in a literal blaze as police grenades landed in his home and ended everything and everyone in site. The tale of the “Kratovo gunman” lives on, though. Recent news revealed that one of the shooter&#8217;s neighbors had found a “warehouse” of illegal weapons that okay into some part of a darknet investigation.</p>
     <p><a href="https://life.ru/t/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/1033451/u_sosieda_kratovskogho_strielka_nashli_sklad_nielieghalnogho_oruzhiia">The information</a> at this point, is still limited. However, from what we know, a 62-year-old named Jacob Schwarzenberg located a so-called “warehouse” of illegal firearms on the burnt property of the former Kratovo gunman. Some news reports mentioned that he had found the weapons underneath the shooter’s house (I.e., the basement is storm cellar).</p>

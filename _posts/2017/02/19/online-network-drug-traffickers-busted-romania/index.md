@@ -9,7 +9,7 @@ Online Network Of Drug Traffickers Busted In Romania
     <span><a href="https://www.deepdotweb.com/2017/02/19/online-network-drug-traffickers-busted-romania/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Law enforcement authorities in several regions of Romania <a href="http://www.evz.ro/reteaua-transilvaniatraficantii-cumparau-droguri-de-pe-darknet.html">arrested</a> 58 suspects. They are believed to be connected to a criminal organization that distributed <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> in the country.</p>
     <p><img class="wp-image-18237 aligncenter" src="/imgs/2017/02/http-static4-evz-ro-image-original-605-388-cache.jpeg" alt="" srcset="/imgs/2017/02/http-static4-evz-ro-image-original-605-388-cache.jpeg 600w, /imgs/2017/02/http-static4-evz-ro-image-original-605-388-cache-300x194.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
     <p>The Directorate for Investigating Organized Crime and Terrorism (DIICOT) performed 68 house searches and detained 58 alleged members of a <a href="https://www.deepdotweb.com/tag/drugs/">drug</a> distribution ring in Timis, Arad, Caras-Severin and Hunedoara. According to police information, these counties were serving as the distribution centers for the criminals.</p>

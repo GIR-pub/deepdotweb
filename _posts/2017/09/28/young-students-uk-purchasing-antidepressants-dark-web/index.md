@@ -18,7 +18,7 @@ More Young Students in the UK are Purchasing Antidepressants on Dark Web
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>According to the investigation of the Sunday People, a rapidly increasing number of young students in British high schools and colleges are purchasing antidepressants and illicit drugs on the dark web.<img class="wp-image-22814 aligncenter" src="/imgs/2017/09/image-jpg-2.jpeg" alt="image.jpg" /></p>
     <p>The investigation revealed that many students prefer to purchase both legal and illicit drugs on the dark web because of the lack of assistance school counselors provide. Several students that were found purchasing drugs on the dark web admitted that they did not want their treatment surfacing on their medical records.</p>

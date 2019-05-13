@@ -9,7 +9,7 @@ EU Council Requests The Registration Of Bitcoin Users
     <span><a href="https://www.deepdotweb.com/2017/01/06/eu-council-requests-registration-bitcoin-users/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The European Council seeks to <a href="http://derstandard.at/2000049837956/EU-Rat-fordert-Registrierung-von-Bitcoin-Usern">introduce</a> an anti-terrorism measure that will ensure a stricter handling on cryptocurrencies, such as <a href="https://www.deepdotweb.com/tag/bitcoin/">Bitcoin</a>, Litecoin, and Ripple. If the motion gets accepted by the heads of state and the governments of the member countries, the listed currencies will be managed by the EU Anti-Money Laundering Directive.</p>
     <p><a id="post-17349-_gjdgxs"></a> <img class="wp-image-17354 aligncenter" src="/imgs/2017/01/platforms-with-bitcoin-and-co-are-to-register-the.jpeg" alt="Platforms with Bitcoin and Co. are to register their users in a central database, according to the EU Council."/></p>
     <p>According to the German media outlet heise.de, the platforms that “deal with <a href="https://www.deepdotweb.com/tag/cryptocurrency/">cryptocurrencies</a> or exchange them into traditional currencies” will need to store both the identity and the address of the user electronic wallets in a central database.</p>

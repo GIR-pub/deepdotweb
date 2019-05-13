@@ -17,7 +17,7 @@ Almost 40% of Consumers Pay Ransomware Fees
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>A new study by Trustlook, a cyber information and security firm, revealed that not only are hospitals and larger organizations hit by ransomware, but individual consumers are too. The number of ransomware attacks in general increased but the number of consumers that paid for the return of their data increased also. Consumers proved far less safe than a company&#8217;s cybersecurity infrastructure, and therefore stood out as easy targets.</p>
     <p><img class="wp-image-19690 aligncenter" src="/imgs/2017/05/word-image-22.jpeg" srcset="/imgs/2017/05/word-image-22.jpeg 600w, /imgs/2017/05/word-image-22-300x165.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>

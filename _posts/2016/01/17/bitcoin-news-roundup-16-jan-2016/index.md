@@ -9,7 +9,7 @@ Bitcoin News Roundup – 17 Jan. 2016
     <span><a href="https://www.deepdotweb.com/2016/01/17/bitcoin-news-roundup-16-jan-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
     <p>Class action lawsuit filed against Cryptsy. As Jamie Redman of <a href="https://news.bitcoin.com/class-action-lawsuit-officially-launched-cryptsy/">News Bitcoin</a> writes, the digital currency exchange has been under inspection following the complaints of many users who faced withdrawal issues when trying to collect their bitcoins. Cryptsy originally reported a severe denial of the server (DDoS), on November 22, and then, following months of uncertainty and rumors of insolvency, it announced that it suspends its services indefinitely. Additionally, Cryptsy claims to have been the target of a bitcoin wallet theft on July 2014, consisting of 13,000 BTC and another one of 300,000 LTC, pointing the finger to the developer of Lucky7Coin as the organizer of the theft.</p>
     <p>Emercoin partners with Microsoft to join the Azure marketplace. As Tom Clancy of <a href="https://www.cryptocoinsnews.com/the-emercoin-group-forms-partnership-with-microsoft/">CryptoCoins News</a> writes, the leading digital currency and blockchain platform has joined forces with Microsoft to deliver their services to the Azure cloud blockchain marketplace. Capitalizing on the growing demand for ground-breaking blockchain services, Emercoin has developed a suite of ready-to-use features that can be a great fit to the Azure platform, offering Azure users the ability to install and use a wide range of innovative solutions and services.</p>

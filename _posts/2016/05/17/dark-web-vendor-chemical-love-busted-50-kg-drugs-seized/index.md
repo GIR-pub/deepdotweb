@@ -9,7 +9,7 @@ Dark Web Vendor Chemical Love Busted, More Than 50 Kg Of Drugs Seized
     <span><a href="https://www.deepdotweb.com/2016/05/17/dark-web-vendor-chemical-love-busted-50-kg-drugs-seized/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In Rhineland-Palatinate <a href="http://www.swr.de/landesschau-aktuell/zugriff-in-baden-wuerttemberg-und-rheinland-pfalz-groesster-deutscher-drogen-webshop-zerschlagen/-/id=396/did=17371762/nid=396/16t5udx/">five men were arrested by the local police</a>, according to the law enforcement authorities, the five men were running the vendor shop, “Chemical Love”, on the dark web. In the basement of a gang member, police found 54kg amphetamines, 1.3 kg cocaine, 4 kg heroin and 25,000 ecstasy pills.</p>
     <p><a href="/imgs/2016/05/chemicallove.jpg"><img class="aligncenter wp-image-13997" src="/imgs/2016/05/chemicallove.jpg" alt="chemicallove" width="839" height="472" srcset="/imgs/2016/05/chemicallove.jpg 1408w, /imgs/2016/05/chemicallove-300x169.jpg 300w, /imgs/2016/05/chemicallove-1024x576.jpg 1024w" sizes="(max-width: 839px) 100vw, 839px"/></a></p>
     <p>One of them is the former football player, Walter Kelsch (60), who played for the German national team in 1984 and for the soccer team in the national league VfB Stuttgart.</p>

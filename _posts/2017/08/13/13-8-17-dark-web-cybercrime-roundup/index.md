@@ -17,7 +17,7 @@
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><strong>Alphabay Vendor “Area51” aka “DarkApollo” Sentenced to 6.5 Years</strong></p>
     <p>Chaudhry Ahmad Farooq, as with many vendors, worked with a partner when selling heroin and cocaine on Alphabay. Farooq managed the operation; he handled the darknet presence, communicated with suppliers, and touched the actual product. According to court documents, Farooq’s partner, Abudullah Almashwali, ran errands for Farooq. Almashwali purchased stamps (in massive quantities) and dropped packages off at the Post Office.</p>

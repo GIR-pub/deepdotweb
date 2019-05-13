@@ -9,7 +9,7 @@ Phishing Attack Potentially Compromised 18k Employees
     <span><a href="https://www.deepdotweb.com/2017/05/23/phishing-attack-potentially-compromised-18k-employees/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In nearly every industry, phishing emails are all but scarce. Not all make headlines. And never are two separate instances identical. Each company might face different degrees of fallout. And many factors are responsible for this. One of which is the size of the company—and a recent phishing attack at a US media company Gannett Co—exemplifies the type of large company where more money is at risk. Of course, as all too familiar in this day and age, healthcare is the greatest target.</p>
     <p>Other than a recent Netflix breach, the focus has not been directed towards media companies.</p>
     <p>Gannett Co, a massive digital and physical media publisher of 109 newspapers and the owner of USA Today, announced a recent “phishing email attack.” The incident occurred on March 30, the announcement explained. In a press release in their flagship media and news company, USA Today, <a href="https://www.usatoday.com/story/tech/news/2017/05/02/gannett-hit-email-phishing-attack/101200110/">Gannett Co. outlined the details of the breach</a>.</p>

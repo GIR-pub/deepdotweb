@@ -9,7 +9,7 @@ Counterfeit Euro Buyer From Réunion Arrested In Joint Austrian And French Inves
     <span><a href="https://www.deepdotweb.com/2017/06/19/counterfeit-euro-buyer-reunion-arrested-joint-austrian-french-investigation/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>After Austrian law enforcement authorities dismantled a gang selling high-quality counterfeit euros on the dark web, a man from Saint-Paul, Réunion was <a href="https://www.clicanoo.re/Faits-Divers/Article/2017/06/01/Le-client-dun-faux-monnayeur-autrichien-arrete-La-Reunion_471147">arrested</a> for buying multiple <a href="https://www.deepdotweb.com/2017/05/31/dnm-vendors-still-selling-fake-euros-despite-german-crackdown/">fake euro</a> bills from the criminal gang. The defendant is also suspected of selling some of the notes to local customers for a profit.</p>
     <p><a id="post-20731-_gjdgxs"></a> <img class="wp-image-20744 aligncenter" src="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-bill.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\BILLET_50_EUROS_3.jpg" width="647" height="535" /></p>
     <p>Réunion is an island and region of France located in the Indian Ocean, east of Madagascar and southwest of Mauritius. The island has a population of nearly 850,000 people and is an overseas department of France.</p>

@@ -9,7 +9,7 @@ Swedish Police Bust Group of Four Darknet Vendors, Find 100K Ecstasy Pills Durin
     <span><a href="https://www.deepdotweb.com/2016/11/25/swedish-police-bust-group-four-darknet-vendors-find-100k-ecstasy-pills-raid/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The Skaraborg District Court, on November 16, charged four individuals for the distribution of 15 types of drugs on the darknet. The indictment accused the group of selling nearly $500,000 worth of drugs—most of which came from ecstasy sales.</p>
     <p>According the to indictment, the group, primarily the two men, had been selling on darknet marketplaces since 2013. One of the suspects, a 35-year-old man, became addicted to amphetamines in 2011. The lead prosecutor, Sofia Karlsson, said the 35-year-old also had a gambling addiction and both addictions lead the group to sell on the darknet.</p>
     <p>The suspects were a 35-year-old man, a 25-year-old woman who was his live-in partner, a 30-year-old man, and finally a 29-year-old man. (Note: the age of the couple has been disputed; several news outlets reported both being one to two years younger. All ages in this article are pulled from communication with Karlsson, the lead prosecutor.) Only the 35-year-old and 30-year-old sold drugs at first. The woman did not enter the picture until 2015 when she moved in with her partner.</p>

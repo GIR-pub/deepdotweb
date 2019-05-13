@@ -17,7 +17,7 @@ How We Talk to Hidden Services?
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>It’s true that networking protocols and technologies have changed drastically through the years; from Arpanet, Hubs, BBS and even serial cable WAN connections spanning states and even countries. It is also true that the popular and standard communication protocols have changed quite a bit as well: ATM, Frame Relay, X.25 and eventually TCP/IP. All of these changes have been the result of some problem needing solved or some process needing improved. With the exception of IPv6, IP addressing hasn’t evolved as quickly as other technological paradigms; and the same could be said about domain names. Up until recently there has been very little change to the foundations of the domain since its introduction in the 80s. Recently ICANN (The International Corporation for Assigned Names and Numbers) released a slew of new top level domain extensions bringing some major variety to the internet destinations we visit.</p>
     <p>We are no longer limited to the traditional .com, .ca, .uk, .org, .edu, .gov and .net domains (to name a few). You will now see all sorts of wild domain names like .eat, .game, .mom and .space – in fact there reportedly at least 1000 out there. The decision has moved a mostly unchanged part of the tech world into the 21<sup>st</sup> century. Though this is big news for many it’s certainly not the most noteworthy development in online names. As we all know, Hidden Services have changed the way we used the internet in a drastic way. Although, this is not technically a change to the traditional domain name system, it certainly runs parallel to it.</p>

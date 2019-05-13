@@ -9,7 +9,7 @@ European Police Congress Deliberates on Making the Darknet Inaccessible to its S
     <span><a href="https://www.deepdotweb.com/2019/03/10/european-police-congress-deliberates-on-making-the-darknet-inaccessible-to-its-states/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The European Union recently held discussions through the European Police Congress regarding security matters, migration, and integration. The conference began on February 19<sup>th</sup> in Berlin with the first focus being on eliminating criminal activities <a href="https://www.heise.de/newsticker/meldung/Europaeischer-Polizeikongress-Weg-mit-dem-Darknet-4313276.html">facilitated online by the darknet.</a></p>
     <p><strong><img class="wp-image-28579" src="/imgs/2019/03/word-image-5.jpeg" srcset="/imgs/2019/03/word-image-5.jpeg 660w, /imgs/2019/03/word-image-5-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></strong></p>
     <p>This is the largest conference held by states of the European Union regarding internal security. It comprises around 1,500 specialists from over 20 states, police representatives, border police, secret service, industry managers, parliament, and other government officials. It was arranged by Behörden Spiegel, the main public authority newspaper in Germany, in conjunction with other European officials.</p>

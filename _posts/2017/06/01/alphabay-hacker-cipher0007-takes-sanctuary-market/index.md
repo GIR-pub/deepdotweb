@@ -9,7 +9,7 @@ Alphabay Hacker “Cipher0007” Takes Down Sanctuary Market
     <span><a href="https://www.deepdotweb.com/2017/06/01/alphabay-hacker-cipher0007-takes-sanctuary-market/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In January 2017, a hacker—known on Reddit as <a href="https://www.reddit.com/user/Cipher0007">/u/Cipher0007</a>—found two <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a> bugs that gave <a href="https://www.deepdotweb.com/2017/02/22/dark-net-markets-launching-bug-bounty-programs/">him access to over 200,000 messages</a> between vendors and buyers. He handled the disclosure well and received community praise for doing so. Come late May, the hacker posted that he <a href="https://www.reddit.com/r/DarkNetMarkets/comments/6eat2w/the_sanctuary_market_pwn3d_by_cipher0007/">hacked the Sanctuary marketplace</a> and, in the process, indirectly extinguished the site.</p>
     <p>Instead of contacting the admins of the darknet marketplace, he took the details (redacted details, but exposed the flaws nonetheless) to Reddit. He found an SQL injection bug in the <a href="https://www.deepdotweb.com/tag/market/">marketplace’s</a> database. He dumped the private key associated with the .onion creation after he uploaded an SQLi shell with sqlmap. Cipher0007 further dumped data from the marketplace’s phpMyAdmin install.</p>
     <p><img class="wp-image-20387 aligncenter" src="/imgs/2017/06/word-image-1.jpeg" srcset="/imgs/2017/06/word-image-1.jpeg 800w, /imgs/2017/06/word-image-1-300x186.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

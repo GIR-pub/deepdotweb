@@ -9,7 +9,7 @@ Bitcoin news roundup 6th of November 2016
     <span><a href="https://www.deepdotweb.com/2016/11/06/bitcoin-news-roundup-6th-november-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New Developments</h2>
     <p>New York faces licensing backlog while trying to become a bitcoin hub</p>

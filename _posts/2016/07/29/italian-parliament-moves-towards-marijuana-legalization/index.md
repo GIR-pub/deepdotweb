@@ -17,7 +17,7 @@ Italian Parliament Moves Towards Marijuana Legalization
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>In a bill that Italian Parliament may be close to passing, citizens who are eighteen or older will be allowed to grow up to five plants for themselves, have up to fifteen grams in their place of residence and posses a maximum of five grams on their person.</p>
     <p>Senator Benedetto Della Vedova, MP for the People of Freedom Party, organized senators and representatives from both sides of the political spectrum to draft the proposal. It was signed by 294 representatives, or 1/3 of Parliament. The proposal had bipartisan support; coming from both liberal and conservative parties. According to <a href="http://www.westword.com/news/italys-parliament-votes-on-colorado-style-marijuana-legalization-8131530">Westword</a>, the bill is being supported in an ongoing effort to fight organized crime.</p>

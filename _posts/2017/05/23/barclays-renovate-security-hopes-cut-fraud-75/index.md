@@ -9,7 +9,7 @@ Barclays to Renovate Security, Hopes to Cut Fraud by 75%
     <span><a href="https://www.deepdotweb.com/2017/05/23/barclays-renovate-security-hopes-cut-fraud-75/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Barclays called financial fraud a “<a href="http://m.belfasttelegraph.co.uk/business/news/barclays-declares-new-fightback-against-fraud-35690297.html">national resilience issue</a>” in a recent anti-fraud announcement wherein they spoke of the prevalence of the so-called “invisible” crime. The bank revealed plans for a $12 million advertising campaign as a step towards fraud prevention. Younger account holders between the ages of 25 and 34 were at twice the risk for financial fraud than “older generations,” Barclays said. And the new campaign reflects those statistics; it places special focus on the younger aged men and women, along with “those living in urban areas.”</p>
     <p>They will make <a href="https://www.thesun.co.uk/money/3508348/new-barclays-bank-app-lets-you-turn-off-your-debit-card-to-cut-down-on-scams/">changes to the Barclays mobile application</a> as well. Some of the changes they plan on bringing to the table already exist in other mobile applications; they are not groundbreaking updates. For instance, the ability to lock your credit or debit card remotely exists in roughly half of the Android banking applications for major US banks and slightly more than half for iOS apps.</p>
     <p><img class="wp-image-20062 aligncenter" src="/imgs/2017/05/word-image-94.jpeg" srcset="/imgs/2017/05/word-image-94.jpeg 900w, /imgs/2017/05/word-image-94-300x156.jpeg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>

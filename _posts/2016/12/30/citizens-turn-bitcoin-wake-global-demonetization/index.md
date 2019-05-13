@@ -9,7 +9,7 @@ Citizens Turn To Bitcoin in the Wake of Global Demonetization
     <span><a href="https://www.deepdotweb.com/2016/12/30/citizens-turn-bitcoin-wake-global-demonetization/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The process of demonetization is currently underway on a global-scale with several currencies seeing restrictions in both the circulation and use of national banknotes. India was the first and the most predominant example of the demonetization fiasco that is now plaguing several countries across the globe in what is being called a bid to fight corruption and money laundering.</p>
     <p>Countries from around the world are imposing these limitations in various ways, not only withdrawing high denomination banknotes, but also by imposing limits on cash transactions, forcing citizens to use electronic transfers, which can be easily traced.</p>
     <p>Although the measure may have some impact on the problems that governments are hoping to solve, like the circulation of counterfeit money, tax evasion, and corruption, these measures affect regular citizens the most. A large portion of these are left with useless bills to exchange and no way to access basic goods and services, which results in economic disaster and general confusion within the country.</p>

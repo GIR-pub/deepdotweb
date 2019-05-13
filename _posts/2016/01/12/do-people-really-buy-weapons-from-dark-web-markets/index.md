@@ -9,7 +9,7 @@ Do People Really Buy Weapons From Dark Web Markets?
     <span><a href="https://www.deepdotweb.com/2016/01/12/do-people-really-buy-weapons-from-dark-web-markets/#comments">18 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.fastcompany.com/3055187/do-people-really-buy-guns-on-the-dark-web">The US attorney general states that President Obama’s actions on weapons specially target the dark web</a>, however, do people really buy their guns from there? The recent executive actions of the US President are aiming to decrease gun violence in the United States by requiring all gun sellers to not only be licensed but to perform background checks on the people to whom they’re selling firearms to. This involves sellers both at gun shows and online.</p>
     <p>Attorney General Loretta Lynch said that internet gun sales are currently booming. She specially mentioned the dark web gun sales in her statement to the media. However, the question is: do dark net gun sales that important to warrant a specific mention from the head of the US Department of Justice?</p>
     <p>Fast Company made an interview with Nicolas Christin, assistant research professor of electrical and computer engineering at Carnegie Mellon University (CMU). The professor is one of the researchers behind a recent deep-dive analysis of sales on 35 marketplaces from 2013 to early 2015. According to him, dark web gun sales are pretty uncommon:</p>

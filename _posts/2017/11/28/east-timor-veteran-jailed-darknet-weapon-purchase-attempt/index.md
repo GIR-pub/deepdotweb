@@ -9,7 +9,7 @@ East Timor Veteran Jailed for Darknet Weapon Purchase Attempt
     <span><a href="https://www.deepdotweb.com/2017/11/28/east-timor-veteran-jailed-darknet-weapon-purchase-attempt/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>&nbsp;</p>
     <p>Michael Eling Falconer, an East Timor veteran has pleaded guilty to attempting to use Bitcoin to <a href="http://www.theaustralian.com.au/news/nation/east-timor-veteran-jailed-after-bitcoin-importing-weapons-using-bitcoin/news-story/0991c0412f7a535567416b8ba90a3f56">purchase weapons on the Darknet</a>.</p>
     <p>In the Melbourne court, Falconer admitted that he tried to purchase four Glock pistols and a Silencer from the Darknet.</p>

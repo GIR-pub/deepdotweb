@@ -9,7 +9,7 @@ German Made Nearly 70,000 Euros Scamming 254 Victims With Fake Website
     <span><a href="https://www.deepdotweb.com/2017/06/19/german-made-nearly-70000-euros-scamming-254-victims-fake-website/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Recently, a man from Windeck, Germany was <a href="http://www.rundschau-online.de/region/rhein-sieg/eitorf/waren-nie-geliefert-windecker-wegen-internetbetrugs-im-grossen-stil-vor-gericht-26996280">standing trial</a> for buying a “homepage set” on the dark web, which he used to scam victims.</p>
     <p><img class="wp-image-20733" src="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-just.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\justizbeamter-im-gericht.jpg" /></p>
     <p>On May 31, a 24-year-old man from Windeck was standing before the District Court of Bonn. The prosecution charged the defendant with <a href="https://www.deepdotweb.com/tag/fraud/">fraud</a> in 254 cases and with personal injury in one case.</p>

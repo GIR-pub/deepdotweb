@@ -9,7 +9,7 @@ Bitcoin and an Imminent Fork &#8211; The Aftermaths
     <span><a href="https://www.deepdotweb.com/2017/06/16/bitcoin-imminent-fork-aftermaths/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Since late 2015, the bitcoin community was stormed by the scalability, or block size, debate. Although several solutions have been proposed during the past couple of years, none has received wide acceptance, while bitcoin&#8217;s scalability problem is getting worse each and every day. Right now, the bitcoin community is divided into two camps;</p>
     <p>a. The camp supporting Bitcoin Core:</p>
     <p>This camp supports keeping the block size as it is, i.e. 1 Mb, yet they propose code optimization to shrink the size of transactions along with other approaches to increase the bitcoin transaction throughput rate via means of a &#8220;soft fork&#8221;. This camp mainly supports the &#8220;Segregated Witness&#8221; (Segwit) upgrade as a solution that mitigates many bitcoin bugs and also opens the way for further scaling using off-chain solutions such as the &#8220;lightning network&#8221;.</p>

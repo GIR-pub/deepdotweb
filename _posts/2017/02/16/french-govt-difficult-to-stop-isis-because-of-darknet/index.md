@@ -9,7 +9,7 @@ French Gov&#8217;t: Difficult to Stop ISIS Because of Darknet
     <span><a href="https://www.deepdotweb.com/2017/02/16/french-govt-difficult-to-stop-isis-because-of-darknet/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>French government officials and security agencies believe the darknet is acting as a catalyst for the growth and sustainability of ISIS and alternative terrorist groups.</p>
     <p>At an international cyber security conference in France, Guillaume Poupard, head of the French national security service the Agence nationale de la sécurité des systèmes d&#8217;information (ANSSI), established his strong stance on the darknet by explaining how the ISIS, Al-Qaeda and other terrorist groups are using anonymous networks to spread propaganda and obtain weapons illegally.</p>
     <p>On January 27, DeepDotWeb <a href="https://www.deepdotweb.com/2017/01/27/law-enforcement-looks-islamic-preachers-spreading-instigating-videos-darknet/">reported</a> that the Indian government and its law enforcement agencies are looking into Islamic preachers who are spreading propaganda and false beliefs of Islam, spreading values of terrorist groups. These preachers distributed disturbing videos and footages in the dark web to encourage young adults in joining terrorist groups.</p>

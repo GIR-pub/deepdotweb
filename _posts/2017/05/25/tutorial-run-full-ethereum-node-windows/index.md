@@ -17,7 +17,7 @@ Tutorial &#8211; How To Run a Full Ethereum Node On Windows
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>Ethereum is one of the most important blockchains present today, not only because it represents another cryptocurrency, but also because Ethereum is technically a &#8220;world computer&#8221; that unifies the processing power of the network&#8217;s public nodes. Ethereum&#8217;s &#8220;world computer&#8221;, or the Ethereum virtual machine (EVM), can be used by peers across the network to execute smart contracts.</p>
     <p>Ethereum&#8217;s platform was launched in 2016, so it is literally still in its infancy. In my opinion, ethereum is currently undervalued and I won&#8217;t be surprised if Ethereum&#8217;s price surpassed that of bitcoin during the upcoming few years.</p>

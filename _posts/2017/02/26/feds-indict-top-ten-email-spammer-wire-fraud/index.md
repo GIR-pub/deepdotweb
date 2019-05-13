@@ -9,7 +9,7 @@ Feds Indict A &#8220;Top Ten&#8221; Email Spammer For Wire Fraud
     <span><a href="https://www.deepdotweb.com/2017/02/26/feds-indict-top-ten-email-spammer-wire-fraud/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 36-year-old from Scottsdale, Arizona, just learned of a ten-count indictment filed against his name. The indictment charged Michael Persaud of only wire fraud—ten counts of wire fraud. In addition to the charges related to computer crimes, the federal indictment called for the forfeiture of four computers used to send millions of spam emails to recipients both in the United States and overseas.</p>
     <p>Law enforcement in Arizona arrested Persaud in January 2017; he made his first court appearance on February 7, 2017. His first court appearance, an arrangement hearing, marked the public unveiling of the indictment. The indictment, returned December of last year, became accessible to law enforcement after the January arrest, Zachary T. Fardon, US District Attorney for the Northern District of Illinois. <img class="wp-image-18345 aligncenter" src="/imgs/2017/02/word-image-88.png" width="672" height="408" srcset="/imgs/2017/02/word-image-88.png 1021w, /imgs/2017/02/word-image-88-300x182.png 300w" sizes="(max-width: 672px) 100vw, 672px"/></p>
     <p>According to the press release from the USAO of the Northern District of Illinois, numerous officials helped read the indictment. The announcement mentioned Gregory J. Haanstad, United States Attorney for the Eastern District of Wisconsin, and two FBI agents. Michael J. Anderson, Special Agent-in-Charge of Chicago and R. Justin Tolomeo, Special Agent-in-Charge of Milwaukee FBI Offices.</p>

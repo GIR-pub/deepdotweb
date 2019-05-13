@@ -17,7 +17,7 @@ Nottingham Man Jailed For Attempting To Buy A Gun From Dark Web
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p><a href="http://www.nottinghampost.com/Man-jailed-attempting-buy-hand-gun-case-terrorist/story-28347495-detail/story.html">Harry Woodward (21), of Church Street, Newark, has been sentenced to 21 months in prison for an attempt to purchase a handgun, which cost roughly £1,100, from a dark net market (which has not been named by the court).</a> The man said he needed the gun for self-defense in case of a terror attack, describing by his own words he needed the firearm &#8220;in case s*** hit the fan&#8221; concerning terrorism.</p>
     <p>When Woodward was arrested on April 14, he claimed he &#8220;had nothing on him now&#8221; and “had just been messing around online”. Despite his attempt for the handgun purchase, Woodward did not receive the Glock firearm and the 100 grams of ammunition that would come with the package since law enforcement authorities have intervened successfully.</p>

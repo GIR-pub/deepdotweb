@@ -9,7 +9,7 @@ German Lawyer Provides Legal Information On Dark Net Drug Orders
     <span><a href="https://www.deepdotweb.com/2017/06/09/german-lawyer-provides-legal-information-dark-net-drug-orders/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Lawyer Philipp Rinklin, who is specialized in criminal law, <a href="https://www.anwalt.de/rechtstipps/drogenbestellung-im-darknet-bzw-internet_106860.html">provided legal information</a> in cases where the defendants have ordered narcotics from the dark web.</p>
     <p>“Mr. Philipp Rinklin can also support you as an expert in criminal law competently and expertly &#8211; because it is your guaranteed basic right to be represented as a defendant in a criminal case represented by a defense counsel,” a <a href="https://www.anwalt.de/philipp-rinklin">website section</a> dedicated to the lawyer goes by on the German news outlet anwalt.de.</p>
     <p><a id="post-20484-_gjdgxs"></a> Rinklin, whose office is based in Freiburg, <a href="https://www.deepdotweb.com/2017/05/20/slovakian-drug-dealer-arrested-germany/">Germany</a>, where drug-related crimes are on the rise, says that cases in which the accused is charged with the unlawful acquisition of narcotics via the dark web are on the rise. In these cases, the lawyer advises people to consult the investigations before submitting an application. The accused is therefore advised not to make a statement in the context of an interrogation with the police.</p>

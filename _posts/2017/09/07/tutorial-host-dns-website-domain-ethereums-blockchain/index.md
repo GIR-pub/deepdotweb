@@ -10,7 +10,7 @@ tag-blockchain tag-dns tag-domain tag-ethereums tag-tutorial tag-website">
     <span><a href="https://www.deepdotweb.com/2017/09/07/tutorial-host-dns-website-domain-ethereums-blockchain/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>You can now host DNS domains on Ethereum&#8217;s blockchain through ENS, which is short for Ethereum Name Service, a distributed, extensible domain naming system that relies on Ethereum&#8217;s blockchain. This is possible via adjusting the domain name server settings to point to gateway DNS servers, which resolve lookups through checking an ENS registry that points to resolvers including the zone data for the domain in question.</p>
     <p>Throughout this tutorial, I will present you with a simple guide to help you host your DNS domain on the blockchain.</p>
     <p><strong>Note: You have to be running a full Ethereum node on your machine to be able to follow through this tutorial. We have </strong><a href="https://www.deepdotweb.com/2017/05/25/tutorial-run-full-ethereum-node-windows/"><strong>a detailed tutorial on how to run a full Ethereum node</strong></a><strong> that will help you run yours, even if you are a total newbie. </strong></p>

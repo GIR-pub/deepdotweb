@@ -9,7 +9,7 @@ Bitcoin news roundup, 10th December 2016
     <span><a href="https://www.deepdotweb.com/2016/12/11/bitcoin-news-roundup-10th-december-2016/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>This week’s summary of various cryptocurrency news and developments:</p>
     <h2>New Developments:</h2>
     <p><strong>Circle has decided to give up on the bitcoin side of its business</strong></p>

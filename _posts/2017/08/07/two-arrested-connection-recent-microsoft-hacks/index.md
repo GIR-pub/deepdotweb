@@ -9,7 +9,7 @@ Two Arrested in Connection to Recent Microsoft Hacks
     <span><a href="https://www.deepdotweb.com/2017/08/07/two-arrested-connection-recent-microsoft-hacks/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>According to a report from the South East Regional Crime Unit, law enforcement in Britain arrested two men for their involvement in a conspiracy to hack into Microsoft networks. <a href="http://www.serocu.org.uk/32/section.aspx/30/serocu_arrest_two_as_part_of_international_investigation_into_unauthorised_access_to_the_microsoft_n">SEROCU reported</a> an investigation into an “unauthorised intrusion into networks that Microsoft owns.” The breach occurred sometime between January and March, sources wrote.</p>
     <p>Police in Britain, during a raid connected to the instigation, seized “a number of devices.” The device&#8217;s and their contents (assuming some of the devices are digital storage mediums) were not revealed after the raid. In fact, the majority of the case itself has been keys under wraps from the very start. Even the specific networks that the two men breached have not been revealed. The only part released by authorities was the connection to Microsoft networks.</p>
     <p><img class="wp-image-21800 aligncenter" src="/imgs/2017/08/microsoft-1-jpg.jpeg" alt="Microsoft-1.jpg" srcset="/imgs/2017/08/microsoft-1-jpg.jpeg 720w, /imgs/2017/08/microsoft-1-jpg-300x161.jpeg 300w" sizes="(max-width: 720px) 100vw, 720px" /></p>

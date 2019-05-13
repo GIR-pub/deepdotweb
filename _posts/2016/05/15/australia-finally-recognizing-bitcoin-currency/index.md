@@ -9,7 +9,7 @@ Australia Finally recognizing Bitcoin as Currency
     <span><a href="https://www.deepdotweb.com/2016/05/15/australia-finally-recognizing-bitcoin-currency/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p><a href="http://www.newsbtc.com/2016/05/05/australian-regulators-bring-bitcoin-aml-laws/">Bitcoin is changing in Australia.</a> The Australian federal government is changing their stance on cryptocurrency. They want to avoid any double taxation situations by implementing AML/CTF regulations to cryptocurrency.</p>
     <p>Cryptocurrency is considered barter, instead of a real currency in Australia. This has caused a heavily unbalanced tax situation for anyone dealing in cryptocurrencies. Really, the biggest change comes from  the extension of the AML/CTF act of 2006 to all cryptocurrencies in Australia. This has been talked about before, back in December of 2013, but this time it looks like the Aussie government is in favor as well.</p>
     <p>“Internationally, it is considered that the extension of AML/CTF regulation to include convertible digital currency exchanges would encourage innovation and investment by ensuring service providers have greater certainty and security in their dealings with digital currency business, while reducing the money laundering and terrorist financing risks associated with emerging technology,” an Australian Government spokesperson said.</p>

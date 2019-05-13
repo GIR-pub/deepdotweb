@@ -9,7 +9,7 @@ Two Germans Arrested for Selling Fake Euros on the Darknet
     <span><a href="https://www.deepdotweb.com/2016/12/02/two-germans-arrested-selling-fake-euros-darknet/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>In November, the Hamburg State Criminal Police (LKA) arrested Peyman F., a 22-year-old counterfeiter. Officers caught the suspect with two packages of fake euro notes. He almost arrived at the post office to ship the packages to darknet buyers.</p>
     <p>Uwe Kelting, the Hamburg Chief Inspector, said &#8220;this was a great success for us.&#8221; Investigators discovered fake notes totaling 100,000 euros in value. Fake euros were a major concern for the Federal Criminal Police (BKA) in 2016. According to a BKA report, <a href="https://www.deepdotweb.com/2016/05/10/counterfeit-euros-running-wild-germany/">counterfeiting crimes increased by 42 percent</a> since 2015. Additionally, the counterfeiters were making notes that were far more realistic.</p>
     <p><img class="wp-image-16704 aligncenter" src="/imgs/2016/11/gefaelschte-50er-jpg.jpeg" alt="gefaelschte-50er.jpg" srcset="/imgs/2016/11/gefaelschte-50er-jpg.jpeg 595w, /imgs/2016/11/gefaelschte-50er-jpg-300x169.jpeg 300w" sizes="(max-width: 595px) 100vw, 595px"/></p>

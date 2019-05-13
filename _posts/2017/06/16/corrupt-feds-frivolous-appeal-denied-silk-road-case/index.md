@@ -9,7 +9,7 @@ Corrupt Fed’s “Frivolous” Appeal Denied in Silk Road Case
     <span><a href="https://www.deepdotweb.com/2017/06/16/corrupt-feds-frivolous-appeal-denied-silk-road-case/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>At least two former members of the US law enforcement agencies tasked with taking down the Silk Road demonstrated gross abuse of power. One of the two, a former Secret Service agent named Shaun W. Bridges, stole more than $800,000 in bitcoins from Silk Road accounts. U.S. District Court Judge Richard Seeborg convicted Bridges of the theft in 2015 and Bridges filed an appeal shortly afterwards. <a href="https://www.law360.com/articles/912825/9th-circ-axes-agent-s-appeal-in-silk-road-bitcoin-theft-case">The 9th Circuit Court recently denied the appeal</a> and the former Secret Service agent’s right to do so.</p>
     <p>In 2015, Shaun Bridges pleaded guilty to money laundering and obstruction of justice. And in the 2015 plea agreement, Bridges waived his right to file an appeal. <a href="https://www.deepdotweb.com/2015/12/12/second-former-government-agent-and-bitcoin-pirate-sentenced/">He received a 71-month sentence</a> in exchange for the guilty plea.</p>
     <p>The three-judge panel that denied the defendant’s appeal also granted the request from Davina Pujari—the defendant’s former counsel—who asked to be removed from the case.</p>

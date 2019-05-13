@@ -9,7 +9,7 @@ Open Source Intelligence OSINT and the Dark Web
     <span><a href="https://www.deepdotweb.com/2017/02/02/open-source-intelligence-osint-and-the-dark-web/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>The dark web, the part of the deep web which is comprised of a number of darknets (e.g. Tor, Freenet, I2P&#8230;etc), provides individuals with an anonymous way to connect to the internet and publish information. Although this anonymous atmosphere is used to facilitate communications for legitimate purposes, it is also exploited for transforming information, services and goods for illegal purposes. Accordingly, <a href="https://www.deepdotweb.com/2014/12/24/deep-web-law-enforcement-introduction-intelligence/">Law Enforcement Agencies (LEAs) are interested in open source intelligence OSINT on many darknets</a>, which would allow them to prosecute those involved in terrorist or criminal activities.</p>
     <p>Throughout this article, we will look at LEAs&#8217; approaches in OSINT on various darknets and their currently used techniques for de-anonymizing users on the dark web.</p>
     <p><img class="wp-image-17910 aligncenter" src="/imgs/2017/01/osint-png.png" alt="OSINT.PNG" srcset="/imgs/2017/01/osint-png.png 733w, /imgs/2017/01/osint-png-300x123.png 300w" sizes="(max-width: 733px) 100vw, 733px"/></p>

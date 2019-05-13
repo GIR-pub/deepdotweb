@@ -9,7 +9,7 @@ More Arrests In The Playpen Case
     <span><a href="https://www.deepdotweb.com/2016/04/14/arrests-playpen-case/#comments">20 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Operation Pacifier, being one of the largest action targeting the dark web by the Federal Bureau of Investigation, had resulted in the <a href="http://www.houstonchronicle.com/news/houston-texas/houston/article/Federal-agents-sweep-child-pornography-site-by-7240097.php">arrests of more than 135 people</a> in 18 states in child pornography cases. The operation included both the bust of the child porn website Playpen and <a href="https://www.deepdotweb.com/2016/01/08/fbi-ultimate-hack-job-1300-computers-take-down/">placing a malware on the website</a> that tracked and logged the users who were using the domain while the federal agency was running it.</p>
     <p>Many of the arrested people in the Playpen case were white-collar professionals, including a pediatrician, a math teacher, a professor, a public school administrator, a preschool teacher, a former bank executive and a federal drug enforcement agent.</p>
     <p>The most recent arrests took place in Houston, including the busts of Gregg Carl Baird, Dennis Patrick Meehan Hughes, Matthew Kirk Irwin, Louis Clifford Smith, Jacob Riley Garner and John Christopher Ferguson who are now facing child pornography charges in a Houston federal court.</p>

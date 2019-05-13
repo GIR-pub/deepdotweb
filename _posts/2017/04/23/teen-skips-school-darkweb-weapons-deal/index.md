@@ -9,7 +9,7 @@ Teen Skips School for a Darkweb Weapons Deal
     <span><a href="https://www.deepdotweb.com/2017/04/23/teen-skips-school-darkweb-weapons-deal/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A 14-year-old appeared before a judge at Ballymena Magistrates&#8217; Court. He faced the charge of attempting to possess a firearm with intent to endanger life, the arresting officer explained. She, the police officer made the arrest and played the role of an online weapons vendor. The suspect told her that he attempted to purchase the gun for a Jamaican man from Facebook.</p>
     <p>The officer explain to the court that she found no Facebook friend that matched the description he gave her. She argued that he intended to intimidate another person with the gun, based on a phrase he gave her at one time. His intention was to “intimidate a third party,” she quoted him as saying. The court denied a normal bail on account of the officers argument that he, at the very least, would destroy evidence. <a href="http://www.independent.ie/irish-news/courts/14yearold-skips-school-to-buy-machine-gun-35607366.html">The Judge allowed home arrest</a>, however.</p>
     <p><img class="wp-image-19343 aligncenter" src="/imgs/2017/04/word-image-29.jpeg" srcset="/imgs/2017/04/word-image-29.jpeg 900w, /imgs/2017/04/word-image-29-300x167.jpeg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>

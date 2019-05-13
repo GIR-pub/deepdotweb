@@ -9,7 +9,7 @@ Report Says Business Is Booming For Hackers
     <span><a href="https://www.deepdotweb.com/2016/04/18/report-says-business-booming-hackers/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>A security firm, Dell SecureWorks, released a new report where intelligence analysts say that currently, the ”<a href="http://blogs.wsj.com/law/2016/04/05/underground-hacker-market-is-booming-says-new-report/">business is booming” for hackers</a> on dark web markets and websites. According to the researchers, malware, which had been a great problem for both companies and institutes lately, is “much cheaper and continues to offer a low barrier to entry for cybercriminals looking to steal information”.</p>
     <p>The analysts at Dell SecureWorks had crawled through numerous dark net websites in the past 8 months and based their research on them. Here are some hacker services that they have found during their search:</p>
     <p>A service that is offering to steal personal emails from Gmail or Yahoo accounts for the cost of $129. According to the report, one illegal service stated that emails could be snatched without the victim noticing any suspicious activity. There was another ”service provider” who offered to hack into corporate email accounts, that even costs more: $500 per mailbox.</p>

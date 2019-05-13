@@ -9,7 +9,7 @@ ISIS Cyber Criminal Sentenced 8 Years in UK For Spreading Propaganda on Dark Web
     <span><a href="https://www.deepdotweb.com/2017/05/16/isis-cyber-criminal-sentenced-8-years-uk-spreading-propaganda-dark-web/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Samata Ullah, a resident of Cardiff, the capital of Wales, was arrested in early 2016 for the possession and distribution of ISIS propaganda material.</p>
     <p>Local police discovered various hidden storage of ISIS propaganda material in devices including his USB sticks disguised as cufflinks. During a raid of his home located in Cardiff, local police found an additional eight terabytes of data from Ullah’s computer that contained massive amounts of ISIS propaganda material and inappropriate content related to the terrorist organization.</p>
     <p>Investigators further discovered that Ullah produced and distributed instructional videos for members of other terrorist organizations to provide various methods of encrypting online terrorist material. The instructional videos published by Ullah are said to have aided more terrorists in the region and globally to hide sensitive illegal and propaganda material from the authorities.</p>

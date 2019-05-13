@@ -9,7 +9,7 @@ Penguin Mixer: Review and Tutorial
     <span><a href="https://www.deepdotweb.com/2017/02/23/penguin-mixer-review-tutorial/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>
-    <div class="entry">
+    
     <p>Today, we are going to review and teach you how to use the Penguin mixer. The reason why we have taken an interest on this particular mixer is its open source nature. Like the mixer itself explains on the front page, the deep web relies on a multitude of open source services like Linux, Tor and Bitcoin. However, bitcoin mixers are usually closed source, meaning that one must place a great deal of trust, not only on the operators, but also on the code itself. With Penguin, everyone can take a look “under the hood” and see how it works. Furthermore, the code can also be used to create your own dark web mixing service and Penguin mixer even provides a tutorial on how to do this.</p>
     <p>Although its design leaves much to be desired, the mixer itself is highly intuitive and easy to use, and in the end that’s what matters. The major benefit of such an archaic design is security as no JavaScript is used.</p>
     <p>Another great thing about this mixer is the fee! The mixing fee in Penguin mixer is randomized between 0.5% and 1% which is lower than most mixers (yay)! You’ll also have the option of using multiple addresses and extended time delay which we advise you to use (both).</p>

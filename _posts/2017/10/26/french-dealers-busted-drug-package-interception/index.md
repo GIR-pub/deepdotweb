@@ -18,7 +18,7 @@ French Dealers Busted After Drug Package Interception
     </p>
     <div class="clear"></div>
     
-    <div class="entry">
+    
     
     <p>French law enforcement completed the third wave of arrests connected to an ongoing drug trafficking investigation. In Spring 2017, La Poste intercepted packages of drugs that led to the discovery of a drug trafficking network in Gap, a commune in Hautes-Alpes, France. Within the first few months of the investigation, French police forces tracked the packages from a darknet vendor to the first group of drug traffickers, setting off the sequence of events that set the third wave in motion.</p>
     <p>According to <a href="http://www.laprovence.com/actu/en-direct/4660089/hautes-alpes-la-drogue-etait-notamment-achetee-sur-le-darknet.html">laprovence.com</a>, the Research Brigade of the Gap Gendarmerie arrested one dozen suspects within six months of the investigation. The majority of the suspects were roughly 20-years-old, but one suspect had been a minor at the time of his arrest. The suspects from the third wave of arrests—not unlike those in the prior waves of arrests—had distributed cocaine, ecstasy, amphetamines, and marijuana for several months. After ordering drugs in bulk from <a href="http://deepdotweb.com/tag/darknet">darknet vendors</a>, the dealers moved their product through the Hautes-Alpes department.</p>
