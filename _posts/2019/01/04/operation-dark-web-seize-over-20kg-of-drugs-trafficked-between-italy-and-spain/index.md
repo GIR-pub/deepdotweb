@@ -1,7 +1,7 @@
 ---
 Operation ‘Dark Web’ Seize over 20kg of Drugs Trafficked between Italy and Spain
 ---
-<article class="post-listing post-27962 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-20kg tag-dark tag-drugs tag-italy tag-operation tag-seize tag-spain tag-trafficked tag-web">
+<article class="post-listing post-27962 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-20kg tag-dark tag-italy tag-operation tag-seize tag-spain tag-trafficked tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>January 4, 2019</span>

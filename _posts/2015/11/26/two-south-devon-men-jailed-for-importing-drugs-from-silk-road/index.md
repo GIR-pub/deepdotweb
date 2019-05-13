@@ -1,7 +1,7 @@
 ---
 Two South Devon Men Jailed For Importing Drugs From Silk Road
 ---
-<article class="post-listing post-12312 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-devon tag-drugs tag-importing tag-jailed tag-men tag-road tag-silk tag-south">
+<article class="post-listing post-12312 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-devon tag-importing tag-jailed tag-men tag-road tag-silk tag-south">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 26, 2015</span>

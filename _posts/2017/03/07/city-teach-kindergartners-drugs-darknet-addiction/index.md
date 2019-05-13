@@ -2,7 +2,7 @@
 City to Teach Kindergartners About Drugs, Darknet, and Addiction
 ---
 <article class="post-listing post-18481 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-addiction tag-city tag-darknet tag-drugs tag-kindergartners tag-teach">
+category-news-updates tag-addiction tag-city tag-darknet tag-kindergartners tag-teach">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 7, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Two German Dealers Caught, 100,000 Euros Worth Of Drugs Seized
 ---
-<article class="post-listing post-15632 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1899 tag-caught tag-dealers tag-drugs tag-euros tag-german tag-seized tag-worth">
+<article class="post-listing post-15632 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1899 tag-caught tag-dealers tag-euros tag-german tag-seized tag-worth">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 2, 2016</span>

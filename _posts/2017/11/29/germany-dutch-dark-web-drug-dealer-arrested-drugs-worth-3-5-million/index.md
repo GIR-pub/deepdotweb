@@ -1,7 +1,7 @@
 ---
 Germany: Dutch Dark Web Drug Dealer Arrested with Drugs worth $3.5 million
 ---
-<article class="post-listing post-23723 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3043 tag-arrested tag-dark tag-dealer tag-drug tag-drugs tag-dutch tag-germany tag-million tag-web tag-worth">
+<article class="post-listing post-23723 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3043 tag-arrested tag-dark tag-dealer tag-drug tag-dutch tag-germany tag-million tag-web tag-worth">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/eddiem/" title="">Eddie. M. </a></span>
     <span>November 29, 2017</span>

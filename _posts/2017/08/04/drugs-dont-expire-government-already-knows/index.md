@@ -1,7 +1,7 @@
 ---
 Most Drugs Don’t Expire (and Why the Government Already Knows This)
 ---
-<article class="post-listing post-21735 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drugs tag-expire tag-government">
+<article class="post-listing post-21735 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-expire tag-government">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>August 4, 2017</span>

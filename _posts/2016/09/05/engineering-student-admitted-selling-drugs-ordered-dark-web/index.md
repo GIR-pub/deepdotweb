@@ -1,7 +1,7 @@
 ---
 Engineering Student Admitted Selling Drugs He Ordered From Dark Web
 ---
-<article class="post-listing post-15330 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admitted tag-dark tag-drugs tag-engineering tag-ordered tag-selling tag-student tag-web">
+<article class="post-listing post-15330 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admitted tag-dark tag-engineering tag-ordered tag-selling tag-student tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 5, 2016</span>

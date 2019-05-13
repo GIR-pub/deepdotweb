@@ -1,7 +1,7 @@
 ---
 Ex-Silk Road Vendor Faces Up To 20 Years in Prison for Dealing Methylone
 ---
-<article class="post-listing post-11605 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-45 tag-dealing tag-exsilk tag-faces tag-methylone tag-prison tag-road tag-vendor tag-years">
+<article class="post-listing post-11605 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updatestag-dealing tag-exsilk tag-faces tag-methylone tag-prison tag-road tag-vendor tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>September 25, 2015</span>

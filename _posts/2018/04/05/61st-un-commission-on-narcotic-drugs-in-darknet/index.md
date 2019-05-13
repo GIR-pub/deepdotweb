@@ -2,7 +2,7 @@
 61st UN Commission on Narcotic Drugs in Darknet
 ---
 <article class="post-listing post-25274 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-61st tag-commission tag-darknet tag-drugs tag-narcotic">
+category-news-updates tag-61st tag-commission tag-darknet tag-narcotic">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/isaacddanso/" title="">Isaac Danso </a></span>
 <span>April 5, 2018</span>

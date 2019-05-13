@@ -1,7 +1,7 @@
 ---
 Anonymous Hacks Freedom Hosting II, Bringing Down Almost 20% of Active Darknet Sites
 ---
-<article class="post-listing post-18045 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-45 tag-active tag-anonymous tag-bringing tag-darknet tag-freedom tag-hacks tag-hosting tag-ii tag-sites">
+<article class="post-listing post-18045 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updatestag-active tag-anonymous tag-bringing tag-darknet tag-freedom tag-hacks tag-hosting tag-ii tag-sites">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 9, 2017</span>

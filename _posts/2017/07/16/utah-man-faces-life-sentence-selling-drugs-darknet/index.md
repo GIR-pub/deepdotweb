@@ -1,7 +1,7 @@
 ---
 Utah Man Faces Life Sentence for Selling Drugs on the Darknet
 ---
-<article class="post-listing post-21359 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-drugs tag-faces tag-life tag-man tag-selling tag-sentence tag-utah">
+<article class="post-listing post-21359 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-faces tag-life tag-man tag-selling tag-sentence tag-utah">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 Authorities Push Legislation That Aims To End The Shipping Of Drugs Via USPS
 ---
-<article class="post-listing post-15655 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-aims tag-authorities tag-drugs tag-legislation tag-push tag-shipping tag-usps">
+<article class="post-listing post-15655 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-aims tag-authorities tag-legislation tag-push tag-shipping tag-usps">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 4, 2016</span>

@@ -2,7 +2,7 @@
 US Silk Road 2.0 Reseller Sentenced To Prison
 ---
 <article class="post-listing post-18816 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-45 tag-prison tag-reseller tag-road tag-sentenced tag-silk">
+category-news-updatestag-prison tag-reseller tag-road tag-sentenced tag-silk">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 27, 2017</span>

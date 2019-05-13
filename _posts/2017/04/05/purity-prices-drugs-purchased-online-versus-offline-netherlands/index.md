@@ -1,7 +1,7 @@
 ---
 Purity and Prices of Drugs Purchased Online Versus Offline in the Netherlands
 ---
-<article class="post-listing post-19009 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drugs tag-netherlands tag-offline tag-online tag-prices tag-purchased tag-purity">
+<article class="post-listing post-19009 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-netherlands tag-offline tag-online tag-prices tag-purchased tag-purity">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>April 5, 2017</span>

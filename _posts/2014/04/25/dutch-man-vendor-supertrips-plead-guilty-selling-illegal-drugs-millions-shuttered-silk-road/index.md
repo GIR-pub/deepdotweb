@@ -1,7 +1,7 @@
 ---
 Dutch Man (Vendor: SuperTrips) To Plead Guilty To Selling Illegal Drugs For Millions On Shuttered Silk Road
 ---
-<article class="post-listing post-5121 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drugs tag-dutch tag-guilty tag-illegal tag-man tag-millions tag-plead tag-road tag-selling tag-shuttered tag-silk tag-supertrips tag-vendor">
+<article class="post-listing post-5121 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dutch tag-guilty tag-illegal tag-man tag-millions tag-plead tag-road tag-selling tag-shuttered tag-silk tag-supertrips tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 25, 2014</span>

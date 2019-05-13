@@ -2,7 +2,7 @@
 German Father Bought Drugs With Counterfeit Euro Notes
 ---
 <article class="post-listing post-21845 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bought tag-counterfeit tag-drugs tag-euro tag-father tag-german tag-notes">
+category-news-updates tag-bought tag-counterfeit tag-euro tag-father tag-german tag-notes">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 9, 2017</span>

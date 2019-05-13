@@ -2,7 +2,7 @@
 Austrian Addict Ordered Drugs During Therapy
 ---
 <article class="post-listing post-22521 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-addict tag-austrian tag-drugs tag-ordered tag-therapy">
+category-news-updates tag-addict tag-austrian tag-ordered tag-therapy">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 13, 2017</span>

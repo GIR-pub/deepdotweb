@@ -2,7 +2,7 @@
 20-Year-Old Charged With Possession of Darknet Drugs in Bedroom
 ---
 <article class="post-listing post-25158 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-20yearold tag-bedroom tag-charged tag-darknet tag-drugs tag-possession">
+category-news-updates tag-20yearold tag-bedroom tag-charged tag-darknet tag-possession">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>March 26, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Smuggling Counterfeit Drugs Is The New Business In Germany
 ---
-<article class="post-listing post-16366 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-business tag-counterfeit tag-drugs tag-germany tag-smuggling">
+<article class="post-listing post-16366 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-business tag-counterfeit tag-germany tag-smuggling">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 10, 2016</span>

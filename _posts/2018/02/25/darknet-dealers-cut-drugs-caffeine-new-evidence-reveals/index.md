@@ -2,7 +2,7 @@
 Darknet Dealers Cut Drugs with Caffeine, New Evidence Reveals
 ---
 <article class="post-listing post-24866 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-caffeine tag-cut tag-darknet tag-dealers tag-drugs tag-evidence tag-reveals">
+category-news-updates tag-caffeine tag-cut tag-darknet tag-dealers tag-evidence tag-reveals">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 25, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Report: Increase In Parcels Containing Drugs In Estonia
 ---
-<article class="post-listing post-16594 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drugs tag-estonia tag-increase tag-parcels tag-report">
+<article class="post-listing post-16594 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-estonia tag-increase tag-parcels tag-report">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 26, 2016</span>

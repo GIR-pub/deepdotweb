@@ -2,7 +2,7 @@
 Former Russian police officer claims: &#8220;War on drugs is lost&#8221;
 ---
 <article class="post-listing post-24296 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-claims tag-drugs tag-lost tag-officer tag-police tag-russian tag-war">
+category-news-updates tag-claims tag-lost tag-officer tag-police tag-russian tag-war">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>January 6, 2018</span>

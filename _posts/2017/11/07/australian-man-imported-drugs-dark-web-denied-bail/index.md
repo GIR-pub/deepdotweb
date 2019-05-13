@@ -1,7 +1,7 @@
 ---
 Australian Man who imported Drugs from the Dark Web Denied Bail
 ---
-<article class="post-listing post-23430 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australian tag-bail tag-dark tag-denied tag-drugs tag-imported tag-man tag-web">
+<article class="post-listing post-23430 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australian tag-bail tag-dark tag-denied tag-imported tag-man tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>November 7, 2017</span>

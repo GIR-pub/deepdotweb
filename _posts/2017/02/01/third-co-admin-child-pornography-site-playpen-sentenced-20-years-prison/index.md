@@ -1,7 +1,7 @@
 ---
 Third Co-Admin of the Child Pornography Site “PlayPen” Sentenced to 20 Years in Prison
 ---
-<article class="post-listing post-17887 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-45 tag-child tag-coadmin tag-playpen tag-pornography tag-prison tag-sentenced tag-site tag-years">
+<article class="post-listing post-17887 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updatestag-child tag-coadmin tag-playpen tag-pornography tag-prison tag-sentenced tag-site tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 1, 2017</span>

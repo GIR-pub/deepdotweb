@@ -2,7 +2,7 @@
 Maryland Man Gets 20 Years for Distributing Child Pornography
 ---
 <article class="post-listing post-25527 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-45 tag-child tag-distributing tag-man tag-maryland tag-pornography tag-years">
+category-news-updatestag-child tag-distributing tag-man tag-maryland tag-pornography tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 27, 2018</span>

@@ -1,7 +1,7 @@
 ---
 New Book Introduction: &#8220;Drugs on the Dark Net&#8221;
 ---
-<article class="post-listing post-7104 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-book tag-dark tag-drugs tag-net">
+<article class="post-listing post-7104 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-net">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 16, 2014</span>

@@ -1,7 +1,7 @@
 ---
 &#8216;DoctorClu&#8217; Pleads Guilty In Silk Road 2.0 Case
 ---
-<article class="post-listing post-13575 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-45 tag-case tag-doctorclu tag-guilty tag-pleads tag-road tag-silk">
+<article class="post-listing post-13575 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updatestag-case tag-doctorclu tag-guilty tag-pleads tag-road tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 26, 2016</span>

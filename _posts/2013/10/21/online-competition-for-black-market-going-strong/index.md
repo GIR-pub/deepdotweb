@@ -1,7 +1,7 @@
 ---
 title: Online competition for black market going strong
 ---
-676 category-deepdot-news tag-black tag-competition tag-market tag-online tag-strong">
+676 tag-black tag-competition tag-market tag-online tag-strong">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 21, 2013</span>

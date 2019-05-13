@@ -1,7 +1,7 @@
 ---
 title: Drugs Smuggling Cat Was Arrested at a Moldovan Jail
 ---
-587 tag-arrested tag-cat tag-drugs tag-jail tag-moldovan tag-smuggling post-listing tie_video">
+587 tag-arrested tag-cat tag-jail tag-moldovan tag-smuggling post-listing tie_video">
 <div class="single-post-video">
 <iframe width="507" height="380" src="http://www.youtube.com/embed/d9zc95umEPU?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     

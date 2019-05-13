@@ -1,7 +1,7 @@
 ---
 College Dropouts Caught On Selling Drugs From Darknet In India
 ---
-<article class="post-listing post-11210 post type-post status-publish format-standard hentry category-news tag-caught tag-college tag-darknet tag-dropouts tag-drugs tag-india tag-selling">
+<article class="post-listing post-11210 post type-post status-publish format-standard hentry category-news tag-caught tag-college tag-darknet tag-dropouts tag-india tag-selling">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>August 7, 2015</span>

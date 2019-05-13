@@ -1,7 +1,7 @@
 ---
 Silk Road 2.0 Admin: Silk Road is Not Dead
 ---
-<article class="post-listing post-4213 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-45 tag-admin tag-dead tag-road tag-silk">
+<article class="post-listing post-4213 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updatestag-admin tag-dead tag-road tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 16, 2014</span>

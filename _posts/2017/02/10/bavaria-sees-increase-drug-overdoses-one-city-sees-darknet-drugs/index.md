@@ -1,7 +1,7 @@
 ---
 Bavaria Sees Increase in Drug Overdoses, but One City Only Sees More Darknet Drugs
 ---
-<article class="post-listing post-18067 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bavaria tag-city tag-darknet tag-drug tag-drugs tag-increase tag-overdoses tag-sees">
+<article class="post-listing post-18067 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bavaria tag-city tag-darknet tag-drug tag-increase tag-overdoses tag-sees">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 10, 2017</span>

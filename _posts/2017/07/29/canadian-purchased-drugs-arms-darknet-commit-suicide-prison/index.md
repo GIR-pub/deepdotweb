@@ -1,7 +1,7 @@
 ---
 A Canadian Who Purchased Drugs and Arms from Darknet Commit Suicide in Prison
 ---
-<article class="post-listing post-21618 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arms tag-canadian tag-commit tag-darknet tag-drugs tag-prison tag-purchased tag-suicide">
+<article class="post-listing post-21618 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arms tag-canadian tag-commit tag-darknet tag-prison tag-purchased tag-suicide">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/sagm-wood/" title="">Sagm Wood </a></span>
     <span>July 29, 2017</span>

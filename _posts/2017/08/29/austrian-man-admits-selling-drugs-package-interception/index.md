@@ -1,7 +1,7 @@
 ---
 Austrian Man Admits to Selling Drugs After Package Interception
 ---
-<article class="post-listing post-22242 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-austrian tag-drugs tag-interception tag-man tag-package tag-selling">
+<article class="post-listing post-22242 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-austrian tag-interception tag-man tag-package tag-selling">
     
     <div class="post-inner">
     

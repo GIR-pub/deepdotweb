@@ -1,7 +1,7 @@
 ---
 Ex-UKIP Member Faces Upto 20 Years in Prison For Wire Fraud
 ---
-<article class="post-listing post-17493 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-45 tag-exukip tag-faces tag-fraud tag-member tag-prison tag-upto tag-wire tag-years">
+<article class="post-listing post-17493 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updatestag-exukip tag-faces tag-fraud tag-member tag-prison tag-upto tag-wire tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 14, 2017</span>

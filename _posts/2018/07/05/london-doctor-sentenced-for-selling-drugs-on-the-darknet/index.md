@@ -2,7 +2,7 @@
 London Doctor Sentenced for Selling Drugs on the Darknet
 ---
 <article class="post-listing post-26211 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-darknet tag-doctor tag-drugs tag-london tag-selling tag-sentenced">
+category-news-updates tag-darknet tag-doctor tag-london tag-selling tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 5, 2018</span>
