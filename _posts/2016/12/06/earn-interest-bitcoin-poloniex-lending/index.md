@@ -59,7 +59,7 @@ How to earn interest on your Bitcoin &#8211; Poloniex Lending
     <p>The APY received with Poloniex lending will depend heavily on market forces. Bitcoin is usually the most profitable coin to lend with an APY ranging from 4-10% under normal circumstances. Keep an eye on your bot and on the lending markets.</p>
     <p>On the next part of this tutorial, we are going to cover lending on the Magnr website. Stay tuned!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/earn/" rel="tag">earn</a> <a href="https://www.deepdotweb.com/tag/interest/" rel="tag">interest</a> <a href="https://www.deepdotweb.com/tag/lending/" rel="tag">lending</a> <a href="https://www.deepdotweb.com/tag/poloniex/" rel="tag">poloniex</a></span> <span style="display:none" class="updated">2016-12-06</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/earn/" rel="tag">earn</a> <a href="https://www.deepdotweb.com/tag/interest/" rel="tag">interest</a> <a href="https://www.deepdotweb.com/tag/lending/" rel="tag">lending</a> <a href="https://www.deepdotweb.com/tag/poloniex/" rel="tag">poloniex</a></span> <span style="display:none" class="updated">2016-12-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

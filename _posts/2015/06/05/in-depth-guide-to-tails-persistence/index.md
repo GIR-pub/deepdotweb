@@ -80,7 +80,7 @@ In-depth Guide to Tails + Persistence
     <p>Congratulations! If you&#8217;ve followed this guide you now have an anonymous and secure operating system for browsing the dark web. There are a few more things to Tails such as Pidgin+OTR messaging, Claws Mail, and a metadata anonymization toolkit, but those are beyond the basics. If you want to learn more check out the documentation at <strong><a href="https://tails.boum.org/doc/index.en.html">https://tails.boum.org/doc/index.en.html</a></strong>.</p>
     <p>Thanks to our skilled tutorials master <a href="http://www.reddit.com/user/MLP_is_my_OPSEC">@MLP_is_my_OPSEC</a> :)</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/indepth/" rel="tag">indepth</a> <a href="https://www.deepdotweb.com/tag/persistence/" rel="tag">persistence</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span> <span style="display:none" class="updated">2015-06-05</span>
+    <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/indepth/" rel="tag">indepth</a> <a href="https://www.deepdotweb.com/tag/persistence/" rel="tag">persistence</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span> <span style="display:none" class="updated">2015-06-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

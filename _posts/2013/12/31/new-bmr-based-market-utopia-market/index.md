@@ -41,6 +41,6 @@ title: "BMR Based Market: Utopia Market
 <p>Keep yourself updated at the Utopia Market URL (currently just the forum):  http://ysas7uv4drg7rlwv.onion/</p>
 <p>We will update the url in our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of hidden marketplaces</a> &#8211; so far at the new markets section &#8211; until we have some real reviews.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/utopia/" rel="tag">utopia</a>
+<a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/utopia/" rel="tag">utopia</a>
 
 Updated: 2013-12-31

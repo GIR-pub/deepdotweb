@@ -1,12 +1,9 @@
 ---
-title: "Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road
+title: "Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road"
 ---
-1362  tag-dies tag-dose tag-massive tag-mdma tag-purchased tag-teen">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 16, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/11/16/teen-dies-from-a-massive-mdma-dose-purchased-on-silk-road/#comments">9 Comments</a></span>
 
 
 <p>As it was published by a few news sources on the UK such as the <a href="http://www.dailymail.co.uk/news/article-2507675/Patrick-McMullen-teen-died-drugs-overdose-friends-listened-Skype.html">Daily Mail</a> and <a href="http://metro.co.uk/2013/11/14/a-tragedy-of-our-times-teen-dies-while-on-skype-after-buying-drugs-from-silk-road-4187879/">Metro</a>:</p>
@@ -22,6 +19,5 @@ title: "Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road
 <p>Obviously its hard to tell so far from this information if the cause of death was a &#8220;bad batch&#8221; of the MDMA, some pre existing disease, results of over heating, not drinking or some sort of acute  serotonin syndrome  &#8211; As we know deaths from MDMA are not a common thing to happen, but what we can say for sure is that 500mg of MDMA (assuming its pure mdma) and 3 Tabs of LSD is a massive dose &#8211; and surely a bad behavior originated in lack of education about the substances that he was ingesting.  This of course could have been avoided with prior research, and purity tests &#8211; Things that were much more accessible without the stupid ban on drugs &#8211; whose disastrous results we can see in many cases such as this one, which were easily avoided if the drug trade was not exclusively in the hands of black market traders, but instead were sold in a controlled and clean manner with proper usage instructions clear warnings &#8211; like any medication.</p>
 <p>We express our deepest sorrow for another loss cause by the war on drugs.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/dies/" rel="tag">dies</a> <a href="https://www.deepdotweb.com/tag/dose/" rel="tag">dose</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a>  <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a>
 
 Updated: 2013-11-16

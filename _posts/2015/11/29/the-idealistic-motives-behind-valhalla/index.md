@@ -56,7 +56,7 @@ Journalist Investigates The Idealistic Motives Behind Valhalla Market
     <p>&#8220;Some say that the privacy on the Internet is not important, because they&#8217;ve got nothing to hide&#8221;, says Nurmi.</p>
     <p>&#8220;It is a bit like saying that I don&#8217;t need the freedom of speech, because I got nothing to say. You can&#8217;t think of human rights from the perspective that they are not needed, because I personally don&#8217;t use them right now.&#8221;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/idealistic/" rel="tag">idealistic</a> <a href="https://www.deepdotweb.com/tag/investigates/" rel="tag">investigates</a> <a href="https://www.deepdotweb.com/tag/journalist/" rel="tag">journalist</a> <a href="https://www.deepdotweb.com/tag/motives/" rel="tag">motives</a> <a href="https://www.deepdotweb.com/tag/valhalla/" rel="tag">valhalla</a></span> <span style="display:none" class="updated">2015-11-29</span>
+    <a href="https://www.deepdotweb.com/tag/idealistic/" rel="tag">idealistic</a> <a href="https://www.deepdotweb.com/tag/investigates/" rel="tag">investigates</a> <a href="https://www.deepdotweb.com/tag/journalist/" rel="tag">journalist</a> <a href="https://www.deepdotweb.com/tag/motives/" rel="tag">motives</a> <a href="https://www.deepdotweb.com/tag/valhalla/" rel="tag">valhalla</a></span> <span style="display:none" class="updated">2015-11-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

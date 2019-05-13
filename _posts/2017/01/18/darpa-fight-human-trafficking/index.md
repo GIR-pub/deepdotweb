@@ -22,7 +22,7 @@ DARPA To Fight Against Human Trafficking
     <p>According to Shen, DARPA funded $67 million to the Memex project. In this case, DARPA uses the help of commercial agents, universities, and others in the development of the technology.</p>
     <p>“They are experts in their fields — image analysis, text analysis or web crawling and so on — and we engage the best of that community to work on this problem. What they’ve essentially done is form coalitions to … build the tools [needed] to solve the problem, because no one of the entities that we call performers is able to do that on their own,” he said.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darpa/" rel="tag">darpa</a> <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/human/" rel="tag">human</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-01-18</span>
+    <a href="https://www.deepdotweb.com/tag/darpa/" rel="tag">darpa</a> <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/human/" rel="tag">human</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-01-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

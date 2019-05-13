@@ -89,7 +89,7 @@ Here’s some tips for using Signal as safely as possible
     <p>Recommended Reading: <a href="https://www.deepdotweb.com/2016/06/22/brief-comparison-secure-messaging-apps/">A Brief Comparison of Secure Messaging Apps</a></p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/signal/" rel="tag">signal</a> <a href="https://www.deepdotweb.com/tag/tips/" rel="tag">tips</a></span> <span style="display:none" class="updated">2016-07-07</span>
+     <a href="https://www.deepdotweb.com/tag/signal/" rel="tag">signal</a> <a href="https://www.deepdotweb.com/tag/tips/" rel="tag">tips</a></span> <span style="display:none" class="updated">2016-07-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

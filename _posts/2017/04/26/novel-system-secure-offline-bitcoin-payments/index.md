@@ -35,7 +35,7 @@ A Novel System for Secure Offline Bitcoin Payments
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/offline/" rel="tag">offline</a> <a href="https://www.deepdotweb.com/tag/payments/" rel="tag">payments</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a></span>				<span style="display:none" class="updated">2017-04-26</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/offline/" rel="tag">offline</a> <a href="https://www.deepdotweb.com/tag/payments/" rel="tag">payments</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a></span>				<span style="display:none" class="updated">2017-04-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     
     

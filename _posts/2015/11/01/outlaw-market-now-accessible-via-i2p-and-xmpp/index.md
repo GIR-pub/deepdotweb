@@ -77,7 +77,7 @@ Outlaw Market now accessible via I2P (and XMPP)
     <p>
     A tutorial of how to access I2P sites <a href="https://www.deepdotweb.com/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">can be found here.</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/accessible/" rel="tag">accessible</a> <a href="https://www.deepdotweb.com/tag/i2p/" rel="tag">i2p</a> <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a> <a href="https://www.deepdotweb.com/tag/xmpp/" rel="tag">xmpp</a></span> <span style="display:none" class="updated">2015-11-01</span>
+    <a href="https://www.deepdotweb.com/tag/accessible/" rel="tag">accessible</a> <a href="https://www.deepdotweb.com/tag/i2p/" rel="tag">i2p</a> <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a> <a href="https://www.deepdotweb.com/tag/xmpp/" rel="tag">xmpp</a></span> <span style="display:none" class="updated">2015-11-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

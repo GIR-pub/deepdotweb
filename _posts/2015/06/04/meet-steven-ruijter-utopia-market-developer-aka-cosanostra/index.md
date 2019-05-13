@@ -57,7 +57,7 @@ Meet Steven Ruijter: Utopia Market Developer Aka &#8220;CosaNostra&#8221;
     <li class="post-box-title"><a title="Permalink to BMR Is Shutting Down!" href="http://www.deepdotweb.com/2013/12/01/bmr-is-shutting-down/" rel="bookmark">BMR Is Shutting Down!</a></li>
     </ul>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cosanostra/" rel="tag">cosanostra</a> <a href="https://www.deepdotweb.com/tag/jail/" rel="tag">jail</a> <a href="https://www.deepdotweb.com/tag/story/" rel="tag">story</a> <a href="https://www.deepdotweb.com/tag/tells/" rel="tag">tells</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2015-06-04</span>
+    <a href="https://www.deepdotweb.com/tag/cosanostra/" rel="tag">cosanostra</a> <a href="https://www.deepdotweb.com/tag/jail/" rel="tag">jail</a> <a href="https://www.deepdotweb.com/tag/story/" rel="tag">story</a> <a href="https://www.deepdotweb.com/tag/tells/" rel="tag">tells</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2015-06-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

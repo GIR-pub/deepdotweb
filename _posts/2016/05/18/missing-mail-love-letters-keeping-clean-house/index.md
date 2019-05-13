@@ -29,7 +29,7 @@ Missing mail, love letters and keeping a clean house
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/clean/" rel="tag">clean</a> <a href="https://www.deepdotweb.com/tag/house/" rel="tag">house</a> <a href="https://www.deepdotweb.com/tag/keeping/" rel="tag">keeping</a> <a href="https://www.deepdotweb.com/tag/letters/" rel="tag">letters</a> <a href="https://www.deepdotweb.com/tag/love/" rel="tag">love</a> <a href="https://www.deepdotweb.com/tag/mail/" rel="tag">mail</a> <a href="https://www.deepdotweb.com/tag/missing/" rel="tag">missing</a></span>				<span style="display:none" class="updated">2016-05-18</span>
+    <a href="https://www.deepdotweb.com/tag/clean/" rel="tag">clean</a> <a href="https://www.deepdotweb.com/tag/house/" rel="tag">house</a> <a href="https://www.deepdotweb.com/tag/keeping/" rel="tag">keeping</a> <a href="https://www.deepdotweb.com/tag/letters/" rel="tag">letters</a> <a href="https://www.deepdotweb.com/tag/love/" rel="tag">love</a> <a href="https://www.deepdotweb.com/tag/mail/" rel="tag">mail</a> <a href="https://www.deepdotweb.com/tag/missing/" rel="tag">missing</a></span>				<span style="display:none" class="updated">2016-05-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
     
     

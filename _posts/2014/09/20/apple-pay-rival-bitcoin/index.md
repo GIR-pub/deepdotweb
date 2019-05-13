@@ -38,7 +38,7 @@ Apple Pay, a Rival to Bitcoin?
     <p>Bitcoin however has several demerits. It suffers low level of acceptance among the business community. It is also faced with volatility due to the lower total value of Bitcoins in circulation and most of its features are still underdeveloped.</p>
     <p>In conclusion, Apple Pay has revolutionized the way many will be paying for things one more time.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/apple/" rel="tag">apple</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/pay/" rel="tag">pay</a> <a href="https://www.deepdotweb.com/tag/rival/" rel="tag">rival</a></span> <span style="display:none" class="updated">2014-09-20</span>
+    <a href="https://www.deepdotweb.com/tag/apple/" rel="tag">apple</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/pay/" rel="tag">pay</a> <a href="https://www.deepdotweb.com/tag/rival/" rel="tag">rival</a></span> <span style="display:none" class="updated">2014-09-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/denniswafula/" title="Posts by Dennis Wafula" rel="author">Dennis Wafula</a></strong></div>
     </div>
 </article>

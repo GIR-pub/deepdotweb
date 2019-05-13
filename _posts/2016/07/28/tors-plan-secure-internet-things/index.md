@@ -16,7 +16,7 @@ Tor’s Plan to Secure the Internet of Things
     <p>The scanning of Tor protected devices is very, very hard. There will be no need to search for vulnerabilities in IoT devices.</p>
     <p>“To many things in our homes, at our hospitals, in our businesses and through our lives are exposed to the public internet without the ability to protect their communication. Tor provides this, for free, with real world hard ended, open source software and strong, state of the art cryptography,” Executive director of the Guardian Project, Nathan Freitas explained.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/plan/" rel="tag">plan</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/tors/" rel="tag">tors</a></span> <span style="display:none" class="updated">2016-07-28</span>
+    <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/plan/" rel="tag">plan</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/tors/" rel="tag">tors</a></span> <span style="display:none" class="updated">2016-07-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

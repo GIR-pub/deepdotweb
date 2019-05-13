@@ -32,7 +32,7 @@ Drops For Beginners: Why You May Or May Not Want To Use One?
 <p>The simple reality is, cops are not prepared to sit on surveillance for operations which aren’t paying dividends. People in cars or stores watching and waiting are a whole lot more expensive than a phone tap.</p>
 <p>It’s a simple numbers game, and it applies to physical surveillance operations generally speaking. Mr heart attack waiting to happen cop has to justify to people higher up why he is using resources on a job which is not paying off. When you do eventually appear, the guy at the post office isn’t gonna jump the counter and make a citizen’s arrest, s/he’s been told to note your details and maybe get your plate if surveillance gave up on you. But think about it – visit a box one time a month, in four different places, or visit one box a week. Where are you more likely to run into dudes in trench coats talking to their wrists? Its straight up, simple numbers. Use them to your advantage.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/beginners/" rel="tag">beginners</a> <a href="https://www.deepdotweb.com/tag/drops/" rel="tag">drops</a></span> <span style="display:none" class="updated">2015-03-23<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/beginners/" rel="tag">beginners</a> <a href="https://www.deepdotweb.com/tag/drops/" rel="tag">drops</a></span> <span style="display:none" class="updated">2015-03-23<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
 </div>
 </article>
 

@@ -26,7 +26,7 @@ Dutch Police Have Taken Over 12 Dream Accounts, Likely More
     <p>Wombat2combat closed the post with the following advice:</p>
     <p>“<em>No vendor would willingly list the DNP key. Either the vendors are compromised [more likely] or the Dream admins, or maybe both. Regardless, if you have ordered from one of the listed vendors, clean your house now (remove everything illegal and suspicious) and research a lawyer… I am not sure why law enforcement would do that, but the customers from these vendors should also proceed as explained above to be safe.</em>”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a> <a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/dream/" rel="tag">dream</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2017-08-07</span>
+    <a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a> <a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/dream/" rel="tag">dream</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2017-08-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

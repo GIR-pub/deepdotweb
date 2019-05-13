@@ -19,7 +19,7 @@ Pedophile Caught After Leaving His Face in Videos
 <p>Given the clarity of the photos taken by the pedophile, it was unlikely he had even taken steps to maintain anonymity on the darknet. The BKA&#8217;s inability to identify him seemed somewhat unusual as they have identified and arrested suspects who left far less of a trail for police to follow than the man seen in the pictures they uploaded to government websites.</p>
 <p>Fortunately for the BKA and his victims, the search ended quickly. They have not yet provided the public with details beyond &#8220;search finished.”</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/face/" rel="tag">face</a> <a href="https://www.deepdotweb.com/tag/leaving/" rel="tag">leaving</a> <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/videos/" rel="tag">videos</a></span> <span style="display:none" class="updated">2018-04-07<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/face/" rel="tag">face</a> <a href="https://www.deepdotweb.com/tag/leaving/" rel="tag">leaving</a> <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/videos/" rel="tag">videos</a></span> <span style="display:none" class="updated">2018-04-07<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

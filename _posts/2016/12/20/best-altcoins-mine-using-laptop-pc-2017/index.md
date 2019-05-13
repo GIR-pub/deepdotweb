@@ -68,7 +68,7 @@ The Best Altcoins To Mine Using a Laptop or a PC in 2017
     <p><strong>Conclusion:</strong></p>
     <p>Using your PC and Graphic card to mine altcoins can help you make a few cents per day utilizing a PC that you have hanging around your place doing nothing. Based on my experiment Bytecoin BCN, MemoryCoin MMC, MonetaVerde MCN and Fantomcoin FCN are the best altcoins to mine using a PC or a laptop. Always put into your consideration the price of the altcoin you choose to mine and always consider shifting to the coins whose prices are soaring!!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/altcoins/" rel="tag">altcoins</a> <a href="https://www.deepdotweb.com/tag/laptop/" rel="tag">laptop</a> <a href="https://www.deepdotweb.com/tag/pc/" rel="tag">pc</a></span> <span style="display:none" class="updated">2016-12-20</span>
+    <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/altcoins/" rel="tag">altcoins</a> <a href="https://www.deepdotweb.com/tag/laptop/" rel="tag">laptop</a> <a href="https://www.deepdotweb.com/tag/pc/" rel="tag">pc</a></span> <span style="display:none" class="updated">2016-12-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

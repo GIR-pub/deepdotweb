@@ -47,7 +47,7 @@ Another Marketplace Seizure Or a Scam? (Andromeda)
     <p>4. And the final point of evidence supporting the scam theory can be found <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2modbl/andromeda_seized_today/cm6apbu">right here</a>, written by Gwern.</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span> <span style="display:none" class="updated">2014-11-18</span>
+    <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span> <span style="display:none" class="updated">2014-11-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

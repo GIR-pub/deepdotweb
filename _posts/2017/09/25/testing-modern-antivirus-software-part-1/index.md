@@ -314,7 +314,7 @@ tag-antivirus tag-modern tag-software tag-testing">
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/antivirus/" rel="tag">antivirus</a> <a href="https://www.deepdotweb.com/tag/modern/" rel="tag">modern</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/software/" rel="tag">software</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span>				<span style="display:none" class="updated">2017-09-25</span>
+    <a href="https://www.deepdotweb.com/tag/antivirus/" rel="tag">antivirus</a> <a href="https://www.deepdotweb.com/tag/modern/" rel="tag">modern</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/software/" rel="tag">software</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span>				<span style="display:none" class="updated">2017-09-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
     
     

@@ -26,7 +26,7 @@ Alphabay to Support Yet Another Payment Method: Zcash
     <p>Of note: the entire structure of Zcash concerns many from a privacy level. The mere footer of the Zcash website raises questions about the future of “decentralized” cryptocurrency. “<a href="https://z.cash">2017 ZEROCOIN ELECTRIC COIN COMPANY</a>”</p>
     <p><img class="wp-image-20542 aligncenter" src="/imgs/2017/06/word-image-47.jpeg" srcset="/imgs/2017/06/word-image-47.jpeg 698w, /imgs/2017/06/word-image-47-300x114.jpeg 300w" sizes="(max-width: 698px) 100vw, 698px" /></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/method/" rel="tag">method</a> <a href="https://www.deepdotweb.com/tag/payment/" rel="tag">payment</a> <a href="https://www.deepdotweb.com/tag/support/" rel="tag">support</a> <a href="https://www.deepdotweb.com/tag/zcash/" rel="tag">zcash</a></span> <span style="display:none" class="updated">2017-06-11</span>
+    <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/method/" rel="tag">method</a> <a href="https://www.deepdotweb.com/tag/payment/" rel="tag">payment</a> <a href="https://www.deepdotweb.com/tag/support/" rel="tag">support</a> <a href="https://www.deepdotweb.com/tag/zcash/" rel="tag">zcash</a></span> <span style="display:none" class="updated">2017-06-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

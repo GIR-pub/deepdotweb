@@ -27,7 +27,7 @@ FBI Investigating The Theft Of 1.3m Bitcoin From Massachusetts Man
     <p>The complexity of the IOUs potentially explain the somewhat convoluted police report.</p>
     <p>No further details have been announced.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/13m/" rel="tag">13m</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/investigating/" rel="tag">investigating</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/massachusetts/" rel="tag">massachusetts</a> <a href="https://www.deepdotweb.com/tag/theft/" rel="tag">theft</a></span> <span style="display:none" class="updated">2016-10-15</span>
+    <a href="https://www.deepdotweb.com/tag/13m/" rel="tag">13m</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/investigating/" rel="tag">investigating</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/massachusetts/" rel="tag">massachusetts</a> <a href="https://www.deepdotweb.com/tag/theft/" rel="tag">theft</a></span> <span style="display:none" class="updated">2016-10-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

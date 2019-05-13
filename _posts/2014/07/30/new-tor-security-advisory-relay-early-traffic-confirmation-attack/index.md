@@ -26,7 +26,7 @@ New Tor Security Advisory: &#8220;Relay Early&#8221; Traffic Confirmation Attack
     <p>Keep yourself updated with this topic at the Torproject blog post: <a href="https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack">https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack</a></p>
     <p>Also there are discussions going on reddit /r/dnm , /r/onions and /r/tor.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/advisory/" rel="tag">advisory</a> <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/confirmation/" rel="tag">confirmation</a> <a href="https://www.deepdotweb.com/tag/early/" rel="tag">early</a> <a href="https://www.deepdotweb.com/tag/relay/" rel="tag">relay</a>   <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> <span style="display:none" class="updated">2014-07-30</span>
+    <a href="https://www.deepdotweb.com/tag/advisory/" rel="tag">advisory</a> <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/confirmation/" rel="tag">confirmation</a> <a href="https://www.deepdotweb.com/tag/early/" rel="tag">early</a> <a href="https://www.deepdotweb.com/tag/relay/" rel="tag">relay</a>   <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> <span style="display:none" class="updated">2014-07-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

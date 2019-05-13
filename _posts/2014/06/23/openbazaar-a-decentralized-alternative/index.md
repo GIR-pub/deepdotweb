@@ -35,7 +35,7 @@ OpenBazaar: A Decentralized Alternative
     <p><strong>Ramifications of OpenBazaar</strong></p>
     <p>OpenBazaar could have through proving identities, a rating system, third party node and usage though Bitcoin addresses would remove any serious potential of scamming. This would create an international market through Bitcoin whilst simultaneously removing many of the fee’s associated with eBay, Amazons and the likes. With Bitcoin breaking borders and being used internationally OpenBazaar would be the market that caters to that global community.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alternative/" rel="tag">alternative</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/openbazaar/" rel="tag">openbazaar</a></span> <span style="display:none" class="updated">2014-06-23</span>
+    <a href="https://www.deepdotweb.com/tag/alternative/" rel="tag">alternative</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/openbazaar/" rel="tag">openbazaar</a></span> <span style="display:none" class="updated">2014-06-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
     </div>
 </article>

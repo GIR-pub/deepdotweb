@@ -92,7 +92,7 @@ Guide: Preventing &#038; Dealing With Compromised Identity
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/compromised/" rel="tag">compromised</a> <a href="https://www.deepdotweb.com/tag/identity/" rel="tag">identity</a></span>				<span style="display:none" class="updated">2014-09-24</span>
+    <a href="https://www.deepdotweb.com/tag/compromised/" rel="tag">compromised</a> <a href="https://www.deepdotweb.com/tag/identity/" rel="tag">identity</a></span>				<span style="display:none" class="updated">2014-09-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
     
     

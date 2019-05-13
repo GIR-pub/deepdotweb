@@ -37,7 +37,7 @@ Alleged Silk Road Admin, Gary Davis, to See No Mercy if Convicted
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/davis/" rel="tag">davis</a> <a href="https://www.deepdotweb.com/tag/gary/" rel="tag">gary</a> <a href="https://www.deepdotweb.com/tag/mercy/" rel="tag">mercy</a> </span>				<span style="display:none" class="updated">2016-08-28</span>
+    <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/davis/" rel="tag">davis</a> <a href="https://www.deepdotweb.com/tag/gary/" rel="tag">gary</a> <a href="https://www.deepdotweb.com/tag/mercy/" rel="tag">mercy</a> </span>				<span style="display:none" class="updated">2016-08-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

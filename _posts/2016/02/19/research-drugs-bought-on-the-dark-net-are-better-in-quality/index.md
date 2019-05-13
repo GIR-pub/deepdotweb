@@ -21,7 +21,7 @@ Research: Drugs Bought On The Dark Net Are Better In Quality
     <p>The monitoring centre researchers also made this statement:</p>
     <p>“Numerous gangland killings occur in Europe as a result of drug transports that have gone wrong. Owing to these mores and the enormous financial interests that hinge on the success of each transaction, it is not likely that the primary negotiations will take place over the deep web.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/quality/" rel="tag">quality</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a></span> <span style="display:none" class="updated">2016-02-19</span>
+    <a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/quality/" rel="tag">quality</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a></span> <span style="display:none" class="updated">2016-02-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

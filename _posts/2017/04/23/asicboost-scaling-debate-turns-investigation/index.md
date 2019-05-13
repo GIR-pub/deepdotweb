@@ -30,7 +30,7 @@ AsicBoost: Scaling Debate Turns into Investigation
     <p><em>“I believe Bitcoin Unlimited was likely set up not to succeed, but simply to block any other progress from happening with Bitcoin.”</em></p>
     <p>It is unclear if any of the allegations towards Bitmain are true. For now, we will have to wait and see.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/asicboost/" rel="tag">asicboost</a> <a href="https://www.deepdotweb.com/tag/debate/" rel="tag">debate</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/scaling/" rel="tag">scaling</a> <a href="https://www.deepdotweb.com/tag/turns/" rel="tag">turns</a></span> <span style="display:none" class="updated">2017-04-23</span>
+    <a href="https://www.deepdotweb.com/tag/asicboost/" rel="tag">asicboost</a> <a href="https://www.deepdotweb.com/tag/debate/" rel="tag">debate</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/scaling/" rel="tag">scaling</a> <a href="https://www.deepdotweb.com/tag/turns/" rel="tag">turns</a></span> <span style="display:none" class="updated">2017-04-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

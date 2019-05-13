@@ -23,7 +23,7 @@ Heroin: Numbers 3 and 4
     <div id="attachment_14525" style="width: 702px" class="wp-caption aligncenter"><a href="/imgs/2016/06/heroin4.png"><img class="size-full wp-image-14525" src="/imgs/2016/06/heroin4.png" alt="Heroin and Heroin Hydrochloride" width="692" height="328" srcset="/imgs/2016/06/heroin4.png 692w, /imgs/2016/06/heroin4-300x142.png 300w" sizes="(max-width: 692px) 100vw, 692px"/></a><p class="wp-caption-text">Heroin and Heroin Hydrochloride</p></div>
     <p>Again, the above information is offered in the context of harm reduction. Under no circumstances should one encourage heroin use. Extreme concern should be expressed when friends or family are known to be using heroin. Heroin is a very dangerous, addictive, and deadly drug. Thanks for reading.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/heroin/" rel="tag">heroin</a> <a href="https://www.deepdotweb.com/tag/numbers/" rel="tag">numbers</a></span> <span style="display:none" class="updated">2016-06-20</span>
+    <a href="https://www.deepdotweb.com/tag/heroin/" rel="tag">heroin</a> <a href="https://www.deepdotweb.com/tag/numbers/" rel="tag">numbers</a></span> <span style="display:none" class="updated">2016-06-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kevin/" title="Posts by -Kevin-" rel="author">-Kevin-</a></strong></div>
     </div>
 </article>

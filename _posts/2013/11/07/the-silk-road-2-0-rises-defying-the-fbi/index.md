@@ -1,12 +1,9 @@
 ---
-title: "The Silk Road 2.0 Rises: Defying the FBI
+title: "The Silk Road 2.0 Rises: Defying the FBI"
 ---
-1201 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 7, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/11/07/the-silk-road-2-0-rises-defying-the-fbi/#respond">Leave a comment</a></span>
 
 
 <p>And so it goes, the Dread Pirate Roberts has returned <a href="http://www.deepdotweb.com/2013/11/06/silk-road-2-0-is-now-officially-open/" target="_blank">As we have already reported</a>.  Perhaps, not in the form of Ross Ulbricht who currently resides behind prison bars, but in a new mysterious character who claims to be ‘DPR’.</p>

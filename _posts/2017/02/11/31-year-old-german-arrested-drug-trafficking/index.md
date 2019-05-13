@@ -22,7 +22,7 @@
     <p>“In the ensuing interrogation, the accused showed up and confessed. He explained the process by which he placed extensive orders for narcotics on the so-called Darknet. He revealed that he ordered the drugs to sell offline,” said police spokeswoman Peggy Bandelin.</p>
     <p>Despite the fact that large quantities of narcotics were seized in the case, the Criminal Police of Elmshorn temporarily released the 31-year-old. Law enforcement authorities started an investigation on the dark net vendor who sold the narcotics to the 31-year-old suspect in Elmshorn.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/31yearold/" rel="tag">31yearold</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a>  <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-02-11</span>
+    <a href="https://www.deepdotweb.com/tag/31yearold/" rel="tag">31yearold</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a>  <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-02-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

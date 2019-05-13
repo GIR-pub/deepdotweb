@@ -23,7 +23,7 @@
 <p>“This investigation demonstrates the strength of collaborative local, state and federal law enforcement efforts in Massachusetts and our strong partnership with the U.S. Attorney’s Office to seek and <a href="https://www.deepdotweb.com/2016/09/23/pill-counterfeiting-lab-bust-dea-warns-fentanyls-danger/">bring to justice anyone who engages in these crimes</a>,” DEA’s Special Agent in Charge Michael J. Ferguson explained.</p>
 <p>No further news regarding the two at-large defendants exists.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/23/" rel="tag">23</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a></span> <span style="display:none" class="updated">2017-03-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/23/" rel="tag">23</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a></span> <span style="display:none" class="updated">2017-03-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

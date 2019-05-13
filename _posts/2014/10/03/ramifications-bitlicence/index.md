@@ -46,7 +46,7 @@ The Ramifications of BitLicence
     <p>This would result in a Jurisdictional differential, meaning Bitcoins will be trading at slightly different prices depending on the location of the traders.</p>
     <p>This view could nonetheless be argued as people don’t value privacy much enough that they’re willing to pay a premium for it. Customers tend to be willing to hand over large amounts of personal information in order to receive services or gain access to something they want. This would mean that Bitcoins in New York would trade at normal market rate.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitlicence/" rel="tag">bitlicence</a> <a href="https://www.deepdotweb.com/tag/ramifications/" rel="tag">ramifications</a></span> <span style="display:none" class="updated">2014-10-03</span>
+    <a href="https://www.deepdotweb.com/tag/bitlicence/" rel="tag">bitlicence</a> <a href="https://www.deepdotweb.com/tag/ramifications/" rel="tag">ramifications</a></span> <span style="display:none" class="updated">2014-10-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
     </div>
 </article>

@@ -34,7 +34,7 @@ Report: The Marketing Strategies Of “Petya” And “Mischa” Ransomware
     <p>Keeping recent backup copies of important data in a secure place, either online or offline</p>
     <p>Ensuring that your system and applications are fully updated and patched”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/marketing/" rel="tag">marketing</a> <a href="https://www.deepdotweb.com/tag/mischa/" rel="tag">mischa</a> <a href="https://www.deepdotweb.com/tag/petya/" rel="tag">petya</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/strategies/" rel="tag">strategies</a></span> <span style="display:none" class="updated">2016-10-06</span>
+    <a href="https://www.deepdotweb.com/tag/marketing/" rel="tag">marketing</a> <a href="https://www.deepdotweb.com/tag/mischa/" rel="tag">mischa</a> <a href="https://www.deepdotweb.com/tag/petya/" rel="tag">petya</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/strategies/" rel="tag">strategies</a></span> <span style="display:none" class="updated">2016-10-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

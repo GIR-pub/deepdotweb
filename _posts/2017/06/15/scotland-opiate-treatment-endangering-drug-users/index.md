@@ -24,7 +24,7 @@ Scotland Opiate Treatment is Endangering Other Drug Users
     <p>Liddell concluded with a similar belief:</p>
     <p>&#8220;<em>The Global Drug Survey gives a useful insight into the range and levels of drugs used in Scotland by people who often do not engage with drug treatment services. This report highlights the gap in service provision for people who would like to cut down their use of cocaine or cannabis in Scotland and reinforces other research about Scotland’s relationship with problematic alcohol use</em>.”</p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/endangering/" rel="tag">endangering</a> <a href="https://www.deepdotweb.com/tag/opiate/" rel="tag">opiate</a> <a href="https://www.deepdotweb.com/tag/scotland/" rel="tag">scotland</a> <a href="https://www.deepdotweb.com/tag/treatment/" rel="tag">treatment</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2017-06-15</span>
+     <a href="https://www.deepdotweb.com/tag/endangering/" rel="tag">endangering</a> <a href="https://www.deepdotweb.com/tag/opiate/" rel="tag">opiate</a> <a href="https://www.deepdotweb.com/tag/scotland/" rel="tag">scotland</a> <a href="https://www.deepdotweb.com/tag/treatment/" rel="tag">treatment</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2017-06-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

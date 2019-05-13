@@ -35,7 +35,7 @@ Indian Government is Training Policemen to Crackdown Electronic Fraud
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/electronic/" rel="tag">electronic</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/indian/" rel="tag">indian</a> <a href="https://www.deepdotweb.com/tag/policemen/" rel="tag">policemen</a> <a href="https://www.deepdotweb.com/tag/training/" rel="tag">training</a></span>				<span style="display:none" class="updated">2017-01-20</span>
+    <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/electronic/" rel="tag">electronic</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/indian/" rel="tag">indian</a> <a href="https://www.deepdotweb.com/tag/policemen/" rel="tag">policemen</a> <a href="https://www.deepdotweb.com/tag/training/" rel="tag">training</a></span>				<span style="display:none" class="updated">2017-01-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
     
     

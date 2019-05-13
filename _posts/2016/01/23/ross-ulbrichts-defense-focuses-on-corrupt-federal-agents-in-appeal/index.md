@@ -20,7 +20,7 @@ Ross Ulbricht&#8217;s Defense Focuses On Corrupt Federal Agents In Appeal
     <p>Finally, Dratel included this statement in the argument:</p>
     <p>“The life sentence imposed on 30-year-old Ross Ulbricht ‘shocks the conscience’…and is therefore substantively unreasonable. Accordingly, Ulbricht should be re-sentenced before a different judge to avoid the irremediable taint from the improper factors the Court considered.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a></span> <span style="display:none" class="updated">2016-01-23</span>
+    <a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a></span> <span style="display:none" class="updated">2016-01-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

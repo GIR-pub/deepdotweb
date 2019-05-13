@@ -37,7 +37,7 @@ Former Vendor’s Records Used to Catch Father and Son Darknet Team
     </ul>
     <p>Both the fentanyl and oxycodone charges carry a five year minimum and a 40 year maximum.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/father/" rel="tag">father</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/son/" rel="tag">son</a> <a href="https://www.deepdotweb.com/tag/team/" rel="tag">team</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-09-05</span>
+    <a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/father/" rel="tag">father</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/son/" rel="tag">son</a> <a href="https://www.deepdotweb.com/tag/team/" rel="tag">team</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-09-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

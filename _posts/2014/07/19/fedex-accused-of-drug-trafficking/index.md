@@ -31,7 +31,7 @@ FedEx Accused of Drug Trafficking
     <iframe id="doc_29912" class="scribd_iframe_embed" src="//www.scribd.com/embeds/234483751/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     <p>Article Source: http://www.courthousenews.com/2014/07/18/69617.htm</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a>  <a href="https://www.deepdotweb.com/tag/fedex/" rel="tag">fedex</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2014-07-19</span>
+    <a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a>  <a href="https://www.deepdotweb.com/tag/fedex/" rel="tag">fedex</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2014-07-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

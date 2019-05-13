@@ -21,7 +21,7 @@ Romanian Carder Duo Sentenced In Germany
     <p>The 38-year-old thought his sentencing was appropriate. He was relieved when he decided to confess since his punishment would be more severe. However, Hans-Jörg Schwarzer, the defender of the younger criminal, argued that four years and nine months in prison would have been justifiable for his client.</p>
     <p>&#8220;You could do more for themselves. But you did not want to,” Judge Dr. Jürgen Zenkel said.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/carder/" rel="tag">carder</a> <a href="https://www.deepdotweb.com/tag/duo/" rel="tag">duo</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/romanian/" rel="tag">romanian</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2016-10-31</span>
+    <a href="https://www.deepdotweb.com/tag/carder/" rel="tag">carder</a> <a href="https://www.deepdotweb.com/tag/duo/" rel="tag">duo</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/romanian/" rel="tag">romanian</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2016-10-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

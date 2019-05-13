@@ -120,6 +120,6 @@ title: "Silk Road Reopens: Losing Escrow Funds &#038; Releasing New Features
 <p>&#8212;-End Quote&#8212;</p>
 <p>The reactions were very enthusiastic and understanding, and in the light of the recent events with many other markets being hacked and owners running away with the users BTC (<a href="http://www.deepdotweb.com/2013/12/06/bmr-hacked-around-200000-stolen/" target="_blank">BMR being the exception</a>), this kind of honesty should not be taken for granted. Much respect to the Silk Road Staff.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/losing/" rel="tag">losing</a> <a href="https://www.deepdotweb.com/tag/releasing/" rel="tag">releasing</a> <a href="https://www.deepdotweb.com/tag/reopens/" rel="tag">reopens</a> 
+<a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/losing/" rel="tag">losing</a> <a href="https://www.deepdotweb.com/tag/releasing/" rel="tag">releasing</a> <a href="https://www.deepdotweb.com/tag/reopens/" rel="tag">reopens</a> 
 
 Updated: 2013-12-28

@@ -39,7 +39,7 @@ Introducing Crypt Design: DarkNet Design Services!
     <p>The best way is to ping an email to <a href="/cdn-cgi/l/email-protection#7c1f0e050c083c1019101d1208130f52130e1b"><span class="__cf_email__" data-cfemail="d7b4a5aea7a397bbb2bbb6b9a3b8a4f9b8a5b0">[email&#160;protected]</span></a>. You can find our public key at the bottom of <a href="http://cryptdesign.com">cryptdesign.com</a> / <a href="http://cryptdesign.i2p">cryptdesign.i2p</a> / <a href="http://v6mc3fd2lg5dv6uz.onion">v6mc3fd2lg5dv6uz.onion</a> &#8211; please feel free to send us any questions directly.</p>
     <p>Thanks DDW!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/crypt/" rel="tag">crypt</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/design/" rel="tag">design</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a></span> <span style="display:none" class="updated">2014-06-04</span>
+    <a href="https://www.deepdotweb.com/tag/crypt/" rel="tag">crypt</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/design/" rel="tag">design</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a></span> <span style="display:none" class="updated">2014-06-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

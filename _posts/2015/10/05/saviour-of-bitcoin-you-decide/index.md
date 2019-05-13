@@ -32,4 +32,4 @@ Saviour of Bitcoin? You decide
 <p><u>Aflao Marketplace</u> &#8211; http://fuc3bgvav4epcydh.onion</p>
 <p><u>Aflao Marketplace Community Forum</u> &#8211; http://yl4nqu25v7zfcimt.onion/fluxbb</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/decide/" rel="tag">decide</a> <a href="https://www.deepdotweb.com/tag/saviour/" rel="tag">saviour</a></span> <span style="display:none" class="updated">2015-10-05
+<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/decide/" rel="tag">decide</a> <a href="https://www.deepdotweb.com/tag/saviour/" rel="tag">saviour</a></span> <span style="display:none" class="updated">2015-10-05

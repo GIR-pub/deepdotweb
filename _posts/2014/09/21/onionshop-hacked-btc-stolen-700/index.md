@@ -45,7 +45,7 @@ Onionshop Hacked ~ BTC Stolen (~700$)
     </div>
     </div>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/700/" rel="tag">700</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/onionshop/" rel="tag">onionshop</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-09-21</span>
+    <a href="https://www.deepdotweb.com/tag/700/" rel="tag">700</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/onionshop/" rel="tag">onionshop</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-09-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -50,7 +50,7 @@ Bitcoin Price Analysis 13 January 2016
     <p>Therefore, a final wave 5 push is expected here &#8211; as high as $700 &#8211; but followed by a correction. A chart of this forecast.</p>
     <p><img class="aligncenter size-full wp-image-12947" src="/imgs/2016/01/8-2.jpg" alt="8" width="1784" height="1537" srcset="/imgs/2016/01/8-2.jpg 1784w, /imgs/2016/01/8-2-300x258.jpg 300w, /imgs/2016/01/8-2-1024x882.jpg 1024w" sizes="(max-width: 1784px) 100vw, 1784px"/></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/january/" rel="tag">january</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-01-13</span>
+    <a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/january/" rel="tag">january</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-01-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

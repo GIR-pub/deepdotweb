@@ -43,7 +43,7 @@ Using Two Factor Authentication Safely
 <p>Q: Why didn’t we use TAILS to get the first email? Is there something wrong with it?</p>
 <p>A: TAILS is great, as you can see we have the latest, we recommend it highly, and use it all the time, but you should use the right tool for the job. The Whonix dual gateway/workstation setup is even more resistant to de-anonymizing attacks than TAILS, it just needs more resources to accomplish that. Any machine that can run Genymotion will have enough ram and the right processor to run Whonix.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/authentication/" rel="tag">authentication</a> <a href="https://www.deepdotweb.com/tag/factor/" rel="tag">factor</a> </span> <span style="display:none" class="updated">2015-08-24<a href="https://www.deepdotweb.com/author/panicmoon/" title="Posts by Panic Moon" rel="author">Panic Moon</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/authentication/" rel="tag">authentication</a> <a href="https://www.deepdotweb.com/tag/factor/" rel="tag">factor</a> </span> <span style="display:none" class="updated">2015-08-24<a href="https://www.deepdotweb.com/author/panicmoon/" title="Posts by Panic Moon" rel="author">Panic Moon</a></strong></div>
 </div>
 </article>
 

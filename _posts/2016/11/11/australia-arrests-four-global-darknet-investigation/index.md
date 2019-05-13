@@ -25,7 +25,7 @@ Australia Arrests Four in Global Darknet Investigation
     <p>The upcoming weeks are reported to yield more darknet-related arrests as law enforcement combs through relevant data. Next year, too will be changing, Keenan said. An additional $230 million was allocated to improve cybersecurity.</p>
     <p>The AFP credits the United States, Canada, United Kingdom, New Zealand, France, Finland and the Netherlands in the newfound partnership.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/australia/" rel="tag">australia</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a></span> <span style="display:none" class="updated">2016-11-11</span>
+    <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/australia/" rel="tag">australia</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a></span> <span style="display:none" class="updated">2016-11-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

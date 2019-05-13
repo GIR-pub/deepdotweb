@@ -197,7 +197,7 @@ DeepDotWeb&#8217;s DarkNet Dictionary Project!
     <p><span style="text-decoration: underline;"><strong>Whistleblowing</strong></span> &#8211; The disclosure by a person, usually an employee in a government agency or private enterprise, to the public or to those in authority, of mismanagement, corruption, illegality, or some other wrongdoing.</p>
     <p><span style="text-decoration: underline;"><strong>ZULU Time</strong></span> &#8211; UTC-0 Western European time zone.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dictionary/" rel="tag">dictionary</a></span> <span style="display:none" class="updated">2014-03-02</span>
+    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dictionary/" rel="tag">dictionary</a></span> <span style="display:none" class="updated">2014-03-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

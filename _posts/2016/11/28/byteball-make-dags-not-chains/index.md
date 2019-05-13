@@ -26,7 +26,7 @@ Byteball: Make DAGs, Not Chains!
     <p>Other features include <a href="https://bitcointalk.org/index.php?topic=1617816.0">smart contracts</a>, multi-signature wallets, encrypted messaging, and even regulated assets.</p>
     <p>Unlike most cryptocurrency projects, Byteball will have no ICO. Instead, 98% the total supply of 10^15 Bytes and BlackBytes will be given to Bitcoin holder for free according to their BTC balance. The other 2% will be kept for a give away campaign and as a reward for the creator of the Byteball protocol.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/byteball/" rel="tag">byteball</a> <a href="https://www.deepdotweb.com/tag/chains/" rel="tag">chains</a> <a href="https://www.deepdotweb.com/tag/dags/" rel="tag">dags</a></span> <span style="display:none" class="updated">2016-11-28</span>
+    <a href="https://www.deepdotweb.com/tag/byteball/" rel="tag">byteball</a> <a href="https://www.deepdotweb.com/tag/chains/" rel="tag">chains</a> <a href="https://www.deepdotweb.com/tag/dags/" rel="tag">dags</a></span> <span style="display:none" class="updated">2016-11-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

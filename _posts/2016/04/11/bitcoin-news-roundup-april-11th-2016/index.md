@@ -48,7 +48,7 @@ Bitcoin News Roundup – April 11th 2016
     <p>“<em>Say what you want, we won&#8217;t win this fight. Core has already won and 2MB blocks will only happen when the Core devs finally decide it&#8217;s time to switch.”</em></p>
     <p>Bitcoin Core has made several announcements this week, that show there is progress in development of segregated witness, an alternative soft block size increase proposal with other features</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/11th/" rel="tag">11th</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/april/" rel="tag">april</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2016-04-11</span>
+    <a href="https://www.deepdotweb.com/tag/11th/" rel="tag">11th</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/april/" rel="tag">april</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2016-04-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

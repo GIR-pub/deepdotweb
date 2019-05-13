@@ -91,4 +91,4 @@ Dread Discussion Forum Is Now Relaunched!
 <p><em>Please provide feedback in the comments! </em></p></blockquote>
 <p>We hope that dread will continue to grow and will be used as a place for fruitful discussion.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/discussion/" rel="tag">discussion</a> <a href="https://www.deepdotweb.com/tag/dread/" rel="tag">dread</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/relaunched/" rel="tag">relaunched</a></span> <span style="display:none" class="updated">2018-05-28
+<a href="https://www.deepdotweb.com/tag/discussion/" rel="tag">discussion</a> <a href="https://www.deepdotweb.com/tag/dread/" rel="tag">dread</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/relaunched/" rel="tag">relaunched</a></span> <span style="display:none" class="updated">2018-05-28

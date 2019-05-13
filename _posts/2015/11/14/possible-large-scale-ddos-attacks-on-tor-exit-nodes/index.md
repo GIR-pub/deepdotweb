@@ -23,7 +23,7 @@ Possible Large-Scale DDOS Attacks on TOR Exit Nodes
     <p>There seems to be an array of puzzle pieces strewn across the dark net, and all we can do is try and put them together to form a bigger picture and a wider perspective of the situation. Let’s just hope that law enforcement doesn’t come along and solve the puzzle for us, as anything is possible at this point.</p>
     <p>Remember, stay safe and informed. Now more than ever, the community needs to come together and advocate safe practices while remaining vigilant.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/largescale/" rel="tag">largescale</a> <a href="https://www.deepdotweb.com/tag/nodes/" rel="tag">nodes</a> </span> <span style="display:none" class="updated">2015-11-14</span>
+    <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/largescale/" rel="tag">largescale</a> <a href="https://www.deepdotweb.com/tag/nodes/" rel="tag">nodes</a> </span> <span style="display:none" class="updated">2015-11-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chrismccandless/" title="Posts by Chris McCandless" rel="author">Chris McCandless</a></strong></div>
     </div>
 </article>

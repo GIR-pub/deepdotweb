@@ -32,7 +32,7 @@ Turkey National Police Hacked
     <p>Ever since Cthulhu&#8217;s mirror has gone up, there have been attempts to take it down. The people behind these attempts appear to be knowledgeable of very sophisticated methods that are known to be able to take down sites. The methods that they have used include but are not limited to, <a href="https://twitter.com/CthulhuSec/status/699274257197572100">hit</a> it with a DDOS attack, <a href="https://twitter.com/ThtBatur/status/699290411098095620">report</a> it to the FBI, and <a href="https://twitter.com/CthulhuSec/status/699383442740482048">threaten</a> to kill the admin.</p>
     <p>Cthulhu and his mirror at the time of writing are still fine.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/turkey/" rel="tag">turkey</a></span> <span style="display:none" class="updated">2016-02-20</span>
+    <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/turkey/" rel="tag">turkey</a></span> <span style="display:none" class="updated">2016-02-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

@@ -91,7 +91,7 @@ Alphabay New feature: Digital contracts (PGP signed)
     Contract can no longer be disputed &amp; the count of &#8220;Completed Contracts&#8221; is updated in both of the users fields.</p>
     <p>The new feature has been <b>thoroughly tested &amp; has passed all security checks</b> (including logic flaws testing) so if in the unlikely event of encountering a bug, please do not hesitate to contact me &amp; I will look at your findings right away.</p></blockquote>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/contracts/" rel="tag">contracts</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/feature/" rel="tag">feature</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/signed/" rel="tag">signed</a></span> <span style="display:none" class="updated">2015-04-29</span>
+    <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/contracts/" rel="tag">contracts</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/feature/" rel="tag">feature</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/signed/" rel="tag">signed</a></span> <span style="display:none" class="updated">2015-04-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

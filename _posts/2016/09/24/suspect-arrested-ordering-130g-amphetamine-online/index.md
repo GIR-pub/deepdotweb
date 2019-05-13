@@ -15,7 +15,7 @@ Suspect Arrested After Ordering 130g Of Amphetamine Online
     <p>Police officers then prepared for the arrival of a package. When the drugs eventually were delivered, police waited at the address for the recipient to show up. On August 24, 2016, the suspect picked up the package and was immedietly arrested. He is currently being held in a detention center in Dubrovnik-Neretva County.</p>
     <p>Further details have not been made public.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/130g/" rel="tag">130g</a> <a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a>  <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a></span> <span style="display:none" class="updated">2016-09-24</span>
+    <a href="https://www.deepdotweb.com/tag/130g/" rel="tag">130g</a> <a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a>  <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a></span> <span style="display:none" class="updated">2016-09-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

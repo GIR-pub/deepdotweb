@@ -21,7 +21,7 @@ Feds to Fight Child Pornography on the Dark
     <p>NCMEC estimated that their analysts reviewed 26 million sexual abuse images and videos in 2015. While that number is undeniably high, law enforcement, since 2002, located and identified more than 10,500 abused children. NCMEC additionally reported that in 2015, internet users submitted 4.4 million CyberTipline reports.</p>
     <p>“We are aggressively confronting evolving threats online by prosecuting those who use the so-called “Dark Net” in the service of child pornography and child sex trafficking, and by seeking to work closely with the private sector to ensure that state-of-the-art encryption technology is no shield for criminal activity.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a></span> <span style="display:none" class="updated">2017-05-11</span>
+    <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a></span> <span style="display:none" class="updated">2017-05-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

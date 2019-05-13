@@ -40,7 +40,7 @@ DNM Recap: State of the Union June 1st
     <p>He goes on to clarify that he will accept all withdrawals, and does not intend to steal his users’ money. At the time of writing, he seems to be honoring this pledge, claiming that his market is being attacked in retaliation of the leak, and that he is fighting hard to resist these attacks so that users and vendors may withdraw their funds.</p>
     <p>The reader is left with are several questions: Is there such thing as fair play in the competitive, dog-eat-dog world of underground darknet markets? Would the markets still have suffered a week or two of downtime regardless, even if the attackers had not accepted MNG’s proposal? What would have been a more responsible (or moral, effective, etc.) decision? How should DDoS attacks and ransoms be dealt with in the future? Feel free to voice your opinion in the comment field below.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/union/" rel="tag">union</a></span> <span style="display:none" class="updated">2015-06-01</span>
+    <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/union/" rel="tag">union</a></span> <span style="display:none" class="updated">2015-06-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/christian/" title="Posts by Christian" rel="author">Christian</a></strong></div>
     </div>
 </article>

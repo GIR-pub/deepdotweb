@@ -31,7 +31,7 @@ Drug Task Force Sees Counterfeit Oxy Influx in Central Oregon
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/central/" rel="tag">central</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a>  <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/influx/" rel="tag">influx</a> <a href="https://www.deepdotweb.com/tag/oregon/" rel="tag">oregon</a> <a href="https://www.deepdotweb.com/tag/oxy/" rel="tag">oxy</a> <a href="https://www.deepdotweb.com/tag/sees/" rel="tag">sees</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a></span>				<span style="display:none" class="updated">2017-11-05</span>
+    <a href="https://www.deepdotweb.com/tag/central/" rel="tag">central</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a>  <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/influx/" rel="tag">influx</a> <a href="https://www.deepdotweb.com/tag/oregon/" rel="tag">oregon</a> <a href="https://www.deepdotweb.com/tag/oxy/" rel="tag">oxy</a> <a href="https://www.deepdotweb.com/tag/sees/" rel="tag">sees</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a></span>				<span style="display:none" class="updated">2017-11-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

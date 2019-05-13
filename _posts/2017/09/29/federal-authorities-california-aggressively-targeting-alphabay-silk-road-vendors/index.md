@@ -35,7 +35,7 @@ Federal Authorities in California are Aggressively Targeting Alphabay and Silk R
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/aggressively/" rel="tag">aggressively</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/california/" rel="tag">california</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a>  <a href="https://www.deepdotweb.com/tag/targeting/" rel="tag">targeting</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span>				<span style="display:none" class="updated">2017-09-29</span>
+    <a href="https://www.deepdotweb.com/tag/aggressively/" rel="tag">aggressively</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/california/" rel="tag">california</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a>  <a href="https://www.deepdotweb.com/tag/targeting/" rel="tag">targeting</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span>				<span style="display:none" class="updated">2017-09-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
     
     

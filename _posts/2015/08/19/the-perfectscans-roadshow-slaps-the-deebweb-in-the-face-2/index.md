@@ -58,7 +58,7 @@ The PerfectScans Roadshow Slaps The Deebweb In The Face
 <p>And Remember: Lucy Loves You</p>
 <p>x</span></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/deebweb/" rel="tag">deebweb</a> <a href="https://www.deepdotweb.com/tag/face/" rel="tag">face</a> <a href="https://www.deepdotweb.com/tag/perfectscans/" rel="tag">perfectscans</a> <a href="https://www.deepdotweb.com/tag/roadshow/" rel="tag">roadshow</a> <a href="https://www.deepdotweb.com/tag/slaps/" rel="tag">slaps</a></span> <span style="display:none" class="updated">2015-08-19<a href="https://www.deepdotweb.com/author/perfectscans/" title="Posts by PerfectScans" rel="author">PerfectScans</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/deebweb/" rel="tag">deebweb</a> <a href="https://www.deepdotweb.com/tag/face/" rel="tag">face</a> <a href="https://www.deepdotweb.com/tag/perfectscans/" rel="tag">perfectscans</a> <a href="https://www.deepdotweb.com/tag/roadshow/" rel="tag">roadshow</a> <a href="https://www.deepdotweb.com/tag/slaps/" rel="tag">slaps</a></span> <span style="display:none" class="updated">2015-08-19<a href="https://www.deepdotweb.com/author/perfectscans/" title="Posts by PerfectScans" rel="author">PerfectScans</a></strong></div>
 </div>
 </article>
 

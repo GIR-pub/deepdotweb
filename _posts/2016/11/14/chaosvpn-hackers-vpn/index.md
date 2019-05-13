@@ -57,7 +57,7 @@ ChaosVPN: The Hackers’ VPN!
     <p>Oh…and for those of you who are disappointed that you can’t access .lll, .rdos, or .clos sites with ChaosVPN, guess what? You <em>can</em> access .hack sites!</p>
     <p>Is that good motivation?</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/chaosvpn/" rel="tag">chaosvpn</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-11-14</span>
+    <a href="https://www.deepdotweb.com/tag/chaosvpn/" rel="tag">chaosvpn</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-11-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
     </div>
 </article>

@@ -26,7 +26,7 @@ Yahoo Was Hacked Again: 1 billion user accounts were compromised
     <p>Verizon’s reaction to the new information has not yet been made public, so we’ll all need to wait in order to know what the telecommunications giant will do.</p>
     <p>At the time of press, Yahoo’s stock value (YHOO) had gone down by roughly 5% as the news spread across the web.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/billion/" rel="tag">billion</a> <a href="https://www.deepdotweb.com/tag/compromised/" rel="tag">compromised</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a> <a href="https://www.deepdotweb.com/tag/yahoo/" rel="tag">yahoo</a></span> <span style="display:none" class="updated">2016-12-23</span>
+    <a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/billion/" rel="tag">billion</a> <a href="https://www.deepdotweb.com/tag/compromised/" rel="tag">compromised</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a> <a href="https://www.deepdotweb.com/tag/yahoo/" rel="tag">yahoo</a></span> <span style="display:none" class="updated">2016-12-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
     </div>
 </article>

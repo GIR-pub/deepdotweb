@@ -57,7 +57,7 @@ Jeffrey Spies Nakamoto
     <div class="wp-socializer-clearer"></div></div>
     
     </div>
-    <span style="display:none"><a href="http://www.deepdotweb.com/tag/generator/" rel="tag">generator</a> <a href="http://www.deepdotweb.com/tag/meme/" rel="tag">meme</a></span> <span style="display:none" class="updated">2014-09-10</span>
+    <a href="http://www.deepdotweb.com/tag/generator/" rel="tag">generator</a> <a href="http://www.deepdotweb.com/tag/meme/" rel="tag">meme</a></span> <span style="display:none" class="updated">2014-09-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"></strong></div>
     </div>
 </article>

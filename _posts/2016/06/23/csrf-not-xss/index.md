@@ -25,7 +25,7 @@ Why CSRF Is Not The Same As XSS
     <p>Facebook, Twitter, and slack have created ‘my<strong> account page’</strong>, or ‘<strong>payment settings’</strong> for users on their platform to store as well as change their details – <strong>Password</strong>, <strong>Age, Email address</strong>, and <strong>Credit card</strong> <strong>credentials</strong>.</p>
     <p>If users can change information on a webpage via both <strong>GET </strong>and <strong>POST</strong> method, then it is extremely possible for an attacker to forge request of a user’s mail address.  In a CSRF attack, attackers take advantage of or abuse a website’s zero intelligence to forge a request. CSRF attack entails forgery.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/csrf/" rel="tag">csrf</a> <a href="https://www.deepdotweb.com/tag/xss/" rel="tag">xss</a></span> <span style="display:none" class="updated">2016-06-23</span>
+    <a href="https://www.deepdotweb.com/tag/csrf/" rel="tag">csrf</a> <a href="https://www.deepdotweb.com/tag/xss/" rel="tag">xss</a></span> <span style="display:none" class="updated">2016-06-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/vb/" title="Posts by V.B" rel="author">V.B</a></strong></div>
     </div>
 </article>

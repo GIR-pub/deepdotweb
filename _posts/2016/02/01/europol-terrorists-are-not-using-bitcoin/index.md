@@ -19,7 +19,7 @@ Europol: Terrorists Are Not Using Bitcoin
     <p>Europol also acknowledges the fact that the terrorist group is using Tor for anonymity:</p>
     <p>&#8220;The use of encryption and anonymizing tools prevent conventional observation by security authorities. There is evidence of a level of technical knowledge available to religiously inspired terrorist groups, allowing them to make their use of the internet and social media invisible to intelligence and law enforcement agencies.&#8221;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/terrorists/" rel="tag">terrorists</a></span> <span style="display:none" class="updated">2016-02-01</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/terrorists/" rel="tag">terrorists</a></span> <span style="display:none" class="updated">2016-02-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

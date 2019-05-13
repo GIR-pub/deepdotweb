@@ -23,7 +23,7 @@ New Internet Privacy Laws Go Into Effect Next Year
     <p>“<em>An interagency council including the FCC and the FTC should attempt to make privacy rules uniform and consistent. The forces at work in the digital world today are only going to make privacy more complex for all of us to control</em>.”</p>
     <p>These rules are set to take effect one year after they are published in the Federal Register, which is said to happen before the end of 2016. The requirement for ISP’s to notify users goes about data breaches goes into effect 6 months before the rule changes.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/effect/" rel="tag">effect</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/laws/" rel="tag">laws</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2016-11-06</span>
+    <a href="https://www.deepdotweb.com/tag/effect/" rel="tag">effect</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/laws/" rel="tag">laws</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2016-11-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

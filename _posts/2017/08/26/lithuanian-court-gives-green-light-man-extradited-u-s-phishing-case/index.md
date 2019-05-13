@@ -38,7 +38,7 @@ Lithuanian Court gives Green Light for Man to be extradited to the U.S. in Phish
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/extradited/" rel="tag">extradited</a> <a href="https://www.deepdotweb.com/tag/green/" rel="tag">green</a> <a href="https://www.deepdotweb.com/tag/light/" rel="tag">light</a> <a href="https://www.deepdotweb.com/tag/lithuanian/" rel="tag">lithuanian</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/phishing/" rel="tag">phishing</a></span>				<span style="display:none" class="updated">2017-08-26</span>
+    <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/extradited/" rel="tag">extradited</a> <a href="https://www.deepdotweb.com/tag/green/" rel="tag">green</a> <a href="https://www.deepdotweb.com/tag/light/" rel="tag">light</a> <a href="https://www.deepdotweb.com/tag/lithuanian/" rel="tag">lithuanian</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/phishing/" rel="tag">phishing</a></span>				<span style="display:none" class="updated">2017-08-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     

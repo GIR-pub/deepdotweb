@@ -24,7 +24,7 @@ Trans-Pacific Partnership Signed
     <p>The EFF has also stated that “<em>Due to both political reasons and the terms of stipulated by the TPP, the agreement cannot go into force without the United States&#8217; ratification. That&#8217;s why it&#8217;s so critical that people in the U.S. demand congressional accountability over this deal and </em><a href="https://act.eff.org/action/tell-congress-to-vote-no-on-the-tpp"><em>urge their lawmakers to vote no when the TPP comes before them for approval</em></a><em>.”</em></p>
     <p>So there is still a chance that we can stop the TPP and preserve our internet.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/partnership/" rel="tag">partnership</a> <a href="https://www.deepdotweb.com/tag/signed/" rel="tag">signed</a> <a href="https://www.deepdotweb.com/tag/transpacific/" rel="tag">transpacific</a></span> <span style="display:none" class="updated">2016-02-09</span>
+    <a href="https://www.deepdotweb.com/tag/partnership/" rel="tag">partnership</a> <a href="https://www.deepdotweb.com/tag/signed/" rel="tag">signed</a> <a href="https://www.deepdotweb.com/tag/transpacific/" rel="tag">transpacific</a></span> <span style="display:none" class="updated">2016-02-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

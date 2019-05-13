@@ -21,7 +21,7 @@ Now You Can Buy&#8230; Coffee! On The DeepWeb
     <blockquote><p>It&#8217;s not a necessity. We were just having fun and thought it would be cool :)</p></blockquote>
     <p>And we completely agree,  so good luck!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/coffee/" rel="tag">coffee</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a></span> <span style="display:none" class="updated">2014-06-12</span>
+    <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/coffee/" rel="tag">coffee</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a></span> <span style="display:none" class="updated">2014-06-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

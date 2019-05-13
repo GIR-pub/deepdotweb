@@ -37,7 +37,7 @@ Bitcoin Price Analysis – Jun 9th
     <p>I am expecting $ 230 (give or take) to prove a strong resistance zone, and mark the end of this short term move up. The target for a lower move in this scenario would be just above $ 210.</p>
     <p>Nothing decisive has come out of the past weeks of sideways action. A retest of $200 and sub $ 200 price levels is just a matter of when and not if. Given how long this zone has held, any break below it will lead to panic accompanied by massive dumping by longs who bought in at this zone. Best to have some fiat tucked away for when we hit bottom.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jun/" rel="tag">jun</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-06-10</span>
+    <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jun/" rel="tag">jun</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-06-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

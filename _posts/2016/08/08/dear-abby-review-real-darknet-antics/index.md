@@ -36,7 +36,7 @@ DEAR ABBY &#8211; A Review of (REAL) Darknet Antics
     <p>I don&#8217;t even know what to say. Why would you share your money with an anonymous person on the Internet. I like to follow a general rule. Assume everybody is a fed and don&#8217;t trust anybody. Sorry, your coin is gone. Consider it a cheap lesson learned.</p>
     <p>-Abby</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/abby/" rel="tag">abby</a> <a href="https://www.deepdotweb.com/tag/antics/" rel="tag">antics</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dear/" rel="tag">dear</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-08-08</span>
+    <a href="https://www.deepdotweb.com/tag/abby/" rel="tag">abby</a> <a href="https://www.deepdotweb.com/tag/antics/" rel="tag">antics</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dear/" rel="tag">dear</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-08-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/rh/" title="Posts by R.H" rel="author">R.H</a></strong></div>
     </div>
 </article>

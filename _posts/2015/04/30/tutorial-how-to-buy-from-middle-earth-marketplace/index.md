@@ -112,7 +112,7 @@ Tutorial: How To Buy From Middle Earth Marketplace?
     <p><strong>Part 7 – Conclusion</strong></p>
     <p>Hopefully this short guide will help you have a safe and happy experience on Middle Earth Marketplace. There is much more to Middle Earth than what this guide covers, but that&#8217;s for you to figure out.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/earth/" rel="tag">earth</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/middle/" rel="tag">middle</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-04-30</span>
+    <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/earth/" rel="tag">earth</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/middle/" rel="tag">middle</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-04-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

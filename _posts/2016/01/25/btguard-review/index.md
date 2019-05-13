@@ -104,7 +104,7 @@ BTGuard Review
     <p>I believe there are better VPN services around. You should check out the top 5 on <a href="https://www.deepdotweb.com/vpn-comparison-chart/" target="_blank" rel="nofollow">the VPN Review Chart</a>, they will give you a much better service, speed, features and security than BTGuard.</p>
     <p><a href="http://btguard.com/?a=ManagerVPN" target="_blank" rel="nofollow"><strong>&gt;&gt; Click HERE to Visit the BTGuard Official Site</strong></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/btguard/" rel="tag">btguard</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-25</span>
+    <a href="https://www.deepdotweb.com/tag/btguard/" rel="tag">btguard</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -24,7 +24,7 @@ Student Gets Prison Time for Importation and Trafficking Through the Darknet
     <p>Brooklyn federal court Judge William Kuntz finalized the entire case when he sentenced Moshe to six years in federal prison for importing from outside the U.S. a Schedule I controlled substance.</p>
     <p>Moshe has been out on a $50,000 bail and will remain a free man until January 30, 2017.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/importation/" rel="tag">importation</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2016-11-17</span>
+    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/importation/" rel="tag">importation</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2016-11-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

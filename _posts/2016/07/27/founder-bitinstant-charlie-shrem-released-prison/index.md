@@ -23,7 +23,7 @@ Founder of BitInstant Charlie Shrem Released from Prison
     <p>Quick note: I am still under the same communication requirements established for my incarceration and cannot grant media interviews at this time.</p>
     <p>He has a 2-4 years of government supervision until he&#8217;s a completely free man, but news of his release is welcoming to many ears.</p></blockquote>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitinstant/" rel="tag">bitinstant</a> <a href="https://www.deepdotweb.com/tag/charlie/" rel="tag">charlie</a> <a href="https://www.deepdotweb.com/tag/founder/" rel="tag">founder</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="https://www.deepdotweb.com/tag/shrem/" rel="tag">shrem</a></span> <span style="display:none" class="updated">2016-07-27</span>
+    <a href="https://www.deepdotweb.com/tag/bitinstant/" rel="tag">bitinstant</a> <a href="https://www.deepdotweb.com/tag/charlie/" rel="tag">charlie</a> <a href="https://www.deepdotweb.com/tag/founder/" rel="tag">founder</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="https://www.deepdotweb.com/tag/shrem/" rel="tag">shrem</a></span> <span style="display:none" class="updated">2016-07-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

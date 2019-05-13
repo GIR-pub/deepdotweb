@@ -129,7 +129,7 @@ Anti-DDoS ways for VPS and Dedicated Servers
     </div>
     
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/antiddos/" rel="tag">antiddos</a> <a href="https://www.deepdotweb.com/tag/dedicated/" rel="tag">dedicated</a> <a href="https://www.deepdotweb.com/tag/servers/" rel="tag">servers</a> <a href="https://www.deepdotweb.com/tag/vps/" rel="tag">vps</a> <a href="https://www.deepdotweb.com/tag/ways/" rel="tag">ways</a></span> <span style="display:none" class="updated">2017-11-22</span>
+    <a href="https://www.deepdotweb.com/tag/antiddos/" rel="tag">antiddos</a> <a href="https://www.deepdotweb.com/tag/dedicated/" rel="tag">dedicated</a> <a href="https://www.deepdotweb.com/tag/servers/" rel="tag">servers</a> <a href="https://www.deepdotweb.com/tag/vps/" rel="tag">vps</a> <a href="https://www.deepdotweb.com/tag/ways/" rel="tag">ways</a></span> <span style="display:none" class="updated">2017-11-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
     </div>
 </article>

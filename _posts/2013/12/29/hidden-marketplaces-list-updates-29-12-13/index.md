@@ -29,6 +29,6 @@ title: "Hidden Marketplaces List updates 29.12.13
 <p>We wish everyone a safe and happy new year!</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/291213/" rel="tag">291213</a>  <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/updates/" rel="tag">updates</a>
+<a href="https://www.deepdotweb.com/tag/291213/" rel="tag">291213</a>  <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/updates/" rel="tag">updates</a>
 
 Updated: 2013-12-29

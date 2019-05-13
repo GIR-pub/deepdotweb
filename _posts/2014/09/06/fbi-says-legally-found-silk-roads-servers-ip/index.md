@@ -38,7 +38,7 @@ The FBI Says How It ‘Legally’ Found Silk Road’s Server&#8217;s IP
     <iframe id="doc_54599" class="scribd_iframe_embed" src="//www.scribd.com/embeds/238796613/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     <p>Article Source: <strong><a href="http://www.wired.com/2014/09/the-fbi-finally-says-how-it-legally-pinpointed-silk-roads-server/" target="_blank">http://www.wired.com/2014/09/the-fbi-finally-says-how-it-legally-pinpointed-silk-roads-server/</a></strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/ip/" rel="tag">ip</a> <a href="https://www.deepdotweb.com/tag/legally/" rel="tag">legally</a> <a href="https://www.deepdotweb.com/tag/roads/" rel="tag">roads</a> <a href="https://www.deepdotweb.com/tag/servers/" rel="tag">servers</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2014-09-06</span>
+    <a href="https://www.deepdotweb.com/tag/ip/" rel="tag">ip</a> <a href="https://www.deepdotweb.com/tag/legally/" rel="tag">legally</a> <a href="https://www.deepdotweb.com/tag/roads/" rel="tag">roads</a> <a href="https://www.deepdotweb.com/tag/servers/" rel="tag">servers</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2014-09-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

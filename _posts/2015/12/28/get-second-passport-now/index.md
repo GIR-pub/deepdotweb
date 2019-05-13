@@ -51,7 +51,7 @@ How &#8211; and Why &#8211; to Get a Second Passport Now
 <p>Whatever plan you decide, you have to decide to make a plan. As GATCA begins to take effect in the next 2 years, anyone without a second passport, an established overseas bank account and hard assets put away from the grasp of your home country is going to be too late to escape. Take a minute and <a href="http://www.mondaq.com/x/388362/offshore+financial+centres/Dont+Get+Snowed+In+By+GATCA">learn about GATCA</a>, and see why you need a second passport, an offshore bank account and an established escape plan now, while you can.</p>
 <p><em>Up next, FATCA, GATCA, and how to keep your money and your freedom from being confiscated. Effective ways to convert cash and bitcoin into safe, anonymous and clean assets without going to jail.</em></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/passport/" rel="tag">passport</a></span> <span style="display:none" class="updated">2015-12-28<a href="https://www.deepdotweb.com/author/archer/" title="Posts by Archer" rel="author">Archer</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/passport/" rel="tag">passport</a></span> <span style="display:none" class="updated">2015-12-28<a href="https://www.deepdotweb.com/author/archer/" title="Posts by Archer" rel="author">Archer</a></strong></div>
 </div>
 </article>
 

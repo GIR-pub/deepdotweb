@@ -42,7 +42,7 @@ How Governments Can Try To Undermine Bitcoin?
     <p style="margin-bottom: 0in;">Considering the technological breakthrough that is Bitcoin and the block chain, I personally believe that the U.S. government will attempt to incorporate Bitcoin and its technology into their existing system. It seems that they have more to gain from figuring out a way to use this innovation to their benefit, rather than wage a war against it. However, the above scenarios are absolutely within the realms of possibility.</p>
     </div>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/undermining/" rel="tag">undermining</a></span> <span style="display:none" class="updated">2014-07-14</span>
+    <a href="https://www.deepdotweb.com/tag/undermining/" rel="tag">undermining</a></span> <span style="display:none" class="updated">2014-07-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
     </div>
 </article>

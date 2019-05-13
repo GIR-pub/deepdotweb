@@ -30,7 +30,7 @@ DNM Recap: July 17th
     <p>Gwern released all his DNM scrapes: a 50GB (~1.6TB) collection covering 89 DNMs &amp; 37+ related forums, representing &lt;4,438 mirrors.</p>
     <p>It can be downloaded <a href="https://archive.org/download/dnmarchives/dnmarchives_archive.torrent">as a torrent</a>; for some torrent clients, the torrent may not work for various reasons, in which case you can download everything <a href="https://archive.org/download/dnmarchives">directly from the IA</a>. But for all the other details, see <a href="http://www.gwern.net/Black-market%20archives">my writeup on the contents</a> &#8211; Reddit discussion can be <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3dfq8s/dark_net_market_archives_20112015/">found here</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/17th/" rel="tag">17th</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/recap/" rel="tag">recap</a></span> <span style="display:none" class="updated">2015-07-17</span>
+    <a href="https://www.deepdotweb.com/tag/17th/" rel="tag">17th</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/recap/" rel="tag">recap</a></span> <span style="display:none" class="updated">2015-07-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

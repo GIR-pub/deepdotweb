@@ -42,7 +42,7 @@ Bitcoin Price Analysis for Tuesday September 13 2016
     <p>My caution is</p>
     <p>Unless we break through 650 this is just a bearish retrace before we fall further. Perhaps we will make a solid double bottom and we can reverse back into bull mode.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/13/" rel="tag">13</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/anlysis/" rel="tag">anlysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> <a href="https://www.deepdotweb.com/tag/tuesday/" rel="tag">tuesday</a></span> <span style="display:none" class="updated">2016-09-13</span>
+    <a href="https://www.deepdotweb.com/tag/13/" rel="tag">13</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/anlysis/" rel="tag">anlysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> <a href="https://www.deepdotweb.com/tag/tuesday/" rel="tag">tuesday</a></span> <span style="display:none" class="updated">2016-09-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

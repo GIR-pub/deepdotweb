@@ -46,7 +46,7 @@ Why does Dash have a bad reputation?
     <p>Dash’s technology has no serious problems, but the controversy surrounding the instamine means that it will likely not be added to any darknet markets anytime in the future.</p>
     <p>This article was not meant as FUD; if you still want to invest in Dash, go ahead and do so. But make sure you do your own research before you invest in any coin, including Monero of course.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bad/" rel="tag">bad</a> <a href="https://www.deepdotweb.com/tag/dash/" rel="tag">dash</a> <a href="https://www.deepdotweb.com/tag/reputation/" rel="tag">reputation</a></span> <span style="display:none" class="updated">2017-05-26</span>
+    <a href="https://www.deepdotweb.com/tag/bad/" rel="tag">bad</a> <a href="https://www.deepdotweb.com/tag/dash/" rel="tag">dash</a> <a href="https://www.deepdotweb.com/tag/reputation/" rel="tag">reputation</a></span> <span style="display:none" class="updated">2017-05-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/jonathanfoster/" title="Posts by JONATHAN FOSTER" rel="author">JONATHAN FOSTER</a></strong></div>
     </div>
 </article>

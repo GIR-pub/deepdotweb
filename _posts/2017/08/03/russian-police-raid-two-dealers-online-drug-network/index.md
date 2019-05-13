@@ -31,7 +31,7 @@ Russian Police Raid Two Dealers and an Online Drug Network
     <p>Authorities have 37 suspects in custody for preventative measures and another 14 members are under conditional house arrest.</p>
     <p><img class="wp-image-21720 aligncenter" src="/imgs/2017/08/screenshot_2017-07-20_10-15-04-png.png" alt="Screenshot_2017-07-20_10-15-04.png" srcset="/imgs/2017/08/screenshot_2017-07-20_10-15-04-png.png 800w, /imgs/2017/08/screenshot_2017-07-20_10-15-04-png-300x163.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a>  <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a></span> <span style="display:none" class="updated">2017-08-03</span>
+    <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a>  <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a></span> <span style="display:none" class="updated">2017-08-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

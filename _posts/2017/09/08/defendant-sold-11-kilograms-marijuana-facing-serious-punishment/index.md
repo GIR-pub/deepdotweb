@@ -37,7 +37,7 @@ Defendant Sold 11 Kilograms of Marijuana, Facing Serious Punishment
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/11/" rel="tag">11</a> <a href="https://www.deepdotweb.com/tag/defendant/" rel="tag">defendant</a> <a href="https://www.deepdotweb.com/tag/facing/" rel="tag">facing</a> <a href="https://www.deepdotweb.com/tag/kilograms/" rel="tag">kilograms</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/punishment/" rel="tag">punishment</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span>				<span style="display:none" class="updated">2017-09-08</span>
+    <a href="https://www.deepdotweb.com/tag/11/" rel="tag">11</a> <a href="https://www.deepdotweb.com/tag/defendant/" rel="tag">defendant</a> <a href="https://www.deepdotweb.com/tag/facing/" rel="tag">facing</a> <a href="https://www.deepdotweb.com/tag/kilograms/" rel="tag">kilograms</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/punishment/" rel="tag">punishment</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span>				<span style="display:none" class="updated">2017-09-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     

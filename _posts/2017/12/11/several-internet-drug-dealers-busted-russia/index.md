@@ -21,7 +21,7 @@ Several Internet Drug Dealers Busted in Russia
     <p>Police then tracked the cryptocurrency transactions to debit cards. The Ministry of Internal Affairs in Chelyabinsk Oblast announced that the investigation was ongoing and that authorities were aware of additional participants as well as unreported crimes committed by the group. After packaging and other preparations, “sales took place on an automated system for processing orders on a well-known Internet site,” Irina Volk, the official representative of the Ministry of the Interior of Russia, said. The FSB played a role in the arrest of two suspects, Volk said. A 29-year-old and a 26-year-old in Sverdlovsk organized the large-scale distribution network in 2016.</p>
     <p>Several investigations are ongoing.</p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2017-12-11</span>
+     <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2017-12-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

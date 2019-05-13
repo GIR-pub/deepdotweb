@@ -23,7 +23,7 @@ Three Silk Road Vendors Convicted for Online Drug Distribution
     The indictment revealed that the group sold starting as early as October 2012. Almost every charge in the indictment involved the state where the vendors lived and the state where they faced charges: California and Florida, respectively.</p>
     <p>Attorney A. Lee Bentley, III announced that the sentencing hearings would occur on March 23, 2017. The DEA investigated the case and an indictment received necessary signatures on May 11, 2016. These charges <a href="https://www.deepdotweb.com/2016/02/29/silk-road-vendors-plutopete-and-richierich-sentenced-to-5-years/">carry up to 20 years</a> in a federal prison. The USPIS additionally received credit for aiding the DEA in investigating the men.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>    <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-01-20</span>
+    <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>    <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-01-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

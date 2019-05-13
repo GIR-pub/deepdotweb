@@ -51,7 +51,7 @@ Bitcoin News Roundup 3.12.17
     <p>&mdash; Coinbase (@coinbase) <a href="https://twitter.com/coinbase/status/935918546546130944?ref_src=twsrc%5Etfw">November 29, 2017</a></p></blockquote>
     <p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/31217/" rel="tag">31217</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2017-12-03</span>
+    <a href="https://www.deepdotweb.com/tag/31217/" rel="tag">31217</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2017-12-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
     </div>
 </article>

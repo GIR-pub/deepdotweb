@@ -34,7 +34,7 @@ Dutch Hospitals Report a Data Breach Almost Every Day
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/breach/" rel="tag">breach</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/day/" rel="tag">day</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/hospitals/" rel="tag">hospitals</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span>				<span style="display:none" class="updated">2016-12-09</span>
+    <a href="https://www.deepdotweb.com/tag/breach/" rel="tag">breach</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/day/" rel="tag">day</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/hospitals/" rel="tag">hospitals</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span>				<span style="display:none" class="updated">2016-12-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

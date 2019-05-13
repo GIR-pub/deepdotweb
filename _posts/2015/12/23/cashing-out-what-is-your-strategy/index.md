@@ -53,7 +53,7 @@ Cashing Out &#8211; What is Your Strategy?
     <p><strong>In the next series of posts</strong>, I am going to drill down into case studies, ideas and specifics on where it is still safe (and easy) to open a bank account overseas, where to incorporate that can still totally shield your assets, and legal, effective ways to obtain a second passport in a no-or-low extradition country.</p>
     <p>All of the advice and information I give here is current as of the date of posting, and everything here are the actual methods I use on a regular basis for my clients.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cashing/" rel="tag">cashing</a> <a href="https://www.deepdotweb.com/tag/strategy/" rel="tag">strategy</a></span> <span style="display:none" class="updated">2015-12-23</span>
+    <a href="https://www.deepdotweb.com/tag/cashing/" rel="tag">cashing</a> <a href="https://www.deepdotweb.com/tag/strategy/" rel="tag">strategy</a></span> <span style="display:none" class="updated">2015-12-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/archer/" title="Posts by Archer" rel="author">Archer</a></strong></div>
     </div>
 </article>

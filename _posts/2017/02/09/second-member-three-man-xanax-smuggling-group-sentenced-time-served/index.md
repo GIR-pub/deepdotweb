@@ -32,7 +32,7 @@ Second Member of Three-Man Xanax Smuggling Group Sentenced to Time Served
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/served/" rel="tag">served</a> <a href="https://www.deepdotweb.com/tag/smuggling/" rel="tag">smuggling</a> <a href="https://www.deepdotweb.com/tag/threeman/" rel="tag">threeman</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span>				<span style="display:none" class="updated">2017-02-09</span>
+    <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/served/" rel="tag">served</a> <a href="https://www.deepdotweb.com/tag/smuggling/" rel="tag">smuggling</a> <a href="https://www.deepdotweb.com/tag/threeman/" rel="tag">threeman</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span>				<span style="display:none" class="updated">2017-02-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

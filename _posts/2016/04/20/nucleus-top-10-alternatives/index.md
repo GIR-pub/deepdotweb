@@ -47,7 +47,7 @@ Nucleus Is Gone: These Are The Top Alternatives!
     <p>And keeping the best for last &#8211; don&#8217;t forget that some vendors <a href="https://www.deepdotweb.com/marketplace-directory/categories/vendor-shops/" target="_blank">have their own vendor shops</a> &#8211; you could try them as well, don&#8217;t forget to check out the reviews first.</p>
     <p><strong>And remember</strong>: <a href="https://www.deepdotweb.com/multisig-guides/" target="_blank">Learn how to use multisig</a>, its here to protect you!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alternatives/" rel="tag">alternatives</a> <a href="https://www.deepdotweb.com/tag/nucleus/" rel="tag">nucleus</a> <a href="https://www.deepdotweb.com/tag/top/" rel="tag">top</a></span> <span style="display:none" class="updated">2016-04-20</span>
+    <a href="https://www.deepdotweb.com/tag/alternatives/" rel="tag">alternatives</a> <a href="https://www.deepdotweb.com/tag/nucleus/" rel="tag">nucleus</a> <a href="https://www.deepdotweb.com/tag/top/" rel="tag">top</a></span> <span style="display:none" class="updated">2016-04-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

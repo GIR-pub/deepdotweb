@@ -47,7 +47,7 @@ Bitcoin Price Analysis August 23
     <p><a href="/imgs/2016/08/7-1.png"><img class="aligncenter size-full wp-image-15219" src="/imgs/2016/08/7-1.png" alt="7" width="1601" height="835" srcset="/imgs/2016/08/7-1.png 1601w, /imgs/2016/08/7-1-300x156.png 300w, /imgs/2016/08/7-1-1024x534.png 1024w" sizes="(max-width: 1601px) 100vw, 1601px" /></a></p>
     <p>This chart above paints a less gloomy forecast, suggesting a retest of a rising trendline at $309.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/23/" rel="tag">23</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-08-23</span>
+    <a href="https://www.deepdotweb.com/tag/23/" rel="tag">23</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-08-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

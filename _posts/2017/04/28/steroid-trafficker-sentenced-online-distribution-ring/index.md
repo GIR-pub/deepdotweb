@@ -22,7 +22,7 @@ Steroid Trafficker Sentenced for Online Distribution Ring
     In addition to the four years without parole, Schweidler, according to the announcement, must forfeit property in North Carolina along with $2.25 million as the proceeds of a drug crime.</p>
     <p>Lyne already took a plea deal and received only probation time. The other two still await their <a href="https://www.deepdotweb.com/tag/sentenced/">sentencing hearings</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>  <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/steroid/" rel="tag">steroid</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a></span> <span style="display:none" class="updated">2017-04-28</span>
+    <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>  <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/steroid/" rel="tag">steroid</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a></span> <span style="display:none" class="updated">2017-04-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

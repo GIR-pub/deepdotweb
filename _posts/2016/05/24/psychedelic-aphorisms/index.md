@@ -63,7 +63,7 @@ PSYCHEDELIC APHORISMS
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/aphorisms/" rel="tag">aphorisms</a> <a href="https://www.deepdotweb.com/tag/psychedelic/" rel="tag">psychedelic</a></span>				<span style="display:none" class="updated">2016-05-24</span>
+    <a href="https://www.deepdotweb.com/tag/aphorisms/" rel="tag">aphorisms</a> <a href="https://www.deepdotweb.com/tag/psychedelic/" rel="tag">psychedelic</a></span>				<span style="display:none" class="updated">2016-05-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/psychedelicaphorisms/" title="Posts by PSYCHEDELIC APHORISMS" rel="author">PSYCHEDELIC APHORISMS</a></strong></div>
     
     

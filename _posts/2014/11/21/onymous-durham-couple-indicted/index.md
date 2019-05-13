@@ -40,7 +40,7 @@ Onymous: Durham Couple Indicted
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span>				<span style="display:none" class="updated">2014-11-21</span>
+    <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span>				<span style="display:none" class="updated">2014-11-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     

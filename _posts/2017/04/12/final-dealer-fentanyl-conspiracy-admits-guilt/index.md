@@ -22,7 +22,7 @@ Final Dealer in Fentanyl Conspiracy Admits Guilt
     <p><a href="https://www.justice.gov/usao-ndtx/pr/lubbock-fentanyl-distributor-pleads-guilty">Lanier pleaded guilty earlier this year</a> to his role as the group&#8217;s leader and awaits sentencing.</p>
     <p>Holl pleaded guilty to conspiracy to distribute fentanyl and furanyl fentanyl and possession with intent to distribute fentanyl and furanyl fentanyl. She arranged a deal with the prosecutor—her guilty plea for a recommendation from the attorney&#8217;s office for a sentence lower than the maximum she faced.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/conspiracy/" rel="tag">conspiracy</a>  <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/final/" rel="tag">final</a> <a href="https://www.deepdotweb.com/tag/guilt/" rel="tag">guilt</a></span> <span style="display:none" class="updated">2017-04-12</span>
+    <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/conspiracy/" rel="tag">conspiracy</a>  <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/final/" rel="tag">final</a> <a href="https://www.deepdotweb.com/tag/guilt/" rel="tag">guilt</a></span> <span style="display:none" class="updated">2017-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

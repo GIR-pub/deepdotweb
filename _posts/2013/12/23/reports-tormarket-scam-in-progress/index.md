@@ -31,6 +31,6 @@ title: "Reports: Tormarket Scam In Progress?
 <p><a href="/imgs/2013/12/tm3.png"><img class="aligncenter  wp-image-2848" alt="tm3" src="/imgs/2013/12/tm3.png" width="753" height="194" srcset="/imgs/2013/12/tm3.png 1145w, /imgs/2013/12/tm3-300x77.png 300w, /imgs/2013/12/tm3-1024x264.png 1024w" sizes="(max-width: 753px) 100vw, 753px" /></a><br />
     This sure doesn&#8217;t look very encouraging for the Tormarket Situation,  as usual,  we will try to follow this as well and report once (anf if) we will have any solid information, so far it looks like the Sheep Sequel.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/progress/" rel="tag">progress</a> <a href="https://www.deepdotweb.com/tag/reports/" rel="tag">reports</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/tormarket/" rel="tag">tormarket</a>
+<a href="https://www.deepdotweb.com/tag/progress/" rel="tag">progress</a> <a href="https://www.deepdotweb.com/tag/reports/" rel="tag">reports</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/tormarket/" rel="tag">tormarket</a>
 
 Updated: 2013-12-23

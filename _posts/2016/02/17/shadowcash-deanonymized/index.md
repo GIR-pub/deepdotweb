@@ -19,7 +19,7 @@ ShadowCash deanonymized?
     <p>This disclosure has come under fire because it was done publicly instead of notifying the developers privately, it is speculated that the reasoning for this was because of the implications this bug has and that the users should know about it.</p>
     <p>If there&#8217;s anything to take away from this, it&#8217;s that you should choose what software you use wisely.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/deanonymized/" rel="tag">deanonymized</a> <a href="https://www.deepdotweb.com/tag/shadowcash/" rel="tag">shadowcash</a></span> <span style="display:none" class="updated">2016-02-17</span>
+    <a href="https://www.deepdotweb.com/tag/deanonymized/" rel="tag">deanonymized</a> <a href="https://www.deepdotweb.com/tag/shadowcash/" rel="tag">shadowcash</a></span> <span style="display:none" class="updated">2016-02-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

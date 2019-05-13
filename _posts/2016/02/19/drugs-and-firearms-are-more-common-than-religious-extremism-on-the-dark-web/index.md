@@ -18,7 +18,7 @@ Drugs And Firearms Are More Common Than Religious Extremism On The Dark Web
     <p>”Tor was famously used by thousands in Egypt when the Internet was clamped down in 2011”, explains Daniel Moore and Thomas Rid from Kings College in their paper. They also made this statement about Tor:</p>
     <p>&#8220;Tor&#8217;s anonymization function has received widespread support and praise.&#8221;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/common/" rel="tag">common</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/extremism/" rel="tag">extremism</a> <a href="https://www.deepdotweb.com/tag/firearms/" rel="tag">firearms</a> <a href="https://www.deepdotweb.com/tag/religious/" rel="tag">religious</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-02-19</span>
+    <a href="https://www.deepdotweb.com/tag/common/" rel="tag">common</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/extremism/" rel="tag">extremism</a> <a href="https://www.deepdotweb.com/tag/firearms/" rel="tag">firearms</a> <a href="https://www.deepdotweb.com/tag/religious/" rel="tag">religious</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-02-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

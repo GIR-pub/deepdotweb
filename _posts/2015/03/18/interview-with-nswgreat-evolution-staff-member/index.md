@@ -49,4 +49,4 @@ Evolution Market Staff Member: 130,000BTC Were Stolen
 <p><b>Anything else you want to add – warn people / some advice to minimize their losses in future market scams?</b></p>
 <p>Fund decentralized market projects such as <a href="http://www.deepdotweb.com/2014/07/17/cloakcoin-promises-holy-grail-cryptocurrency-anonymity/">CloakCoin</a> and their market, they are the only way for this to work.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/evoscam/" rel="tag">Evoscam</a></span> <span style="display:none" class="updated">2015-03-18
+<a href="https://www.deepdotweb.com/tag/evoscam/" rel="tag">Evoscam</a></span> <span style="display:none" class="updated">2015-03-18

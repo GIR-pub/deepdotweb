@@ -35,7 +35,7 @@ Two Georgia Men Indicted For Darknet Weapon Sales
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> </span>				<span style="display:none" class="updated">2017-06-20</span>
+    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> </span>				<span style="display:none" class="updated">2017-06-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

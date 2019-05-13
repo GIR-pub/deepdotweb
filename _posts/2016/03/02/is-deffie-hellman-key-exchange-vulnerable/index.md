@@ -113,7 +113,7 @@ Is Deffie Hellman Key Exchange Vulnerable ?
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/deffie/" rel="tag">deffie</a> <a href="https://www.deepdotweb.com/tag/exchange/" rel="tag">exchange</a> <a href="https://www.deepdotweb.com/tag/hellman/" rel="tag">hellman</a> <a href="https://www.deepdotweb.com/tag/key/" rel="tag">key</a> <a href="https://www.deepdotweb.com/tag/vulnerable/" rel="tag">vulnerable</a></span>				<span style="display:none" class="updated">2016-03-02</span>
+    <a href="https://www.deepdotweb.com/tag/deffie/" rel="tag">deffie</a> <a href="https://www.deepdotweb.com/tag/exchange/" rel="tag">exchange</a> <a href="https://www.deepdotweb.com/tag/hellman/" rel="tag">hellman</a> <a href="https://www.deepdotweb.com/tag/key/" rel="tag">key</a> <a href="https://www.deepdotweb.com/tag/vulnerable/" rel="tag">vulnerable</a></span>				<span style="display:none" class="updated">2016-03-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/michaelatobraaboagye/" title="Posts by Michael Atobra Aboagye" rel="author">Michael Atobra Aboagye</a></strong></div>
     
     

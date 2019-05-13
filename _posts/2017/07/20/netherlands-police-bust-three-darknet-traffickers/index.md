@@ -24,7 +24,7 @@ Netherlands Police Bust Three Darknet Traffickers
     <p><img class="wp-image-21452 aligncenter" src="/imgs/2017/07/word-image-113.jpeg" srcset="/imgs/2017/07/word-image-113.jpeg 800w, /imgs/2017/07/word-image-113-300x165.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
     <p>The prosecution suspects that these three may have worked alongside another <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet marketplace</a> vendor. The case is open and the investigation is ongoing.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/traffickers/" rel="tag">traffickers</a></span> <span style="display:none" class="updated">2017-07-20</span>
+    <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/traffickers/" rel="tag">traffickers</a></span> <span style="display:none" class="updated">2017-07-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

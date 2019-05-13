@@ -28,7 +28,7 @@
     <p>4. Insured Crowdfunding: Insured crowdfunding can be implemented via means of dominant assurance contracts, which are smart contracts that are created to raise money for a good cause.</p>
     <p>5. Others: other possible applications include cross-chain atomic swaps, event contracts (e.g. insurance, whistleblowing) and prediction markets.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/aeternity/" rel="tag">Æternity</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/functional/" rel="tag">functional</a> <a href="https://www.deepdotweb.com/tag/machine/" rel="tag">machine</a> <a href="https://www.deepdotweb.com/tag/oracle/" rel="tag">oracle</a></span> <span style="display:none" class="updated">2017-02-28</span>
+    <a href="https://www.deepdotweb.com/tag/aeternity/" rel="tag">Æternity</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/functional/" rel="tag">functional</a> <a href="https://www.deepdotweb.com/tag/machine/" rel="tag">machine</a> <a href="https://www.deepdotweb.com/tag/oracle/" rel="tag">oracle</a></span> <span style="display:none" class="updated">2017-02-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

@@ -45,7 +45,7 @@ Bitcoin Price Analysis 2nd January 2016
     <p><a href="/imgs/2016/01/image010.jpg"><img class="aligncenter size-full wp-image-12832" src="/imgs/2016/01/image010.jpg" alt="image010" width="698" height="348" srcset="/imgs/2016/01/image010.jpg 698w, /imgs/2016/01/image010-300x150.jpg 300w, /imgs/2016/01/image010-660x330.jpg 660w" sizes="(max-width: 698px) 100vw, 698px"/></a><br/>
     &nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/2nd/" rel="tag">2nd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/january/" rel="tag">january</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-01-02</span>
+    <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/2nd/" rel="tag">2nd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/january/" rel="tag">january</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-01-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

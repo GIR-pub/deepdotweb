@@ -21,7 +21,7 @@ DAO Casino: Disrupting the gambling industry
     <p><strong>Conclusion</strong></p>
     <p>A new industry of gambling apps may be in the near future. Decentralized autonomous organizations are still in their infancy, and, as so, are very vulnerable. However, they have the potential to make business models more efficient and fair for all stakeholders. The gambling industry can provide an initial testbed for these organizations which may become the norm in a not-so-distant future.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/casino/" rel="tag">casino</a> <a href="https://www.deepdotweb.com/tag/dao/" rel="tag">dao</a> <a href="https://www.deepdotweb.com/tag/disrupting/" rel="tag">disrupting</a> <a href="https://www.deepdotweb.com/tag/gambling/" rel="tag">gambling</a> <a href="https://www.deepdotweb.com/tag/industry/" rel="tag">industry</a></span> <span style="display:none" class="updated">2017-04-15</span>
+    <a href="https://www.deepdotweb.com/tag/casino/" rel="tag">casino</a> <a href="https://www.deepdotweb.com/tag/dao/" rel="tag">dao</a> <a href="https://www.deepdotweb.com/tag/disrupting/" rel="tag">disrupting</a> <a href="https://www.deepdotweb.com/tag/gambling/" rel="tag">gambling</a> <a href="https://www.deepdotweb.com/tag/industry/" rel="tag">industry</a></span> <span style="display:none" class="updated">2017-04-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

@@ -15,7 +15,7 @@ Agora: We Are Working On A Solution For The CSRF Issue
     <blockquote><p><span class="market-wide-message">We have received reports of users receiving private messages containing a link to an exploit which can be used to hack accounts. We are working on a solution, but in the mean time please turn off JavaScript when you browse the market.</span></p></blockquote>
     <p>Again: Just disable JS on Tor browser and you should be Ok.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/csrf/" rel="tag">csrf</a> <a href="https://www.deepdotweb.com/tag/issue/" rel="tag">issue</a> <a href="https://www.deepdotweb.com/tag/solution/" rel="tag">solution</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a></span> <span style="display:none" class="updated">2015-06-13</span>
+    <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/csrf/" rel="tag">csrf</a> <a href="https://www.deepdotweb.com/tag/issue/" rel="tag">issue</a> <a href="https://www.deepdotweb.com/tag/solution/" rel="tag">solution</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a></span> <span style="display:none" class="updated">2015-06-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

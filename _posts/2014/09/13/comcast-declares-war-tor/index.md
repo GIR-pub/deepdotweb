@@ -28,7 +28,7 @@ Comcast Declares War on Tor?
     <p><strong>EDIT 14.9.14</strong>: Removed a sentence that was wrong. Added link.</p>
     <p><strong>EDIT2 15.9.14</strong>:  Comcast released a post <a href="http://corporate.comcast.com/comcast-voices/setting-the-record-straight-on-tor" target="_blank">Setting the Record Straight on Tor</a> denying the above and stating: &#8220;The anecdotal chat room evidence described in these reports is not accurate.&#8221;  Without explaining what is the &#8220;accurate&#8221; explanation?</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/comcast/" rel="tag">comcast</a> <a href="https://www.deepdotweb.com/tag/declares/" rel="tag">declares</a>  <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2014-09-13</span>
+    <a href="https://www.deepdotweb.com/tag/comcast/" rel="tag">comcast</a> <a href="https://www.deepdotweb.com/tag/declares/" rel="tag">declares</a>  <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2014-09-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/nathan/" title="Posts by Nathan Wold" rel="author">Nathan Wold</a></strong></div>
     </div>
 </article>

@@ -84,7 +84,7 @@ tag-basic tag-guide tag-pgp tag-tails">
 <p><img class="wp-image-23218 aligncenter" src="/imgs/2017/10/word-image-45.png" srcset="/imgs/2017/10/word-image-45.png 480w, /imgs/2017/10/word-image-45-300x224.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></p>
 <p>Congratulations, you can now use PGP properly to send and receive encrypted messages!</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/basic/" rel="tag">basic</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span> <span style="display:none" class="updated">2017-10-22<a href="https://www.deepdotweb.com/author/iris/" title="Posts by Iris" rel="author">Iris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/basic/" rel="tag">basic</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span> <span style="display:none" class="updated">2017-10-22<a href="https://www.deepdotweb.com/author/iris/" title="Posts by Iris" rel="author">Iris</a></strong></div>
 </div>
 </article>
 

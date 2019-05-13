@@ -29,7 +29,7 @@ German Law Enforcement to Trial Run a “Cyber-Armed Forces” Center
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/center/" rel="tag">center</a> <a href="https://www.deepdotweb.com/tag/cyberarmed/" rel="tag">cyberarmed</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/forces/" rel="tag">forces</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/run/" rel="tag">run</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span>				<span style="display:none" class="updated">2017-09-16</span>
+    <a href="https://www.deepdotweb.com/tag/center/" rel="tag">center</a> <a href="https://www.deepdotweb.com/tag/cyberarmed/" rel="tag">cyberarmed</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/forces/" rel="tag">forces</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/run/" rel="tag">run</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span>				<span style="display:none" class="updated">2017-09-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

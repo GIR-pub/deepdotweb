@@ -32,7 +32,7 @@ Bitcoin Money Laundering Lands Six in Court
     <p>He was then held at gunpoint upon entering the vehicle by the robber and his armed co-conspirators, forcing him to give up his cryptocurrency to their bitcoin wallet.</p>
     <p>Also, a Florida software engineer, Yuri Lebedev, a 39-year-old man was recently jailed for his role in a scam that tricked banks into processing bitcoin transactions by disguising them as restaurant-delivery charges and online purchases of collectible items. He is now serving a sentence of 16 years.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/lands/" rel="tag">lands</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a></span> <span style="display:none" class="updated">2017-11-07</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/lands/" rel="tag">lands</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a></span> <span style="display:none" class="updated">2017-11-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
     </div>
 </article>

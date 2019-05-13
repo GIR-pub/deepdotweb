@@ -38,7 +38,7 @@ Everything You Always Wanted to Know About Drug Cryptomarkets
     <p>Cryptomarkets are too young to have their future accurately depicted. The researchers write “We do not yet have good evidence to indicate what proportion of the population may be sourcing drugs from cryptomarkets, and whether their numbers may be increasing.”</p>
     <p>While many issues surround the growth of cryptomarkets, many marketplaces are getting more secure. The community is evolving and adapting to changes. Security vulnerabilities are being taken into account. The future is not yet predictable.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cryptomarkets/" rel="tag">cryptomarkets</a>  <a href="https://www.deepdotweb.com/tag/wanted/" rel="tag">wanted</a></span> <span style="display:none" class="updated">2016-09-06</span>
+    <a href="https://www.deepdotweb.com/tag/cryptomarkets/" rel="tag">cryptomarkets</a>  <a href="https://www.deepdotweb.com/tag/wanted/" rel="tag">wanted</a></span> <span style="display:none" class="updated">2016-09-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

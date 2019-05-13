@@ -43,7 +43,7 @@ The First Ever r/DarkNetMarkets Meetup!
     </div>
     </div>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/meetup/" rel="tag">meetup</a> <a href="https://www.deepdotweb.com/tag/rdarknetmarkets/" rel="tag">rdarknetmarkets</a></span> <span style="display:none" class="updated">2015-04-01</span>
+    <a href="https://www.deepdotweb.com/tag/meetup/" rel="tag">meetup</a> <a href="https://www.deepdotweb.com/tag/rdarknetmarkets/" rel="tag">rdarknetmarkets</a></span> <span style="display:none" class="updated">2015-04-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

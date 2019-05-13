@@ -36,7 +36,7 @@ Poll: Should We Publish An Interview With A Pedo Site Owner?
     <p><img class="aligncenter size-full wp-image-4877" src="/imgs/2014/04/poll.jpg" alt="poll" width="599" height="303" srcset="/imgs/2014/04/poll.jpg 599w, /imgs/2014/04/poll-300x152.jpg 300w" sizes="(max-width: 599px) 100vw, 599px" /></p>
     <p>We will leave this poll up for a few days to get the picture,  if we still wont be able to decide &#8211; we will consider this as a clear NO.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/pedo/" rel="tag">pedo</a> <a href="https://www.deepdotweb.com/tag/poll/" rel="tag">poll</a> <a href="https://www.deepdotweb.com/tag/publish/" rel="tag">publish</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a></span> <span style="display:none" class="updated">2014-04-02</span>
+    <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/pedo/" rel="tag">pedo</a> <a href="https://www.deepdotweb.com/tag/poll/" rel="tag">poll</a> <a href="https://www.deepdotweb.com/tag/publish/" rel="tag">publish</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a></span> <span style="display:none" class="updated">2014-04-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

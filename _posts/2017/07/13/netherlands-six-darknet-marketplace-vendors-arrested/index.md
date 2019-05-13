@@ -32,7 +32,7 @@ Netherlands: Six Darknet Marketplace Vendors Arrested
     <p>The Public Prosecution Service continued: “Secondly, the team communicates about the detection and prosecution of many large vendors on the underground marketplaces. Thirdly, the Hidden Service points out that buyers of illegal goods aren’t as anonymous on the darknet as the might think.”</p>
     <p>It is expected that more vendors will be arrested by the Dutch authorities following the recent intensive investigation on the Darknet marketplaces.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-07-13</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-07-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

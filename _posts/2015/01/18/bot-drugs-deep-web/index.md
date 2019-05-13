@@ -22,7 +22,7 @@ Swiss Police Seize Bot Used To Buy Drugs On The Deep Web
     <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
     <p>The creator was not prosecuted so far as far as we know.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bot/" rel="tag">bot</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a>  <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/seize/" rel="tag">seize</a> <a href="https://www.deepdotweb.com/tag/swiss/" rel="tag">swiss</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-01-18</span>
+    <a href="https://www.deepdotweb.com/tag/bot/" rel="tag">bot</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a>  <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/seize/" rel="tag">seize</a> <a href="https://www.deepdotweb.com/tag/swiss/" rel="tag">swiss</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-01-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

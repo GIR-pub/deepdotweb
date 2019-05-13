@@ -76,7 +76,7 @@ Interview With Tochka Market Admin
     <p><strong>Thank you for your time!</strong></p>
     <p>Want to visit Tochka?  Get the link from here: <a href="http://www.deepdotweb.com/marketplace-directory/listing/t%E2%80%A2chka-free-market/">T•chka Free Market</a>   &#8211; And feel free to share your review of the market!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/tochka/" rel="tag">tochka</a></span> <span style="display:none" class="updated">2016-03-17</span>
+    <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/tochka/" rel="tag">tochka</a></span> <span style="display:none" class="updated">2016-03-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

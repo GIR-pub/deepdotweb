@@ -45,7 +45,7 @@ tag-configure tag-properly
 <li>What is a pluggable transport? The government can identify that your traffic belongs to the Tor network, blocking it using your ISP. The Tor volunteers then invented pluggable transport, a system that obfuscates your traffic making it similar to an innocuous traffic, making harder, for the government, to decide to block you. Going on with the time, many transports have been identified, so always newly available ones are developed. The current, recommended one, is obfs4, but other types exist. It is also possible to obtain your custom bridges sending an email to <a href="/cdn-cgi/l/email-protection#8be9f9e2efeceef8cbe9f9e2efeceef8a5ffe4f9fbf9e4e1eee8ffa5e4f9ec">this address</a> with the line “get bridges” in the body of the mail. You must send this mail from a Gmail, Yahoo!, or Riseup! Account, because only these providers are supported.</li>
 </ul>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/configure/" rel="tag">configure</a> <a href="https://www.deepdotweb.com/tag/properly/" rel="tag">properly</a> </span> <span style="display:none" class="updated">2018-02-28<a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/configure/" rel="tag">configure</a> <a href="https://www.deepdotweb.com/tag/properly/" rel="tag">properly</a> </span> <span style="display:none" class="updated">2018-02-28<a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
 </div>
 </article>
 

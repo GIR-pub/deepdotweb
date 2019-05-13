@@ -28,7 +28,7 @@ University Of Minnesota Student Arrested For Drug Trafficking
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a>  <a href="https://www.deepdotweb.com/tag/minnesota/" rel="tag">minnesota</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a></span>				<span style="display:none" class="updated">2017-03-13<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a>  <a href="https://www.deepdotweb.com/tag/minnesota/" rel="tag">minnesota</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a></span>				<span style="display:none" class="updated">2017-03-13<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     
 </div><!-- .post-inner -->

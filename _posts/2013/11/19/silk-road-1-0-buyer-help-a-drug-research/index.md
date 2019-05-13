@@ -1,13 +1,9 @@
 ---
-title: "Silk Road 1.0 Buyer? Help a Drug Research.
+title: "Silk Road 1.0 Buyer? Help a Drug Research."
 ---
-1563  tag-545 tag-buyer tag-research 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 19, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/11/19/silk-road-1-0-buyer-help-a-drug-research/#comments">1 Comment</a></span>
-
 
 <p>Was posted on reddit today:</p>
 <div>
@@ -28,7 +24,6 @@ title: "Silk Road 1.0 Buyer? Help a Drug Research.
 <p>http://www.reddit.com/r/SilkRoad/comments/1qyi2k/research_study_into_online_drug_access_seeks_silk/</p>
 </div>
 </div>
-</div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a>  <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> 
+
 
 Updated: 2013-11-19

@@ -78,7 +78,7 @@ The FreeMarket &#8211; New Features Added
 <div class="wp-socializer-clearer"></div></div>
     
 </div>
-<span style="display:none"><a href="http://www.deepdotweb.com/tag/added/" rel="tag">added</a> <a href="http://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="http://www.deepdotweb.com/tag/freemarket/" rel="tag">freemarket</a></span> <span style="display:none" class="updated">2015-02-15<a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+<a href="http://www.deepdotweb.com/tag/added/" rel="tag">added</a> <a href="http://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="http://www.deepdotweb.com/tag/freemarket/" rel="tag">freemarket</a></span> <span style="display:none" class="updated">2015-02-15<a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
 </div>
 </article>
 

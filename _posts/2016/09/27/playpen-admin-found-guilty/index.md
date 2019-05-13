@@ -20,7 +20,7 @@ PlayPen Admin Found Guilty
     <p>Soon after Adolf’s allegation, the Department of Justice released a <a href="https://www.deepdotweb.com/2016/09/14/playpen-case-doj-says-fbi-played-no-role-improving-child-porn-website/">court filing</a> where they state that “the government played no role in enhancing or improving the functionality of the website.” They denied the lawyer’s claims by saying the FBI did not enhance the performance of PlayPen while they operated it.</p>
     <p>Chase may have lost his case, however, there are many suspected users of the child porn website who are fighting for evidence suppression or for their case to be dropped. They claim the Bureau used an illegal warrant when the agency hacked PlayPen visitors.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a>  <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a></span> <span style="display:none" class="updated">2016-09-27</span>
+    <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a>  <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a></span> <span style="display:none" class="updated">2016-09-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

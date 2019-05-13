@@ -33,7 +33,7 @@ Bitcoin Price Analysis 12th May 2016
     <p><strong>Bitcoin Weekly Price Forecast</strong></p>
     <p>This week, price is neutral to bearish, but only in the short term. Bitcoin could trade sideways between $440 and $470. If it turns bearish, $423 would be the lowest level. Otherwise, a bullish forecast for the next 3 months is still in force. Targets after breaking $470 are $650 upto $800 and potentially, the all time high at $1163. The coming supply halving, only 60 days away, should make for an interesting ‘bubble’.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/12th/" rel="tag">12th</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-05-12</span>
+    <a href="https://www.deepdotweb.com/tag/12th/" rel="tag">12th</a> <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-05-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

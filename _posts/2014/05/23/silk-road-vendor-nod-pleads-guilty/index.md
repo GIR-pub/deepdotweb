@@ -15,7 +15,7 @@ Silk Road Vendor &#8220;Nod&#8221; Pleads guilty
     <p>This is Steven Sadler Plea Deal:</p>
     <p><iframe id="doc_14499" class="scribd_iframe_embed" src="//www.scribd.com/embeds/225695260/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     </div>
-    <span style="display:none">    <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-23</span>
+        <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

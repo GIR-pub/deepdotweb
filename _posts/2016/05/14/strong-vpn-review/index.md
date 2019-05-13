@@ -96,7 +96,7 @@ Strong VPN Review
     <p>Strong VPN is a great option for a VPN service provider but there’s room for improvement and they have a bit of a way to go to become number one.</p>
     <p><a href="http://strongvpn.com/?offer_id=4&amp;aff_id=2555" target="_blank"><strong>&gt;&gt; Click HERE to Visit the Strong VPN Official Site &lt;&lt;</strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-05-14</span>
+    <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-05-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

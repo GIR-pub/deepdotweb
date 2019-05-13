@@ -32,7 +32,7 @@ Ordinypt Ransomware Targeting Germany
     <p>Also speaking after the discovery of this ransomware was Bleeping Computer’s Catalin Cimpanu. He stated that “the targeting of HR departments via job application emails also means that this is an intentional campaign to damage the operations of some Germany-based companies.”</p>
     <p>He went ahead to say that: “Furthermore, there’s no way of contacting the faux ransomware authors and verifying the payment. All evidence points to the fact that someone coded Ordinypt with the intention to damage computers.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/ordinypt/" rel="tag">ordinypt</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/targeting/" rel="tag">targeting</a></span> <span style="display:none" class="updated">2017-11-24</span>
+    <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/ordinypt/" rel="tag">ordinypt</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/targeting/" rel="tag">targeting</a></span> <span style="display:none" class="updated">2017-11-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
     </div>
 </article>

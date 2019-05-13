@@ -24,7 +24,7 @@ Personal Experience: Part 4 – Bitcoin
     <p>With some minimal research it was easy for me to get started with bitcoin. Next I&#8217;ll be diving into the Darknet Marketplaces and giving some thought to how to represent my freelance writing on the Darknet. I&#8217;ll also be exploring some of the marketplaces where you can advertise services for which you&#8217;ll take bitcoin as payment on the Internet.</p>
     <p>Over at Reddit they have an active community that revolves around discussion of Bitcoin. Make sure to check it out, as it&#8217;s an amazing resource for people new to cryptocurrencies like Bitcoin.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/experience/" rel="tag">experience</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a></span> <span style="display:none" class="updated">2014-10-14</span>
+    <a href="https://www.deepdotweb.com/tag/experience/" rel="tag">experience</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a></span> <span style="display:none" class="updated">2014-10-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
     </div>
 </article>

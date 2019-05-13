@@ -73,7 +73,7 @@ Darknet Nation: DarkNetMarket Social Network
     <p><span style="color: #ff0000;"><strong><span style="text-decoration: underline;">Darknet nation url</span>: http://26a2ueoc3xxrrgs4.onion/</strong></span></p>
     <p>Site will be added to our list of <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplaces</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/darknetmarket/" rel="tag">darknetmarket</a> <a href="https://www.deepdotweb.com/tag/nation/" rel="tag">nation</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/social/" rel="tag">social</a></span> <span style="display:none" class="updated">2014-02-21</span>
+    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/darknetmarket/" rel="tag">darknetmarket</a> <a href="https://www.deepdotweb.com/tag/nation/" rel="tag">nation</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/social/" rel="tag">social</a></span> <span style="display:none" class="updated">2014-02-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

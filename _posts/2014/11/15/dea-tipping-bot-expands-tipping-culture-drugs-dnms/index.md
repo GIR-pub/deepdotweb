@@ -23,7 +23,7 @@
     <p>Allowing people to make money off things they are already doing for free. And whenever there is money involved, that extra incentive tends to make people to take more time and effort in what they are doing. Resulting in more quality postings.</p>
     <p>To learn more about DEAlol or register, visit their subreddit <a href="http://www.reddit.com/r/DEAlol/wiki/index">here</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bot/" rel="tag">bot</a> <a href="https://www.deepdotweb.com/tag/culture/" rel="tag">culture</a> <a href="https://www.deepdotweb.com/tag/dea/" rel="tag">dea</a> <a href="https://www.deepdotweb.com/tag/dnms/" rel="tag">dnms</a>  <a href="https://www.deepdotweb.com/tag/expands/" rel="tag">expands</a> <a href="https://www.deepdotweb.com/tag/tipping/" rel="tag">tipping</a></span> <span style="display:none" class="updated">2014-11-15</span>
+    <a href="https://www.deepdotweb.com/tag/bot/" rel="tag">bot</a> <a href="https://www.deepdotweb.com/tag/culture/" rel="tag">culture</a> <a href="https://www.deepdotweb.com/tag/dea/" rel="tag">dea</a> <a href="https://www.deepdotweb.com/tag/dnms/" rel="tag">dnms</a>  <a href="https://www.deepdotweb.com/tag/expands/" rel="tag">expands</a> <a href="https://www.deepdotweb.com/tag/tipping/" rel="tag">tipping</a></span> <span style="display:none" class="updated">2014-11-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     </div>
 </article>

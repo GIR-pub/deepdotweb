@@ -26,7 +26,7 @@ Hackers Make $103,000 Cracking Bitcoin Wallets
     <p>The paper that details these findings, “The Bitcoin Brain Drain: A Short Paper on the</p>
     <p>Use and Abuse of Bitcoin Brain Wallets” is scheduled to be presented at the Financial Cryptography and Data Security 2016 conference.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/103000/" rel="tag">103000</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/cracking/" rel="tag">cracking</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/wallets/" rel="tag">wallets</a></span> <span style="display:none" class="updated">2016-02-18</span>
+    <a href="https://www.deepdotweb.com/tag/103000/" rel="tag">103000</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/cracking/" rel="tag">cracking</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/wallets/" rel="tag">wallets</a></span> <span style="display:none" class="updated">2016-02-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

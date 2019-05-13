@@ -22,7 +22,7 @@ WhatsApp Is now End-to-End encrypted
     <p>“Technology is an amplifier, with the right stewards in place, with the right guidance, we can really effect positive change,” Acton says.</p>
     <p>For other secure messaging apps visit Eff&#8217;s <a href="https://www.eff.org/secure-messaging-scorecard" target="_blank">Secure Messaging Scorecard</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/encrypted/" rel="tag">encrypted</a> <a href="https://www.deepdotweb.com/tag/endtoend/" rel="tag">endtoend</a> <a href="https://www.deepdotweb.com/tag/whatsapp/" rel="tag">whatsapp</a></span> <span style="display:none" class="updated">2016-04-06</span>
+    <a href="https://www.deepdotweb.com/tag/encrypted/" rel="tag">encrypted</a> <a href="https://www.deepdotweb.com/tag/endtoend/" rel="tag">endtoend</a> <a href="https://www.deepdotweb.com/tag/whatsapp/" rel="tag">whatsapp</a></span> <span style="display:none" class="updated">2016-04-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

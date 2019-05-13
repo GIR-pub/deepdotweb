@@ -89,7 +89,7 @@ Wireshark Tutorial
     <li><a href="https://www.wireshark.org/download/docs/user-guide-a4.pdf">User’s Guide</a></li>
     </ul>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/wireshark/" rel="tag">wireshark</a></span> <span style="display:none" class="updated">2017-11-21</span>
+    <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/wireshark/" rel="tag">wireshark</a></span> <span style="display:none" class="updated">2017-11-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
     </div>
 </article>

@@ -62,7 +62,7 @@ The Journey of Amphetamines
     <p>The pancreas secretes many digestive enzymes into the small intestine. Among these are enzymes are proteases. Proteases cleave amide bonds, which are commonly found linking amino acids. Following proteolytic cleavage of an internal amide bond, vyvanse is split into independent lysine and dextroamphetamine molecules. Newly liberated dextroamphetamine molecules then begin to absorb into the bloodstream through the intestine.</p>
     <p><a href="/imgs/2016/06/amph18.png"><img class="aligncenter size-full wp-image-14411" src="/imgs/2016/06/amph18.png" alt="amph18" width="583" height="529" srcset="/imgs/2016/06/amph18.png 583w, /imgs/2016/06/amph18-300x272.png 300w" sizes="(max-width: 583px) 100vw, 583px"/></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/amphetamines/" rel="tag">amphetamines</a> <a href="https://www.deepdotweb.com/tag/journey/" rel="tag">journey</a></span> <span style="display:none" class="updated">2016-06-08</span>
+    <a href="https://www.deepdotweb.com/tag/amphetamines/" rel="tag">amphetamines</a> <a href="https://www.deepdotweb.com/tag/journey/" rel="tag">journey</a></span> <span style="display:none" class="updated">2016-06-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kevin/" title="Posts by -Kevin-" rel="author">-Kevin-</a></strong></div>
     </div>
 </article>

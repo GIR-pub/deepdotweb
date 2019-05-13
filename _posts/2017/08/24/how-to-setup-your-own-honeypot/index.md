@@ -77,7 +77,7 @@ How To Setup Your Own Honeypot?
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/honeypot/" rel="tag">honeypot</a> <a href="https://www.deepdotweb.com/tag/setup/" rel="tag">setup</a></span>				<span style="display:none" class="updated">2017-08-24</span>
+    <a href="https://www.deepdotweb.com/tag/honeypot/" rel="tag">honeypot</a> <a href="https://www.deepdotweb.com/tag/setup/" rel="tag">setup</a></span>				<span style="display:none" class="updated">2017-08-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
     
     

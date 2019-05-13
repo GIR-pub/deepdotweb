@@ -19,7 +19,7 @@ Florida Pedophile Busted by Undercover Cop on Kik
 <p>And in March 2018, the U.S. District Court in Pensacola found Fogarty guilty of both charges. In June, Fogarty will appear for his sentencing hearing. He faces mandatory minimums on both charges. A minimum of 15 years in prison for the advertisement charge and a mandatory minimum of five years in prison for the distribution charge.</p>
 <p>https://www.pnj.com/story/news/crime/2018/03/14/pensacola-jury-convicts-man-who-had-more-than-4-000-child-porn-images-and-videos/425302002/</p>
 </div>
-<span style="display:none"> <a href="https://www.deepdotweb.com/tag/cop/" rel="tag">cop</a> <a href="https://www.deepdotweb.com/tag/florida/" rel="tag">florida</a> <a href="https://www.deepdotweb.com/tag/kik/" rel="tag">kik</a> <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/undercover/" rel="tag">undercover</a></span> <span style="display:none" class="updated">2018-03-29<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+ <a href="https://www.deepdotweb.com/tag/cop/" rel="tag">cop</a> <a href="https://www.deepdotweb.com/tag/florida/" rel="tag">florida</a> <a href="https://www.deepdotweb.com/tag/kik/" rel="tag">kik</a> <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/undercover/" rel="tag">undercover</a></span> <span style="display:none" class="updated">2018-03-29<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

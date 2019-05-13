@@ -42,7 +42,7 @@ Two New Models For Double Spending Attacks On Bitcoin&#8217;s Blockchain
     <p><strong>Conclusion:</strong></p>
     <p>Two new double spend attack models were proposed by a group of researchers in a paper that was published a few days ago. The generalization model is a generalization mode of Rosenfeld classic attack model, while the new time based mode is different from both classic models; Nakamoto&#8217;s and Rosenfeld&#8217;s.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/double/" rel="tag">double</a> <a href="https://www.deepdotweb.com/tag/models/" rel="tag">models</a> <a href="https://www.deepdotweb.com/tag/spending/" rel="tag">spending</a></span> <span style="display:none" class="updated">2016-12-31</span>
+    <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/double/" rel="tag">double</a> <a href="https://www.deepdotweb.com/tag/models/" rel="tag">models</a> <a href="https://www.deepdotweb.com/tag/spending/" rel="tag">spending</a></span> <span style="display:none" class="updated">2016-12-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

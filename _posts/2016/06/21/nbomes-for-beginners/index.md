@@ -116,7 +116,7 @@ NBOMEs for Beginners
     <p><a href="http://energycontrol.org/international.html"><strong>Energy Control Drug Testing (EC)</strong></a><strong><br/>
     </strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/beginners/" rel="tag">beginners</a> <a href="https://www.deepdotweb.com/tag/nbomes/" rel="tag">nbomes</a></span> <span style="display:none" class="updated">2016-06-21</span>
+    <a href="https://www.deepdotweb.com/tag/beginners/" rel="tag">beginners</a> <a href="https://www.deepdotweb.com/tag/nbomes/" rel="tag">nbomes</a></span> <span style="display:none" class="updated">2016-06-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/a-grey/" title="Posts by a.grey" rel="author">a.grey</a></strong></div>
     </div>
 </article>

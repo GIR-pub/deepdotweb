@@ -32,7 +32,7 @@ Bitcoin Exchanges Subpoenaed Over Silk Road Related Transactions
     </blockquote>
     <p><strong>Info Source</strong>: http://online.wsj.com/news/articles/SB10001424052702304422704579570132275301414?mg=reno64-wsj&amp;url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304422704579570132275301414.html</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/exchanges/" rel="tag">exchanges</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a>  <a href="https://www.deepdotweb.com/tag/subpoenaed/" rel="tag">subpoenaed</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> <span style="display:none" class="updated">2014-05-20</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/exchanges/" rel="tag">exchanges</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a>  <a href="https://www.deepdotweb.com/tag/subpoenaed/" rel="tag">subpoenaed</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> <span style="display:none" class="updated">2014-05-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

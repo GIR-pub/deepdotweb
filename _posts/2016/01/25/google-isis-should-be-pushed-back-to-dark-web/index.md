@@ -21,7 +21,7 @@ Google: ISIS Should Be Pushed Back To Dark Web
     <p>However, according to Shiraz Maher, a radicalisation researcher from King&#8217;s College London, UK citizens who want to join the Islamic State use the Telegram app for encryption. Telegram is currently in the phase of removing those public channels from their application that were promoting ISIS.</p>
     <p>Another possible tactic, according to Yasmin Green of Google Ideas, is to show targeted advertising to those who have been identified as looking at the propaganda.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/google/" rel="tag">google</a> <a href="https://www.deepdotweb.com/tag/isis/" rel="tag">isis</a> <a href="https://www.deepdotweb.com/tag/pushed/" rel="tag">pushed</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-01-25</span>
+    <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/google/" rel="tag">google</a> <a href="https://www.deepdotweb.com/tag/isis/" rel="tag">isis</a> <a href="https://www.deepdotweb.com/tag/pushed/" rel="tag">pushed</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-01-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

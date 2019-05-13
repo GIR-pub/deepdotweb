@@ -42,7 +42,7 @@ Georgia Man Jailed For Role in Cybercrime against Kansas County
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/county/" rel="tag">county</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/kansas/" rel="tag">kansas</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/role/" rel="tag">role</a></span>				<span style="display:none" class="updated">2017-11-29</span>
+    <a href="https://www.deepdotweb.com/tag/county/" rel="tag">county</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/kansas/" rel="tag">kansas</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/role/" rel="tag">role</a></span>				<span style="display:none" class="updated">2017-11-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
     
     

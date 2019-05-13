@@ -48,7 +48,7 @@ Steganalysis: finding hidden data in Images
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/finding/" rel="tag">finding</a>  <a href="https://www.deepdotweb.com/tag/images/" rel="tag">images</a> <a href="https://www.deepdotweb.com/tag/steganalysis/" rel="tag">steganalysis</a></span>				<span style="display:none" class="updated">2017-01-02</span>
+    <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/finding/" rel="tag">finding</a>  <a href="https://www.deepdotweb.com/tag/images/" rel="tag">images</a> <a href="https://www.deepdotweb.com/tag/steganalysis/" rel="tag">steganalysis</a></span>				<span style="display:none" class="updated">2017-01-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/babysnoop/" title="Posts by babysnoop" rel="author">babysnoop</a></strong></div>
     
     

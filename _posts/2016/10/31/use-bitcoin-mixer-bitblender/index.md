@@ -60,7 +60,7 @@ How to use a Bitcoin Mixer: BitBlender
     <p>That’s it. Enjoy your newly mixed Bitcoins! If you need to recover your password, you can always do so in the “<strong>Forgot Password</strong>” section. Also, be sure to read BitBlender’s home page text on the “<strong>Best-Practice for Top-Level Anonymity</strong>”, It’s a great source of information on how to remain 100% anonymous. .</p>
     <p>On the next tutorial we’ll cover CoinMixer.se.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitblender/" rel="tag">bitblender</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a></span> <span style="display:none" class="updated">2016-10-31</span>
+    <a href="https://www.deepdotweb.com/tag/bitblender/" rel="tag">bitblender</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a></span> <span style="display:none" class="updated">2016-10-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

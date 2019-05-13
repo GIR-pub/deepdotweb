@@ -4,8 +4,6 @@ title: "Homeland Security: Statement On The Launch Of The Silk Road 2.0"
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 7, 2013</span>
 
-<span><a href="https://www.deepdotweb.com/2013/11/07/homeland-security-statement-on-the-launch-of-the-silk-road-2-0/#comments">2 Comments</a></span>
-
 
 <p>Today, Senator Tom Carper (D-Del.), Chairman of the Senate Homeland Security and Governmental Affairs Committee, released the following statement on the launch of the Silk Road 2.0:</p>
 <p><b>“This new website – launched barely a month after Federal agents shut down the original Silk Road &#8212; underscores the inescapable reality that technology is dynamic and ever-evolving and that government policy needs to adapt accordingly. <span style="color: #ff0000;">Rather than play ‘whack-a-mole’ with the latest website,  currency, or other method criminals are using in an effort to evade the law, we need to develop thoughtful, nimble and sensible federal policies</span> that protect the public without stifling innovation and economic growth. Our committee intends to have that conversation – among others &#8211; at our hearing this month on virtual currency.”</b></p>

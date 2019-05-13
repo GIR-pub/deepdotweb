@@ -44,7 +44,7 @@ How Do Modern Firewalls Work?
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/firewalls/" rel="tag">firewalls</a> <a href="https://www.deepdotweb.com/tag/modern/" rel="tag">modern</a> <a href="https://www.deepdotweb.com/tag/work/" rel="tag">work</a></span>				<span style="display:none" class="updated">2016-02-15</span>
+    <a href="https://www.deepdotweb.com/tag/firewalls/" rel="tag">firewalls</a> <a href="https://www.deepdotweb.com/tag/modern/" rel="tag">modern</a> <a href="https://www.deepdotweb.com/tag/work/" rel="tag">work</a></span>				<span style="display:none" class="updated">2016-02-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
     
     

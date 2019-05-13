@@ -61,7 +61,7 @@ How to start a career writing about cryptocurrencies
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/career/" rel="tag">career</a> <a href="https://www.deepdotweb.com/tag/cryptocurrencies/" rel="tag">cryptocurrencies</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a> <a href="https://www.deepdotweb.com/tag/writing/" rel="tag">writing</a></span>				<span style="display:none" class="updated">2017-05-03</span>
+    <a href="https://www.deepdotweb.com/tag/career/" rel="tag">career</a> <a href="https://www.deepdotweb.com/tag/cryptocurrencies/" rel="tag">cryptocurrencies</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a> <a href="https://www.deepdotweb.com/tag/writing/" rel="tag">writing</a></span>				<span style="display:none" class="updated">2017-05-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     
     

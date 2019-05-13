@@ -33,7 +33,7 @@ Introduction to Bitcoin Transaction Accelerators
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/accelerators/" rel="tag">accelerators</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/transaction/" rel="tag">transaction</a></span>				<span style="display:none" class="updated">2017-08-31</span>
+    <a href="https://www.deepdotweb.com/tag/accelerators/" rel="tag">accelerators</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/transaction/" rel="tag">transaction</a></span>				<span style="display:none" class="updated">2017-08-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     
     

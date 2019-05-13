@@ -21,7 +21,7 @@ New Book Introduction: &#8220;Drugs on the Dark Net&#8221;
     <p><em><a href="http://www.palgrave.com/page/detail/drugs-on-the-dark-net-james-martin/?K=9781137399045" target="_blank">Drugs on the Dark Net</a> </em>presents an accessible and rigorously researched academic case outlining the various complexities, as well as significant benefits associated with the rise of online drug trading. It also proposes a range of compelling reasons as to why cryptomarkets are likely to expand further in the future. Ultimately, the book argues that cryptomarkets present a more competitive, accountable and less violent alternative to the conventional trade in illicit drugs.</p>
     <p>Follow the links to order your copy from: <a href="http://www.palgrave.com/page/detail/drugs-on-the-dark-net-james-martin/?K=9781137399045" target="_blank">Palgrave</a> or <a href="http://www.amazon.com/Drugs-Dark-Net-Cryptomarkets-Transforming/dp/113739904X" target="_blank">Amazon</a>.</p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> <span style="display:none" class="updated">2014-09-16</span>
+     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> <span style="display:none" class="updated">2014-09-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

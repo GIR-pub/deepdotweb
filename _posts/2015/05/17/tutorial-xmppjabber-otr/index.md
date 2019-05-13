@@ -31,7 +31,7 @@ Tutorial: XMPP/Jabber OTR
     <p><a href="/imgs/2015/02/snKrfky1.png"><img class="aligncenter size-full wp-image-9321" src="/imgs/2015/02/snKrfky1.png" alt="snKrfky[1]" width="382" height="422" srcset="/imgs/2015/02/snKrfky1.png 382w, /imgs/2015/02/snKrfky1-272x300.png 272w" sizes="(max-width: 382px) 100vw, 382px"/></a></p>
     <p>I hope this tutorial has been helpful, and as always, if you have any questions or problems, feel free to post a comment, and I will do my best to help. Thank you so much.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/otr/" rel="tag">otr</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/xmppjabber/" rel="tag">xmppjabber</a></span> <span style="display:none" class="updated">2015-05-17</span>
+    <a href="https://www.deepdotweb.com/tag/otr/" rel="tag">otr</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/xmppjabber/" rel="tag">xmppjabber</a></span> <span style="display:none" class="updated">2015-05-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dave/" title="Posts by Dave" rel="author">Dave</a></strong></div>
     </div>
 </article>

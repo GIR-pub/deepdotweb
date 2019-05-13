@@ -27,7 +27,7 @@ Shreveport Father and Son Arrested for illegal Bitcoin Scheme
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/father/" rel="tag">father</a> <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/scheme/" rel="tag">scheme</a> <a href="https://www.deepdotweb.com/tag/shreveport/" rel="tag">shreveport</a> <a href="https://www.deepdotweb.com/tag/son/" rel="tag">son</a></span>				<span style="display:none" class="updated">2016-04-28</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/father/" rel="tag">father</a> <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/scheme/" rel="tag">scheme</a> <a href="https://www.deepdotweb.com/tag/shreveport/" rel="tag">shreveport</a> <a href="https://www.deepdotweb.com/tag/son/" rel="tag">son</a></span>				<span style="display:none" class="updated">2016-04-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     

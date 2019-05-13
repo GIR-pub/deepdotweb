@@ -38,7 +38,7 @@
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/crypto/" rel="tag">crypto</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/favorite/" rel="tag">favorite</a> <a href="https://www.deepdotweb.com/tag/reasons/" rel="tag">reasons</a></span>				<span style="display:none" class="updated">2014-09-15</span>
+    <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/crypto/" rel="tag">crypto</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/favorite/" rel="tag">favorite</a> <a href="https://www.deepdotweb.com/tag/reasons/" rel="tag">reasons</a></span>				<span style="display:none" class="updated">2014-09-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     
     

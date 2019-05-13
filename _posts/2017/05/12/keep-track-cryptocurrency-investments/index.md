@@ -121,7 +121,7 @@ How to Keep Track of Your Cryptocurrency Investments
     <p><img class="wp-image-19832" src="/imgs/2017/05/word-image-63.png" srcset="/imgs/2017/05/word-image-63.png 1156w, /imgs/2017/05/word-image-63-300x63.png 300w, /imgs/2017/05/word-image-63-1024x213.png 1024w" sizes="(max-width: 1156px) 100vw, 1156px" /></p>
     <p>That’s pretty much it! Now, you can not only keep track of your holdings but also have access to advanced statistics and insights that may allow you to improve your strategy and safety. Good luck and remember to never invest more than what you can afford to lose, especially when dealing with altcoins.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/investments/" rel="tag">investments</a> <a href="https://www.deepdotweb.com/tag/track/" rel="tag">track</a></span> <span style="display:none" class="updated">2017-05-12</span>
+    <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/investments/" rel="tag">investments</a> <a href="https://www.deepdotweb.com/tag/track/" rel="tag">track</a></span> <span style="display:none" class="updated">2017-05-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

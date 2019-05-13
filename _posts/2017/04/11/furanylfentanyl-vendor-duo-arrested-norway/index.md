@@ -27,7 +27,7 @@ Furanylfentanyl Vendor Duo Arrested In Norway
     <p>The police attorney described the investigation of the two suspects as “very resource-intensive”.</p>
     <p>“Despite the fact that crimes are being committed in the dark net, we have available methods to investigate these types of cases. There is a risk of detection also for those who choose to commit crimes using these encryption tools,” Bjørge commented on darknet-related crimes in the country.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/duo/" rel="tag">duo</a> <a href="https://www.deepdotweb.com/tag/furanylfentanyl/" rel="tag">furanylfentanyl</a> <a href="https://www.deepdotweb.com/tag/norway/" rel="tag">norway</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-04-11</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/duo/" rel="tag">duo</a> <a href="https://www.deepdotweb.com/tag/furanylfentanyl/" rel="tag">furanylfentanyl</a> <a href="https://www.deepdotweb.com/tag/norway/" rel="tag">norway</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-04-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

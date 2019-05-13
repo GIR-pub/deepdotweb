@@ -30,7 +30,7 @@ Large Drug Distribution Ring Broken Up in Romania
     <p>Law enforcement then executed more warrants, <a href="https://www.deepdotweb.com/tag/arrested/">rounding up 16 more conspirators</a> by the end of May. Come June 7, the number of executed warrants hit the fifties. Law enforcement is still searching for some known members of the group. So far, 22 conspirators have been identified. Charges have not been announced for the entire group yet, and some suspects were only held for 24-hours.</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/broken/" rel="tag">broken</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>  <a href="https://www.deepdotweb.com/tag/large/" rel="tag">large</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/romania/" rel="tag">romania</a></span> <span style="display:none" class="updated">2017-06-24</span>
+    <a href="https://www.deepdotweb.com/tag/broken/" rel="tag">broken</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>  <a href="https://www.deepdotweb.com/tag/large/" rel="tag">large</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/romania/" rel="tag">romania</a></span> <span style="display:none" class="updated">2017-06-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

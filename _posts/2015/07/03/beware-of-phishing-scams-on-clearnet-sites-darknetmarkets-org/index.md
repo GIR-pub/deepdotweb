@@ -87,7 +87,7 @@ Beware of Phishing Scams On Clearnet Sites! (darknetmarkets.org)
     </ul>
     <p>* <em>Need to note</em>:  That list was not displaying phishing links until today, so its only fair that we will publish the site&#8217;s owner response once (and if) we will have it. Until than &#8211; avoid like the plague.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/beware/" rel="tag">beware</a> <a href="https://www.deepdotweb.com/tag/clearnet/" rel="tag">clearnet</a> <a href="https://www.deepdotweb.com/tag/darknetmarketsorg/" rel="tag">darknetmarketsorg</a> <a href="https://www.deepdotweb.com/tag/phishing/" rel="tag">phishing</a> <a href="https://www.deepdotweb.com/tag/scams/" rel="tag">scams</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a></span> <span style="display:none" class="updated">2015-07-03</span>
+    <a href="https://www.deepdotweb.com/tag/beware/" rel="tag">beware</a> <a href="https://www.deepdotweb.com/tag/clearnet/" rel="tag">clearnet</a> <a href="https://www.deepdotweb.com/tag/darknetmarketsorg/" rel="tag">darknetmarketsorg</a> <a href="https://www.deepdotweb.com/tag/phishing/" rel="tag">phishing</a> <a href="https://www.deepdotweb.com/tag/scams/" rel="tag">scams</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a></span> <span style="display:none" class="updated">2015-07-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

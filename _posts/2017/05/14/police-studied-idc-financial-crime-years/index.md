@@ -51,7 +51,7 @@ Police Studied IDC Financial Crime for Years
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/financial/" rel="tag">financial</a> <a href="https://www.deepdotweb.com/tag/idc/" rel="tag">idc</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/studied/" rel="tag">studied</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span>				<span style="display:none" class="updated">2017-05-14</span>
+    <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/financial/" rel="tag">financial</a> <a href="https://www.deepdotweb.com/tag/idc/" rel="tag">idc</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/studied/" rel="tag">studied</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span>				<span style="display:none" class="updated">2017-05-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

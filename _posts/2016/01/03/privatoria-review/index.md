@@ -105,7 +105,7 @@ Privatoria Review
     <p>Privatoria is a VPN solution that promotes a series of amazing features when it comes to online privacy and safety while browsing and using online services. It also gives users access to the Tor network without making them deal with their technical browser, and offers great peer-to-peer access. The speed issues still need some attention though as if it were me wanting a VPN I would want one that has great privacy while also delivering excellent speeds.</p>
     <p><a href="https://privatoria.net/" target="_blank"><strong>&gt;&gt; Click HERE to Visit the Privatoria Official Site</strong></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/privatoria/" rel="tag">privatoria</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-03</span>
+    <a href="https://www.deepdotweb.com/tag/privatoria/" rel="tag">privatoria</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

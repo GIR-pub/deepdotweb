@@ -21,7 +21,7 @@ Flomarket: Aaaan&#8217;d its gone! (With your BTC)
     <p>This shutdown just adds up to a growing list of shutdowns (although not from same reasons in all cases): Silk road1, Atlantis, Sheep Marketplace, Tormarket, Black Market Reloaded And now Flomarket&#8230;</p>
     <p>You can find the currently active markets at our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of hidden marketplaces</a> &#8211; while Flomarket has moved to the &#8220;Dead / Scam Marketplaces&#8221; Section obviously.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/aaaand/" rel="tag">aaaand</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/flomarket/" rel="tag">flomarket</a></span> <span style="display:none" class="updated">2014-01-06</span>
+    <a href="https://www.deepdotweb.com/tag/aaaand/" rel="tag">aaaand</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/flomarket/" rel="tag">flomarket</a></span> <span style="display:none" class="updated">2014-01-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

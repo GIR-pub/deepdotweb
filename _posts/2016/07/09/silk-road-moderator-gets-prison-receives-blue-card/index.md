@@ -27,7 +27,7 @@ Silk Road Moderator (SSBD) Gets Out Of Prison Receives Blue Card
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/blue/" rel="tag">blue</a> <a href="https://www.deepdotweb.com/tag/card/" rel="tag">card</a> <a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/receives/" rel="tag">receives</a>  <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a></span>				<span style="display:none" class="updated">2016-07-09</span>
+    <a href="https://www.deepdotweb.com/tag/blue/" rel="tag">blue</a> <a href="https://www.deepdotweb.com/tag/card/" rel="tag">card</a> <a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/receives/" rel="tag">receives</a>  <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a></span>				<span style="display:none" class="updated">2016-07-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     

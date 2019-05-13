@@ -30,7 +30,7 @@ California Dealer Caught with 10K Alprazolam Pills
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/10k/" rel="tag">10k</a> <a href="https://www.deepdotweb.com/tag/alprazolam/" rel="tag">alprazolam</a> <a href="https://www.deepdotweb.com/tag/california/" rel="tag">california</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a>  <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a></span>				<span style="display:none" class="updated">2017-11-09</span>
+    <a href="https://www.deepdotweb.com/tag/10k/" rel="tag">10k</a> <a href="https://www.deepdotweb.com/tag/alprazolam/" rel="tag">alprazolam</a> <a href="https://www.deepdotweb.com/tag/california/" rel="tag">california</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a>  <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a></span>				<span style="display:none" class="updated">2017-11-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

@@ -29,7 +29,7 @@ PSA: DNM Avengers Forum Is Back
     <p>The new forum .onion link:</p>
     <p><a href="https://www.deepdotweb.com/marketplace-directory/listing/darknet-avengers-dnmavengers/"><strong>dnmavengeradt4vo.onion</strong></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/avengers/" rel="tag">avengers</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a></span> <span style="display:none" class="updated">2016-08-28</span>
+    <a href="https://www.deepdotweb.com/tag/avengers/" rel="tag">avengers</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a></span> <span style="display:none" class="updated">2016-08-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

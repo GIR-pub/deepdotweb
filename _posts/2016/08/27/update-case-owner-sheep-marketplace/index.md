@@ -35,7 +35,7 @@ Update on the Case Against the Owner of the Sheep Marketplace
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span>				<span style="display:none" class="updated">2016-08-27</span>
+    <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span>				<span style="display:none" class="updated">2016-08-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

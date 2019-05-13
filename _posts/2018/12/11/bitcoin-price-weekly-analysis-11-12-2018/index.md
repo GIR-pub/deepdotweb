@@ -34,7 +34,7 @@ Bitcoin price weekly analysis &#8211; 11.12.2018
 <p><strong>Conclusion:</strong></p>
 <p>Bitcoin price continued on dropping during last week&#8217;s trading sessions. Even though the 1 day BTCUSD charts are still exhibiting multiple bearish indicators, analysis of the 4 hour BTCUSD charts shows multiple bullish reversal signals that indicate that bitcoin price is likely to recover during the upcoming week.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/11122018/" rel="tag">11122018</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2018-12-11<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/11122018/" rel="tag">11122018</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> <span style="display:none" class="updated">2018-12-11<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
 </div>
 </article>
 

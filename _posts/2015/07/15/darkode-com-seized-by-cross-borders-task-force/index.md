@@ -30,7 +30,7 @@ Darkode Forum Seized by Cross-Borders Task Force
     <blockquote><p>Everyone is really paranoid</p></blockquote>
     <p>He added later. We will keep following and updating once more info becomes available.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/crossborders/" rel="tag">crossborders</a> <a href="https://www.deepdotweb.com/tag/darkodecom/" rel="tag">darkodecom</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a></span> <span style="display:none" class="updated">2015-07-15</span>
+    <a href="https://www.deepdotweb.com/tag/crossborders/" rel="tag">crossborders</a> <a href="https://www.deepdotweb.com/tag/darkodecom/" rel="tag">darkodecom</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a></span> <span style="display:none" class="updated">2015-07-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -40,7 +40,7 @@ We love the blockchain, not the bitcoin the currency
 <p><strong>Censorship resistance as a desired quality</strong></p>
 <p>In all this talk however, bitcoin still remains the only censorship resistant digital bearer asset in the world. Regardless of all the discussion on ‘blockchains’, censorship resistance is an extremely valuable quality for an asset in today’s financial global system. Bitcoin (the currency) will play a crucial role in the next fiat crisis. I am yet to see any solid arguments against this characteristic. Which is why, I am bullish on bitcoin in the medium and long term.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/banks/" rel="tag">banks</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/ledgers/" rel="tag">ledgers</a></span> <span style="display:none" class="updated">2015-10-12<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/banks/" rel="tag">banks</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/ledgers/" rel="tag">ledgers</a></span> <span style="display:none" class="updated">2015-10-12<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
 </div>
 </article>
 

@@ -147,7 +147,7 @@ BolehVPN Review
     <p>All in all Boleh VPN is not a bad option but there are definitely others that have better features, are quicker and cheaper. Refer to the <a href="https://www.deepdotweb.com/vpn-comparison-chart/" target="_blank">VPN comparison chart here</a>.</p>
     <p><a href=https://portal.bolehvpn.net/affiliate/ref.php?id=162&tid=BOMT1&tid1=bolehvpn-review target="_blank"><strong>&gt;&gt; Click HERE to Visit the BolehVPN Official Site</strong></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bolehvpn/" rel="tag">bolehvpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-11</span>
+    <a href="https://www.deepdotweb.com/tag/bolehvpn/" rel="tag">bolehvpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

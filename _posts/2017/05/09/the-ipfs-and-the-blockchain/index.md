@@ -22,7 +22,7 @@ The IPFS and the blockchain
     <p>Another project that is leveraging both technologies to build its platform is <a href="https://embermine.com">Embermine</a>. A complete ecosystem platform created to empower content creators and provide them with a versatile operating system for their work that includes smart contract-driven revenue channels, a reputation-based collaboration network, identity protection and more. Embermine uses the InterPlanetary File System to store user files and encrypted Embermine application data.</p>
     <p>As blockchain technology continues to be developed and integrated into multiple industries, the InterPlanetary File System will no doubt become an important backbone to blockchain-based applications.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/ipfs/" rel="tag">ipfs</a></span> <span style="display:none" class="updated">2017-05-09</span>
+    <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/ipfs/" rel="tag">ipfs</a></span> <span style="display:none" class="updated">2017-05-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

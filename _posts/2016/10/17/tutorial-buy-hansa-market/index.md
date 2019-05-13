@@ -130,7 +130,7 @@ Tutorial: How To Buy From the Hansa Market?
     <p>If your item doesn’t arrive until the Auto Finalize timer runs out, you can ask to dispute the order by clicking “<strong>Dispute</strong>”. This stops the Auto Finalize timer and allows you to chat with the moderator assigned and with the seller.</p>
     <p><img class="wp-image-15913 aligncenter" src="/imgs/2016/10/dispute-png.png" alt="dispute.png" srcset="/imgs/2016/10/dispute-png.png 869w, /imgs/2016/10/dispute-png-300x147.png 300w" sizes="(max-width: 869px) 100vw, 869px" /></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/hansa/" rel="tag">hansa</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2016-10-17</span>
+    <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/hansa/" rel="tag">hansa</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2016-10-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

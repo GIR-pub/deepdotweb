@@ -54,7 +54,7 @@ Storj &#8211; Decentralized Cloud Storage
     </ul>
     <p>The encryption method of SpiderOak could be argued as more secure than Storj due to its client-side encryption. Unlike Storj however SpiderOak isn’t backed by a network.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cloud/" rel="tag">cloud</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/storage/" rel="tag">storage</a> <a href="https://www.deepdotweb.com/tag/storj/" rel="tag">storj</a></span> <span style="display:none" class="updated">2014-08-26</span>
+    <a href="https://www.deepdotweb.com/tag/cloud/" rel="tag">cloud</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/storage/" rel="tag">storage</a> <a href="https://www.deepdotweb.com/tag/storj/" rel="tag">storj</a></span> <span style="display:none" class="updated">2014-08-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
     </div>
 </article>

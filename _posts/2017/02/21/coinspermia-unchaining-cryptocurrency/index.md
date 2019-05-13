@@ -33,7 +33,7 @@ Coinspermia : Unchaining Cryptocurrency
     <p><img class="wp-image-18262 aligncenter" src="/imgs/2017/02/coinspermia-2-png.png" alt="Coinspermia 2.PNG" /></p>
     <p>Where <strong><em>N </em></strong>is the number of nodes, <strong><em>K</em></strong> is the number of nodes that contain search items (proceeding green transaction), <strong><em>S </em></strong> is the number of random samples (present blue transactions) and <strong><em>P</em></strong> is the probability of discovering an item.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/coinspermia/" rel="tag">coinspermia</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/unchaining/" rel="tag">unchaining</a></span> <span style="display:none" class="updated">2017-02-21</span>
+    <a href="https://www.deepdotweb.com/tag/coinspermia/" rel="tag">coinspermia</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/unchaining/" rel="tag">unchaining</a></span> <span style="display:none" class="updated">2017-02-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

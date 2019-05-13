@@ -23,7 +23,7 @@ MXE: The Wonder Drug
     <p>A more optimal solution still, would be to enquire about novel compounds in these areas such as 5-TOET or 3a-Methyl-MDA (both a psychedelic <em>and</em> empathogen) as a psychedelic, bk-aMT as an empathogen, RB-101 and it&#8217;s relatives for removal of addiction to opioids, Levorphacetyl for the opioid to join it, Nitetrazepam as a benzo, <em>cis</em>-N-HO-4-MAR as a stimulant and MXPy (Methoxrolidine) instead of MXE. Together, as a social movement we could continue the introduction of novel compounds to the world and in time we will almost certainly find other wonder drugs and evolve psycho-pharmacology with the emphasis placed squarely upon what we do not know instead of what we do know.</p>
     <p>LoT</p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/mxe/" rel="tag">mxe</a></span> <span style="display:none" class="updated">2015-07-06</span>
+     <a href="https://www.deepdotweb.com/tag/mxe/" rel="tag">mxe</a></span> <span style="display:none" class="updated">2015-07-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lines_of_thought/" title="Posts by Lines_of_Thought" rel="author">Lines_of_Thought</a></strong></div>
     </div>
 </article>

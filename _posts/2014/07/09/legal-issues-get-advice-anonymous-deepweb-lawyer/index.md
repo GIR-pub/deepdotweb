@@ -21,7 +21,7 @@ Legal Issues? Get Advice From Anonymous DeepWeb Lawyer
     <p>Onion Law by using PGP encryption and not requiring personal information affords a greater level or protection to clients, contact us today for an independent and confidential consultation: <strong>onionlaw@secure-mail.biz</strong></p></blockquote>
     <p>So in case you have some legal questions service you can try this and let us know how it went and how much it cost.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/advice/" rel="tag">advice</a> <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/issues/" rel="tag">issues</a> <a href="https://www.deepdotweb.com/tag/lawyer/" rel="tag">lawyer</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a></span> <span style="display:none" class="updated">2014-07-09</span>
+    <a href="https://www.deepdotweb.com/tag/advice/" rel="tag">advice</a> <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/issues/" rel="tag">issues</a> <a href="https://www.deepdotweb.com/tag/lawyer/" rel="tag">lawyer</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a></span> <span style="display:none" class="updated">2014-07-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

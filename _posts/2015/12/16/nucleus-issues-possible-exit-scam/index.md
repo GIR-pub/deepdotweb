@@ -35,7 +35,7 @@ Nucleus: Issues &#038; Possible Exit Scam?
     <p>Currently uptime issues are also being reported on Cryuserv which is hosting several vendor shops.</p>
     <p>Since Agora was shut down, it became the season of exit scams when, as expected, the next &#8220;default&#8221; markets in line took advantage of the massive agora refugees traffic and exit scammed. So far we had Abraxas and middle earth, maybe now Nucleus? who will be next&#8230; only time will tell.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/issues/" rel="tag">issues</a> <a href="https://www.deepdotweb.com/tag/nucleus/" rel="tag">nucleus</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a></span> <span style="display:none" class="updated">2015-12-16</span>
+    <a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/issues/" rel="tag">issues</a> <a href="https://www.deepdotweb.com/tag/nucleus/" rel="tag">nucleus</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a></span> <span style="display:none" class="updated">2015-12-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

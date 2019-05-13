@@ -27,7 +27,7 @@ How Much Did A Scammer Steal From SR2 Members?
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/members/" rel="tag">members</a> <a href="https://www.deepdotweb.com/tag/scammer/" rel="tag">scammer</a> <a href="https://www.deepdotweb.com/tag/sr2/" rel="tag">sr2</a> <a href="https://www.deepdotweb.com/tag/steal/" rel="tag">steal</a></span>				<span style="display:none" class="updated">2014-02-22</span>
+    <a href="https://www.deepdotweb.com/tag/members/" rel="tag">members</a> <a href="https://www.deepdotweb.com/tag/scammer/" rel="tag">scammer</a> <a href="https://www.deepdotweb.com/tag/sr2/" rel="tag">sr2</a> <a href="https://www.deepdotweb.com/tag/steal/" rel="tag">steal</a></span>				<span style="display:none" class="updated">2014-02-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     

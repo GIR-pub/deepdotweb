@@ -27,7 +27,7 @@ Deputy Attorney General Calls for Government Backdoors
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/attorney/" rel="tag">attorney</a> <a href="https://www.deepdotweb.com/tag/backdoors/" rel="tag">backdoors</a> <a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/deputy/" rel="tag">deputy</a> <a href="https://www.deepdotweb.com/tag/general/" rel="tag">general</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a></span>				<span style="display:none" class="updated">2017-10-21<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/attorney/" rel="tag">attorney</a> <a href="https://www.deepdotweb.com/tag/backdoors/" rel="tag">backdoors</a> <a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/deputy/" rel="tag">deputy</a> <a href="https://www.deepdotweb.com/tag/general/" rel="tag">general</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a></span>				<span style="display:none" class="updated">2017-10-21<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     
 </div><!-- .post-inner -->

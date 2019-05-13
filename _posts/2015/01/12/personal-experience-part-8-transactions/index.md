@@ -18,7 +18,7 @@ Personal Experience: Part 8 – Transactions
     <p>Multi-signature transactions allow for another interesting marketplace and economic innovation. Smaller arbitration services have the chance to enter the marketplace and offer their services. Without the regulations and hurdles that traditional arbitration requires anyone can offer their dispute resolution services to the public. Yet another way that Bitcoin is revolutionizing the worldwide economic landscape.</p>
     <p>Entering into any Darknet marketplace venture requires some working knowledge of the different types of transactions and what benefits and features each one carries. Armed with this knowledge, I&#8217;m one step closer to vending my freelance writing services on the Darknet.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a></span> <span style="display:none" class="updated">2015-01-12</span>
+    <a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a></span> <span style="display:none" class="updated">2015-01-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
     </div>
 </article>

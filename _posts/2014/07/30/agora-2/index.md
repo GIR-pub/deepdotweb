@@ -28,7 +28,7 @@ Agora Down Time: Hardware Failure
     <p>Or /r/darknetmarkets.</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a></span> <span style="display:none" class="updated">2014-07-30</span>
+    <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a></span> <span style="display:none" class="updated">2014-07-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

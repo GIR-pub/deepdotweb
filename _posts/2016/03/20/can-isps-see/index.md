@@ -37,7 +37,7 @@ What Can ISPs See?
     <p>Those out there who want to protect their privacy must consider whether or not their ISP is an adversary and act accordingly as Team Upturn concludes, “Today, ISPs can see a significant amount of their subscribers’ Internet activity, and have the ability to infer substantial amounts of sensitive information from it. &#8230;”</p>
     <p><em>Note: The sources for the surveys mentioned in this article can be found in Team Upturn&#8217;s <a href="https://www.teamupturn.com/reports/2016/what-isps-can-see">report</a>.</em></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/isps/" rel="tag">isps</a></span> <span style="display:none" class="updated">2016-03-20</span>
+    <a href="https://www.deepdotweb.com/tag/isps/" rel="tag">isps</a></span> <span style="display:none" class="updated">2016-03-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

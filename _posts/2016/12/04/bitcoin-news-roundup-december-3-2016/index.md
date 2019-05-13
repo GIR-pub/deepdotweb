@@ -35,7 +35,7 @@ Bitcoin news roundup December 3, 2016
     <p><strong>Zcash price starts stabilizing after months devaluing</strong></p>
     <p>This past week, the price of Zcash seems to be stabilizing after months of devaluing. The cryptocurrency started off by being traded for millions of dollars, losing value ever since. Now, it <a href="https://www.coingecko.com/en/price_charts/zcash/usd">seems to have stabilized at around $70-80,</a> with small peaks here and there. The loss of value is, partly, because of the amount off zecs in circulation as the currency is being mined over time.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/december/" rel="tag">december</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2016-12-04</span>
+    <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/december/" rel="tag">december</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2016-12-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
     </div>
 </article>

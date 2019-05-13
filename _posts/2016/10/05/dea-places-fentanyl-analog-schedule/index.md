@@ -21,7 +21,7 @@ DEA Places Fentanyl Analog in Schedule I
     <p>The DEA classifies controlled substances into one of five schedules based on potential for abuse, accepted medical use, and the degree of dependence the drug may cause.</p>
     <p>We’ll continue to monitor both DEA and dark web actions on fentanyl.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/analog/" rel="tag">analog</a> <a href="https://www.deepdotweb.com/tag/dea/" rel="tag">dea</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/places/" rel="tag">places</a> <a href="https://www.deepdotweb.com/tag/schedule/" rel="tag">schedule</a></span> <span style="display:none" class="updated">2016-10-05</span>
+    <a href="https://www.deepdotweb.com/tag/analog/" rel="tag">analog</a> <a href="https://www.deepdotweb.com/tag/dea/" rel="tag">dea</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/places/" rel="tag">places</a> <a href="https://www.deepdotweb.com/tag/schedule/" rel="tag">schedule</a></span> <span style="display:none" class="updated">2016-10-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/joewebber/" title="Posts by Joe Webber" rel="author">Joe Webber</a></strong></div>
     </div>
 </article>

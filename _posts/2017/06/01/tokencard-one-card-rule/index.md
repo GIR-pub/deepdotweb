@@ -20,7 +20,7 @@ TokenCard: One card to rule them all
     <p>The TKN brings multiple advantages to its holder. It allows the holder to use the the TokenCard without having to pay the aforementioned licensing fees (transaction fees charged by third party card issuers and payment system providers remain applicable). Not only that, TKN holders also have the possibility of destroying their TKNs in order to acquire a share of the profits made from the 1% licensing fee charged to other Ethereum tokens which are stored in the TKN Asset Contract. The first of its kind, this process is called Cash and Burn.</p>
     <p>As so, the TokenCard system has many uses. Not only it allows users to make payments with their ERC20 token holdings, but it also brings along the an interesting value proposition for its own token through the Cash and Burn system.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/card/" rel="tag">card</a> <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/tokencard/" rel="tag">tokencard</a></span> <span style="display:none" class="updated">2017-06-01</span>
+    <a href="https://www.deepdotweb.com/tag/card/" rel="tag">card</a> <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/tokencard/" rel="tag">tokencard</a></span> <span style="display:none" class="updated">2017-06-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

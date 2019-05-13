@@ -18,7 +18,7 @@ Massive Online Weed Shop Busted in Canada
 <p>The police also seized more than $50,000 in cash and two cars believed to have been purchased with money earned from the drug operation. ALERT announced that both vehicles will be subject to forfeiture after a review from the forfeiture office. Authorities charged the men for possession of the proceeds of a crime in connection to the seized cash and vehicles. The drug possession and distributing charges will lead to several possession of controlled substances for the purpose of trafficking charges due to the amount recovered.</p>
 <p>Authorities released the men on bail after booking and charging them.</p>
 </div>
-<span style="display:none"> <a href="https://www.deepdotweb.com/tag/canada/" rel="tag">canada</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a>  <a href="https://www.deepdotweb.com/tag/shop/" rel="tag">shop</a> <a href="https://www.deepdotweb.com/tag/weed/" rel="tag">weed</a></span> <span style="display:none" class="updated">2018-07-02<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+ <a href="https://www.deepdotweb.com/tag/canada/" rel="tag">canada</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a>  <a href="https://www.deepdotweb.com/tag/shop/" rel="tag">shop</a> <a href="https://www.deepdotweb.com/tag/weed/" rel="tag">weed</a></span> <span style="display:none" class="updated">2018-07-02<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

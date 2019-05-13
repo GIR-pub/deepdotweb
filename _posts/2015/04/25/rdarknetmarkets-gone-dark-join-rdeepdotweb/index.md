@@ -16,7 +16,7 @@
     <p>For now feel free to join: <a href="http://www.reddit.com/r/deepdotweb" target="_blank"><strong>http://www.reddit.com/r/deepdotweb</strong></a></p>
     <p>for all your darknetmarkets discussion needs, at least until we are clear on whats going on.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/join/" rel="tag">join</a> <a href="https://www.deepdotweb.com/tag/rdarknetmarkets/" rel="tag">rdarknetmarkets</a> <a href="https://www.deepdotweb.com/tag/rdeepdotweb/" rel="tag">rdeepdotweb</a></span> <span style="display:none" class="updated">2015-04-25</span>
+    <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/join/" rel="tag">join</a> <a href="https://www.deepdotweb.com/tag/rdarknetmarkets/" rel="tag">rdarknetmarkets</a> <a href="https://www.deepdotweb.com/tag/rdeepdotweb/" rel="tag">rdeepdotweb</a></span> <span style="display:none" class="updated">2015-04-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -119,7 +119,7 @@ Silk Road Tales: Oracle&#8217;s Memoirs
     <p>Wake up DeepWeb, realize that the Silk Road brand is dead. Realize that every other market has some kind of scam of scheme being perpetrated by either the operators, moderator Prems, vendors or a combination of collusion amongst the above. Marketplaces are no longer being run by men with some form integrity. They’re being run as get rich quick schemes. And more importantly, allowing your money to be stolen, allowing your intelligence to be insulted, allowing your security to be compromised is in your own hands. Multi-sigs, decentralized, stick with trusted vendors, etc, whatever.. this is all up to you. But history repeats itself. And theres two things, only two things that you should learn from history: What doesn’t kill you makes you stronger, and always trust your gut.</p>
     <p>Oh, and here’s a final tidbit of&#8230;&#8230;  [ends &#8211; will be added if a full version is ever released]
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/memoirs/" rel="tag">memoirs</a> <a href="https://www.deepdotweb.com/tag/oracle/" rel="tag">oracle</a></span> <span style="display:none" class="updated">2014-06-29</span>
+    <a href="https://www.deepdotweb.com/tag/memoirs/" rel="tag">memoirs</a> <a href="https://www.deepdotweb.com/tag/oracle/" rel="tag">oracle</a></span> <span style="display:none" class="updated">2014-06-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

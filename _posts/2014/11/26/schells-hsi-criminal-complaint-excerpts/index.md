@@ -28,7 +28,7 @@ Schell&#8217;s HSI Criminal Complaint Excerpts
     <p>The Criminal complaint:<br/>
     <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/247639656/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_45128" frameborder="0"></iframe></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/complaint/" rel="tag">complaint</a> <a href="https://www.deepdotweb.com/tag/hsi/" rel="tag">hsi</a></span> <span style="display:none" class="updated">2014-11-26</span>
+    <a href="https://www.deepdotweb.com/tag/complaint/" rel="tag">complaint</a> <a href="https://www.deepdotweb.com/tag/hsi/" rel="tag">hsi</a></span> <span style="display:none" class="updated">2014-11-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
     </div>
 </article>

@@ -52,7 +52,7 @@ Browser Fingerprinting: Does Your Browser Stand Out?
     <p>These browsers and userscripts are just a few of the many tools that can reduce your browser fingerprint. It is, of course, something that’s good to become aware of, <em>especially</em> if you’re concerned about who’s tracking you and your browsing habits.</p>
     <p>Or did you <em>never</em> wonder why those same underwear ads keep following you on every website you visit?</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/fingerprinting/" rel="tag">fingerprinting</a> <a href="https://www.deepdotweb.com/tag/stand/" rel="tag">stand</a></span> <span style="display:none" class="updated">2016-10-28</span>
+    <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/fingerprinting/" rel="tag">fingerprinting</a> <a href="https://www.deepdotweb.com/tag/stand/" rel="tag">stand</a></span> <span style="display:none" class="updated">2016-10-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
     </div>
 </article>

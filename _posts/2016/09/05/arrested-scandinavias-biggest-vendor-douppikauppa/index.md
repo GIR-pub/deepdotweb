@@ -33,7 +33,7 @@ Arrested: Scandinavia’s Biggest Vendor “Douppikauppa”
     <p>The three suspects, while unnamed for now, are about 30-years-old and have completely clean criminal records when it comes to drug offenses.</p>
     <p>The case will likely be heard at the District Court in Southwest Finland sometime this fall.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/biggest/" rel="tag">biggest</a> <a href="https://www.deepdotweb.com/tag/douppikauppa/" rel="tag">douppikauppa</a> <a href="https://www.deepdotweb.com/tag/scandinavias/" rel="tag">scandinavias</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-09-05</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/biggest/" rel="tag">biggest</a> <a href="https://www.deepdotweb.com/tag/douppikauppa/" rel="tag">douppikauppa</a> <a href="https://www.deepdotweb.com/tag/scandinavias/" rel="tag">scandinavias</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-09-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

@@ -12,7 +12,7 @@ Get In Now Before The Price Drops!
     <div class="entry">
     <p><a href="http://www.deepdotweb.co/wp-content/uploads/2014/12/Sketch25414221.png"><img class="aligncenter size-full wp-image-8699" src="http://www.deepdotweb.co/wp-content/uploads/2014/12/Sketch25414221.png" alt="Sketch25414221" width="800" height="1280" srcset="/imgs/2014/12/Sketch25414221.png 800w, /imgs/2014/12/Sketch25414221-188x300.png 188w, /imgs/2014/12/Sketch25414221-640x1024.png 640w" sizes="(max-width: 800px) 100vw, 800px"/></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/drops/" rel="tag">drops</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2014-12-25</span>
+    <a href="https://www.deepdotweb.com/tag/drops/" rel="tag">drops</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2014-12-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

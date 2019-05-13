@@ -59,7 +59,7 @@ How to use a Bitcoin Mixer: BitCloak
     <p>That’s it. You have sucessfully cleaned your Bitcoins, whether when making a purchase or withdrawing from a “dirty” source, you can use BitCloak to clean your Bitcoin. Furthermore, BitCloak also has a free api, that allows you to have the same functionalities (for both &#8220;mixing&#8221; and &#8220;paying&#8221; features) on your website/application.</p>
     <p>On the next tutorial we’ll cover CoinMixer.se.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcloak/" rel="tag">bitcloak</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a></span> <span style="display:none" class="updated">2016-10-27</span>
+    <a href="https://www.deepdotweb.com/tag/bitcloak/" rel="tag">bitcloak</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a></span> <span style="display:none" class="updated">2016-10-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

@@ -48,7 +48,7 @@ Decentralized Exchanges: Goxed No More!
     <p><strong>Under Development</strong></p>
     <p>More projects with the intent of creating a decentralized exchange service for users are currently being built. <a href="https://wavesplatform.com/">Waves</a> is building a platform that will allow users to trade fiat and cryptocurrencies without the need to trust a third party, and to withdraw fiat currencies directly through fiat gateways. <a href="https://etherex.org/">EtherEX</a> is also developing a decentralized exchange that will run on Ethereum Smart Contracts. In time as the technology progresses, decentralized exchanges may come to replace centralized ones, thus ending the era of &#8220;Getting Goxed&#8221; once and for all.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/exchanges/" rel="tag">exchanges</a> <a href="https://www.deepdotweb.com/tag/goxed/" rel="tag">goxed</a></span> <span style="display:none" class="updated">2016-10-04</span>
+    <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/exchanges/" rel="tag">exchanges</a> <a href="https://www.deepdotweb.com/tag/goxed/" rel="tag">goxed</a></span> <span style="display:none" class="updated">2016-10-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

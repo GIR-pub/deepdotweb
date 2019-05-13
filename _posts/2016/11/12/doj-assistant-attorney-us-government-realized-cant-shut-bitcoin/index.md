@@ -22,7 +22,7 @@ DOJ Assistant Attorney: US Government Realized They Can’t Shut Down Bitcoin
     <p>This lecture of the federal prosecutor could be a step towards legal bitcoin users by the government. It could create greater transparency and community engagement between the government and blockchain users.</p>
     <p>To prevent blockchain and virtual currency related crimes, federal agencies need to seek out experts of the technology. The easiest way to do so is to engage the bitcoin user community and attract people to work with the government.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/realized/" rel="tag">realized</a> <a href="https://www.deepdotweb.com/tag/shut/" rel="tag">shut</a></span> <span style="display:none" class="updated">2016-11-12</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/realized/" rel="tag">realized</a> <a href="https://www.deepdotweb.com/tag/shut/" rel="tag">shut</a></span> <span style="display:none" class="updated">2016-11-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

@@ -20,7 +20,7 @@ FBI and NSA Still Not Having Trouble Getting Spy Orders
     <p>The memo also stated that the majority of the requests made by the FBI were seeking data on foreigners, but almost one in five were requests for data on Americans. Only in recent years has there been a push back against the governments one sided authority.</p>
     <p>Last year, the court appointed five lawyers and attorneys with national security clearance, including Mark Zwillinger, a lawyer who&#8217;s represented both Apple ad Yahoo at the court to act as pushback against the governments requests. The move was a provisions in the Freedom Act, which passed in mid 2015, as an intelligence community reform effort in the wake of the Snowden revelations.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a> <a href="https://www.deepdotweb.com/tag/spy/" rel="tag">spy</a> <a href="https://www.deepdotweb.com/tag/trouble/" rel="tag">trouble</a></span> <span style="display:none" class="updated">2016-05-07</span>
+    <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a> <a href="https://www.deepdotweb.com/tag/spy/" rel="tag">spy</a> <a href="https://www.deepdotweb.com/tag/trouble/" rel="tag">trouble</a></span> <span style="display:none" class="updated">2016-05-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

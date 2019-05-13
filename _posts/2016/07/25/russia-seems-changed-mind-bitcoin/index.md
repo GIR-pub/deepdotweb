@@ -16,7 +16,7 @@ Russia Seems to have Changed its Mind about Bitcoin
     <p>While the Ministry of Finance has been a big supporter in <a href="https://www.deepdotweb.com/2015/01/14/bitcoin-sites-blocked-russia-avoidance-shadow-economy-rise/">the opposition against bitcoin</a>, it did express interest in the blockchain technology, saying it “has potential relevance…for the development of e-commerce.”</p>
     <p>The proposal is set to be submitted before 2017.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/changed/" rel="tag">changed</a> <a href="https://www.deepdotweb.com/tag/mind/" rel="tag">mind</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2016-07-25</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/changed/" rel="tag">changed</a> <a href="https://www.deepdotweb.com/tag/mind/" rel="tag">mind</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2016-07-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

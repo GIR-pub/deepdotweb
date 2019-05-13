@@ -32,7 +32,7 @@ Bitcoin and an Imminent Fork &#8211; The Aftermaths
     <p>It will be a war between two camps, two coins and two blockchains, but bitcoin will be the loser as whatever the scenario is, a hard fork will double the coin supply, decrease trust in the bitcoin brand and crush the community into two opposing camps.</p>
     <p>In my opinion, we should avoid forking by all means and preserve the bitcoin brand. The community should better remain united and work on providing solutions that will preserve BTC as a single powerful coin.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/aftermaths/" rel="tag">aftermaths</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/fork/" rel="tag">fork</a> <a href="https://www.deepdotweb.com/tag/imminent/" rel="tag">imminent</a></span> <span style="display:none" class="updated">2017-06-16</span>
+    <a href="https://www.deepdotweb.com/tag/aftermaths/" rel="tag">aftermaths</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/fork/" rel="tag">fork</a> <a href="https://www.deepdotweb.com/tag/imminent/" rel="tag">imminent</a></span> <span style="display:none" class="updated">2017-06-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

@@ -24,7 +24,7 @@ No ban for Bitcoin in Russia
     <p><em>“Use will be restricted and the issue of foreign currency will be prohibited in Russia, but it can be bought, put in your pocket and taken abroad”</em></p>
     <p>Nonetheless, the new direction taken by the Bank of Russia regarding Bitcoin may build a foundation for the widespread use of the digital currency within the country, which so far had a less-than-favorable relation with Bitcoin.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/ban/" rel="tag">ban</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2017-01-25</span>
+    <a href="https://www.deepdotweb.com/tag/ban/" rel="tag">ban</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2017-01-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

@@ -139,4 +139,4 @@ PrivateVPN Review – 2017 update
 <p>Coupled with the fact that they are based in Sweden, it is a very good option for those wanting to use PivateVPN along with Tor while browsing around on the Deep Web and checking out darknet markets.</p>
 <p><a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5637cc7802fcd&amp;a_bid=9689cbf4&amp;chan=PVPNRV1" target="_blank" rel="noopener noreferrer"><strong>&gt;&gt; Click HERE to Visit the PrivateVPN Official Site</strong></a></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/privatevpn/" rel="tag">privatevpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2015-11-25
+<a href="https://www.deepdotweb.com/tag/privatevpn/" rel="tag">privatevpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2015-11-25

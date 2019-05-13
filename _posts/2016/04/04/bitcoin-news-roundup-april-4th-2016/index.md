@@ -43,7 +43,7 @@ Bitcoin News Roundup – April 4th 2016
     <p>Implemented as a soft fork, Seg Wit frees up 1 MB of additional block space and includes support for Check Sequence Verify (CSV). Core developer Eric Lombrozo was quoted</p>
     <p><em>“the combination of Segregated Witness and CSV particularly benefits added scaling layers on top of the Bitcoin blockchain.”</em></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/4th/" rel="tag">4th</a> <a href="https://www.deepdotweb.com/tag/april/" rel="tag">april</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2016-04-04</span>
+    <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/4th/" rel="tag">4th</a> <a href="https://www.deepdotweb.com/tag/april/" rel="tag">april</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2016-04-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

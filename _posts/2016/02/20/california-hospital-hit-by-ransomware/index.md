@@ -20,7 +20,7 @@ California Hospital Hit By Ransomware
     <p>The second is that hackers breached the hospital&#8217;s IT network and infected the most important computers with ransomware, asking for more money than usual after realizing the target&#8217;s potential.”</p>
     <p>The hospital&#8217;s media-relations phone at the hospital leaves you with a recording that says “patient care has not been compromised”, <a href="http://www.theatlantic.com/technology/archive/2016/02/hackers-are-holding-a-hospitals-patient-data-ransom/463008/">according</a> to The Atlantic.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/california/" rel="tag">california</a> <a href="https://www.deepdotweb.com/tag/hit/" rel="tag">hit</a> <a href="https://www.deepdotweb.com/tag/hospital/" rel="tag">hospital</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a></span> <span style="display:none" class="updated">2016-02-20</span>
+    <a href="https://www.deepdotweb.com/tag/california/" rel="tag">california</a> <a href="https://www.deepdotweb.com/tag/hit/" rel="tag">hit</a> <a href="https://www.deepdotweb.com/tag/hospital/" rel="tag">hospital</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a></span> <span style="display:none" class="updated">2016-02-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

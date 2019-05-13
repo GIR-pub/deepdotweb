@@ -26,7 +26,7 @@ Smuggling Counterfeit Drugs Is The New Business In Germany
     <p>The largest share of counterfeit pills come from China, India, and Bangladesh.</p>
     <p>&#8220;From ten parcels, five pass through the customs. The attempt does not cost the perpetrators anything, &#8220;says investigator Peter W. “The parcels that come through bring money to criminals.&#8221;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a>  <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/smuggling/" rel="tag">smuggling</a></span> <span style="display:none" class="updated">2016-11-10</span>
+    <a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a>  <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/smuggling/" rel="tag">smuggling</a></span> <span style="display:none" class="updated">2016-11-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

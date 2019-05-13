@@ -41,7 +41,7 @@ The Potential Value of Bitcoin is Exciting To Contemplate
     <p>I have little doubt bitcoin will attain the lofty valuations that seem ridiculous now. It already went up from under 50 cents to $1163, so there is no disputing it can do it again. This chart of Berkshire’ Hathaway’s share price from $14.86 to $208,475 is a great example of what to expect when BTC resumes its bullish cycle.</p>
     <p><img class="aligncenter size-full wp-image-13566" src="/imgs/2016/03/5-3.jpg" alt="5" width="678" height="712" srcset="/imgs/2016/03/5-3.jpg 678w, /imgs/2016/03/5-3-286x300.jpg 286w" sizes="(max-width: 678px) 100vw, 678px" /></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/contemplate/" rel="tag">contemplate</a> <a href="https://www.deepdotweb.com/tag/exciting/" rel="tag">exciting</a> <a href="https://www.deepdotweb.com/tag/potential/" rel="tag">potential</a></span> <span style="display:none" class="updated">2016-03-24</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/contemplate/" rel="tag">contemplate</a> <a href="https://www.deepdotweb.com/tag/exciting/" rel="tag">exciting</a> <a href="https://www.deepdotweb.com/tag/potential/" rel="tag">potential</a></span> <span style="display:none" class="updated">2016-03-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

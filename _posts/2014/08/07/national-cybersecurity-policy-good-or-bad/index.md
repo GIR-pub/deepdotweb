@@ -76,7 +76,7 @@ National Cybersecurity Policy – Good or Bad?
     <p><span style="text-decoration: underline;"> Link to the full keynote transcript</span>: <a href="http://geer.tinho.net/geer.blackhat.6viii14.txt" target="_blank">http://geer.tinho.net/geer.<wbr/>blackhat.6viii14.txt</a></p>
     <p>Whether any of these concepts are preferable to the state of the Internet as it is now is for you to decide for yourself.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bad/" rel="tag">bad</a> <a href="https://www.deepdotweb.com/tag/cybersecurity/" rel="tag">cybersecurity</a> <a href="https://www.deepdotweb.com/tag/good/" rel="tag">good</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/policy/" rel="tag">policy</a></span> <span style="display:none" class="updated">2014-08-07</span>
+    <a href="https://www.deepdotweb.com/tag/bad/" rel="tag">bad</a> <a href="https://www.deepdotweb.com/tag/cybersecurity/" rel="tag">cybersecurity</a> <a href="https://www.deepdotweb.com/tag/good/" rel="tag">good</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/policy/" rel="tag">policy</a></span> <span style="display:none" class="updated">2014-08-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/iburnez/" title="Posts by iBurnEZ" rel="author">iBurnEZ</a></strong></div>
     </div>
 </article>

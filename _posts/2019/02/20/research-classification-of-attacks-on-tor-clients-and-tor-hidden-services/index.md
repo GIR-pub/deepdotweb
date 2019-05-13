@@ -44,7 +44,7 @@ Research: Classification of attacks on Tor clients and Tor hidden services
     <p><strong>Off-path MitM attack:</strong></p>
     <p>This attack relies on launching a man-in-the-middle attack (MitM) against a given Tor hidden service. Assuming that the hidden service&#8217;s private key is owned by the adversary, launching a MitM attack is possible. The essential point in such scenario is that the adversary is not required to be located along the communication path established between the hidden service and the client.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/classification/" rel="tag">classification</a> <a href="https://www.deepdotweb.com/tag/clients/" rel="tag">clients</a>  <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> </span> <span style="display:none" class="updated">2019-02-20</span>
+    <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/classification/" rel="tag">classification</a> <a href="https://www.deepdotweb.com/tag/clients/" rel="tag">clients</a>  <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> </span> <span style="display:none" class="updated">2019-02-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

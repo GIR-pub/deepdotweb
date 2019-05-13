@@ -21,7 +21,7 @@ Man Charged With BTC Purchase of Firearm and Silencer on “Darknet”
     <p>Criminal Complaint:<br />
     <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/261033274/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_31519" frameborder="0"></iframe></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/firearm/" rel="tag">firearm</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/purchase/" rel="tag">purchase</a> <a href="https://www.deepdotweb.com/tag/silencer/" rel="tag">silencer</a></span> <span style="display:none" class="updated">2015-04-03</span>
+    <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/firearm/" rel="tag">firearm</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/purchase/" rel="tag">purchase</a> <a href="https://www.deepdotweb.com/tag/silencer/" rel="tag">silencer</a></span> <span style="display:none" class="updated">2015-04-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

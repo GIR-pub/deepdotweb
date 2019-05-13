@@ -22,7 +22,7 @@ US Customs Officer Charged with Cocaine Importation
     <p>Special Agent-in-Charge Melendez added that “for corrupt officers who think they can hide behind their badge as they engage in transnational criminal activity, today’s indictment shows you will be caught and brought to justice.”</p>
     <p>See also: <a href="https://www.deepdotweb.com/2016/12/02/ex-australian-cop-busted-selling-stolen-police-identification-alphabay/">Ex-Australian Cop Busted for Selling Police Identification on Alphabay </a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/customs/" rel="tag">customs</a> <a href="https://www.deepdotweb.com/tag/importation/" rel="tag">importation</a> <a href="https://www.deepdotweb.com/tag/officer/" rel="tag">officer</a></span> <span style="display:none" class="updated">2017-04-29</span>
+    <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/customs/" rel="tag">customs</a> <a href="https://www.deepdotweb.com/tag/importation/" rel="tag">importation</a> <a href="https://www.deepdotweb.com/tag/officer/" rel="tag">officer</a></span> <span style="display:none" class="updated">2017-04-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

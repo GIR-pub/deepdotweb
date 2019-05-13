@@ -25,7 +25,7 @@ Turning Your Phone On Is Consenting To Being Tracked
     <p>“While cell phones are ubiquitous, they all come with an “off” switches. If a cell phone is turned on, it is receiving signals from cell towers, and sending signals back out to cell towers. The cell site simulator used in this case took advantage of that fact in order to locate Andrews&#8217; phone. Because Andrews chose to keep his cell phone on, he was voluntarily sharing the location of his cell phone with third parties.”</p>
     <p>This means that <strong>turning your phone on is consenting to being tracked </strong>which is absolutely absurd.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/consenting/" rel="tag">consenting</a> <a href="https://www.deepdotweb.com/tag/phone/" rel="tag">phone</a> <a href="https://www.deepdotweb.com/tag/tracked/" rel="tag">tracked</a> <a href="https://www.deepdotweb.com/tag/turning/" rel="tag">turning</a></span> <span style="display:none" class="updated">2016-02-11</span>
+    <a href="https://www.deepdotweb.com/tag/consenting/" rel="tag">consenting</a> <a href="https://www.deepdotweb.com/tag/phone/" rel="tag">phone</a> <a href="https://www.deepdotweb.com/tag/tracked/" rel="tag">tracked</a> <a href="https://www.deepdotweb.com/tag/turning/" rel="tag">turning</a></span> <span style="display:none" class="updated">2016-02-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

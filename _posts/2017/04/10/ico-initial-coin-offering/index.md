@@ -40,7 +40,7 @@ What is an ICO (Initial Coin Offering)
     <p>In the future, investors will also have access to Wings, blockchain-based platform that employs the concept of swarm intelligence to build decentralized forecasting markets that allow Wings community members to analyse the projects and forecast their value. This creates a system where the investor can easily vet projects without the need to trust a central authority that dictates which projects are worthy of investment or not. The analysts in the Wings platform are rewarded with tokens from the ICO according to their accuracy, so they have an incentive to vet projects properly.</p>
     <p>For the time being, users should access ICOs carefully with the information available and be careful to avoid scams.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a> <a href="https://www.deepdotweb.com/tag/ico/" rel="tag">ico</a> <a href="https://www.deepdotweb.com/tag/initial/" rel="tag">initial</a> <a href="https://www.deepdotweb.com/tag/offering/" rel="tag">offering</a></span> <span style="display:none" class="updated">2017-04-10</span>
+    <a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a> <a href="https://www.deepdotweb.com/tag/ico/" rel="tag">ico</a> <a href="https://www.deepdotweb.com/tag/initial/" rel="tag">initial</a> <a href="https://www.deepdotweb.com/tag/offering/" rel="tag">offering</a></span> <span style="display:none" class="updated">2017-04-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

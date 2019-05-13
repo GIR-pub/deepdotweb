@@ -219,7 +219,7 @@ Dangers of .doc &#8211; MS Word Documents
     <p><strong>Conclusion</strong></p>
     <p>Word macros are a bit restricted Visual Basic executables. With some sneakiness, it can be used to compromise a system by downloading and executing a &#8216;real&#8217; .exe &#8211; macros are as dangerous as executables!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dangers/" rel="tag">dangers</a> <a href="https://www.deepdotweb.com/tag/doc/" rel="tag">doc</a> <a href="https://www.deepdotweb.com/tag/documents/" rel="tag">documents</a> <a href="https://www.deepdotweb.com/tag/ms/" rel="tag">ms</a> <a href="https://www.deepdotweb.com/tag/word/" rel="tag">word</a></span> <span style="display:none" class="updated">2016-12-15</span>
+    <a href="https://www.deepdotweb.com/tag/dangers/" rel="tag">dangers</a> <a href="https://www.deepdotweb.com/tag/doc/" rel="tag">doc</a> <a href="https://www.deepdotweb.com/tag/documents/" rel="tag">documents</a> <a href="https://www.deepdotweb.com/tag/ms/" rel="tag">ms</a> <a href="https://www.deepdotweb.com/tag/word/" rel="tag">word</a></span> <span style="display:none" class="updated">2016-12-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
     </div>
 </article>

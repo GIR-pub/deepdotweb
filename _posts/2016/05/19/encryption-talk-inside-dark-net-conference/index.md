@@ -18,7 +18,7 @@ Encryption Talk at &#8216;Inside The Dark Net&#8217; Conference
     <p>Urbelis is the head of Black Chambers; which is an information security firm that protects legal privilege.</p>
     <p>“<a href="http://www.scmagazine.com/will-the-panama-papers-change-legal-firms-cyber-practices/article/487488/%20/">Many law firms have lost confidence of clients to protect their data. Law firms have been for a long time the soft underbelly of their clients</a>,” he said.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/conference/" rel="tag">conference</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/talk/" rel="tag">talk</a></span> <span style="display:none" class="updated">2016-05-19</span>
+    <a href="https://www.deepdotweb.com/tag/conference/" rel="tag">conference</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/talk/" rel="tag">talk</a></span> <span style="display:none" class="updated">2016-05-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

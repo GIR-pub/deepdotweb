@@ -35,7 +35,7 @@ Catastrophic Corruption In The Baltimore Silk Road Taskforce (1)
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/srcorruption/" rel="tag">SRCorruption</a></span>				<span style="display:none" class="updated">2015-04-09</span>
+    <a href="https://www.deepdotweb.com/tag/srcorruption/" rel="tag">SRCorruption</a></span>				<span style="display:none" class="updated">2015-04-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
     
     

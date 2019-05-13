@@ -38,7 +38,7 @@ Early Fraud Detection System Unveiled By MasterCard
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/detection/" rel="tag">detection</a> <a href="https://www.deepdotweb.com/tag/early/" rel="tag">early</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/mastercard/" rel="tag">mastercard</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/unveiled/" rel="tag">unveiled</a></span>				<span style="display:none" class="updated">2017-10-11<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/detection/" rel="tag">detection</a> <a href="https://www.deepdotweb.com/tag/early/" rel="tag">early</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/mastercard/" rel="tag">mastercard</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/unveiled/" rel="tag">unveiled</a></span>				<span style="display:none" class="updated">2017-10-11<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
     
     
 </div><!-- .post-inner -->

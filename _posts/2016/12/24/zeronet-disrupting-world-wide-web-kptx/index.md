@@ -31,7 +31,7 @@ How ZeroNet is disrupting the World Wide Web
     <p>While this may be an opportunity for content marketers and other internet users, it may also pose as a threat as content that may not appeal to the public will be released with no censorship.</p>
     <p>But the issue of privacy right among internet users is a something any one will want to get, ZeroNet has that to offer regardless of the perceived flaws it may have.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/disrupting/" rel="tag">disrupting</a> <a href="https://www.deepdotweb.com/tag/kptx/" rel="tag">kptx</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/wide/" rel="tag">wide</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a> <a href="https://www.deepdotweb.com/tag/zeronet/" rel="tag">zeronet</a></span> <span style="display:none" class="updated">2016-12-24</span>
+    <a href="https://www.deepdotweb.com/tag/disrupting/" rel="tag">disrupting</a> <a href="https://www.deepdotweb.com/tag/kptx/" rel="tag">kptx</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/wide/" rel="tag">wide</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a> <a href="https://www.deepdotweb.com/tag/zeronet/" rel="tag">zeronet</a></span> <span style="display:none" class="updated">2016-12-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

@@ -27,7 +27,7 @@ One Auction Bidder Claimed The 30,000 Silk Road Bitcoins
     <p>The identity of the winning bidder remains unknown for now.</p>
     <p>Source: <a href="http://www.coindesk.com/us-marshals-one-auction-bidder-claimed-all-30000-silk-road-bitcoins/" target="_blank">http://www.coindesk.com/us-marshals-one-auction-bidder-claimed-all-30000-silk-road-bitcoins/</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/30000/" rel="tag">30000</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/bidder/" rel="tag">bidder</a> <a href="https://www.deepdotweb.com/tag/claimed/" rel="tag">claimed</a> </span> <span style="display:none" class="updated">2014-07-02</span>
+    <a href="https://www.deepdotweb.com/tag/30000/" rel="tag">30000</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/bidder/" rel="tag">bidder</a> <a href="https://www.deepdotweb.com/tag/claimed/" rel="tag">claimed</a> </span> <span style="display:none" class="updated">2014-07-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

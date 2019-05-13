@@ -31,7 +31,7 @@ Google is Preparing Chrome for future wave of quantum attacks
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/chrome/" rel="tag">chrome</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/google/" rel="tag">google</a> <a href="https://www.deepdotweb.com/tag/preparing/" rel="tag">preparing</a> <a href="https://www.deepdotweb.com/tag/quantum/" rel="tag">quantum</a> <a href="https://www.deepdotweb.com/tag/wave/" rel="tag">wave</a></span>				<span style="display:none" class="updated">2016-07-12</span>
+    <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/chrome/" rel="tag">chrome</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/google/" rel="tag">google</a> <a href="https://www.deepdotweb.com/tag/preparing/" rel="tag">preparing</a> <a href="https://www.deepdotweb.com/tag/quantum/" rel="tag">quantum</a> <a href="https://www.deepdotweb.com/tag/wave/" rel="tag">wave</a></span>				<span style="display:none" class="updated">2016-07-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

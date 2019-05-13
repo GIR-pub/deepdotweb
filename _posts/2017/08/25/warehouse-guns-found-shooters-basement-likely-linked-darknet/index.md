@@ -32,7 +32,7 @@ A “Warehouse” of Guns Found in Shooter’s Basement, Likely Linked to the Da
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/basement/" rel="tag">basement</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/guns/" rel="tag">guns</a> <a href="https://www.deepdotweb.com/tag/linked/" rel="tag">linked</a> <a href="https://www.deepdotweb.com/tag/shooters/" rel="tag">shooters</a> <a href="https://www.deepdotweb.com/tag/warehouse/" rel="tag">warehouse</a></span>				<span style="display:none" class="updated">2017-08-25</span>
+    <a href="https://www.deepdotweb.com/tag/basement/" rel="tag">basement</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/guns/" rel="tag">guns</a> <a href="https://www.deepdotweb.com/tag/linked/" rel="tag">linked</a> <a href="https://www.deepdotweb.com/tag/shooters/" rel="tag">shooters</a> <a href="https://www.deepdotweb.com/tag/warehouse/" rel="tag">warehouse</a></span>				<span style="display:none" class="updated">2017-08-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

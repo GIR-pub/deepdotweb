@@ -44,7 +44,7 @@ Is your VPN Legit or Shit?
     <p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Click for DeepDotWeb&#8217;s Chart of Best VPN services&lt;&lt;&lt;</a><br />
     <a href="/imgs/2014/06/bestvpn.png"><img class="aligncenter wp-image-6064 size-full" src="/imgs/2014/06/bestvpn.png" alt="Best Vpn Providers" width="926" height="716" srcset="/imgs/2014/06/bestvpn.png 926w, /imgs/2014/06/bestvpn-300x232.png 300w" sizes="(max-width: 926px) 100vw, 926px" /></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/legit/" rel="tag">legit</a> <a href="https://www.deepdotweb.com/tag/shit/" rel="tag">shit</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2014-07-08</span>
+    <a href="https://www.deepdotweb.com/tag/legit/" rel="tag">legit</a> <a href="https://www.deepdotweb.com/tag/shit/" rel="tag">shit</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2014-07-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/iburnez/" title="Posts by iBurnEZ" rel="author">iBurnEZ</a></strong></div>
     </div>
 </article>

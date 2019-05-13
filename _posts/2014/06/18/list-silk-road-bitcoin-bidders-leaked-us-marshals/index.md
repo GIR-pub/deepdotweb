@@ -39,7 +39,7 @@ List of Silk Road Bitcoin Bidders Leaked by US Marshals
     <p>Notably, the email address which sent the original message to potential buyers was the same the USMS required bidders to use when sending information to be considered.</p></blockquote>
     <p>Source: <a href="http://www.coindesk.com/list-possible-silk-road-bitcoin-bidders-allegedly-leaked-us-marshals/" target="_blank">http://www.coindesk.com/list-possible-silk-road-bitcoin-bidders-allegedly-leaked-us-marshals/</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bidders/" rel="tag">bidders</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/leaked/" rel="tag">leaked</a> <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/marshals/" rel="tag">marshals</a> </span> <span style="display:none" class="updated">2014-06-18</span>
+    <a href="https://www.deepdotweb.com/tag/bidders/" rel="tag">bidders</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/leaked/" rel="tag">leaked</a> <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/marshals/" rel="tag">marshals</a> </span> <span style="display:none" class="updated">2014-06-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

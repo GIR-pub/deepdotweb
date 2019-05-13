@@ -104,7 +104,7 @@ Pandora Marketplace Hacked: Losing $250,000 in BTC
     <p>We don&#8217;t know exactly what happened there but the above post seems detailed enough to explain the general repayment plan, we only hope that everyone will have their money back in no time.</p>
     <p>We will keep following and updating as we will have more information.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/50/" rel="tag">50</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/losing/" rel="tag">losing</a> <a href="https://www.deepdotweb.com/tag/pandora/" rel="tag">pandora</a></span> <span style="display:none" class="updated">2014-03-20</span>
+    <a href="https://www.deepdotweb.com/tag/50/" rel="tag">50</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/losing/" rel="tag">losing</a> <a href="https://www.deepdotweb.com/tag/pandora/" rel="tag">pandora</a></span> <span style="display:none" class="updated">2014-03-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

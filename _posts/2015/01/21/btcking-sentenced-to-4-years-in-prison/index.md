@@ -24,7 +24,7 @@ BTCking: Sentenced To 4 Years in Prison
     <p>The Criminal complaint against Robert M. Faiella:<br />
     <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/253323602/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_48299" frameborder="0"></iframe></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/btcking/" rel="tag">btcking</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2015-01-21</span>
+    <a href="https://www.deepdotweb.com/tag/btcking/" rel="tag">btcking</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2015-01-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

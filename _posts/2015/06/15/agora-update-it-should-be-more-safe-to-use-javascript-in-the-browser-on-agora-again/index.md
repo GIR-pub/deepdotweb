@@ -15,7 +15,7 @@ Agora Update: &#8220;it should be more safe to use JavaScript in the browser on 
     <p><a href="/imgs/2015/06/upup.png"><img class="aligncenter size-full wp-image-10811" src="/imgs/2015/06/upup.png" alt="upup" width="1492" height="86" srcset="/imgs/2015/06/upup.png 1492w, /imgs/2015/06/upup-300x17.png 300w, /imgs/2015/06/upup-1024x59.png 1024w" sizes="(max-width: 1492px) 100vw, 1492px" /></a></p>
     <p>From reading this update its not fully clear if the CSRF issue was 100% fixed or not, But it doesn&#8217;t matter so much because <strong>no one should enable scripts anyway</strong>,  not on Aogra on anywhere else using Tor, thats all.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/javascript/" rel="tag">javascript</a> <a href="https://www.deepdotweb.com/tag/safe/" rel="tag">safe</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-06-15</span>
+    <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/javascript/" rel="tag">javascript</a> <a href="https://www.deepdotweb.com/tag/safe/" rel="tag">safe</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-06-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

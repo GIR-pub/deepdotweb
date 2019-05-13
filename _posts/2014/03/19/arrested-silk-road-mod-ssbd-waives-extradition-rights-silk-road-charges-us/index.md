@@ -32,7 +32,7 @@ Arrested Silk Road Mod SSBD waives extradition rights over Silk Road charges in 
     <p><em><strong>We Hope to see him free as soon as possible, it seems pretty unlikely considering the US laws in cases such as this one, we can only hope that the reason he waived his rights was that he know that the most part of the charges will be dropped.<br />
     </strong></em></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/mod/" rel="tag">mod</a> <a href="https://www.deepdotweb.com/tag/rights/" rel="tag">rights</a>  <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a> <a href="https://www.deepdotweb.com/tag/waives/" rel="tag">waives</a></span> <span style="display:none" class="updated">2014-03-19</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/mod/" rel="tag">mod</a> <a href="https://www.deepdotweb.com/tag/rights/" rel="tag">rights</a>  <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a> <a href="https://www.deepdotweb.com/tag/waives/" rel="tag">waives</a></span> <span style="display:none" class="updated">2014-03-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

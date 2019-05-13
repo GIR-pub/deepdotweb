@@ -18,7 +18,7 @@ DarkWallet Returns
     <p>Don&#8217;t get too pessimistic about DarkWallet though, it&#8217;s exciting to see it being worked on again, plus there&#8217;s always other ways to <a href="https://en.bitcoin.it/wiki/Anonymity">anonymize bitcoins</a>.</p>
     <p>There isn&#8217;t much information about what&#8217;s next for DarkWallet but at least we know it&#8217;s still alive.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darkwallet/" rel="tag">darkwallet</a> <a href="https://www.deepdotweb.com/tag/returns/" rel="tag">returns</a></span> <span style="display:none" class="updated">2016-02-05</span>
+    <a href="https://www.deepdotweb.com/tag/darkwallet/" rel="tag">darkwallet</a> <a href="https://www.deepdotweb.com/tag/returns/" rel="tag">returns</a></span> <span style="display:none" class="updated">2016-02-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

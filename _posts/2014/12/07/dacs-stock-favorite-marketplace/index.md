@@ -46,7 +46,7 @@ DACs: Own Stock In Your Favorite Marketplace
     <p>Anonymity and security don&#8217;t seem to be keen interests of the developers of the various DACs. That is understandable when you are trying to get an idea off the ground but that provides challenges for deep web adoption. Further removing human actors and trust is must in order for DACs to be able to be used on the deep web.</p>
     <p>While these are the early days of this technology, it is moving along at a great speed and has massive potential to transform the deep web.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dacs/" rel="tag">dacs</a> <a href="https://www.deepdotweb.com/tag/favorite/" rel="tag">favorite</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/stock/" rel="tag">stock</a></span> <span style="display:none" class="updated">2014-12-07</span>
+    <a href="https://www.deepdotweb.com/tag/dacs/" rel="tag">dacs</a> <a href="https://www.deepdotweb.com/tag/favorite/" rel="tag">favorite</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/stock/" rel="tag">stock</a></span> <span style="display:none" class="updated">2014-12-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     </div>
 </article>

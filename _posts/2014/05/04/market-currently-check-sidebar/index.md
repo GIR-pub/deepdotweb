@@ -19,7 +19,7 @@ Market Is Currently Up Or Down? Check Our Sidebar!
     <p>Wellת now there is no need to look any further. thanks to the Dnstat creator, we have implemented a widget on the sidebar &#8211; showing at any given time the markets Uptime status and updating every 15 minutes. so no need to refresh the market every 2 minutes to know if its back, here it is:</p>
     <p><a href="/imgs/2014/05/uptime.png"><img class="aligncenter  wp-image-5277" src="/imgs/2014/05/uptime.png" alt="uptime" width="746" height="480" srcset="/imgs/2014/05/uptime.png 1342w, /imgs/2014/05/uptime-300x193.png 300w, /imgs/2014/05/uptime-1024x659.png 1024w" sizes="(max-width: 746px) 100vw, 746px"/></a>Hopefully it will be implemented soon into the marketplce list so it will be clear at any given time which market is up and which is down. we will be adding / removing markets from this list as they will be added / removed from Dnstat.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/check/" rel="tag">check</a> <a href="https://www.deepdotweb.com/tag/sidebar-2/" rel="tag">sidebar</a></span> <span style="display:none" class="updated">2014-05-04</span>
+    <a href="https://www.deepdotweb.com/tag/check/" rel="tag">check</a> <a href="https://www.deepdotweb.com/tag/sidebar-2/" rel="tag">sidebar</a></span> <span style="display:none" class="updated">2014-05-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

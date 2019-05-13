@@ -30,7 +30,7 @@ Silk Road Vendor Caligirl Pleaded Guilty
     <p>This case was investigated by the Drug Enforcement Administration’s Orlando District Office, with assistance from the United States Postal Inspection Service in Dallas, Texas. It is being prosecuted by Assistant United States Attorney David Haas.</p></blockquote>
     <p>We will be updating as more info becomes available.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/caligirl/" rel="tag">caligirl</a>  <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-09-09</span>
+    <a href="https://www.deepdotweb.com/tag/caligirl/" rel="tag">caligirl</a>  <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-09-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

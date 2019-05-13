@@ -43,7 +43,7 @@ What We&#8217;ve Learnt From the Benthall Criminal Complaint?
     <p>The criminal complaint for Blake Benthall:<br />
     <iframe width="100%" height="600" id="doc_1203" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/245744857/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-8m3pQkf8Y2cIgutYFADj&amp;show_recommendations=true" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="0.7727272727272727"></iframe></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/benthall/" rel="tag">benthall</a> <a href="https://www.deepdotweb.com/tag/complaint/" rel="tag">complaint</a> <a href="https://www.deepdotweb.com/tag/criminal/" rel="tag">criminal</a> <a href="https://www.deepdotweb.com/tag/learnt/" rel="tag">learnt</a></span> <span style="display:none" class="updated">2015-01-02</span>
+    <a href="https://www.deepdotweb.com/tag/benthall/" rel="tag">benthall</a> <a href="https://www.deepdotweb.com/tag/complaint/" rel="tag">complaint</a> <a href="https://www.deepdotweb.com/tag/criminal/" rel="tag">criminal</a> <a href="https://www.deepdotweb.com/tag/learnt/" rel="tag">learnt</a></span> <span style="display:none" class="updated">2015-01-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
     </div>
 </article>

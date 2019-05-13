@@ -23,7 +23,7 @@ Manchester: Teenager Admits Trying To Buy Deadly Toxin From Dark Net
     <p>On 16 February 2015, warrants were executed at two addresses in the Mossley area of Greater Manchester and the 16-year-old boy was arrested.</p>
     <p>A 16-year-old girl was also arrested as part of the investigation but later released without charge.</p></blockquote>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/deadly/" rel="tag">deadly</a> <a href="https://www.deepdotweb.com/tag/manchester/" rel="tag">manchester</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a> <a href="https://www.deepdotweb.com/tag/toxin/" rel="tag">toxin</a></span> <span style="display:none" class="updated">2015-04-08</span>
+    <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/deadly/" rel="tag">deadly</a> <a href="https://www.deepdotweb.com/tag/manchester/" rel="tag">manchester</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a> <a href="https://www.deepdotweb.com/tag/toxin/" rel="tag">toxin</a></span> <span style="display:none" class="updated">2015-04-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -30,7 +30,7 @@ Federal Charge Against Teenager Who Tried To Buy Grenade From The Dark Web
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/charge/" rel="tag">charge</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/grenade/" rel="tag">grenade</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				<span style="display:none" class="updated">2017-05-06</span>
+    <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/charge/" rel="tag">charge</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/grenade/" rel="tag">grenade</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				<span style="display:none" class="updated">2017-05-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     

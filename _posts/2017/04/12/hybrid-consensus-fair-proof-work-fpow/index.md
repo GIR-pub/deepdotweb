@@ -31,7 +31,7 @@ Hybrid Consensus and Fair Proof-of-Work (fPoW)
     <li><strong>Chain quality &amp; tolerated corruption: </strong>The new protocol&#8217;s demand for chain quality along with tolerated corruption goes along the same line of the originally described hybrid consensus. Approximately, 2/3 of all nodes have to be honest to achieve a 2/3 chain quality in order to perform PBFT in a safe manner.</li>
     </ul>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/consensus/" rel="tag">consensus</a> <a href="https://www.deepdotweb.com/tag/fair/" rel="tag">fair</a> <a href="https://www.deepdotweb.com/tag/fpow/" rel="tag">fpow</a> <a href="https://www.deepdotweb.com/tag/hybrid/" rel="tag">hybrid</a> <a href="https://www.deepdotweb.com/tag/proofofwork/" rel="tag">proofofwork</a></span> <span style="display:none" class="updated">2017-04-12</span>
+    <a href="https://www.deepdotweb.com/tag/consensus/" rel="tag">consensus</a> <a href="https://www.deepdotweb.com/tag/fair/" rel="tag">fair</a> <a href="https://www.deepdotweb.com/tag/fpow/" rel="tag">fpow</a> <a href="https://www.deepdotweb.com/tag/hybrid/" rel="tag">hybrid</a> <a href="https://www.deepdotweb.com/tag/proofofwork/" rel="tag">proofofwork</a></span> <span style="display:none" class="updated">2017-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

@@ -66,7 +66,7 @@ Grams: Becoming Hub For DarkNet Info &#038; Ads (Part 1)
     <strong>Grams Url: <a href="http://grams7enufi7jmdl.onion/" target="_blank"><span style="color: #ff0000;">http://grams7enufi7jmdl.onion/</span></a> </strong>
     </div></div>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/infodesk/" rel="tag">infodesk</a></span> <span style="display:none" class="updated">2014-05-31</span>
+    <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/infodesk/" rel="tag">infodesk</a></span> <span style="display:none" class="updated">2014-05-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

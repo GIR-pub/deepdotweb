@@ -47,7 +47,7 @@ Decentralized Bitcoin Exchange Bitsquare Launches Wednesday
     <p>Also, don&#8217;t forget to check out <a href="http://anti.cash">anti.cash</a>:</p>
     <p><iframe width="618" height="348" src="https://www.youtube.com/embed/1eU2INYe4gk?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/bitsquare/" rel="tag">bitsquare</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/exchange/" rel="tag">exchange</a> <a href="https://www.deepdotweb.com/tag/launches/" rel="tag">launches</a> <a href="https://www.deepdotweb.com/tag/wednesday/" rel="tag">wednesday</a></span> <span style="display:none" class="updated">2016-04-25</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/bitsquare/" rel="tag">bitsquare</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/exchange/" rel="tag">exchange</a> <a href="https://www.deepdotweb.com/tag/launches/" rel="tag">launches</a> <a href="https://www.deepdotweb.com/tag/wednesday/" rel="tag">wednesday</a></span> <span style="display:none" class="updated">2016-04-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

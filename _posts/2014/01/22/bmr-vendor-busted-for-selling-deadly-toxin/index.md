@@ -70,7 +70,7 @@ BMR Vendor Busted For Selling Deadly Toxin
     <div class="wp-socializer-clearer"></div></div>
     
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a>  <a href="https://www.deepdotweb.com/tag/deadly/" rel="tag">deadly</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/toxin/" rel="tag">toxin</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-01-22</span>
+    <a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a>  <a href="https://www.deepdotweb.com/tag/deadly/" rel="tag">deadly</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/toxin/" rel="tag">toxin</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-01-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

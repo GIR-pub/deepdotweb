@@ -231,4 +231,4 @@ Proxy.sh VPN Review
 <p>Overall, we highly recommend Proxy.sh for those who prioritize their privacy and security while using the clear and dark net. We also recommended it to those who engage in heavy P2P activities.</p>
 <p><a href="https://proxy.sh/panel/aff.php?aff=995" target="_blank"><strong>&gt;&gt; Click HERE to Visit the Proxy.sh VPN Official Site</strong></a></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/proxysh/" rel="tag">proxysh</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2015-11-20
+<a href="https://www.deepdotweb.com/tag/proxysh/" rel="tag">proxysh</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2015-11-20

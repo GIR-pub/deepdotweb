@@ -34,7 +34,7 @@ Outlaw Market Prepares Scam-Deterring Revamp
     <p>As this article reached completion, the admin emailed with an update on marketplace development that focused on user safety and vendor trustworthiness via a new bond system. All vendors now have a minimum bond of 0.005 Bitcoin. 5% of the last 30 days is also allocated as a bond system. As of this moment, there is no cap on the system but he explained, in time, a cap would likely be implemented.</p>
     <p>The admin closed with “We hope to motivate new vendors &#8211; while not losing the anti-scammer-effect of bonds.”</p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a> <a href="https://www.deepdotweb.com/tag/prepares/" rel="tag">prepares</a> <a href="https://www.deepdotweb.com/tag/revamp/" rel="tag">revamp</a> <a href="https://www.deepdotweb.com/tag/scamdeterring/" rel="tag">scamdeterring</a></span> <span style="display:none" class="updated">2017-04-26</span>
+     <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a> <a href="https://www.deepdotweb.com/tag/prepares/" rel="tag">prepares</a> <a href="https://www.deepdotweb.com/tag/revamp/" rel="tag">revamp</a> <a href="https://www.deepdotweb.com/tag/scamdeterring/" rel="tag">scamdeterring</a></span> <span style="display:none" class="updated">2017-04-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

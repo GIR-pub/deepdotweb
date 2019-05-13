@@ -82,7 +82,7 @@ Interview with Oasis Market Admin
     <p>For all the people who don&#8217;t believe in us, we highly suggest you to just visit Oasis and check out what it feels like in first person. Vendors can sell at lower prices because of the no fees rule, so even just that should be enough to be worth a visit, but as we said, that&#8217;s not where we stop, we are going to offer more and more services in the future.</p>
     <p><strong>Thank you for the interview, we hope to see your market growing safely for long time.</strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/oasis/" rel="tag">oasis</a></span> <span style="display:none" class="updated">2016-02-12</span>
+    <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/oasis/" rel="tag">oasis</a></span> <span style="display:none" class="updated">2016-02-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -29,7 +29,7 @@ What’s the Future of Ethereum?
     <p><strong>Bottom Line</strong></p>
     <p>Sure, cryptocurrency is doing well this year, but the next few years could see a return to economic stability which may lower the demand for the blockchain. Investors will return to traditional investment mediums, and cryptocurrency values will deflate. For the moment, of course, Ethereum is good to go. Analysts predict that ethereum could either snag the $250-plus bracket which would make it more expensive, or dip to $200 levels which opens a buying opportunity for you. Either way, you may want to hold onto that ether as it barrels its way upwards.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a></span> <span style="display:none" class="updated">2017-06-22</span>
+    <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a></span> <span style="display:none" class="updated">2017-06-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/leahzitter/" title="Posts by Leah Zitter" rel="author">Leah Zitter</a></strong></div>
     </div>
 </article>

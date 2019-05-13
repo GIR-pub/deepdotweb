@@ -74,7 +74,7 @@ Libertas: US seeks extradition of Wicklow man over ‘Silk Road’
     <div class="wp-socializer-clearer"></div></div>
     
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/libertas/" rel="tag">libertas</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a>  <a href="https://www.deepdotweb.com/tag/seeks/" rel="tag">seeks</a> <a href="https://www.deepdotweb.com/tag/wicklow/" rel="tag">wicklow</a></span> <span style="display:none" class="updated">2015-07-15</span>
+    <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/libertas/" rel="tag">libertas</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a>  <a href="https://www.deepdotweb.com/tag/seeks/" rel="tag">seeks</a> <a href="https://www.deepdotweb.com/tag/wicklow/" rel="tag">wicklow</a></span> <span style="display:none" class="updated">2015-07-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

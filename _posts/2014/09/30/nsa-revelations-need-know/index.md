@@ -29,7 +29,7 @@ NSA Revelations You Need To Know About
     <p>The US&#8217;s terror watchlist has been surrounded in mystery but the document that contains the guidelines that various US agencies follow is declassified but access has remained difficult because of US officials attempts to keep it from public view. The online publication, The Intercept, published the document in whole on their website. The document revealed what can get you on the list.</p>
     <p>Finding specific actions or marker that will get you on the list is very hard task but the document still reveals the very important insight into what can get you on the list. The definitions are very vague and even expected crimes can get you on the list. The number thing that can be taken way from the document is that anyone they want to be, can be on the list. This makes the list very reminiscence of the list that the Soviet Union had political dissents.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/revelations/" rel="tag">revelations</a></span> <span style="display:none" class="updated">2014-09-30</span>
+    <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/revelations/" rel="tag">revelations</a></span> <span style="display:none" class="updated">2014-09-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     </div>
 </article>

@@ -24,7 +24,7 @@ Homeland Security May Study Bitcoin’s Link to Terrorism
     <p>Coleman Lamb, a spokesperson for Rice&#8217;s office, reassuringly wrote that &#8220;[t]he evidence suggests that terrorists&#8217; use of virtual currencies has so far been limited to a few instances and not widespread.&#8221; He continued, “but those cases are all very recent, indicating that terrorists—like most people—are becoming more aware of and familiar with virtual currencies.&#8221;</p>
     <p>The results of this bill posses the capacity to cause a widespread panic—especially now that <a href="https://www.deepdotweb.com/tag/bitcoin/">Bitcoin sits at $2,000</a>.</p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/link/" rel="tag">link</a>  <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/terrorism/" rel="tag">terrorism</a></span> <span style="display:none" class="updated">2017-06-05</span>
+     <a href="https://www.deepdotweb.com/tag/link/" rel="tag">link</a>  <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/terrorism/" rel="tag">terrorism</a></span> <span style="display:none" class="updated">2017-06-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

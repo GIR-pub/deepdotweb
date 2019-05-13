@@ -37,7 +37,7 @@ Decentralized Instantaneous Poker Protocol Using Ethereum/Solidity
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/ethereumsolidity/" rel="tag">ethereumsolidity</a> <a href="https://www.deepdotweb.com/tag/instantaneous/" rel="tag">instantaneous</a> <a href="https://www.deepdotweb.com/tag/poker/" rel="tag">poker</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a></span>				<span style="display:none" class="updated">2017-02-28</span>
+    <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/ethereumsolidity/" rel="tag">ethereumsolidity</a> <a href="https://www.deepdotweb.com/tag/instantaneous/" rel="tag">instantaneous</a> <a href="https://www.deepdotweb.com/tag/poker/" rel="tag">poker</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a></span>				<span style="display:none" class="updated">2017-02-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     
     

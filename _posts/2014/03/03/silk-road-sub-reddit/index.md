@@ -41,7 +41,7 @@ Silk Road Sub Reddit Is No More
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/reddit/" rel="tag">reddit</a> </span>				<span style="display:none" class="updated">2014-03-03</span>
+    <a href="https://www.deepdotweb.com/tag/reddit/" rel="tag">reddit</a> </span>				<span style="display:none" class="updated">2014-03-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     

@@ -151,7 +151,7 @@ title: "A Dread Pirate Christmas
 <p>And we hope you do too.</p>
 <p>Reporting from the edge, this is Raoul Duke.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/christmas/" rel="tag">christmas</a> <a href="https://www.deepdotweb.com/tag/dread/" rel="tag">dread</a> <a href="https://www.deepdotweb.com/tag/pirate/" rel="tag">pirate</a>
+<a href="https://www.deepdotweb.com/tag/christmas/" rel="tag">christmas</a> <a href="https://www.deepdotweb.com/tag/dread/" rel="tag">dread</a> <a href="https://www.deepdotweb.com/tag/pirate/" rel="tag">pirate</a>
 
 Updated: 2013-12-09<a href="https://www.deepdotweb.com/author/roul/" title="Posts by Raoul Duke" rel="author">Raoul Duke</a></strong></div>
 </div>

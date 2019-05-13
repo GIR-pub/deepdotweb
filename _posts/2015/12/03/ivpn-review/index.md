@@ -129,4 +129,4 @@ IVPN Review
 <p>IVPN is among the few VPN solutions that are true to their word in regards to privacy. They do respect their affirmation, and no logs that could lead to personal identification are kept. Also, the payment methods are created to help maintain users’ anonymity and safety. IVPN is indeed a solution that can be used to surf the Deep web anonymously.</p>
 <p><a href="https://www.ivpn.net/aff.php?aff=1412" target="_blank"><strong>&gt;&gt; Click HERE to Visit the IVPN Official Site</strong></a></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/ivpn/" rel="tag">ivpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2015-12-03
+<a href="https://www.deepdotweb.com/tag/ivpn/" rel="tag">ivpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2015-12-03

@@ -30,7 +30,7 @@ Silk Road And Beyond
     <p>As a community, if we are going to survive, we need to adopt a LONG TERM vision. Getting the most out of this thing before it gets taken down is NOT going to bring us success. In that world, Silk Road will be a shooting star that burns out quickly and dies as little more than a dream, swallowed by the nightmare reality of an ever-expanding, all-powerful global oligarchy. Planning ahead and doing everything we can NOW to prepare for the war to come is the only way we are going to have a shot at this. We are still mostly ignored by our true enemies, but this incubation WILL NOT last forever.</p>
     <p>I don’t like writing this kind of stuff publicly because it taunts our enemies and might spur them into action, but I risk it because the context for what we are doing is too often lost in the day to day stuff that happens here and it needs to be put in from time to time. Silk Road NEEDS our support. It needs everything we have. The return on what we put into it will be immeasurable if we can get through the months and years ahead and gain a real foothold on the global stage. HELP ME GET US THERE!!! Do it for me, do it for yourself, do it for your families and friends, and do it for mankind.” &#8211; Dead Pirate Roberts</p></blockquote>
     </div>
-    <span style="display:none"></span> <span style="display:none" class="updated">2014-10-17</span>
+    </span> <span style="display:none" class="updated">2014-10-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

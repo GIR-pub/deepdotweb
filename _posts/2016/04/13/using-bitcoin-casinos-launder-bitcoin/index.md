@@ -28,7 +28,7 @@ Using Bitcoin Casinos To Launder Bitcoin
     <p>With all of this said, it&#8217;s clear that laundering bitcoin works and using bitcoin casinos to do that is only one of the many ways to launder. If you do it correctly, there isn&#8217;t much anyone do about it. It will always be a game of cat and mouse.</p>
     <p>“Which bitcoin casino should I use?”, one may ask. Well, you can head on over to <a href="https://bitcoincasinos.reviews/">Bitcoin Casino Reviews</a> and find out which one suits you best.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/casinos/" rel="tag">casinos</a> <a href="https://www.deepdotweb.com/tag/launder/" rel="tag">launder</a></span> <span style="display:none" class="updated">2016-04-13</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/casinos/" rel="tag">casinos</a> <a href="https://www.deepdotweb.com/tag/launder/" rel="tag">launder</a></span> <span style="display:none" class="updated">2016-04-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

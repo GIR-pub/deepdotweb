@@ -20,7 +20,7 @@ Dream Vendor ‘playgroundROX’ Busted in Connecticut
 <p>He pleaded guilty to no heroin charges though. Instead, Ceplenski pleaded guilty to one count of conspiracy possession with intent to distribute fentanyl, methamphetamine, oxycodone, and alprazolam. The Xanax pills were real, of course. He also agreed he would forfeit more than $40,000 that he had earned from selling drugs on the darknet. The same applied to several cell phones, laptops, and other electronic devices.</p>
 <p>The United States Attorney announced that a scheduling hearing had been set for April 4 in front of U.S. District Judge Vanessa L. Bryant. Until then, Ceplenski is free on bail.</p>
 </div>
-<span style="display:none"> <a href="https://www.deepdotweb.com/tag/connecticut/" rel="tag">connecticut</a> <a href="https://www.deepdotweb.com/tag/dream/" rel="tag">dream</a> <a href="https://www.deepdotweb.com/tag/playgroundrox/" rel="tag">playgroundrox</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-01-26<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+ <a href="https://www.deepdotweb.com/tag/connecticut/" rel="tag">connecticut</a> <a href="https://www.deepdotweb.com/tag/dream/" rel="tag">dream</a> <a href="https://www.deepdotweb.com/tag/playgroundrox/" rel="tag">playgroundrox</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-01-26<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

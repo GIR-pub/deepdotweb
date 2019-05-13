@@ -58,7 +58,7 @@ Introduction to Freenet: A Censorship-Resistant Network
     <p>If you’re merely one of the curious types (especially someone who values privacy and anonymity), I’d say take a look. You may like it after all. It’s available at <a href="https://www.freenetproject.org">Freenet Project</a>.</p>
     <p>Besides, where else can you get a name like “am_moraphille”?</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/censorshipresistant/" rel="tag">censorshipresistant</a> <a href="https://www.deepdotweb.com/tag/freenet/" rel="tag">freenet</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a></span> <span style="display:none" class="updated">2016-10-22</span>
+    <a href="https://www.deepdotweb.com/tag/censorshipresistant/" rel="tag">censorshipresistant</a> <a href="https://www.deepdotweb.com/tag/freenet/" rel="tag">freenet</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a></span> <span style="display:none" class="updated">2016-10-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
     </div>
 </article>

@@ -187,7 +187,7 @@ Russian Playgrounds
     <div class="wp-socializer-clearer"></div></div>
     
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/playgrounds/" rel="tag">playgrounds</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a></span> <span style="display:none" class="updated">2014-04-29</span>
+    <a href="https://www.deepdotweb.com/tag/playgrounds/" rel="tag">playgrounds</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a></span> <span style="display:none" class="updated">2014-04-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

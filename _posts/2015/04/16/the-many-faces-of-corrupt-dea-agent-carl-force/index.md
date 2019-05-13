@@ -29,7 +29,7 @@ Corruption: The many faces of corrupt DEA agent Carl Force (2)
     <p>When Force was turned over in late March, he had a passport, $5k in blank money orders, and an unregistered, loaded 9mm in his car, as per the petition to keep him in custody. Oh, and he had developed an exit plan document for escaping the US which listed a specific and feasible route from the U.S., to the Dominican Republic, to Panama, Morocco and ending up in Algeria. Whether that was something he threw together during the investigation or something he had worked up for his own use, who knows. But as a DEA agent with 15 years experience, sourcing a new gun and fleeing the country would most likely not challenge him too much. So its probably best he’s in custody.</p>
     <p>All parts available at the #<a href="http://www.deepdotweb.com/tag/SRCorruption/">SRCorruption</a> Tag</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/srcorruption/" rel="tag">SRCorruption</a></span> <span style="display:none" class="updated">2015-04-16</span>
+    <a href="https://www.deepdotweb.com/tag/srcorruption/" rel="tag">SRCorruption</a></span> <span style="display:none" class="updated">2015-04-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
     </div>
 </article>

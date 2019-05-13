@@ -42,7 +42,7 @@ In-Depth Look Into Sidechains
     <p>As miners provide work for more blockchains, more resources are needed to track and validate them all, this would increase the resources that miners would be using up making it unaffordable for smaller-scale miners.</p>
     <p>It would be possible for miners to delegate validation and transaction selection however choosing to delegate authority enables miners to avoid almost all of the additional resource requirements, or provide work for blockchains that they are still in the process of validating. However such delegation comes at the cost of centralizing validation and transaction selection for the blockchain, even if the work generation itself remains distributed.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/indepth/" rel="tag">indepth</a> <a href="https://www.deepdotweb.com/tag/sidechains/" rel="tag">sidechains</a></span> <span style="display:none" class="updated">2014-11-03</span>
+    <a href="https://www.deepdotweb.com/tag/indepth/" rel="tag">indepth</a> <a href="https://www.deepdotweb.com/tag/sidechains/" rel="tag">sidechains</a></span> <span style="display:none" class="updated">2014-11-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
     </div>
 </article>

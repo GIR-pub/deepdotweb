@@ -54,4 +54,4 @@ How To Buy From Acropolis Market?
 <p>We really like to encourage the use of multisig market and invite all markets to provide us with usage tutorials.</p>
 </div>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/acropolis/" rel="tag">acropolis</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a></span> <span style="display:none" class="updated">2015-12-17
+<a href="https://www.deepdotweb.com/tag/acropolis/" rel="tag">acropolis</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a></span> <span style="display:none" class="updated">2015-12-17

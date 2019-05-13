@@ -19,7 +19,7 @@ Chainaylsis Partners With Europol To Fight Cybercrime
     <p>Even though Chainalyis works with law enforcement, they still believe in privacy. The CRO of Chainalysis, Jonathan Levin said in a statement, “We believe in a future of protecting civil liberties without sacrificing our right to privacy. Enabling regulation through greater transparency, will have much larger consequences beyond just financial transactions.”</p>
     <p>Recently, Chainalysis raised $1.6 million in funding by investors, Point Nine Capital, Trifork, Techstars, Digital Currency Group, FundersClub, and Converge Venture Partners.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/chainaylsis/" rel="tag">chainaylsis</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/partners/" rel="tag">partners</a></span> <span style="display:none" class="updated">2016-02-22</span>
+    <a href="https://www.deepdotweb.com/tag/chainaylsis/" rel="tag">chainaylsis</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/partners/" rel="tag">partners</a></span> <span style="display:none" class="updated">2016-02-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

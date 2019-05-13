@@ -26,7 +26,7 @@ Judge Rejects Every Defense Argument In The Silk Road Trial
     <p><iframe id="doc_25375" class="scribd_iframe_embed" src="//www.scribd.com/embeds/233234104/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     <p><strong>Source</strong>: <a href="http://www.wired.com/2014/07/silkroad-bitcoin-isnt-money/" target="_blank">http://www.wired.com/2014/07/silkroad-bitcoin-isnt-money/</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/argument/" rel="tag">argument</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/rejects/" rel="tag">rejects</a>  <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span> <span style="display:none" class="updated">2014-07-09</span>
+    <a href="https://www.deepdotweb.com/tag/argument/" rel="tag">argument</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/rejects/" rel="tag">rejects</a>  <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span> <span style="display:none" class="updated">2014-07-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

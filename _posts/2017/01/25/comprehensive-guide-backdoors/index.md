@@ -159,7 +159,7 @@ Comprehensive Guide to Backdoors
     <p><strong>Endnote</strong></p>
     <p>Keep in mind that these backdoors&#8217; connection is in plain text and without any authentication. That&#8217;s why there are secure shell (SSH) and reverse secure shell that works the same way, but using encryption and password authentication with it.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/backdoors/" rel="tag">backdoors</a> <a href="https://www.deepdotweb.com/tag/comprehensive/" rel="tag">comprehensive</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a></span> <span style="display:none" class="updated">2017-01-25</span>
+    <a href="https://www.deepdotweb.com/tag/backdoors/" rel="tag">backdoors</a> <a href="https://www.deepdotweb.com/tag/comprehensive/" rel="tag">comprehensive</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a></span> <span style="display:none" class="updated">2017-01-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
     </div>
 </article>

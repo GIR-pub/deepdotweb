@@ -44,7 +44,7 @@ How to earn interest on your Bitcoin &#8211; Magnr Lending
     <p>The APY for Magnr is usually between 1%-3%, which is considerabily lower than what you get while using Poloniex, but it’s also a steady and automated investement.</p>
     <p>On the next part of this tutorial, we are going to cover peer to peer (p2p) lending on Bitbond. Stay tuned!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/earn/" rel="tag">earn</a> <a href="https://www.deepdotweb.com/tag/interest/" rel="tag">interest</a> <a href="https://www.deepdotweb.com/tag/lending/" rel="tag">lending</a> <a href="https://www.deepdotweb.com/tag/magnr/" rel="tag">magnr</a></span> <span style="display:none" class="updated">2016-12-09</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/earn/" rel="tag">earn</a> <a href="https://www.deepdotweb.com/tag/interest/" rel="tag">interest</a> <a href="https://www.deepdotweb.com/tag/lending/" rel="tag">lending</a> <a href="https://www.deepdotweb.com/tag/magnr/" rel="tag">magnr</a></span> <span style="display:none" class="updated">2016-12-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

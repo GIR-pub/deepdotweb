@@ -129,7 +129,7 @@ Today&#8217;s Opioid Culture
     <p>So to sum up the opioid culture of yesterday has hit a turning point. Opioids may now be used without the stigma of addiction when used in the right direction and, while the large Pharmaceutical Companies still dole out opioids like sweets, we are lucky enough to have other people around who care as much as to remove the addiction much simpler than ever before.</p>
     <p>We have hit our Golden Age.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/culture/" rel="tag">culture</a> <a href="https://www.deepdotweb.com/tag/opioid/" rel="tag">opioid</a> <a href="https://www.deepdotweb.com/tag/todays/" rel="tag">todays</a></span> <span style="display:none" class="updated">2015-07-30</span>
+    <a href="https://www.deepdotweb.com/tag/culture/" rel="tag">culture</a> <a href="https://www.deepdotweb.com/tag/opioid/" rel="tag">opioid</a> <a href="https://www.deepdotweb.com/tag/todays/" rel="tag">todays</a></span> <span style="display:none" class="updated">2015-07-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lines_of_thought/" title="Posts by Lines_of_Thought" rel="author">Lines_of_Thought</a></strong></div>
     </div>
 </article>

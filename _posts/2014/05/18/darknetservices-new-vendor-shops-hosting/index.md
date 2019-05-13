@@ -36,7 +36,7 @@ DarkNetServices: New Vendor Shops Hosting
     <p><a href="/imgs/2014/05/terms.png"><img class="aligncenter size-full wp-image-5646" src="/imgs/2014/05/terms.png" alt="terms" width="644" height="132" srcset="/imgs/2014/05/terms.png 644w, /imgs/2014/05/terms-300x61.png 300w" sizes="(max-width: 644px) 100vw, 644px" /></a></p>
     <p>We will be following and updating if needed. For now <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">its listed in our list &#8211; at the &#8220;new marketplaces&#8221; section</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknetservices/" rel="tag">darknetservices</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/shops/" rel="tag">shops</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-18</span>
+    <a href="https://www.deepdotweb.com/tag/darknetservices/" rel="tag">darknetservices</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/shops/" rel="tag">shops</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

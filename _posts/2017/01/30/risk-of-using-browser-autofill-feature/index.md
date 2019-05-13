@@ -33,7 +33,7 @@ Risk of Using Browser Autofill Feature
     <p>Since this method was first published in 2013, Chrome&#8217;s only response was implementing a warning message when credit card information is being submitted over HTTP, I am not expecting a fix anytime soon. Fraudsters can easily obtain a SSL certificate for free so I recommend disabling Autofill feature in your browser.</p>
     <p>If you&#8217;re using Chrome, go to Settings -&gt; Show Advanced Settings (at the bottom) -&gt; uncheck Enable Autofill box to fill out web forms with a single click (under Passwords and Forms section).</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/autofill/" rel="tag">autofill</a> <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/feature/" rel="tag">feature</a> <a href="https://www.deepdotweb.com/tag/risk/" rel="tag">risk</a></span> <span style="display:none" class="updated">2017-01-30</span>
+    <a href="https://www.deepdotweb.com/tag/autofill/" rel="tag">autofill</a> <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/feature/" rel="tag">feature</a> <a href="https://www.deepdotweb.com/tag/risk/" rel="tag">risk</a></span> <span style="display:none" class="updated">2017-01-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
     </div>
 </article>

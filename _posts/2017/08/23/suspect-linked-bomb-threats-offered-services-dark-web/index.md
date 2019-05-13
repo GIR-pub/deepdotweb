@@ -37,7 +37,7 @@ Suspect linked to Bomb Threats offered Services on Dark Web
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bomb/" rel="tag">bomb</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/linked/" rel="tag">linked</a> <a href="https://www.deepdotweb.com/tag/offered/" rel="tag">offered</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a> <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				<span style="display:none" class="updated">2017-08-23</span>
+    <a href="https://www.deepdotweb.com/tag/bomb/" rel="tag">bomb</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/linked/" rel="tag">linked</a> <a href="https://www.deepdotweb.com/tag/offered/" rel="tag">offered</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a> <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				<span style="display:none" class="updated">2017-08-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     

@@ -20,7 +20,7 @@ Judge Denies Mozilla’s Request For FBI To Come Clean
     <p>“We aren’t taking sides in the case, but we are on the side of hundreds of users who could benefit from timely disclosure,” she also wrote.</p>
     <p>This isn’t the only time the FBI has refused to share information. They also wouldn’t give up any information on how they managed to hack the San Bernardino shooters iPhone.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/clean/" rel="tag">clean</a> <a href="https://www.deepdotweb.com/tag/denies/" rel="tag">denies</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/mozillas/" rel="tag">mozillas</a> <a href="https://www.deepdotweb.com/tag/request/" rel="tag">request</a></span> <span style="display:none" class="updated">2016-05-26</span>
+    <a href="https://www.deepdotweb.com/tag/clean/" rel="tag">clean</a> <a href="https://www.deepdotweb.com/tag/denies/" rel="tag">denies</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/mozillas/" rel="tag">mozillas</a> <a href="https://www.deepdotweb.com/tag/request/" rel="tag">request</a></span> <span style="display:none" class="updated">2016-05-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

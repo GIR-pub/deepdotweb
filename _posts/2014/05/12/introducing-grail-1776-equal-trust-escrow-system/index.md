@@ -84,7 +84,7 @@ Introducing The Grail: The 1776 Equal Trust Multisig System
     <p>-Tom</p>
     <p>Proprietor, 1776</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/1776/" rel="tag">1776</a> <a href="https://www.deepdotweb.com/tag/equal/" rel="tag">equal</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/grail/" rel="tag">grail</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/trust/" rel="tag">trust</a></span> <span style="display:none" class="updated">2014-05-12</span>
+    <a href="https://www.deepdotweb.com/tag/1776/" rel="tag">1776</a> <a href="https://www.deepdotweb.com/tag/equal/" rel="tag">equal</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/grail/" rel="tag">grail</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/trust/" rel="tag">trust</a></span> <span style="display:none" class="updated">2014-05-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

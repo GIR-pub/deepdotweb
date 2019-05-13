@@ -22,7 +22,7 @@ Group Busted for Shipping Drugs Inside Lawnmowers
     <p>Jon Hughes, NCA operations manager said:</p>
     <p>“<em>The huge quantities of illegal substances this group imported made them a significant criminal network. After the initial seizure by Thames Valley Police (TVP), NCA investigators were able to provide evidence that Derek Maguire distributed large amounts of class A and B drugs across Manchester, imported by Snazel. By bringing this group and others like it to justice, we ensure the public are protected from the harm that the criminal drugs trade does to communities. Working with law enforcement partners we are determined to disrupt and dismantle organised crime groups intent on smuggling harmful commodities into the country</em>.”</p>
     </div>
-    <span style="display:none">  <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/lawnmowers/" rel="tag">lawnmowers</a> <a href="https://www.deepdotweb.com/tag/shipping/" rel="tag">shipping</a></span> <span style="display:none" class="updated">2017-06-08</span>
+      <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/lawnmowers/" rel="tag">lawnmowers</a> <a href="https://www.deepdotweb.com/tag/shipping/" rel="tag">shipping</a></span> <span style="display:none" class="updated">2017-06-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

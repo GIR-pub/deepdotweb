@@ -15,7 +15,7 @@ Agora Admin Update: We Are Investigating The Problem
     We know the info and the money is safe (multiple backups as per our protocols), but we are going to need some more time to know how long it will take us to take service online again securely. We shall update.</p></blockquote>
     <p><a href="/imgs/2015/04/agd.png"><img class="aligncenter size-full wp-image-10001" src="/imgs/2015/04/agd.png" alt="agd" width="985" height="155" srcset="/imgs/2015/04/agd.png 985w, /imgs/2015/04/agd-300x47.png 300w" sizes="(max-width: 985px) 100vw, 985px"/></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-04-15</span>
+    <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-04-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

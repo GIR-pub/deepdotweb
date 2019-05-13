@@ -29,7 +29,7 @@ Simple Whonix Installation Tutorial
     <p>Now you can use Whonix to browse in a safer and more secure way, all without having to make drastic changes to your computer.</p>
     <p><strong>This article is added in our <a href="http://www.deepdotweb.com/security-tutorials/" target="_blank">security tutorials</a> section.</strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/installation/" rel="tag">installation</a> <a href="https://www.deepdotweb.com/tag/simple/" rel="tag">simple</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/whonix/" rel="tag">whonix</a></span> <span style="display:none" class="updated">2014-06-13</span>
+    <a href="https://www.deepdotweb.com/tag/installation/" rel="tag">installation</a> <a href="https://www.deepdotweb.com/tag/simple/" rel="tag">simple</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/whonix/" rel="tag">whonix</a></span> <span style="display:none" class="updated">2014-06-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chris/" title="Posts by Chris" rel="author">Chris</a></strong></div>
     </div>
 </article>

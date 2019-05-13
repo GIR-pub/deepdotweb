@@ -47,7 +47,7 @@ Bitcoin Price Analyses Feb-10 2016
     <p><img class="aligncenter size-full wp-image-13201" src="/imgs/2016/02/8.jpg" alt="8" width="1012" height="503" srcset="/imgs/2016/02/8.jpg 1012w, /imgs/2016/02/8-300x149.jpg 300w" sizes="(max-width: 1012px) 100vw, 1012px"/><br/>
     I am still watching this medium chart forecast that has been pretty accurate up to now. The effect of halving speculation should take us to a B top in over the coming months. Encircled is where we are at right now.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/analyses/" rel="tag">analyses</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/feb10/" rel="tag">feb10</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-02-10</span>
+    <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/analyses/" rel="tag">analyses</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/feb10/" rel="tag">feb10</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-02-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

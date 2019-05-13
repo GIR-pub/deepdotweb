@@ -44,7 +44,7 @@ Defcon&#8217;s Latest post: We Will Repay The Stolen Funds
     <p><a href="/imgs/2014/02/defcon4.png"><img class="aligncenter  wp-image-4258" alt="defcon4" src="/imgs/2014/02/defcon4.png" width="929" height="510" srcset="/imgs/2014/02/defcon4.png 1387w, /imgs/2014/02/defcon4-300x165.png 300w, /imgs/2014/02/defcon4-1024x563.png 1024w" sizes="(max-width: 929px) 100vw, 929px"/></a></p>
     <p>We are not here to judge, just provide the information and let everyone make their own mind about this situation, keep safe.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/defcons/" rel="tag">defcons</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/latest/" rel="tag">latest</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="https://www.deepdotweb.com/tag/repay/" rel="tag">repay</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-02-16</span>
+    <a href="https://www.deepdotweb.com/tag/defcons/" rel="tag">defcons</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/latest/" rel="tag">latest</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="https://www.deepdotweb.com/tag/repay/" rel="tag">repay</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-02-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

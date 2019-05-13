@@ -41,7 +41,7 @@ Are Cryptocurrency Social Tipbots Dead?
     <p><strong>Conclusion:</strong></p>
     <p>The number of functioning cryptocurrency social tipbots has declined markedly during the past couple of years. Despite the fact that the remaining tipbots are a small fraction of what was present in 2014, this small amount of tipbots is continuously introducing cryptocurrencies and the blockchain technology to more and more people every day.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/dead/" rel="tag">dead</a> <a href="https://www.deepdotweb.com/tag/social/" rel="tag">social</a> <a href="https://www.deepdotweb.com/tag/tipbots/" rel="tag">tipbots</a></span> <span style="display:none" class="updated">2016-12-17</span>
+    <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/dead/" rel="tag">dead</a> <a href="https://www.deepdotweb.com/tag/social/" rel="tag">social</a> <a href="https://www.deepdotweb.com/tag/tipbots/" rel="tag">tipbots</a></span> <span style="display:none" class="updated">2016-12-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

@@ -33,7 +33,7 @@ DoctorX “Ask a Drug Expert Physician” Thread – Now On Evolution!
     <p><strong>Ask a Drug Expert Physician about Drugs and Health, <a href="http://www.deepdotweb.com/marketplace-directory/listing/evolution-marketplace" target="_blank">Evolution market</a> forum</strong>:</p>
     <p><span style="color: #0000ff;"><strong>http://i25c62nvu4cgeqyz.onion/<wbr />viewtopic.php?id=35190</strong></span></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/doctorx/" rel="tag">doctorx</a>  <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/physician/" rel="tag">physician</a> <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> <span style="display:none" class="updated">2014-12-01</span>
+    <a href="https://www.deepdotweb.com/tag/doctorx/" rel="tag">doctorx</a>  <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/physician/" rel="tag">physician</a> <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> <span style="display:none" class="updated">2014-12-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

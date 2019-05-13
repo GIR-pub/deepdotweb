@@ -110,7 +110,7 @@ Tutorial: How To Buy From the Apple Market
     <p>If the item is damaged or didn’t arrive in time, click “<strong>Dispute order</strong>” to get a refund</p>
     <p>Done! You can now shop from the Apple market with ease! If you have any doubts just check out their <a href="http://254iloft5cheh2y2.onion/wiki.php"><strong>wiki.</strong></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/apple/" rel="tag">apple</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2017-02-18</span>
+    <a href="https://www.deepdotweb.com/tag/apple/" rel="tag">apple</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2017-02-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

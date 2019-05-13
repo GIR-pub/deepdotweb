@@ -31,7 +31,7 @@ The Colorful World of Reagents
     <p><a href="/imgs/2016/05/5.png"><img class="aligncenter size-full wp-image-14250" src="/imgs/2016/05/5.png" alt="5" width="1060" height="552" srcset="/imgs/2016/05/5.png 1060w, /imgs/2016/05/5-300x156.png 300w, /imgs/2016/05/5-1024x533.png 1024w" sizes="(max-width: 1060px) 100vw, 1060px" /></a></p>
     <p style="text-align: center;"><em>Color Changes for Mecke, Marquis, and Mandelin Reagents</em></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/colorful/" rel="tag">colorful</a> <a href="https://www.deepdotweb.com/tag/reagents/" rel="tag">reagents</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2016-05-27</span>
+    <a href="https://www.deepdotweb.com/tag/colorful/" rel="tag">colorful</a> <a href="https://www.deepdotweb.com/tag/reagents/" rel="tag">reagents</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2016-05-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kevin/" title="Posts by -Kevin-" rel="author">-Kevin-</a></strong></div>
     </div>
 </article>

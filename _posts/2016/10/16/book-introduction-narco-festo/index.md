@@ -23,7 +23,7 @@ Book Introduction: &#8220;The Narco-Festo&#8221;
     <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/327423228/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-2ydQxSbUlMgyoVdn7ZTK&amp;show_recommendations=false" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_95817" frameborder="0"></iframe></p>
     <p><iframe width="250" height="418" style="max-width: 100%;" type="text/html" frameborder="0" allowfullscreen="allowfullscreen" src="https://read.amazon.com/kp/card?asin=B01LFIWHNI&amp;preview=newtab&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_nM0.xbY4NDHEX&amp;tag=2783"></iframe></p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/narcofesto/" rel="tag">narcofesto</a></span> <span style="display:none" class="updated">2016-10-16</span>
+     <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/narcofesto/" rel="tag">narcofesto</a></span> <span style="display:none" class="updated">2016-10-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

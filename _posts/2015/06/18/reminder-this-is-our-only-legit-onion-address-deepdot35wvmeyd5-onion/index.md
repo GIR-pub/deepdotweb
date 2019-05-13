@@ -31,7 +31,7 @@ Reminder: This is our ONLY legit Onion address: deepdot35wvmeyd5.onion
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/deepdot35wvmeyd5onion/" rel="tag">deepdot35wvmeyd5onion</a> <a href="https://www.deepdotweb.com/tag/legit/" rel="tag">legit</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/reminder/" rel="tag">reminder</a></span>				<span style="display:none" class="updated">2015-06-18</span>
+    <a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/deepdot35wvmeyd5onion/" rel="tag">deepdot35wvmeyd5onion</a> <a href="https://www.deepdotweb.com/tag/legit/" rel="tag">legit</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/reminder/" rel="tag">reminder</a></span>				<span style="display:none" class="updated">2015-06-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     

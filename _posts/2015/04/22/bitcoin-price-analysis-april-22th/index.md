@@ -37,7 +37,7 @@ Bitcoin Price Analysis April 22th
     <p><a href="/imgs/2015/04/image007.png"><img class="aligncenter  wp-image-10039" src="/imgs/2015/04/image007.png" alt="image007" width="908" height="412" srcset="/imgs/2015/04/image007.png 1916w, /imgs/2015/04/image007-300x136.png 300w, /imgs/2015/04/image007-1024x464.png 1024w" sizes="(max-width: 908px) 100vw, 908px"/></a></p>
     <p>Ride the trend while you can, and keep in mind the bear trend. This forecast is invalidated if any significant price-impacting news comes out.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/22th/" rel="tag">22th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/april/" rel="tag">april</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-04-22</span>
+    <a href="https://www.deepdotweb.com/tag/22th/" rel="tag">22th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/april/" rel="tag">april</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-04-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

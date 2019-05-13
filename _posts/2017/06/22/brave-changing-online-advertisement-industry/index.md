@@ -42,7 +42,7 @@ Brave: Changing the Online Advertisement Industry
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/advertisement/" rel="tag">advertisement</a> <a href="https://www.deepdotweb.com/tag/brave/" rel="tag">brave</a> <a href="https://www.deepdotweb.com/tag/changing/" rel="tag">changing</a> <a href="https://www.deepdotweb.com/tag/industry/" rel="tag">industry</a> </span>				<span style="display:none" class="updated">2017-06-22</span>
+    <a href="https://www.deepdotweb.com/tag/advertisement/" rel="tag">advertisement</a> <a href="https://www.deepdotweb.com/tag/brave/" rel="tag">brave</a> <a href="https://www.deepdotweb.com/tag/changing/" rel="tag">changing</a> <a href="https://www.deepdotweb.com/tag/industry/" rel="tag">industry</a> </span>				<span style="display:none" class="updated">2017-06-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     
     

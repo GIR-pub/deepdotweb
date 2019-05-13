@@ -110,7 +110,7 @@ Monero GUI Wallet Guide
     <p><strong>Conclusion</strong></p>
     <p>Now that you know the basics, you can start using XMR in the deep web which, if done right, can be safer than using a transparent crypto like Bitcoin. It will also save you some money in mixer fees.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/gui/" rel="tag">gui</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> <span style="display:none" class="updated">2017-05-01</span>
+    <a href="https://www.deepdotweb.com/tag/gui/" rel="tag">gui</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> <span style="display:none" class="updated">2017-05-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

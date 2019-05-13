@@ -15,7 +15,7 @@ Agora Update: Withdrawals Are Back Online
     <p><a href="/imgs/2015/04/agg2.png"><img class="aligncenter size-full wp-image-10060" src="/imgs/2015/04/agg2.png" alt="agg2" width="1557" height="84" srcset="/imgs/2015/04/agg2.png 1557w, /imgs/2015/04/agg2-300x16.png 300w, /imgs/2015/04/agg2-1024x55.png 1024w" sizes="(max-width: 1557px) 100vw, 1557px"/></a></p>
     <p>We were able to verify that deposit and <span class="market-wide-message">Withdrawals </span>worked fine. but will keep following for further developments.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a>  <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/withdrawals/" rel="tag">withdrawals</a></span> <span style="display:none" class="updated">2015-04-23</span>
+    <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a>  <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/withdrawals/" rel="tag">withdrawals</a></span> <span style="display:none" class="updated">2015-04-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

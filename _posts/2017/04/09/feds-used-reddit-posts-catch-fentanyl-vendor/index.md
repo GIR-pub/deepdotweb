@@ -59,7 +59,7 @@ Feds Used Reddit Posts to Catch a Fentanyl Vendor
     <p>On March 20, 2017, law enforcement arrested Okparaeke for the accusations in the complaint—violation of 21 U.S.C. 846 regarding drug trafficking and every relevant charge in the 841 sub-section. The complaint formally charged the suspect with one count of conspiracy to distribute fentanyl analogs over a specific threshold. The minimum sentence for fentanyl analog crimes at this and is 10 years in prison. The maximum is life.</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a>  <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/posts/" rel="tag">posts</a><a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-04-09</span>
+    <a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a>  <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/posts/" rel="tag">posts</a><a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-04-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

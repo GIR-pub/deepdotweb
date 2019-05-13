@@ -29,7 +29,7 @@ HANGING OFF THE MOLECULE: A BRIEF MEETING WITH ALEXANDER SHULGIN
     <p><em> — Alexander Shulgin, PIHKAL, pages</em> 963–965</p>
     <p>The wild frontier in chemognosis that Shulgin engineered, and documented indepthly in his weighty tomes, PIHKAL and THIKAL continues unabated, with underground chemists everywhere taking up his lead, but the future of it is unwritten—perhaps a +4 utopia? Or a more potent Brave New World Soma, to keeps us all rutting in a consumer soap commercial???</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alexander/" rel="tag">alexander</a> <a href="https://www.deepdotweb.com/tag/hanging/" rel="tag">hanging</a> <a href="https://www.deepdotweb.com/tag/meeting/" rel="tag">meeting</a> <a href="https://www.deepdotweb.com/tag/molecule/" rel="tag">molecule</a> <a href="https://www.deepdotweb.com/tag/shulgin/" rel="tag">shulgin</a></span> <span style="display:none" class="updated">2016-11-16</span>
+    <a href="https://www.deepdotweb.com/tag/alexander/" rel="tag">alexander</a> <a href="https://www.deepdotweb.com/tag/hanging/" rel="tag">hanging</a> <a href="https://www.deepdotweb.com/tag/meeting/" rel="tag">meeting</a> <a href="https://www.deepdotweb.com/tag/molecule/" rel="tag">molecule</a> <a href="https://www.deepdotweb.com/tag/shulgin/" rel="tag">shulgin</a></span> <span style="display:none" class="updated">2016-11-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/bolinmathews/" title="Posts by Bolin Mathews" rel="author">Bolin Mathews</a></strong></div>
     </div>
 </article>

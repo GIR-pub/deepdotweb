@@ -35,7 +35,7 @@ Agora Marketplace Changes Url Due to Heartbleed SSL Bug
     <p>===End Quote===</p>
     <p>Taking Agora, as its the #1 market today is most likely a big inconvenience for many people, so we only hope this will be sorted soon and the site will be back up, we will keep following and updating as needed.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/bug/" rel="tag">bug</a> <a href="https://www.deepdotweb.com/tag/due/" rel="tag">due</a> <a href="https://www.deepdotweb.com/tag/heartbleed/" rel="tag">heartbleed</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/ssl/" rel="tag">ssl</a> <a href="https://www.deepdotweb.com/tag/url/" rel="tag">url</a></span> <span style="display:none" class="updated">2014-04-12</span>
+    <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/bug/" rel="tag">bug</a> <a href="https://www.deepdotweb.com/tag/due/" rel="tag">due</a> <a href="https://www.deepdotweb.com/tag/heartbleed/" rel="tag">heartbleed</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/ssl/" rel="tag">ssl</a> <a href="https://www.deepdotweb.com/tag/url/" rel="tag">url</a></span> <span style="display:none" class="updated">2014-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

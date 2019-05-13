@@ -30,7 +30,7 @@ Two Arrested in Delhi for Selling Drugs via the Dark web
     <p>“When we further probed, those four teenagers were identified. They are from well-to-do families,” an investigator said.</p>
     <p>One investigator then revealed that law enforcement identified the suspect as a first-grade computer engineering student studying in Bengaluru who “used to purchase LSD online”. He was responsible for teaching the teenagers how to use Tor and how to browse the dark web.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/delhi/" rel="tag">delhi</a>  <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-11-17</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/delhi/" rel="tag">delhi</a>  <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-11-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
     </div>
 </article>

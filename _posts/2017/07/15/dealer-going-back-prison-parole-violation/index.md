@@ -23,7 +23,7 @@ Dealer Going Back to Prison for Parole Violation
     <p>The board made their decision in late June; they recalled the former-dealer. Belmont not only committed a violent crime, but he lived with his partner—a violation of his parole. He additionally drank alcohol, another violation. The man will ride out the remainder of his distribution charge at a minimum. Assault with intent to injure carries a three year maximum sentence.</p>
     <p>His sentencing for the assault charge was scheduled for July. The parole board will see him in October, as well.</p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/parole/" rel="tag">parole</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/violation/" rel="tag">violation</a></span> <span style="display:none" class="updated">2017-07-15</span>
+     <a href="https://www.deepdotweb.com/tag/parole/" rel="tag">parole</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/violation/" rel="tag">violation</a></span> <span style="display:none" class="updated">2017-07-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

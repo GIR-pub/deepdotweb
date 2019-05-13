@@ -24,7 +24,7 @@ Report: Increase In Parcels Containing Drugs In Estonia
     <p>&#8220;Since THC can be detected in hemp seeds, they fall in the category of narcotic drugs and psychotropic substances,&#8221; a senior inspector said.</p>
     <p>MTA workers categorized countries by risk. The country with the highest risk is where most narcotics packages come from. For example, powder and hemp seeds come from the United Kingdom. The Netherlands leads the list in illegal parcels, lots of marijuana comes from the Czech Republic but even Mexico and Switzerland are considered as risky countries. For these countries, postal workers use specific scanning equipment to intercept illicit packages.</p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/estonia/" rel="tag">estonia</a> <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/parcels/" rel="tag">parcels</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2016-11-26</span>
+     <a href="https://www.deepdotweb.com/tag/estonia/" rel="tag">estonia</a> <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/parcels/" rel="tag">parcels</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2016-11-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

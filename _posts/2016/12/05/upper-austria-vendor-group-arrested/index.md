@@ -20,7 +20,7 @@ Upper Austria Vendor Group Arrested
     <p>The 19-year-old is currently held in custody until his first court date takes place. According to police information, the suspect denied all accusations against him. He did not contribute to the investigation in any way. Hahslinger added that “[the suspect] has not any given any information on the facts, so far.”</p>
     <p>The alleged dark net vendor’s court date is expected to be set sometime towards the end of November.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/austria/" rel="tag">austria</a> <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/upper/" rel="tag">upper</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-12-05</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/austria/" rel="tag">austria</a> <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/upper/" rel="tag">upper</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-12-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

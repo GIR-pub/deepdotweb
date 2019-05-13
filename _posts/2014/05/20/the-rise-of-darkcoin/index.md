@@ -24,7 +24,7 @@ The Rise of Darkcoin
     <p>But many will make the conversation based on price alone. The man on the street may be scared off by the associations with ‘dark’ and, well, the dark web! From the perspective of the deep web marketplaces getting behind Darkcoin in some fashion, even in small ways, seems wise since the coin suits the needs of that community. Buying in at the current price is perhaps a sensible enough option for long-term thinkers, but not quickprofit traders.</p>
     <p>Mining is certainly an option for those with the hardware. Either way it’s highly likely the marketplace community cannot avoid the rise of Darkcoin for much longer nor should we want to. An absolutely decentralised currency may be just the thing we’ve been waiting for.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a></span> <span style="display:none" class="updated">2014-05-20</span>
+    <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a></span> <span style="display:none" class="updated">2014-05-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/cipher/" title="Posts by Cipher" rel="author">Cipher</a></strong></div>
     </div>
 </article>

@@ -31,7 +31,7 @@ Vendor SuperTrips Partner &#8211; &#8220;UnderGroundSyndicate&#8221; To Plead Gu
     <iframe id="doc_16269" class="scribd_iframe_embed" src="//www.scribd.com/embeds/223837739/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     <p>h/t <a href="https://twitter.com/kimjnews">@kimjnews</a> / <a href="https://twitter.com/lamoustache">@lamoustache</a></p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/partner/" rel="tag">partner</a> <a href="https://www.deepdotweb.com/tag/plead/" rel="tag">plead</a> <a href="https://www.deepdotweb.com/tag/supertrip/" rel="tag">supertrip</a> <a href="https://www.deepdotweb.com/tag/undergroundsyndicate/" rel="tag">undergroundsyndicate</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-13</span>
+     <a href="https://www.deepdotweb.com/tag/partner/" rel="tag">partner</a> <a href="https://www.deepdotweb.com/tag/plead/" rel="tag">plead</a> <a href="https://www.deepdotweb.com/tag/supertrip/" rel="tag">supertrip</a> <a href="https://www.deepdotweb.com/tag/undergroundsyndicate/" rel="tag">undergroundsyndicate</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

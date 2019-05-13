@@ -43,7 +43,7 @@ Bitcoin News Roundup May 5th 2016
     <p>The Mayor of the town, Dolfi Muller said</p>
     <p>“<em>We want to express our openness to new technologies by expressing our own experiences (with bitcoin). We will invite Fintech companies in Zug to exchange ideas with the City Council. Our goal is to meet their needs for optimal development in our thriving economic environment.”</em></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a> </span> <span style="display:none" class="updated">2016-05-08</span>
+    <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a> </span> <span style="display:none" class="updated">2016-05-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

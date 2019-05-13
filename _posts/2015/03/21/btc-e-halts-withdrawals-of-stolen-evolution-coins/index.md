@@ -15,4 +15,4 @@ BTC-e Halts Withdrawals Of Stolen Evolution Coins
 <p>And here: http://www.reddit.com/r/DarkNetMarkets/comments/2zrkg6/withdrawals_halted_as_stolen_evolution_coins_make/</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/evoscam/" rel="tag">Evoscam</a></span> <span style="display:none" class="updated">2015-03-21
+<a href="https://www.deepdotweb.com/tag/evoscam/" rel="tag">Evoscam</a></span> <span style="display:none" class="updated">2015-03-21

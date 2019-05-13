@@ -18,7 +18,7 @@ Illinois to Decriminalize Small Amounts of Marijuana
     <p>Rauner said he&#8217;d sign the bill if the fine for 10 grams or less was between $100 &#8211; $200 and the DUI standard for driving with marijuana in the system should 5 nanograms of THC within two hours of consumption.</p>
     <p>The bill with his proposed changes, is currently sitting on his desk, waiting to be signed.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/amounts/" rel="tag">amounts</a> <a href="https://www.deepdotweb.com/tag/decriminalize/" rel="tag">decriminalize</a> <a href="https://www.deepdotweb.com/tag/illinois/" rel="tag">illinois</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/small/" rel="tag">small</a></span> <span style="display:none" class="updated">2016-07-29</span>
+    <a href="https://www.deepdotweb.com/tag/amounts/" rel="tag">amounts</a> <a href="https://www.deepdotweb.com/tag/decriminalize/" rel="tag">decriminalize</a> <a href="https://www.deepdotweb.com/tag/illinois/" rel="tag">illinois</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/small/" rel="tag">small</a></span> <span style="display:none" class="updated">2016-07-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

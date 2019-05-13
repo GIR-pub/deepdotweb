@@ -24,7 +24,7 @@
     <p>I guess these are questions, that we don’t/won’t have the answers too at the moment, but they could be answered within weeks or even months.</p>
     <p>Peace is another hacker to keep a close eye on, along with <a href="https://www.deepdotweb.com/2016/05/26/police-catalan-hack/">FineasPhisher</a>, who seem to be excelling at pwning massive databases or even sites.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/65/" rel="tag">65</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/passwords/" rel="tag">passwords</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a> <a href="https://www.deepdotweb.com/tag/tumblr/" rel="tag">tumblr</a></span> <span style="display:none" class="updated">2016-05-31</span>
+    <a href="https://www.deepdotweb.com/tag/65/" rel="tag">65</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/passwords/" rel="tag">passwords</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a> <a href="https://www.deepdotweb.com/tag/tumblr/" rel="tag">tumblr</a></span> <span style="display:none" class="updated">2016-05-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/janobi/" title="Posts by Janobi" rel="author">Janobi</a></strong></div>
     </div>
 </article>

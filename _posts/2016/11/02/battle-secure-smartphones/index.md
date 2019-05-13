@@ -73,7 +73,7 @@ Battle of the Secure Smartphones
     <p>As with any high-security technology, these phones (and the accompanying OS’s) may take some getting used to. Plus, in spite of their numerous security features, the user has to take steps to make sure that the private info inside remains just that…private.</p>
     <p>That being said, I’d recommend them to any average citizen who places a high value on confidentiality. And maybe to anyone who likes a “vodka martini, shaken, not stirred.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/battle/" rel="tag">battle</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/smartphones/" rel="tag">smartphones</a></span> <span style="display:none" class="updated">2016-11-02</span>
+    <a href="https://www.deepdotweb.com/tag/battle/" rel="tag">battle</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/smartphones/" rel="tag">smartphones</a></span> <span style="display:none" class="updated">2016-11-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
     </div>
 </article>

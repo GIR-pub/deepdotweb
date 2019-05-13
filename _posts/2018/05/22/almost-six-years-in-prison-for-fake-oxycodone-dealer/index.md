@@ -18,7 +18,7 @@ Almost Six Years in Prison for Fake Oxycodone Dealer
 <p>The court reminded him that the new guidelines also recommended stricter punishment for dealers guilty of distributing fentanyl branded as a different drug. In the end, Hubbs pleaded guilty to conspiracy to distribute fentanyl. His plea agreement added that others had worked with him but did not indicate whether or not Hubbs had identified the co-conspirator(s) for the police. Hubbs admitted to placing the orders on <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a> for the fake oxycodone pills.</p>
 <p>Judge Schreier sentenced him to 70 months in prison followed by three years of federal supervision. His sentence will be served at an institution near his family.</p>
 </div>
-<span style="display:none"> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/oxycodone/" rel="tag">oxycodone</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-05-22<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+ <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/oxycodone/" rel="tag">oxycodone</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-05-22<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

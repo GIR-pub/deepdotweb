@@ -52,7 +52,7 @@ Silk Road Admin: We Have Repaid 82.09% Of the Stolen Funds
     <p>This announcement followed few previous announcements from Defcon about repaying 13% &#8211; 50% of the stolen funds.</p>
     <p>Although we were looking hard, we never had a single solid testimony from a large vendor, or a known buyer who lost substantial amounts of money in the so called hack telling us he was repaid, most of the testimonies were from unknown users telling about small amount of BTC repaid to them, so this information is pretty hard to confirm. We do hope that everyone will get their money back of course.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/8209/" rel="tag">8209</a> <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/repaid/" rel="tag">repaid</a>  <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-05-28</span>
+    <a href="https://www.deepdotweb.com/tag/8209/" rel="tag">8209</a> <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/repaid/" rel="tag">repaid</a>  <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-05-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

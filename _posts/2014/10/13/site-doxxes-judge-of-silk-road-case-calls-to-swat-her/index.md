@@ -55,7 +55,7 @@ Site Doxx&#8217;es Judge of Silk Road Case &#8211; Calls To &#8220;Swat&#8221; H
     <p>========</p>
     <p>While its fine to argue if busting people like Ross is Ok or not or if he is innocent and is getting a fair trial, i &#8220;get the feeling&#8221; that posting such pages might cause much more damage and have no chance to in helping any real cause.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/details/" rel="tag">details</a> <a href="https://www.deepdotweb.com/tag/dox/" rel="tag">dox</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/posted/" rel="tag">posted</a> </span> <span style="display:none" class="updated">2014-10-13</span>
+    <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/details/" rel="tag">details</a> <a href="https://www.deepdotweb.com/tag/dox/" rel="tag">dox</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/posted/" rel="tag">posted</a> </span> <span style="display:none" class="updated">2014-10-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -36,7 +36,7 @@ The Hidden Wiki Hacked, WikiTor Fills The Gap
     <p>The DNM community also appears to be behind the site with DarkNetMarkets (https://pay.reddit.com/r/<wbr />DarkNetMarkets/comments/<wbr />204otx/the_hidden_wiki_is_<wbr />dead_long_live/), a well respected sub-Reddit for trading on Tor, offering their support.</p>
     <p>With signs of a strong ethic (at least as far as Tor activity goes), we hope to see WikiTor:  <strong>http://wikitor74em2u6rq.onion</strong> around for many years. we will be following and updating for new developments, if any.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fills/" rel="tag">fills</a> <a href="https://www.deepdotweb.com/tag/gap/" rel="tag">gap</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a>  <a href="https://www.deepdotweb.com/tag/wiki/" rel="tag">wiki</a> <a href="https://www.deepdotweb.com/tag/wikitor/" rel="tag">wikitor</a></span> <span style="display:none" class="updated">2014-03-14</span>
+    <a href="https://www.deepdotweb.com/tag/fills/" rel="tag">fills</a> <a href="https://www.deepdotweb.com/tag/gap/" rel="tag">gap</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a>  <a href="https://www.deepdotweb.com/tag/wiki/" rel="tag">wiki</a> <a href="https://www.deepdotweb.com/tag/wikitor/" rel="tag">wikitor</a></span> <span style="display:none" class="updated">2014-03-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

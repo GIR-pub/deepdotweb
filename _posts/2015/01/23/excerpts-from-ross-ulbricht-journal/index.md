@@ -167,7 +167,7 @@ Excerpts From Ross Ulbricht&#8217;s 2013 Journal
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a></span>				<span style="display:none" class="updated">2015-01-23</span>
+    <a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a></span>				<span style="display:none" class="updated">2015-01-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     

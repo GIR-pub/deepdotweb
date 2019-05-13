@@ -21,7 +21,7 @@ Opera&#8217;s New Built-In “VPN”
     <p>We mustn&#8217;t forget that Opera itself is an <a href="http://www.operasoftware.com/press/faq">ad network</a> and <a href="http://www.opera.com/privacy">does</a> collect your usage data.</p>
     <p>As always, proceed with caution when selecting a VPN to use. Check out our <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN comparison chart</a> if you need help.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/builtin/" rel="tag">builtin</a> <a href="https://www.deepdotweb.com/tag/operas/" rel="tag">operas</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-04-27</span>
+    <a href="https://www.deepdotweb.com/tag/builtin/" rel="tag">builtin</a> <a href="https://www.deepdotweb.com/tag/operas/" rel="tag">operas</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-04-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

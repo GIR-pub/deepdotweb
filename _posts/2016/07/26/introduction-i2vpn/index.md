@@ -33,7 +33,7 @@ Introduction: I2VPN
     <p>And 2-per-week drive-in with movies (which are selected by users) and a 24/7 music stream (music also selected by users).</p>
     <p>Feel free to check the service and provide your feedback: <strong>http://i2vpnraen5bggqge.onion/</strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/i2vpn/" rel="tag">i2vpn</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a></span> <span style="display:none" class="updated">2016-07-26</span>
+    <a href="https://www.deepdotweb.com/tag/i2vpn/" rel="tag">i2vpn</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a></span> <span style="display:none" class="updated">2016-07-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

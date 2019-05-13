@@ -28,7 +28,7 @@ Golem Network: Decentralized Computing
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/computing/" rel="tag">computing</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/golem/" rel="tag">golem</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a></span>				<span style="display:none" class="updated">2016-12-02</span>
+    <a href="https://www.deepdotweb.com/tag/computing/" rel="tag">computing</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/golem/" rel="tag">golem</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a></span>				<span style="display:none" class="updated">2016-12-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     
     

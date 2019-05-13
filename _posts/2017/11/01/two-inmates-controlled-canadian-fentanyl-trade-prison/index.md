@@ -32,7 +32,7 @@ Two Inmates Controlled Canadian Fentanyl Trade from Prison
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/canadian/" rel="tag">canadian</a> <a href="https://www.deepdotweb.com/tag/controlled/" rel="tag">controlled</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/inmates/" rel="tag">inmates</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a></span>				<span style="display:none" class="updated">2017-11-01</span>
+    <a href="https://www.deepdotweb.com/tag/canadian/" rel="tag">canadian</a> <a href="https://www.deepdotweb.com/tag/controlled/" rel="tag">controlled</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/inmates/" rel="tag">inmates</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a></span>				<span style="display:none" class="updated">2017-11-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

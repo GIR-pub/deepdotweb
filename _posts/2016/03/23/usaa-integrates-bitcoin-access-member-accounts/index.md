@@ -30,7 +30,7 @@ USAA Integrates Bitcoin Access Into Member Accounts
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/access/" rel="tag">access</a> <a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/integrates/" rel="tag">integrates</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/usaa/" rel="tag">usaa</a></span>				<span style="display:none" class="updated">2016-03-23</span>
+    <a href="https://www.deepdotweb.com/tag/access/" rel="tag">access</a> <a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/integrates/" rel="tag">integrates</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/usaa/" rel="tag">usaa</a></span>				<span style="display:none" class="updated">2016-03-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     
     

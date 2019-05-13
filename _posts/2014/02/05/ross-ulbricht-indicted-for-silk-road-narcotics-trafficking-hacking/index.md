@@ -39,7 +39,7 @@ Ross Ulbricht indicted for Silk Road narcotics trafficking &#038; Hacking
     <p>The prosecution of this case is being handled by the Office’s Complex Frauds Unit. Assistant United States Attorney Serrin Turner is in charge of the prosecution, and Assistant United States Attorney Christine Magdo is in charge of the forfeiture aspects of the case.</p>
     <p>The charges contained in the Indictments are merely accusations, and the defendants are presumed innocent unless and until proven guilty.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a>  <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2014-02-05</span>
+    <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a>  <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2014-02-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

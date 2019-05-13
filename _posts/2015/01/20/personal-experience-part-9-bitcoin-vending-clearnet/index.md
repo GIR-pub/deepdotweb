@@ -19,7 +19,7 @@ Personal Experience: Part 9 – Bitcoin vending on the Clearnet
     <p>Every Bitcoin transaction is an important vote. Each transaction is a vote against traditional currencies and against a centralized banking system. Every time you spend Bitcoin it is a vote against the fraudulent and corrupt big banks that have driven our country into economic decline and taken advantage of everyone they could sink their teeth into. Every single Bitcoin is a vote against these things and a vote for reform, a vote for a different future.</p>
     <p>The shift in subject matter in this column is going to cover those votes and how the people and places around us in everyday life are making those votes possible. Bitcoin is poised to revolutionize the currency and payment system and we are here to bear witness. We will vote, we will fight and we will find a better economic future.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a></span> <span style="display:none" class="updated">2015-01-20</span>
+    <a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a></span> <span style="display:none" class="updated">2015-01-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
     </div>
 </article>

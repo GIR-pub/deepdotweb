@@ -35,7 +35,7 @@ Grams: DarkNetMarkets Search Engine
     <p>Grams plans to run from <a href="https://www.deepdotweb.com/2014/06/01/gramwords-launched-google-adwords-of-the-deepweb/">advertisements</a> which will pay for ongoing security and development costs, we wish the creators all the best and we hope to see this service develop into a fully functional search engine that indexes listings in from all the existing marketplaces. This can not only save people time, it could also improve safety.</p>
     <p>Added later: <a href="https://www.deepdotweb.com/grams-search-darknet-marketplaces/">For more info about Grams and its related services visit this url.</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/engine/" rel="tag">engine</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/search/" rel="tag">search</a></span> <span style="display:none" class="updated">2014-04-08</span>
+    <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/engine/" rel="tag">engine</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/search/" rel="tag">search</a></span> <span style="display:none" class="updated">2014-04-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

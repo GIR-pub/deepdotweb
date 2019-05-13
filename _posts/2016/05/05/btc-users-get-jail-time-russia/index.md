@@ -19,7 +19,7 @@ BTC Users Could Get Jail Time in Russia
     <p>“As an accounting unit, these coins or whatever they are called, they can be used, and their adoption becomes wider and wider. As some kind of unit in some account, probably, it&#8217;s possible,” Putin said.</p>
     <p>Meanwhile, payment processor QIWI announced it was developing a blockchain tech based bitcoin alternative knows as Bit-Ruble; which it says will likely launch in 2016 for use in payment services attached to its mobile wallet, Vesti adds.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/jail/" rel="tag">jail</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2016-05-05</span>
+    <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/jail/" rel="tag">jail</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2016-05-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

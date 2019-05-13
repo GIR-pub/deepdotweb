@@ -45,7 +45,7 @@ The Scurvy Crew: Its Been An Amazing Ride
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/amazing/" rel="tag">amazing</a> <a href="https://www.deepdotweb.com/tag/ride/" rel="tag">ride</a> <a href="https://www.deepdotweb.com/tag/thescurvycrew/" rel="tag">thescurvycrew</a></span>				<span style="display:none" class="updated">2015-06-16</span>
+    <a href="https://www.deepdotweb.com/tag/amazing/" rel="tag">amazing</a> <a href="https://www.deepdotweb.com/tag/ride/" rel="tag">ride</a> <a href="https://www.deepdotweb.com/tag/thescurvycrew/" rel="tag">thescurvycrew</a></span>				<span style="display:none" class="updated">2015-06-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     
     

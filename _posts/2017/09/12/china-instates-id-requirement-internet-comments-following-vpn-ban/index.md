@@ -30,7 +30,7 @@ China Instates ID Requirement for Internet Comments Following VPN Ban
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/ban/" rel="tag">ban</a> <a href="https://www.deepdotweb.com/tag/china/" rel="tag">china</a> <a href="https://www.deepdotweb.com/tag/comments/" rel="tag">comments</a> <a href="https://www.deepdotweb.com/tag/instates/" rel="tag">instates</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/requirement/" rel="tag">requirement</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span>				<span style="display:none" class="updated">2017-09-12</span>
+    <a href="https://www.deepdotweb.com/tag/ban/" rel="tag">ban</a> <a href="https://www.deepdotweb.com/tag/china/" rel="tag">china</a> <a href="https://www.deepdotweb.com/tag/comments/" rel="tag">comments</a> <a href="https://www.deepdotweb.com/tag/instates/" rel="tag">instates</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/requirement/" rel="tag">requirement</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span>				<span style="display:none" class="updated">2017-09-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
     
     

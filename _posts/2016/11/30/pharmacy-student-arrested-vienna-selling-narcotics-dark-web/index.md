@@ -19,7 +19,7 @@ Pharmacy Student Arrested In Vienna For Selling Narcotics on the Dark Web
     <p>“Seventy to eighty percent of the buyers are domestic,” said one of the investigators. The suspect made “several thousand euros per month,” another investigator wrote.</p>
     <p>The suspect is currently held in detention in Garsten. According to a source, he could face a 15-year prison sentence if convicted.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/pharmacy/" rel="tag">pharmacy</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/vienna/" rel="tag">vienna</a></span> <span style="display:none" class="updated">2016-11-30</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/pharmacy/" rel="tag">pharmacy</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/vienna/" rel="tag">vienna</a></span> <span style="display:none" class="updated">2016-11-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

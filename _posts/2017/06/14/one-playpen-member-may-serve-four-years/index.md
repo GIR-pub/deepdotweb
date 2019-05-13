@@ -24,7 +24,7 @@ One PlayPen Member May Only Serve Four Years
     <p>In February 2016, an officer obtained a search warrant for Tippens home. Law enforcement then conducted a search of the defendant&#8217;s house. “When agents arrived at his home, Tippens’ big-screen TV showed a video of the rape of a young girl,” a <a href="http://www.seattlepi.com/local/crime/article/Dark-web-child-rape-videos-may-mean-prison-11174760.php">local channel described</a>. “Tippens had been masturbating, and told agents he soundproofed his bedroom so others in his home wouldn’t hear him.”</p>
     <p>Prosecutors have now asked for a four year prison term, followed by 15 years of supervision.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/serve/" rel="tag">serve</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-06-14</span>
+    <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/serve/" rel="tag">serve</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-06-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

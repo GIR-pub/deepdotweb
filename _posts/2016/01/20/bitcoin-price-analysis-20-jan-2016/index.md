@@ -50,7 +50,7 @@ Bitcoin Price Analysis 20-Jan-2016
     <p>(3) and (4) shown above, are bearish leaning forecasts. Both predict a return to below $162 low. (3) would break the slope line at $250, and fall to below January 2015 low; (4) bounces off $250, head back up to a high at $650, but proceed to fall to below $162. Targets here are $150</p>
     <p>Based on the uncertainty on a hard/soft fork, I see scenarios 3 and 4 as more likely. Proposals coming out now could be ready in as soon as 6 months, and take till end of year to deploy. But then again, there is the matter of the upcoming Block reward halving in July, which is bound to generate some speculative activity.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/20jan2016/" rel="tag">20jan2016</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-01-20</span>
+    <a href="https://www.deepdotweb.com/tag/20jan2016/" rel="tag">20jan2016</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-01-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

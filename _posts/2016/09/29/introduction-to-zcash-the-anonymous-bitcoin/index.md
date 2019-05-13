@@ -29,7 +29,7 @@ Introduction to Zcash, the anonymous Bitcoin
     <p>But if Zcash withstands the trial of time, it is possible that it may one day become the currency of the deepweb.</p>
     <p><em>&#8220;As much as people now love the idea and the benefits of blockchain technology, time and time again they bring up two issues that blockchains currently do not address: scalability and privacy. I believe that the technology that Zcash is working on is currently the best in class in its ability to address the privacy challenge.&#8221; </em>Vitalik Buterin, Founder and Chief Scientist at Ethereum.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/zcash/" rel="tag">zcash</a></span> <span style="display:none" class="updated">2016-09-29</span>
+    <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/zcash/" rel="tag">zcash</a></span> <span style="display:none" class="updated">2016-09-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

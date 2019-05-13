@@ -144,7 +144,7 @@ How to Host a Tor Relay Successfully?
     <p>Thank you all so much, and thank you for your interest in helping the Tor community.</p>
     <p><strong>This tutorial is by Dave, who can be reached at tor@8chan.co</strong></p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/relay/" rel="tag">relay</a> <a href="https://www.deepdotweb.com/tag/successfully/" rel="tag">successfully</a> </span> <span style="display:none" class="updated">2015-06-11</span>
+     <a href="https://www.deepdotweb.com/tag/relay/" rel="tag">relay</a> <a href="https://www.deepdotweb.com/tag/successfully/" rel="tag">successfully</a> </span> <span style="display:none" class="updated">2015-06-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dave/" title="Posts by Dave" rel="author">Dave</a></strong></div>
     </div>
 </article>

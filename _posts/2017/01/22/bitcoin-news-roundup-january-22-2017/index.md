@@ -44,7 +44,7 @@ Bitcoin news roundup, January 22, 2017
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/22/" rel="tag">22</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/january/" rel="tag">january</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span>				<span style="display:none" class="updated">2017-01-22</span>
+    <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/22/" rel="tag">22</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/january/" rel="tag">january</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span>				<span style="display:none" class="updated">2017-01-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
     
     

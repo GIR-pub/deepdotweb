@@ -52,7 +52,7 @@ Bitcoin news roundup, July 30, 2017
     <p><strong>Ethereum at $182.28 as most altcoins recede</strong></p>
     <p>As Bitcoin’s big day draws near, most altcoins have been losing value. Ethereum, the second biggest cryptocurrency by market cap, is no exception. It’s down by over 7% in the last 24 hours, as one Ether token is currently worth $182.28. Ethereum’s market cap is at $17.06 billion.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2017-07-30</span>
+    <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2017-07-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

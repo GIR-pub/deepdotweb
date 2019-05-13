@@ -43,7 +43,7 @@ New Connecticut Task Force Targets Cybercrime
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/connecticut/" rel="tag">connecticut</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/targets/" rel="tag">targets</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a></span>				<span style="display:none" class="updated">2017-11-06</span>
+    <a href="https://www.deepdotweb.com/tag/connecticut/" rel="tag">connecticut</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/targets/" rel="tag">targets</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a></span>				<span style="display:none" class="updated">2017-11-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
     
     

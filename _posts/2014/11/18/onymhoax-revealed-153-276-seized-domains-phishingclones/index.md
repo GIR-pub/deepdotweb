@@ -37,7 +37,7 @@ OnymHoax Revealed: 153 Out of 276 Seized Domains Are Phishing/Clones
     <p>Read all our other articles regarding <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Operation Onymous Here</a>.</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span> <span style="display:none" class="updated">2014-11-18</span>
+    <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span> <span style="display:none" class="updated">2014-11-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

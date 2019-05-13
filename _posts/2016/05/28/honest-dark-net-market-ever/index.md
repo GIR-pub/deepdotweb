@@ -22,7 +22,7 @@ Beaver: The Most “Honest” Dark Net Market Ever?
     <p>The developers also mention the use of zero proof knowledge and ring signatures which are used in privacy-centric cryptocurrencies such as Monero.</p>
     <p>For now, this is only a twinkle in the author’s eyes. Even if they decided to start today, it would be some time before Beaver had a stable home on the Dark Net; not to mention that it would take even longer to reach the height that OpenBazaar has built itself to. Additionally, OpenBazaar is planning on adding privacy-centric features soon like Tor support.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/honest/" rel="tag">honest</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> <span style="display:none" class="updated">2016-05-28</span>
+    <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/honest/" rel="tag">honest</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> <span style="display:none" class="updated">2016-05-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

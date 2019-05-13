@@ -29,6 +29,6 @@ title: "Black Market Reloaded Hacked &#8211; Around $200,000 Stolen
 <p>You can find in the thread Some interesting information there regarding the bitcoins wallet of the hacker  &#8211; seems that he have large sum of bitcoins, probably from other hacks, also theres been some theory that all the recent Darknet troubles is related to the FBI&#8217;s effort to put an end to the marketplaces that keep popping around (we can hardly keep up).  also, we cant help wondering if its related by any chance to the sheep scammers &amp; stolen accounts originated from the sheep marketplace.</p>
 <p>As always, many question and only a few answers, We will keep following to if there any developments, hopefully we will have just a quiet couple of days.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/200000/" rel="tag">200000</a> <a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a>
+<a href="https://www.deepdotweb.com/tag/200000/" rel="tag">200000</a> <a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a>
 
 Updated: 2013-12-06

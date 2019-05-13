@@ -31,7 +31,7 @@ Pennsylvania Man Sentenced to 87 Months for Pill Distribution
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/87/" rel="tag">87</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/pennsylvania/" rel="tag">pennsylvania</a> <a href="https://www.deepdotweb.com/tag/pill/" rel="tag">pill</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span>				<span style="display:none" class="updated">2017-09-21</span>
+    <a href="https://www.deepdotweb.com/tag/87/" rel="tag">87</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/pennsylvania/" rel="tag">pennsylvania</a> <a href="https://www.deepdotweb.com/tag/pill/" rel="tag">pill</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span>				<span style="display:none" class="updated">2017-09-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

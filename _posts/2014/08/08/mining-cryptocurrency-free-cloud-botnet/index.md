@@ -35,7 +35,7 @@ Mining Cryptocurrency With A Free Cloud Botnet, Why Not?
     <p><span style="text-decoration: underline;">Link to the cloudbot tools git hub</span>:<br />
     <a href="https://github.com/BishopFox/anti-anti-automation" target="_blank">https://github.com/<wbr />BishopFox/anti-anti-automation</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/botnet/" rel="tag">botnet</a> <a href="https://www.deepdotweb.com/tag/cloud/" rel="tag">cloud</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a></span> <span style="display:none" class="updated">2014-08-08</span>
+    <a href="https://www.deepdotweb.com/tag/botnet/" rel="tag">botnet</a> <a href="https://www.deepdotweb.com/tag/cloud/" rel="tag">cloud</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a></span> <span style="display:none" class="updated">2014-08-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/iburnez/" title="Posts by iBurnEZ" rel="author">iBurnEZ</a></strong></div>
     </div>
 </article>

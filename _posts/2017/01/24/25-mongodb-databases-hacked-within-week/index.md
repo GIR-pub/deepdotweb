@@ -23,7 +23,7 @@ More Than 25% of MongoDB Databases Hacked Within a Week
     <p>a SHODAN search revealing open databases <img class="wp-image-17682" src="/imgs/2017/01/word-image-82.png" srcset="/imgs/2017/01/word-image-82.png 1755w, /imgs/2017/01/word-image-82-300x170.png 300w, /imgs/2017/01/word-image-82-1024x579.png 1024w" sizes="(max-width: 1755px) 100vw, 1755px"/></p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/25/" rel="tag">25</a> <a href="https://www.deepdotweb.com/tag/databases/" rel="tag">databases</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/mongodb/" rel="tag">mongodb</a> </span> <span style="display:none" class="updated">2017-01-24</span>
+    <a href="https://www.deepdotweb.com/tag/25/" rel="tag">25</a> <a href="https://www.deepdotweb.com/tag/databases/" rel="tag">databases</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/mongodb/" rel="tag">mongodb</a> </span> <span style="display:none" class="updated">2017-01-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

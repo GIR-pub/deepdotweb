@@ -23,7 +23,7 @@ MDMA: The Risks of Redosing
     <p>While taking more MDMA may be an attractive option, prolonging your roll is not without danger. Some users learn to enjoy the come down, while some switch to a different substance and let their body clear itself of MDMA’s neurotoxic metabolites. Users of MDMA have long praised the use of ketamine during a come-down, though many attractive options exists.</p>
     <p>MDMA can provide a beautiful experience and should be used with utmost respect. The longer one exposes him or herself to the effects of MDMA, the longer their vulnerable brain is exposed to harmful reactive oxygen species. Harm reduction is a topic that should always be on every drug users mind and this topic could not be more important when using MDMA. Have fun and stay safe, thanks for reading!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/redosing/" rel="tag">redosing</a> <a href="https://www.deepdotweb.com/tag/risks/" rel="tag">risks</a></span> <span style="display:none" class="updated">2016-06-19</span>
+    <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/redosing/" rel="tag">redosing</a> <a href="https://www.deepdotweb.com/tag/risks/" rel="tag">risks</a></span> <span style="display:none" class="updated">2016-06-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kevin/" title="Posts by -Kevin-" rel="author">-Kevin-</a></strong></div>
     </div>
 </article>

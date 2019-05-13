@@ -75,7 +75,7 @@ New: CrowdFunded BTC Bounties to Hunt Down Hackers and Thieves
     </div>
     </div>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bounties/" rel="tag">bounties</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/crowdfunded/" rel="tag">crowdfunded</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/hunt/" rel="tag">hunt</a> <a href="https://www.deepdotweb.com/tag/thieves/" rel="tag">thieves</a></span> <span style="display:none" class="updated">2014-09-17</span>
+    <a href="https://www.deepdotweb.com/tag/bounties/" rel="tag">bounties</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/crowdfunded/" rel="tag">crowdfunded</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/hunt/" rel="tag">hunt</a> <a href="https://www.deepdotweb.com/tag/thieves/" rel="tag">thieves</a></span> <span style="display:none" class="updated">2014-09-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

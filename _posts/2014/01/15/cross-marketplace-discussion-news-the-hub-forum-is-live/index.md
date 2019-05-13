@@ -46,7 +46,7 @@ Cross-Marketplace Discussion &#038; News: The Hub Forum Is Live!
     <p>We Will be integrating links to the forum on our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace list</a>, Along with the Reddit links, with the hope that it will be used as a neutral gathering and discussion area for the different markets not related to one single market managements and not bound to get shut down by LE since there will be no illegal activity on the forums.</p>
     <p>We wish Alferd and the other team members good luck with this project, it has a lot of potential.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/hub/" rel="tag">hub</a> <a href="https://www.deepdotweb.com/tag/meet/" rel="tag">meet</a></span> <span style="display:none" class="updated">2014-01-15</span>
+    <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/hub/" rel="tag">hub</a> <a href="https://www.deepdotweb.com/tag/meet/" rel="tag">meet</a></span> <span style="display:none" class="updated">2014-01-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

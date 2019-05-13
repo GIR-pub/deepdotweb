@@ -21,7 +21,7 @@ Canada To Push For Marijuana Legalization In 2017
     <p class="Standard">During Philpott&#8217;s address, she remarked “Our approach to drugs must be comprehensive, collaborative and compassionate. It must respect human rights while promoting shared responsibility, and it must have a firm scientific foundation”.</p>
     <p class="Standard">The date of this legalization announcement is reportedly a coincidence according to the Canadian government.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/canada/" rel="tag">canada</a> <a href="https://www.deepdotweb.com/tag/legalization/" rel="tag">legalization</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/push/" rel="tag">push</a></span> <span style="display:none" class="updated">2016-04-28</span>
+    <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/canada/" rel="tag">canada</a> <a href="https://www.deepdotweb.com/tag/legalization/" rel="tag">legalization</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/push/" rel="tag">push</a></span> <span style="display:none" class="updated">2016-04-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

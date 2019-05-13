@@ -43,7 +43,7 @@ A Noob’s Guide to I2P-Bote
     <p>If you’re completely new to all of this, it may seem a little complex at first, but play around with it and you’ll get the hang of it. The more people that use I2P and I2P-Bote, the better it will become.</p>
     <p>Or I suppose you could always do the “anonymous message with the cut-out letters” thing, but that takes a lot more effort, doesn’t it?</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/i2pbote/" rel="tag">i2pbote</a> <a href="https://www.deepdotweb.com/tag/noobs/" rel="tag">noobs</a></span> <span style="display:none" class="updated">2016-11-16</span>
+    <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/i2pbote/" rel="tag">i2pbote</a> <a href="https://www.deepdotweb.com/tag/noobs/" rel="tag">noobs</a></span> <span style="display:none" class="updated">2016-11-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
     </div>
 </article>

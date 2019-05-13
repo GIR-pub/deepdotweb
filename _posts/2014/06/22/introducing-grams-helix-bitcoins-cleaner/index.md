@@ -41,7 +41,7 @@ Introducing Grams Helix: Bitcoins Cleaner
     <p>It was added by Grams admin that:</p>
     <blockquote><p>This step is truly unnecessary since Grams is very security conscious, but it is a step I am willing to take to earn the trust of all of you.</p></blockquote>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cleaner/" rel="tag">cleaner</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/helix/" rel="tag">helix</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> <span style="display:none" class="updated">2014-06-22</span>
+    <a href="https://www.deepdotweb.com/tag/cleaner/" rel="tag">cleaner</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/helix/" rel="tag">helix</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> <span style="display:none" class="updated">2014-06-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

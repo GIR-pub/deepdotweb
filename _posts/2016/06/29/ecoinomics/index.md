@@ -39,7 +39,7 @@ Bitcoin Economics: Volatility
     <p>I’m not your financial manager, and I don’t care if you make or lose any money. With that in mind, I think the best rule of thumb is to not put money in Bitcoin you can’t afford to lose.</p>
     <p><a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">Dark net markets are</a> miniature versions of bitcoin exchanges and banks. They charge market-making fees for vendors to open accounts, for users to remove BTC from market circulation, and by exit scamming, which taxes the markets heavily for holding significant financial risk.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/ecoinomics/" rel="tag">ecoinomics</a> <a href="https://www.deepdotweb.com/tag/volatility/" rel="tag">volatility</a></span> <span style="display:none" class="updated">2016-06-29</span>
+    <a href="https://www.deepdotweb.com/tag/ecoinomics/" rel="tag">ecoinomics</a> <a href="https://www.deepdotweb.com/tag/volatility/" rel="tag">volatility</a></span> <span style="display:none" class="updated">2016-06-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/jfc/" title="Posts by JFC" rel="author">JFC</a></strong></div>
     </div>
 </article>

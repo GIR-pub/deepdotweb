@@ -105,7 +105,7 @@ Tutorial: How To Buy From the House of Lions Market?
     <p>And that’s it. You can now buy from the House of Lions Market, which is pretty simple! Always remember to protect yourself, use a strong password, 2-fa, encrypt your conversations and always use a mixer. Good luck!</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/house/" rel="tag">house</a> <a href="https://www.deepdotweb.com/tag/lions/" rel="tag">lions</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2017-02-02</span>
+    <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/house/" rel="tag">house</a> <a href="https://www.deepdotweb.com/tag/lions/" rel="tag">lions</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2017-02-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

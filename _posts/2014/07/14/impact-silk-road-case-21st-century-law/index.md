@@ -20,7 +20,7 @@ The Impact of the Silk Road Case on 21st Century Law
     <a class="yt-uix-redirect-link" dir="ltr" title="http://www.FreeStateProject.org" href="http://www.FreeStateProject.org" target="_blank" rel="nofollow">http://www.FreeStateProject.org</a><br/>
     <a class="yt-uix-redirect-link" dir="ltr" title="http://www.PorcFest.org" href="http://www.PorcFest.org" target="_blank" rel="nofollow">http://www.PorcFest.org</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/21st/" rel="tag">21st</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/century/" rel="tag">century</a> <a href="https://www.deepdotweb.com/tag/impact/" rel="tag">impact</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> </span> <span style="display:none" class="updated">2014-07-14</span>
+    <a href="https://www.deepdotweb.com/tag/21st/" rel="tag">21st</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/century/" rel="tag">century</a> <a href="https://www.deepdotweb.com/tag/impact/" rel="tag">impact</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> </span> <span style="display:none" class="updated">2014-07-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

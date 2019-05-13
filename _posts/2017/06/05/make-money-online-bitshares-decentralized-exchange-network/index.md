@@ -68,7 +68,7 @@ How to make money online on Bitshares&#8217; decentralized exchange network
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitshares/" rel="tag">bitshares</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/exchange/" rel="tag">exchange</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> </span>				<span style="display:none" class="updated">2017-06-05</span>
+    <a href="https://www.deepdotweb.com/tag/bitshares/" rel="tag">bitshares</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/exchange/" rel="tag">exchange</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> </span>				<span style="display:none" class="updated">2017-06-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     
     

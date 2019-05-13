@@ -18,7 +18,7 @@ Real Life OpSec Matters Too
     <p>This is not to say that online opsec doesn’t matter. Guarding darknet activity is still exceedingly important. But more people on the darknet need take better caution in their real life opsec. Using all the appropriate methods and technology means nothing if you’re bragging about your activity to friends or bringing down law enforcement scrutiny for reasons unrelated to the darknet.</p>
     <p>It’s a new year. Let’s all resolve to be smart both in the darknet markets and away from our computers in 2016.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/life/" rel="tag">life</a> <a href="https://www.deepdotweb.com/tag/matters/" rel="tag">matters</a> <a href="https://www.deepdotweb.com/tag/opsec/" rel="tag">opsec</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a></span> <span style="display:none" class="updated">2016-01-22</span>
+    <a href="https://www.deepdotweb.com/tag/life/" rel="tag">life</a> <a href="https://www.deepdotweb.com/tag/matters/" rel="tag">matters</a> <a href="https://www.deepdotweb.com/tag/opsec/" rel="tag">opsec</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a></span> <span style="display:none" class="updated">2016-01-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/erebus24/" title="Posts by Erebus24" rel="author">Erebus24</a></strong></div>
     </div>
 </article>

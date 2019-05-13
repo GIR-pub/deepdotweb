@@ -46,7 +46,7 @@ Bitcoin News Round Up 2nd May 2016
     <p>In 2013, the Pirate Bay became the earliest torrent sites to begin accepting bitcoin donations. Because bitcoin transactions are public, the publicly listed wallet address showed a total received amount of  $ 3, 720 &#8211; 8.31 BTC in 3 years. Not exactly a jackpot for a site that lets people download a tonne of stuff for free! Disgruntled music copyright lobbyists, like the RIAA, in 2013, voiced concern over new revenue streams for torrent sites via unseizable digital currency.</p>
     <p>Read more at <a href="https://torrentfreak.com/pirate-bay-gets-a-massive-9-in-donations-per-day-160501/">torrent fre<em>ak</em></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/2st/" rel="tag">2st</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a></span> <span style="display:none" class="updated">2016-05-02</span>
+    <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/2st/" rel="tag">2st</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a></span> <span style="display:none" class="updated">2016-05-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

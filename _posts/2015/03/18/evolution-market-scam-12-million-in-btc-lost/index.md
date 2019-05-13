@@ -17,4 +17,4 @@ Evolution Market Scam: 12$ Million In BTC Lost?
 <p>Will be following and updating, for now, you can expect some pointless Wallet tracking and &#8220;Blockchain analysis&#8221; to pop up &#8211; that like always, will lead to <strong>absolutely nothing</strong>.</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/evoscam/" rel="tag">Evoscam</a></span> <span style="display:none" class="updated">2015-03-18
+<a href="https://www.deepdotweb.com/tag/evoscam/" rel="tag">Evoscam</a></span> <span style="display:none" class="updated">2015-03-18

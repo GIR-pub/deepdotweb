@@ -25,7 +25,7 @@ New HTTPS Flaw: “DROWN” Attack
     <p>Configuring your browser to reject SSLv2 will only prevent the first version of this attack, the second version can still be carried out.</p>
     <p>You can read the <a href="https://drownattack.com/drown-attack-paper.pdf">technical paper</a>, get more <a href="https://drownattack.com/#question-answer">information</a>, and <a href="https://drownattack.com/#check">check</a> if your site is vulnerable to this attack at the DROWN <a href="https://drownattack.com/">website</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/drown/" rel="tag">drown</a> <a href="https://www.deepdotweb.com/tag/flaw/" rel="tag">flaw</a> <a href="https://www.deepdotweb.com/tag/https/" rel="tag">https</a></span> <span style="display:none" class="updated">2016-03-03</span>
+    <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/drown/" rel="tag">drown</a> <a href="https://www.deepdotweb.com/tag/flaw/" rel="tag">flaw</a> <a href="https://www.deepdotweb.com/tag/https/" rel="tag">https</a></span> <span style="display:none" class="updated">2016-03-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

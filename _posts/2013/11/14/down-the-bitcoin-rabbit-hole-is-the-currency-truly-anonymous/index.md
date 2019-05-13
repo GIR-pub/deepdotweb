@@ -1,13 +1,9 @@
 ---
 title: "Down the Bitcoin Rabbit Hole: Is the Currency Truly Anonymous?"
 ---
-1344  tag-anonymous tag-bitcoin tag-currency tag-hole tag-rabbit">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 14, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/11/14/down-the-bitcoin-rabbit-hole-is-the-currency-truly-anonymous/#respond">Leave a comment</a></span>
-
 
 <p>Researchers have asked a very important question about the bitcoin, a question that has spurred the unregulated currency’s popularity, as well as its controversy: is bitcoin anonymous, or can it be tracked?</p>
 <p>The conclusion they found: yes.</p>
@@ -32,6 +28,5 @@ title: "Down the Bitcoin Rabbit Hole: Is the Currency Truly Anonymous?"
 <p>In almost every report, the same principle comes into view: the more bitcoins there are in question, the less privacy there will be for the owner of those bitcoins.  It is very difficult to track a bitcoin equivalent of $100, but $10,000,000 is a different matter entirely.</p>
 <p>In the blockchain, it pays to be as sly as a fox, but not a fat cat.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/hole/" rel="tag">hole</a> <a href="https://www.deepdotweb.com/tag/rabbit/" rel="tag">rabbit</a>
 
 Updated: 2013-11-14

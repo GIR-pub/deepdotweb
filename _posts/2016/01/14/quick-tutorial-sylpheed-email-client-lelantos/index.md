@@ -37,7 +37,7 @@ Quick Tutorial: Sylpheed Email Client With Lelantos
     <p>The GnuPG option is in the Privacy tab, but I haven’t tried this. Check also the Privacy tab of the General Settings panel of Sylpheed in the top menu Configuration.</p>
     <p>I hope this information will be helpful for some of you.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/client/" rel="tag">client</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/lelantos/" rel="tag">lelantos</a> <a href="https://www.deepdotweb.com/tag/quick/" rel="tag">quick</a> <a href="https://www.deepdotweb.com/tag/sylpheed/" rel="tag">sylpheed</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2016-01-14</span>
+    <a href="https://www.deepdotweb.com/tag/client/" rel="tag">client</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/lelantos/" rel="tag">lelantos</a> <a href="https://www.deepdotweb.com/tag/quick/" rel="tag">quick</a> <a href="https://www.deepdotweb.com/tag/sylpheed/" rel="tag">sylpheed</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2016-01-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

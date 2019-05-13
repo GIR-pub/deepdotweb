@@ -41,7 +41,7 @@ Grand Jury Indicts U-47 Vendor “PeterTheGreat”
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/grand/" rel="tag">grand</a> <a href="https://www.deepdotweb.com/tag/indicts/" rel="tag">indicts</a> <a href="https://www.deepdotweb.com/tag/jury/" rel="tag">jury</a> <a href="https://www.deepdotweb.com/tag/peterthegreat/" rel="tag">peterthegreat</a> <a href="https://www.deepdotweb.com/tag/u47/" rel="tag">u47</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span>				<span style="display:none" class="updated">2017-05-27</span>
+    <a href="https://www.deepdotweb.com/tag/grand/" rel="tag">grand</a> <a href="https://www.deepdotweb.com/tag/indicts/" rel="tag">indicts</a> <a href="https://www.deepdotweb.com/tag/jury/" rel="tag">jury</a> <a href="https://www.deepdotweb.com/tag/peterthegreat/" rel="tag">peterthegreat</a> <a href="https://www.deepdotweb.com/tag/u47/" rel="tag">u47</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span>				<span style="display:none" class="updated">2017-05-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

@@ -41,7 +41,7 @@ How to use a Bitcoin Mixer: Coinmixer
     <p><img class="wp-image-16340 aligncenter" src="/imgs/2016/11/word-image-16.png" srcset="/imgs/2016/11/word-image-16.png 869w, /imgs/2016/11/word-image-16-300x130.png 300w" sizes="(max-width: 869px) 100vw, 869px" /></p>
     <p>And that concludes our lesson! You’ve now learn how to shield yourself from prying eyes using four different bitcoin mixers. It may seem like overkill, but in order to retain your privacy you must be willing to jump through certain hoops.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/coinmixer/" rel="tag">coinmixer</a> <a href="https://www.deepdotweb.com/tag/kptx/" rel="tag">kptx</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a></span> <span style="display:none" class="updated">2016-11-09</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/coinmixer/" rel="tag">coinmixer</a> <a href="https://www.deepdotweb.com/tag/kptx/" rel="tag">kptx</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a></span> <span style="display:none" class="updated">2016-11-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

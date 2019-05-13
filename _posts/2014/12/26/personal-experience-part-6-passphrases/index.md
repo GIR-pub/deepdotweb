@@ -18,7 +18,7 @@ Personal Experience: Part 6 – Passphrases
     <p>I walked down to my neighborhood bodega and bought some cheap six-sided dice. With a printed version of the Diceware word list in hand, I made my rolls and created my passphrase. For added security I chose insert a random character into my passphrase in between each word. Using a table of random characters also obtained from the Diceware page, I added an extra two rolls for each word to find a character in the random special characters table.</p>
     <p>I am going to set up a persistent volume in TAILS so that I can have some of my data saved across sessions. I’ll have my PGP keys, email account information and some personal documents saved so that I don’t have to re-enter every time I start TAILS. The passphrase I created from the Diceware word list will be used to encrypt the persistent volume to protect sensitive information as well as my anonymity.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a></span> <span style="display:none" class="updated">2014-12-26</span>
+    <a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a></span> <span style="display:none" class="updated">2014-12-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
     </div>
 </article>

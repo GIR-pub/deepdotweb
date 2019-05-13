@@ -32,7 +32,7 @@ The State Of Texas Is Selling Personal Information of Citizens
     <p>“Once he has that puzzle together, he has you as a person,” he added.</p>
     <p>And if that happens, the hacker can do many things as you such as <a href="https://www.deepdotweb.com/2016/09/08/son-of-russian-parliament-member-found-guilty-of-selling-credit-cards-on-the-deepweb/">open up credit cards</a>, cell phones, and loans.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/citizens/" rel="tag">citizens</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/texas/" rel="tag">texas</a></span> <span style="display:none" class="updated">2017-11-19</span>
+    <a href="https://www.deepdotweb.com/tag/citizens/" rel="tag">citizens</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/texas/" rel="tag">texas</a></span> <span style="display:none" class="updated">2017-11-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
     </div>
 </article>

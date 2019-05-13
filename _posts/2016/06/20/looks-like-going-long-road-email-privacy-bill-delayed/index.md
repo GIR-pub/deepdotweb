@@ -17,7 +17,7 @@ Long Road for the Email Privacy Bill as Its Delayed Again
     <p>“Today’s announcement marks an important milestone in the U.S. Governments 18-year effort to privatize the internet’s domain name system,” Penny Pritzker, Secretary of Commerce said.</p>
     <p>“Today’s announcement by the Obama administration is a clear indication that it has flagrantly violated federal law. This is the latest step in a troubling series of steps that the administration has taken to relinquish its responsibilities, and it should send a concerning message to every American,” Senator Ted Cruz said.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/delayed/" rel="tag">delayed</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/long/" rel="tag">long</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> </span> <span style="display:none" class="updated">2016-06-20</span>
+    <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/delayed/" rel="tag">delayed</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/long/" rel="tag">long</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> </span> <span style="display:none" class="updated">2016-06-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

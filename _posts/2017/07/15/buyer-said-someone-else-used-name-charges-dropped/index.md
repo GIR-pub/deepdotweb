@@ -21,7 +21,7 @@ Buyer Said Someone Else Used His Name, Charges Dropped
     <p>According to court records and the prosecution, the corner defendant ordered thrice. One test order of 10 ecstasy capsules. Then 250 ecstasy pills. And then “a considerable amount of synthetic drugs.”</p>
     <p>The courtroom needed only 10 minutes to conclude the case. Judge Brigitte Braun agreed with the defense. No evidence existed against the man. She dismissed him.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/dropped/" rel="tag">dropped</a></span> <span style="display:none" class="updated">2017-07-15</span>
+    <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/dropped/" rel="tag">dropped</a></span> <span style="display:none" class="updated">2017-07-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

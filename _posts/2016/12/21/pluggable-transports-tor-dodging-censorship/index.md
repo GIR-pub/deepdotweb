@@ -54,7 +54,7 @@ Pluggable Transports for Tor: Dodging Censorship
     <p>Still, given that law enforcement has been cracking down on cybercrime, and has become suspicious of anyone who tries to use privacy tools in general, it’s helpful to know about protocols like obfs4, just in case you should ever need to use them.</p>
     <p>They’re watching you…</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/censorship/" rel="tag">censorship</a> <a href="https://www.deepdotweb.com/tag/dodging/" rel="tag">dodging</a> <a href="https://www.deepdotweb.com/tag/pluggable/" rel="tag">pluggable</a>  <a href="https://www.deepdotweb.com/tag/transports/" rel="tag">transports</a></span> <span style="display:none" class="updated">2016-12-21</span>
+    <a href="https://www.deepdotweb.com/tag/censorship/" rel="tag">censorship</a> <a href="https://www.deepdotweb.com/tag/dodging/" rel="tag">dodging</a> <a href="https://www.deepdotweb.com/tag/pluggable/" rel="tag">pluggable</a>  <a href="https://www.deepdotweb.com/tag/transports/" rel="tag">transports</a></span> <span style="display:none" class="updated">2016-12-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
     </div>
 </article>

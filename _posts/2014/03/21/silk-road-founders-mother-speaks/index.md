@@ -14,7 +14,7 @@ Silk Road Founder&#8217;s Mother Speaks Out
     
     <p>In this video Luke Rudkowski has an emotional conversation with the mother of Ross Ulbricht, Silk Road&#8217;s founder who is currently in prison. This particular case is very unique and we are witnessing our legal system adapt to the evolution of the internet. For more information on this historical case and the legal defense fund please visit FreeRoss.org</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/founders/" rel="tag">founders</a> <a href="https://www.deepdotweb.com/tag/mother/" rel="tag">mother</a>  <a href="https://www.deepdotweb.com/tag/speaks/" rel="tag">speaks</a></span> <span style="display:none" class="updated">2014-03-21</span>
+    <a href="https://www.deepdotweb.com/tag/founders/" rel="tag">founders</a> <a href="https://www.deepdotweb.com/tag/mother/" rel="tag">mother</a>  <a href="https://www.deepdotweb.com/tag/speaks/" rel="tag">speaks</a></span> <span style="display:none" class="updated">2014-03-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

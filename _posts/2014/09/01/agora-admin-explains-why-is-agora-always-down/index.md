@@ -38,7 +38,7 @@ Agora Admin Explains: Why is Agora Always down?
     <p><a href="/imgs/2014/09/agora-Downtimes2.png"><img class="aligncenter  wp-image-6927" src="/imgs/2014/09/agora-Downtimes2.png" alt="agora-Downtimes2" width="702" height="409" srcset="/imgs/2014/09/agora-Downtimes2.png 1148w, /imgs/2014/09/agora-Downtimes2-300x175.png 300w, /imgs/2014/09/agora-Downtimes2-1024x597.png 1024w" sizes="(max-width: 702px) 100vw, 702px" /></a></p>
     <p>From now on we will provide this post as an explanation every time that some one will mail us asking about the market being down.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/explains/" rel="tag">explains</a></span> <span style="display:none" class="updated">2014-09-01</span>
+    <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/explains/" rel="tag">explains</a></span> <span style="display:none" class="updated">2014-09-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

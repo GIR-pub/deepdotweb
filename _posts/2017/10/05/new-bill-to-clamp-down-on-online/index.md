@@ -23,7 +23,7 @@ Experts: &#8220;Stop Enabling Sex Traffickers Act&#8221; Will Drive Traffickers 
 <p>According to Senator Portman, numerous senators are supporting his bill, however, not the tech giants Facebook and Google. According to a Google spokesperson, the legislation is “overly-broad” and the company seeks to rework the bill with the lawmakers to narrow the proposal’s scope.</p>
 <p>“Look, they said they have concerns about internet freedom. There’s nothing in this legislation that would affect my freedom as an internet user, unless I’m assisting people in trafficking,” Senator Portman said, adding that he hopes the two companies will come on-board with his proposal.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/experts/" rel="tag">experts</a></span> <span style="display:none" class="updated">2017-10-05<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/experts/" rel="tag">experts</a></span> <span style="display:none" class="updated">2017-10-05<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>
 

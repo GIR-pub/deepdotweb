@@ -41,7 +41,7 @@ Bitcoin price analysis November 12
     <p>The 2 red arrows in the chart above indicate the 2 possible scenarios. Eventually, both result in a similar bearish forecast.</p>
     <p><em>“It&#8217;s difficult to remain patient when prices rise like this which creates lots of excitement and generates attention. I believe this is an important time to remain disciplined and plan your entries on pull backs. The best buying opportunity may still be coming&#8230;&#8221;</em></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/november/" rel="tag">november</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-11-12</span>
+    <a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/november/" rel="tag">november</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-11-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

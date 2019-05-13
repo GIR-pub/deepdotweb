@@ -43,7 +43,7 @@ Maryland Bill To Decriminalize Drugs
     <p>Regarding citations, the bill states that “official record of a court regarding the citation are not subject to public inspection and may not be included on the public Web site maintained by the Maryland Judiciary.”</p>
     <p>The bill aims to take effect October 1, 2016.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/decriminalize/" rel="tag">decriminalize</a>  <a href="https://www.deepdotweb.com/tag/maryland/" rel="tag">maryland</a></span> <span style="display:none" class="updated">2016-02-25</span>
+    <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/decriminalize/" rel="tag">decriminalize</a>  <a href="https://www.deepdotweb.com/tag/maryland/" rel="tag">maryland</a></span> <span style="display:none" class="updated">2016-02-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

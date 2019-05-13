@@ -31,7 +31,7 @@ North Dakota Man Serving Three Years for Buying Carfentanil on Alphabay
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/buying/" rel="tag">buying</a> <a href="https://www.deepdotweb.com/tag/carfentanil/" rel="tag">carfentanil</a> <a href="https://www.deepdotweb.com/tag/dakota/" rel="tag">dakota</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/north/" rel="tag">north</a> <a href="https://www.deepdotweb.com/tag/serving/" rel="tag">serving</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span>				<span style="display:none" class="updated">2017-09-05</span>
+    <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/buying/" rel="tag">buying</a> <a href="https://www.deepdotweb.com/tag/carfentanil/" rel="tag">carfentanil</a> <a href="https://www.deepdotweb.com/tag/dakota/" rel="tag">dakota</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/north/" rel="tag">north</a> <a href="https://www.deepdotweb.com/tag/serving/" rel="tag">serving</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span>				<span style="display:none" class="updated">2017-09-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

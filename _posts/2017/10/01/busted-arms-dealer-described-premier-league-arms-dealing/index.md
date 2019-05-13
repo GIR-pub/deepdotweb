@@ -31,7 +31,7 @@ Busted Arms Dealer described to be in the “Premier League” of Arms Dealing
     <p>Judge Peter Carr, who handed the sentences at the Birmingham Crown Court stated that, purchasing guns had cost Khan over £50,000, and that the grenade he bought was addressed to a woman with two children with the dangers “all too apparent.”</p>
     <p>He then described the two as being in the ’Premier League’ of <a href="https://www.deepdotweb.com/2017/06/27/fsb-arrested-68-year-old-firearm-buyer/">firearms</a> suppliers.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a>   <a href="https://www.deepdotweb.com/tag/dealing/" rel="tag">dealing</a> <a href="https://www.deepdotweb.com/tag/league/" rel="tag">league</a> <a href="https://www.deepdotweb.com/tag/premier/" rel="tag">premier</a></span> <span style="display:none" class="updated">2017-10-01</span>
+    <a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a>   <a href="https://www.deepdotweb.com/tag/dealing/" rel="tag">dealing</a> <a href="https://www.deepdotweb.com/tag/league/" rel="tag">league</a> <a href="https://www.deepdotweb.com/tag/premier/" rel="tag">premier</a></span> <span style="display:none" class="updated">2017-10-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
     </div>
 </article>

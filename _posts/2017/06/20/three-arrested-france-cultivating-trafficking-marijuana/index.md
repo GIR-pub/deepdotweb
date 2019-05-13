@@ -25,7 +25,7 @@ Three Arrested In France For Cultivating And Trafficking Marijuana
     <p>A representative of the customs office recommended the court to fine the man for 2,826 euros, “which is the value of what has been seized&#8221;. In addition, the prosecution requested a 6-month prison sentence along with a suspended sentence.</p>
     <p>The criminal court sentenced the defendant to one year of suspended prison sentence, and he has to pay 2,826 euros to the customs office.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/cultivating/" rel="tag">cultivating</a> <a href="https://www.deepdotweb.com/tag/france/" rel="tag">france</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-06-20</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/cultivating/" rel="tag">cultivating</a> <a href="https://www.deepdotweb.com/tag/france/" rel="tag">france</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-06-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

@@ -26,7 +26,7 @@ The Darkmail Alliance
 <p>Issue with Darkmail would be backwards compatibility since it’s a completely new email protocol it will be incompatible with current email system. This will have to be bridged by darkmail gateways. Some darkmail providers would offer an email gateway to facilitate for a darkmail email to be sent out into the normal e-mail system using SMTP etc.</p>
 <p>Darkmail offers flexible user-security with a basic level of encryption and security built into the protocol. Administrators setting up DIME can specify additional ciphers and encryption methods to deploy in order to secure the email and the DIME protocol would wrap it all in the baseline encryption that’s known to be secure.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/alliance/" rel="tag">alliance</a> <a href="https://www.deepdotweb.com/tag/darkmail/" rel="tag">darkmail</a></span> <span style="display:none" class="updated">2015-02-25<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/alliance/" rel="tag">alliance</a> <a href="https://www.deepdotweb.com/tag/darkmail/" rel="tag">darkmail</a></span> <span style="display:none" class="updated">2015-02-25<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
 </div>
 </article>
 

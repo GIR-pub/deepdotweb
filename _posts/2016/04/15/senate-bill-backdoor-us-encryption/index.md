@@ -21,7 +21,7 @@ Senate Bill To Backdoor US Encryption
     <p>“This bill is a clear threat to everyone’s privacy and security. Instead of heeding the warnings of experts, the senators have written a bill that ignores economic, security, and technical reality, It would force companies to deliberately weaken the security of their products by providing backdoors into the devices and services that everyone relies on. Senators Burr and Feinstein should abandon their efforts to create a government backdoor.”</p>
     <p>You can find the draft of the Senate Bill in its entirety <a href="https://cryptome.org/2016/04/burr-decrypt-draft.pdf">here</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/backdoor/" rel="tag">backdoor</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a></span> <span style="display:none" class="updated">2016-04-15</span>
+    <a href="https://www.deepdotweb.com/tag/backdoor/" rel="tag">backdoor</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a></span> <span style="display:none" class="updated">2016-04-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

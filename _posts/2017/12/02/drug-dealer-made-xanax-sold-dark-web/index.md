@@ -24,7 +24,7 @@ Drug Dealer Made Xanax and Sold It on the Dark Web.
     <p>Authorities were later able to access Yensan’s bitcoins account and found the equivalent of $715,150 in it. In addition to the bitcoins, federal authorities also seized Yensan’s firearms and ammunition, a 2014 Chevrolet Colorado pickup, a 2014 corvette, two jet skis, the three pill presses from the storage unit and cash found at his home as proceeds from his alleged drug activity.</p>
     <p>Yensan is currently being held in the Franklin County jail awaiting trial.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>   <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2017-12-02</span>
+    <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>   <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2017-12-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/eddiem/" title="Posts by Eddie. M." rel="author">Eddie. M.</a></strong></div>
     </div>
 </article>

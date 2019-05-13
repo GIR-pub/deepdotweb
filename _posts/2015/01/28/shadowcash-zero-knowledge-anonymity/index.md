@@ -50,7 +50,7 @@ Shadowcash Hits Zero-Knowledge Jackpot with Casino-style Anonymity
     <p><a href="/imgs/2015/01/shadowops.jpg"><img class="aligncenter wp-image-8926" src="/imgs/2015/01/shadowops.jpg" alt="shadowops" width="908" height="584" srcset="/imgs/2015/01/shadowops.jpg 1400w, /imgs/2015/01/shadowops-300x193.jpg 300w, /imgs/2015/01/shadowops-1024x658.jpg 1024w" sizes="(max-width: 908px) 100vw, 908px" /></a></p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/casinostyle/" rel="tag">casinostyle</a> <a href="https://www.deepdotweb.com/tag/enabling/" rel="tag">enabling</a> <a href="https://www.deepdotweb.com/tag/shadowcashs/" rel="tag">shadowcashs</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/zeroknowledge/" rel="tag">zeroknowledge</a></span> <span style="display:none" class="updated">2015-01-28</span>
+    <a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/casinostyle/" rel="tag">casinostyle</a> <a href="https://www.deepdotweb.com/tag/enabling/" rel="tag">enabling</a> <a href="https://www.deepdotweb.com/tag/shadowcashs/" rel="tag">shadowcashs</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/zeroknowledge/" rel="tag">zeroknowledge</a></span> <span style="display:none" class="updated">2015-01-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

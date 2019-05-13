@@ -37,7 +37,7 @@ Africa&#8217;s Frontier Economies Chomp at the Bitcoin​
     <p>This has not stopped bitcoin growth, rather, has shifted market making activity to peer to peer free markets, like localbitcoins. Digital wallets stimulate free exchange peer to peer markets to thrive. It seems, people are now trading amongst themselves, using their Mpesa wallets to make fiat transfers. You can tell from the <a href="https://localbitcoins.com/places/11450020/nairobi-kenya/">listings</a> on LBC.</p>
     <p>No doubt, Nigeria and Kenya, the two largest frontier economies in West and East africa, will lead bitcoin adoption in Africa. Watch this space.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/africas/" rel="tag">africas</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/chomp/" rel="tag">chomp</a> <a href="https://www.deepdotweb.com/tag/economies/" rel="tag">economies</a> <a href="https://www.deepdotweb.com/tag/frontier/" rel="tag">frontier</a></span> <span style="display:none" class="updated">2016-02-26</span>
+    <a href="https://www.deepdotweb.com/tag/africas/" rel="tag">africas</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/chomp/" rel="tag">chomp</a> <a href="https://www.deepdotweb.com/tag/economies/" rel="tag">economies</a> <a href="https://www.deepdotweb.com/tag/frontier/" rel="tag">frontier</a></span> <span style="display:none" class="updated">2016-02-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

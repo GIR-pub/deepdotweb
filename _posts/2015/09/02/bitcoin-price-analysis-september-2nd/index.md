@@ -34,7 +34,7 @@ Bitcoin Price Analysis September 2nd
 <p><a href="/imgs/2015/09/5.jpg"><img class="aligncenter size-full wp-image-11409" src="/imgs/2015/09/5.jpg" alt="5" width="915" height="342" srcset="/imgs/2015/09/5.jpg 915w, /imgs/2015/09/5-300x112.jpg 300w" sizes="(max-width: 915px) 100vw, 915px" /></a></p>
 <p>The overall bearish expectations still loom, as per this chart from whaleclub.co with market currently trading in the red rectangle zone. Thus, while higher prices in the short term are probable, the larger price pattern is tending to testing sub $ 200 prices. I will discuss this real possibility in a dedicated post later this week.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/2nd/" rel="tag">2nd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a></span> <span style="display:none" class="updated">2015-09-02<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/2nd/" rel="tag">2nd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a></span> <span style="display:none" class="updated">2015-09-02<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
 </div>
 </article>
 

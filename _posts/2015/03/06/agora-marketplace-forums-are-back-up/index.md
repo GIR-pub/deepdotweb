@@ -12,4 +12,4 @@ Agora Marketplace Forums are Back up
 <p>After long weeks of downtime &#8211; <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora Marketplace</a> forums are back up: <strong>http://lacbzxobeprssrfx.onion</strong></p>
 <p>Even though these forums are mostly referral link spam  &#8211; Marketplace forums remains the best way to get honest reviews about vendors / products and avoid scammers.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a></span> <span style="display:none" class="updated">2015-03-06
+<a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a></span> <span style="display:none" class="updated">2015-03-06

@@ -26,7 +26,7 @@ Wendelstein Man Facing Court For Ordering Drugs From Dark Web
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/facing/" rel="tag">facing</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/wendelstein/" rel="tag">wendelstein</a></span>				<span style="display:none" class="updated">2016-01-29</span>
+    <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/facing/" rel="tag">facing</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/wendelstein/" rel="tag">wendelstein</a></span>				<span style="display:none" class="updated">2016-01-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     

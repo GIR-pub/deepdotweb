@@ -76,7 +76,7 @@ The Ups and Downs of Dark Net Markets
     </ul>
     <p>When packages don’t turn it up things can turn into a nightmare quickly. You don’t know who to blame or why but you know that your product most definitely won’t be turning up any time soon. This is one area of ordering from dark net markets which make considering this aspect a very important one before ordering from flagged countries, destinations and addresses, the legal implications of getting caught with drugs that were shipped to you could be life changing.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/downs/" rel="tag">downs</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/ups/" rel="tag">ups</a></span> <span style="display:none" class="updated">2016-06-06</span>
+    <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/downs/" rel="tag">downs</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/ups/" rel="tag">ups</a></span> <span style="display:none" class="updated">2016-06-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/a-grey/" title="Posts by a.grey" rel="author">a.grey</a></strong></div>
     </div>
 </article>

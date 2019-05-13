@@ -22,7 +22,7 @@ Judge Says Lux Seems To Be ”From Another Planet”
     <p>&#8220;How any human can view that impassively &#8230; the infant was being tortured, actual physical torture, an extremely trusting, vulnerable child who begins smiling wearing a nappy and ends a wailing physical wreck. I have seen some shocking things over the journey of my career and I have never seen anything like that.&#8221;</p>
     <p>Graham will be sentenced by Judge Tinney on March 17.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/lux/" rel="tag">lux</a> <a href="https://www.deepdotweb.com/tag/planet/" rel="tag">planet</a></span> <span style="display:none" class="updated">2016-03-01</span>
+    <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/lux/" rel="tag">lux</a> <a href="https://www.deepdotweb.com/tag/planet/" rel="tag">planet</a></span> <span style="display:none" class="updated">2016-03-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

@@ -18,7 +18,7 @@ Tor Welcomes New Executive Director To The Project
     <p>”Tor is part of a larger family of civil liberties organizations, and this move makes it clear that Tor is a main figure in that family. Nick and I will focus short-term on shepherding a smooth transition out of our &#8220;interim&#8221; roles, and after that we are excited to get back to our old roles actually doing technical work. I&#8217;ll let Shari pick up the conversation from here, in her upcoming blog post.”</p>
     <p>”Please everybody join me in welcoming Shari!”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/director/" rel="tag">director</a> <a href="https://www.deepdotweb.com/tag/executive/" rel="tag">executive</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a>  <a href="https://www.deepdotweb.com/tag/welcomes/" rel="tag">welcomes</a></span> <span style="display:none" class="updated">2015-12-18</span>
+    <a href="https://www.deepdotweb.com/tag/director/" rel="tag">director</a> <a href="https://www.deepdotweb.com/tag/executive/" rel="tag">executive</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a>  <a href="https://www.deepdotweb.com/tag/welcomes/" rel="tag">welcomes</a></span> <span style="display:none" class="updated">2015-12-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

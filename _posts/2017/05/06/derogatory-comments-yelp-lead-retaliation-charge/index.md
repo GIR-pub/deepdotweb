@@ -31,7 +31,7 @@
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/charge/" rel="tag">charge</a> <a href="https://www.deepdotweb.com/tag/comments/" rel="tag">comments</a> <a href="https://www.deepdotweb.com/tag/derogatory/" rel="tag">derogatory</a> <a href="https://www.deepdotweb.com/tag/lead/" rel="tag">lead</a> <a href="https://www.deepdotweb.com/tag/retaliation/" rel="tag">retaliation</a> <a href="https://www.deepdotweb.com/tag/yelp/" rel="tag">yelp</a></span>				<span style="display:none" class="updated">2017-05-06</span>
+    <a href="https://www.deepdotweb.com/tag/charge/" rel="tag">charge</a> <a href="https://www.deepdotweb.com/tag/comments/" rel="tag">comments</a> <a href="https://www.deepdotweb.com/tag/derogatory/" rel="tag">derogatory</a> <a href="https://www.deepdotweb.com/tag/lead/" rel="tag">lead</a> <a href="https://www.deepdotweb.com/tag/retaliation/" rel="tag">retaliation</a> <a href="https://www.deepdotweb.com/tag/yelp/" rel="tag">yelp</a></span>				<span style="display:none" class="updated">2017-05-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

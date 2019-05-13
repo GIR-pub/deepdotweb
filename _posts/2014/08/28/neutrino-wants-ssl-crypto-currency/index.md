@@ -42,7 +42,7 @@ Neutrino Wants To Be The SSL Of Crypto-Currency
     <li>Wallet &#8211; <a href="http://www.neutrinocoin.org/download-neutrino-wallet">http://www.neutrinocoin.org/download-neutrino-wallet</a></li>
     </ul>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/neutrino/" rel="tag">neutrino</a> <a href="https://www.deepdotweb.com/tag/ssl/" rel="tag">ssl</a></span> <span style="display:none" class="updated">2014-08-28</span>
+    <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/neutrino/" rel="tag">neutrino</a> <a href="https://www.deepdotweb.com/tag/ssl/" rel="tag">ssl</a></span> <span style="display:none" class="updated">2014-08-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     </div>
 </article>

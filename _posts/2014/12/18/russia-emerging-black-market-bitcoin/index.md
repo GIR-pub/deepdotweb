@@ -34,7 +34,7 @@ Russia Emerging Black Market For Bitcoin
     <p><strong>Give Them Hell</strong></p>
     <p>Well we are sad to see the Russian government be so tyrannical towards bitcoin, but we can’t to see the innovative solutions Russian black market entrepreneurs come up with. While Russia may be the first to such things, your European neighbors will soon join you as <a title="ITOM Revealed: Europe’s Plan To Crack Down On The Online Drug Trade" href="http://www.deepdotweb.com/2014/09/28/itom-europes-plan-crack-online-drug-trade/">ITOM</a> regulations take effect, but you will have pioneered this industry by then. We salute you and wish the best of luck with resisting financial oppression.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/emerging/" rel="tag">emerging</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2014-12-18</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/emerging/" rel="tag">emerging</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2014-12-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     </div>
 </article>

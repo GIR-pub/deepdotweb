@@ -19,7 +19,7 @@ Swiss Man Arrested For Running a Known Scam Site
     <p>In addition to the ongoing US investigation, Swiss authorities are pursuing prosecution against the suspect for proposing the sale of illegal products. &#8220;The fact that this happens on the internet does not diminish the seriousness of the criminal offense prosecuted ex officio,” says Yves Nicolet. “The suspect faces a custodial sentence.&#8221;</p>
     <p>Authorities have not released the name of the “Black Market” administrator.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span> <span style="display:none" class="updated">2014-11-19</span>
+    <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span> <span style="display:none" class="updated">2014-11-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

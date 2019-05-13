@@ -136,7 +136,7 @@ VPN Secure Review
     <p>In completing our VPN Secure Review we found that it is a great solution for both privacy and security and it is best fitted for light users that are not up to much mischief. Their support is quite good while also having a pretty competitive pricing structure. They are a good choice for a VPN and are really gaining some traction in the market. Be warned though, if you are into some serious business on the deep web then this is probably not for you.</p>
     <p><a href="https://www.vpnsecure.me/?xyz=2387" target="_blank" rel="nofollow"><strong>&gt;&gt; Click HERE to Visit the VPNSecure Official Site</strong></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-02-16</span>
+    <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-02-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

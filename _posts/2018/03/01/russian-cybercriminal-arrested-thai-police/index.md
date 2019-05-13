@@ -26,7 +26,7 @@ Russian Cybercriminal arrested by Thai Police
 <p>Infraud had been under the radar of U.S. officials for several years but started arresting suspects only recently, according to Thai Police Maj. Rattanamongkolsak. According to him, U.S. officials started to build a case against Infraud Organization in 2014 after an undercover agent was tasked with becoming a member of the dark web marketplace by a U.S. Homeland Security Officer.</p>
 <p>Maj. Rattanamongkolsak, however, refused to give any additional details, saying this is an international police matter and therefore new details will be soon unveiled.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/cybercriminal/" rel="tag">cybercriminal</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/thai/" rel="tag">thai</a></span> <span style="display:none" class="updated">2018-03-01<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/cybercriminal/" rel="tag">cybercriminal</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/thai/" rel="tag">thai</a></span> <span style="display:none" class="updated">2018-03-01<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
 </div>
 </article>
 

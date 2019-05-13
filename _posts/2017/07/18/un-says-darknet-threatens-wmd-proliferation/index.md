@@ -25,7 +25,7 @@ UN Says the Darknet Threatens WMD Proliferation
     <p>If the next attack caused more damage than NotPetya to a nuclear facility, the fallout could be far worse. Representatives agreed that a framework that included regulation for <a href="https://www.deepdotweb.com/tag/cybersecurity">modern criminal activity</a>.</p>
     <p>Therefore, Nakamitsu proposed, “the international community must prosecute all those responsible for supporting terrorist actions.” She called for tighter regulations regarding dual use material and technologies; more focus on “enforcement” measures; international discussion on finances; and rules for national exportation and border control.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/proliferation/" rel="tag">proliferation</a> <a href="https://www.deepdotweb.com/tag/threatens/" rel="tag">threatens</a> <a href="https://www.deepdotweb.com/tag/wmd/" rel="tag">wmd</a></span> <span style="display:none" class="updated">2017-07-18</span>
+    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/proliferation/" rel="tag">proliferation</a> <a href="https://www.deepdotweb.com/tag/threatens/" rel="tag">threatens</a> <a href="https://www.deepdotweb.com/tag/wmd/" rel="tag">wmd</a></span> <span style="display:none" class="updated">2017-07-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

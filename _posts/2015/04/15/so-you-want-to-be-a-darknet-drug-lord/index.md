@@ -49,7 +49,7 @@ So, You Want To Be a Darknet Drug Lord&#8230;
     <p>Take-away: If you rely only on tor to protect yourself, you&#8217;re going to get owned and people like me are going to laugh at you. Remember that someone out there is always watching, and know when to walk away. Do try to stay safe while breaking the law. In the words of Sam Spade, &#8220;Success to crime!&#8221;</p>
     <p><strong>Original Source</strong>: <a href="http://pastebin.com/index/GrV3uYh5">http://pastebin.com/index/GrV3uYh5</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/lord/" rel="tag">lord</a></span> <span style="display:none" class="updated">2015-04-15</span>
+    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/lord/" rel="tag">lord</a></span> <span style="display:none" class="updated">2015-04-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

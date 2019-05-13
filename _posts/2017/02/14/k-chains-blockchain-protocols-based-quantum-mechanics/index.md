@@ -69,7 +69,7 @@ K-Chains &#8211; Blockchain Protocols Based On Quantum Mechanics
     </table>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/kchains/" rel="tag">kchains</a> <a href="https://www.deepdotweb.com/tag/mechanics/" rel="tag">mechanics</a> <a href="https://www.deepdotweb.com/tag/protocols/" rel="tag">protocols</a> <a href="https://www.deepdotweb.com/tag/quantum/" rel="tag">quantum</a></span> <span style="display:none" class="updated">2017-02-14</span>
+    <a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/kchains/" rel="tag">kchains</a> <a href="https://www.deepdotweb.com/tag/mechanics/" rel="tag">mechanics</a> <a href="https://www.deepdotweb.com/tag/protocols/" rel="tag">protocols</a> <a href="https://www.deepdotweb.com/tag/quantum/" rel="tag">quantum</a></span> <span style="display:none" class="updated">2017-02-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

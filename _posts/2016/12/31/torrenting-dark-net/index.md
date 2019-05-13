@@ -50,7 +50,7 @@ Torrenting on the Dark Net
     <p>If your primary goal is simply downloading the .torrent file, then Tor is the best option. Tor allows users to download .torrent files fast but isn’t suitable for connecting to peers due to its low bandwidth capability.</p>
     <p>In any case, it is extremely hard for public torrent sites on Tor or I2p to sustain themselves due to the decreased amounts of ad revenue. Furthermore, torrents on the Dark Net will have less peers due to the complicated methods needed to access them. No matter the option you choose: Happy Torrenting!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/torrenting/" rel="tag">torrenting</a></span> <span style="display:none" class="updated">2016-12-31</span>
+    <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/torrenting/" rel="tag">torrenting</a></span> <span style="display:none" class="updated">2016-12-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/astrogeek20/" title="Posts by astrogeek20" rel="author">astrogeek20</a></strong></div>
     </div>
 </article>

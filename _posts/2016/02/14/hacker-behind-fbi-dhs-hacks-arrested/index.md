@@ -23,7 +23,7 @@ Hacker Behind FBI, DHS Hacks Arrested
     <p>“Zoom”, a member of CWA, added to the discussion saying the snitch was “definitely someone who knew Cracka for a few years.”</p>
     <p>Cubed had thought he would be next to be arrested after Cracka, that hasn&#8217;t happened and he now plans to “hack the planet”.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/dhs/" rel="tag">dhs</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/hacks/" rel="tag">hacks</a></span> <span style="display:none" class="updated">2016-02-14</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/dhs/" rel="tag">dhs</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/hacks/" rel="tag">hacks</a></span> <span style="display:none" class="updated">2016-02-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

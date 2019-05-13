@@ -38,7 +38,7 @@ A New Model For Incentivizing Producers of Renewable Energy Via Ethereum&#8217;s
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a> <a href="https://www.deepdotweb.com/tag/ethereums/" rel="tag">ethereums</a> <a href="https://www.deepdotweb.com/tag/incentivizing/" rel="tag">incentivizing</a> <a href="https://www.deepdotweb.com/tag/model/" rel="tag">model</a> <a href="https://www.deepdotweb.com/tag/producers/" rel="tag">producers</a> <a href="https://www.deepdotweb.com/tag/renewable/" rel="tag">renewable</a></span>				<span style="display:none" class="updated">2016-12-31</span>
+    <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a> <a href="https://www.deepdotweb.com/tag/ethereums/" rel="tag">ethereums</a> <a href="https://www.deepdotweb.com/tag/incentivizing/" rel="tag">incentivizing</a> <a href="https://www.deepdotweb.com/tag/model/" rel="tag">model</a> <a href="https://www.deepdotweb.com/tag/producers/" rel="tag">producers</a> <a href="https://www.deepdotweb.com/tag/renewable/" rel="tag">renewable</a></span>				<span style="display:none" class="updated">2016-12-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     
     

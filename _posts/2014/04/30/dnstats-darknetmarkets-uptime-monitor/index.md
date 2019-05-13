@@ -57,7 +57,7 @@ Dnstats &#8211; DarkNetMarkets Uptime Monitor!
     <p><a href="/imgs/2014/04/btcfog.png"><img class="aligncenter  wp-image-5166" src="/imgs/2014/04/btcfog.png" alt="btcfog" width="771" height="459" srcset="/imgs/2014/04/btcfog.png 1501w, /imgs/2014/04/btcfog-300x179.png 300w, /imgs/2014/04/btcfog-1024x610.png 1024w" sizes="(max-width: 771px) 100vw, 771px"/></a></p>
     <p>To the developer &#8211; Thanks you! great contribution.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/dnstats/" rel="tag">dnstats</a> <a href="https://www.deepdotweb.com/tag/monitor/" rel="tag">monitor</a> <a href="https://www.deepdotweb.com/tag/uptime/" rel="tag">uptime</a></span> <span style="display:none" class="updated">2014-04-30</span>
+    <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/dnstats/" rel="tag">dnstats</a> <a href="https://www.deepdotweb.com/tag/monitor/" rel="tag">monitor</a> <a href="https://www.deepdotweb.com/tag/uptime/" rel="tag">uptime</a></span> <span style="display:none" class="updated">2014-04-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

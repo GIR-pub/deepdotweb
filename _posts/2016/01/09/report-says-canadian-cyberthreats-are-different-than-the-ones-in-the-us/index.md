@@ -19,7 +19,7 @@ Report Says Canadian Cyberthreats Are Different Than The Ones In The US
     <p>“If you have a mature marketplace where you can buy what you need there&#8217;s no need to build a new one.”</p>
     <p>The Canadian side of the dark web is mostly focusing on the sales of fake and stolen documents and information.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/canadian/" rel="tag">canadian</a> <a href="https://www.deepdotweb.com/tag/cyberthreats/" rel="tag">cyberthreats</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2016-01-09</span>
+    <a href="https://www.deepdotweb.com/tag/canadian/" rel="tag">canadian</a> <a href="https://www.deepdotweb.com/tag/cyberthreats/" rel="tag">cyberthreats</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2016-01-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

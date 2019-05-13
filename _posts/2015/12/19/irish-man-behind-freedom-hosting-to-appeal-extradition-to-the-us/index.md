@@ -16,7 +16,7 @@ Freedom Hosting: High Court grants extradition of Irishman to US
 <p>Marques has been arrested on August 2013 and remained in custody until then. He was back in court today where Justice Aileen Donnelly told the man her decision in the case: she ordered Marques’ extradition to the United States</p>
 <p>Justice Aileen Donnelly decided it did not ”infringe on his human or constitutional rights”, and also ruled a decision by the Director of Public Prosecutions (DPP) not to prosecute Marques in Ireland is not reviewable.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/extradited/" rel="tag">extradited</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a></span> <span style="display:none" class="updated">2015-12-19<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/extradited/" rel="tag">extradited</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a></span> <span style="display:none" class="updated">2015-12-19<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>
 

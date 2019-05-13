@@ -73,7 +73,7 @@ Man In The Middle Attacks
     <p>SSL is a good protocol because it forces an attacker to do a lot of work if he wants to sniff on your confidential data, but it doesn&#8217;t guard you from state-sponsored attacks or skilled hacking organizations.</p>
     <p>As a regular privacy-concerned internet user, your job is to protect your browser and personal computer to prevent inserting fake certificates as trusted (very common technique). The other thing you should consider is going through the list of trusted Certificate Authorities and removing those you don&#8217;t trust.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/middle/" rel="tag">middle</a></span> <span style="display:none" class="updated">2016-10-10</span>
+    <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/middle/" rel="tag">middle</a></span> <span style="display:none" class="updated">2016-10-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
     </div>
 </article>

@@ -32,7 +32,7 @@ British Student Jailed For Creating DDoS Tool And Selling It To Cybercriminals
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/british/" rel="tag">british</a> <a href="https://www.deepdotweb.com/tag/creating/" rel="tag">creating</a> <a href="https://www.deepdotweb.com/tag/cybercriminals/" rel="tag">cybercriminals</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/tool/" rel="tag">tool</a></span>				<span style="display:none" class="updated">2017-05-10</span>
+    <a href="https://www.deepdotweb.com/tag/british/" rel="tag">british</a> <a href="https://www.deepdotweb.com/tag/creating/" rel="tag">creating</a> <a href="https://www.deepdotweb.com/tag/cybercriminals/" rel="tag">cybercriminals</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/tool/" rel="tag">tool</a></span>				<span style="display:none" class="updated">2017-05-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     

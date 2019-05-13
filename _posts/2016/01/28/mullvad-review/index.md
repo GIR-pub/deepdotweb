@@ -115,7 +115,7 @@ Mullvad Review
     <p>Mullvad needs to locate more servers for global coverage. They should incorporate live chat and IM options to strengthen their support mechanism. All in all, Mullvad service is of high quality and there’s still room for improvement.</p>
     <p><a href="https://mullvad.net/" target="_blank" rel="nofollow"><strong>&gt;&gt; Click HERE to Visit the Mullvad Official Site</strong></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/mullvad/" rel="tag">mullvad</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-28</span>
+    <a href="https://www.deepdotweb.com/tag/mullvad/" rel="tag">mullvad</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

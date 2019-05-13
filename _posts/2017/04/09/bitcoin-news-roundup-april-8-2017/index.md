@@ -58,7 +58,7 @@ Bitcoin news roundup, April 8, 2017
     <p><strong>Bitcoin at $1183.83, as market cap reaches $19 billion</strong></p>
     <p>Bitcoin is now a legal method of payment in Japan and even though the scaling debate rages on, the currency’s price is rising. It has reached $1200 in some exchanges, and according to data from <a href="https://coinmarketcap.com/currencies/bitcoin/">CoinMarketCap</a> one bitcoin is now worth $1183.83. Fears of a possible hard fork seem to be dissipating, as according to investors the price trend appears to show investors are confident in bitcoin.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/april/" rel="tag">april</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2017-04-09</span>
+    <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/april/" rel="tag">april</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2017-04-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
     </div>
 </article>

@@ -33,7 +33,7 @@ Judge Rejects Defense That FBI Illegally Hacked Silk Road
     <p><iframe id="doc_21806" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/242560546/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     <p><strong>Article Source</strong>: <a href="http://www.wired.com/2014/10/silk-road-judge-technicality/" target="_blank">http://www.wired.com/2014/10/silk-road-judge-technicality/</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/illegally/" rel="tag">illegally</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/rejects/" rel="tag">rejects</a> </span> <span style="display:none" class="updated">2014-10-11</span>
+    <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/illegally/" rel="tag">illegally</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/rejects/" rel="tag">rejects</a> </span> <span style="display:none" class="updated">2014-10-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

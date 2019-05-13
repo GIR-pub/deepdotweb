@@ -105,7 +105,7 @@ Alphabay: Introducing New wallet security measures
     </div>
     
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/measures/" rel="tag">measures</a>  <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> <span style="display:none" class="updated">2016-02-28</span>
+    <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/measures/" rel="tag">measures</a>  <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> <span style="display:none" class="updated">2016-02-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

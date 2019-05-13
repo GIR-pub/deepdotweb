@@ -38,7 +38,7 @@
 <p><a href="/imgs/2015/08/61.jpg"><img class="aligncenter  wp-image-11260" src="/imgs/2015/08/61.jpg" alt="6" width="953" height="476" srcset="/imgs/2015/08/61.jpg 1205w, /imgs/2015/08/61-300x150.jpg 300w, /imgs/2015/08/61-1024x512.jpg 1024w, /imgs/2015/08/61-660x330.jpg 660w, /imgs/2015/08/61-995x498.jpg 995w" sizes="(max-width: 953px) 100vw, 953px"/></a></p>
 <p>Safe to say the market is in a decisive zone.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/12th/" rel="tag">12th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-08-12<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/12th/" rel="tag">12th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-08-12<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
 </div>
 </article>
 

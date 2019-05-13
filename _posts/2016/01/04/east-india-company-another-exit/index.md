@@ -17,7 +17,7 @@ East India Company: Another Exit Scam?
     <p><img class="aligncenter" src="/imgs/2014/07/gone1.jpg" alt="" width="480" height="360"/></p>
     <p>Is it really gone? exit scammed? will be back within couple of weeks? time will tell, for now we&#8217;ll just assume they are another example for the dark net markets most profitable industry &#8211; <a href="https://www.deepdotweb.com/2014/03/02/deepdotwebs-darknet-dictionary/">exit scams</a>. This post will be updated if new information will surface.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/company/" rel="tag">company</a> <a href="https://www.deepdotweb.com/tag/east/" rel="tag">east</a> <a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a></span> <span style="display:none" class="updated">2016-01-04</span>
+    <a href="https://www.deepdotweb.com/tag/company/" rel="tag">company</a> <a href="https://www.deepdotweb.com/tag/east/" rel="tag">east</a> <a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a></span> <span style="display:none" class="updated">2016-01-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

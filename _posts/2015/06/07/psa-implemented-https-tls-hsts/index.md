@@ -15,7 +15,7 @@ PSA: Implemented HTTPS, TLS &#038; HSTS
     <p>Reminder &#8211; For better security please access the site using our new <a href="https://www.deepdotweb.com/2015/06/06/psa-deepdotwebs-new-onion-gateway/">Onion url</a>: <span style="text-decoration: underline;"><strong>http://rtz6kznga4anujwu.onion</strong></span></p>
     <p>Please let us know if you find any technical issue that requires attention.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hsts/" rel="tag">hsts</a> <a href="https://www.deepdotweb.com/tag/https/" rel="tag">https</a> <a href="https://www.deepdotweb.com/tag/implemented/" rel="tag">implemented</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a> <a href="https://www.deepdotweb.com/tag/tls/" rel="tag">tls</a></span> <span style="display:none" class="updated">2015-06-07</span>
+    <a href="https://www.deepdotweb.com/tag/hsts/" rel="tag">hsts</a> <a href="https://www.deepdotweb.com/tag/https/" rel="tag">https</a> <a href="https://www.deepdotweb.com/tag/implemented/" rel="tag">implemented</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a> <a href="https://www.deepdotweb.com/tag/tls/" rel="tag">tls</a></span> <span style="display:none" class="updated">2015-06-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

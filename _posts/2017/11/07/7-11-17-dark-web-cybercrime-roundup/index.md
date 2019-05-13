@@ -33,7 +33,7 @@
     <p>He closed:</p>
     <p>“<em>Drug market violence is not good for business and the harms may spill onto those uninvolved. It has repercussions and it draws law enforcement attention. If PhishKingz is to blame for the </em><a href="https://www.deepdotweb.com/2017/10/15/traderoutesecurityleak/"><em>Traderoute exit scam</em></a><em>, what happened last week is parallel to what happens in drug markets: Violence spills over and everybody loses</em>.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/71117/" rel="tag">71117</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-11-07</span>
+    <a href="https://www.deepdotweb.com/tag/71117/" rel="tag">71117</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-11-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

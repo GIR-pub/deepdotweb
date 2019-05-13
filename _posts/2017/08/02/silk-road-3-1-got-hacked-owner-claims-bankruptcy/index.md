@@ -43,7 +43,7 @@ Silk Road 3.1 “Got Hacked,” Owner Claims Bankruptcy
     <p><em>AW.</em>”</p>
     <p>The Reddit user, Skillzy2017, closed the IP address post with a fairly common threat, following an exit scam. “To SR mods, admins, if any see this: I won&#8217;t leak the IPs if you put up the market and let people get their funds, If not I will.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/31/" rel="tag">31</a> <a href="https://www.deepdotweb.com/tag/bankruptcy/" rel="tag">bankruptcy</a> <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> </span> <span style="display:none" class="updated">2017-08-02</span>
+    <a href="https://www.deepdotweb.com/tag/31/" rel="tag">31</a> <a href="https://www.deepdotweb.com/tag/bankruptcy/" rel="tag">bankruptcy</a> <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> </span> <span style="display:none" class="updated">2017-08-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

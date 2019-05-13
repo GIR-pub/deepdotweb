@@ -68,7 +68,7 @@ Interview: The Evolution Of a Veteran Dark Market Dweller #2
 <p>DT: We’re getting beyond the scope of the interview here, but let me answer that like this &#8211; I have people for that, the money has been in bank accounts in a number of places for a long time. I am a legitimate businessman. And also, fuck the IRS. Be sure you quote me on that word for word. “FUCK – THE – I-R-S”</p>
 <p><strong>The second part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/veterandarkmarketdweller/" rel="tag">VeteranDarkMarketDweller</a></span> <span style="display:none" class="updated">2015-02-23<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/veterandarkmarketdweller/" rel="tag">VeteranDarkMarketDweller</a></span> <span style="display:none" class="updated">2015-02-23<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
 </div>
 </article>
 

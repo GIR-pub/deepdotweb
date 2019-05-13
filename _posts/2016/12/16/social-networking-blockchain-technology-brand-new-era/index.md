@@ -36,7 +36,7 @@ Social Networking &#038; The Blockchain Technology &#8211; A Brand New Era
     <p><strong>Conclusion:</strong></p>
     <p>The blockchain technology is changing the whole world around us. Not only financial transactions, but also the way people communicate can be introduced to a whole new era of decentralization that promotes free speech and omits the restrictions imposed by big corporate companies.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/brand/" rel="tag">brand</a> <a href="https://www.deepdotweb.com/tag/era/" rel="tag">era</a> <a href="https://www.deepdotweb.com/tag/networking/" rel="tag">networking</a> <a href="https://www.deepdotweb.com/tag/social/" rel="tag">social</a> <a href="https://www.deepdotweb.com/tag/technology/" rel="tag">technology</a></span> <span style="display:none" class="updated">2016-12-16</span>
+    <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/brand/" rel="tag">brand</a> <a href="https://www.deepdotweb.com/tag/era/" rel="tag">era</a> <a href="https://www.deepdotweb.com/tag/networking/" rel="tag">networking</a> <a href="https://www.deepdotweb.com/tag/social/" rel="tag">social</a> <a href="https://www.deepdotweb.com/tag/technology/" rel="tag">technology</a></span> <span style="display:none" class="updated">2016-12-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

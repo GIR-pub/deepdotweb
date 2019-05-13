@@ -19,7 +19,7 @@
     <p>Will add a sidebar banner soon.</p>
     <p>2. Looking for a CSS person to design this subreddit &#8211; if you think you can do it, send me PM on Reddit. or mail me trough the site, this is a paid job obviously.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/live/" rel="tag">live</a> <a href="https://www.deepdotweb.com/tag/rdeepdotweb/" rel="tag">rdeepdotweb</a></span> <span style="display:none" class="updated">2015-04-23</span>
+    <a href="https://www.deepdotweb.com/tag/live/" rel="tag">live</a> <a href="https://www.deepdotweb.com/tag/rdeepdotweb/" rel="tag">rdeepdotweb</a></span> <span style="display:none" class="updated">2015-04-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -29,7 +29,7 @@ UK Dark Web Drugs Pair Jailed
 <p>Prior to that, officers had discovered several messages, encrypted of course from Brennan in which he was pretending to be a little iller than he actually was.</p>
 <p>&#8220;They also knew that what they were selling was potentially dangerous, that&#8217;s the thing that really put a chill on the investigation team,&#8221; Dept Supt Thomas added.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/pair/" rel="tag">pair</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-10-07<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/pair/" rel="tag">pair</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-10-07<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
 </div>
 </article>
 

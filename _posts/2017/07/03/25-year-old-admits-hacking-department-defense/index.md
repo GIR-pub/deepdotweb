@@ -27,7 +27,7 @@
     <p>Once they identified Caffrey as a suspect, they also found the stolen data on his hard drives, the NCA statement explained. No sensitive data was leaked, according to the NCA. Young made it clear that others ought not replicate what Caffrey attempted. “The NCA has people with skills like Caffrey’s, but they’re doing the opposite to him in detecting cyber criminals and bringing them to justice.</p>
     <p>Caffrey was scheduled to be <a href="https://www.deepdotweb.com/tag/sentence/">sentenced</a> in August.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/25yearold/" rel="tag">25yearold</a> <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a></span> <span style="display:none" class="updated">2017-07-03</span>
+    <a href="https://www.deepdotweb.com/tag/25yearold/" rel="tag">25yearold</a> <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a></span> <span style="display:none" class="updated">2017-07-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

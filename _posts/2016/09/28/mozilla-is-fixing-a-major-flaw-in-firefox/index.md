@@ -19,7 +19,7 @@ Mozilla is Fixing a Major Flaw in Firefox
     <p>Independent Security Researcher Ryan Duff claimed that Firefox used its own weaker rendition of key pinning that created the attack angle, and that Mozilla already fixed the flaw in a nightly version of the browser.</p>
     <p>“Firefox uses its own static key pinning method for its own Mozilla certifications instead of using HPKP. Enforcing the static method appears to be much weaker than the HPKP method and is flawed to the point that it is by passable in its attack scenario,” Duff stated.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/firefox/" rel="tag">firefox</a> <a href="https://www.deepdotweb.com/tag/fixing/" rel="tag">fixing</a> <a href="https://www.deepdotweb.com/tag/flaw/" rel="tag">flaw</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/mozilla/" rel="tag">mozilla</a></span> <span style="display:none" class="updated">2016-09-28</span>
+    <a href="https://www.deepdotweb.com/tag/firefox/" rel="tag">firefox</a> <a href="https://www.deepdotweb.com/tag/fixing/" rel="tag">fixing</a> <a href="https://www.deepdotweb.com/tag/flaw/" rel="tag">flaw</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/mozilla/" rel="tag">mozilla</a></span> <span style="display:none" class="updated">2016-09-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

@@ -19,7 +19,7 @@ More Arrests In The Playpen Case
     <p>&#8220;Certainly, it&#8217;s the first time that they&#8217;ve run a website of this magnitude. It&#8217;s also the first time they&#8217;ve hacked this number of users successfully. The FBI facilitated the wholesale distribution of child porn for several weeks last year. It&#8217;s truly sickening.&#8221;</p>
     <p>135 arrested persons are not the end of the case, officials anticipate more indictments as the Playpen investigation continues.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a></span> <span style="display:none" class="updated">2016-04-14</span>
+    <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a></span> <span style="display:none" class="updated">2016-04-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

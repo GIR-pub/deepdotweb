@@ -13,4 +13,4 @@ Added new market &#8211; Crypto Market
 Updated: List of Dark Net Markets (Tor &amp; I2P)" href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">new markets</a> &#8211; (<a href="http://www.reddit.com/r/DarkNetMarkets/comments/2vvhtc/crypto_market/">announcement</a>) &#8211;</p>
 <p>Now counting ~24 Live Marketplaces.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/added/" rel="tag">added</a> <a href="https://www.deepdotweb.com/tag/crypto/" rel="tag">crypto</a></span> <span style="display:none" class="updated">2015-02-14
+<a href="https://www.deepdotweb.com/tag/added/" rel="tag">added</a> <a href="https://www.deepdotweb.com/tag/crypto/" rel="tag">crypto</a></span> <span style="display:none" class="updated">2015-02-14

@@ -159,7 +159,7 @@ NordVPN Review
     <p>Overall, NordVPN is recommended for those who prefer 1<sup>st</sup> rate VPN privacy and security over the speed of their online connections.</p>
     <p><a href="http://go.nordvpn.net/aff_c?offer_id=121&amp;aff_id=1758&amp;url_id=433&amp;aff_sub=NordDDWRev" target="_blank"><strong>&gt;&gt; Click HERE to Visit the NordVPN Official Site</strong></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/nordvpn/" rel="tag">nordvpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2015-12-26</span>
+    <a href="https://www.deepdotweb.com/tag/nordvpn/" rel="tag">nordvpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2015-12-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -35,4 +35,4 @@ Vendor &#8220;Dr Ropata&#8221;: The PsyOps I was Subjected To
 <p>Think for yourself: http://fearuncertaintydoubt.net/</p>
 <p>Question Authority</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/dr/" rel="tag">dr</a> <a href="https://www.deepdotweb.com/tag/psyops/" rel="tag">psyops</a> <a href="https://www.deepdotweb.com/tag/ropata/" rel="tag">ropata</a> <a href="https://www.deepdotweb.com/tag/subjected/" rel="tag">subjected</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-10-29
+<a href="https://www.deepdotweb.com/tag/dr/" rel="tag">dr</a> <a href="https://www.deepdotweb.com/tag/psyops/" rel="tag">psyops</a> <a href="https://www.deepdotweb.com/tag/ropata/" rel="tag">ropata</a> <a href="https://www.deepdotweb.com/tag/subjected/" rel="tag">subjected</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-10-29

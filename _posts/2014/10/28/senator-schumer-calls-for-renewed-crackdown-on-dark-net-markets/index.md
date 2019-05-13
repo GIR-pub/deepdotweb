@@ -39,7 +39,7 @@ Senator Schumer: Calls for Renewed Crackdown on Dark Net Markets
     <p>Charles E. Schumer</p>
     <p>United States Senator</p></blockquote>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/renewed/" rel="tag">renewed</a> <a href="https://www.deepdotweb.com/tag/schumer/" rel="tag">schumer</a> <a href="https://www.deepdotweb.com/tag/senator/" rel="tag">senator</a></span> <span style="display:none" class="updated">2014-10-28</span>
+    <a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/renewed/" rel="tag">renewed</a> <a href="https://www.deepdotweb.com/tag/schumer/" rel="tag">schumer</a> <a href="https://www.deepdotweb.com/tag/senator/" rel="tag">senator</a></span> <span style="display:none" class="updated">2014-10-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

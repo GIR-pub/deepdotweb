@@ -31,7 +31,7 @@ Examining the Bitcoin Address Graph
     <p>Investigating real world actors has revealed that bitcoin address clustering via well known heuristics&#8217; approaches can boost the number of implicitly recognized addresses across the entire address graph. Nevertheless, most of the addresses will remain anonymous.</p>
     <p>The study also spotted a rise in the volume of transactions and how real world events can influence the bitcoin exchange rates. The study proved that real world actors prefer to use bitcoin for transferring value rather than storing it.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/examining/" rel="tag">examining</a> <a href="https://www.deepdotweb.com/tag/graph/" rel="tag">graph</a></span> <span style="display:none" class="updated">2017-04-25</span>
+    <a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/examining/" rel="tag">examining</a> <a href="https://www.deepdotweb.com/tag/graph/" rel="tag">graph</a></span> <span style="display:none" class="updated">2017-04-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

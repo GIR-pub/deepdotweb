@@ -14,7 +14,7 @@ Could BITCOIN Save the Post Office?
     <div class="entry">
     <p>U.S. POSTAL SERVICE to Consider using BITCOIN Could BITCOIN Save the Post Office?</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/office/" rel="tag">office</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="https://www.deepdotweb.com/tag/save/" rel="tag">save</a></span> <span style="display:none" class="updated">2014-05-13</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/office/" rel="tag">office</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="https://www.deepdotweb.com/tag/save/" rel="tag">save</a></span> <span style="display:none" class="updated">2014-05-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

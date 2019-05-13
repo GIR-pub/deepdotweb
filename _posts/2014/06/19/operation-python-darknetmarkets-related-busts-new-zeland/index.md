@@ -44,7 +44,7 @@ Operation Python: DarkNetMarkets Related Busts In New Zeland
     <p>&#8221;These types of charges mean you may go to jail and it may impact your employment and your overseas travel, and relationships with family members and your relationships with people in the community.&#8221;</p></blockquote>
     <p>Source: <a href="http://www.stuff.co.nz/dominion-post/10177294/Police-bust-drugs-ring-find-stolen-carving" target="_blank">http://www.stuff.co.nz/dominion-post/10177294/Police-bust-drugs-ring-find-stolen-carving</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/busts/" rel="tag">busts</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/python/" rel="tag">python</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a> <a href="https://www.deepdotweb.com/tag/zeland/" rel="tag">zeland</a></span> <span style="display:none" class="updated">2014-06-19</span>
+    <a href="https://www.deepdotweb.com/tag/busts/" rel="tag">busts</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/python/" rel="tag">python</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a> <a href="https://www.deepdotweb.com/tag/zeland/" rel="tag">zeland</a></span> <span style="display:none" class="updated">2014-06-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

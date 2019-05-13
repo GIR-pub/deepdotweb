@@ -26,7 +26,7 @@ New Law In The Netherlands Would Allow Authorities To Hack Cybercriminals
     <p>Privacy advocate Ton Siedsma from Bits of Freedom says the vulnerabilities in the cyber world should not be abused but fixed as soon as possible.</p>
     <p>&#8220;You aim for a market where weak spots to be repaired as soon as possible,&#8221; he said. &#8220;Now, shadowy companies could earn a lot of money with this trade. The government should stay away from this.&#8221;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/cybercriminals/" rel="tag">cybercriminals</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a></span> <span style="display:none" class="updated">2016-12-28</span>
+    <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/cybercriminals/" rel="tag">cybercriminals</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a></span> <span style="display:none" class="updated">2016-12-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

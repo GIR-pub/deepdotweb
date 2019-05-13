@@ -222,7 +222,7 @@ var userSettings = {"url":"\/","uid":"0","time":"1501565385","secure":"1"};
 <h2>CONCLUSIONS</h2>
 <p>If you keep in mind the simple distinctions explained in this article, it should be easy for you to choose your favourite password manager from those proposed on the web. Anyway, I don’t see the necessity to use a software when you can simply use an encrypted text file choosing a strong password. Maybe in this case the simplest way is also the best way&#8230;</p>
 </div> 
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/passwords/" rel="tag">passwords</a> <a href="https://www.deepdotweb.com/tag/store/" rel="tag">store</a> <a href="https://www.deepdotweb.com/tag/ways/" rel="tag">ways</a></span> <span style="display:none" class="updated">2017-07-25<a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/passwords/" rel="tag">passwords</a> <a href="https://www.deepdotweb.com/tag/store/" rel="tag">store</a> <a href="https://www.deepdotweb.com/tag/ways/" rel="tag">ways</a></span> <span style="display:none" class="updated">2017-07-25<a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
 </div> 
 </article> 
 <div class="related-posts">

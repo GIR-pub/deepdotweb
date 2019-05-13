@@ -21,7 +21,7 @@ Supreme Court to Hear Alleged Silk Road Admin’s Appeal
     <p>The Supreme Court announcement came as welcomed​ news. But in terms of legal stopping points before extradition occurs, the Supreme Court marks the end of the chain. This appeal is likely the last chance Davis has to avoid a potential life sentence in the United States.</p>
     <p>Davis will remain in Ireland pending the Supreme Court&#8217;s decision.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admins/" rel="tag">admins</a> <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/appeal/" rel="tag">appeal</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/hear/" rel="tag">hear</a>  <a href="https://www.deepdotweb.com/tag/supreme/" rel="tag">supreme</a></span> <span style="display:none" class="updated">2017-04-01</span>
+    <a href="https://www.deepdotweb.com/tag/admins/" rel="tag">admins</a> <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/appeal/" rel="tag">appeal</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/hear/" rel="tag">hear</a>  <a href="https://www.deepdotweb.com/tag/supreme/" rel="tag">supreme</a></span> <span style="display:none" class="updated">2017-04-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

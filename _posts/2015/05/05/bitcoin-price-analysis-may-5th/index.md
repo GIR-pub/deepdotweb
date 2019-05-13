@@ -39,7 +39,7 @@ Bitcoin Price Analysis May 5th
     <p><a href="/imgs/2015/05/6.png"><img class="aligncenter  wp-image-10205" src="/imgs/2015/05/6.png" alt="6" width="640" height="308" srcset="/imgs/2015/05/6.png 1824w, /imgs/2015/05/6-300x144.png 300w, /imgs/2015/05/6-1024x492.png 1024w" sizes="(max-width: 640px) 100vw, 640px"/></a></p>
     <p><strong>TLDR</strong>: Short term price up. Watch out for $240s, $255 and $270 else, medium term forecast still bearish. Test of $200/$210 possibly $185 later on.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/5th/" rel="tag">5th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-05-05</span>
+    <a href="https://www.deepdotweb.com/tag/5th/" rel="tag">5th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-05-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

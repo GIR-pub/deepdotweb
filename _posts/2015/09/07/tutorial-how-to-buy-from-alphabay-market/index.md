@@ -110,4 +110,4 @@ Tutorial: How To Buy From AlphaBay Market?
 <p>So as long as you follow the guidelines in this tutorial, you should be ordering quite adequately, on AlphaBay to start off. There is, of course, a bit more to learn, but it&#8217;s much more worthwhile to learn how to do the rest on your own. Stay safe and enjoy shopping!</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-09-07
+<a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-09-07

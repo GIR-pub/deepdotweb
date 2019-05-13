@@ -24,7 +24,7 @@ Happy Birthday To Grams!
     <p>Thanks you for the hard work, dedication &amp; contribution to the Dark Net Markets Community!</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/birthday/" rel="tag">birthday</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/happy/" rel="tag">happy</a></span> <span style="display:none" class="updated">2015-04-09</span>
+    <a href="https://www.deepdotweb.com/tag/birthday/" rel="tag">birthday</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/happy/" rel="tag">happy</a></span> <span style="display:none" class="updated">2015-04-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

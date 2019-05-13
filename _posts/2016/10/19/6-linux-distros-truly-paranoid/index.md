@@ -111,7 +111,7 @@
     <p>Most of the above OS’s will take time and concerted effort to learn, but I think it should all pay off. As I always say, if I still haven’t included your favorite Linux distro, feel free to suggest it in the comments. I just might try it out…and maybe even feature it in the next article.</p>
     <p>By the way…my “secure password” is “12345.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/distros/" rel="tag">distros</a> <a href="https://www.deepdotweb.com/tag/linux/" rel="tag">linux</a> <a href="https://www.deepdotweb.com/tag/paranoid/" rel="tag">paranoid</a></span> <span style="display:none" class="updated">2016-10-19</span>
+    <a href="https://www.deepdotweb.com/tag/distros/" rel="tag">distros</a> <a href="https://www.deepdotweb.com/tag/linux/" rel="tag">linux</a> <a href="https://www.deepdotweb.com/tag/paranoid/" rel="tag">paranoid</a></span> <span style="display:none" class="updated">2016-10-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
     </div>
 </article>

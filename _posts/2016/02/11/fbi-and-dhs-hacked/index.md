@@ -21,7 +21,7 @@ FBI and DHS Hacked
     <p>Along with the DHS, the Justice Department is looking into this hack according to a spokesman, &#8220;The department is looking into the unauthorized access of a system operated by one of its components containing employee contact information.&#8221;</p>
     <p>It&#8217;s very alarming that such a simple hack was able to take place despite more serious breaches like the Office of Personnel Management from last year. You&#8217;d think the government would&#8217;ve tightened up security by now.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dhs/" rel="tag">dhs</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a></span> <span style="display:none" class="updated">2016-02-11</span>
+    <a href="https://www.deepdotweb.com/tag/dhs/" rel="tag">dhs</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a></span> <span style="display:none" class="updated">2016-02-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

@@ -42,7 +42,7 @@ HTML5 Introduces New Security Threats!
     <p>Because most web vulnerabilities exist because web developers implemented a site poorly, adding new features means that many lazy developers will inevitably create new attack vectors. This is great news for hackers, but unfortunately bad news for everybody else.</p>
     <p><img class="wp-image-15841 aligncenter" src="/imgs/2016/10/http-s2-quickmeme-com-img-5c-5cc6a589a13b8355645.jpeg" alt="http://s2.quickmeme.com/img/5c/5cc6a589a13b83556454d1084cb44052561715bf0825469aa47b55c172b8e598.jpg" srcset="/imgs/2016/10/http-s2-quickmeme-com-img-5c-5cc6a589a13b8355645.jpeg 600w, /imgs/2016/10/http-s2-quickmeme-com-img-5c-5cc6a589a13b8355645-300x200.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px"/></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/html5/" rel="tag">html5</a> <a href="https://www.deepdotweb.com/tag/introduces/" rel="tag">introduces</a>  <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a></span> <span style="display:none" class="updated">2016-10-16</span>
+    <a href="https://www.deepdotweb.com/tag/html5/" rel="tag">html5</a> <a href="https://www.deepdotweb.com/tag/introduces/" rel="tag">introduces</a>  <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a></span> <span style="display:none" class="updated">2016-10-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/sculptor/" title="Posts by sculptor" rel="author">sculptor</a></strong></div>
     </div>
 </article>

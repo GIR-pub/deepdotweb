@@ -45,7 +45,7 @@ Bitcoin News Roundup 24.9.17
     <p><strong>Bitcoin at $3,819.21 as it struggles to recover</strong></p>
     <p>China’s crackdown on Bitcoin, as well as JP Morgan’s Jamie Dimon’s comments affected the cryptocurrency’s price last week, and although it recovered from a low of about $3,000 to <a href="https://coinmarketcap.com/currencies/bitcoin/">$3,819.21 at press time</a>, the cryptocurrency is still below the $4,000 mark It was at last month. Recently, the cryptocurrency’s price surged by about $200 as Charlie Lee’s tweet on China not banning mining operations brought investors a little hope. Bitcoin’s market cap is currently of $63.3 billion, and its dominance is of 48%.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/24917/" rel="tag">24917</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2017-09-24</span>
+    <a href="https://www.deepdotweb.com/tag/24917/" rel="tag">24917</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2017-09-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
     </div>
 </article>

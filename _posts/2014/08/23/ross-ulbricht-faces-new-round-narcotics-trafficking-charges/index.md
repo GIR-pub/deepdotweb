@@ -29,7 +29,7 @@ Ross Ulbricht Faces New Round Of Narcotics Trafficking Charges
     <p style="text-align: center;"><strong>1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv</strong></p>
     <p>Article Source: http://www.theguardian.com/technology/2014/aug/22/silk-road-suspect-ross-ulbricht-narcotics-trafficking</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/faces/" rel="tag">faces</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2014-08-23</span>
+    <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/faces/" rel="tag">faces</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2014-08-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

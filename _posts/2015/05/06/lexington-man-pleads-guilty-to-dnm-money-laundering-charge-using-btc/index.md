@@ -19,7 +19,7 @@ Lexington Man Pleads Guilty to DNM Money Laundering Charge Using BTC
     <p>Relevant discussion thread on Reddit: <a href="https://pay.reddit.com/r/DarkNetMarkets/comments/352vet/coinbase_customer_arrested/">Coinbase customer arrested</a></p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/charge/" rel="tag">charge</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a>  <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/lexington/" rel="tag">lexington</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> </span> <span style="display:none" class="updated">2015-05-06</span>
+    <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/charge/" rel="tag">charge</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a>  <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/lexington/" rel="tag">lexington</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> </span> <span style="display:none" class="updated">2015-05-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

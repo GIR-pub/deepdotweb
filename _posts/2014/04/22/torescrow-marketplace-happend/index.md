@@ -31,7 +31,7 @@ TorEscrow, What Happend?
     </div></div>
     <p>Sorry for those who lost money, and hopefully this will not happen again (but it probably will).</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/happend/" rel="tag">happend</a> <a href="https://www.deepdotweb.com/tag/torescrow/" rel="tag">torescrow</a></span> <span style="display:none" class="updated">2014-04-22</span>
+    <a href="https://www.deepdotweb.com/tag/happend/" rel="tag">happend</a> <a href="https://www.deepdotweb.com/tag/torescrow/" rel="tag">torescrow</a></span> <span style="display:none" class="updated">2014-04-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

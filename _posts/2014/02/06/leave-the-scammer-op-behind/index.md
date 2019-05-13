@@ -40,7 +40,7 @@ Leave the Scammer-op behind
     <p>The OUTLAW-team wishes you a positive and secure shopping experience.</p>
     <p>====End Quote===</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/leave/" rel="tag">leave</a> <a href="https://www.deepdotweb.com/tag/scammerop/" rel="tag">scammerop</a></span> <span style="display:none" class="updated">2014-02-06</span>
+    <a href="https://www.deepdotweb.com/tag/leave/" rel="tag">leave</a> <a href="https://www.deepdotweb.com/tag/scammerop/" rel="tag">scammerop</a></span> <span style="display:none" class="updated">2014-02-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

@@ -21,7 +21,7 @@ Two Austrian Dealers Caught After Failed Burglary
 <p>He admitted that he had also produced 1,400 grams of amphetamine to sell throughout Austria. He said he had charged ten euros per gram. Ultimately, though, the men admittedly got high on their own supply so often that that had personal ingested the majority of the purchased and cooked amphetamine.</p>
 <p>Both men are currently in custody facing charges for Substance Abuse Act violations.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/burglary/" rel="tag">burglary</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a></span> <span style="display:none" class="updated">2018-04-23<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/burglary/" rel="tag">burglary</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a></span> <span style="display:none" class="updated">2018-04-23<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

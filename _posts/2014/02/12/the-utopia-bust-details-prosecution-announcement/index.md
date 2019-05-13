@@ -32,7 +32,7 @@ The Utopia Bust Details &#8211; Prosecution Announcement
     <p>During the searches of the suspects’ homes, computers, multiple data carriers (such as external hard drives and USB sticks), and about 900 bitcoins(with an estimated value of between 400,000 and 600,000 euros) were seized. The suspects arrested in the Netherlands will be brought before a judge on Friday in Utrecht. The National Prosecutor has requested for the German suspect to be released to the Netherlands for trial.</p>
     </div>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/announcement/" rel="tag">announcement</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/details/" rel="tag">details</a> <a href="https://www.deepdotweb.com/tag/prosecution/" rel="tag">prosecution</a> <a href="https://www.deepdotweb.com/tag/utopia/" rel="tag">utopia</a></span> <span style="display:none" class="updated">2014-02-12</span>
+    <a href="https://www.deepdotweb.com/tag/announcement/" rel="tag">announcement</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/details/" rel="tag">details</a> <a href="https://www.deepdotweb.com/tag/prosecution/" rel="tag">prosecution</a> <a href="https://www.deepdotweb.com/tag/utopia/" rel="tag">utopia</a></span> <span style="display:none" class="updated">2014-02-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

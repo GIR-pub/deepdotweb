@@ -24,7 +24,7 @@ Phishing: Tactics And Tools Explained
     <h2>Avoiding Phishing</h2>
     <p>Avoiding phishing is a matter of common sense. A legitimate corporation like your bank will never email you asking you to change your password or share your credentials and if you’re in doubt, it’s better calling them at their official phone number. Never click on links in emails and you will be safe. Distrust emails that promote gifts or ask you to do a security check. Update your system and use a good antivirus to avoid being infected by malwares. If you really need to click that link, open it in a virtual machine.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/explained/" rel="tag">explained</a> <a href="https://www.deepdotweb.com/tag/phishing/" rel="tag">phishing</a> <a href="https://www.deepdotweb.com/tag/tactics/" rel="tag">tactics</a> <a href="https://www.deepdotweb.com/tag/tools/" rel="tag">tools</a></span> <span style="display:none" class="updated">2017-08-18</span>
+    <a href="https://www.deepdotweb.com/tag/explained/" rel="tag">explained</a> <a href="https://www.deepdotweb.com/tag/phishing/" rel="tag">phishing</a> <a href="https://www.deepdotweb.com/tag/tactics/" rel="tag">tactics</a> <a href="https://www.deepdotweb.com/tag/tools/" rel="tag">tools</a></span> <span style="display:none" class="updated">2017-08-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
     </div>
 </article>

@@ -51,7 +51,7 @@ Next Level OPSEC with PORTAL
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/level/" rel="tag">level</a> <a href="https://www.deepdotweb.com/tag/opsec/" rel="tag">opsec</a> <a href="https://www.deepdotweb.com/tag/portal/" rel="tag">portal</a></span>				<span style="display:none" class="updated">2016-09-19</span>
+    <a href="https://www.deepdotweb.com/tag/level/" rel="tag">level</a> <a href="https://www.deepdotweb.com/tag/opsec/" rel="tag">opsec</a> <a href="https://www.deepdotweb.com/tag/portal/" rel="tag">portal</a></span>				<span style="display:none" class="updated">2016-09-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/jasper/" title="Posts by Jasper" rel="author">Jasper</a></strong></div>
     
     

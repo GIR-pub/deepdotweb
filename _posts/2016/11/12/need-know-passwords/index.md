@@ -270,7 +270,7 @@ All You Need To Know About Passwords
     <p>So you don&#8217;t like installing a manager? Think of a good pattern that will not be obvious. An example would be: pick 2 numbers: 6,7 and surround your password with 67 and shift+6 = &amp;, shift+7 = /. Also, uppercase 6<sup>th</sup> and 7<sup>th</sup> letter. If your password right now is password -&gt; 67passwORd&amp;/ is easy to remember and strong. The word can be something you can remember for each site, but stay away from obvious like domain name.</p>
     <p>Avoid common letter-number substitutions like o – 0, I &#8211; 1. Here&#8217;s the same link once again, I highly recommend taking a look at <a href="https://wiki.skullsecurity.org/Passwords">common dictionaries</a> and tools attackers may try to use against you.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/passwords/" rel="tag">passwords</a></span> <span style="display:none" class="updated">2016-11-12</span>
+    <a href="https://www.deepdotweb.com/tag/passwords/" rel="tag">passwords</a></span> <span style="display:none" class="updated">2016-11-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
     </div>
 </article>

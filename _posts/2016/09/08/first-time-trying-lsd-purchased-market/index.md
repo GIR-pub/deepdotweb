@@ -38,7 +38,7 @@ First time trying LSD purchased from the Market.
     <li><a href="https://erowid.org/experiences/subs/exp_LSD_First_Times.shtml">LSD Information for a first time user. What to expect, how to use safely, laws and other information regarding LSD</a></li>
     </ul>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/lsd/" rel="tag">lsd</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a></span> <span style="display:none" class="updated">2016-09-08</span>
+    <a href="https://www.deepdotweb.com/tag/lsd/" rel="tag">lsd</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a></span> <span style="display:none" class="updated">2016-09-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ermando/" title="Posts by Ermando" rel="author">Ermando</a></strong></div>
     </div>
 </article>

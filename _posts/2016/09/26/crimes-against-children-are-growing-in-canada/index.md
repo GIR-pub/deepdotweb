@@ -23,7 +23,7 @@ Crimes Against Children are Growing In Canada
     <p>Last month a Niagara region woman was charged with a total of 36 offences, when she sexually assaulted both of her children with a weapon, let others sexually assault them, as well as recording incidents to produce child pornography. Reports said that one of the children was only four years old.</p>
     <p>In July police said that a Hamilton resident was facing child pornography charges after a multi-jurisdictional investigation concluded that there was evidence that he had images of child porn traced to his IP address, relating dozens this year.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/canada/" rel="tag">canada</a> <a href="https://www.deepdotweb.com/tag/children/" rel="tag">children</a> <a href="https://www.deepdotweb.com/tag/crimes/" rel="tag">crimes</a> <a href="https://www.deepdotweb.com/tag/growing/" rel="tag">growing</a></span> <span style="display:none" class="updated">2016-09-26</span>
+    <a href="https://www.deepdotweb.com/tag/canada/" rel="tag">canada</a> <a href="https://www.deepdotweb.com/tag/children/" rel="tag">children</a> <a href="https://www.deepdotweb.com/tag/crimes/" rel="tag">crimes</a> <a href="https://www.deepdotweb.com/tag/growing/" rel="tag">growing</a></span> <span style="display:none" class="updated">2016-09-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

@@ -39,7 +39,7 @@ Penguin Mixer: Review and Tutorial
     <p>Note that mixing information is only retained for 7 days (for your safety), so if it&#8217;s been longer than that your search won&#8217;t work.</p>
     <p>That’s it! Easy, right? We know. We just wanted to make sure you know everything you need to know before you start mixing. Now that you do, enjoy and remember to play it safe!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a> <a href="https://www.deepdotweb.com/tag/penguin/" rel="tag">penguin</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2017-02-23</span>
+    <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a> <a href="https://www.deepdotweb.com/tag/penguin/" rel="tag">penguin</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2017-02-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

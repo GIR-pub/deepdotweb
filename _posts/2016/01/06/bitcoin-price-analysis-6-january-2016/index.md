@@ -44,7 +44,7 @@ Bitcoin price Analysis 6 January 2016
     <p>There is leg room for more upside up to $ 700, a high from April 2014.</p>
     <p>Analysts are expecting Gold to go lower, as low as $ 750, as the US dollar is expected to strengthen. For this reason, I expect any increase in Bitcoin price right before or right after the halving to retest lows. I see bitcoin and gold in similar categories as safe haven assets. The moment gold turns, will mark a change in economic sentiment. I expect bitcoin to rise with gold.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/january/" rel="tag">january</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-01-06</span>
+    <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/january/" rel="tag">january</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2016-01-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

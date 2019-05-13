@@ -22,7 +22,7 @@ Intel Source – Personal Communications By Phone #1
     <p>So those are the basics and the history lesson – what if you wanna go semi pro?</p>
     <p><strong>Read the other parts once published in the <a href="http://www.deepdotweb.com/tag/IntelPhone/">IntelPhone</a> Tag</strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/communications/" rel="tag">communications</a> <a href="https://www.deepdotweb.com/tag/intel/" rel="tag">intel</a> <a href="https://www.deepdotweb.com/tag/intelphone/" rel="tag">IntelPhone</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/phone/" rel="tag">phone</a> <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a></span> <span style="display:none" class="updated">2015-01-22</span>
+    <a href="https://www.deepdotweb.com/tag/communications/" rel="tag">communications</a> <a href="https://www.deepdotweb.com/tag/intel/" rel="tag">intel</a> <a href="https://www.deepdotweb.com/tag/intelphone/" rel="tag">IntelPhone</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/phone/" rel="tag">phone</a> <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a></span> <span style="display:none" class="updated">2015-01-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
     </div>
 </article>

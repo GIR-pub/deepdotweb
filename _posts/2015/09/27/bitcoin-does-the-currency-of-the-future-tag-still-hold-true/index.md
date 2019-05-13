@@ -50,7 +50,7 @@ Bitcoin: Does the “Currency of the Future” tag still hold true?
 <p><strong><em>Yours truly,</em></strong></p>
 <p><strong><em>Macavity</em></strong></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/hold/" rel="tag">hold</a> <a href="https://www.deepdotweb.com/tag/tag/" rel="tag">tag</a> <a href="https://www.deepdotweb.com/tag/true/" rel="tag">true</a></span> <span style="display:none" class="updated">2015-09-27<a href="https://www.deepdotweb.com/author/macavity/" title="Posts by Macavity" rel="author">Macavity</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/hold/" rel="tag">hold</a> <a href="https://www.deepdotweb.com/tag/tag/" rel="tag">tag</a> <a href="https://www.deepdotweb.com/tag/true/" rel="tag">true</a></span> <span style="display:none" class="updated">2015-09-27<a href="https://www.deepdotweb.com/author/macavity/" title="Posts by Macavity" rel="author">Macavity</a></strong></div>
 </div>
 </article>
 

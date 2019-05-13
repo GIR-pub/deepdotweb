@@ -62,7 +62,7 @@ How to use a Bitcoin Mixer: Helix
     <p><img class="wp-image-16034 aligncenter" src="/imgs/2016/10/21-png-1.png" alt="21.png" srcset="/imgs/2016/10/21-png-1.png 1000w, /imgs/2016/10/21-png-1-300x196.png 300w" sizes="(max-width: 1000px) 100vw, 1000px"/></p>
     <p>On the next tutorial we’ll cover Bitcloak.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/helix/" rel="tag">helix</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a></span> <span style="display:none" class="updated">2016-10-24</span>
+    <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/helix/" rel="tag">helix</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a></span> <span style="display:none" class="updated">2016-10-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     </div>
 </article>

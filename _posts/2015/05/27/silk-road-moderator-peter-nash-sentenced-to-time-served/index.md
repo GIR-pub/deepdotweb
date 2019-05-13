@@ -17,7 +17,7 @@ Silk Road Moderator Peter Nash Sentenced to Time Served
     <p>The proceedings came just three days before a US federal judge is set to sentence Ross Ulbricht, the creator of Silk Road who authorities say operated the website under the alias Dread Pirate Roberts. He faces up to life in prison.</p></blockquote>
     <p>Recommended read detailing his full story: <a href="http://allthingsvice.com/2015/05/27/silk-road-from-the-inside-moderator-ssbd-tells-his-story/">Silk Road from the inside: Moderator SSBD tells his story</a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> <a href="https://www.deepdotweb.com/tag/nash/" rel="tag">nash</a> <a href="https://www.deepdotweb.com/tag/peter/" rel="tag">peter</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/served/" rel="tag">served</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a></span> <span style="display:none" class="updated">2015-05-27</span>
+    <a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> <a href="https://www.deepdotweb.com/tag/nash/" rel="tag">nash</a> <a href="https://www.deepdotweb.com/tag/peter/" rel="tag">peter</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/served/" rel="tag">served</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a></span> <span style="display:none" class="updated">2015-05-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

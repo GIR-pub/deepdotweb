@@ -26,7 +26,7 @@ Game Day For Ross Ulbricht and The New Frontier
     <p>Poking Holes in the FBI Story:<br />
     <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/252473514/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_89807" frameborder="0"></iframe></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/day/" rel="tag">day</a> <a href="https://www.deepdotweb.com/tag/frontier/" rel="tag">frontier</a> <a href="https://www.deepdotweb.com/tag/game/" rel="tag">game</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2015-01-13</span>
+    <a href="https://www.deepdotweb.com/tag/day/" rel="tag">day</a> <a href="https://www.deepdotweb.com/tag/frontier/" rel="tag">frontier</a> <a href="https://www.deepdotweb.com/tag/game/" rel="tag">game</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2015-01-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
     </div>
 </article>

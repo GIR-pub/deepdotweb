@@ -25,7 +25,7 @@ The Rise in “Ransom”-ware
     <p>For network administrators looking to reduce the potential damage a ransom-ware attack could have on their system, <a href="http://www.bankinfosecurity.com/latest-ransomware-relies-on-javascript-a-9212">read this</a>. Simple, common sense measures seem to be the best solution to falling victim to ransom-ware attacks.  Ransomware attacks are becoming increasingly popular, and the surge in attacks is likely to continue as long as existing systems continue to remain exposed. For those that have fallen victim to 21<sup>st</sup> century ransom attacks…</p>
     <p><a href="/imgs/2016/06/rans3.jpg"><img class="aligncenter wp-image-14595" src="/imgs/2016/06/rans3.jpg" alt="rans3" width="982" height="982" srcset="/imgs/2016/06/rans3.jpg 1322w, /imgs/2016/06/rans3-150x150.jpg 150w, /imgs/2016/06/rans3-300x300.jpg 300w, /imgs/2016/06/rans3-1024x1024.jpg 1024w, /imgs/2016/06/rans3-55x55.jpg 55w, /imgs/2016/06/rans3-50x50.jpg 50w" sizes="(max-width: 982px) 100vw, 982px"/></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a></span> <span style="display:none" class="updated">2016-06-25</span>
+    <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a></span> <span style="display:none" class="updated">2016-06-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/jfc/" title="Posts by JFC" rel="author">JFC</a></strong></div>
     </div>
 </article>

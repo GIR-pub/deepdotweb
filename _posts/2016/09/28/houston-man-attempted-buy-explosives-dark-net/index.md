@@ -43,7 +43,7 @@ Houston Man Arrested After Attempting To Purchase Explosives On AlphaBay
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/attempted/" rel="tag">attempted</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/explosives/" rel="tag">explosives</a> <a href="https://www.deepdotweb.com/tag/houston/" rel="tag">houston</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span>				<span style="display:none" class="updated">2016-09-28</span>
+    <a href="https://www.deepdotweb.com/tag/attempted/" rel="tag">attempted</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/explosives/" rel="tag">explosives</a> <a href="https://www.deepdotweb.com/tag/houston/" rel="tag">houston</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span>				<span style="display:none" class="updated">2016-09-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

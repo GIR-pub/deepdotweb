@@ -28,7 +28,7 @@ Tor to Combat Malicious Node Problem
     <p>Running their investigation Noubir and Sanatinia used HOnions to detect these malicious nodes. They ran 1,500 at one time, on the daily, weekly or monthly schedule. Each answering to a process running locally that would log visits by those HSDirs. In the paper, they said that most of the 40,000 visits from that were logged were said to be automated and queried the root path of the server, but that they also didn’t detect manual probing in around 20 percent of the requests. Some of them would not visit a service right away after hosting it, to avoid suspicion and be detected.</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/combat/" rel="tag">combat</a> <a href="https://www.deepdotweb.com/tag/malicious/" rel="tag">malicious</a> <a href="https://www.deepdotweb.com/tag/node/" rel="tag">node</a> <a href="https://www.deepdotweb.com/tag/problem/" rel="tag">problem</a> </span> <span style="display:none" class="updated">2016-07-31</span>
+    <a href="https://www.deepdotweb.com/tag/combat/" rel="tag">combat</a> <a href="https://www.deepdotweb.com/tag/malicious/" rel="tag">malicious</a> <a href="https://www.deepdotweb.com/tag/node/" rel="tag">node</a> <a href="https://www.deepdotweb.com/tag/problem/" rel="tag">problem</a> </span> <span style="display:none" class="updated">2016-07-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

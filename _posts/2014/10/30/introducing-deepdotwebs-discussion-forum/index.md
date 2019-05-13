@@ -32,7 +32,7 @@ Introducing: DeepDotWeb&#8217;s Discussion Forum
     <p style="text-align: center;"><span style="text-decoration: underline;">Please keep in mind that buying or selling ANYTHING is strictly prohibited and any attempt to do so will result in a ban.</span></p>
     <p style="text-align: center;"><a href="/imgs/2014/10/forum.png"><img class="aligncenter  wp-image-7917" src="/imgs/2014/10/forum.png" alt="forum" width="775" height="415" srcset="/imgs/2014/10/forum.png 1538w, /imgs/2014/10/forum-300x161.png 300w, /imgs/2014/10/forum-1024x549.png 1024w" sizes="(max-width: 775px) 100vw, 775px" /></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/deepdotwebs/" rel="tag">deepdotwebs</a> <a href="https://www.deepdotweb.com/tag/discussion/" rel="tag">discussion</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> <span style="display:none" class="updated">2014-10-30</span>
+    <a href="https://www.deepdotweb.com/tag/deepdotwebs/" rel="tag">deepdotwebs</a> <a href="https://www.deepdotweb.com/tag/discussion/" rel="tag">discussion</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> <span style="display:none" class="updated">2014-10-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

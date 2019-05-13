@@ -37,7 +37,7 @@ Bitcoin Price Analysis – Jun 3
     <p>Right now, I am watching the current move down to see how it behaves at targets of $ 210. Recall this chart from last week.</p>
     <p><a href="/imgs/2015/06/9.png"><img class="aligncenter  wp-image-10559" src="/imgs/2015/06/9.png" alt="9" width="795" height="397" srcset="/imgs/2015/06/9.png 1504w, /imgs/2015/06/9-300x150.png 300w, /imgs/2015/06/9-1024x511.png 1024w, /imgs/2015/06/9-660x330.png 660w, /imgs/2015/06/9-995x498.png 995w" sizes="(max-width: 795px) 100vw, 795px" /></a></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jun/" rel="tag">jun</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-06-03</span>
+    <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jun/" rel="tag">jun</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-06-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

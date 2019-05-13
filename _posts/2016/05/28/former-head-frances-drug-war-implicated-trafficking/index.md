@@ -23,7 +23,7 @@ Former head of France&#8217;s drug war implicated in trafficking
     <p>Authorities have remained silent since the accusations. The investigators working on the case have said that they are not allowed to reveal details about the investigation.</p>
     <p>Other senior police officers have pointed out that controlled deliveries are legal, although this is not true when the main person responsible is protected completely. Sofiane Hambli has not opened up, but he could hold key information on the responsibility of the government.</p>
     </div>
-    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/frances/" rel="tag">frances</a> <a href="https://www.deepdotweb.com/tag/implicated/" rel="tag">implicated</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2016-05-28</span>
+     <a href="https://www.deepdotweb.com/tag/frances/" rel="tag">frances</a> <a href="https://www.deepdotweb.com/tag/implicated/" rel="tag">implicated</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2016-05-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

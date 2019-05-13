@@ -28,7 +28,7 @@ Rule 41 Warrant Used in Kelihos Botnet TAKEDOWN
     <p>(Emphasis added by the author to reflect the immediately relevant portion.)</p>
     <p>The federal government released court documents, including the Criminal Complaint and warrant application. They redacted several elements documents entering and shine in part. However, this is one of the few Rule 41 warrants at this scale that the government publicized.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/41/" rel="tag">41</a> <a href="https://www.deepdotweb.com/tag/botnet/" rel="tag">botnet</a> <a href="https://www.deepdotweb.com/tag/kelihos/" rel="tag">kelihos</a> <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/takedown/" rel="tag">takedown</a> <a href="https://www.deepdotweb.com/tag/warrant/" rel="tag">warrant</a></span> <span style="display:none" class="updated">2017-04-26</span>
+    <a href="https://www.deepdotweb.com/tag/41/" rel="tag">41</a> <a href="https://www.deepdotweb.com/tag/botnet/" rel="tag">botnet</a> <a href="https://www.deepdotweb.com/tag/kelihos/" rel="tag">kelihos</a> <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/takedown/" rel="tag">takedown</a> <a href="https://www.deepdotweb.com/tag/warrant/" rel="tag">warrant</a></span> <span style="display:none" class="updated">2017-04-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

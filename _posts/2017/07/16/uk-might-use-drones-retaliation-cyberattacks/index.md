@@ -23,7 +23,7 @@ UK Might Use Drones in Retaliation to Cyberattacks
     <p>His words that day, especially with a massive cyberattack only hours later, brought mixed reactions. The most consistent theme, though, was that of precaution. He spoke of developing a new doctrine for responding to anonymously orchestrated cyberattacks—these attacks are in a “grey area” and below the threshold of war. Fallon wants military responses to these attacks.</p>
     <p>The precaution and concern took the form of a warning: cyberattacks can easily be attributed falsely. Launching a drone-powered airstrike at an innocent party could elicit far worse repercussions.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cyberattacks/" rel="tag">cyberattacks</a> <a href="https://www.deepdotweb.com/tag/drones/" rel="tag">drones</a> <a href="https://www.deepdotweb.com/tag/retaliation/" rel="tag">retaliation</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span> <span style="display:none" class="updated">2017-07-16</span>
+    <a href="https://www.deepdotweb.com/tag/cyberattacks/" rel="tag">cyberattacks</a> <a href="https://www.deepdotweb.com/tag/drones/" rel="tag">drones</a> <a href="https://www.deepdotweb.com/tag/retaliation/" rel="tag">retaliation</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span> <span style="display:none" class="updated">2017-07-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

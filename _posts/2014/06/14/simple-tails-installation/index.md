@@ -20,7 +20,7 @@ Simple TAILS Installation
     <p>If this sounds like too much of a hassle and you want an OS that can be run in the background while you are doing other work then try <a href="http://www.deepdotweb.com/2014/06/13/simple-whonix-installation-tutorial/">Whonix</a> instead. Don’t just browse on your default operating system.</p>
     <p><strong>This tutorial is posted also in the <a href="http://www.deepdotweb.com/security-tutorials/">Security tutorials</a> section.</strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/installation/" rel="tag">installation</a> <a href="https://www.deepdotweb.com/tag/simple/" rel="tag">simple</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span> <span style="display:none" class="updated">2014-06-14</span>
+    <a href="https://www.deepdotweb.com/tag/installation/" rel="tag">installation</a> <a href="https://www.deepdotweb.com/tag/simple/" rel="tag">simple</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span> <span style="display:none" class="updated">2014-06-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chris/" title="Posts by Chris" rel="author">Chris</a></strong></div>
     </div>
 </article>

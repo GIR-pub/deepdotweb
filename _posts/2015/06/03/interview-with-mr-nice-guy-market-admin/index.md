@@ -114,7 +114,7 @@ Interview: &#8220;Mr. Nice Guy&#8221; Market Admin Tells His Story
     <p>But for ever more against less sophisticated third world countries, so programming it would still be worth while.</p>
     <p>I will shortly open a new forum section for dark net service security, so all peers from all markets are welcome to exchange ideas and info.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/guy/" rel="tag">guy</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/nice/" rel="tag">nice</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a></span> <span style="display:none" class="updated">2015-06-03</span>
+    <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/guy/" rel="tag">guy</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/nice/" rel="tag">nice</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a></span> <span style="display:none" class="updated">2015-06-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

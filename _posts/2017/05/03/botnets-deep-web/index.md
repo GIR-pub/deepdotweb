@@ -42,7 +42,7 @@ Botnets and the Deep Web
     <p>This model utilizes the proxy-aware malware. As the Tor2Web service is not used, the bot has to execute the Tor clients on the victim hosts. Bots have to have SOCK55 support in order to be able to reach onion addresses on the Tor network via running Tor on infected machines.</p>
     <p>Moreover, you can <a href="https://www.deepdotweb.com/2016/12/21/zeus-botnet-successor-floki-bot-available-alphabay/">buy botnet malware on some of the marketplaces on the deep web</a>. However, if you choose to buy any malware from the deep web, you should be extremely careful, as you can get your machine infected when dealing with black hat hackers.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/botnets/" rel="tag">botnets</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-03</span>
+    <a href="https://www.deepdotweb.com/tag/botnets/" rel="tag">botnets</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     </div>
 </article>

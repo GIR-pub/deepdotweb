@@ -37,7 +37,7 @@ Meet the Vault 43
     <p><a href="/imgs/2014/01/vault43.png"><img class="aligncenter size-full wp-image-3461" alt="vault43" src="/imgs/2014/01/vault43.png" width="1069" height="868" srcset="/imgs/2014/01/vault43.png 1069w, /imgs/2014/01/vault43-300x244.png 300w, /imgs/2014/01/vault43-1024x831.png 1024w" sizes="(max-width: 1069px) 100vw, 1069px"/></a></p>
     <p>Vault43 Is listed on our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of hidden marketplaces</a>, as we understand its undergoing developments so its now listed under the new markets / being developed &#8211; and will change its status once we will see some more features being released.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/43/" rel="tag">43</a> <a href="https://www.deepdotweb.com/tag/meet/" rel="tag">meet</a> <a href="https://www.deepdotweb.com/tag/vault/" rel="tag">vault</a></span> <span style="display:none" class="updated">2014-01-14</span>
+    <a href="https://www.deepdotweb.com/tag/43/" rel="tag">43</a> <a href="https://www.deepdotweb.com/tag/meet/" rel="tag">meet</a> <a href="https://www.deepdotweb.com/tag/vault/" rel="tag">vault</a></span> <span style="display:none" class="updated">2014-01-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

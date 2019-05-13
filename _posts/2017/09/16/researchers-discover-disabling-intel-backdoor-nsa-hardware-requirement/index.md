@@ -29,7 +29,7 @@ Researchers Discover Disabling of Intel ME Backdoor Through NSA Hardware Require
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/backdoor/" rel="tag">backdoor</a> <a href="https://www.deepdotweb.com/tag/disabling/" rel="tag">disabling</a> <a href="https://www.deepdotweb.com/tag/discover/" rel="tag">discover</a> <a href="https://www.deepdotweb.com/tag/hardware/" rel="tag">hardware</a> <a href="https://www.deepdotweb.com/tag/intel/" rel="tag">intel</a> <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/requirement/" rel="tag">requirement</a> <a href="https://www.deepdotweb.com/tag/researchers/" rel="tag">researchers</a></span>				<span style="display:none" class="updated">2017-09-16</span>
+    <a href="https://www.deepdotweb.com/tag/backdoor/" rel="tag">backdoor</a> <a href="https://www.deepdotweb.com/tag/disabling/" rel="tag">disabling</a> <a href="https://www.deepdotweb.com/tag/discover/" rel="tag">discover</a> <a href="https://www.deepdotweb.com/tag/hardware/" rel="tag">hardware</a> <a href="https://www.deepdotweb.com/tag/intel/" rel="tag">intel</a> <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/requirement/" rel="tag">requirement</a> <a href="https://www.deepdotweb.com/tag/researchers/" rel="tag">researchers</a></span>				<span style="display:none" class="updated">2017-09-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
     
     

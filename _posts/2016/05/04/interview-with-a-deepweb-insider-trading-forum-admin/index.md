@@ -84,7 +84,7 @@ Interview: Insider Trading Forum Admin
     <p>We do intense screening, having the tiniest suspicion on a user would qualify the user for rejection, and would not make it passed the application stage. Yes we also make money off of this forum, but most importantly we would like the most talented people in trading to join and we have been successful at that.</p>
     <p><strong>Thank you for this interview.</strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/insider/" rel="tag">insider</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/trading/" rel="tag">trading</a></span> <span style="display:none" class="updated">2016-05-04</span>
+    <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/insider/" rel="tag">insider</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/trading/" rel="tag">trading</a></span> <span style="display:none" class="updated">2016-05-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

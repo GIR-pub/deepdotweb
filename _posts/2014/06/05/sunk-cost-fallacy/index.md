@@ -15,7 +15,7 @@ The Sunk Cost Fallacy
     <p>That is so true, and somehow it takes a careful elaboration for some of us to realise it.</p>
     <p>Investing more time and effort in something that does not contain any value moving forward will just snowball the eventual loss. There are painful realisations and decisions that we will face in every phase of our lives. It is an obvious theory that some of us, somehow, neglect.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cost/" rel="tag">cost</a> <a href="https://www.deepdotweb.com/tag/fallacy/" rel="tag">fallacy</a> <a href="https://www.deepdotweb.com/tag/sunk/" rel="tag">sunk</a></span> <span style="display:none" class="updated">2014-06-05</span>
+    <a href="https://www.deepdotweb.com/tag/cost/" rel="tag">cost</a> <a href="https://www.deepdotweb.com/tag/fallacy/" rel="tag">fallacy</a> <a href="https://www.deepdotweb.com/tag/sunk/" rel="tag">sunk</a></span> <span style="display:none" class="updated">2014-06-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chrisk/" title="Posts by Chris K." rel="author">Chris K.</a></strong></div>
     </div>
 </article>

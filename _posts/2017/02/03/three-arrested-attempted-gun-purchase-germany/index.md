@@ -26,7 +26,7 @@ Three Arrested For Attempted Gun Purchase In Germany
     <p>Law enforcement authorities, escorted by a special riot unit, raided two apartments in St. Augustin and the Bonn University Clinic.</p>
     <p>“We have seized 2.65 kilos of amphetamine and utensils that are needed for delivery of goods by mail, found,” said the prosecutor. In addition to that, police confiscated a stun <a href="https://www.deepdotweb.com/tag/gun/">gun</a> in the suspect’s apartment.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/attempted/" rel="tag">attempted</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/purchase/" rel="tag">purchase</a></span> <span style="display:none" class="updated">2017-02-03</span>
+    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/attempted/" rel="tag">attempted</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/purchase/" rel="tag">purchase</a></span> <span style="display:none" class="updated">2017-02-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

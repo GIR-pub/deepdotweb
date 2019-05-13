@@ -20,7 +20,7 @@ Agora Downtimes &#8211; Resources Reminder
     </ol>
     <p>This are the only places that may provide some answers regarding the current status.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/downtime/" rel="tag">downtime</a> <a href="https://www.deepdotweb.com/tag/reminder/" rel="tag">reminder</a> <a href="https://www.deepdotweb.com/tag/resource/" rel="tag">resource</a></span> <span style="display:none" class="updated">2015-04-15</span>
+    <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/downtime/" rel="tag">downtime</a> <a href="https://www.deepdotweb.com/tag/reminder/" rel="tag">reminder</a> <a href="https://www.deepdotweb.com/tag/resource/" rel="tag">resource</a></span> <span style="display:none" class="updated">2015-04-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

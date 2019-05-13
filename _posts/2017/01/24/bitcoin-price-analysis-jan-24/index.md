@@ -36,7 +36,7 @@ Bitcoin Price Analysis Jan 24th
     <p>In the medium term I am bullish. I expect a gradual rise up to retest $1000 levels.</p>
     <p>Contact this author at bitcoinmarketanalyst@gmail.com</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/24th/" rel="tag">24th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jan/" rel="tag">jan</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2017-01-24</span>
+    <a href="https://www.deepdotweb.com/tag/24th/" rel="tag">24th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/jan/" rel="tag">jan</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2017-01-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     </div>
 </article>

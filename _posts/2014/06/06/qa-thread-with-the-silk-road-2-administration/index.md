@@ -82,7 +82,7 @@ Q&#038;A Thread With The Silk Road 2 Administration
     <p><strong>&#8212;&#8211;</strong></p>
     <p>Sure there are many more questions that could have been asked and the more harder questions are not present here (about some hack topics and why there is not escrow / multisig yet when it can be implemented in few hours as other <a href="http://www.deepdotweb.com/2014/05/09/interview-pirate-market-admin/">Admins demonstrated</a> before) and sure that some of the answers are directed more at the PR side rather than the real info side, but still any information sharing should not be taken for granted on the the deep web, and this is without a doubt a nice way to introduce a new admin.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/administration/" rel="tag">administration</a> <a href="https://www.deepdotweb.com/tag/qa/" rel="tag">qa</a>  <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> <span style="display:none" class="updated">2014-06-06</span>
+    <a href="https://www.deepdotweb.com/tag/administration/" rel="tag">administration</a> <a href="https://www.deepdotweb.com/tag/qa/" rel="tag">qa</a>  <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> <span style="display:none" class="updated">2014-06-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>
