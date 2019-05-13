@@ -29,6 +29,4 @@ On the Topic of the DoJ’s Operation Pacifier Acquittal
     </div>
     <a href="https://www.deepdotweb.com/tag/acquittal/" rel="tag">acquittal</a> <a href="https://www.deepdotweb.com/tag/dojs/" rel="tag">dojs</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/pacifier/" rel="tag">pacifier</a> <a href="https://www.deepdotweb.com/tag/topic/" rel="tag">topic</a></span> <span style="display:none" class="updated">2017-05-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

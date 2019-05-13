@@ -27,6 +27,4 @@ Facebook Loses Appeal Against Bulk Warrant
     </div>
     <a href="https://www.deepdotweb.com/tag/appeal/" rel="tag">appeal</a> <a href="https://www.deepdotweb.com/tag/bulk/" rel="tag">bulk</a> <a href="https://www.deepdotweb.com/tag/facebook/" rel="tag">facebook</a> <a href="https://www.deepdotweb.com/tag/loses/" rel="tag">loses</a> <a href="https://www.deepdotweb.com/tag/warrant/" rel="tag">warrant</a></span> <span style="display:none" class="updated">2017-04-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

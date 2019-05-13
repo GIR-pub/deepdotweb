@@ -23,6 +23,4 @@ Supreme Court to Hear Alleged Silk Road Admin’s Appeal
     </div>
     <a href="https://www.deepdotweb.com/tag/admins/" rel="tag">admins</a> <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/appeal/" rel="tag">appeal</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/hear/" rel="tag">hear</a>  <a href="https://www.deepdotweb.com/tag/supreme/" rel="tag">supreme</a></span> <span style="display:none" class="updated">2017-04-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

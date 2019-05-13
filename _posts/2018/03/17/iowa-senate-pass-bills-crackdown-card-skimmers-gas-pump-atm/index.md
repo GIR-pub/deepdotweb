@@ -20,6 +20,4 @@ Iowa Senate Pass Bills to Crackdown Card Skimmers on Gas Pump and ATM
 <p>This move is a relief, and authorities should ensure that skimmers are chased with whatever means to subject them under the law. The Iowa state authorities have also ensured that the right measures will be put in place to make their goals achievable.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/atm/" rel="tag">atm</a> <a href="https://www.deepdotweb.com/tag/bills/" rel="tag">bills</a> <a href="https://www.deepdotweb.com/tag/card/" rel="tag">card</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/gas/" rel="tag">gas</a> <a href="https://www.deepdotweb.com/tag/iowa/" rel="tag">iowa</a> <a href="https://www.deepdotweb.com/tag/pass/" rel="tag">pass</a> <a href="https://www.deepdotweb.com/tag/pump/" rel="tag">pump</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a> <a href="https://www.deepdotweb.com/tag/skimmers/" rel="tag">skimmers</a></span> <span style="display:none" class="updated">2018-03-17<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-</div>
-</article>
 

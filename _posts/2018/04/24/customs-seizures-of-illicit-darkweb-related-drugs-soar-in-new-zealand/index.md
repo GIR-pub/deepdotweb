@@ -20,6 +20,4 @@ Customs Seizures Of Illicit Darkweb Related Drugs Soar In New Zealand
 <p>He also described the issue with methamphetamine as &#8220;the balloon effect&#8221;. &#8220;When you get a balloon and you squeeze one part, it is going to pop out somewhere else,&#8221; Bell stated. He indicated that the only way to reduce demand was to support addicts and educate the public about the dangers of illicit drug use.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/customs/" rel="tag">customs</a> <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a>  <a href="https://www.deepdotweb.com/tag/illicit/" rel="tag">illicit</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a> <a href="https://www.deepdotweb.com/tag/seizures/" rel="tag">seizures</a> <a href="https://www.deepdotweb.com/tag/soar/" rel="tag">soar</a> <a href="https://www.deepdotweb.com/tag/zealand/" rel="tag">zealand</a></span> <span style="display:none" class="updated">2018-04-24<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-</div>
-</article>
 

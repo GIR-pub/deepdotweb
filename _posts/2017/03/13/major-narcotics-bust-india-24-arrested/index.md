@@ -22,6 +22,4 @@ Major Narcotics Bust In India – 24 Arrested
 <p>&#8220;We are closely monitoring some hangouts and pubs in KR Puram, Kammanahalli and Marathahalli were we suspect drug peddling,&#8221; an officer investigating the case added.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/24/" rel="tag">24</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a></span> <span style="display:none" class="updated">2017-03-13<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

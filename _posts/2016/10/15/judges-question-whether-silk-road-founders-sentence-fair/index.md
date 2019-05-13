@@ -23,6 +23,4 @@ Judges question whether Silk Road founder’s sentence is fair
     </div>
     <a href="https://www.deepdotweb.com/tag/fair/" rel="tag">fair</a> <a href="https://www.deepdotweb.com/tag/founders/" rel="tag">founders</a> <a href="https://www.deepdotweb.com/tag/judges/" rel="tag">judges</a> <a href="https://www.deepdotweb.com/tag/question/" rel="tag">question</a>  <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2016-10-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/joewebber/" title="Posts by Joe Webber" rel="author">Joe Webber</a></strong></div>
-    </div>
-</article>
-
+    

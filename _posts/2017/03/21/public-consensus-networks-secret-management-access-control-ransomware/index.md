@@ -27,6 +27,4 @@ tag-access tag-consensus tag-control tag-management tag-networks tag-public tag-
 <p>In hackers&#8217; hands, this aids in the formulation of autonomous ransomware which operates in a verifiable manner without having to deal with any C&amp;C (command and control) or secret distribution center.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/access/" rel="tag">access</a> <a href="https://www.deepdotweb.com/tag/consensus/" rel="tag">consensus</a> <a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/management/" rel="tag">management</a> <a href="https://www.deepdotweb.com/tag/networks/" rel="tag">networks</a> <a href="https://www.deepdotweb.com/tag/public/" rel="tag">public</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/secret/" rel="tag">secret</a></span> <span style="display:none" class="updated">2017-03-21<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

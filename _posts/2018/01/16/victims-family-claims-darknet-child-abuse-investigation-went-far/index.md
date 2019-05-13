@@ -22,6 +22,4 @@ Victim’s Family Claims Darknet Child Abuse Investigation Went Too Far
 <p>In the grandmother’s eyes, HSI could have stopped the men before the admins and the child’s father raped her loved one. HSI maintains that they could not have known what the men had planned. They knew the father had previously spent time in prison for murder and they knew Falte and Faulkner planned <em>something</em>, but HSI and Argos argue that they knew nothing of the abuse prior before it took place.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/family/" rel="tag">family</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/victims/" rel="tag">victims</a></span> <span style="display:none" class="updated">2018-01-16<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

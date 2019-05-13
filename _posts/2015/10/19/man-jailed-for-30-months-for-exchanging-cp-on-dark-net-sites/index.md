@@ -24,6 +24,4 @@ Man Jailed For 30 Months For Exchanging CP On Dark Net Sites
 <p>He is now tackling his problems and is working with the Lucy Faithfull Foundation, which helps users of internet pornography change their behavior.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/exchanging/" rel="tag">exchanging</a> <a href="https://www.deepdotweb.com/tag/exminster/" rel="tag">exminster</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a></span> <span style="display:none" class="updated">2015-10-19<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

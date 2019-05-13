@@ -43,6 +43,4 @@ Melon Protocol &#8211; A Protocol for Managing Digital Assets Using Ethereum&#82
     </div>
     <a href="https://www.deepdotweb.com/tag/assets/" rel="tag">assets</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/ethereums/" rel="tag">ethereums</a> <a href="https://www.deepdotweb.com/tag/managing/" rel="tag">managing</a> <a href="https://www.deepdotweb.com/tag/melon/" rel="tag">melon</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a></span> <span style="display:none" class="updated">2017-02-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

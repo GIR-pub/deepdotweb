@@ -23,6 +23,4 @@ tag-crisis tag-darknet tag-forums tag-hackers tag-hat tag-periods tag-research t
 </div>
  <a href="https://www.deepdotweb.com/tag/crisis/" rel="tag">crisis</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/hat/" rel="tag">hat</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/periods/" rel="tag">periods</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/shutdown/" rel="tag">shutdown</a></span> <span style="display:none" class="updated">2018-12-02</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

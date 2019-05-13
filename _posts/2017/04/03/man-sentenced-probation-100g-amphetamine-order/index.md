@@ -24,6 +24,4 @@ Man Sentenced to Probation for 100g Amphetamine Order
     </div>
     <a href="https://www.deepdotweb.com/tag/100g/" rel="tag">100g</a> <a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/order/" rel="tag">order</a> <a href="https://www.deepdotweb.com/tag/probation/" rel="tag">probation</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-04-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -32,6 +32,4 @@ Ethereum: Making the Entire World Trustless (Part 1 &#8211; Introduction)
     </div>
     <a href="https://www.deepdotweb.com/tag/entire/" rel="tag">entire</a> <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a> <a href="https://www.deepdotweb.com/tag/making/" rel="tag">making</a> <a href="https://www.deepdotweb.com/tag/trustless/" rel="tag">trustless</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2014-08-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    </div>
-</article>
-
+    

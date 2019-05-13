@@ -68,6 +68,4 @@ Book Review: Data And Goliath By Bruce Schneier
 <p>Review by Jon Southurst</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/bruce/" rel="tag">bruce</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/goliath/" rel="tag">goliath</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/schneier/" rel="tag">schneier</a></span> <span style="display:none" class="updated">2015-03-11<a href="https://www.deepdotweb.com/author/jonsouthurst/" title="Posts by Jon Southurst" rel="author">Jon Southurst</a></strong></div>
-</div>
-</article>
 

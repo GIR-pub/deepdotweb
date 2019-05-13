@@ -20,6 +20,4 @@ Dark Web Child Porn Users Caught Using Clearnet File Sharing Service
     </div>
     <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/clearnet/" rel="tag">clearnet</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/file/" rel="tag">file</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/sharing/" rel="tag">sharing</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dhume/" title="Posts by D. Hume" rel="author">D. Hume</a></strong></div>
-    </div>
-</article>
-
+    

@@ -29,6 +29,4 @@ Cambridge Professor Obtains 2,000 CP on Dark Web Only Receives 1 Year Sentence
     </div>
     <a href="https://www.deepdotweb.com/tag/2000/" rel="tag">2000</a> <a href="https://www.deepdotweb.com/tag/cambridge/" rel="tag">cambridge</a> <a href="https://www.deepdotweb.com/tag/cp/" rel="tag">cp</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/obtains/" rel="tag">obtains</a> <a href="https://www.deepdotweb.com/tag/professor/" rel="tag">professor</a> <a href="https://www.deepdotweb.com/tag/receives/" rel="tag">receives</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2017-05-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

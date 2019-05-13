@@ -24,6 +24,4 @@ Maryland Man Guilty of Darknet Child Porn Accusations
     </div>
     <a href="https://www.deepdotweb.com/tag/accusations/" rel="tag">accusations</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/maryland/" rel="tag">maryland</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a></span> <span style="display:none" class="updated">2017-02-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

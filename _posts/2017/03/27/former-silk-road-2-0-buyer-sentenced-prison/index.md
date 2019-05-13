@@ -21,6 +21,4 @@ tag-buyer tag-prison tag-sentenced
 <p>&#8220;The West Michigan Enforcement Team, HSI Grand Rapids, and the U.S. Attorney’s Office have a long history of collaboration and this case is another great example of that relationship,&#8221; said Detective First Lieutenant Andy Fias, WEMET Section Commander. &#8220;We value this partnership and it was successful in this investigation and others in the past. The disruption of this drug trafficking organization will have a deep impact on several West Michigan communities.&#8221;</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2017-03-27<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

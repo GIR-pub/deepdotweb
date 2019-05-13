@@ -28,6 +28,4 @@ Romanian Hacker Gets Prison Time For Major US Hacking Scheme
     </div>
     <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/romanian/" rel="tag">romanian</a> <a href="https://www.deepdotweb.com/tag/scheme/" rel="tag">scheme</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a></span> <span style="display:none" class="updated">2016-10-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

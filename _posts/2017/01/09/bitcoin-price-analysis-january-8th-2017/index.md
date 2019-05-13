@@ -28,6 +28,4 @@ Bitcoin Price Analysis For January 8th, 2017
     </div>
     <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/8th/" rel="tag">8th</a> <a href="https://www.deepdotweb.com/tag/action/" rel="tag">action</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/correction/" rel="tag">correction</a> <a href="https://www.deepdotweb.com/tag/january/" rel="tag">january</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2017-01-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

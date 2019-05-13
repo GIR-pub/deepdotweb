@@ -22,6 +22,4 @@ Pandora Market BTC Prices Hacked or Broken
     </div>
     <a href="https://www.deepdotweb.com/tag/broken/" rel="tag">broken</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/pandora/" rel="tag">pandora</a> <a href="https://www.deepdotweb.com/tag/prices/" rel="tag">prices</a></span> <span style="display:none" class="updated">2014-02-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

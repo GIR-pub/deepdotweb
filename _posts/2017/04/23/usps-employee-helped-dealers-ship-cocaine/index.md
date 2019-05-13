@@ -20,6 +20,4 @@ USPS Employee Helped Dealers Ship Cocaine
     </div>
     <a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/helped/" rel="tag">helped</a> <a href="https://www.deepdotweb.com/tag/ship/" rel="tag">ship</a> <a href="https://www.deepdotweb.com/tag/usps/" rel="tag">usps</a></span> <span style="display:none" class="updated">2017-04-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

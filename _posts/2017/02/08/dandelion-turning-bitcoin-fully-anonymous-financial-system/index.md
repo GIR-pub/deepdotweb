@@ -31,6 +31,4 @@ Dandelion &#8211; Turning Bitcoin Into A Fully Anonymous Financial System
     </div>
     <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dandelion/" rel="tag">dandelion</a> <a href="https://www.deepdotweb.com/tag/financial/" rel="tag">financial</a> <a href="https://www.deepdotweb.com/tag/fully/" rel="tag">fully</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/turning/" rel="tag">turning</a></span> <span style="display:none" class="updated">2017-02-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

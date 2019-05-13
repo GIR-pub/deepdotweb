@@ -24,6 +24,4 @@ Vic Underworld Founder Sentenced to Four Months
     </div>
     <a href="https://www.deepdotweb.com/tag/founder/" rel="tag">founder</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/underworld/" rel="tag">underworld</a> <a href="https://www.deepdotweb.com/tag/vic/" rel="tag">vic</a></span> <span style="display:none" class="updated">2017-05-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

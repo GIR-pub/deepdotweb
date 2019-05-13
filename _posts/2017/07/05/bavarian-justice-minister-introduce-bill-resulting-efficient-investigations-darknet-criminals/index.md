@@ -28,6 +28,4 @@ Bavarian Justice Minister To Introduce Bill Resulting In More Efficient Investig
     </div>
     <a href="https://www.deepdotweb.com/tag/bavarian/" rel="tag">bavarian</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/efficient/" rel="tag">efficient</a> <a href="https://www.deepdotweb.com/tag/introduce/" rel="tag">introduce</a> <a href="https://www.deepdotweb.com/tag/investigations/" rel="tag">investigations</a> <a href="https://www.deepdotweb.com/tag/justice/" rel="tag">justice</a> <a href="https://www.deepdotweb.com/tag/minister/" rel="tag">minister</a> <a href="https://www.deepdotweb.com/tag/resulting/" rel="tag">resulting</a></span> <span style="display:none" class="updated">2017-07-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

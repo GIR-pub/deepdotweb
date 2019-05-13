@@ -40,6 +40,4 @@ The Alternate DPR defense May Still Succeed
     </div>
     <a href="https://www.deepdotweb.com/tag/alternate/" rel="tag">alternate</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a> <a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a> <a href="https://www.deepdotweb.com/tag/succeed/" rel="tag">succeed</a></span> <span style="display:none" class="updated">2015-01-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

@@ -25,6 +25,4 @@ German Couple Sentenced For Fraud And Drug Possession
 <p>The court followed the representative’s recommendation. The woman was sentenced to pay 2,000 euros (in installments of 250 euros) to one of the victims. Since the digital camera was not sold, it was given back to its rightful owner. Her friend was sentenced to pay 200 euros for drug possession. The fraud charges against him were dropped.</p>
 </div>
 <span style="display:none" class="updated">2017-03-11<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

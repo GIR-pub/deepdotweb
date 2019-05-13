@@ -28,6 +28,4 @@ Study Suggests “Organized Crime” Evolved With Cybercrime
     </div>
     <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/evolved/" rel="tag">evolved</a> <a href="https://www.deepdotweb.com/tag/organized/" rel="tag">organized</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/suggests/" rel="tag">suggests</a></span> <span style="display:none" class="updated">2017-06-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -19,6 +19,4 @@ Ashington Pedophile Sentenced to 32 Months for Distributing ‘Child Pornography
 <p>According to the prosecutor, the police discovered several types of illegal media on electronic devices in Boulton&#8217;s home. Officers arrested him for making and distributing indecent images of children. Boulton is now in prison, serving a 32-month sentence after the court convicted him for committing the same crime.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/32/" rel="tag">32</a> <a href="https://www.deepdotweb.com/tag/ashington/" rel="tag">ashington</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/distributing/" rel="tag">distributing</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-08-06<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

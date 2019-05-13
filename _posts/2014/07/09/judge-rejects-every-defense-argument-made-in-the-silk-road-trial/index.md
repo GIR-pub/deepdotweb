@@ -28,6 +28,4 @@ Judge Rejects Every Defense Argument In The Silk Road Trial
     </div>
     <a href="https://www.deepdotweb.com/tag/argument/" rel="tag">argument</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/rejects/" rel="tag">rejects</a>  <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span> <span style="display:none" class="updated">2014-07-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

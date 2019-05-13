@@ -26,6 +26,4 @@ Darknet Child Pornography Buyer Convicted, Avoids Prison
 <p>Even within the UK, sentencing for child pornography criminals can vary greatly. If charges include the collection of child pornography over a longer period of time, criminals will be asked to serve multi-year prison sentences.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/avoids/" rel="tag">avoids</a> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a></span> <span style="display:none" class="updated">2017-03-29<a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-</div>
-</article>
 

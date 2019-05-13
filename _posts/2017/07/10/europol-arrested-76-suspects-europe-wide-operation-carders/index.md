@@ -24,6 +24,4 @@ Europol Arrested 76 Suspects In Europe-Wide Operation Against Carders
     </div>
     <a href="https://www.deepdotweb.com/tag/76/" rel="tag">76</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/carders/" rel="tag">carders</a> <a href="https://www.deepdotweb.com/tag/europewide/" rel="tag">europewide</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/suspects/" rel="tag">suspects</a></span> <span style="display:none" class="updated">2017-07-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

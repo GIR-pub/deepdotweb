@@ -26,6 +26,4 @@ Before DarkNetMarkets Were Mainstream
     </div>
     <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/mainstream/" rel="tag">mainstream</a></span> <span style="display:none" class="updated">2015-01-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

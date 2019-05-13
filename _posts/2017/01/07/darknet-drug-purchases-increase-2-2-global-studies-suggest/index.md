@@ -25,6 +25,4 @@ Darknet Drug Purchases Increase by 2.2%, Global Studies Suggest
     </div>
     <a href="https://www.deepdotweb.com/tag/22/" rel="tag">22</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/purchases/" rel="tag">purchases</a> <a href="https://www.deepdotweb.com/tag/studies/" rel="tag">studies</a> <a href="https://www.deepdotweb.com/tag/suggest/" rel="tag">suggest</a></span> <span style="display:none" class="updated">2017-01-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

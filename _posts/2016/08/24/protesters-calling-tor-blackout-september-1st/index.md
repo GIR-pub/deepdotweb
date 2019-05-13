@@ -29,6 +29,4 @@ Protesters Are Calling for a Tor Blackout on September 1st
     </div>
     <a href="https://www.deepdotweb.com/tag/1st/" rel="tag">1st</a> <a href="https://www.deepdotweb.com/tag/blackout/" rel="tag">blackout</a> <a href="https://www.deepdotweb.com/tag/calling/" rel="tag">calling</a> <a href="https://www.deepdotweb.com/tag/protesters/" rel="tag">protesters</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> </span> <span style="display:none" class="updated">2016-08-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

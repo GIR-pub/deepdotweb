@@ -29,6 +29,4 @@ High-profile Government Websites Hacked for Dark web Cryptocurrency.
 <p>“There are easy ways of defending yourself from this kind of attack,” Helme Scott, the cyber security researcher who first spotted the attack said. “This is not necessarily a new attack but it’s the largest one that we have ever seen. We have known for a long time now that hosted assets are prone to a single target attack with potential of <a href="https://news.vice.com/en_us/article/qvekxp/hackers-dark-web-crutocurrency-monera">infecting thousands of other websites</a> across the globe,” he added.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/highprofile/" rel="tag">highprofile</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/websites/" rel="tag">websites</a></span> <span style="display:none" class="updated">2018-03-02<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

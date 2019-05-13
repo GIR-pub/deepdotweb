@@ -23,6 +23,4 @@ No AML Rules For BTC Wallet Providers In The UK
     </div>
     <a href="https://www.deepdotweb.com/tag/aml/" rel="tag">aml</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/provieders/" rel="tag">provieders</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> <span style="display:none" class="updated">2016-05-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

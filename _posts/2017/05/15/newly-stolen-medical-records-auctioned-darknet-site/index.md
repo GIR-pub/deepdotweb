@@ -27,6 +27,4 @@ Newly Stolen Medical Records Auctioned on Darknet Site
     </div>
     <a href="https://www.deepdotweb.com/tag/auctioned/" rel="tag">auctioned</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/medical/" rel="tag">medical</a> <a href="https://www.deepdotweb.com/tag/newly/" rel="tag">newly</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2017-05-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

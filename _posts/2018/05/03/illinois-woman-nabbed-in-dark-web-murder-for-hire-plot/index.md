@@ -24,6 +24,4 @@ Illinois Woman Nabbed in Dark Web Murder-For-Hire Plot
 <p>“He was seeing other women but he didn’t want to divorce her because of his position in the church,” Jamie Kreuser summed up.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/illinois/" rel="tag">illinois</a> <a href="https://www.deepdotweb.com/tag/murderforhire/" rel="tag">murderforhire</a> <a href="https://www.deepdotweb.com/tag/nabbed/" rel="tag">nabbed</a> <a href="https://www.deepdotweb.com/tag/plot/" rel="tag">plot</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/woman/" rel="tag">woman</a></span> <span style="display:none" class="updated">2018-05-03<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-</div>
-</article>
 

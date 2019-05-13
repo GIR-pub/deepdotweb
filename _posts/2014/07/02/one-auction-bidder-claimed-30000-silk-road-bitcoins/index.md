@@ -29,6 +29,4 @@ One Auction Bidder Claimed The 30,000 Silk Road Bitcoins
     </div>
     <a href="https://www.deepdotweb.com/tag/30000/" rel="tag">30000</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/bidder/" rel="tag">bidder</a> <a href="https://www.deepdotweb.com/tag/claimed/" rel="tag">claimed</a> </span> <span style="display:none" class="updated">2014-07-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

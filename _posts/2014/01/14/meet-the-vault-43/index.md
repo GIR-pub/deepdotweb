@@ -39,6 +39,4 @@ Meet the Vault 43
     </div>
     <a href="https://www.deepdotweb.com/tag/43/" rel="tag">43</a> <a href="https://www.deepdotweb.com/tag/meet/" rel="tag">meet</a> <a href="https://www.deepdotweb.com/tag/vault/" rel="tag">vault</a></span> <span style="display:none" class="updated">2014-01-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

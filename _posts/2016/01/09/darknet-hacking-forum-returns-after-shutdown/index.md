@@ -20,6 +20,4 @@ Darknet Hacking Forum &#8220;Hell&#8221; Returns After Shutdown
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/returns/" rel="tag">returns</a> <a href="https://www.deepdotweb.com/tag/shutdown/" rel="tag">shutdown</a></span> <span style="display:none" class="updated">2016-01-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

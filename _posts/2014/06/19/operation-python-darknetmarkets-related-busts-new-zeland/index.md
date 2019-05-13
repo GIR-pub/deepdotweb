@@ -46,6 +46,4 @@ Operation Python: DarkNetMarkets Related Busts In New Zeland
     </div>
     <a href="https://www.deepdotweb.com/tag/busts/" rel="tag">busts</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/python/" rel="tag">python</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a> <a href="https://www.deepdotweb.com/tag/zeland/" rel="tag">zeland</a></span> <span style="display:none" class="updated">2014-06-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

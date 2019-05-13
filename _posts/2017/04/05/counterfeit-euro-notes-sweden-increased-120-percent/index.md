@@ -28,6 +28,4 @@ Counterfeit Euro Notes In Sweden Increased By 120 Percent
     </div>
     <a href="https://www.deepdotweb.com/tag/120/" rel="tag">120</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/euro/" rel="tag">euro</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a> <a href="https://www.deepdotweb.com/tag/notes/" rel="tag">notes</a> <a href="https://www.deepdotweb.com/tag/percent/" rel="tag">percent</a> <a href="https://www.deepdotweb.com/tag/sweden/" rel="tag">sweden</a></span> <span style="display:none" class="updated">2017-04-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

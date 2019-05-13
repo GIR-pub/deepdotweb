@@ -23,6 +23,4 @@ Hackers Leave 900,000 Germans Without Internet for Two Days
     </div>
     <a href="https://www.deepdotweb.com/tag/900000/" rel="tag">900000</a> <a href="https://www.deepdotweb.com/tag/days/" rel="tag">days</a> <a href="https://www.deepdotweb.com/tag/germans/" rel="tag">germans</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/leave/" rel="tag">leave</a></span> <span style="display:none" class="updated">2016-12-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

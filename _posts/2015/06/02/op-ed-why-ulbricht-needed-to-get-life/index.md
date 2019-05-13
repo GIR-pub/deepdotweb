@@ -24,6 +24,4 @@ Op-Ed: Why Ulbricht Needed to Get Life
     </div>
     <a href="https://www.deepdotweb.com/tag/life/" rel="tag">life</a> <a href="https://www.deepdotweb.com/tag/needed/" rel="tag">needed</a> <a href="https://www.deepdotweb.com/tag/oped/" rel="tag">oped</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2015-06-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

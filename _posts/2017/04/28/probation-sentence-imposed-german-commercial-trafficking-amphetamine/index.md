@@ -24,6 +24,4 @@ Probation Sentence Imposed On German For Commercial Trafficking Of Amphetamine
     </div>
     <a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a> <a href="https://www.deepdotweb.com/tag/commercial/" rel="tag">commercial</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/imposed/" rel="tag">imposed</a> <a href="https://www.deepdotweb.com/tag/probation/" rel="tag">probation</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-04-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

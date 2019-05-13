@@ -36,6 +36,4 @@ Energy Control Testing Fund On Agora &#038; Nucleus
     </div>
     <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a> <a href="https://www.deepdotweb.com/tag/fund/" rel="tag">fund</a> <a href="https://www.deepdotweb.com/tag/nucleus/" rel="tag">nucleus</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span> <span style="display:none" class="updated">2015-06-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

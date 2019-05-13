@@ -65,6 +65,4 @@ Gwern: Silk Road 2 Scrape Torrent Released
     </div>
     <a href="http://www.deepdotweb.com/tag/gwern/" rel="tag">gwern</a> <a href="http://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="http://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="http://www.deepdotweb.com/tag/scrape/" rel="tag">scrape</a> <a href="http://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="http://www.deepdotweb.com/tag/torrent/" rel="tag">torrent</a></span> <span style="display:none" class="updated">2015-05-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-    </div>
-</article>
-
+    

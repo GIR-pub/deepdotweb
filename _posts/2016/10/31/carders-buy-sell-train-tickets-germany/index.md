@@ -25,6 +25,4 @@ Two Men Convicted of Fraud After Using Darknet Acquired Credit Cards for Ticket 
     </div>
     <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/carders/" rel="tag">carders</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/sell/" rel="tag">sell</a> <a href="https://www.deepdotweb.com/tag/tickets/" rel="tag">tickets</a> <a href="https://www.deepdotweb.com/tag/train/" rel="tag">train</a></span> <span style="display:none" class="updated">2016-10-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

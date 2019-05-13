@@ -19,6 +19,4 @@ German Man on Trial for Abusing His Stepdaughter
 <p><a href="https://www.kreiszeitung.de/deutschland/vierjaehrige-missbraucht-ermittler-informieren-ueber-festnahme-zr-8758829.html">The court must decide</a> if the man will serve up to 15 years in prison for several charges of serious sexual abuse.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/abusing/" rel="tag">abusing</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/stepdaughter/" rel="tag">stepdaughter</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span> <span style="display:none" class="updated">2018-03-22<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

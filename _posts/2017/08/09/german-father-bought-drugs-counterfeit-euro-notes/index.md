@@ -22,6 +22,4 @@ German Father Bought Drugs With Counterfeit Euro Notes
     </div>
     <a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a>  <a href="https://www.deepdotweb.com/tag/euro/" rel="tag">euro</a> <a href="https://www.deepdotweb.com/tag/father/" rel="tag">father</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/notes/" rel="tag">notes</a></span> <span style="display:none" class="updated">2017-08-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

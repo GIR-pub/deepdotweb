@@ -18,6 +18,4 @@ Dark Web Vendor Chemical Love Busted, More Than 50 Kg Of Drugs Seized
     </div>
     <a href="https://www.deepdotweb.com/tag/50/" rel="tag">50</a>  <a href="https://www.deepdotweb.com/tag/chemical/" rel="tag">chemical</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/kg/" rel="tag">kg</a> <a href="https://www.deepdotweb.com/tag/love/" rel="tag">love</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-05-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

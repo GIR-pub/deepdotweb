@@ -23,6 +23,4 @@ A Ring of Fraudsters that Laundered Profits Using Bitcoin Busted
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a>  <a href="https://www.deepdotweb.com/tag/fraudsters/" rel="tag">fraudsters</a> <a href="https://www.deepdotweb.com/tag/laundered/" rel="tag">laundered</a> <a href="https://www.deepdotweb.com/tag/profits/" rel="tag">profits</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a></span> <span style="display:none" class="updated">2019-03-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/cashcard/" title="Posts by CashCard" rel="author">CashCard</a></strong></div>
-    </div>
-</article>
-
+    

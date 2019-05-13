@@ -20,6 +20,4 @@ Feds Split Up Stolen Sheep Market Funds
 <p>“This asset sharing is a perfect example of how a criminal’s illegal profits can be used to protect the citizens of our communities,” Special Agent in Charge Spero said during the press conference where United States Attorney Maria Chapa Lopez announced that the three law enforcement agencies would be receiving an “award.”</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/split/" rel="tag">split</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2018-02-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

@@ -27,6 +27,4 @@ Utilizing The Blockchain &#038; Smart Contract Technologies To Create a Decentra
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/contract/" rel="tag">contract</a> <a href="https://www.deepdotweb.com/tag/create/" rel="tag">create</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/smart/" rel="tag">smart</a> <a href="https://www.deepdotweb.com/tag/technologies/" rel="tag">technologies</a> <a href="https://www.deepdotweb.com/tag/utilizing/" rel="tag">utilizing</a></span> <span style="display:none" class="updated">2017-01-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

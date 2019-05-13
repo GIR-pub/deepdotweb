@@ -19,6 +19,4 @@ Prison Sentence For Dutch Man Who Tried To Purchase Assault Rifle And Explosives
     </div>
     <a href="https://www.deepdotweb.com/tag/assault/" rel="tag">assault</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/explosives/" rel="tag">explosives</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/purchase/" rel="tag">purchase</a> <a href="https://www.deepdotweb.com/tag/rifle/" rel="tag">rifle</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a></span> <span style="display:none" class="updated">2017-05-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

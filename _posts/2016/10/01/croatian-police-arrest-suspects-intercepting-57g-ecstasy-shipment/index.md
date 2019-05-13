@@ -19,6 +19,4 @@ Croatian Police Arrest Suspects After Intercepting 57g Ecstasy Shipment
     </div>
     <a href="https://www.deepdotweb.com/tag/57g/" rel="tag">57g</a> <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/croatian/" rel="tag">croatian</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/intercepting/" rel="tag">intercepting</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/shipment/" rel="tag">shipment</a> <a href="https://www.deepdotweb.com/tag/suspects/" rel="tag">suspects</a></span> <span style="display:none" class="updated">2016-10-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

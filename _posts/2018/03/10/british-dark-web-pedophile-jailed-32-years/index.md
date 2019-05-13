@@ -27,6 +27,4 @@ British Dark Web Pedophile Jailed For 32 Years
 <p>He had targeted over 300 people, according to the court and new reports now suggest that Cambridge is considering stripping him of his degrees.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/32/" rel="tag">32</a> <a href="https://www.deepdotweb.com/tag/british/" rel="tag">british</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-03-10<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-</div>
-</article>
 

@@ -19,6 +19,4 @@ How Ad Trackers Make Cryptocurrency Transactions Less Private
     </div>
     <a href="https://www.deepdotweb.com/tag/ad/" rel="tag">ad</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/private/" rel="tag">private</a> <a href="https://www.deepdotweb.com/tag/trackers/" rel="tag">trackers</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> <span style="display:none" class="updated">2017-09-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

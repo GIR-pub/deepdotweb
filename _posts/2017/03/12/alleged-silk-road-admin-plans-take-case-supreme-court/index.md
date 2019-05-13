@@ -28,6 +28,4 @@ Alleged Silk Road Admin Plans to Take Case to the Supreme Court
 <p>Gary Davis never mentioned how he planned to plead in the US.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/plans/" rel="tag">plans</a>  <a href="https://www.deepdotweb.com/tag/supreme/" rel="tag">supreme</a></span> <span style="display:none" class="updated">2017-03-12<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

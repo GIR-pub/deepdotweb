@@ -16,6 +16,4 @@ Black market Reloaded Forum Seized In Iran
     </div>
      <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a>  <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a></span> <span style="display:none" class="updated">2014-02-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

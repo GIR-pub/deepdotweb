@@ -25,6 +25,4 @@ Irish Dark Net Drug Dealer Requests Shorter Sentence for His Cooperation
     </div>
     <a href="https://www.deepdotweb.com/tag/cooperation/" rel="tag">cooperation</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>   <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/requests/" rel="tag">requests</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/shorter/" rel="tag">shorter</a></span> <span style="display:none" class="updated">2016-10-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

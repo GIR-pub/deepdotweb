@@ -24,6 +24,4 @@ Former Customer Of The Narcotics Vendor Shiny Flakes Ordered To Pay Fine
     </div>
     <a href="https://www.deepdotweb.com/tag/customer/" rel="tag">customer</a> <a href="https://www.deepdotweb.com/tag/fine/" rel="tag">fine</a> <a href="https://www.deepdotweb.com/tag/flakes/" rel="tag">flakes</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/ordered/" rel="tag">ordered</a> <a href="https://www.deepdotweb.com/tag/pay/" rel="tag">pay</a> <a href="https://www.deepdotweb.com/tag/shiny/" rel="tag">shiny</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-04-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

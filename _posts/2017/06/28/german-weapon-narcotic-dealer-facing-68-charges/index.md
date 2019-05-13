@@ -24,6 +24,4 @@ German Weapon And Narcotic Dealer Facing 68 Charges
     </div>
     <a href="https://www.deepdotweb.com/tag/68/" rel="tag">68</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a>  <a href="https://www.deepdotweb.com/tag/facing/" rel="tag">facing</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/narcotic/" rel="tag">narcotic</a> </span> <span style="display:none" class="updated">2017-06-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -25,6 +25,4 @@ Founder of BitInstant Charlie Shrem Released from Prison
     </div>
     <a href="https://www.deepdotweb.com/tag/bitinstant/" rel="tag">bitinstant</a> <a href="https://www.deepdotweb.com/tag/charlie/" rel="tag">charlie</a> <a href="https://www.deepdotweb.com/tag/founder/" rel="tag">founder</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="https://www.deepdotweb.com/tag/shrem/" rel="tag">shrem</a></span> <span style="display:none" class="updated">2016-07-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

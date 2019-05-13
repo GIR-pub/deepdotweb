@@ -21,6 +21,4 @@ FBI Intentionally Obstructing FOIA Requests
     </div>
     <a href="https://www.deepdotweb.com/tag/foia/" rel="tag">foia</a> <a href="https://www.deepdotweb.com/tag/inadequate/" rel="tag">inadequate</a> <a href="https://www.deepdotweb.com/tag/intentionally/" rel="tag">intentionally</a> <a href="https://www.deepdotweb.com/tag/obstructing/" rel="tag">obstructing</a> <a href="https://www.deepdotweb.com/tag/requests/" rel="tag">requests</a> <a href="https://www.deepdotweb.com/tag/technology/" rel="tag">technology</a></span> <span style="display:none" class="updated">2016-07-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -27,6 +27,4 @@ Austrian Sentenced For Narcotics Trafficking
 <p>The judge sentenced the suspect for 15 months in prison. According to the judge, the reason for the long sentence was to keep the accused clean from addiction and crime.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-03-04<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

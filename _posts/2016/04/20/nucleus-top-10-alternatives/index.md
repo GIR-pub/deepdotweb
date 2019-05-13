@@ -49,6 +49,4 @@ Nucleus Is Gone: These Are The Top Alternatives!
     </div>
     <a href="https://www.deepdotweb.com/tag/alternatives/" rel="tag">alternatives</a> <a href="https://www.deepdotweb.com/tag/nucleus/" rel="tag">nucleus</a> <a href="https://www.deepdotweb.com/tag/top/" rel="tag">top</a></span> <span style="display:none" class="updated">2016-04-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

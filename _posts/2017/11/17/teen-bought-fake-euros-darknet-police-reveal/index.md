@@ -19,6 +19,4 @@ Teen Bought Fake Euros From the Darknet, Police Reveal
     </div>
     <a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/euros/" rel="tag">euros</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/reveal/" rel="tag">reveal</a> <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a></span> <span style="display:none" class="updated">2017-11-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

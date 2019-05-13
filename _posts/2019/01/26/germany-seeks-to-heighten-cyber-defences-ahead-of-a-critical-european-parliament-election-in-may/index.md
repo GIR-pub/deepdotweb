@@ -29,6 +29,4 @@ Germany Seeks to Heighten Cyber Defences Ahead of a Critical European Parliament
     </div>
     <a href="https://www.deepdotweb.com/tag/ahead/" rel="tag">ahead</a> <a href="https://www.deepdotweb.com/tag/critical/" rel="tag">critical</a> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/defences/" rel="tag">defences</a> <a href="https://www.deepdotweb.com/tag/election/" rel="tag">election</a> <a href="https://www.deepdotweb.com/tag/european/" rel="tag">european</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/heighten/" rel="tag">heighten</a> <a href="https://www.deepdotweb.com/tag/parliament/" rel="tag">parliament</a> <a href="https://www.deepdotweb.com/tag/seeks/" rel="tag">seeks</a></span> <span style="display:none" class="updated">2019-01-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-    </div>
-</article>
-
+    

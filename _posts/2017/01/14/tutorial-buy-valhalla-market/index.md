@@ -98,6 +98,4 @@ Tutorial: How To Buy From the Valhalla Market?
     </div>
     <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/valhalla/" rel="tag">valhalla</a></span> <span style="display:none" class="updated">2017-01-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

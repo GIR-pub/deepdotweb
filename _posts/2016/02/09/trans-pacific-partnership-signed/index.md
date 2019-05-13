@@ -26,6 +26,4 @@ Trans-Pacific Partnership Signed
     </div>
     <a href="https://www.deepdotweb.com/tag/partnership/" rel="tag">partnership</a> <a href="https://www.deepdotweb.com/tag/signed/" rel="tag">signed</a> <a href="https://www.deepdotweb.com/tag/transpacific/" rel="tag">transpacific</a></span> <span style="display:none" class="updated">2016-02-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Twitter Announces Two FBI Gag Orders, Intends to Keep Pushing for Transparency
     </div>
     <a href="https://www.deepdotweb.com/tag/announces/" rel="tag">announces</a> <a href="https://www.deepdotweb.com/tag/gag/" rel="tag">gag</a> <a href="https://www.deepdotweb.com/tag/intends/" rel="tag">intends</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a> <a href="https://www.deepdotweb.com/tag/pushing/" rel="tag">pushing</a> <a href="https://www.deepdotweb.com/tag/transparency/" rel="tag">transparency</a> <a href="https://www.deepdotweb.com/tag/twitter/" rel="tag">twitter</a></span> <span style="display:none" class="updated">2017-02-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

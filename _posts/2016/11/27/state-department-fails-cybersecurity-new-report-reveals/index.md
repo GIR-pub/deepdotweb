@@ -26,6 +26,4 @@ State Department Fails at Cybersecurity Again, New Report Reveals
     </div>
     <a href="https://www.deepdotweb.com/tag/cybersecurity/" rel="tag">cybersecurity</a> <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a> <a href="https://www.deepdotweb.com/tag/fails/" rel="tag">fails</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/reveals/" rel="tag">reveals</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a></span> <span style="display:none" class="updated">2016-11-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

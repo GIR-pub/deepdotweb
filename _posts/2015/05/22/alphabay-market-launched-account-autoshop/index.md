@@ -19,6 +19,4 @@ AlphaBay Market Launched Account Autoshop
     </div>
     <a href="https://www.deepdotweb.com/tag/account/" rel="tag">account</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/autoshop/" rel="tag">autoshop</a> <a href="https://www.deepdotweb.com/tag/launched/" rel="tag">launched</a></span> <span style="display:none" class="updated">2015-05-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

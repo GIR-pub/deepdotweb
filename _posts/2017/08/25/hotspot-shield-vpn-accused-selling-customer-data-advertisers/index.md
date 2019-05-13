@@ -20,6 +20,4 @@ Hotspot Shield VPN Accused of Selling Customer Data to Advertisers
     </div>
     <a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a> <a href="https://www.deepdotweb.com/tag/advertisers/" rel="tag">advertisers</a> <a href="https://www.deepdotweb.com/tag/customer/" rel="tag">customer</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/hotspot/" rel="tag">hotspot</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/shield/" rel="tag">shield</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2017-08-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

@@ -31,6 +31,4 @@ How do Russians run business on darknet?
 <p>An employer pays for supplies as well. After a job is completed a graffiti maker files a report in which photos and GPS coordinates are included.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/run/" rel="tag">run</a> <a href="https://www.deepdotweb.com/tag/russians/" rel="tag">russians</a></span> <span style="display:none" class="updated">2018-01-06<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
-</div>
-</article>
 

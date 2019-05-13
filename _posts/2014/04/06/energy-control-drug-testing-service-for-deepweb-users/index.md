@@ -50,6 +50,4 @@ Energy Control: Drug Testing Service For DeepWeb Users
     </div>
     <a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a></span> <span style="display:none" class="updated">2014-04-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

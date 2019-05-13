@@ -26,6 +26,4 @@ Brian Krebs Attacked By Hackers: Largest DDoS Attack Against A Security Blogger
     </div>
     <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/attacked/" rel="tag">attacked</a> <a href="https://www.deepdotweb.com/tag/blogger/" rel="tag">blogger</a> <a href="https://www.deepdotweb.com/tag/brian/" rel="tag">brian</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/krebs/" rel="tag">krebs</a> <a href="https://www.deepdotweb.com/tag/largest/" rel="tag">largest</a> </span> <span style="display:none" class="updated">2016-10-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

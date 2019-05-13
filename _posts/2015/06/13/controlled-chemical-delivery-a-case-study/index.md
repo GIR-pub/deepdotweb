@@ -23,6 +23,4 @@ Controlled Chemical Delivery – A Case Study
     </div>
     <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/chemical/" rel="tag">chemical</a> <a href="https://www.deepdotweb.com/tag/controlled/" rel="tag">controlled</a> <a href="https://www.deepdotweb.com/tag/delivery/" rel="tag">delivery</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a></span> <span style="display:none" class="updated">2015-06-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

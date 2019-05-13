@@ -20,6 +20,4 @@ Computing Student At Leeds Met University Jailed For Accessing Child Porn Images
     </div>
     <a href="https://www.deepdotweb.com/tag/accessing/" rel="tag">accessing</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/computing/" rel="tag">computing</a> <a href="https://www.deepdotweb.com/tag/images/" rel="tag">images</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/leeds/" rel="tag">leeds</a> <a href="https://www.deepdotweb.com/tag/met/" rel="tag">met</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a></span> <span style="display:none" class="updated">2016-07-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

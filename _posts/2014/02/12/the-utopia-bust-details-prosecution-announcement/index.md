@@ -34,6 +34,4 @@ The Utopia Bust Details &#8211; Prosecution Announcement
     </div>
     <a href="https://www.deepdotweb.com/tag/announcement/" rel="tag">announcement</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/details/" rel="tag">details</a> <a href="https://www.deepdotweb.com/tag/prosecution/" rel="tag">prosecution</a> <a href="https://www.deepdotweb.com/tag/utopia/" rel="tag">utopia</a></span> <span style="display:none" class="updated">2014-02-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

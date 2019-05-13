@@ -21,6 +21,4 @@ Australia Considers Forcing ISPs to Block Digital Threats
     </div>
     <a href="https://www.deepdotweb.com/tag/australia/" rel="tag">australia</a> <a href="https://www.deepdotweb.com/tag/block/" rel="tag">block</a> <a href="https://www.deepdotweb.com/tag/considers/" rel="tag">considers</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/forcing/" rel="tag">forcing</a> <a href="https://www.deepdotweb.com/tag/isps/" rel="tag">isps</a> <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a></span> <span style="display:none" class="updated">2017-05-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

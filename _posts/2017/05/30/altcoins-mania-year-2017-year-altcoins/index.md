@@ -27,6 +27,4 @@ Altcoins mania &#8211; The year of 2017 is the year of altcoins
     </div>
     <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/altcoins/" rel="tag">altcoins</a> <a href="https://www.deepdotweb.com/tag/mania/" rel="tag">mania</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2017-05-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

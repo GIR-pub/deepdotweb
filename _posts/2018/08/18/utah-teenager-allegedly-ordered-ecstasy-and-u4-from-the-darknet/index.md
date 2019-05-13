@@ -18,6 +18,4 @@ Utah Teenager Allegedly Ordered Ecstasy and U4 from the Darknet
 <p>An investigation into any co-conspirators is currently underway.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/allegedly/" rel="tag">allegedly</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/ordered/" rel="tag">ordered</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a> <a href="https://www.deepdotweb.com/tag/u4/" rel="tag">u4</a> <a href="https://www.deepdotweb.com/tag/utah/" rel="tag">utah</a></span> <span style="display:none" class="updated">2018-08-18<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

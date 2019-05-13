@@ -19,6 +19,4 @@ Sweden May Introduce VPN Surveillance and More Data Retention Requirements
     </div>
     <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/introduce/" rel="tag">introduce</a> <a href="https://www.deepdotweb.com/tag/requirements/" rel="tag">requirements</a> <a href="https://www.deepdotweb.com/tag/retention/" rel="tag">retention</a> <a href="https://www.deepdotweb.com/tag/surveillance/" rel="tag">surveillance</a> <a href="https://www.deepdotweb.com/tag/sweden/" rel="tag">sweden</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2017-09-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

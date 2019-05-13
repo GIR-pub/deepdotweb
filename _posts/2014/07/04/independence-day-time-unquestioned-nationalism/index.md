@@ -24,6 +24,4 @@ Independence Day: A Time for Unquestioned Nationalism
     </div>
     <a href="https://www.deepdotweb.com/tag/day/" rel="tag">day</a> <a href="https://www.deepdotweb.com/tag/independence/" rel="tag">independence</a> <a href="https://www.deepdotweb.com/tag/nationalism/" rel="tag">nationalism</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a> <a href="https://www.deepdotweb.com/tag/unquestioned/" rel="tag">unquestioned</a></span> <span style="display:none" class="updated">2014-07-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    </div>
-</article>
-
+    

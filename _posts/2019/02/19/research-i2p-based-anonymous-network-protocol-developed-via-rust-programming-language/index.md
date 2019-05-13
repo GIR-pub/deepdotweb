@@ -26,6 +26,4 @@ Research: I2P based anonymous network protocol developed via Rust programming la
     </div>
     <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/developed/" rel="tag">developed</a> <a href="https://www.deepdotweb.com/tag/i2p/" rel="tag">i2p</a> <a href="https://www.deepdotweb.com/tag/language/" rel="tag">language</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/programming/" rel="tag">programming</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/rust/" rel="tag">rust</a></span> <span style="display:none" class="updated">2019-02-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

@@ -29,6 +29,4 @@ Police Busted NYC Synthetic Drug Dealer
     </div>
        <a href="https://www.deepdotweb.com/tag/nyc/" rel="tag">nyc</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/synthetic/" rel="tag">synthetic</a></span> <span style="display:none" class="updated">2017-09-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

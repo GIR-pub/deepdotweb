@@ -26,6 +26,4 @@ UK Police: Stun Guns Bought on the Dark Web Used by Gangs
     </div>
     <a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/gangs/" rel="tag">gangs</a> <a href="https://www.deepdotweb.com/tag/guns/" rel="tag">guns</a> <a href="https://www.deepdotweb.com/tag/stun/" rel="tag">stun</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-12-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

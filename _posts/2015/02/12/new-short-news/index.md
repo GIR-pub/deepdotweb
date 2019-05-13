@@ -54,6 +54,4 @@ New: Short news!
     
 </div>
 <a href="http://www.deepdotweb.com/tag/testpost/" rel="tag">testpost</a></span> <span style="display:none" class="updated">2015-02-12<a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
 

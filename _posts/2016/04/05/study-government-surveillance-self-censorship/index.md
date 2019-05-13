@@ -29,6 +29,4 @@ Study On Government Surveillance And Self-Censorship
     </div>
     <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/selfcensorship/" rel="tag">selfcensorship</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/surveillance/" rel="tag">surveillance</a></span> <span style="display:none" class="updated">2016-04-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

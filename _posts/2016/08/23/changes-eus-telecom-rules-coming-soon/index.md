@@ -25,6 +25,4 @@ Changes to EU’s Telecom Rules Are Coming Soon
     </div>
      <a href="https://www.deepdotweb.com/tag/eus/" rel="tag">eus</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a> <a href="https://www.deepdotweb.com/tag/telecom/" rel="tag">telecom</a></span> <span style="display:none" class="updated">2016-08-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

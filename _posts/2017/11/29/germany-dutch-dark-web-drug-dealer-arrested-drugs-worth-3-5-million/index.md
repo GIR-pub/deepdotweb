@@ -22,6 +22,4 @@ Germany: Dutch Dark Web Drug Dealer Arrested with Drugs worth $3.5 million
     </div>
     <a href="https://www.deepdotweb.com/tag/35/" rel="tag">35</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>    <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/worth/" rel="tag">worth</a></span> <span style="display:none" class="updated">2017-11-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/eddiem/" title="Posts by Eddie. M." rel="author">Eddie. M.</a></strong></div>
-    </div>
-</article>
-
+    

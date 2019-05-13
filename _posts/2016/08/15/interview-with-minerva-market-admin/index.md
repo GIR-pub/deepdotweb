@@ -78,6 +78,4 @@ Interview With Minerva Market Admin
     </div>
     <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/minerva/" rel="tag">minerva</a></span> <span style="display:none" class="updated">2016-08-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -21,6 +21,4 @@ tag-antitrust tag-blockchain tag-law tag-technology">
 <p>Considering that today&#8217;s antitrust and competition law is mainly concerned with violations that have already taken place and that can be evidenced by obvious collusion and abuse of market power, this should change in the future and antitrust and competition law has to include more proactive regulations to make up for the asymmetry that exists between the information available to legislators and the actual information presently available about various aspects of the blockchain technology.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/antitrust/" rel="tag">antitrust</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a>  <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/technology/" rel="tag">technology</a></span> <span style="display:none" class="updated">2018-01-19<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

@@ -24,6 +24,4 @@ Counterfeit Euros Is The New Trend Among Dark Net Criminals
     </div>
     <a href="https://www.deepdotweb.com/tag/among/" rel="tag">among</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/euros/" rel="tag">euros</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/trend/" rel="tag">trend</a></span> <span style="display:none" class="updated">2016-12-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

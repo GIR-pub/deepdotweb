@@ -36,6 +36,4 @@ Alleged Silk Road 2.0 Hacker Doxxed!?
     </div>
      <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> </span> <span style="display:none" class="updated">2014-02-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ UN Trying To Find Methods To Stop The Dark Web Drug Trade
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/find/" rel="tag">find</a> <a href="https://www.deepdotweb.com/tag/methods/" rel="tag">methods</a> <a href="https://www.deepdotweb.com/tag/stop/" rel="tag">stop</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-07-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

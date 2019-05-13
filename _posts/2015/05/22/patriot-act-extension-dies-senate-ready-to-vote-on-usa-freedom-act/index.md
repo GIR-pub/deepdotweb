@@ -39,6 +39,4 @@ Patriot Act extension Dies; Senate ready to vote on USA Freedom Act
     </div>
     <a href="https://www.deepdotweb.com/tag/act/" rel="tag">act</a> <a href="https://www.deepdotweb.com/tag/dies/" rel="tag">dies</a> <a href="https://www.deepdotweb.com/tag/extension/" rel="tag">extension</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/mcconnells/" rel="tag">mcconnells</a> <a href="https://www.deepdotweb.com/tag/patriot/" rel="tag">patriot</a> <a href="https://www.deepdotweb.com/tag/ready/" rel="tag">ready</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a> <a href="https://www.deepdotweb.com/tag/usa/" rel="tag">usa</a> <a href="https://www.deepdotweb.com/tag/vote/" rel="tag">vote</a></span> <span style="display:none" class="updated">2015-05-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/timothyjones/" title="Posts by Timothy Jones" rel="author">Timothy Jones</a></strong></div>
-    </div>
-</article>
-
+    

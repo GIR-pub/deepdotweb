@@ -37,6 +37,4 @@ Benzodiazepines: Mother’s little helper
     </div>
     <a href="https://www.deepdotweb.com/tag/benzodiazepines/" rel="tag">benzodiazepines</a> <a href="https://www.deepdotweb.com/tag/helper/" rel="tag">helper</a> <a href="https://www.deepdotweb.com/tag/mothers/" rel="tag">mothers</a></span> <span style="display:none" class="updated">2016-06-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kevin/" title="Posts by -Kevin-" rel="author">-Kevin-</a></strong></div>
-    </div>
-</article>
-
+    

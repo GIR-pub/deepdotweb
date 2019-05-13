@@ -19,6 +19,4 @@ What’s with Australians and DNMs?
     </div>
     <a href="https://www.deepdotweb.com/tag/australians/" rel="tag">australians</a> <a href="https://www.deepdotweb.com/tag/dnms/" rel="tag">dnms</a></span> <span style="display:none" class="updated">2015-07-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

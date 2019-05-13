@@ -22,6 +22,4 @@ Paypal Accounts and Carding are Most Popular Fraud Services on the Deepweb
     </div>
     <a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/carding/" rel="tag">carding</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/paypal/" rel="tag">paypal</a> <a href="https://www.deepdotweb.com/tag/popular/" rel="tag">popular</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a></span> <span style="display:none" class="updated">2016-08-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

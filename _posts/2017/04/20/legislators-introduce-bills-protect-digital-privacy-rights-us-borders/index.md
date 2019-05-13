@@ -19,6 +19,4 @@ Legislators Introduce Bills to Protect Digital Privacy Rights at US Borders
     </div>
     <a href="https://www.deepdotweb.com/tag/bills/" rel="tag">bills</a> <a href="https://www.deepdotweb.com/tag/borders/" rel="tag">borders</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/introduce/" rel="tag">introduce</a> <a href="https://www.deepdotweb.com/tag/legislators/" rel="tag">legislators</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/protect/" rel="tag">protect</a> <a href="https://www.deepdotweb.com/tag/rights/" rel="tag">rights</a></span> <span style="display:none" class="updated">2017-04-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

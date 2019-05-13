@@ -22,6 +22,4 @@ Unbreakable Encryption is One Step Closer to Becoming Usable Technology
     </div>
     <a href="https://www.deepdotweb.com/tag/closer/" rel="tag">closer</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/step/" rel="tag">step</a> <a href="https://www.deepdotweb.com/tag/technology/" rel="tag">technology</a> <a href="https://www.deepdotweb.com/tag/unbreakable/" rel="tag">unbreakable</a> <a href="https://www.deepdotweb.com/tag/usable/" rel="tag">usable</a></span> <span style="display:none" class="updated">2016-09-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

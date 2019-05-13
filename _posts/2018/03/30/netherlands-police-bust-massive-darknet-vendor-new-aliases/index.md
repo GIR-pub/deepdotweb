@@ -25,6 +25,4 @@ Netherlands Police Bust a Massive Darknet Vendor Under New Aliases
 <p>The arrest of the alleged vendors is unlikely to be the end of the case. According to the police, the vendors kept a list with the names and addresses of more than 1,000 customers.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/aliases/" rel="tag">aliases</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-03-30<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

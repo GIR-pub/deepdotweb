@@ -18,6 +18,4 @@ Silk Road 2’s &#8220;DoctorClu&#8221; Sentenced to Eight Years in Prison
     </div>
     <a href="https://www.deepdotweb.com/tag/2s/" rel="tag">2s</a> <a href="https://www.deepdotweb.com/tag/doctorclu/" rel="tag">doctorclu</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2016-06-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

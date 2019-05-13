@@ -26,6 +26,4 @@ Previously Convicted Bitcoin Trader Arrested For The Possession Of Ammunition In
     </div>
     <a href="https://www.deepdotweb.com/tag/ammunition/" rel="tag">ammunition</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/possession/" rel="tag">possession</a> <a href="https://www.deepdotweb.com/tag/previously/" rel="tag">previously</a> <a href="https://www.deepdotweb.com/tag/trader/" rel="tag">trader</a></span> <span style="display:none" class="updated">2017-05-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

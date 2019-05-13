@@ -17,6 +17,4 @@ Torepublic Hacked, DB Leaked
     </div>
     <a href="https://www.deepdotweb.com/tag/db/" rel="tag">db</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/leaked/" rel="tag">leaked</a> <a href="https://www.deepdotweb.com/tag/torepublic/" rel="tag">torepublic</a></span> <span style="display:none" class="updated">2015-12-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

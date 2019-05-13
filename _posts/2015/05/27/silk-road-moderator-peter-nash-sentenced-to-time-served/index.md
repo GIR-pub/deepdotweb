@@ -19,6 +19,4 @@ Silk Road Moderator Peter Nash Sentenced to Time Served
     </div>
     <a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> <a href="https://www.deepdotweb.com/tag/nash/" rel="tag">nash</a> <a href="https://www.deepdotweb.com/tag/peter/" rel="tag">peter</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/served/" rel="tag">served</a> <a href="https://www.deepdotweb.com/tag/time/" rel="tag">time</a></span> <span style="display:none" class="updated">2015-05-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

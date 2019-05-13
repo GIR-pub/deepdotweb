@@ -25,6 +25,4 @@ Darknet Heroes League Marketplace Bans the Sale of Fentanyl
     </div>
     <a href="https://www.deepdotweb.com/tag/bans/" rel="tag">bans</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/heroes/" rel="tag">heroes</a> <a href="https://www.deepdotweb.com/tag/league/" rel="tag">league</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a></span> <span style="display:none" class="updated">2016-08-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -21,6 +21,4 @@ Harpooning the StingRay: How to Detect and Avoid IMSI Catchers that Spy on Cellu
     </div>
     <a href="https://www.deepdotweb.com/tag/avoid/" rel="tag">avoid</a> <a href="https://www.deepdotweb.com/tag/catchers/" rel="tag">catchers</a> <a href="https://www.deepdotweb.com/tag/cellular/" rel="tag">cellular</a> <a href="https://www.deepdotweb.com/tag/detect/" rel="tag">detect</a> <a href="https://www.deepdotweb.com/tag/harpooning/" rel="tag">harpooning</a> <a href="https://www.deepdotweb.com/tag/imsi/" rel="tag">imsi</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/phones/" rel="tag">phones</a> <a href="https://www.deepdotweb.com/tag/spy/" rel="tag">spy</a> <a href="https://www.deepdotweb.com/tag/stingray/" rel="tag">stingray</a></span> <span style="display:none" class="updated">2017-04-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

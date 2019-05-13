@@ -16,6 +16,4 @@ Agora: We are working to resolve the problem.
     </div>
     <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/problem/" rel="tag">problem</a> <a href="https://www.deepdotweb.com/tag/resolve/" rel="tag">resolve</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a></span> <span style="display:none" class="updated">2015-07-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -44,6 +44,4 @@ HTML5 Introduces New Security Threats!
     </div>
     <a href="https://www.deepdotweb.com/tag/html5/" rel="tag">html5</a> <a href="https://www.deepdotweb.com/tag/introduces/" rel="tag">introduces</a>  <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a></span> <span style="display:none" class="updated">2016-10-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/sculptor/" title="Posts by sculptor" rel="author">sculptor</a></strong></div>
-    </div>
-</article>
-
+    

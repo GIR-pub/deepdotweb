@@ -19,6 +19,4 @@ Government Contractor Offers Million Dollar Bounty for Tor 0-Days
     </div>
     <a href="https://www.deepdotweb.com/tag/0days/" rel="tag">0days</a> <a href="https://www.deepdotweb.com/tag/bounty/" rel="tag">bounty</a> <a href="https://www.deepdotweb.com/tag/contractor/" rel="tag">contractor</a> <a href="https://www.deepdotweb.com/tag/dollar/" rel="tag">dollar</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/offers/" rel="tag">offers</a> </span> <span style="display:none" class="updated">2017-09-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

@@ -24,6 +24,4 @@ Researchers Create Deepweb Scanner for Upcoming Cyber Threats
     </div>
     <a href="https://www.deepdotweb.com/tag/create/" rel="tag">create</a> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/machine/" rel="tag">machine</a> <a href="https://www.deepdotweb.com/tag/researchers/" rel="tag">researchers</a> <a href="https://www.deepdotweb.com/tag/scans/" rel="tag">scans</a> <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a> <a href="https://www.deepdotweb.com/tag/upcoming/" rel="tag">upcoming</a></span> <span style="display:none" class="updated">2016-08-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

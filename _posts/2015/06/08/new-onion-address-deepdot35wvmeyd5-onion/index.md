@@ -14,6 +14,4 @@ New Onion Address: deepdot35wvmeyd5.onion
     </div>
     <a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/deepdot35wvmeyd5onion/" rel="tag">deepdot35wvmeyd5onion</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a></span> <span style="display:none" class="updated">2015-06-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

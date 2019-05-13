@@ -18,6 +18,4 @@ London Doctor Sentenced for Selling Drugs on the Darknet
 <p>Both men pleaded guilty to the same charges. Judge Patrick Thompson sentenced Day, only one month before he sentenced Dr. Kerr. Both men received the same sentence of four years and eight months.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/doctor/" rel="tag">doctor</a>  <a href="https://www.deepdotweb.com/tag/london/" rel="tag">london</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-07-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

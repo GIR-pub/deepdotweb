@@ -34,6 +34,4 @@ Types of Cyberattacks Hitting the Dark Web &#8211; A Research Paper
     </div>
     <a href="https://www.deepdotweb.com/tag/cyberattacks/" rel="tag">cyberattacks</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/hitting/" rel="tag">hitting</a> <a href="https://www.deepdotweb.com/tag/paper/" rel="tag">paper</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/types/" rel="tag">types</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

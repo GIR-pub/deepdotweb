@@ -85,6 +85,4 @@ Here is the Stolen Silk Road Wallet?
     </div>
      <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> <span style="display:none" class="updated">2014-02-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

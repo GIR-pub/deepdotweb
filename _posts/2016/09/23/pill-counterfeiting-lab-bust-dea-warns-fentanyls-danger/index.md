@@ -23,6 +23,4 @@ After Pill Counterfeiting Lab Bust, DEA Warns Of Fentanyl’s Danger
     </div>
     <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/counterfeiting/" rel="tag">counterfeiting</a> <a href="https://www.deepdotweb.com/tag/danger/" rel="tag">danger</a> <a href="https://www.deepdotweb.com/tag/dea/" rel="tag">dea</a> <a href="https://www.deepdotweb.com/tag/fentanyls/" rel="tag">fentanyls</a> <a href="https://www.deepdotweb.com/tag/lab/" rel="tag">lab</a> <a href="https://www.deepdotweb.com/tag/pill/" rel="tag">pill</a> <a href="https://www.deepdotweb.com/tag/warns/" rel="tag">warns</a></span> <span style="display:none" class="updated">2016-09-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

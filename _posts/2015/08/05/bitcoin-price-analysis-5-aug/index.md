@@ -54,6 +54,4 @@ Bitcoin Price Analysis 5 Aug
 <p><strong>Contact:</strong> <a href="mailto:pesabitmic@gmail.com">pesabitmic@gmail.com</a> for inquiries on price forecasts.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/aug/" rel="tag">aug</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-08-05<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

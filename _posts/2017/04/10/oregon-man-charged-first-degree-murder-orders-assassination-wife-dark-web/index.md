@@ -29,6 +29,4 @@ Oregon Man Charged For First-Degree Murder, Orders Assassination of His Wife in 
     </div>
     <a href="https://www.deepdotweb.com/tag/assassination/" rel="tag">assassination</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/firstdegree/" rel="tag">firstdegree</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/murder/" rel="tag">murder</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a> <a href="https://www.deepdotweb.com/tag/oregon/" rel="tag">oregon</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/wife/" rel="tag">wife</a></span> <span style="display:none" class="updated">2017-04-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
-    </div>
-</article>
-
+    

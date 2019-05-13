@@ -38,6 +38,4 @@ US Government Concerned with Carfentanil as a Chemical Weapon
     </div>
     <a href="https://www.deepdotweb.com/tag/carfentanil/" rel="tag">carfentanil</a> <a href="https://www.deepdotweb.com/tag/chemical/" rel="tag">chemical</a> <a href="https://www.deepdotweb.com/tag/concerned/" rel="tag">concerned</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> </span> <span style="display:none" class="updated">2016-10-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -32,6 +32,4 @@ Analyzing Bitcoin Mining Botnets (Minerbots) &#8211; How Can We Shield Our Syste
     </div>
     <a href="https://www.deepdotweb.com/tag/analyzing/" rel="tag">analyzing</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/botnets/" rel="tag">botnets</a> <a href="https://www.deepdotweb.com/tag/minerbots/" rel="tag">minerbots</a> <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a> <a href="https://www.deepdotweb.com/tag/shield/" rel="tag">shield</a> <a href="https://www.deepdotweb.com/tag/systems/" rel="tag">systems</a></span> <span style="display:none" class="updated">2017-07-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

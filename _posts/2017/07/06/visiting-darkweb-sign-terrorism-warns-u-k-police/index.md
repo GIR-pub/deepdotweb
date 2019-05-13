@@ -31,6 +31,4 @@ Visiting The Darkweb is a Sign of Terrorism, Warns U.K Police
     </div>
     <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/sign/" rel="tag">sign</a> <a href="https://www.deepdotweb.com/tag/terrorism/" rel="tag">terrorism</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/visiting/" rel="tag">visiting</a> <a href="https://www.deepdotweb.com/tag/warns/" rel="tag">warns</a></span> <span style="display:none" class="updated">2017-07-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
-    </div>
-</article>
-
+    

@@ -17,6 +17,4 @@ Cardiff Teen Locked Up for Trying To Buy Gun on Dark Web
     </div>
     <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/cardiff/" rel="tag">cardiff</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/locked/" rel="tag">locked</a> <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-12-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

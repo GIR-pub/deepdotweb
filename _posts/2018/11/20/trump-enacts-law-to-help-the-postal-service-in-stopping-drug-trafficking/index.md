@@ -21,6 +21,4 @@ Trump Enacts Law to Help the Postal Service in Stopping Drug Trafficking
 <p>A USPS spokesperson expressed his support towards the now enacted bill and said that it keeps the collection of AED a top priority. Dave Partenheimer spoke on behalf of the USPS after Congress passed the bill and said that the agency is committed to doing all it can to secure the mailing system and offer high-quality service at the same time.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/enacts/" rel="tag">enacts</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/postal/" rel="tag">postal</a> <a href="https://www.deepdotweb.com/tag/stopping/" rel="tag">stopping</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/trump/" rel="tag">trump</a></span> <span style="display:none" class="updated">2018-11-20<a href="https://www.deepdotweb.com/author/cashcard/" title="Posts by CashCard" rel="author">CashCard</a></strong></div>
-</div>
-</article>
 

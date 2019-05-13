@@ -22,6 +22,4 @@ What is Augur? (A Search Engine for the Future)
     </div>
     <a href="https://www.deepdotweb.com/tag/augur/" rel="tag">augur</a> <a href="https://www.deepdotweb.com/tag/engine/" rel="tag">engine</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/search/" rel="tag">search</a></span> <span style="display:none" class="updated">2017-05-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

@@ -27,6 +27,4 @@ Renowned Hacker “tessa88” Is Identified to Be Russian National
 <p>It is a significant revelation for a cybercriminal to compromise so many personal details which ended up on dark web markets for sale.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/identified/" rel="tag">identified</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/renowned/" rel="tag">renowned</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/tessa88/" rel="tag">tessa88</a></span> <span style="display:none" class="updated">2018-12-11<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

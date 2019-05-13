@@ -1,12 +1,9 @@
 ---
-title: "Silk Road Vendor &#8220;Hammertime&#8221; Busted
+title: "Silk Road Vendor &#8220;Hammertime&#8221; Busted"
 ---
-2687  tag-busted tag-hammertime tag-vendor">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 19, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/12/19/silk-road-vendor-hammertime-busted/#respond">Leave a comment</a></span>
 
 
 <p>After a year long operation, as it was published <a href="http://www.kgw.com/news/Wash-county-tactical-police-conducting-3-dawn-raids-236190011.html" target="_blank">here</a>:</p>
@@ -20,7 +17,5 @@ title: "Silk Road Vendor &#8220;Hammertime&#8221; Busted
 </ul>
 <p style="margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;"><a style="text-decoration: underline;" title="View Indictment against four alleged Silk Road meth dealers on Scribd" href="http://www.scribd.com/doc/192548341">Indictment against four alleged Silk Road meth dealers</a></p>
 <p><iframe id="doc_4722" src="//www.scribd.com/embeds/192548341/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" height="600" width="100%" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
-</div>
- <a href="https://www.deepdotweb.com/tag/hammertime/" rel="tag">hammertime</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a>
 
 Updated: 2013-12-19

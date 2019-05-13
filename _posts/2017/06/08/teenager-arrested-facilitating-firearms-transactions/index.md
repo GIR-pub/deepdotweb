@@ -22,6 +22,4 @@ Teenager Arrested for Facilitating Firearms Transactions
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/facilitating/" rel="tag">facilitating</a> <a href="https://www.deepdotweb.com/tag/firearms/" rel="tag">firearms</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> <span style="display:none" class="updated">2017-06-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

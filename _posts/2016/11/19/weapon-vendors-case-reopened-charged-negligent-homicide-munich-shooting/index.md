@@ -26,6 +26,4 @@ Weapon Vendor&#8217;s Case Reopened: Charged with Negligent Homicide in Munich S
     </div>
     <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/homicide/" rel="tag">homicide</a> <a href="https://www.deepdotweb.com/tag/munich/" rel="tag">munich</a> <a href="https://www.deepdotweb.com/tag/negligent/" rel="tag">negligent</a> <a href="https://www.deepdotweb.com/tag/reopened/" rel="tag">reopened</a> <a href="https://www.deepdotweb.com/tag/shooting/" rel="tag">shooting</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a> </span> <span style="display:none" class="updated">2016-11-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

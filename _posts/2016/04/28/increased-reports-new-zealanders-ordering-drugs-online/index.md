@@ -35,6 +35,4 @@ Increased Reports of New Zealanders Ordering Drugs Online
     </div>
      <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a>  <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/reports/" rel="tag">reports</a> <a href="https://www.deepdotweb.com/tag/zealanders/" rel="tag">zealanders</a></span> <span style="display:none" class="updated">2016-04-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ A 23-year-old Man Sentenced to Home Detention for Ordering Ecstasy Through the D
     </div>
     <a href="https://www.deepdotweb.com/tag/23yearold/" rel="tag">23yearold</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/detention/" rel="tag">detention</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/home/" rel="tag">home</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2019-02-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/cashcard/" title="Posts by CashCard" rel="author">CashCard</a></strong></div>
-    </div>
-</article>
-
+    

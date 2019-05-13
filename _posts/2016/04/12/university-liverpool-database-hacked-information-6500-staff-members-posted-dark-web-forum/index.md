@@ -23,6 +23,4 @@ University Of Liverpool Database Hacked, Information Of 6,500 Staff Members Post
     </div>
     <a href="https://www.deepdotweb.com/tag/6500/" rel="tag">6500</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/database/" rel="tag">database</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/liverpool/" rel="tag">liverpool</a> <a href="https://www.deepdotweb.com/tag/members/" rel="tag">members</a> <a href="https://www.deepdotweb.com/tag/posted/" rel="tag">posted</a> <a href="https://www.deepdotweb.com/tag/staff/" rel="tag">staff</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

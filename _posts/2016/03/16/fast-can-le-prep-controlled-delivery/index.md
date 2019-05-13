@@ -20,6 +20,4 @@ How fast can LE prep a controlled delivery?
     </div>
     <a href="https://www.deepdotweb.com/tag/controlled/" rel="tag">controlled</a> <a href="https://www.deepdotweb.com/tag/delivery/" rel="tag">delivery</a> <a href="https://www.deepdotweb.com/tag/fast/" rel="tag">fast</a> <a href="https://www.deepdotweb.com/tag/le/" rel="tag">le</a> <a href="https://www.deepdotweb.com/tag/prep/" rel="tag">prep</a></span> <span style="display:none" class="updated">2016-03-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

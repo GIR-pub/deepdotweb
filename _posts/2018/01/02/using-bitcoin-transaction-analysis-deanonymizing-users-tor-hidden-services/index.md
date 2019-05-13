@@ -21,6 +21,4 @@ tag-analysis tag-bitcoin tag-deanonymizing tag-services  tag-transaction tag-use
 <p>Analysis of the economic activity of the studied Tor hidden services revealed that the addresses of the Darknet Bitcoin Mixer and the Wikileaks were amongst the addresses receiving most of the payments on Tor. Also, the flow of money in and out of hidden services was almost identical, denoting that operators of hidden services don&#8217;t leave their funds on the addresses they use for receiving payments; instead, they usually distribute the received coins to other addresses.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/deanonymizing/" rel="tag">deanonymizing</a>  <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a>  <a href="https://www.deepdotweb.com/tag/transaction/" rel="tag">transaction</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2018-01-02<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

@@ -23,6 +23,4 @@ Couple Arrested In France For Ordering Meth
 <p>However, it still remains a question whether it is worth for terrorist groups to use the dark net for weapon importation. Since almost all transactions on the dark web are conducted in bitcoins, which could be traced back using the public blockchain, the dark web would seem as a risky source for firearms purchase.</p>
 </div>
 <span style="display:none" class="updated">2017-03-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

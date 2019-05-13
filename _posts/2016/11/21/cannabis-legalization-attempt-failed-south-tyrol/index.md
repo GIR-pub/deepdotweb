@@ -22,6 +22,4 @@ Cannabis Legalization Attempt Failed In South Tyrol
     </div>
     <a href="https://www.deepdotweb.com/tag/attempt/" rel="tag">attempt</a> <a href="https://www.deepdotweb.com/tag/cannabis/" rel="tag">cannabis</a> <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a> <a href="https://www.deepdotweb.com/tag/legalization/" rel="tag">legalization</a> <a href="https://www.deepdotweb.com/tag/south/" rel="tag">south</a> <a href="https://www.deepdotweb.com/tag/tyrol/" rel="tag">tyrol</a></span> <span style="display:none" class="updated">2016-11-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

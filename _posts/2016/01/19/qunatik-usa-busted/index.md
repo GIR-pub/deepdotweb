@@ -66,6 +66,4 @@ Quantik USA Busted: $1M worth of Xanax pills seized
     </div>
     <a href="https://www.deepdotweb.com/tag/1m/" rel="tag">1m</a>  <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a> <a href="https://www.deepdotweb.com/tag/qunatik/" rel="tag">qunatik</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/usa/" rel="tag">usa</a> <a href="https://www.deepdotweb.com/tag/worth/" rel="tag">worth</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2016-01-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

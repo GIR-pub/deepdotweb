@@ -26,6 +26,4 @@ Scotland Opiate Treatment is Endangering Other Drug Users
     </div>
      <a href="https://www.deepdotweb.com/tag/endangering/" rel="tag">endangering</a> <a href="https://www.deepdotweb.com/tag/opiate/" rel="tag">opiate</a> <a href="https://www.deepdotweb.com/tag/scotland/" rel="tag">scotland</a> <a href="https://www.deepdotweb.com/tag/treatment/" rel="tag">treatment</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2017-06-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -24,6 +24,4 @@ Bitcoin Achieved $2,000, Regardless of WannaCry Ransomware, Change of Image?
     </div>
     <a href="https://www.deepdotweb.com/tag/2000/" rel="tag">2000</a> <a href="https://www.deepdotweb.com/tag/achieved/" rel="tag">achieved</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/change/" rel="tag">change</a> <a href="https://www.deepdotweb.com/tag/image/" rel="tag">image</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/wannacry/" rel="tag">wannacry</a></span> <span style="display:none" class="updated">2017-05-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

@@ -34,6 +34,4 @@
 <p>Police conducted an investigation that targeted individuals in close proximity to the store and eventually found a duo who had recently moved to Portugal without employment. Investigators collected evidence that led to a search of their home and the drug lab that found inside the home. The husband confessed in court. The wife did not. Both were found guilty and sentenced to prison.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/110418/" rel="tag">110418</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2018-04-11<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

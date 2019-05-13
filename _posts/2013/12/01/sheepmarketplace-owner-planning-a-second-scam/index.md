@@ -1,12 +1,9 @@
 ---
-title: "SheepMarketplace Owner Planning a Second Scam?
+title: "SheepMarketplace Owner Planning a Second Scam?"
 ---
-2203  tag-owner tag-planning tag-scam tag-sheepmarketplace">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 1, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/12/01/sheepmarketplace-owner-planning-a-second-scam/#respond">Leave a comment</a></span>
 
 
 <p>The former Sheep Marketplace moderator &#8220;TheSheppard&#8221;  Made a post on the SR 2.0 Forums stating he had nothing to do with the scam and revealing that he have some inside info about the Sheep Marketplace owner Running a <span style="color: #ff0000;">Second Marketplace  <span style="color: #000000;">and planning</span> <span style="color: #000000;">to run another scam, that of course if he is not the person who was Doxxed yesterday because in this case it would be highly unlikely that he will try and run ANY website in the near future. he was also suggesting the second scam marketplace is &#8220;<a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Pandora Market</a>&#8220;.</span></span></p>
@@ -44,6 +41,5 @@ title: "SheepMarketplace Owner Planning a Second Scam?
     &#8212;&#8211;END PGP SIGNATURE&#8212;&#8211;</p>
 <p>Proceed with caution.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/planning/" rel="tag">planning</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/sheepmarketplace/" rel="tag">sheepmarketplace</a>
 
 Updated: 2013-12-01

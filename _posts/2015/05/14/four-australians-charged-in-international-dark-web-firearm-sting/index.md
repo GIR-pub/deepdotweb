@@ -40,6 +40,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/australians/" rel="tag">australians</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/firearm/" rel="tag">firearm</a> <a href="https://www.deepdotweb.com/tag/international/" rel="tag">international</a> <a href="https://www.deepdotweb.com/tag/sting/" rel="tag">sting</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-05-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

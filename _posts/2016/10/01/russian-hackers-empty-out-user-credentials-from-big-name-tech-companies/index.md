@@ -22,6 +22,4 @@ Russian Hackers Empty Out User Credentials from Big Name Tech Companies
     </div>
     <a href="https://www.deepdotweb.com/tag/big/" rel="tag">big</a> <a href="https://www.deepdotweb.com/tag/companies/" rel="tag">companies</a> <a href="https://www.deepdotweb.com/tag/credentials/" rel="tag">credentials</a> <a href="https://www.deepdotweb.com/tag/empty/" rel="tag">empty</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/tech/" rel="tag">tech</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a></span> <span style="display:none" class="updated">2016-10-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

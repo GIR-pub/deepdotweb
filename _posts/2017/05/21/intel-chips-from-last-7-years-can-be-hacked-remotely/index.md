@@ -20,6 +20,4 @@ Intel chips from last 7 years can be hacked remotely
     </div>
     <a href="https://www.deepdotweb.com/tag/chips/" rel="tag">chips</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/intel/" rel="tag">intel</a> <a href="https://www.deepdotweb.com/tag/remotely/" rel="tag">remotely</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-05-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
-    </div>
-</article>
-
+    

@@ -38,6 +38,4 @@ Minnesota Man Charged With Hiring Hackers to Bring Down Ex-Employer
     </div>
     <a href="https://www.deepdotweb.com/tag/bring/" rel="tag">bring</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/exemployer/" rel="tag">exemployer</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/hiring/" rel="tag">hiring</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/minnesota/" rel="tag">minnesota</a></span> <span style="display:none" class="updated">2017-11-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-    </div>
-</article>
-
+    

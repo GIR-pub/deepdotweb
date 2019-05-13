@@ -1,12 +1,10 @@
 ---
-title: "Sheep Marketplace Owner just Got Doxxed?!
+title: "Sheep Marketplace Owner just Got Doxxed?!"
 ---
-2057  tag-doxxed tag-owner tag-sheep">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 30, 2013</span>
 
-<span><a href="https://www.deepdotweb.com/2013/11/30/sheep-owner-just-got-doxxed/#comments">10 Comments</a></span>
 
 
 <p style="text-align: center;"><span style="color: #ff0000;"><strong><span style="text-decoration: underline;">Update</span>:  Yes. Its very likely that he has been Doxxed&#8230; and hes identity is already known to the FBI &#8211; <a href="http://www.deepdotweb.com/sheep-marketplace-and-tomas-jirikovsky/" target="_blank"><span style="color: #ff0000;">Read the details Here</span></a> &#8211;  Was Originally posted by <a href="http://www.reddit.com/user/gwern" target="_blank"><span style="color: #ff0000;">Gwern</span></a> (<a href="http://www.gwern.net/" target="_blank">Gwern.net</a>) On Sr2 forums.</strong></span></p>

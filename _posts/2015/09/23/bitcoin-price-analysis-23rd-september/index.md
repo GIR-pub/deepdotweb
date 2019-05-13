@@ -41,6 +41,4 @@ Bitcoin Price analysis 23rd September
 <p>Overall, the market is on fickle territory, trading just above a long term trendline and bouncing off it 6 times since 2012, including twice in 2015. Traders are keenly watching whether 200 WMA and this trendline will continue to hold and maintain its trading range between $ 200 and $300.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/23rd/" rel="tag">23rd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a></span> <span style="display:none" class="updated">2015-09-23<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

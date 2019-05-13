@@ -17,6 +17,4 @@ CIA Forced to Hack Phones To Snoop on Signal and WhatsApp Users
 <p>Other information contained in Vault 7 includes information on the CIA’s ability to hack smart TVs and cars. The leaks also confirm that the CIA uses malware developed in other countries, such as Russia. Using such malware allows the CIA to conduct cyber attacks that appear to be attributed to other countries. Wikileaks is expected to publish more leaks from the CIA in the near future.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/cia/" rel="tag">cia</a> <a href="https://www.deepdotweb.com/tag/forced/" rel="tag">forced</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/phones/" rel="tag">phones</a> <a href="https://www.deepdotweb.com/tag/signal/" rel="tag">signal</a> <a href="https://www.deepdotweb.com/tag/snoop/" rel="tag">snoop</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/whatsapp/" rel="tag">whatsapp</a></span> <span style="display:none" class="updated">2017-03-23<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-</div>
-</article>
 

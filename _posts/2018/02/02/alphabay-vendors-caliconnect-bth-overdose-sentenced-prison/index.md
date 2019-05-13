@@ -24,6 +24,4 @@ Alphabay Vendors CaliConnect and BTH-Overdose Sentenced to Prison
 <p>Babadjov is already in federal custody and Burchard has until April to turn himself over to federal authorities.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/bthoverdose/" rel="tag">bthoverdose</a> <a href="https://www.deepdotweb.com/tag/caliconnect/" rel="tag">caliconnect</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2018-02-02<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

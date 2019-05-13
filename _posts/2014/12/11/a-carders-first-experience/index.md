@@ -39,6 +39,4 @@ A Carder&#8217;s First Experience
     </div>
     <a href="https://www.deepdotweb.com/tag/carders/" rel="tag">carders</a> <a href="https://www.deepdotweb.com/tag/experience/" rel="tag">experience</a></span> <span style="display:none" class="updated">2014-12-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kiell/" title="Posts by Kiell" rel="author">Kiell</a></strong></div>
-    </div>
-</article>
-
+    

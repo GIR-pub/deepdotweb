@@ -18,6 +18,4 @@ Bronx Man Busted By Shelter Island Police
     </div>
     <a href="https://www.deepdotweb.com/tag/bronx/" rel="tag">bronx</a>  <a href="https://www.deepdotweb.com/tag/island/" rel="tag">island</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/shelter/" rel="tag">shelter</a></span> <span style="display:none" class="updated">2016-02-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

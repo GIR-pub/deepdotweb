@@ -25,6 +25,4 @@ Korea’s Fourth Largest Bank Tests Blockchain With Coinplug; Eyes Commercial Se
     </div>
     <a href="https://www.deepdotweb.com/tag/bank/" rel="tag">bank</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/coinplug/" rel="tag">coinplug</a> <a href="https://www.deepdotweb.com/tag/commercial/" rel="tag">commercial</a> <a href="https://www.deepdotweb.com/tag/eyes/" rel="tag">eyes</a> <a href="https://www.deepdotweb.com/tag/fourth/" rel="tag">fourth</a> <a href="https://www.deepdotweb.com/tag/koreas/" rel="tag">koreas</a> <a href="https://www.deepdotweb.com/tag/largest/" rel="tag">largest</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/tests/" rel="tag">tests</a></span> <span style="display:none" class="updated">2016-10-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

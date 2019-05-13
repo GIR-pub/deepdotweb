@@ -19,6 +19,4 @@ OnionScan Tests The Anonymity Of Dark Net Domains
     </div>
     <a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/domains/" rel="tag">domains</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/onionscan/" rel="tag">onionscan</a> <a href="https://www.deepdotweb.com/tag/tests/" rel="tag">tests</a></span> <span style="display:none" class="updated">2016-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

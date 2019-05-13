@@ -34,6 +34,4 @@ FBI Still Harassing Lead Tor Developer
     </div>
     <a href="https://www.deepdotweb.com/tag/developer/" rel="tag">developer</a> <a href="https://www.deepdotweb.com/tag/harassing/" rel="tag">harassing</a> <a href="https://www.deepdotweb.com/tag/lead/" rel="tag">lead</a> </span> <span style="display:none" class="updated">2016-05-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

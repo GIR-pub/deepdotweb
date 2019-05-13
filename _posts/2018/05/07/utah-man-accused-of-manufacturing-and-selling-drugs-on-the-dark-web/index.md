@@ -24,6 +24,4 @@ Utah Man Accused of Manufacturing and Selling drugs on the dark web
 <p>Investigators on the case also found a hard drive cache of over $500,000 worth of Bitcoin whose popularity has increased in the recent past due to its anonymity which makes it difficult to trace.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/manufacturing/" rel="tag">manufacturing</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/utah/" rel="tag">utah</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-05-07<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

@@ -24,6 +24,4 @@ India Government to Hire Nerds as Policemen in Fight against Cybercriminals
 <p>It is expected that this program will help reduce the high annual cases of cyber-attacks in the country.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/cybercriminals/" rel="tag">cybercriminals</a> <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/hire/" rel="tag">hire</a> <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a> <a href="https://www.deepdotweb.com/tag/nerds/" rel="tag">nerds</a> <a href="https://www.deepdotweb.com/tag/policemen/" rel="tag">policemen</a></span> <span style="display:none" class="updated">2018-07-01<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-</div>
-</article>
 

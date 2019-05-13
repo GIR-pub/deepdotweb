@@ -22,6 +22,4 @@ The Balance Attack &#8211; A Novel Type of Attack Against PoW Blockchains
     </div>
     <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/balance/" rel="tag">balance</a> <a href="https://www.deepdotweb.com/tag/blockchains/" rel="tag">blockchains</a> <a href="https://www.deepdotweb.com/tag/pow/" rel="tag">pow</a> <a href="https://www.deepdotweb.com/tag/type/" rel="tag">type</a></span> <span style="display:none" class="updated">2017-01-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

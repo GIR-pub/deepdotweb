@@ -22,6 +22,4 @@ Rise and Fall of my Counterfeiting Experience
     </div>
     <a href="https://www.deepdotweb.com/tag/counterfeiting/" rel="tag">counterfeiting</a> <a href="https://www.deepdotweb.com/tag/experience/" rel="tag">experience</a> <a href="https://www.deepdotweb.com/tag/fall/" rel="tag">fall</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a></span> <span style="display:none" class="updated">2016-05-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/alwaysthrowaways/" title="Posts by alwaysthrowaways" rel="author">alwaysthrowaways</a></strong></div>
-    </div>
-</article>
-
+    

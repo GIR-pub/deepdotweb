@@ -24,6 +24,4 @@ Suspected Drug Dealer In Small German Town Arrested For Attempted Weapon Purchas
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/attempted/" rel="tag">attempted</a>   <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/purchase/" rel="tag">purchase</a> <a href="https://www.deepdotweb.com/tag/small/" rel="tag">small</a> <a href="https://www.deepdotweb.com/tag/suspected/" rel="tag">suspected</a> <a href="https://www.deepdotweb.com/tag/town/" rel="tag">town</a> </span> <span style="display:none" class="updated">2017-04-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

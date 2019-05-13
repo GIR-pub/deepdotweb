@@ -74,6 +74,4 @@ PGP Tutorial For Newbs Gpg4usb
     </div>
     <a href="https://www.deepdotweb.com/tag/gpg4usb/" rel="tag">gpg4usb</a> <a href="https://www.deepdotweb.com/tag/newbs/" rel="tag">newbs</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-06-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

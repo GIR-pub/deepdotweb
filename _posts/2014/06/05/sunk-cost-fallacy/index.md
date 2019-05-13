@@ -17,6 +17,4 @@ The Sunk Cost Fallacy
     </div>
     <a href="https://www.deepdotweb.com/tag/cost/" rel="tag">cost</a> <a href="https://www.deepdotweb.com/tag/fallacy/" rel="tag">fallacy</a> <a href="https://www.deepdotweb.com/tag/sunk/" rel="tag">sunk</a></span> <span style="display:none" class="updated">2014-06-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chrisk/" title="Posts by Chris K." rel="author">Chris K.</a></strong></div>
-    </div>
-</article>
-
+    

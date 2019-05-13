@@ -20,6 +20,4 @@ Juvenile Sentence for 23-Year-Old Drug Importer
     </div>
     <a href="https://www.deepdotweb.com/tag/23yearold/" rel="tag">23yearold</a>  <a href="https://www.deepdotweb.com/tag/importer/" rel="tag">importer</a> <a href="https://www.deepdotweb.com/tag/juvenile/" rel="tag">juvenile</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a></span> <span style="display:none" class="updated">2017-09-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

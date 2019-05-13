@@ -25,6 +25,4 @@ tag-research">
 <p>This research study shows that it is possible to collect thousands of onion addresses via memory extraction of servers which belong to the DHT in a short time period. Moreover, it shows that this can be achieved with inexpensive resources. These findings can be utilized as a stepping stone for intelligence extraction from Tor network users.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a></span> <span style="display:none" class="updated">2018-10-28<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

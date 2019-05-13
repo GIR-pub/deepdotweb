@@ -21,6 +21,4 @@ Malicious Websites Explained
     </div>
     <a href="https://www.deepdotweb.com/tag/explained/" rel="tag">explained</a> <a href="https://www.deepdotweb.com/tag/malicious/" rel="tag">malicious</a> <a href="https://www.deepdotweb.com/tag/websites/" rel="tag">websites</a></span> <span style="display:none" class="updated">2017-08-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
-    </div>
-</article>
-
+    

@@ -19,6 +19,4 @@ Cocaine Trafficker Sentenced to Six Years in Federal Prison
 <p>As the DEA arrested Coffey, he said, “I can&#8217;t believe I did this [shit] again.” He later pleaded guilty to cocaine distribution charges and accepted his fate: six years in federal prison.</p>
 </div>
 <span style="display:none" class="updated">2018-08-12<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

@@ -35,6 +35,4 @@ New Zealand Customs Report Reveals Record High Drug Seizures
     </div>
     <a href="https://www.deepdotweb.com/tag/customs/" rel="tag">customs</a>  <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/record/" rel="tag">record</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/reveals/" rel="tag">reveals</a> <a href="https://www.deepdotweb.com/tag/seizures/" rel="tag">seizures</a> <a href="https://www.deepdotweb.com/tag/zealand/" rel="tag">zealand</a></span> <span style="display:none" class="updated">2016-12-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

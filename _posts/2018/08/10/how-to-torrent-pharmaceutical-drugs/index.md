@@ -22,6 +22,4 @@ tag-pharmaceutical rent">
 <p>The Four Thieves Vinegar Collective is looking for more biohackers interested in collaborating with them, and if you are interested in being a beta tester of the new version of the Apothecary Microlab you can contact them on their website. A notice on their site states that a new version of the Apothecary Microlab will be available soon, plans for the Alpha version are on the site. It should be noted that their warrant canary has not been updated, but this could likely be a simple oversight. The Four Thieves Vinegar Collective also run a mirror of their site as a Tor hidden service at: <a href="http://4thievzv3hh26qeh.onion/">http://4thievzv3hh26qeh.onion/</a></p>
 </div>
  <a href="https://www.deepdotweb.com/tag/pharmaceutical/" rel="tag">pharmaceutical</a> <a href="https://www.deepdotweb.com/tag/torrent/" rel="tag">torrent</a></span> <span style="display:none" class="updated">2018-08-10<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-</div>
-</article>
 

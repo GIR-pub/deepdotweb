@@ -32,6 +32,4 @@ New Documents Reveal the FBI May Have Hacked Every TorMail User Illegally
     </div>
     <a href="https://www.deepdotweb.com/tag/documents/" rel="tag">documents</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/illegally/" rel="tag">illegally</a> <a href="https://www.deepdotweb.com/tag/reveal/" rel="tag">reveal</a> <a href="https://www.deepdotweb.com/tag/tormail/" rel="tag">tormail</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a></span> <span style="display:none" class="updated">2016-11-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

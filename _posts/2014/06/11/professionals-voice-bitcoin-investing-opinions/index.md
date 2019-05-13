@@ -52,6 +52,4 @@ Professionals Voice: Bitcoin Investing Opinions
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/investing/" rel="tag">investing</a> <a href="https://www.deepdotweb.com/tag/opinions/" rel="tag">opinions</a> <a href="https://www.deepdotweb.com/tag/professionals/" rel="tag">professionals</a> <a href="https://www.deepdotweb.com/tag/voice/" rel="tag">voice</a></span> <span style="display:none" class="updated">2014-06-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

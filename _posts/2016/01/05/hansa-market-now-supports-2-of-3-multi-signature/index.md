@@ -88,6 +88,4 @@ HANSA Market now supports 2-of-3 multi-signature
     </div>
     <a href="https://www.deepdotweb.com/tag/2of3/" rel="tag">2of3</a> <a href="https://www.deepdotweb.com/tag/hansa/" rel="tag">hansa</a> <a href="https://www.deepdotweb.com/tag/multisignature/" rel="tag">multisignature</a> <a href="https://www.deepdotweb.com/tag/supports/" rel="tag">supports</a></span> <span style="display:none" class="updated">2016-01-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

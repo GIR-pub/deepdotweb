@@ -26,6 +26,4 @@ Three Men Sentenced For 15 Years, Obtained Cache of Guns From Dark Web
     </div>
     <a href="https://www.deepdotweb.com/tag/15/" rel="tag">15</a> <a href="https://www.deepdotweb.com/tag/ammunition/" rel="tag">ammunition</a> <a href="https://www.deepdotweb.com/tag/cache/" rel="tag">cache</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/guns/" rel="tag">guns</a> <a href="https://www.deepdotweb.com/tag/huge/" rel="tag">huge</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/obtained/" rel="tag">obtained</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-05-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

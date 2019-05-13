@@ -19,6 +19,4 @@ International Darknet Drug Trafficker Sentenced to Prison
 <p>Meanwhile, his partner will have already gotten the first few months of a 36-month prison sentence out of the way.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/international/" rel="tag">international</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a></span> <span style="display:none" class="updated">2018-04-23<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

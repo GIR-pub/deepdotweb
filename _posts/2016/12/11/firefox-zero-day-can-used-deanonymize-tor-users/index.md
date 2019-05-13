@@ -26,6 +26,4 @@ Firefox Zero-Day Can Be Used To Deanonymize Tor Users
     </div>
     <a href="https://www.deepdotweb.com/tag/deanonymize/" rel="tag">deanonymize</a> <a href="https://www.deepdotweb.com/tag/firefox/" rel="tag">firefox</a>  <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/zeroday/" rel="tag">zeroday</a></span> <span style="display:none" class="updated">2016-12-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

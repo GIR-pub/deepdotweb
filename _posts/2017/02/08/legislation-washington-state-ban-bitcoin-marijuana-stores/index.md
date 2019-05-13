@@ -19,6 +19,4 @@ Legislation in Washington State Would Ban Bitcoin at Marijuana Stores
     </div>
     <a href="https://www.deepdotweb.com/tag/ban/" rel="tag">ban</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/legislation/" rel="tag">legislation</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/stores/" rel="tag">stores</a> <a href="https://www.deepdotweb.com/tag/washington/" rel="tag">washington</a></span> <span style="display:none" class="updated">2017-02-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

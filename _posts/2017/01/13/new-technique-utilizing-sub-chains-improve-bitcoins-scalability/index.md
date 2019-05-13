@@ -30,6 +30,4 @@ A new technique utilizing sub-chains to improve bitcoin&#8217;s scalability
     </div>
     <a href="https://www.deepdotweb.com/tag/improve/" rel="tag">improve</a> <a href="https://www.deepdotweb.com/tag/scalability/" rel="tag">scalability</a> <a href="https://www.deepdotweb.com/tag/subchains/" rel="tag">subchains</a> <a href="https://www.deepdotweb.com/tag/technique/" rel="tag">technique</a> <a href="https://www.deepdotweb.com/tag/utilizing/" rel="tag">utilizing</a></span> <span style="display:none" class="updated">2017-01-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

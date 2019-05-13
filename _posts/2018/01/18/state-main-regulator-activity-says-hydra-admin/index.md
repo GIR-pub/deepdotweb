@@ -39,6 +39,4 @@ tag-activity tag-admin tag-hydra tag-main tag-regulator tag-state">
 <p>Unfortunately, you get tired of any work, even of the one you like. The project &#8211; is my life. I am fully devoted to Hydra. I am responsible for buyers, vendors and my team. All users trust in me this way or another and I try to honor it every day.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/activity/" rel="tag">activity</a> <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/hydra/" rel="tag">hydra</a> <a href="https://www.deepdotweb.com/tag/main/" rel="tag">main</a> <a href="https://www.deepdotweb.com/tag/regulator/" rel="tag">regulator</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a></span> <span style="display:none" class="updated">2018-01-18<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
-</div>
-</article>
 

@@ -199,6 +199,4 @@ DeepDotWeb&#8217;s DarkNet Dictionary Project!
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dictionary/" rel="tag">dictionary</a></span> <span style="display:none" class="updated">2014-03-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

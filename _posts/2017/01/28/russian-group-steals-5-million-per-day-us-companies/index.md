@@ -28,6 +28,4 @@ Russian Group Steals Up To $5 Million Per Day From US Companies
     </div>
     <a href="https://www.deepdotweb.com/tag/companies/" rel="tag">companies</a> <a href="https://www.deepdotweb.com/tag/day/" rel="tag">day</a> <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/steals/" rel="tag">steals</a></span> <span style="display:none" class="updated">2017-01-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

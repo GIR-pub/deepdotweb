@@ -17,6 +17,4 @@ EU Plans To End Anonymity For Bitcoin And Prepaid Card Users
     </div>
     <a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/card/" rel="tag">card</a> <a href="https://www.deepdotweb.com/tag/eu/" rel="tag">eu</a> <a href="https://www.deepdotweb.com/tag/plans/" rel="tag">plans</a> <a href="https://www.deepdotweb.com/tag/prepaid/" rel="tag">prepaid</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2016-02-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

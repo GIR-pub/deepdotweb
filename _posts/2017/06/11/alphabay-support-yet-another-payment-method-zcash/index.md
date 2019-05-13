@@ -28,6 +28,4 @@ Alphabay to Support Yet Another Payment Method: Zcash
     </div>
     <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/method/" rel="tag">method</a> <a href="https://www.deepdotweb.com/tag/payment/" rel="tag">payment</a> <a href="https://www.deepdotweb.com/tag/support/" rel="tag">support</a> <a href="https://www.deepdotweb.com/tag/zcash/" rel="tag">zcash</a></span> <span style="display:none" class="updated">2017-06-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Couple Charged With Murder After Supplying Fentanyl as Fake Oxycodone
 <p>Many parts of the case remained confidential until recently as to keep the investigation from corruption. Since both suspects stood in front of separate judges and each received third degree murder charges, the case details have begun to surface.</p>
 </div>
 <span style="display:none" class="updated">2017-03-15<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

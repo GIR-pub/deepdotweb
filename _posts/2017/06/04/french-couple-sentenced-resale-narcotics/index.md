@@ -21,6 +21,4 @@ French Couple Sentenced For The Resale Of Narcotics
     </div>
     <a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a> <a href="https://www.deepdotweb.com/tag/french/" rel="tag">french</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/resale/" rel="tag">resale</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-06-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

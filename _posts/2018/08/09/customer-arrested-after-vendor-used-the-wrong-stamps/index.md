@@ -20,6 +20,4 @@ Customer Arrested After Vendor Used the Wrong Stamps
 <p>In sentencing, Judge Helmut Berger said, “everything [in the defendant&#8217;s life] is going great. Why should we intervene now? That is incomprehensible.” The judge passed down a sentence of one year and eight months on probation.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/customer/" rel="tag">customer</a> <a href="https://www.deepdotweb.com/tag/stamps/" rel="tag">stamps</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/wrong/" rel="tag">wrong</a></span> <span style="display:none" class="updated">2018-08-09<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

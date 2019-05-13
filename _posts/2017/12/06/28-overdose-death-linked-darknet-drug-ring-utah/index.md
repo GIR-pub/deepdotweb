@@ -27,6 +27,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/28/" rel="tag">28</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/death/" rel="tag">death</a>  <a href="https://www.deepdotweb.com/tag/linked/" rel="tag">linked</a> <a href="https://www.deepdotweb.com/tag/overdose/" rel="tag">overdose</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/utah/" rel="tag">utah</a></span> <span style="display:none" class="updated">2017-12-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-    </div>
-</article>
-
+    

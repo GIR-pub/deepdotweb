@@ -30,6 +30,4 @@ Rule 41 Warrant Used in Kelihos Botnet TAKEDOWN
     </div>
     <a href="https://www.deepdotweb.com/tag/41/" rel="tag">41</a> <a href="https://www.deepdotweb.com/tag/botnet/" rel="tag">botnet</a> <a href="https://www.deepdotweb.com/tag/kelihos/" rel="tag">kelihos</a> <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/takedown/" rel="tag">takedown</a> <a href="https://www.deepdotweb.com/tag/warrant/" rel="tag">warrant</a></span> <span style="display:none" class="updated">2017-04-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

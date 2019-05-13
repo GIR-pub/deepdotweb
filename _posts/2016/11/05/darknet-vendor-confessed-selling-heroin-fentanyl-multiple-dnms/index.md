@@ -27,6 +27,4 @@ Darknet Vendor Confessed to Selling Heroin and Fentanyl on Multiple DNMs
     </div>
     <a href="https://www.deepdotweb.com/tag/confessed/" rel="tag">confessed</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dnms/" rel="tag">dnms</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/heroin/" rel="tag">heroin</a> <a href="https://www.deepdotweb.com/tag/multiple/" rel="tag">multiple</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-11-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

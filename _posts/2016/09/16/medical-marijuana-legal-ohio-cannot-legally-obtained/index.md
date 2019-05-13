@@ -26,6 +26,4 @@ Medical Marijuana Is Legal In Ohio But Cannot Be Legally Obtained
     </div>
     <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/legally/" rel="tag">legally</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/medical/" rel="tag">medical</a> <a href="https://www.deepdotweb.com/tag/obtained/" rel="tag">obtained</a> <a href="https://www.deepdotweb.com/tag/ohio/" rel="tag">ohio</a></span> <span style="display:none" class="updated">2016-09-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

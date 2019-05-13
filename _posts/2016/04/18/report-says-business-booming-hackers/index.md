@@ -19,6 +19,4 @@ Report Says Business Is Booming For Hackers
     </div>
     <a href="https://www.deepdotweb.com/tag/booming/" rel="tag">booming</a> <a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2016-04-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -49,6 +49,4 @@ How Far Will an Undercover Go to Sell You on Their Story?
     </div>
     <a href="https://www.deepdotweb.com/tag/sell/" rel="tag">sell</a> <a href="https://www.deepdotweb.com/tag/story/" rel="tag">story</a> <a href="https://www.deepdotweb.com/tag/undercover/" rel="tag">undercover</a></span> <span style="display:none" class="updated">2015-05-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

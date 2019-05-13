@@ -42,6 +42,4 @@ Criminal Complaint Reveals &#8216;Private Internet Access&#8217; Doesn&#8217;t L
     </div>
     <a href="https://www.deepdotweb.com/tag/access/" rel="tag">access</a> <a href="https://www.deepdotweb.com/tag/complaint/" rel="tag">complaint</a> <a href="https://www.deepdotweb.com/tag/criminal/" rel="tag">criminal</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/log/" rel="tag">log</a> <a href="https://www.deepdotweb.com/tag/private/" rel="tag">private</a> <a href="https://www.deepdotweb.com/tag/reveals/" rel="tag">reveals</a></span> <span style="display:none" class="updated">2016-03-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

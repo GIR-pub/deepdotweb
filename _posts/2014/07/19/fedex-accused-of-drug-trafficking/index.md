@@ -33,6 +33,4 @@ FedEx Accused of Drug Trafficking
     </div>
     <a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a>  <a href="https://www.deepdotweb.com/tag/fedex/" rel="tag">fedex</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2014-07-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -26,6 +26,4 @@ A Programming Genius Arrested for Running a Multi-Million Dollar Drug Empire on 
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dollar/" rel="tag">dollar</a>  <a href="https://www.deepdotweb.com/tag/empire/" rel="tag">empire</a> <a href="https://www.deepdotweb.com/tag/genius/" rel="tag">genius</a> <a href="https://www.deepdotweb.com/tag/multimillion/" rel="tag">multimillion</a> <a href="https://www.deepdotweb.com/tag/programming/" rel="tag">programming</a> <a href="https://www.deepdotweb.com/tag/running/" rel="tag">running</a></span> <span style="display:none" class="updated">2019-03-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-    </div>
-</article>
-
+    

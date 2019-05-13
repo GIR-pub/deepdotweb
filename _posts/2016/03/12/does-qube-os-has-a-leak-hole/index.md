@@ -84,6 +84,4 @@ Does Qubes OS Has A Leak Hole ?
     </div>
     <a href="https://www.deepdotweb.com/tag/hole/" rel="tag">hole</a> <a href="https://www.deepdotweb.com/tag/leak/" rel="tag">leak</a> <a href="https://www.deepdotweb.com/tag/os/" rel="tag">os</a> <a href="https://www.deepdotweb.com/tag/qube/" rel="tag">qube</a></span> <span style="display:none" class="updated">2016-03-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/michaelatobraaboagye/" title="Posts by Michael Atobra Aboagye" rel="author">Michael Atobra Aboagye</a></strong></div>
-    </div>
-</article>
-
+    

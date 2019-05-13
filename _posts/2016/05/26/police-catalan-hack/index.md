@@ -24,6 +24,4 @@ Hacker Teach How He Hacked Spain’s Catalan Police Union Website
     </div>
     <a href="https://www.deepdotweb.com/tag/catalan/" rel="tag">catalan</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/spains/" rel="tag">spains</a> <a href="https://www.deepdotweb.com/tag/teach/" rel="tag">teach</a> <a href="https://www.deepdotweb.com/tag/union/" rel="tag">union</a> <a href="https://www.deepdotweb.com/tag/website/" rel="tag">website</a></span> <span style="display:none" class="updated">2016-05-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/janobi/" title="Posts by Janobi" rel="author">Janobi</a></strong></div>
-    </div>
-</article>
-
+    

@@ -20,6 +20,4 @@ Man Sentenced After Losing USB Drive Filled with Child Porn
 <p>The prosecution asked for a sentence of 18 months in prison. And the judge handed down the sentence the prosecution had requested. However, the judge suspended the sentence for 18 months under court supervision. The man&#8217;s partner, during the sentencing hearing, told the judge that the defendant was a “kind and loving&#8221; individual.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/drive/" rel="tag">drive</a> <a href="https://www.deepdotweb.com/tag/filled/" rel="tag">filled</a> <a href="https://www.deepdotweb.com/tag/losing/" rel="tag">losing</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/usb/" rel="tag">usb</a></span> <span style="display:none" class="updated">2018-07-26<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

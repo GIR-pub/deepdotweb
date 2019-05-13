@@ -25,6 +25,4 @@ Weapon Arsenal Found In German’s House
     </div>
     <a href="https://www.deepdotweb.com/tag/arsenal/" rel="tag">arsenal</a> <a href="https://www.deepdotweb.com/tag/germans/" rel="tag">germans</a> <a href="https://www.deepdotweb.com/tag/house/" rel="tag">house</a> </span> <span style="display:none" class="updated">2017-06-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -32,6 +32,4 @@ UMBRA: The Ultimate Privacy Platform
     </div>
     <a href="https://www.deepdotweb.com/tag/platform/" rel="tag">platform</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/ultimate/" rel="tag">ultimate</a> <a href="https://www.deepdotweb.com/tag/umbra/" rel="tag">umbra</a></span> <span style="display:none" class="updated">2016-10-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/arcanum/" title="Posts by Arcanum" rel="author">Arcanum</a></strong></div>
-    </div>
-</article>
-
+    

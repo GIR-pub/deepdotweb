@@ -44,6 +44,4 @@ VOIP (IN)SECURITY: ALTERNATIVES TO SKYPE AND WHATSAPP
     </div>
     <a href="https://www.deepdotweb.com/tag/alternatives/" rel="tag">alternatives</a> <a href="https://www.deepdotweb.com/tag/insecurity/" rel="tag">insecurity</a> <a href="https://www.deepdotweb.com/tag/skype/" rel="tag">skype</a> <a href="https://www.deepdotweb.com/tag/voip/" rel="tag">voip</a> <a href="https://www.deepdotweb.com/tag/whatsapp/" rel="tag">whatsapp</a></span> <span style="display:none" class="updated">2017-07-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
-    </div>
-</article>
-
+    

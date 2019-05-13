@@ -59,6 +59,4 @@ ChaosVPN: The Hackers’ VPN!
     </div>
     <a href="https://www.deepdotweb.com/tag/chaosvpn/" rel="tag">chaosvpn</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-11-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
-    </div>
-</article>
-
+    

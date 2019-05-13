@@ -21,6 +21,4 @@ Possible Upcoming Attempts to Disable The Tor Network
     </div>
     <a href="https://www.deepdotweb.com/tag/attempts/" rel="tag">attempts</a> <a href="https://www.deepdotweb.com/tag/disable/" rel="tag">disable</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a>  <a href="https://www.deepdotweb.com/tag/upcoming/" rel="tag">upcoming</a></span> <span style="display:none" class="updated">2014-12-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

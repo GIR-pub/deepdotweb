@@ -44,6 +44,4 @@ Allen Hoffman on the Ulbricht Indictment
     </div>
     <a href="https://www.deepdotweb.com/tag/hutz/" rel="tag">hutz</a> <a href="https://www.deepdotweb.com/tag/indictments/" rel="tag">indictments</a> <a href="https://www.deepdotweb.com/tag/lionel/" rel="tag">lionel</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2014-11-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

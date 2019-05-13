@@ -113,6 +113,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/distros/" rel="tag">distros</a> <a href="https://www.deepdotweb.com/tag/linux/" rel="tag">linux</a> <a href="https://www.deepdotweb.com/tag/paranoid/" rel="tag">paranoid</a></span> <span style="display:none" class="updated">2016-10-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
-    </div>
-</article>
-
+    

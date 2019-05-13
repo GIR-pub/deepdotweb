@@ -18,6 +18,4 @@ Berlin Customs Allegedly Identified Nearly 1,500 Darknet Drug Buyers
 <p>This number of identified targets fits the profile of a small marketplace or established darknet vendor. Given that the customs investigators intercepted packages and worked their way back to the supplier, they most likely caught a vendor with a sizeable customer base. Of course, they could have traced the packages back to a vendor who operated his or her own marketplace. Only time will tell.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/1500/" rel="tag">1500</a> <a href="https://www.deepdotweb.com/tag/allegedly/" rel="tag">allegedly</a> <a href="https://www.deepdotweb.com/tag/berlin/" rel="tag">berlin</a> <a href="https://www.deepdotweb.com/tag/buyers/" rel="tag">buyers</a> <a href="https://www.deepdotweb.com/tag/customs/" rel="tag">customs</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/identified/" rel="tag">identified</a></span> <span style="display:none" class="updated">2018-05-04<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

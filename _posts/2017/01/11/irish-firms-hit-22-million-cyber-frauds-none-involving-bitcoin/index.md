@@ -24,6 +24,4 @@ Irish Firms Hit With $22 Million in Cyber Frauds, None Involving Bitcoin
     </div>
     <a href="https://www.deepdotweb.com/tag/22/" rel="tag">22</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/firms/" rel="tag">firms</a> <a href="https://www.deepdotweb.com/tag/frauds/" rel="tag">frauds</a> <a href="https://www.deepdotweb.com/tag/hit/" rel="tag">hit</a> <a href="https://www.deepdotweb.com/tag/involving/" rel="tag">involving</a> <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a></span> <span style="display:none" class="updated">2017-01-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ The Trial Of The Swedish Vendor Group Started
     </div>
     <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/started/" rel="tag">started</a> <a href="https://www.deepdotweb.com/tag/swedish/" rel="tag">swedish</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-12-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -26,6 +26,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/14yearold/" rel="tag">14yearold</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/boy/" rel="tag">boy</a> <a href="https://www.deepdotweb.com/tag/creating/" rel="tag">creating</a> <a href="https://www.deepdotweb.com/tag/japan/" rel="tag">japan</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/virus/" rel="tag">virus</a></span> <span style="display:none" class="updated">2017-06-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/jackmeyer/" title="Posts by Jack Meyer" rel="author">Jack Meyer</a></strong></div>
-    </div>
-</article>
-
+    

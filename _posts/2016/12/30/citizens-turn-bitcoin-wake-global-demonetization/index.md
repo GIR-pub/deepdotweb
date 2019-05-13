@@ -28,6 +28,4 @@ Citizens Turn To Bitcoin in the Wake of Global Demonetization
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/citizens/" rel="tag">citizens</a> <a href="https://www.deepdotweb.com/tag/demonetization/" rel="tag">demonetization</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/kptx/" rel="tag">kptx</a> <a href="https://www.deepdotweb.com/tag/turn/" rel="tag">turn</a> <a href="https://www.deepdotweb.com/tag/wake/" rel="tag">wake</a></span> <span style="display:none" class="updated">2016-12-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Playpen Member Guilty of Receiving Child Pornography
 <p>After the bench trial where to the court found Barnes guilty of receiving child pornography, the case entered the sentencing stage. He will spend a minimum of five years in a federal prison. The maximum is 20 years. His sentencing date has been scheduled for December 18.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a>  <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a> <a href="https://www.deepdotweb.com/tag/receiving/" rel="tag">receiving</a></span> <span style="display:none" class="updated">2017-10-03<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

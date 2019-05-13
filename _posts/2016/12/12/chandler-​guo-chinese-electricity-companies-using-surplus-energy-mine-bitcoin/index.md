@@ -23,6 +23,4 @@ Chandler ​Guo: Chinese Electricity Companies Are Using Surplus Energy to Mine 
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/chandler/" rel="tag">chandler</a> <a href="https://www.deepdotweb.com/tag/chinese/" rel="tag">chinese</a> <a href="https://www.deepdotweb.com/tag/companies/" rel="tag">companies</a> <a href="https://www.deepdotweb.com/tag/electricity/" rel="tag">electricity</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a> <a href="https://www.deepdotweb.com/tag/guo/" rel="tag">guo</a> <a href="https://www.deepdotweb.com/tag/surplus/" rel="tag">surplus</a></span> <span style="display:none" class="updated">2016-12-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

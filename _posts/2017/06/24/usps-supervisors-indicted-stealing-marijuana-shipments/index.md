@@ -29,6 +29,4 @@ USPS Supervisors Indicted for Stealing Marijuana Shipments
     </div>
     <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/shipments/" rel="tag">shipments</a> <a href="https://www.deepdotweb.com/tag/stealing/" rel="tag">stealing</a> <a href="https://www.deepdotweb.com/tag/supervisors/" rel="tag">supervisors</a> <a href="https://www.deepdotweb.com/tag/usps/" rel="tag">usps</a></span> <span style="display:none" class="updated">2017-06-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

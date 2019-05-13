@@ -23,6 +23,4 @@ How To Minimize Bitcoin Transaction Confirmation Delays Via Adjusting Miners&#82
     </div>
     <a href="https://www.deepdotweb.com/tag/adjusting/" rel="tag">adjusting</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/confirmation/" rel="tag">confirmation</a> <a href="https://www.deepdotweb.com/tag/delays/" rel="tag">delays</a> <a href="https://www.deepdotweb.com/tag/fees/" rel="tag">fees</a> <a href="https://www.deepdotweb.com/tag/miners/" rel="tag">miners</a> <a href="https://www.deepdotweb.com/tag/minimize/" rel="tag">minimize</a> <a href="https://www.deepdotweb.com/tag/transaction/" rel="tag">transaction</a></span> <span style="display:none" class="updated">2017-05-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

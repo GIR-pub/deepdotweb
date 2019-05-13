@@ -48,6 +48,4 @@ Cross-Marketplace Discussion &#038; News: The Hub Forum Is Live!
     </div>
     <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/hub/" rel="tag">hub</a> <a href="https://www.deepdotweb.com/tag/meet/" rel="tag">meet</a></span> <span style="display:none" class="updated">2014-01-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

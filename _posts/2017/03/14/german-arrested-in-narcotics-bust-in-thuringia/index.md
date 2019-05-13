@@ -19,6 +19,4 @@ German Arrested In Narcotics Bust In Thuringia
 <p>In the current case, there could be a possibility that law enforcement authorities arrested the 22-year-old suspect as part of the same investigation started after the Münich shooting incident. However, since there are so many ongoing cases in the country, police postponed the defendant’s investigation and only arrested him recently. For the large amounts of the narcotics found in his home, he is accused of <a href="https://www.deepdotweb.com/tag/drugs/">drug</a> trafficking. For that, he could be sentenced to serious time in prison.</p>
 </div>
 <span style="display:none" class="updated">2017-03-14<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

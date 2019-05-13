@@ -65,6 +65,4 @@ Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone
     </div>
     <a href="https://www.deepdotweb.com/tag/100000/" rel="tag">100000</a>  <a href="https://www.deepdotweb.com/tag/cannabis/" rel="tag">cannabis</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> </span> <span style="display:none" class="updated">2014-08-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

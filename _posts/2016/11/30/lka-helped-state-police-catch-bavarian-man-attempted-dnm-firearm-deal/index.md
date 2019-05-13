@@ -28,6 +28,4 @@ The LKA Helped State Police Catch a Bavarian Man for Attempted DNM Firearm Deal
     </div>
     <a href="https://www.deepdotweb.com/tag/attempted/" rel="tag">attempted</a> <a href="https://www.deepdotweb.com/tag/bavarian/" rel="tag">bavarian</a> <a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/deal/" rel="tag">deal</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/firearm/" rel="tag">firearm</a> <a href="https://www.deepdotweb.com/tag/helped/" rel="tag">helped</a> <a href="https://www.deepdotweb.com/tag/lka/" rel="tag">lka</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a></span> <span style="display:none" class="updated">2016-11-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

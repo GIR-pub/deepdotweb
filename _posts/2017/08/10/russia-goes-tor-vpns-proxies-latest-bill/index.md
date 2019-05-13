@@ -25,6 +25,4 @@ Russia Goes After Tor, VPNs, and Proxies in Latest Bill
     </div>
     <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/latest/" rel="tag">latest</a> <a href="https://www.deepdotweb.com/tag/proxies/" rel="tag">proxies</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a>  <a href="https://www.deepdotweb.com/tag/vpns/" rel="tag">vpns</a></span> <span style="display:none" class="updated">2017-08-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -38,6 +38,4 @@ While Markets Get Seized: Pedophiles Launch a Crowdfunding Site
     </div>
     <a href="https://www.deepdotweb.com/tag/crowdfunding/" rel="tag">crowdfunding</a>  <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/pedophiles/" rel="tag">pedophiles</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a></span> <span style="display:none" class="updated">2014-11-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

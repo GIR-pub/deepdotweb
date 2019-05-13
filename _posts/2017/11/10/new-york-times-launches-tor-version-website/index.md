@@ -33,6 +33,4 @@ The New York Times Launches a Tor Version of their Website
     </div>
     <a href="https://www.deepdotweb.com/tag/launches/" rel="tag">launches</a> <a href="https://www.deepdotweb.com/tag/times/" rel="tag">times</a>  <a href="https://www.deepdotweb.com/tag/version/" rel="tag">version</a> <a href="https://www.deepdotweb.com/tag/website/" rel="tag">website</a> <a href="https://www.deepdotweb.com/tag/york/" rel="tag">york</a></span> <span style="display:none" class="updated">2017-11-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-    </div>
-</article>
-
+    

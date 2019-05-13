@@ -99,6 +99,4 @@ How Scandinavia&#8217;s Biggest Vendor Created His Empire On Valhalla
     </div>
     <a href="https://www.deepdotweb.com/tag/biggest/" rel="tag">biggest</a> <a href="https://www.deepdotweb.com/tag/created/" rel="tag">created</a> <a href="https://www.deepdotweb.com/tag/empire/" rel="tag">empire</a> <a href="https://www.deepdotweb.com/tag/scandinavias/" rel="tag">scandinavias</a> <a href="https://www.deepdotweb.com/tag/valhalla/" rel="tag">valhalla</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-02-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

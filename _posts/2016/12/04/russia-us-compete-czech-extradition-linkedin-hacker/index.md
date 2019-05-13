@@ -24,6 +24,4 @@ Russia And US Compete For Czech Extradition Of LinkedIn Hacker
     </div>
     <a href="https://www.deepdotweb.com/tag/compete/" rel="tag">compete</a> <a href="https://www.deepdotweb.com/tag/czech/" rel="tag">czech</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/linkedin/" rel="tag">linkedin</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2016-12-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

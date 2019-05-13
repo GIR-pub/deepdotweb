@@ -22,6 +22,4 @@ A Scammer&#8217;s Remorse
     </div>
     <a href="https://www.deepdotweb.com/tag/remorse/" rel="tag">remorse</a> <a href="https://www.deepdotweb.com/tag/scammers/" rel="tag">scammers</a></span> <span style="display:none" class="updated">2014-05-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/black-ink/" title="Posts by Black Ink" rel="author">Black Ink</a></strong></div>
-    </div>
-</article>
-
+    

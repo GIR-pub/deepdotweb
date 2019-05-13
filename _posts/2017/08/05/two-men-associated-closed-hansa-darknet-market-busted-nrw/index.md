@@ -36,6 +36,4 @@ Two Men Associated With the “Closed” Hansa Darknet Market Busted By the Nrw
     </div>
      <a href="https://www.deepdotweb.com/tag/closed/" rel="tag">closed</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/hansa/" rel="tag">hansa</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/nrw/" rel="tag">nrw</a></span> <span style="display:none" class="updated">2017-08-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
-    </div>
-</article>
-
+    

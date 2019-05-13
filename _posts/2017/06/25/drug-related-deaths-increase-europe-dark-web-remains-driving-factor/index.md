@@ -26,6 +26,4 @@ Drug-Related Deaths Increase in Europe, Dark Web Remains Driving Factor
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/deaths/" rel="tag">deaths</a> <a href="https://www.deepdotweb.com/tag/driving/" rel="tag">driving</a> <a href="https://www.deepdotweb.com/tag/drugrelated/" rel="tag">drugrelated</a> <a href="https://www.deepdotweb.com/tag/europe/" rel="tag">europe</a> <a href="https://www.deepdotweb.com/tag/factor/" rel="tag">factor</a> <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/remains/" rel="tag">remains</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-06-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

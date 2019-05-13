@@ -27,6 +27,4 @@ The Rise in “Ransom”-ware
     </div>
     <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a></span> <span style="display:none" class="updated">2016-06-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/jfc/" title="Posts by JFC" rel="author">JFC</a></strong></div>
-    </div>
-</article>
-
+    

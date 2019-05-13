@@ -18,6 +18,4 @@ Bavarian Man Admits 34 Alphabay Orders in Court
 <p>A mental health expert for the prosecution said the defendant suffered from paranoid schizophrenia. In response, the judge handed down a sentence of one year and six months probation and mandatory completion of a state sponsored therapy program.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/34/" rel="tag">34</a> <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/bavarian/" rel="tag">bavarian</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a></span> <span style="display:none" class="updated">2018-07-29<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

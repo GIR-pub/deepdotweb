@@ -26,6 +26,4 @@ Bitcoin Blockchain&#8217;s High Security Will Lead Blockchain Startups to Pivot 
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/blockchains/" rel="tag">blockchains</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/lead/" rel="tag">lead</a> <a href="https://www.deepdotweb.com/tag/pivot/" rel="tag">pivot</a>  <a href="https://www.deepdotweb.com/tag/startups/" rel="tag">startups</a></span> <span style="display:none" class="updated">2016-10-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

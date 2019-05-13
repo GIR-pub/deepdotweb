@@ -27,6 +27,4 @@ National Association of Realtors Release Study on Bitcoin&#8217;s Applicability 
     </div>
     <a href="https://www.deepdotweb.com/tag/applicability/" rel="tag">applicability</a> <a href="https://www.deepdotweb.com/tag/association/" rel="tag">association</a> <a href="https://www.deepdotweb.com/tag/estate/" rel="tag">estate</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a> <a href="https://www.deepdotweb.com/tag/realtors/" rel="tag">realtors</a> <a href="https://www.deepdotweb.com/tag/release/" rel="tag">release</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a></span> <span style="display:none" class="updated">2016-11-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

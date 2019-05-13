@@ -24,6 +24,4 @@ Three Irishmen Jailed For Dark Web Drug Trading, Use of Cash Vital in Crackdown
     </div>
     <a href="https://www.deepdotweb.com/tag/cash/" rel="tag">cash</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/irishmen/" rel="tag">irishmen</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/trading/" rel="tag">trading</a> <a href="https://www.deepdotweb.com/tag/vital/" rel="tag">vital</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-01-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

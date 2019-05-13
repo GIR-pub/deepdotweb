@@ -30,6 +30,4 @@ Tor to Combat Malicious Node Problem
     </div>
     <a href="https://www.deepdotweb.com/tag/combat/" rel="tag">combat</a> <a href="https://www.deepdotweb.com/tag/malicious/" rel="tag">malicious</a> <a href="https://www.deepdotweb.com/tag/node/" rel="tag">node</a> <a href="https://www.deepdotweb.com/tag/problem/" rel="tag">problem</a> </span> <span style="display:none" class="updated">2016-07-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

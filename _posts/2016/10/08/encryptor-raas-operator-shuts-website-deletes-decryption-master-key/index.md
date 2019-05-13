@@ -24,6 +24,4 @@ Encryptor RaaS Operator Shuts Down Website, Deletes Decryption Master Key
     </div>
     <a href="https://www.deepdotweb.com/tag/decryption/" rel="tag">decryption</a> <a href="https://www.deepdotweb.com/tag/deletes/" rel="tag">deletes</a> <a href="https://www.deepdotweb.com/tag/encryptor/" rel="tag">encryptor</a> <a href="https://www.deepdotweb.com/tag/key/" rel="tag">key</a> <a href="https://www.deepdotweb.com/tag/master/" rel="tag">master</a> <a href="https://www.deepdotweb.com/tag/operator/" rel="tag">operator</a> <a href="https://www.deepdotweb.com/tag/raas/" rel="tag">raas</a> <a href="https://www.deepdotweb.com/tag/shuts/" rel="tag">shuts</a> <a href="https://www.deepdotweb.com/tag/website/" rel="tag">website</a></span> <span style="display:none" class="updated">2016-10-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

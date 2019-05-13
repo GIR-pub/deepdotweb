@@ -24,6 +24,4 @@ Why Are US Mainstream Media Outlets Removing the “Operation Darkroom” Story?
     </div>
     <a href="https://www.deepdotweb.com/tag/darkroom/" rel="tag">darkroom</a> <a href="https://www.deepdotweb.com/tag/mainstream/" rel="tag">mainstream</a> <a href="https://www.deepdotweb.com/tag/media/" rel="tag">media</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/outlets/" rel="tag">outlets</a> <a href="https://www.deepdotweb.com/tag/removing/" rel="tag">removing</a> <a href="https://www.deepdotweb.com/tag/story/" rel="tag">story</a></span> <span style="display:none" class="updated">2016-12-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

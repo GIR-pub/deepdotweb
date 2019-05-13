@@ -18,6 +18,4 @@ How the Secret Service Tracked Down Darknet Cash Counterfeiter Billmaker
     </div>
     <a href="https://www.deepdotweb.com/tag/billmaker/" rel="tag">billmaker</a> <a href="https://www.deepdotweb.com/tag/cash/" rel="tag">cash</a> <a href="https://www.deepdotweb.com/tag/counterfeiter/" rel="tag">counterfeiter</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/secret/" rel="tag">secret</a> <a href="https://www.deepdotweb.com/tag/tracked/" rel="tag">tracked</a></span> <span style="display:none" class="updated">2019-02-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

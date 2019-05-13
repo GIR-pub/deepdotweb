@@ -25,6 +25,4 @@ Possible Large-Scale DDOS Attacks on TOR Exit Nodes
     </div>
     <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/largescale/" rel="tag">largescale</a> <a href="https://www.deepdotweb.com/tag/nodes/" rel="tag">nodes</a> </span> <span style="display:none" class="updated">2015-11-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chrismccandless/" title="Posts by Chris McCandless" rel="author">Chris McCandless</a></strong></div>
-    </div>
-</article>
-
+    

@@ -21,6 +21,4 @@ ISIS Supporters Used Orbot and Telegram to Communicate with ISIS Handlers
     </div>
     <a href="https://www.deepdotweb.com/tag/communicate/" rel="tag">communicate</a> <a href="https://www.deepdotweb.com/tag/handlers/" rel="tag">handlers</a> <a href="https://www.deepdotweb.com/tag/isis/" rel="tag">isis</a> <a href="https://www.deepdotweb.com/tag/orbot/" rel="tag">orbot</a> <a href="https://www.deepdotweb.com/tag/supporters/" rel="tag">supporters</a> <a href="https://www.deepdotweb.com/tag/telegram/" rel="tag">telegram</a></span> <span style="display:none" class="updated">2017-01-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

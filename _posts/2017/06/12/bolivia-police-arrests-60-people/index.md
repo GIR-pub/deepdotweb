@@ -26,6 +26,4 @@ Bolivia Police arrests 60 people for Cryptocurrency crimes
     </div>
     <a href="https://www.deepdotweb.com/tag/60/" rel="tag">60</a> <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/bolivia/" rel="tag">bolivia</a> <a href="https://www.deepdotweb.com/tag/crimes/" rel="tag">crimes</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2017-06-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/arjunvaishnav/" title="Posts by Arjun Vaishnav" rel="author">Arjun Vaishnav</a></strong></div>
-    </div>
-</article>
-
+    

@@ -25,6 +25,4 @@ Personal Data Of 3.7 Million Voters Stolen In Hong Kong
     </div>
     <a href="https://www.deepdotweb.com/tag/37/" rel="tag">37</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/hong/" rel="tag">hong</a> <a href="https://www.deepdotweb.com/tag/kong/" rel="tag">kong</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/voters/" rel="tag">voters</a></span> <span style="display:none" class="updated">2017-05-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

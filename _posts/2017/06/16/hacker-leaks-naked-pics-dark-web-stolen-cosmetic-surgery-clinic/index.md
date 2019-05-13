@@ -26,6 +26,4 @@ Hacker leaks Naked Pics at dark web stolen from Cosmetic Surgery Clinic
     </div>
     <a href="https://www.deepdotweb.com/tag/clinic/" rel="tag">clinic</a> <a href="https://www.deepdotweb.com/tag/cosmetic/" rel="tag">cosmetic</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/leaks/" rel="tag">leaks</a> <a href="https://www.deepdotweb.com/tag/naked/" rel="tag">naked</a> <a href="https://www.deepdotweb.com/tag/pics/" rel="tag">pics</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/surgery/" rel="tag">surgery</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-06-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/arjunvaishnav/" title="Posts by Arjun Vaishnav" rel="author">Arjun Vaishnav</a></strong></div>
-    </div>
-</article>
-
+    

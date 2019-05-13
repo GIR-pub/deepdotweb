@@ -22,6 +22,4 @@ Darkcoin Now Accepted on Minor Dark Net Markets
     </div>
     <a href="https://www.deepdotweb.com/tag/bow/" rel="tag">bow</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/minor/" rel="tag">minor</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> <span style="display:none" class="updated">2014-10-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/cipher/" title="Posts by Cipher" rel="author">Cipher</a></strong></div>
-    </div>
-</article>
-
+    

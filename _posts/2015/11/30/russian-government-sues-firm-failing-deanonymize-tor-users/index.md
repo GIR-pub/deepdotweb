@@ -18,6 +18,4 @@ Russian Government Sues Firm For Failing To Deanonymize Tor Users
     </div>
     <a href="https://www.deepdotweb.com/tag/deanonymize/" rel="tag">deanonymize</a> <a href="https://www.deepdotweb.com/tag/failing/" rel="tag">failing</a> <a href="https://www.deepdotweb.com/tag/firm/" rel="tag">firm</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/sues/" rel="tag">sues</a>  <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2015-11-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -30,6 +30,4 @@ Comcast Declares War on Tor?
     </div>
     <a href="https://www.deepdotweb.com/tag/comcast/" rel="tag">comcast</a> <a href="https://www.deepdotweb.com/tag/declares/" rel="tag">declares</a>  <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2014-09-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/nathan/" title="Posts by Nathan Wold" rel="author">Nathan Wold</a></strong></div>
-    </div>
-</article>
-
+    

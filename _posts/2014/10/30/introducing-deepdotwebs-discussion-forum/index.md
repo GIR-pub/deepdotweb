@@ -34,6 +34,4 @@ Introducing: DeepDotWeb&#8217;s Discussion Forum
     </div>
     <a href="https://www.deepdotweb.com/tag/deepdotwebs/" rel="tag">deepdotwebs</a> <a href="https://www.deepdotweb.com/tag/discussion/" rel="tag">discussion</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> <span style="display:none" class="updated">2014-10-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

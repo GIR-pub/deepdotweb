@@ -19,6 +19,4 @@ Bitcoin Trader &#8216;Bitcoin Maven” Sentenced to Federal Prison
 <p>The judge ordered the 366 day prison sentence; another 36 months of supervised release; a forfeiture of $292,264 in U.S. currency; a forfeiture of 40 Bitcoin; a forfeiture of gold bars; and a $20,000 fine.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/maven/" rel="tag">maven</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/trader/" rel="tag">trader</a></span> <span style="display:none" class="updated">2018-07-27<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

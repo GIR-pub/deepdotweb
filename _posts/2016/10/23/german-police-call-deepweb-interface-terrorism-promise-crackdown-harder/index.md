@@ -27,6 +27,4 @@ German Police Call the Deepweb an Interface for Terrorism, Promise to Crackdown 
     </div>
     <a href="https://www.deepdotweb.com/tag/call/" rel="tag">call</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/harder/" rel="tag">harder</a> <a href="https://www.deepdotweb.com/tag/interface/" rel="tag">interface</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/promise/" rel="tag">promise</a> <a href="https://www.deepdotweb.com/tag/terrorism/" rel="tag">terrorism</a></span> <span style="display:none" class="updated">2016-10-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

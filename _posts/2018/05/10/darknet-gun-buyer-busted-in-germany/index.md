@@ -22,6 +22,4 @@ Darknet Gun Buyer Busted in Germany
 <p>He has been arrested and is currently awaiting a courtroom appearance for weapons law violations.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a></span> <span style="display:none" class="updated">2018-05-10<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

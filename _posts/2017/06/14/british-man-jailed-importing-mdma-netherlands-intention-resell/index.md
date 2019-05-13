@@ -23,6 +23,4 @@ British Man Jailed For Importing MDMA From The Netherlands With The Intention To
     </div>
     <a href="https://www.deepdotweb.com/tag/british/" rel="tag">british</a> <a href="https://www.deepdotweb.com/tag/importing/" rel="tag">importing</a> <a href="https://www.deepdotweb.com/tag/intention/" rel="tag">intention</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/resell/" rel="tag">resell</a></span> <span style="display:none" class="updated">2017-06-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

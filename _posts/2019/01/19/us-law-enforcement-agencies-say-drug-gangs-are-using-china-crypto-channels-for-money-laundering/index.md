@@ -29,6 +29,4 @@ US Law Enforcement Agencies Say Drug Gangs Are Using China Crypto Channels for M
     </div>
     <a href="https://www.deepdotweb.com/tag/agencies/" rel="tag">agencies</a> <a href="https://www.deepdotweb.com/tag/channels/" rel="tag">channels</a> <a href="https://www.deepdotweb.com/tag/china/" rel="tag">china</a> <a href="https://www.deepdotweb.com/tag/crypto/" rel="tag">crypto</a>  <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/gangs/" rel="tag">gangs</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a></span> <span style="display:none" class="updated">2019-01-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-    </div>
-</article>
-
+    

@@ -16,6 +16,4 @@ Silk Road Founder&#8217;s Mother Speaks Out
     </div>
     <a href="https://www.deepdotweb.com/tag/founders/" rel="tag">founders</a> <a href="https://www.deepdotweb.com/tag/mother/" rel="tag">mother</a>  <a href="https://www.deepdotweb.com/tag/speaks/" rel="tag">speaks</a></span> <span style="display:none" class="updated">2014-03-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

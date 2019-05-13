@@ -38,6 +38,4 @@ Satoshi Nakamoto&#8217;s Email Account Hacked
     </div>
     <a href="https://www.deepdotweb.com/tag/account/" rel="tag">account</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/nakamotos/" rel="tag">nakamotos</a> <a href="https://www.deepdotweb.com/tag/satoshi/" rel="tag">satoshi</a></span> <span style="display:none" class="updated">2014-09-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

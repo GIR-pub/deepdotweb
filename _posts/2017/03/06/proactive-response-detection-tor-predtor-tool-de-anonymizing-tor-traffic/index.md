@@ -22,6 +22,4 @@ Proactive Response and Detection for TOR (PReDTOR) &#8211; A Tool for De-anonymi
 <p>All IP addresses and ports related to Tor traffic are included in the signature based engine. The Tor detector module updates the feed via the official Tor link on daily basis which includes all known Tor IP addresses. The heuristic based engine contain IDS rules that detect known Tor behavior through packet communication.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/deanonymizing/" rel="tag">deanonymizing</a> <a href="https://www.deepdotweb.com/tag/detection/" rel="tag">detection</a> <a href="https://www.deepdotweb.com/tag/predtor/" rel="tag">predtor</a> <a href="https://www.deepdotweb.com/tag/proactive/" rel="tag">proactive</a> <a href="https://www.deepdotweb.com/tag/response/" rel="tag">response</a> <a href="https://www.deepdotweb.com/tag/tool/" rel="tag">tool</a>  <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> <span style="display:none" class="updated">2017-03-06<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

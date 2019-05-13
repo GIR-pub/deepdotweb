@@ -27,6 +27,4 @@ Lexington Man Imprisoned for 43 Years for Attempting to Murder His Ex-Wife with 
     </div>
     <a href="https://www.deepdotweb.com/tag/43/" rel="tag">43</a> <a href="https://www.deepdotweb.com/tag/attempting/" rel="tag">attempting</a> <a href="https://www.deepdotweb.com/tag/bomb/" rel="tag">bomb</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/exwife/" rel="tag">exwife</a> <a href="https://www.deepdotweb.com/tag/imprisoned/" rel="tag">imprisoned</a> <a href="https://www.deepdotweb.com/tag/lexington/" rel="tag">lexington</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/murder/" rel="tag">murder</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2019-03-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/steve_bale/" title="Posts by Steve_Bale" rel="author">Steve_Bale</a></strong></div>
-    </div>
-</article>
-
+    

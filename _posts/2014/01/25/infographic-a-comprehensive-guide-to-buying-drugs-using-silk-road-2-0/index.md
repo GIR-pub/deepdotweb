@@ -25,6 +25,4 @@ Infographic &#8211; A Comprehensive Guide to Buying Drugs Using Silk Road 2.0
     </div>
     <span style="display:none" class="updated">2014-01-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

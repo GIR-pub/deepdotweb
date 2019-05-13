@@ -24,6 +24,4 @@ CP Forum in Spain Taken Down by Reverse Image Searches
     </div>
     <a href="https://www.deepdotweb.com/tag/cp/" rel="tag">cp</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/image/" rel="tag">image</a> <a href="https://www.deepdotweb.com/tag/reverse/" rel="tag">reverse</a> <a href="https://www.deepdotweb.com/tag/searches/" rel="tag">searches</a> <a href="https://www.deepdotweb.com/tag/spain/" rel="tag">spain</a></span> <span style="display:none" class="updated">2017-07-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

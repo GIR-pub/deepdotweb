@@ -25,6 +25,4 @@ The Blockchain Technology Is On the Agenda of the Upcoming G20 Summit
     </div>
     <a href="https://www.deepdotweb.com/tag/agenda/" rel="tag">agenda</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/g20/" rel="tag">g20</a> <a href="https://www.deepdotweb.com/tag/summit/" rel="tag">summit</a> <a href="https://www.deepdotweb.com/tag/technology/" rel="tag">technology</a> <a href="https://www.deepdotweb.com/tag/upcoming/" rel="tag">upcoming</a></span> <span style="display:none" class="updated">2017-04-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

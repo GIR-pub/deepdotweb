@@ -23,6 +23,4 @@ Canada To Push For Marijuana Legalization In 2017
     </div>
     <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/canada/" rel="tag">canada</a> <a href="https://www.deepdotweb.com/tag/legalization/" rel="tag">legalization</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/push/" rel="tag">push</a></span> <span style="display:none" class="updated">2016-04-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

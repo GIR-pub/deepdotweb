@@ -22,6 +22,4 @@ Teenager Spends $18K on Marijuana from Darknet Markets, Gets Sentenced to Commun
     </div>
     <a href="https://www.deepdotweb.com/tag/18k/" rel="tag">18k</a> <a href="https://www.deepdotweb.com/tag/community/" rel="tag">community</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/spends/" rel="tag">spends</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a></span> <span style="display:none" class="updated">2017-02-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Report Says Firearm Smuggling To The United Kingdom Is Growing
     </div>
     <a href="https://www.deepdotweb.com/tag/firearm/" rel="tag">firearm</a> <a href="https://www.deepdotweb.com/tag/growing/" rel="tag">growing</a> <a href="https://www.deepdotweb.com/tag/kingdom/" rel="tag">kingdom</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/smuggling/" rel="tag">smuggling</a> <a href="https://www.deepdotweb.com/tag/united/" rel="tag">united</a></span> <span style="display:none" class="updated">2016-02-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -55,6 +55,4 @@ Cashing Out &#8211; What is Your Strategy?
     </div>
     <a href="https://www.deepdotweb.com/tag/cashing/" rel="tag">cashing</a> <a href="https://www.deepdotweb.com/tag/strategy/" rel="tag">strategy</a></span> <span style="display:none" class="updated">2015-12-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/archer/" title="Posts by Archer" rel="author">Archer</a></strong></div>
-    </div>
-</article>
-
+    

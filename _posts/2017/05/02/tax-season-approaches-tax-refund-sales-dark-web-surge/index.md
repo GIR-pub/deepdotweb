@@ -26,6 +26,4 @@ As Tax Season Approaches, Tax Refund Sales on Dark Web Surge
     </div>
     <a href="https://www.deepdotweb.com/tag/approaches/" rel="tag">approaches</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/refund/" rel="tag">refund</a> <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> <a href="https://www.deepdotweb.com/tag/season/" rel="tag">season</a> <a href="https://www.deepdotweb.com/tag/surge/" rel="tag">surge</a> <a href="https://www.deepdotweb.com/tag/tax/" rel="tag">tax</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

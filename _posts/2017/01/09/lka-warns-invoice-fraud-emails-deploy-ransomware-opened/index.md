@@ -22,6 +22,4 @@ LKA Warns Of “Invoice Fraud” Emails That Deploy Ransomware When Opened
     </div>
     <a href="https://www.deepdotweb.com/tag/deploy/" rel="tag">deploy</a> <a href="https://www.deepdotweb.com/tag/emails/" rel="tag">emails</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/invoice/" rel="tag">invoice</a> <a href="https://www.deepdotweb.com/tag/lka/" rel="tag">lka</a> <a href="https://www.deepdotweb.com/tag/opened/" rel="tag">opened</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/warns/" rel="tag">warns</a></span> <span style="display:none" class="updated">2017-01-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

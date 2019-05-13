@@ -31,6 +31,4 @@ Designing Trust &#8211; Weighing The Utility of Smart Contracts Against The Risk
     </div>
     <a href="https://www.deepdotweb.com/tag/contracts/" rel="tag">contracts</a> <a href="https://www.deepdotweb.com/tag/decentralization/" rel="tag">decentralization</a> <a href="https://www.deepdotweb.com/tag/designing/" rel="tag">designing</a> <a href="https://www.deepdotweb.com/tag/risk/" rel="tag">risk</a> <a href="https://www.deepdotweb.com/tag/smart/" rel="tag">smart</a> <a href="https://www.deepdotweb.com/tag/trust/" rel="tag">trust</a> <a href="https://www.deepdotweb.com/tag/utility/" rel="tag">utility</a> <a href="https://www.deepdotweb.com/tag/weighing/" rel="tag">weighing</a></span> <span style="display:none" class="updated">2017-01-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

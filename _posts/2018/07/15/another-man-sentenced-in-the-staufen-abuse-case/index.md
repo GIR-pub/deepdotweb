@@ -19,6 +19,4 @@ Another Man Sentenced in the Staufen Abuse Case
 <p>The <a href="https://www.deepdotweb.com/2018/05/31/soldier-jailed-after-filming-himself-rape-child-on-the-darknet/">other convicted defendants</a> received similar prison sentences and similar fines. The 48-year-old mother and her 39-year-old partner have not yet been sentenced. The 39-year-old partner has been helping the police identify and arrest suspected child abusers.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/staufen/" rel="tag">staufen</a></span> <span style="display:none" class="updated">2018-07-15<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

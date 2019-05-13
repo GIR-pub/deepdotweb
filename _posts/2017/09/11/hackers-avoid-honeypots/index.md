@@ -54,6 +54,4 @@ tag-avoid tag-hackers tag-honeypots">
     </div>
     <a href="https://www.deepdotweb.com/tag/avoid/" rel="tag">avoid</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/honeypots/" rel="tag">honeypots</a></span> <span style="display:none" class="updated">2017-09-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
-    </div>
-</article>
-
+    

@@ -85,6 +85,4 @@ tag-basic tag-guide tag-pgp tag-tails">
 <p>Congratulations, you can now use PGP properly to send and receive encrypted messages!</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/basic/" rel="tag">basic</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span> <span style="display:none" class="updated">2017-10-22<a href="https://www.deepdotweb.com/author/iris/" title="Posts by Iris" rel="author">Iris</a></strong></div>
-</div>
-</article>
 

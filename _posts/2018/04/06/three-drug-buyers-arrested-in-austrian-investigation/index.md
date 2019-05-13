@@ -17,6 +17,4 @@ Three Drug Buyers Arrested in Austrian Investigation
 <p>During the course of the investigation, the police discovered additional packages of amphetamine that had originated in Germany. They also discovered that the 22-year-old had made routine trips to the Czech Republic to smuggle large quantities of various illegal substances back to Austria. The investigation into the young suspect led police to the discovery of roughly 50 drug users that had bought drugs from the 22-year-old suspect or the primary 28-year-old suspect. The investigation into the additional suspects is underway.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/buyers/" rel="tag">buyers</a>  <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a></span> <span style="display:none" class="updated">2018-04-06<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

@@ -30,6 +30,4 @@ tag-evolution tag-modular tag-stacking">
 <p>3. Serve as a risk-free sandbox for future experiments that can be later implemented on wider scales.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/modular/" rel="tag">modular</a> <a href="https://www.deepdotweb.com/tag/stacking/" rel="tag">stacking</a></span> <span style="display:none" class="updated">2017-03-16<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

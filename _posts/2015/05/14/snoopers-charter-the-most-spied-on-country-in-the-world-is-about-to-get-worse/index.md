@@ -21,6 +21,4 @@ Snoopers&#8217; Charter: the Most Spied on Country in the World Is About to Get 
     </div>
     <a href="https://www.deepdotweb.com/tag/charter/" rel="tag">charter</a> <a href="https://www.deepdotweb.com/tag/country/" rel="tag">country</a> <a href="https://www.deepdotweb.com/tag/snoopers/" rel="tag">snoopers</a> <a href="https://www.deepdotweb.com/tag/spied/" rel="tag">spied</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a> <a href="https://www.deepdotweb.com/tag/worse/" rel="tag">worse</a></span> <span style="display:none" class="updated">2015-05-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/politech/" title="Posts by Politech" rel="author">Politech</a></strong></div>
-    </div>
-</article>
-
+    

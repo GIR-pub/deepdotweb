@@ -27,6 +27,4 @@ People Commit Suicide in India Amid Shortage of Cash, Demand of Bitcoin Goes up
     </div>
     <span style="display:none" class="updated">2017-01-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

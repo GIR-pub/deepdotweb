@@ -21,6 +21,4 @@ Russian is Collecting Encryption Keys as “Anti-Terrorism” Legislation Goes i
     </div>
     <a href="https://www.deepdotweb.com/tag/antiterrorism/" rel="tag">antiterrorism</a> <a href="https://www.deepdotweb.com/tag/collecting/" rel="tag">collecting</a> <a href="https://www.deepdotweb.com/tag/effect/" rel="tag">effect</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/keys/" rel="tag">keys</a> <a href="https://www.deepdotweb.com/tag/legislation/" rel="tag">legislation</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a></span> <span style="display:none" class="updated">2016-08-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -30,6 +30,4 @@ Ransomeware Hackers Launch Global Assault
     </div>
     <a href="https://www.deepdotweb.com/tag/assault/" rel="tag">assault</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a>  <a href="https://www.deepdotweb.com/tag/ransomeware/" rel="tag">ransomeware</a></span> <span style="display:none" class="updated">2017-05-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dhume/" title="Posts by D. Hume" rel="author">D. Hume</a></strong></div>
-    </div>
-</article>
-
+    

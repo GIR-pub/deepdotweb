@@ -20,6 +20,4 @@ Gladstone Man Facing Jail For Possessing Ice
     </div>
     <a href="https://www.deepdotweb.com/tag/facing/" rel="tag">facing</a> <a href="https://www.deepdotweb.com/tag/gladstone/" rel="tag">gladstone</a> <a href="https://www.deepdotweb.com/tag/ice/" rel="tag">ice</a> <a href="https://www.deepdotweb.com/tag/jail/" rel="tag">jail</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/possessing/" rel="tag">possessing</a></span> <span style="display:none" class="updated">2016-02-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

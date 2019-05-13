@@ -23,6 +23,4 @@ Flomarket: Aaaan&#8217;d its gone! (With your BTC)
     </div>
     <a href="https://www.deepdotweb.com/tag/aaaand/" rel="tag">aaaand</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/flomarket/" rel="tag">flomarket</a></span> <span style="display:none" class="updated">2014-01-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

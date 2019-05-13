@@ -19,6 +19,4 @@ Nationwide Raid On Vendor Chemical Love’s Customers In Germany
     </div>
     <a href="https://www.deepdotweb.com/tag/chemical/" rel="tag">chemical</a> <a href="https://www.deepdotweb.com/tag/customers/" rel="tag">customers</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/loves/" rel="tag">loves</a> <a href="https://www.deepdotweb.com/tag/nationwide/" rel="tag">nationwide</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-09-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

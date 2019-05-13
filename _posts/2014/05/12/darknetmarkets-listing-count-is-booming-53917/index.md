@@ -55,6 +55,4 @@ DarkNetMarkets Listing Count *IS* Booming: 53,917 Listings!
     </div>
     <a href="https://www.deepdotweb.com/tag/53917/" rel="tag">53917</a> <a href="https://www.deepdotweb.com/tag/booming/" rel="tag">booming</a> <a href="https://www.deepdotweb.com/tag/count/" rel="tag">count</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/listing/" rel="tag">listing</a> <a href="https://www.deepdotweb.com/tag/listings/" rel="tag">listings</a></span> <span style="display:none" class="updated">2014-05-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

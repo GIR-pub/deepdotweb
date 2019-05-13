@@ -25,6 +25,4 @@ Majority of Web Users Not Willing to Trade Privacy For Discounts &#038; Benefits
 <p>“If we use a broader definition of a belief in tradeoffs— the average value of all three statements—even then only 21% of the respondents accept the idea. Yet, when we present a real-life tradeoff case— asking Americans whether they would take discounts in exchange for allowing their supermarket to collect information about their grocery purchases —43%, or more than twice as many as in the broader definition of tradeoff supporters, say yes to tradeoffs.”</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/benefits/" rel="tag">benefits</a> <a href="https://www.deepdotweb.com/tag/discounts/" rel="tag">discounts</a> <a href="https://www.deepdotweb.com/tag/majority/" rel="tag">majority</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-03-28<a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-</div>
-</article>
 

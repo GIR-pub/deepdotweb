@@ -22,6 +22,4 @@ Trio That Sold Drugs Worth Over $17M Through the Dark Web Busted
     </div>
     <a href="https://www.deepdotweb.com/tag/17m/" rel="tag">17m</a>  <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/trio/" rel="tag">trio</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/worth/" rel="tag">worth</a></span> <span style="display:none" class="updated">2019-03-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/cashcard/" title="Posts by CashCard" rel="author">CashCard</a></strong></div>
-    </div>
-</article>
-
+    

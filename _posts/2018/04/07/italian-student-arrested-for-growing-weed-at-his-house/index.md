@@ -18,6 +18,4 @@ Italian Student Arrested for Growing Weed at His House
 <p>Investigators are actively studying the suspect&#8217;s operation. The marijuana is also being subjected to quality and potency tests. In the meantime, the prosecutor ordered a temporary incarceration for the suspect. He will remain in custody until his court appearance.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/growing/" rel="tag">growing</a> <a href="https://www.deepdotweb.com/tag/house/" rel="tag">house</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/weed/" rel="tag">weed</a></span> <span style="display:none" class="updated">2018-04-07<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

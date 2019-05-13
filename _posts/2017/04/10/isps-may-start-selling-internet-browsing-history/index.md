@@ -25,6 +25,4 @@ ISPs May Start Selling Internet Browsing History
     </div>
     <a href="https://www.deepdotweb.com/tag/browsing/" rel="tag">browsing</a> <a href="https://www.deepdotweb.com/tag/history/" rel="tag">history</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/isps/" rel="tag">isps</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a></span> <span style="display:none" class="updated">2017-04-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

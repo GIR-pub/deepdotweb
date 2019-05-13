@@ -26,6 +26,4 @@ Dr. D&#8217;s Market Promotion Challenge: DR. D pays you CASH!
     </div>
     <a href="https://www.deepdotweb.com/tag/cash/" rel="tag">cash</a> <a href="https://www.deepdotweb.com/tag/challenge/" rel="tag">challenge</a> <a href="https://www.deepdotweb.com/tag/dr/" rel="tag">dr</a> <a href="https://www.deepdotweb.com/tag/ds/" rel="tag">ds</a> <a href="https://www.deepdotweb.com/tag/pays/" rel="tag">pays</a> <a href="https://www.deepdotweb.com/tag/promotion/" rel="tag">promotion</a></span> <span style="display:none" class="updated">2015-12-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -31,6 +31,4 @@ Study: Estimating hidden service traffic from DNS leaks
     </div>
     <a href="https://www.deepdotweb.com/tag/dns/" rel="tag">dns</a> <a href="https://www.deepdotweb.com/tag/estimating/" rel="tag">estimating</a>  <a href="https://www.deepdotweb.com/tag/leaks/" rel="tag">leaks</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> <span style="display:none" class="updated">2014-06-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

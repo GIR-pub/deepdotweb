@@ -19,6 +19,4 @@ Hackers Claim To Sell The World-Check Database On Dark Web
     </div>
     <a href="https://www.deepdotweb.com/tag/claim/" rel="tag">claim</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/database/" rel="tag">database</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/sell/" rel="tag">sell</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/worldcheck/" rel="tag">worldcheck</a></span> <span style="display:none" class="updated">2016-07-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

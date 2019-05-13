@@ -26,6 +26,4 @@ Europe-wide Raids In Three Countries Taking Down Cybercrime Network
 <p>Since there were numerous arrests in the law enforcement operation, further news about the investigations and criminal proceedings will be expected in the near future.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/countries/" rel="tag">countries</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/europewide/" rel="tag">europewide</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/raids/" rel="tag">raids</a></span> <span style="display:none" class="updated">2017-03-25<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

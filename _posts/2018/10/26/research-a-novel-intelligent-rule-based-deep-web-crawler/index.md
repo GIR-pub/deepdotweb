@@ -25,6 +25,4 @@ tag-crawler tag-deep tag-intelligent tag-research tag-rulebased tag-web">
 <p>Coverage is another metric that has been used to measure the new crawler&#8217;s performance. Coverage refers to the ratio between the number of crawled webpages and the total number of webpages present in the database of the website. The coverage rate of the new crawler was 90% of that of other search engine systems.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/crawler/" rel="tag">crawler</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/intelligent/" rel="tag">intelligent</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/rulebased/" rel="tag">rulebased</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-10-26<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

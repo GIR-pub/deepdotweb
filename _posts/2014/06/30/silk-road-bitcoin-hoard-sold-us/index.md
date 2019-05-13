@@ -31,6 +31,4 @@ Silk Road Bitcoin hoard sold in US!
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/hoard/" rel="tag">hoard</a>  <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span> <span style="display:none" class="updated">2014-06-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

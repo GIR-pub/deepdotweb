@@ -17,6 +17,4 @@ Watch: Pills Being Pressed To Be Sold On The Dark Web
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a> <a href="https://www.deepdotweb.com/tag/pressed/" rel="tag">pressed</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/watch/" rel="tag">watch</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-06-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

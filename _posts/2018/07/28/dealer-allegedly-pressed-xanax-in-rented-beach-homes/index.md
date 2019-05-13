@@ -19,6 +19,4 @@ Dealer Allegedly Pressed Xanax in Rented Beach Homes
 <p>The authorities believe that Hughes has been somewhat cooperative with investigators. However, they think that he has been hiding more bitcoin in wallets investigators have not discovered. Cobia admittedly hid some Bitcoin in internet gambling website wallets. He also gave his family hundreds of thousands of dollars in both cash and cryptocurrency. At the end of the hearing, U.S. Magistrate Judge Paige Gossett denied bail for all three suspected drug dealers. They all face charges of drug distribution and endangering lives through drug distribution.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/allegedly/" rel="tag">allegedly</a> <a href="https://www.deepdotweb.com/tag/beach/" rel="tag">beach</a>  <a href="https://www.deepdotweb.com/tag/homes/" rel="tag">homes</a> <a href="https://www.deepdotweb.com/tag/pressed/" rel="tag">pressed</a> <a href="https://www.deepdotweb.com/tag/rented/" rel="tag">rented</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2018-07-28<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

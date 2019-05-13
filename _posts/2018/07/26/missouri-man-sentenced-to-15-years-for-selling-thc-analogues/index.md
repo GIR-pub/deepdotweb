@@ -19,6 +19,4 @@ Missouri Man Sentenced to 15 Years for Selling THC Analogues
 <p>Wolfe was sentenced to 186 months in prison. He pleaded guilty to conspiracy drug trafficking and money laundering last year.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/15/" rel="tag">15</a> <a href="https://www.deepdotweb.com/tag/analogues/" rel="tag">analogues</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/missouri/" rel="tag">missouri</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/thc/" rel="tag">thc</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-07-26<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

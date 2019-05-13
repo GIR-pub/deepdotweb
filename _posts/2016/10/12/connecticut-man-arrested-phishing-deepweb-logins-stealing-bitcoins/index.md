@@ -35,6 +35,4 @@ Connecticut Man Arrested For Phishing Deepweb Logins And Stealing Bitcoins
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/connecticut/" rel="tag">connecticut</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/logins/" rel="tag">logins</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/phishing/" rel="tag">phishing</a> <a href="https://www.deepdotweb.com/tag/stealing/" rel="tag">stealing</a></span> <span style="display:none" class="updated">2016-10-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

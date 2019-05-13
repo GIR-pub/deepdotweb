@@ -26,6 +26,4 @@ SPECTER : A New Scalable and Fast Cryptocurrency Protocol
     </div>
     <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/fast/" rel="tag">fast</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a> <a href="https://www.deepdotweb.com/tag/scalable/" rel="tag">scalable</a> <a href="https://www.deepdotweb.com/tag/specter/" rel="tag">specter</a></span> <span style="display:none" class="updated">2017-01-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

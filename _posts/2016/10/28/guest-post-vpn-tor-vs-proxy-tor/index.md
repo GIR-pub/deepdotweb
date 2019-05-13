@@ -40,6 +40,4 @@ Guest Post: VPN Tor vs Proxy Tor
     </div>
     <a href="https://www.deepdotweb.com/tag/guest/" rel="tag">guest</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="https://www.deepdotweb.com/tag/proxy/" rel="tag">proxy</a>  <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-10-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

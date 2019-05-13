@@ -23,6 +23,4 @@ Australian Border Force to Increase Darknet Presence
     </div>
     <a href="https://www.deepdotweb.com/tag/australian/" rel="tag">australian</a> <a href="https://www.deepdotweb.com/tag/border/" rel="tag">border</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/presence/" rel="tag">presence</a></span> <span style="display:none" class="updated">2017-04-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

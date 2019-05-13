@@ -26,6 +26,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/20yearold/" rel="tag">20yearold</a> <a href="https://www.deepdotweb.com/tag/counterfeiting/" rel="tag">counterfeiting</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/key/" rel="tag">key</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/role/" rel="tag">role</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/uganda/" rel="tag">uganda</a></span> <span style="display:none" class="updated">2016-11-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

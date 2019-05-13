@@ -29,6 +29,4 @@ Companies Required to Give Customer Data to Authorities in China’s New Cyberse
     </div>
     <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/chinas/" rel="tag">chinas</a> <a href="https://www.deepdotweb.com/tag/companies/" rel="tag">companies</a> <a href="https://www.deepdotweb.com/tag/customer/" rel="tag">customer</a> <a href="https://www.deepdotweb.com/tag/cybersecurity/" rel="tag">cybersecurity</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/give/" rel="tag">give</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/required/" rel="tag">required</a></span> <span style="display:none" class="updated">2016-11-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

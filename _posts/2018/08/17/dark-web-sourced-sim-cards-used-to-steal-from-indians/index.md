@@ -21,6 +21,4 @@ Dark Web Sourced Sim Cards Used to Steal from Indians
 <p>Cybercrime is such a huge menace to Indian authorities that they <a href="https://www.deepdotweb.com/2018/07/01/india-government-to-hire-nerds-as-policemen-in-fight-against-cybercriminals/">hired nerds as cybercops</a>. The nerds are expected to help uncover the faces behind dark web fraudsters, drug traffickers, human traffickers and pedophiles. The nerds who will work as undercover agents in the dark web markets and forums are to use their knowledge and skills to succeed where Indian authorities, has failed terribly.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/cards/" rel="tag">cards</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/indians/" rel="tag">indians</a> <a href="https://www.deepdotweb.com/tag/sim/" rel="tag">sim</a> <a href="https://www.deepdotweb.com/tag/sourced/" rel="tag">sourced</a> <a href="https://www.deepdotweb.com/tag/steal/" rel="tag">steal</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-08-17<a href="https://www.deepdotweb.com/author/cashcard/" title="Posts by CashCard" rel="author">CashCard</a></strong></div>
-</div>
-</article>
 

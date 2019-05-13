@@ -22,6 +22,4 @@ Cheltenham Studen Jailed For Importing Cocaine From Costa Rica
     </div>
     <a href="https://www.deepdotweb.com/tag/cheltenham/" rel="tag">cheltenham</a> <a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/costa/" rel="tag">costa</a> <a href="https://www.deepdotweb.com/tag/importing/" rel="tag">importing</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/rica/" rel="tag">rica</a> <a href="https://www.deepdotweb.com/tag/studen/" rel="tag">studen</a></span> <span style="display:none" class="updated">2016-01-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

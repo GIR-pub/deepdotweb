@@ -27,6 +27,4 @@ Why CSRF Is Not The Same As XSS
     </div>
     <a href="https://www.deepdotweb.com/tag/csrf/" rel="tag">csrf</a> <a href="https://www.deepdotweb.com/tag/xss/" rel="tag">xss</a></span> <span style="display:none" class="updated">2016-06-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/vb/" title="Posts by V.B" rel="author">V.B</a></strong></div>
-    </div>
-</article>
-
+    

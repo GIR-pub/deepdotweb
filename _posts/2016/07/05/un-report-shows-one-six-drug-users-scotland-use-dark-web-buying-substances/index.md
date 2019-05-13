@@ -18,6 +18,4 @@ UN Report Shows One In Six Drug Users In Scotland Use The Dark Web For Buying Th
     </div>
     <a href="https://www.deepdotweb.com/tag/buying/" rel="tag">buying</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/scotland/" rel="tag">scotland</a> <a href="https://www.deepdotweb.com/tag/shows/" rel="tag">shows</a> <a href="https://www.deepdotweb.com/tag/substances/" rel="tag">substances</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-07-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

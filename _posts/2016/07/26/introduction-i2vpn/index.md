@@ -35,6 +35,4 @@ Introduction: I2VPN
     </div>
     <a href="https://www.deepdotweb.com/tag/i2vpn/" rel="tag">i2vpn</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a></span> <span style="display:none" class="updated">2016-07-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -33,6 +33,4 @@ SEROCU Arrests Three Darknet Dealers in Buckingham
     </div>
     <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/buckingham/" rel="tag">buckingham</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/serocu/" rel="tag">serocu</a></span> <span style="display:none" class="updated">2017-07-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

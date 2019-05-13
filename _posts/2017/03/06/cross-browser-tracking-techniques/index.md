@@ -32,6 +32,4 @@ Cross Browser Tracking Techniques
 <p>If you want to know exactly what tasks are used to get these information, or how to compose a fingerprint out of gathered information, check out the <a href="http://yinzhicao.org/TrackingFree/crossbrowsertracking_NDSS17.pdf">original paper</a>.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/cross/" rel="tag">cross</a> <a href="https://www.deepdotweb.com/tag/techniques/" rel="tag">techniques</a> <a href="https://www.deepdotweb.com/tag/tracking/" rel="tag">tracking</a></span> <span style="display:none" class="updated">2017-03-06<a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
-</div>
-</article>
 

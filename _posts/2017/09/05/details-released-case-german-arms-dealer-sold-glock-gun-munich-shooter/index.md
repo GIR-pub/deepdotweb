@@ -26,6 +26,4 @@ Details Released In The Case Of The German Arms Dealer Who Sold A Glock Gun To T
     </div>
     <a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a>  <a href="https://www.deepdotweb.com/tag/details/" rel="tag">details</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/glock/" rel="tag">glock</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/munich/" rel="tag">munich</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="https://www.deepdotweb.com/tag/shooter/" rel="tag">shooter</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span> <span style="display:none" class="updated">2017-09-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

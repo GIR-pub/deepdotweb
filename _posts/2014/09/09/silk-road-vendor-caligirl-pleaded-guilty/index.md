@@ -32,6 +32,4 @@ Silk Road Vendor Caligirl Pleaded Guilty
     </div>
     <a href="https://www.deepdotweb.com/tag/caligirl/" rel="tag">caligirl</a>  <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-09-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

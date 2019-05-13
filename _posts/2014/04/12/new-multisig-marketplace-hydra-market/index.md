@@ -44,6 +44,4 @@ New Multisig Marketplace: Hydra market
     </div>
     <a href="https://www.deepdotweb.com/tag/hydra/" rel="tag">hydra</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/multisig/" rel="tag">multisig</a></span> <span style="display:none" class="updated">2014-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

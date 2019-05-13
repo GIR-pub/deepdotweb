@@ -23,6 +23,4 @@ Translation: &#8220;Hunt Underway on Drug Crew operating on the Darknet&#8221;
     </div>
     <a href="https://www.deepdotweb.com/tag/crew/" rel="tag">crew</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/hunt/" rel="tag">hunt</a> <a href="https://www.deepdotweb.com/tag/operating/" rel="tag">operating</a> <a href="https://www.deepdotweb.com/tag/translation/" rel="tag">translation</a> <a href="https://www.deepdotweb.com/tag/underway/" rel="tag">underway</a></span> <span style="display:none" class="updated">2015-05-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

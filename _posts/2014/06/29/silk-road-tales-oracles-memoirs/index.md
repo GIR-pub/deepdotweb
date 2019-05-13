@@ -121,6 +121,4 @@ Silk Road Tales: Oracle&#8217;s Memoirs
     </div>
     <a href="https://www.deepdotweb.com/tag/memoirs/" rel="tag">memoirs</a> <a href="https://www.deepdotweb.com/tag/oracle/" rel="tag">oracle</a></span> <span style="display:none" class="updated">2014-06-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

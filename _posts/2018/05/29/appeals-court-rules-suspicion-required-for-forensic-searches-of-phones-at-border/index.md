@@ -19,6 +19,4 @@ Appeals Court Rules Suspicion Required for Forensic Searches of Phones at Border
 <p>&nbsp;</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/appeals/" rel="tag">appeals</a> <a href="https://www.deepdotweb.com/tag/border/" rel="tag">border</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/forensic/" rel="tag">forensic</a> <a href="https://www.deepdotweb.com/tag/phones/" rel="tag">phones</a> <a href="https://www.deepdotweb.com/tag/required/" rel="tag">required</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a> <a href="https://www.deepdotweb.com/tag/searches/" rel="tag">searches</a> <a href="https://www.deepdotweb.com/tag/suspicion/" rel="tag">suspicion</a></span> <span style="display:none" class="updated">2018-05-29<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-</div>
-</article>
 

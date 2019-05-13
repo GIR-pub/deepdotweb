@@ -20,6 +20,4 @@ US, France, and Russia Bid for the Extradition of Bitcoin Fraud Suspect
 <p>Having denied Vinnik asylum, Greece has no option but to decide where to send him immediately.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bid/" rel="tag">bid</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/france/" rel="tag">france</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a></span> <span style="display:none" class="updated">2018-07-24<a href="https://www.deepdotweb.com/author/cashcard/" title="Posts by CashCard" rel="author">CashCard</a></strong></div>
-</div>
-</article>
 

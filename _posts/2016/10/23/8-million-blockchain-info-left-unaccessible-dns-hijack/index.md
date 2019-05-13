@@ -26,6 +26,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchaininfo/" rel="tag">blockchaininfo</a> <a href="https://www.deepdotweb.com/tag/dns/" rel="tag">dns</a> <a href="https://www.deepdotweb.com/tag/hijack/" rel="tag">hijack</a> <a href="https://www.deepdotweb.com/tag/left/" rel="tag">left</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/unaccessible/" rel="tag">unaccessible</a></span> <span style="display:none" class="updated">2016-10-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

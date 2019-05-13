@@ -25,6 +25,4 @@ Austrian Darknet Vendor Arrested With Sensitive Information From 350 Customers
     </div>
     <a href="https://www.deepdotweb.com/tag/350/" rel="tag">350</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/customers/" rel="tag">customers</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/sensitive/" rel="tag">sensitive</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-11-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

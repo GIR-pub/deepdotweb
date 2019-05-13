@@ -21,6 +21,4 @@ Senate Bill Asks For Ways to Stop Bad People From Using Tor
     </div>
     <a href="https://www.deepdotweb.com/tag/asks/" rel="tag">asks</a> <a href="https://www.deepdotweb.com/tag/bad/" rel="tag">bad</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/funding/" rel="tag">funding</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a> <a href="https://www.deepdotweb.com/tag/stop/" rel="tag">stop</a>  <a href="https://www.deepdotweb.com/tag/ways/" rel="tag">ways</a></span> <span style="display:none" class="updated">2016-07-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

@@ -28,6 +28,4 @@ How Slur.io Sees the Future of Whistleblowing?
     </div>
     <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/sees/" rel="tag">sees</a> <a href="https://www.deepdotweb.com/tag/slurio/" rel="tag">slurio</a> <a href="https://www.deepdotweb.com/tag/whistleblowing/" rel="tag">whistleblowing</a></span> <span style="display:none" class="updated">2015-07-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/politech/" title="Posts by Politech" rel="author">Politech</a></strong></div>
-    </div>
-</article>
-
+    

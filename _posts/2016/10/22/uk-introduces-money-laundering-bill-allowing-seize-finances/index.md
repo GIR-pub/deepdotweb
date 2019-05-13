@@ -26,6 +26,4 @@ UK Introduces a Money Laundering Bill Allowing Them to Seize Finances
     </div>
     <a href="https://www.deepdotweb.com/tag/allowing/" rel="tag">allowing</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/finances/" rel="tag">finances</a> <a href="https://www.deepdotweb.com/tag/introduces/" rel="tag">introduces</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/seize/" rel="tag">seize</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span> <span style="display:none" class="updated">2016-10-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

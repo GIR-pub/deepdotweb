@@ -70,6 +70,4 @@ How to earn interest on your Bitcoin &#8211; P2P Lending with BTCJam
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/btcjam/" rel="tag">btcjam</a> <a href="https://www.deepdotweb.com/tag/earn/" rel="tag">earn</a> <a href="https://www.deepdotweb.com/tag/interest/" rel="tag">interest</a> <a href="https://www.deepdotweb.com/tag/lending/" rel="tag">lending</a> <a href="https://www.deepdotweb.com/tag/p2p/" rel="tag">p2p</a></span> <span style="display:none" class="updated">2016-12-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

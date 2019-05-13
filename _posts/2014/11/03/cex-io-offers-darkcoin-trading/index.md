@@ -17,6 +17,4 @@ CEX.IO Offers Darkcoin Trading
     </div>
     <a href="https://www.deepdotweb.com/tag/cexio/" rel="tag">cexio</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/offers/" rel="tag">offers</a> <a href="https://www.deepdotweb.com/tag/trading/" rel="tag">trading</a></span> <span style="display:none" class="updated">2014-11-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Dark Web Increased E-commerce Fraud by 30 Percent, Report Finds
 <p>“Except for its lower amounts of online transaction activities, Venezuela would have topped the charts of the countries with the highest risk in online shopping,” Matt Tatham a data analyst attached to Experian said.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/ecommerce/" rel="tag">ecommerce</a> <a href="https://www.deepdotweb.com/tag/finds/" rel="tag">finds</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a> <a href="https://www.deepdotweb.com/tag/percent/" rel="tag">percent</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-05-03<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

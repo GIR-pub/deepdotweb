@@ -18,6 +18,4 @@ Austrian Dealers Admit Ordering Amphetamine on the Darknet
 <p>According to the most recent releases, the two primary suspects—the brothers—have admitted to purchasing drugs on the darknet and redistributing them to dealers in Salzburg. They admitted reselling only <a href="https://www.deepdotweb.com/tag/amphetamine/">two and a half kilograms of amphetamine</a>. For now, at least, the amphetamine is the sole focus of the investigators and the Public Prosecutor&#8217;s Office. The investigation is ongoing and the dealers have complied with investigators. We do not know if their compliance will be rewarded.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admit/" rel="tag">admit</a> <a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a> <a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a></span> <span style="display:none" class="updated">2018-07-25<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

@@ -20,6 +20,4 @@ German Police to Start Focusing on Darknet Crimes After Munich Shooting
     </div>
     <a href="https://www.deepdotweb.com/tag/crimes/" rel="tag">crimes</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/focusing/" rel="tag">focusing</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/munich/" rel="tag">munich</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/shooting/" rel="tag">shooting</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a></span> <span style="display:none" class="updated">2016-07-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Dark Web Euro Counterfeiter Duo Standing Trial In Germany
     </div>
     <a href="https://www.deepdotweb.com/tag/counterfeiter/" rel="tag">counterfeiter</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/duo/" rel="tag">duo</a> <a href="https://www.deepdotweb.com/tag/euro/" rel="tag">euro</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/standing/" rel="tag">standing</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

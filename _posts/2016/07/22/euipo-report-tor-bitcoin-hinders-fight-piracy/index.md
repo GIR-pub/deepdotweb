@@ -25,6 +25,4 @@ EUIPO Report: Tor and Bitcoin Hinders the Fight Against Piracy
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/euipo/" rel="tag">euipo</a> <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/hinders/" rel="tag">hinders</a> <a href="https://www.deepdotweb.com/tag/piracy/" rel="tag">piracy</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> </span> <span style="display:none" class="updated">2016-07-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -25,6 +25,4 @@ British Festival Dealer Who Sold Drugs To Pay For Medical Treatment Jailed
     </div>
     <a href="https://www.deepdotweb.com/tag/british/" rel="tag">british</a>   <a href="https://www.deepdotweb.com/tag/festival/" rel="tag">festival</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/medical/" rel="tag">medical</a> <a href="https://www.deepdotweb.com/tag/pay/" rel="tag">pay</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/treatment/" rel="tag">treatment</a></span> <span style="display:none" class="updated">2017-05-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

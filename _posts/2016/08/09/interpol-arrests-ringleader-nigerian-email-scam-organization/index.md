@@ -23,6 +23,4 @@ Interpol Arrests Ringleader of Nigerian Email Scam Organization
     </div>
     <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/interpol/" rel="tag">interpol</a> <a href="https://www.deepdotweb.com/tag/nigerian/" rel="tag">nigerian</a> <a href="https://www.deepdotweb.com/tag/organization/" rel="tag">organization</a> <a href="https://www.deepdotweb.com/tag/ringleader/" rel="tag">ringleader</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a></span> <span style="display:none" class="updated">2016-08-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

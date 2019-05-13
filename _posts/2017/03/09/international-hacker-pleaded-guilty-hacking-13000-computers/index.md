@@ -24,6 +24,4 @@ International Hacker Pleaded Guilty Hacking 13,000 Computers
 <p>According to the announcement from U.S. Attorney Paul J. Fishman, Vovnenko <a href="https://www.justice.gov/usao-nj/file/814376/download">pleaded guilty to count one and count three</a>; one wire fraud charge and one identity theft charge. The usual US cybercrime agencies were thanked in the press release as well as Italian law enforcement officials.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/13000/" rel="tag">13000</a> <a href="https://www.deepdotweb.com/tag/computers/" rel="tag">computers</a>  <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/international/" rel="tag">international</a> <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a></span> <span style="display:none" class="updated">2017-03-09<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

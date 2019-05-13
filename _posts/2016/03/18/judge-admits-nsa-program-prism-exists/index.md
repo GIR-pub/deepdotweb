@@ -27,6 +27,4 @@ Judge Admits That NSA Program &#8216;PRISM&#8217; Exists
     </div>
     <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/exists/" rel="tag">exists</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/prism/" rel="tag">prism</a> <a href="https://www.deepdotweb.com/tag/program/" rel="tag">program</a></span> <span style="display:none" class="updated">2016-03-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

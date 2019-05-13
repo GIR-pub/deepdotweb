@@ -25,6 +25,4 @@ How to Start Your Own Cybercrime Operation for Fun and Profit
     </div>
     <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/fun/" rel="tag">fun</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/profit/" rel="tag">profit</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a></span> <span style="display:none" class="updated">2016-06-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/sculptor/" title="Posts by sculptor" rel="author">sculptor</a></strong></div>
-    </div>
-</article>
-
+    

@@ -28,6 +28,4 @@ PSNI Officer Tried To Buy Handgun From The Dark Web
     </div>
     <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/handgun/" rel="tag">handgun</a> <a href="https://www.deepdotweb.com/tag/officer/" rel="tag">officer</a> <a href="https://www.deepdotweb.com/tag/psni/" rel="tag">psni</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-11-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

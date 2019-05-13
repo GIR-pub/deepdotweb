@@ -18,6 +18,4 @@ Google to Enable Encrypted DNS Requests in Android
     </div>
     <a href="https://www.deepdotweb.com/tag/android/" rel="tag">android</a> <a href="https://www.deepdotweb.com/tag/dns/" rel="tag">dns</a> <a href="https://www.deepdotweb.com/tag/enable/" rel="tag">enable</a> <a href="https://www.deepdotweb.com/tag/encrypted/" rel="tag">encrypted</a> <a href="https://www.deepdotweb.com/tag/google/" rel="tag">google</a> <a href="https://www.deepdotweb.com/tag/requests/" rel="tag">requests</a></span> <span style="display:none" class="updated">2017-11-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

@@ -21,6 +21,4 @@ Silk Road Vendor &#8220;XTC Express&#8221; Sentenced to 4 &#038; 5 Years In Pris
     </div>
     <a href="https://www.deepdotweb.com/tag/express/" rel="tag">express</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/xtc/" rel="tag">xtc</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2014-05-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

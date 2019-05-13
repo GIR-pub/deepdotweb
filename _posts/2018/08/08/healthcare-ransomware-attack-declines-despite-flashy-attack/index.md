@@ -22,6 +22,4 @@ Healthcare Ransomware Attack Declines despite Flashy Attack
 <p><a id="post-26510-_30j0zll"></a> Skybox Director of Threat Intelligence Marina Kidron believes that the commotion caused by the Wannacry attack last year forced institutions to take proactive measures against cyber-attacks. Most healthcare institutions have backup plans and thwarted attacks with decryption programs. It has been reported also, that the rise in Bitcoin’s value has been one of the reasons for the high record of ransomware cases. With respect to this, it can be concluded that the poor performance and the constant fall in cryptocurrency value has led to the less ransomware attacks in 2018.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/declines/" rel="tag">declines</a> <a href="https://www.deepdotweb.com/tag/flashy/" rel="tag">flashy</a> <a href="https://www.deepdotweb.com/tag/healthcare/" rel="tag">healthcare</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a></span> <span style="display:none" class="updated">2018-08-08<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-</div>
-</article>
 

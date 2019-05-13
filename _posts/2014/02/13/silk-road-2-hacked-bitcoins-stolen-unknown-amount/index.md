@@ -114,6 +114,4 @@ Silk Road 2 Hacked, All Bitcoins Stolen &#8211; $2.7 Miliion
     </div>
     <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a>  <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-02-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

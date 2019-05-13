@@ -29,6 +29,4 @@
 <p>“More persons died from drug overdoses in the United States in 2014 than during any previous year on record. From 2000 to 2014 nearly half a million persons in the United States have died from drug overdoses. In 2014, there were approximately one and a half times more drug overdose deaths in the United States than deaths from motor vehicle crashes.”</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/cdc/" rel="tag">cdc</a>  <a href="https://www.deepdotweb.com/tag/fatalities/" rel="tag">fatalities</a> <a href="https://www.deepdotweb.com/tag/overdose/" rel="tag">overdose</a> <a href="https://www.deepdotweb.com/tag/worst/" rel="tag">worst</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2015-12-25<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

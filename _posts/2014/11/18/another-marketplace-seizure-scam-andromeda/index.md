@@ -49,6 +49,4 @@ Another Marketplace Seizure Or a Scam? (Andromeda)
     </div>
     <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span> <span style="display:none" class="updated">2014-11-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

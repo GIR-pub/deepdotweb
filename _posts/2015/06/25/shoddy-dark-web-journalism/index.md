@@ -30,6 +30,4 @@ TheCthulhu: Shoddy “Dark Web” Journalism
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/journalism/" rel="tag">journalism</a> <a href="https://www.deepdotweb.com/tag/shoddy/" rel="tag">shoddy</a> <a href="https://www.deepdotweb.com/tag/thecthulhu/" rel="tag">thecthulhu</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-06-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

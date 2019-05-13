@@ -21,6 +21,4 @@ Woman Sentenced to Six Years for Hiring a Hitman on the Darknet
 <p>The court sentenced the 58-year-old attempted murderer to spend six years in prison and later be deported from Denmark.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/hiring/" rel="tag">hiring</a> <a href="https://www.deepdotweb.com/tag/hitman/" rel="tag">hitman</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/woman/" rel="tag">woman</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-01-04<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

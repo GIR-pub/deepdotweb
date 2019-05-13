@@ -20,6 +20,4 @@ Tabooless Chat Admin Sentenced to Prison and Therapy
 <p>Many saw how different the man really was in real life vs. the internet during his trial. He denied ever abusing or grooming his daughter. The daughter independently confirmed that her father had never abused her. The man told the court how much of a failure he was at life and that he wanted therapy. The court sentenced him to three and a half years in prison with mandatory counseling and therapy. In Frankfurt, the other member caught by German police is currently sitting in custody and waiting for his own trial.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/chat/" rel="tag">chat</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/tabooless/" rel="tag">tabooless</a> <a href="https://www.deepdotweb.com/tag/therapy/" rel="tag">therapy</a></span> <span style="display:none" class="updated">2018-05-14<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

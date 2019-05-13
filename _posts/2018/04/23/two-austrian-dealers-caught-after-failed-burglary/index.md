@@ -22,6 +22,4 @@ Two Austrian Dealers Caught After Failed Burglary
 <p>Both men are currently in custody facing charges for Substance Abuse Act violations.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/burglary/" rel="tag">burglary</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a></span> <span style="display:none" class="updated">2018-04-23<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

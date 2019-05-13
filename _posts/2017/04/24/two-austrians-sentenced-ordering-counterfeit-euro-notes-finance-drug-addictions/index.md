@@ -21,6 +21,4 @@ Two Austrians Sentenced For Ordering Counterfeit Euro Notes To Finance Their Dru
     </div>
     <a href="https://www.deepdotweb.com/tag/addictions/" rel="tag">addictions</a> <a href="https://www.deepdotweb.com/tag/austrians/" rel="tag">austrians</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a>  <a href="https://www.deepdotweb.com/tag/euro/" rel="tag">euro</a> <a href="https://www.deepdotweb.com/tag/finance/" rel="tag">finance</a> <a href="https://www.deepdotweb.com/tag/notes/" rel="tag">notes</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-04-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

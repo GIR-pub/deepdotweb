@@ -30,6 +30,4 @@ Bitcoin News Round Up May 29 2016
     </div>
     <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/29/" rel="tag">29</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a></span> <span style="display:none" class="updated">2016-05-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/octree/" title="Posts by Octree" rel="author">Octree</a></strong></div>
-    </div>
-</article>
-
+    

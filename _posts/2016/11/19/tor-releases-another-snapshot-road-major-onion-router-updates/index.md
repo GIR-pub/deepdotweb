@@ -21,6 +21,4 @@ Tor Releases another Snapshot on the Road to Major Onion Router Updates
     </div>
     <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/releases/" rel="tag">releases</a>  <a href="https://www.deepdotweb.com/tag/router/" rel="tag">router</a> <a href="https://www.deepdotweb.com/tag/snapshot/" rel="tag">snapshot</a>  <a href="https://www.deepdotweb.com/tag/updates/" rel="tag">updates</a></span> <span style="display:none" class="updated">2016-11-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

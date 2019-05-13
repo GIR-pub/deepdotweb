@@ -19,6 +19,4 @@ Long Road for the Email Privacy Bill as Its Delayed Again
     </div>
     <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/delayed/" rel="tag">delayed</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/long/" rel="tag">long</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> </span> <span style="display:none" class="updated">2016-06-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

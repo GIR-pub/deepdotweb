@@ -37,6 +37,4 @@ An Overview of the Economics of Cryptographic Tokens and Initial Coin Offerings 
     </div>
     <a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a> <a href="https://www.deepdotweb.com/tag/cryptographic/" rel="tag">cryptographic</a> <a href="https://www.deepdotweb.com/tag/economics/" rel="tag">economics</a> <a href="https://www.deepdotweb.com/tag/icos/" rel="tag">icos</a> <a href="https://www.deepdotweb.com/tag/initial/" rel="tag">initial</a> <a href="https://www.deepdotweb.com/tag/offerings/" rel="tag">offerings</a> <a href="https://www.deepdotweb.com/tag/overview/" rel="tag">overview</a> <a href="https://www.deepdotweb.com/tag/tokens/" rel="tag">tokens</a></span> <span style="display:none" class="updated">2017-07-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

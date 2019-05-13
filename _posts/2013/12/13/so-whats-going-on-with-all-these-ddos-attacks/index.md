@@ -1,12 +1,9 @@
 ---
-title: "So Whats going on with all these DDOS Attacks?
+title: "So Whats going on with all these DDOS Attacks?"
 ---
-2518  tag-attacks tag-ddos">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 13, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/12/13/so-whats-going-on-with-all-these-ddos-attacks/#respond">Leave a comment</a></span>
 
 
 <p><strong>Update:  <a href="http://www.deepdotweb.com/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/">Tor market Databse leaked by Dread Pirate Roberts<br/>
@@ -30,7 +27,5 @@ title: "So Whats going on with all these DDOS Attacks?
 <p><a href="/imgs/2013/12/BMR-ddos.jpg"><img class="aligncenter size-full wp-image-2523" alt="BMR-ddos" src="/imgs/2013/12/BMR-ddos.jpg" width="765" height="208" srcset="/imgs/2013/12/BMR-ddos.jpg 1180w, /imgs/2013/12/BMR-ddos-300x82.jpg 300w, /imgs/2013/12/BMR-ddos-1024x279.jpg 1024w" sizes="(max-width: 765px) 100vw, 765px"/></a></p>
 <p>Many questions without any answers at this point, We will be following this,  We would love to hear your opinion if you can shed some light about this story as this attack seems pretty big with suspicious timing and targets, which make us think its a part of the ongoing attempts to provoke distrust among the darknet users toward the different marketplaces &#8211; its hard to tell at this point if the other two markets (Agora and BlueSkies) are unaffected by these recent attacks or that they are just two small so we will know about that.</p>
 <p>One thing for sure is that the problem of one market can make a rather large profit for the other. (ahm ahm&#8230;)</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a>
 
 Updated: 2013-12-13

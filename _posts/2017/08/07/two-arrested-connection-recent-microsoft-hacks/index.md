@@ -20,6 +20,4 @@ Two Arrested in Connection to Recent Microsoft Hacks
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/connection/" rel="tag">connection</a> <a href="https://www.deepdotweb.com/tag/hacks/" rel="tag">hacks</a> <a href="https://www.deepdotweb.com/tag/microsoft/" rel="tag">microsoft</a></span> <span style="display:none" class="updated">2017-08-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

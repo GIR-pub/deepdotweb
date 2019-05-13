@@ -32,6 +32,4 @@ Credentials of Senior Figures in Britain Hacked and Sold On the Darknet by Russi
     </div>
     <a href="https://www.deepdotweb.com/tag/britain/" rel="tag">britain</a> <a href="https://www.deepdotweb.com/tag/credentials/" rel="tag">credentials</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/figures/" rel="tag">figures</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/senior/" rel="tag">senior</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span> <span style="display:none" class="updated">2017-07-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
-    </div>
-</article>
-
+    

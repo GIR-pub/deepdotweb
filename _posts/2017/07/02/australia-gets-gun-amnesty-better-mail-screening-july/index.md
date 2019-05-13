@@ -23,6 +23,4 @@ Australia Gets Gun Amnesty, Better Mail Screening in July
     </div>
     <a href="https://www.deepdotweb.com/tag/amnesty/" rel="tag">amnesty</a> <a href="https://www.deepdotweb.com/tag/australia/" rel="tag">australia</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/mail/" rel="tag">mail</a> <a href="https://www.deepdotweb.com/tag/screening/" rel="tag">screening</a></span> <span style="display:none" class="updated">2017-07-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

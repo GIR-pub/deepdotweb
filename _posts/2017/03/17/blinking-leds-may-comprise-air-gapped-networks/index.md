@@ -21,6 +21,4 @@ Blinking LEDs May Comprise Air-Gapped Networks
 <p>Guri, Zadov, Atias, and Elovici explained that manipulating the hard drive via LED proved quite simple, given the lack of proper API. Malware simply needs to execute code that allows the r+w process to trigger in a way that flashes the LEDs at the high rate. On the other end, the outside entity needs a device capable of picking up these signals. As you can see, the researchers <a href="https://www.youtube.com/watch?v=4vIu8ld68fc">demonstrated the procedure</a> with a camera on a quadcopter. They mentioned GoPro cameras, along with several others, on the PDF papers.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/airgapped/" rel="tag">airgapped</a> <a href="https://www.deepdotweb.com/tag/blinking/" rel="tag">blinking</a> <a href="https://www.deepdotweb.com/tag/comprise/" rel="tag">comprise</a> <a href="https://www.deepdotweb.com/tag/leds/" rel="tag">leds</a> <a href="https://www.deepdotweb.com/tag/networks/" rel="tag">networks</a></span> <span style="display:none" class="updated">2017-03-17<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

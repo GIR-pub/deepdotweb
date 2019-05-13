@@ -23,6 +23,4 @@ German Attorney General: “We Only Catch The Stupid Criminals”
     </div>
     <a href="https://www.deepdotweb.com/tag/attorney/" rel="tag">attorney</a> <a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/general/" rel="tag">general</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/stupid/" rel="tag">stupid</a></span> <span style="display:none" class="updated">2017-05-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

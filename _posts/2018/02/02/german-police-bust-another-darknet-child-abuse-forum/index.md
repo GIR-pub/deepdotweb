@@ -20,6 +20,4 @@ German Police Bust Another Darknet Child Abuse Forum
 <p>The press release stated that this arrest had no connection to an Elysium-related arrest they announced only days before this press release, further decreasing the chances that the Sigmaringen suspect had any involvement in Elysium.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2018-02-02<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

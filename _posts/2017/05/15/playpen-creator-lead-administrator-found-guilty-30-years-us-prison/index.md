@@ -30,6 +30,4 @@ Playpen Creator &#038; Lead Administrator Found Guilty, 30 Years in US Prison
     </div>
     <a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a> <a href="https://www.deepdotweb.com/tag/administrator/" rel="tag">administrator</a> <a href="https://www.deepdotweb.com/tag/creator/" rel="tag">creator</a>  <a href="https://www.deepdotweb.com/tag/lead/" rel="tag">lead</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-05-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

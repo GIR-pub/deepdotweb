@@ -21,6 +21,4 @@ New Zealand Customs Catch Polynesian Drug Dealers
 <p>And the prosecutor got his request: Tapu received a four year prison sentence with two years suspended; Tariu received a three year sentence with one and a half years suspended; and the driver received only one year. Tapu and Tairu also owe the state the money they earned from the drug trafficking adventure that lasted only a moment.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/customs/" rel="tag">customs</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/polynesian/" rel="tag">polynesian</a> <a href="https://www.deepdotweb.com/tag/zealand/" rel="tag">zealand</a></span> <span style="display:none" class="updated">2018-02-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

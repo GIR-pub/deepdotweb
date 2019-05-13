@@ -21,6 +21,4 @@ Danish Police Make Headway in Darknet Investigations
 <p>NC3 hosted international cybercrime conferences on the new analytical method used to track darknet criminals. United States law enforcement attended the conferences and other countries displayed their interest. Europol already participated; if we learned anything in 2016, it regarded Europol, Interpol, and member states. Where Europol travels, so will Interpol.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/danish/" rel="tag">danish</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/headway/" rel="tag">headway</a> <a href="https://www.deepdotweb.com/tag/investigations/" rel="tag">investigations</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2017-03-28<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

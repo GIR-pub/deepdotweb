@@ -21,6 +21,4 @@ Operation Dark Gold: 17th Suspect Charged for MDMA Distribution
 <p>&nbsp;</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/17th/" rel="tag">17th</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/gold/" rel="tag">gold</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a></span> <span style="display:none" class="updated">2018-07-19<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

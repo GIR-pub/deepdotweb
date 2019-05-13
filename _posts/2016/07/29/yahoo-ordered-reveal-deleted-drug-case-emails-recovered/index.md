@@ -23,6 +23,4 @@ Yahoo Ordered to Reveal How Deleted Drug Case Emails Were Recovered
     </div>
     <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/deleted/" rel="tag">deleted</a>  <a href="https://www.deepdotweb.com/tag/emails/" rel="tag">emails</a> <a href="https://www.deepdotweb.com/tag/ordered/" rel="tag">ordered</a> <a href="https://www.deepdotweb.com/tag/recovered/" rel="tag">recovered</a> <a href="https://www.deepdotweb.com/tag/reveal/" rel="tag">reveal</a> <a href="https://www.deepdotweb.com/tag/yahoo/" rel="tag">yahoo</a></span> <span style="display:none" class="updated">2016-07-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

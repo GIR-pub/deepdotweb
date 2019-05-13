@@ -23,6 +23,4 @@ Infographics: Tor For Newbies &#8211; How &#038; Why To Use It?
     </div>
     <a href="https://www.deepdotweb.com/tag/infographics/" rel="tag">infographics</a> <a href="https://www.deepdotweb.com/tag/newbies/" rel="tag">newbies</a> </span> <span style="display:none" class="updated">2015-01-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

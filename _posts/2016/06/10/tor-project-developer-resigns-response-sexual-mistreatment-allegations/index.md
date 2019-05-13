@@ -25,6 +25,4 @@ Tor Project Developer Resigns In Response To Sexual Mistreatment Allegations
     </div>
     <a href="https://www.deepdotweb.com/tag/allegations/" rel="tag">allegations</a> <a href="https://www.deepdotweb.com/tag/developer/" rel="tag">developer</a> <a href="https://www.deepdotweb.com/tag/mistreatment/" rel="tag">mistreatment</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a> <a href="https://www.deepdotweb.com/tag/resigns/" rel="tag">resigns</a> <a href="https://www.deepdotweb.com/tag/response/" rel="tag">response</a> <a href="https://www.deepdotweb.com/tag/sexual/" rel="tag">sexual</a> </span> <span style="display:none" class="updated">2016-06-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

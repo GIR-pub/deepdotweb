@@ -75,6 +75,4 @@ Battle of the Secure Smartphones
     </div>
     <a href="https://www.deepdotweb.com/tag/battle/" rel="tag">battle</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/smartphones/" rel="tag">smartphones</a></span> <span style="display:none" class="updated">2016-11-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
-    </div>
-</article>
-
+    

@@ -27,6 +27,4 @@ World Economic Forum Publishes Flattering Report on Blockchain’s impact on the
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchains/" rel="tag">blockchains</a> <a href="https://www.deepdotweb.com/tag/economic/" rel="tag">economic</a> <a href="https://www.deepdotweb.com/tag/financial/" rel="tag">financial</a> <a href="https://www.deepdotweb.com/tag/flattering/" rel="tag">flattering</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/impact/" rel="tag">impact</a> <a href="https://www.deepdotweb.com/tag/publishes/" rel="tag">publishes</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/sector/" rel="tag">sector</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2016-08-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dhume/" title="Posts by D. Hume" rel="author">D. Hume</a></strong></div>
-    </div>
-</article>
-
+    

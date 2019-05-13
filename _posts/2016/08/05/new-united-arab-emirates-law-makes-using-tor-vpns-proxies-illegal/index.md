@@ -20,6 +20,4 @@ New United Arab Emirates Law Makes Using Tor, VPNs, and Proxies Illegal
     </div>
     <a href="https://www.deepdotweb.com/tag/arab/" rel="tag">arab</a> <a href="https://www.deepdotweb.com/tag/emirates/" rel="tag">emirates</a> <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/proxies/" rel="tag">proxies</a>  <a href="https://www.deepdotweb.com/tag/united/" rel="tag">united</a> <a href="https://www.deepdotweb.com/tag/vpns/" rel="tag">vpns</a></span> <span style="display:none" class="updated">2016-08-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

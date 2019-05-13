@@ -26,6 +26,4 @@ Why Haven&#8217;t Smart Contracts Ended The Age of Classic Contract Law Yet?
     </div>
     <a href="https://www.deepdotweb.com/tag/age/" rel="tag">age</a> <a href="https://www.deepdotweb.com/tag/classic/" rel="tag">classic</a> <a href="https://www.deepdotweb.com/tag/contract/" rel="tag">contract</a> <a href="https://www.deepdotweb.com/tag/contracts/" rel="tag">contracts</a> <a href="https://www.deepdotweb.com/tag/ended/" rel="tag">ended</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/smart/" rel="tag">smart</a></span> <span style="display:none" class="updated">2017-01-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

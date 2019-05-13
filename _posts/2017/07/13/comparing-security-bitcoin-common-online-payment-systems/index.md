@@ -31,6 +31,4 @@ Comparing the Security of Bitcoin to That of Common Online Payment Systems
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/common/" rel="tag">common</a> <a href="https://www.deepdotweb.com/tag/comparing/" rel="tag">comparing</a>  <a href="https://www.deepdotweb.com/tag/payment/" rel="tag">payment</a>  <a href="https://www.deepdotweb.com/tag/systems/" rel="tag">systems</a></span> <span style="display:none" class="updated">2017-07-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

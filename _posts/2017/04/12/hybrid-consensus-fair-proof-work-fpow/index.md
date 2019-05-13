@@ -33,6 +33,4 @@ Hybrid Consensus and Fair Proof-of-Work (fPoW)
     </div>
     <a href="https://www.deepdotweb.com/tag/consensus/" rel="tag">consensus</a> <a href="https://www.deepdotweb.com/tag/fair/" rel="tag">fair</a> <a href="https://www.deepdotweb.com/tag/fpow/" rel="tag">fpow</a> <a href="https://www.deepdotweb.com/tag/hybrid/" rel="tag">hybrid</a> <a href="https://www.deepdotweb.com/tag/proofofwork/" rel="tag">proofofwork</a></span> <span style="display:none" class="updated">2017-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

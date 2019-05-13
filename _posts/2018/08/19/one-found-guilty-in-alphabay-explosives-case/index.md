@@ -19,6 +19,4 @@ One Found Guilty in Alphabay Explosives Case
 <p>O&#8217;Ceallaigh and Geraghty <a href="https://www.irishexaminer.com/breakingnews/ireland/two-not-guilty-one-guilty-in-fbi-uncovered-ira-plot-859103.html">walked free</a> at the end of the trial. Hawthorn, though, will reappear in October for sentencing. The court found him guilty of IRA membership.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/explosives/" rel="tag">explosives</a> </span> <span style="display:none" class="updated">2018-08-19<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

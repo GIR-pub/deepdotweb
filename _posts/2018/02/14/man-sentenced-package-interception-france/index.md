@@ -18,6 +18,4 @@ Man Sentenced After Package Interception in France
 <p>The judge sentenced him to nine months in prison and a fine of 3,000 euros.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/france/" rel="tag">france</a> <a href="https://www.deepdotweb.com/tag/interception/" rel="tag">interception</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/package/" rel="tag">package</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-02-14<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

@@ -19,6 +19,4 @@ Fraudster Sentenced for Stolen ID Shopping Spree
 <p>The goods the fraudster purchased showed up for sale through local and internet platforms. His biggest mistake, though, was ordering clothes to his own house in a single occasion. He now faces jail time and owes the court a $10,000 fine. His final restitution amount has not been disclosed.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/fraudster/" rel="tag">fraudster</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/shopping/" rel="tag">shopping</a> <a href="https://www.deepdotweb.com/tag/spree/" rel="tag">spree</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2018-07-27<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

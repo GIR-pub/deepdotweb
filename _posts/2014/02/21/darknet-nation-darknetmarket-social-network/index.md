@@ -75,6 +75,4 @@ Darknet Nation: DarkNetMarket Social Network
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/darknetmarket/" rel="tag">darknetmarket</a> <a href="https://www.deepdotweb.com/tag/nation/" rel="tag">nation</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/social/" rel="tag">social</a></span> <span style="display:none" class="updated">2014-02-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

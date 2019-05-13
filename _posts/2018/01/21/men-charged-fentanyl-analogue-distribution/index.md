@@ -19,6 +19,4 @@ Men Charged for Fentanyl Analogue Distribution
 <p>California law enforcement allegedly intercepted several packages of Fentanyl, Fentanyl analogues, dyes required in the production of a certain kind of pill, and other materials used in pill production laboratories. Both men recently appeared in a Los Angeles court before U.S. Magistrate Judge Patrick J. Walsh on one count of distribution conspiracy and one count of the possession of 400 or more grams of cyclopropyl fentanyl with intent to distribute. The criminal complaint additionally charged Tablack With one count of the distribution of 400 or more grams of cyclopropyl fentanyl. The charges carry a mandatory 10-year prison sentence.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a></span> <span style="display:none" class="updated">2018-01-21<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

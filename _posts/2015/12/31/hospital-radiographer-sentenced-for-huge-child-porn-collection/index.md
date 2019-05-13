@@ -22,6 +22,4 @@ Hospital Radiographer Sentenced For Huge Child Porn Collection
     </div>
     <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/collection/" rel="tag">collection</a> <a href="https://www.deepdotweb.com/tag/hospital/" rel="tag">hospital</a> <a href="https://www.deepdotweb.com/tag/huge/" rel="tag">huge</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/radiographer/" rel="tag">radiographer</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2015-12-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

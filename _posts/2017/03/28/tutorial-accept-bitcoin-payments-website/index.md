@@ -174,6 +174,4 @@ tag-accept tag-bitcoin tag-payments tag-tutorial tag-website">
 <p>If you have any questions, or have any problems while trying to implement the API, feel free to ask in the comments section below.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/accept/" rel="tag">accept</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/payments/" rel="tag">payments</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/website/" rel="tag">website</a></span> <span style="display:none" class="updated">2017-03-28<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

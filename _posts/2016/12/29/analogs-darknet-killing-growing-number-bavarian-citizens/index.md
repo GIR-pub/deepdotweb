@@ -21,6 +21,4 @@ Analogs from the Darknet are Killing a Growing Number of Bavarian Citizens
     </div>
     <a href="https://www.deepdotweb.com/tag/analogs/" rel="tag">analogs</a> <a href="https://www.deepdotweb.com/tag/bavarian/" rel="tag">bavarian</a> <a href="https://www.deepdotweb.com/tag/citizens/" rel="tag">citizens</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/growing/" rel="tag">growing</a> <a href="https://www.deepdotweb.com/tag/killing/" rel="tag">killing</a> <a href="https://www.deepdotweb.com/tag/number/" rel="tag">number</a></span> <span style="display:none" class="updated">2016-12-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

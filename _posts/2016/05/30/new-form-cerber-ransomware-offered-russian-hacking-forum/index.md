@@ -19,6 +19,4 @@ New Form Of Cerber Ransomware Being Offered On Russian Hacking Forum
     </div>
     <a href="https://www.deepdotweb.com/tag/cerber/" rel="tag">cerber</a> <a href="https://www.deepdotweb.com/tag/form/" rel="tag">form</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/offered/" rel="tag">offered</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a></span> <span style="display:none" class="updated">2016-05-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

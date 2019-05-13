@@ -40,6 +40,4 @@ Research: Using text spotting to detect textual information hidden within images
     </div>
     <a href="https://www.deepdotweb.com/tag/detect/" rel="tag">detect</a> <a href="https://www.deepdotweb.com/tag/domains/" rel="tag">domains</a>  <a href="https://www.deepdotweb.com/tag/hosted/" rel="tag">hosted</a> <a href="https://www.deepdotweb.com/tag/images/" rel="tag">images</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/spotting/" rel="tag">spotting</a> <a href="https://www.deepdotweb.com/tag/text/" rel="tag">text</a> <a href="https://www.deepdotweb.com/tag/textual/" rel="tag">textual</a></span> <span style="display:none" class="updated">2019-03-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

@@ -24,6 +24,4 @@ Irish Darknet Drug Dealers Reassured of Receiving a Long Sentence in January
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/january/" rel="tag">january</a> <a href="https://www.deepdotweb.com/tag/long/" rel="tag">long</a> <a href="https://www.deepdotweb.com/tag/reassured/" rel="tag">reassured</a> <a href="https://www.deepdotweb.com/tag/receiving/" rel="tag">receiving</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a></span> <span style="display:none" class="updated">2016-12-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

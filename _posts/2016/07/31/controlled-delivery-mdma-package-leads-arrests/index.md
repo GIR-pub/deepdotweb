@@ -19,6 +19,4 @@ Controlled Delivery of MDMA Package Leads to Arrests
     </div>
     <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/controlled/" rel="tag">controlled</a> <a href="https://www.deepdotweb.com/tag/delivery/" rel="tag">delivery</a> <a href="https://www.deepdotweb.com/tag/leads/" rel="tag">leads</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/package/" rel="tag">package</a></span> <span style="display:none" class="updated">2016-07-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

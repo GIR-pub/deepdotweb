@@ -22,6 +22,4 @@ Operation ‘Dark Web’ Seize over 20kg of Drugs Trafficked between Italy and S
     </div>
     <a href="https://www.deepdotweb.com/tag/20kg/" rel="tag">20kg</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/italy/" rel="tag">italy</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/seize/" rel="tag">seize</a> <a href="https://www.deepdotweb.com/tag/spain/" rel="tag">spain</a> <a href="https://www.deepdotweb.com/tag/trafficked/" rel="tag">trafficked</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2019-01-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-    </div>
-</article>
-
+    

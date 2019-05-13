@@ -42,6 +42,4 @@ NSA Ruled Illegal; Presidential Hopefuls Hop on Board
     </div>
     <a href="https://www.deepdotweb.com/tag/board/" rel="tag">board</a> <a href="https://www.deepdotweb.com/tag/hop/" rel="tag">hop</a> <a href="https://www.deepdotweb.com/tag/hopefuls/" rel="tag">hopefuls</a> <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/presidential/" rel="tag">presidential</a> <a href="https://www.deepdotweb.com/tag/ruled/" rel="tag">ruled</a></span> <span style="display:none" class="updated">2015-05-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

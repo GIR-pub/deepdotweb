@@ -30,6 +30,4 @@ Darknet Card Fraud Increased By 50% in Germany in the First Quarter of 2018
 <p>“Hiding amongst the growth in online purchases is great from a criminal point of view, but finding and stopping fraudulent transactions just gets tougher,” said Warwich.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/2018/" rel="tag">2018</a> <a href="https://www.deepdotweb.com/tag/50/" rel="tag">50</a> <a href="https://www.deepdotweb.com/tag/card/" rel="tag">card</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a> <a href="https://www.deepdotweb.com/tag/quarter/" rel="tag">quarter</a></span> <span style="display:none" class="updated">2018-05-27<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

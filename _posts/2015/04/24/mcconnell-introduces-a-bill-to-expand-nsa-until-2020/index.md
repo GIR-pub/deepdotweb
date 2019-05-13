@@ -30,6 +30,4 @@ McConnell introduces a bill to expand NSA until 2020
     </div>
     <a href="https://www.deepdotweb.com/tag/2020/" rel="tag">2020</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/expand/" rel="tag">expand</a> <a href="https://www.deepdotweb.com/tag/introduces/" rel="tag">introduces</a> <a href="https://www.deepdotweb.com/tag/mcconnell/" rel="tag">mcconnell</a> <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a></span> <span style="display:none" class="updated">2015-04-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

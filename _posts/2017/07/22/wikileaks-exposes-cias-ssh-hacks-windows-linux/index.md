@@ -19,6 +19,4 @@ WikiLeaks Exposes CIA’s SSH Hacks for Windows and Linux
     </div>
     <a href="https://www.deepdotweb.com/tag/cias/" rel="tag">cias</a> <a href="https://www.deepdotweb.com/tag/exposes/" rel="tag">exposes</a> <a href="https://www.deepdotweb.com/tag/hacks/" rel="tag">hacks</a> <a href="https://www.deepdotweb.com/tag/linux/" rel="tag">linux</a> <a href="https://www.deepdotweb.com/tag/ssh/" rel="tag">ssh</a> <a href="https://www.deepdotweb.com/tag/wikileaks/" rel="tag">wikileaks</a> <a href="https://www.deepdotweb.com/tag/windows/" rel="tag">windows</a></span> <span style="display:none" class="updated">2017-07-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

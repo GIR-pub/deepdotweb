@@ -26,6 +26,4 @@ Report: Increase In Parcels Containing Drugs In Estonia
     </div>
      <a href="https://www.deepdotweb.com/tag/estonia/" rel="tag">estonia</a> <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/parcels/" rel="tag">parcels</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2016-11-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

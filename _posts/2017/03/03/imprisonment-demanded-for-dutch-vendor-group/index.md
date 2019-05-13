@@ -25,6 +25,4 @@ Imprisonment Demanded For Dutch Vendor Group
 <p>Mathieu van Linde, defending the 37-year-old, said that there are suspicions, although, there is no solid evidence to support these. The verdict in the case is expected soon.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/demanded/" rel="tag">demanded</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/imprisonment/" rel="tag">imprisonment</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-03-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

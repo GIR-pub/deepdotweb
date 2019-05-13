@@ -30,6 +30,4 @@ Can the Blockchain Technology Revive The Contemporary Art Market?
     </div>
     <a href="https://www.deepdotweb.com/tag/art/" rel="tag">art</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/contemporary/" rel="tag">contemporary</a> <a href="https://www.deepdotweb.com/tag/revive/" rel="tag">revive</a> <a href="https://www.deepdotweb.com/tag/technology/" rel="tag">technology</a></span> <span style="display:none" class="updated">2017-01-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

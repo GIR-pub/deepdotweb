@@ -31,6 +31,4 @@ Police Arrest Three Men and Seize Bunch of Narcotics Trafficked From Darknet
     </div>
     <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/bunch/" rel="tag">bunch</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/seize/" rel="tag">seize</a> <a href="https://www.deepdotweb.com/tag/trafficked/" rel="tag">trafficked</a></span> <span style="display:none" class="updated">2017-07-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
-    </div>
-</article>
-
+    

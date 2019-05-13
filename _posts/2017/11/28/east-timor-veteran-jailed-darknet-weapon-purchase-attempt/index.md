@@ -33,6 +33,4 @@ East Timor Veteran Jailed for Darknet Weapon Purchase Attempt
     </div>
     <a href="https://www.deepdotweb.com/tag/attempt/" rel="tag">attempt</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/east/" rel="tag">east</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/purchase/" rel="tag">purchase</a> <a href="https://www.deepdotweb.com/tag/timor/" rel="tag">timor</a> <a href="https://www.deepdotweb.com/tag/veteran/" rel="tag">veteran</a> </span> <span style="display:none" class="updated">2017-11-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-    </div>
-</article>
-
+    

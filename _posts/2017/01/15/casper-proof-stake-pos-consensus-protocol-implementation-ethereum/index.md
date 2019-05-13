@@ -39,6 +39,4 @@ CASPER &#8211; Proof of Stake (PoS) Consensus Protocol For Implementation On Eth
     </div>
     <a href="https://www.deepdotweb.com/tag/casper/" rel="tag">casper</a> <a href="https://www.deepdotweb.com/tag/consensus/" rel="tag">consensus</a> <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a> <a href="https://www.deepdotweb.com/tag/implementation/" rel="tag">implementation</a> <a href="https://www.deepdotweb.com/tag/pos/" rel="tag">pos</a> <a href="https://www.deepdotweb.com/tag/proof/" rel="tag">proof</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a> <a href="https://www.deepdotweb.com/tag/stake/" rel="tag">stake</a></span> <span style="display:none" class="updated">2017-01-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

@@ -25,6 +25,4 @@ Undercover Police Befriends Dark Web Criminal Who Killed His Wife
     </div>
     <a href="https://www.deepdotweb.com/tag/befriends/" rel="tag">befriends</a> <a href="https://www.deepdotweb.com/tag/criminal/" rel="tag">criminal</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/killed/" rel="tag">killed</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/undercover/" rel="tag">undercover</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/wife/" rel="tag">wife</a></span> <span style="display:none" class="updated">2017-05-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

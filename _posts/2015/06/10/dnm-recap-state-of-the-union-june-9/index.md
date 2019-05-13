@@ -23,6 +23,4 @@ DNM Recap: State of the Union June 10
     </div>
     <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/june/" rel="tag">june</a> <a href="https://www.deepdotweb.com/tag/recap/" rel="tag">recap</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/union/" rel="tag">union</a></span> <span style="display:none" class="updated">2015-06-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

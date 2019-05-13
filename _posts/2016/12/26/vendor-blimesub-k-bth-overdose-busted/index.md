@@ -26,6 +26,4 @@ Vendor BlimeSub a.k.a BTH-Overdose busted
     </div>
     <a href="https://www.deepdotweb.com/tag/aka/" rel="tag">aka</a> <a href="https://www.deepdotweb.com/tag/blimesub/" rel="tag">blimesub</a> <a href="https://www.deepdotweb.com/tag/bthoverdose/" rel="tag">bthoverdose</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-12-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/charlespatten/" title="Posts by Charles Patten" rel="author">Charles Patten</a></strong></div>
-    </div>
-</article>
-
+    

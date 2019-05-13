@@ -324,6 +324,4 @@ Alphabay death: Wondering which market is Headed to the Top? Here is some inside
     </div>
     <a href="https://www.deepdotweb.com/tag/3434335/" rel="tag">3434335</a></span> <span style="display:none" class="updated">2017-07-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

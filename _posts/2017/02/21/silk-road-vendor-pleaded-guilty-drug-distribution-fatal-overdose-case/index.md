@@ -24,6 +24,4 @@ Silk Road Vendor Pleaded Guilty to Drug Distribution in Fatal Overdose Case
     </div>
     <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>  <a href="https://www.deepdotweb.com/tag/fatal/" rel="tag">fatal</a>  <a href="https://www.deepdotweb.com/tag/overdose/" rel="tag">overdose</a> <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-02-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

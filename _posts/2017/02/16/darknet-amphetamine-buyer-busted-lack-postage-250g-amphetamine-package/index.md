@@ -21,6 +21,4 @@ Darknet Amphetamine Buyer Busted After Lack of Postage on a 250g Amphetamine Pac
     </div>
     <a href="https://www.deepdotweb.com/tag/250g/" rel="tag">250g</a> <a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a>  <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/lack/" rel="tag">lack</a> <a href="https://www.deepdotweb.com/tag/package/" rel="tag">package</a> <a href="https://www.deepdotweb.com/tag/postage/" rel="tag">postage</a></span> <span style="display:none" class="updated">2017-02-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

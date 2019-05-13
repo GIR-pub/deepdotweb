@@ -24,6 +24,4 @@ Third Judge Rules FBI’s Playpen Warrant Invalid
     </div>
     <a href="https://www.deepdotweb.com/tag/fbis/" rel="tag">fbis</a> <a href="https://www.deepdotweb.com/tag/invalid/" rel="tag">invalid</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a> <a href="https://www.deepdotweb.com/tag/warrant/" rel="tag">warrant</a></span> <span style="display:none" class="updated">2016-09-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

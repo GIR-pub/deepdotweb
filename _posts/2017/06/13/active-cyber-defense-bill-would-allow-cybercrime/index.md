@@ -19,6 +19,4 @@ Active Cyber Defense Bill Would Allow Cybercrime Victims to Hack Back
     </div>
     <span style="display:none" class="updated">2017-06-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

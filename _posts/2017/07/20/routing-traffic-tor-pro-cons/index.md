@@ -34,6 +34,4 @@ ROUTING ALL TRAFFIC THROUGH TOR: PRO AND CONS
     </div>
     <a href="https://www.deepdotweb.com/tag/cons/" rel="tag">cons</a> <a href="https://www.deepdotweb.com/tag/pro/" rel="tag">pro</a> <a href="https://www.deepdotweb.com/tag/routing/" rel="tag">routing</a>  <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> <span style="display:none" class="updated">2017-07-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
-    </div>
-</article>
-
+    

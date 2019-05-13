@@ -20,6 +20,4 @@ A German Faces Trial for Drugs Ordered on ‘Dream Market’
 <p>In Chamer District Court, Judge Lecker Andreas handed the defendant a ten-month custodial sentence with probation. “Custodial sentence with probation is relatively rare. Therefore, I will have to consider revoking the probation at any point you violate any of the conditions,” he concluded.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/dream/" rel="tag">dream</a>  <a href="https://www.deepdotweb.com/tag/faces/" rel="tag">faces</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/ordered/" rel="tag">ordered</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span> <span style="display:none" class="updated">2018-12-04<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

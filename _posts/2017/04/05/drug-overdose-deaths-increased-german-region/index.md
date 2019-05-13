@@ -23,6 +23,4 @@ Drug Overdose Deaths Increased In A German Region
     </div>
     <a href="https://www.deepdotweb.com/tag/deaths/" rel="tag">deaths</a>  <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a> <a href="https://www.deepdotweb.com/tag/overdose/" rel="tag">overdose</a> <a href="https://www.deepdotweb.com/tag/region/" rel="tag">region</a></span> <span style="display:none" class="updated">2017-04-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

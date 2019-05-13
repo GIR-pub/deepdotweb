@@ -98,6 +98,4 @@ Michigan Bill To Legalize Recreational Marijuana
     </div>
     <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/legalize/" rel="tag">legalize</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/michigan/" rel="tag">michigan</a> <a href="https://www.deepdotweb.com/tag/recreational/" rel="tag">recreational</a></span> <span style="display:none" class="updated">2016-03-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

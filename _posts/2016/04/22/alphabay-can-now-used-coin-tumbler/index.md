@@ -25,6 +25,4 @@ Alphabay Can Now Be Used As a Coin Tumbler
     </div>
     <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a> <a href="https://www.deepdotweb.com/tag/tumbler/" rel="tag">tumbler</a></span> <span style="display:none" class="updated">2016-04-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

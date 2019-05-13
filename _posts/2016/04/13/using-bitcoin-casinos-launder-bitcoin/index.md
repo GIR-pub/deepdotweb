@@ -30,6 +30,4 @@ Using Bitcoin Casinos To Launder Bitcoin
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/casinos/" rel="tag">casinos</a> <a href="https://www.deepdotweb.com/tag/launder/" rel="tag">launder</a></span> <span style="display:none" class="updated">2016-04-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

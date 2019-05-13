@@ -27,6 +27,4 @@ Swiss Authorities Left Powerless Against Online German Weapons Shop
     </div>
     <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/left/" rel="tag">left</a>  <a href="https://www.deepdotweb.com/tag/powerless/" rel="tag">powerless</a> <a href="https://www.deepdotweb.com/tag/shop/" rel="tag">shop</a> <a href="https://www.deepdotweb.com/tag/swiss/" rel="tag">swiss</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span> <span style="display:none" class="updated">2017-01-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

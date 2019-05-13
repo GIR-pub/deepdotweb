@@ -42,6 +42,4 @@ What is an ICO (Initial Coin Offering)
     </div>
     <a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a> <a href="https://www.deepdotweb.com/tag/ico/" rel="tag">ico</a> <a href="https://www.deepdotweb.com/tag/initial/" rel="tag">initial</a> <a href="https://www.deepdotweb.com/tag/offering/" rel="tag">offering</a></span> <span style="display:none" class="updated">2017-04-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

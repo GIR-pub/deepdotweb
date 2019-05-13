@@ -21,6 +21,4 @@ Irish Dark Net Market Vendor Couple Pleaded Guilty
 <p>Judge Martin Nolan said he will think about the case over the weekend and make a decision on Monday. Both men stay in custody until then. The sentence is still yet to be heard by the judge.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-12-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

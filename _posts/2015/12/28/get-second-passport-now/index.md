@@ -52,6 +52,4 @@ How &#8211; and Why &#8211; to Get a Second Passport Now
 <p><em>Up next, FATCA, GATCA, and how to keep your money and your freedom from being confiscated. Effective ways to convert cash and bitcoin into safe, anonymous and clean assets without going to jail.</em></p>
 </div>
 <a href="https://www.deepdotweb.com/tag/passport/" rel="tag">passport</a></span> <span style="display:none" class="updated">2015-12-28<a href="https://www.deepdotweb.com/author/archer/" title="Posts by Archer" rel="author">Archer</a></strong></div>
-</div>
-</article>
 

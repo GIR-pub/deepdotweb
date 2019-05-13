@@ -28,6 +28,4 @@ Swedish Legislators Push for Change to End Drug Trafficking by Mail
     </div>
     <a href="https://www.deepdotweb.com/tag/change/" rel="tag">change</a>  <a href="https://www.deepdotweb.com/tag/legislators/" rel="tag">legislators</a> <a href="https://www.deepdotweb.com/tag/mail/" rel="tag">mail</a> <a href="https://www.deepdotweb.com/tag/push/" rel="tag">push</a> <a href="https://www.deepdotweb.com/tag/swedish/" rel="tag">swedish</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-01-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

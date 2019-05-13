@@ -17,6 +17,4 @@ Police Department in Illinois Sells Seized Bitcoin on Coinbase
 <p><a id="post-18685-_30j0zll"></a> It is not surprising that government officials consider Coinbase police-friendly, considering that they frequently work with law enforcement, such as filing FinCEN’s Suspicious Activity Reports against users. Many users of Coinbase have lost their ability to purchase bitcoin from their account if they had been detected sending bitcoin to addresses associated with darknet markets. Their CEO has described the company as “one of the good guys” <a href="https://medium.com/@barmstrong/coinbase-and-the-irs-c4e2e386e0cf#.p26b4om95">in a statement</a> he made about <a href="https://www.deepdotweb.com/2016/11/29/irs-demands-entire-coinbase-user-database-tax-purposes/">a subpoena the company received</a> from a government agency.</p>
 </div>
 <span style="display:none" class="updated">2017-03-19<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-</div>
-</article>
 

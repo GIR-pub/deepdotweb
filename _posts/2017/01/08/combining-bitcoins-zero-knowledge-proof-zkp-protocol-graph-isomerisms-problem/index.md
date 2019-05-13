@@ -32,6 +32,4 @@ Combining Bitcoin&#8217;s Zero Knowledge Proof ZKP Protocol With Graph Isomerism
     </div>
     <a href="https://www.deepdotweb.com/tag/combining/" rel="tag">combining</a> <a href="https://www.deepdotweb.com/tag/graph/" rel="tag">graph</a> <a href="https://www.deepdotweb.com/tag/isomerisms/" rel="tag">isomerisms</a> <a href="https://www.deepdotweb.com/tag/knowledge/" rel="tag">knowledge</a> <a href="https://www.deepdotweb.com/tag/problem/" rel="tag">problem</a> <a href="https://www.deepdotweb.com/tag/proof/" rel="tag">proof</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a> <a href="https://www.deepdotweb.com/tag/zkp/" rel="tag">zkp</a></span> <span style="display:none" class="updated">2017-01-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

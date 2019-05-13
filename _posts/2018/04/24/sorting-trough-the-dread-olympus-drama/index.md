@@ -29,6 +29,4 @@ Sorting Through the Dread &#038; Olympus Drama
 <p>HugBunter is working on rebuilding. He says the worst part about the whole ordeal was losing his memorable onion address. He does not want vengeance on Olympus. In fact, he wants to avoid drama. He is also still working on vendor shops. Olympus claimed he scammed vendors by failing to provide their customs shops, but <a href="https://www.reddit.com/r/DarkNetMarketsNoobs/comments/8ec5ts/dread_issues_megathread/dxu8e3o/">HugBunter has said</a> vendors would “either be refunded or I can set their site up still.”</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/dread/" rel="tag">dread</a> <a href="https://www.deepdotweb.com/tag/olympus/" rel="tag">olympus</a> <a href="https://www.deepdotweb.com/tag/takedown/" rel="tag">takedown</a></span> <span style="display:none" class="updated">2018-04-24<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

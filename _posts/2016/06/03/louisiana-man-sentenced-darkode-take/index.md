@@ -19,6 +19,4 @@ Darkode Take Down: Louisiana Man Sentenced
     </div>
     <a href="https://www.deepdotweb.com/tag/darkode/" rel="tag">darkode</a> <a href="https://www.deepdotweb.com/tag/louisiana/" rel="tag">louisiana</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2016-06-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

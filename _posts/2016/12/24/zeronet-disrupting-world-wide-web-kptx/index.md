@@ -33,6 +33,4 @@ How ZeroNet is disrupting the World Wide Web
     </div>
     <a href="https://www.deepdotweb.com/tag/disrupting/" rel="tag">disrupting</a> <a href="https://www.deepdotweb.com/tag/kptx/" rel="tag">kptx</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/wide/" rel="tag">wide</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a> <a href="https://www.deepdotweb.com/tag/zeronet/" rel="tag">zeronet</a></span> <span style="display:none" class="updated">2016-12-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

@@ -18,6 +18,4 @@ FBI Shows Video of AlphaBay Admin&#8217;s Arrest During Conference
 <p>A Freedom of Information Act request will be made to try and obtain the footage of Alexandre Cazes arrest.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admins/" rel="tag">admins</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/conference/" rel="tag">conference</a> <a href="https://www.deepdotweb.com/tag/shows/" rel="tag">shows</a> <a href="https://www.deepdotweb.com/tag/video/" rel="tag">video</a></span> <span style="display:none" class="updated">2018-01-30<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-</div>
-</article>
 

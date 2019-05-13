@@ -149,6 +149,4 @@ BolehVPN Review
     </div>
     <a href="https://www.deepdotweb.com/tag/bolehvpn/" rel="tag">bolehvpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2016-01-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

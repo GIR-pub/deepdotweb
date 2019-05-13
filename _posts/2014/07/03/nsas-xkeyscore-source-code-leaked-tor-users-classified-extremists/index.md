@@ -40,6 +40,4 @@ NSA&#8217;s XKeyscore Source Code Leaked: All Tor Users Classified As &#8216;Ext
     </div>
     <a href="https://www.deepdotweb.com/tag/classified/" rel="tag">classified</a> <a href="https://www.deepdotweb.com/tag/code/" rel="tag">code</a> <a href="https://www.deepdotweb.com/tag/extremists/" rel="tag">extremists</a> <a href="https://www.deepdotweb.com/tag/leaked/" rel="tag">leaked</a> <a href="https://www.deepdotweb.com/tag/nsas/" rel="tag">nsas</a> <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a>  <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/xkeyscore/" rel="tag">xkeyscore</a></span> <span style="display:none" class="updated">2014-07-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

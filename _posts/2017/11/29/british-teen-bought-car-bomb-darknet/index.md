@@ -19,6 +19,4 @@ British Teen Bought Car Bomb from the Darknet
     </div>
     <a href="https://www.deepdotweb.com/tag/bomb/" rel="tag">bomb</a> <a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/british/" rel="tag">british</a> <a href="https://www.deepdotweb.com/tag/car/" rel="tag">car</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a></span> <span style="display:none" class="updated">2017-11-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

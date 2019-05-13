@@ -19,6 +19,4 @@ New Bill Would Require People to Disclose Cryptocurrency Holdings at the Border
     </div>
     <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/border/" rel="tag">border</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/disclose/" rel="tag">disclose</a> <a href="https://www.deepdotweb.com/tag/holdings/" rel="tag">holdings</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a> <a href="https://www.deepdotweb.com/tag/require/" rel="tag">require</a></span> <span style="display:none" class="updated">2017-07-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

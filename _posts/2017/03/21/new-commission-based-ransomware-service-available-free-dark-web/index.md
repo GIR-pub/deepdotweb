@@ -22,6 +22,4 @@ New Commission-based Ransomware As A Service Available Free On Dark Web
 <p>If a freely available RaaS, like the Dot ransomware, becomes popular among cybercriminals, it could lead to major disasters, especially in the healthcare industry. Law enforcement authorities, the government, and security companies have to all identify the issue and take major steps to prevent such thing from happening as soon as possible.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/commissionbased/" rel="tag">commissionbased</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-03-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

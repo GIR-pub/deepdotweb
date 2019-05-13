@@ -23,6 +23,4 @@ FBI tells How It Hacked The IPhone
     </div>
     <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/iphone/" rel="tag">iphone</a> <a href="https://www.deepdotweb.com/tag/tells/" rel="tag">tells</a></span> <span style="display:none" class="updated">2016-04-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

@@ -65,6 +65,4 @@ The Art of Con
     </div>
     <a href="https://www.deepdotweb.com/tag/art/" rel="tag">art</a> <a href="https://www.deepdotweb.com/tag/con/" rel="tag">con</a></span> <span style="display:none" class="updated">2016-10-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
-    </div>
-</article>
-
+    

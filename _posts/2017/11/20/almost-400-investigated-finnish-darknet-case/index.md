@@ -34,6 +34,4 @@ Almost 400 Investigated in Finnish Darknet Case
     </div>
     <a href="https://www.deepdotweb.com/tag/400/" rel="tag">400</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/finnish/" rel="tag">finnish</a> <a href="https://www.deepdotweb.com/tag/investigated/" rel="tag">investigated</a></span> <span style="display:none" class="updated">2017-11-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

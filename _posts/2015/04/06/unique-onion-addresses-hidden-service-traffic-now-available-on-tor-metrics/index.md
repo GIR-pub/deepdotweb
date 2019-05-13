@@ -64,6 +64,4 @@ Unique .Onion Addresses &#038; Hidden-service traffic Now available on Tor Metri
     </div>
     <a href="http://www.deepdotweb.com/tag/addresses/" rel="tag">addresses</a> <a href="http://www.deepdotweb.com/tag/hiddenservice/" rel="tag">hiddenservice</a> <a href="http://www.deepdotweb.com/tag/metrics/" rel="tag">metrics</a> <a href="http://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="http://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="http://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a> <a href="http://www.deepdotweb.com/tag/unique/" rel="tag">unique</a></span> <span style="display:none" class="updated">2015-04-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-    </div>
-</article>
-
+    

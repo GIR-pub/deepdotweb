@@ -107,6 +107,4 @@ Gwern: Archives of ALL Dark Net Market Released
     </div>
     <a href="https://www.deepdotweb.com/tag/archives/" rel="tag">archives</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a></span> <span style="display:none" class="updated">2015-07-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -25,6 +25,4 @@ Swiss Convict’s Ex-Girlfriend Released From Custody
     </div>
     <a href="https://www.deepdotweb.com/tag/convicts/" rel="tag">convicts</a> <a href="https://www.deepdotweb.com/tag/custody/" rel="tag">custody</a> <a href="https://www.deepdotweb.com/tag/exgirlfriend/" rel="tag">exgirlfriend</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="https://www.deepdotweb.com/tag/swiss/" rel="tag">swiss</a></span> <span style="display:none" class="updated">2017-02-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Ireland to Intensively Scan Packages for Illegal Weapons
     </div>
     <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/intensively/" rel="tag">intensively</a> <a href="https://www.deepdotweb.com/tag/ireland/" rel="tag">ireland</a> <a href="https://www.deepdotweb.com/tag/packages/" rel="tag">packages</a> <a href="https://www.deepdotweb.com/tag/scan/" rel="tag">scan</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span> <span style="display:none" class="updated">2017-07-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Guardia Civil Bust Former Alphabay Pistol Vendor
 <p>Europol pointed to the successful collaboration between the police and customs for part of the investigation. In one scenario, the exchange of information between United Kingdom customs and law enforcement agencies led to a successful package interception(s). Europol also thanked themselves for successfully helping other countries catch buyers.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/civil/" rel="tag">civil</a> <a href="https://www.deepdotweb.com/tag/guardia/" rel="tag">guardia</a> <a href="https://www.deepdotweb.com/tag/pistol/" rel="tag">pistol</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-10-20<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

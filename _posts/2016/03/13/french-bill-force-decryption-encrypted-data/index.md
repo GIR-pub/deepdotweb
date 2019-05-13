@@ -20,6 +20,4 @@ French Bill To Force Decryption Of Encrypted Data
     </div>
     <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/decryption/" rel="tag">decryption</a> <a href="https://www.deepdotweb.com/tag/encrypted/" rel="tag">encrypted</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/french/" rel="tag">french</a></span> <span style="display:none" class="updated">2016-03-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

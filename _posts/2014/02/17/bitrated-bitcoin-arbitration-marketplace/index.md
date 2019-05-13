@@ -61,6 +61,4 @@ Introducing Bitrated: Bitcoin Arbitration Marketplace
     </div>
     <a href="https://www.deepdotweb.com/tag/arbitration/" rel="tag">arbitration</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/bitrated/" rel="tag">bitrated</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a></span> <span style="display:none" class="updated">2014-02-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

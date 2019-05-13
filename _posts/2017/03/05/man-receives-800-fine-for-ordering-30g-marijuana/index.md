@@ -21,6 +21,4 @@ Man Receives $800 Fine for Ordering 30g Marijuana off the Darknet
 <p>She ordered that Shaw pay a fine of $800. This number does not include court fees.</p>
 </div>
 <span style="display:none" class="updated">2017-03-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

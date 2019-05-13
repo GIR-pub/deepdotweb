@@ -20,6 +20,4 @@ Croatian Student Has To Pay Back The Damage He Caused With Internet Fraud
     </div>
     <a href="https://www.deepdotweb.com/tag/caused/" rel="tag">caused</a> <a href="https://www.deepdotweb.com/tag/croatian/" rel="tag">croatian</a> <a href="https://www.deepdotweb.com/tag/damage/" rel="tag">damage</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/pay/" rel="tag">pay</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a></span> <span style="display:none" class="updated">2016-12-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

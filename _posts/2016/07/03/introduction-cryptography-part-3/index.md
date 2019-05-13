@@ -35,6 +35,4 @@ Introduction to Cryptography, Part 3
     </div>
     <a href="https://www.deepdotweb.com/tag/cryptography/" rel="tag">cryptography</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a></span> <span style="display:none" class="updated">2016-07-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/64bytes/" title="Posts by 64Bytes" rel="author">64Bytes</a></strong></div>
-    </div>
-</article>
-
+    

@@ -18,6 +18,4 @@ Kentucky Man Sentenced to 87 Months in PlayPen Case
 <p>At this point, though, they will take any conviction they can get; the FBI overplayed their hand with the use of the NIT and subsequent refusal to allow the NIT code to be examined.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/87/" rel="tag">87</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/kentucky/" rel="tag">kentucky</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-01-20<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

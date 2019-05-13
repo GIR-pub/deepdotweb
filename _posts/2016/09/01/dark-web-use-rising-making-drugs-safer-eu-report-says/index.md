@@ -20,6 +20,4 @@ Dark Web Use Rising Making Drugs Safer EU Report Says
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/eu/" rel="tag">eu</a> <a href="https://www.deepdotweb.com/tag/making/" rel="tag">making</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/rising/" rel="tag">rising</a> <a href="https://www.deepdotweb.com/tag/safer/" rel="tag">safer</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-09-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

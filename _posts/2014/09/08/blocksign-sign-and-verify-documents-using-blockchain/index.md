@@ -43,6 +43,4 @@ BlockSign: Sign and Verify Documents Using Blockchain
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/blocksign/" rel="tag">blocksign</a> <a href="https://www.deepdotweb.com/tag/documents/" rel="tag">documents</a> <a href="https://www.deepdotweb.com/tag/sign/" rel="tag">sign</a> <a href="https://www.deepdotweb.com/tag/verify/" rel="tag">verify</a></span> <span style="display:none" class="updated">2014-09-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    </div>
-</article>
-
+    

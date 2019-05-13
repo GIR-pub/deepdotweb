@@ -33,6 +33,4 @@ TorEscrow, What Happend?
     </div>
     <a href="https://www.deepdotweb.com/tag/happend/" rel="tag">happend</a> <a href="https://www.deepdotweb.com/tag/torescrow/" rel="tag">torescrow</a></span> <span style="display:none" class="updated">2014-04-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

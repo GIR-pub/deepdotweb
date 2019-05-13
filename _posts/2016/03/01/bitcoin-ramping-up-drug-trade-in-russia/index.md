@@ -20,6 +20,4 @@ Bitcoin Ramping Up Drug Trade In Russia?
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a>  <a href="https://www.deepdotweb.com/tag/ramping/" rel="tag">ramping</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a></span> <span style="display:none" class="updated">2016-03-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

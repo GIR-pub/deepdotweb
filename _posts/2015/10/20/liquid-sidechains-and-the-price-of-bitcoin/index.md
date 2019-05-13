@@ -31,6 +31,4 @@ Liquid Sidechains and the Price of Bitcoin
 <p>This is certainly the type of infrastructure that is much needed for bitcoin as an alternative asset class to affirm itself mainstream. I am excited to see how this develops over the next year. More capital coming into bitcoin, speculators, trading platforms, rapid settlements, brokerages &#8211; all ultimately add value to the price of bitcoin. It is only a matter of time before bitcoin, will be as valid as any other asset class, in the eyes of the mainstream average investor. This means a higher bitcoin price than we have today.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/liquid/" rel="tag">liquid</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/sidechains/" rel="tag">sidechains</a></span> <span style="display:none" class="updated">2015-10-20<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

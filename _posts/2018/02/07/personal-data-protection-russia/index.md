@@ -22,6 +22,4 @@ Personal Data Protection in Russia
 <p>Respectful customers strive for using cloud storages lawfully. But this goal can hardly be achieved without cooperation with a law-abiding service provider. Therefore, the tandem of a customer and a provider becomes vital.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/protection/" rel="tag">protection</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2018-02-07<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
-</div>
-</article>
 

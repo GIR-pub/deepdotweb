@@ -19,6 +19,4 @@ Almost Six Years in Prison for Fake Oxycodone Dealer
 <p>Judge Schreier sentenced him to 70 months in prison followed by three years of federal supervision. His sentence will be served at an institution near his family.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/oxycodone/" rel="tag">oxycodone</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-05-22<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

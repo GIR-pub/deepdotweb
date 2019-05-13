@@ -26,6 +26,4 @@ Atomic Verification Via Private Key Locked Bitcoin Transactions
     </div>
     <a href="https://www.deepdotweb.com/tag/atomic/" rel="tag">atomic</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/key/" rel="tag">key</a> <a href="https://www.deepdotweb.com/tag/locked/" rel="tag">locked</a> <a href="https://www.deepdotweb.com/tag/private/" rel="tag">private</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a> <a href="https://www.deepdotweb.com/tag/verification/" rel="tag">verification</a></span> <span style="display:none" class="updated">2017-01-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

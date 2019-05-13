@@ -20,6 +20,4 @@ The GAO Tried to Illegally Buy 79 Guns Online and Failed
 <p>For some reason, the GAO only made seven attempts on the darknet. Maybe they only found seven vendors that did not work for the government as undercover vendors. The GAO found some success on the darknet, though. In two of the seven attempts, agents ended up with a gun from a darknet vendor. (In fairness, USPIS actually pulled the guns from the mail stream and sent pictures to the agents.) The agents purchased an AK-47 automatic rifle and an Uzi submachine gun. The report cited a prior ATF report that found that the majority of weapon listings on darknet marketplaces are scams. Somehow, <a href="https://www.deepdotweb.com/tag/firearm">people keep falling for them</a>.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/79/" rel="tag">79</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a> <a href="https://www.deepdotweb.com/tag/gao/" rel="tag">gao</a> <a href="https://www.deepdotweb.com/tag/guns/" rel="tag">guns</a> <a href="https://www.deepdotweb.com/tag/illegally/" rel="tag">illegally</a> </span> <span style="display:none" class="updated">2018-01-20<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

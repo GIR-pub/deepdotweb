@@ -33,6 +33,4 @@ The Colorful World of Reagents
     </div>
     <a href="https://www.deepdotweb.com/tag/colorful/" rel="tag">colorful</a> <a href="https://www.deepdotweb.com/tag/reagents/" rel="tag">reagents</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2016-05-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kevin/" title="Posts by -Kevin-" rel="author">-Kevin-</a></strong></div>
-    </div>
-</article>
-
+    

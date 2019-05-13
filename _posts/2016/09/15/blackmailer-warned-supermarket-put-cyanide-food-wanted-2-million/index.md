@@ -40,6 +40,4 @@ Blackmailer Warned Supermarket He Put Cyanide In Food, Wanted £2 Million
     </div>
     <a href="https://www.deepdotweb.com/tag/blackmailer/" rel="tag">blackmailer</a> <a href="https://www.deepdotweb.com/tag/cyanide/" rel="tag">cyanide</a> <a href="https://www.deepdotweb.com/tag/food/" rel="tag">food</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/put/" rel="tag">put</a> <a href="https://www.deepdotweb.com/tag/supermarket/" rel="tag">supermarket</a> <a href="https://www.deepdotweb.com/tag/wanted/" rel="tag">wanted</a> <a href="https://www.deepdotweb.com/tag/warned/" rel="tag">warned</a></span> <span style="display:none" class="updated">2016-09-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

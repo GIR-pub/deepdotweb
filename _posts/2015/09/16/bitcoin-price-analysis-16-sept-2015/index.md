@@ -36,6 +36,4 @@ Bitcoin Price Analysis 16 sept 2015
 <p>At this point, looking at price projections in the mid -term is best, as the market is at a critical level. Look out for an analysis report on the midterm to long term price outlook, and the real possibility of $ 100 coins!</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/sept/" rel="tag">sept</a></span> <span style="display:none" class="updated">2015-09-16<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

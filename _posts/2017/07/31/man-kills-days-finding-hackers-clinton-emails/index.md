@@ -23,6 +23,4 @@ Man Kills Himself Days After Finding “Hackers” with Clinton Emails
     </div>
     <a href="https://www.deepdotweb.com/tag/clinton/" rel="tag">clinton</a> <a href="https://www.deepdotweb.com/tag/days/" rel="tag">days</a> <a href="https://www.deepdotweb.com/tag/emails/" rel="tag">emails</a> <a href="https://www.deepdotweb.com/tag/finding/" rel="tag">finding</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/kills/" rel="tag">kills</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a></span> <span style="display:none" class="updated">2017-07-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

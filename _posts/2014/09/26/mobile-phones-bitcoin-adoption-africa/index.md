@@ -28,6 +28,4 @@ Mobile phones and Bitcoin adoption in Africa
     </div>
     <a href="https://www.deepdotweb.com/tag/adoption/" rel="tag">adoption</a> <a href="https://www.deepdotweb.com/tag/africa/" rel="tag">africa</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/mobile/" rel="tag">mobile</a> <a href="https://www.deepdotweb.com/tag/phones/" rel="tag">phones</a></span> <span style="display:none" class="updated">2014-09-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/denniswafula/" title="Posts by Dennis Wafula" rel="author">Dennis Wafula</a></strong></div>
-    </div>
-</article>
-
+    

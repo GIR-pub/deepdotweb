@@ -20,6 +20,4 @@ Secret Service agent cops plea on SR1 theft
     </div>
     <a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/cops/" rel="tag">cops</a> <a href="https://www.deepdotweb.com/tag/plea/" rel="tag">plea</a> <a href="https://www.deepdotweb.com/tag/secret/" rel="tag">secret</a> <a href="https://www.deepdotweb.com/tag/sr1/" rel="tag">sr1</a> <a href="https://www.deepdotweb.com/tag/theft/" rel="tag">theft</a></span> <span style="display:none" class="updated">2015-06-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

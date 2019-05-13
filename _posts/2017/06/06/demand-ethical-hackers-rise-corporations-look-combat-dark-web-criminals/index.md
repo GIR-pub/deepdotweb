@@ -24,6 +24,4 @@ Demand For Ethical Hackers Rise as Corporations Look to Combat Dark Web Criminal
     </div>
     <a href="https://www.deepdotweb.com/tag/combat/" rel="tag">combat</a> <a href="https://www.deepdotweb.com/tag/corporations/" rel="tag">corporations</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/demand/" rel="tag">demand</a> <a href="https://www.deepdotweb.com/tag/ethical/" rel="tag">ethical</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-06-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

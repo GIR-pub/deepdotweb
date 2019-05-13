@@ -21,6 +21,4 @@ NSA Leak Reveals Program that Spies on the Contents of Americans Communications
     </div>
     <a href="https://www.deepdotweb.com/tag/americans/" rel="tag">americans</a> <a href="https://www.deepdotweb.com/tag/communications/" rel="tag">communications</a> <a href="https://www.deepdotweb.com/tag/contents/" rel="tag">contents</a> <a href="https://www.deepdotweb.com/tag/leak/" rel="tag">leak</a> <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/program/" rel="tag">program</a> <a href="https://www.deepdotweb.com/tag/reveals/" rel="tag">reveals</a> <a href="https://www.deepdotweb.com/tag/spies/" rel="tag">spies</a></span> <span style="display:none" class="updated">2017-12-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

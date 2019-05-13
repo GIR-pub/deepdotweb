@@ -22,6 +22,4 @@ An Overview of Sniper Attacks Against the Tor Network &#038; Current Defenses
     </div>
     <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/current/" rel="tag">current</a> <a href="https://www.deepdotweb.com/tag/defenses/" rel="tag">defenses</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/overview/" rel="tag">overview</a> <a href="https://www.deepdotweb.com/tag/sniper/" rel="tag">sniper</a> </span> <span style="display:none" class="updated">2017-12-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

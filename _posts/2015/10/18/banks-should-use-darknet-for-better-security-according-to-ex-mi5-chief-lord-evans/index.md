@@ -19,6 +19,4 @@ Banks Should Use Darknet For Better Security According To Ex MI5 Chief Lord Evan
 <p>Several cybersecurity managers have shown their support to the former MI5 Chief’s statements. In an emailed comment to IBTimes UK, Richard Beck, head of cybersecurity at QA, made this statement: &#8220;The dark web is increasingly at the forefront of criminal innovation. Tapping into this hidden part of the Internet is the next chapter in the cat and mouse game of cybercrime being played out by the hackers and the IT security teams who continually try to catch them. Having an understanding of how the dark web works is the first step in being able to combat the illegal activities that go on there.&#8221;</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/banks/" rel="tag">banks</a> <a href="https://www.deepdotweb.com/tag/chief/" rel="tag">chief</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/evans/" rel="tag">evans</a> <a href="https://www.deepdotweb.com/tag/lord/" rel="tag">lord</a> <a href="https://www.deepdotweb.com/tag/mi5/" rel="tag">mi5</a> </span> <span style="display:none" class="updated">2015-10-18<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

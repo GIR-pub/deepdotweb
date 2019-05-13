@@ -25,6 +25,4 @@ Tor&#8217;s Co-Creator: Your Medical Records Have Bullseyes On Them
     </div>
     <a href="https://www.deepdotweb.com/tag/bullseyes/" rel="tag">bullseyes</a> <a href="https://www.deepdotweb.com/tag/cocreator/" rel="tag">cocreator</a> <a href="https://www.deepdotweb.com/tag/medical/" rel="tag">medical</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/tors/" rel="tag">tors</a></span> <span style="display:none" class="updated">2016-05-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Global Drug Survey requests your help!
     </div>
      <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/requests/" rel="tag">requests</a> <a href="https://www.deepdotweb.com/tag/survey/" rel="tag">survey</a></span> <span style="display:none" class="updated">2014-11-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/monicabarratt/" title="Posts by Monica Barratt" rel="author">Monica Barratt</a></strong></div>
-    </div>
-</article>
-
+    

@@ -68,6 +68,4 @@ Silk Road 2.0 Admin: Silk Road is Not Dead
     </div>
      <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/dead/" rel="tag">dead</a> </span> <span style="display:none" class="updated">2014-02-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

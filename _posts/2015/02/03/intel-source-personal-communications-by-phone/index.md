@@ -27,6 +27,4 @@ Intel Source – Personal Communications By Phone #2
 <p>Next time – how is it that your phone or the SIM card could completely fuck your life, even if YOU don’t get things wrong?</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/communications/" rel="tag">communications</a> <a href="https://www.deepdotweb.com/tag/intel/" rel="tag">intel</a> <a href="https://www.deepdotweb.com/tag/intelphone/" rel="tag">IntelPhone</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/phone/" rel="tag">phone</a> <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a></span> <span style="display:none" class="updated">2015-02-03<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-</div>
-</article>
 

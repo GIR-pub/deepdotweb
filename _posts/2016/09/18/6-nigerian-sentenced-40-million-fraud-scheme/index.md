@@ -19,6 +19,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/40/" rel="tag">40</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/nigerian/" rel="tag">nigerian</a> <a href="https://www.deepdotweb.com/tag/scheme/" rel="tag">scheme</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2016-09-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/joewebber/" title="Posts by Joe Webber" rel="author">Joe Webber</a></strong></div>
-    </div>
-</article>
-
+    

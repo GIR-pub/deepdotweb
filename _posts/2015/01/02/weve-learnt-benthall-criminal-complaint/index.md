@@ -45,6 +45,4 @@ What We&#8217;ve Learnt From the Benthall Criminal Complaint?
     </div>
     <a href="https://www.deepdotweb.com/tag/benthall/" rel="tag">benthall</a> <a href="https://www.deepdotweb.com/tag/complaint/" rel="tag">complaint</a> <a href="https://www.deepdotweb.com/tag/criminal/" rel="tag">criminal</a> <a href="https://www.deepdotweb.com/tag/learnt/" rel="tag">learnt</a></span> <span style="display:none" class="updated">2015-01-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

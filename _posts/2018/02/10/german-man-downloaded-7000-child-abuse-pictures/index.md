@@ -18,6 +18,4 @@ German Man Downloaded 7000 Child Abuse Pictures
 <p>Investigators found that the 60-year-old man had maintained contact with Peter Scully (likely prior to Scully’s arrest) and that the man had sent Scully money. They failed to find out the level of interaction the man had with <a href="https://www.deepdotweb.com/2016/09/30/death-penalty-call-child-sex-offender-peter-scully-philippines/">the darknet’s most notorious pedophile</a>. Without proof of anything more than receiving and viewing the pictures and videos he had downloaded, the court sentenced the man to spend three years and three months in prison.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/7000/" rel="tag">7000</a> <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/downloaded/" rel="tag">downloaded</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/pictures/" rel="tag">pictures</a></span> <span style="display:none" class="updated">2018-02-10<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

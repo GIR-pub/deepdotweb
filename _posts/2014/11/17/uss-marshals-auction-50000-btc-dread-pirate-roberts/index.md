@@ -22,6 +22,4 @@ USS Marshals Auction: 50,000 BTC from Dread Pirate Roberts
     </div>
     <a href="https://www.deepdotweb.com/tag/50000/" rel="tag">50000</a> <a href="https://www.deepdotweb.com/tag/auction/" rel="tag">auction</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/dread/" rel="tag">dread</a> <a href="https://www.deepdotweb.com/tag/marshals/" rel="tag">marshals</a> <a href="https://www.deepdotweb.com/tag/pirate/" rel="tag">pirate</a> <a href="https://www.deepdotweb.com/tag/roberts/" rel="tag">roberts</a> <a href="https://www.deepdotweb.com/tag/uss/" rel="tag">uss</a></span> <span style="display:none" class="updated">2014-11-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

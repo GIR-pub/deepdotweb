@@ -32,6 +32,4 @@ Monitoring Malicious Activities On Darknets &#8211; A Research Study
     </div>
     <a href="https://www.deepdotweb.com/tag/activities/" rel="tag">activities</a> <a href="https://www.deepdotweb.com/tag/darknets/" rel="tag">darknets</a> <a href="https://www.deepdotweb.com/tag/malicious/" rel="tag">malicious</a> <a href="https://www.deepdotweb.com/tag/monitoring/" rel="tag">monitoring</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a></span> <span style="display:none" class="updated">2017-06-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

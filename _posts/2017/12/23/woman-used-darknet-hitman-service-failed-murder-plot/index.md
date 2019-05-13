@@ -25,6 +25,4 @@ Woman Used Darknet Hitman Service in Failed Murder Plot
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a> <a href="https://www.deepdotweb.com/tag/hitman/" rel="tag">hitman</a> <a href="https://www.deepdotweb.com/tag/murder/" rel="tag">murder</a> <a href="https://www.deepdotweb.com/tag/plot/" rel="tag">plot</a> <a href="https://www.deepdotweb.com/tag/woman/" rel="tag">woman</a></span> <span style="display:none" class="updated">2017-12-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

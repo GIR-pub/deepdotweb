@@ -19,6 +19,4 @@ tag-change tag-hackers tag-hacking tag-politics
 <p>Hacking has been increasingly influencing the world&#8217;s politics during the past few years and the recent incrimination of Russian intelligence manipulation of the US presidential elections represents the tip of the iceberg. Whether or not this incident can entirely reshape the current global political model, hacking is definitely one of the most powerful weapons of future&#8217;s warfare.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/change/" rel="tag">change</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/politics/" rel="tag">politics</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2017-03-03<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

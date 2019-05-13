@@ -35,6 +35,4 @@ Bitcoin Price Analysis 27th August
 <p>This week I am bullish to sideways. From the $316 top, we are in a sloping trend that has held well so far. After looking at EMA’s, $240 looks a reasonable target for a top. I expect prices to continue going up on this move and possibly pushed down at the $240 level back to range within the rectangle. Because of time estimates, this week might see both up and a return to within the rectangular trend. Huge moves such as Mondays take time to consolidate, thus, a sideways trend similar to 2 other indicate seems likely.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/27th/" rel="tag">27th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-08-27<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

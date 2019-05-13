@@ -1,12 +1,9 @@
 ---
-title: "The Future of Cyberspace Anonymity
+title: "The Future of Cyberspace Anonymity"
 ---
-2319  tag-anonymity tag-cyberspace tag-future">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 5, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/12/05/the-future-of-cyberspace-anonymity/#respond">Leave a comment</a></span>
 
 
 <p>In its simplest concept, anonymity is a form of protection from the possibility of retribution or retaliation.  While major government powers and corporations see anonymity as a threat (often arguing that anonymity only serves to protect criminals), it has shielded political activists, journalists, and even investigators.  Anonymity is a tool –a tool that can be utilized for both wholesome and nefarious purposes.</p>
@@ -31,6 +28,5 @@ title: "The Future of Cyberspace Anonymity
 <p>Authorities would either have to beat the anonymous community in an escalation race, outlaw anything with an internet connection, or do away with electricity altogether.</p>
 <p>The effort would cost them far more than they’d hope to pay, and accomplish far less than they’d hoped to achieve.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/cyberspace/" rel="tag">cyberspace</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a>
 
 Updated: 2013-12-05

@@ -21,6 +21,4 @@ Why Undercover Gun Sellers Are Here To Stay?
     </div>
     <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/sellers/" rel="tag">sellers</a> <a href="https://www.deepdotweb.com/tag/stay/" rel="tag">stay</a> <a href="https://www.deepdotweb.com/tag/undercover/" rel="tag">undercover</a></span> <span style="display:none" class="updated">2015-05-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

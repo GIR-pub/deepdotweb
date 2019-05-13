@@ -22,6 +22,4 @@ USPS Employee Admits Selling Drugs on the Darknet
 <p>His guilty plea forced him into a sentencing bracket with a mandatory minimum sentence of five years. The maximum will be determined on August 13 before U.S. District Judge Deborah K. Chasanow.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/usps/" rel="tag">usps</a></span> <span style="display:none" class="updated">2018-05-30<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

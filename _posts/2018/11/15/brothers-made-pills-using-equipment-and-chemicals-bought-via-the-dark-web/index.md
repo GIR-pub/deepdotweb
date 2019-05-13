@@ -23,6 +23,4 @@ Brothers Made Pills Using Equipment and Chemicals Bought via the Dark Web
 <p>Evan and Matthew appeared before the judge with a defense attorney and both of them entered a not guilty plea despite having allegedly admitted being the masterminds behind the drug-making operation to the police. Considering the evidence presented before him, Judge Houser held the two brothers on a $100,000 bail and said that the complicated nature of their criminal operation drove him into setting the bail amount so high. Judge house scheduled their trial for the 10th of December.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/brothers/" rel="tag">brothers</a> <a href="https://www.deepdotweb.com/tag/chemicals/" rel="tag">chemicals</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/equipment/" rel="tag">equipment</a> <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-11-15<a href="https://www.deepdotweb.com/author/cashcard/" title="Posts by CashCard" rel="author">CashCard</a></strong></div>
-</div>
-</article>
 

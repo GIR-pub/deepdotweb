@@ -33,6 +33,4 @@ The Unfortunate Rise of America’s Recreational Xanax Addiction
     </div>
     <a href="https://www.deepdotweb.com/tag/addiction/" rel="tag">addiction</a> <a href="https://www.deepdotweb.com/tag/americas/" rel="tag">americas</a> <a href="https://www.deepdotweb.com/tag/recreational/" rel="tag">recreational</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a> <a href="https://www.deepdotweb.com/tag/unfortunate/" rel="tag">unfortunate</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2016-06-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/jfc/" title="Posts by JFC" rel="author">JFC</a></strong></div>
-    </div>
-</article>
-
+    

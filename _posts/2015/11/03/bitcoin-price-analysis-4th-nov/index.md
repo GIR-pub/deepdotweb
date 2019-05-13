@@ -38,6 +38,4 @@ Bitcoin Price Analysis 4th Nov
 <p>A 2-year daily moving average sits above price at $ 425. Watch it!</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/3rd/" rel="tag">3rd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-11-03<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

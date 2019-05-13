@@ -238,6 +238,4 @@ Acropolis Market Update, Traditional Escrow Introduced
     </div>
     <a href="https://www.deepdotweb.com/tag/acropolis/" rel="tag">acropolis</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/introduced/" rel="tag">introduced</a> <a href="https://www.deepdotweb.com/tag/traditional/" rel="tag">traditional</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2016-03-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

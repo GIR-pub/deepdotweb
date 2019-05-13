@@ -19,6 +19,4 @@ Couple Paid Child&#8217;s Tutor with Amphetamine
 <p>Because the teenager said that he would seek counseling for drug use and had provided the police with a credible testimony, the court passed down a juvenile sentence of one year on probation. The former couple received probation sentences of one year and six months. Both must receive formal drug treatment. The ex-wife will spend some time in an inpatient detoxification facility and the ex-husband will receive additional addiction therapy.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a> <a href="https://www.deepdotweb.com/tag/childs/" rel="tag">childs</a> <a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a> <a href="https://www.deepdotweb.com/tag/paid/" rel="tag">paid</a> <a href="https://www.deepdotweb.com/tag/tutor/" rel="tag">tutor</a></span> <span style="display:none" class="updated">2018-01-10<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

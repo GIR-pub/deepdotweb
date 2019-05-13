@@ -20,6 +20,4 @@ Illinois to Decriminalize Small Amounts of Marijuana
     </div>
     <a href="https://www.deepdotweb.com/tag/amounts/" rel="tag">amounts</a> <a href="https://www.deepdotweb.com/tag/decriminalize/" rel="tag">decriminalize</a> <a href="https://www.deepdotweb.com/tag/illinois/" rel="tag">illinois</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/small/" rel="tag">small</a></span> <span style="display:none" class="updated">2016-07-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

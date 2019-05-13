@@ -24,6 +24,4 @@ French Minister Issues Nationwide Warning on Cyberattacks, Major Infrastructure 
     </div>
     <a href="https://www.deepdotweb.com/tag/cyberattacks/" rel="tag">cyberattacks</a> <a href="https://www.deepdotweb.com/tag/french/" rel="tag">french</a> <a href="https://www.deepdotweb.com/tag/infrastructure/" rel="tag">infrastructure</a> <a href="https://www.deepdotweb.com/tag/issues/" rel="tag">issues</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/minister/" rel="tag">minister</a> <a href="https://www.deepdotweb.com/tag/nationwide/" rel="tag">nationwide</a> <a href="https://www.deepdotweb.com/tag/providers/" rel="tag">providers</a> <a href="https://www.deepdotweb.com/tag/trouble/" rel="tag">trouble</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span> <span style="display:none" class="updated">2017-01-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

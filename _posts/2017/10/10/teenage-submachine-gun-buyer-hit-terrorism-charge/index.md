@@ -22,6 +22,4 @@ Teenage Submachine Gun Buyer Hit with a Terrorism Charge
 <p>The suspect had, in his possession, a file that only someone committing or preparing to commit an act of terror would own. The file was titled “Eth.txt” and contained a guide on manufacturing erythritol tetranitrate, an explosive with similar properties to the military explosive PETN.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/charge/" rel="tag">charge</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/hit/" rel="tag">hit</a> <a href="https://www.deepdotweb.com/tag/submachine/" rel="tag">submachine</a> <a href="https://www.deepdotweb.com/tag/teenage/" rel="tag">teenage</a> <a href="https://www.deepdotweb.com/tag/terrorism/" rel="tag">terrorism</a></span> <span style="display:none" class="updated">2017-10-10<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

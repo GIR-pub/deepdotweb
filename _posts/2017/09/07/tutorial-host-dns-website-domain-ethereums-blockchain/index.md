@@ -48,6 +48,4 @@ tag-blockchain tag-dns tag-domain tag-ethereums tag-tutorial tag-website">
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/dns/" rel="tag">dns</a> <a href="https://www.deepdotweb.com/tag/domain/" rel="tag">domain</a> <a href="https://www.deepdotweb.com/tag/ethereums/" rel="tag">ethereums</a>  <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/website/" rel="tag">website</a></span> <span style="display:none" class="updated">2017-09-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

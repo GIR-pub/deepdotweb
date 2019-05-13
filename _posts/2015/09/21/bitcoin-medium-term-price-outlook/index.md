@@ -55,6 +55,4 @@ Bitcoin Medium Term Price Outlook
 <p>I also expect speculation on halving to drive up the price to a significant level &#8211; not a bull run, just enough to make significant returns, $450 &#8211; $500. Overall however, I do not expect the all time high at $1175 to be broken before 2018.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/medium/" rel="tag">medium</a> <a href="https://www.deepdotweb.com/tag/outlook/" rel="tag">outlook</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/term/" rel="tag">term</a></span> <span style="display:none" class="updated">2015-09-21<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

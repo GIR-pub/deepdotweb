@@ -23,6 +23,4 @@ Department of Treasury Fears Hackers Could Disrupt US Economy
     </div>
     <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a> <a href="https://www.deepdotweb.com/tag/disrupt/" rel="tag">disrupt</a> <a href="https://www.deepdotweb.com/tag/economy/" rel="tag">economy</a> <a href="https://www.deepdotweb.com/tag/fears/" rel="tag">fears</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/treasury/" rel="tag">treasury</a></span> <span style="display:none" class="updated">2016-07-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

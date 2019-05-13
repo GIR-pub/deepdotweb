@@ -25,6 +25,4 @@ tag-georgia tag-gold tag-mining tag-profitable tag-rush">
 <p>Cryptocurrency trades are executed with the help of exchange services and digital wallets opened in different countries and their legal status is not confirmed in some cases. Based on this, people who use such platforms for transactions can face financial and legal risks. At the same time, they can be a potential target for cyberattacks. Cryptocurrencies anonymity makes them attractive for illegal activity including money laundering. The national bank of Georgia encourages citizens to proceed cautiously while using cryptocurrencies and to take the above mentioned circumstances into consideration.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/gold/" rel="tag">gold</a> <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a> <a href="https://www.deepdotweb.com/tag/profitable/" rel="tag">profitable</a> <a href="https://www.deepdotweb.com/tag/rush/" rel="tag">rush</a></span> <span style="display:none" class="updated">2018-02-01<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
-</div>
-</article>
 

@@ -21,6 +21,4 @@ Mozilla implementing Tor privacy features in Firefox builds
     </div>
     <a href="https://www.deepdotweb.com/tag/builds/" rel="tag">builds</a> <a href="https://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="https://www.deepdotweb.com/tag/firefox/" rel="tag">firefox</a> <a href="https://www.deepdotweb.com/tag/implementing/" rel="tag">implementing</a> <a href="https://www.deepdotweb.com/tag/mozilla/" rel="tag">mozilla</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> </span> <span style="display:none" class="updated">2016-07-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

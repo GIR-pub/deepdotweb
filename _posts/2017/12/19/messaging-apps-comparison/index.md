@@ -57,6 +57,4 @@ Messaging Apps Comparison
     </div>
     <a href="https://www.deepdotweb.com/tag/apps/" rel="tag">apps</a> <a href="https://www.deepdotweb.com/tag/comparison/" rel="tag">comparison</a> <a href="https://www.deepdotweb.com/tag/messaging/" rel="tag">messaging</a></span> <span style="display:none" class="updated">2017-12-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/puppie/" title="Posts by Puppie" rel="author">Puppie</a></strong></div>
-    </div>
-</article>
-
+    

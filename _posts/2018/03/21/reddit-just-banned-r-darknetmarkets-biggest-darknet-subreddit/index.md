@@ -22,6 +22,4 @@ Updated: List of Dark Net Markets (Tor &amp; I2P)</a></p>
 <p>While doing this also be aware that there are many phishing clones of DeepdotWeb, copies of the site with &#8220;typos&#8221; in the domains name &#8211; avoid these at ALL COSTS &#8211; if you see any onion link ending with &#8220;.top&#8221; turn back immedietly, you are on the wrong site. We will post more information once a new credible source has been established.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/banned/" rel="tag">banned</a> <a href="https://www.deepdotweb.com/tag/biggest/" rel="tag">biggest</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/rdarknetmarkets/" rel="tag">rdarknetmarkets</a><a href="https://www.deepdotweb.com/tag/subreddit/" rel="tag">subreddit</a></span> <span style="display:none" class="updated">2018-03-21<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

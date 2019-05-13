@@ -37,6 +37,4 @@ Bitcoin Price Analysis 19th August
 <p>Despite breaking out from the 18 month long bear trend dating back to December 2013, it doesn’t seem to have been convincing as can be seen above. The upper trend line sits squarely between current prices and heading back into the bear channel. Back into the channel would mean the last 2 months were a sharp projection out of the channel and not really a break out. The implications of a resumed bear trend would mean possible targets of $100 (bottom channel support). For now, we wait.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/19th/" rel="tag">19th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-08-19<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

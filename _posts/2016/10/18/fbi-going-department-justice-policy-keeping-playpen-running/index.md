@@ -22,6 +22,4 @@ Was the FBI Going Against Department of Justice Policy by Keeping Playpen Runnin
     </div>
     <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a> <a href="https://www.deepdotweb.com/tag/justice/" rel="tag">justice</a> <a href="https://www.deepdotweb.com/tag/keeping/" rel="tag">keeping</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/policy/" rel="tag">policy</a> <a href="https://www.deepdotweb.com/tag/running/" rel="tag">running</a></span> <span style="display:none" class="updated">2016-10-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

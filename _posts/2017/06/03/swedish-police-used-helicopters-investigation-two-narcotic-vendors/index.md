@@ -26,6 +26,4 @@ Swedish Police Used Helicopters In The Investigation Against Two Narcotic Vendor
     </div>
     <a href="https://www.deepdotweb.com/tag/helicopters/" rel="tag">helicopters</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/narcotic/" rel="tag">narcotic</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/swedish/" rel="tag">swedish</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-06-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -27,6 +27,4 @@ Pymultisigtools: Multi-Platform Signing Solution
     </div>
     <a href="https://www.deepdotweb.com/tag/multiplatform/" rel="tag">multiplatform</a> <a href="https://www.deepdotweb.com/tag/pymultisigtools/" rel="tag">pymultisigtools</a> <a href="https://www.deepdotweb.com/tag/signing/" rel="tag">signing</a> <a href="https://www.deepdotweb.com/tag/solution/" rel="tag">solution</a></span> <span style="display:none" class="updated">2014-05-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

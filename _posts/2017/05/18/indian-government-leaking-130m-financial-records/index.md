@@ -28,6 +28,4 @@ Indian Government Leaking 130m Financial Records
     </div>
     <a href="https://www.deepdotweb.com/tag/130m/" rel="tag">130m</a> <a href="https://www.deepdotweb.com/tag/financial/" rel="tag">financial</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/indian/" rel="tag">indian</a> <a href="https://www.deepdotweb.com/tag/leaking/" rel="tag">leaking</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a></span> <span style="display:none" class="updated">2017-05-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

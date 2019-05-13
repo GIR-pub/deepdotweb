@@ -33,6 +33,4 @@ Ohio Inmates Built and Secretly Used PCs for Years
     </div>
     <a href="https://www.deepdotweb.com/tag/built/" rel="tag">built</a> <a href="https://www.deepdotweb.com/tag/inmates/" rel="tag">inmates</a> <a href="https://www.deepdotweb.com/tag/ohio/" rel="tag">ohio</a> <a href="https://www.deepdotweb.com/tag/pcs/" rel="tag">pcs</a> <a href="https://www.deepdotweb.com/tag/secretly/" rel="tag">secretly</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-04-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

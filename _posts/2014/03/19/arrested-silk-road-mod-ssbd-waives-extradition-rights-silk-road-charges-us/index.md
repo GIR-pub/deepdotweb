@@ -34,6 +34,4 @@ Arrested Silk Road Mod SSBD waives extradition rights over Silk Road charges in 
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/mod/" rel="tag">mod</a> <a href="https://www.deepdotweb.com/tag/rights/" rel="tag">rights</a>  <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a> <a href="https://www.deepdotweb.com/tag/waives/" rel="tag">waives</a></span> <span style="display:none" class="updated">2014-03-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

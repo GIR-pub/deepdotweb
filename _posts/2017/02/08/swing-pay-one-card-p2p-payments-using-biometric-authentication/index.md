@@ -31,6 +31,4 @@ Swing-Pay &#8211; One Card for all P2P Payments Using Biometric Authentication
     </div>
     <a href="https://www.deepdotweb.com/tag/authentication/" rel="tag">authentication</a> <a href="https://www.deepdotweb.com/tag/biometric/" rel="tag">biometric</a> <a href="https://www.deepdotweb.com/tag/card/" rel="tag">card</a> <a href="https://www.deepdotweb.com/tag/p2p/" rel="tag">p2p</a> <a href="https://www.deepdotweb.com/tag/payments/" rel="tag">payments</a> <a href="https://www.deepdotweb.com/tag/swingpay/" rel="tag">swingpay</a></span> <span style="display:none" class="updated">2017-02-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

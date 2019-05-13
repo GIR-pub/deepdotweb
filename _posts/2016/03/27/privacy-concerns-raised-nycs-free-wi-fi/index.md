@@ -27,6 +27,4 @@ Privacy Concerns Raised Over NYC&#8217;s Free Wi-Fi
     </div>
     <a href="https://www.deepdotweb.com/tag/concerns/" rel="tag">concerns</a> <a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/nycs/" rel="tag">nycs</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/raised/" rel="tag">raised</a> <a href="https://www.deepdotweb.com/tag/wifi/" rel="tag">wifi</a></span> <span style="display:none" class="updated">2016-03-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

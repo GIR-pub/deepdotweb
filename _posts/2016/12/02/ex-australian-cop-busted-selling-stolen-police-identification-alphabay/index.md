@@ -29,6 +29,4 @@ Ex Australian Cop Busted for Selling Stolen Police Identification on Alphabay
     </div>
     <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/australian/" rel="tag">australian</a>  <a href="https://www.deepdotweb.com/tag/cop/" rel="tag">cop</a> <a href="https://www.deepdotweb.com/tag/identification/" rel="tag">identification</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2016-12-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

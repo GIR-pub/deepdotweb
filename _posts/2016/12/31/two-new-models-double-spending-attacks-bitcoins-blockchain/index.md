@@ -44,6 +44,4 @@ Two New Models For Double Spending Attacks On Bitcoin&#8217;s Blockchain
     </div>
     <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/double/" rel="tag">double</a> <a href="https://www.deepdotweb.com/tag/models/" rel="tag">models</a> <a href="https://www.deepdotweb.com/tag/spending/" rel="tag">spending</a></span> <span style="display:none" class="updated">2016-12-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

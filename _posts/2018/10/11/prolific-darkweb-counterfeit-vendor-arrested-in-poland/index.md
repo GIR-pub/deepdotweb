@@ -20,6 +20,4 @@ Prolific Darkweb Counterfeit Vendor Arrested in Poland
 <p>The suspect lived in the city of Gdynia. Polish police caught the man as he was preparing to drop off dozens of packages of counterfeit notes addressed to customers spread throughout Europe. The police found thousands of fake notes at his home and ample evidence that he had been producing and selling counterfeits. Europol reported that he had distributed at least 10,000 notes over the course of several years. His darkweb vendor account had “a strong reputation.” If convicted of producing counterfeit notes, the defendant will leave a minimum sentence of five years in prison.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/poland/" rel="tag">poland</a> <a href="https://www.deepdotweb.com/tag/prolific/" rel="tag">prolific</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-10-11<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

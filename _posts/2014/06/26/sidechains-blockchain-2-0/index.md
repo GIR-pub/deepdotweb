@@ -32,6 +32,4 @@ Introduction To Sidechains and Blockchain 2.0
     </div>
      <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/sidechains/" rel="tag">sidechains</a></span> <span style="display:none" class="updated">2014-06-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    </div>
-</article>
-
+    

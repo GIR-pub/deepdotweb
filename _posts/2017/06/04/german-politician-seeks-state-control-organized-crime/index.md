@@ -19,6 +19,4 @@ German Politician Seeks More State Control Over Organized Crime
     </div>
     <a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/organized/" rel="tag">organized</a> <a href="https://www.deepdotweb.com/tag/politician/" rel="tag">politician</a> <a href="https://www.deepdotweb.com/tag/seeks/" rel="tag">seeks</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a></span> <span style="display:none" class="updated">2017-06-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

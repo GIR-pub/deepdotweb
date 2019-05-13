@@ -32,6 +32,4 @@ TradeRoute Went Down Following a Major Security Leak
     </div>
     <a href="https://www.deepdotweb.com/tag/leak/" rel="tag">leak</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a>  <a href="https://www.deepdotweb.com/tag/traderoute/" rel="tag">traderoute</a></span> <span style="display:none" class="updated">2017-10-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

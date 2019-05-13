@@ -22,6 +22,4 @@ NZ Underworld: &#8220;Catch Us if You Can&#8221;
     This month a 20-year old student was jailed for seven years for importing a &#8220;supermarket of drugs&#8221; worth $167,000 from Silk Road via post office boxes around Dunedin. Another non related conviction went to a 31-year-old man who was jailed eight years for importing packages of methamphetamine, ecstasy and LSD ordered online from Las Vegas to his mother&#8217;s house according to local media.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a></span> <span style="display:none" class="updated">2015-08-06<a href="https://www.deepdotweb.com/author/johnnywalker/" title="Posts by Johnny Walker" rel="author">Johnny Walker</a></strong></div>
-</div>
-</article>
 

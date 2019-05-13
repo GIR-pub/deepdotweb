@@ -84,6 +84,4 @@ Alphabay Updates UI, Introduce New Onion Cloner Countermeasure
     </div>
     <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/cloner/" rel="tag">cloner</a> <a href="https://www.deepdotweb.com/tag/countermeasure/" rel="tag">countermeasure</a> <a href="https://www.deepdotweb.com/tag/introduce/" rel="tag">introduce</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/ui/" rel="tag">ui</a> <a href="https://www.deepdotweb.com/tag/updates/" rel="tag">updates</a></span> <span style="display:none" class="updated">2015-11-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

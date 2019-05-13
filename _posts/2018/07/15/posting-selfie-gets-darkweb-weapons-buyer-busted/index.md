@@ -24,6 +24,4 @@ Posting Selfie Gets Darkweb Weapons Buyer Busted
 <p>Zhang applied for bail last week, offering to pay $1,000,000 to be placed under house arrest, but the judge denied his application. He is still in custody and will appear in court on July 5, for his sentencing.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/posting/" rel="tag">posting</a> <a href="https://www.deepdotweb.com/tag/selfie/" rel="tag">selfie</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span> <span style="display:none" class="updated">2018-07-15<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

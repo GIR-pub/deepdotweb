@@ -22,6 +22,4 @@ Nigeria Lacks a 2017 Cybersecurity Strategy but Faces the Most Cybercrime Ever S
     </div>
     <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/cybersecurity/" rel="tag">cybersecurity</a> <a href="https://www.deepdotweb.com/tag/faces/" rel="tag">faces</a> <a href="https://www.deepdotweb.com/tag/lacks/" rel="tag">lacks</a> <a href="https://www.deepdotweb.com/tag/nigeria/" rel="tag">nigeria</a> <a href="https://www.deepdotweb.com/tag/strategy/" rel="tag">strategy</a></span> <span style="display:none" class="updated">2017-01-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

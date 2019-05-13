@@ -23,6 +23,4 @@ Over 10,000 Firearms Seized in Spain, Bought on the Darknet
     </div>
     <a href="https://www.deepdotweb.com/tag/10000/" rel="tag">10000</a> <a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/firearms/" rel="tag">firearms</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/spain/" rel="tag">spain</a></span> <span style="display:none" class="updated">2017-02-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

@@ -28,6 +28,4 @@ More on Hurt-core King Pin David Graham
     </div>
     <a href="https://www.deepdotweb.com/tag/david/" rel="tag">david</a> <a href="https://www.deepdotweb.com/tag/graham/" rel="tag">graham</a> <a href="https://www.deepdotweb.com/tag/hurtcore/" rel="tag">hurtcore</a> <a href="https://www.deepdotweb.com/tag/king/" rel="tag">king</a> <a href="https://www.deepdotweb.com/tag/pin/" rel="tag">pin</a></span> <span style="display:none" class="updated">2016-05-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -21,6 +21,4 @@ MDMA Buyer Tells Police Where to Find His PO Box, Proceeds to Order More MDMA
     </div>
     <a href="https://www.deepdotweb.com/tag/box/" rel="tag">box</a> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/find/" rel="tag">find</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/order/" rel="tag">order</a> <a href="https://www.deepdotweb.com/tag/po/" rel="tag">po</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/proceeds/" rel="tag">proceeds</a> <a href="https://www.deepdotweb.com/tag/tells/" rel="tag">tells</a></span> <span style="display:none" class="updated">2016-12-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -21,6 +21,4 @@ Market Is Currently Up Or Down? Check Our Sidebar!
     </div>
     <a href="https://www.deepdotweb.com/tag/check/" rel="tag">check</a> <a href="https://www.deepdotweb.com/tag/sidebar-2/" rel="tag">sidebar</a></span> <span style="display:none" class="updated">2014-05-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

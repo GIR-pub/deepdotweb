@@ -25,6 +25,4 @@ Italian Police Arrested Four Members of a Darknet Child Porn Ring, Identified 12
     </div>
     <a href="https://www.deepdotweb.com/tag/120/" rel="tag">120</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/identified/" rel="tag">identified</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/members/" rel="tag">members</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a></span> <span style="display:none" class="updated">2016-11-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

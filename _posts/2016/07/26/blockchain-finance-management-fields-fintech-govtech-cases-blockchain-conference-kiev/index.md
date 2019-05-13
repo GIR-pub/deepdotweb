@@ -23,6 +23,4 @@ Blockchain in finance and management fields. Fintech and govtech cases at Blockc
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/cases/" rel="tag">cases</a> <a href="https://www.deepdotweb.com/tag/conference/" rel="tag">conference</a> <a href="https://www.deepdotweb.com/tag/fields/" rel="tag">fields</a> <a href="https://www.deepdotweb.com/tag/finance/" rel="tag">finance</a> <a href="https://www.deepdotweb.com/tag/fintech/" rel="tag">fintech</a> <a href="https://www.deepdotweb.com/tag/govtech/" rel="tag">govtech</a> <a href="https://www.deepdotweb.com/tag/kiev/" rel="tag">kiev</a> <a href="https://www.deepdotweb.com/tag/management/" rel="tag">management</a></span> <span style="display:none" class="updated">2016-07-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

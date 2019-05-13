@@ -25,6 +25,4 @@ Applying Crypto Decentralization to the Physical World: Government
     <a href="https://www.deepdotweb.com/tag/bit-thereum/" rel="tag">Bit-thereum</a> <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a></span> <span style="display:none" class="updated">2014-07-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
     
-    </div>
-</article>
-
+    

@@ -20,6 +20,4 @@ Doxxing or informing; the DNM Drug Dealer’s only Coercive Tool
     </div>
     <a href="https://www.deepdotweb.com/tag/coercive/" rel="tag">coercive</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/doxxing/" rel="tag">doxxing</a>  <a href="https://www.deepdotweb.com/tag/informing/" rel="tag">informing</a> <a href="https://www.deepdotweb.com/tag/tool/" rel="tag">tool</a></span> <span style="display:none" class="updated">2015-07-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

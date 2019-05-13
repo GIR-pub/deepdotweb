@@ -20,6 +20,4 @@ Group of Silk Road Dealers Sentenced to Prison
 <p>In total, the sentences added up to 56 years in prison. Judge Michael Leeming passed the lengthiest prison sentence down to Assaf for his role as the ring leader. He got a prison sentence of 15 years and three months. Roden caught a 12 year prison sentence. Hyams got a slightly shorter prison sentence of 11 year and three months. Patel received 11 years and two months in prison. And Morgan, for his role as the group&#8217;s shipper, caught the shortest sentence at 7 years and two months in prison.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2018-04-04<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

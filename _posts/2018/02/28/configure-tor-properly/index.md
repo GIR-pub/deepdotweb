@@ -46,6 +46,4 @@ tag-configure tag-properly
 </ul>
 </div>
 <a href="https://www.deepdotweb.com/tag/configure/" rel="tag">configure</a> <a href="https://www.deepdotweb.com/tag/properly/" rel="tag">properly</a> </span> <span style="display:none" class="updated">2018-02-28<a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
-</div>
-</article>
 

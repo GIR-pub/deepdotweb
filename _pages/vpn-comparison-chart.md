@@ -736,8 +736,6 @@ $2 for&nbsp;2 day&nbsp;trial.</p>
 Updated: 2015-10-09</span>
 
 </div>
-</article>
-</div>
 <div class="clear"></div>
 </div>
 <footer id="theme-footer">

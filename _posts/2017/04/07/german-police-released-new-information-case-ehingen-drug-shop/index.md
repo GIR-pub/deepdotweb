@@ -25,6 +25,4 @@ German Police Released New Information In The Case Of The Ehingen Drug Shop
     </div>
     <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a>  <a href="https://www.deepdotweb.com/tag/ehingen/" rel="tag">ehingen</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="https://www.deepdotweb.com/tag/shop/" rel="tag">shop</a></span> <span style="display:none" class="updated">2017-04-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

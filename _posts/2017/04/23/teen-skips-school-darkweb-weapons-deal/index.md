@@ -23,6 +23,4 @@ Teen Skips School for a Darkweb Weapons Deal
     </div>
     <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/deal/" rel="tag">deal</a> <a href="https://www.deepdotweb.com/tag/school/" rel="tag">school</a> <a href="https://www.deepdotweb.com/tag/skips/" rel="tag">skips</a> <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span> <span style="display:none" class="updated">2017-04-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

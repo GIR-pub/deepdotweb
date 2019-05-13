@@ -31,6 +31,4 @@ NSA Revelations You Need To Know About
     </div>
     <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/revelations/" rel="tag">revelations</a></span> <span style="display:none" class="updated">2014-09-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
-    </div>
-</article>
-
+    

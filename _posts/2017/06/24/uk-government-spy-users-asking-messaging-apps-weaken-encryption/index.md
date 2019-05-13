@@ -27,6 +27,4 @@ UK Government to Spy on Users by Asking Messaging Apps to Weaken Encryption
     </div>
     <a href="https://www.deepdotweb.com/tag/apps/" rel="tag">apps</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/messaging/" rel="tag">messaging</a> <a href="https://www.deepdotweb.com/tag/spy/" rel="tag">spy</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/weaken/" rel="tag">weaken</a></span> <span style="display:none" class="updated">2017-06-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

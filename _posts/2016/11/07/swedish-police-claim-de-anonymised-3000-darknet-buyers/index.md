@@ -25,6 +25,4 @@ Swedish Police Claim to Have De-Anonymised 3,000 Darknet Buyers
     </div>
     <a href="https://www.deepdotweb.com/tag/3000/" rel="tag">3000</a> <a href="https://www.deepdotweb.com/tag/buyers/" rel="tag">buyers</a> <a href="https://www.deepdotweb.com/tag/claim/" rel="tag">claim</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/deanonymised/" rel="tag">deanonymised</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/swedish/" rel="tag">swedish</a></span> <span style="display:none" class="updated">2016-11-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

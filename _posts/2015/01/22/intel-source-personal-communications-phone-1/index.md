@@ -24,6 +24,4 @@ Intel Source – Personal Communications By Phone #1
     </div>
     <a href="https://www.deepdotweb.com/tag/communications/" rel="tag">communications</a> <a href="https://www.deepdotweb.com/tag/intel/" rel="tag">intel</a> <a href="https://www.deepdotweb.com/tag/intelphone/" rel="tag">IntelPhone</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/phone/" rel="tag">phone</a> <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a></span> <span style="display:none" class="updated">2015-01-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

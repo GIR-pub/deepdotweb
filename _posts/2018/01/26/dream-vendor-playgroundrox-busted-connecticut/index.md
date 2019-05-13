@@ -21,6 +21,4 @@ Dream Vendor ‘playgroundROX’ Busted in Connecticut
 <p>The United States Attorney announced that a scheduling hearing had been set for April 4 in front of U.S. District Judge Vanessa L. Bryant. Until then, Ceplenski is free on bail.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/connecticut/" rel="tag">connecticut</a> <a href="https://www.deepdotweb.com/tag/dream/" rel="tag">dream</a> <a href="https://www.deepdotweb.com/tag/playgroundrox/" rel="tag">playgroundrox</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-01-26<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

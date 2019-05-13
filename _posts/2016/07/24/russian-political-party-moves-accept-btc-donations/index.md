@@ -19,6 +19,4 @@ Russian Political Party Moves to Accept BTC Donations
     </div>
     <a href="https://www.deepdotweb.com/tag/accept/" rel="tag">accept</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/donations/" rel="tag">donations</a> <a href="https://www.deepdotweb.com/tag/moves/" rel="tag">moves</a> <a href="https://www.deepdotweb.com/tag/party/" rel="tag">party</a> <a href="https://www.deepdotweb.com/tag/political/" rel="tag">political</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a></span> <span style="display:none" class="updated">2016-07-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

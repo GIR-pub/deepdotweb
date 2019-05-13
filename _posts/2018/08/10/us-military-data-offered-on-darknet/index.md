@@ -26,6 +26,4 @@ US Military Data Offered on Darknet
 <p>Meanwhile, investigations remain ongoing on the activities of the man. It is not clear whether he acted alone or on behalf of another country. It is however, more probable that he acted on his own. It is also not known if he just chanced on the router vulnerability or specifically targeted the military device.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/military/" rel="tag">military</a> <a href="https://www.deepdotweb.com/tag/offered/" rel="tag">offered</a></span> <span style="display:none" class="updated">2018-08-10<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

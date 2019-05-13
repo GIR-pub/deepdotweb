@@ -18,6 +18,4 @@ Elysium Members Sentenced for Child Abuse in Vienna
 <p>The father received a 14-year prison sentence, the mother received seven years, and the accomplice met on the darknet received 12 years. Both men received serious sexual assault convictions, portraying sexual abuse of children, and rape. The woman for aiding the men.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/elysium/" rel="tag">elysium</a> <a href="https://www.deepdotweb.com/tag/members/" rel="tag">members</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/vienna/" rel="tag">vienna</a></span> <span style="display:none" class="updated">2018-05-18<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

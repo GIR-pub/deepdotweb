@@ -32,6 +32,4 @@ Slovakian Authorities Charged A Past Member Of PlayPen Child Porn Site
     </div>
     <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a> <a href="https://www.deepdotweb.com/tag/slovakian/" rel="tag">slovakian</a></span> <span style="display:none" class="updated">2017-05-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

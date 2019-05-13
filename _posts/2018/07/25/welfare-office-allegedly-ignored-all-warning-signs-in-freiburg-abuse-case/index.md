@@ -19,6 +19,4 @@ Welfare Office Allegedly Ignored All Warning Signs in Freiburg Abuse Case
 <p>The case is ongoing and many of the suspects already received lengthy prison sentences. But, instead of only eight defendants, the prosecutors have started an investigation into the lack of aid provided by the youth welfare office; they could have removed the boy from a situation that could have led to the boy&#8217;s death. Instead, prosecutors claim, the office ignored all warning signs and enabled the systematic abuse of a nine-year-old boy.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/allegedly/" rel="tag">allegedly</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/freiburg/" rel="tag">freiburg</a> <a href="https://www.deepdotweb.com/tag/office/" rel="tag">office</a> <a href="https://www.deepdotweb.com/tag/signs/" rel="tag">signs</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a> <a href="https://www.deepdotweb.com/tag/welfare/" rel="tag">welfare</a></span> <span style="display:none" class="updated">2018-07-25<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

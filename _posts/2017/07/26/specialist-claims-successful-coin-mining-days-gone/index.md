@@ -26,6 +26,4 @@ Specialist Claims Successful Coin Mining Days are Gone
     </div>
     <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a> <a href="https://www.deepdotweb.com/tag/days/" rel="tag">days</a> <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a> <a href="https://www.deepdotweb.com/tag/specialist/" rel="tag">specialist</a> <a href="https://www.deepdotweb.com/tag/successful/" rel="tag">successful</a></span> <span style="display:none" class="updated">2017-07-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -21,6 +21,4 @@ Allwine Sentenced to Life in Prison for First Degree Murder
 <p>“You are an incredible actor, a hypocrite, and a cold and calculating killer,” Judge Ekstrum told Allwine.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/allwine/" rel="tag">allwine</a> <a href="https://www.deepdotweb.com/tag/degree/" rel="tag">degree</a> <a href="https://www.deepdotweb.com/tag/life/" rel="tag">life</a> <a href="https://www.deepdotweb.com/tag/murder/" rel="tag">murder</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-02-16<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

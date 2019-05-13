@@ -24,6 +24,4 @@ Quantum Computing Could Cripple Encryption; Bitcoin’s Role
     </div>
     <a href="https://www.deepdotweb.com/tag/computing/" rel="tag">computing</a> <a href="https://www.deepdotweb.com/tag/cripple/" rel="tag">cripple</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/quantum/" rel="tag">quantum</a> <a href="https://www.deepdotweb.com/tag/role/" rel="tag">role</a></span> <span style="display:none" class="updated">2016-10-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

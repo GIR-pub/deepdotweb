@@ -18,6 +18,4 @@ Drug Sales on Darknet Markets Have Tripled Since the Silk Road Bust
     </div>
     <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a>  <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> <a href="https://www.deepdotweb.com/tag/tripled/" rel="tag">tripled</a></span> <span style="display:none" class="updated">2016-08-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

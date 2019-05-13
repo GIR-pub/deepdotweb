@@ -44,6 +44,4 @@ How Governments Can Try To Undermine Bitcoin?
     </div>
     <a href="https://www.deepdotweb.com/tag/undermining/" rel="tag">undermining</a></span> <span style="display:none" class="updated">2014-07-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
-    </div>
-</article>
-
+    

@@ -27,6 +27,4 @@ Russian Cybercriminal arrested by Thai Police
 <p>Maj. Rattanamongkolsak, however, refused to give any additional details, saying this is an international police matter and therefore new details will be soon unveiled.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/cybercriminal/" rel="tag">cybercriminal</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/thai/" rel="tag">thai</a></span> <span style="display:none" class="updated">2018-03-01<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-</div>
-</article>
 

@@ -40,6 +40,4 @@ The FBI Says How It ‘Legally’ Found Silk Road’s Server&#8217;s IP
     </div>
     <a href="https://www.deepdotweb.com/tag/ip/" rel="tag">ip</a> <a href="https://www.deepdotweb.com/tag/legally/" rel="tag">legally</a> <a href="https://www.deepdotweb.com/tag/roads/" rel="tag">roads</a> <a href="https://www.deepdotweb.com/tag/servers/" rel="tag">servers</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2014-09-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

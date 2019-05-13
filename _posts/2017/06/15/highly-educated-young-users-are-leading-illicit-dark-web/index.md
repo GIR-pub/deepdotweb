@@ -25,6 +25,4 @@ Highly Educated Young Users are Leading Illicit Dark Web Narcotics Trade
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/educated/" rel="tag">educated</a> <a href="https://www.deepdotweb.com/tag/highly/" rel="tag">highly</a> <a href="https://www.deepdotweb.com/tag/illicit/" rel="tag">illicit</a> <a href="https://www.deepdotweb.com/tag/leading/" rel="tag">leading</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/young/" rel="tag">young</a></span> <span style="display:none" class="updated">2017-06-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

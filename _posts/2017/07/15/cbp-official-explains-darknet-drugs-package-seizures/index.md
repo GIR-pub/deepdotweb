@@ -42,6 +42,4 @@ CBP Official Explains Darknet Drugs and Package Seizures
     </div>
     <a href="https://www.deepdotweb.com/tag/cbp/" rel="tag">cbp</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/explains/" rel="tag">explains</a> <a href="https://www.deepdotweb.com/tag/official/" rel="tag">official</a> <a href="https://www.deepdotweb.com/tag/package/" rel="tag">package</a> <a href="https://www.deepdotweb.com/tag/seizures/" rel="tag">seizures</a></span> <span style="display:none" class="updated">2017-07-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

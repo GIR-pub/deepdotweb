@@ -25,6 +25,4 @@ Valhalla Market Compromised: Finnish Customs Allegedly Identified Hundreds of Va
     </div>
     <a href="https://www.deepdotweb.com/tag/allegedly/" rel="tag">allegedly</a> <a href="https://www.deepdotweb.com/tag/customs/" rel="tag">customs</a> <a href="https://www.deepdotweb.com/tag/hundreds/" rel="tag">hundreds</a> <a href="https://www.deepdotweb.com/tag/identified/" rel="tag">identified</a> <a href="https://www.deepdotweb.com/tag/seizedfinnish/" rel="tag">seizedfinnish</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/valhalla/" rel="tag">valhalla</a></span> <span style="display:none" class="updated">2017-08-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

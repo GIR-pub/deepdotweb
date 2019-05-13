@@ -18,6 +18,4 @@ WA State Bill to Ban Bitcoin at Marijuana Shops Dies, &#038; the Companies that 
     </div>
     <a href="https://www.deepdotweb.com/tag/ban/" rel="tag">ban</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/bring/" rel="tag">bring</a> <a href="https://www.deepdotweb.com/tag/companies/" rel="tag">companies</a> <a href="https://www.deepdotweb.com/tag/dies/" rel="tag">dies</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/shops/" rel="tag">shops</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/stores/" rel="tag">stores</a> <a href="https://www.deepdotweb.com/tag/wa/" rel="tag">wa</a></span> <span style="display:none" class="updated">2017-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

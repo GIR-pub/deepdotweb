@@ -36,6 +36,4 @@ Cryptocurrency hacks: The Biggest Heists In Blockchain History
     </div>
     <a href="https://www.deepdotweb.com/tag/biggest/" rel="tag">biggest</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/hacks/" rel="tag">hacks</a> <a href="https://www.deepdotweb.com/tag/heists/" rel="tag">heists</a> <a href="https://www.deepdotweb.com/tag/history/" rel="tag">history</a></span> <span style="display:none" class="updated">2016-10-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

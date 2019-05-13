@@ -19,6 +19,4 @@ Man Given a Suspended Sentence for Nine Darknet Purchases
 <p>In light of the already required suspended sentence and the defense provided by the man&#8217;s attorney, the judge handed down a suspended sentence of one year and nine months. Furthermore, the 24-year-old was fined 1,000 euros—the court&#8217;s estimated value of the drugs the defendant had distributed.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/purchases/" rel="tag">purchases</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/suspended/" rel="tag">suspended</a></span> <span style="display:none" class="updated">2018-02-06<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

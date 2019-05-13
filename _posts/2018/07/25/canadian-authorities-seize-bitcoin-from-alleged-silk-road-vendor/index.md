@@ -20,6 +20,4 @@ Canadian Authorities Seize Bitcoin from Alleged Silk Road Vendor
 <p>The man has claimed that using the hard drives as evidence of any crime is a violation of his rights. The Civil Forfeiture Office sees the case differently and, unless otherwise ordered by a court, will be keeping the Bitcoin found on the hard drives.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/canadian/" rel="tag">canadian</a>  <a href="https://www.deepdotweb.com/tag/seize/" rel="tag">seize</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-07-25<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

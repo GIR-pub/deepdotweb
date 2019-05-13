@@ -20,6 +20,4 @@ Real Life OpSec Matters Too
     </div>
     <a href="https://www.deepdotweb.com/tag/life/" rel="tag">life</a> <a href="https://www.deepdotweb.com/tag/matters/" rel="tag">matters</a> <a href="https://www.deepdotweb.com/tag/opsec/" rel="tag">opsec</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a></span> <span style="display:none" class="updated">2016-01-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/erebus24/" title="Posts by Erebus24" rel="author">Erebus24</a></strong></div>
-    </div>
-</article>
-
+    

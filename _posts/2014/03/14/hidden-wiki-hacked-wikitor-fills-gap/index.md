@@ -38,6 +38,4 @@ The Hidden Wiki Hacked, WikiTor Fills The Gap
     </div>
     <a href="https://www.deepdotweb.com/tag/fills/" rel="tag">fills</a> <a href="https://www.deepdotweb.com/tag/gap/" rel="tag">gap</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a>  <a href="https://www.deepdotweb.com/tag/wiki/" rel="tag">wiki</a> <a href="https://www.deepdotweb.com/tag/wikitor/" rel="tag">wikitor</a></span> <span style="display:none" class="updated">2014-03-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

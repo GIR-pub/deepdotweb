@@ -30,6 +30,4 @@ Research: Estimating the volume and scope of tobacco trading on darknet marketpl
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/estimating/" rel="tag">estimating</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/scope/" rel="tag">scope</a> <a href="https://www.deepdotweb.com/tag/tobacco/" rel="tag">tobacco</a> <a href="https://www.deepdotweb.com/tag/trading/" rel="tag">trading</a> <a href="https://www.deepdotweb.com/tag/volume/" rel="tag">volume</a></span> <span style="display:none" class="updated">2019-03-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

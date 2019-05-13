@@ -18,6 +18,4 @@ EnergyControl Drug Testing Service launch Its International Site
     </div>
      <a href="https://www.deepdotweb.com/tag/energycontrol/" rel="tag">energycontrol</a> <a href="https://www.deepdotweb.com/tag/international/" rel="tag">international</a>  <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span> <span style="display:none" class="updated">2016-11-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

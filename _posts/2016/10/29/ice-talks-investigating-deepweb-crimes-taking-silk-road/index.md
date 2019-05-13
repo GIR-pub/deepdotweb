@@ -32,6 +32,4 @@ ICE Talks About Investigating Deepweb Crimes and Taking Down Silk Road
     </div>
     <a href="https://www.deepdotweb.com/tag/crimes/" rel="tag">crimes</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/ice/" rel="tag">ice</a> <a href="https://www.deepdotweb.com/tag/investigating/" rel="tag">investigating</a>  <a href="https://www.deepdotweb.com/tag/talks/" rel="tag">talks</a></span> <span style="display:none" class="updated">2016-10-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

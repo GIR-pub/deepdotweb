@@ -26,6 +26,4 @@ DarkNet Video News Roundup: 19/4/16
     </div>
     <a href="https://www.deepdotweb.com/tag/19416/" rel="tag">19416</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a> <a href="https://www.deepdotweb.com/tag/video/" rel="tag">video</a></span> <span style="display:none" class="updated">2016-04-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -33,6 +33,4 @@ Vendor XanaxKing: Anti-Bail Letter
     </div>
     <a href="https://www.deepdotweb.com/tag/antibail/" rel="tag">antibail</a> <a href="https://www.deepdotweb.com/tag/letter/" rel="tag">letter</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/xanaxking/" rel="tag">xanaxking</a></span> <span style="display:none" class="updated">2014-07-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

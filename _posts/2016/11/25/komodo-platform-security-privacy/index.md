@@ -23,6 +23,4 @@ The Komodo Platform: Security and Privacy
     </div>
     <a href="https://www.deepdotweb.com/tag/komodo/" rel="tag">komodo</a> <a href="https://www.deepdotweb.com/tag/platform/" rel="tag">platform</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> </span> <span style="display:none" class="updated">2016-11-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

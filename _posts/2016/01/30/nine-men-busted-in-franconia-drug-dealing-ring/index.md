@@ -17,6 +17,4 @@ Nine Men Busted In Franconia DarkWeb Sourced Drug-Dealing Ring
     </div>
      <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/drugdealing/" rel="tag">drugdealing</a> <a href="https://www.deepdotweb.com/tag/franconia/" rel="tag">franconia</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/sourced/" rel="tag">sourced</a></span> <span style="display:none" class="updated">2016-01-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

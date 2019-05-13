@@ -19,6 +19,4 @@ West Virginian Sentenced for Trafficking 400KG Marijuana, Most Via Postal Carrie
     </div>
     <a href="https://www.deepdotweb.com/tag/400kg/" rel="tag">400kg</a> <a href="https://www.deepdotweb.com/tag/carriers/" rel="tag">carriers</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/postal/" rel="tag">postal</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/virginian/" rel="tag">virginian</a> <a href="https://www.deepdotweb.com/tag/west/" rel="tag">west</a></span> <span style="display:none" class="updated">2017-01-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

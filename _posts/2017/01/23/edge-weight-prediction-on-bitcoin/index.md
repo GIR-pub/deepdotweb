@@ -34,6 +34,4 @@ Edge Weight Prediction On Bitcoin And Other Weight Signed Networks WSNs
     </div>
     <span style="display:none" class="updated">2017-01-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

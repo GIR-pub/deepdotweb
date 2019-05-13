@@ -48,6 +48,4 @@ Why does Dash have a bad reputation?
     </div>
     <a href="https://www.deepdotweb.com/tag/bad/" rel="tag">bad</a> <a href="https://www.deepdotweb.com/tag/dash/" rel="tag">dash</a> <a href="https://www.deepdotweb.com/tag/reputation/" rel="tag">reputation</a></span> <span style="display:none" class="updated">2017-05-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/jonathanfoster/" title="Posts by JONATHAN FOSTER" rel="author">JONATHAN FOSTER</a></strong></div>
-    </div>
-</article>
-
+    

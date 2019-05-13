@@ -20,6 +20,4 @@ Israeli Teenager Sourced Drugs From the Dark Web, Arrested For Them At School
 <p>In addition to that, dark net users can order narcotics internationally. By doing so, they can get much better prices for substances than domestically. Some students take advantage of this and use the dark web to get the narcotics for cheaper, sell them locally, and make profits from the sales. British news outlet, independent.co.uk, reported that, according to one of the students they interviewed, one can buy ecstasy for £2 ($2.44) a pill (if they purchase it in bulk quantities) and could sell it for at least £10 ($12.2) in the United Kingdom.</p>
 </div>
 <span style="display:none" class="updated">2017-03-30<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

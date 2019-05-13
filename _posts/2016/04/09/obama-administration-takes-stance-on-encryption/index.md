@@ -23,6 +23,4 @@ Obama Administration takes Stance On Encryption
     </div>
     <a href="https://www.deepdotweb.com/tag/administration/" rel="tag">administration</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/obama/" rel="tag">obama</a> <a href="https://www.deepdotweb.com/tag/stance/" rel="tag">stance</a> <a href="https://www.deepdotweb.com/tag/takes/" rel="tag">takes</a></span> <span style="display:none" class="updated">2016-04-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

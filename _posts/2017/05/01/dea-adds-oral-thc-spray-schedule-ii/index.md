@@ -25,6 +25,4 @@ DEA Adds an Oral THC Spray to Schedule II
     </div>
     <a href="https://www.deepdotweb.com/tag/adds/" rel="tag">adds</a> <a href="https://www.deepdotweb.com/tag/dea/" rel="tag">dea</a> <a href="https://www.deepdotweb.com/tag/ii/" rel="tag">ii</a> <a href="https://www.deepdotweb.com/tag/oral/" rel="tag">oral</a> <a href="https://www.deepdotweb.com/tag/schedule/" rel="tag">schedule</a> <a href="https://www.deepdotweb.com/tag/spray/" rel="tag">spray</a> <a href="https://www.deepdotweb.com/tag/thc/" rel="tag">thc</a></span> <span style="display:none" class="updated">2017-05-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

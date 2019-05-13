@@ -58,6 +58,4 @@ Journalist Investigates The Idealistic Motives Behind Valhalla Market
     </div>
     <a href="https://www.deepdotweb.com/tag/idealistic/" rel="tag">idealistic</a> <a href="https://www.deepdotweb.com/tag/investigates/" rel="tag">investigates</a> <a href="https://www.deepdotweb.com/tag/journalist/" rel="tag">journalist</a> <a href="https://www.deepdotweb.com/tag/motives/" rel="tag">motives</a> <a href="https://www.deepdotweb.com/tag/valhalla/" rel="tag">valhalla</a></span> <span style="display:none" class="updated">2015-11-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

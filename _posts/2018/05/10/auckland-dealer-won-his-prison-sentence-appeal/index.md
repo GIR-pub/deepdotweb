@@ -24,6 +24,4 @@ Auckland Dealer Won His Prison Sentence Appeal
 <p>The new 11-month home detention sentence requires Smith to allow authorities to routinely search his electronic devices for any evidence of “darknet activity.” Justice Pheroze Jagose, with the belief that the initial sentence poorly reflected the crimes or possibly out of sympathy for the parents, issued the new sentence. Out of the hundreds of darknet drug distribution cases covered by DeepDotWeb, this case very likely ended with the shortest sentence ever passed down to a drug dealer at Smith&#8217;s scale of offense.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/appeal/" rel="tag">appeal</a> <a href="https://www.deepdotweb.com/tag/auckland/" rel="tag">auckland</a>  <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/won/" rel="tag">won</a></span> <span style="display:none" class="updated">2018-05-10<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

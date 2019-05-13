@@ -22,6 +22,4 @@ Three Darknet Vendors Busted For MDMA Sales
 <p>John P., faces only six years in prison while Bram V. and Thomas P. face a mandatory eight, if convicted.</p>
 </div>
 <span style="display:none" class="updated">2017-03-17<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

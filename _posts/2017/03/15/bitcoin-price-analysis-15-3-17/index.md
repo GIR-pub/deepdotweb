@@ -42,6 +42,4 @@ Bitcoin Price Analysis 15.3.17
 <p>For now, it is best to stay out of the market and watch from the sidelines.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/15317/" rel="tag">15317</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2017-03-15<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

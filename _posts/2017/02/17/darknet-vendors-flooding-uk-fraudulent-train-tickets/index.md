@@ -22,6 +22,4 @@ Darknet Vendors are Flooding the UK with Fraudulent Train Tickets
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/flooding/" rel="tag">flooding</a> <a href="https://www.deepdotweb.com/tag/fraudulent/" rel="tag">fraudulent</a> <a href="https://www.deepdotweb.com/tag/tickets/" rel="tag">tickets</a> <a href="https://www.deepdotweb.com/tag/train/" rel="tag">train</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-02-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

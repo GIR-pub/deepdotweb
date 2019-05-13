@@ -29,6 +29,4 @@ German Chief Prosecutor Seeks To Monitor Communications More Extensively
     </div>
     <a href="https://www.deepdotweb.com/tag/chief/" rel="tag">chief</a> <a href="https://www.deepdotweb.com/tag/communications/" rel="tag">communications</a> <a href="https://www.deepdotweb.com/tag/extensively/" rel="tag">extensively</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/monitor/" rel="tag">monitor</a> <a href="https://www.deepdotweb.com/tag/prosecutor/" rel="tag">prosecutor</a> <a href="https://www.deepdotweb.com/tag/seeks/" rel="tag">seeks</a></span> <span style="display:none" class="updated">2017-02-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

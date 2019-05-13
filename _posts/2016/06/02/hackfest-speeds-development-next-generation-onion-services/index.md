@@ -29,6 +29,4 @@ Hackfest Speeds Up Development for Next Generation Onion Services
     </div>
     <a href="https://www.deepdotweb.com/tag/development/" rel="tag">development</a> <a href="https://www.deepdotweb.com/tag/generation/" rel="tag">generation</a> <a href="https://www.deepdotweb.com/tag/hackfest/" rel="tag">hackfest</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/speeds/" rel="tag">speeds</a></span> <span style="display:none" class="updated">2016-06-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

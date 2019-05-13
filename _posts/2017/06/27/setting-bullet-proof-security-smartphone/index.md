@@ -120,6 +120,4 @@ SETTING UP A BULLET-PROOF SECURITY SMARTPHONE
     </div>
     <a href="https://www.deepdotweb.com/tag/bulletproof/" rel="tag">bulletproof</a>  <a href="https://www.deepdotweb.com/tag/setting/" rel="tag">setting</a> <a href="https://www.deepdotweb.com/tag/smartphone/" rel="tag">smartphone</a></span> <span style="display:none" class="updated">2017-06-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
-    </div>
-</article>
-
+    

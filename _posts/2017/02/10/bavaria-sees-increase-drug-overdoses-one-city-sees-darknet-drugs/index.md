@@ -20,6 +20,4 @@ Bavaria Sees Increase in Drug Overdoses, but One City Only Sees More Darknet Dru
     </div>
     <a href="https://www.deepdotweb.com/tag/bavaria/" rel="tag">bavaria</a> <a href="https://www.deepdotweb.com/tag/city/" rel="tag">city</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>   <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/overdoses/" rel="tag">overdoses</a> <a href="https://www.deepdotweb.com/tag/sees/" rel="tag">sees</a></span> <span style="display:none" class="updated">2017-02-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

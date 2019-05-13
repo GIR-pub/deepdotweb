@@ -26,6 +26,4 @@ Darkcoin: Releases Open Source Code
     </div>
     <a href="https://www.deepdotweb.com/tag/code/" rel="tag">code</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> <a href="https://www.deepdotweb.com/tag/releases/" rel="tag">releases</a> <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a></span> <span style="display:none" class="updated">2014-10-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

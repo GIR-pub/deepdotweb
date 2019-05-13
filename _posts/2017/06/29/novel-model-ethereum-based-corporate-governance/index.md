@@ -28,6 +28,4 @@ A Novel Model of Ethereum Based Corporate Governance
     </div>
     <a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/corporate/" rel="tag">corporate</a> <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a> <a href="https://www.deepdotweb.com/tag/governance/" rel="tag">governance</a> <a href="https://www.deepdotweb.com/tag/model/" rel="tag">model</a></span> <span style="display:none" class="updated">2017-06-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

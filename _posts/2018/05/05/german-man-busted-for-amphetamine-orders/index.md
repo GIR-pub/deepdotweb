@@ -19,6 +19,4 @@ German Man Busted for Amphetamine Orders
 </div>
 <a href="https://www.deepdotweb.com/tag/amphetamine/" rel="tag">amphetamine</a>  <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a></span> <span style="display:none" class="updated">2018-05-05</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

@@ -59,6 +59,4 @@ Research: Tor marketplaces as a threat to national e-ID infrastructures
     </div>
     <a href="https://www.deepdotweb.com/tag/eid/" rel="tag">eid</a> <a href="https://www.deepdotweb.com/tag/infrastructures/" rel="tag">infrastructures</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/threat/" rel="tag">threat</a> </span> <span style="display:none" class="updated">2019-03-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

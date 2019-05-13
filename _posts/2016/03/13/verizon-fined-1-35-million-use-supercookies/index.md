@@ -23,6 +23,4 @@ Verizon Fined $1.35 Million For The Use Of “Supercookies”
     </div>
     <a href="https://www.deepdotweb.com/tag/135/" rel="tag">135</a> <a href="https://www.deepdotweb.com/tag/fined/" rel="tag">fined</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/supercookies/" rel="tag">supercookies</a> <a href="https://www.deepdotweb.com/tag/verizon/" rel="tag">verizon</a></span> <span style="display:none" class="updated">2016-03-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -28,6 +28,4 @@ Child Suicide “Game” Videos Being Sold on the Darknet
 <p>A similar investigation is underway in Russia.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/game/" rel="tag">game</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/suicide/" rel="tag">suicide</a> <a href="https://www.deepdotweb.com/tag/videos/" rel="tag">videos</a></span> <span style="display:none" class="updated">2017-03-02<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

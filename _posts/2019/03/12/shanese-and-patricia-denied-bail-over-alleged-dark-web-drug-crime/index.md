@@ -26,6 +26,4 @@ Shanese and Patricia Denied Bail over Alleged Dark Web Drug Crime
     </div>
     <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/bail/" rel="tag">bail</a> <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/denied/" rel="tag">denied</a>  <a href="https://www.deepdotweb.com/tag/patricia/" rel="tag">patricia</a> <a href="https://www.deepdotweb.com/tag/shanese/" rel="tag">shanese</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2019-03-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-    </div>
-</article>
-
+    

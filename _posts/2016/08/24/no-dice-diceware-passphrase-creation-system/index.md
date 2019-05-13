@@ -62,6 +62,4 @@ No Dice: Diceware Passphrase Creation System
     </div>
     <a href="https://www.deepdotweb.com/tag/creation/" rel="tag">creation</a> <a href="https://www.deepdotweb.com/tag/dice/" rel="tag">dice</a> <a href="https://www.deepdotweb.com/tag/diceware/" rel="tag">diceware</a> <a href="https://www.deepdotweb.com/tag/passphrase/" rel="tag">passphrase</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a></span> <span style="display:none" class="updated">2016-08-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
-    </div>
-</article>
-
+    

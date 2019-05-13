@@ -30,6 +30,4 @@ The Blockchain Technology, Smart Contracts and Legal Procedures
 <p>5- Blockchain&#8217;s smart contracts will make it possible to bring under the umbrella of the law what can be described as informal &#8220;word of mouth agreements or contracts&#8221; which is almost impossible to achieve without the blockchain mainly due to the tedious paperwork involved in such contract processes.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/contracts/" rel="tag">contracts</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/procedures/" rel="tag">procedures</a> <a href="https://www.deepdotweb.com/tag/smart/" rel="tag">smart</a> <a href="https://www.deepdotweb.com/tag/technology/" rel="tag">technology</a></span> <span style="display:none" class="updated">2017-03-14<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

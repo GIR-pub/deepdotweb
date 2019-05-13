@@ -35,6 +35,4 @@ Spanish Cops Arrests Major Dark Web Arms Dealer
 <p>The researchers then discovered that illegal firearms and its relations were pulling over 136 sales each month, generating over $80,000.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/cops/" rel="tag">cops</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/spanish/" rel="tag">spanish</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-10-10<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-</div>
-</article>
 

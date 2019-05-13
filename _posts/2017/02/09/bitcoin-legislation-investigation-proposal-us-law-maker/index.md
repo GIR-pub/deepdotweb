@@ -39,6 +39,4 @@ Bitcoin Legislation and Investigation &#8211; A Proposal For the US Law Maker
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/legislation/" rel="tag">legislation</a> <a href="https://www.deepdotweb.com/tag/maker/" rel="tag">maker</a> <a href="https://www.deepdotweb.com/tag/proposal/" rel="tag">proposal</a></span> <span style="display:none" class="updated">2017-02-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

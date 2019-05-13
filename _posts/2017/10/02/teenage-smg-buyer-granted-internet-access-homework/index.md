@@ -20,6 +20,4 @@ Teenage SMG Buyer Granted Internet Access for Homework
 <p>District Judge Liam McNally, at the mid-September bail restructuring hearing, granted the request for internet access. Any and all access must be under the supervision of his teachers while anywhere but his home. And while at home, under the watch of one of his parents, he is now permitted to use the internet—for homework purposes only—between 5pm and 8pm.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/access/" rel="tag">access</a> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/granted/" rel="tag">granted</a> <a href="https://www.deepdotweb.com/tag/homework/" rel="tag">homework</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/smg/" rel="tag">smg</a> <a href="https://www.deepdotweb.com/tag/teenage/" rel="tag">teenage</a></span> <span style="display:none" class="updated">2017-10-02<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

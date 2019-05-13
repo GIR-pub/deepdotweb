@@ -19,6 +19,4 @@ Major Bust In Taiwan: Police Seized 511 Kilograms Of Ketamine
     </div>
     <a href="https://www.deepdotweb.com/tag/511/" rel="tag">511</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/ketamine/" rel="tag">ketamine</a> <a href="https://www.deepdotweb.com/tag/kilograms/" rel="tag">kilograms</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/taiwan/" rel="tag">taiwan</a></span> <span style="display:none" class="updated">2017-04-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

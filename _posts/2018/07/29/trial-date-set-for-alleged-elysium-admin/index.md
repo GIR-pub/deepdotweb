@@ -18,6 +18,4 @@ Trial Date Set for Alleged Elysium Admin
 <p>The August 2 trial will likely run for 12 days. Earlier reports suggested 11 court dates in November have already been scheduled in anticipation of the results of the August trial.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/date/" rel="tag">date</a> <a href="https://www.deepdotweb.com/tag/elysium/" rel="tag">elysium</a> <a href="https://www.deepdotweb.com/tag/set/" rel="tag">set</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span> <span style="display:none" class="updated">2018-07-29<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

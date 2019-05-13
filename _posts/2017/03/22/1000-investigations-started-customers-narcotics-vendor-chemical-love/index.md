@@ -20,6 +20,4 @@ More Than 1,000 Investigations Started Against The Customers Of Narcotics Vendor
 <p><a id="post-18742-_gjdgxs"></a> Recently, the Public Prosecutor’s Office in Koblenz started more than 1,000 investigations against past customers of the vendor shop. According to police information, law enforcement authorities seek to prosecute even the ones who ordered narcotics in small amounts from Chemical Love.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/1000/" rel="tag">1000</a> <a href="https://www.deepdotweb.com/tag/chemical/" rel="tag">chemical</a> <a href="https://www.deepdotweb.com/tag/customers/" rel="tag">customers</a> <a href="https://www.deepdotweb.com/tag/investigations/" rel="tag">investigations</a> <a href="https://www.deepdotweb.com/tag/love/" rel="tag">love</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/started/" rel="tag">started</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-03-22<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

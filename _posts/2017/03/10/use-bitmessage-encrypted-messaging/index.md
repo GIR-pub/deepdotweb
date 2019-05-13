@@ -71,6 +71,4 @@ tag-bitmessage tag-encrypted tag-messaging">
 <p>Well done! Bitmessage is now activated on the market. Enjoy your new desktop notifications.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bitmessage/" rel="tag">bitmessage</a> <a href="https://www.deepdotweb.com/tag/encrypted/" rel="tag">encrypted</a> <a href="https://www.deepdotweb.com/tag/messaging/" rel="tag">messaging</a></span> <span style="display:none" class="updated">2017-03-10<a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-</div>
-</article>
 

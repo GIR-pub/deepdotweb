@@ -36,6 +36,4 @@ Agora Market To Stop Listing Lethal Weapons
     </div>
     <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/lethal/" rel="tag">lethal</a> <a href="https://www.deepdotweb.com/tag/listing/" rel="tag">listing</a> <a href="https://www.deepdotweb.com/tag/stop/" rel="tag">stop</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span> <span style="display:none" class="updated">2015-07-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

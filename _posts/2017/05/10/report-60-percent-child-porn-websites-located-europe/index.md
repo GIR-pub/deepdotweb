@@ -23,6 +23,4 @@ Report: 60 Percent Of Child Porn Websites Are Located In Europe
     </div>
     <a href="https://www.deepdotweb.com/tag/60/" rel="tag">60</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/europe/" rel="tag">europe</a> <a href="https://www.deepdotweb.com/tag/located/" rel="tag">located</a> <a href="https://www.deepdotweb.com/tag/percent/" rel="tag">percent</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/websites/" rel="tag">websites</a></span> <span style="display:none" class="updated">2017-05-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ University Accused Of Accepting $1 Million For Exposing Tor Users, FBI Denies
     </div>
     <a href="https://www.deepdotweb.com/tag/accepting/" rel="tag">accepting</a> <a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a> <a href="https://www.deepdotweb.com/tag/denies/" rel="tag">denies</a> <a href="https://www.deepdotweb.com/tag/exposing/" rel="tag">exposing</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a>  <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2015-11-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

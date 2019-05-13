@@ -44,6 +44,4 @@ BTC Transaction Malleability Theory: What Happened to SR 2.0 and Mt.Gox
     </div>
      <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/happened/" rel="tag">happened</a> <a href="https://www.deepdotweb.com/tag/malleability/" rel="tag">malleability</a> <a href="https://www.deepdotweb.com/tag/mtgox/" rel="tag">mtgox</a> <a href="https://www.deepdotweb.com/tag/silkroad/" rel="tag">silkroad</a> <a href="https://www.deepdotweb.com/tag/theory/" rel="tag">theory</a> <a href="https://www.deepdotweb.com/tag/transaction/" rel="tag">transaction</a></span> <span style="display:none" class="updated">2014-08-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/iburnez/" title="Posts by iBurnEZ" rel="author">iBurnEZ</a></strong></div>
-    </div>
-</article>
-
+    

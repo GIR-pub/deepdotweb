@@ -27,6 +27,4 @@ Princeton &#038; Stanford Research Shows Anonymous Browsing Histories Linked to 
     </div>
     <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/browsing/" rel="tag">browsing</a> <a href="https://www.deepdotweb.com/tag/histories/" rel="tag">histories</a> <a href="https://www.deepdotweb.com/tag/linked/" rel="tag">linked</a> <a href="https://www.deepdotweb.com/tag/media/" rel="tag">media</a> <a href="https://www.deepdotweb.com/tag/princeton/" rel="tag">princeton</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/shows/" rel="tag">shows</a> <a href="https://www.deepdotweb.com/tag/social/" rel="tag">social</a> <a href="https://www.deepdotweb.com/tag/stanford/" rel="tag">stanford</a></span> <span style="display:none" class="updated">2017-02-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

@@ -20,6 +20,4 @@ Ross Ulbrich: Eagle Scout. Idealist. Drug Trafficker?
     </div>
     <span style="display:none" class="updated">2014-01-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

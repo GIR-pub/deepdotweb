@@ -25,6 +25,4 @@ Aviation Industry Under Attack By Chinese Hackers
     </div>
     <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/aviation/" rel="tag">aviation</a> <a href="https://www.deepdotweb.com/tag/chinese/" rel="tag">chinese</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/industry/" rel="tag">industry</a></span> <span style="display:none" class="updated">2017-01-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

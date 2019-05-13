@@ -82,6 +82,4 @@ Cloakcoin Promises the Holy Grail of Cryptocurrency: Trustless Anonymity
     </div>
     <a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/cloakcoin/" rel="tag">cloakcoin</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/grail/" rel="tag">grail</a> <a href="https://www.deepdotweb.com/tag/holy/" rel="tag">holy</a> <a href="https://www.deepdotweb.com/tag/promises/" rel="tag">promises</a></span> <span style="display:none" class="updated">2014-07-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

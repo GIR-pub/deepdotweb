@@ -19,6 +19,4 @@ Denmark Man Convicted Only of Viewing Child Porn
 <p>This relaxed sentence seems to be a growing trend in recent child pornography cases. In mid-September, for example, Nicolas James Bone stood in court and explained how repulsed the illegal media made him feel. In fairness, Bone sought images of teenagers—according to his defense attorney, that is. But due to his remorse (and few images in his actual possession), the Court sentenced him to a suspended sentence and allowed him to avoid jail time whatsoever.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/denmark/" rel="tag">denmark</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/viewing/" rel="tag">viewing</a></span> <span style="display:none" class="updated">2017-10-09<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

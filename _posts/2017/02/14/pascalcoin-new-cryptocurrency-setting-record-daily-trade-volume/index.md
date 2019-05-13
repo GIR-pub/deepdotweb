@@ -37,6 +37,4 @@ PascalCoin &#8211; A New Cryptocurrency Setting a Record For Daily Trade Volume
     </div>
     <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/daily/" rel="tag">daily</a> <a href="https://www.deepdotweb.com/tag/pascalcoin/" rel="tag">pascalcoin</a> <a href="https://www.deepdotweb.com/tag/record/" rel="tag">record</a> <a href="https://www.deepdotweb.com/tag/setting/" rel="tag">setting</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a> <a href="https://www.deepdotweb.com/tag/volume/" rel="tag">volume</a></span> <span style="display:none" class="updated">2017-02-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

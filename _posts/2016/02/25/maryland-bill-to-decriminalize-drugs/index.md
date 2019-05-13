@@ -45,6 +45,4 @@ Maryland Bill To Decriminalize Drugs
     </div>
     <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/decriminalize/" rel="tag">decriminalize</a>  <a href="https://www.deepdotweb.com/tag/maryland/" rel="tag">maryland</a></span> <span style="display:none" class="updated">2016-02-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

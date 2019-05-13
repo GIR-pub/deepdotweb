@@ -34,6 +34,4 @@ Former Russian police officer claims: &#8220;War on drugs is lost&#8221;
 <p>They say that fighting against drugs is useless. I spent many years in this struggle and believe that the war is already lost unless new appropriate countermeasures are taken.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a>  <a href="https://www.deepdotweb.com/tag/lost/" rel="tag">lost</a> <a href="https://www.deepdotweb.com/tag/officer/" rel="tag">officer</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2018-01-06<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

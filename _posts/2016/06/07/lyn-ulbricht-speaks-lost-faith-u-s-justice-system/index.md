@@ -30,6 +30,4 @@ Lyn Ulbricht Speaks Out: Lost Faith in the U.S. Justice System
     </div>
     <a href="https://www.deepdotweb.com/tag/faith/" rel="tag">faith</a> <a href="https://www.deepdotweb.com/tag/justice/" rel="tag">justice</a> <a href="https://www.deepdotweb.com/tag/lost/" rel="tag">lost</a> <a href="https://www.deepdotweb.com/tag/lyn/" rel="tag">lyn</a> <a href="https://www.deepdotweb.com/tag/speaks/" rel="tag">speaks</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2016-06-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

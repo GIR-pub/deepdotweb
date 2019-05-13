@@ -34,6 +34,4 @@ Darknetmarkets listing Count Is Booming: Approaching 50,000!
     </div>
     <a href="https://www.deepdotweb.com/tag/50000/" rel="tag">50000</a> <a href="https://www.deepdotweb.com/tag/approaching/" rel="tag">approaching</a> <a href="https://www.deepdotweb.com/tag/booming/" rel="tag">booming</a> <a href="https://www.deepdotweb.com/tag/count/" rel="tag">count</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/listing/" rel="tag">listing</a></span> <span style="display:none" class="updated">2014-04-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

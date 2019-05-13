@@ -25,6 +25,4 @@ Alleged Bendigo Gang Leader Arrested, Refused Bail
     </div>
     <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/bail/" rel="tag">bail</a> <a href="https://www.deepdotweb.com/tag/bendigo/" rel="tag">bendigo</a> <a href="https://www.deepdotweb.com/tag/gang/" rel="tag">gang</a> <a href="https://www.deepdotweb.com/tag/leader/" rel="tag">leader</a> <a href="https://www.deepdotweb.com/tag/refused/" rel="tag">refused</a></span> <span style="display:none" class="updated">2016-08-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

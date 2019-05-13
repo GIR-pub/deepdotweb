@@ -23,6 +23,4 @@ tag-anonymous tag-cryptocurrency tag-fully tag-pathshuffle tag-ripple tag-turnin
 <p>PathShuffle is fully compatible with Ripple&#8217;s network as proven by the creators&#8217; proof-of-concept implementation, who managed to successfully carry out real-time coin mixing transactions over Ripple&#8217;s network. Pathshuffle is fully compatible with other credit networks such as Stellar, yet it hasn&#8217;t been tried out yet.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/fully/" rel="tag">fully</a> <a href="https://www.deepdotweb.com/tag/pathshuffle/" rel="tag">pathshuffle</a> <a href="https://www.deepdotweb.com/tag/ripple/" rel="tag">ripple</a> <a href="https://www.deepdotweb.com/tag/turning/" rel="tag">turning</a></span> <span style="display:none" class="updated">2017-03-02<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

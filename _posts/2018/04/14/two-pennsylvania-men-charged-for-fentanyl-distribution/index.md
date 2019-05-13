@@ -19,6 +19,4 @@ Two Pennsylvania Men Charged for Fentanyl Distribution
 <p>According to Montgomery County District Attorney Kevin R. Steele, both men were arraigned before District Court Judge Karen Zucker on several charges related to their alleged fentanyl and carfentanil operation. Both men received possession with intent to distribute charges, corrupt organizations charges, unlawful use of a communications device, and dealing with the proceeds of a crime.The judge set the bail at $250,000. Nether could post bail and both will remain in jail until their preliminary hearing in early April.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/pennsylvania/" rel="tag">pennsylvania</a></span> <span style="display:none" class="updated">2018-04-14<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

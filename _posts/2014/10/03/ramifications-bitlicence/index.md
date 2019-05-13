@@ -48,6 +48,4 @@ The Ramifications of BitLicence
     </div>
     <a href="https://www.deepdotweb.com/tag/bitlicence/" rel="tag">bitlicence</a> <a href="https://www.deepdotweb.com/tag/ramifications/" rel="tag">ramifications</a></span> <span style="display:none" class="updated">2014-10-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    </div>
-</article>
-
+    

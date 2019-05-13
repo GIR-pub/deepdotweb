@@ -25,6 +25,4 @@ Come For the Drugs. Stay For the Freedom
 <p>Zeek does not use drugs or OPP. Zeek does, however, like to write. He also likes to buy cool stuff for his kids. Every .5 bitcoin that’s generously donated means he can afford to take a day off from work and do a little bit of both!</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/stay/" rel="tag">stay</a></span> <span style="display:none" class="updated">2015-11-11<a href="https://www.deepdotweb.com/author/zeekdanube/" title="Posts by Zeek Danube" rel="author">Zeek Danube</a></strong></div>
-</div>
-</article>
 

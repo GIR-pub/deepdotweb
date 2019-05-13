@@ -31,6 +31,4 @@ Gibon Ransomware Appears on a Russian Darkweb Forum for $500
     </div>
     <a href="https://www.deepdotweb.com/tag/500/" rel="tag">500</a> <a href="https://www.deepdotweb.com/tag/appears/" rel="tag">appears</a> <a href="https://www.deepdotweb.com/tag/boom/" rel="tag">boom</a> <a href="https://www.deepdotweb.com/tag/continue/" rel="tag">continue</a> <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/gibon/" rel="tag">gibon</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a></span> <span style="display:none" class="updated">2017-11-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-    </div>
-</article>
-
+    

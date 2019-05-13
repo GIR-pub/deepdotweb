@@ -22,6 +22,4 @@ Judge Denies Mozilla’s Request For FBI To Come Clean
     </div>
     <a href="https://www.deepdotweb.com/tag/clean/" rel="tag">clean</a> <a href="https://www.deepdotweb.com/tag/denies/" rel="tag">denies</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/mozillas/" rel="tag">mozillas</a> <a href="https://www.deepdotweb.com/tag/request/" rel="tag">request</a></span> <span style="display:none" class="updated">2016-05-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

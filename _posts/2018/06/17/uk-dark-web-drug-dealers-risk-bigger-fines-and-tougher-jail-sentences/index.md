@@ -28,6 +28,4 @@ UK Dark Web Drug Dealers Risk Bigger Fines and Tougher Jail Sentences
 <p>He also warned cannabis users risk losing their driving licences. The DVLA will call you for a blood test since most drugs such as cannabis can last in your body system for about a month and failure to attend the test will lead to one’s licence automatically revoked.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bigger/" rel="tag">bigger</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/fines/" rel="tag">fines</a> <a href="https://www.deepdotweb.com/tag/jail/" rel="tag">jail</a> <a href="https://www.deepdotweb.com/tag/risk/" rel="tag">risk</a> <a href="https://www.deepdotweb.com/tag/sentences/" rel="tag">sentences</a> <a href="https://www.deepdotweb.com/tag/tougher/" rel="tag">tougher</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-06-17<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

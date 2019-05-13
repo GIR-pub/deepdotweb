@@ -30,6 +30,4 @@ Two Arrested In Germany For Running A Fake Microsoft Support Center
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/center/" rel="tag">center</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/microsoft/" rel="tag">microsoft</a> <a href="https://www.deepdotweb.com/tag/running/" rel="tag">running</a> <a href="https://www.deepdotweb.com/tag/support/" rel="tag">support</a></span> <span style="display:none" class="updated">2017-04-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -20,6 +20,4 @@ FBI Claims Messages That Were Sent By ISIS Can’t Be Read Due To Encryption
     </div>
     <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/due/" rel="tag">due</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/isis/" rel="tag">isis</a> <a href="https://www.deepdotweb.com/tag/messages/" rel="tag">messages</a> <a href="https://www.deepdotweb.com/tag/read/" rel="tag">read</a></span> <span style="display:none" class="updated">2015-12-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

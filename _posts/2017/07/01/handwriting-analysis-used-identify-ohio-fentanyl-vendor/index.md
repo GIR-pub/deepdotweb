@@ -28,6 +28,4 @@ Handwriting Analysis Used to Identify Ohio Fentanyl Vendor
     </div>
     <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/handwriting/" rel="tag">handwriting</a> <a href="https://www.deepdotweb.com/tag/identify/" rel="tag">identify</a> <a href="https://www.deepdotweb.com/tag/ohio/" rel="tag">ohio</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-07-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

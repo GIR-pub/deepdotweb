@@ -71,6 +71,4 @@ An Insight Into Who Is Really Buying Legal Highs Online
     </div>
     <a href="https://www.deepdotweb.com/tag/buying/" rel="tag">buying</a> <a href="https://www.deepdotweb.com/tag/highs/" rel="tag">highs</a> <a href="https://www.deepdotweb.com/tag/insight/" rel="tag">insight</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> </span> <span style="display:none" class="updated">2015-05-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

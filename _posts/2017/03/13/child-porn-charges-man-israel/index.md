@@ -22,6 +22,4 @@ Child Porn Charges Against Man In Israel
 <p>&#8220;As the Child Rights Committee chairman, and no less a mother to children, I was shocked to hear the details of the case,” Child Rights Committee Chairman, MK Yifat Biton Shasha, said in response to the case. “Such disgusting acts are the preserve of monsters. I call on the judicial system to prosecute the accused and impose the maximum punishment for all to see. We must deter people like this and condemn them. This moment is a test for the judges that this case reaches the front door. Furthermore, I call on the judicial system to remove the gag order on the identity of the suspect. This is our most basic responsibility to the child victims and their families.”</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/israel/" rel="tag">israel</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a></span> <span style="display:none" class="updated">2017-03-13<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

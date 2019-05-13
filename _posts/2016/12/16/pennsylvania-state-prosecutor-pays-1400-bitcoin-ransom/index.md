@@ -23,6 +23,4 @@ Pennsylvania State Prosecutor Pays $1,400 in Bitcoin as Ransom
     </div>
     <a href="https://www.deepdotweb.com/tag/1400/" rel="tag">1400</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/pays/" rel="tag">pays</a> <a href="https://www.deepdotweb.com/tag/pennsylvania/" rel="tag">pennsylvania</a> <a href="https://www.deepdotweb.com/tag/prosecutor/" rel="tag">prosecutor</a> <a href="https://www.deepdotweb.com/tag/ransom/" rel="tag">ransom</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a></span> <span style="display:none" class="updated">2016-12-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

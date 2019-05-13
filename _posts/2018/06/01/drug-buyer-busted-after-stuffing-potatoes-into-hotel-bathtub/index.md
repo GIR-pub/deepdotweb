@@ -21,6 +21,4 @@ Drug Buyer Busted After Stuffing Potatoes into Hotel Bathtub
 <p>&nbsp;</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bathtub/" rel="tag">bathtub</a>  <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a>  <a href="https://www.deepdotweb.com/tag/hotel/" rel="tag">hotel</a> <a href="https://www.deepdotweb.com/tag/potatoes/" rel="tag">potatoes</a> <a href="https://www.deepdotweb.com/tag/stuffing/" rel="tag">stuffing</a></span> <span style="display:none" class="updated">2018-06-01<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

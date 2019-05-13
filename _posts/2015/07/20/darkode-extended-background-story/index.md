@@ -21,6 +21,4 @@ Darkode: Extended Background Story
     </div>
     <a href="https://www.deepdotweb.com/tag/background/" rel="tag">background</a> <a href="https://www.deepdotweb.com/tag/darkode/" rel="tag">darkode</a> <a href="https://www.deepdotweb.com/tag/extended/" rel="tag">extended</a> <a href="https://www.deepdotweb.com/tag/story/" rel="tag">story</a></span> <span style="display:none" class="updated">2015-07-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/canahontra/" title="Posts by Canahontra" rel="author">Canahontra</a></strong></div>
-    </div>
-</article>
-
+    

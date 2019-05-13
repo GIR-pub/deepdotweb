@@ -25,6 +25,4 @@ A Canadian Who Purchased Drugs and Arms from Darknet Commit Suicide in Prison
     </div>
     <a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/canadian/" rel="tag">canadian</a> <a href="https://www.deepdotweb.com/tag/commit/" rel="tag">commit</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a> <a href="https://www.deepdotweb.com/tag/suicide/" rel="tag">suicide</a></span> <span style="display:none" class="updated">2017-07-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/sagm-wood/" title="Posts by Sagm Wood" rel="author">Sagm Wood</a></strong></div>
-    </div>
-</article>
-
+    

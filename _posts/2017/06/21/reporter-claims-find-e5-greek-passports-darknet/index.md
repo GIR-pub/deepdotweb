@@ -27,6 +27,4 @@ Reporter Claims to Find €5 Greek Passports on the Darknet
     </div>
     <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/find/" rel="tag">find</a> <a href="https://www.deepdotweb.com/tag/greek/" rel="tag">greek</a> <a href="https://www.deepdotweb.com/tag/passports/" rel="tag">passports</a> <a href="https://www.deepdotweb.com/tag/reporter/" rel="tag">reporter</a></span> <span style="display:none" class="updated">2017-06-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

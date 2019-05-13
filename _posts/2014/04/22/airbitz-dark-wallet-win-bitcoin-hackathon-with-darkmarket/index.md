@@ -29,6 +29,4 @@ Airbitz &#038; Dark Wallet Win Bitcoin Hackathon with DarkMarket!
     </div>
     <a href="https://www.deepdotweb.com/tag/airbitz/" rel="tag">airbitz</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/darkmarket/" rel="tag">darkmarket</a> <a href="https://www.deepdotweb.com/tag/hackathon/" rel="tag">hackathon</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a> <a href="https://www.deepdotweb.com/tag/win/" rel="tag">win</a></span> <span style="display:none" class="updated">2014-04-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

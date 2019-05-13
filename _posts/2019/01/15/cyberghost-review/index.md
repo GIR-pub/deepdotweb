@@ -138,6 +138,4 @@ CyberGhost Review
     </div>
     <a href="https://www.deepdotweb.com/tag/cyberghost/" rel="tag">cyberghost</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2019-01-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

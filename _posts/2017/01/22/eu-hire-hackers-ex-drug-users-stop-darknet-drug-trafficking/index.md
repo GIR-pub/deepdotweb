@@ -23,6 +23,4 @@ The EU to Hire Hackers and Ex-Drug Users to Stop Darknet Drug Trafficking
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/eu/" rel="tag">eu</a> <a href="https://www.deepdotweb.com/tag/exdrug/" rel="tag">exdrug</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/hire/" rel="tag">hire</a> <a href="https://www.deepdotweb.com/tag/stop/" rel="tag">stop</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2017-01-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

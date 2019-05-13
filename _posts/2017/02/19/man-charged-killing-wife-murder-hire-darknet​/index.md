@@ -26,6 +26,4 @@ Man Charged With Killing Wife, Murder-For-Hire Through Darknet​
     </div>
     <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/killing/" rel="tag">killing</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/murderforhire/" rel="tag">murderforhire</a> <a href="https://www.deepdotweb.com/tag/wife/" rel="tag">wife</a></span> <span style="display:none" class="updated">2017-02-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

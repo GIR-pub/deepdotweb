@@ -50,6 +50,4 @@ Decentralized Exchanges: Goxed No More!
     </div>
     <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/exchanges/" rel="tag">exchanges</a> <a href="https://www.deepdotweb.com/tag/goxed/" rel="tag">goxed</a></span> <span style="display:none" class="updated">2016-10-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

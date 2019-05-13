@@ -21,6 +21,4 @@ Australia Finally recognizing Bitcoin as Currency
     </div>
     <a href="https://www.deepdotweb.com/tag/australia/" rel="tag">australia</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/finally/" rel="tag">finally</a> <a href="https://www.deepdotweb.com/tag/recognizing/" rel="tag">recognizing</a></span> <span style="display:none" class="updated">2016-05-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

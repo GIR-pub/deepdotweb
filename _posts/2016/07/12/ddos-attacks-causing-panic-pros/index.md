@@ -22,6 +22,4 @@ DdoS Attacks Causing Panic for IT Pro’s
     </div>
     <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/causing/" rel="tag">causing</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/panic/" rel="tag">panic</a> <a href="https://www.deepdotweb.com/tag/pros/" rel="tag">pros</a></span> <span style="display:none" class="updated">2016-07-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

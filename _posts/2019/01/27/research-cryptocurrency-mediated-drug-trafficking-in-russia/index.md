@@ -30,6 +30,4 @@ Research: Cryptocurrency mediated drug trafficking in Russia
     </div>
     <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a>  <a href="https://www.deepdotweb.com/tag/mediated/" rel="tag">mediated</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2019-01-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

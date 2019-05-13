@@ -25,6 +25,4 @@ FBI “Playpen Investigation”: Ex-Homeland Security analyst Arrested
     </div>
     <a href="https://www.deepdotweb.com/tag/analyst/" rel="tag">analyst</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/exhomeland/" rel="tag">exhomeland</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> </span> <span style="display:none" class="updated">2016-03-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

@@ -17,6 +17,4 @@ Interpol Is Indexing Darknet Sites
 <p>He also added that Interpol is not only trying to monitor the websites behind the illicit dark web activities, but the currency, they are developing forensic software that can identify and trace back Bitcoins to the real user. This may sound pretty scary for most people, however, this project will require huge manpower, time and money to complete (if it could be completed successfully, of course).</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/indexing/" rel="tag">indexing</a> <a href="https://www.deepdotweb.com/tag/interpol/" rel="tag">interpol</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a></span> <span style="display:none" class="updated">2015-10-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

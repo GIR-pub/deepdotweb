@@ -16,6 +16,4 @@ UN To Call On Governments All Around The World To Stop War On Drugs
 <p>&#8220;As I&#8217;m writing this I am hearing that at least one government is putting an inordinate amount of pressure on the UNODC. Let us hope the UNODC, a global organization that is part of the UN and supposed to do what is right for the people of the world, does not do a remarkable volte-face at the last possible moment and bow to pressure by not going ahead with this important move. The war on drugs has done too much damage to too many people already.&#8221;</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/call/" rel="tag">call</a>  <a href="https://www.deepdotweb.com/tag/governments/" rel="tag">governments</a> <a href="https://www.deepdotweb.com/tag/stop/" rel="tag">stop</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2015-10-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

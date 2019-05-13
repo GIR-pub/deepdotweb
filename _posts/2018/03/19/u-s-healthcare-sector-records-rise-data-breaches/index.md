@@ -24,6 +24,4 @@ U.S. Healthcare Sector Records Rise in Data Breaches
 <p>“When it comes to data security, the global healthcare industry is increasingly under duress, which is why some of this year’s findings are so counter-intuitive,” stated Peter Galvin, the chief strategy officer of Thales e-Security.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/breaches/" rel="tag">breaches</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/healthcare/" rel="tag">healthcare</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a> <a href="https://www.deepdotweb.com/tag/sector/" rel="tag">sector</a></span> <span style="display:none" class="updated">2018-03-19<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-</div>
-</article>
 

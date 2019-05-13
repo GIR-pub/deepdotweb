@@ -24,6 +24,4 @@ BlackBank&#8217;s Exit Scam Confirmed: ~606BTC Gone.
     </div>
     <a href="https://www.deepdotweb.com/tag/blackbank/" rel="tag">blackbank</a> <a href="https://www.deepdotweb.com/tag/confirmed/" rel="tag">confirmed</a> <a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a></span> <span style="display:none" class="updated">2015-06-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

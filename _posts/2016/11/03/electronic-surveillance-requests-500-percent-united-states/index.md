@@ -23,6 +23,4 @@ Electronic Surveillance Requests are up 500 Percent in the United States
     </div>
     <a href="https://www.deepdotweb.com/tag/500/" rel="tag">500</a> <a href="https://www.deepdotweb.com/tag/electronic/" rel="tag">electronic</a> <a href="https://www.deepdotweb.com/tag/percent/" rel="tag">percent</a> <a href="https://www.deepdotweb.com/tag/requests/" rel="tag">requests</a> <a href="https://www.deepdotweb.com/tag/states/" rel="tag">states</a> <a href="https://www.deepdotweb.com/tag/surveillance/" rel="tag">surveillance</a> <a href="https://www.deepdotweb.com/tag/united/" rel="tag">united</a></span> <span style="display:none" class="updated">2016-11-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

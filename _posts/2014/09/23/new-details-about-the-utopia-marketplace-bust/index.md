@@ -41,6 +41,4 @@ New Details About the Utopia/BMR Busts
     </div>
     <a href="https://www.deepdotweb.com/tag/assassin/" rel="tag">assassin</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a></span> <span style="display:none" class="updated">2014-09-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

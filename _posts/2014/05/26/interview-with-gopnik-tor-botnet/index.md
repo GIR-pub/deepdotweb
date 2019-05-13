@@ -50,6 +50,4 @@ Interview with Gopnik Tor botnet Programmer
     </div>
     <a href="https://www.deepdotweb.com/tag/botnet/" rel="tag">botnet</a> <a href="https://www.deepdotweb.com/tag/gopnik/" rel="tag">gopnik</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> </span> <span style="display:none" class="updated">2014-05-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chrishansen/" title="Posts by ChrisHansen" rel="author">ChrisHansen</a></strong></div>
-    </div>
-</article>
-
+    

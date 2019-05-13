@@ -29,6 +29,4 @@ The FBI Hacked 8,000 Computers in 120 Countries With a Single Warrant
     </div>
     <a href="https://www.deepdotweb.com/tag/120/" rel="tag">120</a> <a href="https://www.deepdotweb.com/tag/8000/" rel="tag">8000</a> <a href="https://www.deepdotweb.com/tag/computers/" rel="tag">computers</a> <a href="https://www.deepdotweb.com/tag/countries/" rel="tag">countries</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/single/" rel="tag">single</a> <a href="https://www.deepdotweb.com/tag/warrant/" rel="tag">warrant</a></span> <span style="display:none" class="updated">2016-12-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

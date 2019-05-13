@@ -20,6 +20,4 @@ DNM Vendor TripWithScience Donating Funds To Charities
 <p>I think TripWithScience provides a great example for the whole DNM community with his acts, and maybe these kinds of acts are needed to save the reputation of the whole darknet.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/charities/" rel="tag">charities</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/donating/" rel="tag">donating</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/tripwithscience/" rel="tag">tripwithscience</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-10-07<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

@@ -18,6 +18,4 @@ Russia to Enact Mass Internet Surveillance Laws
     </div>
     <a href="https://www.deepdotweb.com/tag/enact/" rel="tag">enact</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/laws/" rel="tag">laws</a> <a href="https://www.deepdotweb.com/tag/mass/" rel="tag">mass</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/surveillance/" rel="tag">surveillance</a></span> <span style="display:none" class="updated">2016-07-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

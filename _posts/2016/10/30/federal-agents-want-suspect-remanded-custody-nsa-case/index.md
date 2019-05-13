@@ -26,6 +26,4 @@ Federal Agents Want Suspect To Be Remanded In Custody In NSA Case
     </div>
     <a href="https://www.deepdotweb.com/tag/agents/" rel="tag">agents</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/custody/" rel="tag">custody</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/remanded/" rel="tag">remanded</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a></span> <span style="display:none" class="updated">2016-10-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

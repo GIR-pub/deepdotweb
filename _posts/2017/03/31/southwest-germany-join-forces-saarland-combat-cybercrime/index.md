@@ -27,6 +27,4 @@ Southwest Germany To Join Forces With Saarland To Combat Cybercrime
 <p>It is unclear if there were any dark net-related activity among the cybercriminals.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/combat/" rel="tag">combat</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/forces/" rel="tag">forces</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/join/" rel="tag">join</a> <a href="https://www.deepdotweb.com/tag/saarland/" rel="tag">saarland</a> <a href="https://www.deepdotweb.com/tag/southwest/" rel="tag">southwest</a></span> <span style="display:none" class="updated">2017-03-31<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

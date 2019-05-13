@@ -19,6 +19,4 @@ French Fraudster Made 400k in Only a “Few Months”
     </div>
     <a href="https://www.deepdotweb.com/tag/400k/" rel="tag">400k</a> <a href="https://www.deepdotweb.com/tag/fraudster/" rel="tag">fraudster</a> <a href="https://www.deepdotweb.com/tag/french/" rel="tag">french</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a></span> <span style="display:none" class="updated">2017-12-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -20,6 +20,4 @@ Boston Police Department Ends Plan To Monitor the Darknet and Social Media
     </div>
     <a href="https://www.deepdotweb.com/tag/boston/" rel="tag">boston</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a> <a href="https://www.deepdotweb.com/tag/ends/" rel="tag">ends</a> <a href="https://www.deepdotweb.com/tag/media/" rel="tag">media</a> <a href="https://www.deepdotweb.com/tag/monitor/" rel="tag">monitor</a> <a href="https://www.deepdotweb.com/tag/plan/" rel="tag">plan</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/social/" rel="tag">social</a></span> <span style="display:none" class="updated">2017-02-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

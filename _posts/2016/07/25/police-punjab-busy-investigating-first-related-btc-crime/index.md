@@ -27,6 +27,4 @@ Police in Punjab Investigating It’s First Related BTC Crime
     </div>
     <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/busy/" rel="tag">busy</a> <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/investigating/" rel="tag">investigating</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/punjab/" rel="tag">punjab</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a></span> <span style="display:none" class="updated">2016-07-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

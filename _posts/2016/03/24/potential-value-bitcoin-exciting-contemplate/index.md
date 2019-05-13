@@ -43,6 +43,4 @@ The Potential Value of Bitcoin is Exciting To Contemplate
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/contemplate/" rel="tag">contemplate</a> <a href="https://www.deepdotweb.com/tag/exciting/" rel="tag">exciting</a> <a href="https://www.deepdotweb.com/tag/potential/" rel="tag">potential</a></span> <span style="display:none" class="updated">2016-03-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-    </div>
-</article>
-
+    

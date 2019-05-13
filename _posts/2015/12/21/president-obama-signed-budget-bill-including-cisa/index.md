@@ -16,6 +16,4 @@ President Obama Signed Budget Bill Including CISA
 <p>”While the federal government has been trying to toughen its stance on cybersecurity in the wake of massive hacks on the Office of Personnel Management and Sony, we wound up with an, even more, effete version of a questionable plan that will soon become law.”</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/budget/" rel="tag">budget</a> <a href="https://www.deepdotweb.com/tag/cisa/" rel="tag">cisa</a> <a href="https://www.deepdotweb.com/tag/including/" rel="tag">including</a> <a href="https://www.deepdotweb.com/tag/obama/" rel="tag">obama</a> <a href="https://www.deepdotweb.com/tag/president/" rel="tag">president</a> <a href="https://www.deepdotweb.com/tag/signed/" rel="tag">signed</a></span> <span style="display:none" class="updated">2015-12-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

@@ -23,6 +23,4 @@ Senate Bill To Backdoor US Encryption
     </div>
     <a href="https://www.deepdotweb.com/tag/backdoor/" rel="tag">backdoor</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a></span> <span style="display:none" class="updated">2016-04-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

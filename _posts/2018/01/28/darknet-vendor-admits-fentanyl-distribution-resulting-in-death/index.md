@@ -20,6 +20,4 @@ Darknet Vendor Admits Fentanyl Distribution Resulting in Death
 <p>Later, during the investigation that followed Mansfield’s arrest, federal investigators connected the fentanyl sold by Mansfield to an overdose in the United States. They also searched storage units and other properties connected to the man. In January, 2018, Mansfield pleaded guilty to distribution of fentanyl resulting in a death. District Judge David C. Norton accepted the charge of plea. The judge will impose a sentence at a later date, but the charge requires a mandatory minimum of 20 years in prison.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/death/" rel="tag">death</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/resulting/" rel="tag">resulting</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-01-28<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

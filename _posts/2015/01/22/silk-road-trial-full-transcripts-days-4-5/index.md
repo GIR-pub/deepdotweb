@@ -24,6 +24,4 @@ Silk Road Trial: Full Transcripts of Days 4 &#038; 5 (21 &#8211; 20.1.15)
     </div>
     <a href="https://www.deepdotweb.com/tag/days/" rel="tag">days</a> <a href="https://www.deepdotweb.com/tag/full/" rel="tag">full</a>  <a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a> <a href="https://www.deepdotweb.com/tag/transcripts/" rel="tag">transcripts</a> <a href="https://www.deepdotweb.com/tag/transcriptsr/" rel="tag">transcriptSR</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span> <span style="display:none" class="updated">2015-01-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

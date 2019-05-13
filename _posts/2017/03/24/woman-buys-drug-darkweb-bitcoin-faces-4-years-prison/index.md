@@ -25,6 +25,4 @@ Woman Buys Drug From Darkweb With Bitcoin, Faces 4 Years in Prison
 <p>While it is difficult to speculate the sentencing of Holl, in consideration of the 20-year prison sentence and US$1 million fine Lanier received for her major role in the drug trafficking ring, Holl will likely receive a similar sentence to her wife Robertson.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/buys/" rel="tag">buys</a> <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a>  <a href="https://www.deepdotweb.com/tag/faces/" rel="tag">faces</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/woman/" rel="tag">woman</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-03-24<a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-</div>
-</article>
 

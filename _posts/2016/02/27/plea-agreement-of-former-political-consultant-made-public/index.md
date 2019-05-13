@@ -19,6 +19,4 @@ Plea Agreement Of Former Political Consultant Made Public
     </div>
     <a href="https://www.deepdotweb.com/tag/agreement/" rel="tag">agreement</a> <a href="https://www.deepdotweb.com/tag/consultant/" rel="tag">consultant</a> <a href="https://www.deepdotweb.com/tag/plea/" rel="tag">plea</a> <a href="https://www.deepdotweb.com/tag/political/" rel="tag">political</a> <a href="https://www.deepdotweb.com/tag/public/" rel="tag">public</a></span> <span style="display:none" class="updated">2016-02-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

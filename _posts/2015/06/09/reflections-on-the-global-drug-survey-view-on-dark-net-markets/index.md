@@ -20,6 +20,4 @@ Reflections on the Global Drug Survey view on Dark Net Markets
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/reflections/" rel="tag">reflections</a> <a href="https://www.deepdotweb.com/tag/survey/" rel="tag">survey</a> <a href="https://www.deepdotweb.com/tag/view/" rel="tag">view</a></span> <span style="display:none" class="updated">2015-06-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

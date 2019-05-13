@@ -18,6 +18,4 @@
 <p>We encourage readers to check out DeepDotWeb’s <a href="https://www.deepdotweb.com/vpn-comparison-chart/">Best VPN Service Comparison Chart</a>.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/logs/" rel="tag">logs</a> <a href="https://www.deepdotweb.com/tag/provider/" rel="tag">provider</a> <a href="https://www.deepdotweb.com/tag/shared/" rel="tag">shared</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2017-10-24<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-</div>
-</article>
 

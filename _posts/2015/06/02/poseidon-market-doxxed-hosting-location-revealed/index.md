@@ -16,6 +16,4 @@ Poseidon Market Doxxed: Hosting Location Revealed
     </div>
     <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/location/" rel="tag">location</a> <a href="https://www.deepdotweb.com/tag/poseidon/" rel="tag">poseidon</a> <a href="https://www.deepdotweb.com/tag/revealed/" rel="tag">revealed</a></span> <span style="display:none" class="updated">2015-06-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

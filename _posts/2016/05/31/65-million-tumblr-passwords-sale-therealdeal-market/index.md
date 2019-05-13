@@ -26,6 +26,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/65/" rel="tag">65</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/passwords/" rel="tag">passwords</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a> <a href="https://www.deepdotweb.com/tag/tumblr/" rel="tag">tumblr</a></span> <span style="display:none" class="updated">2016-05-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/janobi/" title="Posts by Janobi" rel="author">Janobi</a></strong></div>
-    </div>
-</article>
-
+    

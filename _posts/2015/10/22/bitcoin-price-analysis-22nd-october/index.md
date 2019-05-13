@@ -42,6 +42,4 @@ Bitcoin Price Analysis 22nd October
 <p>This year has been interesting to watch, as $200 support has formed a base for a repeating pattern. Soon or later, a decision will have to be made on whether the bear trend continues or a trend reversal marking $152 as the final bottom.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/22nd/" rel="tag">22nd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-10-22<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

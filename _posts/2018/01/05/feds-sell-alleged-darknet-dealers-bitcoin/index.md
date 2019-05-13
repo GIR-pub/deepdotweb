@@ -19,6 +19,4 @@ Feds to Sell Alleged Darknet Dealer’s Bitcoin
 <p>Grand jury indictments accused Shamo, Crandall, and the other co-conspirators of distributing more than 12,000 grams of controlled substances, mostly consisting of synthetic opioids and alprazolam. Shamo has pleaded not guilty to running a criminal enterprise, conspiracy to distribute a controlled substance, possession of fentanyl, and possession of fentanyl with intent to distribute. Recently, a judge ruled that Shamo’s partner, Crandall, posed <a href="https://www.deepdotweb.com/2017/12/11/darknet-opioid-ring-suspect-stay-jail-trial/">too much of a flight risk</a> for a pre-trial release.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/sell/" rel="tag">sell</a></span> <span style="display:none" class="updated">2018-01-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

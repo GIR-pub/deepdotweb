@@ -27,6 +27,4 @@ Law Enforcement Looks Into Islamic Preachers Spreading Instigating Videos on Dar
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/instigating/" rel="tag">instigating</a> <a href="https://www.deepdotweb.com/tag/islamic/" rel="tag">islamic</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/preachers/" rel="tag">preachers</a> <a href="https://www.deepdotweb.com/tag/spreading/" rel="tag">spreading</a> <a href="https://www.deepdotweb.com/tag/videos/" rel="tag">videos</a></span> <span style="display:none" class="updated">2017-01-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

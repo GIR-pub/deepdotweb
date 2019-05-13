@@ -22,6 +22,4 @@ Reflective Look at Net Neutrality
     </div>
     <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/neutrality/" rel="tag">neutrality</a></span> <span style="display:none" class="updated">2014-09-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/mikewilkerson/" title="Posts by Mike Wilkerson" rel="author">Mike Wilkerson</a></strong></div>
-    </div>
-</article>
-
+    

@@ -24,6 +24,4 @@ FBI Transparency Report Shows a Decline in NSLs
     </div>
     <a href="https://www.deepdotweb.com/tag/decline/" rel="tag">decline</a> <a href="https://www.deepdotweb.com/tag/nsls/" rel="tag">nsls</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/shows/" rel="tag">shows</a> <a href="https://www.deepdotweb.com/tag/transparency/" rel="tag">transparency</a></span> <span style="display:none" class="updated">2017-05-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

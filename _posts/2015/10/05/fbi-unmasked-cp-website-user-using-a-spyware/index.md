@@ -17,6 +17,4 @@ FBI Unmasked CP Website User Using A Spyware
 <p>According to investigators, Escobosa thought he kept no copies of illegal content on his PC, but agents found 115 child sex abuse images stored in the thumbnail cache of his Tor browser – plus logs of IRC chats with other users of child porn websites. After he was arrested, Escobosa said nothing and demanded a lawyer, then admitted to the Feds he had surfed websites looking for images containing CP.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/cp/" rel="tag">cp</a> <a href="https://www.deepdotweb.com/tag/spyware/" rel="tag">spyware</a> <a href="https://www.deepdotweb.com/tag/unmasked/" rel="tag">unmasked</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a> <a href="https://www.deepdotweb.com/tag/website/" rel="tag">website</a></span> <span style="display:none" class="updated">2015-10-05<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

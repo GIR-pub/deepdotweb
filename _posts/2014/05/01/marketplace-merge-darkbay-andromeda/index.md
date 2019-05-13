@@ -47,6 +47,4 @@ Marketplace Merge: DarkBay &#038; Andromeda
     </div>
     <a href="https://www.deepdotweb.com/tag/andromeda/" rel="tag">andromeda</a> <a href="https://www.deepdotweb.com/tag/darkbay/" rel="tag">darkbay</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/merge/" rel="tag">merge</a></span> <span style="display:none" class="updated">2014-05-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

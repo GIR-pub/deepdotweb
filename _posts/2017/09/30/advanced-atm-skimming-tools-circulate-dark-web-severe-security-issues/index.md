@@ -24,6 +24,4 @@ Advanced ATM Skimming Tools Circulate Dark Web, Severe Security Issues
     </div>
     <a href="https://www.deepdotweb.com/tag/advanced/" rel="tag">advanced</a> <a href="https://www.deepdotweb.com/tag/atm/" rel="tag">atm</a> <a href="https://www.deepdotweb.com/tag/circulate/" rel="tag">circulate</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/issues/" rel="tag">issues</a>  <a href="https://www.deepdotweb.com/tag/severe/" rel="tag">severe</a> <a href="https://www.deepdotweb.com/tag/skimming/" rel="tag">skimming</a> <a href="https://www.deepdotweb.com/tag/tools/" rel="tag">tools</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-09-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

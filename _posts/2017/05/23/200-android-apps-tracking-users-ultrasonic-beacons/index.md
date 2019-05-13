@@ -19,6 +19,4 @@ Over 200 Android Apps Are Tracking Users with Ultrasonic Beacons
     </div>
      <a href="https://www.deepdotweb.com/tag/android/" rel="tag">android</a> <a href="https://www.deepdotweb.com/tag/apps/" rel="tag">apps</a> <a href="https://www.deepdotweb.com/tag/beacons/" rel="tag">beacons</a> <a href="https://www.deepdotweb.com/tag/tracking/" rel="tag">tracking</a> <a href="https://www.deepdotweb.com/tag/ultrasonic/" rel="tag">ultrasonic</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2017-05-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

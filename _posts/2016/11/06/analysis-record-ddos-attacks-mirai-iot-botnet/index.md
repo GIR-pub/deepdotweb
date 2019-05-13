@@ -161,6 +161,4 @@ Analysis: Record DDoS Attacks by Mirai &#8211; IoT Botnet
     </div>
     <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/botnet/" rel="tag">botnet</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/iot/" rel="tag">iot</a> <a href="https://www.deepdotweb.com/tag/mirai/" rel="tag">mirai</a> <a href="https://www.deepdotweb.com/tag/record/" rel="tag">record</a></span> <span style="display:none" class="updated">2016-11-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
-    </div>
-</article>
-
+    

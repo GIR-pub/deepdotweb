@@ -22,6 +22,4 @@ Can you justify keeping client records on DNMs? F**k no.
     </div>
     <a href="https://www.deepdotweb.com/tag/client/" rel="tag">client</a> <a href="https://www.deepdotweb.com/tag/dnms/" rel="tag">dnms</a> <a href="https://www.deepdotweb.com/tag/fk/" rel="tag">fk</a> <a href="https://www.deepdotweb.com/tag/justify/" rel="tag">justify</a> <a href="https://www.deepdotweb.com/tag/keeping/" rel="tag">keeping</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a></span> <span style="display:none" class="updated">2015-12-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

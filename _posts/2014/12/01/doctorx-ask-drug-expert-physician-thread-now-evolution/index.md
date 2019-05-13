@@ -35,6 +35,4 @@ DoctorX “Ask a Drug Expert Physician” Thread – Now On Evolution!
     </div>
     <a href="https://www.deepdotweb.com/tag/doctorx/" rel="tag">doctorx</a>  <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/physician/" rel="tag">physician</a> <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> <span style="display:none" class="updated">2014-12-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

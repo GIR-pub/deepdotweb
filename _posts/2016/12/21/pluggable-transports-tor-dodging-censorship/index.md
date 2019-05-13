@@ -56,6 +56,4 @@ Pluggable Transports for Tor: Dodging Censorship
     </div>
     <a href="https://www.deepdotweb.com/tag/censorship/" rel="tag">censorship</a> <a href="https://www.deepdotweb.com/tag/dodging/" rel="tag">dodging</a> <a href="https://www.deepdotweb.com/tag/pluggable/" rel="tag">pluggable</a>  <a href="https://www.deepdotweb.com/tag/transports/" rel="tag">transports</a></span> <span style="display:none" class="updated">2016-12-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
-    </div>
-</article>
-
+    

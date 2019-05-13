@@ -22,6 +22,4 @@ Convicted German Sentenced To Probation
 <p>Due to the lack of information, it is unclear whether the 31-year-old was sentenced to two years of probation or five for ordering narcotics from the dark web. The most possible answer would be two years since the man was serving a probation period when he reoffended.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/probation/" rel="tag">probation</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-03-01<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

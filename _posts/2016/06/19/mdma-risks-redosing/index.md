@@ -25,6 +25,4 @@ MDMA: The Risks of Redosing
     </div>
     <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/redosing/" rel="tag">redosing</a> <a href="https://www.deepdotweb.com/tag/risks/" rel="tag">risks</a></span> <span style="display:none" class="updated">2016-06-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kevin/" title="Posts by -Kevin-" rel="author">-Kevin-</a></strong></div>
-    </div>
-</article>
-
+    

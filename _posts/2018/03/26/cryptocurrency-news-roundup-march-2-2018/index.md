@@ -41,6 +41,4 @@ Cryptocurrency news roundup, March 2, 2018
 <p>This week, the cryptocurrency ecosystem seemingly started to recover from its months-long bear market as the world’s economic leaders revealed, during the G20 summit, that they weren’t going to crackdown on cryptocurrencies, but would instead seek to regulate them. While the bullish movement was short, the market is once again seemingly recovering, as Bitcoin, the flagship cryptocurrency, is currently up by 5.28 percent. One Bitcoin is currently <a href="https://coinmarketcap.com/currencies/verge/">trading at $8,890</a>, and its market cap is of $150 billion.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/2018/" rel="tag">2018</a> <a href="https://www.deepdotweb.com/tag/24/" rel="tag">24</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2018-03-26<a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
-</div>
-</article>
 

@@ -17,6 +17,4 @@ New York Man Jailed For Attempting To Buy Ricin From The Dark Web
     </div>
     <a href="https://www.deepdotweb.com/tag/attempting/" rel="tag">attempting</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/ricin/" rel="tag">ricin</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/york/" rel="tag">york</a></span> <span style="display:none" class="updated">2016-03-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

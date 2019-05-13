@@ -1,12 +1,9 @@
 ---
-title: "Uncle Scam: Czech Owner of Sheep Marketplace Working With the FBI?
+title: "Uncle Scam: Czech Owner of Sheep Marketplace Working With the FBI?"
 ---
-2243  tag-czech tag-owner tag-scam tag-sheep tag-uncle tag-working">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 4, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/12/04/uncle-scam-czech-owner-of-sheep-marketplace-working-with-the-fbi/#comments">9 Comments</a></span>
 
 
 <p>Who benefited from one of the largest bitcoin heists in history?  ‘Benefit’ is an interesting word &#8211; simply because a benefit doesn’t necessarily mean a payoff in the form of currency.  Perhaps, <i>the payoff</i> can come in the form of a successful operation, a mission accomplished.</p>
@@ -51,6 +48,6 @@ title: "Uncle Scam: Czech Owner of Sheep Marketplace Working With the FBI?
 <p>If the FBI simply used SMP to track users in the darknet drug trade, allowing it to continue until the time was right, it is certainly not outside the realm of possibility.  With all we have found out about US government tactics in 2013 alone, no tactic seems out-of-bounds any longer.</p>
 <p>These, of course, are only theories…</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/czech/" rel="tag">czech</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/uncle/" rel="tag">uncle</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a>
+
 
 Updated: 2013-12-04

@@ -24,6 +24,4 @@
 <p>No further news regarding the two at-large defendants exists.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/23/" rel="tag">23</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a></span> <span style="display:none" class="updated">2017-03-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

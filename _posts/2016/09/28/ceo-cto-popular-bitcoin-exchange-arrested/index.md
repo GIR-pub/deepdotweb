@@ -20,6 +20,4 @@ CEO and CTO of Popular Bitcoin Exchange Arrested
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/ceo/" rel="tag">ceo</a> <a href="https://www.deepdotweb.com/tag/cto/" rel="tag">cto</a> <a href="https://www.deepdotweb.com/tag/exchange/" rel="tag">exchange</a> <a href="https://www.deepdotweb.com/tag/kptx/" rel="tag">kptx</a> <a href="https://www.deepdotweb.com/tag/popular/" rel="tag">popular</a></span> <span style="display:none" class="updated">2016-09-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

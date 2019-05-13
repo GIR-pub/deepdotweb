@@ -43,6 +43,4 @@ Tor&#8217;s Hidden Service Publishing Tool, Stormy: A Closer Look
     </div>
      <a href="https://www.deepdotweb.com/tag/publishing/" rel="tag">publishing</a> <a href="https://www.deepdotweb.com/tag/spokesperson/" rel="tag">spokesperson</a> <a href="https://www.deepdotweb.com/tag/stormy/" rel="tag">stormy</a> <a href="https://www.deepdotweb.com/tag/tool/" rel="tag">tool</a>  <a href="https://www.deepdotweb.com/tag/tors/" rel="tag">tors</a></span> <span style="display:none" class="updated">2014-07-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
-    </div>
-</article>
-
+    

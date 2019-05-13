@@ -22,6 +22,4 @@ Global Operation Takes Down DDoS-for-Hire Site
 <p>By the time the suspects realized that the police caught onto their operation, the United States law enforcement agencies had seized the domain name. Investigations are ongoing and authorities fully expect to catch the users of the site. Ten users have already been arrested, <a href="https://www.deepdotweb.com/tag/netherlands">Dutch law enforcement</a> reported.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/ddosforhire/" rel="tag">ddosforhire</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a> <a href="https://www.deepdotweb.com/tag/takes/" rel="tag">takes</a></span> <span style="display:none" class="updated">2018-05-06<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

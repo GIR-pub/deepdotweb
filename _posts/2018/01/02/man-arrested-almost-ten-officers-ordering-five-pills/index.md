@@ -19,6 +19,4 @@ Man Arrested by ‘Almost Ten’ Officers for Ordering Five Pills
 <p>&#8220;I rarely consume but I will not let the police stop me.&#8221; Next time, he said, “I will simply order the pills from a Swiss supplier.” The first batch of pills came from the Netherlands. Not every first-time buyer knows that, for some countries, ordering from <a href="https://www.deepdotweb.com/tag/netherlands/">the Netherlands</a> will often lead to a seizure by customs, at best. Ten officers knocking at your door over five pills—while better than kicking the door down—might be one of the worst-case scenarios.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/officers/" rel="tag">officers</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a> <a href="https://www.deepdotweb.com/tag/ten/" rel="tag">ten</a></span> <span style="display:none" class="updated">2018-01-02<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

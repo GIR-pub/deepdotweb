@@ -25,6 +25,4 @@ Heroin Vendor Supremesmoke Busted
 <p>Upon a successful case (by LE), Gray could be facing 20 years of jail.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/heroin/" rel="tag">heroin</a> <a href="https://www.deepdotweb.com/tag/supremesmoke/" rel="tag">supremesmoke</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-08-22<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

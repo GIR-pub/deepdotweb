@@ -22,6 +22,4 @@ Singapore Overtakes HK in Fintech Race, Friendly Bitcoin &#038; Blockchain Regul
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/fintech/" rel="tag">fintech</a> <a href="https://www.deepdotweb.com/tag/friendly/" rel="tag">friendly</a> <a href="https://www.deepdotweb.com/tag/hk/" rel="tag">hk</a> <a href="https://www.deepdotweb.com/tag/overtakes/" rel="tag">overtakes</a> <a href="https://www.deepdotweb.com/tag/race/" rel="tag">race</a> <a href="https://www.deepdotweb.com/tag/regulations/" rel="tag">regulations</a> <a href="https://www.deepdotweb.com/tag/singapore/" rel="tag">singapore</a></span> <span style="display:none" class="updated">2016-12-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

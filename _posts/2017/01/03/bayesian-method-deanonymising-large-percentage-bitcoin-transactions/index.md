@@ -39,6 +39,4 @@ The Bayesian Method For Deanonymising A Large Percentage of Bitcoin Transactions
     </div>
     <a href="https://www.deepdotweb.com/tag/bayesian/" rel="tag">bayesian</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/deanonymising/" rel="tag">deanonymising</a> <a href="https://www.deepdotweb.com/tag/large/" rel="tag">large</a> <a href="https://www.deepdotweb.com/tag/method/" rel="tag">method</a> <a href="https://www.deepdotweb.com/tag/percentage/" rel="tag">percentage</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> <span style="display:none" class="updated">2017-01-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

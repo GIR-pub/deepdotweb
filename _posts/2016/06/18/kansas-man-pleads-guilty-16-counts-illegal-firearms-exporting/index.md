@@ -20,6 +20,4 @@ Kansas Man Pleads Guilty to 16 Counts of Illegal Firearms Exporting
     </div>
     <a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/counts/" rel="tag">counts</a> <a href="https://www.deepdotweb.com/tag/exporting/" rel="tag">exporting</a> <a href="https://www.deepdotweb.com/tag/firearms/" rel="tag">firearms</a>  <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/kansas/" rel="tag">kansas</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> </span> <span style="display:none" class="updated">2016-06-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

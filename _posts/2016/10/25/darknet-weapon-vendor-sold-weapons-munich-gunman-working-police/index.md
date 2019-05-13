@@ -27,6 +27,4 @@ Darknet Weapon Vendor Who Sold Weapons to the Munich Gunman is Working with Poli
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/gunman/" rel="tag">gunman</a> <a href="https://www.deepdotweb.com/tag/munich/" rel="tag">munich</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a>  <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a></span> <span style="display:none" class="updated">2016-10-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

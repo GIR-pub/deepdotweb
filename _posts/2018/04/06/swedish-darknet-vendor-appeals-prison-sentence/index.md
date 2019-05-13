@@ -19,6 +19,4 @@ Swedish Darknet Vendor Appeals Prison Sentence
 <p>The prosecution feels that have a strong case built against the 25-year-old. He is willing to take his chances in court, however. Even if the drug trafficking charges get dropped, the defendant will still be responsible for drug possession and weapons charges. He unlikely plans to leave prison regardless of the court&#8217;s ruling regarding his appeal.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/appeals/" rel="tag">appeals</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/swedish/" rel="tag">swedish</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-04-06<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

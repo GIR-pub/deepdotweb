@@ -18,6 +18,4 @@ Napoli Group Counterfeiters Arrested in Bavarian Operation
 <p>The police also said that the darknet allowed the counterfeiters to conduct fewer physical trafficking operations—for materials, at least. The majority of the supplies come from darknet suppliers as well. Even though counterfeit circulation is currently down in Germany, the police know the Napoli Group has not given up counterfeiting. International raids only slowed them for a year or two.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/bavarian/" rel="tag">bavarian</a> <a href="https://www.deepdotweb.com/tag/counterfeiters/" rel="tag">counterfeiters</a> <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/napoli/" rel="tag">napoli</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a></span> <span style="display:none" class="updated">2018-05-30<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

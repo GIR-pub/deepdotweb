@@ -19,6 +19,4 @@ Indian Drug Enforcement Officer Caught Stealing Bitcoins
     </div>
     <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a>  <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/indian/" rel="tag">indian</a> <a href="https://www.deepdotweb.com/tag/officer/" rel="tag">officer</a> <a href="https://www.deepdotweb.com/tag/stealing/" rel="tag">stealing</a></span> <span style="display:none" class="updated">2017-04-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

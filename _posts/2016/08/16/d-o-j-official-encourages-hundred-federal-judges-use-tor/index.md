@@ -25,6 +25,4 @@ D.O.J Official Encourages a Hundred Federal Judges to Use Tor
     </div>
     <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a> <a href="https://www.deepdotweb.com/tag/encourages/" rel="tag">encourages</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/judges/" rel="tag">judges</a> <a href="https://www.deepdotweb.com/tag/justice/" rel="tag">justice</a> <a href="https://www.deepdotweb.com/tag/official/" rel="tag">official</a> </span> <span style="display:none" class="updated">2016-08-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

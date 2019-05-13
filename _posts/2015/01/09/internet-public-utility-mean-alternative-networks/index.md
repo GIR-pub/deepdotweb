@@ -33,6 +33,4 @@ What the Internet as a Public Utility Would Mean for Alternative Networks
     </div>
     <a href="https://www.deepdotweb.com/tag/alternative/" rel="tag">alternative</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/networks/" rel="tag">networks</a> <a href="https://www.deepdotweb.com/tag/public/" rel="tag">public</a> <a href="https://www.deepdotweb.com/tag/utility/" rel="tag">utility</a></span> <span style="display:none" class="updated">2015-01-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
-    </div>
-</article>
-
+    

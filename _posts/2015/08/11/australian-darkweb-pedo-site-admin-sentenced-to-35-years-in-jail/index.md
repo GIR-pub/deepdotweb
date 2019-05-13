@@ -28,6 +28,4 @@ Australian DarkWeb Pedo Site Admin Sentenced To 35 Years in Jail
 <p>The child molester and The Love Zone admin has agreed with the court to provide evidence to the Royal Commission that will help their work to probe 10 key areas in Australia to ensure the safety of the children.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/35/" rel="tag">35</a> <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/jail/" rel="tag">jail</a> <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2015-08-11<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

@@ -23,6 +23,4 @@
 <p>Lastly, Peter Mihoc from the European Commission included that one of the primary issues is the knowledge gap and another being the lack of equipment needed for operations of law enforcement agencies.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/61st/" rel="tag">61st</a> <a href="https://www.deepdotweb.com/tag/commission/" rel="tag">commission</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/narcotic/" rel="tag">narcotic</a></span> <span style="display:none" class="updated">2018-04-05<a href="https://www.deepdotweb.com/author/isaacddanso/" title="Posts by Isaac Danso" rel="author">Isaac Danso</a></strong></div>
-</div>
-</article>
 

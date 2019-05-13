@@ -20,6 +20,4 @@ Ross Ulbricht is Officially on Twitter
 <p>Earlier in the month, the US libertarian party agreed at their annual convention to petition President Trump for a pardon. Failure to which, they expressly made intentions to elect a Libertarian president in 2020 to set him free.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/officially/" rel="tag">officially</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/twitter/" rel="tag">twitter</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2018-08-05<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

@@ -23,6 +23,4 @@ More Mega Breaches as 33 million QIP.ru Accounts are Hacked
     </div>
     <a href="https://www.deepdotweb.com/tag/33/" rel="tag">33</a> <a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/breaches/" rel="tag">breaches</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/mega/" rel="tag">mega</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/qipru/" rel="tag">qipru</a></span> <span style="display:none" class="updated">2016-09-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

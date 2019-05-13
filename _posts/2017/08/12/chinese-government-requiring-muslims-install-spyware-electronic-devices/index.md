@@ -19,6 +19,4 @@ Chinese Government Requiring Muslims to Install Spyware on Their Electronic Devi
     </div>
     <a href="https://www.deepdotweb.com/tag/chinese/" rel="tag">chinese</a> <a href="https://www.deepdotweb.com/tag/devices/" rel="tag">devices</a> <a href="https://www.deepdotweb.com/tag/electronic/" rel="tag">electronic</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/install/" rel="tag">install</a> <a href="https://www.deepdotweb.com/tag/muslims/" rel="tag">muslims</a> <a href="https://www.deepdotweb.com/tag/requiring/" rel="tag">requiring</a> <a href="https://www.deepdotweb.com/tag/spyware/" rel="tag">spyware</a></span> <span style="display:none" class="updated">2017-08-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

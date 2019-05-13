@@ -105,6 +105,4 @@ TorGuard VPN Review
     </div>
     <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/torguard/" rel="tag">torguard</a></span> <span style="display:none" class="updated">2015-11-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -30,6 +30,4 @@ Prosecutor Appeals The Judgment In Swedish Vendor Case
     </div>
     <a href="https://www.deepdotweb.com/tag/appeals/" rel="tag">appeals</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/judgment/" rel="tag">judgment</a> <a href="https://www.deepdotweb.com/tag/prosecutor/" rel="tag">prosecutor</a> <a href="https://www.deepdotweb.com/tag/swedish/" rel="tag">swedish</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-04-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

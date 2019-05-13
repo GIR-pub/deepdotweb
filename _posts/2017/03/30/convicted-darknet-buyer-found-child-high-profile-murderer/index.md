@@ -23,6 +23,4 @@ Convicted Darknet Buyer Found to be Child of High Profile Murderer
 <p><a href="https://www.deepdotweb.com/tag/sentenced/">Michael Carlton Paiva received 30 months in prison</a> for narcotics distribution.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/murderer/" rel="tag">murderer</a> <a href="https://www.deepdotweb.com/tag/profile/" rel="tag">profile</a></span> <span style="display:none" class="updated">2017-03-30<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

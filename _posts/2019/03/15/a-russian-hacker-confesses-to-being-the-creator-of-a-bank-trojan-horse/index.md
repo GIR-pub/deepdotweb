@@ -28,6 +28,4 @@ A Russian Hacker Confesses to Being the Creator of a Bank Trojan Horse
     </div>
     <a href="https://www.deepdotweb.com/tag/bank/" rel="tag">bank</a> <a href="https://www.deepdotweb.com/tag/confesses/" rel="tag">confesses</a> <a href="https://www.deepdotweb.com/tag/creator/" rel="tag">creator</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/horse/" rel="tag">horse</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/trojan/" rel="tag">trojan</a></span> <span style="display:none" class="updated">2019-03-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/steve_bale/" title="Posts by Steve_Bale" rel="author">Steve_Bale</a></strong></div>
-    </div>
-</article>
-
+    

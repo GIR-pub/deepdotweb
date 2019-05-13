@@ -83,6 +83,4 @@ tag-chip tag-mixer tag-review">
 </ul>
 </div>
 <a href="https://www.deepdotweb.com/tag/chip/" rel="tag">chip</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2018-01-21<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

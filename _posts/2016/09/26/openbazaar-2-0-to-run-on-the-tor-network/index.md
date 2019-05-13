@@ -23,6 +23,4 @@ OpenBazaar 2.0 To Run On The Tor Network
     </div>
      <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/openbazaar/" rel="tag">openbazaar</a> <a href="https://www.deepdotweb.com/tag/run/" rel="tag">run</a> </span> <span style="display:none" class="updated">2016-09-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

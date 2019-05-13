@@ -28,6 +28,4 @@ Wtf: Pedophiles Launch Dash (&#8220;Darkcoin&#8221;) Mining Crowdfunding Platfor
     </div>
     <a href="https://www.deepdotweb.com/tag/crowdfunding/" rel="tag">crowdfunding</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/dash/" rel="tag">dash</a>  <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a> <a href="https://www.deepdotweb.com/tag/pedophiles/" rel="tag">pedophiles</a> <a href="https://www.deepdotweb.com/tag/platform/" rel="tag">platform</a> <a href="https://www.deepdotweb.com/tag/wtf/" rel="tag">wtf</a></span> <span style="display:none" class="updated">2015-07-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

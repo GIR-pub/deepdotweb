@@ -18,6 +18,4 @@ Mother and Son Head to Prison for Darknet Drug Trafficking
 <p>Because of the defendant’s “true remorse,” the judge issued a sentence of six years and nine months imprisonment. The judge reminded the man that the sentence could have and would have been much stricter if not for Sebastian’s cooperation with police.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/mother/" rel="tag">mother</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/son/" rel="tag">son</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2018-03-14<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

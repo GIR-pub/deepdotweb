@@ -28,6 +28,4 @@ MDMA: Culture, Use and the Future
     </div>
     <a href="https://www.deepdotweb.com/tag/culture/" rel="tag">culture</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a></span> <span style="display:none" class="updated">2015-07-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lines_of_thought/" title="Posts by Lines_of_Thought" rel="author">Lines_of_Thought</a></strong></div>
-    </div>
-</article>
-
+    

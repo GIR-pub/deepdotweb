@@ -19,6 +19,4 @@ Pedo with the Biggest CP Collection Ever to be Banned from Working
     </div>
     <a href="https://www.deepdotweb.com/tag/banned/" rel="tag">banned</a> <a href="https://www.deepdotweb.com/tag/biggest/" rel="tag">biggest</a> <a href="https://www.deepdotweb.com/tag/collection/" rel="tag">collection</a> <a href="https://www.deepdotweb.com/tag/cp/" rel="tag">cp</a> <a href="https://www.deepdotweb.com/tag/pedo/" rel="tag">pedo</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a></span> <span style="display:none" class="updated">2016-07-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

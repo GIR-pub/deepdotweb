@@ -87,6 +87,4 @@ Secrets to Unmasking Bitcoin Scams &#8211; 4 Eye Opening Case Studies
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/eye/" rel="tag">eye</a> <a href="https://www.deepdotweb.com/tag/opening/" rel="tag">opening</a> <a href="https://www.deepdotweb.com/tag/scams/" rel="tag">scams</a> <a href="https://www.deepdotweb.com/tag/secrets/" rel="tag">secrets</a> <a href="https://www.deepdotweb.com/tag/studies/" rel="tag">studies</a> <a href="https://www.deepdotweb.com/tag/unmasking/" rel="tag">unmasking</a></span> <span style="display:none" class="updated">2015-05-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

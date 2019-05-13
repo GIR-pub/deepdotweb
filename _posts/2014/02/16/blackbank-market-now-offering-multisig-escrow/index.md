@@ -93,6 +93,4 @@ BlackBank Market Now Offering MultiSig Escrow
     </div>
     <span style="display:none" class="updated">2014-02-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

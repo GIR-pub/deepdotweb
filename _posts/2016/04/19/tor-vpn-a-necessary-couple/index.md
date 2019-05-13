@@ -36,6 +36,4 @@ TOR &#038; VPN: A Necessary Couple
     </div>
     <a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a>  <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-04-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
-    </div>
-</article>
-
+    

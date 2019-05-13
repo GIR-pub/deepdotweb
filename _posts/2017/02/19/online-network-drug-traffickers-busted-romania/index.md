@@ -24,6 +24,4 @@ Online Network Of Drug Traffickers Busted In Romania
     </div>
       <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a>  <a href="https://www.deepdotweb.com/tag/romania/" rel="tag">romania</a> <a href="https://www.deepdotweb.com/tag/traffickers/" rel="tag">traffickers</a></span> <span style="display:none" class="updated">2017-02-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Decentralized, Online Markets: A Response to Rand Paul?
     </div>
     <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a>  <a href="https://www.deepdotweb.com/tag/paul/" rel="tag">paul</a> <a href="https://www.deepdotweb.com/tag/rand/" rel="tag">rand</a> <a href="https://www.deepdotweb.com/tag/response/" rel="tag">response</a></span> <span style="display:none" class="updated">2014-07-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    </div>
-</article>
-
+    

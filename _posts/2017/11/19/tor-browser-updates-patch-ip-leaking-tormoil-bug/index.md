@@ -17,6 +17,4 @@ Tor Browser Updates Patch IP Leaking TorMoil Bug
     </div>
     <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/bug/" rel="tag">bug</a> <a href="https://www.deepdotweb.com/tag/ip/" rel="tag">ip</a> <a href="https://www.deepdotweb.com/tag/leaking/" rel="tag">leaking</a> <a href="https://www.deepdotweb.com/tag/patch/" rel="tag">patch</a>  <a href="https://www.deepdotweb.com/tag/tormoil/" rel="tag">tormoil</a> <a href="https://www.deepdotweb.com/tag/updates/" rel="tag">updates</a></span> <span style="display:none" class="updated">2017-11-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

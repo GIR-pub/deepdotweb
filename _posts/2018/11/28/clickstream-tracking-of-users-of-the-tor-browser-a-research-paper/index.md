@@ -36,6 +36,4 @@ tag-browser tag-clickstream tag-paper tag-research  tag-tracking tag-users">
 <p>The paper presented multiple means for tracking the clickstream of Tor users. It is worth mentioning that the biggest weakness that can boost the success of deanonymization attacks is the user. Users should be aware of techniques that can increase their privacy via Tor such as using a bridge, disabling JS, avoiding using Windows OS, and others. The Tor Project is continuously offering users detailed guidelines and tutorials to help them maximize their privacy and protect their online anonymity.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/clickstream/" rel="tag">clickstream</a> <a href="https://www.deepdotweb.com/tag/paper/" rel="tag">paper</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a>  <a href="https://www.deepdotweb.com/tag/tracking/" rel="tag">tracking</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2018-11-28<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

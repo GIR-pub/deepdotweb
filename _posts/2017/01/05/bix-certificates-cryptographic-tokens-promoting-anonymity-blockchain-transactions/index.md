@@ -51,6 +51,4 @@ BIX Certificates &#8211; Cryptographic Tokens Promoting Anonymity For Blockchain
     </div>
     <a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/bix/" rel="tag">bix</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/certificates/" rel="tag">certificates</a> <a href="https://www.deepdotweb.com/tag/cryptographic/" rel="tag">cryptographic</a> <a href="https://www.deepdotweb.com/tag/promoting/" rel="tag">promoting</a> <a href="https://www.deepdotweb.com/tag/tokens/" rel="tag">tokens</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> <span style="display:none" class="updated">2017-01-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

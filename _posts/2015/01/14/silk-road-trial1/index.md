@@ -63,6 +63,4 @@ Silk Road Trial: The Evidence &#038; Admission that Shook The Court Room
     </div>
     <a href="https://www.deepdotweb.com/tag/admission/" rel="tag">admission</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/evidence/" rel="tag">evidence</a>  <a href="https://www.deepdotweb.com/tag/room/" rel="tag">room</a> <a href="https://www.deepdotweb.com/tag/shook/" rel="tag">shook</a> <a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span> <span style="display:none" class="updated">2015-01-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

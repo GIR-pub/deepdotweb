@@ -23,6 +23,4 @@ The CIA Can Predict Future Events Five Days in Advance
     </div>
     <a href="https://www.deepdotweb.com/tag/advance/" rel="tag">advance</a> <a href="https://www.deepdotweb.com/tag/cia/" rel="tag">cia</a> <a href="https://www.deepdotweb.com/tag/days/" rel="tag">days</a> <a href="https://www.deepdotweb.com/tag/events/" rel="tag">events</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/predict/" rel="tag">predict</a></span> <span style="display:none" class="updated">2016-10-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

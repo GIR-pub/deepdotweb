@@ -24,6 +24,4 @@ Group Busted for Shipping Drugs Inside Lawnmowers
     </div>
       <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/lawnmowers/" rel="tag">lawnmowers</a> <a href="https://www.deepdotweb.com/tag/shipping/" rel="tag">shipping</a></span> <span style="display:none" class="updated">2017-06-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

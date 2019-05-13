@@ -33,6 +33,4 @@ Employee of Coin.Mx Operator Gets 16 Months Sentence
     </div>
     <a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/admitted/" rel="tag">admitted</a> <a href="https://www.deepdotweb.com/tag/coinmx/" rel="tag">coinmx</a> <a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/operator/" rel="tag">operator</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a></span> <span style="display:none" class="updated">2017-11-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-    </div>
-</article>
-
+    

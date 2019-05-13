@@ -1,12 +1,9 @@
 ---
-title: "BMR Is Shutting Down!
+title: "BMR Is Shutting Down!"
 ---
-2223  tag-bmr tag-shutting">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 1, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/12/01/bmr-is-shutting-down/#comments">3 Comments</a></span>
 
 
 <div>
@@ -51,9 +48,6 @@ title: "BMR Is Shutting Down!
 <p>6. Will this be the fall the TOR marketplaces will become the rise the I2P marketplaces?</p>
 <p>We hope that these questions will be answered and that everyone will stay safe until than. And above all,  we will love to know that BMR was closed in a respected manner without scamming or getting busted.</p>
 <p>&nbsp;</p>
-</div>
-</div>
-</div>
-<a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/shutting/" rel="tag">shutting</a>
+
 
 Updated: 2013-12-01

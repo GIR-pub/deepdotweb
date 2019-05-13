@@ -17,6 +17,4 @@ Agora Update: &#8220;it should be more safe to use JavaScript in the browser on 
     </div>
     <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/javascript/" rel="tag">javascript</a> <a href="https://www.deepdotweb.com/tag/safe/" rel="tag">safe</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-06-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

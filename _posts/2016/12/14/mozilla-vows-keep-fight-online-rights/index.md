@@ -21,6 +21,4 @@ Mozilla Vows to Keep up the Fight for Online Rights
     </div>
     <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/mozilla/" rel="tag">mozilla</a>  <a href="https://www.deepdotweb.com/tag/rights/" rel="tag">rights</a> <a href="https://www.deepdotweb.com/tag/vows/" rel="tag">vows</a></span> <span style="display:none" class="updated">2016-12-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

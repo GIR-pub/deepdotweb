@@ -21,6 +21,4 @@ Ex-Cop Sentenced for Abusing His Own Granddaughter
 <p>&nbsp;</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/abusing/" rel="tag">abusing</a> <a href="https://www.deepdotweb.com/tag/excop/" rel="tag">excop</a> <a href="https://www.deepdotweb.com/tag/granddaughter/" rel="tag">granddaughter</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-05-24<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

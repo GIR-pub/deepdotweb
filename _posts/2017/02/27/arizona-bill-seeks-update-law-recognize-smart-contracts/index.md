@@ -17,6 +17,4 @@ Arizona Bill Seeks to Update Law to Recognize Smart Contracts
     </div>
     <a href="https://www.deepdotweb.com/tag/arizona/" rel="tag">arizona</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/contracts/" rel="tag">contracts</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/recognize/" rel="tag">recognize</a> <a href="https://www.deepdotweb.com/tag/seeks/" rel="tag">seeks</a> <a href="https://www.deepdotweb.com/tag/smart/" rel="tag">smart</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2017-02-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

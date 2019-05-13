@@ -22,6 +22,4 @@ Department of Justice Plans New Laws “Just Like Rule 41” For International C
     </div>
     <a href="https://www.deepdotweb.com/tag/41/" rel="tag">41</a> <a href="https://www.deepdotweb.com/tag/cybersecurity/" rel="tag">cybersecurity</a> <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a> <a href="https://www.deepdotweb.com/tag/international/" rel="tag">international</a> <a href="https://www.deepdotweb.com/tag/justice/" rel="tag">justice</a> <a href="https://www.deepdotweb.com/tag/laws/" rel="tag">laws</a> <a href="https://www.deepdotweb.com/tag/plans/" rel="tag">plans</a> <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a></span> <span style="display:none" class="updated">2016-12-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -26,6 +26,4 @@ Hackers Demand Over $250,000 for Ransomware Decryption Keys
     </div>
     <a href="https://www.deepdotweb.com/tag/250000/" rel="tag">250000</a> <a href="https://www.deepdotweb.com/tag/decryption/" rel="tag">decryption</a> <a href="https://www.deepdotweb.com/tag/demand/" rel="tag">demand</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/keys/" rel="tag">keys</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a></span> <span style="display:none" class="updated">2017-07-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

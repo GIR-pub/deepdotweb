@@ -22,6 +22,4 @@ tag-bitcoin tag-deal tag-fees tag-skyrocketed tag-transaction">
 <p>In the end, it is worth mentioning that the recent rise in bitcoin&#8217;s transaction fees represents a great problem that might slow down mass adoption of bitcoin. In my opinion, the developers already have the solutions to overcome these problems, such as the &#8220;<a href="https://www.deepdotweb.com/2017/06/16/bitcoin-imminent-fork-aftermaths/">lightning network</a>&#8220;, yet they are very slow in putting these solutions into actions.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/deal/" rel="tag">deal</a> <a href="https://www.deepdotweb.com/tag/fees/" rel="tag">fees</a> <a href="https://www.deepdotweb.com/tag/skyrocketed/" rel="tag">skyrocketed</a> <a href="https://www.deepdotweb.com/tag/transaction/" rel="tag">transaction</a></span> <span style="display:none" class="updated">2018-01-19<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

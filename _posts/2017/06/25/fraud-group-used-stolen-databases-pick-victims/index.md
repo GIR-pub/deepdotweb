@@ -24,6 +24,4 @@ Fraud Group Used Stolen Databases to Pick Victims
     </div>
     <a href="https://www.deepdotweb.com/tag/databases/" rel="tag">databases</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/group/" rel="tag">group</a> <a href="https://www.deepdotweb.com/tag/pick/" rel="tag">pick</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/victims/" rel="tag">victims</a></span> <span style="display:none" class="updated">2017-06-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

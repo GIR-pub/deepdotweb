@@ -20,6 +20,4 @@ British Woman Overdosed On N-bomb – Thought It Was Cocaine
     </div>
     <a href="https://www.deepdotweb.com/tag/british/" rel="tag">british</a> <a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/nbomb/" rel="tag">nbomb</a> <a href="https://www.deepdotweb.com/tag/overdosed/" rel="tag">overdosed</a> <a href="https://www.deepdotweb.com/tag/thought/" rel="tag">thought</a> <a href="https://www.deepdotweb.com/tag/woman/" rel="tag">woman</a></span> <span style="display:none" class="updated">2017-07-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -28,6 +28,4 @@ Park City Parents File a Court Notice to Incriminate Dark Web, Tor Software and 
     </div>
     <a href="https://www.deepdotweb.com/tag/city/" rel="tag">city</a> <a href="https://www.deepdotweb.com/tag/companies/" rel="tag">companies</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/file/" rel="tag">file</a> <a href="https://www.deepdotweb.com/tag/incriminate/" rel="tag">incriminate</a> <a href="https://www.deepdotweb.com/tag/mail/" rel="tag">mail</a> <a href="https://www.deepdotweb.com/tag/notice/" rel="tag">notice</a> <a href="https://www.deepdotweb.com/tag/parents/" rel="tag">parents</a> <a href="https://www.deepdotweb.com/tag/park/" rel="tag">park</a> <a href="https://www.deepdotweb.com/tag/software/" rel="tag">software</a>  <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2019-03-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/steve_bale/" title="Posts by Steve_Bale" rel="author">Steve_Bale</a></strong></div>
-    </div>
-</article>
-
+    

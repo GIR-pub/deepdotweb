@@ -27,6 +27,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/30000/" rel="tag">30000</a>  <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2014-06-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

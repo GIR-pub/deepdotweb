@@ -25,6 +25,4 @@ Swiss Government Starts Investigation Against Pedophiles Uncovered In Anonymous 
     </div>
     <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/pedophiles/" rel="tag">pedophiles</a> <a href="https://www.deepdotweb.com/tag/starts/" rel="tag">starts</a> <a href="https://www.deepdotweb.com/tag/swiss/" rel="tag">swiss</a> <a href="https://www.deepdotweb.com/tag/uncovered/" rel="tag">uncovered</a></span> <span style="display:none" class="updated">2017-07-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

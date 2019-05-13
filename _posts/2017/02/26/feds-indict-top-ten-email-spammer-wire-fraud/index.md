@@ -25,6 +25,4 @@ Feds Indict A &#8220;Top Ten&#8221; Email Spammer For Wire Fraud
     </div>
     <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a>  <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/indict/" rel="tag">indict</a> <a href="https://www.deepdotweb.com/tag/spammer/" rel="tag">spammer</a> <a href="https://www.deepdotweb.com/tag/ten/" rel="tag">ten</a> <a href="https://www.deepdotweb.com/tag/top/" rel="tag">top</a> <a href="https://www.deepdotweb.com/tag/wire/" rel="tag">wire</a></span> <span style="display:none" class="updated">2017-02-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

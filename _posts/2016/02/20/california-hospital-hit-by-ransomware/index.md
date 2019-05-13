@@ -22,6 +22,4 @@ California Hospital Hit By Ransomware
     </div>
     <a href="https://www.deepdotweb.com/tag/california/" rel="tag">california</a> <a href="https://www.deepdotweb.com/tag/hit/" rel="tag">hit</a> <a href="https://www.deepdotweb.com/tag/hospital/" rel="tag">hospital</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a></span> <span style="display:none" class="updated">2016-02-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

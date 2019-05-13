@@ -22,6 +22,4 @@ Sci-Hub Offers Encrypted Bot to Help Users Stay Safe
     </div>
     <a href="https://www.deepdotweb.com/tag/bot/" rel="tag">bot</a> <a href="https://www.deepdotweb.com/tag/encrypted/" rel="tag">encrypted</a> <a href="https://www.deepdotweb.com/tag/offers/" rel="tag">offers</a> <a href="https://www.deepdotweb.com/tag/safe/" rel="tag">safe</a> <a href="https://www.deepdotweb.com/tag/scihub/" rel="tag">scihub</a> <a href="https://www.deepdotweb.com/tag/stay/" rel="tag">stay</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2016-05-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

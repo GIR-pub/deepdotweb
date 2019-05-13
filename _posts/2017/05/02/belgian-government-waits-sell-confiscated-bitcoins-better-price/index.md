@@ -23,6 +23,4 @@ Belgian Government Waits To Sell Confiscated Bitcoins For A Better Price
     </div>
     <a href="https://www.deepdotweb.com/tag/belgian/" rel="tag">belgian</a> <a href="https://www.deepdotweb.com/tag/confiscated/" rel="tag">confiscated</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/sell/" rel="tag">sell</a> <a href="https://www.deepdotweb.com/tag/waits/" rel="tag">waits</a></span> <span style="display:none" class="updated">2017-05-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

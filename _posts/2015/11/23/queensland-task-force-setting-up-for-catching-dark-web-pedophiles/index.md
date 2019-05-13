@@ -19,6 +19,4 @@ Queensland Task Force Setting Up For Catching Dark Web Pedophiles
     </div>
     <a href="https://www.deepdotweb.com/tag/catching/" rel="tag">catching</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/pedophiles/" rel="tag">pedophiles</a> <a href="https://www.deepdotweb.com/tag/queensland/" rel="tag">queensland</a> <a href="https://www.deepdotweb.com/tag/setting/" rel="tag">setting</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-11-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Commodity Aesthetics of Privacy Across Darknets
     </div>
     <a href="https://www.deepdotweb.com/tag/aesthetics/" rel="tag">aesthetics</a> <a href="https://www.deepdotweb.com/tag/commodity/" rel="tag">commodity</a> <a href="https://www.deepdotweb.com/tag/darknets/" rel="tag">darknets</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a></span> <span style="display:none" class="updated">2017-06-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

@@ -31,6 +31,4 @@ tag-aftermaths tag-bayonet tag-dream tag-migration tag-operation tag-research ta
 <p>Looking beyond the herding of users to Dream Market, one could easily identify a scenario of ‘panicking’ community members, or at least a community where vendors feel forced try to entirely use new identities, be it with a new username, a new PGP-key, or even change both and start over completely.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/aftermaths/" rel="tag">aftermaths</a> <a href="https://www.deepdotweb.com/tag/bayonet/" rel="tag">bayonet</a> <a href="https://www.deepdotweb.com/tag/dream/" rel="tag">dream</a> <a href="https://www.deepdotweb.com/tag/migration/" rel="tag">migration</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2018-11-07<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

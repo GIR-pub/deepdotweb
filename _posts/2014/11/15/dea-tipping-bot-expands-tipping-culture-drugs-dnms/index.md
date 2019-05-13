@@ -25,6 +25,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/bot/" rel="tag">bot</a> <a href="https://www.deepdotweb.com/tag/culture/" rel="tag">culture</a> <a href="https://www.deepdotweb.com/tag/dea/" rel="tag">dea</a> <a href="https://www.deepdotweb.com/tag/dnms/" rel="tag">dnms</a>  <a href="https://www.deepdotweb.com/tag/expands/" rel="tag">expands</a> <a href="https://www.deepdotweb.com/tag/tipping/" rel="tag">tipping</a></span> <span style="display:none" class="updated">2014-11-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
-    </div>
-</article>
-
+    

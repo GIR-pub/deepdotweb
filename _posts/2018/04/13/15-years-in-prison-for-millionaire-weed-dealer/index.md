@@ -19,6 +19,4 @@
 <p>In addition to forfeiting millions of dollars of cash and possessions, Gordon will spend 15 years in prison and five years on supervised release. A sentencing hearing for Jean has been scheduled for April 6.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/15/" rel="tag">15</a>  <a href="https://www.deepdotweb.com/tag/millionaire/" rel="tag">millionaire</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/weed/" rel="tag">weed</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-04-13<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

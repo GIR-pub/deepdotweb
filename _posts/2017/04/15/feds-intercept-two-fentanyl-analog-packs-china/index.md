@@ -26,6 +26,4 @@ Feds Intercept Two Fentanyl Analog Packs From China
     </div>
     <a href="https://www.deepdotweb.com/tag/analog/" rel="tag">analog</a> <a href="https://www.deepdotweb.com/tag/china/" rel="tag">china</a>  <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/intercept/" rel="tag">intercept</a> <a href="https://www.deepdotweb.com/tag/packs/" rel="tag">packs</a></span> <span style="display:none" class="updated">2017-04-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

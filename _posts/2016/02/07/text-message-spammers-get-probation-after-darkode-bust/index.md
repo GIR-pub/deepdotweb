@@ -20,6 +20,4 @@ Text Message Spammers Get Probation After Darkode Bust
     </div>
     <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/darkode/" rel="tag">darkode</a> <a href="https://www.deepdotweb.com/tag/message/" rel="tag">message</a> <a href="https://www.deepdotweb.com/tag/probation/" rel="tag">probation</a> <a href="https://www.deepdotweb.com/tag/spammers/" rel="tag">spammers</a> <a href="https://www.deepdotweb.com/tag/text/" rel="tag">text</a></span> <span style="display:none" class="updated">2016-02-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

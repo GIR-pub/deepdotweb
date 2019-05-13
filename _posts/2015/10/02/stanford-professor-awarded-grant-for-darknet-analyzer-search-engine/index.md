@@ -16,6 +16,4 @@ Stanford Professor Awarded Grant For Darknet Analyzer Search Engine
 <p>Christopher Ré has received a grant of $625.000 for developing Deep Dive, this sum will be paid to him quarterly in the following 5 years. When he was asked by the media how is he going to spend his grant, he could not answer to the question.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/analyzer/" rel="tag">analyzer</a> <a href="https://www.deepdotweb.com/tag/awarded/" rel="tag">awarded</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/engine/" rel="tag">engine</a> <a href="https://www.deepdotweb.com/tag/grant/" rel="tag">grant</a> <a href="https://www.deepdotweb.com/tag/professor/" rel="tag">professor</a> <a href="https://www.deepdotweb.com/tag/search/" rel="tag">search</a> <a href="https://www.deepdotweb.com/tag/stanford/" rel="tag">stanford</a></span> <span style="display:none" class="updated">2015-10-02<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

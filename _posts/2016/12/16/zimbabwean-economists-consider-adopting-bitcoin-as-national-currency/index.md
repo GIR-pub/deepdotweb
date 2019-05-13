@@ -28,6 +28,4 @@ Zimbabwean Economists Consider Adopting Bitcoin as National Currency
     </div>
     <a href="https://www.deepdotweb.com/tag/adopting/" rel="tag">adopting</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/economists/" rel="tag">economists</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/zimbabwean/" rel="tag">zimbabwean</a></span> <span style="display:none" class="updated">2016-12-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

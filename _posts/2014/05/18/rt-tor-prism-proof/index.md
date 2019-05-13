@@ -30,6 +30,4 @@ RT: TOR is NOT PRISM Proof
     </div>
     <a href="https://www.deepdotweb.com/tag/prism/" rel="tag">prism</a> <a href="https://www.deepdotweb.com/tag/proof/" rel="tag">proof</a> <a href="https://www.deepdotweb.com/tag/rt/" rel="tag">rt</a> </span> <span style="display:none" class="updated">2014-05-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -34,6 +34,4 @@ The State Of Texas Is Selling Personal Information of Citizens
     </div>
     <a href="https://www.deepdotweb.com/tag/citizens/" rel="tag">citizens</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/texas/" rel="tag">texas</a></span> <span style="display:none" class="updated">2017-11-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-    </div>
-</article>
-
+    

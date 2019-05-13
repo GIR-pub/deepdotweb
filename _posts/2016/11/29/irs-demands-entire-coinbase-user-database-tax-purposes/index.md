@@ -23,6 +23,4 @@ IRS Demands Entire Coinbase User Database For Tax Purposes
     </div>
     <a href="https://www.deepdotweb.com/tag/coinbase/" rel="tag">coinbase</a> <a href="https://www.deepdotweb.com/tag/database/" rel="tag">database</a> <a href="https://www.deepdotweb.com/tag/demands/" rel="tag">demands</a> <a href="https://www.deepdotweb.com/tag/entire/" rel="tag">entire</a> <a href="https://www.deepdotweb.com/tag/irs/" rel="tag">irs</a> <a href="https://www.deepdotweb.com/tag/purposes/" rel="tag">purposes</a> <a href="https://www.deepdotweb.com/tag/tax/" rel="tag">tax</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a></span> <span style="display:none" class="updated">2016-11-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

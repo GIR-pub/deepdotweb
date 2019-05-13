@@ -361,6 +361,4 @@ Free Speech 101: Creating a WordPress Blog in Whonix
     </div>
     <a href="https://www.deepdotweb.com/tag/101/" rel="tag">101</a> <a href="https://www.deepdotweb.com/tag/blog/" rel="tag">blog</a> <a href="https://www.deepdotweb.com/tag/creating/" rel="tag">creating</a> <a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/speech/" rel="tag">speech</a> <a href="https://www.deepdotweb.com/tag/whonix/" rel="tag">whonix</a> <a href="https://www.deepdotweb.com/tag/wordpress/" rel="tag">wordpress</a></span> <span style="display:none" class="updated">2015-06-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/politech/" title="Posts by Politech" rel="author">Politech</a></strong></div>
-    </div>
-</article>
-
+    

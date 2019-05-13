@@ -70,6 +70,4 @@ The Best Altcoins To Mine Using a Laptop or a PC in 2017
     </div>
     <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/altcoins/" rel="tag">altcoins</a> <a href="https://www.deepdotweb.com/tag/laptop/" rel="tag">laptop</a> <a href="https://www.deepdotweb.com/tag/pc/" rel="tag">pc</a></span> <span style="display:none" class="updated">2016-12-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

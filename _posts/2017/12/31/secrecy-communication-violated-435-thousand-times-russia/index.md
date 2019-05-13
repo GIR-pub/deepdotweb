@@ -23,6 +23,4 @@ Secrecy of communication is violated 435 thousand times in Russia
     </div>
     <a href="https://www.deepdotweb.com/tag/435/" rel="tag">435</a> <a href="https://www.deepdotweb.com/tag/communication/" rel="tag">communication</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/secrecy/" rel="tag">secrecy</a> <a href="https://www.deepdotweb.com/tag/thousand/" rel="tag">thousand</a> <a href="https://www.deepdotweb.com/tag/times/" rel="tag">times</a> <a href="https://www.deepdotweb.com/tag/violated/" rel="tag">violated</a></span> <span style="display:none" class="updated">2017-12-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
-    </div>
-</article>
-
+    

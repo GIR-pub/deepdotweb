@@ -20,6 +20,4 @@ Hospitals in Turkey Report Spike in Synthetic Cannabinoids from the Darknet
     </div>
     <a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a>  <a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/health/" rel="tag">health</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/percent/" rel="tag">percent</a> <a href="https://www.deepdotweb.com/tag/turkish/" rel="tag">turkish</a></span> <span style="display:none" class="updated">2016-12-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

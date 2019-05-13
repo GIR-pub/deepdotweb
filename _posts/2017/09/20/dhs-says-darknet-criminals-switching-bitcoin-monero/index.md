@@ -20,6 +20,4 @@ DHS Says Darknet Criminals Are Switching From Bitcoin to Monero
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dhs/" rel="tag">dhs</a> <a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a> <a href="https://www.deepdotweb.com/tag/switching/" rel="tag">switching</a></span> <span style="display:none" class="updated">2017-09-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

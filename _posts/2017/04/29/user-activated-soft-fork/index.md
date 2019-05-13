@@ -25,6 +25,4 @@ What is a User Activated Soft Fork?
     </div>
     <a href="https://www.deepdotweb.com/tag/activated/" rel="tag">activated</a> <a href="https://www.deepdotweb.com/tag/fork/" rel="tag">fork</a> <a href="https://www.deepdotweb.com/tag/kptx/" rel="tag">kptx</a> <a href="https://www.deepdotweb.com/tag/soft/" rel="tag">soft</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a></span> <span style="display:none" class="updated">2017-04-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

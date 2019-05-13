@@ -23,6 +23,4 @@ Dark Web Vendors In Custody as Analysts Examine Their Computers
     </div>
     <a href="https://www.deepdotweb.com/tag/analysts/" rel="tag">analysts</a> <a href="https://www.deepdotweb.com/tag/computers/" rel="tag">computers</a> <a href="https://www.deepdotweb.com/tag/custody/" rel="tag">custody</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/examine/" rel="tag">examine</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-04-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

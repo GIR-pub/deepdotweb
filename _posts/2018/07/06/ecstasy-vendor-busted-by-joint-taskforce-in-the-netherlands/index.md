@@ -20,6 +20,4 @@ Ecstasy Vendor Busted by Joint Taskforce in the Netherlands
 <p>Two suspects, the smugglers, wait in a jail cell in Germany where they face between 5-15 years in prison, the Public Prosecutor of Münster wrote. The vendor is currently sitting in a cell in the Netherlands awaiting extradition to Germany where he faces a much harsher punishment than his two employees.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/joint/" rel="tag">joint</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/taskforce/" rel="tag">taskforce</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-07-06<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

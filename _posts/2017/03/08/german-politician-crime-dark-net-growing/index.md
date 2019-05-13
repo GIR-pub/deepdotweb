@@ -25,6 +25,4 @@ German Politician: Crime On The Dark Net Is Growing
 <p>The Wolfratshauser District Court sentenced the defendant to five years of probation and two years of a special drug program. Police reported that the 31-year-old violated <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> laws in the past; caused grievous bodily harm; and incitement to the public. At the time of the trial, the defendant was working off 80 hours of community service from a previous crime. The judge disregarded the prosecutor’s wish, who requested a prison sentence for the suspect, and gave a last chance to the 31-year-old.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/growing/" rel="tag">growing</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/politician/" rel="tag">politician</a></span> <span style="display:none" class="updated">2017-03-08<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

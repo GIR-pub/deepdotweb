@@ -23,6 +23,4 @@ Austrian Addict Ordered Drugs During Therapy
     </div>
     <a href="https://www.deepdotweb.com/tag/addict/" rel="tag">addict</a> <a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a>  <a href="https://www.deepdotweb.com/tag/ordered/" rel="tag">ordered</a> <a href="https://www.deepdotweb.com/tag/therapy/" rel="tag">therapy</a></span> <span style="display:none" class="updated">2017-09-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Drug Trafficking by Foot Nearly Extinct in Germany
     </div>
      <a href="https://www.deepdotweb.com/tag/extinct/" rel="tag">extinct</a> <a href="https://www.deepdotweb.com/tag/foot/" rel="tag">foot</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-04-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

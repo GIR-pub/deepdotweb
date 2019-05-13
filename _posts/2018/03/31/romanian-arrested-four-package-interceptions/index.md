@@ -20,6 +20,4 @@ Romanian Arrested After Four Package Interceptions
 <p>On March 16, 2018, Romanian authorities arrested the suspect as he attempted to pick up a package that contained 50 grams of amphetamine. He will be held for 30 days prior to any legal proceedings.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/interceptions/" rel="tag">interceptions</a> <a href="https://www.deepdotweb.com/tag/package/" rel="tag">package</a> <a href="https://www.deepdotweb.com/tag/romanian/" rel="tag">romanian</a></span> <span style="display:none" class="updated">2018-03-31<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

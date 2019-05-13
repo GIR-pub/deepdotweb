@@ -33,6 +33,4 @@ Bitcoin news roundup, March 26 2017
 <p><a href="https://coinmarketcap.com/currencies/bitcoin/">According to CoinMarketCap</a>, one bitcoin is currently worth $925,86 as a hard fork possibility worries a lot of users. Nevertheless, the coin has shown its resiliency, as the possibility of it splitting into two separate blockchains didn’t take too heavy of a toll in the cryptocurrency’s value.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/25/" rel="tag">25</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2017-03-26<a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
-</div>
-</article>
 

@@ -24,6 +24,4 @@ DOJ Assistant Attorney: US Government Realized They Can’t Shut Down Bitcoin
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/realized/" rel="tag">realized</a> <a href="https://www.deepdotweb.com/tag/shut/" rel="tag">shut</a></span> <span style="display:none" class="updated">2016-11-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

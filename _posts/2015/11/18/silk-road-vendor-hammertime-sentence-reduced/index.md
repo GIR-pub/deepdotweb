@@ -22,6 +22,4 @@ Silk Road Vendor Hammertime Sentence Reduced
     </div>
     <a href="https://www.deepdotweb.com/tag/agents/" rel="tag">agents</a> <a href="https://www.deepdotweb.com/tag/corrupt/" rel="tag">corrupt</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/hammertime/" rel="tag">hammertime</a> <a href="https://www.deepdotweb.com/tag/lighter/" rel="tag">lighter</a>  <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-11-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

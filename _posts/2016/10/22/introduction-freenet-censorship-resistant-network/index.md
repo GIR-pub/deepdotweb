@@ -60,6 +60,4 @@ Introduction to Freenet: A Censorship-Resistant Network
     </div>
     <a href="https://www.deepdotweb.com/tag/censorshipresistant/" rel="tag">censorshipresistant</a> <a href="https://www.deepdotweb.com/tag/freenet/" rel="tag">freenet</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a></span> <span style="display:none" class="updated">2016-10-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
-    </div>
-</article>
-
+    

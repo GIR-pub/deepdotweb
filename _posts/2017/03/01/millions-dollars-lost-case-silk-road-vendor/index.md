@@ -21,6 +21,4 @@ Millions of Dollars Lost in Case Against Silk Road Vendor
 <p>The defendant, Mark W., told investigators that the Bitcoin remained in a Silk Road wallet. He said that after the <a href="https://www.deepdotweb.com/tag/bust/">FBI took the Silk Road offline</a> the big earned earned by Afterhour disappeared with the long-lost marketplace. This is not the information investigators wanted to hear. Despite their lengthy search, law enforcement agencies came up empty-handed. After the court appearance, Thomas P. explained that the defendant&#8217;s sentence will be a strict one, but he will still be a rich man—even in prison.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/dollars/" rel="tag">dollars</a> <a href="https://www.deepdotweb.com/tag/lost/" rel="tag">lost</a> <a href="https://www.deepdotweb.com/tag/millions/" rel="tag">millions</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-03-01<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

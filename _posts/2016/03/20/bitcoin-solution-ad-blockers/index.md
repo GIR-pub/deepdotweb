@@ -19,6 +19,4 @@ Bitcoin As A Solution To Ad-Blockers
     </div>
     <a href="https://www.deepdotweb.com/tag/adblockers/" rel="tag">adblockers</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/solution/" rel="tag">solution</a></span> <span style="display:none" class="updated">2016-03-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

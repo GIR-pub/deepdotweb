@@ -25,6 +25,4 @@ Book Introduction: &#8220;The Narco-Festo&#8221;
     </div>
      <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/narcofesto/" rel="tag">narcofesto</a></span> <span style="display:none" class="updated">2016-10-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

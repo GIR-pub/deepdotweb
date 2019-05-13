@@ -21,6 +21,4 @@ Twelve Kazakhstan Traffickers Raided by Special Forces
     </div>
     <a href="https://www.deepdotweb.com/tag/forces/" rel="tag">forces</a> <a href="https://www.deepdotweb.com/tag/kazakhstan/" rel="tag">kazakhstan</a> <a href="https://www.deepdotweb.com/tag/raided/" rel="tag">raided</a> <a href="https://www.deepdotweb.com/tag/special/" rel="tag">special</a> <a href="https://www.deepdotweb.com/tag/traffickers/" rel="tag">traffickers</a> <a href="https://www.deepdotweb.com/tag/twelve/" rel="tag">twelve</a></span> <span style="display:none" class="updated">2017-11-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

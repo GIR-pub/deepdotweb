@@ -21,6 +21,4 @@ Belarussian Government Started Blocking Tor
     </div>
     <a href="https://www.deepdotweb.com/tag/belarussian/" rel="tag">belarussian</a> <a href="https://www.deepdotweb.com/tag/blocking/" rel="tag">blocking</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/started/" rel="tag">started</a> </span> <span style="display:none" class="updated">2016-12-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -26,6 +26,4 @@ Downed CP website had 10,000 UK Members, Including a School Governor
     </div>
     <a href="https://www.deepdotweb.com/tag/10000/" rel="tag">10000</a> <a href="https://www.deepdotweb.com/tag/cp/" rel="tag">cp</a> <a href="https://www.deepdotweb.com/tag/downed/" rel="tag">downed</a> <a href="https://www.deepdotweb.com/tag/governor/" rel="tag">governor</a> <a href="https://www.deepdotweb.com/tag/including/" rel="tag">including</a> <a href="https://www.deepdotweb.com/tag/members/" rel="tag">members</a> <a href="https://www.deepdotweb.com/tag/school/" rel="tag">school</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/website/" rel="tag">website</a></span> <span style="display:none" class="updated">2017-05-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

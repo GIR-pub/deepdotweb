@@ -77,6 +77,4 @@ Drugslist Now Offering FULL API multi-sig escrow
     </div>
     <a href="https://www.deepdotweb.com/tag/api/" rel="tag">api</a> <a href="https://www.deepdotweb.com/tag/drugslist/" rel="tag">drugslist</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/full/" rel="tag">full</a> <a href="https://www.deepdotweb.com/tag/multisig/" rel="tag">multisig</a> <a href="https://www.deepdotweb.com/tag/offering/" rel="tag">offering</a></span> <span style="display:none" class="updated">2014-01-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

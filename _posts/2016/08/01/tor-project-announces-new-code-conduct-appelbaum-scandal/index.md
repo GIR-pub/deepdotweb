@@ -22,6 +22,4 @@ Tor Project Announces New Code of Conduct After Appelbaum Scandal
     </div>
     <a href="https://www.deepdotweb.com/tag/announces/" rel="tag">announces</a> <a href="https://www.deepdotweb.com/tag/appelbaum/" rel="tag">appelbaum</a> <a href="https://www.deepdotweb.com/tag/code/" rel="tag">code</a> <a href="https://www.deepdotweb.com/tag/conduct/" rel="tag">conduct</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a> <a href="https://www.deepdotweb.com/tag/scandal/" rel="tag">scandal</a> </span> <span style="display:none" class="updated">2016-08-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

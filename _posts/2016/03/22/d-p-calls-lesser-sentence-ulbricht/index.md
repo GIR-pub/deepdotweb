@@ -22,6 +22,4 @@ D.P.A. Calls for lesser sentence for Ulbricht
     </div>
     <a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/dpa/" rel="tag">dpa</a> <a href="https://www.deepdotweb.com/tag/lesser/" rel="tag">lesser</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2016-03-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

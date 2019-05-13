@@ -39,6 +39,4 @@ Africa&#8217;s Frontier Economies Chomp at the Bitcoin​
     </div>
     <a href="https://www.deepdotweb.com/tag/africas/" rel="tag">africas</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/chomp/" rel="tag">chomp</a> <a href="https://www.deepdotweb.com/tag/economies/" rel="tag">economies</a> <a href="https://www.deepdotweb.com/tag/frontier/" rel="tag">frontier</a></span> <span style="display:none" class="updated">2016-02-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

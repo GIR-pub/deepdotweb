@@ -27,6 +27,4 @@ Swiss Authorities Arrested 42 Suspects Connected To The PlayPen Child Porn Site
     </div>
     <a href="https://www.deepdotweb.com/tag/42/" rel="tag">42</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/connected/" rel="tag">connected</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a> <a href="https://www.deepdotweb.com/tag/suspects/" rel="tag">suspects</a> <a href="https://www.deepdotweb.com/tag/swiss/" rel="tag">swiss</a></span> <span style="display:none" class="updated">2017-05-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

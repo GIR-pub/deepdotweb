@@ -24,6 +24,4 @@ Digital Asset Holdings &#038; Nasdaq Executive File Blockchain Patents
     </div>
     <a href="https://www.deepdotweb.com/tag/asset/" rel="tag">asset</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/executive/" rel="tag">executive</a> <a href="https://www.deepdotweb.com/tag/file/" rel="tag">file</a> <a href="https://www.deepdotweb.com/tag/holdings/" rel="tag">holdings</a> <a href="https://www.deepdotweb.com/tag/nasdaq/" rel="tag">nasdaq</a> <a href="https://www.deepdotweb.com/tag/patents/" rel="tag">patents</a></span> <span style="display:none" class="updated">2016-10-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

@@ -33,6 +33,4 @@ Busted Arms Dealer described to be in the “Premier League” of Arms Dealing
     </div>
     <a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a>   <a href="https://www.deepdotweb.com/tag/dealing/" rel="tag">dealing</a> <a href="https://www.deepdotweb.com/tag/league/" rel="tag">league</a> <a href="https://www.deepdotweb.com/tag/premier/" rel="tag">premier</a></span> <span style="display:none" class="updated">2017-10-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-    </div>
-</article>
-
+    

@@ -60,6 +60,4 @@ Bitcoin-Ethereum (Part 2)
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoinethereum/" rel="tag">bitcoinethereum</a></span> <span style="display:none" class="updated">2014-08-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    </div>
-</article>
-
+    

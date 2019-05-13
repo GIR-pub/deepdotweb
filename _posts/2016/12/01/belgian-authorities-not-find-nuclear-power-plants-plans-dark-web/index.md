@@ -27,6 +27,4 @@ Belgian Authorities Did Not Find Nuclear Power Plant’s Plans On Dark Web
     </div>
     <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/belgian/" rel="tag">belgian</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/find/" rel="tag">find</a> <a href="https://www.deepdotweb.com/tag/nuclear/" rel="tag">nuclear</a> <a href="https://www.deepdotweb.com/tag/plans/" rel="tag">plans</a> <a href="https://www.deepdotweb.com/tag/plants/" rel="tag">plants</a> <a href="https://www.deepdotweb.com/tag/power/" rel="tag">power</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-12-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

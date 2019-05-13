@@ -25,6 +25,4 @@ German Students Sentenced To Community Work For Purchasing Counterfeit Euro Note
     </div>
     <a href="https://www.deepdotweb.com/tag/community/" rel="tag">community</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/euro/" rel="tag">euro</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/notes/" rel="tag">notes</a> <a href="https://www.deepdotweb.com/tag/purchasing/" rel="tag">purchasing</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/students/" rel="tag">students</a> <a href="https://www.deepdotweb.com/tag/work/" rel="tag">work</a></span> <span style="display:none" class="updated">2017-05-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

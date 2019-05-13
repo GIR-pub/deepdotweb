@@ -41,6 +41,4 @@ Bitcoin Price Analysis 10th September
 <p>I recommend caution as these are short term targets for the next 2 weeks. Breaking below $220 invalidates this bullish forecast. Medium to long term, I am bearish, and still expect sub &#8211; 200 prices. This long term trend channel chart points to a possible retest of lower trend line support. It is worth a keen look, as overall, price remains in limbo &#8211; whether we truly are past the bottom and long term bear trend, or just a temporary reprieve from a 22 month old bear market.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/9th/" rel="tag">9th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a></span> <span style="display:none" class="updated">2015-09-10<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

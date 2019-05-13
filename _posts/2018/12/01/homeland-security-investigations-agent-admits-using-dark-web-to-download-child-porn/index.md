@@ -19,6 +19,4 @@ Homeland Security Investigations Agent Admits Using Dark Web to Download Child P
 <p>Gratkowski has been in jail since his arrest. He attempted to convince a judge that he had been using the dark web child exploitation forums to find videos of adult women dressed as children and that he was not actually a pedophile. The judge all but laughed at the claim. He has now pleaded guilty to one count of possession of child pornography and one count of accessing child pornography with intent to view.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/download/" rel="tag">download</a>  <a href="https://www.deepdotweb.com/tag/investigations/" rel="tag">investigations</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a>  <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-12-01<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

@@ -21,6 +21,4 @@ Police Seized 60K Xanax Pills in Tennessee Drug Bust
 <p>Authorities charged Davis and Dotson with possession of Schedule 4 substances and maintaining a dwelling for the purpose of distributing drugs. Davis, already a convicted felon, had a pistol in his possession and caught an additional charge for possessing a weapon as a felon. They are being held on $100,000 and $75,000 bonds, respectively.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/60k/" rel="tag">60k</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a>  <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/tennessee/" rel="tag">tennessee</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2018-04-22<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

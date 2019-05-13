@@ -22,6 +22,4 @@ Tor: &#8216;Mystery&#8217; spike in Hidden Services Addresses
     </div>
     <a href="https://www.deepdotweb.com/tag/addresses/" rel="tag">addresses</a>  <a href="https://www.deepdotweb.com/tag/mystery/" rel="tag">mystery</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/spike/" rel="tag">spike</a> </span> <span style="display:none" class="updated">2016-02-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

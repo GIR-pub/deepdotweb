@@ -29,6 +29,4 @@ Op-Ed: China No longer controls the price of Bitcoin
 <p>China’s central bank’s actions has had an impact on Bitcoin Yuan prices. Prices in renminbi now lag US dollar prices by a 3%-5% discount; a far cry from the premiums before the clamp down. In the past 30 days, OkCoin, Huobi and BTC China have had a combined share of 52% of global volumes, down from the exaggerated 98% 5 weeks ago as per <a href="http://data.bitcoinity.org/markets/volume/30d?c=c&amp;t=bar">bitcoinity</a> charts. China no longer controls the price of Bitcoin.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/china/" rel="tag">china</a> <a href="https://www.deepdotweb.com/tag/controls/" rel="tag">controls</a> <a href="https://www.deepdotweb.com/tag/longer/" rel="tag">longer</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2017-03-02<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

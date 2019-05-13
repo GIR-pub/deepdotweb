@@ -25,6 +25,4 @@ Cybercrime Outshines Traditional Crime in the UK
     </div>
     <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/outshines/" rel="tag">outshines</a> <a href="https://www.deepdotweb.com/tag/traditional/" rel="tag">traditional</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span> <span style="display:none" class="updated">2016-07-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

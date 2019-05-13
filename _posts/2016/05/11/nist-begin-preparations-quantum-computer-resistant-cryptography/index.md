@@ -22,6 +22,4 @@ NIST to Begin Preparations for Quantum Resistant Cryptography
     </div>
     <a href="https://www.deepdotweb.com/tag/computer/" rel="tag">computer</a> <a href="https://www.deepdotweb.com/tag/cryptography/" rel="tag">cryptography</a> <a href="https://www.deepdotweb.com/tag/nist/" rel="tag">nist</a> <a href="https://www.deepdotweb.com/tag/preparations/" rel="tag">preparations</a> <a href="https://www.deepdotweb.com/tag/quantum/" rel="tag">quantum</a> <a href="https://www.deepdotweb.com/tag/resistant/" rel="tag">resistant</a></span> <span style="display:none" class="updated">2016-05-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/sculptor/" title="Posts by sculptor" rel="author">sculptor</a></strong></div>
-    </div>
-</article>
-
+    

@@ -19,6 +19,4 @@ Op-Ed: Agora: The site we all wanted
 <p><em>This article is rhe other side or a counter article for the previously published &#8220;<a title="Permalink to OP-ED: Agora, Where’s My BTC (and your consistency), Bitch?" href="https://www.deepdotweb.com/2015/08/31/op-ed-agora-wheres-my-btc-and-your-consistency-bitch/" rel="bookmark">OP-ED: Agora, Where’s My BTC (and your consistency), Bitch?&#8221;</a></em></p>
 </div>
 <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a> <a href="https://www.deepdotweb.com/tag/wanted/" rel="tag">wanted</a></span> <span style="display:none" class="updated">2015-09-03<a href="https://www.deepdotweb.com/author/cipher/" title="Posts by Cipher" rel="author">Cipher</a></strong></div>
-</div>
-</article>
 

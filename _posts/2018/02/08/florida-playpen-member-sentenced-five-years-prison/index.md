@@ -17,6 +17,4 @@ Florida PlayPen Member Sentenced to Five Years in Prison
 <p>Although the FBI like to point out that they helped identify 900 suspects when they controlled the child abuse forum. And not every suspect lived in the United States either. In addition to illegally hacking thousands of Tor users in the United States, they hacked hundreds in Austria, Germany, Australia, and other countries. And even though Operation Pacifier ended years ago, defendants in other countries are <a href="https://www.deepdotweb.com/2018/01/29/man-get-prison-time-filming-uploading-cp-darknet/">just now seeing justice as well</a>.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/florida/" rel="tag">florida</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-02-08<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

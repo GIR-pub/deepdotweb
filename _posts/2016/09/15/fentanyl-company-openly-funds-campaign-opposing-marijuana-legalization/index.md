@@ -26,6 +26,4 @@ Fentanyl Company Openly Funds Campaign Opposing Marijuana Legalization
     </div>
     <a href="https://www.deepdotweb.com/tag/campaign/" rel="tag">campaign</a> <a href="https://www.deepdotweb.com/tag/company/" rel="tag">company</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/legalization/" rel="tag">legalization</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/openly/" rel="tag">openly</a> <a href="https://www.deepdotweb.com/tag/opposing/" rel="tag">opposing</a></span> <span style="display:none" class="updated">2016-09-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

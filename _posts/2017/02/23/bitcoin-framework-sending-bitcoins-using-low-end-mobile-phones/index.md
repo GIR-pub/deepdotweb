@@ -38,6 +38,4 @@ A Bitcoin Framework For Sending Bitcoins Using Low-end Mobile Phones
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/framework/" rel="tag">framework</a> <a href="https://www.deepdotweb.com/tag/lowend/" rel="tag">lowend</a> <a href="https://www.deepdotweb.com/tag/mobile/" rel="tag">mobile</a> <a href="https://www.deepdotweb.com/tag/phones/" rel="tag">phones</a> <a href="https://www.deepdotweb.com/tag/sending/" rel="tag">sending</a></span> <span style="display:none" class="updated">2017-02-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

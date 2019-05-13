@@ -80,6 +80,4 @@ Interview With OutLaw Market Admin
     </div>
      <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a></span> <span style="display:none" class="updated">2014-01-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

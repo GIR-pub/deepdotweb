@@ -65,6 +65,4 @@ What CIA does on target&#8217;s Local Area Network
     </div>
     <a href="https://www.deepdotweb.com/tag/area/" rel="tag">area</a> <a href="https://www.deepdotweb.com/tag/cia/" rel="tag">cia</a> <a href="https://www.deepdotweb.com/tag/local/" rel="tag">local</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/targets/" rel="tag">targets</a></span> <span style="display:none" class="updated">2017-05-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
-    </div>
-</article>
-
+    

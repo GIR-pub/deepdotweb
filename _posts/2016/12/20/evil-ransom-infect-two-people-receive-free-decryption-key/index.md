@@ -24,6 +24,4 @@ Evil Ransom: Infect Two People, Receive Free Decryption Key
     </div>
     <a href="https://www.deepdotweb.com/tag/decryption/" rel="tag">decryption</a> <a href="https://www.deepdotweb.com/tag/evil/" rel="tag">evil</a> <a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/infect/" rel="tag">infect</a> <a href="https://www.deepdotweb.com/tag/key/" rel="tag">key</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a> <a href="https://www.deepdotweb.com/tag/ransom/" rel="tag">ransom</a> <a href="https://www.deepdotweb.com/tag/receive/" rel="tag">receive</a></span> <span style="display:none" class="updated">2016-12-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

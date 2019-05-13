@@ -19,6 +19,4 @@ Italian Man Busted After Returning to a Burned Drop
 <p>The police arrested M.F. for possession with intent to distribute.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/burned/" rel="tag">burned</a>  <a href="https://www.deepdotweb.com/tag/drop/" rel="tag">drop</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/returning/" rel="tag">returning</a></span> <span style="display:none" class="updated">2018-08-09<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

@@ -84,6 +84,4 @@ Q&#038;A Thread With The Silk Road 2 Administration
     </div>
     <a href="https://www.deepdotweb.com/tag/administration/" rel="tag">administration</a> <a href="https://www.deepdotweb.com/tag/qa/" rel="tag">qa</a>  <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> <span style="display:none" class="updated">2014-06-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

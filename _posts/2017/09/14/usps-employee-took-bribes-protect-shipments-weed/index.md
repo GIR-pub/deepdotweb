@@ -22,6 +22,4 @@ USPS Employee Took Bribes to Protect Shipments of Weed
     </div>
     <a href="https://www.deepdotweb.com/tag/bribes/" rel="tag">bribes</a> <a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/protect/" rel="tag">protect</a> <a href="https://www.deepdotweb.com/tag/shipments/" rel="tag">shipments</a> <a href="https://www.deepdotweb.com/tag/usps/" rel="tag">usps</a> <a href="https://www.deepdotweb.com/tag/weed/" rel="tag">weed</a></span> <span style="display:none" class="updated">2017-09-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

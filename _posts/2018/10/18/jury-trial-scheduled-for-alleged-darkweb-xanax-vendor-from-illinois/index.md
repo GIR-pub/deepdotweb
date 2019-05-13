@@ -19,6 +19,4 @@ Jury Trial Scheduled for Alleged Darkweb Xanax Vendor from Illinois
 <p>At the hearing at United States District Court for the Central District of Illinois, U.S. Magistrate Judge Eric I. Long scheduled a jury trial for November 19, 2019. Caamano, assuming the mental competency evaluation reflected his actual mental state, will likely retain an attorney and arrange a deal with the prosecution. The statutory maximum sentence for the most serious charges is 20 years in prison.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/illinois/" rel="tag">illinois</a> <a href="https://www.deepdotweb.com/tag/jury/" rel="tag">jury</a> <a href="https://www.deepdotweb.com/tag/scheduled/" rel="tag">scheduled</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2018-10-18<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

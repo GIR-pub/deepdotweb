@@ -19,6 +19,4 @@ Colorado Man Arrested for Darknet Drug Distribution
 <p>And following one final undercover purchase of 14 grams of heroin and one gram of methamphetamine in late April, Colorado police made their move. They arrested Moseley and charged him with <a href="https://www.deepdotweb.com/tag/drugs">drug trafficking</a>, conspiracy drug crimes, and using a communications device while committing a felony. He will first appear in court on May 18.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/colorado/" rel="tag">colorado</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>  <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a></span> <span style="display:none" class="updated">2018-05-18<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

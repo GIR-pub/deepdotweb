@@ -21,6 +21,4 @@ Intel Source – Cops attack the weakest link too #3
 <p>That’s just the start, and remember, the IMEI is a whole distinct identity. The SIM and IMEI are two different entity search parameters which, if not both completely fresh for everyone you call or who calls you, gives LE the capacity to start getting in on your operation. Do I sound like I’m repeating that point too much? Keep reading next time and you’ll see why. For now, <a href="http://www.financialcryptography.com/mt/archives/000704.html">read this</a>.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/intelphone/" rel="tag">IntelPhone</a></span> <span style="display:none" class="updated">2015-02-12<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-</div>
-</article>
 

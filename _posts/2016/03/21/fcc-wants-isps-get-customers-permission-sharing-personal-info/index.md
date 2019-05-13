@@ -38,6 +38,4 @@ FCC: ISPs To Get Customer&#8217;s Permission Before Sharing Their Personal Info
     </div>
     <a href="https://www.deepdotweb.com/tag/customers/" rel="tag">customers</a> <a href="https://www.deepdotweb.com/tag/fcc/" rel="tag">fcc</a> <a href="https://www.deepdotweb.com/tag/info/" rel="tag">info</a> <a href="https://www.deepdotweb.com/tag/isps/" rel="tag">isps</a> <a href="https://www.deepdotweb.com/tag/permission/" rel="tag">permission</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/sharing/" rel="tag">sharing</a></span> <span style="display:none" class="updated">2016-03-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

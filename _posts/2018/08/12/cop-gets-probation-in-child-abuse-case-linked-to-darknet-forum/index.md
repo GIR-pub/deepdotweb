@@ -18,6 +18,4 @@ Cop Gets Probation in Child Abuse Case Linked to Darknet Forum
 <p>District Judge David A. Gilbert accepted the plea deal and gave an explanation for the unusually light sentence: Fair&#8217;s “extremely impressive record of service to the country.”</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/cop/" rel="tag">cop</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/linked/" rel="tag">linked</a> <a href="https://www.deepdotweb.com/tag/probation/" rel="tag">probation</a></span> <span style="display:none" class="updated">2018-08-12<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

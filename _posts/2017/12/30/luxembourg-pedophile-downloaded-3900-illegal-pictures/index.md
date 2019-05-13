@@ -19,6 +19,4 @@ Luxembourg Pedophile Downloaded 3,900 Illegal Pictures
     </div>
     <a href="https://www.deepdotweb.com/tag/3900/" rel="tag">3900</a> <a href="https://www.deepdotweb.com/tag/downloaded/" rel="tag">downloaded</a> <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/luxembourg/" rel="tag">luxembourg</a> <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/pictures/" rel="tag">pictures</a></span> <span style="display:none" class="updated">2017-12-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ How to use Tor as a Socks5 proxy
     </div>
     <a href="https://www.deepdotweb.com/tag/proxy/" rel="tag">proxy</a> <a href="https://www.deepdotweb.com/tag/socks5/" rel="tag">socks5</a> </span> <span style="display:none" class="updated">2014-05-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chrishansen/" title="Posts by ChrisHansen" rel="author">ChrisHansen</a></strong></div>
-    </div>
-</article>
-
+    

@@ -25,6 +25,4 @@ Anti Encryption Bill Spells Bad News for National Security
     </div>
     <a href="https://www.deepdotweb.com/tag/anti/" rel="tag">anti</a> <a href="https://www.deepdotweb.com/tag/bad/" rel="tag">bad</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a>  <a href="https://www.deepdotweb.com/tag/spells/" rel="tag">spells</a></span> <span style="display:none" class="updated">2016-04-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

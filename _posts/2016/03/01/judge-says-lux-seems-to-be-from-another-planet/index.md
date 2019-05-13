@@ -24,6 +24,4 @@ Judge Says Lux Seems To Be ”From Another Planet”
     </div>
     <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/lux/" rel="tag">lux</a> <a href="https://www.deepdotweb.com/tag/planet/" rel="tag">planet</a></span> <span style="display:none" class="updated">2016-03-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

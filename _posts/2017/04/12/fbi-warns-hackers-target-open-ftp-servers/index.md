@@ -26,6 +26,4 @@ FBI Warns That Hackers Target Open FTP Servers
     </div>
     <a href="https://www.deepdotweb.com/tag/ftp/" rel="tag">ftp</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> <a href="https://www.deepdotweb.com/tag/servers/" rel="tag">servers</a> <a href="https://www.deepdotweb.com/tag/target/" rel="tag">target</a> <a href="https://www.deepdotweb.com/tag/warns/" rel="tag">warns</a></span> <span style="display:none" class="updated">2017-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

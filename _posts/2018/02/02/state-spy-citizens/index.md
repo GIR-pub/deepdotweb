@@ -24,6 +24,4 @@ tag-citizens tag-spy tag-state">
 </div>
 <a href="https://www.deepdotweb.com/tag/citizens/" rel="tag">citizens</a> <a href="https://www.deepdotweb.com/tag/spy/" rel="tag">spy</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a></span> <span style="display:none" class="updated">2018-02-02<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
     
-</div>
-</article>
 

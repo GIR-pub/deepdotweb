@@ -82,6 +82,4 @@ The US Fires First “Live Round” in America’s War on Prescription Drugs
     </div>
     <a href="https://www.deepdotweb.com/tag/61014/" rel="tag">61014</a> <a href="https://www.deepdotweb.com/tag/americas/" rel="tag">americas</a>  <a href="https://www.deepdotweb.com/tag/fires/" rel="tag">fires</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/live/" rel="tag">live</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2014-09-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/freedom/" title="Posts by Freedom Writer" rel="author">Freedom Writer</a></strong></div>
-    </div>
-</article>
-
+    

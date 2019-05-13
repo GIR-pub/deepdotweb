@@ -56,6 +56,4 @@ Mr NiceGuy Market: Service Under DDOS
     </div>
     <span style="display:none" class="updated">2015-05-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

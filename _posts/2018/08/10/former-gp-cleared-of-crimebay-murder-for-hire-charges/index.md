@@ -20,6 +20,4 @@ Former GP Cleared of “Crimebay” Murder for Hire Charges
 <p>The judge fined Crichton roughly $7,800 for the three malicious threat charges and then let the man leave.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/cleared/" rel="tag">cleared</a> <a href="https://www.deepdotweb.com/tag/crimebay/" rel="tag">crimebay</a> <a href="https://www.deepdotweb.com/tag/gp/" rel="tag">gp</a> <a href="https://www.deepdotweb.com/tag/hire/" rel="tag">hire</a> <a href="https://www.deepdotweb.com/tag/murder/" rel="tag">murder</a></span> <span style="display:none" class="updated">2018-08-10<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

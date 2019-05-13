@@ -43,6 +43,4 @@ Bitcoin Price analysis March 1 2017
 <p></em> Contact this author at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cba9a2bfa8a4a2a5a6aab9a0aebfaaa5aaa7b2b8bf8baca6aaa2a7e5a8a4">[email&#160;protected]</a><em>m</em></p>
 </div>
 <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2017-03-01<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

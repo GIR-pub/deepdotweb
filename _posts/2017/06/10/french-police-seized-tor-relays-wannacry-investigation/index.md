@@ -39,6 +39,4 @@ French Police Seized Tor Relays in WannaCry Investigation
     </div>
     <a href="https://www.deepdotweb.com/tag/french/" rel="tag">french</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/relays/" rel="tag">relays</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a>  <a href="https://www.deepdotweb.com/tag/wannacry/" rel="tag">wannacry</a></span> <span style="display:none" class="updated">2017-06-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

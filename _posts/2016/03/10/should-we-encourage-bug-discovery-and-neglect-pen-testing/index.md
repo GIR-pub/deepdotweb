@@ -55,6 +55,4 @@ Should We Encourage Bug Discovery And Neglect Pen Testing ?
     </div>
     <a href="https://www.deepdotweb.com/tag/bug/" rel="tag">bug</a> <a href="https://www.deepdotweb.com/tag/discovery/" rel="tag">discovery</a> <a href="https://www.deepdotweb.com/tag/encourage/" rel="tag">encourage</a> <a href="https://www.deepdotweb.com/tag/neglect/" rel="tag">neglect</a> <a href="https://www.deepdotweb.com/tag/pen/" rel="tag">pen</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span> <span style="display:none" class="updated">2016-03-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/michaelatobraaboagye/" title="Posts by Michael Atobra Aboagye" rel="author">Michael Atobra Aboagye</a></strong></div>
-    </div>
-</article>
-
+    

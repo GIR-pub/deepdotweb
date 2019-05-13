@@ -20,6 +20,4 @@ How The Silk Road Case Affects Us All
     </div>
     <span style="display:none" class="updated">2014-07-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

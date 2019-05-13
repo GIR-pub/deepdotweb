@@ -20,6 +20,4 @@ Four Child Pornographers Arrested In Brazil In Police Action
     </div>
     <a href="https://www.deepdotweb.com/tag/action/" rel="tag">action</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/brazil/" rel="tag">brazil</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/pornographers/" rel="tag">pornographers</a></span> <span style="display:none" class="updated">2017-04-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

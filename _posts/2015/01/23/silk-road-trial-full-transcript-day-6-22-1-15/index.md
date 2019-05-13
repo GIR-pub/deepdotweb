@@ -20,6 +20,4 @@ Silk Road Trial Full Transcript: Day 6 (22.1.15)
     </div>
     <a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a> <a href="https://www.deepdotweb.com/tag/transcriptsr/" rel="tag">transcriptSR</a></span> <span style="display:none" class="updated">2015-01-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

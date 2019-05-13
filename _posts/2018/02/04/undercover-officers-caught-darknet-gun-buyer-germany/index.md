@@ -19,6 +19,4 @@ Undercover Officers Caught a Darknet Gun Buyer in Germany
 <p>The Freyung man left the courthouse with a much lighter sentence than the man from the Dresden case. In order to avoid spending just under a year in prison, the 40-year-old must spend three years on probation and complete 120 hours of community service.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/officers/" rel="tag">officers</a> <a href="https://www.deepdotweb.com/tag/undercover/" rel="tag">undercover</a></span> <span style="display:none" class="updated">2018-02-04<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

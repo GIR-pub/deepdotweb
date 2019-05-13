@@ -25,6 +25,4 @@ Payments Firm Executive: Wire Transfer is Preferred Method For Cyber Criminals
     </div>
     <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/executive/" rel="tag">executive</a> <a href="https://www.deepdotweb.com/tag/firm/" rel="tag">firm</a> <a href="https://www.deepdotweb.com/tag/method/" rel="tag">method</a> <a href="https://www.deepdotweb.com/tag/payments/" rel="tag">payments</a> <a href="https://www.deepdotweb.com/tag/preferred/" rel="tag">preferred</a> <a href="https://www.deepdotweb.com/tag/transfer/" rel="tag">transfer</a> <a href="https://www.deepdotweb.com/tag/wire/" rel="tag">wire</a></span> <span style="display:none" class="updated">2017-01-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

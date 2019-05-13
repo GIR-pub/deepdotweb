@@ -19,6 +19,4 @@ Estonian State Prosecutor Vahur Verte Confiscates Bitcoins Earned As Criminal In
     </div>
     <a href="https://www.deepdotweb.com/tag/confiscates/" rel="tag">confiscates</a> <a href="https://www.deepdotweb.com/tag/criminal/" rel="tag">criminal</a> <a href="https://www.deepdotweb.com/tag/earned/" rel="tag">earned</a> <a href="https://www.deepdotweb.com/tag/estonian/" rel="tag">estonian</a> <a href="https://www.deepdotweb.com/tag/income/" rel="tag">income</a> <a href="https://www.deepdotweb.com/tag/prosecutor/" rel="tag">prosecutor</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/vahur/" rel="tag">vahur</a> <a href="https://www.deepdotweb.com/tag/verte/" rel="tag">verte</a></span> <span style="display:none" class="updated">2017-12-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-    </div>
-</article>
-
+    

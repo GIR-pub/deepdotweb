@@ -25,6 +25,4 @@ Interior Ministry And Police In North Rhine-Westphalia Turn Major Focus On Cyber
     </div>
     <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/focus/" rel="tag">focus</a> <a href="https://www.deepdotweb.com/tag/interior/" rel="tag">interior</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/ministry/" rel="tag">ministry</a> <a href="https://www.deepdotweb.com/tag/north/" rel="tag">north</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/rhinewestphalia/" rel="tag">rhinewestphalia</a> <a href="https://www.deepdotweb.com/tag/turn/" rel="tag">turn</a></span> <span style="display:none" class="updated">2017-04-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

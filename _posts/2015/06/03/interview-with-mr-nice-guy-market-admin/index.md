@@ -116,6 +116,4 @@ Interview: &#8220;Mr. Nice Guy&#8221; Market Admin Tells His Story
     </div>
     <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/guy/" rel="tag">guy</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/nice/" rel="tag">nice</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a></span> <span style="display:none" class="updated">2015-06-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

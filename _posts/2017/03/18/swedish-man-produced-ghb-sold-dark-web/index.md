@@ -21,6 +21,4 @@ Swedish Man Produced GHB And Sold It On The Dark Web
 <p>Law enforcement authorities in the country warned dark net buyers that police will be “more suspicious” and there is an expectation of “more efforts like this in the future”. Since there have been a large number of people identified in Sweden, there is a high probability that in the Jönköping case, the alleged dark net vendor was tracked down by authorities as part of Operation Hyperion.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/ghb/" rel="tag">ghb</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/produced/" rel="tag">produced</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/swedish/" rel="tag">swedish</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-03-18<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

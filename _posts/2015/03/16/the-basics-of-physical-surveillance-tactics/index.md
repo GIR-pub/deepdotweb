@@ -19,6 +19,4 @@ The Basics of Physical Surveillance Tactics
 <p>I can go on for hours on this topic, but the key things to remember are, vary your movements, don’t carry your phone and don’t use your car, and alter your time of day of movement if at all possible – teams may be working in shifts, and it may be the case that if you usually move during the day, a crew is not allocated at night, and viceversa. Draining your opponent’s stamina and resources can be as fun for you as it is annoying for them.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/basics/" rel="tag">basics</a> <a href="https://www.deepdotweb.com/tag/physical/" rel="tag">physical</a> <a href="https://www.deepdotweb.com/tag/surveillance/" rel="tag">surveillance</a> <a href="https://www.deepdotweb.com/tag/tactics/" rel="tag">tactics</a></span> <span style="display:none" class="updated">2015-03-16<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-</div>
-</article>
 

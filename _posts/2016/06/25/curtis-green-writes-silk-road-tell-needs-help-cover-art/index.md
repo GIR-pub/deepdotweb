@@ -20,6 +20,4 @@ Curtis Green Writes Silk Road Tell All, Needs Help with Cover Art
     </div>
     <a href="https://www.deepdotweb.com/tag/art/" rel="tag">art</a> <a href="https://www.deepdotweb.com/tag/cover/" rel="tag">cover</a> <a href="https://www.deepdotweb.com/tag/curtis/" rel="tag">curtis</a> <a href="https://www.deepdotweb.com/tag/green/" rel="tag">green</a>  <a href="https://www.deepdotweb.com/tag/writes/" rel="tag">writes</a></span> <span style="display:none" class="updated">2016-06-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Valencia Police Catch a Darknet Child Pornography Downloader
     </div>
     <span style="display:none" class="updated">2017-01-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

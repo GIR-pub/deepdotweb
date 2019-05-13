@@ -21,6 +21,4 @@ Bitcoin can Kill the State&#8217;s War Machine
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/kill/" rel="tag">kill</a> <a href="https://www.deepdotweb.com/tag/machine/" rel="tag">machine</a> <a href="https://www.deepdotweb.com/tag/states/" rel="tag">states</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2014-07-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    </div>
-</article>
-
+    

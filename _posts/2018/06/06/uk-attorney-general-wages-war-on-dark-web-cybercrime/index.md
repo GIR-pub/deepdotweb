@@ -35,6 +35,4 @@ UK Attorney General Wages War on Dark Web Cybercrime
 <p>The UK government has already set aside 1.9 billion GBP to maintain cyber security in the country. This money will be used by the National Cyber Security Strategy through the National Cyber Security Center “to protect the UK’s interests” from all dangerous dark web activities.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/attorney/" rel="tag">attorney</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/general/" rel="tag">general</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a> <a href="https://www.deepdotweb.com/tag/wages/" rel="tag">wages</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-06-06<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

@@ -35,6 +35,4 @@ TOR: Is There a Viable Alternative?
     </div>
     <a href="https://www.deepdotweb.com/tag/alternative/" rel="tag">alternative</a>  <a href="https://www.deepdotweb.com/tag/viable/" rel="tag">viable</a></span> <span style="display:none" class="updated">2016-05-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
-    </div>
-</article>
-
+    

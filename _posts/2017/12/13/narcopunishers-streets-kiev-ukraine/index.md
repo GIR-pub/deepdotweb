@@ -27,6 +27,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/kiev/" rel="tag">kiev</a> <a href="https://www.deepdotweb.com/tag/narcopunishers/" rel="tag">narcopunishers</a> <a href="https://www.deepdotweb.com/tag/streets/" rel="tag">streets</a> <a href="https://www.deepdotweb.com/tag/ukraine/" rel="tag">ukraine</a></span> <span style="display:none" class="updated">2017-12-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
-    </div>
-</article>
-
+    

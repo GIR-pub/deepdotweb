@@ -21,6 +21,4 @@ Report: Easier To Acquire A Rifle Than A Pistol In The Netherlands
     </div>
     <a href="https://www.deepdotweb.com/tag/acquire/" rel="tag">acquire</a> <a href="https://www.deepdotweb.com/tag/easier/" rel="tag">easier</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/pistol/" rel="tag">pistol</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/rifle/" rel="tag">rifle</a></span> <span style="display:none" class="updated">2017-05-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -32,6 +32,4 @@ Recent DDoS Attack Sparks Consumer Need for IoT Protection
     </div>
     <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/consumer/" rel="tag">consumer</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/iot/" rel="tag">iot</a> <a href="https://www.deepdotweb.com/tag/protection/" rel="tag">protection</a> <a href="https://www.deepdotweb.com/tag/sparks/" rel="tag">sparks</a></span> <span style="display:none" class="updated">2016-11-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

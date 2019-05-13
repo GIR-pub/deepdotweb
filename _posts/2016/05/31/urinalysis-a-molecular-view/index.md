@@ -27,6 +27,4 @@ Urinalysis: A Molecular View
     </div>
     <a href="https://www.deepdotweb.com/tag/molecular/" rel="tag">molecular</a> <a href="https://www.deepdotweb.com/tag/urinalysis/" rel="tag">urinalysis</a> <a href="https://www.deepdotweb.com/tag/view/" rel="tag">view</a></span> <span style="display:none" class="updated">2016-05-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kevin/" title="Posts by -Kevin-" rel="author">-Kevin-</a></strong></div>
-    </div>
-</article>
-
+    

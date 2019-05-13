@@ -23,6 +23,4 @@ DAO Casino: Disrupting the gambling industry
     </div>
     <a href="https://www.deepdotweb.com/tag/casino/" rel="tag">casino</a> <a href="https://www.deepdotweb.com/tag/dao/" rel="tag">dao</a> <a href="https://www.deepdotweb.com/tag/disrupting/" rel="tag">disrupting</a> <a href="https://www.deepdotweb.com/tag/gambling/" rel="tag">gambling</a> <a href="https://www.deepdotweb.com/tag/industry/" rel="tag">industry</a></span> <span style="display:none" class="updated">2017-04-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

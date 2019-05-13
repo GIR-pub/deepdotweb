@@ -23,6 +23,4 @@ How to use Tor to buy things anonymously from Agora with Bitcoin!
     </div>
     <span style="display:none" class="updated">2014-03-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

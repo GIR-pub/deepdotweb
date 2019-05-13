@@ -27,6 +27,4 @@ China Raids Fentanyl Factories with Void Update on Two Darknet Wanted Drug Lords
 <p>China has become committed to eradicating all the fentanyl labs in the country being open to information sharing with countries of common interests. Authorities have decided not to rest on this move as more underground factories have been targeted for future raids.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/china/" rel="tag">china</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/factories/" rel="tag">factories</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/lords/" rel="tag">lords</a> <a href="https://www.deepdotweb.com/tag/raids/" rel="tag">raids</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/void/" rel="tag">void</a> <a href="https://www.deepdotweb.com/tag/wanted/" rel="tag">wanted</a></span> <span style="display:none" class="updated">2018-01-14<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-</div>
-</article>
 

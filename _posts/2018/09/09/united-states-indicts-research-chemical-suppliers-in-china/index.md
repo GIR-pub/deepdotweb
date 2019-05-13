@@ -41,6 +41,4 @@ United States Indicts Research Chemical Suppliers in China
 <p>The shipper went down alongside several drug traffickers connected to the DTO. And then the Drug Enforcement Administration seized the sites the Zheng DTO used to advertise Controlled Substances and Controlled Substance Analogues. And then the Department of Justice named both the father and the son in a 43-count indictment. If China extradites the alleged traffickers, both face life imprisonment if convicted.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/chemical/" rel="tag">chemical</a> <a href="https://www.deepdotweb.com/tag/china/" rel="tag">china</a> <a href="https://www.deepdotweb.com/tag/indicts/" rel="tag">indicts</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/states/" rel="tag">states</a> <a href="https://www.deepdotweb.com/tag/suppliers/" rel="tag">suppliers</a> <a href="https://www.deepdotweb.com/tag/united/" rel="tag">united</a></span> <span style="display:none" class="updated">2018-09-09<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

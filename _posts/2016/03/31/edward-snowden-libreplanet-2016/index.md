@@ -27,6 +27,4 @@ Edward Snowden At LibrePlanet 2016
     </div>
     <a href="https://www.deepdotweb.com/tag/2016/" rel="tag">2016</a> <a href="https://www.deepdotweb.com/tag/edward/" rel="tag">edward</a> <a href="https://www.deepdotweb.com/tag/libreplanet/" rel="tag">libreplanet</a> <a href="https://www.deepdotweb.com/tag/snowden/" rel="tag">snowden</a></span> <span style="display:none" class="updated">2016-03-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

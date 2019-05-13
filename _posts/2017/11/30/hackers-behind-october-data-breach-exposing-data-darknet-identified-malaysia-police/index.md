@@ -29,6 +29,4 @@ Hackers Behind the October Data Breach Exposing Data on Darknet Identified by Ma
     </div>
     <a href="https://www.deepdotweb.com/tag/breach/" rel="tag">breach</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/exposing/" rel="tag">exposing</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/identified/" rel="tag">identified</a> <a href="https://www.deepdotweb.com/tag/malaysia/" rel="tag">malaysia</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2017-11-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-    </div>
-</article>
-
+    

@@ -46,6 +46,4 @@ Is your VPN Legit or Shit?
     </div>
     <a href="https://www.deepdotweb.com/tag/legit/" rel="tag">legit</a> <a href="https://www.deepdotweb.com/tag/shit/" rel="tag">shit</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2014-07-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/iburnez/" title="Posts by iBurnEZ" rel="author">iBurnEZ</a></strong></div>
-    </div>
-</article>
-
+    

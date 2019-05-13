@@ -22,6 +22,4 @@ Tor Dev. Talks About WhatsApp Brazil Blockage
     </div>
     <a href="https://www.deepdotweb.com/tag/blockage/" rel="tag">blockage</a> <a href="https://www.deepdotweb.com/tag/brazil/" rel="tag">brazil</a> <a href="https://www.deepdotweb.com/tag/dev/" rel="tag">dev</a> <a href="https://www.deepdotweb.com/tag/talks/" rel="tag">talks</a>  <a href="https://www.deepdotweb.com/tag/whatsapp/" rel="tag">whatsapp</a></span> <span style="display:none" class="updated">2016-05-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

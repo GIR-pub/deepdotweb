@@ -35,6 +35,4 @@ Silk Road Trial: Week 2 – From Bad to Worse and Beyond
     </div>
     <a href="https://www.deepdotweb.com/tag/bad/" rel="tag">bad</a>  <a href="https://www.deepdotweb.com/tag/silkroadtrial/" rel="tag">SilkRoadTrial</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a>  <a href="https://www.deepdotweb.com/tag/worse/" rel="tag">worse</a></span> <span style="display:none" class="updated">2015-01-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

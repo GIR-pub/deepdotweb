@@ -24,6 +24,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/176/" rel="tag">176</a> <a href="https://www.deepdotweb.com/tag/hyperion/" rel="tag">hyperion</a> <a href="https://www.deepdotweb.com/tag/investigations/" rel="tag">investigations</a> <a href="https://www.deepdotweb.com/tag/norway/" rel="tag">norway</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/started/" rel="tag">started</a></span> <span style="display:none" class="updated">2017-01-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

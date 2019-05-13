@@ -22,6 +22,4 @@ Texan Charged with Attempted Murder for Planning to Rape and Eat a Child
 <p>Authorities charged Barter with one count of criminal solicitation; criminal attempt, sexual performance of a minor; criminal attempt, capital murder; and conspiracy to commit capital murder. He is currently being held at Shelby County Jail where he will remain until transferred by a federal agency such as the United States Marshals Service.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/attempted/" rel="tag">attempted</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/eat/" rel="tag">eat</a> <a href="https://www.deepdotweb.com/tag/murder/" rel="tag">murder</a> <a href="https://www.deepdotweb.com/tag/planning/" rel="tag">planning</a> <a href="https://www.deepdotweb.com/tag/rape/" rel="tag">rape</a> <a href="https://www.deepdotweb.com/tag/texan/" rel="tag">texan</a></span> <span style="display:none" class="updated">2018-11-14<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

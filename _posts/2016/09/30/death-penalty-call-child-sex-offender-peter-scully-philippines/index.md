@@ -31,6 +31,4 @@ Death Penalty Call For Child Sex Offender Peter Scully In Philippines
     </div>
     <a href="https://www.deepdotweb.com/tag/call/" rel="tag">call</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/death/" rel="tag">death</a> <a href="https://www.deepdotweb.com/tag/offender/" rel="tag">offender</a> <a href="https://www.deepdotweb.com/tag/penalty/" rel="tag">penalty</a> <a href="https://www.deepdotweb.com/tag/peter/" rel="tag">peter</a> <a href="https://www.deepdotweb.com/tag/philippines/" rel="tag">philippines</a> <a href="https://www.deepdotweb.com/tag/scully/" rel="tag">scully</a> <a href="https://www.deepdotweb.com/tag/sex/" rel="tag">sex</a></span> <span style="display:none" class="updated">2016-09-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

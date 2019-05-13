@@ -19,6 +19,4 @@ Hungary Passes New Law To Ban Full Encryption
     </div>
     <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/hungary/" rel="tag">hungary</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/passes/" rel="tag">passes</a> <a href="https://www.deepdotweb.com/tag/prohibit/" rel="tag">prohibit</a></span> <span style="display:none" class="updated">2016-05-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

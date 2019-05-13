@@ -26,6 +26,4 @@ Research: ToRank &#8211; A novel system for identification of suspicious and mal
     </div>
      <a href="https://www.deepdotweb.com/tag/identification/" rel="tag">identification</a> <a href="https://www.deepdotweb.com/tag/malicious/" rel="tag">malicious</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/suspicious/" rel="tag">suspicious</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a>  <a href="https://www.deepdotweb.com/tag/torank/" rel="tag">torank</a></span> <span style="display:none" class="updated">2019-02-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

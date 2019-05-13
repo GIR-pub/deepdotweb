@@ -23,6 +23,4 @@ Glock Vendor Headed to Trial for Role in Munich Shootings
     </div>
     <a href="https://www.deepdotweb.com/tag/glock/" rel="tag">glock</a> <a href="https://www.deepdotweb.com/tag/headed/" rel="tag">headed</a> <a href="https://www.deepdotweb.com/tag/munich/" rel="tag">munich</a> <a href="https://www.deepdotweb.com/tag/role/" rel="tag">role</a> <a href="https://www.deepdotweb.com/tag/shootings/" rel="tag">shootings</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-07-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Dream Vendor “CzechoSlovakFarm” Busted in Slovakia
 <p>The District Court in Trencin will make a decision regarding the student’s prosecution.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/czechoslovakfarm/" rel="tag">czechoslovakfarm</a> <a href="https://www.deepdotweb.com/tag/dream/" rel="tag">dream</a> <a href="https://www.deepdotweb.com/tag/slovakia/" rel="tag">slovakia</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-10-31<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

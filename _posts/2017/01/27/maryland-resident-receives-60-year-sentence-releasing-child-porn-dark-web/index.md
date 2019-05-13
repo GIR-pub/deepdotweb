@@ -28,6 +28,4 @@ Maryland Resident Receives 60-Year Sentence For Releasing Child Porn in Dark Web
     </div>
     <a href="https://www.deepdotweb.com/tag/60year/" rel="tag">60year</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/maryland/" rel="tag">maryland</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/receives/" rel="tag">receives</a> <a href="https://www.deepdotweb.com/tag/releasing/" rel="tag">releasing</a> <a href="https://www.deepdotweb.com/tag/resident/" rel="tag">resident</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-01-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

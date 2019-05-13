@@ -58,6 +58,4 @@ The Drugslist Lesson: Why Marketplace Security should not be taken lightly! (Com
     </div>
     <a href="https://www.deepdotweb.com/tag/drugslist/" rel="tag">drugslist</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/pastebin/" rel="tag">pastebin</a> <a href="https://www.deepdotweb.com/tag/posted/" rel="tag">posted</a> <a href="https://www.deepdotweb.com/tag/userslist/" rel="tag">userslist</a></span> <span style="display:none" class="updated">2014-01-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Opera&#8217;s New Built-In “VPN”
     </div>
     <a href="https://www.deepdotweb.com/tag/builtin/" rel="tag">builtin</a> <a href="https://www.deepdotweb.com/tag/operas/" rel="tag">operas</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-04-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

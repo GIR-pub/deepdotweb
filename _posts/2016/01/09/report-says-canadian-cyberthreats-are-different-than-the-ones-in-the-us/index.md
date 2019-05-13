@@ -21,6 +21,4 @@ Report Says Canadian Cyberthreats Are Different Than The Ones In The US
     </div>
     <a href="https://www.deepdotweb.com/tag/canadian/" rel="tag">canadian</a> <a href="https://www.deepdotweb.com/tag/cyberthreats/" rel="tag">cyberthreats</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2016-01-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

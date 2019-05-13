@@ -25,6 +25,4 @@ Norway Opened 33 New Cases In Operation Dark Room Child Porn Investigation
     </div>
     <a href="https://www.deepdotweb.com/tag/33/" rel="tag">33</a> <a href="https://www.deepdotweb.com/tag/cases/" rel="tag">cases</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/norway/" rel="tag">norway</a> <a href="https://www.deepdotweb.com/tag/opened/" rel="tag">opened</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/room/" rel="tag">room</a></span> <span style="display:none" class="updated">2017-06-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

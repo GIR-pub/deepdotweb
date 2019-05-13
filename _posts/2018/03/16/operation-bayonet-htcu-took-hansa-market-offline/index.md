@@ -21,6 +21,4 @@ Operation Bayonet: This is how HTCU took Hansa Market offline
 <p>In the interim, many studies are constantly being conducted on Dutch users of the site thus, both sellers and buyers themselves. Data was additionally transferred to foreign investigation services. Due to the present investigation, the police would not yet state how the real identities of users have come, THTC leader Haandrikman suggested. Nevertheless, the police have given up 1,158 seized bitcoins to the Public Prosecution Service.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bayonet/" rel="tag">bayonet</a> <a href="https://www.deepdotweb.com/tag/hansa/" rel="tag">hansa</a> <a href="https://www.deepdotweb.com/tag/htcu/" rel="tag">htcu</a> <a href="https://www.deepdotweb.com/tag/offline/" rel="tag">offline</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a></span> <span style="display:none" class="updated">2018-03-16<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

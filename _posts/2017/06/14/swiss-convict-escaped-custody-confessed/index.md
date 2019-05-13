@@ -28,6 +28,4 @@ Swiss Convict Who Escaped From Custody Confessed
     </div>
     <a href="https://www.deepdotweb.com/tag/confessed/" rel="tag">confessed</a> <a href="https://www.deepdotweb.com/tag/convict/" rel="tag">convict</a> <a href="https://www.deepdotweb.com/tag/custody/" rel="tag">custody</a> <a href="https://www.deepdotweb.com/tag/escaped/" rel="tag">escaped</a> <a href="https://www.deepdotweb.com/tag/swiss/" rel="tag">swiss</a></span> <span style="display:none" class="updated">2017-06-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

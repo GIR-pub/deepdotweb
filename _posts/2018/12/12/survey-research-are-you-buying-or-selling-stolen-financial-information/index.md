@@ -24,6 +24,4 @@ Survey/Research: Are you buying or selling stolen financial information?
 <p><strong>Public Key PGP: </strong>http://fopvitnzpm5jl4or.onion/pgp.html</p>
 </div>
 <span style="display:none" class="updated">2018-12-12<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

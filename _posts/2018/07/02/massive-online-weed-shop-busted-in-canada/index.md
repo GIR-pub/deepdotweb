@@ -19,6 +19,4 @@ Massive Online Weed Shop Busted in Canada
 <p>Authorities released the men on bail after booking and charging them.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/canada/" rel="tag">canada</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a>  <a href="https://www.deepdotweb.com/tag/shop/" rel="tag">shop</a> <a href="https://www.deepdotweb.com/tag/weed/" rel="tag">weed</a></span> <span style="display:none" class="updated">2018-07-02<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

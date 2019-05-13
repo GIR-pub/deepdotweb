@@ -29,6 +29,4 @@ tag-blockchain tag-cryptocurrency tag-decentralized tag-ethereums tag-exchange t
 <p>The Hallex protocol prevents double spending attacks via introduction of a simple lock system. Before a trade could be executed, the exchange must lock the trader&#8217;s assets for a given period of time, for example 100 blocks, which renders double spending, or concurrent trades, impossible. The locking system is saved and enforced via the smart contract.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/ethereums/" rel="tag">ethereums</a> <a href="https://www.deepdotweb.com/tag/exchange/" rel="tag">exchange</a> <a href="https://www.deepdotweb.com/tag/hallex/" rel="tag">hallex</a> <a href="https://www.deepdotweb.com/tag/turingcomplete/" rel="tag">turingcomplete</a></span> <span style="display:none" class="updated">2017-03-10<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

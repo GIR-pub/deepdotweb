@@ -28,6 +28,4 @@ Drug Reaches Hyd Kids from Darknet through Whatsapp, an Investigation from Last 
     </div>
     <span style="display:none" class="updated">2017-07-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
-    </div>
-</article>
-
+    

@@ -37,6 +37,4 @@ Agora Marketplace Changes Url Due to Heartbleed SSL Bug
     </div>
     <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/bug/" rel="tag">bug</a> <a href="https://www.deepdotweb.com/tag/due/" rel="tag">due</a> <a href="https://www.deepdotweb.com/tag/heartbleed/" rel="tag">heartbleed</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/ssl/" rel="tag">ssl</a> <a href="https://www.deepdotweb.com/tag/url/" rel="tag">url</a></span> <span style="display:none" class="updated">2014-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

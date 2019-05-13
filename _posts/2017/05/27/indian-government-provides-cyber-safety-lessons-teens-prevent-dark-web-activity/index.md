@@ -26,6 +26,4 @@ Indian Government Provides Cyber Safety Lessons to Teens to Prevent Dark Web Act
     </div>
     <a href="https://www.deepdotweb.com/tag/activity/" rel="tag">activity</a> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/indian/" rel="tag">indian</a> <a href="https://www.deepdotweb.com/tag/lessons/" rel="tag">lessons</a> <a href="https://www.deepdotweb.com/tag/prevent/" rel="tag">prevent</a> <a href="https://www.deepdotweb.com/tag/safety/" rel="tag">safety</a> <a href="https://www.deepdotweb.com/tag/teens/" rel="tag">teens</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

@@ -26,6 +26,4 @@ Why The Deep Web Will Continue To Grow Part 1
     </div>
     <a href="https://www.deepdotweb.com/tag/continue/" rel="tag">continue</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/deepwebgrow/" rel="tag">DeepWebGrow</a> <a href="https://www.deepdotweb.com/tag/grow/" rel="tag">grow</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2014-12-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
-    </div>
-</article>
-
+    

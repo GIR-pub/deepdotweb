@@ -34,6 +34,4 @@ Censorship of Mobile Money in Uganda: Why Bitcoin Matters
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/censorship/" rel="tag">censorship</a> <a href="https://www.deepdotweb.com/tag/matters/" rel="tag">matters</a> <a href="https://www.deepdotweb.com/tag/mobile/" rel="tag">mobile</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/uganda/" rel="tag">uganda</a></span> <span style="display:none" class="updated">2016-03-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Netherlands Identity Fraud Doubled Between 2015-2016
     </div>
     <a href="https://www.deepdotweb.com/tag/20152016/" rel="tag">20152016</a> <a href="https://www.deepdotweb.com/tag/doubled/" rel="tag">doubled</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/identity/" rel="tag">identity</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a></span> <span style="display:none" class="updated">2017-04-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

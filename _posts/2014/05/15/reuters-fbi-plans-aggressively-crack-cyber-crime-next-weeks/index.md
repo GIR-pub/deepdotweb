@@ -68,6 +68,4 @@ Reuters: The FBI Plans to Aggressively Crack Down on Cyber Crime Over the Next F
     </div>
     <a href="https://www.deepdotweb.com/tag/aggressively/" rel="tag">aggressively</a> <a href="https://www.deepdotweb.com/tag/crack/" rel="tag">crack</a> <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/plans/" rel="tag">plans</a> <a href="https://www.deepdotweb.com/tag/reuters/" rel="tag">reuters</a> <a href="https://www.deepdotweb.com/tag/weeks/" rel="tag">weeks</a></span> <span style="display:none" class="updated">2014-05-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -19,6 +19,4 @@ Nigerian Fraudster Admits Role in 2 Million Dollar Fraud Scheme
 <p>Aggravated identity theft carries a mandatory sentence of two years in prison. WIre fraud carries a 20 year maximum sentence. Chief Judge Hall announced that the scheduling hearing would take place on March 28, 2018.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/dollar/" rel="tag">dollar</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/fraudster/" rel="tag">fraudster</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/nigerian/" rel="tag">nigerian</a> <a href="https://www.deepdotweb.com/tag/role/" rel="tag">role</a> <a href="https://www.deepdotweb.com/tag/scheme/" rel="tag">scheme</a></span> <span style="display:none" class="updated">2018-01-20<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

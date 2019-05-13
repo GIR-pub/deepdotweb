@@ -17,6 +17,4 @@ German TV show gets scammed trying to buy an AK47 on the DarkNet
     </div>
     <a href="https://www.deepdotweb.com/tag/ak47/" rel="tag">ak47</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/scammed/" rel="tag">scammed</a> <a href="https://www.deepdotweb.com/tag/show/" rel="tag">show</a> <a href="https://www.deepdotweb.com/tag/tv/" rel="tag">tv</a></span> <span style="display:none" class="updated">2016-05-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -21,6 +21,4 @@ French Students Arrested For the Sale Of More Than 10,000 Ecstasy Pills
 <p>Le Drian believes it is time for both state-supported organizations and commercial corporations to lead major improvements in their infrastructures and security systems to prevent the loss of data in the future.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/10000/" rel="tag">10000</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/french/" rel="tag">french</a> <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/students/" rel="tag">students</a></span> <span style="display:none" class="updated">2017-03-12<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

@@ -65,6 +65,4 @@ From Being an Addict to Sober: Cannabidiol a.k.a. Medical Marijuana
     </div>
     <a href="https://www.deepdotweb.com/tag/addict/" rel="tag">addict</a> <a href="https://www.deepdotweb.com/tag/aka/" rel="tag">aka</a> <a href="https://www.deepdotweb.com/tag/cannabidiol/" rel="tag">cannabidiol</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/medical/" rel="tag">medical</a> <a href="https://www.deepdotweb.com/tag/sober/" rel="tag">sober</a></span> <span style="display:none" class="updated">2016-03-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

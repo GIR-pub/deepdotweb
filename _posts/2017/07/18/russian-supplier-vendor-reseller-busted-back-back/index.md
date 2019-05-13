@@ -35,6 +35,4 @@ Russian Supplier, Vendor, and Reseller Busted Back-to-Back
     </div>
     <a href="https://www.deepdotweb.com/tag/backtoback/" rel="tag">backtoback</a>  <a href="https://www.deepdotweb.com/tag/reseller/" rel="tag">reseller</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/supplier/" rel="tag">supplier</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-07-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

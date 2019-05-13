@@ -272,6 +272,4 @@ All You Need To Know About Passwords
     </div>
     <a href="https://www.deepdotweb.com/tag/passwords/" rel="tag">passwords</a></span> <span style="display:none" class="updated">2016-11-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
-    </div>
-</article>
-
+    

@@ -20,6 +20,4 @@ NSW Man Busted for Role in an International Darknet Drug Operation
 <p>Earlier this year, police arrested a man connected to the same drug trafficking syndicate. That man—also 33-years-old—is currently in the middle of court proceedings. Officials denied the most recently arrested defendant bail and required him to wait for his upcoming hearing from behind bars.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/international/" rel="tag">international</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/nsw/" rel="tag">nsw</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/role/" rel="tag">role</a></span> <span style="display:none" class="updated">2018-06-20<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

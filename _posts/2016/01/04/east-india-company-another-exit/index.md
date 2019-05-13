@@ -19,6 +19,4 @@ East India Company: Another Exit Scam?
     </div>
     <a href="https://www.deepdotweb.com/tag/company/" rel="tag">company</a> <a href="https://www.deepdotweb.com/tag/east/" rel="tag">east</a> <a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a></span> <span style="display:none" class="updated">2016-01-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

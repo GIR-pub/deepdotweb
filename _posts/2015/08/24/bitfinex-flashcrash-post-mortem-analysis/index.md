@@ -48,6 +48,4 @@ BitFinex FlashCrash &#8211; Post-Mortem Analysis
 <p><em>“Over the one-hour trading period highlighted above, ~70k bitcoin changed hands at Bitfinex; this compares with an average daily volume of 20k bitcoin at Bitfinex over the past month. Bitfinex was not only trading in excess of 10% away from the rest of the market, but also with a multi-point bid/ask spread, leading to significant jumps between ticks”</em> &#8211; Trader’s Block</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitfinex/" rel="tag">bitfinex</a> <a href="https://www.deepdotweb.com/tag/flashcrash/" rel="tag">flashcrash</a> <a href="https://www.deepdotweb.com/tag/postmortem/" rel="tag">postmortem</a></span> <span style="display:none" class="updated">2015-08-24<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

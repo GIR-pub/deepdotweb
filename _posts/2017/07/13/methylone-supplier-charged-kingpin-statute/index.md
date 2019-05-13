@@ -24,6 +24,4 @@ Methylone Supplier Charged Under the Kingpin Statute
     </div>
     <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/kingpin/" rel="tag">kingpin</a> <a href="https://www.deepdotweb.com/tag/methylone/" rel="tag">methylone</a> <a href="https://www.deepdotweb.com/tag/statute/" rel="tag">statute</a> <a href="https://www.deepdotweb.com/tag/supplier/" rel="tag">supplier</a></span> <span style="display:none" class="updated">2017-07-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -17,6 +17,4 @@ Freedom Hosting: High Court grants extradition of Irishman to US
 <p>Justice Aileen Donnelly decided it did not ”infringe on his human or constitutional rights”, and also ruled a decision by the Director of Public Prosecutions (DPP) not to prosecute Marques in Ireland is not reviewable.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/extradited/" rel="tag">extradited</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a></span> <span style="display:none" class="updated">2015-12-19<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

@@ -24,6 +24,4 @@ NORML: No Problem To Receive Donations From Dark Net Market Vendors
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/donations/" rel="tag">donations</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/norml/" rel="tag">norml</a> <a href="https://www.deepdotweb.com/tag/problem/" rel="tag">problem</a> <a href="https://www.deepdotweb.com/tag/receive/" rel="tag">receive</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2016-02-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

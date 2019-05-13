@@ -38,6 +38,4 @@ DarkNetServices: New Vendor Shops Hosting
     </div>
     <a href="https://www.deepdotweb.com/tag/darknetservices/" rel="tag">darknetservices</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/shops/" rel="tag">shops</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

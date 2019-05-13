@@ -19,6 +19,4 @@ Dutch Police Arrest One Hansa Buyer in Warning Campaign
 <p>Wilbert Paulissen, head of the National Criminal Investigation Department, spoke on the incident. He said that identifying &#8216;anonymous’ users on the internet was essential. &#8220;Now it&#8217;s about drugs, but it could be about weapons or child pornography,” he said.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/campaign/" rel="tag">campaign</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/hansa/" rel="tag">hansa</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span> <span style="display:none" class="updated">2018-03-06<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

@@ -19,6 +19,4 @@ Firefox 52 Adds a Tor-Like Font Whitelist to Prevent Fingerprinting through OS F
     </div>
     <a href="https://www.deepdotweb.com/tag/52/" rel="tag">52</a> <a href="https://www.deepdotweb.com/tag/adds/" rel="tag">adds</a> <a href="https://www.deepdotweb.com/tag/fingerprinting/" rel="tag">fingerprinting</a> <a href="https://www.deepdotweb.com/tag/firefox/" rel="tag">firefox</a> <a href="https://www.deepdotweb.com/tag/font/" rel="tag">font</a> <a href="https://www.deepdotweb.com/tag/fonts/" rel="tag">fonts</a> <a href="https://www.deepdotweb.com/tag/os/" rel="tag">os</a> <a href="https://www.deepdotweb.com/tag/prevent/" rel="tag">prevent</a> <a href="https://www.deepdotweb.com/tag/torlike/" rel="tag">torlike</a> <a href="https://www.deepdotweb.com/tag/whitelist/" rel="tag">whitelist</a></span> <span style="display:none" class="updated">2017-01-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

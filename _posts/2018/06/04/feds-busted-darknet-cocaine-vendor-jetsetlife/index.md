@@ -22,6 +22,4 @@ Feds Busted Darknet Cocaine Vendor “JetSetLife”
 <p>Halfway through the month of April, federal agents moved in and arrested Gutierrez Villasenor. The arrest, unlike the arrest of dealers in similar cases, proved fairly uneventful. The police did not even mention evidence discovered on his property. According to the court documents filed on May 16, the man faces one distribution of cocaine charge. If convicted of only that crime, a judge can issue a maximum sentence of 20 years in prison.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/jetsetlife/" rel="tag">jetsetlife</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-06-04<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

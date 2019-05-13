@@ -29,6 +29,4 @@ Android Trojan “Marcher” Almost Impossible to Eliminate
 <p>And that&#8217;s just a list of the banking apps, so far. Marcher attacks other applications that need a credit card input, even if the app itself is not a banking app. Several <a href="https://www.databreaches.net/your-visa-credit-card-can-be-hacked-in-just-six-seconds-study/">credit card company</a> apps are becoming vulnerable as well. The list of permissions allows the Trojan to change so frequently – researchers only hope to keep it up. Android 7.x.X remains untested but likely suffers from the same vulnerabilities that Marshmallow does. This is, of course, dependant on specific carrier and phone builds; not every security patch lands simultaneously.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/android/" rel="tag">android</a> <a href="https://www.deepdotweb.com/tag/eliminate/" rel="tag">eliminate</a> <a href="https://www.deepdotweb.com/tag/impossible/" rel="tag">impossible</a> <a href="https://www.deepdotweb.com/tag/marcher/" rel="tag">marcher</a> <a href="https://www.deepdotweb.com/tag/trojan/" rel="tag">trojan</a></span> <span style="display:none" class="updated">2017-03-07<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

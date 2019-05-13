@@ -20,6 +20,4 @@ Drug Dealer Bought a Gun on the Darknet “for Protection”
 <p>They found more than 40 grams of cocaine in the refrigerator. And under the sink, they found nearly 300 grams of marijuana. Include a semi-automatic weapon and ammunition to match. When questioned about the gun, he told police that he needed it for self-defense. &#8220;I bought it on the <a href="https://www.deepdotweb.com/tag/darknet/">Darknet</a> to protect me. Two months ago, I was assaulted,” he said. A notable period in history where someone had successfully ordered a gun from the darknet. And later got arrested for traffic violations.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>   <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/protection/" rel="tag">protection</a></span> <span style="display:none" class="updated">2017-10-13<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

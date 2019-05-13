@@ -34,6 +34,4 @@ Feds Forcing People to Unlock Phones via Fingerprint Raises Major Privacy Concer
     </div>
     <a href="https://www.deepdotweb.com/tag/concerns/" rel="tag">concerns</a>  <a href="https://www.deepdotweb.com/tag/fingerprint/" rel="tag">fingerprint</a> <a href="https://www.deepdotweb.com/tag/forcing/" rel="tag">forcing</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a> <a href="https://www.deepdotweb.com/tag/phones/" rel="tag">phones</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/raises/" rel="tag">raises</a> <a href="https://www.deepdotweb.com/tag/unlock/" rel="tag">unlock</a></span> <span style="display:none" class="updated">2016-10-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

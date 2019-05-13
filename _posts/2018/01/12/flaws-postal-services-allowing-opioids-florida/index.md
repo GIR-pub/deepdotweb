@@ -29,6 +29,4 @@ Flaws in Postal Services Are Allowing Opioids into Florida
 <p>In spite of all these measures, over 1 million packages reach the United States daily via the global postal system without the appropriate security information that law enforcement agencies require to stop and inspect them. These packages could, however, be containing the deadly synthetic opioids and other illegal items.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/allowing/" rel="tag">allowing</a> <a href="https://www.deepdotweb.com/tag/flaws/" rel="tag">flaws</a> <a href="https://www.deepdotweb.com/tag/florida/" rel="tag">florida</a> <a href="https://www.deepdotweb.com/tag/opioids/" rel="tag">opioids</a> <a href="https://www.deepdotweb.com/tag/postal/" rel="tag">postal</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a></span> <span style="display:none" class="updated">2018-01-12<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-</div>
-</article>
 

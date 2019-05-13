@@ -54,6 +54,4 @@ Silk Road Admin: We Have Repaid 82.09% Of the Stolen Funds
     </div>
     <a href="https://www.deepdotweb.com/tag/8209/" rel="tag">8209</a> <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/repaid/" rel="tag">repaid</a>  <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-05-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

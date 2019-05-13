@@ -26,6 +26,4 @@ Turkish Government Permanently Bans Tor and VPN Services
     </div>
     <a href="https://www.deepdotweb.com/tag/bans/" rel="tag">bans</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/permanently/" rel="tag">permanently</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a>  <a href="https://www.deepdotweb.com/tag/turkish/" rel="tag">turkish</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-12-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

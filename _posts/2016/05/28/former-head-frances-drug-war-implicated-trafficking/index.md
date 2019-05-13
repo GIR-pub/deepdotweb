@@ -25,6 +25,4 @@ Former head of France&#8217;s drug war implicated in trafficking
     </div>
      <a href="https://www.deepdotweb.com/tag/frances/" rel="tag">frances</a> <a href="https://www.deepdotweb.com/tag/implicated/" rel="tag">implicated</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2016-05-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

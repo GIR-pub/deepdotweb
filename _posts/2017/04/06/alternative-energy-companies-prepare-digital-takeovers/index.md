@@ -24,6 +24,4 @@ Alternative Energy Companies Prepare for Digital Takeovers
     </div>
     <a href="https://www.deepdotweb.com/tag/alternative/" rel="tag">alternative</a> <a href="https://www.deepdotweb.com/tag/companies/" rel="tag">companies</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a> <a href="https://www.deepdotweb.com/tag/prepare/" rel="tag">prepare</a> <a href="https://www.deepdotweb.com/tag/takeovers/" rel="tag">takeovers</a></span> <span style="display:none" class="updated">2017-04-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

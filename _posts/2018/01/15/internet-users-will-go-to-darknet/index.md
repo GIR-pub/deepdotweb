@@ -29,6 +29,4 @@ Internet users will go to darknet In Russia
 <p><a id="post-24421-_gjdgxs"></a> By the way it may be a logical extension for the Russian history. Firstly, websites are banned, secondly bypass services and tools are banned, and eventually the users are punished. I will not be surprised if a law criminalizing &#8220;an attempt to access prohibited information&#8221; is enacted next year.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2018-01-15<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
-</div>
-</article>
 

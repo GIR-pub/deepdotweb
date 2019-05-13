@@ -25,6 +25,4 @@ Austria Urges The Netherlands To Shut Down Drug Laboratories
     </div>
     <a href="https://www.deepdotweb.com/tag/austria/" rel="tag">austria</a>  <a href="https://www.deepdotweb.com/tag/laboratories/" rel="tag">laboratories</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/shut/" rel="tag">shut</a> <a href="https://www.deepdotweb.com/tag/urges/" rel="tag">urges</a></span> <span style="display:none" class="updated">2017-06-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

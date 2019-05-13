@@ -31,6 +31,4 @@ AlphaBay and Oasis Markets to Begin Accepting Monero for Payments
     </div>
     <a href="https://www.deepdotweb.com/tag/accepting/" rel="tag">accepting</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a> <a href="https://www.deepdotweb.com/tag/oasis/" rel="tag">oasis</a> <a href="https://www.deepdotweb.com/tag/payments/" rel="tag">payments</a></span> <span style="display:none" class="updated">2016-08-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

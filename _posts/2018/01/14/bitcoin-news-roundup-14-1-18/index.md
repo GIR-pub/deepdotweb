@@ -55,6 +55,4 @@ Bitcoin News Roundup 14.1.18
 <p>Bitcoin, the number one cryptocurrency, fell to little over $13,100 when news of the potential South Korean cryptocurrency trading ban broke, but it soon started to recover after it was clear a potential ban would take years to occur, if it did occur. At press time, one Bitcoin is <a href="https://coinmarketcap.com/currencies/bitcoin/">trading at $14,365</a> as the flagship cryptocurrency is up by 3.88% in the last 24-hour period. Bitcoin’s market cap is of $242 billion, while the ecosystem’s market cap is currently at $740 billion.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/13118/" rel="tag">13118</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2018-01-14<a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
-</div>
-</article>
 

@@ -32,6 +32,4 @@ DNM Recap: July 17th
     </div>
     <a href="https://www.deepdotweb.com/tag/17th/" rel="tag">17th</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/recap/" rel="tag">recap</a></span> <span style="display:none" class="updated">2015-07-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

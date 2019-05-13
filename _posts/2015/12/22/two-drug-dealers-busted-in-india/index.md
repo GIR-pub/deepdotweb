@@ -15,6 +15,4 @@ Two Drug Dealers Busted In India
 <p>The arrested persons, along with the seized illegal substances, were handed over to the Central Crime Service for further investigation.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a></span> <span style="display:none" class="updated">2015-12-22<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

@@ -19,6 +19,4 @@ Two Darknet Dealers Arrested in Russia
 <p>“The contents of mail items are inspected at various stages of shipment, including by using special equipment installed in the places of sorting and processing of parcels and small packages,” a representative of Russian Post told Kommersant.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> <span style="display:none" class="updated">2018-02-16<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

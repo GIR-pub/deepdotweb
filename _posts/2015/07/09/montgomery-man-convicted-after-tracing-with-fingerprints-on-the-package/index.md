@@ -19,6 +19,4 @@ Montgomery Man Convicted For Illegal Gun Sales on Darknet Markets
     </div>
     <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/fingerprints/" rel="tag">fingerprints</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/montgomery/" rel="tag">montgomery</a> <a href="https://www.deepdotweb.com/tag/package/" rel="tag">package</a> <a href="https://www.deepdotweb.com/tag/tracing/" rel="tag">tracing</a></span> <span style="display:none" class="updated">2015-07-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tariqriaz/" title="Posts by Tariq Riaz" rel="author">Tariq Riaz</a></strong></div>
-    </div>
-</article>
-
+    

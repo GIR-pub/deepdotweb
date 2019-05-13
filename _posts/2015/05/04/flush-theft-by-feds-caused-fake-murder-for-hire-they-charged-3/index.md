@@ -37,6 +37,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/srcorruption/" rel="tag">SRCorruption</a></span> <span style="display:none" class="updated">2015-05-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    </div>
-</article>
-
+    

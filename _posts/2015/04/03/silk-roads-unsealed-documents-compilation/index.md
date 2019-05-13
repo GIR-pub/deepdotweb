@@ -56,6 +56,4 @@ Silk Road&#8217;s Unsealed Documents Compilation
     </div>
     <a href="http://www.deepdotweb.com/tag/compilation/" rel="tag">compilation</a> <a href="http://www.deepdotweb.com/tag/documents/" rel="tag">documents</a> <a href="http://www.deepdotweb.com/tag/roads/" rel="tag">roads</a> <a href="http://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="http://www.deepdotweb.com/tag/unsealed/" rel="tag">unsealed</a></span> <span style="display:none" class="updated">2015-04-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-    </div>
-</article>
-
+    

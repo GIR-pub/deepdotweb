@@ -32,6 +32,4 @@ An Overview Of Smart Contract Scripting For Cryptocurrency Blockchains
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchains/" rel="tag">blockchains</a> <a href="https://www.deepdotweb.com/tag/contract/" rel="tag">contract</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/overview/" rel="tag">overview</a> <a href="https://www.deepdotweb.com/tag/scripting/" rel="tag">scripting</a> <a href="https://www.deepdotweb.com/tag/smart/" rel="tag">smart</a></span> <span style="display:none" class="updated">2017-01-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

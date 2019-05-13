@@ -29,6 +29,4 @@ Secure Multi-party Computing Using Bitcoin&#8217;s Blockchain
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/computing/" rel="tag">computing</a> <a href="https://www.deepdotweb.com/tag/multiparty/" rel="tag">multiparty</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a></span> <span style="display:none" class="updated">2017-01-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

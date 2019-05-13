@@ -20,6 +20,4 @@ Bitcoin Sites Blocked by Russia in Avoidance of Shadow Economy Rise
     </div>
     <a href="https://www.deepdotweb.com/tag/avoidance/" rel="tag">avoidance</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/blocked/" rel="tag">blocked</a> <a href="https://www.deepdotweb.com/tag/economy/" rel="tag">economy</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/shadow/" rel="tag">shadow</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a></span> <span style="display:none" class="updated">2015-01-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

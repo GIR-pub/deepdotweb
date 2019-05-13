@@ -32,6 +32,4 @@ NapoliGroup Was Under Investigation in 2012 and Controlled 90% of the Counterfei
     </div>
     <a href="https://www.deepdotweb.com/tag/2012/" rel="tag">2012</a> <a href="https://www.deepdotweb.com/tag/90/" rel="tag">90</a> <a href="https://www.deepdotweb.com/tag/controlled/" rel="tag">controlled</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/flow/" rel="tag">flow</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/napoligroup/" rel="tag">napoligroup</a></span> <span style="display:none" class="updated">2016-12-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

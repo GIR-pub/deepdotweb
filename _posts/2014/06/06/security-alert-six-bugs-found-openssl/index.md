@@ -43,6 +43,4 @@ Security Alert: Six more bugs found in OpenSSL
     </div>
     <a href="https://www.deepdotweb.com/tag/alert/" rel="tag">alert</a> <a href="https://www.deepdotweb.com/tag/bugs/" rel="tag">bugs</a> <a href="https://www.deepdotweb.com/tag/openssl/" rel="tag">openssl</a> </span> <span style="display:none" class="updated">2014-06-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

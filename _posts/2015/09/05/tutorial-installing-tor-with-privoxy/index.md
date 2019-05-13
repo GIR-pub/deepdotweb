@@ -231,6 +231,4 @@ Tutorial: Installing Tor With Privoxy
 <p><a href="/imgs/2015/05/privtor.png"><img class="aligncenter wp-image-10265" src="/imgs/2015/05/privtor.png" alt="privtor" width="1058" height="595" srcset="/imgs/2015/05/privtor.png 1366w, /imgs/2015/05/privtor-300x169.png 300w, /imgs/2015/05/privtor-1024x576.png 1024w" sizes="(max-width: 1058px) 100vw, 1058px"/></a></p>
 </div>
 <a href="https://www.deepdotweb.com/tag/installing/" rel="tag">installing</a> <a href="https://www.deepdotweb.com/tag/privoxy/" rel="tag">privoxy</a>  <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-09-05<a href="https://www.deepdotweb.com/author/jackmeyer/" title="Posts by Jack Meyer" rel="author">Jack Meyer</a></strong></div>
-</div>
-</article>
 

@@ -25,6 +25,4 @@ VirtualPatent &#8211; Tracing Online Ideas Via Decentralized Trusted Timestampin
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/ideas/" rel="tag">ideas</a>  <a href="https://www.deepdotweb.com/tag/timestamping/" rel="tag">timestamping</a> <a href="https://www.deepdotweb.com/tag/tracing/" rel="tag">tracing</a> <a href="https://www.deepdotweb.com/tag/trusted/" rel="tag">trusted</a> <a href="https://www.deepdotweb.com/tag/virtualpatent/" rel="tag">virtualpatent</a></span> <span style="display:none" class="updated">2017-02-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

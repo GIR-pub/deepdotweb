@@ -19,6 +19,4 @@ Researchers Design Network they Claim is Faster &#038; Safer than Tor
     </div>
     <a href="https://www.deepdotweb.com/tag/claim/" rel="tag">claim</a> <a href="https://www.deepdotweb.com/tag/design/" rel="tag">design</a> <a href="https://www.deepdotweb.com/tag/faster/" rel="tag">faster</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/researchers/" rel="tag">researchers</a> <a href="https://www.deepdotweb.com/tag/safer/" rel="tag">safer</a> </span> <span style="display:none" class="updated">2016-07-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

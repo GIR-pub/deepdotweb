@@ -21,6 +21,4 @@ French Banker Bought Counterfeit Euros From The Dark Web
 <p>It is a good question whether it is worth it for terrorists to obtain weapons from the dark net. As seen in several of our previous articles, purchasing firearms is a risky move since law enforcement authorities are closely surveilling dark net markets for possible weapon sales. Maybe if terrorist groups fail to acquire firearms in the “standard way,” they would look to order weapons from dark web vendors.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/banker/" rel="tag">banker</a> <a href="https://www.deepdotweb.com/tag/bought/" rel="tag">bought</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/euros/" rel="tag">euros</a> <a href="https://www.deepdotweb.com/tag/french/" rel="tag">french</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-03-12<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

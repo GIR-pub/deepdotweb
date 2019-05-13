@@ -18,6 +18,4 @@ Darknet Vendor Sentenced To 8 Years, Sold Drugs In Order To Pay Back A Debt
 <p>The sentence by Judge Geraldine Davison goes by: Atkinson is sentenced to eight years and five months in jail with a non-parole period of three years and six months after time in custody was taken into account.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/debt/" rel="tag">debt</a>  <a href="https://www.deepdotweb.com/tag/order/" rel="tag">order</a> <a href="https://www.deepdotweb.com/tag/pay/" rel="tag">pay</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2015-09-05<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

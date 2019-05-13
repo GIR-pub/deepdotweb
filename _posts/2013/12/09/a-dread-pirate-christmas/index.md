@@ -1,15 +1,12 @@
 ---
-title: "A Dread Pirate Christmas
+title: "A Dread Pirate Christmas"
 ---
-2363  tag-christmas tag-dread tag-pirate">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/roul/" title="">Raoul Duke </a></span>
 <span>December 9, 2013</span>
 
-<span><a href="https://www.deepdotweb.com/2013/12/09/a-dread-pirate-christmas/#comments">1 Comment</a></span>
 
-
-<p><strong>A guest post from Raoul Duke &#8211; the future editor of the <a href="http://www.deepdotweb.com/2013/11/16/get-ready-to-silk-roads-newspaper/">Silk Road Courier</a>:</strong></p>
+<p><strong>A guest post from Raoul Duke &#8211; the future editor of the <a href="/2013/11/16/get-ready-to-silk-roads-newspaper/">Silk Road Courier</a>:</strong></p>
 <p>It&#8217;s beginning to look a lot like Christmas… Even for the community of Silk Road (the underground marketplace made famous mostly for the wide array of narcotics, which are listed ‘Ebay style’ and available for home delivery).</p>
 <p>But contrary to images you may have been fed by the media recently of Silk Road’s cutthroat leader &#8220;Dread Pirate Roberts&#8221; (you know – a miserly, reclusive criminal mastermind, allegedly capable of gross misconduct, depravity and <a href="http://www.forbes.com/sites/andygreenberg/2013/11/21/alleged-silk-road-ross-ulbricht-creator-now-accused-of-six-murder-for-hires-denied-bail" target="_blank">gangland-style murder</a> through a secure and anonymous <a href="https://www.torproject.org/">series of tubes</a>), it seems the latest “Dread Pirate Roberts” (or DPR 2.0) to take the helm of the world’s most notorious hidden bazaar, has morphed into more of a geeky cypherpunk Robin Hood kind of guy who might actually be turning Silk Road into the world’s edgiest charitable organization.</p>
 <p>In fact, let’s forget about Christmas for a moment. About three weeks ago, Mr. Roberts released this statement on the Silk Road Forum in regards to the Philippines/Typhoon Haiyan natural disaster:</p>
@@ -151,9 +148,7 @@ title: "A Dread Pirate Christmas
 <p>And we hope you do too.</p>
 <p>Reporting from the edge, this is Raoul Duke.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/christmas/" rel="tag">christmas</a> <a href="https://www.deepdotweb.com/tag/dread/" rel="tag">dread</a> <a href="https://www.deepdotweb.com/tag/pirate/" rel="tag">pirate</a>
 
 Updated: 2013-12-09<a href="https://www.deepdotweb.com/author/roul/" title="Posts by Raoul Duke" rel="author">Raoul Duke</a></strong></div>
-</div>
-</article>
+
 

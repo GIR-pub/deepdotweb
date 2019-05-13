@@ -19,6 +19,4 @@ Former Socialist Youth Leader Granted Bail in Spain
 <p>He faces no child abuse charges. If he did, the court would likely have considered him a risk to the community and denied his bail. Instead, they allowed his release, pending a 20,000 euro bond.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bail/" rel="tag">bail</a> <a href="https://www.deepdotweb.com/tag/granted/" rel="tag">granted</a> <a href="https://www.deepdotweb.com/tag/leader/" rel="tag">leader</a> <a href="https://www.deepdotweb.com/tag/socialist/" rel="tag">socialist</a> <a href="https://www.deepdotweb.com/tag/spain/" rel="tag">spain</a> <a href="https://www.deepdotweb.com/tag/youth/" rel="tag">youth</a></span> <span style="display:none" class="updated">2018-02-28<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

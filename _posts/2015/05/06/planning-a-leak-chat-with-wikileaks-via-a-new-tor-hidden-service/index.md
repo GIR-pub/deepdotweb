@@ -19,6 +19,4 @@ Planning a Leak? Chat With WikiLeaks Via a New Tor Hidden Service
     </div>
     <a href="https://www.deepdotweb.com/tag/chat/" rel="tag">chat</a>  <a href="https://www.deepdotweb.com/tag/leak/" rel="tag">leak</a> <a href="https://www.deepdotweb.com/tag/planning/" rel="tag">planning</a>  <a href="https://www.deepdotweb.com/tag/wikileaks/" rel="tag">wikileaks</a></span> <span style="display:none" class="updated">2015-05-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/politech/" title="Posts by Politech" rel="author">Politech</a></strong></div>
-    </div>
-</article>
-
+    

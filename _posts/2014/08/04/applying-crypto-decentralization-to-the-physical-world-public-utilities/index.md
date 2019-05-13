@@ -26,6 +26,4 @@ Applying Crypto Decentralization to the Physical World: Public Utilities
     </div>
     <a href="https://www.deepdotweb.com/tag/applying/" rel="tag">applying</a> <a href="https://www.deepdotweb.com/tag/crypto/" rel="tag">crypto</a> <a href="https://www.deepdotweb.com/tag/decentralization/" rel="tag">decentralization</a> <a href="https://www.deepdotweb.com/tag/physical/" rel="tag">physical</a> <a href="https://www.deepdotweb.com/tag/public/" rel="tag">public</a> <a href="https://www.deepdotweb.com/tag/utilities/" rel="tag">utilities</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2014-08-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    </div>
-</article>
-
+    

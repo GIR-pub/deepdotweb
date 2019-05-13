@@ -20,6 +20,4 @@ Alphabay Employee “Trappy” Sentenced to 46 Months in Prison
 <p>As with the majority of successfully prosecuted cases involving the darknet, a government official said something that contradicted the government&#8217;s entire “going dark” narrative. “This case shows, once again, that criminals cannot hide in the shadows of the Dark Web,” U.S. Attorney Pak said. He congratulated law enforcement on ending this “nefarious” criminal’s career as an Alphabay spokesperson.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/46/" rel="tag">46</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/trappy/" rel="tag">trappy</a></span> <span style="display:none" class="updated">2018-08-18<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

@@ -32,6 +32,4 @@ Two students of NIT, Warangal busted with Illegal Drugs
     </div>
       <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/nit/" rel="tag">nit</a> <a href="https://www.deepdotweb.com/tag/students/" rel="tag">students</a> <a href="https://www.deepdotweb.com/tag/warangal/" rel="tag">warangal</a></span> <span style="display:none" class="updated">2017-09-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

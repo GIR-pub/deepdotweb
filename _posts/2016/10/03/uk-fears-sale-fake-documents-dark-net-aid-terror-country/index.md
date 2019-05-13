@@ -27,6 +27,4 @@ UK Fears the Sale of Fake Documents on Dark Net Could Aid Terror in the Country
     </div>
     <a href="https://www.deepdotweb.com/tag/aid/" rel="tag">aid</a> <a href="https://www.deepdotweb.com/tag/country/" rel="tag">country</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/documents/" rel="tag">documents</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/fears/" rel="tag">fears</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a> <a href="https://www.deepdotweb.com/tag/terror/" rel="tag">terror</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span> <span style="display:none" class="updated">2016-10-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

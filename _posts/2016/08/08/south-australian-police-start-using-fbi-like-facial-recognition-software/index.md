@@ -21,6 +21,4 @@ South Australian Police to Start Using FBI-Like Facial Recognition Software
     </div>
     <a href="https://www.deepdotweb.com/tag/australian/" rel="tag">australian</a> <a href="https://www.deepdotweb.com/tag/facial/" rel="tag">facial</a> <a href="https://www.deepdotweb.com/tag/fbilike/" rel="tag">fbilike</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/recognition/" rel="tag">recognition</a> <a href="https://www.deepdotweb.com/tag/software/" rel="tag">software</a> <a href="https://www.deepdotweb.com/tag/south/" rel="tag">south</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a></span> <span style="display:none" class="updated">2016-08-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

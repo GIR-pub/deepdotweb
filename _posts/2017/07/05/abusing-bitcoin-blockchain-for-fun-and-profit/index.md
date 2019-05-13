@@ -28,6 +28,4 @@ Abusing Bitcoin Blockchain for Fun and Profit
     </div>
     <a href="https://www.deepdotweb.com/tag/abusing/" rel="tag">abusing</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/fun/" rel="tag">fun</a> <a href="https://www.deepdotweb.com/tag/profit/" rel="tag">profit</a></span> <span style="display:none" class="updated">2017-07-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
-    </div>
-</article>
-
+    

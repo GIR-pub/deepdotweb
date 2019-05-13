@@ -19,6 +19,4 @@ tag-cryptocurrency tag-gaming tag-heaven tag-kptx tag-match">
 <p>It only seems fitting that cryptocurrencies and video games should go hand in hand. They come from similar tech cultures, and are used by global online communities. To put it simply, they are mostly used by geeks, computer people, the only difference is that video games are widely more well known and accepted. But remember the dark days of video games? Gaming was once underground and obscure before it became mainstream, and the same thing seems to be happening to cryptocurrencies.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/gaming/" rel="tag">gaming</a> <a href="https://www.deepdotweb.com/tag/heaven/" rel="tag">heaven</a> <a href="https://www.deepdotweb.com/tag/kptx/" rel="tag">kptx</a> <a href="https://www.deepdotweb.com/tag/match/" rel="tag">match</a></span> <span style="display:none" class="updated">2017-03-22<a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-</div>
-</article>
 

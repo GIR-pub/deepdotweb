@@ -20,6 +20,4 @@ Man Abused His Stepdaughter, Shared Pictures on Darknet Forums
 <p>Judge Weidmann opted for seven years and nine months, along with the monetary stipulation. &#8220;In the worst case, the defendant could meet the child again in a few years,&#8221; the judge said.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/abused/" rel="tag">abused</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/pictures/" rel="tag">pictures</a> <a href="https://www.deepdotweb.com/tag/shared/" rel="tag">shared</a> <a href="https://www.deepdotweb.com/tag/stepdaughter/" rel="tag">stepdaughter</a></span> <span style="display:none" class="updated">2017-10-28<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

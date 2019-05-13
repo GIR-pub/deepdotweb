@@ -31,6 +31,4 @@ Dark Web Security Firm Warning Islamic State Becoming Sophisticated
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/firm/" rel="tag">firm</a> <a href="https://www.deepdotweb.com/tag/islamic/" rel="tag">islamic</a>  <a href="https://www.deepdotweb.com/tag/sophisticated/" rel="tag">sophisticated</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-01-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

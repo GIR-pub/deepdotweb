@@ -28,6 +28,4 @@
 <p>The Darknet was created to achieve a different purpose other than the illicit activities people use it for. To others, it is a pioneer of democracy as buyers are exposed to different goods and services with the freedom to order. The Darknet issues surrounding Haverhill is very intense as people do not only engage in firearms and drug importation for illegal distribution but also, the manipulation of users account information for their hacking satisfaction.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/20yearold/" rel="tag">20yearold</a> <a href="https://www.deepdotweb.com/tag/bedroom/" rel="tag">bedroom</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/possession/" rel="tag">possession</a></span> <span style="display:none" class="updated">2018-03-26<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-</div>
-</article>
 

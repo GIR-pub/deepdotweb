@@ -26,6 +26,4 @@ Solidus: A New Cryptocurrency That Promotes Permissionless Byzantine Consensus
     </div>
     <a href="https://www.deepdotweb.com/tag/byzantine/" rel="tag">byzantine</a> <a href="https://www.deepdotweb.com/tag/consensus/" rel="tag">consensus</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/permissionless/" rel="tag">permissionless</a> <a href="https://www.deepdotweb.com/tag/promotes/" rel="tag">promotes</a> <a href="https://www.deepdotweb.com/tag/solidus/" rel="tag">solidus</a></span> <span style="display:none" class="updated">2016-12-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

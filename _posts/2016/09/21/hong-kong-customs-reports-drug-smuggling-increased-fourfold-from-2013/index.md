@@ -23,6 +23,4 @@ Hong Kong Customs Reports Drug Smuggling Increased Fourfold From 2013
     </div>
     <a href="https://www.deepdotweb.com/tag/2013/" rel="tag">2013</a> <a href="https://www.deepdotweb.com/tag/customs/" rel="tag">customs</a>  <a href="https://www.deepdotweb.com/tag/fourfold/" rel="tag">fourfold</a> <a href="https://www.deepdotweb.com/tag/hong/" rel="tag">hong</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a> <a href="https://www.deepdotweb.com/tag/kong/" rel="tag">kong</a> <a href="https://www.deepdotweb.com/tag/reports/" rel="tag">reports</a> <a href="https://www.deepdotweb.com/tag/smuggling/" rel="tag">smuggling</a></span> <span style="display:none" class="updated">2016-09-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

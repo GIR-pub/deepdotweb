@@ -19,6 +19,4 @@ Hotspot Shield VPN is Leaking Users Data and Location
 <p>Be sure to check out <a href="https://www.deepdotweb.com/2017/08/25/hotspot-shield-vpn-accused-selling-customer-data-advertisers/">DeepDotWeb’s VPN Comparison Chart</a> to find the best VPN services available.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/hotspot/" rel="tag">hotspot</a> <a href="https://www.deepdotweb.com/tag/leaking/" rel="tag">leaking</a> <a href="https://www.deepdotweb.com/tag/location/" rel="tag">location</a> <a href="https://www.deepdotweb.com/tag/shield/" rel="tag">shield</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2018-02-27<a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-</div>
-</article>
 

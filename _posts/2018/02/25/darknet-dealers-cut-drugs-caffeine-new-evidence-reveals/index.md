@@ -18,6 +18,4 @@ Darknet Dealers Cut Drugs with Caffeine, New Evidence Reveals
 <p>The trial will continue on February 28. The next verdicts are expected less than a week later on March 2, 2018.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/caffeine/" rel="tag">caffeine</a> <a href="https://www.deepdotweb.com/tag/cut/" rel="tag">cut</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/evidence/" rel="tag">evidence</a> <a href="https://www.deepdotweb.com/tag/reveals/" rel="tag">reveals</a></span> <span style="display:none" class="updated">2018-02-25<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

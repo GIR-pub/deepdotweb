@@ -42,6 +42,4 @@ Bitcoin Price Analysis: December 9
 <p>This week I am bullish and expect this run to continue &#8211; upto a limited retest of $ 480. My first instincts are always to doubt popular market sentiment, which right now is incredibly bullish. I am however, aware of my bias and open to price going as far as $ 640. I advise a healthy dose of skepticism for balance, as we approach $ 500.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/december/" rel="tag">december</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-12-09<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

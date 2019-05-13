@@ -123,6 +123,4 @@ How to Keep Track of Your Cryptocurrency Investments
     </div>
     <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/investments/" rel="tag">investments</a> <a href="https://www.deepdotweb.com/tag/track/" rel="tag">track</a></span> <span style="display:none" class="updated">2017-05-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

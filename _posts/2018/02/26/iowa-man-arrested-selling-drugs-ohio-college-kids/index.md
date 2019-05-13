@@ -18,6 +18,4 @@ Iowa Man Arrested for Selling Drugs to Ohio College Kids
 <p>Boeckholt is currently at Winnebago County Jail awaiting extradition to Athens County to face charges. Strand’s whereabouts are unknown. National arrest warrants for the man have been issued. Prosecutor Blackburn expects additional arrests in the case.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/college/" rel="tag">college</a>  <a href="https://www.deepdotweb.com/tag/iowa/" rel="tag">iowa</a> <a href="https://www.deepdotweb.com/tag/kids/" rel="tag">kids</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/ohio/" rel="tag">ohio</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a></span> <span style="display:none" class="updated">2018-02-26<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

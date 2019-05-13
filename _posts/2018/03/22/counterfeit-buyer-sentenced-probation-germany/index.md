@@ -20,6 +20,4 @@ Counterfeit Buyer Sentenced to Probation in Germany
 <p>Prosecutor Martin Hengstler disagreed. He asked the court for a prison sentence of two years and four months. Judge Martin Reuff disagreed with the prosecutor. He sentenced the defendant to two years in probation. &#8220;Another jam and you&#8217;re in jail,&#8221; the judge warned.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/probation/" rel="tag">probation</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-03-22<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

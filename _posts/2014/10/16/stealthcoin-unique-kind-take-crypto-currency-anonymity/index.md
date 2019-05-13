@@ -64,6 +64,4 @@ StealthCoin Unique Kind Take On Crypto-Currency Anonymity
     </div>
     <a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/kind/" rel="tag">kind</a> <a href="https://www.deepdotweb.com/tag/stealthcoin/" rel="tag">stealthcoin</a> <a href="https://www.deepdotweb.com/tag/unique/" rel="tag">unique</a></span> <span style="display:none" class="updated">2014-10-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
-    </div>
-</article>
-
+    

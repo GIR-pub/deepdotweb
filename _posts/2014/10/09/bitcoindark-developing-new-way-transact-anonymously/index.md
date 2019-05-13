@@ -24,6 +24,4 @@ BitcoinDark: A New Way To Transact Anonymously
     </div>
     <a href="https://www.deepdotweb.com/tag/anonymously/" rel="tag">anonymously</a> <a href="https://www.deepdotweb.com/tag/bitcoindark/" rel="tag">bitcoindark</a> <a href="https://www.deepdotweb.com/tag/developing/" rel="tag">developing</a> <a href="https://www.deepdotweb.com/tag/transact/" rel="tag">transact</a></span> <span style="display:none" class="updated">2014-10-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
-    </div>
-</article>
-
+    

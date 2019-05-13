@@ -30,6 +30,4 @@ Report: Online Gaming Currencies Used For Money Laundering
     </div>
     <a href="https://www.deepdotweb.com/tag/currencies/" rel="tag">currencies</a> <a href="https://www.deepdotweb.com/tag/gaming/" rel="tag">gaming</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a>  <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2016-10-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

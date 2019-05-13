@@ -29,6 +29,4 @@ New Ransomware-as-a-Service Arrives, Encrypts Most Files Within Minutes
     </div>
     <a href="https://www.deepdotweb.com/tag/arrives/" rel="tag">arrives</a> <a href="https://www.deepdotweb.com/tag/encrypts/" rel="tag">encrypts</a> <a href="https://www.deepdotweb.com/tag/files/" rel="tag">files</a> <a href="https://www.deepdotweb.com/tag/minutes/" rel="tag">minutes</a> <a href="https://www.deepdotweb.com/tag/ransomwareasaservice/" rel="tag">ransomwareasaservice</a></span> <span style="display:none" class="updated">2017-05-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

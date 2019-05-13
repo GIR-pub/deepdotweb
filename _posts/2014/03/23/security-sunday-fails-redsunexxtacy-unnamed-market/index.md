@@ -95,6 +95,4 @@ Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market
     </div>
     <a href="https://www.deepdotweb.com/tag/fail/" rel="tag">fail</a> <a href="https://www.deepdotweb.com/tag/redsunexxtacy/" rel="tag">redsunexxtacy</a>  <a href="https://www.deepdotweb.com/tag/sunday/" rel="tag">sunday</a> <a href="https://www.deepdotweb.com/tag/trio/" rel="tag">trio</a> <a href="https://www.deepdotweb.com/tag/unnamed/" rel="tag">unnamed</a></span> <span style="display:none" class="updated">2014-03-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

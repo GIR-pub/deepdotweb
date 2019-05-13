@@ -26,6 +26,4 @@ British University Lecturer Jailed After Tragic Death Of His Friend
     </div>
     <a href="https://www.deepdotweb.com/tag/british/" rel="tag">british</a> <a href="https://www.deepdotweb.com/tag/death/" rel="tag">death</a> <a href="https://www.deepdotweb.com/tag/friend/" rel="tag">friend</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/lecturer/" rel="tag">lecturer</a> <a href="https://www.deepdotweb.com/tag/tragic/" rel="tag">tragic</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a></span> <span style="display:none" class="updated">2017-04-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

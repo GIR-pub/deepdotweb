@@ -23,6 +23,4 @@ Alaskan Man Arrested After $15,000 Ecstasy Package Intercepted
     </div>
     <a href="https://www.deepdotweb.com/tag/15000/" rel="tag">15000</a> <a href="https://www.deepdotweb.com/tag/alaskan/" rel="tag">alaskan</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/intercepted/" rel="tag">intercepted</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/package/" rel="tag">package</a></span> <span style="display:none" class="updated">2016-09-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

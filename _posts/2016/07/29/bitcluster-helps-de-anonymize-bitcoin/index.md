@@ -24,6 +24,4 @@ BitCluster Helps De-anonymize Bitcoin
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcluster/" rel="tag">bitcluster</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/deanonymize/" rel="tag">deanonymize</a> <a href="https://www.deepdotweb.com/tag/helps/" rel="tag">helps</a></span> <span style="display:none" class="updated">2016-07-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

@@ -18,6 +18,4 @@ Saudi Man Admits Paying for “Sadistic” Child Pornography with Cryptocurrency
 <p>Alahdali pleaded guilty to one count of receipt of child pornography and will appear in court for sentencing in January 2018.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/paying/" rel="tag">paying</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a> <a href="https://www.deepdotweb.com/tag/sadistic/" rel="tag">sadistic</a> <a href="https://www.deepdotweb.com/tag/saudi/" rel="tag">saudi</a></span> <span style="display:none" class="updated">2018-10-16<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

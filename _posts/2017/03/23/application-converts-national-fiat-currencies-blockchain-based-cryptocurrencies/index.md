@@ -32,6 +32,4 @@ An Application That Converts National Fiat Currencies To Blockchain Based Crypto
 <p>&#8220;placeOrder&#8221; and &#8220;completeOrder&#8221; are the functions that actually exchange fiat money to ether. The workflows of both &#8220;place&#8221; and &#8220;complete&#8221; are similar to the behavior of Kraken, the cryptocurrency exchange platform. The currency orders are saved within a Struct, and they can be either &#8220;completed&#8221;, &#8220;open&#8221; or &#8220;deleted&#8221;.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/application/" rel="tag">application</a> <a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/converts/" rel="tag">converts</a> <a href="https://www.deepdotweb.com/tag/cryptocurrencies/" rel="tag">cryptocurrencies</a> <a href="https://www.deepdotweb.com/tag/currencies/" rel="tag">currencies</a> <a href="https://www.deepdotweb.com/tag/fiat/" rel="tag">fiat</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a></span> <span style="display:none" class="updated">2017-03-23<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

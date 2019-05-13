@@ -46,6 +46,4 @@ Defcon&#8217;s Latest post: We Will Repay The Stolen Funds
     </div>
     <a href="https://www.deepdotweb.com/tag/defcons/" rel="tag">defcons</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/latest/" rel="tag">latest</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="https://www.deepdotweb.com/tag/repay/" rel="tag">repay</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2014-02-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

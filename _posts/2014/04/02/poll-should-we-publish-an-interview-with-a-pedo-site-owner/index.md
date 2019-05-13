@@ -38,6 +38,4 @@ Poll: Should We Publish An Interview With A Pedo Site Owner?
     </div>
     <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/pedo/" rel="tag">pedo</a> <a href="https://www.deepdotweb.com/tag/poll/" rel="tag">poll</a> <a href="https://www.deepdotweb.com/tag/publish/" rel="tag">publish</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a></span> <span style="display:none" class="updated">2014-04-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

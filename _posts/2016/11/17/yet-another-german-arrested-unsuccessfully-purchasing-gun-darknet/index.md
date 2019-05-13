@@ -29,6 +29,4 @@ Yet Another German Arrested After Unsuccessfully Purchasing a Gun from the Darkn
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/purchasing/" rel="tag">purchasing</a> <a href="https://www.deepdotweb.com/tag/unsuccessfully/" rel="tag">unsuccessfully</a></span> <span style="display:none" class="updated">2016-11-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

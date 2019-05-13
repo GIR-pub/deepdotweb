@@ -23,6 +23,4 @@ Dutch Darknet Grenade Buyer Freed for Personal Reasons
 <p>And despite the fact that ample evidence to keep the man in custody remained, the court announced that the matter of pregnancy took a temporary precedence. As long as the suspect kept himself available for questioning at all times. This could, and likely will charge at the suspect&#8217;s next hearing in med-December.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/freed/" rel="tag">freed</a> <a href="https://www.deepdotweb.com/tag/grenade/" rel="tag">grenade</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/reasons/" rel="tag">reasons</a></span> <span style="display:none" class="updated">2017-10-02<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

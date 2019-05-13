@@ -22,6 +22,4 @@ Australian Teen Arrested, Could face 25 years in Prison for Dark Net Drug Import
     </div>
     <a href="https://www.deepdotweb.com/tag/60000/" rel="tag">60000</a> <a href="https://www.deepdotweb.com/tag/australian/" rel="tag">australian</a>  <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/swag/" rel="tag">swag</a> <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a> <a href="https://www.deepdotweb.com/tag/worth/" rel="tag">worth</a></span> <span style="display:none" class="updated">2016-09-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

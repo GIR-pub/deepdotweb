@@ -19,6 +19,4 @@ A Gang that Used the Dark Web to Supply Drugs Busted.
 <p>This is not the first joint operation that Europol has been involved in. In one of the latest cases, Europol partnered with the <a href="https://www.deepdotweb.com/2018/04/13/europol-joint-investigation-puts-20-cybercriminals-in-police-custody/">Romanian National Police and the Italian National Police</a>, in a sting that resulted in the arrest of 20 cybercriminals connected to a one million euro heist.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/gang/" rel="tag">gang</a> <a href="https://www.deepdotweb.com/tag/supply/" rel="tag">supply</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-07-20<a href="https://www.deepdotweb.com/author/cashcard/" title="Posts by CashCard" rel="author">CashCard</a></strong></div>
-</div>
-</article>
 

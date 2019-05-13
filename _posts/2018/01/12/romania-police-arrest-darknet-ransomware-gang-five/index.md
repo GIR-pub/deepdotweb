@@ -27,6 +27,4 @@ Romania Police Arrest a Darknet Ransomware Gang of Five
 <p>Cybercrime can be prevented by undertaking proactive measures such as updating a computer’s antivirus and taking basic ethics of internet usage serious.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/gang/" rel="tag">gang</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/romania/" rel="tag">romania</a></span> <span style="display:none" class="updated">2018-01-12<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-</div>
-</article>
 

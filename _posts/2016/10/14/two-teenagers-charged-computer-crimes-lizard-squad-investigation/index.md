@@ -30,6 +30,4 @@ Two Teenagers Charged With Computer Crimes In Lizard Squad Investigation
     </div>
     <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/computer/" rel="tag">computer</a> <a href="https://www.deepdotweb.com/tag/crimes/" rel="tag">crimes</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/lizard/" rel="tag">lizard</a> <a href="https://www.deepdotweb.com/tag/squad/" rel="tag">squad</a> <a href="https://www.deepdotweb.com/tag/teenagers/" rel="tag">teenagers</a></span> <span style="display:none" class="updated">2016-10-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -26,6 +26,4 @@ Primalbase: Shared workspace for the tokenized economy
     </div>
     <a href="https://www.deepdotweb.com/tag/economy/" rel="tag">economy</a> <a href="https://www.deepdotweb.com/tag/primalbase/" rel="tag">primalbase</a> <a href="https://www.deepdotweb.com/tag/shared/" rel="tag">shared</a> <a href="https://www.deepdotweb.com/tag/tokenized/" rel="tag">tokenized</a> <a href="https://www.deepdotweb.com/tag/workspace/" rel="tag">workspace</a></span> <span style="display:none" class="updated">2017-06-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

@@ -26,6 +26,4 @@ Purity and Prices of Drugs Purchased Online Versus Offline in the Netherlands
     </div>
      <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/offline/" rel="tag">offline</a>  <a href="https://www.deepdotweb.com/tag/prices/" rel="tag">prices</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a> <a href="https://www.deepdotweb.com/tag/purity/" rel="tag">purity</a></span> <span style="display:none" class="updated">2017-04-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

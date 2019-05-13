@@ -25,6 +25,4 @@ EU Council Requests The Registration Of Bitcoin Users
     </div>
     <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/council/" rel="tag">council</a> <a href="https://www.deepdotweb.com/tag/eu/" rel="tag">eu</a> <a href="https://www.deepdotweb.com/tag/registration/" rel="tag">registration</a> <a href="https://www.deepdotweb.com/tag/requests/" rel="tag">requests</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2017-01-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Colorado Man Sentenced For Sharing Fentanyl Resulting In Two Overdose Deaths
     </div>
     <a href="https://www.deepdotweb.com/tag/colorado/" rel="tag">colorado</a> <a href="https://www.deepdotweb.com/tag/deaths/" rel="tag">deaths</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/overdose/" rel="tag">overdose</a> <a href="https://www.deepdotweb.com/tag/resulting/" rel="tag">resulting</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/sharing/" rel="tag">sharing</a></span> <span style="display:none" class="updated">2017-05-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

@@ -18,6 +18,4 @@ Fake Percocet Dealer Sentenced to 14 Years in Prison
 <p>During the investigation, Liming fled to Florida as a fugitive from the law. Florida law enforcement caught him and he was extradited back to Ohio. He then pleaded guilty to involuntary manslaughter and drug trafficking. Judge Anthony Brock issued a 14-year prison sentence on April 26.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/14/" rel="tag">14</a>  <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/percocet/" rel="tag">percocet</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-05-07<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

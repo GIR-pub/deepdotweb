@@ -27,6 +27,4 @@ Alphabay Hacker “Cipher0007” Takes Down Sanctuary Market
     </div>
     <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/cipher0007/" rel="tag">cipher0007</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/sanctuary/" rel="tag">sanctuary</a> <a href="https://www.deepdotweb.com/tag/takes/" rel="tag">takes</a></span> <span style="display:none" class="updated">2017-06-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

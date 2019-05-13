@@ -39,6 +39,4 @@ Researchers Tell The Senate How Medical Records End Up On The Deepweb
     </div>
     <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/medical/" rel="tag">medical</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/researchers/" rel="tag">researchers</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a></span> <span style="display:none" class="updated">2016-10-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

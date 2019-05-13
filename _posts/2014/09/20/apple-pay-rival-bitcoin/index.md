@@ -40,6 +40,4 @@ Apple Pay, a Rival to Bitcoin?
     </div>
     <a href="https://www.deepdotweb.com/tag/apple/" rel="tag">apple</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/pay/" rel="tag">pay</a> <a href="https://www.deepdotweb.com/tag/rival/" rel="tag">rival</a></span> <span style="display:none" class="updated">2014-09-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/denniswafula/" title="Posts by Dennis Wafula" rel="author">Dennis Wafula</a></strong></div>
-    </div>
-</article>
-
+    

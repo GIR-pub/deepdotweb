@@ -31,6 +31,4 @@ Authorities Push Legislation That Aims To End The Shipping Of Drugs Via USPS
     </div>
     <a href="https://www.deepdotweb.com/tag/aims/" rel="tag">aims</a> <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a>  <a href="https://www.deepdotweb.com/tag/legislation/" rel="tag">legislation</a> <a href="https://www.deepdotweb.com/tag/push/" rel="tag">push</a> <a href="https://www.deepdotweb.com/tag/shipping/" rel="tag">shipping</a> <a href="https://www.deepdotweb.com/tag/usps/" rel="tag">usps</a></span> <span style="display:none" class="updated">2016-10-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

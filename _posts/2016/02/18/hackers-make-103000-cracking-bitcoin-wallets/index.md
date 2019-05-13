@@ -28,6 +28,4 @@ Hackers Make $103,000 Cracking Bitcoin Wallets
     </div>
     <a href="https://www.deepdotweb.com/tag/103000/" rel="tag">103000</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/cracking/" rel="tag">cracking</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/wallets/" rel="tag">wallets</a></span> <span style="display:none" class="updated">2016-02-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

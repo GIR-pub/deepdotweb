@@ -22,6 +22,4 @@ Suspected Hacker Behind the NeverQuest Banking Trojan Arrested in Spain
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/banking/" rel="tag">banking</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/neverquest/" rel="tag">neverquest</a> <a href="https://www.deepdotweb.com/tag/spain/" rel="tag">spain</a> <a href="https://www.deepdotweb.com/tag/suspected/" rel="tag">suspected</a> <a href="https://www.deepdotweb.com/tag/trojan/" rel="tag">trojan</a></span> <span style="display:none" class="updated">2017-02-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

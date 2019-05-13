@@ -27,6 +27,4 @@ The UK Wants to Re-Route Malicious Traffic from its Country, Potentially Causing
     </div>
     <a href="https://www.deepdotweb.com/tag/causing/" rel="tag">causing</a> <a href="https://www.deepdotweb.com/tag/countries/" rel="tag">countries</a> <a href="https://www.deepdotweb.com/tag/country/" rel="tag">country</a> <a href="https://www.deepdotweb.com/tag/harm/" rel="tag">harm</a> <a href="https://www.deepdotweb.com/tag/malicious/" rel="tag">malicious</a> <a href="https://www.deepdotweb.com/tag/potentially/" rel="tag">potentially</a> <a href="https://www.deepdotweb.com/tag/reroute/" rel="tag">reroute</a> <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span> <span style="display:none" class="updated">2016-11-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

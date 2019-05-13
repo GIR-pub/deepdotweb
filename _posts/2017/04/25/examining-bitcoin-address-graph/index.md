@@ -33,6 +33,4 @@ Examining the Bitcoin Address Graph
     </div>
     <a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/examining/" rel="tag">examining</a> <a href="https://www.deepdotweb.com/tag/graph/" rel="tag">graph</a></span> <span style="display:none" class="updated">2017-04-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

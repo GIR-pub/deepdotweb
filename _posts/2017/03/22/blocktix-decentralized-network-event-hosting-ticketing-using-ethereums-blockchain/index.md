@@ -24,6 +24,4 @@ tag-blockchain tag-blocktix tag-decentralized tag-ethereums tag-event tag-hostin
 <p>The user interface will be created using HTML and Javascript. The below image shows a mockup of Blocktix&#8217;s event page that allows users to buy tickets and vouchers. Blocktrix will use Solidity as a programming language for smart contracts. Solidity is the flagship language of Ethereum&#8217;s blockchain and is currently the most commonly used language for scripting smart contracts.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/blocktix/" rel="tag">blocktix</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/ethereums/" rel="tag">ethereums</a> <a href="https://www.deepdotweb.com/tag/event/" rel="tag">event</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/ticketing/" rel="tag">ticketing</a></span> <span style="display:none" class="updated">2017-03-22<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

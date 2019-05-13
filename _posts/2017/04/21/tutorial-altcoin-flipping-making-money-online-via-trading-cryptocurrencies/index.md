@@ -75,6 +75,4 @@ Tutorial &#8211; Altcoin Flipping : Making Money Online Via Trading Cryptocurren
     </div>
     <a href="https://www.deepdotweb.com/tag/altcoin/" rel="tag">altcoin</a> <a href="https://www.deepdotweb.com/tag/cryptocurrencies/" rel="tag">cryptocurrencies</a> <a href="https://www.deepdotweb.com/tag/flipping/" rel="tag">flipping</a> <a href="https://www.deepdotweb.com/tag/making/" rel="tag">making</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a>  <a href="https://www.deepdotweb.com/tag/trading/" rel="tag">trading</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2017-04-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

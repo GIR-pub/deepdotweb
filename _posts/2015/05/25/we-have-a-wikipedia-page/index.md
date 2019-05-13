@@ -57,6 +57,4 @@ We Have A WikiPedia Page!
     </div>
     <a href="http://www.deepdotweb.com/tag/page/" rel="tag">page</a> <a href="http://www.deepdotweb.com/tag/wikipedia/" rel="tag">wikipedia</a></span> <span style="display:none" class="updated">2015-05-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-    </div>
-</article>
-
+    

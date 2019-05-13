@@ -19,6 +19,4 @@ Tor 6.0 Officially Released and Ready for Download
     </div>
     <a href="https://www.deepdotweb.com/tag/60/" rel="tag">60</a> <a href="https://www.deepdotweb.com/tag/download/" rel="tag">download</a> <a href="https://www.deepdotweb.com/tag/officially/" rel="tag">officially</a> <a href="https://www.deepdotweb.com/tag/ready/" rel="tag">ready</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> </span> <span style="display:none" class="updated">2016-06-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

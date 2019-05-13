@@ -40,6 +40,4 @@ Bitcoin Price Analysis 25 March: Is Bitcoin Headed Towards Fresh Lows?
 <p>This week I am bearish.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/23/" rel="tag">23</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/fresh/" rel="tag">fresh</a> <a href="https://www.deepdotweb.com/tag/headed/" rel="tag">headed</a> <a href="https://www.deepdotweb.com/tag/lows/" rel="tag">lows</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-03-25<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

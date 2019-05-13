@@ -27,6 +27,4 @@ Drug Sales On The Deepweb Have Little Impact On International Drug Trade
     </div>
     <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a>  <a href="https://www.deepdotweb.com/tag/impact/" rel="tag">impact</a> <a href="https://www.deepdotweb.com/tag/international/" rel="tag">international</a> <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a></span> <span style="display:none" class="updated">2016-09-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

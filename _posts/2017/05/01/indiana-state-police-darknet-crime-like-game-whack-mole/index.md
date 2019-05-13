@@ -25,6 +25,4 @@ Indiana State Police: Darknet Crime Like a Game of Whack-a-Mole
     </div>
     <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/game/" rel="tag">game</a> <a href="https://www.deepdotweb.com/tag/indiana/" rel="tag">indiana</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/whackamole/" rel="tag">whackamole</a></span> <span style="display:none" class="updated">2017-05-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -37,6 +37,4 @@ Cyruserv Hosting Shuts Down
     </div>
     <a href="https://www.deepdotweb.com/tag/cyruserv/" rel="tag">cyruserv</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/shuts/" rel="tag">shuts</a></span> <span style="display:none" class="updated">2015-12-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

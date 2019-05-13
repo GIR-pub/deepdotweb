@@ -25,6 +25,4 @@ Three Cybercrime Gang Members Who Used Dark Web Fraud Arrested
 <p>Inspector Darren Callaghan from the Greater Manchester Police said that the local community should work together with the police to bring to light such offenders by communicating any information that might help either through the Action Fraud website or by calling them through a 24-hour active number stated on their website. He urged the importance of such cooperation by insisting that medium and small-scale businesses were the most at risk as they would or already are experiencing huge blows due to the hit by the cyber-attacks.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/gang/" rel="tag">gang</a> <a href="https://www.deepdotweb.com/tag/members/" rel="tag">members</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-12-18<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

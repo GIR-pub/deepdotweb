@@ -84,6 +84,4 @@ Interview With “Cannabis Road” Lead Developer
     </div>
     <a href="https://www.deepdotweb.com/tag/cannabis/" rel="tag">cannabis</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> </span> <span style="display:none" class="updated">2014-05-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

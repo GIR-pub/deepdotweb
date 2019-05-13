@@ -31,6 +31,4 @@ What’s the Future of Ethereum?
     </div>
     <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a></span> <span style="display:none" class="updated">2017-06-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/leahzitter/" title="Posts by Leah Zitter" rel="author">Leah Zitter</a></strong></div>
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Hacker Who Tried To Frame Security Researcher in 2013 &#8211; Sentenced To Priso
 <p>The 31-year-old was <a href="https://www.justice.gov/usao-nj/pr/ukrainian-citizen-sentenced-41-months-prison-using-army-13000-infected-computers-loot-log">sentenced</a> to 41 months in prison, with an additional three years of supervised release, and restitution in the amount of $83,368.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/2013/" rel="tag">2013</a> <a href="https://www.deepdotweb.com/tag/frame/" rel="tag">frame</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/researcher/" rel="tag">researcher</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-03-15<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

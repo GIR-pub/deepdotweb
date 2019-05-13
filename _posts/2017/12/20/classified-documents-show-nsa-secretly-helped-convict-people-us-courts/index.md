@@ -20,6 +20,4 @@ Classified Documents Show NSA Secretly Helped Convict People in US Courts
     </div>
     <a href="https://www.deepdotweb.com/tag/classified/" rel="tag">classified</a> <a href="https://www.deepdotweb.com/tag/convict/" rel="tag">convict</a> <a href="https://www.deepdotweb.com/tag/courts/" rel="tag">courts</a> <a href="https://www.deepdotweb.com/tag/documents/" rel="tag">documents</a> <a href="https://www.deepdotweb.com/tag/helped/" rel="tag">helped</a> <a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a> <a href="https://www.deepdotweb.com/tag/secretly/" rel="tag">secretly</a> <a href="https://www.deepdotweb.com/tag/show/" rel="tag">show</a></span> <span style="display:none" class="updated">2017-12-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

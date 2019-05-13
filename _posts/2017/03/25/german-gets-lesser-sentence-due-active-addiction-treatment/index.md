@@ -27,6 +27,4 @@ German Gets Lesser Sentence Due To Active Addiction Treatment
 <p>Since the suspect realized the issues he had with narcotics and wanted to give up his addictions, the court gave him a lesser sentence. As the prosecutor said, this is a quite unique case since not all defendants take part actively in drug therapy programs. As the court saw the positive results of the treatment, they sentenced the man to probation and obligatory community work.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/active/" rel="tag">active</a> <a href="https://www.deepdotweb.com/tag/addiction/" rel="tag">addiction</a> <a href="https://www.deepdotweb.com/tag/due/" rel="tag">due</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/lesser/" rel="tag">lesser</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/treatment/" rel="tag">treatment</a></span> <span style="display:none" class="updated">2017-03-25<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

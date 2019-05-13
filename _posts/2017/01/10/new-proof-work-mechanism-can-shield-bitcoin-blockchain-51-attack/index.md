@@ -27,6 +27,4 @@ A new proof-of-work mechanism that can shield bitcoin&#8217;s blockchain against
     </div>
     <a href="https://www.deepdotweb.com/tag/51/" rel="tag">51</a> <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/mechanism/" rel="tag">mechanism</a> <a href="https://www.deepdotweb.com/tag/proofofwork/" rel="tag">proofofwork</a> <a href="https://www.deepdotweb.com/tag/shield/" rel="tag">shield</a></span> <span style="display:none" class="updated">2017-01-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

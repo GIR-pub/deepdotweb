@@ -24,6 +24,4 @@ Stop Paying Attention When Someone Uses The Iceberg Metaphor For The Dark Web
     </div>
     <a href="https://www.deepdotweb.com/tag/attention/" rel="tag">attention</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/iceberg/" rel="tag">iceberg</a> <a href="https://www.deepdotweb.com/tag/metaphor/" rel="tag">metaphor</a> <a href="https://www.deepdotweb.com/tag/paying/" rel="tag">paying</a> <a href="https://www.deepdotweb.com/tag/stop/" rel="tag">stop</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-06-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

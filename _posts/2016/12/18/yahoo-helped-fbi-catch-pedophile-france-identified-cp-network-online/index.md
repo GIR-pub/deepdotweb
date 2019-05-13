@@ -21,6 +21,4 @@ Yahoo Helped the FBI Catch a Pedophile in France and Identified a CP Network Onl
     </div>
     <a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/cp/" rel="tag">cp</a> <a href="https://www.deepdotweb.com/tag/france/" rel="tag">france</a> <a href="https://www.deepdotweb.com/tag/helped/" rel="tag">helped</a> <a href="https://www.deepdotweb.com/tag/identified/" rel="tag">identified</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a>  <a href="https://www.deepdotweb.com/tag/pedophile/" rel="tag">pedophile</a> <a href="https://www.deepdotweb.com/tag/yahoo/" rel="tag">yahoo</a></span> <span style="display:none" class="updated">2016-12-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

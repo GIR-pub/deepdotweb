@@ -14,6 +14,4 @@ Get In Now Before The Price Drops!
     </div>
     <a href="https://www.deepdotweb.com/tag/drops/" rel="tag">drops</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2014-12-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Deutsche Telekom Responds To The Arrest Of Hacker
 <p>The 29-year-old is the first person to be publicly accused of launching cyber attacks using Mirai. According to German authorities, the British man could face six to ten years in prison for his crimes.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/deutsche/" rel="tag">deutsche</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/responds/" rel="tag">responds</a> <a href="https://www.deepdotweb.com/tag/telekom/" rel="tag">telekom</a></span> <span style="display:none" class="updated">2017-03-11<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

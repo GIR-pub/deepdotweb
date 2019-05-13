@@ -25,6 +25,4 @@ EU Groups Work on Anti BTC Money Laundering Tools
     </div>
     <a href="https://www.deepdotweb.com/tag/anti/" rel="tag">anti</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/eu/" rel="tag">eu</a> <a href="https://www.deepdotweb.com/tag/groups/" rel="tag">groups</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/tools/" rel="tag">tools</a> <a href="https://www.deepdotweb.com/tag/work/" rel="tag">work</a></span> <span style="display:none" class="updated">2017-06-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

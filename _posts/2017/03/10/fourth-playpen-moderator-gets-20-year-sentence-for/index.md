@@ -25,6 +25,4 @@ Fourth PlayPen Moderator Gets 20-Year Sentence For Promoting Child Porn
 <p>Already, the DoJ stated that 51 abusers of child pornography have been prosecuted and 55 American children who fell victim to illegal and immoral sexual exploitation and abuse have been rescued. Following Project Safe Childhood, a nationwide initiative launched by the DoJ in 2006 to fight against the distribution of child pornography and sexual abuse of underaged children, the DoJ and local law enforcement agencies plan to continue their investigation into darkweb child pornography distributors.</p>
 </div>
 <span style="display:none" class="updated">2017-03-10<a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-</div>
-</article>
 

@@ -20,6 +20,4 @@ Florida Man&#8217;s $28,000 Bitcoin Sale Results in Armed Robbery
     </div>
     <a href="https://www.deepdotweb.com/tag/28000/" rel="tag">28000</a> <a href="https://www.deepdotweb.com/tag/armed/" rel="tag">armed</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/florida/" rel="tag">florida</a> <a href="https://www.deepdotweb.com/tag/mans/" rel="tag">mans</a> <a href="https://www.deepdotweb.com/tag/results/" rel="tag">results</a> <a href="https://www.deepdotweb.com/tag/robbery/" rel="tag">robbery</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a></span> <span style="display:none" class="updated">2016-08-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

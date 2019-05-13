@@ -100,6 +100,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/hitting/" rel="tag">hitting</a> <a href="https://www.deepdotweb.com/tag/ketamine/" rel="tag">ketamine</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/possibly/" rel="tag">possibly</a> <a href="https://www.deepdotweb.com/tag/toxic/" rel="tag">toxic</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span> <span style="display:none" class="updated">2014-02-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

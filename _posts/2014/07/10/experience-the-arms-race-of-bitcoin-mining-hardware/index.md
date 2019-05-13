@@ -43,6 +43,4 @@ Experience: The Arms Race Of Bitcoin Mining Hardware
     </div>
     <a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/hardware/" rel="tag">hardware</a> <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a> <a href="https://www.deepdotweb.com/tag/race/" rel="tag">race</a></span> <span style="display:none" class="updated">2014-07-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/jabberwocky/" title="Posts by Jabberwocky" rel="author">Jabberwocky</a></strong></div>
-    </div>
-</article>
-
+    

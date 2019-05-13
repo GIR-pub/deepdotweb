@@ -29,6 +29,4 @@ Macomb County Computer Enforcement Targets Dark Web Predator
     </div>
     <a href="https://www.deepdotweb.com/tag/computer/" rel="tag">computer</a> <a href="https://www.deepdotweb.com/tag/county/" rel="tag">county</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/macomb/" rel="tag">macomb</a> <a href="https://www.deepdotweb.com/tag/predator/" rel="tag">predator</a> <a href="https://www.deepdotweb.com/tag/targets/" rel="tag">targets</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2016-04-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

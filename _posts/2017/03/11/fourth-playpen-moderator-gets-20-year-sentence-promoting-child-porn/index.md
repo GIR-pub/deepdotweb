@@ -24,6 +24,4 @@ Fourth PlayPen Moderator Gets 20-Year Sentence For Promoting Child Porn
 <p>Already, the DoJ stated that 51 abusers of child pornography have been prosecuted and 55 American children who fell victim to illegal and immoral sexual exploitation and abuse have been rescued. Following Project Safe Childhood, a nationwide initiative launched by the DoJ in 2006 to fight against the distribution of child pornography and sexual abuse of underaged children, the DoJ and local law enforcement agencies plan to continue their investigation into darkweb child pornography distributors.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/20year/" rel="tag">20year</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/fourth/" rel="tag">fourth</a> <a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/promoting/" rel="tag">promoting</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a></span> <span style="display:none" class="updated">2017-03-11<a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-</div>
-</article>
 

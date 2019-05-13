@@ -22,6 +22,4 @@ Dutch Police Not Knowing Where Collector Got World War II Ammunition And Explosi
     </div>
     <a href="https://www.deepdotweb.com/tag/ammunition/" rel="tag">ammunition</a> <a href="https://www.deepdotweb.com/tag/collector/" rel="tag">collector</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/explosives/" rel="tag">explosives</a> <a href="https://www.deepdotweb.com/tag/ii/" rel="tag">ii</a> <a href="https://www.deepdotweb.com/tag/knowing/" rel="tag">knowing</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2017-06-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

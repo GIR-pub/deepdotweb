@@ -23,6 +23,4 @@ Romanian Carder Duo Sentenced In Germany
     </div>
     <a href="https://www.deepdotweb.com/tag/carder/" rel="tag">carder</a> <a href="https://www.deepdotweb.com/tag/duo/" rel="tag">duo</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/romanian/" rel="tag">romanian</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2016-10-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

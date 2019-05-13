@@ -24,6 +24,4 @@ Bitcoin Debit Cards: A Real Comparison
 <p>So why is it so hard to obtain an anonymous debit card? In reality a real debit card, by international law requires all cards to have an identity associated with them. These companies require documents to distribute anonymous cards for their security. The name on the card will not be yours in most cases, so whoever actually signed up for the card on your behalf is responsible for all possible crimes you could commit with the card &#8211; they want something to prove it is not them. These cards are perfectly legal, but they could get you in trouble when the name on the card does not match yours. It may insinuate a stolen card. No card service is perfect, but many of these services can provide you with a modest amount of anonymity.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/cards/" rel="tag">cards</a> <a href="https://www.deepdotweb.com/tag/comparison/" rel="tag">comparison</a> <a href="https://www.deepdotweb.com/tag/debit/" rel="tag">debit</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a></span> <span style="display:none" class="updated">2015-03-09<a href="https://www.deepdotweb.com/author/kyleseverance/" title="Posts by Kyle Severance" rel="author">Kyle Severance</a></strong></div>
-</div>
-</article>
 

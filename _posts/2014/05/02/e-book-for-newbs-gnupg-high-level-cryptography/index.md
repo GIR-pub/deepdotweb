@@ -46,6 +46,4 @@ E-Book Recommendation: GnuPG &#8211; High Level Cryptography
     </div>
     <a href="https://www.deepdotweb.com/tag/cryptography/" rel="tag">cryptography</a> <a href="https://www.deepdotweb.com/tag/ebook/" rel="tag">ebook</a> <a href="https://www.deepdotweb.com/tag/gnupg/" rel="tag">gnupg</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/level/" rel="tag">level</a> <a href="https://www.deepdotweb.com/tag/recommendation/" rel="tag">recommendation</a></span> <span style="display:none" class="updated">2014-05-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

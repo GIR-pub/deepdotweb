@@ -21,6 +21,4 @@ FBI’s Attack On Tor Shows The Threat Of Subpoenas To Security Researchers
     </div>
     <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/fbis/" rel="tag">fbis</a> <a href="https://www.deepdotweb.com/tag/researchers/" rel="tag">researchers</a>  <a href="https://www.deepdotweb.com/tag/shows/" rel="tag">shows</a> <a href="https://www.deepdotweb.com/tag/subpoenas/" rel="tag">subpoenas</a> <a href="https://www.deepdotweb.com/tag/threat/" rel="tag">threat</a> </span> <span style="display:none" class="updated">2016-03-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

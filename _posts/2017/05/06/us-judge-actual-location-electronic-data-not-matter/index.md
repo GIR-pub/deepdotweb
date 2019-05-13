@@ -25,6 +25,4 @@ US Judge: “Actual Location” of Electronic Data Does Not Matter
     </div>
     <a href="https://www.deepdotweb.com/tag/actual/" rel="tag">actual</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/electronic/" rel="tag">electronic</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/location/" rel="tag">location</a> <a href="https://www.deepdotweb.com/tag/matter/" rel="tag">matter</a></span> <span style="display:none" class="updated">2017-05-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

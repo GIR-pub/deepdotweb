@@ -22,6 +22,4 @@ British Dark Web Fentanyl Gang Captured, Trial Set
 <p>Levene together with Childs had previously admitted to supplying and exporting class A drugs, with Lowther also admitting to the same charges last week at the Leeds Crown Court. The trio is set to return to court for sentencing on September 7.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/british/" rel="tag">british</a> <a href="https://www.deepdotweb.com/tag/captured/" rel="tag">captured</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/gang/" rel="tag">gang</a> <a href="https://www.deepdotweb.com/tag/set/" rel="tag">set</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-06-10<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-</div>
-</article>
 

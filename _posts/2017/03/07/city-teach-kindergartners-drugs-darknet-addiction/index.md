@@ -21,6 +21,4 @@ City to Teach Kindergartners About Drugs, Darknet, and Addiction
 <p>They argued that since drugs now came straight through the mail to a child&#8217;s front door, the risk of getting caught decreased tremendously. As more of the “youth,” started ordering and using marijuana, other children saw fewer and fewer risks associated with cannabis use. Therefore, drug education, including the risks associated with darknet marketplaces, should be taught to be all age groups—including kindergartners—they agreed.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/addiction/" rel="tag">addiction</a> <a href="https://www.deepdotweb.com/tag/city/" rel="tag">city</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/kindergartners/" rel="tag">kindergartners</a> <a href="https://www.deepdotweb.com/tag/teach/" rel="tag">teach</a></span> <span style="display:none" class="updated">2017-03-07<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

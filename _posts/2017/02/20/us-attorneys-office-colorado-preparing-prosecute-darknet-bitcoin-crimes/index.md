@@ -21,6 +21,4 @@ US Attorney&#8217;s Office in Colorado Preparing to Prosecute Darknet and Bitcoi
     </div>
     <a href="https://www.deepdotweb.com/tag/attorneys/" rel="tag">attorneys</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/colorado/" rel="tag">colorado</a> <a href="https://www.deepdotweb.com/tag/crimes/" rel="tag">crimes</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/office/" rel="tag">office</a> <a href="https://www.deepdotweb.com/tag/preparing/" rel="tag">preparing</a> <a href="https://www.deepdotweb.com/tag/prosecute/" rel="tag">prosecute</a></span> <span style="display:none" class="updated">2017-02-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -27,6 +27,4 @@ Trial Set for Utah Man Accused of Running Darknet Drug Trade
 <p>&nbsp;</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/running/" rel="tag">running</a> <a href="https://www.deepdotweb.com/tag/set/" rel="tag">set</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a> <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a> <a href="https://www.deepdotweb.com/tag/utah/" rel="tag">utah</a></span> <span style="display:none" class="updated">2018-03-18<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-</div>
-</article>
 

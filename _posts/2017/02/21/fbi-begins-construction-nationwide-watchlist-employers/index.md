@@ -26,6 +26,4 @@ FBI Begins Construction of Nationwide Watchlist For Employers
     </div>
     <a href="https://www.deepdotweb.com/tag/begins/" rel="tag">begins</a> <a href="https://www.deepdotweb.com/tag/construction/" rel="tag">construction</a> <a href="https://www.deepdotweb.com/tag/employers/" rel="tag">employers</a> <a href="https://www.deepdotweb.com/tag/nationwide/" rel="tag">nationwide</a> <a href="https://www.deepdotweb.com/tag/watchlist/" rel="tag">watchlist</a></span> <span style="display:none" class="updated">2017-02-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

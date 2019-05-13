@@ -20,6 +20,4 @@ Scam Prevention and Finalizing Early
 <p>Many people will still choose to finalize orders on their own terms, and as long as you know what risk you’re taking by trusting an anonymous vendor, than it’s your call. Stay safe, everyone.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/early/" rel="tag">early</a> <a href="https://www.deepdotweb.com/tag/finalizing/" rel="tag">finalizing</a> <a href="https://www.deepdotweb.com/tag/prevention/" rel="tag">prevention</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a></span> <span style="display:none" class="updated">2015-10-30<a href="https://www.deepdotweb.com/author/chrismccandless/" title="Posts by Chris McCandless" rel="author">Chris McCandless</a></strong></div>
-</div>
-</article>
 

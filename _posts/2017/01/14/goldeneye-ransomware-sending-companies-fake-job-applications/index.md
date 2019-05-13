@@ -22,6 +22,4 @@ GoldenEye ransomware is sending companies fake job applications
     </div>
     <a href="https://www.deepdotweb.com/tag/applications/" rel="tag">applications</a> <a href="https://www.deepdotweb.com/tag/companies/" rel="tag">companies</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/goldeneye/" rel="tag">goldeneye</a> <a href="https://www.deepdotweb.com/tag/job/" rel="tag">job</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/sending/" rel="tag">sending</a></span> <span style="display:none" class="updated">2017-01-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
-    </div>
-</article>
-
+    

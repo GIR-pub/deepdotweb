@@ -27,6 +27,4 @@ Study Claims: Silk Road Reduced Drug-trade Violence
     </div>
     <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/drugtrade/" rel="tag">drugtrade</a> <a href="https://www.deepdotweb.com/tag/reduced/" rel="tag">reduced</a>  <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/violence/" rel="tag">violence</a></span> <span style="display:none" class="updated">2014-06-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

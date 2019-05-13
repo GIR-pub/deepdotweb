@@ -71,6 +71,4 @@ The Future of the Markets
     </div>
     <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a></span> <span style="display:none" class="updated">2016-01-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

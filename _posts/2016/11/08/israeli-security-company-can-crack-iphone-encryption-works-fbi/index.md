@@ -25,6 +25,4 @@ Israeli Security Company Can Crack IPhone Encryption and Works with the FBI
     </div>
     <a href="https://www.deepdotweb.com/tag/company/" rel="tag">company</a> <a href="https://www.deepdotweb.com/tag/crack/" rel="tag">crack</a> <a href="https://www.deepdotweb.com/tag/encryption/" rel="tag">encryption</a> <a href="https://www.deepdotweb.com/tag/iphone/" rel="tag">iphone</a> <a href="https://www.deepdotweb.com/tag/israeli/" rel="tag">israeli</a>  <a href="https://www.deepdotweb.com/tag/works/" rel="tag">works</a></span> <span style="display:none" class="updated">2016-11-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

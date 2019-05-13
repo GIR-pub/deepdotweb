@@ -39,6 +39,4 @@ Pandora Market: Is It Gone?
     </div>
     <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/everyones/" rel="tag">everyones</a> <a href="https://www.deepdotweb.com/tag/pandora/" rel="tag">pandora</a></span> <span style="display:none" class="updated">2014-07-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

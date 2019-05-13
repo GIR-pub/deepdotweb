@@ -25,6 +25,4 @@ US Police Detective Gets Hit By CryptoWall &#8211; Pays $500 BTC Ransom
     </div>
     <a href="https://www.deepdotweb.com/tag/500/" rel="tag">500</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/cryptowall/" rel="tag">cryptowall</a> <a href="https://www.deepdotweb.com/tag/detective/" rel="tag">detective</a> <a href="https://www.deepdotweb.com/tag/hit/" rel="tag">hit</a> <a href="https://www.deepdotweb.com/tag/pays/" rel="tag">pays</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/ransom/" rel="tag">ransom</a></span> <span style="display:none" class="updated">2014-11-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
-    </div>
-</article>
-
+    

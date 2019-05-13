@@ -23,6 +23,4 @@ German Police Raided Three Suspects for Showing Interest in Darknet Firearm Sale
     </div>
     <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/firearm/" rel="tag">firearm</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/interest/" rel="tag">interest</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/raided/" rel="tag">raided</a> <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> <a href="https://www.deepdotweb.com/tag/showing/" rel="tag">showing</a> <a href="https://www.deepdotweb.com/tag/suspects/" rel="tag">suspects</a></span> <span style="display:none" class="updated">2017-02-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

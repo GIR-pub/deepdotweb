@@ -23,6 +23,4 @@ Swiss Customs Chief: Germany Needs A Financial Police
     </div>
     <a href="https://www.deepdotweb.com/tag/chief/" rel="tag">chief</a> <a href="https://www.deepdotweb.com/tag/customs/" rel="tag">customs</a> <a href="https://www.deepdotweb.com/tag/financial/" rel="tag">financial</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/swiss/" rel="tag">swiss</a></span> <span style="display:none" class="updated">2017-07-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

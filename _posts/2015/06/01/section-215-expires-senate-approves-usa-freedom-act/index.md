@@ -31,6 +31,4 @@ Section 215 Expires, Senate Approves USA Freedom Act
     </div>
     <a href="https://www.deepdotweb.com/tag/215/" rel="tag">215</a> <a href="https://www.deepdotweb.com/tag/act/" rel="tag">act</a> <a href="https://www.deepdotweb.com/tag/approves/" rel="tag">approves</a> <a href="https://www.deepdotweb.com/tag/expires/" rel="tag">expires</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/section/" rel="tag">section</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a> <a href="https://www.deepdotweb.com/tag/usa/" rel="tag">usa</a></span> <span style="display:none" class="updated">2015-06-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

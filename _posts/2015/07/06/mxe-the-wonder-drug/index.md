@@ -25,6 +25,4 @@ MXE: The Wonder Drug
     </div>
      <a href="https://www.deepdotweb.com/tag/mxe/" rel="tag">mxe</a></span> <span style="display:none" class="updated">2015-07-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lines_of_thought/" title="Posts by Lines_of_Thought" rel="author">Lines_of_Thought</a></strong></div>
-    </div>
-</article>
-
+    

@@ -30,6 +30,4 @@ How the presidential candidates feel about Tor / Privacy?
     </div>
     <a href="https://www.deepdotweb.com/tag/candidates/" rel="tag">candidates</a> <a href="https://www.deepdotweb.com/tag/feel/" rel="tag">feel</a> <a href="https://www.deepdotweb.com/tag/presidential/" rel="tag">presidential</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> </span> <span style="display:none" class="updated">2016-02-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

@@ -31,6 +31,4 @@ tag-based tag-bitcoin tag-decentralized tag-marketplaces tag-reputation tag-risk
 <p>5- The system represents an investment by itself as it provides a new arena for financial activities.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a>  <a href="https://www.deepdotweb.com/tag/reputation/" rel="tag">reputation</a> <a href="https://www.deepdotweb.com/tag/risk/" rel="tag">risk</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/trust/" rel="tag">trust</a></span> <span style="display:none" class="updated">2017-03-17<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

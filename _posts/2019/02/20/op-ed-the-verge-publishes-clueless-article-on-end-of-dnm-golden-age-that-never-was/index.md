@@ -44,6 +44,4 @@ Op-Ed: The Verge Publishes Clueless Article on end of DNM &#8220;Golden-Age&#822
     </div>
     <a href="https://www.deepdotweb.com/tag/article/" rel="tag">article</a> <a href="https://www.deepdotweb.com/tag/clueless/" rel="tag">clueless</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/goldenage/" rel="tag">goldenage</a> <a href="https://www.deepdotweb.com/tag/oped/" rel="tag">oped</a> <a href="https://www.deepdotweb.com/tag/publishes/" rel="tag">publishes</a> <a href="https://www.deepdotweb.com/tag/verge/" rel="tag">verge</a></span> <span style="display:none" class="updated">2019-02-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/elmerfud/" title="Posts by ElmerFud" rel="author">ElmerFud</a></strong></div>
-    </div>
-</article>
-
+    

@@ -23,6 +23,4 @@ Pharma Agent Buying Drugs From Darknet Markets For Testing
 <p>“At the end of the day, the person who ordered the pills receives a letter from the U.K. or Germany and it doesn’t come from a questionable country,’’ stated Sorge. “These are not shirts or handbags, but medicine and people taking medicine expect it will help, not hurt them.’’</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/buying/" rel="tag">buying</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/pharma/" rel="tag">pharma</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span> <span style="display:none" class="updated">2015-10-26<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

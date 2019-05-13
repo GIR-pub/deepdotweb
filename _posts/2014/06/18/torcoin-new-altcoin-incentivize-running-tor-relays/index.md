@@ -35,6 +35,4 @@ Torcoin: New Altcoin Hopes To Incentivize People Into Running Tor Relays
     </div>
     <a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a>  <a href="https://www.deepdotweb.com/tag/torcoin/" rel="tag">torcoin</a></span> <span style="display:none" class="updated">2014-06-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
-    </div>
-</article>
-
+    

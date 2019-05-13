@@ -25,6 +25,4 @@ Concerns Over Transformed Alarm Weapon Sales On The Internet In Portugal
     </div>
     <a href="https://www.deepdotweb.com/tag/alarm/" rel="tag">alarm</a> <a href="https://www.deepdotweb.com/tag/concerns/" rel="tag">concerns</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/portugal/" rel="tag">portugal</a> <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> <a href="https://www.deepdotweb.com/tag/transformed/" rel="tag">transformed</a> </span> <span style="display:none" class="updated">2017-05-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

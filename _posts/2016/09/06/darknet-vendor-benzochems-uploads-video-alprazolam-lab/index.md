@@ -22,6 +22,4 @@ Darknet Vendor BenzoChems Uploads Video of His Alprazolam Lab
     </div>
     <a href="https://www.deepdotweb.com/tag/alprazolam/" rel="tag">alprazolam</a> <a href="https://www.deepdotweb.com/tag/benzochems/" rel="tag">benzochems</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/lab/" rel="tag">lab</a> <a href="https://www.deepdotweb.com/tag/uploads/" rel="tag">uploads</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/video/" rel="tag">video</a></span> <span style="display:none" class="updated">2016-09-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

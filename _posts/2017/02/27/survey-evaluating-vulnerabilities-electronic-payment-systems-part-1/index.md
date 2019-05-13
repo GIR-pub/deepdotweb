@@ -36,6 +36,4 @@ Survey &#8211; Evaluating the Vulnerabilities of Electronic Payment Systems (Par
     </div>
     <a href="https://www.deepdotweb.com/tag/electronic/" rel="tag">electronic</a> <a href="https://www.deepdotweb.com/tag/evaluating/" rel="tag">evaluating</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/payment/" rel="tag">payment</a> <a href="https://www.deepdotweb.com/tag/survey/" rel="tag">survey</a> <a href="https://www.deepdotweb.com/tag/systems/" rel="tag">systems</a> <a href="https://www.deepdotweb.com/tag/vulnerabilities/" rel="tag">vulnerabilities</a></span> <span style="display:none" class="updated">2017-02-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

@@ -50,6 +50,4 @@ How to hide bitcoin&#8217;s private keys in steganographic fractal trees
     </div>
     <a href="https://www.deepdotweb.com/tag/fractal/" rel="tag">fractal</a> <a href="https://www.deepdotweb.com/tag/hide/" rel="tag">hide</a> <a href="https://www.deepdotweb.com/tag/keys/" rel="tag">keys</a> <a href="https://www.deepdotweb.com/tag/private/" rel="tag">private</a> <a href="https://www.deepdotweb.com/tag/steganographic/" rel="tag">steganographic</a> <a href="https://www.deepdotweb.com/tag/trees/" rel="tag">trees</a></span> <span style="display:none" class="updated">2019-03-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

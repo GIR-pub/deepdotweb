@@ -41,6 +41,4 @@ Wi-Fi and OPSec
 <p>Thought your home’s wireless was safe? Now you know better. This is not meant to be a scare tactic or deterrent from using wireless, but simply an attempt to educate. To drive home the key points one more time: avoid wireless if you can – plug in. If you have to use wireless, make sure you’re using strong authentication and encryption: WPA2-AES or WPA2-Enterprise. Use a strong diverse pre-shared key (if you have to use a pre-shared) key and last but not least always use VPN on wireless. It doesn’t matter if you’re at home or in public – a WLAN is possibly the most important connection to use VPN. But that doesn’t matter because you always use VPN right? Just remember the more you (and others) use VPN, the safer it becomes. Don’t just use VPN when you want to hide what you’re doing – use it all the time. The same rule should be applied to TOR. I hope that I haven’t scared you all into selling your wireless routers. Be smart and be safe!</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/opsec/" rel="tag">opsec</a> <a href="https://www.deepdotweb.com/tag/wifi/" rel="tag">wifi</a></span> <span style="display:none" class="updated">2015-09-01<a href="https://www.deepdotweb.com/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
-</div>
-</article>
 

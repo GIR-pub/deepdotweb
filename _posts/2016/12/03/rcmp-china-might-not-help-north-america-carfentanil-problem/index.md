@@ -31,6 +31,4 @@ RCMP: China Might Not Help With North America Carfentanil Problem
     </div>
     <a href="https://www.deepdotweb.com/tag/america/" rel="tag">america</a> <a href="https://www.deepdotweb.com/tag/carfentanil/" rel="tag">carfentanil</a> <a href="https://www.deepdotweb.com/tag/china/" rel="tag">china</a> <a href="https://www.deepdotweb.com/tag/north/" rel="tag">north</a> <a href="https://www.deepdotweb.com/tag/problem/" rel="tag">problem</a> <a href="https://www.deepdotweb.com/tag/rcmp/" rel="tag">rcmp</a></span> <span style="display:none" class="updated">2016-12-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

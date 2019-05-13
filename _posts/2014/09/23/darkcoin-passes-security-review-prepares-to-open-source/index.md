@@ -26,6 +26,4 @@ Darkcoin Passes Security Review &#8211; Prepares to Open Source
     </div>
     <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> <a href="https://www.deepdotweb.com/tag/passes/" rel="tag">passes</a> <a href="https://www.deepdotweb.com/tag/prepares/" rel="tag">prepares</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a>  <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a></span> <span style="display:none" class="updated">2014-09-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -20,6 +20,4 @@ ZiftrCoin: the Future of Cryptocurrencies?
     </div>
     <a href="https://www.deepdotweb.com/tag/cryptocurrencies/" rel="tag">cryptocurrencies</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/ziftrcoin/" rel="tag">ziftrcoin</a></span> <span style="display:none" class="updated">2015-04-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kyleseverance/" title="Posts by Kyle Severance" rel="author">Kyle Severance</a></strong></div>
-    </div>
-</article>
-
+    

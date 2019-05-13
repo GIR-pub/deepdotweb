@@ -21,6 +21,4 @@ Tor Project To Start Bug Bounty Program
     </div>
     <a href="https://www.deepdotweb.com/tag/bounty/" rel="tag">bounty</a> <a href="https://www.deepdotweb.com/tag/bug/" rel="tag">bug</a> <a href="https://www.deepdotweb.com/tag/program/" rel="tag">program</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a> </span> <span style="display:none" class="updated">2016-01-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

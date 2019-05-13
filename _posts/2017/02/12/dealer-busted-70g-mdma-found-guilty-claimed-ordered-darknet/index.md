@@ -24,6 +24,4 @@ Dealer Busted with 70g of MDMA Found Guilty, Claimed He Ordered from the Darknet
     </div>
     <a href="https://www.deepdotweb.com/tag/70g/" rel="tag">70g</a>  <a href="https://www.deepdotweb.com/tag/claimed/" rel="tag">claimed</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>   <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/ordered/" rel="tag">ordered</a></span> <span style="display:none" class="updated">2017-02-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -21,6 +21,4 @@ tag-blockchain tag-mutable tag-chain">
 <p>A new data structure is introduced to monitor active transactions within a set of transactions, which includes info about mutable transactions and records the last active value for each of them. To record this data efficiently, the creators of µchain used a &#8220;trie&#8221; data structure, where each pair of a key and its value is represented by a node that can be addressed successfully via its corresponding hash.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/mutable/" rel="tag">mutable</a> <a href="https://www.deepdotweb.com/tag/%c2%b5chain/" rel="tag">µchain</a></span> <span style="display:none" class="updated">2017-03-07<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

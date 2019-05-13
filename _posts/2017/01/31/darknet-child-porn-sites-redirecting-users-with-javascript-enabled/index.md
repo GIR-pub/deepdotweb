@@ -23,6 +23,4 @@ Darknet Child Porn Sites Redirecting Users with JavaScript Enabled
     </div>
     <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/enabled/" rel="tag">enabled</a> <a href="https://www.deepdotweb.com/tag/javascript/" rel="tag">javascript</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/redirecting/" rel="tag">redirecting</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2017-01-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

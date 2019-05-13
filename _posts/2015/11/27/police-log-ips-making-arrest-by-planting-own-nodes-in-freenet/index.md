@@ -17,6 +17,4 @@ Police Log IPs, Making Arrest By Planting Own Nodes In Freenet
 <p>“This session will describe the basic functioning of Freenet, how persons exchanging child abuse material, the system’s vulnerabilities and how the Black Ice project exploits them.”</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/computers/" rel="tag">computers</a> <a href="https://www.deepdotweb.com/tag/freenet/" rel="tag">freenet</a> <a href="https://www.deepdotweb.com/tag/ips/" rel="tag">ips</a> <a href="https://www.deepdotweb.com/tag/making/" rel="tag">making</a> <a href="https://www.deepdotweb.com/tag/planting/" rel="tag">planting</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/tracking/" rel="tag">tracking</a></span> <span style="display:none" class="updated">2015-11-27<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

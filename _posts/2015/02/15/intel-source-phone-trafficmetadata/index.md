@@ -19,6 +19,4 @@ Intel Source – Phone Traffic/Metadata Analysis #4
 <p>Is there really a good reason to invest time or money in PGP text messaging or a proprietary crypto phone, or even encryption software for your computer if you don’t trust it fully? For reasons other than why you would conventionally think so, probably. Find out more next time.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/intelphone/" rel="tag">IntelPhone</a></span> <span style="display:none" class="updated">2015-02-15<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-</div>
-</article>
 

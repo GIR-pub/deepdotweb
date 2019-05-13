@@ -24,6 +24,4 @@ Dark Web Guns a threat to Security in 2018 Says Feds
 <p>With the feds still lacking a clear solution to this problem, the risk of gun incidents happening is very high.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/2018/" rel="tag">2018</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/guns/" rel="tag">guns</a>  <a href="https://www.deepdotweb.com/tag/threat/" rel="tag">threat</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-02-01<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

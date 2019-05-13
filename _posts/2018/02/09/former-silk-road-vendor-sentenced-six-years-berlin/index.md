@@ -20,6 +20,4 @@ Former Silk Road Vendor Sentenced to Six Years in Berlin
 <p>With his relatively minor role as a money launderer and his immediate cooperation with law enforcement in mind, the court gave H. a suspended sentence of 19 months on probation. His wife and son allegedly fled the country and headed for Japan, but German authorities will not be seeking prosecution, rbb24 wrote.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/berlin/" rel="tag">berlin</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-02-09<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

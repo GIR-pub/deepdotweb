@@ -29,6 +29,4 @@ European Police Congress Deliberates on Making the Darknet Inaccessible to its S
     </div>
     <a href="https://www.deepdotweb.com/tag/congress/" rel="tag">congress</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/deliberates/" rel="tag">deliberates</a> <a href="https://www.deepdotweb.com/tag/european/" rel="tag">european</a> <a href="https://www.deepdotweb.com/tag/inaccessible/" rel="tag">inaccessible</a> <a href="https://www.deepdotweb.com/tag/making/" rel="tag">making</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/states/" rel="tag">states</a></span> <span style="display:none" class="updated">2019-03-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/steve_bale/" title="Posts by Steve_Bale" rel="author">Steve_Bale</a></strong></div>
-    </div>
-</article>
-
+    

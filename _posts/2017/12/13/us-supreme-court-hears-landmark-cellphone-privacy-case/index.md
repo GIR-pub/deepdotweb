@@ -20,6 +20,4 @@ US Supreme Court Hears Landmark Cellphone Privacy Case
     </div>
     <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/cellphone/" rel="tag">cellphone</a> <a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/hears/" rel="tag">hears</a> <a href="https://www.deepdotweb.com/tag/landmark/" rel="tag">landmark</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/supreme/" rel="tag">supreme</a></span> <span style="display:none" class="updated">2017-12-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

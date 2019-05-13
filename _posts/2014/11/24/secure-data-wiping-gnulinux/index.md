@@ -18,6 +18,4 @@ Secure Data Wiping on GNU/Linux
     </div>
     <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/gnulinux/" rel="tag">gnulinux</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a> <a href="https://www.deepdotweb.com/tag/wiping/" rel="tag">wiping</a></span> <span style="display:none" class="updated">2014-11-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kiell/" title="Posts by Kiell" rel="author">Kiell</a></strong></div>
-    </div>
-</article>
-
+    

@@ -26,6 +26,4 @@ tag-prison tag-reseller tag-sentenced
 <p>The Grand Rapids Federal Court sentenced Michael Carlton Paiva to 30 months in prison for his role in a conspiracy to distribute controlled substances using virtual currency and the dark web.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/reseller/" rel="tag">reseller</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2017-03-27<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

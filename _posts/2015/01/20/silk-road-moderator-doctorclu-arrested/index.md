@@ -27,6 +27,4 @@ Silk Road 2.0 Moderator DoctorClu Arrested
     </div>
     <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/doctorclu/" rel="tag">doctorclu</a> <a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> </span> <span style="display:none" class="updated">2015-01-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

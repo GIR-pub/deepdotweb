@@ -27,6 +27,4 @@ Malaysian Pilot Tests Positive for Darknet Related Drug in Indonesia
 <p>Methamphetamine, for instance, is sold on the various Darknet marketplaces. As part of the Darknet drugs control, <a href="https://www.deepdotweb.com/2015/08/02/interpol-creates-darknet-training-course/">Interpol created Darknet training course</a> to raise awareness. With their influx into the streets, authorities have attempted series of operations closing down some renowned marketplaces.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/indonesia/" rel="tag">indonesia</a> <a href="https://www.deepdotweb.com/tag/malaysian/" rel="tag">malaysian</a> <a href="https://www.deepdotweb.com/tag/pilot/" rel="tag">pilot</a> <a href="https://www.deepdotweb.com/tag/positive/" rel="tag">positive</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a> <a href="https://www.deepdotweb.com/tag/tests/" rel="tag">tests</a></span> <span style="display:none" class="updated">2018-01-17<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
-</div>
-</article>
 

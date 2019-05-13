@@ -31,6 +31,4 @@ HANGING OFF THE MOLECULE: A BRIEF MEETING WITH ALEXANDER SHULGIN
     </div>
     <a href="https://www.deepdotweb.com/tag/alexander/" rel="tag">alexander</a> <a href="https://www.deepdotweb.com/tag/hanging/" rel="tag">hanging</a> <a href="https://www.deepdotweb.com/tag/meeting/" rel="tag">meeting</a> <a href="https://www.deepdotweb.com/tag/molecule/" rel="tag">molecule</a> <a href="https://www.deepdotweb.com/tag/shulgin/" rel="tag">shulgin</a></span> <span style="display:none" class="updated">2016-11-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/bolinmathews/" title="Posts by Bolin Mathews" rel="author">Bolin Mathews</a></strong></div>
-    </div>
-</article>
-
+    

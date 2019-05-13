@@ -25,6 +25,4 @@ Study Shows That MDMA in the Netherlands Is Less Pure Online Than Locally
     </div>
     <a href="https://www.deepdotweb.com/tag/locally/" rel="tag">locally</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a>  <a href="https://www.deepdotweb.com/tag/pure/" rel="tag">pure</a> <a href="https://www.deepdotweb.com/tag/shows/" rel="tag">shows</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a></span> <span style="display:none" class="updated">2016-12-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

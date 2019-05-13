@@ -17,6 +17,4 @@ Judge Breaks Precedent and Orders Google to Hand Over Foreign Emails
     </div>
     <a href="https://www.deepdotweb.com/tag/breaks/" rel="tag">breaks</a> <a href="https://www.deepdotweb.com/tag/emails/" rel="tag">emails</a> <a href="https://www.deepdotweb.com/tag/foreign/" rel="tag">foreign</a> <a href="https://www.deepdotweb.com/tag/google/" rel="tag">google</a> <a href="https://www.deepdotweb.com/tag/hand/" rel="tag">hand</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a> <a href="https://www.deepdotweb.com/tag/precedent/" rel="tag">precedent</a></span> <span style="display:none" class="updated">2017-02-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

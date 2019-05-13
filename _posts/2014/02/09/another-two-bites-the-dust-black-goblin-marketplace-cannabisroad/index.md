@@ -156,6 +156,4 @@ Another Two Bites The Dust (Black Goblin Marketplace &#038; CannabisRoad)
     </div>
     <span style="display:none" class="updated">2014-02-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

@@ -78,6 +78,4 @@ The Ups and Downs of Dark Net Markets
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/downs/" rel="tag">downs</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/ups/" rel="tag">ups</a></span> <span style="display:none" class="updated">2016-06-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/a-grey/" title="Posts by a.grey" rel="author">a.grey</a></strong></div>
-    </div>
-</article>
-
+    

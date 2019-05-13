@@ -80,6 +80,4 @@ Warning: Fake &#8220;DeepDotWeb Announcement&#8221; By a Failed Market Owner
     </div>
     <a href="https://www.deepdotweb.com/tag/announcement/" rel="tag">announcement</a> <a href="https://www.deepdotweb.com/tag/created/" rel="tag">created</a> <a href="https://www.deepdotweb.com/tag/deepdotweb/" rel="tag">deepdotweb</a> <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span> <span style="display:none" class="updated">2014-08-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

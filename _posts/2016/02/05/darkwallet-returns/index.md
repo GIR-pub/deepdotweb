@@ -20,6 +20,4 @@ DarkWallet Returns
     </div>
     <a href="https://www.deepdotweb.com/tag/darkwallet/" rel="tag">darkwallet</a> <a href="https://www.deepdotweb.com/tag/returns/" rel="tag">returns</a></span> <span style="display:none" class="updated">2016-02-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

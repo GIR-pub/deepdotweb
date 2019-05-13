@@ -17,6 +17,4 @@ PSA: Implemented HTTPS, TLS &#038; HSTS
     </div>
     <a href="https://www.deepdotweb.com/tag/hsts/" rel="tag">hsts</a> <a href="https://www.deepdotweb.com/tag/https/" rel="tag">https</a> <a href="https://www.deepdotweb.com/tag/implemented/" rel="tag">implemented</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a> <a href="https://www.deepdotweb.com/tag/tls/" rel="tag">tls</a></span> <span style="display:none" class="updated">2015-06-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

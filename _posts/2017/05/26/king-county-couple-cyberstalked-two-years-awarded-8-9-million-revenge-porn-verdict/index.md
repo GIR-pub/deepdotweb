@@ -27,6 +27,4 @@ King County Couple Cyberstalked For Two Years: Awarded $8.9 Million In Revenge P
     </div>
     <a href="https://www.deepdotweb.com/tag/89/" rel="tag">89</a> <a href="https://www.deepdotweb.com/tag/awarded/" rel="tag">awarded</a> <a href="https://www.deepdotweb.com/tag/county/" rel="tag">county</a> <a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a> <a href="https://www.deepdotweb.com/tag/cyberstalked/" rel="tag">cyberstalked</a> <a href="https://www.deepdotweb.com/tag/king/" rel="tag">king</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/revenge/" rel="tag">revenge</a> <a href="https://www.deepdotweb.com/tag/verdict/" rel="tag">verdict</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-05-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

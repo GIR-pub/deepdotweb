@@ -16,6 +16,4 @@ U.S. Man in custody After 750 grams of MDMA is Found with His Name on It
     </div>
     <a href="https://www.deepdotweb.com/tag/750/" rel="tag">750</a> <a href="https://www.deepdotweb.com/tag/custody/" rel="tag">custody</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/mdma/" rel="tag">mdma</a></span> <span style="display:none" class="updated">2016-08-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

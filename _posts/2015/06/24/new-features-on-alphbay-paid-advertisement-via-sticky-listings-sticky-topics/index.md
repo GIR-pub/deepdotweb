@@ -59,6 +59,4 @@ New Features on Alphbay: Paid Advertisement via Sticky Listings &#038; Sticky To
     </div>
     <a href="https://www.deepdotweb.com/tag/advertisement/" rel="tag">advertisement</a> <a href="https://www.deepdotweb.com/tag/alphbay/" rel="tag">alphbay</a> <a href="https://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="https://www.deepdotweb.com/tag/listings/" rel="tag">listings</a> <a href="https://www.deepdotweb.com/tag/paid/" rel="tag">paid</a> <a href="https://www.deepdotweb.com/tag/sticky/" rel="tag">sticky</a> <a href="https://www.deepdotweb.com/tag/topics/" rel="tag">topics</a></span> <span style="display:none" class="updated">2015-06-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

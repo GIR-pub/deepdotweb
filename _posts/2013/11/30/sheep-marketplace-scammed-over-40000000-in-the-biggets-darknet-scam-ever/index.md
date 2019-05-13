@@ -1,12 +1,9 @@
 ---
-title: "Sheep Marketplace Scam: Over 40,000,000$ in the Biggest Darknet Scam Ever!
+title: "Sheep Marketplace Scam: Over 40,000,000$ in the Biggest Darknet Scam Ever!"
 ---
-2010  tag-797 tag-biggets tag-darknet tag-scam tag-scammed tag-sheep">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 30, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/#comments">2 Comments</a></span>
 
 
 <p><strong>Tl;DR:</strong> Sheep Marketplace disabled withdrawals, but allowed deposits for the past 10 days or so. They have now disabled the forums after deleting posts related to the inability to withdraw and all this just to start moving the bitcoins from the marketplace to another location (<a href="https://blockchain.info/address/1EiVHZnDVjFH6Tic1YmWUSfYmVUnUZdnMU" target="_blank">BlockChain Link</a> &#8211;  Explanation below)</p>
@@ -80,7 +77,6 @@ title: "Sheep Marketplace Scam: Over 40,000,000$ in the Biggest Darknet Scam Eve
 <p><a href="http://www.reddit.com/r/Bitcoin/comments/1rq4r7/possible_40m_scam_going_down_right_now_on_deepweb/" target="_blank">http://www.reddit.com/r/Bitcoin/comments/1rq4r7/possible_40m_scam_going_down_right_now_on_deepweb/</a></p>
 <p>Discussion on the Silk Road 2.0 forum (Onion.to Link):  <a href="http://silkroad5v7dywlc.onion.to/index.php?topic=4892.0">http://silkroad5v7dywlc.onion.to/index.php?topic=4892.0</a></p>
 <p>We Will keep updating as this can turn out to be the biggest scam ever with the current Bitcoin prices.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/40000000/" rel="tag">40000000</a> <a href="https://www.deepdotweb.com/tag/biggets/" rel="tag">biggets</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/scammed/" rel="tag">scammed</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a>
+
 
 Updated: 2013-11-30

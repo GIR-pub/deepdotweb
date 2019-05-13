@@ -31,6 +31,4 @@ How Hackers Infect You For Fun and Profit?
     </div>
     <a href="https://www.deepdotweb.com/tag/fun/" rel="tag">fun</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/infect/" rel="tag">infect</a> <a href="https://www.deepdotweb.com/tag/profit/" rel="tag">profit</a></span> <span style="display:none" class="updated">2016-05-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/sculptor/" title="Posts by sculptor" rel="author">sculptor</a></strong></div>
-    </div>
-</article>
-
+    

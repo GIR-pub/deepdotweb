@@ -22,6 +22,4 @@ Tor Backs Apple’s Decision against FBI
     </div>
     <a href="https://www.deepdotweb.com/tag/apples/" rel="tag">apples</a> <a href="https://www.deepdotweb.com/tag/backs/" rel="tag">backs</a> <a href="https://www.deepdotweb.com/tag/decision/" rel="tag">decision</a> </span> <span style="display:none" class="updated">2016-03-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
-    </div>
-</article>
-
+    

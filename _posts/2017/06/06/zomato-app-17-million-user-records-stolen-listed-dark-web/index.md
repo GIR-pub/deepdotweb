@@ -23,6 +23,4 @@ Zomato App &#8211; 17 Million User Records Stolen, Listed on Dark Web
     </div>
     <a href="https://www.deepdotweb.com/tag/17/" rel="tag">17</a> <a href="https://www.deepdotweb.com/tag/app/" rel="tag">app</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/listed/" rel="tag">listed</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/restaurant/" rel="tag">restaurant</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/zomato/" rel="tag">zomato</a></span> <span style="display:none" class="updated">2017-06-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

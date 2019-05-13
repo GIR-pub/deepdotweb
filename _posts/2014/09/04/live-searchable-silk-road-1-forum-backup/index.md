@@ -27,6 +27,4 @@ Live: Searchable Silk Road (1) Forum Backup
     </div>
     <a href="https://www.deepdotweb.com/tag/backup/" rel="tag">backup</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/live/" rel="tag">live</a>  <a href="https://www.deepdotweb.com/tag/searchable/" rel="tag">searchable</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2014-09-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

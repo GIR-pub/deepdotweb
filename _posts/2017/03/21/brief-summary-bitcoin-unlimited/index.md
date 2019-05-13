@@ -23,6 +23,4 @@ tag-bitcoin tag-summary tag-unlimited">
 <p>There is also concerns regarding possible <a href="https://bitcoinmagazine.com/articles/how-bitcoin-unlimited-users-may-end-different-blockchains/">chain splits</a> in Bitcoin Unlimited and regarding <a href="https://blog.sia.tech/a-future-led-by-bitcoin-unlimited-is-a-centralized-future-e48ab52c817a#.ie7mqpcz1">centralization</a> of the network. Nevertheless, Bitcoin Unlimited is gaining momentum and may eventually become a reality. We’ll just have to wait and see but if you’re a gambling man, you can check out the <a href="https://www.bitfinex.com/posts/195">Bitfinex Chain Split Tokens</a>.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/summary/" rel="tag">summary</a> <a href="https://www.deepdotweb.com/tag/unlimited/" rel="tag">unlimited</a></span> <span style="display:none" class="updated">2017-03-21<a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-</div>
-</article>
 

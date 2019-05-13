@@ -20,6 +20,4 @@ Department Of Justice Justifies The Attack On Privacy Of 1300 Tor Users
     </div>
     <a href="https://www.deepdotweb.com/tag/1300/" rel="tag">1300</a> <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a> <a href="https://www.deepdotweb.com/tag/justice/" rel="tag">justice</a> <a href="https://www.deepdotweb.com/tag/justifies/" rel="tag">justifies</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a>  <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2016-02-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

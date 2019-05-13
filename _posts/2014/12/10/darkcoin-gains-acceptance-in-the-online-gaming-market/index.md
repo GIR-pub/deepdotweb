@@ -29,6 +29,4 @@ Darkcoin Gains Acceptance In The Online Gaming Market
     </div>
     <a href="https://www.deepdotweb.com/tag/acceptance/" rel="tag">acceptance</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/gains/" rel="tag">gains</a> <a href="https://www.deepdotweb.com/tag/gaming/" rel="tag">gaming</a> </span> <span style="display:none" class="updated">2014-12-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

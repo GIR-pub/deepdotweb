@@ -19,6 +19,4 @@ Bavarian Man Busted for Attempted Glock Purchase
 <p>He admitted ordering the Glock and purchasing the marijuana. The man&#8217;s lawyer explained that the defendant&#8217;s passion and drug habit had encouraged the poor decision but that his client had attempted to turn his life around since the arrest. Judge Helmut Berger sentenced the man to 10 months in prison.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/attempted/" rel="tag">attempted</a> <a href="https://www.deepdotweb.com/tag/bavarian/" rel="tag">bavarian</a>  <a href="https://www.deepdotweb.com/tag/glock/" rel="tag">glock</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/purchase/" rel="tag">purchase</a></span> <span style="display:none" class="updated">2018-08-19<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

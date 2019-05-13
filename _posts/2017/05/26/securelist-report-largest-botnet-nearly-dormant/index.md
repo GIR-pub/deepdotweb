@@ -28,6 +28,4 @@ Securelist Report: The Largest Botnet is Nearly Dormant
     </div>
     <a href="https://www.deepdotweb.com/tag/botnet/" rel="tag">botnet</a> <a href="https://www.deepdotweb.com/tag/dormant/" rel="tag">dormant</a> <a href="https://www.deepdotweb.com/tag/largest/" rel="tag">largest</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/securelist/" rel="tag">securelist</a></span> <span style="display:none" class="updated">2017-05-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

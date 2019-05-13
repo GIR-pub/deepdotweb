@@ -33,6 +33,4 @@ Israel Approves Web Censorship Law to Tackle Illegal Activities Online
     </div>
     <a href="https://www.deepdotweb.com/tag/activities/" rel="tag">activities</a> <a href="https://www.deepdotweb.com/tag/approves/" rel="tag">approves</a> <a href="https://www.deepdotweb.com/tag/censorship/" rel="tag">censorship</a> <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/israel/" rel="tag">israel</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a>  <a href="https://www.deepdotweb.com/tag/tackle/" rel="tag">tackle</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-08-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
-    </div>
-</article>
-
+    

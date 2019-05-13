@@ -18,6 +18,4 @@ Dealer Sentenced for Importing Drugs and Counterfeits to Sell
 <p>Mr. Michal Solinsky, the defendant’s attorney, said that his client turned to the darknet after going through a painful breakup. The man’s love life seemed unimportant to the court, for several reasons, including the lack of relevance. The Criminal Court of Ajaccio sentenced Antonio de Faria to 16 months in prison for importing drugs and counterfeit notes from the darknet and reselling them locally.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/counterfeits/" rel="tag">counterfeits</a>   <a href="https://www.deepdotweb.com/tag/importing/" rel="tag">importing</a> <a href="https://www.deepdotweb.com/tag/sell/" rel="tag">sell</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-02-12<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

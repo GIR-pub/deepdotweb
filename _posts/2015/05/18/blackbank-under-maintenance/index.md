@@ -61,6 +61,4 @@ BlackBank Under Maintenance
     </div>
     <a href="https://www.deepdotweb.com/tag/blackbank/" rel="tag">blackbank</a> <a href="https://www.deepdotweb.com/tag/maintenance/" rel="tag">maintenance</a></span> <span style="display:none" class="updated">2015-05-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

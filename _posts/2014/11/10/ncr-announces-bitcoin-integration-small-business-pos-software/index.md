@@ -20,6 +20,4 @@ NCR Announces Bitcoin Integration into Small Business POS Software
     </div>
     <a href="https://www.deepdotweb.com/tag/announces/" rel="tag">announces</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/integration/" rel="tag">integration</a> <a href="https://www.deepdotweb.com/tag/ncr/" rel="tag">ncr</a> <a href="https://www.deepdotweb.com/tag/pos/" rel="tag">pos</a> <a href="https://www.deepdotweb.com/tag/small/" rel="tag">small</a> <a href="https://www.deepdotweb.com/tag/software/" rel="tag">software</a></span> <span style="display:none" class="updated">2014-11-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
-    </div>
-</article>
-
+    

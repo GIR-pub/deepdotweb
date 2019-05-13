@@ -21,6 +21,4 @@ Some Cities Using Smart City Gunfire Detection
 <p><img class="wp-image-18781 aligncenter" src="/imgs/2017/03/word-image-17.jpeg" width="702" height="466" srcset="/imgs/2017/03/word-image-17.jpeg 1024w, /imgs/2017/03/word-image-17-300x199.jpeg 300w" sizes="(max-width: 702px) 100vw, 702px"/></p>
 </div>
 <a href="https://www.deepdotweb.com/tag/cities/" rel="tag">cities</a> <a href="https://www.deepdotweb.com/tag/city/" rel="tag">city</a> <a href="https://www.deepdotweb.com/tag/detection/" rel="tag">detection</a> <a href="https://www.deepdotweb.com/tag/gunfire/" rel="tag">gunfire</a> <a href="https://www.deepdotweb.com/tag/smart/" rel="tag">smart</a></span> <span style="display:none" class="updated">2017-03-24<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

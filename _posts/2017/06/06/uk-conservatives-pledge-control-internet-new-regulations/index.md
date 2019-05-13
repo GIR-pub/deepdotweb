@@ -18,6 +18,4 @@ UK Conservatives Pledge to Control Internet with New Regulations
     </div>
     <a href="https://www.deepdotweb.com/tag/conservatives/" rel="tag">conservatives</a> <a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/pledge/" rel="tag">pledge</a> <a href="https://www.deepdotweb.com/tag/regulations/" rel="tag">regulations</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span> <span style="display:none" class="updated">2017-06-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

@@ -40,6 +40,4 @@ tag-attacks tag-deanonymization tag-modern tag-overview
     </div>
     <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/deanonymization/" rel="tag">deanonymization</a> <a href="https://www.deepdotweb.com/tag/modern/" rel="tag">modern</a> <a href="https://www.deepdotweb.com/tag/overview/" rel="tag">overview</a> </span> <span style="display:none" class="updated">2017-09-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

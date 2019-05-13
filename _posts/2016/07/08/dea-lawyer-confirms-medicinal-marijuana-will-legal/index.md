@@ -25,6 +25,4 @@ DEA lawyer confirms medicinal marijuana will be legal
     </div>
     <a href="https://www.deepdotweb.com/tag/confirms/" rel="tag">confirms</a> <a href="https://www.deepdotweb.com/tag/dea/" rel="tag">dea</a> <a href="https://www.deepdotweb.com/tag/lawyer/" rel="tag">lawyer</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/medicinal/" rel="tag">medicinal</a></span> <span style="display:none" class="updated">2016-07-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

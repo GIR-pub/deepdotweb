@@ -22,6 +22,4 @@ Kentucky Man Arrested, Convicted Of Child Pornography
 <p>Earlier this year, Stephen Kyle Goodlet, a 37-year-old former principal at a high school in Hodgenville, Kentucky was given a prison sentence by a federal judge for admitting to stealing nude photos from students’ phones and then sharing them offline. He pleaded guilty to federal child pornography charges in August 2017. He was given a 10-year prison sentence, followed by another 10 years of supervision after his release.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/kentucky/" rel="tag">kentucky</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a></span> <span style="display:none" class="updated">2018-05-06<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-</div>
-</article>
 

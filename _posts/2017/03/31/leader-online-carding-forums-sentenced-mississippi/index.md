@@ -23,6 +23,4 @@ Leader of Online Carding Forums Sentenced in Mississippi
 <p>The federal case appeared only in Mississippi. Kalantari will likely serve only 120 months and pay $36.6 million in restitution; some of his crimes allowed other states a chance at prosecution as well. The U.S. cracked down on online financial crimes this year. In February, 2017, a <a href="https://www.deepdotweb.com/2017/02/11/member-71m-cybercrime-group-sentenced-wire-fraud/">member of an international cybercrime group that caused $71m in damage</a> received a 48-month prison sentence.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/carding/" rel="tag">carding</a> <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/leader/" rel="tag">leader</a> <a href="https://www.deepdotweb.com/tag/mississippi/" rel="tag">mississippi</a>  <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-03-31<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

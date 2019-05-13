@@ -37,6 +37,4 @@ Outlaw Market: Down, Possibly Compromised By Competitors
     </div>
      <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a></span> <span style="display:none" class="updated">2014-08-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

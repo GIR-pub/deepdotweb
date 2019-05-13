@@ -35,6 +35,4 @@ Risk of Using Browser Autofill Feature
     </div>
     <a href="https://www.deepdotweb.com/tag/autofill/" rel="tag">autofill</a> <a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/feature/" rel="tag">feature</a> <a href="https://www.deepdotweb.com/tag/risk/" rel="tag">risk</a></span> <span style="display:none" class="updated">2017-01-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
-    </div>
-</article>
-
+    

@@ -16,6 +16,4 @@ Darknet Child Porn Ring Busted In Israel
 <p>Israel’s cyber crime unit was founded by the Israel Police in 2012, and its main task is to find hackers, pedophiles and DNMs operating on the darknet.</p>
 </div>
  <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/israel/" rel="tag">israel</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a></span> <span style="display:none" class="updated">2015-09-09<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

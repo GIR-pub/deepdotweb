@@ -33,6 +33,4 @@ Tutorial: XMPP/Jabber OTR
     </div>
     <a href="https://www.deepdotweb.com/tag/otr/" rel="tag">otr</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/xmppjabber/" rel="tag">xmppjabber</a></span> <span style="display:none" class="updated">2015-05-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dave/" title="Posts by Dave" rel="author">Dave</a></strong></div>
-    </div>
-</article>
-
+    

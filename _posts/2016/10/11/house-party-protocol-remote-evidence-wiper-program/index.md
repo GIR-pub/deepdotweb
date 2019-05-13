@@ -104,6 +104,4 @@ House Party Protocol &#8211; remote evidence wiper program
     </div>
     <a href="https://www.deepdotweb.com/tag/evidence/" rel="tag">evidence</a> <a href="https://www.deepdotweb.com/tag/house/" rel="tag">house</a> <a href="https://www.deepdotweb.com/tag/party/" rel="tag">party</a> <a href="https://www.deepdotweb.com/tag/program/" rel="tag">program</a> <a href="https://www.deepdotweb.com/tag/protocol/" rel="tag">protocol</a> <a href="https://www.deepdotweb.com/tag/remote/" rel="tag">remote</a> <a href="https://www.deepdotweb.com/tag/wiper/" rel="tag">wiper</a></span> <span style="display:none" class="updated">2016-10-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
-    </div>
-</article>
-
+    

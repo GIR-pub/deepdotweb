@@ -33,6 +33,4 @@ USA Freedom Act passes House, headed to Senate
     </div>
     <a href="https://www.deepdotweb.com/tag/act/" rel="tag">act</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/headed/" rel="tag">headed</a> <a href="https://www.deepdotweb.com/tag/house/" rel="tag">house</a> <a href="https://www.deepdotweb.com/tag/passes/" rel="tag">passes</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a> <a href="https://www.deepdotweb.com/tag/usa/" rel="tag">usa</a></span> <span style="display:none" class="updated">2015-05-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/timothyjones/" title="Posts by Timothy Jones" rel="author">Timothy Jones</a></strong></div>
-    </div>
-</article>
-
+    

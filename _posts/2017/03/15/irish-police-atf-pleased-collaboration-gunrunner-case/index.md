@@ -21,6 +21,4 @@ Irish Police and ATF Pleased With Collaboration in Gunrunner Case
 <p>Other countries involved received or intercepted fewer shipments of guns; Australia made no mention of US collaboration.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/atf/" rel="tag">atf</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/collaboration/" rel="tag">collaboration</a> <a href="https://www.deepdotweb.com/tag/gunrunner/" rel="tag">gunrunner</a> <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/pleased/" rel="tag">pleased</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2017-03-15<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

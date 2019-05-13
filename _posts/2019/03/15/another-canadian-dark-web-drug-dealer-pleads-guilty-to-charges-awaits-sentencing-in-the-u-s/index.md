@@ -23,6 +23,4 @@ Another Canadian dark web drug dealer pleads guilty to charges, awaits sentencin
     </div>
     <a href="https://www.deepdotweb.com/tag/awaits/" rel="tag">awaits</a> <a href="https://www.deepdotweb.com/tag/canadian/" rel="tag">canadian</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>     <a href="https://www.deepdotweb.com/tag/sentencing/" rel="tag">sentencing</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2019-03-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
-    </div>
-</article>
-
+    

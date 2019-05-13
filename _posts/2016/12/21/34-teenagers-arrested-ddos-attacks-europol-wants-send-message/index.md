@@ -22,6 +22,4 @@
     </div>
     <a href="https://www.deepdotweb.com/tag/34/" rel="tag">34</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/message/" rel="tag">message</a> <a href="https://www.deepdotweb.com/tag/send/" rel="tag">send</a> <a href="https://www.deepdotweb.com/tag/teenagers/" rel="tag">teenagers</a></span> <span style="display:none" class="updated">2016-12-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

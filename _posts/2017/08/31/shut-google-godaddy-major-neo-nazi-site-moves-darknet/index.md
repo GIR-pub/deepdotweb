@@ -18,6 +18,4 @@ After Being Shut Down by Google and GoDaddy, Major Neo-Nazi Site Moves to Darkne
     </div>
     <span style="display:none" class="updated">2017-08-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

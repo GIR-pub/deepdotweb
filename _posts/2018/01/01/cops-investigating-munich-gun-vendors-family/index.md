@@ -21,6 +21,4 @@ Cops are Investigating the Munich Gun Vendor’s Family
 <p>The public prosecutor&#8217;s office in Cologne refused to answer questions about the police cars that secretly surrounded the family’s house. Given recent developments, though, further arrests would not be surprising.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/cops/" rel="tag">cops</a> <a href="https://www.deepdotweb.com/tag/family/" rel="tag">family</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/investigating/" rel="tag">investigating</a> <a href="https://www.deepdotweb.com/tag/munich/" rel="tag">munich</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2018-01-01<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

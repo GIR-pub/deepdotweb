@@ -26,6 +26,4 @@ Yahoo Secretly Scanning User Emails On Behalf Of US Government
     </div>
     <a href="https://www.deepdotweb.com/tag/behalf/" rel="tag">behalf</a> <a href="https://www.deepdotweb.com/tag/emails/" rel="tag">emails</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/scanning/" rel="tag">scanning</a> <a href="https://www.deepdotweb.com/tag/secretly/" rel="tag">secretly</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a> <a href="https://www.deepdotweb.com/tag/yahoo/" rel="tag">yahoo</a></span> <span style="display:none" class="updated">2016-10-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

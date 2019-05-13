@@ -24,6 +24,4 @@ Decriminalizing Drugs In Ireland Will Change The Lives Of Drug Dealers And Addic
     </div>
     <a href="https://www.deepdotweb.com/tag/addicts/" rel="tag">addicts</a> <a href="https://www.deepdotweb.com/tag/change/" rel="tag">change</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/decriminalizing/" rel="tag">decriminalizing</a>   <a href="https://www.deepdotweb.com/tag/ireland/" rel="tag">ireland</a> <a href="https://www.deepdotweb.com/tag/lives/" rel="tag">lives</a></span> <span style="display:none" class="updated">2015-11-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

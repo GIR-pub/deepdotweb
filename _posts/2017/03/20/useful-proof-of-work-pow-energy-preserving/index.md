@@ -21,6 +21,4 @@ tag-cryptocurrency tag-energy tag-pow tag-preserving tag-proof tag-protocols tag
 <p>The proposed useful PoW protocols can be considered a delegation of computation scheme for an unlimited type of practical problems while preserving their PoW characteristics that shield against activities including spam and double spending. Furthermore, the required work can be distributed among the community, similarly to bitcoin mining pools, and can be done is a way robust to Byzantine failures as well as noise.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a> <a href="https://www.deepdotweb.com/tag/pow/" rel="tag">pow</a> <a href="https://www.deepdotweb.com/tag/preserving/" rel="tag">preserving</a> <a href="https://www.deepdotweb.com/tag/proof/" rel="tag">proof</a> <a href="https://www.deepdotweb.com/tag/protocols/" rel="tag">protocols</a> <a href="https://www.deepdotweb.com/tag/work/" rel="tag">work</a></span> <span style="display:none" class="updated">2017-03-20<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-</div>
-</article>
 

@@ -22,6 +22,4 @@ Six Arrested In Austrian Vendor Bust
 <p>The third suspect, a 25-year-old Bavarian man, once ordered 1.9 kilograms of amphetamines and 250 ecstasy pills from the other two defendants with the intention to resell. Unfortunately, we do not know if the man already sold the narcotics, or conspired to sell them.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-03-08<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

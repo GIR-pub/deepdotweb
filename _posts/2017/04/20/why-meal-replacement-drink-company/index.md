@@ -28,6 +28,4 @@ Why Meal-Replacement Drink Company Soylent​ is Opening a Dark Web Store
     </div>
     <a href="https://www.deepdotweb.com/tag/company/" rel="tag">company</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/drink/" rel="tag">drink</a> <a href="https://www.deepdotweb.com/tag/mealreplacement/" rel="tag">mealreplacement</a> <a href="https://www.deepdotweb.com/tag/opening/" rel="tag">opening</a> <a href="https://www.deepdotweb.com/tag/soylent/" rel="tag">soylent</a> <a href="https://www.deepdotweb.com/tag/store/" rel="tag">store</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-04-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

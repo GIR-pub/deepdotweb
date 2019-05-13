@@ -35,6 +35,4 @@ Bitcoin Price Analysis 29th March 2017
 <p>The weekly chart above highlights the levels to look out for when price resumes the bearish trend. While the rise this week may persist, I continue to be bearish for the foreseeable future. I will be looking at how price holds up against the support levels charted above in green.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/29th/" rel="tag">29th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2017-03-29<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-</div>
-</article>
 

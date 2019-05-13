@@ -26,6 +26,4 @@ The Rise of Darkcoin
     </div>
     <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a></span> <span style="display:none" class="updated">2014-05-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/cipher/" title="Posts by Cipher" rel="author">Cipher</a></strong></div>
-    </div>
-</article>
-
+    

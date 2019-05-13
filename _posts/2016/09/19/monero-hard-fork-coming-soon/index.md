@@ -54,6 +54,4 @@ Monero Hard Fork Coming Soon
     </div>
      <a href="https://www.deepdotweb.com/tag/fork/" rel="tag">fork</a> <a href="https://www.deepdotweb.com/tag/hard/" rel="tag">hard</a> <a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a></span> <span style="display:none" class="updated">2016-09-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

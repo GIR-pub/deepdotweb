@@ -71,6 +71,4 @@ Evolution Marketplace Staff Speak: We are growing fast!
     </div>
     <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/fast/" rel="tag">fast</a> <a href="https://www.deepdotweb.com/tag/growing/" rel="tag">growing</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/speak/" rel="tag">speak</a> <a href="https://www.deepdotweb.com/tag/staff/" rel="tag">staff</a></span> <span style="display:none" class="updated">2014-05-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

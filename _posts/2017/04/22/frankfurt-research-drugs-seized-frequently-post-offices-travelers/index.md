@@ -24,6 +24,4 @@ Frankfurt Research: Drugs Seized More Frequently At Post Offices Than At Travele
     </div>
      <a href="https://www.deepdotweb.com/tag/frankfurt/" rel="tag">frankfurt</a> <a href="https://www.deepdotweb.com/tag/frequently/" rel="tag">frequently</a> <a href="https://www.deepdotweb.com/tag/offices/" rel="tag">offices</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/travelers/" rel="tag">travelers</a></span> <span style="display:none" class="updated">2017-04-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

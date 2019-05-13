@@ -30,6 +30,4 @@ Exclusive: Large Number Of Deep Web Child Abuse Sites Shut Down Abruptly
     </div>
     <a href="https://www.deepdotweb.com/tag/abruptly/" rel="tag">abruptly</a> <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/exclusive/" rel="tag">exclusive</a> <a href="https://www.deepdotweb.com/tag/large/" rel="tag">large</a> <a href="https://www.deepdotweb.com/tag/number/" rel="tag">number</a> <a href="https://www.deepdotweb.com/tag/shut/" rel="tag">shut</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2014-06-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

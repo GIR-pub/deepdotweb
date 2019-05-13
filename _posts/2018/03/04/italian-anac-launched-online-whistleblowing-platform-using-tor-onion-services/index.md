@@ -27,6 +27,4 @@ The Italian ANAC launched online whistleblowing platform using Tor onion service
 <p>The Tor network Project Development Office is now expected to move with speed as far as its donation budget can allow, to fund its mainstream teams.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/anac/" rel="tag">anac</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/launched/" rel="tag">launched</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a>  <a href="https://www.deepdotweb.com/tag/platform/" rel="tag">platform</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a>  <a href="https://www.deepdotweb.com/tag/whistleblowing/" rel="tag">whistleblowing</a></span> <span style="display:none" class="updated">2018-03-04<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
-</div>
-</article>
 

@@ -36,6 +36,4 @@ Wall Street Market Adds Support for Monero
     </div>
     <a href="https://www.deepdotweb.com/tag/adds/" rel="tag">adds</a> <a href="https://www.deepdotweb.com/tag/monero/" rel="tag">monero</a> <a href="https://www.deepdotweb.com/tag/street/" rel="tag">street</a> <a href="https://www.deepdotweb.com/tag/support/" rel="tag">support</a> <a href="https://www.deepdotweb.com/tag/wall/" rel="tag">wall</a></span> <span style="display:none" class="updated">2017-07-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

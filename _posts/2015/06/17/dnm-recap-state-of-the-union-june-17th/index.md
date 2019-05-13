@@ -25,6 +25,4 @@ DNM Recap: State of the Union June 17th
     </div>
     <a href="https://www.deepdotweb.com/tag/17th/" rel="tag">17th</a> <a href="https://www.deepdotweb.com/tag/dnm/" rel="tag">dnm</a> <a href="https://www.deepdotweb.com/tag/june/" rel="tag">june</a> <a href="https://www.deepdotweb.com/tag/recap/" rel="tag">recap</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/union/" rel="tag">union</a></span> <span style="display:none" class="updated">2015-06-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/christian/" title="Posts by Christian" rel="author">Christian</a></strong></div>
-    </div>
-</article>
-
+    

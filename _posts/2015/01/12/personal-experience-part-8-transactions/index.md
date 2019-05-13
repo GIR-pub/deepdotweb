@@ -20,6 +20,4 @@ Personal Experience: Part 8 – Transactions
     </div>
     <a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a></span> <span style="display:none" class="updated">2015-01-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
-    </div>
-</article>
-
+    

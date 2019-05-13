@@ -44,6 +44,4 @@ Doxbin’s Nachash On Operation Onymous (P.1)
     </div>
     <a href="https://www.deepdotweb.com/tag/nashcashtag/" rel="tag">nashcashtag</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a></span> <span style="display:none" class="updated">2014-11-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/nealrauhauser/" title="Posts by Neal Rauhauser" rel="author">Neal Rauhauser</a></strong></div>
-    </div>
-</article>
-
+    

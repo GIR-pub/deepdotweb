@@ -27,6 +27,4 @@ Child Porn Ring Admin Lux Pleads Guilty
 <p>Matthew David Graham’s case comes to the County Court for sentencing on February 3.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a>  <a href="https://www.deepdotweb.com/tag/lux/" rel="tag">lux</a>  <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a></span> <span style="display:none" class="updated">2015-09-15<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
 

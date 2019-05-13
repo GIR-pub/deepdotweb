@@ -82,6 +82,4 @@ In-depth Guide to Tails + Persistence
     </div>
     <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/indepth/" rel="tag">indepth</a> <a href="https://www.deepdotweb.com/tag/persistence/" rel="tag">persistence</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span> <span style="display:none" class="updated">2015-06-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

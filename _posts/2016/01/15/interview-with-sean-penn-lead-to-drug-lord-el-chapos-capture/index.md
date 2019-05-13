@@ -21,6 +21,4 @@ Interview With Sean Penn Lead To Drug Lord El Chapo’s Capture
     </div>
     <a href="https://www.deepdotweb.com/tag/capture/" rel="tag">capture</a> <a href="https://www.deepdotweb.com/tag/chapos/" rel="tag">chapos</a>  <a href="https://www.deepdotweb.com/tag/el/" rel="tag">el</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/lead/" rel="tag">lead</a> <a href="https://www.deepdotweb.com/tag/lord/" rel="tag">lord</a> <a href="https://www.deepdotweb.com/tag/penn/" rel="tag">penn</a> <a href="https://www.deepdotweb.com/tag/sean/" rel="tag">sean</a></span> <span style="display:none" class="updated">2016-01-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

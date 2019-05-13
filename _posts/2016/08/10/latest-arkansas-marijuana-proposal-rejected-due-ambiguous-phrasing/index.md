@@ -22,6 +22,4 @@ Latest Arkansas Marijuana Proposal Rejected Due to Ambiguous Phrasing
     </div>
     <a href="https://www.deepdotweb.com/tag/ambiguous/" rel="tag">ambiguous</a> <a href="https://www.deepdotweb.com/tag/arkansas/" rel="tag">arkansas</a> <a href="https://www.deepdotweb.com/tag/due/" rel="tag">due</a> <a href="https://www.deepdotweb.com/tag/latest/" rel="tag">latest</a> <a href="https://www.deepdotweb.com/tag/marijuana/" rel="tag">marijuana</a> <a href="https://www.deepdotweb.com/tag/phrasing/" rel="tag">phrasing</a> <a href="https://www.deepdotweb.com/tag/proposal/" rel="tag">proposal</a> <a href="https://www.deepdotweb.com/tag/rejected/" rel="tag">rejected</a></span> <span style="display:none" class="updated">2016-08-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -31,6 +31,4 @@ Chronicled Introduces Ethrereum Blockchain-Based IoT Delivery Drone
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchainbased/" rel="tag">blockchainbased</a> <a href="https://www.deepdotweb.com/tag/chronicled/" rel="tag">chronicled</a> <a href="https://www.deepdotweb.com/tag/delivery/" rel="tag">delivery</a> <a href="https://www.deepdotweb.com/tag/drone/" rel="tag">drone</a> <a href="https://www.deepdotweb.com/tag/ethrereum/" rel="tag">ethrereum</a> <a href="https://www.deepdotweb.com/tag/introduces/" rel="tag">introduces</a> <a href="https://www.deepdotweb.com/tag/iot/" rel="tag">iot</a></span> <span style="display:none" class="updated">2016-10-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    </div>
-</article>
-
+    

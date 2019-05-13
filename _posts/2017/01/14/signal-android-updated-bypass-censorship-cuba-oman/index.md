@@ -25,6 +25,4 @@ Signal for Android Updated to Bypass Censorship in Cuba and Oman
     </div>
     <a href="https://www.deepdotweb.com/tag/android/" rel="tag">android</a> <a href="https://www.deepdotweb.com/tag/bypass/" rel="tag">bypass</a> <a href="https://www.deepdotweb.com/tag/censorship/" rel="tag">censorship</a> <a href="https://www.deepdotweb.com/tag/cuba/" rel="tag">cuba</a> <a href="https://www.deepdotweb.com/tag/oman/" rel="tag">oman</a> <a href="https://www.deepdotweb.com/tag/signal/" rel="tag">signal</a> <a href="https://www.deepdotweb.com/tag/updated/" rel="tag">updated</a></span> <span style="display:none" class="updated">2017-01-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

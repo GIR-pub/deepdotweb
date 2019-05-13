@@ -26,6 +26,4 @@ Drug Dealer Made Xanax and Sold It on the Dark Web.
     </div>
     <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>   <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2017-12-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/eddiem/" title="Posts by Eddie. M." rel="author">Eddie. M.</a></strong></div>
-    </div>
-</article>
-
+    

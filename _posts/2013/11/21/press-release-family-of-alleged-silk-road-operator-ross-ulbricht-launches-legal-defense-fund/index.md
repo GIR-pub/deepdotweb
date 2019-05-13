@@ -1,12 +1,10 @@
 ---
-title: "Press Release: Family of alleged Silk Road Operator Ross Ulbricht Launches Legal Defense Fund
+title: "Press Release: Family of alleged Silk Road Operator Ross Ulbricht Launches Legal Defense Fund"
 ---
-1698  tag-alleged tag-defense tag-family tag-fund tag-launches tag-legal tag-operator tag-press tag-release  tag-ulbricht">
+
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 21, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/11/21/press-release-family-of-alleged-silk-road-operator-ross-ulbricht-launches-legal-defense-fund/#respond">Leave a comment</a></span>
 
 
 <p>A press release:</p>
@@ -30,8 +28,6 @@ title: "Press Release: Family of alleged Silk Road Operator Ross Ulbricht Launch
 <p><iframe width="618" height="348" src="http://www.youtube.com/embed/3EyzWwljp7c?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 <p><strong>Judging From our experience with the so called justice system &#8211; we believe that this is smart move.</strong></p>
 </div>
-</div>
-</div>
-<a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/family/" rel="tag">family</a> <a href="https://www.deepdotweb.com/tag/fund/" rel="tag">fund</a> <a href="https://www.deepdotweb.com/tag/launches/" rel="tag">launches</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/operator/" rel="tag">operator</a> <a href="https://www.deepdotweb.com/tag/press/" rel="tag">press</a> <a href="https://www.deepdotweb.com/tag/release/" rel="tag">release</a>  <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a>
+
 
 Updated: 2013-11-21

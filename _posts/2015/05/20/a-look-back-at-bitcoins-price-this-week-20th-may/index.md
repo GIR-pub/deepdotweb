@@ -45,6 +45,4 @@ A Look Back at Bitcoin’s Price This Week &#8211; 20th May
     </div>
     <a href="https://www.deepdotweb.com/tag/20th/" rel="tag">20th</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> </span> <span style="display:none" class="updated">2015-05-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
-    </div>
-</article>
-
+    

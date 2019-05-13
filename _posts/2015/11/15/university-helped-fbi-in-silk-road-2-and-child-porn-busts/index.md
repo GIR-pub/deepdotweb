@@ -26,6 +26,4 @@ University Helped FBI In Silk Road 2 And Child Porn Busts
     </div>
     <a href="https://www.deepdotweb.com/tag/busts/" rel="tag">busts</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/helped/" rel="tag">helped</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a>  <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a></span> <span style="display:none" class="updated">2015-11-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    

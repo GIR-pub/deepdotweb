@@ -21,6 +21,4 @@ Judge Rules That Unlocking Cellphones via Fingerprint Does Not Violate Constitut
     </div>
     <a href="https://www.deepdotweb.com/tag/cellphones/" rel="tag">cellphones</a> <a href="https://www.deepdotweb.com/tag/constitutional/" rel="tag">constitutional</a> <a href="https://www.deepdotweb.com/tag/fingerprint/" rel="tag">fingerprint</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/rights/" rel="tag">rights</a> <a href="https://www.deepdotweb.com/tag/rules/" rel="tag">rules</a> <a href="https://www.deepdotweb.com/tag/unlocking/" rel="tag">unlocking</a> <a href="https://www.deepdotweb.com/tag/violate/" rel="tag">violate</a></span> <span style="display:none" class="updated">2017-02-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

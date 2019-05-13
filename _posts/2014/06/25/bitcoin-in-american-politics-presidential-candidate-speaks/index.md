@@ -33,6 +33,4 @@ Bitcoin in American Politics: Presidential Candidate Speaks
     </div>
     <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/presiden/" rel="tag">presiden</a></span> <span style="display:none" class="updated">2014-06-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ikewest/" title="Posts by Ike West" rel="author">Ike West</a></strong></div>
-    </div>
-</article>
-
+    

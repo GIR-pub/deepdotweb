@@ -19,6 +19,4 @@ Morocco Bans Skype, WhatsApp, in VoIP Crackdown by State ISP
     </div>
     <a href="https://www.deepdotweb.com/tag/bans/" rel="tag">bans</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/isp/" rel="tag">isp</a> <a href="https://www.deepdotweb.com/tag/morocco/" rel="tag">morocco</a> <a href="https://www.deepdotweb.com/tag/skype/" rel="tag">skype</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/voip/" rel="tag">voip</a> <a href="https://www.deepdotweb.com/tag/whatsapp/" rel="tag">whatsapp</a></span> <span style="display:none" class="updated">2016-08-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dhume/" title="Posts by D. Hume" rel="author">D. Hume</a></strong></div>
-    </div>
-</article>
-
+    

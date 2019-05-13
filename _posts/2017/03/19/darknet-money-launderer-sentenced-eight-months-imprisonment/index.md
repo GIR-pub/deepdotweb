@@ -19,6 +19,4 @@ Darknet Money Launderer Sentenced to Eight Months Imprisonment
 <p>In addition to his sentence of time served, Judge Diane J. Humetewa required a restitution payment from Cottrell – $300,000.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/imprisonment/" rel="tag">imprisonment</a> <a href="https://www.deepdotweb.com/tag/launderer/" rel="tag">launderer</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-03-19<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

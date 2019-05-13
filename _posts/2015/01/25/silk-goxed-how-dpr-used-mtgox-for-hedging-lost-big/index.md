@@ -285,6 +285,4 @@ Silk Goxed: How DPR used Mtgox for Hedging &#038; Lost Big
     </div>
     <a href="https://www.deepdotweb.com/tag/big/" rel="tag">big</a> <a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a> <a href="https://www.deepdotweb.com/tag/goxed/" rel="tag">goxed</a> <a href="https://www.deepdotweb.com/tag/hedging/" rel="tag">hedging</a> <a href="https://www.deepdotweb.com/tag/lost/" rel="tag">lost</a> <a href="https://www.deepdotweb.com/tag/mtgox/" rel="tag">mtgox</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2015-01-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

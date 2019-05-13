@@ -29,6 +29,4 @@ A New Concept For Deep Web Crawlers
     </div>
     <a href="https://www.deepdotweb.com/tag/concept/" rel="tag">concept</a> <a href="https://www.deepdotweb.com/tag/crawlers/" rel="tag">crawlers</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-02-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

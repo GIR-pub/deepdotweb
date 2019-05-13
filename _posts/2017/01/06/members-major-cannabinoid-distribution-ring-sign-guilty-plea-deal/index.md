@@ -50,6 +50,4 @@ Members of Major Cannabinoid Distribution Ring Sign Guilty Plea Deal
     </div>
     <a href="https://www.deepdotweb.com/tag/cannabinoid/" rel="tag">cannabinoid</a> <a href="https://www.deepdotweb.com/tag/deal/" rel="tag">deal</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>  <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/members/" rel="tag">members</a> <a href="https://www.deepdotweb.com/tag/plea/" rel="tag">plea</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/sign/" rel="tag">sign</a></span> <span style="display:none" class="updated">2017-01-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -21,6 +21,4 @@ Vendor &#8220;Caligirl&#8221; Busted: Charged With Selling Drugs On Silk Road &#
     </div>
     <a href="https://www.deepdotweb.com/tag/bitmessage/" rel="tag">bitmessage</a>  <a href="https://www.deepdotweb.com/tag/caligirl/" rel="tag">caligirl</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/controlled/" rel="tag">controlled</a> <a href="https://www.deepdotweb.com/tag/illegally/" rel="tag">illegally</a>  <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/substances/" rel="tag">substances</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

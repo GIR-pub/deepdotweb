@@ -27,6 +27,4 @@ Tor Update Supports v3 Onion Services
 <p>Instructions on setting up a prop224 service can be found on the Tor Blog.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/supports/" rel="tag">supports</a>  <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/v3/" rel="tag">v3</a></span> <span style="display:none" class="updated">2017-10-14<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

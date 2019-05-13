@@ -31,6 +31,4 @@ SSL Is Not a Badge Of Total Security
     </div>
     <a href="https://www.deepdotweb.com/tag/badge/" rel="tag">badge</a>  <a href="https://www.deepdotweb.com/tag/ssl/" rel="tag">ssl</a> <a href="https://www.deepdotweb.com/tag/total/" rel="tag">total</a></span> <span style="display:none" class="updated">2016-07-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/vb/" title="Posts by V.B" rel="author">V.B</a></strong></div>
-    </div>
-</article>
-
+    

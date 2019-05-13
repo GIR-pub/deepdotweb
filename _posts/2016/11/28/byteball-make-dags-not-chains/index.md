@@ -28,6 +28,4 @@ Byteball: Make DAGs, Not Chains!
     </div>
     <a href="https://www.deepdotweb.com/tag/byteball/" rel="tag">byteball</a> <a href="https://www.deepdotweb.com/tag/chains/" rel="tag">chains</a> <a href="https://www.deepdotweb.com/tag/dags/" rel="tag">dags</a></span> <span style="display:none" class="updated">2016-11-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
-    </div>
-</article>
-
+    

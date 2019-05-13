@@ -25,6 +25,4 @@ Manchester: Teenager Admits Trying To Buy Deadly Toxin From Dark Net
     </div>
     <a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/deadly/" rel="tag">deadly</a> <a href="https://www.deepdotweb.com/tag/manchester/" rel="tag">manchester</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a> <a href="https://www.deepdotweb.com/tag/toxin/" rel="tag">toxin</a></span> <span style="display:none" class="updated">2015-04-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

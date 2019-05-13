@@ -25,6 +25,4 @@ Dealer Going Back to Prison for Parole Violation
     </div>
      <a href="https://www.deepdotweb.com/tag/parole/" rel="tag">parole</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/violation/" rel="tag">violation</a></span> <span style="display:none" class="updated">2017-07-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Copperhead, Guardian Project &#038; F-Droid To Build Secure Mobile Ecosystem
     </div>
     <a href="https://www.deepdotweb.com/tag/build/" rel="tag">build</a> <a href="https://www.deepdotweb.com/tag/copperhead/" rel="tag">copperhead</a> <a href="https://www.deepdotweb.com/tag/ecosystem/" rel="tag">ecosystem</a> <a href="https://www.deepdotweb.com/tag/fdroid/" rel="tag">fdroid</a> <a href="https://www.deepdotweb.com/tag/guardian/" rel="tag">guardian</a> <a href="https://www.deepdotweb.com/tag/mobile/" rel="tag">mobile</a> <a href="https://www.deepdotweb.com/tag/partner/" rel="tag">partner</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a></span> <span style="display:none" class="updated">2016-04-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
-    </div>
-</article>
-
+    

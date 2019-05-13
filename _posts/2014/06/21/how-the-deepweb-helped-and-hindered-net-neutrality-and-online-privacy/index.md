@@ -27,6 +27,4 @@ How The DeepWeb Helped and Hindered Net Neutrality and Online Privacy
     </div>
     <a href="https://www.deepdotweb.com/tag/helped/" rel="tag">helped</a> <a href="https://www.deepdotweb.com/tag/hindered/" rel="tag">hindered</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/neutrality/" rel="tag">neutrality</a>  <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a></span> <span style="display:none" class="updated">2014-06-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ikewest/" title="Posts by Ike West" rel="author">Ike West</a></strong></div>
-    </div>
-</article>
-
+    

@@ -22,6 +22,4 @@ Child Pornography Sting Leads to 5 Arrests in Italy
     </div>
     <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/italy/" rel="tag">italy</a> <a href="https://www.deepdotweb.com/tag/leads/" rel="tag">leads</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a> <a href="https://www.deepdotweb.com/tag/sting/" rel="tag">sting</a></span> <span style="display:none" class="updated">2016-07-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    </div>
-</article>
-
+    

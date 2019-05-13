@@ -25,6 +25,4 @@ Patent &#8211; A System For Exchanging Value Across Various Cryptocurrency Block
     </div>
     <a href="https://www.deepdotweb.com/tag/blockchains/" rel="tag">blockchains</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/exchanging/" rel="tag">exchanging</a> <a href="https://www.deepdotweb.com/tag/patent/" rel="tag">patent</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a></span> <span style="display:none" class="updated">2017-01-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    </div>
-</article>
-
+    

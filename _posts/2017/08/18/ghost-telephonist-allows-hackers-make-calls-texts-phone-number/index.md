@@ -18,6 +18,4 @@ The Ghost Telephonist Allows Hackers to Make Calls and Texts from Your Phone Num
     </div>
     <a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/ghost/" rel="tag">ghost</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/number/" rel="tag">number</a> <a href="https://www.deepdotweb.com/tag/phone/" rel="tag">phone</a> <a href="https://www.deepdotweb.com/tag/telephonist/" rel="tag">telephonist</a> <a href="https://www.deepdotweb.com/tag/texts/" rel="tag">texts</a></span> <span style="display:none" class="updated">2017-08-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
-    </div>
-</article>
-
+    

@@ -19,6 +19,4 @@ Man Killed His Wife After Failed “Murder for Hire” Plot, Prosecutor Says
 <p>The churchgoer then decided to end his wife’s life without outside assistance, investigators wrote. Officers arrested Allwine on a second degree murder charge. Months later, the second degree murder charge became a first degree murder charge. First degree murder carries a 25 year minimum sentence in cases involving a handgun.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a> <a href="https://www.deepdotweb.com/tag/hire/" rel="tag">hire</a> <a href="https://www.deepdotweb.com/tag/killed/" rel="tag">killed</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/murder/" rel="tag">murder</a> <a href="https://www.deepdotweb.com/tag/plot/" rel="tag">plot</a> <a href="https://www.deepdotweb.com/tag/prosecutor/" rel="tag">prosecutor</a> <a href="https://www.deepdotweb.com/tag/wife/" rel="tag">wife</a></span> <span style="display:none" class="updated">2018-02-08<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-</div>
-</article>
 

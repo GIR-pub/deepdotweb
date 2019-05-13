@@ -25,6 +25,4 @@ Convicted Narcotic Vendor Shiny Flakes Testifies In Fellow Vendor Chemical Love�
     </div>
     <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/chemical/" rel="tag">chemical</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/fellow/" rel="tag">fellow</a> <a href="https://www.deepdotweb.com/tag/flakes/" rel="tag">flakes</a> <a href="https://www.deepdotweb.com/tag/loves/" rel="tag">loves</a> <a href="https://www.deepdotweb.com/tag/narcotic/" rel="tag">narcotic</a> <a href="https://www.deepdotweb.com/tag/shiny/" rel="tag">shiny</a> <a href="https://www.deepdotweb.com/tag/testifies/" rel="tag">testifies</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-04-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    </div>
-</article>
-
+    
