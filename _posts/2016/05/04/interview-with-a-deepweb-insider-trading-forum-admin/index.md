@@ -20,7 +20,7 @@ Interview: Insider Trading Forum Admin
     </strong></li>
     </ul>
     <p>And a typical post on the forum looks like this:</p>
-    <p><a href="https://www.deepdotweb.com/wp-content/uploads/2016/05/trading-pic.png"><img class="aligncenter size-full wp-image-13938" src="https://www.deepdotweb.com/wp-content/uploads/2016/05/trading-pic.png" alt="trading-pic" width="1012" height="632" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/05/trading-pic.png 1012w, https://www.deepdotweb.com/wp-content/uploads/2016/05/trading-pic-300x187.png 300w" sizes="(max-width: 1012px) 100vw, 1012px" /></a></p>
+    <p><a href="/imgs/2016/05/trading-pic.png"><img class="aligncenter size-full wp-image-13938" src="/imgs/2016/05/trading-pic.png" alt="trading-pic" width="1012" height="632" srcset="/imgs/2016/05/trading-pic.png 1012w, /imgs/2016/05/trading-pic-300x187.png 300w" sizes="(max-width: 1012px) 100vw, 1012px" /></a></p>
     <p>After we have been granted access to the forum which still looks young, we conducted a short interview with the forum admin to better understand how this works:</p>
     <p><strong>Who are you and what do you do?</strong></p>
     <div id="crayon-5c85f2a0e2a53871008480" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">

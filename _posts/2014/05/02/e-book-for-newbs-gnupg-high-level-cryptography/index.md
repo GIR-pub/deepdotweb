@@ -15,7 +15,7 @@ E-Book Recommendation: GnuPG &#8211; High Level Cryptography
     Visit the Golden Keys Site <a href="https://www.goldenkeys.org/" target="_blank">Here</a></strong><br/>
     <strong>Download the Book <a href="https://www.goldenkeys.org/download.html" target="_blank">Here</a> (Don&#8217;t forget to support with a small BTC donation!)
     </div></div></strong></p>
-    <p><a href="/imgs/2014/05/Cover50.png"><img class="aligncenter  wp-image-5220" src="https://www.deepdotweb.com/wp-content/uploads/2014/05/Cover50.png" alt="Cover50" width="281" height="397" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/05/Cover50.png 397w, https://www.deepdotweb.com/wp-content/uploads/2014/05/Cover50-212x300.png 212w" sizes="(max-width: 281px) 100vw, 281px"/></a></p>
+    <p><a href="/imgs/2014/05/Cover50.png"><img class="aligncenter  wp-image-5220" src="/imgs/2014/05/Cover50.png" alt="Cover50" width="281" height="397" srcset="/imgs/2014/05/Cover50.png 397w, /imgs/2014/05/Cover50-212x300.png 212w" sizes="(max-width: 281px) 100vw, 281px"/></a></p>
     <p><span style="text-decoration: underline;">Description of the book and content:</span></p>
     <p>Written by <strong>The Golden Keys Team</strong> who decided to write a guide on how to use e-mail with cryptography because internet privacy is very important and most digital communications these days are insecure.</p>
     <p>As we all know, Right now you are exposed to a lot of hidden security risks that can lead to the monitoring and exposure of your private communications without your consent. Those risks could be eliminated or minimized if you used cryptography with your e-mails and files.</p>

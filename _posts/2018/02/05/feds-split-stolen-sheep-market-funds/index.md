@@ -19,8 +19,7 @@ Feds Split Up Stolen Sheep Market Funds
 <p><img class="wp-image-24687" src="/imgs/2018/02/word-image-7.png" srcset="/imgs/2018/02/word-image-7.png 1162w, /imgs/2018/02/word-image-7-300x173.png 300w, /imgs/2018/02/word-image-7-1024x590.png 1024w" sizes="(max-width: 1162px) 100vw, 1162px" /></p>
 <p>“This asset sharing is a perfect example of how a criminal’s illegal profits can be used to protect the citizens of our communities,” Special Agent in Charge Spero said during the press conference where United States Attorney Maria Chapa Lopez announced that the three law enforcement agencies would be receiving an “award.”</p>
 </div>
-<span style="display:none"> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/split/" rel="tag">split</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2018-02-05</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/split/" rel="tag">split</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2018-02-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

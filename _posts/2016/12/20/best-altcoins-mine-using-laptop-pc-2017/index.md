@@ -11,7 +11,7 @@ The Best Altcoins To Mine Using a Laptop or a PC in 2017
     <div class="clear"></div>
     <div class="entry">
     <p>Even though I am a fond of huge in-house bitcoin mining rigs, I also love to experiment on PC altcoins&#8217; mining, in an attempt to find the best altcoins one can mine using his/her PC. Accordingly, I decided to look through the altcoins one can mine with his PC and GPU. After researching through a considerable number of coins, which can be mined without ASICs, I found some interesting results.</p>
-    <p><img class="wp-image-17046 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/12/altcoins-jpg.jpeg" alt="altcoins.jpg" width="676" height="474" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/12/altcoins-jpg.jpeg 822w, https://www.deepdotweb.com/wp-content/uploads/2016/12/altcoins-jpg-300x210.jpeg 300w" sizes="(max-width: 676px) 100vw, 676px" /></p>
+    <p><img class="wp-image-17046 aligncenter" src="/imgs/2016/12/altcoins-jpg.jpeg" alt="altcoins.jpg" width="676" height="474" srcset="/imgs/2016/12/altcoins-jpg.jpeg 822w, /imgs/2016/12/altcoins-jpg-300x210.jpeg 300w" sizes="(max-width: 676px) 100vw, 676px" /></p>
     <p><strong>My Laptop Specifications:</strong></p>
     <p>For this cryptocurrency mining experiment, I used my HP i5-5200U laptop which has an average CPU <a href="http://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-5200U+%40+2.20GHz&amp;id=2440">benchmark of 3543</a>. Here are the detailed specifications of my machine:</p>
     <table>

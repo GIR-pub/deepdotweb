@@ -21,8 +21,7 @@ Man Used Four “Masterchef” Ecstasy Pills Every Day
 <p>As unlikely as it sounded, Magistrate Belinda Merrin granted Allbon his wish. No record was recorded. Allbon must serve an additional 12-months on probation. &#8220;It is very important that you address your drug use. You accept you have polysubstance drug abuse issues and have other health conditions,&#8221; Magistrate Merrin said.</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/day/" rel="tag">day</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/masterchef/" rel="tag">masterchef</a> <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a></span> <span style="display:none" class="updated">2017-10-12</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/day/" rel="tag">day</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/masterchef/" rel="tag">masterchef</a> <a href="https://www.deepdotweb.com/tag/pills/" rel="tag">pills</a></span> <span style="display:none" class="updated">2017-10-12<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

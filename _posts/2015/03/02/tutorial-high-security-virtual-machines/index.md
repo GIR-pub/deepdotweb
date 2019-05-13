@@ -66,8 +66,7 @@ Tutorial: High Security Virtual Machines
 <p><a href="/imgs/2014/12/tails.png"><img class="aligncenter  wp-image-8555" src="/imgs/2014/12/tails.png" alt="tails" width="1132" height="637" srcset="/imgs/2014/12/tails.png 1920w, /imgs/2014/12/tails-300x169.png 300w, /imgs/2014/12/tails-1024x576.png 1024w" sizes="(max-width: 1132px) 100vw, 1132px" /></a></p>
 <p>Stay tuned on how to configure higher security configurations, implement roving MAC addresses, etc.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/machines/" rel="tag">machines</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/virtual/" rel="tag">virtual</a></span> <span style="display:none" class="updated">2015-03-02</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tr3x0r/" title="Posts by TR3X0R" rel="author">TR3X0R</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/machines/" rel="tag">machines</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/virtual/" rel="tag">virtual</a></span> <span style="display:none" class="updated">2015-03-02<a href="https://www.deepdotweb.com/author/tr3x0r/" title="Posts by TR3X0R" rel="author">TR3X0R</a></strong></div>
 </div>
 </article>
 

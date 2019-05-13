@@ -19,8 +19,7 @@ The War On Drugs – The Cyber Chapter
 <p>When all substances are legalised it will be a happy day, part of the human experience will be re-integrated but it will also be a sad time because a whole subculture of resistance will be erased. That time is not now though, there’s a lot of war between now and then.</p>
 <p><em>The author of this article also wrote the e-book &#8220;<span style="text-decoration: underline;">The Unusual Thief</span>&#8221; &#8211; A drug fuelled fantasy trip through an alternate dimension. If you would like to read this book <span style="text-decoration: underline;">for free</span> use the coupon code <strong><span style="font-family: Calibri;">GU34Z </span></strong><span style="font-family: Calibri;">on the purchase screen <a href="http://www.smashwords.com/books/view/551076">on this link</a>.</span></em></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/chapter/" rel="tag">chapter</a> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2015-09-15</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anthonydowd/" title="Posts by Anthony Dowd" rel="author">Anthony Dowd</a></strong></div>
+<span style="display:none"> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a>  <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2015-09-15<a href="https://www.deepdotweb.com/author/anthonydowd/" title="Posts by Anthony Dowd" rel="author">Anthony Dowd</a></strong></div>
 </div>
 </article>
 

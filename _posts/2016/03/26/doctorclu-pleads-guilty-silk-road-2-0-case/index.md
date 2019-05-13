@@ -19,7 +19,7 @@
     <p class="Standard">The downfall of Silk Road 2.0 was partly because of Carnegie Mellon University&#8217;s <a href="https://www.deepdotweb.com/2016/02/28/court-documents-confirm-cmu-paid-by-government-in-tor-attacks/"><span style="color: windowtext; text-decoration: none; text-underline: none;">attacks</span></a> on Tor.</p>
     <p class="Standard"><a href="https://motherboard.vice.com/read/silk-road-20-right-hand-man-pleads-guilty"><span style="color: windowtext; text-decoration: none; text-underline: none;">Motherboard</span></a> reports that Farrell&#8217;s sentencing will take place on June 3.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/doctorclu/" rel="tag">doctorclu</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a> </span> <span style="display:none" class="updated">2016-03-26</span>
+     <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/doctorclu/" rel="tag">doctorclu</a>   </span> <span style="display:none" class="updated">2016-03-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

@@ -67,8 +67,7 @@ title: Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Phar
     
     
  <a href="https://www.deepdotweb.com/tag/fakecounterfeit/" rel="tag">fakecounterfeit</a> <a href="https://www.deepdotweb.com/tag/health/" rel="tag">health</a> <a href="https://www.deepdotweb.com/tag/issue/" rel="tag">issue</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/pharmaceuticals/" rel="tag">pharmaceuticals</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span>				
-Updated: 2013-11-07</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+Updated: 2013-11-07<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     
     
     

@@ -167,8 +167,7 @@ VPN: Encrypt every device on your network for $20
 <p>
     &nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/device/" rel="tag">device</a> <a href="https://www.deepdotweb.com/tag/encrypt/" rel="tag">encrypt</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2015-08-28</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
+ <a href="https://www.deepdotweb.com/tag/device/" rel="tag">device</a> <a href="https://www.deepdotweb.com/tag/encrypt/" rel="tag">encrypt</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2015-08-28<a href="https://www.deepdotweb.com/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
 </div>
 </article>
 

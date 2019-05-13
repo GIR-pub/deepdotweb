@@ -14,5 +14,4 @@ Update on Silk Road 2.0 leak
 <p><a href="https://bitcointalk.org/index.php?topic=952177.msg10454640#msg10454640" target="_blank">https://bitcointalk.org/index.<wbr />php?topic=952177.msg10454640#<wbr />msg10454640</a></p>
 <p>Thanks <strong>@wipeout90</strong>  for keeping us informed while we were away!</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/leak/" rel="tag">leak</a>  <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-02-14</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+ <a href="https://www.deepdotweb.com/tag/leak/" rel="tag">leak</a>  <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-02-14

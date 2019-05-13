@@ -27,7 +27,7 @@ Onionshop Hacked ~ BTC Stolen (~700$)
     <p>Rest assured, we will not disappear, nor do we break any agreement we have made. We stay right where we are and will do anything possible to support our userbase through these tumultuous times. There wont be another sheep on our watch,</p>
     <p>Take Care,</p>
     <p>Onionshop</p></blockquote>
-    <p><a href="/imgs/2014/09/onionhacked.png"><img class="aligncenter  wp-image-7156" src="https://www.deepdotweb.com/wp-content/uploads/2014/09/onionhacked.png" alt="onionhacked" width="642" height="353" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/09/onionhacked.png 978w, https://www.deepdotweb.com/wp-content/uploads/2014/09/onionhacked-300x165.png 300w" sizes="(max-width: 642px) 100vw, 642px"/></a></p>
+    <p><a href="/imgs/2014/09/onionhacked.png"><img class="aligncenter  wp-image-7156" src="/imgs/2014/09/onionhacked.png" alt="onionhacked" width="642" height="353" srcset="/imgs/2014/09/onionhacked.png 978w, /imgs/2014/09/onionhacked-300x165.png 300w" sizes="(max-width: 642px) 100vw, 642px"/></a></p>
     <p>This announcement was later followed by a post made by the hacker himself on <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2gyefs/onionshop_hacked_all_bitcoins_stolen_and_im_still/" target="_blank">Reddit</a> (seems to be confirmed as the hacker):</p>
     <div class="usertext-body may-blank-within">
     <div class="md">
@@ -40,7 +40,7 @@ Onionshop Hacked ~ BTC Stolen (~700$)
     <p><strong>DON&#8217;T USE ONIONSHOP. IF YOU DO, GOD HELP YOU.</strong></p>
     <hr/>
     <p><strong>UPDATE: <a href="http://s2.postimg.org/7kskh5v1l/oss2.png" target="_blank">http://s2.postimg.org/7kskh5v1l/oss2.png</a>.</strong><strong>My work here is done. Take this as a wake up call, Onionshop&#8230;<br/>
-    </strong> <a href="/imgs/2014/09/dnm.png"><img class="aligncenter size-full wp-image-7160" src="https://www.deepdotweb.com/wp-content/uploads/2014/09/dnm.png" alt="dnm" width="982" height="542" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/09/dnm.png 982w, https://www.deepdotweb.com/wp-content/uploads/2014/09/dnm-300x166.png 300w" sizes="(max-width: 982px) 100vw, 982px"/></a></p></blockquote>
+    </strong> <a href="/imgs/2014/09/dnm.png"><img class="aligncenter size-full wp-image-7160" src="/imgs/2014/09/dnm.png" alt="dnm" width="982" height="542" srcset="/imgs/2014/09/dnm.png 982w, /imgs/2014/09/dnm-300x166.png 300w" sizes="(max-width: 982px) 100vw, 982px"/></a></p></blockquote>
     <p>Seems that Onionshop admins did the right thing taking the site offline until this have been investigated and the exploit fixed. Luckily In this case the financial lost was not much.</p>
     </div>
     </div>

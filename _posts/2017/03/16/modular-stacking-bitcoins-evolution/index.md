@@ -29,8 +29,7 @@ tag-bitcoins tag-evolution tag-modular tag-stacking">
 <p>2. Markedly boosting the network&#8217;s versatility via a wide variety of extensions beyond being a digital currency.</p>
 <p>3. Serve as a risk-free sandbox for future experiments that can be later implemented on wider scales.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/modular/" rel="tag">modular</a> <a href="https://www.deepdotweb.com/tag/stacking/" rel="tag">stacking</a></span> <span style="display:none" class="updated">2017-03-16</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/modular/" rel="tag">modular</a> <a href="https://www.deepdotweb.com/tag/stacking/" rel="tag">stacking</a></span> <span style="display:none" class="updated">2017-03-16<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
 </div>
 </article>
 

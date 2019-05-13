@@ -37,8 +37,7 @@ Stuttgart Man Jailed For Arms And Drugs Trafficking
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/stuttgart/" rel="tag">stuttgart</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span>				<span style="display:none" class="updated">2017-03-03</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a>  <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/stuttgart/" rel="tag">stuttgart</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span>				<span style="display:none" class="updated">2017-03-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     
 </div><!-- .post-inner -->

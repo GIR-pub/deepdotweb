@@ -23,8 +23,7 @@ Sheep Marketplace Owner Gets Nine Years in Prison
 <p>The number of stolen bitcoins was lower than the initially reported number. However, between the thefts and exchanges, the couple&#8217;s $700k may have been the entirety of the remaining stolen bitcoin. Market owners frequently collect a commission on marketplace sales and Jiříkovský made money via the commission avenue—in addition to the scam that he still adamantly denies having any role in.</p>
 <p>As appeals will likely be filed, the sentence may later change, but after several years of waiting, some vendors (and buyers) finally saw their wishes come to life.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-10-14</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2017-10-14<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

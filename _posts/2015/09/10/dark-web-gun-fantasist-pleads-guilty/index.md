@@ -24,5 +24,4 @@ Dark web gun fantasist pleads guilty
 <p>“It would appear Hillyer was trying to live out a fantasy but attempting to buy a firearm in the real world has real life consequences.</p>
 <p>“The NCA will continue to collaborate with our national and international partners to prevent and disrupt serious cyber-enabled criminality.&#8221;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/fantasist/" rel="tag">fantasist</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-09-10</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/fantasist/" rel="tag">fantasist</a>  <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a>  <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-09-10

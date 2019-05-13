@@ -12,5 +12,4 @@ Evolution Celebrated 1 Year Birthday
 <p>Late by a month but Evolution market just recently celebrated its first birthday:</p>
 <p><a href="/imgs/2015/02/1year.png"><img class="aligncenter size-full wp-image-9090" src="/imgs/2015/02/1year.png" alt="1year" width="836" height="155" srcset="/imgs/2015/02/1year.png 836w, /imgs/2015/02/1year-300x56.png 300w" sizes="(max-width: 836px) 100vw, 836px"/></a>Agora was around the same time.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/birthday/" rel="tag">birthday</a> <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2015-02-16</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/birthday/" rel="tag">birthday</a> <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2015-02-16

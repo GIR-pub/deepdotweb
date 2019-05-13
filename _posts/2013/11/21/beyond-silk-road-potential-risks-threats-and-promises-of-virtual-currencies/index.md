@@ -83,5 +83,4 @@ title: Beyond Silk Road: Potential Risks, Threats, and Promises of Virtual Curre
 </ul>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/currencies/" rel="tag">currencies</a> <a href="https://www.deepdotweb.com/tag/potential/" rel="tag">potential</a> <a href="https://www.deepdotweb.com/tag/promises/" rel="tag">promises</a> <a href="https://www.deepdotweb.com/tag/risks/" rel="tag">risks</a>  <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a> <a href="https://www.deepdotweb.com/tag/virtual/" rel="tag">virtual</a>
-Updated: 2013-11-21</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+Updated: 2013-11-21

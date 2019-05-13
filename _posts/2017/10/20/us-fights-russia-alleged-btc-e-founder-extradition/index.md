@@ -33,8 +33,7 @@ US Fights Russia Over Alleged BTC-e Founder Extradition
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/btce/" rel="tag">btce</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/fights/" rel="tag">fights</a> <a href="https://www.deepdotweb.com/tag/founder/" rel="tag">founder</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span>				<span style="display:none" class="updated">2017-10-20</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/btce/" rel="tag">btce</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/fights/" rel="tag">fights</a> <a href="https://www.deepdotweb.com/tag/founder/" rel="tag">founder</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span>				<span style="display:none" class="updated">2017-10-20<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     
 </div><!-- .post-inner -->

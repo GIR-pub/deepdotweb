@@ -191,5 +191,4 @@ HideIPVPN Review
 <p>To sum it up, HideIPVPN is a middle range option to protect your privacy and anonymity while online. If you are an avid user of the darknet marketplaces and this is to be used along with Tor to increase your privacy and security then you may want to consider looking at the providers at the top of the VPN Review Chart.</p>
 <p><a href="https://billing.hideipvpn.com/aff.php?aff=2096" target="_blank"><strong>&gt;&gt; Click HERE to Visit the HideIPVPN Official Site</strong></a></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/hideipvpn/" rel="tag">hideipvpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2015-12-10</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/hideipvpn/" rel="tag">hideipvpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2015-12-10

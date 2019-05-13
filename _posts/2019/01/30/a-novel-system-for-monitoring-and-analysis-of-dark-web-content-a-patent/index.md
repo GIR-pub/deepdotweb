@@ -15,7 +15,7 @@ A novel system for monitoring and analysis of dark web content &#8211; (A patent
     <p>Throughout this article, we will take a look at this novel dark web monitoring and analysis system.</p>
     <p><strong>Structure of the system:</strong></p>
     <p>The patent represents a novel dark web analysis, monitoring, and alert system, which is comprised of the following, as shown via figure (1):</p>
-    <p><img class="wp-image-28250" src="https://www.deepdotweb.com/wp-content/uploads/2019/01/patent1-png.png" alt="patent1.PNG" srcset="https://www.deepdotweb.com/wp-content/uploads/2019/01/patent1-png.png 792w, https://www.deepdotweb.com/wp-content/uploads/2019/01/patent1-png-300x214.png 300w" sizes="(max-width: 792px) 100vw, 792px" /></p>
+    <p><img class="wp-image-28250" src="/imgs/2019/01/patent1-png.png" alt="patent1.PNG" srcset="/imgs/2019/01/patent1-png.png 792w, /imgs/2019/01/patent1-png-300x214.png 300w" sizes="(max-width: 792px) 100vw, 792px" /></p>
     <p><strong>Figure (1): Design of the proposed dark web monitoring, analysis, and alert system</strong></p>
     <p>&#8211; A minimum of <a href="https://www.deepdotweb.com/2018/10/26/research-a-novel-intelligent-rule-based-deep-web-crawler/">one web crawler connected to the dark web</a>. At least one web crawler is configured to specifically scan and fetch data from the dark web.</p>
     <p>&#8211; A Structured Data Database Extractor (SDE) which is directly connected to a minimum of one web crawler. The SDE is programmed to perform analysis of the data collected by at least one of the connected web crawlers and to obtain structural parameters.</p>

@@ -27,8 +27,7 @@ Cifas Report: Identity Fraud Reached Record Levels In 2016
 <p>“Download updates to your software when your device prompts you – they often add enhanced security features.”</p>
 <p>The fraud prevention organization also warns people about protecting offline information too. According to Cifas, consumers should always redirect mail when they leave their homes and should make sure that their mailboxes are secure.</p>
 </div>
-<span style="display:none" class="updated">2017-03-31</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none" class="updated">2017-03-31<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>
 

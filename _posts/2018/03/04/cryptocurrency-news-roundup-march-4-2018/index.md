@@ -41,8 +41,7 @@ Cryptocurrency news roundup, March 4, 2018
 <p><strong>Bitcoin recovers to $11,451 while regaining part of the cryptocurrency market share</strong></p>
 <p>Bitcoin, the flagship cryptocurrency, is currently closing in on the $200 billion market cap, as one Bitcoin is now trading for $11,451. Per data from CoinMarketCap, the cryptocurrency is currently up by 4.72 percent in the last 24-hour period, and its dominance is currently at 41.7 percent.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/4318/" rel="tag">4318</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2018-03-04</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/4318/" rel="tag">4318</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2018-03-04<a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
 </div>
 </article>
 

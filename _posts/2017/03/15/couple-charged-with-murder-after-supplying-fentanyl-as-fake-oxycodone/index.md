@@ -21,8 +21,7 @@ Couple Charged With Murder After Supplying Fentanyl as Fake Oxycodone
 <p>After searches of Penne’s electronic equipment, they found evidence that pointed towards at least part of the girlfriend&#8217;s statement. He appeared to frequently <a href="https://www.deepdotweb.com/marketplace-directory/categories/top-markets/">use the Darknet or specifically the Darknet marketplaces</a> – to what degree or extent, we have yet to find out.</p>
 <p>Many parts of the case remained confidential until recently as to keep the investigation from corruption. Since both suspects stood in front of separate judges and each received third degree murder charges, the case details have begun to surface.</p>
 </div>
-<span style="display:none" class="updated">2017-03-15</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none" class="updated">2017-03-15<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

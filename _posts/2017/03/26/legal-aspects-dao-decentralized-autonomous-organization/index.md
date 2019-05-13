@@ -62,8 +62,7 @@ Legal Aspects of DAO (Decentralized Autonomous Organization)
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/aspects/" rel="tag">aspects</a> <a href="https://www.deepdotweb.com/tag/autonomous/" rel="tag">autonomous</a> <a href="https://www.deepdotweb.com/tag/dao/" rel="tag">dao</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/organization/" rel="tag">organization</a></span>				<span style="display:none" class="updated">2017-03-26</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/aspects/" rel="tag">aspects</a> <a href="https://www.deepdotweb.com/tag/autonomous/" rel="tag">autonomous</a> <a href="https://www.deepdotweb.com/tag/dao/" rel="tag">dao</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/organization/" rel="tag">organization</a></span>				<span style="display:none" class="updated">2017-03-26<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
     
     
 </div><!-- .post-inner -->

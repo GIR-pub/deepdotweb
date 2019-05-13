@@ -24,8 +24,7 @@ Fourth PlayPen Moderator Gets 20-Year Sentence For Promoting Child Porn
 <p>“Based on the foregoing analysis, the Court concludes that the NIT Warrant was issued without jurisdiction and thus was void ab initio. It follows that the resulting search was conducted as though there were no warrant at all. Since warrantless searches are presumptively unreasonable, and the good-faith exception is inapplicable, the evidence must be excluded.”</p>
 <p>Already, the DoJ stated that 51 abusers of child pornography have been prosecuted and 55 American children who fell victim to illegal and immoral sexual exploitation and abuse have been rescued. Following Project Safe Childhood, a nationwide initiative launched by the DoJ in 2006 to fight against the distribution of child pornography and sexual abuse of underaged children, the DoJ and local law enforcement agencies plan to continue their investigation into darkweb child pornography distributors.</p>
 </div>
-<span style="display:none" class="updated">2017-03-10</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
+<span style="display:none" class="updated">2017-03-10<a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
 </div>
 </article>
 

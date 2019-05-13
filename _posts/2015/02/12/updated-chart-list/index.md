@@ -48,5 +48,4 @@ Updated the Chart &#038; list
 <div class="wp-socializer-clearer"></div></div>
     
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/chart/" rel="tag">chart</a> <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/updated/" rel="tag">updated</a></span> <span style="display:none" class="updated">2015-02-12</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/chart/" rel="tag">chart</a> <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/updated/" rel="tag">updated</a></span> <span style="display:none" class="updated">2015-02-12

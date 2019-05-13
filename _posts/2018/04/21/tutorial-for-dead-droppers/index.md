@@ -50,8 +50,7 @@ Tutorial for Dead Droppers
 <p><a id="post-25443-_gjdgxs"></a> Incorrect:</p>
 <p><img class="wp-image-25448" src="/imgs/2018/04/word-image-44.jpeg" srcset="/imgs/2018/04/word-image-44.jpeg 1024w, /imgs/2018/04/word-image-44-300x225.jpeg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/dead/" rel="tag">dead</a> <a href="https://www.deepdotweb.com/tag/droppers/" rel="tag">droppers</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2018-04-21</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/dead/" rel="tag">dead</a> <a href="https://www.deepdotweb.com/tag/droppers/" rel="tag">droppers</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2018-04-21<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
 </div>
 </article>
 

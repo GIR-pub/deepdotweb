@@ -11,7 +11,7 @@ Police Recruit Another Canine Who Sniffs Out USB Drives
     <div class="clear"></div>
     <div class="entry">
     <p>A young black Labrador is the police’s latest recruit to a new, highly specialized form of investigation. The puppy, named URL, is trained to sniff out electronic devices during police searches. URL hunts down USB drives by the scent of chemical compounds emitted by the device.</p>
-    <p><img class="wp-image-15429 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/09/word-image-12.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/09/word-image-12.jpeg 780w, https://www.deepdotweb.com/wp-content/uploads/2016/09/word-image-12-300x157.jpeg 300w" sizes="(max-width: 780px) 100vw, 780px"/></p>
+    <p><img class="wp-image-15429 aligncenter" src="/imgs/2016/09/word-image-12.jpeg" srcset="/imgs/2016/09/word-image-12.jpeg 780w, /imgs/2016/09/word-image-12-300x157.jpeg 300w" sizes="(max-width: 780px) 100vw, 780px"/></p>
     <p>Another black Labrador named Bear – one of only nine dogs certified to sniff out USB drives –helped the arrest of former Subway pitchman Jared Fogle on child-porn charges. The police, when searching Fogle’s house, failed to find the incriminating storage device. Bear was brought in and almost immediately found the drive that led to Fogle’s conviction.</p>
     <p>Both URL and Bear were trained by the same person.</p>
     <p>Bear was also part of the case against former gymnastics coach Marvin Sharp, charged with child molestation. According to Bear’s trainer Todd Jordan, the dog found several SD cards hidden inside a gun safe. &#8220;And you know how airtight those safes are,&#8221; Jordan said. &#8220;It goes to show how sensitive their noses really are.&#8221;</p>

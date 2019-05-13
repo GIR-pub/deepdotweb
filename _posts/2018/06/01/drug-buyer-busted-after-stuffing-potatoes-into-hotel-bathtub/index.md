@@ -20,8 +20,7 @@ Drug Buyer Busted After Stuffing Potatoes into Hotel Bathtub
 <p>Judge Peter Henry, in light of the news, issued only an 18-month community order and nine-months of rehabilitation. He described the binge as “bizarre” and “potentially dangerous.” The judge followed up with a sensible question: he asked why Johnson and his friends had even attempted the binge. In response, Johnson said that “it felt like the right thing to do at the time.”</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bathtub/" rel="tag">bathtub</a> <a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a>  <a href="https://www.deepdotweb.com/tag/hotel/" rel="tag">hotel</a> <a href="https://www.deepdotweb.com/tag/potatoes/" rel="tag">potatoes</a> <a href="https://www.deepdotweb.com/tag/stuffing/" rel="tag">stuffing</a></span> <span style="display:none" class="updated">2018-06-01</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/bathtub/" rel="tag">bathtub</a> <a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a>  <a href="https://www.deepdotweb.com/tag/hotel/" rel="tag">hotel</a> <a href="https://www.deepdotweb.com/tag/potatoes/" rel="tag">potatoes</a> <a href="https://www.deepdotweb.com/tag/stuffing/" rel="tag">stuffing</a></span> <span style="display:none" class="updated">2018-06-01<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

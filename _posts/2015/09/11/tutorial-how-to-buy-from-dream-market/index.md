@@ -100,5 +100,4 @@ Tutorial: How to Buy From Dream Market?
 <p><strong>Part 9 – Conclusion</strong></p>
 <p>As long as you follow these guidelines, you should be safe in your journey. There is plenty more to learn, but you will be better learning it for yourself. Have fun with safe shopping!</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/dream/" rel="tag">dream</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-09-11</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/dream/" rel="tag">dream</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-09-11

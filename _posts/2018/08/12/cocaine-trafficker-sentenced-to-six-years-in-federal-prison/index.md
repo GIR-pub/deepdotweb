@@ -18,8 +18,7 @@ Cocaine Trafficker Sentenced to Six Years in Federal Prison
 <p>From 2015 through 2017, USPIS intercepted dozens of packages connected to Coffey and numerous co-conspirators that avoided arrest by declining to accept packages delivered by undercover USPIS Inspectors. After one final seizure of almost <a href="https://www.deepdotweb.com/tag/cocaine/">two pounds of cocaine</a>, the DEA executed a search warrant at Coffey’s address. They found more cocaine at his house and arrested him on the spot. He waived his Miranda rights and told the police that he had no idea what the package contained.</p>
 <p>As the DEA arrested Coffey, he said, “I can&#8217;t believe I did this [shit] again.” He later pleaded guilty to cocaine distribution charges and accepted his fate: six years in federal prison.</p>
 </div>
-<span style="display:none" class="updated">2018-08-12</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none" class="updated">2018-08-12<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

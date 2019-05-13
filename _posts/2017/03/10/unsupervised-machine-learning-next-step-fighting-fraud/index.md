@@ -55,8 +55,7 @@ Is Unsupervised Machine Learning the Next Step in Fighting Fraud?
 <p>Catherine Lu is a technical product manager at DataVisor, a full-stack online fraud analytics platform.</p>
 <p>MI 3.0 Thumbnail (1)Above: The Machine Intelligence Landscape This article is part of our Artificial Intelligence series. You can download a high-resolution version of the landscape featuring 288 companies here.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/fighting/" rel="tag">fighting</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/learning/" rel="tag">learning</a> <a href="https://www.deepdotweb.com/tag/machine/" rel="tag">machine</a> <a href="https://www.deepdotweb.com/tag/step/" rel="tag">step</a> <a href="https://www.deepdotweb.com/tag/unsupervised/" rel="tag">unsupervised</a></span> <span style="display:none" class="updated">2017-03-10</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/fighting/" rel="tag">fighting</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/learning/" rel="tag">learning</a> <a href="https://www.deepdotweb.com/tag/machine/" rel="tag">machine</a> <a href="https://www.deepdotweb.com/tag/step/" rel="tag">step</a> <a href="https://www.deepdotweb.com/tag/unsupervised/" rel="tag">unsupervised</a></span> <span style="display:none" class="updated">2017-03-10<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

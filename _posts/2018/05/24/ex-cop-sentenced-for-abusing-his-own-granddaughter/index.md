@@ -20,8 +20,7 @@ Ex-Cop Sentenced for Abusing His Own Granddaughter
 <p>The man will spend four years and six months in prison for the Commonwealth crimes. The State crimes led to a shorter sentence of only 30 months incarceration.</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/abusing/" rel="tag">abusing</a> <a href="https://www.deepdotweb.com/tag/excop/" rel="tag">excop</a> <a href="https://www.deepdotweb.com/tag/granddaughter/" rel="tag">granddaughter</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-05-24</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/abusing/" rel="tag">abusing</a> <a href="https://www.deepdotweb.com/tag/excop/" rel="tag">excop</a> <a href="https://www.deepdotweb.com/tag/granddaughter/" rel="tag">granddaughter</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-05-24<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

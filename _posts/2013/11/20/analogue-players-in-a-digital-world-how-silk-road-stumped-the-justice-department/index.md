@@ -28,5 +28,4 @@ title: Analogue Players In a Digital World: How Silk Road Stumped the Justice De
 <p>Will the authorities soon be able to control these seas?  It’s a long shot.  But, in the meantime, Silk Road 2.0 is open for business.  These pirates sure don’t waste time.  There are drugs to be sold, and bills to be paid.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/analogue/" rel="tag">analogue</a> <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/justice/" rel="tag">justice</a> <a href="https://www.deepdotweb.com/tag/players/" rel="tag">players</a>  <a href="https://www.deepdotweb.com/tag/stumped/" rel="tag">stumped</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a>
-Updated: 2013-11-20</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+Updated: 2013-11-20

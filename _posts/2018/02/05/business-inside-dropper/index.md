@@ -34,8 +34,7 @@ tag-business tag-dropper">
 <p>&#8211; It is impossible. And even if it could be done, I would definitely feel sorry for it multiple times. They would explain my mistake in radical ways.</p>
 <p>In conclusion, I would like to add that <a href="https://www.deepdotweb.com/2018/01/13/four-school-dropouts-jharkhand-arrested-online-fraud/">droppers are imprisoned</a> from time to time for different reasons. And how to regard this way of earning is up to you.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/dropper/" rel="tag">dropper</a></span> <span style="display:none" class="updated">2018-02-05</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/dropper/" rel="tag">dropper</a></span> <span style="display:none" class="updated">2018-02-05<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
 </div>
 </article>
 

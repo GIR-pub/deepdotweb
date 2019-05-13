@@ -30,11 +30,11 @@ Alleged Silk Road 2.0 Hacker Doxxed!?
     <p>Oracle<br />
     <strong>=====End Quote====</strong></p>
     <p>By the time we posted this, it was already published on the Silk Road Sub reddit as well and will probably gets deleted soon. some users were quick to react and offering to go and check the address for themselves:</p>
-    <p><a href="/imgs/2014/02/reddit.png"><img class="aligncenter size-full wp-image-4324" alt="reddit" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/reddit.png" width="881" height="83" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/reddit.png 881w, https://www.deepdotweb.com/wp-content/uploads/2014/02/reddit-300x28.png 300w" sizes="(max-width: 881px) 100vw, 881px" /></a></p>
+    <p><a href="/imgs/2014/02/reddit.png"><img class="aligncenter size-full wp-image-4324" alt="reddit" src="/imgs/2014/02/reddit.png" width="881" height="83" srcset="/imgs/2014/02/reddit.png 881w, /imgs/2014/02/reddit-300x28.png 300w" sizes="(max-width: 881px) 100vw, 881px" /></a></p>
     <p>We can only hope this will end well.</p>
     <p>Now we will still be following the forums as it was told by the Oracle that he will keep posting this again and again until all the stolen funds are returned. the most interesting question is if this will lead to some of the money being returned or now, we will update as we will have more information.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> </span> <span style="display:none" class="updated">2014-02-18</span>
+     <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> </span> <span style="display:none" class="updated">2014-02-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

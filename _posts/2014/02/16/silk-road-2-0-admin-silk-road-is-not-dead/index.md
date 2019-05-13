@@ -60,13 +60,13 @@ Silk Road 2.0 Admin: Silk Road is Not Dead
     <p><strong>===End Quote===</strong></p>
     <p>The community seems to a bit hesitant to believe what he says, for a good reason, but at the same time would like to hold any shred of hope that things will get better for silk road 2.0, as far as i see it now, there is no real need to comment about it until the admins will show some real progress with creating a stable market using multi-sig escrow system (at least)</p>
     <p>When he was asked some more questions he offered further explanations:</p>
-    <p><a href="/imgs/2014/02/defcon2.png"><img class="aligncenter  wp-image-4219" alt="defcon2" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/defcon2.png" width="851" height="236" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/defcon2.png 1204w, https://www.deepdotweb.com/wp-content/uploads/2014/02/defcon2-300x83.png 300w, https://www.deepdotweb.com/wp-content/uploads/2014/02/defcon2-1024x284.png 1024w" sizes="(max-width: 851px) 100vw, 851px" /></a></p>
+    <p><a href="/imgs/2014/02/defcon2.png"><img class="aligncenter  wp-image-4219" alt="defcon2" src="/imgs/2014/02/defcon2.png" width="851" height="236" srcset="/imgs/2014/02/defcon2.png 1204w, /imgs/2014/02/defcon2-300x83.png 300w, /imgs/2014/02/defcon2-1024x284.png 1024w" sizes="(max-width: 851px) 100vw, 851px" /></a></p>
     <p>He even went con claiming the marketplace should be operational again in the next few days:</p>
-    <p><a href="/imgs/2014/02/defcon3.png"><img class="aligncenter  wp-image-4221" alt="defcon3" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/defcon3.png" width="941" height="248" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/defcon3.png 1187w, https://www.deepdotweb.com/wp-content/uploads/2014/02/defcon3-300x79.png 300w, https://www.deepdotweb.com/wp-content/uploads/2014/02/defcon3-1024x270.png 1024w" sizes="(max-width: 941px) 100vw, 941px" /></a></p>
+    <p><a href="/imgs/2014/02/defcon3.png"><img class="aligncenter  wp-image-4221" alt="defcon3" src="/imgs/2014/02/defcon3.png" width="941" height="248" srcset="/imgs/2014/02/defcon3.png 1187w, /imgs/2014/02/defcon3-300x79.png 300w, /imgs/2014/02/defcon3-1024x270.png 1024w" sizes="(max-width: 941px) 100vw, 941px" /></a></p>
     <p>Needless to say that most users are not convinced at this point.</p>
     <p>We Wish all parties involved good luck, and future safe conduct.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/dead/" rel="tag">dead</a> </span> <span style="display:none" class="updated">2014-02-16</span>
+     <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/dead/" rel="tag">dead</a> </span> <span style="display:none" class="updated">2014-02-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

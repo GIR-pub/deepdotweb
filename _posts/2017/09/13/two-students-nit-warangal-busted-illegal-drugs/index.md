@@ -30,7 +30,7 @@ Two students of NIT, Warangal busted with Illegal Drugs
     <p>The National Institute of Technology (NIT) has however stated that they are surprised as to how this event transpired and that retrospective action will be taken.</p>
     <p>“We are shocked by the development. We will initiate action against the two students. We will also conduct a probe to check whether other students are involved in the drug racket,” NIT Dean (students’ affairs) SVS.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/nit/" rel="tag">nit</a> <a href="https://www.deepdotweb.com/tag/students/" rel="tag">students</a> <a href="https://www.deepdotweb.com/tag/warangal/" rel="tag">warangal</a></span> <span style="display:none" class="updated">2017-09-13</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a>  <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/nit/" rel="tag">nit</a> <a href="https://www.deepdotweb.com/tag/students/" rel="tag">students</a> <a href="https://www.deepdotweb.com/tag/warangal/" rel="tag">warangal</a></span> <span style="display:none" class="updated">2017-09-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

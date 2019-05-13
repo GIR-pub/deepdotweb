@@ -52,5 +52,4 @@ Veracrypt Tutorial: How To Encrypt A USB Drive?
 <p>&nbsp;</p>
 </div>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/drive/" rel="tag">drive</a> <a href="https://www.deepdotweb.com/tag/encrypt/" rel="tag">encrypt</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/usb/" rel="tag">usb</a> <a href="https://www.deepdotweb.com/tag/veracrypt/" rel="tag">veracrypt</a></span> <span style="display:none" class="updated">2015-02-09</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/drive/" rel="tag">drive</a> <a href="https://www.deepdotweb.com/tag/encrypt/" rel="tag">encrypt</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/usb/" rel="tag">usb</a> <a href="https://www.deepdotweb.com/tag/veracrypt/" rel="tag">veracrypt</a></span> <span style="display:none" class="updated">2015-02-09

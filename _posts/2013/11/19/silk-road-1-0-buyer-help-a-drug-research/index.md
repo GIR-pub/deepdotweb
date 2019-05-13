@@ -30,5 +30,4 @@ title: Silk Road 1.0 Buyer? Help a Drug Research.
 </div>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a>  <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> 
-Updated: 2013-11-19</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+Updated: 2013-11-19

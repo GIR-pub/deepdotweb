@@ -18,7 +18,7 @@ Irish Dark Net Drug Dealer Requests Shorter Sentence for His Cooperation
     <p><a href="https://www.deepdotweb.com/2015/12/25/irish-vendor-duo-sentenced-by-court/">A quote from an article previously reported by Benjamin Vitaris on ddw</a>:</p>
     <p>“Both men pleaded guilty to possession of LSD, Amphetamine, and Cannabis Resin with the intent to sell or supply at Bank House Business Center, South Circular Road on November 5<sup>th</sup>, 2014.”</p>
     <p>It was also reported that prior to their convictions, both parties criminal records were clean, with no cases what so ever.</p>
-    <p><img class="wp-image-16008 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-16.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-16.jpeg 498w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-16-300x169.jpeg 300w" sizes="(max-width: 498px) 100vw, 498px"/></p>
+    <p><img class="wp-image-16008 aligncenter" src="/imgs/2016/10/word-image-16.jpeg" srcset="/imgs/2016/10/word-image-16.jpeg 498w, /imgs/2016/10/word-image-16-300x169.jpeg 300w" sizes="(max-width: 498px) 100vw, 498px"/></p>
     <p>The judge in the case stated:</p>
     <p>“It may seem that committing crimes on the internet is somewhat easier than selling drugs on the street. It gives the impression of vulnerability and the impression that the crime is less serious, but it’s not. These two sold drugs to third parties for profit.”</p>
     <p>In the past, online drug dealing was really never reported. With the dark net gaining stride and popularity, law enforcement is being forced to become more familiar with how these particular cyber criminals operate.</p>

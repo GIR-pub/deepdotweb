@@ -19,7 +19,7 @@ Two Sussex Men Charged for Darknet Drug Sales and Money Laundering
     <li>One count of possession of class A (MDMA) on March 9, 2016;</li>
     <li>One count of converting criminal property contrary to the Proceeds of Crime Act 2002, between the January 1, 2014 &#8211; March 10, 2016.</li>
     </ul>
-    <p><img class="wp-image-16893 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/12/word-image-15.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/12/word-image-15.jpeg 564w, https://www.deepdotweb.com/wp-content/uploads/2016/12/word-image-15-300x225.jpeg 300w" sizes="(max-width: 564px) 100vw, 564px"/></p>
+    <p><img class="wp-image-16893 aligncenter" src="/imgs/2016/12/word-image-15.jpeg" srcset="/imgs/2016/12/word-image-15.jpeg 564w, /imgs/2016/12/word-image-15-300x225.jpeg 300w" sizes="(max-width: 564px) 100vw, 564px"/></p>
     <p>And the second Sussex man was Ahmet Ciftdal, a 26-year-old from East Grinstead. The court charged Ciftdal with nine drug-related crimes:</p>
     <ul>
     <li>One count of conspiracy to be concerned in the making of an offer to supply a controlled drug, class A between July 31, 2014 &#8211; February 1, 2016;</li>

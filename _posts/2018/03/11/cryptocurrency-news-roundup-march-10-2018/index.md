@@ -47,8 +47,7 @@ Cryptocurrency news roundup, March 10, 2018
 <p><strong>Bitcoin at $9,378 as it starts recovering from bearish period</strong></p>
 <p>Most of this week’s news had a negative impact on the cryptocurrency ecosystem. This week Bitcoin, the flagship cryptocurrency, fell to a low of little over $8,700, before its price started to recover back to <a href="https://coinmarketcap.com/currencies/bitcoin/">$9,378 at press time</a>. Bitcoin’s market cap is currently of $158 billion, and its dominance is now at 41.3%.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/2018/" rel="tag">2018</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2018-03-11</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/2018/" rel="tag">2018</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2018-03-11<a href="https://www.deepdotweb.com/author/francisco/" title="Posts by Francisco" rel="author">Francisco</a></strong></div>
 </div>
 </article>
 

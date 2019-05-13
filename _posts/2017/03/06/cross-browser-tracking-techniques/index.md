@@ -31,8 +31,7 @@ Cross Browser Tracking Techniques
 <p>As you may have noticed, the majority of new techniques rely on vertex and fragment shaders. They are perfect for fingerprinting because a lot of computer specifics have effect on them.</p>
 <p>If you want to know exactly what tasks are used to get these information, or how to compose a fingerprint out of gathered information, check out the <a href="http://yinzhicao.org/TrackingFree/crossbrowsertracking_NDSS17.pdf">original paper</a>.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/cross/" rel="tag">cross</a> <a href="https://www.deepdotweb.com/tag/techniques/" rel="tag">techniques</a> <a href="https://www.deepdotweb.com/tag/tracking/" rel="tag">tracking</a></span> <span style="display:none" class="updated">2017-03-06</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/cross/" rel="tag">cross</a> <a href="https://www.deepdotweb.com/tag/techniques/" rel="tag">techniques</a> <a href="https://www.deepdotweb.com/tag/tracking/" rel="tag">tracking</a></span> <span style="display:none" class="updated">2017-03-06<a href="https://www.deepdotweb.com/author/filipjelic/" title="Posts by Filip Jelic" rel="author">Filip Jelic</a></strong></div>
 </div>
 </article>
 

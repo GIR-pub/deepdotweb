@@ -35,8 +35,7 @@ Bitcoin Price Analysis &#8211; 28th October
 <p>Regardless of facts, the uncanny correlation with events is visible on charts, thus dismissing the idea is a sure way to get on the wrong end of a trade.</p>
 <p>China is pulling out all stops to rein in market instability, even going as far as <em>“launching a plan to inject pension funds into capital markets in 2016 with estimated size of 2 trillion RMB!” </em>&#8211; an announcement made today. What we are witnessing is an increasing number of bitcoin mentions in time of capital controls and economic crisis that forebodes the role it will play as a safe haven asset class in the coming years.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/28th/" rel="tag">28th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-10-28</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/28th/" rel="tag">28th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-10-28<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
 </div>
 </article>
 

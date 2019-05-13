@@ -12,7 +12,7 @@
     <div class="entry">
     <p><a href="http://www.thelocal.no/20160419/norway-police-charge-15-for-dealing-drugs-on-dark-web">15 people were arrested in what Norway</a> is calling their biggest drug bust ever to target dark net.</p>
     <p>The case originated in the FBI&#8217;s  2013 closure of Silk Road. American authorities were able to access a list of sellers and clients names. Among the names were hundreds of Norwegian traders who operated on Silk Road. The operators also traded under aliases from other markets, that were linked back  to the user names on Sink Road.</p>
-    <p><img class="aligncenter size-full wp-image-13817" src="https://www.deepdotweb.com/wp-content/uploads/2016/04/kripos.jpg" alt="kripos" width="245" height="150" /></p>
+    <p><img class="aligncenter size-full wp-image-13817" src="/imgs/2016/04/kripos.jpg" alt="kripos" width="245" height="150" /></p>
     <p>Kripos, Norway&#8217;s National Criminal Investigation Service started Operation Marco Polo. It was the nations first, and biggest operation against organized drug crime on the dark net. VG reported this week that the operation resulted in 15 people being arrested, included were five men suspected of being the biggest on-line Norwegian drug dealers.</p>
     <p>“These men were not very well known by the police beforehand,” Richard Beck Pendersen, one of the leaders of Operation Marco Polo said.</p>
     <p>Pedersen stated that all five of the alleged drug kingpins had been using comprehensive technological camouflage since starting in 2013. “The technology used by the suspects to hide themselves has been and still is the investigations biggest problem.”</p>

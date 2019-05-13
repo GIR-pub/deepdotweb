@@ -48,5 +48,4 @@ Darkcoin on Abraxas Market
 <div class="wp-socializer-clearer"></div></div>
     
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/abraxas/" rel="tag">abraxas</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a></span> <span style="display:none" class="updated">2015-02-12</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/abraxas/" rel="tag">abraxas</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a></span> <span style="display:none" class="updated">2015-02-12

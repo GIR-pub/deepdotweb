@@ -60,8 +60,7 @@ Interview: The Evolution Of a Veteran Dark Market Dweller #3
 <p><strong>AH: Its been a pleasure, “Deon”</strong></p>
 <p>DT: Pleasure was mine, dude. I don’t get to relive this shit too often, its been a trip down memory lane. And thanks for the seafood.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/veterandarkmarketdweller/" rel="tag">VeteranDarkMarketDweller</a></span> <span style="display:none" class="updated">2015-02-26</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/veterandarkmarketdweller/" rel="tag">VeteranDarkMarketDweller</a></span> <span style="display:none" class="updated">2015-02-26<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
 </div>
 </article>
 

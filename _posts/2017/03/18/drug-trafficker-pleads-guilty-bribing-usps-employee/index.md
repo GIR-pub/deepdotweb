@@ -30,8 +30,7 @@ Drug Trafficker Pleads Guilty to Bribing a USPS Employee
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bribing/" rel="tag">bribing</a>  <a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a> <a href="https://www.deepdotweb.com/tag/usps/" rel="tag">usps</a></span>				<span style="display:none" class="updated">2017-03-18</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/bribing/" rel="tag">bribing</a>  <a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a>   <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a> <a href="https://www.deepdotweb.com/tag/usps/" rel="tag">usps</a></span>				<span style="display:none" class="updated">2017-03-18<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     
 </div><!-- .post-inner -->

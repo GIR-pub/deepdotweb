@@ -31,8 +31,7 @@ The Dark Web Is On The Rise In South Africa
 <p>“However, it is not a ‘silver bullet’; we still lack the skills to catch cyber criminals,” said Corregedor.</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/africa/" rel="tag">africa</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a> <a href="https://www.deepdotweb.com/tag/south/" rel="tag">south</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-10-21</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/africa/" rel="tag">africa</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a> <a href="https://www.deepdotweb.com/tag/south/" rel="tag">south</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-10-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>
 

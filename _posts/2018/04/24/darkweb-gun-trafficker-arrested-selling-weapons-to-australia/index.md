@@ -25,8 +25,7 @@ Darkweb Gun Trafficker Arrested Selling Weapons To Australia
 <p>Johnson was sentenced on Thursday to 33 months in prison after pleading guilty to his smuggling charge in the U.S. District Court in Georgia.</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/australia/" rel="tag">australia</a> <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span> <span style="display:none" class="updated">2018-04-24</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/australia/" rel="tag">australia</a> <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span> <span style="display:none" class="updated">2018-04-24<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
 </div>
 </article>
 

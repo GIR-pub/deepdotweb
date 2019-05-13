@@ -21,8 +21,7 @@ Three Darknet Vendors Busted For MDMA Sales
 <p>John P. confessed to his darknet ventures out of curiosity, according to his statement to the court. &#8220;It&#8217;s as simple as downloading and installing Skype on your computer,&#8221; he said. He started with only a few pills and the business rapidly grew until it “went over the limit.”</p>
 <p>John P., faces only six years in prison while Bram V. and Thomas P. face a mandatory eight, if convicted.</p>
 </div>
-<span style="display:none" class="updated">2017-03-17</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none" class="updated">2017-03-17<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

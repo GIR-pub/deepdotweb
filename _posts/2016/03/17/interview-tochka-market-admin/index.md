@@ -47,7 +47,7 @@ Interview With Tochka Market Admin
     <p><span style="font-weight: bold; color: #cc0000;">Tochka: </span>We&#8217;ve been operating for more than a year now. We&#8217;ve launched first version of Tochka in January 2015 but gained good operational strength around April. So it&#8217;s been a while, yeah.</p>
     <p><strong> Can you tell us how your market started?</strong></p>
     <p><span style="font-weight: bold; color: #cc0000;">Tochka: </span>At start I was just interested in this topic as it often happens. Then when I was digging into the topic I came to realization that dakrnet is great opportunity to create community of like-minded people. Fastest way to achieve this in my opinion was to create such a platfrom that corresponds to my moral and sensual perception of the world.</p>
-    <p><img class="aligncenter wp-image-13506" src="https://www.deepdotweb.com/wp-content/uploads/2016/03/tochka1.png" alt="tochka1" width="1030" height="582" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/03/tochka1.png 1461w, https://www.deepdotweb.com/wp-content/uploads/2016/03/tochka1-300x169.png 300w, https://www.deepdotweb.com/wp-content/uploads/2016/03/tochka1-1024x578.png 1024w" sizes="(max-width: 1030px) 100vw, 1030px" /></p>
+    <p><img class="aligncenter wp-image-13506" src="/imgs/2016/03/tochka1.png" alt="tochka1" width="1030" height="582" srcset="/imgs/2016/03/tochka1.png 1461w, /imgs/2016/03/tochka1-300x169.png 300w, /imgs/2016/03/tochka1-1024x578.png 1024w" sizes="(max-width: 1030px) 100vw, 1030px" /></p>
     <p><strong> What features does Tochka currently offer that varies from other markets?</strong></p>
     <p><span style="font-weight: bold; color: #cc0000;">Tochka:</span></p>
     <ol>

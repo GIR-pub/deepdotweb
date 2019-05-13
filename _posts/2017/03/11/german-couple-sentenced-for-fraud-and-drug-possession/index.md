@@ -24,8 +24,7 @@ German Couple Sentenced For Fraud And Drug Possession
 <p>&#8220;She acted according to a kind of ostrich tactics, and actually suppressed the fact that she was harmed somehow,” a representative of the Tübingen Youth Judiciary told the court. She recommended to issue a warning to the woman. The representative also suggested sentencing the suspect to debt, and addiction counseling.</p>
 <p>The court followed the representative’s recommendation. The woman was sentenced to pay 2,000 euros (in installments of 250 euros) to one of the victims. Since the digital camera was not sold, it was given back to its rightful owner. Her friend was sentenced to pay 200 euros for drug possession. The fraud charges against him were dropped.</p>
 </div>
-<span style="display:none" class="updated">2017-03-11</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none" class="updated">2017-03-11<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>
 

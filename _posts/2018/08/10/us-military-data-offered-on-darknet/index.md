@@ -25,8 +25,7 @@ US Military Data Offered on Darknet
 <p>Previously, there was a controversy concerning leaked military data from NSA staff. The leaks were published on <a href="https://www.deepdotweb.com/2018/04/11/snowden-documents-reveal-the-nsa-has-been-tracking-bitcoin-users-since-at-least-2013/">wikileaks by Edward Snowden</a>. Baryservich called for improvement on strategies towards ensuring the security of sensitive military data.</p>
 <p>Meanwhile, investigations remain ongoing on the activities of the man. It is not clear whether he acted alone or on behalf of another country. It is however, more probable that he acted on his own. It is also not known if he just chanced on the router vulnerability or specifically targeted the military device.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/military/" rel="tag">military</a> <a href="https://www.deepdotweb.com/tag/offered/" rel="tag">offered</a></span> <span style="display:none" class="updated">2018-08-10</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/military/" rel="tag">military</a> <a href="https://www.deepdotweb.com/tag/offered/" rel="tag">offered</a></span> <span style="display:none" class="updated">2018-08-10<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
 </div>
 </article>
 

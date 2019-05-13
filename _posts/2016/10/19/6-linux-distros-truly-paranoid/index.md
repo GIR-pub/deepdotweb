@@ -12,10 +12,10 @@
     <div class="entry">
     <p>&nbsp;</p>
     <p>Previously, on Deepdotweb: I recommended five Linux distros you should check out in the article <a href="https://www.deepdotweb.com/2016/09/04/linux-distros-dark-web-explorers/">A Few Linux Distros For Dark Web Explorers</a>.</p>
-    <p><strong><img class="wp-image-15934 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-10.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-10.jpeg 236w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-10-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-10-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-10-50x50.jpeg 50w" sizes="(max-width: 236px) 100vw, 236px"/></strong></p>
+    <p><strong><img class="wp-image-15934 aligncenter" src="/imgs/2016/10/word-image-10.jpeg" srcset="/imgs/2016/10/word-image-10.jpeg 236w, /imgs/2016/10/word-image-10-150x150.jpeg 150w, /imgs/2016/10/word-image-10-55x55.jpeg 55w, /imgs/2016/10/word-image-10-50x50.jpeg 50w" sizes="(max-width: 236px) 100vw, 236px"/></strong></p>
     <p>So, I was asked to write a “sequel,” and as you probably know, it’s a challenge to make a sequel as good as the original. Nonetheless, there are a lot more Linux operating systems out there, and I managed to find a few that you all might want to check out.</p>
     <p><a href="https://subgraph.com/"><strong>Subgraph OS</strong></a></p>
-    <p><strong><img class="wp-image-15935 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-55.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-55.png 728w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-55-300x157.png 300w" sizes="(max-width: 728px) 100vw, 728px"/></strong></p>
+    <p><strong><img class="wp-image-15935 aligncenter" src="/imgs/2016/10/word-image-55.png" srcset="/imgs/2016/10/word-image-55.png 728w, /imgs/2016/10/word-image-55-300x157.png 300w" sizes="(max-width: 728px) 100vw, 728px"/></strong></p>
     <p>“What? Did you say Subgraph?” Yes &#8211; in spite of the fact that Subgraph OS is easy to learn and use, it is considered by many to be one of the most secure operating systems.</p>
     <p>In fact, <a href="https://thehackernews.com/2016/03/subgraph-secure-operating-system.html">The Hacker News</a> recently referred to it as a “secure Linux operating system for non-technical users.”</p>
     <p>Part of the reason that Subgraph OS (let’s just call it SOS) is geared toward noobs is that it comes with all the privacy and security options automatically configured. Plus, many other distros that emphasize security are very system resource-heavy, and can only be used with certain hardware.</p>
@@ -28,7 +28,7 @@
     </ul>
     <p>It has many other security features as well; see their site above for full details.</p>
     <p><a href="http://www.gettens.online/"><strong>Trusted End Node Security (TENS)</strong></a></p>
-    <p><strong><img class="wp-image-15936 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-56.png" width="1031" height="825" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-56.png 1280w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-56-300x240.png 300w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-56-1024x819.png 1024w" sizes="(max-width: 1031px) 100vw, 1031px"/></strong></p>
+    <p><strong><img class="wp-image-15936 aligncenter" src="/imgs/2016/10/word-image-56.png" width="1031" height="825" srcset="/imgs/2016/10/word-image-56.png 1280w, /imgs/2016/10/word-image-56-300x240.png 300w, /imgs/2016/10/word-image-56-1024x819.png 1024w" sizes="(max-width: 1031px) 100vw, 1031px"/></strong></p>
     <p>“The Distro Formerly Known as Lightweight Portable Security” is now formally called Trusted End Node Security (TENS).</p>
     <p>TENS, like Subgraph OS, creates a secure computing environment from trusted read-only media, and is designed for Intel-based computers. It boots a lightweight Linux-based operating system from a CD or USB drive (not unlike Tails and many of its contemporaries).</p>
     <p>It is designed to serve as a Secure End Node; it boots only in RAM. In essence, it can turn an untrustworthy system (e.g. a home computer) into a secure network client.</p>
@@ -39,15 +39,15 @@
     <p>It is compatible with Windows, Mac, Linux, Solaris, and other computers that include support for Java.</p>
     <p>Something you may (or may not) know is that the designers of TENS are none other than the U.S. Department of Defense, so I suppose it depends on how much you trust them!</p>
     <p>One thing to note: if you Google this OS (particularly in Chrome) and try to click on the first few results, you may get a warning like this:</p>
-    <p><img class="wp-image-15937 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-57.png" width="923" height="444" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-57.png 1592w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-57-300x144.png 300w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-57-1024x492.png 1024w" sizes="(max-width: 923px) 100vw, 923px"/></p>
+    <p><img class="wp-image-15937 aligncenter" src="/imgs/2016/10/word-image-57.png" width="923" height="444" srcset="/imgs/2016/10/word-image-57.png 1592w, /imgs/2016/10/word-image-57-300x144.png 300w, /imgs/2016/10/word-image-57-1024x492.png 1024w" sizes="(max-width: 923px) 100vw, 923px"/></p>
     <p>According to the DoD themselves, the links <em>are</em> secure; they go into more detail about it on their main site.</p>
     <p>Anyhow, the actual download link (the one that’s supposedly insecure) is here: <a href="https://spi.dod.mil/lipose.htm">Software Protection Initiative &#8211; Lightweight Portable Security</a>. Click at your own risk…</p>
     <p><a href="https://www.archlinux.org"><strong>Arch Linux</strong></a></p>
-    <p><strong><img class="wp-image-15938 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-58.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-58.png 640w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-58-300x188.png 300w" sizes="(max-width: 640px) 100vw, 640px"/></strong></p>
+    <p><strong><img class="wp-image-15938 aligncenter" src="/imgs/2016/10/word-image-58.png" srcset="/imgs/2016/10/word-image-58.png 640w, /imgs/2016/10/word-image-58-300x188.png 300w" sizes="(max-width: 640px) 100vw, 640px"/></strong></p>
     <p>Arch Linux, in the words of its creators, is “a lightweight and flexible Linux® distribution that tries to Keep It Simple.”</p>
     <p>It’s a Linux distro for computers based on IA-32, x86-64, and ARM architectures. AL is, for the most part, based around binary packages, which can easily assist performance on current hardware.</p>
     <p>To expedite frequent package changes, Arch Linux uses pacman (an abbreviation of “package manager”), developed by Judd Vinet; if you thought I was referring to the Atari game, sorry to disappoint you!</p>
-    <p><img class="wp-image-15939 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-59.png" width="890" height="430" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-59.png 1590w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-59-300x145.png 300w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-59-1024x495.png 1024w" sizes="(max-width: 890px) 100vw, 890px"/></p>
+    <p><img class="wp-image-15939 aligncenter" src="/imgs/2016/10/word-image-59.png" width="890" height="430" srcset="/imgs/2016/10/word-image-59.png 1590w, /imgs/2016/10/word-image-59-300x145.png 300w, /imgs/2016/10/word-image-59-1024x495.png 1024w" sizes="(max-width: 890px) 100vw, 890px"/></p>
     <p>Among some of the interesting packages you can find in the “package search” (on the main website) are <a href="https://www.archlinux.org/packages/extra/any/accerciser/">Accerciser</a>, an interactive Python accessibility explorer for the GNOME desktop; <a href="https://www.archlinux.org/packages/community/x86_64/wireshark-cli/">Wireshark CLI</a>, a free network protocol analyzer for Unix and Windows; and <a href="https://www.archlinux.org/packages/extra/x86_64/abiword/">AbiWord</a>, a fully-featured word processor.</p>
     <p>So yeah – that’s the fun stuff, but I’m sure you’re wondering: what are its security features?</p>
     <p>AL has quite a few “defensive features,” but they include:</p>
@@ -61,7 +61,7 @@
     <p>One of the reasons that strong passphrases are so integral to Arch Linux is that they’re used to protect many of its features, such as user accounts, encrypted filesystems, and SSH/GPG keys. If you don’t want total strangers snooping on those, then <em>please</em> don’t use a password like “password.”</p>
     <p>There’s a lot more to Arch Linux as well; to see some of its other applications, visit <a href="https://wiki.archlinux.org/index.php/List_of_applications">Arch Linux Wiki: List of Applications</a>.</p>
     <p><a href="http://cyborg.ztrela.com/"><strong>Cyborg Linux (a.k.a. Cyborg Hawk Linux)</strong></a></p>
-    <p><strong><img class="wp-image-15940 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-60.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-60.png 400w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-60-300x245.png 300w" sizes="(max-width: 400px) 100vw, 400px"/></strong></p>
+    <p><strong><img class="wp-image-15940 aligncenter" src="/imgs/2016/10/word-image-60.png" srcset="/imgs/2016/10/word-image-60.png 400w, /imgs/2016/10/word-image-60-300x245.png 300w" sizes="(max-width: 400px) 100vw, 400px"/></strong></p>
     <p>Is it weird that the name “Cyborg Linux” conjured up images of the Terminator and RoboCop in my head? No, probably not.</p>
     <p>Its creators boldly describe it as the “world’s most advanced, beautiful and powerful penetration distro ever.” Well, can they back it up?</p>
     <p>Cyborg Linux, like many other pen testing-oriented distros (such as Kali Linux), consists of an extensive variety of tools aimed at network investigation and vulnerability assessment. Among these are:</p>
@@ -75,7 +75,7 @@
     <p>It’s also completely free, which is quite handy, especially for those of us on a tight budget. To boot, it has full virtual machine support.</p>
     <p>Of course, I wouldn’t recommend it to a beginner, but that’s not whom it was intended for!</p>
     <p><a href="http://cyborg.ztrela.com/"><strong>Security Onion</strong></a></p>
-    <p><strong><img class="wp-image-15941 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-61.png" width="924" height="503" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-61.png 1428w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-61-300x163.png 300w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-61-1024x558.png 1024w" sizes="(max-width: 924px) 100vw, 924px"/></strong></p>
+    <p><strong><img class="wp-image-15941 aligncenter" src="/imgs/2016/10/word-image-61.png" width="924" height="503" srcset="/imgs/2016/10/word-image-61.png 1428w, /imgs/2016/10/word-image-61-300x163.png 300w, /imgs/2016/10/word-image-61-1024x558.png 1024w" sizes="(max-width: 924px) 100vw, 924px"/></strong></p>
     <p>Security Onion’s motto is “peel back the layers of your network.”</p>
     <p>It, like Cyborg Hawk and Arch Linux, is a Linux distro designed for both security and penetration testing. Security Onion is based on Ubuntu which, believe it or not, is <em>also</em> highly secure!</p>
     <p>Also like its Linux contemporaries, Security Onion is armed with a full repository of tools, including:</p>
@@ -91,7 +91,7 @@
     <p>As with other pen testing-oriented Linux distros, SO can take a fair amount of time to learn and get accustomed to, but once you do, you’re (almost) unstoppable. It’s nowhere near as simple as Subgraph OS, but it feels as though you can do a lot more with it.</p>
     <p>What I’m not sure of, at the moment, is whether it’s actually better than the other Linux distros that serve similar purposes. In order to determine which one is the best, you would have to have a competition of some kind. Hey guys – wanna have a “battle of the distros”?</p>
     <p><a href="https://www.pentoo.ch"><strong>Pentoo</strong></a></p>
-    <p><img class="wp-image-15942 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-11.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-11.jpeg 1024w, https://www.deepdotweb.com/wp-content/uploads/2016/10/word-image-11-300x225.jpeg 300w" sizes="(max-width: 1024px) 100vw, 1024px"/></p>
+    <p><img class="wp-image-15942 aligncenter" src="/imgs/2016/10/word-image-11.jpeg" srcset="/imgs/2016/10/word-image-11.jpeg 1024w, /imgs/2016/10/word-image-11-300x225.jpeg 300w" sizes="(max-width: 1024px) 100vw, 1024px"/></p>
     <p>Finally, there’s Pentoo, which, as its name implies, is also designed for pen testing.</p>
     <p>Pentoo is a security-focused live CD operating system based on <a href="https://www.gentoo.org/">Gentoo</a>. The major difference, with Pentoo, is that it includes many customized tools, such as:</p>
     <ul>

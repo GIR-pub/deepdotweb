@@ -104,5 +104,4 @@ The Decrypted SR2 User Table Dump
 <div class="wp-socializer-clearer"></div></div>
     
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/decrypted/" rel="tag">decrypted</a> <a href="https://www.deepdotweb.com/tag/dump/" rel="tag">dump</a> <a href="https://www.deepdotweb.com/tag/sr2/" rel="tag">sr2</a> <a href="https://www.deepdotweb.com/tag/table/" rel="tag">table</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a></span> <span style="display:none" class="updated">2015-02-13</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/decrypted/" rel="tag">decrypted</a> <a href="https://www.deepdotweb.com/tag/dump/" rel="tag">dump</a> <a href="https://www.deepdotweb.com/tag/sr2/" rel="tag">sr2</a> <a href="https://www.deepdotweb.com/tag/table/" rel="tag">table</a> <a href="https://www.deepdotweb.com/tag/user/" rel="tag">user</a></span> <span style="display:none" class="updated">2015-02-13

@@ -20,5 +20,4 @@ title: $1M Bail for Ross Ulbrich
 </div>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/1m/" rel="tag">1m</a> <a href="https://www.deepdotweb.com/tag/bail/" rel="tag">bail</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/ulbrich/" rel="tag">ulbrich</a>
-Updated: 2013-11-20</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+Updated: 2013-11-20

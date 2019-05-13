@@ -23,8 +23,7 @@ U.S. Healthcare Sector Records Rise in Data Breaches
 <p>However, on a positive side, about 84% of healthcare organizations plan on increasing or tightening their cybersecurity in the coming year.</p>
 <p>“When it comes to data security, the global healthcare industry is increasingly under duress, which is why some of this year’s findings are so counter-intuitive,” stated Peter Galvin, the chief strategy officer of Thales e-Security.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/breaches/" rel="tag">breaches</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/healthcare/" rel="tag">healthcare</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a> <a href="https://www.deepdotweb.com/tag/sector/" rel="tag">sector</a></span> <span style="display:none" class="updated">2018-03-19</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/breaches/" rel="tag">breaches</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/healthcare/" rel="tag">healthcare</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a> <a href="https://www.deepdotweb.com/tag/sector/" rel="tag">sector</a></span> <span style="display:none" class="updated">2018-03-19<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
 </div>
 </article>
 

@@ -34,8 +34,7 @@ title: The Silk Road Saga: Who is “The Employee”? – Part I
     
     
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/saga/" rel="tag">saga</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span>				
-Updated: 2013-11-05</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+Updated: 2013-11-05<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     
     
     

@@ -41,8 +41,7 @@ Bitcoin Price Analysis 22nd October
 <p><a href="/imgs/2015/10/91.png"><img class="aligncenter size-full wp-image-11836" src="/imgs/2015/10/91.png" alt="9" width="1256" height="539" srcset="/imgs/2015/10/91.png 1256w, /imgs/2015/10/91-300x129.png 300w, /imgs/2015/10/91-1024x439.png 1024w" sizes="(max-width: 1256px) 100vw, 1256px"/></a></p>
 <p>This year has been interesting to watch, as $200 support has formed a base for a repeating pattern. Soon or later, a decision will have to be made on whether the bear trend continues or a trend reversal marking $152 as the final bottom.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/22nd/" rel="tag">22nd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-10-22</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/22nd/" rel="tag">22nd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-10-22<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
 </div>
 </article>
 

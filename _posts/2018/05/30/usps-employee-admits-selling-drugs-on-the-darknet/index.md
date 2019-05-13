@@ -21,8 +21,7 @@ USPS Employee Admits Selling Drugs on the Darknet
 <p>Several law enforcement agencies raided Skinner’s house in 2018. They found a computer connected to the Dream market profile “DoggFood,” Priority Mail envelopes, stamps, Foodsaver vacuum sealers, $6,600, a 9mm Smith &amp; Wesson pistol and ammunition for a 9mm Luger pistol.</p>
 <p>His guilty plea forced him into a sentencing bracket with a mandatory minimum sentence of five years. The maximum will be determined on August 13 before U.S. District Judge Deborah K. Chasanow.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/usps/" rel="tag">usps</a></span> <span style="display:none" class="updated">2018-05-30</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/admits/" rel="tag">admits</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/usps/" rel="tag">usps</a></span> <span style="display:none" class="updated">2018-05-30<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

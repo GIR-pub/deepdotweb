@@ -22,8 +22,7 @@ Couple Arrested In France For Ordering Meth
 <p>“Even if they don’t have access to the capabilities, they can simply buy it on the darknet (a hidden internet realm of encrypted websites), where there is an enormous trade in cybercriminal technology. That said, attacking the critical national infrastructures at least of most countries is… not easily done, and it’s something that is not as immediate and showy as firing automatic weapons in a theater or in public,” Wainwright said.</p>
 <p>However, it still remains a question whether it is worth for terrorist groups to use the dark net for weapon importation. Since almost all transactions on the dark web are conducted in bitcoins, which could be traced back using the public blockchain, the dark web would seem as a risky source for firearms purchase.</p>
 </div>
-<span style="display:none" class="updated">2017-03-03</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none" class="updated">2017-03-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>
 

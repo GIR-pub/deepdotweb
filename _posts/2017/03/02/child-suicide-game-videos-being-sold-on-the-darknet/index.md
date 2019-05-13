@@ -27,8 +27,7 @@ Child Suicide “Game” Videos Being Sold on the Darknet
 <p>The streams, now in a recorded format, found their way throughout the darknet; the group&#8217;s administrator sold each video for being amounts of Bitcoin, depending on unknown factors.</p>
 <p>A similar investigation is underway in Russia.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/game/" rel="tag">game</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/suicide/" rel="tag">suicide</a> <a href="https://www.deepdotweb.com/tag/videos/" rel="tag">videos</a></span> <span style="display:none" class="updated">2017-03-02</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/game/" rel="tag">game</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/suicide/" rel="tag">suicide</a> <a href="https://www.deepdotweb.com/tag/videos/" rel="tag">videos</a></span> <span style="display:none" class="updated">2017-03-02<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

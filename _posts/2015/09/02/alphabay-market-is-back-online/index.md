@@ -21,5 +21,4 @@ Alphabay Market: Back Online With Upgraded infrastructure
 <li class="ok"><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">AlphaBay</a></strong></li>
 </ul>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/infrastructure/" rel="tag">infrastructure</a>  <a href="https://www.deepdotweb.com/tag/upgraded/" rel="tag">upgraded</a></span> <span style="display:none" class="updated">2015-09-02</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/infrastructure/" rel="tag">infrastructure</a>  <a href="https://www.deepdotweb.com/tag/upgraded/" rel="tag">upgraded</a></span> <span style="display:none" class="updated">2015-09-02

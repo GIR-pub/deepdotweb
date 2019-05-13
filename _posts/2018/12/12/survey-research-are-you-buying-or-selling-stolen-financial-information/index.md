@@ -23,8 +23,7 @@ Survey/Research: Are you buying or selling stolen financial information?
 <p><strong>ICQ: </strong>745764641</p>
 <p><strong>Public Key PGP: </strong>http://fopvitnzpm5jl4or.onion/pgp.html</p>
 </div>
-<span style="display:none" class="updated">2018-12-12</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
+<span style="display:none" class="updated">2018-12-12<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
 </div>
 </article>
 

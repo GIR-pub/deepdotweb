@@ -29,8 +29,7 @@ Alphabay to Add Ethereum Support in May
 <p><a href="https://trends.google.com/trends/explore?q=ethereum"><em>Google&#8217;s “Interest over time” for Ethereum</em></a></p>
 <p>So that&#8217;s where we stand following the Alphabay announcement. Arguments surrounding the benefit this step provides—or lack thereof—dominate the Reddit posts. Darknetmarket enthusiasts at asking about the privacy. Ethereum backers debating the cost of an increased level of publicity derived from criminal activity.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/add/" rel="tag">add</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a> <a href="https://www.deepdotweb.com/tag/support/" rel="tag">support</a></span> <span style="display:none" class="updated">2017-03-22</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/add/" rel="tag">add</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a> <a href="https://www.deepdotweb.com/tag/support/" rel="tag">support</a></span> <span style="display:none" class="updated">2017-03-22<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

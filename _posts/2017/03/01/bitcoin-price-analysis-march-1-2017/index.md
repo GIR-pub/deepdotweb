@@ -42,8 +42,7 @@ Bitcoin Price analysis March 1 2017
 <p>“<em>the end is at hand or near. BTCUSD smells a lot like Silver did in 2011. If the blow off in Bitcoins is not THE end, then it&#8217;s the beginning of the end.”</p>
 <p></em> Contact this author at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cba9a2bfa8a4a2a5a6aab9a0aebfaaa5aaa7b2b8bf8baca6aaa2a7e5a8a4">[email&#160;protected]</a><em>m</em></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2017-03-01</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/2017/" rel="tag">2017</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2017-03-01<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
 </div>
 </article>
 

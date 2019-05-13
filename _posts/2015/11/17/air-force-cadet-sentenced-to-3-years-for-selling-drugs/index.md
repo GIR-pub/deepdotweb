@@ -22,7 +22,7 @@ Air Force Cadet Sentenced To 3 Years For Selling Drugs
     <p>Frank Spinner, Penalosa&#8217;s civilian lawyer, stated that the former cadet regrets dealing drugs at the school:</p>
     <p>&#8220;His only thought is what have I done to my mother.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/air/" rel="tag">air</a> <a href="https://www.deepdotweb.com/tag/cadet/" rel="tag">cadet</a> <a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2015-11-17</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/air/" rel="tag">air</a> <a href="https://www.deepdotweb.com/tag/cadet/" rel="tag">cadet</a>  <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2015-11-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

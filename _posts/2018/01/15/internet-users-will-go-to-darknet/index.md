@@ -28,8 +28,7 @@ Internet users will go to darknet In Russia
 <p>Some countries impose liability for using such resources. In United Arab Emirates a person can be imprisoned for using VPN and proxy.</p>
 <p><a id="post-24421-_gjdgxs"></a> By the way it may be a logical extension for the Russian history. Firstly, websites are banned, secondly bypass services and tools are banned, and eventually the users are punished. I will not be surprised if a law criminalizing &#8220;an attempt to access prohibited information&#8221; is enacted next year.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2018-01-15</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2018-01-15<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
 </div>
 </article>
 

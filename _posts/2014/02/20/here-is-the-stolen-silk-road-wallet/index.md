@@ -15,9 +15,9 @@ Here is the Stolen Silk Road Wallet?
     <p>The live listing is here: http://silkroad6ownowfk.onion/items/here-is-the-stolen-silk-rd-wallet<br/>
     Reddit discussion is here: http://www.reddit.com/r/SilkRoad/comments/1yecja/the_hackers_btc_wallet_found/<br/>
     Another interesting read about the &#8220;Hack&#8221; on bitcointalk.org  forums: https://bitcointalk.org/index.php?topic=463896.0;all</p>
-    <p><a href="/imgs/2014/02/walletdfd.png"><img class="aligncenter  wp-image-4354" alt="walletdfd" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/walletdfd.png" width="455" height="234" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/walletdfd.png 1142w, https://www.deepdotweb.com/wp-content/uploads/2014/02/walletdfd-300x154.png 300w, https://www.deepdotweb.com/wp-content/uploads/2014/02/walletdfd-1024x527.png 1024w" sizes="(max-width: 455px) 100vw, 455px"/></a></p>
+    <p><a href="/imgs/2014/02/walletdfd.png"><img class="aligncenter  wp-image-4354" alt="walletdfd" src="/imgs/2014/02/walletdfd.png" width="455" height="234" srcset="/imgs/2014/02/walletdfd.png 1142w, /imgs/2014/02/walletdfd-300x154.png 300w, /imgs/2014/02/walletdfd-1024x527.png 1024w" sizes="(max-width: 455px) 100vw, 455px"/></a></p>
     <div>
-    <p><a href="/imgs/2014/02/pic2.png"><img class="aligncenter  wp-image-4357" alt="Wallet pic 2" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/pic2.png" width="532" height="290" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/pic2.png 784w, https://www.deepdotweb.com/wp-content/uploads/2014/02/pic2-300x164.png 300w" sizes="(max-width: 532px) 100vw, 532px"/></a></p>
+    <p><a href="/imgs/2014/02/pic2.png"><img class="aligncenter  wp-image-4357" alt="Wallet pic 2" src="/imgs/2014/02/pic2.png" width="532" height="290" srcset="/imgs/2014/02/pic2.png 784w, /imgs/2014/02/pic2-300x164.png 300w" sizes="(max-width: 532px) 100vw, 532px"/></a></p>
     <p><strong>===Start Quote===</strong></p>
     <p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br/>
     BBMC is a full member of the British Tor Vendors Association (BTVA)<br/>

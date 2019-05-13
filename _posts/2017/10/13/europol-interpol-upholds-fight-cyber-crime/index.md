@@ -39,8 +39,7 @@ Europol and Interpol Upholds Fight against Cyber Crime
 <p>“In just a few years, this event has become a leading name within the global community of cyber crime fighters,” Mr. Wilson said.</p>
 <p>“With the conference already behind us, it is now time to start working on fulfilling the objectives jointly agreed [upon] with Interpol. So, let’s get to work and remain actively united for a safer cyberspace.”</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/interpol/" rel="tag">interpol</a> <a href="https://www.deepdotweb.com/tag/upholds/" rel="tag">upholds</a></span> <span style="display:none" class="updated">2017-10-13</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/interpol/" rel="tag">interpol</a> <a href="https://www.deepdotweb.com/tag/upholds/" rel="tag">upholds</a></span> <span style="display:none" class="updated">2017-10-13<a href="https://www.deepdotweb.com/author/kofi/" title="Posts by Kofi Anash" rel="author">Kofi Anash</a></strong></div>
 </div>
 </article>
 

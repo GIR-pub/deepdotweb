@@ -82,8 +82,7 @@ tag-chip tag-mixer tag-review">
 <li>While donations motivate the system and provide the customer service needed, it seems like Chipmixer.com makes requests for donations throughout their site excessively.</li>
 </ul>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/chip/" rel="tag">chip</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2018-01-21</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/chip/" rel="tag">chip</a> <a href="https://www.deepdotweb.com/tag/mixer/" rel="tag">mixer</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2018-01-21<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
 </div>
 </article>
 

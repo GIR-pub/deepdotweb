@@ -43,7 +43,7 @@ Utah Man Faces Life Sentence for Selling Drugs on the Darknet
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/faces/" rel="tag">faces</a> <a href="https://www.deepdotweb.com/tag/life/" rel="tag">life</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/utah/" rel="tag">utah</a></span>				<span style="display:none" class="updated">2017-07-16</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/faces/" rel="tag">faces</a> <a href="https://www.deepdotweb.com/tag/life/" rel="tag">life</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentence/" rel="tag">sentence</a> <a href="https://www.deepdotweb.com/tag/utah/" rel="tag">utah</a></span>				<span style="display:none" class="updated">2017-07-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
     
     

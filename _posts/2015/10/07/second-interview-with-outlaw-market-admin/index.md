@@ -53,5 +53,4 @@ Second Interview With Outlaw Market Admin
 <p>Yes, sort of. More and more people seem not to care about security at all. Mathematicially, it&#8217;s correct thinking &#8212; the more people using those services lowers the risk to the individual. But actually, things are different, as LE and scammers place honeypots and fish for exactly those who care less about safety than a fast and fancy GUI for example.</p>
 <p>Anyway, I have noticed that there is a steadily growing group of people who do understand about security; these are the type of people OUTLAW market attracts as users!</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a></span> <span style="display:none" class="updated">2015-10-07</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a></span> <span style="display:none" class="updated">2015-10-07

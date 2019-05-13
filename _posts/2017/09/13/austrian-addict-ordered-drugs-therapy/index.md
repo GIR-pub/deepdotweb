@@ -21,7 +21,7 @@ Austrian Addict Ordered Drugs During Therapy
     <p>Since the 25-year-old breached the conditions, which were previously imposed by the court, the judge sentenced the defendant to 18 months in prison with 11 months already imposed conditionally. According to the court documents, the previous sentence of the court will be revoked, however, this is not legally binding.</p>
     <p>Since it was not clear whether the 25-year-old is eligible for another drug treatment, the judge ordered an evaluation by a psychiatrist to decide whether the defendant is willing to participate in a drug treatment program.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/addict/" rel="tag">addict</a> <a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/ordered/" rel="tag">ordered</a> <a href="https://www.deepdotweb.com/tag/therapy/" rel="tag">therapy</a></span> <span style="display:none" class="updated">2017-09-13</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/addict/" rel="tag">addict</a> <a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a>  <a href="https://www.deepdotweb.com/tag/ordered/" rel="tag">ordered</a> <a href="https://www.deepdotweb.com/tag/therapy/" rel="tag">therapy</a></span> <span style="display:none" class="updated">2017-09-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

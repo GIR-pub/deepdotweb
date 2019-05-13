@@ -79,5 +79,4 @@ Interview With Valhalla (Silkkitie) Admin
 <p><strong>Anything else interesting you want to share with the readers?</strong></p>
 <p>Stay tuned in, Valhalla will be along with all the progress, there will be interesting times ahead as we continue on the road to success and evolve with the new technology.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/silkkitie/" rel="tag">silkkitie</a> <a href="https://www.deepdotweb.com/tag/valhalla/" rel="tag">valhalla</a></span> <span style="display:none" class="updated">2015-10-16</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/silkkitie/" rel="tag">silkkitie</a> <a href="https://www.deepdotweb.com/tag/valhalla/" rel="tag">valhalla</a></span> <span style="display:none" class="updated">2015-10-16

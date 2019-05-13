@@ -33,5 +33,4 @@ title: Press Release: Family of alleged Silk Road Operator Ross Ulbricht Launche
 </div>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/family/" rel="tag">family</a> <a href="https://www.deepdotweb.com/tag/fund/" rel="tag">fund</a> <a href="https://www.deepdotweb.com/tag/launches/" rel="tag">launches</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/operator/" rel="tag">operator</a> <a href="https://www.deepdotweb.com/tag/press/" rel="tag">press</a> <a href="https://www.deepdotweb.com/tag/release/" rel="tag">release</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a>
-Updated: 2013-11-21</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+Updated: 2013-11-21

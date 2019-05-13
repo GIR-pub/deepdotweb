@@ -30,7 +30,7 @@ Introduction To Sidechains and Blockchain 2.0
     <p><strong>What are the Implications of Sidechains?</strong></p>
     <p>Sidechains with specific purposes could be formed with specific features while still enjoying the widespread adoption and value that Bitcoin holds.  Most importantly it can add these features without consensus from the Bitcoin community. Sidechains have the potential to replace many Cryptocurrencies as it allows features that were previously unique to these currencies to be available on Bitcoin. It also allows developers to experiment with sidechains and scope its full potential while still keeping coins linked to Bitcoin.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/sidechains/" rel="tag">sidechains</a></span> <span style="display:none" class="updated">2014-06-26</span>
+     <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/sidechains/" rel="tag">sidechains</a></span> <span style="display:none" class="updated">2014-06-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
     </div>
 </article>

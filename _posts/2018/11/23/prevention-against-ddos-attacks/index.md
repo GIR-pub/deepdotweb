@@ -30,8 +30,7 @@ tag-attacks tag-ddos tag-prevention">
 <p><strong>Final thoughts:</strong></p>
 <p>The proposed method offers an effective defense mechanism strategy against DDoS attacks, and it also prevents other forms of malicious attacks from compromising networks and websites. The main function of the proposed method is to control the traffic nature and protect servers from attackers&#8217; hosts.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/prevention/" rel="tag">prevention</a></span> <span style="display:none" class="updated">2018-11-23</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/prevention/" rel="tag">prevention</a></span> <span style="display:none" class="updated">2018-11-23<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
 </div>
 </article>
 

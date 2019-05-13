@@ -19,8 +19,7 @@ Australian Drug Trafficker Caught Using His Own PO Box
 <p>The defense attorney, Mark Semmens, said that his client should not receive any jail time for the crimes, even though the court emphasized how severe the charges were. He said that his client had recently broken up with his significant other and that Prime was in “a rather chaotic state.” Semmens argued that incarceration would be cruel to the 32-year-old’s parents.</p>
 <p>Judge Rauf Soulio ruled to sentence Prime in March.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/australian/" rel="tag">australian</a> <a href="https://www.deepdotweb.com/tag/box/" rel="tag">box</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a>  <a href="https://www.deepdotweb.com/tag/po/" rel="tag">po</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a></span> <span style="display:none" class="updated">2018-01-16</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/australian/" rel="tag">australian</a> <a href="https://www.deepdotweb.com/tag/box/" rel="tag">box</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a>  <a href="https://www.deepdotweb.com/tag/po/" rel="tag">po</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a></span> <span style="display:none" class="updated">2018-01-16<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

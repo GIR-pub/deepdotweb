@@ -127,8 +127,7 @@ The  Story of an Italian Unlucky Cyber Pusher
 <p id="5f24" class="graf--p" data-align="center">Peercoin: PVjwUHxFsr4Ld1ShaibdmVvLh96nvoUfQE</p>
 <p id="4969" class="graf--p graf--last" data-align="center">Blackcoin: BdyYjvTMpdbtnJw9FbZfRnYpKoxCEr6UTH</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/pusher/" rel="tag">pusher</a> <a href="https://www.deepdotweb.com/tag/story/" rel="tag">story</a> <a href="https://www.deepdotweb.com/tag/unlucky/" rel="tag">unlucky</a></span> <span style="display:none" class="updated">2015-08-10</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/unluckycyberpusher/" title="Posts by Unluckycyberpusher" rel="author">Unluckycyberpusher</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/pusher/" rel="tag">pusher</a> <a href="https://www.deepdotweb.com/tag/story/" rel="tag">story</a> <a href="https://www.deepdotweb.com/tag/unlucky/" rel="tag">unlucky</a></span> <span style="display:none" class="updated">2015-08-10<a href="https://www.deepdotweb.com/author/unluckycyberpusher/" title="Posts by Unluckycyberpusher" rel="author">Unluckycyberpusher</a></strong></div>
 </div>
 </article>
 

@@ -25,5 +25,4 @@ title: Silk Road reloaded: Tor/i2p distro client released!
 <p>Come on guys we are waiting for you!</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/client/" rel="tag">client</a> <a href="https://www.deepdotweb.com/tag/distro/" rel="tag">distro</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="https://www.deepdotweb.com/tag/reloaded/" rel="tag">reloaded</a>  <a href="https://www.deepdotweb.com/tag/tori2p/" rel="tag">tori2p</a>
-Updated: 2013-11-12</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+Updated: 2013-11-12

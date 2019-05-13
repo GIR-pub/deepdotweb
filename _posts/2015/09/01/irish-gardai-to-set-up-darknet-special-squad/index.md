@@ -15,8 +15,7 @@ Irish Gardaí To Set Up Darknet Special Squad
 <p>” Gardaí have established an ad-hoc specialist undercover cyber crime unit to target drug dealers and other criminals using the dark net to do their business.”</p>
 <p>We haven’t heard much news about darknet dealings on the darknet (arrests, police busts, etc.), however, <a href="https://www.deepdotweb.com/2014/11/06/major-darknet-related-bust-ireland/">Operation Onymous has resulted in the raid of a ”darknet distribution center” in Dublin</a>. The Gardaí has reached the drug dealers via the dark web and has seized more than $200.000 worth of drugs, including LSD, ecstasy, and weed. The ”darknet distribution center” term has been used in the official article about the bust, however, it was, most probably, an Irish Vendor on SR2 before the Gardaí has busted the two men in late 2014.</p>
 </div>
-<span style="display:none" class="updated">2015-09-01</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none" class="updated">2015-09-01<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>
 

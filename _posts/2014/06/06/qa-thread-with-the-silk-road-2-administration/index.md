@@ -17,7 +17,7 @@ Q&#038;A Thread With The Silk Road 2 Administration
     <p>Large changes are in store for this community. This year will be remembered. Your loyalty is enabling a historic repayment.</p>
     <p>Post questions here. We will answer for two hours beginning in one hour from now.</p>
     <p>And, hello.</p></blockquote>
-    <p><a href="/imgs/2014/06/khufu.png"><img class="aligncenter  wp-image-5903" src="https://www.deepdotweb.com/wp-content/uploads/2014/06/khufu.png" alt="khufu" width="734" height="281" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/06/khufu.png 940w, https://www.deepdotweb.com/wp-content/uploads/2014/06/khufu-300x115.png 300w" sizes="(max-width: 734px) 100vw, 734px"/></a></p>
+    <p><a href="/imgs/2014/06/khufu.png"><img class="aligncenter  wp-image-5903" src="/imgs/2014/06/khufu.png" alt="khufu" width="734" height="281" srcset="/imgs/2014/06/khufu.png 940w, /imgs/2014/06/khufu-300x115.png 300w" sizes="(max-width: 734px) 100vw, 734px"/></a></p>
     <p>And these are the published questions and answers that were posted on this thread (will update if he answers more questions):<br/>
     <strong>Why is the conversion rate that SR uses incorrect? &#8211; SensiJackSilver</strong></p>
     <p>Maintaining an accurate average conversion rate across bitcoin exchanges, and across currencies, has proven to be very difficult. We are examining ways to improve its accuracy. Historically, any changes we have made to how we calculate our conversion rates have caused many complaints. Fix conversions for one currency, another becomes less accurate. This is a priority, but does not compare to higher priorities involving keeping the marketplace online.</p>

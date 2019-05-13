@@ -65,5 +65,4 @@ Darkleaks: Black Market for Secrets
 <p class="graf--p"><strong>Article Source: <a href="https://medium.com/@ZozanCudi/darkleaks-information-blackmarket-1ee5ac28c892" target="_blank">https://medium.com/@ZozanCudi/darkleaks-information-blackmarket-1ee5ac28c892</a></strong></p>
 </div>
 </div>
- <a href="https://www.deepdotweb.com/tag/darkleaks/" rel="tag">darkleaks</a> <a href="https://www.deepdotweb.com/tag/secrets/" rel="tag">secrets</a></span> <span style="display:none" class="updated">2015-02-04</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+ <a href="https://www.deepdotweb.com/tag/darkleaks/" rel="tag">darkleaks</a> <a href="https://www.deepdotweb.com/tag/secrets/" rel="tag">secrets</a></span> <span style="display:none" class="updated">2015-02-04

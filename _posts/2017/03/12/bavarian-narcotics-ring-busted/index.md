@@ -24,8 +24,7 @@ Bavarian Narcotics Ring Busted
 <p>According to police information, NpS are usually offered on the internet, including the dark web. The substances often contain drugs, stimulants, or similar chemical agents, which are not indicated on the packaging.</p>
 <p>Law enforcement authorities continue the extensive investigation of the criminal group.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bavarian/" rel="tag">bavarian</a> <a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a></span> <span style="display:none" class="updated">2017-03-12</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/bavarian/" rel="tag">bavarian</a> <a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a></span> <span style="display:none" class="updated">2017-03-12<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>
 

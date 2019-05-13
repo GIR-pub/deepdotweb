@@ -70,8 +70,7 @@ tag-bitmessage tag-encrypted tag-messaging">
 <p><img class="wp-image-18564 aligncenter" src="/imgs/2017/03/word-image-34.png" srcset="/imgs/2017/03/word-image-34.png 1003w, /imgs/2017/03/word-image-34-300x120.png 300w" sizes="(max-width: 1003px) 100vw, 1003px" /></p>
 <p>Well done! Bitmessage is now activated on the market. Enjoy your new desktop notifications.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bitmessage/" rel="tag">bitmessage</a> <a href="https://www.deepdotweb.com/tag/encrypted/" rel="tag">encrypted</a> <a href="https://www.deepdotweb.com/tag/messaging/" rel="tag">messaging</a></span> <span style="display:none" class="updated">2017-03-10</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/bitmessage/" rel="tag">bitmessage</a> <a href="https://www.deepdotweb.com/tag/encrypted/" rel="tag">encrypted</a> <a href="https://www.deepdotweb.com/tag/messaging/" rel="tag">messaging</a></span> <span style="display:none" class="updated">2017-03-10<a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
 </div>
 </article>
 

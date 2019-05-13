@@ -26,8 +26,7 @@ Romania Police Arrest a Darknet Ransomware Gang of Five
 <p>It is speculated that North Korea hacked bitcoin from individuals and the various agencies to balance their economic variables following the sanctions leveled against them by the US government.</p>
 <p>Cybercrime can be prevented by undertaking proactive measures such as updating a computer’s antivirus and taking basic ethics of internet usage serious.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/gang/" rel="tag">gang</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/romania/" rel="tag">romania</a></span> <span style="display:none" class="updated">2018-01-12</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/gang/" rel="tag">gang</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/romania/" rel="tag">romania</a></span> <span style="display:none" class="updated">2018-01-12<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
 </div>
 </article>
 

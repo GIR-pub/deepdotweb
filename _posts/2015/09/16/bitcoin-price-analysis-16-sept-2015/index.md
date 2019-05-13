@@ -35,8 +35,7 @@ Bitcoin Price Analysis 16 sept 2015
 <p><a href="/imgs/2015/09/52.jpg"><img class="aligncenter size-full wp-image-11558" src="/imgs/2015/09/52.jpg" alt="5" width="1020" height="422" srcset="/imgs/2015/09/52.jpg 1020w, /imgs/2015/09/52-300x124.jpg 300w" sizes="(max-width: 1020px) 100vw, 1020px"/></a></p>
 <p>At this point, looking at price projections in the mid -term is best, as the market is at a critical level. Look out for an analysis report on the midterm to long term price outlook, and the real possibility of $ 100 coins!</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/sept/" rel="tag">sept</a></span> <span style="display:none" class="updated">2015-09-16</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/sept/" rel="tag">sept</a></span> <span style="display:none" class="updated">2015-09-16<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
 </div>
 </article>
 

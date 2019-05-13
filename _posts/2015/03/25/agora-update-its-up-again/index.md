@@ -16,5 +16,4 @@ Agora Update: Its Up again!
 <p><a href="/imgs/2015/03/Agora-itsalive.png"><img class="aligncenter  wp-image-9652" src="/imgs/2015/03/Agora-itsalive.png" alt="Agora-itsalive" width="817" height="445" srcset="/imgs/2015/03/Agora-itsalive.png 1374w, /imgs/2015/03/Agora-itsalive-300x163.png 300w, /imgs/2015/03/Agora-itsalive-1024x557.png 1024w" sizes="(max-width: 817px) 100vw, 817px"/></a></p>
 <p><strong>Be patient &#8211; the market will be VERY slow, due to the tremendous load. </strong></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-03-25</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-03-25

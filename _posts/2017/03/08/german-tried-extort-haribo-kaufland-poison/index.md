@@ -35,8 +35,7 @@ German Tried To Extort Haribo And Kaufland With Poison
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/extort/" rel="tag">extort</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/haribo/" rel="tag">haribo</a> <a href="https://www.deepdotweb.com/tag/kaufland/" rel="tag">kaufland</a> <a href="https://www.deepdotweb.com/tag/poison/" rel="tag">poison</a></span>				<span style="display:none" class="updated">2017-03-08</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/extort/" rel="tag">extort</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/haribo/" rel="tag">haribo</a> <a href="https://www.deepdotweb.com/tag/kaufland/" rel="tag">kaufland</a> <a href="https://www.deepdotweb.com/tag/poison/" rel="tag">poison</a></span>				<span style="display:none" class="updated">2017-03-08<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     
 </div><!-- .post-inner -->

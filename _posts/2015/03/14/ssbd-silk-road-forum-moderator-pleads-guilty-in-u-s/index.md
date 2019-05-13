@@ -59,5 +59,4 @@ SSBD, Silk Road Forum Moderator, Pleads Guilty in U.S.
 <div class="wp-socializer-clearer"></div></div>
     
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a>  <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a></span> <span style="display:none" class="updated">2015-03-14</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a>  <a href="https://www.deepdotweb.com/tag/moderator/" rel="tag">moderator</a>   <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a></span> <span style="display:none" class="updated">2015-03-14

@@ -181,7 +181,7 @@ All You Need To Know About Passwords
     </table>
     <p>X axis &#8211; password length in for 36 charset (letters and numbers)</p>
     <p>Y axis &#8211; days to crack</p>
-    <p><img class="wp-image-16406" src="https://www.deepdotweb.com/wp-content/uploads/2016/11/word-image-20.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/11/word-image-20.png 850w, https://www.deepdotweb.com/wp-content/uploads/2016/11/word-image-20-300x185.png 300w" sizes="(max-width: 850px) 100vw, 850px" /></p>
+    <p><img class="wp-image-16406" src="/imgs/2016/11/word-image-20.png" srcset="/imgs/2016/11/word-image-20.png 850w, /imgs/2016/11/word-image-20-300x185.png 300w" sizes="(max-width: 850px) 100vw, 850px" /></p>
     <p>Blue &#8211; Time in the first case was an experiment with previously mentioned Pentum 4D, 3.2 Ghz processor, affordable processing power for an individual.</p>
     <p>Red &#8211; Time in the second case represents someone that can use 5 000 such processors.</p>
     <p>We can see length 12 is sweet, it&#8217;s even more safe if we expand the character set to uppercase and lowercase letters, numbers and punctuation signs. Number of possible characters is 126:</p>
@@ -251,7 +251,7 @@ All You Need To Know About Passwords
     </table>
     <p>X axis – password length in 126 charset</p>
     <p>Y axis – days to crack</p>
-    <p><img class="wp-image-16407" src="https://www.deepdotweb.com/wp-content/uploads/2016/11/word-image-21.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/11/word-image-21.png 850w, https://www.deepdotweb.com/wp-content/uploads/2016/11/word-image-21-300x185.png 300w" sizes="(max-width: 850px) 100vw, 850px" /></p>
+    <p><img class="wp-image-16407" src="/imgs/2016/11/word-image-21.png" srcset="/imgs/2016/11/word-image-21.png 850w, /imgs/2016/11/word-image-21-300x185.png 300w" sizes="(max-width: 850px) 100vw, 850px" /></p>
     <p>Blue &#8211; Time in the first case was an experiment with previously mentioned Pentum 4D, 3.2 Ghz processor, affordable processing power for an individual.</p>
     <p>Red &#8211; Time in the second case represents someone that can use 5 000 such processors.</p>
     <p><strong>Conclusion</strong></p>

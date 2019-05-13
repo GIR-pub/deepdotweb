@@ -32,8 +32,7 @@ Headmaster Uploaded Student CP to Darknet Forums
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/cp/" rel="tag">cp</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/headmaster/" rel="tag">headmaster</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/uploaded/" rel="tag">uploaded</a></span>				<span style="display:none" class="updated">2017-03-31</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/cp/" rel="tag">cp</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/headmaster/" rel="tag">headmaster</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/uploaded/" rel="tag">uploaded</a></span>				<span style="display:none" class="updated">2017-03-31<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     
 </div><!-- .post-inner -->

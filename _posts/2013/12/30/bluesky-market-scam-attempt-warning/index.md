@@ -10,13 +10,13 @@ title: BlueSky Marketplace Scam Attempt Warning
 
 
 <p><strong><span style="text-decoration: underline;">Update</span></strong>:  <strong>Apparently the blue sky marketplace admins suggested it was a misunderstanding. and OP was updated so the issue was solved. Reddit post of the admins:</strong></p>
-<p><a href="/imgs/2013/12/bsupdate.png"><img class="aligncenter  wp-image-3048" alt="bsupdate" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/bsupdate.png" width="659" height="307" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/12/bsupdate.png 895w, https://www.deepdotweb.com/wp-content/uploads/2013/12/bsupdate-300x140.png 300w" sizes="(max-width: 659px) 100vw, 659px"/></a></p>
+<p><a href="/imgs/2013/12/bsupdate.png"><img class="aligncenter  wp-image-3048" alt="bsupdate" src="/imgs/2013/12/bsupdate.png" width="659" height="307" srcset="/imgs/2013/12/bsupdate.png 895w, /imgs/2013/12/bsupdate-300x140.png 300w" sizes="(max-width: 659px) 100vw, 659px"/></a></p>
 <p><strong> Op confirming the mistake:</strong></p>
-<p><a href="/imgs/2013/12/OP.png"><img class="aligncenter  wp-image-3049" alt="OP" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/OP.png" width="692" height="563" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/12/OP.png 939w, https://www.deepdotweb.com/wp-content/uploads/2013/12/OP-300x244.png 300w" sizes="(max-width: 692px) 100vw, 692px"/></a></p>
+<p><a href="/imgs/2013/12/OP.png"><img class="aligncenter  wp-image-3049" alt="OP" src="/imgs/2013/12/OP.png" width="692" height="563" srcset="/imgs/2013/12/OP.png 939w, /imgs/2013/12/OP-300x244.png 300w" sizes="(max-width: 692px) 100vw, 692px"/></a></p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;">The story was &#8211; NOTE that this is confirmed as misunderstanding:</span></p>
 <p>A Vendor just posted today a detailed report, explaining how to blue sky marketplace owners tried running imposter accounts of known vendors in order to scam buyers into trusting their old vendors, the owners even had the nerve to post the PGP signed message that the vendor sent support &#8211; right on the vendor profile page, that was also copied from SR1 (original thread here: http://silkroad5v7dywlc.onion/index.php?topic=12591.0;topicseen) :</p>
-<p><a href="/imgs/2013/12/bluesky.png"><img class="aligncenter  wp-image-3016" alt="bluesky scam" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/bluesky.png" width="736" height="678" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/12/bluesky.png 944w, https://www.deepdotweb.com/wp-content/uploads/2013/12/bluesky-300x276.png 300w" sizes="(max-width: 736px) 100vw, 736px"/></a></p>
+<p><a href="/imgs/2013/12/bluesky.png"><img class="aligncenter  wp-image-3016" alt="bluesky scam" src="/imgs/2013/12/bluesky.png" width="736" height="678" srcset="/imgs/2013/12/bluesky.png 944w, /imgs/2013/12/bluesky-300x276.png 300w" sizes="(max-width: 736px) 100vw, 736px"/></a></p>
 <p><strong>===End Quote===</strong></p>
 <p>The message:</p>
 <p>Ok every one,</p>
@@ -35,7 +35,7 @@ title: BlueSky Marketplace Scam Attempt Warning
 <p>Stay safe people, stay diligent</p>
 <p><strong>===End Quote===</strong></p>
 <p>The vendor also posted the support ticket that was closed by the admins:</p>
-<p><a href="/imgs/2013/12/bluesky2.png"><img class="aligncenter  wp-image-3017" alt="bluesky2" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/bluesky2.png" width="608" height="430" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/12/bluesky2.png 943w, https://www.deepdotweb.com/wp-content/uploads/2013/12/bluesky2-300x212.png 300w" sizes="(max-width: 608px) 100vw, 608px"/></a></p>
+<p><a href="/imgs/2013/12/bluesky2.png"><img class="aligncenter  wp-image-3017" alt="bluesky2" src="/imgs/2013/12/bluesky2.png" width="608" height="430" srcset="/imgs/2013/12/bluesky2.png 943w, /imgs/2013/12/bluesky2-300x212.png 300w" sizes="(max-width: 608px) 100vw, 608px"/></a></p>
 <p>This warning adds up to previous warnings about Blue Sky Marketplace spamming forums &#8211; and some other account issues &#8211; the marketplace does not have a forum so we could not get any more responses about this matter. Read this information and decide for yourself if you should trust such marketplace with your funds.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/attempt/" rel="tag">attempt</a> <a href="https://www.deepdotweb.com/tag/bluesky/" rel="tag">bluesky</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a>

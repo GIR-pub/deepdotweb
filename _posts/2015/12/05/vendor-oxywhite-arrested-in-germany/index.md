@@ -21,5 +21,4 @@ Vendor &#8220;Oxywhite&#8221; Arrested in Germany
 <p>Also, a stun gun was found in the apartment.</p>
 <p>Vendor Oxywhite operated on darknet sites as well as clearnet sites and had a German <a href="http://motherboard.vice.com/de/read/die-graueste-zone-des-deepwebs--einblick-in-den-darknet-medikamenten-handel-389">vice article</a> about him earlier this year.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/oxywhite/" rel="tag">oxywhite</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-12-05</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/oxywhite/" rel="tag">oxywhite</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-12-05

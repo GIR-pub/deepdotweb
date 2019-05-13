@@ -40,8 +40,7 @@ tag-anonymous tag-delivery tag-postal tag-services tag-work">
 <p>“Our job is to deliver it safely to the customer.”</p>
 <p><a id="post-24630-_gjdgxs"></a> For many places such as the <a href="https://www.deepdotweb.com/2018/01/01/uk-man-convicted-buying-grenades-alphabay/">UK</a>, getting illegal drugs seized isn’t of high concern. The delivery services are more concerned on preventing much more severe items such as weapons due to the vast amount of orders that take place on the Darknet. Is it a similar scenario in your country – let me know!</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/delivery/" rel="tag">delivery</a> <a href="https://www.deepdotweb.com/tag/postal/" rel="tag">postal</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/work/" rel="tag">work</a></span> <span style="display:none" class="updated">2018-02-01</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/delivery/" rel="tag">delivery</a> <a href="https://www.deepdotweb.com/tag/postal/" rel="tag">postal</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/work/" rel="tag">work</a></span> <span style="display:none" class="updated">2018-02-01<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
 </div>
 </article>
 

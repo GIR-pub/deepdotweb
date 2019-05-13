@@ -12,7 +12,7 @@ Op-Ed: The Verge Publishes Clueless Article on end of DNM &#8220;Golden-Age&#822
     <div class="entry">
     <p><a href="https://www.theverge.com/">TheVerge.com</a> is a trendy website with a tech news approach akin to the Facebook Group I FUCKING LOVE SCIENCE&#8217;s approach to science. At publishing time, their website&#8217;s front page is reminiscent of an aneurysm, the top story&#8217;s headline reading: <em>EMOJI ARE SHOWING UP IN COURT CASES EXPONENTIALLY, AND COURTS AREN’T PREPARED</em></p>
     <p>Need I say more?</p>
-    <p><img class="wp-image-28404" src="https://www.deepdotweb.com/wp-content/uploads/2019/02/word-image-9.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2019/02/word-image-9.png 491w, https://www.deepdotweb.com/wp-content/uploads/2019/02/word-image-9-226x300.png 226w" sizes="(max-width: 491px) 100vw, 491px" /></p>
+    <p><img class="wp-image-28404" src="/imgs/2019/02/word-image-9.png" srcset="/imgs/2019/02/word-image-9.png 491w, /imgs/2019/02/word-image-9-226x300.png 226w" sizes="(max-width: 491px) 100vw, 491px" /></p>
     <p>It should come as no surpise then that just a couple days ago, The Verge published an article by &#8220;journalist&#8221; Russel Brandom making one of the most outrageously misinformed assertions I&#8217;ve seen in a while: <a href="https://www.theverge.com/platform/amp/2019/2/17/18226718/alphabay-takedown-drug-marketplace-federal-arrest">“The golden age of dark web drug markets is over”</a></p>
     <p>Brandom&#8217;s justification for this claim? Federal agents are still making arrests of Alphabay vendors over a year and a half since it was shut down. And other vendors are getting arrested too.</p>
     <p>No, seriously. That&#8217;s it.</p>

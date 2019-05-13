@@ -10,7 +10,7 @@ title: The Sheep, BMR (And Maybe Tormarket) Hacker Reddit Investigation
 
 
 <p>If you followed our previous reports regarding the <a href="http://www.deepdotweb.com/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">Sheep Scam</a> and the <a href="http://www.deepdotweb.com/2013/12/06/bmr-hacked-around-200000-stolen/">BMR Hack</a>, you probably remember the claims in both cases of a vendor hacking the site and stealing the users BTC, now, a reddit user claims to have found a links between the two cases and claiming that the hacker was a E-Book Vendor on sheep, and BMR and Tormarket, called Ebook101 on Sheep (as the sheep admin claimed on the shutdown:</p>
-<p><img class="aligncenter" alt="" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/sheep-down.jpg" width="511" height="507" /></p>
+<p><img class="aligncenter" alt="" src="/imgs/2013/12/sheep-down.jpg" width="511" height="507" /></p>
 <p>&nbsp;</p>
 <p>And that the same vendor was also on Tormarket and BMR under the name of &#8220;Profesorhouse&#8221;,  A hackforums.net user (email <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5f2f2d30393a2c302d37302a2c3a69661f323e3633713c3032">[email&#160;protected]</a>)  unlike most of the similar thread we come across &#8211; this one is actually very plausible!,  its very hard to believe that any BTC&#8217;s will be returned to their rightful owners as a result of this investigation, BUT &#8211;</p>
 <ul>

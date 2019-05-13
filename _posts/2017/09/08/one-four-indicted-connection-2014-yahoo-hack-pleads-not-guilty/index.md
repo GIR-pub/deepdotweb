@@ -43,7 +43,7 @@ One of Four Indicted in Connection with 2014 Yahoo Hack pleads not guilty.
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/connection/" rel="tag">connection</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a> <a href="https://www.deepdotweb.com/tag/yahoo/" rel="tag">yahoo</a></span>				<span style="display:none" class="updated">2017-09-08</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/connection/" rel="tag">connection</a>  <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a>  <a href="https://www.deepdotweb.com/tag/yahoo/" rel="tag">yahoo</a></span>				<span style="display:none" class="updated">2017-09-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
     
     

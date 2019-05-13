@@ -31,8 +31,7 @@ The UK Creates New Dark Net Task Force
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/creates/" rel="tag">creates</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span>				<span style="display:none" class="updated">2015-11-10</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/creates/" rel="tag">creates</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span>				<span style="display:none" class="updated">2015-11-10<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     
 </div><!-- .post-inner -->

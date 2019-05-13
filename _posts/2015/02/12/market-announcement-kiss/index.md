@@ -21,5 +21,4 @@ Market Announcement: Kiss
     For verifciation and access to the marketplace, vendors are invited to preregister via this forum: http://6bssxspijk7n2ioh.onion</p>
 <p>Market is now listed in the under construction section of our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">dark net markets list.</a></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/announcement/" rel="tag">announcement</a></span> <span style="display:none" class="updated">2015-02-12</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/announcement/" rel="tag">announcement</a></span> <span style="display:none" class="updated">2015-02-12

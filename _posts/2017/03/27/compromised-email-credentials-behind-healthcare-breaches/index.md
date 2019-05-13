@@ -34,8 +34,7 @@ Compromised Email Credentials Behind Most Healthcare Breaches
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/breaches/" rel="tag">breaches</a> <a href="https://www.deepdotweb.com/tag/compromised/" rel="tag">compromised</a> <a href="https://www.deepdotweb.com/tag/credentials/" rel="tag">credentials</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/healthcare/" rel="tag">healthcare</a></span>				<span style="display:none" class="updated">2017-03-27</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/breaches/" rel="tag">breaches</a> <a href="https://www.deepdotweb.com/tag/compromised/" rel="tag">compromised</a> <a href="https://www.deepdotweb.com/tag/credentials/" rel="tag">credentials</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/healthcare/" rel="tag">healthcare</a></span>				<span style="display:none" class="updated">2017-03-27<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     
 </div><!-- .post-inner -->

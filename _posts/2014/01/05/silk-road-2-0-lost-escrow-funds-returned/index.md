@@ -47,7 +47,7 @@ post-3133 post type-post status-publish format-standard has-post-thumbnail hentr
     <p>These messages were obviously accepted with great joy, and it seems that Silk Road is slowly overcoming the hardships it was experiencing the last few weeks, and slowly but surely building the trust that every marketplace should Strive for &#8211; trust that became a rear ingredient since the demise of SR1 and BMR.</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/lost/" rel="tag">lost</a> <a href="https://www.deepdotweb.com/tag/returned/" rel="tag">returned</a> </span> <span style="display:none" class="updated">2014-01-05</span>
+     <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/lost/" rel="tag">lost</a> <a href="https://www.deepdotweb.com/tag/returned/" rel="tag">returned</a> </span> <span style="display:none" class="updated">2014-01-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>
