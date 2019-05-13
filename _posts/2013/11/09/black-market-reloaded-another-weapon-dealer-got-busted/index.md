@@ -37,7 +37,4 @@ title: Black Market Reloaded: Another Weapon Dealer Got Busted
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/dealer/" rel="tag">dealer</a> <a href="https://www.deepdotweb.com/tag/hampton/" rel="tag">hampton</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/reloaded/" rel="tag">reloaded</a> <a href="https://www.deepdotweb.com/tag/weapon/" rel="tag">weapon</a> <a href="https://www.deepdotweb.com/tag/week/" rel="tag">week</a></span> 
 Updated2013-11-09</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

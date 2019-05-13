@@ -34,7 +34,4 @@ title: The Future of Cyberspace Anonymity
 <p>The effort would cost them far more than they’d hope to pay, and accomplish far less than they’d hoped to achieve.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/cyberspace/" rel="tag">cyberspace</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a></span> 
-Updated2013-12-05<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-12-05

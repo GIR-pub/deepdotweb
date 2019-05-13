@@ -25,7 +25,4 @@ title: Bitcoins To Be Accepted By Baidu, Sparking Rally To $200
 <p>While the future of the bitcoin may always remain uncertain, it is apparent that both online hitmen-heroine bazaars and major corporations have found a use and a place for the BTC in their operations.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/200/" rel="tag">200</a> <a href="https://www.deepdotweb.com/tag/accepted/" rel="tag">accepted</a> <a href="https://www.deepdotweb.com/tag/baidu/" rel="tag">baidu</a> <a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/rally/" rel="tag">rally</a> <a href="https://www.deepdotweb.com/tag/sparking/" rel="tag">sparking</a></span> 
-Updated2013-10-22<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-10-22

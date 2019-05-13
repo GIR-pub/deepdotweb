@@ -19,7 +19,4 @@ title: N.Y Times: Study Suggests Link Between Dread Pirate Roberts and Satoshi N
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/dread/" rel="tag">dread</a> <a href="https://www.deepdotweb.com/tag/link/" rel="tag">link</a> <a href="https://www.deepdotweb.com/tag/nakamoto/" rel="tag">nakamoto</a> <a href="https://www.deepdotweb.com/tag/ny/" rel="tag">ny</a> <a href="https://www.deepdotweb.com/tag/pirate/" rel="tag">pirate</a> <a href="https://www.deepdotweb.com/tag/roberts/" rel="tag">roberts</a> <a href="https://www.deepdotweb.com/tag/satoshi/" rel="tag">satoshi</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/suggests/" rel="tag">suggests</a> <a href="https://www.deepdotweb.com/tag/times/" rel="tag">times</a></span> 
 Updated2013-11-25</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

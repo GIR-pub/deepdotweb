@@ -31,7 +31,4 @@ Some countries are opening doors to adopt cryptocurrencies in a larger scale
 <p><img class="wp-image-22972 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-16.jpeg" width="588" height="413" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-16.jpeg 949w, https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-16-300x211.jpeg 300w" sizes="(max-width: 588px) 100vw, 588px" /></p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/adopt/" rel="tag">adopt</a> <a href="https://www.deepdotweb.com/tag/countries/" rel="tag">countries</a> <a href="https://www.deepdotweb.com/tag/cryptocurrencies/" rel="tag">cryptocurrencies</a> <a href="https://www.deepdotweb.com/tag/doors/" rel="tag">doors</a> <a href="https://www.deepdotweb.com/tag/larger/" rel="tag">larger</a> <a href="https://www.deepdotweb.com/tag/opening/" rel="tag">opening</a> <a href="https://www.deepdotweb.com/tag/scale/" rel="tag">scale</a></span> <span style="display:none" class="updated">2017-10-08</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

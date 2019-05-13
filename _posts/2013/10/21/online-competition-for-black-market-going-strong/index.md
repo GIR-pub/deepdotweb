@@ -22,7 +22,4 @@ title: Online competition for black market going strong
 <p>Why? Because everything illegal is always available. From hacking tools to heroin to handguns, the black market will thrive and there will always be platforms from which purveyors can sell. Opinions vary widely as to which will win out &#8211; politics or commerce?</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/competition/" rel="tag">competition</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/strong/" rel="tag">strong</a></span> 
-Updated2013-10-21<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-10-21

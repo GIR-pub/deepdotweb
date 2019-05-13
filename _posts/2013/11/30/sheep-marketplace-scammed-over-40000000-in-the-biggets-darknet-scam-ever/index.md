@@ -85,7 +85,4 @@ title: Sheep Marketplace Scam: Over 40,000,000$ in the Biggest Darknet Scam Ever
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/40000000/" rel="tag">40000000</a> <a href="https://www.deepdotweb.com/tag/biggets/" rel="tag">biggets</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/scammed/" rel="tag">scammed</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a></span> 
 Updated2013-11-30</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

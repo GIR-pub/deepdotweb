@@ -47,7 +47,4 @@ title: Official: DPR Personal Wallet Siezed With $28.5 Million in BTC (FBI Press
 <p>The charges contained in the complaint are merely accusations, and the defendant is presumed innocent unless and until proven guilty.</p></blockquote>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/285/" rel="tag">285</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/siezed/" rel="tag">siezed</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> 
-Updated2013-10-26<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-10-26

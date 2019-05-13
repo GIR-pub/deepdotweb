@@ -37,7 +37,4 @@ title: Get Ready To Silk Road&#8217;s&#8230;. Newspaper?!
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/newspaper/" rel="tag">newspaper</a> <a href="https://www.deepdotweb.com/tag/ready/" rel="tag">ready</a> <a href="https://www.deepdotweb.com/tag/roads/" rel="tag">roads</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
 Updated2013-11-16</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

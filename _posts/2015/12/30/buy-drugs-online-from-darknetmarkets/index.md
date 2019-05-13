@@ -2,63 +2,63 @@
 How To Buy Drugs Online From DarknetMarkets?
 ---
 <article class="post-listing post-12789 post type-post status-publish format-standard has-post-thumbnail hentry category-articles category-deepdot-news tag-buy tag-buy-drugs-online tag-darknetmarkets tag-drugs tag-online">
-    <div class="post-inner">
-    <p class="post-meta">
-    <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-    <span>December 30, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
-    <span><a href="https://www.deepdotweb.com/2015/12/30/buy-drugs-online-from-darknetmarkets/#comments">67 Comments</a></span>
-    </p>
-    <div class="clear"></div>
-    <div class="entry">
-    <p>Instead of creating all the <a href="https://www.deepdotweb.com/?s=how+to+buy+from" target="_blank" rel="noopener noreferrer">market specific tutorials</a> which are pretty similar anyway, here is a complete how to Buy Drugs Online From the DarknetMarkets tutorial that should cover most, if not all markets. Please remember that its recommended to use multisig transactions when buying drugs online. Market specific instructions should be available on the markets and on our multisig section. Not sure who to credit for most of the write up, it was just shared with me a few months ago, if you are reading this, please contact with a proof, you know which one. Some info changed to make it more accurate and current.</p>
-    <p><strong>PRIVACY TIP FOR DEEP WEB USERS</strong>: Use a <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN</a> with Tor. <a href="https://www.deepdotweb.com/vpn-comparison-chart/">Click here to find the best VPN for privacy on the Deep Web</a>.</p>
-    <p><strong>VPN</strong></p>
-    <p>The first step for your journey to buy drugs online from darknet markets is to <a href="https://www.deepdotweb.com/vpn-comparison-chart/">download VPN software</a>. You can find the best VPN’s for use on the darknet <a href="https://www.deepdotweb.com/vpn-comparison-chart/">here</a>.</p>
-    <p>A VPN (Virtual Private Network) can be used via a simple software app on your computer or mobile device to encrypt all of your internet traffic and spoof your location. By using a VPN, no one will know what you are reading, downloading, streaming or doing online.</p>
-    <p>One major benefit of this is that it will hide the fact you are using Tor browser (more on Tor below) to access the dark web. Without a VPN, the government and your ISP can tell you are using Tor due to its unique signature. With a VPN it will just look like you are working from home like millions of other people working remotely from home accessing their companies network (VPN’s main use).</p>
-    <p>Another major benefit is that by using a VPN you can use a shared IP address with hundreds or thousands of others. An IP address is a number that is transmitted with your internet connection and actually identifies your physical address of where you are. By using a fake and shared IP from a VPN, your address will appear from another location and with multiple other people making it impossible to tell who is doing what. This is especially important in case a Tor relay has been compromised to find users on the darknet (has been done before).</p>
-    <p>So <a href="https://www.deepdotweb.com/vpn-comparison-chart/">click here</a>, and find a VPN before you go and buy drugs from any darknetmarket.</p>
-    <p>Most VPN’s are simple to install and use, you just download and setup in a 2 or 3 clicks.</p>
-    <p><img class="wp-image-20505 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27.png" width="579" height="444" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27.png 1080w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27-300x230.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27-1024x785.png 1024w" sizes="(max-width: 579px) 100vw, 579px" /></p>
-    <p>Then start it up, connect to a server using “OpenVPN” protocol and continue to the next step.</p>
-    <h3>Tor Browser</h3>
-    <p>The dark net markets markets are not accessed over the internet the same way a regular website is. Instead they are accessed through the Tor network. Tor (or The Onion Router) is software that enables you to browse the internet anonymously. It routes your connection through a network made up of multiple Tor servers. When you use Tor, your ISP will not be able to see what you are doing on the internet. However, if they look at your traffic they will know that you are using it.</p>
-    <p>To access the markets, you will need to use Tor. To prevent the IP address and location of the server being revealed, the markets are given a layer of anonymity by the Tor network and configured so they can only be accessed through it. Instead of a regular website&#8217;s top-level domain, like .com or .co.uk, Tor hidden services have the top-level domain <strong>.onion</strong></p>
-    <p>You will need to use a browser configured to use Tor. Some people install and configure Tor and their browser separately, but the popular Tor Browser comes bundled with Tor and requires no configuration.</p>
-    <ol type="1">
-    <li>Download it <a href="https://www.torproject.org/projects/torbrowser.html.en">here</a>.
-    <div style="width: 881px" class="wp-caption alignnone"><img src="https://www.deepdotweb.com/wp-content/uploads/2014/01/126.png" alt="Tor" width="871" height="548" /><p class="wp-caption-text">Tor</p></div></li>
-    <li>After the download is done, extract it into a folder (It is not installed &#8211; just extracted, and can be run from a USB drive)<br />
-    <img class="alignnone" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/210.png" alt="" width="804" height="582" /></li>
-    <li>Run the &#8220;Start Tor Browser&#8221; shortcut. and you should see:<br />
-    <img class="alignnone" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/510.png" alt="" width="888" height="631" /></li>
-    </ol>
-    <h3>Disable JavaScript</h3>
-    <p>After opening it, the first thing you&#8217;ll want to do is disable the use of JavaScript.</p>
-    <p>1) In the top left corner, click the blue &#8220;S&#8221; icon, then click &#8220;Forbid Scripts Globally (advised)&#8221;.</p>
-    <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis.png"><img class="aligncenter size-full wp-image-12791" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis.png" alt="jsdis" width="442" height="47" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis.png 442w, https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis-300x32.png 300w" sizes="(max-width: 442px) 100vw, 442px" /></a></p>
-    <p>Why is this needed? Since it increases your potential attack surface. For example: In August 2013, the FBI had hacked a server hosting provider named <a href="https://en.wikipedia.org/wiki/Freedom_Hosting">Freedom Hosting</a>. Freedom Hosting provided hosting for Tor hidden services, including some which served child porn.</p>
-    <p>The FBI inserted some malicious JavaScript code in some of the pages served by the hidden services. The FBI was exploiting a vulnerability in a particular version of Firefox, which Tor Browser is based on. Vulnerable users who viewed the pages with JavaScript enabled had their real IP addresses exposed, and a number of arrests were made.</p>
-    <h3>The Markets</h3>
-    <p>The next step is to choose a market to register to. There are many markets you can use yo buy drugs online &#8211; whichever you choose is up to you. Though, not all will be currently open to registration.</p>
-    <p><strong>Two lists of markets are:</strong></p>
-    <ul>
-    <li><a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of Dark Net Markets</a></li>
-    <li><a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart</a></li>
-    </ul>
-    <p>You can also search these links for markets / vendor reviews. And check their uptime status on <a href="https://www.deepdotweb.com/" target="_blank" rel="noopener noreferrer">DeepDotWeb&#8217;s</a> sidebar.</p>
-    <h3>Register</h3>
-    <p>In Tor Browser, go to the market&#8217;s onion link and go to the registration page. Fill out the form as you would on any other website. Except, use a username not linked to your real identity and one that is different to what you use on other websites. Also, use different credentials for each market.</p>
-    <p>Note:</p>
-    <ul>
-    <li>Most markets will need a security pin. This pin will be required any time you make a payment. It is not recoverable, so write it down and remember it. Do not store it on your computer.</li>
-    </ul>
-    <p>Example for a registration page:</p>
-    <p><img class="aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/image1.png" alt="" width="800" height="942" /></p>
-    <h3>Your Profile</h3>
-    <p>The prices displayed on the site might be in USD, or maybe BTC (Bitcoin). Most markets will allow you to navigate to your profile page and set it to your country&#8217;s currency.</p>
-    <p>Example:</p>
+<div class="post-inner">
+<p class="post-meta">
+<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>December 30, 2015</span>
+<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+<span><a href="https://www.deepdotweb.com/2015/12/30/buy-drugs-online-from-darknetmarkets/#comments">67 Comments</a></span>
+</p>
+<div class="clear"></div>
+<div class="entry">
+<p>Instead of creating all the <a href="https://www.deepdotweb.com/?s=how+to+buy+from" target="_blank" rel="noopener noreferrer">market specific tutorials</a> which are pretty similar anyway, here is a complete how to Buy Drugs Online From the DarknetMarkets tutorial that should cover most, if not all markets. Please remember that its recommended to use multisig transactions when buying drugs online. Market specific instructions should be available on the markets and on our multisig section. Not sure who to credit for most of the write up, it was just shared with me a few months ago, if you are reading this, please contact with a proof, you know which one. Some info changed to make it more accurate and current.</p>
+<p><strong>PRIVACY TIP FOR DEEP WEB USERS</strong>: Use a <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN</a> with Tor. <a href="https://www.deepdotweb.com/vpn-comparison-chart/">Click here to find the best VPN for privacy on the Deep Web</a>.</p>
+<p><strong>VPN</strong></p>
+<p>The first step for your journey to buy drugs online from darknet markets is to <a href="https://www.deepdotweb.com/vpn-comparison-chart/">download VPN software</a>. You can find the best VPN’s for use on the darknet <a href="https://www.deepdotweb.com/vpn-comparison-chart/">here</a>.</p>
+<p>A VPN (Virtual Private Network) can be used via a simple software app on your computer or mobile device to encrypt all of your internet traffic and spoof your location. By using a VPN, no one will know what you are reading, downloading, streaming or doing online.</p>
+<p>One major benefit of this is that it will hide the fact you are using Tor browser (more on Tor below) to access the dark web. Without a VPN, the government and your ISP can tell you are using Tor due to its unique signature. With a VPN it will just look like you are working from home like millions of other people working remotely from home accessing their companies network (VPN’s main use).</p>
+<p>Another major benefit is that by using a VPN you can use a shared IP address with hundreds or thousands of others. An IP address is a number that is transmitted with your internet connection and actually identifies your physical address of where you are. By using a fake and shared IP from a VPN, your address will appear from another location and with multiple other people making it impossible to tell who is doing what. This is especially important in case a Tor relay has been compromised to find users on the darknet (has been done before).</p>
+<p>So <a href="https://www.deepdotweb.com/vpn-comparison-chart/">click here</a>, and find a VPN before you go and buy drugs from any darknetmarket.</p>
+<p>Most VPN’s are simple to install and use, you just download and setup in a 2 or 3 clicks.</p>
+<p><img class="wp-image-20505 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27.png" width="579" height="444" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27.png 1080w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27-300x230.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27-1024x785.png 1024w" sizes="(max-width: 579px) 100vw, 579px" /></p>
+<p>Then start it up, connect to a server using “OpenVPN” protocol and continue to the next step.</p>
+<h3>Tor Browser</h3>
+<p>The dark net markets markets are not accessed over the internet the same way a regular website is. Instead they are accessed through the Tor network. Tor (or The Onion Router) is software that enables you to browse the internet anonymously. It routes your connection through a network made up of multiple Tor servers. When you use Tor, your ISP will not be able to see what you are doing on the internet. However, if they look at your traffic they will know that you are using it.</p>
+<p>To access the markets, you will need to use Tor. To prevent the IP address and location of the server being revealed, the markets are given a layer of anonymity by the Tor network and configured so they can only be accessed through it. Instead of a regular website&#8217;s top-level domain, like .com or .co.uk, Tor hidden services have the top-level domain <strong>.onion</strong></p>
+<p>You will need to use a browser configured to use Tor. Some people install and configure Tor and their browser separately, but the popular Tor Browser comes bundled with Tor and requires no configuration.</p>
+<ol type="1">
+<li>Download it <a href="https://www.torproject.org/projects/torbrowser.html.en">here</a>.
+<div style="width: 881px" class="wp-caption alignnone"><img src="https://www.deepdotweb.com/wp-content/uploads/2014/01/126.png" alt="Tor" width="871" height="548" /><p class="wp-caption-text">Tor</p></div></li>
+<li>After the download is done, extract it into a folder (It is not installed &#8211; just extracted, and can be run from a USB drive)<br />
+<img class="alignnone" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/210.png" alt="" width="804" height="582" /></li>
+<li>Run the &#8220;Start Tor Browser&#8221; shortcut. and you should see:<br />
+<img class="alignnone" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/510.png" alt="" width="888" height="631" /></li>
+</ol>
+<h3>Disable JavaScript</h3>
+<p>After opening it, the first thing you&#8217;ll want to do is disable the use of JavaScript.</p>
+<p>1) In the top left corner, click the blue &#8220;S&#8221; icon, then click &#8220;Forbid Scripts Globally (advised)&#8221;.</p>
+<p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis.png"><img class="aligncenter size-full wp-image-12791" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis.png" alt="jsdis" width="442" height="47" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis.png 442w, https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis-300x32.png 300w" sizes="(max-width: 442px) 100vw, 442px" /></a></p>
+<p>Why is this needed? Since it increases your potential attack surface. For example: In August 2013, the FBI had hacked a server hosting provider named <a href="https://en.wikipedia.org/wiki/Freedom_Hosting">Freedom Hosting</a>. Freedom Hosting provided hosting for Tor hidden services, including some which served child porn.</p>
+<p>The FBI inserted some malicious JavaScript code in some of the pages served by the hidden services. The FBI was exploiting a vulnerability in a particular version of Firefox, which Tor Browser is based on. Vulnerable users who viewed the pages with JavaScript enabled had their real IP addresses exposed, and a number of arrests were made.</p>
+<h3>The Markets</h3>
+<p>The next step is to choose a market to register to. There are many markets you can use yo buy drugs online &#8211; whichever you choose is up to you. Though, not all will be currently open to registration.</p>
+<p><strong>Two lists of markets are:</strong></p>
+<ul>
+<li><a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of Dark Net Markets</a></li>
+<li><a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart</a></li>
+</ul>
+<p>You can also search these links for markets / vendor reviews. And check their uptime status on <a href="https://www.deepdotweb.com/" target="_blank" rel="noopener noreferrer">DeepDotWeb&#8217;s</a> sidebar.</p>
+<h3>Register</h3>
+<p>In Tor Browser, go to the market&#8217;s onion link and go to the registration page. Fill out the form as you would on any other website. Except, use a username not linked to your real identity and one that is different to what you use on other websites. Also, use different credentials for each market.</p>
+<p>Note:</p>
+<ul>
+<li>Most markets will need a security pin. This pin will be required any time you make a payment. It is not recoverable, so write it down and remember it. Do not store it on your computer.</li>
+</ul>
+<p>Example for a registration page:</p>
+<p><img class="aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/image1.png" alt="" width="800" height="942" /></p>
+<h3>Your Profile</h3>
+<p>The prices displayed on the site might be in USD, or maybe BTC (Bitcoin). Most markets will allow you to navigate to your profile page and set it to your country&#8217;s currency.</p>
+<p>Example:</p>
     <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/currency.png"><img class="aligncenter wp-image-12792" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/currency.png" alt="currency" width="1115" height="444" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/currency.png 1381w, https://www.deepdotweb.com/wp-content/uploads/2015/12/currency-300x119.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/12/currency-1024x408.png 1024w" sizes="(max-width: 1115px) 100vw, 1115px" /></a></p>
     <h3>Products</h3>
     <p>So you want to buy drugs online, bu what exactly are you interested in buying? Navigate to a product category, and then to a more specific subcategory. When browsing and searching for products, you&#8217;ll come across various sorting or filtering options on different markets, few examples from popular markets:</p>

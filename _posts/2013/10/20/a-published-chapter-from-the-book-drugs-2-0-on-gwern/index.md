@@ -20,7 +20,4 @@ title: A Published Chapter From The Book &#8220;Drugs 2.0&#8221; On Gwern
 <p><a href="http://www.gwern.net/docs/sr/2013-power" target="_blank" rel="nofollow">http://www.gwern.net/docs/sr/2013-power</a></p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/book/" rel="tag">book</a> <a href="https://www.deepdotweb.com/tag/chapter/" rel="tag">chapter</a> <a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/gwern/" rel="tag">gwern</a> <a href="https://www.deepdotweb.com/tag/published/" rel="tag">published</a></span> 
-Updated2013-10-20<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-10-20

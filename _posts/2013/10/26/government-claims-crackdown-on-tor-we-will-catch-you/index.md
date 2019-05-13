@@ -25,7 +25,4 @@ title: Government Claims Crackdown On Tor: “We will catch you”
 <p>Even in the case of taking down Silk Road, the FBI was forced to use conventional, real-world methods, such as sting operations, informants, staged assassinations, and the physical seizure of servers. As for their claims on peeling back the ‘Onion Network’ of Tor, it may be more of a bluff than a promise.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> 
-Updated2013-10-26<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-10-26

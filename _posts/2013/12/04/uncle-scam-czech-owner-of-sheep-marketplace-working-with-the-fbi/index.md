@@ -54,7 +54,4 @@ title: Uncle Scam: Czech Owner of Sheep Marketplace Working With the FBI?
 <p>These, of course, are only theories…</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/czech/" rel="tag">czech</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/uncle/" rel="tag">uncle</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a></span> 
-Updated2013-12-04<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-12-04

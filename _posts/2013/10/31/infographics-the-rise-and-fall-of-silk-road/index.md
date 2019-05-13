@@ -16,7 +16,4 @@ title: Infographics: The Rise And Fall of Silk Road
 <p>Nice work.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/fall/" rel="tag">fall</a> <a href="https://www.deepdotweb.com/tag/infographics/" rel="tag">infographics</a> <a href="https://www.deepdotweb.com/tag/rise/" rel="tag">rise</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
-Updated2013-10-31<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-10-31

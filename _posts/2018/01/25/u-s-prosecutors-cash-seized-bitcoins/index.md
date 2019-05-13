@@ -29,7 +29,4 @@ U.S Prosecutors to Cash in On Seized Bitcoins
 <p>Reports from the authorities suggest that Shamo and a partner were selling fake prescription drugs on a dark web marketplace to over thousands of people in the U.S.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoins/" rel="tag">bitcoins</a> <a href="https://www.deepdotweb.com/tag/cash/" rel="tag">cash</a> <a href="https://www.deepdotweb.com/tag/prosecutors/" rel="tag">prosecutors</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a></span> <span style="display:none" class="updated">2018-01-25</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

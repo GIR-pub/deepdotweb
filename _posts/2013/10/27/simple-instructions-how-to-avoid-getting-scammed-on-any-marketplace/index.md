@@ -48,7 +48,4 @@ title: Simple Instructions: How to avoid getting scammed on any marketplace?
 <p>======End of quote========</p>
 <p>Hope this helps &#8211; if you see any interesting thread on the old Silkroad Forum <em>(</em><cite>https://dkn255hz262ypmii.onion/</cite>) Please send to me as i think it will not be up for long and its a good idea to preserve the information.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/avoid/" rel="tag">avoid</a> <a href="https://www.deepdotweb.com/tag/instructions/" rel="tag">instructions</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/scammed/" rel="tag">scammed</a> <a href="https://www.deepdotweb.com/tag/simple/" rel="tag">simple</a></span> Updated: 2013-10-27<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/avoid/" rel="tag">avoid</a> <a href="https://www.deepdotweb.com/tag/instructions/" rel="tag">instructions</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/scammed/" rel="tag">scammed</a> <a href="https://www.deepdotweb.com/tag/simple/" rel="tag">simple</a></span> Updated: 2013-10-27

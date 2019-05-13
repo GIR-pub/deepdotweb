@@ -34,7 +34,4 @@ title: So Whats going on with all these DDOS Attacks?
 <p>One thing for sure is that the problem of one market can make a rather large profit for the other. (ahm ahm&#8230;)</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a></span> 
-Updated2013-12-13<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-12-13

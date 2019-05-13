@@ -28,7 +28,4 @@ title: Silk Road reloaded: Tor/i2p distro client released!
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/client/" rel="tag">client</a> <a href="https://www.deepdotweb.com/tag/distro/" rel="tag">distro</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="https://www.deepdotweb.com/tag/reloaded/" rel="tag">reloaded</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/tori2p/" rel="tag">tori2p</a></span> 
 Updated2013-11-12</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

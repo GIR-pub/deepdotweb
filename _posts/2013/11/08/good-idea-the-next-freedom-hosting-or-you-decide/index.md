@@ -72,7 +72,4 @@ title: Good Idea, the Next Freedom Hosting, Or&#8230;? You decide.
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/decide/" rel="tag">decide</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/good/" rel="tag">good</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/idea/" rel="tag">idea</a></span> 
 Updated2013-11-08</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

@@ -76,7 +76,4 @@ title: List Hidden Marketplaces 18.10.13
 <div></div>
 </div>
 
-Updated2013-10-18<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-10-18

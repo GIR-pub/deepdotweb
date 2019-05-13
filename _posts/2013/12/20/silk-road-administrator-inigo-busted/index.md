@@ -43,7 +43,4 @@ title: Silk Road Administrator &#8220;Inigo&#8221; Busted?!
 <p>Keep yourself updated at the discussion thread on Silk road forums: http://silkroad5v7dywlc.onion/index.php?topic=10153.0</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/administrator/" rel="tag">administrator</a> <a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/inigo/" rel="tag">inigo</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
-Updated2013-12-20<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-12-20

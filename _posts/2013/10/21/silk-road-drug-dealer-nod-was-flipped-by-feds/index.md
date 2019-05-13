@@ -24,7 +24,4 @@ title: Silk Road Drug Dealer &#8220;NOD&#8221; Was Flipped By Feds
 <p>The only thing we are sure of, is that this silkroad drama is far from over.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/dealer/" rel="tag">dealer</a> <a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/feds/" rel="tag">feds</a> <a href="https://www.deepdotweb.com/tag/flipped/" rel="tag">flipped</a> <a href="https://www.deepdotweb.com/tag/nod/" rel="tag">nod</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
-Updated2013-10-21<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-10-21

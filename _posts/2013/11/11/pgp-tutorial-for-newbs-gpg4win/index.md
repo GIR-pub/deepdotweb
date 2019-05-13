@@ -72,7 +72,4 @@ title: PGP Tutorial For Newbs (Gpg4Win)
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/gpg4win/" rel="tag">gpg4win</a> <a href="https://www.deepdotweb.com/tag/newbs/" rel="tag">newbs</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> 
 Updated2013-11-11</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

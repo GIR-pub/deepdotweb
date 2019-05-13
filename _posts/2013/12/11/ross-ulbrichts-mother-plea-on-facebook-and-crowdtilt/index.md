@@ -17,7 +17,4 @@ title: Ross Ulbricht&#8217;s mother plea on Facebook and CrowdTilt
 <p style="text-align: center;"><span style="color: #ff0000;">Read our previous news on this subject including the Press Release &#8211; for all the info and the places you can donate  &#8211; <a href="http://www.deepdotweb.com/2013/11/21/press-release-family-of-alleged-silk-road-operator-ross-ulbricht-launches-legal-defense-fund/" target="_blank"><span style="color: #ff0000;"><strong>Here</strong></span></a></span></p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/crowdtilt/" rel="tag">crowdtilt</a> <a href="https://www.deepdotweb.com/tag/facebook/" rel="tag">facebook</a> <a href="https://www.deepdotweb.com/tag/mother/" rel="tag">mother</a> <a href="https://www.deepdotweb.com/tag/plea/" rel="tag">plea</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/ulbrichts/" rel="tag">ulbrichts</a></span> 
-Updated2013-12-11<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-12-11

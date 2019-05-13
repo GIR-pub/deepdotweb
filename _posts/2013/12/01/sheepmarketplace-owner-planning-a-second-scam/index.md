@@ -47,7 +47,4 @@ title: SheepMarketplace Owner Planning a Second Scam?
 <p>Proceed with caution.</p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/planning/" rel="tag">planning</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/sheepmarketplace/" rel="tag">sheepmarketplace</a></span> 
-Updated2013-12-01<a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
-</div>
-</article>
-
+Updated2013-12-01
