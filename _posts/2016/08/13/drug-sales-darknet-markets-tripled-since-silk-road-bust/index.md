@@ -1,7 +1,7 @@
 ---
 Drug Sales on Darknet Markets Have Tripled Since the Silk Road Bust
 ---
-<article class="post-listing post-15092 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-darknet tag-markets tag-sales tag-tripled">
+<article class="post-listing post-15092 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-darknet tag-sales tag-tripled">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 13, 2016</span>

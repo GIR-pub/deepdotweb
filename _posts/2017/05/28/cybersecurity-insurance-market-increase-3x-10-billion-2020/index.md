@@ -1,7 +1,7 @@
 ---
 Cybersecurity Insurance Market to Increase by 3X to $10 Billion in 2020
 ---
-<article class="post-listing post-20189 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-2800 tag-3x tag-billion tag-cybersecurity tag-dark tag-increase tag-insurance tag-issues tag-main tag-ransomware tag-web">
+<article class="post-listing post-20189 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-2800 tag-3x tag-billion tag-cybersecurity tag-dark tag-increase tag-insurance s tag-main tag-ransomware tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 28, 2017</span>

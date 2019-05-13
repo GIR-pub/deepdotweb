@@ -1,7 +1,7 @@
 ---
 Agora: We Are Working On A Solution For The CSRF Issue
 ---
-<article class="post-listing post-10702 post type-post status-publish format-standard hentry category-news tag-agora tag-csrf tag-issue tag-solution tag-working">
+<article class="post-listing post-10702 post type-post status-publish format-standard hentry category-news tag-agora tag-csrf  tag-solution tag-working">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 13, 2015</span>

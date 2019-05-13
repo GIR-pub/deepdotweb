@@ -1,7 +1,7 @@
 ---
 Teenager Spends $18K on Marijuana from Darknet Markets, Gets Sentenced to Community Service
 ---
-<article class="post-listing post-18078 post type-post status-publish format-standard has-post-thumbnail hentry  tag-18k tag-community tag-darknet tag-marijuana tag-markets tag-sentenced tag-spends tag-teenager">
+<article class="post-listing post-18078 post type-post status-publish format-standard has-post-thumbnail hentry  tag-18k tag-community tag-darknet tag-marijuana tag-sentenced tag-spends tag-teenager">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 11, 2017</span>

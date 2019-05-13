@@ -2,7 +2,7 @@
 Details Released In The Case Of The German Arms Dealer Who Sold A Glock Gun To The Münich Shooter
 ---
 <article class="post-listing post-22377 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-arms tag-case tag-details tag-german tag-glock tag-gun tag-munich tag-released tag-shooter tag-sold">
+ tag-arms tag-case tag-details tag-german tag-glock tag-gun tag-munich tag-released tag-shooter ">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 5, 2017</span>

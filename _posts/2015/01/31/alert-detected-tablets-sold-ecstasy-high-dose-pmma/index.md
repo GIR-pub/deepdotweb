@@ -1,7 +1,7 @@
 ---
 ALERT: Detected Tablets Sold as Ecstasy With High Dose of PMMA
 ---
-<article class="post-listing post-8944 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alert tag-detected tag-dose tag-ecstasy tag-high tag-pmma tag-sold tag-tablets">
+<article class="post-listing post-8944 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alert tag-detected tag-dose tag-ecstasy tag-high tag-pmma  tag-tablets">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 31, 2015</span>

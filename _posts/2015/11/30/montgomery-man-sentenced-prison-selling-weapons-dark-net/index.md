@@ -1,7 +1,7 @@
 ---
 Montgomery Man Sentenced To Prison For Selling Weapons On Dark Net
 ---
-<article class="post-listing post-12377 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-man tag-markets tag-montgomery tag-net tag-prison tag-selling tag-sentenced tag-weapons">
+<article class="post-listing post-12377 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-man tag-montgomery tag-net tag-prison tag-selling tag-sentenced tag-weapons">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 30, 2015</span>

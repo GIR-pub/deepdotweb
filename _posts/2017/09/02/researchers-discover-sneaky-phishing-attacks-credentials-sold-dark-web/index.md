@@ -2,7 +2,7 @@
 Researchers Discover Sneaky Phishing Attacks on Credentials, Sold on Dark Web
 ---
 <article class="post-listing post-22316 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-attacks tag-credentials tag-dark tag-discover tag-phishing tag-researchers tag-sneaky tag-sold tag-web">
+ tag-attacks tag-credentials tag-dark tag-discover tag-phishing tag-researchers tag-sneaky  tag-web">
     
     <div class="post-inner">
     

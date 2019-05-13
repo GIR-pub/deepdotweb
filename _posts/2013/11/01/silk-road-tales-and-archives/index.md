@@ -1,7 +1,7 @@
 ---
 title: Silk Road tales and archives
 ---
-1132  tag-archives tag-tales">
+1132  
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 1, 2013</span>

@@ -1,7 +1,7 @@
 ---
 World Drug Report: Cocaine Trafficking and Darknet Markets
 ---
-<article class="post-listing post-21232 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cocaine tag-darknet tag-markets tag-report tag-trafficking 
+<article class="post-listing post-21232 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cocaine tag-darknet tag-report tag-trafficking 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 14, 2017</span>

@@ -1,7 +1,7 @@
 ---
 AlphaBay and Oasis Markets to Begin Accepting Monero for Payments
 ---
-<article class="post-listing post-15221 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accepting tag-alphabay tag-markets tag-monero tag-oasis tag-payments">
+<article class="post-listing post-15221 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accepting tag-alphabay tag-monero tag-oasis tag-payments">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 23, 2016</span>

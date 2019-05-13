@@ -1,7 +1,7 @@
 ---
 Do People Really Buy Weapons From Dark Web Markets?
 ---
-<article class="post-listing post-12932 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-dark tag-markets tag-people tag-weapons tag-web">
+<article class="post-listing post-12932 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-dark tag-people tag-weapons tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 12, 2016</span>

@@ -1,9 +1,7 @@
 ---
-title: Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Pharmaceuticals Being Sold!
+title: "Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Pharmaceuticals Being Sold!"
 ---
-1222  tag-fakecounterfeit tag-health tag-issue tag-markets tag-pharmaceuticals tag-sold tag-warning">
-    
-    
+
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>November 7, 2013</span>
 
@@ -63,9 +61,6 @@ title: Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Phar
 <p>&nbsp;</p>
 </div>
 </div>
-    
-    
-    
- <a href="https://www.deepdotweb.com/tag/fakecounterfeit/" rel="tag">fakecounterfeit</a> <a href="https://www.deepdotweb.com/tag/health/" rel="tag">health</a> <a href="https://www.deepdotweb.com/tag/issue/" rel="tag">issue</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/pharmaceuticals/" rel="tag">pharmaceuticals</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span>				
+
 
 Updated: 2013-11-07

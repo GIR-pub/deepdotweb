@@ -1,7 +1,7 @@
 ---
 Allegedly: German DNM Vendor Sold The Weapons Used At Paris Terror Attacks
 ---
-<article class="post-listing post-12392 post type-post status-publish format-standard hentry category-news tag-attacks tag-dnm tag-german tag-paris tag-sold tag-terror tag-vendor tag-weapons">
+<article class="post-listing post-12392 post type-post status-publish format-standard hentry category-news tag-attacks tag-dnm tag-german tag-paris  tag-terror tag-vendor tag-weapons">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>December 2, 2015</span>

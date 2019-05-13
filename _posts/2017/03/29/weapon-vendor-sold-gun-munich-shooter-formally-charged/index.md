@@ -2,7 +2,7 @@
 Weapon Vendor Who Sold The Gun To The Münich Shooter Formally Charged
 ---
 <article class="post-listing post-18869 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-charged tag-formally tag-gun tag-munich tag-shooter tag-sold tag-vendor tag-weapon">
+ tag-charged tag-formally tag-gun tag-munich tag-shooter  tag-vendor tag-weapon">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 29, 2017</span>

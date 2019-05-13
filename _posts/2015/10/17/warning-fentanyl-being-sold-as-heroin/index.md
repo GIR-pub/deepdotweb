@@ -1,7 +1,7 @@
 ---
 Warning: Fentanyl Being Sold As Heroin On DNMS
 ---
-<article class="post-listing post-11805 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dnms tag-fentanyl tag-heroin tag-sold tag-warning">
+<article class="post-listing post-11805 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dnms tag-fentanyl tag-heroin  
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 17, 2015</span>

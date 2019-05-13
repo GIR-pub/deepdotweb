@@ -1,7 +1,7 @@
 ---
 Hospitals in Turkey Report Spike in Synthetic Cannabinoids from the Darknet
 ---
-<article class="post-listing post-16957 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1778 tag-expert tag-health tag-internet tag-percent tag-turkish">
+<article class="post-listing post-16957 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1778 tag-expert  tag-internet tag-percent tag-turkish">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 16, 2016</span>

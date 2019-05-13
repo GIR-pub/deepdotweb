@@ -1,7 +1,7 @@
 ---
 title: The Silk Road 2.0 Tales &#038; Psy-Ops!
 ---
-2904 tag-psyops tag-tales">
+2904 tag-psyops 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 24, 2013</span>

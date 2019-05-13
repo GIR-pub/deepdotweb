@@ -1,7 +1,7 @@
 ---
 Reminder: Reduce Exit Scams By Supporting &#8220;Multisig&#8221; Markets
 ---
-<article class="post-listing post-12102 post type-post status-publish format-standard hentry category-news tag-exit tag-markets tag-multisig tag-reduce tag-reminder tag-scams tag-supporting">
+<article class="post-listing post-12102 post type-post status-publish format-standard hentry category-news tag-exit tag-multisig tag-reduce tag-reminder tag-scams tag-supporting">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 12, 2015</span>

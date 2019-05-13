@@ -1,7 +1,7 @@
 ---
 Warning: Fentanyl Being Sold As Oxycodone
 ---
-<article class="post-listing post-9324 post type-post status-publish format-standard hentry category-news tag-fentanyl tag-oxycodone tag-sold tag-warning">
+<article class="post-listing post-9324 post type-post status-publish format-standard hentry category-news tag-fentanyl tag-oxycodone  
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 26, 2015</span>

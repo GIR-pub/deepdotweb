@@ -1,7 +1,7 @@
 ---
 The Ups and Downs of Dark Net Markets
 ---
-<article class="post-listing post-14340 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-downs tag-markets tag-net tag-ups">
+<article class="post-listing post-14340 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-downs tag-net tag-ups">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/a-grey/" title="">a.grey </a></span>
     <span>June 6, 2016</span>

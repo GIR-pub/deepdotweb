@@ -1,7 +1,7 @@
 ---
 Legal Issues? Get Advice From Anonymous DeepWeb Lawyer
 ---
-<article class="post-listing post-6416 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advice tag-anonymous tag-deepweb tag-issues tag-lawyer tag-legal">
+<article class="post-listing post-6416 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advice tag-anonymous tag-deepweb s tag-lawyer tag-legal">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 9, 2014</span>

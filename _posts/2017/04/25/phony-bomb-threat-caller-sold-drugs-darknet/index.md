@@ -1,7 +1,7 @@
 ---
 Phony Bomb Threat Caller Sold Drugs on the Darknet
 ---
-<article class="post-listing post-19378 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bomb tag-caller tag-darknet tag-phony tag-sold tag-threat">
+<article class="post-listing post-19378 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bomb tag-caller tag-darknet tag-phony  tag-threat">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 25, 2017</span>

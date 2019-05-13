@@ -1,7 +1,7 @@
 ---
 Warning: More Onion Cloner Phishing Scams
 ---
-<article class="post-listing post-10043 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cloner tag-onion tag-phishing tag-scams tag-warning">
+<article class="post-listing post-10043 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cloner tag-onion tag-phishing tag-scams 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 22, 2015</span>

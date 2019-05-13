@@ -1,7 +1,7 @@
 ---
 Another Auction By The US Marshals: $1.6 Million In Bitcoins Sold
 ---
-<article class="post-listing post-15310 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-auction tag-marshals tag-million tag-sold">
+<article class="post-listing post-15310 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-auction tag-marshals tag-million ">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 2, 2016</span>

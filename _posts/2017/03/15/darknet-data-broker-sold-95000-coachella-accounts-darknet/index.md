@@ -2,7 +2,7 @@
 Darknet Data Broker Sold 95,000 Coachella Accounts on the Darknet
 ---
 <article class="post-listing post-18624 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-5133 tag-accounts tag-broker tag-coachella tag-darknet tag-data tag-sold">
+ tag-5133 tag-accounts tag-broker tag-coachella tag-darknet tag-data ">
     
 <div class="post-inner">
     

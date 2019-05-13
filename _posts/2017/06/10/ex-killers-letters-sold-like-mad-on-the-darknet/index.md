@@ -1,7 +1,7 @@
 ---
 Ex-Killer&#8217;s Letters &#8220;Sold Like Mad&#8221; on the Darknet
 ---
-<article class="post-listing post-20511 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-exkillers tag-letters tag-mad tag-sold">
+<article class="post-listing post-20511 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-exkillers tag-letters tag-mad ">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 10, 2017</span>

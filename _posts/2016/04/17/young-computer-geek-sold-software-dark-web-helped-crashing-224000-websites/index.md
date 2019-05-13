@@ -1,7 +1,7 @@
 ---
 Young Computer Geek Sold Software On Dark Web That Helped In The Crashing Of 224,000 Websites
 ---
-<article class="post-listing post-13740 post type-post status-publish format-standard hentry category-news tag-3627 tag-computer tag-crashing tag-dark tag-geek tag-helped tag-software tag-sold tag-web tag-websites tag-young">
+<article class="post-listing post-13740 post type-post status-publish format-standard hentry category-news tag-3627 tag-computer tag-crashing tag-dark tag-geek tag-helped tag-software  tag-web tag-websites tag-young">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 17, 2016</span>

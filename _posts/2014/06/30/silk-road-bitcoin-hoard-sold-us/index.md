@@ -1,7 +1,7 @@
 ---
 Silk Road Bitcoin hoard sold in US!
 ---
-<article class="post-listing post-6286 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-hoard tag-sold">
+<article class="post-listing post-6286 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-hoard ">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 30, 2014</span>

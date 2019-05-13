@@ -18,5 +18,4 @@ title: Ross Ulbricht to the FEDS: I want my $33 Million in BTC Back!
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/33m/" rel="tag">33m</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a>
 
-Updated: 2013-12-23</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+Updated: 2013-12-23

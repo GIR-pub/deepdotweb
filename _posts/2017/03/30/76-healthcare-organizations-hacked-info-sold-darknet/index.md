@@ -2,7 +2,7 @@
 76% of Healthcare Organizations Hacked Info Sold on Darknet
 ---
 <article class="post-listing post-18881 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-5199 tag-darknet tag-hacked tag-healthcare tag-organizations tag-sold">
+ tag-5199 tag-darknet tag-hacked care tag-organizations ">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 30, 2017</span>

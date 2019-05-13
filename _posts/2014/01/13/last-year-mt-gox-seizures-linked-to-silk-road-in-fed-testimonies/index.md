@@ -23,5 +23,4 @@ Last Year Mt. Gox Seizures Linked to Silk Road in Fed Testimonies
 <p><strong><a href="http://thegenesisblock.com/mt-gox-seizures-linked-silk-road-fed-testimonies/" target="_blank">Read The Full Article here &gt;&gt;</a></strong></p>
 </div>
 
-<span style="display:none" class="updated">2014-01-13</span>
-<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
+<span style="display:none" class="updated">2014-01-13
