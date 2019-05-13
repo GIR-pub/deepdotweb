@@ -1,9 +1,9 @@
 ---
-RT: TOR is NOT PRISM Proof"
+title: "RT: TOR is NOT PRISM Proof"
 ---
+
 <article class="post-listing post-5655 post type-post status-publish format-standard has-post-thumbnail hentry  tag-prism tag-proof tag-rt 
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 18, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/05/18/rt-tor-prism-proof/#comments">4 Comments</a></span>

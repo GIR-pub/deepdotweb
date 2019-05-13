@@ -1,9 +1,8 @@
 ---
-Reflective Look at Net Neutrality
----
+title: "Reflective Look at Net Neutrality---
+
 <article class="post-listing post-7107 post type-post status-publish format-standard has-post-thumbnail hentry  tag-net tag-neutrality">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/mikewilkerson/" title="">Mike Wilkerson </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/mikewilkerson/" title="">Mike Wilkerson </a></span>
     <span>September 17, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/09/17/a-reflective-look-at-net-neutrality/#comments">6 Comments</a></span>

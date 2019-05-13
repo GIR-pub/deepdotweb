@@ -1,8 +1,9 @@
 ---
-DoctorX “Ask a Drug Expert Physician” Thread – Now On Evolution!"
+title: "DoctorX “Ask a Drug Expert Physician” Thread – Now On Evolution!"
 ---
+
 <article class="post-listing post-8513 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorx tag-evolution tag-expert tag-physician tag-thread">
-    <div class="post-inner">
+<div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 1, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

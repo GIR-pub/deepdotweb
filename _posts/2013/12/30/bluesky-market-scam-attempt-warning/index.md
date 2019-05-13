@@ -1,12 +1,10 @@
 ---
 title: "BlueSky Marketplace Scam Attempt Warning"
 ---
-3015  tag-attempt tag-bluesky tag-scam 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 30, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/12/30/bluesky-market-scam-attempt-warning/#comments">5 Comments</a></span>
+
 
 
 <p><strong><span style="text-decoration: underline;">Update</span></strong>:  <strong>Apparently the blue sky marketplace admins suggested it was a misunderstanding. and OP was updated so the issue was solved. Reddit post of the admins:</strong></p>
@@ -38,6 +36,6 @@ title: "BlueSky Marketplace Scam Attempt Warning"
 <p><a href="/imgs/2013/12/bluesky2.png"><img class="aligncenter  wp-image-3017" alt="bluesky2" src="/imgs/2013/12/bluesky2.png" width="608" height="430" srcset="/imgs/2013/12/bluesky2.png 943w, /imgs/2013/12/bluesky2-300x212.png 300w" sizes="(max-width: 608px) 100vw, 608px"/></a></p>
 <p>This warning adds up to previous warnings about Blue Sky Marketplace spamming forums &#8211; and some other account issues &#8211; the marketplace does not have a forum so we could not get any more responses about this matter. Read this information and decide for yourself if you should trust such marketplace with your funds.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/attempt/" rel="tag">attempt</a> <a href="https://www.deepdotweb.com/tag/bluesky/" rel="tag">bluesky</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a>
+
 
 Updated: 2013-12-30

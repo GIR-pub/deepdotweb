@@ -1,9 +1,9 @@
 ---
-Can Anoncoin Be The Currency Of The Deep Web?"
+title: "Can Anoncoin Be The Currency Of The Deep Web?"
 ---
+
 <article class="post-listing post-7126 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anoncoin tag-currency tag-deep tag-web">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 18, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/09/18/can-anoncoin-be-the-currency-of-the-deep-web/#comments">10 Comments</a></span>

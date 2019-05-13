@@ -1,6 +1,6 @@
 ---
-Anonymous Crypto-Currency Arms Race Part 2
----
+title: "Anonymous Crypto-Currency Arms Race Part 2---
+
 <article class="post-listing post-7258 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-arms tag-armsrace tag-cryptocurrency tag-race">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>

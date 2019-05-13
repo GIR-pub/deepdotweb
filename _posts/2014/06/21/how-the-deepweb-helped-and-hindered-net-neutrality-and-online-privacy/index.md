@@ -1,9 +1,8 @@
 ---
-How The DeepWeb Helped and Hindered Net Neutrality and Online Privacy
----
+title: "How The DeepWeb Helped and Hindered Net Neutrality and Online Privacy---
+
 <article class="post-listing post-6075 post type-post status-publish format-standard has-post-thumbnail hentry  tag-helped tag-hindered tag-net tag-neutrality tag-privacy">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/ikewest/" title="">Ike West </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/ikewest/" title="">Ike West </a></span>
     <span>June 21, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/21/how-the-deepweb-helped-and-hindered-net-neutrality-and-online-privacy/#comments">3 Comments</a></span>

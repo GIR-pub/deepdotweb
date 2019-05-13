@@ -1,12 +1,9 @@
 ---
 title: "Ross Ulbricht to the FEDS: I want my $33 Million in BTC Back!"
 ---
-2877  tag-33m  tag-ulbricht">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 23, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/12/23/ross-ulbricht-i-want-my-33m-in-btc-back/#comments">1 Comment</a></span>
 
 
 <p>Wow. was defiantly not expecting this one.</p>
@@ -15,7 +12,6 @@ title: "Ross Ulbricht to the FEDS: I want my $33 Million in BTC Back!"
 <p>Ross Ulbricht — who was arrested in October for allegedly masterminding the mysterious “deep Web” site — recently filed legal papers in Manhattan federal court admitting he <span style="text-decoration: underline;"><strong>“has an interest as owner”</strong></span> of the more than 173,000 bitcoins the government seized through forfeiture from Silk Road.</p>
 <p>&#8230;&#8230;&#8230;&#8230;..</p>
 <p>Just read the rest of the article here, today was exhausting: <a href="http://nypost.com/2013/12/23/government-robbed-me-of-33m-in-bitcoins-silk-road-pirate/" target="_blank">http://nypost.com/2013/12/23/government-robbed-me-of-33m-in-bitcoins-silk-road-pirate/</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/33m/" rel="tag">33m</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a>
+
 
 Updated: 2013-12-23

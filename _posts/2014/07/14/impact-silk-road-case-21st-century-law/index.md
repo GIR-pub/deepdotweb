@@ -1,11 +1,10 @@
 ---
-The Impact of the Silk Road Case on 21st Century Law
----
+title: "The Impact of the Silk Road Case on 21st Century Law---
+
 <article class="post-listing post-6479 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-21st tag-case tag-century tag-impact tag-law tie_video">
     
     <iframe width="660" height="371" src="http://www.youtube.com/embed/Y1DsEeb2DOY?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 14, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
     <span><a href="https://www.deepdotweb.com/2014/07/14/impact-silk-road-case-21st-century-law/#respond">Leave a comment</a></span>

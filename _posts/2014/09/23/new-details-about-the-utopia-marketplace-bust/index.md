@@ -1,9 +1,9 @@
 ---
-New Details About the Utopia/BMR Busts"
+title: "New Details About the Utopia/BMR Busts"
 ---
+
 <article class="post-listing post-7190 post type-post status-publish format-standard has-post-thumbnail hentry  tag-assassin tag-sale">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 23, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/09/23/new-details-about-the-utopia-marketplace-bust/#comments">2 Comments</a></span>

@@ -1,10 +1,10 @@
 ---
-June 18 FOMC Meeting, What it Means for Bitcoin Price?"
+title: "June 18 FOMC Meeting, What it Means for Bitcoin Price?"
 ---
+
 <article class="post-listing post-6243 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1766 tag-bitcoin tag-fomc tag-june tag-means tag-meeting tag-price">
     
-    <div class="post-inner">
-    
+<    
     
         
     <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>

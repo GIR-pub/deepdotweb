@@ -1,12 +1,9 @@
 ---
 title: "Silk Road Reopens: Losing Escrow Funds &#038; Releasing New Features"
 ---
-2981  tag-escrow tag-features tag-funds tag-losing tag-releasing tag-reopens 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 28, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/12/28/silk-road-reopens-losing-escrow-funds-releasing-new-features/#respond">Leave a comment</a></span>
 
 
 <p><strong>Update: <a href="http://www.deepdotweb.com/2014/01/05/silk-road-2-0-lost-escrow-funds-returned/" target="_blank">Silk Road 2.0: Lost Escrow Funds Returned</a></strong></p>
@@ -119,7 +116,6 @@ title: "Silk Road Reopens: Losing Escrow Funds &#038; Releasing New Features"
     Vendors can now update buyers&#8217; feedback, just as buyers leave feedback for Vendors.</p>
 <p>&#8212;-End Quote&#8212;</p>
 <p>The reactions were very enthusiastic and understanding, and in the light of the recent events with many other markets being hacked and owners running away with the users BTC (<a href="http://www.deepdotweb.com/2013/12/06/bmr-hacked-around-200000-stolen/" target="_blank">BMR being the exception</a>), this kind of honesty should not be taken for granted. Much respect to the Silk Road Staff.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/losing/" rel="tag">losing</a> <a href="https://www.deepdotweb.com/tag/releasing/" rel="tag">releasing</a> <a href="https://www.deepdotweb.com/tag/reopens/" rel="tag">reopens</a> 
+
 
 Updated: 2013-12-28

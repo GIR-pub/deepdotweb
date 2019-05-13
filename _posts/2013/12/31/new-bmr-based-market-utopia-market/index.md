@@ -1,13 +1,9 @@
 ---
-title: "BMR Based Market: Utopia Market
+title: "BMR Based Market: Utopia Market"
 ---
-3063  tag-based tag-bmr tag-utopia">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 31, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/12/31/new-bmr-based-market-utopia-market/#comments">2 Comments</a></span>
-
 
 <ul>
 <li><strong>Update 3.2.14</strong> &#8211; Utopia Marketplace is now <a href="http://www.deepdotweb.com/2014/02/03/utopia-marketplace-is-now-officialy-open/">officially open</a></li>
@@ -40,7 +36,6 @@ title: "BMR Based Market: Utopia Market
 <p>I&#8217;m already registered on the forum, LC too along with cosa.</p></blockquote>
 <p>Keep yourself updated at the Utopia Market URL (currently just the forum):  http://ysas7uv4drg7rlwv.onion/</p>
 <p>We will update the url in our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of hidden marketplaces</a> &#8211; so far at the new markets section &#8211; until we have some real reviews.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/utopia/" rel="tag">utopia</a>
+
 
 Updated: 2013-12-31

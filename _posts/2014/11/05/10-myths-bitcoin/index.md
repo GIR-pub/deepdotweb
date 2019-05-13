@@ -1,9 +1,9 @@
 ---
-10 Myths About Bitcoin"
+title: "10 Myths About Bitcoin"
 ---
+
 <article class="post-listing post-7034 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-bitcoin tag-myths">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>November 5, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/11/05/10-myths-bitcoin/#comments">3 Comments</a></span>

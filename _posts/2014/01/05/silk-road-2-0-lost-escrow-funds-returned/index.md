@@ -1,9 +1,8 @@
 ---
-Silk Road 2.0: Lost Escrow Funds returned!"
+title: "Silk Road 2.0: Lost Escrow Funds returned!"
 ---
-post-3133 post type-post status-publish format-standard has-post-thumbnail hentry tag-escrow tag-funds tag-lost tag-returned 
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 5, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/01/05/silk-road-2-0-lost-escrow-funds-returned/#comments">2 Comments</a></span>

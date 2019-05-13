@@ -1,12 +1,9 @@
 ---
-title: "Hidden Marketplaces List updates 29.12.13
+title: "Hidden Marketplaces List updates 29.12.13"
 ---
-3001  tag-1131 tag-list tag-marketplaces tag-updates">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 29, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/12/29/hidden-marketplaces-list-updates-29-12-13/#respond">Leave a comment</a></span>
 
 
 <p>In addition to our regular updates &#8211; We have done some major updates to our list of hidden marketplaces to reflect the latest changes in Deep web marketplaces scene. this is the recap of recent changes:</p>
@@ -29,6 +26,5 @@ title: "Hidden Marketplaces List updates 29.12.13
 <p>We wish everyone a safe and happy new year!</p>
 <p>&nbsp;</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/291213/" rel="tag">291213</a>  <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/updates/" rel="tag">updates</a>
 
 Updated: 2013-12-29

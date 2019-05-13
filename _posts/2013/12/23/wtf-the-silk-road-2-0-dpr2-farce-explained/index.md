@@ -1,13 +1,9 @@
 ---
 title: "WTF? The Silk Road 2.0 / DPR2 Farce Explained"
 ---
-2850  tag-farce tag-wtf">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 23, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/#comments">15 Comments</a></span>
-
 
 <p><span style="text-decoration: underline;"><strong>Update 2#:</strong></span> <span style="color: #ff0000;">Must Read &#8211; <a href="http://www.deepdotweb.com/2013/12/24/the-silk-road-2-0-tales-psy-ops/" target="_blank"><span style="color: #ff0000;">The Silk Road Tale And Psy-Ops!</span></a></span></p>
 <p><span style="text-decoration: underline;"><strong>Update 1#</strong></span>: <a href="http://www.deepdotweb.com/want-to-know-whats-going-on-heres-what-we-know-facts-and-theories/">Another great summary of the events here</a></p>
@@ -50,7 +46,6 @@ title: "WTF? The Silk Road 2.0 / DPR2 Farce Explained"
 <p><a href="/imgs/2013/12/oracle6.png"><img class="aligncenter  wp-image-2856" alt="oracle6" src="/imgs/2013/12/oracle6.png" width="918" height="493" srcset="/imgs/2013/12/oracle6.png 1366w, /imgs/2013/12/oracle6-300x161.png 300w, /imgs/2013/12/oracle6-1024x550.png 1024w" sizes="(max-width: 918px) 100vw, 918px"/></a></p>
 <p><a href="/imgs/2013/12/oracle7.png"><img class="aligncenter  wp-image-2857" alt="oracle7" src="/imgs/2013/12/oracle7.png" width="768" height="291" srcset="/imgs/2013/12/oracle7.png 1362w, /imgs/2013/12/oracle7-300x114.png 300w, /imgs/2013/12/oracle7-1024x389.png 1024w" sizes="(max-width: 768px) 100vw, 768px"/></a></p>
 <p><a href="/imgs/2013/12/oracle8.png"><img class="aligncenter  wp-image-2858" alt="oracle8" src="/imgs/2013/12/oracle8.png" width="636" height="312" srcset="/imgs/2013/12/oracle8.png 1152w, /imgs/2013/12/oracle8-300x147.png 300w, /imgs/2013/12/oracle8-1024x503.png 1024w" sizes="(max-width: 636px) 100vw, 636px"/></a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/dpr/" rel="tag">dpr</a> <a href="https://www.deepdotweb.com/tag/farce/" rel="tag">farce</a>  <a href="https://www.deepdotweb.com/tag/wtf/" rel="tag">wtf</a>
+
 
 Updated: 2013-12-23

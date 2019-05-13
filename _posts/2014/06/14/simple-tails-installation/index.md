@@ -1,9 +1,9 @@
 ---
-Simple TAILS Installation"
+title: "Simple TAILS Installation"
 ---
+
 <article class="post-listing post-5983 post type-post status-publish format-standard has-post-thumbnail hentry  tag-installation tag-simple tag-tails">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>
     <span>June 14, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/14/simple-tails-installation/#respond">Leave a comment</a></span>

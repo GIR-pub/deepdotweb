@@ -1,9 +1,9 @@
 ---
-Decentralized, Online Markets: A Response to Rand Paul?"
+title: "Decentralized, Online Markets: A Response to Rand Paul?"
 ---
+
 <article class="post-listing post-6080 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decentralized tag-paul tag-rand tag-response">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>July 2, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/07/02/decentralized-online-markets-response-rand-paul/#comments">4 Comments</a></span>

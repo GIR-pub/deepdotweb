@@ -1,9 +1,8 @@
 ---
-Applying Crypto Decentralization to the Physical World: Government
----
+title: "Applying Crypto Decentralization to the Physical World: Government---
+
 <article class="post-listing post-6456 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bit-thereum tag-ethereum">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>July 16, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/07/16/applying-crypto-decentralization-physical-world-government/#respond">Leave a comment</a></span>

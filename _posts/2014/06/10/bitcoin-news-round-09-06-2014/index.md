@@ -1,9 +1,8 @@
 ---
-Bitcoin news round-up 09.06.2014
----
+title: "Bitcoin news round-up 09.06.2014---
+
 <article class="post-listing post-5956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1690 tag-bitcoin tag-news tag-roundup">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 10, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/06/10/bitcoin-news-round-09-06-2014/#respond">Leave a comment</a></span>

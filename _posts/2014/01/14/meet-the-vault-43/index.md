@@ -1,9 +1,8 @@
 ---
-Meet the Vault 43
----
+title: "Meet the Vault 43---
+
 <article class="post-listing post-3460 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1181 tag-meet tag-vault">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 14, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/01/14/meet-the-vault-43/#comments">3 Comments</a></span>

@@ -1,9 +1,8 @@
 ---
-E-Book Recommendation: GnuPG &#8211; High Level Cryptography
----
+title: "E-Book Recommendation: GnuPG &#8211; High Level Cryptography---
+
 <article class="post-listing post-5219 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptography tag-ebook tag-gnupg tag-high tag-level tag-recommendation">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 2, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/05/02/e-book-for-newbs-gnupg-high-level-cryptography/#respond">Leave a comment</a></span>

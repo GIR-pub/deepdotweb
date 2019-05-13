@@ -1,9 +1,9 @@
 ---
-The current state of coin-mixing services"
+title: "The current state of coin-mixing services"
 ---
+
 <article class="post-listing post-5704 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coinmixing tag-current tag-services tag-state">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
     <span>May 25, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/05/25/current-state-coin-mixing-services/#comments">24 Comments</a></span>

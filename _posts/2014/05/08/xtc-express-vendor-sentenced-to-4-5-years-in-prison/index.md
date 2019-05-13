@@ -1,9 +1,9 @@
 ---
-Silk Road Vendor &#8220;XTC Express&#8221; Sentenced to 4 &#038; 5 Years In Prison"
+title: "Silk Road Vendor &#8220;XTC Express&#8221; Sentenced to 4 &#038; 5 Years In Prison"
 ---
+
 <article class="post-listing post-5394 post type-post status-publish format-standard has-post-thumbnail hentry  tag-express tag-prison tag-sentenced tag-vendor tag-xtc tag-years">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 8, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/05/08/xtc-express-vendor-sentenced-to-4-5-years-in-prison/#respond">Leave a comment</a></span>

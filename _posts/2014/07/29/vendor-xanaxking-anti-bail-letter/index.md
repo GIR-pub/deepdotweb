@@ -1,9 +1,9 @@
 ---
-Vendor XanaxKing: Anti-Bail Letter"
+title: "Vendor XanaxKing: Anti-Bail Letter"
 ---
+
 <article class="post-listing post-6634 post type-post status-publish format-standard has-post-thumbnail hentry  tag-antibail tag-letter tag-vendor tag-xanaxking">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 29, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/07/29/vendor-xanaxking-anti-bail-letter/#comments">2 Comments</a></span>

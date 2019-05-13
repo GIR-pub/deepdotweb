@@ -1,9 +1,9 @@
 ---
-Marketplace Merge: DarkBay &#038; Andromeda"
+title: "Marketplace Merge: DarkBay &#038; Andromeda"
 ---
+
 <article class="post-listing post-5192 post type-post status-publish format-standard has-post-thumbnail hentry  tag-andromeda tag-darkbay tag-merge">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 1, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/05/01/marketplace-merge-darkbay-andromeda/#comments">3 Comments</a></span>

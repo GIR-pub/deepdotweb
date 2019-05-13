@@ -1,9 +1,9 @@
 ---
-Joseph Cox: The Deep Web Isn&#8217;t All Dark"
+title: "Joseph Cox: The Deep Web Isn&#8217;t All Dark"
 ---
+
 <article class="post-listing post-6185 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-cox tag-dark tag-deep tag-joseph tag-web">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 23, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
     <span><a href="https://www.deepdotweb.com/2014/06/23/joseph-cox-deep-web-isnt-dark/#respond">Leave a comment</a></span>

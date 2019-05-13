@@ -1,9 +1,9 @@
 ---
-Arrested Silk Road Mod SSBD waives extradition rights over Silk Road charges in Us"
+title: "Arrested Silk Road Mod SSBD waives extradition rights over Silk Road charges in Us"
 ---
+
 <article class="post-listing post-4723 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-extradition tag-mod tag-rights tag-ssbd tag-waives">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 19, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/03/19/arrested-silk-road-mod-ssbd-waives-extradition-rights-silk-road-charges-us/#comments">9 Comments</a></span>

@@ -1,6 +1,6 @@
 ---
-Bitcoin Price Update Oct. 18th, 2014
----
+title: "Bitcoin Price Update Oct. 18th, 2014---
+
 <article class="post-listing post-7422 post type-post status-publish format-standard has-post-thumbnail hentry  tag-19octo tag-bitcoin tag-price tag-update">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

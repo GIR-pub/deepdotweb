@@ -1,9 +1,8 @@
 ---
-Bitcoin Price Recap &#8211; October 13
----
+title: "Bitcoin Price Recap &#8211; October 13---
+
 <article class="post-listing post-7369 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-bitcoin tag-price tag-recapoctober">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>October 13, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/10/13/bitcoin-price-recap-october-13/#respond">Leave a comment</a></span>

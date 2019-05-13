@@ -1,9 +1,8 @@
 ---
-Ethereum: Making the Entire World Trustless (Part 1 &#8211; Introduction)
----
+title: "Ethereum: Making the Entire World Trustless (Part 1 &#8211; Introduction)---
+
 <article class="post-listing post-6521 post type-post status-publish format-standard has-post-thumbnail hentry  tag-entire tag-ethereum tag-making tag-trustless 
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>August 18, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/08/18/ethereum-making-entire-world-trustless/#comments">4 Comments</a></span>

@@ -1,9 +1,8 @@
 ---
-Drugslist Marketplace: Now Offering Multisig Escrow
----
+title: "Drugslist Marketplace: Now Offering Multisig Escrow---
+
 <article class="post-listing post-3526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drugslist tag-escrow tag-multisig tag-offering">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 19, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/01/19/drugslist-marketplace-now-offering-multisig-escrow/#comments">2 Comments</a></span>

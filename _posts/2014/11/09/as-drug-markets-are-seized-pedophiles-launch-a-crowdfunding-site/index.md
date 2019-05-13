@@ -1,9 +1,9 @@
 ---
-While Markets Get Seized: Pedophiles Launch a Crowdfunding Site"
+title: "While Markets Get Seized: Pedophiles Launch a Crowdfunding Site"
 ---
+
 <article class="post-listing post-7962 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crowdfunding tag-pedophiles tag-seized tag-site">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 9, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/#comments">364 Comments</a></span>

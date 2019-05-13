@@ -1,9 +1,9 @@
 ---
-US Police Detective Gets Hit By CryptoWall &#8211; Pays $500 BTC Ransom"
+title: "US Police Detective Gets Hit By CryptoWall &#8211; Pays $500 BTC Ransom"
 ---
+
 <article class="post-listing post-8238 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2424 tag-cryptowall tag-detective tag-hit tag-pays tag-police tag-ransom">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>November 13, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/11/13/us-police-detective-gets-hit-cryptowall-pays-500-btc-ransom/#comments">8 Comments</a></span>

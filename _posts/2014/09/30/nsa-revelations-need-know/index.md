@@ -1,9 +1,8 @@
 ---
-NSA Revelations You Need To Know About
----
+title: "NSA Revelations You Need To Know About---
+
 <article class="post-listing post-7086 post type-post status-publish format-standard has-post-thumbnail hentry  tag-nsa tag-revelations">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>September 30, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/09/30/nsa-revelations-need-know/#comments">6 Comments</a></span>

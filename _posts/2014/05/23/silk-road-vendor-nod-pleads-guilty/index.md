@@ -1,9 +1,8 @@
 ---
-Silk Road Vendor &#8220;Nod&#8221; Pleads guilty
----
+title: "Silk Road Vendor &#8220;Nod&#8221; Pleads guilty---
+
 <article class="post-listing post-5726 post type-post status-publish format-standard has-post-thumbnail hentry  tag-guilty tag-pleads tag-vendor">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 23, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/05/23/silk-road-vendor-nod-pleads-guilty/#comments">3 Comments</a></span>
@@ -15,6 +14,6 @@ Silk Road Vendor &#8220;Nod&#8221; Pleads guilty
     <p>This is Steven Sadler Plea Deal:</p>
     <p><iframe id="doc_14499" class="scribd_iframe_embed" src="//www.scribd.com/embeds/225695260/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
     </div>
-        <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-23</span>
+<a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2014-05-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     

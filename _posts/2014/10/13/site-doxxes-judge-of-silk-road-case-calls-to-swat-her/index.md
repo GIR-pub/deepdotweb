@@ -1,9 +1,9 @@
 ---
-Site Doxx&#8217;es Judge of Silk Road Case &#8211; Calls To &#8220;Swat&#8221; Her"
+title: "Site Doxx&#8217;es Judge of Silk Road Case &#8211; Calls To &#8220;Swat&#8221; Her"
 ---
+
 <article class="post-listing post-7363 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-deepweb tag-details tag-dox tag-judge tag-personal tag-posted 
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 13, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/10/13/site-doxxes-judge-of-silk-road-case-calls-to-swat-her/#comments">10 Comments</a></span>

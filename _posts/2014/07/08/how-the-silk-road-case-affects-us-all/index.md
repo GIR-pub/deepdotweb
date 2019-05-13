@@ -1,11 +1,11 @@
 ---
-How The Silk Road Case Affects Us All"
+title: "How The Silk Road Case Affects Us All"
 ---
+
 <article class="post-listing post-6387 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tie_video">
     
     <iframe width="660" height="371" src="http://www.youtube.com/embed/osg2LqSxEeI?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 8, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
     <span><a href="https://www.deepdotweb.com/2014/07/08/how-the-silk-road-case-affects-us-all/#comments">1 Comment</a></span>

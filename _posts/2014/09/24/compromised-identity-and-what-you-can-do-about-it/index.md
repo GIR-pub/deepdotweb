@@ -1,10 +1,9 @@
 ---
-Guide: Preventing &#038; Dealing With Compromised Identity
----
+title: "Guide: Preventing &#038; Dealing With Compromised Identity---
+
 <article class="post-listing post-6199 post type-post status-publish format-standard has-post-thumbnail hentry  tag-compromised tag-identity">
     
-    <div class="post-inner">
-    
+<    
     
         
     <span>Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>

@@ -1,9 +1,9 @@
 ---
-Introducing The Grail: The 1776 Equal Trust Multisig System"
+title: "Introducing The Grail: The 1776 Equal Trust Multisig System"
 ---
+
 <article class="post-listing post-5468 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1492 tag-equal tag-escrow tag-grail tag-introducing tag-system tag-trust">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 12, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/05/12/introducing-grail-1776-equal-trust-escrow-system/#respond">Leave a comment</a></span>

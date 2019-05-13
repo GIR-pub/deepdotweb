@@ -1,10 +1,9 @@
 ---
-Weekly Bitcoin Update – 13 July 2014
----
+title: "Weekly Bitcoin Update – 13 July 2014---
+
 <article class="post-listing post-6463 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-1779 tag-bitcoin tag-july tag-update tag-weekly">
     
-    <div class="post-inner">
-    
+<    
     
         
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

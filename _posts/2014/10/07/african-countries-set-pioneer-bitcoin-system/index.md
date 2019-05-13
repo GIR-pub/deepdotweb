@@ -1,9 +1,9 @@
 ---
-African Countries That are Set To Pioneer Bitcoin System"
+title: "African Countries That are Set To Pioneer Bitcoin System"
 ---
+
 <article class="post-listing post-7215 post type-post status-publish format-standard has-post-thumbnail hentry  tag-african tag-bitcoin tag-countries tag-pioneer tag-set tag-system">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
     <span>October 7, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/10/07/african-countries-set-pioneer-bitcoin-system/#comments">1 Comment</a></span>

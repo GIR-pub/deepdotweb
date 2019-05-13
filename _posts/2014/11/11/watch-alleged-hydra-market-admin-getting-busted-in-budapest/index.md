@@ -1,9 +1,8 @@
 ---
-Watch: *Alleged* Hydra Market Admin Getting Busted in Budapest
----
+title: "Watch: *Alleged* Hydra Market Admin Getting Busted in Budapest---
+
 <article class="post-listing post-8179 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 11, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/11/11/watch-alleged-hydra-market-admin-getting-busted-in-budapest/#comments">10 Comments</a></span>

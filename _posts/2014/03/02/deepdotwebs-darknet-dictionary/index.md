@@ -1,9 +1,9 @@
 ---
-DeepDotWeb&#8217;s DarkNet Dictionary Project!"
+title: "DeepDotWeb&#8217;s DarkNet Dictionary Project!"
 ---
+
 <article class="post-listing post-1883 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-dictionary">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 2, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/03/02/deepdotwebs-darknet-dictionary/#comments">24 Comments</a></span>

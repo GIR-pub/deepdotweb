@@ -1,9 +1,9 @@
 ---
-Personal Experience: Part 5 – Marketplaces"
+title: "Personal Experience: Part 5 – Marketplaces"
 ---
+
 <article class="post-listing post-6837 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-experiencetag tag-marketplaces tag-personal">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>October 21, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/10/21/personal-experience-part-5-marketplaces/#comments">1 Comment</a></span>

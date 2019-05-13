@@ -1,9 +1,8 @@
 ---
-Weekly Bitcoin Update – 16 Nov. 2014
----
+title: "Weekly Bitcoin Update – 16 Nov. 2014---
+
 <article class="post-listing post-8291 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-1779 tag-bitcoin tag-nov tag-update tag-weekly">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 16, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/11/16/weekly-bitcoin-update-16-nov-2014/#respond">Leave a comment</a></span>

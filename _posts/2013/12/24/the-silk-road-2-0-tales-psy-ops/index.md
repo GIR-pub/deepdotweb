@@ -1,12 +1,9 @@
 ---
 title: "The Silk Road 2.0 Tales &#038; Psy-Ops!"
 ---
-2904 tag-psyops 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 24, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/12/24/the-silk-road-2-0-tales-psy-ops/#respond">Leave a comment</a></span>
 
 
 <p>Just when we thought that this drama could not get any worse, Oracle came along AGAIN announcing he would release the true story about the recent events in 12 hours &#8211; at the beginning we thought &#8220;meh&#8230;&#8221;, but after reading the post, We figured out that This latest SR drama is so hilarious / pathetic / sad / funny / dangerous (cant decide?!) that we are not sure if we should laugh or cry, everyone (at least those of you who are not bored to death yet) should read the previous posts &#8211; <a href="http://www.deepdotweb.com/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/">here</a> &amp; <a href="http://www.deepdotweb.com/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/">here</a> and this one, and judge for themselves.  Anyway we look at it, this story is just&#8230;. well&#8230;. good story, kinda like watching a retard version of breaking bad,  so we just had to post it anyway, you decide if you should believe it or not:</p>
@@ -77,6 +74,5 @@ title: "The Silk Road 2.0 Tales &#038; Psy-Ops!"
 <p>&gt;We made screenshots of this post for future generations:</p>
 <div style="text-align: center;"><a href="/imgs/2013/12/psy1.png"><img class="aligncenter  wp-image-2910" alt="psy1" src="/imgs/2013/12/psy1.png" width="683" height="349" srcset="/imgs/2013/12/psy1.png 1812w, /imgs/2013/12/psy1-300x153.png 300w, /imgs/2013/12/psy1-1024x524.png 1024w" sizes="(max-width: 683px) 100vw, 683px" /></a> <a href="/imgs/2013/12/psy2.png"><img class="aligncenter  wp-image-2911" alt="psy2" src="/imgs/2013/12/psy2.png" width="631" height="225" srcset="/imgs/2013/12/psy2.png 1805w, /imgs/2013/12/psy2-300x107.png 300w, /imgs/2013/12/psy2-1024x366.png 1024w" sizes="(max-width: 631px) 100vw, 631px" /></a></div>
 </div>
- <a href="https://www.deepdotweb.com/tag/psyops/" rel="tag">psyops</a>  <a href="https://www.deepdotweb.com/tag/tales/" rel="tag">tales</a>
 
 Updated: 2013-12-24

@@ -1,9 +1,9 @@
 ---
-Grams: DarkNetMarkets Search Engine"
+title: "Grams: DarkNetMarkets Search Engine"
 ---
+
 <article class="post-listing post-4912 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknetmarkets tag-engine tag-grams tag-search">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 8, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/04/08/grams-darknetmarkets-search-engine/#comments">141 Comments</a></span>

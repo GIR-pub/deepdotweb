@@ -1,10 +1,10 @@
 ---
-Deep Web &#038; Law Enforcement: Introduction to Intelligence"
+title: "Deep Web &#038; Law Enforcement: Introduction to Intelligence"
 ---
+
 <article class="post-listing post-7950 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-enforcement tag-intelligence tag-introduction tag-law tag-web">
     
-    <div class="post-inner">
-    
+<    
     
         
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>

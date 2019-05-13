@@ -1,9 +1,8 @@
 ---
-A Decentralized, Resistant, Alternative Internet
----
+title: "A Decentralized, Resistant, Alternative Internet---
+
 <article class="post-listing post-7271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-decentralized tag-internet tag-resistant">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>November 4, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/11/04/decentralized-resistant-alternative-internet/#comments">1 Comment</a></span>

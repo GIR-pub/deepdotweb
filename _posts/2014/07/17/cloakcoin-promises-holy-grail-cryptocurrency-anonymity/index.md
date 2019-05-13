@@ -1,9 +1,8 @@
 ---
-Cloakcoin Promises the Holy Grail of Cryptocurrency: Trustless Anonymity
----
+title: "Cloakcoin Promises the Holy Grail of Cryptocurrency: Trustless Anonymity---
+
 <article class="post-listing post-6466 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymity tag-cloakcoin tag-cryptocurrency tag-grail tag-holy tag-promises">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 17, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/07/17/cloakcoin-promises-holy-grail-cryptocurrency-anonymity/#comments">23 Comments</a></span>

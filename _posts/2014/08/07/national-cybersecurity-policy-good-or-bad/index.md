@@ -1,9 +1,9 @@
 ---
-National Cybersecurity Policy – Good or Bad?"
+title: "National Cybersecurity Policy – Good or Bad?"
 ---
+
 <article class="post-listing post-6731 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cybersecurity tag-good tag-national tag-policy">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ </a></span>
     <span>August 7, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/08/07/national-cybersecurity-policy-good-or-bad/#comments">2 Comments</a></span>

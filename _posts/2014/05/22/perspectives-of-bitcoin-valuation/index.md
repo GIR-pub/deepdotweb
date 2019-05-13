@@ -1,9 +1,9 @@
 ---
-Perspectives of Bitcoin Valuation"
+title: "Perspectives of Bitcoin Valuation"
 ---
+
 <article class="post-listing post-5684 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-perspectives tag-valuation">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/nostradammit/" title="">Nostradammit </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/nostradammit/" title="">Nostradammit </a></span>
     <span>May 22, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/05/22/perspectives-of-bitcoin-valuation/#respond">Leave a comment</a></span>

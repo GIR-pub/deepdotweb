@@ -1,6 +1,7 @@
 ---
-Senator Schumer: Calls for Renewed Crackdown on Dark Net Markets"
+title: "Senator Schumer: Calls for Renewed Crackdown on Dark Net Markets"
 ---
+
 <article class="post-listing post-7868 post type-post status-publish format-standard has-post-thumbnail hentry  tag-calls tag-crackdown tag-dark tag-net tag-renewed tag-schumer tag-senator">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

@@ -1,10 +1,10 @@
 ---
-El ultimo que me queda"
+title: "El ultimo que me queda"
 ---
+
 <article class="post-6454 post type-post status-publish format-standard has-post-thumbnail hentry category-meme-images tag-generator tag-meme post-listing">
     
-    <div class="post-inner">
-    
+<    
     
         
     <span>Posted by: <a href="http://www.deepdotweb.com/author/" title=""> </a></span>

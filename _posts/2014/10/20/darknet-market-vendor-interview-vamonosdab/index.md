@@ -1,9 +1,9 @@
 ---
-Interview With a DarkNet Vendor: VamonosDab"
+title: "Interview With a DarkNet Vendor: VamonosDab"
 ---
+
 <article class="post-listing post-7405 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-interview tag-vamonosdab tag-vendor">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>October 20, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/10/20/darknet-market-vendor-interview-vamonosdab/#comments">3 Comments</a></span>

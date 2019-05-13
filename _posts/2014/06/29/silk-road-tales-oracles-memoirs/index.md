@@ -1,9 +1,9 @@
 ---
-Silk Road Tales: Oracle&#8217;s Memoirs"
+title: "Silk Road Tales: Oracle&#8217;s Memoirs"
 ---
+
 <article class="post-listing post-6258 post type-post status-publish format-standard has-post-thumbnail hentry  tag-memoirs tag-oracle">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 29, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/29/silk-road-tales-oracles-memoirs/#comments">7 Comments</a></span>

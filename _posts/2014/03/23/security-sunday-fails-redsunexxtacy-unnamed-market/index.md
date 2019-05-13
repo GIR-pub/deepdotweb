@@ -1,9 +1,8 @@
 ---
-Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market
----
+title: "Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market---
+
 <article class="post-listing post-4768 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fail tag-redsunexxtacy tag-security tag-sunday tag-trio tag-unnamed">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 23, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/03/23/security-sunday-fails-redsunexxtacy-unnamed-market/#respond">Leave a comment</a></span>

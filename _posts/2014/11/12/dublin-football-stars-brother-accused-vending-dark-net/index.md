@@ -1,9 +1,8 @@
 ---
-Dublin Football Star&#8217;s Brother Accused Of Vending On The Dark Net
----
+title: "Dublin Football Star&#8217;s Brother Accused Of Vending On The Dark Net---
+
 <article class="post-8192 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust post-listing">
-    <div class="post-inner">
-        <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 12, 2014</span>
     <span>in <a href="http://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="http://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="http://www.deepdotweb.com/2014/11/12/dublin-football-stars-brother-accused-vending-dark-net/#respond" title="Comment on Dublin Football Star&#8217;s Brother Accused Of Vending On The Dark Net">Leave a comment</a></span>

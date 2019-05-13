@@ -1,9 +1,9 @@
 ---
-How DarkNet Markets will Undermine Government Control: Guns"
+title: "How DarkNet Markets will Undermine Government Control: Guns"
 ---
+
 <article class="post-listing post-6140 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-darknet tag-government tag-guns tag-undermine">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>July 19, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/07/19/darknet-markets-will-undermine-government-control-guns/#comments">3 Comments</a></span>

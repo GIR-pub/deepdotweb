@@ -1,9 +1,9 @@
 ---
-Energy Control: Drug Testing Service For DeepWeb Users"
+title: "Energy Control: Drug Testing Service For DeepWeb Users"
 ---
+
 <article class="post-listing post-4891 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-energy">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 6, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/04/06/energy-control-drug-testing-service-for-deepweb-users/#comments">12 Comments</a></span>

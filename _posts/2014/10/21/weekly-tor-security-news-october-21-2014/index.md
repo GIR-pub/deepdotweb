@@ -1,9 +1,8 @@
 ---
-Weekly Tor and Security News – October 21, 2014
----
+title: "Weekly Tor and Security News – October 21, 2014---
+
 <article class="post-listing post-7441 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1966 tag-news tag-october tag-security  tag-weekly">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
     <span>October 21, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/10/21/weekly-tor-security-news-october-21-2014/#respond">Leave a comment</a></span>

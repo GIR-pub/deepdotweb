@@ -1,9 +1,9 @@
 ---
-Ross Ulbricht Faces New Round Of Narcotics Trafficking Charges"
+title: "Ross Ulbricht Faces New Round Of Narcotics Trafficking Charges"
 ---
+
 <article class="post-listing post-6853 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-faces tag-narcotics  tag-trafficking tag-ulbricht">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>August 23, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/08/23/ross-ulbricht-faces-new-round-narcotics-trafficking-charges/#comments">2 Comments</a></span>

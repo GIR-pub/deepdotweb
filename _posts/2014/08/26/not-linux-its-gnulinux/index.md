@@ -1,9 +1,8 @@
 ---
-Not Linux&#8230;it&#8217;s GNU/Linux
----
+title: "Not Linux&#8230;it&#8217;s GNU/Linux---
+
 <article class="post-6888 post type-post status-publish format-standard has-post-thumbnail hentry category-meme-images tag-generator tag-meme post-listing">
-    <div class="post-inner">
-        <span>Posted by: <a href="http://www.deepdotweb.com/author/" title=""> </a></span>
+<<span>Posted by: <a href="http://www.deepdotweb.com/author/" title=""> </a></span>
     <span>August 26, 2014</span>
     <span>in <a href="http://www.deepdotweb.com/category/meme-images/" rel="category tag">Meme Images</a></span>
     <span><a href="http://www.deepdotweb.com/2014/08/26/not-linux-its-gnulinux/#respond" title="Comment on Not Linux&#8230;it&#8217;s GNU/Linux">Leave a comment</a></span>

@@ -1,10 +1,10 @@
 ---
-How Much Did A Scammer Steal From SR2 Members?"
+title: "How Much Did A Scammer Steal From SR2 Members?"
 ---
+
 <article class="post-listing post-4377 post type-post status-publish format-standard has-post-thumbnail hentry  tag-members tag-scammer tag-sr2 tag-steal">
     
-    <div class="post-inner">
-    
+<    
     
         
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

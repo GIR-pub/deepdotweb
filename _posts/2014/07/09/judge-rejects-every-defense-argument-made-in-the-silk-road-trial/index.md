@@ -1,9 +1,9 @@
 ---
-Judge Rejects Every Defense Argument In The Silk Road Trial"
+title: "Judge Rejects Every Defense Argument In The Silk Road Trial"
 ---
+
 <article class="post-listing post-6432 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argument tag-defense tag-judge tag-rejects tag-trial">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 9, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/07/09/judge-rejects-every-defense-argument-made-in-the-silk-road-trial/#comments">8 Comments</a></span>

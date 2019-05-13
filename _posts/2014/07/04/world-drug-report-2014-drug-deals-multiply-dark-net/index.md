@@ -1,9 +1,8 @@
 ---
-World Drug Report 2014: Drug Deals Multiply on the Dark Net
----
+title: "World Drug Report 2014: Drug Deals Multiply on the Dark Net---
+
 <article class="post-listing post-6336 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-dark tag-deals tag-multiply tag-net tag-report 
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 4, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/07/04/world-drug-report-2014-drug-deals-multiply-dark-net/#comments">3 Comments</a></span>

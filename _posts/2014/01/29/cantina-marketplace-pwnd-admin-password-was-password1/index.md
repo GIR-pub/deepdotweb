@@ -1,9 +1,9 @@
 ---
-Cantina Marketplace PWND: Admin Password was: &#8220;Password1&#8221; ?!"
+title: "Cantina Marketplace PWND: Admin Password was: &#8220;Password1&#8221; ?!"
 ---
+
 <article class="post-listing post-3716 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-cantina tag-password tag-password1">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 29, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/#comments">2 Comments</a></span>

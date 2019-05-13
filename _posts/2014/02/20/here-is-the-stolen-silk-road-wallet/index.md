@@ -1,9 +1,9 @@
 ---
-Here is the Stolen Silk Road Wallet?"
+title: "Here is the Stolen Silk Road Wallet?"
 ---
+
 <article class="post-listing post-4352 post type-post status-publish format-standard has-post-thumbnail hentry  tag-stolen tag-wallet">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 20, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/02/20/here-is-the-stolen-silk-road-wallet/#respond">Leave a comment</a></span>

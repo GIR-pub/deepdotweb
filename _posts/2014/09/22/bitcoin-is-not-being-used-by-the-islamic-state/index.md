@@ -1,9 +1,9 @@
 ---
-ISIS Supporter: The Islamic State Does NOT Use Bitcoin"
+title: "ISIS Supporter: The Islamic State Does NOT Use Bitcoin"
 ---
+
 <article class="post-listing post-7166 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-islamic tag-state tag-story tag-truth">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
     <span>September 22, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/09/22/bitcoin-is-not-being-used-by-the-islamic-state/#respond">Leave a comment</a></span>

@@ -1,9 +1,8 @@
 ---
-Official: Silk Road 2.0 Admin Charged in Manhattan Federal Court
----
+title: "Official: Silk Road 2.0 Admin Charged in Manhattan Federal Court---
+
 <article class="post-listing post-7987 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 6, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/11/06/official-silk-road-2-0-admin-charged-manhattan-federal-court/#comments">7 Comments</a></span>

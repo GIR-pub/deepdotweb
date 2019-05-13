@@ -1,9 +1,9 @@
 ---
-Mobile phones and Bitcoin adoption in Africa"
+title: "Mobile phones and Bitcoin adoption in Africa"
 ---
+
 <article class="post-listing post-7149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-adoption tag-africa tag-bitcoin tag-mobile tag-phones">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
     <span>September 26, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/09/26/mobile-phones-bitcoin-adoption-africa/#respond">Leave a comment</a></span>

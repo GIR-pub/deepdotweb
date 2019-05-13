@@ -1,9 +1,9 @@
 ---
-Introducing: Jolly Roger&#8217;s Security Guide for Beginners"
+title: "Introducing: Jolly Roger&#8217;s Security Guide for Beginners"
 ---
+
 <article class="post-listing post-4136 post type-post status-publish format-standard has-post-thumbnail hentry 
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 13, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/02/13/introducing-jolly-rogers-security-guide-for-beginners/#respond">Leave a comment</a></span>

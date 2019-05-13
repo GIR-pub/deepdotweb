@@ -1,9 +1,9 @@
 ---
-Global Drug Survey requests your help!"
+title: "Global Drug Survey requests your help!"
 ---
+
 <article class="post-listing post-8476 post type-post status-publish format-standard has-post-thumbnail hentry  tag-global tag-requests tag-survey">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/monicabarratt/" title="">Monica Barratt </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/monicabarratt/" title="">Monica Barratt </a></span>
     <span>November 28, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/11/28/global-drug-survey-requests-help/#comments">9 Comments</a></span>

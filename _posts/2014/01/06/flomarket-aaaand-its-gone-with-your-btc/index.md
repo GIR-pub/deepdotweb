@@ -1,9 +1,8 @@
 ---
-Flomarket: Aaaan&#8217;d its gone! (With your BTC)
----
+title: "Flomarket: Aaaan&#8217;d its gone! (With your BTC)---
+
 <article class="post-listing post-3168 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aaaand tag-flomarket">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 6, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/01/06/flomarket-aaaand-its-gone-with-your-btc/#comments">1 Comment</a></span>

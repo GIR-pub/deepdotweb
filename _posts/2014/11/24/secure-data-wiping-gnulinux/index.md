@@ -1,9 +1,8 @@
 ---
-Secure Data Wiping on GNU/Linux
----
+title: "Secure Data Wiping on GNU/Linux---
+
 <article class="post-listing post-7402 post type-post status-publish format-standard has-post-thumbnail hentry  tag-data tag-gnulinux tag-secure tag-wiping">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
     <span>November 24, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/11/24/secure-data-wiping-gnulinux/#comments">7 Comments</a></span>

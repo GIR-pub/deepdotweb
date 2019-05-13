@@ -1,9 +1,9 @@
 ---
-Interview with Gopnik Tor botnet Programmer"
+title: "Interview with Gopnik Tor botnet Programmer"
 ---
+
 <article class="post-listing post-5730 post type-post status-publish format-standard has-post-thumbnail hentry  tag-botnet tag-gopnik tag-interview 
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/chrishansen/" title="">ChrisHansen </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/chrishansen/" title="">ChrisHansen </a></span>
     <span>May 26, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/05/26/interview-with-gopnik-tor-botnet/#comments">13 Comments</a></span>

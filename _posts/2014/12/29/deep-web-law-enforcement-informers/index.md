@@ -1,9 +1,9 @@
 ---
-Deep Web &#038; Law Enforcement: Informers"
+title: "Deep Web &#038; Law Enforcement: Informers"
 ---
+
 <article class="post-listing post-7951 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-enforcement tag-informers tag-law tag-web">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>December 29, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/12/29/deep-web-law-enforcement-informers/#respond">Leave a comment</a></span>

@@ -1,9 +1,8 @@
 ---
-Doxbin’s Nachash On Operation Onymous (P.1)
----
+title: "Doxbin’s Nachash On Operation Onymous (P.1)---
+
 <article class="post-listing post-8113 post type-post status-publish format-standard has-post-thumbnail hentry  tag-nashcashtag tag-operation-onymous 2bust">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/nealrauhauser/" title="">Neal Rauhauser </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/nealrauhauser/" title="">Neal Rauhauser </a></span>
     <span>November 11, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/11/11/doxbins-nachash-operation-onymous-1/#comments">3 Comments</a></span>

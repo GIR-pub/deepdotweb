@@ -1,9 +1,9 @@
 ---
-Bitcoin in American Politics: Presidential Candidate Speaks"
+title: "Bitcoin in American Politics: Presidential Candidate Speaks"
 ---
+
 <article class="post-listing post-6149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-interview tag-presiden">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/ikewest/" title="">Ike West </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/ikewest/" title="">Ike West </a></span>
     <span>June 25, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/06/25/bitcoin-in-american-politics-presidential-candidate-speaks/#respond">Leave a comment</a></span>

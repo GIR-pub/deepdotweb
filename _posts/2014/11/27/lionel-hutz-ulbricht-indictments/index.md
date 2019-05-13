@@ -1,9 +1,8 @@
 ---
-Allen Hoffman on the Ulbricht Indictment
----
+title: "Allen Hoffman on the Ulbricht Indictment---
+
 <article class="post-listing post-8064 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hutz tag-indictments tag-lionel tag-ulbricht">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>November 27, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/11/27/lionel-hutz-ulbricht-indictments/#respond">Leave a comment</a></span>

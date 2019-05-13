@@ -1,9 +1,9 @@
 ---
-Poll: Should We Publish An Interview With A Pedo Site Owner?"
+title: "Poll: Should We Publish An Interview With A Pedo Site Owner?"
 ---
+
 <article class="post-listing post-4855 post type-post status-publish format-standard has-post-thumbnail hentry  tag-interview tag-owner tag-pedo tag-poll tag-publish tag-site">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 2, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/04/02/poll-should-we-publish-an-interview-with-a-pedo-site-owner/#comments">136 Comments</a></span>

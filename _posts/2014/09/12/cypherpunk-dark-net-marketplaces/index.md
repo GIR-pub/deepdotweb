@@ -1,9 +1,9 @@
 ---
-Cypherpunk and Dark Net Marketplaces"
+title: "Cypherpunk and Dark Net Marketplaces"
 ---
+
 <article class="post-listing post-6801 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cypherpunk tag-dark tag-marketplaces tag-net">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
     <span>September 12, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/09/12/cypherpunk-dark-net-marketplaces/#respond">Leave a comment</a></span>

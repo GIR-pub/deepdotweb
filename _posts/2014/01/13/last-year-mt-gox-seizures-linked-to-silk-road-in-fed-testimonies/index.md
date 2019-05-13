@@ -1,6 +1,7 @@
 ---
-Last Year Mt. Gox Seizures Linked to Silk Road in Fed Testimonies"
+title: "Last Year Mt. Gox Seizures Linked to Silk Road in Fed Testimonies"
 ---
+
 <article class="post-listing post-3436 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fed tag-gox tag-linked tag-mt tag-seizures tag-testimonies tag-year">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

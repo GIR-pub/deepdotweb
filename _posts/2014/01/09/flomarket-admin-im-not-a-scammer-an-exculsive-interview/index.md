@@ -1,9 +1,9 @@
 ---
-Flomarket Admin: &#8220;Im not a Scammer&#8221; An Exculsive interview!"
+title: "Flomarket Admin: &#8220;Im not a Scammer&#8221; An Exculsive interview!"
 ---
+
 <article class="post-listing post-3388 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-exclusive tag-exflomarket tag-interview">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 9, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/01/09/flomarket-admin-im-not-a-scammer-an-exculsive-interview/#comments">7 Comments</a></span>

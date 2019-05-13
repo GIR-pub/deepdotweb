@@ -1,9 +1,9 @@
 ---
-Darkcoin: Releases Open Source Code"
+title: "Darkcoin: Releases Open Source Code"
 ---
+
 <article class="post-listing post-7252 post type-post status-publish format-standard has-post-thumbnail hentry  tag-code tag-darkcoin tag-open tag-releases tag-source">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 1, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/10/01/darkcoin-releases-open-source-code/#comments">2 Comments</a></span>

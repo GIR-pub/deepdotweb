@@ -1,10 +1,10 @@
 ---
-5 Reasons Your Favorite Anonymous Crypto Isn&#8217;t Anonymous"
+title: "5 Reasons Your Favorite Anonymous Crypto Isn&#8217;t Anonymous"
 ---
+
 <article class="post-listing post-6820 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-crypto tag-currency tag-favorite tag-reasons">
     
-    <div class="post-inner">
-    
+<    
     
         
     <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>

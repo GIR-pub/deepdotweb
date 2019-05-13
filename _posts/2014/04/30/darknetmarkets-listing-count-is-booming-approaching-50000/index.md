@@ -1,9 +1,9 @@
 ---
-Darknetmarkets listing Count Is Booming: Approaching 50,000!"
+title: "Darknetmarkets listing Count Is Booming: Approaching 50,000!"
 ---
+
 <article class="post-listing post-5175 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1514 tag-approaching tag-booming tag-count tag-darknetmarkets tag-listing">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 30, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/04/30/darknetmarkets-listing-count-is-booming-approaching-50000/#comments">6 Comments</a></span>

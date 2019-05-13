@@ -1,9 +1,8 @@
 ---
-Weekly Bitcoin Update – 5 October 2014
----
+title: "Weekly Bitcoin Update – 5 October 2014---
+
 <article class="post-listing post-7302 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-october tag-update tag-weekly">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 5, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/10/05/weekly-bitcoin-update-5-october-2014/#respond">Leave a comment</a></span>

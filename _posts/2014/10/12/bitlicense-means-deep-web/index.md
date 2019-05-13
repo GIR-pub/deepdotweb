@@ -1,9 +1,9 @@
 ---
-What The Bitlicense Means For The Deep Web"
+title: "What The Bitlicense Means For The Deep Web"
 ---
+
 <article class="post-listing post-6841 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitlicense tag-deep tag-means tag-web">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>October 12, 2014</span>
     
     <span><a href="https://www.deepdotweb.com/2014/10/12/bitlicense-means-deep-web/#comments">2 Comments</a></span>

@@ -1,12 +1,9 @@
 ---
 title: "The Sheep, BMR (And Maybe Tormarket) Hacker Reddit Investigation"
 ---
-2974  tag-bmr tag-hacker tag-investigation tag-reddit tag-sheep market">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 27, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/12/27/the-sheep-bmr-and-maybe-tormarket-hacker-investigation/#comments">4 Comments</a></span>
 
 
 <p>If you followed our previous reports regarding the <a href="http://www.deepdotweb.com/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">Sheep Scam</a> and the <a href="http://www.deepdotweb.com/2013/12/06/bmr-hacked-around-200000-stolen/">BMR Hack</a>, you probably remember the claims in both cases of a vendor hacking the site and stealing the users BTC, now, a reddit user claims to have found a links between the two cases and claiming that the hacker was a E-Book Vendor on sheep, and BMR and Tormarket, called Ebook101 on Sheep (as the sheep admin claimed on the shutdown:</p>
@@ -272,6 +269,5 @@ title: "The Sheep, BMR (And Maybe Tormarket) Hacker Reddit Investigation"
 <p>Related Pastebin: http://pastebin.com/Zmx5D5R6</p>
 <p>We will keep following this and report if there will be any interesting developments.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a><a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/tormarket/" rel="tag">tormarket</a>
 
 Updated: 2013-12-27

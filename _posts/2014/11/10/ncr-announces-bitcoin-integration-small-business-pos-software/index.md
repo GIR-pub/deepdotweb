@@ -1,9 +1,9 @@
 ---
-NCR Announces Bitcoin Integration into Small Business POS Software"
+title: "NCR Announces Bitcoin Integration into Small Business POS Software"
 ---
+
 <article class="post-listing post-8149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announces tag-bitcoin tag-business tag-integration tag-ncr tag-pos tag-small tag-software">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+<<span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>November 10, 2014</span>
     <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     <span><a href="https://www.deepdotweb.com/2014/11/10/ncr-announces-bitcoin-integration-small-business-pos-software/#respond">Leave a comment</a></span>

@@ -1,6 +1,7 @@
 ---
-The Ramifications of BitLicence"
+title: "The Ramifications of BitLicence"
 ---
+
 <article class="post-listing post-6861 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitlicence tag-ramifications">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
