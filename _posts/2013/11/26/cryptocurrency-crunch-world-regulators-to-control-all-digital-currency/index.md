@@ -1,5 +1,5 @@
 ---
-title: Cryptocurrency Crunch: World Regulators To Control All Digital Currency?
+title: "Cryptocurrency Crunch: World Regulators To Control All Digital Currency?
 ---
 1930  tag-control tag-crunch tag-cryptocurrency tag-currency tag-digital tag-regulators  tie_thumb">
 <div class="single-post-thumb">

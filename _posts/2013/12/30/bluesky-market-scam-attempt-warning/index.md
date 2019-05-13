@@ -1,5 +1,5 @@
 ---
-title: BlueSky Marketplace Scam Attempt Warning
+title: "BlueSky Marketplace Scam Attempt Warning
 ---
 3015  tag-attempt tag-bluesky tag-scam 
 

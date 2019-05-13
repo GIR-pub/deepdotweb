@@ -1,5 +1,5 @@
 ---
-title: New Silk Road 2.0 Sub Reddit"
+title: "New Silk Road 2.0 Sub Reddit"
 ---
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 12, 2013</span>

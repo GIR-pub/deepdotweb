@@ -21,10 +21,10 @@ Another Marketplace Doxxed: &#8220;HansaMarket&#8221;
     &amp;lt;Architect&amp;gt; &amp;gt; http://46.4.128.75/
     &amp;lt;Architect&amp;gt; wow
     &amp;lt;Architect&amp;gt; fucking retards
-    &amp;lt;six&amp;gt; Title: Login | Hansa (at hansann7wim5ier2.onion)
-    &amp;lt;six&amp;gt; Title: Login | Hansa (at 46.4.128.75)
+    &amp;lt;six&amp;gt; title: "Login | Hansa (at hansann7wim5ier2.onion)
+    &amp;lt;six&amp;gt; title: "Login | Hansa (at 46.4.128.75)
     &amp;lt;Architect&amp;gt; also: http://blockchain.info/ip-address/46.4.128.75
-    &amp;lt;six&amp;gt; Title: Transactions Relayed By 46.4.128.75 - Blockchain.info (at blockchain.info)
+    &amp;lt;six&amp;gt; title: "Transactions Relayed By 46.4.128.75 - Blockchain.info (at blockchain.info)
     &amp;lt;Architect&amp;gt; every transfer since the beginning of the site</textarea></div>
     <div class="crayon-main" style="">
     <table class="crayon-table">

@@ -54,7 +54,7 @@ Evolution Market Background: Carding Forums, Ponzi Schemes &#038; LE
 <p>The guy running the scheme would make some payouts, but he would setup the scheme with capacity slots, and if you withdrew money you would go back into the queue. The number of people actually invested was 25 times larger than the number of people he said were invested. The amount of money invested was around 100 times larger than the revealed amount of money invested.</p>
 <p>The OP of the thread was late on payments just as TCF was shutdown for the last time and everybody was migrated to the new Evolution forums. At this time with the migration to Evolution, TCF had been down from their hack for a couple of weeks and nobody had heard from Samuraiprint &#8211; the guy running the ponzi scheme (or &#8216;investment opportunity&#8217;, in TCF parlance).</p>
 <p>The old thread is lost, but here is a link to the new thread where the scheme continued on Evolution (http://i25c62nvu4cgeqyz.onion/viewtopic.php?id=124) (thread title changed when it was realized that it was a scam):</p>
-<blockquote><p>Title: Samuraiprint/TCF topic: Invest and Multiply your money and be scammed</p>
+<blockquote><p>title: "Samuraiprint/TCF topic: Invest and Multiply your money and be scammed</p>
 <p>Hi all,</p>
 <p>Anyone tried this ?</p>
 <p>I took option 2.</p>

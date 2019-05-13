@@ -1,10 +1,9 @@
 ---
-title: "List Hidden Marketplaces 18.10.13""
+title: "List Hidden Marketplaces 18.10.13"
 ---
+
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 18, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/10/18/list-hidden-marketplaces-18-10-13/#comments">3 Comments</a></span>
 
 
 <p><strong>Was posted on reddit today and in pastebin: </strong> <em>http://pastebin.com/sJ5mDGxm</em></p>

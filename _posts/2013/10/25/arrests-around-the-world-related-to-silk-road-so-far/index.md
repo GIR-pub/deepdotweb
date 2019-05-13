@@ -1,15 +1,11 @@
 ---
-title: Arrests around the world related to Silk Road&#8230;.So far
+title: "Arrests around the world related to Silk Road&#8230;.So far"
 ---
-846 
-    
+
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>October 25, 2013</span>
 
-    
-<span><a href="https://www.deepdotweb.com/2013/10/25/arrests-around-the-world-related-to-silk-road-so-far/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
+
     
 <div class="entry">
     

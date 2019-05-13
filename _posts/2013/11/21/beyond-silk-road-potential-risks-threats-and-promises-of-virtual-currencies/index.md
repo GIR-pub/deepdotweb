@@ -1,5 +1,5 @@
 ---
-title: Beyond Silk Road: Potential Risks, Threats, and Promises of Virtual Currencies
+title: "Beyond Silk Road: Potential Risks, Threats, and Promises of Virtual Currencies
 ---
 1711  tag-currencies tag-potential tag-promises tag-risks tag-threats tag-virtual tie_video">
 

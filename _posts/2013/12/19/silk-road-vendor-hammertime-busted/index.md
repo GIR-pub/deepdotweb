@@ -1,5 +1,5 @@
 ---
-title: Silk Road Vendor &#8220;Hammertime&#8221; Busted
+title: "Silk Road Vendor &#8220;Hammertime&#8221; Busted
 ---
 2687  tag-busted tag-hammertime tag-vendor">
 

@@ -1,5 +1,5 @@
 ---
-title: "Silk Road reloaded: Tor/i2p distro client released!""
+title: "Silk Road reloaded: Tor/i2p distro client released!"
 ---
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

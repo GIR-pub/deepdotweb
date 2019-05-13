@@ -1,5 +1,5 @@
 ---
-title: Digitalink (Silk Road drug dealer) Pleads Guilty"
+title: "Digitalink (Silk Road drug dealer) Pleads Guilty"
 ---
 <p><strong><span style="text-decoration: underline;">As it was posted at the The Baltimore Sun:</span></strong></p>
 <p><em>An Edgewood drug dealer pleaded guilty Tuesday in federal court to supplying customers around the world through the Silk Road online marketplace.</em></p>

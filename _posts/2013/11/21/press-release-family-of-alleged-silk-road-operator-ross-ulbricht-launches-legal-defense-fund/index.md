@@ -1,5 +1,5 @@
 ---
-title: Press Release: Family of alleged Silk Road Operator Ross Ulbricht Launches Legal Defense Fund
+title: "Press Release: Family of alleged Silk Road Operator Ross Ulbricht Launches Legal Defense Fund
 ---
 1698  tag-alleged tag-defense tag-family tag-fund tag-launches tag-legal tag-operator tag-press tag-release  tag-ulbricht">
 

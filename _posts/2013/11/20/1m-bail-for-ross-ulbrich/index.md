@@ -1,5 +1,5 @@
 ---
-title: $1M Bail for Ross Ulbrich
+title: "$1M Bail for Ross Ulbrich
 ---
 1609  tag-1m tag-bail  tag-ulbrich">
 

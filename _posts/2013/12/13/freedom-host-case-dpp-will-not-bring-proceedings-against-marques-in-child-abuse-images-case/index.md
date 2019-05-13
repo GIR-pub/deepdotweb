@@ -1,5 +1,5 @@
 ---
-title: Freedom Host Case: DPP will not bring proceedings against Marques in child abuse images case
+title: "Freedom Host Case: DPP will not bring proceedings against Marques in child abuse images case
 ---
 2529  tag-abuse tag-bring tag-case tag-child tag-dpp tag-freedom tag-images tag-marques tag-proceedings">
 

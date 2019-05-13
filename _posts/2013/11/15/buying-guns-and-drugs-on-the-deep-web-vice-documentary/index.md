@@ -1,5 +1,5 @@
 ---
-title: Buying Guns and Drugs on the Deep Web (Vice Documentary)
+title: "Buying Guns and Drugs on the Deep Web (Vice Documentary)
 ---
 1350 tag-buying tag-deep tag-guns tag-vice tag-web 
 

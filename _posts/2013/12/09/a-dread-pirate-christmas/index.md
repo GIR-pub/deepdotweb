@@ -1,5 +1,5 @@
 ---
-title: A Dread Pirate Christmas
+title: "A Dread Pirate Christmas
 ---
 2363  tag-christmas tag-dread tag-pirate">
 

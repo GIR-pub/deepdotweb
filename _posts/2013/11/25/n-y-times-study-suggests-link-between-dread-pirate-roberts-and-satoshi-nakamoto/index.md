@@ -1,5 +1,5 @@
 ---
-title: N.Y Times: Study Suggests Link Between Dread Pirate Roberts and Satoshi Nakamoto
+title: "N.Y Times: Study Suggests Link Between Dread Pirate Roberts and Satoshi Nakamoto
 ---
 1824  tag-dread tag-link tag-nakamoto tag-ny tag-pirate tag-roberts tag-satoshi tag-study tag-suggests tag-times">
 

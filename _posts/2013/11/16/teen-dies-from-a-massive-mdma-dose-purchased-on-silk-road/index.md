@@ -1,5 +1,5 @@
 ---
-title: Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road
+title: "Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road
 ---
 1362  tag-dies tag-dose tag-massive tag-mdma tag-purchased tag-teen">
 

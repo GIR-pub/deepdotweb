@@ -1,5 +1,5 @@
 ---
-title: Analogue Players In a Digital World: How Silk Road Stumped the Justice Department
+title: "Analogue Players In a Digital World: How Silk Road Stumped the Justice Department
 ---
 1611  tag-analogue tag-department tag-digital tag-justice tag-players tag-stumped 
 

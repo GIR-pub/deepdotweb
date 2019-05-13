@@ -1,7 +1,6 @@
 ---
-title: Silk Road Drug Dealer &#8220;NOD&#8221; Was Flipped By Feds
+title: "Silk Road Drug Dealer &#8220;NOD&#8221; Was Flipped By Feds"
 ---
-737  
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 21, 2013</span>
