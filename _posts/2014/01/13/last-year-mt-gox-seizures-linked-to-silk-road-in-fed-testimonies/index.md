@@ -2,12 +2,9 @@
 title: "Last Year Mt. Gox Seizures Linked to Silk Road in Fed Testimonies"
 ---
 
-<article class="post-listing post-3436 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fed tag-gox tag-linked tag-mt tag-seizures tag-testimonies tag-year">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-<span>January 13, 2014</span>
 
-<span><a href="https://www.deepdotweb.com/2014/01/13/last-year-mt-gox-seizures-linked-to-silk-road-in-fed-testimonies/#respond">Leave a comment</a></span>
+Posted by: DeepDotWeb
+<span>January 13, 2014</span>
 
 
 <p dir="ltr">So it appears that these Seizures of Mt. Gox accounts in the usa were no only a move against Bitcoins or a regulatory thing, but was an integral part of the ongoing investigation against Silk road and the other black markets, as it was <a href="https://www.dhs.gov/news/2013/11/18/ice-statement-record-senate-committee-homeland-security-and-governmental-affairs" target="_blank">stated clearly</a> by U.S. Immigration and Customs Enforcement (ICE) states,</p>
@@ -24,4 +21,5 @@ title: "Last Year Mt. Gox Seizures Linked to Silk Road in Fed Testimonies"
 <p><strong><a href="http://thegenesisblock.com/mt-gox-seizures-linked-silk-road-fed-testimonies/" target="_blank">Read The Full Article here &gt;&gt;</a></strong></p>
 </div>
 
-<span style="display:none" class="updated">2014-01-13
+
+Updated: 2014-01-13
