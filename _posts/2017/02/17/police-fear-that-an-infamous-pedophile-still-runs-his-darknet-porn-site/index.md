@@ -1,7 +1,7 @@
 ---
 Police Fear That An Infamous Pedophile Still Runs His Darknet Porn Site From Behind Bars
 ---
-<article class="post-listing post-18163 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18163 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 17, 2017</span>

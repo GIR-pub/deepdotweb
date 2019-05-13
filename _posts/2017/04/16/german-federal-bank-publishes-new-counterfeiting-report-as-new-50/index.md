@@ -1,7 +1,7 @@
 ---
 German Federal Bank Publishes New Counterfeiting Report As New 50 Euro Notes Get Released
 ---
-<article class="post-listing post-19215 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-19215 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 16, 2017</span>

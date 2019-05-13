@@ -2,7 +2,7 @@
 German Couple Sentenced For Fraud And Drug Possession
 ---
 <article class="post-listing post-18570 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates">
+
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 11, 2017</span>

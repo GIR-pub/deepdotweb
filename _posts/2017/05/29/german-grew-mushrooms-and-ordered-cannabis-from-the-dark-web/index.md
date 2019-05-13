@@ -1,7 +1,7 @@
 ---
 German Grew Mushrooms And Ordered Cannabis From The Dark Web
 ---
-<article class="post-listing post-20209 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-20209 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 29, 2017</span>

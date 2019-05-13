@@ -1,7 +1,7 @@
 ---
 German Fined For Ordering Narcotics For A Friend
 ---
-<article class="post-listing post-19620 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-19620 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 4, 2017</span>

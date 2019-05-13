@@ -1,7 +1,7 @@
 ---
 Feds Using Stingrays to Catch Immigrants
 ---
-<article class="post-listing post-20469 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-20469 post type-post status-publish format-standard has-post-thumbnail hentry 
     
     <div class="post-inner">
     

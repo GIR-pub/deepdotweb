@@ -1,7 +1,7 @@
 ---
 Countries in Africa Started Internet Blackouts After Encrypted Messenger Use Increased
 ---
-<article class="post-listing post-17429 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-17429 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 10, 2017</span>

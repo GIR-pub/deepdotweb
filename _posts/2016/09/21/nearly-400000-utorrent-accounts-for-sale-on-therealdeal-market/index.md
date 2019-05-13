@@ -1,7 +1,7 @@
 ---
 Nearly 400,000 uTorrent Accounts For Sale On TheRealDeal Market
 ---
-<article class="post-listing post-15492 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-15492 post type-post status-publish format-standard has-post-thumbnail hentry 
     
     <div class="post-inner">
     

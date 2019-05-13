@@ -2,7 +2,7 @@
 Police Department in Illinois Sells Seized Bitcoin on Coinbase
 ---
 <article class="post-listing post-18685 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates">
+
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 19, 2017</span>

@@ -1,7 +1,7 @@
 ---
 CEO of BitInstant and BTCKing indicted in New York on money laundering charges for supplying coins to Silk Road users
 ---
-<article class="post-listing post-3680 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-3680 post type-post status-publish format-standard has-post-thumbnail hentry 
     
     <div class="post-inner">
     

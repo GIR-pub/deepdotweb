@@ -1,7 +1,7 @@
 ---
 French Gov&#8217;t: Difficult to Stop ISIS Because of Darknet
 ---
-<article class="post-listing post-18147 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18147 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>February 16, 2017</span>

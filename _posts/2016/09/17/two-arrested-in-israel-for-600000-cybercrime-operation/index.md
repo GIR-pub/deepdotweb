@@ -1,7 +1,7 @@
 ---
 Two Arrested In Israel For $600,000 Cybercrime Operation
 ---
-<article class="post-listing post-15464 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-15464 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 17, 2016</span>

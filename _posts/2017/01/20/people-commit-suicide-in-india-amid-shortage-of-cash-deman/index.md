@@ -1,7 +1,7 @@
 ---
 People Commit Suicide in India Amid Shortage of Cash, Demand of Bitcoin Goes up
 ---
-<article class="post-listing post-17622 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-17622 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 20, 2017</span>

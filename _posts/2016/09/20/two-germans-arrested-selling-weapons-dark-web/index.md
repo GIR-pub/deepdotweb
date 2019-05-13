@@ -1,7 +1,7 @@
 ---
 Two Germans Arrested For Selling Weapons On The Dark Web
 ---
-<article class="post-listing post-15490 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-15490 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 20, 2016</span>

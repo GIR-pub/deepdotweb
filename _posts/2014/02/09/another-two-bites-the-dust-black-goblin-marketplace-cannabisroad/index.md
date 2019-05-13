@@ -1,7 +1,7 @@
 ---
 Another Two Bites The Dust (Black Goblin Marketplace &#038; CannabisRoad)
 ---
-<article class="post-listing post-3893 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-3893 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 9, 2014</span>

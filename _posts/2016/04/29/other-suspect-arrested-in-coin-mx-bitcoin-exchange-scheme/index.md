@@ -1,7 +1,7 @@
 ---
 Other Suspect Arrested in Coin.mx Bitcoin Exchange Scheme
 ---
-<article class="post-listing post-13909 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-13909 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 29, 2016</span>

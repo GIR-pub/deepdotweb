@@ -1,7 +1,7 @@
 ---
 Man Uploads Videos of Himself Abusing a Child to a Pedophile Site, Police Arrest Him the Next Day
 ---
-<article class="post-listing post-18100 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18100 post type-post status-publish format-standard has-post-thumbnail hentry 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>February 13, 2017</span>

@@ -2,7 +2,7 @@
 Man Receives $800 Fine for Ordering 30g Marijuana off the Darknet
 ---
 <article class="post-listing post-18444 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates">
+
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 5, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Trial Started In Swedish Dark Net Vendor Case
 ---
-<article class="post-listing post-18319 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18319 post type-post status-publish format-standard has-post-thumbnail hentry 
     
     <div class="post-inner">
     
