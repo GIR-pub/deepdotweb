@@ -15,9 +15,7 @@ Compromised Email Credentials Behind Most Healthcare Breaches
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/27/compromised-email-credentials-behind-healthcare-breaches/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>According to Evolve IP and ID Agent, hackers breached organisations through compromised emails 63% of the time. The security firms conducted a study of the security practices of 1,000 healthcare organizations. Out of those 1,000 organizations, employees at 680 of them already lost control of their email credentials. Whoever hacked the email accounts of those from the 68% of organisation also uploaded credentials to the darknet.</p>

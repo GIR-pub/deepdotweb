@@ -15,9 +15,7 @@ South Dakota Teen FacingPrison after Ordering 20,000 Fentanyl Pills Form the Dar
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/10/25/south-dakota-teen-facingprison-ordering-20000-fentanyl-pills-form-dark-web/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>Trevor Harden, a 19-year-old who was arrested by law enforcement after shipping <a href="https://www.deepdotweb.com/2017/10/01/mass-fentanyl-shipments-china-delivered-canada-dark-web-deals/">20,000 fentanyl pills</a> in the mail to himself now faces a 20-year jail term alongside a $1,000,000 fine.</p>

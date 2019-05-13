@@ -15,9 +15,7 @@ Headmaster Uploaded Student CP to Darknet Forums
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/31/headmaster-uploaded-student-cp-darknet-forums/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>Romain Farina, the director of a school in Villefontaine, France, possessed a massive cache of child pornography, investigators recently discovered. Authorities indicted Farina in 2015 after he sexually abused numerous adolescents who attended his school. Two years later, after a second search of the man&#8217;s residence, authorities found hard drives that connected Farina to a darknet identity named “pedo-master.”</p>

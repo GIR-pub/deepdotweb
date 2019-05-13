@@ -15,9 +15,7 @@ Darknet Data Broker Sold 95,000 Coachella Accounts on the Darknet
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/15/darknet-data-broker-sold-95000-coachella-accounts-darknet/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>Data breaches are far from uncommon in the day and age we live in, <a href="https://www.deepdotweb.com/2017/01/24/25-mongodb-databases-hacked-within-week/">yet some are more eye-catching than others.</a> For instance, a self-described “Data Broker” listed 950,000 Coachella user accounts on a darknet marketplace. <a href="https://www.databreaches.net/?s=darknet&amp;searchsubmit=">Database breaches and the darknet go hand-in-hand</a>; hackers have an anonymous platform to distribute their stolen data. Mainly, based on the number of people with interest in the event, news of the breach spread more rapidly than normal. Mainstream media began to pick the story up.</p>

@@ -15,9 +15,7 @@ German Tried To Extort Haribo And Kaufland With Poison
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/08/german-tried-extort-haribo-kaufland-poison/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>Bonn prosecutors started an investigation against a 74-year-old pensioner from Dortmund, <a href="https://www.deepdotweb.com/tag/germany/">Germany</a>. The retired man allegedly tried to <a href="https://www.thelocal.de/20170217/pensioner-arrested-over-threat-to-poison-haribo-bears-with-cyanide">extort money</a> from Haribo and supermarket chain Kaufland.</p>

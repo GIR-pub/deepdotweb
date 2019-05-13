@@ -15,9 +15,7 @@ Court Rules FBI Can Keep Phone Hacking Tool Secret from the Public
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/10/17/court-rules-fbi-can-keep-phone-hacking-tool-secret-public/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>On December 2<sup>nd</sup>, 2015 Syed Rizwan Farook committed one of the worst terrorist attacks in the history of California, shooting 14 people and seriously injuring 22 other people. After Farook died in a shootout with law enforcement, the FBI seized Farook’s iPhone 5c. During the investigation into the terrorist attack, the FBI was unable to decrypt Farook’s iPhone. The FBI had asked the NSA to help unlock the phone, but the NSA claimed they were unable to. At this point the <a href="https://www.deepdotweb.com/2016/10/16/fbi-may-need-apples-help-breaking-another-iphone/">FBI asked a judge to issue a writ</a> to require Apple to help create software that would decrypt the iPhone, but Apple declined to undermine their product’s security. Before the hearing to determine if Apple would be forced to produce the decryption software for the <a href="https://www.deepdotweb.com/tag/fbi/">FBI</a>, the FBI announced that it had found another way of accessing the information on the encrypted iPhone, and no longer needed Apple’s assistance.</p>

@@ -15,9 +15,7 @@ University Of Minnesota Student Arrested For Drug Trafficking
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/13/university-minnesota-student-arrested-drug-trafficking/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>Spencer Nichols, an 18-year-old student at the University of Minnesota was <a href="http://www.startribune.com/feds-arrest-u-student-accused-of-trafficking-ecstasy-from-his-dorm-room/414732673/">arrested</a> for <a href="https://www.deepdotweb.com/tag/drugs/">drug</a> trafficking.</p>

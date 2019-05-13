@@ -15,9 +15,7 @@ Early Fraud Detection System Unveiled By MasterCard
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/10/11/early-fraud-detection-system-unveiled-mastercard/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>&nbsp;</p>

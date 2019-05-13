@@ -14,9 +14,7 @@ How Can Banks Engage With Blockchain&#8217;s Radical Innovation?
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/01/can-banks-engage-blockchains-radical-innovation/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>By far, the blockchain technology is the most innovative financial creation throughout the past 200 years. Bitcoin, and cryptocurrency in general, are threatening the existence of the retail banking industry and many decentralization advocates think that the advent of bitcoin has triggered the countdown to extinction of banks. Consequently, the world&#8217;s top bankers have been researching how they can engage with the groundbreaking blockchain technology.</p>

@@ -15,9 +15,7 @@ Stuttgart Man Jailed For Arms And Drugs Trafficking
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/03/stuttgart-man-jailed-arms-drugs-trafficking/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>Earlier in 2016, law enforcement authorities <a href="https://www.deepdotweb.com/2017/02/12/narcotics-weapons-counterfeit-money-found-germans-apartment/">arrested</a> a 28-year-old from Stuttgart, Germany for possessing large amounts of narcotics, counterfeit money, and weapons in his apartment. Now, the 7th Criminal Court <a href="http://www.stuttgarter-nachrichten.de/inhalt.landgericht-stuttgart-verurteilt-waffenhaendler-ex-hockeyspieler-muss-ins-gefaengnis.e38786f1-eb0c-4dec-b09c-33a2ed8e900e.html">sentenced</a> him to five years in prison.</p>

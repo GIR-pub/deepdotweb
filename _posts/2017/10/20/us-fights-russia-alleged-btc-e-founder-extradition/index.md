@@ -15,9 +15,7 @@ US Fights Russia Over Alleged BTC-e Founder Extradition
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/10/20/us-fights-russia-alleged-btc-e-founder-extradition/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>A Greek court cleared the way for Alexander Vinnik, a suspected operator of the Bitcoin exchange formerly known as BTC-e, to be cleared for extradition to the United States. Vinnik faces money laundering charges in the US. However, as a Russian citizen, Vinnik protested the extradition to the US and agreed to surrender himself to Russia. Russia issued an extradition summons that <a href="https://cointelegraph.com/news/btc-es-vinnik-will-go-to-russia-not-us-greek-court-rules">the Greek court upheld</a>.</p>

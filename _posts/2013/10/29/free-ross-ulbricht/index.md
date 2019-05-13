@@ -9,9 +9,7 @@ title: "Free Ross Ulbricht
 <span>in <a href="http://www.deepdotweb.com/category/memes/" rel="category tag">Memes &amp; Funny</a></span>
     
 <span><a href="http://www.deepdotweb.com/2013/10/29/free-ross-ulbricht/#comments" title="Comment on Free Ross Ulbricht">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <div class="wp-socializer-buttons clearfix">

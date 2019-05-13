@@ -14,9 +14,7 @@ Bitcoin Price Analysis &#8211; 25 Novemebr 2015
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/11/25/bitcoin-price-analysis-25-novemebr-2015/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p><a href="/imgs/2015/11/12.jpg"><img class="aligncenter size-full wp-image-12321" src="/imgs/2015/11/12.jpg" alt="1" width="1644" height="916" srcset="/imgs/2015/11/12.jpg 1644w, /imgs/2015/11/12-300x167.jpg 300w, /imgs/2015/11/12-1024x571.jpg 1024w" sizes="(max-width: 1644px) 100vw, 1644px" /></a></p>

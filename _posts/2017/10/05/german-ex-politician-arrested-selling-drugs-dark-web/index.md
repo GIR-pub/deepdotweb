@@ -15,9 +15,7 @@ German Ex-politician Arrested For Selling Drugs On The Dark Web
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/10/05/german-ex-politician-arrested-selling-drugs-dark-web/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>Boris J., an ex-politician of the German Green Party has been <a href="https://www.morgenpost.de/berlin/article211999449/Im-Darknet-gedealt-Haftbefehl-fuer-Kreuzberger-Ex-Politiker.html">arrested</a> by the country’s law enforcement authorities for allegedly running a narcotics trafficking operation on the dark web.</p>

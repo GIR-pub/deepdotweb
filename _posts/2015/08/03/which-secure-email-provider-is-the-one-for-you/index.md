@@ -14,9 +14,7 @@ Which Secure Email Provider Is the One For You?
 
     
 <span><a href="https://www.deepdotweb.com/2015/08/03/which-secure-email-provider-is-the-one-for-you/#comments">37 Comments</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>As privacy consciousness has increased, phrases like “zero knowledge” and “end-to-end encryption” have become buzzwords of sorts. Many businesses, products, and online services have sprung up in the wake of Edward Snowden hoping to get a slice of the rapidly expanding market for privacy-enhancing technology. But which ones are all talk and which deliver? Let&#8217;s take a look at a few email providers who might fit the bill.</p>

@@ -9,9 +9,7 @@ title: "The Silk Road Saga: Who is “The Employee”? – Part I
 
     
 <span><a href="https://www.deepdotweb.com/2013/11/05/the-silk-road-saga-who-is-the-employee-part-i/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>The Silk Road was finally brought down by the feds after operating for almost three years.  Ross Ulbricht, known as Dread Pirate Roberts, was the kingpin of this multi-million-dollar online drug bazaar.  His recent October arrest was what ran the Silk Road’s illicit dealings aground, never to set sail again.  This story of hitmen and heroine, stings and busts, has made international headlines; however, very little is still known about exactly how DPR met his doom and the Silk Road came to its abrupt end.</p>

@@ -14,9 +14,7 @@ Did Tor Start Crowdfunding To Reduce US Government Funding?
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/12/03/tor-to-start-crowdfunding-to-reduce-dependency-from-us-government/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p><a href="https://nakedsecurity.sophos.com/2015/11/30/tor-looks-to-reduce-dependency-on-us-government-money/">In order to raise money for the browser, the Tor Project started a crowdfunding campaign.</a> This could raise even more funds to the project, and if Tor will have enough of that, it could mean they could reduce their dependence from the US Government. This is important for them since 80-90% of the funding is from the United States governmental institutes.</p>

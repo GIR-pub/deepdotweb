@@ -14,9 +14,7 @@ Drug Trafficker Pleads Guilty to Bribing a USPS Employee
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/03/18/drug-trafficker-pleads-guilty-bribing-usps-employee/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>Rudolph Dwight Hanchard, a 39-year-old in Buffalo, New York, pleaded guilty to a <a href="https://www.justice.gov/usao-wdny/pr/buffalojamaican-drug-dealer-pleads-guilty-bribery-postal-carrier">crime involving bribery, marijuana, and the USPS</a>. U.S. District Judge Lawrence J. Vilardo heard the entire case against Hanchard and noted that the defendant faced 15 years in prison, if convicted. Additionally, Acting U.S. Attorney James P. Kennedy, Jr. wrote that Hanchard faced a maximum fine of $250,000 for his crimes.</p>

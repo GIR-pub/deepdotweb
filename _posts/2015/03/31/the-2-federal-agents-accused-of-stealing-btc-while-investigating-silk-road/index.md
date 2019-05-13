@@ -14,9 +14,7 @@ The 2 Federal Agents Accused Of Stealing BTC While Investigating Silk Road
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/03/31/the-2-federal-agents-accused-of-stealing-btc-while-investigating-silk-road/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <div class="wp-socializer-buttons clearfix">

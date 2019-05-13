@@ -15,9 +15,7 @@ Deputy Attorney General Calls for Government Backdoors
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/10/21/deputy-attorney-general-calls-government-backdoors/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>Deputy Attorney General Rod Rosenstein <a href="https://www.justice.gov/opa/speech/deputy-attorney-general-rod-j-rosenstein-delivers-remarks-encryption-united-states-naval">told cadets at the Naval Academy</a> in Annapolis that “warrant proof” encryption posed a threat to law enforcement. And by impeding law enforcement’s ability to read messages sent from services like iMessage or Signal, encryption puts the public at risk. His speech to the cadets mirrored another speech from one week prior that he presented at the Cambridge Cyber Summit.</p>

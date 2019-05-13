@@ -238,9 +238,7 @@ One comment </h3>
 <div class="author-comment">
 <cite class="fn">Kris</cite> <div class="comment-meta commentmetadata">
 <a href="https://www.deepdotweb.com/2017/07/25/ways-to-store-your-passwords/#comment-641826"> July 25, 2017 at 6:55 pm</a> </div> 
-</div>
-<div class="clear"></div>
-<div class="comment-content">
+</div><div class="comment-content">
 <p>Or you can do it the easy and safest way<br/>
 &#8212;&#8211;<br/>
 1) you just use word, make a tabel with a column for the service, a column for you username/E-mail, And a column for you password, and a extra column for extra information if needed.<br/>
@@ -620,9 +618,7 @@ Updated: List of Dark Net Markets (Tor &#038; I2P)</a></h3>
 <h3><a href="https://www.deepdotweb.com/2014/04/02/poll-should-we-publish-an-interview-with-a-pedo-site-owner/" title="Poll: Should We Publish An Interview With A Pedo Site Owner?">Poll: Should We Publish An Interview With A Pedo Site Owner?</a></h3>
 <span class="date"><span>April 2, 2014</span></span>
 </li>
-</ul>
-<div class="clear"></div>
-</div></div>  </div>
+</ul></div></div>  </div>
 <div id="footer-second" class="footer-widgets-box">
 <div id="arpw-widget-3" class="footer-widget arpw-widget-random"><div class="footer-widget-top"><h4>Random Posts</h4></div>
 <div class="footer-widget-container"><div class="arpw-random-post "><ul class="arpw-ul"><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="https://www.deepdotweb.com/2017/07/29/trainer-banned-giving-darknet-course-inmates/" rel="bookmark">Trainer Is Banned For Giving Darknet Course to Inmates</a><time class="arpw-time published" datetime="2017-07-29T08:59:31-03:00">July 29, 2017</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="https://www.deepdotweb.com/2017/07/22/restricting-illegal-cryptocurrency-transactions-via-ethereum-token/" rel="bookmark">Restricting Illegal Cryptocurrency Transactions Via An Ethereum Token</a><time class="arpw-time published" datetime="2017-07-22T14:48:41-03:00">July 22, 2017</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="https://www.deepdotweb.com/2016/06/21/dark-net-vendor-fredthebaker-busted-netherlands/" rel="bookmark">Dark Net Vendor ”fredthebaker” Busted In The Netherlands</a><time class="arpw-time published" datetime="2016-06-21T17:30:57-03:00">June 21, 2016</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="https://www.deepdotweb.com/2017/05/19/bitcoin-price-analysis-19th-may-2017/" rel="bookmark">Bitcoin Price Analysis 19th May 2017</a><time class="arpw-time published" datetime="2017-05-19T21:39:00-03:00">May 19, 2017</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="https://www.deepdotweb.com/2015/04/22/bitcoin-price-analysis-april-22th/" rel="bookmark">Bitcoin Price Analysis April 22th</a><time class="arpw-time published" datetime="2015-04-22T06:28:46-03:00">April 22, 2015</time></li></ul></div> </div></div>  </div> 
@@ -649,17 +645,11 @@ Updated: List of Dark Net Markets (Tor &#038; I2P)</a></h3>
 <h3><a href="https://www.deepdotweb.com/2017/07/30/unitecdeamp-novel-darknet-traffic-decomposition-approach/">UnitecDEAMP -A Novel Darknet Traffic Decomposition Approach</a></h3>
 <span class="date"><span>July 30, 2017</span></span>
 </li>
-</ul>
-<div class="clear"></div>
-</div></div>  </div> 
+</ul></div></div>  </div> 
 <div id="footer-fourth" class="footer-widgets-box">
 <div id="recent-comments-3" class="footer-widget widget_recent_comments"><div class="footer-widget-top"><h4>Recent Comments</h4></div>
 <div class="footer-widget-container"><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Billy</span> on <a href="https://www.deepdotweb.com/2017/07/25/jailed-silk-road-owner-ross-ulbricht-transferred-another-location-without-notice/#comment-641982">The Jailed Silk Road Owner, Ross Ulbricht Transferred To another Location without Notice</a></li><li class="recentcomments"><span class="comment-author-link">Tervus Mwas</span> on <a href="https://www.deepdotweb.com/2016/05/07/anonymous-teaches-hacking-dark-web-chat-network/#comment-641980">Anonymous Teaches Hacking On Dark Web Chat Network</a></li><li class="recentcomments"><span class="comment-author-link">Corey</span> on <a href="https://www.deepdotweb.com/2017/07/30/bitcoin-news-roundup-july-30-2017/#comment-641977">Bitcoin news roundup, July 30, 2017</a></li><li class="recentcomments"><span class="comment-author-link">Testman</span> on <a href="https://www.deepdotweb.com/2017/06/11/austria-urges-the-netherlands-to-shut-down-drug-laboratories/#comment-641976">Austria Urges The Netherlands To Shut Down Drug Laboratories</a></li><li class="recentcomments"><span class="comment-author-link">nine</span> on <a href="https://www.deepdotweb.com/2017/07/25/jailed-silk-road-owner-ross-ulbricht-transferred-another-location-without-notice/#comment-641973">The Jailed Silk Road Owner, Ross Ulbricht Transferred To another Location without Notice</a></li></ul></div></div>  </div> 
-</div> 
-<div class="clear"></div>
-</footer> 
-<div class="clear"></div>
-<div class="footer-bottom">
+</div> </footer> <div class="footer-bottom">
 <div class="container">
 <div class="alignright">
  
@@ -669,9 +659,7 @@ Updated: List of Dark Net Markets (Tor &#038; I2P)</a></h3>
 <a class="footer-logo" title="Deep Dot Web" href="https://www.deepdotweb.com/">
 <img src="https://www.deepdotweb.com/wp-content/themes/sahifa-child-new/images/deep-dot-web-logo.svg" alt=""/>
 </a>
-</div>
-<div class="clear"></div>
-</div> 
+</div></div> 
 </div> 
  
 <script>

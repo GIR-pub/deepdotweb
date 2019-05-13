@@ -10,9 +10,7 @@ title: "Buying Guns and Drugs on the Deep Web (Vice Documentary)
 <span>November 15, 2013</span>
     
 <span><a href="http://www.deepdotweb.com/2013/11/15/buying-guns-and-drugs-on-the-deep-web-vice-documentary/#respond" title="Comment on Buying Guns and Drugs on the Deep Web (Vice Documentary)">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <div class="wp-socializer-buttons clearfix">

@@ -14,9 +14,7 @@ How To Buy From TheRealDeal Market?
 
     
 <span><a href="https://www.deepdotweb.com/2015/12/21/how-to-buy-from-therealdeal-market/#comments">37 Comments</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p><a href="https://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market/">TheRealDeal Market</a> has recently updated it entire UI to look similar to the past Evolution market, the admin have provided us with a market buying tutorial &#8211; this tutorial addresses escrow transactions, Multisig tutorial will be added later.</p>

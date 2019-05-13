@@ -15,9 +15,7 @@
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2017/10/17/2-canadians-arrested-darknet-fentanyl-case/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p>Two Canadians have been <a href="http://www.cbc.ca/beta/news/canada/british-columbia/fentanyl-dark-web-ring-1.4343019">arrested by the Royal Canadian Mounted Police</a> for distributing fentanyl and carfentanil through darknet markets. The Kelowna Royal Canadian Mounted Police worked with law enforcement agencies across Canada including the Calgary Police, as well as agencies in the United States such as the <a href="https://www.deepdotweb.com/tag/dea/">Drug Enforcement Agency (DEA)</a> and law enforcement in Australia, in an international investigation named Project E-Neophile. The two suspects arrested in British Columbia include a 35 year old man named James Nelson, and his spouse, a 28 year old woman named Cassie Bonthoux. The two have not yet been formally charged of any crimes.</p>

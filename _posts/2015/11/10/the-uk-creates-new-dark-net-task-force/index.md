@@ -14,9 +14,7 @@ The UK Creates New Dark Net Task Force
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/11/10/the-uk-creates-new-dark-net-task-force/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p><a href="http://motherboard.vice.com/read/the-uk-will-police-the-dark-web-with-a-new-task-force">With the fear of the dark web expanding, the United Kingdom’s main intelligence agency, the GCHQ (Government Communications Headquarters) and the country’s top law enforcement apparatus, the National Crime Agency (NCA), have formed a brand new task force to battle dark net criminals.</a> An NCA press release that has been published on Friday goes by:</p>

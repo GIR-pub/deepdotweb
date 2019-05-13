@@ -14,9 +14,7 @@ Bitcoin News Roundup – 11 Oct. 2015
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
 <span><a href="https://www.deepdotweb.com/2015/10/11/bitcoin-news-roundup-11-oct-2015/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
+</p>    
 <div class="entry">
     
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
