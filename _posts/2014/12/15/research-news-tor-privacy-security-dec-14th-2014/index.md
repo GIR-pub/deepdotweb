@@ -1,7 +1,7 @@
 ---
 title: "Research &#038; News in Tor, Privacy, &#038; Security – Dec 15th, 2014---
 
-<article class="post-listing post-8643 post type-post status-publish format-standard has-post-thumbnail hentry  tag-14th tag-1779 tag-dec tag-news tag-privacy tag-research tag-security 
+8643 post type-post status-publish format-standard has-post-thumbnail hentry  tag-14th tag-1779 tag-dec tag-news tag-privacy tag-research tag-security 
 Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
 <span>December 15, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

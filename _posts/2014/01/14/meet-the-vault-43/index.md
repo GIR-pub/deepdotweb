@@ -1,14 +1,10 @@
 ---
-title: "Meet the Vault 43---
+title: "Meet the Vault 43"
+---
 
-<article class="post-listing post-3460 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1181 tag-meet tag-vault">
 Posted by: DeepDotWeb
 <span>January 14, 2014</span>
-    
-<a href="/2014/01/14/meet-the-vault-43/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>We just came across and browsed around a new and interesting service called Vault 43, you can find the vault 43 at this url: <strong>http://vault43nodowhdmy.onion</strong></p>
 <p>At start, We were not so sure about how to classify this community so we just combined 2 introduction posts from the market admin posted on reddit and on the vault itself, most important thing to say is that we like the direction things are going with the developments of community based markets rather than shopping cart based markets. here you can find explanation of the expected features (so far only the forum is live as far as i see):</p>
 <p>You can read the OP here: http://www.reddit.com/r/DarkNetMarkets/comments/1v5xgs/vault_43_is_starting_to_come_online_the_door/</p>
@@ -36,6 +32,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/01/vault43.png"><img class="aligncenter size-full wp-image-3461" alt="vault43" src="/imgs/2014/01/vault43.png" width="1069" height="868" srcset="/imgs/2014/01/vault43.png 1069w, /imgs/2014/01/vault43-300x244.png 300w, /imgs/2014/01/vault43-1024x831.png 1024w" sizes="(max-width: 1069px) 100vw, 1069px"/></a></p>
 <p>Vault43 Is listed on our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of hidden marketplaces</a>, as we understand its undergoing developments so its now listed under the new markets / being developed &#8211; and will change its status once we will see some more features being released.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/43/" rel="tag">43</a> <a href="https://www.deepdotweb.com/tag/meet/" rel="tag">meet</a> <a href="https://www.deepdotweb.com/tag/vault/" rel="tag">vault</a></span> 
+
 Updated: 2014-01-14
     

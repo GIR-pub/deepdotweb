@@ -2,7 +2,7 @@
 title: "Crypto Decentralization &#038; the Physical World: Banking"
 ---
 
-<article class="post-listing post-6442 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applying tag-banking tag-crypto tag-decentralization tag-physical 
+6442 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applying tag-banking tag-crypto tag-decentralization tag-physical 
 Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
 <span>August 13, 2014</span>
     

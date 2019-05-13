@@ -2,14 +2,12 @@
 title: "Pandora Market: Is It Gone?"
 ---
 
-<article class="post-listing post-6492 post type-post status-publish format-standard has-post-thumbnail hentry  tag-everyones tag-pandora">
+6492 post type-post status-publish format-standard has-post-thumbnail hentry  tag-everyones tag-pandora
 Posted by: DeepDotWeb
 <span>July 21, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/21/pandora-market-is-it-gone/#comments">9 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p style="text-align: center;"><span style="color: #333333;"><strong>Update</strong><strong>:  <span style="color: #ff0000;">Market is back up:  This was the Statement from the Admin:</span></strong></span></p>
 <blockquote>
 <div class="list_posts" style="text-align: center;"><span style="color: #ff0000;"><strong>Sorry guys, my bad, pandora will be back up soon, just serios technical issues combined with holiday time. I am Sorry for that shit !</strong></span></div>

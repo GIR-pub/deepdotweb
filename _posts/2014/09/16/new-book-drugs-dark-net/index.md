@@ -1,7 +1,8 @@
 ---
-title: "New Book Introduction: &#8220;Drugs on the Dark Net&#8221;---
+title: "New Book Introduction: &#8220;Drugs on the Dark Net&#8221;"
+---
 
-<article class="post-listing post-7104 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-net">
+7104 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-net
 Posted by: DeepDotWeb
 <span>September 16, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

@@ -1,12 +1,10 @@
 ---
 title: "Weekly Bitcoin Update – 13 July 2014---
 
-<article class="post-listing post-6463 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-1779 tag-bitcoin tag-july tag-update tag-weekly">
+6463 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-1779 tag-bitcoin tag-july tag-update tag-weekly">
     
-<    
-    
-        
-    Posted by: DeepDotWeb
+
+Posted by: DeepDotWeb
     
     
 <span>July 13, 2014</span>
@@ -14,9 +12,6 @@ title: "Weekly Bitcoin Update – 13 July 2014---
     
 <a href="/2014/07/13/weekly-bitcoin-update-13-july-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-    
-<div class="entry">
     
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p><strong>Industry News</strong></p>
@@ -33,11 +28,8 @@ title: "Weekly Bitcoin Update – 13 July 2014---
 <p>An Argentinian money regulator, the UIF, has ordered for all transactions involving digital currency, including bitcoin, to be reported by financial services companies. Stan Higgins of CoinDesk finds that the UIF, like Michel Sapin and Luigi Ciampoli, both found that bitcoin carries with it the threat of money laundering and criminal financing. The UIF hopes these reports will prevent criminal funds from moving outside of Argentina’s regulatory jurisdiction.</p>
     
     
-</div><!-- .entry /-->
 <a href="https://www.deepdotweb.com/tag/13/" rel="tag">13</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span>				
 Updated: 2014-07-13
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

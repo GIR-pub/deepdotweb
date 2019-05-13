@@ -2,14 +2,12 @@
 title: "Bitcoin in American Politics: Presidential Candidate Speaks"
 ---
 
-<article class="post-listing post-6149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-interview tag-presiden">
+6149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-interview tag-presiden
 Posted by: <a href="https://www.deepdotweb.com/author/ikewest/" title="">Ike West </a></span>
 <span>June 25, 2014</span>
     
 <a href="/2014/06/25/bitcoin-in-american-politics-presidential-candidate-speaks/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Bitcoin is becoming less of a social issue centering around the anonymous purchasing of questionable products and moving toward the political spectrum. In the United States the FEC (Federal Election Committee), <a href="http://www.broadwayworld.com/bwwgeeks/article/BitPay-and-CoinVox-Connect-Politicians-to-Bitcoin-20140619#.U6OZ7PldUrU">aided by BitPay and CoinVox</a>, has recently started allowing campaign and PAC ( or, Political Action Committee) donations to be made in Bitcoin, as long as they follow the same rules as donations made in foreign currency. Previously, some campaigns had allowed supporters to donate with Bitcoin and other Crypto Currencies. This movement has been lead largely by the Libertarian Party. <a href="http://www.lp.org/platform">The Libertarian party is distinguished by their desired limitations of the government</a>. Under the Libertarian Party Government would take a back seat and let the people govern themselves with the exemption of a few responsibilities such a national defense. This ideology lends itself strongly to Bitcoin becauses it’is decentralized and personal. Presidential campaigns for 2016 are already starting up, and one candidate is taking an interesting take on campaign donations. If you will navigate to the campaign site <a href="http://darrylwperry.com/donate/">for Darryl Perry</a>, you are informed that “Campaign contributions are currently being accepted only in Bitcoin, Litecoin, gold, silver and copper” not something you see every day or have ever seen for that matter.</p>
 <p>Presidential Candidate Darryl Perry sent an open letter to the FEC regarding this, as well as other somewhat unique declarations for his campaign. He is cutting all ties from the committee because, as a libertarian, he sees them as invalid and unnecessary. He also claims that their regulations and restrictions on campaign donations are unconstitutional under the freedom of speech. As such, he will not be reporting his donations or accepting any tender recognized by the committee. If you wish to read his open letter you can at <a href="http://darrylwperry.com/2013/05/07/open-letter-to-the-fec/">http://darrylwperry.com/2013/05/07/open-letter-to-the-fec/</a>. Recently I had the opportunity to interview Mr. Perry on his thoughts on the FEC, Bitcoin, and online privacy.</p>
 <p><strong>1) Why is your campaign only accepting Crypto Currency and Precious Metals?</strong></p>

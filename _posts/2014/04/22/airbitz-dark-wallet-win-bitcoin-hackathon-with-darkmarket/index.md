@@ -2,16 +2,12 @@
 title: "Airbitz &#038; Dark Wallet Win Bitcoin Hackathon with DarkMarket!"
 ---
 
-<article class="post-listing post-5099 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-airbitz tag-bitcoin tag-dark tag-darkmarket tag-hackathon tag-wallet tag-win tie_video">
-    
+
 <iframe width="660" height="371" src="http://www.youtube.com/embed/lHVqH8XO1Pk?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 Posted by: DeepDotWeb
 <span>April 22, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
-<a href="/2014/04/22/airbitz-dark-wallet-win-bitcoin-hackathon-with-darkmarket/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Ver interesting project, Source of the information is here: </strong></p>
 <p><strong><a href="https://go.airbitz.co/airbitz-dark-wallet-win-bitcoin-hackathon-darkmarket/">https://go.airbitz.co/airbitz-dark-wallet-win-bitcoin-hackathon-darkmarket/</a></strong></p>
 <p><strong> Reddit discution: http://www.reddit.com/r/DarkNetMarkets/comments/23m79j/darkmarket_a_decentralized_peertopeer_marketplace/</strong></p>
@@ -26,7 +22,6 @@ Posted by: DeepDotWeb
 <p style="text-align: center;">Check out the <a href="https://github.com/darkwallet/darkmarket" target="_blank">github repository</a>.</p>
 <p>The team collectively decided that the hackathon winnings should be fully donated to continuing the development of Amir’s project, <a href="https://github.com/evoskuil/libbitcoin" target="_blank">libbitcoin</a>, which Airbitz has been contributing to and is using to develop the Airbitz Wallet. Eric Voskuil wrote this about the implications of <a href="http://attacksurface.wordpress.com/2014/04/11/dark-market-trade-is-not-a-crime/" target="_blank">DarkMarket</a>, Eric is also a member of the libbitcoin team which also shares in this victory for freedom and equality on the net.</p>
 <p>For details on the upcoming release of the Airbitz Wallet, check out this <a href="http://youtu.be/HMsz0HD7Qog" target="_blank">Success Council interview</a> with our CEO Paul Puey from the Toronto conference.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/airbitz/" rel="tag">airbitz</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/darkmarket/" rel="tag">darkmarket</a> <a href="https://www.deepdotweb.com/tag/hackathon/" rel="tag">hackathon</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a> <a href="https://www.deepdotweb.com/tag/win/" rel="tag">win</a></span> 
+
 Updated: 2014-04-22
     

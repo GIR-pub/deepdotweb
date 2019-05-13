@@ -2,7 +2,7 @@
 title: "A Carder&#8217;s First Experience"
 ---
 
-<article class="post-listing post-7350 post type-post status-publish format-standard has-post-thumbnail hentry  tag-carders tag-experience">
+7350 post type-post status-publish format-standard has-post-thumbnail hentry  tag-carders tag-experience
 Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
 <span>December 11, 2014</span>
     

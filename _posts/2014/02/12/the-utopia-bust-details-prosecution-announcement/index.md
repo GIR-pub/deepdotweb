@@ -1,13 +1,11 @@
 ---
-title: "The Utopia Bust Details &#8211; Prosecution Announcement---
+title: "The Utopia Bust Details &#8211; Prosecution Announcement"
+---
 
-<article class="post-listing post-4057 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announcement tag-bust tag-details tag-prosecution tag-utopia">
 Posted by: DeepDotWeb
 <span>February 12, 2014</span>
-    
-<a href="/2014/02/12/the-utopia-bust-details-prosecution-announcement/#comments">21 Comments</a></span>
-</p>
-<div>
+
+
 <p><strong>Following our previous post about the <a href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/">Utopia marketplace bust</a> We got the full <a href="http://www.om.nl/actueel/nieuwsberichten/@162281/undercover-onderzoek/">prosecution </a> announcement translated to English now that they have released the details about the marketplace bust: </strong></p>
 <p><span style="text-decoration: underline;"><strong>Undercover Investigation into Illegal Marketplaces on the Internet</strong></span></p>
 <p>February 12, 2014 – National Office</p>
@@ -28,7 +26,7 @@ Posted by: DeepDotWeb
 <p>To the astonishment of the police and the Public Ministry, the undercover agents were also asked to “bring someone to the other world”. The target would have to be extorted and murdered. This initialdigital contact led to a meeting, where a down payment was made.</p>
 <p>During the searches of the suspects’ homes, computers, multiple data carriers (such as external hard drives and USB sticks), and about 900 bitcoins(with an estimated value of between 400,000 and 600,000 euros) were seized. The suspects arrested in the Netherlands will be brought before a judge on Friday in Utrecht. The National Prosecutor has requested for the German suspect to be released to the Netherlands for trial.</p>
 </div>
-</div>
-<a href="https://www.deepdotweb.com/tag/announcement/" rel="tag">announcement</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/details/" rel="tag">details</a> <a href="https://www.deepdotweb.com/tag/prosecution/" rel="tag">prosecution</a> <a href="https://www.deepdotweb.com/tag/utopia/" rel="tag">utopia</a></span> 
+
+
 Updated: 2014-02-12
     

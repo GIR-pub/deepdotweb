@@ -2,14 +2,9 @@
 title: "Dutch Man (Vendor: SuperTrips) To Plead Guilty To Selling Illegal Drugs For Millions On Shuttered Silk Road"
 ---
 
-<article class="post-listing post-5121 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dutch tag-guilty tag-illegal tag-man tag-millions tag-plead tag-selling tag-shuttered tag-supertrips tag-vendor">
 Posted by: DeepDotWeb
 <span>April 25, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/04/25/dutch-man-vendor-supertrips-plead-guilty-selling-illegal-drugs-millions-shuttered-silk-road/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p><strong>As It was Published on the<a href="http://www.justice.gov/usao/iln/pr/chicago/2014/pr0424_01.html"> justice.gov</a> website press release:</strong></p>
 <div align="justify">
 <p>CHICAGO — A Dutch man who allegedly used the shuttered Silk Road underground website to sell illegal drugs for bitcoins worth millions of dollars has agreed to plead guilty to a federal drug conspiracy charge filed against him today.  The defendant, CORNELIS JAN SLOMP, through his attorney, authorized the government to disclose that he will plead guilty to conspiracy to import and distribute various controlled substances when he is arraigned on the charge that was brought in a criminal information filed in U.S. District Court.</p>
@@ -33,6 +28,6 @@ Posted by: DeepDotWeb
 <p><span style="text-decoration: underline;"><strong>Slomp&#8217;s affidavit:</strong></span><br />
 <iframe id="doc_16737" class="scribd_iframe_embed" src="//www.scribd.com/embeds/220231205/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
 </div>
- <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a>  <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/millions/" rel="tag">millions</a> <a href="https://www.deepdotweb.com/tag/plead/" rel="tag">plead</a>  <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/shuttered/" rel="tag">shuttered</a> <a href="https://www.deepdotweb.com/tag/supertrips/" rel="tag">supertrips</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2014-04-25
     

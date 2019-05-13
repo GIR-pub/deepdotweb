@@ -2,14 +2,12 @@
 title: "4 Deep Web Jobs That Are Booming"
 ---
 
-<article class="post-listing post-6878 post type-post status-publish format-standard has-post-thumbnail hentry  tag-booming tag-deep tag-jobs tag-web">
+6878 post type-post status-publish format-standard has-post-thumbnail hentry  tag-booming tag-deep tag-jobs tag-web
 Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
 <span>November 14, 2014</span>
     
 <a href="/2014/11/14/4-deep-web-jobs-booming/#comments">19 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Life is getting economically tough, with high unemployment and a rising cost of living. At the same time, a growing police state and a increasing amount of laws is making the average person more and more likely to be closer to the dark side of the market, compared to the light side. On the other side of the fence, in the wake of the demise of the infamous Silk Road, a void has been created. Black market entrepreneurs have been popping up businesses to fill the void and with that, has came jobs. Throw your scholarship in the trash and fire up Tor – here are 4 jobs that are booming on the deep web.</p>
 <p><strong>Marketer</strong></p>
 <p>With many marketplaces popping up, the deep web is crowded and a competition for the consumer&#8217;s attention has emerged. Before, with a little amount of marketplaces and finding a working marketplace difficult, it was good enough if the marketplace you found was working for the day. Today, deep web marketplaces need to make themselves known.</p>

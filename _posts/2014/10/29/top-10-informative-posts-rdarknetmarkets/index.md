@@ -2,7 +2,7 @@
 title: "10 Informative Posts From /r/DarkNetMarkets"
 ---
 
-<article class="post-listing post-7237 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-informative tag-posts tag-rdarknetmarkets tag-top">
+7237 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-informative tag-posts tag-rdarknetmarkets tag-top
 Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
 <span>October 29, 2014</span>
     

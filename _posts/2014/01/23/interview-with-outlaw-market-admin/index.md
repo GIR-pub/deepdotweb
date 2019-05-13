@@ -2,14 +2,10 @@
 title: "Interview With OutLaw Market Admin"
 ---
 
-<article class="post-listing post-3592 post type-post status-publish format-standard has-post-thumbnail hentry  tag-outlaw">
 Posted by: DeepDotWeb
 <span>January 23, 2014</span>
     
-<a href="/2014/01/23/interview-with-outlaw-market-admin/#comments">11 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>One of the new and most intriguing marketplaces we have come across is Outlaw market, with its unique interface and the options it provides, it was clear to us that the people behind it are well versed  in the Darknet markets business, so when when they contacted us we were happy to take the opportunity and make a small interview with them introducing the features of this growing market, our word are in bold:</p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong>You can Visit Outlaw market at this url:</strong><br />
@@ -78,6 +74,6 @@ Posted by: DeepDotWeb
 </div></div>
 <p>You can also find the site with some details at our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden marketplace list</a></p>
 </div>
- <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a></span> 
+
 Updated: 2014-01-23
     

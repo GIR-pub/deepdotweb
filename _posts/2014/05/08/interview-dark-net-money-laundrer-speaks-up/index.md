@@ -2,14 +2,10 @@
 title: "Interview: Dark Net Money Launderer Speaks Up"
 ---
 
-<article class="post-listing post-5374 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-interview tag-laundrer tag-money tag-net tag-speaks">
+
 Posted by: DeepDotWeb
 <span>May 8, 2014</span>
-    
-<a href="/2014/05/08/interview-dark-net-money-laundrer-speaks-up/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>We have no idea what caused the massive surge in the amount of vendors / market admins asking to be interviewed in the past couple of weeks (probably over 20+), but we are more than happy to conduct them as much as our time lets us! This time we had an interesting chat with a vendor we know for quite a while from previous communications we had, this particular vendor is providing services related to money laundering, or if to be more accurate &#8211; cashing out services for vendors, buyers and market admins,  although <strong>her</strong> operation is pretty small  (15~25 transactions on Agora with rating of  5.00/5 + Unknown amount on Evolution)  she provided an interesting glimpse to the process of cashing out &#8220;dirty&#8221; Bitcoins by Vendors or buyers, from obvious reason we did not try to get into to much details of the process.</p>
 <p><a href="/imgs/2014/05/keno.png"><img class="aligncenter  wp-image-5377" src="/imgs/2014/05/keno.png" alt="keno" width="428" height="286" srcset="/imgs/2014/05/keno.png 897w, /imgs/2014/05/keno-300x200.png 300w, /imgs/2014/05/keno-290x195.png 290w" sizes="(max-width: 428px) 100vw, 428px"/></a></p>
 <p><strong>DeepDotWeb: I seen you around many times, And I am still not sure what you do exactly &#8211; i know its something in the money laundering area.</strong></p>
@@ -102,7 +98,6 @@ Posted by: DeepDotWeb
 <p><strong>DeepDotWeb: Is there anything else you want to add?</strong></p>
 <p>Keno13: don&#8217;t think so.. Tits or gtfo? no&#8230; lol</p>
 <p><strong>DeepDotWeb: Thank you for your time!</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/laundrer/" rel="tag">laundrer</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/speaks/" rel="tag">speaks</a></span> 
+
 Updated: 2014-05-08
     

@@ -2,7 +2,7 @@
 title: "Cypherpunk and Dark Net Marketplaces"
 ---
 
-<article class="post-listing post-6801 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cypherpunk tag-dark tag-marketplaces tag-net">
+6801 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cypherpunk tag-dark tag-marketplaces tag-net
 Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
 <span>September 12, 2014</span>
     

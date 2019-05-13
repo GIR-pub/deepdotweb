@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin News Roundup – 21 Dec. 2014---
 
-<article class="post-listing post-8686 post type-post status-publish format-standard has-post-thumbnail hentry tag-1779 tag-bitcoin tag-dec tag-news tag-roundup">
+8686 post type-post status-publish format-standard has-post-thumbnail hentry tag-1779 tag-bitcoin tag-dec tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>December 21, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

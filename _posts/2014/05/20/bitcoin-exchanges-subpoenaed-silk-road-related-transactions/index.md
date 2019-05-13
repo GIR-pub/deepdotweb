@@ -2,14 +2,12 @@
 title: "Bitcoin Exchanges Subpoenaed Over Silk Road Related Transactions"
 ---
 
-<article class="post-listing post-5677 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-exchanges tag-subpoenaed tag-transactions">
+5677 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-exchanges tag-subpoenaed tag-transactions
 Posted by: DeepDotWeb
 <span>May 20, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/05/20/bitcoin-exchanges-subpoenaed-silk-road-related-transactions/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong>As it was published in this <a href="http://online.wsj.com/news/articles/SB10001424052702304422704579570132275301414?mg=reno64-wsj&amp;url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304422704579570132275301414.html">WSJ article</a>:</strong></p>
 <blockquote>
 <p style="font-size: 15px;">U.S. authorities have opened a new front in their investigation into <span class="mandelbrot_refrag"><a class="mandelbrot_refrag" href="http://on.wsj.com/17w5giu?lc=int_mb_1001" data-ls-seen="1">bitcoin</a></span> exchanges and other businesses that deal in the online currency, examining possible ties between the firms and the online drug bazaar Silk Road, according to people familiar with the matter.</p>

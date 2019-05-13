@@ -2,14 +2,9 @@
 title: "Evolution Market: Now Offering Multisig Transactions!"
 ---
 
-<article class="post-listing post-5332 post type-post status-publish format-standard has-post-thumbnail hentry  tag-evolution tag-multisig tag-offering tag-transactions">
 Posted by: DeepDotWeb
 <span>May 6, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/05/06/evolution-market-now-offering-multisig-transactions/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>We have another market joining the Munmltisig Family, Now evolution, as always, we try to support those market offering multisig transaction so we bring you here the multisig usage guide as its listed on their wiki, this will also be listed on out <a href="http://www.deepdotweb.com/multisig-guides/">multisig guides</a> page and the market will be promoted to the multisig category <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">on our list</a>:</p>
 <p><a class="sabai-entity-type-content sabai-entity-bundle-name-directory-listing sabai-entity-bundle-type-directory-listing" title="Evolution Marketplace" href="http://www.deepdotweb.com/marketplace-directory/listing/evolution-marketplace">Evolution Marketplace</a> &#8211;  http://k5zq47j6wd3wdvjq.onion</p>
 <h2><span id="Introduction" class="mw-headline">Introduction</span></h2>
@@ -173,6 +168,6 @@ Posted by: DeepDotWeb
 <p>&#8212;-</p>
 <p>Thanks to the evolution staff taking another step to reduce marketplace scams!</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/multisig/" rel="tag">multisig</a> <a href="https://www.deepdotweb.com/tag/offering/" rel="tag">offering</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> 
+
 Updated: 2014-05-06
     

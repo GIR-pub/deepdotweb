@@ -2,7 +2,7 @@
 title: "Applying Crypto Decentralization to the Physical World: Public Utilities"
 ---
 
-<article class="post-listing post-6482 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applying tag-crypto tag-decentralization tag-physical tag-public tag-utilities 
+6482 post type-post status-publish format-standard has-post-thumbnail hentry  tag-applying tag-crypto tag-decentralization tag-physical tag-public tag-utilities 
 Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
 <span>August 4, 2014</span>
     

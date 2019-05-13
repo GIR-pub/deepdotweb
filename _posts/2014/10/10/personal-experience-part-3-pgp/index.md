@@ -2,14 +2,13 @@
 title: "Personal Experience: Part 3 &#8211; PGp"
 ---
 
-<article class="post-listing post-6833 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-experiencetag tag-personal tag-pgp">
-<div class="post-inner">
+6833 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-experiencetag tag-personal tag-pgp">
+<div class="post-inner
 Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
 <span>October 10, 2014</span>
     
 <a href="/2014/10/10/personal-experience-part-3-pgp/#comments">3 Comments</a></span>
 </p>
-<div class="clear"></div>
     
 <p><em>This a post in series of posts describing a personal experience from learning about the DNM’s to becoming a vendor – all the parts of this series will be available to here: <a href="http://www.deepdotweb.com/tag/ExperienceTag/">ExperienceTag</a></em></p>
 <p>Part 3:</p>

@@ -2,14 +2,12 @@
 title: "Independence Day: A Time for Unquestioned Nationalism"
 ---
 
-<article class="post-listing post-6331 post type-post status-publish format-standard has-post-thumbnail hentry  tag-day tag-independence tag-nationalism tag-time tag-unquestioned">
+6331 post type-post status-publish format-standard has-post-thumbnail hentry  tag-day tag-independence tag-nationalism tag-time tag-unquestioned
 Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
 <span>July 4, 2014</span>
     
 <a href="/2014/07/04/independence-day-time-unquestioned-nationalism/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><em>July 4<sup>th</sup> Opinion article by Evan Faggart &#8211; The views in this articles represents the views of the author</em></p>
 <p>In the United States, July 4<sup>th</sup> marks the day of our independence. On this day, in 1776, the founding fathers signed the Declaration of Independence, which served as the culmination of an intellectual revolution that lasted for several years in the Colonies, and resulted in a bloody war for national sovereignty. Ever since then, July 4<sup>th</sup> has been celebrated as a milestone in the never ending struggle for human liberty and friendship between individuals. No longer were those 13 colonies subjected to the arbitrary, tyrannical rule of King George III and the British Parliament. They were finally free.</p>
 <p>After the American Revolution ended, and Great Britain finally recognized the United States of America as a sovereign nation, the Continental Congress drafted the Articles of Confederation, which would establish the system of governance that would replace the recently overthrown British rule in the US. The government set up by the Articles of Confederation marked the start of a grand experiment in human liberty, something that the United States has taken pride in ever since. But few Americans in the present day realize that the pre-Constitution government established by the Articles came dangerously close to creating a society of anarchy. The federal government had essentially no power over the individual states, not even the power to levy taxes upon the states or to raise an army. All interaction between the states had to be approved by the governments of those states, which of course got their power by being democratically elected by the people in the states. We must emphasize this point: <em>there existed no federal government like the one which plagues the United States today. </em>And the country did not devolve into chaos. However, after only 10 years&#8211; hardly enough time to decide whether or not this experiment in decentralized governance would be successful or not&#8211; in 1787, James Madison decided that the United States federal government needed more power, and called upon his colleagues in the 13 states to join him in a convention, which would become known as the Constitutional Convention. In this convention, the delegates from the separate states would draft the United States Constitution, which established the government that Americans live under today.</p>

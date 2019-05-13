@@ -2,14 +2,12 @@
 title: "VPN with Tor"
 ---
 
-<article class="post-listing post-6541 post type-post status-publish format-standard has-post-thumbnail hentry   tag-vpn">
+6541 post type-post status-publish format-standard has-post-thumbnail hentry   tag-vpn
 Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>
 <span>July 21, 2014</span>
     
 <a href="/2014/07/21/vpn-tor/#comments">6 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><a href="/imgs/2014/07/vpn.png"><img class="aligncenter size-full wp-image-6542" src="/imgs/2014/07/vpn.png" alt="vpn TOR" width="552" height="225" srcset="/imgs/2014/07/vpn.png 552w, /imgs/2014/07/vpn-300x122.png 300w" sizes="(max-width: 552px) 100vw, 552px"/></a></p>
 <p>All networks and especially public ones are vulnerable to having their traffic monitored and examined. If you want to retain some level of anonymity then this is something that is important to protect against. You don’t even need to be doing anything illegal – it is just as important to safeguard your personal information and your browsing habits in a world where that data is very valuable. If you aren’t using Tor it is still a very good idea to use a VPN. This guide however is going to be on why you should use both of them together.</p>
 <p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Be sure to use a VPN with Tor. Click here to see the best VPN’s&lt;&lt;&lt;</a></p>

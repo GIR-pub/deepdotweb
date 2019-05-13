@@ -4,10 +4,8 @@ title: "Exclusive: Can the Libyan Post Silently Infiltrate the US telecom Infras
 
 <article class="post-6083 post type-post status-publish format-standard has-post-thumbnail hentry  tag-exclusive tag-infiltrate tag-infrastructure tag-libyan tag-post tag-silently tag-telecomm post-listing">
     
-<    
-    
-        
-    Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb
+
+Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb
     
     
 <span>June 18, 2014</span>
@@ -15,9 +13,6 @@ title: "Exclusive: Can the Libyan Post Silently Infiltrate the US telecom Infras
     
 <span><a href="/2014/06/18/exclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure/#respond" title="Comment on Exclusive: Can the Libyan Post Silently Infiltrate the US telecom Infrastructure?">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-    
-<div class="entry">
     
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
@@ -91,11 +86,8 @@ title: "Exclusive: Can the Libyan Post Silently Infiltrate the US telecom Infras
 <!-- End WP Socializer - Social Buttons - Output -->
     
     
-</div><!-- .entry /-->
 <a href="http://www.deepdotweb.com/tag/exclusive/" rel="tag">exclusive</a> <a href="http://www.deepdotweb.com/tag/infiltrate/" rel="tag">infiltrate</a> <a href="http://www.deepdotweb.com/tag/infrastructure/" rel="tag">infrastructure</a> <a href="http://www.deepdotweb.com/tag/libyan/" rel="tag">libyan</a> <a href="http://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="http://www.deepdotweb.com/tag/silently/" rel="tag">silently</a> <a href="http://www.deepdotweb.com/tag/telecomm/" rel="tag">telecomm</a></span>				
 Updated: 2014-06-18<a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

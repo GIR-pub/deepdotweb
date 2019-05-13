@@ -2,7 +2,7 @@
 title: "Outlaw Market: Down, Possibly Compromised By Competitors"
 ---
 
-<article class="post-listing post-6669 post type-post status-publish format-standard has-post-thumbnail hentry  tag-outlaw">
+6669 post type-post status-publish format-standard has-post-thumbnail hentry  tag-outlaw
 Posted by: DeepDotWeb
 <span>August 1, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

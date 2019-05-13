@@ -2,7 +2,7 @@
 title: "Darkcoin Now Accepted on Minor Dark Net Markets"
 ---
 
-<article class="post-listing post-7445 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bow tag-dark tag-darkcoin tag-marketplaces tag-minor tag-net">
+7445 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bow tag-dark tag-darkcoin tag-marketplaces tag-minor tag-net
 Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
 <span>October 21, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

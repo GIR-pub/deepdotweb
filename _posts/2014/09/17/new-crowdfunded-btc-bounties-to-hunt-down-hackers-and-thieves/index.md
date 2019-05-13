@@ -2,7 +2,7 @@
 title: "New: CrowdFunded BTC Bounties to Hunt Down Hackers and Thieves"
 ---
 
-<article class="post-listing post-7137 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bounties tag-crowdfunded tag-hackers tag-hunt tag-thieves tie_video">
+7137 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bounties tag-crowdfunded tag-hackers tag-hunt tag-thieves tie_video">
     
 <iframe width="660" height="371" src="http://www.youtube.com/embed/nWFemmRkRzw?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 Posted by: DeepDotWeb

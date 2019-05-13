@@ -1,14 +1,12 @@
 ---
 title: "Introduction To Sidechains and Blockchain 2.0---
 
-<article class="post-listing post-6042 post type-post status-publish format-standard has-post-thumbnail hentry tag-blockchain tag-sidechains">
+6042 post type-post status-publish format-standard has-post-thumbnail hentry tag-blockchain tag-sidechains
 Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
 <span>June 26, 2014</span>
     
 <a href="/2014/06/26/sidechains-blockchain-2-0/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Sidechains is a new concept that could help push Bitcoin forward and expand its functionalities.</p>
 <p><strong>Firstly we’d like to address what is the Blockchain?</strong></p>
 <p>A blockchain is a transaction database which is shared by all nodes in the Bitcoin system.All transactions since the creation of Bitcoin are documented on the Blockchain. Sidechains are built on top of the original Blockchain framework.</p>

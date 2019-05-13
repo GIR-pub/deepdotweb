@@ -1,12 +1,11 @@
 ---
-title: "Another Two Bites The Dust (Black Goblin Marketplace &#038; CannabisRoad)---
+title: "Another Two Bites The Dust (Black Goblin Marketplace &#038; CannabisRoad)"
+---
 
-<article class="post-listing post-3893 post type-post status-publish format-standard has-post-thumbnail hentry 
+
 Posted by: DeepDotWeb
 <span>February 9, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/02/09/another-two-bites-the-dust-black-goblin-marketplace-cannabisroad/#comments">1 Comment</a></span>
-</p>
+
 <p>The Sad (yet, funny) story of the latest 2 marketplaces who went down as described by <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern </a>on Reddit, present a prime addition to the marketplaces wall of shame and a perfect example for the incompetence of some of the new bread of  marketplace developers that have nothing in front of them but pure greed, we just pasted the original reddit posts with the screenshots as their tombstones:</p>
 <p style="text-align: center;"><em>Only two things are infinite, the universe and human stupidity, and I&#8217;m not sure about the former  -Albert Einstein</em></p>
 <p><a href="/imgs/2014/02/goblin.png"><img class="aligncenter size-full wp-image-3894" alt="goblin" src="/imgs/2014/02/goblin.png" width="677" height="812" srcset="/imgs/2014/02/goblin.png 677w, /imgs/2014/02/goblin-250x300.png 250w" sizes="(max-width: 677px) 100vw, 677px"/></a></p>

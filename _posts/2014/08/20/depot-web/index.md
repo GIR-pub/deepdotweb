@@ -2,7 +2,7 @@
 title: "Depot Web!"
 ---
 
-<article class="post-6839 post type-post status-publish format-standard has-post-thumbnail hentry category-meme-images tag-generator tag-meme post-listing">
+<article class="post-6839 post type-post status-publish format-standard has-post-thumbnail hentry category-meme-images tag-generator tag-meme post-listing
 Posted by: <a href="http://www.deepdotweb.com/author/" title=""> </a></span>
 <span>August 20, 2014</span>
 <span>in <a href="http://www.deepdotweb.com/category/meme-images/" rel="category tag">Meme Images</a></span>

@@ -2,7 +2,7 @@
 title: "Warning: Fake &#8220;DeepDotWeb Announcement&#8221; By a Failed Market Owner"
 ---
 
-<article class="post-listing post-6698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announcement tag-created tag-deepdotweb tag-failed tag-fake tag-owner 
+6698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announcement tag-created tag-deepdotweb tag-failed tag-fake tag-owner 
 Posted by: DeepDotWeb
 <span>August 4, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

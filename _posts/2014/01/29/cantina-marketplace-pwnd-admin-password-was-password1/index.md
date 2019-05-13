@@ -2,14 +2,10 @@
 title: "Cantina Marketplace PWND: Admin Password was: &#8220;Password1&#8221; ?!"
 ---
 
-<article class="post-listing post-3716 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-cantina tag-password tag-password1">
 Posted by: DeepDotWeb
 <span>January 29, 2014</span>
     
-<a href="/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p><span style="color: #ff0000;"><strong>You are not going to believe the horror you are about to witness in this post &#8211; Proceed with caution!</strong></span></p>
 <p><span style="text-decoration: underline;"><strong>Our thanks goes to</strong>: <strong><a href="http://www.reddit.com/user/sniok">sniok</a> , <a href="http://www.reddit.com/user/the_avid">The_avid, </a></strong> and everyone else who helped us prove to the users to avoid this miserable failure, while at the same time, keeping everyone amused!</span></p>
 <p>It was just last week when we reported here about a market popping up with a design 100% similar to the biggest scam market that ever existed, the &#8220;Sheep Marketplace&#8221;. It is called <a href="/2014/01/20/sheep-marketplace-is-that-you-again-cantina-marketplace/">Cantina marketplace</a>. We got a few comments about this market and basically just wrote if off as another scam attempt from the same group the Sheep Marketplace. At the time, we had no idea that this market was about to become the biggest example ever to have every security hole imaginable, and built in a way that made <a href="/2014/01/27/the-drugslist-lesson-why-marketplace-security-should-not-be-taken-lightly/">Drugslist</a> (You remember the fiasco that was just couple of days ago, right?) look like the Fort Knox of the deep web marketplaces.</p>
@@ -47,7 +43,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/01/admin2.png"><img class="aligncenter  wp-image-3729" alt="admin2" src="/imgs/2014/01/admin2.png" width="438" height="558"/></a></p>
 <p>Cantina, you should thank them. They did you a favor. At least you were not hacked by LE.</p>
 </div>
-</div>
-<a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/cantina/" rel="tag">cantina</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/password/" rel="tag">password</a> <a href="https://www.deepdotweb.com/tag/password1/" rel="tag">password1</a></span> 
+
 Updated: 2014-01-29
     

@@ -2,14 +2,9 @@
 title: "Dnstats &#8211; DarkNetMarkets Uptime Monitor!"
 ---
 
-<article class="post-listing post-5160 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknetmarkets tag-dnstats tag-monitor tag-uptime">
 Posted by: DeepDotWeb
 <span>April 30, 2014</span>
-    
-<a href="/2014/04/30/dnstats-darknetmarkets-uptime-monitor/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p style="text-align: center;"><span style="color: #ff0000;"><strong><a href="/2014/05/04/market-currently-check-sidebar/"><span style="color: #ff0000;">Check Out Our Sidebar To Know the Marketplace Uptime Status &gt;&gt;&gt;&gt;<br/>
     (Scroll Down a bit&#8230;)</span></a></strong></span></p>
 <p>We all know that one of the most annoying things about DNM&#8217;s are the unexpected downtime&#8217;s, no matter what the reason is &#8211; DDOS, Technical issue, TOR network issue, too much traffic or other unknown reasons that are not very common in the clearnet world, but are part of the DeepWeb reality.</p>
@@ -56,7 +51,6 @@ Posted by: DeepDotWeb
 <a href="/imgs/2014/04/dnstat.png"><img class="aligncenter size-full wp-image-5165" src="/imgs/2014/04/dnstat.png" alt="dnstat" width="508" height="889" srcset="/imgs/2014/04/dnstat.png 508w, /imgs/2014/04/dnstat-171x300.png 171w" sizes="(max-width: 508px) 100vw, 508px"/></a></p>
 <p><a href="/imgs/2014/04/btcfog.png"><img class="aligncenter  wp-image-5166" src="/imgs/2014/04/btcfog.png" alt="btcfog" width="771" height="459" srcset="/imgs/2014/04/btcfog.png 1501w, /imgs/2014/04/btcfog-300x179.png 300w, /imgs/2014/04/btcfog-1024x610.png 1024w" sizes="(max-width: 771px) 100vw, 771px"/></a></p>
 <p>To the developer &#8211; Thanks you! great contribution.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/dnstats/" rel="tag">dnstats</a> <a href="https://www.deepdotweb.com/tag/monitor/" rel="tag">monitor</a> <a href="https://www.deepdotweb.com/tag/uptime/" rel="tag">uptime</a></span> 
+
 Updated: 2014-04-30
     

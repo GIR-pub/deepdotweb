@@ -1,14 +1,12 @@
 ---
 title: "Bitcoin News Round-Up 22.06.2014---
 
-<article class="post-listing post-6157 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1747 tag-bitcoin tag-news tag-roundup">
+6157 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1747 tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>June 22, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/22/bitcoin-news-round-up-22-06-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Bitcoin saw gains this week on a number of good-news items, pushing it from the week’s low of $553.28 on June 15, to $591.29 at the time of writing. The coin’s price was spurred upwards by positive government policy news from both Japan and Switzerland, as well as industry news in support of the cryptocurrency.</p>
 <p><strong>Industry news</strong></p>
 <p>OpenBazaar is aiming to create an eBay-esque online marketplace using bitcoin. Project maintainer Brian Hoffner said the main value proposition for OpenBazaar’s offering is the freedom of two separate parties to undertake transactions without relying on a centralised network. He also rejected the idea that decentralised marketplaces are hotbeds of illegal activity by nature, and added OpenBazaar will aim to push for lawful activities on the platform, rather than operating it as an illicit marketplace a la Silk Road, <a href="http://www.coindesk.com/openbazaar-bitcoin-build-decentralised-ebay/">CoinDesk</a> reported.</p>

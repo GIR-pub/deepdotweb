@@ -2,14 +2,12 @@
 title: "Grandma Sending Christmas Money to Your Wallet Address?"
 ---
 
-<article class="post-listing post-5736 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-bitcoin tag-christmas tag-early tag-grandma tag-internet tag-money tag-sending tag-wallet">
+5736 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-bitcoin tag-christmas tag-early tag-grandma tag-internet tag-money tag-sending tag-wallet
 Posted by: DeepDotWeb
 <span>June 16, 2014</span>
     
 <a href="/2014/06/16/grandma-sending-christmas-money-to-your-wallet-address/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Like any good, disruptive, complex technology, Bitcoin is grossly understood by a society that sees no need for its’ existence, much less a desire to learn how to use it. There was one new technology that was vastly similar to Bitcoin in its’ infancy. Before miners were building rigs or discussing cryptography, a similar cross-section of society was tinkering with a new technology that would have massive disruptive and constructive capabilities. That technology was the Internet.</p>
 <p>The Internet plays such an involved role in modern-day life that it is difficult to recall a time when it’s terminology was not an everyday part of the lexicon. When Al Gore first invented the Internet (I know, don’t email us), the demographic that first built systems and programs on it, discussed it, and foresaw its’ capability was the same demographic that is now tinkering with Bitcoin. They were the ones who understood what a URL was, how a modem worked, and that Netscape was, well, the ultimate wormhole.</p>
 <p>Companies like Google and Microsoft simplified small parts of the user experience by suggesting address completion, developing a search engines, creating shortcuts, and all of the other add-ons that allow Grandma to make a completely off-topic comment on Facebook. In the same way the Internet had a learning curve, Bitcoin has wallet addresses, the blockchain, mining, exchanges, and so on. It takes simplification for the average end-user to foster mass adoption of any technology. If Grandma can just click on a Facebook shortcut, she can become a user. But most people cannot presently navigate their way through blockchain.info, generate a wallet, buy bitcoins, and back them up.</p>

@@ -2,14 +2,9 @@
 title: "RT: TOR is NOT PRISM Proof"
 ---
 
-<article class="post-listing post-5655 post type-post status-publish format-standard has-post-thumbnail hentry  tag-prism tag-proof tag-rt 
 Posted by: DeepDotWeb
 <span>May 18, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/05/18/rt-tor-prism-proof/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>An interesting article that was published on <a href="http://rt.com/news/159396-nsa-tor-ineffective-microsoft/">RT</a> quoted Andy Malone, of Microsoft Enterprise Security and founder of the Cyber Crime Security Forum, who said at the Microsoft TechEd North America 2014:</p>
 <p><em>&#8220;There is no such thing as really being anonymous on the internet. If [hackers and government agencies] want you, they will get you,&#8221;</em></p>
 <p>Mentioning that even though TOR still count as one of the better options to keep anonymity than VPN&#8217;s for example there are still weaknesses in the system that could be exploited &#8211; something that has yet to happen:</p>
@@ -27,7 +22,6 @@ Posted by: DeepDotWeb
 <p><em>“While it seems that the NSA has not compromised the core security of the Tor software or network, the documents detail proof-of-concept attacks, including several relying on the large-scale online surveillance systems maintained by the NSA and GCHQ through internet cable taps,”</em> the writers added.</p>
 <p>Although we have heard all this before but have yet to see any large scale de-anonymizing of TOR users, it should be noted that it will probably not be like that forever, so DNM user should take their OPSEC even more seriously in light of this info.</p>
 <p><span style="text-decoration: underline;">Source of information</span>: <a href="http://rt.com/news/159396-nsa-tor-ineffective-microsoft/">http://rt.com/news/159396-nsa-tor-ineffective-microsoft/</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/prism/" rel="tag">prism</a> <a href="https://www.deepdotweb.com/tag/proof/" rel="tag">proof</a> <a href="https://www.deepdotweb.com/tag/rt/" rel="tag">rt</a> </span> 
+
 Updated: 2014-05-18
     

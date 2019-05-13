@@ -2,7 +2,7 @@
 title: "New Details About the Utopia/BMR Busts"
 ---
 
-<article class="post-listing post-7190 post type-post status-publish format-standard has-post-thumbnail hentry  tag-assassin tag-sale">
+7190 post type-post status-publish format-standard has-post-thumbnail hentry  tag-assassin tag-sale
 Posted by: DeepDotWeb
 <span>September 23, 2014</span>
     

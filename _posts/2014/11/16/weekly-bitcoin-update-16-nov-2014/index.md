@@ -1,14 +1,12 @@
 ---
 title: "Weekly Bitcoin Update – 16 Nov. 2014---
 
-<article class="post-listing post-8291 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-1779 tag-bitcoin tag-nov tag-update tag-weekly">
+8291 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-1779 tag-bitcoin tag-nov tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>November 16, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/16/weekly-bitcoin-update-16-nov-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong>One Year since Peak Price</strong></p>
 <p>It has been one year since Bitcoin reached its highest value, leading Eoghan Macguire of <a href="http://www.cnn.com/2014/11/13/tech/bitcoin-peak-price-future/">CNN</a> to wonder what the future holds for the cryptocurrency. He highlights the opinions of individuals like the Managing Editor of CoinDesk, Emily Spraven, who believes Bitcoin&#8217;s price “will begin stabilize over the coming year or so.”Meanwhile, David Yermack, a Professor of Finance at the BYU Stern School of Business, would not be shocked if Bitcoin&#8217;s strongest points were “grafted into new products and services,” as “breakthrough products tend to be taken over pretty quickly by improved versions.”</p>
 <p><strong>Changes at Reddit</strong></p>

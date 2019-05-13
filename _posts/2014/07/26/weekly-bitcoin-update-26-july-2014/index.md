@@ -1,14 +1,12 @@
 ---
 title: "Weekly Bitcoin Update – 26 July 2014---
 
-<article class="post-listing post-6624 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1858 tag-bitcoin tag-july tag-update tag-weekly">
+6624 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1858 tag-bitcoin tag-july tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>July 26, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/26/weekly-bitcoin-update-26-july-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p><strong>Industry News</strong></p>
 <p>Bitcoin&#8217;s valuation has once again dropped below the $600 mark. As Joon Ian Wong of <a href="http://www.coindesk.com/market-monthly-stable-bitcoin/">CoinDesk</a> reported on July 24<sup>th</sup>, the cryptocurrency fell to a low of $591.46 at 13:35 UTC. During the thirty days prior to the release of the article, bitcoin had at least maintained a value above $600. Interestingly, there was not a major news release that could have triggered the slight decrease in value. In fact, as Wong finds, bitcoin news has been positive over the past two months, with companies such as DISH and Dell announcing they will be accepting cryptocurrency payments.</p>

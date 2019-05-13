@@ -1,12 +1,10 @@
 ---
-title: "Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market---
+title: "Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market"
+---
 
-<article class="post-listing post-4768 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fail tag-redsunexxtacy tag-security tag-sunday tag-trio tag-unnamed">
-Posted by: DeepDotWeb
 <span>March 23, 2014</span>
     
-<a href="/2014/03/23/security-sunday-fails-redsunexxtacy-unnamed-market/#respond">Leave a comment</a></span>
-</p>
+
 <p>Are we ever going to have a quiet week? i doubt it. but at least we can thank some of the security guys in Reddit for exposing yet another 3 security hazards in the form of new marketplaces, and this time 3 in one day! (well technically 2 since i kept one of them unnamed since it seem it was not really launched yet, doing the right thing probably)</p>
 <p>So here we go:</p>
 <p><span style="text-decoration: underline;"><strong>Red Sun Marketplace:</strong></span><br />
@@ -89,7 +87,6 @@ Posted by: DeepDotWeb
 <p><strong>{Screenshot Hidden For Privacy reasons}</strong></p>
 <p>We have no idea how this will end up for these markets, but we urge all users to do their research before using any of these markets (or any other market)</p>
 <p>One of them was listed in our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of hidden</a> marketplaces but will be removed now</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/fail/" rel="tag">fail</a> <a href="https://www.deepdotweb.com/tag/redsunexxtacy/" rel="tag">redsunexxtacy</a>  <a href="https://www.deepdotweb.com/tag/sunday/" rel="tag">sunday</a> <a href="https://www.deepdotweb.com/tag/trio/" rel="tag">trio</a> <a href="https://www.deepdotweb.com/tag/unnamed/" rel="tag">unnamed</a></span> 
+
 Updated: 2014-03-23
     

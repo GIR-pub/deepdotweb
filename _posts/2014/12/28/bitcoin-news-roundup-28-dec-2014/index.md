@@ -1,14 +1,12 @@
 ---
 title: "Bitcoin News Roundup – 28 Dec. 2014---
 
-<article class="post-listing post-8701 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-2518 tag-bitcoin tag-dec tag-news tag-roundup">
+8701 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-2518 tag-bitcoin tag-dec tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>December 28, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/12/28/bitcoin-news-roundup-28-dec-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Russia is facing tough times with the Ruble having lost nearly 50 percent of its value against the US dollar. Evander Smart of <a href="https://www.cryptocoinsnews.com/russia-reconsidering-bitcoin-ban-2015/">CryptoCoins News</a> reports that the Russian government is seriously considering banning the bitcoin in 2015. The cryptocurrency is widely regarded as responsible to hurt the ability of Russian corporations to attract new investors. If the Russian Ministry of Economic Development approves the bill to ban the bitcoin, Russia will not be able to generate new revenue streams and the Russian citizens won’t capitalize on tax advantages.</p>
 <p>ESPN, the global cable and satellite television channel, aired the first TV bitcoin commercial for the St. Petersburg “Bitcoin Bowl”, a postseason college football game. The pre-sale tickets were available exclusively to bitcoin exchanges for two weeks, offering the bitcoin owners the opportunity to get the best seats in advance. The commercial created in collaboration with BitPay was greatly received by the bitcoin community and has raised the attention of people that would have zero interest in bitcoin, <a href="https://www.cryptocoinsnews.com/author/caleb-chen/">Caleb Chen</a> of <a href="https://www.cryptocoinsnews.com/bitpay-airs-first-bitcoin-commercials-on-espn-bitcoinbowl/">CryptoCoins News</a> reports.</p>

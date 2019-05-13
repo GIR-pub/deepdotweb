@@ -1,21 +1,12 @@
 ---
-title: "Interview With Bitwasp Founder &#038; Developer &#8211; Security, DarkNetMarkets &#038; Future Development---
+title: "Interview With Bitwasp Founder &#038; Developer &#8211; Security, DarkNetMarkets &#038; Future Development"
+---
 
-<article class="post-listing post-4789 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitwasp tag-founder">
-    
-<    
-    
         
 Posted by: DeepDotWeb
     
     
 <span>March 25, 2014</span>
-    
-    
-<a href="/2014/03/25/interview-with-bitwasp-founder-developer/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-    
     
     
 <p>Following all the marketplaces that got hacked, and the fact that many of them were based on the Bitwasp software, we were very happy when the founder of Bitwasp contacted us and offered to answer some questions regarding Bitwasp, DarkNet uses, Security and the latest &amp; future developments of the Bitwasp market software, we have spoken to the Bitwasp team:</p>
@@ -81,13 +72,8 @@ Posted by: DeepDotWeb
 <p><em><strong>We want to thank the Bitwasp team for taking the time and answering our questions, and we wish them good luck with the future development! and at the same time we hope that the message from this interview will reach the people that are planning to start another marketplace using the current Bitwasp version.</strong></em></p>
 </div>
 </div>
-    
-    
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/bitwasp/" rel="tag">bitwasp</a> <a href="https://www.deepdotweb.com/tag/founder/" rel="tag">founder</a></span>				
+
 Updated: 2014-03-25
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

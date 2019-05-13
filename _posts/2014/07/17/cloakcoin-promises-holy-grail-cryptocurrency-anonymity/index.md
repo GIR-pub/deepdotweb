@@ -1,14 +1,12 @@
 ---
 title: "Cloakcoin Promises the Holy Grail of Cryptocurrency: Trustless Anonymity---
 
-<article class="post-listing post-6466 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymity tag-cloakcoin tag-cryptocurrency tag-grail tag-holy tag-promises">
+6466 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymity tag-cloakcoin tag-cryptocurrency tag-grail tag-holy tag-promises
 Posted by: DeepDotWeb
 <span>July 17, 2014</span>
     
 <a href="/2014/07/17/cloakcoin-promises-holy-grail-cryptocurrency-anonymity/#comments">23 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Cryptocurrency enables users to wrest control of their money away from banks and governments, but without privacy features governments will often use their power to punish people who use currencies they do not approve of. Unfortunately, the crypto-community has thus far been unable to produce a viable system to give users complete privacy—until now. Cloakcoin, a new currency, has burst onto the scene with a promise to achieve the Holy Grail of cryptocurrency: complete trustless anonymity. To avoid the mishaps of its predecessors, Cloakcoin will implement a comprehensive privacy system consisting of anonymous transactions, stealth addresses, a secure multi-currency wallet with a built-in currency exchange, and a decentralized marketplace.</p>
 <p>Satoshi Nakamoto created a monetary revolution when he launched Bitcoin in 2009. Bitcoin was the first digital currency to offer trustless peer-to-peer transactions. This increased privacy by eliminating the need to know the identity of the person you were transacting with. However, Bitcoin and most other cryptocurrencies operate on a public ledger, which means that although wallet address are not connected to specific identities, a careful observer can follow the money trail and figure out who the addresses belong to.</p>
 <p><strong>The Problem with Deep Web Markets</strong></p>

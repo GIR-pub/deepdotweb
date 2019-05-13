@@ -2,7 +2,6 @@
 title: "Utopia Marketplace Seized by Dutch Police &#8211; 5 Arrested"
 ---
 
-<article class="post-listing post-3928 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dutch tag-police tag-seized tag-utopia">
 Posted by: DeepDotWeb
 <span>February 11, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
@@ -35,6 +34,6 @@ Posted by: DeepDotWeb
 <p><strong>If you used Utopia and Silk Road or ANY OTHER marketplace, ensure you change your credentials on the remaining marketplaces <em>immediately</em> if you used the same ones at Utopia.</strong></p></blockquote>
 <p>So far we do not have any more information but we will follow and update when we get new information, we are looking for some official confirmation from the media or authorities &#8211; some people are assuming it was a hacker who just defaced the site, but its highly unlikely that a hacker would use a dutch police logo rather than the FBI logo.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/utopia/" rel="tag">utopia</a></span> 
+
 Updated: 2014-02-11
     

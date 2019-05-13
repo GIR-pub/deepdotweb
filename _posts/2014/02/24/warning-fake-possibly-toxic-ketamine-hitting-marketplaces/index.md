@@ -2,12 +2,10 @@
 title: "*WARNING* Fake And Possibly Toxic Ketamine Hitting The Marketplaces"
 ---
 
-<article class="post-listing post-4407 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fake tag-hitting tag-ketamine tag-marketplaces tag-possibly tag-toxic 
 Posted by: DeepDotWeb
 <span>February 24, 2014</span>
     
-<a href="/2014/02/24/warning-fake-possibly-toxic-ketamine-hitting-marketplaces/#comments">6 Comments</a></span>
-</p>
+
 <p><strong>Update</strong>: Followup post with addition test results <a href="/2014/03/09/fake-ketamine-2-chemical-test-results-products-vendors/">can be found here</a></p>
 <p>An important harm reduction thread was posted yesterday on the hub forums / SR2 forums regarding the analysis of a possibly toxic Ketamine that was found on the marketplace.</p>
 <p>read the original discussion on the hub forums on this link: http://thehub7dnl5nmcz5.onion/index.php?topic=1180.0;topicseen</p>
@@ -96,6 +94,6 @@ Posted by: DeepDotWeb
 <p>====End Quote====</p>
 <p>We will update this post when we will have more information, keep safe.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/hitting/" rel="tag">hitting</a> <a href="https://www.deepdotweb.com/tag/ketamine/" rel="tag">ketamine</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/possibly/" rel="tag">possibly</a> <a href="https://www.deepdotweb.com/tag/toxic/" rel="tag">toxic</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span> 
+
 Updated: 2014-02-24
     

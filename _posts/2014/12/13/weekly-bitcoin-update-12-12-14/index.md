@@ -1,7 +1,7 @@
 ---
 title: "Weekly Bitcoin Update – 13-12-14---
 
-<article class="post-listing post-8610 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2497 tag-bitcoin tag-update tag-weekly">
+8610 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2497 tag-bitcoin tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>December 13, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

@@ -2,12 +2,10 @@
 title: "June 18 FOMC Meeting, What it Means for Bitcoin Price?"
 ---
 
-<article class="post-listing post-6243 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1766 tag-bitcoin tag-fomc tag-june tag-means tag-meeting tag-price">
+6243 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1766 tag-bitcoin tag-fomc tag-june tag-means tag-meeting tag-price">
     
-<    
-    
-        
-    Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+
+Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     
     
 <span>July 3, 2014</span>
@@ -15,9 +13,6 @@ title: "June 18 FOMC Meeting, What it Means for Bitcoin Price?"
     
 <a href="/2014/07/03/june-18-fomc-meeting-means-bitcoin-price/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-    
-<div class="entry">
     
 <p>On June 18, 2014, The Federal Open Market Committee (FOMC), the policy making committee for the United States Federal Reserve, publicly announced the decisions they made during their 2-day meeting. In this meeting, the FOMC discussed the state of the American economy and deliberated on what the Fed&#8217;s policy should be in the near future.</p>
 <p>Several things came out of the 2-day FOMC meeting. The Federal Reserve ended up downgrading their forecast for economic growth from 2.9%-3% and now expects the economy to grow only 2.1%-2.3% this year. However, despite this bleak outlook for economic growth, the Federal Reserve concluded that the unemployment rate is actually falling much faster than they originally expected. Because of these results, the Fed will continue their policy of very light tapering, reducing Quantitative Easing by $10 billion every month. However, due to the unsatisfactory projection for future economic growth, the Fed will continue their policy of extremely low short-term interest rates in order to stimulate investment. They do not fear the inflation caused by low interest rates, however, saying that the current rate of inflation is too low to warrant any concern.</p>
@@ -30,11 +25,8 @@ title: "June 18 FOMC Meeting, What it Means for Bitcoin Price?"
 <p>Although, the increase in Bitcoin price is dependent not only on how bad the crash is, but it will also be affected by how sudden it is. As mentioned above, it seems as though the American economy is in a stagnant position much like that of the 1970s. Therefore, it is likely that there will not be a “crash” per se, but that the economy will gradually reenter a state of recession over some period of time. A gradual decline, such as the one that will possibly happen here, could very well make for a less enthusiastic leap to Bitcoin. Individuals will not notice their money depreciating as quickly, and will not feel as much of an urge to seek out alternative means of wealth preservation. But, if the recession lasts long enough, and the standard of living is decreased enough, people will necessarily look for ways to stop relying on the government&#8217;s monopolized monetary supply. Bitcoin could very well be the answer.</p>
     
     
-</div><!-- .entry /-->
 <a href="https://www.deepdotweb.com/tag/18/" rel="tag">18</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/fomc/" rel="tag">fomc</a> <a href="https://www.deepdotweb.com/tag/june/" rel="tag">june</a> <a href="https://www.deepdotweb.com/tag/means/" rel="tag">means</a> <a href="https://www.deepdotweb.com/tag/meeting/" rel="tag">meeting</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span>				
 Updated: 2014-07-03<a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

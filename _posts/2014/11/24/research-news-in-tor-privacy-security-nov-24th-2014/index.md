@@ -1,14 +1,12 @@
 ---
 title: "Research &#038; News in Tor, Privacy, &#038; Security – Nov 24th, 2014---
 
-<article class="post-listing post-8437 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-24th tag-news tag-nov tag-privacy tag-research tag-security 
+8437 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-24th tag-news tag-nov tag-privacy tag-research tag-security 
 Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
 <span>November 24, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/24/research-news-in-tor-privacy-security-nov-24th-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Tor Browser 4.5-alpha-1<a href="https://blog.torproject.org/blog/tor-browser-45-alpha-1-released"> has been released</a>, which marks the first release of the 4.5 Tor Browser series. It includes a “security slider”, which is designed to allow a user to easily edit security preferences. The security slider has four security settings: low (default), medium-low, medium-high, and high. The new “status reporting UI” allows a user to quickly see the Tor circuit that their current connection is utilizing, something that has been missing since the removal of the Vidalia package. A user can simply click the Torbutton icon to pull up this interface.</p>
 <p>The<a href="https://lists.torproject.org/pipermail/tor-talk/2014-November/035742.html"> newest version</a> of Tor2web, version 3.1.30, now supports access to hidden services over TLS. However, it does not allow access to TLS-enabled hidden services that have a clearnet equivalent.</p>
 <p>The Electronic Frontier Foundation has announced the<a href="https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web"> Let&#8217;s Encrypt</a> campaign, a certificate authority (CA) initiative designed to simplify the widespread use of TLS. The intiative is combined effort between the EFF, Mozilla, Cisco, Akamai, IdenTrust, and researchers at the University of Michigan. They aim to address certain “roadblocks” that are often present during the transition to HTTPS: cost, complexity, and beurocracy. The Let&#8217;s Encrypt CA will automatically issue and manage free certificates to any website that needs one. In EFF&#8217;s tests, it took a web developer on average 1-3 hours to configure TLS. They aim to reduce configuration time to around 20-30 seconds. You can download the developer preview of the agent software<a href="https://github.com/letsencrypt/lets-encrypt-preview"> here</a>, or you can view a demo<a href="https://www.youtube.com/watch?v=Gas_sSB-5SU"> here</a>.</p>

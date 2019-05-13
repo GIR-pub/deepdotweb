@@ -2,14 +2,12 @@
 title: "A Scammer&#8217;s Remorse"
 ---
 
-<article class="post-listing post-5686 post type-post status-publish format-standard has-post-thumbnail hentry  tag-remorse tag-scammers">
+5686 post type-post status-publish format-standard has-post-thumbnail hentry  tag-remorse tag-scammers
 Posted by: <a href="https://www.deepdotweb.com/author/black-ink/" title="">Black Ink </a></span>
 <span>May 21, 2014</span>
     
 <a href="/2014/05/21/scammers-remorse/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>This article is a personal experience provided to us by &#8220;Black Ink&#8221;:</p>
 <p>Back in December I referred someone dear to me who was in search of Hemp Oil to a vendor on SR2. I had used this particular vendor before to obtain sixty grams of oil for my own treatment and the transaction went smooth and without any hiccups so I felt it was safe to recommend them to others. Well, apparently this vendor had gone rogue along with many others around this time because he required FE for $2000 and needless to say never produced any product.</p>
 <p>Partly, due to harboring guilt (I didn&#8217;t take the time to educate friend on politics of dark markets) I became furious and decided to reach out to the vendor myself. I wrote him on SR2 explaining in depth the seriousness of my friend’s illness and made a plea on his heart to do right by someone in great need. Days went by and it was nothing but silence. He had not bothered to respond and to be quite frank I knew that I was shooting a dart in the dark but I felt obligated to at least put forth the effort and give it a try.</p>

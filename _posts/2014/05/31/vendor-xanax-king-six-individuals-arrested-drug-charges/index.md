@@ -2,14 +2,12 @@
 title: "Vendor &#8220;Xanax King&#8221;: Six Individuals Arrested on Drug Charges"
 ---
 
-<article class="post-listing post-5852 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-individuals tag-king tag-vendor tag-xanax">
+5852 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-individuals tag-king tag-vendor tag-xanax
 Posted by: DeepDotWeb
 <span>May 31, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/05/31/vendor-xanax-king-six-individuals-arrested-drug-charges/#comments">2 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong>As it was published in a press release from the <a href="http://www.justice.gov/dea/divisions/sf/2014/sf053014.shtml">DEA</a>:</strong></p>
 <p><strong>MAY 30 (OAKLAND, Calif.)</strong> –An eleven-count federal Indictment charging nine people with participation in a conspiracy to manufacture and distribute Xanax pills and other drugs was returned by the Grand Jury on May 22, 2014, and unsealed today in federal court, announced United States Attorney Melinda Haag; Drug Enforcement Administration Special Agent in Charge Jay Fitzpatrick; Internal Revenue Service, Criminal Investigation, Special Agent in Charge José M. Martinez; U.S. Postal Inspection Service, Inspector in Charge Rafael E. Nunez; U.S. Food and Drug Administration Office of Criminal Investigations, Special Agent In Charge Lisa Malinowski; and U.S. Immigration and Customs Enforcement’s (ICE) Homeland Security Investigations (HSI) Acting special Agent in Charge Tatum King.</p>
 <p><a href="http://www.justice.gov/dea/divisions/sf/2014/sf053014.pdf">View a list</a> of the Defendants and the charges.</p>

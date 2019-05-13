@@ -2,17 +2,14 @@
 title: "How to use Tor to buy things anonymously from Agora with Bitcoin!"
 ---
 
-<article class="post-listing post-4531 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tie_video">
-    
-<iframe width="507" height="380" src="http://www.youtube.com/embed/GrL81kK8ehY?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 Posted by: DeepDotWeb
 <span>March 2, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
-<a href="/2014/03/02/how-to-use-tor-to-buy-things-anonymously-from-agora-with-bitcoin/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-    
-<p>This video was made this video because the author was frustrated at how hard buying something from Agora through Tor, using Bitcoin was. There were no good video guides online, so he decided to make one! Thanks for your views and support!<br/>
+
+
+<iframe width="507" height="380" src="http://www.youtube.com/embed/GrL81kK8ehY?feature=oembed" frameborder="0" allowfullscreen></iframe> 
+
+
+<p>This video was made because the author was frustrated at how hard buying something from Agora through Tor, using Bitcoin was. There were no good video guides online, so he decided to make one! Thanks for your views and support!<br/>
     Remember to save a hard copy on notepad of your PGP Private Key and Password for the site!<br/>
     Also, on Tor, between the address bar and onion button, there is an s! button, click that and don&#8217;t allow javascript to be more secure.</p>
 <p>Feel free to donate your extra bitcoin to the author address if you found this tutorial helpful :)<br/>

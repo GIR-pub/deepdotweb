@@ -1,12 +1,10 @@
 ---
-title: "Another Marketplace Doxxed: &#8220;HansaMarket&#8221;---
+title: "Another Marketplace Doxxed: &#8220;HansaMarket&#8221;"
+---
 
-<article class="post-listing post-4645 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doxxed tag-hansamarket tag-market">
 Posted by: DeepDotWeb
 <span>March 12, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/03/12/another-market-doxxed-hansamarket/#comments">5 Comments</a></span>
-</p>
+
 <p>Well, it was quiet couple of weeks, there was a new market who popped up about a week ago called HansaMarket,</p>
 <p>It appears that the security they had was not very good to say the least so, once again one of the security guys was able to find the real ip of the market and post in on irc2p, later to be posted again on reddit, with these details (Thread here: http://www.reddit.com/r/DarkNetMarkets/comments/207mk9/hansamarkets_ip_address/):</p>
 <div id="crayon-5c89ad957e9af693798303" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
@@ -47,7 +45,6 @@ Posted by: DeepDotWeb
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p>We really hope that the market owner will see this thread and take the marketplace offline before anyone will report, although it was not online long enough to commit any crime probably.</p>
 <p>Lessons are the same like we saw with the <a href="/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/">Cantina Market</a>, <a href="/2014/02/09/another-two-bites-the-dust-black-goblin-marketplace-cannabisroad/">Black Goblin &amp; Cannabisroad Market</a>, and few others who got shut down before causing real security risks for their users and vendors. we should thank the guys who keep exposing those flaws.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/hansamarket/" rel="tag">hansamarket</a></span> 
+
 Updated: 2014-03-12
     

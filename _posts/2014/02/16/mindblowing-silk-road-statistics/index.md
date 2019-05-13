@@ -2,12 +2,9 @@
 title: "Mindblowing Silk Road Statistics: Best Selling Drugs"
 ---
 
-<article class="post-listing post-4264 post type-post status-publish format-standard has-post-thumbnail hentry  tag-mindblowing tag-selling tag-statistics">
 Posted by: DeepDotWeb
 <span>February 16, 2014</span>
-    
-<a href="/2014/02/16/mindblowing-silk-road-statistics/#comments">13 Comments</a></span>
-</p>
+
 <p>A Great thread was just published on the Silk road 2.0 forums, showing statistic of the marketplace Best sellers items and vendor as it was crawled by one of the users:</p>
 <p>He even put up a domain to see the data: <strong>http://twam2dcppennla6s.onion/  </strong>(must have JS enabled)</p>
 <p>Link to the Op: http://silkroad5v7dywlc.onion/index.php?topic=26644.0;topicseen</p>
@@ -55,7 +52,6 @@ Posted by: DeepDotWeb
 <p>Oldest Vendors:</p>
 <p><a href="/imgs/2014/02/oldestvendors1.png"><img class="aligncenter  wp-image-4278" alt="oldestvendors" src="/imgs/2014/02/oldestvendors1.png" width="849" height="428" srcset="/imgs/2014/02/oldestvendors1.png 1324w, /imgs/2014/02/oldestvendors1-300x151.png 300w, /imgs/2014/02/oldestvendors1-1024x517.png 1024w" sizes="(max-width: 849px) 100vw, 849px"/></a></p>
 <p>There are pages and pages of data on this onion domain, its a very interesting insight to the most popular drugs being sold online.</p>
-</div>
- <a href="https://www.deepdotweb.com/tag/mindblowing/" rel="tag">mindblowing</a>  <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/statistics/" rel="tag">statistics</a></span> 
+
 Updated: 2014-02-16
     

@@ -2,12 +2,10 @@
 title: "Here is the Stolen Silk Road Wallet?"
 ---
 
-<article class="post-listing post-4352 post type-post status-publish format-standard has-post-thumbnail hentry  tag-stolen tag-wallet">
+
 Posted by: DeepDotWeb
 <span>February 20, 2014</span>
-    
-<a href="/2014/02/20/here-is-the-stolen-silk-road-wallet/#respond">Leave a comment</a></span>
-</p>
+
 <p>This is an interesting read that was posted as an item on Silk Road &#8220;money&#8221; category, we have been chatting with this vendor for the last few days and really tried to understand the evidence he is trying to provide here, and to be honest, it just made me very confused, so i decided to post this &#8211; so people that are more into the analysis of bitcoin transactions than me can read and decide for themselves if this information is real or not and what is the bottom line of all of this?</p>
 <p>We would love to hear your comments on this matter. this is similar to the chase that happened after the sheep scam, and most likely by the same person (<a href="http://www.reddit.com/user/sheeproadreloaded2">Sheeproadreloaded2</a>) and some associates</p>
 <p>The live listing is here: http://silkroad6ownowfk.onion/items/here-is-the-stolen-silk-rd-wallet<br/>
@@ -79,8 +77,6 @@ Posted by: DeepDotWeb
 <p><strong>===End Quote===</strong></p>
 <p>Are these chases going to lead to any of the funds being returned? i highly doubt it. but still its interesting information and should be known.</p>
 <p>Good luck to everyone and be safe.</p>
-</div>
-</div>
- <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> 
+
 Updated: 2014-02-20
     

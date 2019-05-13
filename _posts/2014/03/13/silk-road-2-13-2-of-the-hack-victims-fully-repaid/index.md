@@ -2,22 +2,12 @@
 title: "Silk Road 2.0 Admin: 13.2% Of the Stolen Bitcoins Fully Repaid"
 ---
 
-<article class="post-listing post-4675 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1436tag-admin tag-fully tag-repaid tag-stolen">
-    
-<    
-    
         
 Posted by: DeepDotWeb
     
     
 <span>March 13, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-    
-<a href="/2014/03/13/silk-road-2-13-2-of-the-hack-victims-fully-repaid/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-    
-<div class="entry">
+
     
 <p>It was only one month ago when the Silk Road <a href="/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/">was hacked</a> (or scammed, whatever version you prefer) and all bitcoins were stolen, few days later, Defcon, the site admin made a statement that all the stolen funds <a href="/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/">will be repaid</a> by transferring the sites commission to the customers and vendors that had their money stolen during the hack (or whatever else it was). Last week we started getting some reports about people having &#8220;pending balance&#8221; in their accounts for the same amounts of money that they have lost during the hack, and some of them had the &#8220;pending balance&#8221;  turned into a real balance &#8211; covering some or all of their losses.</p>
 <p>Yesterday, Defcon the site admin posted a new updated (Original url:  http://silkroad5v7dywlc.onion/index.php?topic=31724.0) and released some statistics about the repayment process, with interesting data, this is the original posted quoted, the data is marked in red:</p>
@@ -60,11 +50,8 @@ Posted by: DeepDotWeb
 <p>For now, Keep safe and keep us posted with stuff we have missed, thanks to everyone who keep us informed for everyone&#8217;s benefit!</p>
     
     
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/132/" rel="tag">132</a>  <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/fully/" rel="tag">fully</a> <a href="https://www.deepdotweb.com/tag/repaid/" rel="tag">repaid</a>  <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span>				
+
 Updated: 2014-03-13
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

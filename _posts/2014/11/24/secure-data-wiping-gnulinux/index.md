@@ -1,14 +1,12 @@
 ---
 title: "Secure Data Wiping on GNU/Linux---
 
-<article class="post-listing post-7402 post type-post status-publish format-standard has-post-thumbnail hentry  tag-data tag-gnulinux tag-secure tag-wiping">
+7402 post type-post status-publish format-standard has-post-thumbnail hentry  tag-data tag-gnulinux tag-secure tag-wiping
 Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
 <span>November 24, 2014</span>
     
 <a href="/2014/11/24/secure-data-wiping-gnulinux/#comments">7 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>In this article, I&#8217;m going to be outlining how to securely erase data on a device while running a GNU/Linux-based operating system. This process can be used to wipe a device, such as a USB drive, while running your normal GNU/Linux operating system; or it can be used to wipe your hard drive from a GNU/Linux live CD/USB.</p>
 <p>There are many reasons you might want to erase data from a device. It&#8217;s possible that you are selling an old computer, and need to eliminate private data. It&#8217;s possible your identity has been compromised, and you need to eliminate evidence. Whatever the situation is, simple deletion of files will not securely erase data. If you truly need to erase data from a device, you will need to wipe the device. What&#8217;s the issue with simply deleting your data? Deletion of a file does not actually remove the data from a disk; it only deletes the entry in the filesystem metadata. This informs the operating system that the space is free and can be written to. The actual raw data is still located on the disk. Even if a disk is reformatted or repartitioned, the raw data may still remain on the disk. With widely-available data recovery software, most of this data can be quickly recovered. The only way to assure that data cannot be recovered is by verifying that all space on a disk, including inodes, are overwritten with new data.</p>
 <p>How does data wiping work? The term &#8220;wiping&#8221; is actually a bit misleading, because wiping is not just the removal of data. Wiping software actually overwrites all sectors of a disk or partition, ensuring that none of the original raw data remains. Software generally overwrites this data with a combination of zeros and random numbers. These random numbers are produced by a random number generator. /dev/random is a random number generator in the Linux kernel. When /dev/random is read, it will return pseudo-random bits generated from sound produced by device drivers. /dev/random and /dev/urandom are both commonly used to produce pseudo-random bits. However, /dev/urandom reuses the bits in the internal pool to more quickly produce more bits. /dev/urandom is generally considered to be less secure than /dev/random; however, it is much faster and less resource-intensive than /dev/random. For something like cryptographic key generation, you would want to use /dev/random. However, for something like data wiping, the use of /dev/urandom is considered secure.</p>

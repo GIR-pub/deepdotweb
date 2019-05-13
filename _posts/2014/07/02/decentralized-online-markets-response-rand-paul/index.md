@@ -2,14 +2,12 @@
 title: "Decentralized, Online Markets: A Response to Rand Paul?"
 ---
 
-<article class="post-listing post-6080 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decentralized tag-paul tag-rand tag-response">
+6080 post type-post status-publish format-standard has-post-thumbnail hentry  tag-decentralized tag-paul tag-rand tag-response
 Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
 <span>July 2, 2014</span>
     
 <a href="/2014/07/02/decentralized-online-markets-response-rand-paul/#comments">4 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Recently, Rand Paul, a Republican senator from Kentucky and potential 2016 presidential candidate, has made the rounds in the mainstream US news circuits touting his plan for the reform of the US&#8217; immigration policy and the security of its southern border. In response to allegations that he supported amnesty for immigrants who have came into the United States and are living here illegally, he said in an <a href="http://www.breitbart.com/Big-Government/2014/06/12/Op-Ed-Secure-the-Border">Op-ED</a> for Breibart Magazine:</p>
 <p><em>“I am for immigration reform because I am against allowing 12 million more illegal immigrants into our country. If we do nothing, 12 million more illegal immigrants will come. We must be in favor of reform—smart reform that starts with border security. Characterizing that position as &#8220;amnesty&#8221; is simply untrue.”</em></p>
 <p>Despite his fairly libertarian leanings on the topic of immigration&#8211; Rand really does want to make it easier for people to enter the United States to work&#8211; he is fundamentally wrong on the method by which these reforms should be made. Granted, although he is hailed by many in the libertarian community as a younger version of his father, famous libertarian Ron Paul, Rand does not and has not ever publicly claimed to be a libertarian, only a constitutional Republican. Ron Paul, Rand&#8217;s father, has even publicly said that he and his son are <a href="http://www.ronpaul.com/2013-04-26/ron-paul-rand-paul-and-i-are-about-99-the-same/">“about 99% the same.”</a> That being said, regardless of Paul&#8217;s true ideological alignment, it is clear that he shares many of the same views as libertarians and often appeals to the libertarian demographic in his speeches. So, why does he have such a big government view on immigration? The most effective way to improve an economy is to open the borders and remove any restrictions on immigration. One open border advocacy group even claims that getting rid of all the global, geopolitical borders would immediately <a href="http://openborders.info/double-world-gdp/">double</a> the global GDP.</p>

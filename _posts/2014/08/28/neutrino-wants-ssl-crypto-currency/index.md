@@ -1,7 +1,7 @@
 ---
 title: "Neutrino Wants To Be The SSL Of Crypto-Currency---
 
-<article class="post-listing post-6782 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptocurrency tag-neutrino tag-ssl">
+6782 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptocurrency tag-neutrino tag-ssl
 Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
 <span>August 28, 2014</span>
     

@@ -2,14 +2,12 @@
 title: "Operation Python: DarkNetMarkets Related Busts In New Zeland"
 ---
 
-<article class="post-listing post-6108 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busts tag-darknetmarkets tag-operation tag-python tag-zeland">
+6108 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busts tag-darknetmarkets tag-operation tag-python tag-zeland
 Posted by: DeepDotWeb
 <span>June 19, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/19/operation-python-darknetmarkets-related-busts-new-zeland/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>As it was published at <a href="http://www.stuff.co.nz/dominion-post/10177294/Police-bust-drugs-ring-find-stolen-carving">Stuff.co.nz</a>,  Relevant parts suggesting its DarkNetMarkets related are in bold:</p>
 <blockquote><p>Police raiding a central Wellington apartment were confronted by men lying on high-powered rifles in a drugs operation that has netted bounty including a carving stolen from Te Papa museum.</p>
 <p>Swords, and the rifles and a $3000 Maori carving thought to have been stolen from the museum&#8217;s gift shop were seized after a week-long series of busts targeting drugs and organised crime.</p>

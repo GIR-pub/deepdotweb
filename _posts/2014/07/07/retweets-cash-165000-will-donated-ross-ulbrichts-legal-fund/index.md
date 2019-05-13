@@ -2,14 +2,12 @@
 title: "Retweets For Cash: ~165,000$ Will Be Donated To Ross Ulbricht&#8217;s Legal Fund"
 ---
 
-<article class="post-listing post-6366 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1804 tag-cash tag-donated tag-fund tag-legal tag-retweets  tag-ulbrichts">
+6366 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1804 tag-cash tag-donated tag-fund tag-legal tag-retweets  tag-ulbrichts
 Posted by: DeepDotWeb
 <span>July 7, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/07/retweets-cash-165000-will-donated-ross-ulbrichts-legal-fund/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>A few days ago Roger Ver – Bitcoin Angel Investor &amp; Bitcoin Evangelist started a twitter campaign by publishing a tweet that supported Ross Ulbricht, the accused Dread Pirate Roberts and the administrator of the now seized, Silk Road marketplace (the original version) Ver offered to donate 10$ for every retweet that he got.</p>
 <p>Following Ross&#8217;s arrest, the Ulbricht family started a campaign at this site: <a href="http://freeross.org/" target="_blank">FreeRoss.org</a> in order to raise funds for his legal defense. The original goal was to raise $100,000 in order to help him get the best legal defense possible and (hopefully) a fair trial. Now it seems that after this recent twitter campaign by Roger Ver, the goal has not only been reached, but was also passed by a considerable amount of money and was successful in raising further awareness along the way.</p>
 <blockquote class="twitter-tweet" width="550">

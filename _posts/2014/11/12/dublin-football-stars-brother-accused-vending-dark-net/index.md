@@ -1,7 +1,7 @@
 ---
 title: "Dublin Football Star&#8217;s Brother Accused Of Vending On The Dark Net---
 
-<article class="post-8192 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust post-listing">
+<article class="post-8192 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust post-listing
 Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb
 <span>November 12, 2014</span>
 <span>in <a href="http://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="http://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

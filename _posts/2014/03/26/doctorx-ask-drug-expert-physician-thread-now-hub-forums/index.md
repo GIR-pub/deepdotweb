@@ -2,12 +2,10 @@
 title: "DoctorX &#8220;Ask a Drug Expert Physician&#8221; Thread &#8211; Now on The Hub Forums!"
 ---
 
-<article class="post-listing post-4817 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorx tag-expert tag-forums tag-hub tag-physician tag-thread">
+
 Posted by: DeepDotWeb
 <span>March 26, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/03/26/doctorx-ask-drug-expert-physician-thread-now-hub-forums/#comments">1 Comment</a></span>
-</p>
+
 <p>For those of you not familiar with DoctorX, Probably the most important harm reduction initiative for the DarkNetMarket community in the past year  &#8211; Dr. Fernando Caudevilla, a Spanish Physician who has been offering professional advice about Drugs and Health during the last year in Silk Road1 and Silk Road2 forums:</p>
 <p>http://web.archive.org/web/<wbr/>20131015051405/https://<wbr/>dkn255hz262ypmii.onion.to/<wbr/>index.php?topic=147607.0</p>
 <p>http://silkroad5v7dywlc.onion/<wbr/>index.php?topic=314.0</p>
@@ -42,6 +40,6 @@ Posted by: DeepDotWeb
 </div></div>
 <p>We thank Dr. Caudevilla for informing us about this, and for taking his time giving out free advice to the DNM users and helping them with staying healthy and safe!</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/doctorx/" rel="tag">doctorx</a>  <a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/hub/" rel="tag">hub</a> <a href="https://www.deepdotweb.com/tag/physician/" rel="tag">physician</a> <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> 
+
 Updated: 2014-03-26
     

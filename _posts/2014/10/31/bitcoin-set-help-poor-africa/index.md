@@ -2,7 +2,7 @@
 title: "How Bitcoin Is Set To help The Poor In Africa?"
 ---
 
-<article class="post-listing post-7452 post type-post status-publish format-standard has-post-thumbnail hentry  tag-africa tag-bitcoin tag-poor tag-set">
+7452 post type-post status-publish format-standard has-post-thumbnail hentry  tag-africa tag-bitcoin tag-poor tag-set
 Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
 <span>October 31, 2014</span>
     

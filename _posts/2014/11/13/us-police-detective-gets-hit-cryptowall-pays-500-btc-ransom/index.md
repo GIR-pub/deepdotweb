@@ -2,14 +2,12 @@
 title: "US Police Detective Gets Hit By CryptoWall &#8211; Pays $500 BTC Ransom"
 ---
 
-<article class="post-listing post-8238 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2424 tag-cryptowall tag-detective tag-hit tag-pays tag-police tag-ransom">
+8238 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2424 tag-cryptowall tag-detective tag-hit tag-pays tag-police tag-ransom
 Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
 <span>November 13, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/13/us-police-detective-gets-hit-cryptowall-pays-500-btc-ransom/#comments">8 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><iframe src="http://launch.newsinc.com/?type=VideoPlayer/Single&amp;widgetId=1&amp;trackingGroup=69016&amp;siteSection=ndn&amp;videoId=28142084&amp;playlistId=15138" width="590" height="332" frameborder="no" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
 <p>Yesterday, the Dickson County Sheriff&#8217;s Office said one of their detectives’ computer were infected with ransomware. The ransomware, which brands itself as CryptoWall, encrypted files on the detective&#8217;s computers and demanded 500 dollars of Bitcoin to decrypt the files. Autopsy reports, witness statements and crime scene photographs were some of the files held hostage by the virus</p>
 <p>The police department’s IT director, Jeff McCliss, said to Channel 5 news, &#8220;Every sort of document that you could develop in an investigation was in that folder. There was a total of 72,000 files.”</p>

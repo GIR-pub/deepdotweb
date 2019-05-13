@@ -2,14 +2,9 @@
 title: "Evolution Marketplace Staff Speak: We are growing fast!"
 ---
 
-<article class="post-listing post-5387 post type-post status-publish format-standard has-post-thumbnail hentry  tag-evolution tag-fast tag-growing tag-speak tag-staff">
 Posted by: DeepDotWeb
 <span>May 10, 2014</span>
-    
-<a href="/2014/05/10/evolution-marketplace-staff-speak-we-are-growing-fast/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>So it seems that as more people are posting threads agaist the interviewers, more people are seeking to do them, this time we had the REAL pleasure of interviewing Boogie &#8211; The PR representative of the <a href="http://www.deepdotweb.com/marketplace-directory/listing/evolution-marketplace" target="_blank">Evolution marketplace</a>.  Beside the fact that he was a fun person to interview he helped to clear out some common misconceptions about Evolution (refereed to as Evo in the interview), Which is important as its the fourth largest market today in the DarknetMarkets Scene.</p>
 <p><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/evolution-marketplace" target="_blank">Evolution Marketplace</a>:  http://k5zq47j6wd3wdvjq.onion</strong></p>
 <div id="attachment_5389" style="width: 655px" class="wp-caption aligncenter"><a href="/imgs/2014/05/admin.jpg"><img class="wp-image-5389" src="/imgs/2014/05/admin.jpg" alt="admin" width="645" height="259" srcset="/imgs/2014/05/admin.jpg 1354w, /imgs/2014/05/admin-300x121.jpg 300w, /imgs/2014/05/admin-1024x411.jpg 1024w" sizes="(max-width: 645px) 100vw, 645px" /></a><p class="wp-caption-text">Evolution Admin confirms the interview to Boogie the PR rep of the market</p></div>
@@ -68,7 +63,6 @@ Posted by: DeepDotWeb
     Boogie: Yes, Evolution is always looking for new ways to improve and we always love hearing your suggestions, critique, and comments. Never be afraid to contact either me or anyone else. Thank you all :)</p>
 <p>&#8212;&#8211;</p>
 <p>We would like to thank Boogie for his time and the interview, and he hope to see more market using multisg transactions and growing in a way that is still keeping their users safe and happy.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/fast/" rel="tag">fast</a> <a href="https://www.deepdotweb.com/tag/growing/" rel="tag">growing</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/speak/" rel="tag">speak</a> <a href="https://www.deepdotweb.com/tag/staff/" rel="tag">staff</a></span> 
+
 Updated: 2014-05-10
     

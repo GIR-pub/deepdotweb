@@ -1,14 +1,12 @@
 ---
 title: "Bitcoin News Roundup: 11-28-14---
 
-<article class="post-listing post-8481 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2481 tag-bitcoin tag-news tag-roundup">
+8481 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2481 tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>November 29, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/29/bitcoin-news-roundup-11-28-14/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><em>Covering the week&#8217;s biggest Bitcoin stories from around the web</em></p>
 <p><strong>Shopping</strong></p>
 <p>Bitcoin owners were able to use their cryptocurrency during the biggest shopping day of the year. As Chris Morris of <a href="http://www.nbcnews.com/tech/gift-guide/get-ready-bitcoin-black-friday-deals-n254851">NBC News</a> writes, Bitcoin Black Friday is now a major online shopping event. Two years ago, 50 merchants participated in the shopping event. That number grew to 600 in 2013 and was expected to reach 1,200 during this year&#8217;s shopping day, with merchants including Newegg, Amagi Metals, NameCheap, and Gyft. While Overstock did not create bitcoin-specific deals, customers can still take advantage of the retailer&#8217;s plethora of shopping deals through their online marketplace.</p>

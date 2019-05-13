@@ -2,14 +2,12 @@
 title: "Grams Grows with TorAds: First Advertising Network For Tor"
 ---
 
-<article class="post-listing post-8355 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advertising tag-grams tag-grows tag-network  ads">
+8355 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advertising tag-grams tag-grows tag-network  ads
 Posted by: DeepDotWeb
 <span>November 18, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/18/grams-torads/#comments">7 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>We are proud to post a Press Release provided by Grams Admin, about another new innovation from Grams &#8211; <a href="/2014/04/08/grams-darknetmarkets-search-engine/">The Dark Net markets search engine</a> &#8211; This time &#8211; Torads:</p>
 <ul>
 <li>TorAds is an advertising network for both advertisers and publishers dedicated for use on hidden services behind Tor.</li>

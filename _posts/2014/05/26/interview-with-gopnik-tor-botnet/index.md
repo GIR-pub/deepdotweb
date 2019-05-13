@@ -2,14 +2,12 @@
 title: "Interview with Gopnik Tor botnet Programmer"
 ---
 
-<article class="post-listing post-5730 post type-post status-publish format-standard has-post-thumbnail hentry  tag-botnet tag-gopnik tag-interview 
+5730 post type-post status-publish format-standard has-post-thumbnail hentry  tag-botnet tag-gopnik tag-interview 
 Posted by: <a href="https://www.deepdotweb.com/author/chrishansen/" title="">ChrisHansen </a></span>
 <span>May 26, 2014</span>
     
 <a href="/2014/05/26/interview-with-gopnik-tor-botnet/#comments">13 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Disclaimer: We do not support the use of such tools and the below info is for informational / technical purposes only, exactly as it was provided to us by our reporter &#8220;Chris Hansen&#8221;</p>
 <p>Tor is full of people who wish to sell things. Some things good and some things bad. Usually these things tend to be related to drugs, but there are the few people who wish to sell a different set of items. Cortex is one of these few people. He programs, owns, and sells his own custom HTTP botnet software along with his team of anonymous members.A botnet is software installed on either a webserver or a persons personal computer, which holds zombie computers. People obtain these zombie computers, or what they are commonly called &#8220;bots&#8221;, through many different means such as an infected webserver with a virus embedded into it, spreading via fake programs on YouTube to generate codes for iTunes or Minecraft, or sending traffic to websites that automatically download an run the virus on the persons computer.</p>
 <div id="attachment_5743" style="width: 780px" class="wp-caption aligncenter"><a href="/imgs/2014/05/1b.png"><img aria-describedby="caption-attachment-5743" class="wp-image-5743" src="/imgs/2014/05/1b.png" alt="1b" width="770" height="286" srcset="/imgs/2014/05/1b.png 1640w, /imgs/2014/05/1b-300x111.png 300w, /imgs/2014/05/1b-1024x380.png 1024w" sizes="(max-width: 770px) 100vw, 770px" /></a><p id="caption-attachment-5743" class="wp-caption-text">Technical info from sale thread</p></div>

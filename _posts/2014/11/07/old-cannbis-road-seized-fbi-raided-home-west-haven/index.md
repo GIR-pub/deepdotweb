@@ -2,14 +2,12 @@
 title: "Old Cannbis road Seized, FBI raided a home in West Haven"
 ---
 
-<article class="post-listing post-8039 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust">
+8039 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust
 Posted by: DeepDotWeb
 <span>November 7, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/07/old-cannbis-road-seized-fbi-raided-home-west-haven/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong>Keep checking the other posts in this chain of event at: <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 Bust Tag<br />
 </a>The story is ongoing and the posts are being updated as we learn more details</strong></p>
 <p>As <a href="/2014/11/06/major-darknet-related-bust-ireland/">operation Onymous</a> Continue and after the busts of along with <a href="/2014/11/06/silk-road-2-seized/">Silk road 2</a> , <a href="/2014/11/06/multiple-market-takedown-hydra-marketplace-seized/">Hydra Market, Cloud 9 Market</a>, and the OLD <a href="/2014/11/06/cannbis-road-forums-seized/">cannabis road forums</a>,  now the old cannabis road onion domain (of the former <a href="/2014/08/25/cannabis-road-hacked-100000-in-btc-gone/">hacked</a> and defunct market) was seized as well (http://cannabiskofvl7pa.onion/)</p>

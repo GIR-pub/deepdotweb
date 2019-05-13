@@ -1,14 +1,11 @@
 ---
-title: "New Multisig Marketplace: Hydra market---
+title: "New Multisig Marketplace: Hydra market"
+---
 
-<article class="post-listing post-4954 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hydra tag-multisig">
-Posted by: DeepDotWeb
 <span>April 12, 2014</span>
     
 <a href="/2014/04/12/new-multisig-marketplace-hydra-market/#comments">13 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p style="text-align: center;"><span style="color: #ff0000;"><strong>&gt;&gt; <a style="color: #ff0000;" href="http://www.deepdotweb.com/tag/silkroad2bust/">HYDRA Market Was Seized During Operation Onymous &#8211; Learn More about Operation Onymous Here</a> &lt;&lt;</strong></span></p>
 <p>As part of our efforts to support marketplaces that are offering multisig transactions, like we did before with TMP, Blackbank market &amp; Drugslist (before the other issues) we are happy to post about this new market offering multisig transactions, and by this lowering the risk for both users and vendors, this is the instructions for using their multisig transaction system as it appears on their site, with the images included.</p>
 <p>This is the hydra marketplace url: <strong>http://hydrampvvnunildl.onion/register/ktgvv60br5et</strong><br/>
@@ -40,7 +37,6 @@ Posted by: DeepDotWeb
 </div>
 <p><span style="text-decoration: underline;"><strong>Guide in screenshots:</strong></span></p>
 <p><a href="/imgs/2014/04/msguide_page_001.jpg"><img class="aligncenter  wp-image-4956" src="/imgs/2014/04/msguide_page_001.jpg" alt="msguide_page_001" width="434" height="562" srcset="/imgs/2014/04/msguide_page_001.jpg 1275w, /imgs/2014/04/msguide_page_001-232x300.jpg 232w, /imgs/2014/04/msguide_page_001-791x1024.jpg 791w" sizes="(max-width: 434px) 100vw, 434px"/></a> <a href="/imgs/2014/04/msguide_page_002.jpg"><img class="aligncenter  wp-image-4957" src="/imgs/2014/04/msguide_page_002.jpg" alt="msguide_page_002" width="403" height="522" srcset="/imgs/2014/04/msguide_page_002.jpg 1275w, /imgs/2014/04/msguide_page_002-232x300.jpg 232w, /imgs/2014/04/msguide_page_002-791x1024.jpg 791w" sizes="(max-width: 403px) 100vw, 403px"/></a> <a href="/imgs/2014/04/msguide_page_003.jpg"><img class="aligncenter  wp-image-4958" src="/imgs/2014/04/msguide_page_003.jpg" alt="msguide_page_003" width="623" height="807" srcset="/imgs/2014/04/msguide_page_003.jpg 1275w, /imgs/2014/04/msguide_page_003-232x300.jpg 232w, /imgs/2014/04/msguide_page_003-791x1024.jpg 791w" sizes="(max-width: 623px) 100vw, 623px"/></a> <a href="/imgs/2014/04/msguide_page_004.jpg"><img class="aligncenter  wp-image-4959" src="/imgs/2014/04/msguide_page_004.jpg" alt="msguide_page_004" width="634" height="820" srcset="/imgs/2014/04/msguide_page_004.jpg 1275w, /imgs/2014/04/msguide_page_004-232x300.jpg 232w, /imgs/2014/04/msguide_page_004-791x1024.jpg 791w" sizes="(max-width: 634px) 100vw, 634px"/></a> <a href="/imgs/2014/04/msguide_page_005.jpg"><img class="aligncenter  wp-image-4960" src="/imgs/2014/04/msguide_page_005.jpg" alt="msguide_page_005" width="411" height="532" srcset="/imgs/2014/04/msguide_page_005.jpg 1275w, /imgs/2014/04/msguide_page_005-232x300.jpg 232w, /imgs/2014/04/msguide_page_005-791x1024.jpg 791w" sizes="(max-width: 411px) 100vw, 411px"/></a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/hydra/" rel="tag">hydra</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/multisig/" rel="tag">multisig</a></span> 
+
 Updated: 2014-04-12
     

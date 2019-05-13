@@ -2,14 +2,12 @@
 title: "Introducing Flowcoins: P2P &#038; Anonymous Multisig Escrow System"
 ---
 
-<article class="post-listing post-6228 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-escrow tag-flowcoins tag-introducing tag-multisig tag-p2p tag-system">
+6228 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-escrow tag-flowcoins tag-introducing tag-multisig tag-p2p tag-system
 Posted by: DeepDotWeb
 <span>June 26, 2014</span>
     
 <a href="/2014/06/26/introducing-flowcoins-p2p-anonymous-multisig-escrow-system/#comments">2 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>We are happy to introduce Flowcoins, an interesting new service providing P2P &amp; Multisig Escrow System operating both on the clearnet and in Tor. Which includes some new and innovative features:</p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong>Tor Version: </strong>k5wsvjf3m54cfl44.onion<br />

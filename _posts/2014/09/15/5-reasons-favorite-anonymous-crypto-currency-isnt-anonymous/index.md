@@ -2,7 +2,7 @@
 title: "5 Reasons Your Favorite Anonymous Crypto Isn&#8217;t Anonymous"
 ---
 
-<article class="post-listing post-6820 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-crypto tag-currency tag-favorite tag-reasons">
+6820 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-crypto tag-currency tag-favorite tag-reasons">
     
 <    
     
@@ -15,9 +15,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
     
 <a href="/2014/09/15/5-reasons-favorite-anonymous-crypto-currency-isnt-anonymous/#comments">4 Comments</a></span>
 </p>
-<div class="clear"></div>
-    
-<div class="entry">
     
 <p>Here are 5 reasons why your favorite anonymous CryptoCurrency isn&#8217;t so anonymous:</p>
 <p><strong>CNN Repeatedly Says It Is</strong></p>
@@ -37,11 +34,8 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>Many crypto-currency devs know the public&#8217;s skepticism toward closed source software which leads them to create excuses for it being closed source. Many say they want to avoid clones or that it isn&#8217;t ready yet. Valid or not, in the world of security and anonymity, these excuses fall short. You aren&#8217;t using cryptography because you just feel like it, but rather to hide very private data and if you are read DeepDotWeb regularly you probably know by now that failing to protect this data might get you in jail.</p>
     
     
-</div><!-- .entry /-->
 <a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/crypto/" rel="tag">crypto</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/favorite/" rel="tag">favorite</a> <a href="https://www.deepdotweb.com/tag/reasons/" rel="tag">reasons</a></span>				
 Updated: 2014-09-15<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

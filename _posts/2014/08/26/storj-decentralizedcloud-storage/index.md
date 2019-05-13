@@ -2,7 +2,7 @@
 title: "Storj &#8211; Decentralized Cloud Storage"
 ---
 
-<article class="post-listing post-6893 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cloud tag-decentralized tag-storage tag-storj">
+6893 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cloud tag-decentralized tag-storage tag-storj
 Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
 <span>August 26, 2014</span>
     

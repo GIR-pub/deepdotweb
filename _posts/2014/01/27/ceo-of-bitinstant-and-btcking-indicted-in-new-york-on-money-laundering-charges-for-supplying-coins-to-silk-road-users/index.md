@@ -2,23 +2,9 @@
 title: "CEO of BitInstant and BTCKing indicted in New York on money laundering charges for supplying coins to Silk Road users"
 ---
 
-<article class="post-listing post-3680 post type-post status-publish format-standard has-post-thumbnail hentry 
-    
-<    
-    
-        
-    Posted by: DeepDotWeb
-    
-    
+Posted by: DeepDotWeb   
 <span>January 27, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-    
-<a href="/2014/01/27/ceo-of-bitinstant-and-btcking-indicted-in-new-york-on-money-laundering-charges-for-supplying-coins-to-silk-road-users/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
-<div class="entry">
-    
+
 <p>As it was published today in the <a href="http://www.justice.gov/usao/nys/pressreleases/January14/SchremFaiellaChargesPR.php" target="_blank">justice.gov Website</a>, This is the Full press release:</p>
 <div align="center">
 <p><strong>Manhattan U.S. Attorney Announces Charges Against Bitcoin Exchangers, Including Ceo Of Bitcoin Exchange Company, For Scheme To Sell And Launder Over $1 Million In Bitcoins Related To Silk Road Drug Trafficking</strong></p>
@@ -45,12 +31,8 @@ title: "CEO of BitInstant and BTCKing indicted in New York on money laundering c
 <p>=============</p>
 <p>This is obviously another bad move against the free trade and people right to conduct their own business in a world where they cannot be held hostage by their own governments.</p>
     
-    
-</div><!-- .entry /-->
 
 Updated: 2014-01-27
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

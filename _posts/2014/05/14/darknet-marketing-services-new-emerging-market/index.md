@@ -2,14 +2,10 @@
 title: "&#8220;DarkNet Marketing Services&#8221; Is the New Emerging Market?"
 ---
 
-<article class="post-listing post-5564 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-emerging tag-marketing tag-services">
 Posted by: DeepDotWeb
 <span>May 14, 2014</span>
     
-<a href="/2014/05/14/darknet-marketing-services-new-emerging-market/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>As the number of DNM&#8217;s and DNM&#8217;s userbase keeps growing at a fast rate and with every media exposure we see more and more users, vendors and markets trying buy and sell services on the DeepWeb. Naturally this reality causes an increase in the level of competition between those who seek to sell services and get the buyers attention (and BTC&#8230;) &#8211; both vendors and markets. In the last couple of months we are starting to see some interesting phenomenons that we are well familiar with from the clearnet internet marketing world, but not so much in the deep web. Such as:</p>
 <p>1) Markets offering &#8220;affiliates commission&#8221; to &#8220;partners&#8221; (any user) spreading the word about the market &#8211; and bringing the market more business, in a revenue share model.</p>
 <p>2) Many markets have Public relations representative working to let the world know about the existence of the markets they are working for and the benefits users and vendor can have from using them.</p>
@@ -38,7 +34,6 @@ Posted by: DeepDotWeb
 <p>Please feel free to contact me about any and all questions.</p></blockquote>
 <p><a href="/imgs/2014/05/marketing.png"><img class="aligncenter  wp-image-5566" src="/imgs/2014/05/marketing.png" alt="marketing" width="530" height="504" srcset="/imgs/2014/05/marketing.png 929w, /imgs/2014/05/marketing-300x285.png 300w" sizes="(max-width: 530px) 100vw, 530px"/></a><br/>
     Obviously we cant tell if this is real or serious at all, but still its another fine example for the growing availability of marketing services in the Dark Net Markets scene, this is without a doubt an interesting insight about how &#8220;mainstream&#8221; and widespread its becoming slowely, we will of course keep following curiously, to see how this develops over time. If you have any interesting insights about this, feel free to share them with us.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/emerging/" rel="tag">emerging</a> <a href="https://www.deepdotweb.com/tag/marketing/" rel="tag">marketing</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a></span> 
+
 Updated: 2014-05-14
     

@@ -2,14 +2,12 @@
 title: "30,000 Seized Bitcoins From Silk Road Are Up for Sale!"
 ---
 
-<article class="post-listing post-6004 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1707 tag-sale tag-seized 
+6004 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1707 tag-sale tag-seized 
 Posted by: DeepDotWeb
 <span>June 12, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/12/30000-seized-bitcoins-from-silk-road-are-up-for-sale/#comments">5 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong>As it was published in a press release by the US government:</strong></p>
 <blockquote><p>The US Marshals are preparing to auction nearly 30,000 bitcoins in connection with a civil forfeiture and criminal action brought against Ross Ulbricht and the assets of Silk Road in October 2013 in federal court in the Southern District of New York.</p>
 <p>The auction will take place during a 12-hour period on June 27 from 6 a.m. until 6 p.m. Eastern Daylight Time. Bids will be accepted by email from registered bidders using a form available from the US Marshals Web page, www.usmarshals.gov/assets/2014/bitcoins.</p>

@@ -2,7 +2,7 @@
 title: "Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone"
 ---
 
-<article class="post-listing post-6866 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1899tag-cannabis tag-hacked tag-road">
+6866 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1899tag-cannabis tag-hacked tag-road
 Posted by: DeepDotWeb
 <span>August 25, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

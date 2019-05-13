@@ -2,14 +2,12 @@
 title: "The Rise of Darkcoin"
 ---
 
-<article class="post-listing post-5666 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkcoin tag-rise">
+5666 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkcoin tag-rise
 Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
 <span>May 20, 2014</span>
     
 <a href="/2014/05/20/the-rise-of-darkcoin/#comments">15 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Edit: Due to some error on the site i reposted this article again, losing all its social stats. sorry.</p>
 <p>The appeal of <a href="http://www.darkcoin.io/">Darkcoin</a> (DRK) to users of darknet or deepweb marketplaces is fairly obvious. It’s a currency designed with strict anonymity in mind and it may finally be the first alternative cryptocurrency to have cracked how to accomplish that. For this reason it has been climbing up in price for the past few days as traders come to realize the hype is not simply another round of ‘pump and dump’ (where forks of Bitcoin are talked up to inflate the price beyond any reasonable additional feature beyond design/name/logo).</p>
 <p><a href="/imgs/2014/05/drk.png"><img class="aligncenter  wp-image-5669" src="/imgs/2014/05/drk.png" alt="drk" width="582" height="284" srcset="/imgs/2014/05/drk.png 966w, /imgs/2014/05/drk-300x146.png 300w" sizes="(max-width: 582px) 100vw, 582px"/></a></p>

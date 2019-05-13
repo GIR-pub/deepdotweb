@@ -2,12 +2,9 @@
 title: "Introducing Bitrated: Bitcoin Arbitration Marketplace"
 ---
 
-<article class="post-listing post-4254 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arbitration tag-bitcoin tag-bitrated tag-introducing tag-marketplace">
 Posted by: DeepDotWeb
 <span>February 17, 2014</span>
-    
-<a href="/2014/02/17/bitrated-bitcoin-arbitration-marketplace/#comments">1 Comment</a></span>
-</p>
+
 <p>One of the most needed things in the DarkNetMarket Scene, is without a doubt, more Multisig based services, few days ago we were introduced to some <strong>open source and 100% free solution</strong> for arbitration services in bitcoin transactions using multisigs, the service is called <strong>Bitrated </strong>and it can be accessed here:</p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
     Service Name:  <strong>Bitrated </strong><br />
@@ -56,7 +53,7 @@ Posted by: DeepDotWeb
 </div></div>
 <p>Feel free to try it out and contact the service admin directly at <a href="/cdn-cgi/l/email-protection#630d0207021523010a1711021706074d000c0e" target="_blank"><span class="__cf_email__" data-cfemail="81efe0e5e0f7c1e3e8f5f3e0f5e4e5afe2eeec">[email&#160;protected]</span></a> if you have any issues, questions or suggestions for improvements.</p>
 <p>We have also added this solution to the <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of hidden marketplaces</a> as a related service</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/arbitration/" rel="tag">arbitration</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/bitrated/" rel="tag">bitrated</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a></span> 
+
+
 Updated: 2014-02-17
     

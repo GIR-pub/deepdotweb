@@ -2,14 +2,12 @@
 title: "Silk Road Bitcoin hoard sold in US!"
 ---
 
-<article class="post-listing post-6286 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-hoard ">
+6286 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-hoard 
 Posted by: DeepDotWeb
 <span>June 30, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/30/silk-road-bitcoin-hoard-sold-us/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong>Update From <a href="http://www.coindesk.com/us-marshals-release-new-data-silk-road-bitcoin-auction/">Coindesk</a>: </strong></p>
 <blockquote><p>The US Marshals Service (USMS), the federal agency tasked with managing the auction of more than 30,000 BTC seized from defunct online black market Silk Road, has released new data about Friday’s event.</p>
 <p>The agency told CoinDesk that 45 registered bidders participated in the event, and that 63 bids were received over the course of the auction, which ran from 6am EST to 6pm EST on 27th June.</p>

@@ -1,14 +1,12 @@
 ---
 title: "Applying Crypto Decentralization to the Physical World: Government---
 
-<article class="post-listing post-6456 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bit-thereum tag-ethereum">
+6456 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bit-thereum tag-ethereum
 Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
 <span>July 16, 2014</span>
     
 <a href="/2014/07/16/applying-crypto-decentralization-physical-world-government/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>In the last few years, the development of cryptography and peer-to-peer technology has created many grand potentialities concerning the overhaul of foundational institutions of society. Already, in its very early stages, the decentralization brought about by the development and improvement of these two technologies has challenged the coercive power of governments, as far as freedom of choice is concerned.</p>
 <p>For several decades, the world&#8217;s governments have been waging a fierce and often bloody war against the consumption of drugs that these governments deem unhealthy or immoral. Central authorities have used their legislative powers to legally regulate what is and is not moral to consume, what is and is not healthy to consume. After enacting legislation they then began to use their powers of coercion and their monopoly on violence—in the form of national, state or provincial, and local law enforcement agencies—to forcefully prevent anyone from obtaining these substances. As a result, black markets have emerged and have flourished, despite government attempts to destroy them.</p>
 <p>Decentralization technology has brought these black markets into the 21<sup>st</sup> century. With the creation of the Tor Network, or DarkNet, drug entrepreneurs gained a way of setting up online drug markets that made it much harder for law enforcement agencies to track down and dismantle. The most famous of these DarkNet markets is/was Silk Road. It operated for years without being detected by governmental authorities. The peer-to-peer nature of the DarkNet constructed a veil of shadow between the governments and the individuals who deliberately defied their mandates by buying and consuming drugs that the governments have sworn to eradicate. P2P technology and cryptography made it extremely difficult for law enforcement to not only locate Silk Road, but track down its users. It took until late 2013 for the United States Federal Bureau of Investigation to fully accomplish this feat and take down the entire Silk Road operation. But, although they managed to take down Silk Road, a myriad of other DarkNet markets sprung up from Silk Road&#8217;s ashes.</p>

@@ -1,14 +1,12 @@
 ---
 title: "Bitcoin news round-up 09.06.2014---
 
-<article class="post-listing post-5956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1690 tag-bitcoin tag-news tag-roundup">
+5956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1690 tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>June 10, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/10/bitcoin-news-round-09-06-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Bitcoin’s price has dropped slightly this week after seeing exceptional gains of 30% last week following the bitcoin conference in Amsterdam and news that Apple’s app store would take a more lenient approach to allowing use of the virtual currency in apps. Bitcoin currently stands at $646.20, down slightly from $658.79 on Monday 2 June.</p>
 <p>Despite last week’s solid growth that the currency was privy to – which was spurred on by institutional investors and early adopters upping their positions in the currency – bitcoin has suffered a number of policy setbacks this week; although not enough to scare investors away entirely. Fox News reported that the constricting range in the coin’s value could be pointing to a break out, potentially pushing it past the $700 mark</p>
 <blockquote class="twitter-tweet" width="550">

@@ -1,14 +1,12 @@
 ---
 title: "Bitcoin news round-up 17.06.2014---
 
-<article class="post-listing post-6070 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-news tag-roundup">
+6070 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>June 17, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/17/bitcoin-news-round-17-06-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>The past week brought positive news for bitcoin despite a 10% price drop since Sunday 8 July. Price decreases over the past week have likely been caused by speculators selling off on fears of the US Marshall’s sale of seized bitcoins will flood the market. Bitcoin holds a value of $599.92 at the time of writing, an improvement of $7.95, or 1.34%, since the markets opened today.</p>
 <p><strong>Policy and government moves</strong></p>
 <p>The US Marshalls Service will auction off $17.5 million worth of bitcoins seized by the government from the infamous Silk Road black market trading website. Of the 144,336 (approximately $100 million) coins the government holds, 29,656 will be sold off with bidder registration closing on Monday, June 23, and <a href="/2014/06/12/30000-seized-bitcoins-from-silk-road-are-up-for-sale/">the auction</a> occurring on Friday, June 27. Since the announcement of the sale, bitcoin’s prices have taken a hit, which Forbes reported could be down to speculators believing the sale will oversaturate the market. Despite this, some 3,600 new bitcoins are minted each day.</p>

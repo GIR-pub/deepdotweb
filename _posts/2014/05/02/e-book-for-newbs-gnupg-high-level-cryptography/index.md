@@ -1,14 +1,10 @@
 ---
-title: "E-Book Recommendation: GnuPG &#8211; High Level Cryptography---
+title: "E-Book Recommendation: GnuPG &#8211; High Level Cryptography"
+---
 
-<article class="post-listing post-5219 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptography tag-ebook tag-gnupg tag-high tag-level tag-recommendation">
 Posted by: DeepDotWeb
 <span>May 2, 2014</span>
-    
-<a href="/2014/05/02/e-book-for-newbs-gnupg-high-level-cryptography/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>To newbies taking their first steps with encryption, or users looking to expend their knowledge we would like to recommend about a new Ebook &#8211; released just now, about  GnuPG &#8211; that includes full explanations an usage guide for email &amp;  files encryption the book if <strong>FREE</strong> for download or in a &#8220;<strong>Pay as you can model</strong>&#8221; (leave a BTC donation &#8211; you will see us also listed there since we provided some  minor contribution &#8211; any income will be donated to <a href="http://www.erowid.org/donations/">erowid.org</a>)</p>
 <p><strong> <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
     Visit the Golden Keys Site <a href="https://www.goldenkeys.org/" target="_blank">Here</a></strong><br/>
@@ -42,7 +38,6 @@ Posted by: DeepDotWeb
 </div></div></strong></p>
 <p>&nbsp;</p>
 <p><strong>Related</strong>: <a href="/2013/11/11/pgp-tutorial-for-newbs-gpg4win/">PGP Tutorial For Newbs (Gpg4Win)</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/cryptography/" rel="tag">cryptography</a> <a href="https://www.deepdotweb.com/tag/ebook/" rel="tag">ebook</a> <a href="https://www.deepdotweb.com/tag/gnupg/" rel="tag">gnupg</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/level/" rel="tag">level</a> <a href="https://www.deepdotweb.com/tag/recommendation/" rel="tag">recommendation</a></span> 
+
 Updated: 2014-05-02
     

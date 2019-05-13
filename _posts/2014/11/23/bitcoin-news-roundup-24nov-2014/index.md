@@ -1,14 +1,12 @@
 ---
 title: "Bitcoin News Roundup – 24Nov. 2014---
 
-<article class="post-listing post-8433 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-24nov tag-bitcoin tag-news tag-roundup">
+8433 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-24nov tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>November 23, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/23/bitcoin-news-roundup-24nov-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><i>Presenting the week&#8217;s biggest Bitcoin stories from around the web.</i></p>
 <p><b>Making Purchases</b></p>
 <p>Not only is Black Friday the biggest shopping day of the year, but will also become the biggest Bitcoin shopping day as well. Caleb Chen of <a href="https://www.cryptocoinsnews.com/bitcoin-black-friday-soon-to-be-most-popular-day-in-the-history-of-bitcoin-commerce/">CrytpoCoins News</a> writes that merchants will be offering a variety of bitcoin discounts and bitcoin-only deals. Last year, BitPay proceeded $6 million USD for Bitcoin Black Friday. At the time, large websites like Newegg and TigerDirect had yet to accept bitcoin-only payments. This year&#8217;s deals can be found on BitcoinBlackFriday.com.</p>

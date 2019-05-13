@@ -1,7 +1,7 @@
 ---
 title: "Guide: Preventing &#038; Dealing With Compromised Identity---
 
-<article class="post-listing post-6199 post type-post status-publish format-standard has-post-thumbnail hentry  tag-compromised tag-identity">
+6199 post type-post status-publish format-standard has-post-thumbnail hentry  tag-compromised tag-identity">
     
 <    
     
@@ -14,9 +14,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Dou
     
 <a href="/2014/09/24/compromised-identity-and-what-you-can-do-about-it/#comments">2 Comments</a></span>
 </p>
-<div class="clear"></div>
-    
-<div class="entry">
     
 <p>When interacting on the dark net, your anonymity is one of your most prized possessions. Most people go to great lengths to ensure that this anonymity is preserved, and rightfully so. The last thing you want when dealing with potentially illicit substances on the internet is for your identity to be compromised. This can happen in a number of different ways, and this article will discuss a few methods of mitigating a potential blow back from having your identity compromised.</p>
 <p>Always keep in mind that regardless of how safe you think you are being, there is a good chance that someone can still identify you, and you may never know. Whether or not that person will care that you are ordering a small amount of cannabis is another discussion.</p>
@@ -90,11 +87,8 @@ Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Dou
 </ul>
     
     
-</div><!-- .entry /-->
 <a href="https://www.deepdotweb.com/tag/compromised/" rel="tag">compromised</a> <a href="https://www.deepdotweb.com/tag/identity/" rel="tag">identity</a></span>				
 Updated: 2014-09-24<a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

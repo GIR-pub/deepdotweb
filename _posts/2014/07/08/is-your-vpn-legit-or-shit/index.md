@@ -2,14 +2,12 @@
 title: "Is your VPN Legit or Shit?"
 ---
 
-<article class="post-listing post-6048 post type-post status-publish format-standard has-post-thumbnail hentry  tag-legit tag-shit tag-vpn">
+6048 post type-post status-publish format-standard has-post-thumbnail hentry  tag-legit tag-shit tag-vpn
 Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ </a></span>
 <span>July 8, 2014</span>
     
 <a href="/2014/07/08/is-your-vpn-legit-or-shit/#comments">321 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Those of you who frequent the darkweb should be familiar with VPN (Virtual Private Network) services and have done some research to find a trustworthy provider. For readers who are just starting to explore the darker catacombs of the Internet a VPN is a mandatory tool for online anonymity.</p>
 <p>But not all VPN services are created equal.</p>
 <p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Click for DeepDotWeb&#8217;s Chart of Best VPN services&lt;&lt;&lt;</a></p>

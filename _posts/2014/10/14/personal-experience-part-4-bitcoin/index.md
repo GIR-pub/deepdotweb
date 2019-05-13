@@ -2,7 +2,7 @@
 title: "Personal Experience: Part 4 – Bitcoin"
 ---
 
-<article class="post-listing post-6835 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-personal tag-pgp">
+6835 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-personal tag-pgp
 Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
 <span>October 14, 2014</span>
     

@@ -2,7 +2,7 @@
 title: "Deep Web &#038; Law Enforcement: Introduction to Intelligence"
 ---
 
-<article class="post-listing post-7950 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-enforcement tag-intelligence tag-introduction tag-law tag-web">
+7950 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-enforcement tag-intelligence tag-introduction tag-law tag-web">
     
 <    
     
@@ -15,9 +15,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Alle
     
 <a href="/2014/12/24/deep-web-law-enforcement-introduction-intelligence/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-    
-<div class="entry">
     
 <p>Intelligence is not the same as evidence – just because the police have, somehow, found out about some story, this does not make it court admissible evidence on its own. There is a complex system that LE must use to determine how reliable incoming intelligence is, whether it should be listened to at all, and what exactly it means, but rest assured, its all part of a jigsaw puzzle. Read on…</p>
 <p>In the days of old, crime intelligence was developed by hard-nosed, hard-boiled, rule-bending detectives of the stereotype we’re all used to seeing in police procedural dramas, who drank with snitches and prostitutes to gather information on crimes being committed in a typically compact geographic area. It brought about (and indeed, still does bring about) corruption as cops and hardened, often heavy hitting, violent criminals break bread socially, and the lines of professionalism get blurred, but as any cop will tell you, if you call them out on hanging with the bad boys too much, “You don’t catch crooks in Church”.</p>
@@ -31,11 +28,8 @@ Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Alle
 <p>Next Part: we’ll look at real world and digital informers.</p>
     
     
-</div><!-- .entry /-->
 <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/intelligence/" rel="tag">intelligence</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				
 Updated: 2014-12-24<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

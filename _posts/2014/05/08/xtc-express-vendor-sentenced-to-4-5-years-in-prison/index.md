@@ -2,14 +2,9 @@
 title: "Silk Road Vendor &#8220;XTC Express&#8221; Sentenced to 4 &#038; 5 Years In Prison"
 ---
 
-<article class="post-listing post-5394 post type-post status-publish format-standard has-post-thumbnail hentry  tag-express tag-prison tag-sentenced tag-vendor tag-xtc tag-years">
 Posted by: DeepDotWeb
 <span>May 8, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/05/08/xtc-express-vendor-sentenced-to-4-5-years-in-prison/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>Dutch Court just sentenced two men from <span id="Dst[0][40:48:68:77]">Arnhem</span> <span id="Dst[0][50:56:79:83]"></span> to prison terms of 4 and 5 years for selling drugs online (on silk road 1) under the vendor name <strong><span id="Dst[0][161:163:164:166]">XTC</span> <span id="Dst[0][165:171:168:174]">Express,</span></strong><span id="Dst[0][165:171:168:174]"> </span>a lower sentence than the one requested by the prosecution &#8211; of 6 years.</p>
 <div id="TranslationOutput" class="mttextarea" dir="ltr">
 <p><span id="Dst[1][0:8:0:8]">Silk Road in his first version</span><span id="Dst[1][9:22:9:19]"></span><span id="Dst[1][41:46:37:42]">,</span> <span id="Dst[1][48:49:44:45]">was </span><span id="Dst[1][74:96:47:71]">shut down </span><span id="Dst[1][62:72:73:82]">by the FBI</span> <span id="Dst[1][51:60:84:92]">last year</span>.  <span id="Dst[1][99:116:95:116]">According to the Court</span> <span id="Dst[1][122:128:118:124]">the two </span><span id="Dst[1][118:120:126:128]">had</span> <span id="Dst[1][130:132:130:134]">their</span> <span id="Dst[1][134:140:136:144]">customers</span> <span id="Dst[1][142:142:146:146]">&#8216;</span> <span id="Dst[1][143:159:148:156]">knowingly</span> <span id="Dst[1][160:160:158:158]">&#8216;</span> <span id="Dst[1][162:177:160:169]">exposed to</span> &#8220;<span id="Dst[1][179:207:171:191]">serious health risks&#8221;.</span> <span id="Dst[1][209:227:193:216]">Especially  because of the fact that</span> <span id="Dst[1][229:230:218:221]">they</span> <span id="Dst[1][239:246:223:229]">offered</span> pressed XTC pills <span id="Dst[1][248:250:231:234]">with</span> <span id="Dst[1][252:272:236:253]">a what the dutch court referred to as a &#8220;life-threatening</span> <span id="Dst[1][274:285:255:267]">concentration</span> of  <span id="Dst[1][287:290:269:272]">MDMA&#8221; (<span style="color: #ff0000;">???</span>)</span>.<span id="Dst[1][232:237:274:278]"></span></p>
@@ -18,7 +13,6 @@ Posted by: DeepDotWeb
 </div>
 <p><span id="result_box" lang="en"><span title="Zij hadden volgens de politie een aanbetaling ontvangen voor een huurmoord."> </span></span></p>
 <p><strong>Article Translated  From</strong>: http://www.nrc.nl/nieuws/2014/05/08/rechter-geeft-online-drugsdealers-tot-vijf-jaar-cel/</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/express/" rel="tag">express</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/xtc/" rel="tag">xtc</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> 
+
 Updated: 2014-05-08
     

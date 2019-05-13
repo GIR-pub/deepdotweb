@@ -2,14 +2,10 @@
 title: "Ross Ulbrich: Eagle Scout. Idealist. Drug Trafficker?"
 ---
 
-<article class="post-listing post-3521 post type-post status-publish format-standard has-post-thumbnail hentry
 Posted by: DeepDotWeb
 <span>January 19, 2014</span>
     
-<a href="/2014/01/19/ross-ulbrich-eagle-scout-idealist-drug-trafficker/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>An comprehensive article published by the The New York Times is telling (again) the  full story of Ross Ulbricht, Not that is has some information we didn&#8217;t know yet, but its still an interesting article summarizing all the events and interviewing hes friends &amp; family, also hinting about the legal strategy that hes lawyer is planning &#8211; trying to prove that the IP of Silk Road server was found using illegal methods, something that could render all the evidence from this point forward &#8211; useless.  interesting read:</p>
 <blockquote>
 <p itemprop="articleBody" data-para-count="451" data-total-count="19476">What is unclear is how the feds knew where the servers were. Presumably, they were rented in some faraway corners of the globe — Iceland, Latvia and Romania are likely, according to experts who have studied the I.P. addresses. But the official vagueness has provoked speculation in academic circles and among security specialists. Was the National Security Agency involved? Did this process involve breaking laws, or violating constitutional rights?</p>

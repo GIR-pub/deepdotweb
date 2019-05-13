@@ -2,14 +2,12 @@
 title: "Tor&#8217;s Hidden Service Publishing Tool, Stormy: A Closer Look"
 ---
 
-<article class="post-listing post-6567 post type-post status-publish format-standard has-post-thumbnail hentry  tag-publishing tag-spokesperson tag-stormy tag-tool  s">
+6567 post type-post status-publish format-standard has-post-thumbnail hentry  tag-publishing tag-spokesperson tag-stormy tag-tool  s
 Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
 <span>July 23, 2014</span>
     
 <a href="/2014/07/23/a-closer-look-at-tors-hidden-service-publishing-tool-stormy/#comments">2 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p style="margin-bottom: 0in;">After reading the Daily Dot story on Tor&#8217;s “point and click” hidden service publishing tool set for launch in September and easy enough for even your mom and dad to use, how could one not be filled with excited anticipation? Considering how difficult it currently is to publish hidden service sites, Stormy, Tor&#8217;s hidden service publishing tool, sounds like a Godsend.</p>
 <div class="im">
 <p style="margin-bottom: 0in;">The Daily Dot <a href="http://www.dailydot.com/technology/tor-stormy-launch-september-2014/" target="_blank">wrote</a>:</p>

@@ -2,14 +2,9 @@
 title: "Bitwasp &#8211; Now Offering Built in multi-signature Transactions!"
 ---
 
-<article class="post-listing post-4879 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitwasp tag-built tag-multisignature tag-offering tag-transactions">
 Posted by: DeepDotWeb
 <span>April 4, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/04/04/bitwasp-now-offering-built-in-multi-signature-transactions/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>Following our recent <a href="/2014/03/25/interview-with-bitwasp-founder-developer/">interview</a> with the founder and developer of the Bitwasp software, we were just told that the new version is now released and is offering built in multisig transactions, this is pretty good news as we know this software is being used from time to time for marketplaces and had some history of getting hacked with all the bitcoins stolen &#8211; so with this new multisig feature we could at least not worry about this part, this is a repost of the announcement from the bitwasp forum  + the guide for using multisig transactions, you can find the original thread here: http://bit-wasp.org/index.php/topic,215.0.html</p>
 <p>(The Guide is after the announcement )</p>
 <p><strong>===Start Quote===</strong></p>
@@ -156,7 +151,6 @@ Posted by: DeepDotWeb
 <p>The entire process guides users towards this final end result: the transaction leaving the multisig address:<br />
 <img alt="" src="http://thelaboratory.tk/blockchain_payment_1configm.png" width="600" /></p>
 <p>If there is ever a dispute along the way, the admin will be notified, and the users will have a chat thread to discuss the situation. If the order was escrow, the admin can create a new transaction. If the order was up-front, there is little the buyer can do unless the seller cooperates.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bitwasp/" rel="tag">bitwasp</a> <a href="https://www.deepdotweb.com/tag/built/" rel="tag">built</a> <a href="https://www.deepdotweb.com/tag/multisignature/" rel="tag">multisignature</a> <a href="https://www.deepdotweb.com/tag/offering/" rel="tag">offering</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a></span> 
+
 Updated: 2014-04-04
     

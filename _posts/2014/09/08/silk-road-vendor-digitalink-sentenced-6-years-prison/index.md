@@ -2,7 +2,7 @@
 title: "Silk Road Vendor &#8220;Digitalink&#8221; Sentenced To 6 Years In Prison"
 ---
 
-<article class="post-listing post-6984 post type-post status-publish format-standard has-post-thumbnail hentry  tag-digitalink tag-prison tag-sentenced tag-term tag-vendor tag-years">
+6984 post type-post status-publish format-standard has-post-thumbnail hentry  tag-digitalink tag-prison tag-sentenced tag-term tag-vendor tag-years
 Posted by: DeepDotWeb
 <span>September 8, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

@@ -1,14 +1,12 @@
 ---
-title: "Interview With a Vendor: &#8220;Darknet is a safe place, Outside of it, isn&#8217;t&#8221;---
+title: "Interview With a Vendor: &#8220;Darknet is a safe place, Outside of it, isn&#8217;t&#8221;"
+---
 
-<article class="post-listing post-5348 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-extensive tag-interview tag-stardockgalix tag-vendor">
 Posted by: DeepDotWeb
 <span>May 7, 2014</span>
     
 <a href="/2014/05/07/interview-the-life-of-an-online-drug-vendor/#comments">8 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>I was intrigued when i was contacted by a vendor on <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora</a> (among some others) that asked to be interviewed, although he is active on several markets, i checked his vendor page on agora which showed that he has done 200~300 sales and have rating of <span class="gen-user-ratings">4.97/5</span> in the time he is active there, as you can see here there is also a proof that he is in fact the vendor we were talking to:</p>
 <p><a href="/imgs/2014/05/interview.png"><img class="aligncenter  wp-image-5349" src="/imgs/2014/05/interview.png" alt="interview" width="445" height="376" srcset="/imgs/2014/05/interview.png 1140w, /imgs/2014/05/interview-300x254.png 300w, /imgs/2014/05/interview-1024x866.png 1024w" sizes="(max-width: 445px) 100vw, 445px" /></a></p>
 <p>The products he is selling are small amounts of &#8220;Famous Classic Cocaine&#8221; And Bulk amounts of Ecstasy pills and Bulk high quality cannabis Although he claims to change the products from time to time because of availability considerations, he is what you call a <a href="/2014/03/02/deepdotwebs-darknet-dictionary/" target="_blank">domestic vendor</a> &#8211; not selling internationally, but only within his own country.</p>
@@ -101,6 +99,6 @@ Posted by: DeepDotWeb
     StarDockGaLiX: 20&#8217;s.</p>
 <p>StarDockGaLiX: This vendor life isn&#8217;t for everyone though, they should know that in the interview. Thanks for the interview friend, I will let you get back to whatever and appreciate all you done on your site and providing such good articles</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/extensive/" rel="tag">extensive</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/stardockgalix/" rel="tag">stardockgalix</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2014-05-07
     

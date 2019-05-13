@@ -2,12 +2,9 @@
 title: "Defcon&#8217;s Latest post: We Will Repay The Stolen Funds"
 ---
 
-<article class="post-listing post-4257 post type-post status-publish format-standard has-post-thumbnail hentry  tag-defcons tag-funds tag-latest tag-post tag-repay tag-stolen">
 Posted by: DeepDotWeb
 <span>February 16, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/#comments">6 Comments</a></span>
-</p>
+
 <p><strong>Update</strong>: <span style="color: #ff0000;"><a title="Permalink to Alleged Silk Road 2.0 Hacker Doxxed!?" href="http://www.deepdotweb.com/2014/02/18/alleged-silk-road-2-0-hacker-doxxed/" rel="bookmark"><span style="color: #ff0000;">Alleged Silk Road 2.0 Hacker Doxxed!?</span></a></span></p>
 <p>I Spent half of this day contemplating if should post this as just another chapter of this drama, and decided why not, we should have this on the record, the latest statement from the hacked Silk road 2 admin, claiming he will make it up to everyone and will no collect any commision from the market until he repay the stolen funds to all vendors:</p>
 <p>You can join the full discussion at the OP, here: http://silkroad5v7dywlc.onion/index.php?topic=26475.0;topicseen</p>
@@ -42,6 +39,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/02/defcon4.png"><img class="aligncenter  wp-image-4258" alt="defcon4" src="/imgs/2014/02/defcon4.png" width="929" height="510" srcset="/imgs/2014/02/defcon4.png 1387w, /imgs/2014/02/defcon4-300x165.png 300w, /imgs/2014/02/defcon4-1024x563.png 1024w" sizes="(max-width: 929px) 100vw, 929px"/></a></p>
 <p>We are not here to judge, just provide the information and let everyone make their own mind about this situation, keep safe.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/defcons/" rel="tag">defcons</a> <a href="https://www.deepdotweb.com/tag/funds/" rel="tag">funds</a> <a href="https://www.deepdotweb.com/tag/latest/" rel="tag">latest</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="https://www.deepdotweb.com/tag/repay/" rel="tag">repay</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> 
+
 Updated: 2014-02-16
     

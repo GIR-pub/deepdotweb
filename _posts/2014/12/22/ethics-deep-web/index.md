@@ -2,7 +2,7 @@
 title: "The Ethics of The Deep Web"
 ---
 
-<article class="post-listing post-7426 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-ethics tag-web">
+7426 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-ethics tag-web
 Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
 <span>December 22, 2014</span>
     

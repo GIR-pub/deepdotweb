@@ -2,14 +2,12 @@
 title: "Self Regulation: DarkNet Buyer Flushes 3000 Fake Pills After Recieving A Refund"
 ---
 
-<article class="post-listing post-6592 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1850 tag-buyer tag-darknet tag-fake tag-flushes tag-pills tag-recieving tag-refund tag-regulation">
+6592 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1850 tag-buyer tag-darknet tag-fake tag-flushes tag-pills tag-recieving tag-refund tag-regulation
 Posted by: DeepDotWeb
 <span>July 23, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/23/self-regulation-darknet-buyer-flushes-3000-fake-pills-recieving-refund/#comments">12 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p class="post-box-title">About a month ago we posted a <a title="Permalink to Warning: PMMA Sold As Red/Blue Hearts 130mg MDMA Pills" href="http://www.deepdotweb.com/2014/06/09/warning-pmma-sold-as-redblue-hearts-130mg-mdma-pills/" rel="bookmark">Warning about PMMA Sold As Red/Blue Hearts 130mg MDMA Pills</a> on <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">agora market</a>,  the listing were taken down and buyers were refunded by the market, but many of the them were left with large amounts of fake and possibly deadly pills with nothing to do with them &#8211; one user specifically demonstrated extraordinary responsibility by posting a proof online that he flushed all the fake pills down the toilet instead collecting his refund money and still selling the pills, and by doing so &#8211;  risking more unsuspecting buyers. On a Reddit post made this buyer <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2bi309/thanks_for_reminding_me_whats_important_flushed_em/">here</a> under the title &#8220;Thanks for reminding me what&#8217;s important &#8211; Flushed &#8217;em&#8221;, he said:</p>
 <blockquote><p>I put a post up a few days ago inquiring about interest in the 3k of those fake pills from Gargamella that I had possession of. The community responded loudly what I should do with them. I had a couple private messages and even an offer that was close to what I asked.</p>
 <p>I flushed them. Between the responses and upvotes, it was clear what needed to be done.</p>

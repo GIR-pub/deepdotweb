@@ -2,12 +2,9 @@
 title: "DeepDotWeb&#8217;s DarkNet Dictionary Project!"
 ---
 
-<article class="post-listing post-1883 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-dictionary">
 Posted by: DeepDotWeb
 <span>March 2, 2014</span>
-    
-<a href="/2014/03/02/deepdotwebs-darknet-dictionary/#comments">24 Comments</a></span>
-</p>
+
 <p>For those of you that are just beginning with the DarknetMarkets, we have compiled a list of the terms you might come across while browsing around including links to important resources, have any term that is missing here? <a href="http://www.deepdotweb.com/contact-us/"> let us know!</a> something needs fixing?  <a href="http://www.deepdotweb.com/contact-us/">contact us!</a> or leave a comment, Thanks to the redditors / mods who helped us compile this list, we will keep it growing and updating.</p>
 <p><u><b>3DD</b></u> &#8211; 3 Day delivery.</p>
 <p><span style="text-decoration: underline;"><strong>420</strong></span> &#8211; From wikipedia: is a code-term used primarily in North America that refers to the consumption of cannabis and by extension, as a way to identify oneself with cannabis subculture or simply cannabis itself. Observances based on the number 420 include smoking cannabis around the time 4:20 p.m. (with some sources also indicating 4:20 a.m</p>
@@ -194,7 +191,6 @@ Posted by: DeepDotWeb
 <p><span style="text-decoration: underline;"><strong>Whonix</strong></span> &#8211; (http://zo7fksnun4b4v4jv.onion) is an Debian based operating system focused on anonymity, privacy and security by isolation. Whonix consists of two parts: One solely runs Tor and is called Gateway. The other, the Workstation, is on a completely isolated network. Only connections through Tor are possible.</p>
 <p><span style="text-decoration: underline;"><strong>Whistleblowing</strong></span> &#8211; The disclosure by a person, usually an employee in a government agency or private enterprise, to the public or to those in authority, of mismanagement, corruption, illegality, or some other wrongdoing.</p>
 <p><span style="text-decoration: underline;"><strong>ZULU Time</strong></span> &#8211; UTC-0 Western European time zone.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dictionary/" rel="tag">dictionary</a></span> 
+
 Updated: 2014-03-02
     

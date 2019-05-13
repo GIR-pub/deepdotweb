@@ -2,14 +2,12 @@
 title: "Judge Rejects Every Defense Argument In The Silk Road Trial"
 ---
 
-<article class="post-listing post-6432 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argument tag-defense tag-judge tag-rejects tag-trial">
+6432 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argument tag-defense tag-judge tag-rejects tag-trial
 Posted by: DeepDotWeb
 <span>July 9, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/09/judge-rejects-every-defense-argument-made-in-the-silk-road-trial/#comments">8 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>As it was published in <strong><a href="http://www.wired.com/2014/07/silkroad-bitcoin-isnt-money/" target="_blank">wired</a></strong>, things are not looking too bright for Ross Ulbricht:</p>
 <blockquote><p>In a ruling released Wednesday, Judge Katherine Forrest denied a motion by Ross Ulbricht, the 30-year-old alleged creator of the Silk Road billion-dollar online drug bazaar, to dismiss criminal charges against him that include narcotics trafficking conspiracy, money laundering, and hacking conspiracy charges, as well as a “continuing criminal enterprise” charge that’s better known as the “kingpin” statute used to prosecute criminal gang and cartel leaders.</p>
 <p><a href="http://www.wired.com/2014/04/threatlevel_0401_silkroad_motion/">That earlier motion</a>, filed in April, raised potentially trial-shifting questions: Can Ulbricht really be accused of running a drug-selling conspiracy when he merely ran a website that made the narcotics sales possible? And can he be charged with money laundering when bitcoin doesn’t necessarily meet the requisite definition of money?’</p>

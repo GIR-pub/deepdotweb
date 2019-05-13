@@ -2,14 +2,12 @@
 title: "Study Claims: Silk Road Reduced Drug-trade Violence"
 ---
 
-<article class="post-listing post-5885 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claims tag-drugtrade tag-reduced tag-study tag-violence">
+5885 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claims tag-drugtrade tag-reduced tag-study tag-violence
 Posted by: DeepDotWeb
 <span>June 8, 2014</span>
     
 <a href="/2014/06/08/study-claims-silk-road-reduced-drug-trade-violence/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>I have been holding this post for over a week and from some reason it slipped my publishing queue. but better late than never. The data in this study is a bit hard to verify and a better definition would be &#8220;debate&#8221; between researchers more than a real study, but it does show some interesting views so its worth mentioning:</p>
 <p>Online black marketplaces such as Silk Road – which used untraceable bitcoin transactions and was shut down in October 2013 – may have actually reduced violent crimes related to drugs, a new report argues.</p>
 <p>Online drug traffickers tend to buy larger amounts of stock, acting as wholesalers, and with Silk Road acting as the broker of deals, there was less chance of dealers meeting directly with trafficker sand therefore less opportunity for violence, intimidation, and territorialism, the new <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2436643">report</a> “<em>Not an ‘Ebay for Drugs’: The Cryptomarket ‘Silk Road’ as a Paradigm of Shifting Criminal Innovation</em>”.</p>

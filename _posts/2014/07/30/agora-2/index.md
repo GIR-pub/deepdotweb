@@ -2,14 +2,12 @@
 title: "Agora Down Time: Hardware Failure"
 ---
 
-<article class="post-listing post-6643 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora">
+6643 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora
 Posted by: DeepDotWeb
 <span>July 30, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/30/agora-2/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong>Update:  <span style="color: #ff0000;">Market is back up and running<br/>
 </span></strong></p>
 <p>Since many people are asking us from some reason than, YES, there is an official announcement from <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">agora</a>, its not gone, they have a hardware failure and will be up in 2 days (actually its suppose to be today since it was posted on their forums almost 2 days ago):</p>

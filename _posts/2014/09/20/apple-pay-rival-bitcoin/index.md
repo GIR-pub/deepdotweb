@@ -2,7 +2,7 @@
 title: "Apple Pay, a Rival to Bitcoin?"
 ---
 
-<article class="post-listing post-7114 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apple tag-bitcoin tag-pay tag-rival">
+7114 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apple tag-bitcoin tag-pay tag-rival
 Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
 <span>September 20, 2014</span>
     

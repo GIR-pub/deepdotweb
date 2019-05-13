@@ -2,12 +2,9 @@
 title: "Silk Road 2.0 Admin: Silk Road is Not Dead"
 ---
 
-<article class="post-listing post-4213 post type-post status-publish format-standard has-post-thumbnail hentry tag-admin tag-dead 
 Posted by: DeepDotWeb
 <span>February 16, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/02/16/silk-road-2-0-admin-silk-road-is-not-dead/#comments">5 Comments</a></span>
-</p>
+
 <p><strong>Update 2</strong>: <span style="color: #ff0000;"><a title="Permalink to Alleged Silk Road 2.0 Hacker Doxxed!?" href="http://www.deepdotweb.com/2014/02/18/alleged-silk-road-2-0-hacker-doxxed/" rel="bookmark"><span style="color: #ff0000;">Alleged Silk Road 2.0 Hacker Doxxed!?</span></a></span></p>
 <p><strong>Update</strong>: <span style="color: #000000;"><a href="/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/"><span style="color: #000000;">Defcon&#8217;s Latest post: We Will Repay The Stolen Funds</span></a></span></p>
 <p>Defcon, The Current Silk Road 2.0 admin just released a news statement, the first on to come since the site was allegedly hacked, you chose what you want to believe:</p>
@@ -63,7 +60,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/02/defcon3.png"><img class="aligncenter  wp-image-4221" alt="defcon3" src="/imgs/2014/02/defcon3.png" width="941" height="248" srcset="/imgs/2014/02/defcon3.png 1187w, /imgs/2014/02/defcon3-300x79.png 300w, /imgs/2014/02/defcon3-1024x270.png 1024w" sizes="(max-width: 941px) 100vw, 941px" /></a></p>
 <p>Needless to say that most users are not convinced at this point.</p>
 <p>We Wish all parties involved good luck, and future safe conduct.</p>
-</div>
- <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/dead/" rel="tag">dead</a> </span> 
+
 Updated: 2014-02-16
     

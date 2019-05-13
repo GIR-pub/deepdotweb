@@ -2,14 +2,12 @@
 title: "How Governments Can Try To Undermine Bitcoin?"
 ---
 
-<article class="post-listing post-6448 post type-post status-publish format-standard has-post-thumbnail hentry  tag-undermining">
+6448 post type-post status-publish format-standard has-post-thumbnail hentry  tag-undermining
 Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
 <span>July 14, 2014</span>
     
 <a href="/2014/07/14/how-governments-can-try-to-undermine-bitcoin/#comments">2 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <div class="im">
 <p style="margin-bottom: 0in;">It could be argued that the government&#8217;s ability to issue, control and tax a nation&#8217;s currency is necessary in order to maintain control and power over that nation. Bitcoin&#8217;s decentralized nature effectively dismantles that power and control structure. If Bitcoin were to become, for example, the default internet currency, it could – from a governmental point of view – be seen as a direct threat to their power and control structure, along with the economic security of the U.S.</p>
 <p style="margin-bottom: 0in;">History shows us that if a government feels threatened by something – particularly the U.S. government – a number of tactics can be used to undermine that perceived threat. In the past, these tactics have included waging preemptive war under false pretenses, intentionally destroying reputations using covert tactics, and launching all out cyber attacks against the threat.</p>

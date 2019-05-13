@@ -2,14 +2,12 @@
 title: "Perspectives of Bitcoin Valuation"
 ---
 
-<article class="post-listing post-5684 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-perspectives tag-valuation">
+5684 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-perspectives tag-valuation
 Posted by: <a href="https://www.deepdotweb.com/author/nostradammit/" title="">Nostradammit </a></span>
 <span>May 22, 2014</span>
     
 <a href="/2014/05/22/perspectives-of-bitcoin-valuation/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Starting in 2011, Bitcoin’s drastic increase in value led what tended to be an amateur group of crypto-currency enthusiasts to wade into the unchartered waters of currency speculation. An entirely new ecosystem of forums, exchanges, startups and “whales” began to emerge as new fortunes were made and anecdotes of the latest millionaire who rediscovered a two-year-old hard drive were posted online. New speculators began educating themselves on everything from currency valuation to technical analysis. Forums became flooded with posts about double tops, new bottoms, trend lines, and bubbles by rank amateurs and legitimately experienced traders. All of the new entrants were desperately trying to answer the same two questions: Where will the Bitcoin price go next and what is its true value?</p>
 <p>In its most basic form, the value of a currency is driven by the demand for said currency. That demand is a product of speculators, demand for use in a currency’s economy, and now for demand of a currency’s technological capabilities, especially with Bitcoin. Speculators hold Bitcoin suspecting that others participants will buy in and that adoption of the currency will cause others to buy in as well. Consumers looking to use SealsWithClubs and SilkRoad buy in to gain access to the services of these sites, while an emigrant of Africa seeks to bypass international banking fees by transferring money with the digital currency. Every one of these participants has a particular demand for Bitcoin and a different timeframe for usage. It is the disparity in gauging the sizes and influence of these different participants that leads to the variation in estimates of the true value of Bitcoin.</p>
 <p>Cameron and Tyler Winklevoss have been outspoken proponents of Bitcoin in recent months. Headlines were made by the twins after their statements at the New York Times Dealbook Conference, where they proclaimed their “Bull case scenario is a $400 billion market capitalization.” This estimate is reportedly based on anticipated adoption of Bitcoin. As it stands presently, the Bitcoin market capitalization stands at $5.9 billion. The Winklevoss’ estimate is almost 70 times the size of the current Bitcoin market. This scenario would have a corresponding Bitcoin price per coin of almost $40,000.</p>

@@ -2,14 +2,12 @@
 title: "Security Alert: Six more bugs found in OpenSSl"
 ---
 
-<article class="post-listing post-5896 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alert tag-bugs tag-openssl tag-security">
+5896 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alert tag-bugs tag-openssl tag-security
 Posted by: DeepDotWeb
 <span>June 6, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/06/security-alert-six-bugs-found-openssl/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>As it was published earlier at <a href="http://www.theregister.co.uk/2014/06/05/openssl_bug_batch/">Theregister</a>: Users of anonymising network Tor should definitely update as the man-in-the-middle attack <a href="https://lists.torproject.org/pipermail/tor-talk/2014-June/033161.html" target="_blank">affects Tor clients and relays</a>. Readers may also recognize the name of the chap who, <a href="http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/ZDI-14-173-CVE-2014-0195-OpenSSL-DTLS-Fragment-Out-of-Bounds/ba-p/6501002#.U5DId5RdV68" target="_blank">according to HP&#8217;s ZDI team</a>, wrote the buggy DTLS code.</p>
 <p><strong>Quote</strong>:</p>
 <blockquote><p>The OpenSSL team today pushed out fixes for <a href="https://www.openssl.org/news/secadv_20140605.txt" target="_blank">six security vulnerabilities</a> in the widely used crypto library.</p>

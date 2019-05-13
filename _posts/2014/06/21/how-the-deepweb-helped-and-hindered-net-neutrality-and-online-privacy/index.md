@@ -1,14 +1,12 @@
 ---
 title: "How The DeepWeb Helped and Hindered Net Neutrality and Online Privacy---
 
-<article class="post-listing post-6075 post type-post status-publish format-standard has-post-thumbnail hentry  tag-helped tag-hindered tag-net tag-neutrality tag-privacy">
+6075 post type-post status-publish format-standard has-post-thumbnail hentry  tag-helped tag-hindered tag-net tag-neutrality tag-privacy
 Posted by: <a href="https://www.deepdotweb.com/author/ikewest/" title="">Ike West </a></span>
 <span>June 21, 2014</span>
     
 <a href="/2014/06/21/how-the-deepweb-helped-and-hindered-net-neutrality-and-online-privacy/#comments">3 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>The internet is a hotbed of controversy as of late. I first started taking notice during the SOPA crisis of 2012 which focused on shutting down websites that could take money away from big corporations (gosh wouldn’t that be just horrible). This issue has bubbled up to the surface again with legislation involving Net Neutrality, which is aimed at opening up “Fast Lanes” that benefit, you guessed it, big corporations. The United States Government seems to not get the message. The citizens of the United States, and the world do not want government intervention on the world wide web. Yet, they continue to do so, and by doing so they are doing their best to hinder free speech and open expression on the internet, or at least the internet most people are aware of. Increasingly, free speech instead takes place beneath the surface, on the Deep Web.</p>
 <p>The Deep Web poses an interesting predicament. On one hand it is the model free internet. It uses Bitcoin, which decentralizes the monetary system and provides an anonymous way to conduct business, it is self relegating because nobody is in charge. However, it also puts a heavy emphasis on crime and illegal activities including Drug Markets and Child Pornography. This detracts from the true purpose of the Deep Web which is to support open communication without government interference but unfortunately the negatives of the Deep Web have brought the Government into the Deep Web.</p>
 <p><a href="/imgs/2014/06/seized.jpg"><img class="aligncenter wp-image-6076 " src="/imgs/2014/06/seized.jpg" alt="Silk Road Seized" width="575" height="431" srcset="/imgs/2014/06/seized.jpg 1024w, /imgs/2014/06/seized-300x225.jpg 300w" sizes="(max-width: 575px) 100vw, 575px" /></a></p>

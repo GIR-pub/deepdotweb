@@ -2,14 +2,11 @@
 title: "TorEscrow, What Happend?"
 ---
 
-<article class="post-listing post-5085 post type-post status-publish format-standard has-post-thumbnail hentry  tag-happend escrow">
 Posted by: DeepDotWeb
 <span>April 22, 2014</span>
     
 <a href="/2014/04/22/torescrow-marketplace-happend/#comments">18 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Well, this Basically:<br/>
     (We held back this report until now for the case it might be back, but considering the fact that the Admin were pretty active on the forums / Reddit, and we have yet to hear from them, it seems pretty unlikely to happen now)</p>
 <div style="width: 490px" class="wp-caption aligncenter"><img src="/imgs/2013/12/gone.jpg" alt="" width="480" height="360"/><p class="wp-caption-text">We really wanted to report something about this case – but this is the only info we have about this.</p></div>
@@ -30,7 +27,6 @@ Posted by: DeepDotWeb
 <strong>2. Than Continue to here to the multisig category- <span style="color: #ff0000;"><a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/"><span style="color: #ff0000;">Updated List of Hidden Marketplaces</span></a></span></strong></p>
 </div></div>
 <p>Sorry for those who lost money, and hopefully this will not happen again (but it probably will).</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/happend/" rel="tag">happend</a> <a href="https://www.deepdotweb.com/tag/torescrow/" rel="tag">torescrow</a></span> 
+
 Updated: 2014-04-22
     

@@ -1,14 +1,12 @@
 ---
 title: "FBI: Bomb Suspect Ryan Chamberlain Sought Toxins Via ‘Deep Web’ (BMR)---
 
-<article class="post-listing post-5975 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bmr tag-bomb tag-chamberlain tag-deep tag-ryan tag-sought tag-suspect tag-toxins tag-web">
+5975 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bmr tag-bomb tag-chamberlain tag-deep tag-ryan tag-sought tag-suspect tag-toxins tag-web
 Posted by: DeepDotWeb
 <span>June 11, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/11/fbi-bomb-suspect-ryan-chamberlain-sought-toxins-via-deep-web-bmr/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Video report &#8211; from <a href="http://sanfrancisco.cbslocal.com/2014/06/06/fbi-says-san-francisco-bomb-suspect-ryan-chamberlain-sought-toxins-ryan-kelly-chamberlain-ii-toxin-abrin-poison-explosives-dangerous-note-manifesto-manhunt/">this</a> source:<br />
 <script src="http://CBSSF.images.worldnow.com/interface/js/WNVideo.js?rnd=272712;hostDomain=video.sanfrancisco.cbslocal.com;playerWidth=620;playerHeight=349;isShowIcon=true;clipId=10244117;flvUri=;partnerclipid=;adTag=News;advertisingZone=CBS.SF%252Fworldnowplayer;enableAds=true;landingPage=;islandingPageoverride=false;playerType=STANDARD_EMBEDDEDscript;controlsType=overlay"></script></p>
 <p><strong>Info source  <a href="http://www.sfexaminer.com/sanfrancisco/silk-road-like-website-part-of-investigation-into-man-arrested-by-fbi-for-having-alleged-bomb-making-materials/Content?oid=2819736">sfexaminer.com</a>:</strong></p>

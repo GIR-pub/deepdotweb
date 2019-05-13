@@ -1,14 +1,12 @@
 ---
 title: "Research &#038; News in Tor, Privacy, &#038; Security – Nov 16th, 2014---
 
-<article class="post-listing post-8285 post type-post status-publish format-standard has-post-thumbnail hentry  tag-16th tag-1779 tag-news tag-nov tag-privacy tag-research tag-security 
+8285 post type-post status-publish format-standard has-post-thumbnail hentry  tag-16th tag-1779 tag-news tag-nov tag-privacy tag-research tag-security 
 Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
 <span>November 16, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/16/research-news-tor-privacy-security-nov-16th-2014/#comments">2 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>A <a href="https://mice.cs.columbia.edu/getTechreport.php?techreportID=1545&amp;format=pdf">research paper</a> suggesting that over 81% of Tor users could be deanonymized through a traffic correlation attack was published by Sambuddho Chakravarty et al. The paper outlines how the “NetFlow” technology in Cisco routers, and similar technology included in most routers, can make users susceptible to traffic analysis. Cisco&#8217;s NetFlow technology is used to log certain information about the traffic passing through a router. The attack is accomplished by injecting a unique traffic pattern into the TCP traffic from an exit node, then comparing this traffic to a target&#8217;s NetFlow records. The attack depends on the attacker having the ability to access NetFlow records of many different routers. The Tor project team <a href="https://blog.torproject.org/blog/traffic-correlation-using-netflows">responded</a> by writing that while this type of research is useful, it does not reveal a serious vulnerability in the Tor network. The Tor blog post stated that, “In summary, it&#8217;s great to see more research on traffic confirmation attacks, but a) traffic confirmation attacks are not a new area so don&#8217;t freak out without actually reading the papers, and b) this particular one, while kind of neat, doesn&#8217;t supersede all the previous papers.”</p>
 <p>According to new <a href="http://www.f-secure.com/weblog/archives/00002764.html">research</a>, the Tor exit node recently <a href="http://www.leviathansecurity.com/blog/the-case-of-the-modified-binaries/">revealed</a> to be adding malware to executable files was likely operating for a year before it was blacklisted. The exit node was targeting uncompressed executables downloaded over a non-HTTPS connection. The malware has been tied to MiniDuke APT family, which has been used in targeted attacks against NATO and several European government agencies. F-Secure researchers have been calling the malware “OnionDuke”, and they believe the relay operators have been using this attack since October, 2013.</p>
 <p><strong>News</strong></p>

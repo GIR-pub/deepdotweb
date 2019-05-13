@@ -1,14 +1,12 @@
 ---
 title: "How Crypto Markets will Undermine Government Control: Money---
 
-<article class="post-listing post-6202 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-crypto tag-government tag-money tag-undermine">
+6202 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-crypto tag-government tag-money tag-undermine
 Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
 <span>July 6, 2014</span>
     
 <a href="/2014/07/06/crypto-markets-will-undermine-government-control-money/#comments">8 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><em>“The gun has been called the great equalizer</em><em>… It ensures that the people are the equal of their government whenever that government forgets that it is servant and not master of the governed.”</em></p>
 <p><em>            &#8211;</em>Ronald Reagan</p>
 <p>If the gun is the great equalizer, protecting the people from tyrannical government, then crypto-currency will be the next great equalizer by eliminating the very source of government tyranny. If a gun in the hands of an average citizen allows him to stave off the incessant advances by a government that is bent on obtaining totalitarian control and centrally planning every individual&#8217;s life, then Bitcoin in the hands of the average citizens of the <em>world</em> will make it impossible for any government to even attempt such gross violations of our individual rights. What a concept, fighting off government tyranny before it even starts! Bitcoin can work even better than a gun; governments can ban guns and forcefully remove them from the possessions of the citizens. They can do no such thing with Bitcoin. Crypto-currency is necessarily untraceable. Its decentralized nature makes it essentially impossible for anyone to find out who you are. The only information that is displayed in a Bitcoin transaction are the two addresses engaged in trade and the amount of bitcoins being sent. None of those things have any link to your personal information, given that you implement solid <a href="http://www.deepdotweb.com/security-tutorials/">cybersecurity</a> measures.</p>

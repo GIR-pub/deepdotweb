@@ -2,13 +2,9 @@
 title: "Arrested Silk Road Mod SSBD waives extradition rights over Silk Road charges in Us"
 ---
 
-<article class="post-listing post-4723 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-extradition tag-mod tag-rights tag-ssbd tag-waives">
 Posted by: DeepDotWeb
 <span>March 19, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/03/19/arrested-silk-road-mod-ssbd-waives-extradition-rights-silk-road-charges-us/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
+
     
 <p>The arrested Silk Road moderator Peter Phillip Nash, 41 Who was also known under the name Samesamebutdifferent (SSBD) &#8211; A Former Queensland prison employee appeared in the Brisbane magistrates court on Wednesday. He was accused of helping run Silk Road one being one of the staff members under the alleged &#8220;Dread Pirate Roberts&#8221; Ross Ulbricht.</p>
 <p>He has now waived his extradition rights paving the way for him to face charges in the US of conspiracy to launder money. The Extradition can be executed  once the Commonwealth attorney general in Australia approves it. <a href="http://www.couriermail.com.au/news/queensland/former-queensland-public-servant-peter-nash-agrees-to-extradition-to-us-over-claims-he-ran-drug-ring-from-wacol-prison-office/story-fnihsrf2-1226859045009">The couriermail quoted the court protocol</a>:</p>
@@ -31,7 +27,7 @@ Posted by: DeepDotWeb
 <p>A Queensland government gazette published in October 2011 shows that Nash had been employed at the Wacol prison’s forensic disability service for intellectually disabled inmates.</p>
 <p><em><strong>We Hope to see him free as soon as possible, it seems pretty unlikely considering the US laws in cases such as this one, we can only hope that the reason he waived his rights was that he know that the most part of the charges will be dropped.<br />
 </strong></em></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/mod/" rel="tag">mod</a> <a href="https://www.deepdotweb.com/tag/rights/" rel="tag">rights</a>  <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a> <a href="https://www.deepdotweb.com/tag/waives/" rel="tag">waives</a></span> 
+
+
 Updated: 2014-03-19
     

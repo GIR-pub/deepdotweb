@@ -2,14 +2,11 @@
 title: "Pymultisigtools: Multi-Platform Signing Solution"
 ---
 
-<article class="post-listing post-5510 post type-post status-publish format-standard has-post-thumbnail hentry  tag-multiplatform tag-pymultisigtools tag-signing tag-solution">
 Posted by: DeepDotWeb
 <span>May 12, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/05/12/pymultisigtools-multi-platform-signing-solution/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <div class="usertext-body may-blank-within">
 <div class="md">
 <p>In interesting development by <a class="author may-blank id-t2_e8ae2" href="http://www.reddit.com/user/owockEznan">owockEznan</a> one of the talented developers that made the <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">TMP plugin:</a></p>
@@ -24,7 +21,6 @@ Posted by: DeepDotWeb
 <p>&nbsp;</p>
 </div>
 </div>
-</div>
-<a href="https://www.deepdotweb.com/tag/multiplatform/" rel="tag">multiplatform</a> <a href="https://www.deepdotweb.com/tag/pymultisigtools/" rel="tag">pymultisigtools</a> <a href="https://www.deepdotweb.com/tag/signing/" rel="tag">signing</a> <a href="https://www.deepdotweb.com/tag/solution/" rel="tag">solution</a></span> 
+
 Updated: 2014-05-12
     

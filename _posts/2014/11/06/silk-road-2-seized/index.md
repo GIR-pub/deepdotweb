@@ -1,14 +1,12 @@
 ---
 title: "Silk Road 2 Seized! (Multiple Markets Seized)---
 
-<article class="post-listing post-7967 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous tag-seized 2bust">
+7967 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous tag-seized 2bust
 Posted by: DeepDotWeb
 <span>November 6, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/06/silk-road-2-seized/#comments">86 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong>This post is being updated constantly as this case unfolds – check back for updates. All new posts will be in this : <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 bust Tag</a><br />
 </strong></p>
 <p><strong>Update 3</strong>: <a href="/2014/11/06/cannbis-road-forums-seized/" target="_blank">Cannabis Road forums seized</a></p>

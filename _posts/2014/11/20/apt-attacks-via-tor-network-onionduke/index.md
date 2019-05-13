@@ -1,7 +1,7 @@
 ---
 title: "APT attacks via the Tor network, “OnionDuke”---
 
-<article class="post-listing post-8276 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apt tag-attacks tag-network tag-onionduke 
+8276 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apt tag-attacks tag-network tag-onionduke 
 Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
 <span>November 20, 2014</span>
     

@@ -2,14 +2,12 @@
 title: "Legal Issues? Get Advice From Anonymous DeepWeb Lawyer"
 ---
 
-<article class="post-listing post-6416 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advice tag-anonymous tag-deepweb s tag-lawyer tag-legal">
+6416 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advice tag-anonymous tag-deepweb s tag-lawyer tag-legal
 Posted by: DeepDotWeb
 <span>July 9, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/09/legal-issues-get-advice-anonymous-deepweb-lawyer/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Just came across this interesting thread on SR2 forum, I must admit i still did not have the chance to contact them and ask for more details about this service but i like the idea so i though i should mention it and maybe we will get some reports from people who contacted this lawyer for advice (http://silkroad5v7dywlc.onion/index.php?topic=45693.0;topicseen):</p>
 <p><strong>The thread was as follows:</strong></p>
 <blockquote><p>Introducing Onion Law, the worlds only anonymous law firm &#8211; Onion Law operates exclusively on the &#8220;deep web&#8221; and was established in 2013 by a collective of fully qualified and accredited legal professionals in multiple jurisdictions.</p>

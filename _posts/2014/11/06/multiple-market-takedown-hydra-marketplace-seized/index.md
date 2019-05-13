@@ -2,12 +2,10 @@
 title: "Multiple Market Takedown: Hydra &#038; Cloud 9 Marketplace Seized"
 ---
 
-<article class="post-listing post-7998 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hydra tag-multiple tag-operation-onymous tag-seized 2bust tag-takedown">
+7998 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hydra tag-multiple tag-operation-onymous tag-seized 2bust tag-takedown">
     
-<    
-    
-        
-    Posted by: DeepDotWeb
+
+Posted by: DeepDotWeb
     
     
 <span>November 6, 2014</span>
@@ -15,9 +13,6 @@ title: "Multiple Market Takedown: Hydra &#038; Cloud 9 Marketplace Seized"
     
 <a href="/2014/11/06/multiple-market-takedown-hydra-marketplace-seized/#comments">5 Comments</a></span>
 </p>
-<div class="clear"></div>
-    
-<div class="entry">
     
 <p><strong>All new posts regarding this ongoing case will be in this <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 bust Tag</a></strong></p>
 <p>Along with the Seized Silk Road 2 market &#8211; Another 2 Markets were confirmed as seized &#8211; Hydra &amp; Cloud 9 Marketplaces:<br />
@@ -39,11 +34,8 @@ title: "Multiple Market Takedown: Hydra &#038; Cloud 9 Marketplace Seized"
 <p><a href="/imgs/2014/11/down.png"><img class="aligncenter size-full wp-image-7977" src="/imgs/2014/11/down.png" alt="down" width="330" height="447" srcset="/imgs/2014/11/down.png 330w, /imgs/2014/11/down-221x300.png 221w" sizes="(max-width: 330px) 100vw, 330px" /></a></p>
     
     
-</div><!-- .entry /-->
 <a href="https://www.deepdotweb.com/tag/hydra/" rel="tag">hydra</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/multiple/" rel="tag">multiple</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a> <a href="https://www.deepdotweb.com/tag/takedown/" rel="tag">takedown</a></span>				
 Updated: 2014-11-06
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

@@ -2,14 +2,9 @@
 title: "DarkNetMarkets Listing Count *IS* Booming: 53,917 Listings!"
 ---
 
-<article class="post-listing post-5518 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1585 tag-booming tag-count tag-darknetmarkets tag-listing tag-listings">
 Posted by: DeepDotWeb
 <span>May 12, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/05/12/darknetmarkets-listing-count-is-booming-53917/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>Just two weeks ago we posted a study that <a href="/2014/04/30/darknetmarkets-listing-count-is-booming-approaching-50000/">compared</a> the listing count of the DarkNetMarkets the total listing count in the first Silk Road,</p>
 <p>Today,  it appears that a user &#8211; <a class="author may-blank id-t2_f7i7s" href="http://www.reddit.com/user/Dunavo">Dunavo</a> just made a count of all the listings across the marketplaces &#8211; and published it in this <a href="http://www.reddit.com/r/DarkNetMarkets/comments/25cmt7/leaderboard/">reddit thread</a> Remember that this is <strong>NOT</strong> the number of unique products listings &#8211; but the total amount of listing (we never had a situation of just unique listing so this shouldn&#8217;t matter anyway) but it still gives a great deal of information about the market size in compare to what we used to know in the past. The listing count at the various marketplaces is as follows:</p>
 <p>For specific info about each market &#8211; Visit <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">our marketplace list</a><br/>
@@ -52,7 +47,6 @@ Posted by: DeepDotWeb
 <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/hydra-marketplace">Hydra</a> &#8211; Being popular as its the newest market out of the 7 largest markets. (there is also <a href="http://www.deepdotweb.com/marketplace-directory/listing/andromeda-market">Andromeda</a> but it was <a href="/2014/05/01/marketplace-merge-darkbay-andromeda/">merged</a> with Darkbay &#8211; what probably counts in the listing count)</p>
 <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/the-marketplace-i2p">The Marketplace</a> &#8211; Still growing slow and has a policy of one listing per product per vendor &#8211; which means that it had higher count if he was operating in the same policy as the other markets.</p>
 <p><a href="/imgs/2014/05/count.png"><img class="aligncenter  wp-image-5519" src="/imgs/2014/05/count.png" alt="count" width="655" height="533" srcset="/imgs/2014/05/count.png 927w, /imgs/2014/05/count-300x244.png 300w" sizes="(max-width: 655px) 100vw, 655px"/></a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/53917/" rel="tag">53917</a> <a href="https://www.deepdotweb.com/tag/booming/" rel="tag">booming</a> <a href="https://www.deepdotweb.com/tag/count/" rel="tag">count</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/listing/" rel="tag">listing</a> <a href="https://www.deepdotweb.com/tag/listings/" rel="tag">listings</a></span> 
+
 Updated: 2014-05-12
     

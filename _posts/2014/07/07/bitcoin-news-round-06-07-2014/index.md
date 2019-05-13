@@ -1,14 +1,12 @@
 ---
 title: "Bitcoin news round-up 07.07.2014---
 
-<article class="post-listing post-6359 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1800 tag-bitcoin tag-news tag-roundup">
+6359 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1800 tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>July 7, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/07/bitcoin-news-round-06-07-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Bitcoin continued on its upward trajectory over the past week, rising to $631.48 at the time of writing, up from $598.97 at the start of the week, June 30. Having recovered from some dropback the week prior, the coin is once again comfortably above the $600 threshold; values of which it hasn’t seen since the start of June. Price rises were spurred by positive industry news as well as the successful US federal auction of coins seized from the illicit Silk Road marketplace.</p>
 <p><strong>Policy news</strong></p>
 <p>All eyes were on the US federal bitcoin auction this week, as the government sold off 30,000 of the bitcoins it had seized from the Silk Road black market. All coins went to a single bidder, revealed as venture capitalist Tim Draper. Draper outbid 10 other parties for the <a href="http://www.coindesk.com/us-marshals-one-auction-bidder-claimed-all-30000-silk-road-bitcoins/">coins</a> . Details of pricing were not announced, though at the time of the sale the chunk of coins were worth $18 million. Draper said he will use the bitcoins to provide liquidity in <a href="http://www.coindesk.com/tim-draper-revealed-silk-road-bitcoin-auction-winner/">emerging markets</a>. In addition, a leak of the potential bidders came by email from the US Marshalls Service, revealing potential bidders. Ironically, Draper was not on that list.</p>

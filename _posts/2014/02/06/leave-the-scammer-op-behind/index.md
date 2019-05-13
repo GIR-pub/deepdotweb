@@ -2,14 +2,11 @@
 title: "Leave the Scammer-op behind"
 ---
 
-<article class="post-listing post-3849 post type-post status-publish format-standard has-post-thumbnail hentry  tag-leave tag-scammerop">
+
 Posted by: DeepDotWeb
 <span>February 6, 2014</span>
     
-<a href="/2014/02/06/leave-the-scammer-op-behind/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>We have found some interesting post at the Outlaw market forums, made by their admin, we guess that the original intent was to point out the security and the integrity of their own market, but this is not the reason that we are posting this, we are re posting this because this post offers some interesting theory regarding the marketplace scams / arrests that we have witnessed (Sr1, Atlantis, PBF, Sheep, Atlantis, Tormarket and the future ones..).</p>
 <p>This may sound at first like a nice conspiracy theory and nothing more, but those of you who were following closely and remember these the following events might find this theory interesting, and since this not the first, nor the second time that we hear this theory (with not much real evidence) we decided to repost this:</p>
 <p><span style="text-decoration: underline;">Event 1</span>: Few big vendors that were warned about a week or two before SR1 Went down and pulled their listings.</p>
@@ -40,6 +37,6 @@ Posted by: DeepDotWeb
 <p>The OUTLAW-team wishes you a positive and secure shopping experience.</p>
 <p>====End Quote===</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/leave/" rel="tag">leave</a> <a href="https://www.deepdotweb.com/tag/scammerop/" rel="tag">scammerop</a></span> 
+
 Updated: 2014-02-06
     

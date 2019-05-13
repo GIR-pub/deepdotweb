@@ -2,14 +2,12 @@
 title: "Introducing Crypt Design: DarkNet Design Services!"
 ---
 
-<article class="post-listing post-5845 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crypt tag-darknet tag-design tag-introducing tag-services">
+5845 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crypt tag-darknet tag-design tag-introducing tag-services
 Posted by: DeepDotWeb
 <span>June 4, 2014</span>
     
 <a href="/2014/06/04/introducing-crypt-design-darknet-design-services/#comments">11 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>This is one interesting service &#8211; while browsing Grams few months ago i saw a banner saying &#8220;Design services for the Dark Net&#8221; and i also saw that this service was used to design the Grams sub reddit, at the time i was looking for someone to redesign DDW so i contacted this service called Crypt &#8211; and as you can probably see we had the whole site redesigned from scratch.</p>
 <p>The concept of this service Crypt is offering can be  <strong>very</strong> useful for DNM owners or deep web site owners in general, as we all know &#8211; in the onion land, user experience and design is a major flaw in most sites, and as this scene is growing larger by the day, it shouldn&#8217;t be like that. Since i had the pleasure of working with Crypt design and i found his service to be super professional and quick, i asked him to give me a short interview to introduce his service with the hope that other site owners will find it useful as i did &#8211;  <strong>Anonymous Design Services For Dark Net Sites</strong>:</p>
 <p><a href="/imgs/2014/05/crypt-slider-banner.jpg"><img class="aligncenter size-full wp-image-5846" src="/imgs/2014/05/crypt-slider-banner.jpg" alt="crypt-slider-banner" width="680" height="330" srcset="/imgs/2014/05/crypt-slider-banner.jpg 680w, /imgs/2014/05/crypt-slider-banner-300x146.jpg 300w" sizes="(max-width: 680px) 100vw, 680px" /></a><br />

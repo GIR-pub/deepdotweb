@@ -1,14 +1,12 @@
 ---
 title: "Exclusive: Large Number Of Deep Web Child Abuse Sites Shut Down Abruptly---
 
-<article class="post-listing post-6190 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abruptly tag-abuse tag-child tag-deep tag-exclusive tag-large tag-number tag-shut tag-sites tag-web">
+6190 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abruptly tag-abuse tag-child tag-deep tag-exclusive tag-large tag-number tag-shut tag-sites tag-web
 Posted by: DeepDotWeb
 <span>June 24, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/24/large-number-of-child-abuse-sites-shut-down-abruptly/#comments">47 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p style="text-align: center;"><em>Sunlight is the best disinfectant</em></p>
 <p>In some other Good news &#8211; A source just informed us that a large number of well known websites that operated for a long time on the Tor network (.onion sites), some of them offering the worse type of child abuse content including the singe site inside the Tor Network offering content of children being raped and tortured were shut down abruptly by their owner,  an infamous anonymous figure  known as &#8220;Lux&#8221; who just posted a PGP signed message stating:</p>
 <blockquote><p>As always, all Empires eventually fall and today is the day that the {Removed} falls.</p>

@@ -2,23 +2,12 @@
 title: "Silk Road Sub Reddit Is No More"
 ---
 
-<article class="post-listing post-4547 post type-post status-publish format-standard has-post-thumbnail hentry  tag-reddit 
-    
-<    
-    
         
 Posted by: DeepDotWeb
     
     
 <span>March 3, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-    
-<a href="/2014/03/03/silk-road-sub-reddit/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-    
-    
-    
+
 <p><strong><span class="title may-blank loggedin">Edit:</span><a class="title may-blank loggedin" tabindex="1" href="http://www.reddit.com/r/SilkRoad/comments/209z3t/subreddit_has_been_reopened/" target="_blank">Subreddit has been reopened</a></strong></p>
 <p>Due to the recent events of silk road being hacked and all the other technical problems &#8211; along with the common belief that silk road is not a safe marketplace to us, the well known <a href="http://www.reddit.com/r/silkroad">Silk road Sub reddit</a> is no more!</p>
 <p>For the past week or so the moderators debated privately if they should privatize the sub in order to force users into trying other markets that are probably safer and more functional than the current state of silk road. if you will try to access the silk road sub now, you will be redirected to the <a href="http://www.reddit.com/r/DarkNetMarkets/">Darknetmarkets</a> sub Reddit:</p>
@@ -40,11 +29,7 @@ Posted by: DeepDotWeb
 <p>For now, we wish all the Silk Road redditors to enjoy their new and Quality home at the DarkNetMarkets sub reddit and good luck to the DNM sub mods with the large amount of traffic they are about to handle.</p>
     
     
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/reddit/" rel="tag">reddit</a> </span>				
 Updated: 2014-03-03
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

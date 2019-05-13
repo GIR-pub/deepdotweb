@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin-Ethereum (Part 2)---
 
-<article class="post-listing post-6532 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoinethereum">
+6532 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoinethereum
 Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
 <span>August 19, 2014</span>
     

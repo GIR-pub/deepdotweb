@@ -2,14 +2,10 @@
 title: "Grams: DarkNetMarkets Search Engine"
 ---
 
-<article class="post-listing post-4912 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknetmarkets tag-engine tag-grams tag-search">
 Posted by: DeepDotWeb
 <span>April 8, 2014</span>
     
-<a href="/2014/04/08/grams-darknetmarkets-search-engine/#comments">141 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p><strong><span style="text-decoration: underline;">Edit 3.5.14</span>:  <a href="/2014/05/03/interview-with-grams-search-engine-admin-exciting-features-ahead/">An interview with the Grams Search Engine Admin</a></strong></p>
 <p>This privacy-minded search engine is a development the dark net community was anticipating for a long time. Grams is a service that offers a way to search for products across different dark net marketplaces. They are currently indexing products from markets, more will be added soon. The service is currently in Alpha release, as noted by Grams’ administrator: “Grams is in alpha mode, meaning we are just getting started. We would love your input on features to add or take away. Please don’t be too harsh this is not a finished product.”</p>
 <p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Attention: Use VPN with Tor! Click here to see the best VPN’s&lt;&lt;&lt;</a></p>
@@ -34,7 +30,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/04/grams1.png"><img class="aligncenter wp-image-4914" src="/imgs/2014/04/grams1.png" alt="grams SERP" width="513" height="390" srcset="/imgs/2014/04/grams1.png 1007w, /imgs/2014/04/grams1-300x229.png 300w" sizes="(max-width: 513px) 100vw, 513px" /></a></p>
 <p>Grams plans to run from <a href="https://www.deepdotweb.com/2014/06/01/gramwords-launched-google-adwords-of-the-deepweb/">advertisements</a> which will pay for ongoing security and development costs, we wish the creators all the best and we hope to see this service develop into a fully functional search engine that indexes listings in from all the existing marketplaces. This can not only save people time, it could also improve safety.</p>
 <p>Added later: <a href="https://www.deepdotweb.com/grams-search-darknet-marketplaces/">For more info about Grams and its related services visit this url.</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/engine/" rel="tag">engine</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/search/" rel="tag">search</a></span> 
+
 Updated: 2014-04-08
     

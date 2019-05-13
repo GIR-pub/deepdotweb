@@ -2,7 +2,7 @@
 title: "The FBI Says How It ‘Legally’ Found Silk Road’s Server&#8217;s Ip"
 ---
 
-<article class="post-listing post-6956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ip tag-legally tag-roads tag-servers 
+6956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ip tag-legally tag-roads tag-servers 
 Posted by: DeepDotWeb
 <span>September 6, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

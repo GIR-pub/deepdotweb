@@ -2,14 +2,12 @@
 title: "Russia Offers 4 Million Rubles (~$100K) To De-Anonymize Tor"
 ---
 
-<article class="post-listing post-6616 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deanonymize tag-million tag-offers tag-rubles tag-russia 
+6616 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deanonymize tag-million tag-offers tag-rubles tag-russia 
 Posted by: DeepDotWeb
 <span>July 25, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/25/russia-offers-4-million-rubles-de-anonymize-tor/#comments">5 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>The Russian Interior Ministry has posted a <a href="http://zakupki.gov.ru/epz/order/notice/zkk44/view/common-info.html?regNumber=0373100088714000008">tender</a> (<strong>Any Russian speaking reader who can translate this for us?</strong>) seeking to find a solution for obtaining information about users of the TOR anonymous network and decrypting intercepted TOR data.</p>
 <p>As it was published by <a href="http://rt.com/news/175408-russia-internet-tor-service/">RT</a>:</p>
 <blockquote><p>Russia’s Interior Ministry is offering $111k for a technological solution that would allow police officers to identify internet surfers who are using the TOR anonymizer network, which has been rapidly growing in popularity inside the country.</p>

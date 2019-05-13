@@ -1,14 +1,12 @@
 ---
 title: "World Drug Report 2014: Drug Deals Multiply on the Dark Net---
 
-<article class="post-listing post-6336 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-dark tag-deals tag-multiply tag-net tag-report 
+6336 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-dark tag-deals tag-multiply tag-net tag-report 
 Posted by: DeepDotWeb
 <span>July 4, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/04/world-drug-report-2014-drug-deals-multiply-dark-net/#comments">3 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><span class="meta_origin">Some more bullshit information  &#8211; on the good side, <a href="/2014/05/12/darknetmarkets-listing-count-is-booming-53917/">DarknetMarkets are booming</a> as we know:</span></p>
 <p><span class="meta_origin"><strong>Published in <a href="http://www.ipsnews.net/2014/07/illicit-drug-deals-multiply-on-the-dark-net/">IPS:</a></strong><br />
 </span></p>

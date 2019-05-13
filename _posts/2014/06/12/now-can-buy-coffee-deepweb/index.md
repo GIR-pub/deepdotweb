@@ -2,14 +2,12 @@
 title: "Now You Can Buy&#8230; Coffee! On The DeepWeb"
 ---
 
-<article class="post-listing post-5986 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-coffee tag-deepweb">
+5986 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-coffee tag-deepweb
 Posted by: DeepDotWeb
 <span>June 12, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/12/now-can-buy-coffee-deepweb/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Check out the new onion site that was announced earlier on Reddit not sure if its for real but i like the idea so why not mention it  &#8211;  &#8220;<strong>Dark Net Roasters</strong>&#8221; accepting Bitcoin and Darkcoin:</p>
 <p>Announcement thread <a href="http://www.reddit.com/r/DarkNetMarkets/comments/27xyp8/announcing_dark_net_roasters_order_coffee_with/" target="_blank">here</a>:</p>
 <p>URL: http://iqerkl6u5vusk6pe.onion</p>

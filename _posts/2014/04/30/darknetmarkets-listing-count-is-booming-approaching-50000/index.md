@@ -2,14 +2,9 @@
 title: "Darknetmarkets listing Count Is Booming: Approaching 50,000!"
 ---
 
-<article class="post-listing post-5175 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1514 tag-approaching tag-booming tag-count tag-darknetmarkets tag-listing">
 Posted by: DeepDotWeb
 <span>April 30, 2014</span>
     
-<a href="/2014/04/30/darknetmarkets-listing-count-is-booming-approaching-50000/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
 <p>There are more than 3 times more listings today on the Various Darknetmarkets than there were in October 2013 one the only 3 markets that existed &#8211; SR1, BMR, Sheep (along with some small, mostly scam sites), according to <a href="http://bit.ly/NewSilkRoad">investigative report</a> by the Digital Citizens Alliance.</p>
 <p>Most of the reports focuses on comparing silk road 1 and silk road 2 while describing the changes along the way, but the part we found to be the most interesting in this report is the table comparing the number of DNM listing nowadays to the number of listing that existed in the Silk Road 1 Era, summarized in this table  that is far from being complete, <strong>at this date we count around <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">35 active marketplaces</a></strong>, and that&#8217;s after removing  few markets as &#8220;quality control&#8221; measures, so the numbers shown in this table &#8211; including only 11 marketplaces (one being down over a week now), and yet, the numbers showing over 41,000 listing in the markets (we estimate something like 50,000 including the other markets and the I2P markets):</p>
 <p><a href="/imgs/2014/04/dnm1.png"><img class="aligncenter  wp-image-5176" src="/imgs/2014/04/dnm1.png" alt="dnm1" width="844" height="541" srcset="/imgs/2014/04/dnm1.png 1062w, /imgs/2014/04/dnm1-300x192.png 300w, /imgs/2014/04/dnm1-1024x657.png 1024w" sizes="(max-width: 844px) 100vw, 844px"/></a></p>
@@ -32,6 +27,6 @@ Posted by: DeepDotWeb
 <p>So its not being very accurate.</p>
 <p>Data Aside and the bottom line is that the outcome of shutting down the silk road &#8211; was a massive growth booster and development for the DNM scene,  providing endless advertising services to the drug markets across the traditional media. And this research shows it clearly, Thank You, focus the next one on harm reduction.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/50000/" rel="tag">50000</a> <a href="https://www.deepdotweb.com/tag/approaching/" rel="tag">approaching</a> <a href="https://www.deepdotweb.com/tag/booming/" rel="tag">booming</a> <a href="https://www.deepdotweb.com/tag/count/" rel="tag">count</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/listing/" rel="tag">listing</a></span> 
+
 Updated: 2014-04-30
     

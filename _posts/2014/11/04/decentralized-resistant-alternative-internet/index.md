@@ -1,14 +1,12 @@
 ---
 title: "A Decentralized, Resistant, Alternative Internet---
 
-<article class="post-listing post-7271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-decentralized tag-internet tag-resistant">
+7271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-decentralized tag-internet tag-resistant
 Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
 <span>November 4, 2014</span>
     
 <a href="/2014/11/04/decentralized-resistant-alternative-internet/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>The internet to is way more centralized than anyone realizes. The US government and Internet Corporation for Assigned Names and Numbers (ICANN) has temerous sway and power over the internet. With increased regulations, the infrastructure that supports the internet is increasingly monopolistic. Geeks used to set up ISPs as a hobby, and way to get a little extra income.</p>
 <p>The internet as a result is more controlled than ever. Though, there is still bastions of freedom to be found on the internet, they are a rare breed, and on the threat of extinction. Many plans, and organizations have popped up to create a new decentralized internet that would be more resistant to censorship, or central control in any case.</p>
 <p><strong>Mesh Network</strong></p>

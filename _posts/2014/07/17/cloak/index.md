@@ -4,10 +4,8 @@ title: "Cloak"
 
 <article class="post-6513 post type-post status-publish format-standard has-post-thumbnail hentry category-meme-images tag-generator tag-meme post-listing">
     
-<    
-    
-        
-    Posted by: <a href="http://www.deepdotweb.com/author/" title=""> </a></span>
+
+Posted by: <a href="http://www.deepdotweb.com/author/" title=""> </a></span>
     
     
 <span>July 17, 2014</span>
@@ -15,9 +13,6 @@ title: "Cloak"
     
 <span><a href="/2014/07/17/cloak/#respond" title="Comment on Cloak">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-    
-<div class="entry">
     
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
@@ -72,11 +67,8 @@ title: "Cloak"
 <!-- End WP Socializer - Social Buttons - Output -->
     
     
-</div><!-- .entry /-->
 <a href="http://www.deepdotweb.com/tag/generator/" rel="tag">generator</a> <a href="http://www.deepdotweb.com/tag/meme/" rel="tag">meme</a></span>				
 Updated: 2014-07-17</strong></div>
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

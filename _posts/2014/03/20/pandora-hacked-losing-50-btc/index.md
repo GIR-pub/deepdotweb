@@ -1,14 +1,11 @@
 ---
-title: "Pandora Marketplace Hacked: Losing $250,000 in BTc"
+title: "Pandora Marketplace Hacked: Losing $250,000 in BTC"
 ---
 
-<article class="post-listing post-4739 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1447 tag-hacked tag-losing tag-pandora">
+
 Posted by: DeepDotWeb
 <span>March 20, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/03/20/pandora-hacked-losing-50-btc/#comments">11 Comments</a></span>
-</p>
-<div class="clear"></div>
+
     
 <p><span style="text-decoration: underline;"><strong>Update</strong></span>: Withdrawals are working again.</p>
 <p>We had a quiet couple of weeks but now a claim from the Pandora Marketplace  admin (Alice) was published stating that guess what&#8230;. the market was hacked, losing around 50% of all the BTC totaling at around $250,000 value (somewhere around 425BTC at the current rate), we know this drill very well by now with all the hacks and scams that we have witnessed, Alice posted a very detailed post on the pandora forums explaining what happened, and how the market admins intend to sort this issue out and return the lost funds by collecting higher commissions from the vendors and repaying everyone within the time frame of a month or so.</p>
@@ -104,6 +101,6 @@ Posted by: DeepDotWeb
 <p>We don&#8217;t know exactly what happened there but the above post seems detailed enough to explain the general repayment plan, we only hope that everyone will have their money back in no time.</p>
 <p>We will keep following and updating as we will have more information.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/50/" rel="tag">50</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/losing/" rel="tag">losing</a> <a href="https://www.deepdotweb.com/tag/pandora/" rel="tag">pandora</a></span> 
+
 Updated: 2014-03-20
     

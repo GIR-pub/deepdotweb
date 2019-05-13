@@ -2,14 +2,12 @@
 title: "Vendor XanaxKing: Anti-Bail Letter"
 ---
 
-<article class="post-listing post-6634 post type-post status-publish format-standard has-post-thumbnail hentry  tag-antibail tag-letter tag-vendor tag-xanaxking">
+6634 post type-post status-publish format-standard has-post-thumbnail hentry  tag-antibail tag-letter tag-vendor tag-xanaxking
 Posted by: DeepDotWeb
 <span>July 29, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/29/vendor-xanaxking-anti-bail-letter/#comments">2 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <div class="usertext-body may-blank-within">
 <div class="md">
 <p>As it was posted in another great summary brought to you by <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> in <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2bzv3j/xanaxking_antibail_letter/">this</a> Reddit thread (you can join the discussion on reddit):</p>

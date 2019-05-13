@@ -2,7 +2,7 @@
 title: "Interview With a DarkNet Vendor: VamonosDab"
 ---
 
-<article class="post-listing post-7405 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-interview tag-vamonosdab tag-vendor">
+7405 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-interview tag-vamonosdab tag-vendor
 Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
 <span>October 20, 2014</span>
     

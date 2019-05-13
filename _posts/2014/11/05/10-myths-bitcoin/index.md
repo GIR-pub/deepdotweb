@@ -2,14 +2,12 @@
 title: "10 Myths About Bitcoin"
 ---
 
-<article class="post-listing post-7034 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-bitcoin tag-myths">
+7034 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-bitcoin tag-myths
 Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
 <span>November 5, 2014</span>
     
 <a href="/2014/11/05/10-myths-bitcoin/#comments">3 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <ol>
 <li><strong>Bitcoin Is Not Secure</strong></li>
 </ol>

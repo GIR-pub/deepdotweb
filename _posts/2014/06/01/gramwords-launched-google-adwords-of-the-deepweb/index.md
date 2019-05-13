@@ -2,14 +2,12 @@
 title: "&#8220;Gramwords&#8221; Launched: Google Adwords Of The DeepWeb!"
 ---
 
-<article class="post-listing post-5833 post type-post status-publish format-standard has-post-thumbnail hentry  tag-grams tag-gramwords tag-introducing">
+5833 post type-post status-publish format-standard has-post-thumbnail hentry  tag-grams tag-gramwords tag-introducing
 Posted by: DeepDotWeb
 <span>June 1, 2014</span>
     
 <a href="/2014/06/01/gramwords-launched-google-adwords-of-the-deepweb/#comments">8 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Following our previous post about the <a href="/2014/05/31/introducing-grams-infodesk-features-part-1/">new features in Grams Search Engine</a> &#8211;  We are happy to release the second part of the announcement, this one is about the vendor side of &#8220;Grams Stage 2&#8221; and includes an overview of the much anticipated <strong>Gramwords</strong> advertising system,  the first system ever to offer an Adwords-like functionality for Deep Web Marketplace listings, for vendors who wants to promote them on Grams search results. This is another step toward the trend we have mentioned few weeks ago about <a href="/2014/05/14/darknet-marketing-services-new-emerging-market/">more traditional advertising</a> schemes in the Dark Net Markets world that will only expand.</p>
 <p><span style="text-decoration: underline;"><strong>The information Below was provided to us by the Admin of Grams Search engine and is brought to you as it is:</strong></span></p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>

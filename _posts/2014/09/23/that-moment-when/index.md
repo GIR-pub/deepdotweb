@@ -2,7 +2,7 @@
 title: "That Moment When&#8230;."
 ---
 
-<article class="post-7202 post type-post status-publish format-standard hentry category-meme-images tag-generator tag-meme post-listing">
+<article class="post-7202 post type-post status-publish format-standard hentry category-meme-images tag-generator tag-meme post-listing
 Posted by: <a href="http://www.deepdotweb.com/author/" title=""> </a></span>
 <span>September 23, 2014</span>
 <span>in <a href="http://www.deepdotweb.com/category/meme-images/" rel="category tag">Meme Images</a></span>

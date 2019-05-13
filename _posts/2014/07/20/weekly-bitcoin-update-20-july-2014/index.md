@@ -1,14 +1,12 @@
 ---
 title: "Weekly Bitcoin Update – 20 July 2014---
 
-<article class="post-listing post-6530 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1766 tag-1779 tag-bitcoin tag-july tag-update tag-weekly">
+6530 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1766 tag-1779 tag-bitcoin tag-july tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>July 20, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/20/weekly-bitcoin-update-20-july-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p><strong>Industry</strong></p>
 <p>On July 18<sup>th</sup>, <a href="http://en.community.dell.com/dell-blogs/direct2dell/b/direct2dell/archive/2014/07/18/we-re-now-accepting-bitcoin-on-dell-com.aspx">Dell</a> announced that they would accept Bitcoin payments for all their products through their online marketplace. Previously, Dell had solely accepted the purchasing of gift cards with Bitcoin. The computer hardware company, whose brands include Alienware and the XPS line of laptops, announced a partnership with the third party payment processor Coinbase. The company&#8217;s co-founder, Fred Ehrsam, credited the Dell team for being “instrumental in getting the Coinbase integration up and running in such a short timeframe.” The project was completed in just fourteen days.</p>

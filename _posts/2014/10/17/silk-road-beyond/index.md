@@ -2,7 +2,7 @@
 title: "Silk Road And Beyond"
 ---
 
-<article class="post-listing post-7388 post type-post status-publish format-standard has-post-thumbnail hentry  
+7388 post type-post status-publish format-standard has-post-thumbnail hentry  
 Posted by: DeepDotWeb
 <span>October 17, 2014</span>
     

@@ -1,14 +1,11 @@
 ---
-title: "The Drugslist Lesson: Why Marketplace Security should not be taken lightly! (Complete Timeline)---
+title: "The Drugslist Lesson: Why Marketplace Security should not be taken lightly! (Complete Timeline)"
+---
 
-<article class="post-listing post-3684 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drugslist tag-hacked tag-pastebin tag-posted tag-userslist">
 Posted by: DeepDotWeb
 <span>January 27, 2014</span>
     
-<a href="/2014/01/27/the-drugslist-lesson-why-marketplace-security-should-not-be-taken-lightly/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>This is one of the saddest of the latest stories, a marketplace who did not take the security warnings seriously and rather deny than fix, luckily, in this case no harm was done yet, beside the ruining of  the drugslist marketplace reputation, but this is a lesson that should be learned by all marketplace admins. address all issues, not matter how small you think they are.</p>
 <p>We bring you here the complete timeline of the events &#8211; <span style="color: #ff0000;"><strong>Full credit goes to <a href="http://www.reddit.com/user/the_avid"><span style="color: #ff0000;">the_avid</span></a> for helping us organize this huge amount of information into a clear chain of events</strong></span><span style="color: #ff0000;">:</span></p>
 <p>So this is how it began&#8230;</p>
@@ -55,6 +52,6 @@ Posted by: DeepDotWeb
 <p>&#8212;</p>
 <p>Let this be a warning for all admins, please for the benefit of your vendors and users, your Marketplace Security should not be taken lightly! address and fix every issue, even the ones you think are  small.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/drugslist/" rel="tag">drugslist</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/pastebin/" rel="tag">pastebin</a> <a href="https://www.deepdotweb.com/tag/posted/" rel="tag">posted</a> <a href="https://www.deepdotweb.com/tag/userslist/" rel="tag">userslist</a></span> 
+
 Updated: 2014-01-27
     

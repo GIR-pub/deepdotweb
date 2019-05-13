@@ -2,14 +2,12 @@
 title: "Torcoin: New Altcoin Hopes To Incentivize People Into Running Tor Relays"
 ---
 
-<article class="post-listing post-6037 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coin  coin">
+6037 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coin  coin
 Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
 <span>June 18, 2014</span>
     
 <a href="/2014/06/18/torcoin-new-altcoin-incentivize-running-tor-relays/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>We all know how horribly slow the Tor network can be, and the reason for this is largely due to the lack of people running active relay nodes, which is currently done on a volunteer basis.</p>
 <p>Outside of a desire to contribute to improved functioning and security of one of the best anonymity tools in existence, there isn&#8217;t much of an incentive for people to run Tor relays.</p>
 <p>The problem many have been working on is how to compensate relay operators while retaining anonymity of those using Tor. And the solution may finally come from a new alternative digital currency that hopes to incentivize people into running Tor exit relays.</p>

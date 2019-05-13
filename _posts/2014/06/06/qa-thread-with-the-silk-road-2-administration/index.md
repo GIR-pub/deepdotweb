@@ -2,14 +2,12 @@
 title: "Q&#038;A Thread With The Silk Road 2 Administration"
 ---
 
-<article class="post-listing post-5902 post type-post status-publish format-standard has-post-thumbnail hentry  tag-administration tag-qa tag-thread">
+5902 post type-post status-publish format-standard has-post-thumbnail hentry  tag-administration tag-qa tag-thread
 Posted by: DeepDotWeb
 <span>June 6, 2014</span>
     
 <a href="/2014/06/06/qa-thread-with-the-silk-road-2-administration/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Yesterday new silk road 2 admins called <strong>Khufu &amp; Sneferu &amp; Djedefre  </strong>chose a great way to introduce themselves to the silk road 2 users and started a thread on the silk road forums (http://silkroad5v7dywlc.onion/index.php?topic=42543.0;topicseen)  offering a Q&amp;A with the Silk road admins for a few hours:</p>
 <blockquote><p>Hello.</p>
 <p>Silk Road Administrators do not appear to public often. It is time to open for questions for a brief time.</p>

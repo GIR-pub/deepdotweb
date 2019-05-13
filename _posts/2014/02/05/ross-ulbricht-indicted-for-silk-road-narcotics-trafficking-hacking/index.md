@@ -2,12 +2,9 @@
 title: "Ross Ulbricht indicted for Silk Road narcotics trafficking &#038; Hacking"
 ---
 
-<article class="post-listing post-3853 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacking tag-indicted tag-narcotics  tag-trafficking tag-ulbricht">
 Posted by: DeepDotWeb
 <span>February 5, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/02/05/ross-ulbricht-indicted-for-silk-road-narcotics-trafficking-hacking/#comments">2 Comments</a></span>
-</p>
+
 <p><strong>As it was published originally</strong>: http://arstechnica.com/tech-policy/2014/02/ross-ulbricht-indicted-for-silk-road-narcotics-trafficking-hacking/</p>
 <p>&#8220;Federal prosecutors have formally <a href="http://www.justice.gov/usao/nys/pressreleases/February14/RossUlbrichtIndictmentPR.php">indicted</a> Ross Ulbricht, the suspected mastermind behind the original Silk Road website (a new one has since sprung up in its place). Ulbricht was charged with four formal criminal offenses: narcotics trafficking conspiracy, continuing criminal enterprise, computer hacking conspiracy, and money laundering conspiracy.</p>
 <p>Ulbricht’s defense attorney, Joshua Dratel, did not immediately respond to Ars’ request for comment.&#8221;</p>
@@ -37,6 +34,6 @@ Posted by: DeepDotWeb
 <p>The prosecution of this case is being handled by the Office’s Complex Frauds Unit. Assistant United States Attorney Serrin Turner is in charge of the prosecution, and Assistant United States Attorney Christine Magdo is in charge of the forfeiture aspects of the case.</p>
 <p>The charges contained in the Indictments are merely accusations, and the defendants are presumed innocent unless and until proven guilty.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/hacking/" rel="tag">hacking</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a>  <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> 
+
 Updated: 2014-02-05
     

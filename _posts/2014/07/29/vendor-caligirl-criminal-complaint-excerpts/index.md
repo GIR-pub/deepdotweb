@@ -2,14 +2,12 @@
 title: "Vendor CALIGIRL Criminal Complaint Excerpts"
 ---
 
-<article class="post-listing post-6630 post type-post status-publish format-standard has-post-thumbnail hentry  tag-caligirl tag-complaint tag-criminal tag-excerpts tag-vendor">
+6630 post type-post status-publish format-standard has-post-thumbnail hentry  tag-caligirl tag-complaint tag-criminal tag-excerpts tag-vendor
 Posted by: DeepDotWeb
 <span>July 29, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/29/vendor-caligirl-criminal-complaint-excerpts/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>As it was posted in another great summary brought to you by <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> in <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2c2i3f/caligirl_criminal_complaint_excerpts/" target="_blank">this</a> Reddit thread (you can join the discussion on reddit):</p>
 <p>To follow up on CALIGIRL, who was <a href="/2014/05/31/vendor-caligirl-busted-charged-illegally-selling-controlled-substances-silk-road-bitmessage/">arrested back in May</a>:</p>
 <ul>

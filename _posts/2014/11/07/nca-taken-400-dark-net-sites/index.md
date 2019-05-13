@@ -1,14 +1,13 @@
 ---
-title: "NCA: &#8220;We have Taken down 400 Dark Net Sites&#8221;---
+title: "NCA: &#8220;We have Taken down 400 Dark Net Sites&#8221;"
+---
 
-<article class="post-listing post-8045 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2368 tag-dark tag-nca tag-net tag-operation-onymous 2bust tag-sites">
+8045 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2368 tag-dark tag-nca tag-net tag-operation-onymous 2bust tag-sites
 Posted by: DeepDotWeb
 <span>November 7, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/07/nca-taken-400-dark-net-sites/#comments">22 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong>Keep checking the other posts in this chain of event at: <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 Bust Tag<br/>
 </a>The story is ongoing and the posts are being updated as we learn more details</strong></p>
 <p>&#8212;&#8212;&#8212;&#8212;&#8212;</p>

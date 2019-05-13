@@ -2,7 +2,7 @@
 title: "Get In Now Before The Price Drops!"
 ---
 
-<article class="post-listing post-8698 post type-post status-publish format-standard has-post-thumbnail hentry category-memes tag-drops tag-price">
+8698 post type-post status-publish format-standard has-post-thumbnail hentry category-memes tag-drops tag-price
 Posted by: DeepDotWeb
 <span>December 25, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/memes/" rel="category tag">Memes &amp; Funny</a></span>

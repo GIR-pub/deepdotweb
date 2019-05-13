@@ -2,14 +2,9 @@
 title: "Energy Control: Drug Testing Service For DeepWeb Users"
 ---
 
-<article class="post-listing post-4891 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-energy">
 Posted by: DeepDotWeb
 <span>April 6, 2014</span>
-    
-<a href="/2014/04/06/energy-control-drug-testing-service-for-deepweb-users/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>We Are happy to introduce a new service, introduced to us and endorsed by <a href="/2014/03/26/doctorx-ask-drug-expert-physician-thread-now-hub-forums/">DoctorX</a> (Dr. Fernando Caudevilla, a Spanish Physician who has been offering professional advice about Drugs and Health during the last year in Silk Road1 / Silk Road2 &amp; The Hub Forums) Offering International drug testing services in spain directed at DeepWeb users and accepting BTC payments,</p>
 <p><span style="text-decoration: underline;"><strong>This is the information he sent us to publish about this service:</strong></span></p>
 <p>Energy Control (www.energycontrol.org) established in Barcelona in 1997 as a pioneer project in Spain in the area of reducing the risks associated with recreational drug use, having since received recognition from numerous government administrations (European, state, community and local).</p>
@@ -47,7 +42,6 @@ Posted by: DeepDotWeb
 <a href="/imgs/2014/04/presentacion_analisis.jpg"><img class="aligncenter size-full wp-image-4895" alt="presentacion_analisis" src="/imgs/2014/04/presentacion_analisis.jpg" width="490" height="408" srcset="/imgs/2014/04/presentacion_analisis.jpg 490w, /imgs/2014/04/presentacion_analisis-300x250.jpg 300w" sizes="(max-width: 490px) 100vw, 490px" /></a><br />
     Drugs testing Process:<br />
 <a href="/imgs/2014/04/matraces.png"><img class="aligncenter size-full wp-image-4894" alt="matraces" src="/imgs/2014/04/matraces.png" width="571" height="429" srcset="/imgs/2014/04/matraces.png 571w, /imgs/2014/04/matraces-300x225.png 300w" sizes="(max-width: 571px) 100vw, 571px" /></a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a></span> 
+
 Updated: 2014-04-06
     

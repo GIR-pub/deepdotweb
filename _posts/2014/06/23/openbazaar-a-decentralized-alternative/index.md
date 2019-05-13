@@ -2,14 +2,12 @@
 title: "OpenBazaar: A Decentralized Alternative"
 ---
 
-<article class="post-listing post-6151 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-decentralized tag-openbazaar">
+6151 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-decentralized tag-openbazaar
 Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
 <span>June 23, 2014</span>
     
 <a href="/2014/06/23/openbazaar-a-decentralized-alternative/#comments">4 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><a href="http://openbazaar.org/">OpenBazaar</a> (Github: https://github.com/OpenBazaar/OpenBazaar) is a spin-off of the Dark Market that is supported by the official Dark Market team going so far as to allow an OpenBazaar section on their online forums.</p>
 <p>OpenBazaaar utilises Bitcoin and Cryptography to compete with the likes of eBay, enabling pure Peer-Peer transactions without a middle manipulating the entire scheme for their benefit.</p>
 <p>Ricardian contracts, it’s a system of exchanging agreed amounts of wealth, though not wealth itself, it would be used to facilitate a progressive system. OpenBazaar’s relation Dark Market subjects OpenBazaar to some of the taboo of Online Market Places.</p>

@@ -1,7 +1,7 @@
 ---
 title: "Opportunities Abroad For Deep Web Entrepreneurs Part 2---
 
-<article class="post-listing post-7056 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aboard tag-deep tag-entrepreneurs tag-opportunities tag-web">
+7056 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aboard tag-deep tag-entrepreneurs tag-opportunities tag-web">
     
 <    
     
@@ -14,9 +14,6 @@ Posted by: DeepDotWeb
     
 <a href="/2014/12/04/opportunities-aboard-deep-web-entrepreneurs-part-2/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-    
-<div class="entry">
     
 <p><em><a href="/2014/12/04/opportunities-aboard-deep-web-entrepreneurs-part-1/">Take a look at part 1</a><br />
 </em></p>
@@ -41,11 +38,8 @@ Posted by: DeepDotWeb
 <p>The Philippines is country where it pays to be ask for forgiveness, not permission. Bribing is a common occurrence there and a must for doing business there. It is makes dealing with the cops less worrisome since throwing some cash around and knowing the right people can get you out of trouble. On the flip side, the Philippines is a target of NSA surveillance, as revealed by documents stolen by Snowden and published by the Intercept. The documents revealed that the NSA is recording metadata (time, source, and destination of calls) in Philippines but not the actual audio. Of course, this is one of there board sweeping programs. Of course, they could start recording the full audio of selected individuals. That is why the Philippines is better for someone who is looking to retire and go “legit” rather than continuing to be active in the drug trade.</p>
     
     
-</div><!-- .entry /-->
 <a href="https://www.deepdotweb.com/tag/aboard/" rel="tag">aboard</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/entrepreneurs/" rel="tag">entrepreneurs</a> <a href="https://www.deepdotweb.com/tag/opportunities/" rel="tag">opportunities</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				
 Updated: 2014-12-04
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

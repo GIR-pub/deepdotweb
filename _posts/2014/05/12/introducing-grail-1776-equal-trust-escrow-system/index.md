@@ -2,14 +2,9 @@
 title: "Introducing The Grail: The 1776 Equal Trust Multisig System"
 ---
 
-<article class="post-listing post-5468 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1492 tag-equal tag-escrow tag-grail tag-introducing tag-system tag-trust">
 Posted by: DeepDotWeb
 <span>May 12, 2014</span>
-    
-<a href="/2014/05/12/introducing-grail-1776-equal-trust-escrow-system/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>1776 now supports two unique forms of escrowed commerce: Equal Trust Escrow, and what I&#8217;ll call “Noob Escrow.”</p>
 <p><span style="text-decoration: underline;"><em>This guest post was Provided by &#8220;Tom&#8221; the founder and admin of 1776 market &#8211; Published as it is.</em></span></p>
 <div class="box  success"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
@@ -83,7 +78,6 @@ Posted by: DeepDotWeb
 <p>Regards,</p>
 <p>-Tom</p>
 <p>Proprietor, 1776</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/1776/" rel="tag">1776</a> <a href="https://www.deepdotweb.com/tag/equal/" rel="tag">equal</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/grail/" rel="tag">grail</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/trust/" rel="tag">trust</a></span> 
+
 Updated: 2014-05-12
     

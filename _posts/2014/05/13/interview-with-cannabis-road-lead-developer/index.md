@@ -2,14 +2,10 @@
 title: "Interview With “Cannabis Road” Lead Developer"
 ---
 
-<article class="post-listing post-5536 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cannabis tag-interview tag-road">
+
 Posted by: DeepDotWeb
 <span>May 13, 2014</span>
-    
-<a href="/2014/05/13/interview-with-cannabis-road-lead-developer/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p><strong><em>Update</em>: <a title="Permalink to Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone" href="http://www.deepdotweb.com/2014/08/25/cannabis-road-hacked-100000-in-btc-gone/" rel="bookmark">Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone</a></strong></p>
 <p>One of the more loved markets currently is the market called &#8220;Cannabis Road&#8221;, A market dedicated only to cannabis products, no other drugs, no weapons and no carding, but this was not always the case, at the beginning this market was developed by <strong>different people than the current ones</strong>, developers that were not suitable for running a Dark Net Market and did some <a href="/2014/02/09/another-two-bites-the-dust-black-goblin-marketplace-cannabisroad/">serious mistakes</a>, but since than, development team has changed and is now in the hands of fully competent developers and administration, the team running this market is operating under the impression that the mistakes of the past are still haunting them, so the lead developer, Crypto, decided to do an interview to try and clear those misunderstandings &#8211; and as far as i think, he have done a good job. He also explained some features i was not aware of (like the fact that they have 3 different types of multisig escrow) and some interesting concepts and plans for the future.</p>
 <p><span style="text-decoration: underline;"><strong> So here it is:</strong></span></p>
@@ -77,11 +73,6 @@ Posted by: DeepDotWeb
 <p><strong> DeepDotWeb: Anything else we did not mention that you would like to add?</strong><br />
     Crypto: Our mission statement &#8211; We believe that prohibition against cannabis is inhumane. There are people serving life sentences for simple possession of cannabis in the United States. In Japan, your first possession offense for cannabis could land you 5 years in jail. But cannabis is a plant that has so many useful uses, such as medicine, paper, clothing, fuel, nutrition and we really want to see this prohibiton against cannabis end. We want to educate the public, as much as possible about why cannabis is not the &#8220;reefer madness&#8221; drug that it was made out to be. Not a single person has ever overdosed on marijuana that has been documented.</p>
 <p><strong>DeepDotWeb: Thank you for your time, and i hope you will succeed with CR!</strong></p>
-<div class="box  success"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
-<strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/cannabis-road">Cannabis Road Url</a>: http://cannabiskofvl7pa.onion/</strong><br />
-<strong>Forum: http://forumzxmoorof4ja.onion</strong>
-</div></div>
-</div>
-<a href="https://www.deepdotweb.com/tag/cannabis/" rel="tag">cannabis</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> </span> 
+
 Updated: 2014-05-13
     

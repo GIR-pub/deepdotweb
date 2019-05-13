@@ -2,14 +2,12 @@
 title: "Study: Estimating hidden service traffic from DNS leaks"
 ---
 
-<article class="post-listing post-6170 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dns tag-estimating tag-leaks tag-study tag-traffic">
+6170 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dns tag-estimating tag-leaks tag-study tag-traffic
 Posted by: DeepDotWeb
 <span>June 22, 2014</span>
     
 <a href="/2014/06/22/study-estimating-hidden-service-traffic-dns-leaks/#comments">2 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>A new and interesting study that was published recently under the name   <a href="http://www.verisigninc.com/assets/labs/Measuring-the-Leakage-of-Onion-at-the-Root.pdf">&#8220;Measuring the Leakage of Onion at the Root: A measurement of Tor’s .onion pseudo-top-level domain in the global domain name system&#8221;</a>, By Thomas &amp; Mohaisen 2014, Suggest the following things as they were summarized in a <a href="http://www.reddit.com/r/DarkNetMarkets/comments/28qy0u/estimating_hidden_service_traffic_from_dns_leaks/" target="_blank">reddit post</a> by <a href="http://www.gwern.net/" target="_blank">Gwern</a>:</p>
 <blockquote><p>Tor is capable of providing anonymity to servers, which are configured to receive inbound connections only through Tor—more commonly called hidden services. In order to route requests to these hidden services, a is used to identify the resolution requests to such services. A namespace under a non-delegated (pseudo) top-level-domain (TLD) of .onion was elected. Although the Tor system was designed to prevent .onion requests from leaking into the global DNS resolution process, numerous requests are still observed in the global DNS. In this paper we will present the state of .onion requests received at the global public DNS A and J root nodes, potential explanations of the leakage, and highlights of trends associated with global censorship events.</p>
 <p>&#8230;These unintended leaked DNS queries have been shown to expose sensitive private information and present potential new security threat vectors [5–7]. During the analysis of potential colliding name spaces within the global DNS, queries suffixed in .onion appeared to be one of the more prevalent non-delegated TLDs at the global root DNS.</p>

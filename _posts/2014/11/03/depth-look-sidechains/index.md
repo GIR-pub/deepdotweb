@@ -2,7 +2,7 @@
 title: "In-Depth Look Into Sidechains"
 ---
 
-<article class="post-listing post-7485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-indepth tag-sidechains">
+7485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-indepth tag-sidechains
 Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
 <span>November 3, 2014</span>
     

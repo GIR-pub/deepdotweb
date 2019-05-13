@@ -2,14 +2,9 @@
 title: "Cross-Marketplace Discussion &#038; News: The Hub Forum Is Live!"
 ---
 
-<article class="post-listing post-3444 post type-post status-publish format-standard has-post-thumbnail hentry  tag-forums tag-hub tag-meet">
 Posted by: DeepDotWeb
 <span>January 15, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/01/15/cross-marketplace-discussion-news-the-hub-forum-is-live/#comments">16 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>It seems like its the communities week, just yesterday we posted about the new <a href="/2014/01/14/meet-the-vault-43/">Vault43</a> Community based market and darknet info source, And today its time to release another one, although a bit different.</p>
 <p>We always wanted a place where we can discuss all the Dark net markets affairs at the same place and stay up to date with all the drama and news that&#8217;s going around, without being depended on the forums of specific marketplaces especially with all the recent events of markets going down every week or two, So far the best option for this kind of discussion area was reddit and the loved <a href="http://www.reddit.com/r/DarkNetMarkets" target="_blank">DarknetMarkets</a> Sub, Until now,</p>
 <p>About two weeks ago we became aware of a great initiative and since than i have been holding myself not to publish it as i was asked to do so &#8211; at least until Wednesday, which is today when its planned to be launched, the site is something i would like to call an &#8220;.onion&#8221; based &#8220;Darknetmarkets&#8221;, and its called:  <strong>The Hub Forums. </strong>Basically, a Cross-market discussion forum and news center<strong>.</strong></p>
@@ -45,7 +40,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/01/hub.png"><img class="aligncenter  wp-image-3446" alt="The Hub Forum" src="/imgs/2014/01/hub.png" width="774" height="886" srcset="/imgs/2014/01/hub.png 774w, /imgs/2014/01/hub-262x300.png 262w" sizes="(max-width: 774px) 100vw, 774px"/></a></p>
 <p>We Will be integrating links to the forum on our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace list</a>, Along with the Reddit links, with the hope that it will be used as a neutral gathering and discussion area for the different markets not related to one single market managements and not bound to get shut down by LE since there will be no illegal activity on the forums.</p>
 <p>We wish Alferd and the other team members good luck with this project, it has a lot of potential.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/forums/" rel="tag">forums</a> <a href="https://www.deepdotweb.com/tag/hub/" rel="tag">hub</a> <a href="https://www.deepdotweb.com/tag/meet/" rel="tag">meet</a></span> 
+
 Updated: 2014-01-15
     

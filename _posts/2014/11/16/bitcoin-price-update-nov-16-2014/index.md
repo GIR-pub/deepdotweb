@@ -1,14 +1,12 @@
 ---
 title: "Bitcoin Price Update Nov-16, 2014---
 
-<article class="post-listing post-8297 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-nov16 tag-price tag-update">
+8297 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-nov16 tag-price tag-update
 Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
 <span>November 16, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/11/16/bitcoin-price-update-nov-16-2014/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>This is the DeepDotWeb weekly Bitcoin price report for the week of November 9-November 15, 2014. This week was characterized by a rather unexpected price rally, temporarily reaching heights in the $450s and eventually leveling out in the $380s. Overall, the Bitcoin price rose by 10.76% this week.</p>
 <p>Let’s take a look at the daily opening prices on the Bitstamp Bitcoin exchange for the week. Please note that we have placed both the opening and closing prices for November 15 on the list below. This will be the format for this list for the foreseeable future.</p>
 <p><strong>Quick Overview of the Daily Bitcoin Price</strong></p>

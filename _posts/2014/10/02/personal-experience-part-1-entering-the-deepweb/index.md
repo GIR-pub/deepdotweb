@@ -2,7 +2,7 @@
 title: "Personal Experience: Part 1 &#8211; Entering The DeepWeb"
 ---
 
-<article class="post-listing post-6824 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deepweb tag-entering tag-experiencetag tag-vendor">
+6824 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deepweb tag-entering tag-experiencetag tag-vendor
 Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
 <span>October 2, 2014</span>
     

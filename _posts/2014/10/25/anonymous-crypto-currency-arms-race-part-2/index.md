@@ -1,14 +1,13 @@
 ---
 title: "Anonymous Crypto-Currency Arms Race Part 2---
 
-<article class="post-listing post-7258 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-arms tag-armsrace tag-cryptocurrency tag-race">
-<div class="post-inner">
+7258 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-arms tag-armsrace tag-cryptocurrency tag-race">
+<div class="post-inner
 Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
 <span>October 25, 2014</span>
     
 <a href="/2014/10/25/anonymous-crypto-currency-arms-race-part-2/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
     
 <p><em>All the parts are available in the <a href="http://www.deepdotweb.com/tag/ArmsRace/">Armsrace Tag</a>  – Once published</em></p>
 <p>While developers scramble to get coins equipped with secure and anonymous features to present to the market at large, and raise above fellow anonymous crypto-currencies &#8211; all these coins come from a handful of technologies &#8211; CryptoNote, ZeroCoin/Cash, and decentralized mixing of various sorts. The differences between the technologies are huge, and could be mean life or death for these coins in the highly competitive world of crypto-currencies.</p>

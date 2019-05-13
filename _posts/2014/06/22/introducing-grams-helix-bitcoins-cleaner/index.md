@@ -2,14 +2,12 @@
 title: "Introducing Grams Helix: Bitcoins Cleaner"
 ---
 
-<article class="post-listing post-6160 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cleaner tag-grams tag-helix tag-introducing">
+6160 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cleaner tag-grams tag-helix tag-introducing
 Posted by: DeepDotWeb
 <span>June 22, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/06/22/introducing-grams-helix-bitcoins-cleaner/#comments">32 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Helix is the definitive darknet bitcoin cleaner. Grams&#8217; helix doesn&#8217;t just clean your bitcoins it gives you brand new ones which have never been to the darknet before. The helix system is more than a bitcoin tumbler, it is privacy and security wrapped in one.</p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong>URL:</strong> http://grams7enufi7jmdl.onion/helix<br />

@@ -2,14 +2,9 @@
 title: "Vendor &#8220;SuperTrips&#8221; Pleaded Guilty For Selling Large Amounts On Silk Road"
 ---
 
-<article class="post-listing post-5404 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amounts tag-guilty tag-large tag-pleaded tag-selling tag-supertrips">
 Posted by: DeepDotWeb
 <span>May 8, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/05/08/supertrips-pleaded-guilty-for-selling-large-amounts-on-silk-road/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p><strong>Following the story we have <a href="/2014/04/25/dutch-man-vendor-supertrips-plead-guilty-selling-illegal-drugs-millions-shuttered-silk-road/">reported a couple of weeks ago</a> and As it was published today by the <a href="http://www.chicagotribune.com/news/local/breaking/chi-trafficker-pleads-guilty-in-chicago-to-distributing-drugs-over-underground-silk-road-website-20140508,0,5832398.story">Chicago Tribune</a></strong>:</p>
 <p>The largest drug trafficker on the now-shuttered underground Silk Road website pleaded guilty today in Chicago to distributing huge quantities of Ecstasy, cocaine and other illegal substances to customers around the world in exchange for millions of dollars worth of the digital currency bitcoins.</p>
 <p>Prosecutors made it clear that Cornelis Jan Slomp, who went by the screen name &#8220;SuperTrips,&#8221; is cooperating with law enforcement as the Dutch national entered his guilty plea to a count of drug distribution before U.S. District Judge Matthew Kennelly.  Prosecutors agreed to recommend a 15-year sentence in prison if he continues to cooperate. He could have faced as much as 40 years in prison.</p>
@@ -20,7 +15,6 @@ Posted by: DeepDotWeb
 <p>We will keep following and updating as we will learn more.</p>
 <p>Slomp&#8217;s Plea Agreement:<br/>
 <iframe class="scribd_iframe_embed" src="//www.scribd.com/embeds/222913678/content?start_page=1&#038;view_mode=scroll&#038;access_key=key-xje0i2tl46spnom5gp1&#038;show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_63300" width="100%" height="600" frameborder="0"></iframe></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/amounts/" rel="tag">amounts</a>  <a href="https://www.deepdotweb.com/tag/large/" rel="tag">large</a> <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a>  <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/supertrips/" rel="tag">supertrips</a></span> 
+
 Updated: 2014-05-08
     

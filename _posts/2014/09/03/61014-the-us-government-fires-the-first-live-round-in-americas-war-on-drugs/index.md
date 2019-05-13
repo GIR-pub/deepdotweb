@@ -2,7 +2,7 @@
 title: "The US Fires First “Live Round” in America’s War on Prescription Drugs"
 ---
 
-<article class="post-listing post-6909 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1907 tag-americas tag-fires tag-government tag-live tag-war">
+6909 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1907 tag-americas tag-fires tag-government tag-live tag-war
 Posted by: <a href="https://www.deepdotweb.com/author/freedom/" title="">Freedom Writer </a></span>
 <span>September 3, 2014</span>
     

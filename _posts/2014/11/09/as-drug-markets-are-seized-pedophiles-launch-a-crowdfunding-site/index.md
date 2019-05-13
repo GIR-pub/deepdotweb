@@ -2,7 +2,7 @@
 title: "While Markets Get Seized: Pedophiles Launch a Crowdfunding Site"
 ---
 
-<article class="post-listing post-7962 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crowdfunding tag-pedophiles tag-seized tag-site">
+7962 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crowdfunding tag-pedophiles tag-seized tag-site
 Posted by: DeepDotWeb
 <span>November 9, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

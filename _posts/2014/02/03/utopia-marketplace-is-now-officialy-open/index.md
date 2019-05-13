@@ -2,12 +2,9 @@
 title: "Utopia Marketplace is Now Officially Open!"
 ---
 
-<article class="post-listing post-3787 post type-post status-publish format-standard has-post-thumbnail hentry  tag-officialy tag-open tag-utopia">
 Posted by: DeepDotWeb
 <span>February 3, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/02/03/utopia-marketplace-is-now-officialy-open/#comments">4 Comments</a></span>
-</p>
+
 <h3 style="text-align: center;"><span style="color: #ff0000;"><strong>Update:  <a href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/"><span style="color: #ff0000;">Utopia Marketplace Seized by Dutch Police</span></a></strong></span></h3>
 <p>Probably the most awaited marketplace of this time, Utopia marketplace was opened today to the public after being developed for a few months and having registration open just for former BMR vendors, there was no special release note for the new marketplace just a short message on their forums:</p>
 <p>&#8220;If all things go fine like it is going right now.. we will open the doors within a few hours..</p>
@@ -30,6 +27,6 @@ Posted by: DeepDotWeb
 <p>Category page:</p>
 <p><a href="/imgs/2014/02/3u.png"><img class="aligncenter  wp-image-3790" alt="Utopia marketplace 3" src="/imgs/2014/02/3u.png" width="542" height="344" srcset="/imgs/2014/02/3u.png 1306w, /imgs/2014/02/3u-300x191.png 300w, /imgs/2014/02/3u-1024x652.png 1024w" sizes="(max-width: 542px) 100vw, 542px" /></a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/officialy/" rel="tag">officialy</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> <a href="https://www.deepdotweb.com/tag/utopia/" rel="tag">utopia</a></span> 
+
 Updated: 2014-02-03
     

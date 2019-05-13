@@ -2,7 +2,7 @@
 title: "ITOM Revealed: Europe’s Plan To Crack Down On The Online Drug Trade"
 ---
 
-<article class="post-listing post-7218 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crack tag-europes tag-itom tag-plan tag-trade">
+7218 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crack tag-europes tag-itom tag-plan tag-trade">
     
 <    
     
@@ -15,9 +15,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
     
 <a href="/2014/09/28/itom-europes-plan-crack-online-drug-trade/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-    
-<div class="entry">
     
 <p>Europe has been a hub of deep web activity, only second to the United States, but has seen a higher rate of arrests among dealers and buyers of darknet markets. It seems the pressure from European law enforcement is only going to rise. Recently, a document published by Netherland’s leading newspaper, <a href="http://www.volkskrant.nl/">Volkskrant</a>, reveals a plan by the many European countries, and the US to crack down on the online drug trade in Europe. The Dutch Public Prosecution Service are working a plan called “Illegal Trade on Online Marketplaces” (ITOM). The DPPS plans to work in conjunction with many police agencies across Europe, and the US. The plan has funding from the EU, and will work with European police agencies, Europol and Eurojust.The document isn’t an official release, but an unofficial statement briefly covering their 3 point plan, given to one of Volkskrant’s journalist. There is much more to this plan that is not been revealed, and it wouldn’t be surprising if the US are working on a similar operation.</p>
 <p><a href="/imgs/2014/09/itommodel.png"><img class="aligncenter  wp-image-7220" src="/imgs/2014/09/itommodel.png" alt="itommodel" width="903" height="649" srcset="/imgs/2014/09/itommodel.png 1058w, /imgs/2014/09/itommodel-300x216.png 300w, /imgs/2014/09/itommodel-1024x736.png 1024w" sizes="(max-width: 903px) 100vw, 903px" /></a></p>
@@ -41,11 +38,8 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p><em>Special Thanks To </em><a href="http://www.reddit.com/user/ITOM-Warning"><em>ITOM-Warning</em></a><em> for bringing it to our attention!</em></p>
     
     
-</div><!-- .entry /-->
 <a href="https://www.deepdotweb.com/tag/crack/" rel="tag">crack</a>  <a href="https://www.deepdotweb.com/tag/europes/" rel="tag">europes</a> <a href="https://www.deepdotweb.com/tag/itom/" rel="tag">itom</a>  <a href="https://www.deepdotweb.com/tag/plan/" rel="tag">plan</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a></span>				
 Updated: 2014-09-28<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

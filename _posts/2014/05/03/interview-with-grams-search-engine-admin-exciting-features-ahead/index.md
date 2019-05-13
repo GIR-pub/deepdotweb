@@ -2,14 +2,10 @@
 title: "Interview With Grams Search Engine Admin: Exciting Features Ahead!"
 ---
 
-<article class="post-listing post-5231 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-ahead tag-engine tag-exciting tag-features tag-grams tag-interview tag-search">
 Posted by: DeepDotWeb
 <span>May 3, 2014</span>
     
-<a href="/2014/05/03/interview-with-grams-search-engine-admin-exciting-features-ahead/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>By now you all probably know the <a href="/2014/04/08/grams-darknetmarkets-search-engine/">Grams search engine </a> we have reported about few weeks ago, a report that followed by a <a href="http://www.wired.com/2014/04/grams-search-engine-dark-web/" target="_blank">media storm</a> about the first Darknet markets search engine, or the Google of the deep web,  even prior to that, we have been in contact with Grams admin, and its no secret that Grams is our favorite DNM service by far, so we were happy to had the chance and interview him when we have learned about the many features he is working on, so here are the questions we have asked him, we would like to thank him for taking the time answering them &#8211; and for creating this high quality service that is surely one of the next big things since the original Silk Road, and a major game changer for the DNM community!</p>
 <p>Those of you familiar with the SEO / PPC / SEM World &#8211; Are just going to fall in love with the way he thinks. (Are we about to see Dark Net market SEO service providers for vendors?)</p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
@@ -49,6 +45,6 @@ Posted by: DeepDotWeb
 </div></div>
 <p>Thank you again for this interview, we will keep following and updating about your growth as you release new features!</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/ahead/" rel="tag">ahead</a> <a href="https://www.deepdotweb.com/tag/engine/" rel="tag">engine</a> <a href="https://www.deepdotweb.com/tag/exciting/" rel="tag">exciting</a> <a href="https://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/search/" rel="tag">search</a></span> 
+
 Updated: 2014-05-03
     

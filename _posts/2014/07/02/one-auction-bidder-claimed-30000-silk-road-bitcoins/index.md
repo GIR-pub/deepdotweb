@@ -2,14 +2,12 @@
 title: "One Auction Bidder Claimed The 30,000 Silk Road Bitcoins"
 ---
 
-<article class="post-listing post-6308 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1707 tag-auction tag-bidder tag-claimed 
+6308 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1707 tag-auction tag-bidder tag-claimed 
 Posted by: DeepDotWeb
 <span>July 2, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/02/one-auction-bidder-claimed-30000-silk-road-bitcoins/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong>Update</strong>: <a href="http://www.coindesk.com/tim-draper-revealed-silk-road-bitcoin-auction-winner/">VC Tim Draper is the Silk Road Bitcoin Auction Winner</a>:</p>
 <blockquote><p>Pioneering venture capitalist Tim Draper, father of noted bitcoin industry VC Adam Draper and managing director of the VC firm Draper Fisher Jurvetson, has been revealed as the winner of last Friday’s US Marshals auction of nearly 30,000 BTC.</p>
 <p>The announcement was released via a blog post on <a href="https://medium.com/@vaurum/tim-draper-wins-govt-auction-partners-with-vaurum-to-provide-bitcoin-liquidity-in-emerging-markets-88f04a1d8598" target="_blank"><em>Medium</em></a> issued by California-based bitcoin trading and storage startup <a href="http://www.coindesk.com/bitcoin-trading-platform-vaurum-raises-4m-seed-funding/">Vaurum</a>. Draper was previously named as an investor in the company’s $4m seed funding round this May.</p>

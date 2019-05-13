@@ -2,7 +2,7 @@
 title: "2 Silk Road Buyers Convicted In New Zeland"
 ---
 
-<article class="post-listing post-8579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyers tag-convicted tag-zeland">
+8579 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyers tag-convicted tag-zeland
 Posted by: DeepDotWeb
 <span>December 9, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

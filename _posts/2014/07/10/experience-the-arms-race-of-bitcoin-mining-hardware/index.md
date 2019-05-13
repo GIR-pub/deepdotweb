@@ -2,14 +2,12 @@
 title: "Experience: The Arms Race Of Bitcoin Mining Hardware"
 ---
 
-<article class="post-listing post-6390 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-bitcoin tag-hardware tag-mining tag-race">
+6390 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-bitcoin tag-hardware tag-mining tag-race
 Posted by: <a href="https://www.deepdotweb.com/author/jabberwocky/" title="">Jabberwocky </a></span>
 <span>July 10, 2014</span>
     
 <a href="/2014/07/10/experience-the-arms-race-of-bitcoin-mining-hardware/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><em>Personal experience from the miner point of view</em> &#8211; As some of you may already know, Bitcoin mining hardware has evolved since its beginning in early 2009. So lets hop in my time machine, I’m going to introduce you to the different families of mining hardware that were used and evolved at a faster pace since mid 2013.</p>
 <p>At the beginning the CPU (Central Processing Unit) was used.  Yes, the good old CPU that any computer has. Can you imagine that at that time, you could earn 100 or 200 BTC in a few days with a good old Pentium 4 or similar? They were hashing between 1 and 2 MH/s for every 50-Watts used, <b>0.04MH/s/watt.</b></p>
 <p>But keep in mind they are still worthless, no way to exchange them against anything until the end of 2009, beginning of 2010. With a block 50,000 a good old Pentium 4 earned you <b>0.02 (USD)</b><b> a day</b>.</p>

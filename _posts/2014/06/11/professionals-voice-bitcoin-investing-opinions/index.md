@@ -2,14 +2,12 @@
 title: "Professionals Voice: Bitcoin Investing Opinions"
 ---
 
-<article class="post-listing post-5960 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-investing tag-opinions tag-professionals tag-voice">
+5960 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-investing tag-opinions tag-professionals tag-voice
 Posted by: DeepDotWeb
 <span>June 11, 2014</span>
     
 <a href="/2014/06/11/professionals-voice-bitcoin-investing-opinions/#comments">4 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Bitcoin has gained tremendous support since its conception, and, moving into a new technological era, is being regarded by many as the new way to trade. Many others, however, view Bitcoin as a danger to potential investors. This article will outline some of these opinions, and provide a side-by-side comparison of some of the biggest names the economy and their opinions on that crypto-wonder named bitcoin!</p>
 <p>These opinions will be represented in a positive/negative order, to provide optimal examination of argumentation.</p>
 <p><strong>1. FINRA on Bitcoin , &#8220;buying and using digital currency such as Bitcoin carry risks.&#8221;</strong></p>

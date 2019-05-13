@@ -2,12 +2,10 @@
 title: "Alleged Silk Road 2.0 Hacker Doxxed!?"
 ---
 
-<article class="post-listing post-4311 post type-post status-publish format-standard has-post-thumbnail hentry tag-alleged tag-doxxed tag-hacker 
+
 Posted by: DeepDotWeb
 <span>February 18, 2014</span>
-    
-<a href="/2014/02/18/alleged-silk-road-2-0-hacker-doxxed/#comments">12 Comments</a></span>
-</p>
+
 <p>Well this is an interesting turn of events, Silk Road user Oracle (that you probably remember from the moderators <a href="/2013/12/24/the-silk-road-2-0-tales-psy-ops/">arrests psy-ops)</a> just posted a full doxx of the alleged silk road 2.0 hacker, explaining the story behind the hack and posting the entire personal details of the hacker including name and full living address, giving him a chance to return the money before something bad happens, this post was deleted in less than an hour, but during this time many people had the chance to screenshot the post and copy it, one of them provided us the full text of the doxx, we have of course blacked out all personal details from this post made by the Oracle:</p>
 <p>(Thanks to the user who provided us with the text, who wished to remain anonymous)</p>
 <p><strong>Is this real or just another attempt to spread disinformation to divert the attention from the real people who stole the money?  You decide. (</strong>Our notes in <span style="color: #ff0000;">red <span style="color: #000000;">for those of you not familiar with all the names</span></span><strong>)<br />
@@ -31,7 +29,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/02/reddit.png"><img class="aligncenter size-full wp-image-4324" alt="reddit" src="/imgs/2014/02/reddit.png" width="881" height="83" srcset="/imgs/2014/02/reddit.png 881w, /imgs/2014/02/reddit-300x28.png 300w" sizes="(max-width: 881px) 100vw, 881px" /></a></p>
 <p>We can only hope this will end well.</p>
 <p>Now we will still be following the forums as it was told by the Oracle that he will keep posting this again and again until all the stolen funds are returned. the most interesting question is if this will lead to some of the money being returned or now, we will update as we will have more information.</p>
-</div>
- <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> </span> 
+
 Updated: 2014-02-18
     

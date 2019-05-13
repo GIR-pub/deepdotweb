@@ -2,12 +2,9 @@
 title: "Silk Road 2 Hacked, All Bitcoins Stolen &#8211; $2.7 Miliion"
 ---
 
-<article class="post-listing post-4147 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hacked tag-stolen">
 Posted by: DeepDotWeb
 <span>February 13, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/#comments">60 Comments</a></span>
-</p>
+
 <p><strong>Update 5</strong>: <span style="color: #ff0000;"><a title="Permalink to Alleged Silk Road 2.0 Hacker Doxxed!?" href="http://www.deepdotweb.com/2014/02/18/alleged-silk-road-2-0-hacker-doxxed/" rel="bookmark"><span style="color: #ff0000;">Alleged Silk Road 2.0 Hacker Doxxed!?</span></a></span></p>
 <p><strong>Update 4</strong>: <span style="color: #000000;"><a href="/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/"><span style="color: #000000;">Defcon&#8217;s Latest post: We Will Repay The Stolen Funds</span></a></span></p>
 <p><strong>Update 3: </strong><span style="color: #000000;"><a href="/2014/02/16/silk-road-2-0-admin-silk-road-is-not-dead/"><span style="color: #000000;">Silk Road 2 Admin &#8211; Silk Road is not dead!</span></a></span></p>
@@ -109,7 +106,6 @@ Posted by: DeepDotWeb
 <p>EVERY DOG GETS THERE DAY AND I CANT WAIT TILL I SEE ONE OF U FALL</p></blockquote>
 <p>Some even tried to help in some way.</p>
 <p>For us &#8211; the big question is &#8220;how much&#8221;? , we will keep following up on this and updating this post as we get new information &#8211; for now, you can check out other site <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">on this list</a>.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a>  <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> 
+
 Updated: 2014-02-13
     

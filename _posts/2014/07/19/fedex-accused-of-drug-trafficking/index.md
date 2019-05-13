@@ -2,14 +2,12 @@
 title: "FedEx Accused of Drug Trafficking"
 ---
 
-<article class="post-listing post-6526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accused tag-fedex tag-trafficking">
+6526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accused tag-fedex tag-trafficking
 Posted by: DeepDotWeb
 <span>July 19, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/07/19/fedex-accused-of-drug-trafficking/#comments">1 Comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>From a news item published in <a href="http://www.courthousenews.com/2014/07/18/69617.htm">Courthousenews</a> service, may have some relevance to DNM users, as such cases might encourage shipping providers to deploy better screening procedures:</p>
 <blockquote><p>SAN FRANCISCO (CN) &#8211; FedEx conspired to distribute controlled drugs and did deliver them, for illegal Internet pharmacies, a federal grand jury said Thursday in a 15-count indictment.<br/>
     The indictment, signed by U.S. Attorney Melinda Haag, says federal law enforcement officials warned FedEx at least six times since 2004 that illegal pharmacies were using its package delivery service to ship prescription drugs and other controlled substances to customers without doctors&#8217; prescriptions.<br/>

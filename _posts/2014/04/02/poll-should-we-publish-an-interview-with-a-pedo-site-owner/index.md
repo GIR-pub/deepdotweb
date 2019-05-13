@@ -2,14 +2,12 @@
 title: "Poll: Should We Publish An Interview With A Pedo Site Owner?"
 ---
 
-<article class="post-listing post-4855 post type-post status-publish format-standard has-post-thumbnail hentry  tag-interview tag-owner tag-pedo tag-poll tag-publish tag-site">
+
 Posted by: DeepDotWeb
 <span>April 2, 2014</span>
     
 <a href="/2014/04/02/poll-should-we-publish-an-interview-with-a-pedo-site-owner/#comments">136 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <div class="box  warning aligncenter"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong><span style="text-decoration: underline;">Update 19.6.14</span></strong>: <span style="color: #ff0000;"><strong>This is the BBC article including the interviewed site owner we introduced to them &#8211; here:</strong></span><br />
 <span style="color: #0000ff;"><strong> http://www.bbc.com/news/technology-27885502</strong></span></p>
@@ -35,7 +33,6 @@ Posted by: DeepDotWeb
 <p><span style="color: #ff0000;">**Please let us know if you had any technical issues with this poll not loading and stuff &#8211; it was tested and working fine with Tor + Disabled JS**</span></p>
 <p><img class="aligncenter size-full wp-image-4877" src="/imgs/2014/04/poll.jpg" alt="poll" width="599" height="303" srcset="/imgs/2014/04/poll.jpg 599w, /imgs/2014/04/poll-300x152.jpg 300w" sizes="(max-width: 599px) 100vw, 599px" /></p>
 <p>We will leave this poll up for a few days to get the picture,  if we still wont be able to decide &#8211; we will consider this as a clear NO.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/pedo/" rel="tag">pedo</a> <a href="https://www.deepdotweb.com/tag/poll/" rel="tag">poll</a> <a href="https://www.deepdotweb.com/tag/publish/" rel="tag">publish</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a></span> 
+
 Updated: 2014-04-02
     

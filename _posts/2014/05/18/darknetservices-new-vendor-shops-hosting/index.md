@@ -2,14 +2,9 @@
 title: "DarkNetServices: New Vendor Shops Hosting"
 ---
 
-<article class="post-listing post-5644 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknetservices tag-hosting tag-shops tag-vendor">
 Posted by: DeepDotWeb
 <span>May 18, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/05/18/darknetservices-new-vendor-shops-hosting/#comments">10 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p><span style="color: #ff0000;"><strong>This is in no way a vouch for this service reliability or security, just a news update about its existence.  </strong></span></p>
 <p>A new hosting services for DNM&#8217;s and vendor shop that just opened &#8211; seems to be running the most loved wordpress Woocommerce platform and hoping <span style="text-decoration: underline;"><strong>they will remove those calls to Google and host them locally!  (You know what i am talking about, do that.)</strong></span></p>
 <p>DarkNetServices Url: http://darknet4x3hcv5zp.onion<br />
@@ -35,7 +30,6 @@ Posted by: DeepDotWeb
 <p>And i must admit that their TOS was pretty funny:</p>
 <p><a href="/imgs/2014/05/terms.png"><img class="aligncenter size-full wp-image-5646" src="/imgs/2014/05/terms.png" alt="terms" width="644" height="132" srcset="/imgs/2014/05/terms.png 644w, /imgs/2014/05/terms-300x61.png 300w" sizes="(max-width: 644px) 100vw, 644px" /></a></p>
 <p>We will be following and updating if needed. For now <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">its listed in our list &#8211; at the &#8220;new marketplaces&#8221; section</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/darknetservices/" rel="tag">darknetservices</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/shops/" rel="tag">shops</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2014-05-18
     

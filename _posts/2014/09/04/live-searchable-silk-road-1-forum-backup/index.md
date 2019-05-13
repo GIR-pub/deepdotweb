@@ -2,7 +2,7 @@
 title: "Live: Searchable Silk Road (1) Forum Backup"
 ---
 
-<article class="post-listing post-6948 post type-post status-publish format-standard has-post-thumbnail hentry  tag-backup tag-forum tag-live tag-searchable 
+6948 post type-post status-publish format-standard has-post-thumbnail hentry  tag-backup tag-forum tag-live tag-searchable 
 Posted by: DeepDotWeb
 <span>September 4, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>

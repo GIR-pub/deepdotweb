@@ -2,12 +2,10 @@
 title: "Darknet Nation: DarkNetMarket Social Network"
 ---
 
-<article class="post-listing post-4365 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-darknetmarket tag-nation tag-network tag-social">
 Posted by: DeepDotWeb
 <span>February 21, 2014</span>
     
-<a href="/2014/02/21/darknet-nation-darknetmarket-social-network/#comments">11 Comments</a></span>
-</p>
+
 <p><strong>Update</strong>: <span style="color: #ff0000;">This site was taken down.</span></p>
 <p>So recently we came across a new service that was published on the Hub forums, the concept based on seemed interesting so we contacted the admin to ask him some questions in order to make a nice introduction post about this new Darknet community / social network. it is called Darknet Nation, and can be accessed at this url: <strong>http://26a2ueoc3xxrrgs4.onion/</strong></p>
 <p>At this point im not sure if its 100% developed and operational, but it might be interesting thing to follow up on, the site is based on the Joomla Comsocial plugin, something we rarely see on the Deepweb.</p>
@@ -70,7 +68,6 @@ Posted by: DeepDotWeb
 </strong></p>
 <p><span style="color: #ff0000;"><strong><span style="text-decoration: underline;">Darknet nation url</span>: http://26a2ueoc3xxrrgs4.onion/</strong></span></p>
 <p>Site will be added to our list of <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplaces</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/darknetmarket/" rel="tag">darknetmarket</a> <a href="https://www.deepdotweb.com/tag/nation/" rel="tag">nation</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/social/" rel="tag">social</a></span> 
+
 Updated: 2014-02-21
     

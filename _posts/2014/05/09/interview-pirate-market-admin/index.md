@@ -2,22 +2,12 @@
 title: "The Pirate Market: The Interview That Added A Multi-Sig Market!"
 ---
 
-<article class="post-listing post-5228 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-interview tag-pirate">
-    
-<    
-    
-        
-    Posted by: DeepDotWeb
+Posted by: DeepDotWeb
     
     
 <span>May 9, 2014</span>
     
-    
-<a href="/2014/05/09/interview-pirate-market-admin/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-    
-<div class="entry">
+
     
 <p><strong>Background</strong>: A couple of weeks ago we have been chatting with a Admin of  <a href="http://www.deepdotweb.com/marketplace-directory/listing/the-pirate-market">The Pirate Market</a> (Alias Mr. White) and his staff member Tone, and we thought it might be a nice idea to make this chat into an interview &#8211; as we know, its always interesting to hear the administration side of the marketplaces. When we started this article &#8211; i had some hard time figuring out what can we say about this market, as it was &#8220;just&#8221; another market with normal escrow, but after a lengthy discussion that we had about the advantages of multisig transaction in compare to the normal escrow system &#8211; including some technical explanations and example. We were so happy happy that <strong>Mr. White decided to get on it right away and implement Multisig transactions on his site, and within a matter of days he was already working on the production stage of the multisig system and within another day or so he had a functional system. We held back this article until we had the full usage tutorial of the multisig ready.</strong></p>
 <div class="box  success"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
@@ -82,16 +72,8 @@ title: "The Pirate Market: The Interview That Added A Multi-Sig Market!"
 <a href="http://www.deepdotweb.com/the-pirate-market-multi-sig-guide/">Multisig Usage guide here</a>
 </div></div>
 </div>
-</div>
-</div>
-</div>
-    
-    
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/pirate/" rel="tag">pirate</a></span>				
+
 Updated: 2014-05-09
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
 

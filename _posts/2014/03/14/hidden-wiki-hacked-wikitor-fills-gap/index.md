@@ -2,12 +2,9 @@
 title: "The Hidden Wiki Hacked, WikiTor Fills The Gap"
 ---
 
-<article class="post-listing post-4692 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fills tag-gap tag-hacked tag-wiki tag-wikitor">
 Posted by: DeepDotWeb
 <span>March 14, 2014</span>
-    
-<a href="/2014/03/14/hidden-wiki-hacked-wikitor-fills-gap/#comments">61 Comments</a></span>
-</p>
+
 <p><strong><em>Wikitor can be found at this url: http://wikitor74em2u6rq.onion</em></strong></p>
 <div id=":4fc"><wbr />The Hidden Wiki was hacked and had is private key stolen earlier this week and received a strange response: positivity and applause! The hidden service was a Tor directory of any link from adverts for drugs/guns/hackers/assassins to forums sharing child pornography.</div>
 <p>While the majority of links were accepted while perhaps frowned upon, it was the links to child abuse that didn&#8217;t sit well with the majority. Rumors of promoted links for well known scammers was also not going down well with visitors. So it was perhaps no surprise to see positive responses to the site being taken down.</p>
@@ -33,7 +30,6 @@ Posted by: DeepDotWeb
 <p>The site is still young, and need to filled with more links, but the direction its going and the impression we had from its owners seems positive enough to gain our initial support for this project, with the hope that they will remain  honest and clean from all the stuff we did not want to see on the hidden wiki.</p>
 <p>The DNM community also appears to be behind the site with DarkNetMarkets (https://pay.reddit.com/r/<wbr />DarkNetMarkets/comments/<wbr />204otx/the_hidden_wiki_is_<wbr />dead_long_live/), a well respected sub-Reddit for trading on Tor, offering their support.</p>
 <p>With signs of a strong ethic (at least as far as Tor activity goes), we hope to see WikiTor:  <strong>http://wikitor74em2u6rq.onion</strong> around for many years. we will be following and updating for new developments, if any.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/fills/" rel="tag">fills</a> <a href="https://www.deepdotweb.com/tag/gap/" rel="tag">gap</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a>  <a href="https://www.deepdotweb.com/tag/wiki/" rel="tag">wiki</a> <a href="https://www.deepdotweb.com/tag/wikitor/" rel="tag">wikitor</a></span> 
+
 Updated: 2014-03-14
     

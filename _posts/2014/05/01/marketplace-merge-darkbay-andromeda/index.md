@@ -2,14 +2,9 @@
 title: "Marketplace Merge: DarkBay &#038; Andromeda"
 ---
 
-<article class="post-listing post-5192 post type-post status-publish format-standard has-post-thumbnail hentry  tag-andromeda tag-darkbay tag-merge">
 Posted by: DeepDotWeb
 <span>May 1, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/05/01/marketplace-merge-darkbay-andromeda/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>Well this something we never had so far, <a href="http://www.deepdotweb.com/marketplace-directory/listing/ultravioletcity">Darkbay</a> (formerly known as UltraVioletCity) is one of the markets that existed for the last few months, surviving the frequent changes of the DNM scene, and Andromeda is a new market existing only a few weeks (Was called Silk Road 3 than changed its name to Andromeda) today the DarkBay market admins placed a notice on the sites homepage letting everyone know that:</p>
 <p>1. The market will cease its operation</p>
 <p>2. It will let everyone withdraw their BTC before shutting down (<a href="/2013/12/01/bmr-is-shutting-down/">BMR Style</a>)</p>
@@ -44,7 +39,6 @@ Posted by: DeepDotWeb
 <blockquote><p>Hi everyone, I will try and answer some of the questions as best I can. I need to step down as DarkBay administrator. My personal life has taken a huge toll from running this market, and it would negatively affect everyone if I continued on regardless. During the final days, I was too busy to respond to support tickets, too slow to ban scammers and DarkBay needed some large scale interface improvements which I could not give it since I have so little time nowadays. It would be an injustice for me to continue with DarkBay, and I think it is far better if we move on. I am sorry that some of you feel negatively about Andromeda, please feel free to go to whatever market you are most comfortable with. Andromeda was created by a DarkBay administrator as a side project, and I trust them personally, so why would I not move DarkBay over there? I feel it was the best decision to maintaining trade for DarkBay users. I have nothing to do with Andromeda with regards to administration, as is the reason I am stepping down on DarkBay. I don&#8217;t mind any criticism of DarkBay, you can all make up your own minds and you are free to use any markets you choose.</p></blockquote>
 <p>&nbsp;</p>
 <p>We wish him good luck, and hope to see other admins quitting gracefully when they feel its time to do so.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/andromeda/" rel="tag">andromeda</a> <a href="https://www.deepdotweb.com/tag/darkbay/" rel="tag">darkbay</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/merge/" rel="tag">merge</a></span> 
+
 Updated: 2014-05-01
     

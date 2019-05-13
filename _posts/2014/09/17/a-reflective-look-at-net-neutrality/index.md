@@ -1,7 +1,7 @@
 ---
 title: "Reflective Look at Net Neutrality---
 
-<article class="post-listing post-7107 post type-post status-publish format-standard has-post-thumbnail hentry  tag-net tag-neutrality">
+7107 post type-post status-publish format-standard has-post-thumbnail hentry  tag-net tag-neutrality
 Posted by: <a href="https://www.deepdotweb.com/author/mikewilkerson/" title="">Mike Wilkerson </a></span>
 <span>September 17, 2014</span>
     

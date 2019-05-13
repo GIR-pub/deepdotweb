@@ -1,14 +1,12 @@
 ---
 title: "Grams: Becoming Hub For DarkNet Info &#038; Ads (Part 1)---
 
-<article class="post-listing post-5794 post type-post status-publish format-standard has-post-thumbnail hentry  tag-grams tag-infodesk">
+5794 post type-post status-publish format-standard has-post-thumbnail hentry  tag-grams tag-infodesk
 Posted by: DeepDotWeb
 <span>May 31, 2014</span>
     
 <a href="/2014/05/31/introducing-grams-infodesk-features-part-1/#comments">2 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Following our previous report about <a href="http://www.deepdotweb.com/grams-search-darknet-marketplaces/">Grams</a> search engine <a href="/2014/05/17/a-sneak-peek-to-grams-search-engine-stage-2-infodesk/">new features</a> &#8211; We are happy to release the &#8220;2 parts&#8221; announcement about their new features, <span style="text-decoration: underline;">the first part here</span> is directed at the <span style="text-decoration: underline;"><strong>users</strong></span> using the infodesk system and the second part will be for vendors &amp; The &#8220;gramwords&#8221; (Advertising system for promoting listing on grams search results working in a similar way to Google&#8217;s Adword&#8217;s system).</p>
 <p><strong>The second part of this article <a href="/2014/05/31/introducing-grams-infodesk-features-part-1/">is available here</a></strong></p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>

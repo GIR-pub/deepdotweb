@@ -2,14 +2,11 @@
 title: "Agora Marketplace Changes Url Due to Heartbleed SSL Bug"
 ---
 
-<article class="post-listing post-4930 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-bug tag-due tag-heartbleed tag-ssl tag-url">
 Posted by: DeepDotWeb
 <span>April 12, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/04/12/agora-marketplace-changes-url-due-heartbleed-ssl-bug/#comments">20 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p><strong><span style="text-decoration: underline;">Update</span>: Market is back up and running at the new url:  <span style="color: #ff0000;">http://agorahooawayyfoe.onion/register/Gc2h4eoFAE</span></strong></p>
 <p>Agora Marketplace was taken down by its admins due to the Heartbleed bug &#8211; to move it servers and change the sites url, if you try to browse the old site you will now get the below message, listing the new urls &#8211; they say that the site will be back till the end of the week (but you know how it is &#8211; can easily take longer than expected) we have received some info stating that once the site will be back up &#8211; change of passwords and pins will be needed and most likely even enforced once the site goes live again.</p>
 <p><span style="text-decoration: underline;"><strong>Message from te old url:</strong></span></p>
@@ -35,6 +32,6 @@ Posted by: DeepDotWeb
 <p>===End Quote===</p>
 <p>Taking Agora, as its the #1 market today is most likely a big inconvenience for many people, so we only hope this will be sorted soon and the site will be back up, we will keep following and updating as needed.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/bug/" rel="tag">bug</a> <a href="https://www.deepdotweb.com/tag/due/" rel="tag">due</a> <a href="https://www.deepdotweb.com/tag/heartbleed/" rel="tag">heartbleed</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/ssl/" rel="tag">ssl</a> <a href="https://www.deepdotweb.com/tag/url/" rel="tag">url</a></span> 
+
 Updated: 2014-04-12
     

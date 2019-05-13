@@ -2,14 +2,13 @@
 title: "The Ramifications of BitLicence"
 ---
 
-<article class="post-listing post-6861 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitlicence tag-ramifications">
-<div class="post-inner">
+6861 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitlicence tag-ramifications">
+<div class="post-inner
 Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
 <span>October 3, 2014</span>
     
 <a href="/2014/10/03/ramifications-bitlicence/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
     
 <p><strong>Introduction</strong></p>
 <p>The New York Department of Financial Services (NYDFS) released its long-anticipated list of proposed rules and regulations that will be required for New York-based bitcoin businesses. As the first state to pass regulations on Bitcoin the ‘BitLicence’ could potentially be used as a draft template for other states/ nations if they decide to regulate Bitcoin.</p>

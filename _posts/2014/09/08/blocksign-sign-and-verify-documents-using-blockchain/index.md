@@ -2,7 +2,7 @@
 title: "BlockSign: Sign and Verify Documents Using Blockchain"
 ---
 
-<article class="post-listing post-6932 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-blocksign tag-documents tag-sign tag-verify">
+6932 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-blocksign tag-documents tag-sign tag-verify
 Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
 <span>September 8, 2014</span>
     

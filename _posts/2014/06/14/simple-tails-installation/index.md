@@ -2,14 +2,12 @@
 title: "Simple TAILS Installation"
 ---
 
-<article class="post-listing post-5983 post type-post status-publish format-standard has-post-thumbnail hentry  tag-installation tag-simple tag-tails">
+5983 post type-post status-publish format-standard has-post-thumbnail hentry  tag-installation tag-simple tag-tails
 Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>
 <span>June 14, 2014</span>
     
 <a href="/2014/06/14/simple-tails-installation/#respond">Leave a comment</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>Right up there with Whonix as a contender for the best OS to access the deep web is Tails. The Amnesic Incognito Live System or “Tails” is a live system that aims to preserve your privacy and anonymity which is very important when accessing the deep web. Unlike Whonix, it is not made to be run on a virtual machine but instead off of a DVD, USB stick or SD card. While this is a bit more of a hassle, you may want to go with this option because of the additional features that serve to protect your identity.</p>
 <p>Tails uses Tor to connect to the internet and blocks any attempts to connect directly to the Internet. This means that all the software it comes with is configured to automatically connect using the Tor network. What is most useful about the OS though is the fact that it doesn’t store anything on your hard-drive. The only storage space used is the RAM which is automatically erased when the computer shuts down. This is where the “amnesic” part of the name comes from. Sensitive documents can still be saved to another external device of your choosing but unless you specifically do that – anything you were working on will be gone without a trace. It also includes a variety of encryption tools to assist the protection of your identity while using Tails.</p>
 <p>To get started, go to their official download page and torrent or direct download their <a href="https://tails.boum.org/download/index.en.html#first_time">latest version</a>.</p>

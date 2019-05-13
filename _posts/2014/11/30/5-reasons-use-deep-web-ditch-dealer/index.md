@@ -2,14 +2,12 @@
 title: "5 Reasons You Should Use The Deep Web And Ditch Your Dealer"
 ---
 
-<article class="post-listing post-6882 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-ditch tag-reasons tag-web">
+6882 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-ditch tag-reasons tag-web
 Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
 <span>November 30, 2014</span>
     
 <a href="/2014/11/30/5-reasons-use-deep-web-ditch-dealer/#comments">31 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>With a rapidly changing world, technology has improved almost all sectors of life,but the drug trade has remain backwards. Decades ago, the drug trade was much less violent and there was a friendly atmosphere, but with the rise of the War On Drugs and the militarization of the police, only people who were willing to deal with dishing and taking violence, stayed. This lead to a more violent and unfriendly atmosphere.</p>
 <p>Now, there is the deep web, a virtual black market, where drugs and all kinds of commerce flow freely. On the deep web, there are many barriers in place that protect users from the police and follow users, creating a safer and friendlier atmosphere. It has totally transformed the drug trade. Resembling  e-commerce giant, E-bay, more, than a drug cartel. Here are 5 reasons you should ditch your local dealer and use the deep web.</p>
 <p><strong>Quality</strong></p>

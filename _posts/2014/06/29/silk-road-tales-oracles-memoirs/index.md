@@ -2,14 +2,12 @@
 title: "Silk Road Tales: Oracle&#8217;s Memoirs"
 ---
 
-<article class="post-listing post-6258 post type-post status-publish format-standard has-post-thumbnail hentry  tag-memoirs tag-oracle">
+6258 post type-post status-publish format-standard has-post-thumbnail hentry  tag-memoirs tag-oracle
 Posted by: DeepDotWeb
 <span>June 29, 2014</span>
     
 <a href="/2014/06/29/silk-road-tales-oracles-memoirs/#comments">7 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p style="text-align: center;"><strong>Take it for what you want in terms of truth and reliability, there are no guarentees here and we do not endorse / vouch or in anyway confirm or stand behind anything mentioned in this post &#8211; Its re posted here because its an interesting read and interesting description of the events, even if you consider this to be 100% fictional.</strong></p>
 <p>And back to the old Silk Road Drama&#8217;s again. When <a href="http://www.deepdotweb.com/?s=Oracle">Oracle</a>, a former silk road employee who was in charge of the  &#8220;Psy Ops&#8221; posted a 2  months ago on the hub that she will be posting her memoirs from the silk road time revealing the inside story behind most if the known silk road stories:</p>
 <blockquote><p>Hello fellow Hubbers, Oracle (from SR2) here.</p>

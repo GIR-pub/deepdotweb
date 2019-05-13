@@ -1,14 +1,12 @@
 ---
 title: "Opportunities Abroad For Deep Web Entrepreneurs Part 1---
 
-<article class="post-listing post-7058 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aboard tag-deep tag-entrepreneurs tag-opportunities tag-web">
+7058 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aboard tag-deep tag-entrepreneurs tag-opportunities tag-web
 Posted by: DeepDotWeb
 <span>December 4, 2014</span>
     
 <a href="/2014/12/04/opportunities-aboard-deep-web-entrepreneurs-part-1/#comments">3 Comments</a></span>
 </p>
-<div class="clear"></div>
-<div class="entry">
 <p>The majority of the users are from and live in the west. For business and cultural reasons this makes a lot of sense. Living in the west allows you to ship to people in your particular western country, which is important as it is mostly people from the west that can afford the higher price charged for drugs on the deep web. Shipping from a foreign country will the require the drugs through second screening process, customs which is not ideal. People in the west also, tend be more familiar with and have more access to technology.</p>
 <p>The west is also one of the most hostile places to be for someone who is part of the deep web. The west is where the War On Drugs in its modern form can be tracked back to and though, they have been making aggressive moves to make this “war” global, it is still by far, the most enforced back home. The War On Drugs is why the USA and many European countries have turned into police states. Outside of the west lays a vast number of possibilities to live a freer life.</p>
 <p>Vendors are a different case, but marketplace owners, developers, and other people who can do their work regardless of their location moving is abroad is a great choice. A choice that could save you from becoming a victim of the war on drugs. For vendors, there are disadvantages, there are also many advantages to moving Abroad. Getting closer to the source and getting the product cheaper, and high quality can help put you above your competition and deliver a better product to your costumers.</p>

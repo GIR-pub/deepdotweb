@@ -1,14 +1,10 @@
 ---
-title: "Drugslist Marketplace: Now Offering Multisig Escrow---
+title: "Drugslist Marketplace: Now Offering Multisig Escrow"
+---
 
-<article class="post-listing post-3526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drugslist tag-escrow tag-multisig tag-offering">
 Posted by: DeepDotWeb
 <span>January 19, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/01/19/drugslist-marketplace-now-offering-multisig-escrow/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>One of the newest marketplaces &#8211; called Drugslist &#8211; seems to be headed in the right direction, released yesterday a list of improvements to the website, and started offering a multisig escrow, we decided to publish that since we fully support marketplaces offering Multisig / P2P escrow rather than regular onsite escrow and by that &#8211; lowering the chances of marketplace owners scams and also protecting the vendors &amp; buyers fund by enabling to finalize any transactions even if the marketplace itself goes down. At these times we believe that the only markets that should be used are those markets that are offering those kinds of escrows (including off sites escrows).</p>
 <p>The Drugslist url is: http://drugslisvdknitqd.onion/<br/>
     The Original Post on Reddit can be found here: http://www.reddit.com/r/drugslist/comments/1vkaxs/multisig_escrow_explained/</p>
@@ -115,7 +111,6 @@ Posted by: DeepDotWeb
 <p>-drugslist</p>
 <p>==============</p>
 <p>Find More information and marketplaces at our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">list of hidden marketplaces</a>.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/drugslist/" rel="tag">drugslist</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/multisig/" rel="tag">multisig</a> <a href="https://www.deepdotweb.com/tag/offering/" rel="tag">offering</a></span> 
+
 Updated: 2014-01-19
     
