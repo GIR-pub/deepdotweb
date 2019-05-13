@@ -7,9 +7,8 @@ title: Silk Road Vendor &#8220;Hammertime&#8221; Busted
 <span>December 19, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/19/silk-road-vendor-hammertime-busted/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>After a year long operation, as it was published <a href="http://www.kgw.com/news/Wash-county-tactical-police-conducting-3-dawn-raids-236190011.html" target="_blank">here</a>:</p>
 <blockquote><p>ALOHA, Ore. &#8212; Washington County Sheriff&#8217;s Office tactical officers raided three locations and arrested several [4] people in connection with a major drug investigation Tuesday. Detectives said the suspects stole people&#8217;s identities, created fake profiles and used a website called &#8220;Silk Road&#8221; to sell methamphetamine around the world in an online drug trafficking ring they operated from Aloha. A federal indictment said the suspects transported more than $500,000 in meth. According to investigators, the drugs were shipped through FedEx and the U.S. Postal Service. &#8230;&#8221;This is a very complex investigation that has taken us a year to investigate because we are dealing with Internet crimes and when the Internet is involved, people are using computer names,&#8221; said Sgt. Bob Ray with the Washington County Sheriff&#8217;s Office. &#8220;It&#8217;s very difficult, it&#8217;s a long process.&#8221; &#8230;Washington County detectives said they expect to make more arrests as the investigation continues. They are currently searching for suspect Donald Bechan, 39, who is shown in photo at left.</p></blockquote>
 <p>Later on, the user <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> posted on the reddit the following information:</p>

@@ -1,15 +1,15 @@
 ---
 City Ceases Darknet Machine Learning Project
 ---
-<article class="post-listing post-18696 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-ceases tag-city tag-darknet tag-learning tag-machine tag-project">
+<article class="post-listing post-18696 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-ceases tag-city tag-darknet tag-learning tag-machine tag-project">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 20, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/20/city-ceases-darknet-machine-learning-project/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In October 2016, the Boston Police Department filed a request for access to software and technology that raised a minor difference in the community. Technically, the Boston Police Department filed a Request for Proposals. As suggested by the name, the Department requested proposals from <a href="http://bpdnews.com/news/2017/1/13/commissioner-evans-announces-next-steps-on-acquisition-of-social-media-technology">outside security organizations and individuals</a> In an email, Police Chief William Evans explained the RFP as one that would &#8220;aid the Department in more effectively analyzing publicly available information found on the Internet.&#8221;</p>
 <p>Chief Evans continued with the explanation—the Department needed resources to obtain, store, and handle internet data. The data in question not only consisted of what one might expect from a police department; the Requests for Proposals laid out a specific skillset That reached beyond the inner layers of the internet. Participants needed skills in various sectors, starting with social networks, especially Twitter, and ending with darknet forums and marketplaces. <img class="wp-image-18700 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-47.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-47.png 816w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-47-300x140.png 300w" sizes="(max-width: 816px) 100vw, 816px" /></p>
 <p>In literal terms, the request for proposals aimed to &#8220;acquire technology and services that supported the identification, collection, synthesis, analysis, and investigation of threat information present within real-time open source and social media platforms,&#8221; the advertisement summarized. Evans further clarified that the goal included the <a href="https://www.deepdotweb.com/2016/10/17/cia-can-predict-future-events-five-days-advance/#comments">ability to use a stream of data to enhance situational awareness</a>.</p>

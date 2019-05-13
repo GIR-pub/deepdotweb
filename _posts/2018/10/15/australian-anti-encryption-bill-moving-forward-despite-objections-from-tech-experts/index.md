@@ -1,15 +1,15 @@
 ---
 Australian Anti-Encryption Bill Moving Forward Despite Objections from Tech Experts
 ---
-<article class="post-listing post-26944 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-antiencryption tag-australian tag-bill tag-experts tag-moving tag-objections tag-tech">
+<article class="post-listing post-26944 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-antiencryption tag-australian tag-bill tag-experts tag-moving tag-objections tag-tech">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>October 15, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/10/15/australian-anti-encryption-bill-moving-forward-despite-objections-from-tech-experts/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On September 10<sup>th</sup> the deadline passed for public comments on a draft version of Australia’s proposed <a href="https://www.homeaffairs.gov.au/about/consultations/assistance-and-access-bill-2018">Assistance and Access bill</a>. This is a piece of anti-encryption legislation that is currently being considered by legislators in the Australian House of Representatives. The Department of Home Affairs received over 15,000 comments on the draft of the <a href="https://www.eff.org/deeplinks/2018/09/australian-government-ignores-experts-advancing-its-anti-encryption-bill">anti-encryption bill</a>. Many non-profit organizations, businesses, government agencies, and individuals submitted comments on the draft of the Assistance and Access bill, including Access Now, the Internet Architecture Board, Digital Rights Watch, the Asia Cloud Computing Association, and Human Rights Watch among other organizations and individuals.</p>
 <p>On September 9<sup>th</sup>, a day before the deadline for commenting on the bill, a coalition made up of some of the top civil liberties organizations and leading tech companies <a href="https://newamericadotorg.s3.amazonaws.com/documents/Coalition_comments_on_Australia_bill.pdf">released a letter in opposition</a> to the Assistance and Access bill. Some of the civil liberties organization which signed on to the coalition letter included Access Now, Defending Rights &amp; Dissent, the Electronic Frontier Foundation (EFF), Human Rights Watch, Freedom of the Press Foundation, Restore the Fourth, among other non-profit organizations. Some of the tech companies which signed on to the coalition letter in opposition to the Assistance and Access bill included Apple, Cloudflare, Google, Microsoft, StartPage.com, among other tech companies. The coalition letter was also signed by a separate coalition of tech companies called Reform Government Surveillance, which is made up of Facebook, Twitter, Dropbox, LinkedIn, Evernote, Snap, Inc., Oath, as well as Google and Microsoft.</p>
 <p>The Internet Architecture Board submitted comments on the draft of the anti-encryption bill to legislators. In their comments, the Internet Architecture Board warned that Australia&#8217;s desire to enact anti-encryption laws (that would allow law enforcement to force businesses to help them defeat their own encryption) represent an existential threat to the security and integrity of the Internet.</p>

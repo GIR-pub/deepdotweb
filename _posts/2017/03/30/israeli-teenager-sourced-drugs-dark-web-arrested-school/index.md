@@ -1,15 +1,15 @@
 ---
 Israeli Teenager Sourced Drugs From the Dark Web, Arrested For Them At School
 ---
-<article class="post-listing post-18885 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18885 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 30, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/30/israeli-teenager-sourced-drugs-dark-web-arrested-school/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Law enforcement authorities in Israel <a href="http://cursorinfo.co.il/arestovan-podrostok-torgovavshij-narkotikami-v-shkole/">arrested</a> a teenager who allegedly sold drugs in the school he studied. He allegedly sourced the drugs from the dark web.</p>
 <p>According to police information, officials started an investigation after a case of drug poisoning in the school. The student, who was taken to the hospital, showed the symptoms of a <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> overdose. When investigators questioned the boy, he admitted that he purchased the substance from a friend in school. He became ill after he used the <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a>.</p>
 <p>Shortly after, local law enforcement authorities detained the seller. During the police interrogation, the suspect confessed that he was selling narcotics to the students at the school. Additionally, according to the student, he was addicted to <a href="https://www.deepdotweb.com/tag/marijuana/">marijuana</a> and was looking to make money to finance his addiction. The suspect admitted that he ordered the drugs from the dark net, and resold the substances at the school he studied. The teenager showed full cooperation with the police, he gave up all the customers he sold.</p>

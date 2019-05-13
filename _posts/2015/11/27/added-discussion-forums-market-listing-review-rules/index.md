@@ -7,9 +7,8 @@ Added: Discussion Forums, Market Listing &#038; Review Rules
 <span>November 27, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/27/added-discussion-forums-market-listing-review-rules/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Just to update several small but important updates on the site:</p>
 <ol>
 <li>Started listing non-commercial darknet discussion forums, from now on they will be shown <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">on the markets list</a> and on the sidebar:<br/>

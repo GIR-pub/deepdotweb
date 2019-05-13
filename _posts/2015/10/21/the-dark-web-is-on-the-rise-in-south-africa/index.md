@@ -7,9 +7,8 @@ The Dark Web Is On The Rise In South Africa
 <span>October 21, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/21/the-dark-web-is-on-the-rise-in-south-africa/#comments">17 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.iol.co.za/news/south-africa/dark-web-thriving-in-sa-1.1931641#.ViaUy37hAdW">According to current metrics published by Tor, the daily dark web users in South Africa has increased to 8000 users per day.</a> This involves activities such as purchasing drugs from darknet markets, visiting child porn sites, carding forums, and so on.</p>
 <p>In order to prevent the increase of dark web users and to track down those who use this side of the net, the local police in South Africa are teaming up with and trained by law enforcement agencies, including the FBI, in order to track down the dark net users of the country. However, they had no success in such activities so far.</p>
 <p>The head of the Electronic Crime Unit of the Hawks, Brigadier Piet Pieterse stated that it is nearly impossible to monitor dark web users in South Africa. He made this statement:</p>

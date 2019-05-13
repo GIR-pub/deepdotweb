@@ -7,9 +7,8 @@ title: Sheep Marketplace Scam: Over 40,000,000$ in the Biggest Darknet Scam Ever
 <span>November 30, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Tl;DR:</strong> Sheep Marketplace disabled withdrawals, but allowed deposits for the past 10 days or so. They have now disabled the forums after deleting posts related to the inability to withdraw and all this just to start moving the bitcoins from the marketplace to another location (<a href="https://blockchain.info/address/1EiVHZnDVjFH6Tic1YmWUSfYmVUnUZdnMU" target="_blank">BlockChain Link</a> &#8211;  Explanation below)</p>
 <p>* <span style="color: #ff6600;"><strong>1/12/13 Update</strong></span>: Sheep Marketpace is now officially Down &#8211; <a href="http://www.deepdotweb.com/2013/12/01/sheep-is-now-officially-down/" target="_blank">See the details here</a><br />
     * Update: apparently one vendor did use bug in marketplace and did steal 5500BTC from sheep pocket &#8211; so the admin run away (see images below the quote)<br />

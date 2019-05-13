@@ -7,9 +7,8 @@ Ether Price Plummets &#8211; What Happened?
 <span>August 18, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/18/ether-price-plummets-what-happened/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/08/11.jpg"><img class="aligncenter size-full wp-image-11295" src="https://www.deepdotweb.com/wp-content/uploads/2015/08/11.jpg" alt="1" width="809" height="540" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/08/11.jpg 809w, https://www.deepdotweb.com/wp-content/uploads/2015/08/11-300x200.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/08/11-290x195.jpg 290w" sizes="(max-width: 809px) 100vw, 809px" /></a></p>
 <p>Over the August 8 weekend, Ether (ETH), the native token of decentralized platform <a href="https://www.deepdotweb.com/2014/08/18/ethereum-making-entire-world-trustless/">Ethereum</a> began trading on exchanges after the launch of its first live release, ‘Ethereum frontier’. The release came out with set conditions, measures put in place by devs. As soon as trading went live on some exchanges, led by kraken over miscommunication, ‘ether dumping’ set off a panic price fall, down 80% from prices at $3.0 just days ago.</p>
 <p><em>“The market cap was around 170, now 88 ? Price halved in a single day?”</em></p>

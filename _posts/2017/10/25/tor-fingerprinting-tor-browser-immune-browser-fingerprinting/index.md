@@ -1,15 +1,15 @@
 ---
 Tor Fingerprinting &#8211; Is the Tor Browser Immune Against Browser Fingerprinting?
 ---
-<article class="post-listing post-23262 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-browser tag-fingerprinting tag-immune tag-tor">
+<article class="post-listing post-23262 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-browser tag-fingerprinting tag-immune tag-tor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>October 25, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/10/25/tor-fingerprinting-tor-browser-immune-browser-fingerprinting/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On October 4, 2013, <a href="https://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption">the Guardian published a report</a> which stated that Edward Snowden, a former CIA employee and whistleblower, sent the British newspaper classified documents that proved that the National Security Agency (NSA) had been repeatedly making attempts to formulate successful attacks against Tor, or the onion router. However, the report claimed that all of NSA&#8217;s attempts failed to de-anonymize Tor users and as such, proved that the security of Tor is bulletproof and only those using an outdated version of the Tor browser can be successfully de-anonymized via quantum cookie attacks.</p>
 <p>Nonetheless, Tor is a form of a two-edged sword. While most users appreciate the privacy and anonymity offered to them via Tor, others exploit them in various forms of online criminal activities. When online tracking and de-anonymization are concerned, internet tracebacks via browser fingerprinting are steadily growing, specifically on some commercial websites, such as BlueCava, Iovation, AddThis, 41st Parameter and ThreatMetrix. In 2010, a Panopticlick research program was initiated by the Electronic Frontier Foundation (EFF), to examine <a href="https://www.deepdotweb.com/2016/10/28/browser-fingerprinting-browser-stand/">browser fingerprinting</a>. The research proved that 94.2% of all the fingerprints of internet browsers, excluding Tor browser&#8217;s fingerprints, are unique. When a user points his/her browser to a server that runs browser fingerprinting, the server obtains some of the features of the user&#8217;s browser, which are referred to as browser fingerprints. Accordingly, the server conducting browser fingerprinting can associate the access to analyze the browser for tracking. Such association can lead to de-anonymization of users.</p>
 <p><img class="wp-image-23265 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-50.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-50.jpeg 590w, https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-50-300x156.jpeg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>

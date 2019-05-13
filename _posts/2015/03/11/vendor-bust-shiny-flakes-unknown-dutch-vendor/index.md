@@ -7,9 +7,8 @@ Vendor Bust: Shiny Flakes With 320kg Of Drugs
 <span>March 11, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/11/vendor-bust-shiny-flakes-unknown-dutch-vendor/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p class="post-box-title"><span style="text-decoration: underline;"><strong>Update 12.3.15</strong></span>: <a title="Permalink to Shiny Flakes Bust:  38 Houses Raided" href="http://www.deepdotweb.com/2015/03/12/shiny-flakes-bust-38-houses-raided/" rel="bookmark">Shiny Flakes Bust: 38 Houses Raided</a></p>
 <p>The Known German vendor known as &#8220;<a href="http://www.deepdotweb.com/marketplace-directory/listing/shiny-flakes">Shiny flakes</a>&#8221; was arrested in <span class="notranslate"><span class="pf-content">one of the biggest </span></span><span class="notranslate"><span class="pf-content">discoveries in the Leipziger criminal history.</span></span></p>
 <p><span class="notranslate"><span class="pf-content">On February 27 , 2015, police investigators arrested the alleged owner, a young Leipzig resident, who lives with his mother. The 20-year old man was apparently hoarding an astonishing amount of around 320kg of various drugs, the man is accused of selling the drugs on the internet using the alias &#8220;Shiny flakes&#8221; on 2 sites &#8211; one &#8220;.onion site&#8221; and one clearnet site at <strong>shiny-flakes.to</strong>:<br />

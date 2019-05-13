@@ -1,15 +1,15 @@
 ---
 Third Suspect Arrested in Connection with NSW Drug Syndicate
 ---
-<article class="post-listing post-26521 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-connection tag-drug tag-nsw tag-suspect tag-syndicate">
+<article class="post-listing post-26521 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-connection tag-drug tag-nsw tag-suspect tag-syndicate">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 9, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/09/third-suspect-arrested-in-connection-with-nsw-drug-syndicate/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Not long after suspected drug trafficker Dov Tenenboim named his accomplices in an Australian courtroom, Australia’s Strike Force Bergmark <a href="https://www.smh.com.au/national/nsw/third-man-arrested-in-alleged-eastern-suburbs-dark-web-drug-syndicate-20180720-p4zsmz.html">arrested yet another alleged member</a> of the drug trafficking syndicate that had imported more than a million dollars worth of drugs from Europe. The police, in late July, arrested Daniel Sopher—the third member of the darknet drug trafficking group operating out of the Eastern Suburbs.<img class="wp-image-26524 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-20.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-20.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-20-300x154.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Earlier this year, after <a href="https://www.deepdotweb.com/2018/06/20/nsw-man-busted-for-role-in-an-international-darknet-drug-operation">Australian officials established Strike Force Bergmark</a> to bust other members of the syndicate. The taskforce arrested two men: former classmates Dov Tenenboim and Chaim Goldstein and charged them with a connection total of almost 50 drug trafficking, importation, and possession charges. The police accused the schoolmates of spreading drugs throughout NSW, Queensland, Victoria, Western Australia, and Southern Australia.</p>
 <p>During the arrest of the first two suspects, Australian authorities made one of the largest cryptocurrency seizures in Australian history; Strike Force Bergmark seized almost <a href="https://www.deepdotweb.com/tag/bitcoin/">$350,000 in Bitcoin</a> from Tenenboim. Tenenboim also had more than $70,000 in cash, valuable jewelry, and assorted computer equipment at his Vaucluse luxury apartment. Law enforcement hit Tenenboim with 45 counts of drug related crimes and focused primarily on MDMA and ketamine.</p>

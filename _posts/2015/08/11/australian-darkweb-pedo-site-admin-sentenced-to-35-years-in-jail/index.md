@@ -7,9 +7,8 @@ Australian DarkWeb Pedo Site Admin Sentenced To 35 Years in Jail
 <span>August 11, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/11/australian-darkweb-pedo-site-admin-sentenced-to-35-years-in-jail/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.adelaidenow.com.au/news/south-australia/families-sa-paedophile-shannon-mccoole-sentenced-to-35-years-in-jail-for-horrific-sexual-abuse-of-children-in-care/story-fni6uo1m-1227474133348">Former Families Worker in South Australia, Shannon Grant McCoole (33) has pleaded guilty to a horrifying list of sex crimes against underaged children in his care and was sentenced to 35 years in jail</a>. His crime was brutal, one of the children he molested was only 18 months old. There were even children who had autism or were disabled.</p>
 <p>He was not only a family worker at the time, but it was proven that he was running a darknet child pornography website, called The Love Zone. The domain had more than 47000 users, until the closedown of the site, 6 months after the caught of the website administrator (McCoole). It looks like McCoole has used the ”skee” username for the running of the CP darknet site.</p>
 <p>McCoole AKA skee has posted this message on The Love Zone pedophile site:</p>

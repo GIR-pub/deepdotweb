@@ -7,9 +7,8 @@ Wi-Fi and OPSec
 <span>September 1, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/09/01/wi-fi-and-opsec/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>It would be reasonable to assume that a vast majority of home internet users have some kind of wireless accessibility for their network of computers, tablets, printers, TVs, etc. In the past, wireless was seen as a convenient, yet risky solution for larger corporations and government entities – When weighing accessibility against security, the former would most definitely win any given battle. As network technologies bring advancement to the common workplace it appears that accessibility may have won the war. That’s not true – instead we could say that a ceasefire has been drafted. It’s becoming more and more possible to provide accessibility AND security.</p>
 <p>Let’s take a look at the original wireless infrastructures: most began with complete insecure wide open systems, whose role was literally to provide Layer 2 wireless access to a network and nothing else. If you wanted security, you would be forced to implement some 3<sup>rd</sup> party policing to already connected clients – This was less than ideal, since physically gaining access to an inside network is probably the hardest task that attackers undertake. Then WEP was provided, which was a bit better – let’s face it: something is better than nothing. The problem with WEP was that it necessitated passwords to be transmitted in plain text; easy pickings for anyone monitoring the frequency.</p>
 <p>First, I want to say that wireless is not really the best option when wired is available (especially when lurking on the DarkNet). There is exception to this: if you are out in public making an effort not to use TOR from home, then this risk can be well worth it; however you should be using VPN, as well as TOR when using wireless in public or at home. By design, Wireless is so much more susceptible to infiltration. To potentially infiltrate wireless traffic you need to be in range and have the capability to listen, collect and eventual decrypt that traffic. The following decrypts depict the basic steps that can be used, by neighbors, war-drivers or anyone else, to infiltrate a wireless network:</p>

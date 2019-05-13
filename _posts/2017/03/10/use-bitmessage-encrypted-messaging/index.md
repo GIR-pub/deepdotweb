@@ -1,15 +1,15 @@
 ---
 How to use Bitmessage (encrypted messaging)
 ---
-<article class="post-listing post-18531 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitmessage tag-encrypted tag-messaging">
+<article class="post-listing post-18531 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-bitmessage tag-encrypted tag-messaging">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
 <span>March 10, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/10/use-bitmessage-encrypted-messaging/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Bitmessage is a peer-to-peer communications protocol that allows users to send encrypted messages to each other and groups. Its fully decentralized model ensures that users don’t have to trust any third party service and its encryption system ensures that users don’t have to resort to complicated tools like PGP. Bitmessage encrypts messages, masks the sender and receiver of messages from others, and guarantees that the sender of a message cannot be spoofed.</p>
 <p>Bitmessage is somewhat similar to Bitcoin as the message transfer mechanism similar to Bitcoin’s transaction and block transfer system. Bitmessage uses the same address encoding mechanism, which results in a pseudonymous address that is similar to that of a Bitcoin wallet address. Furthermore, a Proof-of-Work system requires users to put in computational resources in order to send a message through the network. The difficulty of the proof‐of‐work is proportional to the size of the message.</p>
 <p>Just like Bitcoin, all the nodes receive information regarding the messages sent in the network. However, only the receiver can decrypt it. However, nodes delete data, and do not accept data, older than two days, which means that a message must be read within two days before being erased from the network.</p>

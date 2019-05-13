@@ -1,15 +1,15 @@
 ---
 Reddit Just Banned /R/DarkNetmarkets &#8211; Biggest Darknet Subreddit
 ---
-<article class="post-listing post-25152 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-banned tag-biggest tag-darknet tag-rdarknetmarkets tag-reddit tag-subreddit">
+<article class="post-listing post-25152 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-banned tag-biggest tag-darknet tag-rdarknetmarkets tag-reddit tag-subreddit">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 21, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/21/reddit-just-banned-r-darknetmarkets-biggest-darknet-subreddit/#comments">29 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Discussing <a href="http://deepdotweb.com/tag/darknet">darknet market information</a> on the internet has grown increasingly more difficult as site owners question the content posted by people involved in some of the well-known communities. Reddit, the primary site for darknet-related conversation on the clearnet, just banned the biggest darknet subreddit.</p>
 <p>Reddit banned /r/darknetmarkets. According to the new homepage of the former information hub, the community violated Reddit&#8217;s illegal transaction rules. Specifically, “this subreddit was banned due to a violation of Reddit’s policy against transactions involving prohibited goods or services.” Reddit, like many discussion forums or boards online, allows only the <strong>discussion</strong> of (some) illegal content. Reddit strictly forbids direct deals when they invoice illegal content. The subreddit, in the opinion of the Reddit staff behind the ban, violated Reddit&#8217;s rules about the sourcing of illegal drugs.</p>
 <p>The subreddit moderators also strictly forbade sourcing and direct deals. They attempted to abide by Reddit’s rules. The moderators also successfully deleted posts containing drug sourcing. With that said, the subreddit existed primarily as a source of darknet drug market addresses. An authoritative source like that subreddit’s superlist kept users from losing money to the plethora of darknet market clones that exist only to steal bitcoin, monero, and other cryptocurrency. DeepDotWeb keeps a similarly <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">authoritative and trusted source of links</a> for the same purpose.</p>

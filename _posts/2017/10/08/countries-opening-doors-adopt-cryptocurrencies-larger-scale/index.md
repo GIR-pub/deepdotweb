@@ -1,15 +1,15 @@
 ---
 Some countries are opening doors to adopt cryptocurrencies in a larger scale
 ---
-<article class="post-listing post-22970 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-adopt tag-countries tag-cryptocurrencies tag-doors tag-larger tag-opening tag-scale">
+<article class="post-listing post-22970 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-adopt tag-countries tag-cryptocurrencies tag-doors tag-larger tag-opening tag-scale">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 8, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/10/08/countries-opening-doors-adopt-cryptocurrencies-larger-scale/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Different countries around the world are facilitating the use of cryptocurrencies for monetary operations.</p>
 <p><strong>Estonia</strong></p>
 <p>Estonia, known already for being a technologically leading country, deeply analyzed and proposed, is set to issue a new legal cryptocurrency, named Estocoin, that would be recognized as a legal currency. Kaspar Korjus, Managing Director at e-Residency, posted in a <a href="https://medium.com/e-residency-blog/estonia-could-offer-estcoins-to-e-residents-a3a5a5d3c894">Blog</a> that the country would be the first country in the world with an ICO that would help with the development of a truly virtual nation. Vitalik Buterin was involved in the project; he supported the idea and gave feedback about how the Estocoin would work.</p>

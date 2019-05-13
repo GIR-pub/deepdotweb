@@ -1,15 +1,15 @@
 ---
 FBI Director Believes Encryption is a Public Safety Issue
 ---
-<article class="post-listing post-24574 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-believes tag-director tag-encryption tag-fbi tag-issue tag-public tag-safety">
+<article class="post-listing post-24574 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-believes tag-director tag-encryption tag-fbi tag-issue tag-public tag-safety">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>January 27, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/27/encryption-is-a-public-safety-issue/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Some officials within America’s Federal Bureau of Investigation (FBI) has been pushing for reigniting the Crypto Wars, and at a recent cybersecurity conference <a href="https://www.fbi.gov/news/speeches/raising-our-game-cyber-security-in-an-age-of-digital-transformation">FBI Director Christopher Wray called encryption</a> “a major public safety issue.” Law enforcement officials from various levels of government spoke at the <a href="https://www.reuters.com/article/us-usa-cyber-fbi/fbi-chief-calls-unbreakable-encryption-urgent-public-safety-issue-idUSKBN1EY1S7">International Conference on Cyber Security 2018</a>, which was held earlier this month at Fordham University in New York City. Former Director of the CIA John Brennan spoke at the conference, as well as a computer forensics expert from the FBI’s local office, and the New York City District Attorney, Cyrus Vance Jr., who has long spoken out against encryption.</p>
 <p>FBI Director <a href="https://www.washingtonpost.com/world/national-security/fbi-chief-calls-encryption-a-major-public-safety-issue/2018/01/09/29a04166-f555-11e7-b34a-b85626af34ef_story.html">Christopher Wray</a> complained about the privacy that encrypted information affords people during his speech at the cybersecurity conference. “Being unable to access nearly 7,800 devices is a major public safety issue. That’s more than half of all the devices we attempted to access in that timeframe—and that’s just at the FBI. That’s not even counting a lot of devices sought by other law enforcement agencies—our state, local, and foreign counterparts. It also doesn’t count important situations outside of accessing a specific device, like when terrorists, spies, and criminals use encrypted messaging apps to communicate,” Wray said during his speech.</p>
 <p>Prior to the FBI Director’s speech, Matthew Scholl, the Computer Security Division Chief of the National Institute of Standards and Technology (NIST) delivered a speech. NIST is part of the United States Department of Commerce, and they help set encryption standards for the United States government. NIST is currently working on developing standards for <a href="https://www.deepdotweb.com/2016/02/08/nsa-switches-to-quantum-resistant-cryptography/">quantum proof encryption</a>. After Scholl delivered his speech, he was asked a question by privacy rights activist Theo Chino if NIST was developing or working on a form of encryption which would enable the government to gain access to the data with a warrant. Scholl responded by simply saying, “No.”</p>

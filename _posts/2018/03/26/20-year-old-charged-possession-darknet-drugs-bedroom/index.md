@@ -1,15 +1,15 @@
 ---
 20-Year-Old Charged With Possession of Darknet Drugs in Bedroom
 ---
-<article class="post-listing post-25158 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-20yearold tag-bedroom tag-charged tag-darknet tag-drugs tag-possession">
+<article class="post-listing post-25158 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-20yearold tag-bedroom tag-charged tag-darknet tag-drugs tag-possession">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>March 26, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/26/20-year-old-charged-possession-darknet-drugs-bedroom/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>An investigation into a homicide case led authorities to the doorstep of Joseph Benner who appeared to have supplied Xanax pills ordered from a Darknet marketplace to his victim. An investigation revealed that Benner was well familiar with the online marketplace considering the fact that he had been ordering between 200 to 2,000 pills per month. With belief that his arrest will have an indirect effect on the illegal drug use, authorities have ensured that the investigation will be carried out to the core.</p>
 <p><a href="http://www.eagletribune.com/news/haverhill/police-say-man-had-drug-lab-in-bedroom/article_8b4b0774-7aae-575f-beab-659d24730220.html">According to information</a>, Benner (20) together with his brother (16), engaged in a drug enterprise with roles assigned to each other. Not foreseeing the danger that lied ahead, they finally became a target for the authorities. To find evidence of their crime, investigators conducted a search and seized $14,905 suspected to be revenue from the drug activities. Benner was therefore charged with committing class D and class E Felonies.</p>
 <p>Possession of illicit drugs with the intention of distributing them is punishable by law, and it is expected that Benner will be subjected to the demand of the law.</p>

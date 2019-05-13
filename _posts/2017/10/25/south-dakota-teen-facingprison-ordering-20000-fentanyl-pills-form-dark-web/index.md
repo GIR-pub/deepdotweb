@@ -1,7 +1,8 @@
 ---
 South Dakota Teen FacingPrison after Ordering 20,000 Fentanyl Pills Form the Dark Web
 ---
-<article class="post-listing post-23261 post type-post status-publish format-standard hentry category-deepdot-news category-news-updates tag-5835 tag-dakota tag-dark tag-facing tag-fentanyl tag-form tag-lengthy tag-ordering tag-pills tag-prison tag-sentence tag-south tag-teen tag-web">
+<article class="post-listing post-23261 post type-post status-publish format-standard hentry 
+category-news-updates tag-5835 tag-dakota tag-dark tag-facing tag-fentanyl tag-form tag-lengthy tag-ordering tag-pills tag-prison tag-sentence tag-south tag-teen tag-web">
     
 <div class="post-inner">
     

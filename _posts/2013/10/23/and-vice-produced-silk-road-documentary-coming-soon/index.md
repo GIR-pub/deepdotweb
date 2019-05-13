@@ -7,9 +7,8 @@ title: And Vice-produced Silk Road documentary Coming soon
 <span>October 23, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/10/23/and-vice-produced-silk-road-documentary-coming-soon/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Really&#8230;?  So quick, that should be interesting,   as it was reported earlier today at the <a href="http://www.dailydot.com/entertainment/bbc-silk-road-documentary-vice/">dailydot</a>,  Source at the <a href="http://www.broadcastnow.co.uk/news/commissioning/bbc4-orders-vice-and-raw-co-pro-drug-doc/5062704.article?blocktitle=LATEST-NEWS&amp;contentID=870" target="_blank">BBC site</a></p>
 <blockquote><p>BBC just commissioned a documentary on the Deep Web black market Silk Road. According to Broadcastnow.co.uk, the film will be coproduced by Vice and Raw TV, precisely the two outfits one expects to present a story like this.</p></blockquote>
 <p>Director Emily James talks to Broadcast:</p>

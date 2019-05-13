@@ -1,15 +1,15 @@
 ---
 India Government to Hire Nerds as Policemen in Fight against Cybercriminals
 ---
-<article class="post-listing post-26165 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cybercriminals tag-fight tag-government tag-hire tag-india tag-nerds tag-policemen">
+<article class="post-listing post-26165 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-cybercriminals tag-fight tag-government tag-hire tag-india tag-nerds tag-policemen">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>July 1, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/01/india-government-to-hire-nerds-as-policemen-in-fight-against-cybercriminals/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In response to the increased rate of cyber attack cases, the Government of India has decided to expose the police to computer intelligence to trace and identify perpetrators in cyberspace. The government has also decided to <a href="http://www.dnaindia.com/delhi/report-dna-exclusive-government-plans-to-hire-geeks-as-cops-in-its-war-against-cybercriminals-2626182">hire geeks</a> who will be tasked to go undercover on the dark web to combat cybercrime.</p>
 <p>According to a source, the Union Territories and the Director Generals of the Police were responsible for the recruitment of the cyber experts. These special cyberspace hawkers would possibly be operating from the cyber police unit. A source revealed that the decision was influenced by the many unsuccessful attempts by law enforcement agencies to deal with darknet criminals successfully.</p>
 <p>The information gathered shows that the computer experts will primarily be in charge of gathering intelligence, and diving deeper into the anonymous world to identify individuals behind the operation of cyber-attacks that have cost the country millions already in lost efforts.</p>

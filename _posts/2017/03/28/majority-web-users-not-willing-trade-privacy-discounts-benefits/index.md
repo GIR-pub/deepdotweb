@@ -1,15 +1,15 @@
 ---
 Majority of Web Users Not Willing to Trade Privacy For Discounts &#038; Benefits
 ---
-<article class="post-listing post-18853 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-benefits tag-discounts tag-majority tag-privacy tag-trade tag-users tag-web">
+<article class="post-listing post-18853 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-benefits tag-discounts tag-majority tag-privacy tag-trade tag-users tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 28, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/28/majority-web-users-not-willing-trade-privacy-discounts-benefits/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>University of Pennsylvania’s new research paper entitled “<a href="https://www.asc.upenn.edu/sites/default/files/TradeoffFallacy_1.pdf">The Tradeoff Fallacy</a>” which looks into the misrepresentation of marketing schemes and online advertising initiatives found that the vast majority of web users are strictly against the collection of their personal and financial information, contrary to how online marketing is demonstrated to the public.</p>
 <p>Over the past decade, the emergence of innovative and revolutionary <a href="https://www.deepdotweb.com/2017/02/15/princeton-stanford-research-shows-anonymous-browsing-histories-linked-social-media/">social media</a> platforms such as Facebook, YouTube, Twitter, Instagram and Qzone have led to the creation of aggressive marketing methods and strategies based on the collection and analysis of highly sensitive user data.</p>
 <p>Although marketers, social media platforms, search engines and browsers continue to claim that personal information and financial data are released to advertisers with the consent and agreement of users, most web users claim that they are against such collection of data. In fact, a large portion of users aren’t even aware that their data is being surveilled by marketers.</p>

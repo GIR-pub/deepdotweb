@@ -7,9 +7,8 @@ Update In German Vendor Shop Case: Three Suspects Were Sentenced To Prison
 <span>March 26, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/26/update-german-vendor-shop-case-three-suspects-sentenced-prison/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a id="post-18805-_gjdgxs"></a> Three Germans were <a href="http://www.swr.de/swraktuell/rp/mainz/mainzer-landgericht-haftstrafen-fuer-drogenhandel-im-darknet/-/id=1662/did=19155130/nid=1662/179rh5e/">sentenced</a> to prison for running a vendor shop on the dark web selling <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a>.</p>
 <p><img class="wp-image-18813 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/person-with-hood-over-head-without-face.jpeg" alt="Person with hood over head without face" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/person-with-hood-over-head-without-face.jpeg 316w, https://www.deepdotweb.com/wp-content/uploads/2017/03/person-with-hood-over-head-without-face-300x168.jpeg 300w" sizes="(max-width: 316px) 100vw, 316px"/></p>
 <p>In November 2016, the Cybercrime Regional Center <a href="https://www.deepdotweb.com/2016/11/25/three-arrested-german-vendor-shop-bust/">accused</a> three persons who are believed to be connected to a dark net vendor shop selling <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a>. A 54-year-old father and his 31-year-old son were charged with running the shop, while the 25-year-old defendant was accused of ordering substances from the other two suspects for resale purposes.</p>

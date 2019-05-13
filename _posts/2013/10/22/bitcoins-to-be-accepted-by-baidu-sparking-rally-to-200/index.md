@@ -7,9 +7,8 @@ title: Bitcoins To Be Accepted By Baidu, Sparking Rally To $200
 <span>October 22, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/10/22/bitcoins-to-be-accepted-by-baidu-sparking-rally-to-200/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>By Kevin H. Danielsen</p>
 <p>Bitcoins (BTC), an unregulated internet-based currency, saw a massive spike in value over this past weekend, speculatively due to “China’s Google”, Baidu, accepting it as a form of payment.  The currency is now trading at $200 on October 22.</p>
 <p>This recent bitcoin rally occurred despite the recent FBI confiscation of 26,000 bitcoins, valuing at roughly $5.2 million to date, from the underground online bazaar, Silk Road.  The mastermind behind Silk Road, Ross Ulbricht, was arrested this month for his company’s illicit activities.</p>

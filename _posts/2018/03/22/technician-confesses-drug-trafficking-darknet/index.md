@@ -1,15 +1,15 @@
 ---
 IT technician confesses drug trafficking in Darknet
 ---
-<article class="post-listing post-25142 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-confesses tag-darknet tag-drug tag-technician tag-trafficking">
+<article class="post-listing post-25142 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-confesses tag-darknet tag-drug tag-technician tag-trafficking">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/isaacddanso/" title="">Isaac Danso </a></span>
 <span>March 22, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/22/technician-confesses-drug-trafficking-darknet/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>German has explicitly seen a lot of drug trafficking activities through the Darknet in recent years, which has made the EU very infamous for that act.<img class="wp-image-25147 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/c-users-calebo-desktop-illegal-drugs-pills-jpg.jpeg" alt="C:\Users\CALEBO&#96;\Desktop\illegal-drugs-pills.jpg" /></p>
 <p><a href="https://www.br.de/nachrichten/oberbayern/inhalt/it-techniker-gesteht-drogengeschaefte-im-darknet-100.html">An IT technician from Berg am Starnberger See is currently on trial for drug trafficking in Munich</a>. According to prosecutors, his crooked business on the Darknet is said to have been helped by his 68-year-old mother, who is also charged. Both of them have now filed a confession.</p>
 <p>The 27-year-old man has therefore developed a sophisticated system to handle drug trafficking which he ordered off of the Darknet and paid with Bitcoin. Furthermore, the goods were not sent to only himself, but also to his mother and friends, who aided and abetted him in his illicit business.</p>

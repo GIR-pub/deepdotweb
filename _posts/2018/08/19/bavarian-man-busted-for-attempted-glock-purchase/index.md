@@ -1,15 +1,15 @@
 ---
 Bavarian Man Busted for Attempted Glock Purchase
 ---
-<article class="post-listing post-26587 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempted tag-bavarian tag-busted tag-glock tag-man tag-purchase">
+<article class="post-listing post-26587 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-attempted tag-bavarian tag-busted tag-glock tag-man tag-purchase">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 19, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/19/bavarian-man-busted-for-attempted-glock-purchase/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 26-year-old man from the Bavarian town of Wolfratshausen was recently sentenced to probation for attempting to purchase a gun on the dark web. His arrest, like many similar <a href="https://www.deepdotweb.com/tag/darknet/">darknet firearm arrests</a>, was the result of an undercover investigation by the Federal Criminal Police Office in Germany.</p>
 <p>According to information revealed in the courtroom, the Australian Federal Police had been helping the German Federal Criminal Police Office identify potential dark web gun buyers when they stumbled upon posts from the 26-year-old that mentioned Glocks. He had apparently been looking for a reputable Glock vendor—something increasingly difficult in the wake of Germany being in the light of Deep Web debacles and murder cases.</p>
 <p>The Australian Federal Police sent the German Federal Criminal Police Office information about the anonymous figure inquiring about dark web gun vendors. The German Federal Criminal Police Office (BKA) had a protocol for handling these cases that often involved the use of a former gun vendor&#8217;s account. After the Munich massacre, <a href="https://www.deepdotweb.com/tag/bka/">the BKA arrested a record number of darkweb gun vendors</a> and subsequently took control of many vendor accounts. They used those accounts to catch both suppliers and dark web gun buyers.</p>

@@ -7,9 +7,8 @@ Bitcoin News Roundup – 22 Mar. 2015
 <span>March 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/22/bitcoin-news-roundup-22-mar-2015/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Recapping the week’s biggest Bitcoins stories from around the web. </em></p>
 <p><strong>Will UK Bitcoin regulation get clearing banks on-board?</strong></p>
 <p>Probably the most notable piece of positive bitcoin news, The UK government’s commitment to injecting $ 14.6 million into research on digital currencies. The announcement was made by the UK treasury right about the same time as the annual budget speech by Chancellor of Exchequer.</p>

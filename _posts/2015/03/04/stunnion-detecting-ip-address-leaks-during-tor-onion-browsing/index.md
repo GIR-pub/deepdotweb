@@ -7,9 +7,8 @@ STUNnion &#8211; Detecting IP Address Leaks During Tor .Onion Browsing
 <span>March 4, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/04/stunnion-detecting-ip-address-leaks-during-tor-onion-browsing/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The guys from <a href="https://cryptostorm.is">Cryptostorm.is</a> just released a new research regarding a security vulnerability that may affect and cause De-anonymization of Tor users browsing .onion sites <strong>without using the Tor Browser Bundle</strong> &#8211;  that includes the &#8220;expert&#8221; browser bundle via SOCKS proxy. The summary was shared with us and is brought to you here:</p>
 <p>A few weeks back, as we were working on mitigating <a title="Major Windows Security Flaw Leaks VPN Users Real IP Address" href="http://www.deepdotweb.com/2015/02/01/major-windows-security-flaw-leaks-vpn-users-real-ip-address/">webRTC</a>-based IP disclosures, we <a href="https://twitter.com/cryptostorm_is/status/569072686523129856">asked a question</a> in twitter&#8230;</p>
 <blockquote class="twitter-tweet" width="550">

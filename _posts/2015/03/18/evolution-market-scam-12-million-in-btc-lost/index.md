@@ -7,9 +7,8 @@ Evolution Market Scam: 12$ Million In BTC Lost?
 <span>March 18, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/18/evolution-market-scam-12-million-in-btc-lost/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Quick news update &#8211; Read the other articles at: #<a href="http://www.deepdotweb.com/tag/evoscam/">Evoscam</a> Tag.</p>
 <p>Several unconfirmed claims, based on blockchain analysis popped up on Reddit claiming that this is the main wallet of Evolution market admins and that they are holding up to 12$ million in BTC:</p>
 <p><a href="https://blockchain.info/address/1Ps2m56aEudGVKj7ch8mAje4x6bBzGVNgU?sort=0">https://blockchain.info/address/1Ps2m56aEudGVKj7ch8mAje4x6bBzGVNgU</a></p>

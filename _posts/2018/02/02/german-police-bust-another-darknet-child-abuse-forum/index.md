@@ -1,15 +1,15 @@
 ---
 German Police Bust Another Darknet Child Abuse Forum
 ---
-<article class="post-listing post-24643 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-bust tag-child tag-darknet tag-forum tag-german tag-police">
+<article class="post-listing post-24643 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-abuse tag-bust tag-child tag-darknet tag-forum tag-german tag-police">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 2, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/02/german-police-bust-another-darknet-child-abuse-forum/#comments">37 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to the public prosecutor of Hechingen and the Baden-Wuerttemberg State Office of Criminal Investigation (LKA), a lengthy investigation led to the arrest of a suspected operator of a darknet child abuse (“child pornography”) forum. The press release revealed very little. It reads in a way that suggests the authorities, for the time being, want to keep other forum members in a state of disarray and confusion.<img class="wp-image-24650 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>In the summer of 2017, investigators spotted a reference to a child pornography forum on the darknet, the press release explained. The authorities began to shift their focus to the spreading of child pornography on the darknet. <a href="https://www.presseportal.de/blaulicht/pm/110980/3837924">The press release</a> likely referred to Elysium, one of top 10 largest darknet child pornography forums in existence. Or was one of the top 10 until German authorities <a href="https://www.deepdotweb.com/2017/07/20/bka-seized-a-darknet-child-abuse-forum/">wrecked the site’s servers</a> and arrested the site’s owner, simultaneously taking several forum members. Many of the suspects recently received prison sentences, and German police are capturing new suspects on a weekly basis.</p>
 <p>However, this bust, it seems, involved yet another forum. The public prosecutor of Hechingen and the Baden-Wuerttemberg LKA reportedly investigated the case for months before catching a break. Alongside the police headquarters in Konstanz, LKA officials raided the apartment of a suspect in Sigmaringen, a town in the state of Baden-Württemberg. According to the press release, the investigation led to the discovery that the suspect may have been operating a darknet child pornography forum or service.</p>

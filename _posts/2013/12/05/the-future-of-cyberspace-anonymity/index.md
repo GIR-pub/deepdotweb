@@ -7,9 +7,8 @@ title: The Future of Cyberspace Anonymity
 <span>December 5, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/12/05/the-future-of-cyberspace-anonymity/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In its simplest concept, anonymity is a form of protection from the possibility of retribution or retaliation.  While major government powers and corporations see anonymity as a threat (often arguing that anonymity only serves to protect criminals), it has shielded political activists, journalists, and even investigators.  Anonymity is a tool –a tool that can be utilized for both wholesome and nefarious purposes.</p>
 <p>That said; it is well known that there is a war against anonymity, a war that has made headlines in recent months and received global attention.  Especially agencies like the NSA seek to dismantle the individual’s ability to remain anonymous, whereas, organizations like the Electronic Frontier Foundation seek to keep anonymity intact.  However, the issue on both sides of this conflict boils down to two simple questions:</p>
 <p>First, ‘what are their capabilities?’</p>

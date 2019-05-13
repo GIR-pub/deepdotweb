@@ -7,9 +7,8 @@ Bitcoin News Roundup – 04 Oct.2015
 <span>October 4, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/04/bitcoin-news-roundup-04-oct-2015/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Europol releases report on the bitcoin, stating it could become the go-currency for digital criminals in the EU. According to <a href="http://www.thepaypers.com/default/europol-states-that-bitcoin-may-become-the-go-currency-for-cybercriminals/761574-0">The Paypers</a><strong>, </strong>Europol’s Internet Organized Crime Threat Assessment for 2015 focuses on criminal financing and how the cryptocurrency technology is used for criminal activity. Given that the bitcoin accounts for 40% of criminal-to-criminal payments, whereas the PayPal accounts for 25% of those payments reported, Europol highlights the need for emerging technologies to monitor the alternate payment community for further intelligence into payment mechanisms.</p>
 <p>Australian financial sector targeted by bitcoin criminals. As Jamie Redman of <a href="http://bitcoinist.net/bitcoin-criminals-target-australian-financial-sector/">Bitcoinist</a> writes, following last week’s decision to close corporate bitcoin accounts without prior notice, the Australian banks now explain that they are under cyber-attack. To anticipate these sophisticated network attacks on banks, brokers, and Australian clearing-houses, the Australian government has initiated the Australian Cyber Security Centre (ACSC), a cyber security that will focus on lowering the hacking attack rate.</p>

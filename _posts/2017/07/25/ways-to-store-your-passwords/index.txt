@@ -195,9 +195,8 @@ var userSettings = {"url":"\/","uid":"0","time":"1501565385","secure":"1"};
 <span>July 25, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/07/25/ways-to-store-your-passwords/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>&nbsp;</p>
 <p>Storing a <a href="https://www.deepdotweb.com/2016/11/12/need-know-passwords/#comments">password</a> has always been a problem that involved other problems. Today everyone has a digital life made by different accounts for each activity, from online banking to email, from different forums to social networks, so it’s crucial to find a way to remember all the credentials, possibly avoiding password stealing. If you search on the web you’ll find a lot of articles about tools that help you to store your passwords securely but what these articles usually do, is present a list of useful tools. I’d personally prefer to make you reflect on the implications of using one or another storage system, helping you to find your favourite solution.</p>
 <p><img class="wp-image-21560 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-36.png" width="581" height="327" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-36.png 810w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-36-300x169.png 300w" sizes="(max-width: 581px) 100vw, 581px"/></p>

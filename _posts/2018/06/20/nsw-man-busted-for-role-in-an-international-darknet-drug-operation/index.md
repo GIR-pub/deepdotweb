@@ -1,15 +1,15 @@
 ---
 NSW Man Busted for Role in an International Darknet Drug Operation
 ---
-<article class="post-listing post-26073 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-darknet tag-drug tag-international tag-man tag-nsw tag-operation tag-role">
+<article class="post-listing post-26073 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-darknet tag-drug tag-international tag-man tag-nsw tag-operation tag-role">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>June 20, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/06/20/nsw-man-busted-for-role-in-an-international-darknet-drug-operation/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>An operation focused on a group of international darknet drug traffickers led to the arrest of the alleged Australian arm of the drug syndicate, <a href="http://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGNzA5MTQuaHRtbCZhbGw9MQ%3D%3D">an announcement</a> from New South Wales police revealed. Dozens of package seizures led to the suspect’s arrest and indictment with 45 counts of charges connected to drug distribution, importation, and conspiracy.<img class="wp-image-26076 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-55.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-55.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-55-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>In February 2018, investigators from Eastern Suburbs Police Area Command created the so-called “Strike Force Bergmark” in response to an influx of intercepted drug packages connected to the alleged drug syndicate. The operation involved the Australian Federal Police, the Australian Border Force, the State Crime Command’s Cybercrime Squad, and numerous local police departments. Law enforcement officers from Operation Odin also helped, the announcement explained.</p>
 <p>The Australian Border Force—a law enforcement agency <a href="https://www.deepdotweb.com/2017/04/27/australian-border-force-increase-darknet-presence/">well-known for its drug detection capabilities</a>—tracked dozens of drug packages from Europe to addresses all throughout Australia. The packages primarily arrived to locations in New South Wales, Western Australia, and Southern Australia. The packages contained methamphetamine, MDMA, cocaine, and ketamine. Law enforcement, since the investigation began, seized six kilograms of ecstasy pills, one kilogram of ketamine, five or more liters of liquid MDMA, 800 grams of crystallized MDMA, half a kilogram of methamphetamine, and half a kilogram of cocaine.</p>

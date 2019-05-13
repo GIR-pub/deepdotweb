@@ -1,7 +1,8 @@
 ---
 German Ex-politician Arrested For Selling Drugs On The Dark Web
 ---
-<article class="post-listing post-22947 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-dark tag-drugs tag-expolitician tag-german tag-selling tag-web">
+<article class="post-listing post-22947 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-dark tag-drugs tag-expolitician tag-german tag-selling tag-web">
     
 <div class="post-inner">
     

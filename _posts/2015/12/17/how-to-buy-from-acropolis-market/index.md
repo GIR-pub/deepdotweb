@@ -7,9 +7,8 @@ How To Buy From Acropolis Market?
 <span>December 17, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/12/17/how-to-buy-from-acropolis-market/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>One of the new Multisig markets that deserves some more love is <a href="https://www.deepdotweb.com/marketplace-directory/listing/acropolis-market/">Acropolis market</a>, the market is a <strong>referral only</strong> market, you can use this referral link to register:</p>
 <p><strong><a href="http://acropol4ti6ytzeh.onion/auth/register/BCBTNUERXY" target="_blank">http://acropol4ti6ytzeh.onion/auth/register/BCBTNUERXY</a></strong></p>
 <p>And check out reviews on <a href="https://www.deepdotweb.com/marketplace-directory/listing/acropolis-market/" target="_blank">Acropolis listing page</a>.</p>

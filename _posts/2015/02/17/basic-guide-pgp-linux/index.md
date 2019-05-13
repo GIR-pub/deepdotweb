@@ -7,9 +7,8 @@ Basic Guide to PGP On Linux
 <span>February 17, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/02/17/basic-guide-pgp-linux/#comments">68 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="usertext-body may-blank-within md-container">
 <div class="md">
 <p><em>Full credit goes to <a href="http://www.reddit.com/user/MLP_is_my_OPSEC">MLP_is_my_OPSEC</a> for writing this tutorial &#8211; Thanks for publishing  and giving us your permission to post it!</em></p>

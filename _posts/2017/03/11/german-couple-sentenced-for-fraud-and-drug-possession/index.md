@@ -1,15 +1,15 @@
 ---
 German Couple Sentenced For Fraud And Drug Possession
 ---
-<article class="post-listing post-18570 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18570 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 11, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/11/german-couple-sentenced-for-fraud-and-drug-possession/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 21-year-old woman and her partner from Horb am Neckar, Germany were <a href="http://www.schwarzwaelder-bote.de/inhalt.horb-dornstetten-betrogene-betruegerin-bleibt-auf-ware-sitzen.24eec465-c94e-4e77-8545-880b6bbeccd7.html">standing trial</a> for committing fraud and drug possession.</p>
 <p>According to official information from the Horb District Court, the woman created “several fake profiles with false information on a well-known commercial platform” (eBay or Amazon possibly). She also allegedly “hacked PayPal” to prove that she actually paid for her purchases. We do not really know how the suspect managed to breach PayPal’s systems. However, what we do know, is that the 21-year-old used information on the dark web to perform such activities.</p>
 <p><img class="wp-image-18575 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-1-jp.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\1.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-1-jp.jpeg 700w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-1-jp-300x200.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>

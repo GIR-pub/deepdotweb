@@ -7,9 +7,8 @@ Irish Dark Net Market Vendor Couple Pleaded Guilty
 <span>December 21, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/21/irish-dark-net-market-vendor-couple-pleaded-guilty/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.irishtimes.com/news/crime-and-law/courts/circuit-court/dublin-pair-plead-guilty-to-selling-drugs-on-dark-net-1.2471344">Neil Mannion (34) and Richard O’Connor (34), from Dublin, pleaded guilty for dark net related drug charges.</a> The pair has been selling drugs on Agora and Silkroad and were in possession of €143,000 worth of drugs at a garda raid in south Dublin in October 2014.</p>
 <p>Both men pleaded guilty to possession of LSD, amphetamine and cannabis resin with the intent to sell or supply at Bank House Business Centre, South Circular Road on November 5, 2014. Neither man has any previous convictions. Also, one of them works as a Bitcoin trader, the other as a film technician in ”real life”.</p>
 <p>Dublin Circuit Criminal Court stated that Mannion was the one who set up the dark web business and O’Connor was paid up to €600 a week to post the packages to customers worldwide.</p>

@@ -1,15 +1,15 @@
 ---
 Customs Seizures Of Illicit Darkweb Related Drugs Soar In New Zealand
 ---
-<article class="post-listing post-25485 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-customs tag-darkweb tag-drugs tag-illicit tag-related tag-seizures tag-soar tag-zealand">
+<article class="post-listing post-25485 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-customs tag-darkweb tag-drugs tag-illicit tag-related tag-seizures tag-soar tag-zealand">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>April 24, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/24/customs-seizures-of-illicit-darkweb-related-drugs-soar-in-new-zealand/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>New Zealand is seen as a remunerative market since purchasers are always been willing to pay higher prices for their illegal drugs. This is naturally engaging the interplay of the price mechanism, forcing the price of such drugs to rise in the country. Since suppliers are always willing to supply more at a higher price, the drug inflow through the country’s border has also increased significantly <a href="http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=12026833">leading to a higher number of intercepted drugs by customs agents</a>.</p>
 <p>The Detective Superintending Officer of the Police Department, Greg Williams, said to reporters that 4-5g of methamphetamine was sold at a street price of $2,500 in New Zealand. A reasonably heavy user might use this quantity in a week. The drug traffickers risk having some of their products taken by the Customs officers since they are inexpensive to be produced overseas.</p>
 <p>The New Zealand Customs Service has seized many packages over the years. According to data, the number of intercepted drug packages increases annually. The NZCS intercepted 35 packages of cocaine alone in 2015. This number skyrocketed to 93 in just a year. Going by the trend, it can be clearly seen that the number of intercepted drugs was quite small 10 years ago, but has increased significantly in the subsequent years. Methamphetamine, which is one of the highly trafficked drugs has also increased 10 times in five years. LSD, Ecstasy, and Opioids are the other drugs that are trafficked into the country. New Zealand has responded to the high drug influx by seizing and arresting traffickers to send a message. They <a href="https://www.deepdotweb.com/2017/08/22/operation-tiger-13-arrested-facing-drug-charges-new-zealand/">arrested 13 drug traffickers</a> last year and prosecuted them.</p>

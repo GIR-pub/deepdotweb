@@ -1,15 +1,15 @@
 ---
 Couple Arrested In France For Ordering Meth
 ---
-<article class="post-listing post-18418 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18418 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 3, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/03/couple-arrested-in-france-for-ordering-meth/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to the French news outlet la Dépêche de Tahiti, three people were <a href="http://la1ere.francetvinfo.fr/polynesie/couple-achete-ice-darknet-se-fait-epingler-442467.html">arrested</a> on Friday afternoon for attempting to purchase crystal meth from the dark net.</p>
 <p><img class="wp-image-18423 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/c-polynesia-1st.jpeg" alt="" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/c-polynesia-1st.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2017/02/c-polynesia-1st-300x169.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px"/></p>
 <p>The three persons were placed in customs detention before they were taken into police custody. Law enforcement authorities released the third suspect from the pre-trial detention, according to TNTV.</p>

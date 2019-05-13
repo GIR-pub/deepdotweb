@@ -7,9 +7,8 @@ Bitcoin News Roundup – 30 Aug. 2015
 <span>August 30, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/30/bitcoin-news-roundup-30-aug-2015/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>U.S teenager has been arrested for facilitating ISIS with bitcoins. As Deepak Tiwari of <a href="http://bitcoinist.net/american-teen-sentenced-11-years-helping-isil-bitcoin/">Bitcoinist</a>writes, Ali Shukri Amin, 17 has been sentenced to 11.3 years in prison for funding ISIS. According to the U.S. Department of Justice, Amin was arrested for providing advice to ISIS supporters as well as instructions on how to use the digital currency for funding terrorist activities. Further than his imprisonment, Amin is faced with a lifetime supervision, including monitored Internet activity.</p>
 <p>BTCChina backs BIP100 proposal regarding bitcoin block size. Grace Caffyn of <a href="http://www.coindesk.com/btcchina-support-gives-bip-100-bitcoin-hashrate-majority/">Coin Desk</a> reports that the China-based bitcoin exchange supportsJeff Garzik&#8217;s bitcoin &#8220;market-led&#8221; BIP 100 proposal, thus leading to strong support from three major blockmakers, BTCChina, BitFury and BitcoinXT, which cumulatively account for +50% of the bitcoin network. Bobby Lee, BTCChina CEO states<em>“We are in the unique position of seeing this from several sides, a mining pool, a wallet service, and an exchange. So we must come forward with a sound perspective.”</em></p>

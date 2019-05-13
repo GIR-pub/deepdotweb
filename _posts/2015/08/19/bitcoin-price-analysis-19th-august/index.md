@@ -7,9 +7,8 @@ Bitcoin Price Analysis 19th August
 <span>August 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/19/bitcoin-price-analysis-19th-august/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong><u>Bitcoin Market Fundamentals</u></strong></p>
 <p><strong>FinCEN, new ruling on commodity backed digital assets</strong></p>
 <p>This week, <a href="http://www.coindesk.com/fincen-rules-commodity-backed-token-services-are-money-transmitters/">Coindesk</a> reported FinCen’s response to an anonymous company inquiry, ruled that asset backed virtual currency tokens were not exempted from money transmitter laws subject to some preconditions. For instance companies working with tokens and coloured coins that allow customers and 3rd parties to exchange certificate of deposits might require money transmitter licenses. The company in question, deals in gold and bitcoin, issuing certificates on the blockchain.</p>

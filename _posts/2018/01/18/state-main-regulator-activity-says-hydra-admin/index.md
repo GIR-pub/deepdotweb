@@ -1,15 +1,15 @@
 ---
 “State is the main regulator of our activity” – says Hydra admin
 ---
-<article class="post-listing post-24470 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-activity tag-admin tag-hydra tag-main tag-regulator tag-state">
+<article class="post-listing post-24470 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-activity tag-admin tag-hydra tag-main tag-regulator tag-state">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>January 18, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/01/18/state-main-regulator-activity-says-hydra-admin/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Chief admin and creator of the leading <a href="https://www.deepdotweb.com/marketplace-directory/listing/hydra-russian/">Russian darknet market Hydra</a> gave <a href="http://zefir.site/intervyu-s-hydra-onion/">an interview</a> to Zefir (Crypto and technology news website). We translated it to make the text available to English speakers.<img class="wp-image-24473 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-30.jpeg" width="715" height="286" /></p>
 <p><strong>Do you remember when you used Tor browser for the first time? How did you know about it? Which websites did you visit?</strong></p>
 <p>&#8211; I was always worried about the Internet anonymity and safety, that is why I studied news and literature on this subject. I learned about .onion data routing in the early 2000s. Tor network seemed to be an excellent invention, which met my requirements. I started to use Tor to visit websites anonymously.</p>

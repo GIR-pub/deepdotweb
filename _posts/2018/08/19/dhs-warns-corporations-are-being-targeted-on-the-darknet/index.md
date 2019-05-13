@@ -1,15 +1,15 @@
 ---
 DHS Warns Corporations Are Being Targeted on the Darknet
 ---
-<article class="post-listing post-26586 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-corporations tag-darknet tag-dhs tag-targeted tag-warns">
+<article class="post-listing post-26586 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-corporations tag-darknet tag-dhs tag-targeted tag-warns">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>August 19, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/19/dhs-warns-corporations-are-being-targeted-on-the-darknet/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In a new alert issued by the United States Department of Homeland Security (DHS), the agency is warning that corporate applications are being targeted by hackers using the darknet. The DHS issued the <a href="https://www.us-cert.gov/ncas/current-activity/2018/07/25/Malicious-Cyber-Activity-Targeting-ERP-Applications">alert</a> based on information it had received in a report from the cybersecurity and digital risk management firms Digital Shadows and Onapsis. Their report claims that Enterprise Resource Planning applications are being targeted by criminals on the darknet. Enterprise Resource Planning applications typically contain a company’s most confidential and private information.</p>
 <p>The new cybersecurity alert was issued by a division of the <a href="https://www.deepdotweb.com/tag/dhs/">DHS</a> known as the United States Computer Emergency Readiness Team, or US-CERT, which itself is under the DHS National Protection and Programs Directorate (NPPD). US-CERT is also a branch of the National Cybersecurity and Communications and Integration Center and the Office of Cybersecurity and Communications (CS&amp;C). The National Cybersecurity and Communications Integration Center is the DHS cyber defense and cyber incident response branch.</p>
 <p>The <a href="https://www.deepdotweb.com/2017/10/03/dhs-issues-165-new-medicare-numbers-darknet-fiasco/">DHS</a> had previously issued an alert in May of 2016 that 36 international organizations had been the target of <a href="https://www.deepdotweb.com/2016/02/11/fbi-and-dhs-hacked/">hackers</a>. In the new report from Digital Shadows and Onapsis, researchers said that they believe that the May 2016 alert from the DHS was “only the tip of the iceberg,” and that attacks from hackers “evolved” and “expanded.” Through the partnership of digital risk management firms Digital Shadows and Onapsis, their experts have obtained research and threat intelligence from the darknet, as well as other sources. Experts from Onapsis also obtained data for the report from incident responses and forensic investigations of attacks on Enterprise Resource Planning applications.</p>

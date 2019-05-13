@@ -1,15 +1,15 @@
 ---
 Major Narcotics Bust In India – 24 Arrested
 ---
-<article class="post-listing post-18591 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1898 tag-arrested tag-bust tag-india tag-major tag-narcotics">
+<article class="post-listing post-18591 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-1898 tag-arrested tag-bust tag-india tag-major tag-narcotics">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 13, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/13/major-narcotics-bust-india-24-arrested/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The narcotics squad of Bengaluru’s crime department <a href="http://timesofindia.indiatimes.com/city/bengaluru/cops-sniff-out-drug-peddlers-bust-key-points/articleshow/57336683.cms">arrested</a> two persons on Thursday who are suspected of selling drugs to students in India. Earlier this week, law enforcement authorities in the city detained two other suspects, a catering student and an Austrian national, who also sold illicit substances.</p>
 <p>The local authorities in Bengaluru conducted a major operation against narcotics dealers. Since the beginning of January, they started an investigation in 12 cases, which resulted in the arrest of 24 suspects, including 14 foreign nationals. This month, police performed nine <a href="https://www.deepdotweb.com/tag/drugs/">drug</a> busts, seizing large quantities of cocaine, LSD, and methamphetamine. According to The Times of India, this has been the biggest crackdown on the narcotics trade in Bengaluru.</p>
 <p>&#8220;We have been examining the drug trade with inputs from the gang members and informers and have ascertained a few key locations in the city. MG Road, CMH Road, and Old Madras Road are key spots where people buy drugs. African nationals are the main dealers and operate from Hennur, Banaswadi, Ramamurthy Nagar and Hennur,&#8221; an officer from the narcotics squad said.</p>

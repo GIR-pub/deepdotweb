@@ -1,15 +1,15 @@
 ---
 Kentucky Man Sentenced to 87 Months in PlayPen Case
 ---
-<article class="post-listing post-24494 post type-post status-publish format-standard hentry category-deepdot-news category-news-updates tag-5949 tag-case tag-kentucky tag-man tag-months tag-playpen tag-sentenced">
+<article class="post-listing post-24494 post type-post status-publish format-standard hentry 
+category-news-updates tag-5949 tag-case tag-kentucky tag-man tag-months tag-playpen tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 20, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/20/kentucky-man-sentenced-87-months-playpen-case/#comments">14 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>As a result of a “nationwide operation conducted by the FBI” that investigated child abusers and downloaders of child pornography on the darknet, 29-year-old Craig T. Anderson will spend the next 87 months in federal prison. In 2017, Anderson pleaded guilty to knowingly receiving child pornography. FBI Special Agent in Charge Amy Hess and Robert M. Duncan, Jr., United States Attorney for the Eastern District of Kentucky <a href="https://www.justice.gov/usao-edky/pr/pikeville-man-sentenced-87-months-receiving-child-pornography">announced the man’s prison sentence</a>.<img class="wp-image-24502 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-36.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-36.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-36-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The press release issued by the U.S. Attorney’s Office for the Eastern District of Kentucky did not mention the Federal Bureau of Investigation’s Operation Pacifier. However, even the few pieces of information revealed in the announcement pointed directly to the <a href="https://www.deepdotweb.com/2016/12/01/fbi-hacked-8000-computers-120-countries-single-warrant/">disturbingly illegal investigation</a> into the users of the darknet child pornography forum “PlayPen.” The announcement explained that the FBI caught Anderson during a nationwide operation led by the FBI. The FBI found that Anderson had accessed and downloaded significant amounts of child pornography from a site he accessed through the Tor browser. He allegedly saved the images in his Tor browser directory.</p>
 <p>At a previous court appearance, Anderson admitted that he had accessed a site and downloaded child pornography in February 2015. The FBI’s only evidence that he received child pornography came from the “nationwide investigation” that occured in February 2015. One might remember the Opening Brief in the case against another PlayPen member named David Tippens. “In early 2015, the FBI operated a website called “Playpen” and became one of the world’s largest distributors of child pornography. While operating the site, the FBI obtained a search warrant in Virginia and, despite the warrant’s limited authorization, targeted thousands of computers around the world,” the document read.</p>

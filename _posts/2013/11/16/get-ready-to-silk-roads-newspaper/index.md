@@ -7,9 +7,8 @@ title: Get Ready To Silk Road&#8217;s&#8230;. Newspaper?!
 <span>November 16, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/16/get-ready-to-silk-roads-newspaper/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Every time we think that we have seen just about everything we find another surprise, this time at the form of a plan to create a newspaper to report whats new on the silk road, a user under the name of &#8221; Raoul Duke &#8221; posted the following:</p>
 <p>&nbsp;</p>
 <p><a href="/imgs/2013/11/newspaper.jpg"><img class="aligncenter size-full wp-image-1354" alt="newspaper" src="https://www.deepdotweb.com/wp-content/uploads/2013/11/newspaper.jpg" width="906" height="395" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/11/newspaper.jpg 1861w, https://www.deepdotweb.com/wp-content/uploads/2013/11/newspaper-300x131.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/newspaper-1024x447.jpg 1024w" sizes="(max-width: 906px) 100vw, 906px" /></a></p>

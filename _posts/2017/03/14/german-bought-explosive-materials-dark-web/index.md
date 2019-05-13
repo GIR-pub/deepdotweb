@@ -1,15 +1,15 @@
 ---
 German Bought Explosive Materials From Dark Web
 ---
-<article class="post-listing post-18614 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bought tag-dark tag-explosive tag-german tag-materials tag-web">
+<article class="post-listing post-18614 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bought tag-dark tag-explosive tag-german tag-materials tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 14, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/14/german-bought-explosive-materials-dark-web/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On Saturday, a 21-year-old from Mühldorf am Inn, Germany <a href="https://www.wasserburg24.de/wasserburg/haager-land/gars-am-inn-ort84101/sprengsatz-darknet-riesen-knall-erschreckt-garser-7438464.html">constructed</a> an explosive set in a gravel pit in Gars am Inn. Witnesses heard the detonation and immediately informed law enforcement authorities. Fortunately, no one was injured in the life-threatening incident. The criminal investigation department in Mühldorf started investigating the case.</p>
 <p>Shortly after the detonation, two vehicles escaped and witnesses informed the police. Due to the witness reports, all parties of the incident were quickly identified and questioned. The investigation revealed that the 21-year-old ordered materials from the dark web, which he used to construct the explosives. The highly flammable substances are subject to the law on explosives, and may only be used by authorities (eg. in the industry).</p>
 <p>The 21-year-old, who, according to his statement to the police, was highly interested in fireworks, built up his own ”barge” after he received the materials. He invited numerous friends to the gravel pit to see the detonation. Due to the high force of the explosion, all the participants were surprised.</p>

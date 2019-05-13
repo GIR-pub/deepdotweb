@@ -7,9 +7,8 @@
 <span>March 25, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/03/25/12-things-to-do-while-your-market-is-down/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>After the <a href="http://www.deepdotweb.com/tag/evoscam/">Evo Scam</a>, and while looking at the uptime status widget who looks like that (at least when this post was published):</p>
 <p><a href="/imgs/2015/03/uptime.png"><img class="aligncenter size-full wp-image-9641" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/uptime.png" alt="uptime" width="344" height="385" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/uptime.png 344w, https://www.deepdotweb.com/wp-content/uploads/2015/03/uptime-268x300.png 268w" sizes="(max-width: 344px) 100vw, 344px" /></a>And while you are waiting for <a href="http://www.deepdotweb.com/2015/03/24/agora-admin-site-downtime-for-24-48-hours/">Agora to come back from its downtime</a>.  Here are some fun dark net markets related things you can do until your favorite market will be back:</p>
 <ol>

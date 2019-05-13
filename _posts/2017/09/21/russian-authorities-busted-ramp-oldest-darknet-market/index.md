@@ -1,7 +1,8 @@
 ---
 Russian Authorities Busted RAMP, the Oldest Darknet Market
 ---
-<article class="post-listing post-22664 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-authorities tag-busted tag-darknet tag-market tag-oldest tag-ramp tag-russian">
+<article class="post-listing post-22664 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-authorities tag-busted tag-darknet tag-market tag-oldest tag-ramp tag-russian">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 21, 2017</span>

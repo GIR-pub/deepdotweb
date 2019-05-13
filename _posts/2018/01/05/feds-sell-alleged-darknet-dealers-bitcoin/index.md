@@ -1,15 +1,15 @@
 ---
 Feds to Sell Alleged Darknet Dealer’s Bitcoin
 ---
-<article class="post-listing post-24282 post type-post status-publish format-standard hentry category-deepdot-news category-news-updates tag-alleged tag-bitcoin tag-darknet tag-dealers tag-feds tag-sell">
+<article class="post-listing post-24282 post type-post status-publish format-standard hentry 
+category-news-updates tag-alleged tag-bitcoin tag-darknet tag-dealers tag-feds tag-sell">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 5, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/05/feds-sell-alleged-darknet-dealers-bitcoin/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In December, a federal judge signed an order that allowed the U.S. government to sell bitcoin seized in an investigation into a fentanyl trafficking ring in Utah. Even though the defendants and original owners of the assets still faced charges in court, the U.S. Attorney’s Office moved to sell the digital currency and vehicles prior to any sentencing, citing the volatility of bitcoin. All six defendants, through their legal representation, agreed to the Attorney’s Office proposal.<img class="wp-image-24285 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-7.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-7.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-7-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The assets belonged to <a href="https://www.deepdotweb.com/2017/06/18/six-indicted-darknet-fentanyl-distribution-ring/">Aaron Shamo</a> and his five co-conspirators who, according to a November 2016 Criminal Complaint, produced and distributed counterfeit Oxycodone pills using fentanyl from China. Shamo and his primary accomplice, Drew Wilson Crandall, sold the fake oxycodone pills on the darknet under the name “Pharma-master,” investigators said.</p>
 <p><img class="wp-image-24286" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-10.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-10.png 1044w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-10-300x139.png 300w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-10-1024x476.png 1024w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-10-272x125.png 272w" sizes="(max-width: 1044px) 100vw, 1044px" /></p>

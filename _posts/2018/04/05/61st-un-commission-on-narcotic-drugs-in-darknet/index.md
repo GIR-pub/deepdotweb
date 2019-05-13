@@ -1,15 +1,15 @@
 ---
 61st UN Commission on Narcotic Drugs in Darknet
 ---
-<article class="post-listing post-25274 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-61st tag-commission tag-darknet tag-drugs tag-narcotic">
+<article class="post-listing post-25274 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-61st tag-commission tag-darknet tag-drugs tag-narcotic">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/isaacddanso/" title="">Isaac Danso </a></span>
 <span>April 5, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/05/61st-un-commission-on-narcotic-drugs-in-darknet/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.seronet.info/article/61e-commission-des-stupefiants-de-lonu-81262">The CND for &#8220;Commission on narcotic drugs&#8221; also known as the 61st Commission on Narcotic Drugs met from 12 to 16 March in Vienna (Austria)</a>. Present at the meeting were: Head of Advocacy and Claims; Enzo Poultreniez (AIDES activists), Human Rights Project Coordinator; Nicolas Denis and two African partners in the Human Rights Project thus, Alain Kra (Africa Coordinator of the Côte d&#8217;Ivoire-based undertaking) and Charles Somé (promotion officer situated in Burkina Faso).<img class="wp-image-25275 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/61st-un-commission-on-narcotic-drugs-in-darknet.jpeg" alt="61st UN Commission on Narcotic Drugs in Darknet" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/61st-un-commission-on-narcotic-drugs-in-darknet.jpeg 730w, https://www.deepdotweb.com/wp-content/uploads/2018/04/61st-un-commission-on-narcotic-drugs-in-darknet-300x177.jpeg 300w" sizes="(max-width: 730px) 100vw, 730px" /></p>
 <p><strong>The UN Commission on Narcotics (CDN) </strong></p>
 <p>The CND was created in 1946 and serves as the decision-making and monitoring body for the implementation of the three international treaties that govern world drug policy, thus, the Single Convention on Narcotic Drugs (1961), the Convention on Psychotropic Substances (dating from 1971) and the United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances (1988). These three criminalize the utilization, ownership, trafficking, and production of certain psychoactive products as well as money laundering. The commission also decides the products which are legal or illegal at the world level (through the International narcotics control board &#8211; INCB). Additionally, the CND is the governing body of the UNODC, thus, the United Nations Office on Drugs and Crime.</p>

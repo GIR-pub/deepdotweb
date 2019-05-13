@@ -1,15 +1,15 @@
 ---
 Europe-wide Raids In Three Countries Taking Down Cybercrime Network
 ---
-<article class="post-listing post-18785 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-countries tag-cybercrime tag-europewide tag-network tag-raids">
+<article class="post-listing post-18785 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-countries tag-cybercrime tag-europewide tag-network tag-raids">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 25, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/25/europe-wide-raids-three-countries-taking-cybercrime-network/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On Tuesday, law enforcement authorities in three European countries <a href="http://abcnews.go.com/Technology/wireStory/europe-wide-raids-suspects-online-banking-fraud-45986129">raided numerous locations</a> and detained several suspects who were linked to a <a href="https://www.deepdotweb.com/tag/cybercrime/">cybercrime</a> forum on the dark web.</p>
 <p><img class="wp-image-18791 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/computer-keyboard.jpeg" alt="Computer keyboard" width="645" height="363" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/computer-keyboard.jpeg 860w, https://www.deepdotweb.com/wp-content/uploads/2017/03/computer-keyboard-300x169.jpeg 300w" sizes="(max-width: 645px) 100vw, 645px"/></p>
 <p>Just in Germany, more than 1,000 investigators searched over 120 homes and offices in connection with crimenetwork.biz. On the dark net website, cybercriminals were selling various illicit products, including stolen goods, narcotics, and medication.</p>

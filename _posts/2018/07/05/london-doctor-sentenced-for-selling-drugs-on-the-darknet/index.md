@@ -1,15 +1,15 @@
 ---
 London Doctor Sentenced for Selling Drugs on the Darknet
 ---
-<article class="post-listing post-26211 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-doctor tag-drugs tag-london tag-selling tag-sentenced">
+<article class="post-listing post-26211 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-darknet tag-doctor tag-drugs tag-london tag-selling tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 5, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/05/london-doctor-sentenced-for-selling-drugs-on-the-darknet/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On June 22, Judge Patrick Thompson of the Chester Crown Court <a href="http://www.chesterstandard.co.uk/news/16309004.Doctor_s_career_in_tatters_after_being_jailed_for_importing_and_selling_drugs/">sentenced a London doctor</a> to four years and eight months in prison for selling drugs on the darknet. The doctor, Dr. Tim Kerr, 28, had previously pleaded guilty to two counts of conspiracy to supply Class A drugs, one count of importing illegal substances, and one count of conspiracy to supply Class B drugs.<img class="wp-image-26216 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-15.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-15.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-15-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>After meeting fellow student Adrian Tickridge-Day, 27, Dr. Tim Kerr devised a plan that ultimately brought both men thousands of dollars worth of “supplemental income.” Authorities did not reveal many details in court. In part, perhaps, because investigators had gathered very little information about the duo’s operation. The investigation into Dr. Kerr and Tickridge-Day lasted less than a full month.</p>
 <p>On March 29, 2016, the Border Force intercepted a package addressed to Day’s home in Chester. The package, prosecutor Mandy Nepal told the court, contained at least <a href="https://www.deepdotweb.com/tag/ecstasy/">220 ecstasy pills</a>. The ecstasy pills brought the importation drug charge and one of the conspiracy to supply a Class A drug charges. Less than one month later, in April 2016, authorities detained both men at the Manchester Airport. They allowed Dr. Kerr to leave but arrested Day after discovering multiple cell phones and £2,000 in cash on his person. They later searched his home and discovered more ecstasy, cocaine, and ketamine. They also found bags, scales, and other items used in a drug trafficking operation.</p>

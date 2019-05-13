@@ -1,15 +1,15 @@
 ---
 Man Get Prison Time for Filming and Uploading CP to the Darknet
 ---
-<article class="post-listing post-24598 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cp tag-darknet tag-filming tag-man tag-prison tag-time tag-uploading">
+<article class="post-listing post-24598 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-cp tag-darknet tag-filming tag-man tag-prison tag-time tag-uploading">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 29, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/29/man-get-prison-time-filming-uploading-cp-darknet/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Périgueux Criminal Court, in early January, <a href="http://www.sudouest.fr/2018/01/10/perigueux-dix-ans-de-prison-pour-le-pedophile-4098354-1980.php">sentenced a 31-year-old pedophile</a> for sexual assault against four children and distributing child pornography on the darknet. The court followed the prosecution&#8217;s request and handed down a prison sentence of 10 years. Not only did he abuse several children, he also uploaded videos of the abuse to child pornography forums on the darknet and downloaded child pornography uploaded by other members of forums like <a href="http://deepdotweb.com/tag/playpen">PlayPen</a> and <a href="https://www.deepdotweb.com/tag/Elysium/">Elysium</a>.<img class="wp-image-24604 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-51.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-51.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-51-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Between 2006 and 2016, the prosecution told the court on a January 9 court appearance, the defendant abused four girls on several occasions. Some of the girls, at the time of the assaults, had only been living for four years. The oldest child he abused was only 12 years old. The court heard how the 31-year-old committed these acts in the Haute-Garonne, Bergerac and Périgueux regions of France. However, although the court sessions revealed nothing about the darknet investigation that led to the man’s arrest, they provided an example of the man’s activity. As usual in these cases, the darknet-related charges hardly differed from any other pedophile that authorities caught in recent investigations into darknet forums and bulletin boards.</p>
 <p>The prosecution asked the court to impose the maximum punishment possible for the crimes the 31-year-old committed. This request, apart from coming from the prosecution that inherently aims to clear cases, stemmed from the severity of the crimes committed and the threat he posed to his victims and potential victims in the future. A short prison sentence would not keep him away from society long enough to matter, the prosecution argued. The prosecutor of the republic, Anne-Claire Galois, asked for not only the maximum sentence, but also conditions post release.</p>

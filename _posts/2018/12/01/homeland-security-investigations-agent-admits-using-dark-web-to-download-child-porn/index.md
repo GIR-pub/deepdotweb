@@ -1,15 +1,15 @@
 ---
 Homeland Security Investigations Agent Admits Using Dark Web to Download Child Porn
 ---
-<article class="post-listing post-27431 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-agent tag-child tag-dark tag-download tag-homeland tag-investigations tag-porn tag-security tag-web">
+<article class="post-listing post-27431 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-admits tag-agent tag-child tag-dark tag-download tag-homeland tag-investigations tag-porn tag-security tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>December 1, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/12/01/homeland-security-investigations-agent-admits-using-dark-web-to-download-child-porn/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>One of two federal agents caught in their agency’s own investigation into users of a dark web child abuse forum <a href="https://www.expressnews.com/news/local/article/Federal-agent-to-plead-guilty-to-child-porn-13388623.php">pleaded guilty</a> to two different child pornography charges, according to the recently updated court docket.<img class="wp-image-27437 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-58.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-58.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-58-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Richard Nikolai Gratkowski, a former Homeland Security Investigations agent, had been working for Homeland Security Investigations for almost 10 years at the time of his arrest. His area of expertise was gang investigations. Gratkowski, a 40-year-old Texas resident, <a href="https://www.deepdotweb.com/2018/02/03/two-homeland-security-agents-arrested-downloading-child-porn/">was arrested in January 2018</a> after his own agency had sent information about Gratkowski to the Federal Bureau of Investigation. Even though the man was not involved in Homeland Security Investigations’ dark web cases, investigating one of their own agents would still have been considered a conflict of interest.</p>
 <p>The FBI followed up on the information collected by Homeland Security Investigations during one of the more recent operations that targeted the users of multiple <a href="https://www.deepdotweb.com/2018/11/04/alleged-admin-of-a-child-abuse-forum-on-the-darkweb-arrested-in-france/">dark web child abuse forums</a>. Even though very little information about the actual operation has been revealed with a direct connection to the operation, a number of recent cases linked to a much larger Homeland Security Investigations operation have been adding some pieces of information to the puzzle. As with any ongoing investigation, law enforcement has opted to provide as little information as possible in an effort to preserve the investigation&#8217;s integrity.</p>

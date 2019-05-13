@@ -1,15 +1,15 @@
 ---
 USPS Employee Admits Selling Drugs on the Darknet
 ---
-<article class="post-listing post-25869 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-darknet tag-drugs tag-employee tag-selling tag-usps">
+<article class="post-listing post-25869 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-admits tag-darknet tag-drugs tag-employee tag-selling tag-usps">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 30, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/30/usps-employee-admits-selling-drugs-on-the-darknet/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In a federal court in Baltimore, Maryland, Cory Nicholas Skinner, 32, pleaded guilty to drug trafficking charges and admitted that he had been operating a vendor account on <a href="https://www.deepdotweb.com/marketplace-directory/listing/dream-market">the Dream darknet market</a>. The 32-year-old admitted that he had worked as a United States Post Office employee while distributing cocaine, heroin, and buprenorphine on the darknet.<img class="wp-image-25874 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-61.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-61.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-61-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Both United States Attorney for the District of Maryland Robert K. Hur and Charge Robert B. Wemyss, Inspector in Charge of the Washington Division of the United States Postal Inspection Service <a href="https://www.justice.gov/usao-md/pr/former-us-postal-worker-and-dark-web-vendor-pleads-guilty-conspiracy-distribute-heroin">announced the guilty plea</a>. Although, in most cases, the US Attorney makes the announcement or primary announcement, the United States Postal Inspection Service (as well as the Postal Service itself) had a vested interest in the investigation and defendant.</p>
 <p>The investigation began with a University of Arkansas police officer&#8217;s fatal overdose. More specifically, the investigation began underneath the fallen officer&#8217;s head. A detective with the Conway Police Department in Arkansas, while examining the deceased officer&#8217;s body, noticed <a href="https://www.deepdotweb.com/tag/usps/">a USPS package</a> under the officer&#8217;s head. Someone from Baltimore, Maryland, had shipped the Priority Mail envelope to the fallen officer&#8217;s address.</p>

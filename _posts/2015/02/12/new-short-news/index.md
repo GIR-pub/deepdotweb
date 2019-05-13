@@ -7,9 +7,8 @@ New: Short news!
 <span>February 12, 2015</span>
 <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="http://www.deepdotweb.com/2015/02/12/new-short-news/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
     

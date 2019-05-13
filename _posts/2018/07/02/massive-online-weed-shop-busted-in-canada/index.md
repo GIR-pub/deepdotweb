@@ -1,15 +1,15 @@
 ---
 Massive Online Weed Shop Busted in Canada
 ---
-<article class="post-listing post-26173 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-canada tag-massive tag-online tag-shop tag-weed">
+<article class="post-listing post-26173 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-canada tag-massive tag-online tag-shop tag-weed">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 2, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/02/massive-online-weed-shop-busted-in-canada/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.alert-ab.ca/illegal-online-drug-dispensary-shut-down/">A press release</a> issued by the Alberta Law Enforcement Response Teams (ALERT) revealed that investigators had shut down an online drug shop. The announcement explained that three men from Edmonton had been running a so-called “<a href="https://www.deepdotweb.com/tag/drug/">mail-order drug distribution network</a>” from a home near 80 Avenue. Canadian law enforcement arrested all three men and charged them with drug trafficking and possession crimes, along with one charge of dealing with the proceeds of a crime.<img class="wp-image-26176 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>According to local news reports, an anonymous tipster alerted the police of the illegal activity conducted in the Edmonton home. Three men in their 30s allegedly ran the operation: Jared Melnychuk, 33, Kevin Melnychuk, 33, and Cory Gibeau, 32. According to the ALERT announcement, the men had been trafficking for less than one year but their recently established “business” had no difficulty in moving significant quantities of illegal substances.</p>
 <p>The men sold primarily <a href="http://deepdotweb.com/tag/marijuana">marijuana products</a> on their shop, CannabisCanada.today. The latest crawl of the website included listings for Phyto Extractions’ various cannabis concentrates (shatter), different products from the solvent-free THC concentrate producer “Golden Coast Distillates,” Powdered CBD isolate, bud coated in THC distillate and rolled in kief, and several listings for various amounts of premium strains of marijuana. They had listings for “OG Kush,” “Master Kush,” King’s Kush,” and others. As reflected by the site’s title, the suspected drug dealers sold primarily marijuana products on CannabisCanada.</p>

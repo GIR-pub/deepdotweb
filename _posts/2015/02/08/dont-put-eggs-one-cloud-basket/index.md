@@ -7,9 +7,8 @@ Don’t Put All Your Eggs In One Cloud Basket
 <span>February 8, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/08/dont-put-eggs-one-cloud-basket/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In 2013, the worldwide public cloud service market hit about $131 billion and is expected to grow by 62% to more than $160 billion by 2015, according to Gartner. Of those companies already using the cloud, between 80 and 87 percent are working in a multi-cloud environment. Private cloud-only deployments will soon be passé as the inevitable hybrid and/or multi-cloud strategies take root.</p>
 <p>Businesses are revisiting their cloud deployment strategies and beginning to port workloads from cloud to cloud, no longer settling for vendor lock-in and a ‘one size fits all’ approach. Flexibility is inherent in multi-cloud strategies, providing businesses with an expanded ability to choose services based on preferences and requirements – such as which workloads run where – rather than according to what a single provider may be able to offer. By using resources and services from multiple cloud providers, businesses are spreading any risk of downtime or security vulnerabilities among those providers.</p>
 <p>From the security perspective, having your infrastructure divided across multiple cloud providers reduces the risk that your operations will be disrupted due to attacks on a single cloud. The recent demise of Code Spaces due to an AWS security hack illustrates the possibilities and extreme dangers of malicious insiders in a single cloud. In the case of Code Spaces’ downfall, credentials were hacked and all their AWS database and instances were deleted, with no way to restore service.</p>

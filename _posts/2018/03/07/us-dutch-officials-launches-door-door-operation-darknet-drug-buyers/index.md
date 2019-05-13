@@ -1,15 +1,15 @@
 ---
 The US And Dutch Officials Launches Door To Door Operation on Darknet Drug Buyers
 ---
-<article class="post-listing post-24986 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buyers tag-darknet tag-door tag-drug tag-dutch tag-launches tag-officials tag-operation">
+<article class="post-listing post-24986 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-buyers tag-darknet tag-door tag-drug tag-dutch tag-launches tag-officials tag-operation">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>March 7, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/07/us-dutch-officials-launches-door-door-operation-darknet-drug-buyers/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <h2></h2>
 <p><a id="post-24986-_gjdgxs"></a> Following the recent rate of Darknet drug purchases across Europe, authorities in <a href="http://www.thejakartapost.com/news/2018/02/16/us-dutch-officers-swoop-on-dark-web-drug-buyers.html">the US and the Netherlands have teamed up</a> to embark on a door to door search leading to the arrest of potential darknet drug buyers.</p>
 <p>The US and the Netherlands are two of the leading drug trafficking nations in the world, and it is no surprise that the authorities embarked on such an operation. Similar campaigns have been engaged in the past but the darknet users continue to rise annually.</p>

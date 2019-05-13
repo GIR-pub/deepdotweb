@@ -1,15 +1,15 @@
 ---
 Ross Ulbricht is Officially on Twitter
 ---
-<article class="post-listing post-26471 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-officially tag-ross tag-twitter tag-ulbricht">
+<article class="post-listing post-26471 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-officially tag-ross tag-twitter tag-ulbricht">
 <div class="post-inner">
 <<span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>August 5, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/05/ross-ulbricht-is-officially-on-twitter/#comments">11 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Ross Ulbricht has taken his voice where it all started – online. On July 19, the incarcerated Silk Road founder made his first tweet since being arrested and incarcerated for life. In it, he expressed that the giant social media site could help him find his voice after so many years of silence. In just a few days, over 12,000 accounts followed him.<img class="wp-image-26474 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/image-result-for-ross-ulbricht-1.jpeg" alt="Image result for ross ulbricht" width="566" height="378" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/image-result-for-ross-ulbricht-1.jpeg 1469w, https://www.deepdotweb.com/wp-content/uploads/2018/08/image-result-for-ross-ulbricht-1-300x200.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2018/08/image-result-for-ross-ulbricht-1-1024x683.jpeg 1024w, https://www.deepdotweb.com/wp-content/uploads/2018/08/image-result-for-ross-ulbricht-1-290x195.jpeg 290w" sizes="(max-width: 566px) 100vw, 566px" /></p>
 <p>Even though the letter posted to the <a href="https://freeross.org/">FreeRoss.org</a> website by his family earlier indicated that Ross was not exactly sure of what to tweet, and that he would figure out as time goes, he made the maiden post on Thursday last week.</p>
 <p>He further made three more consecutive tweets for three days. After the first tweet on hoping to find his voice once again through the platform, Ross made a second tweet on the second day thanking his supporters for rallying up a presidential pardon petition. He mentioned that he had received nine pages of comments on his petition in the mail. He also expressed gratitude for retweets; information about it had been passed to him by his mother who has been a major player in connecting him with the world. It might have taken only a day, but Ross said on July 20, that he was beginning to feel the ‘connection’ he was hoping for.</p>

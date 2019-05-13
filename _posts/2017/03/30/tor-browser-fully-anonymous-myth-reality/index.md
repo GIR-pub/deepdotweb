@@ -1,15 +1,15 @@
 ---
 Is The Tor Browser Fully Anonymous? (The Myth and Reality)
 ---
-<article class="post-listing post-18884 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-browser tag-fully tag-myth tag-reality tag-tor">
+<article class="post-listing post-18884 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-anonymous tag-browser tag-fully tag-myth tag-reality tag-tor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 30, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/30/tor-browser-fully-anonymous-myth-reality/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Many think that Tor is a fully anonymous and secure means for browsing the internet, that doesn&#8217;t give a chance to anyone to monitor one&#8217;s browsing behavior and trace it back to his/her physical location, but is this really true?</p>
 <p>Tor is not perfectly anonymous, as it has a group of risks and limitations, which one should pay attention to, before using it. There are many <a href="https://www.deepdotweb.com/2017/03/06/proactive-response-detection-tor-predtor-tool-de-anonymizing-tor-traffic/">ways that can help deanonymize Tor&#8217;s traffic</a>. The following represents the most commonly used ways to monitor Tor&#8217;s internet traffic and trace its origin.</p>
 <p><strong>Exit Node Sniffing:</strong></p>

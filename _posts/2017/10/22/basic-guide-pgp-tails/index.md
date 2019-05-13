@@ -1,15 +1,15 @@
 ---
 Basic guide to PGP on Tails
 ---
-<article class="post-listing post-23197 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-basic tag-guide tag-pgp tag-tails">
+<article class="post-listing post-23197 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-basic tag-guide tag-pgp tag-tails">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/iris/" title="">Iris </a></span>
 <span>October 22, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Part 0 – Introduction</strong></p>
 <p>Experienced readers already know that PGP is just as essential to survive in the DNM scene as a secure Operating System (OS) setup. However it is not enough to have them, you also need to know how to use them properly.</p>
 <p>While there are already guides for using PGP <a href="https://www.deepdotweb.com/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">on Windows</a>, <a href="http://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/">OS X</a> and <a href="https://www.deepdotweb.com/2015/02/17/basic-guide-pgp-linux/">Linux</a>, this guide is specifically for Tails. The main difference between the existing Linux guide and this one is that this guide uses the built-in PGP tool of Tails, so you do not have to install additional software. Any software you install on Tails would get removed any way, since Tails resets all data outside of the persistence directory with every reboot. Furthermore this guide uses the latest version of Tails (v 3.2) to ensure that is as compatible as possible. If you have a newer Tails version you can still follow this guide as there should not be major changes regarding using PGP on Tails. If you are not using the latest version of Tails, please <a href="https://tails.boum.org/doc/first_steps/upgrade/index.en.html">follow the upgrade process</a> before reading further.</p>

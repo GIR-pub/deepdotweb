@@ -1,15 +1,15 @@
 ---
 Research: The aftermaths of Operation Bayonet and the migration of vendors to Dream Market
 ---
-<article class="post-listing post-27150 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-aftermaths tag-bayonet tag-dream tag-market tag-migration tag-operation tag-research tag-vendors">
+<article class="post-listing post-27150 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-aftermaths tag-bayonet tag-dream tag-market tag-migration tag-operation tag-research tag-vendors">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>November 7, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/11/07/research-the-aftermaths-of-operation-bayonet-and-the-migration-of-vendors-to-dream-market/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In the summer of 2017, an international operation, known as <a href="https://www.deepdotweb.com/2018/03/16/operation-bayonet-htcu-took-hansa-market-offline/">Operation Bayonet</a>, led by the FBI and the Dutch National High Tech Crime Unit (NHTCU) targeted two popular darknet marketplaces. The FBI successfully took down Alphabay, and the NHTCU silently took over, administered, and shut down Hansa Market. By coordinating these international efforts, both agencies expected vendors active on Alphabay to shift to Hansa Market , which was then under complete control and fully operated by the NHTCU.</p>
 <p>To assess the aftermaths of Operation Bayonet, <a href="https://pure.tudelft.nl/portal/files/46185682/Wegberg_Verburgh_Lost_in_the_Dream.pdf">a recently published paper</a> examined the user base of current market leader, Dream Market, to identify the migration pattern of vendors from Alphabay and Hansa Market. Authors of the paper analyzed the effects of the operation on all newly registered vendors on <a href="http://www.deepdotweb.com/marketplace-directory/listing/dream-market/">Dream Market</a>, which were around 220, during and shortly after Operation Bayonet by examining their individual and historic features to identify migration patterns and alterations in vendor behavior.</p>
 <p>Oppositely, to the simple take-down of the Alphabay, the aftermaths of the Hansa Market shut down on vendors seem entirely different. Vendors did not just simply shift to the Dream Market after the Hansa Market shut down. Few just simply moved, some took precautions like changing their alias and/or PGP-key, but many started over with a clean slate, losing their past reputation and buyer feedback completely. Let&#8217;s take a look at some of the results presented via this study.</p>

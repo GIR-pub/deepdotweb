@@ -1,7 +1,8 @@
 ---
 DEA Arrests French Dream Vendor “OxyMonster”
 ---
-<article class="post-listing post-22819 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrests tag-dea tag-dream tag-french tag-oxymonster tag-vendor">
+<article class="post-listing post-22819 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrests tag-dea tag-dream tag-french tag-oxymonster tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 29, 2017</span>

@@ -1,15 +1,15 @@
 ---
 Useful Proof of Work (PoW) &#8211; Energy Preserving Cryptocurrency PoW Protocols
 ---
-<article class="post-listing post-18697 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cryptocurrency tag-energy tag-pow tag-preserving tag-proof tag-protocols tag-work">
+<article class="post-listing post-18697 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-cryptocurrency tag-energy tag-pow tag-preserving tag-proof tag-protocols tag-work">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 20, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/20/useful-proof-of-work-pow-energy-preserving/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Proof of Work (PoW) protocols was first presented by Cynthia Dwork and Moni Naor via an article that was published in 1993. The term &#8220;Proof of Work&#8221; (PoW)was first used by Markus Jackobsson in a paper that was published in 1999 that described the use of PoW protocols to ensure that a specific amount of energy was spent to do a task in a simple verifiable way. In most cases, PoW protocols force malicious users to perform a large computing workload, thus shielding against email spamming, <a href="https://www.deepdotweb.com/2016/08/23/researchers-reveal-ddos-attacks-rewards/">denial of service attacks (DDoS)</a> and most importantly, double spending attacks on cryptocurrency blockchains such as bitcoin. Unluckily, current PoW schemes are often irrelevant to the task they are associated with so that the work done is not technically useful in completing the task. Even more, the computing work was done and energy consumed is literally not useful for anything other than verifying that work had been done.</p>
 <p><a href="http://eprint.iacr.org/2017/203.pdf">A recently published paper proposed PoW protocols that are based on a variety of computational problems</a> such as 3SUM, Orthogonal Vectors, All-Pairs Shortest Path and any other problem that reduces to the previously mentioned problem types (including deciding which graph property is statable as first order logic). In other words, these PoW protocols won&#8217;t waste energy, instead, they are useful in solving a myriad of computational problems that are of real practical interest. The proposed PoW protocols are based on delegation of the evaluation of low degree polynomials that originate from studying the average case fine grained complexity. The authors of the paper proved that, apart from being hard on the average (based on worst case hardness assumptions), evaluation of the polynomials is a task that cannot be amortized across various instances. These useful PoW protocols can help in benefiting from the large amount of energy wasted with PoWs that are utilized on a massive scale, as is the case with bitcoin.</p>
 <p><img class="wp-image-18703 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/useful-proofs-of-work-jpg.jpeg" alt="Useful Proofs of Work.jpg" width="876" height="493" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/useful-proofs-of-work-jpg.jpeg 1280w, https://www.deepdotweb.com/wp-content/uploads/2017/03/useful-proofs-of-work-jpg-300x169.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/useful-proofs-of-work-jpg-1024x576.jpeg 1024w" sizes="(max-width: 876px) 100vw, 876px" /></p>

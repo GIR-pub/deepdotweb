@@ -1,15 +1,15 @@
 ---
 Young German Ordered Weed From Dark Web &#8211; Sentenced To Community Work
 ---
-<article class="post-listing post-18768 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-community tag-dark tag-german tag-house tag-imposed tag-ordered tag-parents tag-sentenced tag-web tag-weed tag-work tag-young">
+<article class="post-listing post-18768 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrest tag-community tag-dark tag-german tag-house tag-imposed tag-ordered tag-parents tag-sentenced tag-web tag-weed tag-work tag-young">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 24, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/24/young-german-ordered-weed-dark-web-sentenced-community-work/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>An 18-year-old from Waldheim, Germany ordered marijuana from the dark web. When his parents found out, they imposed a house arrest on their son. Additionally, the juvenile court <a href="http://www.lvz.de/Region/Doebeln/Gras-per-Post-bringt-jungen-Waldheimer-vors-Gericht">sentenced</a> the defendant to community work.</p>
 <p>According to official court documents, the 18-year-old ordered 120 grams of <a href="https://www.deepdotweb.com/tag/marijuana/">marijuana</a> from Canada. However, he never received the package since customs intercepted the parcel. When authorities examined the seized narcotics, they measured 7.5 grams of tetrahydrocannabinol (THC) in the substance, which is three and a half grams above the legislated limit. This makes the amount of narcotics ordered a large quantity.</p>
 <p>When the suspect’s parents found out that their son ordered marijuana from the dark web, they imposed a house arrest on the 18-year-old. They did this after the defendant explained to them why customs officers were searching their house. However, since the suspect was between the age of 18 and 21, the court considered him as an adolescent. After they heard about the house arrest, the court considered whether the accused person could be classified as a youth and “fall under the blessings” of juvenile justice, or as an adult facing the full severity of the law.</p>

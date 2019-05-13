@@ -1,15 +1,15 @@
 ---
 German Gets Lesser Sentence Due To Active Addiction Treatment
 ---
-<article class="post-listing post-18784 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-active tag-addiction tag-due tag-german tag-lesser tag-sentence tag-treatment">
+<article class="post-listing post-18784 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-active tag-addiction tag-due tag-german tag-lesser tag-sentence tag-treatment">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 25, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/25/german-gets-lesser-sentence-due-active-addiction-treatment/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Marburg Magistrate Court <a href="http://www.mittelhessen.de/lokales/region-marburg-biedenkopf_artikel,-Suechtiger-zieht-die-Notbremse-_arid,885024.html#top">sentenced</a> a 34-year-old to two years of probation for ordering narcotics from the dark web. Since the suspect reported that he was addicted to <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> for a long time and actively took part in a therapy program, he received a lesser sentence from the judge.</p>
 <p><img class="wp-image-18789 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/http-www-mittelhessen-de-cms_media-module_img-13.jpeg" alt="http://www.mittelhessen.de/cms_media/module_img/1320/660108_1_fullheight_image_1d962ab57c8e068b.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/http-www-mittelhessen-de-cms_media-module_img-13.jpeg 594w, https://www.deepdotweb.com/wp-content/uploads/2017/03/http-www-mittelhessen-de-cms_media-module_img-13-300x227.jpeg 300w" sizes="(max-width: 594px) 100vw, 594px"/></p>
 <p>The prosecution charged the defendant with 10 drug-related charges. According to official court information, the 34-year-old, between the end of 2014 and May 2016, ordered narcotics from the dark web. The suspect purchased substances in various amounts, sometimes the quantity was small, although, he also placed large orders. The prosecution claimed that once the 34-year-old ordered 360 grams of amphetamine in one package. The goods were delivered to his residential address or to a mailbox possibly rented at a local post office. However, law enforcement authorities intercepted some of the defendant’s parcels and identified the suspect.</p>

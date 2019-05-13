@@ -1,15 +1,15 @@
 ---
 Two Austrian Dealers Caught After Failed Burglary
 ---
-<article class="post-listing post-25465 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-austrian tag-burglary tag-caught tag-dealers tag-failed">
+<article class="post-listing post-25465 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-austrian tag-burglary tag-caught tag-dealers tag-failed">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 23, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/23/two-austrian-dealers-caught-after-failed-burglary/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>An April 2017 package seizure led to the arrest of two Austrian men responsible for spreading more than two kilograms of amphetamine throughout Austria. The men, <a href="http://www.polizei.gv.at/wien/presse/aussendungen/presse.aspx?prid=3335304D554F6A7A4E6A493D&amp;pro=0">Austrian authorities announced</a>, both redistributed Amphetamine ordered from the darknet and cooked their own amphetamine. If not for a botched burglary in Floridsdorf, the dealers could have continued to sell amphetamines without the police right behind them.<img class="wp-image-25470 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-50.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-50.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-50-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Roughly one year ago, Frankfurt Customs intercepted a package of 100 grams of amphetamine. During Cooperation Southeast &#8211; Danube Region—a Europol and Eurojust conference that organized authorities from many EU member states—Christian Mader of the Federal Criminal Police Office pointed out that the Frankfurt Customs functioned as a hub for darknet drug trafficking throughout the region. Even in <a href="https://www.deepdotweb.com/tag/Austria">stories covered by DeepDotWeb</a>, the overwhelming majority of non-US darknet busts have involved Frankfurt Customs.</p>
 <p>This, for reasons unknown, seems to have the greatest impact on drug trafficking in Austria. Frankfurt Customs seize a package of drugs headed towards an address in Austria and then alert Austrian police. Sometimes the uncannily skilled customs office seizes multiple packages with the same destination before contacting Austria. In most cases, after an initial seizure, Austrian authorities work with their German counterparts to intercept additional packages destined for the same address or person.</p>

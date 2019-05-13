@@ -1,15 +1,15 @@
 ---
 Trial Set for Utah Man Accused of Running Darknet Drug Trade
 ---
-<article class="post-listing post-25084 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accused tag-darknet tag-drug tag-man tag-running tag-set tag-trade tag-trial tag-utah">
+<article class="post-listing post-25084 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-accused tag-darknet tag-drug tag-man tag-running tag-set tag-trade tag-trial tag-utah">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>March 18, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/18/trial-set-utah-man-accused-running-darknet-drug-trade/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The high amounts of drug overdose related deaths, and the popularity of the Darknet marketplace scene among the youth, has brought authorities to the doorstep of Aaron Shamo. He was accused of manufacturing many dangerous opioid drugs and shipping them over to people who ordered them through his shop on a darknet marketplace.</p>
 <p>Despite the evidence used against him in the law court, Shamo has pleaded not guilty to all counts leveled against him. The authorities have set a trial for the young man to once again appear before the courtroom after spending almost 15 months in police custody.</p>
 <p>According to a report, the authorities conducted an intense search of his home and discovered 7,000 pills of fentanyl made to look like oxycodone.</p>

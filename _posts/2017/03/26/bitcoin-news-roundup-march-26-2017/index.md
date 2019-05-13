@@ -7,9 +7,8 @@ Bitcoin news roundup, March 26 2017
 <span>March 26, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/26/bitcoin-news-roundup-march-26-2017/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>This week’s summary of various cryptocurrency news and developments:</p>
 <h3>New developments:</h3>
 <p><strong>A bitcoin scaling meeting may take place in May</strong></p>

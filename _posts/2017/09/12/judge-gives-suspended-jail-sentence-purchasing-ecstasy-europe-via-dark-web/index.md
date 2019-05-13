@@ -1,7 +1,8 @@
 ---
 Judge gives Suspended jail sentence for purchasing ecstasy from Europe via the Dark Web
 ---
-<article class="post-listing post-22507 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-ecstasy tag-europe tag-jail tag-judge tag-man tag-purchasing tag-sentence tag-suspended tag-victoria tag-web">
+<article class="post-listing post-22507 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-dark tag-ecstasy tag-europe tag-jail tag-judge tag-man tag-purchasing tag-sentence tag-suspended tag-victoria tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 12, 2017</span>

@@ -1,15 +1,15 @@
 ---
 Guardia Civil Bust Former Alphabay Pistol Vendor
 ---
-<article class="post-listing post-23167 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-bust tag-civil tag-guardia tag-pistol tag-vendor">
+<article class="post-listing post-23167 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-alphabay tag-bust tag-civil tag-guardia tag-pistol tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 20, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/20/guardia-civil-bust-former-alphabay-pistol-vendor/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>With assistance from Europol, Spain’s Guardia Civil arrested a 24-year-old firearm vendor who had sold on Alphabay, along with other darknet matters that allowed weapon listings. In 2017, he had already distributed guns to 30 buyers in 11 countries. The Guardia Civil service called him one of the biggest weapon vendors on the darknet.</p>
 <p>The Spanish national found himself at the center of an international investigation into online weapon buyers and sellers. Europol&#8217;s investigation involved police and customs authorities from the United States, the United Kingdom, Germany, Cyprus, Sweden, and Spain. More than 30 firearms were seized during the investigation, along with spare gun parts and ammunition.</p>
 <p>Europol claimed that the vendor used <a href="https://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay</a> until <a href="https://www.deepdotweb.com/2017/07/20/globally-coordinated-operation-just-took-alphabay-hansa/">US authorities seized the marketplace</a>. “He was one of the largest and best known firearms vendors on the Darknet and took strict measures to avoid being identified by law enforcement,” Europol wrote in their <a href="https://www.europol.europa.eu/newsroom/news/international-strike-against-vendor-and-buyers-of-firearms-darknet">press release</a>.</p>

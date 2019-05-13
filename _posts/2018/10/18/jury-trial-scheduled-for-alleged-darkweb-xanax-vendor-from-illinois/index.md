@@ -1,15 +1,15 @@
 ---
 Jury Trial Scheduled for Alleged Darkweb Xanax Vendor from Illinois
 ---
-<article class="post-listing post-26981 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alleged tag-darkweb tag-illinois tag-jury tag-scheduled tag-trial tag-vendor tag-xanax">
+<article class="post-listing post-26981 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-alleged tag-darkweb tag-illinois tag-jury tag-scheduled tag-trial tag-vendor tag-xanax">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 18, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/10/18/jury-trial-scheduled-for-alleged-darkweb-xanax-vendor-from-illinois/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A suspected Xanax vendor was arraigned on drug trafficking and money laundering charges in a hearing at the United States District Court for the Central District of Illinois. According to <a href="https://www.justice.gov/usao-cdil/pr/trial-scheduled-champaign-man-charged-allegedly-trafficking-counterfeit-xanax-money">a Department of Justice press release</a>, the suspected darkweb vendor’s first court appearance had taken an unusual turn when, instead of arraigning the man, the judge delayed the next hearing and ordered a full mental competency evaluation. The arraignment hearing was delayed pending the results of the evaluation. As evidenced by the hearing itself, the evaluation proved that the defendant was able to face the list of charges in a superseding indictment returned a few days before the hearing.<img class="wp-image-26984 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/10/word-image-11.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/10/word-image-11.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/10/word-image-11-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>According to the United States Attorney’s Office for the Central District of Illinois, Stephan Caamano, age 23, sold hundreds of thousands of dollars worth of <a href="https://www.deepdotweb.com/tag/xanax/">counterfeit Xanax bars</a> to darkweb buyers throughout the United States. A federal grand jury returned an indictment shortly after Caamano’s arrest that accused the former University of California at Berkeley student of two counts of distributing a controlled substance; one count of trafficking a counterfeit drug; and four counts of money laundering. All of the charges stemmed from his alleged darkweb drug operation or the financial proceeds of the alleged drug trafficking. A federal grand jury returned the charges in an indictment in June, days after Caamano’s arrest on May 29, 2018.</p>
 <p>An affidavit filed in support of the criminal complaint detailed the investigation that led to Caamano&#8217;s arrest and indictment. In December 2017, Customs and Border Protection agents alerted the Drug Enforcement Administration that they had been intercepting packages headed for Caamano&#8217;s address in Champaign, Illinois. They also seized a number of packages that had been sent to Caamano&#8217;s address from when he had lived in California. The packages, the according to the report from Customs and Border Protection agents, contained pill presses, pieces of equipment used in the manufacturing of pills, and alprazolam powder.</p>

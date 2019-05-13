@@ -7,9 +7,8 @@ Bitcoin Price analysis 23rd September
 <span>September 23, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/23/bitcoin-price-analysis-23rd-september/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/09/13.jpg"><img class="aligncenter size-full wp-image-11589" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/13.jpg" alt="1" width="1134" height="664" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/09/13.jpg 1134w, https://www.deepdotweb.com/wp-content/uploads/2015/09/13-300x176.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/09/13-1024x600.jpg 1024w" sizes="(max-width: 1134px) 100vw, 1134px"/></a></p>
 <p>This week, bitcoin traded mostly in a sideways trend, with limited upside and downside breaks. $236 and $224 were the highest and lowest respectively; defining the range for this week’s price movement. $227 was a bottom for a $10 run up on Wednesday and Thursday, before retesting lows at $224 and moving up $10. It is now on a consolidation sideways trend from peak at $234.</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/09/23.jpg"><img class="aligncenter size-full wp-image-11590" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/23.jpg" alt="2" width="1642" height="916" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/09/23.jpg 1642w, https://www.deepdotweb.com/wp-content/uploads/2015/09/23-300x167.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/09/23-1024x571.jpg 1024w" sizes="(max-width: 1642px) 100vw, 1642px"/></a></p>

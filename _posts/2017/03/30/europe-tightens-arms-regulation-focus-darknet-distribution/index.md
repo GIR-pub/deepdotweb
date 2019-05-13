@@ -1,15 +1,15 @@
 ---
 Europe Tightens Arms Regulation, Focus on Darknet Distribution
 ---
-<article class="post-listing post-18883 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arms tag-darknet tag-distribution tag-europe tag-focus tag-regulation tag-tightens">
+<article class="post-listing post-18883 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arms tag-darknet tag-distribution tag-europe tag-focus tag-regulation tag-tightens">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 30, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/30/europe-tightens-arms-regulation-focus-darknet-distribution/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Since early 2016, European law enforcement agencies including the Spanish National Police and the Agence nationale de la sécurité des systèmes d’information (ANSSI) have been targeting arms dealers and weapon distribution centers linked to darknet marketplaces. The ANSSI in particular noted that it has become more difficult to stop terrorist groups such as ISIS due to the presence of the dark web.</p>
 <p>As a response to the rapid emergence of terrorist attacks, the European Parliament officially <a href="http://www.europarl.europa.eu/news/en/news-room/20170308IPR65677/parliament-approves-revised-eu-gun-law-to-close-security-loopholes">approved</a> the revised European Union (EU) firearms directive, which was supported by the Internal Market Committee on January 26.</p>
 <p>The newly revised and approved EU firearms directive effectively tightens all regulations and policies in regard to the possession and delivery of arms and weaponry across EU countries. More importantly, newly designed regulatory frameworks on weaponry will make it increasingly difficult for individuals to possess any firearms that are defined as Category A and B, without obtaining an authorization from local police or law enforcement agencies.</p>

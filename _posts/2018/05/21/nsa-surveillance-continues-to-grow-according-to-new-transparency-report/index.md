@@ -1,15 +1,15 @@
 ---
 NSA Surveillance Continues to Grow According to New Transparency Report
 ---
-<article class="post-listing post-25779 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-continues tag-grow tag-nsa tag-report tag-surveillance tag-transparency">
+<article class="post-listing post-25779 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-continues tag-grow tag-nsa tag-report tag-surveillance tag-transparency">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>May 21, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/21/nsa-surveillance-continues-to-grow-according-to-new-transparency-report/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>&nbsp;</p>
 <p>The Office of the Director of National Intelligence released a statistical <a href="https://www.dni.gov/files/documents/icotr/2018-ASTR----CY2017----FINAL-for-Release-5.4.18.pdf">transparency report</a> on their mass surveillance operations during 2017. The transparency report is required under the 2015 Uniting and Strengthening America by Fulfilling Rights and Ending Eavesdropping, Dragnet-collection and Online Monitoring Act (USA FREEDOM Act) and last years FISA Amendments Reauthorization Act. The <a href="https://www.deepdotweb.com/2015/05/22/patriot-act-extension-dies-senate-ready-to-vote-on-usa-freedom-act/">USA FREEDOM Act</a> was passed as an attempt to roll back <a href="https://www.deepdotweb.com/2015/06/01/section-215-expires-senate-approves-usa-freedom-act/">Section 215 of the USA PATRIOT Act</a>, which allowed for the bulk collection of data. Congress’ transparency report requirement in the USA FREEDOM Act was meant to show how the <a href="https://www.deepdotweb.com/tag/nsa/">NSA</a> and the rest of the United States intelligence community was using their surveillance powers. In 2017 Congress passed the FISA Amendments Reauthorization Act, which required the United States intelligence community to report additional statistics on their surveillance activities.</p>
 <p>While the Office of the Director of National Intelligence has released some details on its mass surveillance operations, civil liberties groups like the <a href="https://www.aclu.org/blog/national-security/privacy-and-surveillance/4-things-be-worried-about-nsas-new-transparency">American Civil Liberties Union (ACLU)</a> argue that the intelligence community has not fully compliant with the reporting requirements of the USA FREEDOM Act. Despite the NSA’s legal obligation to report the number of unique identifiers, such as phone numbers, those statistics were not released in the intelligence community’s new statistical transparency report. According to the report the NSA’s bulk collection of phone records tripled last year, exceeding half a billion records.</p>

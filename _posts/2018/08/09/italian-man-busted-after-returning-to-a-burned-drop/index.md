@@ -1,15 +1,15 @@
 ---
 Italian Man Busted After Returning to a Burned Drop
 ---
-<article class="post-listing post-26522 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-burned tag-busted tag-drop tag-italian tag-man tag-returning">
+<article class="post-listing post-26522 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-burned tag-busted tag-drop tag-italian tag-man tag-returning">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 9, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/09/italian-man-busted-after-returning-to-a-burned-drop/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Italian authorities revealed how a 34-year-old known only as “M.F.&#8221; in the press had almost avoided arrest while at the center of a drug trafficking investigation. The man, a former resident of Rome, had allegedly been buying large quantities of drugs on <a href="https://www.deepdotweb.com/tag/darknet">the darknet</a> and then reselling them in ways unknown to the police. Despite the dealer&#8217;s best efforts to confuse law enforcement, the San Paolo police eventually caught on to the man&#8217;s plan and arrested him in late July.<img class="wp-image-26527 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-22.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-22.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-22-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The case began after Italian authorities intercepted a package that had been shipped to an address registered to nobody, the police revealed. Drug buyers have often <a href="https://www.deepdotweb.com/2015/03/23/drops-for-beginners-why-you-may-or-may-not-want-to-use-one/">used abandoned or otherwise empty homes</a> as temporary drops for purchases. But, the practice stands out so much that in some countries, the postal service keeps an eye out for packages addressed to non-existent people at addresses devoid of life. And this 34-year-old, according to the police, had used the unregistered apartment for more than a temporary drop for darknet drug packages.</p>
 <p>After launching a lengthy investigation into the package recipient, <a href="http://www.poliziadistato.it/">the San Paolo police</a> set up surveillance near the address in an attempt to spot someone entering or exiting the residence. Although the case was launched after a package interception, the police still had trouble identifying the so-called “secret house” for one reason or another. At some point during the investigation, Italian law enforcement spotted the suspect a few blocks away from the house. After spotting him, they followed him at length to ensure they had correctly identified the suspect.</p>

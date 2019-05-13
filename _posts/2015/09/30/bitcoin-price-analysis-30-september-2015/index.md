@@ -7,9 +7,8 @@ Bitcoin price analysis 30 September 2015
 <span>September 30, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/30/bitcoin-price-analysis-30-september-2015/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/09/14.jpg"><img class="aligncenter size-full wp-image-11640" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/14.jpg" alt="1" width="989" height="660" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/09/14.jpg 989w, https://www.deepdotweb.com/wp-content/uploads/2015/09/14-300x200.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/09/14-290x195.jpg 290w" sizes="(max-width: 989px) 100vw, 989px" /></a></p>
 <p>This week, bitcoin’s price broke out strongly to the upside, a scenario expected in last week’s analysis. $224 was the final bottom, a firm base for a thrust up to $233 from the downtrend channel preceding this low.</p>
 <p>Breaking out of the downtrend was ultimately to be followed by a short run up in price, seen here as another trend upwards. This uptrending channel encapsulates price action over the duration of this week. As of writing this, 1 bitcoin is trading at $ 236 on BitFinex, after a slight trend down from a 3 week peak at $ 241.</p>

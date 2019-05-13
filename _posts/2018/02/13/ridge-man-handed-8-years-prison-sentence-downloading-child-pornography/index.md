@@ -1,15 +1,15 @@
 ---
 Ridge Man Handed 8 Years Prison Sentence for Downloading Child Pornography
 ---
-<article class="post-listing post-24800 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-downloading tag-handed tag-man tag-pornography tag-prison tag-ridge tag-sentence tag-years">
+<article class="post-listing post-24800 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-child tag-downloading tag-handed tag-man tag-pornography tag-prison tag-ridge tag-sentence tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>February 13, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/13/ridge-man-handed-8-years-prison-sentence-downloading-child-pornography/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The dark web as we all know harbors numerous unspeakable crimes which criminals commit daily. Some crimes are despicable and that’s the bitter truth that many people don’t want to admit. <a href="https://www.deepdotweb.com/2017/12/03/man-dark-web-child-pornography-case-sentenced-9-months/">Child pornography on the dark web</a> has been around for quite some time and because it isn’t being committed frequently such as illegal drug sales and other crimes, much attention hasn’t been drawn to it.</p>
 <p>Most people choose to purchase illegal drugs from the dark web even though they know what’s at stake but ignore any risk regardless but infants and toddlers being subjected to sexual tortures is appalling.</p>
 <p><a id="post-24800-_gjdgxs"></a> That is the case in Central Islip, as a 30-year-old man named <a href="https://www.longisland.com/news/02-01-18/fbi-long-island-man-sentenced-to-eight-years-imprisonment-for-downloading-child-pornography.html">Christopher Robert Grief</a>, nicknamed “Mookie” earlier in court on the 1st of February was given a prison sentence of eight years after he pleaded guilty to Receiving Child Pornography in Interstate and Foreign Commerce. This was according to a news release from the U.S. Attorney&#8217;s Office for the Eastern District of New York.</p>

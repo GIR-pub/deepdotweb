@@ -7,9 +7,8 @@ Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
 <span>August 26, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/#comments">61 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora</a>, the current largest market is about to pause its operations in order to deal with major security concerns before coming back, this will be done in a similar manner to what we have seen only in the BlackMarketReloaded case where the admins have notified the users prior to shutting down and did not &#8220;exit scam&#8221;. The admins have posted a signed message on the market explaining the situation (agorahooawayyfoe.onion/info/pausingoperations):</p>
 <div id="attachment_11360" style="width: 628px" class="wp-caption aligncenter"><a href="https://www.deepdotweb.com/wp-content/uploads/2015/08/agora.png"><img class="size-full wp-image-11360" src="https://www.deepdotweb.com/wp-content/uploads/2015/08/agora.png" alt="Agora's message" width="618" height="719" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/08/agora.png 618w, https://www.deepdotweb.com/wp-content/uploads/2015/08/agora-258x300.png 258w" sizes="(max-width: 618px) 100vw, 618px" /></a><p class="wp-caption-text">Agora&#8217;s message</p></div>
     

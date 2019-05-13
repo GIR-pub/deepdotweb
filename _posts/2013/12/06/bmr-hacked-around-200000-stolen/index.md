@@ -7,9 +7,8 @@ title: Black Market Reloaded Hacked &#8211; Around $200,000 Stolen
 <span>December 6, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/06/bmr-hacked-around-200000-stolen/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Like we didnt had enough with all the recent <a href="http://www.deepdotweb.com/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/" target="_blank">Sheep Scam</a> Mess &amp; the upcoming Black Market Reloaded <a href="http://www.deepdotweb.com/2013/12/01/bmr-is-shutting-down/" target="_blank">Shutdown</a>, Now it appears that just before the shutdown &#8211; BMR was hacked by a user called &#8220;EinTopfVollGold&#8221; and and unknown amount of Bitcoins were stolen from the site (Estimated around 200 Bitcoins),  The hack was reported on the BMR forums by Backopy the Admin:</p>
 <p><a href="/imgs/2013/12/bmrhack.jpg"><img class="aligncenter size-full wp-image-2325" alt="bmrhack" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/bmrhack.jpg" width="1086" height="321" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/12/bmrhack.jpg 1086w, https://www.deepdotweb.com/wp-content/uploads/2013/12/bmrhack-300x89.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2013/12/bmrhack-1024x303.jpg 1024w" sizes="(max-width: 1086px) 100vw, 1086px"/></a>======</p>
 <p><em>Holy shit! Somehow an user managed to hack on the market. He was withdrawing flat and funding his account out of thin air.</em><br/>

@@ -1,15 +1,15 @@
 ---
 Child Porn Charges Against Man In Israel
 ---
-<article class="post-listing post-18594 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charges tag-child tag-israel tag-man tag-porn">
+<article class="post-listing post-18594 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-charges tag-child tag-israel tag-man tag-porn">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 13, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/13/child-porn-charges-man-israel/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 50-year-old man from Tel Aviv, <a href="https://www.deepdotweb.com/tag/israel/">Israel</a> was <a href="http://www.nrg.co.il/online/1/ART2/866/220.html">arrested</a> for serious child porn charges.</p>
 <p>On Sunday, the State Attorney&#8217;s Cyber Division filed an indictment to the Magistrate&#8217;s Court against the security employee. According to the indictment, the defendant advertised and watched extremely violent child porn videos. The man is charged with “obscene advertisement, possession of images of a minor, solicitation of a minor’s abuse, solicitation of a minor to use his body making an obscene advertisement.”</p>
 <p><img class="wp-image-18604 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-7-jp.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\7.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-7-jp.jpeg 465w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-7-jp-300x225.jpeg 300w" sizes="(max-width: 465px) 100vw, 465px" /></p>

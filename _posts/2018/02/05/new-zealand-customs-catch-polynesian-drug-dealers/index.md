@@ -1,15 +1,15 @@
 ---
 New Zealand Customs Catch Polynesian Drug Dealers
 ---
-<article class="post-listing post-24683 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-catch tag-customs tag-dealers tag-drug tag-polynesian tag-zealand">
+<article class="post-listing post-24683 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-catch tag-customs tag-dealers tag-drug tag-polynesian tag-zealand">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 5, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/05/new-zealand-customs-catch-polynesian-drug-dealers/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Three men stood in courtroom in Polynesia for <a href="https://www.radio1.pf/prison-ferme-pour-98-grammes-dice-importes-du-darknet/">trafficking methamphetamine</a>. Although Polynesian authorities had only caught the defendants the week before the court appearance, the court had already prepared to sentence all three of them. The court sentenced the trio to sentences that fit their roles in the short-lived drug trafficking operation. One received a four year sentence. One received a three year sentence. And one received a sentence of only one year.</p>
 <p>Investigators found that one man, a 29-year-old “computer genius” named Tevai Tapu, had engineered the entire drug trafficking conspiracy. The court heard how Tapu had made several methamphetamine purchases on <a href="http://www.deepdotweb.com/marketplace-directory/listing/dream-market/">Dream marketplace</a>. Using Bitcoin, Tapu made six separate purchases of 35 grams of methamphetamine. &#8220;It&#8217;s like Amazon, except that you sell kalashnikovs and bags of cocaine,&#8221; the court heard.</p>
 <p><img class="wp-image-24690" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-6.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-6.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-6-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

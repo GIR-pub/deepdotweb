@@ -1,15 +1,15 @@
 ---
 Marijuana Dealer Sentenced to Five Years in Prison
 ---
-<article class="post-listing post-25625 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dealer tag-marijuana tag-prison tag-sentenced tag-years">
+<article class="post-listing post-25625 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-dealer tag-marijuana tag-prison tag-sentenced tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 8, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/08/marijuana-dealer-sentenced-to-five-years-in-prison/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>U.S. District Judge Howard F. Sachs sentenced Justin Polson, 29, to five years in prison for conspiracy to distribute marijuana and participation in a money laundering conspiracy. Polson, according to court documents, participated in a marijuana distribution conspiracy worth $3 million. In addition to the five years in federal prison without parole, Judge Sachs required Polson’s share of the earnings from the operation: $1.5 million. The investigation involved <a href="https://www.deepdotweb.com/tag/ice/">U.S. Customs and Immigration (ICE)</a>, Homeland Security Investigations (HSI), the IRS-Criminal Investigation division, and several other agencies.</p>
 <p>According to <a href="https://www.justice.gov/usao-wdmo/pr/overland-park-man-sentenced-3-million-marijuana-conspiracy">the press release</a> from the U.S. Attorney’s Office of the Western District of Missouri, a judge sentenced Polson’s partner during trial back in March 2018. For playing what the courts considered an equal role in the conspiracy, the judge sentenced James Mack, 38, to five years in federal prison and ordered that Mack forfeit $1.5 million to the U.S. government. Mack lived in Westminster, Colorado. Polson lived in Overland Park, Kansas. One defendant shipped buckets of marijuana to the other defendant.</p>
 <p><img class="wp-image-25630" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-11.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-11.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-11-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

@@ -1,15 +1,15 @@
 ---
 µchain &#8211; A New Mutable Blockchain That We All Need!
 ---
-<article class="post-listing post-18479 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-mutable tag-chain">
+<article class="post-listing post-18479 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-blockchain tag-mutable tag-chain">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 7, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/07/%c2%b5chain-new-mutable-blockchain-need/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A group of researchers have recently published <a href="https://eprint.iacr.org/2017/106.pdf">a paper that explored the idea of creating mutable proof-of-work (PoW) blockchains.</a> They presented µchain, a novel mutable blockchain, that promotes modification of blockchain&#8217;s history. By definition, a blockchain represents an immutable, decentralized data structure that record a chain of events, such as financial transactions in case of a cryptocurrency system. Even though the concept of mutable history of events is seemingly controversial, the authors of the paper proved that µchain doesn&#8217;t undermine security guarantees provided by immutable blockchains. Technically speaking, all mutations in the µchain system are determined by fiat, controlled via consensus and are validated in the same manner as immutable blockchain transactions.</p>
 <p>On the other hand, µchain offers solutions to several problems of immutable blockchains including vulnerable smart contract patching and eliminating abusive content from the records of the blockchain. Moreover, it opens the door to new blockchain based applications that cannot be built using immutable blockchains. For example, governments and companies could now keep registers of citizens and customers, while preserving their legislative rights to delete their records whenever they choose to do so. Banks can also choose to consolidate cryptocurrency with traditional payments, which is almost impossible to achieve successfully without being able to reverse transactions.</p>
 <p><img class="wp-image-18484 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/uchain-jpeg.jpeg" alt="uchain.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/uchain-jpeg.jpeg 317w, https://www.deepdotweb.com/wp-content/uploads/2017/03/uchain-jpeg-300x150.jpeg 300w" sizes="(max-width: 317px) 100vw, 317px" /></p>

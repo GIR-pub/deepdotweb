@@ -1,15 +1,15 @@
 ---
 Tor Update Supports v3 Onion Services
 ---
-<article class="post-listing post-23051 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-onion tag-services tag-supports tag-tor tag-update tag-v3">
+<article class="post-listing post-23051 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-onion tag-services tag-supports tag-tor tag-update tag-v3">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 14, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/14/tor-update-supports-v3-onion-services/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>&nbsp;</p>
 <p>The second latest alpha build of Tor, Tor 0.3.2.2-alpha, enabled the more secure “next-generation hidden services protocol” (aka v3 onion services). Tor Project President Roger Dingledine said that next generation hidden (onion) services fix security and design flaws found in the original or legacy hidden services. He explained that mistakes he had made in the 2004 onion service protocol are being exploited by “fear-mongering ‘threat intelligence’ companies.” In this alpha build, some of the updates from <a href="https://gitweb.torproject.org/torspec.git/tree/proposals/224-rend-spec-ng.txt">proposal 224</a> have been added to Tor, including several directory protocol improvements and updated cryptographic building blocks.</p>
 <p>At Def Con 25, <a href="https://defcon.org/html/defcon-25/dc-25-speakers.html#Dingledine">Dingledine presented v3 onion services</a> and announced that a public build would likely be available in December 2017. Until then, the alpha build(s) will support prop224 onion services for both onion service operators and clients themselves and hopefully provide a testing platform for a stable build in December. <a href="https://www.deepdotweb.com/tag/tor/">Tor Browser</a> 7.5a5 includes support for the new services, along with other significant changes to the way Tor functions.</p>

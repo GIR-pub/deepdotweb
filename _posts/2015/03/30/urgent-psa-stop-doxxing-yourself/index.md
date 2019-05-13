@@ -7,9 +7,8 @@ Urgent PSA: Stop Doxxing Yourself!!
 <span>March 30, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/30/urgent-psa-stop-doxxing-yourself/#comments">18 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>With the recent massive influx of traffic on this site, since <a title="Evolution Marketplace Exit Scam: Biggest Exist Scam Ever?" href="http://www.deepdotweb.com/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evo went down</a> and even more since <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora is down</a>, there is also a massive influx of people doing all they can to doxx themselves (<a href="http://www.deepdotweb.com/2014/03/02/deepdotwebs-darknet-dictionary/">post their own personal details</a>) <span style="text-decoration: underline;">along with incriminating information</span> like:</p>
 <ul>
 <li>What they ordered</li>

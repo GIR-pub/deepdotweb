@@ -1,15 +1,15 @@
 ---
 Bitcoin Trader &#8216;Bitcoin Maven” Sentenced to Federal Prison
 ---
-<article class="post-listing post-26417 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-federal tag-maven tag-prison tag-sentenced tag-trader">
+<article class="post-listing post-26417 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bitcoin tag-federal tag-maven tag-prison tag-sentenced tag-trader">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 27, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/27/bitcoin-trader-bitcoin-maven-sentenced-to-federal-prison/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>United States District Judge Manuel L. Real of the Central District of California sentenced the so-called “Bitcoin Maven” to one year in prison for <a href="https://www.justice.gov/usao-cdca/pr/bitcoin-maven-sentenced-one-year-federal-prison-bitcoin-money-laundering-case">illegally laundering bitcoin</a>. In order to enforce a prison stay, Judge Real sentenced convicted the money launderer to 12 months and a single day, forcing prison time instead of jail time.<img class="wp-image-26420 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-63.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-63.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-63-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Theresa Lynn Tetley, 50, worked for years as a stockbroker before turning to bitcoin as a source of income. She called herself “Bitcoin Maven” or “<a href="https://localbitcoins.com/accounts/profile/Bitcoin.Maven/">bitcoin.maven</a>” on platforms such as LocalBitcoins.com (LBC) and exchanged between $6-9 million in bitcoin, according to information revealed in court. On her LBC account, she has more than 100 confirmed trades with 194 confirmed partners. The profile says she had exchanged between 250 and 500 bitcoin. And kept a 100 percent feedback score while exchanging cash for bitcoin.</p>
 <p>Exchanging cash for bitcoin or bitcoin for cash (a cash-for-bitcoin business) is not illegal. And the business itself was not what landed Tetley in hot water with the <a href="https://www.deepdotweb.com/tag/DEA/">Drug Enforcement Administration</a>. During the course of her cash-for-bitcoin operation on LBC, she routinely ignored guidelines from the Financial Crimes Enforcement Network (FinCEN). She failed to implement anti money-laundering mechanisms and ignored FinCEN’s “Know Your Customers” regulations.</p>

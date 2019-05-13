@@ -7,9 +7,8 @@ Bitcoin News Roundup – 15 Mar.2015
 <span>March 15, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/15/bitcoin-news-roundup-15-mar-2015/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Ross Ulbricht asks for a re-trial and seeks for a violation of its Fourth Amendment rights by the government’s confiscation of the Silk Road servers. Kate Vinton of <a href="http://www.forbes.com/sites/katevinton/2015/03/10/convicted-silk-road-mastermind-ross-ulbricht-wants-a-new-trial/">Forbes</a> reports that defense lawyer Joshua Dratel claims that Ulbricht was convicted lacking “exculpatory material”, although the government has presented favorable material to Ulbricht’s conviction prior and during the trial. The story is far from over.</p>
 <p>Bitcoin exchange itBit is one of the three winners in the online auction of Ross Ulbricht’s 50,000 bitcoins. Katherine Fletcher of <a href="https://coinreport.net/bitcoin-exchange-itbit-among-winners-us-marshals-auction/">Coin Report</a> writes that, itBit won 3,000 bitcoins, while the other two unidentified winners won 27,000 and 20,000 bitcoins respectively. Based on the bitcoin’s trading value last week, the total value of the 50,000 bitcoins is estimated at $14.6 million.</p>

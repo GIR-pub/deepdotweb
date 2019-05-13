@@ -7,9 +7,8 @@ Evolution Market Background: Carding Forums, Ponzi Schemes &#038; LE
 <span>March 18, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/18/evolution-market-background-carding-forums-ponzi-schemes-le/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="usertext-body may-blank-within md-container">
 <div class="md">
 <p><strong><em>Another artice in the <a href="http://www.deepdotweb.com/tag/evoscam/">#Evoscam</a> series &#8211; I have known this thread since it was posted originally by <a href="https://www.reddit.com/u/the_avid">/u/the_avid</a> in some private forum &#8211; but never wanted to stir any drama regarding <a href="http://www.deepdotweb.com/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evolution marketplace</a>, so i never posted it, but now seems like a good time to repost this and remind everyone where evolution came from and why this scam wasn&#8217;t such a big surprise to many people, some details were added by <a href="http://www.reddit.com/user/gwern">Gwern</a>, so here we go:</em></strong></p>

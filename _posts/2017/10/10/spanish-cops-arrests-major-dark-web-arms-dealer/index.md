@@ -1,15 +1,15 @@
 ---
 Spanish Cops Arrests Major Dark Web Arms Dealer
 ---
-<article class="post-listing post-23000 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arms tag-arrests tag-cops tag-dark tag-dealer tag-major tag-spanish tag-web">
+<article class="post-listing post-23000 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arms tag-arrests tag-cops tag-dark tag-dealer tag-major tag-spanish tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>October 10, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/10/spanish-cops-arrests-major-dark-web-arms-dealer/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>An unnamed 24-year-old man has been arrested in Spain for dealing in arms from the dark web. His arrest came as a result of a <a href="https://www.deepdotweb.com/2017/04/10/four-suspects-arrested-canary-islands-part-darknet-law-enforcement-operation/">combined operation by police forces</a> across Europe in on-going efforts to shut down Dark Web weapons business.</p>
 <p>According to reports, the unnamed man used the now-defunct dark web marketplace, <a href="https://www.deepdotweb.com/2015/10/14/alphabay-market-has-reached-200000-users/">AlphaBay</a> to send dozens of guns across Europe and some even to the United States.</p>
 <p>The young man from Pamplona had no qualifications or any trade experience and only managed to access the dark web marketplaces by his own skills. He would purchase manufactured weapons, which he would then sell for a big profit.</p>

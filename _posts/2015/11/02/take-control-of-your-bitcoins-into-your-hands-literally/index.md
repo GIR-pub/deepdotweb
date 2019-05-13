@@ -7,9 +7,8 @@ Take Control of Your Bitcoins into Your Hands, Literally?
 <span>November 2, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/11/02/take-control-of-your-bitcoins-into-your-hands-literally/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Bitcoin is a decentralized currency which allows people to take control of their money into their own hands. Literally. A pair of body-hackers, people implementing computerized hardware into their bodies, was able to send a bitcoin payment through his computer, but without actually touching his computer. Seems implausible? Well, not anymore.</p>
 <p>Patric Lanhed and Juanjo Tara were able to <a href="http://motherboard.vice.com/en_ca/read/this-guy-implanted-his-bitcoin-wallet-and-made-a-payment-with-his-hand">successfully send a bitcoin paymen</a>t using a bitcoin wallet, a NFC chip reader, and a tiny computer chip which stored the private key to his bitcoin wallet. The tiny chip, manufactured by <a href="https://dangerousthings.com/implant-faq/">Dangerous Things</a>, is able to hold only 888 bytes of data, which may not seem like much, but is able to store the private key to a bitcoin wallet. However, the duo was not the first group to implement NFC technology in the realm of Bitcoin. That title belongs to the bitcoin payment service Circle. The truly novel thing about this experiment was the fact that they were able to implant the actual chip within the wallet owner’s body.</p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/b9T7YvCvCyQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

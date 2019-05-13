@@ -7,9 +7,8 @@ Bitcoin Price Analysis 17 March
 <span>March 17, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/17/bitcoin-price-analysis-17-march/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Is Bitcoin’s price in a major reversal?</p>
 <p><a href="/imgs/2015/03/BPA.jpg"><img class="aligncenter size-full wp-image-9485" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/BPA.jpg" alt="BPA" width="599" height="354" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/BPA.jpg 599w, https://www.deepdotweb.com/wp-content/uploads/2015/03/BPA-300x177.jpg 300w" sizes="(max-width: 599px) 100vw, 599px"/></a>This past week, Bitcoin’s price held fairly well, trading within levels of $281 and $302. As per charts, $300 has been a resistance that for bulls attempting to break out. After the $300 resistance level is a long term bear resistance trend line &#8211; sloping slightly above $315. Multiple attempts to break past $303.96 on Bitfinex was immediately accompanied by a rebound to the lowest limit bounds of this range &#8211; $282.</p>
 <p>Since price broke out from $232 on February 27, market expectations have been bullish. The price is still above the 10, 20, 30 and 50 Day Exponential moving averages (EMA). Short term EMAs are above long term EMAs, which bodes well for higher short term price prospects. Any change in market direction will first be reflected on short term indicators. So far, the market’s short term indicators are ripe for short term rally.</p>

@@ -1,15 +1,15 @@
 ---
 Mother and Son Head to Prison for Darknet Drug Trafficking
 ---
-<article class="post-listing post-25042 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-drug tag-mother tag-prison tag-son tag-trafficking">
+<article class="post-listing post-25042 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-darknet tag-drug tag-mother tag-prison tag-son tag-trafficking">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 14, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/14/mother-son-head-prison-darknet-drug-trafficking/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A courtroom in Munich, Germany, heard how a 27-year-old from Lake Starnberg sold drugs to more than 1,000 customers worldwide. The man, Sebastian F., sold drugs on the darknet for several years while operating under pseudonyms (or with partners who used the names online). Sebastian sold under the username “BossRumcheck,” <a href="https://www.merkur.de/lokales/wolfratshausen/hoehenrain-ort28825/berg-grossdealer-zu-sechs-jahren-haftstrafe-verurteilt-9639655.html">the court heard</a>. Not only did Sebastian sell drugs under the “BossRumcheck” username, he also helped his partner, a vendor known only as “Heisenberg,” with their <a href="https://www.deepdotweb.com/tag/darknet/">darknet operation</a>.<img class="wp-image-25046 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-17.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-17.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-17-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The prosecution estimated that Sebastian had earned almost 80,000 euros between 2014 and his 2017 arrest. The man, a computer technician by trade, sold amphetamine, cocaine, ecstasy, marijuana, hashish, and other substances in less substantial quantities. Thanks to the work of the investigators responsible for Sebastian’s capture, they know that he also functioned as one of the primary shippers for Heisenberg. Heisenberg, a vendor from Hesse who managed to remain anonymous, tasked Sebastian with receiving packages from suppliers and then shipping products to customers.</p>
 <p>Numerous package seizures helped investigators discover that the former darknet vendor had sold at least 20 kilograms of marijuana, two kilograms of <a href="https://www.deepdotweb.com/tag/amphetamine/">amphetamine</a>, 100 grams of cocaine, and at least 600 ecstasy pills. Prosecutor Michael Meyer and several police officers testified that the man’s life unravelled “like a bad gangster movie.” The judge told the defendant’s mother that her son had a “considerable criminal energy.”</p>

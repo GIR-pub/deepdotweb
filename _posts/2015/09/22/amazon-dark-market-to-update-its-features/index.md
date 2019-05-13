@@ -7,9 +7,8 @@ Amazon Dark Market To Update Its Features
 <span>September 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/22/amazon-dark-market-to-update-its-features/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/marketplace-directory/listing/amazon-dark">Amazon Dark</a> released several new updates and announced them on <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3ls7uz/amazon_dark_has_been_updated/" target="_blank">Reddit</a>, the updates posted here to their request</p>
 <div class="usertext-body may-blank-within md-container ">
 <div class="md">

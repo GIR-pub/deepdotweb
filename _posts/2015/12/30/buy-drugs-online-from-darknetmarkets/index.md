@@ -7,9 +7,8 @@ How To Buy Drugs Online From DarknetMarkets?
 <span>December 30, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/12/30/buy-drugs-online-from-darknetmarkets/#comments">67 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Instead of creating all the <a href="https://www.deepdotweb.com/?s=how+to+buy+from" target="_blank" rel="noopener noreferrer">market specific tutorials</a> which are pretty similar anyway, here is a complete how to Buy Drugs Online From the DarknetMarkets tutorial that should cover most, if not all markets. Please remember that its recommended to use multisig transactions when buying drugs online. Market specific instructions should be available on the markets and on our multisig section. Not sure who to credit for most of the write up, it was just shared with me a few months ago, if you are reading this, please contact with a proof, you know which one. Some info changed to make it more accurate and current.</p>
 <p><strong>PRIVACY TIP FOR DEEP WEB USERS</strong>: Use a <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN</a> with Tor. <a href="https://www.deepdotweb.com/vpn-comparison-chart/">Click here to find the best VPN for privacy on the Deep Web</a>.</p>
 <p><strong>VPN</strong></p>

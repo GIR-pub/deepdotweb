@@ -1,15 +1,15 @@
 ---
 Utah Man Accused of Manufacturing and Selling drugs on the dark web
 ---
-<article class="post-listing post-25615 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accused tag-dark tag-drugs tag-man tag-manufacturing tag-selling tag-utah tag-web">
+<article class="post-listing post-25615 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-accused tag-dark tag-drugs tag-man tag-manufacturing tag-selling tag-utah tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 7, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/07/utah-man-accused-of-manufacturing-and-selling-drugs-on-the-dark-web/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A Utah Cottonwood Heights man accused of running an international illicit drug ring selling and manufacturing of illegal drugs has been arrested. A four-week jury trial has been scheduled beginning August 20th.</p>
 <p>On Wednesday, the attorneys of some of his alleged accomplices said in court that they were still negotiating on some non-contentious issues concerning the case with prosecutors.</p>
 <p>Shamo Michael Aaron who is turning 28 appeared in the United States District Court with his attorney Greg Skordas for a status conference. Aaron’s attorney Mr. Greg Skordas indicated that his client had been in custody for 15 months now already.</p>

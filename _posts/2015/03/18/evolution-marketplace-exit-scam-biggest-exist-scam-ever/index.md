@@ -7,9 +7,8 @@ Evolution Marketplace Exit Scam: Biggest Exist Scam Ever?
 <span>March 18, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/#comments">113 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div id="attachment_9499" style="width: 490px" class="wp-caption aligncenter"><a href="/imgs/2015/03/gone11.jpg"><img class="wp-image-9499 size-full" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/gone11.jpg" alt="Evolution market scam" width="480" height="360" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/gone11.jpg 480w, https://www.deepdotweb.com/wp-content/uploads/2015/03/gone11-300x225.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /></a><p class="wp-caption-text">Its been a while since the last time we had to pull this image</p></div>
 <p>Updates will be added to this tag: <a href="http://www.deepdotweb.com/tag/evoscam/">#Evoscam</a></p>
 <p><strong><span style="text-decoration: underline;">Estimated</span> Loss: 40,000+ BTC  (Around 12$ Million)<br />

@@ -7,9 +7,8 @@ DNM Vendor Dr.Xanax Busted
 <span>October 13, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/13/dnm-vendor-dr-xanax-busted/#comments">10 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.cbc.ca/news/canada/montreal/simon-davidson-christian-davidson-ian-davidson-laval-drug-ring-1.3262486">In Laval, Montreal, the law enforcement authorities raided DNM vendor Dr.Xanax’s place last Tuesday.</a> Laval Police has seized around 2 million counterfeit Xanax pills, $200.000 cash, a bulletproof vest, three handguns and seven press machines that has been used for the pressing of the Xanax bars. According to official documents, these machines could produce 20000 pills per hour.</p>
 <p>Dr.Xanax was not one person, five suspects has been arrested during the raid at the DNM vendor’s house. The five suspects included Simon and Christian Davidson, the sons of disgraced former Montreal police officer Ian Davidson. The suspects are facing charges of drug possession, trafficking and producing contraband Xanax pills.</p>
 <p>Ian Davidson, the disgraced police officer and the father of Simon and Christian Davidson, was retired and was suspected of attempting to sell police information to members of organized crime. He was arrested in October, 2011 in an attempt to leave for Costa Rica with a computer that contained sensitive police information. Davidson committed suicide in a hotel room on 2012 January 18.</p>

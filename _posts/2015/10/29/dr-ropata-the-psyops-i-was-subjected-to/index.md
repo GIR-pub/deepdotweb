@@ -7,9 +7,8 @@ Vendor &#8220;Dr Ropata&#8221;: The PsyOps I was Subjected To
 <span>October 29, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/10/29/dr-ropata-the-psyops-i-was-subjected-to/#comments">26 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/2015/10/14/dnm-vendor-dr-ropata-using-actors-image-for-marketing-purposes/">Ollie bassweight</a>, is an electronic musician, blogger and internet activist from new Zealand who has done many notable things including: doxing himself on reddit to expose flaws on market-places and forums and tackling the problem of drug prohibition around the world . This inadvertently propelled him to also tackle internet security and privacy issues. As a result has was subject to a PSYOP and Defamation Campaign by his country’s government in order to hide its illegal activities. I think that it is courageous of Ollie to take on governments and expose their wrongdoings. He had a blog, but took it down due to <a href="http://willtherealropataplzstandup.org/">privacy and legal issues</a>.</p>
 <p>Ollie, on his blog, chronicled his time evading law enforcement and his experiences of being bullied online. Ollie was attacked by people with fake online personas, and as a result he lost his clearnet emails and accounts. Furthermore, he was subject to in-person intimidation and bullying. This is his story.</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/10/12087651_911617642209359_8669224166873742258_o1.jpg"><img class="aligncenter size-full wp-image-11854" src="https://www.deepdotweb.com/wp-content/uploads/2015/10/12087651_911617642209359_8669224166873742258_o1.jpg" alt="12087651_911617642209359_8669224166873742258_o[1]" width="2048" height="1152" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/10/12087651_911617642209359_8669224166873742258_o1.jpg 2048w, https://www.deepdotweb.com/wp-content/uploads/2015/10/12087651_911617642209359_8669224166873742258_o1-300x169.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/10/12087651_911617642209359_8669224166873742258_o1-1024x576.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px"/></a></p>

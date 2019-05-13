@@ -7,9 +7,8 @@ Millions of Dollars Lost in Case Against Silk Road Vendor
 <span>March 1, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/01/millions-dollars-lost-case-silk-road-vendor/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On Thursday, February 11, 2017, a Potsdam Regional Court heard investigators explain the case of a successful darknet drug dealer. The story varied only slightly from that of any other such drug dealer. The issue, and reason the story made the news, became apparent as more data surfaced. Investigators in Brandenburg claimed the defendant was the most successful drug dealer in the area. Yet, they lost the millions earned by the defendant.</p>
 <p>According to information that emerged during the hearing in February, the man sold a significant amount of drugs on the darknet. Mostly cocaine. Investigators called him “well-to-do” based on the quantity sold. But they believed that he might enter prison as a still a well-to-do man. In fact, prosecutors admitted that the investigation halted halfway through as the money proved impossible to find.</p>
 <p><img class="wp-image-18391 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-37.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-37.jpeg 760w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-37-300x225.jpeg 300w" sizes="(max-width: 760px) 100vw, 760px"/></p>

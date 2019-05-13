@@ -1,15 +1,15 @@
 ---
 Ashington Pedophile Sentenced to 32 Months for Distributing ‘Child Pornography’
 ---
-<article class="post-listing post-26490 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4680 tag-ashington tag-child tag-distributing tag-months tag-pedophile tag-pornography tag-sentenced">
+<article class="post-listing post-26490 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-4680 tag-ashington tag-child tag-distributing tag-months tag-pedophile tag-pornography tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/06/ashington-pedophile-sentenced-to-32-months-for-distributing-child-pornography/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Newcastle Crown Court heard how a 43-year-old from Ashington fell into a trap set by undercover law enforcement officers at an undisclosed law enforcement after contacting pedophiles on <a href="https://www.deepdotweb.com/tag/darknet/">darknet forums</a> in search of a child he raped. At the hearing, the court ordered a prison sentence of just under three years and a lifetime on the sex offender registry.<img class="wp-image-26493 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-12.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-12.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-12-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Steven Boulton, 43, of Chillingham Crescent, Ashington, had first communicated with an undercover law enforcement agent in 2016. The undercover agent, according to Prosecutor Michael Bunch, reached out to Boulton through an undisclosed darknet forum after reading graphic stories of rape and child abuse Boulton had anonymously posted. These stories focused on the rape of young girls between the ages of 10 and 14 years old. On the darknet forum where law enforcement agents had been posing as pedophiles, Boulton related his stories to the child abuse depicted in the video.</p>
 <p>Penny Hall, Boulton&#8217;s defense attorney, told the court that his descriptions of what he wanted to do to children amounted to nothing but the fantasies of a depressed man. Boulton, at the time, had suffered from a self-described alcoholism. The combination of depression, and a stressful job drove Boulton from adult pornography to child pornography, the attorney told Newcastle Crown Court.</p>

@@ -7,9 +7,8 @@ Silk Road Vendor NOD Sentenced To 5 Years In Prison
 <span>March 20, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/20/silk-road-vendor-nod-sentenced-to-5-years-in-prison/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p class="node-subtitle center">As it was published in a press release by <a href="http://www.justice.gov/usao-wdwa/pr/bellevue-man-who-sold-drugs-silk-road-internet-site-sentenced-drug-distribution">Justive.gov</a>:</p>
 <p class="node-subtitle center"><a href="/imgs/2015/03/920x12401.jpg"><img class="aligncenter size-full wp-image-9587" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/920x12401.jpg" alt="920x1240[1]" width="920" height="724" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/920x12401.jpg 920w, https://www.deepdotweb.com/wp-content/uploads/2015/03/920x12401-300x236.jpg 300w" sizes="(max-width: 920px) 100vw, 920px" /></a></p>
 <p class="node-subtitle center"><em>Top Seller on Silk Road Used Screen Name “Nod”</em></p>

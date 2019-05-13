@@ -7,9 +7,8 @@ The Deep Webb &#8211; New Darknet version of Reddit
 <span>February 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/19/deep-webb-new-darknet-version-reddit/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Just announced on <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2wdiqs/psaarticlethe_deep_webb_darknet_version_of_reddit/" target="_blank">the clearnet version</a> of Reddit:</p>
 <blockquote><p>I welcome the beta version of the darknet of reddit or the deep web.</p>
 <p><a href="http://2c7lhc5tai5a3wdd.onion" target="_blank">http://2c7lhc5tai5a3wdd.onion</a></p>

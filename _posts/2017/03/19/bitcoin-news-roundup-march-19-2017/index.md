@@ -1,15 +1,15 @@
 ---
 Bitcoin news roundup March 19, 2017
 ---
-<article class="post-listing post-18725 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3099 tag-3676 tag-bitcoin tag-march tag-news tag-roundup">
+<article class="post-listing post-18725 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-3099 tag-3676 tag-bitcoin tag-march tag-news tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
 <span>March 19, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/19/bitcoin-news-roundup-march-19-2017/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>This week’s summary of various cryptocurrency news and developments:</p>
 <h3>New developments:</h3>
 <p><strong>A code bug exploit knocked nearly 70% of Bitcoin Unlimited nodes offline</strong></p>

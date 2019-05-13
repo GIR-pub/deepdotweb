@@ -1,7 +1,8 @@
 ---
 Testing Modern Antivirus Software part 1
 ---
-<article class="post-listing post-22746 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-antivirus tag-modern tag-part tag-software tag-testing">
+<article class="post-listing post-22746 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-antivirus tag-modern tag-part tag-software tag-testing">
     
     <div class="post-inner">
     

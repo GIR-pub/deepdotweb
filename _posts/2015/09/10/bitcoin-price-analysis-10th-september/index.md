@@ -7,9 +7,8 @@ Bitcoin Price Analysis 10th September
 <span>September 10, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/10/bitcoin-price-analysis-10th-september/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>THIS WEEK ON BITCOIN</strong></p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/09/11.jpg"><img class="aligncenter size-full wp-image-11492" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/11.jpg" alt="1" width="880" height="595" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/09/11.jpg 880w, https://www.deepdotweb.com/wp-content/uploads/2015/09/11-300x203.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/09/11-290x195.jpg 290w" sizes="(max-width: 880px) 100vw, 880px"/></a></p>
 <p>This was price action observed this week, from last week’s price analysis (highlighted). A predominant sideways,, range bound action featured last week, but was bound to break out at some point. On 5 September, market broke out upwards from a $233 &#8211; $225 trading range. The first signal of an upper break out was naturally followed by buy volumes, propping price up to a $248 &#8211; a 3 week high. A consolidation followed, typical after strong moves breaking past significant moving average lines, followed by a double top second attempt at higher prices that failed at $247. As I write this, price hovers above $239, and this level is no coincidence, as are all the rest.</p>

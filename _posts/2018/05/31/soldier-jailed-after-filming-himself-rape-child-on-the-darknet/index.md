@@ -1,15 +1,15 @@
 ---
 Soldier Jailed After Filming Himself Rape Child on the Darknet
 ---
-<article class="post-listing post-25882 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-darknet tag-filming tag-jailed tag-rape tag-soldier">
+<article class="post-listing post-25882 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-child tag-darknet tag-filming tag-jailed tag-rape tag-soldier">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 31, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/31/soldier-jailed-after-filming-himself-rape-child-on-the-darknet/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 50 year-old Freiburg man will serve an 8 year prison sentence after being found guilty of raping children. It was revealed he also shared his videos on the <a href="https://www.deepdotweb.com/tag/dark/">dark web</a>. The verdict came in last week at the local district court in Germany. He was also ordered to pay 12,500 euros for court fees rendered.</p>
 <p><img class="wp-image-25888" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-66.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-66.jpeg 640w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-66-300x169.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
 <p>Image courtesy of <a href="http://www.sueddeutsche.de/panorama/kindesmissbrauch-in-staufen-acht-jahre-haft-fuer-zweiten-angeklagten-1.3981867">Süddeutsche Zeitung</a></p>

@@ -7,9 +7,8 @@ QuantikXanax Releases Intel from DrXanax Bust
 <span>October 23, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/23/quantikxanax-releases-intel-from-drxanax-bust/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Update 26.10.15</strong>: Quantik just shared with us additional evidence:</p>
 <blockquote><p>Here is an audio file. it is the audio recording of the micro of my spy in drxanax team court room. I have over 4 hours, but for convenience i have only included Part 2 of 4, because it is where LE explains how they busted them in roughly 30-40 minutes</p>
 <p>its in french. <a href="https://infotomb.com/i2iba">The file can be found here</a></p></blockquote>

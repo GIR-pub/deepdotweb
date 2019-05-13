@@ -7,9 +7,8 @@ Interview: The Evolution Of a Veteran Dark Market Dweller #3
 <span>February 26, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/02/26/interview-the-evolution-of-a-veteran-dark-market-dweller-3/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>The third part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
 <p style="text-align: center;"><span style="text-decoration: underline;"><strong>Controlling your team and the end of Shadow Crew.</strong></span></p>
 <p>An investigator once said to me in an official capacity that state police intelligence files suggested that “Deon” and his inner circle were capable of anything. On the surface, he&#8217;s just another slightly overweight, family oriented white dude who has done well for himself. To his neighbors, he’s just boring “Deon”, who is a member in an out of state LLC which revolves around computer based consultancy work – nothing you’d want to ask him about in any detail or else he might bore you to death. Despite a cursory assessment probably telling you this is a guy more at home cheering at his kid’s little league game, when you see the fire behind his eyes when he gets angry, and the cunning which lurks beneath when he&#8217;s not, combined with the subcompact semi auto I can see printing in his khakis when he stands up to go to the bathroom, you too would probably be more inclined to believe the investigator&#8217;s assessment.</p>

@@ -1,15 +1,15 @@
 ---
 Prolific Darkweb Counterfeit Vendor Arrested in Poland
 ---
-<article class="post-listing post-26902 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-counterfeit tag-darkweb tag-poland tag-prolific tag-vendor">
+<article class="post-listing post-26902 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-counterfeit tag-darkweb tag-poland tag-prolific tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 11, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/10/11/prolific-darkweb-counterfeit-vendor-arrested-in-poland/#comments">24 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>An investigation by the Gdańsk Bureau of the Polish Central Bureau of Investigation led to the arrest of one of the most prolific counterfeit euro distributors on <a href="https://www.deepdotweb.com/tag/darknet/">any darkweb marketplace</a>. According to one announcement from law enforcement, the alleged vendor had been producing and selling fake euro notes for several years. As with many of the recent counterfeit vendor busts of a similarly large scale, Europol coordinated much of the investigation and facilitated the cooperation between law enforcement agencies in at least two countries.</p>
 <p>The Gdańsk Bureau of the Polish Central Bureau of Investigation (Centralne Biuro Śledcze, CBŚP), at an undisclosed date, received a notice from Europol indicating that a large-scale counterfeit operation was based somewhere in Poland. The press release from Europol and the similar <a href="http://www.policja.pl/pol/aktualnosci/164288,Falszowane-w-Polsce-euro-trafialo-do-wielu-krajow-Europy.html">announcements from law enforcement in Poland</a> are painfully vague and non-specific in the summaries of the root of the Investigation and, for more obvious reasons, even more vague regarding a potentially massive number of future investigations. Something unknown to the public alerted Europol and Austrian authorities to the presence of a counterfeit manufacturer in Poland with connections throughout Europe.</p>
 <p>After learning that a potential supplier of a massive number of high-quality counterfeit notes operated from within Poland, the Polish Central Bureau of Investigation in Gdansk “immediately” cooperated with international law enforcement. In this case, the internal law enforcement came from Austria. At the time this article was written, no Austrian law enforcement agency had issued an announcement detailing any role in an international counterfeit bust; with Europol and CBŚP’s vague references to Austrian law enforcement, we are not even aware of the branch of law enforcement involved in the operation. More importantly, the role the Austrian law enforcement agency played in the operation is completely unknown.</p>

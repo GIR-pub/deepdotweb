@@ -7,9 +7,8 @@ title: PGP Tutorial For Newbs (Gpg4Win)
 <span>November 11, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/#comments">166 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div>
 <div>
 <p> <em>Tutorial for </em>Gpg4Win using Kleopatra can <a href="http://www.deepdotweb.com/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">be found here</a>.</p>

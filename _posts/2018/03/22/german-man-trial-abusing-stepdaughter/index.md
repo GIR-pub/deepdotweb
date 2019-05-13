@@ -1,15 +1,15 @@
 ---
 German Man on Trial for Abusing His Stepdaughter
 ---
-<article class="post-listing post-25141 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abusing tag-german tag-man tag-stepdaughter tag-trial">
+<article class="post-listing post-25141 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-abusing tag-german tag-man tag-stepdaughter tag-trial">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 22, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/22/german-man-trial-abusing-stepdaughter/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>At the Oldenburg district court, the trial against a 24-year-old alleged child abuser from Brake has begun. In order to protect the privacy of the victim—a four-year-old girl—the court proceedings will be kept private until the court reaches a verdict. However, a court spokesperson shed some light on the case that caused a nationwide stir after the Federal Criminal Police Office published a photograph of the victim and asked the pics if they could identity the child.<img class="wp-image-25145 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-8.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-8.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-8-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>In 2017, the Federal Criminal Police Office (BKA) exhausted all resources in an attempt to identify a child pictured in child abuse videos on darknet forums. The Central Office for Cybercrime (ZIT) explained the way authorities usually identified a victim or suspect in child abuse pictures and videos on the internet. However, in this case, they had stuck out. An undisclosed law enforcement agency outside Germany examined the pictures and/or videos and concluded that the victim likely lived in Germany.</p>
 <p>Without any alternatives, the BKA made an unprecedented move. The abuse had been occurring right under their noses and they had no way to end it. So <a href="https://www.deepdotweb.com/2017/12/28/second-suspect-arrested-darknet-child-abuse-case/">the BKA published a picture of the girl</a> on the internet and asked the public for assistance in identifying the child. Although that may have shared it only on Facebook initially, the photo soon spread and reached teachers and parents throughout Germany.</p>

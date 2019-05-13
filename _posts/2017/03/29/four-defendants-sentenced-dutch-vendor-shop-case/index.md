@@ -1,15 +1,15 @@
 ---
 Four Defendants Sentenced In Dutch Vendor Shop Case
 ---
-<article class="post-listing post-18867 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-defendants tag-dutch tag-sentenced tag-shop tag-vendor">
+<article class="post-listing post-18867 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-case tag-defendants tag-dutch tag-sentenced tag-shop tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 29, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/29/four-defendants-sentenced-dutch-vendor-shop-case/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Four suspects were <a href="https://rechtennieuws.nl/53638/gevangenisstraffen-tot-zes-jaar-voor-online-handel-in-drugs-en-witwassen/">sentenced</a> in the Netherlands for charges, including the running of a vendor shop on the dark web selling narcotics, drug trafficking, and money laundering.</p>
 <p>According to the court documents, the defendants were running a vendor shop on the dark net selling <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a> under the pseudo names “Amsterdam United” and “King Albert Heijn”. The suspects used various marketplaces on the dark web to export <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a>, such as amphetamine, <a href="https://www.deepdotweb.com/tag/lsd/">LSD</a> and ecstasy pills. The vendors accepted bitcoins for payments, which they later converted into euros and cashed out. According to law enforcement authorities, the criminals laundered the dirty money.</p>
 <p>When cyber criminals seek to swap dirty BTC to clean ones, they can do it easily with bitcoin mixers and tumblers. In addition to the drug-related charges, the prosecution charged all accused persons with money laundering and some of them with tax fraud. Only one defendant, “Suspect K.”, the partner of the accused V., was only convicted of “debt laundering”.</p>

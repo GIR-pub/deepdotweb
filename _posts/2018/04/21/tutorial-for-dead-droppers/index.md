@@ -1,15 +1,15 @@
 ---
 Tutorial for Dead Droppers
 ---
-<article class="post-listing post-25443 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dead tag-droppers tag-tutorial">
+<article class="post-listing post-25443 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-dead tag-droppers tag-tutorial">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>April 21, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/21/tutorial-for-dead-droppers/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>If you are reading this article, you might have decided to take on a profitable but risky job. A work of a dead dropper requires high levels of responsibility, intelligence and toughness. It is surely not an easy job and you have to work hard to achieve success and avoid punishment. If you are a drug user, are willing to have access to bulk amounts of dope, then you should better give up this idea. A dead dropper working for a darknet shop is in most cases a co-worker of a large organization, which has certain quality standards. In this tutorial, we will describe recommendations on how to improve the working process.</p>
 <p><strong>Hints for effective work</strong></p>
 <p>• Look for spots to place dead drops, make photos and descriptions during the daytime, and put the stuff in the evening or at night, moving from place to place by car or bike. This will speed up and secure your work.</p>

@@ -1,7 +1,8 @@
 ---
 FDA to Increase focus on fentanyl and other synthetic opioids at postal facilities
 ---
-<article class="post-listing post-22078 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-facilities tag-fda tag-fentanyl tag-focus tag-increase tag-opioids tag-postal tag-synthetic">
+<article class="post-listing post-22078 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-facilities tag-fda tag-fentanyl tag-focus tag-increase tag-opioids tag-postal tag-synthetic">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 20, 2017</span>

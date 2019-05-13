@@ -7,9 +7,8 @@ Major Windows Security Flaw Leaks VPN Users Real IP Address
 <span>February 1, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/01/major-windows-security-flaw-leaks-vpn-users-real-ip-address/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em><strong>To the author of this article</strong>:  We are mailing to your mail2tor.com mail, and don&#8217;t think you are getting those mails, please contact us from another address.</em></p>
 <p>Just a few days after learning that the Canadian Government is tracking visitors of popular file-sharing sites security researchers have discovered a major security flaw that reveals Windows VPN users real IP address through WebRTC. Linux and Mac OS X users are not affected by this vulnerability as it is specific to Windows users running Google Chrome and Firefox.</p>
 <p>With a few lines of code websites can make requests to <a href="http://en.wikipedia.org/wiki/STUN">STUN servers</a> and log users’ VPN IP address and their true IP address, as well as local network addresses.</p>

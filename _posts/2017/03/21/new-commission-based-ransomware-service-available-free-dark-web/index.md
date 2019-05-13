@@ -1,15 +1,15 @@
 ---
 New Commission-based Ransomware As A Service Available Free On Dark Web
 ---
-<article class="post-listing post-18728 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-commissionbased tag-dark tag-free tag-ransomware tag-service tag-web">
+<article class="post-listing post-18728 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-commissionbased tag-dark tag-free tag-ransomware tag-service tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 21, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/21/new-commission-based-ransomware-service-available-free-dark-web/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Recently, researchers have <a href="http://www.ibtimes.co.uk/dark-web-deals-this-new-raas-allows-upcoming-cybercriminals-get-ransomware-free-1610141">uncovered</a> a new ransomware as a service (RaaS), which would allow free access for wannabe hackers.</p>
 <p><img class="wp-image-18734 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/dark-web-raas-deal.jpeg" alt="Dark Web RaaS deal" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/dark-web-raas-deal.jpeg 400w, https://www.deepdotweb.com/wp-content/uploads/2017/03/dark-web-raas-deal-300x200.jpeg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
 <p>The Dot ransomware operates on a commission-based strategy, offering cybercriminals free access to the software while splitting the profits 50/50 on successful attacks. Security researchers claim that the new <a href="https://www.deepdotweb.com/tag/ransomware/">ransomware</a> came out on February 19, and it is available via a .onion website on the Tor network.</p>

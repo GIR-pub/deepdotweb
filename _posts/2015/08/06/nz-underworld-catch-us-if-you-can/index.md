@@ -7,9 +7,8 @@ NZ Underworld: &#8220;Catch Us if You Can&#8221;
 <span>August 6, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/06/nz-underworld-catch-us-if-you-can/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>These are the words ringing out from three Victoria University computer science students to the New Zealand Police who are investigating their &#8220;dark web&#8221; site trading in illegal and prescription drugs. Party drugs, painkillers, and fake doctors&#8217; scripts are for sale on this anonymous marketplace, called NZ Underworld.</p>
 <p>Started in June, and originally known as Vic Underworld…it now has a base of more than 150 members and boasting a join rate of around 3 new users per day according to local media reports.</p>
 <p>Joining is not easy and will occur on invite only, vetted by existing members. According to their Facebook Page – NZ Underworld (https://www.facebook.com/Underworldv2) their mission statement is as follows: “NZ Underworld is an anonymous trading platform, but we also have a strong political aim to drive the legalization and decriminalization of drugs within New Zealand.”</p>

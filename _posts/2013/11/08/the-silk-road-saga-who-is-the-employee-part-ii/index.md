@@ -7,9 +7,8 @@ title: The Silk Road Saga: Who is “The Employee”? – Part II
 <span>November 8, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/08/the-silk-road-saga-who-is-the-employee-part-ii/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>While the first Silk Road was still in operation, its illicit dealings brought about more crime than just the sale of drugs.  In fact, on one occasion, the leader of Silk Road, Dread Pirate Roberts, paid for the torturing and assassination of one of their own –“The Employee”.  In the first part of this series, the usernames of this individual were believed to have been ‘chronicpain’ and ‘flush’.  Not only does the timing of their original registration and last posts correlate with the staged capture and assassination of ‘The Employee’, but also, both chronicpain and flush had many of the same interests, backgrounds, and even writing styles.</p>
 <p>Nevertheless, on the Tor network, not only is tracking down who-is-who, a very difficult proposition, but the uncovering of real world identities is next to impossible.  However, investigations into the true identity of ‘The Employee’ may have finally reached a suspect.</p>
 <p>His names on Silk Road were chronicpain and flush, but his real world name is Curtis Green.  Green’s affinity for cards, chips, and opiates tell the story of who this man actually was: the man that Ross Ulbricht, DPR, thought he had killed.</p>

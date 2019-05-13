@@ -1,15 +1,15 @@
 ---
 Darknet Glock Vendor Gets 33 Months in Prison
 ---
-<article class="post-listing post-25404 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1099 tag-darknet tag-glock tag-months tag-prison tag-vendor">
+<article class="post-listing post-25404 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-1099 tag-darknet tag-glock tag-months tag-prison tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 18, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/18/darknet-glock-vendor-gets-33-months-in-prison/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Almost one year ago, Gerren Johnson and William Jackson were arraigned before U.S. Magistrate Judge Linda T. Walker on <a href="https://www.justice.gov/usao-ndga/pr/gun-traffickers-arrested-allegedly-using-dark-web-export-guns-across-world">federal firearm trafficking charges</a>. Both men had used <a href="https://www.deepdotweb.com/marketplace-directory/listing/black-market-reloaded-bmr">Blackmarket Reloaded (BMR)</a> to sell Glocks and other weapons to buyers across the globe. In April 2018, at a U.S. District Court in Georgia, Johnson received a 33 month prison sentence in exchange for his guilty plea.<img class="wp-image-25405 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-34.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-34.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-34-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>A 2013 investigation led by the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) ultimately resulted in the identification of the BMR vendors CherryFlavor and WorldWide Arms. Working alongside other federal authorities, the ATF and <a href="https://www.deepdotweb.com/tag/usps/">United States Postal Inspection Service</a> (USPIS) intercepted or examined 50 or more packages that contained firearms via investigators in the United States, the United Kingdom, Australia, Austria, Germany, and elsewhere.</p>
 <p>&#8220;According to ATF, firearms were recovered in Canada, the United Kingdom, Ireland, France, Germany, Australia, Austria, the Netherlands, Denmark, Belgium, Sweden, Kazakhstan, Russia, and Zambia,&#8221; the sentencing memorandum explained.</p>

@@ -7,9 +7,8 @@ Official Info About Sheep Case From Czech Ministry of Finance
 <span>March 28, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/28/official-info-about-sheep-case-from-czech-ministry-of-finance/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="usertext-body may-blank-within md-container">
 <div class="md">
 <p><span style="text-decoration: underline;">Following this <a href="http://www.deepdotweb.com/2015/03/27/breaking-sheep-marketplace-owner-arrested/">article</a>. Source of the info is <a href="https://www.reddit.com/user/karelb">/u/karleb</a> from <a href="https://www.reddit.com/r/DarkNetMarkets/comments/30k8d8/a_little_official_info_about_sheep_case_from/">this thread</a>:</span></p>

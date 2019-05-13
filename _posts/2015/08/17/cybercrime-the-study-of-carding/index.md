@@ -7,9 +7,8 @@ Cybercrime: The Study of Carding
 <span>August 17, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/08/17/cybercrime-the-study-of-carding/#comments">13 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="entry-content">
 <p><em>Post by <a href="https://twitter.com/Deku_shrub">@Deku_shrub</a> – Pirate Party UK and digital rights activist, transhumanist and systems administrator</em>:</p>
 <p>As someone whose used the internet for many years, the term ‘Carding’ was moderately familiar to me, a term used on unsavory forums and websites to describe the increasingly regimented process of stealing and laundering credit card information.</p>

@@ -1,15 +1,15 @@
 ---
 The GAO Tried to Illegally Buy 79 Guns Online and Failed
 ---
-<article class="post-listing post-24492 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6259 tag-buy tag-failed tag-gao tag-guns tag-illegally tag-online">
+<article class="post-listing post-24492 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-6259 tag-buy tag-failed tag-gao tag-guns tag-illegally tag-online">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 20, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/20/gao-tried-illegally-buy-79-guns-online-failed/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In a recently released report, the Government Accountability Office (GAO) revealed that for two and a half years, agents attempted to illegally buy guns on the darknet and clearnet. Unsurprisingly, the GAO found that illegally buying guns online proved more difficult than <a href="https://www.deepdotweb.com/2016/01/12/do-people-really-buy-weapons-from-dark-web-markets/">reports from the media</a>—and that which Attorney General Jeff Sessions conveyed. Every clearnet attempt failed and only two darknet attempts succeeded.<img class="wp-image-24495 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-44.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-44.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-44-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>At the request of Congress, the GAO started the so-called “<a href="https://www.scribd.com/document/368588385/INTERNET-FIREARM-SALES-ATF-Enforcement-Efforts-and-Outcomes-of-GAO-Covert-Testing">performance audit</a>” in July 2015 and ended it in November 2017. During the audit, agents attempted to illegally purchase guns on the clearnet on 72 separate occasions. All 72 attempts resulted in empty-handed agents. In 56 attempted purchases, the seller simply chose not to make the sale. Purchasing a gun online can be done legally through licensed gun stores and even through legal gun owners who live in the same state. The GAO wrote that for those types of transaction to be illegal, the seller would have to know that the buyer either lived in a different state than the seller or that the buyer could not legally own a gun.</p>
 <p><img class="wp-image-24496 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-45.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-45.png 800w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-45-300x174.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

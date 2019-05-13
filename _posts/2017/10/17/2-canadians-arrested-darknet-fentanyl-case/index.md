@@ -1,7 +1,8 @@
 ---
 2 Canadians Arrested in Darknet Fentanyl Case
 ---
-<article class="post-listing post-23107 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-canadians tag-case tag-darknet tag-fentanyl">
+<article class="post-listing post-23107 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-canadians tag-case tag-darknet tag-fentanyl">
     
 <div class="post-inner">
     

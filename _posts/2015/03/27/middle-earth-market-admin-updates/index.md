@@ -7,9 +7,8 @@ Middle Earth Downtime Update: MAJOR Attack Happening
 <span>March 27, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/27/middle-earth-market-admin-updates/#comments">15 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Middle Earth market admin updates regarding the Recent Downtime:</p>
 <blockquote><p>
     &#8212;&#8211;BEGIN PGP SIGNED MESSAGE&#8212;&#8211;<br/>

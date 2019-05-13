@@ -1,15 +1,15 @@
 ---
 Darknet Vendor Admits Fentanyl Distribution Resulting in Death
 ---
-<article class="post-listing post-24587 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-darknet tag-death tag-distribution tag-fentanyl tag-resulting tag-vendor">
+<article class="post-listing post-24587 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-admits tag-darknet tag-death tag-distribution tag-fentanyl tag-resulting tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 28, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/28/darknet-vendor-admits-fentanyl-distribution-resulting-in-death/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In early 2017, a Federal Grand Jury in South Carolina returned an indictment that accused Robert Bryan Mansfield, a 60-year-old Charleston man, of conspiracy possession with intent to distribute and conspiracy to distribute. According to court documents recently made public, authorities caught Mansfield during a Department of Homeland Security investigation into international drug trafficking. The arrest later involved officers from several law enforcement agencies, including local Charleston and Dorchester sheriff’s offices. In January 2017, <a href="https://www.justice.gov/usao-sc/pr/ladson-man-pleads-guilty-distribution-fentanyl-resulting-death">Mansfield pleaded guilty</a> to fentanyl distribution that resulted in a death.<img class="wp-image-24588 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-45.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-45.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-45-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>According to the court documents, Mansfield imported almost seven pounds of fentanyl. Much of the information revealed by Homeland Security Investigations agents came from statements made by Mansfield after his arrest. Federal investigators said that the suspect, after being arrested, told authorities how he managed his drug trafficking operation. Agents in a U.S. District Court in Charleston relayed this information during Mansfield&#8217;s first court appearance.</p>
 <p><img class="wp-image-24589 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-46.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-46.jpeg 700w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-46-300x171.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>

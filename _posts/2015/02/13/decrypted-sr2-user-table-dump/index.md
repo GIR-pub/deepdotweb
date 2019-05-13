@@ -7,9 +7,8 @@ The Decrypted SR2 User Table Dump
 <span>February 13, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/13/decrypted-sr2-user-table-dump/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
     

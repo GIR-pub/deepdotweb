@@ -7,9 +7,8 @@ Bitcoin Price Analysis September 2nd
 <span>September 2, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/02/bitcoin-price-analysis-september-2nd/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/09/1.jpg"><img class="aligncenter size-full wp-image-11405" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/1.jpg" alt="1" width="850" height="596" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/09/1.jpg 850w, https://www.deepdotweb.com/wp-content/uploads/2015/09/1-300x210.jpg 300w" sizes="(max-width: 850px) 100vw, 850px" /></a></p>
 <p>This was price action this week &#8211; an uninspiring sideways trend with a bit of bullish intent that failed at $239. The rest of it was Meh. Since turning from bottom at $196.6, volume is visibly thin after a V-channel retracement going up till $230. The dragon-fly doji pattern at $296 vindicates the move that followed, but looks suspect after this week’s dreary sideways action. After peaking at $239, market seems to be at a major decision point and is stuck in limbo; whether to break up or down. A big move looks certain, question is where?</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/09/2.jpg"><img class="aligncenter size-full wp-image-11406" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/2.jpg" alt="2" width="843" height="474" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/09/2.jpg 843w, https://www.deepdotweb.com/wp-content/uploads/2015/09/2-300x169.jpg 300w" sizes="(max-width: 843px) 100vw, 843px" /></a></p>

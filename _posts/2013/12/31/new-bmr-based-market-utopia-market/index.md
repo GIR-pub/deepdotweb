@@ -7,9 +7,8 @@ title: BMR Based Market: Utopia Market
 <span>December 31, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/31/new-bmr-based-market-utopia-market/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <ul>
 <li><strong>Update 3.2.14</strong> &#8211; Utopia Marketplace is now <a href="http://www.deepdotweb.com/2014/02/03/utopia-marketplace-is-now-officialy-open/">officially open</a></li>
 </ul>

@@ -7,9 +7,8 @@ Lizard Squad Are Planning to Launch A Dark Net Market?
 <span>February 8, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/08/lizard-squad-planning-launch-dark-net-market/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Apparently Lizard squad &#8211; the &#8220;hacker team&#8221; who DDos&#8217;ed Xbox live servers on Christmas,  have managed to find a sure plan to land them in prison for a while,</p>
 <p>Few weeks after launching lizardstresser.su (blocked in most regions)- A platform for purchasing automated Ddos services that was <a href="http://news.softpedia.com/news/Lizard-Squad-s-DDoS-Website-Gets-Hacked-Passwords-Stored-In-Plain-Text-470333.shtml">hacked</a> shortly after its launch and found to be operating on hacked <a href="http://krebsonsecurity.com/2015/01/lizard-stresser-runs-on-hacked-home-routers/">home routers</a>, with all the passwords stored in plain text, not too long after a couple of this group members were <a href="http://krebsonsecurity.com/2014/12/whos-in-the-lizard-squad/">doxxed</a> and arrested. The group have announced on twitter and on lizardstresser.su homepage that they are about to launch something called &#8220;Shenron LLC&#8221;:</p>
 <blockquote class="twitter-tweet" width="550">

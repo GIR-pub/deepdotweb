@@ -1,15 +1,15 @@
 ---
 Almost Six Years in Prison for Fake Oxycodone Dealer
 ---
-<article class="post-listing post-25791 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dealer tag-fake tag-oxycodone tag-prison tag-years">
+<article class="post-listing post-25791 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-dealer tag-fake tag-oxycodone tag-prison tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 22, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/22/almost-six-years-in-prison-for-fake-oxycodone-dealer/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>At a federal district court in South Dakota, U.S. District Judge Karen E. Schreier sentenced Jacob Hubbs, 21, to almost six years in prison for ordering counterfeit oxycodone pills on <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a> to resell locally. Hubbs had pleaded guilty to a fentanyl distribution conspiracy in February, 2018.<img class="wp-image-25793 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-41.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-41.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-41-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>In 2017, the South Dakota Division of Criminal Investigation initiated an investigation into Hubbs for suspected drug trafficking or distribution. Several drug task forces from numerous state counties contributed to the investigation. The highway patrol assisted local police in the actual arrest and throughout different parts of the investigation. The court ordered that the indictment—along with the majority of related documents relevant to the case—remain sealed until an undisclosed date.</p>
 <p>The sealed documents prevent the collection of information about the beginning of the case and events that led to Hubbs’ arrest. The seemingly excessive number of sealed court documents may play into any ongoing investigation into conspirators; in the February plea agreement, Hubbs admitted he had “voluntarily and intentionally joined in the agreement or understanding to distribute fentanyl” with at least one other individual. No court or arrest records reveal arrests connected to Hubbs’ operation. The police could actually be conducting an investigation into any number of alleged dealers connected to Hubbs.</p>

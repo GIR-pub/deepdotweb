@@ -7,9 +7,8 @@ Dutch Vendor Busted: &#8220;HollandOnline&#8221;
 <span>March 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/12/dutch-vendor-bust-hollandonline/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Not long after the recent revelation about the large scale bust of <a href="http://www.deepdotweb.com/2015/03/12/shiny-flakes-bust-38-houses-raided/" target="_blank">Shiny-Flakes</a>, another bust was revealed &#8211; this time of the veteran dutch vendor &#8220;HollandOnline&#8221;:</p>
 <p>Arrests for large-scale drug trafficking on the underground marketplaces &#8211; March 12, 2015 – Translated from <a href="https://www.om.nl/actueel/nieuwsberichten/@88570/aanhoudingen/" target="_blank">Dutch National Office Of The Public Prosecutor:</a></p>
 <p>On Monday, the Amsterdam and Utrecht police arrested two men on suspicion of large-scale drug trafficking through illegal online marketplaces and money laundering.</p>

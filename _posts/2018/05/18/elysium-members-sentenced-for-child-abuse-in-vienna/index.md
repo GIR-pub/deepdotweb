@@ -1,15 +1,15 @@
 ---
 Elysium Members Sentenced for Child Abuse in Vienna
 ---
-<article class="post-listing post-25733 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-child tag-elysium tag-members tag-sentenced tag-vienna">
+<article class="post-listing post-25733 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-abuse tag-child tag-elysium tag-members tag-sentenced tag-vienna">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 18, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/18/elysium-members-sentenced-for-child-abuse-in-vienna/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>During a sentencing hearing at a court in Vienna, two men and one woman <a href="http://www.oe24.at/oesterreich/chronik/wien/Wien-Hohe-Haftstrafen-im-Paedophilen-Prozess/332657943">received prison sentences</a> for abusing two children, filming the abuse, and subsequently uploading the videos to the darknet child abuse forum “Elysium.” The victims, prosecutors revealed, were the children of two of the now-convicted child abusers.<img class="wp-image-25736 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-33.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-33.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-33-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The German Federal Criminal Police Office <a href="https://www.deepdotweb.com/2017/08/04/bka-arrests-67-suspects-child-porn-bust/">seized the darknet forum in 2017</a> following a lengthy investigation into the site and the site&#8217;s owners. The police have indicated they caught a site administrator, but recent developments have revealed that the site&#8217;s owner likely avoided incarceration. For law enforcement, though, capturing the owner mattered significantly less than catching and convicting the users of the forum and especially the users of the forum had been actively abusing children. And the BKA, thanks to recent investigative tactics involving the public, successfully arrested dozens of Elysium members. While this number may seem low, keep in mind that the United States Federal Bureau of Investigation is still arresting members of the darknet members of <a href="https://www.deepdotweb.com/tag/Playpen/">the darknet forum “Playpen”</a>, a forum they seized almost half-a-decade ago.</p>
 <p>The court accused the trio of routine child abuse that began in 2014. The father of the abused children acknowledged that he had developed a sexual interest in children at age 13. He never abused children, he said, until after he married one of the co-defendants and had children with her. He suppressed his urges until his wife gave birth to their second child—the son. His first child, the daughter, first suffered abuse at age two, he said.</p>

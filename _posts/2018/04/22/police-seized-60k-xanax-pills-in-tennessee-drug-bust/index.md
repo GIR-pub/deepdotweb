@@ -1,15 +1,15 @@
 ---
 Police Seized 60K Xanax Pills in Tennessee Drug Bust
 ---
-<article class="post-listing post-25451 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-60k tag-bust tag-drug tag-pills tag-police tag-seized tag-tennessee tag-xanax">
+<article class="post-listing post-25451 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-60k tag-bust tag-drug tag-pills tag-police tag-seized tag-tennessee tag-xanax">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 22, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/22/police-seized-60k-xanax-pills-in-tennessee-drug-bust/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.dnj.com/story/news/2018/04/10/post-office-sheriffs-deputies-discover-illegal-xanax-producing-hub-sending-drugs-ntionwide-murfreesb/504360002/">Tennessee law enforcement</a> uncovered a massive cache of pressed ‘Xanax’ pills and alprazolam powder while executing arrest warrants at two locations in Rutherford County. According to a statement from local authorities, the suspects had nearly 60,000 fake Xanax pills and one pound of pure alprazolam—the active ingredient in Xanax. The police valued the pills and powder at 1.3 million dollars.</p>
 <p>The investigation that led to the discovery began in January 2018. A United States Postal Inspector spotted a pattern of suspicious packages shipped from a Post Office in Murfreesboro to addresses across the United States. Soon after identifying the stream of suspicious packages, the Postal Inspector alerted Rutherford County Sheriff&#8217;s detectives.</p>
 <p>The announcement only mentioned assistance from the United States Postal Inspection Service (USPIS). According to the announcement, the Postal Inspector sent his or her findings to Rutherford County Narcotics Detective Mike Hoekstra. From there, Hoekstra conducted his own investigation and eventually zeroed in on 25-year-old Joseph Davis and 29-year-old Erica Dotson as the senders of the suspicious packages.</p>

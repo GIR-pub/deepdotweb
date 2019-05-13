@@ -7,9 +7,8 @@ Bitcoin Price Analysis March 31st
 <span>March 31, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/31/bitcoin-price-analysis-march-31st/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>This week the market was mostly in a correction, consolidating sideways while gradually retracing from the bottom in what I observe to be a corrective wave. The last impulsive drop from $280 and $270 exhibited a similar pattern. A 3 wave motive move to the bottom, with intermittent corrections. Retracement up from $247 to $271 was a 50% retracement &#8211; typical of corrective waves. The current price range, is a correction of an impulsive wave from $271 to $235. A 50% retracement level lies at around $254. So far, prices are within reasonable range of a corrective description.</p>
 <p><a href="/imgs/2015/03/21.png"><img class="aligncenter  wp-image-9807" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/21.png" alt="2" width="692" height="402" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/21.png 1680w, https://www.deepdotweb.com/wp-content/uploads/2015/03/21-300x174.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/03/21-1024x595.png 1024w" sizes="(max-width: 692px) 100vw, 692px" /></a></p>
 <p>The leg up from $235 low has been a rally on declining volume. Support on this sideways consolidation is at $239, evident from strong rejection by candlestick extensions. On the upper side, resistance is at fibonacci 50% retracement level &#8211; $254.Furthermore, on the 6H chart, 30 day EMA line has resisted breakouts above it at multiple significant points (encircled). 10, 20, 30 and 50 day EMA are above current prices. A short term reversal will have to break past all 4 EMAs for a convincing change of trend. For example, a sustainable break above $268.</p>

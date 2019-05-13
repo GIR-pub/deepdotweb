@@ -1,15 +1,15 @@
 ---
 Three US Naval Cadets under Investigation for Dealing in Drug Trade on Darknet
 ---
-<article class="post-listing post-24985 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cadets tag-darknet tag-dealing tag-drug tag-investigation tag-naval tag-trade">
+<article class="post-listing post-24985 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-cadets tag-darknet tag-dealing tag-drug tag-investigation tag-naval tag-trade">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>March 7, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/07/three-us-naval-cadets-investigation-dealing-drug-trade-darknet/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The US authorities have launched a thorough investigation into a darknet drug case <a href="https://sputniknews.com/us/201802251061981106-us-naval-academy-alleged-drug-ring/">involving three US naval cadets</a>. The US Naval Academy located near Washington in Annapolis fished out three cadets, accused of selling illicit drugs and accepting payment in Bitcoin using a Darknet marketplace. This flouts the regulation of the Navy as a tolerance to drug abuse of any form is zero.</p>
 <p>According to a report, authorities did not hesitate to take action after they received information of a possible engagement of Darknet drugs by the three Midshipmen. Authorities commenced on a search in their homes with all the arsenals at their disposal. One of the suspects wanted to run away but was not fast enough to escape the investigators. It has been said that the number of Midshipmen who took advantage of the Darknet is almost 24, however, only three have been unlucky so far to be the focal point of this ongoing investigation. The report says that the midshipmen arrested were partly engaged in a larger Darknet drug ring of selling Ketamine, LSD, and Cocaine.</p>
 <p>“The Naval Academy and the Naval Criminal Investigative Service recently initiated a command-assisted investigation in Annapolis after receiving a midshipman report of alleged recreational drug use within the Brigade,” said Commodore David McKinney, the Academy’s spokesman.</p>

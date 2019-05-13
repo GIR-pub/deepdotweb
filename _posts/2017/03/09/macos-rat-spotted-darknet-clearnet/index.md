@@ -1,15 +1,15 @@
 ---
 MacOS RAT Spotted on the Darknet and Clearnet
 ---
-<article class="post-listing post-18512 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-clearnet tag-darknet tag-macos tag-rat tag-spotted">
+<article class="post-listing post-18512 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-clearnet tag-darknet tag-macos tag-rat tag-spotted">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 9, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/09/macos-rat-spotted-darknet-clearnet/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Long gone are the days that Mac OS users can legitimately claim that malware only affects Windows machines. Malware in general spreads through our lives, daily. New <em>pieces</em> of malicious software appear daily too. Usually <a href="https://www.deepdotweb.com/tag/Windows/">Windows machines and isolated browsers are the target</a> but Apple’s Macintosh line is not exempt. As a testament to this statement, researchers <em>found</em> a new brand of malware, again targeting Mac OS.</p>
 <p>Proton, the malware in question, took the form of a Remote Administration Tool or Remote Access Trojan, according to two demonstration videos on YouTube. The tool’s developer demonstrated Proton’s ability to monitor computers wirelessly. The entity primarily marketed, <a href="https://m.youtube.com/watch?v=JA7sfDc9Ad0">on YouTube</a>, the RAT’s ability to record keystrokes.</p>
 <p><img class="wp-image-18518 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-2.png" width="847" height="518" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-2.png 1550w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-2-300x183.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-2-1024x626.png 1024w" sizes="(max-width: 847px) 100vw, 847px"/></p>

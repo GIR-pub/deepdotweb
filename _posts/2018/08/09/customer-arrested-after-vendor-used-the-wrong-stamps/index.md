@@ -1,15 +1,15 @@
 ---
 Customer Arrested After Vendor Used the Wrong Stamps
 ---
-<article class="post-listing post-26520 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-customer tag-stamps tag-vendor tag-wrong">
+<article class="post-listing post-26520 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-customer tag-stamps tag-vendor tag-wrong">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 9, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/09/customer-arrested-after-vendor-used-the-wrong-stamps/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In the District Court of Wolfratshausen, a 23-year-old from Bad Tölz, Bavaria, Germany, faced a judge for sentencing connected to a recent drug possession and drug trafficking conviction. The prosecution asked for a prison sentence of more than two years. The judge, though, after hearing the defendant’s side of the story, called the sentence proposed by the prosecutor “incomprehensible.”</p>
 <p>In court, the 23-year-old told the judge how he had fallen into a life of crime. The story detailed his descent into increasingly illegal activities, several arrests, a self-described “rock bottom,&#8221; and then an uphill climb towards recovery. The prosecutor stuck to the request for a prison sentence. But at the end of the defendant’s story, the thought derailing the life of a man who had successfully recovered from drug addiction “<a href="https://www.merkur.de/lokales/bad-toelz/bad-toelz-ort28297/amtsgericht-wolfratshausen-suechtiger-krempelt-sein-leben-um-10053495.html">would be nonsense</a>,&#8221; according to the deense. The man’s lawyer wanted a suspended sentence of less than two years.</p>
 <p>The 23-year-old’s first experience with drugs, the court heard, happened a few months before he turned 18. He said that he smoked <a href="https://www.deepdotweb.com/tag/marijuana/">marijuana</a> with his friends on a class trip to Berlin. He said that he left home at 18 and marijuana became an everyday habit. However, he said, marijuana was not enough. He tested other drugs, the court heard. He moved from being stoned every day to being stoned while tripping on LSD (presumably the daily LSD habit only lasted two days or so). He continued his so-called “tests” with different drugs.</p>

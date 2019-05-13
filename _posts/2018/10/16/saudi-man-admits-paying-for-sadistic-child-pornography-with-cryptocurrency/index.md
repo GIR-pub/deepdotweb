@@ -1,15 +1,15 @@
 ---
 Saudi Man Admits Paying for “Sadistic” Child Pornography with Cryptocurrency
 ---
-<article class="post-listing post-26964 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-child tag-cryptocurrency tag-man tag-paying tag-pornography tag-sadistic tag-saudi">
+<article class="post-listing post-26964 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-admits tag-child tag-cryptocurrency tag-man tag-paying tag-pornography tag-sadistic tag-saudi">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 16, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/10/16/saudi-man-admits-paying-for-sadistic-child-pornography-with-cryptocurrency/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In a court in the Eastern District of Virginia, a Saudi national admitted downloading child abuse content from a darkweb platform that provided illegal content to paying members. <a href="https://www.justice.gov/opa/pr/foreign-national-pleads-guilty-downloading-child-pornography-dark-web-exchange-cryptocurrency">The announcement</a>, published on the Department of Justice Office of Public Affairs’ website, highlighted the fact that the defendant had “paid cryptocurrency” to access this <a href="https://www.deepdotweb.com/tag/darknet">darkweb platform</a> in search of illegal pictures and videos.</p>
 <p>The case, brought to the attention of law enforcement agencies by Project Safe Childhood, is one of only a small number of cases involving child abuse platforms with a membership fee payable in cryptocurrency. These forums, chat rooms, imageboards, and and similar content distribution sites have often presented a barrier of entry for law enforcement by requiring members or users to upload new or “original” content before accessing the hidden service, website, or even group on the Kik Messenger application. Although law enforcement compliance with the rules of these platforms has been a heated topic of debate for individuals in the legal field and elsewhere, requiring users to upload illegal content has only stopped or <a href="https://www.deepdotweb.com/tag/playpen">hindered law enforcement in certain jurisdictions</a> or countries. Sites hosting illegal content with a payment gateway pose a different threat to law enforcement and potentially more serious punishments for the individuals running the site.</p>
 <p>U.S. District Judge Liam O’Grady, at the United States District Court for the Eastern District of Virginia, presided over a plea hearing wherein Ammar Atef Alahdali, 22, admitted that he had accessed <a href="https://www.deepdotweb.com/tag/darknet">hidden services</a> that offered pictures and videos depicting the “sexual abuse of children” and, in some instances, “sadistic sexual conduct.” He first accessed these platforms in 2017, according to information revealed in court. He had downloaded more than 20 videos from a platform that required a payment of an unspecified amount via <a href="https://www.deepdotweb.com/tag/cryptocurrency">a form of cryptocurrency</a>. The details of the payment and cryptocurrency were not disclosed during the hearing. Law enforcement, for the sake of preserving the integrity of an ongoing investigation, did not reveal any information that would allow identification of the specific site Alahdali had used. However, his case is unique enough that some identification is unavoidable.</p>

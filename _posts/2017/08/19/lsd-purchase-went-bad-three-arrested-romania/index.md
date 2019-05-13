@@ -1,7 +1,8 @@
 ---
 LSD Purchase Went Bad: Three Arrested In Romania
 ---
-<article class="post-listing post-22042 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-bad tag-lsd tag-purchase tag-romania">
+<article class="post-listing post-22042 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-bad tag-lsd tag-purchase tag-romania">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 19, 2017</span>

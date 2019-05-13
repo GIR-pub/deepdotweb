@@ -7,9 +7,8 @@ Bitcoin Price Analysis 27th August
 <span>August 27, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/27/bitcoin-price-analysis-27th-august/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/08/14.jpg"><img class="aligncenter size-full wp-image-11374" src="https://www.deepdotweb.com/wp-content/uploads/2015/08/14.jpg" alt="1" width="877" height="592" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/08/14.jpg 877w, https://www.deepdotweb.com/wp-content/uploads/2015/08/14-300x203.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/08/14-290x195.jpg 290w" sizes="(max-width: 877px) 100vw, 877px" /></a></p>
 <p>After last week’s flash crash on Bitfinex, that dragged the market down to low 200s &#8211; $220 on most exchanges vs $162 on BFX, the market retraced up this week to a max high of $236. That was about it in terms of buying interest as the prices traded within a sideways 10 dollar range &#8211; upper ceiling of $236 and lower bound of $226. It had the makings of a consolidation before continuation; this was confirmed on Monday when prices sunk lower to a 5 month low of $198 (Bitstamp), unfolding fast within a 24 hour time span.</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/08/24.jpg"><img class="aligncenter size-full wp-image-11375" src="https://www.deepdotweb.com/wp-content/uploads/2015/08/24.jpg" alt="2" width="874" height="492" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/08/24.jpg 874w, https://www.deepdotweb.com/wp-content/uploads/2015/08/24-300x169.jpg 300w" sizes="(max-width: 874px) 100vw, 874px" /></a></p>

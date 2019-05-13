@@ -1,15 +1,15 @@
 ---
 Former GP Cleared of “Crimebay” Murder for Hire Charges
 ---
-<article class="post-listing post-26529 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charges tag-cleared tag-crimebay tag-gp tag-hire tag-murder">
+<article class="post-listing post-26529 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-charges tag-cleared tag-crimebay tag-gp tag-hire tag-murder">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 10, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/10/former-gp-cleared-of-crimebay-murder-for-hire-charges/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Dr. David Crichton, a former GP from Bournemouth, Dorset, had blamed his financial advisor for the loss of almost $400,000 from his pension fund. After discovering the losses and that his financial advisor had provided poor advice, the retired GP sent suicide notes to his financial advisor. And then he signed up for Crimebay—a fake hitman site on the darknet—and almost paid a hitman to kill his financial advisor. At a recent hearing, the court <a href="https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.financialplanningtoday.co.uk/news/item/9069-ex-gp-cleared-of-trying-to-hire-hitman-to-kill-financial-adviser&amp;ved=0ahUKEwjzlcnu_r7cAhVkh1QKHVg5Dc44KBCpAgg0KAEwCA&amp;usg=AOvVaw21Smg7RKhU-t0SIDd1GSKU">cleared the the murder-for-hire charges</a>. The court fined him for sending malicious communication.<img class="wp-image-26532 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-23.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-23.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-23-300x154.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Evidence from a seized Crimebay server directly connected the retired doctor to an unfinished murder-for-hire order, authorities revealed. However, after hearing that Dr. Crichton had not planned on actually sending any Bitcoin to pay for the murder of his former financial advisor, Justice Dingemans at Winchester Crown Court acquitted the “self-absorbed” man of <a href="https://www.deepdotweb.com/2018/05/03/illinois-woman-nabbed-in-dark-web-murder-for-hire-plot/">the murder-for-hire charges</a>.</p>
 <p>That left three charges of sending malicious communication. According to the former financial advisor—a regulated advisor and pension planner named Andrew Bolden—Crichton sent two text messages and placed one phone call to Bolden’s cellphone. Crichton, according to his own defense attorney, had received such “poor guidance” from Bolden regarding his pension that he grew consumed by his feelings of both rage and sadness. The alleged “poor guidance” had resulted in the loss of almost $400,000.</p>

@@ -1,15 +1,15 @@
 ---
 Iowa Senate Pass Bills to Crackdown Card Skimmers on Gas Pump and ATM
 ---
-<article class="post-listing post-25074 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-atm tag-bills tag-card tag-crackdown tag-gas tag-iowa tag-pass tag-pump tag-senate tag-skimmers">
+<article class="post-listing post-25074 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-atm tag-bills tag-card tag-crackdown tag-gas tag-iowa tag-pass tag-pump tag-senate tag-skimmers">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>March 17, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/17/iowa-senate-pass-bills-crackdown-card-skimmers-gas-pump-atm/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Over the years, credit and debit card skimmers have increased with the exploitation of ATM loopholes to obtain card information. They normally do this to offer the obtained credit card information for sale on the Darknet, or they use them for illegal withdrawals. This operation has caused <a href="https://www.desmoinesregister.com/story/news/politics/2018/03/01/iowa-senate-oks-crackdown-card-skimmers-gas-pumps-atms/384462002/">lawmakers to pass a bill</a> that will see convicted skimmers spend up to 5 years in jail. The authorities finalized this on Thursday and came out with the best regulation that will seek to scare away skimmers and control their rampant operation.</p>
 <p>The current law states that any individual who uses a scanning device to obtain information from a person’s ATM commits a class D felony. The current law also demands prosecutors to prove very well that individuals have the intention to defraud the authorized user, the issuer of the authorized user’s payment card, or a merchant. Brad Zaun, a state senator, R-Urbandale, and the bill&#8217;s floor manager said that he met with experts to learn with surprise about the tactics used in skimming people.Darknet marketplaces have cheap software available. <a href="https://www.deepdotweb.com/2017/09/30/advanced-atm-skimming-tools-circulate-dark-web-severe-security-issues/">An ATM skimming tool circulated on the Darknet</a> last year also posed a security threat.</p>
 <p>Authorities explained that skimmers purchase a smaller sized device online that is capable of monitoring and storing information without the knowledge of the victims. These devices are then attached to payment terminals to store all the needed data for the skimmer to access them. Victims only get to know about this after a transfer is made from their account. Also, skimmers sometimes use the card information to directly make purchases online. This form of fraud has driven the local government to put an end to it once and for all; however, only time will tell whether it will have any impact. The bill seeks to expand the crime of third-degree criminal mischief.</p>

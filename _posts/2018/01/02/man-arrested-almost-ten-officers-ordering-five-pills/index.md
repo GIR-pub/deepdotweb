@@ -1,15 +1,15 @@
 ---
 Man Arrested by ‘Almost Ten’ Officers for Ordering Five Pills
 ---
-<article class="post-listing post-24237 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-man tag-officers tag-ordering tag-pills tag-ten">
+<article class="post-listing post-24237 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-man tag-officers tag-ordering tag-pills tag-ten">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 2, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/02/man-arrested-almost-ten-officers-ordering-five-pills/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Switzerland, authorities charged a 25-year-old man with violations of the Narcotics Act after <a href="http://www.20min.ch/schweiz/bern/story/26730048">he ordered five ecstasy pills</a> from a darknet vendor that the police intercepted. The suspect asked the vendor for a reship, but instead of the drugs at his door, he said he found “almost ten policemen.” He argued that the overkill caused him emotional distress. Despite the negative experience, the buyer said that he would not let the police keep him from doing ecstasy. Next time I will order “the pills from a Swiss supplier,” he said.</p>
 <p>The 25-year-old said that he had tried drugs for the first time in the Summer of 2017. He discovered LSD, liked it, and wanted to experiment with other substances. &#8220;So I ordered five ecstasy pills from the Netherlands on <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a>,&#8221; he told the court. The allotted delivery window passed and the drugs had not arrived. After talking to the darknet vendor and explaining that the pills never showed up, the vendor shipped another package to the man for free.</p>
 <p><img class="wp-image-24241" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-1.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-1.jpeg 800w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-1-300x169.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

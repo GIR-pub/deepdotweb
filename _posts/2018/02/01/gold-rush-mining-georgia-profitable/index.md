@@ -1,15 +1,15 @@
 ---
 Gold rush: why mining in Georgia is so profitable?
 ---
-<article class="post-listing post-24629 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-georgia tag-gold tag-mining tag-profitable tag-rush">
+<article class="post-listing post-24629 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-georgia tag-gold tag-mining tag-profitable tag-rush">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>February 1, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/02/01/gold-rush-mining-georgia-profitable/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a id="post-24629-_gjdgxs"></a> Cryptocurrencies rush has embraced the whole world &#8211; digital money allows people to invest, pay for goods, services and surely earn. Interest in them is stimulated by an unprecedented rising cost. Today, <a href="https://www.deepdotweb.com/2018/01/14/bitcoin-news-roundup-14-1-18/">bitcoin</a> is the first and most popular cryptocurrency, it emerged in 2009 and was widely used as a means of payment already in a year. The cryptocurrencies rush covers more spheres of activity in Georgia. Apart from professional miners, even political parties attach themselves to mining. Furthermore, according to several researches, Georgia is one of the leaders in mining cryptocurrencies.</p>
 <p><img class="wp-image-24632" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-53.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-53.jpeg 960w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-53-300x169.jpeg 300w" sizes="(max-width: 960px) 100vw, 960px" /></p>
 <p>In accordance with <a href="https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2017-04-20-global-cryptocurrency-benchmarking-study.pdf">the research &#8220;Global cryptocurrency benchmarking study&#8221;</a> carried out by the Cambridge Center for Alternative Finance, Georgia has taken the second place in energy consumption for mining cryptocurrencies. This study states that China is in first place (where 111 megawatt of electricity is spent on mining), Georgia takes the second place with 60 megawatt, the USA is on the third place spending 27 megawatt and Canada gets the fourth spot with 18 megawatt.</p>

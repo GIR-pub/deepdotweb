@@ -1,15 +1,15 @@
 ---
 German Politician: Crime On The Dark Net Is Growing
 ---
-<article class="post-listing post-18498 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crime tag-dark tag-german tag-growing tag-net tag-politician">
+<article class="post-listing post-18498 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-crime tag-dark tag-german tag-growing tag-net tag-politician">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 8, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/08/german-politician-crime-dark-net-growing/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>German politician Harald Schwartz (CSU &#8211; Christian Social Union in Bavaria) visited a local police station in Sulzbach-Rosenberg to <a href="https://www.onetz.de/sulzbach-rosenberg/politik/polizei-vor-neuen-herausforderungen-immer-mehr-straftaten-im-netz-d1731091.html">discuss important topics</a>, including internet and dark net crime.</p>
 <p><img class="wp-image-18505 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/mdl-harald-schwartz-center-informed-himself-abo.jpeg" alt="
     MdL Harald Schwartz (center) informed himself about the combating of the internet criminality with first police chief commissioner Josef Fleischmann (left) and police chief commissioner Thomas Lehner.  Image: hfz" width="637" height="425" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/mdl-harald-schwartz-center-informed-himself-abo.jpeg 990w, https://www.deepdotweb.com/wp-content/uploads/2017/03/mdl-harald-schwartz-center-informed-himself-abo-300x200.jpeg 300w" sizes="(max-width: 637px) 100vw, 637px"/></p>

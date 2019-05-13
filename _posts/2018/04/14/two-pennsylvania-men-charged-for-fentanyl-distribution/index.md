@@ -1,15 +1,15 @@
 ---
 Two Pennsylvania Men Charged for Fentanyl Distribution
 ---
-<article class="post-listing post-25373 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charged tag-distribution tag-fentanyl tag-men tag-pennsylvania">
+<article class="post-listing post-25373 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-charged tag-distribution tag-fentanyl tag-men tag-pennsylvania">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 14, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/14/two-pennsylvania-men-charged-for-fentanyl-distribution/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Jamil I. Chapman and his nephew Nasai J. Chapman allegedly used the darknet to import fentanyl and carfentanil from China to their residence in Montgomery County, Pennsylvania. <a href="http://www.philly.com/philly/news/crime/2-men-charged-montgomery-county-montco-deadly-opioid-carfentanil-china-district-attorney-kevin-steele-20180328.html">Authorities announced</a> that, in total, the men had ordered *fentanyl packages on seven occasions and received between 400 and 500 grams of the drugs.<img class="wp-image-25379 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-30.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-30.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-30-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The investigation began in 2017 after a neighbor reported the duo’s “suspicious” activity to the police. Police had recently responded to the apartment owned by one of the suspects when Jamil had overdosed on heroin. The police found heroin in his possession and evidence that he had been using the apartment to <a href="https://www.deepdotweb.com/tag/fentanyl/">process fentanyl and carfentanil</a>. Montgomery County District Attorney Kevin R. Steele said the Chapmans were the first alleged drug dealers who trafficked carfentanil in Montgomery County.</p>
 <p>In September 8, 2017, Jamil had to report to Montgomery County Correctional Facility to serve a sentence for a crime unrelated to the <a href="https://www.deepdotweb.com/tag/fentanyl/">fentanyl trafficking charges</a>. Only three days later, the Lower Merion police returned to his apartment to gather evidence against the Chapman duo. They found “75 bags of heroin stamped “PLUTO,” court documents revealed. They called the product heroin but wrote that they believed the bags contained fentanyl. They also found Western Union money orders not unlike those used in jail as a replacement for cash.</p>

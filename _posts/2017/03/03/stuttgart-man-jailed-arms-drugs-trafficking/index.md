@@ -1,7 +1,8 @@
 ---
 Stuttgart Man Jailed For Arms And Drugs Trafficking
 ---
-<article class="post-listing post-18419 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arms tag-drugs tag-jailed tag-man tag-stuttgart tag-trafficking">
+<article class="post-listing post-18419 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arms tag-drugs tag-jailed tag-man tag-stuttgart tag-trafficking">
     
 <div class="post-inner">
     

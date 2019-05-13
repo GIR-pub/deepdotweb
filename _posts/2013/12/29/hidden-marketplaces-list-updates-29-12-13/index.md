@@ -7,9 +7,8 @@ title: Hidden Marketplaces List updates 29.12.13
 <span>December 29, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/29/hidden-marketplaces-list-updates-29-12-13/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In addition to our regular updates &#8211; We have done some major updates to our list of hidden marketplaces to reflect the latest changes in Deep web marketplaces scene. this is the recap of recent changes:</p>
 <ol>
 <li>Added a warning regarding the use of one site escrow wallets &#8211; due to the recent scams, we think that on sites escrows should not be trusted again &#8211; only p2p escrows with 2 key holders like themarketplace.i2p is using</li>

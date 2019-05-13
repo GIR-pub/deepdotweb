@@ -7,9 +7,8 @@ Child Porn Crackdown In Slovenia: Law Enforcement Raided 13 Apartments
 <span>March 23, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/23/child-porn-crackdown-slovenia-law-enforcement-raided-13-apartments/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On March 7, investigators in Slovenia <a href="http://www.politikis.si/?p=181728">carried out</a> house searches at several locations in connection with the sexual abuse of children on the internet.</p>
 <p>According to police information, law enforcement authorities raided 13 addresses aiming at collecting information and evidence to justify the suspicion of crime presentation, manufacture, possession, and distribution of <a href="https://www.deepdotweb.com/tag/child/">child pornographic material</a>. The primary objective of the police action was to identify the victims of sexual abuse. The General Police Directorate started investigating online child porn cases in 2015, the long-lasting investigation only resulted in major steps against alleged criminals now.</p>
 <p>The house searches took place at 6 pm at the home of the suspects involving 79 police investigators and officers in Celje, Maribor, Novo mesto, Koper, Murska Sobota, Kranj, and Ljubljana.</p>

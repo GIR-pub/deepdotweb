@@ -1,15 +1,15 @@
 ---
 A brief summary on Bitcoin Unlimited
 ---
-<article class="post-listing post-18832 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-summary tag-unlimited">
+<article class="post-listing post-18832 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-bitcoin tag-summary tag-unlimited">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
 <span>March 21, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/21/brief-summary-bitcoin-unlimited/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Following the growing need for a scaling solution to be implemented in Bitcoin, the prospect of a hard fork to the Bitcoin Unlimited consensus rules seems to be becoming a very real possibility. Exchanges have issued a group <a href="http://www.coindesk.com/bitcoin-exchanges-unveil-emergency-hard-fork-contingency-plan/">contingency plan</a> in case of an hard fork stating that Bitcoin Unlimited will be listed as an alternative cryptocurrency. Bitfinex has even created a form of <a href="https://www.cryptocompare.com/coins/guides/chain-split-tokens-explained/">prediction market</a> by issuing BCC and BCU tokens, each representing Bitcoin Core (BCC) and Bitcoin Unlimited (BCU).</p>
 <p>However, there are also major concerns regarding this possibility. The Bitcoin Unlimited code seems to have a few bugs like the one that caused the Bitcoin.com pool to mine an <a href="http://bitcoinist.com/bitcoin-unlimited-bug-miscounting-bytes/">invalid block</a> and the one that allowed for an attack on Bitcoin Unlimited nodes, causing them to <a href="https://www.cryptocoinsnews.com/bitcoin-core-developers-attack-bitcoin-unlimited/">shut down</a>. There also concerns about the BU mechanism itself, as some state it could lead to a centralized ecosystem.</p>
 <p>Putting our economic interests and even the future of Bitcoin aside for a second, watching these events unfold is like watching history in the making. However, to the common Bitcoin user/trader, these events and concepts may be a bit hard to grasp, so we want to provide a high level explanation of what Bitcoin Unlimited is and what could happen in case of an hard fork. Let’s start with the latter.</p>

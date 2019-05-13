@@ -1,15 +1,15 @@
 ---
 Operation Bayonet: This is how HTCU took Hansa Market offline
 ---
-<article class="post-listing post-25063 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bayonet tag-hansa tag-htcu tag-market tag-offline tag-operation">
+<article class="post-listing post-25063 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bayonet tag-hansa tag-htcu tag-market tag-offline tag-operation">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>March 16, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/16/operation-bayonet-htcu-took-hansa-market-offline/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Dutch High Tech Crime Unit expertly assumed control over the underground website, Hansa Market. Operation Bayonet, a multinational law enforcement operation, proved that Hansa Market undeservedly felt safe on the darknet.<img class="wp-image-25067 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/c-users-calebo-desktop-dark-web-marketplaces-alp.png" alt="C:\Users\CALEBO&#96;\Desktop\Dark-Web-Marketplaces-AlphaBay-And-Hansa-Shut-Down.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/c-users-calebo-desktop-dark-web-marketplaces-alp.png 800w, https://www.deepdotweb.com/wp-content/uploads/2018/03/c-users-calebo-desktop-dark-web-marketplaces-alp-300x158.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
 <p>The story behind <a href="https://www.deepdotweb.com/2017/07/20/globally-coordinated-operation-just-took-alphabay-hansa/">pulling Hansa Market down started a couple months earlier along with another a critical marketplace on the darknet, Alphabay</a>. The HTCU got signals that the FBI was involved with a key operation in regards to AlphaBay, and saw an opportunity to join the action with an investigation that was then being led against Hansa Market.</p>
 <p>However, around that time, the police were at that point completing a lot of research into Hansa, with a server in the Netherlands which necessitated a jurisdiction to look at it. The research started in 2016 when the team received tips from the European Cybercrime Center of Europol and from security company Bitdefender that servers from Hansa were once hosted in the Netherlands. After the framework seemed to be migrated through Lithuania by means of an alleged &#8216;Mutual legal assistance treaty&#8217; (MLAT), the police figured out to coordinate with the investigative services in Lithuania. This gave the police access to all data from Hansa Market right away.</p>

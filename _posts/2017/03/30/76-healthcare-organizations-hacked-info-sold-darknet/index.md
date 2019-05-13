@@ -1,15 +1,15 @@
 ---
 76% of Healthcare Organizations Hacked Info Sold on Darknet
 ---
-<article class="post-listing post-18881 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5199 tag-darknet tag-hacked tag-healthcare tag-info tag-organizations tag-sold">
+<article class="post-listing post-18881 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-5199 tag-darknet tag-hacked tag-healthcare tag-info tag-organizations tag-sold">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 30, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/30/76-healthcare-organizations-hacked-info-sold-darknet/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Over the past few years, ransomware and hacking attacks targeted on healthcare organizations saw tremendous success, mostly because healthcare organizations maintained a centralized database composed of sensitive personal and financial information.</p>
 <p>Ransomware distributors design software that can encrypt the servers, devices and databases of healthcare institutions and medical centers when they are accessed. If one of the devices or servers download a fraudulent file or are redirected to an uncertified URL, ransomware can be extracted and installed onto the servers of the organization and encrypt the files indefinitely, until the ransom is paid.</p>
 <p><img class="wp-image-18886 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-64.png" width="704" height="470" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-64.png 2500w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-64-300x200.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-64-1024x683.png 1024w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-64-290x195.png 290w" sizes="(max-width: 704px) 100vw, 704px"/></p>

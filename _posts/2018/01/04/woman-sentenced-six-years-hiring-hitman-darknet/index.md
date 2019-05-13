@@ -1,15 +1,15 @@
 ---
 Woman Sentenced to Six Years for Hiring a Hitman on the Darknet
 ---
-<article class="post-listing post-24265 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-hiring tag-hitman tag-sentenced tag-woman tag-years">
+<article class="post-listing post-24265 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-darknet tag-hiring tag-hitman tag-sentenced tag-woman tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 4, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/04/woman-sentenced-six-years-hiring-hitman-darknet/#comments">13 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Lyngby, Denmark, a 58-year-old woman <a href="https://www.dr.dk/nyheder/indland/sag-om-lejemord-kvinde-straffes-med-6-aars-faengsel-og-udvises">received a six year prison sentence</a> for trying to have a man killed through a <a href="http://deepdotweb.com/tag/darknet">darknet</a> murder-for-hire service. The first public mentions of the case occurred only a couple of months before the sentence hearing, even though Danish authorities arrested the woman in early 2017. Informative case details only started surfacing after the December trial began. The defendant, 58-year-old Emanuela Consortini, will spend six years in prison and subsequently be deported from Denmark.<img class="wp-image-24269 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-5.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-5.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-5-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Consortini hired a hitman through Crimebay, a darknet site where customers can pay hitmen to kill targets, blow up cars, or something else absurd. Only a handful of people believe the site is legitimate and those few people are <a href="https://www.deepdotweb.com/2017/04/10/oregon-man-charged-first-degree-murder-orders-assassination-wife-dark-web/">frequently in jail</a> for trying to have someone killed through the site or the site’s predecessor, <a href="https://www.deepdotweb.com/2017/02/06/man-tried-hire-hitman-darknet-kill-wife-got-scammed-arrested-instead/">Besa Mafia</a>.</p>
 <p>The court found the 58-year-old woman guilty of trying to have her boyfriend killed. British police first uncovered the plot sometime between November 2016 and March 2017. They alerted authorities in Italy—the country where the target resided. As the defense pointed out, it remains unclear if the site itself is actually taking orders for murders. Several theories exist, such as the one that law enforcement has access to the site through one of several possible methods.</p>

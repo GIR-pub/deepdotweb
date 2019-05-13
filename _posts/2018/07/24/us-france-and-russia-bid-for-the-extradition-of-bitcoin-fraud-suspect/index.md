@@ -1,15 +1,15 @@
 ---
 US, France, and Russia Bid for the Extradition of Bitcoin Fraud Suspect
 ---
-<article class="post-listing post-26387 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bid tag-bitcoin tag-extradition tag-france tag-fraud tag-russia tag-suspect">
+<article class="post-listing post-26387 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bid tag-bitcoin tag-extradition tag-france tag-fraud tag-russia tag-suspect">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>July 24, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/24/us-france-and-russia-bid-for-the-extradition-of-bitcoin-fraud-suspect/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>France has joined the US and Russia in a bid to extradite a bitcoin fraud suspect of Russian origin from Greece. The suspect is being held in Greece after he was arrested by the request of US authorities. All three countries want to charge the suspect separately of alleged money laundering, extortion, membership to a criminal gang among other crimes.<img class="wp-image-26391 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-1.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-1.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-1-300x200.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>On July 25 2017, Alexander Vinnik was arrested and detained by Greece authorities for suspicion of involvement in money laundering using <a href="https://www.deepdotweb.com/tag/bitcoin/">bitcoin</a>. Vinnik allegedly laundered over $4 billion of illegally acquired money through a bitcoin exchange platform he used to run.</p>
 <p>His arrest was followed by an immediate indictment by a US jury. The Department of Justice alleged that Vinnick was the operator of BTC-e, a bitcoin exchange platform that allowed people to trade anonymously since 2011. They alleged that Vinnik laundered bitcoin through BTC-e on behalf of all sorts of criminals. The indictment was followed by an extradition appeal for Vinnick to the US so that he can face a trial for the charges against him.</p>

@@ -1,7 +1,8 @@
 ---
 μProxy &#8211; A Hardware Relay Solution for Protecting Geolocation Anonymity of Internet Users
 ---
-<article class="post-listing post-22650 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymity tag-geolocation tag-hardware tag-internet tag-protecting tag-relay tag-solution tag-users tag-proxy">
+<article class="post-listing post-22650 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-anonymity tag-geolocation tag-hardware tag-internet tag-protecting tag-relay tag-solution tag-users tag-proxy">
     
     <div class="post-inner">
     

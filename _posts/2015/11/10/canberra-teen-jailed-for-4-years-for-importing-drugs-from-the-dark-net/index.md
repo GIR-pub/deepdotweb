@@ -7,9 +7,8 @@ Canberra Teen Jailed For 4 Years For Importing Drugs From The Dark Net
 <span>November 10, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/10/canberra-teen-jailed-for-4-years-for-importing-drugs-from-the-dark-net/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A Canberra teen (whose name can’t be published due to legal reasons) <a href="http://www.canberratimes.com.au/act-news/canberra-teen-imported-tensofthousands-of-dollars-in-drugs-he-bought-online-20151102-gkoifx.html">has been jailed for importing drugs from dark net markets</a> and selling them to local high school students and peers. According to law enforcement authorities, the teen has sold cannabis, LSD, MDMA and cocaine worth tens of thousands of dollars for about a year.</p>
 <p>When the police raided the teen drug dealer’s home in May, they found $14.035 in cash, all kinds of different drugs and paraphernalia, including scales. According to court documents, he imported the total of 64.4 grams of MDMA, 1.21 grams of cocaine, and one gram of LSD. He was also charged with the trafficking of 2.082 grams of MDMA, 0.27 grams of LSD, and 700 grams of cannabis. The court stated that the intercepted drugs are worth between $10.000 and $34.000.</p>
 <p>According to the ACT Supreme Court, the teen started his drug business in his high school selling and buying cannabis. After that, he became so successful that he started importing other drugs from dark net markets from overseas. He shipped the illegal substances to a PO box he rented under his name.</p>

@@ -7,9 +7,8 @@ title: The Sheep, BMR (And Maybe Tormarket) Hacker Reddit Investigation
 <span>December 27, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/12/27/the-sheep-bmr-and-maybe-tormarket-hacker-investigation/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>If you followed our previous reports regarding the <a href="http://www.deepdotweb.com/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">Sheep Scam</a> and the <a href="http://www.deepdotweb.com/2013/12/06/bmr-hacked-around-200000-stolen/">BMR Hack</a>, you probably remember the claims in both cases of a vendor hacking the site and stealing the users BTC, now, a reddit user claims to have found a links between the two cases and claiming that the hacker was a E-Book Vendor on sheep, and BMR and Tormarket, called Ebook101 on Sheep (as the sheep admin claimed on the shutdown:</p>
 <p><img class="aligncenter" alt="" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/sheep-down.jpg" width="511" height="507" /></p>
 <p>&nbsp;</p>

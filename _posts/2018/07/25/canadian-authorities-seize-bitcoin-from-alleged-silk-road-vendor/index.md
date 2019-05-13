@@ -1,15 +1,15 @@
 ---
 Canadian Authorities Seize Bitcoin from Alleged Silk Road Vendor
 ---
-<article class="post-listing post-26398 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alleged tag-authorities tag-bitcoin tag-canadian tag-road tag-seize tag-silk tag-vendor">
+<article class="post-listing post-26398 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-alleged tag-authorities tag-bitcoin tag-canadian tag-road tag-seize tag-silk tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 25, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/25/canadian-authorities-seize-bitcoin-from-alleged-silk-road-vendor/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to a <a href="https://www.thestar.com/vancouver/2018/07/05/bc-lays-claim-to-14-million-us-in-bitcoin-from-drug-dealer-over-alleged-links-to-silk-road.html">Canadian news outlet</a>, the British Columbia Civil Forfeiture Office has claimed $1.4 million in Bitcoin seized after the arrest of a man allegedly connected to the <a href="https://antilop.cc/sr/vendors/b54698f8da.htm">famed Silk Road vendor MarijuanaIsMyMuse</a>. However, the man was arrested in 2013, sentenced in 2015, and free only nine months later. Neither the Civil Forfeiture Office nor the Vancouver Police have explained why—nearly three years after the seizure and conviction—the government feels that it is owed 226.4 bitcoins.<img class="wp-image-26402 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-59.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-59.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-59-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Vancouver Police seized the bitcoins, along with computers, hard drives, and a whole 15 kilograms of marijuana in early 2013 after the man&#8217;s arrest for marijuana trafficking. His arrest, according to a report recently submitted to the Forfeiture Office, was primarily due to an accident and perhaps slight negligence on <a href="https://www.deepdotweb.com/tag/marijuana/">the marijuana dealer’s part</a>. His children—both toddlers at the time—had wandered outside of his house while he had been asleep. Someone eventually called the police about the two children wandering around unsupervised.</p>
 <p>The police, looking to bring the children back to their parent(s), arrived at the scene. Vancouver police Const. Gordon Stokes reported, in the document filed with the Forfeiture Office, the he had found the children wandering into traffic. The oldest child, 3, allegedly allowed the officer into the home. The officer reported smelling marijuana in the house but first followed the child to his father who had been sleeping on the second floor of the house.</p>

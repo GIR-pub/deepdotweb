@@ -1,15 +1,15 @@
 ---
 Missouri Man Sentenced to 15 Years for Selling THC Analogues
 ---
-<article class="post-listing post-26407 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1886 tag-analogues tag-man tag-missouri tag-selling tag-sentenced tag-thc tag-years">
+<article class="post-listing post-26407 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-1886 tag-analogues tag-man tag-missouri tag-selling tag-sentenced tag-thc tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 26, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/26/missouri-man-sentenced-to-15-years-for-selling-thc-analogues/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to <a href="https://www.justice.gov/usao-edmo/pr/local-man-sentenced-federal-conspiracy-charges-involving-synthetic-drug-trafficking">an announcement</a> from the U.S. Attorney’s Office of the Eastern District of Missouri, a St. Peter&#8217;s man was more than 15 years in prison for his role in distributing controlled substance analogues to suppliers across the United States. According to the announcement, Charles Wolfe, 57, participated in a large-scale analogue trafficking operation involving at least six co-conspirators who have already received sentences or entered guilty pleas.<img class="wp-image-26410 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-60.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-60.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-60-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Court documents revealed that Wolfe primarily distributed synthetic cannabinoids and a wide variety of cathinones. He supplied, the Attorney’s Office announcement claimed, the “equivalent of over <a href="https://www.deepdotweb.com/tag/marijuana/">481,000 kilograms of marijuana</a>.” This calculation, as bizarre as it may seem, came from the government&#8217;s calculation of the synthetic cannabinoid potency by compared to the equivalent potency of X weight of marijuana. In this case, the government compared the potency of JWH-018, AKB48, UR-144, XLR11, and 5F-PB-22 with the potency of THC.</p>
 <p>Several suppliers worked for Wolfe; Wolfe introduced co-defendants Michael Lentsch, Brett Beeman, Robert Jaynes, Samuel Leinicke, and Roy Ehrett to precursor chemical suppliers in China. The co-defendants—according to the indictments and guilty pleas from several of the co-defendants’ cases—converted the precursor chemicals into drugs that mimicked controlled substances. The majority of the co-defendants created cannabinoid analogues, such as those listed above. Some, however, created alpha-PVP aka α-PVP, a stimulant colloquially called “bath salts.” People, including the U.S. Attorneys, have used the bath salts terminology in reference to hundreds of designer drugs.</p>

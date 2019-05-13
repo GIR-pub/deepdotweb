@@ -1,15 +1,15 @@
 ---
 Narcotics Vendor Group Busted: Six Defendants Standing Trial In France
 ---
-<article class="post-listing post-18659 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-defendants tag-france tag-group tag-narcotics tag-standing tag-trial tag-vendor">
+<article class="post-listing post-18659 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-defendants tag-france tag-group tag-narcotics tag-standing tag-trial tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 17, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/17/narcotics-vendor-group-busted-six-defendants-standing-trial-france/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On March 2, six defendants were <a href="http://www.midilibre.fr/2017/03/02/drogue-sur-le-darknet-six-prevenus-en-correctionnelle-a-nimes,1473498.php">standing trial</a> in France before the Nîmes Correctional Court. Law enforcement authorities charged the suspects with drug trafficking.</p>
 <p><img class="wp-image-18671 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-13-j.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\13.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-13-j.jpeg 667w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-13-j-300x150.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-13-j-660x330.jpeg 660w" sizes="(max-width: 667px) 100vw, 667px"/></p>
 <p>According to official court documents, the six men sold <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> on the dark web. The prosecution stated that “a part” of the <a href="https://www.deepdotweb.com/tag/drugs/">drug</a> trafficking operation took place on the dark net. However, due to the lack of information, we do not know surely if the group sold narcotics on the streets too. Although, there is a high probability that they dealt with drugs locally too. If there is a large number of suspects in a vendor group, there is a big chance that they also sell narcotics face-to-face.</p>

@@ -1,15 +1,15 @@
 ---
 Bitcoin Price Analysis 29th March 2017
 ---
-<article class="post-listing post-18956 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3676 tag-29th tag-analysis tag-bitcoin tag-march tag-price">
+<article class="post-listing post-18956 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-3676 tag-29th tag-analysis tag-bitcoin tag-march tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>March 29, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/29/bitcoin-price-analysis-29th-march-2017/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Bitcoin Bull Trap</p>
 <p>This week the price of Bitcoin broke down to new lows, last seen in 2016 before the infamous run up to $1350. It has only been 20 days since the top. $895 caught plenty of traders off guard, as they soaked in the reality of a hard fork induced bear market. Since the last price analysis, when price hovered above $1200 support, my bearish forecasts to lower lows have materialized to this week’s low $895 on Bitstamp. It is not over yet. This week’s resurgence to a $1068 high, was accompanied by insane volumes, rekindling the fading hopes of bullish traders. But the reality is far from this.</p>
 <p><img class="wp-image-18957 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/bitc-price-analysis-28th-march-jpeg.jpeg" alt="bitc price analysis 28th march.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/bitc-price-analysis-28th-march-jpeg.jpeg 1508w, https://www.deepdotweb.com/wp-content/uploads/2017/03/bitc-price-analysis-28th-march-jpeg-300x158.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/bitc-price-analysis-28th-march-jpeg-1024x538.jpeg 1024w" sizes="(max-width: 1508px) 100vw, 1508px"/></p>

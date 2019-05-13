@@ -7,9 +7,8 @@ The  Story of an Italian Unlucky Cyber Pusher
 <span>August 10, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/08/10/the-%e2%80%8astory-of-an-italian-unlucky-cyber-pusher/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p class="graf--p"><em>The article has been contributed by its author &#8211; Ex-SR1 &amp; BMR vendor &#8220;Fuckthepolice137&#8221;, profile:<br />
 </em></p>
 <p class="graf--p"><a href="https://www.deepdotweb.com/wp-content/uploads/2015/08/fuckthepolice137.png"><img class="aligncenter  wp-image-11206" src="https://www.deepdotweb.com/wp-content/uploads/2015/08/fuckthepolice137.png" alt="fuckthepolice137" width="784" height="621" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/08/fuckthepolice137.png 1187w, https://www.deepdotweb.com/wp-content/uploads/2015/08/fuckthepolice137-300x238.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/08/fuckthepolice137-1024x811.png 1024w" sizes="(max-width: 784px) 100vw, 784px" /></a></p>

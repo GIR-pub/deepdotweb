@@ -1,15 +1,15 @@
 ---
 Six Arrested In Austrian Vendor Bust
 ---
-<article class="post-listing post-18499 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-austrian tag-bust tag-vendor">
+<article class="post-listing post-18499 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-austrian tag-bust tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 8, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/08/six-arrested-austrian-vendor-bust/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Six persons, aged between 17 and 40, were <a href="http://www.nachrichten.at/oberoesterreich/Suchtgiftring-verkaufte-Drogen-im-Darknet;art4,2487947">arrested</a> in Branau am Inn, Austria for allegedly running a vendor shop on the dark web selling narcotics.</p>
 <p><img class="wp-image-18508 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/http-static1-nachrichten-at-storage-scl-artikelb.jpeg" alt="http://static1.nachrichten.at/storage/scl/artikelbilder/oberoesterreich/1663963_m3w561h315q80s1v60695_unspecified.jpg?version=1487315799" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/http-static1-nachrichten-at-storage-scl-artikelb.jpeg 561w, https://www.deepdotweb.com/wp-content/uploads/2017/03/http-static1-nachrichten-at-storage-scl-artikelb-300x168.jpeg 300w" sizes="(max-width: 561px) 100vw, 561px"/></p>
 <p>After several months of investigation, Austrian law enforcement authorities managed to detain the six suspects. During the house searches of the alleged vendor group, police found half a kilo of amphetamines, 500 pieces of “psychotropic tablets”, 150 grams of MDMA, cocaine, <a href="https://www.deepdotweb.com/tag/heroin/">heroin</a>, ketamine, LSD, and ecstasy pills. Additionally, investigators seized a machete, pistols, and other “forbidden weapons”.</p>

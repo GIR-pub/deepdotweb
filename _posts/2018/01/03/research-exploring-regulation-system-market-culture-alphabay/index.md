@@ -1,15 +1,15 @@
 ---
 Research: Exploring the Regulation System and Market Culture of AlphaBay
 ---
-<article class="post-listing post-24257 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-alphabay tag-culture tag-exploring tag-market tag-regulation tag-research tag-system">
+<article class="post-listing post-24257 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-alphabay tag-culture tag-exploring tag-market tag-regulation tag-research tag-system">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>January 3, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/01/03/research-exploring-regulation-system-market-culture-alphabay/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Legal marketplaces are governed by federal state law, and market participants hold the right to resort to legal recourse whenever they might be faced with fraudulent behavior. Law enforcement promotes insurance, stability and transparency of commerce taking place across legal markets. Interestingly enough, illegal markets have to somehow emulate the main approaches adopted by legal markets to become successful and efficient.</p>
 <p><a href="https://www.duo.uio.no/bitstream/handle/10852/59231/Masteroppgave--sne-Hugdal-Kalberg.pdf?sequence=1&amp;isAllowed=y">A recently published thesis</a> analyzed the structure of illegal darknet markets and the reasons underlying their success, using the [now seized] AlphaBay marketplace as an example of currently successful markets on the darknet.</p>
 <p><img class="wp-image-24258" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-5.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-5.jpeg 1024w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-5-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-5-300x300.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-5-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-5-50x50.jpeg 50w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>

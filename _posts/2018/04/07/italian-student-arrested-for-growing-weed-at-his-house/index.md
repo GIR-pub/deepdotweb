@@ -1,15 +1,15 @@
 ---
 Italian Student Arrested for Growing Weed at His House
 ---
-<article class="post-listing post-25302 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-growing tag-house tag-italian tag-student tag-weed">
+<article class="post-listing post-25302 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-growing tag-house tag-italian tag-student tag-weed">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 7, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/07/italian-student-arrested-for-growing-weed-at-his-house/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Authorities in Pisa, Italy, arrested a 28-year-old university student for growing and distributing marijuana. The police stopped him around 9pm and <a href="http://www.larena.it/territori/citt%C3%A0/studente-veronese-fermato-a-pisa-per-spaccio-di-droga-1.6385490">searched his possessions</a>. According to the police, the young man had difficulty concealing his nervousness. The police would not have looked into him any further if he had acted normal. He was otherwise above any particular suspicion, they said.<img class="wp-image-25307 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-14.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-14.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-14-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>But after noticing his nervousness around the officers, the police reportedly requested his information for the purpose of a background check. The police found that the 28-year-old had previously caught the attention of law enforcement for suspected drug distribution. Although the date of his previous law enforcement encounter was not disclosed, the report indicated that the activity had occurred years prior to the March 2018 incident. The information regarding his history of suspected involvement in drug distribution led to his most recent downfall.</p>
 <p>After learning of the 28-year-old’s past, <a href="https://www.deepdotweb.com/tag/italy/">Italian police</a> decided they had cause to search the man. They searched him and found two envelopes hidden underneath his clothing. The envelopes contained a total of 40 grams of marijuana. But the search did not end at the university student&#8217;s person. Police suspected that he likely had more marijuana hidden at his house. They located his Porta a Lucca residence and performed a thorough search and crime scene reconstruction.</p>

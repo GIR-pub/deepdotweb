@@ -7,9 +7,8 @@ Bitcoin Price analysis December 2, 2015
 <span>December 2, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/02/bitcoin-price-analysis-december-2-2015/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/1.jpg"><img class="aligncenter size-full wp-image-12457" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/1.jpg" alt="1" width="944" height="361" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/1.jpg 944w, https://www.deepdotweb.com/wp-content/uploads/2015/12/1-300x115.jpg 300w" sizes="(max-width: 944px) 100vw, 944px"/></a></p>
 <p>This week, the price of bitcoin went up as high as $ 383 &#8211; a resistance level from November 9th &#8211; from where price broke down to low $ 300s. From last week’s analysis, $ 380 as a target level was expected; now, the price has retracted to consolidate and possibly gather more steam for another attempt at breaking up to $ 420; however, a second attempt at breaking $ 380 is not a foregone conclusion. Price action this week held $ 320 as strong support, for a firm bounce up to $ 383.</p>
 <p>Some traders are of the opinion the bull run from November is over, so wise to be cautious of limited upside</p>

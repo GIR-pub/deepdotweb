@@ -1,7 +1,8 @@
 ---
 Two students of NIT, Warangal busted with Illegal Drugs
 ---
-<article class="post-listing post-22518 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-drugs tag-illegal tag-nit tag-students tag-warangal">
+<article class="post-listing post-22518 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-drugs tag-illegal tag-nit tag-students tag-warangal">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 13, 2017</span>

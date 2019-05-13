@@ -1,15 +1,15 @@
 ---
 Teenage Submachine Gun Buyer Hit with a Terrorism Charge
 ---
-<article class="post-listing post-22999 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buyer tag-charge tag-gun tag-hit tag-submachine tag-teenage tag-terrorism">
+<article class="post-listing post-22999 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-buyer tag-charge tag-gun tag-hit tag-submachine tag-teenage tag-terrorism">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 10, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/10/teenage-submachine-gun-buyer-hit-terrorism-charge/#comments">16 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On September 26, at Coleraine Youth Court, a teenage defendant who had purchased a submachine-gun on the <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet</a> received a new charge relating to a document that had been on his computer at the time of his arrest. In April, the prosecutor explained, the boy—a 14-year-old at the time—had downloaded a manual on producing erythritol tetranitrate. And in combination with the weapon and ammunition, the explosive “how-to” guide led to the addition of a terrorism charge.</p>
 <p>The teenager had only recently been in front of a judge at the Coleraine Youth Court for a change in the terms of his house arrest. After his initial arrest in early 2017, the teenager was placed on house arrest during the case. He recently needed to access a computer to complete his GCSE exams. And he needed court permission to do so. After leaving court with the gift of heavily restricted computer access, being summoned back to court for a terrorism charge likely never crossed the suspect&#8217;s mind.</p>
 <p><img class="wp-image-23002" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-19.jpeg" width="721" height="348" /></p>

@@ -7,9 +7,8 @@ Agora Marketplace Forums are Back up
 <span>March 6, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/06/agora-marketplace-forums-are-back-up/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>After long weeks of downtime &#8211; <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora Marketplace</a> forums are back up: <strong>http://lacbzxobeprssrfx.onion</strong></p>
 <p>Even though these forums are mostly referral link spam  &#8211; Marketplace forums remains the best way to get honest reviews about vendors / products and avoid scammers.</p>
 </div>

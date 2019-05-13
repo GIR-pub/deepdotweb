@@ -1,7 +1,8 @@
 ---
 Busted Arms Dealer described to be in the “Premier League” of Arms Dealing
 ---
-<article class="post-listing post-22864 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arms tag-busted tag-dealer tag-dealing tag-league tag-premier">
+<article class="post-listing post-22864 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arms tag-busted tag-dealer tag-dealing tag-league tag-premier">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>October 1, 2017</span>

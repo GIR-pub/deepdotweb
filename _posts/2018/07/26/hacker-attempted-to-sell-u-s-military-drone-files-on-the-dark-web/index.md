@@ -1,15 +1,15 @@
 ---
 Hacker Attempted to Sell U.S Military Drone Files on the Dark Web
 ---
-<article class="post-listing post-26409 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempted tag-dark tag-drone tag-files tag-hacker tag-military tag-sell tag-web">
+<article class="post-listing post-26409 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-attempted tag-dark tag-drone tag-files tag-hacker tag-military tag-sell tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>July 26, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/26/hacker-attempted-to-sell-u-s-military-drone-files-on-the-dark-web/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Stolen Data on sale on the dark web is not a new thing. US defense agencies fare quite poorly when it comes to protecting data from exposure on the dark web. A <a href="https://www.deepdotweb.com/2017/09/04/59-us-defense-agencies-stolen-data-online-study-shows/">report from late last year</a> indicated that US defense agencies were more prone to being hacked than any other agency.</p>
 <p>A recent report by a cybersecurity firm Recorded Future has exposed the details of how a hacker stole and attempted to sell US military files on the dark web. The drone is manufactured by General Atomics Aeronautical Systems, Inc., for the US military. The Reaper is an unmanned aerial vehicle used primarily by the U.S. Air Force to surveille and strike targets.</p>
 <p><img class="wp-image-26415" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-62.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-62.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-62-300x200.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

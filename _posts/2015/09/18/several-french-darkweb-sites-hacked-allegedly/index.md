@@ -7,9 +7,8 @@ Several French DarkWeb Sites Hacked, Allegedly.
 <span>September 18, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/18/several-french-darkweb-sites-hacked-allegedly/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to a report translated from <a href="http://www.zataz.com/infiltration-dans-le-blackmarket-francophone/">Zataz.com</a> magazine (Thanks to <a href="https://twitter.com/Schmittounet">@Schmittounet</a> for the translation!):</p>
 <blockquote><p>If you don&#8217;t want your databases to be leaked, release publicly who is the moleskin at your place.</p></blockquote>
 <p>With these few lines, an anonymous darkweb hacker announced that he has his hand on several databases of french darkweb sites.</p>

@@ -7,9 +7,8 @@ Tutorial: How to Buy From Dream Market?
 <span>September 11, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/09/11/tutorial-how-to-buy-from-dream-market/#comments">97 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>It&#8217;s time to present you a guide outlining how to purchase things from Dream Market. Make extra sure that you have entirely read this whole tutorial before diving in – it&#8217;s very, very important you fully comprehend each and every step. The following guide is to assist you to purchase, not to sell items. Vending is a wholly other animal which requires much heavier time, effort, and consideration.</p>
 <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/dream-market">The Listing for Dream Market as well as its official onion link are placed here.</a></p>
 <p><strong>Part 1 – Preparing</strong></p>

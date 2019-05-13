@@ -7,9 +7,8 @@ title: Uncle Scam: Czech Owner of Sheep Marketplace Working With the FBI?
 <span>December 4, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/12/04/uncle-scam-czech-owner-of-sheep-marketplace-working-with-the-fbi/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Who benefited from one of the largest bitcoin heists in history?  ‘Benefit’ is an interesting word &#8211; simply because a benefit doesn’t necessarily mean a payoff in the form of currency.  Perhaps, <i>the payoff</i> can come in the form of a successful operation, a mission accomplished.</p>
 <p>Let us go on an adventure into an intriguing theory, based off what recent reports have already told us, and curious information from a source, known as Gwern Branwen.</p>
 <p><b>What’s Happened So Far?</b></p>

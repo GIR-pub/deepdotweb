@@ -1,15 +1,15 @@
 ---
 Nearly 50 Romanian College Students Arrested For Drug Trafficking Via The Dark Web
 ---
-<article class="post-listing post-25842 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1447 tag-arrested tag-college tag-dark tag-drug tag-romanian tag-students tag-trafficking tag-web">
+<article class="post-listing post-25842 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-1447 tag-arrested tag-college tag-dark tag-drug tag-romanian tag-students tag-trafficking tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 26, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/26/nearly-50-romanian-college-students-arrested-for-drug-trafficking-via-the-dark-web/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In the wake of serious crackdown on drug trafficking in Romania, police in the country have conducted hundreds of searches and arrested several suspects. Among those arrested are about 50 college students linked to trading narcotics via the Darknet.</p>
 <p><img class="wp-image-25843" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-56.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-56.jpeg 700w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-56-300x144.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p>Over 80 people – among them law and medicine students- were arrested in Bucharest after an extensive raid by <a href="http://www.diicot.ro/">DIICOT</a>. Police officers from the Directorate for Investigated Organized Crime and Terrorism (DIICOT) conducted the raid in the morning with 238 searches in 28 counties.</p>

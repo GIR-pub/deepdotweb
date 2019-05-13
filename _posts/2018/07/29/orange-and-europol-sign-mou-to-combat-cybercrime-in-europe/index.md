@@ -1,15 +1,15 @@
 ---
 ORANGE AND EUROPOL SIGN MOU TO COMBAT CYBERCRIME IN EUROPE
 ---
-<article class="post-listing post-26436 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-combat tag-cybercrime tag-europe tag-europol tag-mou tag-orange tag-sign">
+<article class="post-listing post-26436 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-combat tag-cybercrime tag-europe tag-europol tag-mou tag-orange tag-sign">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>July 29, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/29/orange-and-europol-sign-mou-to-combat-cybercrime-in-europe/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>As part of their strategy to combat cybercrime in Europe, Steven Wilson, Head of Europol’s European Cybercrime Centre (EC3), <a href="https://europe.businesschief.com/technology/2052/Orange-and-Europol-sign-MoU-to-help-prevent-cybercrime-in-Europe">has signed</a> a Memorandum of Understanding MoU with Jean-Luc Moliner, Orange Head of Group Security. The agreement is meant to ensure a smooth running of cyber security and to enhance a safe cyber environment through information sharing. According to Europol, there will be collaboration and information sharing between the two agencies on cyber threat and major attacks. Europol has engaged in similar collaborations in the past with other agencies <a href="https://www.deepdotweb.com/2016/02/22/chainaylsis-partners-with-europol-to-fight-cybercrime/%0a">including chainalysis</a> in crime fighting. There have been a number of private and public agencies that have cooperated with them to fight cybercrime.</p>
 <p>The information sharing and the cyber threat were in relation to the Orange&#8217;s area of expertise – “spam, DDoS attacks, fraud, and cyber-attacks on mobiles or banking services.” Orange is a provider of global IT and Telecommunication service mainly for multinational companies with about 202 million mobile customers worldwide. Being much aware of the need for the international cooperation on cyber threat and other crime issues, Jean-Luc Moliner expressed his satisfaction with the deal. He believes that Orange is a top player in Europe considering the availability of around 1,000 cyber security experts at their disposal.</p>
 <p>Europol has been able to use its techniques to combat terrorism, cybercrime and other organized crimes in Europe. They have also been able to provide support to about 40,000 investigations in Europe. According to a recent report, Europol <a href="https://www.deepdotweb.com/2018/06/10/europol-conference-discuss-and-share-expertise-to-tackle-dark-web-crime/%0a">conducted a meeting</a> to establish a darknet investigation team. Their role was to help in information sharing, operational support and to find ways of approaching the online marketplace. The persistent effort to ensure the fighting of cybercriminals forced this agreement.</p>

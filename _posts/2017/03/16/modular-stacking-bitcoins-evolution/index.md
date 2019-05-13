@@ -1,15 +1,15 @@
 ---
 Modular Stacking and Bitcoin&#8217;s Evolution
 ---
-<article class="post-listing post-18646 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-evolution tag-modular tag-stacking">
+<article class="post-listing post-18646 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-bitcoins tag-evolution tag-modular tag-stacking">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 16, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/16/modular-stacking-bitcoins-evolution/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Throughout the past few years, bitcoin has offered us a simple, inexpensive and highly secure way for sending payments to anyone, anywhere in the world. Moreover, being open source software, bitcoin is inherently versatile as it is structured in the form of open ended modular stacks whose capabilities are boosted by the functionalities innately provided by the uppermost layers , without needing to rearrange or recode the lowermost layers. Although bitcoin is designed to be somehow rigid permitting very limited possibilities for modifications of the network&#8217;s framework, its modular stacks&#8217; structure opens the door for a myriad of development possibilities.</p>
 <p><a href="https://poseidon01.ssrn.com/delivery.php?ID=58702508611200700810402003010712210411307303703403109109509209411300508307500410506702000704204000001501607200112207200207607803706603100801310112502912202108310909103501210406508602012202907207311510808802812012">A recently published paper</a> highlighted the frequent misperception of bitcoin by business and economic analysts which uncovers a failure to utilize bitcoin&#8217;s pivotal property; modular stacks. Recent advancements in bitcoin&#8217;s ecosystem are mutating bitcoin into a platform that is far more versatile and consequential than was intended in the first place, through implementation of a myriad of modular application layers on bitcoin&#8217;s infrastructure. If this could ever be made successful, bitcoin and its blockchain could be transformed into pillars of the emerging global crypto-economy.</p>
 <p><img class="wp-image-18653 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/modular-stacking-jpg.jpeg" alt="modular stacking.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/modular-stacking-jpg.jpeg 700w, https://www.deepdotweb.com/wp-content/uploads/2017/03/modular-stacking-jpg-300x177.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>

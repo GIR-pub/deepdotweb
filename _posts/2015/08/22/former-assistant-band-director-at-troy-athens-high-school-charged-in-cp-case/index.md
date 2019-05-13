@@ -7,9 +7,8 @@ Former Assistant Band Director At Troy Athens High School Charged In CP Case
 <span>August 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/22/former-assistant-band-director-at-troy-athens-high-school-charged-in-cp-case/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.freep.com/story/news/local/michigan/oakland/2015/08/18/troy-athens-assistant-band-director-charged/31909259/">Eric Junod, a Holly resident, also the ex-assistant band director at Troy Athens High School, has been charged with the distribution and possession of child pornography</a>. He was not just charged, however, he has been ordered to remain in federal custody until the end of the case by a federal magistrate judge, Elizabeth Stafford. The judge has also signed the complaint that has been made against Junod, which stated that he was part of a hidden CP service on the darknet where members have sent and received pictures and media containing child pornography.</p>
 <p>Junod has appeared court on Tuesday, where he was escorted by two US. Marshals. At the courtroom he has said that he could not afford an attorney for the case. After that, the judge has explained the charges against him and stated that the case will continue a day after at 1 PM for a detention hearing.</p>
 <p>Kerry Birmingham, spokeswoman of Troy Athens High School has stated that Junod is no longer employed. She also said that she does not believe that Junod had any sexual contact with the students of the high school. The official statement goes by: ” There&#8217;s no indication that there&#8217;s any involvement with the students in the Troy district.&#8221;</p>

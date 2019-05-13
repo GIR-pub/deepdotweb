@@ -7,9 +7,8 @@ Tutorial: Installing Tor With Privoxy
 <span>September 5, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/09/05/tutorial-installing-tor-with-privoxy/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>When it comes to keeping your activities out of the prying-eyes of Evil-Alphabet-Agency&#8217;s, one must not slack on beefing up security on both their computer&#8217;s and networks. The consequences for those who are involved are just too serious to take lightly. If you are accessing the Dark Net at home at all, there&#8217;s a few simple steps you can take to ensure you&#8217;re anonymity stays a secret. In this tutorial I am going to go over installing and configuring tor, privoxy, and a free <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN</a>.</p>
 <p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;Hide Your Tor Usage: Click Here For VPN&#8217;s Who Respect Your Privacy&lt;&lt;</a></p>
 <p>First of all, absolutely do not use Windows thinking it&#8217;s safe. Use Windows at your own risk, I am not going to chance it. Especially when it is publicly known that since the release of Windows Seven Microsoft has been working the NSA, installing secret back doors to pretty much what ever they could scare people in to doing. The NSA can access everything that is accessible on the windows partition of your machine if its not encrypted (Yes, you can remove the back doors within Windows, but that is to say, you can remove the ones that we KNOW about, and I would not put it past the NSA to have a few tricks up their sleeves) I prefer using Linux anyway, I understand that some have difficulties making the transition from Windows to Linux, but that&#8217;s why they created man pages, my friend.</p>

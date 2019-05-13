@@ -7,9 +7,8 @@ German University Student Arrested For Ordering Large Amounts Of Drugs From The 
 <span>March 23, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/23/german-university-student-arrested-ordering-large-amounts-drugs-dark-web/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Law enforcement authorities <a href="http://www.badische-zeitung.de/offenburg/18-jaehriger-bestellt-drogen-im-darknet-fuer-schwunghaften-handel--134342307.html">arrested</a> an 18-year-old student from Kinzigtal, Germany for purchasing large amounts of narcotics from the dark net for resale purposes.</p>
 <p><img class="wp-image-18758 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/http-ais-badische-zeitung-de-piece-08-01-e7-78-1.jpeg" alt="http://ais.badische-zeitung.de/piece/08/01/e7/78/134342520-p-590_450.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/http-ais-badische-zeitung-de-piece-08-01-e7-78-1.jpeg 590w, https://www.deepdotweb.com/wp-content/uploads/2017/03/http-ais-badische-zeitung-de-piece-08-01-e7-78-1-300x181.jpeg 300w" sizes="(max-width: 590px) 100vw, 590px"/></p>
 <p>The Offenburg Public Prosecutor’s Office filed charges against the suspect. The accusations include the unauthorized handling of <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> in “no small amount”. According to the indictment, the defendant, in the spring of 2015, started trafficking with drugs. The 18-year-old allegedly ordered from suppliers residing on the dark web, he placed orders for large quantities at some of the vendors. In order to pay for the narcotics with BTC, the suspect opened a bank account.</p>

@@ -1,15 +1,15 @@
 ---
 Dual arrested over deadly dark web drug importation from China to Montgomery
 ---
-<article class="post-listing post-25345 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-china tag-dark tag-deadly tag-drug tag-dual tag-importation tag-montgomery tag-web">
+<article class="post-listing post-25345 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-china tag-dark tag-deadly tag-drug tag-dual tag-importation tag-montgomery tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>April 12, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/12/dual-arrested-over-deadly-dark-web-drug-importation-from-china-to-montgomery/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Two men accused of using the <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darkest corners</a> of the dark web to purchase and import deadly and illegal Carfentanil and Fentanyl drugs has been arrested. The two men from Delaware County allegedly <a href="http://www.mainlinemedianews.com/mainlinetimes/news/two-delco-men-accused-of-using-dark-web-to-import/article_1f670ca2-fa69-58f7-8fb5-bfed49c3ad48.html">shipped the dark web drugs</a> from China to Montgomery County.</p>
 <p>The prosecutor in the case alleged that the two made use of the dark web to place their orders, purchase and finally import fentanyl and even more dangerous carfentanil controlled substances from China to their rented high-end apartments in Upper Merion and Lower Merion.</p>
 <p><a id="post-25345-_uazoq354xm52"></a> Chapman I. Jamil, 27, of the 800 block of Spruce Street, Collingdale and his nephew Chapman J. Nasai, 23, of the block of East Lacrosse Avenue, Lansdowne, were arraigned in Narberth District Court before Judge Karen Zucker on charges of corruption, <a href="https://www.deepdotweb.com/2018/03/26/20-year-old-charged-possession-darknet-drugs-bedroom/">possession of illegal drugs</a> with intention of distributing</p>

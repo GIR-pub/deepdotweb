@@ -7,9 +7,8 @@ FBI Unmasked CP Website User Using A Spyware
 <span>October 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/05/fbi-unmasked-cp-website-user-using-a-spyware/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/2015/09/30/staten-island-man-busted-for-using-multiple-darkweb-cp-websites/">Do you remember Luis Escobosa?</a> He has been caught for accessing, using and downloading pictures and media files from different child porn websites. The FBI arrested the Staten Island man last Friday, however, this is not the interesting fact here, it is the case that the <a href="http://www.theregister.co.uk/2015/10/01/fbi_busted_malware_creep_on_dark_web/">FBI has uncovered how have they caught the CP user.</a></p>
 <p>A huge website (PlayPen) with almost 215.000 users has been seized by the FBI March 2015, however, before they finally put the site out of its misery, the feds have loaded spyware on the website and ran PlayPen for a few weeks to track and trace users of the CP site. Luis Escobosa was busted by the FBI using this technology, the man already admitted that he has used these kinds of websites, however, what he did not know is the fact that the FBI was running a hidden server that has been spamming spyware on his computer while using PlayPen.</p>
 <p>Spywares have been used for a while by the FBI. The court documents of the Luis Escobosa case do not tell us much information about the whole bust, however, the feds have made a good use of spywares before. According to other cases where NIT (network investigative techniques) were used, court documents state that the software has been developed by a white hat hacker named HD Moore and it was bundled in the Metasploit Decloaking Engine.</p>

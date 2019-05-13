@@ -7,9 +7,8 @@ Bitcoin News Roundup – 22 Nov. 2015
 <span>November 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/22/bitcoin-news-roundup-22-nov-2015/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>EU crisis meeting to control the virtual currencies in the aftermath of Paris attacks. As Samburaj Das of <a href="https://www.cryptocoinsnews.com/breaking-european-union-crisis-meeting-planned-to-call-for-control-of-virtual-currencies-after-paris-attacks/">CryptoCoins News</a> writes, EU Justice and Interior Affairs Ministers have organized a crisis meeting in direct response to Paris terror attacks last Friday. The emergency meeting was held in Brussels on Friday, November 20 to outline an effective embargo for digital currencies and strengthen control mechanisms of electronic and anonymous payment methods. Virtual currencies are believed to be used for funding terrorist activities.</p>
 <p>UBS’s settlement coin gains its first round of funding. As Cindy Roberts of <a href="http://www.bloomberg.com/news/articles/2015-11-18/ubs-blockchain-partner-clearmatics-raises-funds-for-digital-coin">Bloomberg</a> writes, UBS’s partnership with the London-based Clearmatics Technologies has led to the creation of blockchain-based digital coin, which is widely viewed as a tool to change the global payment system, offer assistance with cross-border payments and lower the settlement time to seconds. Clearmatics develops advanced clearing machines for the OTC markets, and has helped UBS to successfully complete its first round of funding. Route 66 Ventures LLC, Nyca Partners, and Tellurian Capital Management LLP are some of the investors that participate in the fundraising.</p>

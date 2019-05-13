@@ -1,15 +1,15 @@
 ---
 23 Charged in Fentanyl Distribution Ring
 ---
-<article class="post-listing post-18445 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2706 tag-charged tag-distribution tag-fentanyl tag-ring">
+<article class="post-listing post-18445 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-2706 tag-charged tag-distribution tag-fentanyl tag-ring">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 5, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/05/23-charged-fentanyl-distribution-ring/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On February 14, 2017, the Drug Enforcement Agency arrested 23 men and women in connection with a heroin and fentanyl distribution ring. The DEA in connection with local and state partners raided 12 locations throughout Boston and the South Coast Area.</p>
 <p>Court documents revealed that two men led the ring: Fernando Rivera-Rodriguez, 31, of Boston and Fernando Hernandez, 42, of Providence, RI. Both ringleaders, according to the investigators, operated independent drug trafficking rings but Hernandez often brokered large deals for Rivera-Rodriguez. Additionally, both men sold to both users and resellers. The list of 23 suspects consisted majorly of resellers and large-scale users.</p>
 <p>All 23 faced their initial court appearances but prosecutors noted that two suspects remained at large. Yeurvs Tejeda and Carlos Gonzalez-Figueroa, the two who managed to avoid law enforcement&#8217;s first dragnet, faced the same charges as the other 23. Law enforcement held the entire group for conspiring to distribute heroin and Fentanyl between 2016 and early 2017. Several members of the group committed further crimes DEA’s Special Agent in Charge Michael J. Ferguson explained.</p>

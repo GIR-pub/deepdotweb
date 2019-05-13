@@ -7,9 +7,8 @@ DARPA&#8217;s Creating Search Engine to Crawl the Deep Web
 <span>February 10, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/10/darpas-creating-search-engine-crawl-deep-web/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>As it was mentioned in cbsnews (<a href="http://www.cbsnews.com/news/new-search-engine-exposes-the-dark-web/" target="_blank">video available here</a>) Memex, a powerful new search tool that goes beyond the realm of Google, Yahoo, and Bing, is launched by DARPA:<br />
     This powerful new search engine developed by DARPA, the U.S. military&#8217;s Defense Advanced Research Projects Agency and was <a href="http://www.darpa.mil/newsevents/releases/2014/02/09.aspx" target="_blank">announced last year</a>. The inventor of Memex, Chris White:</p>
 <blockquote><p>&#8220;The internet is much, much bigger than people think,&#8221; White said. &#8220;By some estimates Google, Microsoft Bing, and Yahoo only give us access to around 5% of the content on the Web.&#8221; That leaves a lot of room for bad actors to operate freely in the shadows.</p>

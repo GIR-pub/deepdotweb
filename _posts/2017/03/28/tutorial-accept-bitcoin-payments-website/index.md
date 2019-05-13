@@ -1,15 +1,15 @@
 ---
 Tutorial &#8211; How To Accept Bitcoin Payments On Your Website
 ---
-<article class="post-listing post-18852 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-accept tag-bitcoin tag-payments tag-tutorial tag-website">
+<article class="post-listing post-18852 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-accept tag-bitcoin tag-payments tag-tutorial tag-website">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 28, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/28/tutorial-accept-bitcoin-payments-website/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Bitcoin is an attractive payment method for online entrepreneurs mainly due to the fact that its transaction fees are negligible when compared to other popular online payment methods such as wired transfers, payment processors (e.g. Paypal) or credit card transactions. Accordingly, this can lead to a higher profit margin, a more competitive pricing model and the ability to offer services to customers all over the world at convenient costs. Moreover, bitcoin is not formally taxable as it doesn&#8217;t present a form of money that is issued by a government. On the other hand, bitcoin payments are pseudo-anonymous and instantaneous, without the need to deal through third party intermediaries, credit card companies or centralized payment processors.</p>
 <p>Throughout this tutorial, I will show you how to add bitcoin as a payment method for your e-commerce website. We will use the Blockchain.info Receive Payments API V2 to accept bitcoin payments, as it is simple, highly secure and can be implemented within less than 10 minutes.</p>
 <p><strong>Blockchain.info&#8217;s API V2:</strong></p>

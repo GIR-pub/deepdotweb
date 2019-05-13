@@ -7,9 +7,8 @@
 <span>March 14, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/14/3-od-in-portland-jail-evolution-fentanyl-vendor-busted/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to a report in <a href="http://www.oregonlive.com/portland/index.ssf/2015/03/three_od_on_dangerous_drug_smu.html#incart_2box">oregonlive.com</a>  (see article for full details) A 27-year-old inmate in the <a href="http://www.jailexchange.com/countyjails/oregon/multnomah/multnomah_county_detention_center.aspx">Justice Center Jail </a>is accused of smuggling a synthetic opioid many times more powerful than heroin (Fentanyl ) into the downtown Portland lockup last weekend, causing at least three of her fellow inmates to overdose &#8211; the investigation led to an evolution vendor who was arrested later:</p>
 <blockquote><p>Investigators traced the source of the drugs that killed Henke to a house several hundred yards away from where he overdosed.</p>
 <p>A task force of agents and police detectives armed with a warrant searched the property, finding cash, drug paraphernalia, a laptop computer and a white powder later determined to be fentanyl, according to a criminal complaint affidavit signed by <a href="http://www.oregonlive.com/pacific-northwest-news/index.ssf/2013/06/drug_cartels_in_oregon_rise_an.html">Homeland Security Investigations Special Agent Guy Gino</a>, who works on a Portland-based drug task force.</p>

@@ -7,9 +7,8 @@ title: The Silk Road 2.0 Tales &#038; Psy-Ops!
 <span>December 24, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/12/24/the-silk-road-2-0-tales-psy-ops/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Just when we thought that this drama could not get any worse, Oracle came along AGAIN announcing he would release the true story about the recent events in 12 hours &#8211; at the beginning we thought &#8220;meh&#8230;&#8221;, but after reading the post, We figured out that This latest SR drama is so hilarious / pathetic / sad / funny / dangerous (cant decide?!) that we are not sure if we should laugh or cry, everyone (at least those of you who are not bored to death yet) should read the previous posts &#8211; <a href="http://www.deepdotweb.com/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/">here</a> &amp; <a href="http://www.deepdotweb.com/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/">here</a> and this one, and judge for themselves.  Anyway we look at it, this story is just&#8230;. well&#8230;. good story, kinda like watching a retard version of breaking bad,  so we just had to post it anyway, you decide if you should believe it or not:</p>
 <p>Read the OP and comments here:<span style="text-decoration: underline;"> http://silkroad5v7dywlc.onion/index.php?topic=11089.0</span></p>
 <p>So ladies and gentleman, we present you with the best Christmas drama story of 2013 &#8211; &#8220;The Silk Road 2.0 Tales &amp; Psy-Ops!&#8221;:</p>

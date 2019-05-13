@@ -1,15 +1,15 @@
 ---
 U.S Prosecutors to Cash in On Seized Bitcoins
 ---
-<article class="post-listing post-24542 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoins tag-cash tag-prosecutors tag-seized">
+<article class="post-listing post-24542 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bitcoins tag-cash tag-prosecutors tag-seized">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>January 25, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/25/u-s-prosecutors-cash-seized-bitcoins/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>An amount of 513 <a href="https://www.deepdotweb.com/2018/01/05/feds-sell-alleged-darknet-dealers-bitcoin/">bitcoin worth over $8 million</a> is about to make its way into the market and this is according to the US attorney’s office. An amount of 513.1490393 bitcoin was seized by federal prosecutors as part of a drug case in Salt Lake City. The bitcoin when seized were worth nearly $500,000 at that time, that’s barely a year ago, but are now going to generate over $8.4 million in the cryptocurrency market due to the recent surge in the price of the hottest virtual currency.</p>
 <p>The money that will be generated once the sale is done will be sent to an account held at the Treasury Executive Office for Asset Forfeiture.</p>
 <p>An amount of bitcoin cash which has a value of about $1.5 million today, was also seized together with a Ford truck and a BMW all from <a href="http://www.forexlive.com/news/!/us-government-to-sell-513-bitcoin-in-dark-web-seizure-20180107">Aaron Shamo</a> after he was indicted <a href="https://www.deepdotweb.com/2017/12/11/darknet-opioid-ring-suspect-stay-jail-trial/">together with six others</a> in December last year.</p>

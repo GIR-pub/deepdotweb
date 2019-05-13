@@ -1,15 +1,15 @@
 ---
 Blinking LEDs May Comprise Air-Gapped Networks
 ---
-<article class="post-listing post-18656 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-airgapped tag-blinking tag-comprise tag-leds tag-networks">
+<article class="post-listing post-18656 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-airgapped tag-blinking tag-comprise tag-leds tag-networks">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 17, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/17/blinking-leds-may-comprise-air-gapped-networks/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to a group of researchers from Ben-Gurion University of the Negev’s Cyber Security Research Center, lights—<a href="http://www.pcworld.com/article/3173371/security/a-hard-drives-led-light-can-be-used-to-covertly-leak-data.html">HDD LEDs to be specific</a>—may pose a cybersecurity threat in the near future. DeepDotWeb explains, continually, the need for airtight security. Especially when using the darknet. However, “airtight” security with <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPNs, Tor, or encrypted messaging apps</a> on an air-gapped network would leave room for this LED exfiltration of data.</p>
 <p>LED methods are not necessarily new to the sector. Various PoCs and implementations landed in research papers or demonstration videos. However, for many obvious reasons, such techniques remain impractical to the <a href="https://www.deepdotweb.com/tag/Hack/">advanced attacker</a> and impossible to an amateur one.<br />
     Mordechai Guri, Boris Zadov, Eran Atias, and Yuval Elovici—the researchers behind the project—explained that malware made the <a href="https://www.scribd.com/document/340960347/LED-it-GO-0-1">hard disk drive LED blink 5,800 times every second</a>. The rate at which the LED blinks is far greater than the human eye can catch and even if the eye could, the brain would not know what to do with the visual input. <img class="wp-image-18660 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-42.png" width="956" height="532" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-42.png 1608w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-42-300x167.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-42-1024x569.png 1024w" sizes="(max-width: 956px) 100vw, 956px" /></p>

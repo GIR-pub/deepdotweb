@@ -1,15 +1,15 @@
 ---
 Research Reveals Australia is an Emerging Leader in Darknet Markets
 ---
-<article class="post-listing post-18729 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australia tag-darknet tag-emerging tag-leader tag-markets tag-research tag-reveals">
+<article class="post-listing post-18729 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-australia tag-darknet tag-emerging tag-leader tag-markets tag-research tag-reveals">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 21, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/21/research-reveals-australia-emerging-leader-darknet-markets/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://theconversation.com/australia-emerges-as-a-leader-in-the-global-darknet-drugs-trade-73125">According to research</a> presented at the <a href="https://www.eventbrite.com.au/e/vaada-conference-2017-complexity-collaboration-consumers-and-care-tickets-27298320010">Victorian Alcohol and Drug Association Conference</a> this month, Australia is only second to the Netherlands in the number of darknet market vendors per capita. There are a higher number of vendors from Australia on darknet markets when it comes to global trade of drugs, especially methamphetamine. These vendors account for over a quarter of methamphetamine traded on online markets.</p>
 <p>The researchers say that the hidden drug trade online resembles the conventional drug trade. According to the research presented at the conference, cannabis was identified as the most popular drug sold, representing a quarter of all recorded sales made by Australian vendors on the darknet markets. Cannabis is also the most commonly sold illegal drug in the conventional drugs trade as well. Men accounted for 82% of Australian darknet market users, and the average age of darknet market user was found to be 22 years old, <a href="http://www.sciencedirect.com/science/article/pii/S0955395916301323">according to a team of researchers</a> who presented at the conference.</p>
 <p>The researchers also analyzed the prices of drugs sold on the darknet markets. A huge difference in prices between vendors located outside of Australia and vendors located within Australia was revealed by the research. <a id="post-18729-__DdeLink__52_1978231653"></a>The price of ecstasy from Australian vendors was six times higher than what vendors located outside of Australia charged for ecstasy. Aussie darknet market vendors also charged approximately three times as much for methamphetamine and cocaine than vendors outside of Australia charged. Only the prices of cannabis were relatively equivalent among both Australian vendors and vendors from other countries.</p>

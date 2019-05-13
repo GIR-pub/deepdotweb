@@ -1,15 +1,15 @@
 ---
 Europol and Interpol Upholds Fight against Cyber Crime
 ---
-<article class="post-listing post-23035 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crime tag-cyber tag-europol tag-fight tag-interpol tag-upholds">
+<article class="post-listing post-23035 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-crime tag-cyber tag-europol tag-fight tag-interpol tag-upholds">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>October 13, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/13/europol-interpol-upholds-fight-cyber-crime/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>At the 5th annual Europol-Interpol Cybercrime Conference held in The Hague, Netherlands, two familiar faces in the cybercrime world reaffirmed their strong commitment to continue their partnership in the war against cybercrime.</p>
 <p><a href="https://www.deepdotweb.com/2017/08/23/interpol-teams-cyber-security-firm-combat-cyber-threats/">Europol and Interpol</a>, the two law enforcement organizations pledged to continue their good work and to build on successful examples of their partnership.</p>
 <p>Cyber specialists from across the globe came together in The Hague to address the challenges regarding the provision of effective cybersecurity provided in an interconnected world.</p>

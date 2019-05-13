@@ -1,15 +1,15 @@
 ---
 Couple Paid Child&#8217;s Tutor with Amphetamine
 ---
-<article class="post-listing post-24361 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-amphetamine tag-childs tag-couple tag-paid tag-tutor">
+<article class="post-listing post-24361 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-amphetamine tag-childs tag-couple tag-paid tag-tutor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 10, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/10/couple-paid-childs-tutor-amphetamine/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.merkur.de/lokales/bad-toelz/benediktbeuern-ort28358/nachhilfelehrer-mit-drogen-bezahlt-9462871.html">Two adults faced a judge</a> at Wolfratshausen district court for the unauthorized distribution of amphetamine to a minor and for later buying drugs from the same minor. The minor, an unrelated investigation uncovered, sold a wide array of drugs and IDs ordered from <a href="http://deepdotweb.com/tag/darknet">the darknet</a>. The couple housed him and had known of some of his activities. Court proceedings for the former couple are underway.</p>
 <p>Investigators discovered that the minor—now 18-years-old—had sold drugs to an alleged drug addict in Penzberg. The addict later overdosed in his Penzberg apartment. Four days later, after someone had found him at his apartment and taken him to the hospital, the addict overdosed again. He did not live through the incident. During an investigation into the overdose, investigators examined the man’s phone in search of the supplier.</p>
 <p>Investigators uncovered messages on the phone to the minor <a href="http://deepdotweb.com/tag/drug">drug dealer</a>, messages about drugs in general, and conversations about the darknet. Months later, the police executed a search warrant at the dealer’s house and confronted him with the evidence they had obtained. He initially denied all involvement in drug distribution. He later revealed that he had started selling drugs when he worked as a tutor for a couple’s children. He said that they could not afford to pay him in any real currency, so they paid him in amphetamine.</p>

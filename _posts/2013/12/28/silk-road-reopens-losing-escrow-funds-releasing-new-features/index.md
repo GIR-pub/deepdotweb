@@ -7,9 +7,8 @@ title: Silk Road Reopens: Losing Escrow Funds &#038; Releasing New Features
 <span>December 28, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/28/silk-road-reopens-losing-escrow-funds-releasing-new-features/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Update: <a href="http://www.deepdotweb.com/2014/01/05/silk-road-2-0-lost-escrow-funds-returned/" target="_blank">Silk Road 2.0: Lost Escrow Funds Returned</a></strong></p>
 <p>As you all know, Silk Road 2.0 was on a short Christmas break for the last few days, the new (Old?) admin &#8220;Defcon&#8221; announced that the market will be back online today.</p>
 <p>As a result of last week drama that resulted in the <a href="http://www.deepdotweb.com/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/" target="_blank">arrest of the 3 moderators</a> and the <a href="http://www.deepdotweb.com/2013/12/24/the-silk-road-2-0-tales-psy-ops/" target="_blank">disappearing of the Silk road 2.0 admin</a> &#8220;Dread Pirate Roberts&#8221; (V.2) , the current admins came across some unexpected technical problem resulting in the loss of their access keys to the bitcoin wallets holding everyone&#8217;s funds currently in escrow (not account balances), unlike what we have seen with the <a href="http://www.deepdotweb.com/2013/12/23/reports-tormarket-scam-in-progress/" target="_blank">recent scams</a>, the SR admin took the honest approach, telling the users what happened and claimed full responsibility for the situation while coming up with few possible solutions to solve this matter.</p>

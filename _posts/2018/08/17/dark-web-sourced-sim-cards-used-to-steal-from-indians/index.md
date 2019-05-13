@@ -1,15 +1,15 @@
 ---
 Dark Web Sourced Sim Cards Used to Steal from Indians
 ---
-<article class="post-listing post-26540 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cards tag-dark tag-indians tag-sim tag-sourced tag-steal tag-web">
+<article class="post-listing post-26540 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-cards tag-dark tag-indians tag-sim tag-sourced tag-steal tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>August 17, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/17/dark-web-sourced-sim-cards-used-to-steal-from-indians/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Dark web-related crimes have been on <a href="https://www.deepdotweb.com/2018/04/09/indian-sc-judge-states-the-need-to-regulate-the-cyber-sector-in-wake-of-dark-web-growth/">the rise in India</a>. The anonymity that comes with dark web use has proven to be a powerful tool to Indian criminals. Most Indians especially students have turned to the dark web, where they purchase drugs for resale to other Indian drug abusers. This also has been a huge challenge for Indian law enforcement. The latest development has seen Indian fraudsters turn to the dark web to acquire mobile SIM cards, which they in turn use to steal from unsuspecting targets, through what is known as SIM-swapping.</p>
 <p><img class="wp-image-26549" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-24.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-24.jpeg 375w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-24-300x160.jpeg 300w" sizes="(max-width: 375px) 100vw, 375px" /></p>
 <p>This is how it works: Fraudsters identify the most vulnerable targets based on their social media profiles. After identifying the targets, the suspects find all the necessary details about their potential target. They mainly initiate cyber-attacks on the target, such as phishing tactics. The target details are mainly phone numbers and banking login details.</p>

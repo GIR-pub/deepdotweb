@@ -1,15 +1,15 @@
 ---
 British Dark Web Fentanyl Gang Captured, Trial Set
 ---
-<article class="post-listing post-25978 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-british tag-captured tag-dark tag-fentanyl tag-gang tag-set tag-trial tag-web">
+<article class="post-listing post-25978 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-british tag-captured tag-dark tag-fentanyl tag-gang tag-set tag-trial tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>June 10, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/06/10/british-dark-web-fentanyl-gang-captured-trial-set/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Three brits who operated a dark web drug business are now in line for a jail sentence after admitting guilt to selling fatal <a href="https://www.deepdotweb.com/2018/04/03/us-postal-officers-intercept-1500-fentanyl-tablets-mailed-from-the-darknet/">fentanyl across the globe through a mail order system</a> they set up. Those arrested included: 22-year-old Jake Levene, of Turner Close, Wakefield, 45-year-old Lee Childs of Bedale Court, Morley, Leeds and Mandy Christopher Lowther, a 21-year-old from Cottingley Springs, Morley, Leeds. They were arrested for selling fentanyl and its far more deadly analogue carfentanil with their vendor shop on the <a href="http://www.itv.com/news/2018-05-29/trio-facing-jail-for-selling-potentially-lethal-drugs-over-dark-web/">darknet marketplace UKBargins</a>. This site alone has been connected to 120 related deaths in the United Kingdom since 2016, according to regional head of investigations the National Crime Agency (NCA), Greg McKenna.</p>
 <p>McKenna spoke briefly on this case and that it concludes the closure of an organized crime group distributing extremely dangerous drugs all over the world. He added that the group had intensive knowledge of how lethal the drugs were and the damage they could cause, but committed felonies regardless of the outcome.</p>
 <p>Reports from the NCA suggested that, prior to the arrest of these three men, fentanyl-related deaths had increased unprecedentedly around the globe. They sold drugs to customers from all over including Spain, France, Norway, Canada, Singapore, the United Kingdom, Argentina, Holland, and Germany. They reportedly sold 2,853 <a href="https://www.deepdotweb.com/2018/02/17/dark-web-drug-dealer-supplied-fentanyl-uk-jailed-8-years/">illegal substances to over 172 people in the UK</a> as well as 271 across other countries. They made over £163,000.</p>

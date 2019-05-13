@@ -7,9 +7,8 @@
 <span>February 13, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/02/13/5-ways-to-send-secret-messages/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>From time to time every one of us is faced with a situation where we have to tell someone something very important and intimate that no one else should know. In our age of total surveillance (remember Prism project?), transferring information without the presence of third parties has become a very difficult task. In this article I summarize all I know about privacy protection and secure information transfer and give a short description of 5 apps and programs that I use every day to send messages.</p>
 <p><span style="text-decoration: underline;"><strong>TextSecure</strong></span><br />
 <a href="https://whispersystems.org/" target="_blank">TextSecure</a> is a free and open-source encrypted messaging application for Android. Open Whisper Systems improved Off-the-Record Messaging (OTR) protocol in some secrecy aspects, and added a mechanism to allow the ephemeral key negotiation to work asynchronously. The TextSecure protocol uses Curve25519, AES-256, and HMAC-SHA256 as primitives.</p>

@@ -1,15 +1,15 @@
 ---
 Healthcare Ransomware Attack Declines despite Flashy Attack
 ---
-<article class="post-listing post-26510 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attack tag-declines tag-flashy tag-healthcare tag-ransomware">
+<article class="post-listing post-26510 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-attack tag-declines tag-flashy tag-healthcare tag-ransomware">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>August 8, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/08/healthcare-ransomware-attack-declines-despite-flashy-attack/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A report released by Cryptonite, a cyber-security firm shows that ransomware attacks on healthcare organizations are <a href="https://healthitsecurity.com/news/despite-flashy-attacks-healthcare-ransomware-attacks-decline">on a decline</a> despite flashy attacks recently. According to the report, the number of ransomware attacks decreased from 19 in the first quarter of 2017 to eight in the same quarter of 2018. Despite the Allscripts and Labcorp attack in the healthcare industry, there has been a 57 percent decrease in ransomware attacks in 2018 as compared to 2017. This in a way shows that the health institutions have prioritized cyber security. Compared to the 140 IT/hacking incidents recorded in the first half of 2017, 59 IT/hacking cases have been recorded so far in 2018 according to the report. Researches by other firms also establish a similar trend.</p>
 <p>Michael Simon, the CEO and President of the cybersecurity firm said that he expects cybercriminals to adjust their techniques to regain control over medical and mobile devices in response to the downtrend in the use of ransomware in the first half of 2018.</p>
 <p>There has been a nine percent increase in compromised records compared to last year, with 1,928,432 comprised record cases recorded so far.</p>

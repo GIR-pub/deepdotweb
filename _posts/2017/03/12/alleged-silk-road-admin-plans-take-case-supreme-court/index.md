@@ -1,15 +1,15 @@
 ---
 Alleged Silk Road Admin Plans to Take Case to the Supreme Court
 ---
-<article class="post-listing post-18640 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-alleged tag-case tag-court tag-plans tag-road tag-silk tag-supreme">
+<article class="post-listing post-18640 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-admin tag-alleged tag-case tag-court tag-plans tag-road tag-silk tag-supreme">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 12, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/12/alleged-silk-road-admin-plans-take-case-supreme-court/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The alleged admin behind the Silk Road forums, Gary Davis, planned another appeal, so to speak, of his Court ordered extradition. John B Peart, Davis&#8217;s chief council confirmed that the defense moved to reach the Supreme Court before a small window of time on Irish ground passed. <a href="https://www.deepdotweb.com/2016/08/13/alleged-silk-road-admin-libertas-extradited-us/">Davis fought the US extradition order</a> since his 2014 arrest on the basis that US prisons poorly treated those with Asperger&#8217;s syndrome—a disorder Gary suffered strongly from, his defense argued.</p>
 <p>The United States indicted Davis in 2014 after the crumbling of the notorious darknet marketplace called the Silk Road. The FBI indicted three admins of the Silk Road: <a href="https://www.deepdotweb.com/2014/03/19/arrested-silk-road-mod-ssbd-waives-extradition-rights-silk-road-charges-us/">Peter Nash aka SSBD</a> and <a href="https://www.deepdotweb.com/2013/12/20/silk-road-administrator-inigo-busted/">Andrew Jones aka Inigo</a>, and Gary Davis aka Libertas, if found guilty by a US court. Peter Nash willfully faced the extradition from Australia and Andrew Jones lived in the US.</p>
 <p>Following every court date, Davis received a short window of time where <a href="https://www.deepdotweb.com/2016/08/14/indicted-silk-road-admin-will-appeal-extradition-within-10-days/">his defense drafted a new appeal</a>. The process repeated itself. Finally, in early 2017, a three-judge panel at the Court of Appeal dismissed his appeal order in a final hearing. They ordered his extradition, dismissed his appeal, and incarcerated him on the spot. <img class="wp-image-18641 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-5.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-5.jpeg 642w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-5-300x169.jpeg 300w" sizes="(max-width: 642px) 100vw, 642px" /><br />

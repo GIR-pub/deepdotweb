@@ -7,9 +7,8 @@
 <span>August 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/12/bitcoin-price-analysis-12th-august/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>BBVA Bank of Spain on mainstreaming Bitcoin</strong></p>
 <p>BBVA bank, Spain’s second largest bank, this week released a <a href="https://www.youtube.com/watch?v=l8S-wkpBDW0">video tutorial</a> on how to send and receive payments via bitcoin! The video, walks users through the process of opening a wallet, backing it up, purchasing and sending bitcoins. It also simultaneously released a report on blockchain technology title <a href="https://ihb.io/2015-08-10/news/bbva-blockchain-technology-poised-financial-industrys-biggest-disruptor-yet-22330"><em>Blockchain technology poised to be financial industry’s biggest disruptor yet</em></a><em>. </em>The Spanish bank, an investor in Coinbase (US &amp; European Bitcoin exchange), is an indicator of growing investor and mainstream interest in applications of blockchain and to some extent, bitcoins. Interestingly, the bank’s fintech awards features 3 bitcoin start ups</p>
 <p><strong>New York BitLicense Wards Off Exchange business </strong></p>

@@ -1,15 +1,15 @@
 ---
 Some Cities Using Smart City Gunfire Detection
 ---
-<article class="post-listing post-18767 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cities tag-city tag-detection tag-gunfire tag-smart">
+<article class="post-listing post-18767 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-cities tag-city tag-detection tag-gunfire tag-smart">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 24, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/24/cities-using-smart-city-gunfire-detection/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a id="post-18767-_gjdgxs"></a> ShotSpotter, as described by the New York Post, demonstrated the <a href="http://nypost.com/2017/03/06/all-knowing-surveillance-system-detects-gunfire-all-across-america/">advanced level of data extraction made possible by modern technology</a>. SST&#8217;s ShotSpotter is a tool that provides law enforcement with details of a shooting far more quickly than someone can place a call. Not only that, but the technology can pick up what type of weapon, how many weapons, how many gunshots, etc. While this is simply a tool to save gunshot victims, the <a href="https://www.deepdotweb.com/tag/privacy/">technology is all around us</a>, silently listening, and many would be none the wiser.</p>
 <p>The semi-acoustic approach to modular listening is not exclusive to SST; the US military used similar technology for a decade or more. SST, though, began working under the Obama “Smart Cities” Initiative to build – naturally, smart cities. Through a new partnership with Amazon AWS and GE, SST aims to frontline the concept of smart cities. Saving the lives of gunshot victims is an innovative place to start, the company believes. <img class="wp-image-18779 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-15.jpeg" width="851" height="572" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-15.jpeg 1199w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-15-300x202.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-15-1024x688.jpeg 1024w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-15-290x195.jpeg 290w" sizes="(max-width: 851px) 100vw, 851px"/></p>
 <p>SST&#8217;s ShotSpotter, accompanying app, and rollouts succeeded in proving their value. So far, the company only rolled the technology out to a handful of cities in the US. However, many school campuses, theaters, public buildings, etc., implemented the technology as well. The following list summarizes every city that adopted ShotSpotter early on: Oakland &amp; San Diego; Wilmington, North Carolina, Trenton, New Jersey; New York City; Parish, Louisiana, Birmingham, Alabama; Miami, Florida; San Antonio, Texas; Chicago, Illinois; and Milwaukee, Wisconsin.</p>

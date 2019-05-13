@@ -1,15 +1,15 @@
 ---
 Alabama Veterinarian Accused of Ordering 18 Grams of Fentanyl on the Darknet
 ---
-<article class="post-listing post-24717 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1766 tag-accused tag-alabama tag-darknet tag-fentanyl tag-grams tag-ordering tag-veterinarian">
+<article class="post-listing post-24717 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-1766 tag-accused tag-alabama tag-darknet tag-fentanyl tag-grams tag-ordering tag-veterinarian">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 7, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/07/alabama-veterinarian-accused-ordering-18-grams-fentanyl-darknet/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to Alabama’s Shelby County Drug Enforcement Task Force, an Alabaster county veterinarian and his Pelham country accomplice ordered 18 grams of fentanyl from the darknet. Customs intercepted a suspicious package at John F. Kennedy International Airport in New York. The package contained a child&#8217;s toy—a stuffed bear—that contained enough fentanyl to eliminate a small city.</p>
 <p><img class="wp-image-24721 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-13.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-13.jpeg 663w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-13-300x149.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-13-660x330.jpeg 660w" sizes="(max-width: 663px) 100vw, 663px" /></p>
 <p>The Task Force Commander Lt. Clay Hammac explained that after Homeland Security Investigations (HSI) finished their part of the job, HSI called the Task Force and notified them of the fentanyl interception. The Shelby County Drug Enforcement Task Force and United States Postal Inspection Service identified the recipient after HSI gave the inspectors the address on the package. Through means unknown, the Task Force learned that David Wallace, a 46 year old veterinarian from Alabaster county, had purchased fentanyl on the darknet. And Hammac said that Wallace used Bitcoin.</p>

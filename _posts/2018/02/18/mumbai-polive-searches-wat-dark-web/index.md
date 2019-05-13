@@ -1,15 +1,15 @@
 ---
 Mumbai Polive Searches for a Wat Into The Dark Web
 ---
-<article class="post-listing post-24854 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-mumbai tag-polive tag-searches tag-wat tag-web">
+<article class="post-listing post-24854 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-dark tag-mumbai tag-polive tag-searches tag-wat tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>February 18, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/18/mumbai-polive-searches-wat-dark-web/#comments">15 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The dark web continues to do more damage every day. Despite the numerous efforts that many law enforcement agencies and government across the globe are doing, it still isn’t enough to put a stop to it. Many criminals are in bed with the dark part of the internet and do not intend to stop anytime soon due to the freedom they enjoy over there. Many countries have seen their streets flooded with illegal drugs which are causing death tolls to rise and thanks to the dark web.</p>
 <p>Illicit drugs which under any circumstances wouldn’t be sold because of its status can be easily acquired on the dark web which has caused drug abusers to embrace this new reality, making the fight against the dark web a very difficult one.</p>
 <p>The United States, Canada and countries in Europe have been bleeding from the harm that the dark web is causing. Many arrests have been made so far but still hasn’t helped the situation. For instance, <a href="https://www.deepdotweb.com/2017/12/06/28-overdose-death-linked-darknet-drug-ring-utah/">drug overdose deaths in the U.S.</a>, skyrocketed last year up to 21%. From, 52,000 the number rose to 63,600 within just a year and this was attributed to the opioid epidemic which was caused by drugs from the dark web.</p>

@@ -1,15 +1,15 @@
 ---
 How does a state spy on citizens?
 ---
-<article class="post-listing post-24642 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-citizens tag-spy tag-state">
+<article class="post-listing post-24642 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-citizens tag-spy tag-state">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>February 2, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/02/02/state-spy-citizens/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On the air of radio station <a href="https://echo.msk.ru/">&#8220;Echo Moscow&#8221;</a>, Gennady Gudkov, the colonel of the Federal Security Service of Russia <a href="https://echo.msk.ru/programs/oblozhka-1/1495052-echo/">shared his ideas</a> on how a state spies upon its citizens. Laboratory Kaspersky recently published a report about finding a large server grouping which might be connected with the National Security Agency of the USA. This grouping implemented software tracking tools on computer hard drives with the help of malware. Russian servers, including government ones, suffered from that attack. The report raised multiple discussions and led to the interview with Gennady Gudkov. We chose the most important statements and gave them below.</p>
 <p><strong> &#8211; Talking about Russia, are special services concerned about an idea of spying on citizens?</strong></p>
 <p>&#8211; First of all, we should not mix two aspects of surveillance. There is an external surveillance which is carried out mostly by great states having geopolitical interests, for example the USA, Russia, England, France, Germany, and China. And there is an internal surveillance aiming at national security interests.</p>

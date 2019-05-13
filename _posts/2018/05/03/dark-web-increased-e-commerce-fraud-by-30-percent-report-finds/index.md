@@ -1,15 +1,15 @@
 ---
 Dark Web Increased E-commerce Fraud by 30 Percent, Report Finds
 ---
-<article class="post-listing post-25586 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1778 tag-dark tag-ecommerce tag-finds tag-fraud tag-increased tag-percent tag-report tag-web">
+<article class="post-listing post-25586 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-1778 tag-dark tag-ecommerce tag-finds tag-fraud tag-increased tag-percent tag-report tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 3, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/03/dark-web-increased-e-commerce-fraud-by-30-percent-report-finds/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a id="post-25586-_gjdgxs"></a> The e-commerce world is continually facing a threat to its rising fame and user appreciation; e-commerce fraud. There has been a steady rise in sales tied to e-commerce platforms across the globe with many embracing the trend. In the same manner, <a href="https://www.thepaypers.com/digital-identity-security-online-fraud/ecommerce-fraud-attack-rate-rose-30-percent-report-finds/772861-26">e-commerce fraud has been making a gradual climb</a> from 2015 to date.</p>
 <p>A report commissioned by Experian highlights the plight of the online trading sector. Statistics reveal a 30% rise in fraud threats in 2017. The report shows that this bundle of illegal activities on the dark web affects more than 5% of the entire population in the United States.</p>
 <p>While e-commerce is a global disaster, the U.S. bears the lion’s share of the burden. American merchants are more at risk than traders anywhere else in the world.</p>

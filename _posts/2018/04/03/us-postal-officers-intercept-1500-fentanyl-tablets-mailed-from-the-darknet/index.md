@@ -1,15 +1,15 @@
 ---
 US Postal Officers Intercept 1500 Fentanyl Tablets Mailed From The Darknet
 ---
-<article class="post-listing post-25247 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6388 tag-darknet tag-fentanyl tag-intercept tag-mailed tag-officers tag-postal tag-tablets">
+<article class="post-listing post-25247 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-6388 tag-darknet tag-fentanyl tag-intercept tag-mailed tag-officers tag-postal tag-tablets">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>April 3, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/03/us-postal-officers-intercept-1500-fentanyl-tablets-mailed-from-the-darknet/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The postal office employees of the United States of America have intercepted two shipments containing <a href="https://www.daytondailynews.com/news/crime--law/dark-web-fentanyl-mailed-within-dayton-address-feds-say/EJEaRTvNx9GuNrOc3tAvjN/">1,500 tablets of Fentanyl</a>. According to the federal court document, the drugs were ordered from the Darknet and paid in Bitcoin.</p>
 <p>On 12 March 2018, a warrant was issued to search the intercepted shipments, and the packages were confirmed to contain a schedule 1 drug: methylacetyl fentanyl. According to the categorization of drugs, MDMA, heroin, ecstasy, and LSD are all categorized under schedule 1 drugs.</p>
 <p>On the website of the drug enforcement agency, it is written “These synthetic opioids have a high potential for abuse, not currently accepted for a medical use in treatment in the United States, and a lack of accepted safety for use under medical supervision.”</p>

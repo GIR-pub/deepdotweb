@@ -1,15 +1,15 @@
 ---
 German Tried To Pay With Counterfeit Money For Pizza – Got Busted
 ---
-<article class="post-listing post-18854 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-counterfeit tag-german tag-money tag-pay tag-pizza">
+<article class="post-listing post-18854 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-counterfeit tag-german tag-money tag-pay tag-pizza">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 28, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/28/german-tried-pay-counterfeit-money-pizza-got-busted/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A family man from Cologne, Germany was <a href="http://www.express.de/koeln/50-euro-scheine-koelner--24--bestellte-falschgeld-im-darknet---so-daemlich--flog-er-auf-26177186">sentenced</a> for trying to put counterfeit euro notes into circulation, which he bought from the dark web.</p>
 <p><img class="wp-image-18863 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/foto2.jpeg" alt="Foto2" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/foto2.jpeg 464w, https://www.deepdotweb.com/wp-content/uploads/2017/03/foto2-300x150.jpeg 300w" sizes="(max-width: 464px) 100vw, 464px"/></p>
 <p>Mike K. (his name was changed for privacy reasons), a 24-year-old family man was sitting in the courtroom for the charge of forgery on March 11. According to official court documents, the defendant ordered four pieces of <a href="https://www.deepdotweb.com/tag/counterfeit/">counterfeit</a> 50 euro notes from a dark net vendor costing him 43.5 euros. After the fake bills were delivered to his address, he tried to use one of the notes to pay for a pizza he ordered. However, the quality of the bills was so bad that the delivery man immediately recognized that the money the 24-year-old tried to pay with is fake, and alerted police.</p>

@@ -7,9 +7,8 @@ Book Review: Data And Goliath By Bruce Schneier
 <span>March 11, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/03/11/book-review-data-and-goliath-by-bruce-schneier/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong><em>Ubiquitous surveillance offends our humanity and making us less secure, but all is not lost&#8230; yet.</em></strong></p>
 <p>Security and cryptography guru Bruce Schneier warns us of the many consequences the data trails our lives leave in his newly-released book <em>Data and Goliath</em>, but one is particularly alarming:</p>
 <p>In many parts of the world, your metadata can actually get you killed, without anyone knowing (or needing to know) your actual identity.</p>

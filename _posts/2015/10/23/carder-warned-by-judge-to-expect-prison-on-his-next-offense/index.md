@@ -7,9 +7,8 @@ Carder Warned By Judge To Expect Prison On His Next Offense
 <span>October 23, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/23/carder-warned-by-judge-to-expect-prison-on-his-next-offense/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.stuff.co.nz/business/money/73162685/judge-warns-dark-web-fraudster-to-expect-prison-if-he-offends-again.html">Timothy Bourke (23) who has spent around $6000 from a stolen credit card he obtained from the dark web, has been warned by the judge to expect prison time if he offends again.</a> The carder was sentenced in the Nelson District Court on Monday on counts of accessing a computer system for dishonesty and one charge of intending to access a computer system for dishonesty.</p>
 <p>Bourke has previously used <a href="https://www.deepdotweb.com/tag/evolution/">Evolution</a> (before it was closed down in an exit scam), to purchase the credit card details he used for carding. The man used these details to make around 10 online purchases totaling the sum of $6742.67. He made the purchases between September 1 and October 15 last year. According to law enforcement authorities, he has used his own personal computer for the purchases. He used online stores for carding, including Countdown, Hallensteins, The Warehouse, Domino&#8217;s Pizza, Mitre 10, Wild Pair, Macpac and Sony. The list of things he bought from these shops are gardening items, a television, shoes, tramping boots, clothing, food, pizza, video games and DVDs.</p>
 <p>Bourke has told the police (after he has been caught) that he didn’t think those items would be delivered. He also stated that felt guilty when the items have arrived and decided to donate most of the carded items to the Nelson Refuse Centre. Michael Vesty, representing the defense in the case has told the judge that Bourke was &#8220;upfront and honest&#8221; with law enforcement authorities and he provided all the required information regarding the case.</p>

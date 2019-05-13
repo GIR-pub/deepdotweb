@@ -1,7 +1,8 @@
 ---
 More Young Students in the UK are Purchasing Antidepressants on Dark Web
 ---
-<article class="post-listing post-22805 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-antidepressants tag-dark tag-purchasing tag-students tag-uk tag-web tag-young">
+<article class="post-listing post-22805 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-antidepressants tag-dark tag-purchasing tag-students tag-uk tag-web tag-young">
     
     <div class="post-inner">
     

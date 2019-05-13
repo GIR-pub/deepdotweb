@@ -7,9 +7,8 @@ Man Jailed For 30 Months For Exchanging CP On Dark Net Sites
 <span>October 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/19/man-jailed-for-30-months-for-exchanging-cp-on-dark-net-sites/#comments">15 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.middevongazette.co.uk/Dark-web-user-jailed-luring-girls-online/story-27998173-detail/story.html">Joel Morter (25) has been jailed for using dark web CP (child porn) websites for exchanging under-aged sex media and for making under-aged girls strip off naked in front of a webcam.</a></p>
 <p>When police have raided Morter’s house they found him at his computer reading child abuse stories online. Law enforcement authorities have found 919 child porn related content, including 274 movies that contained the abuse of children, some of them were categorized as &#8220;one of the most extreme types of child porn&#8221;. He has been sharing some of these videos and movies on unnamed dark web pedo sites. The police also found chat logs of Morter contacting with young girls from all over the world.</p>
 <p>The chat messages were found on the child porn abuser’s laptop and iPhone, according to law enforcement authorities, he was messaging those children and was trying to make them upload naked pictures of themselves. He once told a 14-year old girl: &#8220;Age does not matter. I like young girls and you are gorgeous.&#8221; According to law enforcement authorities, the precise number of children he has contacted with is 24, among those children the youngest is 10 years old. Some of the potential victims had been sent an image purporting to be his private parts without warning.</p>

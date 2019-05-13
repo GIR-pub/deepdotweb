@@ -1,7 +1,8 @@
 ---
 Law Enforcement Arrested The First Hansa Users In The Netherlands
 ---
-<article class="post-listing post-21846 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-21846 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 9, 2017</span>

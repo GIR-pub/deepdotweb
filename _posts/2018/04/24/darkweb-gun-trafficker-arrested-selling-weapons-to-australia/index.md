@@ -1,15 +1,15 @@
 ---
 Darkweb Gun Trafficker Arrested Selling Weapons To Australia
 ---
-<article class="post-listing post-25484 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-australia tag-darkweb tag-gun tag-selling tag-trafficker tag-weapons">
+<article class="post-listing post-25484 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-australia tag-darkweb tag-gun tag-selling tag-trafficker tag-weapons">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>April 24, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/24/darkweb-gun-trafficker-arrested-selling-weapons-to-australia/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>An associate of a U.S. based group which sells firearms on a <a href="http://www.dailymail.co.uk/news/article-5590871/Gun-trafficking-groups-selling-Australia-sentenced.html">Darkweb market has been busted</a>. The 29-year-old Gerren Johnson was taken into custody after an international investigation was conducted exposing him as a firearms trafficker. The weapons were smuggled in electronic products and delivered to buyers across the globe especially to people in Australia.</p>
 <p><a id="post-25484-_gjdgxs"></a> In 2017, Gerren Johnson, along with William Jackson were prosecuted on federal charges for delivering firearms without a license from the United States to other parts of the world. They were exposed from hiding behind the anonymity of the darknet in order to sell unlicensed firearms.</p>
 <p>Johnson was associated with an Armitage International Model Scarab Scorpion 9mm pistol seized in the Netherlands, and a Glock Model 17 Gen 4 9mm pistol which was headed for France. These firearms were smuggled as parcels inside electric switchboards, distribution boards, circuit breakers and disconnect, electricity meters, transformers and other types of devices not immediately detected by the U.S. postal service overseas during transportation.</p>

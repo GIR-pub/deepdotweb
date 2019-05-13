@@ -7,9 +7,8 @@ title: Warning: Silk Road 2.0 And DPR account might be compromised!
 <span>December 22, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong><span style="text-decoration: underline;">Update 3#</span>:</strong> <span style="color: #ff0000;">Must Read &#8211; <a href="http://www.deepdotweb.com/2013/12/24/the-silk-road-2-0-tales-psy-ops/" target="_blank"><span style="color: #ff0000;">The Silk Road Tales And Psy-Ops!</span></a></span></p>
 <p><span style="text-decoration: underline;"><strong>Update #2</strong>:</span> <span style="color: #000000;">Read This:  <a href="http://www.deepdotweb.com/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/" target="_blank"><span style="color: #000000;">WTF? The Silk Road 2.0 / DPR2 Farce Explained</span></a></span></p>
 <p><span style="text-decoration: underline;"><strong>Update #1</strong></span>:  Its becoming more clear now, that DPR is most likely NOT compromised but either hiding or running or waiting since hes real identity is known both to Ross Ulbricht (the previous DPR) and to the arrested mods. its being assumed he is Stexo from SR1 &#8211; and due to the well known fact that hes real identity was known to Ross and the 3 arrested moderators (along with some others) &#8211; he was warned multiple times not to start Silk Road 2.0, yet he still did, putting himself on danger. we have the full details by now, we will publish them when we will have the final conclusions and after some editing as the amount of the gathered information is huge. other updated may follow.</p>

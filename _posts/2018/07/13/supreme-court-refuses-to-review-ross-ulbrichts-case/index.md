@@ -1,15 +1,15 @@
 ---
 Supreme Court Refuses to Review Ross Ulbricht’s Case
 ---
-<article class="post-listing post-26291 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-court tag-refuses tag-review tag-ross tag-supreme tag-ulbrichts">
+<article class="post-listing post-26291 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-case tag-court tag-refuses tag-review tag-ross tag-supreme tag-ulbrichts">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>July 13, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/13/supreme-court-refuses-to-review-ross-ulbrichts-case/#comments">14 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In December of last year, the attorneys for Ross Ulbricht, the convicted creator of the original Silk Road darknet, had asked the Supreme Court of the United States to review Ulbricht’s case in a <a href="https://www.deepdotweb.com/2018/01/15/ross-ulbricht-appeals-life-sentence-supreme-court/">petition for a writ of certiorari</a> they filed with the high court. But prior to the end of the Supreme Court’s term for this year, the court <a href="https://www.supremecourt.gov/orders/courtorders/062818zr_k425.pdf">denied Ulbricht’s petition</a> and refused to hear the case. Ulbricht’s legal team was challenging the conviction and double life sentence given to Ulbricht on the grounds that Ulbricht’s rights protected by the 4<sup>th</sup> amendment and 6<sup>th</sup> amendment of the United States Constitution.</p>
 <p>In a <a href="https://www.deepdotweb.com/2017/06/17/silk-road-founder-loses-life-sentence-appeal/">ruling made last year</a>, the 2<sup>nd</sup> Circuit Court of Appeals in New York had upheld Ulbricht’s conviction and sentence. Ulbricht’s legal team appealed that decision to the Supreme Court, but a higher court had decided to postpone making a decision on the petition for a writ of certiorari in Ulbricht’s case only after they issued their opinion in the case of Carpenter v. United States. Ulbricht’s case was not the only case the high court had held off making a decision on pending the ruling in the Carpenter case. As with Ulbricht’s case, in the case of Caira v. United States, the Supreme Court postponed making a decision on whether or not to review the case until the Carpenter case was decided, and that petition for review was also ultimately denied.</p>
 <p>A landmark decision relating to the 4<sup>th</sup> amendment and digital privacy rights was issued by the Supreme Court in the <a href="https://www.deepdotweb.com/2017/12/13/us-supreme-court-hears-landmark-cellphone-privacy-case/">Carpenter case</a>. Ross Ulbricht’s legal team, along with <a href="https://reason.com/blog/2018/06/26/carpenter-supreme-court-decision-should">many other people</a>, had believed that the Supreme Court was likely to review Ulbricht’s case given the outcome of the Carpenter case. They believed the decision in the Carpenter case had huge implications for Ulbricht’s case. A supplemental brief had been filed by Ulbricht’s legal team with the Supreme Court after a ruling was issued on the Carpenter case. “The Court expressly rejected the government&#8217;s &#8216;primary contention’ that the third party doctrine adopted by the Court in the context of telephone calls in Smith v. Maryland … should be applied to new categories of information made available by &#8216;seismic shifts in digital technology,’” Ulbricht’s attorneys argued in the supplemental brief filed with the court after the Carpenter case had been decided.</p>

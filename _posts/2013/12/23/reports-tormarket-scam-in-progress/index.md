@@ -7,9 +7,8 @@ title: Reports: Tormarket Scam In Progress?
 <span>December 23, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/23/reports-tormarket-scam-in-progress/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>As if the the Silk Road Drama wasn&#8217;t enough for today,  we can confirm that from about 8 hours ago Tormarket forum and the Tormarket site went down,</p>
 <div id="attachment_2875" style="width: 490px" class="wp-caption aligncenter"><a href="/imgs/2013/12/gone.jpg"><img aria-describedby="caption-attachment-2875" class="size-full wp-image-2875" alt="We really wanted to report something about this case - but this is the only info" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/gone.jpg" width="480" height="360" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/12/gone.jpg 480w, https://www.deepdotweb.com/wp-content/uploads/2013/12/gone-300x225.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /></a><p id="caption-attachment-2875" class="wp-caption-text">We really wanted to report something about this case &#8211; but this is the only info</p></div>
 <p>Hours later we have started getting reports by mail and from reddit telling us that people checking their wallets / escrow addresses of tormarket are finding out that their money was emptied out of the account, at least in the tormarket case, unlike with ths sheep case, the owner did not prolong the suffering too much, but just ran away and tool down everything at the same time,  we cant help from wondering if it was planned all along or they just got scared from all these recent SR events. either  way,  we will keep following and reporting once we have some more confirmed information.</p>

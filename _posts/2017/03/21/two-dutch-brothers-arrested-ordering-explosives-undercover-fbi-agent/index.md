@@ -1,15 +1,15 @@
 ---
 Two Dutch Brothers Arrested For Ordering Explosives From Undercover FBI Agent
 ---
-<article class="post-listing post-18727 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agent tag-arrested tag-brothers tag-dutch tag-explosives tag-fbi tag-ordering tag-undercover">
+<article class="post-listing post-18727 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-agent tag-arrested tag-brothers tag-dutch tag-explosives tag-fbi tag-ordering tag-undercover">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 21, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/21/two-dutch-brothers-arrested-ordering-explosives-undercover-fbi-agent/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Two brothers, 22-year-old Ali and 19-year-old Yusuf, were <a href="http://www.at5.nl/artikelen/166400/Politie%20en%20FBI%20onderscheppen%20kneedbom%20op%20bestelling">arrested</a> in the Netherlands for ordering 500 grams of Semtex, a plastic explosive from the dark web. The explosive is mostly used in commercial blasting, demolition, and in certain military applications. However, Semtex became a popular tool for terrorists and paramilitary groups since it was extremely difficult to detect, until recently.</p>
 <p>According to official court documents, the two brothers ordered 500 grams of the explosives from the dark web. They provided their home address at Amersfoort for delivery.</p>
 <p>Ali’s trial could be expected to start on Tuesday, while Yusuf is still in pre-trial detention. Both men are suspects in the case, and the investigation is still ongoing. The prosecution claims that the two brothers were planning an attack during their visit in Amsterdam.<img class="wp-image-18731 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-14-j.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\14.jpg" width="796" height="408" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-14-j.jpeg 1050w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-14-j-300x154.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-14-j-1024x525.jpeg 1024w" sizes="(max-width: 796px) 100vw, 796px"/></p>

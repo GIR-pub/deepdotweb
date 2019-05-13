@@ -1,15 +1,15 @@
 ---
 Cryptocurrency news roundup, March 10, 2018
 ---
-<article class="post-listing post-25007 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-545 tag-5927 tag-cryptocurrency tag-march tag-news tag-roundup">
+<article class="post-listing post-25007 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-545 tag-5927 tag-cryptocurrency tag-march tag-news tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
 <span>March 11, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/11/cryptocurrency-news-roundup-march-10-2018/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>This week’s summary of various cryptocurrency news and developments.</p>
 <h2>New developments:</h2>
 <p>Cryptocurrency exchange Binance fended off a ‘massive’ theft attempt</p>

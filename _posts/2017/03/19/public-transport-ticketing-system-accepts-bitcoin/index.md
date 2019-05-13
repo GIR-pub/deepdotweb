@@ -1,15 +1,15 @@
 ---
 A Public Transport Ticketing System That Accepts Bitcoin
 ---
-<article class="post-listing post-18686 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-accepts tag-bitcoin tag-public tag-system tag-ticketing tag-transport">
+<article class="post-listing post-18686 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-accepts tag-bitcoin tag-public tag-system tag-ticketing tag-transport">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 19, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/19/public-transport-ticketing-system-accepts-bitcoin/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In many parts of the world today, public transportation is faced by the problem of seemingly inconvenient ticketing processes. Bitcoin is a decentralized currency that can easily solve such problem. <a href="https://www.researchgate.net/profile/Nian_Xue/publication/311789715_Enable_Bitcoin_Transcation_in_Public_Transport_Ticketing_System/links/585a95f508ae3852d2571eb9/Enable-Bitcoin-Transcation-in-Public-Transport-Ticketing-System.pdf">A group of developers from Liverpool University proposed a novel ticketing system for public transportation</a>, which is comprised of an automatic ticketing vending machine that supports bitcoin payments. An essential part of this ticketing system is a <a href="https://www.deepdotweb.com/2017/01/05/hardware-wallets-keep-friends-close-bitcoins-closer-kptx/">bitcoin hardware wallet</a>, which records private keys and their matching public keys throughout bitcoin transaction processes. The developers created a demo ticketing vending machine and experimented it to prove the performance and feasibility of the ticketing system.</p>
 <p><strong>System Architecture:</strong></p>
 <p>As shown in the below figure, the proposed ticketing system is divided into two parts: the main processor and the bitcoin transaction module:</p>

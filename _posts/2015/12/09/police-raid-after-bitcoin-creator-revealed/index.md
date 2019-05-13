@@ -7,9 +7,8 @@ Police Raid After Bitcoin &#8216;Creator&#8217; Revealed
 <span>December 9, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/09/police-raid-after-bitcoin-creator-revealed/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Hours after <a href="http://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/" target="_blank">Wired</a> &amp; <a href="http://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692?rev=1449615811696" target="_blank">Gizmodo</a> magazines claimed bitcoin was created by an &#8220;unknown Australian genius&#8221; called Craig Wright, his home is raided.</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/raid.jpg"><img class="aligncenter size-full wp-image-12518" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/raid.jpg" alt="raid" width="736" height="414" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/raid.jpg 736w, https://www.deepdotweb.com/wp-content/uploads/2015/12/raid-300x169.jpg 300w" sizes="(max-width: 736px) 100vw, 736px"/></a></p>
 <p class="story__intro">Police have raided the Sydney home of a man named as the likely creator of cryptocurrency bitcoin, according to the <a href="http://www.reuters.com/article/us-australia-bitcoin-exclusive-idUSKBN0TS0AB20151209" target="_blank">Reuters news agency</a>.</p>

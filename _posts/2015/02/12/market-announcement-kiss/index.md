@@ -7,9 +7,8 @@ Market Announcement: Kiss
 <span>February 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/12/market-announcement-kiss/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>New upcoming marketplace was announced on Reddit calling itself &#8211; <a class="title may-blank loggedin" tabindex="1" href="http://www.reddit.com/r/DarkNetMarkets/comments/2vo5qi/kiss_marketplace/">Kiss Marketplace</a>, Will be offering:</p>
 <p><strong>Marketplace vendor preregistration is open:</strong></p>
 <p>&#8211;<em>Selected established vendors will be verified and invited to join the market with the vendor bond waived.</em></p>

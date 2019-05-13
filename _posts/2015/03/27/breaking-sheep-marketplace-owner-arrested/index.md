@@ -7,9 +7,8 @@ Breaking: Sheep Marketplace Owner Arrested
 <span>March 27, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/27/breaking-sheep-marketplace-owner-arrested/#comments">54 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Better late than never, but justice has been served &#8211; According to a report in <a href="http://archiv.ihned.cz/c1-63752430-jak-se-praly-bitcoiny-miliony-z-ciziny-vila-napsana-na-dedecka">archiv.ihned.cz</a>,  The owner of Sheep Marketplace <span class="notranslate">Thomas</span> <span class="notranslate">Jiřikovský </span>&#8211; who was responsible to one the <a href="http://www.deepdotweb.com/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">biggest exit scam in Dark net history</a> of around $40M at the time (when the Bitcoin value was extremely high)  was arrest for money laundering after purchasing a luxury house and trying to launder the stolen money, after converting it from BTC, using fake companies and transferring it to his girlfriend account.</p>
 <div id="attachment_9704" style="width: 610px" class="wp-caption aligncenter"><a href="/imgs/2015/03/jarvis_55145454e4b0336d5f6163ca1.jpeg"><img class="size-full wp-image-9704" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/jarvis_55145454e4b0336d5f6163ca1.jpeg" alt="Here are the Stolen BTC - the house Thomas Bought." width="600" height="338" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/jarvis_55145454e4b0336d5f6163ca1.jpeg 600w, https://www.deepdotweb.com/wp-content/uploads/2015/03/jarvis_55145454e4b0336d5f6163ca1-300x169.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">Here are the Stolen BTC &#8211; the house Thomas Bought.</p></div>
 <p><span style="text-decoration: underline;"><strong>Full Translation of the Czech article:</strong></span></p>

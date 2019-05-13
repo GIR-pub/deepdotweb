@@ -7,9 +7,8 @@ Israeli offered company secrets worth 50 million dollars on the dark web
 <span>July 21, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/21/israeli-offered-company-secrets-worth-50-million-dollars-on-the-dark-web/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Israeli cyber espionage company NSO Group Technologies has accused a 38-year-old former employee of stealing company secrets. The former worker allegedly <a href="https://www.jpost.com/Israel-News/Cyber-Crime-Israeli-tried-to-sell-secrets-on-dark-web-for-USD-50-million-561704">tried to sell highly confidential technology</a> on the dark web for tens of millions of dollars.<img class="wp-image-26361 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/c-users-gebruiker-desktop-ny-gym-week-51-nso-jpg.jpeg" alt="" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/c-users-gebruiker-desktop-ny-gym-week-51-nso-jpg.jpeg 587w, https://www.deepdotweb.com/wp-content/uploads/2018/07/c-users-gebruiker-desktop-ny-gym-week-51-nso-jpg-300x179.jpeg 300w" sizes="(max-width: 587px) 100vw, 587px" /></p>
 <p>It appears that the ex-employee was motivated by revenge. After the man realized he was about to be fired by NSO, he thought out a cunning plan to steal the data. He manipulated the security systems of the organization, allowing him to connect external hardware to the company’s computers. Subsequently, confidential data was stolen.</p>
 <p>The data concerned <a href="https://www.security.nl/posting/568819/NSO-medewerker+verdacht+van+diefstal+Pegasus-spyware">Pegasus spyware</a>, which is specifically designed to remotely monitor and access smartphones. Pegasus spyware infiltrates a target’s phone, after which intelligence agencies can spy on the target through its own camera, microphone, and social media. The spyware also enables the user to put files on a target’s phone or to remove data. NSO sells such technology to governments and investigative agencies all around the world.</p>

@@ -1,15 +1,15 @@
 ---
 Former Silk Road Vendor Sentenced to Six Years in Berlin
 ---
-<article class="post-listing post-24740 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-berlin tag-road tag-sentenced tag-silk tag-vendor tag-years">
+<article class="post-listing post-24740 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-berlin tag-road tag-sentenced tag-silk tag-vendor tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 9, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/09/former-silk-road-vendor-sentenced-six-years-berlin/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.berlin.de/gerichte/presse/pressemitteilungen-der-ordentlichen-gerichtsbarkeit/2018/pressemitteilung.669539.php">According to the spokesperson</a> for the Berlin criminal court system, the Berlin district court sentenced a darknet drug trafficker and two accomplices to six years in prison, three years in prison, and a suspended sentence. The primary suspect, a 43-year-old Japanese man living in Berlin named Ryo Y., had been selling drugs on the darknet as early as November 2012. He sold as “moramaru” on Silk Road, on Alphabay, on <a href="http://www.deepdotweb.com/marketplace-directory/listing/dream-market/">Dream</a>, and even on Hansa. After his 2017 arrest, the police seized more than one million euros from Ryo Y. alone.<img class="wp-image-24747 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-11.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-11.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-11-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Ryo sold by himself, initially. Between November 2012 and October 2013, Ryo sold 32 kilograms of cannabis, 1.6 kilos of MDMA, and 385 grams of cocaine. The investigators said the sales totalled 639,863.66 euros. He told the courts that he had used drugs heavily from age 18 onwards. According to his statement, during his average day, he snorted 4-5 grams of cocaine, smoked 20 joints, and swallowed 15 ecstasy pills. Months ago, an Australian kid told a judge that <a href="https://www.deepdotweb.com/2017/10/12/man-used-four-masterchef-ecstasy-pills-every-day/">he used four ecstasy pills every day</a> and managed to avoid a prison sentence. (Ecstasy picture from <a href="https://www.reddit.com/r/DarkNetMarkets/comments/50h4o0/30x_twitter160mg_xtc_from_moramaruwith_pics/">a Reddit review of moramaru’s Ecstasy</a> by a deleted user account.)</p>
 <p>Ryo received a prison sentence of six years. He must also spend time in rehab. And possibly worst of all, Berlin’s judicial fund now holds more than one million euros that once belonged to Ryo.</p>

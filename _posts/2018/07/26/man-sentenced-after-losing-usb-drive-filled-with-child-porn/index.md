@@ -1,15 +1,15 @@
 ---
 Man Sentenced After Losing USB Drive Filled with Child Porn
 ---
-<article class="post-listing post-26408 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-drive tag-filled tag-losing tag-man tag-porn tag-sentenced tag-usb">
+<article class="post-listing post-26408 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-child tag-drive tag-filled tag-losing tag-man tag-porn tag-sentenced tag-usb">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 26, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/26/man-sentenced-after-losing-usb-drive-filled-with-child-porn/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Court of Créteil, on July 11, sentenced a 34-year-old Frenchman for downloading hundreds of pictures and videos of child abuse from <a href="https://www.deepdotweb.com/tag/darknet/">darknet forums</a> and imageboards. The man, according to the court, had an interest in children as young as six. Although the investigation had yielded all the evidence needed for a harsh punishment, the court sentenced the man to only 18 months in prison. And the judge then suspended the prison sentence.<img class="wp-image-26412 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-61.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-61.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-61-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>One simple mistake led to a very brief investigation. Depending on how one looks at the scenario, the mistake could have been the watching and downloading of child abuse content. But, looking passed the actual illegal activity that led to his conviction, an accident at his workplace was the cause of a police investigation that, in only a few months, led to his arrest and conviction for possession of <a href="https://www.deepdotweb.com/tag/abuse/">child pornography</a>.</p>
 <p>The man worked as a consultant for a large company, the prosecutor explained to the courtroom during one of the hearings. In February, on an elevator, the man had dropped a USB drive when exiting the building. He had not noticed the USB drive fall from his bag or pocket and proceeded throughout the day as if nothing had changed. Later, someone discovered the drive in the elevator and gave it to a person who, in turn, made sure a technician at the company could examine the drive.</p>

@@ -1,15 +1,15 @@
 ---
 Austrian Dealers Admit Ordering Amphetamine on the Darknet
 ---
-<article class="post-listing post-26396 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admit tag-amphetamine tag-austrian tag-darknet tag-dealers tag-ordering">
+<article class="post-listing post-26396 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-admit tag-amphetamine tag-austrian tag-darknet tag-dealers tag-ordering">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 25, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/25/austrian-dealers-admit-ordering-amphetamine-on-the-darknet/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In a recent article, DeepDotWeb covered the arrest of <a href="https://www.deepdotweb.com/2017/12/17/austrian-dealers-busted-darknet-importation/">two drug dealers from Salzburg</a> responsible for the distribution of kilograms of various drugs throughout Salzburg. According to the arrest reports, the duo had been buying large quantities of drugs on the darknet and reselling the drugs to local distributors and smaller buyers. After Customs in Frankfurt, Germany, intercepted several packages of amphetamine, Salzburg police arrested both suspects.</p>
 <p>Between May 2017 and March 2018, the dealers purchased, among many other drugs, two and a half kilograms of amphetamine to sell in Salzburg. Prior to the seizure by German Customs—something almost inevitable for German and Austrian dealers and customers <a href="https://www.deepdotweb.com/tag/darknet/">using the darknet</a>. German Customs and narcotics investigators examined the package, recorded data that would help with future package seizures such as various pieces of information used to build a profile, and then warned law enforcement in Salzburg of the incoming package.</p>
 <p>Salzburg police identified the package recipient and another drug dealer connected to the recipient before the package had even entered Salzburg. The dealers were brothers. One, a 25-year-old, placed orders on the darknet for <a href="https://www.deepdotweb.com/tag/amphetamine/">amphetamines and ecstasy</a>. The second dealer, a 27-year-old, received the packages at his apartment. Given that his address was listed on the package, local authorities likely had very little trouble identifying him.</p>

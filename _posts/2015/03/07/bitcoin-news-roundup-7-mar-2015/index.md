@@ -7,9 +7,8 @@ Bitcoin News Roundup – 7 Mar.2015
 <span>March 7, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/07/bitcoin-news-roundup-7-mar-2015/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>DevCore v2 will be held in London on April 15<sup>th</sup>, sponsored by the Bitcoin Foundation. According to <a href="http://insidebitcoins.com/news/bitcoin-briefs-devcore-london-set-for-april-15th/30439">Inside Bitcoins</a>, following the success of DevCore v1 in Boston in February, DevCore v2 reaches out to the European bitcoin community. CEO of Blockchain, Peter Smith, states that <em>“With DevCore London, the Foundation is making an exciting commitment to the global capital of FinTech.”</em></p>
 <p>Five people were taken into custody for alleged relations to the collapse of MyCoin bitcoin exchange. According to Stan Higgins of <a href="http://www.coindesk.com/police-arrest-mycoin-bitcoin-exchange/">Coin Desk</a>, the five individuals were arrested for conspiracy to defraud for their alleged involvement in the Ponzi scheme MyCoin. The Hong Kong Commercial Crime Bureau (CCB) estimates that nearly $8.1m is lost as a result of attempted business with MyCoin</p>

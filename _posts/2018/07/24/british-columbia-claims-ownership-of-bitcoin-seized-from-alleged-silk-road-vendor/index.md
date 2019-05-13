@@ -1,15 +1,15 @@
 ---
 British Columbia Claims Ownership of Bitcoin seized from Alleged Silk Road vendor
 ---
-<article class="post-listing post-26386 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alleged tag-bitcoin tag-british tag-claims tag-columbia tag-ownership tag-road tag-seized tag-silk tag-vendor">
+<article class="post-listing post-26386 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-alleged tag-bitcoin tag-british tag-claims tag-columbia tag-ownership tag-road tag-seized tag-silk tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>July 24, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/24/british-columbia-claims-ownership-of-bitcoin-seized-from-alleged-silk-road-vendor/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>British Columbia has filed a lawsuit through the director of forfeiture; the government has initiated the lawsuit with the aim of claiming ownership to bitcoins it seized from a marijuana dealer they alleged was a vendor in the <a href="https://www.deepdotweb.com/2017/04/04/prosecutors-norway-want-silk-road-vendors-bitcoin/">now-defunct Silk Road</a>. The police seized the bitcoins valued at $1.4 million in April 2013.</p>
 <p>According to BC authorities, the bitcoins were seized from a marijuana vendor who went by the pseudonym MarijuanaIsMyMuse on Silk Road. The dealer was sentenced to nine months in prison in 2015, after denying any ties to Silk Road and earning bitcoins illegally. Yet, no attempts were made by the authorities to claim the confiscated bitcoins.<img class="wp-image-26389 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-56.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-56.jpeg 343w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-56-300x199.jpeg 300w" sizes="(max-width: 343px) 100vw, 343px" /></p>
 <p>The dealer was <a href="https://www.deepdotweb.com/tag/arrested/">arrested</a> after police answered a 911 call to his house. Once in the house, the police suspected the presence of marijuana in the house and arrested him. On obtaining a search warrant, the police seized 15 kilograms of marijuana after raiding the house. Some of the marijuana found was in vacuum sealed bags while the rest was in sealed packages ready for postal delivery. Packaging materials, hard drives and laptops were also seized.</p>

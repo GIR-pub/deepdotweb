@@ -1,15 +1,15 @@
 ---
 Feds Split Up Stolen Sheep Market Funds
 ---
-<article class="post-listing post-24682 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-feds tag-funds tag-market tag-sheep tag-split tag-stolen">
+<article class="post-listing post-24682 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-feds tag-funds tag-market tag-sheep tag-split tag-stolen">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 5, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/05/feds-split-stolen-sheep-market-funds/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Jacksonville, Florida, United States Attorney Maria Chapa Lopez <a href="https://www.justice.gov/usao-mdfl/pr/more-17-million-forfeited-funds-presented-law-enforcement-agencies">announced</a> that three law enforcement agencies would be “awarded” with the funds stolen by the Sheep Marketplace hackers between 2013 and 2014. The announcement took place at a Homeland Security Investigations Office in Jacksonville. And even though the ICE-HSI Special Agent in Charge, James Spero, helped make the announcement, and neither Homeland Security nor Immigration and Customs Enforcement received a piece of the $1.7 million in seized Bitcoin.<img class="wp-image-24685 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-4.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-4.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-4-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>According to the United States Attorney and ICE-HSI Special Agent in Charge, the Nassau County Sheriff’s will be receiving $1,044,550.05; the Jacksonville Sheriff’s Office will be receiving $209,162.58; and the Florida National Guard will be receiving $627,487.74. The two government employees who announced the news explained that the “awards” were given pursuant to the Equitable Sharing Program established by the Department of Treasury.</p>
 <p>“I applaud the cooperation and diligence of our law enforcement partners in working with us to investigate and prosecute this case successfully,” said U.S. Attorney Chapa Lopez. The attorney continued, explaining how the seized funds were rightfully “returned” to the United States government. “Divesting criminals of their ill-gotten gains and returning these resources to our enforcement agencies is yet another step in continuing our fight against crime.”</p>

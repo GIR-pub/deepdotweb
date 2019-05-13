@@ -1,15 +1,15 @@
 ---
 How To Do Unlinkable Bitcoin Transactions
 ---
-<article class="post-listing post-25093 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-transactions tag-unlinkable">
+<article class="post-listing post-25093 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bitcoin tag-transactions tag-unlinkable">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
 <span>March 19, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/19/unlinkable-bitcoin-transactions/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/2018/03/04/cryptocurrency-news-roundup-march-4-2018/">Cryptocurrency</a> usage is growing everyday and, with it, people’s awareness about them is growing too. One of the greatest advantage of using Bitcoins or other cryptocurrencies, is the protection of your anonymity during and after the transaction; anyway, it’s crucial to point out that the word “anonymity” is here intended as the fact that your transactions are linked to your wallet’s address and not to your name, bank account etc. Nonetheless, one way or another, you will have to spend your <a href="https://www.deepdotweb.com/2017/12/28/best-ways-converting-bitcoin-physical-money/">crypto-money</a> giving away your physical address (for example if you buy something that must be sent to you at home) and your real name. Being all the transactions and the relative addresses public, if someone links your name to your wallet’s address, he will easily find you. Why should you care? Well, let’s say that you earned your Bitcoins under a pseudonym, using a nickname that you don’t want to be related to you. Then, you want to spend your money. If you spend those Bitcoins without previously mixing them, your real name will be linkable back to your secret identity. For this reason, it is important to use a method that “mixes” randomly generated transactions guaranteeing the best separation between your real identity and your secret one. In this article we’ll see together what is “mixing” and which tools are involved.</p>
 <p><img class="wp-image-25096" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-3.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-3.png 827w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-3-300x41.png 300w" sizes="(max-width: 827px) 100vw, 827px" /></p>
 <h2>How Mixing Works</h2>

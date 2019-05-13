@@ -1,15 +1,15 @@
 ---
 German Judge Sentenced a Hansa Vendor to Two Years
 ---
-<article class="post-listing post-26140 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-german tag-hansa tag-judge tag-sentenced tag-vendor tag-years">
+<article class="post-listing post-26140 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-german tag-hansa tag-judge tag-sentenced tag-vendor tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>June 25, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/06/25/german-judge-sentenced-a-hansa-vendor-to-two-years/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>At Ludwigsburg District Court, Judge Franziska Scheffel sentenced a 23-year-old darknet drug vendor to a suspended sentence of two years. At a previous court appearance, the court convicted the young man of the commercial trade of illegal narcotics and drug possession. According to information revealed in the courtroom, the man had been selling cocaine on <a href="https://www.deepdotweb.com/marketplace-directory/listing/hansa-market">the now-defunct Hansa market</a>.<img class="wp-image-26144 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-75.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-75.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-75-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The 23-year-old launched his operation in May 2016. He continued to sell until his March 2018 arrest. According to the court, law enforcement caught the man amidst a nationwide crackdown on darknet drug markets and particularly darknet drug dealers. The Dortmund Criminal Police were among the “<a href="https://www.stuttgarter-nachrichten.de/inhalt.mann-aus-korntal-muenchingen-verurteilt-bewaehrung-fuer-dealer-aus-dem-strohgaeu.e913b64b-d182-414f-91b3-56dbf8ca4393.html">various authorities</a>” in Germany that targeted darknet drug dealers. During this period in 2017, the police placed a heavy emphasis on package interception.</p>
 <p>German law enforcement, as seen in a number of <a href="https://www.deepdotweb.com/tag/german/">German drug vendor busts</a> covered by DeepDotWeb, have intercepted more packages than any country with the same or similar volume of mail. Much of this is due to specially trained investigators and software that builds patterns based on previously intercepted packages. The Dortmund Criminal Police Office was one of the police offices in Germany that investigated darknet drug cases leading up to and immediately following the Hansa market bust. During their investigation, they intercepted packages from the 23-year-old defendant.</p>

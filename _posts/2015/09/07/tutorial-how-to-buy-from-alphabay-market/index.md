@@ -7,9 +7,8 @@ Tutorial: How To Buy From AlphaBay Market?
 <span>September 7, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/09/07/tutorial-how-to-buy-from-alphabay-market/#comments">52 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>With the news that <a href="https://www.deepdotweb.com/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">Agora will be gone</a> (Already gone now&#8230;) a large portion of its users have transitioned to <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">AlphaBay</a>. You must be here to learn how to buy stuff from AlphaBay, then. Ensure that you read this whole tutorial before starting – it is important you understand every step. This guide is a lesson in buying, not vending; vending is wholly another task which requires bigger consideration.</p>
 <p>AlphaBay market listing and url can be found <a href="https://www.deepdotweb.com/marketplace-directory/listing/alphabay">here</a>.</p>
 <p><strong>Part 1 – Preparing</strong></p>

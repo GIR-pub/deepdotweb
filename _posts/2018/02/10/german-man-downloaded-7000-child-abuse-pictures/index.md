@@ -1,15 +1,15 @@
 ---
 German Man Downloaded 7000 Child Abuse Pictures
 ---
-<article class="post-listing post-24756 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6294 tag-abuse tag-child tag-downloaded tag-german tag-man tag-pictures">
+<article class="post-listing post-24756 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-6294 tag-abuse tag-child tag-downloaded tag-german tag-man tag-pictures">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 10, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/10/german-man-downloaded-7000-child-abuse-pictures/#comments">11 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A District Court in Meschede <a href="https://www.nrz.de/staedte/meschede-und-umland/kinderporno-prozess-gefaengnisstrafe-fuer-60-jaehrigen-esloher-id213291769.html">heard the case</a> of a 60-year-old man who “had one of the most shocking videos circulating the darknet.” The man, unsurprisingly, received a prison sentence of three years and three months for buying and having possession of child abuse material. Primarily the video. However, the 60-year-old also had more than 7,000 child abuse pictures and 500 child abuse videos that he had downloaded from the darknet. Not all of the videos. But the worst ones, the court said, came from the darknet.</p>
 <p>The man, a 60-year-old from Eslohe, used the pseudonym “Baby Hunter” on darknet child abuse forums like <a href="https://www.deepdotweb.com/2017/07/20/bka-seized-a-darknet-child-abuse-forum/">Elysium</a> and The Love Zone. Investigators found the pictures and videos stored on several storage mediums that belonged to the Eslohe man. The question raised by the court, however, was whether or not this man had influence on the film created by the person who created the video. According to investigators, the 60-year-old had sent 300 euros to an address in the Philippines where the creator lived. The creator’s identity is obvious, even though the press releases never named the man.</p>
 <p><img class="wp-image-24761" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-14.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-14.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-14-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

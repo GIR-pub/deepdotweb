@@ -1,15 +1,15 @@
 ---
 Allwine Sentenced to Life in Prison for First Degree Murder
 ---
-<article class="post-listing post-24814 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-allwine tag-degree tag-life tag-murder tag-prison tag-sentenced">
+<article class="post-listing post-24814 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-allwine tag-degree tag-life tag-murder tag-prison tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 16, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/16/allwine-sentenced-life-prison-first-degree-murder/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Cottage Grove, Minnesota, Judge B. William Ekstrum sentenced 44-year-old Stephen Allwine to <a href="http://www.fox9.com/news/stephen-allwine-sentenced-to-life-in-prison-for-wifes-murder">life in prison</a> without parole for the murder of his wife. Only days before the sentencing, a jury deliberated eight hours before finding Allwine guilty of <a href="https://www.deepdotweb.com/2017/04/10/oregon-man-charged-first-degree-murder-orders-assassination-wife-dark-web/">murdering his wife</a> and trying to make the death look like a suicide. Life in prison is the mandatory sentence in first-degree murder cases.<img class="wp-image-24818 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-20.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-20.png 620w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-20-300x169.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
 <p>The Washington County prosecutor who tried the case, Fred Fink, said that in his 43 years as a prosecutor, Allwine’s case was “probably the most complex case [he had] ever tried.&#8221; DeepDotWeb has followed Allwine’s case ever since officials revealed Allwine’s charges and the <a href="https://www.deepdotweb.com/2017/02/19/man-charged-killing-wife-murder-hire-darknet%e2%80%8b/">details surrounding his case</a>. His Criminal Complaint contained a goldmine of information, both about Allwine’s case and about the “murder-for-hire” site Besa Mafia. If drugging and shooting his wife would not have been difficult enough to successfully hide, investigators found that Allwine tried—several times—to hire hitmen from Besa Mafia, a fake darknet site for ordering contract killings. Besa Mafia no longer exists.</p>
 <p>“Besa Mafia was a fraud, yes,” Fred Fink told reporters.</p>

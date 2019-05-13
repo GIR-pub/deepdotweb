@@ -1,15 +1,15 @@
 ---
 Teenage SMG Buyer Granted Internet Access for Homework
 ---
-<article class="post-listing post-22882 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-access tag-buyer tag-granted tag-homework tag-internet tag-smg tag-teenage">
+<article class="post-listing post-22882 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-access tag-buyer tag-granted tag-homework tag-internet tag-smg tag-teenage">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 2, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/02/teenage-smg-buyer-granted-internet-access-homework/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In April this year, a teenager left his school&#8217;s property to meet an undercover officer that he had met on the <a href="https://www.deepdotweb.com/tag/darknet">darknet</a>. In a series of messages and events that effectively qualify as entrapment in some countries, the officer convinced the teenager—14 at the time—<a href="https://www.deepdotweb.com/2017/04/23/teen-skips-school-darkweb-weapons-deal/">to purchase a machine gun</a> and 100 rounds of ammunition for $180. After the inevitable arrest, a merciful judge freed the defendant on a conditional bail that blocked all internet access. Months later, in order to further his schooling, he returned to court to request supervised internet access.</p>
 <p>The nameless teenager (thanks to a media embargo on his identity per the instated age laws) gave conflicting stories to the undercover (UC) officer and to the arrest authorities. And to the judge. He either purchased the weapon for his “friend” or to intimidate an unknown person. (Intimidation with 100 rounds of ammunition may be real concern here.) The judge denied a complete bail, but settled on a strict house arrest that forbid even touching an electronic device. The prosecution explained that the teenager would likely destroy evidence if freed.</p>
 <p><img class="wp-image-22892 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-3.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-3.jpeg 640w, https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-3-300x169.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>

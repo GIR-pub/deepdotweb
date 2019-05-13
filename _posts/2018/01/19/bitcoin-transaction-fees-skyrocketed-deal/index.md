@@ -1,15 +1,15 @@
 ---
 Bitcoin Transaction Fees Have Skyrocketed &#8211; How To Deal With That?
 ---
-<article class="post-listing post-24483 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-deal tag-fees tag-skyrocketed tag-transaction">
+<article class="post-listing post-24483 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-bitcoin tag-deal tag-fees tag-skyrocketed tag-transaction">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>January 19, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/01/19/bitcoin-transaction-fees-skyrocketed-deal/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Bitcoin price has soared during the past few months, which was also associated with a sharp rise in transaction fees. Currently, on average costs around $20 to send a transaction across the bitcoin network. This has forced many businesses and individuals to refrain from using bitcoin, especially that the fees tended to be below $2 a couple of months ago. Many people use bitcoin as a currency, not as a speculative asset, so for those, these inappropriately high fees represent a major problem that can ruin well established business models. Throughout this article, we will try to look through solutions to overcome this problem, but firstly, we will have to understand why did bitcoin fees rise to such high levels.</p>
 <p><img class="wp-image-24486 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-43.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-43.png 550w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-43-300x161.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></p>
 <p><strong>Why Did Bitcoin Transaction Fees Soar?</strong></p>

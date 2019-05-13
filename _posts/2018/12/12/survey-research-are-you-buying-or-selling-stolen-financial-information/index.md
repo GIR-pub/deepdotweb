@@ -1,15 +1,15 @@
 ---
 Survey/Research: Are you buying or selling stolen financial information?
 ---
-<article class="post-listing post-27556 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-27556 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>December 12, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/12/12/survey-research-are-you-buying-or-selling-stolen-financial-information/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Are you buying or selling stolen financial information?</p>
 <p>Do you have a few minutes to help us improve our understanding of success and failures of carders?</p>
 <p>If so, please read on!</p>

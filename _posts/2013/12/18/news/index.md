@@ -8,9 +8,8 @@ title: News
 <span>December 18, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/memes/" rel="category tag">Memes &amp; Funny</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/18/news/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="/imgs/2013/12/IMAGE119.png"><img class="aligncenter size-full wp-image-2310" alt="Duck Supervisor" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/IMAGE119.png" width="500" height="553" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/12/IMAGE119.png 500w, https://www.deepdotweb.com/wp-content/uploads/2013/12/IMAGE119-271x300.png 271w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>&nbsp;</p>
 <p>Correct me if I am wrong, but this seems to be on the front page of a certain newspaper. Apparently, this is what Lisa Depies and the press consider to be news.</p>

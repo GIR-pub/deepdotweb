@@ -1,15 +1,15 @@
 ---
 Research: Identification of cyber threats across non-English darknet marketplaces
 ---
-<article class="post-listing post-27721 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cyber tag-darknet tag-identification tag-marketplaces tag-nonenglish tag-research tag-threats">
+<article class="post-listing post-27721 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-cyber tag-darknet tag-identification tag-marketplaces tag-nonenglish tag-research tag-threats">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 27, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/12/27/research-identification-of-cyber-threats-across-non-english-darknet-marketplaces/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Proactive Cyber Threat Intelligence (CTI) technologies are being utilized to alleviate the consequences of cyber attacks via identification of malicious threats springing up in various online hacker communities. Darknet marketplaces, internet relay chats (IRCs), carding shops, and hacker forums represent the most prominent examples of online hacker communities. Darknet marketplaces are unique and pivotal components of these online platforms because their anonymity offers hackers a suitable environment to engage in cyber criminal activities. Darknet marketplaces permit the trading of hacking tools and services such as keyloggers, ransomware, SQL injection tools, stolen account data, DDoS attack kits, and leaked personal credentials.</p>
 <p>Even though English is the most commonly used language in darknet marketplaces, the number of non-English darknet marketplaces has been growing steadily since 2013. Even though text classification has been used to detect cyber threats in English darknet marketplaces, the task is relatively hard to accomplish in non-English marketplaces due to language problems and lack of reliable data. Currently, available approaches rely on monolingual models and machine translated data to mitigate these problems. Nevertheless, translation errors can greatly undermine the reliability of classification results. The abundance of information obtained from English darknet marketplaces can be utilized to understand non-English threats without having to rely on machine translation.</p>
 <p>A recently published research study showed that a deep cross-lingual approach, which can identify the common language representation of two different languages, is far more efficient than a mono-lingual approach applied to machine translated data in order to identify cyber threats in non-English darknet marketplaces. Oppositely to previous research studies, this approach does not rely on any external data sources such as bilingual lexicons or bilingual word embeddings. The study conducted experiments on Russian darknet marketplaces, which proved that this approach can yield better results when compared to state-of-the-art approaches for detection of non-English cyber threats in online hacker communities. Let&#8217;s take a look at the design and results of this research study.</p>

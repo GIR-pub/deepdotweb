@@ -1,15 +1,15 @@
 ---
 City to Teach Kindergartners About Drugs, Darknet, and Addiction
 ---
-<article class="post-listing post-18481 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-addiction tag-city tag-darknet tag-drugs tag-kindergartners tag-teach">
+<article class="post-listing post-18481 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-addiction tag-city tag-darknet tag-drugs tag-kindergartners tag-teach">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 7, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/07/city-teach-kindergartners-drugs-darknet-addiction/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Communities worldwide continue to blame the darknet for drug problems or usage in schools and other youth organizations. Some countries, for instance, <a href="https://www.deepdotweb.com/2017/02/10/bavaria-sees-increase-drug-overdoses-one-city-sees-darknet-drugs/">blame increased drug usage on the darknet</a>. Others, in contrast, report outdated drug laws led to more synthetic drug use. Some countries blamed an increase of drug overdoses on the darknet and an <a href="https://www.deepdotweb.com/2016/12/16/turkish-health-expert-30-percent-drugs-comes-internet/">influx of synthetic drugs</a>. Some countries, or cities, have claimed to see no increase in drug use or overdose whatsoever. Whatever the case may be, many drug studies have shown that darknet marketplaces have changed the way drugs cross borders and enter bodies.</p>
 <p>The most frequent argument used by legislatures is based on the ease of access provided by the darknet. Critics explained that drugs are now far simpler to obtain. No longer does one have to find a drug dealer in real life. Ordering drugs in the mail and having them arrive at the doorstep days, weeks, or sometimes <em>months</em> later, takes far less work. Drug studies have shown that a <a href="https://www.deepdotweb.com/2016/06/24/2016-global-drug-survey-shows-dmn-customers-ever/">small percentage of individuals would not have used drugs if not for darknet marketplaces</a>.</p>
 <p>However, the majority of darknet marketplace drug users order drugs for different reasons. Many times these users partook in drugs before the darknet existed. The darknet just made the entire process far simpler. Another percentage of drug buyers were found on the darknet marketplaces because they offered higher-quality substances.</p>

@@ -7,9 +7,8 @@ Interview: The Evolution Of a Veteran Dark Market Dweller #2
 <span>February 23, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/02/23/interview-the-evolution-of-a-veteran-dark-market-dweller2/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>The second part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
 <p style="text-align: center;"><span style="text-decoration: underline;"><strong>Doing business with the mob and managing your operation.</strong></span></p>
 <p><strong>AH: Now, when you say &#8216;Russian sellers&#8217;, do you mean the &#8216;Russian mob&#8217; that gets mentioned in pretty much every article you read about SC?</strong></p>

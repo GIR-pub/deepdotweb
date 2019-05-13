@@ -1,15 +1,15 @@
 ---
 Dealer Sentenced for Importing Drugs and Counterfeits to Sell
 ---
-<article class="post-listing post-24783 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-counterfeits tag-dealer tag-drugs tag-importing tag-sell tag-sentenced">
+<article class="post-listing post-24783 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-counterfeits tag-dealer tag-drugs tag-importing tag-sell tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 12, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/12/dealer-sentenced-importing-drugs-counterfeits-sell/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>At the Criminal Court of Ajaccio, a 39-year-old man from Madeira, Portugal, received a 16 month prison sentence for trafficking narcotics and counterfeit notes on the darknet, <a href="https://www.corsematin.com/article/article/prison-ferme-pour-avoir-trafique-sur-le-darknet">one local news outlet</a> reported. Only days prior to the sentencing, the French national judicial police arrested Antonio de Faria, the defendant, as he got off a boat in Porto-Vecchio. He lived on the French island of Corsica, but the court noted that he did not distribute narcotics or counterfeit notes on the island. Instead, he traveled to the continent to distribute his products.</p>
 <p>According to the investigators, the 39-year-old started importing various <a href="http://deepdotweb.com/tag/drugs">illegal drugs</a> and <a href="https://www.deepdotweb.com/tag/counterfeit/">counterfeit currency</a> in the summer “of last year.” Given that the arrest occurred in January 2018, the man likely only sold for roughly six months, give or take. The investigators did not reveal how long they had been investigating the defendant, but based on the way the investigation quickly became an arrest, one can safely assume that the investigation started after the judicial police intercepted a package of counterfeit notes that had shipped from the Netherlands.</p>
 <p>&#8220;[The package contained] fake bills from the Netherlands, so fake that Monopoly money is certainly more well done. But well done or not, it is still enough to characterize the offense,&#8221; the court heard.</p>

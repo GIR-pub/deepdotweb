@@ -1,7 +1,8 @@
 ---
 Early Fraud Detection System Unveiled By MasterCard
 ---
-<article class="post-listing post-23012 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-detection tag-early tag-fraud tag-mastercard tag-system tag-unveiled">
+<article class="post-listing post-23012 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-detection tag-early tag-fraud tag-mastercard tag-system tag-unveiled">
     
 <div class="post-inner">
     

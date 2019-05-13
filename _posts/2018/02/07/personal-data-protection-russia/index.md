@@ -1,15 +1,15 @@
 ---
 Personal Data Protection in Russia
 ---
-<article class="post-listing post-24718 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-data tag-personal tag-protection tag-russia">
+<article class="post-listing post-24718 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-data tag-personal tag-protection tag-russia">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>February 7, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/07/personal-data-protection-russia/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On July 1, 2017 new amendments on personal data came into legal effect in Russian legislation. They dictate new rules on processing and storage personal data, and impose additional requirements on service providers.</p>
 <p>At the present moment Russian IT infrastructure migrates to cloud storages. As is in European countries this tendency is enforced by legislation, specifically <a href="http://www.consultant.ru/document/cons_doc_LAW_61801/">Federal Law 152 &#8220;Personal Data Protection&#8221;</a>. This law prescribes data processing and storage on the territory of Russia. New legislation requirements are subject to: all companies registered in the country, foreign companies having representations and branches in Russia, other foreign companies which activity is connected with the state and covers personal data of Russian citizens.</p>
 <p>Personal data <a href="https://habrahabr.ru/company/it-grad/blog/332396/">is interpreted as</a> &#8220;any information which would enable to identify a person, including e-mail address containing surname and company&#8217;s name, number of bank account, mobile phone number&#8221;. Since the law on &#8220;Personal Data Protection&#8221; was officially recognized, there were several precedents and the largest of them was the trial conducted against the American social network Linkedln, which led to blocking the resource on the territory of Russia.</p>

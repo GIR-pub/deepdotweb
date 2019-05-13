@@ -1,15 +1,15 @@
 ---
 Child Suicide “Game” Videos Being Sold on the Darknet
 ---
-<article class="post-listing post-18403 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-darknet tag-game tag-sold tag-suicide tag-videos">
+<article class="post-listing post-18403 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-child tag-darknet tag-game tag-sold tag-suicide tag-videos">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 2, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/02/child-suicide-game-videos-being-sold-on-the-darknet/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Ukraine National Police reported the discovery of massive “suicide networks” where the owners encourage children to commit acts of self harm. These networks, as the name indicated, only succeeded once the <a href="http://wz.lviv.ua/news/192922-politsiia-znaishla-v-sotsmerezhi-suitsydalnu-hrupu-de-zareiestrovani-ponad-200-ukraintsiv">child</a><a href="http://wz.lviv.ua/news/192922-politsiia-znaishla-v-sotsmerezhi-suitsydalnu-hrupu-de-zareiestrovani-ponad-200-ukraintsiv"> committed suicide</a>. The owner or administrator of the group then sold the videos on the darknet, the press release explained. Often the exploitation started as a game.</p>
 <p>Cyber Police in Ukraine published a 209-name-list consisting of adult participants. The police made <a href="https://www.deepdotweb.com/tag/arrested/">several arrests</a> but the investigation is still ongoing. Many of the registered accounts came from Ukraine and very little few came from outside Ukraine, investigators announced, at this point. The police&#8217;s press release was majorly aimed at encouraging parents to keep a closer eye on their children.</p>
 <p><img class="wp-image-18408 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-38.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-38.jpeg 567w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-38-300x200.jpeg 300w" sizes="(max-width: 567px) 100vw, 567px" /></p>

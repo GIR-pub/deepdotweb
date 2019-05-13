@@ -1,15 +1,15 @@
 ---
 Attorney in Ireland Links the DNMs to an Ongoing Gang War
 ---
-<article class="post-listing post-18786 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attorney tag-dnms tag-gang tag-ireland tag-links tag-ongoing tag-war">
+<article class="post-listing post-18786 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-attorney tag-dnms tag-gang tag-ireland tag-links tag-ongoing tag-war">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 25, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/25/attorney-ireland-links-dnms-ongoing-gang-war/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Belfast, a High Court case took a surprising twist when the prosecution made their argument. The Gardaí arrested three men several months ago for attempted purchase of illegal weapons from the darknet. One of the men, Thomas Morgan, received no bail, but his co-defendants saw a completely different situation. Despite his claims that he played no role in the affair, the prosecution claimed just the opposite—that the firearms belonged to a much larger case against a gangland feud in the area.</p>
 <p>While the connection was news to Morgan, so was the next piece of evidence provided by the prosecution. Crown lawyer Fiona O&#8217;Kane revealed that the weapons vendor on the darknet—the one the three defendants unsuccessfully bought guns from—<a href="https://www.deepdotweb.com/2016/11/03/psni-officer-tried-buy-handgun-dark-web/">was actually the police all along</a>. According to O&#8217;Kane, law enforcement controlled an entire “fake-arms selling operation” on the darknet.</p>
 <p>This came at an <a href="https://www.deepdotweb.com/2017/01/24/irish-law-enforcement-calls-darknet-drug-trafficking-overwhelming-challenge/">interesting time for Irish law enforcement</a>: the ongoing gangland feud in Carrickfergus caused a difficult weapons problem for the government. More recently, U.S. Judge Daniel D. Crabtree of the District of Kansas <a href="https://www.deepdotweb.com/2017/02/16/darknet-weapons-vendor-kansas-sentenced-52-months-prison/">sentenced Michael Andrew Ryan</a>, aka Brad Jones and GunRunner to 52 months in prison. He sent weapons across the globe, but with a special focus on Ireland. According to the District Attorney’s Office, “dozens of firearms, including pistols, revolvers, UZIs and Glocks, some from which the manufacturer’s serial numbers had been removed, altered or obliterated, as well as magazines and hundreds of rounds of ammunition.” <img class="wp-image-18794 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-18.jpeg" width="832" height="542" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-18.jpeg 1340w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-18-300x195.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-18-1024x667.jpeg 1024w" sizes="(max-width: 832px) 100vw, 832px"/></p>

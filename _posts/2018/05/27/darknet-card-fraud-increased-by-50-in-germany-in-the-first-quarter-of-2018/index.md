@@ -1,15 +1,15 @@
 ---
 Darknet Card Fraud Increased By 50% in Germany in the First Quarter of 2018
 ---
-<article class="post-listing post-25829 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5927 tag-1447 tag-card tag-darknet tag-fraud tag-germany tag-increased tag-quarter">
+<article class="post-listing post-25829 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-5927 tag-1447 tag-card tag-darknet tag-fraud tag-germany tag-increased tag-quarter">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 27, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/27/darknet-card-fraud-increased-by-50-in-germany-in-the-first-quarter-of-2018/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In 2017, more than 80,000 cases of stolen card details were reported in Germany. The victims complained that they tried to make purchases only to find that they couldn’t access their funds. According to the <a href="https://www.thelocal.de/20180313/what-crimes-are-committed-in-germany-and-where-is-criminality-most-common">The Local De</a>, CNP is one of the most common crimes in the European country.</p>
 <p><img class="wp-image-25835" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-54.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-54.jpeg 700w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-54-300x171.jpeg 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <h2><a id="post-25829-_trokxppewpco"></a>Card Not Present (CNP) Policy Fuels Fraud</h2>

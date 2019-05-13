@@ -1,15 +1,15 @@
 ---
 Denmark Man Convicted Only of Viewing Child Porn
 ---
-<article class="post-listing post-22992 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-convicted tag-denmark tag-man tag-porn tag-viewing">
+<article class="post-listing post-22992 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-child tag-convicted tag-denmark tag-man tag-porn tag-viewing">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 9, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/09/denmark-man-convicted-viewing-child-porn/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Days after a 33-year-old Danish man received a two year sentence for his role as a co-admin of the darknet child pornography forum &#8220;<a href="https://www.deepdotweb.com/2016/08/22/australias-taskforce-argos-hacked-computers-located-us/">The Love Zone</a>,&#8221; a Denmark court sentenced another man for similar crimes. This time, the defendant was an even younger man; court records revealed that he was only 22-years-old. The 22-year-old defendant had used a child pornography forum that the FBI investigated, deanonymized, and then sent user information to the relevant authorities.</p>
 <p>That site&#8217;s name is unknown to very few: <a href="https://www.deepdotweb.com/tag/playpen/">Playpen</a>. Countless arrests followed the investigation, thanks to controversial tactics employed by the FBI. While suspects in the United States made the news at an almost numbing frequency, international cases progressed at a seemingly slower rate. The unnamed <a href="http://ekstrabladet.dk/kup/elektronik/teknologi/saadan-fanger-fbi-paedofile-driver-hjemmesider-med-raa-boerneporno/5923106">22-year-old is the focus</a> one of those international cases.</p>
 <p><img class="wp-image-22995 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-18.jpeg" width="707" height="398" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-18.jpeg 910w, https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-18-300x169.jpeg 300w" sizes="(max-width: 707px) 100vw, 707px" /></p>

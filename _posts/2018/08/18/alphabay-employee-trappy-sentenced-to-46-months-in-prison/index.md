@@ -1,15 +1,15 @@
 ---
 Alphabay Employee “Trappy” Sentenced to 46 Months in Prison
 ---
-<article class="post-listing post-26577 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6634 tag-alphabay tag-employee tag-months tag-prison tag-sentenced tag-trappy">
+<article class="post-listing post-26577 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-6634 tag-alphabay tag-employee tag-months tag-prison tag-sentenced tag-trappy">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 18, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/18/alphabay-employee-trappy-sentenced-to-46-months-in-prison/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Only months after <a href="https://www.deepdotweb.com/2017/07/14/alleged-alphabay-admin-found-dead-bangkok-jail/">the alleged owner of Alphabay</a> had died in a prison cell in Thailand, the United States found and indicted the Alphabay staff member “Trappy.” On August 1, 2018, U.S. District Judge Leigh Martin May sentenced the Alphabay to <a href="https://www.justice.gov/usao-ndga/pr/alphabay-spokesperson-sentenced-federal-prison">almost four years in prison</a> for conspiracy to commit access device fraud.<img class="wp-image-26582 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-32.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-32.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-32-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>U.S. District Judge Leigh Martin May sentenced Ronald L. Wheeler III 46 months in federal prison. After release, Wheeler will spend another three years on supervised release. Byung J. Pak, United States Attorney, and Samir Kaushal, Assistant United States Attorney for the Northern District of Georgia filed a sentencing memorandum that suggested a sentence on the lower end of the sentencing guidelines range.</p>
 <p>The United States Attorneys recommended a variance of one level for Wheeler&#8217;s expeditious entry of a guilty plea. Wheeler, during a change of plea in March, signed a plea agreement wherein he admitted committing the one count of <a href="https://www.deepdotweb.com/2017/11/20/alphabay-mod-trappy-charged-fraud-atlanta/">conspiracy to commit access device fraud</a> in exchange for the prosecution sentencing recommendation. The agreement also required Wheeler&#8217;s full cooperation in any future investigations. Cooperation, according to court documents, could require producing all records related to a case; being available for interviews by law enforcement at his own expense; testifying in another trial; and aiding in an investigation without falsely implicating anyone.</p>

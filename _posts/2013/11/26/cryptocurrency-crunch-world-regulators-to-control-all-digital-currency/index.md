@@ -9,9 +9,8 @@ title: Cryptocurrency Crunch: World Regulators To Control All Digital Currency?
 <span>November 26, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/26/cryptocurrency-crunch-world-regulators-to-control-all-digital-currency/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>At the time that these words are flowing from this keyboard, the bitcoin (BTC) has hit $839.48.  Simply put, the BTC is perhaps one of the most volatile investments known to man.  In the last few weeks, we have seen the <i>good</i>, winning-lottery-ticket-kind of volatility, but in the coming weeks, it could be <i>bad</i>, taking-prozac-because-I-just-lost-the-kids-college-tuition-fund-kind of volatility.  That said, the BTC is still developing a cult following, where economic liberty seekers, speculators, and the downright curious are becoming absorbed into such a unique, new, and exciting concept.</p>
 <p>The BTC not only carries with it an interesting concept of economics and philosophy, but it also seems to stir feelings of freedom.  The big dogs don’t control it, they have problems tracking it, they can’t regulate it, and it’s so new of a phenomenon that most politicians think a ‘blockchain’ can be made using Legos.</p>
 <p>However, there are rumblings that the BTC is more of a monster than a giver of freedom.  Especially because the BTC has had a tendency to make ungodly price swings, and the fact that it isn’t regulated by some kind of central bank, has put quite a few economists on edge.  They feel as if the BTC (or digital currencies like it) has the potential power to obliterate an economy …as if central banks also don’t possess such power.</p>

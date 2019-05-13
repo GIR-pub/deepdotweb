@@ -7,9 +7,8 @@ Last Year Mt. Gox Seizures Linked to Silk Road in Fed Testimonies
 <span>January 13, 2014</span>
 
 <span><a href="https://www.deepdotweb.com/2014/01/13/last-year-mt-gox-seizures-linked-to-silk-road-in-fed-testimonies/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p dir="ltr">So it appears that these Seizures of Mt. Gox accounts in the usa were no only a move against Bitcoins or a regulatory thing, but was an integral part of the ongoing investigation against Silk road and the other black markets, as it was <a href="https://www.dhs.gov/news/2013/11/18/ice-statement-record-senate-committee-homeland-security-and-governmental-affairs" target="_blank">stated clearly</a> by U.S. Immigration and Customs Enforcement (ICE) states,</p>
 <p><em>“In May 2013, through an interagency taskforce led by ICE in Baltimore, Maryland, three U.S. bank accounts associated with what was then the world’s largest bitcoin exchanger, Japan-based Mt.Gox, which was moving approximately $60 million per month into a number of Internet-based hidden black markets operating on the Tor network, including Silk Road, were seized for violations of 18 U.S.C. § 1960, operating a money service business in the United States without a license. The bulk of the funds were associated with the illicit purchase of drugs, firearms, and child pornography.”</em></p>
 <p>The genesis block website posted a great article on this matter, saying:</p>

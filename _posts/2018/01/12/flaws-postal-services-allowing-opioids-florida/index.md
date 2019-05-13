@@ -1,15 +1,15 @@
 ---
 Flaws in Postal Services Are Allowing Opioids into Florida
 ---
-<article class="post-listing post-24386 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-allowing tag-flaws tag-florida tag-opioids tag-postal tag-services">
+<article class="post-listing post-24386 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-allowing tag-flaws tag-florida tag-opioids tag-postal tag-services">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>January 12, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/12/flaws-postal-services-allowing-opioids-florida/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Anthony Gomes, with his partner Elizabeth Ton, was apprehended by law enforcement some weeks back for distributing large quantities of deadly drugs which they bought from China via the web.</p>
 <p>The good part of this illicit act was that they got to live a very luxurious lifestyle, owning expensive items including a private plane and others but then, the other side of the coin is that, their act of importing illicit drugs had deadly outcomes. According to reports, at least <a href="https://www.deepdotweb.com/2017/12/12/oregon-dream-vendor-busted-fentanyl-importation/">four people lost their lives in Oregon and North Dakota</a>.</p>
 <p>Although this case might come out as very serious since we are talking about the lives of people here, it certainly isn’t much of a surprise since there have been numerous incidents and cases synonymous to this in the U.S. and the state of Florida.</p>

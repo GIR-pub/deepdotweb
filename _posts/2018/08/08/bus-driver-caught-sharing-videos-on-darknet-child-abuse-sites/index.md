@@ -1,15 +1,15 @@
 ---
 Bus Driver Caught Sharing Videos on Darknet Child Abuse Sites
 ---
-<article class="post-listing post-26512 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-bus tag-caught tag-child tag-darknet tag-driver tag-sharing tag-sites tag-videos">
+<article class="post-listing post-26512 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-abuse tag-bus tag-caught tag-child tag-darknet tag-driver tag-sharing tag-sites tag-videos">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 8, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/08/bus-driver-caught-sharing-videos-on-darknet-child-abuse-sites/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A lengthy RCMP investigation culminated in the arrest of a 31-year-old man who had been uploading pictures and videos of children to former <a href="https://www.deepdotweb.com/tag/forum/">darknet child abuse forums</a> such as “Childs Play” and “MagicKingdom.” The man evaded the public and international law enforcement agents for a significant stretch of time and even now only law enforcement, court officials, and some of the victims know the man&#8217;s identity. Although his name remains unknown to the public, a recent sentencing hearing gave the outside world another glance at the life of an active pedophile who had been hiding in plain sight for years.<img class="wp-image-26517 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-19.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-19.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-19-300x154.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>On darknet forums and chat rooms, the 31-year-old London man used the pseudonym “Steps.&#8221; The man, in the real world, was known to at least 40 children as their bus driver for an elementary School in London, Ontario, Canada. On the darknet, according to the Royal Canadian Mounted Police, Steps had a reputation for a single crime that ultimately led to 78 child pornography related charges. He produced videos of children eating his “homemade treats” and shared them with other pedophiles online. The edibles contained his own bodily fluids.</p>
 <p><a href="https://www.deepdotweb.com/tag/rcmp/">The Royal Canadian Mounted Police</a> had learned that the creator of the videos lived in Canada prior to MagicKingdom’s disappearance. However, after <a href="https://www.deepdotweb.com/marketplace-directory/categories/discussion-forums">the darknet forum</a> vanished, the investigators had lost Steps. Then, in a stroke of luck, RCMP investigators discovered four videos on Childs Play that featured a male openly masturbating on what the investigators learned had been a school bus. In the background of the videos, the investigators heard the voices of a large number of children. The RCMP, then, knew they had found the person’s online identity yet again. And, in the process, that had shortened the list of suspects; Steps had driven or been on a school bus in almost every video.</p>

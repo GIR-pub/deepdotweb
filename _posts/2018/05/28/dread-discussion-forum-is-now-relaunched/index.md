@@ -1,15 +1,15 @@
 ---
 Dread Discussion Forum Is Now Relaunched!
 ---
-<article class="post-listing post-25863 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-discussion tag-dread tag-forum tag-relaunched">
+<article class="post-listing post-25863 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-discussion tag-dread tag-forum tag-relaunched">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>May 28, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/28/dread-discussion-forum-is-now-relaunched/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>After being down for a while following a <a href="https://www.deepdotweb.com/2018/04/24/sorting-trough-the-dread-olympus-drama/">recent drama</a>,  the onion discussion forum which became the go to place after <a href="https://www.deepdotweb.com/2018/03/21/reddit-just-banned-r-darknetmarkets-biggest-darknet-subreddit/">reddit banned</a> all darknetmarkets related discussion and sub reddits, <a href="https://www.deepdotweb.com/">DeepDotWeb</a> is happy to announce the relaunch of the new version of Dread, link to the new site can be found in our <a href="https://www.deepdotweb.com/marketplace-directory/listing/dread/">dread listing page</a>. This is a verification of the new URL signed by the site&#8217;s owner, HugBunter:</p>
 <div id="crayon-5b112276a4b47588730139" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
 <div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>

@@ -7,9 +7,8 @@ title: Silk Road 2.0 Is now open For Business
 <span>November 13, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/11/13/silk-road-2-0-is-now-open-for-business/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Today the new so called Dread Pirate Roberts released a public statement announcing the &#8220;Take Off&#8221; of the new silk road &#8211; mentioning some of the new enabled features and the ones that should come in next:</p>
 <p>===Quote===</p>
 <p>&#8220;I am happy to announce the escrow and bitcoin system is now active on the market after days of hard work and sleepless nights for our team who I&#8217;m proud to say have put in almost a supernatural collective amount of man hours for the past few weeks. We know we are not there yet, we have much work to do but I think this is the milestone we&#8217;ve all been waiting for and it signifies the next step of progress.</p>

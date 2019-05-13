@@ -1,15 +1,15 @@
 ---
 Nigerian Fraudster Admits Role in 2 Million Dollar Fraud Scheme
 ---
-<article class="post-listing post-24493 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-dollar tag-fraud tag-fraudster tag-million tag-nigerian tag-role tag-scheme">
+<article class="post-listing post-24493 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-admits tag-dollar tag-fraud tag-fraudster tag-million tag-nigerian tag-role tag-scheme">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 20, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/20/nigerian-fraudster-admits-role-2-million-dollar-fraud-scheme/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In early 2018, a Nigerian fraudster responsible for the theft of millions of dollars from companies in the United States pleaded guilty to fraud and identity theft charges. The fraudster, a 31-year-old named Adeyemi Odufuye, admitted that he worked with others to trick unsuspecting employees to wire millions of dollars to bank accounts under Odufuye’s control. The Nigerian citizen pleaded guilty to one count of wire fraud and one count of aggravated identity theft.<img class="wp-image-24500 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-35.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-35.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-35-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>According to court documents, Odufuye started scamming U.S. companies in 2015. He used multiple email addresses and social media profiles to pose as the CEO of a victim company, FBI Special Agent in Charge <a href="https://www.justice.gov/usao-ct/pr/nigerian-national-admits-role-business-e-mail-compromise-scheme">Patricia M. Ferrick said</a>. Odufuye also used various pseudonyms for himself outside of his fraudulent activities. As far as the FBI knows, Odufuye scammed for just over a year. During that time, he used the names “Yemi,” “GMB,” “Micky Bricks,” “Micky,” “Bawz,” and “Jefe.”</p>
 <p>On December 19, 2016, authorities in the United Kingdom arrested Odufuye at Sheffield Hallam University. A grand jury indictment charged Odufuye and one unknown accomplice with seven charges in total. They faced a single count of conspiracy, five <a href="https://www.deepdotweb.com/tag/fraud">wire fraud</a> charges, and one aggravated identity theft charge. The U.S. later won extradition of Odufuye and charged him in the state of Connecticut. According to the FBI, Odufuye and others targeted one company in Torrington, Connecticut, and one company in Waterbury, Connecticut.</p>

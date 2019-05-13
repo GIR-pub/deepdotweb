@@ -1,7 +1,8 @@
 ---
 Dutch Study: Half The Vendors Migrating To Dream Did Not Change PGP
 ---
-<article class="post-listing post-22520 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-change tag-dream tag-dutch tag-migrating tag-pgp tag-study tag-vendors">
+<article class="post-listing post-22520 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-change tag-dream tag-dutch tag-migrating tag-pgp tag-study tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 13, 2017</span>

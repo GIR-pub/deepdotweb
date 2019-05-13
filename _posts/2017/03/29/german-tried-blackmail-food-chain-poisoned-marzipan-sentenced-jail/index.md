@@ -1,15 +1,15 @@
 ---
 German Who Tried To Blackmail Food Chain With Poisoned Marzipan Sentenced To Jail
 ---
-<article class="post-listing post-18868 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blackmail tag-chain tag-food tag-german tag-jail tag-marzipan tag-poisoned tag-sentenced">
+<article class="post-listing post-18868 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-blackmail tag-chain tag-food tag-german tag-jail tag-marzipan tag-poisoned tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 29, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/29/german-tried-blackmail-food-chain-poisoned-marzipan-sentenced-jail/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 38-year-old man from Kiel, Germany was <a href="http://www.bild.de/regional/hamburg/todesursache-vergiftung/marzipan-erpresser-vor-gericht-50820506.bild.html#fromWall">sentenced</a> to prison for a blackmail attempt on a supermarket chain.</p>
 <p><img class="wp-image-18874 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/the-marzipan-blackmailer-andy-s-left-in-the-cou.jpeg" alt="The marzipan blackmailer Andy S. (left) in the courtroom with his lawyer " width="686" height="386" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/the-marzipan-blackmailer-andy-s-left-in-the-cou.jpeg 993w, https://www.deepdotweb.com/wp-content/uploads/2017/03/the-marzipan-blackmailer-andy-s-left-in-the-cou-300x169.jpeg 300w" sizes="(max-width: 686px) 100vw, 686px"/></p>
 <p>According to the court documents, Andy S., the defendant, sent more than 20 letters to the Coop food chain trying to extort money from the supermarket. The suspect sent the mail to the company between September 9 and 16, 2016 threatening the food chain that he would poison children with marzipan if Coop did not pay him three million euros in <a href="https://www.deepdotweb.com/tag/bitcoin/">bitcoins</a>.</p>

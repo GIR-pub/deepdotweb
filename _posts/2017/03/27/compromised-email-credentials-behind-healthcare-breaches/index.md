@@ -1,7 +1,8 @@
 ---
 Compromised Email Credentials Behind Most Healthcare Breaches
 ---
-<article class="post-listing post-18819 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-breaches tag-compromised tag-credentials tag-email tag-healthcare">
+<article class="post-listing post-18819 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-breaches tag-compromised tag-credentials tag-email tag-healthcare">
     
 <div class="post-inner">
     

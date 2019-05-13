@@ -7,9 +7,8 @@ Grimsby Man Jailed For Selling Ketamine On DNMs
 <span>October 1, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/01/grimsby-man-jailed-for-selling-ketamine-on-dnms/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.mirror.co.uk/news/technology-science/technology/dark-web-drug-dealer-jailed-6546740">Alex Middleton (20), living in Grimsby in the UK, has been jailed for 2 years and 4 months for selling Ketamine on Silk Road 2 under the vendor name MaximusDecimus.</a></p>
 <p>He sold the drugs worldwide, most of his customers were from the UK, United States, Germany and Canada. He had pretty good stealth, he disguised his packages as ”sea vegetable supplement” and attached fake invoices to the parcels making them look like they have been sent by a legit health firm. According to LE, he sourced the Ket from China and India and resold it to DNM users for a higher price.</p>
 <p><a href="http://public-newsroom-nca-01.azurewebsites.net/news/dark-web-drug-dealer-selling-super-strength-ketamine-jailed">The National Crime Agency (NCA) has busted Middleton in November, last year.</a> They have found several bags of Ketamine and bottles of Alprazolam (Xanax) in liquid form. During the bust the police have found all the information they needed from MaximusDecimus’ DNM sales. They have found transactions for chemistry equipment and have found out that Middleton’s vendor profile had at least 195 detailed feedbacks from DNM users all around the world.</p>

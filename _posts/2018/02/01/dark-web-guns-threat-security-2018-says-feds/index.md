@@ -1,15 +1,15 @@
 ---
 Dark Web Guns a threat to Security in 2018 Says Feds
 ---
-<article class="post-listing post-24631 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5927 tag-dark tag-feds tag-guns tag-security tag-threat tag-web">
+<article class="post-listing post-24631 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-5927 tag-dark tag-feds tag-guns tag-security tag-threat tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>February 1, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/01/dark-web-guns-threat-security-2018-says-feds/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>As if illegal drugs from the dark web have not done enough damage to the United States, US Officials now have to be worried about illegal firearms being purchased on the dark web too. Although the case of illegal drugs being sold and bought on the dark web is rampant, it does not leave out the fact that, there is more to the dark web than just drugs. <a href="https://www.deepdotweb.com/2016/02/19/drugs-and-firearms-are-more-common-than-religious-extremism-on-the-dark-web/">Illegal trading of firearms on the dark web</a> has been around for some time now but as we’ve entered a new year. Fresh concerns and security measures have drawn the attention of America’s law enforcement to the threats these guns pose on the lives of citizens.</p>
 <p>The United States has witnessed numerous mass shootings over the years of which guns used were illegally obtained and in that scenario, one can easily point to the fact that, the dark web has a hand in that. Researchers from the University of Manchester in a collaboration <a href="https://www.deepdotweb.com/2017/08/05/0-5-percent-darknet-market-listings-firearms-study-shows/">with RAND Europe</a> recently investigated 18 different online dark web marketplaces which dealt in online illegal trading of firearms, explosives, and ammunition, and their report showed that 60% of the weapons being sold were occurring from the United States.</p>
 <p>These weapons happen to be of a higher quality than any other source. Customers can purchase tutorials with detailed explanations on how to make bombs and explosives or reactivate replica and deactivated firearms, as well.</p>

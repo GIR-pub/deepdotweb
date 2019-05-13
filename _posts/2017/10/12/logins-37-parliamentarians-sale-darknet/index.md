@@ -1,15 +1,15 @@
 ---
 Logins for 37 Parliamentarians Sale on the Darknet
 ---
-<article class="post-listing post-23022 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5375 tag-darknet tag-logins tag-parliamentarians tag-sale">
+<article class="post-listing post-23022 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-5375 tag-darknet tag-logins tag-parliamentarians tag-sale">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 12, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/12/logins-37-parliamentarians-sale-darknet/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to the “internationally active cybersecurity team,” Kaduu, the personal information, passwords, and other account data of 37 <a href="http://www.it-markt.ch/storys/2017-10-02/zugangsdaten-von-parlamentariern-im-netz-aufgetaucht">parliamentarians leaked online</a>. Politicians from all parties are included in a database dump that Kaduu found on the darknet. Much of the information had originated from the <a href="https://www.deepdotweb.com/tag/dropbox/">Dropbox</a> and LinkedIn dumps from years ago.</p>
 <p>Kaduu, like so many similar firms, provides a “Deepweb” analysis service. The company searches for information on relevant parties (likely only for clients, save for the National Council). Given that much of the information pulled from the Dropbox or Yahoo database dumps grew stale, Kaduu reportedly found that information offered for free. For more valuable databases and leaks, the company often pays the fee charged by the darknet vendor.</p>
 <p><img class="wp-image-23029 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-21.jpeg" /></p>

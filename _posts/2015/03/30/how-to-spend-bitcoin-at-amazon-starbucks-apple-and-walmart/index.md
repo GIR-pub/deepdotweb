@@ -7,9 +7,8 @@ Spending Bitcoins: The Right Way
 <span>March 30, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/03/30/how-to-spend-bitcoin-at-amazon-starbucks-apple-and-walmart/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The excitement of spending Bitcoin is limited; very few online retailers accept Bitcoin as a payment method. Your best option to pay directly with Bitcoins is any merchant who accepts Bitcoin and is fulfilled by Amazon. A few other options are Overstock.com and a handful of Etsy vendors. Many people claim that you can spend Bitcoin freely, but they require third party sites to do so. Many countries or companies require verification for shipment of certain goods and services &#8211; this would require some sort of identification, something Bitcoin does not provide.</p>
 <p><a href="/imgs/2014/12/brawker.png"><img class="aligncenter  wp-image-8669" src="https://www.deepdotweb.com/wp-content/uploads/2014/12/brawker.png" alt="brawker" width="252" height="252" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/12/brawker.png 400w, https://www.deepdotweb.com/wp-content/uploads/2014/12/brawker-150x150.png 150w, https://www.deepdotweb.com/wp-content/uploads/2014/12/brawker-300x300.png 300w, https://www.deepdotweb.com/wp-content/uploads/2014/12/brawker-55x55.png 55w, https://www.deepdotweb.com/wp-content/uploads/2014/12/brawker-50x50.png 50w" sizes="(max-width: 252px) 100vw, 252px"/></a></p>
 <p>There are many people who wish to purchase Bitcoin quickly online with a credit card or PayPal. There are certain sites such as <a href="https://brawker.com/"><em>Brawker.com</em></a>, which provide the middleman service of buying and selling bitcoin through online purchases. Someone with Bitcoin simply provides the URL of the item they wish to buy and records the price (including shipping). That translates into a certain Bitcoin amount that they can alter; they can choose to raise the value of Bitcoin giving them a certain percentage discount. The offer will be poster where people who wish to buy Bitcoins will either accept the premium price or make a counteroffer.</p>

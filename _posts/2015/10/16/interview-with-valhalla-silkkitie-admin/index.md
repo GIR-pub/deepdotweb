@@ -7,9 +7,8 @@ Interview With Valhalla (Silkkitie) Admin
 <span>October 16, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/10/16/interview-with-valhalla-silkkitie-admin/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/silkkitie">Silkkitie Market</a> &#8211; One of the smaller markets which started as a local market for Finland and later turned international just celebrated two years of operation and was rebranded as &#8220;<a href="http://www.deepdotweb.com/marketplace-directory/listing/silkkitie">Valhalla</a>&#8220;, we have conducted an interview with &#8220;Kapteeni&#8221;, the market admin, which you can find below.</p>
 <p>Admin Proof:</p>
 <div id="crayon-5962ff7cddbad840136911" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">

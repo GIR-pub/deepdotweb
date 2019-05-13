@@ -1,15 +1,15 @@
 ---
 Weapon Vendor Who Sold The Gun To The Münich Shooter Formally Charged
 ---
-<article class="post-listing post-18869 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charged tag-formally tag-gun tag-munich tag-shooter tag-sold tag-vendor tag-weapon">
+<article class="post-listing post-18869 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-charged tag-formally tag-gun tag-munich tag-shooter tag-sold tag-vendor tag-weapon">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 29, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/29/weapon-vendor-sold-gun-munich-shooter-formally-charged/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The prosecutor’s office in Münich <a href="http://www.ksta.de/nach-amoklauf-in-muenchen--anklage-gegen-waffenverkaeufer-26188332">formally charged</a> the man who allegedly sold the firearm to the Münich shooter.</p>
 <p>The prosecution accused Philipp K., a 32-year-old German man, of negligent homicide in nine cases, negligent bodily harm in five cases as well as violations of the weapons law, Florian Wienzierl, spokesman for the prosecutor’s office in Münich said in a statement on Monday. The proceedings in the case have not been cleared yet, the trial dates were not yet fixed.</p>
 <p>In the Münich massacre on July 22, the 18-year-old shooter, David Ali Sonboly killed nine people and himself in the Olympia-Einkaufszentrum (OEZ). He almost fired his gun 60 times, investigators found 57 cartridges from his Glock on the scene.</p>

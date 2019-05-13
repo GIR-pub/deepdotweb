@@ -1,15 +1,15 @@
 ---
 Drug Dealer Bought a Gun on the Darknet “for Protection”
 ---
-<article class="post-listing post-23039 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bought tag-darknet tag-dealer tag-drug tag-gun tag-protection">
+<article class="post-listing post-23039 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bought tag-darknet tag-dealer tag-drug tag-gun tag-protection">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 13, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/13/drug-dealer-bought-gun-darknet-protection/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In early October, the Chilly-Mazarin Criminal Court heard the case of a formerly convicted drug dealer who had stepped up in the world of crime. In addition to cocaine and marijuana, police found a semi automatic in the suspect’s home. The gun, he said, came from the darknet.</p>
 <p>Local news outlets reported that the 31-year-old suspect had not “escaped a prison sentence.” In a way, he came close during his Chilly-Mazarin case; the judge had ordered a two year prison sentence, but with a suspended year.</p>
 <p><img class="wp-image-23041 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/7303698_b6743728-a799-11e7-be37-b0593f78b9f4-1_100.jpeg" alt="7303698_b6743728-a799-11e7-be37-b0593f78b9f4-1_1000x625.jpg" width="752" height="470" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/10/7303698_b6743728-a799-11e7-be37-b0593f78b9f4-1_100.jpeg 1000w, https://www.deepdotweb.com/wp-content/uploads/2017/10/7303698_b6743728-a799-11e7-be37-b0593f78b9f4-1_100-300x188.jpeg 300w" sizes="(max-width: 752px) 100vw, 752px" /></p>

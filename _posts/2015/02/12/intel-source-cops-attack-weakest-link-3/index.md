@@ -7,9 +7,8 @@ Intel Source – Cops attack the weakest link too #3
 <span>February 12, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/02/12/intel-source-cops-attack-weakest-link-3/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Read the other parts once published in the <a href="http://www.deepdotweb.com/tag/IntelPhone/">IntelPhone</a> Tag</strong></p>
 <p>Crime is a highly adaptive creature – its probably the best example of the path of least resistance. Forgive me waxing lyrical and hitting up the criminological considerations from time to time, but in some ways, criminals and LE aren’t all that different. The metrics are different, the outcomes are different, but the deployment of effort follows a relatively similar approach.</p>
 <p>Why buy a TV if you can just steal it? Forget the cost benefit analysis, risk consideration, and social contract issues that weigh on most people – why the fuck spend 40+ hours a week and having a normal life if you can just take what you want? Because making every cent in your life out of crime has been made very hard to do by a variety of barriers beyond stigmatizing people with a rap sheet and being publicly known as a criminal, what’s really stopping you? Barriers. Those barriers I am referring to are the target hardening measures – the bars on your windows, the locks on your doors, setting aside for a moment the threat of catching a beating or a bullet from a homeowner or a cop. Not many people have the skills to perform non destructive entry to houses or cars, and those that do are seldom in the break and enter game.</p>

@@ -1,15 +1,15 @@
 ---
 Dark Web drug dealer who supplied fentanyl into the UK jailed 8 years
 ---
-<article class="post-listing post-24841 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-dealer tag-drug tag-fentanyl tag-jailed tag-supplied tag-uk tag-web tag-years">
+<article class="post-listing post-24841 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-dark tag-dealer tag-drug tag-fentanyl tag-jailed tag-supplied tag-uk tag-web tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>February 17, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/17/dark-web-drug-dealer-supplied-fentanyl-uk-jailed-8-years/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>25-year-old <a href="https://www.deepdotweb.com/2017/09/18/newport-man-admits-selling-adulterated-fentanyl-darknet/">Kyle Enos of Newport</a>, South Wales, used a dark web marketplace to supply people with fentanyl and was caught. The drug dealer has been sentenced to prison. <a href="https://www.deepdotweb.com/2017/09/15/uk-man-admits-shipping-synthetic-drugs-china-places/">Fentanyl, a synthetic opioid</a> which is 40 times stronger and potent than heroin has been the cause of many overdose deaths in the US and recently in the UK.</p>
 <p>The drug was linked to 113 deaths in the UK alone just last year. As to whether the drugs that killed them had been supplied by Enos, is still unknown but nevertheless, investigators warned that the synthetic opioid posed extreme dangers.</p>
 <p>Upon the numerous attempts to curb the situation as well as the arrests made, it didn’t seem to bother Enos as he was running a <a href="https://www.walesonline.co.uk/news/wales-news/dealer-used-dark-web-sell-14248164">complex drug operation</a> on the dark web. His operation killed at least 14 young customers in Hull, according to reports. This led to the launch of intelligence operations by the Humberside Police to prevent the deadly drug from being sold to drug users.</p>

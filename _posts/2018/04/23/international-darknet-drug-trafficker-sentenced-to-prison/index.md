@@ -1,15 +1,15 @@
 ---
 International Darknet Drug Trafficker Sentenced to Prison
 ---
-<article class="post-listing post-25463 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-drug tag-international tag-prison tag-sentenced tag-trafficker">
+<article class="post-listing post-25463 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-darknet tag-drug tag-international tag-prison tag-sentenced tag-trafficker">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 23, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/23/international-darknet-drug-trafficker-sentenced-to-prison/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to United States Attorney Bob Troyer, U.S. District Court Judge R. Brooke Jackson sentenced 22-year-old Leonardo Cristea to <a href="https://www.justice.gov/usao-co/pr/member-darknet-drug-trafficking-organization-italianmafiabrussels-sentenced-prison">a three year prison sentence</a> for his role in the Italian Mafia Brussels (IMB) drug trafficking operation. After international law enforcement arrested Cristea and nine accomplices in May 2016, Cristea pleaded guilty to a single count of conspiracy drug importation.</p>
 <p>Court documents revealed that Cristea conspired with Filip Lucian Simion—the ‘leader’ of the organization—to sell drugs on several darknet markets between January 2013 and May 2016. <a href="https://www.deepdotweb.com/2016/07/01/dark-net-vendor-group-italian-maffia-brussels-busted/">IMB actively sold drugs on Silk Road</a>, Silk Road 2.0, Nucleus, and many more markets. The drug trafficking organization, according to court documents, shipped kilograms of MDMA and amphetamine across the world. Italian Mafia Brussels shipped from European countries.</p>
 <p>Some of the group&#8217;s drugs landed in the state of Colorado, invoking an investigation that started with the Boulder County District Attorney’s Office and the Boulder County Drug Task Force. Authorities in the United States were not alone in their investigation into Italian Mafia Brussels, though. Once the U.S. investigation had reached a point of no return, federal authorities started working with the Romanian Central Anti-Narcotics Unit and the Belgian Federal Judicial Police.</p>

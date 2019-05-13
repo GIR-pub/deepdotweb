@@ -1,15 +1,15 @@
 ---
 A new method for detecting malicious traffic over the Tor network
 ---
-<article class="post-listing post-27634 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-detecting tag-malicious tag-method tag-network tag-tor tag-traffic">
+<article class="post-listing post-27634 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-detecting tag-malicious tag-method tag-network tag-tor tag-traffic">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 18, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/12/18/a-new-method-for-detecting-malicious-traffic-over-the-tor-network/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Tor is a unique overlay network that was developed to provide anonymous online communications for TCP based applications. The Tor network is currently serving hundreds of thousands of users, helping them to conceal their identity while surfing the internet. Even though the Tor network is currently mainly used to bypass internet censorship in countries governed by oppressive regimes, the anonymity it offers also provides access to hidden services, such as darknet marketplaces, which facilitate trading of illicit drugs, pedophilia, counterfeit documents, and much more. This network that promotes users&#8217; privacy also harbors a whole new side of online violence, allowing various forms of botnets to go under cover, distribute spam, and undergo distributed denial of service attacks (DDoS), among other forms of cybercriminal activities.</p>
 <p><a href="https://w3.lasca.ic.unicamp.br/media/publications/TorBot_LACNIC-LACSEC_27_2017.pdf">A recently published paper</a> proposed a new technique and method for the detection and classification of malicious traffic in order to protect users against potential threats and to develop techniques to trace various forms of malicious code being transmitted over the Tor network. The study aimed at designing and implementing a solution to the rapidly growing problem of <a href="https://www.deepdotweb.com/2017/06/01/monitoring-malicious-activities-darknets-research-study/">malicious traffic over Tor</a>, proposing forensic methods and techniques that can protect the network against malicious traffic, while also preserving the anonymity and privacy of non-malicious traffic.</p>
 <p><img class="wp-image-27639" src="https://www.deepdotweb.com/wp-content/uploads/2018/12/tor-malware-jpg.jpeg" alt="Tor malware.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/12/tor-malware-jpg.jpeg 640w, https://www.deepdotweb.com/wp-content/uploads/2018/12/tor-malware-jpg-300x188.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>

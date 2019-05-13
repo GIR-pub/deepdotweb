@@ -1,7 +1,8 @@
 ---
 Queensland couple on Australia’s most wanted list Arrested
 ---
-<article class="post-listing post-22313 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-australias tag-couple tag-list tag-queensland tag-wanted">
+<article class="post-listing post-22313 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-australias tag-couple tag-list tag-queensland tag-wanted">
     
     <div class="post-inner">
     

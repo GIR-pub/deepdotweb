@@ -1,15 +1,15 @@
 ---
 OpenBazaar Finally Integrates Tor
 ---
-<article class="post-listing post-18431 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-finally tag-integrates tag-openbazaar tag-tor">
+<article class="post-listing post-18431 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-finally tag-integrates tag-openbazaar tag-tor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 4, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/04/openbazaar-finally-integrates-tor/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On January 18<sup>th</sup> OpenBazaar released their Milestone 1 Developer Release of OpenBazaar 2.0, a new version of the software which is built on the decentralized InterPlanetary File System (IPFS). The new version of OpenBazaar includes <a href="https://www.deepdotweb.com/2016/09/26/openbazaar-2-0-to-run-on-the-tor-network/">long awaited</a> privacy features, such as support for Tor. On February 14<sup>th</sup> <a href="https://github.com/OpenBazaar/openbazaar-go/pull/342">it was revealed</a> that the code to allow Tor integration with OpenBazaar was ready. The new features could mark a huge step forward for decentralized darknet markets.</p>
 <p><a href="https://www.deepdotweb.com/2014/06/23/openbazaar-a-decentralized-alternative/">OpenBazaar officially launched</a> with version 1.0 of their software in early 2016. The project started as DarkMarket made by Amir Taaki in 2014 at a Toronto Bitcoin Hackathon but was forked into OpenBazaar by Brian Hoffman. The first version of OpenBazaar utilized the UDP protocol, which when used over Tor poses a significant privacy threat through the leaking of a user’s IP address. Despite the risks to privacy, when OpenBazaar first launched, there were listings for marijuana and child pornography.</p>
 <p>“Bring on the illegal commerce,” <a href="https://www.reddit.com/r/Bitcoin/comments/5u2prh/tor_has_been_integrated_into_openbazaar/ddqwzqk/">one Redditor wrote</a> in response to the announcement of OpenBazaar 2.0. “Tor has always been the most requested feature by far — but it’s always been a bit of a technical challenge to implement,” OpenBazaar developer <a href="https://news.bitcoin.com/openbazaar-integrates-tor-platforms-requested-feature/">Chris Pacia told Bitcoin.com</a>. While the Milestone 1 Developer release of OpenBazaar 2.0 was available in late January, it wasn’t until February 14<sup>th</sup> that the OpenBazaar team revealed to Bitcoin.com that the code for Tor integration was ready. “I’m happy we got it merged but there’s still more to do,” Pacia told Bitcoin.com.</p>

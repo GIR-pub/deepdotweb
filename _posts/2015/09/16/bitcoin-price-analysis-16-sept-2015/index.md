@@ -7,9 +7,8 @@ Bitcoin Price Analysis 16 sept 2015
 <span>September 16, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/16/bitcoin-price-analysis-16-sept-2015/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>BITCOIN PRICE THIS WEEK</strong></p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/09/12.jpg"><img class="aligncenter size-full wp-image-11554" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/12.jpg" alt="1" width="849" height="570" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/09/12.jpg 849w, https://www.deepdotweb.com/wp-content/uploads/2015/09/12-300x201.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/09/12-290x195.jpg 290w" sizes="(max-width: 849px) 100vw, 849px"/></a></p>
 <p>This week, bitcoin’s price gradually declined to a low of $ 227, from last week’s $ 240. It has been a slow grind down from the past 4 week high, $ 247. Trading is now ranging within the rectangle, on a sideways trend that almost always precedes a break out. Up or down?</p>

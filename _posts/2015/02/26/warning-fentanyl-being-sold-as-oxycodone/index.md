@@ -7,9 +7,8 @@ Warning: Fentanyl Being Sold As Oxycodone
 <span>February 26, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/26/warning-fentanyl-being-sold-as-oxycodone/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Warning! Vendor named &#8220;Dbaggins&#8221; is selling Fentanyl pills As Oxycodone &#8211;  Reddit user submitted a pill to be analyzed and this is the result:</p>
 <blockquote><p>So I submitted dbaggin&#8217;s &#8220;oxycodone&#8221; to ecstacydata.org for analysis..<br/>
     Note &#8212; to save money I had to say it was sold as MDMA..(its a $60.00 difference)<br/>

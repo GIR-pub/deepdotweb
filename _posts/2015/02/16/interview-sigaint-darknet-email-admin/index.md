@@ -7,9 +7,8 @@ Interview With &#8220;Sigaint DarkNet Email&#8221; Admin
 <span>February 16, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/02/16/interview-sigaint-darknet-email-admin/#comments">43 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Recently we have conducted a short interview with one of the growing darknet email providers &#8211; Sigaint &#8211; from their homepage:</p>
 <blockquote><p>What is SIGAINT? SIGAINT is a darknet email service that allows you to send and receive email without revealing your location or identity. We provide this service to help journalists and activists combat the dragnet surveillance that exists on the Internet today. Even if you aren&#8217;t in conflict with the state or anyone in particular you as a human being deserve privacy.</p></blockquote>
 <p><strong>You may visit them at: <span style="text-decoration: underline;">http://sigaintevyh2rzvw.onion/</span></strong><br/>

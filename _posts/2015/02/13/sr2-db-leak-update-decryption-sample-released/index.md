@@ -7,9 +7,8 @@ SR2 DB Leak Update: 10% of The Data Released
 <span>February 13, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/13/sr2-db-leak-update-decryption-sample-released/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>(This is a short news update) Note that we have not verified this &#8211; just reporting as a newsflash: <a href="https://bitcointalk.org/index.php?topic=952177.0" target="_blank">Background</a> &#8211;  New post: <a href="https://bitcointalk.org/index.php?topic=952177.msg10447311#msg10447311" target="_blank">https://bitcointalk.org/index.php?topic=952177.msg10447311#msg10447311</a></p>
 <p><span style="text-decoration: underline;"><strong>Original Post:</strong></span></p>
 <p><b>Block 343278 has appeared.</b></p>

@@ -7,9 +7,8 @@ Bitcoin News Roundup – 22Feb. 2015
 <span>February 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/22/bitcoin-news-roundup-22feb-2015/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Canadian bitcoin exchange Cavirtex ceases active operations, citing the “safety and security of customer funds”. According to <a href="https://www.cavirtex.com/news">Cavirtex</a>, due to a potential compromise of the databases, the company will no longer offer trading, deposit and withdrawal services to its customers. Customer funds will be returned as <em>“Cavirtex remains solvent and that client funds were unaffected during the incident.”</em></p>
 <p>Just 9 months after joining OKCoin, Changpeng Zhao resigned citing “differences in direction”. As Pete Rizzo of <a href="http://www.coindesk.com/okcoin-cto-changpeng-zhao-departs/">Coin Desk</a> writes, Zhao joined OKCoin when the Chinese bitcoin exchange was looking for ways to expand internationally. For many, Zhao’s resignation came as a surprise as under his direction OKCoin became the leading bitcoin exchange in China. There are also concerns raised about the future of the digital currency in China.</p>

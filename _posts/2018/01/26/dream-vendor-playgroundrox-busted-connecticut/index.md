@@ -1,15 +1,15 @@
 ---
 Dream Vendor ‘playgroundROX’ Busted in Connecticut
 ---
-<article class="post-listing post-24555 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-connecticut tag-dream tag-playgroundrox tag-vendor">
+<article class="post-listing post-24555 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-connecticut tag-dream tag-playgroundrox tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 26, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/26/dream-vendor-playgroundrox-busted-connecticut/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to U.S. Attorney for the District of Connecticut John H. Durham, a 47-year-old man from Essex <a href="https://www.justice.gov/usao-ct/pr/essex-man-admits-using-dark-web-buy-and-sell-drugs">pleaded guilty</a> to buying and selling significant quantities of several drugs on the darknet. Authorities from local police, the United States Postal Inspection Service, and the Drug Enforcement Administration handled the case. And during the investigation, the law enforcement agencies seized several packages headed to and from Peter Ceplenski’s home address. Ceplenski will reappear in court for sentencing in April 2018.</p>
 <p>Ceplenski waived his right to an indictment and pleaded guilty based on the statements made by the DEA and USPS. U.S. Postal Inspection Service Boston Division Inspector in Charge Shelly A. Binkowski and special agent in charge of the <a href="http://deepdotweb.com/tag/DEA">Drug Enforcement Administration</a> for New England, Michael J. Ferguson joined Durham in announcing the news, due to their continued involvement in the case. In May 2017, authorities intercepted a package of drugs with a note to the customer. The note pointed investigators to a darknet buyer named “WhoLuvsIt.” On September 6, 2017, postal workers with the USPIS seized a package of roughly 1,000 alprazolam pills that someone had shipped to Ceplenski.</p>
 <p><img class="wp-image-24559 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-59.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-59.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-59-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

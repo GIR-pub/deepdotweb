@@ -7,9 +7,8 @@ Bitcoin Price Analysis 22nd October
 <span>October 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/22/bitcoin-price-analysis-22nd-october/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/10/13.jpg"><img class="aligncenter size-full wp-image-11828" src="https://www.deepdotweb.com/wp-content/uploads/2015/10/13.jpg" alt="1" width="1134" height="664" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/10/13.jpg 1134w, https://www.deepdotweb.com/wp-content/uploads/2015/10/13-300x176.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/10/13-1024x600.jpg 1024w" sizes="(max-width: 1134px) 100vw, 1134px"/></a></p>
 <p>This week bitcoin went up 10%, trending up from $250 to a week high of $ 275. The market exhibited intent this week, moving up strongly on the back of equally convincing volumes.</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/10/22.jpg"><img class="aligncenter size-full wp-image-11829" src="https://www.deepdotweb.com/wp-content/uploads/2015/10/22.jpg" alt="2" width="1636" height="730" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/10/22.jpg 1636w, https://www.deepdotweb.com/wp-content/uploads/2015/10/22-300x134.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/10/22-1024x457.jpg 1024w" sizes="(max-width: 1636px) 100vw, 1636px"/></a></p>

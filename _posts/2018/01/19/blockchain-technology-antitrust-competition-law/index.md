@@ -1,15 +1,15 @@
 ---
 The Blockchain Technology &#038; Antitrust and Competition Law
 ---
-<article class="post-listing post-24484 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-antitrust tag-blockchain tag-competition tag-law tag-technology">
+<article class="post-listing post-24484 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-antitrust tag-blockchain tag-competition tag-law tag-technology">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>January 19, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/01/19/blockchain-technology-antitrust-competition-law/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The popularization of the blockchain technology and cryptocurrencies created an urgent need for the development of regulating legislations that are inspired by a thorough understanding of this innovative technology. The autonomous and decentralized nature of the blockchain technology, and the fact that THE existence of a blockchain is totally independent of any control by federal institutions poses enormous challenges to government institutions and international bodies. Given the fact that a blockchain doesn&#8217;t fit under the definition of any governmental law, it can be regarded as &#8220;agnostic&#8221; to any legal jurisdiction; in other words, under most of the world&#8217;s legal jurisdictions blockchains are unregulated.</p>
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3081914">A recently published paper</a> analyzed how cryptocurrencies, and the blockchain technology in general, are challenging antitrust and competition law. Throughout this article, we will go through some of the interesting points of view presented via this paper.</p>
 <p><img class="wp-image-24488 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-34.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-34.jpeg 570w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-34-300x168.jpeg 300w" sizes="(max-width: 570px) 100vw, 570px" /></p>

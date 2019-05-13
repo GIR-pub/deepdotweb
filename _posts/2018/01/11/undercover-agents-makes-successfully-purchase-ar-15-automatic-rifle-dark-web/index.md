@@ -1,15 +1,15 @@
 ---
 Undercover Agents Makes A Successfully Purchase Of AR-15 Automatic Rifle On Dark Web.
 ---
-<article class="post-listing post-24375 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agents tag-ar15 tag-automatic tag-dark tag-purchase tag-rifle tag-successfully tag-undercover tag-web">
+<article class="post-listing post-24375 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-agents tag-ar15 tag-automatic tag-dark tag-purchase tag-rifle tag-successfully tag-undercover tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>January 11, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/11/undercover-agents-makes-successfully-purchase-ar-15-automatic-rifle-dark-web/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The government undercover and accountability office released the results of its undercover attempts to <a href="https://www.deepdotweb.com/2017/12/25/dublin-man-bought-grenades-darknet-ira/">purchase firearms and weapons on the famous marketplaces of the dark web</a> with an intention of collecting intelligence on what particularly happens there. The attempted surface web purchases and trades were made “through a wide range of scenarios developed to make the seller believe that the transaction would be illegal.”</p>
 <p>The dark web is not indexed and its access is only made possible via the “<a href="https://www.deepdotweb.com/2017/12/20/an-overview-of-sniper-attacks-against-the-tor-network/">Tor browser</a>” that allows users to browse without giving away their identity and the location from where the browsing has taken place. This makes a safer marketplace for anyone with a criminal’s intention as Individual logins and all transactions are masked.</p>
 <p>The undercover agent involved in the test said that with the aid of the dark web, bitcoin and its anonymity are being used actively in buying and selling of illegal goods and services especially drugs and firearms.</p>

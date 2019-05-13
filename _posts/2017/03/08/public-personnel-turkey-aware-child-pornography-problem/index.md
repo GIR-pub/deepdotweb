@@ -1,15 +1,15 @@
 ---
 Are Public Personnel In Turkey Aware of the Child Pornography Problem?
 ---
-<article class="post-listing post-18496 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-aware tag-child tag-personnel tag-pornography tag-problem tag-public tag-turkey">
+<article class="post-listing post-18496 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-aware tag-child tag-personnel tag-pornography tag-problem tag-public tag-turkey">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 8, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/08/public-personnel-turkey-aware-child-pornography-problem/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The development of the internet and communications technologies have helped us make almost every aspect of our everyday lives easier, yet we have become more or less dependent on these technologies while also having to deal with their possible negative effects on us. Unluckily, the recent advancements of Tor networks, and other Dark nets, have offered <a href="https://www.deepdotweb.com/2017/02/10/connecticut-man-found-child-pornography-on-the-darkweb/">perverts</a>, pedophiles, voyeurs&#8230;etc, means to quench their perverted passions, thanks to the anonymous environment provided by the deep web. Nowadays, online environments, especially on the deep web, represent the preferred means for child molesters to publish and distribute child pornography.</p>
 <p>A group of researchers from Turkey conducted <a href="http://www.joltida.org/index.php/joltida/article/view/24">a study to examine the level of awareness of Turkish public personnel, working in various public institutions, towards the publishing and distribution of child pornography on the internet</a>, particularly the deep web. 100 public personnel from various Turkish ministries participated in the study. Quantitative research techniques were utilized to obtain info from the participants. Participants answered a questionnaire that was submitted to them either via meeting in person, or via the internet, and the data was collectively recorded and analyzed via the SPSS.</p>
 <p><img class="wp-image-18500 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/child-pornography-jpg.jpeg" alt="child-pornography.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/child-pornography-jpg.jpeg 600w, https://www.deepdotweb.com/wp-content/uploads/2017/03/child-pornography-jpg-300x225.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>

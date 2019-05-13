@@ -7,9 +7,8 @@ Another BTC Exchanged Hacked: Bter.com &#8211; 7170BTC stolen
 <span>February 15, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/15/another-btc-exchanged-hacked-bter-com-7170btc-stolen/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>From the <a href="http://bter.com/">Bter.com</a> exchange homepage announcing the theft of 7170BTC &#8211; around 1,743,000$ at this time and a bounty of 720BTC to find the hacker:</p>
 <blockquote><p>7170 BTC got stolen from our cold wallet in this transaction:</p>
 <p><a href="https://blockchain.info/tx/f5b0363f03e1ed8bb812c135361ea93590c831ce9f13a3750be1b93575baccc6" target="_blank">https://blockchain.info/tx/f5b0363f03e1ed8bb812c135361ea93590c831ce9f13a3750be1b93575baccc6</a></p>

@@ -7,9 +7,8 @@ Intel Source – Personal Communications By Phone #2
 <span>February 3, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/02/03/intel-source-personal-communications-by-phone/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Read the other parts once published in the <a href="http://www.deepdotweb.com/tag/IntelPhone/">IntelPhone</a> Tag</strong></p>
 <p><strong>Cellphones as a source of information for target movement.</strong></p>
 <p>Whether or not your phone has ‘smart’ features, it has to send and receive information via the nearest cell tower; whether its making a call or just ‘pinging’ the tower to confirm that it still has service, every single time you power up or move around within a cell network, that phone is communicating with the nearby towers so that it can keep you informed of incoming calls, messages, or changes toservice activities/levels. The things which a smart phone can do<br />

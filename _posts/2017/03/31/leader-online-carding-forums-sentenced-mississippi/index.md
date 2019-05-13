@@ -1,15 +1,15 @@
 ---
 Leader of Online Carding Forums Sentenced in Mississippi
 ---
-<article class="post-listing post-18897 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-carding tag-forums tag-leader tag-mississippi tag-online tag-sentenced">
+<article class="post-listing post-18897 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-carding tag-forums tag-leader tag-mississippi tag-online tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 31, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/31/leader-online-carding-forums-sentenced-mississippi/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In June, 2014, Homeland Security Investigations in Mississippi began an investigation into Milad Kalantari, an Iranian citizen. Throughout the course of the investigation, HSI learned that Kalantari ran an “international fraud organization.” More specifically, they learned that the 32-year-old Iranian ran multiple websites that sold stolen credit card information. After a multi-year provided, the case closed on March 9, 2017, when U.S. District Judge Louis Guirola Jr <a href="https://www.justice.gov/opa/pr/iranian-member-international-cybercrime-conspiracy-sentenced-10-years-prison-selling-stolen">sentenced Kalantari to 120 months in federal prison</a>.</p>
 <p>Judge Louis Guirola Jr of the Southern District of Mississippi convicted Kalantari of crimes that warranted two sentences. For the first charge, access device fraud, the district judge ordered a 120-month sentence. And the second charge(s), conspiracy to commit identity theft and access device fraud, the district judge ordered a 60-month sentence. Both served concurrently. He also ordered Kalantari pay $36.6 million in restitution.</p>
 <p><img class="wp-image-18906 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-23.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-23.jpeg 640w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-23-275x300.jpeg 275w" sizes="(max-width: 640px) 100vw, 640px"/></p>

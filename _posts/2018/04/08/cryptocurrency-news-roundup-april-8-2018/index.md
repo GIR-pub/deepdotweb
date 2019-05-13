@@ -1,15 +1,15 @@
 ---
 Cryptocurrency news roundup, April 8, 2018
 ---
-<article class="post-listing post-25310 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5927 tag-april tag-cryptocurrency tag-news tag-roundup">
+<article class="post-listing post-25310 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-5927 tag-april tag-cryptocurrency tag-news tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
 <span>April 8, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/08/cryptocurrency-news-roundup-april-8-2018/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>This week’s summary of various cryptocurrency news and developments.</p>
 <h2>New developments:</h2>
 <p><strong>Mt Gox CEO claims he doesn’t want to profit from the exchange’s bankruptcy</strong></p>

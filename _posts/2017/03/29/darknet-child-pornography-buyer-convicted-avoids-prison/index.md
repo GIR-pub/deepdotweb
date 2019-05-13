@@ -1,15 +1,15 @@
 ---
 Darknet Child Pornography Buyer Convicted, Avoids Prison
 ---
-<article class="post-listing post-18870 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-avoids tag-buyer tag-child tag-convicted tag-darknet tag-pornography tag-prison">
+<article class="post-listing post-18870 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-avoids tag-buyer tag-child tag-convicted tag-darknet tag-pornography tag-prison">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 29, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/29/darknet-child-pornography-buyer-convicted-avoids-prison/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On March 12, Leigh Williams of Newport, South Wales, was convicted for the possession of child pornography. In consideration of Leigh Williams’ plea and his genuine remorse toward his action, judge Peter Griffiths sentenced Williams to six months in prison, to be effective after two years.</p>
 <p>In most child pornography cases, regardless of the intensity of the crime or the category of child pornography files, criminals are immediately sentenced to prison for their unethical behaviour and actions. In the case of Williams, police found 24 images of child pornography on his computer during a raid of his property. Five of the 24 images belonged to category A, and the rest belonged to Category B and C.</p>
 <p>When child pornography is seized from buyers and distributors, investigators and local law enforcement agencies categorize different forms of child pornography depending on their intensity or severity. Within this system, category A refers to the most inappropriate type of child pornography and almost at all times, the possession of category A child pornography alone lead to a sentence of multiple years in prison.</p>

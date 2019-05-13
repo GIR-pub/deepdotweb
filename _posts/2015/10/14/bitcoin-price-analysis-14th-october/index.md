@@ -7,9 +7,8 @@ Bitcoin price analysis 14th October
 <span>October 14, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/14/bitcoin-price-analysis-14th-october/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>BITCOIN MARKETS THIS WEEK</strong></p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/10/12.jpg"><img class="aligncenter size-full wp-image-11763" src="https://www.deepdotweb.com/wp-content/uploads/2015/10/12.jpg" alt="1" width="1131" height="662" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/10/12.jpg 1131w, https://www.deepdotweb.com/wp-content/uploads/2015/10/12-300x176.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/10/12-1024x599.jpg 1024w" sizes="(max-width: 1131px) 100vw, 1131px"/></a></p>
 <p>This week the price of bitcoin mostly trended sideways, after breaking resistance at $241 and heading up to a peak at $249. What followed was a consolidation, a counter reaction to the preceding sharp rise. A slow grind downtrend followed and found a bottom just above $242, reaffirming this level as strong support. The tweezer bottom, a candlestick pattern considered to be a short term bullish reversal pattern, is visibly clear. In hindsight, this was a bottom for the uptrend that followed up to $253. As I write this, price on Bitfinex sits at $250.</p>

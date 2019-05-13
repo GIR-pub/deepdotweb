@@ -7,9 +7,8 @@ Interview With a Dark Net Market Developer
 <span>November 19, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/11/19/interview-with-a-dark-net-developer/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Couple of days ago, an unusual thread was posted on the <a href="https://bitcointalk.org/index.php?topic=1251605.0" target="_blank">Bitcointalk</a> forum by a developer offering Darknet Market source code for sale, while this is something that we encountered before, it is not very common. We took the chance to do a short interview with the seller to learn more about his background, offer and intentions.</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/11/dankroad.png"><img class="aligncenter wp-image-12263" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/dankroad.png" alt="dankroad" width="999" height="513" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/dankroad.png 1477w, https://www.deepdotweb.com/wp-content/uploads/2015/11/dankroad-300x154.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/11/dankroad-1024x526.png 1024w" sizes="(max-width: 999px) 100vw, 999px"/></a></p>
 <p><strong>Who are you?  (like type of person etc&#8230;)</strong></p>

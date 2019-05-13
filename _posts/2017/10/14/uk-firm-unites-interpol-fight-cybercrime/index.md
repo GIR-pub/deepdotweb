@@ -1,15 +1,15 @@
 ---
 UK Firm Unites With Interpol to Fight Cybercrime
 ---
-<article class="post-listing post-23052 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cybercrime tag-fight tag-firm tag-interpol tag-uk tag-unites">
+<article class="post-listing post-23052 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-cybercrime tag-fight tag-firm tag-interpol tag-uk tag-unites">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>October 14, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/14/uk-firm-unites-interpol-fight-cybercrime/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>&nbsp;</p>
 <p>BT, UK’s biggest telecoms provider on the 4th of October announced that it had taken a step forward in combating cyber-crime by becoming partners with international police organization Interpol, in a data exchange agreement to fight cyber-crime.</p>
 <p>This makes BT the first telecommunications provider to sign an exchange data agreement with Interpol to combat global cyber-crime by providing current data threat intelligence.</p>

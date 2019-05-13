@@ -7,9 +7,8 @@
 <span>March 30, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/30/2-federal-agents-arrested-for-stealing-btc-while-investigating-silk-road/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Karma is a bitch</strong>. From <a href="http://www.justice.gov/opa/pr/former-federal-agents-charged-bitcoin-money-laundering-and-wire-fraudhttp://" target="_blank">Justice.gov press release</a>:</p>
 <p style="text-align: center;"><strong>Former Federal Agents Charged With Bitcoin Money Laundering and Wire Fraud</strong><br />
 <em>Agents Were Part of Baltimore’s Silk Road Task Force</em></p>

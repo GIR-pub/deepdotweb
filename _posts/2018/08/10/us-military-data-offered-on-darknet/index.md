@@ -1,15 +1,15 @@
 ---
 US Military Data Offered on Darknet
 ---
-<article class="post-listing post-26531 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-data tag-military tag-offered">
+<article class="post-listing post-26531 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-darknet tag-data tag-military tag-offered">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>August 10, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/10/us-military-data-offered-on-darknet/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>At the beginning of last month, the darknet had its first in <a href="https://knews.kg/2018/07/17/darknet-protiv-pentagona-haker-prodaval-dokumenty-armii-ssha-po-200/">military data offering</a>. In a bizarre sale of <a href="https://www.deepdotweb.com/2018/07/26/hacker-attempted-to-sell-u-s-military-drone-files-on-the-dark-web/">hacked military documents</a>, a cyber-security monitoring network, Recorded Future, chanced on what could prove vulnerabilities in military devices. In a strange twist, the hacker offered the data for a measly $100 &#8211; $150.<img class="wp-image-26535 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/image-result-for-mq-9-reaper-drone.jpeg" alt="Image result for mq-9 reaper drone" width="699" height="467" /></p>
 <p>The Inskit Group from Recorded Future monitors the deep web for illegal activities. A top researcher in the organization, Andrei Baryseevich, revealed when commenting on the matter that he has been watching the darknet for 15 years but has never come across such an offer. He says most of the <a href="https://www.deepdotweb.com/?s=hacked+data">data sold</a> are income generating such as; social security numbers, bank information, usernames and passwords among others. The offer for hacked military data was unprecedented for him.</p>
 <p>Inskit Group engaged a newly registered member on a hacker’s forum on the darknet for a week. The man had posted screenshots of the data of which the group was able to verify as authentic after several communications. He went on further to reveal how he acquired the data.</p>

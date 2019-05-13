@@ -7,9 +7,8 @@ Dark web gun fantasist pleads guilty
 <span>September 10, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/10/dark-web-gun-fantasist-pleads-guilty/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to a <a href="http://www.nationalcrimeagency.gov.uk/news/697-dark-web-gun-fantasist-pleads-guilty">press release</a> fron the UK national crime agency &#8211; A Milton Keynes man who concocted an elaborate story to purchase a gun from the dark web today pleaded guilty to conspiracy to import a firearm and ammunition at Bristol Crown Court.</p>
 <p>Darren Hillyer, aged 38, posed as a woman aiming to exact revenge on a paedophile ex-lover. Hillyer ordered a Luger LC9 9mm handgun and 50 rounds of ammunition from an account on a dark web forum under the guise of ‘Emma’.</p>
 <p>He was unaware that the package he was due to receive was in fact a plastic replica hidden inside a DAB radio which was under the control of officers from the National Crime Agency.</p>

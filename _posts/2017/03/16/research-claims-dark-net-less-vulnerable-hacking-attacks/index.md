@@ -1,15 +1,15 @@
 ---
 Research Claims: The Dark Net Is Less Vulnerable To Hacking Attacks
 ---
-<article class="post-listing post-18644 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attacks tag-claims tag-dark tag-hacking tag-net tag-research tag-vulnerable">
+<article class="post-listing post-18644 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-attacks tag-claims tag-dark tag-hacking tag-net tag-research tag-vulnerable">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 16, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/16/research-claims-dark-net-less-vulnerable-hacking-attacks/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The dark web is a part of the internet, which provides and maintains anonymity to its users. People can use this privacy to either illegal and legal ways. For example, in countries where freedom of speech is oppressed, or the media is censored, the citizens can use the Tor browser to connect to the dark web and anonymously browse the internet without legal consequences. In some countries, for instance, Facebook is banned, and people can only connect to the social media platform using the Tor browser. However, the dark web is mostly known for illegal activities. <a href="https://www.deepdotweb.com/tag/cybercrime/">Cybercriminals</a> often exchange sensitive information, including stolen banking and credit card details, <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a>, weapons, and child pornography material on the dark side of the internet.</p>
 <p>Since the illegal nature of some websites on the dark net, they are often attacked by both rival <a href="https://www.deepdotweb.com/tag/hacker/">hackers</a> and law enforcement. Recently, Manlio De Domenico and Alex Arenas, from the department of Computer Engineering and Mathematics of the University Rovira i Virgili (URV), conducted a <a href="http://www.lacuartacolumna.com/darknet-rovira/">research</a> regarding attacks against dark net sites. According to them, websites there are harder to attack than the ones on the clearnet (the normal part of the internet).</p>
 <p>The two researchers explained in an <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.022313">article</a> published in the journal Physical Review E that the dark net is practically impenetrable because of its unique topology. The dark web is characterized by a non-homogenous distribution of connections, established in very short paths with a high level of clusterings or clusters, as well as by a lack of highly connected nodes. This structure differs significantly from the rest of the internet.</p>

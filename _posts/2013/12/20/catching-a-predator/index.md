@@ -9,9 +9,8 @@ title: Catching a Predator
 <span>December 20, 2013</span>
 <span>in <a href="http://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
 <span><a href="http://www.deepdotweb.com/2013/12/20/catching-a-predator/#respond" title="Comment on Catching a Predator">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
     

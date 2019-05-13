@@ -1,7 +1,8 @@
 ---
 Police Busted NYC Synthetic Drug Dealer
 ---
-<article class="post-listing post-22519 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-dealer tag-drug tag-nyc tag-police tag-synthetic">
+<article class="post-listing post-22519 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-dealer tag-drug tag-nyc tag-police tag-synthetic">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>September 13, 2017</span>

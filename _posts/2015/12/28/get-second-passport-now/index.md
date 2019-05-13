@@ -7,9 +7,8 @@ How &#8211; and Why &#8211; to Get a Second Passport Now
 <span>December 28, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/12/28/get-second-passport-now/#comments">27 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>**This is part two of a six part series on how to cash out &#8211; and keep &#8211; your money and your freedom. <a href="https://www.deepdotweb.com/2015/12/23/cashing-out-what-is-your-strategy/">Read the first post here</a>.</em></p>
 <h2>Why Everyone Needs a Second (or Third) Passport</h2>
 <p>We are living in a strange time. Hypocritical perverts are not arrested for child molestation and sexual abuse, instead they are indicted for<a href="http://www.wsj.com/articles/former-house-speaker-dennis-hastert-indicted-1432849134" target="_blank"> &#8216;structuring&#8217; withdrawals to pay blackmail to the victim</a>. And &#8216;lying to the government&#8217;.. about withdrawing his own money.</p>

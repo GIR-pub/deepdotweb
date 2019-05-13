@@ -1,15 +1,15 @@
 ---
 Hotspot Shield VPN is Leaking Users Data and Location
 ---
-<article class="post-listing post-24888 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-data tag-hotspot tag-leaking tag-location tag-shield tag-users tag-vpn">
+<article class="post-listing post-24888 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-data tag-hotspot tag-leaking tag-location tag-shield tag-users tag-vpn">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>February 27, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/27/hotspot-shield-vpn-leaking-users-data-location/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A security researcher has found that one of the world’s largest <a href="https://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/">Virtual Private Network (VPN)</a> providers is <a href="http://www.zdnet.com/article/privacy-flaw-in-hotspot-shield-can-identify-users-locations/">leaking users private information</a>. Hotspot Shield, which has been downloaded over <a href="https://en.wikipedia.org/wiki/Hotspot_Shield">half a billion times</a> and has been in operation for over a decade, has a bug which can reveal what country a user is located in, as well as leak the name of the WiFi network they are using. The vulnerability in Hotspot Shield’s VPN service was discovered by Paulos Yibelo. Yibelo reported his findings to Beyond Security’s <a href="https://blogs.securiteam.com/index.php/archives/3604">SecuriTeam Secure Disclosure program</a>.</p>
 <p>“By disclosing information such as WiFi name, an attacker can easily narrow down or pinpoint where the victim is located,” Paulos Yibelo told <em>ZDNet</em>. When an attacker knows what country a Hotspot Shield VPN user is from, they “can narrow down a list of places” their victim is from, Yibelo said. The vulnerability in Hotspot Shield’s VPN service was tested by <em>ZDNet</em> using a proof-of-concept code that Yibelo wrote. Using Yibelo’s code they were able to identify users WiFi networks, and the vulnerability kept working when tried from different computers and different network.</p>
 <p>Yibelo was able to write his proof-of-concept code very quickly, and it is only a few lines long. The code exploits a vulnerability in the local web server installed by Hotspot Shield. Private information and configuration data are returned when the exploit calls a JavaScript file being hosted on the web server. The private information of Hotspot Shield VPN users could be captured and stored from an infected website. According to Yibelo, he was able to successfully obtain Hotspot Shield VPN users IP addresses, though he was only having mixed results and was not always able to successfully capture real IP addresses. In their own testing, <em>ZDNet</em> was unsuccessful in obtaining any real IP addresses of Hotspot Shield VPN users.</p>

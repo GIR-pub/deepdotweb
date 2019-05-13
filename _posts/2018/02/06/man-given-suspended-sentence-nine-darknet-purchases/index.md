@@ -7,9 +7,8 @@ Man Given a Suspended Sentence for Nine Darknet Purchases
 <span>February 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/uncategorized/" rel="category tag">Uncategorized</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/06/man-given-suspended-sentence-nine-darknet-purchases/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 24-year-old darknet drug trafficker managed to leave a Memmingen courtroom with only a suspended sentence. Some drug traffickers may barely leave the courtroom after buying less than five grams of a drug for personal use. But some people, like the 24-year-old IT specialist, dodged prison time after ordering kilograms of drugs.</p>
 <p>In fairness, the man had procured a deal that would have been foolish to pass up. The prosecution and defense agreed that if the defendant admitted to committing the drug trafficking in some capacity, the prosecution would push only for a suspended sentence. This was likely a necessary move as the court had next to no evidence to support accusations involving the 24-year-old drug dealer.</p>
 <p>According to the prosecution, the police only investigated the man after two of his so-called “friends” handed him over to the police. The police came, raided the man&#8217;s house, and then seized his computers. The house—aside from a scrap of paper with order information on it—contained no proof that the man had sold drugs at some point. The note, police reportedly discovered at a later date, contained the information needed to access the site that the 24-year-old had used when making his drug purchases.</p>

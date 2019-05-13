@@ -1,7 +1,8 @@
 ---
 German Tried To Extort Haribo And Kaufland With Poison
 ---
-<article class="post-listing post-18497 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-extort tag-german tag-haribo tag-kaufland tag-poison">
+<article class="post-listing post-18497 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-extort tag-german tag-haribo tag-kaufland tag-poison">
     
 <div class="post-inner">
     

@@ -7,9 +7,8 @@ title: Silk Road Drug Dealer &#8220;NOD&#8221; Was Flipped By Feds
 <span>October 21, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/10/21/silk-road-drug-dealer-nod-was-flipped-by-feds/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>OCTOBER 21&#8211;One of the top narcotics dealers on Silk Road, the recently shuttered online drug bazaar, secretly began cooperating with federal agents after his Seattle-area home was raided in late-July, The Smoking Gun has learned.</em></p>
 <p>One of the most known drugs dealers on silk road &#8211; Steven Sadler, known online as “Nod,” was flipped by the fed and started cooperating with them around july this year, a few month before he got arrested</p>
 <p>Sadler’s cooperation was disclosed at a brief U.S. District Court hearing earlier this month, according to an official audiotape of the proceeding before Magistrate Judge Brian Tsuchida.</p>

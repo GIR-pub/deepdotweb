@@ -10,9 +10,8 @@ title: Sheep Is now Officially Down!
 <span>December 1, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/01/sheep-is-now-officially-down/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Well That Seals the deal, if you try to browse sheep now you will see following message:</p>
 <p style="text-align: center;"><strong>Let us remind you that we have recently published a claim from one of the Sheep old moderator <a href="http://www.deepdotweb.com/2013/12/01/sheepmarketplace-owner-planning-a-second-scam/" target="_blank">warning that the same owner is planning a second scam</a> &#8211; so we urge you to think twice before trusting another marketplace, especially those who are recommended by the sheep staff.</strong></p>
 <p><a href="/imgs/2013/12/sheep-down.jpg"><img class="aligncenter size-full wp-image-2219" alt="Sheep is down" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/sheep-down.jpg" width="648" height="656" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/12/sheep-down-55x55.jpg 55w, https://www.deepdotweb.com/wp-content/uploads/2013/12/sheep-down-50x50.jpg 50w" sizes="(max-width: 648px) 100vw, 648px"/></a></p>

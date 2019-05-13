@@ -7,9 +7,8 @@ BitFinex FlashCrash &#8211; Post-Mortem Analysis
 <span>August 24, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/24/bitfinex-flashcrash-post-mortem-analysis/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On August 16th, just before midnight (UTC), Bitcoin markets were in a moment of temporary panic, about 30 minutes after a flash crash incidence on one of the world’s largest exchange (by liquidity) BitFinex. Wikipedia describes it as</p>
 <p><em>“A <strong>flash crash</strong> is a very rapid, deep, and volatile fall in security prices occurring within an extremely short time period.”</em></p>
 <p>A common phenomena in mainstream financial markets and even previously on XBT markets. As XBT asset prices are closely matched around the world, but on silod exchanges in different regions, its effects naturally spilled over into other exchanges completely separated from the epicentre. In a period of 8 minutes, price plummeted from $230 to $ 160!</p>

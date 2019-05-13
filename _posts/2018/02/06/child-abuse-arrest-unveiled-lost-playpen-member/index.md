@@ -1,15 +1,15 @@
 ---
 A Child Abuse Arrest Unveiled a Lost PlayPen Member
 ---
-<article class="post-listing post-24697 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-arrest tag-child tag-lost tag-member tag-playpen tag-unveiled">
+<article class="post-listing post-24697 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-abuse tag-arrest tag-child tag-lost tag-member tag-playpen tag-unveiled">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/06/child-abuse-arrest-unveiled-lost-playpen-member/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>When it comes to the underground world of the darknet, reading about the police busting another child abuser through posts on hidden forums is not uncommon. Due to some of the more recent operations by international law enforcement agencies, the arrests have only been increasing in frequency. But some cases are more unique than others—such is the case of a 39-year-old German man named Christian L. who both physically abused children and religiously used the primarily English-speaking child pornography forum known as <a href="https://www.deepdotweb.com/tag/playpen/">“PlayPen”</a>.</p>
 <p>Unlike the vast majority of recent cases involving German child abusers, Christian L.’s case had no direct relation to the recently seized child pornography forum <a href="https://www.deepdotweb.com/tag/elysium/">“Elysium”</a>. And, as one might expect, the case did not arrive at the Frankfurt Attorney General&#8217;s Office though the Central Office for Combating Cybercrime (ZIT). The case came from the United States’ <a href="https://www.deepdotweb.com/tag/pacifier/">Operation Playpen</a> that the FBI basically butchered in 2015.</p>
 <p><a href="http://www.bild.de/news/inland/kindesmissbrauch/fbi-wies-auf-kinderschaender-christian-l-hin-54528448.bild.html"><img class="wp-image-24701" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-9.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-9.jpeg 993w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-9-300x169.jpeg 300w" sizes="(max-width: 993px) 100vw, 993px" /></a></p>

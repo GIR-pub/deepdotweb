@@ -7,9 +7,8 @@ Updated the Chart &#038; list
 <span>February 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/12/updated-chart-list/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
     

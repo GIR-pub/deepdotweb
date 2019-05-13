@@ -1,15 +1,15 @@
 ---
 Fentanyl Vendor “Zane61” to Accept Plea Deal, Lawyer Says
 ---
-<article class="post-listing post-26576 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-accept tag-deal tag-fentanyl tag-lawyer tag-plea tag-vendor tag-zane61">
+<article class="post-listing post-26576 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-accept tag-deal tag-fentanyl tag-lawyer tag-plea tag-vendor tag-zane61">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 18, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/18/fentanyl-vendor-zane61-to-accept-plea-deal-lawyer-says/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The attorney of a father and son accused of selling oxycodone and fentanyl on the darknet announced that both defendants will enter guilty pleas at their upcoming court appearance. As with many opioid dealers targeted over the last few years, both the father and son face mandatory minimum prison sentences of five years for admitting to a controlled substance distribution conspiracy. Even though the plea deal does not negate the mandatory minimum, the agreement might reduce the maximum sentence by a few years.<img class="wp-image-26580 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-31.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-31.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-31-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Michael Luciano and Philip Luciano—59-years-old and 30-years-old, respectively—sold fentanyl and oxycodone on the <a href="https://www.deepdotweb.com/tag/alphabay/">Alphabay darknet market</a>. They used the pseudonym “Zane61” and had collected 112 positive reviews within 12 months of July 2017. A court document filed by Homeland Security Investigations Special Agent Paul Nugent pointed out that 113 users had reviewed Zane61; out of 113 reviews for Zane61’s products, less than one percent (0.88%) of reviews were not completely positive. The total number of reviews, though, does not necessarily match the total number of sales.</p>
 <p>Homeland Security Investigations, according to the criminal complaint, launched their investigation after customs intercepted a package containing more than 60 grams of fentanyl and another 37 grams of a suspected fentanyl analogue. While under investigation, federal agencies arrested an even larger <a href="https://www.deepdotweb.com/2018/05/24/alphabay-vendor-peterthegreat-sentenced-to-15-years/">darknet fentanyl vendor: PeterTheGreat.</a> PeterTheGreat, a South Carolina based fentanyl vendor, sold a significant quantity of fentanyl and fentanyl analogues to both fentanyl users and other darknet vendors. <a href="https://www.deepdotweb.com/2017/05/27/grand-jury-indicts-u-47-vendor-peterthegreat/">PeterTheGreat kept transaction logs</a>.</p>

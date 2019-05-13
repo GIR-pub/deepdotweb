@@ -1,7 +1,8 @@
 ---
 Expert Blames the Difficulties in Fighting Human Trafficking on the Darkweb
 ---
-<article class="post-listing post-22803 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blames tag-diffic tag-experts">
+<article class="post-listing post-22803 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-blames tag-diffic tag-experts">
     
     <div class="post-inner">
     

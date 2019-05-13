@@ -7,9 +7,8 @@
 <span>February 18, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/18/5-people-charged-uk-deep-web-crimes/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>5 More people were charged in the UK for crimes related to Silk road &#8211; the first one is the known legal highs and drugs paraphernalia vendor &#8220;PlutoPete,&#8221;  &#8211; 53-year-old Peter Ward, who posted an announcement on his twitter:</p>
 <blockquote class="twitter-tweet" width="550">
 <p>Finally been charged for my part in Silk Road, 9 charges inc conspiracy and supply class A and B :(</p>

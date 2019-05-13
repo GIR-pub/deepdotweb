@@ -1,7 +1,8 @@
 ---
 Pennsylvania Man Sentenced to 87 Months for Pill Distribution
 ---
-<article class="post-listing post-22670 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5949 tag-distribution tag-man tag-months tag-pennsylvania tag-pill tag-sentenced">
+<article class="post-listing post-22670 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-5949 tag-distribution tag-man tag-months tag-pennsylvania tag-pill tag-sentenced">
     
     <div class="post-inner">
     

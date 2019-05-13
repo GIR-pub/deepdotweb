@@ -1,15 +1,15 @@
 ---
 Spanish Police Smash a Bitcoin criminal gang&#8211;11 arrested over money laundering
 ---
-<article class="post-listing post-25441 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-bitcoin tag-criminal tag-gang11 tag-laundering tag-money tag-police tag-smash tag-spanish">
+<article class="post-listing post-25441 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-bitcoin tag-criminal tag-gang11 tag-laundering tag-money tag-police tag-smash tag-spanish">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>April 21, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/21/spanish-police-smash-a-bitcoin-criminal-gang-11-arrested-over-money-laundering/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Spanish civil guard police have arrested 11 suspects and launched an investigation of 137 others dedicated to a major operation on money laundering. The alleged Bitcoin criminal gang was smashed for trafficking drugs and <a href="https://www.deepdotweb.com/2017/11/07/bitcoin-money-laundering-lands-six-court/">laundering money</a> through the use of virtual currencies.</p>
 <p>Bitcoin has become increasingly popular in the recent past as an alternative form of currency. The digital currency provides new options for private, anonymous and secure transactions. Unfortunately, it is now being used also to fuel crimes such as <a href="https://www.deepdotweb.com/2018/04/05/61st-un-commission-on-narcotic-drugs-in-darknet/">drug trafficking</a> and money laundering.</p>
 <p>According to the investigation which is still underway, the alleged criminal organization operated from Spain and Colombia, and has been accused of having laundered more than €8 million through traditional means.</p>

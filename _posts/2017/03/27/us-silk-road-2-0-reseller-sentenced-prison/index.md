@@ -1,15 +1,15 @@
 ---
 US Silk Road 2.0 Reseller Sentenced To Prison
 ---
-<article class="post-listing post-18816 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-45 tag-prison tag-reseller tag-road tag-sentenced tag-silk">
+<article class="post-listing post-18816 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-45 tag-prison tag-reseller tag-road tag-sentenced tag-silk">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 27, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/27/us-silk-road-2-0-reseller-sentenced-prison/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Michael Carlton Paiva, a 30-year-old man from Norton Shores, was <a href="http://www.grandhaventribune.com/Law-Enforcement/2017/03/09/Dark-Web-drug-dealer-sentenced-to-prison">sentenced</a> to prison for ordering various substances from the dark net and reselling them to his customers locally.</p>
 <p><img class="wp-image-18822 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/jailbars-jpg.jpeg" alt="jailbars.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/jailbars-jpg.jpeg 380w, https://www.deepdotweb.com/wp-content/uploads/2017/03/jailbars-jpg-300x279.jpeg 300w" sizes="(max-width: 380px) 100vw, 380px" /></p>
 <p>The suspect was arrested as part of an international law enforcement operation. <a href="https://www.deepdotweb.com/tag/onymous/">Operation Onymous</a>, a joint police action between the Federal Bureau of Investigation, Europol, and local authorities, resulted in the bust of the <a href="https://www.deepdotweb.com/2014/11/06/silk-road-2-seized/">Silk Road 2.0 Marketplace</a>. Several other websites and forums were seized by investigators, including the <a href="https://www.deepdotweb.com/2014/11/11/watch-alleged-hydra-market-admin-getting-busted-in-budapest/">Hydra Marketplace</a>, Cloud Nine Marketplace, and the <a href="https://www.deepdotweb.com/2014/11/15/the-hidden-wiki-seized/">Hidden Wiki</a>. The law enforcement action was concluded in 24 hours, and not only resulted in the bust of several dark net sites, but the arrest of the admins, numerous vendors and customers.</p>

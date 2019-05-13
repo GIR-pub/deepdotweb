@@ -1,7 +1,8 @@
 ---
 Court Rules FBI Can Keep Phone Hacking Tool Secret from the Public
 ---
-<article class="post-listing post-23108 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-court tag-fbi tag-hacking tag-phone tag-public tag-rules tag-secret tag-tool">
+<article class="post-listing post-23108 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-court tag-fbi tag-hacking tag-phone tag-public tag-rules tag-secret tag-tool">
     
 <div class="post-inner">
     

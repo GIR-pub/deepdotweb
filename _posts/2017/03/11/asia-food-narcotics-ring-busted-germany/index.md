@@ -1,15 +1,15 @@
 ---
 &#8220;Asia Food&#8221; Narcotics Ring Busted In Germany
 ---
-<article class="post-listing post-18572 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-asia tag-busted tag-food tag-germany tag-narcotics tag-ring">
+<article class="post-listing post-18572 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-asia tag-busted tag-food tag-germany tag-narcotics tag-ring">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 11, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/11/asia-food-narcotics-ring-busted-germany/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Law enforcement authorities <a href="http://www.report-d.de/Duesseldorf/Blaulicht/Erfolg-fuer-Duesseldorfer-Drogenfahnder-Zwillingsbrueder-sollen-mit-Asia-Gemuese-und-Rauschgift-gehandelt-haben-72531">arrested</a> four persons in Derendorf, a district of Düsseldorf, Germany. The alleged criminals are suspected of running a narcotics ring in an Asia Food shop.</p>
 <p>According to the investigators, the two main suspects are twins, 33-year-old each, who were renting an Asia Food store in the well-commercialized district of Düsseldorf. They ran the shop since 2013, which were supplied with vegetables and Asian products. The twins rented a cooling room along with the store.</p>
 <p><img class="wp-image-18579 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-4-jp.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\4.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-4-jp.jpeg 500w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-4-jp-300x180.jpeg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>

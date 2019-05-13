@@ -1,15 +1,15 @@
 ---
 Trust Is Risk &#8211; Bitcoin Based Reputation System for Online Decentralized Marketplaces
 ---
-<article class="post-listing post-18658 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-based tag-bitcoin tag-decentralized tag-marketplaces tag-online tag-reputation tag-risk tag-system tag-trust">
+<article class="post-listing post-18658 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-based tag-bitcoin tag-decentralized tag-marketplaces tag-online tag-reputation tag-risk tag-system tag-trust">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 17, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/17/trust-risk-bitcoin-based-reputation-system-online-decentralized-marketplaces/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Online marketplaces can be either centralized or decentralized. Ebay is one of the most popular centralized online marketplaces, while <a href="https://www.deepdotweb.com/2014/06/23/openbazaar-a-decentralized-alternative/">OpenBazaar</a> is by far the most popular decentralized online marketplace. Online marketplaces rely, in a way or another, on creating a reputation system for both sellers and buyers, which is a common denominator between centralized and decentralized marketplaces. In most cases, reputation is expressed in the form of a 5 star grading system, in addition to user generated reviews which are visible to all users across the marketplace&#8217;s network.</p>
 <p><a href="http://eprint.iacr.org/2017/156.pdf">&#8220;Trust is Risk&#8221;</a> is a recently proposed reputation system, that is especially designed for decentralized online marketplaces, where the level of trust, given by each user to the others across the marketplace, is quantified in monetary terms. &#8220;Trust is Risk&#8221; is centered on assuming that trust is directly proportionate to risk. To flesh out this idea, let&#8217;s assume Adam and Judy are two users across a given decentralized marketplace, Adam&#8217;s level of trust in Judy can be represented by the maximum amount of money Adam can lose, when buying from Judy, whatever the strategy she chooses to use.</p>
 <p><img class="wp-image-18667 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-7.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-7.jpeg 638w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-7-300x225.jpeg 300w" sizes="(max-width: 638px) 100vw, 638px"/></p>

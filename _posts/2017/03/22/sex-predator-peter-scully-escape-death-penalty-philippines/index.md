@@ -1,15 +1,15 @@
 ---
 Sex Predator Peter Scully To Escape Death Penalty In The Philippines
 ---
-<article class="post-listing post-18741 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-death tag-escape tag-penalty tag-peter tag-philippines tag-predator tag-scully tag-sex">
+<article class="post-listing post-18741 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-death tag-escape tag-penalty tag-peter tag-philippines tag-predator tag-scully tag-sex">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 22, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/22/sex-predator-peter-scully-escape-death-penalty-philippines/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Alleged Australian pedophile Peter Scully will <a href="http://www.smh.com.au/world/alleged-sex-predator-peter-scully-to-escape-philippines-death-penalty-if-convicted-20170307-gusyz4.html">escape the death penalty</a> in the Philippines if convicted, despite what police said about the horrific acts he did with children. Lawmakers in the country excluded the alleged crimes of the defendant from a death penalty bill. The bill passed in the Philippine parliament 216 votes to 54.</p>
 <p><img class="wp-image-18746 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/peter-scully-second-from-left-arrives-at-the-cag.jpeg" alt="Peter Scully (second from left) arrives at the Cagayan de Oro court handcuffed to another inmate on the first day of his ..." srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/peter-scully-second-from-left-arrives-at-the-cag.jpeg 620w, https://www.deepdotweb.com/wp-content/uploads/2017/03/peter-scully-second-from-left-arrives-at-the-cag-300x169.jpeg 300w" sizes="(max-width: 620px) 100vw, 620px"/></p>
 <p>The bill reintroduces the <a href="https://www.deepdotweb.com/2016/09/30/death-penalty-call-child-sex-offender-peter-scully-philippines/">death penalty</a>, which was abolished in 2006 but only for eight narcotic-related offenses. Both prosecutors and politicians in Manila argued for the bill to cover the horrific acts Scully allegedly committed against children as young as 18 months.</p>

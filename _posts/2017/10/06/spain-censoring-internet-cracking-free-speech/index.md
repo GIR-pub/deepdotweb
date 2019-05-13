@@ -1,7 +1,8 @@
 ---
 Spain Censoring the Internet, Cracking Down on Free Speech
 ---
-<article class="post-listing post-22955 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-censoring tag-cracking tag-free tag-internet tag-spain tag-speech">
+<article class="post-listing post-22955 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-censoring tag-cracking tag-free tag-internet tag-spain tag-speech">
     
     <div class="post-inner">
     

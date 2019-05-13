@@ -1,15 +1,15 @@
 ---
 Global Operation Takes Down DDoS-for-Hire Site
 ---
-<article class="post-listing post-25606 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-ddosforhire tag-global tag-operation tag-site tag-takes">
+<article class="post-listing post-25606 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-ddosforhire tag-global tag-operation tag-site tag-takes">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/06/global-operation-takes-down-ddos-for-hire-site/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On April 24, international law enforcement agencies announced several arrests connected to Webstresser.org, the so-called “largest” booter or stresser service available to the general public. Many of the countries involved in the investigation issued press releases that detailed the arrest of operators in several countries. The international investigation, as explained in <a href="https://www.politie.nl/nieuws/2018/april/25/politie-sluit-grootste-ddos-website-in-operation-power-off.html">a press release from the Dutch police</a>, involved as many as 10 law enforcement agencies operating within the framework of ‘Operation Power Off’.<img class="wp-image-25608 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-5.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-5.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-5-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>“<em>webstresser.org is the strongest IP Stresser / Booter on the market, we provide strongest and most reliable server stress testing, with up to 350Gbps</em>,” the site advertised on its front page.</p>
 <p><img class="wp-image-25609" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-6.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-6.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-6-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

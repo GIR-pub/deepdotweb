@@ -7,9 +7,8 @@ Onionshop Guide: How To Set Up a Hidden Service?
 <span>March 27, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/03/27/onionshop-guide-how-to-set-up-a-hidden-service/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>From the owners of the former Onion shop services &#8211; a guide for setting up hidden services:</p>
 <p>Original post is on the hub: http://thehub7gqe43miyc.onion/index.php?topic=7507.0;topicseen<br/>
     All rights for this guide are reserved to the respective owner, and needless to say that <strong>USE AT YOUR OWN RISK</strong> &#8211; but we believed it might interest a few people so here it is:</p>

@@ -1,15 +1,15 @@
 ---
 How do Russians run business on darknet?
 ---
-<article class="post-listing post-24294 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-business tag-darknet tag-run tag-russians">
+<article class="post-listing post-24294 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-business tag-darknet tag-run tag-russians">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>January 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/06/russians-run-business-darknet/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Dmitry Nosov, a leader of the Russian social public organization &#8220;Antidealer&#8221;, said during <a href="https://lenta.ru/news/2017/09/20/narko/">the interview</a> to a radio station: &#8220;We have a very important task &#8211; to bring drugs trafficking back to the streets, away from the Internet&#8221;. What made the Russian darknet so attractive for both sellers and customers? In this article we shall try to answer this question.</p>
 <p><strong>Darknet markets</strong></p>
 <p><a href="https://www.deepdotweb.com/marketplace-directory/listing/hydra-russian/">Hydra marketplace</a> has become the largest Russian <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">DNM</a>. Unlike any other Western market Hydra requires vendors to pay a rent. At the moment it is 0.023396 BTC (around $400) a month, a discount is offered in case you pay for 3/6/12 months at once. The rent payment along with 5% of market commissions leads to higher prices. Hydra gives a possibility to pay a purchase in rubles with the help of integrated exchange services, however only Qiwi (electronic payment system) is accepted. An exchange is performed manually by a manager within 30-180 minutes time frame, which depends on an exchange service chosen. Currently there are 11 exchangers available, and they accept small amounts (starting at $1.8) for trading.</p>

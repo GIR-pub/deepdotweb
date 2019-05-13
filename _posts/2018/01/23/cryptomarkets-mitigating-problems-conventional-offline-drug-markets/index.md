@@ -1,15 +1,15 @@
 ---
 Cryptomarkets &#8211; Mitigating the Problems of Conventional Offline Drug Markets
 ---
-<article class="post-listing post-24525 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-conventional tag-cryptomarkets tag-drug tag-markets tag-mitigating tag-offline tag-problems">
+<article class="post-listing post-24525 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-conventional tag-cryptomarkets tag-drug tag-markets tag-mitigating tag-offline tag-problems">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>January 23, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/01/23/cryptomarkets-mitigating-problems-conventional-offline-drug-markets/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The deep web has opened the door to a novel way of illicit drug trading, via what is referred to as darknet marketplaces or cryptomarkets. Users can now safely purchase illicit drugs from the comfort of their homes, compare products and their prices offered by various vendors, while avoiding being busted by law enforcement agencies (LEAs). Cryptomarkets also greatly reduce the risks that might be encountered by vendors on these darknet marketplaces. In cryptomarkets, the features of a successful vendor are determined by their offered customer services, and other traditional parameters linked to marketing of their products. The visibility of illicit drug trafficking is not a threat to either vendors or buyers on cryptomarkets; an issue that basically alters the organization of economic activities within conventional offline drug markets.</p>
 <p><a href="https://www.deepdotweb.com/2013/12/24/the-silk-road-2-0-tales-psy-ops/">Silk Road 2.0</a> was by far the biggest cryptomarket on the deep web in 2014. Following <a href="https://www.deepdotweb.com/2013/11/13/silk-road-2-0-is-now-open-for-business/">its launch on November 6, 2013,</a> the Silk Road 2.0 lasted for exactly one year before being shut down by the FBI. Despite the fact that it lasted for no more than a year, the Silk Road 2.0 represents an ideal model for studying darknet marketplaces. <a href="http://journals.sagepub.com/doi/abs/10.1177/1477370817749177">A recently published study</a> revealed how top vendors sold illicit drugs on the Silk Road 2.0. Vendor profiles&#8217; details, offered products and buyers&#8217; feedback were utilized to analyze vendors and their conducted operations, with emphasis on trading features including product characteristics, shipping and branding. The study analyzed the Silk Road 2.0 cryptomarket via a combination of economic sociology and transaction cost economics. The study aimed at improving comparative studies analyzing illicit drug markets via application of traditional models of economic activities to the context of darknet marketplaces.</p>
 <p><img class="wp-image-24532" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-39.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-39.jpeg 768w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-39-300x198.jpeg 300w" sizes="(max-width: 768px) 100vw, 768px" /></p>

@@ -1,15 +1,15 @@
 ---
 Interview with a Professional DDoS Extortionist
 ---
-<article class="post-listing post-26675 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-ddos tag-extortionist tag-interview tag-professional">
+<article class="post-listing post-26675 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-ddos tag-extortionist tag-interview tag-professional">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>September 3, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/09/03/interview-with-a-professional-ddos-extortionist/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>&#8211; Who are you and what do you do?</strong><br />
     My name obviously cannot be mentioned for obvious reasons, but I am a male between the ages of 25-35, living in Australia who enjoys extorting ponzi scheme websites in the crypto niche, BTC casinos, ICO&#8217;s and any other relevant cryptocurrency generating business that solely relies upon their website being online for their customers or victims to generate an income, via DDOSing.</p>
 <p><strong>&#8211; How did you get into the business of DDoS for extortion?</strong><br />

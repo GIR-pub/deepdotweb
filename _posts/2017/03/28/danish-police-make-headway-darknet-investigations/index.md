@@ -1,15 +1,15 @@
 ---
 Danish Police Make Headway in Darknet Investigations
 ---
-<article class="post-listing post-18851 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-danish tag-darknet tag-headway tag-investigations tag-police">
+<article class="post-listing post-18851 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-danish tag-darknet tag-headway tag-investigations tag-police">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 28, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/28/danish-police-make-headway-darknet-investigations/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to Kim Aarenstrup, head of the National Police&#8217;s Cyber ​​Crime Centre (NC3), Danish police developed tools to prevent darknet drug trade. The tools, she explained in a press release, came in the form of new methods of Bitcoin transaction analysis. The engineers at NC3 used “<a href="http://www.anklagemyndigheden.dk/nyheder/Sider/gennembrud-nye-beviser-ophaever-kriminelles-anonymitet-paa-moerkenettet.aspx">new skills, methods, and technologies</a>” to “to prove and punish rogue trades with bitcoin.”</p>
 <p>The new method already proved itself in the form of two darknet-linked convictions. Aarenstrup called the new mixture of skills and technologies a breakthrough—a new era of darknet and Bitcoin investigations. NC3’s method reinforced the notion that darknet marketplace users never had any form of anonymity. &#8220;<a href="http://www.b.dk/nationalt/dansk-gennembrud-narkohandlere-kan-ikke-laengere-gemme-sig-bag-bitcoins">The tracks are there and the criminals can not remove them</a>,&#8221; Aarenstrup said.</p>
 <p><img class="wp-image-18856 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-21.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-21.jpeg 330w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-21-300x205.jpeg 300w" sizes="(max-width: 330px) 100vw, 330px" /></p>

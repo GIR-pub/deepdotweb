@@ -1,15 +1,15 @@
 ---
 Using the CHORD protocol for creating a P2P multimedia service system
 ---
-<article class="post-listing post-27643 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-chord tag-creating tag-multimedia tag-p2p tag-protocol tag-service tag-system">
+<article class="post-listing post-27643 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-chord tag-creating tag-multimedia tag-p2p tag-protocol tag-service tag-system">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 20, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/12/20/using-the-chord-protocol-for-creating-a-p2p-multimedia-service-system/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The past few years have witnessed an increased popularity of real-time multimedia applications. Nevertheless, network congestion as well as unexpected intermittent interruption in the streaming of live videos usually undermine the quality of services offered to users. <a href="https://link.springer.com/chapter/10.1007/978-3-030-03748-2_20">A recently published paper</a> proposed a novel P2P framework for multimedia services based on the CHORD protocol, which is a routing-based architecture where data items and nodes are organized into a l-dimensional ring.</p>
 <p>Throughout this article, we will examine the CHORD P2P protocol.</p>
 <p><strong>Overview of the CHORD protocol:</strong></p>

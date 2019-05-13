@@ -7,9 +7,8 @@ title: Government Claims Crackdown On Tor: “We will catch you”
 <span>October 26, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/10/26/government-claims-crackdown-on-tor-we-will-catch-you/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Since the seizure and demise of the deep web drug bazaar, Silk Road, federal law enforcement has made monumental claims, concerning their aims to crack down on ‘darknet’-based crime. Silk Road largely operated through a web browser, which was originally developed by US Naval Intelligence, called Tor. It is a program that conceals the identities of its users through bouncing their information through a massive network of servers.</p>
 <p>Once an operator appears on the other side of this network, his or her information is undistinguished, making it impossible to identify the operator. This means, that if law enforcement agencies wanted to crack down on crimes that originate from the darknet, then they have to know how to penetrate and surveil these kinds of networks.</p>
 <p>According to an <a href="http://www.usatoday.com/story/news/nation/2013/10/21/fbi-cracks-silk-road/2984921/">Oct 22 story from USA Today</a>, Donna Leinwand Leger reports on the claims, made by upper echelons of British law enforcement:</p>

@@ -1,15 +1,15 @@
 ---
 Hallex &#8211; A Decentralized Cryptocurrency Exchange Via Ethereum&#8217;s Turing-Complete Blockchain
 ---
-<article class="post-listing post-18530 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-cryptocurrency tag-decentralized tag-ethereums tag-exchange tag-hallex tag-turingcomplete">
+<article class="post-listing post-18530 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-blockchain tag-cryptocurrency tag-decentralized tag-ethereums tag-exchange tag-hallex tag-turingcomplete">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 10, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/10/hallex-decentralized-cryptocurrency-exchange-via-ethereums-turing-complete-blockchain/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A large number of cryptocurrency exchanges have experienced cyberattacks that led to the loss millions of US Dollars worth of bitcoins and altcoins, during the past 4 years. In most cases, most cryptocurrency exchanges utilize centralized servers, where trading takes place, to store and manage digital assets, which renders them highly valuable targets for hackers. Accordingly, <a href="https://www.deepdotweb.com/2016/10/04/decentralized-exchanges-goxed-no/">decentralized exchanges</a> represent ideal alternatives to shield cryptocurrency exchanges against such cyberattacks.</p>
 <p><a href="https://papers.ssrn.com/sol3/papers2.cfm?abstract_id=2917078">Hallex is a newly introduced trustless exchange platform</a> for various digital assets including cryptocurrencies. Hallex is built on top of Ethereum&#8217;s Turing-complete blockchain. Through combining digital signatures with <a href="https://www.deepdotweb.com/2017/01/15/overview-smart-contract-scripting-cryptocurrency-blockchains/">smart contracts</a>, Hallex enforces asset trades&#8217; rules at low latency. Although these rules render the exchange rather centralized, they don&#8217;t place trust in any intermediary third parties. This approach integrates the merits of centralized exchanges, including speed and price, along with the advantages of decentralized smart contracts, yielding high levels of security and settlement speed.</p>
 <p><img class="wp-image-18537 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/hallex-jpg.jpeg" alt="Hallex.jpg" width="642" height="428" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/hallex-jpg.jpeg 1000w, https://www.deepdotweb.com/wp-content/uploads/2017/03/hallex-jpg-300x200.jpeg 300w" sizes="(max-width: 642px) 100vw, 642px" /></p>

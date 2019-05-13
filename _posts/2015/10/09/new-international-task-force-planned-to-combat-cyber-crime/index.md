@@ -7,9 +7,8 @@ New International Task Force Planned to Combat Cyber Crime
 <span>October 9, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/09/new-international-task-force-planned-to-combat-cyber-crime/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>International policing agencies are now working together in order to create a more globalized approach to dealing with the critical issue of cyber crime. This comes after the <a href="http://www.interpol.int/News-and-media/News/2015/N2015-147">third cyber crime conference</a> which focused on assessing potential threats, co-operation models and the legal and practical challenges facing institutions such as INTERPOL and Europol.</p>
 <p><strong>Growing Threat</strong></p>
 <p>One of the issues facing the 350 cyber specialists at the conference is the growing number of Malware attacks to an individual’s personal computer, tablet and smartphone. These kinds of attacks are hard to prevent, and can cause widespread disruption as most people’s personal IT equipment does not have the same level of security that most corporations enjoy. Even more worrying is that just by bringing an infected device into the workplace, an employee can quick compromise an entire corporation’s network.</p>

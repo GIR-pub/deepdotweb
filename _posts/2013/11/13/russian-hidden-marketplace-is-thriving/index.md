@@ -7,9 +7,8 @@ title: Russian Hidden Marketplace Is Thriving
 <span>November 13, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/13/russian-hidden-marketplace-is-thriving/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Are you from russia and looking for a domestic order?</p>
 <p>Look no further!  as it was reported a few days ago on <a href="http://www.leavethewestbehind.com/2013/10/silk-road-is-dead-but-its-russian.html">some blog,</a> there is a thriving Russian marketplace at this called RAMP: Russian Anonymous MarketPlace  and you can find it in this URL: https://ramp2bombkadwvgz.onion</p>
 <p>There is also report that this marketplace is now also accepting litecoins!</p>

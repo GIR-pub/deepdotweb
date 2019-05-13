@@ -9,9 +9,8 @@ title: Beyond Silk Road: Potential Risks, Threats, and Promises of Virtual Curre
 <span>November 21, 2013</span>
 <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
 <span><a href="https://www.deepdotweb.com/2013/11/21/beyond-silk-road-potential-risks-threats-and-promises-of-virtual-currencies/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <section><strong>Member Statements</strong></p>
 <ul>
 <li>

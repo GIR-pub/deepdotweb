@@ -1,15 +1,15 @@
 ---
 Dream Vendor “CzechoSlovakFarm” Busted in Slovakia
 ---
-<article class="post-listing post-23329 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-czechoslovakfarm tag-dream tag-slovakia tag-vendor">
+<article class="post-listing post-23329 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-czechoslovakfarm tag-dream tag-slovakia tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 31, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/31/dream-vendor-czechoslovakfarm-busted-slovakia/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Trenciansky Police, according to a post on the <a href="https://www.facebook.com/policiaslovakia/posts/1748419831854898">Slovak Police Force’s Facebook page</a>, caught a 24-year-old marijuana vendor. The suspect, Juraj (equivalent to George in English), had distributed a significant quantity of marijuana through unknown darknet markets. At his house, police found almost 10 kilograms of dried cannabis and 25 seedlings.</p>
 <p>After a several month investigation, Slovak authorities traced the darknet venture back to the 24-year-old. More than one news agency reached out to the authorities for further information on the investigation, but they chose not to reveal anything that could have been considered sensitive. They were able to trace <a href="http://deepdotweb.com/tag/bitcoin">Bitcoin</a> payments to the vendor, but without great accuracy. From September 2016 until his arrest, he grew marijuana from the family house in Northwest Trenčín. The police revealed, on Facebook, that he had grown plants from the apartment in South Trenčín from June 2016.</p>
 <p><img class="wp-image-23337 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/fuckslovakweed-png.png" alt="FuckSlovakWeed.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/10/fuckslovakweed-png.png 737w, https://www.deepdotweb.com/wp-content/uploads/2017/10/fuckslovakweed-png-300x204.png 300w" sizes="(max-width: 737px) 100vw, 737px" /></p>

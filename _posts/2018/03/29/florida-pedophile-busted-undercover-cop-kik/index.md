@@ -1,15 +1,15 @@
 ---
 Florida Pedophile Busted by Undercover Cop on Kik
 ---
-<article class="post-listing post-25184 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-cop tag-florida tag-kik tag-pedophile tag-undercover">
+<article class="post-listing post-25184 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-cop tag-florida tag-kik tag-pedophile tag-undercover">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 29, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/29/florida-pedophile-busted-undercover-cop-kik/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Pensacola, Florida, United States Attorney for the Northern District of Florida Christopher P. Canova announced that a U.S. District Court found 36-year-old Nicholas E. Fogarty guilty of committing two child pornography crimes. According to Florida Department of Correction records, this is not Fogarty’s first rodeo involving child abuse content. In fact, he has already been to prison on some of the same charges.<img class="wp-image-25187 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-32.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-32.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-32-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Fogarty fell into a trap set by undercover police investigators on an ongoing effort to crack down on the Kik Messenger “groups” that exist solely to share pictures and videos of child sexual exploitation, groom children, or provide links to content stored on <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet sites</a>. The Kik groups are not a new development in the child abuse circles; people have been calling on Kik to do something about the groups for a long time now. Kik, like so many other social platforms, either lacks the ability to end this activity or fails to see it as a priority.</p>
 <p>See also: <a href="https://www.deepdotweb.com/2017/11/23/anderson-township-man-sentenced-3-years-providing-dark-web-child-porno-links-undercover-agent/">Anderson Township Man Sentenced to 3 Years for Providing Dark Web Child Porno Links to an Undercover Agent</a></p>

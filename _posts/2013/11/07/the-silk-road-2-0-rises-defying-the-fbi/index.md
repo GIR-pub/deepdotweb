@@ -7,9 +7,8 @@ title: The Silk Road 2.0 Rises: Defying the FBI
 <span>November 7, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/07/the-silk-road-2-0-rises-defying-the-fbi/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>And so it goes, the Dread Pirate Roberts has returned <a href="http://www.deepdotweb.com/2013/11/06/silk-road-2-0-is-now-officially-open/" target="_blank">As we have already reported</a>.  Perhaps, not in the form of Ross Ulbricht who currently resides behind prison bars, but in a new mysterious character who claims to be ‘DPR’.</p>
 <div id="attachment_1199" style="width: 598px" class="wp-caption aligncenter"><a href="/imgs/2013/11/silkroad20logo.jpg"><img class="size-full wp-image-1199" alt="Silk Road 2.0 Login" src="https://www.deepdotweb.com/wp-content/uploads/2013/11/silkroad20logo.jpg" width="588" height="422" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/11/silkroad20logo.jpg 949w, https://www.deepdotweb.com/wp-content/uploads/2013/11/silkroad20logo-300x216.jpg 300w" sizes="(max-width: 588px) 100vw, 588px" /></a><p class="wp-caption-text">Silk Road 2.0 Login</p></div>
 <p>Since Silk Road was taken down by the FBI for their illicit dealings at the end of October, much speculation has circulated the dark net about who will step in to fill its shoes.  There was a similar drug bazaar that began operating shortly after the first Silk Road met its doom, called Project Black Flag.  However, this operation ran aground within three weeks, and its captain jumped ship, fleeing with all of its bitcoins.  Controversy surrounds the original nature of Project Black Flag, concerning whether or not the site was intended to be a scam in the first place; however, its closing assuredly reopened the gaping hole in supply for the demand of drugs on the deep web.</p>

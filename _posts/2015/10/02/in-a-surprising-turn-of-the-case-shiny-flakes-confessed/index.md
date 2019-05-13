@@ -7,9 +7,8 @@ In a Surprising Turn Of The Case: &#8220;Shiny Flakes&#8221; Confessed
 <span>October 2, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/02/in-a-surprising-turn-of-the-case-shiny-flakes-confessed/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/2015/03/12/shiny-flakes-bust-38-houses-raided/">Do you remember the Shiny Flakes case?</a> If you don’t, let me remind you: Maximilian S. AKA Shiny Flakes has been busted early this year and the German police have found huge amounts of drugs at this stash. Since Maximilian is 20 years old, it is still a question whether he could be considered as an adult or is he considered as an underaged by the court. He both sold drugs on DNMs and clearnet (he had his own marketplace).</p>
 <p>Shiny Flakes’ trial has been going since March, 2015, he denied all the charges that have been against him, however, the case has took a quite surprising turn. According to this recent vice article in German <a href="http://motherboard.vice.com/de/read/ueberraschende-wende-im-shiny-flakes-prozess-maximilian-s-sagt-aus-555">The 20 years old ex-vendor has confessed all his crimes and told the court some other information regarding his operations that may sound interesting.</a></p>
 <p>Firstly, he described his whole drug-dealing operation as a ”strive for a perfect project”, he did not intend to deal drugs only for his enrichment. Maximilian S. has tried to make money online (starting from 2013) mostly legally, by copying fee-based porn sites, however, the competition on this part of the market is pretty strong and he finally gave up his idea. Instead of putting his 2000 Euros in porn, he decided to invest this sum in drugs. So, he bought some shrooms (the weight is unknown) and 30 grams of Cocaine from a well-known German DNM dealer and resold the drugs online.</p>

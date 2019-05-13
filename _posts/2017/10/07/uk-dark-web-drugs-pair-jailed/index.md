@@ -1,15 +1,15 @@
 ---
 UK Dark Web Drugs Pair Jailed
 ---
-<article class="post-listing post-22964 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-drugs tag-jailed tag-pair tag-uk tag-web">
+<article class="post-listing post-22964 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-dark tag-drugs tag-jailed tag-pair tag-uk tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>October 7, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/07/uk-dark-web-drugs-pair-jailed/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>&nbsp;</p>
 <p>Two drug dealers in the UK who bought and sold <a href="https://www.deepdotweb.com/2017/09/18/newport-man-admits-selling-adulterated-fentanyl-darknet/">synthetic opioid fentanyl</a> via dark web marketplaces have been handed a jail sentence adding up to 16 years.</p>
 <p>Ross Brennan and Aaron Gledhill who happen to be university friends, are believed to have accumulated over hundreds of pounds of drugs after mixing the powerful heroin substitute with other drugs. They then sold the resulting product on the dark web.</p>

@@ -7,9 +7,8 @@ Italian police Bust &#8220;Babylon&#8221; Dark Web Market
 <span>August 2, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/02/italian-police-bust-babylon-dark-web-market/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <section class="page">Italian police have shut down a Dark Web marketplace offering illegal goods ranging from child pornography to forged luncheon vouchers, and seized 11,000 bitcoin wallets worth about 1 million euros, authorities said Friday.</p>
 <p>Officials compared the marketplace discovered by “Operation Babylon” to the Silk Road online black market that was taken down by the U.S. Federal Bureau of Investigation in 2013.</p>
 <p>More than 14,000 people had signed up to the illegal community, which was allegedly run by an Italian living near Naples. There was evidence of 170,000 transaction messages on the Tor platform, which provided 12 kinds of hidden services, police said. These ranged from pornographic images to arms, drugs, false identity papers, hacker kits and credit card codes.</p>

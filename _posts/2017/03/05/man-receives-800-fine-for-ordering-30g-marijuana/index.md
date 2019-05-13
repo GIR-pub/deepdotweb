@@ -1,15 +1,15 @@
 ---
 Man Receives $800 Fine for Ordering 30g Marijuana off the Darknet
 ---
-<article class="post-listing post-18444 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18444 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 5, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/05/man-receives-800-fine-for-ordering-30g-marijuana/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In early February, Mark Stephen Shaw pleaded guilty to possession of cannabis, attempting to import a controlled substance, and possession of drug paraphernalia. These charges were the least of his concerns, the presiding judge said. On November 28, 2016, the Australia Post mail center in Greenfields, Australia, intercepted a package containing 14 grams of marijuana.</p>
 <p>At the Mandurah Magistrates Court, the police explained that the intercepted package was labeled with Shaw’s name and home address. Police seized the package and executed a Misuse of Drugs Act search warrant for Shaw&#8217;s address the same day. At his house, officers found “three bongs, a set of scales, four grams of cannabis leaf and <a href="http://www.mandurahmail.com.au/story/4468703/greenfields-man-cops-fine-for-dark-net-drugs-purchases/">three grams of cannabis-infused wax</a>.”</p>
 <p><img class="wp-image-18449 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-39.jpeg" width="905" height="678" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-39.jpeg 1280w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-39-300x225.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-39-1024x767.jpeg 1024w" sizes="(max-width: 905px) 100vw, 905px" /></p>

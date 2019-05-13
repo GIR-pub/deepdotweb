@@ -7,9 +7,8 @@ Ross Ulbricht: Found Guilty of Running Silk Road as Dread Pirate Roberts
 <span>February 4, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/04/ross-ulbricht-found-guilty-running-silk-road-dread-pirate-roberts/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Ross Ulbricht now faces life in prison for founding &amp; running the original Silk Road website. Ulbricht was charged with seven counts including: trafficking drugs on the Internet, narcotics-trafficking conspiracy, running a continuing criminal enterprise, computer-hacking conspiracy and money-laundering conspiracy. (The case is U.S. v. Ulbricht, 14-cr-068, U.S. District Court, Southern District of New York (Manhattan)).</p>
 <p>After nearly four hours of deliberation, the jury found Ulbricht guilty on all seven counts, He will be sentenced on 30 May and could face between 20 years and life in prison.</p>
 <p>During its two-year life (2011 &#8211; 2013), Silk Road &#8211; which could only be accessed through the Tor web browser &#8211; grew to become the biggest illegal drug market on the internet, allegedly earning its owner millions of dollars in commission.</p>

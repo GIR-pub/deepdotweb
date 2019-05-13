@@ -1,15 +1,15 @@
 ---
 Malaysian Pilot Tests Positive for Darknet Related Drug in Indonesia
 ---
-<article class="post-listing post-24456 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-drug tag-indonesia tag-malaysian tag-pilot tag-positive tag-related tag-tests">
+<article class="post-listing post-24456 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-darknet tag-drug tag-indonesia tag-malaysian tag-pilot tag-positive tag-related tag-tests">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>January 17, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/17/malaysian-pilot-tests-positive-darknet-related-drug-indonesia/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a id="post-24456-_gjdgxs"></a> The random drug test conducted at the Indonesian airports by the ministry and the National Narcotics Agency (BNN) has begun to show positive signs fishing out the drug offenders. The Indonesian authorities on December 30, 2017 arrested a <a href="about:blank">Malaysian pilot for testing positive for Darknet related drug</a> called methamphetamine.</p>
 <p>During one of their routine checks aimed to prevent dangers through a random test on pilots and crews, authorities at the Batam’s Hang Nadim International Airport arrested the Malaysian pilot.</p>
 <p>The National Narcotic Agency of Indonesia in 2017 also arrested a co-pilot who tested positive for a urine test conducted among 94 crews at the Jakarta’s Soekarno-Hatta International Airport.</p>

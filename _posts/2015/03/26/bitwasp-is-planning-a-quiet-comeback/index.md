@@ -7,9 +7,8 @@ Can Bitwasp Make a Comeback? Maybe.
 <span>March 26, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/26/bitwasp-is-planning-a-quiet-comeback/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><span style="text-decoration: underline;"><em>Brought to our attention by Fred Rico &#8211; Computer Engineering Graduate from Europe currently working in the computer industry, who took the project of resurrecting Bitwasp (Open source marketplace software designed to use Bitcoin which was used by several failed markets over the past year):</em></span></p>
 <p><strong>Warning</strong>: Do NOT use any current version of Bitwasp to a live market &#8211; you <strong>WILL</strong> get hacked and lost all your BTC, as he have seen many times before.</p>
 <p>In recent days the news of yet another marketplace or exchange losing millions of dollars worth of users Bitcoins catapults Bitcoins into the mass media yet again for the wrong reasons.</p>

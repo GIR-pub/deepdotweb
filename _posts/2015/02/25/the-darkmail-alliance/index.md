@@ -7,9 +7,8 @@ The Darkmail Alliance
 <span>February 25, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/02/25/the-darkmail-alliance/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>After being forced to shut down his service in order to <a href="http://en.wikipedia.org/wiki/Lavabit" target="_blank">not hand over user data</a>, Lavabit founder Ladar Levison teamed up with Mike Janke and Jon Callas, the CEO and CTO of <a href="https://silentcircle.com/" target="_blank">Silent Circle</a>. They also shut down their email service out of fear of being forced to <a href="http://www.forbes.com/sites/parmyolson/2013/08/09/encryption-app-silent-circle-shuts-down-e-mail-service-to-prevent-spying">hand over user data</a> to authorities. They together have formed ‘<a href="http://darkmail.info/">The Darkmail Technical Alliance</a>’ along with Phil Zimmerman, the man who brought PGP encryption to the masses.</p>
 <p>The mission aim is to create a Darkmail Protocol. A new email protocol that’s end-to-end encrypted and all that an outside observer can see is the size of the email.</p>
 <p>The Darkmail Whitepaper can be found here (<a href="https://darkmail.info/downloads/dark-internet-mail-environment-december-2014.pdf">WhitePaper</a>) the project is known collectively as Dark Internet Mail Environment (DIME). The Source code for DIME-Integrated Lavabit: <a href="https://github.com/lavabit/">Lavabit SourceCode</a></p>

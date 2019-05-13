@@ -1,15 +1,15 @@
 ---
 Austrian Sentenced For Narcotics Trafficking
 ---
-<article class="post-listing post-18430 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-austrian tag-narcotics tag-sentenced tag-trafficking">
+<article class="post-listing post-18430 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-austrian tag-narcotics tag-sentenced tag-trafficking">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 4, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/04/austrian-sentenced-narcotics-trafficking/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 20-year-old from Amstetten, Austria was <a href="http://www.noen.at/niederoesterreich/chronik-gericht/bezirk-amstetten-20-jaehriger-liess-sich-drogen-per-post-liefern/36.905.748">sentenced</a> for ordering drugs from the dark net.</p>
 <p><img class="wp-image-18435 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/http-images03-noen-at-440_0008_6832093_noe07chr_.jpeg" alt="" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/http-images03-noen-at-440_0008_6832093_noe07chr_.jpeg 640w, https://www.deepdotweb.com/wp-content/uploads/2017/02/http-images03-noen-at-440_0008_6832093_noe07chr_-300x169.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px"/></p>
 <p>According to document at the St. Pölten Regional Court, the defendant purchased speed, cannabis, hash, ecstasy, and LSD from the dark web. At first, he only ordered the narcotics for his own consumption, however, later on, he started to sell them.</p>

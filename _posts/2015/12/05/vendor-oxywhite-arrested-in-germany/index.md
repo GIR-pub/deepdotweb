@@ -7,9 +7,8 @@ Vendor &#8220;Oxywhite&#8221; Arrested in Germany
 <span>December 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/05/vendor-oxywhite-arrested-in-germany/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to <a href="http://www.bild.de/regional/koeln/razzia/razzia-wegen-medikamenten-handel-43680952.bild.html">bild.de</a> An employee of the University of Bonn was arrested during a Raid on the Bonn University Clinic, which was used according to investigators as a packaging station for his drug operation.</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/14290177190707111.png"><img class="aligncenter size-full wp-image-12477" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/14290177190707111.png" alt="1429017719070711[1]" width="1021" height="612" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/14290177190707111.png 1021w, https://www.deepdotweb.com/wp-content/uploads/2015/12/14290177190707111-300x180.png 300w" sizes="(max-width: 1021px) 100vw, 1021px"/></a></p>
 <p>The 29-year-old who was arrested Saturday afternoon is suspected of operating as  a large scale vendor of medical drugs (Lifestyle-Apotheke, Lifestyle-Pharmacy).</p>

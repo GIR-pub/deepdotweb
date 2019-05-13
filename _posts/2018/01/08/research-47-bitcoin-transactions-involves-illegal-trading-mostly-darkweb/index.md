@@ -1,15 +1,15 @@
 ---
 Research: 47% Of All Bitcoin Transactions Involves Illegal Trading Mostly On ‘Darkweb’
 ---
-<article class="post-listing post-24330 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6227 tag-australian tag-bitcoin tag-darkweb tag-illegal tag-involves tag-reports tag-research tag-trading tag-transactions">
+<article class="post-listing post-24330 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-6227 tag-australian tag-bitcoin tag-darkweb tag-illegal tag-involves tag-reports tag-research tag-trading tag-transactions">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>January 8, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/08/research-47-bitcoin-transactions-involves-illegal-trading-mostly-darkweb/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Talis Putnins and Jonathan Karlsen, Professors at the University of Technology Business School in Sydney, together with Dr. Sean Foley from Sydney University, have been jointly working on a research whose results are shocking. In their yet to be published document ”Sex, Drugs, Darknet and Bitcoins,” the nearly half of all <a href="https://www.deepdotweb.com/2017/12/17/bitcoin-news-roundup-17-12-17/">bitcoin</a> transactions involve illegal trading either directly or indirectly on the dark web, a section of the internet that cannot be accessed using the a standard search engine.</p>
 <p>Access to the dark web is made possible via the “<a href="https://www.deepdotweb.com/2017/12/20/an-overview-of-sniper-attacks-against-the-tor-network/">Tor browser</a>” that allows the users to surf without giving away the identity of the location from where the login has taken place and hence a safe marketplace for criminals. Individual logins and all transactions are masked and not indexed.</p>
 <p>With the help of the dark web and bitcoin anonymity, Bitcoin is being used actively in buying and selling of illegal goods and services. This includes money laundering, <a href="https://www.deepdotweb.com/2017/12/18/18-12-17-dark-web-cybercrime-roundup/">cybercrime</a> activity, illegal Drugs and weapons trading, terrorism financing, human trafficking, child pornography, illegal internet and software gambling and theft of the Bitcoins themselves from their anonymous owners’ virtual wallets.</p>

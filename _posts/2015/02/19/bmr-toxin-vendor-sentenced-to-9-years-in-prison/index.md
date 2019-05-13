@@ -7,9 +7,8 @@ BMR Toxin Vendor Sentenced to 9 Years in Prison
 <span>February 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/19/bmr-toxin-vendor-sentenced-to-9-years-in-prison/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.justice.gov/usao/nj/Press/files/Korff,%20Jesse%20William%20Sentencing%20News%20Release.html" target="_blank">A Florida man was sentenced yesterday</a> to 110 months in prison for producing and selling potentially deadly toxins ricin and abrin for use as weapons and conspiring to kill a woman in the United Kingdom, U.S. Attorney Paul J. Fishman announced.</p>
 <p><a href="http://www.deepdotweb.com/2014/01/22/bmr-vendor-busted-for-selling-deadly-toxin/">Jesse William Korff</a>, 20, of Labelle, Florida, pleaded guilty before U.S. District Judge Peter G. Sheridan on Aug. 12, 2014, to an information charging him with five counts of developing, producing, transferring and possessing toxins, five counts of smuggling toxins and one count of conspiring to kill a person in a foreign country.</p>
 <p>Korff was arrested in Florida on Jan. 18, 2014, following a joint investigation by U.S. Immigration and Customs Enforcement, Homeland Security Investigations (HSI) and the FBI of Korff’s sales of toxins through an underground, Internet-based marketplace known as “Black Market Reloaded” (BMR).</p>

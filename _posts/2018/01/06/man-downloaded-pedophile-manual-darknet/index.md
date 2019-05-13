@@ -1,15 +1,15 @@
 ---
 Man Downloaded a ‘Pedophile Manual’ on the Darknet
 ---
-<article class="post-listing post-24295 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-downloaded tag-man tag-manual tag-pedophile">
+<article class="post-listing post-24295 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-darknet tag-downloaded tag-man tag-manual tag-pedophile">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/#comments">20 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Norwich Crown Court heard how 40-year-old Lee Daly had downloaded a so-called “pedophile manual” from <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a>. The man read the 170 page document, but he never acted on any of the information contained within it. Police investigators reported that he had not downloaded or viewed any child pornography either—he had simply visited a darknet child abuse site and downloaded a “guide” on pedophilia.</p>
 <p>The prosecutor, Martin Ivory, did not say why the police searched Daly’s home in the first place. However, when the police conducted a house search, they seized his tablet that contained the manual. Daly said that he had no sexual interest in children, but accessed the darknet for pornography. The adult kind. Regardless of why Daly visited <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a>, Ivory said, the man had still knowingly and intentionally read a guide on child abuse.“There was a warning on the manual setting out that it may be illegal to be in possession of such an item,” he said. “Plainly it is.”</p>
 <p><img class="wp-image-24300 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-8.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-8.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-8-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

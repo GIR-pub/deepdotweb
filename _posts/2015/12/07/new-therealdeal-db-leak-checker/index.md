@@ -7,9 +7,8 @@ TheRealDeal: Launches Free LeakDB service
 <span>December 7, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/07/new-therealdeal-db-leak-checker/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>New service launched by <a href="https://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market/">TheRealDeal</a> Team, as it was described by their admin:</p>
 <p>Available at this URL: <strong>http://leakdbxhumhnzsa7.onion</strong></p>
 <p>Our DB leak checking service service allows anyone to check whether the databases or other kind of information that they are about to purchase on the our market, or any other market for that matter, is part of the public domain and has already been leaked for free.</p>

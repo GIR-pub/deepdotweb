@@ -1,15 +1,15 @@
 ---
 French Students Arrested For the Sale Of More Than 10,000 Ecstasy Pills
 ---
-<article class="post-listing post-18582 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4937 tag-ecstasy tag-french tag-pills tag-sold tag-students">
+<article class="post-listing post-18582 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-4937 tag-ecstasy tag-french tag-pills tag-sold tag-students">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 12, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/12/french-students-arrested-sale-10000-ecstasy-pills/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Two students, Charles Bruyneel, a 22-year-old studying trade negotiations, and Arthur Basset, a 21-year-old on licensing, were <a href="http://www.lamanchelibre.fr/actualite-272541-calvados-les-etudiants-dealent-plus-de-10-000-cachets-ecstasy.html">arrested</a> for trafficking massive amounts of narcotics in Caen, France.</p>
 <p>According to police information, on October 6, 2016, a death by overdose led to an investigation resulting in the detention of the two suspects. Law enforcement authorities claim the two accused persons started trafficking <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> two years ago. Officials also added that the duo sold around 10,000 ecstasy pills and 4 kilograms of marijuana in total, making 10,000 euros in profits per year. On November 24, both of the defendants were sentenced to three years in prison (two suspended).</p>
 <p><img class="wp-image-18585 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/calvados-students-deal-with-more-than-10000-ecst.jpeg" alt="Calvados: students deal with more than 10,000 ecstasy seals" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/calvados-students-deal-with-more-than-10000-ecst.jpeg 830w, https://www.deepdotweb.com/wp-content/uploads/2017/03/calvados-students-deal-with-more-than-10000-ecst-300x145.jpeg 300w" sizes="(max-width: 830px) 100vw, 830px" /></p>

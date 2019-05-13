@@ -1,15 +1,15 @@
 ---
 Operation Dark Gold: 17th Suspect Charged for MDMA Distribution
 ---
-<article class="post-listing post-26336 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-17th tag-charged tag-dark tag-distribution tag-gold tag-mdma tag-operation tag-suspect">
+<article class="post-listing post-26336 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-17th tag-charged tag-dark tag-distribution tag-gold tag-mdma tag-operation tag-suspect">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 19, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/19/operation-dark-gold-17th-suspect-charged-for-mdma-distribution/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to <a href="https://www.justice.gov/usao-sd/pr/first-nationwide-undercover-operation-targeting-darknet-vendors-results-arrests-more-35">a press release</a> from United States Attorney Ron Parsons, a South Dakota man laundered thousands of dollars worth of Bitcoin and bought numerous packages of MDMA from darknet vendors. The defendant, John Edward Monette, 49, was charged in connection with the recent federal investigation into darknet vendors known as Operation Dark Gold.<img class="wp-image-26337 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-42.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-42.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-42-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Homeland Security Investigations, court documents revealed, caught Monette the same way they caught many of the other suspected drug dealers and money launderers during Operation Dark Gold. The original Dark Gold press release revealed that the Department of Justice had arrested 35 <a href="https://www.deepdotweb.com/tag/bust/">suspected darknet vendors</a> and associates. They revealed 16 suspects in the announcement. This announcement, published by the U.S. Attorney’s Office of the District of South Dakota, listed Monette as the seventeenth Dark Gold suspect.</p>
 <p>The Department of Justice sealed Monette&#8217;s full indictment. In its place, they released a redacted version that charged Monette with knowingly and intentionally distributing a mixture and a substance containing MDMA. The charge: conspiracy to distribute a controlled substance. MDMA is listed as a Schedule I substance by the United States Drug Enforcement Administration.</p>

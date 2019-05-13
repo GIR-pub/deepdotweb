@@ -9,9 +9,8 @@ title: Banned for a reason
 <span>October 29, 2013</span>
 <span>in <a href="http://www.deepdotweb.com/category/videos/" rel="category tag">Videos</a></span>
 <span><a href="http://www.deepdotweb.com/2013/10/29/banned-for-a-reason/#respond" title="Comment on Banned for a reason">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
     

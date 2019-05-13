@@ -7,9 +7,8 @@ Freedom Hosting: High Court grants extradition of Irishman to US
 <span>December 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/19/irish-man-behind-freedom-hosting-to-appeal-extradition-to-the-us/#comments">16 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Eric Eoin Marques (30) from Dublin is accused of setting up and administrating <a href="https://en.wikipedia.org/wiki/Freedom_Hosting">Freedom Hosting</a>, a hosting site that allowed numerous websites post videos and images of child porn. He is also accused with the advertisement and distribution of child pornography. Marques is currently planning his appeal to the Irish <a href="http://www.rte.ie/news/ireland/2015/1216/754065-eric-eoin-marques/">High Court’s decision of extraditing him</a> to the US government.</p>
 <p>According to the Federal Bureau of Investigation, Marques is believed to the “the world’s largest facilitator of child porn”. If he is extradited to the United States, where he is wanted as a criminal, he could face a life sentence in federal prison.</p>
 <p>Last year, Special Agent Brooke Donahue from the FBI flew to Ireland in the case of Marques’ extradition to the US and provided evidence of the man to the High Court. The alleged administrator of Freedom Hosting is a dual citizen of the United States and Ireland, that’s why it is easier for the government to extradite him to the US.</p>

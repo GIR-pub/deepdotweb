@@ -1,15 +1,15 @@
 ---
 Bitcoin News Roundup 14.1.18
 ---
-<article class="post-listing post-24408 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6239 tag-bitcoin tag-news tag-roundup">
+<article class="post-listing post-24408 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-6239 tag-bitcoin tag-news tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
 <span>January 14, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/14/bitcoin-news-roundup-14-1-18/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>This week’s summary of various cryptocurrency news and developments:</p>
 <h2>New developments:</h2>
 <p><strong>Microsoft temporarily stopped accepting Bitcoin payments</strong></p>

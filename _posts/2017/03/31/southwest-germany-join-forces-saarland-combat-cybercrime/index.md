@@ -1,15 +1,15 @@
 ---
 Southwest Germany To Join Forces With Saarland To Combat Cybercrime
 ---
-<article class="post-listing post-18900 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-combat tag-cybercrime tag-forces tag-germany tag-join tag-saarland tag-southwest">
+<article class="post-listing post-18900 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-combat tag-cybercrime tag-forces tag-germany tag-join tag-saarland tag-southwest">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 31, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/31/southwest-germany-join-forces-saarland-combat-cybercrime/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Southwest region and the state of Saarland seek to <a href="http://www.stimme.de/suedwesten/nachrichten/pl/Innere-Sicherheit-Kriminalitaet-Internet-Baden-Wuerttemberg-Saarland-Suedwesten-und-Saarland-wollen-Cyberkriminalitaet-bekaempfen;art19070,3812031">join forces</a> to fight against <a href="https://www.deepdotweb.com/tag/cybercrime/">cybercrime</a> in Germany.</p>
 <p>At the request of the German Press Agency, Baden-Württemberg&#8217;s Interior Minister Thomas Strobl (CDU) said that a cooperation agreement should be concluded with Saarland at the end of the week.</p>
 <p>&#8220;Cyber Criminality does not have any national borders,” Strobl said in a statement.</p>

@@ -1,15 +1,15 @@
 ---
 Cyber-Crime and Criminal Opportunities Across the Darknet
 ---
-<article class="post-listing post-18510 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-criminal tag-cybercrime tag-darknet tag-opportunities">
+<article class="post-listing post-18510 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-criminal tag-cybercrime tag-darknet tag-opportunities">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 9, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/09/cyber-crime-criminal-opportunities-across-darknet/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The recent technological advancements including the ever evolving internet, e-commerce mobile apps, innovative information technologies, social media and big-data predictive analytics have totally transformed the way we live our lives, whether at work or at home. We now communicate with each other via texting; we shop, date and bank online and we can work remotely from the comfort of our homes. Even though this indulgence can have many prominent positive influences, there exists some undesirable consequences secondary to the use of technological innovations that are essential to consider especially when crime prevention and control is concerned.</p>
 <p>More than 100 years ago, two inventions, that are presently taken for granted; the telephone and the automobile, markedly improved man&#8217;s quality of life, yet they also introduced the world to new crimes. The advent of telephony opened the door for new criminal opportunities, many of which are still existent nowadays, such as telemarketing fraud, credit card data phishing and others. Moreover, automobiles yielded new types of crimes including auto-theft and interstate smuggling of illegal merchandise and also offered new opportunities to well known crimes such as bank robbery, abduction, housebreaking and vandalism.</p>
 <p><img class="wp-image-18514 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/techno-crime-png.png" alt="Techno-crime.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/techno-crime-png.png 699w, https://www.deepdotweb.com/wp-content/uploads/2017/03/techno-crime-png-300x172.png 300w" sizes="(max-width: 699px) 100vw, 699px" /></p>

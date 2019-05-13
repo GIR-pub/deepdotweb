@@ -7,9 +7,8 @@ Liquid Sidechains and the Price of Bitcoin
 <span>October 20, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/10/20/liquid-sidechains-and-the-price-of-bitcoin/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Blockstream, a bitcoin startup with a team comprising of renowned architects of Bitcoin, cryptographers, and cypherpunk heavyweights, announced a product code named Liquid, set for release in Q1 2016. Liquid, a commercial sidechain, builds upon proposals set out in the original sidechains white paper.</p>
 <p><em>“Liquid offers instant transactions, providing a fast settlement layer for bitcoin exchanges, brokerages and other industry members.” &#8211; </em><a href="https://bitcoinmagazine.com/articles/blockstream-to-launch-first-instant-settlement-sidechain-for-bitcoin-exchanges-1444755147"><em>Bitcoin Magazine</em></a></p>
 <p>Ever since the whitepaper, Sidechains has been a much anticipated project. Mainly because it adds value to the main Bitcoin blockchain by increasing its utility for payments (amongst others), currently limited by the slow confirmation time of the Bitcoin blockchain. More importantly, the team at Blockstream is 100% committed to maintaining the fungibility of bitcoins and its censorship resistance quality. Blockstream’s team of veterans, have seen it all.</p>

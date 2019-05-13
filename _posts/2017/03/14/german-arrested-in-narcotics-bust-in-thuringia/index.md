@@ -1,15 +1,15 @@
 ---
 German Arrested In Narcotics Bust In Thuringia
 ---
-<article class="post-listing post-18613 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18613 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 14, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/14/german-arrested-in-narcotics-bust-in-thuringia/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In the summer of last year, German law enforcement authorities conducted a nationwide operation to crackdown the narcotics trade on the dark web. Within the scope of the procedure, investigators searched numerous apartments and houses. During the investigation, police <a href="http://www.thueringer-allgemeine.de/web/zgt/leben/blaulicht/detail/-/specific/Drogenhandel-im-Darknet-22-Jaehriger-aus-Suedthueringen-festgenommen-246696317">discovered</a> the illegal activities of a 22-year-old suspect from Thuringia.</p>
 <p><img class="wp-image-18618 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-8-jp.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\8.JPG" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-8-jp.jpeg 632w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-8-jp-300x116.jpeg 300w" sizes="(max-width: 632px) 100vw, 632px"/></p>
 <p>Law enforcement authorities arrested the 22-year-old from Wasungen, Germany, on Thursday. Investigators from the district of Schmalkalden-Meiningen discovered the illicit activities of the suspect. The Suhl Criminal Investigation Department tracked down the location of the 22-year-old. The reason for the further investigation was the suspicion that the defendant ordered large quantities of illicit narcotics from the dark web, police information said.</p>

@@ -1,15 +1,15 @@
 ---
 Drug Buyer Busted After Stuffing Potatoes into Hotel Bathtub
 ---
-<article class="post-listing post-25893 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bathtub tag-busted tag-buyer tag-drug tag-hotel tag-potatoes tag-stuffing">
+<article class="post-listing post-25893 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bathtub tag-busted tag-buyer tag-drug tag-hotel tag-potatoes tag-stuffing">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>June 1, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/06/01/drug-buyer-busted-after-stuffing-potatoes-into-hotel-bathtub/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>James Johnson, 30, walked out of a courtroom without a prison sentence after police in Eastleigh had arrested him for possessing 2CB and 5-MAPB during a “bizarre” five-day binge that involved women&#8217;s clothing and a bathtub filled with potatoes. During the hearing at Southampton Crown Court, Judge Peter Henry described the man&#8217;s case as “bizarre.” If nothing else, this case may have involved more raw potatoes than any darknet case covered by <a href="https://www.deepdotweb.com/">DeepDotWeb</a>.<img class="wp-image-25896 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The saga, according to Johnson, began with some darknet drug purchases. Although only ecstasy, 2CB, 5-MAPB, and marijuana received a mention, the police reportedly discovered an even larger “assortment” of psychoactive substances during Johnson&#8217;s arrest and the subsequent raid at his house. He had purchased the drugs on <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a> for a special occasion. A one-day binge with two close friends. The trio met in Johnson’s hometown and settled in at the Travelodge in Eastleigh for their night of otherworldly experiences.</p>
 <p>At some point, the one-day binge became a five-day binge and Johnson—according to descriptions from witnesses and law enforcement officers—may have truly lost touch with reality on that fifth day. A combination of sleep deprivation, ecstasy&#8217;s intense hangovers, the amphetamine-like strain caused by <a href="https://www.deepdotweb.com/tag/drugs/">substituted phenethylamines</a> could easily send someone into a temporary state of psychosis. And by all accounts, Johnson entered that state; not necessarily due to his behavior, but because he had quit his mental health medication prior to the reunion.</p>

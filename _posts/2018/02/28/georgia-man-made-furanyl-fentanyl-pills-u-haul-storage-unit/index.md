@@ -1,15 +1,15 @@
 ---
 Georgia Man Made Furanyl Fentanyl Pills in U-Haul Storage Unit
 ---
-<article class="post-listing post-24895 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fentanyl tag-furanyl tag-georgia tag-man tag-pills tag-storage tag-uhaul tag-unit">
+<article class="post-listing post-24895 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-fentanyl tag-furanyl tag-georgia tag-man tag-pills tag-storage tag-uhaul tag-unit">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 28, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/28/georgia-man-made-furanyl-fentanyl-pills-u-haul-storage-unit/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In the Gwinnett County Superior Court, Judge Kathryn Schrader sentenced 32-year-old Christopher Ramone West to 44 years in prison for pressing and distributing <a href="https://www.deepdotweb.com/tag/fentanyl/">furanyl fentanyl pills</a>. According to court documents, West had produced massive quantities of “oxycodone” pills that contained the fentanyl analogue furanyl fentanyl or the less potent opioid U-47700. The DEA found evidence that West sold the pills on <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a>, one agent told the court in his testimony. West&#8217;s financial records allegedly led back to Bitcoin transactions.<img class="wp-image-24907 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-38.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-38.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-38-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The Department of Homeland Security identified West in November 2016. They notified the Gwinnett Metro Task Force and made the task force aware of West&#8217;s activities. The Department of Homeland Security discovered that a Canadian company had been shipping massive amounts of pill binders and related material to a man in Gwinnett County, Georgia. They suspected that West had been using the materials—that served no purpose outside of pill production—to produce likely illegal pills. Given the evidence that virtually every clandestine laboratory that pumped out similar quantities of pills ended up <a href="https://www.deepdotweb.com/2017/12/02/drug-dealer-made-xanax-sold-dark-web/">producing counterfeit Xanax</a> or oxycodone pills, Homeland Security likely suspected the obvious.</p>
 <p>The Gwinnett Metro Task Force placed West under surveillance in early December 2016. Less than two months later, Gwinnett Metro Task Force agents raided West&#8217;s home in Norcross, Georgia. Likely to the surprise of the agents, the house contained very little useful evidence. During the raid, investigators “discovered evidence of the defendant being involved in the manufacture of pills but did not discover any pills or controlled substances at his apartment.” During a deeper search, investigators noticed keys to a U-Haul self storage facility on West&#8217;s keyring. They arrested West on January 27, 2017.</p>

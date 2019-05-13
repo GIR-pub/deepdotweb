@@ -7,9 +7,8 @@ Preventing the Next Multi-Million Dollar Theft
 <span>March 20, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/03/20/preventing-the-next-multi-million-dollar-theft/#comments">21 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Guest Post By Nadav Ivgi &#8211; Founder of <a href="https://www.bitrated.com/">Bitrated</a>  (Our previous interview with Nadav can be <a href="http://www.deepdotweb.com/2014/02/17/bitrated-bitcoin-arbitration-marketplace/">found here</a>)</p>
 <p>This week, a huge story broke about yet another “underground” marketplace that ran away with all user funds in escrow. Evolution, one of the biggest underground marketplaces, has now shut down after their admins pulled off one of <a href="http://www.deepdotweb.com/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">the biggest heists to date</a> &#8211; currently estimated between 40,000 BTC and <a href="http://www.deepdotweb.com/2015/03/18/interview-with-nswgreat-evolution-staff-member/">130,000</a> BTC (12 to 35 million USD).</p>
 <p>This is not the first time this has happened and unfortunately it probably won’t be the last, unless the Bitcoin community establishes (and enforces) more secure payment methods that don’t involve trusting centralized entities to hold large sums of money in escrow.</p>

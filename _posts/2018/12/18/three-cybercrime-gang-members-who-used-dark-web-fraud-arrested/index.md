@@ -1,15 +1,15 @@
 ---
 Three Cybercrime Gang Members Who Used Dark Web Fraud Arrested
 ---
-<article class="post-listing post-27605 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-cybercrime tag-dark tag-fraud tag-gang tag-members tag-web">
+<article class="post-listing post-27605 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-cybercrime tag-dark tag-fraud tag-gang tag-members tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>December 18, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/12/18/three-cybercrime-gang-members-who-used-dark-web-fraud-arrested/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Three men were recently arrested in Rochdale, Greater Manchester in England for <a href="https://www.manchestereveningnews.co.uk/news/greater-manchester-news/rochdale-police-dark-web-fraud-15480616">purchasing crucial personal data on the dark web</a> and later using the data to buy goods valued at over £1 million in local stores. According to the investigators, the cybercriminals have so far made more than 300 of such fraudulent purchases.<img class="wp-image-27608 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/12/word-image-24.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/12/word-image-24.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/12/word-image-24-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>These crimes date back to 2014 and have been taking place up to date, with the victims oblivious of the heinous acts. Personal information <a href="https://www.deepdotweb.com/2018/12/02/the-us-seeks-to-have-two-members-of-moneymafia-dark-web-gang-extradited/">bought from the dark web</a> was used to access bank accounts of innocent customers and ultimately the victim’s money for the benefit of the criminals.</p>
 <p>According to the police, bank details were used to make orders on expensive goods which were then delivered by unsuspecting couriers to specific locations in Rochdale. From there, another person then met the couriers for transporting the goods to another location, or they were transferred into another van from where the fraudsters would collect them.</p>

@@ -7,9 +7,8 @@ Convicted German Sentenced To Probation
 <span>March 1, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/01/convicted-german-sentenced-probation/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 31-year-old man from Geretsried, Germany, was <a href="https://www.merkur.de/lokales/wolfratshausen/geretsried-ort46843/amphetamine-aus-darknet-geretsrieder-31-kommt-mit-bewaehrung-davon-7382761.html">sentenced</a> to five years of probation for ordering large quantities of <a href="https://www.deepdotweb.com/tag/amphetamine/">amphetamines</a> from the dark web.</p>
 <p><a id="post-18388-_gjdgxs"></a> <img class="wp-image-18393 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/https-www-merkur-de-bilder-2017-02-09-7382761-44.jpeg" alt="" width="714" height="402" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/https-www-merkur-de-bilder-2017-02-09-7382761-44.jpeg 1000w, https://www.deepdotweb.com/wp-content/uploads/2017/02/https-www-merkur-de-bilder-2017-02-09-7382761-44-300x169.jpeg 300w" sizes="(max-width: 714px) 100vw, 714px"/></p>
 <p>In August 2015, the industrial mechanic ordered 250 grams of amphetamines from a Germany-based dark net vendor. He gave his mother’s address for delivery, which worked smoothly for the first time. However, the second package was mismarked and 95 euro cents were missing. The seller provided a legit company’s address in Dortmund as the return address. When the parcel was sent to the return address, the firm alerted law enforcement authorities. After that, police swiftly traced back the <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> to the 31-year-old suspect.</p>

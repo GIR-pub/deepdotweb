@@ -1,15 +1,15 @@
 ---
 French Banker Bought Counterfeit Euros From The Dark Web
 ---
-<article class="post-listing post-18583 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-banker tag-bought tag-counterfeit tag-dark tag-euros tag-french tag-web">
+<article class="post-listing post-18583 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-banker tag-bought tag-counterfeit tag-dark tag-euros tag-french tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 12, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/12/french-banker-bought-counterfeit-euros-dark-web/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The financial department of the SRPJ (Regional Judicial Police Service &#8211; Service Régional de Police Judiciaire in French) <a href="http://www.midilibre.fr/2017/02/18/montpellier-l-ex-banquier-se-fournissait-en-faux-billets-sur-le-darknet,1468014.php">arrested</a> a suspect for buying fake euro notes from the dark net.</p>
 <p>The defendant, a deputy director of a bank branch, who was currently on leave for training in a pilot school, was arrested at his home in Montpellier. According to police information, the suspect ordered 10 <a href="https://www.deepdotweb.com/tag/counterfeit/">counterfeit</a> euro notes (20 and 50) from the dark net. The defendant admitted that he wanted to use the fake bills to buy cannabis. However, as he discovered that the quality of the money is bad (he is an expert of the currency), he burnt nine out of the 10 notes.<img class="wp-image-18587 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/montpellier-the-former-banker-provided-himself-wi.jpeg" alt="Montpellier: the former banker provided himself with fake notes on the darknet" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/montpellier-the-former-banker-provided-himself-wi.jpeg 667w, https://www.deepdotweb.com/wp-content/uploads/2017/03/montpellier-the-former-banker-provided-himself-wi-300x150.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/montpellier-the-former-banker-provided-himself-wi-660x330.jpeg 660w" sizes="(max-width: 667px) 100vw, 667px" /></p>
 <p>During the house search, investigators seized 200 grams of <a href="https://www.deepdotweb.com/tag/marijuana/">marijuana</a>, as well as a “tiny bit” of cocaine.</p>

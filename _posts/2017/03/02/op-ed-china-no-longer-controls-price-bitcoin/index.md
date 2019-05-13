@@ -1,15 +1,15 @@
 ---
 Op-Ed: China No longer controls the price of Bitcoin
 ---
-<article class="post-listing post-18470 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-china tag-controls tag-longer tag-price">
+<article class="post-listing post-18470 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bitcoin tag-china tag-controls tag-longer tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>March 2, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/02/op-ed-china-no-longer-controls-price-bitcoin/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>For a long time, China was the elephant in the room. The influence of the 2nd largest economy on Bitcoin was unsettling, deeply misunderstood and widely discussed. 61% of the mining power that secures the Bitcoin blockchain network is based out of the mainland, and up until recently, media reports cited over 90% of Bitcoin trading volumes were on Chinese Bitcoin exchanges. The mainland has largely fueled the past 18 months of a massive bull run that topped at $1139 on Thursday January 5.</p>
 <p><img class="wp-image-18471 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/bitcoin-trading-volume-pie-chart-jpeg.jpeg" alt="Bitcoin trading volume pie chart.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/bitcoin-trading-volume-pie-chart-jpeg.jpeg 557w, https://www.deepdotweb.com/wp-content/uploads/2017/03/bitcoin-trading-volume-pie-chart-jpeg-300x209.jpeg 300w" sizes="(max-width: 557px) 100vw, 557px"/></p>
 <p>The effect of China’s dominance on Bitcoin’s volatility has been a recurring theme over the past 3 years, and on January 5 it was no different. An official PBOC <a href="http://shanghai.pbc.gov.cn/fzhshanghai/113571/3230012/index.html">statement</a> confirmed rumours of a private meeting featuring officials from China’s Central Bank (PBOC) and the largest Bitcoin exchange operators. Within 4 hours, Bitcoin shed off 20% to a $754 low.</p>

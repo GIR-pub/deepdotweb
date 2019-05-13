@@ -1,15 +1,15 @@
 ---
 Cocaine Trafficker Sentenced to Six Years in Federal Prison
 ---
-<article class="post-listing post-26553 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-26553 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 12, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/12/cocaine-trafficker-sentenced-to-six-years-in-federal-prison/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The U.S. Attorney for the Eastern District of Virginia <a href="https://www.justice.gov/usao-edva/pr/man-sentenced-prison-trafficking-cocaine-through-mail">announced</a> that convicted cocaine trafficker from Alexandria was sentenced to six years in prison for shipping cocaine across the United States for several years. The man, according to court documents, shipped cocaine to buyers across the United States who then sold the drugs to their own customers. He had also, in 2015, distributed the drug locally and to buyers in person throughout the state of Virginia.</p>
 <p>According to the announcement, David T. Coffey, 26, shipped up to 15 kilograms of cocaine to buyers using the United States Postal Service (USPS). A supplier in Texas had allegedly been providing Coffey with cocaine. The inspector in charge of the Washington Division of the U.S. Postal Inspection Service, Eric Shen, also made an announcement following Coffey’s sentence announcement. As with the majority of cases where darknet vendors and other drug dealers used the Postal Service for distribution, the United States Postal Inspection Service (USPIS) played an essential role in Coffey&#8217;s arrest.</p>
 <p>In addition to the USPIS Inspector in Charge, the Acting Special Agent in Charge for the <a href="https://www.deepdotweb.com/tag/DEA/">Drug Enforcement Administration’s</a> Washington Division (DEA), Scott W. Hoernke, joined the Eastern District of Virginia’s U.S. Attorney for the announcement. A special agent wrote the affidavit in support of Coffey’s arrest. In the affidavit and criminal complaint, the DEA Special Agent explained how USPIS Inspectors in Texas launched the investigation after intercepting two suspicious packages.</p>

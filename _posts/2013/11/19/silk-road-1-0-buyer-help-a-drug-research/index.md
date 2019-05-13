@@ -7,9 +7,8 @@ title: Silk Road 1.0 Buyer? Help a Drug Research.
 <span>November 19, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/19/silk-road-1-0-buyer-help-a-drug-research/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Was posted on reddit today:</p>
 <div>
 <div>

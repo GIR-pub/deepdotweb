@@ -1,15 +1,15 @@
 ---
 How To Configure Tor Properly
 ---
-<article class="post-listing post-24893 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-configure tag-properly tag-tor">
+<article class="post-listing post-24893 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-configure tag-properly tag-tor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
 <span>February 28, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/02/28/configure-tor-properly/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Tor is a renowned must in the anonymity field, and the first fundamental step in your fight for privacy. You could think that the only thing that you need to hide your identity while surfing the web is to download the Tor browser bundle, but this is not enough. There are, in fact, wrong behaviours that can reveal your real identity and location even if you’re using Tor, as well as tricks to keep you safe and stealth. In this article, I will explain the basics to introduce you to the Onion world, teaching you how to not get betrayed by your bad habits.</p>
 <p><img class="wp-image-24896" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-33.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-33.png 1280w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-33-300x181.png 300w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-33-1024x619.png 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
 <h2>The Tor Network</h2>

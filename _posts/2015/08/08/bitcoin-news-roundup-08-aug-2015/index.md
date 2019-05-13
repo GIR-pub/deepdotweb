@@ -7,9 +7,8 @@ Bitcoin News Roundup – 08 Aug.2015
 <span>August 8, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/08/bitcoin-news-roundup-08-aug-2015/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web </em></p>
 <p>meXBT acquires CoinRepublic as part of its planned expansion inthe Asia-Pacific region. According to Joseph Young of <a href="https://bitcoinmagazine.com/21493/leading-mexican-bitcoin-exchange-expands-singapore-acquires-coin-republic/">Bitcoin Magazine</a>, through the acquisition of Singapore-based CoinRepublic, the leading Mexican bitcoin exchange aims to capitalize on the established relationships with local banks and major financial institutions and expand its customer base. CoinRepublic’s great reputation in the Asia-Pacific region will enable meXBT to enter a new market at a slow pace and establish itself a leading bitcoin exchange in Singapore. meXBTFounder and CEO, Gabriel Miron, stated about the partnership,<em>“We see this as a first step to allowing highly efficient payments cross-border between Asia and Mexico.”</em></p>
 <p>Ethereum releases Frontier. According to <a href="http://insidebitcoins.com/news/ethereum-launches-frontier-ether-mining-begins-trading-to-follow/34124">Inside Bitcoins</a>, Frontier, the long-awaited decentralized app network tailored for developers was launched on July 30<sup>th. </sup>The new Ethereum project is a command-line-only interface developed in a Javascript environment. Developers will be able to build, test, deploy and use decentralized applications on the Ethereum blockchain. Frontier’s goal is to create an innovative decentralized Internet ecosystem achieved globally via its blockchain.</p>

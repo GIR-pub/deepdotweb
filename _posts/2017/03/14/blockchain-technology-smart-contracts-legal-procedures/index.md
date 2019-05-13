@@ -1,15 +1,15 @@
 ---
 The Blockchain Technology, Smart Contracts and Legal Procedures
 ---
-<article class="post-listing post-18615 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-blockchain tag-contracts tag-legal tag-procedures tag-smart tag-technology">
+<article class="post-listing post-18615 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-blockchain tag-contracts tag-legal tag-procedures tag-smart tag-technology">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 14, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/14/blockchain-technology-smart-contracts-legal-procedures/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A significant sum of money is spent every year in various litigation processes. Technically speaking, a significant portion of litigations can be prevented from even emerging provided that contracts, laws and policies are properly objectified. Today, the interpretation of legislations, policies and contracts yields a great deal of confusion and a myriad of ambiguities, which further complicates the process of establishment of justice. <a href="https://www.deepdotweb.com/2017/01/17/havent-smart-contracts-ended-age-classic-contract-law-yet/">Legal procedures can be greatly simplified via implementation of the blockchain technology</a>. Throughout this article, we will discuss how the blockchain technology can be utilized to simplify legal processes.</p>
 <p>Presently, law firms that utilize the blockchain technology and deal with law suits related to cryptocurrencies, which are also known as crypto-law enterprises, can convert content of various documents into hashes to deposit onto a blockchain. Given the fact that hashes stored on the blockchain can never be altered, the documents&#8217; validity can be universally confirmed in front of any court of law. Storing legal documents on the blockchain promotes the credibility and integrity of court data and legal evidence and renders tampering with such sensitive data an impossible task to achieve.</p>
 <p><img class="wp-image-18621 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/smart-contracts-png.png" alt="smart contracts.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/smart-contracts-png.png 481w, https://www.deepdotweb.com/wp-content/uploads/2017/03/smart-contracts-png-300x134.png 300w" sizes="(max-width: 481px) 100vw, 481px" /></p>

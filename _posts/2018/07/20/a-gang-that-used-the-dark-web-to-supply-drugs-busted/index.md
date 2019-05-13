@@ -1,15 +1,15 @@
 ---
 A Gang that Used the Dark Web to Supply Drugs Busted.
 ---
-<article class="post-listing post-26341 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-dark tag-drugs tag-gang tag-supply tag-web">
+<article class="post-listing post-26341 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-dark tag-drugs tag-gang tag-supply tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>July 20, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/20/a-gang-that-used-the-dark-web-to-supply-drugs-busted/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Europol has been on the frontline in the fight against dark web crimes. In its bid to acquire all the required forces, Europol recently held a <a href="https://www.deepdotweb.com/2018/06/10/europol-conference-discuss-and-share-expertise-to-tackle-dark-web-crime/">conference at its headquarters</a> and called upon law enforcing agencies from all over Europe to join hands and devise effective means of putting dark web crimes to an end. The conference brought together law enforcement agencies from 28 different counties. The Europol Dark Web Team whose role is to offer operational and technical support to law enforcement in fighting against crime in the dark web. The team supported an operation by Austrian and Spanish law enforcement, which led to the bust of a gang that used the dark web to supply synthetic drugs.<img class="wp-image-26344 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-43.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-43.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-43-300x203.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-43-290x195.jpeg 290w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>According to Europol’s press release, the gang was taken down after its joint operation with the Spanish Guardia Civil and the Austria Federal Police. The operation involved raids on six houses in Granada, Valencia, and Madrid, Spain, while only one house was raided in Austria. The raids resulted in the arrest of eight individuals who worked together to produce and supply synthetics drugs through the dark web.</p>
 <p>The gang had been operating in Spain since 2012 and had two laboratories, one in Valencia and the other in Granada. They owned a third laboratory in Amsterdam, which they used as the production center from which the gang shipped to the other two laboratories for packaging and delivery. The gang used raw materials imported from China to make new psychoactive substances (NPS), that included synthetic opioids, cannabinoids, stimulants and depressants.</p>

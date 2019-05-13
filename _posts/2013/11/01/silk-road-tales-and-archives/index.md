@@ -7,9 +7,8 @@ title: Silk Road tales and archives
 <span>November 1, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/01/silk-road-tales-and-archives/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>I have no idea who created this,  but its one amazing work putting all the pieces together of the silk road timeline &#8211; You can bet its much better than the infographics:</strong></p>
 <p>&nbsp;</p>
 <p>In the archive you can find:</p>

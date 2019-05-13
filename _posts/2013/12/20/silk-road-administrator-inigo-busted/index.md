@@ -7,9 +7,8 @@ title: Silk Road Administrator &#8220;Inigo&#8221; Busted?!
 <span>December 20, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/20/silk-road-administrator-inigo-busted/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p style="text-align: center;"><strong><span style="color: #ff0000;">Update 2 :</span> <a href="http://www.deepdotweb.com/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/" target="_blank">Warning &#8211; Sr2.0 &amp; DPR might be compromised!</a></strong></p>
 <p style="text-align: center;"><strong>Update: All this info was confirmed &#8211; The silk road moderators / admins: <strong>ANDREW MICHAEL JONES, a/k/a “Inigo,” GARY DAVIS, a/k/a “Libertas,” and PETER PHILLIP NASH, a/k/a “Samesamebutdifferent,” a/k/a “Batman73,” a/k/a “Symmetry,” a/k/a “Anonymousasshit</strong> were arrested &#8211; <a href="http://www.deepdotweb.com/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/" target="_blank">We have posted the official statements and indictments here along with more information regarding the bust</a> and updated this post with the current information.<br />
 </strong></p>

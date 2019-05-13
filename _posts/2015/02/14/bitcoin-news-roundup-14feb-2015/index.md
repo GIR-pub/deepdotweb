@@ -7,9 +7,8 @@ Bitcoin News Roundup – 14Feb. 2015
 <span>February 14, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/14/bitcoin-news-roundup-14feb-2015/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>The bitcoin may be banned in Hong Kong after the filing of more than 25 complaints over a Ponzi scheme involving bitcoins. Michelle Price and Lizzie Ko of <a href="http://in.reuters.com/article/2015/02/11/fraud-bitcoin-hongkong-idINKBN0LF12N20150211">Reuters</a> report that lawmakers Leung Yiu-chung and James To, favor bitcoin ban as MyCoin, the Hong-Kong based online platform for bitcoin trading reportedly tricked investors and went away with almost $387m. The lawmakers told Reuters that <em>“The government should clamp down on bitcoin. It’s simply not enough to just ask people to exercise caution when investing. It has to ban the circulation of such virtual currency in the market.”</em></p>
 <p>The California candidate Gavin Newsom features bitcoin in his election campaign to become California governor in 2018. According to the <a href="http://bitcoinschannel.com/gavin-newsom-accepts-donations-in-bitcoin-in-bid-for-california-governor/">Bitcoins Channel</a>, the Federal Election Commission (FEC) approved an advisory opinion regarding contributions in bitcoin and decided that Make Your Laws PAC, the organization for all political contributions, is allowed to accept bitcoin donations.</p>

@@ -1,15 +1,15 @@
 ---
 Netherlands Police Bust a Massive Darknet Vendor Under New Aliases
 ---
-<article class="post-listing post-25197 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-aliases tag-bust tag-darknet tag-massive tag-netherlands tag-police tag-vendor">
+<article class="post-listing post-25197 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-aliases tag-bust tag-darknet tag-massive tag-netherlands tag-police tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 30, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/30/netherlands-police-bust-massive-darknet-vendor-new-aliases/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Netherlands police ended the career of one of the largest darknet dealers involved in the MDMA, ecstasy, and cocaine trade. According to <a href="https://www.politie.nl/nieuws/2018/maart/16/webshops-van-online-drugshandelaren-hansa-market-definitief-gesloten.html">the official press release</a>, the four suspects were behind the vendor accounts Doug-Heffernan, Smurfs, Mr. Bubblebgum, Rubiks and DrugsGames. They shipped tens of thousands of packages across the globe, police said.<img class="wp-image-25201 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-9.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-9.png 700w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-9-300x163.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p>Raids were executed at five houses in Amsterdam and at another in Werkendam. The police seized three vehicles, drugs, bitcoin, and 3D printers. Three suspects got busted in their Amsterdam homes and one suspect caught in Werkendam. Thanks to careful planning on the police&#8217;s end, none of the suspects expected their impending incarceration. The three Amsterdam suspects had been using their computers during the raid. More specifically, the Amsterdam suspects were arrested while logged into their darknet market accounts.</p>
 <p><img class="wp-image-25202" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-10.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-10.png 700w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-10-300x163.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>

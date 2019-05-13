@@ -1,15 +1,15 @@
 ---
 Research: Intelligence extraction of Tor hidden services &#8211; A research study
 ---
-<article class="post-listing post-27076 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-research">
+<article class="post-listing post-27076 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-research">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>October 28, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/10/28/research-intelligence-extraction-of-tor-hidden-services-a-research-study/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Tor network launched in 2002, and since then, it has been under constant development with the active release of new improvements and features. One of these essential features is the &#8220;hidden services&#8221;, which enables users to securely host their content on Tor&#8217;s network. These hidden services boast the same level of privacy and anonymity offered to clients using the Tor browser. When hidden services are considered, the name resolution concept, such as DNS, does not apply. Also, hidden services cannot be indexed by search engines such as Google, Bing, Yahoo, etc. As such, only users who have obtained the address of the hidden service via out-of-band means, are able to access the service through querying the Distributed Hash Table (DHT) for the descriptor, via the onion address.</p>
 <p><a href="https://www.deepdotweb.com/2017/03/30/tor-browser-fully-anonymous-myth-reality/">Tor&#8217;s ability to offer anonymity</a> and privacy to content providers, is an essential and welcomed feature. Nonetheless, via provision of anonymity to legitimate content providers, Tor also offers means to anonymously host illegitimate services such as black markets, extremist forums, child pornography, and <a href="https://www.deepdotweb.com/2017/06/16/overview-peer-peer-p2p-botnets/">botnet C&amp;C</a>. As such, it becomes essential to safeguard legitimate content on the Tor network, while removing or blocking illegal content. This raises another concern: any process that can be used to <a href="https://www.deepdotweb.com/2017/11/16/cyber-threat-intelligence-hunting-cyber-criminals/">trace illegal content</a>, can also be used to trace the legitimate content too, which defies the basic purpose of Tor&#8217;s hidden services, as it undermines their anonymity.</p>
 <p><img class="wp-image-27081 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/10/intelligence-extraction-png.png" alt="intelligence extraction.png" /></p>

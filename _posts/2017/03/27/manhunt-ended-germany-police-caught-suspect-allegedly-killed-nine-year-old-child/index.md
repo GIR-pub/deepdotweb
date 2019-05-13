@@ -1,15 +1,15 @@
 ---
 Manhunt Ended In Germany: Police Caught The Suspect Who Allegedly Killed A Nine-year-old Child
 ---
-<article class="post-listing post-18815 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-allegedly tag-caught tag-child tag-ended tag-germany tag-killed tag-manhunt tag-nineyearold tag-police tag-suspect">
+<article class="post-listing post-18815 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-allegedly tag-caught tag-child tag-ended tag-germany tag-killed tag-manhunt tag-nineyearold tag-police tag-suspect">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 27, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/27/manhunt-ended-germany-police-caught-suspect-allegedly-killed-nine-year-old-child/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>After an intensive manhunt in Germany, on March 9, law enforcement authorities <a href="http://www.ibtimes.co.uk/german-police-arrest-teenager-murder-9-year-old-child-second-body-found-1610795">arrested</a> the man who allegedly killed a nine-year-old child and uploaded the video to a dark net site.</p>
 <p><img class="wp-image-18820 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-19.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-19.jpeg 640w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-19-300x168.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
 <p>The suspect, a 19-year-old man named Marcel Hesse, allegedly <a href="http://www.telegraph.co.uk/news/2017/03/07/german-police-hunt-child-killer-boasted-murder-dark-web1/">posted</a> a video of him murdering a nine-year-old child with a knife to the dark web. An anonymous dark net user reported the case to the police, who found the body of a nine-year-old boy hidden in a cellar on Monday evening. Investigators found the child, whose name was not disclosed due to privacy reasons, stabbed to death in the West German town of Herne. Law enforcement authorities believe that the murderer was the neighbor of the unfortunate victim.</p>

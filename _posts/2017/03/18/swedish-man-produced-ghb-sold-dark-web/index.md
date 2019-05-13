@@ -7,9 +7,8 @@ Swedish Man Produced GHB And Sold It On The Dark Web
 <span>March 18, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/18/swedish-man-produced-ghb-sold-dark-web/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A man in his 40s, from Jönköping, Sweden, <a href="http://www.jnytt.se/article/salde-knark-for-en-kvarts-miljon/">stood trial</a> before the Jönköping District Court for drug trafficking. Law enforcement authorities arrested the alleged dark net vendor at the end of last year. Now, he is being prosecuted for serious crimes.</p>
 <p>According to the indictment, the prosecutor submitted to the Jönköping District Court on March 2, the man was arrested just before Christmas, last year. Police detained the suspect when they were performing a “house check” on the alleged dark net vendor, according to court information. It is unclear whether house check means a random inspection on a specific person or a home search with a warrant in the current context.</p>
 <p>When law enforcement authorities searched the home of the suspect, they found various kinds of <a href="https://www.deepdotweb.com/tag/narcotics/">narcotics</a> and doping agents. Investigators seized 80 tablets of methandienone, 27 tablets of Mesterolone, 193 methyltestosterone tablets, 50 clomiphene tablets, a vial of HCG (Human chorionic gonadotropin), and a vial of testosterone enanthate. Clomiphene is a medication used to treat infertility in women who do not ovulate, while HCG is a hormone produced by the placenta after implantation. The other substances are steroids, commonly used by bodybuilders, and by athletes who are trying to gain advantage by cheating their way through competitions.</p>

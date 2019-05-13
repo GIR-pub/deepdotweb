@@ -1,15 +1,15 @@
 ---
 Blocktix : Decentralized Network for Event Hosting &#038; Ticketing Using Ethereum&#8217;s Blockchain
 ---
-<article class="post-listing post-18740 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-blockchain tag-blocktix tag-decentralized tag-ethereums tag-event tag-hosting tag-network tag-ticketing">
+<article class="post-listing post-18740 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-blockchain tag-blocktix tag-decentralized tag-ethereums tag-event tag-hosting tag-network tag-ticketing">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 22, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/22/blocktix-decentralized-network-event-hosting-ticketing-using-ethereums-blockchain/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://blocktix.io/public/doc/blocktix-wp-draft.pdf">Blocktix</a> is a novel, decentralized platform for ticket distribution and event hosting. The platform operates via Ethereum&#8217;s smart contracts, which enable verification of authentic tickets rendering it almost impossible to counterfeit them.</p>
 <p>Blocktix is aimed at providing a decentralized network for distribution and sales of tickets. Individuals as well as companies can buy and sell tickets via means of cryptographic digital signatures stored on Ethereum&#8217;s blockchain. Via this approach, Blocktix simplifies the process of selling and buying of tickets and omits the need for centralized servers. Accordingly, either parties can enjoy the lowest possible fees and downtime due to the decentralized nature of the network.</p>
 <p>Any individual who owns sufficient tokens can arrange events and sell its tickets online without having to worry about any of the complexities that are usually encountered. Blocktix offers a friendly user interface for management of smart contracts, thus, offering their intuitive capabilities to the public through an innovative application. The great thing about this approach is that it alleviates the complexity that associates interacting with smart contracts, while providing an added security layer which minimizes the possibility of malicious or fraudulent activities due to the standardization of smart contracts.</p>

@@ -1,15 +1,15 @@
 ---
 Playpen Member Guilty of Receiving Child Pornography
 ---
-<article class="post-listing post-22899 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-child tag-guilty tag-member tag-playpen tag-pornography tag-receiving">
+<article class="post-listing post-22899 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-child tag-guilty tag-member tag-playpen tag-pornography tag-receiving">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 3, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/03/playpen-member-guilty-receiving-child-pornography/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On September 19, Acting United States Attorney <a href="https://www.justice.gov/usao-mdfl/pr/jacksonville-man-guilty-downloading-sexual-abuse-videos-and-images-using-dark-web">W. Stephen Muldrow announced</a> that a 41-year-old Jacksonville man had been found guilty of receiving images of child abuse from the darknet. The charge and subsequent guilty verdict connected to activity on <a href="https://www.deepdotweb.com/tag/playpen/">Playpen</a>, the notorious darknet “child pornography” forum.</p>
 <p>According to court documents—none of which, notably, mentioned Playpen by name—the FBI identified the defendant after seizing a darknet child pornography forum in 2015. The suspect, 41-year-old Jason Dean Barnes, had access to the forum between February 23 and March 3. After determining that Barnes had accessed child pornography and accessed the forum itself, FBI agents and other law enforcement agencies executed a search warrant at Barnes’s home in Jacksonville, Florida.</p>
 <p>During the (likely post-miranda) interview, Barnes explained that he had struggled with a “child pornography addiction” for several years. He admitted that, due to his addiction, he had accessed the <a href="https://www.deepdotweb.com/marketplace-directory/categories/discussion-forums">darknet forum</a>, searched for, shared, and downloaded illegal pictures and videos. A forensic sweep of his computer revealed that he had downloaded more than 500 illegal videos and 5,000 illegal images. Some of the content, court documents revealed, Barnes had viewed on the same day that he watched a federal search warrant unfold.</p>

@@ -7,9 +7,8 @@ title: $1M Bail for Ross Ulbrich
 <span>November 20, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/11/20/1m-bail-for-ross-ulbrich/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div>
 <div>
 <p>As was posted on Wired earlier today, and summed up in a reddit thread (http://www.reddit.com/r/SilkRoad/comments/1r11vt/1m_in_bail_for_ross_ulbricht/):</p>

@@ -1,15 +1,15 @@
 ---
 Sorting Through the Dread &#038; Olympus Drama
 ---
-<article class="post-listing post-25507 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dread tag-olympus tag-takedown">
+<article class="post-listing post-25507 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-dread tag-olympus tag-takedown">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 24, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/24/sorting-trough-the-dread-olympus-drama/#comments">26 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Update</strong>: Yesterday DeepDotWeb was contacted by both HugBunter and Olympus market and was able them to get them to contact each other to try and sort the issues between them, Olympus market admins apologized for this incident and hurting the whole DNM community and assured this will be sorted,  Hugbunter confired he talked to them and will be relaunching soon with a new design (pictures will be updated into this article within few hours)</p>
 <p><strong>Update 2</strong>: Olympus admins requested to add: <em>A day ago we were approached by someone who claimed to be close to HugBunter who offered us Dread&#8217;s source code and the onion private key. We made a mistake by accepting that offer.</em></p>
 <p><em>We never had intentions to hurt the community, but we ended up affecting the DNM community because of personal matters between us and HugBunter. We apologize for the wrong we did. We can assure anynoe we haven&#8217;t stolen any personal information or published anything about anyone. As of this writing all data we have been handed out was permanently deleted by our end.</em></p>

@@ -1,15 +1,15 @@
 ---
 Research: Using Network Investigative Techniques (NITs) to Home in on Tor Cybercriminals
 ---
-<article class="post-listing post-27441 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cybercriminals tag-home tag-investigative tag-network tag-nits tag-techniques tag-tor">
+<article class="post-listing post-27441 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-cybercriminals tag-home tag-investigative tag-network tag-nits tag-techniques tag-tor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 2, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/12/02/research-using-network-investigative-techniques-nits-to-home-in-on-tor-cybercriminals/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Network Investigative Techniques (NITs) are special forms of digital law enforcement tools that enable law enforcement agencies (LEAs) to hack into suspicious computers via the exploitation of vulnerabilities. NITs have aided in the location and identification of cybercriminals operating on various darknets where conventional investigative means proved to be useless. They play a significant role in cybercrime investigations, as well as in the national cybersecurity sphere. However, disclosure of certain NITs&#8217; codes can greatly undermine law enforcement operations relying on these codes. In many federal cases, criminal defendants tried to access NITs’ code, and courts have had to decide whether or not LEAs must disclose this code. The LEA&#8217;s emphasis on confidentiality is considerably tense when cybercriminal defendants&#8217; right to discover information to their defense is considered.</p>
 <p><a href="https://www.nyulawreview.org/wp-content/uploads/2018/10/NYULawReview-93-4-Garcha.pdf">A recently published paper</a> by the New York University School of Law presented some valuable information regarding NITs and how they have been used to convict individuals committing federal crimes on Tor.</p>
 <p><img class="wp-image-27447" src="https://www.deepdotweb.com/wp-content/uploads/2018/12/cybercrimes-png.png" alt="cybercrimes.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/12/cybercrimes-png.png 1432w, https://www.deepdotweb.com/wp-content/uploads/2018/12/cybercrimes-png-300x169.png 300w, https://www.deepdotweb.com/wp-content/uploads/2018/12/cybercrimes-png-1024x576.png 1024w" sizes="(max-width: 1432px) 100vw, 1432px" /></p>

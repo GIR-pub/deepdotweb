@@ -7,9 +7,8 @@ title: Pandora Market: Scam or just Down?
 <span>December 25, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/25/pandora-market-scam-or-just-down/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <h2 style="text-align: center;"><span style="color: #ff0000;"><span style="text-decoration: underline;">update</span>: Site is back up &#8211; We are happy that this was a false alarm! Be safe.</span></h2>
 <p>I get the feeling that we are going to have to keep this image around:</p>
 <div id="attachment_2875" style="width: 490px" class="wp-caption aligncenter"><a href="/imgs/2013/12/gone.jpg"><img class="size-full wp-image-2875" alt="We really wanted to report something about this case - but this is the only info" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/gone.jpg" width="480" height="360" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/12/gone.jpg 480w, https://www.deepdotweb.com/wp-content/uploads/2013/12/gone-300x225.jpg 300w" sizes="(max-width: 480px) 100vw, 480px"/></a><p class="wp-caption-text">We really wanted to report something about this case &#8211; but this is the only info</p></div>

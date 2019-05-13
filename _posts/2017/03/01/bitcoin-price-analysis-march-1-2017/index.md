@@ -7,9 +7,8 @@ Bitcoin Price analysis March 1 2017
 <span>March 1, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/01/bitcoin-price-analysis-march-1-2017/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Bitcoin Makes New Historical Highs</strong> &#8211; This week the price of Bitcoin continued up from last week’s $1122 to a new all time high (ATH) price across all exchanges. European exchange Bitstamp, clocked in at $1222, $55 above the $1163 high from December 2013. Soon after, price dipped back below the all time high on the 2H &#8211; 6H time frame. But, this has done little to quell optimistic hopes of a continued rally to $1400. With an ETF decision on the line, after months of delay, speculation is rife in Bitcoin forums. Bitcoin looks set to have a go at the new $1220 all time high!</p>
 <p><img class="wp-image-18461 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/all-time-high-jpeg.jpeg" alt="All time high.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/all-time-high-jpeg.jpeg 920w, https://www.deepdotweb.com/wp-content/uploads/2017/03/all-time-high-jpeg-300x168.jpeg 300w" sizes="(max-width: 920px) 100vw, 920px" /></p>
 <p>At publishing last week’s analysis, price was hovering below $1127, after $1140 resistance pushed back. A shallow dip to $1127 followed, forming a firm base for a brief correction. The trend picked up again from this bottom, pushing past $1140, and rising sharply to break the December 2013 high, to a record $1220 historical high. Price was unable to hold above the ATH and fell to $1095 within a short span of 12 hours. Hardly surprising.</p>

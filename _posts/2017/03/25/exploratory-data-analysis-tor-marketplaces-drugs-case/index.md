@@ -1,15 +1,15 @@
 ---
 Exploratory Data Analysis for Tor Marketplaces &#8211; The Drugs&#8217; Case
 ---
-<article class="post-listing post-18787 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analysis tag-case tag-data tag-drugs tag-exploratory tag-marketplaces tag-tor">
+<article class="post-listing post-18787 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-analysis tag-case tag-data tag-drugs tag-exploratory tag-marketplaces tag-tor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 25, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/25/exploratory-data-analysis-tor-marketplaces-drugs-case/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The world of anonymous marketplaces represents a novel channel for black markets, which offer a wide variety of illegal merchandize. For most marketplaces on the darknet, the overall incidence of sales is still not comparable with the sales incidence of similar physical markets. Nevertheless, given the fact that it reflects an essential trade channel, offering opportunities to new as well as old forms of illegal merchandize to customers worldwide, trading on darknet marketplaces should be thoroughly studied via means of conventional crawling and data analysis, to determine new trends in the trading of illegal goods, whether physical or digital, new drugs and alternative ways for importing socially dangerous merchandize e.g. drugs, weapons&#8230;.etc.</p>
 <p><a href="https://link.springer.com/chapter/10.1007/978-3-319-51064-4_18">A recently published paper</a> presented a method for crawling, and manipulation of data for analyzing trading of illicit drugs on such marketplaces. The paper focused the analysis on <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">AlphaBay</a>, <a href="https://www.deepdotweb.com/2016/01/04/east-india-company-another-exit/">East India Company</a> and <a href="https://www.deepdotweb.com/2015/12/16/nucleus-issues-possible-exit-scam/">Nucleus</a> (Nucleus is gone now) and demonstrated how to perform preliminary drug investigation on basis of exploratory data analysis.</p>
 <p>Currently, there are over 20 anonymous marketplaces that are active on the dark web, which is part of the deep web. Practically, anonymous marketplaces are usually implemented in the form of hidden web services on the Tor network. Darknet marketplaces usually operate via a model similar to that of eBay, with three actors; sellers, buyers and marketplace administrators who take a 5-10% percentage off of each trade for providing the online platform, the escrow service and the framework of rules that regulate all activities taking place on the marketplace. As per the data published by the Global Drug Survey, online marketplaces account for a small cut of the overall illicit drug sales, despite the fact that they are growing at an accelerating rate and yearly sales grew from approximately $15-17 million in 2012 to $150-180 million in 2015.</p>

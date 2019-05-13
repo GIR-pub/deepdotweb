@@ -7,9 +7,8 @@ Hackers Carrying Out Largest Theft Of Customer Data In US. History Facing Prison
 <span>November 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/19/hackers-carrying-out-largest-theft-of-customer-data-in-us-history-facing-prison/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.justice.gov/opa/pr/attorney-general-and-manhattan-us-attorney-announce-charges-stemming-massive-network">Gery Shalon, Joshua Samuel Aaron, two hackers have been charged with arranging and executing massive cyber attacks against financial institutions, brokerage firms, financial news publishers in the United States.</a> This includes the largest theft of customer data from a U.S. financial institution in history, which is the U.S. Financial Sector Hacks.</p>
 <p>The two man were also charged with the manipulation of security markets, in which Ziv Orenstein, a hacker from the United States, helped them with. Shalon and Orenstein also operated illegal internet casinos and payment processors on the internet. In addition to that Shalon owned the BTC exchange portal Coin.mx. The two man were arrested by Israel Police in July, 2015. They have remained in custody, as of today, until the US. Attorney succeeds in their extradition to the United States. Aaron is on the run and wanted by the police in the US. Also, another man, Anthony R. Murgio, has been charged with the operation of Coin.mx in the United States. Such as Shalon and Orenstein, Murgio was arrested in July and is standing before US. court.</p>
 <p>These statements were made by the officials regarding the case:</p>

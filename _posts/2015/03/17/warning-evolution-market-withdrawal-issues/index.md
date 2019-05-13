@@ -7,9 +7,8 @@ Warning: Evolution Market Withdrawal Issues
 <span>March 17, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/17/warning-evolution-market-withdrawal-issues/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Updates will be added to this tag: <a href="http://www.deepdotweb.com/tag/evoscam/">#Evoscam</a></p>
 <p>For the past 24 we had several report about Withdrawal issues on Evolution marketplace with BTC not being sent at all arriving after 18  &#8211; 24 hours. The only update from evolution admins was posted yesterday by Kimble, saying:</p>
 <blockquote><p>&#8220;I&#8217;m very sorry about the delays. There&#8217;s currently a backlog on withdrawals as we are working on processing the large amounts and the quantity thereof. Please be patient, all withdrawals will be processed within the next 24 hours. Apologies for the inconvenience.&#8221;</p></blockquote>

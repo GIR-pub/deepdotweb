@@ -1,15 +1,15 @@
 ---
 Six Austrians Bought Counterfeit Notes From The Dark Web &#8211; Sentenced To Community Work
 ---
-<article class="post-listing post-18645 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-austrians tag-bought tag-community tag-counterfeit tag-dark tag-notes tag-sentenced tag-web tag-work">
+<article class="post-listing post-18645 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-austrians tag-bought tag-community tag-counterfeit tag-dark tag-notes tag-sentenced tag-web tag-work">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 16, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/16/six-austrians-bought-counterfeit-notes-dark-web-sentenced-community-work/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On Wednesday, the Wiener Neustadt Regional Court <a href="https://futurezone.at/digital-life/blueten-im-darknet-bestellt-prozess-endet-mit-diversion/249.263.781">sentenced</a> six young persons, aged between 16 and 20, to community work for <a href="https://www.deepdotweb.com/2016/11/24/amstetten-drug-addict-bought-narcotics-and-counterfeit-money-from-dark-web/">buying counterfeit euro notes from the dark web</a>. The prosecutor charged them with counterfeiting, or with the possession and transfer of the banknotes.</p>
 <p><img class="wp-image-18651 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-12-j.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\12.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-12-j.jpeg 626w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-12-j-300x169.jpeg 300w" sizes="(max-width: 626px) 100vw, 626px"/></p>
 <p>According to official court documents, the defendants, five men, and a woman, despite their different occupations (students, interns, one of them was already working), were “well-kept” by their parents. The suspects bought the counterfeit euro notes to cover their narcotics dependencies.</p>

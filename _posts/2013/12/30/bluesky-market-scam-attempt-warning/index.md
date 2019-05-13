@@ -7,9 +7,8 @@ title: BlueSky Marketplace Scam Attempt Warning
 <span>December 30, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/30/bluesky-market-scam-attempt-warning/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong><span style="text-decoration: underline;">Update</span></strong>:  <strong>Apparently the blue sky marketplace admins suggested it was a misunderstanding. and OP was updated so the issue was solved. Reddit post of the admins:</strong></p>
 <p><a href="/imgs/2013/12/bsupdate.png"><img class="aligncenter  wp-image-3048" alt="bsupdate" src="https://www.deepdotweb.com/wp-content/uploads/2013/12/bsupdate.png" width="659" height="307" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/12/bsupdate.png 895w, https://www.deepdotweb.com/wp-content/uploads/2013/12/bsupdate-300x140.png 300w" sizes="(max-width: 659px) 100vw, 659px"/></a></p>
 <p><strong> Op confirming the mistake:</strong></p>

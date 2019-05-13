@@ -7,9 +7,8 @@ East India Market Hacked &#8211; 30 BTC Gone
 <span>August 9, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/09/east-india-market-hacked-30-btc-gone/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Its been a while since last time&#8230; But it appears that <a href="https://www.deepdotweb.com/marketplace-directory/listing/east-india-company">East India Company</a> &#8211; One of the newer markets, got hacked, homepage now displays this message:</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/08/easthacked.png"><img class="aligncenter  wp-image-11225" src="https://www.deepdotweb.com/wp-content/uploads/2015/08/easthacked.png" alt="easthacked" width="1199" height="513" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/08/easthacked.png 1900w, https://www.deepdotweb.com/wp-content/uploads/2015/08/easthacked-300x128.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/08/easthacked-1024x438.png 1024w" sizes="(max-width: 1199px) 100vw, 1199px" /></a></p>
 <blockquote><p>East India Company is currently offline<br />

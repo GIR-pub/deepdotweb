@@ -1,15 +1,15 @@
 ---
 Man Used Four “Masterchef” Ecstasy Pills Every Day
 ---
-<article class="post-listing post-23021 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-day tag-ecstasy tag-man tag-masterchef tag-pills">
+<article class="post-listing post-23021 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-day tag-ecstasy tag-man tag-masterchef tag-pills">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 12, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/12/man-used-four-masterchef-ecstasy-pills-every-day/#comments">10 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Some drugs carry a reputation for being &#8220;darknet drugs.” Although the darknet catches blame for carfentanil, various ecstasy presses are the real darknet drug. An Australian court recently heard the case of a darknet drug buyer who had been caught with ecstasy pills with the logo of an internationally famous television show.</p>
 <p>Bundaberg Magistrates Court heard how 20-year-old Lachlan Allbon had ordered ecstasy pills from darknet markets, in bulk, to feed his own addiction. The ecstasy pills were not necessarily unusual pills for someone in Australia to have, even though the producer had pressed the pills with the Masterchef logo. Masterchef-pressed ecstasy pills are not quite uncommon on the darknet. And not at all in Australia.</p>
 <p><img class="alignnone wp-image-23027" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-15.png" alt="" width="792" height="449" /></p>

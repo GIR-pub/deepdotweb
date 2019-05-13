@@ -1,15 +1,15 @@
 ---
 Deutsche Telekom Responds To The Arrest Of Hacker
 ---
-<article class="post-listing post-18571 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-deutsche tag-hacker tag-responds tag-telekom">
+<article class="post-listing post-18571 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrest tag-deutsche tag-hacker tag-responds tag-telekom">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 11, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/11/deutsche-telekom-responds-to-the-arrest-of-hacker/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On Wednesday Feb 22 2017, law enforcement authorities <a href="https://motherboard.vice.com/en_us/article/police-have-arrested-a-suspect-in-a-massive-internet-of-things-attack">arrested</a> a 29-year-old British suspect at the Luton airport in London. Some suspect that the man is a hacker known as “BestBuy”, who is responsible for the massive <a href="https://www.deepdotweb.com/2016/12/05/hackers-leave-900000-germans-without-internet-two-days/">Deutsche Telekom breach</a>.</p>
 <p><img class="wp-image-18577 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-2-jp.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\2.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-2-jp.jpeg 620w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-2-jp-300x225.jpeg 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
 <p>The Federal Criminal Police Office (BKA) in Germany announced the arrest of the suspect on Thursday. The 29-year-old is charged with computer sabotage against Deutsche Telekom. According to law enforcement authorities, the police operation was a joint action between local police, British and Cypriot law enforcement agencies, with help from Europol and Eurojust.</p>

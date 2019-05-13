@@ -1,15 +1,15 @@
 ---
 Counterfeit Buyer Sentenced to Probation in Germany
 ---
-<article class="post-listing post-25140 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buyer tag-counterfeit tag-germany tag-probation tag-sentenced">
+<article class="post-listing post-25140 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-buyer tag-counterfeit tag-germany tag-probation tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 22, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/22/counterfeit-buyer-sentenced-probation-germany/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A judge at <a href="https://www.schwaebische.de/landkreis/ostalbkreis/aalen_artikel,-falschgeld-im-darknet-bestellt-_arid,10832101.html">a court in Baden-Württemberg</a> sentenced a 23-year-old to a two year suspended sentence for <a href="http://deepdotweb.com/tag/counterfeit">buying counterfeit euros on the darknet</a>. The circumstances surrounding the lenient sentence surprised even the defendant himself as he had a criminal record with 12 entries. The 12 crimes the defendant had previously committed included an almost identical counterfeit crime. &#8220;Another jam and you&#8217;re in jail,&#8221; the judge told the 23-year-old.<img class="wp-image-25143 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-27.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-27.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-27-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The court heard how the man, in January 2017, had ordered 50 euro notes from a counterfeiting workshop in Austria. He said he spent 400 euros in <a href="https://www.deepdotweb.com/tag/bitcoin/">Bitcoin</a> for the notes. (The notes were 50 euro notes.) He circulated the equivalent of 2,500 euros with counterfeit 50 notes. Like an increasing number of counterfeit buyers in Germany, he slipped up and the police caught him. The case grew even more complicated once the authorities discovered that the man had recently gotten out of prison for theft and had not gotten off probation.</p>
 <p>In March 2017, the defendant did it again. This time he had purchased 10 50-euro notes from a darknet vendor in the Netherlands. He said he had spent 200 euros for the notes. He never ended up circulating them, though; he told the court that the quality of the notes was incredibly low. Instead of circulating them or throwing them away, the man has them on his PC’s housing unit.</p>

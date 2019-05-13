@@ -1,15 +1,15 @@
 ---
 Men Charged for Fentanyl Analogue Distribution
 ---
-<article class="post-listing post-24507 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-analogue tag-charged tag-distribution tag-fentanyl tag-men">
+<article class="post-listing post-24507 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-analogue tag-charged tag-distribution tag-fentanyl tag-men">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 21, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/21/men-charged-fentanyl-analogue-distribution/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.justice.gov/usao-nj/pr/two-california-men-charged-large-scale-opioid-distribution-ring">According to U.S. Attorney William E. Fitzpatrick</a>, a Drug Enforcement Administration investigation led to the arrest and indictment of two California men for their role in a large-scale fentanyl trafficking ring. The operation resulted in the distribution of fentanyl and fentanyl analogs across the United States.</p>
 <p>The investigation began last year in August when the Drug Enforcement Administration (DEA) executed a search warrant at a residence in Monmouth County, New Jersey. Court records did not reveal any details that covered events prior to the execution of the search warrant. However, during the search of the house, investigators found approximately 300,000 cyclopropyl fentanyl pills. The DEA did not publicly identify the owner of the house or the owner’s connection to the recently indicted California men. However, the DEA reported that the pills had allegedly originated from an address in California owned by one of the suspects.</p>
 <p>The suspects—a 26-year-old from Beverly Hills named Andrew Tablack and a 43-year-old from Altadena named Stephen Durham—had allegedly been shipping massive quantities of fentanyl analogue pills to the Monmouth address. The announcement From US Attorney Fitzpatrick revealed that during the course of the investigation, New Jersey law enforcement and USPIS officers intercepted two packages containing 226,000 <a href="https://www.deepdotweb.com/tag/fentanyl">cyclopropyl fentanyl pills</a>. The US attorney announced that 26 year old Tablack had sent the pills from an address of a clandestine pill production facility in California.</p>

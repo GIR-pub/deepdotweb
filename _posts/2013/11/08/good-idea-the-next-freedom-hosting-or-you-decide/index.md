@@ -7,9 +7,8 @@ title: Good Idea, the Next Freedom Hosting, Or&#8230;? You decide.
 <span>November 8, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/08/good-idea-the-next-freedom-hosting-or-you-decide/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Posted on reddit not long ago:   http://www.reddit.com/r/DarkNetMarkets/comments/1q61bp/bad_wolf_marketplace_customizable_vendor_stores/</strong></p>
 <p>And we will be following.</p>
 <div>

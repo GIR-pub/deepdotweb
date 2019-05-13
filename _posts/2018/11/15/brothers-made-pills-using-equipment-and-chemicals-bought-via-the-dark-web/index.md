@@ -1,15 +1,15 @@
 ---
 Brothers Made Pills Using Equipment and Chemicals Bought via the Dark Web
 ---
-<article class="post-listing post-27243 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bought tag-brothers tag-chemicals tag-dark tag-equipment tag-pills tag-web">
+<article class="post-listing post-27243 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bought tag-brothers tag-chemicals tag-dark tag-equipment tag-pills tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>November 15, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/11/15/brothers-made-pills-using-equipment-and-chemicals-bought-via-the-dark-web/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Two brothers who ran a pills manufacturing business were busted and charged after a package they had ordered from a dark web vendor based in China was <a href="https://www.deepdotweb.com/2018/03/05/dealers-busted-customs-intercepted-amphetamine-package/">intercepted by customs authorities</a>. The two brothers allegedly shared duties so that one of them specialized in the chemistry of drug making while the other took care of the drug distribution operation.</p>
 <p><img class="wp-image-27251 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-25.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-25.jpeg 187w, https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-25-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-25-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-25-50x50.jpeg 50w" sizes="(max-width: 187px) 100vw, 187px" /></p>
 <p>28-year-old Evans C. Stansbery and his elder brother 30-year-old Matthew Stansbery were presented before Judge William C. Houser of the Kitsap County Superior Court where the prosecution charged them with over five counts including one of involvement in organized crime. The prosecution made arguments using information it received from witnesses who worked with the two brothers in the pills production and distribution operation.</p>

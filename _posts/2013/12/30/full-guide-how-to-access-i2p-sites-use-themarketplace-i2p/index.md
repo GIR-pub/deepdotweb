@@ -43,9 +43,8 @@ title: Full guide: How to access I2p sites &#038; Use TheMarketplace.i2p
 <span>December 30, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p style="text-align: center;"><strong>Note: TMP Does not exist anymore, but this tutorial was left as an I2P usage guide.</strong></p>
 <p style="text-align: center;"><span style="color: #ff0000;"><span style="color: #000000;">This Amazing Guide was posted on reddit by the username: <a style="color: #000000;" href="http://www.reddit.com/user/moonsh00t" target="_blank">moonsh00t</a> All The Credit goes to him!</span> &#8211; </span>As It was listed on the Guide that the License is BSD we believe it would be a great service to give this guide more publicity outside Themarketplace.i2p subreddit and that the hard to follow formatting should be fixed, so its our pleasure to reformat it (a bit) and post it here &#8211; The OP and updates can be found <a href="http://www.reddit.com/r/themarketplace/comments/1tx26z/the_marketplace_simple_guide_with_pictures_latest/" target="_blank">On This link</a></p>
 <p>&nbsp;</p>

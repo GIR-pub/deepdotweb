@@ -1,15 +1,15 @@
 ---
 One Found Guilty in Alphabay Explosives Case
 ---
-<article class="post-listing post-26588 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-case tag-explosives tag-guilty">
+<article class="post-listing post-26588 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-alphabay tag-case tag-explosives tag-guilty">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 19, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/19/one-found-guilty-in-alphabay-explosives-case/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Two men have been found not guilty In the case of <a href="https://www.deepdotweb.com/2018/07/23/three-dublin-men-accused-of-buying-explosives-on-alphabay/">three suspected Irish Republican Army (IRA) members</a> who had allegedly purchased explosives, a firearm, and ammunition on the <a href="https://www.deepdotweb.com/tag/alphabay/">Alphabay dark web marketplace</a>. The Federal Bureau of Investigation delivered the case to the Gardaí after an Alphabay user had purchased the weapons from an undercover FBI agent. Gardaí performed a controlled delivery of fake explosives, watched the men for several hours, and then arrested them later that morning.</p>
 <p>At the Special Criminal Court trial, judges convicted only Jonathan Hawthorn, a 45-year-old from Dublin. They convicted him of membership of an unlawful organization (the IRA). The prosecution had accused all three men of purchasing Semtex, a grenade, a pistol, and 100 rounds of ammunition on the <a href="https://www.deepdotweb.com/tag/darknet/">darknet</a> for activities connected to the IRA. Chief Superintendent Tom Maguire told the court that he knew the above to be true but failed to provide evidence to the court that defended his accusations.</p>
 <p>The prosecution asked the judges to “draw inferences” based on the men’s refusal to answer questions posed by law enforcement or by court officials. Justice Kennedy, when passing the verdict, said that one of the former suspects, James Geraghty, 60, had answered all questions truthfully and none of the answers had provided information that supported the chief superintendent’s accusations. The second former suspect, Donal O&#8217;Ceallaigh, 33, had refused to answer several of the questions posed by the authorities, the judge noted. However, the answers the man had provided also failed to support the belief of the chief superintendent.</p>

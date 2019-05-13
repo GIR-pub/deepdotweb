@@ -1,15 +1,15 @@
 ---
 Tabooless Chat Admin Sentenced to Prison and Therapy
 ---
-<article class="post-listing post-25696 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admin tag-chat tag-prison tag-sentenced tag-tabooless tag-therapy">
+<article class="post-listing post-25696 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-admin tag-chat tag-prison tag-sentenced tag-tabooless tag-therapy">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 14, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/14/tabooless-chat-admin-sentenced-to-prison-and-therapy/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Although the darknet chatroom “Tabooless” or “Tabooless Chat” has only <a href="https://www.deepdotweb.com/2018/04/22/german-police-busted-another-child-abuse-forum-admin/">been offline for two weeks</a>, judges at the Hechingen District Court have already sentenced one of the site’s administrators. An announcement revealed that the District Court judges had handed down a prison sentence of three and a half years to the man for distributing and possessing child abuse material.<img class="wp-image-25699 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-27.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-27.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-27-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The defendant, 50, lived a seemingly ordinary life Albstadt, Germany. According to investigators, the man was a “legendary figure in the child porn scene.” Under the name “Commander,” the Albstädter had a presence on nearly every major darknet child abuse site seized by German authorities. He bragged on <a href="https://www.deepdotweb.com/2017/08/04/bka-arrests-67-suspects-child-porn-bust/">forums such as Elysium</a> or BLP about sexually assaulting his own daughter. He even uploaded photos of the 11-year-old. He only had an administrative role on Tabooless, though.</p>
 <p>Investigators attributed this to “good moderation” and “quality uploads.” While investigating someone involved in the darknet drug arena, the authorities discovered the chatroom and soon learned, allegedly through a tipster, that “Commander” lived in or near Hannover. The tipster was most likely one of the expert witness at the trial who had transcripts of hours of conversations that took place on the site.</p>

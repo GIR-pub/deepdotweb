@@ -1,15 +1,15 @@
 ---
 Vietnam Legislators Propose Bill to Further Censor the Internet
 ---
-<article class="post-listing post-25029 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bill tag-censor tag-internet tag-legislators tag-propose tag-vietnam">
+<article class="post-listing post-25029 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bill tag-censor tag-internet tag-legislators tag-propose tag-vietnam">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 13, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/13/vietnam-legislators-propose-bill-censor-internet/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Vietnam a so-called <a href="https://www.washingtonpost.com/news/theworldpost/wp/2018/02/19/vietnam-internet/">“cybersecurity” bill</a>, which is nothing more than a piece of legislation designed to further <a href="https://www.deepdotweb.com/tag/censorship/">censor the internet</a> within the country, was made public in June of last year. The legislation in the country’s unicameral legislative body, known as the National Assembly, is expected to be voted on sometime during the summer legislative session later this year. The country is essentially a one party state, although a small number of independent politicians have been elected to the National Assembly. The Communist Party of Vietnam is seeking to exercise further control over the internet.</p>
 <p>The legislation was proposed by the Ministry of Public Security. Under the original language of the cybersecurity bill companies like Google and Facebook would have been required to obtain special licenses to operate within the country as well as open up a representative office and data centers within the country. Any site which the government asks, and any site with over 10,000 users in Vietnam, would be affected by the proposed legislation. “The earlier version required servers to be located in Vietnam, but there are opinions saying servers also handle many other activities so the bill no longer requires servers, only data. Scientists have also discussed and concluded that this is the crux of the problem,” <a href="https://e.vnexpress.net/news/news/vietnam-cuts-domestic-server-requirement-for-foreign-firms-from-cyber-security-bill-3697069.html">Minister of Public Security To Lam said</a> according to <em>VnExpress</em>.</p>
 <p>The bill also appears to call for the government to conduct bulk collection of data from Vietnamese internet users and other data that is created from within the country. “Installing domestic servers is not important, and the important point is we must be able to control all information going in and out. The government has instructed the Ministry of Defense to set up a national firewall and manage it together with the Ministry of Public Security. This way, we will be fully capable of controlling information,” Dinh The Cuong, the head of the Ministry of Defense&#8217;s Department of Information Technology said according to <em>VnExpress.</em></p>

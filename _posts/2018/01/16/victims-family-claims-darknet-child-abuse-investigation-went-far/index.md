@@ -1,15 +1,15 @@
 ---
 Victim’s Family Claims Darknet Child Abuse Investigation Went Too Far
 ---
-<article class="post-listing post-24445 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-child tag-claims tag-darknet tag-family tag-investigation tag-victims">
+<article class="post-listing post-24445 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-abuse tag-child tag-claims tag-darknet tag-family tag-investigation tag-victims">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 16, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/#comments">20 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On an October night in 2016, the two leaders of one of the largest child abuse forum on the darknet, met in Virginia and abused a four-year-old child. Records revealed that Homeland Security Investigations agents watched the Canadian man meet with his United States counterpart and enter the house. Agents arrested both men two days later. The grandmother of the four-year-old has raised questions about the events surrounding the abuse of her grandchild. She wants to know if HSI could have stopped the attack that night.</p>
 <p>Whether or not law enforcement had known what the men had planned, the questions she raised mirrored those raised by lawyers and researchers who followed the case. The investigation that targeted the men—Operation Artemis—closely resembled two other darknet child abuse forum operations: <a href="https://www.deepdotweb.com/2017/05/20/law-enforcement-arrested-900-playpen-users-worldwide/">the takedown of PlayPen</a> by the Federal Bureau of Investigations and <a href="https://www.deepdotweb.com/2016/07/20/police-infiltrated-darknet-forum-hunt-pedophiles/">the takedown of The Love Zone</a> by Taskforce Argos. Unsurprisingly, <a href="https://www.deepdotweb.com/2015/11/23/queensland-task-force-setting-up-for-catching-dark-web-pedophiles/">Taskforce Argos</a> spearheaded Operation Artemis. The investigation targeted one forum called Childs Play and, to a lesser extent, a second forum called Giftbox Exchange.</p>
 <p><img class="wp-image-24449" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-41.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-41.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-41-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

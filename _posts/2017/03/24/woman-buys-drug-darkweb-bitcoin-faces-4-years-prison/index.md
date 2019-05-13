@@ -1,15 +1,15 @@
 ---
 Woman Buys Drug From Darkweb With Bitcoin, Faces 4 Years in Prison
 ---
-<article class="post-listing post-18764 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bitcoin tag-buys tag-darkweb tag-drug tag-faces tag-prison tag-woman tag-years">
+<article class="post-listing post-18764 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bitcoin tag-buys tag-darkweb tag-drug tag-faces tag-prison tag-woman tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 24, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/24/woman-buys-drug-darkweb-bitcoin-faces-4-years-prison/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Jamie Marie Robertson, a 32-year-old woman charged for unlawful use of a communications facility, pleaded guilty in the Lubbock federal court. Robertson will face up to four years in prison for her key role in the distribution of fentanyl on the darknet, a powerful synthetic opiod analgesic that is 100 times more potent than morphine, <a href="https://www.drugabuse.gov/drugs-abuse/fentanyl">according</a> to the National Institute on Drug Abuse.</p>
 <p>For over 12 months, Sydney Caleb Lanier, the leader of the fentanyl trafficking ring cracked down by local authorities and intelligence agencies in October of 2016, acquired powerful drugs, mainly fentanyl and furanyl fentanyl from China through the dark web using bitcoin.</p>
 <p>Stocks of fentanyl acquired by Lanier were passed along to Robertson and her wife Jessica Holl, who bought fentanyl off Lanier and stored the stocks of drug in their apartment. Using their apartment as a distribution center, Robertson and Holl began to sell fentanyl to local buyers in the city of Lubbock, Texas.</p>

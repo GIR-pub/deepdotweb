@@ -1,15 +1,15 @@
 ---
 Maryland Man Gets 20 Years for Distributing Child Pornography
 ---
-<article class="post-listing post-25527 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-45 tag-child tag-distributing tag-man tag-maryland tag-pornography tag-years">
+<article class="post-listing post-25527 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-45 tag-child tag-distributing tag-man tag-maryland tag-pornography tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 27, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/27/maryland-man-gets-20-years-for-distributing-child-pornography/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 30-year-old Maryland man will spend nearly 20 years behind bars for distributing child abuse content through <a href="https://www.deepdotweb.com/tag/darknet">the darknet</a> and other file sharing programs. After release, the man will spend the remainder of his life on supervised release.</p>
 <p>In early 2017, Silver Spring resident Kevin Heiting pleaded guilty to sharing more than 100,000 child abuse photos on the darknet. DeepDotWeb, last year, <a href="https://www.deepdotweb.com/2017/02/25/maryland-man-guilty-darknet-child-porn-accusations/">covered the man&#8217;s guilty plea</a> wherein he admitted that he had more than 400,000 child abuse pictures and almost 20,000 videos on various storage devices in his house. The Federal Bureau of Investigation had already found the content on his electronic devices; the confession likely made little difference. His prison sentence, perhaps, was shortened by a modest amount.</p>
 <p>In April 2018, United States District <a href="https://www.justice.gov/usao-md/pr/silver-spring-man-sentenced-20-years-prison-distribution-child-pornography">Judge Paula Xinis sentenced Heiting</a> and almost put an end to the 2016 case. Heiting will reappear in court in July 2018 for a restitution hearing. The court will be deciding how much money Heiting will be paying the victims of child abuse portrayed in the pictures and videos he had on his laptop and other storage mediums. Although he had more than 400,000 pictures, he undoubtedly had countless pictures of the same child—his restitution will be owed to far fewer children. Some of the parents of the children will receive the money, but in most instances, the government will keep the restitution funds. Not every child in every known child abuse photograph has been identified.</p>

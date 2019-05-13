@@ -1,15 +1,15 @@
 ---
 International Hacker Pleaded Guilty Hacking 13,000 Computers
 ---
-<article class="post-listing post-18513 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5113 tag-computers tag-guilty tag-hacker tag-hacking tag-international tag-pleaded">
+<article class="post-listing post-18513 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-5113 tag-computers tag-guilty tag-hacker tag-hacking tag-international tag-pleaded">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 9, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/09/international-hacker-pleaded-guilty-hacking-13000-computers/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Newark, New Jersey, the administrator of two so-called “hacking forums” pleaded guilty to two charges from a six-count indictment. The administrator end International hacker admitted that he <a href="https://www.justice.gov/usao-nj/pr/ukrainian-citizen-admits-using-army-13000-infected-computers-loot-log-credentials-payment">committed wire fraud and aggravated identity theft</a> in New Jersey and many known and unknown locations in the United States. The hacker/admin, Sergey Vovnenko, worked with an international criminal investigation from 2010 until his arrest in 2014.</p>
 <p>He used several aliases, according to the indictment: Sergey Vovnencko,” “Tomas Rimkis,” “Flycracker,” “Flyck,” “Fly,” “Centurion,” “MUXACC1,” “Stranier,” and “Darklife.” In an international investigation, Italian law enforcement caught Vovnenko while he used the pseudonym dark life. Vovnenko landed in custody on June 13th, 2014. Italian law enforcement then begin the extradition process that he fought for more than a year. Finally, the Secret Service—the agency behind the investigation—received the suspect and began the criminal prosecution procedure.</p>
 <p><img class="wp-image-18526 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-8.png" width="998" height="466" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-8.png 1681w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-8-300x140.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-8-1024x478.png 1024w" sizes="(max-width: 998px) 100vw, 998px" /></p>

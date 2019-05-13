@@ -1,15 +1,15 @@
 ---
 Clickstream tracking of users of the Tor browser &#8211; A research paper
 ---
-<article class="post-listing post-27401 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-browser tag-clickstream tag-paper tag-research tag-tor tag-tracking tag-users">
+<article class="post-listing post-27401 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-browser tag-clickstream tag-paper tag-research tag-tor tag-tracking tag-users">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>November 28, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/11/28/clickstream-tracking-of-users-of-the-tor-browser-a-research-paper/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The growing significance of web analytics, we have been witnessing throughout the past few years, has been also accompanied by an enormous growth in the number of web users concerned about preserving their online anonymity. The Tor browser has been often considered as the best online browsing tool available, as evidenced by more than 2.5 million people using it daily. For the vast majority of Tor users, even though most of Tor&#8217;s terms and options are rather difficult to understand, they inarguably believe that the Tor browser offers them more anonymity protection than what it is actually capable of providing.</p>
 <p><a href="https://www.tandfonline.com/doi/abs/10.1080/23742917.2018.1518060">A recently published paper</a> proved that the Tor browser can provide very little privacy protection if used via its default settings. As such, to achieve near total anonymity, extra care must be exercised by users of the Tor browser. Let&#8217;s take a look at some of the ways that can be used to track the clickstream of Tor users that were presented in this paper.</p>
 <p><img class="wp-image-27404" src="https://www.deepdotweb.com/wp-content/uploads/2018/11/tor_network-clickstream-jpg-1.jpeg" alt="tor_network-clickstream.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/11/tor_network-clickstream-jpg-1.jpeg 680w, https://www.deepdotweb.com/wp-content/uploads/2018/11/tor_network-clickstream-jpg-1-300x176.jpeg 300w" sizes="(max-width: 680px) 100vw, 680px" /></p>

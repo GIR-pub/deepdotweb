@@ -1,15 +1,15 @@
 ---
 DigesTor &#8211; Comparative tool for Tor passive traffic analysis attacks
 ---
-<article class="post-listing post-26887 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analysis tag-attacks tag-comparative tag-digestor tag-passive tag-tool tag-tor tag-traffic">
+<article class="post-listing post-26887 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-analysis tag-attacks tag-comparative tag-digestor tag-passive tag-tool tag-tor tag-traffic">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>October 10, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/10/10/digestor-comparative-tool-for-tor-passive-traffic-analysis-attacks/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>With an average of around two million daily users, along with approximately 7,000 relay nodes, Tor represents the most popularly used anonymity system that evolved from a mere scientific concept to a tool used every day in the real world. Tor is designed to protect the privacy of users online via separating the origin of each connection from its destination via onion-encrypted circuits. This process cannot differentiate between honest use cases, like bypassing censorship, and illegal or malicious actions, as it promotes the anonymity of both groups similarly. Even though legal entities are motivated in deanonymization to track criminal activities, censoring entities can utilize the same techniques to detect the origin of unwanted content or websites, in order to censor the dissemination of information.</p>
 <p>The presence of successful Tor deanonymization attacks is greatly impactful, due to its widespread uses. <a href="https://link.springer.com/chapter/10.1007/978-3-319-99073-6_25">A recently published paper</a> focused on passive traffic analysis attacks, which represent a concern to members of the Tor community. Passive traffic analysis attacks deanonymize users via correlating transmission between the entry and exit nodes of onion circuits. Previous studies have shown that an autonomous system (AS)-level adversary can launch successful confirmation attacks, correlating the features of transmitted data to detect connections across the network.</p>
 <p><img class="wp-image-26888" src="https://www.deepdotweb.com/wp-content/uploads/2018/10/deanonumization-2-jpg.jpeg" alt="deanonumization 2.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/10/deanonumization-2-jpg.jpeg 680w, https://www.deepdotweb.com/wp-content/uploads/2018/10/deanonumization-2-jpg-300x176.jpeg 300w" sizes="(max-width: 680px) 100vw, 680px" /></p>

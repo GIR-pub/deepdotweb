@@ -1,15 +1,15 @@
 ---
 Police Department in Illinois Sells Seized Bitcoin on Coinbase
 ---
-<article class="post-listing post-18685 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18685 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 19, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/19/police-department-in-illinois-sells-seized-bitcoin-on-coinbase/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Police in the village of Vernon Hills, Illinois, are selling bitcoin that was seized under the civil asset forfeiture laws in joint criminal investigations with federal law enforcement agencies. The bitcoin is related to at least two ongoing criminal investigations, and are being seized. Civil asset forfeiture is a process which enables government to take property without a criminal conviction, and sometimes even without an arrest.</p>
 <p>“The Vernon Hills Police Department is currently working two active investigations in which Bitcoins were used by criminal organizations. Criminal activities involving Bitcoins are primarily focused on &#8216;darknet markets&#8217; and theft, though officials in countries such as the United States also recognize that Bitcoins can provide legitimate financial services,” Vernon Hills Police Department’s spokesman Kim Christenson said in a statement issued on February 1<sup>st</sup>, <a href="http://www.chicagotribune.com/suburbs/vernon-hills/news/ct-vhr-police-bitcoin-seized-converted-tl-0209-20170206-story.html">according to the Chicago Tribune</a>. “More information can be released once these investigations and asset forfeiture attempts have been completed,” Christenson said in the statement. The Vernon Hills Police Department has refused to share any further details of the seizure.</p>
 <p>Vernon Hills Finance Director Nikki Larson was directed by village trustees in late January to begin the process of selling over $10,000 (USD) worth of bitcoin related to a recent criminal case. “They&#8217;re used to facilitating transactions online, but because the village doesn&#8217;t have a use for bitcoins we&#8217;re recommending that the village share be accepted and then subsequently converted into U.S. currency,” Finance Director Larson told the village trustees at a January 24<sup>th</sup> meeting, <a href="http://www.chicagotribune.com/suburbs/vernon-hills/news/ct-vhr-police-bitcoin-seized-converted-tl-0209-20170206-story.html">according to the Chicago Tribune</a>. Larson also told the Chicago Tribune that Vernon Hills will likely be selling bitcoins again later this year, as Vernon Hills Police are in the final stages of another online bust.</p>

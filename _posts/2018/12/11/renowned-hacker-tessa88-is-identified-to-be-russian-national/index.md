@@ -1,15 +1,15 @@
 ---
 Renowned Hacker “tessa88” Is Identified to Be Russian National
 ---
-<article class="post-listing post-27547 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-hacker tag-identified tag-national tag-renowned tag-russian tag-tessa88">
+<article class="post-listing post-27547 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-hacker tag-identified tag-national tag-renowned tag-russian tag-tessa88">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>December 11, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/12/11/renowned-hacker-tessa88-is-identified-to-be-russian-national/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A cybersecurity firm has been carefully analyzing and researching different accounts related to a prominent hacker, whose activities negatively affected high-profile companies. The firm believes it knows the real identity of the cybercriminal involved in the heinous acts back in 2016.<img class="wp-image-27554 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/12/word-image-16.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/12/word-image-16.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/12/word-image-16-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The <a href="https://www.recordedfuture.com/tessa88-identity-revealed/">firm, Recorded Future, reports</a> that the cybercriminal was a Russian male hacker known as Maksim Donakov. The data collected from different social media accounts that Donakov used clearly connected him to the renown dark web hacker, “tessa88.” It is a big contradiction to the previous report on the public domain which stated the hacker involved in the “tessa88” activities was a Russian female.</p>
 <p>Back in 2016, when the hacker was very active, he gained a lot of attention when he tried to sell databases belonging to high-profile companies like Dropbox, LinkedIn, Twitter, Myspace and many more.</p>

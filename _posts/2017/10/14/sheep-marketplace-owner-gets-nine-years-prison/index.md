@@ -1,15 +1,15 @@
 ---
 Sheep Marketplace Owner Gets Nine Years in Prison
 ---
-<article class="post-listing post-23050 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-marketplace tag-owner tag-prison tag-sheep tag-years">
+<article class="post-listing post-23050 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-marketplace tag-owner tag-prison tag-sheep tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 14, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/14/sheep-marketplace-owner-gets-nine-years-prison/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>&nbsp;</p>
 <p>A court in the Czech Republic sentenced Tomáš Jiříkovský, the creator of the Sheep darknet marketplace, to serve nine years in prison for stealing bitcoins from the market’s users. According to the court, Jiříkovský stole bitcoin worth roughly 16 million crowns—the equivalent of $731,600 US dollars. The sentence also applies to his role as the owner of Sheep Marketplace and for illegal weapons found in his possession during his arrest.</p>
 <p>According to court spokeswoman Eva Sigmund, the judgement is not yet final and Jiříkovský still has time to appeal the sentence. During an interview after the market owner exit scammed, Jiříkovský denied any role in Sheep Marketplace administration. At most, he claimed, the market’s staff had hired him for software development.</p>

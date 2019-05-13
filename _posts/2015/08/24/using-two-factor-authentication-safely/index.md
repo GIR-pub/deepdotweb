@@ -7,9 +7,8 @@ Using Two Factor Authentication Safely
 <span>August 24, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/08/24/using-two-factor-authentication-safely/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Darknet markets would not exist without Bitcoin but theft is rampant. Exchanges protect individual accounts by providing or even requiring two factor authentication. They are safer than markets, but how do you do this when you don’t want to give up an actual phone number? There is a solution, as long as your computer has the processor and ram needed to run VirtualBox.</p>
 <p>You’re going to need the following pieces to make your untraceable two factor authentication system. First you’ll need to install VirtualBox itself, then download the gateway and workstation components of Whonix. This hardened Tor only environment is something anyone doing serious business via the darknet should be running.</p>
 <p>My VirtualBox setup:<br/>

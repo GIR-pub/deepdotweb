@@ -7,9 +7,8 @@ Bitcoin Price Analysis: December 9
 <span>December 9, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/09/bitcoin-price-analysis-december-9/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/11.jpg"><img class="aligncenter size-full wp-image-12510" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/11.jpg" alt="1" width="1131" height="693" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/11.jpg 1131w, https://www.deepdotweb.com/wp-content/uploads/2015/12/11-300x184.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/12/11-1024x627.jpg 1024w" sizes="(max-width: 1131px) 100vw, 1131px"/></a></p>
 <p>At the time of writing this, the price of bitcoin just broke out of the $380 &#8211; $ 390 resistance zone that has been pushing back on it this week. At $ 420 now, it is not a foregone conclusion that it has convincingly broken this level. From recent events, spike to $ 504 some weeks ago, it is not unusual for price breakouts to retract forming long wicks. So, it is wise to observe the formation of a complete candle on the 3 day and the 1 week chart for good measure.</p>
 <p>This chart shows the significance of price action now, where, the 200 EMA is currently supporting price, after the run up in November broke above it. Significant because the last time price was above it was in September 2014. As a long term moving average line, it is unlikely to break overnight, so price movement here might gradual and drag out.</p>

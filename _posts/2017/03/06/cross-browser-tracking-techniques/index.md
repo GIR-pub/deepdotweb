@@ -7,9 +7,8 @@ Cross Browser Tracking Techniques
 <span>March 6, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/06/cross-browser-tracking-techniques/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Web tracking has been evolving quickly. The first generation tracking technique adopts stateful, server-set identifiers, such as cookies and <a href="http://samy.pl/evercookie/">evercookie</a>. After that, the second-generation tracking technique called fingerprinting emerges, moving from stateful identifiers to stateless— i.e., instead of setting a new identifier, the second-generation technique explores stateless identifiers like plug-in versions and user agent that already exist in browsers. The second generation technique is often used together with the first to restore lost cookies. Both first and second generation tracking are constrained in a single browser, and nowadays people are developing third-generation tracking technique that tries to achieve cross-device tracking.</p>
 <p>Three researchers from Lehigh University and Washington University from St.Louis published a <a href="http://yinzhicao.org/TrackingFree/crossbrowsertracking_NDSS17.pdf">paper</a> named &#8216;(Cross-)Browser Fingerprinting via OS and Hardware Level Features&#8217;. Their idea is to fingerprint a computer along with it&#8217;s user based on many novel operating system and hardware level features such as graphics cards, CPU, audio stack and installed writing scripts along with other well discussed browser specifics (plugins, extensions, add-ons and other).</p>
 <p>In short, they use JavaScript to perform tasks that rely on corresponding OS and hardware functionalities to get the information for a fingerprint. Most novelties are a product of graphics–related tasks. Once a user visits a site with these scripts, another fingerprint is created and compared to those in the database. Many parameters are designed to work even if the user has switched browsers.</p>

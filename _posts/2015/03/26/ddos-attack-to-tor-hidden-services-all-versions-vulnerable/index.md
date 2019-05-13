@@ -7,9 +7,8 @@ Ddos attack on TOR hidden services &#8211; All Versions Vulnerable
 <span>March 26, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/26/ddos-attack-to-tor-hidden-services-all-versions-vulnerable/#comments">20 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Reported Here: <a href="https://trac.torproject.org/projects/tor/ticket/15463">https://trac.torproject.org/projects/tor/ticket/15463</a></p>
 <p>In a ticket titled as &#8220;TOR CPU load 100%. Hidden service unavailable. Maybe zero-day vulnerability like &#8220;circuit storm&#8221;. &#8221;</p>
 <p>Problem exist at all versions(0.2.5, 0.2.6, master from git) At current time few hidden services in TOR network DDOSed by this method.</p>

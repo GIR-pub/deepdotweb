@@ -1,15 +1,15 @@
 ---
 Three Darknet Vendors Busted For MDMA Sales
 ---
-<article class="post-listing post-18657 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18657 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 17, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/17/three-darknet-vendors-busted-for-mdma-sales/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Three MDMA vendors recently stood in a courtroom and heard potential prison sentences of eight years, if convicted. The three, John P., a 57-year-old, Bram V., a 27-year-old., and Thomas P., a 26-year-old sold “huge quantities of drugs through the dark web,” the prosecution claimed. The court mentioned that <a href="https://www.deepdotweb.com/2016/12/26/study-shows-mdma-netherlands-less-pure-online-locally/">Dutch MDMA </a><a href="https://www.deepdotweb.com/2016/12/26/study-shows-mdma-netherlands-less-pure-online-locally/"><em>carried</em></a><a href="https://www.deepdotweb.com/2016/12/26/study-shows-mdma-netherlands-less-pure-online-locally/"> a reputation as the best on the market</a>. These three men carried a different reputation—according to law enforcement—for their “sloppiness.”</p>
 <p>In fact, their sloppiness led to their own demise, the officer who stumbled upon the first vendor said. Since 2014, police wanted to track down the identity behind a darknet vendor profile, Holland Online. The investigation took a surprising turn, court documents said. An observant police officer noticed what he considered suspicious activity involving a car, partially based on the way the driver parked the car. <img class="wp-image-18665 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-6.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-6.jpeg 758w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-6-300x200.jpeg 300w" sizes="(max-width: 758px) 100vw, 758px" /></p>
 <p>The primary suspect, prosecutors claimed, bought and sold large amounts of drugs on the darknet. The co-defendants, too, sold on the darknet—under three different usernames. They used Amsterdam United, The Heineken and Albert Heijn, but investigators have not linked the names of the defendants to the pseudonyms. At least not beyond what the defendants called “possible coincidences.”</p>

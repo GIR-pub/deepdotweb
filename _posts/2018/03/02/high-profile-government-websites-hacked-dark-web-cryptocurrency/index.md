@@ -1,15 +1,15 @@
 ---
 High-profile Government Websites Hacked for Dark web Cryptocurrency.
 ---
-<article class="post-listing post-24927 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cryptocurrency tag-dark tag-government tag-hacked tag-highprofile tag-web tag-websites">
+<article class="post-listing post-24927 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-cryptocurrency tag-dark tag-government tag-hacked tag-highprofile tag-web tag-websites">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>March 2, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/02/high-profile-government-websites-hacked-dark-web-cryptocurrency/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Over four thousand high profile government websites have been compromised by dark web hackers on Sunday across the globe, mining virtual currency secretly, and particularly Monero.</p>
 <p><a href="https://www.deepdotweb.com/2018/01/31/how-to-anonymize-your-bitcoin-with-monero/">Monero has become one of the popular cryptocurrency</a> recently especially on the ‘dark web’&#8211; a section of the internet that can only be accessed using a special browser which is capable of anonymizing your browsing location as well as identity. Dark web criminals are taking advantage of this anonymity by <a href="https://www.deepdotweb.com/2018/02/11/courtroom-confused-suspects-bitcoin-laundering-methods/">trading illegal commodities</a>, substances and services using virtual currencies.</p>
 <p>4,275 websites including those in the U.K., the U.S., Ireland, Australian and Canada with government websites with hundreds of thousands of visitors were hacked in less than a period of four hours and unwittingly mined for <a href="https://www.deepdotweb.com/2018/02/11/cryptocurrency-news-roundup-february-11-2018/">cryptocurrency</a> exploiting a security breach. Some of the compromised websites include the United States courts online portal, the United States Information Commissioner Office; the National Health Service in the United Kingdom and the Victorian Parliament website in Australia. The attack by a cryptojacking code hit common websites which had the text-to-speech accessibility script Browsealoud for the visually impaired from Texthelp company.</p>

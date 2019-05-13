@@ -1,15 +1,15 @@
 ---
 Couple Charged With Murder After Supplying Fentanyl as Fake Oxycodone
 ---
-<article class="post-listing post-18625 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18625 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 15, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/15/couple-charged-with-murder-after-supplying-fentanyl-as-fake-oxycodone/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In late 2016, Cameron W. Johnson of Wyoming, Minnesota, overdosed on Oxycodone from the Darknet. The Oxycodone that tragically ended his life, as seen in <a href="https://www.deepdotweb.com/2016/09/23/pill-counterfeiting-lab-bust-dea-warns-fentanyls-danger/">several cases recently, was not Oxy</a>. For those less familiar with the actual drug names, Roxicodone or OxyCONTIN might paint a more vivid picture. Regardless, the 18 year-old believed he took a pill he felt familiar with. His girlfriend found him and shortly after failed resuscitation attempts and a phone call, paramedics arrived and announced that Johnson passed away.</p>
 <p>When law enforcement arrived on the scene, Johnson’s girlfriend explained the situation. Or, according to the criminal complaint, how she thought the situation unfolded. At the time, police said, she believed that two friends of hers gave the pills to her former boyfriend.</p>
 <p>Law enforcement then opened an investigation into the case. <a href="http://m.startribune.com/teen-couple-charged-in-chisago-co-with-murder-in-overdose-death-of-18-year-old/414411113/">Johnson’s toxicology report came back as positive for Fentanyl</a>. He came back positive from his position medications as well; they may have played a role in the death. Johnson took mental health medication and Xanax, his girlfriend told police. If the 18-year-old took Xanax near the time he took the fentanyl-laced oxycodone, the chance of lethal CNS depression increase drastically. <img class="wp-image-18635 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-4.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-4.jpeg 827w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-4-300x194.jpeg 300w" sizes="(max-width: 827px) 100vw, 827px"/></p>

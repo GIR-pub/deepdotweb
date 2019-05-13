@@ -1,15 +1,15 @@
 ---
 15 Years in Prison for Millionaire Weed Dealer
 ---
-<article class="post-listing post-25358 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1886 tag-dealer tag-millionaire tag-prison tag-weed tag-years">
+<article class="post-listing post-25358 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-1886 tag-dealer tag-millionaire tag-prison tag-weed tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 13, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/13/15-years-in-prison-for-millionaire-weed-dealer/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The U.S. Attorney’s Office for the District of Massachusetts <a href="https://www.justice.gov/usao-ma/pr/randolph-man-sentenced-15-years-federal-prison-marijuana-trafficking-and-money-laundering">announced</a> the sentencing of a 48-year-old man from Randolph, Massachusetts, for orchestrating a massive marijuana distribution and money laundering scheme. A federal court in Boston convicted the defendant, Michael Gordon, of possession with intent to distribute more than 2,200 pounds of marijuana. He will be spending 85 percent of the next 15 years in prison—if he behaves.</p>
 <p>Gordon&#8217;s crimes were detailed in court documents filled with evidence from the <a href="https://www.deepdotweb.com/tag/DEA/">U.S. Drug Enforcement Administration (DEA)</a>, the United States Postal Inspection Service (USPIS), and Homeland Security Investigations (HSI). Investigators found that from July 2011 to November 2014, Gordon shipped at least 2,200 pounds of marijuana from California to Boston. He then distributed the marijuana throughout Boston in what became an incredibly lucrative drug trafficking operation.</p>
 <p>The 48-year-old shipped too many packages of mail through the United States Postal Service (USPS) and Federal Express (FedEx) to handle by himself. He needed a partner. In December 2017, a U.S. District Court in Boston convicted another Randolph resident, Daphne Jean, 38, of conspiracy to distribute marijuana, possession of marijuana with intent to distribute, and laundering drug money.</p>

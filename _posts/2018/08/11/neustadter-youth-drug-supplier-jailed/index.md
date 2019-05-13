@@ -1,15 +1,15 @@
 ---
 Neustadter Youth Drug Supplier Jailed
 ---
-<article class="post-listing post-26542 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drug tag-jailed tag-neustadter tag-supplier tag-youth">
+<article class="post-listing post-26542 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-drug tag-jailed tag-neustadter tag-supplier tag-youth">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>August 11, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/11/neustadter-youth-drug-supplier-jailed/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 29-year-old responsible for large-scale drug trafficking through the darknet has been sentenced to nine years and six months in prison. The young man was <a href="https://www.infranken.de/regional/coburg/neun-jahre-und-sechs-monate-fuer-den-drogenlieferanten-der-neustadter-jugendlichen;art214,3544342">charged</a> and handed the sentence by the presiding Judge, Klaus Halves, in a German Court in Coburg district. The convict was brought to court to answer to charges on <a href="https://www.deepdotweb.com/?s=darknet+drugs">drug dealing on the deep web</a> where he operated under the username ‘Mister Drug Commander’. He is reportedly responsible for commercial drug dealing on several trading platforms on the darknet.<img class="wp-image-26543 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/image-result-for-jail.jpeg" alt="Image result for jail" width="664" height="420" /></p>
 <p>While he primarily carried out his trade through the darknet, he additionally conducted personal deliveries to customers in Germany. Judge Halves, during the sentencing expressed shock at the quality of the cocaine dealt with. Police found the man popularly known as the ‘Dutchman’ in possession of pure grade cocaine.</p>
 <p>During a search in his apartment in Bocholt, North Rhine – Westphalia, Netherlands, police seized 1,000 ecstasy tabs and about a kilogram of heroin. The man had been under police watch for some time after the arrest of six youngsters who were his customers. The six, popularly referred to in police circles as the <a href="https://www.deepdotweb.com/2018/06/19/six-teenagers-on-trial-for-darknet-distribution-operation/">‘Neustadter youth’</a>, confessed to the drug dealings giving police information that linked to the Dutch and his subsequent monitoring.</p>

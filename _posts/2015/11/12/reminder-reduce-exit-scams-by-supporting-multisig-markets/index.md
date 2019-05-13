@@ -7,9 +7,8 @@ Reminder: Reduce Exit Scams By Supporting &#8220;Multisig&#8221; Markets
 <span>November 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/12/reminder-reduce-exit-scams-by-supporting-multisig-markets/#comments">10 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>At time like these, when reliable markets decide <a href="https://www.deepdotweb.com/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">to shut down</a>, and less-reliable markets decide to exit scam with your BTC (Abraxas Exit scam and Middle Earth Apparent exit scam), its a good time to remind you about the several markets that offer Multisig transactions, for those of you who don&#8217;t know what that is, you can read about it <a href="https://en.bitcoin.it/wiki/Multisignature">here</a>, and try a few practical tutorials from <a href="https://www.deepdotweb.com/multisig-guides/">here</a> (market specific tutorial can be found on the markets who utilize Multisig transactions).</p>
 <p>By supporting Multisig markets &amp; <strong>USING</strong> the multisig option on these markets (some enable regular escrow as well) &amp; encouraging vendors to do the same, you are reducing the likelihood of exit scams and reserving yourself the option to finalize transactions even in case of a market getting shut down abruptly, from whatever reason.  No, its not 100% fool proof. But much better than regular, centralized escrow where you have no control over your funds.  <strong>The current markets who offer Multisig  transactions are:</strong></p>
 <ol>

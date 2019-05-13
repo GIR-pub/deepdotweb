@@ -7,9 +7,8 @@ Pharma Agent Buying Drugs From Darknet Markets For Testing
 <span>October 26, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/10/26/pharma-agent-buying-drugs-from-darknet-markets-for-testing/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.msn.com/en-us/money/markets/why-big-pharma-is-doing-drug-deals-on-the-dark-net/ar-BBmgSTN">Tim Ramsey, a 59 years old ex-policeman is hired by pharmaceutical companies to buy prescription drugs from DNMs (darknet markets) for test purposes.</a> He is mostly looking for pharmaceutical drugs that are either fake or made in untested labs and sold as counterfeit pills or tabs.</p>
 <p>“People are being driven by desperation to buy drugs on the darknet,’’ stated Ramsey, who is working as an operations manager at Centient, where he oversees a team of 15 computer experts who protect brands online by buying counterfeit products on the dark net.</p>
 <p>For the pharmaceutical industry, which is worth around $300 billion, the presence of the rapid-growing dark web marketplaces are seriously decreasing both the reputations and profits of pharma companies. There are people all around the world who are mostly turning into buying their prescription drugs from the dark net instead of paying for their expensive medications. This could be good for them since they are acquiring their medications for a cheaper and more affordable price, however, according to pharmaceutical companies, this could also lead to certain dangers. Bill Reid, director of global anti-counterfeiting at Eli Lilly &amp; Co made this statement regarding the case:</p>

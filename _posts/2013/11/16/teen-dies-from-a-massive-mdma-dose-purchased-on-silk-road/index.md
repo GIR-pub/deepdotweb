@@ -7,9 +7,8 @@ title: Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road
 <span>November 16, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/11/16/teen-dies-from-a-massive-mdma-dose-purchased-on-silk-road/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>As it was published by a few news sources on the UK such as the <a href="http://www.dailymail.co.uk/news/article-2507675/Patrick-McMullen-teen-died-drugs-overdose-friends-listened-Skype.html">Daily Mail</a> and <a href="http://metro.co.uk/2013/11/14/a-tragedy-of-our-times-teen-dies-while-on-skype-after-buying-drugs-from-silk-road-4187879/">Metro</a>:</p>
 <p>Quote:</p>
 <p><em><span id="ext-gen186">A teenager died of a drugs overdose in his bedroom as friends listened helplessly online over Skype, an inquest heard.</span></em></p>

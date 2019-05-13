@@ -7,9 +7,8 @@ Bitcoin Price Analysis 4th Nov
 <span>November 3, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/03/bitcoin-price-analysis-4th-nov/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/11/1.jpg"><img class="aligncenter size-full wp-image-12016" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/1.jpg" alt="1" width="1646" height="940" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/1.jpg 1646w, https://www.deepdotweb.com/wp-content/uploads/2015/11/1-300x171.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/11/1-1024x585.jpg 1024w" sizes="(max-width: 1646px) 100vw, 1646px"/></a></p>
 <p>This week was an exciting week for the Bitcoin market. Price was intent on going up, making it to a top 0f $ 423 on Western exchanges, and up to $ 442 on Chinese exchanges. The last time price was at these levels was in 2014, October, before a plunge to $160 low in late January.</p>
 <p><a href="http://www.bloomberg.com/news/articles/2015-11-02/bitcoin-is-suddenly-surging-again">Bloomberg Business</a> ran with the title &#8211; “<em>Bitcoin Is Suddenly Surging Again, and there are various theories behind the rise”</em></p>

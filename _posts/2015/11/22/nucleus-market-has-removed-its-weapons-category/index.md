@@ -7,9 +7,8 @@ Nucleus Market Has Removed Its Weapons Category
 <span>November 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/22/nucleus-market-has-removed-its-weapons-category/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/marketplace-directory/listing/nucleus-market/">Nucleus market</a>,  one of the current largest market has decided to remove its &#8220;weapons&#8221; category in light of recent terror attacks in France.  As its stated on their homepage:</p>
 <blockquote><p>Dear users, in the light of recent events in France we have decided to remove our Weapons section and we are going to disallow weapons on our Market completely. Reason is it is not very secure for us to sell weapons here anymore. Thank you for your understanding.</p></blockquote>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/11/nucleus1.png"><img class="aligncenter size-full wp-image-12310" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/nucleus1.png" alt="nucleus" width="1008" height="182" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/nucleus1.png 1008w, https://www.deepdotweb.com/wp-content/uploads/2015/11/nucleus1-300x54.png 300w" sizes="(max-width: 1008px) 100vw, 1008px"/></a></p>

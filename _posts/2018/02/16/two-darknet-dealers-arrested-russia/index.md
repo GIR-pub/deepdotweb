@@ -1,15 +1,15 @@
 ---
 Two Darknet Dealers Arrested in Russia
 ---
-<article class="post-listing post-24813 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-darknet tag-dealers tag-russia">
+<article class="post-listing post-24813 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-darknet tag-dealers tag-russia">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 16, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/16/two-darknet-dealers-arrested-russia/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Rostov-on-Don, a city in Southern Russia, the Customs Service of the Ministry of Internal Affairs captured a drug dealer who “played a key role in an international criminal organization.” Authorities arrested the “key player” drug dealer and one accomplice. The duo, an announcement said, helped supply drugs to customers spread throughout numerous regions in Russia. Along with several unknown operatives, the duo ran an “international trade network” by importing drugs into Russia from sellers on the darknet and <a href="https://www.deepdotweb.com/2017/08/03/russian-police-raid-two-dealers-online-drug-network/">redistributing them through local channels</a>.</p>
 <p>In January 2018, Russian authorities intercepted five packages from an address in Germany that contained significant quantities of drugs. The sender of the packages had addressed them to the suspects currently in custody. Inside the packages, authorities found 8 kilograms of hashish, 5 kilograms of amphetamine, 2 kilograms of marijuana, and smaller amounts of ephedrine and ecstasy pills. The police said the drugs equalled a little over $500,000. The dealer and his accomplices traded only in bitcoin, as far as authorities know, though.</p>
 <p>Russian authorities raided the house after intercepting the package. They arrested the recipient and his accomplice. They also seized 2 kilograms of “<a href="https://news.rambler.ru/crime/39046183-v-rostove-zaderzhali-dilera-prodavavshego-narkotiki-za-bitkoiny/?utm_medium=read_more&amp;utm_content=rnews&amp;utm_source=copylink&amp;updated">pre-packaged</a>” drugs of unknown specifications. “During the interrogation, one of the suspects told us where and how the drugs were sold,” a MIA source said. The customers in Russia found the dealer through darknet sites and then used bitcoin to pay the dealer. “After that, the dealers packed the drugs in bundles and sent them to customers through bookmarks,” he added. “In total, the police found 63 caches in the Rostov region, Krasnodar and Stavropol Krai. The total mass of drugs found in the caches exceeded 10 kg.”</p>

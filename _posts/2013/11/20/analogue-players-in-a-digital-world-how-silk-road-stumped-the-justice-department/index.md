@@ -7,9 +7,8 @@ title: Analogue Players In a Digital World: How Silk Road Stumped the Justice De
 <span>November 20, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/20/analogue-players-in-a-digital-world-how-silk-road-stumped-the-justice-department/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>It just so happens that the first Silk Road still has the feds stumped at best.  Even with all of their taxpayer-funded technological savvy, they still can’t seem to track drug traffickers through the Tor network, and are still hopelessly befuddled, as to why they can’t seem to follow the money trail in bitcoin transactions.</p>
 <p>Indeed, the Silk Road was taken down, the drug bazaar’s ringleader imprisoned, and several others arrested for their activities; but the interesting aspect of this case is that the US Department of Justice had to flip their investigative methods upside down.  Usually, they would be able to track these lawbreakers right down to their computers and bank accounts –but because of Tor and the blossoming bitcoin [BTC], they had to resort to those long-forgotten methods of pounding the pavement.</p>
 <p>Such as?</p>

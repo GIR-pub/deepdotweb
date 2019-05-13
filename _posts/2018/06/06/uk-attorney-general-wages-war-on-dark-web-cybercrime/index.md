@@ -1,15 +1,15 @@
 ---
 UK Attorney General Wages War on Dark Web Cybercrime
 ---
-<article class="post-listing post-25936 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attorney tag-cybercrime tag-dark tag-general tag-uk tag-wages tag-war tag-web">
+<article class="post-listing post-25936 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-attorney tag-cybercrime tag-dark tag-general tag-uk tag-wages tag-war tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>June 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/06/06/uk-attorney-general-wages-war-on-dark-web-cybercrime/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The United Kingdom’s Attorney General last week spoke out about how the government was applying the international cyberspace laws. Speaking at the Chatham House Royal Institute of International Affairs, Jeremy Wright said that cyberspace is an integral part of the international community and its law base. The UK had boundaries to comply with what behaviors were acceptable by the state in the<a href="https://www.deepdotweb.com/tag/cyber/"> cyberspace</a> arena.</p>
 <p>&nbsp;</p>
 <p><img class="wp-image-25939" src="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-14.jpeg" /></p>

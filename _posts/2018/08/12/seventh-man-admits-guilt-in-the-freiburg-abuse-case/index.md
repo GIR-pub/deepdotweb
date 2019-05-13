@@ -1,15 +1,15 @@
 ---
 Seventh Man Admits Guilt in the Freiburg Abuse Case
 ---
-<article class="post-listing post-26552 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-admits tag-case tag-freiburg tag-guilt tag-man tag-seventh">
+<article class="post-listing post-26552 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-abuse tag-admits tag-case tag-freiburg tag-guilt tag-man tag-seventh">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 12, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/12/seventh-man-admits-guilt-in-the-freiburg-abuse-case/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 33-year-old man from Spain—the seventh suspected child abuser in the Freiburg abuse case—admitted his role in the child abuse linked to the darknet chatroom “<a href="https://www.deepdotweb.com/2018/05/14/tabooless-chat-admin-sentenced-to-prison-and-therapy/">Tabooless Chat</a>” and the darknet child abuse forum “Elysium.” The man will be the last defendant on trial in this case until the mother of the victim and her partner receive final prison sentences and exhaust their appeals.<img class="wp-image-26556 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-26.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-26.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-26-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The 33-year-old admitted that he had communicated with the nine-year-old boy&#8217;s mother and her partner on darknet child abuse sites in an attempt to rape the boy. The attempts paid off as the boy&#8217;s mother and partner willingly accepted money from pedophiles in exchange for several days of access to the boy. As far as the court knows, a total of eight individuals met and raped the boy. <a href="https://www.deepdotweb.com/2018/07/25/welfare-office-allegedly-ignored-all-warning-signs-in-freiburg-abuse-case/">This information came to light</a> only after the partner of the boy&#8217;s mother, <a href="https://www.deepdotweb.com/2018/02/06/child-abuse-arrest-unveiled-lost-playpen-member/">Christian T.</a>, helped the police identify other pedophiles who had also paid to abuse the boy.</p>
 <p>Prosecutors initially <a href="https://www.deepdotweb.com/2018/06/24/two-on-trial-for-selling-son-to-pedophiles-on-the-darknet/">charged the mother of the boy</a> and the mother&#8217;s partner. They had both participated in the abuse, witnessed the abuse, created videos and pictures of the abuse, and facilitated the abuse through the darknet. Law enforcement had video evidence seized from Elysium servers and from Christian T. that implicated numerous pedophiles with identities unknown to the court. But the identities only remained a secret for a few short months before Christian T. helped the police catch the same child abusers he had once accepted money from in exchange for the nine-year-old boy.</p>

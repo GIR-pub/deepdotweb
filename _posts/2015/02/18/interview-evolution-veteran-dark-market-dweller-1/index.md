@@ -7,9 +7,8 @@ Interview: The Evolution Of a Veteran Dark Market Dweller #1
 <span>February 18, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/02/18/interview-evolution-veteran-dark-market-dweller-1/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>The first part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
 <p>&#8220;I was in college, it was 2001, and I needed a fake ID which wasn&#8217;t a piece of shit from New Jersey which I made at home with an overpriced laminate pouch.&#8221; This is the response I get from the man in a polo shirt and sweater combination which one would expect to see on a trust fund kid, sitting across from me at a restaurant table over a seafood lunch when I ask him how it was he came to take the first steps towards running a small crime empire before he hit his mid 20s.</p>
 <p>Most definitely not a trust fund kid, &#8220;Deon Twocock&#8221;, not his real name, is in his 30s and married with children these days, and is someone the author has known via other various means for a number of years; outwardly respectable despite a handful of court appearances, (despite which, he&#8217;s never spent a day in jail or prison) all flowing from activity which was not directly related to what he did get up to on dark markets.</p>

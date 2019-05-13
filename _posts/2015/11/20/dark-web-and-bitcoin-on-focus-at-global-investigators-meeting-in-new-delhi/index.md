@@ -7,9 +7,8 @@ Dark Web And Bitcoin On Focus At Global Investigators Meeting In New Delhi
 <span>November 20, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/20/dark-web-and-bitcoin-on-focus-at-global-investigators-meeting-in-new-delhi/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://gadgets.ndtv.com/internet/news/dark-web-on-the-agenda-of-global-investigators-meet-in-new-delhi-766303">The 6th Global Focal Point Conference on Asset Recovery will be hosted by Interpol in New Delhi.</a> According to the press, the main focus of the conference will be the dark web in general and Bitcoin. The Central Bureau of Investigation (CBI), India’s special police, made this statement about the dark net:</p>
 <p>”The Dark Web, which is commonly used by terror organisations and unscrupulous elements to communicate without getting intercepted by intelligence and security organisations has caused concerns in global security apparatusnet.”</p>
 <p>Devpreet Singh, the CBI’s spokesperson also added this about Bitcoin:</p>

@@ -1,15 +1,15 @@
 ---
 Connecticut Man Sentenced for Selling Meth on the Darknet
 ---
-<article class="post-listing post-25249 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-connecticut tag-darknet tag-man tag-meth tag-selling tag-sentenced">
+<article class="post-listing post-25249 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-connecticut tag-darknet tag-man tag-meth tag-selling tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 3, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/03/connecticut-man-sentenced-for-selling-meth-on-the-darknet/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The United States Attorney for the District of Connecticut announced that 26-year-old Cavan Devine of Fairfield County received <a href="https://www.justice.gov/usao-ct/pr/easton-man-sentenced-3-years-prison-using-dark-net-acquire-and-sell-meth-and-xanax">a 36 month prison sentence</a> for buying and selling methamphetamine and Xanax on the darknet. Police arrested in 2016 when an outpatient rehab clinic called the police to report Devine’s “disorderly conduct.”<img class="wp-image-25252 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Authorities forcibly took Devine to a hospital in Bridgeport for psychiatric evaluation. Not long after the ordeal, the rehab called again. Devine had returned and started a heated argument with the rehab’s manager. According to the police, Devine had entered the rehab after a prior arrest for <a href="https://www.deepdotweb.com/tag/meth/">methamphetamine possession</a>. When they arrived at the rehab, they found Devine&#8217;s girlfriend in Devine&#8217;s room gathering the man&#8217;s belongings. The police report said that the girlfriend had been crying about her boyfriend&#8217;s drug use and that she had not wanted to bring him a suitcase filled with drugs.</p>
 <p>Officers searched the luggage mentioned by Devine&#8217;s girlfriend and discovered almost 30 ounces of methamphetamine and almost 600 <a href="https://www.deepdotweb.com/tag/xanax/">Xanax pills</a>. Law enforcement then conducted a search at a hotel not far from the drug clinic. Devine had rented a room at the hotel. In the room, the police found additional methamphetamine, marijuana, a laptop, and other evidence linking Devine to drug distribution. This included items used to “process” methamphetamine, packaging, and mail.</p>

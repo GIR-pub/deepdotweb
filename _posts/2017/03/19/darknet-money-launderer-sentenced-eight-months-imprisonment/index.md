@@ -1,15 +1,15 @@
 ---
 Darknet Money Launderer Sentenced to Eight Months Imprisonment
 ---
-<article class="post-listing post-18687 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-imprisonment tag-launderer tag-money tag-months tag-sentenced">
+<article class="post-listing post-18687 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-darknet tag-imprisonment tag-launderer tag-money tag-months tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 19, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/19/darknet-money-launderer-sentenced-eight-months-imprisonment/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>George Cottrell, a man DeepDotWeb covered extensively with respect to the criminal case, received his formal sentencing in early March. In December, 2016, Cottrell pleaded not-guilty to 20 charges out of the 21-count indictment. The charges centered around fraud in general. However, money laundering charges made an appearance too. He pleaded guilty to one count of wire fraud and managed to escape all else—including attempted blackmail against the undercover FBI agents who requested Cottrell’s fraud services. District Judge Diane J. Humetewa sentenced the former UKIP aide to eight months imprisonment, subject to time served.</p>
 <p><img class="wp-image-18693 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-8.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-8.jpeg 619w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-8-300x175.jpeg 300w" sizes="(max-width: 619px) 100vw, 619px"/> And since FBI agents arrested the 23-year-old in late July, the US either freed Cottrell or will shortly. The aide landed in the FBI&#8217;s scope for Laundering money on the darknet. Posed as two drug dealer, <a href="https://www.deepdotweb.com/2016/08/21/prominent-ukip-members-aide-arrested-deepweb-money-laundering/">agents approached Cottrell on the darknet</a>. Cottrell, posed as “Bill” advertised and solicited his financial expertise on the darknet. The FBI reported two of said services: money laundering and “financial consultation services.” (Note: although I use Cottrell throughout this piece, <a href="https://www.scribd.com/document/334899599/Cottrell-Plea-Deal">the Criminal Complaint</a> spelled the aide’s name ”Cotrel” instead of “Cottrell.” The later indictment charged the name to Cottrell—hence the updated name.)</p>
 <p>The ex-UKIP aide—and aide to Nigel Farage nonetheless—guaranteed to <a href="https://www.deepdotweb.com/2017/01/14/ex-ukip-member-faces-upto-20-years-prison-wire-fraud/">launder $150,000 per month</a> through foreign and domestic bank accounts. Cottrell offered the agents “complete anonymity and security” if they acquired Cottrell’s so-called “skills.” Naturally, the money laundering process started off as one might expect. The FBI came back for more. The agents met with Cottrell in Las Vegas for a $20,000 exchange. Following that meeting, Cottrell made matters far worse for himself.</p>

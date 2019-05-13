@@ -1,15 +1,15 @@
 ---
 Feds Busted Darknet Cocaine Vendor “JetSetLife”
 ---
-<article class="post-listing post-25909 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-cocaine tag-darknet tag-feds tag-jetsetlife tag-vendor">
+<article class="post-listing post-25909 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-cocaine tag-darknet tag-feds tag-jetsetlife tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>June 4, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/06/04/feds-busted-darknet-cocaine-vendor-jetsetlife/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Federal authorities, <a href="https://www.scribd.com/document/380135135/Gutierrez-Villasenor-aka-JetSetLife-Criminal-Complaint">according to court documents filed on May 16</a>, arrested the man suspected of controlling “JetSetLife,” the account of one of the most successful cocaine dealers on the darknet. JetSetLife (JSL) started selling cocaine on Silk Road and then continued to sell on almost every known darknet marketplace that emerged after Silk Road fell. Even though JSL moved massive quantities of cocaine for years, investigators caught the suspected primary conspirator in less than one month after an undercover purchase.<img class="wp-image-25913 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-4.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-4.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-4-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The suspected dealer, Brian Gutierrez Villasenor, 26, was charged with only one crime: Distribution of Cocaine. The majority of the court documents, though, are not accessible to the general public. In government’s Motion to Seal, the prosecution warned that Villasenor’s co-defendants would “notify others, flee justice, destroy evidence, and jeopardize the ongoing investigation.” Law enforcement will most likely catch additional conspirators and file additional criminal complaints and indictments. Additional charges will be filed.</p>
 <p><img class="wp-image-25914 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-5.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-5.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/06/word-image-5-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

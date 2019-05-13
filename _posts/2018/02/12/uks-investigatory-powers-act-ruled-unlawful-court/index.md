@@ -1,15 +1,15 @@
 ---
 UK’s Investigatory Powers Act Ruled Unlawful by Court
 ---
-<article class="post-listing post-24784 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-act tag-court tag-investigatory tag-powers tag-ruled tag-uks tag-unlawful">
+<article class="post-listing post-24784 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-act tag-court tag-investigatory tag-powers tag-ruled tag-uks tag-unlawful">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>February 12, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/12/uks-investigatory-powers-act-ruled-unlawful-court/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A United Kingdom law known as the Investigatory Powers Act, which authorizes mass surveillance, was recently <a href="https://theintercept.com/2018/01/30/u-k-court-finds-governments-surveillance-law-unlawful/">ruled to be unlawful</a> by the Court of Appeals in London. The Investigatory Powers Act is popularly known as the <a href="https://www.deepdotweb.com/2015/05/14/snoopers-charter-the-most-spied-on-country-in-the-world-is-about-to-get-worse/">Snoopers Charter</a>. <a href="https://assets.documentcloud.org/documents/4362101/Watson-v-SSHD.txt">The ruling from the three judge panel</a> strikes down much of the Snoopers Charter. The challenge to the British mass surveillance law originated in 2014 when Tom Watson, a Member of Parliament from the Labour Party, filed a lawsuit to have the Data Retention and Investigatory Powers Act ruled unlawful. The Data Retention and Investigatory Powers Act expired in December of 2016, but the new Investigatory Powers Act renewed much of the previous law and in fact expanded surveillance powers.</p>
 <p>Under the Data Retention and Investigatory Powers Act, the British government forced service providers to retain records on customers emails and phone calls for one year. The current Investigatory Powers Act has the same data retention requirements but was also expanded to allow the government to require that internet service providers and telecommunications companies retain a copy of customers browsing history and what apps they are using for one year. The law also makes it a crimes for a service provider to alert a customer that their data has been requested to be retained.</p>
 <p>The <a href="https://www.deepdotweb.com/2017/05/21/leaked-uk-privacy-law-requires-isp-spying-hacking/">Snoopers Charter</a> also authorizes law enforcement agencies to access those records without a warrant or even reasonable suspicion. There is no judicial oversight of law enforcement’s access to people’s private information. Other <a href="https://en.wikipedia.org/wiki/Investigatory_Powers_Act_2016">government agencies</a> also have access to this information, such as the NHS, the Food Standards Agency, fire and emergency rescues services, and other government agencies. Access to browsing history, emails, phone calls, apps used, and other private information by government agencies for purposes of tax collection is also authorized by the Snoopers Charter. Government agencies may also conduct searches of the information collected through mass surveillance if it is “in the interests of the economic well-being” of the United Kingdom.</p>

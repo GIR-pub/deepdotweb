@@ -7,9 +7,8 @@ The PerfectScans Roadshow Slaps The Deebweb In The Face
 <span>August 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/memes/" rel="category tag">Memes &amp; Funny</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/19/the-perfectscans-roadshow-slaps-the-deebweb-in-the-face-2/#comments">21 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><span class="im">Yes, you read that right, it&#8217;s been a long time coming and the voice of sanity you have missed, lost in the wilderness of relays trying to find their way home, to give the answers for those who have been waiting.</p>
 <p>1001 one ways to make your head go boom. Deebdotweb has given PS a new home.</p>
 <p>PS..is back baby and damn I look more handsome today than I did yesterday. I cannot wait for <span class="aBn" tabindex="0" data-term="goog_430282249"><span class="aQJ">tomorrow</span></span> :)</p>

@@ -1,15 +1,15 @@
 ---
 Experts: &#8220;Stop Enabling Sex Traffickers Act&#8221; Will Drive Traffickers Toward the DarkWeb
 ---
-<article class="post-listing post-22948 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-experts">
+<article class="post-listing post-22948 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-experts">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>October 5, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/05/new-bill-to-clamp-down-on-online/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Recently, an Ohio Senator <a href="http://www.wdtv.com/content/news/Sex-trafficking-internet-crackdown-proposal-446552313.html">proposed a bill</a>, which would introduce new felony charges for sex offenders. With the new charges, the senator seeks to cut back online sex <a href="https://www.deepdotweb.com/2017/09/11/15-year-old-school-boy-arrested-darknet-drug-trafficking/">trafficking</a>, however, an expert stated that the new bill is dangerous, and sex traffickers might migrate to the dark web.</p>
 <p>The recent bill, proposed by Senator Rob Portman (Ohio), aims to put an end to online sex trafficking. According to the senator, sex trafficking claimed the lives of many victims &#8211; who are often <a href="https://www.deepdotweb.com/2017/04/09/german-abused-underaged-girls-shared-content-dark-web/">underaged</a> &#8211; and this needs to be stopped. Senator Portman stated in an article (written by him) in <a href="https://www.theguardian.com/commentisfree/2017/sep/19/stop-sex-trafficking-bill-rob-porter">the Guardian</a> that websites, such as Backpage.com, are “knowingly” running advertisements of underaged girls. Law enforcement authorities tried to shut down such websites in the past, however, according to the senator, the sites are protected by the 1996 Communications Decency Law. The goal of the law was to protect website owners against the users and third parties who were posting harmful and illegal content on their domains. However, as of today, the law is now protecting online sex traffickers, the senator argues.</p>
 <p>The senator stated that the protection of online sex trafficking by a federal law is a “failure of the Congress”. To fix this “flaw” in the U.S. justice system, Senator Portman proposed the <a href="https://www.portman.senate.gov/public/index.cfm/press-releases?ID=1FF6DB17-B7A2-4E70-B901-CA07E43065CB">Stop Enabling Sex Traffickers Act</a>. The bipartisan law will make modifications to the Communications Decency Law, which would allow law enforcement to crack down and prosecute websites that “knowingly facilitate” online sex trafficking. According to the senator, this way, the victims of sex trafficking will get their justice against the websites where their “services” were advertised.</p>

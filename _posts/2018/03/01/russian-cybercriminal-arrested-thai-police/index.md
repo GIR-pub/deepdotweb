@@ -1,15 +1,15 @@
 ---
 Russian Cybercriminal arrested by Thai Police
 ---
-<article class="post-listing post-24914 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-cybercriminal tag-police tag-russian tag-thai">
+<article class="post-listing post-24914 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-cybercriminal tag-police tag-russian tag-thai">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>March 1, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/01/russian-cybercriminal-arrested-thai-police/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Thailand police on Friday announced the arrest of a <a href="https://www.deepdotweb.com/2017/12/16/georgia-judge-sentences-russian-hacker-sentenced-14-years-prison/">Russian cybercriminal</a> Sergey Medvedev, who is accused by U.S. authorities for playing a role in an online cybercrime marketplace.</p>
 <p>At the request of U.S. law enforcement agencies, Mr. Medvedev was arrested on the 2<sup>nd</sup> of February at his Bangkok apartment. According to reports from the Thai authorities, Mr. Medvedev is currently in custody awaiting extradition to the U.S. for prosecution.</p>
 <p>Reports state that 30 CSD officers raided his apartment at the City Gate building located in the Sukhumvit 56 in Phra Khanong district. Numerous documents together with 29 electronic items were seized from the apartment by the police, while the main servers of the criminal organization were seized on Tuesday in France. Medvedev was also trading Bitcoin for illegal products online and the evidence obtained during the raid, suggests that he was in possession of over <a href="https://www.deepdotweb.com/2018/01/25/u-s-prosecutors-cash-seized-bitcoins/">100,000 Bitcoin</a> which amounts to almost 100 million baht.</p>

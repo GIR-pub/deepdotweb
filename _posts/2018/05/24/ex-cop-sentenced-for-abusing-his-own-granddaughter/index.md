@@ -1,15 +1,15 @@
 ---
 Ex-Cop Sentenced for Abusing His Own Granddaughter
 ---
-<article class="post-listing post-25812 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abusing tag-excop tag-granddaughter tag-sentenced">
+<article class="post-listing post-25812 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-abusing tag-excop tag-granddaughter tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 24, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/24/ex-cop-sentenced-for-abusing-his-own-granddaughter/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>County Court Judge Jane Campton <a href="https://www.theage.com.au/national/victoria/former-policeman-exploited-granddaughter-to-produce-child-pornography-20180513-p4zf19.html">sentenced an unidentified ex-police officer</a> to more than four years in prison for abusing his own granddaughter and sharing the pictures on darknet forums. The man, a former Victorian policeman, actively used darknet child abuse forums since the inception of publicly accessible onion services. He had also—while working as a law enforcement officer in Australia—communicated with several members of The Love Zone while Australia’s Task Force Argos had been investigating the very same members.</p>
 <p>In communicating with some of the world&#8217;s most notorious pedophiles on The Love Zone—a massive child abuse forum that Australian police had slowly and stealthily infiltrated—the police officer was likely talking to undercover <a href="https://www.deepdotweb.com/2017/10/16/task-force-argos-operated-darknet-child-abuse-forum-11-months/">Task Force Argos</a> agents. Task Force Argos, for those unaware, is a special branch of Australian law enforcement that operates via controversial investigative tactics. For instance, the United States Federal Bureau of Investigation took control of the <a href="https://www.deepdotweb.com/2018/02/08/playpen-member-5500-downloads-sentenced-six-years-prison/">child abuse forum “Playpen”</a> and allowed it to exist for more than a week. The blowback is ongoing.</p>
 <p>Task Force Argos, though, operated <a href="https://www.deepdotweb.com/2017/10/16/task-force-argos-operated-darknet-child-abuse-forum-11-months/">the child abuse forum “Childs Play”</a> for nearly one year. Argos agents successfully identified both pedophiles and children by analysing writing styles, visual artifacts in pictures, and other pieces of information that forum users likely ignored. Although the information revealed in the courtroom did not detail the events that led to the grandfather’s arrest, several pieces of information indicated that the pictures played a significant role in the case.</p>

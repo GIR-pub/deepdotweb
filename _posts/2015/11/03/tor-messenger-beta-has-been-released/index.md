@@ -7,9 +7,8 @@ Tor Messenger Beta Has Been Released
 <span>November 3, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/03/tor-messenger-beta-has-been-released/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily">On October 29, the Tor Project released the beta version of the Tor Messenger.</a> The Tor Messenger is an anonymous cross-platform chat program that aims to be as secure as possible while being able to send and receive messages in real time. The Tor Messenger supports a wide variety of transport networks, such as Jabber (XMPP), IRC, Google Talk, Facebook Chat, Twitter, Yahoo, and many others. The program enables Off-the-Record (OTR) Messaging automatically and has an easy-to-use graphical user interface localized into multiple languages.</p>
 <p>The Tor Messenger is based on Instantbird, this is an instant messaging client developed by the Mozilla community. In the announcement of the Tor Messenger Beta, the developers say that they have been thinking whether to choose Instantbird or Pidgin for messaging client. They have chosen Instantbird for many reasons. The official statement goes by:</p>
 <p>”Instantbird was the pragmatic choice &#8212; its transport protocols are written in a memory-safe language (JavaScript); it has a graphical user interface and already supports many natural languages; and it&#8217;s an XUL application, which means we can leverage both the code (Tor Launcher) and in-house expertise that the Tor Project has developed working on Tor Browser with Firefox. It also has an active and vibrant software developer community that has been very responsive and understanding of our needs. The main feature it lacked was OTR support, which we have implemented and hope to upstream to the main Instantbird repository for the benefit of all Instantbird (and Thunderbird) users.”</p>

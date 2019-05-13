@@ -1,15 +1,15 @@
 ---
 Appeals Court Rules Suspicion Required for Forensic Searches of Phones at Border
 ---
-<article class="post-listing post-25856 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-appeals tag-border tag-court tag-forensic tag-phones tag-required tag-rules tag-searches tag-suspicion">
+<article class="post-listing post-25856 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-appeals tag-border tag-court tag-forensic tag-phones tag-required tag-rules tag-searches tag-suspicion">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>May 29, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/29/appeals-court-rules-suspicion-required-for-forensic-searches-of-phones-at-border/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Fourth Circuit Court of Appeals in Richmond, Virginia recently <a href="http://www.ca4.uscourts.gov/opinions/164687.P.pdf">issued a ruling in the case of United States v. Kolsuz</a>. The appeals court ruling in the Kolsuz case created a significant change in how the 4<sup>th</sup> amendment of the constitution of the United States applied to searches of cell phones and other electronic devices <a href="https://www.deepdotweb.com/2018/05/15/french-dark-web-drug-defendant-losses-evidence-over-border-inspection/">at the border</a>.</p>
 <p>While the Fourth Circuit Court of Appeals ultimately upheld the conviction of Turkish citizen Hamza Kolsuz, the court also created a new limitation on border searches. Many organizations had filed amicus curiae briefs in support of Hamza Kolsuz, including the <a href="https://www.eff.org/deeplinks/2018/05/fourth-circuit-rules-suspicionless-forensic-searches-electronic-devices-border-are">Electronic Frontier Foundation (EFF)</a>, the <a href="https://www.aclu.org/blog/privacy-technology/privacy-borders-and-checkpoints/another-federal-court-rules-fourth-amendment">American Civil Liberties Union (ACLU)</a>, the National Association of Criminal Defense Lawyers, Floor64, Inc. (the parent company of TechDirt), and other organizations.</p>
 <p>In the Fourth Circuit Court of Appeals ruling the <a href="https://reason.com/volokh/2018/05/09/important-fourth-circuit-ruling-on-cell">appeals court held</a> that the government must have a form of individualized suspicion before a forensic search can lawfully be conducted on devices seized at the border. The appeals court ruled that agents of the United States Customs and Border Protection had reasonable suspicion to conduct a forensic search of Hamza Kolsuz’s iPhone. Kolsuz was arrested while trying to board a flight to Turkey at Washington Dulles International Airport. Customs and Border Patrol agents arrested Kolsuz after they had discovered parts to firearms in his checked luggage. The Customs and Border Protection agents had a suspicion that Kolsuz did not have an export permit for the firearms parts that is required by the <a href="http://www.abajournal.com/news/article/forensic_search_of_cellphone_seized_at_border_requires_some_form_of_suspici">Arms Export Control Act</a>.</p>

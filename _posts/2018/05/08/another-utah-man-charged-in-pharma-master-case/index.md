@@ -1,15 +1,15 @@
 ---
 Another Utah Man Charged in Pharma-Master Case
 ---
-<article class="post-listing post-25626 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-charged tag-man tag-pharmamaster tag-utah">
+<article class="post-listing post-25626 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-case tag-charged tag-man tag-pharmamaster tag-utah">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 8, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/08/another-utah-man-charged-in-pharma-master-case/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/2017/06/18/six-indicted-darknet-fentanyl-distribution-ring/">The Pharma-Master case keeps getting larger</a>, as the pile of evidence keeps stacking in favor of the prosecution, and the number of superseding indictments keeps climbing. In late April, <a href="https://www.scribd.com/document/377725831/Jonathan-Luke-Paz-Charges">charges filed in U.S. District Court</a> accused another Utah man of working with Aaron Michael Shamo aka Pharma-Master. According to the charges, Jonathan Luke Paz helped the “nation’s largest <a href="https://www.deepdotweb.com/2017/12/11/darknet-opioid-ring-suspect-stay-jail-trial/">fentanyl trafficking ring</a>” manufacture fake oxycodone pills.</p>
 <p>Authorities accused Paz of working with Shamo as early as February 2016. They charged him with one count of conspiracy to manufacture fentanyl, two counts of knowing and intentional adulteration of drugs while held for sale, and one count of money laundering. All counts stemmed from the activities that began February 2016. However, authorities split the intentional adulteration charges for several reasons. The more charges thrown at a suspect, the more likely one would stick. Deals can easily be made and prosecution rates can stay as high as they currently are. More importantly, though, they charged him with the first adulteration charge for pressing fake “A 215” oxycodone pills and the second adulteration charge for pressing “M 30” oxycodone pills.</p>
 <p><img class="wp-image-25632 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image.png 620w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-300x198.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>

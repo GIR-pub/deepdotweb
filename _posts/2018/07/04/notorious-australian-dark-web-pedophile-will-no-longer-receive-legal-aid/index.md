@@ -1,15 +1,15 @@
 ---
 Notorious Australian Dark Web Pedophile will no Longer Receive Legal Aid
 ---
-<article class="post-listing post-26202 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-aid tag-australian tag-dark tag-legal tag-longer tag-notorious tag-pedophile tag-receive tag-web">
+<article class="post-listing post-26202 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-aid tag-australian tag-dark tag-legal tag-longer tag-notorious tag-pedophile tag-receive tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>July 4, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/04/notorious-australian-dark-web-pedophile-will-no-longer-receive-legal-aid/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a id="post-26202-_gjdgxs"></a> The Australian government provides legal aid to its citizens on trial when the cases take place abroad. The aid is offered through the Serious Overseas Criminal Matters scheme and is seemingly issued regardless of crimes committed. The aid is given to Australians at risk of having to serve a sentence of over 20 years or death penalty cases. Failure to choose what trials to aid has subjected the scheme to massive public criticism after it was involved in aiding the defense of criminals such as drug traffickers and pedophiles.</p>
 <p>Peter Scully, 55, who is arguably the most infamous pedophile of all time was not left out; he received $500,000 in aid, all based from taxes paid by non-criminal citizens over a three years period. His crimes included charges of murder, rape, and torture of children in the Philippines. He received a life sentence in June for <a href="https://www.deepdotweb.com/?s=human+trafficking">human trafficking</a> and five counts of rape and sexual assault of underage girls. Scully faces 60 more charges for murder, abuse, and torture of children.</p>
 <p>Scully who is as a father of two moved to the Philippines in 2011 fleeing fraud charges against him in a fraudulent property scheme in Melbourne, Australia.</p>

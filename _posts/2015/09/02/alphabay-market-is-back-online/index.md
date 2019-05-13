@@ -7,9 +7,8 @@ Alphabay Market: Back Online With Upgraded infrastructure
 <span>September 2, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/02/alphabay-market-is-back-online/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay</a>, the market who is expected to take the lead after <a href="https://www.deepdotweb.com/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">Agora will be gone</a> &#8211; has come back from a downtime, needed to upgrade their infrastructure due the huge increase of Agora refugees traffic. This was their official announcement:</p>
 <blockquote><p>First of all, apologies for the downtime and coming back online a bit late. We wanted to make sure everything was all right before announcing it. We got a brand new infrastructure and we are ready for the big user influx.</p>
 <p>*** IMPORTANT *** Do not send coins to your old Bitcoin addresses. Simply head to your Balance page and get your new deposit address.</p>

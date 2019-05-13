@@ -1,15 +1,15 @@
 ---
 Chip Mixer Review
 ---
-<article class="post-listing post-24509 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-chip tag-mixer tag-review">
+<article class="post-listing post-24509 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-chip tag-mixer tag-review">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>January 21, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/01/21/chip-mixer-review/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>ChipMixer Official Website: https://chipmixer.com/</p>
 <p>Onion Link: <a href="http://chipmixerwzxtzbw.onion/">http://chipmixerwzxtzbw.onion/</a></p>
 <p><img class="wp-image-24512" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-48.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-48.png 1201w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-48-300x135.png 300w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-48-1024x460.png 1024w" sizes="(max-width: 1201px) 100vw, 1201px" /></p>

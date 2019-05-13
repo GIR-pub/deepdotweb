@@ -1,7 +1,8 @@
 ---
 Defendant Sold 11 Kilograms of Marijuana, Facing Serious Punishment
 ---
-<article class="post-listing post-22446 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1879 tag-defendant tag-facing tag-kilograms tag-marijuana tag-punishment tag-sold">
+<article class="post-listing post-22446 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-1879 tag-defendant tag-facing tag-kilograms tag-marijuana tag-punishment tag-sold">
     
     <div class="post-inner">
     

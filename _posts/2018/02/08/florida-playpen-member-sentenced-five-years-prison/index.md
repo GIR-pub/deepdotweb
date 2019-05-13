@@ -1,15 +1,15 @@
 ---
 Florida PlayPen Member Sentenced to Five Years in Prison
 ---
-<article class="post-listing post-24729 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-florida tag-member tag-playpen tag-prison tag-sentenced tag-years">
+<article class="post-listing post-24729 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-florida tag-member tag-playpen tag-prison tag-sentenced tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 8, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/08/florida-playpen-member-sentenced-five-years-prison/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A statement from the United States Attorney’s Office of the Middle District of Florida <a href="https://www.justice.gov/usao-mdfl/pr/zephyrhills-man-sentenced-five-years-viewing-child-sexual-abuse-videos-and-images-using">revealed the sentencing</a> of another member of a darknet child abuse forum. This sentencing occurred only days after another Florida man pleaded guilty to downloading and viewing videos depicting various forms of child abuse during the same week in 2015 when the FBI had taken control of the notorious PlayPen forum. The most recent Florida man, 30-year-old Joseph Michael Griffin of Zephyrhills, received a five year prison sentence for accessing and viewing illegal pictures and videos.</p>
 <p>Following his five year prison term, Griffin will spend 20 years under government supervision and 20 years as a registered sex offender. He pleaded guilty during September 2017, not long after a jury found 41-year-old Jason Dean Barnes guilty of doing the same thing—downloading images and videos of children being abused, both from the same website. One of the main differences, though was that Barnes had downloaded at least 5,000 pictures and roughly 500 videos. Griffin had only 45 images and 17 videos on his hard drives. Even if he had downloaded far more than 62 illegal files, the number did not likely reach 500.</p>
 <p>Due to both the illegal nature of the FBI’s investigation into the child abuse forum and the complexity of the case, prosecution of the accused forum members has been slowly creeping along. That is, at least, up until the last few months. Many of the high-profile cases have ended. Some of them in surprisingly short sentences. One of them ended with a dismissal. But during the last few months of 2017 and throughout January 2018, judges have been frequently sending newly convicted PlayPen members to prison.</p>

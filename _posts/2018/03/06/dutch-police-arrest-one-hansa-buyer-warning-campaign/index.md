@@ -1,15 +1,15 @@
 ---
 Dutch Police Arrest One Hansa Buyer in Warning Campaign
 ---
-<article class="post-listing post-24966 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-buyer tag-campaign tag-dutch tag-hansa tag-police tag-warning">
+<article class="post-listing post-24966 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrest tag-buyer tag-campaign tag-dutch tag-hansa tag-police tag-warning">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/06/dutch-police-arrest-one-hansa-buyer-warning-campaign/#comments">17 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Although police in the Netherlands visited the homes of 37 users of the defunct Hansa market in January, they only made a single arrest. The operation, a so called &#8216;<a href="https://www.politie.nl/nieuws/2018/februari/15/operation-mirum-darkweb-is-niet-anoniem.html">knock-and-talk</a>&#8216; campaign, served as a threat to some Hansa buyers: more arrests may follow. The buyers who ordered personal amounts of drugs may have dodged a bullet this time, according to the police. But anyone who ordered anything more than a personal amount may face prosecution in the near future.<img class="wp-image-24972 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-5.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-5.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-5-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The police, during their ‘knock-and-talk’ campaign, arrested a 25-year-old man from Wilp. All of the targets in the Public Prosecution Service’s campaign landed on law enforcement&#8217;s list for a drug purchase of one kind or another, Wilbert Paulissen, head of the National Criminal Investigation Department said. The Wilp man, compared to some of the recent drug busts of a much larger scale, made a relatively insignificant purchase on the Hansa marketplace. According to the authorities, the 25-year-old had purchased 150 ecstasy pills on the marketplace during the month that Netherlands law enforcement controlled the market’s servers.</p>
 <p>According to glaring seizure banners that authorities simultaneously launched on the Alphabay and Hansa homepages last year, Netherlands law enforcement had <a href="https://www.deepdotweb.com/2017/07/20/globally-coordinated-operation-just-took-alphabay-hansa/">taken control of Hansa</a> roughly one month before pulling the darknet market’s plug. Thanks to German authorities who received far too little for their role in the operation, Netherlands authorities managed to stealthily take control of Hansa’s servers.</p>

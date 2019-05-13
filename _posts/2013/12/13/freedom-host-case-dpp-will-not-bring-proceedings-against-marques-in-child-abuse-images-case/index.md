@@ -7,9 +7,8 @@ title: Freedom Host Case: DPP will not bring proceedings against Marques in chil
 <span>December 13, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/13/freedom-host-case-dpp-will-not-bring-proceedings-against-marques-in-child-abuse-images-case/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>As it was published today by RTE:</strong></p>
 <p><em>&#8220;An Irishman, described by an FBI Special Agent as &#8220;the largest facilitator of child porn in the world&#8221;, has indicated he would plead guilty to the offences if he were prosecuted in Ireland.</em></p>
 <p><em>However, the High Court was told this morning that the Director of Public Prosecutions will not bring proceedings against Eric Eoin Marques.</em></p>

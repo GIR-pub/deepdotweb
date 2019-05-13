@@ -1,15 +1,15 @@
 ---
 Romania Police Arrest a Darknet Ransomware Gang of Five
 ---
-<article class="post-listing post-24387 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrest tag-darknet tag-gang tag-police tag-ransomware tag-romania">
+<article class="post-listing post-24387 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrest tag-darknet tag-gang tag-police tag-ransomware tag-romania">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>January 12, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/12/romania-police-arrest-darknet-ransomware-gang-five/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Romanian police made their first ransomware related arrest in five years. According to Europol, the Romanian police responded to the call of rampant ransomware attacks and sales of hacked data on the Darknet, to go all out to arrest a gang of five.</p>
 <p><a id="post-24387-_gjdgxs"></a> The gangs were suspected to have launched a series of cyber attacks across Europe infecting computers and holding sensitive data captive. The police, therefore, embarked on a search of their homes, through which they discovered laptops and hard drives suspected to have been used for their operations.</p>
 <p>Claire Georges, an Europol spokeswoman said to reporters that: “It&#8217;s the first arrests for (using) this kind of ransomware in about five years&#8230;Police searched six homes and seized a significant amount of hard drives, laptops, external storage and cryptocurrency devices and documents.”</p>

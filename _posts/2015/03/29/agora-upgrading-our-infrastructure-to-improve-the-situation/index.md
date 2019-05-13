@@ -7,9 +7,8 @@ Agora: Upgrading Our Infrastructure To Improve The Situation
 <span>March 29, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/29/agora-upgrading-our-infrastructure-to-improve-the-situation/#comments">60 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Its briefly up &amp; than down again, And the most recent message from agora is: &#8220;We know there are availability problems currently associated with all the new users from Evolution. We are working on upgrading our infrastructure to improve the situation.&#8221;</p>
 <p><a href="/imgs/2015/03/agback.png"><img class="aligncenter size-full wp-image-9769" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/agback.png" alt="agback" width="1236" height="194" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/agback.png 1236w, https://www.deepdotweb.com/wp-content/uploads/2015/03/agback-300x47.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/03/agback-1024x161.png 1024w" sizes="(max-width: 1236px) 100vw, 1236px"/></a></p>
 </div>

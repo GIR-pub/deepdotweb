@@ -7,9 +7,8 @@ Allegedly: German DNM Vendor Sold The Weapons Used At Paris Terror Attacks
 <span>December 2, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/02/german-dnm-vendor-sold-weapons-to-paris-terror-attacks/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.rappler.com/world/regions/europe/114202-weapons-paris-attacks-bought-german-dealer">According to official documents from the Stuttgart prosecutor’s office, the weapons that have been used at the November 13 Paris terror attacks were from a German dark net vendor under the username DW Guns.</a> The documents say that two AK 47s and two Zastava M70s were sold by the arms dealer to a customer in Paris on November 7.</p>
 <p>The German newspaper, Bild made this statement:</p>
 <p>&#8220;French investigators believe that the weapons were allegedly used in the attacks in Paris.&#8221;</p>

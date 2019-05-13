@@ -1,15 +1,15 @@
 ---
 Imprisonment Demanded For Dutch Vendor Group
 ---
-<article class="post-listing post-18420 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-demanded tag-dutch tag-group tag-imprisonment tag-vendor">
+<article class="post-listing post-18420 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-demanded tag-dutch tag-group tag-imprisonment tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 3, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/03/imprisonment-demanded-for-dutch-vendor-group/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Public Prosecutor (OM) <a href="http://www.emerce.nl/nieuws/gevangenisstraffen-geist-grootschalige-online-drugshandel">requested</a> an eight-year prison sentence for three men and a woman, from North Holland, for running a large-scale online drug trafficking ring on the dark web.</p>
 <p>According to official court documents, the vendor group was active between 2012 and 2014. They dealt with “all kinds of hard <a href="https://www.deepdotweb.com/tag/drugs/">drugs</a>” offered in both small and bulk quantities. <a href="https://www.deepdotweb.com/2015/06/09/5-arrested-dutch-vendors-for-pre-trial-detention/">The four suspects used nicknames on dark net marketplaces</a>, including “Holland Online Silkroad2”, “Amsterdam United”, “TheHeineken”, and “Albert Heijn”. In addition to that, the court heard that the vendor group produced their own <a href="https://www.deepdotweb.com/tag/ecstasy/">ecstasy</a>.</p>
 <p>Law enforcement authorities stated that the vendor shop was a “huge international character” on dark net markets. During the house search of one of the suspects, police seized 420,000 euros of cash, which they believe that were “pure profits” originating from the illegal narcotics trade.</p>

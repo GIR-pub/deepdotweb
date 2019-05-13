@@ -7,9 +7,8 @@ title: Darknet Distrust: The Reaction To SR 2.0 In Competing Marketplaces?
 <span>November 11, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/11/darknet-distrust-the-reaction-to-sr-2-0-in-competing-marketplaces/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Since the October takedown of the first Silk Road, the illicit sector of the Tor network has been scrambling to cope with the recent changes in darknet superpowers.  Like a child blowing on an anthill, the feds seemed to have whipped the community into a fearful frenzy.  Causing even more anxiety is the focused, scorching magnifying glass on a few, as several high-profile members of these communities are facing stiff sentences in recent busts.  However, with the rise of the new contraband eBay-like titan, Silk Road –the sequel, it seems as if it’s back to business as usual.  Somewhat.</p>
 <p>The beauty of the darknet, they say, is the element of opportunistic anonymity.  However, that works both ways.  The feds can lurk through the Tor network just as easily as every other John Doe, because anonymity is a two-way street.</p>
 <p>Silk Road was not the only darknet marketplace for illicit substances, untracked hardware, and unsavory services.  Bazaars such as BlackMarket Reloaded and Sheep Marketplace have continued operations, even while the Silk Road endured a royal beating from the highly determined US Justice Department.  These communities appear to remain noticeably apprehensive to bring the Silk Road back into the fold, even though it’s ‘upgraded’ to 2.0.</p>

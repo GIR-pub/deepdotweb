@@ -7,9 +7,8 @@ PSA: What You Should Look For In A Lawyer?
 <span>March 29, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/03/29/psa-what-you-should-look-for-in-a-lawyer/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="usertext-body may-blank-within md-container">
 <div class="md">
 <p>Posted originally on Reddit by <a href="http://www.reddit.com/user/NCLawyer">/u/NCLawyer</a>,  who is a USA based licensed attorney &amp; is often taking his time to provides useful advice for the /r/darketnetmarkets community, join the discussion on the <a href="http://www.reddit.com/r/DarkNetMarkets/comments/30pbnm/psaarticle_what_you_should_look_for_in_a_lawyer/">original post</a>:</p>

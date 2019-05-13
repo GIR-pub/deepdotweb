@@ -1,15 +1,15 @@
 ---
 The Italian ANAC launched online whistleblowing platform using Tor onion services
 ---
-<article class="post-listing post-24946 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-anac tag-italian tag-launched tag-onion tag-online tag-platform tag-services tag-tor tag-whistleblowing">
+<article class="post-listing post-24946 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-anac tag-italian tag-launched tag-onion tag-online tag-platform tag-services tag-tor tag-whistleblowing">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>March 4, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/04/italian-anac-launched-online-whistleblowing-platform-using-tor-onion-services/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The Italian National Anti-Corruption Authority (ANAC) has embraced and thereafter launched an online whistleblower platform using Tor onion services. This is expected to encourage and help whistleblowing to manage and <a href="about:blank">expose illegal activities</a> such as corruption cases in government organizations at the same time protecting individual identities.</p>
 <p>Millions of people make use of the Tor network daily and globally to avoid censorship and surveillance. Its anonymity which comes with privacy and security enables journalist to report, activists to mobilize and ordinary citizens to access blocked resources and avoid being tracked.</p>
 <p>Tor has also been in the ream light of criticism for long now due to its ability to encourage crime particularly on the dark web due to its <a href="https://www.deepdotweb.com/2016/12/23/famously-anonymous-tor-social-networks/">capability and anonymously</a> mask anyone’s identity and location at the time of web navigation. However, its anonymity could also be used for the good. The whistleblowers, those brave individuals also depend of Tor protection after reporting illegal activities, need it to mask their identities.</p>

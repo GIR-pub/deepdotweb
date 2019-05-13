@@ -1,15 +1,15 @@
 ---
 Hacking and Politics &#8211; Can Hackers Change World Politics?
 ---
-<article class="post-listing post-18417 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-change tag-hackers tag-hacking tag-politics tag-world">
+<article class="post-listing post-18417 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-change tag-hackers tag-hacking tag-politics tag-world">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 3, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/03/hacking-politics-can-hackers-change-world-politics/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Researching through Science and Technology Studies STS along with application of the social movement theory, present <a href="http://journals.sagepub.com/doi/full/10.1177/0162243916688094">literature has tried to examine the relationship between hacking and politics</a>. Most authors only present questions without proposing any answers. Most authors resist equating political activism with hacking. Hacking is unique, especially when considering Gabriella Cleman&#8217;s phrase &#8220;the political agnosticism of hackers&#8221; . This mainly emerges from the traditional engineering culture, yet hackers have established a bottom-up, resist-the-power debate for the conformist, apolitical side of the equation, what can be marked as &#8220;apolitical politics&#8221;, thus, further catalyzing the paradox. This is also the reason why some hackers&#8217; assertion that &#8220;they are doing it, just for the thrill of it&#8221; is unsatisfactory when this claim is evaluated by scholars.</p>
 <p><img class="wp-image-18421 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/hacking-and-politics-png.png" alt="hacking and politics.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/hacking-and-politics-png.png 818w, https://www.deepdotweb.com/wp-content/uploads/2017/02/hacking-and-politics-png-300x110.png 300w" sizes="(max-width: 818px) 100vw, 818px" /></p>
 <p>The debate created via the apolitical politics notion has been discussed in details through <a href="http://journals.sagepub.com/doi/full/10.1177/0162243916688094">Gabriella Coleman&#8217;s book &#8220;Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous&#8221;</a>. Coleman followed &#8220;Anonymous&#8221;, one of the world&#8217;s most mysterious and notorious group of hackers, for almost five years. The book delves into the political and the apolitical sides of &#8220;Anonymous&#8221; who started out by a group of trolls who met on the not so popular online forum &#8220;4chan&#8221;. Although the group members never intended to engage in politics, later on, their prejudice towards free speech tempted them to aim their attacks at political targets. The reactions ignited by Anonymous&#8217; earlier cyberattacks, fueled more serious involvement in the political scene.</p>

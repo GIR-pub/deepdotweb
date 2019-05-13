@@ -1,15 +1,15 @@
 ---
 British Dark Web Pedophile Jailed For 32 Years
 ---
-<article class="post-listing post-24999 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4680 tag-british tag-dark tag-jailed tag-pedophile tag-web tag-years">
+<article class="post-listing post-24999 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-4680 tag-british tag-dark tag-jailed tag-pedophile tag-web tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>March 10, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/10/british-dark-web-pedophile-jailed-32-years/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The disgusting double life of one of Britain’s worst <a href="https://www.deepdotweb.com/2018/02/14/pedophile-headed-prison-eight-years-rat-abuse-case/">pedophiles</a> has finally come to an end. <a href="https://www.theguardian.com/technology/2018/feb/19/dark-web-paedophile-matthew-falder-jailed-for-32-years">29-year-old Matthew Falder</a>, a graduate of Cambridge has been jailed for 32 years after he admitted to 137 offenses against 46 victims, both male and female.</p>
 <p>Falder resorted to blackmailing his victims, which was made up of many teenagers, forcing them to engage in perverted sexual and physical acts, voyeurism, encouraging the rape of a child and making indecent images of children. During his sentencing, some of his victims were even available to witness his sentencing. While it may not have brought them a reversal of their trauma, it certainly helped with some healing.</p>
 <p>Sentencing Falder on the 18th of February, Judge Philip Parker stated that he refused to take a look at a file containing Falder’s sickening <a href="https://www.deepdotweb.com/2017/10/25/birmingham-man-guilty-137-online-sexual-exploitation-charges/">child abuse images</a> which were put together by the prosecutor. He afterward congratulated the NCA officers for their ability to review the ‘extremely distressing’ material.</p>

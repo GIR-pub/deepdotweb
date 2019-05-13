@@ -7,9 +7,8 @@ Update on Silk Road 2.0 leak
 <span>February 14, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/14/update-silk-road-2-0-leak/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>SRDouglas released 35% of vendor names, no passwords or hashes, and 3000 deposit addresses</p>
 <p><a href="http://pastebin.com/raw.php?i=0e60cg8g" target="_blank">http://pastebin.com/raw.php?i=<wbr />0e60cg8g</a></p>
 <p><a href="https://bitcointalk.org/index.php?topic=952177.msg10454640#msg10454640" target="_blank">https://bitcointalk.org/index.<wbr />php?topic=952177.msg10454640#<wbr />msg10454640</a></p>

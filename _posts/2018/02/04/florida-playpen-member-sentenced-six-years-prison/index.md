@@ -1,15 +1,15 @@
 ---
 Florida PlayPen Member Sentenced to Six Years in Prison
 ---
-<article class="post-listing post-24668 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-florida tag-member tag-playpen tag-prison tag-sentenced tag-years">
+<article class="post-listing post-24668 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-florida tag-member tag-playpen tag-prison tag-sentenced tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 4, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/04/florida-playpen-member-sentenced-six-years-prison/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Jacksonville, Florida, United States District Judge Brian J. Davis <a href="https://www.justice.gov/usao-mdfl/pr/jacksonville-man-sentenced-six-years-federal-prison-downloading-child-sexual-abuse">sentenced</a> yet another member of the darknet child pornography website PlayPen. The defendant, <a href="https://www.deepdotweb.com/2017/10/03/playpen-member-guilty-receiving-child-pornography/">42-year-old Jason Dean Barnes</a>, will spend six years in federal prison for downloading thousands of images depicting child abuse. After his release from prison, Barnes will spend 10 years on federal supervision. He will also register as a sex offender.</p>
 <p>The FBI caught Barnes during the investigation into PlayPen in 2015. The investigation, known as Operation Pacifier, resulted in as many as 900 arrests worldwide. Very few of those arrests—at least in the United States—have ended in conviction or even in charges. Three major problems existed in the FBI’s case against members of the child pornography forum. The first problem emerged when the public discovered the FBI had identified thousands of Tor users through a piece of “malware.” They attacked users far outside of the jurisdiction of the judge who signed the warrant, permitting them to use the NIT.</p>
 <p>That includes international users and Tor users who never even accessed the child pornography forum, according to some reports. During the discovery process, even after being ordered to release information on their NIT, the FBI refused to disclose anything that explained how they had managed to identify Tor users. This resulted in judges having no other choice than to throw out the evidence gathered as a result of the FBI’s hack.</p>

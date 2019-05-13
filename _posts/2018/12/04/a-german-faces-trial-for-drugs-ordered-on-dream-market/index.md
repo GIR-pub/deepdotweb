@@ -1,15 +1,15 @@
 ---
 A German Faces Trial for Drugs Ordered on ‘Dream Market’
 ---
-<article class="post-listing post-27465 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dream tag-drugs tag-faces tag-german tag-market tag-ordered tag-trial">
+<article class="post-listing post-27465 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-dream tag-drugs tag-faces tag-german tag-market tag-ordered tag-trial">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>December 4, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/12/04/a-german-faces-trial-for-drugs-ordered-on-dream-market/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A German man accused of placing two <a href="https://www.mittelbayerische.de/region/cham-nachrichten/pemflinger-bestellte-drogen-im-darknet-20909-art1719460.html&quot; \o &quot;https://www.mittelbayerische.de/region/cham-nachrichten/pemflinger-bestellte-drogen-im-darknet-20909-art1719460.html">illegal orders for drug</a><a href="https://www.mittelbayerische.de/region/cham-nachrichten/pemflinger-bestellte-drogen-im-darknet-20909-art1719460.html&quot; \o &quot;https://www.mittelbayerische.de/region/cham-nachrichten/pemflinger-bestellte-drogen-im-darknet-20909-art1719460.html">s</a><a href="https://www.mittelbayerische.de/region/cham-nachrichten/pemflinger-bestellte-drogen-im-darknet-20909-art1719460.html&quot; \o &quot;https://www.mittelbayerische.de/region/cham-nachrichten/pemflinger-bestellte-drogen-im-darknet-20909-art1719460.html"> on</a><a href="https://www.mittelbayerische.de/region/cham-nachrichten/pemflinger-bestellte-drogen-im-darknet-20909-art1719460.html&quot; \o &quot;https://www.mittelbayerische.de/region/cham-nachrichten/pemflinger-bestellte-drogen-im-darknet-20909-art1719460.html"> dark web</a> marketplaces was sentenced in court. He is said to have ordered several small packages of different illegal drugs from the dark web for personal consumption and had them delivered to his home address by mail.</p>
 <p>The 40 year old man from Pemfling appeared at Chamer District Court to answer charges of drug dealing. By the end of last year (2017), the accused is said to have procured two consignments of drugs online off the dark web. In the first batch, he ordered two small packets of <a href="https://www.deepdotweb.com/2018/10/23/two-indicted-for-selling-cocaine-and-marijuana-on-dream-market/">cocaine</a>, amphetamine, and methamphetamine, some of which were intercepted by federal police. The packages had been stamped with his home address.</p>
 <p>In November of last year, after the investigation had been launched against the Pemflinger man, a similar delivery was made involving cocaine and methamphetamine. This led to the launching of a separate investigation to follow up on the dark web suppliers in a case which is still underway. The police obtained a search warrant for the recipient’s address, where they found amphetamine and methamphetamine patches. No drugs were seized.</p>

@@ -1,15 +1,15 @@
 ---
 Fraudster Sentenced for Stolen ID Shopping Spree
 ---
-<article class="post-listing post-26418 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fraudster tag-sentenced tag-shopping tag-spree tag-stolen">
+<article class="post-listing post-26418 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-fraudster tag-sentenced tag-shopping tag-spree tag-stolen">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 27, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/27/fraudster-sentenced-for-stolen-id-shopping-spree/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A suspicious invoice for a limited edition rum worth almost $2,000 started an investigation that led to the arrest and recent sentencing of a man from Lucerne, Switzerland for several charges of <a href="http://m.20min.ch/schweiz/news/story/luzerner-geht-mit-darknet-daten-auf-shopping-tour-29479577">identity theft and fraud</a>. The man, investigators discovered as they investigated a trail of identity thefts and fake identities, had been purchasing stolen identities on the darknet as part of a fraud operation that lasted roughly one year. The total dollar value of damage the fraudster caused was not revealed during his sentencing at the Criminal Court in Lucerne.<img class="wp-image-26422 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-64.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-64.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-64-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>According to the police in Switzerland who helped identify the fraudster and his conspirators, the fraudulent activity first began in February 2017. Through a series of attempted fraudulent transactions that ultimately failed, the police learned the fraudster&#8217;s pattern and his scope of operation. The victims of identity theft connected to the 24-year-old fraudster often found themselves stuck with bills for items they never purchased. Often, investigators revealed, the fraudster opened credit cards under the names and addresses of the identities he had <a href="https://www.deepdotweb.com/tag/darknet/page/10/">purchased on the darknet</a>.</p>
 <p>The 24-year-old also took advantage of bank accounts or credit cards the victim had already created. In some cases the fraudster gained access to the victim&#8217;s email and leveraged email access into the access of bank accounts, financial information, or other pieces of information useful to a fraudster. With stolen accounts or newly created credit cards, the 24-year-old spent thousands of dollars on iPhones, Apple laptops, clothes, and even expensive alcohol.</p>

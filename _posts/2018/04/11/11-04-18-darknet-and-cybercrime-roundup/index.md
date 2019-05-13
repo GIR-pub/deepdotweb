@@ -1,15 +1,15 @@
 ---
 11.04.18 Darknet and Cybercrime Roundup
 ---
-<article class="post-listing post-25332 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6402 tag-cybercrime tag-darknet tag-roundup">
+<article class="post-listing post-25332 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-6402 tag-cybercrime tag-darknet tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 11, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/11/11-04-18-darknet-and-cybercrime-roundup/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Model ‘Periodically’ Used Ketamine Prior to Alleged Kidnapping</strong></p>
 <p><img class="wp-image-25333" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-15.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-15.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-15-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Chloe Ayling was the world to think a group of men kidnapped her to auction her off through a human trafficking group on the darknet. But over time, her story grew less and less believable. At the recent hearing for one of the men she claimed had kidnapped her, <a href="https://www.deepdotweb.com/2018/04/04/model-periodically-used-ketamine-prior-to-alleged-kidnapping/">another piece of her story crumbled</a> under the weight of a testimony given by the medical examiner.</p>

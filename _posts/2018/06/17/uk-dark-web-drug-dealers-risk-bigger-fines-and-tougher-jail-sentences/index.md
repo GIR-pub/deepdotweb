@@ -1,15 +1,15 @@
 ---
 UK Dark Web Drug Dealers Risk Bigger Fines and Tougher Jail Sentences
 ---
-<article class="post-listing post-26041 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bigger tag-dark tag-dealers tag-drug tag-fines tag-jail tag-risk tag-sentences tag-tougher tag-uk tag-web">
+<article class="post-listing post-26041 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bigger tag-dark tag-dealers tag-drug tag-fines tag-jail tag-risk tag-sentences tag-tougher tag-uk tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>June 17, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/06/17/uk-dark-web-drug-dealers-risk-bigger-fines-and-tougher-jail-sentences/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to new research figures released by Plymouth Live, reveals an increase in the number of dark web drug users and traffickers. The amount of <a href="https://www.plymouthherald.co.uk/news/plymouth-news/truth-buying-drugs-dark-web-1632392">dark web drugs recovered by police in Plymouth</a> in the past 12 months is equally on the rise.</p>
 <p>The figures show that over 1,210 drugs were seized between April 2017 and March 2018, compared to 905 in a similar research the previous year. These drugs include ketamine, diazepam methadone, cannabis, cocaine, heroin, Ecstasy and New <a href="https://www.deepdotweb.com/2017/07/31/deep-web-novel-psychoactive-substances-nps-psychonauts/">Psychoactive Substances</a> commonly known as legal highs.</p>
 <p>Det Con Simon Rawlinson, a Drug Liaison Officer assisting in data collection cautioned people over making use of the dark web. When using <a href="https://www.deepdotweb.com/2018/04/29/cryptocurrency-news-roundup-april-27-2018/">cryptocurrencies</a> to buy drugs online, they are at risk of being classified as illegal drug importers which could result to bigger fines or tougher jail sentences.</p>

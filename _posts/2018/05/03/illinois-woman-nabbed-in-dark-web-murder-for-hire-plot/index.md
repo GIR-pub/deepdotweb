@@ -1,15 +1,15 @@
 ---
 Illinois Woman Nabbed in Dark Web Murder-For-Hire Plot
 ---
-<article class="post-listing post-25585 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-dark tag-illinois tag-murderforhire tag-nabbed tag-plot tag-web tag-woman">
+<article class="post-listing post-25585 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-dark tag-illinois tag-murderforhire tag-nabbed tag-plot tag-web tag-woman">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>May 3, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/03/illinois-woman-nabbed-in-dark-web-murder-for-hire-plot/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>‘Murder-for-hire’ a phrase so cruel and dangerous yet keeps on popping up all thanks to the dark web. Many people have the idea that the dark web has made illegal activities, ranging from drugs, guns, and trafficking amongst others easier on the dark web.</p>
 <p>According to the DuPage County prosecutor’s office, an Illinois woman has been accused of using a dark web marketplace to hire a company to kill the wife of a man she was having an affair with. According to a statement from the DuPage County State’s Attorney’s Office the 31-year-old Tina Jones was charged with a single <a href="http://www.fox32chicago.com/news/crime/woman-paid-10k-in-bitcoin-on-dark-web-in-murder-for-hire-plot-prosecutors">count of solicitation of murder for hire</a>.</p>
 <p>Reports suggest that the DuPage County Police opened an investigation into the case on the 12th of April after the police received a tip from a major news outlet about a woman being the subject of a murder-for-hire plot. Upon the investigations, it was revealed that Tina Jones, of Des Plaines, allegedly paid one dark web company <a href="https://www.deepdotweb.com/2018/04/15/indonesian-student-arrested-for-purchasing-ecstasy-using-bitcoins/">$10,000 in bitcoin</a> back in January to murder the wife of her mistress.</p>

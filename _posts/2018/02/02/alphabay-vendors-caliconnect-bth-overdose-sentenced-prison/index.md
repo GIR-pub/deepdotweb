@@ -1,15 +1,15 @@
 ---
 Alphabay Vendors CaliConnect and BTH-Overdose Sentenced to Prison
 ---
-<article class="post-listing post-24641 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-alphabay tag-bthoverdose tag-caliconnect tag-prison tag-sentenced tag-vendors">
+<article class="post-listing post-24641 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-alphabay tag-bthoverdose tag-caliconnect tag-prison tag-sentenced tag-vendors">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 2, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/02/alphabay-vendors-caliconnect-bth-overdose-sentenced-prison/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Chief U.S. District Judge Lawrence J. O’Neill <a href="https://www.justice.gov/usao-edca/pr/dark-web-drug-traffickers-sentenced-separate-cases-80-months-and-70-months-prison">sentenced two darknet drug dealers</a>, both a part of separate cases, on the same day in January. He sentenced David Ryan Burchard (CaliConnect) to six years and eight months in prison. The second vendor fared slightly better; the judge sentenced Emil Vladimirov Babadjov (Blime-Sub and BTH-Overdose) to five years and 10 month in prison.</p>
 <p style="text-align: center;"><img class="wp-image-24644 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Burchard, a 40-year-old from Merced, California, sold on Silk Road, Agora, Abraxas, Alphabay, and others under the CaliConnect moniker. On Silk Road alone, Burchard sold roughly $1,400,000 worth of drugs. He sold mainly marijuana. And according to an affidavit by an FBI agent who had investigated the case, CaliConnect was the third largest Silk Road vendor. People bought a lot of the man’s marijuana (and some cocaine). And Burchard knew the value of his product. He knew the CaliConnect brand carried weight on the darknet and he wanted people on the clearnet to know it, too.</p>

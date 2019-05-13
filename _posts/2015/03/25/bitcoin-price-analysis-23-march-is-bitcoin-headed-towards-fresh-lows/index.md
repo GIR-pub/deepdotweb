@@ -7,9 +7,8 @@ Bitcoin Price Analysis 25 March: Is Bitcoin Headed Towards Fresh Lows?
 <span>March 25, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/25/bitcoin-price-analysis-23-march-is-bitcoin-headed-towards-fresh-lows/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="/imgs/2015/03/price1.png"><img class="aligncenter size-full wp-image-9628" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/price1.png" alt="price1" width="628" height="356" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/price1.png 628w, https://www.deepdotweb.com/wp-content/uploads/2015/03/price1-300x170.png 300w" sizes="(max-width: 628px) 100vw, 628px"/></a></p>
 <p>Last week, I wrapped up my Bitcoin analysis with a forecast of a successful test and break of $ 300 resistance. Unfortunately, events unfolding after publishing catalysed a break to $260. News of Evolution’s stolen bitcoins, possibly spooked the market and gave it more reason to head lower.</p>
 <p>A meltdown that began by breaking $283 level, further going on to break consecutive levels at $274, $ 262, $ 250 and now at $236. The market consolidated in a triangle pattern at $ 260 and a break out pushed up to $272, however. It was not strong enough, allowing the stronger bear market to drag prices lower impulsively.</p>

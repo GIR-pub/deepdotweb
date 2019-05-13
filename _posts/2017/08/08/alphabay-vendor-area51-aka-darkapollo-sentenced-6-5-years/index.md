@@ -1,7 +1,8 @@
 ---
 Alphabay Vendor “Area51” aka “DarkApollo” Sentenced to 6.5 Years
 ---
-<article class="post-listing post-21815 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-3813 tag-aka tag-alphabay tag-area51 tag-darkapollo tag-sentenced tag-vendor tag-years">
+<article class="post-listing post-21815 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-3813 tag-aka tag-alphabay tag-area51 tag-darkapollo tag-sentenced tag-vendor tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 8, 2017</span>

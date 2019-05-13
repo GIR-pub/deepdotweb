@@ -7,9 +7,8 @@ title: Black Market Reloaded: Another Weapon Dealer Got Busted
 <span>November 9, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/11/09/black-market-reloaded-another-weapon-dealer-got-busted/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>We saw one previous bust of a weapon vendor from black market reloaded marketplace a <a href="http://www.forbes.com/sites/andygreenberg/2013/11/07/sting-operation-nabs-alleged-online-arms-dealer-via-silk-road-competitor-site/" target="_blank">few month ago</a>,</p>
 <p>and now its seems that another vendor got busted. it also appears from the article that BMR is being watched closely by the FBI (in case you had your doubts about that):</p>
 <p>&#8212;&#8211;</p>

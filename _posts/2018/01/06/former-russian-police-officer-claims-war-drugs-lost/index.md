@@ -1,15 +1,15 @@
 ---
 Former Russian police officer claims: &#8220;War on drugs is lost&#8221;
 ---
-<article class="post-listing post-24296 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-claims tag-drugs tag-lost tag-officer tag-police tag-russian tag-war">
+<article class="post-listing post-24296 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-claims tag-drugs tag-lost tag-officer tag-police tag-russian tag-war">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>January 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/06/former-russian-police-officer-claims-war-drugs-lost/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>During the<a href="https://lenta.ru/articles/2016/08/01/fskntrue/"> interview</a> to &#8220;Lenta.ru,&#8221; a former officer of Federal Drug Control Service of Russia explained how the war on drugs was lost and why all controlled substances are sold and bought on the darknet.</p>
 <p><strong>&#8220;No one buys on the streets&#8221;</strong></p>
 <p>In the Drug Control Service we did not follow trends. Maybe it happened because we got used to monitoring not the market but main supply channels. Now I understand that it was a fatal error which resulted in switching drug trafficking to the Internet.</p>

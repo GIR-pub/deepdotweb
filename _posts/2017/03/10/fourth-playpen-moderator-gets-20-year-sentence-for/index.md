@@ -1,15 +1,15 @@
 ---
 Fourth PlayPen Moderator Gets 20-Year Sentence For Promoting Child Porn
 ---
-<article class="post-listing post-18532 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates">
+<article class="post-listing post-18532 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 10, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/10/fourth-playpen-moderator-gets-20-year-sentence-for/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>David Lynn Browning, a 47-year-old moderator of PlayPen, a darknet child pornography distribution marketplace, was sentenced to 20 years in prison for promoting inappropriate and illicit content.</p>
 <p>Over the past few months, DeepDotWeb have provided extensive coverage on the trials of administrators and moderators of PlayPen. On February 1, in an article entitled “<a href="https://www.deepdotweb.com/2017/02/01/third-co-admin-child-pornography-site-playpen-sentenced-20-years-prison/">Third Co-Admin of the Child Pornography Site “PlayPen” Sentenced to 20 Years in Prison</a>,” DeepDotWeb reported that Michael Fluckiger, known as “Administrator 2” of PlayPen, was also sentenced to 20 years in prison.</p>
 <p>The imprisonment of Browing marks the fourth moderator or administrator of PlayPen who has been arrested for actively promoting child pornography in the dark web. The official statement released by the United States Department of Justice (DoJ) <a href="https://www.justice.gov/opa/pr/kentucky-man-sentenced-prison-engaging-child-exploitation-enterprise">read:</a></p>

@@ -1,15 +1,15 @@
 ---
 Hacker Who Tried To Frame Security Researcher in 2013 &#8211; Sentenced To Prison
 ---
-<article class="post-listing post-18626 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-620 tag-frame tag-hacker tag-prison tag-researcher tag-security tag-sentenced">
+<article class="post-listing post-18626 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-620 tag-frame tag-hacker tag-prison tag-researcher tag-security tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 15, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/15/hacker-tried-frame-security-researcher-2013-sentenced-prison/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 31-year-old hacker from Ukraine, was <a href="https://www.infosecurity-magazine.com/news/hacker-that-tried-to-frame-krebs/">sentenced</a> to 41 months in prison for serious crimes, including ordering heroin from a narcotics vendor on the Silk Road Marketplace to security researcher Brian Krebs’ home.</p>
 <p><img class="wp-image-18637 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-9-pn.png" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\9.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-9-pn.png 600w, https://www.deepdotweb.com/wp-content/uploads/2017/03/c-users-dzsuvax-desktop-twerk-deepdotweb-img-9-pn-300x178.png 300w" sizes="(max-width: 600px) 100vw, 600px"/></p>
 <p>The cybercriminal is known by various names (both in the “real world” and on the dark net), including Sergey Vovnenko, Sergey Vovnencko, Tomas Rimkis, Flycracker, Flyck, Fly, Centurion, MUXACC1, Stranier and Darklife. In a joint operation between the US Secret Service and Italian police, law enforcement authorities arrested the suspect on June 13, 2014. Italian investigators detained the 31-year-old, however, when his extradition was pending, he contested the decision for more than 15 months.</p>

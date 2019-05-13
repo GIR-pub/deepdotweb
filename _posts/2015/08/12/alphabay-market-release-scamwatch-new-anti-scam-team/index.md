@@ -7,9 +7,8 @@ Alphabay Market Release &#8220;ScamWatch&#8221; &#8211; New Anti-Scam Team
 <span>August 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/12/alphabay-market-release-scamwatch-new-anti-scam-team/#comments">11 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay market</a> admins just introduced new feature that will hopefully help to reduce the amount of scams on the market, taken from their forum thread.</p>
 <p>Source: http://pwoah7foa6au2pul.onion/forum/index.php?threads/new-anti-scam-team.17512/#post-143050</p>
 <blockquote><p><em>The Alphabay SCAMWATCH Team</em></p>

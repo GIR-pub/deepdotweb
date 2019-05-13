@@ -1,7 +1,8 @@
 ---
 How Hackers Avoid Honeypots
 ---
-<article class="post-listing post-22492 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-avoid tag-hackers tag-honeypots">
+<article class="post-listing post-22492 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-avoid tag-hackers tag-honeypots">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
     <span>September 11, 2017</span>

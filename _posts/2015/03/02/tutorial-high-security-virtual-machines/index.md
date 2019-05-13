@@ -7,9 +7,8 @@ Tutorial: High Security Virtual Machines
 <span>March 2, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/03/02/tutorial-high-security-virtual-machines/#comments">27 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Utilizing Virtualization to Increase Information Security</strong></p>
 <p>Anonymity, privacy and information security are issues that affect all people in today’s digital age, not just cyber-criminals and drug dealers. You might handle company secrets that competitors or hackers could use to wreak havoc upon your company and steal from your customers. You might work in a conservative setting in which your sexual orientation or political views would subject you to negative stereotyping. Perhaps you’re a medicinal cannabis user in a state with hostile laws surrounding the issue. Attorneys, doctors and accountants constantly face frivolous lawsuits that could destroy their careers, while journalists documenting governmental abuses could find themselves in all sorts of trouble before they know it. Maybe you simply value discretion in your personal relationships and communications, and expect a reasonable amount of privacy in your daily life.</p>
 <p>The bad news is that obtaining such a measure of privacy is increasingly difficult, and <em>uncommon</em>, in today’s technological landscape, and I have no turn-key solution for this problem. The good news is that I can provide several simple security measures that are easy to implement and go a very long way in defeating all but the most sophisticated intrusion attempts.</p>

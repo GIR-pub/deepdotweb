@@ -1,15 +1,15 @@
 ---
 Former Socialist Youth Leader Granted Bail in Spain
 ---
-<article class="post-listing post-24894 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-bail tag-granted tag-leader tag-socialist tag-spain tag-youth">
+<article class="post-listing post-24894 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-bail tag-granted tag-leader tag-socialist tag-spain tag-youth">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 28, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/28/former-socialist-youth-leader-granted-bail-spain/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A court in Elche, Spain, <a href="http://www.diarioinformacion.com/elche/2018/02/06/juez-ratifica-libertad-exlider-joves/1985800.html">granted the pretrial release</a> of Alejandro Díaz, a former general secretary of Joves Socialistes (The Socialist Youth of Spain). Law enforcement arrested the former leader after discovering that he used several darknet child abuse forums and message boards. The Prosecutors Office argued that the defendant posed a flight risk due to the defendant&#8217;s former involvement in a political party.<img class="wp-image-24899 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-37.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-37.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-37-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>However, the court disagreed. The court argued that Alejandro Díaz had complied with the court completely. Prior to his incarceration, the man had shown up for court appearances at his own free will, the judge said. And once in custody, Diaz continued to comply with the court. The prosecution also argued that the weight of the charges could influence the defendant’s decision. He faces a minimum of two years in prison for possessing child abuse material, if convicted.</p>
 <p><a href="https://www.deepdotweb.com/2017/06/30/socialist-youth-leader-arrested-child-pornography/">The investigation began in 2016</a> after agents of the Central Technological Research Brigade discovered several new private forums on the darknet that specialized in &#8220;new and unpublished” content. The investigators also found a network for the private exchange of illegal content via anonymous messaging apps.</p>

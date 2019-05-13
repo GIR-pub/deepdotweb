@@ -7,9 +7,8 @@ title: List of Hidden Marketplaces ~ Update 13.11.13
 <span>November 13, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/11/13/list-of-hidden-marketplaces-update-13-11-13/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Our list of hidden marketplaces was updated today &#8211;</p>
 <p>+ Added Tor Market</p>
 <p>+ Added Modern Culture</p>

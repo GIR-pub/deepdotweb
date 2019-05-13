@@ -1,15 +1,15 @@
 ---
 Business from the inside out: Dropper
 ---
-<article class="post-listing post-24684 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-business tag-dropper">
+<article class="post-listing post-24684 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-business tag-dropper">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>February 5, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/02/05/business-inside-dropper/#comments">9 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Who are droppers? If you need to cash an ATM card or withdraw money from a bank account you cannot do without a dropper. It is surely possible to hire a newbie, who knows nothing about responsibilities and the specificity of this activity. In this case you can pay him a penny but you can run into problems. The thing is &#8211; such droppers usually have no idea about what they are doing; they do not realize possible risks and take no precautions. Such amateurs are easily figured out and they will unlikely be able to work as a dropper after it. If you want stability you should instead find a professional dropper, who is aware of all nuances, schemes and pitfalls. But the work of professionals costs more.</p>
 <p>An experienced dropper agreed <a href="http://hack-port.ru/forum/165-6165-1">to answer several questions and describe his job.</a></p>
 <p><a id="post-24684-_gjdgxs"></a> <strong>&#8211; Tell us, please, what </strong><a href="https://www.deepdotweb.com/2017/12/05/six-fraudsters-arrested-darknet-carding-scheme/"><strong>the scheme</strong></a><strong> is and how it works?</strong></p>

@@ -7,9 +7,8 @@ Saviour of Bitcoin? You decide
 <span>October 5, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/10/05/saviour-of-bitcoin-you-decide/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Guest Post by by Fred Rico – Computer Engineering Graduate from Europe currently working in the computer industry, who took the project of resurrecting <a href="https://www.deepdotweb.com/tag/bitwasp/">Bitwasp</a> (Open source marketplace software designed to use Bitcoin which was used by several failed markets over the past 2 years):</em></p>
 <p>Since 2009 many followers of the Bitcoin Crypto currency have searched for that illusive commercial platform which incorporates all the much publicized benefits of Bitcoin. <em>Namely Free, Transparent, secure and available to all</em>.</p>
 <p>Any medium that has not only lasted but been a change agent in humanities timeline has depended on one thing commerce.</p>

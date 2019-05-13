@@ -1,15 +1,15 @@
 ---
 Three Drug Buyers Arrested in Austrian Investigation
 ---
-<article class="post-listing post-25288 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-austrian tag-buyers tag-drug tag-investigation">
+<article class="post-listing post-25288 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-austrian tag-buyers tag-drug tag-investigation">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/06/three-drug-buyers-arrested-in-austrian-investigation/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In July 2017, Customs Officials of the Frankfurt Customs Office in Germany seized a package of amphetamines addressed to a 28-year-old from the Rohrbach district of Austria. Over time, authorities became aware of three more packages of amphetamines addressed to the 28-year-old in Austria. In March 2018, the 28-year-old’s arrest led to the arrest of two additional suspects and an investigation into nearly 50 drug users connected to the case.<img class="wp-image-25293 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-9.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-9.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-9-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>After the Frankfurt Customs Office intercepted the amphetamine packages, the <a href="http://deepdotweb.com/tag/bka">German authorities</a> sent word to their Austrian counterparts about the suspected drug smuggler. Months later, in November 2017, Austrian authorities searched the suspect&#8217;s Rohrbach home with assistance from police service dogs trained to find narcotics.</p>
 <p>According to a spokesperson for the Linz Public Prosecutor, the raid was a massive success. The police dogs and human investigators found marijuana, cocaine, MDMA, amphetamine, and LSD. They also found elements used in the distribution of narcotics and traces of drugs on many of these items. (They likely found only scales and bags or similar materials used for &#8216;in person’ drug deals. They mentioned nothing that indicated the suspect had sold drugs on <a href="http://deepdotweb.com/tag/darknet">the darknet</a>.) After the police took the 28-year-old into custody for importing drugs and possessing drugs, they received a full confession about the seized packages. He told the police that he had been hired to order appearances for a 31-year-old from Rohrbach and a 22-year-old from Haslach. It is not clear how naming the alleged clients would have helped with the possession charges.</p>

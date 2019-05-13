@@ -1,15 +1,15 @@
 ---
 Dealer Allegedly Pressed Xanax in Rented Beach Homes
 ---
-<article class="post-listing post-26426 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-allegedly tag-beach tag-dealer tag-homes tag-pressed tag-rented tag-xanax">
+<article class="post-listing post-26426 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-allegedly tag-beach tag-dealer tag-homes tag-pressed tag-rented tag-xanax">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 28, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/28/dealer-allegedly-pressed-xanax-in-rented-beach-homes/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The court documents for a darknet <a href="https://www.deepdotweb.com/tag/xanax/">Xanax and Oxycodone</a> vendor remain sealed, but a recent pre-trial bond hearing testimony shed some light on a drug trafficking organization with roots in South Carolina and Georgia. The bond hearing resulted in a decision unfavorable to the alleged drug dealer: U.S. Magistrate Judge Paige Gossett opted to keep the defendant in custody until his next court appearance.<img class="wp-image-26432 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-67.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-67.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-67-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>U.S. Attorney Jim May argued that the man had access to bitcoin wallets of unknown value and fake identities and could easily flee the country or state in an attempt to avoid facing a potential life sentence. The defendant, according to <a href="http://amp.thestate.com/news/local/crime/article214751310.html">thestate.com</a>, is currently sitting at Lexington County jail with two co-conspirators. (At the time of this article, I could not find the defendants listed in the inmate directory.)</p>
 <p>According to Richland County Sheriff’s deputy William Cobia, Eric Hughes, 36, ran a counterfeit pill pressing operation from vacation homes on the East Coast in Hilton Head, South Carolina; the Fripp islands, South Carolina; Kiawah, South Carolina; and Tybee Island, Georgia. With assistance from his co-conspirators, Hughes allegedly rented homes, set up his pill presses, and pumped out pills. He sold the pills <a href="https://www.deepdotweb.com/tag/darknet/">on the darknet</a> while continuing the process at a different beach house.</p>

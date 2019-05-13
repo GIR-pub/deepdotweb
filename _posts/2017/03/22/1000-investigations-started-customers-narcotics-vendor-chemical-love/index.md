@@ -1,15 +1,15 @@
 ---
 More Than 1,000 Investigations Started Against The Customers Of Narcotics Vendor Chemical Love
 ---
-<article class="post-listing post-18742 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2821 tag-chemical tag-customers tag-investigations tag-love tag-narcotics tag-started tag-vendor">
+<article class="post-listing post-18742 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-2821 tag-chemical tag-customers tag-investigations tag-love tag-narcotics tag-started tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 22, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/22/1000-investigations-started-customers-narcotics-vendor-chemical-love/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On April 14, 2016, law enforcement authorities <a href="https://www.deepdotweb.com/2016/05/17/dark-web-vendor-chemical-love-busted-50-kg-drugs-seized/">raided</a> the headquarters of the narcotics vendor shop “Chemical Love” arresting five suspects. The bust resulted in investigators seizing massive amounts of drugs. Now, the defendants are <a href="http://www.rheinpfalz.de/nachrichten/titelseite/artikel/chemical-love-erst-normaler-online-shop-dann-darknet-drogen/">standing trial</a> in the courtroom in Landau in der Pfalz, Germany.</p>
 <p><img class="wp-image-18748 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/http-static-rheinpfalz-de-typo3temp-_processed_-.jpeg" alt="http://static.rheinpfalz.de/typo3temp/_processed_/csm_91-95287401_1d86bc3f0e.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/http-static-rheinpfalz-de-typo3temp-_processed_-.jpeg 678w, https://www.deepdotweb.com/wp-content/uploads/2017/03/http-static-rheinpfalz-de-typo3temp-_processed_--300x221.jpeg 300w" sizes="(max-width: 678px) 100vw, 678px" /></p>
 <p>When German police arrested the five suspects and raided the “narcotics depot”, they found an astonishing amount of drugs. Law enforcement authorities seized approximately 45 kilograms of amphetamine imported from the Netherlands, more than 3.5 kilograms of amphetamine, 1.4 kilograms of cocaine, 230 grams of heroin, 4,158 LSD trips, 2 kilograms of hash, 250 grams of crystal meth, 4.7 kilograms of MDMA in crystalline form, and 5.1 kilograms of ecstasy pills. In addition, they are expected to receive approximately 75 kilograms of amphetamine, 3.6 kilograms of MDMA, 2,700 LSD trips, 12,800 ecstasy pills, 1,67 kilograms of cocaine, 300 grams of heroin, 2.93 kilograms of hash and 2,300 kilos of amphetamine 165 grams of crystal meth.</p>

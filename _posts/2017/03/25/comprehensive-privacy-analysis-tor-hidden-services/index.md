@@ -1,15 +1,15 @@
 ---
 A Comprehensive Privacy Analysis of Tor Hidden Services
 ---
-<article class="post-listing post-18788 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analysis tag-comprehensive tag-hidden tag-privacy tag-services tag-tor">
+<article class="post-listing post-18788 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-analysis tag-comprehensive tag-hidden tag-privacy tag-services tag-tor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 25, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/25/comprehensive-privacy-analysis-tor-hidden-services/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Tor is one of the most popular darknets, which is known for its <a href="https://www.deepdotweb.com/2014/12/28/research-news-tor-privacy-security-dece-28th-2014/">high levels of anonymity</a>. Even though Tor&#8217;s protocol and its relay security have been thoroughly studied, there is currently no detailed analysis of the framework and privacy of hidden web services on this widely used darknet.</p>
 <p>To address this, <a href="http://s3.eurecom.fr/docs/www17_darktracing.pdf">a group of researchers formulated a specialized analysis platform</a> that they used to crawl and analyze more than 1.5 million URLs of hidden web services hosted on 7257 onion domains. For each studied web page, its resources, backlinks and its redirection graphs were thoroughly analyzed, along with the category and language distribution. As per the experiments done by the researchers, Tor hidden web services are grouped within a sparse, yet highly connected graph, throughout which approximately 10% of all onion sites are technically completely isolated.</p>
 <p><img class="wp-image-18800 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/tor-privacy-jpg.jpeg" alt="TOR privacy.jpg" width="803" height="625" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/tor-privacy-jpg.jpeg 1430w, https://www.deepdotweb.com/wp-content/uploads/2017/03/tor-privacy-jpg-300x233.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/tor-privacy-jpg-1024x797.jpeg 1024w" sizes="(max-width: 803px) 100vw, 803px" /></p>

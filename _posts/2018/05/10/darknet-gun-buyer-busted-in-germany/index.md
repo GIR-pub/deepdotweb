@@ -1,15 +1,15 @@
 ---
 Darknet Gun Buyer Busted in Germany
 ---
-<article class="post-listing post-25653 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-busted tag-buyer tag-darknet tag-germany tag-gun">
+<article class="post-listing post-25653 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-busted tag-buyer tag-darknet tag-germany tag-gun">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 10, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/10/darknet-gun-buyer-busted-in-germany/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Customs investigators in Frankfurt, Germany, have arrested a 38-year-old from Bremen for allegedly purchasing two weapons and more than 500 rounds of ammunition. A special unit with the Frankfurt Customs Office conducted the investigation during an extensive operation targeting the illegal weapons trade on the darknet.</p>
 <p>According to an <a href="http://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Waffen/2018/y90_sportschuetze_illegale_waffengeschaefte.html?nn=20202">announcement on zoll.de</a>, the official website of German Customs, investigators completed the investigation into the 38-year-old on April 26, 2018. In fairness, the investigation may be ongoing; on April 26, German authorities collected enough evidence to secure an arrest warrant and successfully arrested the man.</p>
 <p>The announcement, published on April 30, revealed that the public prosecutor&#8217;s office in Bremen initiated the investigation sometime in the month of March. Even though the press release lacked the details usually included in similar arrests, the wording suggested that the entire case landed in the lap of the Customs investigators through an undercover operation (as opposed to a package seizure or something similar). In many of these weapon cases in Germany, investigators have relied on information collected in prior <a href="https://www.deepdotweb.com/tag/darknet/">darknet arrests</a>.</p>

@@ -1,15 +1,15 @@
 ---
 Dream Vendor ‘Mr Drug Commander’ Admits Drug Trafficking
 ---
-<article class="post-listing post-26425 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-admits tag-commander tag-dream tag-drug tag-trafficking tag-vendor">
+<article class="post-listing post-26425 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-admits tag-commander tag-dream tag-drug tag-trafficking tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>July 28, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/28/dream-vendor-mr-drug-commander-admits-drug-trafficking/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Late last year, the German Federal Criminal Police Office announced the arrest of a so-called “top vendor” who, according to an <a href="https://www.scribd.com/document/365431415/Rauschgift-Darknet-Mrdrogenkommandant-Announcement">official press release</a>, had been selling methamphetamine, ecstasy, and other drugs on the now-defunct Hansa darknet market and Dream market. The vendor now faces a week long trial in a court in Coburg for the large scale and commercial trafficking of narcotics.<img class="wp-image-26428 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-65.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-65.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-65-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The 30-year-old man, a citizen of the Netherlands, admitted selling drugs on darknet markets under the usernames <a href="https://www.deepdotweb.com/2017/12/09/major-dream-vendor-busted-germany/#comments">“mrdrogenkommandant” and “drogenfahndung”</a>. Mr. Drug Commander, a name the media really took a liking to, admitted selling hundreds of kilograms of drugs to buyers across the globe. However, a significant number of his customers lived in Germany. And, in an effort to evade law enforcement in the Netherlands, the employed a significant number of “young people&#8221; who drove packages of drugs from the Netherlands post offices in Germany.</p>
 <p><img class="wp-image-26429" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-2.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-2.png 857w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-2-300x173.png 300w" sizes="(max-width: 857px) 100vw, 857px" /></p>

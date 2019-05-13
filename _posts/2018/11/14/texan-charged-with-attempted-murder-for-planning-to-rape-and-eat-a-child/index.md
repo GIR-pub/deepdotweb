@@ -1,15 +1,15 @@
 ---
 Texan Charged with Attempted Murder for Planning to Rape and Eat a Child
 ---
-<article class="post-listing post-27217 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-attempted tag-charged tag-child tag-eat tag-murder tag-planning tag-rape tag-texan">
+<article class="post-listing post-27217 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-attempted tag-charged tag-child tag-eat tag-murder tag-planning tag-rape tag-texan">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>November 14, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/11/14/texan-charged-with-attempted-murder-for-planning-to-rape-and-eat-a-child/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A man from Shelby County, Texas, was <a href="https://www.lightandchampion.com/news-center-news-joaquin-news-logansport-news-shelbyville-news-tenaha-news-timpson-news/joaquin-man">arrested by the Federal Bureau of Investigation</a> after allegedly arranging to sexually assault, kill, and cannibalize the daughter of someone he had met on a darkweb forum.<img class="wp-image-27221 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-19.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-19.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-19-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>According to a criminal complaint, a member of the Homeland Security Investigations’ Child Exploitation Task Force in Florida discovered a post <a href="https://www.deepdotweb.com/tag/darknet/">on a darkweb forum</a> posted by an individual living in Texas who had expressed an interest in several crimes against a minor that stood out to the task force member. The poster had asked if anyone had an underage girl he could rape, murder, and then consume the girl’s remains. Towards the end of the forum post, according to the complaint, the poster had left two encrypted email addresses where anyone with access to a daughter could get in touch with him.</p>
 <p>A special agent with the Texas Department of Public Safety followed up on the report from the Child Exploitation Task force by sending an email to one of the email addresses found on the forum post. The undercover agent posed as a father interested in offering his daughter to the poster. The fictional father emailed the poster about his daughter and asked whether or not he could also participate in the gruesome crimes the forum poster had fantasized about committing. Shortly after sending an email, the agent found a response in his inbox consisting of the following line: &#8220;Nice! I’m in East Texas. How old is your daughter? Can we kill her?” The email contained graphic details of what the forum poster wanted to do to the girl before and after killing her.</p>

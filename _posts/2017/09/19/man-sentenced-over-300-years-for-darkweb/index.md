@@ -1,7 +1,8 @@
 ---
 Man sentenced over 300 years for Darkweb child porn case
 ---
-<article class="post-listing post-22629 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4481 tag-case tag-child tag-darkweb tag-man tag-porn tag-sentenced tag-years">
+<article class="post-listing post-22629 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-4481 tag-case tag-child tag-darkweb tag-man tag-porn tag-sentenced tag-years">
     
     <div class="post-inner">
     

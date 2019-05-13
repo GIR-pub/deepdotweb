@@ -1,15 +1,15 @@
 ---
 Research: A novel intelligent rule-based deep web crawler
 ---
-<article class="post-listing post-27060 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-crawler tag-deep tag-intelligent tag-research tag-rulebased tag-web">
+<article class="post-listing post-27060 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-crawler tag-deep tag-intelligent tag-research tag-rulebased tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>October 26, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/10/26/research-a-novel-intelligent-rule-based-deep-web-crawler/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Developing a crawler for the deep web is definitely a tough task. The crawler&#8217;s processing time is by far the bottleneck for a deep web crawler. Whenever web FORMS have to be filled to access webpages that belong to the deep web, all possible values are used to fill these forms, so the combination of values is enormous. Accordingly, most crawlers are ineffective in fetching webpages from the <a href="https://www.deepdotweb.com/2015/06/08/the-dark-web-deep-web-and-dark-net-terminology-hell/">deep web</a>.</p>
 <p><a href="https://link.springer.com/chapter/10.1007/978-981-13-2559-5_1">A recently published paper</a> proposed the specifications of a novel deep web crawler. The new crawler includes an indexer that has the capability to fetch a huge number of webpages from the deep web, as well as, the surface web. Before delving more into the details of the new crawler, let&#8217;s take a look at some important definitions:</p>
 <p><img class="wp-image-27065 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/10/web-crawler-jpg.jpeg" alt="web-crawler.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/10/web-crawler-jpg.jpeg 600w, https://www.deepdotweb.com/wp-content/uploads/2018/10/web-crawler-jpg-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2018/10/web-crawler-jpg-300x300.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2018/10/web-crawler-jpg-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2018/10/web-crawler-jpg-50x50.jpeg 50w" sizes="(max-width: 600px) 100vw, 600px" /></p>

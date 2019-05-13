@@ -1,15 +1,15 @@
 ---
 640K PlayStation Accounts for Sale on the Darknet
 ---
-<article class="post-listing post-18817 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-640k tag-accounts tag-darknet tag-playstation tag-sale">
+<article class="post-listing post-18817 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-640k tag-accounts tag-darknet tag-playstation tag-sale">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 27, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/27/640k-playstation-accounts-sale-darknet/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>C. Aliens</p>
 <p>640K PlayStation Accounts for Sale on the Darknet</p>
 <p>A vendor under the name “SunTzu583” listed 640,000 PlayStation user accounts on TheRealDeal marketplace. Unlike many database dumps, these accounts landed on the darknet, fully decrypted and in plaintext. SunTzu583 never explained where the accounts came from but said the username and password combo worked with PlayStation-related activities.</p>

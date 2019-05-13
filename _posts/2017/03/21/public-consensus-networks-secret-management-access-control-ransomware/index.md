@@ -1,15 +1,15 @@
 ---
 Public Consensus Networks &#038; Secret Management : From Access Control to Ransomware
 ---
-<article class="post-listing post-18730 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-access tag-consensus tag-control tag-management tag-networks tag-public tag-ransomware tag-secret">
+<article class="post-listing post-18730 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-access tag-consensus tag-control tag-management tag-networks tag-public tag-ransomware tag-secret">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 21, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/21/public-consensus-networks-secret-management-access-control-ransomware/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The advent of bitcoin has introduced the world to a new class of decentralized networks. Referred to as &#8220;consensus networks&#8221;, such systems, as bitcoin&#8217;s and Ethereum&#8217;s blockchain, deploy highly distributed volunteer-run networks to implement public rules that are responsible for managing access to various resources. Bitcoin&#8217;s network utilizes consensus to apply monetary transaction rules. Nevertheless, more recently consensus based systems have been proposed for a wide range of applications including identity management and classified data management in distributed systems. There are two main benefits for using consensus based networks which are:</p>
 <p>1. Public consensus networks are volunteer-run networks that are inexpensive to setup and readily available, so deployment of expensive hardware is not needed.</p>
 <p>2. These networks are highly secure and an attacker would have to utilize an enormous amount of computational resources to comprise such networks, if ever.</p>

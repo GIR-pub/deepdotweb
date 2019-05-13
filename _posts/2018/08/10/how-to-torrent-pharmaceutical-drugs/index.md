@@ -1,15 +1,15 @@
 ---
 How To Torrent Pharmaceutical Drugs
 ---
-<article class="post-listing post-26530 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-drugs tag-pharmaceutical tag-torrent">
+<article class="post-listing post-26530 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-drugs tag-pharmaceutical tag-torrent">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>August 10, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/08/10/how-to-torrent-pharmaceutical-drugs/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>At the recent Hackers On Planet Earth (HOPE) conference, Dr. Michael S. Laufer the chief spokesman for the biohacker collective known as the <a href="https://fourthievesvinegar.org/">Four Thieves Vinegar Collective</a>, gave his <a href="https://livestream.com/accounts/9197973/events/8286152/videos/177929992">second presentation</a> at the hacker conference. Laufer is a doctor of mathematics, not a doctor of medicine, but he works on a project that could change how people can get access to medicine. The biohacker group Laufer speaks for is named after an old herbal concoction called Four Thieves Vinegar, which was believed to protect users from the plague. HOPE is held once every two years, and Dr. Laufer delivered his original talk, titled “How To Torrent Pharmaceutical Drugs,” at HOPE back in July of 2016. This year his follow up presentation was titled “Torrent More Pharmaceutical Drugs: File Sharing Still Saves Lives.” During both of Dr. Laufer’s presentations, he shared information about the amazing work that the Four Thieves Vinegar Collective has done and is still planning to do, things like enabling people to make their own medicine, prevent the spread of HIV/AIDS, stop cavities, and generally enable folks to take control of their health.</p>
 <p>The mission of the Four Thieves Vinegar Collective is to enable free access to medicine for all people. To achieve this mission, the group is developing a free and open source automated chemical reactor, essentially an automated drug lab, called the Apothecary Microlab. The Apothecary Microlab enables users to download synthesis instructions for a drug, which would be loaded into the Apothecary Microlab (much like how a .stl 3D model file is loaded into a <a href="https://www.deepdotweb.com/2014/07/19/darknet-markets-will-undermine-government-control-guns/">3D printer</a>), the device would then also be loaded with precursor chemicals and other substances necessary for the chemical reaction. The entire synthesis of a drug is then completely automated, as the machine injects the chemicals and creates the reaction automatically. This automated lab could enable people to make pharmaceutical drugs in their closet for pennies that large international pharmaceutical corporations charge thousands of dollars for.</p>
 <p>The Apothecary Microlab is still in early development, but the Four Thieves Vinegar Collective already had some early successes with their Do-It-Yourself automated drug lab. During Dr. Laufer’s presentation at HOPE this year, he mentioned that the group had originally put off plans to release the instructions to make naloxone, also known as Narcan, a drug which reverses opioid overdoses. The plans to release naloxone for the Apothecary Microlab were put on hold because the drug was becoming more available over-the-counter in many states, and the <a href="https://www.deepdotweb.com/2017/06/28/dea-seized-50kg-fentanyl-precursor-massachusetts/">precursors</a> necessary for making naloxone are mostly highly controlled and watched.</p>

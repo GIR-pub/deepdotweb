@@ -7,9 +7,8 @@ Bitcoin Medium Term Price Outlook
 <span>September 21, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/09/21/bitcoin-medium-term-price-outlook/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/09/1.png"><img class="aligncenter wp-image-11575" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/1.png" alt="1" width="957" height="445" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/09/1.png 1488w, https://www.deepdotweb.com/wp-content/uploads/2015/09/1-300x140.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/09/1-1024x476.png 1024w, https://www.deepdotweb.com/wp-content/uploads/2015/09/1-272x125.png 272w" sizes="(max-width: 957px) 100vw, 957px"/></a></p>
 <p>The long term price of bitcoin always stirs up a response from bitcoin speculators. In the past 5 years, the price has fluctuated wildly, up + 17,500% as of January 2014. In hindsight, it is an obvious a pattern &#8211; goes up a while, then down, then back up. However, the past 22 months of a bear market, with several attempts at recovery, have dashed moon speculators high high hopes. Any rebound back up for another bull price run, has to find a final a bottom first. Most bitcoiners agree the future price of Bitcoin is currently undervalued, with few saying exactly how much. The unknown is where and when the market hits bottom.</p>
 <p><strong>Price Projections </strong></p>

@@ -7,9 +7,8 @@ Bitcoin Debit Cards: A Real Comparison
 <span>March 9, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/03/09/bitcoin-debit-cards-a-real-comparison/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>What are your real options for a Bitcoin-loaded debit card? How anonymous are these cards you find on the internet? Many people have grown restless waiting for their pre-ordered debit cards from sites such as Xapo. Others face financial restrictions as clients in the US due to bank restrictions. This article lists the status of all your major options.</p>
 <p>Bitcoin debit cards. They promised a card that would not be riddled with fees &#8211; only a single issuance fee. They promised after receiving a backlash from the beta cardholder community; they promised to refund the fees incurred. Bitcoin is a currency that makes reversing charges almost impossible, so this has many people timid to order the Xapo card. The company recently revamped its site, and it is user friendly as well as aesthetically pleasing. The site at the moment offers a virtual wallet and a vault. They have the option to pre-order their debit card, but have only shipped one round of cards.</p>
 <p><a href="/imgs/2014/12/Anex.png"><img class="aligncenter  wp-image-8614" src="https://www.deepdotweb.com/wp-content/uploads/2014/12/Anex.png" alt="Anex" width="319" height="202" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/12/Anex.png 500w, https://www.deepdotweb.com/wp-content/uploads/2014/12/Anex-300x190.png 300w" sizes="(max-width: 319px) 100vw, 319px"/></a></p>

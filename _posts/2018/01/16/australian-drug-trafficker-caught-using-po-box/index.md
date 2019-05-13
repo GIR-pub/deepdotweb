@@ -1,15 +1,15 @@
 ---
 Australian Drug Trafficker Caught Using His Own PO Box
 ---
-<article class="post-listing post-24444 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-australian tag-box tag-caught tag-drug tag-po tag-trafficker">
+<article class="post-listing post-24444 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-australian tag-box tag-caught tag-drug tag-po tag-trafficker">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 16, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/16/australian-drug-trafficker-caught-using-po-box/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Joel Paul Prime, a 32-year-old Eyre Peninsula man, admitted “<a href="https://www.scribd.com/document/368100075/Bitcoin-Funded-Dark-Web-Drug-Trafficker-Joel-Prime-Caught-After-Using-Own-Port-Neil-Post-Box-on-Eyre-Peninsula">masterminding</a>” a darknet drug trafficking operation from his family’s rural home. He pleaded guilty in early 2017 to the import and export of a border controlled drug. He later pleaded guilty to almost a dozen other state drug trafficking charges. Recent court documents revealed that the Australian Border Force caught Prime through the use of a post office box registered under his name.</p>
 <p>Port Lincoln detectives worked with officers from the Australian Border Force to catch Prime. The investigation began in early 2016 when the Border Force allegedly received a tip that <a href="https://www.deepdotweb.com/tag/vendor/">someone</a> had been sending drugs in the mail inside of DVD and CD cases. Investigators seized packages on a routine basis, following a tip in June. Officials reported seizing several at the Port Neill post office. At least one of the packages came from Poland, officials said.</p>
 <p>Emily Brown, one of the prosecutors at a District Court in Adelaide, told the court that the 32-year-old had managed a “sophisticated” operation. She stressed, as did several law enforcement officers, that the drugs Prime imported would not likely have been in Australia if not for <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a>. “Some of these substances are quite rare and they haven’t been found in South Australia, or not often found (here),” Brown said. Serious and Organised Crime branch head David Hunt wrote, in an affidavit, that “due to the emergence of the internet including the ‘darknet’, the number of substances being consumed in South Australia has greatly increased.”</p>

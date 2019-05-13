@@ -7,9 +7,8 @@ Proactive Response and Detection for TOR (PReDTOR) &#8211; A Tool for De-anonymi
 <span>March 6, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/06/proactive-response-detection-tor-predtor-tool-de-anonymizing-tor-traffic/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Tor is a free open source software that enables users to browse the internet anonymously. It utilizes a network of proxy servers from all parts of the world, known as nodes, that route internet connections. Tracing internet traffic sent via Tor represents a daunting task, because it operates via means of encrypted protocols such as HTTPS. Accordingly, determining whether data sent over Tor is legal or not is quite challenging.</p>
 <p>Recently, a group of researchers from the Philippines proposed <a href="https://www.researchgate.net/publication/309533083_Proactive_Response_and_Detection_of_TOR_Anonymizers_through_Signature_and_Heuristic-based_Mechanisms">the Proactive Response and Detection for Tor (PReDTOR)</a> as a security traffic analysis tool that can monitor outbound Tor traffic across a Local Area Network (LAN) environment via signature and heuristic based mechanisms. PreDTOR also includes a reporting and incident response monitoring features that permit closing a Tor connections and blocking an offending IP address for investigative purposes. It can be used by businesses to complement and implement along with the rules of the firewall and Intrusion Detection System (IDS) to monitor traffic across their networks.</p>
 <p><img class="wp-image-18395 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/tor-anonymizers-jpg.jpeg" alt="Tor anonymizers.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/tor-anonymizers-jpg.jpeg 640w, https://www.deepdotweb.com/wp-content/uploads/2017/02/tor-anonymizers-jpg-300x169.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>

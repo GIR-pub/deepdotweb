@@ -7,9 +7,8 @@ title: Official: DPR Personal Wallet Siezed With $28.5 Million in BTC (FBI Press
 <span>October 26, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/10/26/dpr-personal-wallet-siezed-with-28-5-million-in-btc/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>So it seems,  as it was reported today by forbes:<br/>
 <em>FBI Says It&#8217;s Seized $28.5 Million In Bitcoins From Ross Ulbricht, Alleged Owner Of Silk Road</em></p>
 <p><a href="http://www.forbes.com/sites/andygreenberg/2013/10/25/fbi-says-its-seized-20-million-in-bitcoins-from-ross-ulbricht-alleged-owner-of-silk-road/" target="_blank">http://www.forbes.com/sites/andygreenberg/2013/10/25/fbi-says-its-seized-20-million-in-bitcoins-from-ross-ulbricht-alleged-owner-of-silk-road/</a></p>

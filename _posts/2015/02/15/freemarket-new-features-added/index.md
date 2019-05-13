@@ -7,9 +7,8 @@ The FreeMarket &#8211; New Features Added
 <span>February 15, 2015</span>
 <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="http://www.deepdotweb.com/2015/02/15/freemarket-new-features-added/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
     

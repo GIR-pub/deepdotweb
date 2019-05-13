@@ -1,15 +1,15 @@
 ---
 Tor Project Releases New Mobile App to Measure Censorship and Performance
 ---
-<article class="post-listing post-18404 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-app tag-censorship tag-measure tag-mobile tag-performance tag-project tag-releases tag-tor">
+<article class="post-listing post-18404 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-app tag-censorship tag-measure tag-mobile tag-performance tag-project tag-releases tag-tor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 2, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/02/tor-project-releases-new-mobile-app-measure-censorship-performance/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>On February 9<sup>th</sup>, 2017, Tor Project’s Open Observatory of Network Interference (OONI) project released a new free and open source mobile app for <a href="https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe&amp;hl=en">Android</a> and <a href="https://itunes.apple.com/US/app/id1199566366">iOS</a> called OONIprobe. The new app lets mobile users run tests to determine if their government or ISP is blocking websites or internet services, detects the presence of censorship and surveillance systems, and tests the speed and performance of the network. Tor’s OONI project has been monitoring and reporting on internet censorship and surveillance around the globe since 2012, and the new app will allow mobile users to help contribute to the project. “Mobile is where the next billion will come online, so this app fulfills a pressing need to put censorship detection in the hands of the people,” Deji Olukotun, senior Global Advocacy Manager with Access Now, <a href="https://www.theatlantic.com/technology/archive/2017/02/ooniprobe-censorship-mapping/516051/">told The Atlantic</a>.</p>
 <p><img class="wp-image-18411 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-93.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-93.png 400w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-93-168x300.png 168w" sizes="(max-width: 400px) 100vw, 400px"/></p>
 <p>The OONIprobe mobile app allows users to conduct <a href="https://fossbytes.com/tor-ooniprobe-app-internet-speed-censorship/">three different types of tests</a>, which are the Web Connectivity Test, the HTTP Invalid Request Line Test, and the Network Diagnostic Test. The app’s Web Connectivity Test checks for the blocking of websites and internet services through DNS tampering, TCP/IP blocking, and blocking via transparent HTTP proxy. Identifying how a website is blocked enables users to take appropriate measures to regain access to the blocked sites. Censorship, surveillance, and traffic manipulation systems within the network can be identified through the app’s HTTP Invalid Request Line Test. The Network Diagnostic Test allows users to measure the speed and performance of the network by connecting to nearby M-Lab servers and collecting low level TCP/IP information.</p>

@@ -1,15 +1,15 @@
 ---
 Using Bitcoin Transaction Analysis In Deanonymizing Users of Tor Hidden Services
 ---
-<article class="post-listing post-24239 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analysis tag-bitcoin tag-deanonymizing tag-hidden tag-services tag-tor tag-transaction tag-users">
+<article class="post-listing post-24239 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-analysis tag-bitcoin tag-deanonymizing tag-hidden tag-services tag-tor tag-transaction tag-users">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>January 2, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/01/02/using-bitcoin-transaction-analysis-deanonymizing-users-tor-hidden-services/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Anonymity over the world wide web has never been a more critical issue. To achieve bulletproof anonymity, multiple solutions are being currently implemented by internet users all over the world. The most popular of which is the <a href="https://www.deepdotweb.com/2017/03/30/tor-browser-fully-anonymous-myth-reality/">Tor network that represents the busiest anonymous communication network on the internet</a> serving millions of users every day. Tor also enables webmasters to preserve their anonymity via hosting their websites on Tor in the form of hidden services.</p>
 <p><img class="wp-image-24246" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image.png 1240w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-300x255.png 300w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-1024x871.png 1024w" sizes="(max-width: 1240px) 100vw, 1240px" /></p>
 <p>Bitcoin is still the most preferred payment method over the Tor network, and other Darknets too, even though its anonymity and privacy features are far from being perfect. Dependence on bitcoin, as a main payment method, greatly undermines the anonymity of both Tor users and webmasters of hidden services. Even though several <a href="https://dl.acm.org/citation.cfm?id=2699128">research studies have proven that transactions over bitcoin&#8217;s network are not anonymous</a>, bitcoin is by far the most widely used currency on the deep web. Researchers have recently proven that even if bitcoin is used over decentralized networks such as Tor, users are still susceptible to <a href="https://www.deepdotweb.com/2017/04/20/how-companies-are-deanonymizing-bitcoin/">deanonymization attacks</a> and man-in-the-middle attacks, namely at the network level. Users of Tor&#8217;s hidden services represent a special category of bitcoin users who are greatly concerned about their anonymity, simply because users and webmasters of hidden services rely on Tor to preserve their anonymity. Nevertheless, they are both vulnerable to deanonymization once their bitcoin addresses have been revealed. Via analyzing transactions sent and received by these addresses, a great deal of information can be obtained and utilized to conclude sensitive information regarding Tor&#8217;s hidden services and their users, leading to successful linking of a user to a specific hidden service.</p>

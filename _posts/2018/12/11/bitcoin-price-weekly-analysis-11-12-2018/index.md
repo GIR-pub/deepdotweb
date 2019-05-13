@@ -1,15 +1,15 @@
 ---
 Bitcoin price weekly analysis &#8211; 11.12.2018
 ---
-<article class="post-listing post-27544 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6887 tag-analysis tag-bitcoin tag-price tag-weekly">
+<article class="post-listing post-27544 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-6887 tag-analysis tag-bitcoin tag-price tag-weekly">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 11, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/12/11/bitcoin-price-weekly-analysis-11-12-2018/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Bitcoin price continued on plummeting throughout last week&#8217;s trading sessions, recording a week low of $3,277 last Friday. However, after the week low was recorded, the market began recovering slightly and the bulls managed to push bitcoin price above $3,600 on Sunday. Despite the 14% drop we witnessed last week, the market&#8217;s bears failed to pull bitcoin price below $3,192, which represents a critical support level, as per the current market conditions. If bitcoin price continues on recovering during the upcoming week, it won&#8217;t face significant resistance except near $4,282, which corresponds to the 76.4% Fibonacci retracement level.</p>
 <p><strong>Bitcoin price and the news:</strong></p>
 <p>In another disappointing week for cryptocurrency enthusiasts, the price of bitcoin continued on dropping to record a new low during 2018. As such, <a href="https://www.deepdotweb.com/2018/11/12/bitcoin-price-weekly-analysis-12-11-2018/">bitcoin price lost more than 50% of its market capital</a> in less than a month. The bearish wave also affected Ripple (XRP), Stellar (XLM), <a href="https://www.deepdotweb.com/2017/06/22/whats-future-ethereum/">Ethereum (ETH),</a> EOS, Litecoin (LTC), and Bitcoin Cash (BCH), which witnessed 10-20% price drops during last week&#8217;s trading sessions.</p>

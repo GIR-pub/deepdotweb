@@ -1,15 +1,15 @@
 ---
 U.S. Healthcare Sector Records Rise in Data Breaches
 ---
-<article class="post-listing post-25095 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-breaches tag-data tag-healthcare tag-records tag-rise tag-sector">
+<article class="post-listing post-25095 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-breaches tag-data tag-healthcare tag-records tag-rise tag-sector">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>March 19, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/19/u-s-healthcare-sector-records-rise-data-breaches/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a id="post-25095-_gjdgxs"></a> Hackers last year targeted multi-million dollar companies, personal information, bank documents and login credentials. They also expanded their business into the healthcare sector. It is no secret that the world we live in now is seeing ransomware and hacking incidents more than ever and that makes everyone a target.</p>
 <p>Healthcare organizations or the Health sector last year alone recorded 233 incidents of a breach, according to reports. The U.S. Department of Health and Human Services stated that they recorded over 3.16 million patient records breached last year.</p>
 <p>It will be very cruel for people who are already fighting for their lives to learn that their delicate health information is out there on the open market for everyone to buy since it is the duty of the healthcare providers to protect their personal data from being breached. About 193 incidents of <a href="https://www.deepdotweb.com/2016/06/26/655000-healthcare-records-patients-being-sold/">healthcare breaches</a> analyzed, showed June to be the highest month with an unprecedented 52 incidents being recorded. March was the month which saw the most record breaches, with 1,360,961 patients affected.</p>

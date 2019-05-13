@@ -1,15 +1,15 @@
 ---
 Alphabay to Add Ethereum Support in May
 ---
-<article class="post-listing post-18835 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-add tag-alphabay tag-ethereum tag-support">
+<article class="post-listing post-18835 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-add tag-alphabay tag-ethereum tag-support">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 22, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/22/alphabay-add-ethereum-support-may/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to a message on /r/Alphabay and /r/darknetmarkets, <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a> developers are currently in the process of finalizing a framework for Ethereum transactions. Starting May 1, the marketplace will allow the sending and receiving of yet another cryptocurrency. In addition to its original Bitcoin support, <a href="https://www.deepdotweb.com/2016/08/23/alphabay-oasis-markets-begin-accepting-monero-payments/">Alphabay opened up support for Monero in 2016</a>.</p>
 <p>The value of <a href="https://cointelegraph.com/news/ethereum-price-surge-is-due-to-one-singular-factor">ETH recently spiked in value</a>. And the Alphabay message acknowledged the recent increase in value. According to the Alphabay staff, this increase in value showed a growing interest in the currency. Other entities attributed this spike to a growing interest too. However, Aurelien Menant, CEO of a blockchain based exchange, explained that the interest came from an added “legitimacy” to the platform.</p>
 <p><img class="wp-image-18836 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-60.png" width="888" height="497" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-60.png 1767w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-60-300x168.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-60-1024x573.png 1024w" sizes="(max-width: 888px) 100vw, 888px"/></p>

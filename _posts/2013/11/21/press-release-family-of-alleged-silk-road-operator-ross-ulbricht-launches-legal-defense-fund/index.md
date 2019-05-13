@@ -7,9 +7,8 @@ title: Press Release: Family of alleged Silk Road Operator Ross Ulbricht Launche
 <span>November 21, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/11/21/press-release-family-of-alleged-silk-road-operator-ross-ulbricht-launches-legal-defense-fund/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A press release:</p>
 <div>
 <div>

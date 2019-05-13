@@ -1,15 +1,15 @@
 ---
 Brave Web Browser Implements Private Tabs That Use Tor
 ---
-<article class="post-listing post-26308 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-brave tag-browser tag-implements tag-private tag-tabs tag-tor tag-web">
+<article class="post-listing post-26308 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-brave tag-browser tag-implements tag-private tag-tabs tag-tor tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>July 15, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/15/brave-web-browser-implements-private-tabs-that-use-tor/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The latest release of the Brave web browser includes a <a href="https://www.cnet.com/news/brave-advances-browser-privacy-with-tor-powered-tabs/">new privacy feature</a> that is in beta testing. When a private tab is opened in <a href="https://brave.com/tor-tabs-beta/">version 0.23</a> of the Brave web browser, users now have the option to enable the new privacy feature that uses Tor onion routing to help increase privacy. This new feature makes private tabs actually private, unlike traditional private tabs found in other web browsers. Enabling Tor in a private tab allows a user to hide their web browsing traffic from their Internet Service Provider (ISP) as well as government view. Using Tor is also helpful in LOCALNETWORK. After the new Tor feature is enabled in a private tab, the web browser will automatically use the DuckDuckGo privacy search engine by default.</p>
 <p>The Brave web browser is different from most other browsers in that it comes with built-in features such as ad blocking, tracker blocking, and HTTPS upgrading (a feature which functions similarly to the Electronic Frontier Foundation’s (EFF) HTTPS Everywhere add-on for web browsers like Firefox and Chrome). Brave Software, the company which develops the Brave web browser, was <a href="https://brave.com/about/">founded by</a> Brendan Eich, the creator of JavaScript and Brian Bondy, the co-founder of Mozilla. The company is planning to integrate a cryptocurrency they have created, which is known as the Basic Attention Token, or BAT, with the Brave web browser. In future versions of the Brave web browser, users will be able to anonymously tip websites using micro donations of BAT.</p>
 <p>The developers of the Brave web browsers having been working on integrating Tor into private tabs for over a year. They believe that consumers have become more conscious of their digital privacy rights and are beginning to use more software which will protect their privacy. “This is not a blip. You&#8217;re seeing a rising consciousness about privacy. We&#8217;re playing a long game here. We&#8217;re putting energy on the side of privacy, and part of that involves energy on the hard case. Tor is the hard case,” Brendan Eich, the Chief Executive Officer of Brave, <a href="https://www.cnet.com/news/privacy-browser-brave-tor-trump/">told </a><a href="https://www.cnet.com/news/privacy-browser-brave-tor-trump/"><em>CNET</em></a>.</p>

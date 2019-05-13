@@ -7,9 +7,8 @@ An Application That Converts National Fiat Currencies To Blockchain Based Crypto
 <span>March 23, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/23/application-converts-national-fiat-currencies-blockchain-based-cryptocurrencies/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The high security levels offered by cryptocurrencies, via the blockchain technology, offer an ideal financial ecosystem for minting national currencies. <a href="http://firstmonday.org/ojs/index.php/fm/article/view/7410">A recently published paper introduced an innovative application that utilizes the blockchain technology to transform fiat money into a cryptocurrency</a>; ether. This technology can become a part of a much bigger system, so that, after travelling outside his/her country, a user can exchange remaining foreign currency for its local denomination.</p>
 <p>On the other hand, another application could be to transform fiat currency into a cryptocurrency to help implement a <a href="https://www.deepdotweb.com/2017/01/17/bitcoin-vs-sovereign-money-tools-monetary-reform/">demonetization scheme</a>, similarly to what has been implemented lately in India. Within this context, the paper discussed the development of the proposed blockchain application and the consequences of demonetization and whether or not, the Indian government could have benefited from a technology such as that proposed through the paper. The paper analyzed the reasons why the Indian government has not resorted to such measure, which led to a discussion of how the Indian economy can benefit from minting its own cryptocurrency. Even though converting fiat currencies to cryptocurrencies is technically feasible, the authors of the paper believe that the Indian government is unlikely to do it, mainly due to issues related to <a href="https://www.deepdotweb.com/2017/01/28/coinasia-asias-unified-sovereign-backed-cryptocurrency/">monetary sovereignty</a>.</p>
 <p><strong>The architecture of a prototype of an application for converting fiat currencies to cryptocurrencies:</strong></p>

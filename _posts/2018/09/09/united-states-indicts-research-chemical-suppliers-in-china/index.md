@@ -1,15 +1,15 @@
 ---
 United States Indicts Research Chemical Suppliers in China
 ---
-<article class="post-listing post-26731 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-chemical tag-china tag-indicts tag-research tag-states tag-suppliers tag-united">
+<article class="post-listing post-26731 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-chemical tag-china tag-indicts tag-research tag-states tag-suppliers tag-united">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>September 9, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/09/09/united-states-indicts-research-chemical-suppliers-in-china/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Attorney General Jeff Sessions, at an announcement in Cleveland, Ohio, <a href="https://www.justice.gov/opa/pr/two-chinese-nationals-charged-operating-global-opioid-and-drug-manufacturing-conspiracy">announced</a> that the United States Department of Justice had indicted two Chinese citizens for running a massive drug trafficking organization that shipped drugs from China to 25 countries. During the announcement, the Department of Justice unveiled a 43-count indictment accusing the duo of drug trafficking crimes, continuing a criminal enterprise of money laundering and dozens of related crimes.<img class="wp-image-26737 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/09/word-image-2.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/09/word-image-2.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/09/word-image-2-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The duo, a father and son named Guanghua and Fujing Zheng, allegedly operated a drug trafficking operation in China as early as 2008. However, according to the information revealed in the indictment, the father and son’s business really took off in the United States in 2012. It increased until 2018 when the Drug Enforcement Administration <a href="https://www.deepdotweb.com/2018/06/12/two-arrested-for-selling-opioids-from-clearnet-websites/">raided one of the Zheng DTO shippers in the United States</a>.</p>
 <p><img class="wp-image-26738" src="https://www.deepdotweb.com/wp-content/uploads/2018/09/word-image-3.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/09/word-image-3.png 660w, https://www.deepdotweb.com/wp-content/uploads/2018/09/word-image-3-300x150.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>

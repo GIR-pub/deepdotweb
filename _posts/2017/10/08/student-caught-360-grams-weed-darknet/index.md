@@ -1,15 +1,15 @@
 ---
 Student Caught with 360 Grams of Weed from the Darknet
 ---
-<article class="post-listing post-22969 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6009 tag-caught tag-darknet tag-grams tag-student tag-weed">
+<article class="post-listing post-22969 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-6009 tag-caught tag-darknet tag-grams tag-student tag-weed">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 8, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/08/student-caught-360-grams-weed-darknet/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Police investigators in Augsburg reported a milestone in an ongoing investigation into drug trafficking in the region. The investigation, according to Friedberg police, began in early 2017, but the dealer(s) had been selling drugs far before the start of the investigation. In what appeared to have been the first arrest in the “<a href="https://www.stadtzeitung.de/augsburg-city/blaulicht/halbes-kilo-marihuana-sichergestellt-polizei-friedberg-nimmt-16-jaehrigen-schueler-aus-augsburg-fest-d32402.html">complex</a>” case, Friedberg police arrested a 16-year-old school student for ordering drugs from the <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">darknet</a>.</p>
 <p>According to Friedberg police investigators, the 16-year-old in custody had used drugs for some time. He started selling the drugs and had allegedly turned a good profit until his activities placed him under investigation. He started ordering amphetamines and marijuana on the darknet for resale, investigators said. Although, in the Spring, law enforcement lacked evidence that connected the student to a small scale drug operation.</p>
 <p><img class="wp-image-22971 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-15.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-15.jpeg 717w, https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-15-300x201.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-15-290x195.jpeg 290w" sizes="(max-width: 717px) 100vw, 717px" /></p>

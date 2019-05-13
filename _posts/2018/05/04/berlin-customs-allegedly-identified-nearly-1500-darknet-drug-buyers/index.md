@@ -1,15 +1,15 @@
 ---
 Berlin Customs Allegedly Identified Nearly 1,500 Darknet Drug Buyers
 ---
-<article class="post-listing post-25594 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-6388 tag-allegedly tag-berlin tag-buyers tag-customs tag-darknet tag-drug tag-identified">
+<article class="post-listing post-25594 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-6388 tag-allegedly tag-berlin tag-buyers tag-customs tag-darknet tag-drug tag-identified">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 4, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/04/berlin-customs-allegedly-identified-nearly-1500-darknet-drug-buyers/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>According to information obtained by <a href="https://www.morgenpost.de/berlin/article214091895/Berliner-Fahnder-heben-Drogenring-im-Darknet-aus.html">Berliner Morgenpost</a>, the Berlin-Brandenburg Customs Office may have identified as many as 1,500 darknet drug customers in a single operation. The investigation itself, the newspaper reported, has already been completed. By the time the paper had learned of the investigation, the prosecution had already started preparing charges.<img class="wp-image-25595 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-3.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-3.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-3-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Internet specialists and digital forensic experts of the Berlin-Brandenburg Customs Investigation Office seemingly worked the case in unison. They worked the case silently too; whispers of the investigation only reached the press before suspected drug buyers received letters in the mail regarding darknet drug purchases. Even though the investigation had already been completed, Customs Investigators refused to give Berliner Morgenpost any technical details about the case or investigation.</p>
 <p>Somehow, the Customs Office intercepted a significant quantity of unknown drugs that ultimately resulted in the identification of 1,500 suspected customers of a “<a href="https://www.deepdotweb.com/tag/bust/">darknet drug ring</a>.” The investigators hunted down the origin of the drug shipments. The information conveyed through the Berliner Morgenpost indicated that the Customs Investigators had conducted an investigation that targeted the dealer or supplier of the drugs.</p>

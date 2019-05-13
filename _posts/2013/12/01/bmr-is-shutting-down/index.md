@@ -7,9 +7,8 @@ title: BMR Is Shutting Down!
 <span>December 1, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/01/bmr-is-shutting-down/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div>
 <div>
 <p><strong>Update</strong>:  Apparently ealingly the shutdown is planned only as a &#8220;temporary measure&#8221;  in order to build the site back again from scratch &#8211; and come back stronger in a couple of months.  still this move is quite shocking and im sure there is more than what we can see at this point</p>

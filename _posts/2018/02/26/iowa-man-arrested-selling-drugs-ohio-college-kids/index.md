@@ -1,15 +1,15 @@
 ---
 Iowa Man Arrested for Selling Drugs to Ohio College Kids
 ---
-<article class="post-listing post-24874 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-college tag-drugs tag-iowa tag-kids tag-man tag-ohio tag-selling">
+<article class="post-listing post-24874 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-college tag-drugs tag-iowa tag-kids tag-man tag-ohio tag-selling">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 26, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/26/iowa-man-arrested-selling-drugs-ohio-college-kids/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In February 2018, an Athens County Grand Jury indicted two suspected darknet drug dealers on drug trafficking, money laundering, and corrupt activity charges. Authorities sought the indictment after <a href="http://abc6onyourside.com/news/local/iowa-man-arrested-and-accused-of-sending-drugs-to-two-college-students-in-athens">arresting two college students</a> for drug trafficking in Athens, Ohio. After their arrests, the college students told the police that they had been selling drugs for a dealer on the darknet who accepted bitcoin payments. The investigators accessed the accounts of the college students and read messages that had been sent to and from one of the recently indicted drug dealers.<img class="wp-image-24879 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-34.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-34.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-34-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Through the messages accessed using the accounts that belonged to the college students, law enforcement identified an alleged drug dealer in Ohio. According to the indictment, 42-year-old Anthony Scott Boeckholt of Forest City, Iowa, shipped numerous packages containing “large amounts” of drugs to the college students in Athens. The college students then sold the drugs, making thousands of dollars in Athens County alone. Athens County Prosecutor Keller Blackburn, in a statement to the press, said “Ohio is in the middle of an opiate crisis, and this suspect in Iowa was using college kids to traffic thousands of dollars in narcotics.”</p>
 <p>Boeckholt used the darknet to mask his identity from the students, along with other possible activities involving drug trafficking. The Athens County Prosecutor&#8217;s Office reached out to the Fairfield-Hocking-Athens Major Crimes Unit and together they worked with law enforcement in Iowa, including the Forest City Police Department. As soon as they had gathered enough evidence, Athens County authorities issued an arrest warrant for Boeckholt. Police in Iowa <a href="https://www.deepdotweb.com/tag/arrested/">arrested Boeckholt</a> at his Forest City residence.</p>

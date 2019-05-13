@@ -7,9 +7,8 @@ title: So Whats going on with all these DDOS Attacks?
 <span>December 13, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/12/13/so-whats-going-on-with-all-these-ddos-attacks/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Update:  <a href="http://www.deepdotweb.com/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/">Tor market Databse leaked by Dread Pirate Roberts<br/>
 </a></strong><br/>
     Seems that for the past week all the darknet markets have been under a massive DDOS attacks,  crippling all their services ,  this seems to affecting almost all the TOR marketplaces &#8211;</p>

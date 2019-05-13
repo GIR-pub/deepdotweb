@@ -7,9 +7,8 @@ Shiny Flakes Bust: 38 Houses Raided
 <span>March 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/12/shiny-flakes-bust-38-houses-raided/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Update on the Shiny Flakes bust that we <a href="http://www.deepdotweb.com/2015/03/11/vendor-bust-shiny-flakes-unknown-dutch-vendor/">reported about yesterday</a></strong> &#8211; The <a href="http://www.finanznachrichten.de/nachrichten-2015-03/33080189-shiny-flakes-38-hausdurchsuchungen-nach-drogenfund-in-leipzig-003.htm">finanznachrichten.de</a> reports that following the arrest another 38 search warrants were executed in many locations across Germany <span class="notranslate">including Berlin, North Rhine-Westphalia, Bavaria and Mecklenburg-Vorpommern according to Leipzig police chief Bernd Merbitz who stated the above at a press conference showing the seized drugs:</span></p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/HIFXkswJcuY" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p><a href="/imgs/2015/03/1.jpg"><img class="aligncenter size-full wp-image-9425" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/1.jpg" alt="1" width="985" height="554" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/1.jpg 985w, https://www.deepdotweb.com/wp-content/uploads/2015/03/1-300x169.jpg 300w" sizes="(max-width: 985px) 100vw, 985px" /></a></p>

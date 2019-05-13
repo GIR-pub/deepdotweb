@@ -1,15 +1,15 @@
 ---
 Fake Percocet Dealer Sentenced to 14 Years in Prison
 ---
-<article class="post-listing post-25617 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-1945 tag-dealer tag-fake tag-percocet tag-prison tag-sentenced tag-years">
+<article class="post-listing post-25617 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-1945 tag-dealer tag-fake tag-percocet tag-prison tag-sentenced tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 7, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/07/fake-percocet-dealer-sentenced-to-14-years-in-prison/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In a statement to the press, Clermont County Assistant Prosecutor Katherine Terpstra revealed Tyler Liming, 26, was sentenced to 14 years in prison for selling fake Percocet pills to someone who fatally overdosed. Prosecutors, on April 26, said that the police investigation proved that Liming had been buying counterfeit Percocet pills from a vendor on <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a> and redistributing them to individuals throughout Clermont County, Ohio.<img class="wp-image-25620 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-8.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-8.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/05/word-image-8-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The investigation began after an individual overdosed on U-47700 (U4) on October 30, 2016. U4 is not an uncommonly used or abused drug. At the time, perhaps, the ‘research chemical’ opioid turned heads in the mainstream media. The drug, until recently, was legal to possess in the majority of states. It was a cheap alternative to pharmaceutical opioids that many drug users intentionally used for any number of reasons. Some dealers, though, capitalized on the affordability of U4 to an inherently more dangerous degree by pressing pills that looked like legitimate pharmaceutical opioids with U4. We see fentanyl dealers do this on a very frequent basis.</p>
 <p>Because U4 costs less than oxycodone when ordering bulk powder from labs in China, fake pills sold at the same price as their legitimate counterparts, have a higher ROI than the real thing. Two major issues arise, aside from the fact that the dealer is selling a scam product. The first is that the cheaper opioid is likely much stronger than the opioid the dealer passes it off as. The user of the pill, expecting a certain dose of oxycodone, gets hit with a drug between five and eight times stronger than morphine. Oxycodone, by weight, is also stronger than morphine but morphine is often used when comparing opioid strengths. The increased dose often results in an increased number of overdoses. This parts into the second issue: law enforcement hunts down dealers and pill presses that are flooding the market with dangerous pills.</p>

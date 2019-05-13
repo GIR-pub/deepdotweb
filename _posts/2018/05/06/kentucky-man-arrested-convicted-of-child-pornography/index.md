@@ -1,15 +1,15 @@
 ---
 Kentucky Man Arrested, Convicted Of Child Pornography
 ---
-<article class="post-listing post-25607 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-child tag-convicted tag-kentucky tag-man tag-pornography">
+<article class="post-listing post-25607 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-child tag-convicted tag-kentucky tag-man tag-pornography">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>May 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/05/06/kentucky-man-arrested-convicted-of-child-pornography/#comments">8 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Adrian Grisanti, a 46-year-old man from Louisville, Kentucky, has been found guilty on 20 <a href="https://www.deepdotweb.com/2018/02/13/ridge-man-handed-8-years-prison-sentence-downloading-child-pornography/">counts linked to child pornography</a> and an additional count of destroying evidence, according to reports from US Attorney Josh Minkler. Grisanti’s conviction came after a 4-day trial under Judge Tanya Walton Pratt, in Indiana.</p>
 <p><a id="post-25607-_gjdgxs"></a> Child porn, which is one of the most disgusting crimes on the dark web is still happening and Adrian Grisanti deemed it appropriate for him to engage in such a despicable act. Grisanti was part of a dark web marketplace which dealt exclusively with videos and pictures of child pornography. He and hundreds of members of that dark web marketplace were identified by the FBI, zeroed in on the website, in an investigation.</p>
 <p>The FBI upon this encounter mounted a search at the office and residence of Grisanti in August 2015. Grisanti, a former worker at a center for at-risk children decided to avoid capture by destroying the hard drive of his personal computer used <a href="http://www.newsandtribune.com/news/louisville-man-convicted-of-child-pornography-in-federal-court/article_f8abd582-473b-11e8-8221-b7a7eb432ff5.html">in accessing child pornography</a>. His attempt was unsuccessful as the FBI together with the Indiana State Police undertook a thorough forensic investigation, which yielded results, resulting in the arrest and conviction of Grisanti.</p>

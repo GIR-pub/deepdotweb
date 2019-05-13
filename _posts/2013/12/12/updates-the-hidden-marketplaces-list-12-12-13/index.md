@@ -7,9 +7,8 @@ title: Hidden Marketplaces List Updates: 12-12-13
 <span>December 12, 2013</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2013/12/12/updates-the-hidden-marketplaces-list-12-12-13/#comments">6 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>This is the changelog of the list:</p>
 <p>&#8211; moved sheep to dead markets</p>
 <p>&#8211; moved BMR to dead markets</p>

@@ -1,7 +1,8 @@
 ---
 UK Government on Search For Cyber Experts to Crackdown on Dark Web Criminals
 ---
-<article class="post-listing post-22348 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-crackdown tag-criminals tag-cyber tag-dark tag-experts tag-government tag-search tag-uk tag-web">
+<article class="post-listing post-22348 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-crackdown tag-criminals tag-cyber tag-dark tag-experts tag-government tag-search tag-uk tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>September 4, 2017</span>

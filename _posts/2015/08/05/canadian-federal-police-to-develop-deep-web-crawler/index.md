@@ -7,9 +7,8 @@ Canadian Federal Police To Develop Deep Web Crawler
 <span>August 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/05/canadian-federal-police-to-develop-deep-web-crawler/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://news.vice.com/article/the-deep-dark-web-is-getting-some-company-soon-from-canadian-cops">The Canadian Police is investing in the development of a specific software that will search and monitor the darknet</a> for the most hidden content and services (which is, of course, highly illegal).</p>
 <p>The funding for the brand new deep web crawler is just a part of the Canadian government’s program. The funding source for the software is the Canadian Safety and Security Program (CSSP). The CSSP is providing funds to several projects that are in the category of public safety, policing and other military related stuff. This security research program of Canada has been successful in several projects. For example, they have developed a device that can detect drugs from their vapor, explosive detection equipment. The program has also provided funds for the training that will help the Canadian government to protect their energy infrastructure from possible cyber attacks.</p>
 <p>We have identified the funding source for the project, however, what we have not stated is which institution will be responsible for running the research for the dark web crawler. The government has authorized the Royal Canadian Mounted Police (RCMP) and two tech firms to research the software. The Canadian government stated: &#8220;The Royal Canadian Mounted Police will lead a project to develop and implement a web-crawler to explore anonymous and dark regions of the internet and identify content of interest to national security and law enforcement communities.&#8221;</p>

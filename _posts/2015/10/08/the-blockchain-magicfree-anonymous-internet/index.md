@@ -7,9 +7,8 @@ The Blockchain Magic: Φ Free Anonymous Internet
 <span>October 8, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/10/08/the-blockchain-magicfree-anonymous-internet/#comments">35 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Update 12.10.15</strong>: Source code is now available for download at <a href="http://www.f-a-i.net/download/fai_v1.0.0_src.zip">this link</a>.</p>
 <p><span style="text-decoration: underline;"><em><strong>Note</strong>:  Source files are still not available for review at this time, according to the system developer &#8220;To avoid Alt-coining, source code will be published after its user number reaches 1000&#8221;.  so proceed with caution if you want to test this system and <a href="https://en.wikipedia.org/wiki/Sandbox_%28software_development%29">use sandbox</a>.</em></span></p>
 <p><strong>Introduction post about &#8220;Φ &#8221; provided by its developer:</strong></p>

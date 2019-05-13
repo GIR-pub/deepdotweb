@@ -1,15 +1,15 @@
 ---
 Research: Using Darknet Forums by Black Hat Hackers During Crisis Periods (Darknet Marketplace Shutdown)
 ---
-<article class="post-listing post-27440 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-black tag-crisis tag-darknet tag-forums tag-hackers tag-hat tag-marketplace tag-periods tag-research tag-shutdown">
+<article class="post-listing post-27440 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-black tag-crisis tag-darknet tag-forums tag-hackers tag-hat tag-marketplace tag-periods tag-research tag-shutdown">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 2, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/12/02/research-using-darknet-forums-by-black-hat-hackers-during-crisis-periods-darknet-marketplace-shutdown/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Darknet marketplaces are growing at a rather rapid rate. These marketplaces are not only markets for illegal and illicit drugs, but they are also places where hackers are selling various hacking tools and <a href="https://www.deepdotweb.com/2018/10/25/trends-of-malware-and-digital-products-sales-on-darknet-marketplaces/">offering hacking as a service (HaaS)</a> for anyone who can pay the predetermined price in cryptocurrency. The black hat hacker market evolved from being merely a playground for individuals fueled by ego and notoriety to a marketplace that is sometimes even more profitable than darknet illicit drug trading. Understanding how these black markets operate is an extremely complex process for many reasons including because they are geographically widespread, segmented, and hidden under the cloak of Tor, anonymization techniques, and advanced cryptographic features.</p>
 <p><a href="https://www.emeraldinsight.com/doi/pdfplus/10.1108/S2050-206020180000017007">A recently published book</a> dove into how black hat hackers process information available to them and react during periods of crises. The book offered a preliminary study that examined darknet forums shortly after the <a href="https://www.deepdotweb.com/2017/07/20/globally-coordinated-operation-just-took-alphabay-hansa/">shutdown of two darknet marketplaces: Hansa and Alpha Bay</a>. Content and network analysis of conversations taking place on these forums concluded that black hat hackers mostly engaged with thorough information processing during the studied period and were highly skilled at developing collective solutions via sharing security recommendations and developing alternative means for conducting their trading. On the other hand, the study also showed that distrustful and anti-social communications were even more exaggerated during periods shortly following marketplace shutdowns. Analysis of network communications taking place on these forums showed that not all forum members were influenced by crisis events, i.e. darknet marketplace shutdowns, as only black hat users were the most affected during these periods. The study proves that even though darknet forums may host a highly diverse, resilient, group of users, crisis events have the potential to render these communities vulnerable via fueling internal distrust.</p>
 <p><img class="wp-image-27445" src="https://www.deepdotweb.com/wp-content/uploads/2018/12/hackers-jpg.jpeg" alt="hackers.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/12/hackers-jpg.jpeg 2121w, https://www.deepdotweb.com/wp-content/uploads/2018/12/hackers-jpg-300x200.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2018/12/hackers-jpg-1024x683.jpeg 1024w" sizes="(max-width: 2121px) 100vw, 2121px" /></p>

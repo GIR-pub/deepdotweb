@@ -1,7 +1,8 @@
 ---
 Former Vendor’s Records Used to Catch Father and Son Darknet Team
 ---
-<article class="post-listing post-22375 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-catch tag-darknet tag-father tag-records tag-son tag-team tag-vendors">
+<article class="post-listing post-22375 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-catch tag-darknet tag-father tag-records tag-son tag-team tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 5, 2017</span>

@@ -1,15 +1,15 @@
 ---
 China Raids Fentanyl Factories with Void Update on Two Darknet Wanted Drug Lords
 ---
-<article class="post-listing post-24409 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-china tag-darknet tag-drug tag-factories tag-fentanyl tag-lords tag-raids tag-update tag-void tag-wanted">
+<article class="post-listing post-24409 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-china tag-darknet tag-drug tag-factories tag-fentanyl tag-lords tag-raids tag-update tag-void tag-wanted">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>January 14, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/14/china-raids-fentanyl-factories-void-update-two-darknet-wanted-drug-lords/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The recent rise of fentanyl sales on Darknet marketplaces has been attributed to many factors. The one underlying reason for such an explosion having a spillover effect on the streets of the United States of America is the hidden set up of factories in China.</p>
 <p>There have been reports that fentanyl is manufactured in large quantities in an underground factory in China. The truth remains that most of these fentanyl production factories are inland that secretly ship their dangerous handiwork to the United States of America and beyond. For this reason, the <a href="https://news.vice.com/en_us/article/yw5we7/china-raids-fentanyl-factory-but-remains-silent-on-wanted-kingpins">Chinese authorities have raided most of these factories</a> leaving the remaining ones in fear.</p>
 <p>China is one of the world’s largest distributors of fentanyl. Drugs are normally shipped to Mexico where they are packaged into different containers. This is done to deceive authorities and make their way through the US borders.</p>

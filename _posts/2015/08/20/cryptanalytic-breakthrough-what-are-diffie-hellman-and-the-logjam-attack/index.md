@@ -7,9 +7,8 @@ Cryptanalytic Breakthrough: What Are Diffie-Hellman and the Logjam Attack?
 <span>August 20, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/08/20/cryptanalytic-breakthrough-what-are-diffie-hellman-and-the-logjam-attack/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Public key cryptography: What is Diffie-Hellman?</strong></p>
 <p>When the expansion of electronic communication was becoming foreseeable in the 1970s, researchers in both public and classified environments began to reconsider how a secure message could be sent between two people on a public channel vulnerable to eavesdroppers. Simply put, the challenge is this: encrypting and decrypting a message requires a key. If two people need to exchange encrypted messages over an insecure channel, how can they agree on a key without an eavesdropper on the network intercepting it and decrypting the messages?</p>
 <p>One solution is the Diffie-Hellman key exchange. In 1976, researchers from Stanford released the first unclassified <a href="https://www.cs.jhu.edu/~rubin/courses/sp03/papers/diffie.hellman.pdf">paper</a> proposing a public key cryptosystem. Also known as asymmetric key cryptography, public key cryptography uses different keys to encrypt and decrypt. Each party has a public key, which anyone can use to encrypt messages and, if intercepted, does not provide an eavesdropper with any useful information. The encrypted messages are then decrypted with the corresponding secret or private key which is never sent over the network. The public and private keys are mathematically related, but only by a problem so difficult that it would take millions of years to derive the secret key from a strong public key. It later became apparent that Britain&#8217;s GCHQ had developed a similar technique one year earlier, but it remained classified until 1997.</p>

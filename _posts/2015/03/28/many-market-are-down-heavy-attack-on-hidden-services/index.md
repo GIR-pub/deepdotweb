@@ -7,9 +7,8 @@ Many Market Are Down &#8211; Heavy Attack On Hidden Services
 <span>March 28, 2015</span>
 <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="http://www.deepdotweb.com/2015/03/28/many-market-are-down-heavy-attack-on-hidden-services/#comments">29 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
     

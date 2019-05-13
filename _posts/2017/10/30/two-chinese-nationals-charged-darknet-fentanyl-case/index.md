@@ -1,15 +1,15 @@
 ---
 Two Chinese Nationals Charged in Darknet Fentanyl Case
 ---
-<article class="post-listing post-23313 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-case tag-charged tag-chinese tag-darknet tag-fentanyl tag-nationals">
+<article class="post-listing post-23313 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-case tag-charged tag-chinese tag-darknet tag-fentanyl tag-nationals">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>October 30, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/30/two-chinese-nationals-charged-darknet-fentanyl-case/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Two <a href="https://www.washingtonpost.com/world/national-security/justice-department-reveals-charges-against-chinese-fentanyl-distributors/2017/10/17/8b2db63e-b342-11e7-a908-a3470754bbb9_story.html">Chinese nationals have been indicted</a> in an international drug trafficking investigation. The two Chinese men who were indicted include 38 year old Jian Zhang and 40 year old Xiaobing Yan. Both men were indicted on charges of trafficking <a href="https://www.deepdotweb.com/tag/fentanyl/">fentanyl</a> into the United States. Law enforcement claims that the two men had made <a href="https://www.deepdotweb.com/2017/10/01/mass-fentanyl-shipments-china-delivered-canada-dark-web-deals/">transactions on the darknet</a> to American and Canadian customers. Law enforcement claims the men operated four illegal chemistry laboratories in China, and that they accepted <a href="https://www.deepdotweb.com/tag/bitcoin/">Bitcoin</a> for the orders of fentanyl. Two people in Florida, a person from New Jersey, and five Canadian citizens were also implicated in trafficking Zhang and Yan’s fentanyl.</p>
 <p>The fentanyl that Zhang and Yan are alleged to have produced and distributed is responsible for four overdoses in Oregon, one of which was a fatal overdose. Three residents of Portland, Oregon were also charged by federal law enforcement agents for distributing the Chinese fentanyl. The three Oregonians who were charged include 30 year old Channing Lacey, 25 year old Carissa Marie Laprall, and 41 year old Steven Fairbanks Locke. “This case highlights both the international scope of the problem and the willingness and ability of our two districts to work together to reach out across borders to shut down and prosecute these merchants of death – I am proud of the work our team has done,” federal <a href="http://www.wweek.com/news/courts/2017/10/17/dark-web-drug-bust-lead-to-convictions-for-three-portland-residents-and-an-indictment-of-a-chinese-national-who-shipped-fentanyl-to-u-s/">prosecutor Billy Williams said in a statement</a>.</p>
 <p>The Department of Justice claims that Yan sold fentanyl to more than 100 distributors. Their fentanyl was distributed through darknet marketplaces and street dealers to users all over North America. Officials with the Department of Justice said that the two Chinese men were “among the most prolific international drug traffickers and money launderers.” The two men were placed on the multi-agency Organized Crime Drug Enforcement Task Force’s list of consolidated priority organization targets, becoming the first Chinese laboratory operators to be put on that list.</p>

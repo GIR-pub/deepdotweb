@@ -1,15 +1,15 @@
 ---
 Swedish Darknet Vendor Appeals Prison Sentence
 ---
-<article class="post-listing post-25287 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-appeals tag-darknet tag-prison tag-sentence tag-swedish tag-vendor">
+<article class="post-listing post-25287 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-appeals tag-darknet tag-prison tag-sentence tag-swedish tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/06/swedish-darknet-vendor-appeals-prison-sentence/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In 2014, international law enforcement conducted an operation targeting darknet drug markets and similarly illicit hidden services. They seized at least 414 .onion sites. Many sites resurfaced under new branding. A Swedish darknet market-forum hybrid was among those seized during <a href="https://www.deepdotweb.com/tag/operation-onymous/">Operation Onymous</a> that rebranded after the disruption. After tracking a group of drug traffickers from the first shop to the second, Swedish authorities rounded up several individuals responsible for running a vendor account on the site. One member is now appealing his sentence.<img class="wp-image-25291 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-8.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-8.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-8-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>The original site was a Swedish hidden service called “<a href="https://www.deepdotweb.com/2016/07/21/swedens-largest-darknet-vendor-busted-authorities/">Flugsvamp</a>.” Soon after international authorities took the site offline, a second iteration appeared. Dubbed Flugsvamp 2.0, the second site filled the gap left by the original site. Darknet vendors soon filled the market with their wares as if nothing had changed. And very little head actually changed—when law enforcement ends one darknet market, several rise to take the missing site’s place.</p>
 <p>Swedish authorities grew increasingly aware of vendors though. In late 2016, <a href="https://www.skovdenyheter.se/article/25-aring-vill-ha-sankt-straff/">they arrested several people</a> between the ages 19 and 32 for transporting and selling drugs that ended up in the hands of buyers across Sweden via the Flugsvamp 2.0 vendor “Lågprishandeln.” The investigation and arrests continued into 2017. Eventually Swedish authorities successfully convicted seven individuals for crimes such as drug trafficking and money laundering.</p>

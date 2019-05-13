@@ -1,15 +1,15 @@
 ---
 Android Trojan “Marcher” Almost Impossible to Eliminate
 ---
-<article class="post-listing post-18480 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-android tag-eliminate tag-impossible tag-marcher tag-trojan">
+<article class="post-listing post-18480 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-android tag-eliminate tag-impossible tag-marcher tag-trojan">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 7, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/07/android-trojan-marcher-almost-impossible-eliminate/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In the recent months, different types of malware manifested itself in various forms, spanning most common platforms. Perhaps the most notorious piece of malicious code <a href="https://www.deepdotweb.com/tag/fbi/">came from the FBI themselves</a>; they used a controversial NIT on Tor users worldwide. A more common type of machine infection, within these past few months, took the form of <a href="https://www.deepdotweb.com/2017/02/09/suspected-hacker-behind-neverquest-banking-trojan-arrested-spain/">banking trojans</a>. Modernized and increasingly active variants have surfaced as of late, and one such example took the form of an Android trojan called Marcher.</p>
 <p>Marcher, according to security analysts, is an especially advanced and increasingly active Android banking trojan. For instance, Android 6 (Marshmallow) packed a wide array of security enhancements when compared to its predecessors. One such enhancement—Runtime Permissions—played an important role in protecting against malware like Marcher. Yet the banking trojan quite capably executes its overlay attack, disregarding Marshmallow&#8217;s enhanced security.</p>
 <p>According to Pham Duy Phuc, Niels Croese &amp; Han Sahin, most victims fall for a classic phishing attack. The victim receives a message that &#8220;includes a <a href="https://www.securify.nl/blog/SFY20170202/marcher___android_banking_trojan_on_the_rise.html">link that leads to a fake version of a popular app</a>, using names like Runtastic, WhatsApp or Netflix.” Upon installation, the trojan requests device permissions that may seem normal, along with advanced privileges like &#8220;Device Administration.”</p>

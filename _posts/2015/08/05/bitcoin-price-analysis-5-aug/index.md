@@ -7,9 +7,8 @@ Bitcoin Price Analysis 5 Aug
 <span>August 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/08/05/bitcoin-price-analysis-5-aug/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Greek Stocks Tumble on 1st day Re-open</strong></p>
 <p>Shanghai’s Stock exchange poor run was overshadowed on Monday by Greek stocks, falling 23% below open. This was the first day of trading after a 1 month hiatus over EU-drama imposed capital controls. Banks stocks shed as much as 30%, despite strict controls on short selling and more measures to quell the market.</p>
 <p><em>“the realization that an equity-eviscerating recapitalization (or bail-in) is now inevitable.”</em></p>

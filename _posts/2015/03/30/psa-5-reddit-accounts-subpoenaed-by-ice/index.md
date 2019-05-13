@@ -7,9 +7,8 @@ PSA: 5 Reddit Accounts Subpoenaed by ICE
 <span>March 30, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/30/psa-5-reddit-accounts-subpoenaed-by-ice/#comments">14 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Important PSA to all Reddit users: by Gwern (<a href="http://www.reddit.com/r/DarkNetMarkets/comments/30tudk/psa_5_reddit_accounts_subpoenaed_by_ice/">Original thread</a>):</strong></p>
 <blockquote><p><a href="http://www.reddit.com/r/DarkNetMarkets">/r/DarkNetMarkets</a> has received its first known LE subpoena: a request for 5 accounts&#8217; data, including mine, related to Evolution and the supposed doxing/leaks.</p></blockquote>
 <p>Recently (2015-03-25), I was alerted by Reddit that there had been a subpoena for my Reddit account information and they would be responding by 2015-03-30; this followed <a title="reddit Will Not Disclose Your Information Unless Required by Law" href="https://www.reddit.com/help/privacypolicy#section_reddit_will_not_disclose_your_information_unless_required_by_law">their privacy policy</a> where they inform all accounts affected by subpoenas if there is no <a href="https://en.wikipedia.org/wiki/Gag_order#United_States">gag order</a> (which is more than most websites will do for you):</p>

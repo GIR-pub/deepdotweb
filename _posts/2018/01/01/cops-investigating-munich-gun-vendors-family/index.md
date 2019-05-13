@@ -1,15 +1,15 @@
 ---
 Cops are Investigating the Munich Gun Vendor’s Family
 ---
-<article class="post-listing post-24221 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-cops tag-family tag-gun tag-investigating tag-munich tag-vendors">
+<article class="post-listing post-24221 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-cops tag-family tag-gun tag-investigating tag-munich tag-vendors">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 1, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/01/cops-investigating-munich-gun-vendors-family/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The public prosecutor in Cologne released several court documents that indicated the testimonies provided in the defense of a darknet weapons vendor had likely been fabricated. Family members of the vendor had seemingly practiced their statements before giving them to the authorities. Several days after the release of the documents, <a href="https://www.ksta.de/region/rhein-erft/pulheim/pulheim-grosses-aufgebot-an-polizei---waffengeschaefte-im-darknet--29296786?originalReferrer=">reporters spotted police vehicles</a> and helicopters at the family’s houses and apartments.<img class="wp-image-24224 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-83.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-83.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-83-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>After 18-year-old David Ali Sonboly shot and killed nine people (and wounded five others) and then killed himself, the German Federal Criminal Police Office quickly discovered <a href="https://www.deepdotweb.com/2016/07/24/munich-gunman-got-weapon-darknet/">the shooter’s connection to the darknet</a>—he had purchased his 9mm Glock 19 and 450 rounds of ammunition from a vendor on the darknet forum “DIDW.” They also found and <a href="https://www.deepdotweb.com/2016/08/25/german-dnm-vendor-arrested-selling-glock-munich-shooter/">arrested the vendor</a> very shortly after the shooting occured. The arrest details surrounding the arrest stayed mostly quiet. Police let the public know that they had apprehended the suspect. They eventually revealed that the vendor and undercover investigators had been <a href="https://www.deepdotweb.com/2016/10/25/darknet-weapon-vendor-sold-weapons-munich-gunman-working-police/">working together</a> in an effort to catch other darknet gun buyers and sellers.</p>
 <p><img class="wp-image-24225" src="https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-84.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-84.jpeg 800w, https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-84-300x169.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>

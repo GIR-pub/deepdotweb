@@ -1,15 +1,15 @@
 ---
 Russian FreeHacks Forum on the Darknet
 ---
-<article class="post-listing post-26539 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-darknet tag-forum tag-freehacks tag-russian">
+<article class="post-listing post-26539 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-darknet tag-forum tag-freehacks tag-russian">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>August 11, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/11/russian-freehacks-forum-on-the-darknet/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The darknet to some people is almost synonymous with all things illegal. Nothing could be more misrepresented, however. While indeed it helps aid anonymous engagements, assuring users of freedom and security to exercise all that pertains to them away from observation, the darknet has been grossly defined by negatively by government agencies and the like. The core intent of the deep web is to do what is ‘right’ and not to commit crimes under the blanket of anonymity. Even so, it is highly prone to abuse and many criminals have turned to it to run illegal activities away from the eyes of authorities.<img class="wp-image-26545 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/c-users-user-desktop-fh-jpg.jpeg" alt="C:\Users\user\Desktop\fh.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/c-users-user-desktop-fh-jpg.jpeg 765w, https://www.deepdotweb.com/wp-content/uploads/2018/08/c-users-user-desktop-fh-jpg-300x180.jpeg 300w" sizes="(max-width: 765px) 100vw, 765px" /></p>
 <p><a id="post-26539-_gjdgxs"></a> One astounding case of what gives darknet a tainted reputation was <a href="https://www.theguardian.com/commentisfree/2018/jul/24/darknet-dark-web-hacking-forum-internet-safety">revealed</a> by Dylan Curran in an elaborate post to The Guardian news organization. Curran is a data consultant and web developer doing extensive research into spreading technical awareness and improving data etiquette. He took three weeks researching a Russian darknet forum known as FreeHacks. According to his research, it is the largest <a href="https://www.deepdotweb.com/?s=russian+hackers+forum">Russian run dark web platform</a> for hackers.</p>
 <p>As a Russian community forum, the platform operates only in the Russian language. Here, users collectively gather resources to improve on their hacking abilities. They congregate in a community of a discussion room to give advice to each other as if they were finding solutions on a progressive issue. Activities going on in the FreeHacks network are frightening. According to Curran, nothing is safe.</p>

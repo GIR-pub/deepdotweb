@@ -1,15 +1,15 @@
 ---
 Anonymous Postal &#038; Delivery Services &#8211; Could it work?
 ---
-<article class="post-listing post-24630 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-delivery tag-postal tag-services tag-work">
+<article class="post-listing post-24630 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-anonymous tag-delivery tag-postal tag-services tag-work">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>February 1, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/02/01/anonymous-postal-delivery-services-work/#comments">20 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>With <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">Darknet Market</a> use growing, there is an increasing amount of deliveries being seized. Is there potential for an anonymous postal service in which orders get delivered under the radar, or is it just not possible?<img class="wp-image-24634 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-69.png" width="609" height="343" /></p>
 <p>The deep web is often used as a means of anonymously ordering goods – normally anything other than what you’d call legal. With this in mind, it’s probably not a big surprise that a fair percentage of people who order illegal things online get their deliveries seized. While the legal consequences aren’t normally severe, for people investing large amounts of money into their market orders, it can become a big problem.</p>
 <p>Having an <a href="https://www.deepdotweb.com/security-tutorials/">Anonymous</a> Postal service won’t just be beneficial for people who have great concerns over their <a href="https://www.deepdotweb.com/security-tutorials/">anonymity</a>, but it would provide a handful of people with part time jobs and allow people to get expensive packages delivered safely. You’re probably wondering how’d this work.</p>

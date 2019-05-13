@@ -7,9 +7,8 @@ Banks Should Use Darknet For Better Security According To Ex MI5 Chief Lord Evan
 <span>October 18, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/18/banks-should-use-darknet-for-better-security-according-to-ex-mi5-chief-lord-evans/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.ibtimes.co.uk/ex-mi5-chief-lord-evans-banks-should-use-dark-web-outsmart-dridex-hackers-1524000">The former MI5 Chief, Lord Evans, has suggested for banks to use the dark web for security reasons.</a> There has been a massive hacker attack recently on several UK banks where the hackers used a malware called ”Dridex” and have successfully stolen tens of millions of pounds from client accounts. This attack has caused a big loss to UK banks and has lowered the reputation of the financial institutions. These happenings made the former MI5 director, who is now working as a non-executive director at HSBC, to suggest banks to use the darknet for preventing hacker attacks on financial institutions. However, Lord Evans has refused to mention if HSBC clients were involved in the recent Dridex attack.</p>
 <p>In response to the IBTimes UK’s question, Lord Evans made a statement at the Good Exchange Cybersecurity Summit on 14 October:</p>
 <p>“Those players in the industry who are at the leading edge are the ones who have really invested in their intelligence capabilities &#8211; both on their own networks and also in a much more forward-leaning approach to understanding what&#8217;s happening on hacker sites in terms of developing capabilities. That is something where I think there is still work to do.”</p>

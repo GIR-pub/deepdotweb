@@ -1,7 +1,8 @@
 ---
 Russia Clash with the U.S over Extradition of Cybercriminal from Greece
 ---
-<article class="post-listing post-22954 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-clash tag-cybercriminal tag-extradition tag-greece tag-russia">
+<article class="post-listing post-22954 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-clash tag-cybercriminal tag-extradition tag-greece tag-russia">
     
     <div class="post-inner">
     

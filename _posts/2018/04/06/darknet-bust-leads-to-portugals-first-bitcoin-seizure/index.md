@@ -1,15 +1,15 @@
 ---
 Darknet Bust Leads to Portugal’s First Bitcoin Seizure
 ---
-<article class="post-listing post-25289 post type-post status-publish format-standard hentry category-deepdot-news category-news-updates tag-bitcoin tag-bust tag-darknet tag-leads tag-portugals tag-seizure">
+<article class="post-listing post-25289 post type-post status-publish format-standard hentry 
+category-news-updates tag-bitcoin tag-bust tag-darknet tag-leads tag-portugals tag-seizure">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 6, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/04/06/darknet-bust-leads-to-portugals-first-bitcoin-seizure/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In Atouguia da Baleia, a judge sentenced a couple from Poland to prison for <a href="https://www.publico.pt/2018/03/22/sociedade/noticia/casal-cuja-droga-foi-parar-ao-lidl-condenado-a-cadeia-1807707">selling narcotics on the darknet</a>. The husband received a seven year prison sentence and the wife received a sentence of only five and a half years. The Judicial Police seized the couple&#8217;s cryptocurrency earnings and, in doing so, made the first <a href="http://deepdotweb.com/tag/bitcoin">Bitcoin</a> seizure in Portugal.<img class="wp-image-25295 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-10.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-10.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/04/word-image-10-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Grezegorz, the 40-year-old, confessed to every crime the court had accused him of committing. His wife, a 34-year-old named Sylvia, did not make a full confession but the court never needed to hear one. Grezegorz had revealed the details of the operation and included information on his wife&#8217;s involvement. They had some differences though, the court heard. Sylvia, for instance, had spent more time packing drugs and mailing packages than her husband. Grezegorz had spent more time in the lab and on the darknet than his wife. Even though the couple shared the same duties on paper, these differences made enough an impact on the court that resulted in the one and a half year gap in prison sentence lengths.</p>
 <p>According to information revealed in court, the Judicial Police started looking into possible <a href="http://deepdotweb.com/tag/darknet">darknet drug traffickers</a> in the area in early 2017. Evidence may have appeared much earlier than 2017, but at a rate that only minimally raised flags. The couple&#8217;s mistake mirrored the mistakes of some of the former vendors in Germany and Austria (and elsewhere with less media coverage). They used primarily one return address on their packages: a fake tea and coffee distributor at the address of the Portuguese headquarters of the supermarket chain Lidl.</p>

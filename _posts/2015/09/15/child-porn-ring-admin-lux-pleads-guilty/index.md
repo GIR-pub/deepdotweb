@@ -7,9 +7,8 @@ Child Porn Ring Admin Lux Pleads Guilty
 <span>September 15, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/15/child-porn-ring-admin-lux-pleads-guilty/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.theage.com.au/victoria/melbourne-hurtcore-paedophile-master-matthew-graham-pleads-guilty-20150908-gjht6d.html">Matthew David Graham, A.K.A. Lux, has pleaded guilty to 13 child porn-related charges</a>. The 22-year-old man residing in Melbourne was not only a babysitter for young children, but he was running a big CP ring on the darknet under the username of Lux. The website he was running was specialized in hurtcore porn, which means that the children, babies and toddlers on the CP website were not only abused, but they were also physically tortured or harmed. This genre of child porn is even disapproved by a specific part of the deep web CP community.</p>
 <p>”This material was the worst of the worst in the world,&#8221; a Victoria police investigator who was involved in the case stated.</p>
 <p><a href="http://www.theage.com.au/victoria/how-matthew-david-grahams-hurtcore-paedophile-habit-began-on-the-dark-web-20150908-gjhz43.html">The Australian newspaper, theage.au has made a report about Graham how he got into child porn</a>. According to them, he hasn’t done any illegal activity regarding child porn until he was 18. At that time, he was a massive player of World of Warcraft and a usual reader of 4chan. When the hacker group, Anonymous has made a post on 4chan that they are planning to launch a massive cyber attack on the pedo site Lolita City, he has made his first move. He became curious and has learned how to use the Tor browser and other deep web related stuff that helps to hide a person’s identity from the law enforcement authorities.</p>

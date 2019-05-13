@@ -1,15 +1,15 @@
 ---
 Irish Police and ATF Pleased With Collaboration in Gunrunner Case
 ---
-<article class="post-listing post-18623 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-atf tag-case tag-collaboration tag-gunrunner tag-irish tag-pleased tag-police">
+<article class="post-listing post-18623 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-atf tag-case tag-collaboration tag-gunrunner tag-irish tag-pleased tag-police">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 15, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/15/irish-police-atf-pleased-collaboration-gunrunner-case/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In 2013, the Garda detected the recently convicted darknet weapons seller, Michael Andrew Ryan. Two years later, US law enforcement linked the online identity known as Brad Jones and Gunrunner. He <a href="https://www.justice.gov/opa/pr/kansas-man-pleads-guilty-exporting-firearms-overseas-purchasers">faced 18 various weapons related charges</a>—and they consisted, mainly, of selling Glocks, Berettas, and Tauruses on the darknet. He sold to Ireland, England, Scotland, and Australia, <a href="https://www.scribd.com/document/261033274/Man-Charged-With-BTC-Purchase-of-Firearm-and-Silencer-on-Darknet">court documents explained</a>. He committed some fraud too; he purchased handguns under false pretenses, officials said.</p>
 <p>And while the court documents claimed the Manhattan, Kansas, man sold to those countries, Ryan ended up admitting that the charges were accurate. He accepted a plea deal and pleaded guilty to only <a href="https://www.deepdotweb.com/2017/02/16/darknet-weapons-vendor-kansas-sentenced-52-months-prison/">six charges in exchange for four years in prison</a>. A senior Garda spokesperson told news agencies that the Garda “welcomed the jailing of a gun dealer in America after he was convicted of gunrunning to several countries, including Ireland.” <img class="wp-image-18627 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-3.jpeg" width="646" height="484" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-3.jpeg 1003w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-3-300x225.jpeg 300w" sizes="(max-width: 646px) 100vw, 646px" /></p>
 <p>As we followed the case from the very beginning, the depth of the investigation became quite clear. And I need to point out that <a href="https://www.deepdotweb.com/2016/06/18/kansas-man-pleads-guilty-16-counts-illegal-firearms-exporting/">Gwern made the initial discovery</a>. He read between the lines on court documentation and connected the dots. He <a href="https://www.reddit.com/r/DarkNetMarkets/comments/4n0di6/agora_gun_seller_weaponsguy_pleads_guilty/.compact">posted his findings on Reddit</a> and the story has not left circulation since. The depth of the investigation became the highlight for the Garda; for instance Ryan removed the serial numbers from many of the weapons.</p>

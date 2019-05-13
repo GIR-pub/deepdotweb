@@ -7,9 +7,8 @@ Bitcoin: Does the “Currency of the Future” tag still hold true?
 <span>September 27, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/09/27/bitcoin-does-the-currency-of-the-future-tag-still-hold-true/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>“The next step in the evolution of money”</em></p>
 <p><em>“A de-centralized trust network”</em></p>
 <p><em>“Revolutionary Cryptocurrency”</em></p>

@@ -1,15 +1,15 @@
 ---
 Romanian Arrested After Four Package Interceptions
 ---
-<article class="post-listing post-25212 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-arrested tag-interceptions tag-package tag-romanian">
+<article class="post-listing post-25212 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-arrested tag-interceptions tag-package tag-romanian">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 31, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/03/31/romanian-arrested-four-package-interceptions/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>After gathering evidence throughout 2017 and 2018, Romanian law enforcement arrested an Arad county man who had allegedly been ordering drugs from <a href="https://www.deepdotweb.com/marketplace-directory/categories/vendor-shops">a darknet vendor</a> on a frequent basis. His charges, as explained in <a href="http://www.diicot.ro/index.php/arhiva/2337-comunicat-de-presa2-19-03-2018">a DIICOT press release</a>, are for the attempted importation of high-risk drugs, the transport of high-risk drugs, without right, and in continuous form.<img class="wp-image-25215 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-36.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-36.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/03/word-image-36-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>On March 16, the Arad Territorial Office of the Direction for Investigating Organized Crime and Terrorism (DIOCT) ordered the arrest of the suspect based on what the DIICOT press release called “reasonable suspicion” that the suspect had committed the drug importation crimes that had placed him under investigation. On the following day, March 17, the Arad Court authorized a 30 day detention period while officials decided how to proceed.</p>
 <p>While the case is an Arad Organized Crime Service and DIOCT case, it might not have existed if not for German authorities. Customs officers at Frankfurt Airport initiated the investigation in May 2017. The Frankfurt customs officers have an almost profound skill set when <a href="https://www.deepdotweb.com/tag/drug/">darknet drug trafficking</a> enters the picture. In an overwhelming number of cases in and around Germany, the Frankfurt Airport customs office receives credit for their involvement in the case.</p>

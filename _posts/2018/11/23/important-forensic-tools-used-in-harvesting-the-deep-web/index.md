@@ -1,15 +1,15 @@
 ---
 Important forensic tools used in harvesting the deep web
 ---
-<article class="post-listing post-27349 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-deep tag-forensic tag-harvesting tag-important tag-tools tag-web">
+<article class="post-listing post-27349 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-deep tag-forensic tag-harvesting tag-important tag-tools tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>November 23, 2018</span>
 
 <span><a href="https://www.deepdotweb.com/2018/11/23/important-forensic-tools-used-in-harvesting-the-deep-web/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The internet, especially the dark web, has become a place where illegal activities such as fraud, the trading of illegal drugs, human trafficking, extremism, firearm smuggling, etc. take place. The legitimate concerns, including privacy and anonymity, are exploited to catalyze nefarious needs within various parts of the deep web. The anonymity and cryptographic approaches utilized by dark web visitors impose <a href="https://www.deepdotweb.com/2018/10/27/india-dsps-undergo-training-to-enhance-skills-on-cybercrime-and-dark-web-crackdown/">serious challenges for law enforcement agencies</a> to monitor, investigate, control, and prosecute criminal activities taking part in these darker parts of the internet.</p>
 <p><a href="https://dl.acm.org/citation.cfm?id=3277584">A recently published paper</a> offered an overview on some of the currently used methods for identification, collection, analysis, and reporting of information obtained from the dark web in a forensically sound way. Throughout this article, we will examine some of the tools presented in this paper which are currently used in network forensic investigations.</p>
 <p><img class="wp-image-27353" src="https://www.deepdotweb.com/wp-content/uploads/2018/11/digital-forensics-jpg.jpeg" alt="digital forensics.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/11/digital-forensics-jpg.jpeg 900w, https://www.deepdotweb.com/wp-content/uploads/2018/11/digital-forensics-jpg-300x167.jpeg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>

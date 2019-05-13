@@ -1,15 +1,15 @@
 ---
 PathShuffle &#8211; Turning Ripple Into A Fully Anonymous Cryptocurrency
 ---
-<article class="post-listing post-18406 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-cryptocurrency tag-fully tag-pathshuffle tag-ripple tag-turning">
+<article class="post-listing post-18406 post type-post status-publish format-standard has-post-thumbnail hentry 
+tag-anonymous tag-cryptocurrency tag-fully tag-pathshuffle tag-ripple tag-turning">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 2, 2017</span>
 
 <span><a href="https://www.deepdotweb.com/2017/03/02/pathshuffle-turning-ripple-fully-anonymous-cryptocurrency/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Ripple as a credit settlement network represents one of the most promising coins in the cryptocurrency continuum presently. Ripple&#8217;s &#8220;I owe you&#8221; credit path-based settlement form of transactions sets Ripple apart from bitcoin by promoting fast, low fee settlement transactions. Ripple&#8217;s psedonymous characteristics, while still permitting tracing back senders and receivers of transactions, has encouraged many financial institutions across the globe to use Ripple for day-to-day transaction processing. With its public ledger, <a href="https://www.deepdotweb.com/2014/09/15/5-reasons-favorite-anonymous-crypto-currency-isnt-anonymous/">Ripple is similar to other cryptocurrencies in terms of weak privacy</a>. Recently, successful deanonymization attacks have raised pivotal questions related to privacy concerns of Ripple&#8217;s users. <a href="https://www.deepdotweb.com/2017/02/08/dandelion-turning-bitcoin-fully-anonymous-financial-system/">Unlike some cryptocurrencies</a>, there are currently no privacy solutions or mixing protocols compatible with Ripple&#8217;s network such as Bitcoin&#8217;s Coinjoin.</p>
 <p><a href="http://crypsys.cs.purdue.edu/projects/internetOfValue/PathShuffle/paper.pdf">PathSuffle</a> is a recently presented, first path coin mixing protocol which is fully compliant with Ripple&#8217;s network. PathJoin is PathShuffle&#8217;s main building block which represents an innovative protocol to execute atomic transactions across Ripple&#8217;s network. Via combining PathJoin with DiceMix, the peer-to-peer (P2P) mixing protocol, PathShuffle offers a fully decentralized, yet fast solution for completely anonymizing Ripple&#8217;s transactions without having to rely on any intermediary third parties.</p>
 <p><img class="wp-image-18415 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/ripple-jpg.jpeg" alt="Ripple.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/ripple-jpg.jpeg 500w, https://www.deepdotweb.com/wp-content/uploads/2017/02/ripple-jpg-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2017/02/ripple-jpg-300x300.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/02/ripple-jpg-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2017/02/ripple-jpg-50x50.jpeg 50w" sizes="(max-width: 500px) 100vw, 500px" /></p>

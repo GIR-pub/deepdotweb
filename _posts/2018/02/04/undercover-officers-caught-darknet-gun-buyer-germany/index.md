@@ -1,15 +1,15 @@
 ---
 Undercover Officers Caught a Darknet Gun Buyer in Germany
 ---
-<article class="post-listing post-24666 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buyer tag-caught tag-darknet tag-germany tag-gun tag-officers tag-undercover">
+<article class="post-listing post-24666 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-buyer tag-caught tag-darknet tag-germany tag-gun tag-officers tag-undercover">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 4, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/02/04/undercover-officers-caught-darknet-gun-buyer-germany/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Before the District Court in Freyung, a 40-year-old man explained how he had <a href="https://www.hogn.de/2018/01/18/1-da-hogn-geht-um/nachrichten-in-freyung-grafenau/amtsgericht-freyung-thurmansbang-waffengesetz-darknet-verurteilung-fruth-fuhs-glock/105374">attempted to buy a Glock 17 on the darknet</a> for his own protection. The man’s lawyers explained how the series of events that led up to the gun purchase pushed his client over the edge and encouraged him to buy a firearm on the darknet. In light of what happened, the District Court judge decided to impose a suspended sentence, rather than a lengthy prison sentence for violating the weapons law. The 40-year-old must now complete community service in order to avoid going to prison.<img class="wp-image-24669 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-2.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-2.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-2-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>He explained that he worked with “dodgy individuals” in Slovakia until their business went under. From his description, the business sounded like a startup that the 40-year-old had helped create. However, things with his business partners did not go so well. After the business went under, the defendant had a falling out with his former business partners. The so-called “dodgy individuals” threatened the defendant’s life through emails and phone calls. They also threatened his family, he told the court. At this point in time, the defendant, fearing for his life, moved to Germany with his family.</p>
 <p>Shortly after moving to Germany, the man decided to go back to Slovakia in order to grab his laptop and credit cards. He had left them in a hurry to leave the country. After obtaining his computer, the man found a guide on the internet that provided instructions on buying a gun on the darknet. &#8220;He felt threatened and had already changed his email address and phone number,&#8221; the man’s lawyer told the court. He reached out to a contact on the darknet who agreed to sell him a gun, but the 40-year-old found himself unable to afford the gun. So over the course of several months, the man made payments on the Glock. &#8220;My parents were threatened,” the defendant said. “That&#8217;s why I wanted to buy a gun to protect myself and my family.”</p>

@@ -1,7 +1,8 @@
 ---
 A “Warehouse” of Guns Found in Shooter’s Basement, Likely Linked to the Darknet
 ---
-<article class="post-listing post-22165 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-basement tag-darknet tag-guns tag-linked tag-shooters tag-warehouse">
+<article class="post-listing post-22165 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-basement tag-darknet tag-guns tag-linked tag-shooters tag-warehouse">
     
     <div class="post-inner">
     

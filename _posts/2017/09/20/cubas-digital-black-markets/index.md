@@ -1,7 +1,8 @@
 ---
 Cuba’s Digital Black Markets
 ---
-<article class="post-listing post-22648 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-black tag-cubas tag-digital tag-markets">
+<article class="post-listing post-22648 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-black tag-cubas tag-digital tag-markets">
     
     <div class="post-inner">
     

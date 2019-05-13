@@ -7,9 +7,8 @@ SSBD, Silk Road Forum Moderator, Pleads Guilty in U.S.
 <span>March 14, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/14/ssbd-silk-road-forum-moderator-pleads-guilty-in-u-s/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="wp-socializer-buttons clearfix">
 <span class="wpsr-btn">
     

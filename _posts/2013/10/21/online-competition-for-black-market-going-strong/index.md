@@ -7,9 +7,8 @@ title: Online competition for black market going strong
 <span>October 21, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/10/21/online-competition-for-black-market-going-strong/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Within the past few weeks, illegal contraband sales have increased by over 700 percent, depending on the source. After notorious Silk Road was forced to close their doors by the U.S. government earlier this year, the other seven competitors realized an immediate surge in sales.</p>
 <p>Not a small market, Silk Road&#8217;s purported 12,000 users are being snapped up by Black Market Reloaded (BMR), Sheep Marketplace, Budster, Black Flag (beta), Deep Bay and Drug Market to the tune of millions and possibly billions. Silk Road was said to have <a href="http://www.forbes.com/sites/ryanmac/2013/10/18/false-alarm-silk-road-competitor-black-market-reloaded-staying-online/">garnered 1.2 billion in sales since 2011</a>, although this figure has not been substantiated.</p>
 <p>Sheep Marketplace and Black Market Reloaded (BMR) claim to be the biggest beneficiaries of the Silk Road closure. BMR cites almost doubling their number of drug listings, while Sheep Marketplace claims to have experienced its biggest surge since inception. Sheep Marketplace is known to have a sexier, more efficient website, while BMR is known for its coding.</p>

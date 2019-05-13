@@ -1,7 +1,8 @@
 ---
 FBI Has Tools to Identify Anonymous “Sextortionists,” Agent Says
 ---
-<article class="post-listing post-22225 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-agent tag-anonymous tag-fbi tag-identify tag-sextortionists tag-tools">
+<article class="post-listing post-22225 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-agent tag-anonymous tag-fbi tag-identify tag-sextortionists tag-tools">
     
     <div class="post-inner">
     

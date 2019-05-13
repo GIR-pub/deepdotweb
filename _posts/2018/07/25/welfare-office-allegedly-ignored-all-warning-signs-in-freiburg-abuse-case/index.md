@@ -1,15 +1,15 @@
 ---
 Welfare Office Allegedly Ignored All Warning Signs in Freiburg Abuse Case
 ---
-<article class="post-listing post-26397 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-allegedly tag-case tag-freiburg tag-office tag-signs tag-warning tag-welfare">
+<article class="post-listing post-26397 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-abuse tag-allegedly tag-case tag-freiburg tag-office tag-signs tag-warning tag-welfare">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 25, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/25/welfare-office-allegedly-ignored-all-warning-signs-in-freiburg-abuse-case/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Amidst an ongoing child abuse case in Freiburg where the child&#8217;s mother admitted to allowing pedophiles from the darknet to meet and rape her nine-year-old son, officials started looking at the role (or lack thereof) played by <a href="https://www.wr.de/panorama/junge-gegen-geld-vergewaltigt-bundeswehr-soldat-vor-gericht-id214229095.html">the youth welfare office</a> in Germany. The boy&#8217;s mother—who recently admitted communicating with pedophiles in darknet chat rooms for the sole purpose of <a href="https://www.deepdotweb.com/2018/06/24/two-on-trial-for-selling-son-to-pedophiles-on-the-darknet/">forcibly prostituting her son</a>—had been allowing her 39-year-old partner to live with her. The man had prior sex crime convictions and was prohibited from living with the woman and being near her child.<img class="wp-image-26400 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-58.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-58.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/07/word-image-58-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Despite his illegal presence at the house of the boy&#8217;s mother, Berrin T, 48, the welfare office allegedly ignored the threat and then continued to ignore reports and warnings from the boy&#8217;s school teachers, friends, and even the school headmaster. The man who had been staying at the house often participated in the abuse. On several occasions, as witnessed by the prosecution in a closed courtroom, Christian L, 39, filmed the abuse while the boy&#8217;s mother witnessed.</p>
 <p>In several recorded instances, <a href="https://www.deepdotweb.com/2018/02/06/child-abuse-arrest-unveiled-lost-playpen-member/">Christian L. received money</a> from the pedophiles. In one instance, a pedophile met on <a href="https://www.deepdotweb.com/2018/05/14/tabooless-chat-admin-sentenced-to-prison-and-therapy/">Tabooless Chat</a> gave Christian L. 100 euros for access to the child. The same pedophile gave the boy&#8217;s mother 75 euros. And, as if the boy had willingly participated in the abuse, the pedophile gave the boy 50 euros. This pedophile, one of eight defendants in the abuse case, has already received a prison sentence of between 8-10 years. He has appealed the sentence.</p>

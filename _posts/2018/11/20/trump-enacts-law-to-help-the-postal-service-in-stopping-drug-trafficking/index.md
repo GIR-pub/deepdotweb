@@ -1,15 +1,15 @@
 ---
 Trump Enacts Law to Help the Postal Service in Stopping Drug Trafficking
 ---
-<article class="post-listing post-27307 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-drug tag-enacts tag-law tag-postal tag-service tag-stopping tag-trafficking tag-trump">
+<article class="post-listing post-27307 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-drug tag-enacts tag-law tag-postal tag-service tag-stopping tag-trafficking tag-trump">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>November 20, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/11/20/trump-enacts-law-to-help-the-postal-service-in-stopping-drug-trafficking/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In a bid to counter the opioid crisis in the U.S., President Trump signed into law a bill meant to close all loopholes present in the <a href="https://www.deepdotweb.com/2016/10/04/authorities-push-legislation-aims-end-shipping-drugs-via-usps/">U.S. Postal Service</a> that make it possible for drug users, traffickers and manufacturers to ship drugs into the country. The law demands that the USPS receives Advanced Electronic Data (AED) on what is contained in international packages before they are sent to the U.S. The AED also bears the names and addresses of both the sender and the recipient. While signing the bill into law Trump said that it would equip law enforcement agencies with the relevant resources applicable in stopping ‘ultra-lethal’ drugs from being mailed into the United States.</p>
 <p><img class="wp-image-27311" src="https://www.deepdotweb.com/wp-content/uploads/2018/11/word-image-34.jpeg" /></p>
 <p>The <a href="https://waysandmeansforms.house.gov/uploadedfiles/stop_act_text.pdf">Synthetics Trafficking and Overdose Prevention (STOP) Act</a> was introduced by Congressman Mike Bishop who believes the law will make it impossible for dark web vendors to exploit vulnerabilities present in the USPS. As a result, it will help reduce deaths caused by overdoses of synthetic drugs such as fentanyl. Senator Amy Klobuchar who co-authored the bill said that the new law would equip agencies with more tools to enable them to stop the entry of drugs into the U.S. through the post.</p>

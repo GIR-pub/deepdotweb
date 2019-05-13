@@ -1,15 +1,15 @@
 ---
 Bavarian Man Admits 34 Alphabay Orders in Court
 ---
-<article class="post-listing post-26438 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-4689 tag-admits tag-alphabay tag-bavarian tag-court tag-man tag-orders">
+<article class="post-listing post-26438 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-4689 tag-admits tag-alphabay tag-bavarian tag-court tag-man tag-orders">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 29, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/07/29/bavarian-man-admits-34-alphabay-orders-in-court/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>At a court in Regensburg, Bavaria, a 20-year-old fraudster confused the court with continued confessions of crimes previously unknown to the prosecution. The young man had ordered both drugs and counterfeit currency <a href="https://www.deepdotweb.com/marketplace-directory/listing/alphabay">from Alphabay vendors</a>—information the defendant had revealed to investigators after an arrest for incitement to counterfeit money. No new charges can come from his confusing admissions of guilt. The sporadic outbursts did, however, result in a sentence of only probation and a mental health evaluation.</p>
 <p>The case began in March 2017. At that time, though, the police had no idea they had walked into a darknet case. The defendant&#8217;s friend had been shopping at a hardware store in Regensburg and had forgotten his money. The defendant gave his friend a <a href="https://www.deepdotweb.com/tag/counterfeit/">counterfeit euro</a>. The shop owner recognized the fake euro note and called the police. The shop owner detained both the defendant and his friend until the police arrived.</p>
 <p>The police discovered another fake euro note in the primary defendant&#8217;s pocket, the prosecution revealed. The police then searched the defendant&#8217;s apartment after securing a search warrant with the Public Prosecutor&#8217;s Office. At his apartment, the police found less than 20 grams of hashish; 22 grams of marijuana; almost one pound of cocaine; <a href="https://www.deepdotweb.com/tag/mdma/">one gram of MDMA</a>; three ecstasy pills; several items related to drug use or production; a gas pistol; and a laptop. They seized the drugs and allowed the then 19-year-old to bring the laptop to the police station where he could show them how to access its contents. According to one officer who served as a witness, the defendant sat down with his laptop, unlocked it, pulled up his Alphabay buyer profile, got up, and walked out of the police station without even acknowledging the presence of police. They were stunned.</p>

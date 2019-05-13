@@ -7,9 +7,8 @@ We love the blockchain, not the bitcoin the currency
 <span>October 12, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/10/12/we-love-the-blockchain-not-the-bitcoin-the-currency/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/10/11.jpg"><img class="aligncenter size-full wp-image-11719" src="https://www.deepdotweb.com/wp-content/uploads/2015/10/11.jpg" alt="1" width="1024" height="576" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/10/11.jpg 1024w, https://www.deepdotweb.com/wp-content/uploads/2015/10/11-300x169.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 <p>Bitcoin was the first decentralized peer-to-peer payment network. A pandora&#8217;s box was opened and now the Bitcoin Blockchain, has inspired similar innovation in this space.</p>
 <p>Multinational banks have expressed avid interest in blockchain technology, evident from press releases, start ups, incubators and accelerators funded by them. What they want is</p>

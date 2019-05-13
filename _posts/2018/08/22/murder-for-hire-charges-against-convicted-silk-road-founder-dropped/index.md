@@ -1,15 +1,15 @@
 ---
 Murder for hire Charges against Convicted Silk Road founder Dropped
 ---
-<article class="post-listing post-26611 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-charges tag-convicted tag-dropped tag-founder tag-hire tag-murder tag-road tag-silk">
+<article class="post-listing post-26611 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-charges tag-convicted tag-dropped tag-founder tag-hire tag-murder tag-road tag-silk">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 22, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/22/murder-for-hire-charges-against-convicted-silk-road-founder-dropped/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A motion has been filed to drop all unresolved charges against Ross Ulbricht.  According to reports, U.S. Attorney Hur sought “to dismiss with prejudice the indictment and superseding indictment.” In a released statement, Hur stated the federal charges were dismissed in Maryland, so to “redirect resources to other cases that were unresolved.&#8221;</p>
 <p><a id="post-26611-_gjdgxs"></a> Ulbricht is currently serving a double life sentence without a parole after he was convicted for charges including money laundering, <a href="https://reason.com/blog/2018/07/25/ross-ulbrichts-murder-for-hire-charges-d">drug trafficking</a>, cyber-related crimes and also his role in the now-defunct dark web marketplace Silk Road. The 34-year-old <a href="https://www.deepdotweb.com/2018/08/05/ross-ulbricht-is-officially-on-twitter/">Ross Ulbricht</a> from Austin Texas, a former Boy Scout and physics graduate, hid behind the monikers “<a href="https://www.deepdotweb.com/2018/01/15/ross-ulbricht-appeals-life-sentence-supreme-court/">Dread Pirate Roberts</a>” , “Frosty&#8221; &amp; &#8220;Altoid” on the dark web community while he controlled the dark web marketplace, Silk Road from 2011 to 2013.</p>
 <p>He was arrested in 2013 and was given five prison sentences in February 2015, which were all to be served simultaneously. He was also ordered to surrender over $183 million in addition to his prison sentence, which the prosecution stated to be an estimated amount of all proceeds from the sales of illegal drugs and other items on his dark web marketplace. During his sentencing, Ulbricht told the Judge that he was not a bad person, just that he wanted to allow people to make choices in their lives, and to have anonymity and privacy.</p>

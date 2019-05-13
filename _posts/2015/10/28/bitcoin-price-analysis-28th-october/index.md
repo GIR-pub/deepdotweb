@@ -7,9 +7,8 @@ Bitcoin Price Analysis &#8211; 28th October
 <span>October 28, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/28/bitcoin-price-analysis-28th-october/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Bitcoin moved up higher this week, from a low at $ 262, to a high of $ 295. Here is this week’s 6H chart</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/10/14.jpg"><img class="aligncenter size-full wp-image-11869" src="https://www.deepdotweb.com/wp-content/uploads/2015/10/14.jpg" alt="1" width="854" height="516" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/10/14.jpg 854w, https://www.deepdotweb.com/wp-content/uploads/2015/10/14-300x181.jpg 300w" sizes="(max-width: 854px) 100vw, 854px"/></a></p>
 <p>In last week’s analysis, I was expecting a correction to much lower levels than we found this week, before moving on up towards $300. $ 262 was the lowest support, from which the market bounced up to resume the past 2 months of a run up. With most bottoms, a second test of a firm support is usually necessary to confirm. $262 was followed by a rise to $ 276, and thereafter a 2nd test of $264. What followed was a run up with intent, taking time to break past $ 275 and thereafter heading up to $ 295.</p>

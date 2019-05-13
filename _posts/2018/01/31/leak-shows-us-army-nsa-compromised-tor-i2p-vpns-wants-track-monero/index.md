@@ -1,15 +1,15 @@
 ---
 Leak Shows US Army and NSA Compromised Tor, I2P, VPNs and Wants to Track Monero
 ---
-<article class="post-listing post-24621 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-army tag-compromised tag-i2p tag-leak tag-monero tag-nsa tag-shows tag-tor tag-track tag-vpns">
+<article class="post-listing post-24621 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-army tag-compromised tag-i2p tag-leak tag-monero tag-nsa tag-shows tag-tor tag-track tag-vpns">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>January 31, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/01/31/leak-shows-us-army-nsa-compromised-tor-i2p-vpns-wants-track-monero/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A photograph showing an alleged leaked Army document revealing a joint project to track anonymous cryptocurrencies seems to have come from a somewhat unlikely place. The photograph reveals some interesting things, one of which is the revelation that the National Security Agency (NSA) is conducting a joint project with the US Army’s Cyber Protection Team (CPT) from the Cyber Protection Brigade located in Fort Gordon, Georgia. The image, originally posted on 4chan’s /biz section which is their Business and Finance forum, is dated August 21<sup>st</sup>, 2017 and states:</p>
 <p>“MEMORANDUM FOR RECORD</p>
 <p>SUBJECT: Additional resource request for ACC project</p>

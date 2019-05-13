@@ -1,15 +1,15 @@
 ---
 Is Unsupervised Machine Learning the Next Step in Fighting Fraud?
 ---
-<article class="post-listing post-18529 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fighting tag-fraud tag-learning tag-machine tag-step tag-unsupervised">
+<article class="post-listing post-18529 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-fighting tag-fraud tag-learning tag-machine tag-step tag-unsupervised">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 10, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/10/unsupervised-machine-learning-next-step-fighting-fraud/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Once the era of Internet privacy concern set in, hackers and and their adversaries—security researchers—began examining invasion breaches as they occurred. In a very tongue-in-cheek phrase, the “cat and mouse” game showed a serious advantage towards the hackers. Modern technology started changing this for both the threat actor and defensive entity, but upcoming technology may force a role reversal. Antivirus software only became increasingly useless. Internet protection, <a href="https://www.deepdotweb.com/vpn-comparison-chart/">save for VPNs</a>, lacked privacy.</p>
 <p>Machine learning, both as a concept and an preliminary example, is far from a cutting edge idea. The idea of the pseudo-buzzword term &#8220;deep learning,” surfaced in <a href="http://www.sciencedirect.com/science/article/pii/089360809190009T?via%3Dihub">1989</a> as an integral part of Supervised Machine Learning (SML). Machine Learning, <em>VentureBeat</em> points out, is one of the many methods used to fight online fraud. Supervised Machine Learning and Unsupervised Machine Learning(UML), according to those in the know, will be a major step forward in fighting online fraud.</p>
 <p><img class="wp-image-18533 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-1.jpeg" width="879" height="440" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-1.jpeg 1600w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-1-300x150.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-1-1024x512.jpeg 1024w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-1-660x330.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-1-995x498.jpeg 995w" sizes="(max-width: 879px) 100vw, 879px"/></p>

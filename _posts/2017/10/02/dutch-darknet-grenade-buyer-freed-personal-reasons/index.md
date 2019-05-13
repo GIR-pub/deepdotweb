@@ -1,15 +1,15 @@
 ---
 Dutch Darknet Grenade Buyer Freed for Personal Reasons
 ---
-<article class="post-listing post-22881 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buyer tag-darknet tag-dutch tag-freed tag-grenade tag-personal tag-reasons">
+<article class="post-listing post-22881 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-buyer tag-darknet tag-dutch tag-freed tag-grenade tag-personal tag-reasons">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 2, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/02/dutch-darknet-grenade-buyer-freed-personal-reasons/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>In April 2017, a 37-year-old man from Leek had ordered numerous explosive devices on the darknet. The news only surfaced three months later at the suspect’s first court appearance. The court believed sufficient evidence existed to continue to hold the man until his sentencing hearing in December. However, <a href="http://www.dvhn.nl/groningen/Echtgenote-hoogzwanger-rechtbank-stuurt-verdachte-naar-huis-22503981.html">at a September court appearance</a>, the court allowed the man to leave police custody for personal reasons.<img class="wp-image-22885 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image.jpeg" width="577" height="255" /></p>
 <p>Dutch law enforcement received a tip from the <a href="https://www.deepdotweb.com/tag/fbi/">F.B.I.</a> regarding the suspect&#8217;s order, the public prosecutor revealed at the latest hearing. He had allegedly bought—from a darknet weapons vendor in the United States—two live hand grenades, 500 grams of Semtex, and several ignitors.</p>
 <p><img class="wp-image-22886" src="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-1.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-1.jpeg 770w, https://www.deepdotweb.com/wp-content/uploads/2017/10/word-image-1-300x169.jpeg 300w" sizes="(max-width: 770px) 100vw, 770px" /></p>

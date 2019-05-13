@@ -7,9 +7,8 @@ Veracrypt Tutorial: How To Encrypt A USB Drive?
 <span>February 9, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/02/09/veracrypt-tutorial-how-to-encrypt-usb-drive/#comments">7 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <div class="elgg-output blog-post">
 <p>A simple tutorial explaining how to install VeraCrypt &#8211; The tutorial was created and contributed by Ping (Blog: http://w363zoq3ylux5rf5.onion/blog/owner/ping).</p>
 <p>Lets start &#8211; First, go to the link <a href="https://veracrypt.codeplex.com/releases/view/565079" rel="nofollow">here</a> and select the version you want to use and download it. Now open a terminal and go to the directory where you downloaded the file and extract it:</p>

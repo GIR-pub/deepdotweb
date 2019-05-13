@@ -7,9 +7,8 @@ Tutorial: Multi-signature Transactions with Electrum 2.0
 <span>March 21, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/03/21/multi-signature-transactions-electrum-2-0/#comments">12 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong><em>A great tutorial posted originally <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2znvmi/guide_multisignature_transactions_with_electrum_20/">on Reddit</a> by /r/darknetmarkets mod <a href="http://www.reddit.com/user/galaxyandspace">galaxyandspace</a>, Edited with the images for your convenience:</em></strong></p>
 <p>Greetings Ya&#8217;ll! It&#8217;s time to learn how to multisig!!!!</p>
 <p>Recently, Electrum 2.0 came out, along with the ability to create 2 of 3 multisig wallets. We will be walking through how to complete this process, both from the buyers end and vendors end, both covering the mechanics and whats happening. The market admins can figure it out for themselves what to do. We will cover what goes down in the events of a normal transaction, and in the events of a dispute.</p>

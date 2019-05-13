@@ -1,15 +1,15 @@
 ---
 Bitcoin Price Analysis 15.3.17
 ---
-<article class="post-listing post-18714 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-5156 tag-analysis tag-bitcoin tag-price">
+<article class="post-listing post-18714 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-5156 tag-analysis tag-bitcoin tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>March 15, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/15/bitcoin-price-analysis-15-3-17/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>This week, the build up to the Coin ETF decision by the Securities and Exchange Commission, climaxed after the application was rejected. Volatility resumed just in time for a massive spike to $1350 that was quickly followed by a sharp sell off to $975 &#8211; all in under 5 minutes on Friday afternoon. The ETF decision drew mixed feelings &#8211; some of the opinion Bitcoin is still nascent, others in the screw-the-SEC camp. Price has now stabilized halfway through the peak to peak flash spike, perhaps an expression of the overall market sentiment. The bitter hard fork debate from late 2015 has resurfaced, as threat of a hardfork by Antpool and Via BTC intensified. Where do we go from here?</p>
 <p><img class="wp-image-18715" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/btc-price-analysis-march-15-jpeg.jpeg" alt="BTC price analysis March 15.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/btc-price-analysis-march-15-jpeg.jpeg 1488w, https://www.deepdotweb.com/wp-content/uploads/2017/03/btc-price-analysis-march-15-jpeg-300x127.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/btc-price-analysis-march-15-jpeg-1024x435.jpeg 1024w" sizes="(max-width: 1488px) 100vw, 1488px"/></p>
 <p>Since the last price analysis, Bitcoin broke past the all time high of 2013, before consolidating sideways above $1163. After breaking past significant levels, a retest of support was in order. Price held above $1163 before rallying up some more past $1198, all the way up to an impressive $1298.</p>

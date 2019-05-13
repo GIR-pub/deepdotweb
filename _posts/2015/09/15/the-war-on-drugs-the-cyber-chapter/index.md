@@ -7,9 +7,8 @@ The War On Drugs – The Cyber Chapter
 <span>September 15, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/09/15/the-war-on-drugs-the-cyber-chapter/#comments">10 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Those four words ‘The War On Drugs’ contain so much nonsense its surprising they don’t explode in confusion of clowns and balloons. Drugs have been tied to man’s ascent so intimately that we may as well have a ‘War On Thumbs’ or a ‘War On Large Brains’; indeed the highest order of intellectual development in western and eastern civilization was influenced by a variety of substances which are now illegal. This can only stunt our continued development as a species.</p>
 <p>The War On Drugs officially started in 1971 but criminalization began in Britain in the 1920’s as an attempt to control Opium. Drugs were seen as nasty, foreign substances that would corrupt the general population. So the efforts to control drugs span about one hundred years, a pathetic amount of time compared to our time spent enjoying and exploring them.</p>
 <p>Once America weighed in with its horrible propaganda and it’s clearly industry influenced politics it started to get nasty, people had their fear of other races exploited and a promising, green industry in Hemp was dismantled. Slowly people started to reclaim their right to use their bodies and minds as they wished, really the most basic freedom. Think hippies, think the 60’s; they had the passion and numbers but they lacked one important thing, weapons, this is a war after all…</p>

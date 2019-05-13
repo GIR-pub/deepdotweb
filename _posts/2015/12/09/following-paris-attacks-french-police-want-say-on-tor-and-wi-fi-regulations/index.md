@@ -7,9 +7,8 @@ Following Paris Attacks; French Police want say on Tor and Wi-Fi Regulations
 <span>December 9, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/09/following-paris-attacks-french-police-want-say-on-tor-and-wi-fi-regulations/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>New Emergency Bill on table following Paris Attacks; French Police want say on Tor and Wi-Fi Regulations</p>
 <p>The French Government is taking necessary moves to fight the War on Terror at home. Following the ISIS terror attacks in Paris on November 13, 2015, that claimed the lives of 130 people and wounding hundreds more, <a href="http://motherboard.vice.com/read/after-paris-attacks-proposed-french-law-would-block-tor-and-forbid-free-wi-fi">legislators are working on two bills</a> that will provide safety measures with greater law enforcement power to prevent future attacks.</p>
 <p>Two pieces of legislation in discussion detail a new <a href="http://www.bbc.com/news/world-europe-34852916">state of emergency</a> protocol, and a proposal concerning counter-terrorism. In the event these bills pass, they can go into effect as early as January 2016, with such measures increasing police forces and armed guards in public areas as well as tightening border ports, and even private home searches without a warrant.</p>

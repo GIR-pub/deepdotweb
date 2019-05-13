@@ -1,15 +1,15 @@
 ---
 Germany: Police Arrest 28 Darknet Drug Buyers in Single Operation
 ---
-<article class="post-listing post-26511 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-2518 tag-arrest tag-buyers tag-darknet tag-drug tag-germany tag-operation tag-police tag-single">
+<article class="post-listing post-26511 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-2518 tag-arrest tag-buyers tag-darknet tag-drug tag-germany tag-operation tag-police tag-single">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 8, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/08/germany-police-arrest-28-darknet-drug-buyers-in-single-operation/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Although the raids and arrests on July 25 only lasted a few hours, the investigation of dozens of darknet drug buyers began in late 2017, German customs (Zoll) said in <a href="https://www.presseportal.de/blaulicht/pm/116259/4017901">a press release</a> following the arrest of nearly 30 suspects only hours after the raids. The Zoll investigation culminated in a multi-agency raid in Neubiberg, Ottobrunn, Neuried, and Munich. More than 110 law enforcement and customs officers arrested 28 suspected drug buyers. The strike against drug traffickers succeeded, Zoll said.<img class="wp-image-26514 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-17.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-17.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-17-300x154.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p>Is there a connection between this ongoing operation and <a href="https://www.deepdotweb.com/2018/05/04/berlin-customs-allegedly-identified-nearly-1500-darknet-drug-buyers/">the warning from Berlin Customs</a> regarding the upcoming arrest of hundreds of darknet drug buyers?</p>
 <p>The customs involvement indicated that many suspects had ordered <a href="https://www.deepdotweb.com/tag/Customs/">packages that customs had intercepted</a>. And according to the announcements from different law enforcement agencies that participated in the raid, intercepted packages of drugs led to the arrest of the majority of the suspects. A total of 20 suspects had allegedly ordered a total of 40 grams of MDMA; almost 700 ecstasy pills; 600 grams of amphetamine; 115 grams of marijuana; 4.5 grams of cocaine; 50 LSD tabs; and 28 Ritalin tablets.</p>

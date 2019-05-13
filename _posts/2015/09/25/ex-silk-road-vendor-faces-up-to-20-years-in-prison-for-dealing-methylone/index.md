@@ -7,9 +7,8 @@ Ex-Silk Road Vendor Faces Up To 20 Years in Prison for Dealing Methylone
 <span>September 25, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/09/25/ex-silk-road-vendor-faces-up-to-20-years-in-prison-for-dealing-methylone/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>A 30-year-old Orlando man faces 20 years in federal prison for selling designer drugs which were being shipped from China through an online black market for illegal narcotics, according to the U.S. Attorney&#8217;s Office.</p>
 <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/09/os-andrew-pieters-photo-20150924.jpg"><img class="aligncenter size-full wp-image-11609" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/os-andrew-pieters-photo-20150924.jpg" alt="os-andrew-pieters-photo-20150924" width="270" height="480" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/09/os-andrew-pieters-photo-20150924.jpg 270w, https://www.deepdotweb.com/wp-content/uploads/2015/09/os-andrew-pieters-photo-20150924-169x300.jpg 169w" sizes="(max-width: 270px) 100vw, 270px"/></a></p>
 <p>A jury found Andrew &#8220;Drew&#8221; Pieters guilty Thursday in federal court in Orlando for selling thousands of dollars worth of methylone – a designer drug similar to the popular club drug ecstasy.</p>

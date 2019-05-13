@@ -7,9 +7,8 @@ Bitcoin News Roundup – 25 Oct. 2015
 <span>October 25, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/10/25/bitcoin-news-roundup-25-oct-2015/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Virtual currencies could encourage terrorism financing. As Grace Caffyn of <a href="http://www.coindesk.com/fatf-virtual-currencies-could-fuel-terrorism-financing/">CoinDesk</a> writes, a recently released report by the Financial Action Task Force (FATF) entitled<em> “Emerging Terrorist Financing Risks”</em> considers the bitcoin as a potential threat for fueling terrorist financing. FATF notes that <em>“digital currencies have attracted the attention of various criminal groups, including extremist organizations.”</em> FATF also considers that the use of the digital currency will grow further in the short-term, thus increasing the potential risk posed on terrorist financing as well as the need for further research, the report concludes.</p>
 <p>Mayor of Barcelona favors a local digital currency. As Samburaj Das of <a href="https://www.cryptocoinsnews.com/mayor-of-barcelona-advocates-for-a-local-digital-currency/">CryptoCoins News</a> reports, Ada Colau, the new mayor of Barcelona is favoring the creation of a local digital currency to boost the local economy and trade and enhance consumer spending within the city limits. Barcelona is the capital city of Catalonia, an autonomous community in Spain that seeks separation from the Spanish state. While the <em>“<em>nation” </em></em>of Catalonia may soon draw plans for a central bank, the Mayor of Barcelona is already working towards the launch of a local digital currency.</p>

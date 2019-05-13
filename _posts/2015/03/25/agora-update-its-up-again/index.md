@@ -7,9 +7,8 @@ Agora Update: Its Up again!
 <span>March 25, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/03/25/agora-update-its-up-again/#comments">54 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><strong>Update, Buyers url is up BUT VERY SLOW &#8211; Possibly due to <a href="http://www.deepdotweb.com/2015/03/25/agora-update-its-up-again/">DDOS Attack</a> on Hidden Services:</strong></p>
 <p><a href="/imgs/2015/03/agora.png"><img class="aligncenter  wp-image-9660" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/agora.png" alt="agora" width="914" height="489" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/agora.png 1346w, https://www.deepdotweb.com/wp-content/uploads/2015/03/agora-300x160.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/03/agora-1024x548.png 1024w" sizes="(max-width: 914px) 100vw, 914px"/></a></p>
 <p>According to multiple reports in the last couple of hours &#8211; Agora&#8217;s vendor only link is reported as up and running, displaying the following message: <em> &#8220;The market is back to normal operation, specifically all the funds are intact and ready for usage/withdrawals. Sorry for the downtimes and inconvenience.&#8221;</em></p>

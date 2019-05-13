@@ -7,9 +7,8 @@ Concepts of Cryptolaw &#8211; How Blockchain Based Legal Applications Are Changi
 <span>March 6, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/06/concepts-cryptolaw-blockchain-based-legal-applications-changing-law/#respond">Leave a comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>The advent of bitcoin has introduced the world to a groundbreaking innovation that can change the face of humanity once and for all. The past few years have witnessed governmental interests, across several countries, in many of the aspects and applications of the blockchain technology.</p>
 <p>The examples are numerous; The Bank of England will issue its own cryptocurrency. Sweden is moving its real estate recording system to the blockchain. Dubai is working to issue official governmental documents on the blockchain. The US Department of Health and Human Services is currently investigating applications that rely on the blockchain technology for management of medical records. Despite the fact that the rate of rise of such blockchain based legal applications is skyrocketing, legislators , who integrate the blockchain in various legal processes, do not usually consider , in a systemic manner, the overall implications of the introduction of blockchain based legal applications on the law. This will definitely represent a significant problem because the law itself will have to undergo considerable transformations after moving such legal processes to blockchain based systems and other forms of Distributed Ledger Technology (DLT) systems.</p>
 <p><img class="wp-image-18413 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/cryptolaw-jpg.jpeg" alt="cryptolaw.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/cryptolaw-jpg.jpeg 476w, https://www.deepdotweb.com/wp-content/uploads/2017/02/cryptolaw-jpg-300x147.jpeg 300w" sizes="(max-width: 476px) 100vw, 476px"/></p>

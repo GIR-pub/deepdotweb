@@ -7,9 +7,8 @@
 <span>December 25, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/25/2014-was-the-worst-year-in-drug-overdose-fatalities-according-to-cdc/#comments">2 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="http://www.modernreaders.com/cdc-warns-of-worst-ever-year-for-drug-overdose-deaths-in-america/35958/ed-jones">The Centers for Disease Control and Prevention (CDC), which is the leading national public health institute of the United States, conducted a report, in which they found out that 2014 was the worst year in drug overdose deaths in the US.</a> According to them, ”things are apparently spiraling out of control” and currently, there’s a ”drug death epidemic” in the United States.</p>
 <p>The report states that in 2014 almost 50,000 Americans died from drug-related overdoses. This number is not only more people than the people that died in road traffic accidents (experts project the number of traffic deaths to around 33,000 people in 2014), however, it is also more than twice the number of recorded ODs in the year of 2000.</p>
 <p>In order to prevent this ”disease” from spreading, the CDC conducted a few points that they need the US Government to change:</p>

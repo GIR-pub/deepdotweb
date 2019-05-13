@@ -7,9 +7,8 @@ Darkleaks: Black Market for Secrets
 <span>February 4, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/02/04/darkleaks-black-market-secrets/#comments">4 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><iframe width="640" height="360" src="https://vid.me/e/Lfkh" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" scrolling="no"></iframe></p>
 <div><span style="text-decoration: underline;"> As it was originally published on <a href="https://medium.com/@ZozanCudi/darkleaks-information-blackmarket-1ee5ac28c892">medium.com</a>:</span></div>
 <div>

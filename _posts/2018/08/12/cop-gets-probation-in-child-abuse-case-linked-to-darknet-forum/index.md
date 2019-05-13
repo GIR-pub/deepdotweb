@@ -1,15 +1,15 @@
 ---
 Cop Gets Probation in Child Abuse Case Linked to Darknet Forum
 ---
-<article class="post-listing post-26551 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-abuse tag-case tag-child tag-cop tag-darknet tag-forum tag-linked tag-probation">
+<article class="post-listing post-26551 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-abuse tag-case tag-child tag-cop tag-darknet tag-forum tag-linked tag-probation">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 12, 2018</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2018/08/12/cop-gets-probation-in-child-abuse-case-linked-to-darknet-forum/#comments">5 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p><a href="https://www.deepdotweb.com/tag/hsi/">Homeland Security Investigations</a>, Interpol, and the Colorado Internet Crimes against Children Task Force conducted an investigation into a former El Paso County sheriff’s deputy who had sexually assaulted a child, taken pictures of the abuse, and described the sexual assault on a darknet child abuse forum. The case has drawn attention from the media due, in part, to the convicted pedophile&#8217;s sentence: 10 years probation.<img class="wp-image-26554 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-25.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-25.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2018/08/word-image-25-300x150.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
 <p><a href="https://gazette.com/news/ex-el-paso-county-sheriff-s-deputy-sentenced-for-abuse/article_cddd343c-8f6a-11e8-b415-433375b0d393.html">Donald Leigh Fair</a>, a 44-year-old United States Army veteran and former law enforcement officer, pleaded guilty to sexually assaulting a child from a position of trust in exchange for 10 years to life probation. The probation, according to the plea agreement, will be one with terms and conditions tailored for criminals guilty of sex crimes. His plea agreement required a guilty plea to the single sexual assault charge; the prosecution dropped both child pornography charges.</p>
 <p>At the time of the arrest in 2017, Fair worked as a District Attorney’s investigator. Much of his defense relied on Fair’s “exemplary heroism” displayed both overseas and in Texas. During his time with the Army, Fair saw combat and received wounds that led to a post traumatic stress disorder that impacted his life once he had returned to the United States. Fair said he had sexually assaulted the child while suffering from sleep deprivation caused by the disorder. He worked as an El Paso County sheriff’s deputy from 2005 to 2010 and again from 2013 until his 2017 arrest.</p>

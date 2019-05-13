@@ -1,15 +1,14 @@
 ---
 title: A Published Chapter From The Book &#8220;Drugs 2.0&#8221; On Gwern
 ---
-590 category-deepdot-news tag-45 tag-book tag-chapter tag-drugs tag-gwern tag-published">
+590 tag-book tag-chapter tag-drugs tag-gwern tag-published">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 20, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/10/20/a-published-chapter-from-the-book-drugs-2-0-on-gwern/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>And i quote:</p>
 <div class="box  note aligncenter"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
     This is an annotated transcript of the chapter &#8220;Your Crack’s in the Post&#8221; (pg219-244) &amp; an excerpt from the chapter &#8220;Prohibition in the Digital Age&#8221; (pg262), of Drugs 2.0: The Web Revolution That’s Changing How the World Gets High, Mike Power (2 May 2013); it is principally on the topic of Bitcoin, Tor, and Silk Road.

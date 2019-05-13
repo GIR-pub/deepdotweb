@@ -7,9 +7,8 @@ The 2 Federal Agent Embezzlement Complaint Excerpts
 <span>March 31, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/03/31/the-2-federal-agent-embezzlement-complaint-excerpts/#comments">3 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>By <a href="http://www.gwern.net">Gwern</a>, Obviously.</p>
 <p><strong>Possible implications? read: </strong> <a href="http://www.dailydot.com/crime/dratel-silk-road-dea-arrest-statement/">Ross Ulbricht&#8217;s lawyer: Alleged police corruption casts doubt on entire Silk Road trial</a> &#8211; At the DailyDot by Patrick Howell O&#8217;Neill.</p>
 <p><strong>The excerpts from the criminal complaint </strong>(scroll down for the full version)<strong>:</strong></p>

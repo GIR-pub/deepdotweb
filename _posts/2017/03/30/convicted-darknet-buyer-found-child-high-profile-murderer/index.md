@@ -1,15 +1,15 @@
 ---
 Convicted Darknet Buyer Found to be Child of High Profile Murderer
 ---
-<article class="post-listing post-18882 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-buyer tag-child tag-convicted tag-darknet tag-high tag-murderer tag-profile">
+<article class="post-listing post-18882 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-buyer tag-child tag-convicted tag-darknet tag-high tag-murderer tag-profile">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 30, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/03/30/convicted-darknet-buyer-found-child-high-profile-murderer/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>US District Judge Robert Jonker sentenced the son of Arthur Paiva—ringleader in the 1979 murder of Janet Chandler—to 30 months in prison. <a href="https://www.deepdotweb.com/2017/03/27/us-silk-road-2-0-reseller-sentenced-prison/">Michael Carlton Paiva</a>, the son in question, found himself caught up in the Silk Road 2.0 investigation. Between 2013 and 2016 Michael ordered $11,000 worth of drugs and resold them throughout Western Michigan.</p>
 <p>During <a href="https://www.justice.gov/usao-wdmi/pr/2017_0309_Paiva">the Silk Road 2.0 investigation</a>, federal investigators flagged Paiva for his online activities. The Homeland Security Investigations recognized the activity and collaborated with The West Michigan Enforcement Team to connect the identities.</p>
 <p><img class="wp-image-18889 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-65.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-65.png 650w, https://www.deepdotweb.com/wp-content/uploads/2017/03/word-image-65-300x171.png 300w" sizes="(max-width: 650px) 100vw, 650px"/></p>

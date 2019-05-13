@@ -1,15 +1,15 @@
 ---
 &#8220;No Logs&#8221; VPN Provider Shared Logs with FBI
 ---
-<article class="post-listing post-23244 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news-updates tag-fbi tag-logs tag-provider tag-shared tag-vpn">
+<article class="post-listing post-23244 post type-post status-publish format-standard has-post-thumbnail hentry 
+category-news-updates tag-fbi tag-logs tag-provider tag-shared tag-vpn">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>October 24, 2017</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2017/10/24/no-logs-vpn-provider-shared-logs-fbi/#comments">11 Comments</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p>Many <a href="https://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/">Virtual Private Network (VPN)</a> providers offer their services while making claims that they do not log traffic, IP addresses, and other user information. <a href="https://www.deepdotweb.com/2016/03/18/criminal-complaint-reveals-private-internet-access-doesnt-log/">Some VPN providers are being honest</a> when they make the claim that they don’t log IP addresses, but others are not being truthful with their customers. In an affidavit released by the Department of Justice, the <a href="https://www.deepdotweb.com/tag/fbi/">FBI</a> accused 24 year old Ryan Lin of Massachusetts of committing acts of cyberstalking and online harassment of another 24 year old Massachusetts woman. The affidavit against Lin was submitted to a federal magistrate by FBI Special Agent Jeffrey Williams.</p>
 <p>The FBI alleges that Lin used encrypted and spoofed e-mail accounts and services, as well as a variety of anonymization services. Law enforcement officials believe that Lin is responsible for registering and using multiple social media accounts, e-mail accounts, and mobile phone accounts. According to the FBI’s affidavit, the accounts were accessed “by someone using <a href="https://www.deepdotweb.com/tag/vpn/">VPNs</a>, <a href="https://www.deepdotweb.com/tag/tor/">TOR</a>, and proxy computers to hide their true IP address.” Lin is said to have extensively utilized a Protonmail account during the alleged cyberstalking and online harassment. Prosecutors even bring up the fact that Lin had publicly talked about anonymization services such as VPNs.</p>
 <p>Ironically, the example that the FBI uses to show that Lin was familiar with online anonymization services is a Twitter message in which Lin declares that there is no such thing as a no logs VPN. “There is no such thing as a VPN that doesn’t keep logs. If they can limit your connections or track bandwidth usage, they keep logs,” Lin tweeted from his former Twitter account, @ryanlindev. Lin was replying to a tweet from the VPN service provider IPVanish that stated how the company had “a strict zero log policy” because the company cares about user privacy. While Lin thought there was no such thing as a “no logs” VPN, some VPNs actually do disable the logging of user information.</p>

@@ -7,9 +7,8 @@ title: Sum up: The Arrest of Silk Road Admins/Mods SSBD, Libertas &#038; Inigo
 <span>December 21, 2013</span>
 
 <span><a href="https://www.deepdotweb.com/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
+
 <p style="text-align: center;"><strong><span style="color: #ff0000;">Update</span>: <a href="http://www.deepdotweb.com/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/" target="_blank">Warning &#8211; Sr2.0 &amp; DPR might be compromised!</a></strong></p>
 <p>As we have already reported <a href="http://www.deepdotweb.com/2013/12/20/silk-road-administrator-inigo-busted/">about the arrest of Inigo</a> yesterday we can now confirm (yes, a bit too late as i was offline today) the arrests of the two other silk road admins / forum moderators samesamebutdifferent (SSBD) &amp; Libertas, The confirmations were received from various sources such as an official press from the Manhattan U.S. Attorney:</p>
 <p><strong>Manhattan U.S. Attorney Announces Charges Against Three Individuals In Virginia, Ireland, And Australia For Their Roles In Running The “Silk Road” Website</strong> (<a href="http://www.justice.gov/usao/nys/pressreleases/December13/JonesetalArrestsSilkRoad2PR.php">link to the original release</a>):</p>
