@@ -83,7 +83,7 @@ Here is the Stolen Silk Road Wallet?
     <p>Good luck to everyone and be safe.</p>
     </div>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> <span style="display:none" class="updated">2014-02-20</span>
+    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/wallet/" rel="tag">wallet</a></span> <span style="display:none" class="updated">2014-02-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

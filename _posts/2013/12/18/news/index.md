@@ -15,8 +15,8 @@ title: News
 <p>Correct me if I am wrong, but this seems to be on the front page of a certain newspaper. Apparently, this is what Lisa Depies and the press consider to be news.</p>
 <p>It is good for maybe a Facebook post, but for an actual newspaper article&#8230;Really? Now if this is what they will put on the front page, I can&#8217;t imagine what other juicy contents await me.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a></span> 
-Updated2013-12-18<a href="https://www.deepdotweb.com/author/chrisk/" title="Posts by Chris K." rel="author">Chris K.</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a>
+Updated: 2013-12-18<a href="https://www.deepdotweb.com/author/chrisk/" title="Posts by Chris K." rel="author">Chris K.</a></strong></div>
 </div>
 </article>
 

@@ -1,7 +1,7 @@
 ---
 Alphabay Market: Back Online With Upgraded infrastructure
 ---
-<article class="post-listing post-11411 post type-post status-publish format-standard hentry category-news tag-alphabay tag-infrastructure tag-market tag-online tag-upgraded">
+<article class="post-listing post-11411 post type-post status-publish format-standard hentry category-news tag-alphabay tag-infrastructure tag-upgraded">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>September 2, 2015</span>
@@ -21,5 +21,5 @@ Alphabay Market: Back Online With Upgraded infrastructure
 <li class="ok"><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">AlphaBay</a></strong></li>
 </ul>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/infrastructure/" rel="tag">infrastructure</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/upgraded/" rel="tag">upgraded</a></span> <span style="display:none" class="updated">2015-09-02</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/infrastructure/" rel="tag">infrastructure</a>  <a href="https://www.deepdotweb.com/tag/upgraded/" rel="tag">upgraded</a></span> <span style="display:none" class="updated">2015-09-02</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

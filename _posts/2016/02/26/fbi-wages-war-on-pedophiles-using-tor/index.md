@@ -1,7 +1,7 @@
 ---
 FBI wages war on pedophiles using Tor
 ---
-<article class="post-listing post-13317 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-pedophiles tag-tor tag-wages tag-war">
+<article class="post-listing post-13317 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-pedophiles  tag-wages tag-war">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>February 26, 2016</span>

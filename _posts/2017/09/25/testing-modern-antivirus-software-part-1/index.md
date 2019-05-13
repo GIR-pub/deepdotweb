@@ -54,7 +54,7 @@ tag-antivirus tag-modern tag-part tag-software tag-testing">
     <!-- [Format Time: 0.0006 seconds] -->
     <p>
     For start, I tested it with unencoded payload (-i 0) and got the expecting results:</p>
-    <p><img class="wp-image-22752 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/09/word-image-48.png" /></p>
+    <p><img class="wp-image-22752 aligncenter" src="/imgs/2017/09/word-image-48.png" /></p>
     <p>All of these programs consist of 2 parts:</p>
     <ol>
     <li>Encrypted payload</li>

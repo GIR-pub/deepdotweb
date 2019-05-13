@@ -1,7 +1,7 @@
 ---
 Research: Tor marketplaces as a threat to national e-ID infrastructures
 ---
-<article class="post-listing post-28621 post type-post status-publish format-standard has-post-thumbnail hentry  tag-eid tag-infrastructures tag-marketplaces tag-national tag-research tag-threat tag-tor">
+<article class="post-listing post-28621 post type-post status-publish format-standard has-post-thumbnail hentry  tag-eid tag-infrastructures tag-marketplaces tag-national tag-research tag-threat 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>March 14, 2019</span>

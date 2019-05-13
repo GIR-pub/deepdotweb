@@ -1,7 +1,7 @@
 ---
 Interview with Oasis Market Admin
 ---
-<article class="post-listing post-13206 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-interview tag-market tag-oasis">
+<article class="post-listing post-13206 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-interview tag-oasis">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 12, 2016</span>
@@ -82,7 +82,7 @@ Interview with Oasis Market Admin
     <p>For all the people who don&#8217;t believe in us, we highly suggest you to just visit Oasis and check out what it feels like in first person. Vendors can sell at lower prices because of the no fees rule, so even just that should be enough to be worth a visit, but as we said, that&#8217;s not where we stop, we are going to offer more and more services in the future.</p>
     <p><strong>Thank you for the interview, we hope to see your market growing safely for long time.</strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/oasis/" rel="tag">oasis</a></span> <span style="display:none" class="updated">2016-02-12</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/oasis/" rel="tag">oasis</a></span> <span style="display:none" class="updated">2016-02-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

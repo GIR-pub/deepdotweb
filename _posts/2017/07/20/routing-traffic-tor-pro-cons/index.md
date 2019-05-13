@@ -1,7 +1,7 @@
 ---
 ROUTING ALL TRAFFIC THROUGH TOR: PRO AND CONS
 ---
-<article class="post-listing post-21415 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cons tag-pro tag-routing tag-tor tag-traffic">
+<article class="post-listing post-21415 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cons tag-pro tag-routing  tag-traffic">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
     <span>July 20, 2017</span>
@@ -24,11 +24,11 @@ ROUTING ALL TRAFFIC THROUGH TOR: PRO AND CONS
     <h2>ISOLATING PROXY: HOW DOES IT WORK?</h2>
     <p>An isolating proxy resolves the problem of transparent leaks implementing security by isolation. This solution requires two physical or virtual machines, one is called “the Gateway” and the other “the Workstation”. The Gateway has only two interfaces, one connected to the clearnet and another connected to the Workstation through a LAN cable. Tor can run on the first interface as well as on the second one. The Workstation is completely isolated and only runs the applications like the Tor Browser Bundle or Hexchat connecting through the SOCKS port towards the Gateway. This system protects you from malwares adding you to a botnet, from DNS leaks and IP leaks.</p>
     <h2>WHONIX</h2>
-    <p><img class="wp-image-21419 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-22.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-22.png 800w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-22-300x161.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+    <p><img class="wp-image-21419 aligncenter" src="/imgs/2017/07/word-image-22.png" srcset="/imgs/2017/07/word-image-22.png 800w, /imgs/2017/07/word-image-22-300x161.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
     <p><a href="https://www.deepdotweb.com/2014/06/13/simple-whonix-installation-tutorial/">Whonix</a> is the best existing implementation of the isolating proxy concept.</p>
     <p>Whonix is a free Debian-based OS specifically designed to protect your privacy forcing all connections through Tor or blocking them. Whonix is run inside multiple virtual machines and all the applications you need are pre-installed and configured to connect over the Tor network. DNS leaks are impossible as well as IP leaks.</p>
     <p>The SocksPort setup prevents identity correlation by connecting any application to a different Tor SocksPort while normally you would use the same nodes for all the applications used simultaneously.</p>
-    <p><img class="wp-image-21420 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-23.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-23.png 500w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-23-232x300.png 232w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+    <p><img class="wp-image-21420 aligncenter" src="/imgs/2017/07/word-image-23.png" srcset="/imgs/2017/07/word-image-23.png 500w, /imgs/2017/07/word-image-23-232x300.png 232w" sizes="(max-width: 500px) 100vw, 500px" /></p>
     <p>Whonix can be integrated with <a href="https://www.deepdotweb.com/2016/03/12/does-qube-os-has-a-leak-hole/">Qubes OS</a> to make you work in a high-privacy environment but it can cooperate also with Linux, Windows and OS X.</p>
     <p>To conclude, let me say that there are tools out there that promise you to help you route all your traffic through Tor. Built-in tools like these (often developed for Windows systems) ARE NOT RELIABLE, the only trustworthy existing system that allows you to do such a thing is Whonix inside Qubes.</p>
     </div>

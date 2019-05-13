@@ -1,7 +1,7 @@
 ---
 Interview: The Evolution Of a Veteran Dark Market Dweller #1
 ---
-<article class="post-listing post-8488 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-dweller tag-evolution tag-interview tag-market tag-veteran tag-veterandarkmarketdweller">
+<article class="post-listing post-8488 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-dweller tag-evolution tag-interview tag-veteran tag-veterandarkmarketdweller">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
 <span>February 18, 2015</span>
@@ -62,7 +62,7 @@ Interview: The Evolution Of a Veteran Dark Market Dweller #1
 <p>DT: When the Russian sellers showed up, definitely when they became part of the scene in a permanent way.</p>
 <p><strong>The first part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/dweller/" rel="tag">dweller</a> <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/veteran/" rel="tag">veteran</a> <a href="https://www.deepdotweb.com/tag/veterandarkmarketdweller/" rel="tag">VeteranDarkMarketDweller</a></span> <span style="display:none" class="updated">2015-02-18</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/dweller/" rel="tag">dweller</a> <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/veteran/" rel="tag">veteran</a> <a href="https://www.deepdotweb.com/tag/veterandarkmarketdweller/" rel="tag">VeteranDarkMarketDweller</a></span> <span style="display:none" class="updated">2015-02-18</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
 </div>
 </article>

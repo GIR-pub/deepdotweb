@@ -10,7 +10,7 @@ PrivateVPN Review – 2017 update
 
 
 <p>Due to their increasing popularity and great service, we decided to conduct a comprehensive review on a popular Swedish VPN company called PrivateVPN. Their brand is not as big as some of the other <a href="https://www.deepdotweb.com/vpn-comparison-chart/">big name VPN’s</a> on the market but what we found surprised us.</p>
-<p><img class="wp-image-19513 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image.jpeg 1272w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-300x134.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-1024x456.jpeg 1024w" sizes="(max-width: 1272px) 100vw, 1272px"/></p>
+<p><img class="wp-image-19513 aligncenter" src="/imgs/2015/11/word-image.jpeg" srcset="/imgs/2015/11/word-image.jpeg 1272w, /imgs/2015/11/word-image-300x134.jpeg 300w, /imgs/2015/11/word-image-1024x456.jpeg 1024w" sizes="(max-width: 1272px) 100vw, 1272px"/></p>
 <p><a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5637cc7802fcd&amp;a_bid=9689cbf4&amp;chan=PVPNRV1" target="_blank" rel="noopener noreferrer"><strong>&gt;&gt; Click HERE to Visit the PrivateVPN Official Site</strong></a></p>
 <p>To get the ball rolling, here are some useful information and background about their company.</p>
 <h2>About the Company</h2>
@@ -27,7 +27,7 @@ PrivateVPN Review – 2017 update
 <p>For this review, we used a device that runs on windows 7 platform. So, to be able to check their setup process and interface, we had to download a VPN client from their website, after signing up for an account.</p>
 <h3>The sign-up process</h3>
 <p>The process is pretty straightforward and doesn’t take more than a few clicks. So, to create an account, click My Account in the upper-right corner. In the window that shows up, click the bottom link to create a new account.</p>
-<p><img class="wp-image-19514 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-1.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-1.jpeg 558w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-1-288x300.jpeg 288w" sizes="(max-width: 558px) 100vw, 558px"/></p>
+<p><img class="wp-image-19514 aligncenter" src="/imgs/2015/11/word-image-1.jpeg" srcset="/imgs/2015/11/word-image-1.jpeg 558w, /imgs/2015/11/word-image-1-288x300.jpeg 288w" sizes="(max-width: 558px) 100vw, 558px"/></p>
 <p>Next, there are 4 steps to follow:</p>
 <ol>
 <li>Choose a plan (1, 3, and 12 months)</li>
@@ -35,23 +35,23 @@ PrivateVPN Review – 2017 update
 <li>Select a password</li>
 <li>Choose the method of payment (if you have a trial code, choose Trial code)</li>
 </ol>
-<p><img class="wp-image-19515 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-2.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-2.jpeg 828w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-2-300x143.jpeg 300w" sizes="(max-width: 828px) 100vw, 828px"/></p>
+<p><img class="wp-image-19515 aligncenter" src="/imgs/2015/11/word-image-2.jpeg" srcset="/imgs/2015/11/word-image-2.jpeg 828w, /imgs/2015/11/word-image-2-300x143.jpeg 300w" sizes="(max-width: 828px) 100vw, 828px"/></p>
 <h3>Downloading the PrivateVPN client</h3>
 <p>We logged into our newly created account and clicked the Installation Guide tab.</p>
-<p><img class="wp-image-19516 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-3.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-3.jpeg 1286w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-3-300x104.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-3-1024x356.jpeg 1024w" sizes="(max-width: 1286px) 100vw, 1286px"/></p>
+<p><img class="wp-image-19516 aligncenter" src="/imgs/2015/11/word-image-3.jpeg" srcset="/imgs/2015/11/word-image-3.jpeg 1286w, /imgs/2015/11/word-image-3-300x104.jpeg 300w, /imgs/2015/11/word-image-3-1024x356.jpeg 1024w" sizes="(max-width: 1286px) 100vw, 1286px"/></p>
 <p>It brought us to a new page that showed the different platforms that PrivateVPN supports. We selected Windows 7 and were automatically given instructions on how to download the client.</p>
 <p>After the download was complete, we ran the program to install the client software.</p>
-<p><img class="wp-image-19517 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-4.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-4.jpeg 492w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-4-300x185.jpeg 300w" sizes="(max-width: 492px) 100vw, 492px"/></p>
+<p><img class="wp-image-19517 aligncenter" src="/imgs/2015/11/word-image-4.jpeg" srcset="/imgs/2015/11/word-image-4.jpeg 492w, /imgs/2015/11/word-image-4-300x185.jpeg 300w" sizes="(max-width: 492px) 100vw, 492px"/></p>
 <p>After the Microsoft.NET Framework 4 client Profile was installed, it opened a dialogue box, asking us if we wanted to install TAP-Windows Provider V9 Network adapter.</p>
 <p>We clicked on the Install button to continue with the setup process. Once the setup process is complete, the software will ask for a mandatory computer restart.</p>
 <h3>Connecting to the PrivateVPN network</h3>
 <p>After restarting our device, we ran the PrivateVPN application to connect to their VPN network. It may take a bit for the first start after install as the app is checking for updates.</p>
-<p><img class="wp-image-19518 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-5.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-5.jpeg 351w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-5-210x300.jpeg 210w" sizes="(max-width: 351px) 100vw, 351px"/></p>
+<p><img class="wp-image-19518 aligncenter" src="/imgs/2015/11/word-image-5.jpeg" srcset="/imgs/2015/11/word-image-5.jpeg 351w, /imgs/2015/11/word-image-5-210x300.jpeg 210w" sizes="(max-width: 351px) 100vw, 351px"/></p>
 <p>Next, we entered our username and password and then clicked on the LOG IN button.We waited for the VPN client to connect and then we clicked on the drop-down box to select a VPN server location.</p>
 <p>We opted for the Sweden – Stockholm VPN server and then clicked on the CONNECT button.</p>
-<p><img class="wp-image-19519 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-6.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-6.jpeg 352w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-6-210x300.jpeg 210w" sizes="(max-width: 352px) 100vw, 352px"/></p>
+<p><img class="wp-image-19519 aligncenter" src="/imgs/2015/11/word-image-6.jpeg" srcset="/imgs/2015/11/word-image-6.jpeg 352w, /imgs/2015/11/word-image-6-210x300.jpeg 210w" sizes="(max-width: 352px) 100vw, 352px"/></p>
 <p>It took a little bit of time for the PrivateVPN client to connect, but after a while it gave us our external IP and confirmed that we were safely connected to their VPN service.</p>
-<p><img class="wp-image-19520 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-7.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-7.jpeg 702w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-7-300x215.jpeg 300w" sizes="(max-width: 702px) 100vw, 702px"/></p>
+<p><img class="wp-image-19520 aligncenter" src="/imgs/2015/11/word-image-7.jpeg" srcset="/imgs/2015/11/word-image-7.jpeg 702w, /imgs/2015/11/word-image-7-300x215.jpeg 300w" sizes="(max-width: 702px) 100vw, 702px"/></p>
 <p>We were impressed by PrivateVPN’s interface and setup process. Their website automatically provides the information required to install and setup their VPN service on every device platform that is supported by their network, and their VPN client can allow users to easily modify network settings and setup the connection guard feature that automatically closes a running program whenever a VPN connection is terminated.</p>
 <p>For connection settings and connection guard feature, you need to go in Advanced Mode (a button on the lower-right corner of the client interface) and select either Settings or Connection Guard (see the image above).</p>
 <h2>Security –PrivateVPN</h2>
@@ -66,11 +66,11 @@ PrivateVPN Review – 2017 update
 <p><strong>Privacy Policy: </strong><a href="https://privatevpn.com/privacy-policy/">https://privatevpn.com/privacy-policy/</a></p>
 <h2>Speed – PrivateVPN</h2>
 <p>Based on our results, PrivateVPN performed extremely well compared to other VPN providers in the market. The speed drop was very minimal, considering the type of encryption technology that they are using to protect their subscribers online. This really helps when using PrivateVPN along with Tor browser to access the Deep Web, as Tor already slows down your speed considerably so you want a really quick VPN such as PrivateVPN.</p>
-<p><img class="wp-image-19521 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-8.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-8.jpeg 659w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-8-285x300.jpeg 285w" sizes="(max-width: 659px) 100vw, 659px"/></p>
+<p><img class="wp-image-19521 aligncenter" src="/imgs/2015/11/word-image-8.jpeg" srcset="/imgs/2015/11/word-image-8.jpeg 659w, /imgs/2015/11/word-image-8-285x300.jpeg 285w" sizes="(max-width: 659px) 100vw, 659px"/></p>
 <p>PrivateVPN is easy and simple to use. The installation instructions found on their website really help makes the setup process fast and trouble free. All you need to do is select the proper platform for the device that you are going to use to connect to their VPN network, and then follow the instructions that are automatically generated on their website to finish the installation process. It is so simple. Some platforms don’t even require you to download a VPN client that enables you to connect to their VPN network instantly.</p>
 <p>Moreover, PrivateVPN allows you to connect up to 6 different devices simultaneously, giving you the freedom to protect all your devices at the same time.</p>
 <h2>Features</h2>
-<p><img class="wp-image-19522 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-9.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-9.jpeg 899w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-9-300x154.jpeg 300w" sizes="(max-width: 899px) 100vw, 899px"/></p>
+<p><img class="wp-image-19522 aligncenter" src="/imgs/2015/11/word-image-9.jpeg" srcset="/imgs/2015/11/word-image-9.jpeg 899w, /imgs/2015/11/word-image-9-300x154.jpeg 300w" sizes="(max-width: 899px) 100vw, 899px"/></p>
 <ul>
 <li>Supports Multiple Protocols</li>
 <li>Torrent/P2P Friendly</li>
@@ -116,12 +116,12 @@ PrivateVPN Review – 2017 update
 <li>3 Months ($7.32 per month)</li>
 <li>12 Months ($5.95 per month)</li>
 </ul>
-<p><a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5637cc7802fcd&amp;a_bid=79a813fd&amp;data1=PVPNRev1" target="_blank" rel="noopener noreferrer"><img class="wp-image-19523 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-10.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-10.jpeg 1228w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-10-300x130.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-10-1024x444.jpeg 1024w" sizes="(max-width: 1228px) 100vw, 1228px"/></a></p>
+<p><a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5637cc7802fcd&amp;a_bid=79a813fd&amp;data1=PVPNRev1" target="_blank" rel="noopener noreferrer"><img class="wp-image-19523 aligncenter" src="/imgs/2015/11/word-image-10.jpeg" srcset="/imgs/2015/11/word-image-10.jpeg 1228w, /imgs/2015/11/word-image-10-300x130.jpeg 300w, /imgs/2015/11/word-image-10-1024x444.jpeg 1024w" sizes="(max-width: 1228px) 100vw, 1228px"/></a></p>
 <p>Each package offers the same features and there are no limitations from one type of subscription to another. As you can see, the most advantageous plan is the 12 Month offer so, if you like the service, this is the one to choose.</p>
 <p><a href="https://affiliate.privatevpn.com/scripts/click.php?a_aid=5637cc7802fcd&amp;a_bid=9689cbf4&amp;chan=PVPNRV1" target="_blank" rel="noopener noreferrer"><strong>&gt;&gt; Click HERE to Visit the PrivateVPN Official Site</strong></a></p>
 <h2>Check out Process-PrivateVPN</h2>
 <p>We purchased the 30 days package for this review to be able to see how their check out process works. For this, we clicked on the Buy Now button under the 1 MONTH PLAN and entered our email address and our desired password for this account.</p>
-<p><img class="wp-image-19524 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image.png 669w, https://www.deepdotweb.com/wp-content/uploads/2015/11/word-image-223x300.png 223w" sizes="(max-width: 669px) 100vw, 669px"/></p>
+<p><img class="wp-image-19524 aligncenter" src="/imgs/2015/11/word-image.png" srcset="/imgs/2015/11/word-image.png 669w, /imgs/2015/11/word-image-223x300.png 223w" sizes="(max-width: 669px) 100vw, 669px"/></p>
 <p>We then selected PayPal as our payment option, and because we don’t have any discount code for this purchase, we just clicked on the Proceed to payment page button.</p>
 <p>We finished the checkout process by entering the details of our PayPal account.</p>
 <h2>Payment Method Accepted by PrivateVPN</h2>

@@ -11,7 +11,7 @@ Oregon Man Charged For First-Degree Murder, Orders Assassination of His Wife in 
     <div class="clear"></div>
     <div class="entry">
     <p>Stephen Carl Allwine from Cottage Grove, Oregon, who previously made contacts in the Dark Web to plot an assassination of his wife, was indicted by a Washington County grand jury for premeditated first-degree murder.</p>
-    <p><img class="wp-image-19112 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image-34.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image-34.png 620w, https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image-34-300x169.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
+    <p><img class="wp-image-19112 aligncenter" src="/imgs/2017/04/word-image-34.png" srcset="/imgs/2017/04/word-image-34.png 620w, /imgs/2017/04/word-image-34-300x169.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
     <p>&nbsp;</p>
     <p>On March 24, the Washington County District Court officially increased the potential sentence of Allwine from second-degree to first-degree murder, considering the newly acquired pieces of evidence submitted by state prosecutors. One of the newly uncovered evidence was the drug level of the body of Amy Allwine when it was found late last year. Investigators discovered that Amy took a dosage of scopolamine which was 45 times higher than the recommended level.</p>
     <p>Investigators also found bitcoin transactions on Allwine’s computer that were sent to a darknet drug marketplace to purchase scopolamine. Since Amy didn’t have a prescription for the drug, investigators are suspected that Allwine bought the drug on the darknet purposely to overdose his wife before murdering her in their home.</p>

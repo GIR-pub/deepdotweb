@@ -1,7 +1,7 @@
 ---
 TOR &#038; VPN: A Necessary Couple
 ---
-<article class="post-listing post-13038 post type-post status-publish format-standard has-post-thumbnail hentry  tag-couple tag-tor tag-vpn">
+<article class="post-listing post-13038 post type-post status-publish format-standard has-post-thumbnail hentry  tag-couple  tag-vpn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/c3lt1c/" title="">c3lt1c </a></span>
     <span>April 19, 2016</span>

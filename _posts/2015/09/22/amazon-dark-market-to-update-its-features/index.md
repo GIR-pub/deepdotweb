@@ -1,7 +1,7 @@
 ---
 Amazon Dark Market To Update Its Features
 ---
-<article class="post-listing post-11586 post type-post status-publish format-standard hentry category-news tag-amazon tag-dark tag-features tag-market tag-update">
+<article class="post-listing post-11586 post type-post status-publish format-standard hentry category-news tag-amazon tag-dark tag-features tag-update">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>September 22, 2015</span>
@@ -56,5 +56,5 @@ Amazon Dark Market To Update Its Features
 </div>
 </div>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/amazon/" rel="tag">amazon</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-09-22</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/amazon/" rel="tag">amazon</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-09-22</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

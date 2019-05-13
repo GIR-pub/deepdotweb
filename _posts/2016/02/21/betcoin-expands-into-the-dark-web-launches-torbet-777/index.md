@@ -1,7 +1,7 @@
 ---
 BetCoin Expands Into The Dark Web: Launches TorBet 777
 ---
-<article class="post-listing post-13288 post type-post status-publish format-standard hentry category-news tag-3455 tag-betcoin tag-dark tag-expands tag-launches tag-torbet tag-web">
+<article class="post-listing post-13288 post type-post status-publish format-standard hentry category-news tag-3455 tag-betcoin tag-dark tag-expands tag-launches bet tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 21, 2016</span>

@@ -2,7 +2,7 @@
 title: How to Safely Host Your Own TOR Hidden Service
 ---
 573 
-tag-hidden tag-host tag-safely tag-service tag-tor">
+
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 19, 2013</span>
@@ -229,5 +229,5 @@ tag-hidden tag-host tag-safely tag-service tag-tor">
 </div></div>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/host/" rel="tag">host</a> <a href="https://www.deepdotweb.com/tag/safely/" rel="tag">safely</a> <a href="https://www.deepdotweb.com/tag/service/" rel="tag">service</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> 
-Updated2013-10-19
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/host/" rel="tag">host</a> <a href="https://www.deepdotweb.com/tag/safely/" rel="tag">safely</a> <a href="https://www.deepdotweb.com/tag/service/" rel="tag">service</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a>
+Updated: 2013-10-19

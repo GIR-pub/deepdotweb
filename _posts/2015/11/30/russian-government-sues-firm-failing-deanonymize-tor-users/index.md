@@ -1,7 +1,7 @@
 ---
 Russian Government Sues Firm For Failing To Deanonymize Tor Users
 ---
-<article class="post-listing post-12376 post type-post status-publish format-standard hentry category-news tag-deanonymize tag-failing tag-firm tag-government tag-russian tag-sues tag-tor tag-users">
+<article class="post-listing post-12376 post type-post status-publish format-standard hentry category-news tag-deanonymize tag-failing tag-firm tag-government tag-russian tag-sues  tag-users">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 30, 2015</span>

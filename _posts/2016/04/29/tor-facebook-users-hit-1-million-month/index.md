@@ -1,7 +1,7 @@
 ---
 Tor Facebook Users Hit 1 Million This Month
 ---
-<article class="post-listing post-13905 post type-post status-publish format-standard hentry category-news tag-facebook tag-hit tag-million tag-month tag-tor tag-users">
+<article class="post-listing post-13905 post type-post status-publish format-standard hentry category-news tag-facebook tag-hit tag-million tag-month  tag-users">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 29, 2016</span>

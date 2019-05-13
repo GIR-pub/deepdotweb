@@ -1,7 +1,7 @@
 ---
 HANSA Market now supports 2-of-3 multi-signature
 ---
-<article class="post-listing post-12852 post type-post status-publish format-standard hentry category-news tag-2of3 tag-hansa tag-market tag-multisignature tag-supports">
+<article class="post-listing post-12852 post type-post status-publish format-standard hentry category-news tag-2of3 tag-hansa tag-multisignature tag-supports">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 5, 2016</span>
@@ -86,7 +86,7 @@ HANSA Market now supports 2-of-3 multi-signature
     </div>
     
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2of3/" rel="tag">2of3</a> <a href="https://www.deepdotweb.com/tag/hansa/" rel="tag">hansa</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/multisignature/" rel="tag">multisignature</a> <a href="https://www.deepdotweb.com/tag/supports/" rel="tag">supports</a></span> <span style="display:none" class="updated">2016-01-05</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/2of3/" rel="tag">2of3</a> <a href="https://www.deepdotweb.com/tag/hansa/" rel="tag">hansa</a> <a href="https://www.deepdotweb.com/tag/multisignature/" rel="tag">multisignature</a> <a href="https://www.deepdotweb.com/tag/supports/" rel="tag">supports</a></span> <span style="display:none" class="updated">2016-01-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

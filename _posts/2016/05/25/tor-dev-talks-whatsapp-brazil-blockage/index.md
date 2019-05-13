@@ -1,7 +1,7 @@
 ---
 Tor Dev. Talks About WhatsApp Brazil Blockage
 ---
-<article class="post-listing post-14225 post type-post status-publish format-standard hentry category-news tag-blockage tag-brazil tag-dev tag-talks tag-tor tag-whatsapp">
+<article class="post-listing post-14225 post type-post status-publish format-standard hentry category-news tag-blockage tag-brazil tag-dev tag-talks  tag-whatsapp">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>May 25, 2016</span>

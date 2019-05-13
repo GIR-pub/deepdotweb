@@ -2,7 +2,7 @@
 OpenBazaar Finally Integrates Tor
 ---
 <article class="post-listing post-18431 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-finally tag-integrates tag-openbazaar tag-tor">
+ tag-finally tag-integrates tag-openbazaar 
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 4, 2017</span>

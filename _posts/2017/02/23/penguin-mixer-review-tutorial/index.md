@@ -18,24 +18,24 @@ Penguin Mixer: Review and Tutorial
     <p><strong>Part 1 &#8211; Mixing your coins</strong></p>
     <p><strong>Step 1: </strong>Click <a href="http://penguinsmbshtgmf.onion/index.html"><strong>here</strong></a> to go to the Penguin mixer</p>
     <p><strong>Step 2: </strong>Enter the address or addresses you want to send Bitcoin to</p>
-    <p><img class="wp-image-18306 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-80.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-80.png 768w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-80-300x219.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
+    <p><img class="wp-image-18306 aligncenter" src="/imgs/2017/02/word-image-80.png" srcset="/imgs/2017/02/word-image-80.png 768w, /imgs/2017/02/word-image-80-300x219.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
     <p>If you specified more than one output address, your payment will be sent to you in <strong>separate</strong> transactions for each output address, <strong>with a delay</strong> between each payment.</p>
     <p><strong>Step 3:</strong> and choose the time delay you want to use (Fast or Slow)</p>
-    <p><img class="wp-image-18307 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-81.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-81.png 768w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-81-300x61.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
+    <p><img class="wp-image-18307 aligncenter" src="/imgs/2017/02/word-image-81.png" srcset="/imgs/2017/02/word-image-81.png 768w, /imgs/2017/02/word-image-81-300x61.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
     <p><strong>Step 4: </strong>Click “<strong>Go On</strong>”</p>
-    <p><img class="wp-image-18308 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-82.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-82.png 768w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-82-300x80.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
+    <p><img class="wp-image-18308 aligncenter" src="/imgs/2017/02/word-image-82.png" srcset="/imgs/2017/02/word-image-82.png 768w, /imgs/2017/02/word-image-82-300x80.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
     <p><strong>Step 5:</strong> Now you will be shown a Bitcoin address. Simply send your Bitcoin to the address displayed. Remember: The limits are 0.02 to 2 Bitcoins. If you choose more then one address, then the minimum is 0.02 per address (In our case, 0.08)</p>
-    <p><img class="wp-image-18309 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-83.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-83.png 768w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-83-300x116.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
+    <p><img class="wp-image-18309 aligncenter" src="/imgs/2017/02/word-image-83.png" srcset="/imgs/2017/02/word-image-83.png 768w, /imgs/2017/02/word-image-83-300x116.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
     <p><strong>Part 2 &#8211; Checking your mix</strong></p>
     <p>Now that you have sent your coins, it’s time to check the status of the mix.</p>
     <p><strong>Step 1:</strong> Grab the your secret mixing key from the previous page (shown in Step 5 of Part 1)</p>
-    <p><img class="wp-image-18310 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-84.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-84.png 768w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-84-300x116.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
+    <p><img class="wp-image-18310 aligncenter" src="/imgs/2017/02/word-image-84.png" srcset="/imgs/2017/02/word-image-84.png 768w, /imgs/2017/02/word-image-84-300x116.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
     <p><strong>Step 2: </strong>Now, on the top of the page, click “<strong>Check Mix</strong>”</p>
-    <p><img class="wp-image-18311 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-85.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-85.png 768w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-85-300x116.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
+    <p><img class="wp-image-18311 aligncenter" src="/imgs/2017/02/word-image-85.png" srcset="/imgs/2017/02/word-image-85.png 768w, /imgs/2017/02/word-image-85-300x116.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
     <p><strong>Step 3: </strong>Enter your secret mixing key</p>
-    <p><img class="wp-image-18312 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-86.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-86.png 768w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-86-300x116.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
+    <p><img class="wp-image-18312 aligncenter" src="/imgs/2017/02/word-image-86.png" srcset="/imgs/2017/02/word-image-86.png 768w, /imgs/2017/02/word-image-86-300x116.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
     <p><strong>Step 4: </strong>Click “<strong>Submit</strong>”</p>
-    <p><img class="wp-image-18313 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-87.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-87.png 768w, https://www.deepdotweb.com/wp-content/uploads/2017/02/word-image-87-300x116.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
+    <p><img class="wp-image-18313 aligncenter" src="/imgs/2017/02/word-image-87.png" srcset="/imgs/2017/02/word-image-87.png 768w, /imgs/2017/02/word-image-87-300x116.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></p>
     <p>Note that mixing information is only retained for 7 days (for your safety), so if it&#8217;s been longer than that your search won&#8217;t work.</p>
     <p>That’s it! Easy, right? We know. We just wanted to make sure you know everything you need to know before you start mixing. Now that you do, enjoy and remember to play it safe!</p>
     </div>

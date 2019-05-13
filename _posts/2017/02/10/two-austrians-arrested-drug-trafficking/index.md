@@ -26,7 +26,7 @@ Two Austrians Arrested For Drug Trafficking
     <p>“The Increased risk of detection could discourage those who want to experiment with drugs.”</p>
     <p>“Streamlining the discovery and classification of new substances of abuse.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/austrians/" rel="tag">austrians</a> <a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-02-10</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/austrians/" rel="tag">austrians</a>  <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-02-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

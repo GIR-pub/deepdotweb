@@ -1,7 +1,7 @@
 ---
 Tor: &#8216;Mystery&#8217; spike in Hidden Services Addresses
 ---
-<article class="post-listing post-13305 post type-post status-publish format-standard has-post-thumbnail hentry  tag-addresses tag-hidden tag-mystery tag-services tag-spike tag-tor">
+<article class="post-listing post-13305 post type-post status-publish format-standard has-post-thumbnail hentry  tag-addresses tag-mystery tag-services tag-spike 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>February 23, 2016</span>

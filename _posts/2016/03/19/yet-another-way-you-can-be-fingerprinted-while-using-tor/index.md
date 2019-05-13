@@ -1,7 +1,7 @@
 ---
 Yet Another Way You Can Be Fingerprinted While Using Tor
 ---
-<article class="post-listing post-13518 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fingerprinted tag-tor">
+<article class="post-listing post-13518 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fingerprinted 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 19, 2016</span>

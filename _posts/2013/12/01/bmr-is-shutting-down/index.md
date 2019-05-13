@@ -54,6 +54,6 @@ title: BMR Is Shutting Down!
 </div>
 </div>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/shutting/" rel="tag">shutting</a></span> 
-Updated2013-12-01</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/shutting/" rel="tag">shutting</a>
+Updated: 2013-12-01</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

@@ -1,7 +1,7 @@
 ---
 title: Hidden Marketplaces List Updates: 12-12-13
 ---
-2505  tag-979 tag-hidden tag-list tag-marketplaces tag-updates">
+2505  tag-979 tag-list tag-marketplaces tag-updates">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 12, 2013</span>
@@ -23,5 +23,5 @@ title: Hidden Marketplaces List Updates: 12-12-13
 <p>&#8211; Added Agora marketplace</p>
 <p><span style="color: #ff0000;"><strong>You Can Check out the list here: <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank"><span style="color: #ff0000;">http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/</span></a></strong></span></p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/121213/" rel="tag">121213</a> <a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/updates/" rel="tag">updates</a></span> 
-Updated2013-12-12
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/121213/" rel="tag">121213</a> <a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/updates/" rel="tag">updates</a>
+Updated: 2013-12-12

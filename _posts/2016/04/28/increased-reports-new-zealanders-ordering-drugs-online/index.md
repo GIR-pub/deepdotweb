@@ -1,7 +1,7 @@
 ---
 Increased Reports of New Zealanders Ordering Drugs Online
 ---
-<article class="post-listing post-13898 post type-post status-publish format-standard has-post-thumbnail hentry  tag-increased tag-online tag-ordering tag-reports tag-zealanders">
+<article class="post-listing post-13898 post type-post status-publish format-standard has-post-thumbnail hentry  tag-increased tag-ordering tag-reports tag-zealanders">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 28, 2016</span>
@@ -33,7 +33,7 @@ Increased Reports of New Zealanders Ordering Drugs Online
     <p>Only 6% of regular ecstasy users now use legal highs compared to 22% in 2013.</p>
     <p>Marijuana is harder to get now than in previous years.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/reports/" rel="tag">reports</a> <a href="https://www.deepdotweb.com/tag/zealanders/" rel="tag">zealanders</a></span> <span style="display:none" class="updated">2016-04-28</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a>  <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/reports/" rel="tag">reports</a> <a href="https://www.deepdotweb.com/tag/zealanders/" rel="tag">zealanders</a></span> <span style="display:none" class="updated">2016-04-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

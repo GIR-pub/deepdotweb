@@ -21,7 +21,7 @@ Average Age of Cyber Crime Suspects is 17, Young Criminals Enter Dark Web
     
     <p>According to the National Crime Agency (NCA), a national law enforcement agency in the UK, the average age of cyber crime suspects is 17. An increasing number of young criminals are entering the dark web, engaging themselves in illicit activities linked to drug distribution and hacking.</p>
     <p>Earlier this month, NCA released a research paper actively investigating the motive of young cyber criminals. The researchers from NCA noted that a growing number of teenagers have become involved in illicit operations and dark web activities due to their desire to obtain popularity and reputation online.</p>
-    <p><img class="wp-image-19701 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-15.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-15.png 620w, https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-15-300x187.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
+    <p><img class="wp-image-19701 aligncenter" src="/imgs/2017/05/word-image-15.png" srcset="/imgs/2017/05/word-image-15.png 620w, /imgs/2017/05/word-image-15-300x187.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
     <p>&nbsp;</p>
     <p>A teenager serving a sentence for hacking and fraud charges in the UK admitted that he got involved in illicit operations and hacking initiatives because it made him more popular on online platforms and on the dark web. The young hacker told <a href="http://www.belfastlive.co.uk/news/belfast-news/average-age-cyber-crime-suspects-12930211">NCA:</a></p>
     <p>“It made me popular and I enjoyed the feeling. I looked up to those users with the best reputations.&#8221;</p>

@@ -1,7 +1,7 @@
 ---
 Lizard Squad Are Planning to Launch A Dark Net Market?
 ---
-<article class="post-listing post-8986 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-launch tag-lizard tag-market tag-net tag-planning tag-squad">
+<article class="post-listing post-8986 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-launch tag-lizard tag-net tag-planning tag-squad">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 8, 2015</span>
@@ -24,5 +24,5 @@ Lizard Squad Are Planning to Launch A Dark Net Market?
     With our SEO &amp; Spamming services you can gain popularity with ease!</p></blockquote>
 <p>While its hard to say if this is serious or just trolling and although we can agree that the spamming services might sound like a fun thing to use, it would be advised for any Dark Net Market (Or Clearnet market) user to think two or three times before using any type of drugs market launched by this group, not to mention sending your BTC at this direction and stick to the well <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">established markets</a> like <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora</a> and <a href="http://www.deepdotweb.com/marketplace-directory/listing/evolution-marketplace">Evolution</a>.  So keep this name in mind. And get your popcorn ready.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/launch/" rel="tag">launch</a> <a href="https://www.deepdotweb.com/tag/lizard/" rel="tag">lizard</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/planning/" rel="tag">planning</a> <a href="https://www.deepdotweb.com/tag/squad/" rel="tag">squad</a></span> <span style="display:none" class="updated">2015-02-08</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/launch/" rel="tag">launch</a> <a href="https://www.deepdotweb.com/tag/lizard/" rel="tag">lizard</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/planning/" rel="tag">planning</a> <a href="https://www.deepdotweb.com/tag/squad/" rel="tag">squad</a></span> <span style="display:none" class="updated">2015-02-08</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

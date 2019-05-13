@@ -1,7 +1,7 @@
 ---
 Tor has joined the fight to stop the Upcoming Changes to Rule 41
 ---
-<article class="post-listing post-15535 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3910 tag-fight tag-joined tag-rule tag-stop tag-tor tag-upcoming">
+<article class="post-listing post-15535 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3910 tag-fight tag-joined tag-rule tag-stop  tag-upcoming">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>September 24, 2016</span>

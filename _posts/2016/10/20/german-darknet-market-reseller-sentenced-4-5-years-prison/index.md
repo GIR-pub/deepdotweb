@@ -1,7 +1,7 @@
 ---
 German Darknet Market Reseller Sentenced to 4.5 Years in Prison
 ---
-<article class="post-listing post-15949 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4383 tag-darknet tag-german tag-market tag-prison tag-reseller tag-sentenced tag-years">
+<article class="post-listing post-15949 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4383 tag-darknet tag-german tag-prison tag-reseller tag-sentenced tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 20, 2016</span>
@@ -22,7 +22,7 @@ German Darknet Market Reseller Sentenced to 4.5 Years in Prison
     <p>“Small amounts of the ordered drugs were probably intended for his own consumption,” a source wrote. The man was not believed to have drug problems. Some orders were considered insignificant to law enforcement. The small, insignificant packages were either for personal use or sample packs for potential customers.</p>
     <p>A second case has been linked to same man. According to a local newspaper, the 40-year-old “misused the details” of third parties. Furthermore, his shipment was intercepted in Altoetting in October 2015. The package contained amphetamine, cocaine, and ecstasy. By October 2015, however, the accused was already in a detention center, awaiting his hearing.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/45/" rel="tag">45</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/reseller/" rel="tag">reseller</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2016-10-20</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/45/" rel="tag">45</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/reseller/" rel="tag">reseller</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2016-10-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

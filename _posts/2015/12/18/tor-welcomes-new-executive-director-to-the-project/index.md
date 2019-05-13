@@ -1,7 +1,7 @@
 ---
 Tor Welcomes New Executive Director To The Project
 ---
-<article class="post-listing post-12662 post type-post status-publish format-standard hentry category-news tag-director tag-executive tag-project tag-tor tag-welcomes">
+<article class="post-listing post-12662 post type-post status-publish format-standard hentry category-news tag-director tag-executive tag-project  tag-welcomes">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 18, 2015</span>

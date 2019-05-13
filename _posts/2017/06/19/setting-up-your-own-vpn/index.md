@@ -19,7 +19,7 @@ Setting Up Your Own VPN
     <li>VPN basically encrypts all the traffic before ISP (internet service provider) can intercept it.</li>
     </ul>
     <p>There are free versions and paid ones. But still the VPN provider can read your traffic. So you have to trust someone one way or another. What if you could set up your own VPN instead ? It would be totally free and totally (really ?) secure…</p>
-    <p><img class="wp-image-20746 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-33.png" /></p>
+    <p><img class="wp-image-20746 aligncenter" src="/imgs/2017/06/word-image-33.png" /></p>
     <p>When you set your mind on the idea of creating your own virtual private network, a world of different possibilities comes to you. Reading on, you’ll encounter some technicalities but the detailed explanation of software’s installation is left to other articles you can find on the web. This article wants, in particular, to help you discerning what is the best choice for you. The following list is used as a guideline:</p>
     <ul>
     <li>VPN on a cloud
@@ -41,7 +41,7 @@ Setting Up Your Own VPN
     <li>VPN on a Raspberry Pi</li>
     </ul>
     <h2>VPN ON A CLOUD</h2>
-    <p><img class="wp-image-20747 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-34.png" width="765" height="430" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-34.png 1074w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-34-300x168.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-34-1024x575.png 1024w" sizes="(max-width: 765px) 100vw, 765px" /></p>
+    <p><img class="wp-image-20747 aligncenter" src="/imgs/2017/06/word-image-34.png" width="765" height="430" srcset="/imgs/2017/06/word-image-34.png 1074w, /imgs/2017/06/word-image-34-300x168.png 300w, /imgs/2017/06/word-image-34-1024x575.png 1024w" sizes="(max-width: 765px) 100vw, 765px" /></p>
     <p>Hosting a VPN on a cloud is becoming a very common practice. Installing softwares like Algo and Streisand on your laptop, give you the possibility of creating servers on cloud services like Amazon EC2, Azure, Digital Ocean, Google, Linode and Rackspace Cloud. The basic process is creating an account on one of the above cited cloud providers (there are free and paid versions), installing the particular software you need (it requires a little configuration but nothing very hard) and you’re done. In the following lines, I’ll explain in details the process of installing Streisand and Algo.</p>
     <p>STREISAND</p>
     <p>Streisand is a software that allows you to create an Ubuntu 16.04 server on a variety of cloud providers like Amazon, Google and many more. More than this, Streisand installs on your server a lot of <a href="https://www.deepdotweb.com/2016/12/30/turkish-government-permanently-bans-tor-vpn-services/">anti-censorship</a> tools like Stunnel, Tor, sslh, OpenVPN, OpenSSH, Monit, L2TP/IPsec, Shadowsocks, UFW. Installing Streisand is easy and requires only few commands in your terminal:</p>
@@ -175,7 +175,7 @@ Setting Up Your Own VPN
     <p>
     As you can see, Algo does not support a Tor bridge which is the reason why I prefer Streisand for the moment.</p>
     <p>Now you can follow the wizard. At the end of the procedure you will see the subsequent message:</p>
-    <p><img class="wp-image-20748 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-35.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-35.png 624w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-35-300x90.png 300w" sizes="(max-width: 624px) 100vw, 624px" /></p>
+    <p><img class="wp-image-20748 aligncenter" src="/imgs/2017/06/word-image-35.png" srcset="/imgs/2017/06/word-image-35.png 624w, /imgs/2017/06/word-image-35-300x90.png 300w" sizes="(max-width: 624px) 100vw, 624px" /></p>
     <h2>VPN ON A NAS</h2>
     <p>A NAS (Network Attached Storage) is basically a storage system that has all the key features of a small server. It often has a linux based operating system on it and it usually can be accessible by operating systems of all kind. A NAS can be linked to one or more hard disks. Connecting to the NAS gives many people all over the world the possibility to access the data stored in it. You can implement a VPN on your NAS, using it as a real server.</p>
     <h2>VPN ON A ROUTER</h2>

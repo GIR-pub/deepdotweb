@@ -17,6 +17,6 @@ title: Digitalink (Silk Road drug dealer) Pleads Guilty
 <p><em>George had been in trouble in the past. In 2005, the same federal judge who accepted his plea Tuesday sentenced him to two years and three months in prison for running an eBay scam&#8230;.</em></p>
 <a href=" http://www.baltimoresun.com/news/maryland/bs-md-silk-road-plea-20131105,0,7979360.story" target="_blank" class="shortc-button medium red">Read the rest of the article at The Baltimore Sun</a>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/dealer/" rel="tag">dealer</a> <a href="https://www.deepdotweb.com/tag/digitalink/" rel="tag">digitalink</a> <a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
-Updated2013-11-06</span>
+<span style="display:none"> <a href="https://www.deepdotweb.com/tag/digitalink/" rel="tag">digitalink</a>  <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a> 
+Updated: 2013-11-06</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

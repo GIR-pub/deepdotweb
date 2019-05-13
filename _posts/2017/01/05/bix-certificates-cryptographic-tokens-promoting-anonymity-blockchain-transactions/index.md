@@ -15,7 +15,7 @@ BIX Certificates &#8211; Cryptographic Tokens Promoting Anonymity For Blockchain
     <p>&#8220;BIX&#8221; stands for &#8220;Blockchain Information Exchange&#8221;. The purpose of BIX certificates is similar to that of X.509 certificates; to offer secure applications and transactions that provide high levels of anonymity.</p>
     <p><strong>The Components and Structure of BIX Certificates:</strong></p>
     <p>According to the below diagram, a BIX certificate is formed of the following components:</p>
-    <p><img class="wp-image-17331 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/01/bix-certificates-png.png" alt="BIX certificates.PNG" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/01/bix-certificates-png.png 483w, https://www.deepdotweb.com/wp-content/uploads/2017/01/bix-certificates-png-300x272.png 300w" sizes="(max-width: 483px) 100vw, 483px"/></p>
+    <p><img class="wp-image-17331 aligncenter" src="/imgs/2017/01/bix-certificates-png.png" alt="BIX certificates.PNG" srcset="/imgs/2017/01/bix-certificates-png.png 483w, /imgs/2017/01/bix-certificates-png-300x272.png 300w" sizes="(max-width: 483px) 100vw, 483px"/></p>
     <p><strong>1- <em>Header:</em></strong> is composed of 3 attributes:</p>
     <p>&#8211; <em>Sequence number: </em>it corresponds to the certificate&#8217;s serial number and denotes its relative position with respect to other BIX certificates within the context of a BCL instance.</p>
     <p>&#8211; Version: It includes the piece of code that determines the type of a given BIX certificate.</p>

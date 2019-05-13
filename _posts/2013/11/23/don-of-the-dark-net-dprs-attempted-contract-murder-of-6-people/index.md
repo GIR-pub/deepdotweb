@@ -34,6 +34,6 @@ title: Don of the Dark Net: DPR’s Attempted Contract Murder of 6 People
 <p>Whether or not Ulbricht is DPR, or he just so happened to be at the wrong place at the wrong time, it appears as if Ross Ulbricht is not going to see the free world for quite some time.</p>
 <p>Perhaps, the Don of the Darknet should not have tasted blood in the first place.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/attempted/" rel="tag">attempted</a> <a href="https://www.deepdotweb.com/tag/contract/" rel="tag">contract</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/don/" rel="tag">don</a> <a href="https://www.deepdotweb.com/tag/dprs/" rel="tag">dprs</a> <a href="https://www.deepdotweb.com/tag/murder/" rel="tag">murder</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a></span> 
-Updated2013-11-23</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/attempted/" rel="tag">attempted</a> <a href="https://www.deepdotweb.com/tag/contract/" rel="tag">contract</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/don/" rel="tag">don</a> <a href="https://www.deepdotweb.com/tag/dprs/" rel="tag">dprs</a> <a href="https://www.deepdotweb.com/tag/murder/" rel="tag">murder</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a>
+Updated: 2013-11-23</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

@@ -1,7 +1,7 @@
 ---
 Seattle Police Raid Home Of Privacy Tor Exit Node Operators
 ---
-<article class="post-listing post-13650 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-exit tag-home tag-node tag-operators tag-police tag-privacy tag-raid tag-seattle tag-tor">
+<article class="post-listing post-13650 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-exit tag-home tag-node tag-operators tag-police tag-privacy tag-raid tag-seattle 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 6, 2016</span>

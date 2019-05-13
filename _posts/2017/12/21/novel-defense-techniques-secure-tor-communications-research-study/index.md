@@ -1,7 +1,7 @@
 ---
 Novel Defense Techniques To Secure Tor Communications &#8211; A Research Study
 ---
-<article class="post-listing post-24002 post type-post status-publish format-standard has-post-thumbnail hentry  tag-communications tag-defense tag-research tag-secure tag-study tag-techniques tag-tor">
+<article class="post-listing post-24002 post type-post status-publish format-standard has-post-thumbnail hentry  tag-communications tag-defense tag-research tag-secure tag-study tag-techniques 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>December 21, 2017</span>
@@ -17,7 +17,7 @@ Novel Defense Techniques To Secure Tor Communications &#8211; A Research Study
     <li>Internet users who access the world wide web via means of the Tor network.</li>
     </ol>
     <p>ASes can precisely de-anonymize Tor users as well as the servers they access. On the other hand, adversaries at the network level, such as ASes representing restrictive governments, can markedly decrease network utility via identification and blockage of Tor related traffic. Moreover, some Tor users can sometimes abuse the anonymity offered to them via the network.</p>
-    <p><img class="wp-image-24005 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-37.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-37.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2017/12/word-image-37-300x169.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+    <p><img class="wp-image-24005 aligncenter" src="/imgs/2017/12/word-image-37.jpeg" srcset="/imgs/2017/12/word-image-37.jpeg 660w, /imgs/2017/12/word-image-37-300x169.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
     <p><a href="https://search.proquest.com/openview/1148dde9e391dd5e9c2585f52dc027d0/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y">A recently published research study</a> addressed each of the aforementioned threats. Particularly, the study presented:</p>
     <ol>
     <li>Strategies to modify network traffic flows to countermeasure the threats imposed by eavesdropping and relay-level adversaries.</li>

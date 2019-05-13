@@ -1,7 +1,7 @@
 ---
 Acropolis Market Update, Traditional Escrow Introduced
 ---
-<article class="post-listing post-13570 post type-post status-publish format-standard hentry category-news tag-acropolis tag-escrow tag-introduced tag-market tag-traditional tag-update">
+<article class="post-listing post-13570 post type-post status-publish format-standard hentry category-news tag-acropolis tag-escrow tag-introduced tag-traditional tag-update">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 25, 2016</span>
@@ -236,7 +236,7 @@ Acropolis Market Update, Traditional Escrow Introduced
     Please remember to use market links obtained from <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">trusted</a> <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">sources</a>. It is also recommended and encouraged that you make use of <a href="https://www.deepdotweb.com/2015/11/12/reminder-reduce-exit-scams-by-supporting-multisig-markets/">multisig transactions</a>.</p>
     <p>&nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/acropolis/" rel="tag">acropolis</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/introduced/" rel="tag">introduced</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/traditional/" rel="tag">traditional</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2016-03-25</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/acropolis/" rel="tag">acropolis</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/introduced/" rel="tag">introduced</a> <a href="https://www.deepdotweb.com/tag/traditional/" rel="tag">traditional</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2016-03-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

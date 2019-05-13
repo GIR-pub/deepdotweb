@@ -1,7 +1,7 @@
 ---
 Two Men Associated With the “Closed” Hansa Darknet Market Busted By the Nrw
 ---
-<article class="post-listing post-21748 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-closed tag-darknet tag-hansa tag-market tag-men tag-nrw">
+<article class="post-listing post-21748 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-closed tag-darknet tag-hansa tag-men tag-nrw">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>August 5, 2017</span>
@@ -34,7 +34,7 @@ Two Men Associated With the “Closed” Hansa Darknet Market Busted By the Nrw
     <p>Andrew McCabe, the FBI deputy director said that some people thought it was impossible for Darknet market administrators and users to be identified and arrested due to the many nationalities involved. He said; &#8220;There are some criminals that think of cybercrime as a freebie.&#8221; He continued that “They think they will get away with it because there are too many players and too many countries, they think they will get away with it because the schemes are too complex and because they run in the shadows.&#8221;</p>
     <p>This shows that arresting Darknet dealers are possible, and authorities are going through files to find and arrest the buyers and sellers who traded on the platform.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/closed/" rel="tag">closed</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/hansa/" rel="tag">hansa</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/nrw/" rel="tag">nrw</a></span> <span style="display:none" class="updated">2017-08-05</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/closed/" rel="tag">closed</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/hansa/" rel="tag">hansa</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/nrw/" rel="tag">nrw</a></span> <span style="display:none" class="updated">2017-08-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
     </div>
 </article>

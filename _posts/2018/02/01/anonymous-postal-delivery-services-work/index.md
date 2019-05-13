@@ -10,7 +10,7 @@ tag-anonymous tag-delivery tag-postal tag-services tag-work">
 <span><a href="https://www.deepdotweb.com/2018/02/01/anonymous-postal-delivery-services-work/#comments">20 Comments</a></span>
 
 
-<p>With <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">Darknet Market</a> use growing, there is an increasing amount of deliveries being seized. Is there potential for an anonymous postal service in which orders get delivered under the radar, or is it just not possible?<img class="wp-image-24634 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-69.png" width="609" height="343" /></p>
+<p>With <a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">Darknet Market</a> use growing, there is an increasing amount of deliveries being seized. Is there potential for an anonymous postal service in which orders get delivered under the radar, or is it just not possible?<img class="wp-image-24634 aligncenter" src="/imgs/2018/01/word-image-69.png" width="609" height="343" /></p>
 <p>The deep web is often used as a means of anonymously ordering goods – normally anything other than what you’d call legal. With this in mind, it’s probably not a big surprise that a fair percentage of people who order illegal things online get their deliveries seized. While the legal consequences aren’t normally severe, for people investing large amounts of money into their market orders, it can become a big problem.</p>
 <p>Having an <a href="https://www.deepdotweb.com/security-tutorials/">Anonymous</a> Postal service won’t just be beneficial for people who have great concerns over their <a href="https://www.deepdotweb.com/security-tutorials/">anonymity</a>, but it would provide a handful of people with part time jobs and allow people to get expensive packages delivered safely. You’re probably wondering how’d this work.</p>
 <p><strong>Here’s a brief idea: </strong></p>
@@ -30,7 +30,7 @@ tag-anonymous tag-delivery tag-postal tag-services tag-work">
 <p><em>We accessed the dark web via the Tor browser, free software which conceals users&#8217; identities and their online activity from surveillance.</em></p>
 <p><em>Deliveries to a PO Box took around a week to arrive.</em></p>
 <p><em>When they did, we gave them to a government-approved lab for testing and destruction.’</em></p>
-<p><img class="wp-image-24635" src="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-70.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-70.png 976w, https://www.deepdotweb.com/wp-content/uploads/2018/01/word-image-70-300x225.png 300w" sizes="(max-width: 976px) 100vw, 976px" /></p>
+<p><img class="wp-image-24635" src="/imgs/2018/01/word-image-70.png" srcset="/imgs/2018/01/word-image-70.png 976w, /imgs/2018/01/word-image-70-300x225.png 300w" sizes="(max-width: 976px) 100vw, 976px" /></p>
 <p><em>An ecstasy pill the BBC bought on the dark web arrived wrapped inside a packet of Haribo sweets.</em></p>
 <p>“Unless there are massive raids on markets any time soon,” causing “a loss of consumer confidence,” this hidden drug market will keep growing, says Chris Monteiro after an interview with the BBC, an independent cybersecurity expert and researcher.</p>
 <p>‘Patrick’, someone who works for the Royal Mail, told the BBC that it&#8217;s illegal for him to open suspect parcels and there&#8217;s ‘nothing he can do about it’.</p>

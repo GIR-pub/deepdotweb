@@ -30,7 +30,7 @@ Officers In Bengaluru Report 100% Increase in Drug Crimes From 2015
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/100/" rel="tag">100</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bengaluru/" rel="tag">bengaluru</a> <a href="https://www.deepdotweb.com/tag/crimes/" rel="tag">crimes</a> <a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/officers/" rel="tag">officers</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span>				<span style="display:none" class="updated">2017-01-10</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/100/" rel="tag">100</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bengaluru/" rel="tag">bengaluru</a> <a href="https://www.deepdotweb.com/tag/crimes/" rel="tag">crimes</a>  <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/officers/" rel="tag">officers</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span>				<span style="display:none" class="updated">2017-01-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

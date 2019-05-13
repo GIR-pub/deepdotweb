@@ -1,7 +1,7 @@
 ---
 Comcast Declares War on Tor?
 ---
-<article class="post-listing post-7053 post type-post status-publish format-standard has-post-thumbnail hentry  tag-comcast tag-declares tag-tor tag-war">
+<article class="post-listing post-7053 post type-post status-publish format-standard has-post-thumbnail hentry  tag-comcast tag-declares  tag-war">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/nathan/" title="">Nathan Wold </a></span>
     <span>September 13, 2014</span>

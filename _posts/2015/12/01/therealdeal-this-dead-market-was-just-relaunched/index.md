@@ -1,7 +1,7 @@
 ---
 TheRealDeal: This Long-Dead Market Was Just Relaunched!
 ---
-<article class="post-listing post-12411 post type-post status-publish format-standard has-post-thumbnail hentry  tag-longdead tag-market tag-relaunched tag-therealdeal">
+<article class="post-listing post-12411 post type-post status-publish format-standard has-post-thumbnail hentry  tag-longdead tag-relaunched tag-therealdeal">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 1, 2015</span>
@@ -36,7 +36,7 @@ TheRealDeal: This Long-Dead Market Was Just Relaunched!
     <p><strong>Anything else you want to add?</strong></p>
     <p>911 was an inside job! (no, not really)</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/longdead/" rel="tag">longdead</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/relaunched/" rel="tag">relaunched</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a></span> <span style="display:none" class="updated">2015-12-01</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/longdead/" rel="tag">longdead</a> <a href="https://www.deepdotweb.com/tag/relaunched/" rel="tag">relaunched</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a></span> <span style="display:none" class="updated">2015-12-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

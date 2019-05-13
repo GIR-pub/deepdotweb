@@ -1,7 +1,7 @@
 ---
 1776 Market: Automated Multi-Signature Escrow
 ---
-<article class="post-listing post-5051 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1492 tag-automated tag-escrow tag-market tag-multisignature">
+<article class="post-listing post-5051 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1492 tag-automated tag-escrow tag-multisignature">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 19, 2014</span>
@@ -80,7 +80,7 @@
     <p>Marketplace url is also added to our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace list</a></p>
     <p>And this post is added to the <a href="http://www.deepdotweb.com/multisig-guides/">Multisig Guides page</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/1776/" rel="tag">1776</a> <a href="https://www.deepdotweb.com/tag/automated/" rel="tag">automated</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/multisignature/" rel="tag">multisignature</a></span> <span style="display:none" class="updated">2014-04-19</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/1776/" rel="tag">1776</a> <a href="https://www.deepdotweb.com/tag/automated/" rel="tag">automated</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/multisignature/" rel="tag">multisignature</a></span> <span style="display:none" class="updated">2014-04-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

@@ -31,7 +31,7 @@ Darkcoin on Abraxas Market
     
 </span>
 </div><span class="wpsr_floatbts_anchor" data-offset="25"></span><p>Another market to accept Darkcoin &#8211; <span title="UP"><a href="http://www.deepdotweb.com/marketplace-directory/listing/abraxas-market" target="_blank">Abraxas</a>  market.</span></p>
-<p><a href="/imgs/2015/02/drk1.png"><img class="aligncenter size-full wp-image-9042" src="https://www.deepdotweb.com/wp-content/uploads/2015/02/drk1.png" alt="drk" width="791" height="400" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/02/drk1-300x152.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/02/drk1.png 791w" sizes="(max-width: 791px) 100vw, 791px"/></a></p>
+<p><a href="/imgs/2015/02/drk1.png"><img class="aligncenter size-full wp-image-9042" src="/imgs/2015/02/drk1.png" alt="drk" width="791" height="400" srcset="/imgs/2015/02/drk1-300x152.png 300w, /imgs/2015/02/drk1.png 791w" sizes="(max-width: 791px) 100vw, 791px"/></a></p>
 <h3>Share and Enjoy</h3>
     
 <div class="wp-socializer 32px">
@@ -48,5 +48,5 @@ Darkcoin on Abraxas Market
 <div class="wp-socializer-clearer"></div></div>
     
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/abraxas/" rel="tag">abraxas</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a></span> <span style="display:none" class="updated">2015-02-12</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/abraxas/" rel="tag">abraxas</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a></span> <span style="display:none" class="updated">2015-02-12</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

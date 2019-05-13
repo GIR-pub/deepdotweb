@@ -1,7 +1,7 @@
 ---
 title: Freedom Host Case: DPP will not bring proceedings against Marques in child abuse images case
 ---
-2529  tag-abuse tag-bring tag-case tag-child tag-dpp tag-freedom tag-host tag-images tag-marques tag-proceedings">
+2529  tag-abuse tag-bring tag-case tag-child tag-dpp tag-freedom tag-images tag-marques tag-proceedings">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 13, 2013</span>
@@ -19,5 +19,5 @@ title: Freedom Host Case: DPP will not bring proceedings against Marques in chil
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/bring/" rel="tag">bring</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/dpp/" rel="tag">dpp</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/host/" rel="tag">host</a> <a href="https://www.deepdotweb.com/tag/images/" rel="tag">images</a> <a href="https://www.deepdotweb.com/tag/marques/" rel="tag">marques</a> <a href="https://www.deepdotweb.com/tag/proceedings/" rel="tag">proceedings</a></span> 
-Updated2013-12-13
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/bring/" rel="tag">bring</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/dpp/" rel="tag">dpp</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/host/" rel="tag">host</a> <a href="https://www.deepdotweb.com/tag/images/" rel="tag">images</a> <a href="https://www.deepdotweb.com/tag/marques/" rel="tag">marques</a> <a href="https://www.deepdotweb.com/tag/proceedings/" rel="tag">proceedings</a>
+Updated: 2013-12-13

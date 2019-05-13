@@ -1,7 +1,7 @@
 ---
 Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market
 ---
-<article class="post-listing post-4768 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fail tag-market tag-redsunexxtacy tag-security tag-sunday tag-trio tag-unnamed">
+<article class="post-listing post-4768 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fail tag-redsunexxtacy tag-security tag-sunday tag-trio tag-unnamed">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 23, 2014</span>
@@ -93,7 +93,7 @@ Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market
     <p>We have no idea how this will end up for these markets, but we urge all users to do their research before using any of these markets (or any other market)</p>
     <p>One of them was listed in our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of hidden</a> marketplaces but will be removed now</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fail/" rel="tag">fail</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/redsunexxtacy/" rel="tag">redsunexxtacy</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/sunday/" rel="tag">sunday</a> <a href="https://www.deepdotweb.com/tag/trio/" rel="tag">trio</a> <a href="https://www.deepdotweb.com/tag/unnamed/" rel="tag">unnamed</a></span> <span style="display:none" class="updated">2014-03-23</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fail/" rel="tag">fail</a> <a href="https://www.deepdotweb.com/tag/redsunexxtacy/" rel="tag">redsunexxtacy</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a> <a href="https://www.deepdotweb.com/tag/sunday/" rel="tag">sunday</a> <a href="https://www.deepdotweb.com/tag/trio/" rel="tag">trio</a> <a href="https://www.deepdotweb.com/tag/unnamed/" rel="tag">unnamed</a></span> <span style="display:none" class="updated">2014-03-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

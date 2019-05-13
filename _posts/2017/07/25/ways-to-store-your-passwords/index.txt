@@ -15,7 +15,7 @@
 Storing a password has always been a problem that involved other problems. Today every..."/>
 <meta property="og:url" content="https://www.deepdotweb.com/2017/07/25/ways-to-store-your-passwords/"/>
 <meta property="og:site_name" content="Deep Dot Web"/>
-<meta property="og:image" content="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-36-660x330.png"/>
+<meta property="og:image" content="/imgs/2017/07/word-image-36-660x330.png"/>
  
 <meta property="og:locale" content="en_US"/>
 <meta property="og:type" content="article"/>
@@ -29,14 +29,14 @@ Storing a password has always been a problem that involved other problems. Today
 <meta property="article:published_time" content="2017-07-25T08:55:54-03:00"/>
 <meta property="article:modified_time" content="2017-07-23T19:00:38-03:00"/>
 <meta property="og:updated_time" content="2017-07-23T19:00:38-03:00"/>
-<meta property="og:image" content="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-36.png"/>
-<meta property="og:image:secure_url" content="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-36.png"/>
+<meta property="og:image" content="/imgs/2017/07/word-image-36.png"/>
+<meta property="og:image:secure_url" content="/imgs/2017/07/word-image-36.png"/>
 <meta property="og:image:width" content="810"/>
 <meta property="og:image:height" content="456"/>
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:description" content="&nbsp; Storing a password has always been a problem that involved other problems. Today everyone has a digital life made by different accounts for each activity, from online banking to email, from different forums to social networks, so it’s crucial to find a way to remember all the credentials, possibly avoiding password stealing. If you ..."/>
 <meta name="twitter:title" content="(Some Of) The Best Ways To Store Your Passwords - Deep Dot Web"/>
-<meta name="twitter:image" content="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-36.png"/>
+<meta name="twitter:image" content="/imgs/2017/07/word-image-36.png"/>
  
 <link rel='dns-prefetch' href='//www.deepdotweb.com'/>
 <link rel='dns-prefetch' href='//fonts.googleapis.com'/>
@@ -96,7 +96,7 @@ var userSettings = {"url":"\/","uid":"0","time":"1501565385","secure":"1"};
             var _statcounter = _statcounter || [];
             _statcounter.push({"tags": {"author": "TheInnocent"}});
         </script>
-<link rel="shortcut icon" href="https://www.deepdotweb.com/wp-content/uploads/2014/05/favicon.ico" title="Favicon"/>
+<link rel="shortcut icon" href="/imgs/2014/05/favicon.ico" title="Favicon"/>
 <!--[if IE]>
 <script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
 <![endif]-->
@@ -160,7 +160,7 @@ var userSettings = {"url":"\/","uid":"0","time":"1501565385","secure":"1"};
 </a>
 </h2> </div> 
 <div class="ads-top"> <div style="margin-left: 1%;margin-top: 1%;">
-<a href="https://bitcoincasinos.reviews/?n=ddwtop" target="_blank"><img src="https://www.deepdotweb.com/wp-content/uploads/2016/08/468btccrev.gif"/></a>
+<a href="https://bitcoincasinos.reviews/?n=ddwtop" target="_blank"><img src="/imgs/2016/08/468btccrev.gif"/></a>
 </div> </div> <div class="clear"></div>
 </div>
 <nav id="main-nav">
@@ -187,7 +187,7 @@ var userSettings = {"url":"\/","uid":"0","time":"1501565385","secure":"1"};
 <div id="main-content" class="container">
 <div class="content">
 <div xmlns:v="http://rdf.data-vocabulary.org/#" id="crumbs"><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" class="crumbs-home" href="https://www.deepdotweb.com">Home</a></span> &raquo; <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://www.deepdotweb.com/category/articles/">Articles</a></span> &raquo; <span class="current">(Some Of) The Best Ways To Store Your Passwords</span></div>
-<div class="ads-post"> <a href="https://www.deepdotweb.com/vpn-comparison-chart/"><img src="https://www.deepdotweb.com/wp-content/uploads/2015/06/ddwan51.gif" alt="Click Here To Hide Tor" max-width="468" max-height="60"/></a> </div>
+<div class="ads-post"> <a href="https://www.deepdotweb.com/vpn-comparison-chart/"><img src="/imgs/2015/06/ddwan51.gif" alt="Click Here To Hide Tor" max-width="468" max-height="60"/></a> </div>
 <article class="post-listing post-21553 post type-post status-publish format-standard has-post-thumbnail hentry  tag-passwords tag-store tag-ways">
 <div class="post-inner">
 <h1 class="name post-title entry-title" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing"><span itemprop="name">(Some Of) The Best Ways To Store Your Passwords</span></h1>
@@ -199,7 +199,7 @@ var userSettings = {"url":"\/","uid":"0","time":"1501565385","secure":"1"};
 
 <p>&nbsp;</p>
 <p>Storing a <a href="https://www.deepdotweb.com/2016/11/12/need-know-passwords/#comments">password</a> has always been a problem that involved other problems. Today everyone has a digital life made by different accounts for each activity, from online banking to email, from different forums to social networks, so it’s crucial to find a way to remember all the credentials, possibly avoiding password stealing. If you search on the web you’ll find a lot of articles about tools that help you to store your passwords securely but what these articles usually do, is present a list of useful tools. I’d personally prefer to make you reflect on the implications of using one or another storage system, helping you to find your favourite solution.</p>
-<p><img class="wp-image-21560 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-36.png" width="581" height="327" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-36.png 810w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-36-300x169.png 300w" sizes="(max-width: 581px) 100vw, 581px"/></p>
+<p><img class="wp-image-21560 aligncenter" src="/imgs/2017/07/word-image-36.png" width="581" height="327" srcset="/imgs/2017/07/word-image-36.png 810w, /imgs/2017/07/word-image-36-300x169.png 300w" sizes="(max-width: 581px) 100vw, 581px"/></p>
 <h2>LOCAL VS ONLINE</h2>
 <p>Reading on the web, you’ll encounter tools that allow you to store your passwords online, and other tools that store them locally, on your pc. The difference between these two different approaches, depends only by which system you can trust more. OneLogin, the provider and developer of single sign on, has been hacked recently.</p>
 <p>The company said that<em> &#8220;the threat actor was able to access database tables that contain information about users, apps, and various types of keys&#8221;</em> .</p>
@@ -209,7 +209,7 @@ var userSettings = {"url":"\/","uid":"0","time":"1501565385","secure":"1"};
 <p>To conclude, your <a href="https://www.deepdotweb.com/2016/05/31/65-million-tumblr-passwords-sale-therealdeal-market/">credentials</a> are safe as well as your storing system is safe.</p>
 <h2>PLAINTEXT VS ENCRYPTED</h2>
 <p>This part shouldn’t be hard to understand for you. Storing your passwords unencrypted is just stupid. Use encryption. Most of the available tools use AES-256 bit encryption.</p>
-<h1><img class="wp-image-21561" src="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-37.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-37.png 600w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-37-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px"/></h1>
+<h1><img class="wp-image-21561" src="/imgs/2017/07/word-image-37.png" srcset="/imgs/2017/07/word-image-37.png 600w, /imgs/2017/07/word-image-37-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px"/></h1>
 <h2>FREE VS PAID</h2>
 <p>In my opinion paid password managers don’t offer features that justify their prices. Just search for free software and you’ll find a plenty of good tools without spending a fortune.</p>
 <h2>STANDALONE VS BROWSER EXTENSION</h2>
@@ -228,7 +228,7 @@ var userSettings = {"url":"\/","uid":"0","time":"1501565385","secure":"1"};
 </article> 
 <div class="related-posts">
 <h3>You might also like</h3>
-<div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="https://www.deepdotweb.com/2015/11/01/bitcoin-news-roundup-1nov-2015/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(https://www.deepdotweb.com/wp-content/uploads/2014/06/bitcoin_131003_getty1-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Bitcoin News Roundup – 1Nov. 2015</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="https://www.deepdotweb.com/2017/06/05/homeland-security-may-study-bitcoins-link-terrorism/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(https://www.deepdotweb.com/wp-content/uploads/2013/11/dept-homeland-security1-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Homeland Security May Study Bitcoin’s Link to Terrorism</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="https://www.deepdotweb.com/2017/06/28/german-weapon-narcotic-dealer-facing-68-charges/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(https://www.deepdotweb.com/wp-content/uploads/2017/06/c-users-vitaris-desktop-twerk-img-129233207-c4c83-150x150.jpeg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">German Weapon And Narcotic Dealer Facing 68 Charges</div></div></a></div><div style="clear: both"></div>
+<div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="https://www.deepdotweb.com/2015/11/01/bitcoin-news-roundup-1nov-2015/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/imgs/2014/06/bitcoin_131003_getty1-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Bitcoin News Roundup – 1Nov. 2015</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="https://www.deepdotweb.com/2017/06/05/homeland-security-may-study-bitcoins-link-terrorism/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/imgs/2013/11/dept-homeland-security1-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Homeland Security May Study Bitcoin’s Link to Terrorism</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="https://www.deepdotweb.com/2017/06/28/german-weapon-narcotic-dealer-facing-68-charges/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/imgs/2017/06/c-users-vitaris-desktop-twerk-img-129233207-c4c83-150x150.jpeg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">German Weapon And Narcotic Dealer Facing 68 Charges</div></div></a></div><div style="clear: both"></div>
 </div>
 <div id="comments">
 <h3 id="comments-title">
@@ -278,10 +278,10 @@ Done!</p>
 <aside id="sidebar">
 <div id="text-5" class="widget widget_text"><div class="widget-top"><h4>Visit:</h4><div class="stripe-line"></div></div>
 <div class="widget-container"> <div class="textwidget"><div align="center">
-<p><a href="https://bitcoincasinos.reviews/?n=side" target="_blank" rel="noopener"><img src="https://www.deepdotweb.com/wp-content/uploads/2016/08/bannerrev.gif" width="300" height="300"/></a></p>
-<p><a href="https://gramsflows.org/helixlight" target="_blank" rel="nofollow noopener"><img class="alignnone" src="https://www.deepdotweb.com/wp-content/uploads/2015/07/helix.gif" alt="" width="330" height="104"/></a></p>
-<p><a href="https://www.deepdotweb.com/vpn-comparison-chart/"><img src="https://www.deepdotweb.com/wp-content/uploads/2015/08/Non-animated1_aNu_22-July-15__300x250_01-orange.jpg" width="330" height="104"/></a><br/>
-<a href="https://www.deepdotweb.com/grams-search-darknet-marketplaces/"><img src="https://www.deepdotweb.com/wp-content/uploads/2014/09/gramsbanner.png" width="330" height="104"/></a></p>
+<p><a href="https://bitcoincasinos.reviews/?n=side" target="_blank" rel="noopener"><img src="/imgs/2016/08/bannerrev.gif" width="300" height="300"/></a></p>
+<p><a href="https://gramsflows.org/helixlight" target="_blank" rel="nofollow noopener"><img class="alignnone" src="/imgs/2015/07/helix.gif" alt="" width="330" height="104"/></a></p>
+<p><a href="https://www.deepdotweb.com/vpn-comparison-chart/"><img src="/imgs/2015/08/Non-animated1_aNu_22-July-15__300x250_01-orange.jpg" width="330" height="104"/></a><br/>
+<a href="https://www.deepdotweb.com/grams-search-darknet-marketplaces/"><img src="/imgs/2014/09/gramsbanner.png" width="330" height="104"/></a></p>
 </div>
 </div>
 </div></div> <div id="torlinks-id-2" class="widget torlinks-class"><div class="widget-top"><h4>Markets List &#038; Availability Status</h4><div class="stripe-line"></div></div>
@@ -342,10 +342,10 @@ Done!</p>
  
 </div></div> <div id="text-9" class="widget widget_text"><div class="widget-top"><h4>Check Out</h4><div class="stripe-line"></div></div>
 <div class="widget-container"> <div class="textwidget"><div align="center">
-<a href="https://www.deepdotweb.com/2014/05/19/writer-dnm-bitcoin-enthusiast-we-want-you/" target="blank"><img src="https://www.deepdotweb.com/wp-content/uploads/2014/05/writer.png" title="writers wanted"/></a>
-<a href="http://energycontrol-international.org/" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/uploads/2016/11/BANNERDEF.jpg" title="Energy Control"/></a>
-<a href="http://freeross.org/" target="_blank" rel="nofollow"><img src="https://www.deepdotweb.com/wp-content/uploads/2014/07/free_ross.jpg" title="Free Ross Ulbricht - Dread Pirate Roberts"/></a>
-<a href="http://billpaymenthelp.com/" target="_blank"><img title="Bill Payment Help" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/billpayhelp2.png"></a>
+<a href="https://www.deepdotweb.com/2014/05/19/writer-dnm-bitcoin-enthusiast-we-want-you/" target="blank"><img src="/imgs/2014/05/writer.png" title="writers wanted"/></a>
+<a href="http://energycontrol-international.org/" target="_blank" rel="nofollow"><img src="/imgs/2016/11/BANNERDEF.jpg" title="Energy Control"/></a>
+<a href="http://freeross.org/" target="_blank" rel="nofollow"><img src="/imgs/2014/07/free_ross.jpg" title="Free Ross Ulbricht - Dread Pirate Roberts"/></a>
+<a href="http://billpaymenthelp.com/" target="_blank"><img title="Bill Payment Help" src="/imgs/2015/03/billpayhelp2.png"></a>
 </div></div>
 </div></div> </aside>
 <aside id="sidebar">
@@ -425,35 +425,35 @@ Done!</p>
 <ul>
 <li>
 <div class="post-thumbnail">
-<a href="https://www.deepdotweb.com/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/" title="Permalink to While Markets Get Seized: Pedophiles Launch a Crowdfunding Site" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2014/11/pcf-55x55.png" class="attachment-tie-small size-tie-small" alt="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site" title="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/11/pcf-55x55.png 55w, https://www.deepdotweb.com/wp-content/uploads/2014/11/pcf-150x150.png 150w, https://www.deepdotweb.com/wp-content/uploads/2014/11/pcf-50x50.png 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
+<a href="https://www.deepdotweb.com/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/" title="Permalink to While Markets Get Seized: Pedophiles Launch a Crowdfunding Site" rel="bookmark"><img width="55" height="55" src="/imgs/2014/11/pcf-55x55.png" class="attachment-tie-small size-tie-small" alt="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site" title="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site" srcset="/imgs/2014/11/pcf-55x55.png 55w, /imgs/2014/11/pcf-150x150.png 150w, /imgs/2014/11/pcf-50x50.png 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
 </div> 
 <h3><a href="https://www.deepdotweb.com/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/" title="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site">While Markets Get Seized: Pedophiles Launch a Crowdfunding Site</a></h3>
 <span class="date"><span>November 9, 2014</span></span>
 </li>
 <li>
 <div class="post-thumbnail">
-<a href="https://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/" title="Permalink to Is your VPN Legit or Shit?" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2014/06/vpn-55x55.jpg" class="attachment-tie-small size-tie-small" alt="Is your VPN Legit or Shit?" title="Is your VPN Legit or Shit?" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/06/vpn-55x55.jpg 55w, https://www.deepdotweb.com/wp-content/uploads/2014/06/vpn-150x150.jpg 150w, https://www.deepdotweb.com/wp-content/uploads/2014/06/vpn-50x50.jpg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
+<a href="https://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/" title="Permalink to Is your VPN Legit or Shit?" rel="bookmark"><img width="55" height="55" src="/imgs/2014/06/vpn-55x55.jpg" class="attachment-tie-small size-tie-small" alt="Is your VPN Legit or Shit?" title="Is your VPN Legit or Shit?" srcset="/imgs/2014/06/vpn-55x55.jpg 55w, /imgs/2014/06/vpn-150x150.jpg 150w, /imgs/2014/06/vpn-50x50.jpg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
 </div> 
 <h3><a href="https://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/" title="Is your VPN Legit or Shit?">Is your VPN Legit or Shit?</a></h3>
 <span class="date"><span>July 8, 2014</span></span>
 </li>
 <li>
 <div class="post-thumbnail">
-<a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" title="Permalink to Updated: List of Dark Net Markets (Tor &#038; I2P)" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2013/10/original1-55x55.jpg" class="attachment-tie-small size-tie-small" alt="Updated: List of Dark Net Markets (Tor &#038; I2P)" title="Updated: List of Dark Net Markets (Tor &#038; I2P)" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/10/original1-55x55.jpg 55w, https://www.deepdotweb.com/wp-content/uploads/2013/10/original1-150x150.jpg 150w, https://www.deepdotweb.com/wp-content/uploads/2013/10/original1-50x50.jpg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
+<a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" title="Permalink to Updated: List of Dark Net Markets (Tor &#038; I2P)" rel="bookmark"><img width="55" height="55" src="/imgs/2013/10/original1-55x55.jpg" class="attachment-tie-small size-tie-small" alt="Updated: List of Dark Net Markets (Tor &#038; I2P)" title="Updated: List of Dark Net Markets (Tor &#038; I2P)" srcset="/imgs/2013/10/original1-55x55.jpg 55w, /imgs/2013/10/original1-150x150.jpg 150w, /imgs/2013/10/original1-50x50.jpg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
 </div> 
 <h3><a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" title="Updated: List of Dark Net Markets (Tor &#038; I2P)">Updated: List of Dark Net Markets (Tor &#038; I2P)</a></h3>
 <span class="date"><span>October 28, 2013</span></span>
 </li>
 <li>
 <div class="post-thumbnail">
-<a href="https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" title="Permalink to PGP Tutorial For Newbs (Gpg4Win)" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2013/11/14-55x55.png" class="attachment-tie-small size-tie-small" alt="PGP Tutorial For Newbs (Gpg4Win)" title="PGP Tutorial For Newbs (Gpg4Win)" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/11/14-55x55.png 55w, https://www.deepdotweb.com/wp-content/uploads/2013/11/14-150x150.png 150w, https://www.deepdotweb.com/wp-content/uploads/2013/11/14-50x50.png 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
+<a href="https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" title="Permalink to PGP Tutorial For Newbs (Gpg4Win)" rel="bookmark"><img width="55" height="55" src="/imgs/2013/11/14-55x55.png" class="attachment-tie-small size-tie-small" alt="PGP Tutorial For Newbs (Gpg4Win)" title="PGP Tutorial For Newbs (Gpg4Win)" srcset="/imgs/2013/11/14-55x55.png 55w, /imgs/2013/11/14-150x150.png 150w, /imgs/2013/11/14-50x50.png 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
 </div> 
 <h3><a href="https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" title="PGP Tutorial For Newbs (Gpg4Win)">PGP Tutorial For Newbs (Gpg4Win)</a></h3>
 <span class="date"><span>November 11, 2013</span></span>
 </li>
 <li>
 <div class="post-thumbnail">
-<a href="https://www.deepdotweb.com/2014/04/02/poll-should-we-publish-an-interview-with-a-pedo-site-owner/" title="Permalink to Poll: Should We Publish An Interview With A Pedo Site Owner?" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2014/04/right-way-wrong-way21-55x55.jpg" class="attachment-tie-small size-tie-small" alt="Poll: Should We Publish An Interview With A Pedo Site Owner?" title="Poll: Should We Publish An Interview With A Pedo Site Owner?" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/04/right-way-wrong-way21-55x55.jpg 55w, https://www.deepdotweb.com/wp-content/uploads/2014/04/right-way-wrong-way21-150x150.jpg 150w, https://www.deepdotweb.com/wp-content/uploads/2014/04/right-way-wrong-way21-50x50.jpg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
+<a href="https://www.deepdotweb.com/2014/04/02/poll-should-we-publish-an-interview-with-a-pedo-site-owner/" title="Permalink to Poll: Should We Publish An Interview With A Pedo Site Owner?" rel="bookmark"><img width="55" height="55" src="/imgs/2014/04/right-way-wrong-way21-55x55.jpg" class="attachment-tie-small size-tie-small" alt="Poll: Should We Publish An Interview With A Pedo Site Owner?" title="Poll: Should We Publish An Interview With A Pedo Site Owner?" srcset="/imgs/2014/04/right-way-wrong-way21-55x55.jpg 55w, /imgs/2014/04/right-way-wrong-way21-150x150.jpg 150w, /imgs/2014/04/right-way-wrong-way21-50x50.jpg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
 </div> 
 <h3><a href="https://www.deepdotweb.com/2014/04/02/poll-should-we-publish-an-interview-with-a-pedo-site-owner/" title="Poll: Should We Publish An Interview With A Pedo Site Owner?">Poll: Should We Publish An Interview With A Pedo Site Owner?</a></h3>
 <span class="date"><span>April 2, 2014</span></span>
@@ -464,35 +464,35 @@ Done!</p>
 <ul>
 <li>
 <div class="post-thumbnail">
-<a href="https://www.deepdotweb.com/2017/07/31/man-kills-days-finding-hackers-clinton-emails/" title="Permalink to Man Kills Himself Days After Finding “Hackers” with Clinton Emails" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-148-55x55.jpeg" class="attachment-tie-small size-tie-small" alt="Man Kills Himself Days After Finding “Hackers” with Clinton Emails" title="Man Kills Himself Days After Finding “Hackers” with Clinton Emails" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-148-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-148-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-148-50x50.jpeg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
+<a href="https://www.deepdotweb.com/2017/07/31/man-kills-days-finding-hackers-clinton-emails/" title="Permalink to Man Kills Himself Days After Finding “Hackers” with Clinton Emails" rel="bookmark"><img width="55" height="55" src="/imgs/2017/07/word-image-148-55x55.jpeg" class="attachment-tie-small size-tie-small" alt="Man Kills Himself Days After Finding “Hackers” with Clinton Emails" title="Man Kills Himself Days After Finding “Hackers” with Clinton Emails" srcset="/imgs/2017/07/word-image-148-55x55.jpeg 55w, /imgs/2017/07/word-image-148-150x150.jpeg 150w, /imgs/2017/07/word-image-148-50x50.jpeg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
 </div> 
 <h3><a href="https://www.deepdotweb.com/2017/07/31/man-kills-days-finding-hackers-clinton-emails/">Man Kills Himself Days After Finding “Hackers” with Clinton Emails</a></h3>
 <span class="date"><span>July 31, 2017</span></span>
 </li>
 <li>
 <div class="post-thumbnail">
-<a href="https://www.deepdotweb.com/2017/07/31/deep-web-novel-psychoactive-substances-nps-psychonauts/" title="Permalink to The Deep Web, Novel Psychoactive Substances (NPS) and Psychonauts" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-147-55x55.jpeg" class="attachment-tie-small size-tie-small" alt="The Deep Web, Novel Psychoactive Substances (NPS) and Psychonauts" title="The Deep Web, Novel Psychoactive Substances (NPS) and Psychonauts" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-147-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-147-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-147-50x50.jpeg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
+<a href="https://www.deepdotweb.com/2017/07/31/deep-web-novel-psychoactive-substances-nps-psychonauts/" title="Permalink to The Deep Web, Novel Psychoactive Substances (NPS) and Psychonauts" rel="bookmark"><img width="55" height="55" src="/imgs/2017/07/word-image-147-55x55.jpeg" class="attachment-tie-small size-tie-small" alt="The Deep Web, Novel Psychoactive Substances (NPS) and Psychonauts" title="The Deep Web, Novel Psychoactive Substances (NPS) and Psychonauts" srcset="/imgs/2017/07/word-image-147-55x55.jpeg 55w, /imgs/2017/07/word-image-147-150x150.jpeg 150w, /imgs/2017/07/word-image-147-50x50.jpeg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
 </div> 
 <h3><a href="https://www.deepdotweb.com/2017/07/31/deep-web-novel-psychoactive-substances-nps-psychonauts/">The Deep Web, Novel Psychoactive Substances (NPS) and Psychonauts</a></h3>
 <span class="date"><span>July 31, 2017</span></span>
 </li>
 <li>
 <div class="post-thumbnail">
-<a href="https://www.deepdotweb.com/2017/07/31/geographical-analysis-drug-trafficking-popular-darknet-marketplace/" title="Permalink to Geographical Analysis of Drug Trafficking On a Popular Darknet Marketplace" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-146-55x55.jpeg" class="attachment-tie-small size-tie-small" alt="Geographical Analysis of Drug Trafficking On a Popular Darknet Marketplace" title="Geographical Analysis of Drug Trafficking On a Popular Darknet Marketplace" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-146-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-146-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-146-50x50.jpeg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
+<a href="https://www.deepdotweb.com/2017/07/31/geographical-analysis-drug-trafficking-popular-darknet-marketplace/" title="Permalink to Geographical Analysis of Drug Trafficking On a Popular Darknet Marketplace" rel="bookmark"><img width="55" height="55" src="/imgs/2017/07/word-image-146-55x55.jpeg" class="attachment-tie-small size-tie-small" alt="Geographical Analysis of Drug Trafficking On a Popular Darknet Marketplace" title="Geographical Analysis of Drug Trafficking On a Popular Darknet Marketplace" srcset="/imgs/2017/07/word-image-146-55x55.jpeg 55w, /imgs/2017/07/word-image-146-150x150.jpeg 150w, /imgs/2017/07/word-image-146-50x50.jpeg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
 </div> 
 <h3><a href="https://www.deepdotweb.com/2017/07/31/geographical-analysis-drug-trafficking-popular-darknet-marketplace/">Geographical Analysis of Drug Trafficking On a Popular Darknet Marketplace</a></h3>
 <span class="date"><span>July 31, 2017</span></span>
 </li>
 <li>
 <div class="post-thumbnail">
-<a href="https://www.deepdotweb.com/2017/07/31/serocu-arrests-three-darknet-dealers-buckingham/" title="Permalink to SEROCU Arrests Three Darknet Dealers in Buckingham" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-143-55x55.jpeg" class="attachment-tie-small size-tie-small" alt="SEROCU Arrests Three Darknet Dealers in Buckingham" title="SEROCU Arrests Three Darknet Dealers in Buckingham" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-143-55x55.jpeg 55w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-143-150x150.jpeg 150w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-143-50x50.jpeg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
+<a href="https://www.deepdotweb.com/2017/07/31/serocu-arrests-three-darknet-dealers-buckingham/" title="Permalink to SEROCU Arrests Three Darknet Dealers in Buckingham" rel="bookmark"><img width="55" height="55" src="/imgs/2017/07/word-image-143-55x55.jpeg" class="attachment-tie-small size-tie-small" alt="SEROCU Arrests Three Darknet Dealers in Buckingham" title="SEROCU Arrests Three Darknet Dealers in Buckingham" srcset="/imgs/2017/07/word-image-143-55x55.jpeg 55w, /imgs/2017/07/word-image-143-150x150.jpeg 150w, /imgs/2017/07/word-image-143-50x50.jpeg 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
 </div> 
 <h3><a href="https://www.deepdotweb.com/2017/07/31/serocu-arrests-three-darknet-dealers-buckingham/">SEROCU Arrests Three Darknet Dealers in Buckingham</a></h3>
 <span class="date"><span>July 31, 2017</span></span>
 </li>
 <li>
 <div class="post-thumbnail">
-<a href="https://www.deepdotweb.com/2017/07/30/unitecdeamp-novel-darknet-traffic-decomposition-approach/" title="Permalink to UnitecDEAMP -A Novel Darknet Traffic Decomposition Approach" rel="bookmark"><img width="55" height="55" src="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-38-55x55.png" class="attachment-tie-small size-tie-small" alt="UnitecDEAMP -A Novel Darknet Traffic Decomposition Approach" title="UnitecDEAMP -A Novel Darknet Traffic Decomposition Approach" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-38-55x55.png 55w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-38-150x150.png 150w, https://www.deepdotweb.com/wp-content/uploads/2017/07/word-image-38-50x50.png 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
+<a href="https://www.deepdotweb.com/2017/07/30/unitecdeamp-novel-darknet-traffic-decomposition-approach/" title="Permalink to UnitecDEAMP -A Novel Darknet Traffic Decomposition Approach" rel="bookmark"><img width="55" height="55" src="/imgs/2017/07/word-image-38-55x55.png" class="attachment-tie-small size-tie-small" alt="UnitecDEAMP -A Novel Darknet Traffic Decomposition Approach" title="UnitecDEAMP -A Novel Darknet Traffic Decomposition Approach" srcset="/imgs/2017/07/word-image-38-55x55.png 55w, /imgs/2017/07/word-image-38-150x150.png 150w, /imgs/2017/07/word-image-38-50x50.png 50w" sizes="(max-width: 55px) 100vw, 55px"/><span class="overlay-icon"></span></a>
 </div> 
 <h3><a href="https://www.deepdotweb.com/2017/07/30/unitecdeamp-novel-darknet-traffic-decomposition-approach/">UnitecDEAMP -A Novel Darknet Traffic Decomposition Approach</a></h3>
 <span class="date"><span>July 30, 2017</span></span>

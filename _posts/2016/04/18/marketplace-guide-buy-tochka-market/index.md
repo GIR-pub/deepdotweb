@@ -1,7 +1,7 @@
 ---
 Marketplace Guide: How to Buy From Tochka Market?
 ---
-<article class="post-listing post-13749 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-guide tag-market tag-marketplace tag-tochka">
+<article class="post-listing post-13749 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-guide tag-marketplace tag-tochka">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 18, 2016</span>
@@ -100,7 +100,7 @@ Marketplace Guide: How to Buy From Tochka Market?
     <li>Politics and religion.</li>
     </ul>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/tochka/" rel="tag">tochka</a></span> <span style="display:none" class="updated">2016-04-18</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/tochka/" rel="tag">tochka</a></span> <span style="display:none" class="updated">2016-04-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

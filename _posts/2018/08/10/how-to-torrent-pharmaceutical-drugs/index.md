@@ -2,7 +2,7 @@
 How To Torrent Pharmaceutical Drugs
 ---
 <article class="post-listing post-26530 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-pharmaceutical tag-torrent">
+tag-pharmaceutical rent">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>August 10, 2018</span>

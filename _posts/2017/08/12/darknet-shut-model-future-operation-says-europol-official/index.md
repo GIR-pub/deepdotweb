@@ -12,7 +12,7 @@ The Darknet Shut Down Is A Model for Future Operation, Says Europol Official
     <div class="entry">
     <p>Different agencies across Europe and America took the responsibility to submit the ever growing drug overdose under control. Many drug users and possessors have been arrested in the past, but that seems to have not had any effect on the drug use.</p>
     <p>The agencies this time resorted to uprooting the root of the drug supplies, for the overdose control to fall into place automatically. Even though the FBI launched a similar attack in 2013 on the Old Silk Road, drug trade on the Darknet never ceased to rise after that operation.</p>
-    <p><img class="wp-image-21920 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/08/word-image-7.png" /></p>
+    <p><img class="wp-image-21920 aligncenter" src="/imgs/2017/08/word-image-7.png" /></p>
     <p><a id="post-21917-_gjdgxs"></a> A Europol official has therefore said that the Darknet shutdown is a model for future operations.</p>
     <p>Recently, authorities embarked on a radical raid which resulted to the <a href="https://www.deepdotweb.com/2017/07/20/globally-coordinated-operation-just-took-alphabay-hansa/">shutdown</a> of the two world leading Darknet markets; Alphabay market and the Hansa market.</p>
     <p>The operation forced some Darknet news followers to think that online drug trade will even rise more than before just as it happened after the shutdown of the Silk Road.</p>

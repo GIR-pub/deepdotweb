@@ -1,7 +1,7 @@
 ---
 Gwern: Archives of ALL Dark Net Market Released
 ---
-<article class="post-listing post-11056 post type-post status-publish format-standard has-post-thumbnail hentry  tag-archives tag-dark tag-market tag-net tag-released">
+<article class="post-listing post-11056 post type-post status-publish format-standard has-post-thumbnail hentry  tag-archives tag-dark tag-net tag-released">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 16, 2015</span>
@@ -105,7 +105,7 @@ Gwern: Archives of ALL Dark Net Market Released
     <p>
     &nbsp;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/archives/" rel="tag">archives</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/gwern/" rel="tag">gwern</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a></span> <span style="display:none" class="updated">2015-07-16</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/archives/" rel="tag">archives</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/gwern/" rel="tag">gwern</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a></span> <span style="display:none" class="updated">2015-07-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 title: Russian Hidden Marketplace Is Thriving
 ---
-1338  tag-hidden tag-marketplace tag-russian tag-thriving">
+1338  tag-marketplace tag-russian tag-thriving">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 13, 2013</span>
@@ -16,6 +16,6 @@ title: Russian Hidden Marketplace Is Thriving
 <p><a href="/imgs/2013/11/Ramp.jpg"><img class="aligncenter size-full wp-image-1339" alt="Ramp" src="https://www.deepdotweb.com/wp-content/uploads/2013/11/Ramp.jpg" width="761" height="499" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/11/Ramp.jpg 1203w, https://www.deepdotweb.com/wp-content/uploads/2013/11/Ramp-300x197.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/Ramp-1024x672.jpg 1024w" sizes="(max-width: 761px) 100vw, 761px"/></a></p>
 <p>And don&#8217;t worry, im just about to add this forum to our hidden marketplaces list. find it on the sidebar.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/thriving/" rel="tag">thriving</a></span> 
-Updated2013-11-13</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/russian/" rel="tag">russian</a> <a href="https://www.deepdotweb.com/tag/thriving/" rel="tag">thriving</a>
+Updated: 2013-11-13</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

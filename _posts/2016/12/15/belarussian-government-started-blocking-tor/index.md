@@ -1,7 +1,7 @@
 ---
 Belarussian Government Started Blocking Tor
 ---
-<article class="post-listing post-16935 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belarussian tag-blocking tag-government tag-started tag-tor">
+<article class="post-listing post-16935 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belarussian tag-blocking tag-government tag-started 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 15, 2016</span>

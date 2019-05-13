@@ -1,7 +1,7 @@
 ---
 Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
 ---
-<article class="post-listing post-11357 post type-post status-publish format-standard has-post-thumbnail hentry  category-news  tag-agora tag-finish tag-market tag-money tag-operations tag-orders tag-pause tag-withdraw">
+<article class="post-listing post-11357 post type-post status-publish format-standard has-post-thumbnail hentry  category-news  tag-agora tag-finish tag-money tag-operations tag-orders tag-pause tag-withdraw">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 26, 2015</span>
@@ -133,5 +133,5 @@ Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
 <p>Don&#8217;t forget to visit our <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">markets chart</a> &amp; <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list</a>.</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/finish/" rel="tag">finish</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/operations/" rel="tag">operations</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a> <a href="https://www.deepdotweb.com/tag/pause/" rel="tag">pause</a> <a href="https://www.deepdotweb.com/tag/withdraw/" rel="tag">withdraw</a></span> <span style="display:none" class="updated">2015-08-26</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/finish/" rel="tag">finish</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/operations/" rel="tag">operations</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a> <a href="https://www.deepdotweb.com/tag/pause/" rel="tag">pause</a> <a href="https://www.deepdotweb.com/tag/withdraw/" rel="tag">withdraw</a></span> <span style="display:none" class="updated">2015-08-26</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

@@ -18,7 +18,7 @@ tag-cyber tag-darknet tag-identification tag-marketplaces tag-nonenglish tag-res
 <p>1- Collection and preparation of data</p>
 <p>2- Bilingual testbed generation</p>
 <p>3- Cross-lingual detection and evaluation of cyber threats</p>
-<p><img class="wp-image-27724" src="https://www.deepdotweb.com/wp-content/uploads/2018/12/cross-lingual-cyber-threat-detection-png.png" alt="Cross-lingual cyber threat detection.PNG" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/12/cross-lingual-cyber-threat-detection-png.png 711w, https://www.deepdotweb.com/wp-content/uploads/2018/12/cross-lingual-cyber-threat-detection-png-300x155.png 300w" sizes="(max-width: 711px) 100vw, 711px" /></p>
+<p><img class="wp-image-27724" src="/imgs/2018/12/cross-lingual-cyber-threat-detection-png.png" alt="Cross-lingual cyber threat detection.PNG" srcset="/imgs/2018/12/cross-lingual-cyber-threat-detection-png.png 711w, /imgs/2018/12/cross-lingual-cyber-threat-detection-png-300x155.png 300w" sizes="(max-width: 711px) 100vw, 711px" /></p>
 <p><strong>Figure (1): The framework proposed for transfer learning-based cross-lingual detection of cyber threats</strong></p>
 <p>A- Data collection and preparation:</p>
 <p>Seven English darknet marketplaces and one Russian darknet marketplace were chosen based on data obtained from DeepDotWeb.com. A special web spider, which prevents anti-crawling measures, crawled each darknet marketplace to obtain all product descriptions. 95,095 product listings were extracted and parsed in a database that included products and services related to cyber threats (e.g. keyloggers, ransomware, and DDoS attack kits), in addition to other products and goods (e.g. drugs, books, weapons, and digital goods).</p>

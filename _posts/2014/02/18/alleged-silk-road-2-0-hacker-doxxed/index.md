@@ -34,7 +34,7 @@ Alleged Silk Road 2.0 Hacker Doxxed!?
     <p>We can only hope this will end well.</p>
     <p>Now we will still be following the forums as it was told by the Oracle that he will keep posting this again and again until all the stolen funds are returned. the most interesting question is if this will lead to some of the money being returned or now, we will update as we will have more information.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2014-02-18</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/alleged/" rel="tag">alleged</a> <a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> </span> <span style="display:none" class="updated">2014-02-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

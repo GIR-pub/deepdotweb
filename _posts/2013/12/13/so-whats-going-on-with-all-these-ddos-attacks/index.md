@@ -31,5 +31,5 @@ title: So Whats going on with all these DDOS Attacks?
 <p>Many questions without any answers at this point, We will be following this,  We would love to hear your opinion if you can shed some light about this story as this attack seems pretty big with suspicious timing and targets, which make us think its a part of the ongoing attempts to provoke distrust among the darknet users toward the different marketplaces &#8211; its hard to tell at this point if the other two markets (Agora and BlueSkies) are unaffected by these recent attacks or that they are just two small so we will know about that.</p>
 <p>One thing for sure is that the problem of one market can make a rather large profit for the other. (ahm ahm&#8230;)</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a></span> 
-Updated2013-12-13
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a>
+Updated: 2013-12-13

@@ -51,7 +51,7 @@ Another Marketplace Doxxed: &#8220;HansaMarket&#8221;
     <p>We really hope that the market owner will see this thread and take the marketplace offline before anyone will report, although it was not online long enough to commit any crime probably.</p>
     <p>Lessons are the same like we saw with the <a href="http://www.deepdotweb.com/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/">Cantina Market</a>, <a href="http://www.deepdotweb.com/2014/02/09/another-two-bites-the-dust-black-goblin-marketplace-cannabisroad/">Black Goblin &amp; Cannabisroad Market</a>, and few others who got shut down before causing real security risks for their users and vendors. we should thank the guys who keep exposing those flaws.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/hansamarket/" rel="tag">hansamarket</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a></span> <span style="display:none" class="updated">2014-03-12</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/hansamarket/" rel="tag">hansamarket</a></span> <span style="display:none" class="updated">2014-03-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

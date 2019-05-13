@@ -1,7 +1,7 @@
 ---
 Possible Large-Scale DDOS Attacks on TOR Exit Nodes
 ---
-<article class="post-listing post-12118 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-ddos tag-exit tag-largescale tag-nodes tag-tor">
+<article class="post-listing post-12118 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-ddos tag-exit tag-largescale tag-nodes 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/chrismccandless/" title="">Chris McCandless </a></span>
     <span>November 14, 2015</span>

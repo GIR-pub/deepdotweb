@@ -1,7 +1,7 @@
 ---
 Warning: Fake &#8220;DeepDotWeb Announcement&#8221; By a Failed Market Owner
 ---
-<article class="post-listing post-6698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announcement tag-created tag-deepdotweb tag-failed tag-fake tag-market tag-owner tag-warning">
+<article class="post-listing post-6698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announcement tag-created tag-deepdotweb tag-failed tag-fake tag-owner tag-warning">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>August 4, 2014</span>
@@ -78,7 +78,7 @@ Warning: Fake &#8220;DeepDotWeb Announcement&#8221; By a Failed Market Owner
     </div>
     <h3 style="text-align: center;"><span style="color: #ff0000;"><strong>Avoid at all costs!</strong></span></h3>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/announcement/" rel="tag">announcement</a> <a href="https://www.deepdotweb.com/tag/created/" rel="tag">created</a> <a href="https://www.deepdotweb.com/tag/deepdotweb/" rel="tag">deepdotweb</a> <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span> <span style="display:none" class="updated">2014-08-04</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/announcement/" rel="tag">announcement</a> <a href="https://www.deepdotweb.com/tag/created/" rel="tag">created</a> <a href="https://www.deepdotweb.com/tag/deepdotweb/" rel="tag">deepdotweb</a> <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span> <span style="display:none" class="updated">2014-08-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

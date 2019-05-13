@@ -1,7 +1,7 @@
 ---
 Many Market Are Down &#8211; Heavy Attack On Hidden Services
 ---
-<article class="post-listing post-9740 post type-post status-publish format-standard hentry category-news tag-attack tag-heavy tag-hidden tag-market tag-services">
+<article class="post-listing post-9740 post type-post status-publish format-standard hentry category-news tag-attack tag-heavy tag-services">
 <div class="post-inner">
 <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 28, 2015</span>

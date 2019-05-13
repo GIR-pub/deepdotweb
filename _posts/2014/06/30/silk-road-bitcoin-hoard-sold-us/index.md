@@ -29,7 +29,7 @@ Silk Road Bitcoin hoard sold in US!
     <p>The US Marshals declined to name who had put down bids for the coins although earlier this month the agency accidentally leaked a list of some of the buyers in an email update about the sale.</p></blockquote>
     <p><strong>The Winning bidders will be announced today at 5pm USA time, we will update this info once it will be published.</strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/hoard/" rel="tag">hoard</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span> <span style="display:none" class="updated">2014-06-30</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/hoard/" rel="tag">hoard</a>  <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span> <span style="display:none" class="updated">2014-06-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 Darkcoin Gains Acceptance In The Online Gaming Market
 ---
-<article class="post-listing post-8582 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acceptance tag-darkcoin tag-gains tag-gaming tag-market tag-online">
+<article class="post-listing post-8582 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acceptance tag-darkcoin tag-gains tag-gaming tag-online">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>December 10, 2014</span>
@@ -27,7 +27,7 @@ Darkcoin Gains Acceptance In The Online Gaming Market
     <p>“It was extremely quick and easy for us to integrate Darkcoin because its core wallet is utilizing the same interface that we already had in place to accept Bitcoins. We have found the Darkcoin Core wallet to be well established and reliable and ready for prime time use. We didn&#8217;t even had to purchase Darkcoins as we already held a stock from our past investment in it so overall the integration was a real instant.”</p>
     <p>This comes only a while after we reported that <a title="Permalink to Darkcoin Now Accepted on Minor Dark Net Markets" href="http://www.deepdotweb.com/2014/10/21/darkcoin-bow-accepted-minor-dark-net-marketplaces/" rel="bookmark">Darkcoin is Now Accepted on 2 Minor Dark Net Markets</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/acceptance/" rel="tag">acceptance</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/gains/" rel="tag">gains</a> <a href="https://www.deepdotweb.com/tag/gaming/" rel="tag">gaming</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a></span> <span style="display:none" class="updated">2014-12-10</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/acceptance/" rel="tag">acceptance</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/gains/" rel="tag">gains</a> <a href="https://www.deepdotweb.com/tag/gaming/" rel="tag">gaming</a> </span> <span style="display:none" class="updated">2014-12-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

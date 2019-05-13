@@ -2,7 +2,7 @@
 How To Configure Tor Properly
 ---
 <article class="post-listing post-24893 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-configure tag-properly tag-tor">
+tag-configure tag-properly 
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
 <span>February 28, 2018</span>
@@ -11,7 +11,7 @@ tag-configure tag-properly tag-tor">
 
 
 <p>Tor is a renowned must in the anonymity field, and the first fundamental step in your fight for privacy. You could think that the only thing that you need to hide your identity while surfing the web is to download the Tor browser bundle, but this is not enough. There are, in fact, wrong behaviours that can reveal your real identity and location even if you’re using Tor, as well as tricks to keep you safe and stealth. In this article, I will explain the basics to introduce you to the Onion world, teaching you how to not get betrayed by your bad habits.</p>
-<p><img class="wp-image-24896" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-33.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-33.png 1280w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-33-300x181.png 300w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-33-1024x619.png 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p><img class="wp-image-24896" src="/imgs/2018/02/word-image-33.png" srcset="/imgs/2018/02/word-image-33.png 1280w, /imgs/2018/02/word-image-33-300x181.png 300w, /imgs/2018/02/word-image-33-1024x619.png 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
 <h2>The Tor Network</h2>
 <p>The <a href="https://www.deepdotweb.com/2017/12/21/novel-defense-techniques-secure-tor-communications-research-study/">Tor</a> network, made by servers run by volunteers, allow users to hide their identity from the sites they visit and prevent eavesdroppers to watch their traffic. Your communications are encrypted and bounced from a relay to another, lastly arriving to their destination. Combined with https, Tor provides end-to-end encryption, making it impossible even for the Tor volunteers to read your traffic, and your source IP is well masked by the last relay’s IP. So what could go wrong? Why are these security measures are not enough to keep you safe and <a href="https://www.deepdotweb.com/2016/04/12/onionscan-tests-anonymity-dark-net-domains/">anonymous</a>?</p>
 <h2>Starting Tips</h2>
@@ -29,15 +29,15 @@ tag-configure tag-properly tag-tor">
 </ul>
 <h2>Configuring Tor Bridges</h2>
 <p>If Tor does not work, click on “configure” in the main window, and skip the proxy phase:</p>
-<p><img class="wp-image-24897" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-34.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-34.png 485w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-34-300x270.png 300w" sizes="(max-width: 485px) 100vw, 485px" /> <img class="wp-image-24898" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-35.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-35.png 485w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-35-300x270.png 300w" sizes="(max-width: 485px) 100vw, 485px" /></p>
+<p><img class="wp-image-24897" src="/imgs/2018/02/word-image-34.png" srcset="/imgs/2018/02/word-image-34.png 485w, /imgs/2018/02/word-image-34-300x270.png 300w" sizes="(max-width: 485px) 100vw, 485px" /> <img class="wp-image-24898" src="/imgs/2018/02/word-image-35.png" srcset="/imgs/2018/02/word-image-35.png 485w, /imgs/2018/02/word-image-35-300x270.png 300w" sizes="(max-width: 485px) 100vw, 485px" /></p>
 <p>Then, click on “yes” in the following screen and choose “obfs4” as the default transport type:</p>
-<p><img class="wp-image-24900" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-36.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-36.png 485w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-36-300x267.png 300w" sizes="(max-width: 485px) 100vw, 485px" /> <img class="wp-image-24901" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-37.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-37.png 602w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-37-300x197.png 300w" sizes="(max-width: 602px) 100vw, 602px" /></p>
+<p><img class="wp-image-24900" src="/imgs/2018/02/word-image-36.png" srcset="/imgs/2018/02/word-image-36.png 485w, /imgs/2018/02/word-image-36-300x267.png 300w" sizes="(max-width: 485px) 100vw, 485px" /> <img class="wp-image-24901" src="/imgs/2018/02/word-image-37.png" srcset="/imgs/2018/02/word-image-37.png 602w, /imgs/2018/02/word-image-37-300x197.png 300w" sizes="(max-width: 602px) 100vw, 602px" /></p>
 <p>In the case that your Tor browser works, follow this other procedure: click on the onion button:</p>
-<p><img class="wp-image-24902" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-38.png" /></p>
+<p><img class="wp-image-24902" src="/imgs/2018/02/word-image-38.png" /></p>
 <p>then, select “Tor is censored in my country”:</p>
-<p><img class="wp-image-24903" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-39.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-39.png 541w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-39-300x278.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></p>
+<p><img class="wp-image-24903" src="/imgs/2018/02/word-image-39.png" srcset="/imgs/2018/02/word-image-39.png 541w, /imgs/2018/02/word-image-39-300x278.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></p>
 <p>next, choose the transport type “obfs4”:</p>
-<p><img class="wp-image-24904" src="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-40.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-40.png 541w, https://www.deepdotweb.com/wp-content/uploads/2018/02/word-image-40-300x286.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></p>
+<p><img class="wp-image-24904" src="/imgs/2018/02/word-image-40.png" srcset="/imgs/2018/02/word-image-40.png 541w, /imgs/2018/02/word-image-40-300x286.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></p>
 <p>Well, at the end of this procedure, it will be more difficult for anyone to know that you are using Tor.</p>
 <h2>Let’s Clarify What We Did</h2>
 <ul>

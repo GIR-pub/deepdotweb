@@ -1,7 +1,7 @@
 ---
 Black market Reloaded Forum Seized In Iran
 ---
-<article class="post-listing post-4177 post type-post status-publish format-standard has-post-thumbnail hentry  tag-black tag-forum tag-market tag-reloaded tag-seized">
+<article class="post-listing post-4177 post type-post status-publish format-standard has-post-thumbnail hentry  tag-forum tag-reloaded tag-seized">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 13, 2014</span>
@@ -14,7 +14,7 @@ Black market Reloaded Forum Seized In Iran
     <p>&nbsp;</p>
     <p><a href="/imgs/2014/02/bmrseized.png"><img class="aligncenter size-full wp-image-4178" alt="bmrseized" src="https://www.deepdotweb.com/wp-content/uploads/2014/02/bmrseized.png" width="1155" height="625" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/02/bmrseized.png 1155w, https://www.deepdotweb.com/wp-content/uploads/2014/02/bmrseized-300x162.png 300w, https://www.deepdotweb.com/wp-content/uploads/2014/02/bmrseized-1024x554.png 1024w" sizes="(max-width: 1155px) 100vw, 1155px" /></a>Its pretty easy to assume its a fallout related to the arrest that occurred on Tuesday regarding <a href="http://www.deepdotweb.com/2014/02/12/the-utopia-bust-details-prosecution-announcement/">utopia marketplace </a> As it was already stated that the same admins were running BMR and Utopia. The forum was the thing that was still active since BMR was shut down by the admin backopy 2 months ago. As far as we know, the admin of black market reloaded Backopy was NOT arrested so far &#8211; as he was still active on the forum after the Utopia arrests even earlier today and had posted a topic about the SR2.0 closure.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/reloaded/" rel="tag">reloaded</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a></span> <span style="display:none" class="updated">2014-02-13</span>
+     <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/reloaded/" rel="tag">reloaded</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a></span> <span style="display:none" class="updated">2014-02-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 The Hidden Wiki Hacked, WikiTor Fills The Gap
 ---
-<article class="post-listing post-4692 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fills tag-gap tag-hacked tag-hidden tag-wiki tag-wikitor">
+<article class="post-listing post-4692 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fills tag-gap tag-hacked tag-wiki tag-wikitor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 14, 2014</span>

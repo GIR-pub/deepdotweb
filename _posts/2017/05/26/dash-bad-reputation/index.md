@@ -12,7 +12,7 @@ Why does Dash have a bad reputation?
     <div class="entry">
     <p><em>*This article is meant to present an unbiased review of Dash (formerly <a href="https://www.deepdotweb.com/tag/darkcoin/">darkcoin</a>) and the facts surrounding it. I do not hold any of the coins mentioned (including Monero) in this article in any quantity.*</em></p>
     <p>So you may have seen announcements recently about Monero being introduced in addition to Bitcoin on several darknet markets such as <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">Alphabay</a>. <a href="https://www.deepdotweb.com/tag/monero/">Monero</a> is a currency offering anonymous transactions through ring signatures. However, if you have been following altcoins recently, you may have noticed that Dash’s market cap is significantly larger than Monero as seen in the picture below.</p>
-    <p><img class="wp-image-20157 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-105.png" width="861" height="186" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-105.png 1112w, https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-105-300x65.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-105-1024x221.png 1024w" sizes="(max-width: 861px) 100vw, 861px" /></p>
+    <p><img class="wp-image-20157 aligncenter" src="/imgs/2017/05/word-image-105.png" width="861" height="186" srcset="/imgs/2017/05/word-image-105.png 1112w, /imgs/2017/05/word-image-105-300x65.png 300w, /imgs/2017/05/word-image-105-1024x221.png 1024w" sizes="(max-width: 861px) 100vw, 861px" /></p>
     <p>&nbsp;</p>
     <p><strong>So why is Dash not on any darknet market?</strong></p>
     <p>Evan Duffield’s Instamine?</p>
@@ -20,7 +20,7 @@ Why does Dash have a bad reputation?
     <p>This meant that Evan fraudulently or maybe accidentally (less likely) managed to mine about $140 million dollars worth of Dash (at today’s price), since he was the only one who knew about the launch and therefore the only one mining the coin.</p>
     <p>The reason that DASH gave for this was that there were problems in code, but the reason for the supposed delay of launch was to fix bugs in the code. Why would the coin be launched suddenly without warning with a serious error?</p>
     <p>The instamine is a big problem because a key point of cryptocurrencies is being decentralised and trustworthy. An instamine means there is little reason to trust Dash and its developers with your money.</p>
-    <p><img class="wp-image-20158 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-106.png" width="889" height="219" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-106.png 1517w, https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-106-300x74.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-106-1024x252.png 1024w" sizes="(max-width: 889px) 100vw, 889px" /></p>
+    <p><img class="wp-image-20158 aligncenter" src="/imgs/2017/05/word-image-106.png" width="889" height="219" srcset="/imgs/2017/05/word-image-106.png 1517w, /imgs/2017/05/word-image-106-300x74.png 300w, /imgs/2017/05/word-image-106-1024x252.png 1024w" sizes="(max-width: 889px) 100vw, 889px" /></p>
     <p><a href="https://www.dash.org/forum/threads/instamine.5040/">Another defence given for the instamine</a> is that the coins mined by Duffield were redistributed through exchanges, but there is little proof for this. For example, a Dashforum member links to two users offering to sell DASH, but this proves little.</p>
     <p>There is no proof to suggest Evan Duffield has sold any DASH at all.</p>
     <p>But why does this matter?</p>
@@ -35,7 +35,7 @@ Why does Dash have a bad reputation?
     <p>This means that he would be able to manipulate the price to make the coin overvalued, by selling Dash to himself at higher prices.</p>
     <p>Other people would see the price increase and would buy it themselves, hoping to make the profit. It would be in Duffield’s interests to increase Dash’s value, since that would make him richer.</p>
     <p>Of course, there is no proof that he is or has done this, but it is very reasonable to suspect he may or could.</p>
-    <p><img class="wp-image-20159 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/05/evan-duffield-presenting-at-bitcoin-wednesday.png" alt="Evan Duffield presenting at Bitcoin Wednesday" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/05/evan-duffield-presenting-at-bitcoin-wednesday.png 451w, https://www.deepdotweb.com/wp-content/uploads/2017/05/evan-duffield-presenting-at-bitcoin-wednesday-300x223.png 300w" sizes="(max-width: 451px) 100vw, 451px" /></p>
+    <p><img class="wp-image-20159 aligncenter" src="/imgs/2017/05/evan-duffield-presenting-at-bitcoin-wednesday.png" alt="Evan Duffield presenting at Bitcoin Wednesday" srcset="/imgs/2017/05/evan-duffield-presenting-at-bitcoin-wednesday.png 451w, /imgs/2017/05/evan-duffield-presenting-at-bitcoin-wednesday-300x223.png 300w" sizes="(max-width: 451px) 100vw, 451px" /></p>
     <p><em>Evan Duffield, founder of DASH.</em></p>
     <p>Is Dash’s anonymity better/worse than Monero?</p>
     <p>There is no easy answer to this question.</p>

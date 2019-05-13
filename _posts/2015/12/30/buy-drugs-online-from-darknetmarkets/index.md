@@ -18,7 +18,7 @@ How To Buy Drugs Online From DarknetMarkets?
 <p>Another major benefit is that by using a VPN you can use a shared IP address with hundreds or thousands of others. An IP address is a number that is transmitted with your internet connection and actually identifies your physical address of where you are. By using a fake and shared IP from a VPN, your address will appear from another location and with multiple other people making it impossible to tell who is doing what. This is especially important in case a Tor relay has been compromised to find users on the darknet (has been done before).</p>
 <p>So <a href="https://www.deepdotweb.com/vpn-comparison-chart/">click here</a>, and find a VPN before you go and buy drugs from any darknetmarket.</p>
 <p>Most VPN’s are simple to install and use, you just download and setup in a 2 or 3 clicks.</p>
-<p><img class="wp-image-20505 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27.png" width="579" height="444" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27.png 1080w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27-300x230.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/06/word-image-27-1024x785.png 1024w" sizes="(max-width: 579px) 100vw, 579px" /></p>
+<p><img class="wp-image-20505 aligncenter" src="/imgs/2017/06/word-image-27.png" width="579" height="444" srcset="/imgs/2017/06/word-image-27.png 1080w, /imgs/2017/06/word-image-27-300x230.png 300w, /imgs/2017/06/word-image-27-1024x785.png 1024w" sizes="(max-width: 579px) 100vw, 579px" /></p>
 <p>Then start it up, connect to a server using “OpenVPN” protocol and continue to the next step.</p>
 <h3>Tor Browser</h3>
 <p>The dark net markets markets are not accessed over the internet the same way a regular website is. Instead they are accessed through the Tor network. Tor (or The Onion Router) is software that enables you to browse the internet anonymously. It routes your connection through a network made up of multiple Tor servers. When you use Tor, your ISP will not be able to see what you are doing on the internet. However, if they look at your traffic they will know that you are using it.</p>
@@ -26,16 +26,16 @@ How To Buy Drugs Online From DarknetMarkets?
 <p>You will need to use a browser configured to use Tor. Some people install and configure Tor and their browser separately, but the popular Tor Browser comes bundled with Tor and requires no configuration.</p>
 <ol type="1">
 <li>Download it <a href="https://www.torproject.org/projects/torbrowser.html.en">here</a>.
-<div style="width: 881px" class="wp-caption alignnone"><img src="https://www.deepdotweb.com/wp-content/uploads/2014/01/126.png" alt="Tor" width="871" height="548" /><p class="wp-caption-text">Tor</p></div></li>
+<div style="width: 881px" class="wp-caption alignnone"><img src="/imgs/2014/01/126.png" alt="Tor" width="871" height="548" /><p class="wp-caption-text">Tor</p></div></li>
 <li>After the download is done, extract it into a folder (It is not installed &#8211; just extracted, and can be run from a USB drive)<br />
-<img class="alignnone" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/210.png" alt="" width="804" height="582" /></li>
+<img class="alignnone" src="/imgs/2014/01/210.png" alt="" width="804" height="582" /></li>
 <li>Run the &#8220;Start Tor Browser&#8221; shortcut. and you should see:<br />
-<img class="alignnone" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/510.png" alt="" width="888" height="631" /></li>
+<img class="alignnone" src="/imgs/2014/01/510.png" alt="" width="888" height="631" /></li>
 </ol>
 <h3>Disable JavaScript</h3>
 <p>After opening it, the first thing you&#8217;ll want to do is disable the use of JavaScript.</p>
 <p>1) In the top left corner, click the blue &#8220;S&#8221; icon, then click &#8220;Forbid Scripts Globally (advised)&#8221;.</p>
-<p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis.png"><img class="aligncenter size-full wp-image-12791" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis.png" alt="jsdis" width="442" height="47" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis.png 442w, https://www.deepdotweb.com/wp-content/uploads/2015/12/jsdis-300x32.png 300w" sizes="(max-width: 442px) 100vw, 442px" /></a></p>
+<p><a href="/imgs/2015/12/jsdis.png"><img class="aligncenter size-full wp-image-12791" src="/imgs/2015/12/jsdis.png" alt="jsdis" width="442" height="47" srcset="/imgs/2015/12/jsdis.png 442w, /imgs/2015/12/jsdis-300x32.png 300w" sizes="(max-width: 442px) 100vw, 442px" /></a></p>
 <p>Why is this needed? Since it increases your potential attack surface. For example: In August 2013, the FBI had hacked a server hosting provider named <a href="https://en.wikipedia.org/wiki/Freedom_Hosting">Freedom Hosting</a>. Freedom Hosting provided hosting for Tor hidden services, including some which served child porn.</p>
 <p>The FBI inserted some malicious JavaScript code in some of the pages served by the hidden services. The FBI was exploiting a vulnerability in a particular version of Firefox, which Tor Browser is based on. Vulnerable users who viewed the pages with JavaScript enabled had their real IP addresses exposed, and a number of arrests were made.</p>
 <h3>The Markets</h3>
@@ -53,14 +53,14 @@ How To Buy Drugs Online From DarknetMarkets?
 <li>Most markets will need a security pin. This pin will be required any time you make a payment. It is not recoverable, so write it down and remember it. Do not store it on your computer.</li>
 </ul>
 <p>Example for a registration page:</p>
-<p><img class="aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/image1.png" alt="" width="800" height="942" /></p>
+<p><img class="aligncenter" src="/imgs/2015/09/image1.png" alt="" width="800" height="942" /></p>
 <h3>Your Profile</h3>
 <p>The prices displayed on the site might be in USD, or maybe BTC (Bitcoin). Most markets will allow you to navigate to your profile page and set it to your country&#8217;s currency.</p>
 <p>Example:</p>
-    <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/currency.png"><img class="aligncenter wp-image-12792" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/currency.png" alt="currency" width="1115" height="444" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/currency.png 1381w, https://www.deepdotweb.com/wp-content/uploads/2015/12/currency-300x119.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/12/currency-1024x408.png 1024w" sizes="(max-width: 1115px) 100vw, 1115px" /></a></p>
+    <p><a href="/imgs/2015/12/currency.png"><img class="aligncenter wp-image-12792" src="/imgs/2015/12/currency.png" alt="currency" width="1115" height="444" srcset="/imgs/2015/12/currency.png 1381w, /imgs/2015/12/currency-300x119.png 300w, /imgs/2015/12/currency-1024x408.png 1024w" sizes="(max-width: 1115px) 100vw, 1115px" /></a></p>
     <h3>Products</h3>
     <p>So you want to buy drugs online, bu what exactly are you interested in buying? Navigate to a product category, and then to a more specific subcategory. When browsing and searching for products, you&#8217;ll come across various sorting or filtering options on different markets, few examples from popular markets:</p>
-    <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/sorting-options.png"><img class="aligncenter size-full wp-image-12793" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/sorting-options.png" alt="sorting-options" width="1666" height="1174" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/sorting-options.png 1666w, https://www.deepdotweb.com/wp-content/uploads/2015/12/sorting-options-300x211.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/12/sorting-options-1024x722.png 1024w" sizes="(max-width: 1666px) 100vw, 1666px" /></a></p>
+    <p><a href="/imgs/2015/12/sorting-options.png"><img class="aligncenter size-full wp-image-12793" src="/imgs/2015/12/sorting-options.png" alt="sorting-options" width="1666" height="1174" srcset="/imgs/2015/12/sorting-options.png 1666w, /imgs/2015/12/sorting-options-300x211.png 300w, /imgs/2015/12/sorting-options-1024x722.png 1024w" sizes="(max-width: 1666px) 100vw, 1666px" /></a></p>
     <h3>Products &#8211; Domestic</h3>
     <p>Do you want a product from within your own country? Ordering a product (buying drugs online) domestically is the safest option.</p>
     <p>Ordering internationally is more risky because it means the product has to go through customs where it may be seized which could lead to you becoming the target of a subsequent police investigation.</p>
@@ -81,7 +81,7 @@ How To Buy Drugs Online From DarknetMarkets?
     <p>You will go through the steps of buying Bitcoin online using <a href="https://localbitcoins.com/?ch=4v6y">LocalBitcoins.com</a>.</p>
     <h3>LocalBitcoins</h3>
     <p>Go to <a href="https://localbitcoins.com/?ch=4v6y" target="_blank" rel="noopener noreferrer">LocalBitcoins</a> and register. Like with the market, use information not linked to your real life identity or online persona.</p>
-    <p><img class="aligncenter size-full wp-image-12794" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/localbtc.png" alt="localbtc" width="1174" height="360" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/localbtc.png 1174w, https://www.deepdotweb.com/wp-content/uploads/2015/12/localbtc-300x92.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/12/localbtc-1024x314.png 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /></p>
+    <p><img class="aligncenter size-full wp-image-12794" src="/imgs/2015/12/localbtc.png" alt="localbtc" width="1174" height="360" srcset="/imgs/2015/12/localbtc.png 1174w, /imgs/2015/12/localbtc-300x92.png 300w, /imgs/2015/12/localbtc-1024x314.png 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /></p>
     <p>It is not necessary to use Tor to register, though some people do. The way buying Bitcoin through <a href="https://localbitcoins.com/?ch=4v6y" target="_blank" rel="noopener noreferrer">LocalBitcoins</a> works is, you pick a seller and request a purchase. This will cause that amount of Bitcoin to sit in escrow. You&#8217;ll get an invoice and then transfer the money. When you and the seller agree the purchase has gone through, the funds are released from escrow and you get Bitcoin in your LocalBitcoins wallet.</p>
     <p>The steps are:</p>
     <ol type="1">
@@ -101,7 +101,7 @@ How To Buy Drugs Online From DarknetMarkets?
     <p>Tumbling is a form of laundering that attempts to break the public link between you and your Bitcoin. It works by transferring your Bitcoin to a wallet on the tumbling service&#8217;s website, and in turn receiving, to a different wallet, multiple separate transfers which together add up to the same amount you put in. The transfers are spaced over some variable length of time.</p>
     <p>Your Bitcoin will move from the <a href="https://localbitcoins.com/?ch=4v6y" target="_blank" rel="noopener noreferrer">LocalBitcoins</a> wallet to the tumbler wallet to the marketplace wallet.</p>
     <p>A number of tumbling services are:  <a href="http://bitblendervrfkzr.onion/?r=29404" target="_blank" rel="noopener noreferrer">Bitcoin Blender</a> (onion address)  and <a href="https://gramsflow.com/helixlight" target="_blank" rel="noopener noreferrer">Helix by Grams</a>.</p>
-    <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/helix.png"><img class="aligncenter size-full wp-image-12795" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/helix.png" alt="helix" width="915" height="742" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/helix.png 915w, https://www.deepdotweb.com/wp-content/uploads/2015/12/helix-300x243.png 300w" sizes="(max-width: 915px) 100vw, 915px" /></a></p>
+    <p><a href="/imgs/2015/12/helix.png"><img class="aligncenter size-full wp-image-12795" src="/imgs/2015/12/helix.png" alt="helix" width="915" height="742" srcset="/imgs/2015/12/helix.png 915w, /imgs/2015/12/helix-300x243.png 300w" sizes="(max-width: 915px) 100vw, 915px" /></a></p>
     <h3>Tumbling: Grams Helix</h3>
     <p>As an example, here are the steps to using Grams Helix. It is very straightforward.</p>
     <p>Notes:</p>
@@ -168,10 +168,10 @@ How To Buy Drugs Online From DarknetMarkets?
     <h3>Buying</h3>
     <ol type="1">
     <li>Go to the product page and select to buy it now or add to your shopping cart<br />
-    <img class="alignnone" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/paybuy1.png" alt="" width="537" height="131" /></li>
+    <img class="alignnone" src="/imgs/2015/09/paybuy1.png" alt="" width="537" height="131" /></li>
     <li>After you&#8217;ve done that you&#8217;ll see a shipping message section</li>
     <li>In it paste your encrypted name and address, this is an example from a specific market, but it works pretty much the same for all markets:<br />
-    <img class="alignnone" src="https://www.deepdotweb.com/wp-content/uploads/2015/09/order-confirm1.png" alt="" width="699" height="485" /></li>
+    <img class="alignnone" src="/imgs/2015/09/order-confirm1.png" alt="" width="699" height="485" /></li>
     <li>Submit the order</li>
     </ol>
     <p>As the order progresses it will go through a number of statuses, like &#8220;<strong>processing</strong>&#8221; or &#8220;<strong>pending</strong>,&#8221; &#8220;<strong>in transit</strong>&#8221; and &#8220;<strong>shipped</strong>.&#8221; It might get a &#8220;<strong>rejected</strong>&#8221; or &#8220;<strong>cancelled</strong>&#8221; status, maybe because the vendor only sells to buyers with more feedback, or maybe because your name and address was formatted wrong or the vendor was out of stock or who knows.</p>
@@ -181,7 +181,7 @@ How To Buy Drugs Online From DarknetMarkets?
     <p>Check it out and make sure it is everything you ordered. If there are no problems, hop back on to the market and go to the order page of your received product. Here you finalize the payment by releasing the funds from escrow (unless you chose to FE).</p>
     <h3>Receiving: Feedback</h3>
     <p>You should leave feedback. Choose the appropriate rating and leave a message referencing the delivery, the stealth and the product itself. This will be helpful for the vendor and other potential buyers.</p>
-    <p><a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/feedback.png"><img class="aligncenter size-full wp-image-12797" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/feedback.png" alt="feedback" width="706" height="616" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/12/feedback.png 706w, https://www.deepdotweb.com/wp-content/uploads/2015/12/feedback-300x262.png 300w" sizes="(max-width: 706px) 100vw, 706px" /></a></p>
+    <p><a href="/imgs/2015/12/feedback.png"><img class="aligncenter size-full wp-image-12797" src="/imgs/2015/12/feedback.png" alt="feedback" width="706" height="616" srcset="/imgs/2015/12/feedback.png 706w, /imgs/2015/12/feedback-300x262.png 300w" sizes="(max-width: 706px) 100vw, 706px" /></a></p>
     <h3>Receiving: Something&#8217;s wrong</h3>
     <p>If there&#8217;s a problem with the order, e.g. maybe the date is past the &#8220;latest date&#8221; given by the vendor but still hasn&#8217;t arrived yet, or maybe it is not what you ordered, then you should first message the vendor with your problem. In many cases a problem with the order will be due to an honest mistake and the vendor will reship or give you a refund.</p>
     <p>If you feel the vendor is being uncooperative and not trying to fix a mistake then you can open a dispute. A dispute will be created between you, a moderator and the vendor.</p>
@@ -192,14 +192,14 @@ How To Buy Drugs Online From DarknetMarkets?
     <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of Dark Net Markets<br />
     </a><a href="https://www.deepdotweb.com/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart<br />
     </a>Make sure you see the lock and <strong>HTTPS</strong>:<br />
-    <a href="https://www.deepdotweb.com/wp-content/uploads/2015/12/lock.png"><img class="aligncenter size-full wp-image-12801" src="https://www.deepdotweb.com/wp-content/uploads/2015/12/lock.png" alt="lock" width="141" height="37" /></a></li>
+    <a href="/imgs/2015/12/lock.png"><img class="aligncenter size-full wp-image-12801" src="/imgs/2015/12/lock.png" alt="lock" width="141" height="37" /></a></li>
     <li>Never enter your pin on a login page. If a login page requests your pin &#8211; its a phishing site.</li>
     <li>Always use PGP</li>
     <li>Use Multisig where available.</li>
     </ul>
     <p>Before you decide to buy drugs online from the dark net markets &#8211; use common sense!</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/buy-drugs-online/" rel="tag">buy drugs online</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a></span> <span style="display:none" class="updated">2015-12-30</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/buy-drugs-online/" rel="tag">buy drugs online</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/drugs/" rel="tag">drugs</a> </span> <span style="display:none" class="updated">2015-12-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

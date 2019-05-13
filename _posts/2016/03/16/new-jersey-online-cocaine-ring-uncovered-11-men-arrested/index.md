@@ -1,7 +1,7 @@
 ---
 New Jersey Online Cocaine Ring Uncovered: 11 Men Arrested
 ---
-<article class="post-listing post-13485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1879 tag-cocaine tag-jersey tag-men tag-online tag-ring tag-uncovered">
+<article class="post-listing post-13485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1879 tag-cocaine tag-jersey tag-men tag-ring tag-uncovered">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>March 16, 2016</span>
@@ -19,7 +19,7 @@ New Jersey Online Cocaine Ring Uncovered: 11 Men Arrested
     <p>Jose Ruvalcaba (28), from California and Jamaal Johnson (30), of Maryland, were also arrested in this case. They have been both connected to Castelluzzo’s ring.</p>
     <p>Three other New Jersey citizens were charged with cocaine distribution offenses: Thomas Bullock (62), Thomas White (31), Benjamin DiPilla (28).</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/11/" rel="tag">11</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/jersey/" rel="tag">jersey</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/uncovered/" rel="tag">uncovered</a></span> <span style="display:none" class="updated">2016-03-16</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/11/" rel="tag">11</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/jersey/" rel="tag">jersey</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a>  <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/uncovered/" rel="tag">uncovered</a></span> <span style="display:none" class="updated">2016-03-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

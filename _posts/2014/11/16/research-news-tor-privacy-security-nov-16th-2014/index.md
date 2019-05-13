@@ -1,7 +1,7 @@
 ---
 Research &#038; News in Tor, Privacy, &#038; Security – Nov 16th, 2014
 ---
-<article class="post-listing post-8285 post type-post status-publish format-standard has-post-thumbnail hentry  tag-16th tag-1779 tag-news tag-nov tag-privacy tag-research tag-security tag-tor">
+<article class="post-listing post-8285 post type-post status-publish format-standard has-post-thumbnail hentry  tag-16th tag-1779 tag-news tag-nov tag-privacy tag-research tag-security 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
     <span>November 16, 2014</span>

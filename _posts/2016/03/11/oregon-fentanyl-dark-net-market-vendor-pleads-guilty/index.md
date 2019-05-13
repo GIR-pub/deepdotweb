@@ -1,7 +1,7 @@
 ---
 Oregon Fentanyl Dark Net Market Vendor Pleads Guilty
 ---
-<article class="post-listing post-13430 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-fentanyl tag-guilty tag-market tag-net tag-oregon tag-pleads tag-vendor">
+<article class="post-listing post-13430 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-fentanyl tag-guilty tag-net tag-oregon tag-pleads tag-vendor">
     
     <div class="post-inner">
     
@@ -28,7 +28,7 @@ Oregon Fentanyl Dark Net Market Vendor Pleads Guilty
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/oregon/" rel="tag">oregon</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span>				<span style="display:none" class="updated">2016-03-11</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/oregon/" rel="tag">oregon</a> <a href="https://www.deepdotweb.com/tag/pleads/" rel="tag">pleads</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span>				<span style="display:none" class="updated">2016-03-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     

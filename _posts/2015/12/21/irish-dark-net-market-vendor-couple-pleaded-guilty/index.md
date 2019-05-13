@@ -1,7 +1,7 @@
 ---
 Irish Dark Net Market Vendor Couple Pleaded Guilty
 ---
-<article class="post-listing post-12718 post type-post status-publish format-standard has-post-thumbnail hentry  tag-couple tag-dark tag-guilty tag-irish tag-market tag-net tag-pleaded tag-vendor">
+<article class="post-listing post-12718 post type-post status-publish format-standard has-post-thumbnail hentry  tag-couple tag-dark tag-guilty tag-irish tag-net tag-pleaded tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>December 21, 2015</span>
@@ -20,7 +20,7 @@ Irish Dark Net Market Vendor Couple Pleaded Guilty
 <p>Guerin, defending O’Connor, added the fact that O’Connor had a drug dependency at the time, however, he is now clean and could have a “bright future” in the film industry.</p>
 <p>Judge Martin Nolan said he will think about the case over the weekend and make a decision on Monday. Both men stay in custody until then. The sentence is still yet to be heard by the judge.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-12-21</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/guilty/" rel="tag">guilty</a> <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-12-21</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>

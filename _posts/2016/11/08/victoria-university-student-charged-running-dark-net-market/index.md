@@ -1,7 +1,7 @@
 ---
 Victoria University Student Charged For Running Dark Net Market
 ---
-<article class="post-listing post-16322 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-dark tag-market tag-net tag-running tag-student tag-university tag-victoria">
+<article class="post-listing post-16322 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-dark tag-net tag-running tag-student tag-university tag-victoria">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 8, 2016</span>
@@ -23,7 +23,7 @@ Victoria University Student Charged For Running Dark Net Market
     <p>Authorities claim they have identified a “couple of hundreds” dark net users at the moment. The website of the Dutch police can be accessed both on the Tor network (http://politiepcvh42eav.onion ) or via <a href="https://politiepcvh42eav.onion.to/">clearnet</a>.</p>
     <p>It is a question though whether authorities in the country have made a big progress in the crackdown on the dark net narcotics trade or they just want to scare users from accessing dark web markets.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/running/" rel="tag">running</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a> <a href="https://www.deepdotweb.com/tag/victoria/" rel="tag">victoria</a></span> <span style="display:none" class="updated">2016-11-08</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/running/" rel="tag">running</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a> <a href="https://www.deepdotweb.com/tag/victoria/" rel="tag">victoria</a></span> <span style="display:none" class="updated">2016-11-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

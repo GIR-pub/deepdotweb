@@ -1,7 +1,7 @@
 ---
 Outlaw Market V5 Is Up
 ---
-<article class="post-listing post-12628 post type-post status-publish format-standard has-post-thumbnail hentry  tag-market tag-outlaw tag-v5">
+<article class="post-listing post-12628 post type-post status-publish format-standard has-post-thumbnail hentry  tag-outlaw tag-v5">
     
 <div class="post-inner">
     
@@ -59,7 +59,7 @@ Outlaw Market V5 Is Up
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a> <a href="https://www.deepdotweb.com/tag/v5/" rel="tag">v5</a></span>				<span style="display:none" class="updated">2015-12-17</span>
+<span style="display:none"> <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a> <a href="https://www.deepdotweb.com/tag/v5/" rel="tag">v5</a></span>				<span style="display:none" class="updated">2015-12-17</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     
     

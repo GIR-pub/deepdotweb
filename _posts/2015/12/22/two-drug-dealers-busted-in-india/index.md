@@ -14,7 +14,7 @@ Two Drug Dealers Busted In India
 <p>According to police information, the Sahu brothers after buying the drugs from the dark web contacted Mustafa Mohiuddin in order to market and sell the illegal substances. Around a week ago, the brothers provided Mohiuddin 45 LSD blotter and a few grams of ephedrine to be sold. The police arrested Mohiuddin and his two associates, Siddiqui and Pasha, when they tried to sell the drugs to potential customers at King Koti.</p>
 <p>The arrested persons, along with the seized illegal substances, were handed over to the Central Crime Service for further investigation.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a></span> <span style="display:none" class="updated">2015-12-22</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a></span> <span style="display:none" class="updated">2015-12-22</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 </div>
 </article>

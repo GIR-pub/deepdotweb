@@ -11,7 +11,7 @@
     <div class="clear"></div>
     <div class="entry">
     <p>Law enforcement authorities <a href="http://www.mz-web.de/landkreis-harz/prozess-31-jaehriger-vor-gericht-wegen-drogenhandels-25582178">detained</a> a 31-year-old suspect from Wernigerode, Germany for drug trafficking.</p>
-    <p><img class="wp-image-18081 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/hemp-plants.jpeg" alt="Hemp plants" width="768" height="385" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/hemp-plants.jpeg 938w, https://www.deepdotweb.com/wp-content/uploads/2017/02/hemp-plants-300x150.jpeg 300w, https://www.deepdotweb.com/wp-content/uploads/2017/02/hemp-plants-660x330.jpeg 660w" sizes="(max-width: 768px) 100vw, 768px" /></p>
+    <p><img class="wp-image-18081 aligncenter" src="/imgs/2017/02/hemp-plants.jpeg" alt="Hemp plants" width="768" height="385" srcset="/imgs/2017/02/hemp-plants.jpeg 938w, /imgs/2017/02/hemp-plants-300x150.jpeg 300w, /imgs/2017/02/hemp-plants-660x330.jpeg 660w" sizes="(max-width: 768px) 100vw, 768px" /></p>
     <p>The suspect stood before the Fifth Criminal Court of Magdeburg on Friday. The prosecution accused the 31-year-old of ordering about 560 grams of amphetamines in September 2015 from the dark web.</p>
     <p>According to the public prosecutor’s office, law enforcement authorities intercepted the narcotics delivery. The vendor sent the package via the postal service to the 31-year-old.</p>
     <p>When police raided the man’s apartment in August 2016, officials seized <a href="https://www.deepdotweb.com/tag/amphetamine/">amphetamines</a>, ecstasy pills, and hash. In addition to that, authorities confiscated 64,000 euros in cash. Police suspected that the money came from illegal sources.</p>
@@ -22,7 +22,7 @@
     <p>“In the ensuing interrogation, the accused showed up and confessed. He explained the process by which he placed extensive orders for narcotics on the so-called Darknet. He revealed that he ordered the drugs to sell offline,” said police spokeswoman Peggy Bandelin.</p>
     <p>Despite the fact that large quantities of narcotics were seized in the case, the Criminal Police of Elmshorn temporarily released the 31-year-old. Law enforcement authorities started an investigation on the dark net vendor who sold the narcotics to the 31-year-old suspect in Elmshorn.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/31yearold/" rel="tag">31yearold</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-02-11</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/31yearold/" rel="tag">31yearold</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a>  <a href="https://www.deepdotweb.com/tag/german/" rel="tag">german</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-02-11</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

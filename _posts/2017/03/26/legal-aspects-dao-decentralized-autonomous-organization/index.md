@@ -26,7 +26,7 @@ Legal Aspects of DAO (Decentralized Autonomous Organization)
 <p>4. A network that can have an unlimited number of users.</p>
 <p>5. Freedom of membership.</p>
 <p>6.DAO software operates autonomously, with rules created in the form of code by the founder, yet these rules are not controlled by their creators.</p>
-<p><img class="wp-image-18806 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/dao-png.png" alt="DAO.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/dao-png.png 699w, https://www.deepdotweb.com/wp-content/uploads/2017/03/dao-png-150x150.png 150w, https://www.deepdotweb.com/wp-content/uploads/2017/03/dao-png-300x298.png 300w, https://www.deepdotweb.com/wp-content/uploads/2017/03/dao-png-55x55.png 55w, https://www.deepdotweb.com/wp-content/uploads/2017/03/dao-png-50x50.png 50w" sizes="(max-width: 699px) 100vw, 699px" /></p>
+<p><img class="wp-image-18806 aligncenter" src="/imgs/2017/03/dao-png.png" alt="DAO.png" srcset="/imgs/2017/03/dao-png.png 699w, /imgs/2017/03/dao-png-150x150.png 150w, /imgs/2017/03/dao-png-300x298.png 300w, /imgs/2017/03/dao-png-55x55.png 55w, /imgs/2017/03/dao-png-50x50.png 50w" sizes="(max-width: 699px) 100vw, 699px" /></p>
 <p><strong>DAO&#8217;s Script:</strong></p>
 <p><a href="https://www.deepdotweb.com/2017/01/15/overview-smart-contract-scripting-cryptocurrency-blockchains/">DAO&#8217;s script</a> is written in the programming language &#8220;Solidity&#8221;. DAO is comprised of a group of rules and instructions. DAO&#8217;s script is comprised of the following:</p>
 <p>a. Instructions that regulate the owner&#8217;s rights.</p>

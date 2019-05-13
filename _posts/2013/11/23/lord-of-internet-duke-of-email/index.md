@@ -14,8 +14,8 @@ title: Lord of Internet, Duke of Email
 <p>There was a time when I worked for organisations who simply didn&#8217;t seem to have the right people. It was a matter of the unqualified leading the uninterested to do the unnecessary. There were so many protocols, some it seems to be entirely useless, that were in practice so much that real work never seems to get done.</p>
 <p>&nbsp;</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/duke/" rel="tag">duke</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/lord/" rel="tag">lord</a></span> 
-Updated2013-11-23</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/duke/" rel="tag">duke</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/lord/" rel="tag">lord</a>
+Updated: 2013-11-23</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chrisk/" title="Posts by Chris K." rel="author">Chris K.</a></strong></div>
 </div>
 </article>

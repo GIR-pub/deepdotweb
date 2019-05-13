@@ -1,7 +1,7 @@
 ---
 ITOM Revealed: Europe’s Plan To Crack Down On The Online Drug Trade
 ---
-<article class="post-listing post-7218 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crack tag-drug tag-europes tag-itom tag-online tag-plan tag-trade">
+<article class="post-listing post-7218 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crack tag-drug tag-europes tag-itom tag-plan tag-trade">
     
     <div class="post-inner">
     
@@ -42,7 +42,7 @@ ITOM Revealed: Europe’s Plan To Crack Down On The Online Drug Trade
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/crack/" rel="tag">crack</a> <a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/europes/" rel="tag">europes</a> <a href="https://www.deepdotweb.com/tag/itom/" rel="tag">itom</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/plan/" rel="tag">plan</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a></span>				<span style="display:none" class="updated">2014-09-28</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/crack/" rel="tag">crack</a>  <a href="https://www.deepdotweb.com/tag/europes/" rel="tag">europes</a> <a href="https://www.deepdotweb.com/tag/itom/" rel="tag">itom</a>  <a href="https://www.deepdotweb.com/tag/plan/" rel="tag">plan</a> <a href="https://www.deepdotweb.com/tag/trade/" rel="tag">trade</a></span>				<span style="display:none" class="updated">2014-09-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     
     

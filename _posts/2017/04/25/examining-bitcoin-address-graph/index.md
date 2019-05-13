@@ -21,7 +21,7 @@ Examining the Bitcoin Address Graph
     <p>5. The study analyzed the function of cryptocurrencies from users&#8217; perspectives via thorough analysis of the periods of activity of bitcoin addresses and clusters of bitcoin addresses.</p>
     <p><strong>The Bitcoin Address Graph:</strong></p>
     <p>The below chart represents the bitcoin address graph that was included in the published paper and analyzes the evolution of number of bitcoin addresses over time.</p>
-    <p><img class="wp-image-19390 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image-97.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image-97.png 486w, https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image-97-300x213.png 300w" sizes="(max-width: 486px) 100vw, 486px"/></p>
+    <p><img class="wp-image-19390 aligncenter" src="/imgs/2017/04/word-image-97.png" srcset="/imgs/2017/04/word-image-97.png 486w, /imgs/2017/04/word-image-97-300x213.png 300w" sizes="(max-width: 486px) 100vw, 486px"/></p>
     <p>The chart represents the overall number of bitcoin addresses, or distinct nodes, in addition to the number of newly added nodes and edges, or transactions, along with the average node degree per month. By examining the chart, you can easily discover that the number of used bitcoin addresses is steadily rising, which can be interpreted in one of two ways:</p>
     <p>1. Users are creating new bitcoin addresses for each transaction they execute</p>
     <p>2. New users are joining the network and creating new addresses</p>

@@ -31,5 +31,5 @@ title: The Future of Cyberspace Anonymity
 <p>Authorities would either have to beat the anonymous community in an escalation race, outlaw anything with an internet connection, or do away with electricity altogether.</p>
 <p>The effort would cost them far more than they’d hope to pay, and accomplish far less than they’d hoped to achieve.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/cyberspace/" rel="tag">cyberspace</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a></span> 
-Updated2013-12-05
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/cyberspace/" rel="tag">cyberspace</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a>
+Updated: 2013-12-05

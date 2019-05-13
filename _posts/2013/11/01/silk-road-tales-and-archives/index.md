@@ -38,6 +38,6 @@ title: Silk Road tales and archives
 <p><strong>Put your tin foil hat on and enjoy the ride</strong> <a href="http://antilop.cc/sr" target="_blank">http://antilop.cc/sr</a></p>
 <p>============</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/archives/" rel="tag">archives</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/tales/" rel="tag">tales</a></span> 
-Updated2013-11-01</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/archives/" rel="tag">archives</a>  <a href="https://www.deepdotweb.com/tag/tales/" rel="tag">tales</a>
+Updated: 2013-11-01</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

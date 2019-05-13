@@ -1,7 +1,7 @@
 ---
 Dark Net Vendor In Torhout Arrested
 ---
-<article class="post-listing post-16201 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-net tag-torhout tag-vendor">
+<article class="post-listing post-16201 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-net hout tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>November 1, 2016</span>

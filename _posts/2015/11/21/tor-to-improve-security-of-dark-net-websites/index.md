@@ -1,7 +1,7 @@
 ---
 Tor To Improve Security Of Dark Net Websites
 ---
-<article class="post-listing post-12273 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-improve tag-net tag-security tag-tor tag-websites">
+<article class="post-listing post-12273 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-improve tag-net tag-security  tag-websites">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>November 21, 2015</span>

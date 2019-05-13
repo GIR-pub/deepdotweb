@@ -1,7 +1,7 @@
 ---
 Report Says Dutch Lead Online Drug Sales In The West
 ---
-<article class="post-listing post-15275 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-dutch tag-lead tag-online tag-report tag-sales tag-west">
+<article class="post-listing post-15275 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drug tag-dutch tag-lead tag-report tag-sales tag-west">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>August 30, 2016</span>
@@ -17,7 +17,7 @@ Report Says Dutch Lead Online Drug Sales In The West
     <p>According to the research group, online sales take only a small percentage of drug sales. For example, Dutch cannabis cafes, where small amounts of marijuana are sold under license, are estimated to sell drugs worth €1 billion per year.</p>
     <p>The researchers were mostly focused on dark web drugs sales in the U.S., Canada, Australia, the Netherlands, France, Germany, Spain, and Italy. Most sellers appeared to be operating from the United States (890), followed by Great Britain (338), and Germany (225). Countries such as China and India may also be “fertile breeding grounds for online drug sales” since they have a big role in production, according to the report.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/drug/" rel="tag">drug</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/lead/" rel="tag">lead</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> <a href="https://www.deepdotweb.com/tag/west/" rel="tag">west</a></span> <span style="display:none" class="updated">2016-08-30</span>
+    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/lead/" rel="tag">lead</a>  <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> <a href="https://www.deepdotweb.com/tag/west/" rel="tag">west</a></span> <span style="display:none" class="updated">2016-08-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

@@ -82,6 +82,6 @@ title: Beyond Silk Road: Potential Risks, Threats, and Promises of Virtual Curre
 <p><a href="http://www.hsgac.senate.gov/download/?id=0dcd748d-035a-4c0f-b695-7680adc2425d">Download Testimony (741.2 KB)</a></li>
 </ul>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/currencies/" rel="tag">currencies</a> <a href="https://www.deepdotweb.com/tag/potential/" rel="tag">potential</a> <a href="https://www.deepdotweb.com/tag/promises/" rel="tag">promises</a> <a href="https://www.deepdotweb.com/tag/risks/" rel="tag">risks</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a> <a href="https://www.deepdotweb.com/tag/virtual/" rel="tag">virtual</a></span> 
-Updated2013-11-21</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/currencies/" rel="tag">currencies</a> <a href="https://www.deepdotweb.com/tag/potential/" rel="tag">potential</a> <a href="https://www.deepdotweb.com/tag/promises/" rel="tag">promises</a> <a href="https://www.deepdotweb.com/tag/risks/" rel="tag">risks</a>  <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a> <a href="https://www.deepdotweb.com/tag/virtual/" rel="tag">virtual</a>
+Updated: 2013-11-21</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

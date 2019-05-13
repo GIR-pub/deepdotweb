@@ -10,7 +10,7 @@
 
 
 <p>After the <a href="http://www.deepdotweb.com/tag/evoscam/">Evo Scam</a>, and while looking at the uptime status widget who looks like that (at least when this post was published):</p>
-<p><a href="/imgs/2015/03/uptime.png"><img class="aligncenter size-full wp-image-9641" src="https://www.deepdotweb.com/wp-content/uploads/2015/03/uptime.png" alt="uptime" width="344" height="385" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/03/uptime.png 344w, https://www.deepdotweb.com/wp-content/uploads/2015/03/uptime-268x300.png 268w" sizes="(max-width: 344px) 100vw, 344px" /></a>And while you are waiting for <a href="http://www.deepdotweb.com/2015/03/24/agora-admin-site-downtime-for-24-48-hours/">Agora to come back from its downtime</a>.  Here are some fun dark net markets related things you can do until your favorite market will be back:</p>
+<p><a href="/imgs/2015/03/uptime.png"><img class="aligncenter size-full wp-image-9641" src="/imgs/2015/03/uptime.png" alt="uptime" width="344" height="385" srcset="/imgs/2015/03/uptime.png 344w, /imgs/2015/03/uptime-268x300.png 268w" sizes="(max-width: 344px) 100vw, 344px" /></a>And while you are waiting for <a href="http://www.deepdotweb.com/2015/03/24/agora-admin-site-downtime-for-24-48-hours/">Agora to come back from its downtime</a>.  Here are some fun dark net markets related things you can do until your favorite market will be back:</p>
 <ol>
 <li>Donate to Peter Nash fund, the arrested silk road moderator <a href="http://www.deepdotweb.com/tag/SSBD/">SSBD</a> &#8211; this address: <a href="https://blockchain.info/address/12tyijNFQHiEppXymrC96DT692y5cFsEcr"><strong>12tyijNFQHiEppXymrC96DT692y5cFsEcr</strong></a> (details can be found <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2ym4il/ssbd_fundraiser_update_tuesday_march_10_were/">here</a>)</li>
 <li>Check other markets at our <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">Dark Net markets comparison chart</a>.</li>
@@ -32,5 +32,5 @@
 </ul>
 <p>And most important is stay calm, some of them will be back up eventually&#8230; maybe.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a></span> <span style="display:none" class="updated">2015-03-25</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a></span> <span style="display:none" class="updated">2015-03-25</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

@@ -1,7 +1,7 @@
 ---
 The New York Times Launches a Tor Version of their Website
 ---
-<article class="post-listing post-23465 post type-post status-publish format-standard has-post-thumbnail hentry  tag-launches tag-times tag-tor tag-version tag-website tag-york">
+<article class="post-listing post-23465 post type-post status-publish format-standard has-post-thumbnail hentry  tag-launches tag-times  tag-version tag-website tag-york">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>November 10, 2017</span>

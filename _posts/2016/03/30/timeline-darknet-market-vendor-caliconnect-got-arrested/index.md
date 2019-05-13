@@ -1,7 +1,7 @@
 ---
 Timeline: Arrest Of The Darknet Market Vendor &#8216;Caliconnect&#8217;
 ---
-<article class="post-listing post-13609 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-caliconnect tag-darknet tag-market tag-timeline tag-vendor">
+<article class="post-listing post-13609 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-caliconnect tag-darknet tag-timeline tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 30, 2016</span>
@@ -93,7 +93,7 @@ Timeline: Arrest Of The Darknet Market Vendor &#8216;Caliconnect&#8217;
     <p>Special Agent Ryan L. Spradlin who was in change of HSI San Fransisco made the statement “HSI and our partners are at the forefront of combating illicit activities and financial crimes now seen in virtual currency systems, Criminals continue to spread their businesses through online black-markets using digital currency like Bitcoin, however they do not escape the reach of law enforcement who will continue to investigate, disrupt, and dismantle hidden illegal networks that pose a threat in cyberspace.”</p>
     <p>You can view Burchard&#8217;s criminal complaint in its entirety <a href="https://www.justice.gov/usao-edca/file/836576/download">here</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/caliconnect/" rel="tag">caliconnect</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/timeline/" rel="tag">timeline</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-03-30</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/caliconnect/" rel="tag">caliconnect</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/timeline/" rel="tag">timeline</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2016-03-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

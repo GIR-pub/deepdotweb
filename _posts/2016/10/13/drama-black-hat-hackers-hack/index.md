@@ -1,7 +1,7 @@
 ---
 Drama: Black Hat Hackers Hack Each Other
 ---
-<article class="post-listing post-15774 post type-post status-publish format-standard has-post-thumbnail hentry  tag-black tag-drama tag-hack tag-hackers tag-hat">
+<article class="post-listing post-15774 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drama tag-hack tag-hackers tag-hat">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 13, 2016</span>
@@ -22,7 +22,7 @@ Drama: Black Hat Hackers Hack Each Other
     <p><img class="wp-image-15775 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/10/http-i1-news-softpedia-static-com-images-news2-d.png" alt="http://i1-news.softpedia-static.com/images/news2/drama-on-the-underground-hacking-scene-as-black-hats-hack-each-other-508910-3.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/10/http-i1-news-softpedia-static-com-images-news2-d.png 639w, https://www.deepdotweb.com/wp-content/uploads/2016/10/http-i1-news-softpedia-static-com-images-news2-d-300x220.png 300w" sizes="(max-width: 639px) 100vw, 639px"/></p>
     <p>The leaked data included the Hunter exploit kit’s source code. Hunter is not as famous as Neutrino, Nuclear, Angler, RIG, or Magnitude, however, it is one of the few active exploit kits.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/drama/" rel="tag">drama</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/hat/" rel="tag">hat</a></span> <span style="display:none" class="updated">2016-10-13</span>
+     <a href="https://www.deepdotweb.com/tag/drama/" rel="tag">drama</a> <a href="https://www.deepdotweb.com/tag/hack/" rel="tag">hack</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/hat/" rel="tag">hat</a></span> <span style="display:none" class="updated">2016-10-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

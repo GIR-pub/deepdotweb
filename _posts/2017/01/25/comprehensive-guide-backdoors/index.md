@@ -19,7 +19,7 @@ Comprehensive Guide to Backdoors
     <li><strong>Remote machine listens for a connection.</strong> There has to be a process on the remote machine that waits for a connection and executes a shell once the connection is established.</li>
     <li><strong>Remote machine connects to us.</strong> This one goes the other way around – local command and control machine has to listen for a connection and remote machine has to &#8216;send&#8217; a shell to the listener.</li>
     </ol>
-    <p><img class="wp-image-17738 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-125.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-125.png 1000w, https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-125-300x180.png 300w" sizes="(max-width: 1000px) 100vw, 1000px"/></p>
+    <p><img class="wp-image-17738 aligncenter" src="/imgs/2017/01/word-image-125.png" srcset="/imgs/2017/01/word-image-125.png 1000w, /imgs/2017/01/word-image-125-300x180.png 300w" sizes="(max-width: 1000px) 100vw, 1000px"/></p>
     <p>Which one is better? Of course, it depends on the circumstances, otherwise one wouldn&#8217;t be mentioned. Each paragraph explains corresponding row in the table below.</p>
     <p>At a first glance, option #1 seems superior because we can connect to remote computer anytime, instantly. When using reverse shell, persistent backdoors try to connect to the control computer periodically, so we usually have to wait.</p>
     <p>By default, firewall blocks all connections to the machine. To allow connections to the listener process, firewall must open that port. Firewall only works for incoming connection, it has no restrictions on outgoing connections so by choosing option #1 or option #2, you&#8217;re also choosing which computer&#8217;s firewall you need to configure. This is why hackers prefer reverse shells – it&#8217;s easier to configure their than victim&#8217;s firewall.</p>
@@ -84,7 +84,7 @@ Comprehensive Guide to Backdoors
     
     <p>
     &nbsp;</p>
-    <p><img class="wp-image-17739" src="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-126.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-126.png 517w, https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-126-300x48.png 300w" sizes="(max-width: 517px) 100vw, 517px"/></p>
+    <p><img class="wp-image-17739" src="/imgs/2017/01/word-image-126.png" srcset="/imgs/2017/01/word-image-126.png 517w, /imgs/2017/01/word-image-126-300x48.png 300w" sizes="(max-width: 517px) 100vw, 517px"/></p>
     <p>Now, we need to connect to that listener from out local machine. I&#8217;m connecting to my own computer for the demo purposes so I use 127.0.0.1 as IP address. You should replace it with target&#8217;s <a href="http://whatismyip.com">public IP address</a>.</p>
     <div id="crayon-59635cb24f1ab363448543" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
     <div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
@@ -106,7 +106,7 @@ Comprehensive Guide to Backdoors
     
     <p>
     &nbsp;</p>
-    <p><img class="wp-image-17740" src="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-127.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-127.png 554w, https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-127-300x96.png 300w" sizes="(max-width: 554px) 100vw, 554px"/></p>
+    <p><img class="wp-image-17740" src="/imgs/2017/01/word-image-127.png" srcset="/imgs/2017/01/word-image-127.png 554w, /imgs/2017/01/word-image-127-300x96.png 300w" sizes="(max-width: 554px) 100vw, 554px"/></p>
     <p><strong>Option #2 – Reverse Shell</strong></p>
     <p>As previously discussed, we need to listen for a connection on our local, command and control computer:</p>
     <div id="crayon-59635cb24f1b2227974609" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
@@ -129,7 +129,7 @@ Comprehensive Guide to Backdoors
     
     <p>
     &nbsp;</p>
-    <p><img class="wp-image-17741 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-128.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-128.png 569w, https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-128-300x73.png 300w" sizes="(max-width: 569px) 100vw, 569px"/></p>
+    <p><img class="wp-image-17741 aligncenter" src="/imgs/2017/01/word-image-128.png" srcset="/imgs/2017/01/word-image-128.png 569w, /imgs/2017/01/word-image-128-300x73.png 300w" sizes="(max-width: 569px) 100vw, 569px"/></p>
     <p>Now, the remote computer has to send a shell by executing this (replace 127.0.0.1 with public IP that belongs to your command and control computer):</p>
     <div id="crayon-59635cb24f1b9189440505" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
     <div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
@@ -153,9 +153,9 @@ Comprehensive Guide to Backdoors
     
     <p>
     &nbsp;</p>
-    <p><img class="wp-image-17742 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-129.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-129.png 413w, https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-129-300x56.png 300w" sizes="(max-width: 413px) 100vw, 413px"/></p>
+    <p><img class="wp-image-17742 aligncenter" src="/imgs/2017/01/word-image-129.png" srcset="/imgs/2017/01/word-image-129.png 413w, /imgs/2017/01/word-image-129-300x56.png 300w" sizes="(max-width: 413px) 100vw, 413px"/></p>
     <p>&#8230;result:</p>
-    <p><img class="wp-image-17743 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-130.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-130.png 384w, https://www.deepdotweb.com/wp-content/uploads/2017/01/word-image-130-300x105.png 300w" sizes="(max-width: 384px) 100vw, 384px"/></p>
+    <p><img class="wp-image-17743 aligncenter" src="/imgs/2017/01/word-image-130.png" srcset="/imgs/2017/01/word-image-130.png 384w, /imgs/2017/01/word-image-130-300x105.png 300w" sizes="(max-width: 384px) 100vw, 384px"/></p>
     <p><strong>Endnote</strong></p>
     <p>Keep in mind that these backdoors&#8217; connection is in plain text and without any authentication. That&#8217;s why there are secure shell (SSH) and reverse secure shell that works the same way, but using encryption and password authentication with it.</p>
     </div>

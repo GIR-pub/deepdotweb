@@ -1,7 +1,7 @@
 ---
 Heads Up To Market Admins Running IIS
 ---
-<article class="post-listing post-10008 post type-post status-publish format-standard hentry category-news tag-admins tag-heads tag-market tag-urgent">
+<article class="post-listing post-10008 post type-post status-publish format-standard hentry category-news tag-admins tag-heads tag-urgent">
     <div class="post-inner">
         <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 17, 2015</span>

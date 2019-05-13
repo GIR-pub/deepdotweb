@@ -1,7 +1,7 @@
 ---
 Poseidon Market Doxxed: Hosting Location Revealed
 ---
-<article class="post-listing post-10540 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hosting tag-location tag-market tag-poseidon tag-revealed">
+<article class="post-listing post-10540 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hosting tag-location tag-poseidon tag-revealed">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 2, 2015</span>
@@ -14,7 +14,7 @@ Poseidon Market Doxxed: Hosting Location Revealed
     <p><a href="/imgs/2015/06/poseidon2.png"><img class="aligncenter size-full wp-image-10544" src="https://www.deepdotweb.com/wp-content/uploads/2015/06/poseidon2.png" alt="poseidon2" width="1313" height="885" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/06/poseidon2.png 1313w, https://www.deepdotweb.com/wp-content/uploads/2015/06/poseidon2-300x202.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/06/poseidon2-1024x690.png 1024w, https://www.deepdotweb.com/wp-content/uploads/2015/06/poseidon2-290x195.png 290w" sizes="(max-width: 1313px) 100vw, 1313px" /></a></p>
     <p>Avoid. Thanks to <a href="http://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market">TRD</a> for pointing this one out.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/location/" rel="tag">location</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/poseidon/" rel="tag">poseidon</a> <a href="https://www.deepdotweb.com/tag/revealed/" rel="tag">revealed</a></span> <span style="display:none" class="updated">2015-06-02</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/location/" rel="tag">location</a> <a href="https://www.deepdotweb.com/tag/poseidon/" rel="tag">poseidon</a> <a href="https://www.deepdotweb.com/tag/revealed/" rel="tag">revealed</a></span> <span style="display:none" class="updated">2015-06-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 Mozilla implementing Tor privacy features in Firefox builds
 ---
-<article class="post-listing post-14777 post type-post status-publish format-standard has-post-thumbnail hentry  tag-builds tag-features tag-firefox tag-implementing tag-mozilla tag-privacy tag-tor">
+<article class="post-listing post-14777 post type-post status-publish format-standard has-post-thumbnail hentry  tag-builds tag-features tag-firefox tag-implementing tag-mozilla tag-privacy 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 10, 2016</span>

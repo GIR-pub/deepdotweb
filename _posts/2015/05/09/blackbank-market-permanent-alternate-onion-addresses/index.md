@@ -1,7 +1,7 @@
 ---
 BlackBank Market: Permanent Alternate Onion Addresses
 ---
-<article class="post-listing post-10236 post type-post status-publish format-standard hentry category-news tag-addresses tag-alternate tag-blackbank tag-market tag-onion tag-permanent">
+<article class="post-listing post-10236 post type-post status-publish format-standard hentry category-news tag-addresses tag-alternate tag-blackbank tag-onion tag-permanent">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 9, 2015</span>
@@ -108,7 +108,7 @@ BlackBank Market: Permanent Alternate Onion Addresses
     <div class="wp-socializer-clearer"></div></div>
     
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/addresses/" rel="tag">addresses</a> <a href="https://www.deepdotweb.com/tag/alternate/" rel="tag">alternate</a> <a href="https://www.deepdotweb.com/tag/blackbank/" rel="tag">blackbank</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/permanent/" rel="tag">permanent</a></span> <span style="display:none" class="updated">2015-05-09</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/addresses/" rel="tag">addresses</a> <a href="https://www.deepdotweb.com/tag/alternate/" rel="tag">alternate</a> <a href="https://www.deepdotweb.com/tag/blackbank/" rel="tag">blackbank</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/permanent/" rel="tag">permanent</a></span> <span style="display:none" class="updated">2015-05-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

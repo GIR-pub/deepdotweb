@@ -54,5 +54,5 @@ title: Sum up: The Arrest of Silk Road Admins/Mods SSBD, Libertas &#038; Inigo
 <p>This adds up to the common info on the forums assuming that Libertas was an important figure on the first silk road.</p>
 <p>We feel very bad for these yet another 3 victims of the war on drugs, and we will  be following and releasing more information as we will have it.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/adminsmods/" rel="tag">adminsmods</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/inigo/" rel="tag">inigo</a> <a href="https://www.deepdotweb.com/tag/libertas/" rel="tag">libertas</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a></span> 
-Updated2013-12-21
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/adminsmods/" rel="tag">adminsmods</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/inigo/" rel="tag">inigo</a> <a href="https://www.deepdotweb.com/tag/libertas/" rel="tag">libertas</a>  <a href="https://www.deepdotweb.com/tag/ssbd/" rel="tag">ssbd</a>
+Updated: 2013-12-21

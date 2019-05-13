@@ -34,7 +34,7 @@
     <p><strong>Interested?</strong></p>
     <p>If you are interested in using the deep web, make sure to stay updated by reading DeepDotWeb.com, regularly and explore our archives., which have a wealth of information. A good place to start is this <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">markets list</a> or the <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">markets chart</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dealer/" rel="tag">dealer</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/ditch/" rel="tag">ditch</a> <a href="https://www.deepdotweb.com/tag/reasons/" rel="tag">reasons</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2014-11-30</span>
+    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/ditch/" rel="tag">ditch</a> <a href="https://www.deepdotweb.com/tag/reasons/" rel="tag">reasons</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2014-11-30</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
     </div>
 </article>

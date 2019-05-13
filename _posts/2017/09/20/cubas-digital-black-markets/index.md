@@ -2,7 +2,7 @@
 Cuba’s Digital Black Markets
 ---
 <article class="post-listing post-22648 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-black tag-cubas tag-digital tag-markets">
+ tag-cubas tag-digital tag-markets">
     
     <div class="post-inner">
     
@@ -28,7 +28,7 @@ Cuba’s Digital Black Markets
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/cubas/" rel="tag">cubas</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a></span>				<span style="display:none" class="updated">2017-09-20</span>
+     <a href="https://www.deepdotweb.com/tag/cubas/" rel="tag">cubas</a> <a href="https://www.deepdotweb.com/tag/digital/" rel="tag">digital</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a></span>				<span style="display:none" class="updated">2017-09-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
     
     

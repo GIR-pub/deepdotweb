@@ -44,5 +44,5 @@ title: Security Expert? &#8220;The Marketplace&#8221; Wants You!
 <p>and if you want to help &#8211; Feel free to contact them.</p>
 <p>to stay updated, check out their sub-reddit: http://www.reddit.com/r/themarketplace/</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a></span> 
-Updated2013-10-29
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/security/" rel="tag">security</a>
+Updated: 2013-10-29

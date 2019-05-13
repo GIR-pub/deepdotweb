@@ -2,7 +2,7 @@
 The Italian ANAC launched online whistleblowing platform using Tor onion services
 ---
 <article class="post-listing post-24946 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-anac tag-italian tag-launched tag-onion tag-online tag-platform tag-services tag-tor tag-whistleblowing">
+ tag-anac tag-italian tag-launched tag-onion tag-platform tag-services  tag-whistleblowing">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>March 4, 2018</span>
@@ -26,7 +26,7 @@ The Italian ANAC launched online whistleblowing platform using Tor onion service
 <p>Equally, Mozilla has also recently started incorporating some of Tor’s unique features such as the anti-tracking filet. Deeper and more integration are expected of the Tor network, into Mozilla Firefox which will eventually see Tor network being more mainstream.</p>
 <p>The Tor network Project Development Office is now expected to move with speed as far as its donation budget can allow, to fund its mainstream teams.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/anac/" rel="tag">anac</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/launched/" rel="tag">launched</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/platform/" rel="tag">platform</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/whistleblowing/" rel="tag">whistleblowing</a></span> <span style="display:none" class="updated">2018-03-04</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/anac/" rel="tag">anac</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/launched/" rel="tag">launched</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a>  <a href="https://www.deepdotweb.com/tag/platform/" rel="tag">platform</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/whistleblowing/" rel="tag">whistleblowing</a></span> <span style="display:none" class="updated">2018-03-04</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
 </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 Market Is Currently Up Or Down? Check Our Sidebar!
 ---
-<article class="post-listing post-5276 post type-post status-publish format-standard has-post-thumbnail hentry  tag-check tag-market tag-sidebar-2">
+<article class="post-listing post-5276 post type-post status-publish format-standard has-post-thumbnail hentry  tag-check tag-sidebar-2">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 4, 2014</span>
@@ -19,7 +19,7 @@ Market Is Currently Up Or Down? Check Our Sidebar!
     <p>Wellת now there is no need to look any further. thanks to the Dnstat creator, we have implemented a widget on the sidebar &#8211; showing at any given time the markets Uptime status and updating every 15 minutes. so no need to refresh the market every 2 minutes to know if its back, here it is:</p>
     <p><a href="/imgs/2014/05/uptime.png"><img class="aligncenter  wp-image-5277" src="https://www.deepdotweb.com/wp-content/uploads/2014/05/uptime.png" alt="uptime" width="746" height="480" srcset="https://www.deepdotweb.com/wp-content/uploads/2014/05/uptime.png 1342w, https://www.deepdotweb.com/wp-content/uploads/2014/05/uptime-300x193.png 300w, https://www.deepdotweb.com/wp-content/uploads/2014/05/uptime-1024x659.png 1024w" sizes="(max-width: 746px) 100vw, 746px"/></a>Hopefully it will be implemented soon into the marketplce list so it will be clear at any given time which market is up and which is down. we will be adding / removing markets from this list as they will be added / removed from Dnstat.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/check/" rel="tag">check</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/sidebar-2/" rel="tag">sidebar</a></span> <span style="display:none" class="updated">2014-05-04</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/check/" rel="tag">check</a> <a href="https://www.deepdotweb.com/tag/sidebar-2/" rel="tag">sidebar</a></span> <span style="display:none" class="updated">2014-05-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

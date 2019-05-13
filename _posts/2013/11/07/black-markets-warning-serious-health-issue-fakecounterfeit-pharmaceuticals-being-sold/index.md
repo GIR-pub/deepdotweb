@@ -1,7 +1,7 @@
 ---
 title: Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Pharmaceuticals Being Sold!
 ---
-1222  tag-black tag-fakecounterfeit tag-health tag-issue tag-markets tag-pharmaceuticals tag-sold tag-warning">
+1222  tag-fakecounterfeit tag-health tag-issue tag-markets tag-pharmaceuticals tag-sold tag-warning">
     
     
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
@@ -66,8 +66,8 @@ title: Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Phar
     
     
     
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/fakecounterfeit/" rel="tag">fakecounterfeit</a> <a href="https://www.deepdotweb.com/tag/health/" rel="tag">health</a> <a href="https://www.deepdotweb.com/tag/issue/" rel="tag">issue</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/pharmaceuticals/" rel="tag">pharmaceuticals</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span>				
-Updated2013-11-07</span>
+ <a href="https://www.deepdotweb.com/tag/fakecounterfeit/" rel="tag">fakecounterfeit</a> <a href="https://www.deepdotweb.com/tag/health/" rel="tag">health</a> <a href="https://www.deepdotweb.com/tag/issue/" rel="tag">issue</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/pharmaceuticals/" rel="tag">pharmaceuticals</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span>				
+Updated: 2013-11-07</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     
     

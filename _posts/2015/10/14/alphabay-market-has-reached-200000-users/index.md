@@ -1,7 +1,7 @@
 ---
 Alphabay Market Has Reached 200,000 Users
 ---
-<article class="post-listing post-11775 post type-post status-publish format-standard has-post-thumbnail hentry  tag-901 tag-alphabay tag-market tag-reached tag-users">
+<article class="post-listing post-11775 post type-post status-publish format-standard has-post-thumbnail hentry  tag-901 tag-alphabay tag-reached tag-users">
     
 <div class="post-inner">
     
@@ -19,7 +19,7 @@ Alphabay Market Has Reached 200,000 Users
     
 <div class="entry">
     
-<p>According to a new post made by <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay market</a> admins on the market forums:<a href="https://www.deepdotweb.com/wp-content/uploads/2015/10/alphabay200k.png"><img class="aligncenter size-full wp-image-11781" src="https://www.deepdotweb.com/wp-content/uploads/2015/10/alphabay200k.png" alt="alphabay200k" width="882" height="175" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/10/alphabay200k.png 882w, https://www.deepdotweb.com/wp-content/uploads/2015/10/alphabay200k-300x60.png 300w" sizes="(max-width: 882px) 100vw, 882px" /></a></p>
+<p>According to a new post made by <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay market</a> admins on the market forums:<a href="/imgs/2015/10/alphabay200k.png"><img class="aligncenter size-full wp-image-11781" src="/imgs/2015/10/alphabay200k.png" alt="alphabay200k" width="882" height="175" srcset="/imgs/2015/10/alphabay200k.png 882w, /imgs/2015/10/alphabay200k-300x60.png 300w" sizes="(max-width: 882px) 100vw, 882px" /></a></p>
 <blockquote><p>We reached <b>200,000 users</b> on the Marketplace just now. On behalf of the entire AlphaBay Staff, we thank you for your ongoing support, faith &amp; effort to shape AlphaBay as it is today &#8211; a top-grade black market!</p>
 <p>With the help of our community, we will continue to do our best to run AlphaBay for many milestones ahead in a transparent way, accompanied by strong security practices &amp; blazing-fast marketplace speed.</p>
 <p>Sincerely Thank You,<br />
@@ -32,7 +32,7 @@ Alphabay Market Has Reached 200,000 Users
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/200000/" rel="tag">200000</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/reached/" rel="tag">reached</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span>				<span style="display:none" class="updated">2015-10-14</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/200000/" rel="tag">200000</a> <a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/reached/" rel="tag">reached</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span>				<span style="display:none" class="updated">2015-10-14</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     
     

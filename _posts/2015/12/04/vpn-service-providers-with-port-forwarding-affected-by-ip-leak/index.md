@@ -1,7 +1,7 @@
 ---
 VPN Service Providers With Port Forwarding Affected By IP Leak
 ---
-<article class="post-listing post-12468 post type-post status-publish format-standard hentry category-news tag-affected tag-forwarding tag-ip tag-leak tag-port tag-providers tag-service tag-vpn">
+<article class="post-listing post-12468 post type-post status-publish format-standard hentry category-news tag-affected tag-forwarding tag-ip tag-leak tag-port tag-providers tag-vpn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>December 4, 2015</span>

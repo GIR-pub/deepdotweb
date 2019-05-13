@@ -1,7 +1,7 @@
 ---
 Tor Browser Updates Patch IP Leaking TorMoil Bug
 ---
-<article class="post-listing post-23577 post type-post status-publish format-standard has-post-thumbnail hentry  tag-browser tag-bug tag-ip tag-leaking tag-patch tag-tor tag-tormoil tag-updates">
+<article class="post-listing post-23577 post type-post status-publish format-standard has-post-thumbnail hentry  tag-browser tag-bug tag-ip tag-leaking tag-patch  moil tag-updates">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>November 19, 2017</span>

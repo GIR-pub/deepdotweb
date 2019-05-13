@@ -52,8 +52,8 @@ title: Banned for a reason
 <div class="wp-socializer-clearer"></div></div>
     
 </div>
-<span style="display:none"><a href="http://www.deepdotweb.com/tag/banned/" rel="tag">banned</a> <a href="http://www.deepdotweb.com/tag/reason/" rel="tag">reason</a></span> 
-Updated2013-10-29<a href="http://www.deepdotweb.com/author/masad/" title="Posts by Mohammed Asad" rel="author">Mohammed Asad</a></strong></div>
+<span style="display:none"><a href="http://www.deepdotweb.com/tag/banned/" rel="tag">banned</a> <a href="http://www.deepdotweb.com/tag/reason/" rel="tag">reason</a>
+Updated: 2013-10-29<a href="http://www.deepdotweb.com/author/masad/" title="Posts by Mohammed Asad" rel="author">Mohammed Asad</a></strong></div>
 </div>
 </article>
 

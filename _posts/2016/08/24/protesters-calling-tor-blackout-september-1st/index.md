@@ -1,7 +1,7 @@
 ---
 Protesters Are Calling for a Tor Blackout on September 1st
 ---
-<article class="post-listing post-15227 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1st tag-blackout tag-calling tag-protesters tag-september tag-tor">
+<article class="post-listing post-15227 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1st tag-blackout tag-calling tag-protesters tag-september 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>August 24, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Pluggable Transports for Tor: Dodging Censorship
 ---
-<article class="post-listing post-17050 post type-post status-publish format-standard has-post-thumbnail hentry  tag-censorship tag-dodging tag-pluggable tag-tor tag-transports">
+<article class="post-listing post-17050 post type-post status-publish format-standard has-post-thumbnail hentry  tag-censorship tag-dodging tag-pluggable  tag-transports">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
     <span>December 21, 2016</span>

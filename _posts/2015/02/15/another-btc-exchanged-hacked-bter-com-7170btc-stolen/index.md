@@ -15,7 +15,7 @@ Another BTC Exchanged Hacked: Bter.com &#8211; 7170BTC stolen
 <p>720 BTC bounty for chasing it back.</p>
 <p>All wallets have been shut down and withdrawals of the unaffected coins will be arranged later.</p>
 <p>&nbsp;</p></blockquote>
-<p><a href="/imgs/2015/02/bter.png"><img class="aligncenter size-full wp-image-9082" src="https://www.deepdotweb.com/wp-content/uploads/2015/02/bter.png" alt="bter" width="925" height="400" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/02/bter.png 925w, https://www.deepdotweb.com/wp-content/uploads/2015/02/bter-300x130.png 300w" sizes="(max-width: 925px) 100vw, 925px"/></a></p>
+<p><a href="/imgs/2015/02/bter.png"><img class="aligncenter size-full wp-image-9082" src="/imgs/2015/02/bter.png" alt="bter" width="925" height="400" srcset="/imgs/2015/02/bter.png 925w, /imgs/2015/02/bter-300x130.png 300w" sizes="(max-width: 925px) 100vw, 925px"/></a></p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/7170btc/" rel="tag">7170btc</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/btercom/" rel="tag">btercom</a> <a href="https://www.deepdotweb.com/tag/exchanged/" rel="tag">exchanged</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2015-02-15</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

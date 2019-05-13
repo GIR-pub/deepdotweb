@@ -1,7 +1,7 @@
 ---
 HHS Security Director Sentenced to 25 Years for Tor-Network-Based CP
 ---
-<article class="post-listing post-8733 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2528 tag-cp tag-director tag-hhs tag-security tag-sentenced tag-tornetworkbased tag-years">
+<article class="post-listing post-8733 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2528 tag-cp tag-director tag-hhs tag-security tag-sentenced networkbased tag-years">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 6, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Following Paris Attacks; French Police want say on Tor and Wi-Fi Regulations
 ---
-<article class="post-listing post-12504 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-french tag-paris tag-police tag-regulations tag-tor tag-wifi">
+<article class="post-listing post-12504 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-french tag-paris tag-police tag-regulations  tag-wifi">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 9, 2015</span>

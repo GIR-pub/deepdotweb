@@ -1,7 +1,7 @@
 ---
 Steganalysis: finding hidden data in Images
 ---
-<article class="post-listing post-17272 post type-post status-publish format-standard has-post-thumbnail hentry  tag-data tag-finding tag-hidden tag-images tag-steganalysis">
+<article class="post-listing post-17272 post type-post status-publish format-standard has-post-thumbnail hentry  tag-data tag-finding tag-images tag-steganalysis">
     
     <div class="post-inner">
     
@@ -37,13 +37,13 @@ Steganalysis: finding hidden data in Images
     <li><strong>Running steganalysis tool</strong></li>
     </ol>
     <p>Once the crawler has finished its job, it is time to find a suitable steganalysis tool. As most images on the web are in JPEG format, we are going to choose a tool that specializes on JPEG&#8217;s. It is always a good idea to use multiple tools that use different steganalysis techniques and combine the output to give a more objective result. Binghamton University&#8217;s Digital Data Embedding Laboratory has published state of the art <a href="http://dde.binghamton.edu/download/feature_extractors/">JPEG steganalysis tools</a>, however they need to be combined with an AI framework and the ones we have tested unfortunately only work on greyscale images.</p>
-    <p>An up to date and ready to use JPEG steganalysis tool would surely be very much welcomed by many enthusiasts. <img class="wp-image-17276 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/12/word-image-137.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/12/word-image-137.png 800w, https://www.deepdotweb.com/wp-content/uploads/2016/12/word-image-137-300x51.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+    <p>An up to date and ready to use JPEG steganalysis tool would surely be very much welcomed by many enthusiasts. <img class="wp-image-17276 aligncenter" src="/imgs/2016/12/word-image-137.png" srcset="/imgs/2016/12/word-image-137.png 800w, /imgs/2016/12/word-image-137-300x51.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
     <ol>
     <li><strong>Extract hidden messages from suspicious images</strong></li>
     </ol>
     <p>Once we have identified the images that are likely to have hidden information (know as stego images), we will try to extract the hidden message. Because there are different mechanisms used to embed a message into an image, we need to try out all of them (or at least the most popular embedding techniques). Additionally it is likely that we will discover an encrypted message that will need to be hacked via dictionary attack (script that tries out millions of likely passwords) for example.</p>
     <p>The art of steganography is far from mature and most people haven’t even heard of it. However the number of monthly downloads of Steghide (arguably the most popular tool for image steganography) has <a href="https://sourceforge.net/projects/steghide/files/stats/timeline?dates=2015-08-14+to+2016-11-30">doubled from 3,237 to 7,479 between October and November 2016</a> possibly due to increase fear of surveillance following Americas election results (37% of downloads originate from the US according to sourceforge.net). Naturally an increase in steganography activity will spark further interest in steganalysis, so we can look forward to more developments and stego tools in the near future.</p>
-    <p><img class="wp-image-17277 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2016/12/word-image-138.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2016/12/word-image-138.png 974w, https://www.deepdotweb.com/wp-content/uploads/2016/12/word-image-138-300x127.png 300w" sizes="(max-width: 974px) 100vw, 974px" /></p>
+    <p><img class="wp-image-17277 aligncenter" src="/imgs/2016/12/word-image-138.png" srcset="/imgs/2016/12/word-image-138.png 974w, /imgs/2016/12/word-image-138-300x127.png 300w" sizes="(max-width: 974px) 100vw, 974px" /></p>
     <p>babysnoop &#8211; @<a href="https://twitter.com/babysn00p">babysn00p</a></p>
     
     

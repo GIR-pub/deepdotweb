@@ -1,7 +1,7 @@
 ---
 Report: Online Gaming Currencies Used For Money Laundering
 ---
-<article class="post-listing post-15952 post type-post status-publish format-standard has-post-thumbnail hentry  tag-currencies tag-gaming tag-laundering tag-money tag-online tag-report">
+<article class="post-listing post-15952 post type-post status-publish format-standard has-post-thumbnail hentry  tag-currencies tag-gaming tag-laundering tag-money tag-report">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>October 20, 2016</span>
@@ -28,7 +28,7 @@ Report: Online Gaming Currencies Used For Money Laundering
     <p>Cybercriminals then can use the obtained clean money to finance other operations.</p>
     <p>“After all, the skills used in harvesting gaming currencies–glitching/hacking larger servers, running phishing campaigns, spreading infostealing malware–are all applicable to other traditional forms of cybercrime,” the report goes by. “Based on our observation, some of the cybercriminal pursuits that are fueled from the profit of the sale of online gaming currencies are as follows, but not limited to: DDoS services, infrastructure rental (for cybercrime purposes), spam campaigns (which can result in ransomware infection), identity theft/fraud, and many others.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/currencies/" rel="tag">currencies</a> <a href="https://www.deepdotweb.com/tag/gaming/" rel="tag">gaming</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2016-10-20</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/currencies/" rel="tag">currencies</a> <a href="https://www.deepdotweb.com/tag/gaming/" rel="tag">gaming</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a>  <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> <span style="display:none" class="updated">2016-10-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

@@ -2,7 +2,7 @@
 Using the CHORD protocol for creating a P2P multimedia service system
 ---
 <article class="post-listing post-27643 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-chord tag-creating tag-multimedia tag-p2p tag-protocol tag-service tag-system">
+tag-chord tag-creating tag-multimedia tag-p2p tag-protocol tag-system">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 20, 2018</span>
@@ -14,7 +14,7 @@ tag-chord tag-creating tag-multimedia tag-p2p tag-protocol tag-service tag-syste
 <p>Throughout this article, we will examine the CHORD P2P protocol.</p>
 <p><strong>Overview of the CHORD protocol:</strong></p>
 <p>The CHORD protocol is a scalable P2P lookup protocol that can be used for online multimedia applications. The CHORD protocol relies on Distributed Hash Table (DHT). All nodes within the protocol are organized in a unique identifier circle, which is based on node identifiers as shown in the below figure.</p>
-<p><img class="wp-image-27647" src="https://www.deepdotweb.com/wp-content/uploads/2018/12/chord-protocol-png.png" alt="Chord protocol.PNG" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/12/chord-protocol-png.png 699w, https://www.deepdotweb.com/wp-content/uploads/2018/12/chord-protocol-png-300x163.png 300w" sizes="(max-width: 699px) 100vw, 699px" /></p>
+<p><img class="wp-image-27647" src="/imgs/2018/12/chord-protocol-png.png" alt="Chord protocol.PNG" srcset="/imgs/2018/12/chord-protocol-png.png 699w, /imgs/2018/12/chord-protocol-png-300x163.png 300w" sizes="(max-width: 699px) 100vw, 699px" /></p>
 <p><strong>Figure (1): The CHORD protocol ring</strong></p>
 <p>Keys are assigned to their successor nodes within the identifier circle. The hash function is used for even distribution of all nodes and keys on the CHORD ring. Within the ring, all peers as well as the resources are assigned to unique identifiers. The identity of each peer is stored in the format of (identifier key, value). To accomplish efficient data routing, each node within the ring stores the details regarding O (log N) of other nodes. It is relatively hard to maintain the consistency of details of the O value of nodes, because any node can join or leave the ring at any time.</p>
 <p>When requesting content or a resource, e.g. video, each node performs a single operation – for the given key, the key is mapped onto a node. Depending on the type of application utilizing the CHORD protocol, that node is responsible for storing the value associated with the matching key. CHORD utilizes consistent hashing methods to associate identifier keys with CHORD nodes. Consistent hashing is used for load balancing, given the fact that each node has to store the number of keys and value pairs, and it required little movement of keys whenever any node joined or left the network.</p>

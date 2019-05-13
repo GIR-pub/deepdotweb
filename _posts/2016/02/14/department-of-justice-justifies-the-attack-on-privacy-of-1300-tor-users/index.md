@@ -1,7 +1,7 @@
 ---
 Department Of Justice Justifies The Attack On Privacy Of 1300 Tor Users
 ---
-<article class="post-listing post-13212 post type-post status-publish format-standard hentry category-news tag-3345 tag-attack tag-department tag-justice tag-justifies tag-privacy tag-tor tag-users">
+<article class="post-listing post-13212 post type-post status-publish format-standard hentry category-news tag-3345 tag-attack tag-department tag-justice tag-justifies tag-privacy  tag-users">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 14, 2016</span>

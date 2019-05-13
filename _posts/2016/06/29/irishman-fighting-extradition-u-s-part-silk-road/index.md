@@ -31,7 +31,7 @@ Irishman Fighting Extradition to U.S. for His Part in Silk Road
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/fighting/" rel="tag">fighting</a> <a href="https://www.deepdotweb.com/tag/irishman/" rel="tag">irishman</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span>				<span style="display:none" class="updated">2016-06-29</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/fighting/" rel="tag">fighting</a> <a href="https://www.deepdotweb.com/tag/irishman/" rel="tag">irishman</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> </span>				<span style="display:none" class="updated">2016-06-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     
     

@@ -32,6 +32,6 @@ title: Down the Bitcoin Rabbit Hole: Is the Currency Truly Anonymous?
 <p>In almost every report, the same principle comes into view: the more bitcoins there are in question, the less privacy there will be for the owner of those bitcoins.  It is very difficult to track a bitcoin equivalent of $100, but $10,000,000 is a different matter entirely.</p>
 <p>In the blockchain, it pays to be as sly as a fox, but not a fat cat.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/hole/" rel="tag">hole</a> <a href="https://www.deepdotweb.com/tag/rabbit/" rel="tag">rabbit</a></span> 
-Updated2013-11-14</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/hole/" rel="tag">hole</a> <a href="https://www.deepdotweb.com/tag/rabbit/" rel="tag">rabbit</a>
+Updated: 2013-11-14</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

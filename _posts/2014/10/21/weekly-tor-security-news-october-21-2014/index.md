@@ -1,7 +1,7 @@
 ---
 Weekly Tor and Security News – October 21, 2014
 ---
-<article class="post-listing post-7441 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1966 tag-news tag-october tag-security tag-tor tag-weekly">
+<article class="post-listing post-7441 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1966 tag-news tag-october tag-security  tag-weekly">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
     <span>October 21, 2014</span>

@@ -21,8 +21,8 @@ title: The Silk Road Saga: Who is “The Employee”? – Part II
 <p>“Are you talking about a reshipping service or starting up a UPS/Fedex/USPS type business? It would take a hell of a lot more than a couple vans, you would have to have vans in every state. Look as usps, they lose money every year. I used to own a transportation company and as part of it would deliver lost luggage for airlines. I had 10 vehicles and that was for one smaller type metro type area.”</p>
 <p><a href="http://www.deepdotweb.com/2013/11/08/now-its-official-curtis-clark-green-is-flush-chronicpain/" target="_blank">Green has now pleaded guilty</a> on Wednesday for attempting to distribute cocaine, and faces up to 40 years in prison –which is arguably better than the death sentence that his former boss tried to give him.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/ii/" rel="tag">ii</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/saga/" rel="tag">saga</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
-Updated2013-11-08</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/ii/" rel="tag">ii</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/saga/" rel="tag">saga</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a>
+Updated: 2013-11-08</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/keving/" title="Posts by Kevin H. Danielsen" rel="author">Kevin H. Danielsen</a></strong></div>
 </div>
 </article>

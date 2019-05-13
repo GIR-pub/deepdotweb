@@ -11,7 +11,7 @@ Couple Arrested In France For Ordering Meth
 
 
 <p>According to the French news outlet la Dépêche de Tahiti, three people were <a href="http://la1ere.francetvinfo.fr/polynesie/couple-achete-ice-darknet-se-fait-epingler-442467.html">arrested</a> on Friday afternoon for attempting to purchase crystal meth from the dark net.</p>
-<p><img class="wp-image-18423 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/02/c-polynesia-1st.jpeg" alt="" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/02/c-polynesia-1st.jpeg 660w, https://www.deepdotweb.com/wp-content/uploads/2017/02/c-polynesia-1st-300x169.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px"/></p>
+<p><img class="wp-image-18423 aligncenter" src="/imgs/2017/02/c-polynesia-1st.jpeg" alt="" srcset="/imgs/2017/02/c-polynesia-1st.jpeg 660w, /imgs/2017/02/c-polynesia-1st-300x169.jpeg 300w" sizes="(max-width: 660px) 100vw, 660px"/></p>
 <p>The three persons were placed in customs detention before they were taken into police custody. Law enforcement authorities released the third suspect from the pre-trial detention, according to TNTV.</p>
 <p>One person of the couple is an official of the Presidency while the other is a teacher, Radio 1 claims. The couple allegedly tried to import 60 grams of <a href="https://www.deepdotweb.com/tag/meth/">crystal meth</a> from the dark net. They bought from a vendor residing in Canada. The substances were shipped by the national postal service.</p>
 <p>The couple’s trial is expected to start on Monday.</p>

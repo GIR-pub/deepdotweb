@@ -1,7 +1,7 @@
 ---
 How the presidential candidates feel about Tor / Privacy?
 ---
-<article class="post-listing post-13341 post type-post status-publish format-standard has-post-thumbnail hentry  tag-candidates tag-feel tag-presidential tag-privacy tag-tor">
+<article class="post-listing post-13341 post type-post status-publish format-standard has-post-thumbnail hentry  tag-candidates tag-feel tag-presidential tag-privacy 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>February 29, 2016</span>

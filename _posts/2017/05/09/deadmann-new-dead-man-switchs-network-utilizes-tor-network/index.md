@@ -1,7 +1,7 @@
 ---
 Deadmann : A New Dead Man Switch&#8217;s Network That Utilizes The Tor Network
 ---
-<article class="post-listing post-19723 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dead tag-deadmann tag-man tag-network tag-switchs tag-tor tag-utilizes">
+<article class="post-listing post-19723 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dead tag-deadmann tag-man tag-network tag-switchs  tag-utilizes">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>May 9, 2017</span>
@@ -56,7 +56,7 @@ Deadmann : A New Dead Man Switch&#8217;s Network That Utilizes The Tor Network
     <p>Javascript exploits can be utilized to uncover the identity, i.e. geo-location, of users of Tor browsers. A security slider helps users change the level of security provided by the Tor browser. High security level is achieved via disabling Javascript in addition to other features, including SVG images and remote fonts. Deadmann nodes should be managed using this security level on the Tor browser.</p>
     <p><strong>Deadmann&#8217;s Design Model:</strong></p>
     <p>As illustrated in the below figure, Alice, Bob and Carol communicate with their Control Hub using the Tor network via means of the Tor browser, in order to be able to efficiently manage their Deadmann nodes, which can communicate with each other across the Tor network in order to obtain the status of other Deadmann nodes. Users, like Dave, may also be able to obtain Deadmann nodes&#8217; statuses over the Tor browser.</p>
-    <p><img class="wp-image-19730 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-17.png" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-17.png 551w, https://www.deepdotweb.com/wp-content/uploads/2017/05/word-image-17-285x300.png 285w" sizes="(max-width: 551px) 100vw, 551px" /></p>
+    <p><img class="wp-image-19730 aligncenter" src="/imgs/2017/05/word-image-17.png" srcset="/imgs/2017/05/word-image-17.png 551w, /imgs/2017/05/word-image-17-285x300.png 285w" sizes="(max-width: 551px) 100vw, 551px" /></p>
     <p>When Deadmann is started, a new instance of the Tor browser is initiated and an HTTP server is implemented for the Control Hub. After the Control Hub is successfully accessed, the user can enter his/her authentication code, if one exists. In case an authentication code is not present, the user will have to create a new one, which will be used to encrypt, then decrypt Deadmann files, which are files that include the info needed to administrate a Deadmann node.</p>
     </div>
     <span style="display:none"><a href="https://www.deepdotweb.com/tag/dead/" rel="tag">dead</a> <a href="https://www.deepdotweb.com/tag/deadmann/" rel="tag">deadmann</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/switchs/" rel="tag">switchs</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/utilizes/" rel="tag">utilizes</a></span> <span style="display:none" class="updated">2017-05-09</span>

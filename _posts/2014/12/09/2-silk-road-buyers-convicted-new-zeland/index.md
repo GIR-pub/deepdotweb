@@ -16,7 +16,7 @@
     <p>Cost-wise, there was a massive discrepancy between the Silk Rd and street prices. Clee said his client was found with 201 pills because the drugs were so cheap they could only be bought in large batches to make it worth-while for the seller. &#8220;It&#8217;s not possible to buy five or six pills,&#8221; he said. The 200 pills were bought for somewhere between $200 and $300, Clee said</p>
     <p>Fowler had also been caught with a cannabis growing operation and he pleaded guilty to possession of cannabis for supply&#8230; Clark was originally charged with importing the Ecstasy but that charge was dropped.</p></blockquote>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buyers/" rel="tag">buyers</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a> <a href="https://www.deepdotweb.com/tag/zeland/" rel="tag">zeland</a></span> <span style="display:none" class="updated">2014-12-09</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/buyers/" rel="tag">buyers</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a>  <a href="https://www.deepdotweb.com/tag/zeland/" rel="tag">zeland</a></span> <span style="display:none" class="updated">2014-12-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

@@ -12,7 +12,7 @@ tag-attacks tag-ddos tag-prevention">
 
 <p>DDoS attacks lead to the most devastating effects within a network. <a href="https://www.deepdotweb.com/2017/11/03/ddos-attack-explained/">DDoS attacks</a> are forms of congestion-control problems, and because most forms of such congestion are secondary to the effects of malicious hosts not following conventional end-to-end congestion control, the problem must be solved by routers. Designing a mechanism to counteract unidentified attacks targeting the application and transport layer represents a goal of intrusion identification and intrusion prevention techniques.</p>
 <p><a href="https://www.academia.edu/37657486/Distributed_Denial_of_Service_DDOS_Attacks_Detection_Mechanism">A recently published paper</a> delved into the current tools of modern DDoS attacks and proposed a preventive technique to stop the attacks from imposing damage within a network setting. Throughout this article, we will review this interesting paper.</p>
-<p><img class="wp-image-27359" src="https://www.deepdotweb.com/wp-content/uploads/2018/11/ddos-jpg.jpeg" alt="ddos.jpg" srcset="https://www.deepdotweb.com/wp-content/uploads/2018/11/ddos-jpg.jpeg 800w, https://www.deepdotweb.com/wp-content/uploads/2018/11/ddos-jpg-300x169.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><img class="wp-image-27359" src="/imgs/2018/11/ddos-jpg.jpeg" alt="ddos.jpg" srcset="/imgs/2018/11/ddos-jpg.jpeg 800w, /imgs/2018/11/ddos-jpg-300x169.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
 <p><strong>DDoS attack tools:</strong></p>
 <p>The following represents the DDoS attack tools represented via the paper:</p>
 <p>DDOSIM:</p>

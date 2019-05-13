@@ -1,7 +1,7 @@
 ---
 title: Pandora Market: Scam or just Down?
 ---
-2937  tag-market tag-pandora tag-scam">
+2937  tag-pandora tag-scam">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 25, 2013</span>
@@ -18,5 +18,5 @@ title: Pandora Market: Scam or just Down?
 <p>&nbsp;</p>
 <p>Decentralized future.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/pandora/" rel="tag">pandora</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a></span> 
-Updated2013-12-25
+<span style="display:none"> <a href="https://www.deepdotweb.com/tag/pandora/" rel="tag">pandora</a> <a href="https://www.deepdotweb.com/tag/scam/" rel="tag">scam</a>
+Updated: 2013-12-25

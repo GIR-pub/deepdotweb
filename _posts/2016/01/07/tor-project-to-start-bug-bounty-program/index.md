@@ -1,7 +1,7 @@
 ---
 Tor Project To Start Bug Bounty Program
 ---
-<article class="post-listing post-12855 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bounty tag-bug tag-program tag-project tag-start tag-tor">
+<article class="post-listing post-12855 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bounty tag-bug tag-program tag-project tag-start 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>January 7, 2016</span>

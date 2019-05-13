@@ -26,6 +26,6 @@ title: The Silk Road 2.0 Rises: Defying the FBI
 <p>At the same time, this may be a sign that the Silk Road administration has learned from past mistakes, and intends to move forward with their operations.  In addition, they had apparently put through, what DPR would call, a four-week ‘security overhaul’.</p>
 <p>The future of Silk Road 2.0 has yet to be seen; however, the Dread Pirate Roberts and his associates seem to be brazenly optimistic and defiant, despite their most recent brushes with law enforcement.  Now, they are probably already aware that the FBI will waste no money, minutes, or men to bring the Silk Road saga to a close.  Nevertheless, the Silk Road continues on.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/defying/" rel="tag">defying</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/rises/" rel="tag">rises</a> <a href="https://www.deepdotweb.com/tag/road/" rel="tag">road</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
-Updated2013-11-07</span>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/20/" rel="tag">20</a> <a href="https://www.deepdotweb.com/tag/defying/" rel="tag">defying</a> <a href="https://www.deepdotweb.com/tag/fbi/" rel="tag">fbi</a> <a href="https://www.deepdotweb.com/tag/rises/" rel="tag">rises</a> 
+Updated: 2013-11-07</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">

@@ -1,7 +1,7 @@
 ---
 Strong VPN Review
 ---
-<article class="post-listing post-14061 post type-post status-publish format-standard has-post-thumbnail hentry  tag-review tag-strong tag-vpn">
+<article class="post-listing post-14061 post type-post status-publish format-standard has-post-thumbnail hentry  tag-review tag-vpn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 14, 2016</span>
@@ -96,7 +96,7 @@ Strong VPN Review
     <p>Strong VPN is a great option for a VPN service provider but there’s room for improvement and they have a bit of a way to go to become number one.</p>
     <p><a href="http://strongvpn.com/?offer_id=4&amp;aff_id=2555" target="_blank"><strong>&gt;&gt; Click HERE to Visit the Strong VPN Official Site &lt;&lt;</strong></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/strong/" rel="tag">strong</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-05-14</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2016-05-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

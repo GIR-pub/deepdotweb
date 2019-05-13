@@ -1,7 +1,7 @@
 ---
 Interview: &#8220;Mr. Nice Guy&#8221; Market Admin Tells His Story
 ---
-<article class="post-listing post-10575 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-ddos tag-guy tag-interview tag-market tag-nice tag-post">
+<article class="post-listing post-10575 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-ddos tag-guy tag-interview tag-nice tag-post">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 3, 2015</span>
@@ -114,7 +114,7 @@ Interview: &#8220;Mr. Nice Guy&#8221; Market Admin Tells His Story
     <p>But for ever more against less sophisticated third world countries, so programming it would still be worth while.</p>
     <p>I will shortly open a new forum section for dark net service security, so all peers from all markets are welcome to exchange ideas and info.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/guy/" rel="tag">guy</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/nice/" rel="tag">nice</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a></span> <span style="display:none" class="updated">2015-06-03</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/ddos/" rel="tag">ddos</a> <a href="https://www.deepdotweb.com/tag/guy/" rel="tag">guy</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/nice/" rel="tag">nice</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a></span> <span style="display:none" class="updated">2015-06-03</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

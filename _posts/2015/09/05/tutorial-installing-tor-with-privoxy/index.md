@@ -1,7 +1,7 @@
 ---
 Tutorial: Installing Tor With Privoxy
 ---
-<article class="post-listing post-10263 post type-post status-publish format-standard has-post-thumbnail hentry  tag-installing tag-privoxy tag-tor tag-tutorial">
+<article class="post-listing post-10263 post type-post status-publish format-standard has-post-thumbnail hentry  tag-installing tag-privoxy  tag-tutorial">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/jackmeyer/" title="">Jack Meyer </a></span>
 <span>September 5, 2015</span>
@@ -228,7 +228,7 @@ Tutorial: Installing Tor With Privoxy
 <p>
     Then, you save it, and #leafpad /etc/resolv.conf, delete everything in the file (it&#8217;s about three to five lines in length), and replace it “nameserver 127.0.0.1”, then save it.</p>
 <p>If it were me I would just restart the computer (to see if Tor and Privoxy are both installed and starting during the other init.d daemons.) but you could just restart the services, but you&#8217;re through the process now. To make sure you are safe, check out “<a href="http://www.ipchicken.com/">http://www.ipchicken.com</a>” or “<a href="https://www.whatismyip.com/">https://www.whatismyip.com</a>” and make sure both your current IP Address is masked as well as you&#8217;re ISP&#8217;s DNS is hidden as well. This is an example of a properly configured box:</p>
-<p><a href="/imgs/2015/05/privtor.png"><img class="aligncenter wp-image-10265" src="https://www.deepdotweb.com/wp-content/uploads/2015/05/privtor.png" alt="privtor" width="1058" height="595" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/05/privtor.png 1366w, https://www.deepdotweb.com/wp-content/uploads/2015/05/privtor-300x169.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/05/privtor-1024x576.png 1024w" sizes="(max-width: 1058px) 100vw, 1058px"/></a></p>
+<p><a href="/imgs/2015/05/privtor.png"><img class="aligncenter wp-image-10265" src="/imgs/2015/05/privtor.png" alt="privtor" width="1058" height="595" srcset="/imgs/2015/05/privtor.png 1366w, /imgs/2015/05/privtor-300x169.png 300w, /imgs/2015/05/privtor-1024x576.png 1024w" sizes="(max-width: 1058px) 100vw, 1058px"/></a></p>
 </div>
 <span style="display:none"><a href="https://www.deepdotweb.com/tag/installing/" rel="tag">installing</a> <a href="https://www.deepdotweb.com/tag/privoxy/" rel="tag">privoxy</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-09-05</span>
 <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/jackmeyer/" title="Posts by Jack Meyer" rel="author">Jack Meyer</a></strong></div>

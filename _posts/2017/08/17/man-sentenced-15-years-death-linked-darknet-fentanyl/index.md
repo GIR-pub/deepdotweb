@@ -12,7 +12,7 @@ Man Sentenced To 15 Years over Death Linked To Darknet Fentanyl
     <div class="entry">
     <p>&nbsp;</p>
     <p>A 26-year-old man was sentenced to 15 years in prison by the US District Court for selling fentanyl through the Darknet which resulted in an overdose death.</p>
-    <p><img class="wp-image-22022 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/08/word-image-11.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/08/word-image-11.jpeg 860w, https://www.deepdotweb.com/wp-content/uploads/2017/08/word-image-11-300x169.jpeg 300w" sizes="(max-width: 860px) 100vw, 860px" /></p>
+    <p><img class="wp-image-22022 aligncenter" src="/imgs/2017/08/word-image-11.jpeg" srcset="/imgs/2017/08/word-image-11.jpeg 860w, /imgs/2017/08/word-image-11-300x169.jpeg 300w" sizes="(max-width: 860px) 100vw, 860px" /></p>
     <p>Zachary David Chyle pleaded guilty to a count of conspiracy to possess drugs with the intention to distribute them. He also pleaded guilty to another count of possessing controlled substance leading to death.</p>
     <p>Chyle will pay $7,894 and be under five years supervised release after his years in prison. He will also pay $200 towards the federal crime victim funds.</p>
     <p>The case, according to the court report, <a href="http://www.grandforksherald.com/news/4305867-park-river-man-sentenced-15-years-fentanyl-sale-linked-fatal-overdose">states that</a> Chyle sold fentanyl through the Darknet to the victim, Eugene D. Mecham. Eugene lost his life after dosing the drug more than necessary. The U.S. Attorney’s office confirmed that the drugs originated from a Darknet marketplace.</p>

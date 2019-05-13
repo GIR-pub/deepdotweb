@@ -1,7 +1,7 @@
 ---
 Steroid Trafficker Sentenced for Online Distribution Ring
 ---
-<article class="post-listing post-19448 post type-post status-publish format-standard has-post-thumbnail hentry  tag-distribution tag-online tag-ring tag-sentenced tag-steroid tag-trafficker">
+<article class="post-listing post-19448 post type-post status-publish format-standard has-post-thumbnail hentry  tag-distribution tag-ring tag-sentenced tag-steroid tag-trafficker">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 28, 2017</span>
@@ -15,14 +15,14 @@ Steroid Trafficker Sentenced for Online Distribution Ring
     <p>The operation started in 2011, in Utah, until Schweidler raised enough cash to move to North Carolina. There, he continued the business. Peters followed and served as the main co-conspirator at that time. Schweidler handed more and more responsibility to Peters who then took on Lyne and Miller.</p>
     <p>They initially just worked the finances; the press release clarified:</p>
     <p>“<em>Conspirators required customers to pay for the steroids by using various debit cards. Customers used names and account numbers for these debit cards that were provided by conspirators. Conspirators used stolen identities to produce or obtain debit cards, such as Green Dot MoneyPak, MyVanilla, ReloadIT, NetSpend ReloadIT and BlackHawk. They required their customers to send payments to these cards in order to conceal and disguise the proceeds of the illegal transactions</em>.”</p>
-    <p><img class="wp-image-19453 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image-46.jpeg" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image-46.jpeg 865w, https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image-46-300x225.jpeg 300w" sizes="(max-width: 865px) 100vw, 865px"/></p>
+    <p><img class="wp-image-19453 aligncenter" src="/imgs/2017/04/word-image-46.jpeg" srcset="/imgs/2017/04/word-image-46.jpeg 865w, /imgs/2017/04/word-image-46-300x225.jpeg 300w" sizes="(max-width: 865px) 100vw, 865px"/></p>
     <p>In order to avoid law enforcement, the conspirators moved to Kansas City, Mo. There, they continued the operation. The steroid site grew in popularity at this time and law enforcement discovered that Schweidler personally sent $176,000, or more, to China in exchange for over 60,000 dosages of Testosterone Propionate, Halotestin, and other anabolic Steroids. Some of which came in precursor form as law enforcement found a recipe book when they raided the group.</p>
-    <p><img class="wp-image-19454 alignnone" src="https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image.gif"/> <img class="wp-image-19455" src="https://www.deepdotweb.com/wp-content/uploads/2017/04/word-image-1.gif"/></p>
+    <p><img class="wp-image-19454 alignnone" src="/imgs/2017/04/word-image.gif"/> <img class="wp-image-19455" src="/imgs/2017/04/word-image-1.gif"/></p>
     <p>Schweidler used the U.S. Postal Service station on Barry Road in Kansas City to ship packages to Power Trip customers. Many packages listed a return address for “Hype Electronics &amp; Game Super Store.” Like so many cases of the same sort, the store had nothing to do with the steroids. The USPIS agents credited with investigating the case noticed “Power Trip” vials within these packages.<br/>
     In addition to the four years without parole, Schweidler, according to the announcement, must forfeit property in North Carolina along with $2.25 million as the proceeds of a drug crime.</p>
     <p>Lyne already took a plea deal and received only probation time. The other two still await their <a href="https://www.deepdotweb.com/tag/sentenced/">sentencing hearings</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/steroid/" rel="tag">steroid</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a></span> <span style="display:none" class="updated">2017-04-28</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>  <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/steroid/" rel="tag">steroid</a> <a href="https://www.deepdotweb.com/tag/trafficker/" rel="tag">trafficker</a></span> <span style="display:none" class="updated">2017-04-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

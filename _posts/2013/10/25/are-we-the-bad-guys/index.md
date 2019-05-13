@@ -66,5 +66,5 @@ title: Are we the bad guys?
     
 
 <span style="display:none"><a href="http://www.deepdotweb.com/tag/bad/" rel="tag">bad</a> <a href="http://www.deepdotweb.com/tag/guys/" rel="tag">guys</a></span>				
-Updated2013-10-25
+Updated: 2013-10-25
     

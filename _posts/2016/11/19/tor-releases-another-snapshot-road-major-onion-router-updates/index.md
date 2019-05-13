@@ -1,7 +1,7 @@
 ---
 Tor Releases another Snapshot on the Road to Major Onion Router Updates
 ---
-<article class="post-listing post-16484 post type-post status-publish format-standard has-post-thumbnail hentry  tag-major tag-onion tag-releases tag-road tag-router tag-snapshot tag-tor tag-updates">
+<article class="post-listing post-16484 post type-post status-publish format-standard has-post-thumbnail hentry  tag-major tag-onion tag-releases tag-road tag-router tag-snapshot  tag-updates">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>November 19, 2016</span>

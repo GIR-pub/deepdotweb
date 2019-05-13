@@ -2,7 +2,7 @@
 New Commission-based Ransomware As A Service Available Free On Dark Web
 ---
 <article class="post-listing post-18728 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-commissionbased tag-dark tag-free tag-ransomware tag-service tag-web">
+ tag-commissionbased tag-dark tag-free tag-ransomware tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 21, 2017</span>
@@ -11,7 +11,7 @@ New Commission-based Ransomware As A Service Available Free On Dark Web
 
 
 <p>Recently, researchers have <a href="http://www.ibtimes.co.uk/dark-web-deals-this-new-raas-allows-upcoming-cybercriminals-get-ransomware-free-1610141">uncovered</a> a new ransomware as a service (RaaS), which would allow free access for wannabe hackers.</p>
-<p><img class="wp-image-18734 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/03/dark-web-raas-deal.jpeg" alt="Dark Web RaaS deal" srcset="https://www.deepdotweb.com/wp-content/uploads/2017/03/dark-web-raas-deal.jpeg 400w, https://www.deepdotweb.com/wp-content/uploads/2017/03/dark-web-raas-deal-300x200.jpeg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p><img class="wp-image-18734 aligncenter" src="/imgs/2017/03/dark-web-raas-deal.jpeg" alt="Dark Web RaaS deal" srcset="/imgs/2017/03/dark-web-raas-deal.jpeg 400w, /imgs/2017/03/dark-web-raas-deal-300x200.jpeg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
 <p>The Dot ransomware operates on a commission-based strategy, offering cybercriminals free access to the software while splitting the profits 50/50 on successful attacks. Security researchers claim that the new <a href="https://www.deepdotweb.com/tag/ransomware/">ransomware</a> came out on February 19, and it is available via a .onion website on the Tor network.</p>
 <p>Cybercriminal forums and dark net marketplaces offer a wide selection of malicious software. When ransomware (and malware) became popular among hackers, cybercriminals who wished to use such software to gain profits from innocent victims by locking their computers and demanding money for a decryption code, had to be tech-savvy to commit such crimes. However, as the malicious software evolved, forum members started offering services, such as RaaS, MaaS (Malware as a Service) and DDoS as a Service, which helped even players new to the game to conduct successful attacks. These services allow cybercriminals to purchase malware, ransomware, and <a href="https://www.deepdotweb.com/tag/ddos/">DDoS</a> codes.</p>
 <p>&#8220;This is an easy, no pressure gateway for aspiring affiliates since nothing is invested in obtaining the ransomware. Recent updates to the site show that this RaaS variant has continued to receive support and refinements from the author in order to improve the product,” researchers at cybersecurity company Fortinet said regarding the Dot ransomware.</p>

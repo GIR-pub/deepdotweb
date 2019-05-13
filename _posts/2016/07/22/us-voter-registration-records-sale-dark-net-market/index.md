@@ -1,7 +1,7 @@
 ---
 US Voter Registration Records For Sale On Dark Net Market
 ---
-<article class="post-listing post-14890 post type-post status-publish format-standard hentry category-news tag-dark tag-market tag-net tag-records tag-registration tag-sale tag-voter">
+<article class="post-listing post-14890 post type-post status-publish format-standard hentry category-news tag-dark tag-net tag-records tag-registration tag-sale tag-voter">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 22, 2016</span>
@@ -16,7 +16,7 @@ US Voter Registration Records For Sale On Dark Net Market
     <p>“I’ve been working with journalists and authorities for over a week to get this database shut down or secured. No luck so far,” Vickery said.</p>
     <p>The data seems legit, which means that this is a major problem for the U.S. Election Assistance Commission (EAC) and to the users themselves. Anybody who uses the records could land massive attacks either on the government or to the voters.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/registration/" rel="tag">registration</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a> <a href="https://www.deepdotweb.com/tag/voter/" rel="tag">voter</a></span> <span style="display:none" class="updated">2016-07-22</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/registration/" rel="tag">registration</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a> <a href="https://www.deepdotweb.com/tag/voter/" rel="tag">voter</a></span> <span style="display:none" class="updated">2016-07-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

@@ -1,12 +1,10 @@
 ---
 title: Online competition for black market going strong
 ---
-676 tag-black tag-competition tag-market tag-online tag-strong">
+676
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 21, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/10/21/online-competition-for-black-market-going-strong/#comments">5 Comments</a></span>
 
 
 <p>Within the past few weeks, illegal contraband sales have increased by over 700 percent, depending on the source. After notorious Silk Road was forced to close their doors by the U.S. government earlier this year, the other seven competitors realized an immediate surge in sales.</p>
@@ -19,5 +17,5 @@ title: Online competition for black market going strong
 <p>Considering that over <a href="http://www.who.int/substance_abuse/facts/psychoactives/en/index.html">147 million people worldwide use cannabis</a> every year and over <a href="http://www.pewresearch.org/fact-tank/2013/06/04/a-minority-of-americans-own-guns-but-just-how-many-is-unclear/">310 million guns</a> are owned in our country alone, it is no surprise that this black market trend and fight for market share will continue.</p>
 <p>Why? Because everything illegal is always available. From hacking tools to heroin to handguns, the black market will thrive and there will always be platforms from which purveyors can sell. Opinions vary widely as to which will win out &#8211; politics or commerce?</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/competition/" rel="tag">competition</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/strong/" rel="tag">strong</a></span> 
-Updated2013-10-21
+ 
+Updated: 2013-10-21

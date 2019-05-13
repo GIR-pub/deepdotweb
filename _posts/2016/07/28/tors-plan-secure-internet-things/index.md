@@ -1,7 +1,7 @@
 ---
 Tor’s Plan to Secure the Internet of Things
 ---
-<article class="post-listing post-14936 post type-post status-publish format-standard hentry category-news tag-internet tag-plan tag-secure tag-tors">
+<article class="post-listing post-14936 post type-post status-publish format-standard hentry category-news tag-internet tag-plan tag-secure s">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 28, 2016</span>

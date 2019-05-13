@@ -1,7 +1,7 @@
 ---
 New Tor Security Advisory: &#8220;Relay Early&#8221; Traffic Confirmation Attack
 ---
-<article class="post-listing post-6653 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advisory tag-attack tag-confirmation tag-early tag-relay tag-security tag-tor tag-traffic">
+<article class="post-listing post-6653 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advisory tag-attack tag-confirmation tag-early tag-relay tag-security  tag-traffic">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 30, 2014</span>

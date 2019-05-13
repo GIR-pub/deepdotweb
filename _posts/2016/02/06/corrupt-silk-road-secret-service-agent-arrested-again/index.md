@@ -1,7 +1,7 @@
 ---
 Corrupt Silk Road Secret Service Agent Arrested – Again
 ---
-<article class="post-listing post-13162 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agent tag-corrupt tag-road tag-secret tag-service tag-silk">
+<article class="post-listing post-13162 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agent tag-corrupt tag-road tag-secret tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 6, 2016</span>

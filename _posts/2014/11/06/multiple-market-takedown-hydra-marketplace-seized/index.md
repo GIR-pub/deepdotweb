@@ -1,7 +1,7 @@
 ---
 Multiple Market Takedown: Hydra &#038; Cloud 9 Marketplace Seized
 ---
-<article class="post-listing post-7998 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hydra tag-market tag-marketplace tag-multiple tag-operation-onymous tag-seized tag-silkroad2bust tag-takedown">
+<article class="post-listing post-7998 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hydra tag-marketplace tag-multiple tag-operation-onymous tag-seized tag-silkroad2bust tag-takedown">
     
     <div class="post-inner">
     
@@ -40,7 +40,7 @@ Multiple Market Takedown: Hydra &#038; Cloud 9 Marketplace Seized
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hydra/" rel="tag">hydra</a> <a href="https://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/multiple/" rel="tag">multiple</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a> <a href="https://www.deepdotweb.com/tag/takedown/" rel="tag">takedown</a></span>				<span style="display:none" class="updated">2014-11-06</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/hydra/" rel="tag">hydra</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/multiple/" rel="tag">multiple</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a> <a href="https://www.deepdotweb.com/tag/takedown/" rel="tag">takedown</a></span>				<span style="display:none" class="updated">2014-11-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     
     

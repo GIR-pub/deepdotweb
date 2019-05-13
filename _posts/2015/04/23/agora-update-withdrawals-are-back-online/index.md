@@ -1,7 +1,7 @@
 ---
 Agora Update: Withdrawals Are Back Online
 ---
-<article class="post-listing post-10059 post type-post status-publish format-standard hentry category-news tag-agora tag-online tag-update tag-withdrawals">
+<article class="post-listing post-10059 post type-post status-publish format-standard hentry category-news tag-agora tag-update tag-withdrawals">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 23, 2015</span>
@@ -15,7 +15,7 @@ Agora Update: Withdrawals Are Back Online
     <p><a href="/imgs/2015/04/agg2.png"><img class="aligncenter size-full wp-image-10060" src="https://www.deepdotweb.com/wp-content/uploads/2015/04/agg2.png" alt="agg2" width="1557" height="84" srcset="https://www.deepdotweb.com/wp-content/uploads/2015/04/agg2.png 1557w, https://www.deepdotweb.com/wp-content/uploads/2015/04/agg2-300x16.png 300w, https://www.deepdotweb.com/wp-content/uploads/2015/04/agg2-1024x55.png 1024w" sizes="(max-width: 1557px) 100vw, 1557px"/></a></p>
     <p>We were able to verify that deposit and <span class="market-wide-message">Withdrawals </span>worked fine. but will keep following for further developments.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/withdrawals/" rel="tag">withdrawals</a></span> <span style="display:none" class="updated">2015-04-23</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a>  <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/withdrawals/" rel="tag">withdrawals</a></span> <span style="display:none" class="updated">2015-04-23</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
     </div>
 </article>

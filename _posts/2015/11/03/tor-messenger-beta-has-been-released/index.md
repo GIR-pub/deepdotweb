@@ -1,7 +1,7 @@
 ---
 Tor Messenger Beta Has Been Released
 ---
-<article class="post-listing post-11922 post type-post status-publish format-standard has-post-thumbnail hentry  tag-beta tag-messenger tag-released tag-tor">
+<article class="post-listing post-11922 post type-post status-publish format-standard has-post-thumbnail hentry  tag-beta tag-messenger tag-released 
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>November 3, 2015</span>

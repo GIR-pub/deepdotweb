@@ -11,7 +11,7 @@ US Fentanyl Vendor Gets Busted On Handwriting
     <div class="clear"></div>
     <div class="entry">
     <p>US law enforcement authorities <a href="http://www.cincinnati.com/story/news/2017/06/12/two-arrested/388713001/">arrested</a> a couple in Norwood, the United States, for selling fentanyl on the dark web.</p>
-    <p><a id="post-20967-_gjdgxs"></a> <img class="wp-image-20980 aligncenter" src="https://www.deepdotweb.com/wp-content/uploads/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-6363.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\636313840237322881-Faux-Fentynal-lethal-dose-005.jpg" /></p>
+    <p><a id="post-20967-_gjdgxs"></a> <img class="wp-image-20980 aligncenter" src="/imgs/2017/06/c-users-dzsuvax-desktop-twerk-deepdotweb-img-6363.jpeg" alt="C:\Users\dzsuvax\Desktop\twerk\deepdotweb\img\636313840237322881-Faux-Fentynal-lethal-dose-005.jpg" /></p>
     <p>The 30-year-old James Halpin and the 38-year-old Grace Bosworth were detained in the course of a multi-agency investigation on June 7. According to the court documents, the couple offered <a href="https://www.deepdotweb.com/tag/fentanyl">fentanyl</a> to darknet customers, with a next-day shipping service, which they have charged $35.</p>
     <p>Federal agents reported on June 12 that both of the defendants are waiting for their court appearances. Both Halpin and Bosworth are accused of smuggling, importing and distributing drugs.</p>
     <p>In late May, with the approval from the U.S. Attorney’s Office in Cleveland, multiple law enforcement agencies started making undercover purchases from fentanyl vendors on darknet marketplaces. The current suspects were busted using the same law enforcement technique.</p>

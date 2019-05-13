@@ -1,7 +1,7 @@
 ---
 Mozilla Vows to Keep up the Fight for Online Rights
 ---
-<article class="post-listing post-16924 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fight tag-mozilla tag-online tag-rights tag-vows">
+<article class="post-listing post-16924 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fight tag-mozilla tag-rights tag-vows">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>December 14, 2016</span>
@@ -19,7 +19,7 @@ Mozilla Vows to Keep up the Fight for Online Rights
     <p>From fighting court battles and lobbying for the little man, to actively finding and patching security flaws and exploits, Mozilla wants you to know they have your back. While it’s not Mozilla per se, that is under attack or a target of the government; The Tor Project and Tor Browser however, are. Security flaws in Firefox most certainly spell security flaws in Tor as well. <a href="https://www.deepdotweb.com/2016/10/24/tor-mozilla-working-together-protection-malware/">Since October we have heard Mozilla and Tor</a> have been working together to find, and fix security flaws, exploits, as well as develop ways of protecting users against Malware attacks.</p>
     <p>The most famous of cases has to be the <a href="https://www.deepdotweb.com/2016/05/03/fbi-ignoring-courts-order-reveal-browser-hack/">FBI’s takeover of Playpen using a Firefox exploit to target, and unmask Tor users</a>. When questioned about how exactly it was done, the FBI was very, very hesitant to give up any information at all. Mozilla once again went to bat for the little man, and tried to make the FBI give up the information on how exactly it all went down. After a lengthy court battle, the verdict decisions were both ways. Some judges were ruling for the FBI, some weren’t. When you think of online privacy fighters, Mozilla should be first, or in the very least second, only to organizations such as the EFF and The Tor Project.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/mozilla/" rel="tag">mozilla</a> <a href="https://www.deepdotweb.com/tag/online/" rel="tag">online</a> <a href="https://www.deepdotweb.com/tag/rights/" rel="tag">rights</a> <a href="https://www.deepdotweb.com/tag/vows/" rel="tag">vows</a></span> <span style="display:none" class="updated">2016-12-14</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fight/" rel="tag">fight</a> <a href="https://www.deepdotweb.com/tag/mozilla/" rel="tag">mozilla</a>  <a href="https://www.deepdotweb.com/tag/rights/" rel="tag">rights</a> <a href="https://www.deepdotweb.com/tag/vows/" rel="tag">vows</a></span> <span style="display:none" class="updated">2016-12-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>
