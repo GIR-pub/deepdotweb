@@ -1,7 +1,7 @@
 ---
-title: DPR Art?
+title: "DPR Art?"
 ---
-555
+
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 18, 2013</span>
@@ -16,7 +16,6 @@ title: DPR Art?
 <p><a href="/imgs/2013/10/FLOW.jpg"><img class="aligncenter size-full wp-image-560" alt="FLOW" src="/imgs/2013/10/FLOW.jpg" width="640" height="410" srcset="/imgs/2013/10/FLOW.jpg 640w, /imgs/2013/10/FLOW-300x192.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
 <p><a href="/imgs/2013/10/FOCUSED-DREAMING.jpg"><img class="aligncenter size-full wp-image-561" alt="FOCUSED-DREAMING" src="/imgs/2013/10/FOCUSED-DREAMING.jpg" width="640" height="410" srcset="/imgs/2013/10/FOCUSED-DREAMING.jpg 640w, /imgs/2013/10/FOCUSED-DREAMING-300x192.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a> <a href="/imgs/2013/10/NATURAL-BEAUTY.jpg"><img class="aligncenter size-full wp-image-562" alt="NATURAL-BEAUTY" src="/imgs/2013/10/NATURAL-BEAUTY.jpg" width="640" height="410" srcset="/imgs/2013/10/NATURAL-BEAUTY.jpg 640w, /imgs/2013/10/NATURAL-BEAUTY-300x192.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
 <p><a href="/imgs/2013/10/SHAMAN.jpg"><img class="aligncenter size-full wp-image-563" alt="SHAMAN" src="/imgs/2013/10/SHAMAN.jpg" width="390" height="640" srcset="/imgs/2013/10/SHAMAN.jpg 390w, /imgs/2013/10/SHAMAN-183x300.jpg 183w" sizes="(max-width: 390px) 100vw, 390px" /></a></p>
-</div>
 
 
 Updated: 2013-10-18

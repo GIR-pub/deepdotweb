@@ -21,7 +21,7 @@ Ethiopian Smuggling Ring Busted In Italy
     <p>“The biggest problem is the so-called lifestyle area, which includes anabolic steroids, hair growth means, potency or slimming products. This area accounts for 95 percent of our cases. ‘Beautiful, harder, slimmer’ is the motto “, says Christian Schüttenkopf, press officer of the General Directorate.</p>
     <p>The biggest counterfeit pill producers in Asia is China, India, and Bangladesh. According to investigator Peter W., five of 10 parcels containing counterfeit drugs gets intercepted by German customs.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/ethiopian/" rel="tag">ethiopian</a> <a href="https://www.deepdotweb.com/tag/italy/" rel="tag">italy</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/smuggling/" rel="tag">smuggling</a></span> <span style="display:none" class="updated">2016-12-01</span>
+    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/ethiopian/" rel="tag">ethiopian</a> <a href="https://www.deepdotweb.com/tag/italy/" rel="tag">italy</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/smuggling/" rel="tag">smuggling</a></span> <span style="display:none" class="updated">2016-12-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

@@ -1,12 +1,9 @@
 ---
-title: The Silk Road Saga: Who is “The Employee”? – Part II
+title: "The Silk Road Saga: Who is “The Employee”? – Part II"
 ---
-1236  tag-ii  
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/keving/" title="">Kevin H. Danielsen </a></span>
 <span>November 8, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/11/08/the-silk-road-saga-who-is-the-employee-part-ii/#comments">1 Comment</a></span>
 
 
 <p>While the first Silk Road was still in operation, its illicit dealings brought about more crime than just the sale of drugs.  In fact, on one occasion, the leader of Silk Road, Dread Pirate Roberts, paid for the torturing and assassination of one of their own –“The Employee”.  In the first part of this series, the usernames of this individual were believed to have been ‘chronicpain’ and ‘flush’.  Not only does the timing of their original registration and last posts correlate with the staged capture and assassination of ‘The Employee’, but also, both chronicpain and flush had many of the same interests, backgrounds, and even writing styles.</p>
@@ -21,9 +18,5 @@ title: The Silk Road Saga: Who is “The Employee”? – Part II
 <p>“Are you talking about a reshipping service or starting up a UPS/Fedex/USPS type business? It would take a hell of a lot more than a couple vans, you would have to have vans in every state. Look as usps, they lose money every year. I used to own a transportation company and as part of it would deliver lost luggage for airlines. I had 10 vehicles and that was for one smaller type metro type area.”</p>
 <p><a href="http://www.deepdotweb.com/2013/11/08/now-its-official-curtis-clark-green-is-flush-chronicpain/" target="_blank">Green has now pleaded guilty</a> on Wednesday for attempting to distribute cocaine, and faces up to 40 years in prison –which is arguably better than the death sentence that his former boss tried to give him.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/employee/" rel="tag">employee</a> <a href="https://www.deepdotweb.com/tag/ii/" rel="tag">ii</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a>  <a href="https://www.deepdotweb.com/tag/saga/" rel="tag">saga</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a>
 
-Updated: 2013-11-08<a href="https://www.deepdotweb.com/author/keving/" title="Posts by Kevin H. Danielsen" rel="author">Kevin H. Danielsen</a></strong></div>
-</div>
-</article>
-
+Updated: 2013-11-08

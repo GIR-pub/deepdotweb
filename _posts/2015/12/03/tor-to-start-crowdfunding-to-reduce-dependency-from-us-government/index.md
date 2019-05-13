@@ -31,7 +31,7 @@ Did Tor Start Crowdfunding To Reduce US Government Funding?
     
     
 </div><!-- .entry /-->
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/crowdfunding/" rel="tag">crowdfunding</a> <a href="https://www.deepdotweb.com/tag/dependency/" rel="tag">dependency</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/reduce/" rel="tag">reduce</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span>				<span style="display:none" class="updated">2015-12-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/crowdfunding/" rel="tag">crowdfunding</a> <a href="https://www.deepdotweb.com/tag/dependency/" rel="tag">dependency</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/reduce/" rel="tag">reduce</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a> </span>				<span style="display:none" class="updated">2015-12-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     
 </div><!-- .post-inner -->

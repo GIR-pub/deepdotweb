@@ -25,7 +25,7 @@ FBI wages war on pedophiles using Tor
     <p>Those arrested as a result of <a href="http://www.ibtimes.co.uk/fbi-crack-tor-catch-1500-visitors-biggest-child-pornography-website-dark-web-1536417">the FBI’s operation</a> ranged from Connecticut, Massachusetts, Illinois, New York, New Jersey, Florida, Utah, as well as Wisconsin. “1500 or so of these cases are going to end up getting filed out of the same, underlying investigation&#8221;-Colin Fieman, Federal public defender for The Western District of Washington who is handling several of these cases.</p>
     <p>&#8220;There will probably be an escalating stream of these in the next 6 months or so. There is going to be a lot in the pipeline.&#8221;</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/pedophiles/" rel="tag">pedophiles</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/wages/" rel="tag">wages</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2016-02-26</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/pedophiles/" rel="tag">pedophiles</a>  <a href="https://www.deepdotweb.com/tag/wages/" rel="tag">wages</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2016-02-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

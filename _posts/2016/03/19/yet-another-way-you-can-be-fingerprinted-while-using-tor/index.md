@@ -26,7 +26,7 @@ Yet Another Way You Can Be Fingerprinted While Using Tor
     <p>He even stated that this method was better than fingerprinting users using the canvas.</p>
     <p>In an online chat with <a href="https://motherboard.vice.com/read/how-you-move-your-mouse-could-help-others-track-youeven-on-tor">Motherboard</a>, Norte said that “Every user moves the mouse in a unique way”, where he then went on to say “The only solution is to deactivate Javascript completely, As long as there’s Javascript, they’ll be able to fingerprint you, one way or the other.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fingerprinted/" rel="tag">fingerprinted</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2016-03-19</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/fingerprinted/" rel="tag">fingerprinted</a> </span> <span style="display:none" class="updated">2016-03-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/fuzzy/" title="Posts by Fuzzy" rel="author">Fuzzy</a></strong></div>
     </div>
 </article>

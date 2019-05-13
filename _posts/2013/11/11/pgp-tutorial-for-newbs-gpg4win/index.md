@@ -1,15 +1,10 @@
 ---
 title: PGP Tutorial For Newbs (Gpg4Win)
 ---
-1289  tag-gpg4win tag-newbs tag-pgp tag-tutorial">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 11, 2013</span>
 
-<span><a href="https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/#comments">166 Comments</a></span>
-
-
-<div>
 <div>
 <p> <em>Tutorial for </em>Gpg4Win using Kleopatra can <a href="http://www.deepdotweb.com/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">be found here</a>.</p>
 <p>We found a great tutorial posted on reddit today about how to stay safe and use PGP.</p>
@@ -66,8 +61,6 @@ title: PGP Tutorial For Newbs (Gpg4Win)
 <p>=====</p>
 <p>Hope this helps.</p>
 </div>
-</div>
-</div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/gpg4win/" rel="tag">gpg4win</a> <a href="https://www.deepdotweb.com/tag/newbs/" rel="tag">newbs</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a>
+
 
 Updated: 2013-11-11

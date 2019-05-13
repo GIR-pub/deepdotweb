@@ -1,12 +1,9 @@
 ---
-title: Silk Road 2.0 Is now open For Business
+title: "Silk Road 2.0 Is now open For Business"
 ---
-1328 tag-business tag-open 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 13, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/11/13/silk-road-2-0-is-now-open-for-business/#respond">Leave a comment</a></span>
 
 
 <p>Today the new so called Dread Pirate Roberts released a public statement announcing the &#8220;Take Off&#8221; of the new silk road &#8211; mentioning some of the new enabled features and the ones that should come in next:</p>
@@ -39,11 +36,5 @@ title: Silk Road 2.0 Is now open For Business
 <p>&nbsp;</p>
 <p>As far as we see it &#8211; it would be HIGHLY advisable not to jump into the water but wait until some real feedback will start to roll in.</p>
 </div>
-</div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</div>
- <a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> 
 
 Updated: 2013-11-13

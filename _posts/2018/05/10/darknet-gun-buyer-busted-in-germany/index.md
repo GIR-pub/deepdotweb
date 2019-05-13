@@ -21,7 +21,7 @@ Darknet Gun Buyer Busted in Germany
 <p>picked it up. The buyer eventually agreed to meet undercover officers for the exchange. They arrested him at the meeting spot and secured search warrants for his apartment and locker at his place of employment. Investigators found five illegal weapons at his apartment and an illegally kept pistol at his workplace. He had 25 rounds of ammunition in his locker at work and thousands of rounds of ammunition at his apartment. He also had six legally owned weapons.</p>
 <p>He has been arrested and is currently awaiting a courtroom appearance for weapons law violations.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a></span> <span style="display:none" class="updated">2018-05-10<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"> <a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a></span> <span style="display:none" class="updated">2018-05-10<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

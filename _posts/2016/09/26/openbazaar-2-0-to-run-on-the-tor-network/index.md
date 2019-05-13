@@ -21,7 +21,7 @@ OpenBazaar 2.0 To Run On The Tor Network
     <p>OpenBazaar (Github: <a href="https://github.com/OpenBazaar/OpenBazaar">https://github.com/OpenBazaar/openbazaar-go</a>) is a spin-off of the Dark Market that is supported by the official Dark Market team going so far as to allow an OpenBazaar section on their online forums. OpenBazaar utilises Bitcoin and Cryptography to compete with the likes of eBay, enabling pure Peer-Peer transactions without a middle manipulating the entire scheme for their benefit.</p>
     <p>Tor support has the potential to widen OpenBazaar’s userbase and add a new variable to the darknet market playing field.</p>
     </div>
-     <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/openbazaar/" rel="tag">openbazaar</a> <a href="https://www.deepdotweb.com/tag/run/" rel="tag">run</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2016-09-26</span>
+     <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/openbazaar/" rel="tag">openbazaar</a> <a href="https://www.deepdotweb.com/tag/run/" rel="tag">run</a> </span> <span style="display:none" class="updated">2016-09-26</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

@@ -19,7 +19,7 @@ Tor Project To Start Bug Bounty Program
     <p>HackerOne is a platform for connecting tech researchers, who discover vulnerabilities, bugs and other issues, and the companies affected by them. HackerOne raised $25 million in private funding in 2015.</p>
     <p>According to Mike Perry, lead developer of the Tor Browser, the bug bounty program will start out as invite only.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bounty/" rel="tag">bounty</a> <a href="https://www.deepdotweb.com/tag/bug/" rel="tag">bug</a> <a href="https://www.deepdotweb.com/tag/program/" rel="tag">program</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2016-01-07</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bounty/" rel="tag">bounty</a> <a href="https://www.deepdotweb.com/tag/bug/" rel="tag">bug</a> <a href="https://www.deepdotweb.com/tag/program/" rel="tag">program</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a> </span> <span style="display:none" class="updated">2016-01-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

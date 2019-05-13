@@ -19,7 +19,7 @@ VPN with Tor
     <p>If the reason why you want to use a VPN and still connect to the deep web with Tor is so that you have an IP address that isn’t associated with Tor or one from a specific country then what you are looking for are SOCKS5 proxies. You will want to find someone who can provide you with reliable SOCKS and then read a guide on how to use them with Tor.</p>
     <p>A list Of good VPN&#8217;s you might want to use &amp; things you should consider when choosing your VPN provide can be <a href="http://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/">found here</a>.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2014-07-21</span>
+    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2014-07-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/chris/" title="Posts by Chris" rel="author">Chris</a></strong></div>
     </div>
 </article>

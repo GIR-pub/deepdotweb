@@ -19,7 +19,7 @@ Possible Upcoming Attempts to Disable The Tor Network
     <p>The Tor network provides online anonymity and privacy that allow freedom for everyone. Like freedom of speech, online privacy is a right for all.</p></blockquote>
     <p>There are some speculation regarding the reason for this move, but the real reason is not fully clear yet, so we will be following and updating as more info becomes available.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/attempts/" rel="tag">attempts</a> <a href="https://www.deepdotweb.com/tag/disable/" rel="tag">disable</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/upcoming/" rel="tag">upcoming</a></span> <span style="display:none" class="updated">2014-12-20</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/attempts/" rel="tag">attempts</a> <a href="https://www.deepdotweb.com/tag/disable/" rel="tag">disable</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a>  <a href="https://www.deepdotweb.com/tag/upcoming/" rel="tag">upcoming</a></span> <span style="display:none" class="updated">2014-12-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

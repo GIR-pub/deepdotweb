@@ -29,7 +29,7 @@ Belgian Sentenced To Community Service For Ordering Weapons Of War
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/belgian/" rel="tag">belgian</a> <a href="https://www.deepdotweb.com/tag/community/" rel="tag">community</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/service/" rel="tag">service</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span>				<span style="display:none" class="updated">2016-11-01</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/belgian/" rel="tag">belgian</a> <a href="https://www.deepdotweb.com/tag/community/" rel="tag">community</a> <a href="https://www.deepdotweb.com/tag/ordering/" rel="tag">ordering</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span>				<span style="display:none" class="updated">2016-11-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     

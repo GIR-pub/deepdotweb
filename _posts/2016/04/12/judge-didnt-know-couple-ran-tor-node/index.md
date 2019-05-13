@@ -21,7 +21,7 @@ Judge didn’t know couple ran Tor node
     <p>“I believe one or more people or computers located at they’re address violated laws against child pornography,” Detective Daljit Gill wrote.</p>
     <p>Knowing that, moving in, it doesn’t automatically preclude the idea that the people running Tor are not also involved in child porn,” SPD spokesperson Sean Whitcomb told NPR. “It does offer a plausible alibi, but it’s still something that we need to check out.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/node/" rel="tag">node</a> <a href="https://www.deepdotweb.com/tag/ran/" rel="tag">ran</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2016-04-12</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/node/" rel="tag">node</a> <a href="https://www.deepdotweb.com/tag/ran/" rel="tag">ran</a> </span> <span style="display:none" class="updated">2016-04-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

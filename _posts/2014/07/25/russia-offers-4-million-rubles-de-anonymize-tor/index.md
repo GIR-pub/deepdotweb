@@ -22,7 +22,7 @@ Russia Offers 4 Million Rubles (~$100K) To De-Anonymize Tor
     <p>A talk titled &#8216;You don’t have to be the NSA to Break Tor: De-Anonymizing Users on a Budget,&#8217; which was to be presented at the reputable Black Hat hacker conference in August, was pulled without explanation earlier this week.</p></blockquote>
     <p>Article Source: http://rt.com/news/175408-russia-internet-tor-service/</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/deanonymize/" rel="tag">deanonymize</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/offers/" rel="tag">offers</a> <a href="https://www.deepdotweb.com/tag/rubles/" rel="tag">rubles</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2014-07-25</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/deanonymize/" rel="tag">deanonymize</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/offers/" rel="tag">offers</a> <a href="https://www.deepdotweb.com/tag/rubles/" rel="tag">rubles</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a> </span> <span style="display:none" class="updated">2014-07-25</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
     </div>
 </article>

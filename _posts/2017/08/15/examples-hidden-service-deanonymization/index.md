@@ -47,7 +47,7 @@ Examples Of Hidden Service Deanonymization
     <p>UnhandledException concluded:</p>
     <p><em>“Most of the people probably don&#8217;t understand that risks are REAL when running an illegal service. Do not announce your shit if you are still not ready to announce it. As we have seen we could be able to find hosting providers, VPS numbers and even ip addresses of some illegal websites. These info are enough for LE to start an inquiry on you. You should always use multiple levels of proxy like VPN, virtualized environments with a safe connection and encryption. Be sure to update your stuff constantly and move your server from time to time.”</em></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/deanonymization/" rel="tag">deanonymization</a> <a href="https://www.deepdotweb.com/tag/examples/" rel="tag">examples</a> <a href="https://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="https://www.deepdotweb.com/tag/service/" rel="tag">service</a></span> <span style="display:none" class="updated">2017-08-15</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/deanonymization/" rel="tag">deanonymization</a> <a href="https://www.deepdotweb.com/tag/examples/" rel="tag">examples</a>  <a href="https://www.deepdotweb.com/tag/service/" rel="tag">service</a></span> <span style="display:none" class="updated">2017-08-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     </div>
 </article>

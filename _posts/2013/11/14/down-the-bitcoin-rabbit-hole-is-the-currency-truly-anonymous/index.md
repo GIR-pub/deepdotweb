@@ -1,5 +1,5 @@
 ---
-title: Down the Bitcoin Rabbit Hole: Is the Currency Truly Anonymous?
+title: "Down the Bitcoin Rabbit Hole: Is the Currency Truly Anonymous?"
 ---
 1344  tag-anonymous tag-bitcoin tag-currency tag-hole tag-rabbit">
 

@@ -1,12 +1,10 @@
 ---
 title: Good Idea, the Next Freedom Hosting, Or&#8230;? You decide.
 ---
-1241  tag-decide tag-freedom tag-good tag-hosting tag-idea">
+
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 8, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/11/08/good-idea-the-next-freedom-hosting-or-you-decide/#respond">Leave a comment</a></span>
 
 
 <p><strong>Posted on reddit not long ago:   http://www.reddit.com/r/DarkNetMarkets/comments/1q61bp/bad_wolf_marketplace_customizable_vendor_stores/</strong></p>
@@ -67,7 +65,5 @@ title: Good Idea, the Next Freedom Hosting, Or&#8230;? You decide.
     &#8212;&#8211;END PGP SIGNATURE&#8212;&#8211;</p>
 </div>
 </div>
-</div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/decide/" rel="tag">decide</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/good/" rel="tag">good</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/idea/" rel="tag">idea</a>
 
 Updated: 2013-11-08

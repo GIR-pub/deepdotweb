@@ -27,7 +27,7 @@ Protesters Are Calling for a Tor Blackout on September 1st
     <p>They are also demanding that an annual report be published, containing a current list of staff and volunteers to the project. They also want each member’s background to be published as well.</p>
     <p>“We know from IRC logs that Tor Project staff knew of a CIA hire on at least one occasion and kept it a secret,” the protesters said.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/1st/" rel="tag">1st</a> <a href="https://www.deepdotweb.com/tag/blackout/" rel="tag">blackout</a> <a href="https://www.deepdotweb.com/tag/calling/" rel="tag">calling</a> <a href="https://www.deepdotweb.com/tag/protesters/" rel="tag">protesters</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2016-08-24</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/1st/" rel="tag">1st</a> <a href="https://www.deepdotweb.com/tag/blackout/" rel="tag">blackout</a> <a href="https://www.deepdotweb.com/tag/calling/" rel="tag">calling</a> <a href="https://www.deepdotweb.com/tag/protesters/" rel="tag">protesters</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> </span> <span style="display:none" class="updated">2016-08-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/americanguerrilla/" title="Posts by American Guerrilla" rel="author">American Guerrilla</a></strong></div>
     </div>
 </article>

@@ -33,7 +33,7 @@ Torcoin: New Altcoin Hopes To Incentivize People Into Running Tor Relays
     <blockquote><p>What reason do people have to buy Dogecoin? Not much, beyond using it as a currency or speculating with it as an investment. I could see TorCoin working the same way</p></blockquote>
     <p>Said Richardson. <span style="color: #000000;">It&#8217;s a great idea on paper, and offering incentives to relay operators seems like a reasonable solution to the lack of Tor relays. It really comes down to whether the technology can withstand collusion while retaining anonymity, attract enough participation, and maintain a high enough value to successfully be exchanged for alternative currencies – questions that can truly be tested only in a live environment.</span></p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/torcoin/" rel="tag">torcoin</a></span> <span style="display:none" class="updated">2014-06-18</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a>  <a href="https://www.deepdotweb.com/tag/torcoin/" rel="tag">torcoin</a></span> <span style="display:none" class="updated">2014-06-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
     </div>
 </article>

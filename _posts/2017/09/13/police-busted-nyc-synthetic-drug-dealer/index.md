@@ -27,7 +27,7 @@ Police Busted NYC Synthetic Drug Dealer
     <p>With all the evidence gathered, law enforcement raided Parker’s apartment on August 26. As he is facing multiple federal charges, if found guilty, he could face several years of imprisonment.</p>
     <p>“It’s about time,” Mr. Caison said after Parker’s arrest. “I wish he’d just come see me. He’s selling drugs to kids.”</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a>   <a href="https://www.deepdotweb.com/tag/nyc/" rel="tag">nyc</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/synthetic/" rel="tag">synthetic</a></span> <span style="display:none" class="updated">2017-09-13</span>
+    <span style="display:none">   <a href="https://www.deepdotweb.com/tag/nyc/" rel="tag">nyc</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/synthetic/" rel="tag">synthetic</a></span> <span style="display:none" class="updated">2017-09-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>

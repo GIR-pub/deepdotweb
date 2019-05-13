@@ -78,7 +78,7 @@ Netsukuku and GNUnet: Viable Tor Alternatives?
     <div class="wp-socializer-clearer"></div></div>
     
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alternatives/" rel="tag">alternatives</a> <a href="https://www.deepdotweb.com/tag/gnunet/" rel="tag">gnunet</a> <a href="https://www.deepdotweb.com/tag/netsukuku/" rel="tag">netsukuku</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2016-08-14</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/alternatives/" rel="tag">alternatives</a> <a href="https://www.deepdotweb.com/tag/gnunet/" rel="tag">gnunet</a> <a href="https://www.deepdotweb.com/tag/netsukuku/" rel="tag">netsukuku</a> </span> <span style="display:none" class="updated">2016-08-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/ciphas/" title="Posts by Ciphas" rel="author">Ciphas</a></strong></div>
     </div>
 </article>

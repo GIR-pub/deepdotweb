@@ -32,7 +32,7 @@ ROUTING ALL TRAFFIC THROUGH TOR: PRO AND CONS
     <p>Whonix can be integrated with <a href="https://www.deepdotweb.com/2016/03/12/does-qube-os-has-a-leak-hole/">Qubes OS</a> to make you work in a high-privacy environment but it can cooperate also with Linux, Windows and OS X.</p>
     <p>To conclude, let me say that there are tools out there that promise you to help you route all your traffic through Tor. Built-in tools like these (often developed for Windows systems) ARE NOT RELIABLE, the only trustworthy existing system that allows you to do such a thing is Whonix inside Qubes.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cons/" rel="tag">cons</a> <a href="https://www.deepdotweb.com/tag/pro/" rel="tag">pro</a> <a href="https://www.deepdotweb.com/tag/routing/" rel="tag">routing</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> <span style="display:none" class="updated">2017-07-20</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cons/" rel="tag">cons</a> <a href="https://www.deepdotweb.com/tag/pro/" rel="tag">pro</a> <a href="https://www.deepdotweb.com/tag/routing/" rel="tag">routing</a>  <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> <span style="display:none" class="updated">2017-07-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/theinnocent/" title="Posts by TheInnocent" rel="author">TheInnocent</a></strong></div>
     </div>
 </article>

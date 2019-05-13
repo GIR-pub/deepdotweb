@@ -40,6 +40,6 @@ title: Silk Road Administrator &#8220;Inigo&#8221; Busted?!
 <p><a href="/imgs/2013/12/googleyed1.jpg"><img class="aligncenter  wp-image-2552" alt="googleyed1" src="/imgs/2013/12/googleyed1.jpg" width="683" height="198" srcset="/imgs/2013/12/googleyed1.jpg 1218w, /imgs/2013/12/googleyed1-300x87.jpg 300w, /imgs/2013/12/googleyed1-1024x298.jpg 1024w" sizes="(max-width: 683px) 100vw, 683px" /></a></p>
 <p>Keep yourself updated at the discussion thread on Silk road forums: http://silkroad5v7dywlc.onion/index.php?topic=10153.0</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/administrator/" rel="tag">administrator</a> <a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/inigo/" rel="tag">inigo</a> 
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/administrator/" rel="tag">administrator</a>  <a href="https://www.deepdotweb.com/tag/inigo/" rel="tag">inigo</a> 
 
 Updated: 2013-12-20

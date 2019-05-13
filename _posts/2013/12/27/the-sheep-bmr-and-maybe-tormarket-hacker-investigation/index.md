@@ -272,6 +272,6 @@ title: The Sheep, BMR (And Maybe Tormarket) Hacker Reddit Investigation
 <p>Related Pastebin: http://pastebin.com/Zmx5D5R6</p>
 <p>We will keep following this and report if there will be any interesting developments.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/reddit/" rel="tag">reddit</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/tormarket/" rel="tag">tormarket</a>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/hacker/" rel="tag">hacker</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a><a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a> <a href="https://www.deepdotweb.com/tag/tormarket/" rel="tag">tormarket</a>
 
 Updated: 2013-12-27

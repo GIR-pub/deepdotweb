@@ -1,12 +1,9 @@
 ---
 title: Darknet Distrust: The Reaction To SR 2.0 In Competing Marketplaces?
 ---
-1284 tag-competing tag-darknet tag-distrust tag-marketplaces tag-reaction tag-sr">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 11, 2013</span>
-
-<span><a href="https://www.deepdotweb.com/2013/11/11/darknet-distrust-the-reaction-to-sr-2-0-in-competing-marketplaces/#comments">2 Comments</a></span>
 
 
 <p>Since the October takedown of the first Silk Road, the illicit sector of the Tor network has been scrambling to cope with the recent changes in darknet superpowers.  Like a child blowing on an anthill, the feds seemed to have whipped the community into a fearful frenzy.  Causing even more anxiety is the focused, scorching magnifying glass on a few, as several high-profile members of these communities are facing stiff sentences in recent busts.  However, with the rise of the new contraband eBay-like titan, Silk Road –the sequel, it seems as if it’s back to business as usual.  Somewhat.</p>
@@ -27,6 +24,5 @@ title: Darknet Distrust: The Reaction To SR 2.0 In Competing Marketplaces?
 <p>“It actually reeks of LE. If you had been a admin on a billion dollar drug website that had been busted from the inside and you had been lucky enough not to get arrested would you be looking to start up a new marketplace within a month? I would have ran as fast as possible and not looked back.  I loved the original SR but to me its dead. I hope people think before making any mistakes that could see them in a cell for years.”</p>
 <p>Putting it mildly, it appears as if Silk Road 2.0 has to rebuild trust with the community if it ever hopes to rise to the renowned status of its predecessor.  With so many on the darknet, who even suspect that Silk Road 2.0 is a grandiose ‘sting’ operation from law enforcement, the sequel has a long road ahead.  Pun fully intended.</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/competing/" rel="tag">competing</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/distrust/" rel="tag">distrust</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/reaction/" rel="tag">reaction</a> <a href="https://www.deepdotweb.com/tag/sr/" rel="tag">sr</a>
 
 Updated: 2013-11-11

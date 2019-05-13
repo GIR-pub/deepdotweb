@@ -1,5 +1,5 @@
 ---
-title: A Published Chapter From The Book &#8220;Drugs 2.0&#8221; On Gwern
+title: "A Published Chapter From The Book &#8220;Drugs 2.0&#8221; On Gwern"
 ---
 590
 

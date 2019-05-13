@@ -26,7 +26,7 @@ Tor Update Supports v3 Onion Services
 <p>One can recognize the new onion service addresses by the length of the address: 56 characters. They are noticeably longer than v2 onion service addresses. One current example is <a href="https://www.deepdotweb.com/2015/08/03/which-secure-email-provider-is-the-one-for-you/">Riseup’s</a> v3 onion address: http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd[dot]onion.</p>
 <p>Instructions on setting up a prop224 service can be found on the Tor Blog.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/supports/" rel="tag">supports</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/v3/" rel="tag">v3</a></span> <span style="display:none" class="updated">2017-10-14<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/supports/" rel="tag">supports</a>  <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/v3/" rel="tag">v3</a></span> <span style="display:none" class="updated">2017-10-14<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
 </div>
 </article>
 

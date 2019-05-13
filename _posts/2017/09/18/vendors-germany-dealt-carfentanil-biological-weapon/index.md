@@ -34,7 +34,7 @@ Vendors in Germany Dealt with Carfentanil and a Biological Weapon
     
     
     </div><!-- .entry /-->
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/biological/" rel="tag">biological</a> <a href="https://www.deepdotweb.com/tag/carfentanil/" rel="tag">carfentanil</a> <a href="https://www.deepdotweb.com/tag/dealt/" rel="tag">dealt</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a> <a href="https://www.deepdotweb.com/tag/weapon/" rel="tag">weapon</a></span>				<span style="display:none" class="updated">2017-09-18</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/biological/" rel="tag">biological</a> <a href="https://www.deepdotweb.com/tag/carfentanil/" rel="tag">carfentanil</a> <a href="https://www.deepdotweb.com/tag/dealt/" rel="tag">dealt</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a> </span>				<span style="display:none" class="updated">2017-09-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

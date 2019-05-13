@@ -34,7 +34,7 @@ tag-browser tag-fingerprinting tag-immune
 <p>Web Storage:</p>
 <p>Some of Tor browser users turn off HTTP cookies, yet they are turned on by default. As such, this operation can be a form of a fingerprint.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/fingerprinting/" rel="tag">fingerprinting</a> <a href="https://www.deepdotweb.com/tag/immune/" rel="tag">immune</a> <a href="https://www.deepdotweb.com/tag/tor/" rel="tag">tor</a></span> <span style="display:none" class="updated">2017-10-25<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/browser/" rel="tag">browser</a> <a href="https://www.deepdotweb.com/tag/fingerprinting/" rel="tag">fingerprinting</a> <a href="https://www.deepdotweb.com/tag/immune/" rel="tag">immune</a> </span> <span style="display:none" class="updated">2017-10-25<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
 </div>
 </article>
 

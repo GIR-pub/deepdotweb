@@ -29,7 +29,7 @@ US Fentanyl Vendor Gets Busted On Handwriting
     <p>According to the investigators, the duo was advertising 98 percent pure fentanyl on the dark web and had conducted 140 sales since last July.</p>
     <p>&#8220;This case underscores that our state is being inundated with large amounts of deadly drugs. We will continue to aggressively prosecute drug traffickers while working to prevent the next generation of addicts,&#8221; Sierleja said.</p>
     </div>
-    <span style="display:none"><a href="https://www.deepdotweb.com/tag/busted/" rel="tag">busted</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/handwriting/" rel="tag">handwriting</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-06-29</span>
+    <span style="display:none"> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/handwriting/" rel="tag">handwriting</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-06-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     </div>
 </article>
