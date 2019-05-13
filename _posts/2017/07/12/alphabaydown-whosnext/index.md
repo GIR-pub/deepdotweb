@@ -1,7 +1,7 @@
 ---
 Alphabay death: Wondering which market is Headed to the Top? Here is some insider info!
 ---
-<article class="post-listing post-21287 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-5696">
+<article class="post-listing post-21287 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5696">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 12, 2017</span>

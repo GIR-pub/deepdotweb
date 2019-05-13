@@ -2,7 +2,7 @@
 Italian Man Busted After Returning to a Burned Drop
 ---
 <article class="post-listing post-26522 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-burned tag-busted tag-drop tag-italian tag-man tag-returning">
+ tag-burned tag-busted tag-drop tag-italian tag-man tag-returning">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 9, 2018</span>

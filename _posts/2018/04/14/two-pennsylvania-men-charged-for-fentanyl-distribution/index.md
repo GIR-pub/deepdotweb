@@ -2,7 +2,7 @@
 Two Pennsylvania Men Charged for Fentanyl Distribution
 ---
 <article class="post-listing post-25373 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-charged tag-distribution tag-fentanyl tag-men tag-pennsylvania">
+ tag-charged tag-distribution tag-fentanyl tag-men tag-pennsylvania">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 14, 2018</span>

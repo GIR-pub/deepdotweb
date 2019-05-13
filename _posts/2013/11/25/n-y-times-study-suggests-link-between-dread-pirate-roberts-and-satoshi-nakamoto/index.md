@@ -1,7 +1,7 @@
 ---
 title: N.Y Times: Study Suggests Link Between Dread Pirate Roberts and Satoshi Nakamoto
 ---
-1824 category-deepdot-news tag-dread tag-link tag-nakamoto tag-ny tag-pirate tag-roberts tag-satoshi tag-study tag-suggests tag-times">
+1824  tag-dread tag-link tag-nakamoto tag-ny tag-pirate tag-roberts tag-satoshi tag-study tag-suggests tag-times">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 25, 2013</span>

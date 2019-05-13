@@ -1,7 +1,7 @@
 ---
 How To Buy From TheRealDeal Market?
 ---
-<article class="post-listing post-12674 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-market tag-therealdeal">
+<article class="post-listing post-12674 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-market tag-therealdeal">
     
 <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 How fast can LE prep a controlled delivery?
 ---
-<article class="post-listing post-11336 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-controlled tag-delivery tag-fast tag-le tag-prep">
+<article class="post-listing post-11336 post type-post status-publish format-standard has-post-thumbnail hentry  tag-controlled tag-delivery tag-fast tag-le tag-prep">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>March 16, 2016</span>

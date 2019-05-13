@@ -2,7 +2,7 @@
 Man Downloaded a ‘Pedophile Manual’ on the Darknet
 ---
 <article class="post-listing post-24295 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-darknet tag-downloaded tag-man tag-manual tag-pedophile">
+ tag-darknet tag-downloaded tag-man tag-manual tag-pedophile">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 6, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Intro: BitLox™ launches with Darknet-specific security features
 ---
-<article class="post-listing post-13355 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitlox tag-darknetspecific tag-features tag-intro tag-launches tag-security">
+<article class="post-listing post-13355 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitlox tag-darknetspecific tag-features tag-intro tag-launches tag-security">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 1, 2016</span>

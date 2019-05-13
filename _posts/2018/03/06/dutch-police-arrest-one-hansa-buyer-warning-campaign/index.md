@@ -2,7 +2,7 @@
 Dutch Police Arrest One Hansa Buyer in Warning Campaign
 ---
 <article class="post-listing post-24966 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrest tag-buyer tag-campaign tag-dutch tag-hansa tag-police tag-warning">
+ tag-arrest tag-buyer tag-campaign tag-dutch tag-hansa tag-police tag-warning">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 6, 2018</span>

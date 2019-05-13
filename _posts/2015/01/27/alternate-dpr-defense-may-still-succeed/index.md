@@ -1,7 +1,7 @@
 ---
 The Alternate DPR defense May Still Succeed
 ---
-<article class="post-listing post-8915 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-alternate tag-defense tag-dpr tag-silkroadtrial tag-succeed">
+<article class="post-listing post-8915 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternate tag-defense tag-dpr tag-silkroadtrial tag-succeed">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>January 27, 2015</span>

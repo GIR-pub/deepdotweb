@@ -2,7 +2,7 @@
 Woman Sentenced to Six Years for Hiring a Hitman on the Darknet
 ---
 <article class="post-listing post-24265 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-darknet tag-hiring tag-hitman tag-sentenced tag-woman tag-years">
+ tag-darknet tag-hiring tag-hitman tag-sentenced tag-woman tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 4, 2018</span>

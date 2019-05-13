@@ -2,7 +2,7 @@
 British Dark Web Pedophile Jailed For 32 Years
 ---
 <article class="post-listing post-24999 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-4680 tag-british tag-dark tag-jailed tag-pedophile tag-web tag-years">
+ tag-4680 tag-british tag-dark tag-jailed tag-pedophile tag-web tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>March 10, 2018</span>

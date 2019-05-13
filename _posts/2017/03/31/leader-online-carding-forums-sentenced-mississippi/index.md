@@ -2,7 +2,7 @@
 Leader of Online Carding Forums Sentenced in Mississippi
 ---
 <article class="post-listing post-18897 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-carding tag-forums tag-leader tag-mississippi tag-online tag-sentenced">
+ tag-carding tag-forums tag-leader tag-mississippi tag-online tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 31, 2017</span>

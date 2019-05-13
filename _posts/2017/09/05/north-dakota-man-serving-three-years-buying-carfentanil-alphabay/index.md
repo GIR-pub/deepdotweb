@@ -2,7 +2,7 @@
 North Dakota Man Serving Three Years for Buying Carfentanil on Alphabay
 ---
 <article class="post-listing post-22376 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-alphabay tag-buying tag-carfentanil tag-dakota tag-man tag-north tag-serving tag-years">
+ tag-alphabay tag-buying tag-carfentanil tag-dakota tag-man tag-north tag-serving tag-years">
     
     <div class="post-inner">
     

@@ -1,7 +1,7 @@
 ---
 How &#8211; and Why &#8211; to Get a Second Passport Now
 ---
-<article class="post-listing post-10534 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-passport">
+<article class="post-listing post-10534 post type-post status-publish format-standard has-post-thumbnail hentry  tag-passport">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/archer/" title="">Archer </a></span>
 <span>December 28, 2015</span>

@@ -2,7 +2,7 @@
 Dream Vendor ‘playgroundROX’ Busted in Connecticut
 ---
 <article class="post-listing post-24555 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-busted tag-connecticut tag-dream tag-playgroundrox tag-vendor">
+ tag-busted tag-connecticut tag-dream tag-playgroundrox tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 26, 2018</span>

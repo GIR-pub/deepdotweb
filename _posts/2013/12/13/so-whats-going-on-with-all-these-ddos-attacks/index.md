@@ -1,7 +1,7 @@
 ---
 title: So Whats going on with all these DDOS Attacks?
 ---
-2518 category-deepdot-news tag-attacks tag-ddos">
+2518  tag-attacks tag-ddos">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 13, 2013</span>

@@ -37,7 +37,7 @@ Interface and Setup
 ---
 CyberGhost Review
 ---
-<article class="post-listing post-28094 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cyberghost tag-review">
+<article class="post-listing post-28094 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cyberghost tag-review">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 15, 2019</span>

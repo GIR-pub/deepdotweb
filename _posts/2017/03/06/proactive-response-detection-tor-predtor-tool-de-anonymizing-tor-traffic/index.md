@@ -1,7 +1,7 @@
 ---
 Proactive Response and Detection for TOR (PReDTOR) &#8211; A Tool for De-anonymizing Tor Traffic
 ---
-<article class="post-listing post-18389 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-deanonymizing tag-detection tag-predtor tag-proactive tag-response tag-tool tag-tor tag-traffic">
+<article class="post-listing post-18389 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deanonymizing tag-detection tag-predtor tag-proactive tag-response tag-tool tag-tor tag-traffic">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 6, 2017</span>

@@ -1,7 +1,7 @@
 ---
 How to buy Bitcoins using LocalBitcoins
 ---
-<article class="post-listing post-16526 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-buy tag-localbitcoins">
+<article class="post-listing post-16526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-buy tag-localbitcoins">
     
     <div class="post-inner">
     

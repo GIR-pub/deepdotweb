@@ -1,7 +1,7 @@
 ---
 Identity Based Onion Routing &#8211; A Secure and Efficient New Scheme for Tor
 ---
-<article class="post-listing post-19421 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-based tag-efficient tag-identity tag-onion tag-routing tag-scheme tag-secure tag-tor">
+<article class="post-listing post-19421 post type-post status-publish format-standard has-post-thumbnail hentry  tag-based tag-efficient tag-identity tag-onion tag-routing tag-scheme tag-secure tag-tor">
     
     <div class="post-inner">
     

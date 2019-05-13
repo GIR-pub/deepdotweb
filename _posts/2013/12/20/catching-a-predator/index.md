@@ -2,7 +2,7 @@
 title: Catching a Predator
 ---
 2396 tag-catching tag-predator 
-<div class="single-post-video">
+
 <iframe width="660" height="371" src="http://www.youtube.com/embed/7iqG7IhWTWU?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 
 <span>Posted by: <a href="http://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>

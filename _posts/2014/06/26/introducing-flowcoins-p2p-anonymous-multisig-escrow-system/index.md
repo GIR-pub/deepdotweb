@@ -1,7 +1,7 @@
 ---
 Introducing Flowcoins: P2P &#038; Anonymous Multisig Escrow System
 ---
-<article class="post-listing post-6228 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-escrow tag-flowcoins tag-introducing tag-multisig tag-p2p tag-system">
+<article class="post-listing post-6228 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-escrow tag-flowcoins tag-introducing tag-multisig tag-p2p tag-system">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 26, 2014</span>

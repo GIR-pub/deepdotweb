@@ -1,7 +1,7 @@
 ---
 Swing-Pay &#8211; One Card for all P2P Payments Using Biometric Authentication
 ---
-<article class="post-listing post-18035 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-authentication tag-biometric tag-card tag-p2p tag-payments tag-swingpay">
+<article class="post-listing post-18035 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authentication tag-biometric tag-card tag-p2p tag-payments tag-swingpay">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 8, 2017</span>

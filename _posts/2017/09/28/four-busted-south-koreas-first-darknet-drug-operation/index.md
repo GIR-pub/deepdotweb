@@ -2,7 +2,7 @@
 Four Busted in South Korea&#8217;s First Darknet Drug Operation
 ---
 <article class="post-listing post-22802 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-busted tag-darknet tag-drug tag-koreas tag-operation tag-south">
+ tag-busted tag-darknet tag-drug tag-koreas tag-operation tag-south">
     
     <div class="post-inner">
     

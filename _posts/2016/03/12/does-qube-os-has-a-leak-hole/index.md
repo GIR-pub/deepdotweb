@@ -1,7 +1,7 @@
 ---
 Does Qubes OS Has A Leak Hole ?
 ---
-<article class="post-listing post-13433 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-hole tag-leak tag-os tag-qube">
+<article class="post-listing post-13433 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hole tag-leak tag-os tag-qube">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/michaelatobraaboagye/" title="">Michael Atobra Aboagye </a></span>
     <span>March 12, 2016</span>

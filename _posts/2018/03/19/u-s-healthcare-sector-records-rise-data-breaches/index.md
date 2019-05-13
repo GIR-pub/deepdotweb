@@ -2,7 +2,7 @@
 U.S. Healthcare Sector Records Rise in Data Breaches
 ---
 <article class="post-listing post-25095 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-breaches tag-data tag-healthcare tag-records tag-rise tag-sector">
+ tag-breaches tag-data tag-healthcare tag-records tag-rise tag-sector">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>March 19, 2018</span>

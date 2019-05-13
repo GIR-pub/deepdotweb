@@ -1,7 +1,7 @@
 ---
 Wi-Fi Security
 ---
-<article class="post-listing post-13552 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-security tag-wifi">
+<article class="post-listing post-13552 post type-post status-publish format-standard has-post-thumbnail hentry  tag-security tag-wifi">
     
     <div class="post-inner">
     

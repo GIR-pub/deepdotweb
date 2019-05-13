@@ -2,7 +2,7 @@
 UK Firm Unites With Interpol to Fight Cybercrime
 ---
 <article class="post-listing post-23052 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-cybercrime tag-fight tag-firm tag-interpol tag-uk tag-unites">
+ tag-cybercrime tag-fight tag-firm tag-interpol tag-uk tag-unites">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>October 14, 2017</span>

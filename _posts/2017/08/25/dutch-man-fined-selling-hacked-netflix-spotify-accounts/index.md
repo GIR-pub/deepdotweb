@@ -2,7 +2,7 @@
 Dutch Man Fined For Selling Hacked Netflix And Spotify Accounts
 ---
 <article class="post-listing post-22164 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-accounts tag-dutch tag-fined tag-hacked tag-man tag-netflix tag-selling tag-spotify">
+ tag-accounts tag-dutch tag-fined tag-hacked tag-man tag-netflix tag-selling tag-spotify">
     
     <div class="post-inner">
     

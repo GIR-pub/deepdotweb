@@ -1,7 +1,7 @@
 ---
 Infographics: Tor For Newbies &#8211; How &#038; Why To Use It?
 ---
-<article class="post-listing post-8772 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-infographics tag-newbies tag-tor">
+<article class="post-listing post-8772 post type-post status-publish format-standard has-post-thumbnail hentry  tag-infographics tag-newbies tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 15, 2015</span>

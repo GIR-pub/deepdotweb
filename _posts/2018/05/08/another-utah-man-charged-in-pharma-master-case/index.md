@@ -2,7 +2,7 @@
 Another Utah Man Charged in Pharma-Master Case
 ---
 <article class="post-listing post-25626 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-case tag-charged tag-man tag-pharmamaster tag-utah">
+ tag-case tag-charged tag-man tag-pharmamaster tag-utah">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 8, 2018</span>

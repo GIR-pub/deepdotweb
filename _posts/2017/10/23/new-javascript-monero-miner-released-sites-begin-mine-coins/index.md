@@ -2,7 +2,7 @@
 New JavaScript Monero Miner Released as More Sites Begin to Mine Coins
 ---
 <article class="post-listing post-23235 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-coins tag-javascript tag-miner tag-monero tag-released tag-sites">
+ tag-coins tag-javascript tag-miner tag-monero tag-released tag-sites">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>October 23, 2017</span>

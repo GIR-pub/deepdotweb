@@ -1,7 +1,7 @@
 ---
 The Drugslist Lesson: Why Marketplace Security should not be taken lightly! (Complete Timeline)
 ---
-<article class="post-listing post-3684 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-drugslist tag-hacked tag-pastebin tag-posted tag-userslist">
+<article class="post-listing post-3684 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drugslist tag-hacked tag-pastebin tag-posted tag-userslist">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 27, 2014</span>

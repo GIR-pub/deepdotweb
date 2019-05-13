@@ -2,7 +2,7 @@
 The GAO Tried to Illegally Buy 79 Guns Online and Failed
 ---
 <article class="post-listing post-24492 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-6259 tag-buy tag-failed tag-gao tag-guns tag-illegally tag-online">
+ tag-6259 tag-buy tag-failed tag-gao tag-guns tag-illegally tag-online">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 20, 2018</span>

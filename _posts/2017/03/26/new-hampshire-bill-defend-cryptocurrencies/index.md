@@ -2,7 +2,7 @@
 New Hampshire Bill Would Defend Cryptocurrencies
 ---
 <article class="post-listing post-18804 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bill tag-cryptocurrencies tag-defend tag-hampshire">
+ tag-bill tag-cryptocurrencies tag-defend tag-hampshire">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 26, 2017</span>

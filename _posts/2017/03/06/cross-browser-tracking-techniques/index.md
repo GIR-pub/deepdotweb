@@ -1,7 +1,7 @@
 ---
 Cross Browser Tracking Techniques
 ---
-<article class="post-listing post-18443 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-browser tag-cross tag-techniques tag-tracking">
+<article class="post-listing post-18443 post type-post status-publish format-standard has-post-thumbnail hentry  tag-browser tag-cross tag-techniques tag-tracking">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
 <span>March 6, 2017</span>

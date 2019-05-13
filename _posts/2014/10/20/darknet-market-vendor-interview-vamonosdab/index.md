@@ -1,7 +1,7 @@
 ---
 Interview With a DarkNet Vendor: VamonosDab
 ---
-<article class="post-listing post-7405 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-darknet tag-interview tag-market tag-vamonosdab tag-vendor">
+<article class="post-listing post-7405 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-interview tag-market tag-vamonosdab tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>October 20, 2014</span>

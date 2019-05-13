@@ -1,7 +1,7 @@
 ---
 The Pirate Market: The Interview That Added A Multi-Sig Market!
 ---
-<article class="post-listing post-5228 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-admin tag-interview tag-market tag-pirate">
+<article class="post-listing post-5228 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-interview tag-market tag-pirate">
     
     <div class="post-inner">
     

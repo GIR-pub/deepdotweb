@@ -22,7 +22,7 @@ SIM IDENTIFICATION
 ---
 SETTING UP A BULLET-PROOF SECURITY SMARTPHONE
 ---
-<article class="post-listing post-20925 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bulletproof tag-security tag-setting tag-smartphone">
+<article class="post-listing post-20925 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bulletproof tag-security tag-setting tag-smartphone">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
     <span>June 27, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Combining Bitcoin&#8217;s Zero Knowledge Proof ZKP Protocol With Graph Isomerism&#8217;s Problem
 ---
-<article class="post-listing post-17396 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-combining tag-graph tag-isomerisms tag-knowledge tag-problem tag-proof tag-protocol tag-zkp">
+<article class="post-listing post-17396 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-combining tag-graph tag-isomerisms tag-knowledge tag-problem tag-proof tag-protocol tag-zkp">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 8, 2017</span>

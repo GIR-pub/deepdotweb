@@ -1,7 +1,7 @@
 ---
 Bitcoin&#8217;s Black Market Promise In Argentina
 ---
-<article class="post-listing post-7014 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-argentina tag-bitcoins tag-black tag-market tag-promise">
+<article class="post-listing post-7014 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argentina tag-bitcoins tag-black tag-market tag-promise">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>September 11, 2014</span>

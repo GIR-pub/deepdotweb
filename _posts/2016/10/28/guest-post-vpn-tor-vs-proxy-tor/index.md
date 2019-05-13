@@ -1,7 +1,7 @@
 ---
 Guest Post: VPN Tor vs Proxy Tor
 ---
-<article class="post-listing post-16122 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-guest tag-post tag-proxy tag-tor tag-vpn">
+<article class="post-listing post-16122 post type-post status-publish format-standard has-post-thumbnail hentry  tag-guest tag-post tag-proxy tag-tor tag-vpn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 28, 2016</span>

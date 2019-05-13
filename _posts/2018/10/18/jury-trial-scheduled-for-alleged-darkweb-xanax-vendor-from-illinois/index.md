@@ -2,7 +2,7 @@
 Jury Trial Scheduled for Alleged Darkweb Xanax Vendor from Illinois
 ---
 <article class="post-listing post-26981 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-alleged tag-darkweb tag-illinois tag-jury tag-scheduled tag-trial tag-vendor tag-xanax">
+ tag-alleged tag-darkweb tag-illinois tag-jury tag-scheduled tag-trial tag-vendor tag-xanax">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 18, 2018</span>

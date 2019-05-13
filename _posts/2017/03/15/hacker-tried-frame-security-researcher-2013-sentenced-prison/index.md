@@ -2,7 +2,7 @@
 Hacker Who Tried To Frame Security Researcher in 2013 &#8211; Sentenced To Prison
 ---
 <article class="post-listing post-18626 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-620 tag-frame tag-hacker tag-prison tag-researcher tag-security tag-sentenced">
+ tag-620 tag-frame tag-hacker tag-prison tag-researcher tag-security tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 15, 2017</span>

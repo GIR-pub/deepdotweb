@@ -1,7 +1,7 @@
 ---
 title: Cryptocurrency Crunch: World Regulators To Control All Digital Currency?
 ---
-1930 category-deepdot-news tag-control tag-crunch tag-cryptocurrency tag-currency tag-digital tag-regulators tag-world tie_thumb">
+1930  tag-control tag-crunch tag-cryptocurrency tag-currency tag-digital tag-regulators tag-world tie_thumb">
 <div class="single-post-thumb">
 <img width="660" height="330" src="https://www.deepdotweb.com/wp-content/uploads/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1-660x330.jpg" class="attachment-slider size-slider" alt="Cryptocurrency Crunch: World Regulators To Control All Digital Currency?" title="Cryptocurrency Crunch: World Regulators To Control All Digital Currency?" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1-660x330.jpg 660w, https://www.deepdotweb.com/wp-content/uploads/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1-300x149.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1.jpg 717w" sizes="(max-width: 660px) 100vw, 660px" /> </div>
 

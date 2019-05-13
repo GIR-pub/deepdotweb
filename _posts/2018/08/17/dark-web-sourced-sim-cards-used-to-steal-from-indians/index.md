@@ -2,7 +2,7 @@
 Dark Web Sourced Sim Cards Used to Steal from Indians
 ---
 <article class="post-listing post-26540 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-cards tag-dark tag-indians tag-sim tag-sourced tag-steal tag-web">
+ tag-cards tag-dark tag-indians tag-sim tag-sourced tag-steal tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>August 17, 2018</span>

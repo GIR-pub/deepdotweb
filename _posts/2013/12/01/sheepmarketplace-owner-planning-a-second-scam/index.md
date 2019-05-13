@@ -1,7 +1,7 @@
 ---
 title: SheepMarketplace Owner Planning a Second Scam?
 ---
-2203 category-deepdot-news tag-owner tag-planning tag-scam tag-sheepmarketplace">
+2203  tag-owner tag-planning tag-scam tag-sheepmarketplace">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 1, 2013</span>

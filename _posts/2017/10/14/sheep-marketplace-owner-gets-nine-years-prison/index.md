@@ -2,7 +2,7 @@
 Sheep Marketplace Owner Gets Nine Years in Prison
 ---
 <article class="post-listing post-23050 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-marketplace tag-owner tag-prison tag-sheep tag-years">
+ tag-marketplace tag-owner tag-prison tag-sheep tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 14, 2017</span>

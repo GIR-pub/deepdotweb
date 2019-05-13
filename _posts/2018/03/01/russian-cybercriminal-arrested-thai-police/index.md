@@ -2,7 +2,7 @@
 Russian Cybercriminal arrested by Thai Police
 ---
 <article class="post-listing post-24914 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-cybercriminal tag-police tag-russian tag-thai">
+ tag-cybercriminal tag-police tag-russian tag-thai">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>March 1, 2018</span>

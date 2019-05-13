@@ -2,7 +2,7 @@
 Darknet Money Launderer Sentenced to Eight Months Imprisonment
 ---
 <article class="post-listing post-18687 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-darknet tag-imprisonment tag-launderer tag-money tag-months tag-sentenced">
+ tag-darknet tag-imprisonment tag-launderer tag-money tag-months tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 19, 2017</span>

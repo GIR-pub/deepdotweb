@@ -2,7 +2,7 @@
 DarkNet Video News Roundup: 23/4/16
 ---
 <article class="post-listing post-13846 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-3645 tag-darknet tag-news tag-roundup tag-video tie_video">
-    <div class="single-post-video">
+    
     <iframe width="660" height="371" src="https://www.youtube.com/embed/Tzb3xzTnXx4?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

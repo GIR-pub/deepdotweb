@@ -2,7 +2,7 @@
 Experts: &#8220;Stop Enabling Sex Traffickers Act&#8221; Will Drive Traffickers Toward the DarkWeb
 ---
 <article class="post-listing post-22948 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-experts">
+ tag-experts">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>October 5, 2017</span>

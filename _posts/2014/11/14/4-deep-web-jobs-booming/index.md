@@ -1,7 +1,7 @@
 ---
 4 Deep Web Jobs That Are Booming
 ---
-<article class="post-listing post-6878 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-booming tag-deep tag-jobs tag-web">
+<article class="post-listing post-6878 post type-post status-publish format-standard has-post-thumbnail hentry  tag-booming tag-deep tag-jobs tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>November 14, 2014</span>

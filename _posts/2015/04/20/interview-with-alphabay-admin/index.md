@@ -1,7 +1,7 @@
 ---
 Interview With AlphaBay Market Admin
 ---
-<article class="post-listing post-9930 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-admin tag-alphabay tag-interview">
+<article class="post-listing post-9930 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-alphabay tag-interview">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/joshuag/" title="">Joshua G. </a></span>
     <span>April 20, 2015</span>

@@ -2,7 +2,7 @@
 How Ad Trackers Make Cryptocurrency Transactions Less Private
 ---
 <article class="post-listing post-22424 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-ad tag-cryptocurrency tag-private tag-trackers tag-transactions">
+ tag-ad tag-cryptocurrency tag-private tag-trackers tag-transactions">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>September 7, 2017</span>

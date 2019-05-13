@@ -2,7 +2,7 @@
 Irish Police and ATF Pleased With Collaboration in Gunrunner Case
 ---
 <article class="post-listing post-18623 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-atf tag-case tag-collaboration tag-gunrunner tag-irish tag-pleased tag-police">
+ tag-atf tag-case tag-collaboration tag-gunrunner tag-irish tag-pleased tag-police">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 15, 2017</span>

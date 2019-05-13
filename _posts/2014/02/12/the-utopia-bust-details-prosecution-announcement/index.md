@@ -1,7 +1,7 @@
 ---
 The Utopia Bust Details &#8211; Prosecution Announcement
 ---
-<article class="post-listing post-4057 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-announcement tag-bust tag-details tag-prosecution tag-utopia">
+<article class="post-listing post-4057 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announcement tag-bust tag-details tag-prosecution tag-utopia">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 12, 2014</span>

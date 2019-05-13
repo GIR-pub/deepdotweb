@@ -1,7 +1,7 @@
 ---
 NSA Revelations You Need To Know About
 ---
-<article class="post-listing post-7086 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-nsa tag-revelations">
+<article class="post-listing post-7086 post type-post status-publish format-standard has-post-thumbnail hentry  tag-nsa tag-revelations">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>September 30, 2014</span>

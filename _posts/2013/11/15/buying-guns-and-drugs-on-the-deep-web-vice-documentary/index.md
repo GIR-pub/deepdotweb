@@ -2,13 +2,12 @@
 title: Buying Guns and Drugs on the Deep Web (Vice Documentary)
 ---
 1350 tag-buying tag-deep tag-documentary tag-guns tag-vice tag-web 
-<div class="single-post-video">
+
 <iframe width="660" height="371" src="http://www.youtube.com/embed/HJOSm9Bg7WY?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     
     
 <span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>November 15, 2013</span>
-<span>in <a href="http://www.deepdotweb.com/category/videos/" title="View all posts in Videos" rel="category tag">Videos</a></span>
     
 <span><a href="http://www.deepdotweb.com/2013/11/15/buying-guns-and-drugs-on-the-deep-web-vice-documentary/#respond" title="Comment on Buying Guns and Drugs on the Deep Web (Vice Documentary)">Leave a comment</a></span>
 </p>

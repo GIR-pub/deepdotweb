@@ -1,7 +1,7 @@
 ---
 The Silk Road Auction Legitimizes Bitcoin
 ---
-<article class="post-listing post-6255 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-auction tag-bitcoin tag-legitimizes tag-road tag-silk">
+<article class="post-listing post-6255 post type-post status-publish format-standard has-post-thumbnail hentry  tag-auction tag-bitcoin tag-legitimizes tag-road tag-silk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>June 28, 2014</span>

@@ -1,7 +1,7 @@
 ---
 Book Introduction: &#8220;The Narco-Festo&#8221;
 ---
-<article class="post-listing post-15850 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-introduction tag-narcofesto">
+<article class="post-listing post-15850 post type-post status-publish format-standard has-post-thumbnail hentry  tag-introduction tag-narcofesto">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 16, 2016</span>

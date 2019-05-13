@@ -2,7 +2,7 @@
 Dream Vendor “CzechoSlovakFarm” Busted in Slovakia
 ---
 <article class="post-listing post-23329 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-busted tag-czechoslovakfarm tag-dream tag-slovakia tag-vendor">
+ tag-busted tag-czechoslovakfarm tag-dream tag-slovakia tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 31, 2017</span>

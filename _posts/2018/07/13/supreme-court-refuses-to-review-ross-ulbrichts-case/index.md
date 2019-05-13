@@ -2,7 +2,7 @@
 Supreme Court Refuses to Review Ross Ulbricht’s Case
 ---
 <article class="post-listing post-26291 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-case tag-court tag-refuses tag-review tag-ross tag-supreme tag-ulbrichts">
+ tag-case tag-court tag-refuses tag-review tag-ross tag-supreme tag-ulbrichts">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>July 13, 2018</span>

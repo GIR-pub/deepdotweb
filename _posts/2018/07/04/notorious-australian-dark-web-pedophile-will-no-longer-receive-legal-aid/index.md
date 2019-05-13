@@ -2,7 +2,7 @@
 Notorious Australian Dark Web Pedophile will no Longer Receive Legal Aid
 ---
 <article class="post-listing post-26202 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-aid tag-australian tag-dark tag-legal tag-longer tag-notorious tag-pedophile tag-receive tag-web">
+ tag-aid tag-australian tag-dark tag-legal tag-longer tag-notorious tag-pedophile tag-receive tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>July 4, 2018</span>

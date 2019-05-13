@@ -2,7 +2,7 @@
 Six Austrians Bought Counterfeit Notes From The Dark Web &#8211; Sentenced To Community Work
 ---
 <article class="post-listing post-18645 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-austrians tag-bought tag-community tag-counterfeit tag-dark tag-notes tag-sentenced tag-web tag-work">
+ tag-austrians tag-bought tag-community tag-counterfeit tag-dark tag-notes tag-sentenced tag-web tag-work">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 16, 2017</span>

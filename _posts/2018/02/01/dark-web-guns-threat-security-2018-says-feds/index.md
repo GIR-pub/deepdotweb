@@ -2,7 +2,7 @@
 Dark Web Guns a threat to Security in 2018 Says Feds
 ---
 <article class="post-listing post-24631 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-5927 tag-dark tag-feds tag-guns tag-security tag-threat tag-web">
+ tag-5927 tag-dark tag-feds tag-guns tag-security tag-threat tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>February 1, 2018</span>

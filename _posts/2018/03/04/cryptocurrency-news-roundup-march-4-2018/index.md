@@ -2,7 +2,7 @@
 Cryptocurrency news roundup, March 4, 2018
 ---
 <article class="post-listing post-24947 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-6330 tag-cryptocurrency tag-news tag-roundup">
+ tag-6330 tag-cryptocurrency tag-news tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
 <span>March 4, 2018</span>

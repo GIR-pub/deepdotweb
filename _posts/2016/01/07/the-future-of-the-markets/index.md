@@ -1,7 +1,7 @@
 ---
 The Future of the Markets
 ---
-<article class="post-listing post-12873 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-future tag-markets">
+<article class="post-listing post-12873 post type-post status-publish format-standard has-post-thumbnail hentry  tag-future tag-markets">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 7, 2016</span>

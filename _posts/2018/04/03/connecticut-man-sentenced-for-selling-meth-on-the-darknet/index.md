@@ -2,7 +2,7 @@
 Connecticut Man Sentenced for Selling Meth on the Darknet
 ---
 <article class="post-listing post-25249 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-connecticut tag-darknet tag-man tag-meth tag-selling tag-sentenced">
+ tag-connecticut tag-darknet tag-man tag-meth tag-selling tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 3, 2018</span>

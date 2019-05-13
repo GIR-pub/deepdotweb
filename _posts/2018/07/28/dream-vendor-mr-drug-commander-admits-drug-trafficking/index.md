@@ -2,7 +2,7 @@
 Dream Vendor ‘Mr Drug Commander’ Admits Drug Trafficking
 ---
 <article class="post-listing post-26425 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-admits tag-commander tag-dream tag-drug tag-trafficking tag-vendor">
+ tag-admits tag-commander tag-dream tag-drug tag-trafficking tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>July 28, 2018</span>

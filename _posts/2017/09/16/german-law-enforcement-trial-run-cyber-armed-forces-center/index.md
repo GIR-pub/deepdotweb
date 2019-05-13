@@ -2,7 +2,7 @@
 German Law Enforcement to Trial Run a “Cyber-Armed Forces” Center
 ---
 <article class="post-listing post-22570 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-center tag-cyberarmed tag-enforcement tag-forces tag-german tag-law tag-run tag-trial">
+ tag-center tag-cyberarmed tag-enforcement tag-forces tag-german tag-law tag-run tag-trial">
     
     <div class="post-inner">
     

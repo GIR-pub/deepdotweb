@@ -1,7 +1,7 @@
 ---
 Introduction: BitCloak Bitcoin Mixer
 ---
-<article class="post-listing post-14270 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcloak tag-bitcoin tag-introduction tag-mixer">
+<article class="post-listing post-14270 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcloak tag-bitcoin tag-introduction tag-mixer">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 29, 2016</span>

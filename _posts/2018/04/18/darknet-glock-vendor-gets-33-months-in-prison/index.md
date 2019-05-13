@@ -2,7 +2,7 @@
 Darknet Glock Vendor Gets 33 Months in Prison
 ---
 <article class="post-listing post-25404 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-1099 tag-darknet tag-glock tag-months tag-prison tag-vendor">
+ tag-1099 tag-darknet tag-glock tag-months tag-prison tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 18, 2018</span>

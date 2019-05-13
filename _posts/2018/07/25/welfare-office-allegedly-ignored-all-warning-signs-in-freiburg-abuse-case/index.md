@@ -2,7 +2,7 @@
 Welfare Office Allegedly Ignored All Warning Signs in Freiburg Abuse Case
 ---
 <article class="post-listing post-26397 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-abuse tag-allegedly tag-case tag-freiburg tag-office tag-signs tag-warning tag-welfare">
+ tag-abuse tag-allegedly tag-case tag-freiburg tag-office tag-signs tag-warning tag-welfare">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 25, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Introduction to Bitcoin Transaction Accelerators
 ---
-<article class="post-listing post-22282 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-accelerators tag-introduction tag-transaction">
+<article class="post-listing post-22282 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accelerators tag-introduction tag-transaction">
     
     <div class="post-inner">
     

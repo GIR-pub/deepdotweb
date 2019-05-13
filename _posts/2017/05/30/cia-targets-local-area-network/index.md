@@ -1,7 +1,7 @@
 ---
 What CIA does on target&#8217;s Local Area Network
 ---
-<article class="post-listing post-20225 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-area tag-cia tag-local tag-network tag-targets">
+<article class="post-listing post-20225 post type-post status-publish format-standard has-post-thumbnail hentry  tag-area tag-cia tag-local tag-network tag-targets">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>May 30, 2017</span>

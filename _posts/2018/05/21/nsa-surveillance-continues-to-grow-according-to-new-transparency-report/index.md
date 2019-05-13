@@ -2,7 +2,7 @@
 NSA Surveillance Continues to Grow According to New Transparency Report
 ---
 <article class="post-listing post-25779 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-continues tag-grow tag-nsa tag-report tag-surveillance tag-transparency">
+ tag-continues tag-grow tag-nsa tag-report tag-surveillance tag-transparency">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>May 21, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Professionals Voice: Bitcoin Investing Opinions
 ---
-<article class="post-listing post-5960 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-investing tag-opinions tag-professionals tag-voice">
+<article class="post-listing post-5960 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-investing tag-opinions tag-professionals tag-voice">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 11, 2014</span>

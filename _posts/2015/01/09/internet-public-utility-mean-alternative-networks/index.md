@@ -1,7 +1,7 @@
 ---
 What the Internet as a Public Utility Would Mean for Alternative Networks
 ---
-<article class="post-listing post-8198 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-alternative tag-internet tag-networks tag-public tag-utility">
+<article class="post-listing post-8198 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-internet tag-networks tag-public tag-utility">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>January 9, 2015</span>

@@ -1,7 +1,7 @@
 ---
 title: Get Ready To Silk Road&#8217;s&#8230;. Newspaper?!
 ---
-1353 category-deepdot-news tag-newspaper tag-ready tag-roads tag-silk">
+1353  tag-newspaper tag-ready tag-roads tag-silk">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 16, 2013</span>

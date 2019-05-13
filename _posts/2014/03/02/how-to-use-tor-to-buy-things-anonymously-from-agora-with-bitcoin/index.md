@@ -2,7 +2,7 @@
 How to use Tor to buy things anonymously from Agora with Bitcoin!
 ---
 <article class="post-listing post-4531 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tie_video">
-    <div class="single-post-video">
+    
     <iframe width="507" height="380" src="http://www.youtube.com/embed/GrL81kK8ehY?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

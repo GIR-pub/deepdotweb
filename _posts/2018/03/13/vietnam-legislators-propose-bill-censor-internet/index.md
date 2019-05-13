@@ -2,7 +2,7 @@
 Vietnam Legislators Propose Bill to Further Censor the Internet
 ---
 <article class="post-listing post-25029 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bill tag-censor tag-internet tag-legislators tag-propose tag-vietnam">
+ tag-bill tag-censor tag-internet tag-legislators tag-propose tag-vietnam">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 13, 2018</span>

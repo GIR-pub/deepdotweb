@@ -2,7 +2,7 @@
 Nearly 50 Romanian College Students Arrested For Drug Trafficking Via The Dark Web
 ---
 <article class="post-listing post-25842 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-1447 tag-college tag-dark tag-drug tag-romanian tag-students tag-trafficking tag-web">
+ tag-1447 tag-college tag-dark tag-drug tag-romanian tag-students tag-trafficking tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 26, 2018</span>

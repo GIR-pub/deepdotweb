@@ -1,7 +1,7 @@
 ---
 How Slur.io Sees the Future of Whistleblowing?
 ---
-<article class="post-listing post-9481 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-future tag-sees tag-slurio tag-whistleblowing">
+<article class="post-listing post-9481 post type-post status-publish format-standard has-post-thumbnail hentry  tag-future tag-sees tag-slurio tag-whistleblowing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/politech/" title="">Politech </a></span>
     <span>July 2, 2015</span>

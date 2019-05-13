@@ -1,7 +1,7 @@
 ---
 Research: Using text spotting to detect textual information hidden within images hosted on onion domains
 ---
-<article class="post-listing post-28607 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-detect tag-domains tag-hidden tag-hosted tag-images tag-information tag-onion tag-research tag-spotting tag-text tag-textual">
+<article class="post-listing post-28607 post type-post status-publish format-standard has-post-thumbnail hentry  tag-detect tag-domains tag-hidden tag-hosted tag-images tag-information tag-onion tag-research tag-spotting tag-text tag-textual">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>March 13, 2019</span>

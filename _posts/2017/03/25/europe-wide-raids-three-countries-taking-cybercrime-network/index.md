@@ -2,7 +2,7 @@
 Europe-wide Raids In Three Countries Taking Down Cybercrime Network
 ---
 <article class="post-listing post-18785 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-countries tag-cybercrime tag-europewide tag-network tag-raids">
+ tag-countries tag-cybercrime tag-europewide tag-network tag-raids">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 25, 2017</span>

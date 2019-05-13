@@ -1,7 +1,7 @@
 ---
 Journalist Investigates The Idealistic Motives Behind Valhalla Market
 ---
-<article class="post-listing post-12316 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-idealistic tag-investigates tag-journalist tag-motives tag-valhalla">
+<article class="post-listing post-12316 post type-post status-publish format-standard has-post-thumbnail hentry  tag-idealistic tag-investigates tag-journalist tag-motives tag-valhalla">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 29, 2015</span>

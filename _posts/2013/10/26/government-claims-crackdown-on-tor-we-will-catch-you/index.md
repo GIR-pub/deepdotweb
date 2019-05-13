@@ -1,7 +1,7 @@
 ---
 title: Government Claims Crackdown On Tor: “We will catch you”
 ---
-854 category-deepdot-news tag-catch tag-claims tag-crackdown tag-government tag-tor">
+854  tag-catch tag-claims tag-crackdown tag-government tag-tor">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 26, 2013</span>

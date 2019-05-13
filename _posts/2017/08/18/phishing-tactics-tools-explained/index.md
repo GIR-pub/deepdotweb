@@ -1,7 +1,7 @@
 ---
 Phishing: Tactics And Tools Explained
 ---
-<article class="post-listing post-22024 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-explained tag-phishing tag-tactics tag-tools">
+<article class="post-listing post-22024 post type-post status-publish format-standard has-post-thumbnail hentry  tag-explained tag-phishing tag-tactics tag-tools">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
     <span>August 18, 2017</span>

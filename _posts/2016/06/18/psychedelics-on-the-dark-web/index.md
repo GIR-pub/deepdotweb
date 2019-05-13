@@ -1,7 +1,7 @@
 ---
 Psychedelics on the Dark Web
 ---
-<article class="post-listing post-14462 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-psychedelics tag-web">
+<article class="post-listing post-14462 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-psychedelics tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/a-grey/" title="">a.grey </a></span>
     <span>June 18, 2016</span>

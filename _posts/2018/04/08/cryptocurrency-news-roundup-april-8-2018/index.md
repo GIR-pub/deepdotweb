@@ -2,7 +2,7 @@
 Cryptocurrency news roundup, April 8, 2018
 ---
 <article class="post-listing post-25310 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-5927 tag-april tag-cryptocurrency tag-news tag-roundup">
+ tag-5927 tag-april tag-cryptocurrency tag-news tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/francisco/" title="">Francisco </a></span>
 <span>April 8, 2018</span>

@@ -1,7 +1,7 @@
 ---
 How Do Modern Firewalls Work?
 ---
-<article class="post-listing post-10242 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-firewalls tag-modern tag-work">
+<article class="post-listing post-10242 post type-post status-publish format-standard has-post-thumbnail hentry  tag-firewalls tag-modern tag-work">
     
     <div class="post-inner">
     

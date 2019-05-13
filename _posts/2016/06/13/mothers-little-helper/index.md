@@ -1,7 +1,7 @@
 ---
 Benzodiazepines: Mother’s little helper
 ---
-<article class="post-listing post-14419 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-benzodiazepines tag-helper tag-mothers">
+<article class="post-listing post-14419 post type-post status-publish format-standard has-post-thumbnail hentry  tag-benzodiazepines tag-helper tag-mothers">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kevin/" title="">-Kevin- </a></span>
     <span>June 13, 2016</span>

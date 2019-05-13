@@ -1,7 +1,7 @@
 ---
 The Unfortunate Rise of America’s Recreational Xanax Addiction
 ---
-<article class="post-listing post-14572 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-addiction tag-americas tag-recreational tag-rise tag-unfortunate tag-xanax">
+<article class="post-listing post-14572 post type-post status-publish format-standard has-post-thumbnail hentry  tag-addiction tag-americas tag-recreational tag-rise tag-unfortunate tag-xanax">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/jfc/" title="">JFC </a></span>
     <span>June 24, 2016</span>

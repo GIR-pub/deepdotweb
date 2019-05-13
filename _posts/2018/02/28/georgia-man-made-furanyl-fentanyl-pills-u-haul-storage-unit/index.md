@@ -2,7 +2,7 @@
 Georgia Man Made Furanyl Fentanyl Pills in U-Haul Storage Unit
 ---
 <article class="post-listing post-24895 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-fentanyl tag-furanyl tag-georgia tag-man tag-pills tag-storage tag-uhaul tag-unit">
+ tag-fentanyl tag-furanyl tag-georgia tag-man tag-pills tag-storage tag-uhaul tag-unit">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 28, 2018</span>

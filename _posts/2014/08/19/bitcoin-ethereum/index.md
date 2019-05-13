@@ -1,7 +1,7 @@
 ---
 Bitcoin-Ethereum (Part 2)
 ---
-<article class="post-listing post-6532 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoinethereum">
+<article class="post-listing post-6532 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoinethereum">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
     <span>August 19, 2014</span>

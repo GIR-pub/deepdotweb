@@ -2,7 +2,7 @@
 Flaws in Postal Services Are Allowing Opioids into Florida
 ---
 <article class="post-listing post-24386 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-allowing tag-flaws tag-florida tag-opioids tag-postal tag-services">
+ tag-allowing tag-flaws tag-florida tag-opioids tag-postal tag-services">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>January 12, 2018</span>

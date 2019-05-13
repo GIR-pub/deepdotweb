@@ -1,7 +1,7 @@
 ---
 How to Keep Track of Your Cryptocurrency Investments
 ---
-<article class="post-listing post-19778 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cryptocurrency tag-investments tag-track">
+<article class="post-listing post-19778 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptocurrency tag-investments tag-track">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>May 12, 2017</span>

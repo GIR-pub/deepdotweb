@@ -1,7 +1,7 @@
 ---
 Comparing the Security of Bitcoin to That of Common Online Payment Systems
 ---
-<article class="post-listing post-21253 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-common tag-comparing tag-online tag-payment tag-security tag-systems">
+<article class="post-listing post-21253 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-common tag-comparing tag-online tag-payment tag-security tag-systems">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>July 13, 2017</span>

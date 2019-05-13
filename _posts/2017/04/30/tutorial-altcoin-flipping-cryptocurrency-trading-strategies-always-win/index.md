@@ -1,7 +1,7 @@
 ---
 Tutorial &#8211; Altcoin Flipping (Cryptocurrency Trading Strategies That Always Win)
 ---
-<article class="post-listing post-19491 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-altcoin tag-cryptocurrency tag-flipping tag-strategies tag-trading tag-tutorial tag-win">
+<article class="post-listing post-19491 post type-post status-publish format-standard has-post-thumbnail hentry  tag-altcoin tag-cryptocurrency tag-flipping tag-strategies tag-trading tag-tutorial tag-win">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>April 30, 2017</span>

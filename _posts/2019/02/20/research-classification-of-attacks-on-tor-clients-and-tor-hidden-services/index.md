@@ -1,7 +1,7 @@
 ---
 Research: Classification of attacks on Tor clients and Tor hidden services
 ---
-<article class="post-listing post-28407 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-attacks tag-classification tag-clients tag-hidden tag-research tag-services tag-tor">
+<article class="post-listing post-28407 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-classification tag-clients tag-hidden tag-research tag-services tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 20, 2019</span>

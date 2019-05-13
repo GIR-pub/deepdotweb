@@ -1,7 +1,7 @@
 ---
 6 More Linux Distros for the Truly Paranoid
 ---
-<article class="post-listing post-15933 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-distros tag-linux tag-paranoid">
+<article class="post-listing post-15933 post type-post status-publish format-standard has-post-thumbnail hentry  tag-distros tag-linux tag-paranoid">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
     <span>October 19, 2016</span>

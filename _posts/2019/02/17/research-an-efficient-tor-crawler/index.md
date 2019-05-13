@@ -1,7 +1,7 @@
 ---
 Research: An efficient Tor crawler
 ---
-<article class="post-listing post-28378 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-crawler tag-efficient tag-research tag-tor">
+<article class="post-listing post-28378 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crawler tag-efficient tag-research tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 17, 2019</span>

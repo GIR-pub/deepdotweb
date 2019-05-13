@@ -1,7 +1,7 @@
 ---
 PGP Tutorial For OS X
 ---
-<article class="post-listing post-9153 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-os tag-pgp tag-tutorial">
+<article class="post-listing post-9153 post type-post status-publish format-standard has-post-thumbnail hentry  tag-os tag-pgp tag-tutorial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 20, 2015</span>

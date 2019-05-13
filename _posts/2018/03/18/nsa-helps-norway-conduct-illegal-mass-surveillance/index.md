@@ -2,7 +2,7 @@
 The NSA Helps Norway Conduct Illegal Mass Surveillance
 ---
 <article class="post-listing post-25088 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-conduct tag-helps tag-illegal tag-mass tag-norway tag-nsa tag-surveillance">
+ tag-conduct tag-helps tag-illegal tag-mass tag-norway tag-nsa tag-surveillance">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 18, 2018</span>

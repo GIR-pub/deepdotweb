@@ -2,7 +2,7 @@
 Renowned Hacker “tessa88” Is Identified to Be Russian National
 ---
 <article class="post-listing post-27547 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-hacker tag-identified tag-national tag-renowned tag-russian tag-tessa88">
+ tag-hacker tag-identified tag-national tag-renowned tag-russian tag-tessa88">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>December 11, 2018</span>

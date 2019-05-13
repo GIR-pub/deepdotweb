@@ -1,7 +1,7 @@
 ---
 The Ghost Telephonist Allows Hackers to Make Calls and Texts from Your Phone Number
 ---
-<article class="post-listing post-22027 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-calls tag-ghost tag-hackers tag-number tag-phone tag-telephonist tag-texts">
+<article class="post-listing post-22027 post type-post status-publish format-standard has-post-thumbnail hentry  tag-calls tag-ghost tag-hackers tag-number tag-phone tag-telephonist tag-texts">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>August 18, 2017</span>

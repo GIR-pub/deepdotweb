@@ -1,7 +1,7 @@
 ---
 14-year-old Boy Arrested in Japan for Creating Ransomware Virus
 ---
-<article class="post-listing post-20830 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-14yearold tag-boy tag-creating tag-japan tag-ransomware tag-virus">
+<article class="post-listing post-20830 post type-post status-publish format-standard has-post-thumbnail hentry  tag-14yearold tag-boy tag-creating tag-japan tag-ransomware tag-virus">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/jackmeyer/" title="">Jack Meyer </a></span>
     <span>June 23, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Spending Bitcoins: The Right Way
 ---
-<article class="post-listing post-8287 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-amazon tag-apple tag-bitcoin tag-spend tag-starbucks tag-walmart">
+<article class="post-listing post-8287 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amazon tag-apple tag-bitcoin tag-spend tag-starbucks tag-walmart">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kyleseverance/" title="">Kyle Severance </a></span>
 <span>March 30, 2015</span>

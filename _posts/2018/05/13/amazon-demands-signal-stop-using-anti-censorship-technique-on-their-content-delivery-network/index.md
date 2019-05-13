@@ -2,7 +2,7 @@
 Amazon Demands Signal Stop Using Anti-Censorship Technique on Their Content Delivery Network
 ---
 <article class="post-listing post-25684 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-amazon tag-anticensorship tag-content tag-delivery tag-demands tag-network tag-signal tag-stop tag-technique">
+ tag-amazon tag-anticensorship tag-content tag-delivery tag-demands tag-network tag-signal tag-stop tag-technique">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>May 13, 2018</span>

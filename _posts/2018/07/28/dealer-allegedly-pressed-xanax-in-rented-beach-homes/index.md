@@ -2,7 +2,7 @@
 Dealer Allegedly Pressed Xanax in Rented Beach Homes
 ---
 <article class="post-listing post-26426 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-allegedly tag-beach tag-dealer tag-homes tag-pressed tag-rented tag-xanax">
+ tag-allegedly tag-beach tag-dealer tag-homes tag-pressed tag-rented tag-xanax">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 28, 2018</span>

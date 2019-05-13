@@ -1,7 +1,7 @@
 ---
 Israeli offered company secrets worth 50 million dollars on the dark web
 ---
-<article class="post-listing post-26358 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-1447 tag-company tag-dark tag-dollars tag-israeli tag-million tag-offered tag-secrets tag-web tag-worth">
+<article class="post-listing post-26358 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1447 tag-company tag-dark tag-dollars tag-israeli tag-million tag-offered tag-secrets tag-web tag-worth">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>July 21, 2018</span>

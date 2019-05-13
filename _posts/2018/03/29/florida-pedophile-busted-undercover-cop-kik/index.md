@@ -2,7 +2,7 @@
 Florida Pedophile Busted by Undercover Cop on Kik
 ---
 <article class="post-listing post-25184 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-busted tag-cop tag-florida tag-kik tag-pedophile tag-undercover">
+ tag-busted tag-cop tag-florida tag-kik tag-pedophile tag-undercover">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 29, 2018</span>

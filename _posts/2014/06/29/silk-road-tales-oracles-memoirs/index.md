@@ -1,7 +1,7 @@
 ---
 Silk Road Tales: Oracle&#8217;s Memoirs
 ---
-<article class="post-listing post-6258 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-memoirs tag-oracle">
+<article class="post-listing post-6258 post type-post status-publish format-standard has-post-thumbnail hentry  tag-memoirs tag-oracle">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 29, 2014</span>

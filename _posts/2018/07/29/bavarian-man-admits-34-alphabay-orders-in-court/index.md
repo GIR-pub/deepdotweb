@@ -2,7 +2,7 @@
 Bavarian Man Admits 34 Alphabay Orders in Court
 ---
 <article class="post-listing post-26438 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-4689 tag-admits tag-alphabay tag-bavarian tag-court tag-man tag-orders">
+ tag-4689 tag-admits tag-alphabay tag-bavarian tag-court tag-man tag-orders">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 29, 2018</span>

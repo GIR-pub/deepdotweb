@@ -2,7 +2,7 @@
 Man Abused His Stepdaughter, Shared Pictures on Darknet Forums
 ---
 <article class="post-listing post-23296 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-abused tag-darknet tag-forums tag-man tag-pictures tag-shared tag-stepdaughter">
+ tag-abused tag-darknet tag-forums tag-man tag-pictures tag-shared tag-stepdaughter">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 28, 2017</span>

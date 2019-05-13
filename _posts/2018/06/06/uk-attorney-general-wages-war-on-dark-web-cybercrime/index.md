@@ -2,7 +2,7 @@
 UK Attorney General Wages War on Dark Web Cybercrime
 ---
 <article class="post-listing post-25936 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-attorney tag-cybercrime tag-dark tag-general tag-uk tag-wages tag-war tag-web">
+ tag-attorney tag-cybercrime tag-dark tag-general tag-uk tag-wages tag-war tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>June 6, 2018</span>

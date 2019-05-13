@@ -1,7 +1,7 @@
 ---
 The current state of coin-mixing services
 ---
-<article class="post-listing post-5704 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-coinmixing tag-current tag-services tag-state">
+<article class="post-listing post-5704 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coinmixing tag-current tag-services tag-state">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
     <span>May 25, 2014</span>

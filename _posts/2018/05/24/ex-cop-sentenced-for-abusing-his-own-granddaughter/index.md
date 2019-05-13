@@ -2,7 +2,7 @@
 Ex-Cop Sentenced for Abusing His Own Granddaughter
 ---
 <article class="post-listing post-25812 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-abusing tag-excop tag-granddaughter tag-sentenced">
+ tag-abusing tag-excop tag-granddaughter tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 24, 2018</span>

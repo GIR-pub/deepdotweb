@@ -2,7 +2,7 @@
 Man Get Prison Time for Filming and Uploading CP to the Darknet
 ---
 <article class="post-listing post-24598 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-cp tag-darknet tag-filming tag-man tag-prison tag-time tag-uploading">
+ tag-cp tag-darknet tag-filming tag-man tag-prison tag-time tag-uploading">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 29, 2018</span>

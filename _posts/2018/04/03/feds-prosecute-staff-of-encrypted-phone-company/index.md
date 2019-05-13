@@ -2,7 +2,7 @@
 Feds Prosecute Staff of Encrypted Phone Company
 ---
 <article class="post-listing post-25248 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-company tag-encrypted tag-feds tag-phone tag-prosecute tag-staff">
+ tag-company tag-encrypted tag-feds tag-phone tag-prosecute tag-staff">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>April 3, 2018</span>

@@ -1,7 +1,7 @@
 ---
 How Companies are Deanonymizing Bitcoin
 ---
-<article class="post-listing post-19289 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-companies tag-deanonymizing">
+<article class="post-listing post-19289 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-companies tag-deanonymizing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>April 20, 2017</span>

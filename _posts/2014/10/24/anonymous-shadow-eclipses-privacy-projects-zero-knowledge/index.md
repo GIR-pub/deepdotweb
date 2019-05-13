@@ -1,7 +1,7 @@
 ---
 Anonymous Shadow Eclipses Other Privacy Projects with Zero Knowledge
 ---
-<article class="post-listing post-7471 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-eclipses tag-knowledge tag-privacy tag-projects tag-shadow">
+<article class="post-listing post-7471 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-eclipses tag-knowledge tag-privacy tag-projects tag-shadow">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>October 24, 2014</span>

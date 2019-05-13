@@ -2,7 +2,7 @@
 Attorney in Ireland Links the DNMs to an Ongoing Gang War
 ---
 <article class="post-listing post-18786 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-attorney tag-dnms tag-gang tag-ireland tag-links tag-ongoing tag-war">
+ tag-attorney tag-dnms tag-gang tag-ireland tag-links tag-ongoing tag-war">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 25, 2017</span>

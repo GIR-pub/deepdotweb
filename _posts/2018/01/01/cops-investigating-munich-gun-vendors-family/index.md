@@ -2,7 +2,7 @@
 Cops are Investigating the Munich Gun Vendor’s Family
 ---
 <article class="post-listing post-24221 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-cops tag-family tag-gun tag-investigating tag-munich tag-vendors">
+ tag-cops tag-family tag-gun tag-investigating tag-munich tag-vendors">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 1, 2018</span>

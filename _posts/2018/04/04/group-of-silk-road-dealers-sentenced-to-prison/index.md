@@ -2,7 +2,7 @@
 Group of Silk Road Dealers Sentenced to Prison
 ---
 <article class="post-listing post-25260 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-dealers tag-group tag-prison tag-road tag-sentenced tag-silk">
+ tag-dealers tag-group tag-prison tag-road tag-sentenced tag-silk">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 4, 2018</span>

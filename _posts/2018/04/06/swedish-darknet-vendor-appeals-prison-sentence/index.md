@@ -2,7 +2,7 @@
 Swedish Darknet Vendor Appeals Prison Sentence
 ---
 <article class="post-listing post-25287 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-appeals tag-darknet tag-prison tag-sentence tag-swedish tag-vendor">
+ tag-appeals tag-darknet tag-prison tag-sentence tag-swedish tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 6, 2018</span>

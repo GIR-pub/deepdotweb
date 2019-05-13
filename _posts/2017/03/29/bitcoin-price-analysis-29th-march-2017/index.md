@@ -2,7 +2,7 @@
 Bitcoin Price Analysis 29th March 2017
 ---
 <article class="post-listing post-18956 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-3676 tag-29th tag-analysis tag-bitcoin tag-march tag-price">
+ tag-3676 tag-29th tag-analysis tag-bitcoin tag-march tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>March 29, 2017</span>

@@ -2,7 +2,7 @@
 Video Guide to DarkNet Markets
 ---
 <article class="post-listing post-10399 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-darknet tag-guide tag-markets tag-video tie_video">
-    <div class="single-post-video">
+    
     <iframe width="660" height="371" src="https://www.youtube.com/embed/nBS788BinNY?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

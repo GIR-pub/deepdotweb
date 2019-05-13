@@ -1,7 +1,7 @@
 ---
 title: Silk Road tales and archives
 ---
-1132 category-deepdot-news tag-archives tag-road tag-silk tag-tales">
+1132  tag-archives tag-road tag-silk tag-tales">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 1, 2013</span>

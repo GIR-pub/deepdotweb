@@ -2,7 +2,7 @@
 Bavarian Narcotics Ring Busted
 ---
 <article class="post-listing post-18584 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bavarian tag-busted tag-narcotics tag-ring">
+ tag-bavarian tag-busted tag-narcotics tag-ring">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 12, 2017</span>

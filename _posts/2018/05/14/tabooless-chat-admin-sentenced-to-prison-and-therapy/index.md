@@ -2,7 +2,7 @@
 Tabooless Chat Admin Sentenced to Prison and Therapy
 ---
 <article class="post-listing post-25696 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-admin tag-chat tag-prison tag-sentenced tag-tabooless tag-therapy">
+ tag-admin tag-chat tag-prison tag-sentenced tag-tabooless tag-therapy">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 14, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Imperfectly Programmed Smart Contracts Will Gobble Your Money
 ---
-<article class="post-listing post-18993 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-contracts tag-gobble tag-imperfectly tag-money tag-programmed tag-smart">
+<article class="post-listing post-18993 post type-post status-publish format-standard has-post-thumbnail hentry  tag-contracts tag-gobble tag-imperfectly tag-money tag-programmed tag-smart">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>April 4, 2017</span>

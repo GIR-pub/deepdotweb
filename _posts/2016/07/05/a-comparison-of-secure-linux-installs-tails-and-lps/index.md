@@ -1,7 +1,7 @@
 ---
 A comparison of secure Linux installs: Tails and LPS
 ---
-<article class="post-listing post-14726 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-comparison tag-installs tag-linux tag-lps tag-secure tag-tails">
+<article class="post-listing post-14726 post type-post status-publish format-standard has-post-thumbnail hentry  tag-comparison tag-installs tag-linux tag-lps tag-secure tag-tails">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 5, 2016</span>

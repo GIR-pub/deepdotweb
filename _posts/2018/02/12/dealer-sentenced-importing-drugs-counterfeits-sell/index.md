@@ -2,7 +2,7 @@
 Dealer Sentenced for Importing Drugs and Counterfeits to Sell
 ---
 <article class="post-listing post-24783 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-counterfeits tag-dealer tag-importing tag-sell tag-sentenced">
+ tag-counterfeits tag-dealer tag-importing tag-sell tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 12, 2018</span>

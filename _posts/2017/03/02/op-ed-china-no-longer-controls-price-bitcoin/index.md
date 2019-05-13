@@ -2,7 +2,7 @@
 Op-Ed: China No longer controls the price of Bitcoin
 ---
 <article class="post-listing post-18470 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bitcoin tag-china tag-controls tag-longer tag-price">
+ tag-bitcoin tag-china tag-controls tag-longer tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>March 2, 2017</span>

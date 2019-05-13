@@ -2,7 +2,7 @@
 Posting Selfie Gets Darkweb Weapons Buyer Busted
 ---
 <article class="post-listing post-26309 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-busted tag-buyer tag-darkweb tag-posting tag-selfie tag-weapons">
+ tag-busted tag-buyer tag-darkweb tag-posting tag-selfie tag-weapons">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>July 15, 2018</span>

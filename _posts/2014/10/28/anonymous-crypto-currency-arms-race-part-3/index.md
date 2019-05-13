@@ -1,7 +1,7 @@
 ---
 Anonymous Crypto-currency Arms Race Part 3
 ---
-<article class="post-listing post-7264 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-arms tag-armsrace tag-cryptocurrency tag-part tag-race">
+<article class="post-listing post-7264 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-arms tag-armsrace tag-cryptocurrency tag-part tag-race">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>October 28, 2014</span>

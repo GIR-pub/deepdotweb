@@ -1,7 +1,7 @@
 ---
 title: Darknet Distrust: The Reaction To SR 2.0 In Competing Marketplaces?
 ---
-1284 category-deepdot-newstag-competing tag-darknet tag-distrust tag-marketplaces tag-reaction tag-sr">
+1284 tag-competing tag-darknet tag-distrust tag-marketplaces tag-reaction tag-sr">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 11, 2013</span>

@@ -1,7 +1,7 @@
 ---
 Which Secure Email Provider Is the One For You?
 ---
-<article class="post-listing post-10325 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-email tag-provider tag-secure">
+<article class="post-listing post-10325 post type-post status-publish format-standard has-post-thumbnail hentry  tag-email tag-provider tag-secure">
     
 <div class="post-inner">
     

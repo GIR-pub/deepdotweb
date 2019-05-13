@@ -1,7 +1,7 @@
 ---
 Famously Anonymous: Tor Social Networks
 ---
-<article class="post-listing post-17103 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymous tag-famously tag-networks tag-social tag-tor">
+<article class="post-listing post-17103 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-famously tag-networks tag-social tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
     <span>December 23, 2016</span>

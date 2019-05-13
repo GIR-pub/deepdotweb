@@ -2,7 +2,7 @@
 Fentanyl Vendor “Zane61” to Accept Plea Deal, Lawyer Says
 ---
 <article class="post-listing post-26576 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-accept tag-deal tag-fentanyl tag-lawyer tag-plea tag-vendor tag-zane61">
+ tag-accept tag-deal tag-fentanyl tag-lawyer tag-plea tag-vendor tag-zane61">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 18, 2018</span>

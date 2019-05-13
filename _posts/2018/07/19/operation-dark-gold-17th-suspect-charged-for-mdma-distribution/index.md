@@ -2,7 +2,7 @@
 Operation Dark Gold: 17th Suspect Charged for MDMA Distribution
 ---
 <article class="post-listing post-26336 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-17th tag-charged tag-dark tag-distribution tag-gold tag-mdma tag-operation tag-suspect">
+ tag-17th tag-charged tag-dark tag-distribution tag-gold tag-mdma tag-operation tag-suspect">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 19, 2018</span>

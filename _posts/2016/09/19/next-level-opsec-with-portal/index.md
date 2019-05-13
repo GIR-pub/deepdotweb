@@ -1,7 +1,7 @@
 ---
 Next Level OPSEC with PORTAL
 ---
-<article class="post-listing post-15459 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-level tag-opsec tag-portal">
+<article class="post-listing post-15459 post type-post status-publish format-standard has-post-thumbnail hentry  tag-level tag-opsec tag-portal">
     
     <div class="post-inner">
     

@@ -2,7 +2,7 @@
 &#8220;No Logs&#8221; VPN Provider Shared Logs with FBI
 ---
 <article class="post-listing post-23244 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-fbi tag-logs tag-provider tag-shared tag-vpn">
+ tag-fbi tag-logs tag-provider tag-shared tag-vpn">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>October 24, 2017</span>

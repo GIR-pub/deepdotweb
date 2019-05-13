@@ -2,7 +2,7 @@
 Darknet Vendors and Buyers Switching to Decentralized Trading Solutions
 ---
 <article class="post-listing post-26146 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-buyers tag-darknet tag-decentralized tag-solutions tag-switching tag-trading tag-vendors">
+ tag-buyers tag-darknet tag-decentralized tag-solutions tag-switching tag-trading tag-vendors">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>June 26, 2018</span>

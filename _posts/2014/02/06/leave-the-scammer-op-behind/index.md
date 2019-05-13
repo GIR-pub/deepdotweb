@@ -1,7 +1,7 @@
 ---
 Leave the Scammer-op behind
 ---
-<article class="post-listing post-3849 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-leave tag-scammerop">
+<article class="post-listing post-3849 post type-post status-publish format-standard has-post-thumbnail hentry  tag-leave tag-scammerop">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 6, 2014</span>

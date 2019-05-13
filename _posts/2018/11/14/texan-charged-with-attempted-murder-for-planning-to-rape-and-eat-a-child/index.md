@@ -2,7 +2,7 @@
 Texan Charged with Attempted Murder for Planning to Rape and Eat a Child
 ---
 <article class="post-listing post-27217 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-attempted tag-charged tag-child tag-eat tag-murder tag-planning tag-rape tag-texan">
+ tag-attempted tag-charged tag-child tag-eat tag-murder tag-planning tag-rape tag-texan">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>November 14, 2018</span>

@@ -2,7 +2,7 @@
 Bitcoin news roundup, September 3, 2017
 ---
 <article class="post-listing post-22327 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-3676 tag-bitcoin tag-news tag-roundup tag-september">
+ tag-3676 tag-bitcoin tag-news tag-roundup tag-september">
     
     <div class="post-inner">
     

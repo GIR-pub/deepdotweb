@@ -1,7 +1,7 @@
 ---
 Netsukuku and GNUnet: Viable Tor Alternatives?
 ---
-<article class="post-listing post-15100 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-alternatives tag-gnunet tag-netsukuku tag-tor">
+<article class="post-listing post-15100 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternatives tag-gnunet tag-netsukuku tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
     <span>August 14, 2016</span>

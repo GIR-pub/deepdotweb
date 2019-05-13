@@ -2,7 +2,7 @@
 Guardia Civil Bust Former Alphabay Pistol Vendor
 ---
 <article class="post-listing post-23167 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-alphabay tag-bust tag-civil tag-guardia tag-pistol tag-vendor">
+ tag-alphabay tag-bust tag-civil tag-guardia tag-pistol tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 20, 2017</span>

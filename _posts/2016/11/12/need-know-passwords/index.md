@@ -1,7 +1,7 @@
 ---
 All You Need To Know About Passwords
 ---
-<article class="post-listing post-16395 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-passwords">
+<article class="post-listing post-16395 post type-post status-publish format-standard has-post-thumbnail hentry  tag-passwords">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>November 12, 2016</span>

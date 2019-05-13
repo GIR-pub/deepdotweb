@@ -2,7 +2,7 @@
 Sex Predator Peter Scully To Escape Death Penalty In The Philippines
 ---
 <article class="post-listing post-18741 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-death tag-escape tag-penalty tag-peter tag-philippines tag-predator tag-scully tag-sex">
+ tag-death tag-escape tag-penalty tag-peter tag-philippines tag-predator tag-scully tag-sex">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 22, 2017</span>

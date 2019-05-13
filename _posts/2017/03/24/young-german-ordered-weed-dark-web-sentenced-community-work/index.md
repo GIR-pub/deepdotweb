@@ -2,7 +2,7 @@
 Young German Ordered Weed From Dark Web &#8211; Sentenced To Community Work
 ---
 <article class="post-listing post-18768 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrest tag-community tag-dark tag-german tag-house tag-imposed tag-ordered tag-parents tag-sentenced tag-web tag-weed tag-work tag-young">
+ tag-arrest tag-community tag-dark tag-german tag-house tag-imposed tag-ordered tag-parents tag-sentenced tag-web tag-weed tag-work tag-young">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 24, 2017</span>

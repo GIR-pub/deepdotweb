@@ -2,7 +2,7 @@
 The US And Dutch Officials Launches Door To Door Operation on Darknet Drug Buyers
 ---
 <article class="post-listing post-24986 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-buyers tag-darknet tag-door tag-drug tag-dutch tag-launches tag-officials tag-operation">
+ tag-buyers tag-darknet tag-door tag-drug tag-dutch tag-launches tag-officials tag-operation">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>March 7, 2018</span>

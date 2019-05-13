@@ -2,7 +2,7 @@
 Massive Online Weed Shop Busted in Canada
 ---
 <article class="post-listing post-26173 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-busted tag-canada tag-massive tag-online tag-shop tag-weed">
+ tag-busted tag-canada tag-massive tag-online tag-shop tag-weed">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 2, 2018</span>

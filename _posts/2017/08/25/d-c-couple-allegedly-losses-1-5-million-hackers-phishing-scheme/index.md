@@ -2,7 +2,7 @@
 D.C Couple Allegedly Losses $1.5 Million to Hackers in Phishing Scheme
 ---
 <article class="post-listing post-22163 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-1886 tag-allegedly tag-couple tag-dc tag-hackers tag-losses tag-million tag-phishing tag-scheme">
+ tag-1886 tag-allegedly tag-couple tag-dc tag-hackers tag-losses tag-million tag-phishing tag-scheme">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>August 25, 2017</span>

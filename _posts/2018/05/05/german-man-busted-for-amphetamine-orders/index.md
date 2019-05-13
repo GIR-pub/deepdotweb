@@ -2,7 +2,7 @@
 German Man Busted for Amphetamine Orders
 ---
 <article class="post-listing post-25599 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-amphetamine tag-busted tag-german tag-man tag-orders">
+ tag-amphetamine tag-busted tag-german tag-man tag-orders">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 5, 2018</span>

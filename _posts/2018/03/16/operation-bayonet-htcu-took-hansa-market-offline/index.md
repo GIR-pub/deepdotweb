@@ -2,7 +2,7 @@
 Operation Bayonet: This is how HTCU took Hansa Market offline
 ---
 <article class="post-listing post-25063 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bayonet tag-hansa tag-htcu tag-market tag-offline tag-operation">
+ tag-bayonet tag-hansa tag-htcu tag-market tag-offline tag-operation">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>March 16, 2018</span>

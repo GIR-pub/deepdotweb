@@ -2,7 +2,7 @@
 Murder for hire Charges against Convicted Silk Road founder Dropped
 ---
 <article class="post-listing post-26611 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-charges tag-convicted tag-dropped tag-founder tag-hire tag-murder tag-road tag-silk">
+ tag-charges tag-convicted tag-dropped tag-founder tag-hire tag-murder tag-road tag-silk">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 22, 2018</span>

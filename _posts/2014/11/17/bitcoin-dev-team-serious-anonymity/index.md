@@ -1,7 +1,7 @@
 ---
 Is The Bitcoin Dev Team Serious About Anonymity?
 ---
-<article class="post-listing post-6857 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-anonymity tag-bitcoin tag-dev tag-team">
+<article class="post-listing post-6857 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymity tag-bitcoin tag-dev tag-team">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>November 17, 2014</span>

@@ -2,7 +2,7 @@
 Missouri Man Sentenced to 15 Years for Selling THC Analogues
 ---
 <article class="post-listing post-26407 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-1886 tag-analogues tag-man tag-missouri tag-selling tag-sentenced tag-thc tag-years">
+ tag-1886 tag-analogues tag-man tag-missouri tag-selling tag-sentenced tag-thc tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 26, 2018</span>

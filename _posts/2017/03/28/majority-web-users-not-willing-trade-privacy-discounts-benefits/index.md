@@ -2,7 +2,7 @@
 Majority of Web Users Not Willing to Trade Privacy For Discounts &#038; Benefits
 ---
 <article class="post-listing post-18853 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-benefits tag-discounts tag-majority tag-privacy tag-trade tag-users tag-web">
+ tag-benefits tag-discounts tag-majority tag-privacy tag-trade tag-users tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 28, 2017</span>

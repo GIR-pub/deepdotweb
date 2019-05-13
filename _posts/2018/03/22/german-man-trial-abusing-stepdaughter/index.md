@@ -2,7 +2,7 @@
 German Man on Trial for Abusing His Stepdaughter
 ---
 <article class="post-listing post-25141 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-abusing tag-german tag-man tag-stepdaughter tag-trial">
+ tag-abusing tag-german tag-man tag-stepdaughter tag-trial">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 22, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Op-Ed: Agora: The site we all wanted
 ---
-<article class="post-listing post-11417 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-agora tag-site tag-wanted">
+<article class="post-listing post-11417 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-site tag-wanted">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
 <span>September 3, 2015</span>

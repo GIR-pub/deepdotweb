@@ -2,7 +2,7 @@
 Bitcoin Price Analysis 15.3.17
 ---
 <article class="post-listing post-18714 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-5156 tag-analysis tag-bitcoin tag-price">
+ tag-5156 tag-analysis tag-bitcoin tag-price">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>March 15, 2017</span>

@@ -2,7 +2,7 @@
 The Blockchain Technology, Smart Contracts and Legal Procedures
 ---
 <article class="post-listing post-18615 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-blockchain tag-contracts tag-legal tag-procedures tag-smart tag-technology">
+ tag-blockchain tag-contracts tag-legal tag-procedures tag-smart tag-technology">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 14, 2017</span>

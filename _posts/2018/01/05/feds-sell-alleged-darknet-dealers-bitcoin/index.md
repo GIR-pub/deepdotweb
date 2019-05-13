@@ -2,7 +2,7 @@
 Feds to Sell Alleged Darknet Dealer’s Bitcoin
 ---
 <article class="post-listing post-24282 post type-post status-publish format-standard hentry 
-category-news-updates tag-alleged tag-bitcoin tag-darknet tag-dealers tag-feds tag-sell">
+ tag-alleged tag-bitcoin tag-darknet tag-dealers tag-feds tag-sell">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 5, 2018</span>

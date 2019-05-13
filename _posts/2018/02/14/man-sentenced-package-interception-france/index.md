@@ -2,7 +2,7 @@
 Man Sentenced After Package Interception in France
 ---
 <article class="post-listing post-24807 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-france tag-interception tag-man tag-package tag-sentenced">
+ tag-france tag-interception tag-man tag-package tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 14, 2018</span>

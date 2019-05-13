@@ -2,7 +2,7 @@
 Thailand Police seizes Assets of Late Alleged Mastermind behind AlphaBay
 ---
 <article class="post-listing post-21848 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-alleged tag-alphabay tag-assets tag-late tag-mastermind tag-police tag-seizes tag-thailand">
+ tag-alleged tag-alphabay tag-assets tag-late tag-mastermind tag-police tag-seizes tag-thailand">
     
     <div class="post-inner">
     

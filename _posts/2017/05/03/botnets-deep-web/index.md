@@ -1,7 +1,7 @@
 ---
 Botnets and the Deep Web
 ---
-<article class="post-listing post-19602 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-botnets tag-deep tag-web">
+<article class="post-listing post-19602 post type-post status-publish format-standard has-post-thumbnail hentry  tag-botnets tag-deep tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>May 3, 2017</span>

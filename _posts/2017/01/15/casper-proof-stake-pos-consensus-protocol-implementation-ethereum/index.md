@@ -1,7 +1,7 @@
 ---
 CASPER &#8211; Proof of Stake (PoS) Consensus Protocol For Implementation On Ethereum
 ---
-<article class="post-listing post-17536 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-casper tag-consensus tag-ethereum tag-implementation tag-pos tag-proof tag-protocol tag-stake">
+<article class="post-listing post-17536 post type-post status-publish format-standard has-post-thumbnail hentry  tag-casper tag-consensus tag-ethereum tag-implementation tag-pos tag-proof tag-protocol tag-stake">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 15, 2017</span>

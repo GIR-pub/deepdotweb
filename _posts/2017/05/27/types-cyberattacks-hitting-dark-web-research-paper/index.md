@@ -1,7 +1,7 @@
 ---
 Types of Cyberattacks Hitting the Dark Web &#8211; A Research Paper
 ---
-<article class="post-listing post-20172 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cyberattacks tag-dark tag-hitting tag-paper tag-research tag-types tag-web">
+<article class="post-listing post-20172 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cyberattacks tag-dark tag-hitting tag-paper tag-research tag-types tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>May 27, 2017</span>

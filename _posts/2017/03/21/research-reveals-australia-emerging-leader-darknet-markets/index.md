@@ -2,7 +2,7 @@
 Research Reveals Australia is an Emerging Leader in Darknet Markets
 ---
 <article class="post-listing post-18729 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-australia tag-darknet tag-emerging tag-leader tag-markets tag-research tag-reveals">
+ tag-australia tag-darknet tag-emerging tag-leader tag-markets tag-research tag-reveals">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 21, 2017</span>

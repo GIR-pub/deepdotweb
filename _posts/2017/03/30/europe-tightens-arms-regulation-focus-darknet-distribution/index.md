@@ -2,7 +2,7 @@
 Europe Tightens Arms Regulation, Focus on Darknet Distribution
 ---
 <article class="post-listing post-18883 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arms tag-darknet tag-distribution tag-europe tag-focus tag-regulation tag-tightens">
+ tag-arms tag-darknet tag-distribution tag-europe tag-focus tag-regulation tag-tightens">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 30, 2017</span>

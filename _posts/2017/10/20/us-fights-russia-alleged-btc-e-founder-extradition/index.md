@@ -2,7 +2,7 @@
 US Fights Russia Over Alleged BTC-e Founder Extradition
 ---
 <article class="post-listing post-23165 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-alleged tag-btce tag-extradition tag-fights tag-founder tag-russia">
+ tag-alleged tag-btce tag-extradition tag-fights tag-founder tag-russia">
     
 <div class="post-inner">
     

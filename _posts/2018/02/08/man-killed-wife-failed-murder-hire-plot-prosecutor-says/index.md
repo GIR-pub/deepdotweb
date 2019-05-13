@@ -2,7 +2,7 @@
 Man Killed His Wife After Failed “Murder for Hire” Plot, Prosecutor Says
 ---
 <article class="post-listing post-24731 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-failed tag-hire tag-killed tag-man tag-murder tag-plot tag-prosecutor tag-wife">
+ tag-failed tag-hire tag-killed tag-man tag-murder tag-plot tag-prosecutor tag-wife">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 8, 2018</span>

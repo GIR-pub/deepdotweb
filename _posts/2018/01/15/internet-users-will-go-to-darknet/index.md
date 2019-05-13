@@ -2,7 +2,7 @@
 Internet users will go to darknet In Russia
 ---
 <article class="post-listing post-24421 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-darknet tag-internet tag-russia tag-users">
+ tag-darknet tag-internet tag-russia tag-users">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>January 15, 2018</span>

@@ -2,7 +2,7 @@
 Government Contractor Offers Million Dollar Bounty for Tor 0-Days
 ---
 <article class="post-listing post-22812 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-0days tag-bounty tag-contractor tag-dollar tag-government tag-million tag-offers tag-tor">
+ tag-0days tag-bounty tag-contractor tag-dollar tag-government tag-million tag-offers tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>September 28, 2017</span>

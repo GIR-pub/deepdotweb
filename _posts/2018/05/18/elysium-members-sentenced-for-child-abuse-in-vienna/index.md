@@ -2,7 +2,7 @@
 Elysium Members Sentenced for Child Abuse in Vienna
 ---
 <article class="post-listing post-25733 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-abuse tag-child tag-elysium tag-members tag-sentenced tag-vienna">
+ tag-abuse tag-child tag-elysium tag-members tag-sentenced tag-vienna">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 18, 2018</span>

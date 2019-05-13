@@ -1,7 +1,7 @@
 ---
 Catastrophic Corruption In The Baltimore Silk Road Taskforce (1)
 ---
-<article class="post-listing post-9892 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-srcorruption">
+<article class="post-listing post-9892 post type-post status-publish format-standard has-post-thumbnail hentry  tag-srcorruption">
     
     <div class="post-inner">
     

@@ -2,7 +2,7 @@
 Task Force Argos Operated a Darknet Child Abuse Forum for 11 Months
 ---
 <article class="post-listing post-23079 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-1879 tag-abuse tag-argos tag-child tag-darknet tag-force tag-forum tag-months tag-operated tag-task">
+ tag-1879 tag-abuse tag-argos tag-child tag-darknet tag-force tag-forum tag-months tag-operated tag-task">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 16, 2017</span>

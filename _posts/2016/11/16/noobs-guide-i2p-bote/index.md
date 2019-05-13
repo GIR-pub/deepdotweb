@@ -1,7 +1,7 @@
 ---
 A Noob’s Guide to I2P-Bote
 ---
-<article class="post-listing post-16456 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-guide tag-i2pbote tag-noobs">
+<article class="post-listing post-16456 post type-post status-publish format-standard has-post-thumbnail hentry  tag-guide tag-i2pbote tag-noobs">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
     <span>November 16, 2016</span>

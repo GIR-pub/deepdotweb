@@ -2,7 +2,7 @@
 More Than 1,000 Investigations Started Against The Customers Of Narcotics Vendor Chemical Love
 ---
 <article class="post-listing post-18742 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-2821 tag-chemical tag-customers tag-investigations tag-love tag-narcotics tag-started tag-vendor">
+ tag-2821 tag-chemical tag-customers tag-investigations tag-love tag-narcotics tag-started tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 22, 2017</span>

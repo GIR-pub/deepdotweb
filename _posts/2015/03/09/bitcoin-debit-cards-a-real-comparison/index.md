@@ -1,7 +1,7 @@
 ---
 Bitcoin Debit Cards: A Real Comparison
 ---
-<article class="post-listing post-8613 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-cards tag-comparison tag-debit tag-real">
+<article class="post-listing post-8613 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-cards tag-comparison tag-debit tag-real">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kyleseverance/" title="">Kyle Severance </a></span>
 <span>March 9, 2015</span>

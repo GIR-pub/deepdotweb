@@ -1,7 +1,7 @@
 ---
 Using Two Factor Authentication Safely
 ---
-<article class="post-listing post-9726 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-authentication tag-factor tag-safely">
+<article class="post-listing post-9726 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authentication tag-factor tag-safely">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/panicmoon/" title="">Panic Moon </a></span>
 <span>August 24, 2015</span>

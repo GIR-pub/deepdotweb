@@ -2,7 +2,7 @@
 Four Defendants Sentenced In Dutch Vendor Shop Case
 ---
 <article class="post-listing post-18867 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-case tag-defendants tag-dutch tag-sentenced tag-shop tag-vendor">
+ tag-case tag-defendants tag-dutch tag-sentenced tag-shop tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 29, 2017</span>

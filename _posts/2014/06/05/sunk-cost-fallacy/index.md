@@ -2,7 +2,7 @@
 The Sunk Cost Fallacy
 ---
 <article class="post-listing post-2802 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-cost tag-fallacy tag-sunk tie_video">
-    <div class="single-post-video">
+    
     <iframe width="660" height="371" src="http://www.youtube.com/embed/vpnxd31y0Fo?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/chrisk/" title="">Chris K. </a></span>

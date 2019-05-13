@@ -2,7 +2,7 @@
 Stronger rules on Cybercrime needed in Germany says Top Police Official
 ---
 <article class="post-listing post-22213 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-cybercrime tag-germany tag-needed tag-official tag-police tag-rules tag-stronger tag-top">
+ tag-cybercrime tag-germany tag-needed tag-official tag-police tag-rules tag-stronger tag-top">
     
     <div class="post-inner">
     

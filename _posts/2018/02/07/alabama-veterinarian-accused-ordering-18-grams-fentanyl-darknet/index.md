@@ -2,7 +2,7 @@
 Alabama Veterinarian Accused of Ordering 18 Grams of Fentanyl on the Darknet
 ---
 <article class="post-listing post-24717 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-1766 tag-accused tag-alabama tag-darknet tag-fentanyl tag-grams tag-ordering tag-veterinarian">
+ tag-1766 tag-accused tag-alabama tag-darknet tag-fentanyl tag-grams tag-ordering tag-veterinarian">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 7, 2018</span>

@@ -2,7 +2,7 @@
 Prolific Darkweb Counterfeit Vendor Arrested in Poland
 ---
 <article class="post-listing post-26902 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-counterfeit tag-darkweb tag-poland tag-prolific tag-vendor">
+ tag-counterfeit tag-darkweb tag-poland tag-prolific tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 11, 2018</span>

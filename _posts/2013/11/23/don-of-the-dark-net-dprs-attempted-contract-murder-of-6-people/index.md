@@ -1,7 +1,7 @@
 ---
 title: Don of the Dark Net: DPR’s Attempted Contract Murder of 6 People
 ---
-1820 category-deepdot-news tag-attempted tag-contract tag-dark tag-don tag-dprs tag-murder tag-net tag-people">
+1820  tag-attempted tag-contract tag-dark tag-don tag-dprs tag-murder tag-net tag-people">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 23, 2013</span>

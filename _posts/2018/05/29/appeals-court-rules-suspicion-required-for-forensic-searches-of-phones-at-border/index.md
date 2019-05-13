@@ -2,7 +2,7 @@
 Appeals Court Rules Suspicion Required for Forensic Searches of Phones at Border
 ---
 <article class="post-listing post-25856 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-appeals tag-border tag-court tag-forensic tag-phones tag-required tag-rules tag-searches tag-suspicion">
+ tag-appeals tag-border tag-court tag-forensic tag-phones tag-required tag-rules tag-searches tag-suspicion">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>May 29, 2018</span>

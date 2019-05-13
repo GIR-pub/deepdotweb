@@ -1,7 +1,7 @@
 ---
 Tutorial: How to Buy From Abraxas Market?
 ---
-<article class="post-listing post-11468 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-abraxas tag-buy tag-market tag-tutorial">
+<article class="post-listing post-11468 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abraxas tag-buy tag-market tag-tutorial">
     
 <div class="post-inner">
     

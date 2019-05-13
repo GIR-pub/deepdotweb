@@ -1,7 +1,7 @@
 ---
 DeepDotWeb&#8217;s DarkNet Dictionary Project!
 ---
-<article class="post-listing post-1883 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-darknet tag-dictionary">
+<article class="post-listing post-1883 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-dictionary">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 2, 2014</span>

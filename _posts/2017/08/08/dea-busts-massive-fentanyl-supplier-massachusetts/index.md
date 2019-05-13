@@ -2,7 +2,7 @@
 DEA Busts a Massive Fentanyl Supplier in Massachusetts
 ---
 <article class="post-listing post-21816 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-busts tag-dea tag-fentanyl tag-massachusetts tag-massive tag-supplier">
+ tag-busts tag-dea tag-fentanyl tag-massachusetts tag-massive tag-supplier">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 8, 2017</span>

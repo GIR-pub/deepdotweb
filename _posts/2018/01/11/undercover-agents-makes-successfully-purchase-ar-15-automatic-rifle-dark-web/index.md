@@ -2,7 +2,7 @@
 Undercover Agents Makes A Successfully Purchase Of AR-15 Automatic Rifle On Dark Web.
 ---
 <article class="post-listing post-24375 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-agents tag-ar15 tag-automatic tag-dark tag-purchase tag-rifle tag-successfully tag-undercover tag-web">
+ tag-agents tag-ar15 tag-automatic tag-dark tag-purchase tag-rifle tag-successfully tag-undercover tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>January 11, 2018</span>

@@ -2,7 +2,7 @@
 Three Cybercrime Gang Members Who Used Dark Web Fraud Arrested
 ---
 <article class="post-listing post-27605 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-cybercrime tag-dark tag-fraud tag-gang tag-members tag-web">
+ tag-cybercrime tag-dark tag-fraud tag-gang tag-members tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>December 18, 2018</span>

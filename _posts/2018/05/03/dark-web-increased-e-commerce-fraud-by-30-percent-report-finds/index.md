@@ -2,7 +2,7 @@
 Dark Web Increased E-commerce Fraud by 30 Percent, Report Finds
 ---
 <article class="post-listing post-25586 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-1778 tag-dark tag-ecommerce tag-finds tag-fraud tag-increased tag-percent tag-report tag-web">
+ tag-1778 tag-dark tag-ecommerce tag-finds tag-fraud tag-increased tag-percent tag-report tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 3, 2018</span>

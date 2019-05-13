@@ -2,7 +2,7 @@
 Child Porn Charges Against Man In Israel
 ---
 <article class="post-listing post-18594 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-charges tag-child tag-israel tag-man tag-porn">
+ tag-charges tag-child tag-israel tag-man tag-porn">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 13, 2017</span>

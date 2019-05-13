@@ -2,7 +2,7 @@
 Netherlands Police Bust a Massive Darknet Vendor Under New Aliases
 ---
 <article class="post-listing post-25197 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-aliases tag-bust tag-darknet tag-massive tag-netherlands tag-police tag-vendor">
+ tag-aliases tag-bust tag-darknet tag-massive tag-netherlands tag-police tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 30, 2018</span>

@@ -1,7 +1,7 @@
 ---
 title: The Silk Road 2.0 Rises: Defying the FBI
 ---
-1201 category-deepdot-newstag-defying tag-fbi tag-rises tag-road tag-silk">
+1201 tag-defying tag-fbi tag-rises tag-road tag-silk">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 7, 2013</span>

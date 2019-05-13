@@ -2,7 +2,7 @@
 Darknet Bust Leads to Portugal’s First Bitcoin Seizure
 ---
 <article class="post-listing post-25289 post type-post status-publish format-standard hentry 
-category-news-updates tag-bitcoin tag-bust tag-darknet tag-leads tag-portugals tag-seizure">
+ tag-bitcoin tag-bust tag-darknet tag-leads tag-portugals tag-seizure">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 6, 2018</span>

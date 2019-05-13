@@ -2,7 +2,7 @@
 Bavarian Man Busted for Attempted Glock Purchase
 ---
 <article class="post-listing post-26587 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-attempted tag-bavarian tag-busted tag-glock tag-man tag-purchase">
+ tag-attempted tag-bavarian tag-busted tag-glock tag-man tag-purchase">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 19, 2018</span>

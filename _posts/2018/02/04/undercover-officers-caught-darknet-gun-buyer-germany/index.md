@@ -2,7 +2,7 @@
 Undercover Officers Caught a Darknet Gun Buyer in Germany
 ---
 <article class="post-listing post-24666 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-buyer tag-caught tag-darknet tag-germany tag-gun tag-officers tag-undercover">
+ tag-buyer tag-caught tag-darknet tag-germany tag-gun tag-officers tag-undercover">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 4, 2018</span>

@@ -2,7 +2,7 @@
 Healthcare Ransomware Attack Declines despite Flashy Attack
 ---
 <article class="post-listing post-26510 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-attack tag-declines tag-flashy tag-healthcare tag-ransomware">
+ tag-attack tag-declines tag-flashy tag-healthcare tag-ransomware">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>August 8, 2018</span>

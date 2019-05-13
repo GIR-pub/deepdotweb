@@ -2,7 +2,7 @@
 Global Operation Takes Down DDoS-for-Hire Site
 ---
 <article class="post-listing post-25606 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-ddosforhire tag-global tag-operation tag-site tag-takes">
+ tag-ddosforhire tag-global tag-operation tag-site tag-takes">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 6, 2018</span>

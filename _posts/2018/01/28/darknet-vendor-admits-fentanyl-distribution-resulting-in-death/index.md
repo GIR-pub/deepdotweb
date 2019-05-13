@@ -2,7 +2,7 @@
 Darknet Vendor Admits Fentanyl Distribution Resulting in Death
 ---
 <article class="post-listing post-24587 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-admits tag-darknet tag-death tag-distribution tag-fentanyl tag-resulting tag-vendor">
+ tag-admits tag-darknet tag-death tag-distribution tag-fentanyl tag-resulting tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 28, 2018</span>

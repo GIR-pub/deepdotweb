@@ -2,7 +2,7 @@
 Android Trojan “Marcher” Almost Impossible to Eliminate
 ---
 <article class="post-listing post-18480 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-android tag-eliminate tag-impossible tag-marcher tag-trojan">
+ tag-android tag-eliminate tag-impossible tag-marcher tag-trojan">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 7, 2017</span>

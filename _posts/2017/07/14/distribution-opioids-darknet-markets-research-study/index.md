@@ -1,7 +1,7 @@
 ---
 The Distribution of Opioids on a Darknet Markets &#8211; A Research Study
 ---
-<article class="post-listing post-21234 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-darknet tag-distribution tag-markets tag-opioids tag-research tag-study">
+<article class="post-listing post-21234 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-distribution tag-markets tag-opioids tag-research tag-study">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>July 14, 2017</span>

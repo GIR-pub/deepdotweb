@@ -2,7 +2,7 @@
 Senate Inquiry Set to Examine Stolen Medicare Information on the Darknet
 ---
 <article class="post-listing post-22472 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-darknet tag-examine tag-information tag-inquiry tag-medicare tag-senate tag-set tag-stolen">
+ tag-darknet tag-examine tag-information tag-inquiry tag-medicare tag-senate tag-set tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>September 10, 2017</span>

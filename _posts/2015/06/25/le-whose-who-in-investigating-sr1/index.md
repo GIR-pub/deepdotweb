@@ -1,7 +1,7 @@
 ---
 LE – Whose Who In Investigating SR1?
 ---
-<article class="post-listing post-10926 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-investigating tag-le tag-sr1">
+<article class="post-listing post-10926 post type-post status-publish format-standard has-post-thumbnail hentry  tag-investigating tag-le tag-sr1">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>June 25, 2015</span>

@@ -1,7 +1,7 @@
 ---
 Cashing Out &#8211; What is Your Strategy?
 ---
-<article class="post-listing post-10463 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cashing tag-strategy">
+<article class="post-listing post-10463 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cashing tag-strategy">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/archer/" title="">Archer </a></span>
     <span>December 23, 2015</span>

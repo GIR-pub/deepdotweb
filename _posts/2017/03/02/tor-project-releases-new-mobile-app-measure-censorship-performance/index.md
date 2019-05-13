@@ -2,7 +2,7 @@
 Tor Project Releases New Mobile App to Measure Censorship and Performance
 ---
 <article class="post-listing post-18404 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-app tag-censorship tag-measure tag-mobile tag-performance tag-project tag-releases tag-tor">
+ tag-app tag-censorship tag-measure tag-mobile tag-performance tag-project tag-releases tag-tor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 2, 2017</span>

@@ -1,7 +1,7 @@
 ---
 What is an ICO (Initial Coin Offering)
 ---
-<article class="post-listing post-19110 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-coin tag-ico tag-initial tag-offering">
+<article class="post-listing post-19110 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coin tag-ico tag-initial tag-offering">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 10, 2017</span>

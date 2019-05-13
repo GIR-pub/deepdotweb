@@ -2,7 +2,7 @@
 Couple Paid Child&#8217;s Tutor with Amphetamine
 ---
 <article class="post-listing post-24361 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-amphetamine tag-childs tag-couple tag-paid tag-tutor">
+ tag-amphetamine tag-childs tag-couple tag-paid tag-tutor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 10, 2018</span>

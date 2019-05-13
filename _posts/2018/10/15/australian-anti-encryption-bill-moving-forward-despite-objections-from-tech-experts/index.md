@@ -2,7 +2,7 @@
 Australian Anti-Encryption Bill Moving Forward Despite Objections from Tech Experts
 ---
 <article class="post-listing post-26944 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-antiencryption tag-australian tag-bill tag-experts tag-moving tag-objections tag-tech">
+ tag-antiencryption tag-australian tag-bill tag-experts tag-moving tag-objections tag-tech">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>October 15, 2018</span>

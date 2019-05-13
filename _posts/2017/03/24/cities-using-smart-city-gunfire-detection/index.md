@@ -2,7 +2,7 @@
 Some Cities Using Smart City Gunfire Detection
 ---
 <article class="post-listing post-18767 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-cities tag-city tag-detection tag-gunfire tag-smart">
+ tag-cities tag-city tag-detection tag-gunfire tag-smart">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 24, 2017</span>

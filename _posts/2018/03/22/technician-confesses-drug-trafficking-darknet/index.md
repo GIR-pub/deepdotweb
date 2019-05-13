@@ -2,7 +2,7 @@
 IT technician confesses drug trafficking in Darknet
 ---
 <article class="post-listing post-25142 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-confesses tag-darknet tag-drug tag-technician tag-trafficking">
+ tag-confesses tag-darknet tag-drug tag-technician tag-trafficking">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/isaacddanso/" title="">Isaac Danso </a></span>
 <span>March 22, 2018</span>

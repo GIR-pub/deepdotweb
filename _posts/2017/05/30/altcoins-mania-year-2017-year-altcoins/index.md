@@ -1,7 +1,7 @@
 ---
 Altcoins mania &#8211; The year of 2017 is the year of altcoins
 ---
-<article class="post-listing post-20224 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-3676 tag-altcoins tag-mania tag-year">
+<article class="post-listing post-20224 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3676 tag-altcoins tag-mania tag-year">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>May 30, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Byteball: Make DAGs, Not Chains!
 ---
-<article class="post-listing post-16632 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-byteball tag-chains tag-dags">
+<article class="post-listing post-16632 post type-post status-publish format-standard has-post-thumbnail hentry  tag-byteball tag-chains tag-dags">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>November 28, 2016</span>

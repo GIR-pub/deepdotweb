@@ -2,7 +2,7 @@
 Danish Police Make Headway in Darknet Investigations
 ---
 <article class="post-listing post-18851 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-danish tag-darknet tag-headway tag-investigations tag-police">
+ tag-danish tag-darknet tag-headway tag-investigations tag-police">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 28, 2017</span>

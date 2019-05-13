@@ -2,7 +2,7 @@
 How do Russians run business on darknet?
 ---
 <article class="post-listing post-24294 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-business tag-darknet tag-run tag-russians">
+ tag-business tag-darknet tag-run tag-russians">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>January 6, 2018</span>

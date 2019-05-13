@@ -2,7 +2,7 @@
 Darknet Card Fraud Increased By 50% in Germany in the First Quarter of 2018
 ---
 <article class="post-listing post-25829 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-5927 tag-1447 tag-card tag-darknet tag-fraud tag-germany tag-increased tag-quarter">
+ tag-5927 tag-1447 tag-card tag-darknet tag-fraud tag-germany tag-increased tag-quarter">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 27, 2018</span>

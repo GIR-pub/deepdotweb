@@ -1,7 +1,7 @@
 ---
 FBI Raid In New Orleans &#8211; Onymous Related
 ---
-<article class="post-listing post-8172 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-fbi tag-onymous tag-operation-onymous tag-orleans tag-raid tag-related tag-silkroad2bust">
+<article class="post-listing post-8172 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fbi tag-onymous tag-operation-onymous tag-orleans tag-raid tag-related tag-silkroad2bust">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>November 11, 2014</span>

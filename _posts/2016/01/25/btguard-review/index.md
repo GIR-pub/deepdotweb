@@ -1,7 +1,7 @@
 ---
 BTGuard Review
 ---
-<article class="post-listing post-12890 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-btguard tag-review">
+<article class="post-listing post-12890 post type-post status-publish format-standard has-post-thumbnail hentry  tag-btguard tag-review">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 25, 2016</span>

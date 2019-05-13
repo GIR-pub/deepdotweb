@@ -2,7 +2,7 @@
 Russian FreeHacks Forum on the Darknet
 ---
 <article class="post-listing post-26539 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-darknet tag-forum tag-freehacks tag-russian">
+ tag-darknet tag-forum tag-freehacks tag-russian">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>August 11, 2018</span>

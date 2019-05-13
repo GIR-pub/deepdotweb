@@ -1,7 +1,7 @@
 ---
 Is your VPN Legit or Shit?
 ---
-<article class="post-listing post-6048 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-legit tag-shit tag-vpn">
+<article class="post-listing post-6048 post type-post status-publish format-standard has-post-thumbnail hentry  tag-legit tag-shit tag-vpn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ </a></span>
     <span>July 8, 2014</span>

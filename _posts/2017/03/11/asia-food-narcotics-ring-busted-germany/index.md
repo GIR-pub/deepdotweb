@@ -2,7 +2,7 @@
 &#8220;Asia Food&#8221; Narcotics Ring Busted In Germany
 ---
 <article class="post-listing post-18572 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-asia tag-busted tag-food tag-germany tag-narcotics tag-ring">
+ tag-asia tag-busted tag-food tag-germany tag-narcotics tag-ring">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 11, 2017</span>

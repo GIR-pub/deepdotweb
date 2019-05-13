@@ -1,7 +1,7 @@
 ---
 Analyzing Bitcoin Mining Botnets (Minerbots) &#8211; How Can We Shield Our Systems Against Minerbots?
 ---
-<article class="post-listing post-21476 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-analyzing tag-bitcoin tag-botnets tag-minerbots tag-mining tag-shield tag-systems">
+<article class="post-listing post-21476 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analyzing tag-bitcoin tag-botnets tag-minerbots tag-mining tag-shield tag-systems">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>July 21, 2017</span>

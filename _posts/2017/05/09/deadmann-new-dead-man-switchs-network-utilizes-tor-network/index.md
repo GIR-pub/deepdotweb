@@ -1,7 +1,7 @@
 ---
 Deadmann : A New Dead Man Switch&#8217;s Network That Utilizes The Tor Network
 ---
-<article class="post-listing post-19723 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dead tag-deadmann tag-man tag-network tag-switchs tag-tor tag-utilizes">
+<article class="post-listing post-19723 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dead tag-deadmann tag-man tag-network tag-switchs tag-tor tag-utilizes">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>May 9, 2017</span>

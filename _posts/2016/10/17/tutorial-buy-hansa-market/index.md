@@ -1,7 +1,7 @@
 ---
 Tutorial: How To Buy From the Hansa Market?
 ---
-<article class="post-listing post-15863 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-buy tag-hansa tag-market tag-tutorial">
+<article class="post-listing post-15863 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-hansa tag-market tag-tutorial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>October 17, 2016</span>

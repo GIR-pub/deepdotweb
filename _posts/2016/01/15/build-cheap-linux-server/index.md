@@ -1,7 +1,7 @@
 ---
 Build a Cheap Linux Server
 ---
-<article class="post-listing post-11234 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-build tag-cheap tag-linux tag-server">
+<article class="post-listing post-11234 post type-post status-publish format-standard has-post-thumbnail hentry  tag-build tag-cheap tag-linux tag-server">
     
     <div class="post-inner">
     

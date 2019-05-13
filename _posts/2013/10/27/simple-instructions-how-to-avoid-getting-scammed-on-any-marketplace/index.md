@@ -1,7 +1,7 @@
 ---
 title: Simple Instructions: How to avoid getting scammed on any marketplace?
 ---
-886 category-deepdot-news tag-avoid tag-instructions tag-marketplace tag-scammed tag-simple">
+886  tag-avoid tag-instructions tag-marketplace tag-scammed tag-simple">
 
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

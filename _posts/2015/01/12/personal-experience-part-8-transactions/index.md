@@ -1,7 +1,7 @@
 ---
 Personal Experience: Part 8 – Transactions
 ---
-<article class="post-listing post-8089 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-experiencetag">
+<article class="post-listing post-8089 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experiencetag">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>January 12, 2015</span>

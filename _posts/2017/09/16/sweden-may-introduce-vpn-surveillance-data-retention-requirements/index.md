@@ -2,7 +2,7 @@
 Sweden May Introduce VPN Surveillance and More Data Retention Requirements
 ---
 <article class="post-listing post-22572 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-data tag-introduce tag-requirements tag-retention tag-surveillance tag-sweden tag-vpn">
+ tag-data tag-introduce tag-requirements tag-retention tag-surveillance tag-sweden tag-vpn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
     <span>September 16, 2017</span>

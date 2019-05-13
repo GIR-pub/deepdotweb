@@ -2,7 +2,7 @@
 FBI Director Believes Encryption is a Public Safety Issue
 ---
 <article class="post-listing post-24574 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-believes tag-director tag-encryption tag-fbi tag-issue tag-public tag-safety">
+ tag-believes tag-director tag-encryption tag-fbi tag-issue tag-public tag-safety">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>January 27, 2018</span>

@@ -1,7 +1,7 @@
 ---
 A Bitcoin Framework For Sending Bitcoins Using Low-end Mobile Phones
 ---
-<article class="post-listing post-18300 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-bitcoins tag-framework tag-lowend tag-mobile tag-phones tag-sending">
+<article class="post-listing post-18300 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-bitcoins tag-framework tag-lowend tag-mobile tag-phones tag-sending">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 23, 2017</span>

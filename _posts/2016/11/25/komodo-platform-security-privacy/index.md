@@ -1,7 +1,7 @@
 ---
 The Komodo Platform: Security and Privacy
 ---
-<article class="post-listing post-16575 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-komodo tag-platform tag-privacy tag-security">
+<article class="post-listing post-16575 post type-post status-publish format-standard has-post-thumbnail hentry  tag-komodo tag-platform tag-privacy tag-security">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>November 25, 2016</span>

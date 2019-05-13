@@ -1,7 +1,7 @@
 ---
 In-depth Guide to Tails + Persistence
 ---
-<article class="post-listing post-9443 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-guide tag-indepth tag-persistence tag-tails">
+<article class="post-listing post-9443 post type-post status-publish format-standard has-post-thumbnail hentry  tag-guide tag-indepth tag-persistence tag-tails">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 5, 2015</span>

@@ -2,7 +2,7 @@
 Reddit Just Banned /R/DarkNetmarkets &#8211; Biggest Darknet Subreddit
 ---
 <article class="post-listing post-25152 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-banned tag-biggest tag-darknet tag-rdarknetmarkets tag-reddit tag-subreddit">
+ tag-banned tag-biggest tag-darknet tag-rdarknetmarkets tag-reddit tag-subreddit">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 21, 2018</span>

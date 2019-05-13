@@ -2,7 +2,7 @@
 MacOS RAT Spotted on the Darknet and Clearnet
 ---
 <article class="post-listing post-18512 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-clearnet tag-darknet tag-macos tag-rat tag-spotted">
+ tag-clearnet tag-darknet tag-macos tag-rat tag-spotted">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 9, 2017</span>

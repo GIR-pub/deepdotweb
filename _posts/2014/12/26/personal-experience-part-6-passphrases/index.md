@@ -1,7 +1,7 @@
 ---
 Personal Experience: Part 6 – Passphrases
 ---
-<article class="post-listing post-8085 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-experiencetag">
+<article class="post-listing post-8085 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experiencetag">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>December 26, 2014</span>

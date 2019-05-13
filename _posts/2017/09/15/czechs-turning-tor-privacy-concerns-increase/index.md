@@ -2,7 +2,7 @@
 Czechs Turning to Tor as Privacy Concerns Increase
 ---
 <article class="post-listing post-22551 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-concerns tag-czechs tag-increase tag-privacy tag-tor tag-turning">
+ tag-concerns tag-czechs tag-increase tag-privacy tag-tor tag-turning">
     
     <div class="post-inner">
     

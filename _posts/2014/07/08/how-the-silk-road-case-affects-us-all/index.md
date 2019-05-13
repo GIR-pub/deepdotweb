@@ -2,7 +2,7 @@
 How The Silk Road Case Affects Us All
 ---
 <article class="post-listing post-6387 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tie_video">
-    <div class="single-post-video">
+    
     <iframe width="660" height="371" src="http://www.youtube.com/embed/osg2LqSxEeI?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

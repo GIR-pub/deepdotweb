@@ -1,7 +1,7 @@
 ---
 Open Source Intelligence OSINT and the Dark Web
 ---
-<article class="post-listing post-17903 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-dark tag-intelligence tag-open tag-osint tag-source tag-web">
+<article class="post-listing post-17903 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-intelligence tag-open tag-osint tag-source tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 2, 2017</span>

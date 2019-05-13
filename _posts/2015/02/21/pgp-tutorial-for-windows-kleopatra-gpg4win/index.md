@@ -1,7 +1,7 @@
 ---
 PGP Tutorial For Windows (Kleopatra &#8211; Gpg4Win)
 ---
-<article class="post-listing post-9185 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-gpg4win tag-kleopatra tag-pgp tag-tutorial tag-windows">
+<article class="post-listing post-9185 post type-post status-publish format-standard has-post-thumbnail hentry  tag-gpg4win tag-kleopatra tag-pgp tag-tutorial tag-windows">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 21, 2015</span>

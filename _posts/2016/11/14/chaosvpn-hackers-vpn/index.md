@@ -1,7 +1,7 @@
 ---
 ChaosVPN: The Hackers’ VPN!
 ---
-<article class="post-listing post-16415 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-chaosvpn tag-hackers tag-vpn">
+<article class="post-listing post-16415 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chaosvpn tag-hackers tag-vpn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/ciphas/" title="">Ciphas </a></span>
     <span>November 14, 2016</span>

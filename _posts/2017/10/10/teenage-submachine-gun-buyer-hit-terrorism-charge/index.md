@@ -2,7 +2,7 @@
 Teenage Submachine Gun Buyer Hit with a Terrorism Charge
 ---
 <article class="post-listing post-22999 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-buyer tag-charge tag-gun tag-hit tag-submachine tag-teenage tag-terrorism">
+ tag-buyer tag-charge tag-gun tag-hit tag-submachine tag-teenage tag-terrorism">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 10, 2017</span>

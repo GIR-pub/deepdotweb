@@ -1,7 +1,7 @@
 ---
 Security Software
 ---
-<article class="post-listing post-13819 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-security tag-software">
+<article class="post-listing post-13819 post type-post status-publish format-standard has-post-thumbnail hentry  tag-security tag-software">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/c3lt1c/" title="">c3lt1c </a></span>
     <span>April 21, 2016</span>

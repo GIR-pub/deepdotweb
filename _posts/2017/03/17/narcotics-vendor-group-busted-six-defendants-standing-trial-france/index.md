@@ -2,7 +2,7 @@
 Narcotics Vendor Group Busted: Six Defendants Standing Trial In France
 ---
 <article class="post-listing post-18659 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-busted tag-defendants tag-france tag-group tag-narcotics tag-standing tag-trial tag-vendor">
+ tag-busted tag-defendants tag-france tag-group tag-narcotics tag-standing tag-trial tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 17, 2017</span>

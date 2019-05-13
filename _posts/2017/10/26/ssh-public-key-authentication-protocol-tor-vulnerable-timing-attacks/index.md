@@ -2,7 +2,7 @@
 The SSH Public Key Authentication Protocol Over Tor &#8211; How Vulnerable It Is to Timing Attacks?
 ---
 <article class="post-listing post-23272 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-attacks tag-authentication tag-key tag-protocol tag-public tag-ssh tag-timing tag-tor tag-vulnerable">
+ tag-attacks tag-authentication tag-key tag-protocol tag-public tag-ssh tag-timing tag-tor tag-vulnerable">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>October 26, 2017</span>

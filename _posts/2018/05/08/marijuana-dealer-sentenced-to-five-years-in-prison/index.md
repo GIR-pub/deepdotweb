@@ -2,7 +2,7 @@
 Marijuana Dealer Sentenced to Five Years in Prison
 ---
 <article class="post-listing post-25625 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-dealer tag-marijuana tag-prison tag-sentenced tag-years">
+ tag-dealer tag-marijuana tag-prison tag-sentenced tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 8, 2018</span>

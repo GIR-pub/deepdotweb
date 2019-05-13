@@ -2,7 +2,7 @@
 Bitcoin price weekly analysis &#8211; 11.12.2018
 ---
 <article class="post-listing post-27544 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-6887 tag-analysis tag-bitcoin tag-price tag-weekly">
+ tag-6887 tag-analysis tag-bitcoin tag-price tag-weekly">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 11, 2018</span>

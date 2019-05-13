@@ -2,7 +2,7 @@
 Sorting Through the Dread &#038; Olympus Drama
 ---
 <article class="post-listing post-25507 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-dread tag-olympus tag-takedown">
+ tag-dread tag-olympus tag-takedown">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 24, 2018</span>

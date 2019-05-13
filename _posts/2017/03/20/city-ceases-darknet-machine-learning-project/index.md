@@ -2,7 +2,7 @@
 City Ceases Darknet Machine Learning Project
 ---
 <article class="post-listing post-18696 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-ceases tag-city tag-darknet tag-learning tag-machine tag-project">
+ tag-ceases tag-city tag-darknet tag-learning tag-machine tag-project">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 20, 2017</span>

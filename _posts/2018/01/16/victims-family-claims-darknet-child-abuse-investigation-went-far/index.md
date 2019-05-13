@@ -2,7 +2,7 @@
 Victim’s Family Claims Darknet Child Abuse Investigation Went Too Far
 ---
 <article class="post-listing post-24445 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-abuse tag-child tag-claims tag-darknet tag-family tag-investigation tag-victims">
+ tag-abuse tag-child tag-claims tag-darknet tag-family tag-investigation tag-victims">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 16, 2018</span>

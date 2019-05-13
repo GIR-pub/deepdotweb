@@ -1,7 +1,7 @@
 ---
 title: WTF? The Silk Road 2.0 / DPR2 Farce Explained
 ---
-2850 category-deepdot-news tag-dpr tag-farce tag-road tag-silk tag-wtf">
+2850  tag-dpr tag-farce tag-road tag-silk tag-wtf">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 23, 2013</span>

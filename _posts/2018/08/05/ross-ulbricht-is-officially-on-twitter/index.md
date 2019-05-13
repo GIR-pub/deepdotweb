@@ -2,7 +2,7 @@
 Ross Ulbricht is Officially on Twitter
 ---
 <article class="post-listing post-26471 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-officially tag-ross tag-twitter tag-ulbricht">
+ tag-officially tag-ross tag-twitter tag-ulbricht">
 <div class="post-inner">
 <<span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>August 5, 2018</span>

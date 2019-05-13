@@ -2,7 +2,7 @@
 Hotspot Shield VPN is Leaking Users Data and Location
 ---
 <article class="post-listing post-24888 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-data tag-hotspot tag-leaking tag-location tag-shield tag-users tag-vpn">
+ tag-data tag-hotspot tag-leaking tag-location tag-shield tag-users tag-vpn">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>February 27, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Tutorial: High Security Virtual Machines
 ---
-<article class="post-listing post-8547 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-high tag-machines tag-security tag-virtual">
+<article class="post-listing post-8547 post type-post status-publish format-standard has-post-thumbnail hentry  tag-high tag-machines tag-security tag-virtual">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tr3x0r/" title="">TR3X0R </a></span>
 <span>March 2, 2015</span>

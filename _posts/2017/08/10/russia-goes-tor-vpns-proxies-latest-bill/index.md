@@ -2,7 +2,7 @@
 Russia Goes After Tor, VPNs, and Proxies in Latest Bill
 ---
 <article class="post-listing post-21858 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bill tag-latest tag-proxies tag-russia tag-tor tag-vpns">
+ tag-bill tag-latest tag-proxies tag-russia tag-tor tag-vpns">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 10, 2017</span>

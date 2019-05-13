@@ -1,7 +1,7 @@
 ---
 Personal Experience: Part 2 &#8211; Tails
 ---
-<article class="post-listing post-6830 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-experience tag-experiencetag tag-part tag-personal tag-tails">
+<article class="post-listing post-6830 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-experiencetag tag-part tag-personal tag-tails">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>October 6, 2014</span>

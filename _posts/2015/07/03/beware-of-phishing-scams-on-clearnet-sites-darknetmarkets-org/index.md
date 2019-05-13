@@ -1,7 +1,7 @@
 ---
 Beware of Phishing Scams On Clearnet Sites! (darknetmarkets.org)
 ---
-<article class="post-listing post-10948 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news category-news category-news-updates tag-beware tag-clearnet tag-darknetmarketsorg tag-phishing tag-scams tag-sites">
+<article class="post-listing post-10948 post type-post status-publish format-standard has-post-thumbnail hentry  category-news  tag-beware tag-clearnet tag-darknetmarketsorg tag-phishing tag-scams tag-sites">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 3, 2015</span>

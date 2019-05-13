@@ -2,7 +2,7 @@
 Research: 47% Of All Bitcoin Transactions Involves Illegal Trading Mostly On ‘Darkweb’
 ---
 <article class="post-listing post-24330 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-6227 tag-australian tag-bitcoin tag-darkweb tag-illegal tag-involves tag-reports tag-research tag-trading tag-transactions">
+ tag-6227 tag-australian tag-bitcoin tag-darkweb tag-illegal tag-involves tag-reports tag-research tag-trading tag-transactions">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>January 8, 2018</span>

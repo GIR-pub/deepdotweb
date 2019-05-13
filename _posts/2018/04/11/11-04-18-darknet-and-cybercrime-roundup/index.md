@@ -2,7 +2,7 @@
 11.04.18 Darknet and Cybercrime Roundup
 ---
 <article class="post-listing post-25332 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-6402 tag-cybercrime tag-darknet tag-roundup">
+ tag-6402 tag-cybercrime tag-darknet tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 11, 2018</span>

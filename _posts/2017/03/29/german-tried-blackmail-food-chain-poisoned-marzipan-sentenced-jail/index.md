@@ -2,7 +2,7 @@
 German Who Tried To Blackmail Food Chain With Poisoned Marzipan Sentenced To Jail
 ---
 <article class="post-listing post-18868 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-blackmail tag-chain tag-food tag-german tag-marzipan tag-poisoned tag-sentenced">
+ tag-blackmail tag-chain tag-food tag-german tag-marzipan tag-poisoned tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 29, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Intel Source – Phone Traffic/Metadata Analysis #4
 ---
-<article class="post-listing post-8431 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-intelphone">
+<article class="post-listing post-8431 post type-post status-publish format-standard has-post-thumbnail hentry  tag-intelphone">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
 <span>February 15, 2015</span>

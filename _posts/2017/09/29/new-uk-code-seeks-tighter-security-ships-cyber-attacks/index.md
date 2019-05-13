@@ -2,7 +2,7 @@
 New UK Code Seeks Tighter Security on Ships against Cyber Attacks
 ---
 <article class="post-listing post-22827 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-attacks tag-code tag-cyber tag-security tag-seeks tag-ships tag-tighter tag-uk">
+ tag-attacks tag-code tag-cyber tag-security tag-seeks tag-ships tag-tighter tag-uk">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
     <span>September 29, 2017</span>

@@ -1,7 +1,7 @@
 ---
 Saviour of Bitcoin? You decide
 ---
-<article class="post-listing post-11685 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-decide tag-saviour">
+<article class="post-listing post-11685 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-decide tag-saviour">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 5, 2015</span>

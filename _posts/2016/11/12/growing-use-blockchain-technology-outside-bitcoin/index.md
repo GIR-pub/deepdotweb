@@ -1,7 +1,7 @@
 ---
 The Growing Use of Blockchain Technology Outside Bitcoin
 ---
-<article class="post-listing post-16400 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-blockchain tag-growing tag-technology">
+<article class="post-listing post-16400 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-blockchain tag-growing tag-technology">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/cyrusmcnally/" title="">Cyrus McNally </a></span>
     <span>November 12, 2016</span>

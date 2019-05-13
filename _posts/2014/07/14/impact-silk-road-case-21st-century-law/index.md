@@ -2,7 +2,7 @@
 The Impact of the Silk Road Case on 21st Century Law
 ---
 <article class="post-listing post-6479 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-21st tag-case tag-century tag-impact tag-law tag-road tag-silk tie_video">
-    <div class="single-post-video">
+    
     <iframe width="660" height="371" src="http://www.youtube.com/embed/Y1DsEeb2DOY?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

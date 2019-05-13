@@ -1,7 +1,7 @@
 ---
 Introduction to Cryptography, Part 2
 ---
-<article class="post-listing post-14385 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-cryptography tag-introduction tag-part">
+<article class="post-listing post-14385 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptography tag-introduction tag-part">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/64bytes/" title="">64Bytes </a></span>
     <span>June 14, 2016</span>

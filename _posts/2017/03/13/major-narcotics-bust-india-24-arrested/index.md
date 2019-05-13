@@ -2,7 +2,7 @@
 Major Narcotics Bust In India – 24 Arrested
 ---
 <article class="post-listing post-18591 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-1898 tag-bust tag-india tag-major tag-narcotics">
+ tag-1898 tag-bust tag-india tag-major tag-narcotics">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 13, 2017</span>

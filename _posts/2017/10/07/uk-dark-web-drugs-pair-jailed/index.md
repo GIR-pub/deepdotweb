@@ -2,7 +2,7 @@
 UK Dark Web Drugs Pair Jailed
 ---
 <article class="post-listing post-22964 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-dark tag-jailed tag-pair tag-uk tag-web">
+ tag-dark tag-jailed tag-pair tag-uk tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>October 7, 2017</span>

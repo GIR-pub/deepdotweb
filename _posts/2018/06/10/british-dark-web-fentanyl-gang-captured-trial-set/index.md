@@ -2,7 +2,7 @@
 British Dark Web Fentanyl Gang Captured, Trial Set
 ---
 <article class="post-listing post-25978 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-british tag-captured tag-dark tag-fentanyl tag-gang tag-set tag-trial tag-web">
+ tag-british tag-captured tag-dark tag-fentanyl tag-gang tag-set tag-trial tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>June 10, 2018</span>

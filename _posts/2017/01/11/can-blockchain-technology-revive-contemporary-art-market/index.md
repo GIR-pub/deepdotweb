@@ -1,7 +1,7 @@
 ---
 Can the Blockchain Technology Revive The Contemporary Art Market?
 ---
-<article class="post-listing post-17439 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-art tag-blockchain tag-contemporary tag-market tag-revive tag-technology">
+<article class="post-listing post-17439 post type-post status-publish format-standard has-post-thumbnail hentry  tag-art tag-blockchain tag-contemporary tag-market tag-revive tag-technology">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 11, 2017</span>

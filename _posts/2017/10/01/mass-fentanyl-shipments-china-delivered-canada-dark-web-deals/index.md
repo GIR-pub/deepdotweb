@@ -2,7 +2,7 @@
 Mass Fentanyl Shipments From China Delivered to Canada Through Dark Web Deals
 ---
 <article class="post-listing post-22862 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-canada tag-china tag-dark tag-deals tag-delivered tag-fentanyl tag-mass tag-shipments tag-web">
+ tag-canada tag-china tag-dark tag-deals tag-delivered tag-fentanyl tag-mass tag-shipments tag-web">
     
     <div class="post-inner">
     

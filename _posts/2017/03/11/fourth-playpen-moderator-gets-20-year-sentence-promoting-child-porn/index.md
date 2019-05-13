@@ -2,7 +2,7 @@
 Fourth PlayPen Moderator Gets 20-Year Sentence For Promoting Child Porn
 ---
 <article class="post-listing post-18569 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-20year tag-child tag-fourth tag-moderator tag-playpen tag-porn tag-promoting tag-sentence">
+ tag-20year tag-child tag-fourth tag-moderator tag-playpen tag-porn tag-promoting tag-sentence">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
 <span>March 11, 2017</span>

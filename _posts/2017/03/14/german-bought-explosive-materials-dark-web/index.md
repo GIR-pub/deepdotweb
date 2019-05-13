@@ -2,7 +2,7 @@
 German Bought Explosive Materials From Dark Web
 ---
 <article class="post-listing post-18614 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bought tag-dark tag-explosive tag-german tag-materials tag-web">
+ tag-bought tag-dark tag-explosive tag-german tag-materials tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 14, 2017</span>

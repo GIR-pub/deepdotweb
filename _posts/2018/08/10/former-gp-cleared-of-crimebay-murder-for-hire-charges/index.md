@@ -2,7 +2,7 @@
 Former GP Cleared of “Crimebay” Murder for Hire Charges
 ---
 <article class="post-listing post-26529 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-charges tag-cleared tag-crimebay tag-gp tag-hire tag-murder">
+ tag-charges tag-cleared tag-crimebay tag-gp tag-hire tag-murder">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 10, 2018</span>

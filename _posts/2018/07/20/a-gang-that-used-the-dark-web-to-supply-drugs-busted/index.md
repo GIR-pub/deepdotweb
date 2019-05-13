@@ -2,7 +2,7 @@
 A Gang that Used the Dark Web to Supply Drugs Busted.
 ---
 <article class="post-listing post-26341 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-busted tag-dark tag-gang tag-supply tag-web">
+ tag-busted tag-dark tag-gang tag-supply tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>July 20, 2018</span>

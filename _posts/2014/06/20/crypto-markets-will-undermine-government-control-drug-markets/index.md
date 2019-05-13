@@ -1,7 +1,7 @@
 ---
 How Crypto Markets will Undermine Government Control: Drug Markets
 ---
-<article class="post-listing post-5997 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-control tag-crypto tag-drug tag-government tag-markets tag-undermine">
+<article class="post-listing post-5997 post type-post status-publish format-standard has-post-thumbnail hentry  tag-control tag-crypto tag-drug tag-government tag-markets tag-undermine">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>June 20, 2014</span>

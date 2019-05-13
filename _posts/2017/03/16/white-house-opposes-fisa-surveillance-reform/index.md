@@ -2,7 +2,7 @@
 White House Opposes FISA Surveillance Reform
 ---
 <article class="post-listing post-18647 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-fisa tag-house tag-opposes tag-reform tag-surveillance tag-white">
+ tag-fisa tag-house tag-opposes tag-reform tag-surveillance tag-white">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 16, 2017</span>

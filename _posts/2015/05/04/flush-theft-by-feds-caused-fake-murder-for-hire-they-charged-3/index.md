@@ -1,7 +1,7 @@
 ---
 “Flush” Theft By Feds Caused Fake Murder For Hire They Charged (3)
 ---
-<article class="post-listing post-9894 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-srcorruption">
+<article class="post-listing post-9894 post type-post status-publish format-standard has-post-thumbnail hentry  tag-srcorruption">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>May 4, 2015</span>

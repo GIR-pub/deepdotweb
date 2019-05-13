@@ -2,7 +2,7 @@
 Alphabay to Add Ethereum Support in May
 ---
 <article class="post-listing post-18835 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-add tag-alphabay tag-ethereum tag-support">
+ tag-add tag-alphabay tag-ethereum tag-support">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 22, 2017</span>

@@ -2,7 +2,7 @@
 Dread Discussion Forum Is Now Relaunched!
 ---
 <article class="post-listing post-25863 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-discussion tag-dread tag-forum tag-relaunched">
+ tag-discussion tag-dread tag-forum tag-relaunched">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>May 28, 2018</span>

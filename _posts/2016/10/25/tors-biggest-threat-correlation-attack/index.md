@@ -1,7 +1,7 @@
 ---
 Tor&#8217;s Biggest Threat &#8211; Correlation Attack
 ---
-<article class="post-listing post-16040 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-attack tag-biggest tag-correlation tag-threat tag-tors">
+<article class="post-listing post-16040 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attack tag-biggest tag-correlation tag-threat tag-tors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>October 25, 2016</span>

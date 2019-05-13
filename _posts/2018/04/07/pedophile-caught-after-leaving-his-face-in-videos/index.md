@@ -2,7 +2,7 @@
 Pedophile Caught After Leaving His Face in Videos
 ---
 <article class="post-listing post-25301 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-caught tag-face tag-leaving tag-pedophile tag-videos">
+ tag-caught tag-face tag-leaving tag-pedophile tag-videos">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 7, 2018</span>

@@ -2,7 +2,7 @@
 How To Do Unlinkable Bitcoin Transactions
 ---
 <article class="post-listing post-25093 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bitcoin tag-transactions tag-unlinkable">
+ tag-bitcoin tag-transactions tag-unlinkable">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
 <span>March 19, 2018</span>

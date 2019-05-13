@@ -1,7 +1,7 @@
 ---
 Help Harm Reduction &#038; Drug Awareness: The Hub&#8217;s Outreach!
 ---
-<article class="post-listing post-3657 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-awareness tag-drug tag-harm tag-hubs tag-outreach tag-reduction">
+<article class="post-listing post-3657 post type-post status-publish format-standard has-post-thumbnail hentry  tag-awareness tag-drug tag-harm tag-hubs tag-outreach tag-reduction">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 26, 2014</span>

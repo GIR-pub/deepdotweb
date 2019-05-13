@@ -2,7 +2,7 @@
 Police Seized 60K Xanax Pills in Tennessee Drug Bust
 ---
 <article class="post-listing post-25451 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-60k tag-bust tag-drug tag-pills tag-police tag-seized tag-tennessee tag-xanax">
+ tag-60k tag-bust tag-drug tag-pills tag-police tag-seized tag-tennessee tag-xanax">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 22, 2018</span>

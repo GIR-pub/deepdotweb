@@ -2,7 +2,7 @@
 Police Takes Down French Dark Net Website Selling Narcotics
 ---
 <article class="post-listing post-18699 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-dark tag-french tag-narcotics tag-net tag-police tag-selling tag-takes tag-website">
+ tag-dark tag-french tag-narcotics tag-net tag-police tag-selling tag-takes tag-website">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 20, 2017</span>

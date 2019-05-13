@@ -2,7 +2,7 @@
 Counterfeit Buyer Sentenced to Probation in Germany
 ---
 <article class="post-listing post-25140 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-buyer tag-counterfeit tag-germany tag-probation tag-sentenced">
+ tag-buyer tag-counterfeit tag-germany tag-probation tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 22, 2018</span>

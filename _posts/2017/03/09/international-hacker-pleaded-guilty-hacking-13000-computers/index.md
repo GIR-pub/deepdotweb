@@ -2,7 +2,7 @@
 International Hacker Pleaded Guilty Hacking 13,000 Computers
 ---
 <article class="post-listing post-18513 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-5113 tag-computers tag-guilty tag-hacker tag-hacking tag-international tag-pleaded">
+ tag-5113 tag-computers tag-guilty tag-hacker tag-hacking tag-international tag-pleaded">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 9, 2017</span>

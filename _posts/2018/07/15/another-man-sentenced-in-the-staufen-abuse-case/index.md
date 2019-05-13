@@ -2,7 +2,7 @@
 Another Man Sentenced in the Staufen Abuse Case
 ---
 <article class="post-listing post-26317 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-abuse tag-case tag-man tag-sentenced tag-staufen">
+ tag-abuse tag-case tag-man tag-sentenced tag-staufen">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 15, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Tutorial &#8211; How To Store Your Bitcoins Securely Using Cold Storage
 ---
-<article class="post-listing post-19779 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-cold tag-securely tag-storage tag-store tag-tutorial">
+<article class="post-listing post-19779 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-cold tag-securely tag-storage tag-store tag-tutorial">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>May 12, 2017</span>

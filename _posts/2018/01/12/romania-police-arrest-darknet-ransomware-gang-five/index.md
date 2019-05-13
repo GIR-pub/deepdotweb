@@ -2,7 +2,7 @@
 Romania Police Arrest a Darknet Ransomware Gang of Five
 ---
 <article class="post-listing post-24387 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrest tag-darknet tag-gang tag-police tag-ransomware tag-romania">
+ tag-arrest tag-darknet tag-gang tag-police tag-ransomware tag-romania">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>January 12, 2018</span>

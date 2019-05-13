@@ -1,7 +1,7 @@
 ---
 Can you justify keeping client records on DNMs? F**k no.
 ---
-<article class="post-listing post-10871 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-client tag-dnms tag-fk tag-justify tag-keeping tag-records">
+<article class="post-listing post-10871 post type-post status-publish format-standard has-post-thumbnail hentry  tag-client tag-dnms tag-fk tag-justify tag-keeping tag-records">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>December 16, 2015</span>

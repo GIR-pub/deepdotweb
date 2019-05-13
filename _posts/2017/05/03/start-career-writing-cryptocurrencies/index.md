@@ -1,7 +1,7 @@
 ---
 How to start a career writing about cryptocurrencies
 ---
-<article class="post-listing post-19606 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-career tag-cryptocurrencies tag-start tag-writing">
+<article class="post-listing post-19606 post type-post status-publish format-standard has-post-thumbnail hentry  tag-career tag-cryptocurrencies tag-start tag-writing">
     
     <div class="post-inner">
     

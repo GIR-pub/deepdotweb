@@ -2,7 +2,7 @@
 German Judge Sentenced a Hansa Vendor to Two Years
 ---
 <article class="post-listing post-26140 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-german tag-hansa tag-judge tag-sentenced tag-vendor tag-years">
+ tag-german tag-hansa tag-judge tag-sentenced tag-vendor tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>June 25, 2018</span>

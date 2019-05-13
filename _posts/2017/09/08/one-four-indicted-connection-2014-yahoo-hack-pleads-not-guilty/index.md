@@ -1,7 +1,7 @@
 ---
 One of Four Indicted in Connection with 2014 Yahoo Hack pleads not guilty.
 ---
-<article class="post-listing post-22445 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-1779 tag-connection tag-guilty tag-hack tag-indicted tag-pleads tag-yahoo">
+<article class="post-listing post-22445 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-connection tag-guilty tag-hack tag-indicted tag-pleads tag-yahoo">
     
     <div class="post-inner">
     

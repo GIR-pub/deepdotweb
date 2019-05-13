@@ -2,7 +2,7 @@
 French Students Arrested For the Sale Of More Than 10,000 Ecstasy Pills
 ---
 <article class="post-listing post-18582 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-4937 tag-ecstasy tag-french tag-pills tag-sold tag-students">
+ tag-4937 tag-ecstasy tag-french tag-pills tag-sold tag-students">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 12, 2017</span>

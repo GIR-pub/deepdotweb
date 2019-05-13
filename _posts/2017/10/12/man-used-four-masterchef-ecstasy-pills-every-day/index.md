@@ -2,7 +2,7 @@
 Man Used Four “Masterchef” Ecstasy Pills Every Day
 ---
 <article class="post-listing post-23021 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-day tag-ecstasy tag-man tag-masterchef tag-pills">
+ tag-day tag-ecstasy tag-man tag-masterchef tag-pills">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 12, 2017</span>

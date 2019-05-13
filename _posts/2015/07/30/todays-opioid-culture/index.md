@@ -1,7 +1,7 @@
 ---
 Today&#8217;s Opioid Culture
 ---
-<article class="post-listing post-10975 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-culture tag-opioid tag-todays">
+<article class="post-listing post-10975 post type-post status-publish format-standard has-post-thumbnail hentry  tag-culture tag-opioid tag-todays">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/lines_of_thought/" title="">Lines_of_Thought </a></span>
     <span>July 30, 2015</span>

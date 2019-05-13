@@ -1,7 +1,7 @@
 ---
 Novel Defense Techniques To Secure Tor Communications &#8211; A Research Study
 ---
-<article class="post-listing post-24002 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-communications tag-defense tag-research tag-secure tag-study tag-techniques tag-tor">
+<article class="post-listing post-24002 post type-post status-publish format-standard has-post-thumbnail hentry  tag-communications tag-defense tag-research tag-secure tag-study tag-techniques tag-tor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>December 21, 2017</span>

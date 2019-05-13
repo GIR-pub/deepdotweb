@@ -2,7 +2,7 @@
 FBI Shows Video of AlphaBay Admin&#8217;s Arrest During Conference
 ---
 <article class="post-listing post-24612 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-admins tag-alphabay tag-arrest tag-conference tag-fbi tag-shows tag-video">
+ tag-admins tag-alphabay tag-arrest tag-conference tag-fbi tag-shows tag-video">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>January 30, 2018</span>

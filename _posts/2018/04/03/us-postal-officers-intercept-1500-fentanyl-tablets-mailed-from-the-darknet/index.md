@@ -2,7 +2,7 @@
 US Postal Officers Intercept 1500 Fentanyl Tablets Mailed From The Darknet
 ---
 <article class="post-listing post-25247 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-6388 tag-darknet tag-fentanyl tag-intercept tag-mailed tag-officers tag-postal tag-tablets">
+ tag-6388 tag-darknet tag-fentanyl tag-intercept tag-mailed tag-officers tag-postal tag-tablets">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>April 3, 2018</span>

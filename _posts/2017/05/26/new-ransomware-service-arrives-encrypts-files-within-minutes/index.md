@@ -1,7 +1,7 @@
 ---
 New Ransomware-as-a-Service Arrives, Encrypts Most Files Within Minutes
 ---
-<article class="post-listing post-20047 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-arrives tag-encrypts tag-files tag-minutes tag-ransomwareasaservice">
+<article class="post-listing post-20047 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrives tag-encrypts tag-files tag-minutes tag-ransomwareasaservice">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 26, 2017</span>

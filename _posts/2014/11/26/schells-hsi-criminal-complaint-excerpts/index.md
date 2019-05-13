@@ -1,7 +1,7 @@
 ---
 Schell&#8217;s HSI Criminal Complaint Excerpts
 ---
-<article class="post-listing post-8449 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-complaint tag-hsi">
+<article class="post-listing post-8449 post type-post status-publish format-standard has-post-thumbnail hentry  tag-complaint tag-hsi">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>November 26, 2014</span>

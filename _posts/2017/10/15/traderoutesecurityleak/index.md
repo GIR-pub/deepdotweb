@@ -2,7 +2,7 @@
 TradeRoute Went Down Following a Major Security Leak
 ---
 <article class="post-listing post-23094 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-leak tag-major tag-security tag-traderoute">
+ tag-leak tag-major tag-security tag-traderoute">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 15, 2017</span>

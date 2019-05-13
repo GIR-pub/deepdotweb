@@ -1,7 +1,7 @@
 ---
 VirtualPatent &#8211; Tracing Online Ideas Via Decentralized Trusted Timestamping Using Bitcoin&#8217;s Blockchain
 ---
-<article class="post-listing post-18298 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-blockchain tag-decentralized tag-ideas tag-online tag-timestamping tag-tracing tag-trusted tag-virtualpatent">
+<article class="post-listing post-18298 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-blockchain tag-decentralized tag-ideas tag-online tag-timestamping tag-tracing tag-trusted tag-virtualpatent">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 23, 2017</span>

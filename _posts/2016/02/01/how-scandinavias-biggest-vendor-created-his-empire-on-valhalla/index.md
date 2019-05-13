@@ -1,7 +1,7 @@
 ---
 How Scandinavia&#8217;s Biggest Vendor Created His Empire On Valhalla
 ---
-<article class="post-listing post-13122 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-biggest tag-created tag-empire tag-scandinavias tag-valhalla tag-vendor">
+<article class="post-listing post-13122 post type-post status-publish format-standard has-post-thumbnail hentry  tag-biggest tag-created tag-empire tag-scandinavias tag-valhalla tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>February 1, 2016</span>

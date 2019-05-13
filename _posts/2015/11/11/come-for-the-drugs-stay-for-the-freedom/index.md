@@ -1,7 +1,7 @@
 ---
 Come For the Drugs. Stay For the Freedom
 ---
-<article class="post-listing post-12059 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-freedom tag-stay">
+<article class="post-listing post-12059 post type-post status-publish format-standard has-post-thumbnail hentry  tag-freedom tag-stay">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/zeekdanube/" title="">Zeek Danube </a></span>
 <span>November 11, 2015</span>

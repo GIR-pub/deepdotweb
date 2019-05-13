@@ -2,7 +2,7 @@
 Austrian Sentenced For Narcotics Trafficking
 ---
 <article class="post-listing post-18430 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-austrian tag-narcotics tag-sentenced tag-trafficking">
+ tag-austrian tag-narcotics tag-sentenced tag-trafficking">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 4, 2017</span>

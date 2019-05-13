@@ -1,7 +1,7 @@
 ---
 Mining Cryptocurrency With A Free Cloud Botnet, Why Not?
 ---
-<article class="post-listing post-6739 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-botnet tag-cloud tag-cryptocurrency tag-free tag-mining">
+<article class="post-listing post-6739 post type-post status-publish format-standard has-post-thumbnail hentry  tag-botnet tag-cloud tag-cryptocurrency tag-free tag-mining">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ </a></span>
     <span>August 8, 2014</span>

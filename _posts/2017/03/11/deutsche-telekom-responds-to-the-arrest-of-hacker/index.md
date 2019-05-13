@@ -2,7 +2,7 @@
 Deutsche Telekom Responds To The Arrest Of Hacker
 ---
 <article class="post-listing post-18571 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arrest tag-deutsche tag-hacker tag-responds tag-telekom">
+ tag-arrest tag-deutsche tag-hacker tag-responds tag-telekom">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 11, 2017</span>

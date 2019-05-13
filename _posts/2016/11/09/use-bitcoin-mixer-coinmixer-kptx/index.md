@@ -1,7 +1,7 @@
 ---
 How to use a Bitcoin Mixer: Coinmixer
 ---
-<article class="post-listing post-16328 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-coinmixer tag-kptx tag-mixer">
+<article class="post-listing post-16328 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-coinmixer tag-kptx tag-mixer">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>November 9, 2016</span>

@@ -1,7 +1,7 @@
 ---
 QuickNet &#8211; A Faster, More Efficient Deep Web Network Architecture
 ---
-<article class="post-listing post-17870 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-architecture tag-deep tag-efficient tag-faster tag-network tag-quicknet tag-web">
+<article class="post-listing post-17870 post type-post status-publish format-standard has-post-thumbnail hentry  tag-architecture tag-deep tag-efficient tag-faster tag-network tag-quicknet tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 31, 2017</span>

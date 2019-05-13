@@ -1,7 +1,7 @@
 ---
 How Hackers Infect You For Fun and Profit?
 ---
-<article class="post-listing post-14162 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-fun tag-hackers tag-infect tag-profit">
+<article class="post-listing post-14162 post type-post status-publish format-standard has-post-thumbnail hentry  tag-fun tag-hackers tag-infect tag-profit">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/sculptor/" title="">sculptor </a></span>
     <span>May 23, 2016</span>

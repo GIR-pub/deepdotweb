@@ -1,7 +1,7 @@
 ---
 A Fully Decentralized, Arbiter-free, Prediction Market Using Colored Coins
 ---
-<article class="post-listing post-18376 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-arbiterfree tag-coins tag-colored tag-decentralized tag-fully tag-market tag-prediction">
+<article class="post-listing post-18376 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arbiterfree tag-coins tag-colored tag-decentralized tag-fully tag-market tag-prediction">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 28, 2017</span>

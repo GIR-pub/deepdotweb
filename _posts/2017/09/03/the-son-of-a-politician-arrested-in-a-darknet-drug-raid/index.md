@@ -2,7 +2,7 @@
 The Son of a Politician Arrested in a Darknet Drug Raid
 ---
 <article class="post-listing post-22339 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-darknet tag-drug tag-politician tag-raid tag-son">
+ tag-darknet tag-drug tag-politician tag-raid tag-son">
     
     <div class="post-inner">
     

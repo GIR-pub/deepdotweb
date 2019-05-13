@@ -2,7 +2,7 @@
 Man Sentenced After Losing USB Drive Filled with Child Porn
 ---
 <article class="post-listing post-26408 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-child tag-drive tag-filled tag-losing tag-man tag-porn tag-sentenced tag-usb">
+ tag-child tag-drive tag-filled tag-losing tag-man tag-porn tag-sentenced tag-usb">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 26, 2018</span>

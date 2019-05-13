@@ -2,7 +2,7 @@
 Brothers Made Pills Using Equipment and Chemicals Bought via the Dark Web
 ---
 <article class="post-listing post-27243 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bought tag-brothers tag-chemicals tag-dark tag-equipment tag-pills tag-web">
+ tag-bought tag-brothers tag-chemicals tag-dark tag-equipment tag-pills tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>November 15, 2018</span>

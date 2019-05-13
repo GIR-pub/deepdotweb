@@ -1,7 +1,7 @@
 ---
 The Balance Attack &#8211; A Novel Type of Attack Against PoW Blockchains
 ---
-<article class="post-listing post-17784 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-attack tag-balance tag-blockchains tag-pow tag-type">
+<article class="post-listing post-17784 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attack tag-balance tag-blockchains tag-pow tag-type">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 28, 2017</span>

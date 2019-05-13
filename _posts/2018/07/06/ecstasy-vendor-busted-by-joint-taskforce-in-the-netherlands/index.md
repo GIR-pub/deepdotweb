@@ -2,7 +2,7 @@
 Ecstasy Vendor Busted by Joint Taskforce in the Netherlands
 ---
 <article class="post-listing post-26223 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-busted tag-ecstasy tag-joint tag-netherlands tag-taskforce tag-vendor">
+ tag-busted tag-ecstasy tag-joint tag-netherlands tag-taskforce tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 6, 2018</span>

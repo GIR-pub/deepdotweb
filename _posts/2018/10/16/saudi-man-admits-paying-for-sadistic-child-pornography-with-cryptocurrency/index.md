@@ -2,7 +2,7 @@
 Saudi Man Admits Paying for “Sadistic” Child Pornography with Cryptocurrency
 ---
 <article class="post-listing post-26964 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-admits tag-child tag-cryptocurrency tag-man tag-paying tag-pornography tag-sadistic tag-saudi">
+ tag-admits tag-child tag-cryptocurrency tag-man tag-paying tag-pornography tag-sadistic tag-saudi">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 16, 2018</span>

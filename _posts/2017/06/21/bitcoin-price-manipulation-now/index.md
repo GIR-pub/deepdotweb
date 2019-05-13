@@ -1,7 +1,7 @@
 ---
 Bitcoin Price Manipulation &#8211; Now and Then!
 ---
-<article class="post-listing post-20775 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-manipulation tag-price">
+<article class="post-listing post-20775 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-manipulation tag-price">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>June 21, 2017</span>

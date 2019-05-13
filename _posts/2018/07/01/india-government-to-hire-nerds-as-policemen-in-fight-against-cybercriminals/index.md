@@ -2,7 +2,7 @@
 India Government to Hire Nerds as Policemen in Fight against Cybercriminals
 ---
 <article class="post-listing post-26165 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-cybercriminals tag-fight tag-government tag-hire tag-india tag-nerds tag-policemen">
+ tag-cybercriminals tag-fight tag-government tag-hire tag-india tag-nerds tag-policemen">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>July 1, 2018</span>

@@ -2,7 +2,7 @@
 Spanish Cops Arrests Major Dark Web Arms Dealer
 ---
 <article class="post-listing post-23000 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-arms tag-arrests tag-cops tag-dark tag-dealer tag-major tag-spanish tag-web">
+ tag-arms tag-arrests tag-cops tag-dark tag-dealer tag-major tag-spanish tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>October 10, 2017</span>

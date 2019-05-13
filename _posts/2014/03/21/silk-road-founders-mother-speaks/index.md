@@ -2,7 +2,7 @@
 Silk Road Founder&#8217;s Mother Speaks Out
 ---
 <article class="post-listing post-4754 post type-post status-publish format-standard has-post-thumbnail hentry category-videos tag-founders tag-mother tag-road tag-silk tag-speaks tie_video">
-    <div class="single-post-video">
+    
     <iframe width="660" height="371" src="http://www.youtube.com/embed/AP7tKS74H7I?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>

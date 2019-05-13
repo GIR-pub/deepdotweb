@@ -1,7 +1,7 @@
 ---
 What To Do While Your Favorite Market Is Under Attack? (Agora)
 ---
-<article class="post-listing post-4613 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-agora tag-attack tag-favorite tag-market">
+<article class="post-listing post-4613 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-attack tag-favorite tag-market">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 10, 2014</span>

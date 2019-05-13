@@ -2,7 +2,7 @@
 Deputy Attorney General Calls for Government Backdoors
 ---
 <article class="post-listing post-23187 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-attorney tag-backdoors tag-calls tag-deputy tag-general tag-government">
+ tag-attorney tag-backdoors tag-calls tag-deputy tag-general tag-government">
     
 <div class="post-inner">
     

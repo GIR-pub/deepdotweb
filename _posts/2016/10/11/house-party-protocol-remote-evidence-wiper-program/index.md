@@ -1,7 +1,7 @@
 ---
 House Party Protocol &#8211; remote evidence wiper program
 ---
-<article class="post-listing post-15747 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-evidence tag-house tag-party tag-program tag-protocol tag-remote tag-wiper">
+<article class="post-listing post-15747 post type-post status-publish format-standard has-post-thumbnail hentry  tag-evidence tag-house tag-party tag-program tag-protocol tag-remote tag-wiper">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>October 11, 2016</span>

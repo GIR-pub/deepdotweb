@@ -1,7 +1,7 @@
 ---
 Bitcoin: Does the “Currency of the Future” tag still hold true?
 ---
-<article class="post-listing post-11349 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoin tag-currency tag-future tag-hold tag-tag tag-true">
+<article class="post-listing post-11349 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-currency tag-future tag-hold tag-tag tag-true">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/macavity/" title="">Macavity </a></span>
 <span>September 27, 2015</span>

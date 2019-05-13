@@ -2,7 +2,7 @@
 Is Unsupervised Machine Learning the Next Step in Fighting Fraud?
 ---
 <article class="post-listing post-18529 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-fighting tag-fraud tag-learning tag-machine tag-step tag-unsupervised">
+ tag-fighting tag-fraud tag-learning tag-machine tag-step tag-unsupervised">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 10, 2017</span>

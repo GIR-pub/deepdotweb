@@ -1,7 +1,7 @@
 ---
 12 Things to Do While Your Market Is Down!
 ---
-<article class="post-listing post-9640 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-2688 tag-market">
+<article class="post-listing post-9640 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-market">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 25, 2015</span>

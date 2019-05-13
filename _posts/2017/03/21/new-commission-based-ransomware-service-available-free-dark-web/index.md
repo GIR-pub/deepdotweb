@@ -2,7 +2,7 @@
 New Commission-based Ransomware As A Service Available Free On Dark Web
 ---
 <article class="post-listing post-18728 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-commissionbased tag-dark tag-free tag-ransomware tag-service tag-web">
+ tag-commissionbased tag-dark tag-free tag-ransomware tag-service tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>March 21, 2017</span>

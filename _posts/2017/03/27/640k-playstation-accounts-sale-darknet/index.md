@@ -2,7 +2,7 @@
 640K PlayStation Accounts for Sale on the Darknet
 ---
 <article class="post-listing post-18817 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-640k tag-accounts tag-darknet tag-playstation tag-sale">
+ tag-640k tag-accounts tag-darknet tag-playstation tag-sale">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 27, 2017</span>

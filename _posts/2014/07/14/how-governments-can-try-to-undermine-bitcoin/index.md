@@ -1,7 +1,7 @@
 ---
 How Governments Can Try To Undermine Bitcoin?
 ---
-<article class="post-listing post-6448 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-bitcoins tag-undermining">
+<article class="post-listing post-6448 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoins tag-undermining">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
     <span>July 14, 2014</span>

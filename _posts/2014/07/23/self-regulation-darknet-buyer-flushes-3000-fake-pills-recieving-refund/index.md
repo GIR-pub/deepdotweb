@@ -1,7 +1,7 @@
 ---
 Self Regulation: DarkNet Buyer Flushes 3000 Fake Pills After Recieving A Refund
 ---
-<article class="post-listing post-6592 post type-post status-publish format-standard has-post-thumbnail hentry category-news-updates tag-1850 tag-buyer tag-darknet tag-fake tag-flushes tag-pills tag-recieving tag-refund tag-regulation">
+<article class="post-listing post-6592 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1850 tag-buyer tag-darknet tag-fake tag-flushes tag-pills tag-recieving tag-refund tag-regulation">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 23, 2014</span>

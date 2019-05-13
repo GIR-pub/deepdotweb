@@ -2,7 +2,7 @@
 Researchers Discover Disabling of Intel ME Backdoor Through NSA Hardware Requirement
 ---
 <article class="post-listing post-22571 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-backdoor tag-disabling tag-discover tag-hardware tag-intel tag-nsa tag-requirement tag-researchers">
+ tag-backdoor tag-disabling tag-discover tag-hardware tag-intel tag-nsa tag-requirement tag-researchers">
     
     <div class="post-inner">
     

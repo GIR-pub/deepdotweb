@@ -2,7 +2,7 @@
 Spanish Police Smash a Bitcoin criminal gang&#8211;11 arrested over money laundering
 ---
 <article class="post-listing post-25441 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bitcoin tag-criminal tag-gang11 tag-laundering tag-money tag-police tag-smash tag-spanish">
+ tag-bitcoin tag-criminal tag-gang11 tag-laundering tag-money tag-police tag-smash tag-spanish">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>April 21, 2018</span>

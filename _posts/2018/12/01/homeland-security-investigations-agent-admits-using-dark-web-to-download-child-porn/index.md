@@ -2,7 +2,7 @@
 Homeland Security Investigations Agent Admits Using Dark Web to Download Child Porn
 ---
 <article class="post-listing post-27431 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-admits tag-agent tag-child tag-dark tag-download tag-homeland tag-investigations tag-porn tag-security tag-web">
+ tag-admits tag-agent tag-child tag-dark tag-download tag-homeland tag-investigations tag-porn tag-security tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>December 1, 2018</span>

@@ -1,7 +1,7 @@
 ---
 1776 Market: Automated Multi-Signature Escrow
 ---
-<article class="post-listing post-5051 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-1492 tag-automated tag-escrow tag-market tag-multisignature">
+<article class="post-listing post-5051 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1492 tag-automated tag-escrow tag-market tag-multisignature">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 19, 2014</span>

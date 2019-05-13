@@ -2,7 +2,7 @@
 Teenage SMG Buyer Granted Internet Access for Homework
 ---
 <article class="post-listing post-22882 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-access tag-buyer tag-granted tag-homework tag-internet tag-smg tag-teenage">
+ tag-access tag-buyer tag-granted tag-homework tag-internet tag-smg tag-teenage">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 2, 2017</span>

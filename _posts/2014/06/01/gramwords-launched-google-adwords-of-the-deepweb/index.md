@@ -1,7 +1,7 @@
 ---
 &#8220;Gramwords&#8221; Launched: Google Adwords Of The DeepWeb!
 ---
-<article class="post-listing post-5833 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-grams tag-gramwords tag-introducing">
+<article class="post-listing post-5833 post type-post status-publish format-standard has-post-thumbnail hentry  tag-grams tag-gramwords tag-introducing">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 1, 2014</span>

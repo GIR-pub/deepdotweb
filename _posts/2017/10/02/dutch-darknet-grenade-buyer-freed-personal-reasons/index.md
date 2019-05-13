@@ -2,7 +2,7 @@
 Dutch Darknet Grenade Buyer Freed for Personal Reasons
 ---
 <article class="post-listing post-22881 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-buyer tag-darknet tag-dutch tag-freed tag-grenade tag-personal tag-reasons">
+ tag-buyer tag-darknet tag-dutch tag-freed tag-grenade tag-personal tag-reasons">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 2, 2017</span>

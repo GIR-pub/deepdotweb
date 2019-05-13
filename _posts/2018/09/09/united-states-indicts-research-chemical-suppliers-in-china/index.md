@@ -2,7 +2,7 @@
 United States Indicts Research Chemical Suppliers in China
 ---
 <article class="post-listing post-26731 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-chemical tag-china tag-indicts tag-research tag-states tag-suppliers tag-united">
+ tag-chemical tag-china tag-indicts tag-research tag-states tag-suppliers tag-united">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>September 9, 2018</span>

@@ -1,7 +1,7 @@
 ---
 Opportunities Abroad For Deep Web Entrepreneurs Part 2
 ---
-<article class="post-listing post-7056 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-aboard tag-deep tag-entrepreneurs tag-opportunities tag-part tag-web">
+<article class="post-listing post-7056 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aboard tag-deep tag-entrepreneurs tag-opportunities tag-part tag-web">
     
     <div class="post-inner">
     

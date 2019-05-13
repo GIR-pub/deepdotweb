@@ -2,7 +2,7 @@
 Utah Teenager Allegedly Ordered Ecstasy and U4 from the Darknet
 ---
 <article class="post-listing post-26575 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-allegedly tag-darknet tag-ecstasy tag-ordered tag-teenager tag-u4 tag-utah">
+ tag-allegedly tag-darknet tag-ecstasy tag-ordered tag-teenager tag-u4 tag-utah">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 18, 2018</span>

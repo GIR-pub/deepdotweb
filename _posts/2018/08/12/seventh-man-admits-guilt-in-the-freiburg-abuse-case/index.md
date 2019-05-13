@@ -2,7 +2,7 @@
 Seventh Man Admits Guilt in the Freiburg Abuse Case
 ---
 <article class="post-listing post-26552 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-abuse tag-admits tag-case tag-freiburg tag-guilt tag-man tag-seventh">
+ tag-abuse tag-admits tag-case tag-freiburg tag-guilt tag-man tag-seventh">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 12, 2018</span>

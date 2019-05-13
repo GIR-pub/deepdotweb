@@ -2,7 +2,7 @@
 Operation Shadow Web Carding Forum Investigation Results in 36 Arrests
 ---
 <article class="post-listing post-24913 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-6322 tag-arrests tag-carding tag-forum tag-investigation tag-operation tag-results tag-shadow tag-web">
+ tag-6322 tag-arrests tag-carding tag-forum tag-investigation tag-operation tag-results tag-shadow tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>March 1, 2018</span>

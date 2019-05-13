@@ -2,7 +2,7 @@
 UK’s Investigatory Powers Act Ruled Unlawful by Court
 ---
 <article class="post-listing post-24784 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-act tag-court tag-investigatory tag-powers tag-ruled tag-uks tag-unlawful">
+ tag-act tag-court tag-investigatory tag-powers tag-ruled tag-uks tag-unlawful">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>February 12, 2018</span>

@@ -2,7 +2,7 @@
 Bus Driver Caught Sharing Videos on Darknet Child Abuse Sites
 ---
 <article class="post-listing post-26512 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-abuse tag-bus tag-caught tag-child tag-darknet tag-driver tag-sharing tag-sites tag-videos">
+ tag-abuse tag-bus tag-caught tag-child tag-darknet tag-driver tag-sharing tag-sites tag-videos">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 8, 2018</span>

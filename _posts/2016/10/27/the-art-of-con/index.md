@@ -1,7 +1,7 @@
 ---
 The Art of Con
 ---
-<article class="post-listing post-16109 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-art tag-con">
+<article class="post-listing post-16109 post type-post status-publish format-standard has-post-thumbnail hentry  tag-art tag-con">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>October 27, 2016</span>

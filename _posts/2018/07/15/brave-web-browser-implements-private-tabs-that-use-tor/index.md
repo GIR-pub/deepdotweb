@@ -2,7 +2,7 @@
 Brave Web Browser Implements Private Tabs That Use Tor
 ---
 <article class="post-listing post-26308 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-brave tag-browser tag-implements tag-private tag-tabs tag-tor tag-web">
+ tag-brave tag-browser tag-implements tag-private tag-tabs tag-tor tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>July 15, 2018</span>

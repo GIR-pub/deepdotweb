@@ -2,7 +2,7 @@
 A Child Abuse Arrest Unveiled a Lost PlayPen Member
 ---
 <article class="post-listing post-24697 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-abuse tag-arrest tag-child tag-lost tag-member tag-playpen tag-unveiled">
+ tag-abuse tag-arrest tag-child tag-lost tag-member tag-playpen tag-unveiled">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 6, 2018</span>

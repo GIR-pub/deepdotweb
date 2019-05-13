@@ -2,7 +2,7 @@
 Illinois Woman Nabbed in Dark Web Murder-For-Hire Plot
 ---
 <article class="post-listing post-25585 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-dark tag-illinois tag-murderforhire tag-nabbed tag-plot tag-web tag-woman">
+ tag-dark tag-illinois tag-murderforhire tag-nabbed tag-plot tag-web tag-woman">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kofi/" title="">Kofi Anash </a></span>
 <span>May 3, 2018</span>

@@ -1,7 +1,7 @@
 ---
 title: Analogue Players In a Digital World: How Silk Road Stumped the Justice Department
 ---
-1611 category-deepdot-news tag-analogue tag-department tag-digital tag-justice tag-players tag-road tag-silk tag-stumped tag-world">
+1611  tag-analogue tag-department tag-digital tag-justice tag-players tag-road tag-silk tag-stumped tag-world">
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 20, 2013</span>

@@ -2,7 +2,7 @@
 One Found Guilty in Alphabay Explosives Case
 ---
 <article class="post-listing post-26588 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-alphabay tag-case tag-explosives tag-guilty">
+ tag-alphabay tag-case tag-explosives tag-guilty">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 19, 2018</span>

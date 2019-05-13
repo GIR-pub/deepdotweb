@@ -2,7 +2,7 @@
 US, France, and Russia Bid for the Extradition of Bitcoin Fraud Suspect
 ---
 <article class="post-listing post-26387 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-bid tag-bitcoin tag-extradition tag-france tag-fraud tag-russia tag-suspect">
+ tag-bid tag-bitcoin tag-extradition tag-france tag-fraud tag-russia tag-suspect">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
 <span>July 24, 2018</span>

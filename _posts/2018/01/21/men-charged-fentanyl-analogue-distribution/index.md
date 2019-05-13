@@ -2,7 +2,7 @@
 Men Charged for Fentanyl Analogue Distribution
 ---
 <article class="post-listing post-24507 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-analogue tag-charged tag-distribution tag-fentanyl tag-men">
+ tag-analogue tag-charged tag-distribution tag-fentanyl tag-men">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 21, 2018</span>

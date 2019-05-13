@@ -1,7 +1,7 @@
 ---
 Real Life OpSec Matters Too
 ---
-<article class="post-listing post-13052 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-life tag-matters tag-opsec tag-real">
+<article class="post-listing post-13052 post type-post status-publish format-standard has-post-thumbnail hentry  tag-life tag-matters tag-opsec tag-real">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/erebus24/" title="">Erebus24 </a></span>
     <span>January 22, 2016</span>

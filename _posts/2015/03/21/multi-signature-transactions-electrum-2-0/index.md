@@ -1,7 +1,7 @@
 ---
 Tutorial: Multi-signature Transactions with Electrum 2.0
 ---
-<article class="post-listing post-9566 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-newstag-electrum tag-multisignature tag-transactions tag-tutorial">
+<article class="post-listing post-9566 post type-post status-publish format-standard has-post-thumbnail hentry tag-electrum tag-multisignature tag-transactions tag-tutorial">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 21, 2015</span>

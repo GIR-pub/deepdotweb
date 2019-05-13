@@ -1,7 +1,7 @@
 ---
 Basic Guide to PGP On Linux
 ---
-<article class="post-listing post-9094 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-basic tag-guide tag-linux tag-pgp">
+<article class="post-listing post-9094 post type-post status-publish format-standard has-post-thumbnail hentry  tag-basic tag-guide tag-linux tag-pgp">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>February 17, 2015</span>

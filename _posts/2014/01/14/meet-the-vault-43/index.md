@@ -1,7 +1,7 @@
 ---
 Meet the Vault 43
 ---
-<article class="post-listing post-3460 post type-post status-publish format-standard has-post-thumbnail hentry category-deepdot-news tag-1181 tag-meet tag-vault">
+<article class="post-listing post-3460 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1181 tag-meet tag-vault">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 14, 2014</span>

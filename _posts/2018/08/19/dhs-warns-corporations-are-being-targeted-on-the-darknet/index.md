@@ -2,7 +2,7 @@
 DHS Warns Corporations Are Being Targeted on the Darknet
 ---
 <article class="post-listing post-26586 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-corporations tag-darknet tag-dhs tag-targeted tag-warns">
+ tag-corporations tag-darknet tag-dhs tag-targeted tag-warns">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/dividedby0/" title="">DividedBy0 </a></span>
 <span>August 19, 2018</span>

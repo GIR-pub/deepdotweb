@@ -2,7 +2,7 @@
 Personal Data Protection in Russia
 ---
 <article class="post-listing post-24718 post type-post status-publish format-standard has-post-thumbnail hentry 
-category-news-updates tag-data tag-personal tag-protection tag-russia">
+ tag-data tag-personal tag-protection tag-russia">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>February 7, 2018</span>
