@@ -12,7 +12,7 @@ Catastrophic Corruption In The Baltimore Silk Road Taskforce (1)
     
     
     <span>April 9, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2015/04/09/catastrophic-corruption-in-the-baltimore-silk-road-taskforce-1/#comments">7 Comments</a></span>
     </p>

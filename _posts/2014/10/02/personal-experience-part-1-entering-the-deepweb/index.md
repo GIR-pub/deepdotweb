@@ -6,7 +6,7 @@ Personal Experience: Part 1 &#8211; Entering The DeepWeb
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
     <span>October 2, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/10/02/personal-experience-part-1-entering-the-deepweb/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

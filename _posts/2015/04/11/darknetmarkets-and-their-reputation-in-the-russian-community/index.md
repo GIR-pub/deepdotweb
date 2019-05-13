@@ -6,7 +6,7 @@ Darknetmarkets And Their Reputation in The Russian Community
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/joshuag/" title="">Joshua G. </a></span>
     <span>April 11, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/04/11/darknetmarkets-and-their-reputation-in-the-russian-community/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>

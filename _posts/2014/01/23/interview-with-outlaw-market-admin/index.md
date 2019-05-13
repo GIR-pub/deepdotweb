@@ -6,7 +6,7 @@ Interview With OutLaw Market Admin
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 23, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/01/23/interview-with-outlaw-market-admin/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>

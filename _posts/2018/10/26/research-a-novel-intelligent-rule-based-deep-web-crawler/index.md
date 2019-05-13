@@ -6,7 +6,7 @@ Research: A novel intelligent rule-based deep web crawler
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>October 26, 2018</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2018/10/26/research-a-novel-intelligent-rule-based-deep-web-crawler/#respond">Leave a comment</a></span>
 </p>
 <div class="clear"></div>

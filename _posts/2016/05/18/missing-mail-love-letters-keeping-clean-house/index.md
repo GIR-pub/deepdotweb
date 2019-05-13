@@ -12,7 +12,7 @@ Missing mail, love letters and keeping a clean house
     
     
     <span>May 18, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2016/05/18/missing-mail-love-letters-keeping-clean-house/#comments">5 Comments</a></span>
     </p>

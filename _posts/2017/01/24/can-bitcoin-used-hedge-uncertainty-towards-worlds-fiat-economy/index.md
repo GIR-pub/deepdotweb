@@ -6,7 +6,7 @@ Can Bitcoin Be Used As a Hedge Against Uncertainty Towards the World&#8217;s Fia
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 24, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/01/24/can-bitcoin-used-hedge-uncertainty-towards-worlds-fiat-economy/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

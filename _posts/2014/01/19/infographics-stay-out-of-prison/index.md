@@ -6,7 +6,7 @@ Infographics: You Have The Right To Stay Out Of Prison!
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 19, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/01/19/infographics-stay-out-of-prison/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>

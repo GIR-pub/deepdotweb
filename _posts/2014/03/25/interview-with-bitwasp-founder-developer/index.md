@@ -12,7 +12,7 @@ Interview With Bitwasp Founder &#038; Developer &#8211; Security, DarkNetMarkets
     
     
     <span>March 25, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2014/03/25/interview-with-bitwasp-founder-developer/#comments">5 Comments</a></span>
     </p>

@@ -6,7 +6,7 @@ New Details About the Utopia/BMR Busts
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>September 23, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/09/23/new-details-about-the-utopia-marketplace-bust/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>

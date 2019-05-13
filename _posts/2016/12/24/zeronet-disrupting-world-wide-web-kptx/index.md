@@ -6,7 +6,7 @@ How ZeroNet is disrupting the World Wide Web
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>December 24, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2016/12/24/zeronet-disrupting-world-wide-web-kptx/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

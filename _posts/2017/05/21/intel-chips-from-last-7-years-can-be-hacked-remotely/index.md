@@ -6,7 +6,7 @@ Intel chips from last 7 years can be hacked remotely
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/filipjelic/" title="">Filip Jelic </a></span>
     <span>May 21, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/05/21/intel-chips-from-last-7-years-can-be-hacked-remotely/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

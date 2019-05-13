@@ -6,7 +6,7 @@ Bitcoin Debit Cards: A Real Comparison
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kyleseverance/" title="">Kyle Severance </a></span>
 <span>March 9, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2015/03/09/bitcoin-debit-cards-a-real-comparison/#comments">12 Comments</a></span>
 </p>
 <div class="clear"></div>

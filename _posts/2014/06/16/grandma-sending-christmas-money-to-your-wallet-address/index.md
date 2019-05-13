@@ -6,7 +6,7 @@ Grandma Sending Christmas Money to Your Wallet Address?
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 16, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/06/16/grandma-sending-christmas-money-to-your-wallet-address/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

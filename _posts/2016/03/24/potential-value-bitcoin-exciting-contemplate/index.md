@@ -6,7 +6,7 @@ The Potential Value of Bitcoin is Exciting To Contemplate
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     <span>March 24, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2016/03/24/potential-value-bitcoin-exciting-contemplate/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>

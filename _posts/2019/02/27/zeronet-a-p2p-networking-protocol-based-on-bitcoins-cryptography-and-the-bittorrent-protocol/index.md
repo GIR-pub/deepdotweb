@@ -6,7 +6,7 @@ ZeroNet &#8211; A P2P networking protocol based on Bitcoin&#8217;s cryptography 
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 27, 2019</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2019/02/27/zeronet-a-p2p-networking-protocol-based-on-bitcoins-cryptography-and-the-bittorrent-protocol/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

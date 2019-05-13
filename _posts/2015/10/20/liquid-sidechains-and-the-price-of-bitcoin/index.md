@@ -6,7 +6,7 @@ Liquid Sidechains and the Price of Bitcoin
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>October 20, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2015/10/20/liquid-sidechains-and-the-price-of-bitcoin/#respond">Leave a comment</a></span>
 </p>
 <div class="clear"></div>

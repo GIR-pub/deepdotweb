@@ -12,7 +12,7 @@ Build a Cheap Linux Server
     
     
     <span>January 15, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2016/01/15/build-cheap-linux-server/#comments">9 Comments</a></span>
     </p>

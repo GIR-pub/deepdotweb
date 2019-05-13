@@ -6,7 +6,7 @@ title: Arrests around the world related to Silk Road&#8230;.So far
     
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>October 25, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
     
 <span><a href="https://www.deepdotweb.com/2013/10/25/arrests-around-the-world-related-to-silk-road-so-far/#comments">12 Comments</a></span>
 </p>

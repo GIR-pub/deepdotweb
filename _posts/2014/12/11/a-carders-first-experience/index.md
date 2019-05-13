@@ -6,7 +6,7 @@ A Carder&#8217;s First Experience
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
     <span>December 11, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/12/11/a-carders-first-experience/#comments">114 Comments</a></span>
     </p>
     <div class="clear"></div>

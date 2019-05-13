@@ -6,7 +6,7 @@ title: Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Phar
     
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
 <span>November 7, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
     
 <span><a href="https://www.deepdotweb.com/2013/11/07/black-markets-warning-serious-health-issue-fakecounterfeit-pharmaceuticals-being-sold/#comments">23 Comments</a></span>
 </p>

@@ -6,7 +6,7 @@ VPN: Encrypt every device on your network for $20
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/c3lt1c/" title="">c3lt1c </a></span>
 <span>August 28, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2015/08/28/vpn-encrypt-every-device-on-your-network-for-20/#comments">2 Comments</a></span>
 </p>
 <div class="clear"></div>

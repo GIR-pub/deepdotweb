@@ -6,7 +6,7 @@ Deep Web &#038; Law Enforcement: Informers
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>December 29, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/12/29/deep-web-law-enforcement-informers/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

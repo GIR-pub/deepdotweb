@@ -6,7 +6,7 @@ OP-ED: Agora, Where’s My BTC (and your consistency), Bitch?
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
 <span>August 31, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2015/08/31/op-ed-agora-wheres-my-btc-and-your-consistency-bitch/#comments">36 Comments</a></span>
 </p>
 <div class="clear"></div>

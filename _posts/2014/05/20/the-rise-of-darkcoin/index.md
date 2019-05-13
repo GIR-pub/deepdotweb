@@ -6,7 +6,7 @@ The Rise of Darkcoin
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
     <span>May 20, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/05/20/the-rise-of-darkcoin/#comments">15 Comments</a></span>
     </p>
     <div class="clear"></div>

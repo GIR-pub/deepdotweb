@@ -6,7 +6,7 @@ Doxxing or informing; the DNM Drug Dealer’s only Coercive Tool
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>July 13, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/07/13/doxxing-or-informing-the-dnm-drug-dealers-only-coercive-tool/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>

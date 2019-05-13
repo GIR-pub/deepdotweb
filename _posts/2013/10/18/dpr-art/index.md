@@ -5,11 +5,7 @@ title: DPR Art?
 
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 18, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
-<span><a href="https://www.deepdotweb.com/2013/10/18/dpr-art/#comments">1 Comment</a></span>
-</p>
-<div class="clear"></div>
-<div class="entry">
+
 <p>A Pretty idiotic article by Vice was making fun of some pretty nice pieces of artwork made by the alleged silk road mastermind Ross William Ulbricht  Aka.  Dread Pirate Roberts Aka DPR.</p>
 <p>Well, the article itself is not really worth reading &#8211; but the art is worth presenting &#8211;</p>
 <p>you can read the original article here if you really want to: http://www.vice.com/read/silk-road-founder-ross-william-ulbricht-is-good-at-the-internet-and-bad-at-art</p>

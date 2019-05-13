@@ -6,7 +6,7 @@ Darkode: Extended Background Story
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/canahontra/" title="">Canahontra </a></span>
     <span>July 20, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/07/20/darkode-extended-background-story/#comments">13 Comments</a></span>
     </p>
     <div class="clear"></div>

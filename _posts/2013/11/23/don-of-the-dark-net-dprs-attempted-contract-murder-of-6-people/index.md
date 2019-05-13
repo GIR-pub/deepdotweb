@@ -6,7 +6,7 @@ title: Don of the Dark Net: DPR’s Attempted Contract Murder of 6 People
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 23, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2013/11/23/don-of-the-dark-net-dprs-attempted-contract-murder-of-6-people/#respond">Leave a comment</a></span>
 </p>
 <div class="clear"></div>

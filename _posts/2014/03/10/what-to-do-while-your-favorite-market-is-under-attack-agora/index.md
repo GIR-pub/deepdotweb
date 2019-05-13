@@ -6,7 +6,7 @@ What To Do While Your Favorite Market Is Under Attack? (Agora)
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 10, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/03/10/what-to-do-while-your-favorite-market-is-under-attack-agora/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>

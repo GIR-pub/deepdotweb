@@ -6,7 +6,7 @@ CoinAsia &#8211; Asia&#8217;s Unified Sovereign Backed Cryptocurrency
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 28, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/01/28/coinasia-asias-unified-sovereign-backed-cryptocurrency/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>

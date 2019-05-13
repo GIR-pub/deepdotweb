@@ -6,7 +6,7 @@ Introduction to Cryptography, Part 2
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/64bytes/" title="">64Bytes </a></span>
     <span>June 14, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2016/06/14/introduction-cryptography-part-2/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

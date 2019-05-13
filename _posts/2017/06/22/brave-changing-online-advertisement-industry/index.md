@@ -12,7 +12,7 @@ Brave: Changing the Online Advertisement Industry
     
     
     <span>June 22, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2017/06/22/brave-changing-online-advertisement-industry/#respond">Leave a comment</a></span>
     </p>

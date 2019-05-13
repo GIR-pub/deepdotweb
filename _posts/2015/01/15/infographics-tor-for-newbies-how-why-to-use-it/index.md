@@ -6,7 +6,7 @@ Infographics: Tor For Newbies &#8211; How &#038; Why To Use It?
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 15, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/01/15/infographics-tor-for-newbies-how-why-to-use-it/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

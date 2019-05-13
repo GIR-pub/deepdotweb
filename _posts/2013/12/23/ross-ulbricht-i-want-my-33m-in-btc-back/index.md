@@ -6,7 +6,7 @@ title: Ross Ulbricht to the FEDS: I want my $33 Million in BTC Back!
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 23, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2013/12/23/ross-ulbricht-i-want-my-33m-in-btc-back/#comments">1 Comment</a></span>
 </p>
 <div class="clear"></div>

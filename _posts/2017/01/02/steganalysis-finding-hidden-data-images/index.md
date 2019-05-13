@@ -12,7 +12,7 @@ Steganalysis: finding hidden data in Images
     
     
     <span>January 2, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2017/01/02/steganalysis-finding-hidden-data-images/#comments">3 Comments</a></span>
     </p>

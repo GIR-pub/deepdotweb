@@ -12,7 +12,7 @@ Tutorial: How to Buy From Outlaw Market?
     
     
 <span>September 17, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
     
 <span><a href="https://www.deepdotweb.com/2015/09/17/tutorial-how-to-buy-from-outlaw-market/#comments">3 Comments</a></span>
 </p>

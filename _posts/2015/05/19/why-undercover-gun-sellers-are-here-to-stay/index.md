@@ -6,7 +6,7 @@ Why Undercover Gun Sellers Are Here To Stay?
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>May 19, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/05/19/why-undercover-gun-sellers-are-here-to-stay/#comments">8 Comments</a></span>
     </p>
     <div class="clear"></div>

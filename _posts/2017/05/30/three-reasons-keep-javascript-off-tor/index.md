@@ -6,7 +6,7 @@ Three More Reasons to Keep JavaScript off in Tor
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 30, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/05/30/three-reasons-keep-javascript-off-tor/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>

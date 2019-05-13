@@ -6,7 +6,7 @@ Tutorial &#8211; How To Host Your Own DNS Website Domain On Ethereum&#8217;s Blo
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>September 7, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/09/07/tutorial-host-dns-website-domain-ethereums-blockchain/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>

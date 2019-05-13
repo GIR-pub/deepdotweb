@@ -6,7 +6,7 @@ Research: Estimating the volume and scope of tobacco trading on darknet marketpl
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>March 2, 2019</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2019/03/02/research-estimating-the-volume-and-scope-of-tobacco-trading-on-darknet-marketplaces/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

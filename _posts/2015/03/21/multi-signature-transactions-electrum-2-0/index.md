@@ -6,7 +6,7 @@ Tutorial: Multi-signature Transactions with Electrum 2.0
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 21, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2015/03/21/multi-signature-transactions-electrum-2-0/#comments">12 Comments</a></span>
 </p>
 <div class="clear"></div>

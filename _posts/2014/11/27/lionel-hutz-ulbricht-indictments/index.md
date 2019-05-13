@@ -6,7 +6,7 @@ Allen Hoffman on the Ulbricht Indictment
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>November 27, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/11/27/lionel-hutz-ulbricht-indictments/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

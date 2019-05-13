@@ -12,7 +12,7 @@
     
     
     <span>September 15, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2014/09/15/5-reasons-favorite-anonymous-crypto-currency-isnt-anonymous/#comments">4 Comments</a></span>
     </p>

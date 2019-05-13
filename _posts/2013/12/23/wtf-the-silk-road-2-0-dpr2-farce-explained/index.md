@@ -6,7 +6,7 @@ title: WTF? The Silk Road 2.0 / DPR2 Farce Explained
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 23, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/#comments">15 Comments</a></span>
 </p>
 <div class="clear"></div>

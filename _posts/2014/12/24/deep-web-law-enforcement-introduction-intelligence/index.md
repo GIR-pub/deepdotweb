@@ -12,7 +12,7 @@ Deep Web &#038; Law Enforcement: Introduction to Intelligence
     
     
     <span>December 24, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2014/12/24/deep-web-law-enforcement-introduction-intelligence/#respond">Leave a comment</a></span>
     </p>

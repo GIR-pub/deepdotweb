@@ -6,7 +6,7 @@ Tor&#8217;s Hidden Service Publishing Tool, Stormy: A Closer Look
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
     <span>July 23, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/07/23/a-closer-look-at-tors-hidden-service-publishing-tool-stormy/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>

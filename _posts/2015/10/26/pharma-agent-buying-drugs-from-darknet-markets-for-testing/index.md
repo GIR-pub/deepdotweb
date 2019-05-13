@@ -6,7 +6,7 @@ Pharma Agent Buying Drugs From Darknet Markets For Testing
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>October 26, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2015/10/26/pharma-agent-buying-drugs-from-darknet-markets-for-testing/#comments">7 Comments</a></span>
 </p>
 <div class="clear"></div>

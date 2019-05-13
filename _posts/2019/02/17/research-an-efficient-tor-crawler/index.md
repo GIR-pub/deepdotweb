@@ -6,7 +6,7 @@ Research: An efficient Tor crawler
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 17, 2019</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2019/02/17/research-an-efficient-tor-crawler/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>

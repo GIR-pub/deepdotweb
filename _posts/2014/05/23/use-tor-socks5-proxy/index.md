@@ -6,7 +6,7 @@ How to use Tor as a Socks5 proxy
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/chrishansen/" title="">ChrisHansen </a></span>
     <span>May 23, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/05/23/use-tor-socks5-proxy/#comments">18 Comments</a></span>
     </p>
     <div class="clear"></div>

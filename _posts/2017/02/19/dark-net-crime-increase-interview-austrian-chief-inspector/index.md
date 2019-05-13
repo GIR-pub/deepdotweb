@@ -6,7 +6,7 @@ Dark Net Crime In Increase: Interview With Austrian Chief Inspector
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>February 19, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/02/19/dark-net-crime-increase-interview-austrian-chief-inspector/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

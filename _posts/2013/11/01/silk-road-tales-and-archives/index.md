@@ -6,7 +6,7 @@ title: Silk Road tales and archives
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 1, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2013/11/01/silk-road-tales-and-archives/#respond">Leave a comment</a></span>
 </p>
 <div class="clear"></div>

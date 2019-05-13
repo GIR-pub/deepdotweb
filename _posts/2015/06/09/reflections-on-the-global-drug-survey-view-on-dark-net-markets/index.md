@@ -6,7 +6,7 @@ Reflections on the Global Drug Survey view on Dark Net Markets
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>June 9, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/06/09/reflections-on-the-global-drug-survey-view-on-dark-net-markets/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>

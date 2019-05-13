@@ -6,7 +6,7 @@ Security Software
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/c3lt1c/" title="">c3lt1c </a></span>
     <span>April 21, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2016/04/21/security-software/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>

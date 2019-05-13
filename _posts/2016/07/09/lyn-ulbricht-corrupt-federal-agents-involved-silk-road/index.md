@@ -12,7 +12,7 @@ Lyn Ulbricht on Corrupt Federal Agents Involved in Silk Road
     
     
     <span>July 9, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2016/07/09/lyn-ulbricht-corrupt-federal-agents-involved-silk-road/#respond">Leave a comment</a></span>
     </p>

@@ -6,7 +6,7 @@ MDMA: Culture, Use and the Future
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lines_of_thought/" title="">Lines_of_Thought </a></span>
     <span>July 23, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/07/23/mdma-culture-use-and-the-future/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>

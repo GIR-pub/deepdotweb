@@ -6,7 +6,7 @@ The Alternate DPR defense May Still Succeed
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>January 27, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/01/27/alternate-dpr-defense-may-still-succeed/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

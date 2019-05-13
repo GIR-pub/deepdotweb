@@ -6,7 +6,7 @@ Identification of darknet hacker communities (forums, IRCs, carding shops, and d
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 17, 2019</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2019/01/17/identification-of-darknet-hacker-communities/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

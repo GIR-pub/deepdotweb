@@ -6,7 +6,7 @@ Regulating the Unregulated: The Future of Bitcoin?
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/kalyan/" title="">Koni </a></span>
 <span>October 15, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2015/10/15/regulating-the-unregulated-the-future-of-bitcoin/#comments">10 Comments</a></span>
 </p>
 <div class="clear"></div>

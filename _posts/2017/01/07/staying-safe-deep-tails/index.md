@@ -12,7 +12,7 @@ Staying Safe on the Deep with TAILS
     
     
     <span>January 7, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2017/01/07/staying-safe-deep-tails/#comments">9 Comments</a></span>
     </p>

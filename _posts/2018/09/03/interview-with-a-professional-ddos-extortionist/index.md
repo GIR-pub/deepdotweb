@@ -6,7 +6,7 @@ Interview with a Professional DDoS Extortionist
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>September 3, 2018</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2018/09/03/interview-with-a-professional-ddos-extortionist/#comments">1 Comment</a></span>
 </p>
 <div class="clear"></div>

@@ -6,7 +6,7 @@ Censorship of Mobile Money in Uganda: Why Bitcoin Matters
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>March 4, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2016/03/04/censorship-of-mobile-money-in-uganda-why-bitcoin-matters/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>

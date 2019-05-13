@@ -12,7 +12,7 @@ How to make money online on Bitshares&#8217; decentralized exchange network
     
     
     <span>June 5, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2017/06/05/make-money-online-bitshares-decentralized-exchange-network/#respond">Leave a comment</a></span>
     </p>

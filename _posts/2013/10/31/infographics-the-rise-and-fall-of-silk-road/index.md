@@ -6,7 +6,7 @@ title: Infographics: The Rise And Fall of Silk Road
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 31, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2013/10/31/infographics-the-rise-and-fall-of-silk-road/#comments">3 Comments</a></span>
 </p>
 <div class="clear"></div>

@@ -12,7 +12,7 @@ Tutorial &#8211; How To Run a Full Ethereum Node On Windows
     
     
     <span>May 25, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2017/05/25/tutorial-run-full-ethereum-node-windows/#comments">6 Comments</a></span>
     </p>

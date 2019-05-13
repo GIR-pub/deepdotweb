@@ -6,7 +6,7 @@ Tutorial: How To Buy From the Wall Street Market?
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/kptx/" title="">kptx </a></span>
     <span>January 25, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/01/25/tutorial-buy-wall-street-market/#comments">30 Comments</a></span>
     </p>
     <div class="clear"></div>

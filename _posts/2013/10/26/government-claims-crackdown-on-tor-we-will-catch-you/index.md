@@ -6,7 +6,7 @@ title: Government Claims Crackdown On Tor: “We will catch you”
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 26, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2013/10/26/government-claims-crackdown-on-tor-we-will-catch-you/#comments">3 Comments</a></span>
 </p>
 <div class="clear"></div>

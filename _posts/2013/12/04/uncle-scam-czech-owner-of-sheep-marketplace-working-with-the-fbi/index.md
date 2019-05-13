@@ -6,7 +6,7 @@ title: Uncle Scam: Czech Owner of Sheep Marketplace Working With the FBI?
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 4, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2013/12/04/uncle-scam-czech-owner-of-sheep-marketplace-working-with-the-fbi/#comments">9 Comments</a></span>
 </p>
 <div class="clear"></div>

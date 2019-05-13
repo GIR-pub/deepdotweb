@@ -6,7 +6,7 @@ DEAR ABBY &#8211; A Review of (REAL) Darknet Antics
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/rh/" title="">R.H </a></span>
     <span>August 8, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2016/08/08/dear-abby-review-real-darknet-antics/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>

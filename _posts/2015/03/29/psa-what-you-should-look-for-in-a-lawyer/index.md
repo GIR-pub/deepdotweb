@@ -6,7 +6,7 @@ PSA: What You Should Look For In A Lawyer?
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 29, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2015/03/29/psa-what-you-should-look-for-in-a-lawyer/#comments">5 Comments</a></span>
 </p>
 <div class="clear"></div>

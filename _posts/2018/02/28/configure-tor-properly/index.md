@@ -6,7 +6,7 @@ How To Configure Tor Properly
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/theinnocent/" title="">TheInnocent </a></span>
 <span>February 28, 2018</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2018/02/28/configure-tor-properly/#comments">4 Comments</a></span>
 </p>
 <div class="clear"></div>

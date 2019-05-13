@@ -12,7 +12,7 @@ Introduction to Bitcoin Transaction Accelerators
     
     
     <span>August 31, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2017/08/31/introduction-bitcoin-transaction-accelerators/#respond">Leave a comment</a></span>
     </p>

@@ -6,7 +6,7 @@ Alphabay death: Wondering which market is Headed to the Top? Here is some inside
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 12, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/07/12/alphabaydown-whosnext/#comments">11 Comments</a></span>
     </p>
     <div class="clear"></div>

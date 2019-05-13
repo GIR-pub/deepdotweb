@@ -6,7 +6,7 @@ What is an ICO (Initial Coin Offering)
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 10, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/04/10/ico-initial-coin-offering/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>

@@ -6,7 +6,7 @@ Tutorial &#8211; How To Generate Bitcoin Using Your PC On Autopilot Via Gridcoin
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>April 1, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/04/01/tutorial-generate-bitcoin-using-pc-autopilot-via-gridcoin/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>

@@ -6,7 +6,7 @@ We love the blockchain, not the bitcoin the currency
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
 <span>October 12, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2015/10/12/we-love-the-blockchain-not-the-bitcoin-the-currency/#respond">Leave a comment</a></span>
 </p>
 <div class="clear"></div>

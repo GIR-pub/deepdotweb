@@ -6,7 +6,7 @@ Silk Road Trial: Week 2 – From Bad to Worse and Beyond
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>January 26, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/01/26/silk-road-trial-week-2-bad-worse-beyond/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>

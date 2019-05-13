@@ -12,7 +12,7 @@ Interview: Monero&#8217;s fluffypony talks about current developments and the fu
     
     
     <span>November 29, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2016/11/29/interview-moneros-fluffypony-talks-current-developments-future-cryptocurrency/#respond">Leave a comment</a></span>
     </p>

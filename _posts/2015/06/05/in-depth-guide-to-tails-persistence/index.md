@@ -6,7 +6,7 @@ In-depth Guide to Tails + Persistence
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 5, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/06/05/in-depth-guide-to-tails-persistence/#comments">18 Comments</a></span>
     </p>
     <div class="clear"></div>

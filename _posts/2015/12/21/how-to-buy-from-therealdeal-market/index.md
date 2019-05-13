@@ -12,7 +12,7 @@ How To Buy From TheRealDeal Market?
     
     
 <span>December 21, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
     
 <span><a href="https://www.deepdotweb.com/2015/12/21/how-to-buy-from-therealdeal-market/#comments">37 Comments</a></span>
 </p>

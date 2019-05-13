@@ -12,7 +12,7 @@ How Do Modern Firewalls Work?
     
     
     <span>February 15, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2016/02/15/modern-firewalls-work/#comments">4 Comments</a></span>
     </p>

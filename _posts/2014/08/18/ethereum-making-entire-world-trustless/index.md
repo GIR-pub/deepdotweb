@@ -6,7 +6,7 @@ Ethereum: Making the Entire World Trustless (Part 1 &#8211; Introduction)
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
     <span>August 18, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/08/18/ethereum-making-entire-world-trustless/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>

@@ -6,7 +6,7 @@ Reflective Look at Net Neutrality
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/mikewilkerson/" title="">Mike Wilkerson </a></span>
     <span>September 17, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/09/17/a-reflective-look-at-net-neutrality/#comments">6 Comments</a></span>
     </p>
     <div class="clear"></div>

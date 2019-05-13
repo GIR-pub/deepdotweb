@@ -6,7 +6,7 @@ Research: I2P based anonymous network protocol developed via Rust programming la
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>February 19, 2019</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2019/02/19/research-i2p-based-anonymous-network-protocol-developed-via-rust-programming-language/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

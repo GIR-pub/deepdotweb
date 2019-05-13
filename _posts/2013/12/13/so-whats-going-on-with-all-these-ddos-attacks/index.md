@@ -6,7 +6,7 @@ title: So Whats going on with all these DDOS Attacks?
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 13, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2013/12/13/so-whats-going-on-with-all-these-ddos-attacks/#respond">Leave a comment</a></span>
 </p>
 <div class="clear"></div>

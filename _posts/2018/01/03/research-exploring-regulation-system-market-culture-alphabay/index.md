@@ -6,7 +6,7 @@ Research: Exploring the Regulation System and Market Culture of AlphaBay
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>January 3, 2018</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2018/01/03/research-exploring-regulation-system-market-culture-alphabay/#respond">Leave a comment</a></span>
 </p>
 <div class="clear"></div>

@@ -6,7 +6,7 @@ Basic guide to PGP on Tails
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/iris/" title="">Iris </a></span>
 <span>October 22, 2017</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/#comments">7 Comments</a></span>
 </p>
 <div class="clear"></div>

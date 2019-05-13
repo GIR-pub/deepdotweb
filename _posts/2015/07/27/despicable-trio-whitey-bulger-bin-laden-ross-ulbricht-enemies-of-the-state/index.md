@@ -6,7 +6,7 @@ Despicable trio &#8211; Whitey Bulger, Osama &#038; Ulbricht &#8211; Enemies of 
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/mo_drugs/" title="">Mo_Drugs </a></span>
     <span>July 27, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/07/27/despicable-trio-whitey-bulger-bin-laden-ross-ulbricht-enemies-of-the-state/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>

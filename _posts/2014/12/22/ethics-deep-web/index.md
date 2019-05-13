@@ -6,7 +6,7 @@ The Ethics of The Deep Web
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
     <span>December 22, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/12/22/ethics-deep-web/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>

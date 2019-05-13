@@ -12,7 +12,7 @@ Testing Modern Antivirus Software part 1
     
     
     <span>September 25, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2017/09/25/testing-modern-antivirus-software-part-1/#comments">1 Comment</a></span>
     </p>

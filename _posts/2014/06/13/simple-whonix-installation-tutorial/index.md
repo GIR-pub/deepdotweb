@@ -6,7 +6,7 @@ Simple Whonix Installation Tutorial
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>
     <span>June 13, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/06/13/simple-whonix-installation-tutorial/#comments">18 Comments</a></span>
     </p>
     <div class="clear"></div>

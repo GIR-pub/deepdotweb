@@ -6,7 +6,7 @@ How Far Will an Undercover Go to Sell You on Their Story?
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
     <span>May 11, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2015/05/11/how-far-will-an-undercover-go-to-sell-you-on-their-story/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>

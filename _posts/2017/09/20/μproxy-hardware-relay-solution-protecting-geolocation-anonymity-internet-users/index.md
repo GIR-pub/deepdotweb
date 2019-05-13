@@ -12,7 +12,7 @@
     
     
     <span>September 20, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2017/09/20/%ce%bcproxy-hardware-relay-solution-protecting-geolocation-anonymity-internet-users/#comments">2 Comments</a></span>
     </p>

@@ -12,7 +12,7 @@ June 18 FOMC Meeting, What it Means for Bitcoin Price?
     
     
     <span>July 3, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2014/07/03/june-18-fomc-meeting-means-bitcoin-price/#respond">Leave a comment</a></span>
     </p>

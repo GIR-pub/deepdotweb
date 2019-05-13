@@ -6,7 +6,7 @@ An Application That Converts National Fiat Currencies To Blockchain Based Crypto
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 23, 2017</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2017/03/23/application-converts-national-fiat-currencies-blockchain-based-cryptocurrencies/#respond">Leave a comment</a></span>
 </p>
 <div class="clear"></div>

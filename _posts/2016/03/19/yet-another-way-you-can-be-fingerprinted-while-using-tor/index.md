@@ -6,7 +6,7 @@ Yet Another Way You Can Be Fingerprinted While Using Tor
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/fuzzy/" title="">Fuzzy </a></span>
     <span>March 19, 2016</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2016/03/19/yet-another-way-you-can-be-fingerprinted-while-using-tor/#comments">10 Comments</a></span>
     </p>
     <div class="clear"></div>

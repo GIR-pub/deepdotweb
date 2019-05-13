@@ -6,7 +6,7 @@ title: The Sheep, BMR (And Maybe Tormarket) Hacker Reddit Investigation
 <p class="post-meta">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 27, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+
 <span><a href="https://www.deepdotweb.com/2013/12/27/the-sheep-bmr-and-maybe-tormarket-hacker-investigation/#comments">4 Comments</a></span>
 </p>
 <div class="clear"></div>

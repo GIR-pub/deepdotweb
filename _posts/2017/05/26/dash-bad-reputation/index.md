@@ -6,7 +6,7 @@ Why does Dash have a bad reputation?
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/jonathanfoster/" title="">JONATHAN FOSTER </a></span>
     <span>May 26, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/05/26/dash-bad-reputation/#comments">7 Comments</a></span>
     </p>
     <div class="clear"></div>

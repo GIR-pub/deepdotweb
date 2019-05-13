@@ -12,7 +12,7 @@ The Scurvy Crew: Its Been An Amazing Ride
     
     
     <span>June 16, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2015/06/16/thescurvycrew-its-been-an-amazing-ride/#comments">39 Comments</a></span>
     </p>

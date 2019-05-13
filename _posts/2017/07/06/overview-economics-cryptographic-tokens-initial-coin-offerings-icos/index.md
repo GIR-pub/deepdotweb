@@ -6,7 +6,7 @@ An Overview of the Economics of Cryptographic Tokens and Initial Coin Offerings 
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>July 6, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2017/07/06/overview-economics-cryptographic-tokens-initial-coin-offerings-icos/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>

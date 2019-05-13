@@ -12,7 +12,7 @@ How to start a career writing about cryptocurrencies
     
     
     <span>May 3, 2017</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     
     <span><a href="https://www.deepdotweb.com/2017/05/03/start-career-writing-cryptocurrencies/#comments">2 Comments</a></span>
     </p>

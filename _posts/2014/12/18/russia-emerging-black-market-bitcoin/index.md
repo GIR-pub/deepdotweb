@@ -6,7 +6,7 @@ Russia Emerging Black Market For Bitcoin
     <p class="post-meta">
     <span>Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
     <span>December 18, 2014</span>
-    <span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a>, <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a></span>
+    
     <span><a href="https://www.deepdotweb.com/2014/12/18/russia-emerging-black-market-bitcoin/#comments">4 Comments</a></span>
     </p>
     <div class="clear"></div>
