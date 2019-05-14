@@ -2,12 +2,10 @@
 title: "In-Depth Look Into Sidechains"
 ---
 
-7485 post type-post status-publish format-standard has-post-thumbnail hentry  tag-indepth tag-sidechains
-Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+Posted by:  Zubair Muadh
 <span>November 3, 2014</span>
     
-<a href="/2014/11/03/depth-look-sidechains/#comments">1 Comment</a></span>
-</p>
+
 <p>Following the proposal for having Bitcoin Sidechains that was <a href="/2014/06/26/sidechains-blockchain-2-0/">discussed earlier in 2014</a> Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille released the first white paper on sidechains titled ‘Enabling Blockchain Innovations with Pegged Sidechains’</p>
 <p>A detailed 22 page whitepaper which discuses design rationale, the applications of sidechains, drawbacks and explains two-way pegging.</p>
 <p><strong>Symmetric two way pegging</strong></p>
@@ -39,7 +37,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zub
 <p>Because miners receive compensation from the block subsidy and fees of each chain they provide work for, it is in their economic interest to switch between different similarly-valued blockchains following changes in difficulty and movements in market value.</p>
 <p>As miners provide work for more blockchains, more resources are needed to track and validate them all, this would increase the resources that miners would be using up making it unaffordable for smaller-scale miners.</p>
 <p>It would be possible for miners to delegate validation and transaction selection however choosing to delegate authority enables miners to avoid almost all of the additional resource requirements, or provide work for blockchains that they are still in the process of validating. However such delegation comes at the cost of centralizing validation and transaction selection for the blockchain, even if the work generation itself remains distributed.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/indepth/" rel="tag">indepth</a> <a href="https://www.deepdotweb.com/tag/sidechains/" rel="tag">sidechains</a></span> 
-Updated: 2014-11-03<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    
+
+Updated: 2014-11-03    

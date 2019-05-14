@@ -2,12 +2,10 @@
 title: "Can Anoncoin Be The Currency Of The Deep Web?"
 ---
 
-7126 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anoncoin tag-currency tag-deep tag-web
+
 Posted by: DeepDotWeb
 <span>September 18, 2014</span>
-    
-<a href="/2014/09/18/can-anoncoin-be-the-currency-of-the-deep-web/#comments">10 Comments</a></span>
-</p>
+
 <p>Most DarkNet vendors deal exclusively in Bitcoin (BTC) because no competitor has more liquidity, price stability, or widespread adoption. In terms of DarkNet adoption, the next closest currency is Litecoin (LTC), which historically averages about 5% of Bitcoin’s market capitalization. Litecoin also has a relatively broad web infrastructure, and has been accepted sporadically by smaller DarkNet Markets. However, being essentially a Bitcoin clone, Litecoin has never offered enough competitive advantage over Bitcoin to justify regular use in the Deep Web.</p>
 <p>Surprisingly, until late 2013 with the advent of Anoncoin (ANC), no crypto-currency directly addressed the anonymous market, giving more time for Bitcoin to build on the early lead that it garnered from Silk Road. Although no crypto-currency has made headway so far, an anonymous crypto-currency will eventually have sufficient adoption and privacy improvement to be useful for many of the largest DarkNet markets.</p>
 <p><b>Early Anonymous Crypto-Currencies</b></p>
@@ -53,7 +51,6 @@ Posted by: DeepDotWeb
 <p>Open Bazaar promises to be such a solution. It is an open-source project touting many innovations that improve on traditional markets, including a reputation system based on proof-of-burn pledges, which allow users to burn Bitcoin in exchange for reputation. Released under the permissive open source MIT License, the Open Bazaar project plans to launch before the end of 2014.</p>
 <p><b>The Future of Anonymous Crypto-Currencies</b></p>
 <p>Anonymous crypto-currency technology has progressed from virtual non-existence in mid-2013 to being a central feature of a multitude of crypto-currencies today. A year from now, we may see a crypto-currency that boasts network, blockchain, and address privacy. It will also be “trustless”, meaning that users need not trust a central service to provide anonymity. This future currency will require only small amounts of storage and may even usurp Bitcoin as the leading currency on the Dark Markets.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/anoncoin/" rel="tag">anoncoin</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
+
 Updated: 2014-09-18
     

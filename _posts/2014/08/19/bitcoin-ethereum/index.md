@@ -1,12 +1,9 @@
 ---
-title: "Bitcoin-Ethereum (Part 2)---
+title: "Bitcoin-Ethereum (Part 2)"
+---
 
-6532 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoinethereum
-Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
 <span>August 19, 2014</span>
-    
-<a href="/2014/08/19/bitcoin-ethereum/#respond">Leave a comment</a></span>
-</p>
+
 <p>First Part: <a href="/2014/08/18/ethereum-making-entire-world-trustless/">Ethereum: Making the Entire World Trustless (Part 1 &#8211; Introduction)</a></p>
 <p><strong>What is Ethereum?</strong></p>
 <p>Conducting transactions through a third party means we need to assume that the third party conducts the transactions in a secure manner, however these assumptions have been proven to be false, or inconsistent, exemplified by examples such as the Mt.Gox incident.</p>
@@ -54,7 +51,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zub
 <p>With the creation of an environment where an individual doesn’t feel in danger of having their money unjustly stripped from them by centralised companies and corporations -ehem PayPal.</p>
 <p>Bitcoin would provide an online market that’s free of much of the risk that online marketplaces have had thus far. Combining this with completely arbitrary rules that allow users to choose limits that they subscribe to, such as OpenBazaar we’re seeing the beginning of a new development in online commerce.</p>
 <p>What is emerging is a community that’s based on fairness due to personal benefit that immediately applies to financial conflicts. It would encourage non-Oracles to become Oracles, due to the benefits and justness, as well helping to foster a healthy marketplace. It also make Bitcoin investment more appealing to outsiders as it would remove any previous misconceptions about it being an insecure platform. This would encourage people to look for alternatives instead of turning away from online commerce when they’re encountered with unjust or unfavourable rulings. Alternatives which are found in Bitcoin based markets with Bit-thereum style contract systems and an oracle style arbitration system. This model will raise the Bitcoin price by fueling new markets with a hoard of desiring customers looking for an alternative to the current online.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bitcoinethereum/" rel="tag">bitcoinethereum</a></span> 
-Updated: 2014-08-19<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    
+
+Updated: 2014-08-19

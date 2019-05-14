@@ -2,8 +2,9 @@
 title: "ISIS Supporter: The Islamic State Does NOT Use Bitcoin"
 ---
 
-7166 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-islamic tag-state tag-story tag-truth
-Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+7166  tag-islamic tag-state tag-story tag-truth
+Posted by: 
+Zubair Muadh
 <span>September 22, 2014</span>
     
 <a href="/2014/09/22/bitcoin-is-not-being-used-by-the-islamic-state/#respond">Leave a comment</a></span>
@@ -43,7 +44,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zub
 <p>When asked if eDinar was currently being developed and if the Islamic State had the infrastructure to support it since not many people own smartphones/laptops he answered:</p>
 <blockquote><p><em>They wouldn&#8217;t need to. For those that just want to store their money or have it accessible anywhere in the caliphate, they could just go to a local bank and have the conversion done. eDinar would be less of a standalone and more of an extension of the physical currency.</em></p></blockquote>
 <p>The Islamic State doesn’t use Bitcoin and the PDF article wasn’t written by Islamic State members or fighters but rather by Islamic State supporters. They propose to create a Semi-decentralized currency “eDinar” that would act as a decentralized extension to already printed Islamic State Dinars as opposed to using Bitcoin itself directly.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/islamic/" rel="tag">islamic</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a> <a href="https://www.deepdotweb.com/tag/story/" rel="tag">story</a> <a href="https://www.deepdotweb.com/tag/truth/" rel="tag">truth</a></span> 
-Updated: 2014-09-22<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    
+
+Updated: 2014-09-22    

@@ -2,12 +2,10 @@
 title: "BlockSign: Sign and Verify Documents Using Blockchain"
 ---
 
-6932 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blockchain tag-blocksign tag-documents tag-sign tag-verify
-Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+Posted by: 
+Zubair Muadh
 <span>September 8, 2014</span>
-    
-<a href="/2014/09/08/blocksign-sign-and-verify-documents-using-blockchain/#respond">Leave a comment</a></span>
-</p>
+
 <p><strong>What is BlockSign?          </strong></p>
 <p>BlockSign is a platform which runs on the Blockchain that cryptographically signs documents and timestamps them allowing them to be later verified on the internet</p>
 <p><strong>How does it work?</strong></p>
@@ -38,7 +36,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zub
 <p>Adobe EchoSign: $14.95 per Month for a single user to sign and upload documents.</p>
 <p>BlockSign: First 5 signatures are free, every 50 signatures afterwards are $5.</p>
 <p>BlockSign is providing a cheap alternative to e-signing over the current industry leaders, using Blockchain technology to do so. BlockSign isn’t alone in this, due to the open source nature of the Bitcoin source code other projects are also rising such as Euthereum which uses the Blockchain technology to facilitate the many things including smart contracts providing BlockSign with competition.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/blocksign/" rel="tag">blocksign</a> <a href="https://www.deepdotweb.com/tag/documents/" rel="tag">documents</a> <a href="https://www.deepdotweb.com/tag/sign/" rel="tag">sign</a> <a href="https://www.deepdotweb.com/tag/verify/" rel="tag">verify</a></span> 
-Updated: 2014-09-08<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    
+
+Updated: 2014-09-08    

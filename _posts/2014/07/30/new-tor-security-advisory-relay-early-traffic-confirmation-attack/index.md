@@ -2,12 +2,10 @@
 title: "New Tor Security Advisory: &#8220;Relay Early&#8221; Traffic Confirmation Attack"
 ---
 
-6653 post type-post status-publish format-standard has-post-thumbnail hentry  tag-advisory tag-attack tag-confirmation tag-early tag-relay tag-security  tag-traffic
+
 Posted by: DeepDotWeb
 <span>July 30, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/30/new-tor-security-advisory-relay-early-traffic-confirmation-attack/#respond">Leave a comment</a></span>
-</p>
+
 <p>This advisory was posted on the <a href="https://lists.torproject.org/pipermail/tor-announce/2014-July/000094.html">tor-announce</a> mailing list and published on the <a href="https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack">Torproject blog</a>, This is the summary:</p>
 <blockquote><p>On July 4 2014 we found a group of relays that we assume were trying to deanonymize users. They appear to have been targeting people who operate or access Tor hidden services. The attack involved modifying Tor protocol headers to do traffic confirmation attacks.</p>
 <p>The attacking relays joined the network on January 30 2014, and we removed them from the network on July 4. While we don&#8217;t know when they started doing the attack, <span style="color: #ff0000;"><strong>users who operated or accessed hidden services from early February through July 4 should assume they were affected</strong></span>.</p>
@@ -23,7 +21,6 @@ Posted by: DeepDotWeb
 <p>Great questions. We spent several months trying to extract information from the researchers who were going to give the Black Hat talk, and eventually we did get some hints from them about how &#8220;relay early&#8221; cells could be used for traffic confirmation attacks, which is how we started looking for the attacks in the wild. They haven&#8217;t answered our emails lately, so we don&#8217;t know for sure, but it seems likely that the answer to Q1 is &#8220;yes&#8221;. In fact, we hope they *were* the ones doing the attacks, since otherwise it means somebody else was. We don&#8217;t yet know the answers to Q2, Q3, or Q4.</p></blockquote>
 <p>Keep yourself updated with this topic at the Torproject blog post: <a href="https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack">https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack</a></p>
 <p>Also there are discussions going on reddit /r/dnm , /r/onions and /r/tor.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/advisory/" rel="tag">advisory</a> <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/confirmation/" rel="tag">confirmation</a> <a href="https://www.deepdotweb.com/tag/early/" rel="tag">early</a> <a href="https://www.deepdotweb.com/tag/relay/" rel="tag">relay</a>   <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> 
+
 Updated: 2014-07-30
     

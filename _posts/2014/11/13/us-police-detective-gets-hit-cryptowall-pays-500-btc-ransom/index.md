@@ -2,12 +2,9 @@
 title: "US Police Detective Gets Hit By CryptoWall &#8211; Pays $500 BTC Ransom"
 ---
 
-8238 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2424 tag-cryptowall tag-detective tag-hit tag-pays tag-police tag-ransom
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>November 13, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/13/us-police-detective-gets-hit-cryptowall-pays-500-btc-ransom/#comments">8 Comments</a></span>
-</p>
+
 <p><iframe src="http://launch.newsinc.com/?type=VideoPlayer/Single&amp;widgetId=1&amp;trackingGroup=69016&amp;siteSection=ndn&amp;videoId=28142084&amp;playlistId=15138" width="590" height="332" frameborder="no" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
 <p>Yesterday, the Dickson County Sheriff&#8217;s Office said one of their detectives’ computer were infected with ransomware. The ransomware, which brands itself as CryptoWall, encrypted files on the detective&#8217;s computers and demanded 500 dollars of Bitcoin to decrypt the files. Autopsy reports, witness statements and crime scene photographs were some of the files held hostage by the virus</p>
 <p>The police department’s IT director, Jeff McCliss, said to Channel 5 news, &#8220;Every sort of document that you could develop in an investigation was in that folder. There was a total of 72,000 files.”</p>
@@ -20,7 +17,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>This isn’t the first time CryptoWall has held government computers hostage either. The virus infected computers at municipal council offices throughout Italy late October of this year. An <a href="http://www.difob.it/">Italian cyber crime consultancy</a> agency estimated that CryptoWall received $100,000 of bitcoin over the 6 days the virus spread through the council&#8217;s computer networks.</p>
 <p>The United Kingdom’s National Crime Agency had their cybercrime unit published a <a href="http://www.nationalcrimeagency.gov.uk/news/256-alert-mass-spamming-event-targeting-uk-computer-users">warning</a> about the ransomware after many British citizens reported having their computers infected by the virus.</p>
 <p>In an official statement on the matter, Lee Miles, Deputy Head of the National Cyber Crime Unit said, &#8220;The NCA are actively pursuing organised crime groups committing this type of crime. We are working in cooperation with industry and international partners to identify and bring to justice those responsible and reduce the risk to the public.&#8221;</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/500/" rel="tag">500</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/cryptowall/" rel="tag">cryptowall</a> <a href="https://www.deepdotweb.com/tag/detective/" rel="tag">detective</a> <a href="https://www.deepdotweb.com/tag/hit/" rel="tag">hit</a> <a href="https://www.deepdotweb.com/tag/pays/" rel="tag">pays</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/ransom/" rel="tag">ransom</a></span> 
-Updated: 2014-11-13<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-11-13
     

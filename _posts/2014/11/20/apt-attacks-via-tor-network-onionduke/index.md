@@ -1,12 +1,11 @@
 ---
-title: "APT attacks via the Tor network, “OnionDuke”---
+title: "APT attacks via the Tor network, “OnionDuke”"
+---
 
-8276 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apt tag-attacks tag-network tag-onionduke 
-Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+Posted by: Zubair Muadh
 <span>November 20, 2014</span>
     
-<a href="/2014/11/20/apt-attacks-via-tor-network-onionduke/#comments">4 Comments</a></span>
-</p>
+    
 <p>The Leviathan security group <a href="http://www.f-secure.com/weblog/archives/00002764.html" target="_blank">discovered</a> that malicious Tor exist nodes where wrapping executable windows files (.exe files) with malware. The malware was dubbed “OnionDuke” by F-Secure researchers.</p>
 <p><strong>The MiniDuke Link</strong></p>
 <p>MiniDuke was a highly sophisticated malware that previously infected government agencies and organisations spanning 23 countries. MiniDuke used multiple layers of encryption and clever coding tricks that made the malware difficult to detect and reverse engineer, due to the fact it was written in assembly language most MiniDuke Files where small in size. MiniDuke used certain websites as command &amp; control which is quite similar to the C&amp;C (Command and control) chain that OnionDuke uses.</p>
@@ -20,7 +19,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zub
 <p>What’s interesting is that the domains leveldata.com and grouptumbler.com where previously used as C&amp;C domains by MiniDuke. This points towards the actors behind MiniDuke and OnionDuke are connected due to the shared use of infrastructure despite the malware being different families.</p>
 <p>OnionDuke also infected executables in .torrent containing pirated software. F-Secure also found strong evidence indicating that the OnionDuke was targeting European government agencies, this suggests two different targeting strategies. The first being the traditional APT surgical targeting the second being the “Shooting a fly with a cannon” approach which basically a mass-infection through modified binaries.</p>
 <p>Whilst case is still shrouded in mystery and speculation you can mitigate this risk by using a VPN that would encrypt your traffic with articles on this <a href="http://www.deepdotweb.com/?s=VPN">found here</a>. In addition to this, <strong>don’t download .exe files over Tor</strong>.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/apt/" rel="tag">apt</a> <a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/onionduke/" rel="tag">onionduke</a> </span> 
-Updated: 2014-11-20<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    
+
+Updated: 2014-11-20    

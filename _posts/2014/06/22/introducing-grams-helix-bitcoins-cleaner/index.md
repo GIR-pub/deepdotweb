@@ -2,12 +2,10 @@
 title: "Introducing Grams Helix: Bitcoins Cleaner"
 ---
 
-6160 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cleaner tag-grams tag-helix tag-introducing
+
 Posted by: DeepDotWeb
 <span>June 22, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/22/introducing-grams-helix-bitcoins-cleaner/#comments">32 Comments</a></span>
-</p>
+
 <p>Helix is the definitive darknet bitcoin cleaner. Grams&#8217; helix doesn&#8217;t just clean your bitcoins it gives you brand new ones which have never been to the darknet before. The helix system is more than a bitcoin tumbler, it is privacy and security wrapped in one.</p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong>URL:</strong> http://grams7enufi7jmdl.onion/helix<br />
@@ -38,7 +36,6 @@ Posted by: DeepDotWeb
     Every night half of all the profits made for that day will be deposited into a btc address which is a paper address, I have the only copy of the private key and it has never seen the internet. Grams will keep depositing in to it until it reaches an amount equal to or greater than the average daily volume of Helix. This is to insure your money. In the highly unlikely case the severs got hacked or compromised Grams could use this reserve to pay back anyone who had their money stolen or lost. After a week or so of build up I will post the public address so all users to verify that money is getting deposited every night (and no withdraws are made).</p>
 <p>It was added by Grams admin that:</p>
 <blockquote><p>This step is truly unnecessary since Grams is very security conscious, but it is a step I am willing to take to earn the trust of all of you.</p></blockquote>
-</div>
-<a href="https://www.deepdotweb.com/tag/cleaner/" rel="tag">cleaner</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/helix/" rel="tag">helix</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> 
+
 Updated: 2014-06-22
     

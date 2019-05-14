@@ -1,12 +1,10 @@
 ---
-title: "Deep Web &#038; Law Enforcement: From a Buyer Perspective, Part 2---
+title: "Deep Web &#038; Law Enforcement: From a Buyer Perspective, Part 2"
+---
 
-7943 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buyer tag-buyerperspective tag-deep tag-enforcement tag-law tag-perspective tag-web
 Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
 <span>December 16, 2014</span>
-    
-<a href="/2014/12/16/deep-web-law-enforcement-buyer-perspective-part-2/#comments">8 Comments</a></span>
-</p>
+
 <p><em>Both Parts are available at this tag <a href="http://www.deepdotweb.com/tag/BuyerPerspective/">#BuyerPerspective</a></em></p>
 <p><strong>Meet Matt the intelligent buyer</strong></p>
 <p>Matt never uses TOR at home, instead preferring to carry an encrypted USB drive with the TOR browser bundle on board and uses internet cafes and public libraries; he leaves his phone at home/work when he goes to use TOR, or removes the battery from the phone completely before he heads in that direction, preferably using public transportation. If he absolutely MUST use a computer of his own, he uses a TAILS DVD or USB with no persistent volume. He does his best to avoid CCTV or going places where he is known to employees or residents.</p>
@@ -35,6 +33,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Alle
 <p>Knowing what you did, and proving it, are very different things.</p>
 <p>Coming up next: Intelligence and evidence are different things.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/buyerperspective/" rel="tag">BuyerPerspective</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/perspective/" rel="tag">perspective</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
-Updated: 2014-12-16<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    
+
+Updated: 2014-12-16

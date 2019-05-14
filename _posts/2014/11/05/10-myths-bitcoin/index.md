@@ -2,13 +2,10 @@
 title: "10 Myths About Bitcoin"
 ---
 
-7034 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-bitcoin tag-myths
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>November 5, 2014</span>
     
-<a href="/2014/11/05/10-myths-bitcoin/#comments">3 Comments</a></span>
-</p>
-<ol>
+
 <li><strong>Bitcoin Is Not Secure</strong></li>
 </ol>
 <p>Numerous stories about wallets, exchanges, and marketplaces being hacked have led many to believe that bitcoin itself safe or secure. All of the hacks have been of the infrastructure supporting bitcoin. Bitcoin, the currency and protocol &#8211; itself has never been hacked.</p>
@@ -55,7 +52,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <li><strong>Bitcoin Is a Ponzi Scheme</strong></li>
 </ol>
 <p>Many have called bitcoin a ponzi scheme but this can&#8217;t be farther from the truth. A ponzi scheme requires new people to give up their money in order to pay people who have already paid and are waiting for their payout. It is unsustainable and exists solely through deception. There is no central controller of bitcoin to facilitate such a ponzi scheme. The competing self-interests of the bitcoin ecosystem help kept bitcon from being a pump and dump in beginning. The miners who had to buy specialized and expensive equipment in order to mine don&#8217;t want bitcoin to go away. The same is true for people who have built businesses around bitcoin (and the people who have invested in them). Besides, if you buy a bitcoin you are actually getting something in return and not a promise. That bitcoin can be used to buy a plane ticket, a laptop or real estate. I would say many altcoins are ponzi schemes or pump and dumps.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/myths/" rel="tag">myths</a></span> 
-Updated: 2014-11-05<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-11-05
     

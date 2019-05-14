@@ -2,12 +2,9 @@
 title: "Why Did Rich People &#038; BTC Exchanges Want To Buy The Seized SR Coins?"
 ---
 
-6847 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-buy tag-exchanges tag-people tag-rich tag-seized 
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>October 23, 2014</span>
-    
-<a href="/2014/10/23/rich-people-bitcoin-exchanges-want-buy-seized-silk-road-bitcoins/#comments">1 Comment</a></span>
-</p>
+
 <p>When the US Marshall sold the 30,000 BTC, it made big news. People claimed the act fully legitimized Bitcoin and that is was a big victory for clearnet Bitcoin over its deep web counterpart. What they didn&#8217;t realized is that they just tested a new business for the deep web.</p>
 <p>Before I get to that, let me talk a little bit about the auction. The Us Marshall only allowed a small group of people, who meet the requirements set by the US Marshall. Two of those requirements was a down payment of 200,000$ (it was later changed to 25,000$ and 50,000$) and they would have to register with the US Marshall.</p>
 <p>Information remain limited, regarding the auction, but we got a lot of insight into the participants of the auction when America&#8217;s finest at the US Marshall accidentally leaked the list of participants by emailing it to the wrong person. Here is some of the people who were interested in the auction:</p>
@@ -41,7 +38,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>While it maybe be hard to contact and convince rich people who are looking for large amounts of Bitcoin, there is a big opportunity with exchanges in developing countries. Everyday, there is a new exchange that pops. These exchanges are desperate for Bitcoin and some of them have a large amount of fiat money from venture capitalists. In developing countries laws are much more relax and if they aren&#8217;t, a bribe could always fix that.</p>
 <p>There are numerous exchanges to try to sell to but you will need to make a convincing story about how you got so many Bitcoins. The geeky, early adopter type is always a good choice and believable story.</p>
 <p>Deep Web entrepreneurs have a unique opportunity to profit but from an activity that is usually a cost of doing business. There are very few people outside of the Deep Web world that has gathered such a large amount of Bitcoin, leaving rich organizations and individuals not much of a choice and willing to look the other way.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/exchanges/" rel="tag">exchanges</a> <a href="https://www.deepdotweb.com/tag/people/" rel="tag">people</a> <a href="https://www.deepdotweb.com/tag/rich/" rel="tag">rich</a>  <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
-Updated: 2014-10-23<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-10-23
     

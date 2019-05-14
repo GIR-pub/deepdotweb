@@ -1,8 +1,9 @@
 ---
-title: "Why the Deep Web Will Continue To Grow Part 2---
+title: "Why the Deep Web Will Continue To Grow Part 2"
+---
 
-7025 post type-post status-publish format-standard has-post-thumbnail hentry  tag-continue tag-deep tag-deepwebgrow tag-grow tag-web
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+
+Posted by: Greg Miller
 <span>December 3, 2014</span>
     
 <a href="/2014/12/03/deep-web-will-continue-grow-part-2/#respond">Leave a comment</a></span>
@@ -19,7 +20,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>Becoming a dealer or starting a marketplace are the obvious choices and as result, they have become saturated with new startups. With such high competition, entrepreneurs started to look elsewhere and explore new types of businesses.</p>
 <p>Garms is a new start-up that allows you to search for products and web addresses of the deep web. Has been called the Google of the deep web. For the first time, there is a search engine for the deep web. The irregular and short lived .onion addresses made a search engine&#8217;s job very difficult and up until now it was considered impossible. This was a huge problem because finding your favorite marketplace or surfing the deep web was very hard and a shot in the dark. The search engine allows you search for .onion addresses but most notably, specific products of dealers of various marketplaces. Besides the search engine, Garms is also bringing ads to the deep web. This is the first major advertisement opportunity for the deep web and we can only expect great things from it.</p>
 <p>Crypt, is also a new type of deep web business. After working for clearnet clients for 15 years, they decided to work exclusively for the deep web now. Crypt is the first deep web graphic design company. The deep web was and still is to a large degree, fortunate flash back to 90s era web design but Crypt is starting to change that. It is not becoming important to have a nice looking site, as well as a brand and most importantly, be invested in your costumer&#8217;s experience. The increase competition, has caused Crypt&#8217;s services to be valuable.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/continue/" rel="tag">continue</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/deepwebgrow/" rel="tag">DeepWebGrow</a> <a href="https://www.deepdotweb.com/tag/grow/" rel="tag">grow</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
-Updated: 2014-12-03<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-12-03
     

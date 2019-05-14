@@ -2,12 +2,9 @@
 title: "A Carder&#8217;s First Experience"
 ---
 
-7350 post type-post status-publish format-standard has-post-thumbnail hentry  tag-carders tag-experience
-Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+Posted by: Kiell
 <span>December 11, 2014</span>
-    
-<a href="/2014/12/11/a-carders-first-experience/#comments">114 Comments</a></span>
-</p>
+
 <p><em><span style="text-decoration: underline;">We do not support carding</span>! This is for educational purposes only &#8211; and reflect the author&#8217;s own experience and views only.</em></p>
 <p>At the time of this story, I was new to carding. Saying that I was “new” is a bit of an understatement. I had never used any Darknet markets, and I had barely any experience with Bitcoin. I had a lot to learn. This was my experience.</p>
 <p>There are currently few major carding forums such as – Tor Carding Forums (TCF) and Rescator for example. Since Tor Carding Forums had a fee for registration, I decided to use Rescator. The website requires an account to access any listings or to make purchases, but it does not require any payment for registration.</p>
@@ -34,7 +31,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a
 <p>Once I had organized this information, it became a matter of cashing out the card.</p>
 <p>The difficulty of actually using this information is figuring out how to use it anonymously. I decided that once again, I would turn to Bitcoin. There are several things a website asks you for when you use a debit or credit card: the primary account number, the expiration date, and the security (CVC) code. Since all of this was included in the dump, I could use the card online without any problems. I decided to purchase gift cards, which I would then sell for Bitcoins. After doing my Bitcoin &gt; Litecoin &gt; Bitcoin tumbling scheme mentioned earlier, I could deposit these into my wallet. However, I never got that far. My plan would have been successful&#8230;had the card holder&#8217;s account not been closed.</p>
 <p>Overall, my experience was very positive. At first, I was just happy that I hadn&#8217;t gotten scammed; and after banging my head over my desk a few times, I ended up not being too upset over the card&#8217;s failure. After all, if I had purchased a card with an option for a refund, I would have been successful. Using the information, while an extensive process, was definitely doable. It worked very much like any market, with many helpful and honest members.. The people involved were not just criminals looking for easy money; they were interested in the technology and were more than willing to help me. The carding community was just as diverse as any community, and I discovered it was just as tight knit.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/carders/" rel="tag">carders</a> <a href="https://www.deepdotweb.com/tag/experience/" rel="tag">experience</a></span> 
-Updated: 2014-12-11<a href="https://www.deepdotweb.com/author/kiell/" title="Posts by Kiell" rel="author">Kiell</a></strong></div>
-    
+
+Updated: 2014-12-11    

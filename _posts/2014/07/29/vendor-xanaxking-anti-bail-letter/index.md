@@ -2,12 +2,10 @@
 title: "Vendor XanaxKing: Anti-Bail Letter"
 ---
 
-6634 post type-post status-publish format-standard has-post-thumbnail hentry  tag-antibail tag-letter tag-vendor tag-xanaxking
+
 Posted by: DeepDotWeb
 <span>July 29, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/29/vendor-xanaxking-anti-bail-letter/#comments">2 Comments</a></span>
-</p>
+
 <div class="usertext-body may-blank-within">
 <div class="md">
 <p>As it was posted in another great summary brought to you by <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> in <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2bzv3j/xanaxking_antibail_letter/">this</a> Reddit thread (you can join the discussion on reddit):</p>
@@ -28,7 +26,6 @@ Posted by: DeepDotWeb
 </div>
 </div>
 <p>This is a lot of interesting information that many people can learn from. We will be following this case and updating as more information becomes available, Again, Full credit goes to <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> for posting this on Reddit.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/antibail/" rel="tag">antibail</a> <a href="https://www.deepdotweb.com/tag/letter/" rel="tag">letter</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/xanaxking/" rel="tag">xanaxking</a></span> 
+
 Updated: 2014-07-29
     

@@ -1,12 +1,11 @@
 ---
-title: "Weekly Bitcoin News Report – Oct. 18th, 2014---
+title: "Weekly Bitcoin News Report – Oct. 18th, 2014"
+---
 
-7418 post type-post status-publish format-standard has-post-thumbnail hentry  tag-17th tag-1779 tag-bitcoin tag-news tag-oct tag-report tag-weekly
+
 Posted by: DeepDotWeb
 <span>October 18, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/18/weekly-bitcoin-news-report-oct-18th-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>Providing the top Bitcoin news stories from around the web</em></p>
 <p><strong>Regulation</strong></p>
 <p>Changes to the BitLicense regulations have been outlined by the superintendent of the New York State Department of Financial Services, Benjamin Lawsky. As Paul Vigna and Michael J. Casey of <a href="http://blogs.wsj.com/moneybeat/2014/10/14/bitbeat-lawsky-outlines-changes-to-bitlicense/">The Wall Street Journal</a> report, the changes included a BitLicense exemption for software developers, bitcoin miners, and other individuals who do not provide financial services in the state of New York. That being said, all financial entities, including banks, that are looking to offer digital currencies and services related to Bitcoin will have to apply for a license. The revisions indicate that the organization is far more interested in protecting those interested in purchasing and selling bitcoins than in controlling the entire bitcoin business itself.</p>
@@ -20,7 +19,6 @@ Posted by: DeepDotWeb
 <p>What would it be like to survive on bitcoin alone in a major city? David Harris of the <a href="http://www.bizjournals.com/boston/blog/startups/2014/10/heres-what-would-happen-if-i-had-to-survive-on.html">Boston Business Journal</a> attempted to answer that question this week. Harris detailed the two ATMs where he could withdraw bitcoins and three restaurants that accept the cryptocurrency in the greater Boston area. Additionally, he discovered that he could purchase alpaca socks at a store in the nearby Northampton area. While the story is certainly entertaining, it does highlight the lack of bitcoin usage opportunities in one of the major metropolitan areas of the United States.</p>
 <p>College football fans who wish to purchase pre-sale tickets to the Bitcoin St. Petersburg Bowl will have to make payments with the cryptocurrency. Additionally, as Eric Calouro of <a href="http://newsbtc.com/2014/10/15/bitcoin-accepted-exclusively-bitcoin-st-petersburg-bowl-ticket-pre-sale/">NewsBTC</a> writes, the event sponsors are aiming to feature 100 merchants that will exclusively accept bitcoin for payments. The event, which will take place in December, will feature two teams from a selection of three conferences: the American Athletic Conference, the Atlantic Coast Conference, or Conference USA. BitPay, a global bitcoin payment service provider, is the sponsor of the event. Additionally, the company will be working in conjunction with Traveling Coin to offer ticket, hotel, and transport bundles at BitcoinBowlPackages.com.</p>
 <p>Cameron and Tyler Winklevoss, best known for their acquaintanceship with, and eventual lawsuit against, Facebook creator Mark Zuckerberg and their time on the USRowing team, have launched the WinkDex. The application, as Keith Wagstaff of <a href="http://www.nbcnews.com/tech/mobile/winklevoss-twins-launch-bitcoin-app-called-yes-winkdex-n227306">NBCNews</a> writes, tracks bitcoin price changes in real time, taking several different exchanges into account. Additionally, users can convert bitcoins to United States dollars and display informative charts that detail the currency&#8217;s price fluctuations. Wagstaff notes that the Winklevoss twins have a vested interest in the cryptocurrency, as their bitcoin holdings surpass $11 million.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/17th/" rel="tag">17th</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/oct/" rel="tag">oct</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-10-18
     

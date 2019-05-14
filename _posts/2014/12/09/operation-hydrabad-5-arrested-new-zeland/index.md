@@ -2,12 +2,9 @@
 title: "Operation Hydrabad: 5 Arrested in New Zealand"
 ---
 
-8575 post type-post status-publish format-standard has-post-thumbnail hentry  tag-hydrabad tag-operation tag-zeland
 Posted by: DeepDotWeb
 <span>December 9, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/12/09/operation-hydrabad-5-arrested-new-zeland/#comments">7 Comments</a></span>
-</p>
+
 <p>As it was published in a Press Release from <a href="http://www.police.govt.nz/news/release/police-and-customs-operation-seizes-large-quantity-illicit-drugs">New Zealand Police</a>:</p>
 <p><a href="/imgs/2014/12/methamphetamine_-_op_hydrabad1.jpg"><img class="aligncenter size-full wp-image-8576" src="/imgs/2014/12/methamphetamine_-_op_hydrabad1.jpg" alt="methamphetamine_-_op_hydrabad[1]" width="640" height="260" srcset="/imgs/2014/12/methamphetamine_-_op_hydrabad1.jpg 640w, /imgs/2014/12/methamphetamine_-_op_hydrabad1-300x122.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
 <blockquote><p>A joint Manawatü Police and Customs operation has resulted in the arrest of five people in relation to the importation of nearly half a million dollars worth of the Class A drug methamphetamine.</p>
@@ -20,7 +17,6 @@ Posted by: DeepDotWeb
 <p>Detective Sergeant Dave Thompson of the Manawatü CIB says: &#8220;When you deal in illicit drugs you risk everything, and the consequences could see you spend many years behind bars as well as the seizure and forfeiture of any property obtained through the proceeds of crime.&#8221;</p>
 <p>&#8220;Working alongside Customs and our other partner agencies we will continue to strike at the core of organised criminal networks and prevent harm from being caused in our communities.&#8221;</p></blockquote>
 <p><a href="/imgs/2014/12/mdma-_op_hydrabad1.jpg"><img class="aligncenter  wp-image-8577" src="/imgs/2014/12/mdma-_op_hydrabad1.jpg" alt="mdma-_op_hydrabad[1]" width="513" height="385" srcset="/imgs/2014/12/mdma-_op_hydrabad1.jpg 640w, /imgs/2014/12/mdma-_op_hydrabad1-300x225.jpg 300w" sizes="(max-width: 513px) 100vw, 513px" /></a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/hydrabad/" rel="tag">hydrabad</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/zeland/" rel="tag">zeland</a></span> 
+
 Updated: 2014-12-09
     

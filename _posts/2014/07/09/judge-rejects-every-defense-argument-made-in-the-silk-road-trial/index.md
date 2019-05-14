@@ -2,12 +2,9 @@
 title: "Judge Rejects Every Defense Argument In The Silk Road Trial"
 ---
 
-6432 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argument tag-defense tag-judge tag-rejects tag-trial
 Posted by: DeepDotWeb
 <span>July 9, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/09/judge-rejects-every-defense-argument-made-in-the-silk-road-trial/#comments">8 Comments</a></span>
-</p>
+
 <p>As it was published in <strong><a href="http://www.wired.com/2014/07/silkroad-bitcoin-isnt-money/" target="_blank">wired</a></strong>, things are not looking too bright for Ross Ulbricht:</p>
 <blockquote><p>In a ruling released Wednesday, Judge Katherine Forrest denied a motion by Ross Ulbricht, the 30-year-old alleged creator of the Silk Road billion-dollar online drug bazaar, to dismiss criminal charges against him that include narcotics trafficking conspiracy, money laundering, and hacking conspiracy charges, as well as a “continuing criminal enterprise” charge that’s better known as the “kingpin” statute used to prosecute criminal gang and cartel leaders.</p>
 <p><a href="http://www.wired.com/2014/04/threatlevel_0401_silkroad_motion/">That earlier motion</a>, filed in April, raised potentially trial-shifting questions: Can Ulbricht really be accused of running a drug-selling conspiracy when he merely ran a website that made the narcotics sales possible? And can he be charged with money laundering when bitcoin doesn’t necessarily meet the requisite definition of money?’</p>
@@ -23,7 +20,6 @@ Posted by: DeepDotWeb
 <p>Bitcoin’s appeal for many of its users, after all, has been the potential to spend the currency privately, without any ties to the user’s identity. Wednesday’s ruling serves as a reminder: Get caught using that anonymity for illegal purposes, and you could face just as much trouble as if you’d been dealing in old-fashioned dollars.</p></blockquote>
 <p><iframe id="doc_25375" class="scribd_iframe_embed" src="//www.scribd.com/embeds/233234104/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
 <p><strong>Source</strong>: <a href="http://www.wired.com/2014/07/silkroad-bitcoin-isnt-money/" target="_blank">http://www.wired.com/2014/07/silkroad-bitcoin-isnt-money/</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/argument/" rel="tag">argument</a> <a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/rejects/" rel="tag">rejects</a>  <a href="https://www.deepdotweb.com/tag/trial/" rel="tag">trial</a></span> 
+
 Updated: 2014-07-09
     

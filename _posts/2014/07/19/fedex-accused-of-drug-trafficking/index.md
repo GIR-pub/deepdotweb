@@ -2,12 +2,9 @@
 title: "FedEx Accused of Drug Trafficking"
 ---
 
-6526 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accused tag-fedex tag-trafficking
 Posted by: DeepDotWeb
 <span>July 19, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/19/fedex-accused-of-drug-trafficking/#comments">1 Comment</a></span>
-</p>
+
 <p>From a news item published in <a href="http://www.courthousenews.com/2014/07/18/69617.htm">Courthousenews</a> service, may have some relevance to DNM users, as such cases might encourage shipping providers to deploy better screening procedures:</p>
 <blockquote><p>SAN FRANCISCO (CN) &#8211; FedEx conspired to distribute controlled drugs and did deliver them, for illegal Internet pharmacies, a federal grand jury said Thursday in a 15-count indictment.<br/>
     The indictment, signed by U.S. Attorney Melinda Haag, says federal law enforcement officials warned FedEx at least six times since 2004 that illegal pharmacies were using its package delivery service to ship prescription drugs and other controlled substances to customers without doctors&#8217; prescriptions.<br/>
@@ -27,8 +24,9 @@ Posted by: DeepDotWeb
 <p>If convicted of all charges, FedEx could be fined as much as $820 million.</p></blockquote>
 <p>The indictment can be found here:<br/>
 <iframe id="doc_29912" class="scribd_iframe_embed" src="//www.scribd.com/embeds/234483751/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
+
 <p>Article Source: http://www.courthousenews.com/2014/07/18/69617.htm</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/accused/" rel="tag">accused</a>  <a href="https://www.deepdotweb.com/tag/fedex/" rel="tag">fedex</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> 
+
+
 Updated: 2014-07-19
     

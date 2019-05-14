@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin News Round-Up 22.06.2014---
+title: "Bitcoin News Round-Up 22.06.2014"
+---
 
-6157 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1747 tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>June 22, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/22/bitcoin-news-round-up-22-06-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p>Bitcoin saw gains this week on a number of good-news items, pushing it from the week’s low of $553.28 on June 15, to $591.29 at the time of writing. The coin’s price was spurred upwards by positive government policy news from both Japan and Switzerland, as well as industry news in support of the cryptocurrency.</p>
 <p><strong>Industry news</strong></p>
 <p>OpenBazaar is aiming to create an eBay-esque online marketplace using bitcoin. Project maintainer Brian Hoffner said the main value proposition for OpenBazaar’s offering is the freedom of two separate parties to undertake transactions without relying on a centralised network. He also rejected the idea that decentralised marketplaces are hotbeds of illegal activity by nature, and added OpenBazaar will aim to push for lawful activities on the platform, rather than operating it as an illicit marketplace a la Silk Road, <a href="http://www.coindesk.com/openbazaar-bitcoin-build-decentralised-ebay/">CoinDesk</a> reported.</p>
@@ -18,7 +16,6 @@ Posted by: DeepDotWeb
 <p><strong>Policy news</strong></p>
 <p>In a u-turn from last week where Swiss finance regulators had decided to suspend the launch of Bitcoin Suisse AG’s bitcoin ATMs in Zurich, the regulator has now decided to give permission for ATM operator SBEX to launch a network of machines in the country. SBEX, which currently operators just one machine in Geneva, can now deploy more machines throughout the country. Bitcoin Association <a href="http://www.reddit.com/r/Bitcoin/comments/279w1d/switzerland_finma_swiss_financial_market/chytwqs">Switzerland</a> President <a href="http://bitcoinassociation.ch/board.html">Luzius Meisser</a> said after clarification of the rules, SBEX had likely fulfilled regulatory requirements prior to Bitcoin Suisse, hence receiving approval first. The ATMs had originally been suspended until “legal questions can be clarified”.</p>
 <p>Japan has said it won’t <a href="http://www.reuters.com/article/2014/06/19/uk-japan-bitcoin-idUSKBN0EU0JA20140619?feedType=RSS&amp;feedName=technologyNews">regulate</a> bitcoin – for now. The country’s leading Liberal Democratic Party said that it had decided against regulating the currency for the moment, after the collapse of Mt. Gox caused them to consider more thorough scrutiny of the currency. &#8220;Basically, we concluded that we will, for now, avoid a move towards legal regulation,&#8221; said Takuya Hirai, an LDP lawmaker who leads the party&#8217;s internet media division, according to Reuters. The mood in Japan reflects what much of the rest of the world is seeing with regards bitcoin – uncertainty as to whether or not to lay down heavy handed regulation before fully understanding how the currency is likely to grow and change organically.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/21062014/" rel="tag">21062014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2014-06-22
     

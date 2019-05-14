@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin Update – 1.7.14---
+title: "Weekly Bitcoin Update – 1.7.14"
+---
 
-6300 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1778 tag-bitcoin tag-june tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>July 1, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/01/weekly-bitcoin-update-1-7-14/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p><strong>Industry News</strong></p>
 <p>The U.S. government held a bitcoin auction on Friday, June 27<sup>th</sup>. <a href="http://blogs.marketwatch.com/thetell/2014/06/30/the-u-s-bitcoin-auction-likely-saw-high-demand/">According to MarketWatch</a>, the government&#8217;s supply of digital currency was in high demand, with 63 total registered bids. Individuals interested in the auction include SecondMarket&#8217;s Barry Silbert, Coinbase&#8217;s Fred Ehrsam, Pantera Capital, and Circle. <a href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=newssearch&amp;cd=54&amp;cad=rja&amp;uact=8&amp;ved=0CGYQqQIoADAXOB4&amp;url=http://www.bloomberg.com/video/u-s-to-auction-17-4m-worth-of-seized-bitcoin-5ib0r6DrRNGXRQ4RCsty0A.html&amp;ei=3P2xU7fjFsWFqgavg4DQDA&amp;usg=AFQjCNHKE6lkl7mBb1gQ4cRnxBs3WOzRGg&amp;sig2=6zJPzdsCnq4QZo6VhhPEWQ">According to Bloomberg</a>, the total worth of the bitcoin auctioned off was $17.4M.</p>
@@ -20,7 +18,6 @@ Posted by: DeepDotWeb
 <p>A new California law has removed a ban on currencies other than the US dollar, freeing Bitcoin and other non-traditional currencies for usage in the state, <a href="http://www.pcworld.com/article/2449020/california-law-removes-ban-on-alternative-currencies.html"><em>PCWorld</em> reports.</a> The new bill shall repeal Section 107, which previously prohibited “a corporation, flexible purpose corporation, association, or individual form issuing or putting in circulation, as money, anything but the lawful money of the United States” (<a href="http://leginfo.ca.gov/pub/13-14/bill/asm/ab_0101-0150/ab_129_bill_20140624_enrolled.htm">CA.gov</a>).</p>
 <p>The Internal Revenue Service stated on June 30<sup>th</sup> that they would not be “requiring that digital (or virtual) currency accounts be reported on an FBAR at this time,” <a href="http://www.forbes.com/sites/kellyphillipserb/2014/06/30/irs-says-bitcoin-not-reportable-on-fbar-for-now/">Forbes.com reports.</a> Currently, the FBAR, or Report of Foreign Bank and Financial Accounts, considers financial accounts to include various types of bank accounts, insurance policies, securities, and mutual funds. However, despite there being such a larger number of different bank and financial accounts that require reporting, the IRS does not require that Bitcoin be filed at this time. That being said, the organization did state that it “may consider requiring such accounts to be reported in the future.”</p>
 <p><a href="http://www.abc.net.au/news/2014-06-30/tax-office-delays-ruling-on-bitcoin/5559816">ABC Australia News reports</a> that the Australian Tax Office will not rule on the status of bitcoin for the time being. Currently, bitcoin is considered neither currency nor property. As a result, Australian businesses must move forward without knowing what taxes they may face later on. Knowing the importance such a decision could mean for future Australian regulations, ABC Australia finds the ATO is currently balancing the technicalities of the ruling along with the suspicion that individuals may be using bitcoin to avoid paying taxes.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/june/" rel="tag">june</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-07-01
     

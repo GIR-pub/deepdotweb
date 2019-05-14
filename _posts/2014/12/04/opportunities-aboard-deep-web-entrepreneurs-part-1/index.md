@@ -1,12 +1,11 @@
 ---
-title: "Opportunities Abroad For Deep Web Entrepreneurs Part 1---
+title: "Opportunities Abroad For Deep Web Entrepreneurs Part 1"
+---
 
-7058 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aboard tag-deep tag-entrepreneurs tag-opportunities tag-web
+
 Posted by: DeepDotWeb
 <span>December 4, 2014</span>
-    
-<a href="/2014/12/04/opportunities-aboard-deep-web-entrepreneurs-part-1/#comments">3 Comments</a></span>
-</p>
+
 <p>The majority of the users are from and live in the west. For business and cultural reasons this makes a lot of sense. Living in the west allows you to ship to people in your particular western country, which is important as it is mostly people from the west that can afford the higher price charged for drugs on the deep web. Shipping from a foreign country will the require the drugs through second screening process, customs which is not ideal. People in the west also, tend be more familiar with and have more access to technology.</p>
 <p>The west is also one of the most hostile places to be for someone who is part of the deep web. The west is where the War On Drugs in its modern form can be tracked back to and though, they have been making aggressive moves to make this “war” global, it is still by far, the most enforced back home. The War On Drugs is why the USA and many European countries have turned into police states. Outside of the west lays a vast number of possibilities to live a freer life.</p>
 <p>Vendors are a different case, but marketplace owners, developers, and other people who can do their work regardless of their location moving is abroad is a great choice. A choice that could save you from becoming a victim of the war on drugs. For vendors, there are disadvantages, there are also many advantages to moving Abroad. Getting closer to the source and getting the product cheaper, and high quality can help put you above your competition and deliver a better product to your costumers.</p>
@@ -24,7 +23,6 @@ Posted by: DeepDotWeb
 <p>There are two main ways to sell it. Sell it directly to consumers on the deep web and ship directly. Mailing will be more difficult for each order, as the distance will more than likely be farther and shipping will be expensive. Though, demanding on how cheap you can get it, it still might have some fat margins. Besides that, the buyer needs to make sure that the package won&#8217;t be flagged as suspicious. Packages from other countries tend to acquire more for suspicion.</p>
 <p>The other option is wholesaling to other deep web vendors. Making a smaller margin but selling more. This makes the process easier in some ways but harder in other ways. Instead shipping numerous smaller packages, you could package bigger shipment but getting bigger shipments through customs is much harder. It simply comes to a question of personal preference.</p>
 <p><a href="/2014/12/04/opportunities-aboard-deep-web-entrepreneurs-part-2/"><em>Take a look at part 2 where we examined possible countries to move to.</em></a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/aboard/" rel="tag">aboard</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/entrepreneurs/" rel="tag">entrepreneurs</a> <a href="https://www.deepdotweb.com/tag/opportunities/" rel="tag">opportunities</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
+
 Updated: 2014-12-04
     

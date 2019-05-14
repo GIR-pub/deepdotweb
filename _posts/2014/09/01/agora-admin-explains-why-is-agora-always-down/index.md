@@ -2,12 +2,10 @@
 title: "Agora Admin Explains: Why is Agora Always down?"
 ---
 
-6925 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-agora tag-explains
 Posted by: DeepDotWeb
 <span>September 1, 2014</span>
     
-<a href="/2014/09/01/agora-admin-explains-why-is-agora-always-down/#comments">35 Comments</a></span>
-</p>
+
 <p>For the first time, <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora market</a> (the most successful market at this time) admins offered a complete explanation about &#8220;why the market is down all the time?&#8221; &#8211; an important read for those who are asking this question every time that the market is down.</p>
 <p>Original post on Agora forums can be found here: http://lacbzxobeprssrfx.onion/index.php/topic,33275.0.html</p>
 <p><strong>Here is the full quote:</strong></p>
@@ -35,7 +33,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/09/agora-Downtimes.png"><img class="aligncenter  wp-image-6926" src="/imgs/2014/09/agora-Downtimes.png" alt="agora-Downtimes1" width="749" height="536" srcset="/imgs/2014/09/agora-Downtimes.png 1152w, /imgs/2014/09/agora-Downtimes-300x215.png 300w, /imgs/2014/09/agora-Downtimes-1024x733.png 1024w" sizes="(max-width: 749px) 100vw, 749px" /></a></p>
 <p><a href="/imgs/2014/09/agora-Downtimes2.png"><img class="aligncenter  wp-image-6927" src="/imgs/2014/09/agora-Downtimes2.png" alt="agora-Downtimes2" width="702" height="409" srcset="/imgs/2014/09/agora-Downtimes2.png 1148w, /imgs/2014/09/agora-Downtimes2-300x175.png 300w, /imgs/2014/09/agora-Downtimes2-1024x597.png 1024w" sizes="(max-width: 702px) 100vw, 702px" /></a></p>
 <p>From now on we will provide this post as an explanation every time that some one will mail us asking about the market being down.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/explains/" rel="tag">explains</a></span> 
+
 Updated: 2014-09-01
     

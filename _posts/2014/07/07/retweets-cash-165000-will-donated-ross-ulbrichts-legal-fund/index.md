@@ -2,12 +2,9 @@
 title: "Retweets For Cash: ~165,000$ Will Be Donated To Ross Ulbricht&#8217;s Legal Fund"
 ---
 
-6366 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1804 tag-cash tag-donated tag-fund tag-legal tag-retweets  tag-ulbrichts
 Posted by: DeepDotWeb
 <span>July 7, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/07/retweets-cash-165000-will-donated-ross-ulbrichts-legal-fund/#respond">Leave a comment</a></span>
-</p>
+
 <p>A few days ago Roger Ver – Bitcoin Angel Investor &amp; Bitcoin Evangelist started a twitter campaign by publishing a tweet that supported Ross Ulbricht, the accused Dread Pirate Roberts and the administrator of the now seized, Silk Road marketplace (the original version) Ver offered to donate 10$ for every retweet that he got.</p>
 <p>Following Ross&#8217;s arrest, the Ulbricht family started a campaign at this site: <a href="http://freeross.org/" target="_blank">FreeRoss.org</a> in order to raise funds for his legal defense. The original goal was to raise $100,000 in order to help him get the best legal defense possible and (hopefully) a fair trial. Now it seems that after this recent twitter campaign by Roger Ver, the goal has not only been reached, but was also passed by a considerable amount of money and was successful in raising further awareness along the way.</p>
 <blockquote class="twitter-tweet" width="550">
@@ -33,7 +30,6 @@ Posted by: DeepDotWeb
 <p>And you can donate directly at this address:</p>
 <p style="text-align: center;"> <a href="/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png"><img class="aligncenter  wp-image-6369" src="/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png" alt="Screen-Shot-2014-06-26-at-17.01.32-300x300[1]" width="232" height="232" srcset="/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png 300w, /imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001-150x150.png 150w, /imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001-55x55.png 55w, /imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001-50x50.png 50w" sizes="(max-width: 232px) 100vw, 232px" /></a></p>
 <p style="text-align: center;"><strong>1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/165000/" rel="tag">165000</a> <a href="https://www.deepdotweb.com/tag/cash/" rel="tag">cash</a> <a href="https://www.deepdotweb.com/tag/donated/" rel="tag">donated</a> <a href="https://www.deepdotweb.com/tag/fund/" rel="tag">fund</a> <a href="https://www.deepdotweb.com/tag/legal/" rel="tag">legal</a> <a href="https://www.deepdotweb.com/tag/retweets/" rel="tag">retweets</a> <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/ulbrichts/" rel="tag">ulbrichts</a></span> 
+
 Updated: 2014-07-07
     

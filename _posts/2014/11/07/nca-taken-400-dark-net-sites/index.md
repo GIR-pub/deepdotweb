@@ -2,7 +2,7 @@
 title: "NCA: &#8220;We have Taken down 400 Dark Net Sites&#8221;"
 ---
 
-8045 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2368 tag-dark tag-nca tag-net tag-operation-onymous 2bust tag-sites
+
 Posted by: DeepDotWeb
 <span>November 7, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
@@ -81,7 +81,6 @@ Posted by: DeepDotWeb
 <p>We Will keep following and updating as more info becomes available</p>
 <p><strong>Keep checking the other posts in this chain of event at: <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 Bust Tag<br/>
 </a>The story is ongoing and the posts are being updated as we learn more details</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/400/" rel="tag">400</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/nca/" rel="tag">nca</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a></span> 
+
 Updated: 2014-11-07
     

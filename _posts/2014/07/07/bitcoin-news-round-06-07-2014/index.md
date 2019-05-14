@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin news round-up 07.07.2014---
+title: "Bitcoin news round-up 07.07.2014"
+---
 
-6359 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1800 tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>July 7, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/07/bitcoin-news-round-06-07-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p>Bitcoin continued on its upward trajectory over the past week, rising to $631.48 at the time of writing, up from $598.97 at the start of the week, June 30. Having recovered from some dropback the week prior, the coin is once again comfortably above the $600 threshold; values of which it hasn’t seen since the start of June. Price rises were spurred by positive industry news as well as the successful US federal auction of coins seized from the illicit Silk Road marketplace.</p>
 <p><strong>Policy news</strong></p>
 <p>All eyes were on the US federal bitcoin auction this week, as the government sold off 30,000 of the bitcoins it had seized from the Silk Road black market. All coins went to a single bidder, revealed as venture capitalist Tim Draper. Draper outbid 10 other parties for the <a href="http://www.coindesk.com/us-marshals-one-auction-bidder-claimed-all-30000-silk-road-bitcoins/">coins</a> . Details of pricing were not announced, though at the time of the sale the chunk of coins were worth $18 million. Draper said he will use the bitcoins to provide liquidity in <a href="http://www.coindesk.com/tim-draper-revealed-silk-road-bitcoin-auction-winner/">emerging markets</a>. In addition, a leak of the potential bidders came by email from the US Marshalls Service, revealing potential bidders. Ironically, Draper was not on that list.</p>
@@ -17,7 +15,6 @@ Posted by: DeepDotWeb
 <p>Washington-based travel website Expedia, after opening up to bitcoin in June, has said bookings made via the currency have already exceeded its expectations and hailed the move a success. Although the company declined to release information on sales made using the coins, Vice President Michael Gulmann stated the company is serious about integrating use of the currency.</p>
 <p>A new <a href="http://www.coindesk.com/new-hong-kong-bitcoin-exchange-offers-customers-extreme-transparency-measures/">Hong Kong-based</a> bitcoin exchange has opened, promising to offer unprecedented transparency mechanisms such as proof-of-reserve tests as a way of giving customers greater trust in their exchanges and preventing another Mt. Gox incident . The exchange, Coinport, already received seed funding from IDG Capital Partners in December last year.</p>
 <p>Litecoin, the apparent silver to bitcoin’s gold, has begun “decoupling” from the currency and moving away from following the same peaks and troughs in pricing. After hitting $40 around the time bitcoin rose to $1,000 last year, some from the industry are now speculating that money is being taken out of litecoin and <a href="http://www.coindesk.com/litecoin-price-decouples-bitcoin-slump-continues/">pumped</a> into bitcoin – which will further strengthen bitcoin’s place in the market. Although bitcoin began recovering from its price slump in April, litecoin has continued to suffer and is still trading around the $10 mark. Dogecoin has yet to follow the pricing trends of either currency, and is still worth less than $0.01.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/06072014/" rel="tag">06072014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2014-07-07
     

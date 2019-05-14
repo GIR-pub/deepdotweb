@@ -2,7 +2,6 @@
 title: "Old Cannbis road Seized, FBI raided a home in West Haven"
 ---
 
-8039 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust
 Posted by: DeepDotWeb
 <span>November 7, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
@@ -17,7 +16,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/11/old-cannabisroad.png"><img class="aligncenter  wp-image-8040" src="/imgs/2014/11/old-cannabisroad.png" alt="old-cannabisroad" width="778" height="535" srcset="/imgs/2014/11/old-cannabisroad.png 1195w, /imgs/2014/11/old-cannabisroad-300x206.png 300w, /imgs/2014/11/old-cannabisroad-1024x704.png 1024w" sizes="(max-width: 778px) 100vw, 778px" /></a></p>
 <p><strong>Keep checking the other posts in this chain of event at: <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 Bust Tag<br />
 </a>The story is ongoing and the posts are being updated as we learn more details</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a></span> 
+
 Updated: 2014-11-07
     

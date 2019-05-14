@@ -2,12 +2,9 @@
 title: "The current state of coin-mixing services"
 ---
 
-5704 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coinmixing tag-current tag-services tag-state
 Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
 <span>May 25, 2014</span>
-    
-<a href="/2014/05/25/current-state-coin-mixing-services/#comments">24 Comments</a></span>
-</p>
+
 <p>As we wait for emerging cryptocurrencies such as Darkcoin and the standardisation of Dark Wallet the current task of coin-mixing remains an immediate issue. As it stands Bitcoin Fog remains the gold standard of coin-mixing. However, it is important that people be made away that this is a slow process. Bitcoin Fog insist on six confirmations for deposits and will set a minimum delay of six hours for withdrawals to occur to held randomise/anonymise the process. This is a sound process for those approaching their transactions in a structured and planned manner. It is not ideal for anyone trying to get money quickly from one account to another.</p>
 <p>On this basis we can say Bitcoin Fog remains the gold standard in long-term scheduled coin-mixing. Presumably this appeals most to vendors who are washing large amounts of Bitcoins (numbers most of us will likely never see!). It might also appeal to those content to sacrifice speed for privacy as a rule. Fees remain at 1%-3% in random order and this could be a hefty cut the larger the transaction. Nonetheless the service remains broadly unchallenged in terms of obfuscation. Bitcoin Fog is, further, only accessible through Tor though a clearnet gateway is sometimes running (<a href="https://gate.bitcoinfog.com/" target="_blank">https://gate.bitcoinfog.com/</a>)</p>
 <p>The second service to be analysed is the ‘Shared Coin’ feature of Blockchain.info. A descendent of their original ‘Shared Send’ feature (currently discontinued) this method suits those undertaking transactions with an eye toward the medium-term. In the old ‘Send’ service one essentially had a mirror of Bitcoin Fog’s process of absolute disconnection between transactions. Coins sent from one wallet to another had no connection except perhaps to the most determined of analyst.</p>
@@ -17,7 +14,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher <
 <p>When this occurs one is provided with a new address with no real sense of whether this process has worked until the coins arrived at the desired destination. This is not a major flaw, but simply one that can be surely seen as a possible bug to be ironed out. That being said in terms of speed <a href="http://bitmixer.io" target="_blank">bitmixer.io</a> offers the best short-term solution to disconnecting wallets albeit by placing their trust in a centralised system built on a reserve of coins. Neatly a letter of Letter of Guarantee is provided for those wishing to contact support and<br />
     a brief generic test revealed support to be prompt in responding to inquiries. Their reserve wallet currently holds 1632.32 BTC which should keep them in shape for a while to come.</p>
 <p>It is important to keep in mind that anonymity in using any such service depends on constant self-vigilance. Accessing the latter two should be, at a minimum, through a VPN and make sure to cycle your IP address as much as possible. Furthermore, it is wise to sign up with a throw away address and for Shared Coin and undertaking each process with a new wallet. Any contact with a centralised service, such as Bitmixer, should be taken from a dummy account too. This is best for both parties though the simple act of the deposit ties you to at least one particular action. It is our opinion that the sensible user of any dark net marketplace ought to plan their transactions in advance by mixing their coins through Bitcoin Fog over Tor after deciding on their purchase. Once this process has occurred they will be operating at, at least, a decent level of privacy. Coupled with astute use of PGP encryption oneis, then, only left at the mercy of customs.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/coinmixing/" rel="tag">coinmixing</a> <a href="https://www.deepdotweb.com/tag/current/" rel="tag">current</a> <a href="https://www.deepdotweb.com/tag/services/" rel="tag">services</a> <a href="https://www.deepdotweb.com/tag/state/" rel="tag">state</a></span> 
-Updated: 2014-05-25<a href="https://www.deepdotweb.com/author/cipher/" title="Posts by Cipher" rel="author">Cipher</a></strong></div>
+
+Updated: 2014-05-25
     

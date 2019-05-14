@@ -1,12 +1,11 @@
 ---
-title: "Neutrino Wants To Be The SSL Of Crypto-Currency---
+title: "Neutrino Wants To Be The SSL Of Crypto-Currency"
+---
 
-6782 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cryptocurrency tag-neutrino tag-ssl
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller 
 <span>August 28, 2014</span>
     
-<a href="/2014/08/28/neutrino-wants-ssl-crypto-currency/#comments">1 Comment</a></span>
-</p>
+
 <p>The privacy of crypto-currencies has been a hot issue for the budding industry. It isn&#8217;t just libertarians and deep web dealers that are worried about crypto-currency. Crypto-currency, such as Bitcoin, provides much less anonymity than even your bank account, because of the publicly visible blockchain. While, many have been trying to solve this problem (<a href="http://www.coindesk.com/blockchains-sharedcoin-users-can-identified-says-security-expert/">and failing</a>), people have overlooked a simple and well tested method for greater anonymity, Tor!</p>
 <p><a href="http://www.neutrinocoin.org/">Neutrino</a> runs solely through Tor, by default. While discussions about implementing Tor have been happening in Bitcoin and Darkcoin circles we have not seen anything manifest yet. The main focus when it comes to crypto-currency anonymity has been on transactions. While transactions can give a lot info about users, the technology for transaction isolation or mixing is new and has not been tested throughly. Having a IP tied to a transaction can be very revealing about who that person is. Without a IP, knowing the transactions becomes much less valuable and they already have a tried and tested solution, Tor. Running Neutrino&#8217;s network through a hidden service will greatly improve the anonymity.</p>
 <p>Neutrino is ran through Tor by default, which means it is in the background and the user doesn&#8217;t have to think about it at all. This allows more users who are worried about their privacy but may not have the skills to run Bitcoin through Tor independently, to use the currency without worry. This also, gives greater confidence throughout the whole network.</p>
@@ -38,7 +37,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <li>White Paper &#8211; <a href="http://www.neutrinocoin.org/neutrino-white-paper">http://www.neutrinocoin.org/neutrino-white-paper</a></li>
 <li>Wallet &#8211; <a href="http://www.neutrinocoin.org/download-neutrino-wallet">http://www.neutrinocoin.org/download-neutrino-wallet</a></li>
 </ul>
-</div>
-<a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/neutrino/" rel="tag">neutrino</a> <a href="https://www.deepdotweb.com/tag/ssl/" rel="tag">ssl</a></span> 
-Updated: 2014-08-28<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
-    
+
+Updated: 2014-08-28

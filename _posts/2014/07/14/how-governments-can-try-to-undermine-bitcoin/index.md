@@ -2,13 +2,11 @@
 title: "How Governments Can Try To Undermine Bitcoin?"
 ---
 
-6448 post type-post status-publish format-standard has-post-thumbnail hentry  tag-undermining
-Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
+
+Posted by: Doug Roberts
 <span>July 14, 2014</span>
     
-<a href="/2014/07/14/how-governments-can-try-to-undermine-bitcoin/#comments">2 Comments</a></span>
-</p>
-<div class="im">
+
 <p style="margin-bottom: 0in;">It could be argued that the government&#8217;s ability to issue, control and tax a nation&#8217;s currency is necessary in order to maintain control and power over that nation. Bitcoin&#8217;s decentralized nature effectively dismantles that power and control structure. If Bitcoin were to become, for example, the default internet currency, it could – from a governmental point of view – be seen as a direct threat to their power and control structure, along with the economic security of the U.S.</p>
 <p style="margin-bottom: 0in;">History shows us that if a government feels threatened by something – particularly the U.S. government – a number of tactics can be used to undermine that perceived threat. In the past, these tactics have included waging preemptive war under false pretenses, intentionally destroying reputations using covert tactics, and launching all out cyber attacks against the threat.</p>
 <p style="margin-bottom: 0in;">The point is, being the most powerful nation in the world, if the U.S. government is worried that Bitcoin is a threat to its power and control structure, or worried that Bitcoin could destroy the U.S. economy, a number of tactics could be implemented to undermine the cryptocurrency.</p>
@@ -38,8 +36,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Dou
 <p style="margin-bottom: 0in;">The U.S. government could conceivably covertly highjack, or hack into, a large Bitcoin mining pool and use their super computing power to conduct 51 percent attacks against the network. Large scale DdoS attacks could also be conducted against mining pools with the intentions of taking them offline indefinitely.</p>
 <p style="margin-bottom: 0in;">Another potentially useful tactic to kill Bitcoin would be to spend time mining and acquiring large amounts of bitcoins, which could then be used to manipulate the market into oblivion. Or the government could acquire a large amount of bitcoins and hold on to them indefinitely, which, if they decide to work with the Bitcoin technology instead of against it, could place them among the most influential and powerful bitcoiners.</p>
 <p style="margin-bottom: 0in;">Considering the technological breakthrough that is Bitcoin and the block chain, I personally believe that the U.S. government will attempt to incorporate Bitcoin and its technology into their existing system. It seems that they have more to gain from figuring out a way to use this innovation to their benefit, rather than wage a war against it. However, the above scenarios are absolutely within the realms of possibility.</p>
-</div>
-</div>
-<a href="https://www.deepdotweb.com/tag/undermining/" rel="tag">undermining</a></span> 
-Updated: 2014-07-14<a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
-    
+
+Updated: 2014-07-14

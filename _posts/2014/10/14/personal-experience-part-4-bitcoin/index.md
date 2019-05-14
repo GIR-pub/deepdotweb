@@ -2,12 +2,11 @@
 title: "Personal Experience: Part 4 – Bitcoin"
 ---
 
-6835 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-personal tag-pgp
-Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+
+Posted by: Joseph Meehan
 <span>October 14, 2014</span>
     
-<a href="/2014/10/14/personal-experience-part-4-bitcoin/#comments">1 Comment</a></span>
-</p>
+
 <p><em>This a post in series of posts describing a personal experience from learning about the DNM’s to becoming a vendor – all the parts of this series will be available to here: <a href="http://www.deepdotweb.com/tag/ExperienceTag/">ExperienceTag</a></em></p>
 <p><a href="http://www.deepdotweb.com/tag/bitcoin/">Bitcoin</a> (BTC) is a decentralized digital currency used to make digital and physical purchases. There are a wide variety of goods and services offered in exchange for Bitcoin. More and more vendors have begun to accept Bitcoin as payment. ATMs where BTC can be purchased and sold have cropped up in major cities around the world. There are a few major advantages Bitcoin has over traditional currencies:</p>
 <ul>
@@ -21,7 +20,8 @@ Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Jo
 <p>I met up with my friend Grandi on a Saturday morning to exchange some USD for BTC. When I asked he said this was the most common way he does BTC transactions, in person, face-to-face. We made the transaction and it was really easy. No problems and the process was easy to understand when I was actually doing it. Having a friend I trusted was a huge help, and he guided me through choosing a wallet and purchasing my first BTC. I&#8217;m now the proud owner of a small amount of BTC, the bulk of which I managed to transfer to my cold storage without any problems.</p>
 <p>With some minimal research it was easy for me to get started with bitcoin. Next I&#8217;ll be diving into the Darknet Marketplaces and giving some thought to how to represent my freelance writing on the Darknet. I&#8217;ll also be exploring some of the marketplaces where you can advertise services for which you&#8217;ll take bitcoin as payment on the Internet.</p>
 <p>Over at Reddit they have an active community that revolves around discussion of Bitcoin. Make sure to check it out, as it&#8217;s an amazing resource for people new to cryptocurrencies like Bitcoin.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/experience/" rel="tag">experience</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a></span> 
-Updated: 2014-10-14<a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
+
+
+Updated: 2014-10-14
+
     

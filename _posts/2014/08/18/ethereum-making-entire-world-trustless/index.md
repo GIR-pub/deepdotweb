@@ -1,12 +1,11 @@
 ---
-title: "Ethereum: Making the Entire World Trustless (Part 1 &#8211; Introduction)---
+title: "Ethereum: Making the Entire World Trustless (Part 1 &#8211; Introduction)"
+---
 
-6521 post type-post status-publish format-standard has-post-thumbnail hentry  tag-entire tag-ethereum tag-making tag-trustless 
-Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+Posted by: Evan Faggart
 <span>August 18, 2014</span>
     
-<a href="/2014/08/18/ethereum-making-entire-world-trustless/#comments">4 Comments</a></span>
-</p>
+
 <p>We all know about the radical potential that Bitcoin has to make the world&#8217;s monetary system trustless. Bitcoin is already, in itself, completely trustless. There is no central authority that governs over the issuance of Bitcoin or the regulation of its supply. It is scarce; bitcoins cannot be created out of thin air, unlike the fiat currencies we are currently forced by law to use. Even transactions with Bitcoin are trustless. Once a payment is sent, it cannot be retrieved in any way. Therefore, it cannot be double spent. The transaction is confirmed by randomly chosen miners in a matter of minutes. There is no middle man, no bank or credit card company, that you have to put your faith in.</p>
 <p>The topic of Bitcoin&#8217;s impact on the structure and operation of government has been widely discussed in the Bitcoin community. The main source of government power is its monopoly on money. With the sole authority to issue money create arbitrarily and infinitely, governments can pay for anything they want. They can wage endless wars over politics and natural resources, or they can fund massive welfare states to keep the citizens complacent and subservient. Bitcoin can change all that. By decentralizing the money supply, governments lose their monopoly control over it. Furthermore, the pseudonymous nature of Bitcoin makes it difficult to track, essentially rendering the government&#8217;s power of compulsory taxation moot. Consequently, governments would rely on voluntary donations to continue operations, meaning that they actually have to provide value to society. This change in the operation of governments would make them completely voluntary, which many argue would make them completely obsolete.</p>
 <p>But Bitcoin cannot fully decentralize all aspects of society, however. Even if it can render violent governments impotent, Bitcoin does not do very much in terms of creating decentralized social structures outside of the realm of money. Here is where Ethereum will fill the gap.</p>
@@ -26,7 +25,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Eva
 <p>Once the utility has been turned on, the person confirms the transaction by approving the release of his funds from the escrow account. The process repeats in the next payment cycle. If the utility company turns on the power but the resident does not release the money from escrow, the company simply turns the power off. There is no force involved, everyone is responsible for their actions. Failure to comply with the explicitly agreed upon contract results in a revocation of the services provided under the contract. This scenario seems like a much more peaceful method of conducting society indeed!</p>
 <p>Ethereum is still in the development stages at this point, so there are no empirical facts currently available about the efficacy of this system. So all we can do is speculate and theorize, which is what we have been doing above. However, if Ethereum is successfully implemented, the situation described in the previous paragraph could indeed become a reality, along with an infinite set of other social and economic organizations. If it can be imagined, and built based on a system of decentralized contracts—which everything can be, theoretically—then it can be done on Ethereum.</p>
 <p>The second part will discuss in potentials, Btc-Etherum and implementations, You can read the second part <a href="/2014/08/19/bitcoin-ethereum/">HERE</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/entire/" rel="tag">entire</a> <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a> <a href="https://www.deepdotweb.com/tag/making/" rel="tag">making</a> <a href="https://www.deepdotweb.com/tag/trustless/" rel="tag">trustless</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> 
-Updated: 2014-08-18<a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    
+
+Updated: 2014-08-18    

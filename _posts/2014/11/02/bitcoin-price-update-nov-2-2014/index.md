@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin Price Update Nov-2, 2014---
+title: "Bitcoin Price Update Nov-2, 2014"
+---
 
-7932 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-nov2 tag-price tag-update
-Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+Posted by: Evan Faggart
 <span>November 2, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/02/bitcoin-price-update-nov-2-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p>This last week was a decidedly bearish one on the Bitcoin markets. The Bitcoin price bump that came as a result of excitement over the BearWhale has completely exited the market, and the downtrend has been firmly reestablished. The price fell from $347 at the beginning of the week to $326 and the end of the week—making for an overall decline of 6.05% Let us take a slightly more detailed look into the price activity that went on throughout the week. Please note that the prices on the list below are the daily opening prices on the Bitstamp Bitcoin exchange. These prices have been rounded to the nearest dollar amount; therefore, the descriptions of price activity in this report will not be 100% accurate. Additionally, please not that the price shown for November 1 is the closing price, rather than the opening price.</p>
 <p>Oct 26: $347</p>
 <p>Oct 27: $354 (+2.02%)</p>
@@ -22,7 +20,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Eva
 <p>Thursday, the 30<sup>th</sup> of October, opened at $336—a considerable 4.82% decline from the start of the previous day. On this day, the market attempted to recover slightly from the losses incurred on the 29<sup>th</sup>. The Bitcoin price remained level throughout the first half of the day, hovering $340 and the mid $330s. That sideways action ended in the early afternoon, though, and the price began moderately climbing. At 2 PM, the price rose from $336 at the top of the hour to $344 by the close. The price continued climbing for a few more hours, and eventually stalled out at 5 PM, with the hourly closing price at $349. After that attempted rebound, the price embarked on a gradual, yet definite, decline that would characterize the following day. October 30 closed at $344.</p>
 <p>October 31, Halloween, began with the Bitcoin price at $344. The day started out with a continuation of the gradual decline that was established the previous night, which would persist throughout the duration of the 31<sup>st</sup>. At 6 AM, the Bitcoin price fell from $345 at the top of the hour to $339 at the close. The price fell again at midday, after a brief period of insignificant gains, from $342 to $339. After another brief period of small gains, the price fell again in the afternoon and leveled out at $338; the Bitcoin price hovered between $338 and $339 for the remainder of the day. Halloween ended with the price at $339.</p>
 <p>The first day of November began with the Bitcoin price at $339, a 1.45% decrease from the opening price of October 31. The gradual decline that persisted throughout the 31<sup>st</sup> accelerated to a relatively significant, downward trajectory. By the bottom of the 9 AM hour, the price had fallen to $325, with an hourly low of approximately $320. The price continued falling, and hit $320 by the close of the 4 PM hour, with an hourly low of $316.61. This steep decline came to a halt at the close of 4 PM though, and a minor price climb began at 5 PM. November 1 closed at $326, down 3.83% from the start of the day.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/nov2/" rel="tag">nov2</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> 
-Updated: 2014-11-02<a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    
+
+Updated: 2014-11-02    

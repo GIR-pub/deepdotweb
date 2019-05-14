@@ -2,8 +2,8 @@
 title: "Personal Experience: Part 7 – Persistent Volumes"
 ---
 
-8087 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-experiencetag tag-persistent tag-personal tag-volumes
-Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+8087  tag-experience tag-experiencetag tag-persistent tag-personal tag-volumes
+Posted by: Joseph Meehan
 <span>December 31, 2014</span>
     
 <a href="/2014/12/31/personal-experience-part-7-persistent-volumes/#comments">1 Comment</a></span>
@@ -17,6 +17,10 @@ Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Jo
 <p>Once it was done I was presented with a menu of options for what I will use the persistent volume for. There were a number of options to choose from, but I was interested in only a couple for now. I wanted to be able to save my PGP keys, some personal documents, and my email credentials for Claws. Once I made my selections it was as simple as that. I created some PGP keys. I entered my email account information into Claws. I made a couple of documents and saved them to my personal folder. I restarted my machine and in the TAILS Greeter I chose to enable the persistent volume for this session. TAILS kept my PGP keys were ready to go and Claws automatically loaded my email. My documents were right where I had left them. It is not necessary to enable the persistent volume every time you start TAILS. If your tasks in TAILS don&#8217;t include anything you need your persistent volume for you can leave it unactivated. In fact, the documentation recommends using the persistent volume as little as possible to minimize security threats.</p>
 <p>The persistent volume option that TAILS offers is not necessary but it can be a very convenient tool. Configuring it properly to meet your needs can make using TAILS a more efficient and customized experience.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/experience/" rel="tag">experience</a> <a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/persistent/" rel="tag">persistent</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/volumes/" rel="tag">volumes</a></span> 
-Updated: 2014-12-31<a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
+
+
+<a href="https://www.deepdotweb.com/tag/persistent/" rel="tag">persistent</a> 
+<a href="https://www.deepdotweb.com/tag/volumes/" rel="tag">volumes</a></span> 
+Updated: 2014-12-31
+
     

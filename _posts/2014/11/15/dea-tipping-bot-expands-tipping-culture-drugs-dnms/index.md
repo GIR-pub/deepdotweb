@@ -2,12 +2,9 @@
 title: "“DEA” Tipping Bot Expands Tipping Culture To Drugs &#038; DNM&#8217;s"
 ---
 
-8264 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bot tag-culture tag-dea tag-dnms tag-expands tag-tipping
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>November 15, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/15/dea-tipping-bot-expands-tipping-culture-drugs-dnms/#comments">1 Comment</a></span>
-</p>
+
 <p>Crypto-currency tipping has been a big use case. The Dogecoin community is built around the practice and it is impossible to not to get some Shibe love whenever visiting /r/Dogecoin. Reddcoin, another tipping crypto-currency, started out with the goal of being the leading tipping crypto-currency and focusing solely on the niche market. Changetip, a bitcoin tipping bot and company, has even gotten $750,000 in venture capital.</p>
 <p>Now the same light hearted community culture of crypto-currency tipping is coming to the darker side of the web. DEAlol <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2mapay/8bitacid_download_process_spread_revolt_revolt/?sort=new">announced</a> it is beta testing a crypto-currency tipping bot that is specially designed for requirements of the Drugs / Dark Net Markets scene  and promoting the growing subculture.</p>
 <blockquote><p>“&#8230;summon <a href="http://reddit.com/u/DEAlol">DEAlol</a> in order to help you <strong>gift your friends any substances (backed by bits)</strong>. It is meant to be a twisted <strong>game</strong>, as well as lazy <strong>activism.</strong>” &#8211; /u/DEAlol</p></blockquote>
@@ -20,7 +17,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>Information is valued commodity on the deep web / DNM&#8217;s. Many community members have shared the details of venders or brought law enforcements operations to the communities&#8217; attention, such as infamous <a title="ITOM Revealed: Europe’s Plan To Crack Down On The Online Drug Trade" href="http://www.deepdotweb.com/2014/09/28/itom-europes-plan-crack-online-drug-trade/">ITOM</a>. This could be a way a easy and social way to reimburse them and in turn, incentivize such posts. It could do the same for product and vendor reviews.</p>
 <p>Allowing people to make money off things they are already doing for free. And whenever there is money involved, that extra incentive tends to make people to take more time and effort in what they are doing. Resulting in more quality postings.</p>
 <p>To learn more about DEAlol or register, visit their subreddit <a href="http://www.reddit.com/r/DEAlol/wiki/index">here</a>.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bot/" rel="tag">bot</a> <a href="https://www.deepdotweb.com/tag/culture/" rel="tag">culture</a> <a href="https://www.deepdotweb.com/tag/dea/" rel="tag">dea</a> <a href="https://www.deepdotweb.com/tag/dnms/" rel="tag">dnms</a>  <a href="https://www.deepdotweb.com/tag/expands/" rel="tag">expands</a> <a href="https://www.deepdotweb.com/tag/tipping/" rel="tag">tipping</a></span> 
-Updated: 2014-11-15<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-11-15
     

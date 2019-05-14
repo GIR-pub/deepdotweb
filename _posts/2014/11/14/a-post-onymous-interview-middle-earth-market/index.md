@@ -1,12 +1,11 @@
 ---
-title: "Interview With Middle Earth Marketplace Admin (Post Onymous)---
+title: "Interview With Middle Earth Marketplace Admin (Post Onymous)"
+---
 
-8125 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-earth tag-interview tag-middle tag-onymous tag-post
+
 Posted by: DeepDotWeb
 <span>November 14, 2014</span>
-    
-<a href="/2014/11/14/a-post-onymous-interview-middle-earth-market/#comments">4 Comments</a></span>
-</p>
+
 <p>After the recent <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Operation Onymous</a> and the take down of many markets, we were wondering how the remaining markets are doing, and what are their plans for the future, luckily we had a chance to conduct an interview with the admin of one of the newer markets &#8211; Middle Earth marketplace and get some comments:</p>
 <p><strong>Market listing and url:  <a class="sabai-entity-type-content sabai-entity-bundle-name-directory-listing sabai-entity-bundle-type-directory-listing" title="Middle Earth Marketplace" href="http://www.deepdotweb.com/marketplace-directory/listing/middle-earth-marketplace">Middle Earth Marketplace</a></strong></p>
 <div id="attachment_8128" style="width: 1008px" class="wp-caption aligncenter"><a href="/imgs/2014/11/interview.png"><img class="wp-image-8128" src="/imgs/2014/11/interview.png" alt="Proof of ID middle earth market" width="998" height="354" srcset="/imgs/2014/11/interview.png 1283w, /imgs/2014/11/interview-300x106.png 300w, /imgs/2014/11/interview-1024x363.png 1024w" sizes="(max-width: 998px) 100vw, 998px"/></a><p class="wp-caption-text">Proof of Id of the market admin</p></div>
@@ -85,7 +84,7 @@ Posted by: DeepDotWeb
 <p>Sincerely,</p>
 <p>-TheHobbit.<br/>
     Owner of Middle Earth Marketplace.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/earth/" rel="tag">earth</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/middle/" rel="tag">middle</a> <a href="https://www.deepdotweb.com/tag/onymous/" rel="tag">onymous</a> <a href="https://www.deepdotweb.com/tag/post/" rel="tag">post</a></span> 
+
+
 Updated: 2014-11-14
     

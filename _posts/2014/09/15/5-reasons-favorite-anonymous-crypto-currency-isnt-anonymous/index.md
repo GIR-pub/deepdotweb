@@ -2,12 +2,11 @@
 title: "5 Reasons Your Favorite Anonymous Crypto Isn&#8217;t Anonymous"
 ---
 
-6820 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-crypto tag-currency tag-favorite tag-reasons">
+
     
-<    
     
         
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
     
     
 <span>September 15, 2014</span>
@@ -33,9 +32,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>Anyone who knows anything about cryptography, knows that if it isn&#8217;t open source it isn&#8217;t good crypto. Without transparency and being able to review the code, users can&#8217;t know if they are actually be protected or if their sensitive info is out in the opening. Closed source cryptography can be the best crypto in the world but without seeing the code that means nothing.</p>
 <p>Many crypto-currency devs know the public&#8217;s skepticism toward closed source software which leads them to create excuses for it being closed source. Many say they want to avoid clones or that it isn&#8217;t ready yet. Valid or not, in the world of security and anonymity, these excuses fall short. You aren&#8217;t using cryptography because you just feel like it, but rather to hide very private data and if you are read DeepDotWeb regularly you probably know by now that failing to protect this data might get you in jail.</p>
     
-    
-<a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/crypto/" rel="tag">crypto</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/favorite/" rel="tag">favorite</a> <a href="https://www.deepdotweb.com/tag/reasons/" rel="tag">reasons</a></span>				
-Updated: 2014-09-15<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
-    
-    
-
+    	
+Updated: 2014-09-15

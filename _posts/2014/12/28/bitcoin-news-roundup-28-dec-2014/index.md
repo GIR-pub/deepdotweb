@@ -1,7 +1,8 @@
 ---
-title: "Bitcoin News Roundup – 28 Dec. 2014---
+title: "Bitcoin News Roundup – 28 Dec. 2014"
+---
 
-8701 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-2518 tag-bitcoin tag-dec tag-news tag-roundup
+8701  tag-1779 tag-2518 tag-dec tag-roundup
 Posted by: DeepDotWeb
 <span>December 28, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
@@ -19,7 +20,6 @@ Posted by: DeepDotWeb
 <p>Following Microsoft, Dell, Overstock, Mozilla, Greenpeace and many other leading businesses around the globe, <a href="http://www.idiamonds.com/">iDIAMONDS</a>.com is now accepting bitcoin for carats, diamonds and diamond jewelry. According to <a href="http://www.prnewswire.com/news-releases/trade-bitcoin-for-carats-diamonds-and-diamond-jewelry-at-idiamonds-established-online-jewelry-ecommerce-outlet-300013282.html">PRNewswire</a>, theNew York City-basedjewelry e-commerce retailer, has partnered with BitPay to make it possible for its customers to exchange bitcoins for diamonds. The diamond industry has been resistant to employ new technology, so iDIAMONDS’s decision signals a new era of hedging against large positions in the cryptocurrency.</p>
 <p>BitGold, the Toronto-based financial services platform that offers free global payments with access to highly secured redeemable gold, raised $3.5 million for the pre-launch of its Q1-2015 platform. The company raised the funds through angel financing for the development and acquisition of key intellectual property and proof of concept and with the funding of leading financial professionals including Soros Brothers Investments and PowerOne Capital, <a href="http://www.businesswire.com/news/home/20141223005913/en/BitGold-Raises-3.5-Million-Advance-Early-2015#.VJ-YFsAA">Business Wire</a> reports.</p>
 <p>&nbsp;</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/28/" rel="tag">28</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+<a href="https://www.deepdotweb.com/tag/28/" rel="tag">28</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
 Updated: 2014-12-28
     

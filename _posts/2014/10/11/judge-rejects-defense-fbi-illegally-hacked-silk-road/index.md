@@ -2,12 +2,9 @@
 title: "Judge Rejects Defense That FBI Illegally Hacked Silk Road"
 ---
 
-7356 post type-post status-publish format-standard has-post-thumbnail hentry  tag-defense tag-hacked tag-illegally tag-judge tag-rejects 
 Posted by: DeepDotWeb
 <span>October 11, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/11/judge-rejects-defense-fbi-illegally-hacked-silk-road/#respond">Leave a comment</a></span>
-</p>
+
 <p>As it was published by <a href="http://www.wired.com/2014/10/silk-road-judge-technicality/" target="_blank">Wired</a>:</p>
 <blockquote><p>Lawyers for Ross Ulbricht have spent the last two months shifting the focus from their client, charged with creating the billion-dollar drug market the Silk Road, and putting it onto the potential illegality of the FBI’s investigation. Now the judge in that case has spoken, and it’s clear she intends to put Ulbricht on trial, not the FBI.</p>
 <p>In a 38-page ruling Friday, Judge Katherine Forrest <a href="http://www.wired.com/2014/08/feds-silk-road-investigation-violated-privacy-law-sites-alleged-creator-tells-court/" target="_blank">dismissed the defense’s motion to suppress evidence</a> that hinged on the argument that law enforcement had violated Ulbricht’s Fourth Amendment right to privacy from unreasonable searches. Just last week, Ulbricht’s lawyers went so far as to contend that the FBI had illegally hacked a Silk Road server in Iceland without a warrant to determine its location.</p>
@@ -30,7 +27,8 @@ Posted by: DeepDotWeb
 <p>Now that hearing will never happen. Instead, the next time the public will learn more about the FBI’s Silk Road investigation will likely be next month, at Ulbricht’s</p></blockquote>
 <p><iframe id="doc_21806" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/242560546/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
 <p><strong>Article Source</strong>: <a href="http://www.wired.com/2014/10/silk-road-judge-technicality/" target="_blank">http://www.wired.com/2014/10/silk-road-judge-technicality/</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/defense/" rel="tag">defense</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/illegally/" rel="tag">illegally</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/rejects/" rel="tag">rejects</a> </span> 
+
+
+
 Updated: 2014-10-11
     

@@ -1,13 +1,10 @@
 ---
-title: "The Anonymous Crypto-Currency Arms Race Part 1---
+title: "The Anonymous Crypto-Currency Arms Race Part 1"
+---
 
-7018 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-arms tag-armsrace tag-cryptocurrency tag-race">
-<div class="post-inner
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+
+Posted by: Greg Miller
 <span>October 22, 2014</span>
-    
-<a href="/2014/10/22/anonymous-crypto-currency-arms-race-part-1/#comments">4 Comments</a></span>
-</p>
     
 <p><em>All the parts are available in the <a href="http://www.deepdotweb.com/tag/ArmsRace/">Armsrace Tag</a>  &#8211; Once published</em></p>
 <p>While the world focuses on the many historical events happening around the world &#8211; the increasing divide between the west and Russia, Israel killing Palestinians, the Ebola outbreak in West Africa, and a heated Southeast Asian sea – there is an even more important event happening in the dark corners of the web. Since the deep web&#8217;s earliest days, the technology and business practices used have been improving steadily. Marketplaces have been getting better at avoiding economic oppression and making buying drugs as pleasant as buying an iPhone off e-bay. It is safe to say the emergence of Bitcoin was a great boost to the underground marketplaces. The deep web had marketplaces made for the internet but didn&#8217;t a currency made for the internet.</p>
@@ -21,7 +18,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>As Bitcoin&#8217;s lack of anonymity have become more and more well know, a urgency has emerged.   At first, technologies surfaced which would work with the existing Bitcoin system, but these, such as ZeroCash and Coinjoin have faced issues. Then Altcoins, such as Darkcoin emerged, declaring a new currency must be made to achieve financial anonymity. While, Darkcoin pioneered the idea that a currency from scratch was needed, but Darkcoin itself, didn&#8217;t provide anything new. Since Darkcoin many anonymity focused Altcoins have popped up that are trying to new ways to anonymize crypto-currency transactions. This has resulted in an anonymous crypto-currency arms race. Communities have sprung up around each coin and ultimately the idea itself. Competition between the various currencies has caused innovation at a rate never seen before. No single currency has become the first truly anonymous currency but many currencies are fighting to emerge as the victor.</p>
 <p>A truly anonymous crypto-currency would be a world of difference. Bitcoin&#8217;s lack of a central controller already allows for a more subversive currency but is still vulnerable to attacks from various states. An untraceable digital currency would allow online black market commerce to roam freely and at a rate of popularity we have not seen before. Though, the deep web is huge, it is just a tiny section of the black market at large. With each story about Silk Road, people convert from the physical drug trade, to the digital drug trade. They see more variety of drugs, and higher quality. They see more barriers to their personal protection from their dealers or police. What remains iffy, is the finical anonymity of Bitcoin. With a digital currency that is proven and built for anonymity, the floodgates of new users will open.</p>
 <p>Stay tuned for part 2! In part 2 we will explore the various competing technologies that are trying to become the foundation for a truly anonymous currency.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/armsrace/" rel="tag">ArmsRace</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/race/" rel="tag">race</a></span> 
-Updated: 2014-10-22<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-10-22
     

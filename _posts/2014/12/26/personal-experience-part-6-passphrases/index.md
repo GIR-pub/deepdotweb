@@ -2,8 +2,8 @@
 title: "Personal Experience: Part 6 – Passphrases"
 ---
 
-8085 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experiencetag
-Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+8085  tag-experiencetag
+Posted by: Joseph Meehan
 <span>December 26, 2014</span>
     
 <a href="/2014/12/26/personal-experience-part-6-passphrases/#comments">4 Comments</a></span>
@@ -17,5 +17,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Jo
 <p>I am going to set up a persistent volume in TAILS so that I can have some of my data saved across sessions. I’ll have my PGP keys, email account information and some personal documents saved so that I don’t have to re-enter every time I start TAILS. The passphrase I created from the Diceware word list will be used to encrypt the persistent volume to protect sensitive information as well as my anonymity.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a></span> 
-Updated: 2014-12-26<a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
+Updated: 2014-12-26
+
     

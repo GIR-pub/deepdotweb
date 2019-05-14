@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin News Roundup – 24Nov. 2014---
+title: "Bitcoin News Roundup – 24Nov. 2014"
+---
 
-8433 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-24nov tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>November 23, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/23/bitcoin-news-roundup-24nov-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><i>Presenting the week&#8217;s biggest Bitcoin stories from around the web.</i></p>
 <p><b>Making Purchases</b></p>
 <p>Not only is Black Friday the biggest shopping day of the year, but will also become the biggest Bitcoin shopping day as well. Caleb Chen of <a href="https://www.cryptocoinsnews.com/bitcoin-black-friday-soon-to-be-most-popular-day-in-the-history-of-bitcoin-commerce/">CrytpoCoins News</a> writes that merchants will be offering a variety of bitcoin discounts and bitcoin-only deals. Last year, BitPay proceeded $6 million USD for Bitcoin Black Friday. At the time, large websites like Newegg and TigerDirect had yet to accept bitcoin-only payments. This year&#8217;s deals can be found on BitcoinBlackFriday.com.</p>
@@ -23,7 +21,6 @@ Posted by: DeepDotWeb
 <p><b>Other News</b></p>
 <p>Cryptocurrency advocates are now moving to a Bitcoin hacklab in Spain. The story of Calafou, an old textile factory complex, is told by Jamie Bartlett in his new book “The Dark Net,”  as Natasha Bertrand of <a href="http://www.businessinsider.com/crypto-anarchists-are-flocking-to-a-bitcoin-hacklab-in-spain-2014-11">Business Insider</a> reports. The hacklab is described as “postcapitalist ecoindustrial complex” by the individuals who live at the site, which included both anarchists and social activists. The residents are able to live in Calafou for only 100 euros a month.</p>
 <p>The Mozilla Foundation, the designer and developer of the Firefox web browser and Thunderbird email client, will now be accepting bitcoin donations. <a href="http://blog.coinbase.com/post/103133675787/mozilla-now-accepting-bitcoin-for-donations-via">Coinbase</a> announced on Nov. 20th that the foundation, which supports the Mozilla Webmaker education project and net neutrality activism, will be able to accept 100% of the donations without fees.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/24nov/" rel="tag">24nov</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2014-11-23
     

@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin Update – 11 August 2014---
+title: "Weekly Bitcoin Update – 11 August 2014"
+---
 
-6755 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-1779 tag-august tag-bitcoin tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>August 11, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/08/11/weekly-bitcoin-update-11-august-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p>A Lake Tahoe property has sold for $1.6 million in Bitcoin. As Candace Jackson of the <a href="http://online.wsj.com/articles/lake-tahoe-property-sells-for-1-6-million-in-bitcoins-1407534997?mod=WSJ_LatestHeadlines">The Wall Street Journal</a> reports, the 1.4 acre property site, located on the California side of the lake at luxury resort Martis Camp, sold for a total of 2,739 bitcoin. The new owner will have views of the Pacific Crest and the surrounding mountain range. According to Martis Camp spokesman Brian Hull, the buyer plans to build a home on the property.</p>
 <p>A Hacker has stolen $83,000 worth of Bitcoin from a mining pool. Charlie Osborne of <a href="http://www.cnet.com/news/hacker-swipes-83000-from-bitcoin-mining-pools/">CNET</a> writes that the Dell SecureWorks Counter Threat Unit recently identified a security flaw that enables hackers to steal the the currency while confirming that at least one hacker has taken advantage of the exploit. Using a fake Border Gateway Protocol broadcast, the hacker managed to gain $83,000 over a four month time span. According to Dell SecureWorks, around 8,000 dogecoin were also swiped by the hacker.</p>
@@ -19,6 +17,6 @@ Posted by: DeepDotWeb
 <p>Contrastingly, Gleb Kostarev of <a href="http://www.coindesk.com/russian-ministry-finance-drafts-bill-banning-bitcoin/">CoinDesk</a> writes that Russia&#8217;s Ministry of Finance recently drafted a bill that could essentially ban the issuance of the cryptocurrency. Not only does the organization plan to amend Article 27 of the Federal Law &#8216;On The Central Bank of the Russian Federation&#8217; to ban the use of “monetary surrogates in Russia,” but the agency also plans to prevent its constituents from accessing online Bitcoin marketplaces.</p>
 <p>The Bitcoin Foundation is still wrestling with New York State&#8217;s recent “BitLicense” regulations and wishes to extend the comment period by up to six months. As Sydney Ember of <a href="http://dealbook.nytimes.com/2014/08/06/bitcoin-foundation-seeks-more-time-to-address-virtual-currency-rules/?_php=true&amp;_type=blogs&amp;_r=0">The New York Times</a> notes, the organization&#8217;s letter Benjamin M. Lawsky, the state&#8217;s superintendent of financial services, specifically cited that the Bitcoin community is “not well-versed in New York financial services law or regulation. Thus, the Foundation finds that it need more time to determine whether the regulations are beneficial for the Bitcoin community.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-08-11
     

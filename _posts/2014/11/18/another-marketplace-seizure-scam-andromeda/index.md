@@ -1,12 +1,10 @@
 ---
-title: "Another Marketplace Seizure Or a Scam? (Andromeda)---
+title: "Another Marketplace Seizure Or a Scam? (Andromeda)"
+---
 
-8333 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous
 Posted by: DeepDotWeb
 <span>November 18, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/18/another-marketplace-seizure-scam-andromeda/#comments">11 Comments</a></span>
-</p>
+
 <p><strong>Update</strong>: <span style="color: #ff0000;"><strong>Confirmed as scam</strong></span> – details at the end of the post.</p>
 <p>Today, almost 2 weeks after <a href="http://www.deepdotweb.com/tag/operation-onymous/">Operation Onymous</a> , another dark net market suddenly shut down, displaying the “This hidden site has been seized” banner, This time, it was Andromeda market:</p>
 <p><a href="/imgs/2014/11/andromeda.png"><img class="aligncenter  wp-image-8334" src="/imgs/2014/11/andromeda.png" alt="andromeda" width="696" height="412" srcset="/imgs/2014/11/andromeda.png 1516w, /imgs/2014/11/andromeda-300x178.png 300w, /imgs/2014/11/andromeda-1024x606.png 1024w" sizes="(max-width: 696px) 100vw, 696px" /></a></p>
@@ -42,8 +40,6 @@ Posted by: DeepDotWeb
 <p>The above information has not yet been verified, but it sounds similar to the things that happened on Sheep, Pandora &amp; The pirate market before they executed their exit scam.</p>
 <p>3. New Diabolus / SR3 market looks very similar to Andromeda and its former incarnations, <a href="/2014/05/01/marketplace-merge-darkbay-andromeda/">Darkbay, UltraVioletCity</a>—in terms of design and code, and another past attempt at…. Silk road3 (From the market list <a href="http://www.deepdotweb.com/hidden-marketplace-list-changelog/">changelog</a>: “<em>15.4.14 – Changed SilkRoad 3 name to Andromeda</em>“). So, this market is basically:  <strong>Darkbay = Ultravioletcity = Silk Road 3 (past) = Andromeda = Diabolus = Silk Road 3 (current)</strong></p>
 <p>4. And the final point of evidence supporting the scam theory can be found <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2modbl/andromeda_seized_today/cm6apbu">right here</a>, written by Gwern.</p>
-<p>&nbsp;</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span> 
+
 Updated: 2014-11-18
     

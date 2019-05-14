@@ -2,8 +2,8 @@
 title: "Bitcoin&#8217;s Black Market Promise In Argentina"
 ---
 
-7014 post type-post status-publish format-standard has-post-thumbnail hentry  tag-argentina tag-promise
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+7014  tag-argentina tag-promise
+Posted by: Greg Miller
 <span>September 11, 2014</span>
     
 <a href="/2014/09/11/bitcoins-black-market-promise-argentina/#respond">Leave a comment</a></span>
@@ -26,5 +26,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>In northern South America, Colombia has seen a big decrease in drug related violence as drug gangs have decided boarders and respected them. It is unclear how long this last but this also a great opportunity for them to expand their business without any violence. Instead of lunching urban assaults on neighboring gangs to get a bigger market share, they could instead become a deep web dealer. As with all drugs on the deep web, cocaine sells for more on the deep web, than the street. Colombia, being at the source of most of the worlds cocaine, could get it for cheap and sell it for a great mark up online.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/argentina/" rel="tag">argentina</a> <a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/promise/" rel="tag">promise</a></span> 
-Updated: 2014-09-11<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+Updated: 2014-09-11
     

@@ -2,12 +2,9 @@
 title: "Satoshi Nakamoto&#8217;s Email Account Hacked"
 ---
 
-6994 post type-post status-publish format-standard has-post-thumbnail hentry  tag-account tag-email tag-hacked tag-nakamotos tag-satoshi
 Posted by: DeepDotWeb
 <span>September 9, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/09/satoshi-nakamotos-email-account-hacked/#comments">1 Comment</a></span>
-</p>
+
 <p>Was published by <a href="http://www.wired.com/2014/09/satoshi" target="_blank">Wired</a>:</p>
 <blockquote><p>Someone has taken over the email account belonging to bitcoin’s secretive creator, Satoshi Nakamoto, saying he will sell Nakamoto’s secrets for money.</p>
 <p>The hacker, who told WIRED his name is “Jeffrey,” claims to have also obtained information on Nakamoto that could be used to unmask his identity. Jeffrey didn’t tell us much, but when we asked him how he managed to take control over the satoshin@gmx.com email address that Nakamoto had used for some of his correspondence, he wrote: “The fool used a primary gmx under his full name and had aliases set up underneath it. He’s also alive.”</p>
@@ -33,7 +30,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/09/Hack.png"><img class="aligncenter  wp-image-6998" src="/imgs/2014/09/Hack.png" alt="Hack" width="544" height="477" srcset="/imgs/2014/09/Hack.png 612w, /imgs/2014/09/Hack-300x263.png 300w" sizes="(max-width: 544px) 100vw, 544px"/></a></p>
 <p>We Will be following and updating as the story unfolds.</p>
 <p><strong>Article Source</strong>: <a href="http://www.wired.com/2014/09/satoshi" target="_blank">http://www.wired.com/2014/09/satoshi</a>Thanks to this <a href="http://www.reddit.com/r/Bitcoin/comments/2fw4fy/satoshi_hacked_the_story_so_far/" target="_blank">Reddit post</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/account/" rel="tag">account</a> <a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/nakamotos/" rel="tag">nakamotos</a> <a href="https://www.deepdotweb.com/tag/satoshi/" rel="tag">satoshi</a></span> 
+
 Updated: 2014-09-09
     

@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin News Roundup – November 2nd, 2014---
+title: "Bitcoin News Roundup – November 2nd, 2014"
+---
 
-7930 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1st tag-1779 tag-bitcoin tag-news tag-november tag-roundup
 Posted by: DeepDotWeb
 <span>November 2, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/02/bitcoin-news-roundup-november-2st-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>The week&#8217;s biggest bitcoin stories from around the web</em></p>
 <p><strong>Prominent Figures</strong></p>
 <p>Jon Matonis, the Executive Director of the Bitcoin Foundation, resigned on Oct. 31<sup>st</sup>.. Sydney Ember of <a href="http://dealbook.nytimes.com/2014/10/30/bitcoin-foundations-executive-director-jon-matonis-resigns/">The New York Times</a> reports that while Matonis, one of the foundation&#8217;s founding board members, will remain with the board until Dec. 31<sup>st</sup>. Matonis was named executive director in July 2013 and spoke strongly of the potential for currency to replace gold at some point in the future. During his tenure at the head of the foundation, one of the leading voices in the Bitcoin world, the cryptocurrency entered the mainstream. Patrick Murck, the foundation&#8217;s general counsel, will succeed Matonis.</p>
@@ -18,7 +16,6 @@ Posted by: DeepDotWeb
 <p>Students at Duke University, one of the most prominent universities in North America, will be able to enroll in a class that covers the Bitcoin blockchain. Caleb Chen of <a href="https://www.cryptocoinsnews.com/duke-university-professor-offers-bitcoin-blockchain-themed-class-innovation-cryptoventures/">CryptoCoins News</a> reports Campbell Harvey, a Fuqua School of Business Professor, will be offering a class to law, MBA, graduate, and technically-skilled undergraduate students during the Spring semester that will not only explore Bitcoin transactions, but also the impact of disruptive technologies on the business world. Cryptoventure projects are expected to be formulated in the class, which will not featured homework, midterms, and final exams. As a result, students within the course will be signing Non-Disclosure Agreements to protect the “content of projects presented within the classroom.” Schools that have also launched Bitcoin, blockchain, or digital currency-related courses include New York University, the University of Nicosia, and Stanford University.</p>
 <p>Prominent Bitcoin exchange Kraken has launched in Japan. Jon Southurst of <a href="http://www.coindesk.com/bitcoin-exchange-kraken-launches-japan/">CoinDesk</a> reports the exchange&#8217;s announcement highlighted its seurity and engineering team and history of compliance. These factors could be related to the Japanese local media&#8217;s tendency to focus on the history of Mt. Gox and Silk Road when discussing the cryptocurrency. Additionally, Kraken also highlighted the exchange&#8217;s ability to handle large trading volumes.</p>
 <p>The first ever Bitcoin conference in the Gulf will be hosted in Dubai at the Dubai International Financial Center between Dec. 11<sup>th</sup> and 13<sup>th</sup>, 2014. John Weru Maina of <a href="https://www.cryptocoinsnews.com/dubai-set-host-bitcoin-conference/">CryptoCoins News</a> reports that the conference will feature workshop sessions, which “will focus on the fundamentals of Bitcoin protocol,” and prominent figures like Roger Ver, Erik Voorhees, Nic Cary, and Greg Simon. Maina also notes that the United Arab Emirates is a relatively untapped Bitcoin market.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/1st/" rel="tag">1st</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/november/" rel="tag">november</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2014-11-02
     

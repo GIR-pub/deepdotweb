@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin Price Update Nov-9, 2014---
+title: "Bitcoin Price Update Nov-9, 2014"
+---
 
-8121 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-nov9 tag-price tag-update
 Posted by: DeepDotWeb
 <span>November 9, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/09/bitcoin-price-update-nov-9-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><span style="text-decoration: underline;"></span>This week was bullish in terms of Bitcoin price activity, especially when compared to the downward trajectory of last week&#8217;s Bitcoin price activity. Throughout the course of this week, the price managed to climb out of the mid $320s and hit the $340s. Additionally, the Bitcoin price also entered the $350s for a brief period of time. Overall, the price increased by 5.52 percent this week. That being said, let us take a closer look at the day-to-day price activity that occurred on the Bitstamp Bitcoin exchange. Please note that the prices on the below list have been rounded to the nearest dollar amount. Therefore, the descriptions of price activity in this report will not be 100% accurate. Additionally, note that the prices in the below list are daily opening prices. However, the price listed for November 8<sup>th</sup> is the closing price, rather than the opening price.</p>
 <p>Nov 2: $326</p>
 <p>Nov 3: $331 (+1.53%)</p>
@@ -23,7 +21,7 @@ Posted by: DeepDotWeb
 <p>November 6 saw the market pick up a decidedly bearish Bitcoin price trajectory. The day started out flat, with very little price movement for most of the morning hours, and then shot upwards at 10 AM. At the top of the 10 AM hour, the price was sitting at $342; by the close of the hour, the price had risen to $350. By 3 PM, the price hit a daily peak of $353.1; after that peak, though, the price fell slightly, dipping back into the $340s. However, that stint in the $340s did not last long—the price eventually returned to the $350s—and the day closed out on the upswing, with the Bitcoin price at $351.</p>
 <p>However, that bullish activity did not persist very long, for the Bitcoin price movement on Friday, November 7, was decidedly bearish. Opening at $351—a substantial 3.85% gain over the start of the previous day—the Bitcoin price quickly began to fall. The market suffered overall losses during the 7<sup>th</sup>, despite the periodical, upward fluctuations that occurred throughout the day. The day ended with the Bitcoin price at $346, a $5 decline from the beginning of the day. Saturday, November 8, the last day of the week, showed no signs of attempting to recover. The price stayed relatively flat for the entire day, hovering in the low $340s for the first half of the day, and then staying within a mid-to-high $340s range for during the latter half of the day.</p>
 <p>Although this past week ended on a bad note, with the last two days of the week being a mixture of bearish movement and sideways activity, the week was positive overall. As a whole, the Bitcoin price for the week increased by 5.52%. Additionally, the first half of Sunday, November 9 has been very positive, with the Bitcoin price reaching the high $350s—and even briefly flirting with the $360s. Thus, it is possible that we could see some positive gains, or a stable Bitcoin price at the very least. However, we will save our report of the activity on November 9 for next week.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/nov9/" rel="tag">nov9</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> 
+
+
 Updated: 2014-11-09
     

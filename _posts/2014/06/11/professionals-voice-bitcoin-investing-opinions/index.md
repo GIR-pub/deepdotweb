@@ -2,12 +2,9 @@
 title: "Professionals Voice: Bitcoin Investing Opinions"
 ---
 
-5960 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-investing tag-opinions tag-professionals tag-voice
 Posted by: DeepDotWeb
 <span>June 11, 2014</span>
-    
-<a href="/2014/06/11/professionals-voice-bitcoin-investing-opinions/#comments">4 Comments</a></span>
-</p>
+
 <p>Bitcoin has gained tremendous support since its conception, and, moving into a new technological era, is being regarded by many as the new way to trade. Many others, however, view Bitcoin as a danger to potential investors. This article will outline some of these opinions, and provide a side-by-side comparison of some of the biggest names the economy and their opinions on that crypto-wonder named bitcoin!</p>
 <p>These opinions will be represented in a positive/negative order, to provide optimal examination of argumentation.</p>
 <p><strong>1. FINRA on Bitcoin , &#8220;buying and using digital currency such as Bitcoin carry risks.&#8221;</strong></p>
@@ -47,7 +44,6 @@ Posted by: DeepDotWeb
 </ul>
 <p><a href="/imgs/2014/06/graph.jpg"><img class="aligncenter  wp-image-5961" src="/imgs/2014/06/graph.jpg" alt="graph" width="604" height="332" srcset="/imgs/2014/06/graph.jpg 1914w, /imgs/2014/06/graph-300x165.jpg 300w, /imgs/2014/06/graph-1024x562.jpg 1024w" sizes="(max-width: 604px) 100vw, 604px"/></a></p>
 <p>The opinions on Bitcoin vary greatly. Some, like FINRA and Warren buffet, oppose it for various reasons (lack of safety/value. Others, like professionals workers and Marc Andreessen, hail Bitcoin as an opportunistic technological innovation (due to intrinsic value and usability). Although the opinions vary from person to person, the general consensus is the same: Bitcoin is a BIG DEAL!</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/investing/" rel="tag">investing</a> <a href="https://www.deepdotweb.com/tag/opinions/" rel="tag">opinions</a> <a href="https://www.deepdotweb.com/tag/professionals/" rel="tag">professionals</a> <a href="https://www.deepdotweb.com/tag/voice/" rel="tag">voice</a></span> 
+
 Updated: 2014-06-11
     

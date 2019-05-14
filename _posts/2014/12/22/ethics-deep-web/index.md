@@ -2,7 +2,7 @@
 title: "The Ethics of The Deep Web"
 ---
 
-7426 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-ethics tag-web
+7426  tag-deep tag-ethics tag-web
 Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
 <span>December 22, 2014</span>
     
@@ -15,5 +15,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher <
 <p>I turn finally to the issue of privacy since this is central to a world hinging on hidden services. Bitcoin remains the currency of the deep web and it seems it will take some time before this shifts. However, it seems an increasingly odd choice for those in that world to remain bound to a cryptocoin that has a public ledger. Whilst it is certainly true that coin-mixing would presumably help cover some tracks it is also clear, at least from Silk Road, that this is harder in practise than theory. Therefore it is perhaps time that at least some of the administrators entertained the possibility of accepting alternative cryptocurrencies with anonymity features. Going by marketcap Darkcoin fits the bill as the most obvious choice. In contradistinction to Bitcoin we find Darkcoin now has an in-built Darksend feature, with a giant button such that even the laziest user will surely apply it. Enterprising vendors might even save up and buy a masternode which would allow them to make even more Darkcoins for contributing to this anonymizing network. Whether administrators will see past their current income to consider whether adopting stronger anonymity technology that will surely prove sensible in the long run…well I cannot tell. We will have to wait and see.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/ethics/" rel="tag">ethics</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
-Updated: 2014-12-22<a href="https://www.deepdotweb.com/author/cipher/" title="Posts by Cipher" rel="author">Cipher</a></strong></div>
+Updated: 2014-12-22
     

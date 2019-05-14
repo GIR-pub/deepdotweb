@@ -2,12 +2,9 @@
 title: "Is The Bitcoin Dev Team Serious About Anonymity?"
 ---
 
-6857 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymity tag-bitcoin tag-dev tag-team
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>November 17, 2014</span>
-    
-<a href="/2014/11/17/bitcoin-dev-team-serious-anonymity/#respond">Leave a comment</a></span>
-</p>
+
 <p>When people think about innovation in the anonymity of crypto-currencies, very rarely do people think about Bitcoin, as a source for that. Many people are looking at various Altcoins (crypto-currency alternatives to Bitcoin) for crypto-currency anonymity, like Darkcoin, Anoncoin, and Monero. People have pushed Bitcoin aside, not even considering it a competitor but do the people behind Bitcoin&#8217;s development have to say about it?</p>
 <p><strong>The B Team</strong></p>
 <p>Before I get to analyzing whether the Bitcoin devs are serious about anonymity, let me take a moment to explain the current status of the core Bitcoin development team. In a interview with Bitcoin Epicenter, Mike Hearn, Google engineer and former core Bitcoin developer, said “I’ve been very worried for a long time that the core Bitcoin system is radically underfunded and underdeveloped from where it needs to be.” A lack of funding and incentives is leading core developers to not work on the Bitcoin protocol, the most vital technology of Bitcoin, everything else stands on its shoulder. He went on to say the protocol is already suffering and that development has come to a complete halt.</p>
@@ -21,7 +18,7 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>I think after a change in the Bitcoin dev team happens, changing from an ad-hoc team to a more organized and funded team, the chances of a focus on anonymity will be even less. Bitcoin companies, that will be looking to make nice with regulators, will not want to rock the boat, and since Bitcoin companies will be flipping the dime for development, it is unlikely they will want the developers to focus on anonymity.</p>
 <p><a href="/imgs/2014/08/btc.png"><img class="aligncenter size-full wp-image-6859" src="/imgs/2014/08/btc.png" alt="btc" width="225" height="225" srcset="/imgs/2014/08/btc.png 225w, /imgs/2014/08/btc-150x150.png 150w, /imgs/2014/08/btc-55x55.png 55w, /imgs/2014/08/btc-50x50.png 50w" sizes="(max-width: 225px) 100vw, 225px"/></a></p>
 <p>Altcoins remain the wild west of crypto-currencies. A man with a vision can bootstrap a currency and add any features he wants. Altcoins remain far away from the tightening grip of the US government and its cronies, allowing for more innovation and creativity. Another key aspect about Altcoins is that they are small and they have very little money invested in them, compared to Bitcoin. The more money there is, the bigger the target is for regulators. Bitcoin was given life by the Deep Web, finding massive early adoption there, but it never had any ties to the Deep Web and simply continue on to the clear net when the money called. In a world where crypto-currency anonymity is becoming more and more the enemy of the state, I find the same scenario unfolding to be unlikely. After the dust settles and true winner emerges in The Great Anonymous Crypto-Currency Wars, it will be such an alien to polite society that its only home will be the Deep Web.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dev/" rel="tag">dev</a> <a href="https://www.deepdotweb.com/tag/team/" rel="tag">team</a></span> 
-Updated: 2014-11-17<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+
+Updated: 2014-11-17
     

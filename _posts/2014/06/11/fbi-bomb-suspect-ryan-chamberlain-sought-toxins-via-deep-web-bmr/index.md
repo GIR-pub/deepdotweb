@@ -1,12 +1,10 @@
 ---
-title: "FBI: Bomb Suspect Ryan Chamberlain Sought Toxins Via ‘Deep Web’ (BMR)---
+title: "FBI: Bomb Suspect Ryan Chamberlain Sought Toxins Via ‘Deep Web’ (BMR)"
+---
 
-5975 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bmr tag-bomb tag-chamberlain tag-deep tag-ryan tag-sought tag-suspect tag-toxins tag-web
 Posted by: DeepDotWeb
 <span>June 11, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/11/fbi-bomb-suspect-ryan-chamberlain-sought-toxins-via-deep-web-bmr/#respond">Leave a comment</a></span>
-</p>
+
 <p>Video report &#8211; from <a href="http://sanfrancisco.cbslocal.com/2014/06/06/fbi-says-san-francisco-bomb-suspect-ryan-chamberlain-sought-toxins-ryan-kelly-chamberlain-ii-toxin-abrin-poison-explosives-dangerous-note-manifesto-manhunt/">this</a> source:<br />
 <script src="http://CBSSF.images.worldnow.com/interface/js/WNVideo.js?rnd=272712;hostDomain=video.sanfrancisco.cbslocal.com;playerWidth=620;playerHeight=349;isShowIcon=true;clipId=10244117;flvUri=;partnerclipid=;adTag=News;advertisingZone=CBS.SF%252Fworldnowplayer;enableAds=true;landingPage=;islandingPageoverride=false;playerType=STANDARD_EMBEDDEDscript;controlsType=overlay"></script></p>
 <p><strong>Info source  <a href="http://www.sfexaminer.com/sanfrancisco/silk-road-like-website-part-of-investigation-into-man-arrested-by-fbi-for-having-alleged-bomb-making-materials/Content?oid=2819736">sfexaminer.com</a>:</strong></p>
@@ -25,7 +23,6 @@ Posted by: DeepDotWeb
 <p>Chamberlain has yet to make a plea in the case. His next court date is scheduled for Monday.</p>
 <p>Complaint:<br />
 <iframe id="doc_7386" class="scribd_iframe_embed" src="//www.scribd.com/embeds/229251691/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/bomb/" rel="tag">bomb</a> <a href="https://www.deepdotweb.com/tag/chamberlain/" rel="tag">chamberlain</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/ryan/" rel="tag">ryan</a> <a href="https://www.deepdotweb.com/tag/sought/" rel="tag">sought</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a> <a href="https://www.deepdotweb.com/tag/toxins/" rel="tag">toxins</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
+
 Updated: 2014-06-11
     

@@ -2,12 +2,10 @@
 title: "Darkcoin Passes Security Review &#8211; Prepares to Open Source"
 ---
 
-7194 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkcoin tag-open tag-passes tag-prepares tag-security tag-source
+
 Posted by: DeepDotWeb
 <span>September 23, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/23/darkcoin-passes-security-review-prepares-to-open-source/#comments">6 Comments</a></span>
-</p>
+
 <p>A Press release by the <a href="https://darkcointalk.org/threads/possible-darkcoin-press-release-rc5-open-source-instant-transactions-kristov-code-review.2399/">Darkcoin community</a>:</p>
 <p>Security researcher Kristov Atlas has concluded his code review and security audit of <a href="/2014/05/20/the-rise-of-darkcoin/">Darkcoin</a>. He was solicited by the developers of Darkcoin, based on 4+ years of professionally reviewing C/C++ software, to review the code and suggest any changes which could improve the software. Kristov Atlas concluded that Darkcoin&#8217;s claims of functional anonymity are well-founded. He did suggest a few concerns, which the Darkcoin team immediately fixed (the fixes will be released <span class="aBn" tabindex="0" data-term="goog_1091700750"><span class="aQJ">Monday</span></span> as part of the next scheduled update to the Darkcoin client). Mr. Atlas&#8217; primary concern was that a bad actor could launch a so-called Sybil attack against the network. Evan Duffield, lead developer of Darkcoin, closed this potential attack vector and in doing so also found a way to increase the overall anonymity of Darkcoin transactions.</p>
 <p><iframe src="//www.youtube.com/embed/grtGRq4jGQc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
@@ -21,7 +19,6 @@ Posted by: DeepDotWeb
 <p><span style="text-decoration: underline;">Contact</span>: <a href="mailto:evan@darkcoin.io">evan@darkcoin.io</a><br/>
 <span style="text-decoration: underline;">Community</span>: <a href="https://darkcointalk.org/threads/rc5-launching-september-22nd.2382/" target="_blank">https://darkcointalk.org/<wbr/>threads/rc5-launching-<wbr/>september-22nd.2382/</a><br/>
 <span style="text-decoration: underline;">Future Press Releases</span>: <a href="http://www.darkcoin.io/media.html" target="_blank">http://www.darkcoin.io/media.<wbr/>html</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/open/" rel="tag">open</a> <a href="https://www.deepdotweb.com/tag/passes/" rel="tag">passes</a> <a href="https://www.deepdotweb.com/tag/prepares/" rel="tag">prepares</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a>  <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a></span> 
+
 Updated: 2014-09-23
     

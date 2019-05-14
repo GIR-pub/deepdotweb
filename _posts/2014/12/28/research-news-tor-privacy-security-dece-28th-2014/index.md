@@ -1,8 +1,9 @@
 ---
-title: "Research and News in Tor, Privacy, and Security – Dec 28th, 2014---
+title: "Research and News in Tor, Privacy, and Security – Dec 28th, 2014"
+---
 
-8703 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-28th tag-dece tag-news tag-privacy tag-research tag-security 
-Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+8703  tag-1779 tag-28th tag-dece  
+Posted by: Kiell
 <span>December 28, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/12/28/research-news-tor-privacy-security-dece-28th-2014/#respond">Leave a comment</a></span>
@@ -16,7 +17,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a
 <p>The <a href="https://events.ccc.de/congress/2014/wiki/Static:Main_Page">31st annual</a> Chaos Communication Congress (31c3) will be taking place on December 27th through December 30th in Hamburg, Germany. The Chaos Communication Congress is an annual four-day technology conference held by the <a href="https://www.ccc.de/">Chaos Computer Club</a>.</p>
 <p>There will be a <a href="https://events.ccc.de/congress/2014/wiki/Session:Tor_Relay_Operators_Meetup">meet-up</a> for Tor relay operators at the conference that will focus primarily on Torservers.net.</p>
 <p>The NSA has <a href="https://www.nsa.gov/public_info/declass/IntelligenceOversightBoard.shtml">released</a> 12 years worth of internal reports after responding to a Freedom of Information Act request. The reports were released late on Christmas Eve – possibly to discourage media attention. The heavily-redacted reports reveal numerous breaches in protocol by the agency, primarily as a result of human error. The reports outline instances of data collected on Americans being emailed to unauthorized recipients, retained after it was supposed to be destroyed, and stored on unsecured computers. In some cases, data continued to be collected on targets even when the target was in the United States. The NSA states that “by emphasizing accountability across all levels of the enterprise, and transparently reporting errors and violations to outside oversight authorities, NSA protects privacy and civil liberties while safeguarding the nation and our allies.”</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/28th/" rel="tag">28th</a> <a href="https://www.deepdotweb.com/tag/dece/" rel="tag">dece</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a>  </span> 
-Updated: 2014-12-28<a href="https://www.deepdotweb.com/author/kiell/" title="Posts by Kiell" rel="author">Kiell</a></strong></div>
-    
+<a href="https://www.deepdotweb.com/tag/28th/" rel="tag">28th</a> <a href="https://www.deepdotweb.com/tag/dece/" rel="tag">dece</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a>  </span> 
+Updated: 2014-12-28    

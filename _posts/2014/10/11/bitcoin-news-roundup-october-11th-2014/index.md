@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin News Roundup – October 11th, 2014---
+title: "Bitcoin News Roundup – October 11th, 2014"
+---
 
-7355 post type-post status-publish format-standard has-post-thumbnail hentry  tag-10th tag-1779 tag-bitcoin tag-news tag-october tag-roundup
 Posted by: DeepDotWeb
 <span>October 11, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/11/bitcoin-news-roundup-october-11th-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>Featuring the week’s biggest news stories on the world-famous cryptocurrency from around the web.</em></p>
 <p><strong>Bitcoin Pricing </strong></p>
 <p>After remaining above the $500 mark for most of the summer, the price of Bitcoin continues to fall. As Michael Hiltzik of <a href="http://www.latimes.com/business/hiltzik/la-fi-mh-byebye-bitcoin-the-cryptocurrencys-price-agonies-intensify-20141006-column.html">The Los Angeles Times</a> notes, the frustrating aspect of the recent loss in value, which led to the currency bottoming out at a price of $290 before rising back up, is the fact that no one really knows what is causing the loss in value. While there is speculation that the currency loss in value is related to the new emphasis on regulation, particularly the new “BitLicense” rules, others have suggested that the increased mining of bitcoins by Chinese programmers has led to the decrease.</p>
@@ -20,7 +18,6 @@ Posted by: DeepDotWeb
 <p>A proposal to introduce a new digital currency has been launched in the Philippines. The “E-Peso Act of 2014,” as Mellisa Tolentino of <a href="http://siliconangle.com/blog/2014/10/10/the-philippines-wants-to-create-its-own-version-of-bitcoin/">SiliconAngle</a> writes, would be backed by the Central Bank of the Philippines if passed into law. The organization would be tasked with studying cryptocurrencies like Bitcoin so as to determine which technology would be best suited for the country’s needs. The E-Peso will be available in limited quantities during the first two years of its existence.</p>
 <p>Venezuelans are now using Bitcoin in an effort to bypass the country’s economic controls. According to <a href="http://www.reuters.com/article/2014/10/08/us-venezuela-bitcoin-idUSKCN0HX11O20141008">Reuters.com</a>’s Girish Gupta, two New York-based Venezuelans are hoping to begin a bitcoin exchange within the country so as to service the several hundred cryptocurrency users within the country to better make Internet purchases. The digital currency is being used to subvert the currency controls put into place by Hugo Chavez, the late president of the country. Those rules force Venezuelans to request hard currency from the state. Gupta also notes that Venezuelans are better able to mine bitcoins in the country due to the low electricity costs within the country.</p>
 <p>Researchers at the United Kingdom’s Internet Watch Foundation have discovered that over 200 websites across the world now accepts bitcoin payments for pictures of sexually abused children. According to Kristen Schweizer of <a href="http://mobile.bloomberg.com/news/2014-10-09/bitcoin-payments-by-pedophiles-frustrate-child-porn-fight.html">Bloomberg</a>, researchers from Germany, the United States, and other countries are also discovering this startling trend. The IWF also noted that thirty child pornography websites exclusively accept only bitcoin payments. The well-documented fight against child pornography often begins with tracking down pedophiles through their Internet connections and their payments for the illegal files. Just as with the black market trade for drugs and other contraband, however, the anonymity of bitcoin has led to its use for this rather immoral endeavor.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/10th/" rel="tag">10th</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2014-10-11
     

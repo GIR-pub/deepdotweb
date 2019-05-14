@@ -2,12 +2,10 @@
 title: "Experience: The Arms Race Of Bitcoin Mining Hardware"
 ---
 
-6390 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-bitcoin tag-hardware tag-mining tag-race
-Posted by: <a href="https://www.deepdotweb.com/author/jabberwocky/" title="">Jabberwocky </a></span>
+
+Posted by: Jabberwocky
 <span>July 10, 2014</span>
-    
-<a href="/2014/07/10/experience-the-arms-race-of-bitcoin-mining-hardware/#comments">1 Comment</a></span>
-</p>
+
 <p><em>Personal experience from the miner point of view</em> &#8211; As some of you may already know, Bitcoin mining hardware has evolved since its beginning in early 2009. So lets hop in my time machine, I’m going to introduce you to the different families of mining hardware that were used and evolved at a faster pace since mid 2013.</p>
 <p>At the beginning the CPU (Central Processing Unit) was used.  Yes, the good old CPU that any computer has. Can you imagine that at that time, you could earn 100 or 200 BTC in a few days with a good old Pentium 4 or similar? They were hashing between 1 and 2 MH/s for every 50-Watts used, <b>0.04MH/s/watt.</b></p>
 <p>But keep in mind they are still worthless, no way to exchange them against anything until the end of 2009, beginning of 2010. With a block 50,000 a good old Pentium 4 earned you <b>0.02 (USD)</b><b> a day</b>.</p>
@@ -38,7 +36,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/jabberwocky/" title="">Jab
 <p>The last fast forward will take us a few days ago, on block 309,700. Bitcoin has a steady exchange rate of 650.00 US$ 20 Antminers S1 are 3.6 TH/s for 7,200 watts. That’s <b>500 MH/s/watt.</b> I’m now earning <b>44</b><b>.00 US</b><b>$ net a day</b> after paying 26.00 US$ for electricity.</p>
 <p>If you take a look back from the beginning to today, you can see that the race has been going at a faster pace while Bitcoin has become more and more popular since the exchange rate went higher. The same rule has always applied: you have to buy faster, more efficient hardware to continue earning money.</p>
 <p>It took 5 years to come from 2MH/s/watt to 800-1,000MH/s/watt on the new ASIC from Bitmain or Rockminer that are available with other brands delivering soon. If somehow a  faster Moore’s law applied to Bitcoin, Let’s see how long it will apply&#8230;</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/hardware/" rel="tag">hardware</a> <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a> <a href="https://www.deepdotweb.com/tag/race/" rel="tag">race</a></span> 
-Updated: 2014-07-10<a href="https://www.deepdotweb.com/author/jabberwocky/" title="Posts by Jabberwocky" rel="author">Jabberwocky</a></strong></div>
-    
+
+Updated: 2014-07-10

@@ -2,7 +2,7 @@
 title: "Cypherpunk and Dark Net Marketplaces"
 ---
 
-6801 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cypherpunk tag-dark tag-marketplaces tag-net
+6801  tag-cypherpunk tag-dark tag-marketplaces tag-net
 Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
 <span>September 12, 2014</span>
     
@@ -25,5 +25,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher <
 <p>This is why it is important to see dark web marketplaces in the wider context if we are to assess their long-term viability. If whistleblowers and coders of privacy technology represent the noble side of the cypherpunk tradition then dark net administrators represent the more risky side of this adventure into the unknown. If the deep web is the Wild West they are the cowboys. The only issue is how long they can evade the Sheriff.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/cypherpunk/" rel="tag">cypherpunk</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> 
-Updated: 2014-09-12<a href="https://www.deepdotweb.com/author/cipher/" title="Posts by Cipher" rel="author">Cipher</a></strong></div>
+Updated: 2014-09-12
     

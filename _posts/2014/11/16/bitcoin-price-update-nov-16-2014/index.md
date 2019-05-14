@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin Price Update Nov-16, 2014---
+title: "Bitcoin Price Update Nov-16, 2014"
+---
 
-8297 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-nov16 tag-price tag-update
-Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+Posted by: Evan Faggart
 <span>November 16, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/16/bitcoin-price-update-nov-16-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p>This is the DeepDotWeb weekly Bitcoin price report for the week of November 9-November 15, 2014. This week was characterized by a rather unexpected price rally, temporarily reaching heights in the $450s and eventually leveling out in the $380s. Overall, the Bitcoin price rose by 10.76% this week.</p>
 <p>Let’s take a look at the daily opening prices on the Bitstamp Bitcoin exchange for the week. Please note that we have placed both the opening and closing prices for November 15 on the list below. This will be the format for this list for the foreseeable future.</p>
 <p><strong>Quick Overview of the Daily Bitcoin Price</strong></p>
@@ -28,7 +26,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Eva
 <p>Nov 13: The opening price for November 13 was $450, a gargantuan 18.11% increase over the start of the previous day. However, the price began falling in the early morning hours of the 13th, showing that the massive upward surge in the markets yesterday was not sustainable. The Bitcoin price fell throughout the entire day in a wave-like pattern &#8212; falling downwards and then temporarily increasing, only to fall once more. Several people in the Bitcoin community noted that there was a large buy order from a single person on OKCoin on the 12th, and assigned responsibility for the unexpected price spike to that person. A single buyer pushing the up the price on the 12th would explain the bearish activity of the 13th; since the price spike was caused by a single person buying a large block of coins, there were no other people willing to buy at the heightened price, forcing sellers to lower their asking prices until they reached a level where people resumed buying. That being said, November 13 came to a bearish close with the Bitcoin price at $394, falling below $400 once again.</p>
 <p>Nov 14: Friday, November 14 was fairly calm compared to the previous two days. Opening at $394, the Bitcoin price was down 12.44% from the start of the previous day. Despite regular fluctuations throughout the day, the overall trajectory of the price on the 14th was sideways. The Bitcoin price hovered between the high $390s and the mid $400s all day, eventually closing the day out at $396.</p>
 <p>Nov 15: November 15 began at $396, up 0.51% over the opening price of the 14th. The early morning hours saw significant declines in the Bitcoin price; by the close of 9 AM, the price had fallen to $370. However, after this early morning decline, the price moved up to $380 and began hovering within a mid $370s to low $380s range. This price range persisted for the rest of the day, and November 15 came to a close with the Bitcoin price at $381 &#8212; a 3.79% decrease from the start of the day.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/nov16/" rel="tag">nov16</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> 
-Updated: 2014-11-16<a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    
+
+
+Updated: 2014-11-16    

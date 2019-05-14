@@ -2,12 +2,9 @@
 title: "Introducing: DeepDotWeb&#8217;s Discussion Forum"
 ---
 
-7915 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deepdotwebs tag-discussion tag-forum tag-introducing
 Posted by: DeepDotWeb
 <span>October 30, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/30/introducing-deepdotwebs-discussion-forum/#respond">Leave a comment</a></span>
-</p>
+
 <p>After considering this idea for a long time and as an answer to the many requests we received &#8211; we have decided to add a discussion forum section to the site (yes, the style will be changed as soon as something nice will be found), with the main goal of providing an independent and free for all platform to be used mainly, but not only, for:</p>
 <ul>
 <li>Market review</li>
@@ -29,7 +26,6 @@ Posted by: DeepDotWeb
 <p style="text-align: center;">(Since the forum is new please report any bugs)</p>
 <p style="text-align: center;"><span style="text-decoration: underline;">Please keep in mind that buying or selling ANYTHING is strictly prohibited and any attempt to do so will result in a ban.</span></p>
 <p style="text-align: center;"><a href="/imgs/2014/10/forum.png"><img class="aligncenter  wp-image-7917" src="/imgs/2014/10/forum.png" alt="forum" width="775" height="415" srcset="/imgs/2014/10/forum.png 1538w, /imgs/2014/10/forum-300x161.png 300w, /imgs/2014/10/forum-1024x549.png 1024w" sizes="(max-width: 775px) 100vw, 775px" /></a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/deepdotwebs/" rel="tag">deepdotwebs</a> <a href="https://www.deepdotweb.com/tag/discussion/" rel="tag">discussion</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> 
+
 Updated: 2014-10-30
     

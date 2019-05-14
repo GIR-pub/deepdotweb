@@ -2,12 +2,9 @@
 title: "Apple Pay, a Rival to Bitcoin?"
 ---
 
-7114 post type-post status-publish format-standard has-post-thumbnail hentry  tag-apple tag-bitcoin tag-pay tag-rival
-Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
+Posted by: Dennis Wafula
 <span>September 20, 2014</span>
-    
-<a href="/2014/09/20/apple-pay-rival-bitcoin/#comments">1 Comment</a></span>
-</p>
+
 <p>The digital currency market is experiencing huge growth with companies devising creative and innovative solutions more so in the mobile payments space. Financial transfers and payment systems have experienced huge strides in technological advancement in the last few decades. There has been a rapid graduation from debit card and ATMs to   online transactions that has been followed in hot pursuit by mobile transactions, like PayPal.</p>
 <p><strong>Apple Pay</strong></p>
 <p>A recent entrant is Apple Pay, which is a new mobile payment system unveiled by Apple this year. Compared to existing solutions such as current credit card system, it is billed as secure for it has features such as biometric authentication and GPS location.</p>
@@ -35,7 +32,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">De
 <p>The transaction is also transparent and neutral. Information concerning the Bitcoin money transaction is readily available on the block chain for anybody to verify and use in real-time.</p>
 <p>Bitcoin however has several demerits. It suffers low level of acceptance among the business community. It is also faced with volatility due to the lower total value of Bitcoins in circulation and most of its features are still underdeveloped.</p>
 <p>In conclusion, Apple Pay has revolutionized the way many will be paying for things one more time.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/apple/" rel="tag">apple</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/pay/" rel="tag">pay</a> <a href="https://www.deepdotweb.com/tag/rival/" rel="tag">rival</a></span> 
-Updated: 2014-09-20<a href="https://www.deepdotweb.com/author/denniswafula/" title="Posts by Dennis Wafula" rel="author">Dennis Wafula</a></strong></div>
+
+Updated: 2014-09-20
     

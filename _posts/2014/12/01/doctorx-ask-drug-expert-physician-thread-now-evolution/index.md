@@ -2,13 +2,9 @@
 title: "DoctorX “Ask a Drug Expert Physician” Thread – Now On Evolution!"
 ---
 
-8513 post type-post status-publish format-standard has-post-thumbnail hentry  tag-doctorx tag-evolution tag-expert tag-physician tag-thread">
-<div class="post-inner
 Posted by: DeepDotWeb
 <span>December 1, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/12/01/doctorx-ask-drug-expert-physician-thread-now-evolution/#comments">1 Comment</a></span>
-</p>
+
 <p>For those of you that are not yet familiar &#8211;  DoctorX, Fernando Caudevilla, is a Spanish Family Physician who has been offering a service of information and assessment about drugs in a risk reduction perspective since April 2013. First in Silk Road Forum and then in Silk Road 2.0 Forum &amp; the Hub forums, he has answered more than 1,100 different questions covering topics as effects, dosage, combinations, adverse effects and toxicity, use of drugs in diseases or physical conditions, contraindications, pharmacological interactions, therapeutic cannabis&#8230; His work has attracted <a href="http://www.theage.com.au/national/fernando-caudevilla-spanish-doctor-advises-drug-users-on-the-dark-webs-silk-road-20141020-118lfi.html" target="_blank">general</a> <a href="http://www.msnbc.com/ronan-farrow/watch/a-different-type-of-drug-test-313349187622" target="_blank">media</a> <a href="http://www.vice.com/read/this-doctor-wants-to-provide-quality-control-for-your-illegal-drugs-821)" target="_blank">attention</a>  and has gained popularity into the Deep Web during the last year and a half.</p>
 <p>Now the &#8220;Ask a Drug Expert Physician about Drugs &amp; Health&#8221; thread is re-opened in Evolution Marketplace forum, where you can ask your harm reduction related questions at:</p>
 <p><span style="color: #0000ff;"><strong>http://i25c62nvu4cgeqyz.onion/<wbr />viewtopic.php?id=35190</strong></span></p>
@@ -31,7 +27,6 @@ Posted by: DeepDotWeb
 <p>Yes. Although DNMs represent a very little proportion of all the drug business I think it is increasing. People from little villages have now direct access to many substances that were difficult to obtain some years ago.</p>
 <p><strong>Ask a Drug Expert Physician about Drugs and Health, <a href="http://www.deepdotweb.com/marketplace-directory/listing/evolution-marketplace" target="_blank">Evolution market</a> forum</strong>:</p>
 <p><span style="color: #0000ff;"><strong>http://i25c62nvu4cgeqyz.onion/<wbr />viewtopic.php?id=35190</strong></span></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/doctorx/" rel="tag">doctorx</a>  <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/expert/" rel="tag">expert</a> <a href="https://www.deepdotweb.com/tag/physician/" rel="tag">physician</a> <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> 
+
 Updated: 2014-12-01
     

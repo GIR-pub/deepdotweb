@@ -1,12 +1,11 @@
 ---
-title: "Silk Road 2 Seized! (Multiple Markets Seized)---
+title: "Silk Road 2 Seized! (Multiple Markets Seized)"
+---
 
-7967 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous tag-seized 2bust
+
 Posted by: DeepDotWeb
 <span>November 6, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/06/silk-road-2-seized/#comments">86 Comments</a></span>
-</p>
+
 <p><strong>This post is being updated constantly as this case unfolds – check back for updates. All new posts will be in this : <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 bust Tag</a><br />
 </strong></p>
 <p><strong>Update 3</strong>: <a href="/2014/11/06/cannbis-road-forums-seized/" target="_blank">Cannabis Road forums seized</a></p>
@@ -35,7 +34,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/11/seized-forums.png"><img class="aligncenter  wp-image-7981" src="/imgs/2014/11/seized-forums.png" alt="seized-forums" width="803" height="560" srcset="/imgs/2014/11/seized-forums.png 1251w, /imgs/2014/11/seized-forums-300x209.png 300w, /imgs/2014/11/seized-forums-1024x714.png 1024w" sizes="(max-width: 803px) 100vw, 803px" /></a></p>
 <p><strong>Keep checking the other posts in this chain of event at: <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 Bust Tag</a>—they are being updated constantly.</strong></p>
 <p>&nbsp;</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a>  <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a></span> 
+
 Updated: 2014-11-06
     

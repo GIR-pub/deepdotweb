@@ -1,12 +1,11 @@
 ---
-title: "Weekly Bitcoin Update – 21 September 2014---
+title: "Weekly Bitcoin Update – 21 September 2014"
+---
 
-7153 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1966 tag-bitcoin tag-september tag-update tag-weekly
+
 Posted by: DeepDotWeb
 <span>September 21, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/21/weekly-bitcoin-update-21-september-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p><strong>Below $400</strong></p>
 <p>After originally appearing as if its value was preparing to stabilize, bitcoin&#8217;s prices have continued to fall. According to Miguel Helft of <a href="http://fortune.com/2014/09/19/the-value-of-bitcoin-keeps-sliding/">Fortune Magazine</a>, the value of cryptocurrency fell below te $400 mark on Friday, Sept. 19<sup>th</sup>. Bitcoin has been in a sharp decline ever since the currency was valued for a three month high of $650 in July.</p>
@@ -21,7 +20,6 @@ Posted by: DeepDotWeb
 <p>Japan has launched its first bitcoin payment platform. As John Weru Maina of <a href="http://www.cryptocoinsnews.com/japans-first-bitcoin-payment-platform-launched-bitcheck/">CryptoCoins News</a> reports, the new system, Bitcheck, was launched on Sept. 16<sup>th</sup>. The company&#8217;s slogan, “Bitcoin for Everyone”, speaks to the company&#8217;s goal of bringing in potential bitcoin users who are not as well-educated on the currency as a tech or finance expert. As Maina notes, Bitcheck&#8217;s services, aimed towards this more casual bitcoin user, include a wallet, a register, and an online payment system.</p>
 <p><strong>Ponzi Schemes</strong></p>
 <p>Jonathan Stempel of <a href="http://www.reuters.com/article/2014/09/19/us-sec-bitcoin-fraud-idUSKBN0HE1Z820140919">Reuters</a> reports that a United States federal judge in Texas has ordered Bitcoin Savings and Trusts, and its owner, to pay $40.7 million after the SEC verified the company was a Ponzi scheme. The judge determined that the company&#8217;s owner, Trendon Shavers, had mislead its investors on how the company was using the bitcoin and protecting their investments. Stempel notes that it is unclear as to whether Shavers will be able to make the $40.7 million payment to the company&#8217;s former investors.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/21/" rel="tag">21</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-09-21
     

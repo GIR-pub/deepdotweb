@@ -2,12 +2,9 @@
 title: "Study Claims: Silk Road Reduced Drug-trade Violence"
 ---
 
-5885 post type-post status-publish format-standard has-post-thumbnail hentry  tag-claims tag-drugtrade tag-reduced tag-study tag-violence
 Posted by: DeepDotWeb
 <span>June 8, 2014</span>
-    
-<a href="/2014/06/08/study-claims-silk-road-reduced-drug-trade-violence/#comments">1 Comment</a></span>
-</p>
+
 <p>I have been holding this post for over a week and from some reason it slipped my publishing queue. but better late than never. The data in this study is a bit hard to verify and a better definition would be &#8220;debate&#8221; between researchers more than a real study, but it does show some interesting views so its worth mentioning:</p>
 <p>Online black marketplaces such as Silk Road – which used untraceable bitcoin transactions and was shut down in October 2013 – may have actually reduced violent crimes related to drugs, a new report argues.</p>
 <p>Online drug traffickers tend to buy larger amounts of stock, acting as wholesalers, and with Silk Road acting as the broker of deals, there was less chance of dealers meeting directly with trafficker sand therefore less opportunity for violence, intimidation, and territorialism, the new <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2436643">report</a> “<em>Not an ‘Ebay for Drugs’: The Cryptomarket ‘Silk Road’ as a Paradigm of Shifting Criminal Innovation</em>”.</p>
@@ -22,7 +19,6 @@ Posted by: DeepDotWeb
 <p>Sales on Silk Road increased from an estimate of $14.4 million in mid-2012 to $89.7 million, representing a more than 600% increase in just over a year, which the study argues demonstrates the demand for that kind of illicit online marketplace.</p>
 <p>In spite of the huge growth in drug trading that the website was seeing prior to its shutdown, researchers Décary-Hétu and Aldridge admitted that in the overall scheme of the worldwide drug trade, it was forming only a niche and fairly negligible portion of the narcotics ecosystem. The Unit Nations estimates that the global market for illegal drugs is worth more than $300 billion; making Silk Road small in comparison, but nevertheless a fast-growing alternative to standard <a href="http://www.aljazeera.com/news/europe/2014/05/global-war-drugs-failure-lse-nobel-prize-201456212727317668.html">black</a> market transactions. With a number of copy-cat drug trading websites cropping up to fill the gaps in the market left by Silk Road’s demise, the flow of narcotics hasn’t been <a href="/2014/05/12/darknetmarkets-listing-count-is-booming-53917/">stopped</a> so much as it has been rerouted, spread out, and sent further underground.</p>
 <p>The pair believe criminologists should examine Silk Road’s records for information on and clues as to the potential uses of cryptographic technologies and their effect on the worldwide drug trade by making use of ‘webometric’ and ‘big data’ – for example, using data stored digitally to look at criminal patterns rather than using traditional methods of research such as interviewing incarcerated offenders. By using webometric and big data techniques, researchers can use real data that has been obtained unobtrusively, as well as having access to much larger and more powerful data sets.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/drugtrade/" rel="tag">drugtrade</a> <a href="https://www.deepdotweb.com/tag/reduced/" rel="tag">reduced</a>  <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/violence/" rel="tag">violence</a></span> 
+
 Updated: 2014-06-08
     

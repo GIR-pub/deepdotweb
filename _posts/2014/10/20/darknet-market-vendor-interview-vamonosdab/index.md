@@ -2,12 +2,9 @@
 title: "Interview With a DarkNet Vendor: VamonosDab"
 ---
 
-7405 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-interview tag-vamonosdab tag-vendor
-Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+Posted by: Joseph Meehan
 <span>October 20, 2014</span>
-    
-<a href="/2014/10/20/darknet-market-vendor-interview-vamonosdab/#comments">3 Comments</a></span>
-</p>
+
 <p>I&#8217;ve been searching for a Darknet vendor willing to be interviewed for a while now. I&#8217;m interested in not only advice and experiential knowledge, but also in a basic profile of the type of person who was attracted to the Darknet markets to vend products. I was put into contact with this particular vendor last month after seeing an ad on Reddit and we have been corresponding since then. VamonosDab has been vending on and off for about four years on the Darknet markets, starting with Silk Road 1. He has a wide customer base great standing on the sites. He works hard to maintain the reputation and quality of his products.</p>
 <p style="text-align: center;"><a href="http://www.deepdotweb.com/tag/interview/" target="_blank"><strong>&gt;&gt; Read Other interviews On DeepDotWeb &lt;&lt;</strong></a></p>
 <p>One of the most eye-opening things about this interview for me was that VamonosDab treats this like a business. He thinks and acts the way someone who owns a legitimate business would. He is concerned with things like customer service, product quality control, and shipping and supply chains. He has two employees who work for him. VamonosDab didn&#8217;t remind me of the guys that I bought pot from in high school. He reminded me of any other small business owner I&#8217;ve met throughout my life. Unconditionally dedicated and motivated.</p>
@@ -87,7 +84,7 @@ Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Jo
 <p>VD: [Laughs] H-P-S, God bless the whole crops, and please God don&#8217;t let me see no cops.</p>
 <p><strong>JM: Are we too far gone in terms of privacy in the United States? Or are the measures we have at our disposal truly capable of maintaining our privacy from the government and any other organization that wants to spy on us?</strong></p>
 <p>The measures are way more than capable. The question is are people going to use those measures. The answer seems to be a pretty resounding no. The darknet allows the people who use those measures to meet their ends. But if people don&#8217;t start using PGP and anonymous browsing and encryption these measures are going to mean nothing. The state will be able to control the majority of the population and the efforts of the few will be in constant danger of being nullified. Take CISPA, which most people have a running familiarity with, and the way the government was going to alter the fundamental architecture of DNS and was going to alter the structure of the internet and likely fuck up the internet just to be able to prevent certain sites they don&#8217;t like from being accessed by people. Things like that at a hardware level or deep coding level at the root of the infrastructure, that effects people using the darknet against their will. It can put an end to that. Unless everyone remains obstinate in maintaining privacy it will be eroded away.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/vamonosdab/" rel="tag">vamonosdab</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
-Updated: 2014-10-20<a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
+
+Updated: 2014-10-20
+
     

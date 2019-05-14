@@ -2,12 +2,9 @@
 title: "Study: Estimating hidden service traffic from DNS leaks"
 ---
 
-6170 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dns tag-estimating tag-leaks tag-study tag-traffic
 Posted by: DeepDotWeb
 <span>June 22, 2014</span>
-    
-<a href="/2014/06/22/study-estimating-hidden-service-traffic-dns-leaks/#comments">2 Comments</a></span>
-</p>
+
 <p>A new and interesting study that was published recently under the name   <a href="http://www.verisigninc.com/assets/labs/Measuring-the-Leakage-of-Onion-at-the-Root.pdf">&#8220;Measuring the Leakage of Onion at the Root: A measurement of Tor’s .onion pseudo-top-level domain in the global domain name system&#8221;</a>, By Thomas &amp; Mohaisen 2014, Suggest the following things as they were summarized in a <a href="http://www.reddit.com/r/DarkNetMarkets/comments/28qy0u/estimating_hidden_service_traffic_from_dns_leaks/" target="_blank">reddit post</a> by <a href="http://www.gwern.net/" target="_blank">Gwern</a>:</p>
 <blockquote><p>Tor is capable of providing anonymity to servers, which are configured to receive inbound connections only through Tor—more commonly called hidden services. In order to route requests to these hidden services, a is used to identify the resolution requests to such services. A namespace under a non-delegated (pseudo) top-level-domain (TLD) of .onion was elected. Although the Tor system was designed to prevent .onion requests from leaking into the global DNS resolution process, numerous requests are still observed in the global DNS. In this paper we will present the state of .onion requests received at the global public DNS A and J root nodes, potential explanations of the leakage, and highlights of trends associated with global censorship events.</p>
 <p>&#8230;These unintended leaked DNS queries have been shown to expose sensitive private information and present potential new security threat vectors [5–7]. During the analysis of potential colliding name spaces within the global DNS, queries suffixed in .onion appeared to be one of the more prevalent non-delegated TLDs at the global root DNS.</p>
@@ -26,7 +23,6 @@ Posted by: DeepDotWeb
 <blockquote><p>Given the time period, the table suggests that Agora may now be as popular as SR1 was before shutdown.</p></blockquote>
 <p>This is interesting data about the traffic amount an sources related to the known marketplaces.</p>
 <p>See also <a title="Biryukov et al 2013" href="http://www.ieee-security.org/TC/SP2013/papers/4977a080.pdf">&#8216;Trawling for Tor Hidden Services: Detection, Measurement, Deanonymization&#8217;</a> &amp; <a href="http://donncha.is/2013/05/trawling-tor-hidden-services/">&#8220;Trawling Tor Hidden Service &#8211; Mapping the DHT&#8221;</a>.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/dns/" rel="tag">dns</a> <a href="https://www.deepdotweb.com/tag/estimating/" rel="tag">estimating</a>  <a href="https://www.deepdotweb.com/tag/leaks/" rel="tag">leaks</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a> <a href="https://www.deepdotweb.com/tag/traffic/" rel="tag">traffic</a></span> 
+
 Updated: 2014-06-22
     

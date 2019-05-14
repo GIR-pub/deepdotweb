@@ -1,12 +1,11 @@
 ---
-title: "Weekly Bitcoin Update &#8211; 29 September 2014---
+title: "Weekly Bitcoin Update &#8211; 29 September 2014"
+---
 
-7225 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-september tag-update29 tag-weekly
-Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+
+Posted by: Evan Faggart
 <span>September 29, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/29/weekly-bitcoin-update-29-september-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>A recap of the week’s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web.</em></p>
 <p><strong>Paypal Integrates Bitcoin into Paypal Payments Hub</strong></p>
 <p>CoinDesk <a href="http://www.coindesk.com/paypal-announces-first-partnerships-bitcoin-space/">reported</a> on September 23 that Paypal would be partnering with BitPay, Coinbase, and GoCoin to integrate Bitcoin into its Payments Hub. This “Hub” is a platform that allows digital content makers to easily accept payment for their products online. Once Bitcoin is fully integrated into the Payments Hub, content producers that use the platform will automatically be able to accept Bitcoin as payments for their digital goods.</p>
@@ -33,7 +32,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Eva
 <p>The Bitcoin price activity for the 22<sup>nd</sup> closely resembled the movement from the previous day. Staying between the high $390s and the low $400s, the price barely moved at all during the day. Opening at $404, it was down 1.46% from the opening price on September 21. However, the day ended without much activity and the 23<sup>rd</sup> began at $402, a meager 0.50% decline.</p>
 <p>Tuesday, September 23, was much different from the previous two days. The market followed the same pattern from the previous two days of hovering between the high $390s and low $400s for the first half of the 23<sup>rd</sup>. But then, around midday, the Bitcoin price saw a vertical jump. Reacting to the highly anticipated and exciting news from Paypal, the price went from $397 at the top of 1 PM to $450 at the close of 4 PM. Within three short hours, the price had increased 13.35%. After the $450 peak at 4 PM, the price fell a little bit and closed the day out at $433.</p>
 <p>This massive upturn in the price did not have any staying power, though, and the price began falling towards the previously established hovering pattern between high $390s and the $400s. The 24<sup>th</sup> of September started out at $433—a 7.71% increase from the start of the previous day—and was back at $419 by the opening hour of the 25<sup>th</sup>. The price on Thursday, September 25 continued to fall, and had declined to $410 by the start of the 26<sup>th</sup>. By the end of the week, at the close of September 27, the price had completely returned to the price range that was established at the beginning of the week. September 27<sup>th</sup> ended, thus closing out the week, at $402.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> <a href="https://www.deepdotweb.com/tag/update29/" rel="tag">update29</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
-Updated: 2014-09-29<a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    
+
+Updated: 2014-09-29    

@@ -2,12 +2,9 @@
 title: "While Markets Get Seized: Pedophiles Launch a Crowdfunding Site"
 ---
 
-7962 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crowdfunding tag-pedophiles tag-seized tag-site
 Posted by: DeepDotWeb
 <span>November 9, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/#comments">364 Comments</a></span>
-</p>
+
 <p><span style="text-decoration: underline;"><strong>Update:</strong></span><strong> The </strong><strong>Site was shut down &#8211; Details at the bottom of this post.</strong><span style="text-decoration: underline;"><strong><br />
 </strong></span></p>
 <p><em>I was going to post this just a few hours before the news about </em><a href="http://www.deepdotweb.com/tag/operation-onymous/"><em>O</em><em>peration Onymous </em></a><em>started to flow in, but now it seems more relevant than ever. I am sure that once the media starts showing interest in real crimes, Law Enforcement budgets will be adjusted accordingly.</em></p>
@@ -33,7 +30,6 @@ Posted by: DeepDotWeb
 <p><b>Update: Giving the community one last chance.</b></p>
 <p>&#8220;I have been monitoring pedo forums and many people have said they wish this site was still running and that I should have kept it going longer to give it a good chance of taking off. I am going to give the pedo comunity one last chance. The two active campaigns have had their time remaining reduced to one week. The total amount contributed has been reset to zero since I already refunded everyone&#8217;s bitcoins from these campaigns. If both of these videos are both successfully funded, I will keep running the site and I will also create a new feature that allows hoarders to get a little bit of money for posting their all-ready-made videos from other producers. All normal rules about releases and refunds will be in effect for these two campaigns.</p>
 <p>So here you have it, tor-pedos: This is your chance to vote with your wallets whether PedoFunding stays, or leaves the darknet forever.&#8221;</p></blockquote>
-</div>
-<a href="https://www.deepdotweb.com/tag/crowdfunding/" rel="tag">crowdfunding</a>  <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/pedophiles/" rel="tag">pedophiles</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a></span> 
+
 Updated: 2014-11-09
     

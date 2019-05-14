@@ -1,21 +1,11 @@
 ---
 title: "Onymous: Durham Couple Indicted"
 ---
-
-8382 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous">
     
-<    
-    
-        
 Posted by: DeepDotWeb
     
-    
 <span>November 21, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-    
-<a href="/2014/11/21/onymous-durham-couple-indicted/#comments">2 Comments</a></span>
-</p>
-    
+
 <p>As it was reported on <a href="http://www.actionnewsnow.com/news/durham-couple-indicted-as-part-of-silk-road-2-0-crackdown/">Actionnewsnow</a> &#8211;  a couple that were operating as cannabis vendors on silk road 2 got arrested during <a href="http://www.deepdotweb.com/tag/operation-onymous/">operation onymous</a>:</p>
 <blockquote><p>Two Durham residents have been indicted on federal drug charges, part of a crackdown on Silk Road 2.0, a series of black market websites used to facilitate drug trafficking.</p>
 <p>David Schell, 54, and Teri Schell, 59, were arrested after FBI agents learned they were accessing &#8220;Silk Road 2.0,&#8221; an illicit network of websites that facilitated the trafficking of contraband, particularly controlled substances, until its worldwide dismantlement on November 6.</p>
@@ -34,9 +24,7 @@ Posted by: DeepDotWeb
 </ul>
 <p>Countries involved in Operation Onymous include Bulgaria, the Czech Republic, Finland, France, Germany, Hungary, Ireland, Latvia, Lithuania, Luxembourg, the Netherlands, Romania, Spain, Sweden, Switzerland, the United Kingdom and the United States.</p>
 <p>Read all our other articles regarding <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Operation Onymous Here</a>.</p>
-    
-    
-<a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span>				
+
 Updated: 2014-11-21
     
     

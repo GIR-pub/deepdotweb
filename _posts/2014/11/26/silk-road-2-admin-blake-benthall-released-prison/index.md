@@ -2,12 +2,9 @@
 title: "Silk Road 2 Admin Blake Benthall Released From Prison?!"
 ---
 
-8459 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-benthall tag-blake tag-prison tag-released 
 Posted by: DeepDotWeb
 <span>November 26, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/26/silk-road-2-admin-blake-benthall-released-prison/#comments">7 Comments</a></span>
-</p>
+
 <p><strong>Update</strong>:  According to the documents on Pacer his status is &#8220;“Detention on consent without prejudice.” (agrees to stay in jail) &amp; According to <a href="https://www.vinelink.com">Vinelink</a>,  he was transferred to an &#8220;Unknown location&#8221;, which explains the &#8220;released&#8221; part fom the BOP site:</p>
 <div id="attachment_8469" style="width: 506px" class="wp-caption aligncenter"><a href="/imgs/2014/11/transffered.png"><img class=" wp-image-8469" src="/imgs/2014/11/transffered.png" alt="Vinelink" width="496" height="266" srcset="/imgs/2014/11/transffered.png 1600w, /imgs/2014/11/transffered-300x161.png 300w, /imgs/2014/11/transffered-1024x550.png 1024w" sizes="(max-width: 496px) 100vw, 496px"/></a><p class="wp-caption-text">Vinelink</p></div>
 <div id="attachment_8472" style="width: 581px" class="wp-caption aligncenter"><a href="/imgs/2014/11/vine2.png"><img class=" wp-image-8472" src="/imgs/2014/11/vine2.png" alt="Vine2" width="571" height="307" srcset="/imgs/2014/11/vine2.png 1600w, /imgs/2014/11/vine2-300x161.png 300w, /imgs/2014/11/vine2-1024x550.png 1024w" sizes="(max-width: 571px) 100vw, 571px"/></a><p class="wp-caption-text">Vine2</p></div>
@@ -60,6 +57,6 @@ Posted by: DeepDotWeb
 </ul>
 <p>We are in the process of trying to figure out what happened there and will update once we have new information. Until than, consider this post more as a question mark rather than conclusive info.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/benthall/" rel="tag">benthall</a> <a href="https://www.deepdotweb.com/tag/blake/" rel="tag">blake</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> </span> 
+
 Updated: 2014-11-26
     

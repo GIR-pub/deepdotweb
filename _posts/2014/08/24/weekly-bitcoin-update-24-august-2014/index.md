@@ -1,12 +1,12 @@
 ---
-title: "Weekly Bitcoin Update – 24 August 2014---
+title: "Weekly Bitcoin Update – 24 August 2014"
+---
 
-6864 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1898 tag-august tag-bitcoin tag-update tag-weekly
+
 Posted by: DeepDotWeb
 <span>August 24, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/08/24/weekly-bitcoin-update-24-august-2014/#respond">Leave a comment</a></span>
-</p>
+
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p>After remaining above or around the $600 mark for the majority of the summer, bitcoin&#8217;s value has fallen below the $500 mark. Petar Kotevski of <a href="http://www.forexnews.com/blog/2014/08/23/bitcoin-stuck-500-bitstamp-users-report-problems/">ForexNews</a> reports that the price appears to be stuck around the $500 mark. However, while prices are slightly higher on the BitStamp exchange, users are now having issues accessing their cryptocurrency through the exchange. As Kotevski notes, reports of bitcoin withdrawal issues are leading some in the Bitcoin community to fear that BitStamp could be leading to another Mt. Gox-like situation.</p>
 <p>Women in developing countries are coming to embrace Bitcoin. Jhiuk Chowdhury of <a href="http://rt.com/op-edge/182144-bitcoin-women-developing-countries/">RT.com</a> reports that women are attempting to use the decentralized digital currency system to better their financial situation. For example, the Women&#8217;s Annex Foundation (WAF) , which connects women with digital literary across several different countries, pays for women to create social media content. The women, who are paid in bitcoin for their services, receive $250 to $400 per month.</p>
@@ -20,7 +20,6 @@ Posted by: DeepDotWeb
 <p><strong>Regulation</strong></p>
 <p>Comments on the proposed “BitLicense” currency regulations will now be accepted for an additional 45 days. Sydney Ember of <a href="http://dealbook.nytimes.com/2014/08/21/more-comments-invited-for-proposed-bitcoin-rules/">The New York Times</a> reports that the move, which came after several requests from important Bitcoin advocates, extends the commentary deadline to Oct. 21<sup>st</sup>. The rules are intended to prevent the more unsavory side of Bitcoin exchanges, including money laundering, from coming forth by requiring Bitcoin exchanges and businesses to acquire a “BitLicense” to “secure, store or maintain custody or control of virtual currency on behalf of their customers,” as Ember writes.</p>
 <p>A United States federal judge has ruled that bitcoin is a form of money. As Carlo Caraluzzo of <a href="http://cointelegraph.com/news/112328/us-district-judge-bitcoin-is-money">CoinTelegraph</a> writes, U.S. District Judge Jed Rakoff ruled that Robert Faiella&#8217;s claim that his attempt to sell more than $1 million in bitcoin on Silk Road did not constitute “transmitting” money was false on the basis that bitcoins “clearly qualifies as &#8216;money&#8217; or &#8216;funds.&#8217;” Silk Road was being used as a way to sell illicit goods and services online before it was closed last year.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/24/" rel="tag">24</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-08-24
     

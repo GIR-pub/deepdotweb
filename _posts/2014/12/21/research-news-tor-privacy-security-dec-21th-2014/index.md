@@ -1,8 +1,9 @@
 ---
-title: "Research &#038; News in Tor, Privacy, &#038; Security – Dec 21th, 2014---
+title: "Research &#038; News in Tor, Privacy, &#038; Security – Dec 21th, 2014"
+---
 
-8688 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-21th tag-dec tag-news tag-privacy tag-research tag-security 
-Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+8688  tag-1779 tag-21th tag-dec  
+Posted by: Kiell
 <span>December 21, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <a href="/2014/12/21/research-news-tor-privacy-security-dec-21th-2014/#comments">1 Comment</a></span>
@@ -43,7 +44,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a
 <p>Earlier this week, Congress passed the <a href="https://www.congress.gov/bill/113th-congress/house-bill/4681">Intelligence Authorization Act for Fiscal Year 2015</a>. The bill received little to no public attention, although it has since been heavily criticized. The most controversial aspects of the bill authorize the collection of data on U.S. citizens without a court order or subpoena. Specifically, Sec. 309 authorizes the acquisition, retention, and dissemination of “nonpublic telephone or electronic communications” collected on U.S. citizens. The bill has passed in the House and the Senate, and will likely become law.</p>
 <p>It was revealed that several UK ISPs have been <a href="http://arstechnica.com/tech-policy/2014/12/bt-sky-and-virgin-hijacking-browsers-to-push-porn-blocks/">hijacking</a> unencrypted website requests from users, forcing them to choose whether they want to filter adult content. The move stems from a December deadline imposed by the UK government for the implementation of web filters. BT, Sky, and Virgin Media have employed the tactic. BT plans on disconnecting customers if they refuse to make a decision, while Sky and Virgin Media have stated that they would not take similar actions. Open Rights Group (ORG) has criticized the move, stating that it could teach customers to trust future hijacking attacks. An ORG spokesperson stated, &#8220;How can a customer tell the difference between an ISP hijack and a phishing site made to look the same? There are better ways for ISPs to contact their customers—particularly given that they have our phone numbers, email and actual addresses.”</p>
 <p>The Federal Bureau of Investigation (FBI) has <a href="http://www.fbi.gov/news/pressrel/press-releases/update-on-sony-investigation">officially accused</a> North Korea of being responsible for the recent attack targeting Sony Pictures Entertainment. The agency stated that there is enough evidence to conclude that the North Korean government is responsible for the attack. Technical analysis revealed “similarities in specific lines of code, encryption algorithms, data deletion methods, and compromised networks.” Other evidence revealed similarities between tools used in this attack and other attacks carried out by the government, such as an attack carried out last month against South Korean banks and media outlets. The official statement argues, “North Korea’s actions were intended to inflict significant harm on a U.S. business and suppress the right of American citizens to express themselves. Such acts of intimidation fall outside the bounds of acceptable state behavior. “</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/21th/" rel="tag">21th</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a>  </span> 
-Updated: 2014-12-21<a href="https://www.deepdotweb.com/author/kiell/" title="Posts by Kiell" rel="author">Kiell</a></strong></div>
-    
+<a href="https://www.deepdotweb.com/tag/21th/" rel="tag">21th</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a>  </span> 
+Updated: 2014-12-21    

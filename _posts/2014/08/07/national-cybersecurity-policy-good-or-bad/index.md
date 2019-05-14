@@ -2,12 +2,9 @@
 title: "National Cybersecurity Policy – Good or Bad?"
 ---
 
-6731 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cybersecurity tag-good tag-national tag-policy
-Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ </a></span>
+Posted by: iBurnEZ </a></span>
 <span>August 7, 2014</span>
-    
-<a href="/2014/08/07/national-cybersecurity-policy-good-or-bad/#comments">2 Comments</a></span>
-</p>
+
 <p>Dan Geer, the chief information security officer for In-Q-Tel and the keynote speaker at this year’s <a href="https://www.blackhat.com/us-14/">Black Hat conference</a>, is undoubtedly one of the smartest people in any room he walks in to. His presence at Black Hat was somewhat precarious given his position at a firm responsible for providing the C.I.A. and other U.S. intelligence agencies with information technology, but the opinions he shared in his speech were his own, something he was diligent to repeat.</p>
 <p>The topic of the keynote speech was the abstract concept of national cybersecurity policy. Geer dismisses “cyber safety” and “cyber order” as unattainable goals, and advocates cybersecurity policy as the “the least worst thing.”</p>
 <p>Geer’s speech was very much an exercise in critical thinking. What would cybersecurity policy look like, what should it address, and how might it affect the freedom and functionality of the Internet. Geer discussed 10 areas for potential cybersecurity policy.</p>
@@ -73,7 +70,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ
 <p>Many will protest regulating any thing surrounding the Internet in fear of a slippery slope. Developers would likely cry bloody murder if policy were to command Geer’s purposed level of software accountability.</p>
 <p><span style="text-decoration: underline;"> Link to the full keynote transcript</span>: <a href="http://geer.tinho.net/geer.blackhat.6viii14.txt" target="_blank">http://geer.tinho.net/geer.<wbr/>blackhat.6viii14.txt</a></p>
 <p>Whether any of these concepts are preferable to the state of the Internet as it is now is for you to decide for yourself.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bad/" rel="tag">bad</a> <a href="https://www.deepdotweb.com/tag/cybersecurity/" rel="tag">cybersecurity</a> <a href="https://www.deepdotweb.com/tag/good/" rel="tag">good</a> <a href="https://www.deepdotweb.com/tag/national/" rel="tag">national</a> <a href="https://www.deepdotweb.com/tag/policy/" rel="tag">policy</a></span> 
-Updated: 2014-08-07<a href="https://www.deepdotweb.com/author/iburnez/" title="Posts by iBurnEZ" rel="author">iBurnEZ</a></strong></div>
-    
+
+Updated: 2014-08-07

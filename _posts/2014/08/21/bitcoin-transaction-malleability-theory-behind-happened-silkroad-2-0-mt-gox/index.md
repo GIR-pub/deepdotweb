@@ -1,12 +1,11 @@
 ---
-title: "BTC Transaction Malleability Theory: What Happened to SR 2.0 and Mt.Gox---
+title: "BTC Transaction Malleability Theory: What Happened to SR 2.0 and Mt.Gox"
+---
 
-6769 post type-post status-publish format-standard has-post-thumbnail hentry tag-bitcoin tag-happened tag-malleability tag-mtgox  tag-theory tag-transaction
-Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ </a></span>
+Posted by: iBurnEZ </a></span>
 <span>August 21, 2014</span>
     
-<a href="/2014/08/21/bitcoin-transaction-malleability-theory-behind-happened-silkroad-2-0-mt-gox/#comments">2 Comments</a></span>
-</p>
+    
 <p>Before we get started I’d like to address the people who are about to flame the hell out of me for including Mt. Gox in the list of those affected by Bitcoin transaction malleability. The role this vulnerability played in the Mt. Gox shenanigans is debatable, but Trustwave researchers Ben Hayak and Daniel Chechik included Mt. Gox in their <a href="https://www.blackhat.com/us-14/briefings.html#bitcoin-transaction-malleability-theory-in-practice">Black Hat presentation “Bitcoin Transaction Malleability Theory in Practice</a>,” so I will also include it here.</p>
 <p>Bitcoin transaction malleability is the bug responsible for the theft of 4,500 Bitcoins (approx. $2.6 million) from the SilkRoad2.0. Mt. Gox will go down as one of the largest robberies in history, someone relieved the Bitcoin exchange of 850,000 Bitcoins ($465 million+). Investigators were able to recover about 200,000 Bitcoins but 650,000 ($355 million+) remain unaccounted for.</p>
 <p>The Bitcoin transaction malleability works in favor of the recipient of the transaction. As far as I’m aware this vulnerability has not been used in transaction between two private parties. The obvious targets were vulnerable Bitcoin exchanges and darkmarkets who store users Bitcoins in a central location. Attackers used Bitcoin transaction malleability to endlessly request Bitcoins from their accounts, eventually draining all of the Bitcoins from these targets.</p>
@@ -39,6 +38,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ
 <p><a href="http://blackhat.com/us-14/archives.html">http://blackhat.com/us-14/archives.html</a></p>
 <p><a href="http://blackhat.com/docs/us-14/materials/us-14-Chechik-Malleability-Tool-Tool.zip">http://blackhat.com/docs/us-14/materials/us-14-Chechik-Malleability-Tool-Tool.zip</a></p>
 </div>
- <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/happened/" rel="tag">happened</a> <a href="https://www.deepdotweb.com/tag/malleability/" rel="tag">malleability</a> <a href="https://www.deepdotweb.com/tag/mtgox/" rel="tag">mtgox</a> <a href="https://www.deepdotweb.com/tag/silkroad/" rel="tag">silkroad</a> <a href="https://www.deepdotweb.com/tag/theory/" rel="tag">theory</a> <a href="https://www.deepdotweb.com/tag/transaction/" rel="tag">transaction</a></span> 
-Updated: 2014-08-21<a href="https://www.deepdotweb.com/author/iburnez/" title="Posts by iBurnEZ" rel="author">iBurnEZ</a></strong></div>
+ 
+Updated: 2014-08-21
     

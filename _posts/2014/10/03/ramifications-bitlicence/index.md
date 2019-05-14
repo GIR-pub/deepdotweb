@@ -2,14 +2,9 @@
 title: "The Ramifications of BitLicence"
 ---
 
-6861 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitlicence tag-ramifications">
-<div class="post-inner
-Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+Posted by: Zubair Muadh
 <span>October 3, 2014</span>
-    
-<a href="/2014/10/03/ramifications-bitlicence/#respond">Leave a comment</a></span>
-</p>
-    
+
 <p><strong>Introduction</strong></p>
 <p>The New York Department of Financial Services (NYDFS) released its long-anticipated list of proposed rules and regulations that will be required for New York-based bitcoin businesses. As the first state to pass regulations on Bitcoin the ‘BitLicence’ could potentially be used as a draft template for other states/ nations if they decide to regulate Bitcoin.</p>
 <p><span style="text-decoration: underline;">Who need’s a BitLicence?</span></p>
@@ -45,7 +40,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zub
 <p>“These regulations are going to make some savvy traders a lot of money. Because there is a premium placed on privacy, the ‘clean’ coins trading on exchanges with BitLicenses will trade at a discount to coins trading on exchanges that operate in more laissez-faire jurisdictions. Traders with the ability and risk appetite will be able to arbitrage the price differential.”</p>
 <p>This would result in a Jurisdictional differential, meaning Bitcoins will be trading at slightly different prices depending on the location of the traders.</p>
 <p>This view could nonetheless be argued as people don’t value privacy much enough that they’re willing to pay a premium for it. Customers tend to be willing to hand over large amounts of personal information in order to receive services or gain access to something they want. This would mean that Bitcoins in New York would trade at normal market rate.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bitlicence/" rel="tag">bitlicence</a> <a href="https://www.deepdotweb.com/tag/ramifications/" rel="tag">ramifications</a></span> 
-Updated: 2014-10-03<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    
+
+Updated: 2014-10-03    

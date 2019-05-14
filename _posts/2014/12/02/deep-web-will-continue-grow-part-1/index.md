@@ -1,12 +1,10 @@
 ---
-title: "Why The Deep Web Will Continue To Grow Part 1---
+title: "Why The Deep Web Will Continue To Grow Part 1"
+---
 
-7022 post type-post status-publish format-standard has-post-thumbnail hentry  tag-continue tag-deep tag-deepwebgrow tag-grow tag-web
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>December 2, 2014</span>
-    
-<a href="/2014/12/02/deep-web-will-continue-grow-part-1/#comments">3 Comments</a></span>
-</p>
+
 <p><strong>All the parts: <a href="http://www.deepdotweb.com/tag/DeepWebGrow/">#DeepWebGrow</a></strong></p>
 <p>When the Silk Road was shut down, the victory call was ringed loudly by those for the war on drugs and a Bitcoin community that, increasingly, wants to be distanced from the deep web, especially the Silk Road. People wanted the whole online drug trade to be over with and took this as a opportunity to free themselves from worrying about such a thing.</p>
 <p>Shortly after though, many articles pop up, such as “The Silk Road Is Dead. Long Live The Silk Road.” One of the main focuses of the article was that the number of product listings have grown since demise of the Silk Road. A shocking and for most, counterintuitive, fact. It won&#8217;t end there though. The deep web will continue to grow to even greater sizes and here is why.</p>
@@ -21,6 +19,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>The quality and variety of the drugs on the deep web can&#8217;t be matched. The traditional drug trade suffers from many problems. Street dealers are at the low end of the chain and after the drugs have thousands of miles, they very little say in quality or type of the drugs. This leaves most buyers with low quality and few options when it comes to drugs. The logistics and price of moving the drugs makes this problem a hard to solve. In digital black markets of the deep web, drugs are sold on a more individual basis and thus the consumer can act more on his presence. The competition of a global marketplace results in the best quality drugs being sold.</p>
 <p>More and more people from the traditional drug trade will switch and start buying online. The more and more they hear about it and start to understand it, they will start to flock. Besides, current users, the advantages of the deep web will open the drug trade to new users, that wouldn&#8217;t start buying drugs without the deep web. Nerdy people, who don&#8217;t have and can&#8217;t get the contacts, will find the deep web much more convenient. They extra protection the deep web offers will allow them to feel more comfortable with the process. They don&#8217;t need to know anybody, just how to use it. They might of been curious about drugs but obstacles stop them from trying. When they find about the deep web, their curiosity will reignite and seize the opportunity.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/continue/" rel="tag">continue</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/deepwebgrow/" rel="tag">DeepWebGrow</a> <a href="https://www.deepdotweb.com/tag/grow/" rel="tag">grow</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
-Updated: 2014-12-02<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-12-02
     

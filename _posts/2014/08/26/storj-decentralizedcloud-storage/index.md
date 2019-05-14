@@ -2,12 +2,11 @@
 title: "Storj &#8211; Decentralized Cloud Storage"
 ---
 
-6893 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cloud tag-decentralized tag-storage tag-storj
-Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+
+Posted by: 
+Zubair Muadh
 <span>August 26, 2014</span>
-    
-<a href="/2014/08/26/storj-decentralizedcloud-storage/#comments">1 Comment</a></span>
-</p>
+
 <p><strong>Who?</strong></p>
 <p><a href="http://storj.io/">Storj</a> is a decentralised cloud storage application. It was founded by Shawn Wilkinson (Lead Developer), Jim Lowry (Lead Advisor), Tome Boshevski (Lead Designer) and Josh Brandoff (Core Developer).</p>
 <p><strong>Why?</strong></p>
@@ -52,6 +51,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zub
 </ul>
 <p>The encryption method of SpiderOak could be argued as more secure than Storj due to its client-side encryption. Unlike Storj however SpiderOak isn’t backed by a network.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/cloud/" rel="tag">cloud</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/storage/" rel="tag">storage</a> <a href="https://www.deepdotweb.com/tag/storj/" rel="tag">storj</a></span> 
-Updated: 2014-08-26<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    
+
+Updated: 2014-08-26 
+

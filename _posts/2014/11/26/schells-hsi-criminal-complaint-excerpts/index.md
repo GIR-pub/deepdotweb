@@ -2,12 +2,9 @@
 title: "Schell&#8217;s HSI Criminal Complaint Excerpts"
 ---
 
-8449 post type-post status-publish format-standard has-post-thumbnail hentry  tag-complaint tag-hsi
 Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
 <span>November 26, 2014</span>
-    
-<a href="/2014/11/26/schells-hsi-criminal-complaint-excerpts/#respond">Leave a comment</a></span>
-</p>
+
 <p>So another <a title="Onymous: Durham Couple Indicted" href="http://www.deepdotweb.com/2014/11/21/onymous-durham-couple-indicted/">complaint is unsealed</a> and we have the chance once more to look at what the investigators are prepared to give up from their arsenal. The writing style of HSI is decidedly less informative and more to the point than how the FBI does things &#8211; its a little dry. It is not my place to say whether someone is guilty or not, I just calls &#8217;em likes I sees &#8217;em in terms of what information the government puts forward to support its case.</p>
 <p><strong>HSI spearheaded this investigation, Schell criminal complaint, page 1</strong></p>
 <p>Not a surprise &#8211; if you&#8217;ve been paying attention for any length of time now, HSI in coordination with the FBI and DEA has been running the majority of the &#8216;anti dark web&#8217; investigative activity for quite some time. Slightly surprising is that the deponent on this complaint is based in a Cali office, whereas there has been a decided leaning towards operations originating in the New York offices of most of these agencies. This leads me to surmise that whilst we may be looking at an investigation which potentially relates to the Omynous take-downs, it was running parallel from the main &#8216;dark market&#8217; them of those arrests; perhaps flowing from an initial USPS Inspector&#8217;s investigation.</p>
@@ -26,6 +23,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Alle
 <p>The Criminal complaint:<br/>
 <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/247639656/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_45128" frameborder="0"></iframe></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/complaint/" rel="tag">complaint</a> <a href="https://www.deepdotweb.com/tag/hsi/" rel="tag">hsi</a></span> 
-Updated: 2014-11-26<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    
+
+Updated: 2014-11-26

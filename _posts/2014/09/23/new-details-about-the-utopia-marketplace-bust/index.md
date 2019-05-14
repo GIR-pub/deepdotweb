@@ -2,12 +2,11 @@
 title: "New Details About the Utopia/BMR Busts"
 ---
 
-7190 post type-post status-publish format-standard has-post-thumbnail hentry  tag-assassin tag-sale
+
 Posted by: DeepDotWeb
 <span>September 23, 2014</span>
     
-<a href="/2014/09/23/new-details-about-the-utopia-marketplace-bust/#comments">2 Comments</a></span>
-</p>
+
 <p>This article was originally published on <a href="http://www.nrc.nl/next/van/2014/september/22/aangeboden-huurmoordenaar-1421020">this</a> website, and was translated for us by a DNM community member &#8211;  this article brings to light more info about the <a href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/">Utopia marketplace bust</a> and claims that these people are the same one who run Black Market Reloaded, is one of the arrested people might be Backopy (BMR admin)?</p>
 <p><span style="text-decoration: underline;"><strong>[Translation]</strong></span></p>
 <p><strong>&#8220;</strong>For Sale: Assassin<strong>&#8220;</strong></p>
@@ -36,7 +35,6 @@ Posted by: DeepDotWeb
 <p>The police chief still has a long way to go. On the deep web, hundreds of dealers are still offering drugs and weapons. “That’s right”, says Paulissen. “But you don’t know how many of those dealers are actually undercover agents.”</p>
 <p><span style="text-decoration: underline;"><strong>[/Translation]</strong></span></p>
 <p><strong>Article Source</strong>: http://www.nrc.nl/next/van/2014/september/22/aangeboden-huurmoordenaar-1421020</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/assassin/" rel="tag">assassin</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a></span> 
+
 Updated: 2014-09-23
     

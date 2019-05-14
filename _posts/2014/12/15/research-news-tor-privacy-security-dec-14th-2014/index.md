@@ -1,12 +1,11 @@
 ---
-title: "Research &#038; News in Tor, Privacy, &#038; Security – Dec 15th, 2014---
+title: "Research &#038; News in Tor, Privacy, &#038; Security – Dec 15th, 2014"
+---
 
-8643 post type-post status-publish format-standard has-post-thumbnail hentry  tag-14th tag-1779 tag-dec tag-news tag-privacy tag-research tag-security 
-Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+
+Posted by: Kiell
 <span>December 15, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/12/15/research-news-tor-privacy-security-dec-14th-2014/#comments">1 Comment</a></span>
-</p>
+
 <p>Tor Browser 4.0.2 has been <a href="https://blog.torproject.org/blog/tor-browser-402-released">released</a>. The new release fixes compiler bugs in Windows, ensures that cache entires are isolated by domain, and prevents user locale settings from being leaked by the Javascript engine.</p>
 <p>Tor Browser 4.5-alpha-2 is now <a href="https://blog.torproject.org/blog/tor-browser-45-alpha-2-released">out</a>. This version includes improvements to Torbutton&#8217;s circuit visualization feature, and removes a custom fix to the POODLE vulnerability, implementing Mozilla&#8217;s fix.</p>
 <p>Tails 1.2.1 has been <a href="https://blog.torproject.org/blog/tails-121-out">released</a>. The package contains routine updates to the Tor Browser (4.0.2) and Linux (3.16.7-1). Truecrypt has finally been disabled, and GnuPG is now configured in line with <a href="https://help.riseup.net/en/security/message-security/openpgp/best-practices">accepted best practices</a>.</p>
@@ -32,7 +31,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a
 <p>The payment service CHARGE Anywhere <a href="https://www.chargeanywhere.com/notice/_defaultmerchant.aspx">announced</a> that they have uncovered an attack against their network. The company discovered the malware on September 22, 2014, and have been taking time to perform a full investigation. The malware targets information that is sent during a payment card authorization request, which may include a cardholder&#8217;s name, account number, expiration date, and card verification code. The company reports that, “the format and method of connection for certain outbound messages enabled the unauthorized person to capture and ultimately then gain access to plain text payment card transaction authorization requests.” Any cards used at relevant merchants between November 5, 2009 and September 24, 2014 may have been affected.</p>
 <p>Researchers from Blue Coat Labs have <a href="https://www.bluecoat.com/security-blog/2014-12-09/blue-coat-exposes-">discovered</a> sophisticated malware that they believe was developed by a powerful adversary, possibly a well-resourced nation-state. The malware was first used against targets in Russia and other Eastern European countries, and later targeted “individuals in strategic positions: executives in important businesses such as oil, finance and engineering, military officers, embassy personnel and government officials.” The malware, which has been dubbed “Inception”, is delivered via emails containing infected attachments.</p>
 <p>In all attacks observed by Blue Coat, malware components have been embedded in Rich Text Format (RTF) files. The malware exploits two known RTF vulnerabilities, CVE-2014-1761 and CVE-2012-0158. Command and control is done through a Swedish cloud hosting platform (CloudMe.com), and the attackers have also created a proxy network composed of home routers, mostly located in South Korea. Once a machine is infected, the malware collects information about the device, including OS version, computer name, user name, user group membership, the process it is running in, locale ID’s, and system drive and volume information. The attackers also target mobile platforms, including Android, BlackBerry, and iOS. This malware records incoming and outgoing calls, saving them to an mp4 file. This information is then encrypted and sent to cloud storage via the WebDAV protocol.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/14th/" rel="tag">14th</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a>  </span> 
-Updated: 2014-12-15<a href="https://www.deepdotweb.com/author/kiell/" title="Posts by Kiell" rel="author">Kiell</a></strong></div>
-    
+
+Updated: 2014-12-15    

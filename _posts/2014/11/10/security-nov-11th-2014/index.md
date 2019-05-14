@@ -1,12 +1,11 @@
 ---
-title: "Research &#038; News in Tor, Privacy, &#038; Security – Nov 11th, 2014---
+title: "Research &#038; News in Tor, Privacy, &#038; Security – Nov 11th, 2014"
+---
 
-8147 post type-post status-publish format-standard has-post-thumbnail hentry  tag-11th tag-1779 tag-news tag-november tag-privacy tag-research tag-security 
-Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+
+Posted by: Kiell
 <span>November 10, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/10/security-nov-11th-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><strong>Tor Research</strong></p>
 <p>The Open Observatory of Network Interference (OONI) is currently <a href="https://blog.torproject.org/blog/ooni-bridge-reachability-study-and-hackfest">studying</a> reachability of bridges in countries that impose censorship. They are also studying how effective these countries are at preventing the use of pluggable transports. They are performing several tests. First is a Bridge reachability measurement, which attempts to build a Tor circuit to the bridge being tested. Next is a TCP connect measurement, which attempts a TCP connection to the bridge.</p>
 <p>They have compiled around a month’s worth of data that is publicly available for <a href="http://reports.ooni.nu/">download</a>.</p>
@@ -21,7 +20,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a
 <p>Google’s Android Security Team has released a <a href="http://googleonlinesecurity.blogspot.com/2014/11/introducing-nogotofaila-network-traffic.html">tool</a> that can be used for testing for vulnerabilities and misconfigurations in TLS/SSL libraries. The tool is dubbed “nogotofail” and is designed to work on multiple platforms, including Android, iOS, Linux, Windows, Chrome OS, and OS X.</p>
 <p>The &#8220;<a href="https://www.paloaltonetworks.com/resources/research/unit42-wirelurker-a-new-era-in-ios-and-os-x-malware.html">WireLurker</a>&#8221; trojan has been identified in the wild on iOS and OS X devices. According to a report published by Palo Alto Networks, the malware is included in unauthorized copies of iOS applications. Once a user downloads the application, a trojan is installed as a system daemon. Now, it waits until an iOS device is connected to the user&#8217;s computer. It then grabs sensitive information about the device, abusing the trusted pairing between the Mac and iOS devices. Jonathan Zdziarski, an iOS forensics expert, wrote, &#8220;The real issue is that the design of iOS&#8217; pairing mechanism allows for more sophisticated variants of this approach to easily be weaponized. While WireLurker appears fairly amateur, an NSA or GCHQ, or any other sophisticated attacker could easily incorporate a much more effective (and dangerous) attack like this.&#8221;</p>
 <p>A vulnerability called “<a href="http://www.macworld.co.uk/news/mac-software/swedish-hacker-finds-serious-vulnerability-in-os-x-yosemite-3583723/">Rootpipe</a>”, which effects OS X Yosemite and some earlier versions of OS X, was discovered by Emil Kvarnhammara, a security researcher from Sweden. The attack can be used to escalate user privileges on Yosemite and other versions of OS X, granting the user root access without the root password. The researcher contacted Apple about the vulnerability, and they agreed on a date for full disclosure of all details. At this time, no specific information is provided about the attack. A full report is expected to be published in January.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/11th/" rel="tag">11th</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/november/" rel="tag">november</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a>  </span> 
-Updated: 2014-11-10<a href="https://www.deepdotweb.com/author/kiell/" title="Posts by Kiell" rel="author">Kiell</a></strong></div>
-    
+
+Updated: 2014-11-10    

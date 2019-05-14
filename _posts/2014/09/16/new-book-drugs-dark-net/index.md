@@ -2,12 +2,10 @@
 title: "New Book Introduction: &#8220;Drugs on the Dark Net&#8221;"
 ---
 
-7104 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-net
+
 Posted by: DeepDotWeb
 <span>September 16, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/16/new-book-drugs-dark-net/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>Introduction by James Martin (The Author)</em></p>
 <p><em><a href="http://www.palgrave.com/page/detail/drugs-on-the-dark-net-james-martin/?K=9781137399045">Drugs on the Dark Net: How Cryptomarkets Are Transforming the Global Trade in Illicit Drugs</a></em>, explores the fascinating world of online drug trading. It is a non-technical book intended for both academics and non-specialist audiences, combining criminological analysis with original research gathered on the dark net. The primary focus is on cryptomarkets, online trading hubs which facilitate the sale and distribution of illicit drugs, as well as vast range of other black market goods and services.</p>
 <p><a href="/imgs/2014/09/drugsonthedarknetbook1.png"><img class="aligncenter  wp-image-7120" src="/imgs/2014/09/drugsonthedarknetbook1.png" alt="drugsonthedarknetbook" width="314" height="502" srcset="/imgs/2014/09/drugsonthedarknetbook1.png 400w, /imgs/2014/09/drugsonthedarknetbook1-188x300.png 188w" sizes="(max-width: 314px) 100vw, 314px"/></a></p>
@@ -18,7 +16,7 @@ Posted by: DeepDotWeb
 <p>The final chapter examines online drug trading from the perspective of law enforcement. The various challenges and tactical approaches associated with policing cryptomarkets are analysed, including specialised undercover operations, postal interdiction, surveillance and domestic evidence gathering and prosecution. Online drug traders are presented as significantly more challenging targets for law enforcement agencies when compared to those who conduct illicit transactions in-person. The broader strategic and ideological conflict between cryptomarket users and law enforcement agencies are also outlined, indicating serious long-term problems for prohibition agencies as online traders continue to grow and assume a greater proportion of the global drugs trade.</p>
 <p><em><a href="http://www.palgrave.com/page/detail/drugs-on-the-dark-net-james-martin/?K=9781137399045" target="_blank">Drugs on the Dark Net</a> </em>presents an accessible and rigorously researched academic case outlining the various complexities, as well as significant benefits associated with the rise of online drug trading. It also proposes a range of compelling reasons as to why cryptomarkets are likely to expand further in the future. Ultimately, the book argues that cryptomarkets present a more competitive, accountable and less violent alternative to the conventional trade in illicit drugs.</p>
 <p>Follow the links to order your copy from: <a href="http://www.palgrave.com/page/detail/drugs-on-the-dark-net-james-martin/?K=9781137399045" target="_blank">Palgrave</a> or <a href="http://www.amazon.com/Drugs-Dark-Net-Cryptomarkets-Transforming/dp/113739904X" target="_blank">Amazon</a>.</p>
-</div>
- <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> 
+
+
 Updated: 2014-09-16
     

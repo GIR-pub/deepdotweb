@@ -2,12 +2,11 @@
 title: "OpenBazaar: A Decentralized Alternative"
 ---
 
-6151 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-decentralized tag-openbazaar
-Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+
+Posted by: Zubair Muadh 
 <span>June 23, 2014</span>
     
-<a href="/2014/06/23/openbazaar-a-decentralized-alternative/#comments">4 Comments</a></span>
-</p>
+
 <p><a href="http://openbazaar.org/">OpenBazaar</a> (Github: https://github.com/OpenBazaar/OpenBazaar) is a spin-off of the Dark Market that is supported by the official Dark Market team going so far as to allow an OpenBazaar section on their online forums.</p>
 <p>OpenBazaaar utilises Bitcoin and Cryptography to compete with the likes of eBay, enabling pure Peer-Peer transactions without a middle manipulating the entire scheme for their benefit.</p>
 <p>Ricardian contracts, it’s a system of exchanging agreed amounts of wealth, though not wealth itself, it would be used to facilitate a progressive system. OpenBazaar’s relation Dark Market subjects OpenBazaar to some of the taboo of Online Market Places.</p>
@@ -32,7 +31,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zub
 <p>A surety bond is required by the arbitrary node from both the buyer and the seller. The surety bond is an amount of Bitcoin send from both the buyer and the seller and it’s held in the multisignature address and will be refunded when the trade is completed. The surety bond is alterable and the entire process is optional.</p>
 <p><strong>Ramifications of OpenBazaar</strong></p>
 <p>OpenBazaar could have through proving identities, a rating system, third party node and usage though Bitcoin addresses would remove any serious potential of scamming. This would create an international market through Bitcoin whilst simultaneously removing many of the fee’s associated with eBay, Amazons and the likes. With Bitcoin breaking borders and being used internationally OpenBazaar would be the market that caters to that global community.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/alternative/" rel="tag">alternative</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/openbazaar/" rel="tag">openbazaar</a></span> 
-Updated: 2014-06-23<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    
+
+
+Updated: 2014-06-23

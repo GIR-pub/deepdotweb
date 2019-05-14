@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin News Roundup: 11-28-14---
+title: "Bitcoin News Roundup: 11-28-14"
+---
 
-8481 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2481 tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>November 29, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/29/bitcoin-news-roundup-11-28-14/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>Covering the week&#8217;s biggest Bitcoin stories from around the web</em></p>
 <p><strong>Shopping</strong></p>
 <p>Bitcoin owners were able to use their cryptocurrency during the biggest shopping day of the year. As Chris Morris of <a href="http://www.nbcnews.com/tech/gift-guide/get-ready-bitcoin-black-friday-deals-n254851">NBC News</a> writes, Bitcoin Black Friday is now a major online shopping event. Two years ago, 50 merchants participated in the shopping event. That number grew to 600 in 2013 and was expected to reach 1,200 during this year&#8217;s shopping day, with merchants including Newegg, Amagi Metals, NameCheap, and Gyft. While Overstock did not create bitcoin-specific deals, customers can still take advantage of the retailer&#8217;s plethora of shopping deals through their online marketplace.</p>
@@ -20,7 +18,6 @@ Posted by: DeepDotWeb
 <p>The chief economist of Citi believes that bitcoin is the closest commodity to gold. Joon Ian Wong of <a href="http://www.coindesk.com/citi-chief-economist-bitcoin-closest-commodity-gold/">CoinDesk</a> reports that Willem Butler, in response to a referendum that would force the Swiss National Bank to hold a sizable portion of its assets in gold, determined that “Gold as an asset is equivalent to shiny bitcoin.” His comparison was based upon the fact that gold has a limited supply, lacks a “significant utility,” and must also be mined.</p>
 <p>Hollywood film sequel <em>Horrible Bosses 2</em>, starring the likes of Jason Bateman, Jamie Fox, Chris Pine, and Christoph Waltz, includes a Bitcoin reference. However, the cryptocurrency was cast in a negative light, according to Josiah Wilmoth of <a href="https://www.cryptocoinsnews.com/horrible-bosses-2-features-bitcoin-cameo/">CryptoCoins News</a>. The film reinforces the cryptocurrency&#8217;s negative stereotypes of being used for crime and its supposed anonymity. Recently, Bitcoin was also mentioned on HBO&#8217;s <em>The Newsroom</em>, during which an Atlantis World Media stockholder announced that he planned to sell his shares of the company to invest in the cryptocurrency. The character, Randy Lansing, was portrayed as a dull, uninspired young man with little to no ambition.</p>
 <p>The operator of the Kraken bitcoin exchange will assist with the disappeared bitcoins investigation while providing support during the investor repayment process. Takashi Mochizuki of <a href="http://blogs.wsj.com/moneybeat/2014/11/25/kraken-bitcoin-operator-to-help-liquidate-mt-gox/">The Wall Street Journal</a> believes that Payward Inc. should be met with approval from Mt. Gox creditors given the fact that Nobauki Kobayashi, who had overseen the failed exchanges liquidation, lacked the knowledge necessary to achieve their desired outcome.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/112814/" rel="tag">112814</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2014-11-29
     

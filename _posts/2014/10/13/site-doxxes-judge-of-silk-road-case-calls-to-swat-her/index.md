@@ -2,12 +2,10 @@
 title: "Site Doxx&#8217;es Judge of Silk Road Case &#8211; Calls To &#8220;Swat&#8221; Her"
 ---
 
-7363 post type-post status-publish format-standard has-post-thumbnail hentry  tag-case tag-deepweb tag-details tag-dox tag-judge tag-personal tag-posted 
+
 Posted by: DeepDotWeb
 <span>October 13, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/13/site-doxxes-judge-of-silk-road-case-calls-to-swat-her/#comments">10 Comments</a></span>
-</p>
+
 <p><span style="text-decoration: underline;"><strong>Update 26.10.14</strong></span>: Added comment from freeross.org: We strongly condemn the outrageous threats to Judge Forrest</p>
 <p>And the worst idea award for 2014 goes to the anonymous poster who created a page on (one of the) the Hidden Wiki(s), containing a full doxx (all personal details) of the United States District Court for the Southern District of New York judge Katherine B. Forrest, who is the judge of the Silk Road case &#8211; Claiming &#8220;she is unfairly ruining Ross Ulbricht’s life and chance for a fair trail&#8221; (which might be true as far as we know) and offering to the public to steal her ID, send her gifts in the mail and <a href="http://en.wikipedia.org/wiki/Swatting">swat</a> her house among some other threats to release even further personal details about her family members.</p>
 <p>Needless to say that this page <span style="text-decoration: underline;"><strong>is <span style="color: #ff0000; text-decoration: underline;">not</span> affiliated in any way with <a href="http://freeross.org/" target="_blank">freeross.org</a></strong></span><strong>. </strong><strong>As it was later noted in a <a href="http://freeross.org/we-condemn-the-outrageous-threats-to-judge-forrest/" target="_blank">blog post</a> on their site:</strong></p>
@@ -52,7 +50,6 @@ Posted by: DeepDotWeb
 </div>
 <p>========</p>
 <p>While its fine to argue if busting people like Ross is Ok or not or if he is innocent and is getting a fair trial, i &#8220;get the feeling&#8221; that posting such pages might cause much more damage and have no chance to in helping any real cause.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/details/" rel="tag">details</a> <a href="https://www.deepdotweb.com/tag/dox/" rel="tag">dox</a> <a href="https://www.deepdotweb.com/tag/judge/" rel="tag">judge</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/posted/" rel="tag">posted</a> </span> 
+
 Updated: 2014-10-13
     

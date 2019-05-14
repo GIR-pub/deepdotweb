@@ -2,12 +2,9 @@
 title: "Torcoin: New Altcoin Hopes To Incentivize People Into Running Tor Relays"
 ---
 
-6037 post type-post status-publish format-standard has-post-thumbnail hentry  tag-coin  coin
-Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
+Posted by: Doug Roberts </a></span>
 <span>June 18, 2014</span>
-    
-<a href="/2014/06/18/torcoin-new-altcoin-incentivize-running-tor-relays/#respond">Leave a comment</a></span>
-</p>
+
 <p>We all know how horribly slow the Tor network can be, and the reason for this is largely due to the lack of people running active relay nodes, which is currently done on a volunteer basis.</p>
 <p>Outside of a desire to contribute to improved functioning and security of one of the best anonymity tools in existence, there isn&#8217;t much of an incentive for people to run Tor relays.</p>
 <p>The problem many have been working on is how to compensate relay operators while retaining anonymity of those using Tor. And the solution may finally come from a new alternative digital currency that hopes to incentivize people into running Tor exit relays.</p>
@@ -29,8 +26,9 @@ Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Dou
 <p>Others have voiced more general concerns such as whether it&#8217;s a good idea to use monetary compensation to increase Tor relays, citing the research paper “A Fine is a Price,” as an example of how it might worsen the situation.</p>
 <p>Another open question for discussion &#8212; and according to Richardson, one of the most important questions &#8212; is: what will give TorCoin its value? Other than people who want to donate to Tor relays, who will purchase the coins, and will the altcoin generate enough interest to actually support trading?</p>
 <blockquote><p>What reason do people have to buy Dogecoin? Not much, beyond using it as a currency or speculating with it as an investment. I could see TorCoin working the same way</p></blockquote>
-<p>Said Richardson. <span style="color: #000000;">It&#8217;s a great idea on paper, and offering incentives to relay operators seems like a reasonable solution to the lack of Tor relays. It really comes down to whether the technology can withstand collusion while retaining anonymity, attract enough participation, and maintain a high enough value to successfully be exchanged for alternative currencies – questions that can truly be tested only in a live environment.</span></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/coin/" rel="tag">coin</a>  <a href="https://www.deepdotweb.com/tag/torcoin/" rel="tag">torcoin</a></span> 
-Updated: 2014-06-18<a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
+<p>Said Richardson:</p>
+
+> It&#8217;s a great idea on paper, and offering incentives to relay operators seems like a reasonable solution to the lack of Tor relays. It really comes down to whether the technology can withstand collusion while retaining anonymity, attract enough participation, and maintain a high enough value to successfully be exchanged for alternative currencies – questions that can truly be tested only in a live environment.
+
+Updated: 2014-06-18
     

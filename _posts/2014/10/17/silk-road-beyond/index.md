@@ -2,12 +2,9 @@
 title: "Silk Road And Beyond"
 ---
 
-7388 post type-post status-publish format-standard has-post-thumbnail hentry  
 Posted by: DeepDotWeb
 <span>October 17, 2014</span>
-    
-<a href="/2014/10/17/silk-road-beyond/#respond">Leave a comment</a></span>
-</p>
+
 <blockquote><p>I know many of you are freaking out. If this turns out to be true this is the end of the road as we know it.</p>
 <p>Most likely customers have nothing to worry about. We have to have faith that all incriminating evidence is kept highly encrypted. However, regardless, you won&#8217;t be busted for your small amounts of stuff. I hope you used pgp as everyone has been telling you.</p>
 <p>Vendors. Time to clean house. Delete anything incriminating you may have now. We trusted you with our information, now make sure it&#8217;s gone.</p>
@@ -27,7 +24,6 @@ Posted by: DeepDotWeb
 <blockquote><p>Silk Road is an ENTERPRISE that is just getting started. It could literally change the world as we know it. It is bigger than any one of us, and it is going to take the dedication and will of MANY talented people, a lot of luck, and RESOURCES to get from here to there. Do you want to see this thing go all the way and take the absolute piss out of the power mongers of this world? Do you want to give it every chance it needs to succeed? Why aren’t you telling me to raise the commission even further then? I don’t hear anyone refusing the commission break on high priced goods. I don’t hear anyone saying “don’t do that, you need it, you keep this whole thing going, we’re happy to do our part.”</p>
 <p>As a community, if we are going to survive, we need to adopt a LONG TERM vision. Getting the most out of this thing before it gets taken down is NOT going to bring us success. In that world, Silk Road will be a shooting star that burns out quickly and dies as little more than a dream, swallowed by the nightmare reality of an ever-expanding, all-powerful global oligarchy. Planning ahead and doing everything we can NOW to prepare for the war to come is the only way we are going to have a shot at this. We are still mostly ignored by our true enemies, but this incubation WILL NOT last forever.</p>
 <p>I don’t like writing this kind of stuff publicly because it taunts our enemies and might spur them into action, but I risk it because the context for what we are doing is too often lost in the day to day stuff that happens here and it needs to be put in from time to time. Silk Road NEEDS our support. It needs everything we have. The return on what we put into it will be immeasurable if we can get through the months and years ahead and gain a real foothold on the global stage. HELP ME GET US THERE!!! Do it for me, do it for yourself, do it for your families and friends, and do it for mankind.” &#8211; Dead Pirate Roberts</p></blockquote>
-</div>
-</span> 
+
 Updated: 2014-10-17
     

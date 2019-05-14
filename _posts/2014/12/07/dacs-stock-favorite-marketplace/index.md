@@ -2,12 +2,11 @@
 title: "DACs: Own Stock In Your Favorite Marketplace"
 ---
 
-7083 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dacs tag-favorite tag-stock
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+
+Posted by: Greg Miller
 <span>December 7, 2014</span>
-    
-<a href="/2014/12/07/dacs-stock-favorite-marketplace/#comments">7 Comments</a></span>
-</p>
+
+
 <p>Distributed Autonomous Companies (DACs) are part of the brand new blockchain 2.0 revolution. DACs are very similar to regular corporations, expect they work without humans and run autonomously on a network distributed all over the world. DACs can give profits to shareholders, hire employees and much more. Fully replacing the today&#8217;s corporation with the same computer code that gave bitcoin life.</p>
 <p>The same way the P2P currency, bitcoin, allowed currency to be transacted without gatekeepers to regulate and control the market. DACs are doing the same but for business structures and stocks. This could have amazing effects on the deep web. Due to the nature of the deep web, having proper financial instruments like stocks or corporations is very difficult. Such instruments require systems of checks to prevent fraud or the whole system is worthless. On deep web people stay anonymous at all costs, preventing things like stocks or corporations to exist. Up until now, you needed to know who other people involved but that is starting to change. DACs allow for individuals who don&#8217;t trust or know each other to own shares and govern a company.</p>
 <p>The deep web has been mimicking the clearnet in many ways and making it hard at times to distinguish which is, is which. Marketplaces have E-bay styled reviews about products that allow users to see what people thought of the product. Garms, mockingly styled like Google, allows you to advertise your product and for users to search the ever growing list of products. Crypt has been bringing crisp and beautiful graphics to the deep web. All of this is making the old difficult and behind deep web a thing of the past and putting it on par with the clearnet. But DACs, are efficient and anarchic answer to business finance and governance. Something that could bring the deep web to another level.</p>
@@ -43,7 +42,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>DACs need to also have a way of checking the revenue and assets of the company. That feature doesn&#8217;t exist yet and without there could be a lot of fraud. Shares are basically rights to a percentage of that company&#8217;s profit so without being to independently verify the income, shareholders could be robbed.</p>
 <p>Anonymity and security don&#8217;t seem to be keen interests of the developers of the various DACs. That is understandable when you are trying to get an idea off the ground but that provides challenges for deep web adoption. Further removing human actors and trust is must in order for DACs to be able to be used on the deep web.</p>
 <p>While these are the early days of this technology, it is moving along at a great speed and has massive potential to transform the deep web.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/dacs/" rel="tag">dacs</a> <a href="https://www.deepdotweb.com/tag/favorite/" rel="tag">favorite</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/stock/" rel="tag">stock</a></span> 
-Updated: 2014-12-07<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-12-07
     

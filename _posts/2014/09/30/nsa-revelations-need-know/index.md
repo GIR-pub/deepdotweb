@@ -1,12 +1,11 @@
 ---
-title: "NSA Revelations You Need To Know About---
+title: "NSA Revelations You Need To Know About"
+---
 
-7086 post type-post status-publish format-standard has-post-thumbnail hentry  tag-nsa tag-revelations
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller 
+
 <span>September 30, 2014</span>
-    
-<a href="/2014/09/30/nsa-revelations-need-know/#comments">6 Comments</a></span>
-</p>
+
 <p>The NSA is perhaps the biggest threat to the deep web. As the Snowden documents continue to be released, they have a tendency to all blend together and evoke the response “Whats new?” Though, with the risk of information overload, these NSA revelations are important for any deep web user.</p>
 <p><strong>NSA Elite Hacking Squad Is Inject Malware into Millions Of Computers</strong></p>
 <p>Tailored Access Operations (TAO), a elite squad of NSA hackers, in 2004 started revamping up its hacking efforts by hiring new hackers and developing new tools to infiltrate computers. 10 years later they have a massive worldwide network that is able to gather and store data of people who happened to be caught into the fray.</p>
@@ -25,7 +24,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p><strong>How To Get On The Terrorist Watchlist</strong></p>
 <p>The US&#8217;s terror watchlist has been surrounded in mystery but the document that contains the guidelines that various US agencies follow is declassified but access has remained difficult because of US officials attempts to keep it from public view. The online publication, The Intercept, published the document in whole on their website. The document revealed what can get you on the list.</p>
 <p>Finding specific actions or marker that will get you on the list is very hard task but the document still reveals the very important insight into what can get you on the list. The definitions are very vague and even expected crimes can get you on the list. The number thing that can be taken way from the document is that anyone they want to be, can be on the list. This makes the list very reminiscence of the list that the Soviet Union had political dissents.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/nsa/" rel="tag">nsa</a> <a href="https://www.deepdotweb.com/tag/revelations/" rel="tag">revelations</a></span> 
-Updated: 2014-09-30<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-09-30
     

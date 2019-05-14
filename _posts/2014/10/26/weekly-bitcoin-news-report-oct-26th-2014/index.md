@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin News Report – Oct. 26th, 2014---
+title: "Weekly Bitcoin News Report – Oct. 26th, 2014"
+---
 
-7498 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-26th tag-bitcoin tag-news tag-oct tag-report tag-weekly
 Posted by: DeepDotWeb
 <span>October 26, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/26/weekly-bitcoin-news-report-oct-26th-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>Providing the top Bitcoin news stories from around the web</em></p>
 <p>A well-renowned author, known for his writings on international money laundering and the pharmaceutical industry, has turned his attention to Bitcoin. Chris Matthews of <a href="http://fortune.com/2014/10/24/bitcoin-fraud-scam/">Fortune</a> writes that Jeffrey Robinson, in his new book <em>Bit Coin: The Naked Truth About Bitcoin</em>, argues that the cryptocurrency will end up being nothing more than a scam. While bitcoin was not originally conceived of a scam, Robinson believes it will be used to trick “innocents and bitcoin&#8217;s ideological backers out of millions.” Fortune&#8217;s interview with Robinson is available <a href="http://fortune.com/2014/10/24/bitcoin-fraud-scam/">here</a>.</p>
 <p>Moolah, a cryptocurrency exchange, has declared bankruptcy and almost $1.5 million of its bitcoin holdings have gone missing. Alex Hern of <a href="http://www.theguardian.com/technology/2014/oct/23/british-serial-entrepreneur-missing-bitcoin-apparently-stolen">The Guardian</a> also writes that Alex Green, the company&#8217;s founder and chief executive, has not been heard of since the company busted. Green also revealed in his last public communication that he was previously known by the name of Ryan Kennedy before changing his name. Additionally, he also revealed that Moolah&#8217;s parent company was “insolvent” as a result of a software bug.</p>
@@ -21,7 +19,6 @@ Posted by: DeepDotWeb
 <p>Massachusetts Institute of Technology students and faculty have been linked with beating the system ever since a Ben Mezrich book, <em>Bringing Down the House</em>, was released and turned into the film <em>21</em> in 2008. The true story of the MIT Blackjack Team featured brilliant young people and faculty developing unique ways to dominate the blackjack tables in Las Vegas for a large profit.</p>
 <p>What members of the school recently managed to pull off in the bitcoin trading arena, however, may have far lasting implications.</p>
 <p>Devavrat Shah, an MIT professor, has developed a way to predict bitcoin price fluctuations. As Rob Wile of <a href="http://fusion.net/story/23835/heres-how-to-predict-the-price-of-bitcoin/">Fusion</a> reports, Shah, along with recent graduate student Kang Zhang, made 2,872 trades over fifty days for an 89% return on investment. The process involved a Bayesian regression analysis, collecting 200 million datapoints from Okcoin.com to determine how prices move at specific intervals. Wile writes that the study showed that “the price movements often resembled patterns commonly found in stock price movements: triangle patterns, and head-and-shoulders patterns.”</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/26th/" rel="tag">26th</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/oct/" rel="tag">oct</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-10-26
     

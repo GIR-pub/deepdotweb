@@ -1,12 +1,10 @@
 ---
-title: "World Drug Report 2014: Drug Deals Multiply on the Dark Net---
+title: "World Drug Report 2014: Drug Deals Multiply on the Dark Net"
+---
 
-6336 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-dark tag-deals tag-multiply tag-net tag-report 
 Posted by: DeepDotWeb
 <span>July 4, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/04/world-drug-report-2014-drug-deals-multiply-dark-net/#comments">3 Comments</a></span>
-</p>
+
 <p><span class="meta_origin">Some more bullshit information  &#8211; on the good side, <a href="/2014/05/12/darknetmarkets-listing-count-is-booming-53917/">DarknetMarkets are booming</a> as we know:</span></p>
 <p><span class="meta_origin"><strong>Published in <a href="http://www.ipsnews.net/2014/07/illicit-drug-deals-multiply-on-the-dark-net/">IPS:</a></strong><br />
 </span></p>
@@ -47,7 +45,6 @@ Posted by: DeepDotWeb
 <p>“Incorporating postal inspectors, customs agents, and other agencies is vital to ensure that points in the supply chain could be more effectively cut off and make it more difficult for buyers to obtain products.”</p></blockquote>
 <p><strong>Source</strong>: http://www.ipsnews.net/2014/07/illicit-drug-deals-multiply-on-the-dark-net/</p>
 <p style="text-align: center;"><strong>End the Drug war &#8211; End the war on drug users &#8211; Offer Eduction &#8211; Expand Harm Reduction &#8211; Decriminalization! </strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/deals/" rel="tag">deals</a>  <a href="https://www.deepdotweb.com/tag/multiply/" rel="tag">multiply</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> 
+
 Updated: 2014-07-04
     

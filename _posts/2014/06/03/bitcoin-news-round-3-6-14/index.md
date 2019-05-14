@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin news round-up 3.6.14---
+title: "Bitcoin news round-up 3.6.14"
+---
 
-5881 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1667 tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>June 3, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/03/bitcoin-news-round-3-6-14/#respond">Leave a comment</a></span>
-</p>
+
 <p>Last week, Bitcoin crossed the $600 barrier for the first time since March 20 and is currently sitting at $660, gaining 4.7% in value over the past 24 hours, or 65% in the last month. Significant rises in value were spurred by announcements that Apple’s app store and DISH Network would start accepting the currency.</p>
 <p>The coin had suffered a gradual decline and bottomed out with lows of $360 in mid-April, but from 19<sup>th</sup> May, it has been on a strong <a href="http://www.coindesk.com/bitcoin-price-crosses-600-rising-34-one-month/">upward</a> trajectory.</p>
 <p>Bitcoin’s price growth was caused by a number of factors. Firstly, just as the value seemed to be settling for a short period around 26<sup>th</sup> May to 29<sup>th</sup> May, the coin made gains on news that US satellite service provider DISH Network will start <a href="http://www.coindesk.com/dish-becomes-worlds-largest-company-accept-bitcoin/">accepting</a> bitcoin payments later this year</p>
@@ -23,7 +21,6 @@ Posted by: DeepDotWeb
 <p>A positive development for the crypto currency saw bitcoin miner B.J. Guillot opening his run for Congress. Guillot disagrees with the IRS’ guidelines that consider bitcoin as property for federal tax purposes, meaning all virtual currency transactions are subject to capital gains and losses. To remedy this, he’s vying for a place as the regulator’s regulator and is accepting bitcoin donations to fund his race.</p>
 <p>Not all the week’s news was positive however, with a number of government moves that may slightly stunt the currency’s implementation. Poland is placing a 23% value-added <a href="http://www.coindesk.com/polish-tax-authority-bitcoin-mining-profits-subject-22-vat/">tax</a> on the sale of mined bitcoins after a Polish bitcoin miner asked the tax authority for guidance, assuming the coin was exempt as it does not have a material form, and is not considered a commodity. The new guidance may end voluntary reporting of bitcoin profits, and have a strengthening effect on the country’s black market.</p>
 <p>Argentina’s central bank (BCRA) also struck a glancing <a href="http://www.coindesk.com/argentine-central-bank-issues-warning-burgeoning-bitcoin-ecosystem/">blow</a> against the digital currency, issuing a warning that digital currencies are not legal tender and stating they have the potential to facilitate money laundering and illicit finance. Due to the Argentine Peso facing inflation rates of over 100%, Argentinians are opting to trade their fiat currency in for bitcoin. The trend in the country has seen a number of digital exchanges open as a result.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/3614/" rel="tag">3614</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2014-06-03
     

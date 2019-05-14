@@ -1,12 +1,11 @@
 ---
-title: "StealthCoin Unique Kind Take On Crypto-Currency Anonymity---
+title: "StealthCoin Unique Kind Take On Crypto-Currency Anonymity"
+---
 
-7330 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymity tag-cryptocurrency tag-kind tag-stealthcoin tag-unique
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>October 16, 2014</span>
     
-<a href="/2014/10/16/stealthcoin-unique-kind-take-crypto-currency-anonymity/#comments">9 Comments</a></span>
-</p>
+
 <p>Since Darkcoin started and tried to take on the challenge of crypto-currency anonymity, many more anonymity focused crypto-currencies have popped up &#8211; Cloakcoin, Anoncoin, BitcoinDark, Monero, and many more. While most have provided unique contributions to the advancement of crypto-currency anonymity, they have not been unique in their approaches. Everybody is looking at the same solutions &#8211; ring signatures, centralized mixers, etc. StealthCoin has broke this trend, and has taken a really unique approach to crypto-currency anonymity.</p>
 <p><strong>StealthCoin</strong></p>
 <p>Stealthcoin (XST) is a brand new crypto-currency, but they have been developing the coin a lot. Stealthcoin is the only proof of stake (POS) anonymity focused crypto-currency on the market. The coin has been integrated with Tor, the anonymous network, since the beginning. A simple, but very effective feature, and an obvious feature missing in a lot of coins. As of October 6, stealth addresses have also been included into the official StealthCoin wallet, making it one of the few coins providing blockchain analysis resistance (stealth addresses) and network analysis resistance (Tor anonymity network). Stealth addresses are temporary public addresses that are derived from a single hidden public address. It is considered good crypto-currency hygiene to create a new public address for each transaction to avoid transaction linkage and forfeit transaction anonymity. Doing this manually takes time and is a hassle, but stealth addresses do this automatically. No public address used by a stealth address scheme will be used again. If someone is looking at these transactions, they would see different addresses with no link to each other, but do you will feel and act if you had only one public address. StealthCoin&#8217;s integration of Tor and stealth addresses, while simple, provide effective and practical anonymity that isn’t a hassle.</p>
@@ -58,7 +57,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <li><a href="https://twitter.com/stealthcoin">Twitter </a></li>
 <li><a href="https://kiwiirc.com/client/irc.freenode.net/stealthcoin">IRC</a></li>
 </ul>
-</div>
-<a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/kind/" rel="tag">kind</a> <a href="https://www.deepdotweb.com/tag/stealthcoin/" rel="tag">stealthcoin</a> <a href="https://www.deepdotweb.com/tag/unique/" rel="tag">unique</a></span> 
-Updated: 2014-10-16<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-10-16
     

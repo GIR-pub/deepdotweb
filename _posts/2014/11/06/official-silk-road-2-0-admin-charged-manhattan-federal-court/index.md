@@ -1,12 +1,10 @@
 ---
-title: "Official: Silk Road 2.0 Admin Charged in Manhattan Federal Court---
+title: "Official: Silk Road 2.0 Admin Charged in Manhattan Federal Court"
+---
 
-7987 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous 2bust
 Posted by: DeepDotWeb
 <span>November 6, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/06/official-silk-road-2-0-admin-charged-manhattan-federal-court/#comments">7 Comments</a></span>
-</p>
+
 <p><strong>See all the posts related to this ongoing case</strong> &#8211;  <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk road Bust Tag</a></p>
 <p><strong>A press release was just posted on <a href="http://www.fbi.gov/newyork/press-releases/2014/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court">Fbi.gov</a>:</strong></p>
 <blockquote class="twitter-tweet" width="550">
@@ -33,7 +31,6 @@ Posted by: DeepDotWeb
 <p>The prosecution of this case is being handled by the Office’s Complex Frauds and Cybercrime Unit and Money Laundering and Asset Forfeiture Unit. Assistant United States Attorneys Serrin Turner, Timothy Howard, and Daniel Noble are in charge of the prosecution. Assistant United States Attorney Margaret Graham is in charge of the forfeiture aspect of the case. The charges contained in the Complaint are merely accusations, and the defendant is presumed innocent unless and until proven guilty.</p>
 <p>The criminal complaint for Blake Benthall:<br/>
 <iframe id="doc_1203" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/245744857/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-8m3pQkf8Y2cIgutYFADj&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="0.7727272727272727"></iframe></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a></span> 
+
 Updated: 2014-11-06
     

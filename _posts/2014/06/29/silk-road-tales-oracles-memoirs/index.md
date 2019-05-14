@@ -2,12 +2,9 @@
 title: "Silk Road Tales: Oracle&#8217;s Memoirs"
 ---
 
-6258 post type-post status-publish format-standard has-post-thumbnail hentry  tag-memoirs tag-oracle
 Posted by: DeepDotWeb
 <span>June 29, 2014</span>
-    
-<a href="/2014/06/29/silk-road-tales-oracles-memoirs/#comments">7 Comments</a></span>
-</p>
+
 <p style="text-align: center;"><strong>Take it for what you want in terms of truth and reliability, there are no guarentees here and we do not endorse / vouch or in anyway confirm or stand behind anything mentioned in this post &#8211; Its re posted here because its an interesting read and interesting description of the events, even if you consider this to be 100% fictional.</strong></p>
 <p>And back to the old Silk Road Drama&#8217;s again. When <a href="http://www.deepdotweb.com/?s=Oracle">Oracle</a>, a former silk road employee who was in charge of the  &#8220;Psy Ops&#8221; posted a 2  months ago on the hub that she will be posting her memoirs from the silk road time revealing the inside story behind most if the known silk road stories:</p>
 <blockquote><p>Hello fellow Hubbers, Oracle (from SR2) here.</p>
@@ -116,7 +113,6 @@ Posted by: DeepDotWeb
 <p>While I’m sure the SR2 team will make every attempt to discredit me and deny most everything here, this is for the reader to judge. Do I make sense? Does your gut say Im telling the truth? Thought so.</p>
 <p>Wake up DeepWeb, realize that the Silk Road brand is dead. Realize that every other market has some kind of scam of scheme being perpetrated by either the operators, moderator Prems, vendors or a combination of collusion amongst the above. Marketplaces are no longer being run by men with some form integrity. They’re being run as get rich quick schemes. And more importantly, allowing your money to be stolen, allowing your intelligence to be insulted, allowing your security to be compromised is in your own hands. Multi-sigs, decentralized, stick with trusted vendors, etc, whatever.. this is all up to you. But history repeats itself. And theres two things, only two things that you should learn from history: What doesn’t kill you makes you stronger, and always trust your gut.</p>
 <p>Oh, and here’s a final tidbit of&#8230;&#8230;  [ends &#8211; will be added if a full version is ever released]
-</div>
-<a href="https://www.deepdotweb.com/tag/memoirs/" rel="tag">memoirs</a> <a href="https://www.deepdotweb.com/tag/oracle/" rel="tag">oracle</a></span> 
+
 Updated: 2014-06-29
     

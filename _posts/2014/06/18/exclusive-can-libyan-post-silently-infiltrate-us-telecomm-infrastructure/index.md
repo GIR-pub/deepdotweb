@@ -2,45 +2,14 @@
 title: "Exclusive: Can the Libyan Post Silently Infiltrate the US telecom Infrastructure?"
 ---
 
-<article class="post-6083 post type-post status-publish format-standard has-post-thumbnail hentry  tag-exclusive tag-infiltrate tag-infrastructure tag-libyan tag-post tag-silently tag-telecomm post-listing">
-    
 
-Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb
+Posted by: DeepDotWeb
     
     
 <span>June 18, 2014</span>
-<span>in <a href="http://www.deepdotweb.com/category/articles/" title="View all posts in Articles" rel="category tag">Articles</a>, <a href="http://www.deepdotweb.com/category/deepdot-news/" title="View all posts in Featured" rel="category tag">Featured</a></span>
-    
-<span><a href="/2014/06/18/exclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure/#respond" title="Comment on Exclusive: Can the Libyan Post Silently Infiltrate the US telecom Infrastructure?">Leave a comment</a></span>
-</p>
-    
-<div class="wp-socializer-buttons clearfix">
-<span class="wpsr-btn">
-<!-- Start WP Socializer Plugin - Facebook Button -->
-<div class="fb-like" data-href="http://www.deepdotweb.com/2014/06/18/exclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure/" data-share="false" data-layout="button_count" data-show-faces="0" data-action="like" data-colorscheme="light"></div>
-<!-- End WP Socializer Plugin - Facebook Button -->
-</span>
-<span class="wpsr-btn">
-<!-- Start WP Socializer Plugin - Retweet Button -->
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal"  data-lang="en"  data-url="http://www.deepdotweb.com/2014/06/18/exclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure/" data-text="Exclusive: Can the Libyan Post Silently Infiltrate the US telecom Infrastructure? - "></a>
-<!-- End WP Socializer Plugin - Retweet Button -->
-</span>
-<span class="wpsr-btn">
-<!-- Start WP Socializer Plugin - +1 Button -->
-<div class="g-plusone" data-size="medium" data-href="http://www.deepdotweb.com/2014/06/18/exclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure/"></div>
-<!-- End WP Socializer Plugin - +1 Button -->
-</span>
-<span class="wpsr-btn">
-<!-- Start WP Socializer Plugin - LinkedIn Button -->
-<script type="IN/Share" data-url="http://www.deepdotweb.com/2014/06/18/exclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure/" data-counter="right"></script>
-<!-- End WP Socializer Plugin - LinkedIn Button -->
-</span>
-<span class="wpsr-btn">
-<!-- Start WP Socializer Plugin - StumbleUpon Button -->
-<su:badge layout="1"></su:badge>
-<!-- End WP Socializer Plugin - StumbleUpon Button -->
-</span>
-</div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p><strong>This is a guest post by a source who wish to remain anonymous :</strong></p>
+
+
+</span><p><strong>This is a guest post by a source who wish to remain anonymous :</strong></p>
 <p>As US regulators and the White House put more focus on US data security, we see new threat vectors which could shake the very infrastructure of telecommunications and, in effect, bypass the protocols of national security.</p>
 <p>Network providers and ISPs are facing <a href="http://www.pcworld.com/article/2363080/fcc-will-push-network-providers-on-cybersecurity-wheeler-says.html">increasing pressure</a> by the US Federal Communications Commission (FCC) to play their role in national security and undertake responsibility for the safety of newly implemented technologies.</p>
 <p>In a statement earlier this month, FCC Chairman, Tom Wheeler said, “The FCC cannot abdicate its responsibilities simply because the threats to national security and life and safety have begun to arrive via new technologies.”</p>
@@ -61,33 +30,8 @@ Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb
 <p>Overseas investments are beneficial for the US market, but when foreign investment jeopardizes national security, we see a new potential threat vector. Corporate acquisitions and control of the primary communication channels of a nation going under foreign control could reap a whole new level of havoc and to avoid this from happening, the concerned parties would have to see new provisions would need to be set in place.</p>
 <p>Data and National Security has never just been through technology, but also politics and corporate maneuvering.</p>
     
-<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><h3>Share and Enjoy</h3>
     
-<!-- Start WP Socializer - Social Buttons - Output -->
-<div class="wp-socializer 32px">
-<ul class="wp-socializer-opacity columns-no">
-<li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.deepdotweb.com%2F2014%2F06%2F18%2Fexclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure%2F&amp;t=Exclusive%3A+Can+the+Libyan+Post+Silently+Infiltrate+the+US+telecom+Infrastructure%3F" title="Share this on Facebook" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Facebook" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -330px; border:0;"/></a></li>
-    
-<li><a href="http://twitter.com/home?status=Exclusive%3A+Can+the+Libyan+Post+Silently+Infiltrate+the+US+telecom+Infrastructure%3F%20-%20http%3A%2F%2Fwww.deepdotweb.com%2F2014%2F06%2F18%2Fexclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure%2F%20" title="Tweet this !" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Twitter" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1386px; border:0;"/></a></li>
-    
-<li><a href="http://delicious.com/post?url=http%3A%2F%2Fwww.deepdotweb.com%2F2014%2F06%2F18%2Fexclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure%2F&amp;title=Exclusive%3A+Can+the+Libyan+Post+Silently+Infiltrate+the+US+telecom+Infrastructure%3F&amp;notes=This+is+a+guest+post+by+a+source+who+wish+to+remain+anonymous+%3A%0D%0A%0D%0AAs+US+regulators+and+the+White+House+put+more+focus+on+US+data+security%2C+we+see+new+threat+vectors+which+could+shake+the+very+infrastructure+of+telecommunications+and%2C+in+effect%2C+bypa" title="Post this on Delicious" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Delicious" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -132px; border:0;"/></a></li>
-    
-<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.deepdotweb.com%2F2014%2F06%2F18%2Fexclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure%2F&amp;title=Exclusive%3A+Can+the+Libyan+Post+Silently+Infiltrate+the+US+telecom+Infrastructure%3F&amp;source=Deep+Dot+Web+-+Meme+and+News+From+the+Other+side+of+the+Web&amp;summary=This+is+a+guest+post+by+a+source+who+wish+to+remain+anonymous+%3A%0D%0A%0D%0AAs+US+regulators+and+the+White+House+put+more+focus+on+US+data+security%2C+we+see+new+threat+vectors+which+could+shake+the+very+infrastructure+of+telecommunications+and%2C+in+effect%2C+bypa" title="Share this on LinkedIn" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="LinkedIn" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -693px; border:0;"/></a></li>
-    
-<li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.deepdotweb.com%2F2014%2F06%2F18%2Fexclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure%2F&amp;title=Exclusive%3A+Can+the+Libyan+Post+Silently+Infiltrate+the+US+telecom+Infrastructure%3F" title="Submit this to StumbleUpon" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="StumbleUpon" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1287px; border:0;"/></a></li>
-    
-<li><a href="/2014/06/18/exclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure/" onclick="addBookmark(event);" title="Add to favorites" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Add to favorites" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -0px; border:0;"/></a></li>
-    
-<li><a href="http://www.cloudflare.com/email-protection#8ab5fee5b7acf9ffe8e0efe9feb7cff2e9e6fff9e3fcefafb9cba1c9ebe4a1fee2efa1c6e3e8f3ebe4a1dae5f9fea1d9e3e6efe4fee6f3a1c3e4ece3e6fef8ebfeefX+the+US+telecom+Infrastructure%3F&body=This+is+a+guest+post+by+a+source+who+wish+to+remain+anonymous+%3A%0D%0A%0D%0AAs+US+regulators+and+the+White+House+put+more+focus+on+US+data+security%2C+we+see+new+threat+vectors+which+could+shake+the+very+infrastructure+of+telecommunications+and%2C+in+effect%2C+bypa%20-%20http://www.deepdotweb.com/2014/06/18/exclusive-can-libyan-post-silently-infiltrate-us-telecomm-infrastructure/" title="Email this" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Email" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -297px; border:0;"/></a></li>
-    
-<li><a href="http://www.deepdotweb.com/feed/rss/" title="Subscribe to RSS" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="RSS" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1221px; border:0;"/></a></li>
-</ul>
-<div class="wp-socializer-clearer"></div></div>
-<!-- End WP Socializer - Social Buttons - Output -->
-    
-    
-<a href="http://www.deepdotweb.com/tag/exclusive/" rel="tag">exclusive</a> <a href="http://www.deepdotweb.com/tag/infiltrate/" rel="tag">infiltrate</a> <a href="http://www.deepdotweb.com/tag/infrastructure/" rel="tag">infrastructure</a> <a href="http://www.deepdotweb.com/tag/libyan/" rel="tag">libyan</a> <a href="http://www.deepdotweb.com/tag/post/" rel="tag">post</a> <a href="http://www.deepdotweb.com/tag/silently/" rel="tag">silently</a> <a href="http://www.deepdotweb.com/tag/telecomm/" rel="tag">telecomm</a></span>				
-Updated: 2014-06-18<a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+Updated: 2014-06-18
     
     
 

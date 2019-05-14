@@ -2,12 +2,10 @@
 title: "Can Bitcoin&#8217;s Technology Change The Way We Vote?"
 ---
 
-5969 post type-post status-publish format-standard has-post-thumbnail hentry  tag-based tag-blockchain tag-system tag-voting
 Posted by: DeepDotWeb
 <span>June 15, 2014</span>
     
-<a href="/2014/06/15/can-bitcoins-technology-change-the-way-we-vote/#comments">2 Comments</a></span>
-</p>
+
 <p style="margin-bottom: 0in;">The concept of bitcoin as a currency is on trajectory to revolutionize the finance, banking and payment industries by shifting power back to the people, whose trust is placed in verifiable open-source code, rather than possibly corruptible humans with ulterior motives. And the main technology behind bitcoin – the blockchain – is set to forever shift the political paradigm in the same direction.</p>
 <p style="margin-bottom: 0in;">The voting process is notoriously prone to miscounted ballots, lost votes, low voter turnout, human error, machine error, manipulation and general corruption – and has been a public concern for centuries. On top of this, many feel that they can&#8217;t trust their elected officials, or feel misrepresented by them. All of which could be solved with blockchain voting technology.</p>
 <p style="margin-bottom: 0in;">With the invention of the internet came the real possibility of casting digital ballots from the comfort of your own home, or even establishing a direct democracy where every person has the option to vote on each issue. But so far, the biggest concern and prohibiting factor has been trust. Whether it be concerns related to hackers or lack of trust in the technology, there hasn&#8217;t been a good enough system developed to conduct widespread online voting.</p>
@@ -24,7 +22,6 @@ Posted by: DeepDotWeb
 <p style="margin-bottom: 0in;">The Liberal Alliance, a Danish political party, recently became the first of its kind to use the blockchain technology when conducting internal elections.</p>
 <p style="margin-bottom: 0in;">“Blockchain eliminates the need for trust, as the technology can operate autonomously without interference from humans, and it is also open source and transparent so that anyone can look under the hood and see what’s going on. It does not get more liberal – so it is ideal for e-voting,” explained Mikkel Freltoft Krogholm, a representative for the Liberal Alliance.</p>
 <p style="margin-bottom: 0in;">While a tried and tested solution to internet voting using blockchain technology has yet to be released, programmers and blockchain enthusiasts are hard at work developing what many believe will be the next step in global political evolution. Only time will tell whether such a system is supported by the general populace or will be allowed to exist by the powers that be.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/based/" rel="tag">based</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a> <a href="https://www.deepdotweb.com/tag/voting/" rel="tag">voting</a></span> 
+
 Updated: 2014-06-15
     

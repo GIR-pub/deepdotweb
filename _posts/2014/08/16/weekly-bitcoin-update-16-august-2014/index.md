@@ -1,12 +1,11 @@
 ---
-title: "Weekly Bitcoin Update – 16 August 2014---
+title: "Weekly Bitcoin Update – 16 August 2014"
+---
 
-6786 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-1779 tag-august tag-bitcoin tag-update tag-weekly
+
 Posted by: DeepDotWeb
 <span>August 16, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/08/16/weekly-bitcoin-update-16-august-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p>For the first time since May 2014, Bitcoin&#8217;s value has fallen below the $500 mark. As of 11:07PM EST on 15 August 2014, Bitcoin was valued at a price of $488.65. Pete Rizzo of <a href="http://www.coindesk.com/price-bitcoin-falls-500-lowest-level-since-may/">CoinDesk</a> writes that there appears to be no direct cause behind the loss in value. However, Michael J. Casey and Paul Vigna of <a href="http://blogs.wsj.com/moneybeat/2014/08/13/bitbeat-so-much-for-that-boring-bitcoin-market/">The Wall Street Journal</a>&#8216;s BitBeat section cite the US Consumer Financial Protection Bureau&#8217;s recent bulletin as a potential cause. The bureau&#8217;s report, titled “Risks to Consumers Posed by Virtual Currencies,” discusses, among other topics, how hackers and scams can make using Bitcoin and other cryptocurrencies a risky endeavour. The CFPB also notes that fewer protections are offered by virtual currency holders than by official banks or credit card providers.</p>
 <p>Ryan Whitwam of <a href="http://www.geek.com/chips/new-bitcoin-mining-chip-could-double-efficiency-1602179/">Geek.com</a> notes that a German startup has developed a chip that could double bitcoin mining efficiency. The new company, ASICrising, has stated they have developed a design for a mining chip that would only require 0.19 joules of energy to generate a single unit of Bitcoin computing power. The most efficiency application-specific integrated circuit (ASIC) on the market currently requires 0.37 joules to achieve the same goal.</p>
@@ -18,7 +17,6 @@ Posted by: DeepDotWeb
 <p>Thanks to its incorporation of Bitcoin as a payment method, Overstock now expects to see its earnings per share increase by four cents for fiscal year 2014. As Gertrude Chavez-Dreyfuss of <a href="http://www.reuters.com/article/2014/08/13/us-overstock-com-bitcoin-idUSKBN0GD21220140813">Reuters</a> reports, Overstock&#8217;s Bitcoin sales have exceeded that $2 million mark. CEO Patrick Byrne stated that he expects Bitcoin sales to exceed the $6 million to $8 million mark during the 2014 year, with an average of $15,000 in Bitcoin sales per day. However, by the end of the year, Byrne expects monthly Bitcoin sales to exceed $1 million.</p>
 <p>According to Lance Whitney at <a href="http://www.cnet.com/news/ebay-eyeing-bitcoin-use-for-its-payments-unit-report/">CNET</a>, eBay is also looking to incorporate Bitcoin payments into its PayPal Braintree payments unit. The division functions as a payment platform for startup companies such as Airbnb, OpenTable, and Uber, which respectively offer rental places, restaurant reservations, and car rides. eBay is currently considering Coinbase for its bitcoin transactions processing needs. However, no deals have been made as of yet and neither eBay nor PayPal would allow customers to use bitcoin as a direct payment option once the currency is adopted.</p>
 <p>Online marketplaces are not the only place where individuals can spend their Bitcoin. Pete Rizzo of <a href="http://www.coindesk.com/bitpagos-brings-bitcoin-8000-convenience-stores-ripio/">CoinDesk</a> reports that a total of 8,000 Argentinian convenience stores now sell Bitcoin to customers. Through Ripio, a Bitcoin brokerage service launched by BitPagos, cryptocurrency holders can use provide their Ripio account information at these stores to exchange their stored Bitcoins for pesosv or vice versa. BitPagos CEO Sebastian Serrano stated the company plans to expand their operations to other Latin American markets, including Venezuela.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-08-16
     

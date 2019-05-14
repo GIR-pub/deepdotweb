@@ -2,13 +2,10 @@
 title: "Senator Schumer: Calls for Renewed Crackdown on Dark Net Markets"
 ---
 
-7868 post type-post status-publish format-standard has-post-thumbnail hentry  tag-calls tag-crackdown tag-dark tag-net tag-renewed tag-schumer tag-senator">
-<div class="post-inner
+
 Posted by: DeepDotWeb
 <span>October 28, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/28/senator-schumer-calls-for-renewed-crackdown-on-dark-net-markets/#comments">3 Comments</a></span>
-</p>
+
 <p>As it was published in a <a href="http://www.schumer.senate.gov/record.cfm?id=356497&amp;" target="_blank">press release</a>:</p>
 <p><b>SCHUMER: IN RESPONSE TO NEW INVESTIGATION THAT FINDS ILLEGAL, ONLINE DRUG MARKET IS THRIVING &amp; INFILTRATING LONG ISLAND, SCHUMER CALLS FOR TOP TO BOTTOM DEPT. OF JUSTICE REVIEW OF HOW ‘DARK WEB’ DRUG SALES CONTINUE TO GROW – ALSO VOWS INCREASED FUNDING TO BETTER TARGET CYBER DRUG DEALERS </b></p>
 <p><b><i>According to Report, Long Island is Likely Home to Many Digital Drug Buyers &amp; Sellers and These Sales Have Doubled in Last Year– Schumer Calls on Feds to Crack Down on This Illegal Practice, Which Makes Illicit Drug Sales of Heroin, Cocaine, Steroids &amp; More, Easy to Complete &amp; Very Difficult to Track Schumer Vows to Push for Increased Funding for DOJ/DEA/FBI To Better Target Cyber Drug Deals; Even Though Practice is Illegal, Schumer Said Feds Clearly Need More Resources To Fight Cyber Drug Dealers Schumer Successfully Fought for Original Online Drug Bazaar – Silk Road – to Be Shut Down; Feds Clearly Must do More to Stop Copy Cat Websites From Reaching Long Islanders from Teenagers to Adults </i></b></p>
@@ -37,7 +34,6 @@ Posted by: DeepDotWeb
 <p>Sincerely,</p>
 <p>Charles E. Schumer</p>
 <p>United States Senator</p></blockquote>
-</div>
-<a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/crackdown/" rel="tag">crackdown</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/renewed/" rel="tag">renewed</a> <a href="https://www.deepdotweb.com/tag/schumer/" rel="tag">schumer</a> <a href="https://www.deepdotweb.com/tag/senator/" rel="tag">senator</a></span> 
+
 Updated: 2014-10-28
     

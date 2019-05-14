@@ -2,12 +2,9 @@
 title: "Mobile phones and Bitcoin adoption in Africa"
 ---
 
-7149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-adoption tag-africa tag-bitcoin tag-mobile tag-phones
-Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
+Posted by: Dennis Wafula
 <span>September 26, 2014</span>
-    
-<a href="/2014/09/26/mobile-phones-bitcoin-adoption-africa/#respond">Leave a comment</a></span>
-</p>
+
 <p>Africa has been recognized as the continent with the world’s fastest growing market for mobile phones. High mobile phone penetration, has spawned a myriad of opportunities for business due to the gadgets  providing multiple functions that enable internet connectivity, data and voice communication, transfer of photos/video and money.</p>
 <p><strong>Huge market </strong></p>
 <p>As financial services provision increasingly embrace more electronic transactions, The adoption of Bitcoin, a form of virtual currency,  is equally moving at par with the new development not only in the developed world but also in  the emerging markets. BItcoin platform rely on the Internet as the physical network for conducting financial transactions. Given that internet access has grown in Africa owing to use of smartphones, many people with access to internet via mobile phones stand a chance of adopting Bitcoin as a payment system.</p>
@@ -23,7 +20,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">De
 <p>The freedom of mobility brought by the mobile phone is replicated in Bitcoin use. Use of Bitcoin offers access to anyone, anywhere access to money. The taste of ‘freedom’ has already been acquired by potential users of Bitcoin in Africa courtesy of mobile phone use. Thus the ‘freedom’ aspect is set to drive the adoption of Bitcoin in Africa.</p>
 <p><strong>Conclusion </strong></p>
 <p>Just   like the exponential development of mobile money in Africa,   consumers are likely to embrace alternate currencies such as Bitcoin. This is because financial systems in many countries are in inefficient and charge small businesses and individual clients high service fees, challenges which Bitcoin and other digital currency are ready solutions.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/adoption/" rel="tag">adoption</a> <a href="https://www.deepdotweb.com/tag/africa/" rel="tag">africa</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/mobile/" rel="tag">mobile</a> <a href="https://www.deepdotweb.com/tag/phones/" rel="tag">phones</a></span> 
-Updated: 2014-09-26<a href="https://www.deepdotweb.com/author/denniswafula/" title="Posts by Dennis Wafula" rel="author">Dennis Wafula</a></strong></div>
+
+Updated: 2014-09-26
     

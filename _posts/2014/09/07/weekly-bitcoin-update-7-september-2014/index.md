@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin Update – 7 September 2014---
+title: "Weekly Bitcoin Update – 7 September 2014"
+---
 
-6970 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-september tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>September 7, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/07/weekly-bitcoin-update-7-september-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web </em></p>
 <p>Donna Leinwand Leger of <a href="http://www.usatoday.com/story/news/nation/2014/09/04/bitcoin-exchanger-charlie-shrem-pleads-guilty-to-silk-road-related-charges/15095129/">USA Today</a> reports that Charlie Shrem, the former chief executive officer of BitInstant.com, has plead guilty to assisting the sale of $1 million bitcoins on Silk Road, a web site which was used as a marketplace for contraband and drugs. Although Shrem is currently facing up to five years of prison, taking the plea deal helps him to avoid charges related to money laundering and potential violations of the Bank Secrecy Act. Silk Road dealer Robert Faiella also plead guilty to charges on Thursday.</p>
 <p>More and more Canadian employees are asking to receive their wages paid in bitcoin. According to Anthony Cuthbertson of <a href="http://www.ibtimes.co.uk/cryptocurrency-round-workers-want-wages-bitcoin-200-bitcoin-atms-worldwide-us-regulation-1463561">International Business Times</a>, Wagepoint, an Ontario-based firm, introduced a scheme to pay individuals in bitcoin last November. Since then, ten additional companies have implemented an option to pay employees in bitcoin.</p>
@@ -19,7 +17,6 @@ Posted by: DeepDotWeb
 <p><strong>Vox.com&#8217;s Mishap</strong></p>
 <p>Vox.com recently encountered the conflict of interest that comes with simultaneously investing and writing about bitcoin. According to Erik Wemple <a href="http://www.washingtonpost.com/blogs/erik-wemple/wp/2014/09/05/vox-regrets-pro-bitcoin-piece/">The Washington Post</a>, Vox senior editor Timothy B. Lee&#8217;s <a href="http://www.vox.com/2014/9/5/6086171/why-im-investing-in-bitcoins">posting</a> both outlined his decision to invest in the cryptocurrency while highlighting why readers may be interested in making a cryptocurrency investment themselves. This posting caused a rather vocal backlash on social media, where readers argued that the article could be seen as attempting to inflate the value of bitcoin, which would in turn improve the financial benefits of Lee&#8217;s own investment.</p>
 <p>Vox editor Ezra Klein, a regular contributor to Bloomberg News and The Rachel Maddow Show on MSNBC, <a href="http://www.vox.com/2014/9/5/6110897/we-made-the-wrong-call-on-buying-bitcoins">stated</a> that allowing Lee to invest in the cryptocurrency was the wrong decision. Klein stated that he had an issue categorizing bitcoin investments, but decided to allow the publishing of the story based upon the fact that “buying, holding and selling Bitcoins is, itself, part of the Bitcoin story.” Upon realizing the conflict of interest in Lee&#8217;s story, Klein stated the posting of the article was his fault and apologized. Lee will be selling the bitcoins he purchased and any proceeds from the sale will be going to charity.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-09-07
     

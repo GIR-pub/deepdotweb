@@ -2,12 +2,9 @@
 title: "10 Informative Posts From /r/DarkNetMarkets"
 ---
 
-7237 post type-post status-publish format-standard has-post-thumbnail hentry  tag-545 tag-informative tag-posts tag-rdarknetmarkets tag-top
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>October 29, 2014</span>
-    
-<a href="/2014/10/29/top-10-informative-posts-rdarknetmarkets/#comments">6 Comments</a></span>
-</p>
+
 <p>New to darknet markets? You heard about that pirate drug lord getting busted, and you want learn more and explore the seedier side of the web? Check out these 10 posts from <a href="http://www.reddit.com/r/darknetmarkets" target="_blank">/r/darknetmarket</a>, They will help learn what you need to know.</p>
 <p><strong>1.  <a href="http://www.reddit.com/r/DarkNetMarkets/comments/231wk3/on_posting_to_reddit_via_tor/">On posting to reddit via TOR</a></strong></p>
 <p>Besides market forums, reddit is a great source for information, and interacting with the community. Law enforcement know this, and can use your presence on subreddits like /r/darknetmarkets against you. It is important to keep up your security while surfing the frontpage of the internet, and this a great post that shows you how to tailor your security for reddit.</p>
@@ -30,7 +27,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p><strong>10. <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1ypdq4/important_missing_coins_deposit_not_showing/">PSA Regarding Usernames/Passwords</a></strong></p>
 <p>A member of the deep web community decided to share some wisdom on a recent string of thefts among numerous users on multiple markets. While people were quick to blame a perhaps corrupt marketplace administration, he explored the possibility it could of been bad password hygiene by users affected by the recent hacks of Sheep Marketplace and TorMarketplace. The Op’s post, as well as the discussion in comments that follows it explains the importance and tips of password and username hygiene. While it is a very basic subject, it is one often forgotten making it a good for every deep web user to refamiliarize themselves with.</p>
 <p>Do you know about other great threads or sources of dark market info? leave us a comment below.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/10/" rel="tag">10</a> <a href="https://www.deepdotweb.com/tag/informative/" rel="tag">informative</a> <a href="https://www.deepdotweb.com/tag/posts/" rel="tag">posts</a> <a href="https://www.deepdotweb.com/tag/rdarknetmarkets/" rel="tag">rdarknetmarkets</a> <a href="https://www.deepdotweb.com/tag/top/" rel="tag">top</a></span> 
-Updated: 2014-10-29<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-10-29
     

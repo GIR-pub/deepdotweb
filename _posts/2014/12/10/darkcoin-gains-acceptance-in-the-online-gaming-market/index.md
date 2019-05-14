@@ -1,12 +1,11 @@
 ---
-title: "Darkcoin Gains Acceptance In The Online Gaming Market---
+title: "Darkcoin Gains Acceptance In The Online Gaming Market"
+---
 
-8582 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acceptance tag-darkcoin tag-gains tag-gaming tag-online
+
 Posted by: DeepDotWeb
 <span>December 10, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/12/10/darkcoin-gains-acceptance-in-the-online-gaming-market/#comments">1 Comment</a></span>
-</p>
+
 <p><em>A press <a href="https://www.darkcoin.io/news/darkcoin-gains-acceptance-in-the-online-gaming-market/" target="_blank">release</a> from Darkcoin.io</em> &#8211; Online gambling and sports betting is a thriving industry that seem especially suited for cryptocurrencies. With the emergence of the internet, the gaming industry went online, it seemed natural that people could now interact with each other online. Since placing bets is more like establishing a contract between two parties for a specific outcome on a game and with no physical asset tied to the transaction, it was a perfect match for the internet. Big names like <i>Bet365</i> and <i>William Hill </i>brought online gaming mainstream.</p>
 <p>But even though the gaming was virtual, it still required the use of traditional fiat money to function. This means wire transfers with long wait times and excessive bank fees to top up your account. Then waiting to get your winnings back on your personal bank account and all the regulations and bureaucracy that involves traditional money. It just doesn’t suit the age we live in.</p>
 <p>Along came the crypto currency revolution with Bitcoin leading the charge. Virtual money for online gambling is a far better fit, yet something is still missing. Bitcoin is simply not private enough and regulators and online Bitcoin wallet services are starting to discriminate users that like to gamble online by blocking their accounts. <i>Coinbase</i> has been confirmed to be denying service if the coins the users are transacting with originated from online betting sites, the only way they can know this is through blockchain analysis. In a way this makes Bitcoin even less private than traditional fiat with which you couldn&#8217;t make this sort of analysis as easily.</p>
@@ -23,7 +22,6 @@ Posted by: DeepDotWeb
 <p><b>3. How easy it was to integrate Darkcoin to your platform?</b></p>
 <p>“It was extremely quick and easy for us to integrate Darkcoin because its core wallet is utilizing the same interface that we already had in place to accept Bitcoins. We have found the Darkcoin Core wallet to be well established and reliable and ready for prime time use. We didn&#8217;t even had to purchase Darkcoins as we already held a stock from our past investment in it so overall the integration was a real instant.”</p>
 <p>This comes only a while after we reported that <a title="Permalink to Darkcoin Now Accepted on Minor Dark Net Markets" href="http://www.deepdotweb.com/2014/10/21/darkcoin-bow-accepted-minor-dark-net-marketplaces/" rel="bookmark">Darkcoin is Now Accepted on 2 Minor Dark Net Markets</a>.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/acceptance/" rel="tag">acceptance</a> <a href="https://www.deepdotweb.com/tag/darkcoin/" rel="tag">darkcoin</a> <a href="https://www.deepdotweb.com/tag/gains/" rel="tag">gains</a> <a href="https://www.deepdotweb.com/tag/gaming/" rel="tag">gaming</a> </span> 
+
 Updated: 2014-12-10
     

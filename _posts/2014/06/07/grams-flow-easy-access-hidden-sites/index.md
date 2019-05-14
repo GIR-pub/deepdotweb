@@ -2,12 +2,9 @@
 title: "Grams Flow: Easy access to Hidden Sites"
 ---
 
-5909 post type-post status-publish format-standard has-post-thumbnail hentry  tag-access tag-easy tag-flow tag-grams tag-sites
 Posted by: DeepDotWeb
 <span>June 7, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/07/grams-flow-easy-access-hidden-sites/#comments">3 Comments</a></span>
-</p>
+
 <p class="text-muted">Another nice tool from Grams! (Can be accessed here: http://grams7enufi7jmdl.onion/flow  &amp;  http://gramsflow.com)</p>
 <p class="text-muted">Grams flow allows you to easily get to hidden sites with out having to remember the long and random .onion address.  Sites Flow uses keywords or &#8220;flow-words&#8221; to redirect you from a simple clearnet address to some of your favorite and most used onion sites. It is very simple, Just go to:</p>
 <p class="text-muted"><span style="text-decoration: underline;"><strong>http://gramsflow.com/<i>flow-word</i> </strong></span></p>
@@ -101,9 +98,6 @@ Posted by: DeepDotWeb
 <p>Make sure to visit http://grams7enufi7jmdl.onion/flow</p>
 <p>And keep yourself updated with new flow words!</p>
 </div>
-</div>
-</div>
-</div>
-<a href="https://www.deepdotweb.com/tag/access/" rel="tag">access</a> <a href="https://www.deepdotweb.com/tag/easy/" rel="tag">easy</a> <a href="https://www.deepdotweb.com/tag/flow/" rel="tag">flow</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a>  <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a></span> 
+
 Updated: 2014-06-07
     

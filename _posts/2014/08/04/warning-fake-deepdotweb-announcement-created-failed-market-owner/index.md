@@ -2,12 +2,9 @@
 title: "Warning: Fake &#8220;DeepDotWeb Announcement&#8221; By a Failed Market Owner"
 ---
 
-6698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-announcement tag-created tag-deepdotweb tag-failed tag-fake tag-owner 
 Posted by: DeepDotWeb
 <span>August 4, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/08/04/warning-fake-deepdotweb-announcement-created-failed-market-owner/#comments">6 Comments</a></span>
-</p>
+
 <p>One of the biggest Dark Net Market fails ever, Cantina market, is planning a comeback, you can read the background here:</p>
 <ul>
 <li><a title="Permalink to Cantina Marketplace PWND: Admin Password was: “Password1″ ?!" href="http://www.deepdotweb.com/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/" target="_blank" rel="bookmark">Cantina Marketplace PWND: Admin Password was: “Password1″ ?!</a></li>
@@ -75,7 +72,7 @@ Posted by: DeepDotWeb
 </div>
 </div>
 <h3 style="text-align: center;"><span style="color: #ff0000;"><strong>Avoid at all costs!</strong></span></h3>
-</div>
-<a href="https://www.deepdotweb.com/tag/announcement/" rel="tag">announcement</a> <a href="https://www.deepdotweb.com/tag/created/" rel="tag">created</a> <a href="https://www.deepdotweb.com/tag/deepdotweb/" rel="tag">deepdotweb</a> <a href="https://www.deepdotweb.com/tag/failed/" rel="tag">failed</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a></span> 
+
+
 Updated: 2014-08-04
     

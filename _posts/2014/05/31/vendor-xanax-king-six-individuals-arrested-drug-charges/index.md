@@ -2,12 +2,9 @@
 title: "Vendor &#8220;Xanax King&#8221;: Six Individuals Arrested on Drug Charges"
 ---
 
-5852 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-individuals tag-king tag-vendor tag-xanax
 Posted by: DeepDotWeb
 <span>May 31, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/05/31/vendor-xanax-king-six-individuals-arrested-drug-charges/#comments">2 Comments</a></span>
-</p>
+
 <p><strong>As it was published in a press release from the <a href="http://www.justice.gov/dea/divisions/sf/2014/sf053014.shtml">DEA</a>:</strong></p>
 <p><strong>MAY 30 (OAKLAND, Calif.)</strong> –An eleven-count federal Indictment charging nine people with participation in a conspiracy to manufacture and distribute Xanax pills and other drugs was returned by the Grand Jury on May 22, 2014, and unsealed today in federal court, announced United States Attorney Melinda Haag; Drug Enforcement Administration Special Agent in Charge Jay Fitzpatrick; Internal Revenue Service, Criminal Investigation, Special Agent in Charge José M. Martinez; U.S. Postal Inspection Service, Inspector in Charge Rafael E. Nunez; U.S. Food and Drug Administration Office of Criminal Investigations, Special Agent In Charge Lisa Malinowski; and U.S. Immigration and Customs Enforcement’s (ICE) Homeland Security Investigations (HSI) Acting special Agent in Charge Tatum King.</p>
 <p><a href="http://www.justice.gov/dea/divisions/sf/2014/sf053014.pdf">View a list</a> of the Defendants and the charges.</p>
@@ -19,6 +16,6 @@ Posted by: DeepDotWeb
 <p>Kevin Barry and Katie Medearis are the Assistant U.S. Attorneys who are prosecuting the case with the assistance of Assistant U.S. Attorney David Countryman of the Asset Forfeiture Unit. The prosecution is the result of an investigation by the DEA, assisted by IRS Criminal Investigations, the U.S. Postal Inspection Service, the U.S. Food and Drug Administration Office of Criminal Investigations, U.S. Customs and Border Protection, Homeland Security Investigations, the Concord Police Department, the Martinez Police Department, the Pittsburg Police Department, the Contra Costa County Sheriff’s Office, the South San Francisco Police Department, the Oakland Police Department, the Oakland School Police Department, the Livermore Police Department, the Walnut Creek Police Department, the San Ramon Police Department, and the Pleasant Hill Police Department.</p>
 <p>This case is the product of an extensive investigation by the Organized Crime Drug Enforcement Task Force, a focused multi-agency, multi-jurisdictional task force investigating and prosecuting the most significant drug trafficking organizations throughout the United States by leveraging the combined expertise of federal, state and local law enforcement agencies.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a>  <a href="https://www.deepdotweb.com/tag/individuals/" rel="tag">individuals</a> <a href="https://www.deepdotweb.com/tag/king/" rel="tag">king</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> 
+
 Updated: 2014-05-31
     

@@ -2,12 +2,9 @@
 title: "Mining Cryptocurrency With A Free Cloud Botnet, Why Not?"
 ---
 
-6739 post type-post status-publish format-standard has-post-thumbnail hentry  tag-botnet tag-cloud tag-cryptocurrency tag-free tag-mining
-Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ </a></span>
+Posted by: iBurnEZ </a></span>
 <span>August 8, 2014</span>
-    
-<a href="/2014/08/08/mining-cryptocurrency-free-cloud-botnet/#comments">3 Comments</a></span>
-</p>
+
 <p>Is it possible to mine cryptocurrency for free? According to security researchers Rob Ragan and Oscar Salazar, undoubtedly yes. They have kindly released the tools they used to sign up and exploit cloud services offering free accounts on Github But if your interested in attempting this experiment yourself you better act quickly, the duo have also released defense software designed to detect and defend against such attacks.</p>
 <p>At <a href="https://www.blackhat.com/us-14/" target="_blank">Black Hat in Las Vegas</a>, security researchers Ragan and Salazar demonstrated how to create an automated email creating and account sign up process to create a cloud botnet, then how the botnet could be monetized. To host their automated email applications Ragan and Salazar used Google App Engine.</p>
 <p>There are some basic flaws in the account sign up process for many cloud services. Ragan and Salazar identified 150 cloud services offering free accounts with varying types of account verification and programming language support. Of these 150 clouds services Ragan and Salazar identified 66% who only required email confirmation to verify the sign up process. Voile ah, they had their targets.</p>
@@ -33,6 +30,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ
 <p><span style="text-decoration: underline;">Link to the cloudbot tools git hub</span>:<br />
 <a href="https://github.com/BishopFox/anti-anti-automation" target="_blank">https://github.com/<wbr />BishopFox/anti-anti-automation</a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/botnet/" rel="tag">botnet</a> <a href="https://www.deepdotweb.com/tag/cloud/" rel="tag">cloud</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/mining/" rel="tag">mining</a></span> 
-Updated: 2014-08-08<a href="https://www.deepdotweb.com/author/iburnez/" title="Posts by iBurnEZ" rel="author">iBurnEZ</a></strong></div>
-    
+
+Updated: 2014-08-08

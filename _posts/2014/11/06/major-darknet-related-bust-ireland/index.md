@@ -2,12 +2,9 @@
 title: "Operation Onymous: Darknet Related Bust In Ireland"
 ---
 
-7956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-darknet tag-ireland tag-major tag-operation-onymous 2bust
 Posted by: DeepDotWeb
 <span>November 6, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/06/major-darknet-related-bust-ireland/#comments">1 Comment</a></span>
-</p>
+
 <p><strong>Update 2:  Busts confirmed &#8211; Silk Road 2 seized And other markets seized -See all the posts related to this ongoing case –  <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk road Bust Tag</a></strong></p>
 <p><strong>Update</strong>: Trying to verify the connection to several markets being down at this time</p>
 <p>Its is not yet clear who is the vendor that was arrested but it was just published in <a href="http://www.rte.ie/news/2014/1106/657346-drugs/" target="_blank">irte.ie</a> that the Gardaí (the police force of Ireland) raided an internet drug distribution center in Dublin &#8220;using the encrypted network Darknet&#8221; (Tor network?) and seized almost €200,000 worth of cannabis, ecstasy and LSD.</p>
@@ -32,6 +29,6 @@ Posted by: DeepDotWeb
 <blockquote><p>“The fact that such a significant vendor has been arrested in the presence of an encrypted but open computer with address lists for customers all over the world will be of significant interest to many global law enforcement agencies who specialise in Darknet investigations,” the Garda statement concluded.</p></blockquote>
 <p>We will follow and update as this story unfolds.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/ireland/" rel="tag">ireland</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a></span> 
+
 Updated: 2014-11-06
     

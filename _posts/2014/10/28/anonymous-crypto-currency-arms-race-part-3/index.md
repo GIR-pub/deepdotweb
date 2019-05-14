@@ -1,13 +1,12 @@
 ---
-title: "Anonymous Crypto-currency Arms Race Part 3---
+title: "Anonymous Crypto-currency Arms Race Part 3"
+---
 
-7264 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-arms tag-armsrace tag-cryptocurrency tag-race">
-<div class="post-inner
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+
+Posted by: Greg Miller
 <span>October 28, 2014</span>
     
-<a href="/2014/10/28/anonymous-crypto-currency-arms-race-part-3/#respond">Leave a comment</a></span>
-</p>
+
     
 <p><em>All the parts are available in the <a href="http://www.deepdotweb.com/tag/ArmsRace/">Armsrace Tag</a>  – Once published</em></p>
 <p>It takes much more than a solid protocol to become a successful anonymous crypto-currency. Many of these schemes require large adoption of the coin, in order to work. Plus, merchant adoption, good press, and a solid developers are key elements. Here are the current top players in the space.</p>
@@ -54,7 +53,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>The coins lacking market cap probably has very little to do with the technology behind the coin. It has a really good dev team who has a track history getting things done. Marketing for this coin is at poor, at best. It really is non-existent. Anoncoin has gotten very little press, and their blog is not regularly updated. Important, and basic info about the coin is harder to find, than it should be. Despite that, its devs are pretty active on reddit, and IRC, mustering a strong community. While it has a core group of users who truly believe in the coin, it is not too friendly to the mildly interested new user. A greater focusing on marketing can take this coin from position 30 on coinmarketcap.com’s list, to 20 or 15 easily because the technology and dev team is very solid.</p>
 <p><strong>The Arms Race</strong></p>
 <p>Who will win these arms race? That is left up to the market to decide, but what we seeing from this is a real market emerge for anonymous crypto-currency. This competition has resulted in many innovations in crypto-currency anonymity, and is bringing these ideas to life. These currencies are making a future of financial freedom, and privacy possible.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/armsrace/" rel="tag">ArmsRace</a> <a href="https://www.deepdotweb.com/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/race/" rel="tag">race</a></span> 
-Updated: 2014-10-28<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-10-28
     

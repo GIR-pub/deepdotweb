@@ -1,12 +1,10 @@
 ---
-title: "Doxbin’s Nachash On Operation Onymous (P.1)---
+title: "Doxbin’s Nachash On Operation Onymous (P.1)"
+---
 
-8113 post type-post status-publish format-standard has-post-thumbnail hentry  tag-nashcashtag tag-operation-onymous 2bust
 Posted by: <a href="https://www.deepdotweb.com/author/nealrauhauser/" title="">Neal Rauhauser </a></span>
 <span>November 11, 2014</span>
-    
-<a href="/2014/11/11/doxbins-nachash-operation-onymous-1/#comments">3 Comments</a></span>
-</p>
+
 <p><strong>Second part avilable at &#8211; <a href="http://www.deepdotweb.com/tag/nashcashtag/">#Nashcash Tag</a> (After publishing) &#8211; Read the other posts related to <a href="http://www.deepdotweb.com/tag/silkroad2bust/" target="_blank">Operation Onymous Here</a></strong></p>
 <p>Among of Friday night chatter regarding Operation Onymous I noticed that doxbin was among the sites that had gone missing. If doxbin is new to you, this was a site just for dox, but it’s closely associated with Encyclopedia Dramatica. After checking to make sure that wasn’t a troll I decided to track down the particulars, because nachash is basically the Richard B. Riddick of the internet. I figured if anyone had some insight into what actually happened, it would be him &#8211; a couple of years ago nachash shared that his motivation for taking the site over from the original operator was so he could hone his methods of protecting onions in the most difficult environment imaginable.</p>
 <p><a href="http://twitter.com/loldoxbin">@loldoxbin</a> and <a href="http://twitter.com/ioerror">@ioerror</a>, Jacob Applebaum, were publicly talking about logs Friday night. This later popped up as a long post on the tor-dev list &#8211; a 1,300 word writeup with an onion address containing the logs, the source of the site, and the details on the work nachash did to secure the system.</p>
@@ -39,6 +37,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/nealrauhauser/" title="">N
 <p>The Tor Project blog post closed with advice to concerned hidden service operators. The attacks being used were based on resource exhaustion, with the implicit advice being more ram and more cores are a cheap insurance policy. The other notable suggestion was the manual selection of the guard node for your hidden service. This is another box to register and fund with the same stealth as a server hosting a hidden service.</p>
 <p>Taking a step back from the technical details, Tor is not a cloak of invisibility, it’s a piece of software with network and cryptographic features. Both of these offer an attack surface for a motivated intruder. The lesson for site operators is simple: What happens when a fault in Tor exposes your server? If your answer is a deer in headlights look you need to leave this work to others.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/nashcashtag/" rel="tag">nashcashtag</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a></span> 
-Updated: 2014-11-11<a href="https://www.deepdotweb.com/author/nealrauhauser/" title="Posts by Neal Rauhauser" rel="author">Neal Rauhauser</a></strong></div>
-    
+
+
+Updated: 2014-11-11    

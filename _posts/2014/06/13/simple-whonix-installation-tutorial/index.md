@@ -2,12 +2,9 @@
 title: "Simple Whonix Installation Tutorial"
 ---
 
-5913 post type-post status-publish format-standard has-post-thumbnail hentry  tag-installation tag-simple tag-tutorial tag-whonix
 Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>
 <span>June 13, 2014</span>
-    
-<a href="/2014/06/13/simple-whonix-installation-tutorial/#comments">18 Comments</a></span>
-</p>
+
 <p>Whonix is an operating system focused on anonymity, privacy and security. It&#8217;s based on the Tor anonymity network and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user&#8217;s real IP. This makes it a safer way to access the Deep Web opposed to just using Tor on your current operating system. It is especially discouraged to be using Tor with a Windows operating system because of the direct access that the NSA has to Microsoft’s systems and the information that Microsoft is willing to hand over to them.</p>
 <p>(Read more about the <a href="http://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data" target="_blank">NSA and Microsoft</a>)</p>
 <p><a href="/imgs/2014/06/whonix.png"><img class="aligncenter size-full wp-image-5914" src="/imgs/2014/06/whonix.png" alt="whonix" width="685" height="348" srcset="/imgs/2014/06/whonix.png 685w, /imgs/2014/06/whonix-300x152.png 300w" sizes="(max-width: 685px) 100vw, 685px" /></a></p>
@@ -27,6 +24,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a
 <p>Now you can use Whonix to browse in a safer and more secure way, all without having to make drastic changes to your computer.</p>
 <p><strong>This article is added in our <a href="http://www.deepdotweb.com/security-tutorials/" target="_blank">security tutorials</a> section.</strong></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/installation/" rel="tag">installation</a> <a href="https://www.deepdotweb.com/tag/simple/" rel="tag">simple</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/whonix/" rel="tag">whonix</a></span> 
-Updated: 2014-06-13<a href="https://www.deepdotweb.com/author/chris/" title="Posts by Chris" rel="author">Chris</a></strong></div>
+
+Updated: 2014-06-13
     

@@ -1,14 +1,11 @@
 ---
-title: "Research and News in Tor, Privacy, and Security – October 26th, 2014---
+title: "Research and News in Tor, Privacy, and Security – October 26th, 2014"
+---
 
-7502 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-26th tag-news tag-october tag-privacy tag-research tag-security 
-<div class="post-inner
-Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+
+Posted by: Kiell
 <span>October 27, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/27/research-news-tor-privacy-security-october-26th-2014/#respond">Leave a comment</a></span>
-</p>
-    
+
 <p><strong>Tor</strong></p>
 <p><strong>Recent Research</strong></p>
 <p>Alex Biryukov and Ivan Pustogarov at the University of Luxembourg published a research paper titled, <a href="http://arxiv.org/pdf/1410.6079v1.pdf">“Bitcoin over Tor isn’t a good idea.”</a> The paper discusses possible security risks when using Bitcoin through Tor, and how these risks could possibly be countered. Bitcoin’s reputation system, designed to heighten security, includes protection against DoS attacks. If an attacker were to send malformed packets (a malformed transaction 60 bytes in size will get a peer immediately blacklisted for 24 hours) over Tor and force peer blacklisting of other Tor Exit nodes, they could hypothetically force all Bitcoin-over-Tor traffic to go through Exit nodes under their control. As a proof-of-concept, the researchers were able to get about 7,500 Bitcoin peers to blacklist their Exit node. This scenario creates multiple vectors for an attack. One, it could compromise anonymity by making traffic vulnerable to timestamp analysis. Two, with this centralization, an attacker could control what Bitcoin blocks and blockchain transactions clients are aware of. This could allow an attacker to not feed certain transactions to the client, or possibly send illegitimate transactions. The authors suggest a few possible solutions. One is the encryption and authentication of Bitcoin traffic. Another is disabling the DoS protections on Tor peers, since rate limits obviously present issues for Tor exit nodes. The third is the public listing of all verified peers’ hidden service addresses.</p>
@@ -22,7 +19,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a
 <p>You can download the full research paper <a href="http://kiddingthecity.org/blog/downloads/">here</a>, under ‘Cultural Practices of the Hacking Multitude”.</p>
 <p><strong>Recent News</strong></p>
 <p>Verizon Wireless came under scrutiny earlier this week when it was revealed that the company has been injecting unique identifiers into customer traffic for advertising purposes. As part of their <a href="https://www.verizonwireless.com/support/faqs/AccountManagement/mobile_ads.html">Relevant Mobile Advertising program</a>, a Unique Identifier Header (UIDH) is added to all of a customer’s traffic sent over Verizon’s network. This token is used to track a user’s browsing habits, which can be used to serve more relevant advertisements. This created various privacy concerns over the scope of data collected by companies. Jacob Hoffman-Andrews, senior staff technologist with the Electronic Frontier Foundation, criticized the practice. He said, “There is this mentality of ‘if there is a way we can acquire more data on our users, that data is a legitimate target’.”</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/26th/" rel="tag">26th</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a>  </span> 
-Updated: 2014-10-27<a href="https://www.deepdotweb.com/author/kiell/" title="Posts by Kiell" rel="author">Kiell</a></strong></div>
-    
+
+Updated: 2014-10-27    

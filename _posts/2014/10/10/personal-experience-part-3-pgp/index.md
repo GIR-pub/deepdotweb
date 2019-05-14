@@ -2,14 +2,11 @@
 title: "Personal Experience: Part 3 &#8211; PGp"
 ---
 
-6833 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-experiencetag tag-personal tag-pgp">
-<div class="post-inner
-Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+
+Posted by: Joseph Meehan
 <span>October 10, 2014</span>
     
-<a href="/2014/10/10/personal-experience-part-3-pgp/#comments">3 Comments</a></span>
-</p>
-    
+
 <p><em>This a post in series of posts describing a personal experience from learning about the DNM’s to becoming a vendor – all the parts of this series will be available to here: <a href="http://www.deepdotweb.com/tag/ExperienceTag/">ExperienceTag</a></em></p>
 <p>Part 3:</p>
 <p>Before today I had never sent an encrypted email. It was relatively easy to get started, especially with the built-in tools that TAILS comes with. There is also no shortage of easily-accessed tutorials. I won&#8217;t be guiding you through the process here, but instead recording my thoughts on the experience of using it for the first time.</p>
@@ -18,7 +15,8 @@ Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Jo
 <p><a href="/2014/06/14/simple-tails-installation/">TAILS</a> comes with OpenPGP for managing your public and private PGP keys. It also has a built-in applet used to encrypt text on the fly. It&#8217;s as simple as opening a word processor, typing your message, using the secure clipboard from the toolbar, and pasting into your browser/email client/instant messenger program.</p>
 <p>I started up TAILS to send a trial email to myself. I wrote up a test message in gedit and used the applet to encrypt the text. I had two options at this point: open a browser and log on to my email to send the message, or use the included Claws email client to send the message. I decided to use the browser for now. Later on I will tackle setting up a persistent volume for Claws to save my email information and save my personal PGP keys, but for now I wanted simplicity. I logged in and pasted the encrypted text into an email to one of my other email addresses. When I copied the encrypted text to the clipboard the same applet that encrypted the text gave me the option to decrypt the message.</p>
 <p>All in all PGP was an easy encryption method to get started with. The integration into TAILS is seamless and the experience needed is minimal.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/experience/" rel="tag">experience</a> <a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a></span> 
-Updated: 2014-10-10<a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
+
+
+Updated: 2014-10-10
+
     

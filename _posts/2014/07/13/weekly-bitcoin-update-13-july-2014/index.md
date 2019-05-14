@@ -1,18 +1,14 @@
 ---
-title: "Weekly Bitcoin Update – 13 July 2014---
+title: "Weekly Bitcoin Update – 13 July 2014"
+---
 
-6463 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-1779 tag-bitcoin tag-july tag-update tag-weekly">
-    
+
 
 Posted by: DeepDotWeb
     
     
 <span>July 13, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-    
-<a href="/2014/07/13/weekly-bitcoin-update-13-july-2014/#respond">Leave a comment</a></span>
-</p>
-    
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p><strong>Industry News</strong></p>
 <p>A new ATM specifically designed for bitcoin has been released in the Los Angeles area, <a href="http://www.latimes.com/business/la-fi-robocoin-20140708-story.html">according to Riley Snyder of the Los Angeles Times</a>. Robocoin’s automated teller machines turn bitcoins into hard cash. The founder of the company, John Russell, stated that he believed bitcoin had the potential to “totally disrupt” traditional wire transfer services such as Western Union. Current expansion estimates for bitcoin ATMs currently sit in the 600 range. Russell also spoke of the neutral, apolitical aspect of bitcoin, likening it to software protocols such as HTTP.</p>
@@ -27,8 +23,7 @@ Posted by: DeepDotWeb
 <p>Italian authorities have issued bitcoin warnings and are moving toward regulation, Nermin Hajdarbegovic of <a href="http://www.coindesk.com/italian-authorities-issue-new-bitcoin-warnings-urge-regulation/">CoinDesk</a> reports. Luigi Ciampoli, Attorney General of Rome, expressed in an interview with Ansa.it that bitcoin could potentially be used by terrorist organizations, money launderers, or the mafia. Ciampoli called for bitcoin laws to be made more “precise and rigorous” so as to prevent such crimes from occurring.</p>
 <p>An Argentinian money regulator, the UIF, has ordered for all transactions involving digital currency, including bitcoin, to be reported by financial services companies. Stan Higgins of CoinDesk finds that the UIF, like Michel Sapin and Luigi Ciampoli, both found that bitcoin carries with it the threat of money laundering and criminal financing. The UIF hopes these reports will prevent criminal funds from moving outside of Argentina’s regulatory jurisdiction.</p>
     
-    
-<a href="https://www.deepdotweb.com/tag/13/" rel="tag">13</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span>				
+
 Updated: 2014-07-13
     
     

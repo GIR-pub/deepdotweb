@@ -2,12 +2,9 @@
 title: "Simple TAILS Installation"
 ---
 
-5983 post type-post status-publish format-standard has-post-thumbnail hentry  tag-installation tag-simple tag-tails
 Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a></span>
 <span>June 14, 2014</span>
-    
-<a href="/2014/06/14/simple-tails-installation/#respond">Leave a comment</a></span>
-</p>
+
 <p>Right up there with Whonix as a contender for the best OS to access the deep web is Tails. The Amnesic Incognito Live System or “Tails” is a live system that aims to preserve your privacy and anonymity which is very important when accessing the deep web. Unlike Whonix, it is not made to be run on a virtual machine but instead off of a DVD, USB stick or SD card. While this is a bit more of a hassle, you may want to go with this option because of the additional features that serve to protect your identity.</p>
 <p>Tails uses Tor to connect to the internet and blocks any attempts to connect directly to the Internet. This means that all the software it comes with is configured to automatically connect using the Tor network. What is most useful about the OS though is the fact that it doesn’t store anything on your hard-drive. The only storage space used is the RAM which is automatically erased when the computer shuts down. This is where the “amnesic” part of the name comes from. Sensitive documents can still be saved to another external device of your choosing but unless you specifically do that – anything you were working on will be gone without a trace. It also includes a variety of encryption tools to assist the protection of your identity while using Tails.</p>
 <p>To get started, go to their official download page and torrent or direct download their <a href="https://tails.boum.org/download/index.en.html#first_time">latest version</a>.</p>
@@ -17,7 +14,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a
 <p>There is more documentation on their website for how to use all the functions of TAILS but it is quite self-explanatory. It provides a very safe way for you to browse the web, access the Deep Web, and work with sensitive documents.</p>
 <p>If this sounds like too much of a hassle and you want an OS that can be run in the background while you are doing other work then try <a href="/2014/06/13/simple-whonix-installation-tutorial/">Whonix</a> instead. Don’t just browse on your default operating system.</p>
 <p><strong>This tutorial is posted also in the <a href="http://www.deepdotweb.com/security-tutorials/">Security tutorials</a> section.</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/installation/" rel="tag">installation</a> <a href="https://www.deepdotweb.com/tag/simple/" rel="tag">simple</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span> 
-Updated: 2014-06-14<a href="https://www.deepdotweb.com/author/chris/" title="Posts by Chris" rel="author">Chris</a></strong></div>
+
+Updated: 2014-06-14
     

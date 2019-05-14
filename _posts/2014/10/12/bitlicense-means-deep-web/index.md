@@ -2,12 +2,9 @@
 title: "What The Bitlicense Means For The Deep Web"
 ---
 
-6841 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitlicense tag-deep tag-means tag-web
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>October 12, 2014</span>
-    
-<a href="/2014/10/12/bitlicense-means-deep-web/#comments">2 Comments</a></span>
-</p>
+
 <p>New York is leading the world in Bitcoin regulation with their proposed, and soon to be implemented, Bitlicense. The Bitlicense is a oppressive piece of legislation that is definitely going to hinder Bitcoin businesses in New York, but these New York regulations crush financial privacy stronger than anything.</p>
 <p>New York will require all businesses working in the digital currency business (exchanges, merchant processors, hardware, currency makers, etc) to report personal information, which includes name, and address of those involved. On top of that, a detailed report of the nature of the transaction must also be submitted. Any transactions above 10,000 dollars in one day must be reported. The report goes on to explicitly say that businesses offering services that mask the identity, source or destination of a digital currency transaction are banned from doing business in New York. These regulations are obviously very, very bad news for anyone who cares about Bitcoin anonymity.</p>
 <p>The Bitcoin community has reacted on the whole, very negatively. Bitcoin business owners have said that rather doing business with people in New York State, they simply will block New York State IP . Cutting a state of 19,651,127 people off from Bitcoin.</p>
@@ -24,7 +21,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>People will be trying to get Bitcoin so they can send money to family in other countries, protect their value from the inflation of the dollar and find new economic opportunities. Good paying jobs are harder and harder to find, while the cost of living is rising. This leaves the average American in a very bad position. Bitcoin&#8217;s global nature could allow them to work for people all over the world and find better paying jobs.</p>
 <p>They could also look to the deep web itself for opportunities. Never before in history, could you be a drug king pin from the comfort of your home and not be involved in any kind of violence. The drug trade on deep web is the safe and convenient solution for people interested in getting into the business. For business minded people, there can also be a lot of money to be made. As I already mentioned, as economic conditions worsen people will look else where in order to survive. The deep web will start being not where just someone can their fix, but the what puts food on the table for the family.</p>
 <p>Though, there was be a lot of push back, the New York state regulators are not backing down. It looks like, for the time being, these regulations will be in acted as is but just like anything government does, it will back fire and reach the opposite goal of the regulations.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bitlicense/" rel="tag">bitlicense</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/means/" rel="tag">means</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
-Updated: 2014-10-12<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-10-12
     

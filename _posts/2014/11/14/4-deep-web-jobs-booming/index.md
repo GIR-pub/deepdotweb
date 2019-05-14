@@ -2,12 +2,10 @@
 title: "4 Deep Web Jobs That Are Booming"
 ---
 
-6878 post type-post status-publish format-standard has-post-thumbnail hentry  tag-booming tag-deep tag-jobs tag-web
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+
+Posted by: Greg Miller
 <span>November 14, 2014</span>
-    
-<a href="/2014/11/14/4-deep-web-jobs-booming/#comments">19 Comments</a></span>
-</p>
+
 <p>Life is getting economically tough, with high unemployment and a rising cost of living. At the same time, a growing police state and a increasing amount of laws is making the average person more and more likely to be closer to the dark side of the market, compared to the light side. On the other side of the fence, in the wake of the demise of the infamous Silk Road, a void has been created. Black market entrepreneurs have been popping up businesses to fill the void and with that, has came jobs. Throw your scholarship in the trash and fire up Tor – here are 4 jobs that are booming on the deep web.</p>
 <p><strong>Marketer</strong></p>
 <p>With many marketplaces popping up, the deep web is crowded and a competition for the consumer&#8217;s attention has emerged. Before, with a little amount of marketplaces and finding a working marketplace difficult, it was good enough if the marketplace you found was working for the day. Today, deep web marketplaces need to make themselves known.</p>
@@ -22,7 +20,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p><strong>Graphic Designer</strong></p>
 <p>Deep web design, for a long time, was stuck in 90s. With web pages, that were just HTML and J-Pegs for logos, the deep web was not the prettiest sight. Now, with a more stable web pages and actual companies developing, it is important to have a logo and web design that looks polished and professional.</p>
 <p><a href="/2014/06/04/introducing-crypt-design-darknet-design-services/">Crypt</a>, the first deep web design company, saw this opportunity and decided to capitalize on it. Cutting ties with the clearnet, which they spent 15 years designing for, they decided to focus solely on the deep web. They have been very successful with revamping sites like, <a href="http://www.deepdotweb.com/grams-search-darknet-marketplaces/">Grams</a> and DeepDotWeb. As more people and money enters the deep web, companies have more of an incentive to invest in their websites and make the costumer experience as pleasant as possible.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/booming/" rel="tag">booming</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/jobs/" rel="tag">jobs</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
-Updated: 2014-11-14<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-11-14
     

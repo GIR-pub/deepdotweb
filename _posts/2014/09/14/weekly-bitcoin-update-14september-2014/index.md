@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin Update – 14 September 2014---
+title: "Weekly Bitcoin Update – 14 September 2014"
+---
 
-7080 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1945 tag-1779 tag-bitcoin tag-september tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>September 14, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/14/weekly-bitcoin-update-14september-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web </em></p>
 <p>Douwe Miedema of <a href="http://www.reuters.com/article/2014/09/12/us-usa-bitcoin-cftc-idUSKBN0H71FU20140912">Reuters</a> reports that TeraExchange has launched the first-ever bitcoin swap to be approved by United States financial regulators. Users of the swap can lock their bitcoins into a particular dollar value, thus avoiding the repercussions of the cryptocurrency&#8217;s wild price swings. TeraExchange, a company which launched in 2010, first began its attempt to receive approval for the swap from the Commodity Futures Trading Commission during the month of March. The CFTC granted approval once the company had created an index to measure that value of bitcoin, thus avoiding the potential easy manipulation of the currency&#8217;s price.</p>
 <p>An independent bitcoin wallet has been launched for the iOS operating system. As William Suberg of <a href="http://cointelegraph.com/news/112507/first-independent-ios-wallet-hits-app-store-designed-for-newbies">CoinTelegraph</a> writes, Breadwallet offers users the opportunity to “connect directly to the Bitcoin network” without the use of a middleman. By limiting the complications of the exchange, the creators of Breadwallet hope to make the sending and receiving of bitcoin as easy as possible for beiginner users. The software also contains protection against malware and physical theft.</p>
@@ -18,7 +16,6 @@ Posted by: DeepDotWeb
 <p><strong>Automated Teller Machines</strong></p>
 <p>San Francisco&#8217;s first bitcoin teller machine has opened for use. According to Ryan Taylor of <a href="http://bitcoinmagazine.com/16319/workshop-cafe-launches-san-franciscos-first-bitcoin-teller-machine/">Bitcoin Magazine</a>, the BTM was opened at Workshop Cafe, a company which was recently featured in Apple&#8217;s smart watch advertisements. The machine, made by BitAccess, offers users the opportunity to buy and sell bitcoin for an equal value in US dollars. Visitors using the machine can verify their information with a code that is sent to their mobile phones when they first use the teller, which adds an extra layer of security to the exchange.</p>
 <p>The growth of bitcoin ATMs is set to expand outside of San Francisco. According to Victoria Wagner Ross of the <a href="http://www.examiner.com/article/bitcoin-atm-market-explodes">San Diego Technology Examiner</a>, several businesses are currently vying to gain control of the bitcoin ATM market, the largest of which being Lamasse Bitcoin Ventures. The company, headed by Zach and Josh Harvey, controls 39% of the bitcoin ATM market. Meanwhile, BitAccess, the company that opened the first bitcoin ATM in San Francisco, controls only 12% of the market. Nevertheless, the number of machines operational worldwide continues to grow.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/14/" rel="tag">14</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-09-14
     

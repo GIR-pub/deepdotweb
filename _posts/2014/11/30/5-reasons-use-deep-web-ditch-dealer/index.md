@@ -2,12 +2,9 @@
 title: "5 Reasons You Should Use The Deep Web And Ditch Your Dealer"
 ---
 
-6882 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-ditch tag-reasons tag-web
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>November 30, 2014</span>
-    
-<a href="/2014/11/30/5-reasons-use-deep-web-ditch-dealer/#comments">31 Comments</a></span>
-</p>
+
 <p>With a rapidly changing world, technology has improved almost all sectors of life,but the drug trade has remain backwards. Decades ago, the drug trade was much less violent and there was a friendly atmosphere, but with the rise of the War On Drugs and the militarization of the police, only people who were willing to deal with dishing and taking violence, stayed. This lead to a more violent and unfriendly atmosphere.</p>
 <p>Now, there is the deep web, a virtual black market, where drugs and all kinds of commerce flow freely. On the deep web, there are many barriers in place that protect users from the police and follow users, creating a safer and friendlier atmosphere. It has totally transformed the drug trade. Resembling  e-commerce giant, E-bay, more, than a drug cartel. Here are 5 reasons you should ditch your local dealer and use the deep web.</p>
 <p><strong>Quality</strong></p>
@@ -31,7 +28,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>With the deep web, there is plenty of people that are than happy to help you. There is even a Spanish doctor who can send your dope to and he will test it. Looking for the purity, safety, and quality. You don&#8217;t have that in the physical drug trade.</p>
 <p><strong>Interested?</strong></p>
 <p>If you are interested in using the deep web, make sure to stay updated by reading DeepDotWeb.com, regularly and explore our archives., which have a wealth of information. A good place to start is this <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">markets list</a> or the <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">markets chart</a>.</p>
-</div>
- <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/ditch/" rel="tag">ditch</a> <a href="https://www.deepdotweb.com/tag/reasons/" rel="tag">reasons</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
-Updated: 2014-11-30<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-11-30
     

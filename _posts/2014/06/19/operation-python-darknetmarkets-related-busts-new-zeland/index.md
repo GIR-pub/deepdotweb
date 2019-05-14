@@ -2,12 +2,9 @@
 title: "Operation Python: DarkNetMarkets Related Busts In New Zeland"
 ---
 
-6108 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busts tag-darknetmarkets tag-operation tag-python tag-zeland
 Posted by: DeepDotWeb
 <span>June 19, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/19/operation-python-darknetmarkets-related-busts-new-zeland/#respond">Leave a comment</a></span>
-</p>
+
 <p>As it was published at <a href="http://www.stuff.co.nz/dominion-post/10177294/Police-bust-drugs-ring-find-stolen-carving">Stuff.co.nz</a>,  Relevant parts suggesting its DarkNetMarkets related are in bold:</p>
 <blockquote><p>Police raiding a central Wellington apartment were confronted by men lying on high-powered rifles in a drugs operation that has netted bounty including a carving stolen from Te Papa museum.</p>
 <p>Swords, and the rifles and a $3000 Maori carving thought to have been stolen from the museum&#8217;s gift shop were seized after a week-long series of busts targeting drugs and organised crime.</p>
@@ -41,7 +38,6 @@ Posted by: DeepDotWeb
 <p>&#8221;Their families clearly haven&#8217;t known what they&#8217;ve been doing, and the impact on the family when they&#8217;ve found out has been destroying to those relationships.</p>
 <p>&#8221;These types of charges mean you may go to jail and it may impact your employment and your overseas travel, and relationships with family members and your relationships with people in the community.&#8221;</p></blockquote>
 <p>Source: <a href="http://www.stuff.co.nz/dominion-post/10177294/Police-bust-drugs-ring-find-stolen-carving" target="_blank">http://www.stuff.co.nz/dominion-post/10177294/Police-bust-drugs-ring-find-stolen-carving</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/busts/" rel="tag">busts</a> <a href="https://www.deepdotweb.com/tag/darknetmarkets/" rel="tag">darknetmarkets</a> <a href="https://www.deepdotweb.com/tag/operation/" rel="tag">operation</a> <a href="https://www.deepdotweb.com/tag/python/" rel="tag">python</a> <a href="https://www.deepdotweb.com/tag/related/" rel="tag">related</a> <a href="https://www.deepdotweb.com/tag/zeland/" rel="tag">zeland</a></span> 
+
 Updated: 2014-06-19
     

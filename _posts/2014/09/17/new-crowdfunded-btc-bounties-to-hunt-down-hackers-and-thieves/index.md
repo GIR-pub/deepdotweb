@@ -2,14 +2,12 @@
 title: "New: CrowdFunded BTC Bounties to Hunt Down Hackers and Thieves"
 ---
 
-7137 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bounties tag-crowdfunded tag-hackers tag-hunt tag-thieves tie_video">
-    
-<iframe width="660" height="371" src="http://www.youtube.com/embed/nWFemmRkRzw?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
 Posted by: DeepDotWeb
 <span>September 17, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/17/new-crowdfunded-btc-bounties-to-hunt-down-hackers-and-thieves/#comments">1 Comment</a></span>
-</p>
+
+<iframe width="660" height="371" src="http://www.youtube.com/embed/nWFemmRkRzw?feature=oembed" frameborder="0" allowfullscreen></iframe> 
+
+
 <p class="accordion-header active-header">A new service was <a href="https://bitcointalk.org/index.php?topic=784520.0">launched</a> by <a href="http://rogerver.com/">Roger Ver</a>  (<span class="st"><span dir="ltr">Bitcoin Angel Investor</span></span>) Called &#8220;Bitcoin Bounty Hunter&#8221;:</p>
 <blockquote>
 <p class="accordion-header active-header">Now anyone can contribute bitcoins to motivate people with information on criminals to provide that information to law enforcement,  or motivate law enforcement officers to take action directly. I&#8217;ve personally contributed over 40 BTC for the bounties to help get things started. With this financial motivation I hope we can help catch the dishonest among us,  and motivate those working in law enforcement to actually take action.</p>
@@ -72,7 +70,7 @@ Posted by: DeepDotWeb
 </div>
 </div>
 </div>
-</div>
-<a href="https://www.deepdotweb.com/tag/bounties/" rel="tag">bounties</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/crowdfunded/" rel="tag">crowdfunded</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/hunt/" rel="tag">hunt</a> <a href="https://www.deepdotweb.com/tag/thieves/" rel="tag">thieves</a></span> 
+
+
 Updated: 2014-09-17
     

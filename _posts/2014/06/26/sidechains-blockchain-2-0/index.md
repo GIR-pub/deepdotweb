@@ -1,12 +1,10 @@
 ---
-title: "Introduction To Sidechains and Blockchain 2.0---
+title: "Introduction To Sidechains and Blockchain 2.0"
+---
 
-6042 post type-post status-publish format-standard has-post-thumbnail hentry tag-blockchain tag-sidechains
-Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+Posted by: Zubair Muadh
 <span>June 26, 2014</span>
-    
-<a href="/2014/06/26/sidechains-blockchain-2-0/#respond">Leave a comment</a></span>
-</p>
+ 
 <p>Sidechains is a new concept that could help push Bitcoin forward and expand its functionalities.</p>
 <p><strong>Firstly we’d like to address what is the Blockchain?</strong></p>
 <p>A blockchain is a transaction database which is shared by all nodes in the Bitcoin system.All transactions since the creation of Bitcoin are documented on the Blockchain. Sidechains are built on top of the original Blockchain framework.</p>
@@ -26,7 +24,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zub
 <p>The script unlocks the (Bitcoin 1.0) funds when given valid cryptographic proof that the sender destroyed one unit of Bitcoin 2.0. Therefore making a mechanism for converting Bitcoin 1.0 to Bitcoin 2.0, this mechanism also limits the value of Bitcoin 2.0 created which can be converted back to Bitcoin 1.0. The two-way peg.</p>
 <p><strong>What are the Implications of Sidechains?</strong></p>
 <p>Sidechains with specific purposes could be formed with specific features while still enjoying the widespread adoption and value that Bitcoin holds.  Most importantly it can add these features without consensus from the Bitcoin community. Sidechains have the potential to replace many Cryptocurrencies as it allows features that were previously unique to these currencies to be available on Bitcoin. It also allows developers to experiment with sidechains and scope its full potential while still keeping coins linked to Bitcoin.</p>
-</div>
- <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/sidechains/" rel="tag">sidechains</a></span> 
-Updated: 2014-06-26<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    
+
+Updated: 2014-06-26

@@ -2,12 +2,9 @@
 title: "Vendor CALIGIRL Criminal Complaint Excerpts"
 ---
 
-6630 post type-post status-publish format-standard has-post-thumbnail hentry  tag-caligirl tag-complaint tag-criminal tag-excerpts tag-vendor
 Posted by: DeepDotWeb
 <span>July 29, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/29/vendor-caligirl-criminal-complaint-excerpts/#comments">1 Comment</a></span>
-</p>
+
 <p>As it was posted in another great summary brought to you by <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> in <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2c2i3f/caligirl_criminal_complaint_excerpts/" target="_blank">this</a> Reddit thread (you can join the discussion on reddit):</p>
 <p>To follow up on CALIGIRL, who was <a href="/2014/05/31/vendor-caligirl-busted-charged-illegally-selling-controlled-substances-silk-road-bitmessage/">arrested back in May</a>:</p>
 <ul>
@@ -75,7 +72,6 @@ Posted by: DeepDotWeb
 <blockquote><p>&#8230;As part of my investigation, I reviewed Jones&#8217; use of MoneyGram wire transfer services. The records reviewed include transactions dated between September 28, 2013 and October 8, 2013&#8230;Between September 28, 2013 and October 8, 2013, Jones received 23 MoneyGram wire transfers, totaling \$12,872.22. The wire transfers were initiated by multiple individuals and originated in different geographical locations including 13 different states and Brazil. Of the 23 transactions, the average dollar amount received by Jones was \$559.66. The largest single transaction was $899 and was received by Jones on October 5, 2013. The smallest transactions received by Jones were for \$450. Jones received nine \$450.00 wire transfers during the period, all of which originated with different individuals.</p></blockquote>
 <blockquote><p>&#8230;Jones operated on LBC under the pseudonym &#8216;Dynamite2k&#8217;. Through his LBC profile, I was able to determine that Jones utilized LBC to make over 100 Bitcoin trades, with 97 unique partners. Jones received 100% positive feedback.</p></blockquote>
 <p>This is a lot of interesting information that many people can learn from. We will be following this case and updating as more information becomes available, Again, Full credit goes to <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> for posting this on Reddit.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/caligirl/" rel="tag">caligirl</a> <a href="https://www.deepdotweb.com/tag/complaint/" rel="tag">complaint</a> <a href="https://www.deepdotweb.com/tag/criminal/" rel="tag">criminal</a> <a href="https://www.deepdotweb.com/tag/excerpts/" rel="tag">excerpts</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2014-07-29
     

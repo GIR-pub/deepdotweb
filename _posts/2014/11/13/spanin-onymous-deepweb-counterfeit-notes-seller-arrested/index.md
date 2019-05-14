@@ -2,12 +2,9 @@
 title: "Spain Onymous: DeepWeb Counterfeit Notes Seller Arrested"
 ---
 
-8223 post type-post status-publish format-standard has-post-thumbnail hentry  tag-operation-onymous
 Posted by: DeepDotWeb
 <span>November 13, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/13/spanin-onymous-deepweb-counterfeit-notes-seller-arrested/#comments">1 Comment</a></span>
-</p>
+
 <p>A <a href="http://www.guardiacivil.es/es/prensa/noticias/5146.html">press release</a> by the The &#8220;Guardia Civil&#8221; (Spanish Swat) stated that they have arrested one of the targets of the &#8220;<a href="http://www.deepdotweb.com/tag/operation-onymous/">ONYMOUS</a> macro operation against the illicit markets in the Deep Web&#8221;.</p>
 <p>The statement mentioned that:</p>
 <blockquote><p>Two domiciliary searches have been conducted in Barcelona, where some computer equipment has been seized, one credit card cloner and two virtual crypto currency Bitcoin accounts.</p></blockquote>
@@ -30,9 +27,6 @@ Posted by: DeepDotWeb
 <p>Countries involved in the operation, codenamed ‘Onymous’, include Bulgaria, the Czech Republic, Finland, France, Germany, Hungary, Ireland, Latvia, Lithuania, Luxembourg, the Netherlands, Romania, Spain, Sweden, Switzerland, the United Kingdom and the USA.</p>
 <p><strong>Read all our other articles regarding <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Operation Onymous Here</a></strong></p>
 <p>Thanks to Reddit user <a href="http://www.reddit.com/user/youtakesally">Youtakesally</a> for the translation!</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a></span> 
+
 Updated: 2014-11-13
     

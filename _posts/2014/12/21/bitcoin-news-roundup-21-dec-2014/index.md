@@ -1,7 +1,8 @@
 ---
-title: "Bitcoin News Roundup – 21 Dec. 2014---
+title: "Bitcoin News Roundup – 21 Dec. 2014"
+---
 
-8686 post type-post status-publish format-standard has-post-thumbnail hentry tag-1779 tag-bitcoin tag-dec tag-news tag-roundup
+8686 tag-1779 tag-dec tag-roundup
 Posted by: DeepDotWeb
 <span>December 21, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
@@ -19,6 +20,6 @@ Posted by: DeepDotWeb
 <p>Magazine publisher Time Inc. will now be accepting payments for certain magazine subscriptions. Sydney Ember of <a href="http://dealbook.nytimes.com/2014/12/16/time-inc-begins-accepting-bitcoin-payments/">The New York Times</a> discusses this partnership between Time Inc. and Coinbase, who will process the subscription payments. From now on, Time Inc. consumers can purchase subscriptions of magazines like Fortune, This Old House, Health, and Health and Leisure. However, customers are not currently able to make subscription payments for People, Food and Wine, and Sports Illustrated. Coinbase CEO Brian Armstrong believes that Time Inc.&#8217;s decision to accept bitcoin payments “sends an important message to both its readers and to the broader media community.”</p>
 <p>Bitcoin holders who wish to purchase goods and services can now do so on BTXDeals.com. Natasha Lomas of <a href="http://techcrunch.com/2014/12/18/btxdeals/">TechCrunch</a> discusses the U.K.-based e-commerce site, where users can make payments for computer displays, software, and travel services. The prices are updated every ten minutes and are based on the Bitcoin-GBP Sterling exchange rate and vendors do not have to pay to list their goods on the site.</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+ <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
 Updated: 2014-12-21
     

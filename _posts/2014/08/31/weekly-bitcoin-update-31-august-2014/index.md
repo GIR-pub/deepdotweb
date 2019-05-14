@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin Update – 31 August 2014---
+title: "Weekly Bitcoin Update – 31 August 2014"
+---
 
-6922 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1908 tag-august tag-bitcoin tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>August 31, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/08/31/weekly-bitcoin-update-31-august-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p>One of the earliest users of bitcoin passed away on Aug. 28<sup>th</sup>. According to Nathaniel Popper of <a href="http://www.nytimes.com/2014/08/31/business/hal-finney-cryptographer-and-bitcoin-pioneer-dies-at-58.html?_r=0">The New York Times</a>, cryptographer Hal Finney, who had been afflicted with amyotrophic lateral sclerosis (ALS), was taken off life support. His body was subsequently prepared for cryonic preservation. Finney dedicated the latter part of his life to digital privacy, working on the Pretty Good Privacy software project during the 1990s, reusable proofs of work in 2004, and Bitcoin in 2008.</p>
 <p>Dallas has become the next city with Bitcoin ATMs within its limits. As Todd Unger of <a href="http://www.wfaa.com/story/money/consumer/2014/08/29/bitcoin-atms-come-to-dallas/14781233/">WFAA</a> writes, a growing number of students at UT Arlington were interested in having an accessible ATM. The ATMs are located at Buzzbrews in Deep Ellum and at Pop Dinner off McKinney Avenue. The currency can be used to pay membership fees for the college&#8217;s entrepreneur society, according to the organization&#8217;s vice president, Justin Hendrix.</p>
@@ -18,7 +16,6 @@ Posted by: DeepDotWeb
 <p><a href="http://www.coindesk.com/citi-miners-merchants-keeping-bitcoin-prices-check/">CoinDesk&#8217;s</a> Joon Ian Wong writes that Citi, one of the world&#8217;s largest financial institutions, believes that Bitcoin&#8217;s price will not remain stable due to a large supply of coins. With miners and large merchants oversaturating the market with new coins, as well as the increased “sophistication” in Bitcoin mining, miners will continue to sell new Bitcoins so as to develop a strong return on their investments. Citi notes that 3,500 new BTC are mined on a day-to-day basis, while the currency has a daily trading volume of 60,000 to 100,000 BTC.</p>
 <p>According to Wired.com&#8217;s Andy Greenberg, the developers of the Fed-proof marketplace <a href="http://www.wired.com/2014/08/openbazaar-not-for-drugs/">OpenBazaar</a> attest that it will not be used for drug trafficking. Users can gain access to the marketplace by installing software on their PCs to facilitate online peer-to-peer trading without an intermediary. As a result of OpenBazaar&#8217;s design, no organization “can regulate or shut down” the marketplace. Due to Bitcoin&#8217;s previous associations with drug trafficking, OpenBazaar&#8217;s operations lead Sam Patterson and founder Brian Hoffman have been asked questions regarding whether the program has been designed for the exchange of currency for narcotics.</p>
 <p>Charles Shrem has decided to plead guilty to charges of helping to facilitate the drug trade on Silk Road. Andrew Ross Sorkin of <a href="http://dealbook.nytimes.com/2014/08/30/top-bitcoin-proponent-to-plead-guilty-to-federal-charge/">The New York Times</a> writes that Shrem will be pleading to “aiding and abetting the operation of an unlicensed money transmitting business.” Silk Road was used for the exchange of narcotics and drug paraphernalia. The New York federal court holds that Shrem converted billions of dollars into Bitcoin for use on Silk Road, which made it more difficult for the exchanges to be tracked.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/31/" rel="tag">31</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-08-31
     

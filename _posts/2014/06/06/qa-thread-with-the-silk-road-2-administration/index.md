@@ -2,12 +2,9 @@
 title: "Q&#038;A Thread With The Silk Road 2 Administration"
 ---
 
-5902 post type-post status-publish format-standard has-post-thumbnail hentry  tag-administration tag-qa tag-thread
 Posted by: DeepDotWeb
 <span>June 6, 2014</span>
-    
-<a href="/2014/06/06/qa-thread-with-the-silk-road-2-administration/#comments">1 Comment</a></span>
-</p>
+
 <p>Yesterday new silk road 2 admins called <strong>Khufu &amp; Sneferu &amp; Djedefre  </strong>chose a great way to introduce themselves to the silk road 2 users and started a thread on the silk road forums (http://silkroad5v7dywlc.onion/index.php?topic=42543.0;topicseen)  offering a Q&amp;A with the Silk road admins for a few hours:</p>
 <blockquote><p>Hello.</p>
 <p>Silk Road Administrators do not appear to public often. It is time to open for questions for a brief time.</p>
@@ -80,6 +77,6 @@ Posted by: DeepDotWeb
 <p><strong>&#8212;&#8211;</strong></p>
 <p>Sure there are many more questions that could have been asked and the more harder questions are not present here (about some hack topics and why there is not escrow / multisig yet when it can be implemented in few hours as other <a href="/2014/05/09/interview-pirate-market-admin/">Admins demonstrated</a> before) and sure that some of the answers are directed more at the PR side rather than the real info side, but still any information sharing should not be taken for granted on the the deep web, and this is without a doubt a nice way to introduce a new admin.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/administration/" rel="tag">administration</a> <a href="https://www.deepdotweb.com/tag/qa/" rel="tag">qa</a>  <a href="https://www.deepdotweb.com/tag/thread/" rel="tag">thread</a></span> 
+
 Updated: 2014-06-06
     

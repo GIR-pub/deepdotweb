@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin Update – 20 July 2014---
+title: "Weekly Bitcoin Update – 20 July 2014"
+---
 
-6530 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1766 tag-1779 tag-bitcoin tag-july tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>July 20, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/20/weekly-bitcoin-update-20-july-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p><strong>Industry</strong></p>
 <p>On July 18<sup>th</sup>, <a href="http://en.community.dell.com/dell-blogs/direct2dell/b/direct2dell/archive/2014/07/18/we-re-now-accepting-bitcoin-on-dell-com.aspx">Dell</a> announced that they would accept Bitcoin payments for all their products through their online marketplace. Previously, Dell had solely accepted the purchasing of gift cards with Bitcoin. The computer hardware company, whose brands include Alienware and the XPS line of laptops, announced a partnership with the third party payment processor Coinbase. The company&#8217;s co-founder, Fred Ehrsam, credited the Dell team for being “instrumental in getting the Coinbase integration up and running in such a short timeframe.” The project was completed in just fourteen days.</p>
@@ -20,7 +18,6 @@ Posted by: DeepDotWeb
 <p>The state of New York has unveiled its Bitcoin license rules. As related by Jose Pagliery of <a href="http://money.cnn.com/2014/07/18/technology/bitcoin-license/">CNN Money</a>, “BitLicenses” would move the digital currency closer to “a legitimate form of money.” The new rules would lead to background checks for all Bitcoin trading businesses as well as open them to inspections from regulators. The requirements would apply to businesses involved in Bitcoin circulation. In other words, only those organizations that buy, sell, and store the digital currency will be affected. Users who spend their money online or in physical shops that accept Bitcoin need not worry as much about the new regulations.</p>
 <p>While the new “BitLicense” regulations may been designed with a positive end in mind, the rules have not been without criticism in digital spaces. Kyle Torpey of <a href="http://www.cryptocoinsnews.com/news/satoshi-nakamoto-criminal-proposed-bitlicense-regulations/2014/07/18">CryptoCoin News</a> notes that not only has the Bitcoin community as a whole reacted negatively to the news, but BitLicense also turns creator Satoshi Nakamoto into a criminal after forty-five days. While Nakamoto could come to New York to register his creation and avoid such charges, Torpey finds that possibility to be unlikely.</p>
 <p>Jon Southurst of <a href="http://www.coindesk.com/australian-lawyers-bitcoin-groups-call-clarity-regulation/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+CoinDesk+(CoinDesk+-+The+Voice+of+Digital+Currency)">CoinDesk</a> writes that Australian lawyers and Bitcoin groups are calling for more clarity with regard to Bitcoin regulation. Ronald Tucker of the Australian Digital Currency Commerce Association (ADCCA) held a Bitcoin awareness-raising seminar last week that was attended by both Bitcoin business representatives and Australian government stakeholders. At the event, the ADCCA made a pitch for allowing the Bitcoin industry to self-regulate with the assistance of a government liaison.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/18/" rel="tag">18</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-07-20
     

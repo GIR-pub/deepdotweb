@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin news round-up 09.06.2014---
+title: "Bitcoin news round-up 09.06.2014"
+---
 
-5956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1690 tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>June 10, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/10/bitcoin-news-round-09-06-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p>Bitcoin’s price has dropped slightly this week after seeing exceptional gains of 30% last week following the bitcoin conference in Amsterdam and news that Apple’s app store would take a more lenient approach to allowing use of the virtual currency in apps. Bitcoin currently stands at $646.20, down slightly from $658.79 on Monday 2 June.</p>
 <p>Despite last week’s solid growth that the currency was privy to – which was spurred on by institutional investors and early adopters upping their positions in the currency – bitcoin has suffered a number of policy setbacks this week; although not enough to scare investors away entirely. Fox News reported that the constricting range in the coin’s value could be pointing to a break out, potentially pushing it past the $700 mark</p>
 <blockquote class="twitter-tweet" width="550">
@@ -22,7 +20,6 @@ Posted by: DeepDotWeb
 <p>Swiss finance regulators dealt <a href="http://www.reddit.com/r/Bitcoin/comments/279w1d/switzerland_finma_swiss_financial_market/chytwqs" target="_blank">a blow</a> to bitcoin this past week after the Swiss Financial Market Supervisory Authority requested Bitcoin Suisse AG, which operated bitcoin ATMs in Switzerland and Holland, to suspend its planned launch of ATMs in Zurich. The suspension is in place until “legal questions can be clarified” although it wasn’t clear what these questions are. Bitcoin Suisse said it intends to be back in action by June.</p>
 <p>The US Securities and Exchange Commission (SEC) <a href="http://www.sec.gov/News/PressRelease/Detail/PressRelease/1370541972520#.U5bhYHYXLBb" target="_blank">imposed fines</a> on Erik Voorhees without first issuing guidance on whether he needed to register his ventures, which were raising bitcoins in exchange for shares. Voorhees had raised 50,000 bitcoins throughout 2012 and 2013 on public bitcoin forums, trading them for stakes in SatoshiDICE and FeedZeBirds. For the SEC to justify the case it would have to consider bitcoin as money; however the IRS declared the currency is not money, but rather property. With various regulators deciding on different definitions of the cryptocurrency, Voorhees had no way of knowing he needed to register with the regulator. Voorhees settled the case with the SEC for $50,000 without accepting or denying the charges.</p>
 <p>One policy story that did reflect well on bitcoin was that the European Central Bank <a href="http://www.cryptocoinsnews.com/news/ecb-announces-negative-interest-rates-bitcoin-price-rallies/2014/06/05" target="_blank">announced a negative interest rate</a> for banks storing euros in central bank vaults. The news made bitcoin gain $15 whilst the price of euros and dollars on the FX market dropped one cent; although it gained it back later in the day. The move highlights the volatility of bitcoin, though also the lack of trust in the euro’s stability, Forbes reported.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/09062014/" rel="tag">09062014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2014-06-10
     

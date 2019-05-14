@@ -2,12 +2,10 @@
 title: "Personal Experience: Part 5 – Marketplaces"
 ---
 
-6837 post type-post status-publish format-standard has-post-thumbnail hentry  tag-experience tag-experiencetag tag-marketplaces tag-personal
-Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+
+Posted by: Joseph Meehan
 <span>October 21, 2014</span>
-    
-<a href="/2014/10/21/personal-experience-part-5-marketplaces/#comments">1 Comment</a></span>
-</p>
+
 <p><em>This a post in series of posts describing a personal experience from learning about the DNM’s to becoming a vendor – all the parts of this series will be available to here: <a href="http://www.deepdotweb.com/tag/ExperienceTag/">ExperienceTag</a></em></p>
 <p>Grandi pointed me towards two different Darknet marketplaces to check out: <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora Marketplace</a> and <a href="http://www.deepdotweb.com/marketplace-directory/listing/the-marketplace-i2p">The Marketplace</a>. Agora is on the TOR network and The Marketplace is on I2P, although you can also access The Marketplace through TOR.</p>
 <p>I used the referral link on the DeepDotWeb <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of Darknet marketplaces</a> to navigate to Agora Marketplace. Registering for an account was an easy process that didn&#8217;t require an email address, only username, password and wallet PIN number. Once you put in the information you can login and view the listings on the site. I was greeted with a number of different illicit substances right on the front page, as well as some ebook and cigarette listings. A standard search bar and list of categories lets users explore listings on the site. Each product listing includes the name of the product, a description, where it&#8217;s from, where it can ship to, price and a list of vendor feedback.</p>
@@ -16,7 +14,7 @@ Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Jo
 <p>There are two different vendor account options: Level 1 and Level 2. Level 1 requires a higher bitcoin deposit, but The Marketplace takes a smaller commission from your sales. Level 2 accounts require a smaller initial deposit but The Marketplace takes a higher percentage of each sale.</p>
 <p>It is clear that both of these marketplaces, while they did offer other goods and services, were heavily geared towards substances. One of the three main categories on The Marketplace is Drugs, and the other categories had little or no activity. Agora offers a wider selection of service-type offerings, but no real freelance writing services. After poking around on both of these marketplaces there was an opportunity for me to provide freelance writing services. Before I can do that though, I&#8217;m going to have to get a verified vendor account on the two sites. I&#8217;m also going to have to do some research on multi-signature Bitcoin transactions to fully understand the process.</p>
 <p>Grandi offered to pay me in BTC for some work he needs done. I&#8217;ll be occupying my time with that and with some research on multi-signature transactions until I have the required BTC to start my own vendor accounts.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/experience/" rel="tag">experience</a> <a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a></span> 
-Updated: 2014-10-21<a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
+
+Updated: 2014-10-21
+
     

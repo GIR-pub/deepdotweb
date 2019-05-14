@@ -2,12 +2,9 @@
 title: "30,000 Seized Bitcoins From Silk Road Are Up for Sale!"
 ---
 
-6004 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1707 tag-sale tag-seized 
 Posted by: DeepDotWeb
 <span>June 12, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/12/30000-seized-bitcoins-from-silk-road-are-up-for-sale/#comments">5 Comments</a></span>
-</p>
+
 <p><strong>As it was published in a press release by the US government:</strong></p>
 <blockquote><p>The US Marshals are preparing to auction nearly 30,000 bitcoins in connection with a civil forfeiture and criminal action brought against Ross Ulbricht and the assets of Silk Road in October 2013 in federal court in the Southern District of New York.</p>
 <p>The auction will take place during a 12-hour period on June 27 from 6 a.m. until 6 p.m. Eastern Daylight Time. Bids will be accepted by email from registered bidders using a form available from the US Marshals Web page, www.usmarshals.gov/assets/2014/bitcoins.</p>
@@ -22,7 +19,6 @@ Posted by: DeepDotWeb
 <p>THIS AUCTION DOES NOT INCLUDE THE BITCOINS CONTAINED IN WALLET FILES THAT RESIDED ON CERTAIN COMPUTER HARDWARE BELONGING TO ROSS WILLIAM ULBRICHT, THAT WERE SEIZED ON OR ABOUT OCTOBER 24, 2013 (“DPR SEIZED COINS”).</p></blockquote>
 <p>This explains all the reporting about Bitcoin movements from these 2 seized addresses <a href="https://blockchain.info/address/1F1tAaz5x1HUXrCNLbtMDqcw6o5GNn4xqX">here</a> and <a href="https://blockchain.info/address/1FfmbHfnpaZjKFvyi1okTjJJusN455paPH">here</a> containing all the coins seized from DRP (Ross Ulbricht) on the Silk Road bust.</p>
 <p>The value of these coins at this time is around 18$ million. Along with the notice about the auction, Bitcoins had a noticeable decline in value.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/30000/" rel="tag">30000</a>  <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
+
 Updated: 2014-06-12
     

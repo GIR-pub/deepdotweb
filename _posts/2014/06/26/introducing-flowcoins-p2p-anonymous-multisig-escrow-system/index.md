@@ -2,12 +2,9 @@
 title: "Introducing Flowcoins: P2P &#038; Anonymous Multisig Escrow System"
 ---
 
-6228 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-escrow tag-flowcoins tag-introducing tag-multisig tag-p2p tag-system
 Posted by: DeepDotWeb
 <span>June 26, 2014</span>
-    
-<a href="/2014/06/26/introducing-flowcoins-p2p-anonymous-multisig-escrow-system/#comments">2 Comments</a></span>
-</p>
+
 <p>We are happy to introduce Flowcoins, an interesting new service providing P2P &amp; Multisig Escrow System operating both on the clearnet and in Tor. Which includes some new and innovative features:</p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong>Tor Version: </strong>k5wsvjf3m54cfl44.onion<br />
@@ -57,7 +54,6 @@ Posted by: DeepDotWeb
 <strong>Tor Version: </strong>k5wsvjf3m54cfl44.onion<br />
 <strong>Clearnet Version</strong>: https://flowcoins.li/
 </div></div>
-</div>
-<a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/escrow/" rel="tag">escrow</a> <a href="https://www.deepdotweb.com/tag/flowcoins/" rel="tag">flowcoins</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a> <a href="https://www.deepdotweb.com/tag/multisig/" rel="tag">multisig</a> <a href="https://www.deepdotweb.com/tag/p2p/" rel="tag">p2p</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a></span> 
+
 Updated: 2014-06-26
     

@@ -2,12 +2,9 @@
 title: "African Countries That are Set To Pioneer Bitcoin System"
 ---
 
-7215 post type-post status-publish format-standard has-post-thumbnail hentry  tag-african tag-bitcoin tag-countries tag-pioneer tag-set tag-system
-Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
+Posted by: Dennis Wafula
 <span>October 7, 2014</span>
-    
-<a href="/2014/10/07/african-countries-set-pioneer-bitcoin-system/#comments">1 Comment</a></span>
-</p>
+
 <p>With a population of   over one billion people and comprising over 50 countries, Africa as a continent is a fertile ground for the growth of the digital currency market.</p>
 <p>However, the continent is one of contrasts with countries being at different levels of economic and Information infrastructure development, more so in the sphere of Information and Communication Technologies (ICT). For example a country like South Africa has   advanced financial systems, high penetration of internet connectivity and mobile phone usage compared to Sierra Leone or Mozambique.</p>
 <p>It is irrefutable that mobile networks in some African countries have enabled individuals and small businesses to undertake financial transactions more than the banking industry. Kenya’s M-pesa, and <a href="https://www.econet.co.zw/ecocash/">EcoCash </a>in Zimbabwe, are just but good examples. Kenya, seen as Africa’s leader in internet growth is already using digital currency market platforms such as PayPal.</p>
@@ -25,7 +22,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">De
 <p>For the case of Morocco, another North African country like Tunisia, access to mobile services exceeds that of the access to banking services. Particularly, the mobile services access which is about 70 percent while that of the banking services is about 40 percent according to the International Telecommunication Union, IFC). The yawning gaps have offered opportunities for the launching and expansion of the M-money in Morocco and other platforms such as bitcoins.</p>
 <p>As with other regions, Africa also faces the threats posed by internet security and privacy issues. In fact the adoption of bitcoins has been slow even in countries with advanced systems like South Africa due to misconceptions about the safety of the crypto-currency and a lack of accessibility.</p>
 <p>But one can conclude that with several countries showing positive signs on the road towards adoption of the Bitcoin system, the future is bright.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/african/" rel="tag">african</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/countries/" rel="tag">countries</a> <a href="https://www.deepdotweb.com/tag/pioneer/" rel="tag">pioneer</a> <a href="https://www.deepdotweb.com/tag/set/" rel="tag">set</a> <a href="https://www.deepdotweb.com/tag/system/" rel="tag">system</a></span> 
-Updated: 2014-10-07<a href="https://www.deepdotweb.com/author/denniswafula/" title="Posts by Dennis Wafula" rel="author">Dennis Wafula</a></strong></div>
+
+Updated: 2014-10-07
     

@@ -1,12 +1,10 @@
 ---
-title: "Op-Ed: Why Europe&#8217;s Demand For DNMs Is Going To SkyRocket---
+title: "Op-Ed: Why Europe&#8217;s Demand For DNMs Is Going To SkyRocket"
+---
 
-8246 post type-post status-publish format-standard has-post-thumbnail hentry  tag-demand tag-dnms tag-europes tag-oped tag-skyrocket
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+Posted by: Greg Miller
 <span>November 25, 2014</span>
-    
-<a href="/2014/11/25/op-ed-europes-demand-dnms-going-skyrocket/#comments">3 Comments</a></span>
-</p>
+
 <p>News coverage has played the recent <a href="http://www.deepdotweb.com/tag/operation-onymous/">operation Onymous</a> as an international operation on the deep web but has failed to explore the trend that is born out of and its implications. The truth is the main driver of the operation is one of Europe’s most liberal countries when it comes to drugs, or at least used to be. It is not just an assault on everything deep web and drugs, but everything that is drugs.</p>
 <p>All of this seems to spell doom for the deep web, but is not the case. While it seems like the danger level is hitting code red levels, it is far from the truth. Actually, while <a href="http://www.deepdotweb.com/tag/operation-onymous/">Onymous</a> was the biggest operation on the deep web to date, the project which Onymous was born from actually spells success for deep web marketplaces in Europe.</p>
 <p><a title="ITOM Revealed: Europe’s Plan To Crack Down On The Online Drug Trade" href="http://www.deepdotweb.com/2014/09/28/itom-europes-plan-crack-online-drug-trade/">ITOM</a>, the project Onymous spawned from and created an international focus on the deep web, originates in one of Europe’s most drug friendly countries is part of a growing trend of a harsher stance towards drugs in one of Europe’s most drug friendly countries &#8211; the Netherlands.</p>
@@ -39,7 +37,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <li>As the local supplies dry up, they will turn to the global online marketplaces for a supply.</li>
 <li>The social network effects that the street trade used to possess, and now belong to the deep web and the whole growth is quicken.</li>
 </ol>
-</div>
-<a href="https://www.deepdotweb.com/tag/demand/" rel="tag">demand</a> <a href="https://www.deepdotweb.com/tag/dnms/" rel="tag">dnms</a> <a href="https://www.deepdotweb.com/tag/europes/" rel="tag">europes</a> <a href="https://www.deepdotweb.com/tag/oped/" rel="tag">oped</a> <a href="https://www.deepdotweb.com/tag/skyrocket/" rel="tag">skyrocket</a></span> 
-Updated: 2014-11-25<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-11-25
     

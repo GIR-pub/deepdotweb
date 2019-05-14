@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin Price Recap &#8211; October 13---
+title: "Bitcoin Price Recap &#8211; October 13"
+---
 
-7369 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-bitcoin tag-price tag-recapoctober
-Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+Posted by: Evan Faggart
 <span>October 13, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/13/bitcoin-price-recap-october-13/#respond">Leave a comment</a></span>
-</p>
+
 <p>This past week on the Bitcoin markets have been very eventful and hectic. Starting on the decline, the Bitcoin price ran into a sell wall put up by an alleged, single person, whom the Bitcoin community has dubbed the “BearWhale.” After the wall was taken down by buyers on the market, the price shot upwards, making considerable gains. Let us take a look at the daily opening prices on the Bitstamp Bitcoin exchange for the week. Note that October 12 has the closing price listed, rather than the opening price.</p>
 <p>Note: The prices in this list have been rounded to the nearest dollar amount. Therefore, the descriptions of the price movements in this report will not be 100% accurate.</p>
 <p>Oct 5: $335</p>
@@ -24,7 +22,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Eva
 <p>Saturday, October 11, opened at $360. After a slight dip and a subsequent rebound towards midday, the price stayed fairly level. From 3 PM until midnight, the end of the day, the Bitcoin price hovered between the high $350s and the low to mid $360s. At midnight, the close of the day, the price stood at $362—making for almost no overall change throughout the course of the entire day.</p>
 <p>Now we will cover the Bitcoin price activity of Sunday, October 12. Normally, we run our price reports from the beginning of Sunday all the way through the week, until we reach the closing price on Saturday. However, since the price report is being posted a day later than it normally is (on Monday instead of Sunday), we have decided to add the activity of Sunday to this report in order to keep the information as up to date as possible. That being said, let us look at what happened on the markets during the 12<sup>th</sup> of October.</p>
 <p>Sunday began with the Bitcoin price at $360. After a very slight decline in the early morning hours, the price began climbing, which it would continue to do for most of the day. By the bottom of the noon hour, the price had reached $364, not very much progress from the beginning of the day. However, starting at 2 PM, the Bitcoin price shot upwards. By the end of the 2 PM hour, the price had risen to $380; the markets then saw a daily high of $383.6 at some point during the 3 PM hour. After 3 PM, though, the price began declining once more. The day closed on this downward slide, with the Bitcoin price at $374. Although, despite the fact that October 12 closed on the decline, the price still made net gains—the closing price on October 12 was 3.89% higher than the opening price on October 11.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/13/" rel="tag">13</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/recapoctober/" rel="tag">recapoctober</a></span> 
-Updated: 2014-10-13<a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    
+
+Updated: 2014-10-13    

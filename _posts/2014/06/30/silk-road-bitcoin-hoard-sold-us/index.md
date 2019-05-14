@@ -2,12 +2,9 @@
 title: "Silk Road Bitcoin hoard sold in US!"
 ---
 
-6286 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-hoard 
 Posted by: DeepDotWeb
 <span>June 30, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/30/silk-road-bitcoin-hoard-sold-us/#respond">Leave a comment</a></span>
-</p>
+
 <p><strong>Update From <a href="http://www.coindesk.com/us-marshals-release-new-data-silk-road-bitcoin-auction/">Coindesk</a>: </strong></p>
 <blockquote><p>The US Marshals Service (USMS), the federal agency tasked with managing the auction of more than 30,000 BTC seized from defunct online black market Silk Road, has released new data about Friday’s event.</p>
 <p>The agency told CoinDesk that 45 registered bidders participated in the event, and that 63 bids were received over the course of the auction, which ran from 6am EST to 6pm EST on 27th June.</p>
@@ -26,7 +23,6 @@ Posted by: DeepDotWeb
 <p>The bitcoin hoard was sold by being split into nine blocks of 3,000 coins and one of 2,657.</p>
 <p>The US Marshals declined to name who had put down bids for the coins although earlier this month the agency accidentally leaked a list of some of the buyers in an email update about the sale.</p></blockquote>
 <p><strong>The Winning bidders will be announced today at 5pm USA time, we will update this info once it will be published.</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/hoard/" rel="tag">hoard</a>  <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span> 
+
 Updated: 2014-06-30
     

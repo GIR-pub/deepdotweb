@@ -2,12 +2,9 @@
 title: "129 Of the Seized &#8220;.Onion&#8221; Domains Were at a Single Bulgarian Hosting"
 ---
 
-8069 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2372 tag-bulgarian tag-domains tag-hosting tag-onion tag-operation-onymous tag-seized 2bust tag-single
 Posted by: DeepDotWeb
 <span>November 8, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/08/129-seized-onion-domains-single-bulgarian-hosting/#comments">9 Comments</a></span>
-</p>
+
 <p><strong>Previous posts available at the <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 Bust Tag (Operation #Onymous) </a></strong></p>
 <p>According to a <a href="http://www.dans.bg/en/press-releases-menu-en">press release</a> by the Bulgarian National security  agency &#8211; (crappy google translate) The investigation in the Bulgarian Internet space have been identified and suspended 129 hidden websites offering multiple services in TOR network, including the distribution of sexual abuse of children, distribution profiles payment platforms, credit card, drugs, weapons contract killings, illegal trade in Bitcoin and money laundering. In their place is placed special banner of the operation (see photo). Used is the infrastructure hosting company in Bulgaria. All information of the servers providing the services was copied.</p>
 <p>This is yet another evidence that the main method that was used by law enforcement to find and take down the site was to target specific hosting services.</p>
@@ -32,7 +29,6 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/11/2014-11-07_DarknetActionDay1.jpg"><img class="aligncenter size-full wp-image-8076" src="/imgs/2014/11/2014-11-07_DarknetActionDay1.jpg" alt="2014-11-07_DarknetActionDay[1]" width="620" height="206" srcset="/imgs/2014/11/2014-11-07_DarknetActionDay1.jpg 620w, /imgs/2014/11/2014-11-07_DarknetActionDay1-300x100.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></a></p>
 <p>&nbsp;</p>
 <p><a href="/imgs/2014/11/11.jpg"><img class="aligncenter  wp-image-8070" src="/imgs/2014/11/11.jpg" alt="1[1]" width="696" height="522" srcset="/imgs/2014/11/11.jpg 958w, /imgs/2014/11/11-300x225.jpg 300w" sizes="(max-width: 696px) 100vw, 696px" /></a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/129/" rel="tag">129</a> <a href="https://www.deepdotweb.com/tag/bulgarian/" rel="tag">bulgarian</a> <a href="https://www.deepdotweb.com/tag/domains/" rel="tag">domains</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/seized/" rel="tag">seized</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a> <a href="https://www.deepdotweb.com/tag/single/" rel="tag">single</a></span> 
+
 Updated: 2014-11-08
     

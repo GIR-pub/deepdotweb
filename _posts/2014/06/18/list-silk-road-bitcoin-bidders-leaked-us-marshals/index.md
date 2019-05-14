@@ -2,12 +2,10 @@
 title: "List of Silk Road Bitcoin Bidders Leaked by US Marshals"
 ---
 
-6100 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bidders tag-bitcoin tag-leaked tag-list tag-marshals 
+
 Posted by: DeepDotWeb
 <span>June 18, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/18/list-silk-road-bitcoin-bidders-leaked-us-marshals/#respond">Leave a comment</a></span>
-</p>
+
 <p>As it was published in <a href="http://www.coindesk.com/list-possible-silk-road-bitcoin-bidders-allegedly-leaked-us-marshals/" target="_blank">Coindesk</a>:</p>
 <p><a href="/imgs/2014/06/bitcoin-reply-all1.png"><img class="aligncenter wp-image-6114 size-full" src="/imgs/2014/06/bitcoin-reply-all1.png" alt="bitcoin-reply-all[1]" width="680" height="284" srcset="/imgs/2014/06/bitcoin-reply-all1.png 680w, /imgs/2014/06/bitcoin-reply-all1-300x125.png 300w" sizes="(max-width: 680px) 100vw, 680px"/></a></p>
 <blockquote><p>A list of potential buyers for almost 30,000 bitcoins confiscated from the now-defunct Silk Road black marketplace has been leaked via email by the US Marshals Service (USMS).</p>
@@ -36,7 +34,6 @@ Posted by: DeepDotWeb
 <blockquote><p>“One of the emails that we sent out this morning inadvertently showed a list of some of the individuals who have asked a question or questions about the pending bitcoin auction. We apologize for the error.”</p></blockquote>
 <p>Notably, the email address which sent the original message to potential buyers was the same the USMS required bidders to use when sending information to be considered.</p></blockquote>
 <p>Source: <a href="http://www.coindesk.com/list-possible-silk-road-bitcoin-bidders-allegedly-leaked-us-marshals/" target="_blank">http://www.coindesk.com/list-possible-silk-road-bitcoin-bidders-allegedly-leaked-us-marshals/</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bidders/" rel="tag">bidders</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/leaked/" rel="tag">leaked</a> <a href="https://www.deepdotweb.com/tag/list/" rel="tag">list</a> <a href="https://www.deepdotweb.com/tag/marshals/" rel="tag">marshals</a> </span> 
+
 Updated: 2014-06-18
     

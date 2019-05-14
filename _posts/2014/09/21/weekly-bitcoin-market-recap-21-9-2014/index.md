@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin Market Recap: 21-9-2014---
+title: "Weekly Bitcoin Market Recap: 21-9-2014"
+---
 
-7176 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1966 tag-bitcoin tag-recap tag-weekly
-Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+Posted by: Evan Faggart
 <span>September 21, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/21/weekly-bitcoin-market-recap-21-9-2014/#comments">1 Comment</a></span>
-</p>
+
 <p>This article is the first installment of a new weekly series on DeepDotWeb. This new series will serve as a weekly Bitcoin price recap, which will give a description of the price movements throughout the week as well as a measurement of the percent rate of change that the price underwent during the week. Additionally, we will use this report to cover any news stories that had a clear and definite impact on the price, whenever such a news development hits the community.</p>
 <p>Now, let us look at a list of the daily opening prices on Bitstamp. Please note that this list shows the closing price on September 20 instead of the opening price; this difference in denotation is due to the fact that the close of the 20<sup>th</sup> signals the end of the week, and thereby the end of our report.</p>
 <p><em>These prices have been rounded to the nearest dollar value. Therefore, the following description of the Bitcoin price movement for the week will not be 100% accurate. </em></p>
@@ -26,7 +24,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Eva
 <p>The market attempted to recover on September 20<sup>th</sup>, starting out at $409 and climbing back into the $430s by 12 PM. However, those gains were lost in the latter half of the day, when the price fell back into the low $410s and stayed there for the rest of the day. The week ended at the close of September 20<sup>th</sup>, with the price at $410.</p>
 <p>There has been much speculation in the Bitcoin community about the cause of this rapid decline in the price, with the speculation serving as a point of heated debate. One side of the debate maintains that the general downward trend that has prevailed for several months—not just the rapid declines that happened this past week—comes from increasing merchant adoption. As more and more merchants accept Bitcoin, they argue, the more selling pressure increases due to these merchants converting their Bitcoin revenue to fiat. On the other side of the debate, the argument holds that merchants are not making enough Bitcoin revenue to produce this kind of downward trend. Instead, the <em>real </em>cause of the price drops, they advance, is due to miners dumping their block rewards on the exchanges so they can get fiat to pay their expenses.</p>
 <p>In reality, the cause of this week&#8217;s losses, and the overall downtrend of recent months, is likely due to multiple factors; these factors are so intertwined and influenced by each other that it is impossible to specify a single one as the definite catalyst for the downward pressure on the Bitcoin price.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/21/" rel="tag">21</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/recap/" rel="tag">recap</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
-Updated: 2014-09-21<a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    
+
+Updated: 2014-09-21    

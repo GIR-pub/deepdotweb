@@ -2,12 +2,9 @@
 title: "NSA&#8217;s XKeyscore Source Code Leaked: All Tor Users Classified As &#8216;Extremists&#8217;"
 ---
 
-6324 post type-post status-publish format-standard has-post-thumbnail hentry  tag-classified tag-code tag-extremists tag-leaked tag-nsas tag-source  tag-users tag-xkeyscore
 Posted by: DeepDotWeb
 <span>July 3, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/03/nsas-xkeyscore-source-code-leaked-tor-users-classified-extremists/#comments">6 Comments</a></span>
-</p>
+
 <p>As it was published by <a href="http://rt.com/news/170208-nsa-spies-tor-users/">RT</a>:</p>
 <blockquote><p>The NSA has been revealed to mark and consider potential &#8220;extremists&#8221; all users of the internet anonymizer service Tor. Among those are hundreds of thousands of privacy concerned people like journalists, lawyers and rights activists.</p>
 <p>Searching for encryption software like the Linux-based operating system Tails also places you on the NSA grid, as Lena Kampf, Jacob Appelbaum and John Goetz <a href="https://translate.google.com/translate?depth=1&amp;hl=en&amp;ie=UTF8&amp;prev=_t&amp;rurl=translate.google.com&amp;sl=de&amp;tl=en&amp;u=http://www.tagesschau.de/inland/nsa-xkeyscore-100.html" target="_blank">revealed</a> on the German site Tagesschau. The report is based on analysis of the source code of the software used by NSA’s electronic surveillance program XKeyscore.</p>
@@ -35,7 +32,6 @@ Posted by: DeepDotWeb
 <p>Ironically, Tor was originally created for the US Navy and still receives a major part of its funding from the US government &#8211; the same government that considers its users &#8220;extremists&#8221;.</p>
 <p>Anonymous experts <a href="http://boingboing.net/2014/07/03/if-you-read-boing-boing-the-n.html" target="_blank">told</a> Boing Boing that the new leak may come from a second source, not Edward Snowden as nothing of the kind had ever been seen this in the original Snowden documents or intended publications</p></blockquote>
 <p><strong>Article source</strong>: <a href="http://rt.com/news/170208-nsa-spies-tor-users/">http://rt.com/news/170208-nsa-spies-tor-users/</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/classified/" rel="tag">classified</a> <a href="https://www.deepdotweb.com/tag/code/" rel="tag">code</a> <a href="https://www.deepdotweb.com/tag/extremists/" rel="tag">extremists</a> <a href="https://www.deepdotweb.com/tag/leaked/" rel="tag">leaked</a> <a href="https://www.deepdotweb.com/tag/nsas/" rel="tag">nsas</a> <a href="https://www.deepdotweb.com/tag/source/" rel="tag">source</a>  <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/xkeyscore/" rel="tag">xkeyscore</a></span> 
+
 Updated: 2014-07-03
     

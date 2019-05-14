@@ -2,7 +2,6 @@
 title: "Agora Down Time: Hardware Failure"
 ---
 
-6643 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora
 Posted by: DeepDotWeb
 <span>July 30, 2014</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
@@ -25,7 +24,6 @@ Posted by: DeepDotWeb
 <p>And if you like to discuss the up/downs  &#8211; visit Agora&#8217;s sub reddit:  http://www.reddit.com/r/AgMarketplace</p>
 <p>Or /r/darknetmarkets.</p>
 <p>&nbsp;</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a></span> 
+
 Updated: 2014-07-30
     

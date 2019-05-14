@@ -1,13 +1,9 @@
 ---
-title: "Guide: Preventing &#038; Dealing With Compromised Identity---
+title: "Guide: Preventing &#038; Dealing With Compromised Identity"
+---
 
-6199 post type-post status-publish format-standard has-post-thumbnail hentry  tag-compromised tag-identity">
-    
-<    
-    
-        
-Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
-    
+
+Posted by: Doug Roberts    
     
 <span>September 24, 2014</span>
     
@@ -86,9 +82,7 @@ Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Dou
 <li>The most important thing to remember, in the case of the deep web, it is better to do it right, or don&#8217;t do it at all. A slip in beginning can hunt you for the rest of your days. Do it right, and you won&#8217;t have to worry.</li>
 </ul>
     
-    
-<a href="https://www.deepdotweb.com/tag/compromised/" rel="tag">compromised</a> <a href="https://www.deepdotweb.com/tag/identity/" rel="tag">identity</a></span>				
-Updated: 2014-09-24<a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
+Updated: 2014-09-24
     
     
 

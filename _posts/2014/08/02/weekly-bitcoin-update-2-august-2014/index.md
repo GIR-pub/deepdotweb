@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin Update – 2 August 2014---
+title: "Weekly Bitcoin Update – 2 August 2014"
+---
 
-6687 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-august tag-bitcoin tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>August 2, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/08/02/weekly-bitcoin-update-2-august-2014/#comments">1 Comment</a></span>
-</p>
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p>Bitcoin and Apple are together once again. As Jose Pagliery of <a href="http://money.cnn.com/2014/07/28/technology/innovationnation/apple-bitcoin/">CNN</a> writes, Blockchain.info, which had previously been banned during the month of February, has returned to Apple&#8217;s App Store. Celebrating Apple&#8217;s decision, Blockchain.info CEO Nicholas Cary wrote that he believed “this will be a shot in the arm for the whole industry,” which may have become a bit disillusioned due to Apple&#8217;s previous hard stance against the cryptocurrency. The application ought to become available once Apple&#8217;s servers update their systems.</p>
 <p>Interest in Bitcoin is booming in Romain. As Luiza Ilie of <a href="http://uk.reuters.com/article/2014/07/28/us-romania-bitcoin-idUKKBN0FX0VQ20140728">Reuters</a> reports, despite its standing as the European Union&#8217;s second-poorest nation, the country has been drawn to the cryptocurrency thanks to anti-establishment tendencies left over from its bout with communism. Representatives from the tech-savvy country, which opened its first Bitcoin ATM in May, believe the currency could even grow to be used in grocery stores.</p>
@@ -19,7 +17,6 @@ Posted by: DeepDotWeb
 <p>The Wikimedia Foundation will now accept donations in the form of Bitcoin, Noah Rayman of <a href="http://time.com/3059325/wikimedia-wikipedia-bitcoin-donations/">TIME</a> reports. Wikimedia, who is responsible for the online encyclopedia Wikipedia, funds itself almost exclusively through donations. Accepting donations through bitcoin will help “the Foundation to make sure donating is as simple and inclusive as possible,” according to Lisa Seitz Gruwell, Wikimedia&#8217;s chief revenue officer. In order to facilitate the donations, Wikimedia has stated it will use Coinbase to accept and convert the cryptocurrency into US dollars.</p>
 <p>Relatedly, Coinbase announced this week that it will no longer be charging processing fees for nonprofit organizations. According to Dan Palmer of <a href="http://www.coindesk.com/coinbase-drops-bitcoin-processing-fees-non-profits/">CoinDesk</a>, all registered 501(c) nonprofits will now be able to exchange their donations and receive a bank transfer without having to pay any fees. Palmer also explained the overall significance Coinbase&#8217;s decision to nonprofit organizations as a whole, who often lost three-quarters of their donated funds to such fees.</p>
 <p>Remaining on the subject of nonprofits and charitable organizations, the Royal National Lifeboat Institution announced this week that it would begin to accept donations in the form of Bitcoin. As Howard Lake of <a href="http://www.fundraising.co.uk/2014/07/31/rnli-accept-donations-bitcoin/">UKFundraising</a> reports, the RNLI claims to be “the first major charity in the UK or Ireland to accept Bitcoin.” Deputy Director of Fundraising and Communications Leesa Harwood not only linked the RNLI&#8217;s decision to the organization&#8217;s history of fundraising innovation, staking claim to the first street collection in 1891, but also that Bitcoin could help to link the RNLI with “new types of supporters.”</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-08-02
     

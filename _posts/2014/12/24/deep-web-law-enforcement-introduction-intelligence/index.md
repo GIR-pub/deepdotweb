@@ -2,9 +2,7 @@
 title: "Deep Web &#038; Law Enforcement: Introduction to Intelligence"
 ---
 
-7950 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-enforcement tag-intelligence tag-introduction tag-law tag-web">
-    
-<    
+7950  tag-deep tag-enforcement tag-intelligence tag-introduction tag-law tag-web    
     
         
 Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
@@ -29,7 +27,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Alle
     
     
 <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/intelligence/" rel="tag">intelligence</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				
-Updated: 2014-12-24<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    
-    
+Updated: 2014-12-24    
 

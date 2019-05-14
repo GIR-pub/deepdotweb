@@ -1,12 +1,10 @@
 ---
-title: "Exclusive: Large Number Of Deep Web Child Abuse Sites Shut Down Abruptly---
+title: "Exclusive: Large Number Of Deep Web Child Abuse Sites Shut Down Abruptly"
+---
 
-6190 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abruptly tag-abuse tag-child tag-deep tag-exclusive tag-large tag-number tag-shut tag-sites tag-web
 Posted by: DeepDotWeb
 <span>June 24, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/24/large-number-of-child-abuse-sites-shut-down-abruptly/#comments">47 Comments</a></span>
-</p>
+
 <p style="text-align: center;"><em>Sunlight is the best disinfectant</em></p>
 <p>In some other Good news &#8211; A source just informed us that a large number of well known websites that operated for a long time on the Tor network (.onion sites), some of them offering the worse type of child abuse content including the singe site inside the Tor Network offering content of children being raped and tortured were shut down abruptly by their owner,  an infamous anonymous figure  known as &#8220;Lux&#8221; who just posted a PGP signed message stating:</p>
 <blockquote><p>As always, all Empires eventually fall and today is the day that the {Removed} falls.</p>
@@ -24,7 +22,6 @@ Posted by: DeepDotWeb
 <blockquote><p>yes her dad knows. but the dad is a pedo too.</p></blockquote>
 <p>This comes only a few days after the BBC published an <a href="http://www.bbc.com/news/technology-27885502">article</a> quoting an active pedo who used to run a website on the TOR network &#8211; which we introduced to them (background <a href="/2014/04/02/poll-should-we-publish-an-interview-with-a-pedo-site-owner/">here</a>) &#8211; We would like to mention that this is <strong>NOT</strong> the same person as the one who shut down his sites, And also when today it became known of nation wide arrests where <a href="http://www.cbsnews.com/news/fbi-168-kids-rescued-281-pimps-nabbed-in-sex-trafficking-crackdown/">168 kids rescued, 281 pimps nabbed in sex-trafficking crackdown</a> that included online activities, we have no confirmed reports that these stories are related in any way.</p>
 <p>Even though its pretty sure that other sites will pop up, its still good news when such sites are being taken down from whatever reason that may be, <strong>and hopefully this will serve as a reminder that the child abuse problem is a real world issue, regardless of the shut down of this site or another.</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/abruptly/" rel="tag">abruptly</a> <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/exclusive/" rel="tag">exclusive</a> <a href="https://www.deepdotweb.com/tag/large/" rel="tag">large</a> <a href="https://www.deepdotweb.com/tag/number/" rel="tag">number</a> <a href="https://www.deepdotweb.com/tag/shut/" rel="tag">shut</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
+
 Updated: 2014-06-24
     

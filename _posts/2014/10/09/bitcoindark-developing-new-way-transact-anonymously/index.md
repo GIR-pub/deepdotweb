@@ -1,13 +1,12 @@
 ---
-title: "BitcoinDark: A New Way To Transact Anonymously---
+title: "BitcoinDark: A New Way To Transact Anonymously"
+---
 
-7109 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymously tag-bitcoindark tag-developing tag-transact">
-<div class="post-inner
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+
+Posted by: Greg Miller
 <span>October 9, 2014</span>
     
-<a href="/2014/10/09/bitcoindark-developing-new-way-transact-anonymously/#comments">2 Comments</a></span>
-</p>
+
 <p>Recently, BitcoinDark, an anonymity focused crypto-currency, blasted its way into headlines as its Teleport technology is nearing completion. The “teleporting” technology works by sending coins that are moved off the blockchain but are still verified by the blockchain, creating a untraceable transaction. According to coinmarketcap.com, BitcoinDark valued has shot up to $5.92 with the news. Perhaps even more impressive, is that it has the 10<sup>th</sup> biggest market capitalization. Its $ 7,010,464 market capitalization is gaining on a famous anonymity focused crypto-currency, Darkcoin.</p>
 <p>BitcoinDark&#8217;s head developer, jl777 describe the teleport in greater depth by issuing this statement about it: &#8220;Anonymous teleporting of funds occurs off the blockchain but is verified using the blockchain [&#8230;] [The system] transmits funds via telepods by transporters. All information needed to spend funds is included in the telepod and sent via the encrypted network to the destination – the telepods are then cloned and passed around to ensure that commerce can be conducted in private.&#8221;</p>
 <p>The Teleport technology is a step beyond the simple mixing that has been the focus of crypto-currencies like Darkcoin or Bitcoin. BitcoinDark is hoping to help other altcoins implement the teleport technology into their coins when it is released. Similar to mixing schemes, the anonymity is equal to the seize of the network. With a small network using the technology, transactions would still be able to be de-anonymized easily. Altcoins are much smaller than Bitcoin and that is why BitcoinDark hopes to combine the networks of various altcoins to provide a sufficient size for the technology.</p>
@@ -19,7 +18,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>BitcoinDark is working on a decentralized exchange to trade BitcoinDark. The project is called InstantDex and would be accessed through the BitcoinDark client. It hopes a decentralized exchange can avoid the fraudulent behavior of centralized exchanges and avoid regulations. PrivateBet is a decentralized betting platform that is being worked on by the developers of BitcoinDark. If successful, this could be a big boost for BitcoinDark as gambling was one of Bitcoin&#8217;s original killer apps, but faced problems due to government regulations.</p>
 <p>BitcoinDark teamed up with Coinomat to make a anonymous debit card which will not require a name and is be issued by a undisclosed bank in Europe. The card will cost $40 for delivery and insurance. Online transactions will be free, but ATM withdraws will be charged a fee. It is has a monthly transaction volume of $10,000, but multiple cards can be ordered. The card is a great solution to the tricky prospect of turning BitcoinDark into fiat, anonymously.</p>
 <p>BitcoinDark is traded on 6 exchanges – Crypto-trade, Poloniex, Cryptsy, Atomic-trade, Bittrex, and Beter. You can find an active community on its subreddit, official forums, and various other social media channels.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/anonymously/" rel="tag">anonymously</a> <a href="https://www.deepdotweb.com/tag/bitcoindark/" rel="tag">bitcoindark</a> <a href="https://www.deepdotweb.com/tag/developing/" rel="tag">developing</a> <a href="https://www.deepdotweb.com/tag/transact/" rel="tag">transact</a></span> 
-Updated: 2014-10-09<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-10-09
     

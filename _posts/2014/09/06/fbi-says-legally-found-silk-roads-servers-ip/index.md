@@ -2,12 +2,10 @@
 title: "The FBI Says How It ‘Legally’ Found Silk Road’s Server&#8217;s Ip"
 ---
 
-6956 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ip tag-legally tag-roads tag-servers 
+
 Posted by: DeepDotWeb
 <span>September 6, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/06/fbi-says-legally-found-silk-roads-servers-ip/#comments">1 Comment</a></span>
-</p>
+
 <p>How do you spell  &#8220;Parallel construction&#8221;?</p>
 <p>Read the wired article at this url to get the answer:</p>
 <p><strong><a href="http://www.wired.com/2014/09/the-fbi-finally-says-how-it-legally-pinpointed-silk-roads-server/" target="_blank">http://www.wired.com/2014/09/the-fbi-finally-says-how-it-legally-pinpointed-silk-roads-server/</a></strong></p>
@@ -35,7 +33,6 @@ Posted by: DeepDotWeb
 <p>Silk Road Prosecution 4th Amendment Rebuttall<br />
 <iframe id="doc_54599" class="scribd_iframe_embed" src="//www.scribd.com/embeds/238796613/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>
 <p>Article Source: <strong><a href="http://www.wired.com/2014/09/the-fbi-finally-says-how-it-legally-pinpointed-silk-roads-server/" target="_blank">http://www.wired.com/2014/09/the-fbi-finally-says-how-it-legally-pinpointed-silk-roads-server/</a></strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/ip/" rel="tag">ip</a> <a href="https://www.deepdotweb.com/tag/legally/" rel="tag">legally</a> <a href="https://www.deepdotweb.com/tag/roads/" rel="tag">roads</a> <a href="https://www.deepdotweb.com/tag/servers/" rel="tag">servers</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
+
 Updated: 2014-09-06
     

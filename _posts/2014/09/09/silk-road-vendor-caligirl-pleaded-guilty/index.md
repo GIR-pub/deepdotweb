@@ -1,12 +1,10 @@
 ---
-title: "Silk Road Vendor Caligirl Pleaded Guilty---
+title: "Silk Road Vendor Caligirl Pleaded Guilty"
+---
 
-7004 post type-post status-publish format-standard has-post-thumbnail hentry  tag-caligirl tag-guilty tag-pleaded tag-vendor
 Posted by: DeepDotWeb
 <span>September 9, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/09/09/silk-road-vendor-caligirl-pleaded-guilty/#respond">Leave a comment</a></span>
-</p>
+
 <p>Matthew Jones, a/k/a “Caligirl,” “Dynamite2k,” “Dynamite<code>,” “Tyler Zeddai,” Who was arrested and charged with the illegal distribution of controlled substances, If convicted, he faces a maximum penalty of 20 years in federal prison.  Jones was arrested last night in Fort Lauderdale.  Previous coverage:</p>
 <ul>
 <li>
@@ -26,7 +24,6 @@ Posted by: DeepDotWeb
 <p>When Jones was arrested, travelling back to the United States from Colombia, he was in possession of approximately 8,500 Oxycodone pills. The pills were concealed in vitamin bottles in his luggage. Simultaneous with his arrest, a federal search warrant was executed at Jones’ Texas residence. At his residence, agents recovered approximately $75,000 in cash, and seized a variety of controlled substances, including but not limited to Oxycodone, Hydrocodone, MDMA, methamphetamine, cocaine, and hashish. A drug lab was also located in the residence. In addition to operating on Silk Road, Jones conducted his illicit drug trafficking business utilizing an encrypted and anonymized peer-to-peer program.</p>
 <p>This case was investigated by the Drug Enforcement Administration’s Orlando District Office, with assistance from the United States Postal Inspection Service in Dallas, Texas. It is being prosecuted by Assistant United States Attorney David Haas.</p></blockquote>
 <p>We will be updating as more info becomes available.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/caligirl/" rel="tag">caligirl</a>  <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2014-09-09
     

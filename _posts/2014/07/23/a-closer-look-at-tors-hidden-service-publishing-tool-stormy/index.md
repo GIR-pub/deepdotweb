@@ -2,12 +2,11 @@
 title: "Tor&#8217;s Hidden Service Publishing Tool, Stormy: A Closer Look"
 ---
 
-6567 post type-post status-publish format-standard has-post-thumbnail hentry  tag-publishing tag-spokesperson tag-stormy tag-tool  s
-Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Doug Roberts </a></span>
+
+Posted by: Doug Roberts </a></span>
 <span>July 23, 2014</span>
     
-<a href="/2014/07/23/a-closer-look-at-tors-hidden-service-publishing-tool-stormy/#comments">2 Comments</a></span>
-</p>
+
 <p style="margin-bottom: 0in;">After reading the Daily Dot story on Tor&#8217;s “point and click” hidden service publishing tool set for launch in September and easy enough for even your mom and dad to use, how could one not be filled with excited anticipation? Considering how difficult it currently is to publish hidden service sites, Stormy, Tor&#8217;s hidden service publishing tool, sounds like a Godsend.</p>
 <div class="im">
 <p style="margin-bottom: 0in;">The Daily Dot <a href="http://www.dailydot.com/technology/tor-stormy-launch-september-2014/" target="_blank">wrote</a>:</p>
@@ -38,7 +37,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/dougroberts/" title="">Dou
 </blockquote>
 </div>
 <p>So while it doesn&#8217;t seem like Stormy will be as easy to use as initially reported, it&#8217;s certainly an extremely beneficial tool to have in one&#8217;s repository, and will definitely provide much needed assistance to various human rights and journalistic organizations who are fighting the good fight around the world. I for one am excited to see what kind of sensitive information various organizations from around the world will begin to share with the public. With the open-source framework and the altruistic mentality of the Tor community, hopefully more user friendly versions will be released in due time.</p>
-</div>
- <a href="https://www.deepdotweb.com/tag/publishing/" rel="tag">publishing</a> <a href="https://www.deepdotweb.com/tag/spokesperson/" rel="tag">spokesperson</a> <a href="https://www.deepdotweb.com/tag/stormy/" rel="tag">stormy</a> <a href="https://www.deepdotweb.com/tag/tool/" rel="tag">tool</a>  <a href="https://www.deepdotweb.com/tag/tors/" rel="tag">tors</a></span> 
-Updated: 2014-07-23<a href="https://www.deepdotweb.com/author/dougroberts/" title="Posts by Doug Roberts" rel="author">Doug Roberts</a></strong></div>
+
+Updated: 2014-07-23
     

@@ -1,12 +1,10 @@
 ---
-title: "Research &#038; News in Tor, Privacy, &#038; Security – Nov 30th, 2014---
+title: "Research &#038; News in Tor, Privacy, &#038; Security – Nov 30th, 2014"
+---
 
-8495 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-30th tag-news tag-nov tag-privacy tag-research tag-security 
-Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a></span>
+Posted by: Kiell
 <span>November 30, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/30/research-news-tor-privacy-security-nov-30th-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><strong>Research</strong></p>
 <p>Wei Yu et al. published a research paper titled “<a href="http://dx.doi.org/10.2991/ijndc.2013.1.3.3">On Effectiveness of Hopping-Based Spread Spectrum Techniques for Network Forensic Traceback</a>”. The paper analyzes efficient techniques for tracing the origin of “cyber crimes through anonymous communication networks.” The paper outlines techniques for performing traffic confirmation attacks through the use of Frequency Hopping Direct Sequence Spread Spectrum (FHSS), Code Hopping-DSSS (CH-DSSS), and Time Hopping-DSSS. An attacker, or as the research paper states, “an investigator”, can use these tecniques to “mark” a target&#8217;s traffic. These techniques could be used to trace traffic through anonymizing networks with both a very low rate of false positives and very low risk of detection.</p>
 <p><strong>News</strong></p>
@@ -28,7 +26,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/kiell/" title="">Kiell </a
 <p>&mdash; Blockchain (@blockchain) <a href="https://twitter.com/blockchain/status/538719868292706304">November 29, 2014</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p>Europol <a href="https://www.europol.europa.eu/content/118-arrested-global-action-against-online-fraudsters-airline-sector">announced the arrest</a> of 118 people accused of purchasing plane tickets using fraudulent credit cards. During the operation, the agency sent alerts to airport police in real time, who would then detain suspects who were attempting to travel using “fraudulently obtained flight tickets.” The operation involved 45 law enforcement agencies around the world, involved several bank networks, and included 60 airlines and 80 airports.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/30th/" rel="tag">30th</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a>  </span> 
-Updated: 2014-11-30<a href="https://www.deepdotweb.com/author/kiell/" title="Posts by Kiell" rel="author">Kiell</a></strong></div>
-    
+
+Updated: 2014-11-30    

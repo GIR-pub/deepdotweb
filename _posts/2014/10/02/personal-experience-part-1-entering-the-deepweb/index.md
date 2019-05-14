@@ -2,12 +2,10 @@
 title: "Personal Experience: Part 1 &#8211; Entering The DeepWeb"
 ---
 
-6824 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deepweb tag-entering tag-experiencetag tag-vendor
-Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Joseph Meehan </a></span>
+Posted by: Joseph Meehan
 <span>October 2, 2014</span>
     
-<a href="/2014/10/02/personal-experience-part-1-entering-the-deepweb/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>This a post in series of posts describing a personal experience from learning about the DNM&#8217;s to becoming a vendor &#8211; all the parts of this series will be available to here: <a href="http://www.deepdotweb.com/tag/ExperienceTag/">ExperienceTag</a></em></p>
 <p>Part1:</p>
 <p>One of my good friends – referred to as Grandi throughout the entirety of this column – was pestering me about a gap in the services offered on the DarkNet I could fill. He told me there were no real standouts freelance writing. I&#8217;ve known Grandi for a long time, and I trusted him to know my abilities. Until now I did not think there was much of a niche for someone with my skill set to fill on the DarkNet. I had heard many friends and acquaintances talk about it and seen results on both sides; I&#8217;ve known and worked with both vendors and buyers. I knew there was opportunity to be had but didn&#8217;t think that it was opportunity for me.</p>
@@ -25,7 +23,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/josephmeehan/" title="">Jo
 <li>Vendor account on a Darknet marketplace</li>
 </ol>
 <p>Between Grandi&#8217;s advice and <a href="http://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/">Jolly Roger&#8217;s Security Guide for Beginners</a> I have two great resources to get started obtaining these four things.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/deepweb/" rel="tag">deepweb</a> <a href="https://www.deepdotweb.com/tag/entering/" rel="tag">entering</a> <a href="https://www.deepdotweb.com/tag/experiencetag/" rel="tag">ExperienceTag</a> <a href="https://www.deepdotweb.com/tag/part/" rel="tag">part</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
-Updated: 2014-10-02<a href="https://www.deepdotweb.com/author/josephmeehan/" title="Posts by Joseph Meehan" rel="author">Joseph Meehan</a></strong></div>
-    
+
+Updated: 2014-10-02

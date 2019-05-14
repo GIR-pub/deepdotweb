@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin Update – 11-10-14---
+title: "Weekly Bitcoin Update – 11-10-14"
+---
 
-8137 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2390 tag-bitcoin tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>November 10, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/10/weekly-bitcoin-update-11-10-14/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>Providing the week&#8217;s biggest Bitcoin stories from around the web</em></p>
 <p><strong>Up in Flames</strong></p>
 <p>A bitcoin mining facility in Thailand caught fire this past month. Kabir Chibber of <a href="http://qz.com/293418/an-enormous-bitcoin-mine-went-up-in-flames-affecting-the-entire-network/">Quartz</a> writes that the loss of the five-megawatt operation actually disrupted the entire bitcoin network. While the cause of the fire has yet to have been confirmed, <a href="http://gizmodo.com/a-huge-fire-took-out-a-bitcoin-mining-operation-1655981855">Gizmodo</a> has offered the possibility that flammable acoustic foam within the facility caught fire and could not be contained due to the lack of an indoor sprinkler system, a standard tool found in similar American buildings. Sarah Zhang of Gizmodo states this recent event “might just be a wakeup call to all the startups trying to mine Bitcoin on the cheap.”</p>
@@ -20,6 +18,8 @@ Posted by: DeepDotWeb
 <p>Texas resident Trendon Shavers has been charged in the first-ever Bitcoin Ponzi scheme. Donna Leinwand Leger of USA Today writes that Shavers is facing “charges of securities and wire fraud after promising 7% interest weekly” through his Bitcoin Savings and Trust Company. The Texas man was found to have cheated over 100 investors out of their Bitcoin holdings, totaling at least 764,000 bitcoin. At the peak of his operations, Shavers controlled 7% of all circulated bitcoins. He will now be forced to pay $40.7 million in illegal profits and interest stemming from this civil suit.</p>
 <p>Due to recent regulations, Bitcoin ATM Robocoin will no longer be able to facilitate anonymous transactions. Ruth Reader of <a href="http://venturebeat.com/2014/11/07/regulations-force-bitcoin-atm-robocoin-to-ban-anonymous-transactions/">VentureBeat</a> reports that the company&#8217;s ATM operators will now be implementing “Know Your Customer/Anti-Money Laundering (KYC/AML) software and hardware) in order to comply with regulations outlined by the Financial Crimes Enforcement Network. The response to the announcement amongst Robocoin ATM operators has been less than positive. As Reader notes, “One Robocoin ATM operator went so far as to suggest a boycott against Robocoin,” encouraging ATM operators to consider using an open-source platform developed by the company&#8217;s competitor, Lamassu.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/111014/" rel="tag">111014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
+
+
 Updated: 2014-11-10
     

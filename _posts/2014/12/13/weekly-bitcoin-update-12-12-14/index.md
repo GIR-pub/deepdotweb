@@ -1,12 +1,11 @@
 ---
-title: "Weekly Bitcoin Update – 13-12-14---
+title: "Weekly Bitcoin Update – 13-12-14"
+---
 
-8610 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2497 tag-bitcoin tag-update tag-weekly
+
 Posted by: DeepDotWeb
 <span>December 13, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/12/13/weekly-bitcoin-update-12-12-14/#comments">1 Comment</a></span>
-</p>
+
 <p><em>Recapping the week&#8217;s biggest Bitcoin stories from around the web</em></p>
 <p>SecondMarket came away from the second Silk Road auction a big winner, according to Sydney Ember of <a href="http://dealbook.nytimes.com/2014/12/09/secondmarket-nearly-sweeps-latest-bitcoin-auction/">The New York Times</a>. The company was able to purchase 48,000 of the auction&#8217;s 50,000 bitcoins, meaning that it was able to purchase 96% of the available holdings. The other 2,000 bitcoins went to Timothy C. Draper, who won all of the available bitcoins in the previous Silk Road auction offered by the United States Marshal Service. Pantera Capital and Mirror also placed bids in the auction, but 19 of the 20 Bitcoin blocks made available went to SecondMarket.</p>
 <p>Software and hardware giant is now accepting Bitcoin payments through BitPay. According to Caleb Chen of <a href="https://www.cryptocoinsnews.com/microsoft-now-accepts-bitcoin-bitpay/">CryptoCoins News</a>, the multinational corporation, best known for its Windows operating system and Office software products, will be accepting the cryptocurrency for its digital store products, which include Azure and Windows Phone apps. It is worth noting that the company&#8217;s founder, Bill Gates, had previously stated that he believes “Bitcoin Technology is key.” Microsoft is currently only offering its American users the chance to purchase products with Bitcoin.</p>
@@ -19,7 +18,6 @@ Posted by: DeepDotWeb
 <p>Bitcoin&#8217;s technology has received an endorsement from Kenneth I. Chenault, the chief executive of American Express. However, Sydney Ember of <a href="http://dealbook.nytimes.com/2014/12/11/american-express-chief-ken-chenault-sees-potential-in-bitcoins-technology/?_r=0">The New York Times</a> writes that he doesn&#8217;t believe that Bitcoin will supplant credit cards. Chenault believes that customers will always want to take advantage of the opportunity to defer payments until a later date. Ember also points out that one of Bitcoin&#8217;s greatest strengths is the fact that it does not charge transaction fees, which credit card merchants so often force companies who accept fiat currency payments to pay.</p>
 <p>NewEgg, a popular online retailer of computer hardware and software, video games, and other tech-related items, believes that Bitcoin will be going mainstream in 2015. Caleb Chen of <a href="https://www.cryptocoinsnews.com/newegg-thinks-bitcoin-going-mainstream-2015/">CryptoCoins News</a> writes that the company&#8217;s web editor, Ivan B., “candidly” expressed his belief in the digital currency&#8217;s potential in a blog post. The post cited Microsoft&#8217;s decision to accept cryptocurrency payments as a reason to be optimistic in spite of the bearish opinions of economists.</p>
 <p>Bitcoin startup Circle has hired Paul Camp, a former JP Morgan employee that operated the company&#8217;s transactions services shop, to be its new Chief Financial Officer. Jeff John Roberts of <a href="https://gigaom.com/2014/12/10/bitcoin-slump-belied-by-circles-hire-of-jp-morgan-alum/">GigaOM</a> writes that Circle&#8217;s CEO Jeffrey Allaire has suggested that Camp “would be working his deep ties among bankers and regulators to bring bitcoin inside the mainstream financial fold” while referring to “core transaction platforms” on numerous occasions.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/121214/" rel="tag">121214</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-12-13
     

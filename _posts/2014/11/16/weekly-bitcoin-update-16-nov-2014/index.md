@@ -1,12 +1,10 @@
 ---
-title: "Weekly Bitcoin Update – 16 Nov. 2014---
+title: "Weekly Bitcoin Update – 16 Nov. 2014"
+---
 
-8291 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-1779 tag-bitcoin tag-nov tag-update tag-weekly
 Posted by: DeepDotWeb
 <span>November 16, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/11/16/weekly-bitcoin-update-16-nov-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><strong>One Year since Peak Price</strong></p>
 <p>It has been one year since Bitcoin reached its highest value, leading Eoghan Macguire of <a href="http://www.cnn.com/2014/11/13/tech/bitcoin-peak-price-future/">CNN</a> to wonder what the future holds for the cryptocurrency. He highlights the opinions of individuals like the Managing Editor of CoinDesk, Emily Spraven, who believes Bitcoin&#8217;s price “will begin stabilize over the coming year or so.”Meanwhile, David Yermack, a Professor of Finance at the BYU Stern School of Business, would not be shocked if Bitcoin&#8217;s strongest points were “grafted into new products and services,” as “breakthrough products tend to be taken over pretty quickly by improved versions.”</p>
 <p><strong>Changes at Reddit</strong></p>
@@ -24,6 +22,7 @@ Posted by: DeepDotWeb
 <p><strong>Thompson&#8217;s Stance on Bitcoin</strong></p>
 <p>While cryptocurrency advocates may view Bitcoin as a solution to today&#8217;s market conditions, Western Union CIO John David Thompson holds a starkly different stance on the digital currency&#8217;s potential. <a href="http://www.forexminute.com/bitcoin/cio-western-union-john-david-thompson-says-bitcoin-solution-todays-market-49888">Forexminute</a> writes on Thompson&#8217;s stance, which could be in contrast to earlier statements from the money transfer facilitator&#8217;s CEO, Hikmet Ersek. While Thompson does not believe the cryptocurrency can solve the issues within today&#8217;s marketplace, he does state that it represents an innovative technology for the transaction and exchange of information.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
+
 Updated: 2014-11-16
     

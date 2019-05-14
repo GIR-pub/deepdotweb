@@ -2,12 +2,10 @@
 title: "Anonymous Shadow Eclipses Other Privacy Projects with Zero Knowledge"
 ---
 
-7471 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-eclipses tag-knowledge tag-privacy tag-projects tag-shadow
 Posted by: DeepDotWeb
 <span>October 24, 2014</span>
     
-<a href="/2014/10/24/anonymous-shadow-eclipses-privacy-projects-zero-knowledge/#comments">15 Comments</a></span>
-</p>
+
 <p>In order to properly share an especially innovative development in terms of financial privacy and overall online privacy, let’s go real old school.</p>
 <p>Like 1930s-radio and comic-old school, specifically a character called The Shadow, a mysterious crime fighter who some superhero experts credit as the unofficial inspiration for Batman.</p>
 <p>The do-gooder himself would have been mostly forgotten, if not for his menacing tagline, “Who knows what evil lurks in the heart of man? Only The Shadow knows” which refers not only to his ability to fight crime with fists and wits, but also to his psychic ability to know where and when evil deeds are going down – and get there first. So sort of like “Minority Report” meets “The Dark Knight” but without so many flying cars, touch screens, or other cool toys.</p>
@@ -220,7 +218,6 @@ Posted by: DeepDotWeb
 <li><a href="http://www.coingateway.net" target="_blank" rel="nofollow">coingateway.net</a></li>
 </ul>
 <p>&nbsp;</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/eclipses/" rel="tag">eclipses</a> <a href="https://www.deepdotweb.com/tag/knowledge/" rel="tag">knowledge</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/projects/" rel="tag">projects</a> <a href="https://www.deepdotweb.com/tag/shadow/" rel="tag">shadow</a></span> 
+
 Updated: 2014-10-24
     

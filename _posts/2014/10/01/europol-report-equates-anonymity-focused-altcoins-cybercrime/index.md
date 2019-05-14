@@ -2,12 +2,10 @@
 title: "Europol Report Equates Anonymity Focused Altcoins With CyberCrime"
 ---
 
-7267 post type-post status-publish format-standard has-post-thumbnail hentry  tag-altcoins tag-anonymity tag-cybercrime tag-equates tag-europol tag-focused tag-report
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+
+Posted by: Greg Miller
 <span>October 1, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/01/europol-report-equates-anonymity-focused-altcoins-cybercrime/#respond">Leave a comment</a></span>
-</p>
+
 <p>Europol released a report on September 29, about the cybercrime threats to the internet. Called <a href="https://www.europol.europa.eu/content/internet-organised-crime-threat-assesment-iocta" target="_blank">Internet Organised Crime Threat Assessment</a> (iOCTA), the report looks at bitcoin, as well as anonymity focused coins, like <a href="http://www.deepdotweb.com/?s=darkcoin" target="_blank">Darkcoin</a>, potential for criminal use.</p>
 <blockquote><p>We feel it should concern everyone that the latest cyber currencies are intended to be truly anonymous and to facilitate anonymous transactions. We face a situation where law enforcement may be completely unable to trace even very large criminal transactions.</p></blockquote>
 <p>While it is no surprise that anonymity in crypto-currencies is a worrisome trend for the powers at be, most of the focus of the report was on child porn. The report goes into a lot of detail describing the use of the crypto-currncies by online pedofiles, and try to say that crypto-currency is vital for the trade of CP media.</p>
@@ -25,7 +23,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>While it seems that the EU’s plans are coming to light, people in the USA should assume that the USA is underway with similar plans and operations, if not already further than their European counterpart. The Netherlands has the second highest amount of darknet marketplace related arrests, as illustrated with the Utopia/BMR busts, but the US has the highest amount of darknet marketplace related arrests in the world. While it is not surprising, it is an important indicator that the US is probably already focusing efforts against darknet marketplace.</p>
 <p>While iOCTA is just a report, ITOM is well under way, and a real threat to darknet marketplace buyers and sellers in Europe. According to a <a href="http://www.coe.int/t/dghl/cooperation/economiccrime/Source/Cybercrime/Octopus2013/Presentations/Workshop4/ITOM.pdf">presentation</a> about the operation, as well an unofficial statement, efforts by ITOM to take down darknet marketplaces are well underway. The <a href="/2014/02/12/the-utopia-bust-details-prosecution-announcement/" target="_blank">Utopia/BMR busts</a> may of been a early success for this operation, but that is currently not possible to verify.</p>
 <p>It seems the time has come, when the governments are the world are taking a more organized and systematic approach to deep web marketplaces, instead of going after individual cases.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/altcoins/" rel="tag">altcoins</a> <a href="https://www.deepdotweb.com/tag/anonymity/" rel="tag">anonymity</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/equates/" rel="tag">equates</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/focused/" rel="tag">focused</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a></span> 
-Updated: 2014-10-01<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-10-01
     

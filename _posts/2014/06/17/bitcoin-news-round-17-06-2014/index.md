@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin news round-up 17.06.2014---
+title: "Bitcoin news round-up 17.06.2014"
+---
 
-6070 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-news tag-roundup
 Posted by: DeepDotWeb
 <span>June 17, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/06/17/bitcoin-news-round-17-06-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p>The past week brought positive news for bitcoin despite a 10% price drop since Sunday 8 July. Price decreases over the past week have likely been caused by speculators selling off on fears of the US Marshall’s sale of seized bitcoins will flood the market. Bitcoin holds a value of $599.92 at the time of writing, an improvement of $7.95, or 1.34%, since the markets opened today.</p>
 <p><strong>Policy and government moves</strong></p>
 <p>The US Marshalls Service will auction off $17.5 million worth of bitcoins seized by the government from the infamous Silk Road black market trading website. Of the 144,336 (approximately $100 million) coins the government holds, 29,656 will be sold off with bidder registration closing on Monday, June 23, and <a href="/2014/06/12/30000-seized-bitcoins-from-silk-road-are-up-for-sale/">the auction</a> occurring on Friday, June 27. Since the announcement of the sale, bitcoin’s prices have taken a hit, which Forbes reported could be down to speculators believing the sale will oversaturate the market. Despite this, some 3,600 new bitcoins are minted each day.</p>
@@ -18,7 +16,6 @@ Posted by: DeepDotWeb
 <p>Payments processor and <a href="http://blogs.wsj.com/moneybeat/2014/06/16/e-commerce-payment-processor-digital-river-to-accept-bitcoin/" target="_blank">e-commerce trading platform</a> Digital River now intends to accept bitcoin for online transactions. The move makes the company one of the first in the industry, which typically uses more established payment methods, to accept the cryptocurrency. Vice President and General Manager Souheil Badran said it would aim to pass the savings from small bitcoin transactions on to its business customers. Badran said he doesn’t see the currency “as just a fad going away” . Digital River processed some $30 billion in transactions over the last year, generating almost $400 million in revenues. It will employ third-party services from Coinbase to enable payments made using bitcoin. However, he hinted at a note of caution, stating: “We are always going to be cautious in view of the historical reputation of bitcoin, with Silk Road and other episodes.”</p>
 <p>Early-adopters of ASIC chip maker HashFast’s products <a href="http://arstechnica.com/tech-policy/2014/05/embattled-ceo-of-bitcoin-miner-firm-we-are-as-poor-as-church-mice/" target="_blank">received sour news</a> this week when the company filed for Chapter 11 bankruptcy protection. After running into financial problems when the firm was unable to deliver mining equipment on time, customers began requesting refunds in bitcoin – after the coins had increased in price. CEO Eduardo de Castro said the firm had “pretty much emptied the bank accounts into refunds”, ArsTechnica reported .</p>
 <p>With the World Cup generating top headlines this week, the bitcoin community is taking advantage by putting the coin to <a href="http://www.coindesk.com/bitcoin-betting-kicks-brazil-world-cup/" target="_blank">use on bitcoin betting sites</a>. Betting platforms that have sprung up catering to bitcoin include Bitkup, Cloudbet, Nitrogen Sports, and BetVIP.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2014-06-17
     

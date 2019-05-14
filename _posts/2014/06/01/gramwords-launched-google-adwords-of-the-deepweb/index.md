@@ -2,12 +2,10 @@
 title: "&#8220;Gramwords&#8221; Launched: Google Adwords Of The DeepWeb!"
 ---
 
-5833 post type-post status-publish format-standard has-post-thumbnail hentry  tag-grams tag-gramwords tag-introducing
 Posted by: DeepDotWeb
 <span>June 1, 2014</span>
     
-<a href="/2014/06/01/gramwords-launched-google-adwords-of-the-deepweb/#comments">8 Comments</a></span>
-</p>
+
 <p>Following our previous post about the <a href="/2014/05/31/introducing-grams-infodesk-features-part-1/">new features in Grams Search Engine</a> &#8211;  We are happy to release the second part of the announcement, this one is about the vendor side of &#8220;Grams Stage 2&#8221; and includes an overview of the much anticipated <strong>Gramwords</strong> advertising system,  the first system ever to offer an Adwords-like functionality for Deep Web Marketplace listings, for vendors who wants to promote them on Grams search results. This is another step toward the trend we have mentioned few weeks ago about <a href="/2014/05/14/darknet-marketing-services-new-emerging-market/">more traditional advertising</a> schemes in the Dark Net Markets world that will only expand.</p>
 <p><span style="text-decoration: underline;"><strong>The information Below was provided to us by the Admin of Grams Search engine and is brought to you as it is:</strong></span></p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
@@ -46,7 +44,6 @@ Posted by: DeepDotWeb
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong>Grams Url: <a href="http://grams7enufi7jmdl.onion/" target="_blank"><span style="color: #ff0000;">http://grams7enufi7jmdl.onion/</span></a> </strong>
 </div></div>
-</div>
-<a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/gramwords/" rel="tag">gramwords</a> <a href="https://www.deepdotweb.com/tag/introducing/" rel="tag">introducing</a></span> 
+
 Updated: 2014-06-01
     

@@ -1,12 +1,10 @@
 ---
-title: "How to use Tor as a Socks5 proxy---
+title: "How to use Tor as a Socks5 proxy"
+---
 
-5694 post type-post status-publish format-standard has-post-thumbnail hentry  tag-proxy tag-socks5 
 Posted by: <a href="https://www.deepdotweb.com/author/chrishansen/" title="">ChrisHansen </a></span>
 <span>May 23, 2014</span>
-    
-<a href="/2014/05/23/use-tor-socks5-proxy/#comments">18 Comments</a></span>
-</p>
+
 <p>Hey everyone! First off, thanks a lot to everyone at DeepDotWeb for allowing me to make this and many more posts to come! I really hope everyone on the website finds it useful! So, on to the tutorial. Tor, as we all know, Tor is a network that uses peer-to-peer connections. These connections from one person to another are very strongly encrypted, not only allowing people to securely go to websites without leaving a trace of who they are, but they allow people to encrypt everyday internet connections. Today, I will be focusing the main part of today’s tutorial on connecting to IRC networks via Tor. Keep in mind, I will be explaining this from complete start to end as if you are just learning about what Tor is.</p>
 <p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Attention: Use VPN with Tor! Click here to see the best VPN’s&lt;&lt;&lt;</a></p>
 <p>The first thing you are going to need is obviously the latest version of Tor from the Tor website. It’s going to download an exe file for you to open and extract. Go ahead, and extract the files to a place where you are going to have easy access to it. I personally extract all the files to a folder on my Desktop so I can get to it at any time.</p>
@@ -16,7 +14,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/chrishansen/" title="">Chr
 <p><center><a href="/imgs/2014/05/4.png"><img class="aligncenter size-full wp-image-5701" src="/imgs/2014/05/4.png" alt="4" width="949" height="1029" srcset="/imgs/2014/05/4.png 949w, /imgs/2014/05/4-277x300.png 277w, /imgs/2014/05/4-944x1024.png 944w" sizes="(max-width: 949px) 100vw, 949px" /></a></center>From this menu, you will need to enter the proxy settings for the connection. Using this example, the “Hostname” will need to be “127.0.0.1” or “localhost”. Either one will work. The “Port” will need to be set to “9150”. The “Type” will be set to “Socks5”. And finally, “Use proxy for” will be need to be set to “All Connections”. Breaking this down, the IRC client connects via the Socks5 proxy at 127.0.0.1 on port 9150 to the IRC server over all the IRC connections so all the connections will be encrypted. After all this is entered, just hit the “OK” button.</p>
 <p><center><a href="/imgs/2014/05/5.png"><img class="aligncenter size-full wp-image-5702" src="/imgs/2014/05/5.png" alt="5" width="686" height="596" srcset="/imgs/2014/05/5.png 686w, /imgs/2014/05/5-300x261.png 300w" sizes="(max-width: 686px) 100vw, 686px" /></a></center>After this, all you need to do is add a server to connect to, select your usernames, if you wish to use SSL, and other personal settings which will depend on your personal preferences. And that is it! You are now connected to an IRC server via Tor with the full encryption benefits of Tor! And this isn’t just used for IRC. This can be used on pretty much anything that allows a proxy connection such as Firefox, Chrome, Pidgin, FTP connections, PuTTY, and much more!</p>
 <p>With that, I once again thank DeepDotWeb for allowing me to write for them, and I thank you the reader for reading this tutorial. I hope this helps you as much as it helps me, weather you are brand new to the use of Tor, or an old user such as myself!</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/proxy/" rel="tag">proxy</a> <a href="https://www.deepdotweb.com/tag/socks5/" rel="tag">socks5</a> </span> 
-Updated: 2014-05-23<a href="https://www.deepdotweb.com/author/chrishansen/" title="Posts by ChrisHansen" rel="author">ChrisHansen</a></strong></div>
+
+Updated: 2014-05-23
     

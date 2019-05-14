@@ -2,12 +2,10 @@
 title: "A Scammer&#8217;s Remorse"
 ---
 
-5686 post type-post status-publish format-standard has-post-thumbnail hentry  tag-remorse tag-scammers
 Posted by: <a href="https://www.deepdotweb.com/author/black-ink/" title="">Black Ink </a></span>
 <span>May 21, 2014</span>
     
-<a href="/2014/05/21/scammers-remorse/#comments">1 Comment</a></span>
-</p>
+
 <p>This article is a personal experience provided to us by &#8220;Black Ink&#8221;:</p>
 <p>Back in December I referred someone dear to me who was in search of Hemp Oil to a vendor on SR2. I had used this particular vendor before to obtain sixty grams of oil for my own treatment and the transaction went smooth and without any hiccups so I felt it was safe to recommend them to others. Well, apparently this vendor had gone rogue along with many others around this time because he required FE for $2000 and needless to say never produced any product.</p>
 <p>Partly, due to harboring guilt (I didn&#8217;t take the time to educate friend on politics of dark markets) I became furious and decided to reach out to the vendor myself. I wrote him on SR2 explaining in depth the seriousness of my friend’s illness and made a plea on his heart to do right by someone in great need. Days went by and it was nothing but silence. He had not bothered to respond and to be quite frank I knew that I was shooting a dart in the dark but I felt obligated to at least put forth the effort and give it a try.</p>
@@ -17,7 +15,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/black-ink/" title="">Black
 <p>After several failed attempts he was successful in cashing out all of the stolen bitcoins and retained thirty thousand in cash after agreeing to a loss so that he could hurry and convert into cash. <em>“Man, I was so relieved and proud I took that money straight to my girlfriend. I walked in the door with my dick in my hand because I knew for sure she was gonna bless me for this one. She fucked me good, fucked me to sleep, and fucked me over. I woke up the next morning and she was gone and so was my Nike duffle bag. “</em></p>
 <p>Santana’s girlfriend of three years had beat him at his own game, she took everything. In the end he had nothing but the remaining forty grams of oil, no down payment, no money, and no girlfriend. As he sat around in his sorrow getting high off marijuana and lean he took a moment to check his messages on SR2 and it was then that he read my letter. <em>“It’s like it all hit me then. I began to feel overwhelming guilt and came to the conclusion that Karma was responsible for this all. I had fucked over these sick people and in turn my girlfriend robbed me and left. I miss her more than the money. I thought we were soul mates or some shit and this bogus money ruined that.” </em>Santana reflected.</p>
 <p>He now lives in another state after feeling the need to start over somewhere that didn’t hold so many memories of his ex. Santana has since begun vending on another site(under different pseudonym) other than Silk Road only now he is a honorable vendor. He is proud of his one hundred percent feedback ratings and admits that he makes more than he’d ever imagined. In hopes of getting himself out of the dog house with the higher powers that be Santana continues to provide my friend with monthly maintenance doses of this healing oil and I am happy to report that she has been cancer free since last month. The oil indeed served as a cure for her and with that being said, all is forgiven, at least on our end.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/remorse/" rel="tag">remorse</a> <a href="https://www.deepdotweb.com/tag/scammers/" rel="tag">scammers</a></span> 
-Updated: 2014-05-21<a href="https://www.deepdotweb.com/author/black-ink/" title="Posts by Black Ink" rel="author">Black Ink</a></strong></div>
+
+Updated: 2014-05-21
     

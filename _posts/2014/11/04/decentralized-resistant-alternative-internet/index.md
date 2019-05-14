@@ -1,12 +1,11 @@
 ---
-title: "A Decentralized, Resistant, Alternative Internet---
+title: "A Decentralized, Resistant, Alternative Internet"
+---
 
-7271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alternative tag-decentralized tag-internet tag-resistant
-Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg Miller </a></span>
+
+Posted by: Greg Miller
 <span>November 4, 2014</span>
-    
-<a href="/2014/11/04/decentralized-resistant-alternative-internet/#comments">1 Comment</a></span>
-</p>
+
 <p>The internet to is way more centralized than anyone realizes. The US government and Internet Corporation for Assigned Names and Numbers (ICANN) has temerous sway and power over the internet. With increased regulations, the infrastructure that supports the internet is increasingly monopolistic. Geeks used to set up ISPs as a hobby, and way to get a little extra income.</p>
 <p>The internet as a result is more controlled than ever. Though, there is still bastions of freedom to be found on the internet, they are a rare breed, and on the threat of extinction. Many plans, and organizations have popped up to create a new decentralized internet that would be more resistant to censorship, or central control in any case.</p>
 <p><strong>Mesh Network</strong></p>
@@ -25,7 +24,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/gregmiller/" title="">Greg
 <p>FireChat is probably the most used and important mesh network that there has ever been, but besides that most mesh network (excluding government mesh networks) have been idealists hobbyists. FireChat has a very skilled company behind it, the founder of it created <a href="http://www.bittorrent.com/">BitTorrent</a>, but most of mesh networks have been rag tag collections of euthists.</p>
 <p>There hasn’t been too many incentives for people to be interested in mesh networks. Most people don’t care about their privacy as much as libertarians, or people of the deep web community. That is starting to change in some ways, but is still a small concern for the general public. Companies, such as OpenGarden, as well as many cellphone designers are starting to look into mesh networks. There could many more applications could result from that.</p>
 <p><a href="http://wiki.projectmeshnet.org/MeshLocal">MeshLocal </a>is a great idea, but many people don’t have the knowledge or money to do it themselves. It is a tough world financially, and even people who want to run one, don’t have the time because they need to work to pay bills. One of the reasons why bitcoin was so successful is because you could make money from it! There might be a way to use bitcoin, or an altcoin to incentivise running nodes in a mesh network, like the <a href="/2014/06/18/torcoin-new-altcoin-incentivize-running-tor-relays/">TorCoin</a> project, but until then it remain a possibility, rather than a reality.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/alternative/" rel="tag">alternative</a> <a href="https://www.deepdotweb.com/tag/decentralized/" rel="tag">decentralized</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/resistant/" rel="tag">resistant</a></span> 
-Updated: 2014-11-04<a href="https://www.deepdotweb.com/author/gregmiller/" title="Posts by Greg Miller" rel="author">Greg Miller</a></strong></div>
+
+Updated: 2014-11-04
     

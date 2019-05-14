@@ -2,12 +2,10 @@
 title: "Outlaw Market: Down, Possibly Compromised By Competitors"
 ---
 
-6669 post type-post status-publish format-standard has-post-thumbnail hentry  tag-outlaw
+
 Posted by: DeepDotWeb
 <span>August 1, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/08/01/outlaw-market-down-possibily-compromised/#comments">3 Comments</a></span>
-</p>
+
 <p>The admins of <a href="http://www.deepdotweb.com/marketplace-directory/listing/outlaw-market">Outlaw market</a> have taken the site down due to some security concerns related to possible attack being launched on the market. The admin claims that those who might be responsible for the attack are 2 former admins, as they posted on the forums (http://outforumbpapnpqr.onion/index.php/topic,320.0.html):</p>
 <blockquote><p>Hello to all customers.</p>
 <p>We shut outlaw down completely cause of attack from hackers.<br/>
@@ -32,7 +30,7 @@ Posted by: DeepDotWeb
 <p>Love &#8211; Outlaw</p></blockquote>
 <p><a href="/imgs/2014/08/outlaw.png"><img class="aligncenter  wp-image-6672" src="/imgs/2014/08/outlaw.png" alt="outlaw" width="715" height="400" srcset="/imgs/2014/08/outlaw.png 1185w, /imgs/2014/08/outlaw-300x168.png 300w, /imgs/2014/08/outlaw-1024x573.png 1024w" sizes="(max-width: 715px) 100vw, 715px"/></a></p>
 <p>This site does not use online wallets so if money is lost it will be the escrow funds.  Hopefully the market will be back online with no losses.  This is just another chapter in the known competition between markets DDosing and attacking each other that we have seen before quite a few times now, like with <a href="/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/">Tormarket &amp; Silk Road</a> and <a href="/2014/03/10/what-to-do-while-your-favorite-market-is-under-attack-agora/">Agora</a>, For quite a few times now, among some others.</p>
-</div>
- <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a></span> 
+
+
 Updated: 2014-08-01
     

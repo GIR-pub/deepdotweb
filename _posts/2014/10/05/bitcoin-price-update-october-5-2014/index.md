@@ -1,12 +1,10 @@
 ---
-title: "Bitcoin Price Update &#8211; October 5, 2014---
+title: "Bitcoin Price Update &#8211; October 5, 2014"
+---
 
-7305 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-bitcoin tag-october tag-price tag-update
-Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Evan Faggart </a></span>
+Posted by: Evan Faggart
 <span>October 5, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/05/bitcoin-price-update-october-5-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p>The week of September 28, 2014 through October 4, 2014 was an extremely Bearish week. Continuing the downward trend that has been present in the Bitcoin markets for months, the Bitcoin price fell for the entirety of the week. Overall, during the whole week, the price fell by a total of 16.67%—a massive drop compared to last week&#8217;s decline of 1.95%</p>
 <p>Here are the daily prices from the Bitstamp Bitcoin exchange for the week:</p>
 <p><em>Note: The prices in this list have been rounded to the nearest dollar amount. Therefore, the descriptions of the price movements in this report will not be 100% accurate. Additionally, please notice that the price for October 4 is the closing price, rather than the opening price. </em></p>
@@ -24,7 +22,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/evanfaggart/" title="">Eva
 <p>The first day of October was relatively flat overall. Following a Bitcoin price drop during the early morning hours, the price leveled out at 10 AM and stayed flat for the rest of the day. At the close of October 1, the Bitcoin price sat at $385.</p>
 <p>The last 3 days of the week saw constant declines, with the Bitcoin price dropping well below the $370s, which is lowest the price went during the first half of the week. October 2 did not have a steep decline; in fact, the drop in the Bitcoin price on this day was very slight. Nevertheless, the price did fall continuously throughout the day. It fell from the opening price of $385 to $377 at the bottom of the noon hour, and the day closed at $376. The third of October saw a much more pronounced price decrease, falling from its opening price of $376 to $363 by the end of midday, $358 by the close of 8 PM, and the closing price for the day was $362. October 4, the last day of the week, saw an even <em>greater </em>price decline. By the bottom of the noon hour, the price had fallen to $338, a $24 decline. At 4 PM, the price hit a daily low of $322.04; the day ended at $335.</p>
 <p>Thus, this last week was very rough on those who were hoping for an end to the falling Bitcoin price. The week&#8217;s price activity had people in the Bitcoin community speculating on where the bottom of this most recent decline would be, signaling that at least the most vocal members of the community have given up on the idea that the price will quickly rebound and soar above and beyond $600 into a new and glorious “bubble.” Many people have speculated that the bottom of this decline is $265, the price point just before the huge price spike in late 2013. Others believe that $265 is far from the bottom, and will continue falling into the $100s, and possibly go below $90. None of these predictions can be treated with certainty though; the former group uses $265 since it was a “resistance level” that the price could not go under, but there really is no such thing as a “resistance level,” as historical data cannot—under any circumstances—be used to confidently predict the activity of an inherently uncertain future. The Bitcoin economy is in an entirely different state than it was in late 2013, and the price-determining factors are decidedly different. Merchant adoption has drastically expanded, mining is a much larger industry, and valuations are constantly shifting; all of those factors put downward pressure on the Bitcoin price, and they are not consistent with the price-determining factors of last year. The latter group uses pure speculation, which of course can never be treated as indisputable fact. The reality is that no one knows when the price decline will stop, only time can give us that information.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> 
-Updated: 2014-10-05<a href="https://www.deepdotweb.com/author/evanfaggart/" title="Posts by Evan Faggart" rel="author">Evan Faggart</a></strong></div>
-    
+
+Updated: 2014-10-05    

@@ -2,12 +2,10 @@
 title: "The US Fires First “Live Round” in America’s War on Prescription Drugs"
 ---
 
-6909 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1907 tag-americas tag-fires tag-government tag-live tag-war
 Posted by: <a href="https://www.deepdotweb.com/author/freedom/" title="">Freedom Writer </a></span>
 <span>September 3, 2014</span>
     
-<a href="/2014/09/03/61014-the-us-government-fires-the-first-live-round-in-americas-war-on-drugs/#comments">2 Comments</a></span>
-</p>
+
 <p>An insider from the world of civil liberties defense through pro-bono legal activism offers his opinions;</p>
 <p>On October 6<sup>th</sup>, the United States Department of Justice, through its arm of the Drug Enforcement Agency will take a major step in what it considers to be its war on drugs. The US Government is viewed, publically and privately, as the loser in this century-old war. This time, the DOJ has finally fired a shot that contains a lethal payload. Though other major regulatory pharmaceutical changes have seen adoption in the years gone by, we have rarely seen one that will have this immediate, negative effect. I am referring to the rescheduling of Hydrocodone Combination Products (HCP’s) from a class III medication to a class II medication.</p>
 <p>For those unaware of the nuances of the chemicals and their effects that I will discuss, just substitute “Vicodin” in your mind when you see the term HCP. I am comfortable in assuming that all readers who frequent this website have an idea of what Vicodin-type products are all about. I am neither qualified nor interested in trying to present a scientific argument here. A simple internet search can answer most of your questions.</p>
@@ -77,7 +75,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/freedom/" title="">Freedom
 <p><strong><em><a href="https://www.federalregister.gov/articles/2014/08/22/2014-19922/schedules-of-controlled-substances-rescheduling-of-hydrocodone-combination-products-from-schedule#p-279" target="_blank">Congressional Review Act</a></em></strong></p>
 <p><em>This rule is not a major rule as defined by section 804 of the Small Business Regulatory Enforcement Fairness Act of 1996 (Congressional Review Act (CRA)). This rule will not result in: an annual effect on the economy of $100,000,000 or more; a major increase in costs or prices for consumers, individual industries, Federal, State, or local government agencies, or geographic regions; or significant adverse effects on competition, employment, investment, productivity, innovation, or on the ability of United States-based companies to compete with foreign based companies in domestic and export markets. However, pursuant to the CRA, the DEA has submitted a copy of this final rule to both Houses of Congress and to the Comptroller General.</em></p>
 <p><em>The DEA’s contention is that the change is so insignificant that does not warrant the protections afforded by the Congressional Review Act. This invalidates my comment suggesting an Act of Congress is required to avert this impending situation. I suppose an Executive Order from the President would work. What are the chances that a President in a constant battle to disavow the stereotypes associated with his race would step in and invalidate a restrictive drug law? I think the chances are as close to absolute zero as one could imagine.</em></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/61014/" rel="tag">61014</a> <a href="https://www.deepdotweb.com/tag/americas/" rel="tag">americas</a>  <a href="https://www.deepdotweb.com/tag/fires/" rel="tag">fires</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/live/" rel="tag">live</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> 
+
 Updated: 2014-09-03<a href="https://www.deepdotweb.com/author/freedom/" title="Posts by Freedom Writer" rel="author">Freedom Writer</a></strong></div>
     

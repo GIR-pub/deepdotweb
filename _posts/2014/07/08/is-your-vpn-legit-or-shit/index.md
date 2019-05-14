@@ -2,12 +2,10 @@
 title: "Is your VPN Legit or Shit?"
 ---
 
-6048 post type-post status-publish format-standard has-post-thumbnail hentry  tag-legit tag-shit tag-vpn
-Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ </a></span>
+
+Posted by: iBurnEZ </a></span>
 <span>July 8, 2014</span>
-    
-<a href="/2014/07/08/is-your-vpn-legit-or-shit/#comments">321 Comments</a></span>
-</p>
+
 <p>Those of you who frequent the darkweb should be familiar with VPN (Virtual Private Network) services and have done some research to find a trustworthy provider. For readers who are just starting to explore the darker catacombs of the Internet a VPN is a mandatory tool for online anonymity.</p>
 <p>But not all VPN services are created equal.</p>
 <p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Click for DeepDotWeb&#8217;s Chart of Best VPN services&lt;&lt;&lt;</a></p>
@@ -41,7 +39,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/iburnez/" title="">iBurnEZ
 <p>Anyone concerned with their privacy for any reason should consider one of the following VPN services. As a DDW Disclaimer: You shouldn’t rely on a VPN provider to protect you from the authorities. It’s really best if the authorities don’t have a reason to be looking for you at all.</p>
 <p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Click for DeepDotWeb&#8217;s Chart of Best VPN services&lt;&lt;&lt;</a><br />
 <a href="/imgs/2014/06/bestvpn.png"><img class="aligncenter wp-image-6064 size-full" src="/imgs/2014/06/bestvpn.png" alt="Best Vpn Providers" width="926" height="716" srcset="/imgs/2014/06/bestvpn.png 926w, /imgs/2014/06/bestvpn-300x232.png 300w" sizes="(max-width: 926px) 100vw, 926px" /></a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/legit/" rel="tag">legit</a> <a href="https://www.deepdotweb.com/tag/shit/" rel="tag">shit</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> 
-Updated: 2014-07-08<a href="https://www.deepdotweb.com/author/iburnez/" title="Posts by iBurnEZ" rel="author">iBurnEZ</a></strong></div>
-    
+
+Updated: 2014-07-08

@@ -2,7 +2,7 @@
 title: "Deep Web &#038; Law Enforcement: Informers"
 ---
 
-7951 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-enforcement tag-informers tag-law tag-web
+7951  tag-deep tag-enforcement tag-informers tag-law tag-web
 Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
 <span>December 29, 2014</span>
     
@@ -22,5 +22,4 @@ Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Alle
 <p>Coming next time; technology, how it can help you and hurt you.</p>
 </div>
 <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/informers/" rel="tag">informers</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
-Updated: 2014-12-29<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    
+Updated: 2014-12-29

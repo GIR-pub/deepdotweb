@@ -1,12 +1,12 @@
 ---
-title: "Doxbin’s Nachash On Operation Onymous (P.2)---
+title: "Doxbin’s Nachash On Operation Onymous (P.2)"
+---
 
-8160 post type-post status-publish format-standard has-post-thumbnail hentry  tag-nashcashtag tag-operation-onymous 2bust
-Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zubair Muadh </a></span>
+Posted by: 
+Zubair Muadh
 <span>November 12, 2014</span>
     
-<a href="/2014/11/12/doxbins-nachash-on-operation-onymous-p-2/#comments">4 Comments</a></span>
-</p>
+
 <p><strong>First Part</strong> &#8211; <a href="http://www.deepdotweb.com/tag/nashcashtag/"><strong>#Nashcash</strong> </a><strong><a href="http://www.deepdotweb.com/tag/nashcashtag/">Tag</a> &#8211; Read the other posts related to <a href="http://www.deepdotweb.com/tag/silkroad2bust/" target="_blank">Operation Onymous Here</a></strong></p>
 <p>Last week the FBI took down 410 .onion sites that belong to 27 different sites that offered services and products ranging from Class A drugs to hitmen-for-hire with 16 other Europol nations as a part of <a href="http://www.deepdotweb.com/tag/silkroad2bust/">operation Onymous</a>.</p>
 <p>Many operators are still at large despite the FBI’s takedown of these sites. One of the co-operators of Doxbin, a site that allowed for people to post personal identifying information used for malicious purposes shared details of the sites takedown with Tor developers in a bid to help them find ways to protect other users of the Tor network.</p>
@@ -19,7 +19,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/zubairmuadh/" title="">Zub
 <p>A theory that has surfaced is that law enforcements attack was a bad to force the sites .onion addresses to follow paths that went over the nodes that where setup by law enforcement. By flooding the circuits through secure nodes law enforcements made it possible to connect only through tor nodes that they controlled. Ofcourse this theory begs the question how many nodes do the combined law enforcement of the nations involved control since there are just over 6000 tor nodes.</p>
 <p>Whilst the take down of Silk Road and Doxbin won’t have a major implications on the drug market, it could have serious consequences when it comes to the security of the Tor network in general. If governments could force tor traffic to be forced through nodes that they control it could present serious privacy concerns for whistle-blowers, political activists and dissidents, journalists, and others trying to avoid the eyes of oppressive regimes.</p>
 <p>It’s important to keep in mind that we do not know for certain what method exactly law enforcement used since nothing much has been revealed by them yet. Tor Devs will most likely be keen to hear what law enforcement have to say regarding their method of taking down the sites in a bid to ensure the security of the tor network and the anonymity of its users.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/nashcashtag/" rel="tag">nashcashtag</a> <a href="https://www.deepdotweb.com/tag/operation-onymous/" rel="tag">Operation Onymous</a> <a href="https://www.deepdotweb.com/tag/silkroad2bust/" rel="tag">SilkRoad2Bust</a></span> 
-Updated: 2014-11-12<a href="https://www.deepdotweb.com/author/zubairmuadh/" title="Posts by Zubair Muadh" rel="author">Zubair Muadh</a></strong></div>
-    
+
+
+Updated: 2014-11-12    

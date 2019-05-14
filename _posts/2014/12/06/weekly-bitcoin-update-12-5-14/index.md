@@ -1,12 +1,11 @@
 ---
-title: "Weekly Bitcoin Update – 12-7-14---
+title: "Weekly Bitcoin Update – 12-7-14"
+---
 
-8544 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2488 tag-bitcoin tag-update tag-weekly
+
 Posted by: DeepDotWeb
 <span>December 6, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/12/06/weekly-bitcoin-update-12-5-14/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>Recapping the week&#8217;s biggest Bitcoin stories from around the web </em></p>
 <p>The second auction of Silk Road Bitcoin by U.S. Marshals has been completed. John Biggs of <a href="http://techcrunch.com/2014/12/05/us-marshals-complete-second-auction-of-silk-road-bitcoin/">TechCrunch</a> notes that the auction consisted of 50,000 BTC. A total of eleven bidders placed bids on the cryptocurrency. This number represents a substantial decrease from the 45 bidders who placed bids in the June auction. Despite the large number of bitcoins that were sold in the auction, the price of the cryptocurrency did not change as a result of the transactions. The USMS still holds an additional 94,000 BTC, a large number which suggests that the organization may be selling more of its holdings in the near future.</p>
 <p>Could Bitcoin detractors finally have a voice? According to <a href="http://upstart.bizjournals.com/entrepreneurs/hot-shots/2014/12/05/matthew-driver-bitcoin-critic-mastercard.html">Upstart&#8217;s</a> Michael del Castillo, MasterCard&#8217;s Matthew Driver, the president of its South East Asia division, could become that leader. In an video shared by Channel News Asia, Driver referred to the cryptocurrencies as “unstable in terms of their intrinsic value.” Driver&#8217;s comments appear to be part of a focused effort from the company to assail the cryptocurrency. Recently, MasterCard has made statements regarding the need for all payment systems to “be regulated in the same way to achieve a level playing field for all.”</p>
@@ -20,6 +19,8 @@ Posted by: DeepDotWeb
 <p>A bitcoin ATM operator will be bringing the cryptocurrency to 2,500 different locations in thirty-three US states. Pete Rizzo of <a href="http://www.coindesk.com/libertyx-bitcoin-buying-2500-us-locations/">CoinDesk</a> writes that Liberty Teller has re-branded itself as LibertyX and has partnered with Qpay to offer cash-to-bitcoin buying services. Available on mobile phones and convenience stores, users who make an account with the company will be able to view a map with LibertyX locations in the area after purchasing bitcoin. Rizzo notes that the service “marks a dramatic expansion for the Boston-based company.” LibertyX currently manages four ATM machines.</p>
 <p>Bitreserve, which offers cryptocurrency holders the chance to “hold their value in other currencies,” has added gold. Ian DeMartino of <a href="http://cointelegraph.com/news/113038/bitreserve-adds-gold-other-metals-coming-soon">CoinTelegraph</a> writes that the serve has added the non-fiat option while also distributing around a dollar&#8217;s worth of gold to some Bitreserve members. The company&#8217;s service operates by buying and selling bitcoins and other currencies when a user wishes to make a transaction. The assets are always held by Bitreserve, not the user. For example, when a user who wishes to convert Bitcoin into gold, Bitreserve sells the equivalent Bitcoin holdings and purchases the gold with those dollars.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/12514/" rel="tag">12514</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
+
+
 Updated: 2014-12-06
     

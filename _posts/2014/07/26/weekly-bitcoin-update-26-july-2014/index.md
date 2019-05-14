@@ -1,12 +1,12 @@
 ---
-title: "Weekly Bitcoin Update – 26 July 2014---
+title: "Weekly Bitcoin Update – 26 July 2014"
+---
 
-6624 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1779 tag-1858 tag-bitcoin tag-july tag-update tag-weekly
+
 Posted by: DeepDotWeb
 <span>July 26, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/07/26/weekly-bitcoin-update-26-july-2014/#respond">Leave a comment</a></span>
-</p>
+
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>
 <p><strong>Industry News</strong></p>
 <p>Bitcoin&#8217;s valuation has once again dropped below the $600 mark. As Joon Ian Wong of <a href="http://www.coindesk.com/market-monthly-stable-bitcoin/">CoinDesk</a> reported on July 24<sup>th</sup>, the cryptocurrency fell to a low of $591.46 at 13:35 UTC. During the thirty days prior to the release of the article, bitcoin had at least maintained a value above $600. Interestingly, there was not a major news release that could have triggered the slight decrease in value. In fact, as Wong finds, bitcoin news has been positive over the past two months, with companies such as DISH and Dell announcing they will be accepting cryptocurrency payments.</p>
@@ -19,7 +19,6 @@ Posted by: DeepDotWeb
 <p>The recent “BitLicense” regulations have made Benjamin Lawsky a bitcoin regulation leader. According to Michael Bobelian of <a href="http://www.forbes.com/sites/michaelbobelian/2014/07/25/new-yorks-financial-regulator-benjamin-lawsky-maintains-lead-on-bitcoin-regulation/">Forbes</a>, while the head of the agency had previously held a negative view of the digital currency, Lawsky has now come to appreciate the potential benefits of the currency while working to overcome its flaws. Lawsky is also allowing for bitcoin industry participants to offer feedback on the “BitLicense” regulations, a position that strongly contrasts those held by the SEC and the IRS.</p>
 <p>Can this “BitLicense” future be summed up as simply as black and white? Alyssa Hertig of <a href="http://motherboard.vice.com/read/why-bitcoin-may-one-day-split-into-black-and-white-coins">Vice.com</a> discusses how bitcoin could one day, figuratively, be divided into black coins, those “pseudonymous” and “decentralized”, and regulated, white coins. The difference in color could serve as an express of the “ideological divergence” between what bitcoin was before mainstream adoption and what it will become under “BitLicense” regulations. Furthermore, Hertig also finds that the regulations of the “white coins” would damage the ability for simple financial transactions to be made easily.</p>
 <p>Stan Higgins of <a href="http://www.coindesk.com/ecuador-bans-bitcoin-legislative-vote/">CoinDesk</a> reports that the National Assembly of Ecuador has voted to ban the usage of Bitcoin and other decentralized digital currencies. As a result, companies whose services extend to Ecuador will be forced to withdraw from the country. The proposed amendment also established guidelines for a state-run digital currency to be backed by the nation&#8217;s central bank. After voting had been completed, the the National Assembly offered a statement that spoke to the benefits of electronic money and its ability to “stimulate” the economy.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/26/" rel="tag">26</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/july/" rel="tag">july</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-07-26
     

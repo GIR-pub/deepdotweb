@@ -2,12 +2,10 @@
 title: "How Bitcoin Is Set To help The Poor In Africa?"
 ---
 
-7452 post type-post status-publish format-standard has-post-thumbnail hentry  tag-africa tag-bitcoin tag-poor tag-set
-Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">Dennis Wafula </a></span>
+Posted by: Dennis Wafula
 <span>October 31, 2014</span>
     
-<a href="/2014/10/31/bitcoin-set-help-poor-africa/#comments">3 Comments</a></span>
-</p>
+
 <p>Bitcoin, an open source, peer-to-peer digital currency is frequently referred to as ‘anonymous’ currency. It is unique because it is the first decentralized digital payment method. Bitcoin transactions are much cheaper and quicker than traditional payment networks because there is no third intermediary needed for these transactions. Further, it tends to reduce the transaction costs for small business and small medium enterprises, which in turn help to reduce poverty by increasing access to capital, protect people from capital controls and censorship. In addition, it enhances financial privacy and encourages innovation of new equipment and structures.</p>
 <p>As a cheap form of money remittance, Bitcoin also holds promise for future low cost remittance. In 2012, immigrants sent over $401 Billions to their relatives in third world countries. This we expect to increase to $515 Billion this year. These remittances made mostly through traditional wire transfers like western union and money gram. The global average fees for this transaction is around 9.05 percent of the amount while with Bitcoin it is only 1 percent of the amount. The entrepreneurial opportunity to improve money transfer has catapulted even western union and money gram want to incorporate bitcoin into their business models, says Jose Pagliery, author of Bitcoin: And the Future of Money.</p>
 <p>Bitcoins provide relief for people living in Africa with strict capital controls. The total numbers of Bitcoins mined are capped and therefore cannot be manipulated. There is no special authority that can reverse transactions or prevent exchange of bitcoins between countries, they therefore offer an escape hatch for people who desire an alternative to their country’s devalued currency.</p>
@@ -19,7 +17,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/denniswafula/" title="">De
 <p>Buyers and sellers have to share identifiable information about each other except for their digital wallets addresses. However, the system’s public accounting book, the block chain records all transactions for all to see. It might be counter-intuitive for a system of money that is traceable and has the highest privacy levels. Nevertheless, it all comes down to who knows which digital wallet is yours. Which in essence give the law enforcers effective tools for hunting down criminals should they ever connect the dots between the digital wallet and the real life owner.</p>
 <p>As a digital currency, bitcoins presents some specific challenges. If a person is not careful, they can advertently delete or misplace their bitcoins. Once the digital file is lost, the money is lost just like paper money. If someone does not protect their private Bitcoins addresses, they leave themselves open to theft. If a user does not encrypt their wallet, their bitcoins are stolen through malware.</p>
 <p>In conclusion, Bitcoins is a great improvement that has the potential to greatly improve human welfare and jump-start beneficial and potential developments in payments, communication and business in Africa. Bitcoins clever use of public-key encryption and peer-to-peer networking solves the double spending problem that had previously made decentralization digital currency impossible. These properties combine to create a payment that could lower transaction costs in business and remittance, alleviate poverty in Africa, provide an escape for capital controls and monetary mismanagement, allow for legitimate financial privacy online and spur innovations all over Africa according to Brito, J., and Castillo, A.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/africa/" rel="tag">africa</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/poor/" rel="tag">poor</a> <a href="https://www.deepdotweb.com/tag/set/" rel="tag">set</a></span> 
-Updated: 2014-10-31<a href="https://www.deepdotweb.com/author/denniswafula/" title="Posts by Dennis Wafula" rel="author">Dennis Wafula</a></strong></div>
+
+Updated: 2014-10-31
     

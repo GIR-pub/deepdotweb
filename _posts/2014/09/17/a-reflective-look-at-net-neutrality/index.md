@@ -1,12 +1,10 @@
 ---
-title: "Reflective Look at Net Neutrality---
+title: "Reflective Look at Net Neutrality"
+---
 
-7107 post type-post status-publish format-standard has-post-thumbnail hentry  tag-net tag-neutrality
-Posted by: <a href="https://www.deepdotweb.com/author/mikewilkerson/" title="">Mike Wilkerson </a></span>
+Posted by: Mike Wilkerson
 <span>September 17, 2014</span>
-    
-<a href="/2014/09/17/a-reflective-look-at-net-neutrality/#comments">6 Comments</a></span>
-</p>
+
 <p>Net Neutrality comments to be submitted to the FCC website, among others, have come to a close (9/15) with over 1.4 million comments and web heavyweights such as Tumblr, Netflix, and many others rallying behind the idea that the Internet should be kept open, and that all traffic should be created equal.</p>
 <p>While I am an advocate for it, I had a conversation the other day that really made me think about these data streams and how they are treated from the other side of the fence.</p>
 <p>We were discussing issues such as network congestion, the cost of servicing, repairs, etc, as well as a myriad of other difficulties that internet service providers face every day, and while yes, some have increased prices it has become more difficult (and costly) for them to keep up with even the average internet user in terms of the amount of data they are using these days.</p>
@@ -16,7 +14,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/mikewilkerson/" title="">M
 <p>I am in no way saying let us all suddenly change our minds and run off to support this but I do believe that certain parts of these radically proposed changes for the industry could in fact be a <em>good</em> thing. Perhaps in its current iteration it leaves a lot to be desired, and definitely needs to be smoothed over for the betterment of what these laws are attempting to do and how it impacts us in the Internet age.</p>
 <p>I also think it is interesting that some of most extreme supporters of Net Neutrality do in fact take part in the exact same thing they are fighting so hard against: Data prioritization on a network. Most routers these days have a feature called Quality of Service (QoS) which delegates traffic into lanes, such as fast and slow, per the user needs. For example you may want to be able to download the newest expansion pack for a game, while not having your Netflix marathon paused because the network can&#8217;t quite handle it. Is this not a form of exactly the type of data manipulation that the most hardcore Internet activist are fighting against?</p>
 <p>Obviously this example is at the most basest of forms but it isn&#8217;t meant to verify this articles theme but to supplement the idea that perhaps all of net neutrality isn&#8217;t a bad thing, and could in fact be a necessary evil for the sustainability of services (in this case the internet) offered by companies that customers are using more and more of, and as technology progresses I am positive will only become worse in terms of network quality unless we do something about it.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/neutrality/" rel="tag">neutrality</a></span> 
-Updated: 2014-09-17<a href="https://www.deepdotweb.com/author/mikewilkerson/" title="Posts by Mike Wilkerson" rel="author">Mike Wilkerson</a></strong></div>
+
+Updated: 2014-09-17
     
