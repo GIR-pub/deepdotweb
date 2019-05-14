@@ -2,7 +2,7 @@
 Malaysian Pilot Tests Positive for Darknet Related Drug in Indonesia"
 ---
 <article class="post-listing post-24456 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-darknet tag-indonesia tag-malaysian tag-pilot tag-positive tag-tests">
+ tag-indonesia tag-malaysian tag-pilot tag-positive tag-tests">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>January 17, 2018</span>

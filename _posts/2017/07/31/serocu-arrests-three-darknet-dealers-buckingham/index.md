@@ -1,7 +1,7 @@
 ---
-SEROCU Arrests Three Darknet Dealers in Buckingham"
+SEROCU Arrests Three Darknet Dealers in Buckingham
 ---
-<article class="post-listing post-21661 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buckingham tag-darknet tag-dealers tag-serocu">
+<article class="post-listing post-21661 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buckingham tag-dealers tag-serocu">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 31, 2017</span>
@@ -31,6 +31,8 @@ SEROCU Arrests Three Darknet Dealers in Buckingham"
     <p>In December 2016, <a href="https://www.deepdotweb.com/2016/12/12/two-sussex-men-charged-darknet-drug-sales-money-laundering/">a SEROCU investigation</a> led to the arrest of two men from Sussex and two men for from Birmingham. All four in connection with darknet crimes. The “ring&#8221; landed in law enforcement&#8217;s scope for offering money laundering services on the darknet. Upon a closer examination, detectives discovered that the four sold drugs.</p>
     <p>They sold, notably, the same drugs: cocaine, MDMA, cannabis, and ketamine. They received possession of class A and B drug charges, along with the conspiracy to supply class A and B drugs. The names of the three most recent arrests were not announced, nor was a court date revealed. A connection is highly unlikely, but of the few darknet drug trafficking crimes SEROCU investigated, two involved Birmingham; ketamine; MDMA; cannabis; and money laundering.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/buckingham/" rel="tag">buckingham</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/serocu/" rel="tag">serocu</a></span> <span style="display:none" class="updated">2017-07-31</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrests/" rel="tag">arrests</a> <a href="https://www.deepdotweb.com/tag/buckingham/" rel="tag">buckingham</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a> <a href="https://www.deepdotweb.com/tag/serocu/" rel="tag">serocu</a></span> <span style="display:none" class="updated">2017-07-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

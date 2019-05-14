@@ -1,7 +1,7 @@
 ---
-Husband and Wife Charged for Darknet Drug Distribution"
+Husband and Wife Charged for Darknet Drug Distribution
 ---
-<article class="post-listing post-20793 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-darknet tag-distribution tag-husband tag-wife">
+<article class="post-listing post-20793 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-distribution tag-husband tag-wife">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 22, 2017</span>
@@ -23,6 +23,8 @@ Husband and Wife Charged for Darknet Drug Distribution"
     <p>But the help was nothing more than letting him use her name on a bank account and dropped off packages, she argued. &#8220;I just took something on the way to work and put it in the box.” The prosecution said that the wife was not only a “helper but also an accomplice.” According to the court, Juliana conducted price negotiations, ordered stamps, and accepted packages from suppliers.</p>
     <p>The session ended without a conclusion for Juliana. Daniel was made aware that he would serve <a href="https://www.deepdotweb.com/tag/sentenced/">six years in prison</a>, based on his testimony. The court will reconvene in early June.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>  <a href="https://www.deepdotweb.com/tag/husband/" rel="tag">husband</a> <a href="https://www.deepdotweb.com/tag/wife/" rel="tag">wife</a></span> <span style="display:none" class="updated">2017-06-22</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/distribution/" rel="tag">distribution</a>  <a href="https://www.deepdotweb.com/tag/husband/" rel="tag">husband</a> <a href="https://www.deepdotweb.com/tag/wife/" rel="tag">wife</a></span> <span style="display:none" class="updated">2017-06-22</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

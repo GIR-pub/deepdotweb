@@ -1,7 +1,7 @@
 ---
-Australian Vendor Busted by New Darknet Taskforce"
+Australian Vendor Busted by New Darknet Taskforce
 ---
-<article class="post-listing post-21382 post type-post status-publish format-standard has-post-thumbnail hentry  tag-australian tag-busted tag-darknet tag-taskforce tag-vendor">
+<article class="post-listing post-21382 post type-post status-publish format-standard has-post-thumbnail hentry  tag-australian tag-busted tag-taskforce tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 17, 2017</span>
@@ -25,6 +25,8 @@ Australian Vendor Busted by New Darknet Taskforce"
     <p>Last year, <a href="https://www.deepdotweb.com/2016/08/20/south-australian-police-new-campaign-internet-drug-sales/">SAPOL ran an operation</a> that netted at least four vendors. Additionally, the AFP, the Australian Criminal Intelligence Commission, the Immigration Department, and local police departments teamed up for <a href="https://www.deepdotweb.com/2016/11/08/australian-police-arrest-four-persons-part-operation-hyperion/">Operation Hyperion</a>. They busted four individuals during Hyperion.</p>
     <p>Authorities now ended the two year career of an elusive Australian <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet drug market</a> vendor.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/australian/" rel="tag">australian</a>  <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/taskforce/" rel="tag">taskforce</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-07-17</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/australian/" rel="tag">australian</a>  <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/taskforce/" rel="tag">taskforce</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-07-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

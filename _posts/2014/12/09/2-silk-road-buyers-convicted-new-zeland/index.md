@@ -4,6 +4,7 @@ title: "2 Silk Road Buyers Convicted In New Zeland"
 
 
 Posted by: DeepDotWeb
+
 <span>December 9, 2014</span>
 
 <p>As it was published by <a href="http://www.stuff.co.nz/auckland/63779228/Silk-Road-drug-buyers-in-court">Stuff.co.nz</a>, Apparently they were Silk Road 1 Buyers, as another article <a href="http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=11368206">suggests</a>, that the orders were intercepted in September 2013 (see this Reddit <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2ooydm/2_new_zealand_silk_road_1_buyers_convicted/" target="_blank">thread</a> for details):</p>

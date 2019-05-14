@@ -1,7 +1,7 @@
 ---
 German Special Forces Arrest Darknet Amphetamine Vendor"
 ---
-<article class="post-listing post-15992 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amphetamine tag-arrest tag-darknet tag-forces tag-german tag-special tag-vendor">
+<article class="post-listing post-15992 post type-post status-publish format-standard has-post-thumbnail hentry  tag-amphetamine tag-arrest tag-forces tag-german tag-special tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>October 22, 2016</span>

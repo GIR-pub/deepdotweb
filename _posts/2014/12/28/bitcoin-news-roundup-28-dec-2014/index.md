@@ -2,12 +2,11 @@
 title: "Bitcoin News Roundup – 28 Dec. 2014"
 ---
 
-8701  tag-1779 tag-2518 tag-dec tag-roundup
+
 Posted by: DeepDotWeb
+
 <span>December 28, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/12/28/bitcoin-news-roundup-28-dec-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Russia is facing tough times with the Ruble having lost nearly 50 percent of its value against the US dollar. Evander Smart of <a href="https://www.cryptocoinsnews.com/russia-reconsidering-bitcoin-ban-2015/">CryptoCoins News</a> reports that the Russian government is seriously considering banning the bitcoin in 2015. The cryptocurrency is widely regarded as responsible to hurt the ability of Russian corporations to attract new investors. If the Russian Ministry of Economic Development approves the bill to ban the bitcoin, Russia will not be able to generate new revenue streams and the Russian citizens won’t capitalize on tax advantages.</p>
 <p>ESPN, the global cable and satellite television channel, aired the first TV bitcoin commercial for the St. Petersburg “Bitcoin Bowl”, a postseason college football game. The pre-sale tickets were available exclusively to bitcoin exchanges for two weeks, offering the bitcoin owners the opportunity to get the best seats in advance. The commercial created in collaboration with BitPay was greatly received by the bitcoin community and has raised the attention of people that would have zero interest in bitcoin, <a href="https://www.cryptocoinsnews.com/author/caleb-chen/">Caleb Chen</a> of <a href="https://www.cryptocoinsnews.com/bitpay-airs-first-bitcoin-commercials-on-espn-bitcoinbowl/">CryptoCoins News</a> reports.</p>
@@ -19,7 +18,6 @@ Posted by: DeepDotWeb
 <p>Stripe, the San Francisco-based online payments solutions provider, will start to accept bitcoin with a fee of 0.5% per transaction. After launching the beta version of the transaction system in March 2014, Stripe has received $190 million through funding and is ready to go live in January 2015, <a href="http://www.coindesk.com/author/jon-southurst/">Jon Southurst</a> of <a href="http://www.coindesk.com/stripe-updates-bitcoin-payments-advice-will-go-live-january/">CoinDesk</a> reports. Stripe’s position will be strengthened considering its user-friendly platform and its ability to provide a wide selection of payment options to its users. By going live, Stripe is set out to become a leading player in the bitcoin space. Its main competitor, Braintree, went live in September after partnering with Coinbase.</p>
 <p>Following Microsoft, Dell, Overstock, Mozilla, Greenpeace and many other leading businesses around the globe, <a href="http://www.idiamonds.com/">iDIAMONDS</a>.com is now accepting bitcoin for carats, diamonds and diamond jewelry. According to <a href="http://www.prnewswire.com/news-releases/trade-bitcoin-for-carats-diamonds-and-diamond-jewelry-at-idiamonds-established-online-jewelry-ecommerce-outlet-300013282.html">PRNewswire</a>, theNew York City-basedjewelry e-commerce retailer, has partnered with BitPay to make it possible for its customers to exchange bitcoins for diamonds. The diamond industry has been resistant to employ new technology, so iDIAMONDS’s decision signals a new era of hedging against large positions in the cryptocurrency.</p>
 <p>BitGold, the Toronto-based financial services platform that offers free global payments with access to highly secured redeemable gold, raised $3.5 million for the pre-launch of its Q1-2015 platform. The company raised the funds through angel financing for the development and acquisition of key intellectual property and proof of concept and with the funding of leading financial professionals including Soros Brothers Investments and PowerOne Capital, <a href="http://www.businesswire.com/news/home/20141223005913/en/BitGold-Raises-3.5-Million-Advance-Early-2015#.VJ-YFsAA">Business Wire</a> reports.</p>
-<p>&nbsp;</p>
-<a href="https://www.deepdotweb.com/tag/28/" rel="tag">28</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2014-12-28
     

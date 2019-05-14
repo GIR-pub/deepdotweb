@@ -3,6 +3,7 @@ title: "Joseph Cox: The Deep Web Isn&#8217;t All Dark"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 23, 2014</span>
 
 <p><iframe width="618" height="348" src="https://www.youtube.com/embed/rJ5omgCpBTM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>

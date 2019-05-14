@@ -1,7 +1,7 @@
 ---
-Darknet Vendor Lists One Billion Anti-Public Accounts"
+Darknet Vendor Lists One Billion Anti-Public Accounts
 ---
-<article class="post-listing post-20077 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accounts tag-antipublic tag-billion tag-darknet tag-lists tag-vendor">
+<article class="post-listing post-20077 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accounts tag-antipublic tag-billion tag-lists tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 24, 2017</span>
@@ -26,6 +26,8 @@ Updated: 10th May” contains many too many records to read.</p>
     <p>HackRead, not unknown for their keen eye when reporting darknet data breaches, pointed out that “<a href="https://www.hackread.com/anti-public-combo-accounts-on-dark-web/">the nightmare doesn’t end [there]</a>.” Wildfruit2 is also actively selling 800 million Exploit.in accounts in the form of a cleartext username + password. combination. This brings Wildfruit2’s total accounts to 1,257,962,538.</p>
     <p><img class="wp-image-20089 aligncenter" src="/imgs/2017/05/word-image-106.jpeg" srcset="/imgs/2017/05/word-image-106.jpeg 918w, /imgs/2017/05/word-image-106-300x196.jpeg 300w" sizes="(max-width: 918px) 100vw, 918px"/></p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/antipublic/" rel="tag">antipublic</a> <a href="https://www.deepdotweb.com/tag/billion/" rel="tag">billion</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/lists/" rel="tag">lists</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-05-24</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/antipublic/" rel="tag">antipublic</a> <a href="https://www.deepdotweb.com/tag/billion/" rel="tag">billion</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/lists/" rel="tag">lists</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2017-05-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

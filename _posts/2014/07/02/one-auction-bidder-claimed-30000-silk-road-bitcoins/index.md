@@ -3,6 +3,7 @@ title: "One Auction Bidder Claimed The 30,000 Silk Road Bitcoins"
 ---
 
 Posted by: DeepDotWeb
+
 <span>July 2, 2014</span>
 
 <p><strong>Update</strong>: <a href="http://www.coindesk.com/tim-draper-revealed-silk-road-bitcoin-auction-winner/">VC Tim Draper is the Silk Road Bitcoin Auction Winner</a>:</p>

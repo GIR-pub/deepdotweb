@@ -4,6 +4,7 @@ title: "Introducing Grams Helix: Bitcoins Cleaner"
 
 
 Posted by: DeepDotWeb
+
 <span>June 22, 2014</span>
 
 <p>Helix is the definitive darknet bitcoin cleaner. Grams&#8217; helix doesn&#8217;t just clean your bitcoins it gives you brand new ones which have never been to the darknet before. The helix system is more than a bitcoin tumbler, it is privacy and security wrapped in one.</p>

@@ -1,7 +1,7 @@
 ---
 DarkNet Video News Roundup: 1/4/16
 ---
-<article class="post-listing post-13622 post type-post status-publish format-standard has-post-thumbnail hentry  category-videos tag-3584 tag-darknet tag-news tag-roundup tag-video tie_video">
+<article class="post-listing post-13622 post type-post status-publish format-standard has-post-thumbnail hentry  category-videos tag-3584 tag-news tag-roundup tag-video tie_video">
     
     <iframe width="660" height="371" src="https://www.youtube.com/embed/4rKupF6n3Cw?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
     <div class="post-inner">

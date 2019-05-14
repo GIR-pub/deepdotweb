@@ -1,7 +1,7 @@
 ---
 Indiana University Frat Member Arrested for Dealing DarkNet Xanax
 ---
-<article class="post-listing post-9390 post type-post status-publish format-standard hentry category-news tag-darknet tag-dealing tag-frat tag-indiana tag-member tag-university tag-xanax">
+<article class="post-listing post-9390 post type-post status-publish format-standard hentry category-news tag-dealing tag-frat tag-indiana tag-member tag-university tag-xanax">
 <div class="post-inner">
 <  <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>March 5, 2015</span>
@@ -15,4 +15,4 @@ Indiana University Frat Member Arrested for Dealing DarkNet Xanax
 </blockquote>
 <p class="Stories:Body Copy">More info: http://www.idsnews.com/article/2015/03/delta-tau-delta-member-arrested-for-dealing-xanax</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealing/" rel="tag">dealing</a> <a href="https://www.deepdotweb.com/tag/frat/" rel="tag">frat</a> <a href="https://www.deepdotweb.com/tag/indiana/" rel="tag">indiana</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2015-03-05
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealing/" rel="tag">dealing</a> <a href="https://www.deepdotweb.com/tag/frat/" rel="tag">frat</a> <a href="https://www.deepdotweb.com/tag/indiana/" rel="tag">indiana</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2015-03-05

@@ -1,7 +1,7 @@
 ---
 UN Official Says Gangs are Globalizing via the Darknet
 ---
-<article class="post-listing post-21149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-gangs tag-globalizing tag-official">
+<article class="post-listing post-21149 post type-post status-publish format-standard has-post-thumbnail hentry  tag-gangs tag-globalizing tag-official">
     
     <div class="post-inner">
     
@@ -17,7 +17,7 @@ UN Official Says Gangs are Globalizing via the Darknet
     </p>
     <div class="clear"></div>
     
-    
+    <div class="entry">
     
     <p><a href="http://www.insightcrime.org/news-briefs/un-official-warns-evolving-role-central-america-gangs-drug-trade">According to a UN official</a>, Central American crime groups have started to use the darknet to strengthen connections with transnational organized crime and drug trafficking gangs. They are offering drug trafficking services for flat rates and reaching markets that would be otherwise inaccessible. Officials believe this is one explanation for increased <a href="https://www.deepdotweb.com/tag/cocaine/">cocaine</a> demand and purity.</p>
     <p>Amado Philip de Andrés, representative of the United Nations Office on Drugs and Crime (UNODC) for Central America said that an <a href="https://www.deepdotweb.com/2017/06/19/gds-2017-media-cocaine-mdma-mushrooms/">influx of high purity cocaine</a> in new places indicated greater level of interaction between drug trafficking groups. The UN official argued the point that gangs were becoming more technologically advanced, thus creating new connections with groups through the internet. This interconnectivity has been speculated for some time, but the “why” and &#8220;how” were unknown.</p>
@@ -30,7 +30,7 @@ UN Official Says Gangs are Globalizing via the Darknet
     
     
     </div><!-- .entry /-->
-    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/gangs/" rel="tag">gangs</a> <a href="https://www.deepdotweb.com/tag/globalizing/" rel="tag">globalizing</a> <a href="https://www.deepdotweb.com/tag/official/" rel="tag">official</a></span>				<span style="display:none" class="updated">2017-07-09</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/gangs/" rel="tag">gangs</a> <a href="https://www.deepdotweb.com/tag/globalizing/" rel="tag">globalizing</a> <a href="https://www.deepdotweb.com/tag/official/" rel="tag">official</a></span>				<span style="display:none" class="updated">2017-07-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

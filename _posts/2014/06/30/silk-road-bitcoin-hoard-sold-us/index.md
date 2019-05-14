@@ -3,6 +3,7 @@ title: "Silk Road Bitcoin hoard sold in US!"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 30, 2014</span>
 
 <p><strong>Update From <a href="http://www.coindesk.com/us-marshals-release-new-data-silk-road-bitcoin-auction/">Coindesk</a>: </strong></p>

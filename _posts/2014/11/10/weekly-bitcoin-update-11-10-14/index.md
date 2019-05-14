@@ -3,6 +3,7 @@ title: "Weekly Bitcoin Update – 11-10-14"
 ---
 
 Posted by: DeepDotWeb
+
 <span>November 10, 2014</span>
 
 <p><em>Providing the week&#8217;s biggest Bitcoin stories from around the web</em></p>

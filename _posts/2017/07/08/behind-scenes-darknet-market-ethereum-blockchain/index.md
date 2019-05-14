@@ -1,7 +1,7 @@
 ---
-Behind-the-Scenes: a Darknet Market on the Ethereum Blockchain"
+Behind-the-Scenes: a Darknet Market on the Ethereum Blockchain
 ---
-<article class="post-listing post-21158 post type-post status-publish format-standard has-post-thumbnail hentry  tag-behindthescenes tag-blockchain tag-darknet tag-ethereum tag-market">
+<article class="post-listing post-21158 post type-post status-publish format-standard has-post-thumbnail hentry  tag-behindthescenes tag-blockchain tag-ethereum tag-market">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 8, 2017</span>
@@ -51,6 +51,8 @@ Behind-the-Scenes: a Darknet Market on the Ethereum Blockchain"
     <p>Pilgrim showed me an Ethrow demo and it is alive and functioning as a site but and the public will receive access in an alpha form, once it has been finished.</p>
     <p>The Reddit Account to PM: <a href="https://www.reddit.com/user/BillyOnTralfamadore">BillyOnTralfamadore</a></p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/behindthescenes/" rel="tag">behindthescenes</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a></span> <span style="display:none" class="updated">2017-07-08</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/behindthescenes/" rel="tag">behindthescenes</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/ethereum/" rel="tag">Ethereum</a></span> <span style="display:none" class="updated">2017-07-08</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

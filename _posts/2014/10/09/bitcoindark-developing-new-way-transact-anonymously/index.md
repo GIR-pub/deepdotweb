@@ -4,6 +4,7 @@ title: "BitcoinDark: A New Way To Transact Anonymously"
 
 
 Posted by: Greg Miller
+
 <span>October 9, 2014</span>
     
 

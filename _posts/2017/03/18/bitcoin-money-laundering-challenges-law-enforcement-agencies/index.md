@@ -1,7 +1,7 @@
 ---
-Bitcoin and Money Laundering &#8211; Challenges for Law Enforcement Agencies"
+Bitcoin and Money Laundering &#8211; Challenges for Law Enforcement Agencies
 ---
-<article class="post-listing post-18674 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agencies tag-bitcoin tag-challenges tag-enforcement tag-laundering tag-law tag-money">
+<article class="post-listing post-18674 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agencies tag-bitcoin tag-challenges tag-laundering tag-law tag-money">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 18, 2017</span>
@@ -27,5 +27,7 @@ Bitcoin and Money Laundering &#8211; Challenges for Law Enforcement Agencies"
 <p><a href="https://www.deepdotweb.com/tag/monero/">Monero</a> is an altcoin that utilizes a built-in tumbling technique to render transactions more anonymous. Many dark web marketplaces, have already started accepting Monero payments in addition to bitcoin. So, a user can now exchange bitcoin to monero and then use monero to buy illicit products from the dark web.</p>
 <p>Moreover, other cryptocurrencies are proven to be more anonymous than bitcoin and so can represent a challenge for law enforcement agencies such as DASH and Cryptonote cryptocurrencies including Bytecoin, Boolberry and others.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/agencies/" rel="tag">agencies</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/challenges/" rel="tag">challenges</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a></span> <span style="display:none" class="updated">2017-03-18<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/agencies/" rel="tag">agencies</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/challenges/" rel="tag">challenges</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a></span> <span style="display:none" class="updated">2017-03-18<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+</div>
+</article>
 

@@ -3,6 +3,7 @@ title: "TorEscrow, What Happend?"
 ---
 
 Posted by: DeepDotWeb
+
 <span>April 22, 2014</span>
     
 <a href="/2014/04/22/torescrow-marketplace-happend/#comments">18 Comments</a></span>
@@ -23,7 +24,7 @@ Posted by: DeepDotWeb
 <h2><span style="text-decoration: underline;"><strong>How to proceed from here</strong>?</span></h2>
 <p>Simple:</p>
 <div class="box  warning"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
-<p><strong>1. Start here &#8211; <span style="color: #ff0000;"><a href="http://www.deepdotweb.com/multisig-guides/"><span style="color: #ff0000;">Multisig Guides</span></a></span></strong><br/>
+<p><strong>1. Start here &#8211; <span style="color: #ff0000;"><a href="multisig-guides/"><span style="color: #ff0000;">Multisig Guides</span></a></span></strong><br/>
 <strong>2. Than Continue to here to the multisig category- <span style="color: #ff0000;"><a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/"><span style="color: #ff0000;">Updated List of Hidden Marketplaces</span></a></span></strong></p>
 </div></div>
 <p>Sorry for those who lost money, and hopefully this will not happen again (but it probably will).</p>

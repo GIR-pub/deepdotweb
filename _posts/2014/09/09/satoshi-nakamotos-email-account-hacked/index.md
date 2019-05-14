@@ -3,6 +3,7 @@ title: "Satoshi Nakamoto&#8217;s Email Account Hacked"
 ---
 
 Posted by: DeepDotWeb
+
 <span>September 9, 2014</span>
 
 <p>Was published by <a href="http://www.wired.com/2014/09/satoshi" target="_blank">Wired</a>:</p>

@@ -1,7 +1,7 @@
 ---
 Man Charged With BTC Purchase of Firearm and Silencer on “Darknet”
 ---
-<article class="post-listing post-9854 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-darknet tag-firearm tag-man tag-purchase tag-silencer">
+<article class="post-listing post-9854 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charged tag-firearm tag-man tag-purchase tag-silencer">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 3, 2015</span>

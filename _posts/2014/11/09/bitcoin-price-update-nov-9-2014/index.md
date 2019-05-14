@@ -3,6 +3,7 @@ title: "Bitcoin Price Update Nov-9, 2014"
 ---
 
 Posted by: DeepDotWeb
+
 <span>November 9, 2014</span>
 
 <p><span style="text-decoration: underline;"></span>This week was bullish in terms of Bitcoin price activity, especially when compared to the downward trajectory of last week&#8217;s Bitcoin price activity. Throughout the course of this week, the price managed to climb out of the mid $320s and hit the $340s. Additionally, the Bitcoin price also entered the $350s for a brief period of time. Overall, the price increased by 5.52 percent this week. That being said, let us take a closer look at the day-to-day price activity that occurred on the Bitstamp Bitcoin exchange. Please note that the prices on the below list have been rounded to the nearest dollar amount. Therefore, the descriptions of price activity in this report will not be 100% accurate. Additionally, note that the prices in the below list are daily opening prices. However, the price listed for November 8<sup>th</sup> is the closing price, rather than the opening price.</p>

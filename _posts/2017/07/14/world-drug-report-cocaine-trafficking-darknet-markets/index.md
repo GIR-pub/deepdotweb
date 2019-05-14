@@ -1,7 +1,7 @@
 ---
-World Drug Report: Cocaine Trafficking and Darknet Markets"
+World Drug Report: Cocaine Trafficking and Darknet Markets
 ---
-<article class="post-listing post-21232 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cocaine tag-darknet tag-report tag-trafficking 
+<article class="post-listing post-21232 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cocaine tag-report tag-trafficking 
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 14, 2017</span>
@@ -22,6 +22,8 @@ World Drug Report: Cocaine Trafficking and Darknet Markets"
     <p>“<em>The darknet allows users to buy drugs with a </em><a href="https://www.deepdotweb.com/tag/bitcoin/"><em>crypto currency</em></a><em>, such as bitcoin, and have their purchases delivered to them in a concealed manner.Typical buyers are recreational users of cannabis, “ecstasy,” cocaine, hallucinogens and NPS. They are less likely to order heroin or methamphetamine. Although the darknet accounts for only a small percentage of drug sales, the market has been growing by around 50 per cent per year in recent years</em>.”</p>
     <p>According to the UNODC research at the time of the interviews, cocaine sat in the list of the top three most purchased.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2017-07-14</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cocaine/" rel="tag">cocaine</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/report/" rel="tag">report</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2017-07-14</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

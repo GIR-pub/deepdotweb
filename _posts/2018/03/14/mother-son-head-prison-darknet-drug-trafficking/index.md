@@ -2,7 +2,7 @@
 Mother and Son Head to Prison for Darknet Drug Trafficking"
 ---
 <article class="post-listing post-25042 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-darknet tag-mother tag-prison tag-son tag-trafficking">
+ tag-mother tag-prison tag-son tag-trafficking">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 14, 2018</span>

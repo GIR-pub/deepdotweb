@@ -1,7 +1,7 @@
 ---
 Research: Estimating the volume and scope of tobacco trading on darknet marketplaces"
 ---
-<article class="post-listing post-28489 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-estimating tag-marketplaces tag-research tag-scope tag-tobacco tag-trading tag-volume">
+<article class="post-listing post-28489 post type-post status-publish format-standard has-post-thumbnail hentry  tag-estimating tag-marketplaces tag-research tag-scope tag-tobacco tag-trading tag-volume">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>March 2, 2019</span>

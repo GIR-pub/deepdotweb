@@ -2,7 +2,7 @@
 Child Suicide “Game” Videos Being Sold on the Darknet
 ---
 <article class="post-listing post-18403 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-child tag-darknet tag-game  tag-suicide tag-videos">
+ tag-child tag-game  tag-suicide tag-videos">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 2, 2017</span>

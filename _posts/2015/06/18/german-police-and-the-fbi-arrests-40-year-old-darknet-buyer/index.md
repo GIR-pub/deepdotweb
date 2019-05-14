@@ -1,7 +1,7 @@
 ---
 German Police And The FBI Arrests 40-year-old DarkNet Buyer"
 ---
-<article class="post-listing post-10864 post type-post status-publish format-standard hentry category-news tag-40yearold tag-buyer tag-darknet tag-german tag-police">
+<article class="post-listing post-10864 post type-post status-publish format-standard hentry category-news tag-40yearold tag-buyer tag-german tag-police">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>June 18, 2015</span>

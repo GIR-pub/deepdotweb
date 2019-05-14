@@ -3,6 +3,7 @@ title: "Drugslist Now Offering FULL API multi-sig escrow"
 ---
 
 Posted by: DeepDotWeb
+
 <span>January 25, 2014</span>
 
 <p>It seems that some marketplaces are headed in the right direction, as we previously reported &#8211; the Drugslist marketplace, started <a href="/2014/01/19/drugslist-marketplace-now-offering-multisig-escrow/">offering a Multisig</a> escrow that is meant to help buyers and sellers protect themselves from the option of losing all their funds in case the marketplace gets shut down or the owner is deciding to scam everyone, but the problem with &#8220;regular&#8221; multisig (i.e Multi-sig Lite) escrow is that the marketplace still being the one who holds the private keys for the transaction &#8211; which means he can still &#8220;finalize&#8221; them and steal the funds.</p>

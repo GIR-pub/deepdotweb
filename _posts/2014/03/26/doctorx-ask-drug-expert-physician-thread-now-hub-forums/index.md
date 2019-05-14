@@ -4,6 +4,7 @@ title: "DoctorX &#8220;Ask a Drug Expert Physician&#8221; Thread &#8211; Now on 
 
 
 Posted by: DeepDotWeb
+
 <span>March 26, 2014</span>
 
 <p>For those of you not familiar with DoctorX, Probably the most important harm reduction initiative for the DarkNetMarket community in the past year  &#8211; Dr. Fernando Caudevilla, a Spanish Physician who has been offering professional advice about Drugs and Health during the last year in Silk Road1 and Silk Road2 forums:</p>

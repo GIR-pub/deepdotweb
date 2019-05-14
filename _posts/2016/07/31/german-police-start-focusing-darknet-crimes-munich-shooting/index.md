@@ -1,7 +1,7 @@
 ---
 German Police to Start Focusing on Darknet Crimes After Munich Shooting"
 ---
-<article class="post-listing post-14969 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crimes tag-darknet tag-focusing tag-german tag-munich tag-police tag-shooting tag-start">
+<article class="post-listing post-14969 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crimes tag-focusing tag-german tag-munich tag-police tag-shooting tag-start">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 31, 2016</span>

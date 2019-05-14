@@ -1,7 +1,7 @@
 ---
-Italy Continues To Raid the Darknet Marketplace to Fish out The Illegal Traders"
+Italy Continues To Raid the Darknet Marketplace to Fish out The Illegal Traders
 ---
-<article class="post-listing post-21358 post type-post status-publish format-standard has-post-thumbnail hentry  tag-continues tag-darknet tag-fish tag-illegal tag-italy tag-raid tag-traders">
+<article class="post-listing post-21358 post type-post status-publish format-standard has-post-thumbnail hentry  tag-continues tag-fish tag-illegal tag-italy tag-raid tag-traders">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>July 16, 2017</span>
@@ -26,6 +26,8 @@ Italy Continues To Raid the Darknet Marketplace to Fish out The Illegal Traders"
     <p>The Darknet marketplace has generated a lot of interest in all over the globe, due to how easy it is to access anything deemed illegal, and difficult to obtain on the street. Mr. Oerting <a href="https://www.nytimes.com/2014/11/08/world/europe/dark-market-websites-operation-onymous.html">said</a> that “The scope is basically everything is for sale, everything that is stolen. You might even buy a stolen car. But in general, they were selling anything you would want to send with a normal mailman, the fastest business mode.”</p>
     <p>This raid conducted by the flying squad of the police headquarters in Lecco will tend to achieve its goals and reduce the greater access of the Darknet among the Italians.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/continues/" rel="tag">continues</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/fish/" rel="tag">fish</a> <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/italy/" rel="tag">italy</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/traders/" rel="tag">traders</a></span> <span style="display:none" class="updated">2017-07-16</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/continues/" rel="tag">continues</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/fish/" rel="tag">fish</a> <a href="https://www.deepdotweb.com/tag/illegal/" rel="tag">illegal</a> <a href="https://www.deepdotweb.com/tag/italy/" rel="tag">italy</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/traders/" rel="tag">traders</a></span> <span style="display:none" class="updated">2017-07-16</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
-    
+    </div>
+</article>
+

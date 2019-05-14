@@ -2,7 +2,7 @@
 Cyber-Crime and Criminal Opportunities Across the Darknet
 ---
 <article class="post-listing post-18510 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-criminal tag-cybercrime tag-darknet tag-opportunities">
+tag-criminal tag-cybercrime tag-opportunities">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>March 9, 2017</span>
@@ -24,5 +24,7 @@ tag-criminal tag-cybercrime tag-darknet tag-opportunities">
 <p><strong>Other types of crimes on the darknet:</strong></p>
 <p>The darknet also offers a wide range of other illegal items and services including counterfeit currencies, counterfeit legal documents, hacking software, malware, stolen credit cards.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/criminal/" rel="tag">criminal</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/opportunities/" rel="tag">opportunities</a></span> <span style="display:none" class="updated">2017-03-09<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/criminal/" rel="tag">criminal</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/opportunities/" rel="tag">opportunities</a></span> <span style="display:none" class="updated">2017-03-09<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+</div>
+</article>
 

@@ -1,8 +1,8 @@
 ---
-Research: Identification of cyber threats across non-English darknet marketplaces"
+Research: Identification of cyber threats across non-English darknet marketplaces
 ---
 <article class="post-listing post-27721 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-cyber tag-darknet tag-identification tag-marketplaces tag-nonenglish tag-research tag-threats">
+tag-cyber tag-identification tag-marketplaces tag-nonenglish tag-research tag-threats">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 27, 2018</span>
@@ -31,5 +31,7 @@ tag-cyber tag-darknet tag-identification tag-marketplaces tag-nonenglish tag-res
 <p><strong>Final thoughts:</strong></p>
 <p>The proposed framework can greatly help CTI professionals identify cyber threats in non-English darknet marketplaces without having to rely on machine translation. However, future studies are needed to develop approaches that can obtain results from very short product descriptions. Moreover, it is necessary to validate the framework for other languages such as Chinese, Arabic, and others.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/identification/" rel="tag">identification</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/nonenglish/" rel="tag">nonenglish</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a></span> <span style="display:none" class="updated">2018-12-27<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/identification/" rel="tag">identification</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/nonenglish/" rel="tag">nonenglish</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/threats/" rel="tag">threats</a></span> <span style="display:none" class="updated">2018-12-27<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+</div>
+</article>
 

@@ -3,6 +3,7 @@ title: "Study Claims: Silk Road Reduced Drug-trade Violence"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 8, 2014</span>
 
 <p>I have been holding this post for over a week and from some reason it slipped my publishing queue. but better late than never. The data in this study is a bit hard to verify and a better definition would be &#8220;debate&#8221; between researchers more than a real study, but it does show some interesting views so its worth mentioning:</p>

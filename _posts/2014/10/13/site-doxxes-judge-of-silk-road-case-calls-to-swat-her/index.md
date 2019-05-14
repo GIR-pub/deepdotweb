@@ -4,6 +4,7 @@ title: "Site Doxx&#8217;es Judge of Silk Road Case &#8211; Calls To &#8220;Swat&
 
 
 Posted by: DeepDotWeb
+
 <span>October 13, 2014</span>
 
 <p><span style="text-decoration: underline;"><strong>Update 26.10.14</strong></span>: Added comment from freeross.org: We strongly condemn the outrageous threats to Judge Forrest</p>
@@ -27,7 +28,7 @@ Posted by: DeepDotWeb
 <div class="thumbcaption">Judge Katherine Forrest</div>
 </div>
 </div>
-<p>Katherine Bolan Forrest is the judge who is unfairly ruining Ross Ulbricht&#8217;s life and chance for a fair trail. In case you are unaware of her, she was the Judge who <a class="external text" href="http://www.deepdotweb.com/2014/07/09/judge-rejects-every-defense-argument-made-in-the-silk-road-trial/" rel="nofollow">&#8220;Rejected Every Defense Argument In The Silk Road Trial&#8221;</a> <sup><b>[</b> <b>Clearnet link!</b> <b>]</b></sup></p>
+<p>Katherine Bolan Forrest is the judge who is unfairly ruining Ross Ulbricht&#8217;s life and chance for a fair trail. In case you are unaware of her, she was the Judge who <a class="external text" href="2014/07/09/judge-rejects-every-defense-argument-made-in-the-silk-road-trial/" rel="nofollow">&#8220;Rejected Every Defense Argument In The Silk Road Trial&#8221;</a> <sup><b>[</b> <b>Clearnet link!</b> <b>]</b></sup></p>
 <p>Can Ulbricht really be accused of running a drug-selling conspiracy when he (<b>ALLEGEDLY</b>) merely ran a website that made the narcotics sales possible? And can he be charged with money laundering when bitcoin doesn’t necessarily meet the requisite definition of money?’ According to Forrest’s latest ruling, yes and yes. She rejected every argument made in the defense’s motion, starting with the idea that Ulbricht had merely provided an innocent platform for hosting the Silk Road’s illicit e-commerce, just as eBay might occasionally host illegal content without its knowledge.</p>
 <p>Justice is not being served, Ross Ulbricht is a hard working honest man who is now a fall guy that the US government decided to choose because he had a large amount of bitcoins, a currency they are doing everything in their power to make illegal.</p>
 <p><strong><span id="Judge_Katherine_Forrest_Dox" class="mw-headline">Judge Katherine Forrest Dox</span></strong></p>

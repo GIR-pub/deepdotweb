@@ -3,6 +3,7 @@ title: "Weekly Bitcoin Update – 16 Nov. 2014"
 ---
 
 Posted by: DeepDotWeb
+
 <span>November 16, 2014</span>
 
 <p><strong>One Year since Peak Price</strong></p>

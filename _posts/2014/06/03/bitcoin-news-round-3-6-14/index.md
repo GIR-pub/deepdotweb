@@ -3,6 +3,7 @@ title: "Bitcoin news round-up 3.6.14"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 3, 2014</span>
 
 <p>Last week, Bitcoin crossed the $600 barrier for the first time since March 20 and is currently sitting at $660, gaining 4.7% in value over the past 24 hours, or 65% in the last month. Significant rises in value were spurred by announcements that Apple’s app store and DISH Network would start accepting the currency.</p>

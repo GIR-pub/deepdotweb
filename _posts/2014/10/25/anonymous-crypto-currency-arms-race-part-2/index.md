@@ -4,12 +4,13 @@ title: "Anonymous Crypto-Currency Arms Race Part 2"
 
 7258  tag-anonymous tag-arms tag-armsrace tag-cryptocurrency tag-race
 Posted by: Greg Miller
+
 <span>October 25, 2014</span>
     
 <a href="/2014/10/25/anonymous-crypto-currency-arms-race-part-2/#comments">1 Comment</a></span>
 </p>
     
-<p><em>All the parts are available in the <a href="http://www.deepdotweb.com/tag/ArmsRace/">Armsrace Tag</a>  – Once published</em></p>
+<p><em>All the parts are available in the <a href="tag/ArmsRace/">Armsrace Tag</a>  – Once published</em></p>
 <p>While developers scramble to get coins equipped with secure and anonymous features to present to the market at large, and raise above fellow anonymous crypto-currencies &#8211; all these coins come from a handful of technologies &#8211; CryptoNote, ZeroCoin/Cash, and decentralized mixing of various sorts. The differences between the technologies are huge, and could be mean life or death for these coins in the highly competitive world of crypto-currencies.</p>
 <p><strong>CryptoNote</strong></p>
 <p>CryptoNote is a open source protocol, that has been used to build numerous crypto-currencies off of. The protocol was initially launched in July of 2012, about 3 years after Bitcoin was first lunch. CryptoNote wanted to improve upon Bitcoin, with simpler and more efficient protocol, but most importantly, greater anonymity. Bitcoin’s transparency of bitcoin’s blockchain bothered them. They felt for a crypto-currency to be successful it needed greater privacy. As a result, CryptoNote’s anonymity came be narrowed down to two things &#8211; ring signatures, and sleath addresses</p>

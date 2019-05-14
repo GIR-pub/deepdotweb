@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
     
 <span>November 6, 2014</span>
 
-<p><strong>All new posts regarding this ongoing case will be in this <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 bust Tag</a></strong></p>
+<p><strong>All new posts regarding this ongoing case will be in this <a href="tag/silkroad2bust/">Silk Road 2 bust Tag</a></strong></p>
 <p>Along with the Seized Silk Road 2 market &#8211; Another 2 Markets were confirmed as seized &#8211; Hydra &amp; Cloud 9 Marketplaces:<br />
 <a href="/imgs/2014/11/hydra.png"><img class="aligncenter size-full wp-image-7999" src="/imgs/2014/11/hydra.png" alt="hydra" width="1273" height="875" srcset="/imgs/2014/11/hydra.png 1273w, /imgs/2014/11/hydra-300x206.png 300w, /imgs/2014/11/hydra-1024x704.png 1024w" sizes="(max-width: 1273px) 100vw, 1273px" /></a></p>
 <p><a href="/imgs/2014/11/cloud9.png"><img class="aligncenter size-full wp-image-8005" src="/imgs/2014/11/cloud9.png" alt="cloud9" width="1250" height="858" srcset="/imgs/2014/11/cloud9.png 1250w, /imgs/2014/11/cloud9-300x206.png 300w, /imgs/2014/11/cloud9-1024x703.png 1024w" sizes="(max-width: 1250px) 100vw, 1250px" /></a></p>

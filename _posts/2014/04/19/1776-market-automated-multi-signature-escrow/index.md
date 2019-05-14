@@ -3,10 +3,11 @@ title: "1776 Market: Automated Multi-Signature Escrow"
 ---
 
 Posted by: DeepDotWeb
+
 <span>April 19, 2014</span>
     
 
-<p class="post-box-title"><strong><span style="text-decoration: underline;">Update</span>: 1776 market redesigned its payment system: <a title="Permalink to Introducing The Grail: The 1776 Equal Trust Multisig System" href="http://www.deepdotweb.com/2014/05/12/introducing-grail-1776-equal-trust-escrow-system/" rel="bookmark">Introducing The Grail: The 1776 Equal Trust Multisig System</a></strong></p>
+<p class="post-box-title"><strong><span style="text-decoration: underline;">Update</span>: 1776 market redesigned its payment system: <a title="Permalink to Introducing The Grail: The 1776 Equal Trust Multisig System" href="2014/05/12/introducing-grail-1776-equal-trust-escrow-system/" rel="bookmark">Introducing The Grail: The 1776 Equal Trust Multisig System</a></strong></p>
 <p>1776 is a marketplace offering a bit more friendly implementation of 3-multisig transactions, we have been chatting with the developer &#8220;Tom&#8221;, for quite a few months as we worked on this marketplace, ans we are happy to be the first to introduce it now, we have asked the developer to provide us with and overview along with a usage guide of the sites multisig, and here it is exactly as he presents it, so you can be the judge:</p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong>1776 Marketplace url: <span style="color: #ff0000;">http://n6tzonxy7sod7eqt.onion/Register?refid=AGGEHU</span></strong>
@@ -74,7 +75,7 @@ Posted by: DeepDotWeb
 </div></div>
 <p>&#8212;&#8212;</p>
 <p>Marketplace url is also added to our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace list</a></p>
-<p>And this post is added to the <a href="http://www.deepdotweb.com/multisig-guides/">Multisig Guides page</a>.</p>
+<p>And this post is added to the <a href="multisig-guides/">Multisig Guides page</a>.</p>
 
 Updated: 2014-04-19
     

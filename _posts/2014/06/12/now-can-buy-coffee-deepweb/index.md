@@ -3,6 +3,7 @@ title: "Now You Can Buy&#8230; Coffee! On The DeepWeb"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 12, 2014</span>
 
 <p>Check out the new onion site that was announced earlier on Reddit not sure if its for real but i like the idea so why not mention it  &#8211;  &#8220;<strong>Dark Net Roasters</strong>&#8221; accepting Bitcoin and Darkcoin:</p>

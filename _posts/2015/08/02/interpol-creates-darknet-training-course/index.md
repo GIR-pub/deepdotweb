@@ -1,7 +1,7 @@
 ---
 INTERPOL Creates &#8220;Darknet Training Course&#8221;
 ---
-<article class="post-listing post-11167 post type-post status-publish format-standard hentry category-news tag-creates tag-darknet tag-interpol tag-training">
+<article class="post-listing post-11167 post type-post status-publish format-standard hentry category-news tag-creates tag-interpol tag-training">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
 <span>August 2, 2015</span>

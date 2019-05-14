@@ -3,6 +3,7 @@ title: "Live: Searchable Silk Road (1) Forum Backup"
 ---
 
 Posted by: DeepDotWeb
+
 <span>September 4, 2014</span>
 
 <p>For those of you wanting to search trough the old Silk Road forum and can&#8217;t be bothered with going trough thousands of text files from the StExo backup on <a href="http://antilop.cc/sr/">antilop.cc/sr</a>, a searchable backup was introduced by Alfred &#8211; the <a href="/2014/01/15/cross-marketplace-discussion-news-the-hub-forum-is-live/">Hub forum</a> owner,  the backup can be accessed at this url: <strong>http://hubsrf3plqrbuf4i.onion/</strong></p>

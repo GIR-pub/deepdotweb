@@ -1,7 +1,7 @@
 ---
-College Dropouts Caught On Selling Drugs From Darknet In India"
+College Dropouts Caught On Selling Drugs From Darknet In India
 ---
-<article class="post-listing post-11210 post type-post status-publish format-standard hentry category-news tag-caught tag-college tag-darknet tag-dropouts tag-india tag-selling">
+<article class="post-listing post-11210 post type-post status-publish format-standard hentry category-news tag-caught tag-college tag-dropouts tag-india tag-selling">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
 <span>August 7, 2015</span>
@@ -17,5 +17,7 @@ College Dropouts Caught On Selling Drugs From Darknet In India"
 <p>&#8220;All transactions on the website are done through fake profiles, which makes it harder to trace the users,&#8221; said another official in the narcotics wing of Central Crime Branch.</p>
 <p>The drug peddlers stay in judicial custody until they will receive their official sentence from the court.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/college/" rel="tag">college</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dropouts/" rel="tag">dropouts</a>  <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a></span> <span style="display:none" class="updated">2015-08-07<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/college/" rel="tag">college</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dropouts/" rel="tag">dropouts</a>  <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a></span> <span style="display:none" class="updated">2015-08-07<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+</div>
+</article>
 

@@ -1,8 +1,8 @@
 ---
-Important forensic tools used in harvesting the deep web"
+Important forensic tools used in harvesting the deep web
 ---
 <article class="post-listing post-27349 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-deep tag-forensic tag-harvesting tag-important tag-tools tag-web">
+tag-forensic tag-harvesting tag-important tag-tools tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>November 23, 2018</span>
@@ -34,5 +34,7 @@ tag-deep tag-forensic tag-harvesting tag-important tag-tools tag-web">
 <p><strong>Packet Inspection Hardware:</strong></p>
 <p>In the regular operation of Network Interface Cards (NICs), the devices only accept incoming packets that are specifically addressed to its IP address. However, when a NIC is placed in promiscuous mode, it will accept all packets that it sees, regardless of their intended destinations. Packet sniffing hardware generally operates on this principle, with configuration available to capture all packets or only those with specific features, e.g., certain TCP ports, certain source or destination IP addresses, etc. This style of network traffic capture can be used in combination with software sampling optimization techniques in order to reduce the overall size of the data to be investigated.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/forensic/" rel="tag">forensic</a> <a href="https://www.deepdotweb.com/tag/harvesting/" rel="tag">harvesting</a> <a href="https://www.deepdotweb.com/tag/important/" rel="tag">important</a> <a href="https://www.deepdotweb.com/tag/tools/" rel="tag">tools</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-11-23<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/forensic/" rel="tag">forensic</a> <a href="https://www.deepdotweb.com/tag/harvesting/" rel="tag">harvesting</a> <a href="https://www.deepdotweb.com/tag/important/" rel="tag">important</a> <a href="https://www.deepdotweb.com/tag/tools/" rel="tag">tools</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-11-23<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+</div>
+</article>
 

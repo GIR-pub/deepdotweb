@@ -4,6 +4,7 @@ title: "Senator Schumer: Calls for Renewed Crackdown on Dark Net Markets"
 
 
 Posted by: DeepDotWeb
+
 <span>October 28, 2014</span>
 
 <p>As it was published in a <a href="http://www.schumer.senate.gov/record.cfm?id=356497&amp;" target="_blank">press release</a>:</p>

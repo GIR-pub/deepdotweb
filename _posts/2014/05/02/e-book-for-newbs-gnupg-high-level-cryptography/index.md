@@ -3,6 +3,7 @@ title: "E-Book Recommendation: GnuPG &#8211; High Level Cryptography"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 2, 2014</span>
 
 <p>To newbies taking their first steps with encryption, or users looking to expend their knowledge we would like to recommend about a new Ebook &#8211; released just now, about  GnuPG &#8211; that includes full explanations an usage guide for email &amp;  files encryption the book if <strong>FREE</strong> for download or in a &#8220;<strong>Pay as you can model</strong>&#8221; (leave a BTC donation &#8211; you will see us also listed there since we provided some  minor contribution &#8211; any income will be donated to <a href="http://www.erowid.org/donations/">erowid.org</a>)</p>

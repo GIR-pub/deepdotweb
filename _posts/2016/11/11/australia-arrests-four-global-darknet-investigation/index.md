@@ -1,7 +1,7 @@
 ---
 Australia Arrests Four in Global Darknet Investigation"
 ---
-<article class="post-listing post-16387 post type-post status-publish format-standard has-post-thumbnail hentry  tag-australia tag-darknet tag-global tag-investigation">
+<article class="post-listing post-16387 post type-post status-publish format-standard has-post-thumbnail hentry  tag-australia tag-global tag-investigation">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 11, 2016</span>

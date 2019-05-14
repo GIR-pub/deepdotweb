@@ -3,6 +3,7 @@ title: "Darknet Nation: DarkNetMarket Social Network"
 ---
 
 Posted by: DeepDotWeb
+
 <span>February 21, 2014</span>
     
 
@@ -47,7 +48,7 @@ Posted by: DeepDotWeb
     Here’s the thing, most people think Multi Signature Transactions and escrow are the same thing. Let me state here in big bold letters <strong>Multi Signature Transactions is NOT ESCROW!</strong> At no point does anybody have the power to “run off” with the funds. Multi Signature Transaction is more like a lock where a predetermined number of signatures are required to unlock that transaction.</p>
 <p>Using the free open sourced tools we provide to the community a buyer and vendor should be able to successfully complete a transaction without having to use Escrow, a website or trust.</p>
 <p><strong>What do you consider as the most important things that are needed for your common user (that you offer)?</strong></p>
-<p>You only need a small amount of knowledge and information. (<a href="http://www.deepdotweb.com/">DeepDotWeb</a>, Google, Darknet Nation)</p>
+<p>You only need a small amount of knowledge and information. (<a href="">DeepDotWeb</a>, Google, Darknet Nation)</p>
 <p>A way to research potential vendors, sites such as El Presidente’s All Market Vendor Directory along with our site can be used to facilitate a responsible choice</p>
 <p>A way to honestly rate and review Vendors.</p>
 <p>A way to keep in contact and share information. (i.e. Pidgin with otr http://www.pidgin.im/).</p>

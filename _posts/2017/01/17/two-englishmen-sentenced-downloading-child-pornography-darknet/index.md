@@ -1,7 +1,7 @@
 ---
 Two Englishmen Sentenced for Downloading Child Pornography from the Darknet
 ---
-<article class="post-listing post-17556 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-darknet tag-downloading tag-englishmen tag-pornography tag-sentenced">
+<article class="post-listing post-17556 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-downloading tag-englishmen tag-pornography tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 17, 2017</span>
@@ -9,7 +9,7 @@ Two Englishmen Sentenced for Downloading Child Pornography from the Darknet
     <span><a href="https://www.deepdotweb.com/2017/01/17/two-englishmen-sentenced-downloading-child-pornography-darknet/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>On January 5, both Exeter Crown Court and York Crown Court in England saw two separate cases of defendants who used the darknet to access child pornography. In one case, <a href="http://www.exeterexpressandecho.co.uk/exeter-man-found-child-abuse-images-on-the-dark-web/story-30033673-detail/story.html">a 40-year-old from Birchy Barton Hill, Exeter</a>, pleaded guilty to three counts of downloading or viewing child pornography. In the other case, Martin Richard Shepherd, a 45-year-old hospital IT employee, pleaded guilty to making and distributing CP, and unauthorized access to private computer files.</p>
     <p>The first defendant, Gabor Papai, fared better than the second. In the courtroom, he admitted that <a href="https://www.deepdotweb.com/?s=pacifier">he viewed, downloaded and shared CP from 2011-2016</a>. Francesca Whebell, the prosecutor, said police raided Papai&#8217;s house in late 2016 and seized all electronic equipment within it. They, the police, received evidence that “suggested” he accessed CP images and movies. A forensic examination confirmed the suggestion above. Files on the man’s computer showed children between the ages of six and fifteen from all three categories of CP crimes, “including the most severe.”</p>
     <p>“There were also search terms including &#8216;young video models&#8217; and &#8216;little girl with grandpa.&#8217; He had also installed a Tor browser which allows anonymous use of the internet,” she added.</p>
@@ -22,6 +22,8 @@ Two Englishmen Sentenced for Downloading Child Pornography from the Darknet
     <p>“This is the worst case of its type that I have had to deal with in a long time in the law. It represents the actual manifestation of abuse of little children on an extraordinary scale. For some 14 years or more, you were involved in this loathsome activity (and) you were viewing this material for hour upon hour. Some of the children who were depicted were babes-in-arms being abused in the vilest of ways, and some of the children were plainly drugged or had been fed alcohol. The charges that you admit are but a snapshot of what the police were able to view.&#8221;</p>
     <p>Hancock added that Shepherd’s media cache only made up part of the images he accumulated over the years.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/downloading/" rel="tag">downloading</a> <a href="https://www.deepdotweb.com/tag/englishmen/" rel="tag">englishmen</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-01-17</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/downloading/" rel="tag">downloading</a> <a href="https://www.deepdotweb.com/tag/englishmen/" rel="tag">englishmen</a> <a href="https://www.deepdotweb.com/tag/pornography/" rel="tag">pornography</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-01-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

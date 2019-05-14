@@ -3,6 +3,7 @@ title: "New: CrowdFunded BTC Bounties to Hunt Down Hackers and Thieves"
 ---
 
 Posted by: DeepDotWeb
+
 <span>September 17, 2014</span>
 
 <iframe width="660" height="371" src="http://www.youtube.com/embed/nWFemmRkRzw?feature=oembed" frameborder="0" allowfullscreen></iframe> 

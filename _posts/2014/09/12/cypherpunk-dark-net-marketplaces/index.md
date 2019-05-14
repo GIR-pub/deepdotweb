@@ -2,7 +2,7 @@
 title: "Cypherpunk and Dark Net Marketplaces"
 ---
 
-6801  tag-cypherpunk tag-dark tag-marketplaces tag-net
+6801  tag-cypherpunk tag-marketplaces tag-net
 Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
 <span>September 12, 2014</span>
     

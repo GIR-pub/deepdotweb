@@ -3,6 +3,7 @@ title: "Judge Rejects Defense That FBI Illegally Hacked Silk Road"
 ---
 
 Posted by: DeepDotWeb
+
 <span>October 11, 2014</span>
 
 <p>As it was published by <a href="http://www.wired.com/2014/10/silk-road-judge-technicality/" target="_blank">Wired</a>:</p>

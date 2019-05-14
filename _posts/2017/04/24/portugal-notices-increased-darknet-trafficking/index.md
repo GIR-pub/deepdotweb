@@ -1,7 +1,7 @@
 ---
-Portugal Notices Increased Darknet Trafficking"
+Portugal Notices Increased Darknet Trafficking
 ---
-<article class="post-listing post-19368 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-increased tag-notices tag-portugal tag-trafficking">
+<article class="post-listing post-19368 post type-post status-publish format-standard has-post-thumbnail hentry  tag-increased tag-notices tag-portugal tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 24, 2017</span>
@@ -9,7 +9,7 @@ Portugal Notices Increased Darknet Trafficking"
     <span><a href="https://www.deepdotweb.com/2017/04/24/portugal-notices-increased-darknet-trafficking/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>The media payed special attention to cybercrime following several key moments throughout world history. The ongoing struggle between Russia and the United States, for instance, placed a spotlight on “election hackers” and hacking in general. With added attention to internet crime came added attention to the darknet. Although the rise of the original Silk Road attracted attention from the media, the excitement rapidly declined as did the original Silk Road. Now, law enforcement worldwide publicly acknowledged the rapidly growing online trade—<a href="https://sol.sapo.pt/artigo/557497/venda-de-drogas-na-dark-net-aumenta">most recently, the Portuguese Judiciary Police</a>​.</p>
     <p>Pedro Veiga, coordinator of the National Center for Cybersecurity, acknowledged that the darknet came from “good intentions.” He explained​ why US government researchers built Tor: rogue parties often attempted to steal classified information if transmitted over the clearnet. &#8220;A &#8216;normal&#8217; internet web was created to guarantee the privacy of these journalists. It was very difficult to detect the person&#8217;s location or even who he was,&#8221; Veiga Explained.</p>
     <p>“It started and was developed for a good purpose, but later on, criminals began to take advantage of this new medium to anonymously use the internet. This part is called darknet,&#8221; he added.</p>
@@ -19,6 +19,8 @@ Portugal Notices Increased Darknet Trafficking"
     <p>In 2015, 0.31 grams of heroin, 21,033 grams of cocaine, 27,520 grams of cannabis and 495 grams of ecstasy arrived at mailing stations, an official said. This number, he explained, is still quite low in comparison with conventionally trafficked narcotics. However the number is rising and becoming a concern for the Judiciary Police. &#8220;The <a href="https://www.deepdotweb.com/tag/drugs/">drugs can be ordered over the internet</a>, but they have to be delivered physically. The orders made via darknet are sent by parcel post to people&#8217;s houses. This is something the Judiciary Police are aware of,” Artur Vaz said.</p>
     <p>They closed with figures that modeled the origin of drugs from overseas. For instance, Brazil provided the most cocaine and Morocco mailed the most cannabis. Cannabis is also sent from France, Belgium, Austria, Germany and United Kingdom, he explained. Regardless of any darknet trend, he c explained that according to current figures, darknet buyers needed to order significantly more drugs to match the physical traffickers.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a> <a href="https://www.deepdotweb.com/tag/notices/" rel="tag">notices</a> <a href="https://www.deepdotweb.com/tag/portugal/" rel="tag">portugal</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-04-24</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a> <a href="https://www.deepdotweb.com/tag/notices/" rel="tag">notices</a> <a href="https://www.deepdotweb.com/tag/portugal/" rel="tag">portugal</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-04-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

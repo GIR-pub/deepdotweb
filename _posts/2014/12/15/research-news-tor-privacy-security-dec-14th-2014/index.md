@@ -4,6 +4,7 @@ title: "Research &#038; News in Tor, Privacy, &#038; Security – Dec 15th, 2014
 
 
 Posted by: Kiell
+
 <span>December 15, 2014</span>
 
 <p>Tor Browser 4.0.2 has been <a href="https://blog.torproject.org/blog/tor-browser-402-released">released</a>. The new release fixes compiler bugs in Windows, ensures that cache entires are isolated by domain, and prevents user locale settings from being leaked by the Javascript engine.</p>

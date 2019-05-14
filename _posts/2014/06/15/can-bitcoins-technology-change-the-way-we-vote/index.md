@@ -3,6 +3,7 @@ title: "Can Bitcoin&#8217;s Technology Change The Way We Vote?"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 15, 2014</span>
     
 

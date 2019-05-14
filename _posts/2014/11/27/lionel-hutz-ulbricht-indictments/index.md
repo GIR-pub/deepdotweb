@@ -2,7 +2,8 @@
 title: "Allen Hoffman on the Ulbricht Indictment"
 ---
 
-Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+Posted by: Allen Hoffmann, JD
+
 <span>November 27, 2014</span>
 
 <p>There aren&#8217;t many people who sit on top of drug empires who can have the privilege of grating press access to the likes of Forbes while keeping their name and face unknown and have it published, and without question, that&#8217;s why the FBI and HSI went so damn hard after him; word to the wise, kids, don&#8217;t challenge the police, especially via international media, because they will do their level best to meet it, and meet it they indeed did with the seizure of SR and the allegations (as yet undetermined) that Ross William Ulbricht is Dread Pirate Roberts.</p>
@@ -36,7 +37,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Alle
 <p>If you run the world&#8217;s biggest TOR dark market, somewhere which allows you to be anonymous and have multiple identities, why would you expose the fact that you, the owner of that infrastructure, is looking for tangible goods which will require an ultimate delivery address, to other parties? And worse, not just that you need tangible goods but that YOUR GOD DAMN FACE WILL BE ON ALL OF THEM?</p>
 <p>Its a dangerous game and a very slippery downhill slope if LE starts making evidence fit via shoehorn. Its not for me to say whether or not Ross Ulbricht is DPR, but the use of such elaborate tactics, measures and means, which one would usually expect to see employed in a counter terrorism capacity, to catch a guy running eBay for drugs, is cause to stop and think. What doesn&#8217;t add up is incidental in the bigger picture, but deeply troubling for those with an eye for detail. Who will the puppetmasters behind &#8216;redandwhite&#8217;, &#8216;friendlychemist&#8217; and who knows how many other LE persona&#8217;s draw into committing a non existent crime to bolster some other case next?<br/>
 <iframe width="100%" height="600" id="doc_37351" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/204625077/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-jaxl7pgwo11uwkyvyzh&amp;show_recommendations=true" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="0.7729220222793488"></iframe></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/hutz/" rel="tag">hutz</a> <a href="https://www.deepdotweb.com/tag/indictments/" rel="tag">indictments</a> <a href="https://www.deepdotweb.com/tag/lionel/" rel="tag">lionel</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> 
-Updated: 2014-11-27<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
-    
+
+Updated: 2014-11-27

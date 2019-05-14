@@ -1,7 +1,7 @@
 ---
 Identification of darknet hacker communities (forums, IRCs, carding shops, and darknet marketplaces)
 ---
-<article class="post-listing post-28117 post type-post status-publish format-standard has-post-thumbnail hentry  tag-approaches tag-current tag-cyber tag-dark tag-intelligence tag-overseeing tag-research tag-threat tag-web">
+<article class="post-listing post-28117 post type-post status-publish format-standard has-post-thumbnail hentry  tag-approaches tag-current tag-cyber tag-dark tag-overseeing tag-research tag-threat tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 17, 2019</span>

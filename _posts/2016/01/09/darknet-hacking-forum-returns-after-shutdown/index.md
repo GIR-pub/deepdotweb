@@ -1,7 +1,7 @@
 ---
 Darknet Hacking Forum &#8220;Hell&#8221; Returns After Shutdown"
 ---
-<article class="post-listing post-12869 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-forum tag-hacking tag-returns tag-shutdown">
+<article class="post-listing post-12869 post type-post status-publish format-standard has-post-thumbnail hentry  tag-forum tag-hacking tag-returns tag-shutdown">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 9, 2016</span>

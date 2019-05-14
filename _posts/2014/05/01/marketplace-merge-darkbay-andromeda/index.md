@@ -3,12 +3,13 @@ title: "Marketplace Merge: DarkBay &#038; Andromeda"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 1, 2014</span>
 
-<p>Well this something we never had so far, <a href="http://www.deepdotweb.com/marketplace-directory/listing/ultravioletcity">Darkbay</a> (formerly known as UltraVioletCity) is one of the markets that existed for the last few months, surviving the frequent changes of the DNM scene, and Andromeda is a new market existing only a few weeks (Was called Silk Road 3 than changed its name to Andromeda) today the DarkBay market admins placed a notice on the sites homepage letting everyone know that:</p>
+<p>Well this something we never had so far, <a href="marketplace-directory/listing/ultravioletcity">Darkbay</a> (formerly known as UltraVioletCity) is one of the markets that existed for the last few months, surviving the frequent changes of the DNM scene, and Andromeda is a new market existing only a few weeks (Was called Silk Road 3 than changed its name to Andromeda) today the DarkBay market admins placed a notice on the sites homepage letting everyone know that:</p>
 <p>1. The market will cease its operation</p>
 <p>2. It will let everyone withdraw their BTC before shutting down (<a href="/2013/12/01/bmr-is-shutting-down/">BMR Style</a>)</p>
-<p>3. Announced that one of the new marketplaces &#8211; <a href="http://www.deepdotweb.com/marketplace-directory/listing/andromeda-market">Andromeda</a> &#8211; Was created by Darkbay team members.</p>
+<p>3. Announced that one of the new marketplaces &#8211; <a href="marketplace-directory/listing/andromeda-market">Andromeda</a> &#8211; Was created by Darkbay team members.</p>
 <p>4. Said that Darkbay will be completely migrated into Andromeda &#8211;  accounts, feedback&#8217;s, products etc&#8230;</p>
 <p>5. Encouraged the users to move their business to Andromeda (<strong><span style="color: #ff0000;">Remember to be extra careful when/if  migrating to a new market &#8211; always prefer Multisig marketplaces!</span></strong>)</p>
 <p>6. Announced that he will no longer be admin of either one of those two markets.</p>

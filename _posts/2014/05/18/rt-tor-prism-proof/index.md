@@ -3,6 +3,7 @@ title: "RT: TOR is NOT PRISM Proof"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 18, 2014</span>
 
 <p>An interesting article that was published on <a href="http://rt.com/news/159396-nsa-tor-ineffective-microsoft/">RT</a> quoted Andy Malone, of Microsoft Enterprise Security and founder of the Cyber Crime Security Forum, who said at the Microsoft TechEd North America 2014:</p>

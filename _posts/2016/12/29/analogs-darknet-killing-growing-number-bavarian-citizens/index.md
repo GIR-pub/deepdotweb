@@ -1,7 +1,7 @@
 ---
 Analogs from the Darknet are Killing a Growing Number of Bavarian Citizens"
 ---
-<article class="post-listing post-17214 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analogs tag-bavarian tag-citizens tag-darknet tag-growing tag-killing tag-number">
+<article class="post-listing post-17214 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analogs tag-bavarian tag-citizens tag-growing tag-killing tag-number">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 29, 2016</span>

@@ -1,7 +1,7 @@
 ---
 Chief of Police Calls Darknet Drug Bust One of the Largest Ever in Sweden"
 ---
-<article class="post-listing post-16809 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-calls tag-chief tag-darknet tag-largest tag-police tag-sweden">
+<article class="post-listing post-16809 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-calls tag-chief tag-largest tag-police tag-sweden">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 8, 2016</span>

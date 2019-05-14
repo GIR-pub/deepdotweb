@@ -3,15 +3,16 @@ title: "Silk Road Vendor Caligirl Pleaded Guilty"
 ---
 
 Posted by: DeepDotWeb
+
 <span>September 9, 2014</span>
 
 <p>Matthew Jones, a/k/a “Caligirl,” “Dynamite2k,” “Dynamite<code>,” “Tyler Zeddai,” Who was arrested and charged with the illegal distribution of controlled substances, If convicted, he faces a maximum penalty of 20 years in federal prison.  Jones was arrested last night in Fort Lauderdale.  Previous coverage:</p>
 <ul>
 <li>
-<p class="post-box-title"><a title="Permalink to Vendor “Caligirl” Busted: Charged With Selling Drugs On Silk Road &amp; Bitmessage" href="http://www.deepdotweb.com/2014/05/31/vendor-caligirl-busted-charged-illegally-selling-controlled-substances-silk-road-bitmessage/" rel="bookmark">Vendor “Caligirl” Busted: Charged With Selling Drugs On Silk Road &amp; Bitmessage</a></p>
+<p class="post-box-title"><a title="Permalink to Vendor “Caligirl” Busted: Charged With Selling Drugs On Silk Road &amp; Bitmessage" href="2014/05/31/vendor-caligirl-busted-charged-illegally-selling-controlled-substances-silk-road-bitmessage/" rel="bookmark">Vendor “Caligirl” Busted: Charged With Selling Drugs On Silk Road &amp; Bitmessage</a></p>
 </li>
 <li>
-<p class="post-box-title"><a title="Permalink to Vendor CALIGIRL Criminal Complaint Excerpts" href="http://www.deepdotweb.com/2014/07/29/vendor-caligirl-criminal-complaint-excerpts/" rel="bookmark">Vendor CALIGIRL Criminal Complaint Excerpts</a></p>
+<p class="post-box-title"><a title="Permalink to Vendor CALIGIRL Criminal Complaint Excerpts" href="2014/07/29/vendor-caligirl-criminal-complaint-excerpts/" rel="bookmark">Vendor CALIGIRL Criminal Complaint Excerpts</a></p>
 </li>
 </ul>
 <p align="left">Jones pleaded guilty to the charges at 08-26-2014 according to the protocol that was published on <a href="http://www.morelaw.com/verdicts/case.asp?n=&amp;s=FL&amp;d=71570">Morelaw</a>:</p>

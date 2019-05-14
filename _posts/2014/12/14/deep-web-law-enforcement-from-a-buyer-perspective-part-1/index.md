@@ -3,11 +3,11 @@ title: "Deep Web &#038; Law Enforcement: From a Buyer Perspective, Part 1"
 ---
 
 
-Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+Posted by: Allen Hoffmann, JD
+
 <span>December 14, 2014</span>
     
 
-<p>Both Parts are available at this tag <a href="http://www.deepdotweb.com/tag/BuyerPerspective/">#BuyerPerspective</a> (once published)</p>
 <p>This is the first in a series of articles on the advantages to purchasing on the dark web, and suggestions, case studies and examples of ways in which individuals can and have get themselves caught, or, on the other side of the coin, minimize intelligence development against themselves, head off the commencement of an investigation, deal with law enforcement should they show up, and ultimately, if all else fails, minimize the chances of taking the rap.</p>
 <p><strong>Why buy on the dark web?</strong></p>
 <p>There are a great many reasons to go shopping on the deep web; maybe you can&#8217;t, for whatever reason, buy what you want in your country or get it at a reasonable price. Be it quality MDMA, a passport in somebody else&#8217;s name, or a pistol, if you lack access to the buying infrastructure or criminal contacts requisite to acquiring these items in your day to day life (and unless you&#8217;re a full time or part time criminal, no matter how tough you think you are, you probably do), you can often find someone to sell it, either because they can buy the goods freely in their country, or because they are possessed of that network.</p>
@@ -28,7 +28,7 @@ Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Alle
 <p><strong>Case study &#8211; Gun buyer in Australia.</strong></p>
 <p>In 2013, an Australian dark net buyer&#8217;s cheap pistol, hidden inside a broken game console coming from the U.S. caught local and foreign investigators&#8217; interests. The Australians were severely embarrassed by a huge number of Glocks making their way into the country from Europe in recent years without Customs ever looking at any of the packages, and have a zero tolerance attitude to firearms considering the country&#8217;s restrictive legislative regime. In the US, this gun came from a second hand purchase that wouldn&#8217;t have been more than a couple of hundred USD; no major criminal organization here, but the investigation which followed was worthy of one. Detected by their Customs agency, the find was referred to the Australian Federal Police (the equivalent of the FBI) who spoke to the US&#8217;s BATFE, who set in train an investigation which eventually exposed the seller as a bumbling amateur from Kentucky paying his girlfriend&#8217;s college tuition, whose Bitcoin related postings on a major financial media website in his own name did not help his initial protestations of innocence.</p>
 <p>He wasn&#8217;t just selling to this buyer; another Australian buyer and a couple of buyers in Europe were also prosecuted thanks to BATFE&#8217;s investigative efforts. The vendor caught a federal prison sentence in August, 2014. The first buyer, apparently a normal guy who wanted to buy a gun the authorities would not know about (who had about as much forensic awareness as our friend Paul), in a country where street prices on modern semi-automatic pistols start at 3,500 USD if you listen to the media, co-operated with the state police, who raided him in conjunction with the Customs agency, completely and utterly unprepared for a raid, named the seller and the marketplace, then continued to correspond with the seller to bait him further, and quietly pleaded guilty to a federal charge and a state charge. He avoided jail time, but still took the rap.</p>
-<p><a href="http://www.deepdotweb.com/tag/BuyerPerspective/"><em>Next time – want to avoid taking the rap? Be like Matt.</em></a></p>
+<p><a href="tag/BuyerPerspective/"><em>Next time – want to avoid taking the rap? Be like Matt.</em></a></p>
 
 
 Updated: 2014-12-14

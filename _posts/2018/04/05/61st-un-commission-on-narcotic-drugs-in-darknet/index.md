@@ -2,7 +2,7 @@
 61st UN Commission on Narcotic Drugs in Darknet
 ---
 <article class="post-listing post-25274 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-61st tag-commission tag-darknet tag-narcotic">
+ tag-61st tag-commission tag-narcotic">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/isaacddanso/" title="">Isaac Danso </a></span>
 <span>April 5, 2018</span>
@@ -22,5 +22,7 @@
 <p>Liamonas Vasiliauskas from the Operations Directorate stated, as affirmed by Europol, many dealers offer a variety of drugs. Explicitly, the monthly income of 8 major criminal groups on darknet was between 10 &#8211; 12 million Euro. What Europol don&#8217;t know are the drug sources, chemicals and equipment, money streams, and so on. Nonetheless, because of the darknet, normal post package services developed significantly in recent years. However, Europol composed a model of building up an investigating team for the EU nations due to the fact that, almost all of them don&#8217;t have a particular darknet investigation team. FBI, DEA and Dutch Police closed down two networks thus, operations Bayonet (Silk Road) and GraveSac (Hansa). Europol, in any case, doesn’t have data if this seizure of networks has caused the decline of activity on the darknet.</p>
 <p>Lastly, Peter Mihoc from the European Commission included that one of the primary issues is the knowledge gap and another being the lack of equipment needed for operations of law enforcement agencies.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/61st/" rel="tag">61st</a> <a href="https://www.deepdotweb.com/tag/commission/" rel="tag">commission</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/narcotic/" rel="tag">narcotic</a></span> <span style="display:none" class="updated">2018-04-05<a href="https://www.deepdotweb.com/author/isaacddanso/" title="Posts by Isaac Danso" rel="author">Isaac Danso</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/61st/" rel="tag">61st</a> <a href="https://www.deepdotweb.com/tag/commission/" rel="tag">commission</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/narcotic/" rel="tag">narcotic</a></span> <span style="display:none" class="updated">2018-04-05<a href="https://www.deepdotweb.com/author/isaacddanso/" title="Posts by Isaac Danso" rel="author">Isaac Danso</a></strong></div>
+</div>
+</article>
 

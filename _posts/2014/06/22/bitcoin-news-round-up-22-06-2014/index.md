@@ -3,6 +3,7 @@ title: "Bitcoin News Round-Up 22.06.2014"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 22, 2014</span>
 
 <p>Bitcoin saw gains this week on a number of good-news items, pushing it from the week’s low of $553.28 on June 15, to $591.29 at the time of writing. The coin’s price was spurred upwards by positive government policy news from both Japan and Switzerland, as well as industry news in support of the cryptocurrency.</p>

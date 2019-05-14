@@ -2,12 +2,10 @@
 title: "Bitcoin News Roundup – 21 Dec. 2014"
 ---
 
-8686 tag-1779 tag-dec tag-roundup
 Posted by: DeepDotWeb
+
 <span>December 21, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/12/21/bitcoin-news-roundup-21-dec-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Former Bitcoin Foundation vice chairman Charlie Shrem will be spending the next two years in prison. As Nate Raymond of <a href="http://www.reuters.com/article/2014/12/19/us-usa-crime-bitcoin-idUSKBN0JX2CW20141219">Reuters</a> reports, Shrem plead guilty in September to “aiding and abetting an unlicensed money transmitting business.” He was also asked to give up $950,000 for his crimes Previously, Shrem had faced up to five years in prison for his role in Silk Road, but his lawyer argued for probation on the basis that “the case had already sent a message to the bitcoin community.”</p>
 <p>Due to weak oil prices and economic sanctions, the Russian economy is in a state of disarray. The country&#8217;s citizens appear to be moving into bitcoin as the ruble tanks. According to Matt Clinch of <a href="http://www.cnbc.com/id/102275772">CNBC</a> writes, bitcoin and the ruble simultaneously saw its transaction volume spike on Tuesday as the Russian fiat currency continued to fall. The euro, the yen, and the pound sterling also benefited from “this flight from Russia.” According to Bobby Lee, the CEO of BTC China, the cryptocurrency is “a natural destination” for those who are seeking to exchange their ruble holdings.</p>
@@ -20,6 +18,6 @@ Posted by: DeepDotWeb
 <p>Magazine publisher Time Inc. will now be accepting payments for certain magazine subscriptions. Sydney Ember of <a href="http://dealbook.nytimes.com/2014/12/16/time-inc-begins-accepting-bitcoin-payments/">The New York Times</a> discusses this partnership between Time Inc. and Coinbase, who will process the subscription payments. From now on, Time Inc. consumers can purchase subscriptions of magazines like Fortune, This Old House, Health, and Health and Leisure. However, customers are not currently able to make subscription payments for People, Food and Wine, and Sports Illustrated. Coinbase CEO Brian Armstrong believes that Time Inc.&#8217;s decision to accept bitcoin payments “sends an important message to both its readers and to the broader media community.”</p>
 <p>Bitcoin holders who wish to purchase goods and services can now do so on BTXDeals.com. Natasha Lomas of <a href="http://techcrunch.com/2014/12/18/btxdeals/">TechCrunch</a> discusses the U.K.-based e-commerce site, where users can make payments for computer displays, software, and travel services. The prices are updated every ten minutes and are based on the Bitcoin-GBP Sterling exchange rate and vendors do not have to pay to list their goods on the site.</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+ <a href="https://www.deepdotweb.com/tag/2014/" rel="tag">2014</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
 Updated: 2014-12-21
     

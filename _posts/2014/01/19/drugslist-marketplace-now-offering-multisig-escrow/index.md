@@ -3,6 +3,7 @@ title: "Drugslist Marketplace: Now Offering Multisig Escrow"
 ---
 
 Posted by: DeepDotWeb
+
 <span>January 19, 2014</span>
 
 <p>One of the newest marketplaces &#8211; called Drugslist &#8211; seems to be headed in the right direction, released yesterday a list of improvements to the website, and started offering a multisig escrow, we decided to publish that since we fully support marketplaces offering Multisig / P2P escrow rather than regular onsite escrow and by that &#8211; lowering the chances of marketplace owners scams and also protecting the vendors &amp; buyers fund by enabling to finalize any transactions even if the marketplace itself goes down. At these times we believe that the only markets that should be used are those markets that are offering those kinds of escrows (including off sites escrows).</p>

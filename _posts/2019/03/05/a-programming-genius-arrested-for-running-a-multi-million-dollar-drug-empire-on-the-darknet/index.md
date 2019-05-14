@@ -1,7 +1,7 @@
 ---
 A Programming Genius Arrested for Running a Multi-Million Dollar Drug Empire on the Darknet
 ---
-<article class="post-listing post-28522 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-dollar tag-empire tag-genius tag-multimillion tag-programming tag-running">
+<article class="post-listing post-28522 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dollar tag-empire tag-genius tag-multimillion tag-programming tag-running">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>March 5, 2019</span>

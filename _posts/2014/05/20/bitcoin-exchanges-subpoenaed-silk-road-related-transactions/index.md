@@ -3,6 +3,7 @@ title: "Bitcoin Exchanges Subpoenaed Over Silk Road Related Transactions"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 20, 2014</span>
 
 <p><strong>As it was published in this <a href="http://online.wsj.com/news/articles/SB10001424052702304422704579570132275301414?mg=reno64-wsj&amp;url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304422704579570132275301414.html">WSJ article</a>:</strong></p>

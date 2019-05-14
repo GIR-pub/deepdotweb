@@ -4,9 +4,10 @@ title: "Silk Road 2 Seized! (Multiple Markets Seized)"
 
 
 Posted by: DeepDotWeb
+
 <span>November 6, 2014</span>
 
-<p><strong>This post is being updated constantly as this case unfolds – check back for updates. All new posts will be in this : <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 bust Tag</a><br />
+<p><strong>This post is being updated constantly as this case unfolds – check back for updates. All new posts will be in this : <a href="tag/silkroad2bust/">Silk Road 2 bust Tag</a><br />
 </strong></p>
 <p><strong>Update 3</strong>: <a href="/2014/11/06/cannbis-road-forums-seized/" target="_blank">Cannabis Road forums seized</a></p>
 <p><strong>Update 2</strong>: <a href="/2014/11/06/multiple-market-takedown-hydra-marketplace-seized/">Multiple Market Takedown: Hydra &amp; Cloud 9 Marketplace Seized</a></p>
@@ -19,7 +20,7 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/11/seized2.png"><img class="aligncenter  wp-image-7975" src="/imgs/2014/11/seized2.png" alt="Silk Road 2 Seized" width="1026" height="699" srcset="/imgs/2014/11/seized2.png 1304w, /imgs/2014/11/seized2-300x204.png 300w, /imgs/2014/11/seized2-1024x697.png 1024w" sizes="(max-width: 1026px) 100vw, 1026px" /></a></p>
 <p>This dark net site closure comes just a few minutes after we reported on drug related busts in Ireland, as well as a statement released by Gardaí mentioning that the Ireland bust was part of an ongoing operation called “<a href="/2014/11/06/major-darknet-related-bust-ireland/">Onymous</a>,” which involved the United States Federal Bureau of Investigation and Europol. Operation Onymous should conclude within the next 24 hours and is expected to take down several dark net markets and forums.</p>
 <blockquote><p>An international day of action to disrupt global activity on the Darknet and remove certain websites and forums is to conclude within the next 24 hours under the FBI/Europol operation codenamed “Onymous”.</p></blockquote>
-<p>Stay tuned to DeepDotWeb as we cover further developments regarding <a href="http://www.deepdotweb.com/tag/operation-onymous/">Operation Onymous</a>. We will be following the operation and providing updates constantly. Currently, there are a few dark net markets down (check out our sidebar); we are trying to figure out if their closures came as a result of Operation Onymous. By checking the Dnstats report, they seem to have been shut down around the same time as Silk Road 2:</p>
+<p>Stay tuned to DeepDotWeb as we cover further developments regarding <a href="tag/operation-onymous/">Operation Onymous</a>. We will be following the operation and providing updates constantly. Currently, there are a few dark net markets down (check out our sidebar); we are trying to figure out if their closures came as a result of Operation Onymous. By checking the Dnstats report, they seem to have been shut down around the same time as Silk Road 2:</p>
 <ul>
 <li><span style="color: #ff0000;">Hydra 14:52 – Confirmed Seized</span></li>
 <li><span style="color: #ff0000;">Cloud 9 15:07 – Confirmed Seized</span></li>
@@ -32,7 +33,7 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2014/11/down.png"><img class="aligncenter size-full wp-image-7977" src="/imgs/2014/11/down.png" alt="down" width="330" height="447" srcset="/imgs/2014/11/down.png 330w, /imgs/2014/11/down-221x300.png 221w" sizes="(max-width: 330px) 100vw, 330px" /></a></p>
 <p>Silk Road 2 Forums seized notice:</p>
 <p><a href="/imgs/2014/11/seized-forums.png"><img class="aligncenter  wp-image-7981" src="/imgs/2014/11/seized-forums.png" alt="seized-forums" width="803" height="560" srcset="/imgs/2014/11/seized-forums.png 1251w, /imgs/2014/11/seized-forums-300x209.png 300w, /imgs/2014/11/seized-forums-1024x714.png 1024w" sizes="(max-width: 803px) 100vw, 803px" /></a></p>
-<p><strong>Keep checking the other posts in this chain of event at: <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 Bust Tag</a>—they are being updated constantly.</strong></p>
+<p><strong>Keep checking the other posts in this chain of event at: <a href="tag/silkroad2bust/">Silk Road 2 Bust Tag</a>—they are being updated constantly.</strong></p>
 <p>&nbsp;</p>
 
 Updated: 2014-11-06

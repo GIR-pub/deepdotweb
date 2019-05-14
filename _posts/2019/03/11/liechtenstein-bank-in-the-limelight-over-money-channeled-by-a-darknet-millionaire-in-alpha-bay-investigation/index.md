@@ -1,7 +1,7 @@
 ---
 Liechtenstein Bank in the Limelight over Money Channeled by a Darknet Millionaire in Alpha-Bay Investigation"
 ---
-<article class="post-listing post-28589 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-bank tag-channeled tag-darknet tag-investigation tag-liechtenstein tag-limelight tag-millionaire tag-money">
+<article class="post-listing post-28589 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-bank tag-channeled tag-investigation tag-liechtenstein tag-limelight tag-millionaire tag-money">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
     <span>March 11, 2019</span>

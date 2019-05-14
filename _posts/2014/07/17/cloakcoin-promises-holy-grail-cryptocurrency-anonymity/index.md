@@ -3,6 +3,7 @@ title: "Cloakcoin Promises the Holy Grail of Cryptocurrency: Trustless Anonymity
 ---
 
 Posted by: DeepDotWeb
+
 <span>July 17, 2014</span>
 
 <p>Cryptocurrency enables users to wrest control of their money away from banks and governments, but without privacy features governments will often use their power to punish people who use currencies they do not approve of. Unfortunately, the crypto-community has thus far been unable to produce a viable system to give users complete privacy—until now. Cloakcoin, a new currency, has burst onto the scene with a promise to achieve the Holy Grail of cryptocurrency: complete trustless anonymity. To avoid the mishaps of its predecessors, Cloakcoin will implement a comprehensive privacy system consisting of anonymous transactions, stealth addresses, a secure multi-currency wallet with a built-in currency exchange, and a decentralized marketplace.</p>

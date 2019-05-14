@@ -4,6 +4,7 @@ title: "Opportunities Abroad For Deep Web Entrepreneurs Part 1"
 
 
 Posted by: DeepDotWeb
+
 <span>December 4, 2014</span>
 
 <p>The majority of the users are from and live in the west. For business and cultural reasons this makes a lot of sense. Living in the west allows you to ship to people in your particular western country, which is important as it is mostly people from the west that can afford the higher price charged for drugs on the deep web. Shipping from a foreign country will the require the drugs through second screening process, customs which is not ideal. People in the west also, tend be more familiar with and have more access to technology.</p>

@@ -2,7 +2,7 @@
 Berlin Customs Allegedly Identified Nearly 1,500 Darknet Drug Buyers"
 ---
 <article class="post-listing post-25594 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-6388 tag-allegedly tag-berlin tag-buyers tag-customs tag-darknet tag-identified">
+ tag-6388 tag-allegedly tag-berlin tag-buyers tag-customs tag-identified">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>May 4, 2018</span>

@@ -3,6 +3,7 @@ title: "Retweets For Cash: ~165,000$ Will Be Donated To Ross Ulbricht&#8217;s Le
 ---
 
 Posted by: DeepDotWeb
+
 <span>July 7, 2014</span>
 
 <p>A few days ago Roger Ver – Bitcoin Angel Investor &amp; Bitcoin Evangelist started a twitter campaign by publishing a tweet that supported Ross Ulbricht, the accused Dread Pirate Roberts and the administrator of the now seized, Silk Road marketplace (the original version) Ver offered to donate 10$ for every retweet that he got.</p>

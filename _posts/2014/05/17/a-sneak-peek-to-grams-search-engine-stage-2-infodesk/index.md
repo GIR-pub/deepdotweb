@@ -3,6 +3,7 @@ title: "A Sneak Peek To Grams Search Engine &#8220;Stage 2: Infodesk&#8221;"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 17, 2014</span>
 
 <p>Here is a sneak peak to the development process of &#8220;InfoDesk&#8221; &#8211; 1 out of the 4 new features <a href="/2014/04/08/grams-darknetmarkets-search-engine/">grams search engine</a> will be adding in about 2 weeks in a huge update that will be called &#8220;Stage 2&#8221;.  The infoDesk will include a vendor directory and many types of information about them from the various marketplaces, info that will make the task of finding vendors even easier that it is now, as the grams admin told us:</p>

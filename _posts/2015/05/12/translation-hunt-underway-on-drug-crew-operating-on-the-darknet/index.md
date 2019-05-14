@@ -1,7 +1,7 @@
 ---
 Translation: &#8220;Hunt Underway on Drug Crew operating on the Darknet&#8221;
 ---
-<article class="post-listing post-10271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crew tag-darknet tag-hunt tag-operating tag-translation tag-underway">
+<article class="post-listing post-10271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crew tag-hunt tag-operating tag-translation tag-underway">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>May 12, 2015</span>

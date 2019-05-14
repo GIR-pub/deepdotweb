@@ -4,6 +4,7 @@ title: "New Tor Security Advisory: &#8220;Relay Early&#8221; Traffic Confirmatio
 
 
 Posted by: DeepDotWeb
+
 <span>July 30, 2014</span>
 
 <p>This advisory was posted on the <a href="https://lists.torproject.org/pipermail/tor-announce/2014-July/000094.html">tor-announce</a> mailing list and published on the <a href="https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack">Torproject blog</a>, This is the summary:</p>

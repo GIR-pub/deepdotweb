@@ -2,12 +2,11 @@
 title: "Weekly Bitcoin Update – 5 October 2014"
 ---
 
-7302  tag-1779  
+
 Posted by: DeepDotWeb
+
 <span>October 5, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/10/05/weekly-bitcoin-update-5-october-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web </em></p>
 <p>A Bitcoin documentary has opened that explores both the potential of the cryptocurrency and its dark side. Ben Kenigsberg of <a href="http://www.nytimes.com/2014/10/03/movies/the-rise-and-rise-of-bitcoin-from-nicholas-mross.html">The New York Times</a> details “The Rise and Rise of Bitcoin,” a film from Nicholas Mross. The one hour, thirty-six minute picture features interviews with Mr. Bitcoin, a drug-dealer, and Jennifer Shasky Calvery, the director of the Treasury Department&#8217;s Financial Crimes Enforcement Network.</p>
 <p>Is Bitcoin better than currency? That&#8217;s the opinion of Microsoft co-founder Bill Gates. As Kim Lachance Shandrow of <a href="http://www.entrepreneur.com/article/238103">Entrepreneur.com</a> details, Gates holds the cryptocurrency as being a more-effective low-cost payments solution that traditional currencies. Not only can Bitcoins be exchanged online, but they also carry the potential to be almost free to use. Gates, however, did not posit the anonymity of Bitcoin usage as a positive.</p>
@@ -21,6 +20,6 @@ Posted by: DeepDotWeb
 <p>The Georgia Institute of Technology has accepted Bitcoin as a payment option for stadium concession sales and campus cards. According to Katherine Fletcher of <a href="https://coinreport.net/georgia-tech-adds-bitcoin-payment-option-stadium-concession-sales-campus-cards/">CoinReport</a>, the payments, facilitated through BitPay, will enable Georgia Tech “students to pay for on-campus food, good, and services” through their campus card. Additionally, Georgia Tech fans who attend the football team&#8217;s games will be able to pay for concession items at the event. The higher education institution is known for its liberal attitude towards new technologies, as exemplified through its adoption of Bitcoin and support of the Massive Open Online Course movement.</p>
 <p>Students at the University of British Columbia have formed a Bitcoin club. As Stephen Hui of <a href="http://www.straight.com/life/742421/university-british-columbia-students-form-bitcoin-club">Straight.com</a> reports, the club hopes to educate students about Bitcoin and its usage. Additionally, the founder and president of the club, Willson Cross, hopes that the university will accept payments for tuition and bookstore sales in Bitcoin.</p>
 <p>Flinders Unviersity Australia has announced that it will begin to accept Bitcoin payments. As Eric Calouro of <a href="http://newsbtc.com/2014/10/03/flinders-university-accepting-bitcoin-entrepreneurial-program/">NewsBTC</a> notes, however, the cryptocurrency will only be accepted for &#8216;Venture Dorm&#8217;, an entrepreneurial education program that will last twelve weeks. That being said, Vice Chancellor Michael Barber stated that the university will not be accepting the currency for tuition payments and other expenses in addition to this recent effort.</p>
-<a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a> <a href="https://www.deepdotweb.com/tag/weekly/" rel="tag">weekly</a></span> 
+
 Updated: 2014-10-05
     

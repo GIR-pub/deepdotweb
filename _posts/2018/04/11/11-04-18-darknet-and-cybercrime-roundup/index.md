@@ -1,8 +1,8 @@
 ---
-11.04.18 Darknet and Cybercrime Roundup"
+11.04.18 Darknet and Cybercrime Roundup
 ---
 <article class="post-listing post-25332 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-6402 tag-cybercrime tag-darknet tag-roundup">
+ tag-6402 tag-cybercrime tag-roundup">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 11, 2018</span>
@@ -33,5 +33,8 @@
 <p><a href="https://www.deepdotweb.com/2018/04/06/darknet-bust-leads-to-portugals-first-bitcoin-seizure/">The couple had shipped LSD</a> and other drugs disguised in packages of coffee and tea that seemed legitimate. They had even used the return address of a store that specialized in coffee and tea. Unfortunately for the couple, they frequently shipped packages that lacked the proper postage. Even though the packages contained products the store likely found familiar, employees doubted their company had also shipped drugs hidden inside those packages.</p>
 <p>Police conducted an investigation that targeted individuals in close proximity to the store and eventually found a duo who had recently moved to Portugal without employment. Investigators collected evidence that led to a search of their home and the drug lab that found inside the home. The husband confessed in court. The wife did not. Both were found guilty and sentenced to prison.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/110418/" rel="tag">110418</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2018-04-11<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/110418/" rel="tag">110418</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2018-04-11</span>
+<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

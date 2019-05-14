@@ -1,7 +1,7 @@
 ---
 Romanian Police Officer Accused of Darknet Drug Trafficking"
 ---
-<article class="post-listing post-28413 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accused tag-darknet tag-officer tag-police tag-romanian tag-trafficking">
+<article class="post-listing post-28413 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accused tag-officer tag-police tag-romanian tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/cashcard/" title="">CashCard </a></span>
     <span>February 21, 2019</span>

@@ -3,6 +3,7 @@ title: "Silk Road Vendor &#8220;XTC Express&#8221; Sentenced to 4 &#038; 5 Years
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 8, 2014</span>
 
 <p>Dutch Court just sentenced two men from <span id="Dst[0][40:48:68:77]">Arnhem</span> <span id="Dst[0][50:56:79:83]"></span> to prison terms of 4 and 5 years for selling drugs online (on silk road 1) under the vendor name <strong><span id="Dst[0][161:163:164:166]">XTC</span> <span id="Dst[0][165:171:168:174]">Express,</span></strong><span id="Dst[0][165:171:168:174]"> </span>a lower sentence than the one requested by the prosecution &#8211; of 6 years.</p>

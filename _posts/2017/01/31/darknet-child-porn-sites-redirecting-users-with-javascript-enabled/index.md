@@ -1,7 +1,7 @@
 ---
-Darknet Child Porn Sites Redirecting Users with JavaScript Enabled"
+Darknet Child Porn Sites Redirecting Users with JavaScript Enabled
 ---
-<article class="post-listing post-17868 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-darknet tag-enabled tag-javascript tag-porn tag-redirecting tag-sites tag-users">
+<article class="post-listing post-17868 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-enabled tag-javascript tag-porn tag-redirecting tag-sites tag-users">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 31, 2017</span>
@@ -21,6 +21,8 @@ Darknet Child Porn Sites Redirecting Users with JavaScript Enabled"
     <p>No longer is the above child pornography site following the route of many hidden services by simply disallowing JavaScript; the site now <a href="https://tails.boum.org/doc/anonymous_internet/Tor_Browser/index.en.html">redirects users to a page</a> on the Tails website on securely using Tor.</p>
     <p><img class="wp-image-17873 aligncenter" src="/imgs/2017/01/word-image-33.jpeg" srcset="/imgs/2017/01/word-image-33.jpeg 659w, /imgs/2017/01/word-image-33-300x196.jpeg 300w" sizes="(max-width: 659px) 100vw, 659px"/></p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/enabled/" rel="tag">enabled</a> <a href="https://www.deepdotweb.com/tag/javascript/" rel="tag">javascript</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/redirecting/" rel="tag">redirecting</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2017-01-31</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/enabled/" rel="tag">enabled</a> <a href="https://www.deepdotweb.com/tag/javascript/" rel="tag">javascript</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/redirecting/" rel="tag">redirecting</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a></span> <span style="display:none" class="updated">2017-01-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

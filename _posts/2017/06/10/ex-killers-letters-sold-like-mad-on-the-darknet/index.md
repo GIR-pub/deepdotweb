@@ -1,7 +1,7 @@
 ---
 Ex-Killer&#8217;s Letters &#8220;Sold Like Mad&#8221; on the Darknet
 ---
-<article class="post-listing post-20511 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-exkillers tag-letters tag-mad ">
+<article class="post-listing post-20511 post type-post status-publish format-standard has-post-thumbnail hentry  tag-exkillers tag-letters tag-mad ">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>June 10, 2017</span>
@@ -23,6 +23,8 @@ Ex-Killer&#8217;s Letters &#8220;Sold Like Mad&#8221; on the Darknet
     <p>An explicit example is the May 2001 eBay ban on murderabilia, effectively “<a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">forcing the industry underground</a>.” Save for a handful of sellers and they already sold out of Brady material, the Telegraph explained.</p>
     <p>Three anonymous source closed with a mention that &#8220;Ian&#8217;s fourth victim Keith Bennett has never been found, and collectors know a letter stating where his body is would be worth a fortune.” He continued, “[t]he hunt is well and truly on for something like that.”</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/exkillers/" rel="tag">exkillers</a> <a href="https://www.deepdotweb.com/tag/letters/" rel="tag">letters</a> <a href="https://www.deepdotweb.com/tag/mad/" rel="tag">mad</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span> <span style="display:none" class="updated">2017-06-10</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/exkillers/" rel="tag">exkillers</a> <a href="https://www.deepdotweb.com/tag/letters/" rel="tag">letters</a> <a href="https://www.deepdotweb.com/tag/mad/" rel="tag">mad</a> <a href="https://www.deepdotweb.com/tag/sold/" rel="tag">sold</a></span> <span style="display:none" class="updated">2017-06-10</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

@@ -5,7 +5,7 @@ title: "Comcast Declares War on Tor?"
 7053  tag-comcast tag-declares  tag-war
 Posted by: <a href="https://www.deepdotweb.com/author/nathan/" title="">Nathan Wold </a></span>
 <span>September 13, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+
 <a href="/2014/09/13/comcast-declares-war-tor/#comments">105 Comments</a></span>
 </p>
 <p>If you needed another reason to hate Comcast, the most hated company in America, they’ve just given it to you: they’ve declared war on Tor Browser.</p>

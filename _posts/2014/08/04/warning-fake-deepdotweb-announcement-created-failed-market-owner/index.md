@@ -3,12 +3,13 @@ title: "Warning: Fake &#8220;DeepDotWeb Announcement&#8221; By a Failed Market O
 ---
 
 Posted by: DeepDotWeb
+
 <span>August 4, 2014</span>
 
 <p>One of the biggest Dark Net Market fails ever, Cantina market, is planning a comeback, you can read the background here:</p>
 <ul>
-<li><a title="Permalink to Cantina Marketplace PWND: Admin Password was: “Password1″ ?!" href="http://www.deepdotweb.com/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/" target="_blank" rel="bookmark">Cantina Marketplace PWND: Admin Password was: “Password1″ ?!</a></li>
-<li><a title="Permalink to Sheep Marketplace, Is that you Again?! – Cantina Marketplace" href="http://www.deepdotweb.com/2014/01/20/sheep-marketplace-is-that-you-again-cantina-marketplace/" target="_blank" rel="bookmark">Sheep Marketplace, Is that you Again?! – Cantina Marketplace</a></li>
+<li><a title="Permalink to Cantina Marketplace PWND: Admin Password was: “Password1″ ?!" href="2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/" target="_blank" rel="bookmark">Cantina Marketplace PWND: Admin Password was: “Password1″ ?!</a></li>
+<li><a title="Permalink to Sheep Marketplace, Is that you Again?! – Cantina Marketplace" href="2014/01/20/sheep-marketplace-is-that-you-again-cantina-marketplace/" target="_blank" rel="bookmark">Sheep Marketplace, Is that you Again?! – Cantina Marketplace</a></li>
 </ul>
 <p class="post-box-title">Hopefully this time they fail before even launching anything, since this time:</p>
 <ul>

@@ -3,6 +3,7 @@ title: "Meet the Vault 43"
 ---
 
 Posted by: DeepDotWeb
+
 <span>January 14, 2014</span>
 
 <p>We just came across and browsed around a new and interesting service called Vault 43, you can find the vault 43 at this url: <strong>http://vault43nodowhdmy.onion</strong></p>

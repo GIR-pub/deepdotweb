@@ -4,11 +4,12 @@ title: "Anonymous Crypto-currency Arms Race Part 3"
 
 
 Posted by: Greg Miller
+
 <span>October 28, 2014</span>
     
 
     
-<p><em>All the parts are available in the <a href="http://www.deepdotweb.com/tag/ArmsRace/">Armsrace Tag</a>  – Once published</em></p>
+<p><em>All the parts are available in the <a href="tag/ArmsRace/">Armsrace Tag</a>  – Once published</em></p>
 <p>It takes much more than a solid protocol to become a successful anonymous crypto-currency. Many of these schemes require large adoption of the coin, in order to work. Plus, merchant adoption, good press, and a solid developers are key elements. Here are the current top players in the space.</p>
 <p><strong>Darkcoin</strong></p>
 <ul>

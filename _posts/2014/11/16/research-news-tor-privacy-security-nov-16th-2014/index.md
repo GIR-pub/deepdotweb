@@ -3,6 +3,7 @@ title: "Research &#038; News in Tor, Privacy, &#038; Security – Nov 16th, 2014
 ---
 
 Posted by: Kiell
+
 <span>November 16, 2014</span>
 
 <p>A <a href="https://mice.cs.columbia.edu/getTechreport.php?techreportID=1545&amp;format=pdf">research paper</a> suggesting that over 81% of Tor users could be deanonymized through a traffic correlation attack was published by Sambuddho Chakravarty et al. The paper outlines how the “NetFlow” technology in Cisco routers, and similar technology included in most routers, can make users susceptible to traffic analysis. Cisco&#8217;s NetFlow technology is used to log certain information about the traffic passing through a router. The attack is accomplished by injecting a unique traffic pattern into the TCP traffic from an exit node, then comparing this traffic to a target&#8217;s NetFlow records. The attack depends on the attacker having the ability to access NetFlow records of many different routers. The Tor project team <a href="https://blog.torproject.org/blog/traffic-correlation-using-netflows">responded</a> by writing that while this type of research is useful, it does not reveal a serious vulnerability in the Tor network. The Tor blog post stated that, “In summary, it&#8217;s great to see more research on traffic confirmation attacks, but a) traffic confirmation attacks are not a new area so don&#8217;t freak out without actually reading the papers, and b) this particular one, while kind of neat, doesn&#8217;t supersede all the previous papers.”</p>

@@ -3,6 +3,7 @@ title: "Study: Estimating hidden service traffic from DNS leaks"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 22, 2014</span>
 
 <p>A new and interesting study that was published recently under the name   <a href="http://www.verisigninc.com/assets/labs/Measuring-the-Leakage-of-Onion-at-the-Root.pdf">&#8220;Measuring the Leakage of Onion at the Root: A measurement of Tor’s .onion pseudo-top-level domain in the global domain name system&#8221;</a>, By Thomas &amp; Mohaisen 2014, Suggest the following things as they were summarized in a <a href="http://www.reddit.com/r/DarkNetMarkets/comments/28qy0u/estimating_hidden_service_traffic_from_dns_leaks/" target="_blank">reddit post</a> by <a href="http://www.gwern.net/" target="_blank">Gwern</a>:</p>

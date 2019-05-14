@@ -4,13 +4,14 @@ title: "Interview With “Cannabis Road” Lead Developer"
 
 
 Posted by: DeepDotWeb
+
 <span>May 13, 2014</span>
 
-<p><strong><em>Update</em>: <a title="Permalink to Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone" href="http://www.deepdotweb.com/2014/08/25/cannabis-road-hacked-100000-in-btc-gone/" rel="bookmark">Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone</a></strong></p>
+<p><strong><em>Update</em>: <a title="Permalink to Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone" href="2014/08/25/cannabis-road-hacked-100000-in-btc-gone/" rel="bookmark">Cannabis Road Hacked: $100,000 (~200 Bitcoins) Gone</a></strong></p>
 <p>One of the more loved markets currently is the market called &#8220;Cannabis Road&#8221;, A market dedicated only to cannabis products, no other drugs, no weapons and no carding, but this was not always the case, at the beginning this market was developed by <strong>different people than the current ones</strong>, developers that were not suitable for running a Dark Net Market and did some <a href="/2014/02/09/another-two-bites-the-dust-black-goblin-marketplace-cannabisroad/">serious mistakes</a>, but since than, development team has changed and is now in the hands of fully competent developers and administration, the team running this market is operating under the impression that the mistakes of the past are still haunting them, so the lead developer, Crypto, decided to do an interview to try and clear those misunderstandings &#8211; and as far as i think, he have done a good job. He also explained some features i was not aware of (like the fact that they have 3 different types of multisig escrow) and some interesting concepts and plans for the future.</p>
 <p><span style="text-decoration: underline;"><strong> So here it is:</strong></span></p>
 <div class="box  success"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
-<strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/cannabis-road">Cannabis Road Url</a>: http://cannabiskofvl7pa.onion/</strong><br />
+<strong><a href="marketplace-directory/listing/cannabis-road">Cannabis Road Url</a>: http://cannabiskofvl7pa.onion/</strong><br />
 <strong>Forum: http://forumzxmoorof4ja.onion</strong>
 </div></div>
 <div id="attachment_5540" style="width: 603px" class="wp-caption aligncenter"><a href="/imgs/2014/05/cr.png"><img aria-describedby="caption-attachment-5540" class=" wp-image-5540" src="/imgs/2014/05/cr.png" alt="Proof Of ID" width="593" height="474" srcset="/imgs/2014/05/cr.png 1008w, /imgs/2014/05/cr-300x240.png 300w" sizes="(max-width: 593px) 100vw, 593px" /></a><p id="caption-attachment-5540" class="wp-caption-text">Proof Of ID</p></div>

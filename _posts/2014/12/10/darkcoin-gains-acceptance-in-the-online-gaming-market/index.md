@@ -4,6 +4,7 @@ title: "Darkcoin Gains Acceptance In The Online Gaming Market"
 
 
 Posted by: DeepDotWeb
+
 <span>December 10, 2014</span>
 
 <p><em>A press <a href="https://www.darkcoin.io/news/darkcoin-gains-acceptance-in-the-online-gaming-market/" target="_blank">release</a> from Darkcoin.io</em> &#8211; Online gambling and sports betting is a thriving industry that seem especially suited for cryptocurrencies. With the emergence of the internet, the gaming industry went online, it seemed natural that people could now interact with each other online. Since placing bets is more like establishing a contract between two parties for a specific outcome on a game and with no physical asset tied to the transaction, it was a perfect match for the internet. Big names like <i>Bet365</i> and <i>William Hill </i>brought online gaming mainstream.</p>
@@ -21,7 +22,7 @@ Posted by: DeepDotWeb
 <p>Last month we had a poll in our Bitcointalk forum thread asking members which other altcoins they would like to bet with at DirectBet. Darkcoin immediately received an overwhelming amount of votes and support and that was the trigger for us to add it.”</p>
 <p><b>3. How easy it was to integrate Darkcoin to your platform?</b></p>
 <p>“It was extremely quick and easy for us to integrate Darkcoin because its core wallet is utilizing the same interface that we already had in place to accept Bitcoins. We have found the Darkcoin Core wallet to be well established and reliable and ready for prime time use. We didn&#8217;t even had to purchase Darkcoins as we already held a stock from our past investment in it so overall the integration was a real instant.”</p>
-<p>This comes only a while after we reported that <a title="Permalink to Darkcoin Now Accepted on Minor Dark Net Markets" href="http://www.deepdotweb.com/2014/10/21/darkcoin-bow-accepted-minor-dark-net-marketplaces/" rel="bookmark">Darkcoin is Now Accepted on 2 Minor Dark Net Markets</a>.</p>
+<p>This comes only a while after we reported that <a title="Permalink to Darkcoin Now Accepted on Minor Dark Net Markets" href="2014/10/21/darkcoin-bow-accepted-minor-dark-net-marketplaces/" rel="bookmark">Darkcoin is Now Accepted on 2 Minor Dark Net Markets</a>.</p>
 
 Updated: 2014-12-10
     

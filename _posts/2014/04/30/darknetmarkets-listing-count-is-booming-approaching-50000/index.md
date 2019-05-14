@@ -3,6 +3,7 @@ title: "Darknetmarkets listing Count Is Booming: Approaching 50,000!"
 ---
 
 Posted by: DeepDotWeb
+
 <span>April 30, 2014</span>
     
 <p>There are more than 3 times more listings today on the Various Darknetmarkets than there were in October 2013 one the only 3 markets that existed &#8211; SR1, BMR, Sheep (along with some small, mostly scam sites), according to <a href="http://bit.ly/NewSilkRoad">investigative report</a> by the Digital Citizens Alliance.</p>

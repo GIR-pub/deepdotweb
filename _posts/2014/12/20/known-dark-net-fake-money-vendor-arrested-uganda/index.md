@@ -2,13 +2,11 @@
 title: "Known Dark Net &#8220;Fake Money&#8221; Vendor Arrested In Uganda"
 ---
 
-8678  tag-dark tag-fake tag-money tag-net tag-uganda tag-vendor
 Posted by: DeepDotWeb
+
 <span>December 20, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/12/20/known-dark-net-fake-money-vendor-arrested-uganda/#comments">3 Comments</a></span>
-</p>
-<p>Ryan Andrew Gustafson a.k.a Willy.Clock,  A well known darknet counterfeit currency vendor who operated on the markets was arrested by the FBI in Uganda, Willy.Clock operated on TCF (Tor carding forum &#8211; which is owned by <a href="http://www.deepdotweb.com/marketplace-directory/listing/evolution-marketplace">Evolution market</a> admins) until he retired from TCF due to some business dispute with the admins and opened his own forums &#8220;Community-X&#8221;,  Willy.clock was well known for his &#8220;high quality&#8221; notes and had a few resellers working the various dark net markets.</p>
+
+<p>Ryan Andrew Gustafson a.k.a Willy.Clock,  A well known darknet counterfeit currency vendor who operated on the markets was arrested by the FBI in Uganda, Willy.Clock operated on TCF (Tor carding forum &#8211; which is owned by <a href="marketplace-directory/listing/evolution-marketplace">Evolution market</a> admins) until he retired from TCF due to some business dispute with the admins and opened his own forums &#8220;Community-X&#8221;,  Willy.clock was well known for his &#8220;high quality&#8221; notes and had a few resellers working the various dark net markets.</p>
 <p><a href="/imgs/2014/12/tcf.png"><img class="aligncenter wp-image-8679" src="/imgs/2014/12/tcf.png" alt="tcf" width="588" height="331" srcset="/imgs/2014/12/tcf.png 838w, /imgs/2014/12/tcf-300x169.png 300w" sizes="(max-width: 588px) 100vw, 588px" /></a></p>
 <p>The full details about the arrest from <a href="http://www.justice.gov/opa/pr/criminal-charges-filed-against-us-citizen-connection-multi-million-dollar-international-cyber">Justice.gov</a>:</p>
 <blockquote><p>U.S. Attorney David J. Hickton for the Western District of Pennsylvania and U.S. Secret Service Special Agent in Charge Eric P. Zahren of the Pittsburgh Field Office today announced the filing of a criminal complaint in Pittsburgh charging a U.S. citizen with leading an international counterfeit currency operation headquartered in the Republic of Uganda.</p>
@@ -32,7 +30,6 @@ Posted by: DeepDotWeb
 <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/250706467/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-UIDeinAZx2z76jf8d6it&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_20503" frameborder="0"></iframe></p>
 <p>The affidavit:</p>
 <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/250781105/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_41391" frameborder="0"></iframe></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/fake/" rel="tag">fake</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/uganda/" rel="tag">uganda</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2014-12-20
     

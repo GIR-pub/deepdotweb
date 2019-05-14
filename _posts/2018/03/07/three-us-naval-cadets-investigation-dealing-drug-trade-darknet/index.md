@@ -2,7 +2,7 @@
 Three US Naval Cadets under Investigation for Dealing in Drug Trade on Darknet
 ---
 <article class="post-listing post-24985 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-cadets tag-darknet tag-dealing tag-investigation tag-naval tag-trade">
+ tag-cadets tag-dealing tag-investigation tag-naval tag-trade">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>March 7, 2018</span>

@@ -1,7 +1,7 @@
 ---
-Bavarian Justice Minister To Introduce Bill Resulting In More Efficient Investigations Against Darknet Criminals"
+Bavarian Justice Minister To Introduce Bill Resulting In More Efficient Investigations Against Darknet Criminals
 ---
-<article class="post-listing post-21092 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bavarian tag-bill tag-criminals tag-darknet tag-efficient tag-introduce tag-investigations tag-justice tag-minister tag-resulting">
+<article class="post-listing post-21092 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bavarian tag-bill tag-criminals tag-efficient tag-introduce tag-investigations tag-justice tag-minister tag-resulting">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>July 5, 2017</span>
@@ -26,6 +26,8 @@ Bavarian Justice Minister To Introduce Bill Resulting In More Efficient Investig
     <p>The union made a lot of demands for the equipment of the officials as well as the expertise especially in the fight against <a href="https://www.deepdotweb.com/2017/06/18/18-6-17-dark-web-cybercrime-roundup/">cybercrime</a>, in a time when crime on the dark web is growing rapidly in Germany. Bruckenhofer said that the equipment of customs officials is so old that they are on the “level of 1998”.</p>
     <p>According to Bruckenhofer, a financial police in the style of the Italian &#8220;<a href="https://www.deepdotweb.com/2016/12/01/ethiopian-smuggling-ring-busted-italy/">Guardia di Finanza</a>&#8221; would have to bundle all police control, investigation, and investigation tasks under the supervision of the Customs Department. The support for this project had been already mentioned by the official a year ago.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/bavarian/" rel="tag">bavarian</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/efficient/" rel="tag">efficient</a> <a href="https://www.deepdotweb.com/tag/introduce/" rel="tag">introduce</a> <a href="https://www.deepdotweb.com/tag/investigations/" rel="tag">investigations</a> <a href="https://www.deepdotweb.com/tag/justice/" rel="tag">justice</a> <a href="https://www.deepdotweb.com/tag/minister/" rel="tag">minister</a> <a href="https://www.deepdotweb.com/tag/resulting/" rel="tag">resulting</a></span> <span style="display:none" class="updated">2017-07-05</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/bavarian/" rel="tag">bavarian</a> <a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/criminals/" rel="tag">criminals</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/efficient/" rel="tag">efficient</a> <a href="https://www.deepdotweb.com/tag/introduce/" rel="tag">introduce</a> <a href="https://www.deepdotweb.com/tag/investigations/" rel="tag">investigations</a> <a href="https://www.deepdotweb.com/tag/justice/" rel="tag">justice</a> <a href="https://www.deepdotweb.com/tag/minister/" rel="tag">minister</a> <a href="https://www.deepdotweb.com/tag/resulting/" rel="tag">resulting</a></span> <span style="display:none" class="updated">2017-07-05</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    
+    </div>
+</article>
+

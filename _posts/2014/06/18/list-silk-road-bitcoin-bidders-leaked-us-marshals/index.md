@@ -4,6 +4,7 @@ title: "List of Silk Road Bitcoin Bidders Leaked by US Marshals"
 
 
 Posted by: DeepDotWeb
+
 <span>June 18, 2014</span>
 
 <p>As it was published in <a href="http://www.coindesk.com/list-possible-silk-road-bitcoin-bidders-allegedly-leaked-us-marshals/" target="_blank">Coindesk</a>:</p>

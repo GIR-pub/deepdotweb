@@ -2,12 +2,11 @@
 title: "Research and News in Tor, Privacy, and Security – Dec 28th, 2014"
 ---
 
-8703  tag-1779 tag-28th tag-dece  
+
 Posted by: Kiell
+
 <span>December 28, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<a href="/2014/12/28/research-news-tor-privacy-security-dece-28th-2014/#respond">Leave a comment</a></span>
-</p>
+
 <p><em>This article is part of a weekly series covering developments in Tor and the privacy-related tech world</em></p>
 <p>Thomas White, aka TheCthulhu, has been releasing <a href="https://lists.torproject.org/pipermail/tor-talk/2014-December/036078.html">updates</a> on the recent compromise of his servers. Last week, he reported that he unexpectedly lost control of several servers, which included multiple exit relays and several hidden services. At this time, he has <a href="https://lists.torproject.org/pipermail/tor-talk/2014-December/036084.html">regained access</a> to the servers. He now believes that the compromise was likely not the work of law enforcement, and has (for now) excluded the possibility of direct involvement. It is possible that the “USB device” inserted into the server was actually a KVM reported as a USB device, although this has not been confirmed. The disappearance of certain logs, such as bandwidth information logs, has not been explained. Most servers have been blacklisted from the Tor network, and they will not be brought back online until he has performed a complete analysis.</p>
 <p>A group of hackers have <a href="https://twitter.com/LizardMafia">announced</a> that they will be, and have already begun, attempting to compromise the Tor network. The group, which calls itself Lizard Squad, posted a <a href="https://twitter.com/LizardMafia/status/548525026027507712">message</a> on Twitter announcing that they are testing their “new Tor 0day”. While the group stated that they are employing a zero-day exploit, the attack appears to be a standard Sybil attack. In other words, the attack does not appear to pose an extreme risk to the network. The group may also be targeting directory authorities – ioerror reported that his directory authority suffered a minor DDOS attack. He attributed the attempt to Lizard Squad. The Tor Project released the following statement:</p>
@@ -17,5 +16,5 @@ Posted by: Kiell
 <p>The <a href="https://events.ccc.de/congress/2014/wiki/Static:Main_Page">31st annual</a> Chaos Communication Congress (31c3) will be taking place on December 27th through December 30th in Hamburg, Germany. The Chaos Communication Congress is an annual four-day technology conference held by the <a href="https://www.ccc.de/">Chaos Computer Club</a>.</p>
 <p>There will be a <a href="https://events.ccc.de/congress/2014/wiki/Session:Tor_Relay_Operators_Meetup">meet-up</a> for Tor relay operators at the conference that will focus primarily on Torservers.net.</p>
 <p>The NSA has <a href="https://www.nsa.gov/public_info/declass/IntelligenceOversightBoard.shtml">released</a> 12 years worth of internal reports after responding to a Freedom of Information Act request. The reports were released late on Christmas Eve – possibly to discourage media attention. The heavily-redacted reports reveal numerous breaches in protocol by the agency, primarily as a result of human error. The reports outline instances of data collected on Americans being emailed to unauthorized recipients, retained after it was supposed to be destroyed, and stored on unsecured computers. In some cases, data continued to be collected on targets even when the target was in the United States. The NSA states that “by emphasizing accountability across all levels of the enterprise, and transparently reporting errors and violations to outside oversight authorities, NSA protects privacy and civil liberties while safeguarding the nation and our allies.”</p>
-<a href="https://www.deepdotweb.com/tag/28th/" rel="tag">28th</a> <a href="https://www.deepdotweb.com/tag/dece/" rel="tag">dece</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/privacy/" rel="tag">privacy</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a>  </span> 
+
 Updated: 2014-12-28    

@@ -1,7 +1,7 @@
 ---
-CBP Official Explains Darknet Drugs and Package Seizures"
+CBP Official Explains Darknet Drugs and Package Seizures
 ---
-<article class="post-listing post-21341 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cbp tag-darknet tag-explains tag-official tag-package tag-seizures">
+<article class="post-listing post-21341 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cbp tag-explains tag-official tag-package tag-seizures">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 15, 2017</span>
@@ -40,6 +40,8 @@ CBP Official Explains Darknet Drugs and Package Seizures"
     <p><strong>Conclusion</strong></p>
     <p>The Acting Executive Assistant Commissioner closed with an explanation of the necessity of multi-agency and sector cooperation. “Tackling this complex threat involves a united, comprehensive strategy and an aggressive approach by multiple entities – from law enforcement, science, medicine, education, social work, and the public health sector,” he said. In short, CBP will continue working with outside entities to improve detection and develop tactics. In addition, they will work with USPIS and USPS to remove drugs from the mail flow before reaching the American people.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/cbp/" rel="tag">cbp</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/explains/" rel="tag">explains</a> <a href="https://www.deepdotweb.com/tag/official/" rel="tag">official</a> <a href="https://www.deepdotweb.com/tag/package/" rel="tag">package</a> <a href="https://www.deepdotweb.com/tag/seizures/" rel="tag">seizures</a></span> <span style="display:none" class="updated">2017-07-15</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/cbp/" rel="tag">cbp</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/explains/" rel="tag">explains</a> <a href="https://www.deepdotweb.com/tag/official/" rel="tag">official</a> <a href="https://www.deepdotweb.com/tag/package/" rel="tag">package</a> <a href="https://www.deepdotweb.com/tag/seizures/" rel="tag">seizures</a></span> <span style="display:none" class="updated">2017-07-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

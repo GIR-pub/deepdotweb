@@ -3,6 +3,7 @@ title: "Bitcoin news round-up 17.06.2014"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 17, 2014</span>
 
 <p>The past week brought positive news for bitcoin despite a 10% price drop since Sunday 8 July. Price decreases over the past week have likely been caused by speculators selling off on fears of the US Marshall’s sale of seized bitcoins will flood the market. Bitcoin holds a value of $599.92 at the time of writing, an improvement of $7.95, or 1.34%, since the markets opened today.</p>

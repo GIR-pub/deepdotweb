@@ -3,6 +3,7 @@ title: "APT attacks via the Tor network, “OnionDuke”"
 ---
 
 Posted by: Zubair Muadh
+
 <span>November 20, 2014</span>
     
     
@@ -18,6 +19,6 @@ Posted by: Zubair Muadh
 <p>airtravelabroad.com, beijingnewsblog.net, grouptumbler.com, leveldelta.com, nasdaqblog.net, natureinhome.com, nestedmail.com, nostressjob.com, nytunion.com, oilnewsblog.com, sixsquare.net and ustradecomp.com.</p>
 <p>What’s interesting is that the domains leveldata.com and grouptumbler.com where previously used as C&amp;C domains by MiniDuke. This points towards the actors behind MiniDuke and OnionDuke are connected due to the shared use of infrastructure despite the malware being different families.</p>
 <p>OnionDuke also infected executables in .torrent containing pirated software. F-Secure also found strong evidence indicating that the OnionDuke was targeting European government agencies, this suggests two different targeting strategies. The first being the traditional APT surgical targeting the second being the “Shooting a fly with a cannon” approach which basically a mass-infection through modified binaries.</p>
-<p>Whilst case is still shrouded in mystery and speculation you can mitigate this risk by using a VPN that would encrypt your traffic with articles on this <a href="http://www.deepdotweb.com/?s=VPN">found here</a>. In addition to this, <strong>don’t download .exe files over Tor</strong>.</p>
+<p>Whilst case is still shrouded in mystery and speculation you can mitigate this risk by using a VPN that would encrypt your traffic with articles on this <a href="?s=VPN">found here</a>. In addition to this, <strong>don’t download .exe files over Tor</strong>.</p>
 
 Updated: 2014-11-20    

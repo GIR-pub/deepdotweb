@@ -2,7 +2,7 @@
 Undercover Officers Caught a Darknet Gun Buyer in Germany
 ---
 <article class="post-listing post-24666 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-buyer tag-caught tag-darknet tag-germany tag-gun tag-officers tag-undercover">
+ tag-buyer tag-caught tag-germany tag-gun tag-officers tag-undercover">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>February 4, 2018</span>
@@ -18,5 +18,7 @@ Undercover Officers Caught a Darknet Gun Buyer in Germany
 <p>For instance, at a recent sentencing hearing at Dresden District Court, a 35-year-old man received a 28 month prison sentence for <a href="https://www.deepdotweb.com/2017/12/25/man-sentenced-buying-five-glocks-darknet/">ordering five Glocks from a darknet vendor</a>. The vendor, as expected, was an Australian undercover officer who posed as a vendor, took the buyer’s money, and then reported the buyer to German authorities.</p>
 <p>The Freyung man left the courthouse with a much lighter sentence than the man from the Dresden case. In order to avoid spending just under a year in prison, the 40-year-old must spend three years on probation and complete 120 hours of community service.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/officers/" rel="tag">officers</a> <a href="https://www.deepdotweb.com/tag/undercover/" rel="tag">undercover</a></span> <span style="display:none" class="updated">2018-02-04<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a> <a href="https://www.deepdotweb.com/tag/officers/" rel="tag">officers</a> <a href="https://www.deepdotweb.com/tag/undercover/" rel="tag">undercover</a></span> <span style="display:none" class="updated">2018-02-04<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

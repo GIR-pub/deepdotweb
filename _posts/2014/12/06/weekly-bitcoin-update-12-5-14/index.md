@@ -4,6 +4,7 @@ title: "Weekly Bitcoin Update – 12-7-14"
 
 
 Posted by: DeepDotWeb
+
 <span>December 6, 2014</span>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoin stories from around the web </em></p>

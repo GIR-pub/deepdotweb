@@ -3,6 +3,7 @@ title: "Ross Ulbricht&#8217;s Lawyer Moves To Drop All Charges"
 ---
 
 Posted by: DeepDotWeb
+
 <span>April 2, 2014</span>
 
 <p>In an article posted at forbes today it was mentioned that:</p>

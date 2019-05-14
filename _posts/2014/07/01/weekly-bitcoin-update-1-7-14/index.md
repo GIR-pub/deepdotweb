@@ -3,6 +3,7 @@ title: "Weekly Bitcoin Update – 1.7.14"
 ---
 
 Posted by: DeepDotWeb
+
 <span>July 1, 2014</span>
 
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web</em></p>

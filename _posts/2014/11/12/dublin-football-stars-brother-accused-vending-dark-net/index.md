@@ -3,11 +3,12 @@ title: "Dublin Football Star&#8217;s Brother Accused Of Vending On The Dark Net"
 ---
 
 Posted by: DeepDotWeb
+
 <span>November 12, 2014</span>
 
 
 
-<p>Following our most initial report about <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Operation Onymous</a> and a DarkNet related bust <a href="/2014/11/06/major-darknet-related-bust-ireland/">in Ireland</a> &#8211; it was now published in <a href="http://www.herald.ie/news/courts/dublin-football-stars-brother-accused-of-using-the-darknet-to-sell-drugs-30734228.html">Herelad.ie</a> that the arrested vendor is Dublin Football Star&#8217;s Brother &#8211; Neil Mannion along with a Film technician &#8211; Richard O&#8217;Connor, both aged 33. Quoting the source article:</p>
+<p>Following our most initial report about <a href="tag/silkroad2bust/">Operation Onymous</a> and a DarkNet related bust <a href="/2014/11/06/major-darknet-related-bust-ireland/">in Ireland</a> &#8211; it was now published in <a href="http://www.herald.ie/news/courts/dublin-football-stars-brother-accused-of-using-the-darknet-to-sell-drugs-30734228.html">Herelad.ie</a> that the arrested vendor is Dublin Football Star&#8217;s Brother &#8211; Neil Mannion along with a Film technician &#8211; Richard O&#8217;Connor, both aged 33. Quoting the source article:</p>
 <blockquote><p>A DUBLIN Gaelic footballer&#8217;s brother and a film technician have been accused of being involved in an online global drug-dealing operation using the Darknet.<br/>
     Neil Mannion and Richard O&#8217;Connor, both aged 33, appeared in Dublin District Court charged with drugs offences following a garda raid on a business premises in the south of the city.</p>
 <p>Neil Mannion is a brother of Dublin senior and Kilmacud Crokes player Paul Mannion.</p>
@@ -34,7 +35,7 @@ Posted by: DeepDotWeb
 <li>Bitcoins worth approximately USD 1 000 000 and EUR 180 000 in cash, drugs, gold and silver seized</li>
 </ul>
 <p>Countries involved in the operation, codenamed ‘Onymous’, include Bulgaria, the Czech Republic, Finland, France, Germany, Hungary, Ireland, Latvia, Lithuania, Luxembourg, the Netherlands, Romania, Spain, Sweden, Switzerland, the United Kingdom and the USA.</p>
-<p><strong>Read all our other articles regarding <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Operation Onymous Here</a></strong></p>
+<p><strong>Read all our other articles regarding <a href="tag/silkroad2bust/">Operation Onymous Here</a></strong></p>
 
 
 Updated: 2014-11-12

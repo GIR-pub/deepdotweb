@@ -4,6 +4,7 @@ title: "Bitcoin&#8217;s Black Market Promise In Argentina"
 
 7014  tag-argentina tag-promise
 Posted by: Greg Miller
+
 <span>September 11, 2014</span>
     
 <a href="/2014/09/11/bitcoins-black-market-promise-argentina/#respond">Leave a comment</a></span>

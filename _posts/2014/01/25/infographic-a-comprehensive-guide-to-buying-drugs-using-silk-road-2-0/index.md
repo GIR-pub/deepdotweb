@@ -3,6 +3,7 @@ title: "Infographic &#8211; A Comprehensive Guide to Buying Drugs Using Silk Roa
 ---
 
 Posted by: DeepDotWeb
+
 <span>January 25, 2014</span>
 
 <p>Found this nice infographics posted by the user <a href="http://www.reddit.com/user/thirtysix36" target="_blank">thirtysix36</a> on the Silk Road sub Reddit &#8211; <a href="http://www.reddit.com/r/SilkRoad/comments/1w33c2/infographic_a_comprehensive_guide_to_buying_drugs/" target="_blank">here</a>,  As he said:</p>

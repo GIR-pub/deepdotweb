@@ -3,6 +3,7 @@ title: "Utopia Marketplace is Now Officially Open!"
 ---
 
 Posted by: DeepDotWeb
+
 <span>February 3, 2014</span>
 
 <h3 style="text-align: center;"><span style="color: #ff0000;"><strong>Update:  <a href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/"><span style="color: #ff0000;">Utopia Marketplace Seized by Dutch Police</span></a></strong></span></h3>

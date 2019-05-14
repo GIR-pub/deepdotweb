@@ -1,7 +1,7 @@
 ---
 Macomb County Computer Enforcement Targets Dark Web Predator"
 ---
-<article class="post-listing post-13792 post type-post status-publish format-standard has-post-thumbnail hentry  tag-computer tag-county tag-dark tag-enforcement tag-macomb tag-predator tag-targets tag-web">
+<article class="post-listing post-13792 post type-post status-publish format-standard has-post-thumbnail hentry  tag-computer tag-county tag-dark tag-macomb tag-predator tag-targets tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/americanguerrilla/" title="">American Guerrilla </a></span>
     <span>April 20, 2016</span>

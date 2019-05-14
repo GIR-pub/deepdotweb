@@ -3,6 +3,7 @@ title: "BlackBank Market Now Offering MultiSig Escrow"
 ---
 
 Posted by: DeepDotWeb
+
 <span>February 16, 2014</span>
 
 <p>We have Just found out that BlackBank Market has implemented the use of Multisig transactions, once every market that does that in the correct way deserve our support, you can find the market at this address:  http://omo6o7akcampiryq.onion</p>

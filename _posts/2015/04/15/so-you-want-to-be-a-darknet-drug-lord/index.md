@@ -1,7 +1,7 @@
 ---
 So, You Want To Be a Darknet Drug Lord&#8230;
 ---
-<article class="post-listing post-9992 post type-post status-publish format-standard has-post-thumbnail hentry tag-darknet tag-lord">
+<article class="post-listing post-9992 post type-post status-publish format-standard has-post-thumbnail hentry tag-lord">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>April 15, 2015</span>

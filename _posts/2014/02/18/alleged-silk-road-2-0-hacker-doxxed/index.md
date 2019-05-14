@@ -4,6 +4,7 @@ title: "Alleged Silk Road 2.0 Hacker Doxxed!?"
 
 
 Posted by: DeepDotWeb
+
 <span>February 18, 2014</span>
 
 <p>Well this is an interesting turn of events, Silk Road user Oracle (that you probably remember from the moderators <a href="/2013/12/24/the-silk-road-2-0-tales-psy-ops/">arrests psy-ops)</a> just posted a full doxx of the alleged silk road 2.0 hacker, explaining the story behind the hack and posting the entire personal details of the hacker including name and full living address, giving him a chance to return the money before something bad happens, this post was deleted in less than an hour, but during this time many people had the chance to screenshot the post and copy it, one of them provided us the full text of the doxx, we have of course blacked out all personal details from this post made by the Oracle:</p>

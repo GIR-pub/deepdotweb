@@ -1,7 +1,7 @@
 ---
 Belarus Hosting Multi-Agency Darknet Training Event
 ---
-<article class="post-listing post-20246 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belarus tag-darknet tag-event tag-hosting tag-multiagency tag-training">
+<article class="post-listing post-20246 post type-post status-publish format-standard has-post-thumbnail hentry  tag-belarus tag-event tag-hosting tag-multiagency tag-training">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 31, 2017</span>
@@ -9,7 +9,7 @@ Belarus Hosting Multi-Agency Darknet Training Event
     <span><a href="https://www.deepdotweb.com/2017/05/31/belarus-hosting-multi-agency-darknet-training-event/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>As the criminal activity on the darknet becomes less of an exception and more of the norm, law enforcement learns to adapt to the modern age of crime. An example of this is an event at the International Training Center of the Police Academy between May 15 and 19 in Belarus.</p>
     <p>There, regional authorities and international experts will learn about “strengthening the capacity of law enforcement bodies of Belarus and other Eastern European countries in the fight against drug trafficking.” But more specifically on “including new psychoactive substances on the &#8220;shadow&#8221; of cyberspace markets.” The Interior Ministry and state police governance planned the event in February 2016.</p>
     <p><img class="wp-image-20253 aligncenter" src="/imgs/2017/05/word-image-150.jpeg" srcset="/imgs/2017/05/word-image-150.jpeg 770w, /imgs/2017/05/word-image-150-300x200.jpeg 300w" sizes="(max-width: 770px) 100vw, 770px"/></p>
@@ -23,6 +23,8 @@ Belarus Hosting Multi-Agency Darknet Training Event
     <p>The event fits under the 2012 OSCE anti-drug concept “in support of the global effort to combat the world drug problem.&#8221; The Acting Deputy Head of the Academy for International Cooperation explained that the event’s primary aim was the scope that law enforcement used to investigate law drug-related crimes. With the growth of internet drug trafficking, police needed to not only become more acquainted with new psychoactive substances, but also the darknet and <a href="https://www.deepdotweb.com/tag/europol/">cryptocurrency</a>.</p>
     <p>This is not the first large-scale event where law enforcement gathered to discuss the darknet and online drug trafficking. And, even the so-called <a href="https://www.deepdotweb.com/2017/02/06/international-law-enforcement-gathered-share-concerns-bitcoin-money-laundering/">“dangers” of Bitcoin and other cryptocurrencies</a> have been discussed by international law enforcement—assuming Europol is considered a law enforcement agency.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/belarus/" rel="tag">belarus</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/event/" rel="tag">event</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/multiagency/" rel="tag">multiagency</a> <a href="https://www.deepdotweb.com/tag/training/" rel="tag">training</a></span> <span style="display:none" class="updated">2017-05-31</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/belarus/" rel="tag">belarus</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/event/" rel="tag">event</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/multiagency/" rel="tag">multiagency</a> <a href="https://www.deepdotweb.com/tag/training/" rel="tag">training</a></span> <span style="display:none" class="updated">2017-05-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

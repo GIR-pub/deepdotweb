@@ -1,7 +1,7 @@
 ---
 Another Admin of The Love Zone Sentenced in Australia Over Darknet Child Porn"
 ---
-<article class="post-listing post-16759 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-australia tag-child tag-darknet tag-love tag-porn tag-sentenced tag-zone">
+<article class="post-listing post-16759 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-australia tag-child tag-love tag-porn tag-sentenced tag-zone">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 6, 2016</span>

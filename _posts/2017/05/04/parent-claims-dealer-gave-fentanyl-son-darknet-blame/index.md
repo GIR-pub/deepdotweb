@@ -1,7 +1,7 @@
 ---
-Parent Claims Dealer Gave Fentanyl to Son, Darknet to Blame"
+Parent Claims Dealer Gave Fentanyl to Son, Darknet to Blame
 ---
-<article class="post-listing post-19619 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blame tag-claims tag-darknet tag-fentanyl tag-gave tag-parent tag-son">
+<article class="post-listing post-19619 post type-post status-publish format-standard has-post-thumbnail hentry  tag-blame tag-claims tag-fentanyl tag-gave tag-parent tag-son">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 4, 2017</span>
@@ -22,6 +22,8 @@ Parent Claims Dealer Gave Fentanyl to Son, Darknet to Blame"
     <p>The police made no comment regarding the darknet. She claimed they hardly spoke to her at all. The statement she received from the police, following the coroner&#8217;s report said that “Police officers will pursue all reasonable lines of inquiry to gain evidence.” It continued, “this includes mobile phone data where there are legal grounds to do so. However, in some circumstances, officers are unable to gain access to all or some of the data.”</p>
     <p>The investigation ended, she said, because the police were unable to access the teens locked HTC smartphone.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/blame/" rel="tag">blame</a> <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/gave/" rel="tag">gave</a> <a href="https://www.deepdotweb.com/tag/parent/" rel="tag">parent</a> <a href="https://www.deepdotweb.com/tag/son/" rel="tag">son</a></span> <span style="display:none" class="updated">2017-05-04</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/blame/" rel="tag">blame</a> <a href="https://www.deepdotweb.com/tag/claims/" rel="tag">claims</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/gave/" rel="tag">gave</a> <a href="https://www.deepdotweb.com/tag/parent/" rel="tag">parent</a> <a href="https://www.deepdotweb.com/tag/son/" rel="tag">son</a></span> <span style="display:none" class="updated">2017-05-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

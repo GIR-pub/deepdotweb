@@ -2,7 +2,7 @@
 Drug Dealer Bought a Gun on the Darknet “for Protection”
 ---
 <article class="post-listing post-23039 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-bought tag-darknet tag-gun tag-protection">
+ tag-bought tag-gun tag-protection">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 13, 2017</span>

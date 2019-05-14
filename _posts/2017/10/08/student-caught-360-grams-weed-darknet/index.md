@@ -2,7 +2,7 @@
 Student Caught with 360 Grams of Weed from the Darknet
 ---
 <article class="post-listing post-22969 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-6009 tag-caught tag-darknet tag-grams tag-student tag-weed">
+ tag-6009 tag-caught tag-grams tag-student tag-weed">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 8, 2017</span>
@@ -18,5 +18,7 @@ Student Caught with 360 Grams of Weed from the Darknet
 <p>Apparently, though, the &#8220;youthful age saved him from examination.” His arrest, through methods unaware to the public, led the arrest of another suspect in Augsburg. This suspect, a middleman, had ordered 100 grams of cannabis (presumably through the darknet, but somehow in connection to the previously arrested student). This arrest caused Friedberg investigators to call for additional support in the so-called “complex” case. They mentioned that the remaining suspects were mostly consumers, though.</p>
 <p>Investigators gave no reason as to why different members of the same group of young drug traffickers placed their own orders on darknet marketplaces. This could be, and likely is, a situation very similar to Operation Tiger. In <a href="https://www.deepdotweb.com/2017/09/01/new-zealands-operation-tiger-targeted-young-darknet-users/">New Zealand&#8217;s Operation Tiger</a>, law enforcement targeted a group of young drug dealers who had ordered, on a routine basis, drugs from the darknet. They then sold the drugs to similar or the same groups of schoolchildren. While incredibly coincidental, the separate drug dealers had no knowledge of each other, the authors reported.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/360/" rel="tag">360</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/weed/" rel="tag">weed</a></span> <span style="display:none" class="updated">2017-10-08<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/360/" rel="tag">360</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/grams/" rel="tag">grams</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/weed/" rel="tag">weed</a></span> <span style="display:none" class="updated">2017-10-08<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

@@ -3,9 +3,10 @@ title: "OnymHoax Revealed: 153 Out of 276 Seized Domains Are Phishing/Clones"
 ---
 
 Posted by: DeepDotWeb
+
 <span>November 18, 2014</span>
 
-<p>A <a href="https://www.nikcub.com/posts/onymous-part1/">new study was published</a> today (November 18, 2014) by  <a href="https://www.nikcub.com/about/">Nik Cubrilovic</a> , a security researcher, which found that  there are some significant differences between the data  <a href="/2014/11/07/nca-taken-400-dark-net-sites/">published</a> by the law enforcement agencies involved in <a href="http://www.deepdotweb.com/tag/operation-onymous/">Operation Onymous</a>  and the actual numbers of the seized sites. More specifically, a large portion of the seized sites were nothing but <a href="https://www.nikcub.com/posts/fbi-seizes-fake-tor-hosted-jihad-funding-website-as-part-of-operation-onymous-leaves-up-real-site/">cloned</a> or phishing sites that resemble the actual sites that Law Enforcement agents meant to target.</p>
+<p>A <a href="https://www.nikcub.com/posts/onymous-part1/">new study was published</a> today (November 18, 2014) by  <a href="https://www.nikcub.com/about/">Nik Cubrilovic</a> , a security researcher, which found that  there are some significant differences between the data  <a href="/2014/11/07/nca-taken-400-dark-net-sites/">published</a> by the law enforcement agencies involved in <a href="tag/operation-onymous/">Operation Onymous</a>  and the actual numbers of the seized sites. More specifically, a large portion of the seized sites were nothing but <a href="https://www.nikcub.com/posts/fbi-seizes-fake-tor-hosted-jihad-funding-website-as-part-of-operation-onymous-leaves-up-real-site/">cloned</a> or phishing sites that resemble the actual sites that Law Enforcement agents meant to target.</p>
 <p>Cubrilovic crawled and indexed onion sites to find out how many real, dark net market sites were seized and reported that:</p>
 <blockquote><p>Initial reports said 410 sites were seized, then 400 and this number has continued to be revised down until Europol said only some two-dozen sites were seized. Our crawl of just over 9,000 onion sites has found 276 seized onion sites.</p></blockquote>
 <p>The most important of his findings in his research were as follows:</p>
@@ -29,7 +30,7 @@ Posted by: DeepDotWeb
 <li>Bitcoins worth approximately USD 1 000 000 and EUR 180 000 in cash, drugs, gold and silver seized</li>
 </ul>
 <p>Countries involved in Operation Onymous include Bulgaria, the Czech Republic, Finland, France, Germany, Hungary, Ireland, Latvia, Lithuania, Luxembourg, the Netherlands, Romania, Spain, Sweden, Switzerland, the United Kingdom and the United States.</p>
-<p>Read all our other articles regarding <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Operation Onymous Here</a>.</p>
+<p>Read all our other articles regarding <a href="tag/silkroad2bust/">Operation Onymous Here</a>.</p>
 <p>&nbsp;</p>
 
 Updated: 2014-11-18

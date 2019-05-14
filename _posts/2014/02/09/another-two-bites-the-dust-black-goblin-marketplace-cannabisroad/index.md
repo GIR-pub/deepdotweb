@@ -4,6 +4,7 @@ title: "Another Two Bites The Dust (Black Goblin Marketplace &#038; CannabisRoad
 
 
 Posted by: DeepDotWeb
+
 <span>February 9, 2014</span>
 
 <p>The Sad (yet, funny) story of the latest 2 marketplaces who went down as described by <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern </a>on Reddit, present a prime addition to the marketplaces wall of shame and a perfect example for the incompetence of some of the new bread of  marketplace developers that have nothing in front of them but pure greed, we just pasted the original reddit posts with the screenshots as their tombstones:</p>

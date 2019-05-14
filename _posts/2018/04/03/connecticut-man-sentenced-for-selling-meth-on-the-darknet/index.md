@@ -2,7 +2,7 @@
 Connecticut Man Sentenced for Selling Meth on the Darknet
 ---
 <article class="post-listing post-25249 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-connecticut tag-darknet tag-man tag-meth tag-selling tag-sentenced">
+ tag-connecticut tag-man tag-meth tag-selling tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>April 3, 2018</span>
@@ -18,5 +18,7 @@ Connecticut Man Sentenced for Selling Meth on the Darknet
 <p>Mark Sherman, Devine&#8217;s lawyer, told the press that the case was “a sensitive and serious health matter that we hope to work through with the assistance of the court and its intervention services.”</p>
 <p>In March 2017, a Connecticut judge sentenced Devine to 36 months in prison followed by another 36 months of supervised release. Devine&#8217;s vendor identity was never revealed to the public.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/connecticut/" rel="tag">connecticut</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/meth/" rel="tag">meth</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-04-03<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/connecticut/" rel="tag">connecticut</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/meth/" rel="tag">meth</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-04-03<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

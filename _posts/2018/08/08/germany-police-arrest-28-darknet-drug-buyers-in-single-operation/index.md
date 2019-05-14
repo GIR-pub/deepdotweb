@@ -2,7 +2,7 @@
 Germany: Police Arrest 28 Darknet Drug Buyers in Single Operation"
 ---
 <article class="post-listing post-26511 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-2518 tag-arrest tag-buyers tag-darknet tag-germany tag-operation tag-police tag-single">
+ tag-2518 tag-arrest tag-buyers tag-germany tag-operation tag-police tag-single">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 8, 2018</span>

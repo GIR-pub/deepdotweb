@@ -1,7 +1,7 @@
 ---
 Ricin Vendor Found Not Guilty of Darknet Distribution, Seeking Acquittal of Theft Charges"
 ---
-<article class="post-listing post-16538 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acquittal tag-charges tag-darknet tag-distribution tag-guilty tag-ricin tag-seeking tag-theft tag-vendor">
+<article class="post-listing post-16538 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acquittal tag-charges tag-distribution tag-guilty tag-ricin tag-seeking tag-theft tag-vendor">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 23, 2016</span>

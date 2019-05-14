@@ -3,6 +3,7 @@ title: "US Police Detective Gets Hit By CryptoWall &#8211; Pays $500 BTC Ransom"
 ---
 
 Posted by: Greg Miller
+
 <span>November 13, 2014</span>
 
 <p><iframe src="http://launch.newsinc.com/?type=VideoPlayer/Single&amp;widgetId=1&amp;trackingGroup=69016&amp;siteSection=ndn&amp;videoId=28142084&amp;playlistId=15138" width="590" height="332" frameborder="no" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>

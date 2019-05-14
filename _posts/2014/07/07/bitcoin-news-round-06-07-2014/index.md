@@ -3,6 +3,7 @@ title: "Bitcoin news round-up 07.07.2014"
 ---
 
 Posted by: DeepDotWeb
+
 <span>July 7, 2014</span>
 
 <p>Bitcoin continued on its upward trajectory over the past week, rising to $631.48 at the time of writing, up from $598.97 at the start of the week, June 30. Having recovered from some dropback the week prior, the coin is once again comfortably above the $600 threshold; values of which it hasn’t seen since the start of June. Price rises were spurred by positive industry news as well as the successful US federal auction of coins seized from the illicit Silk Road marketplace.</p>

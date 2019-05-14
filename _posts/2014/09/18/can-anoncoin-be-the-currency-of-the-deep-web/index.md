@@ -4,6 +4,7 @@ title: "Can Anoncoin Be The Currency Of The Deep Web?"
 
 
 Posted by: DeepDotWeb
+
 <span>September 18, 2014</span>
 
 <p>Most DarkNet vendors deal exclusively in Bitcoin (BTC) because no competitor has more liquidity, price stability, or widespread adoption. In terms of DarkNet adoption, the next closest currency is Litecoin (LTC), which historically averages about 5% of Bitcoin’s market capitalization. Litecoin also has a relatively broad web infrastructure, and has been accepted sporadically by smaller DarkNet Markets. However, being essentially a Bitcoin clone, Litecoin has never offered enough competitive advantage over Bitcoin to justify regular use in the Deep Web.</p>

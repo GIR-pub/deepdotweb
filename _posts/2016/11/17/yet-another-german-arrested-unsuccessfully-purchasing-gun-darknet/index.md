@@ -1,7 +1,7 @@
 ---
 Yet Another German Arrested After Unsuccessfully Purchasing a Gun from the Darknet
 ---
-<article class="post-listing post-16461 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-german tag-gun tag-purchasing tag-unsuccessfully">
+<article class="post-listing post-16461 post type-post status-publish format-standard has-post-thumbnail hentry  tag-german tag-gun tag-purchasing tag-unsuccessfully">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 17, 2016</span>

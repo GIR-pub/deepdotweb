@@ -3,9 +3,10 @@ title: "Defcon&#8217;s Latest post: We Will Repay The Stolen Funds"
 ---
 
 Posted by: DeepDotWeb
+
 <span>February 16, 2014</span>
 
-<p><strong>Update</strong>: <span style="color: #ff0000;"><a title="Permalink to Alleged Silk Road 2.0 Hacker Doxxed!?" href="http://www.deepdotweb.com/2014/02/18/alleged-silk-road-2-0-hacker-doxxed/" rel="bookmark"><span style="color: #ff0000;">Alleged Silk Road 2.0 Hacker Doxxed!?</span></a></span></p>
+<p><strong>Update</strong>: <span style="color: #ff0000;"><a title="Permalink to Alleged Silk Road 2.0 Hacker Doxxed!?" href="2014/02/18/alleged-silk-road-2-0-hacker-doxxed/" rel="bookmark"><span style="color: #ff0000;">Alleged Silk Road 2.0 Hacker Doxxed!?</span></a></span></p>
 <p>I Spent half of this day contemplating if should post this as just another chapter of this drama, and decided why not, we should have this on the record, the latest statement from the hacked Silk road 2 admin, claiming he will make it up to everyone and will no collect any commision from the market until he repay the stolen funds to all vendors:</p>
 <p>You can join the full discussion at the OP, here: http://silkroad5v7dywlc.onion/index.php?topic=26475.0;topicseen</p>
 <p><strong>===Start Quote===</strong></p>

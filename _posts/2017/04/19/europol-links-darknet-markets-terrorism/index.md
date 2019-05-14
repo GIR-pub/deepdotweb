@@ -1,7 +1,7 @@
 ---
-Europol Links Darknet Markets and Terrorism"
+Europol Links Darknet Markets and Terrorism
 ---
-<article class="post-listing post-19267 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-europol tag-links tag-terrorism">
+<article class="post-listing post-19267 post type-post status-publish format-standard has-post-thumbnail hentry  tag-europol tag-links tag-terrorism">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 19, 2017</span>
@@ -31,6 +31,8 @@ Europol Links Darknet Markets and Terrorism"
     <p>“<em>In December 2016, Slovenian law enforcement authorities, with the support of Europol, arrested two suspects accused of selling various live firing weapons including automatic rifles, hand and smoke grenades as well as ammunition via a prominent Darknet marketplace. The firearms were paid for in Bitcoin</em>.”</p>
     <p>There, the <a href="https://www.deepdotweb.com/tag/bitcoin/">Bitcoin</a> connection to firearms and weapon violence substantiated. Furthermore, the link between organized crime and terrorism finally carried—at the very least—a theory. Depending on where or who or how seriously this publication is taken by law-making officials, this could readily in a crackdown similar to the one promised and subsequently delivered by the German Federal Police.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/links/" rel="tag">links</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/terrorism/" rel="tag">terrorism</a></span> <span style="display:none" class="updated">2017-04-19</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/europol/" rel="tag">europol</a> <a href="https://www.deepdotweb.com/tag/links/" rel="tag">links</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/terrorism/" rel="tag">terrorism</a></span> <span style="display:none" class="updated">2017-04-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

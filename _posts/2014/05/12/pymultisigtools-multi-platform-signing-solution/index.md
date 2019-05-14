@@ -3,8 +3,9 @@ title: "Pymultisigtools: Multi-Platform Signing Solution"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 12, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+
 <a href="/2014/05/12/pymultisigtools-multi-platform-signing-solution/#respond">Leave a comment</a></span>
 </p>
 <div class="usertext-body may-blank-within">

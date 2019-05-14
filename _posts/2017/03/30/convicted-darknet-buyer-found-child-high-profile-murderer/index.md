@@ -1,8 +1,8 @@
 ---
-Convicted Darknet Buyer Found to be Child of High Profile Murderer"
+Convicted Darknet Buyer Found to be Child of High Profile Murderer
 ---
 <article class="post-listing post-18882 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-buyer tag-child tag-convicted tag-darknet tag-high tag-murderer tag-profile">
+ tag-buyer tag-child tag-convicted tag-high tag-murderer tag-profile">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 30, 2017</span>
@@ -22,5 +22,7 @@ Convicted Darknet Buyer Found to be Child of High Profile Murderer"
 <p>Our other article about the Silk Road 2.0 redistributor explained the so-called “sophistication” of his scheme. It reads, “he [Paiva] bought MDMA, mescaline, LSD, AL-LAD, DMT, DOM, 25i-NBOMe, and liquid mushrooms” from the darknet. He sold the above drugs on the streets of Michigan. The district attorney explained that the defendant also sold cocaine, heroin and methamphetamine.</p>
 <p><a href="https://www.deepdotweb.com/tag/sentenced/">Michael Carlton Paiva received 30 months in prison</a> for narcotics distribution.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/murderer/" rel="tag">murderer</a> <a href="https://www.deepdotweb.com/tag/profile/" rel="tag">profile</a></span> <span style="display:none" class="updated">2017-03-30<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/buyer/" rel="tag">buyer</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/convicted/" rel="tag">convicted</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/murderer/" rel="tag">murderer</a> <a href="https://www.deepdotweb.com/tag/profile/" rel="tag">profile</a></span> <span style="display:none" class="updated">2017-03-30<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

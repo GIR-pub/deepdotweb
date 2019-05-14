@@ -4,6 +4,7 @@ title: "Bitcoin Price Update Oct. 18th, 2014"
 
 
 Posted by: DeepDotWeb
+
 <span>October 19, 2014</span>
 
 <p>The week of October 19, 2014, has been a fairly calm week on the Bitcoin markets—compared to last week, the week of the BearWhale. Aside from two bearish days, the overall activity of the week was positive, with the price increasing a total of 8.86%. Following the BearWhale excitement that pushed up the price towards the end of last week, this week was characterized by steady gains. Take a look at the daily, opening prices on the Bitstamp Bitcoin exchange for the week. Note that October 18<sup>th</sup> shows the closing price rather than the opening price. Additionally, notice that this report only covers six days, Monday through the end of Saturday. This is because last week&#8217;s report ran a day late, and so we covered the activity on Sunday, the beginning of which is usually the cutoff for our reports. Next week, the Bitcoin price update will return to the normal format.</p>

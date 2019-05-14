@@ -3,6 +3,7 @@ title: "Weekly Bitcoin Update – 14 September 2014"
 ---
 
 Posted by: DeepDotWeb
+
 <span>September 14, 2014</span>
 
 <p><em>A recap of the week&#8217;s biggest Bitcoin stories from the perspectives of the best sources for e-currency news around the web </em></p>

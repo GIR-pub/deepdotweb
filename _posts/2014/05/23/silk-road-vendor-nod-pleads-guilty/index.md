@@ -3,6 +3,7 @@ title: "Silk Road Vendor &#8220;Nod&#8221; Pleads guilty"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 23, 2014</span>
 
 <p>Steven Sadler known as The Former Silk Road Vendor &#8220;<a href="/2013/10/21/silk-road-drug-dealer-nod-was-flipped-by-feds/">Nod</a>&#8221; pleaded guilty for selling drugs over Silk Road with the help of his girlfriend, Jenna White. According to court documents they have sold 3,721 grams of cocaine, 1,375 grams of heroin, and 119 grams of methamphetamine.</p>

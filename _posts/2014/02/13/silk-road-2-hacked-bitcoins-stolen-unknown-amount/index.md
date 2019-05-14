@@ -3,9 +3,10 @@ title: "Silk Road 2 Hacked, All Bitcoins Stolen &#8211; $2.7 Miliion"
 ---
 
 Posted by: DeepDotWeb
+
 <span>February 13, 2014</span>
 
-<p><strong>Update 5</strong>: <span style="color: #ff0000;"><a title="Permalink to Alleged Silk Road 2.0 Hacker Doxxed!?" href="http://www.deepdotweb.com/2014/02/18/alleged-silk-road-2-0-hacker-doxxed/" rel="bookmark"><span style="color: #ff0000;">Alleged Silk Road 2.0 Hacker Doxxed!?</span></a></span></p>
+<p><strong>Update 5</strong>: <span style="color: #ff0000;"><a title="Permalink to Alleged Silk Road 2.0 Hacker Doxxed!?" href="2014/02/18/alleged-silk-road-2-0-hacker-doxxed/" rel="bookmark"><span style="color: #ff0000;">Alleged Silk Road 2.0 Hacker Doxxed!?</span></a></span></p>
 <p><strong>Update 4</strong>: <span style="color: #000000;"><a href="/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/"><span style="color: #000000;">Defcon&#8217;s Latest post: We Will Repay The Stolen Funds</span></a></span></p>
 <p><strong>Update 3: </strong><span style="color: #000000;"><a href="/2014/02/16/silk-road-2-0-admin-silk-road-is-not-dead/"><span style="color: #000000;">Silk Road 2 Admin &#8211; Silk Road is not dead!</span></a></span></p>
 <p><strong>Update 2</strong>: <span style="color: #000000;">As the time passes there are more and more suspicions that this was in fact a <strong>SCAM</strong> by the Silk Road staff &#8211; and not a hack, we will post more details about it once, and if we get the full picture.</span></p>

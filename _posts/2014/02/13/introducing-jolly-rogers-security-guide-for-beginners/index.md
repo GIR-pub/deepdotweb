@@ -4,6 +4,7 @@ title: "Introducing: Jolly Roger&#8217;s Security Guide for Beginners"
 
 
 Posted by: DeepDotWeb
+
 <span>February 13, 2014</span>
 
 <p>This guide is an amazing piece of work that was put together by once person, the Jolly Roger &#8211; we found the publication on the hub forums on this thread:<br/>

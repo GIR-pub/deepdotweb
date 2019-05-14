@@ -3,6 +3,7 @@ title: "Introducing: DeepDotWeb&#8217;s Discussion Forum"
 ---
 
 Posted by: DeepDotWeb
+
 <span>October 30, 2014</span>
 
 <p>After considering this idea for a long time and as an answer to the many requests we received &#8211; we have decided to add a discussion forum section to the site (yes, the style will be changed as soon as something nice will be found), with the main goal of providing an independent and free for all platform to be used mainly, but not only, for:</p>
@@ -22,7 +23,7 @@ Posted by: DeepDotWeb
 <li>Trip Report review contest <strong>With BTC prizes</strong></li>
 </ul>
 <p style="text-align: center;"> <span style="text-decoration: underline;">IMPORTANT</span>:  ** Please register anonymously! ** Use Tor ** Use Fake Mail to register ** No JS is required **</p>
-<h2 style="text-align: center;"><strong><a href="http://www.deepdotweb.com/forum/" target="_blank"><span style="color: #ff0000;">Click Here To Join!</span></a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="forum/" target="_blank"><span style="color: #ff0000;">Click Here To Join!</span></a></strong></h2>
 <p style="text-align: center;">(Since the forum is new please report any bugs)</p>
 <p style="text-align: center;"><span style="text-decoration: underline;">Please keep in mind that buying or selling ANYTHING is strictly prohibited and any attempt to do so will result in a ban.</span></p>
 <p style="text-align: center;"><a href="/imgs/2014/10/forum.png"><img class="aligncenter  wp-image-7917" src="/imgs/2014/10/forum.png" alt="forum" width="775" height="415" srcset="/imgs/2014/10/forum.png 1538w, /imgs/2014/10/forum-300x161.png 300w, /imgs/2014/10/forum-1024x549.png 1024w" sizes="(max-width: 775px) 100vw, 775px" /></a></p>

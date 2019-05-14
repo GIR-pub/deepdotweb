@@ -3,6 +3,7 @@ title: "Bitcoin News Roundup: 11-28-14"
 ---
 
 Posted by: DeepDotWeb
+
 <span>November 29, 2014</span>
 
 <p><em>Covering the week&#8217;s biggest Bitcoin stories from around the web</em></p>

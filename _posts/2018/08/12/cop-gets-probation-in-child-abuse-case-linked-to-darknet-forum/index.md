@@ -1,8 +1,8 @@
 ---
-Cop Gets Probation in Child Abuse Case Linked to Darknet Forum"
+Cop Gets Probation in Child Abuse Case Linked to Darknet Forum
 ---
 <article class="post-listing post-26551 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-abuse tag-case tag-child tag-cop tag-darknet tag-forum tag-linked tag-probation">
+ tag-abuse tag-case tag-child tag-cop tag-forum tag-linked tag-probation">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 12, 2018</span>
@@ -17,5 +17,7 @@ Cop Gets Probation in Child Abuse Case Linked to Darknet Forum"
 <p><a href="http://deepdotweb.com/tag/interpol">Interpol</a>, in conjunction with Homeland Security Investigations, identified Fair through the comments he had posted on a darknet forum. Through an undisclosed method, the investigators linked Fair’s comments to his home IP address. After Fair’s arrest, a judge sealed the court documents detailing the investigation. The documents may have disclosed the identity of the victim—one of the reasons the prosecution cited in argument supporting the plea agreement. The documents also may have detailed the investigation that connected anonymous comments on the darknet to an IP address.</p>
 <p>District Judge David A. Gilbert accepted the plea deal and gave an explanation for the unusually light sentence: Fair&#8217;s “extremely impressive record of service to the country.”</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/cop/" rel="tag">cop</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/linked/" rel="tag">linked</a> <a href="https://www.deepdotweb.com/tag/probation/" rel="tag">probation</a></span> <span style="display:none" class="updated">2018-08-12<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/cop/" rel="tag">cop</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/linked/" rel="tag">linked</a> <a href="https://www.deepdotweb.com/tag/probation/" rel="tag">probation</a></span> <span style="display:none" class="updated">2018-08-12<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

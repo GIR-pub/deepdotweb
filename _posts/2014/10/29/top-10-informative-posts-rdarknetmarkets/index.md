@@ -3,6 +3,7 @@ title: "10 Informative Posts From /r/DarkNetMarkets"
 ---
 
 Posted by: Greg Miller
+
 <span>October 29, 2014</span>
 
 <p>New to darknet markets? You heard about that pirate drug lord getting busted, and you want learn more and explore the seedier side of the web? Check out these 10 posts from <a href="http://www.reddit.com/r/darknetmarkets" target="_blank">/r/darknetmarket</a>, They will help learn what you need to know.</p>

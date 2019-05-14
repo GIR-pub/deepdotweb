@@ -3,8 +3,9 @@ title: "Agora Marketplace Changes Url Due to Heartbleed SSL Bug"
 ---
 
 Posted by: DeepDotWeb
+
 <span>April 12, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+
 <a href="/2014/04/12/agora-marketplace-changes-url-due-heartbleed-ssl-bug/#comments">20 Comments</a></span>
 </p>
 <p><strong><span style="text-decoration: underline;">Update</span>: Market is back up and running at the new url:  <span style="color: #ff0000;">http://agorahooawayyfoe.onion/register/Gc2h4eoFAE</span></strong></p>

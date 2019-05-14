@@ -3,6 +3,7 @@ title: "Silk Road Admin: We Have Repaid 82.09% Of the Stolen Funds"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 28, 2014</span>
 
 <p>The latest announcement from Defcon, the silk road admin, letting the world know that following the hack that happened few months ago, and the bitcoins that were stolen in the amount of around <a href="/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/">2.7$ million</a>, the have now repaid 82% out of all the stolen funds, and will pay the rest in about 30 days, this is the announcement from Defcon as it appeared on the forums (http://silkroad5v7dywlc.onion/index.php?topic=41683.0;topicseen):</p>

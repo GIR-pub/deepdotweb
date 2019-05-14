@@ -1,7 +1,7 @@
 ---
 Three Arrested In The Netherlands For Selling Ecstasy On The DarkNet
 ---
-<article class="post-listing post-19367 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-ecstasy tag-netherlands tag-selling">
+<article class="post-listing post-19367 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ecstasy tag-netherlands tag-selling">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>April 24, 2017</span>
@@ -9,7 +9,7 @@ Three Arrested In The Netherlands For Selling Ecstasy On The DarkNet
     <span><a href="https://www.deepdotweb.com/2017/04/24/three-arrested-netherlands-selling-ecstasy-darknet/#comments">2 Comments</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>Law enforcement authorities <a href="http://www.bndestem.nl/roosendaal/roosendalers-verhandelen-grote-hoeveelheden-drugs-met-instagramlogo-via-postpakketten~abc70646/">arrested</a> three men, aged 25, 26 and 47, in Roosendaal, <a href="https://www.deepdotweb.com/2017/04/05/purity-prices-drugs-purchased-online-versus-offline-netherlands/">the Netherlands</a>, for allegedly selling large amounts of <a href="https://www.deepdotweb.com/tag/ecstasy/">ecstasy</a> pills on the darknet.</p>
     <p><img class="wp-image-19374 aligncenter" src="/imgs/2017/04/https-images1-persgroep-net-rcs-fxklydff1xb5urhm.jpeg" alt="https://images1.persgroep.net/rcs/FxklyDfF1xb5UrHME_YhtTXzMMQ/diocontent/102416004/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&amp;quality=0.9" srcset="/imgs/2017/04/https-images1-persgroep-net-rcs-fxklydff1xb5urhm.jpeg 694w, /imgs/2017/04/https-images1-persgroep-net-rcs-fxklydff1xb5urhm-300x169.jpeg 300w" sizes="(max-width: 694px) 100vw, 694px"/></p>
     <p>On March 30, Dutch authorities detained the three suspects for suspected trafficking in large quantities of drugs, which were sent via the national postal service to abroad countries, including the United States, Belgium, and Germany. According to police information, the alleged dealers conducted their sales on dark net marketplaces.</p>
@@ -20,6 +20,8 @@ Three Arrested In The Netherlands For Selling Ecstasy On The DarkNet
     <p><a id="post-19367-_gjdgxs"></a> Recently, the Dutch media outlet RTL Nieuws <a href="http://nltimes.nl/2017/03/28/police-drug-crime-moving-limburg-brabant-rest-netherlands">reported</a> that criminals dealing with drugs seem to be moving their activities from the southern parts of the Netherlands to the rest of the country, especially when it comes to ecstasy. In Limburg, law enforcement authorities busted fewer drug labs last year and less drug waste was discovered than in the previous years. In Brabant, police discovered fewer narcotic labs, but more dumped drug waste. According to police information, the number of times law enforcement responded to reports of dumped drug waste in Brabant even doubled last year by an increase of 100%. The drug waste reports in Brabant represent more than half of the total of 177 responses to drug waste nationwide. But while these two provinces of the country still remain the leaders in drug-related crime, the differences are becoming less significant. As for an instance, 15 ecstasy labs were discovered in Brabant last year, and 14 in Limburg. Zuid-Holland is the third in the list, the region is not far behind with 12 ecstasy labs busted in the province in 2016. Based on these figures, law enforcement authorities believe that narcotic dealers and producers are moving their activities. The reason for the criminals’ move is because of the intensive law enforcement approach against drug crime in the southern provinces. However, the numbers are “still very high and the problem still very large”, the police added.</p>
     <p>&#8220;The problem is more serious and deeply rooted in society than previously thought&#8221;, a police statement said regarding the case.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a></span> <span style="display:none" class="updated">2017-04-24</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a></span> <span style="display:none" class="updated">2017-04-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    
+    </div>
+</article>
+

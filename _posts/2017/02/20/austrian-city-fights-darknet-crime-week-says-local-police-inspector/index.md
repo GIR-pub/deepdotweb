@@ -1,7 +1,7 @@
 ---
-An Austrian City Fights Darknet Crime Once a Week, Says Local Police Inspector"
+An Austrian City Fights Darknet Crime Once a Week, Says Local Police Inspector
 ---
-<article class="post-listing post-18245 post type-post status-publish format-standard has-post-thumbnail hentry  tag-austrian tag-city tag-crime tag-darknet tag-fights tag-inspector tag-local tag-police tag-week">
+<article class="post-listing post-18245 post type-post status-publish format-standard has-post-thumbnail hentry  tag-austrian tag-city tag-crime tag-fights tag-inspector tag-local tag-police tag-week">
     
     <div class="post-inner">
     
@@ -31,7 +31,7 @@ An Austrian City Fights Darknet Crime Once a Week, Says Local Police Inspector"
     
     
     </div><!-- .entry /-->
-    <a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/city/" rel="tag">city</a> <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/fights/" rel="tag">fights</a> <a href="https://www.deepdotweb.com/tag/inspector/" rel="tag">inspector</a> <a href="https://www.deepdotweb.com/tag/local/" rel="tag">local</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> </span>				<span style="display:none" class="updated">2017-02-20</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/austrian/" rel="tag">austrian</a> <a href="https://www.deepdotweb.com/tag/city/" rel="tag">city</a> <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/fights/" rel="tag">fights</a> <a href="https://www.deepdotweb.com/tag/inspector/" rel="tag">inspector</a> <a href="https://www.deepdotweb.com/tag/local/" rel="tag">local</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> </span>				<span style="display:none" class="updated">2017-02-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

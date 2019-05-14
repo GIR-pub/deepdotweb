@@ -1,8 +1,8 @@
 ---
-Research: A novel intelligent rule-based deep web crawler"
+Research: A novel intelligent rule-based deep web crawler
 ---
 <article class="post-listing post-27060 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-crawler tag-deep tag-intelligent tag-research tag-rulebased tag-web">
+tag-crawler tag-intelligent tag-research tag-rulebased tag-web">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>October 26, 2018</span>
@@ -24,5 +24,7 @@ tag-crawler tag-deep tag-intelligent tag-research tag-rulebased tag-web">
 <p>The retrieval performance of the new crawler has been compared with the retrieval performance of Google, and it has been proven that the new crawler achieves similar efficiency in procession of retrieval.</p>
 <p>Coverage is another metric that has been used to measure the new crawler&#8217;s performance. Coverage refers to the ratio between the number of crawled webpages and the total number of webpages present in the database of the website. The coverage rate of the new crawler was 90% of that of other search engine systems.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/crawler/" rel="tag">crawler</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/intelligent/" rel="tag">intelligent</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/rulebased/" rel="tag">rulebased</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-10-26<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/crawler/" rel="tag">crawler</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/intelligent/" rel="tag">intelligent</a> <a href="https://www.deepdotweb.com/tag/research/" rel="tag">research</a> <a href="https://www.deepdotweb.com/tag/rulebased/" rel="tag">rulebased</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2018-10-26<a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
+</div>
+</article>
 

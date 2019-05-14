@@ -1,8 +1,8 @@
 ---
-How do Russians run business on darknet?"
+How do Russians run business on darknet?
 ---
 <article class="post-listing post-24294 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-business tag-darknet tag-run tag-russians">
+ tag-business tag-run tag-russians">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/teonanacati/" title="">Teonanacati </a></span>
 <span>January 6, 2018</span>
@@ -30,5 +30,7 @@ How do Russians run business on darknet?"
 <p><img class="wp-image-24302" src="/imgs/2018/01/word-image-15.png" srcset="/imgs/2018/01/word-image-15.png 738w, /imgs/2018/01/word-image-15-300x191.png 300w" sizes="(max-width: 738px) 100vw, 738px" /></p>
 <p>An employer pays for supplies as well. After a job is completed a graffiti maker files a report in which photos and GPS coordinates are included.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/run/" rel="tag">run</a> <a href="https://www.deepdotweb.com/tag/russians/" rel="tag">russians</a></span> <span style="display:none" class="updated">2018-01-06<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/business/" rel="tag">business</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/run/" rel="tag">run</a> <a href="https://www.deepdotweb.com/tag/russians/" rel="tag">russians</a></span> <span style="display:none" class="updated">2018-01-06<a href="https://www.deepdotweb.com/author/teonanacati/" title="Posts by Teonanacati" rel="author">Teonanacati</a></strong></div>
+</div>
+</article>
 

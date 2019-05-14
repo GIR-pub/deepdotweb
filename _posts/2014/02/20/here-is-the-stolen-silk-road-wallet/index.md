@@ -4,6 +4,7 @@ title: "Here is the Stolen Silk Road Wallet?"
 
 
 Posted by: DeepDotWeb
+
 <span>February 20, 2014</span>
 
 <p>This is an interesting read that was posted as an item on Silk Road &#8220;money&#8221; category, we have been chatting with this vendor for the last few days and really tried to understand the evidence he is trying to provide here, and to be honest, it just made me very confused, so i decided to post this &#8211; so people that are more into the analysis of bitcoin transactions than me can read and decide for themselves if this information is real or not and what is the bottom line of all of this?</p>

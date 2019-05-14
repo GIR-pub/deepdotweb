@@ -3,6 +3,7 @@ title: "10 Myths About Bitcoin"
 ---
 
 Posted by: Greg Miller
+
 <span>November 5, 2014</span>
     
 

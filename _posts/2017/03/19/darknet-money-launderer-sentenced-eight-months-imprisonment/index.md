@@ -2,7 +2,7 @@
 Darknet Money Launderer Sentenced to Eight Months Imprisonment
 ---
 <article class="post-listing post-18687 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-darknet tag-imprisonment tag-launderer tag-money tag-months tag-sentenced">
+ tag-imprisonment tag-launderer tag-money tag-months tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 19, 2017</span>
@@ -18,5 +18,7 @@ Darknet Money Launderer Sentenced to Eight Months Imprisonment
 <p>The US closed the case against Cottrell but many questions still remain unanswered. For instance, from the very beginning, a darknet entity dubbed the “banker” scored a spot in the Criminal Complaint. Based on the services offered, said pseudonym matched the financial sector Cottrell operated in. However, court documents mentioned Cottrell via “Bill” but “the banker” never made another significant appearance.</p>
 <p>In addition to his sentence of time served, Judge Diane J. Humetewa required a restitution payment from Cottrell – $300,000.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/imprisonment/" rel="tag">imprisonment</a> <a href="https://www.deepdotweb.com/tag/launderer/" rel="tag">launderer</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-03-19<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/imprisonment/" rel="tag">imprisonment</a> <a href="https://www.deepdotweb.com/tag/launderer/" rel="tag">launderer</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-03-19<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

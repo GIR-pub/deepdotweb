@@ -3,6 +3,7 @@ title: "Is The Bitcoin Dev Team Serious About Anonymity?"
 ---
 
 Posted by: Greg Miller
+
 <span>November 17, 2014</span>
 
 <p>When people think about innovation in the anonymity of crypto-currencies, very rarely do people think about Bitcoin, as a source for that. Many people are looking at various Altcoins (crypto-currency alternatives to Bitcoin) for crypto-currency anonymity, like Darkcoin, Anoncoin, and Monero. People have pushed Bitcoin aside, not even considering it a competitor but do the people behind Bitcoin&#8217;s development have to say about it?</p>

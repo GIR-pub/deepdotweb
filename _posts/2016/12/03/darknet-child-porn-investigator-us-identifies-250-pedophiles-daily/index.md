@@ -1,7 +1,7 @@
 ---
 Darknet Child Porn Investigator: The US Identifies 250 Pedophiles Daily
 ---
-<article class="post-listing post-16723 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4605 tag-child tag-daily tag-darknet tag-identifies tag-investigator tag-pedophiles tag-porn">
+<article class="post-listing post-16723 post type-post status-publish format-standard has-post-thumbnail hentry  tag-4605 tag-child tag-daily tag-identifies tag-investigator tag-pedophiles tag-porn">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 3, 2016</span>

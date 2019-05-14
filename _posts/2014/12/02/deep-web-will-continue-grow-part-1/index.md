@@ -3,9 +3,10 @@ title: "Why The Deep Web Will Continue To Grow Part 1"
 ---
 
 Posted by: Greg Miller
+
 <span>December 2, 2014</span>
 
-<p><strong>All the parts: <a href="http://www.deepdotweb.com/tag/DeepWebGrow/">#DeepWebGrow</a></strong></p>
+<p><strong>All the parts: <a href="tag/DeepWebGrow/">#DeepWebGrow</a></strong></p>
 <p>When the Silk Road was shut down, the victory call was ringed loudly by those for the war on drugs and a Bitcoin community that, increasingly, wants to be distanced from the deep web, especially the Silk Road. People wanted the whole online drug trade to be over with and took this as a opportunity to free themselves from worrying about such a thing.</p>
 <p>Shortly after though, many articles pop up, such as “The Silk Road Is Dead. Long Live The Silk Road.” One of the main focuses of the article was that the number of product listings have grown since demise of the Silk Road. A shocking and for most, counterintuitive, fact. It won&#8217;t end there though. The deep web will continue to grow to even greater sizes and here is why.</p>
 <p><strong>Losing The Game Of Whack-A-Mole</strong></p>

@@ -1,7 +1,7 @@
 ---
 Ex-Federal Police Officer Said Authorities Are Overwhelmed by the Darknet
 ---
-<article class="post-listing post-17310 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authorities tag-darknet tag-exfederal tag-officer tag-overwhelmed tag-police">
+<article class="post-listing post-17310 post type-post status-publish format-standard has-post-thumbnail hentry  tag-authorities tag-exfederal tag-officer tag-overwhelmed tag-police">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 4, 2017</span>
@@ -19,6 +19,8 @@ Ex-Federal Police Officer Said Authorities Are Overwhelmed by the Darknet
     <p>Organized crime threatens us all. In the case of the fight, it is above all the law on the disposal of wealth that is important, with which the assets of unclear origin are easier to recover. This grabs the criminals where it hurts them. The changed cyber communication challenged the police to change their methods. We started developing and therefore using tools for collecting and examining mass data. Also to monitor encrypted communications. This costs money, requires qualified personnel, But is expected to combat cybercrime effectively.</p>
     <p>These changes take time and money to ever reach their full potential, Hein acknowledged. He said that “at heart,” he shared the mentality of any officer of the law. And if the option existed, Hein would put the uniform back on.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/exfederal/" rel="tag">exfederal</a> <a href="https://www.deepdotweb.com/tag/officer/" rel="tag">officer</a> <a href="https://www.deepdotweb.com/tag/overwhelmed/" rel="tag">overwhelmed</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2017-01-04</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/authorities/" rel="tag">authorities</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/exfederal/" rel="tag">exfederal</a> <a href="https://www.deepdotweb.com/tag/officer/" rel="tag">officer</a> <a href="https://www.deepdotweb.com/tag/overwhelmed/" rel="tag">overwhelmed</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a></span> <span style="display:none" class="updated">2017-01-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

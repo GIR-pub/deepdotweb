@@ -3,10 +3,11 @@ title: "Silk Road Tales: Oracle&#8217;s Memoirs"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 29, 2014</span>
 
 <p style="text-align: center;"><strong>Take it for what you want in terms of truth and reliability, there are no guarentees here and we do not endorse / vouch or in anyway confirm or stand behind anything mentioned in this post &#8211; Its re posted here because its an interesting read and interesting description of the events, even if you consider this to be 100% fictional.</strong></p>
-<p>And back to the old Silk Road Drama&#8217;s again. When <a href="http://www.deepdotweb.com/?s=Oracle">Oracle</a>, a former silk road employee who was in charge of the  &#8220;Psy Ops&#8221; posted a 2  months ago on the hub that she will be posting her memoirs from the silk road time revealing the inside story behind most if the known silk road stories:</p>
+<p>And back to the old Silk Road Drama&#8217;s again. When <a href="?s=Oracle">Oracle</a>, a former silk road employee who was in charge of the  &#8220;Psy Ops&#8221; posted a 2  months ago on the hub that she will be posting her memoirs from the silk road time revealing the inside story behind most if the known silk road stories:</p>
 <blockquote><p>Hello fellow Hubbers, Oracle (from SR2) here.</p>
 <p>Shortly (within a couple days), I am going to be posting/publishing my &#8220;memoirs&#8221; so to speak regarding my activities on SR2.. some of the behind the scenes stuff that happened in November, December and in February that I was privy too. Some of it is going to make for some very, very interesting reading. Sure to ruffle some feathers as it won&#8217;t be sugarcoated or &#8216;spun&#8217;. Guess what? I don&#8217;t give a shit. Somethings the community should know.. and yes, even things I was apart of that weren&#8217;t so nice. I&#8217;m still trying to figure out the best format/and how detailed I want to be.</p></blockquote>
 <p>Two months passed and 10 pages of comments later, the thread became a joke (http://thehub7dnl5nmcz5.onion/index.php?topic=3072.0), nothing was published, until now &#8211; when something that seem to be one of the finals drafts of the memoirs was posted on silk road forums here (http://silkroad5v7dywlc.onion/index.php?topic=44744.0)<strong>.</strong></p>

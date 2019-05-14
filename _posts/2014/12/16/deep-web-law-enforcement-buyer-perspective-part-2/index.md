@@ -2,10 +2,10 @@
 title: "Deep Web &#038; Law Enforcement: From a Buyer Perspective, Part 2"
 ---
 
-Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+Posted by: Allen Hoffmann, JD
+
 <span>December 16, 2014</span>
 
-<p><em>Both Parts are available at this tag <a href="http://www.deepdotweb.com/tag/BuyerPerspective/">#BuyerPerspective</a></em></p>
 <p><strong>Meet Matt the intelligent buyer</strong></p>
 <p>Matt never uses TOR at home, instead preferring to carry an encrypted USB drive with the TOR browser bundle on board and uses internet cafes and public libraries; he leaves his phone at home/work when he goes to use TOR, or removes the battery from the phone completely before he heads in that direction, preferably using public transportation. If he absolutely MUST use a computer of his own, he uses a TAILS DVD or USB with no persistent volume. He does his best to avoid CCTV or going places where he is known to employees or residents.</p>
 <p>Matt is very careful to make sure that aspects of his &#8216;dark market&#8217; online persona, in terms of username and identifying details, don&#8217;t correlate with any of his real life details, or for that matter, any usernames or similar information he uses on the clear net.</p>

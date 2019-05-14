@@ -1,7 +1,7 @@
 ---
-Greek Law Enforcement Arrest BTC-e Founder for Laundering Billions in Bitcoin"
+Greek Law Enforcement Arrest BTC-e Founder for Laundering Billions in Bitcoin
 ---
-<article class="post-listing post-21632 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-billions tag-bitcoin tag-btce tag-enforcement tag-founder tag-greek tag-laundering tag-law">
+<article class="post-listing post-21632 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-billions tag-bitcoin tag-btce tag-founder tag-greek tag-laundering tag-law">
     
     <div class="post-inner">
     
@@ -28,7 +28,7 @@ Greek Law Enforcement Arrest BTC-e Founder for Laundering Billions in Bitcoin"
     
     
     </div><!-- .entry /-->
-    <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/billions/" rel="tag">billions</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/btce/" rel="tag">btce</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/founder/" rel="tag">founder</a> <a href="https://www.deepdotweb.com/tag/greek/" rel="tag">greek</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a></span>				<span style="display:none" class="updated">2017-07-28</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/billions/" rel="tag">billions</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/btce/" rel="tag">btce</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/founder/" rel="tag">founder</a> <a href="https://www.deepdotweb.com/tag/greek/" rel="tag">greek</a> <a href="https://www.deepdotweb.com/tag/laundering/" rel="tag">laundering</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a></span>				<span style="display:none" class="updated">2017-07-28</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/dividedby0/" title="Posts by DividedBy0" rel="author">DividedBy0</a></strong></div>
     
     

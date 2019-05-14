@@ -1,7 +1,7 @@
 ---
 Bavarian Man Sentenced to Prison for 16 Darknet Purchases in 2013."
 ---
-<article class="post-listing post-16426 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-620 tag-bavarian tag-darknet tag-man tag-prison tag-purchases tag-sentenced">
+<article class="post-listing post-16426 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-620 tag-bavarian tag-man tag-prison tag-purchases tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>November 14, 2016</span>

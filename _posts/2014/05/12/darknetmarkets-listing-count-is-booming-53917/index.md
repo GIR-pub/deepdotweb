@@ -3,6 +3,7 @@ title: "DarkNetMarkets Listing Count *IS* Booming: 53,917 Listings!"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 12, 2014</span>
 
 <p>Just two weeks ago we posted a study that <a href="/2014/04/30/darknetmarkets-listing-count-is-booming-approaching-50000/">compared</a> the listing count of the DarkNetMarkets the total listing count in the first Silk Road,</p>
@@ -42,10 +43,10 @@ Posted by: DeepDotWeb
 <p><strong>Total of totals:</strong> 53,917.</p>
 <p>&#8212;&#8212;-</p>
 <p><strong>Some insights about the markets just by looking at these numbers:</strong></p>
-<p><a href="http://www.deepdotweb.com/marketplace-directory/listing/evolution-marketplace">Evolution</a> &#8211; is indeed <a href="/2014/05/10/evolution-marketplace-staff-speak-we-are-growing-fast/">Growing fats</a> (taking its place as the third largest market)</p>
-<p><a href="http://www.deepdotweb.com/marketplace-directory/listing/pandora-market">Pandora</a> &amp; <a href="http://www.deepdotweb.com/marketplace-directory/listing/silk-road-2-0">Silk Road</a> &#8211; Did not crash after being &#8220;hacked&#8221; but kept growing. &#8211; <a href="/2014/03/20/pandora-hacked-losing-50-btc/">Pandora Hack</a>  &#8211; <a href="/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/">Silk Road 2 Hacked</a></p>
-<p><a href="http://www.deepdotweb.com/marketplace-directory/listing/hydra-marketplace">Hydra</a> &#8211; Being popular as its the newest market out of the 7 largest markets. (there is also <a href="http://www.deepdotweb.com/marketplace-directory/listing/andromeda-market">Andromeda</a> but it was <a href="/2014/05/01/marketplace-merge-darkbay-andromeda/">merged</a> with Darkbay &#8211; what probably counts in the listing count)</p>
-<p><a href="http://www.deepdotweb.com/marketplace-directory/listing/the-marketplace-i2p">The Marketplace</a> &#8211; Still growing slow and has a policy of one listing per product per vendor &#8211; which means that it had higher count if he was operating in the same policy as the other markets.</p>
+<p><a href="marketplace-directory/listing/evolution-marketplace">Evolution</a> &#8211; is indeed <a href="/2014/05/10/evolution-marketplace-staff-speak-we-are-growing-fast/">Growing fats</a> (taking its place as the third largest market)</p>
+<p><a href="marketplace-directory/listing/pandora-market">Pandora</a> &amp; <a href="marketplace-directory/listing/silk-road-2-0">Silk Road</a> &#8211; Did not crash after being &#8220;hacked&#8221; but kept growing. &#8211; <a href="/2014/03/20/pandora-hacked-losing-50-btc/">Pandora Hack</a>  &#8211; <a href="/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/">Silk Road 2 Hacked</a></p>
+<p><a href="marketplace-directory/listing/hydra-marketplace">Hydra</a> &#8211; Being popular as its the newest market out of the 7 largest markets. (there is also <a href="marketplace-directory/listing/andromeda-market">Andromeda</a> but it was <a href="/2014/05/01/marketplace-merge-darkbay-andromeda/">merged</a> with Darkbay &#8211; what probably counts in the listing count)</p>
+<p><a href="marketplace-directory/listing/the-marketplace-i2p">The Marketplace</a> &#8211; Still growing slow and has a policy of one listing per product per vendor &#8211; which means that it had higher count if he was operating in the same policy as the other markets.</p>
 <p><a href="/imgs/2014/05/count.png"><img class="aligncenter  wp-image-5519" src="/imgs/2014/05/count.png" alt="count" width="655" height="533" srcset="/imgs/2014/05/count.png 927w, /imgs/2014/05/count-300x244.png 300w" sizes="(max-width: 655px) 100vw, 655px"/></a></p>
 
 Updated: 2014-05-12

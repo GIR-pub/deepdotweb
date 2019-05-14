@@ -3,6 +3,7 @@ title: "Like to Write? Dark Net / Bitcoin Enthusiast? We Want You!"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 19, 2014</span>
 
 <p><strong>This ad is always relevant</strong>. As our site kept growing massively over the past few months, it became pretty hard for our very small and busy team (1 &#8211; 3 people &#8211; depends when) to keep up with all the work that we WANT to do. So, for the past month we are trying as hard as we can to find more people to work with us as writers to help us keep the content up to date, news flowing  &#8211; and expand to new areas we did not touch before. Our goal is to build a team of people that are well familiar with the DNM world and the online world in general and want to help other people stay safer and informed!</p>

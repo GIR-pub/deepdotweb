@@ -1,7 +1,7 @@
 ---
-QuickNet &#8211; A Faster, More Efficient Deep Web Network Architecture"
+QuickNet &#8211; A Faster, More Efficient Deep Web Network Architecture
 ---
-<article class="post-listing post-17870 post type-post status-publish format-standard has-post-thumbnail hentry  tag-architecture tag-deep tag-efficient tag-faster tag-network tag-quicknet tag-web">
+<article class="post-listing post-17870 post type-post status-publish format-standard has-post-thumbnail hentry  tag-architecture tag-efficient tag-faster tag-network tag-quicknet tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
     <span>January 31, 2017</span>
@@ -30,6 +30,8 @@ QuickNet &#8211; A Faster, More Efficient Deep Web Network Architecture"
     <p>One of the most interesting features of QuickNet is its significantly fast architecture convergence (within 70 epochs, 80% accuracy). This can open the door to networks&#8217; updating and local training in the near future.</p>
     <p>Even much better results can be yielded with further hyperparameter research along with experimentation using various adaptive optimizers e.g. RMSProp or Adam.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/architecture/" rel="tag">architecture</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/efficient/" rel="tag">efficient</a> <a href="https://www.deepdotweb.com/tag/faster/" rel="tag">faster</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/quicknet/" rel="tag">quicknet</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-01-31</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/architecture/" rel="tag">architecture</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/efficient/" rel="tag">efficient</a> <a href="https://www.deepdotweb.com/tag/faster/" rel="tag">faster</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/quicknet/" rel="tag">quicknet</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-01-31</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/tamersameeh/" title="Posts by Tamer Sameeh" rel="author">Tamer Sameeh</a></strong></div>
-    
+    </div>
+</article>
+

@@ -3,6 +3,7 @@ title: "Legal Issues? Get Advice From Anonymous DeepWeb Lawyer"
 ---
 
 Posted by: DeepDotWeb
+
 <span>July 9, 2014</span>
 
 <p>Just came across this interesting thread on SR2 forum, I must admit i still did not have the chance to contact them and ask for more details about this service but i like the idea so i though i should mention it and maybe we will get some reports from people who contacted this lawyer for advice (http://silkroad5v7dywlc.onion/index.php?topic=45693.0;topicseen):</p>

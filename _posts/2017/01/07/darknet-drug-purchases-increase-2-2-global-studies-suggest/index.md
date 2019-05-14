@@ -1,7 +1,7 @@
 ---
 Darknet Drug Purchases Increase by 2.2%, Global Studies Suggest
 ---
-<article class="post-listing post-17367 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2700 tag-darknet tag-global tag-increase tag-purchases tag-studies tag-suggest">
+<article class="post-listing post-17367 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2700 tag-global tag-increase tag-purchases tag-studies tag-suggest">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 7, 2017</span>
@@ -23,6 +23,8 @@ Darknet Drug Purchases Increase by 2.2%, Global Studies Suggest
     <p>The Global Drug Survey organization similarly concluded that cannabis products were most commonly bought in the darknet.</p>
     <p>“Globally almost in 1 in 10 participants (9.3%) reported ever buying drugs off the dark-net with those reporting last year dark-net purchase rising from 4.5% to 6.7%. MDMA, cannabis, new or novel substances (including 2C-B and DMT) and LSD are the drugs most commonly bought,” <a href="https://www.globaldrugsurvey.com/past-findings/the-global-drug-survey-2016-findings/">read</a> the Global Drug Survey’s report.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/22/" rel="tag">22</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/purchases/" rel="tag">purchases</a> <a href="https://www.deepdotweb.com/tag/studies/" rel="tag">studies</a> <a href="https://www.deepdotweb.com/tag/suggest/" rel="tag">suggest</a></span> <span style="display:none" class="updated">2017-01-07</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/22/" rel="tag">22</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/increase/" rel="tag">increase</a> <a href="https://www.deepdotweb.com/tag/purchases/" rel="tag">purchases</a> <a href="https://www.deepdotweb.com/tag/studies/" rel="tag">studies</a> <a href="https://www.deepdotweb.com/tag/suggest/" rel="tag">suggest</a></span> <span style="display:none" class="updated">2017-01-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    
+    </div>
+</article>
+

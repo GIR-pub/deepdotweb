@@ -2,7 +2,7 @@
 City Ceases Darknet Machine Learning Project
 ---
 <article class="post-listing post-18696 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-ceases tag-city tag-darknet tag-learning tag-machine tag-project">
+ tag-ceases tag-city tag-learning tag-machine tag-project">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 20, 2017</span>
@@ -26,5 +26,7 @@ City Ceases Darknet Machine Learning Project
 <p>The Department heard no response from their superiors until 2017. Superintendent Paul Fitzgerald recommended that Chief William Evans table the project for the time being. The idea was good, but many of the candidates were overqualified for the position. Behind that, he said that he saw no need for an invasion of privacy at that scale. However, he hopes to see a similar project in the future—<em>with citizen&#8217;s privacy in mind</em>.</p>
 <p><img class="wp-image-18701 aligncenter" src="/imgs/2017/03/word-image-10.jpeg" srcset="/imgs/2017/03/word-image-10.jpeg 899w, /imgs/2017/03/word-image-10-300x150.jpeg 300w, /imgs/2017/03/word-image-10-660x330.jpeg 660w" sizes="(max-width: 899px) 100vw, 899px" /></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/ceases/" rel="tag">ceases</a> <a href="https://www.deepdotweb.com/tag/city/" rel="tag">city</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/learning/" rel="tag">learning</a> <a href="https://www.deepdotweb.com/tag/machine/" rel="tag">machine</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a></span> <span style="display:none" class="updated">2017-03-20<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/ceases/" rel="tag">ceases</a> <a href="https://www.deepdotweb.com/tag/city/" rel="tag">city</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/learning/" rel="tag">learning</a> <a href="https://www.deepdotweb.com/tag/machine/" rel="tag">machine</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a></span> <span style="display:none" class="updated">2017-03-20<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

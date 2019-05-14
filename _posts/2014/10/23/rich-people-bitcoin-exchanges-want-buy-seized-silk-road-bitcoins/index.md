@@ -3,6 +3,7 @@ title: "Why Did Rich People &#038; BTC Exchanges Want To Buy The Seized SR Coins
 ---
 
 Posted by: Greg Miller
+
 <span>October 23, 2014</span>
 
 <p>When the US Marshall sold the 30,000 BTC, it made big news. People claimed the act fully legitimized Bitcoin and that is was a big victory for clearnet Bitcoin over its deep web counterpart. What they didn&#8217;t realized is that they just tested a new business for the deep web.</p>

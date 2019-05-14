@@ -1,7 +1,7 @@
 ---
 Latest Shadow Brokers Dump Thrives on the Darknet
 ---
-<article class="post-listing post-19663 post type-post status-publish format-standard has-post-thumbnail hentry  tag-brokers tag-darknet tag-dump tag-latest tag-shadow tag-thrives">
+<article class="post-listing post-19663 post type-post status-publish format-standard has-post-thumbnail hentry  tag-brokers tag-dump tag-latest tag-shadow tag-thrives">
     
     <div class="post-inner">
     
@@ -17,7 +17,7 @@ Latest Shadow Brokers Dump Thrives on the Darknet
     </p>
     <div class="clear"></div>
     
-    
+    <div class="entry">
     
     <p>The Shadow Brokers need no introduction. The same can be said for the batch of stolen files the Shadow Brokers recently set loose. And naturally, the stolen files made their rounds across the internet. As with many things in this sector, it took no time before the darknet started crawling with both the files and communities—new and old—centered around the collection of hacking tools and zero-day exploits.</p>
     <p>According to an analyst team at SenseCy, a cyber intelligence group, some underground hacking communities have hit their highest point yet. Not only because these hacking tools proved themselves some of the most powerful tools to date, but a interest spike too. This should come as little surprise as well; every time the Shadow Brokers surfaced in the news, even the <a href="https://www.deepdotweb.com/tag/web/">mainstream media involved themselves</a>.</p>
@@ -34,7 +34,7 @@ Latest Shadow Brokers Dump Thrives on the Darknet
     
     
     </div><!-- .entry /-->
-    <a href="https://www.deepdotweb.com/tag/brokers/" rel="tag">brokers</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dump/" rel="tag">dump</a> <a href="https://www.deepdotweb.com/tag/latest/" rel="tag">latest</a> <a href="https://www.deepdotweb.com/tag/shadow/" rel="tag">shadow</a> <a href="https://www.deepdotweb.com/tag/thrives/" rel="tag">thrives</a></span>				<span style="display:none" class="updated">2017-05-06</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/brokers/" rel="tag">brokers</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dump/" rel="tag">dump</a> <a href="https://www.deepdotweb.com/tag/latest/" rel="tag">latest</a> <a href="https://www.deepdotweb.com/tag/shadow/" rel="tag">shadow</a> <a href="https://www.deepdotweb.com/tag/thrives/" rel="tag">thrives</a></span>				<span style="display:none" class="updated">2017-05-06</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

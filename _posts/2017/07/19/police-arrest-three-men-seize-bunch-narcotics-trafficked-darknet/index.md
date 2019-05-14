@@ -1,7 +1,7 @@
 ---
 Police Arrest Three Men and Seize Bunch of Narcotics Trafficked From Darknet
 ---
-<article class="post-listing post-21416 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-bunch tag-darknet tag-men tag-narcotics tag-police tag-seize tag-trafficked">
+<article class="post-listing post-21416 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-bunch tag-men tag-narcotics tag-police tag-seize tag-trafficked">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/john/" title="">JOHN </a></span>
     <span>July 19, 2017</span>
@@ -9,7 +9,7 @@ Police Arrest Three Men and Seize Bunch of Narcotics Trafficked From Darknet
     <span><a href="https://www.deepdotweb.com/2017/07/19/police-arrest-three-men-seize-bunch-narcotics-trafficked-darknet/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>The course to bring illegal Darknet traders down to the law inspired a prohibition exercise which led to the arrest of three: Mohammad Abdul Waheb (20), Mohammad Abdul Quddos (20) and Calvin Mascarenhas (19). They were arrested for being in possession of narcotics suspected to have been bought from the Darknet marketplace. The three <a href="https://telanganatoday.com/three-possession-narcoticspsychotropic-drugs-held">arrested suspects</a> are residents of Chandrayangutta, Ismail Nagar, and Bowenpally respectively.</p>
     <p>Akun Sabharwal, the Prohibition, and Excise director, revealed that Mohammad Abdul Waheb is a student, Mohammad Abdul Quddos is a private firm worker, and Calvin Mascarenhas is a musician.</p>
     <p>Darknet marketplace is used by several individuals in India, and a close source has revealed that the suspects include some notable celebrities and also school children. A senior police officer hinted: “The gang was selling the contraband to one highly reputed film producer among others and the details will be revealed once the investigation is completed.”</p>
@@ -29,6 +29,8 @@ Police Arrest Three Men and Seize Bunch of Narcotics Trafficked From Darknet
     <p>“I ordered 20 150 mcg acid blotters from the original Silk Road. It took two months to come and it was not LSD&#8230; Still fun though. After that, I’ve ordered MDMA, LSD, DMT, Ketamine and Adderall multiple times on Silk Road 2 and Agora. After my first experience, I made sure to test all my drugs before using with a 0 20 40 60 80 100 120 Interest for Bitcoins: India 0 20 40 60 80 100 120 Interest for Bitcoins: World stockpile of Ehrlich reagent I had shipped to me. Fortunately, since then all the drugs I’ve received have been clean. I faced problems twice, but the vendors have always been nice enough to ship more. Delivery takes between 1-2 months.”</p>
     <p>Drugs that get to India from the Darknet marketplaces are repackaged and sold on the local markets.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/bunch/" rel="tag">bunch</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/seize/" rel="tag">seize</a> <a href="https://www.deepdotweb.com/tag/trafficked/" rel="tag">trafficked</a></span> <span style="display:none" class="updated">2017-07-19</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/bunch/" rel="tag">bunch</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/narcotics/" rel="tag">narcotics</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/seize/" rel="tag">seize</a> <a href="https://www.deepdotweb.com/tag/trafficked/" rel="tag">trafficked</a></span> <span style="display:none" class="updated">2017-07-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/john/" title="Posts by JOHN" rel="author">JOHN</a></strong></div>
-    
+    </div>
+</article>
+

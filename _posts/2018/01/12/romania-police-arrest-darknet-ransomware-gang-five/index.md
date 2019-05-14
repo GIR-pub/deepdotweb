@@ -1,8 +1,8 @@
 ---
-Romania Police Arrest a Darknet Ransomware Gang of Five"
+Romania Police Arrest a Darknet Ransomware Gang of Five
 ---
 <article class="post-listing post-24387 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-arrest tag-darknet tag-gang tag-police tag-ransomware tag-romania">
+ tag-arrest tag-gang tag-police tag-ransomware tag-romania">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>January 12, 2018</span>
@@ -26,5 +26,7 @@ Romania Police Arrest a Darknet Ransomware Gang of Five"
 <p>It is speculated that North Korea hacked bitcoin from individuals and the various agencies to balance their economic variables following the sanctions leveled against them by the US government.</p>
 <p>Cybercrime can be prevented by undertaking proactive measures such as updating a computer’s antivirus and taking basic ethics of internet usage serious.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/gang/" rel="tag">gang</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/romania/" rel="tag">romania</a></span> <span style="display:none" class="updated">2018-01-12<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/gang/" rel="tag">gang</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/ransomware/" rel="tag">ransomware</a> <a href="https://www.deepdotweb.com/tag/romania/" rel="tag">romania</a></span> <span style="display:none" class="updated">2018-01-12<a href="https://www.deepdotweb.com/author/samjona/" title="Posts by Sam Jona" rel="author">Sam Jona</a></strong></div>
+</div>
+</article>
 

@@ -1,8 +1,8 @@
 ---
-City to Teach Kindergartners About Drugs, Darknet, and Addiction"
+City to Teach Kindergartners About Drugs, Darknet, and Addiction
 ---
 <article class="post-listing post-18481 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-addiction tag-city tag-darknet tag-kindergartners tag-teach">
+ tag-addiction tag-city tag-kindergartners tag-teach">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 7, 2017</span>
@@ -20,5 +20,7 @@ City to Teach Kindergartners About Drugs, Darknet, and Addiction"
 <p><a id="post-18481-_gjdgxs"></a><em>“Meanwhile it was also easy to get drugs and prohibited substances at all. The Internet, especially the so-called Dark Net, plays an important role here, which is no longer alien to the young people today. The risk of being discovered at all is also being lost, and these new paths mean that the risk is completely reduced,&#8221; Holdmann said.</em></p>
 <p>They argued that since drugs now came straight through the mail to a child&#8217;s front door, the risk of getting caught decreased tremendously. As more of the “youth,” started ordering and using marijuana, other children saw fewer and fewer risks associated with cannabis use. Therefore, drug education, including the risks associated with darknet marketplaces, should be taught to be all age groups—including kindergartners—they agreed.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/addiction/" rel="tag">addiction</a> <a href="https://www.deepdotweb.com/tag/city/" rel="tag">city</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/kindergartners/" rel="tag">kindergartners</a> <a href="https://www.deepdotweb.com/tag/teach/" rel="tag">teach</a></span> <span style="display:none" class="updated">2017-03-07<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/addiction/" rel="tag">addiction</a> <a href="https://www.deepdotweb.com/tag/city/" rel="tag">city</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/kindergartners/" rel="tag">kindergartners</a> <a href="https://www.deepdotweb.com/tag/teach/" rel="tag">teach</a></span> <span style="display:none" class="updated">2017-03-07<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

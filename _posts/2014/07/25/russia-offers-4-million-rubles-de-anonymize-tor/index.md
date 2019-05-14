@@ -4,6 +4,7 @@ title: "Russia Offers 4 Million Rubles (~$100K) To De-Anonymize Tor"
 
 
 Posted by: DeepDotWeb
+
 <span>July 25, 2014</span>
 
 <p>The Russian Interior Ministry has posted a <a href="http://zakupki.gov.ru/epz/order/notice/zkk44/view/common-info.html?regNumber=0373100088714000008">tender</a> (<strong>Any Russian speaking reader who can translate this for us?</strong>) seeking to find a solution for obtaining information about users of the TOR anonymous network and decrypting intercepted TOR data.</p>

@@ -3,6 +3,7 @@ title: "Global Drug Survey requests your help!"
 ---
 
 Posted by: Monica Barratt
+
 <span>November 28, 2014</span>
 
 <p><a href="http://www.globaldrugsurvey.com">Global Drug Survey</a> is an independent research organisation that operates the largest annual survey of drug use in the world. Run by addictions psychiatrist Dr Adam Winstock, Global Drug Survey strongly supports harm reduction and accepts that pleasure drives the majority of drug use, which for most people most of the time is not a source of distress or harm in their lives. GDS does not seek traditional funding grants so it can remain independent from governments and universities. This independence results in the freedom to produce novel harm reduction materials, like the <a href="http://www.globaldrugsurvey.com/brand/the-highway-code/">Highway code</a>, which is GDS’s “guide to safer, more enjoyable drug use”.</p>

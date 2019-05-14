@@ -22,7 +22,7 @@ Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a
 </ol>
 <p>For your first use you will have to go through a quick setup process and then wait for Whonix to search for and install any necessary updates. Keep in mind you will need to keep Whonix-Gateway running but you don’t actually use it for anything besides updating. You will conduct all your activities within the Whonix-Workstation virtual machine window.</p>
 <p>Now you can use Whonix to browse in a safer and more secure way, all without having to make drastic changes to your computer.</p>
-<p><strong>This article is added in our <a href="http://www.deepdotweb.com/security-tutorials/" target="_blank">security tutorials</a> section.</strong></p>
+<p><strong>This article is added in our <a href="security-tutorials/" target="_blank">security tutorials</a> section.</strong></p>
 </div>
 
 Updated: 2014-06-13

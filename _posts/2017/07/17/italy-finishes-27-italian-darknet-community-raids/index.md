@@ -1,7 +1,7 @@
 ---
-Italy Finishes 27 More Italian Darknet Community Raids"
+Italy Finishes 27 More Italian Darknet Community Raids
 ---
-<article class="post-listing post-21381 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1384 tag-community tag-darknet tag-finishes tag-italian tag-italy tag-raids">
+<article class="post-listing post-21381 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1384 tag-community tag-finishes tag-italian tag-italy tag-raids">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 17, 2017</span>
@@ -22,6 +22,8 @@ Italy Finishes 27 More Italian Darknet Community Raids"
     <p><img class="wp-image-21387" src="/imgs/2017/07/word-image-82.jpeg" srcset="/imgs/2017/07/word-image-82.jpeg 800w, /imgs/2017/07/word-image-82-300x156.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px"/></p>
     <p>&#8220;This additional step [in the IDC investigation] highlights and confirms the spread of the phenomenon of drugs online sales, particularly on the <a href="https://www.deepdotweb.com/tag/darknet/">darknet</a>,” Cadeddu closed. The investigation is still ongoing although we will likely be unaware until a few dozen raids occur on an early morning in Italy.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/27/" rel="tag">27</a> <a href="https://www.deepdotweb.com/tag/community/" rel="tag">community</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/finishes/" rel="tag">finishes</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/italy/" rel="tag">italy</a> <a href="https://www.deepdotweb.com/tag/raids/" rel="tag">raids</a></span> <span style="display:none" class="updated">2017-07-17</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/27/" rel="tag">27</a> <a href="https://www.deepdotweb.com/tag/community/" rel="tag">community</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/finishes/" rel="tag">finishes</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/italy/" rel="tag">italy</a> <a href="https://www.deepdotweb.com/tag/raids/" rel="tag">raids</a></span> <span style="display:none" class="updated">2017-07-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

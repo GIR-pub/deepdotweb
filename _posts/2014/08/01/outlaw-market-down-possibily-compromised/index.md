@@ -4,9 +4,10 @@ title: "Outlaw Market: Down, Possibly Compromised By Competitors"
 
 
 Posted by: DeepDotWeb
+
 <span>August 1, 2014</span>
 
-<p>The admins of <a href="http://www.deepdotweb.com/marketplace-directory/listing/outlaw-market">Outlaw market</a> have taken the site down due to some security concerns related to possible attack being launched on the market. The admin claims that those who might be responsible for the attack are 2 former admins, as they posted on the forums (http://outforumbpapnpqr.onion/index.php/topic,320.0.html):</p>
+<p>The admins of <a href="marketplace-directory/listing/outlaw-market">Outlaw market</a> have taken the site down due to some security concerns related to possible attack being launched on the market. The admin claims that those who might be responsible for the attack are 2 former admins, as they posted on the forums (http://outforumbpapnpqr.onion/index.php/topic,320.0.html):</p>
 <blockquote><p>Hello to all customers.</p>
 <p>We shut outlaw down completely cause of attack from hackers.<br/>
     There is no doubt that these hackers are the 2 old admins &#8220;pennywise/loki&#8221; if you remember them.<br/>

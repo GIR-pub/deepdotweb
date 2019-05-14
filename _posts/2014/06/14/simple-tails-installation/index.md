@@ -13,7 +13,7 @@ Posted by: <a href="https://www.deepdotweb.com/author/chris/" title="">Chris </a
 <p>Now insert the DVD or USB/SD and restart your computer. If the OS doesn’t boot up then you will have to go into your BIOS and change the boot order to put whatever drive you want to boot from first on the list. You can get to the BIOS settings menu by pushing the key that is prompted when starting up your computer. Once you have changed the boot order then just restart your computer again and TAILS will start.</p>
 <p>There is more documentation on their website for how to use all the functions of TAILS but it is quite self-explanatory. It provides a very safe way for you to browse the web, access the Deep Web, and work with sensitive documents.</p>
 <p>If this sounds like too much of a hassle and you want an OS that can be run in the background while you are doing other work then try <a href="/2014/06/13/simple-whonix-installation-tutorial/">Whonix</a> instead. Don’t just browse on your default operating system.</p>
-<p><strong>This tutorial is posted also in the <a href="http://www.deepdotweb.com/security-tutorials/">Security tutorials</a> section.</strong></p>
+<p><strong>This tutorial is posted also in the <a href="security-tutorials/">Security tutorials</a> section.</strong></p>
 
 Updated: 2014-06-14
     

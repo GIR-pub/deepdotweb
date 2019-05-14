@@ -7,8 +7,8 @@ Posted by: Joseph Meehan
 <span>October 14, 2014</span>
     
 
-<p><em>This a post in series of posts describing a personal experience from learning about the DNM’s to becoming a vendor – all the parts of this series will be available to here: <a href="http://www.deepdotweb.com/tag/ExperienceTag/">ExperienceTag</a></em></p>
-<p><a href="http://www.deepdotweb.com/tag/bitcoin/">Bitcoin</a> (BTC) is a decentralized digital currency used to make digital and physical purchases. There are a wide variety of goods and services offered in exchange for Bitcoin. More and more vendors have begun to accept Bitcoin as payment. ATMs where BTC can be purchased and sold have cropped up in major cities around the world. There are a few major advantages Bitcoin has over traditional currencies:</p>
+<p><em>This a post in series of posts describing a personal experience from learning about the DNM’s to becoming a vendor – all the parts of this series will be available to here: <a href="tag/ExperienceTag/">ExperienceTag</a></em></p>
+<p><a href="tag/bitcoin/">Bitcoin</a> (BTC) is a decentralized digital currency used to make digital and physical purchases. There are a wide variety of goods and services offered in exchange for Bitcoin. More and more vendors have begun to accept Bitcoin as payment. ATMs where BTC can be purchased and sold have cropped up in major cities around the world. There are a few major advantages Bitcoin has over traditional currencies:</p>
 <ul>
 <li>BTC uses P2P Transactions. This means no banks, governments or middlemen have to participate in transactions.</li>
 <li>BTC is a global currency. It can be used to pay anyone for anything in any part of the world</li>

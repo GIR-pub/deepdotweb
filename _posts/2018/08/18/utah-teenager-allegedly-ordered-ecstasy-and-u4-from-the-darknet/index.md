@@ -2,7 +2,7 @@
 Utah Teenager Allegedly Ordered Ecstasy and U4 from the Darknet
 ---
 <article class="post-listing post-26575 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-allegedly tag-darknet tag-ecstasy tag-ordered tag-teenager tag-u4 tag-utah">
+ tag-allegedly tag-ecstasy tag-ordered tag-teenager tag-u4 tag-utah">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 18, 2018</span>
@@ -17,5 +17,7 @@ Utah Teenager Allegedly Ordered Ecstasy and U4 from the Darknet
 <p>To some residents of Park City, her alleged involvement may have come as a surprise. To others, perhaps, her involvement may have been expected. The girl had recently given a (now deleted) TedX talk on the topic of drug addiction and her own struggles. When confronted by police, she admitted that she had been ordering drugs from <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a>. According to court documents, the girl told police that she “had learned how to purchase the substances through the dark web from friends who had purchased U-44770 and had it delivered to her house in 2016.”</p>
 <p>An investigation into any co-conspirators is currently underway.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/allegedly/" rel="tag">allegedly</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/ordered/" rel="tag">ordered</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a> <a href="https://www.deepdotweb.com/tag/u4/" rel="tag">u4</a> <a href="https://www.deepdotweb.com/tag/utah/" rel="tag">utah</a></span> <span style="display:none" class="updated">2018-08-18<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/allegedly/" rel="tag">allegedly</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/ecstasy/" rel="tag">ecstasy</a> <a href="https://www.deepdotweb.com/tag/ordered/" rel="tag">ordered</a> <a href="https://www.deepdotweb.com/tag/teenager/" rel="tag">teenager</a> <a href="https://www.deepdotweb.com/tag/u4/" rel="tag">u4</a> <a href="https://www.deepdotweb.com/tag/utah/" rel="tag">utah</a></span> <span style="display:none" class="updated">2018-08-18<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

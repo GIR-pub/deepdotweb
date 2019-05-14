@@ -1,7 +1,7 @@
 ---
-Georgia Man Sentenced for Darknet Child Porn Guides"
+Georgia Man Sentenced for Darknet Child Porn Guides
 ---
-<article class="post-listing post-19085 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-darknet tag-georgia tag-guides tag-man tag-porn tag-sentenced">
+<article class="post-listing post-19085 post type-post status-publish format-standard has-post-thumbnail hentry  tag-child tag-georgia tag-guides tag-man tag-porn tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>April 9, 2017</span>
@@ -9,7 +9,7 @@ Georgia Man Sentenced for Darknet Child Porn Guides"
     <span><a href="https://www.deepdotweb.com/2017/04/09/georgia-man-sentenced-darknet-child-porn-guides/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>A 28-year-old man from Gwinnett County, Georgia, operated a clearnet website where he hosted child pornography. He additionally <a href="http://www.11alive.com/mb/news/crime/gwinnett-man-sentenced-for-child-porn-site-creating-how-to-guide/425069104">wrote guides for other pedophiles</a> on making use of the darknet to view, distribute, and discuss topics regarding child pornography, After less than one hour of deliberation, the jury convicted the defendant, Thomas Scot Edvalson, of 22 counts of sexual exploitation of children.</p>
     <p>The case began years ago, during some unknown point in 2012. A GoDaddy employee tipped off the The National Center for Missing and Exploited Children, an agency dedicated to the assistance of children. He explained that a subscriber&#8217;s website—one who used GoDaddy as a hosting service—displayed numerous pornographic images of children. The National Center for Missing and Exploited Children passed the information on to the Georgia Bureau of Investigation.</p>
     <p>The Georgia Bureau of Investigation quickly worked on locating the owner or at least registrant associated with the website. After investigators linked the website to an address in Gwinnett County, they forwarded the identifying information to the Gwinnett County Police Department. From there, the GCPD took control of the case. They also traced the IP address of the website to the physical address of the website`s owner. The house belonged to a much younger Thomas Scot Edvalson.</p>
@@ -22,6 +22,8 @@ Georgia Man Sentenced for Darknet Child Porn Guides"
     <p>Fast forward to 2017 after the investigation ran a full course. In March, a jury found the Gwinnett County man guilty of 22 child pornography charges. Shortly thereafter, <a href="https://www.deepdotweb.com/tag/sentenced/">a Gwinnett County Judge sentenced</a> Edvalson to 60-do-20. More specifically, the guilty party received a 60-year sentence with 20 years behind bars and 40 years on probation. All 60 years as a sex offender, of course. A sex offender for any remaining years in his life, even following completion of probation. Assuming he survives prison and 40 years on felony probation, he will still have a handful of years left in his life.</p>
     <p>Even then, Georgia can violate probationers and have them incarcerated for technical violations. Judge George F. Hutchinson, III, after sentencing the man, concluded that “each time images of child pornography is shared on the internet, that child is being victimized again.”</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/guides/" rel="tag">guides</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-04-09</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/guides/" rel="tag">guides</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-04-09</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

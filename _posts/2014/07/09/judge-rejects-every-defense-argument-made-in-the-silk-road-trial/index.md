@@ -3,6 +3,7 @@ title: "Judge Rejects Every Defense Argument In The Silk Road Trial"
 ---
 
 Posted by: DeepDotWeb
+
 <span>July 9, 2014</span>
 
 <p>As it was published in <strong><a href="http://www.wired.com/2014/07/silkroad-bitcoin-isnt-money/" target="_blank">wired</a></strong>, things are not looking too bright for Ross Ulbricht:</p>

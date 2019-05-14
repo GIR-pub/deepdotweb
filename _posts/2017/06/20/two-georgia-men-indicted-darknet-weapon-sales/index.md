@@ -1,7 +1,7 @@
 ---
-Two Georgia Men Indicted For Darknet Weapon Sales"
+Two Georgia Men Indicted For Darknet Weapon Sales
 ---
-<article class="post-listing post-20753 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-georgia tag-indicted tag-men tag-sales tag-weapon">
+<article class="post-listing post-20753 post type-post status-publish format-standard has-post-thumbnail hentry  tag-georgia tag-indicted tag-men tag-sales tag-weapon">
     
     <div class="post-inner">
     
@@ -35,7 +35,7 @@ Two Georgia Men Indicted For Darknet Weapon Sales"
     
     
     </div><!-- .entry /-->
-    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> </span>				<span style="display:none" class="updated">2017-06-20</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/georgia/" rel="tag">georgia</a> <a href="https://www.deepdotweb.com/tag/indicted/" rel="tag">indicted</a> <a href="https://www.deepdotweb.com/tag/men/" rel="tag">men</a> <a href="https://www.deepdotweb.com/tag/sales/" rel="tag">sales</a> </span>				<span style="display:none" class="updated">2017-06-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
     
     

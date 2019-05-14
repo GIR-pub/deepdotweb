@@ -1,7 +1,7 @@
 ---
-Eighteenth Member of NZ Darknet Child Abuse Ring Sentenced"
+Eighteenth Member of NZ Darknet Child Abuse Ring Sentenced
 ---
-<article class="post-listing post-21231 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abuse tag-child tag-darknet tag-eighteenth tag-member tag-nz tag-ring tag-sentenced">
+<article class="post-listing post-21231 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abuse tag-child tag-eighteenth tag-member tag-nz tag-ring tag-sentenced">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>July 12, 2017</span>
@@ -9,7 +9,7 @@ Eighteenth Member of NZ Darknet Child Abuse Ring Sentenced"
     <span><a href="https://www.deepdotweb.com/2017/07/12/eighteenth-member-nz-darknet-child-abuse-ring-sentenced/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>In December 2015, US Homeland Security notified New Zealand Police&#8217;s Online Child Exploitation unit (OCEANZ) about a child exploitation ring with connections to the darknet. A New Zealand man, Drew Webb, proved integral to the case. He centered the ring and his arrest led to the freedom of 31 children.</p>
     <p>A June 2017 <a href="https://www.deepdotweb.com/tag/sentenced/">sentencing</a> of one of the group&#8217;s members from Scotland marked another milestone for law enforcement. After Webb&#8217;s arrest, New Zealand police helped put offenders behind bars at a global scale. The June sentencing marked the <a href="http://www.bbc.com/news/uk-scotland-glasgow-west-40340702">successful conviction of 18 members</a>.</p>
     <p>National manager for OCEANZ, Detective Senior Sergeant John Michael, explained the importance of Webb&#8217;s arrest to the Herald. &#8220;This group, many of them parents or step-parents of children, were part of this group focused on the sexual exploitation of their own children,&#8221; he said. According to Detective John Michael, &#8220;once [Webb] was arrested that opened up a whole new phase of investigation where we identified, around the world, people that we believed posed a really high risk to their own children.”</p>
@@ -24,6 +24,8 @@ Eighteenth Member of NZ Darknet Child Abuse Ring Sentenced"
     <p>The OCEANZ detective explained that other members could be in New Zealand but would not comment on open investigations. He said that the child abusers sought networks where others with their interests operated. &#8220;They&#8217;ll look at working in <a href="https://www.deepdotweb.com/tag/darknet/">the darknet</a> where they have a level of anonymity. It&#8217;s not difficult to find like-minded individuals unfortunately,&#8221; the detective noted.</p>
     <p>Mike Bush, the New Zealand Police Commissioner, said he was &#8220;extremely proud of the work done on this case.” Despite the low standard for success in similar investigations, thanks to a botched and illegal investigation by a US law enforcement agency, New Zealand law enforcement handled this case smoothly—a fact corroborated by partner agencies worldwide.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/eighteenth/" rel="tag">eighteenth</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/nz/" rel="tag">nz</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-07-12</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/eighteenth/" rel="tag">eighteenth</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/nz/" rel="tag">nz</a> <a href="https://www.deepdotweb.com/tag/ring/" rel="tag">ring</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2017-07-12</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

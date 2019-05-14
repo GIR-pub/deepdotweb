@@ -1,7 +1,7 @@
 ---
 Darknet Heroes League Marketplace Bans the Sale of Fentanyl"
 ---
-<article class="post-listing post-15266 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bans tag-darknet tag-fentanyl tag-heroes tag-league tag-sale">
+<article class="post-listing post-15266 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bans tag-fentanyl tag-heroes tag-league tag-sale">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>August 29, 2016</span>

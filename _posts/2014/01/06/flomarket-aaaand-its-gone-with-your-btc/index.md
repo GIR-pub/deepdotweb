@@ -3,6 +3,7 @@ title: "Flomarket: Aaaan&#8217;d its gone! (With your BTC)"
 ---
 
 Posted by: DeepDotWeb
+
 <span>January 6, 2014</span>
 
 <div id="attachment_2875" style="width: 390px" class="wp-caption aligncenter"><a href="/imgs/2013/12/gone.jpg"><img class=" wp-image-2875" alt="We really wanted to report something about this case - but this is the only info" src="/imgs/2013/12/gone.jpg" width="380" height="285" srcset="/imgs/2013/12/gone.jpg 480w, /imgs/2013/12/gone-300x225.jpg 300w" sizes="(max-width: 380px) 100vw, 380px"/></a><p class="wp-caption-text">We really wanted to report something about this case &#8211; but this is the only info</p></div>

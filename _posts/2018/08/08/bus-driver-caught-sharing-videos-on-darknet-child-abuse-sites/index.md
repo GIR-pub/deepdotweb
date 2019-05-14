@@ -1,8 +1,8 @@
 ---
-Bus Driver Caught Sharing Videos on Darknet Child Abuse Sites"
+Bus Driver Caught Sharing Videos on Darknet Child Abuse Sites
 ---
 <article class="post-listing post-26512 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-abuse tag-bus tag-caught tag-child tag-darknet tag-driver tag-sharing tag-sites tag-videos">
+ tag-abuse tag-bus tag-caught tag-child tag-driver tag-sharing tag-sites tag-videos">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>August 8, 2018</span>
@@ -17,5 +17,7 @@ Bus Driver Caught Sharing Videos on Darknet Child Abuse Sites"
 <p>The prosecutor, Assistant Crown Attorney Joe Perfetto, told the court how the man had shown no remorse and had used his position to take advantage of children. He also pointed out that Steps had not attempted treatment at any point in the past. Perfetto asked for a five year prison sentence that included time served (reducing the prison sentence to only three and a half years).</p>
 <p>Ontario Court Justice Allan Maclure said he would have a decision by <a href="https://lfpress.com/news/local-news/pedaphile-bus-driver-took-job-to-access-kids-crown">the end of September</a>.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/bus/" rel="tag">bus</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/driver/" rel="tag">driver</a> <a href="https://www.deepdotweb.com/tag/sharing/" rel="tag">sharing</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a> <a href="https://www.deepdotweb.com/tag/videos/" rel="tag">videos</a></span> <span style="display:none" class="updated">2018-08-08<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/bus/" rel="tag">bus</a> <a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/driver/" rel="tag">driver</a> <a href="https://www.deepdotweb.com/tag/sharing/" rel="tag">sharing</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a> <a href="https://www.deepdotweb.com/tag/videos/" rel="tag">videos</a></span> <span style="display:none" class="updated">2018-08-08<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

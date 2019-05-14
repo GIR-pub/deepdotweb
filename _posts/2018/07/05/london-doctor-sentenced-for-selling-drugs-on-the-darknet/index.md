@@ -2,7 +2,7 @@
 London Doctor Sentenced for Selling Drugs on the Darknet
 ---
 <article class="post-listing post-26211 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-darknet tag-doctor tag-london tag-selling tag-sentenced">
+ tag-doctor tag-london tag-selling tag-sentenced">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>July 5, 2018</span>
@@ -17,5 +17,7 @@ London Doctor Sentenced for Selling Drugs on the Darknet
 <p>Evidence discovered after the arrest of the duo indicated that the men had been <a href="https://www.deepdotweb.com/tag/darknet/">selling drugs on the darknet</a>. Prosecutor Nepal revealed that the forensic investigators who had examined the men’s devices had discovered that the men had been selling drugs to a “large customer base.” The prosecutor never told the court the pseudonym the men used on the darknet marketplace(s) they had been selling on or through. The prosecutor did point out, though, that the duo had been “selling abroad as well as in this country.”</p>
 <p>Both men pleaded guilty to the same charges. Judge Patrick Thompson sentenced Day, only one month before he sentenced Dr. Kerr. Both men received the same sentence of four years and eight months.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/doctor/" rel="tag">doctor</a>  <a href="https://www.deepdotweb.com/tag/london/" rel="tag">london</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-07-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/doctor/" rel="tag">doctor</a>  <a href="https://www.deepdotweb.com/tag/london/" rel="tag">london</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2018-07-05<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

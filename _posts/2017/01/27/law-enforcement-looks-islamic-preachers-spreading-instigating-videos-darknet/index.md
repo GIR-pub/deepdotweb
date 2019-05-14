@@ -1,7 +1,7 @@
 ---
 Law Enforcement Looks Into Islamic Preachers Spreading Instigating Videos on Darknet
 ---
-<article class="post-listing post-17770 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-enforcement tag-instigating tag-islamic tag-law tag-preachers tag-spreading tag-videos">
+<article class="post-listing post-17770 post type-post status-publish format-standard has-post-thumbnail hentry  tag-instigating tag-islamic tag-law tag-preachers tag-spreading tag-videos">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>January 27, 2017</span>
@@ -9,7 +9,7 @@ Law Enforcement Looks Into Islamic Preachers Spreading Instigating Videos on Dar
     <span><a href="https://www.deepdotweb.com/2017/01/27/law-enforcement-looks-islamic-preachers-spreading-instigating-videos-darknet/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>Indian government and its law enforcement organization National Investigation Agency (NIA) is conducting an investigation on several controversial islamic preachers distributing instigating videos on the darknet.</p>
     <p>Officers of the NIA stated that a new group of preachers were absurdly and offensively imitating radical islamic preachers with the sole intent of spreading propaganda and false information on islamic beliefs.</p>
     <p>The NIA further emphasized that the group has spread insolent courses and lectures on islamic beliefs and people through various mediums and outlets such as social media and the darknet. Individuals who were convinced of the legitimacy of these courses bought the videos on the darknet, failing to recognize the dishonorable intent of the criminals.</p>
@@ -25,6 +25,8 @@ Law Enforcement Looks Into Islamic Preachers Spreading Instigating Videos on Dar
     <p>In a different case <a href="http://timesofindia.indiatimes.com/india/nia-files-chargesheet-against-8-members-of-hyderabad-isis-module/articleshow/56127871.cms">disclosed</a> in December of last year, the NIA filed an official charge sheet against 8 members of an ISIL module, which was cracked down in June. The group planned to carry out large-scale terrorist attacks on crowded markets and religious locations, with the intent of murdering hundreds of people in the country.</p>
     <p>These terrorists also <a href="https://www.deepdotweb.com/2017/01/01/isis-supporters-used-orbot-telegram-communicate-isis-handlers/">utilized</a> encrypted platforms and technologies like the darknet and Tor browser to communicate each other, to ensure their conversations are prevented from surveillance. Based on the magnitude of the previous ISIL case, and the emergence of yet another criminal case surrounding the darknet, the NIA will increase their efforts in overseeing inappropriate operations within the darknet.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/instigating/" rel="tag">instigating</a> <a href="https://www.deepdotweb.com/tag/islamic/" rel="tag">islamic</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/preachers/" rel="tag">preachers</a> <a href="https://www.deepdotweb.com/tag/spreading/" rel="tag">spreading</a> <a href="https://www.deepdotweb.com/tag/videos/" rel="tag">videos</a></span> <span style="display:none" class="updated">2017-01-27</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/instigating/" rel="tag">instigating</a> <a href="https://www.deepdotweb.com/tag/islamic/" rel="tag">islamic</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/preachers/" rel="tag">preachers</a> <a href="https://www.deepdotweb.com/tag/spreading/" rel="tag">spreading</a> <a href="https://www.deepdotweb.com/tag/videos/" rel="tag">videos</a></span> <span style="display:none" class="updated">2017-01-27</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    
+    </div>
+</article>
+

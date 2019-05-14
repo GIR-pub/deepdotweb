@@ -4,6 +4,7 @@ title: "Darkcoin Passes Security Review &#8211; Prepares to Open Source"
 
 
 Posted by: DeepDotWeb
+
 <span>September 23, 2014</span>
 
 <p>A Press release by the <a href="https://darkcointalk.org/threads/possible-darkcoin-press-release-rc5-open-source-instant-transactions-kristov-code-review.2399/">Darkcoin community</a>:</p>

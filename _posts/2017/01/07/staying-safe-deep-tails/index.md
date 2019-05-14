@@ -1,7 +1,7 @@
 ---
-Staying Safe on the Deep with TAILs"
+Staying Safe on the Deep with TAILS
 ---
-<article class="post-listing post-17368 post type-post status-publish format-standard has-post-thumbnail hentry  tag-deep tag-safe tag-staying tag-tails">
+<article class="post-listing post-17368 post type-post status-publish format-standard has-post-thumbnail hentry  tag-safe tag-staying tag-tails">
     
     <div class="post-inner">
     
@@ -65,7 +65,7 @@ Staying Safe on the Deep with TAILs"
     
     
     </div><!-- .entry /-->
-    <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/safe/" rel="tag">safe</a> <a href="https://www.deepdotweb.com/tag/staying/" rel="tag">staying</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span>				<span style="display:none" class="updated">2017-01-07</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/safe/" rel="tag">safe</a> <a href="https://www.deepdotweb.com/tag/staying/" rel="tag">staying</a> <a href="https://www.deepdotweb.com/tag/tails/" rel="tag">tails</a></span>				<span style="display:none" class="updated">2017-01-07</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/kptx/" title="Posts by kptx" rel="author">kptx</a></strong></div>
     
     

@@ -3,6 +3,7 @@ title: "FedEx Accused of Drug Trafficking"
 ---
 
 Posted by: DeepDotWeb
+
 <span>July 19, 2014</span>
 
 <p>From a news item published in <a href="http://www.courthousenews.com/2014/07/18/69617.htm">Courthousenews</a> service, may have some relevance to DNM users, as such cases might encourage shipping providers to deploy better screening procedures:</p>

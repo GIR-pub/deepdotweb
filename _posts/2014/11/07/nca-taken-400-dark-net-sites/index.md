@@ -4,11 +4,12 @@ title: "NCA: &#8220;We have Taken down 400 Dark Net Sites&#8221;"
 
 
 Posted by: DeepDotWeb
+
 <span>November 7, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+
 <a href="/2014/11/07/nca-taken-400-dark-net-sites/#comments">22 Comments</a></span>
 </p>
-<p><strong>Keep checking the other posts in this chain of event at: <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 Bust Tag<br/>
+<p><strong>Keep checking the other posts in this chain of event at: <a href="tag/silkroad2bust/">Silk Road 2 Bust Tag<br/>
 </a>The story is ongoing and the posts are being updated as we learn more details</strong></p>
 <p>&#8212;&#8212;&#8212;&#8212;&#8212;</p>
 <p><span style="text-decoration: underline;"><strong>Update</strong></span>: Far from the original number of 414 seized hidden services and lower even than the number 27 provided to the <em>New York Times</em>, the FBI <a href="http://www.forbes.com/sites/katevinton/2014/11/07/operation-onymous-dark-markets/">told Forbes</a> that it had seized 27 actual sites but 414 .onion addresses that all go to the same sites. According to Forbes, this is the final list of the seized site, Divided into overlapping categories:</p>
@@ -79,7 +80,7 @@ Posted by: DeepDotWeb
 <p>“Over the months since the original Silk Road was taken down, we have been working with partners in the US and Europe to locate technical infrastructure, key to the dark web and to investigate individuals suspected of significant involvement in illegal online market places. Those arrested by the NCA in this phase of the operation are suspected of setting up Silk Road 2.0, or of being significant vendors of illegal drugs.</p>
 <p>“The operation is ongoing and more arrests can be expected as we continue to investigate those involved in setting up and profiting from these illegal market places. Criminals like to think that the dark web provides a safe, anonymous haven but in reality this is just like any other organised crime network. It may take time and effort to investigate and build a criminal case, but we are determined to identify and prosecute people caught dealing drugs and committing serious crime using the dark web.”</p></blockquote>
 <p>We Will keep following and updating as more info becomes available</p>
-<p><strong>Keep checking the other posts in this chain of event at: <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk Road 2 Bust Tag<br/>
+<p><strong>Keep checking the other posts in this chain of event at: <a href="tag/silkroad2bust/">Silk Road 2 Bust Tag<br/>
 </a>The story is ongoing and the posts are being updated as we learn more details</strong></p>
 
 Updated: 2014-11-07

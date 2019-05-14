@@ -3,6 +3,7 @@ title: "Operation Python: DarkNetMarkets Related Busts In New Zeland"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 19, 2014</span>
 
 <p>As it was published at <a href="http://www.stuff.co.nz/dominion-post/10177294/Police-bust-drugs-ring-find-stolen-carving">Stuff.co.nz</a>,  Relevant parts suggesting its DarkNetMarkets related are in bold:</p>

@@ -4,6 +4,7 @@ title: "Darkcoin: Releases Open Source Code"
 
 
 Posted by: DeepDotWeb
+
 <span>October 1, 2014</span>
 
 <p>Press release &#8211; Darkcoin is designed to ensure financial privacy by making it virtually impossible to trace a transaction back to its source. This is accomplished with a key piece of technology called Darksend, which works by mixing up the digital fingerprints of the user&#8217;s coins. Darksend’s technology is based on the Masternode Network, currently 900+ decentralized servers spread around the world and maintained by Darkcoin supporters.</p>

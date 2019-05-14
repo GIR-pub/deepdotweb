@@ -3,6 +3,7 @@ title: "Bitcoin news round-up 09.06.2014"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 10, 2014</span>
 
 <p>Bitcoin’s price has dropped slightly this week after seeing exceptional gains of 30% last week following the bitcoin conference in Amsterdam and news that Apple’s app store would take a more lenient approach to allowing use of the virtual currency in apps. Bitcoin currently stands at $646.20, down slightly from $658.79 on Monday 2 June.</p>

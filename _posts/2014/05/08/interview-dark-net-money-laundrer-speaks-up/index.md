@@ -4,6 +4,7 @@ title: "Interview: Dark Net Money Launderer Speaks Up"
 
 
 Posted by: DeepDotWeb
+
 <span>May 8, 2014</span>
 
 <p>We have no idea what caused the massive surge in the amount of vendors / market admins asking to be interviewed in the past couple of weeks (probably over 20+), but we are more than happy to conduct them as much as our time lets us! This time we had an interesting chat with a vendor we know for quite a while from previous communications we had, this particular vendor is providing services related to money laundering, or if to be more accurate &#8211; cashing out services for vendors, buyers and market admins,  although <strong>her</strong> operation is pretty small  (15~25 transactions on Agora with rating of  5.00/5 + Unknown amount on Evolution)  she provided an interesting glimpse to the process of cashing out &#8220;dirty&#8221; Bitcoins by Vendors or buyers, from obvious reason we did not try to get into to much details of the process.</p>
@@ -76,7 +77,7 @@ Posted by: DeepDotWeb
 <p>Keno13: There is a vendor on SR2 and Evo, who is reselling my bank accounts for $3000. They copied and pasted my listing details and everything &#8211; I found that out thanks to <a href="/2014/04/08/grams-darknetmarkets-search-engine/">Grams</a> ;)</p>
 <p><strong>DeepDotWeb: That&#8217;s actually a good thing no? you can sell more.</strong></p>
 <p>Keno13: Not necessarily. If something goes wrong (and touch wood it doesn&#8217;t) the vendor reselling actually holds no liability for what happens, where as I offer customer support for after sale. the customer is actually getting ripped off. And Id hate to have that stigma wrapped around my product or service.</p>
-<p><strong>DeepDotWeb: What do you think the community around you (<a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market/">Agora</a> Lets say) will think about you doing interview? i have seen that the last vendor we interviewed was bashed pretty hard.</strong></p>
+<p><strong>DeepDotWeb: What do you think the community around you (<a href="marketplace-directory/listing/agora-market/">Agora</a> Lets say) will think about you doing interview? i have seen that the last vendor we interviewed was bashed pretty hard.</strong></p>
 <p>Keno13: So i have seen! Im not fussed to be honest&#8230; People who frequent the Agora forums know that Im pretty outspoken, so nothing they haven&#8217;t heard before&#8230; but I am never one to shy away from debate if anyone else has a problem with it. Its my life not theirs&#8230; Now I sound like a real teeny bopper lol</p>
 <p>DeepDotWeb: Anything else you would like to mention that we did not cover yet / you want to add / topics we need to discuss?</p>
 <p>Keno13: Sure,  Australian customs laws &#8211; something I am real passionate about</p>

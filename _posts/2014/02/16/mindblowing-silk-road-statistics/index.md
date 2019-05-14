@@ -3,6 +3,7 @@ title: "Mindblowing Silk Road Statistics: Best Selling Drugs"
 ---
 
 Posted by: DeepDotWeb
+
 <span>February 16, 2014</span>
 
 <p>A Great thread was just published on the Silk road 2.0 forums, showing statistic of the marketplace Best sellers items and vendor as it was crawled by one of the users:</p>

@@ -2,7 +2,7 @@
 Research: Using Darknet Forums by Black Hat Hackers During Crisis Periods (Darknet Marketplace Shutdown)
 ---
 <article class="post-listing post-27440 post type-post status-publish format-standard has-post-thumbnail hentry 
-tag-crisis tag-darknet tag-forums tag-hackers tag-hat tag-periods tag-research tag-shutdown">
+tag-crisis tag-forums tag-hackers tag-hat tag-periods tag-research tag-shutdown">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/tamersameeh/" title="">Tamer Sameeh </a></span>
 <span>December 2, 2018</span>

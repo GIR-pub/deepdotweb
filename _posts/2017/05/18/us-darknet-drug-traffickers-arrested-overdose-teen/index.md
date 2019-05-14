@@ -1,7 +1,7 @@
 ---
-US Darknet Drug Traffickers Arrested After Overdose Of A Teen"
+US Darknet Drug Traffickers Arrested After Overdose Of A Teen
 ---
-<article class="post-listing post-19950 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-overdose tag-teen tag-traffickers">
+<article class="post-listing post-19950 post type-post status-publish format-standard has-post-thumbnail hentry  tag-overdose tag-teen tag-traffickers">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 18, 2017</span>
@@ -20,6 +20,8 @@ US Darknet Drug Traffickers Arrested After Overdose Of A Teen"
     <p><img class="wp-image-19957 aligncenter" src="/imgs/2017/05/hazmat-crews-were-seen-at-the-south-ridge-apartmen.jpeg" alt="Hazmat crews were seen at the South Ridge Apartments in Greenville, SC during a synthetic drug bust, April 26, 2017 (WSPA)" srcset="/imgs/2017/05/hazmat-crews-were-seen-at-the-south-ridge-apartmen.jpeg 650w, /imgs/2017/05/hazmat-crews-were-seen-at-the-south-ridge-apartmen-300x169.jpeg 300w" sizes="(max-width: 650px) 100vw, 650px" /></p>
     <p>Khleborod and Barrero are facing charges of possession with the intent to distribute and distribution of U-47700, a Schedule I controlled substance, conspiring to possess with intent to distribute and to distribute U-47700, and using the U.S. Mail to facilitate a drug trafficking crime. Since there is already enough incriminating evidence against both suspects, even if they confess their crimes, they can be sentenced to a lengthy imprisonment.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/overdose/" rel="tag">overdose</a> <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a> <a href="https://www.deepdotweb.com/tag/traffickers/" rel="tag">traffickers</a></span> <span style="display:none" class="updated">2017-05-18</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/overdose/" rel="tag">overdose</a> <a href="https://www.deepdotweb.com/tag/teen/" rel="tag">teen</a> <a href="https://www.deepdotweb.com/tag/traffickers/" rel="tag">traffickers</a></span> <span style="display:none" class="updated">2017-05-18</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    
+    </div>
+</article>
+

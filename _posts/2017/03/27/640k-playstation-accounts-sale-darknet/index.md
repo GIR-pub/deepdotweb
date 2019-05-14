@@ -2,7 +2,7 @@
 640K PlayStation Accounts for Sale on the Darknet
 ---
 <article class="post-listing post-18817 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-640k tag-accounts tag-darknet tag-playstation tag-sale">
+ tag-640k tag-accounts tag-playstation tag-sale">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 27, 2017</span>
@@ -23,5 +23,7 @@
 <p><img class="wp-image-18825 aligncenter" src="/imgs/2017/03/word-image-56.png" srcset="/imgs/2017/03/word-image-56.png 768w, /imgs/2017/03/word-image-56-300x124.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></p>
 <p>Regardless, forums—whether game forums or otherwise—find themselves targeted often. HackRead added “PSN users are not the only one to suffer. Currently, gaming giants including Epic Games, LifeBoat, Envoy, ESEA, Clash of Clans forum, etc. are also having their data sold on Dark Web marketplaces.”</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/640k/" rel="tag">640k</a> <a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/playstation/" rel="tag">playstation</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a></span> <span style="display:none" class="updated">2017-03-27<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/640k/" rel="tag">640k</a> <a href="https://www.deepdotweb.com/tag/accounts/" rel="tag">accounts</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/playstation/" rel="tag">playstation</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a></span> <span style="display:none" class="updated">2017-03-27<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

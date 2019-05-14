@@ -1,7 +1,7 @@
 ---
 European Police Congress Deliberates on Making the Darknet Inaccessible to its States"
 ---
-<article class="post-listing post-28576 post type-post status-publish format-standard has-post-thumbnail hentry  tag-congress tag-darknet tag-deliberates tag-european tag-inaccessible tag-making tag-police tag-states">
+<article class="post-listing post-28576 post type-post status-publish format-standard has-post-thumbnail hentry  tag-congress tag-deliberates tag-european tag-inaccessible tag-making tag-police tag-states">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/steve_bale/" title="">Steve_Bale </a></span>
     <span>March 10, 2019</span>

@@ -1,7 +1,7 @@
 ---
 Swiss Police Seize Bot Used To Buy Drugs On The Deep Web"
 ---
-<article class="post-listing post-8827 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bot tag-buy tag-deep tag-police tag-seize tag-swiss tag-web">
+<article class="post-listing post-8827 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bot tag-buy tag-police tag-seize tag-swiss tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 18, 2015</span>

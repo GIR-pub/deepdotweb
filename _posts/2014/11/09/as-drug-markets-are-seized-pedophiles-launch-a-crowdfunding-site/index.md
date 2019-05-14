@@ -3,11 +3,12 @@ title: "While Markets Get Seized: Pedophiles Launch a Crowdfunding Site"
 ---
 
 Posted by: DeepDotWeb
+
 <span>November 9, 2014</span>
 
 <p><span style="text-decoration: underline;"><strong>Update:</strong></span><strong> The </strong><strong>Site was shut down &#8211; Details at the bottom of this post.</strong><span style="text-decoration: underline;"><strong><br />
 </strong></span></p>
-<p><em>I was going to post this just a few hours before the news about </em><a href="http://www.deepdotweb.com/tag/operation-onymous/"><em>O</em><em>peration Onymous </em></a><em>started to flow in, but now it seems more relevant than ever. I am sure that once the media starts showing interest in real crimes, Law Enforcement budgets will be adjusted accordingly.</em></p>
+<p><em>I was going to post this just a few hours before the news about </em><a href="tag/operation-onymous/"><em>O</em><em>peration Onymous </em></a><em>started to flow in, but now it seems more relevant than ever. I am sure that once the media starts showing interest in real crimes, Law Enforcement budgets will be adjusted accordingly.</em></p>
 <p><strong><span style="text-decoration: underline;">Dark Net Crowdfunding Site for Child Pornography is Launched</span><br />
 </strong></p>
 <p>In case any Law Enforcement agent or agency is feeling bored: one of our dark net sources provided us with some information on an illicit, dark net operation that could use some of your government resources. Recently, a person or group reached a new low when it started promoting a new “Darknet crowdfunding site” aimed at child pornography producers looking to make some money from their “content.” This crowdfunding site describes the “unfair” reality where child pornography producers are unable to earn money from their “productions.” Since people share child pornography videos for free on Tor’s various CP sites right after the first copy is sold, according to the site, producers miss out on a large portion of the potential revenue that could be “earned.” The new site aims to tackle this problem by offering a crowdfunding platform for child pornography producers:</p>

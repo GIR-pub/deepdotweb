@@ -3,6 +3,7 @@ title: "30,000 Seized Bitcoins From Silk Road Are Up for Sale!"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 12, 2014</span>
 
 <p><strong>As it was published in a press release by the US government:</strong></p>

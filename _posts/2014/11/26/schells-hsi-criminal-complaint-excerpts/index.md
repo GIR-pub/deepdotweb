@@ -2,10 +2,11 @@
 title: "Schell&#8217;s HSI Criminal Complaint Excerpts"
 ---
 
-Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+Posted by: Allen Hoffmann, JD
+
 <span>November 26, 2014</span>
 
-<p>So another <a title="Onymous: Durham Couple Indicted" href="http://www.deepdotweb.com/2014/11/21/onymous-durham-couple-indicted/">complaint is unsealed</a> and we have the chance once more to look at what the investigators are prepared to give up from their arsenal. The writing style of HSI is decidedly less informative and more to the point than how the FBI does things &#8211; its a little dry. It is not my place to say whether someone is guilty or not, I just calls &#8217;em likes I sees &#8217;em in terms of what information the government puts forward to support its case.</p>
+<p>So another <a title="Onymous: Durham Couple Indicted" href="2014/11/21/onymous-durham-couple-indicted/">complaint is unsealed</a> and we have the chance once more to look at what the investigators are prepared to give up from their arsenal. The writing style of HSI is decidedly less informative and more to the point than how the FBI does things &#8211; its a little dry. It is not my place to say whether someone is guilty or not, I just calls &#8217;em likes I sees &#8217;em in terms of what information the government puts forward to support its case.</p>
 <p><strong>HSI spearheaded this investigation, Schell criminal complaint, page 1</strong></p>
 <p>Not a surprise &#8211; if you&#8217;ve been paying attention for any length of time now, HSI in coordination with the FBI and DEA has been running the majority of the &#8216;anti dark web&#8217; investigative activity for quite some time. Slightly surprising is that the deponent on this complaint is based in a Cali office, whereas there has been a decided leaning towards operations originating in the New York offices of most of these agencies. This leads me to surmise that whilst we may be looking at an investigation which potentially relates to the Omynous take-downs, it was running parallel from the main &#8216;dark market&#8217; them of those arrests; perhaps flowing from an initial USPS Inspector&#8217;s investigation.</p>
 <p><strong>HSI used a variety of sets of data to profile the residents before going in, Schell criminal complaint, page 2 and page 3</strong></p>

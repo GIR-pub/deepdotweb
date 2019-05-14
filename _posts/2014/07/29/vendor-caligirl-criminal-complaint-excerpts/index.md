@@ -3,6 +3,7 @@ title: "Vendor CALIGIRL Criminal Complaint Excerpts"
 ---
 
 Posted by: DeepDotWeb
+
 <span>July 29, 2014</span>
 
 <p>As it was posted in another great summary brought to you by <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> in <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2c2i3f/caligirl_criminal_complaint_excerpts/" target="_blank">this</a> Reddit thread (you can join the discussion on reddit):</p>

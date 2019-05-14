@@ -2,12 +2,11 @@
 title: "Deep Web &#038; Law Enforcement: Informers"
 ---
 
-7951  tag-deep tag-enforcement tag-informers tag-law tag-web
-Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+
+Posted by: Allen Hoffmann, JD
+
 <span>December 29, 2014</span>
-    
-<a href="/2014/12/29/deep-web-law-enforcement-informers/#respond">Leave a comment</a></span>
-</p>
+
 <p>Ever called a tip line? Did the guy you tipped get his door ripped down by a team of steroid loving SWAT ninjas the next day? He didn’t, did he? “Naw man, snitches get stitches!” a large number of you are spitting at your screen right now, claiming vehemently that never, ever would you talk to the cops. But whether they’d admit it or not, huge numbers of people act as human intelligence sources for a variety of reasons. Assuming someone around you is not an informer (or a potential informer) is unwise in the extreme.</p>
 <p><strong>Case study: Interview with a snitch handler</strong></p>
 <p>“Sherlock” (obviously not his real name) is an affable, and highly manipulate person, who was once involved with human source handling for the large LE agency with which he was, and still is, employed as a police officer. Sherlock’s insights into the kind of people who inform include all the types of people you would expect, like drug addicts and low level criminals to those with more complex motivations, or a genuine interest in ‘justice’; girlfriends still loyal to an ex, bar tenders and other nightclub staff who see and hear the antics of two bit gangsters (Sherlock named a bar in his jurisdiction which they would, with the covert assistance of management, review CCTV footage on a regular basis to see who was socializing with who), family members concerned about their son’s/brother’s/cousins activities getting in trouble, and, somewhat surprisingly, straight out friends of people who were jealous of the money they were making. Other motives included a love of drama on the part of the informer, the meagre cash handouts on offer (one story Sherlock knew saw a guy make national news for his arrest; the informer who ruined his life took home the princely sum of $150 for this) and, of course, revenge. This is not the interesting part of Sherlock’s tale. That comes next.</p>
@@ -20,6 +19,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Alle
 <p>Business first; don’t socialize with your online buddies using a buyer account if you can manage it, and if you must, keep it to the minimum. If you feel the need to use a dark net forum or marketplace to vent about relationship troubles, you deserve what you get. You may confide in someone else, they may confide in someone else without your name, and the cops may hear about the exact scenario minus your name, and link you by looking at the phone records or internet traffic.</p>
 <p>It goes hand in hand with the coming topics about phone and internet traffic, but here goes; if you must talk about what you’re into, and you are absolutely sure your buddy is not an informer (and not just is not an informer now, but also won’t have the motivation to become one in the future – so don’t slam his girlfriend later), don’t talk about it on the phone, and don’t talk about it on the computer – if your buddy is an informer, there’s no need to risk giving him the corroborating evidence which will help substantiate his informing.</p>
 <p>Coming next time; technology, how it can help you and hurt you.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/informers/" rel="tag">informers</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
+
 Updated: 2014-12-29

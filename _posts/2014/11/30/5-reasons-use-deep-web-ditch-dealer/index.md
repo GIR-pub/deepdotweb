@@ -3,6 +3,7 @@ title: "5 Reasons You Should Use The Deep Web And Ditch Your Dealer"
 ---
 
 Posted by: Greg Miller
+
 <span>November 30, 2014</span>
 
 <p>With a rapidly changing world, technology has improved almost all sectors of life,but the drug trade has remain backwards. Decades ago, the drug trade was much less violent and there was a friendly atmosphere, but with the rise of the War On Drugs and the militarization of the police, only people who were willing to deal with dishing and taking violence, stayed. This lead to a more violent and unfriendly atmosphere.</p>
@@ -27,7 +28,7 @@ Posted by: Greg Miller
 <p>The physical world leaves you in the dark and alone when it comes to drugs. Since there is no barriers protecting people involved in the physical drug trade, people have to be a lot more careful. If everyone formed a community and started helping each other, it would attract too attention, and they would get caught. Without this community, drug dealers and users suffer. People who have a curiosity about drugs, have no one to go to ask about about them. Instead, they go in blind, and when dealing with powerful substances, the result isn&#8217;t usually the best.</p>
 <p>With the deep web, there is plenty of people that are than happy to help you. There is even a Spanish doctor who can send your dope to and he will test it. Looking for the purity, safety, and quality. You don&#8217;t have that in the physical drug trade.</p>
 <p><strong>Interested?</strong></p>
-<p>If you are interested in using the deep web, make sure to stay updated by reading DeepDotWeb.com, regularly and explore our archives., which have a wealth of information. A good place to start is this <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">markets list</a> or the <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">markets chart</a>.</p>
+<p>If you are interested in using the deep web, make sure to stay updated by reading DeepDotWeb.com, regularly and explore our archives., which have a wealth of information. A good place to start is this <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">markets list</a> or the <a href="dark-net-market-comparison-chart/">markets chart</a>.</p>
 
 Updated: 2014-11-30
     

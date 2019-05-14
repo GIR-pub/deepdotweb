@@ -2,7 +2,7 @@
 Woman Sentenced to Six Years for Hiring a Hitman on the Darknet
 ---
 <article class="post-listing post-24265 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-darknet tag-hiring tag-hitman tag-sentenced tag-woman tag-years">
+ tag-hiring tag-hitman tag-sentenced tag-woman tag-years">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>January 4, 2018</span>
@@ -20,5 +20,7 @@ Woman Sentenced to Six Years for Hiring a Hitman on the Darknet
 <p>New information emerged revealing that the woman asked her friend to delete the order on Crimebay and message the site’s administrator. The acquaintance gave the letter from Consortini to the police, and in turn, the police questioned the woman about the nature of the letter and whether or not it had been sent by Consortini. She admitted that she had sent the letter, but only to ensure the safety of her boyfriend (and his girlfriend in Italy).</p>
 <p>The court sentenced the 58-year-old attempted murderer to spend six years in prison and later be deported from Denmark.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/hiring/" rel="tag">hiring</a> <a href="https://www.deepdotweb.com/tag/hitman/" rel="tag">hitman</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/woman/" rel="tag">woman</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-01-04<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/hiring/" rel="tag">hiring</a> <a href="https://www.deepdotweb.com/tag/hitman/" rel="tag">hitman</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/woman/" rel="tag">woman</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2018-01-04<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

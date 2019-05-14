@@ -1,8 +1,8 @@
 ---
-Netherlands Police Bust a Massive Darknet Vendor Under New Aliases"
+Netherlands Police Bust a Massive Darknet Vendor Under New Aliases
 ---
 <article class="post-listing post-25197 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-aliases tag-bust tag-darknet tag-massive tag-netherlands tag-police tag-vendor">
+ tag-aliases tag-bust tag-massive tag-netherlands tag-police tag-vendor">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 30, 2018</span>
@@ -24,5 +24,7 @@ Netherlands Police Bust a Massive Darknet Vendor Under New Aliases"
 <p><em>According to Dutch Criminal Law, the import and export of narcotics such as cocaïne, MDMA or XTC is a criminal act for which a maximum sentence of twelve years imprisonment may be imposed.</em>”</p>
 <p>The arrest of the alleged vendors is unlikely to be the end of the case. According to the police, the vendors kept a list with the names and addresses of more than 1,000 customers.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/aliases/" rel="tag">aliases</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-03-30<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/aliases/" rel="tag">aliases</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/massive/" rel="tag">massive</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2018-03-30<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

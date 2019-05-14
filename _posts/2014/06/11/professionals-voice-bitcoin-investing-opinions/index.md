@@ -3,6 +3,7 @@ title: "Professionals Voice: Bitcoin Investing Opinions"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 11, 2014</span>
 
 <p>Bitcoin has gained tremendous support since its conception, and, moving into a new technological era, is being regarded by many as the new way to trade. Many others, however, view Bitcoin as a danger to potential investors. This article will outline some of these opinions, and provide a side-by-side comparison of some of the biggest names the economy and their opinions on that crypto-wonder named bitcoin!</p>

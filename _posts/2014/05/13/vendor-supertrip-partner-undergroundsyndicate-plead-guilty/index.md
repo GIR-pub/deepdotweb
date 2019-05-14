@@ -3,6 +3,7 @@ title: "Vendor SuperTrips Partner &#8211; &#8220;UnderGroundSyndicate&#8221; To 
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 13, 2014</span>
 
 <p>Few weeks ago we have reported about the arrest of Silk Road vendor <a href="/2014/04/25/dutch-man-vendor-supertrips-plead-guilty-selling-illegal-drugs-millions-shuttered-silk-road/"> SuperTrip</a> And his <a href="/2014/05/08/supertrips-pleaded-guilty-for-selling-large-amounts-on-silk-road/">plea</a>,  as part of the plea it was mentioned that he had a partner called Underground syndicate:</p>

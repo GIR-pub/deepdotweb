@@ -4,6 +4,7 @@ title: "A Decentralized, Resistant, Alternative Internet"
 
 
 Posted by: Greg Miller
+
 <span>November 4, 2014</span>
 
 <p>The internet to is way more centralized than anyone realizes. The US government and Internet Corporation for Assigned Names and Numbers (ICANN) has temerous sway and power over the internet. With increased regulations, the infrastructure that supports the internet is increasingly monopolistic. Geeks used to set up ISPs as a hobby, and way to get a little extra income.</p>

@@ -1,7 +1,7 @@
 ---
-A Canadian Who Purchased Drugs and Arms from Darknet Commit Suicide in Prison"
+A Canadian Who Purchased Drugs and Arms from Darknet Commit Suicide in Prison
 ---
-<article class="post-listing post-21618 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-canadian tag-commit tag-darknet tag-prison tag-purchased tag-suicide">
+<article class="post-listing post-21618 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arms tag-canadian tag-commit tag-prison tag-purchased tag-suicide">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/sagm-wood/" title="">Sagm Wood </a></span>
     <span>July 29, 2017</span>
@@ -23,6 +23,8 @@ A Canadian Who Purchased Drugs and Arms from Darknet Commit Suicide in Prison"
     <p>He is even suspected to be an Alphabay administrator. If it happens that he was the Alphabay administrator, then all hope for those whose money is locked up there is lost. Also, if the information turns out to be true, then it means Darknet market admins are slowly being taken care of by the police, ranging from the arrest of Ross Ulbricht and his co-administrator to other operators. Credible information concerning this rumor would have been provided had he not taken his life.</p>
     <p>More arrests are expected to follow, and the RCMP had a hand in the arrest of the many Darknet users from Canada. A lot of packages have also been <a href="https://www.deepdotweb.com/2016/08/18/police-intercept-package-mail-containing-1kg-carfentanil/">intercepted</a> by authorities. A privacy expert, David Fraser, concerning the operation of the authorities on the Darknet that leads to the arrest of Darknet users and administrators who hide behind the mask, said; “the complicated thing is what they do when they get there and what they do with what they find. If police are monitoring and tracking individual suspects online and using it to build a criminal case, they may be required to obtain a warrant. Police may also find themselves in trouble if they surveil entire subsections of the internet in the hopes of catching a handful of individuals.”</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/canadian/" rel="tag">canadian</a> <a href="https://www.deepdotweb.com/tag/commit/" rel="tag">commit</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a> <a href="https://www.deepdotweb.com/tag/suicide/" rel="tag">suicide</a></span> <span style="display:none" class="updated">2017-07-29</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arms/" rel="tag">arms</a> <a href="https://www.deepdotweb.com/tag/canadian/" rel="tag">canadian</a> <a href="https://www.deepdotweb.com/tag/commit/" rel="tag">commit</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/purchased/" rel="tag">purchased</a> <a href="https://www.deepdotweb.com/tag/suicide/" rel="tag">suicide</a></span> <span style="display:none" class="updated">2017-07-29</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/sagm-wood/" title="Posts by Sagm Wood" rel="author">Sagm Wood</a></strong></div>
-    
+    </div>
+</article>
+

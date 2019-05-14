@@ -3,6 +3,7 @@ title: "Introducing Bitrated: Bitcoin Arbitration Marketplace"
 ---
 
 Posted by: DeepDotWeb
+
 <span>February 17, 2014</span>
 
 <p>One of the most needed things in the DarkNetMarket Scene, is without a doubt, more Multisig based services, few days ago we were introduced to some <strong>open source and 100% free solution</strong> for arbitration services in bitcoin transactions using multisigs, the service is called <strong>Bitrated </strong>and it can be accessed here:</p>

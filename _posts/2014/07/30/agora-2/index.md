@@ -3,13 +3,14 @@ title: "Agora Down Time: Hardware Failure"
 ---
 
 Posted by: DeepDotWeb
+
 <span>July 30, 2014</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+
 <a href="/2014/07/30/agora-2/#respond">Leave a comment</a></span>
 </p>
 <p><strong>Update:  <span style="color: #ff0000;">Market is back up and running<br/>
 </span></strong></p>
-<p>Since many people are asking us from some reason than, YES, there is an official announcement from <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">agora</a>, its not gone, they have a hardware failure and will be up in 2 days (actually its suppose to be today since it was posted on their forums almost 2 days ago):</p>
+<p>Since many people are asking us from some reason than, YES, there is an official announcement from <a href="marketplace-directory/listing/agora-market">agora</a>, its not gone, they have a hardware failure and will be up in 2 days (actually its suppose to be today since it was posted on their forums almost 2 days ago):</p>
 <blockquote><p>We have been working out the issues and at this time we have established that, as unlikely as that is, there has been a hardware failure in a key piece of our infrastructure.<br/>
     We are still trying to figure out the fastest way to bring everything online, but in case we have to rebuild some of the hardware it is going to take some time. In such cases we have strict anonymity protocols which we have to follow.<br/>
     We shall keep you updated, but unfortunately right now it seems that the works could take up to two days. It&#8217;s possible that it will be completed sooner, but we are considering all the possible problems, which usually come up in such cases.</p></blockquote>

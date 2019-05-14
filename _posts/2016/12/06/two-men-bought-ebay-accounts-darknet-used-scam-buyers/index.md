@@ -1,7 +1,7 @@
 ---
 Two Men Bought eBay Accounts from the Darknet, Used Them to Scam Buyers"
 ---
-<article class="post-listing post-16762 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accounts tag-bought tag-buyers tag-darknet tag-ebay tag-men tag-scam">
+<article class="post-listing post-16762 post type-post status-publish format-standard has-post-thumbnail hentry  tag-accounts tag-bought tag-buyers tag-ebay tag-men tag-scam">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>December 6, 2016</span>

@@ -3,13 +3,14 @@ title: "Introducing The Grail: The 1776 Equal Trust Multisig System"
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 12, 2014</span>
 
 <p>1776 now supports two unique forms of escrowed commerce: Equal Trust Escrow, and what I&#8217;ll call “Noob Escrow.”</p>
 <p><span style="text-decoration: underline;"><em>This guest post was Provided by &#8220;Tom&#8221; the founder and admin of 1776 market &#8211; Published as it is.</em></span></p>
 <div class="box  success"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong>Market url: http://n6tzonxy7sod7eqt.onion/Register?refid=AGGEHU</strong><br />
-<strong><a class="sabai-entity-type-content sabai-entity-bundle-name-directory-listing sabai-entity-bundle-type-directory-listing" title="1776 Marketplace" href="http://www.deepdotweb.com/marketplace-directory/listing/1776-marketplace">1776 Marketplace</a></strong>
+<strong><a class="sabai-entity-type-content sabai-entity-bundle-name-directory-listing sabai-entity-bundle-type-directory-listing" title="1776 Marketplace" href="marketplace-directory/listing/1776-marketplace">1776 Marketplace</a></strong>
 </div></div>
 <p>The chances are quite high that if you&#8217;re reading this, you aren&#8217;t going to want or need Noob Escrow. Noob Escrow provides the very simplest buying experience of any Tor market, making 1776 a great site for first-time buyers who don&#8217;t yet understand Bitcoin or Tor marketplaces very well, while still putting all escrowed funds into a multi-signature wallet between the site and the vendor, making it impossible for the vendor to be robbed. Buyers can still withhold finalization until they are satisfied, or dispute orders. I will save a discussion of Noob Escrow for the vendors further on in this article.</p>
 <p>At the original launch of 1776 a few weeks ago, a commenter at <a href="http://www.reddit.com/r/DarkNetMarkets/comments/23gb2s/1776_market_automated_multisignature_escrow/" target="_blank">Deep Dot Web&#8217;s Reddit</a> <a href="/2014/04/19/1776-market-automated-multi-signature-escrow/" target="_blank">article</a> complained that there was no multi-sig escrow system that didn&#8217;t require the buyer to trust the site. I thought that was a great point, and that there should be one. Now there is.</p>
@@ -67,7 +68,7 @@ Posted by: DeepDotWeb
 <p><strong>The 1776 system is the key, my friends. This is the 2.0 of Darknet commerce.</strong></p>
 <div class="box  success"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong>Market url: http://n6tzonxy7sod7eqt.onion/Register?refid=AGGEHU</strong><br />
-<strong><a class="sabai-entity-type-content sabai-entity-bundle-name-directory-listing sabai-entity-bundle-type-directory-listing" title="1776 Marketplace" href="http://www.deepdotweb.com/marketplace-directory/listing/1776-marketplace">1776 Marketplace</a></strong>
+<strong><a class="sabai-entity-type-content sabai-entity-bundle-name-directory-listing sabai-entity-bundle-type-directory-listing" title="1776 Marketplace" href="marketplace-directory/listing/1776-marketplace">1776 Marketplace</a></strong>
 </div></div>
 <p>So let me talk you into coming over to the site and setting up shop right now.</p>
 <p>There&#8217;s one more cool feature I didn&#8217;t mention: email notifications. They&#8217;re available for both vendors and buyers. The system connects (always, always through Tor, for everything) to a hyper-secure mail host. It sends a notification with the subject “Encrypted Message” and a notification that has been encrypted with your public key. The three notifications at present are: new order, finalized order, new message. For buyers, it&#8217;s messages, order approved, order shipped.</p>

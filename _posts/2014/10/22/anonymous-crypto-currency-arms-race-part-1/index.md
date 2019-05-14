@@ -4,9 +4,10 @@ title: "The Anonymous Crypto-Currency Arms Race Part 1"
 
 
 Posted by: Greg Miller
+
 <span>October 22, 2014</span>
     
-<p><em>All the parts are available in the <a href="http://www.deepdotweb.com/tag/ArmsRace/">Armsrace Tag</a>  &#8211; Once published</em></p>
+<p><em>All the parts are available in the <a href="tag/ArmsRace/">Armsrace Tag</a>  &#8211; Once published</em></p>
 <p>While the world focuses on the many historical events happening around the world &#8211; the increasing divide between the west and Russia, Israel killing Palestinians, the Ebola outbreak in West Africa, and a heated Southeast Asian sea – there is an even more important event happening in the dark corners of the web. Since the deep web&#8217;s earliest days, the technology and business practices used have been improving steadily. Marketplaces have been getting better at avoiding economic oppression and making buying drugs as pleasant as buying an iPhone off e-bay. It is safe to say the emergence of Bitcoin was a great boost to the underground marketplaces. The deep web had marketplaces made for the internet but didn&#8217;t a currency made for the internet.</p>
 <p><strong>Hidden For All to See</strong></p>
 <p>Bitcoin allowed less friction in deep web commerce, but most importantly, it was run by computer code and not people. Government sanction (regulated) currencies and commerce provided a stiff barrier to the online black market, even people pro black markets provide a risk. Pre-Bitcoin digital currencies like Liberty Reserve, and E-Gold, did not mind people using their currencies to trade drugs and other illicit goods. The government, on the other hand, would not allow this Laissez Faire attitude. The government forced both businesses to either shut down or comply with the state&#8217;s law. With Bitcoin, there is no one for the state to point guns at. Bitcoin&#8217;s run free without the burden of gatekeepers of any kind.</p>

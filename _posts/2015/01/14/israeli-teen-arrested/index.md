@@ -1,7 +1,7 @@
 ---
 Israeli Teen Arrested For Selling Drugs Bought On The DarkNet
 ---
-<article class="post-listing post-8786 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bought tag-darknet tag-israeli tag-selling tag-teen">
+<article class="post-listing post-8786 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bought tag-israeli tag-selling tag-teen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>January 14, 2015</span>

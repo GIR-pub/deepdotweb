@@ -1,7 +1,7 @@
 ---
 Another Suspect Claimed Someone Else Used His Address to Buy from the Darknet
 ---
-<article class="post-listing post-17274 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-buy tag-claimed tag-darknet tag-suspect">
+<article class="post-listing post-17274 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-buy tag-claimed tag-suspect">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 2, 2017</span>
@@ -18,6 +18,8 @@ Another Suspect Claimed Someone Else Used His Address to Buy from the Darknet
     <p>&#8220;They have no evidence on my client, apart from an address label,&#8221; Marcus Fischer, the defense attorney said. The lawyer filed an appeal regarding the charges—if convicted, his client would receive a fine of 3600 euros and 90 days jail time. He mentioned that 90 days is a criminal record.</p>
     <p>Judge Silke Schneider said that &#8220;this is exactly the problem with the Darknet—that nothing is traceable. Soon, more witnesses will be heard. We will read chat protocols.” He adjourned the session and reopened the investigation, pending new evidence.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/claimed/" rel="tag">claimed</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a></span> <span style="display:none" class="updated">2017-01-02</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/claimed/" rel="tag">claimed</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/suspect/" rel="tag">suspect</a></span> <span style="display:none" class="updated">2017-01-02</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

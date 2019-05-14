@@ -2,7 +2,7 @@
 Soldier Jailed After Filming Himself Rape Child on the Darknet
 ---
 <article class="post-listing post-25882 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-child tag-darknet tag-filming tag-jailed tag-rape ier">
+ tag-child tag-filming tag-jailed tag-rape ier">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 31, 2018</span>

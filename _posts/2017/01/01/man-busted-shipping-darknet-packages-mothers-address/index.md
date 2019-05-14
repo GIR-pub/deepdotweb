@@ -1,7 +1,7 @@
 ---
-Man Busted for Shipping Darknet Packages to His Mother’s Address"
+Man Busted for Shipping Darknet Packages to His Mother’s Address
 ---
-<article class="post-listing post-17262 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-busted tag-darknet tag-man tag-mothers tag-packages tag-shipping">
+<article class="post-listing post-17262 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-busted tag-man tag-mothers tag-packages tag-shipping">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 1, 2017</span>
@@ -18,6 +18,8 @@ Man Busted for Shipping Darknet Packages to His Mother’s Address"
     <p>Police mentioned finding packaging material for amphetamine, providing evidence that he ordered amphetamine from the darknet. Beyond the 675 grams seized by customs. They also found two swords. Police shipped the accused to Wels where he faced a judge for the crimes mentioned above. One source noted that he received a weapons ban that stopped him from buying guns or swords.</p>
     <p>He currently sits in Wels prison.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a>  <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/mothers/" rel="tag">mothers</a> <a href="https://www.deepdotweb.com/tag/packages/" rel="tag">packages</a> <a href="https://www.deepdotweb.com/tag/shipping/" rel="tag">shipping</a></span> <span style="display:none" class="updated">2017-01-01</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a>  <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/mothers/" rel="tag">mothers</a> <a href="https://www.deepdotweb.com/tag/packages/" rel="tag">packages</a> <a href="https://www.deepdotweb.com/tag/shipping/" rel="tag">shipping</a></span> <span style="display:none" class="updated">2017-01-01</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

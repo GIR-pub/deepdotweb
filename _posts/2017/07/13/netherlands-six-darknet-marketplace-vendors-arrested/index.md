@@ -1,7 +1,7 @@
 ---
-Netherlands: Six Darknet Marketplace Vendors Arrested"
+Netherlands: Six Darknet Marketplace Vendors Arrested
 ---
-<article class="post-listing post-21254 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darknet tag-netherlands tag-vendors">
+<article class="post-listing post-21254 post type-post status-publish format-standard has-post-thumbnail hentry  tag-netherlands tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
     <span>July 13, 2017</span>
@@ -32,6 +32,8 @@ Netherlands: Six Darknet Marketplace Vendors Arrested"
     <p>The Public Prosecution Service continued: “Secondly, the team communicates about the detection and prosecution of many large vendors on the underground marketplaces. Thirdly, the Hidden Service points out that buyers of illegal goods aren’t as anonymous on the darknet as the might think.”</p>
     <p>It is expected that more vendors will be arrested by the Dutch authorities following the recent intensive investigation on the Darknet marketplaces.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-07-13</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/netherlands/" rel="tag">netherlands</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-07-13</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name">
-    
+    </div>
+</article>
+

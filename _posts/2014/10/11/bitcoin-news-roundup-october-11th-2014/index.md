@@ -3,6 +3,7 @@ title: "Bitcoin News Roundup – October 11th, 2014"
 ---
 
 Posted by: DeepDotWeb
+
 <span>October 11, 2014</span>
 
 <p><em>Featuring the week’s biggest news stories on the world-famous cryptocurrency from around the web.</em></p>

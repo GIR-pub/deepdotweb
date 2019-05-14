@@ -4,6 +4,7 @@ title: "Poll: Should We Publish An Interview With A Pedo Site Owner?"
 
 
 Posted by: DeepDotWeb
+
 <span>April 2, 2014</span>
     
 <a href="/2014/04/02/poll-should-we-publish-an-interview-with-a-pedo-site-owner/#comments">136 Comments</a></span>
@@ -15,7 +16,7 @@ Posted by: DeepDotWeb
 <p><span style="color: #ff0000;"><strong>That was a bit before i introduced him to the BBC reporter Angus Crawford which i was helping at the time with a series he is working on about the Deep Web. They published only few quotes from him, i thought they will post more.</strong></span>
 </div></div>
 <p><strong><span style="text-decoration: underline;">Update 1.5.14</span></strong>:<span style="color: #000000;">We have Connected between the Interviewed site owner to a BBC Journalist working on a DeepWep series, so if everything goes well &#8211; you will be able to hear what he has to say there, the BBC are much better than us with editing this type of material to keep it safe.</span></p>
-<p><strong><span style="text-decoration: underline;">Update 12.4.14</span></strong>: <span style="text-decoration: underline;"><a href="http://www.deepdotweb.com/clarification-cancelled-interview/"><span style="color: #000000; text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Full clarification and explanation of all the claims that were raised &amp; the questions regarding the cancelled interview can be found here </span></span></a></span></p>
+<p><strong><span style="text-decoration: underline;">Update 12.4.14</span></strong>: <span style="text-decoration: underline;"><a href="clarification-cancelled-interview/"><span style="color: #000000; text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Full clarification and explanation of all the claims that were raised &amp; the questions regarding the cancelled interview can be found here </span></span></a></span></p>
 <p><span style="text-decoration: underline;"><strong>Update 4.4.14</strong></span>: Despite the poll results and the fact that we know this will bring us quite a lot of &#8220;media&#8221; attention, our decision is to NOT publish this interview &#8211; this is not some &#8220;stunt&#8221;, we seriously considered it, received many many comments trough various channels and came to the conclusion that the bad is more likely to outweighs the good and this stuff should not be posted here.</p>
 <p>Ok, We have come across some moral dilemma that we were unable to find an answer to. so we decided to place a poll and ask our readers what they think we should decide about it&#8230;</p>
 <p>First of all i must say we receive A LOT of weird emails from weird people. But A about a week ago we have received the following disturbing mail (some details removed):</p>

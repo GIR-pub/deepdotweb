@@ -3,9 +3,10 @@ title: "Operation Onymous: Darknet Related Bust In Ireland"
 ---
 
 Posted by: DeepDotWeb
+
 <span>November 6, 2014</span>
 
-<p><strong>Update 2:  Busts confirmed &#8211; Silk Road 2 seized And other markets seized -See all the posts related to this ongoing case –  <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk road Bust Tag</a></strong></p>
+<p><strong>Update 2:  Busts confirmed &#8211; Silk Road 2 seized And other markets seized -See all the posts related to this ongoing case –  <a href="tag/silkroad2bust/">Silk road Bust Tag</a></strong></p>
 <p><strong>Update</strong>: Trying to verify the connection to several markets being down at this time</p>
 <p>Its is not yet clear who is the vendor that was arrested but it was just published in <a href="http://www.rte.ie/news/2014/1106/657346-drugs/" target="_blank">irte.ie</a> that the Gardaí (the police force of Ireland) raided an internet drug distribution center in Dublin &#8220;using the encrypted network Darknet&#8221; (Tor network?) and seized almost €200,000 worth of cannabis, ecstasy and LSD.</p>
 <p><span style="text-decoration: underline;">Quoting the article:</span></p>
@@ -28,7 +29,7 @@ Posted by: DeepDotWeb
 <p>And also made a reference to the arrested vendor:</p>
 <blockquote><p>“The fact that such a significant vendor has been arrested in the presence of an encrypted but open computer with address lists for customers all over the world will be of significant interest to many global law enforcement agencies who specialise in Darknet investigations,” the Garda statement concluded.</p></blockquote>
 <p>We will follow and update as this story unfolds.</p>
-</div>
+
 
 Updated: 2014-11-06
     

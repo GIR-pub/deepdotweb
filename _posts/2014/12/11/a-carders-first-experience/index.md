@@ -3,6 +3,7 @@ title: "A Carder&#8217;s First Experience"
 ---
 
 Posted by: Kiell
+
 <span>December 11, 2014</span>
 
 <p><em><span style="text-decoration: underline;">We do not support carding</span>! This is for educational purposes only &#8211; and reflect the author&#8217;s own experience and views only.</em></p>

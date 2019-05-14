@@ -2,12 +2,11 @@
 title: "Russia Emerging Black Market For Bitcoin"
 ---
 
-7386  tag-emerging tag-russia
 Posted by: Greg Miller
+
 <span>December 18, 2014</span>
     
-<a href="/2014/12/18/russia-emerging-black-market-bitcoin/#comments">4 Comments</a></span>
-</p>
+
 <p>It has been clear that a black market for unregulated bitcoin would soon exist. Black markets emerge to serve the needs of human beings that don’t comply with governmental regulations. 2014 could be called the year of bitcoin regulation. Governments around the world have starting working towards, and even implementing regulation. The regulation is not just hot air as there has been cases of governments acting on this. In France, an unlicensed bitcoin exchange and the the couple running the exchange at the time have been in imprison. This was a short time after France declared bitcoin exchanges as financial situation that need to be licensed like any other. In matter of months, Russia has turned into one of the worse places to be a bitcoiner. While Ecuador, Bangladesh, Bolivia and other countries have straight out banned bitcoin, they have not went into the effort to create special rules to punish it or stop people from supporting it, like Russia has. Russia has decided to move very aggressively against Bitcoin.</p>
 <p>Bitcoin is very popular in Russia. While there isn’t as much of a community or start up scene, for obvious reasons, many bitcoin news sites and exchanges can be read in Russia, alongside Chinese, Spanish, and English. This is because there is a lot of interest and activity from Russians. The market is certainly not as important as China or America but it is closer to the European market in its size. The bitcoin exchange, BTC-E, is the <a href="http://www.alexa.com/siteinfo/btc-e.com">794</a> most popular website in the country. That is very good! Other exchanges don’t even get close to that number in China or USA.</p>
 <p>The reason why bitcoin is so popular in Russia is because bitcoin means financial freedom. There is no gatekeepers within the bitcoin payment system, and the coin is free from inflation. The ruble, Russia’s official government currency, is dramatically losing value right now. The ruble has been taking a real hit during Russia’s and Europe’s participation in a war of financial attrition against each other. Russia is trying to stop this flight of capital out of the ruble and into bitcoin &#8211; a government resistance and boarder less currency. Those qualities are great for a Russian facing Russia’s uncertain financial future.</p>
@@ -30,8 +29,7 @@ Posted by: Greg Miller
 <p><strong>The Unofficial Policy</strong></p>
 <p>It is rumored that high level Russian hackers, carders, and other online criminals have a deal with the Russian government that makes they have impunity to the law as long as they don’t attack Russian business, institutions, etc or hurt their interests. We might see an unofficial policy with crypto-currency given to Russian cyber criminals and their associates if they start to use bitcoin heavily.</p>
 <p><strong>Give Them Hell</strong></p>
-<p>Well we are sad to see the Russian government be so tyrannical towards bitcoin, but we can’t to see the innovative solutions Russian black market entrepreneurs come up with. While Russia may be the first to such things, your European neighbors will soon join you as <a title="ITOM Revealed: Europe’s Plan To Crack Down On The Online Drug Trade" href="http://www.deepdotweb.com/2014/09/28/itom-europes-plan-crack-online-drug-trade/">ITOM</a> regulations take effect, but you will have pioneered this industry by then. We salute you and wish the best of luck with resisting financial oppression.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/black/" rel="tag">black</a> <a href="https://www.deepdotweb.com/tag/emerging/" rel="tag">emerging</a> <a href="https://www.deepdotweb.com/tag/russia/" rel="tag">russia</a></span> 
+<p>Well we are sad to see the Russian government be so tyrannical towards bitcoin, but we can’t to see the innovative solutions Russian black market entrepreneurs come up with. While Russia may be the first to such things, your European neighbors will soon join you as <a title="ITOM Revealed: Europe’s Plan To Crack Down On The Online Drug Trade" href="2014/09/28/itom-europes-plan-crack-online-drug-trade/">ITOM</a> regulations take effect, but you will have pioneered this industry by then. We salute you and wish the best of luck with resisting financial oppression.</p>
+
 Updated: 2014-12-18
     

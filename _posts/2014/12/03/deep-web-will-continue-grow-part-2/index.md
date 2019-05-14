@@ -2,13 +2,13 @@
 title: "Why the Deep Web Will Continue To Grow Part 2"
 ---
 
-
 Posted by: Greg Miller
+
 <span>December 3, 2014</span>
     
 <a href="/2014/12/03/deep-web-will-continue-grow-part-2/#respond">Leave a comment</a></span>
 </p>
-<p><strong>All the parts: <a href="http://www.deepdotweb.com/tag/DeepWebGrow/">#DeepWebGrow</a></strong></p>
+<p><strong>All the parts: <a href="tag/DeepWebGrow/">#DeepWebGrow</a></strong></p>
 <p>The deep web success can&#8217;t be solely attributed to the deep web itself. The mainstream press, as well as former clearnet entrepreneurs, have been a big reason why it grew and why it will continue to grow. The combination of this, as well as what I mention in part 1 (put a link to part 1 here), has result in a positive feedback loop that will not be slowing down anytime soon.</p>
 <p><strong>The Deep Web Will Continue To Get Bad Press</strong></p>
 <p>The public, on the surface level, hates drugs and thinks they are a danger to a civilized society. In reality, a large portion of them use drugs. That is why articles, and videos that paint the deep web in a negative light, describing the drugs on the deep web, are massive advertisements for the deep web. What everyone proclaims is wrong with the deep web, are secretly selling points and reasons they start to use the deep web.</p>

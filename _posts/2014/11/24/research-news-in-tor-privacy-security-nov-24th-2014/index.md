@@ -3,6 +3,7 @@ title: "Research &#038; News in Tor, Privacy, &#038; Security – Nov 24th, 2014
 ---
 
 Posted by: Kiell
+
 <span>November 24, 2014</span>
 
 <p>Tor Browser 4.5-alpha-1<a href="https://blog.torproject.org/blog/tor-browser-45-alpha-1-released"> has been released</a>, which marks the first release of the 4.5 Tor Browser series. It includes a “security slider”, which is designed to allow a user to easily edit security preferences. The security slider has four security settings: low (default), medium-low, medium-high, and high. The new “status reporting UI” allows a user to quickly see the Tor circuit that their current connection is utilizing, something that has been missing since the removal of the Vidalia package. A user can simply click the Torbutton icon to pull up this interface.</p>

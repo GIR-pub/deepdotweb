@@ -2,7 +2,7 @@
 Darknet Card Fraud Increased By 50% in Germany in the First Quarter of 2018
 ---
 <article class="post-listing post-25829 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-5927 tag-1447 tag-card tag-darknet tag-fraud tag-germany tag-increased tag-quarter">
+ tag-5927 tag-1447 tag-card tag-fraud tag-germany tag-increased tag-quarter">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/anony/" title="">Anonymous </a></span>
 <span>May 27, 2018</span>
@@ -29,5 +29,7 @@ Darknet Card Fraud Increased By 50% in Germany in the First Quarter of 2018
 <p>Martin Warwich, a consultant at FICO <a href="https://ecommercenews.eu/uk-france-account-73-european-card-fraud/">attributed</a> the increase in CNP fraud to the growing online spending in the world. He says that it poses new challenges for retailers and financial institutions as <a href="https://www.deepdotweb.com/tag/cyber/">cyber criminals</a> who have been disappointed by the PIN and chip have found a less risky avenue.</p>
 <p>“Hiding amongst the growth in online purchases is great from a criminal point of view, but finding and stopping fraudulent transactions just gets tougher,” said Warwich.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/2018/" rel="tag">2018</a> <a href="https://www.deepdotweb.com/tag/50/" rel="tag">50</a> <a href="https://www.deepdotweb.com/tag/card/" rel="tag">card</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a> <a href="https://www.deepdotweb.com/tag/quarter/" rel="tag">quarter</a></span> <span style="display:none" class="updated">2018-05-27<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/2018/" rel="tag">2018</a> <a href="https://www.deepdotweb.com/tag/50/" rel="tag">50</a> <a href="https://www.deepdotweb.com/tag/card/" rel="tag">card</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/fraud/" rel="tag">fraud</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/increased/" rel="tag">increased</a> <a href="https://www.deepdotweb.com/tag/quarter/" rel="tag">quarter</a></span> <span style="display:none" class="updated">2018-05-27<a href="https://www.deepdotweb.com/author/anony/" title="Posts by Anonymous" rel="author">Anonymous</a></strong></div>
+</div>
+</article>
 

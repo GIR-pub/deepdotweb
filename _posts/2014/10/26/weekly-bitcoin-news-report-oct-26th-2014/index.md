@@ -3,6 +3,7 @@ title: "Weekly Bitcoin News Report – Oct. 26th, 2014"
 ---
 
 Posted by: DeepDotWeb
+
 <span>October 26, 2014</span>
 
 <p><em>Providing the top Bitcoin news stories from around the web</em></p>

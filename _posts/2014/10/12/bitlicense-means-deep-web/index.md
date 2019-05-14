@@ -3,6 +3,7 @@ title: "What The Bitlicense Means For The Deep Web"
 ---
 
 Posted by: Greg Miller
+
 <span>October 12, 2014</span>
 
 <p>New York is leading the world in Bitcoin regulation with their proposed, and soon to be implemented, Bitlicense. The Bitlicense is a oppressive piece of legislation that is definitely going to hinder Bitcoin businesses in New York, but these New York regulations crush financial privacy stronger than anything.</p>

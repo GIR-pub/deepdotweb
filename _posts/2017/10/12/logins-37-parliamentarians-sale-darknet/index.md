@@ -2,7 +2,7 @@
 Logins for 37 Parliamentarians Sale on the Darknet
 ---
 <article class="post-listing post-23022 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-5375 tag-darknet tag-logins tag-parliamentarians tag-sale">
+ tag-5375 tag-logins tag-parliamentarians tag-sale">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>October 12, 2017</span>
@@ -20,5 +20,7 @@ Logins for 37 Parliamentarians Sale on the Darknet
 <p>She added that if anyone wanted access to her Dropbox account, it was only to amuse themselves. She said that like Brand, she would never use email to exchange confidential information. If she did, it was only through her parl.ch email address.</p>
 <p>This incident has encouraged officials to issue guidelines on parliamentary use of the internet. In an email to a journalist, an official said that the biggest problem was not with personal use of the government email, but instead with password reuse. Something that plagues Dream vendors and parliament members alike.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/37/" rel="tag">37</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/logins/" rel="tag">logins</a> <a href="https://www.deepdotweb.com/tag/parliamentarians/" rel="tag">parliamentarians</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a></span> <span style="display:none" class="updated">2017-10-12<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/37/" rel="tag">37</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/logins/" rel="tag">logins</a> <a href="https://www.deepdotweb.com/tag/parliamentarians/" rel="tag">parliamentarians</a> <a href="https://www.deepdotweb.com/tag/sale/" rel="tag">sale</a></span> <span style="display:none" class="updated">2017-10-12<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

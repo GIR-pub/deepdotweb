@@ -3,6 +3,7 @@ title: "Security Alert: Six more bugs found in OpenSSl"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 6, 2014</span>
 
 <p>As it was published earlier at <a href="http://www.theregister.co.uk/2014/06/05/openssl_bug_batch/">Theregister</a>: Users of anonymising network Tor should definitely update as the man-in-the-middle attack <a href="https://lists.torproject.org/pipermail/tor-talk/2014-June/033161.html" target="_blank">affects Tor clients and relays</a>. Readers may also recognize the name of the chap who, <a href="http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/ZDI-14-173-CVE-2014-0195-OpenSSL-DTLS-Fragment-Out-of-Bounds/ba-p/6501002#.U5DId5RdV68" target="_blank">according to HP&#8217;s ZDI team</a>, wrote the buggy DTLS code.</p>

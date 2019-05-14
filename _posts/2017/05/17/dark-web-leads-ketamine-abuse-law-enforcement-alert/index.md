@@ -1,7 +1,7 @@
 ---
 Dark Web Leads to Ketamine Abuse, Law Enforcement in Alert
 ---
-<article class="post-listing post-19931 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abuse tag-alert tag-dark tag-enforcement tag-ketamine tag-law tag-leads tag-web">
+<article class="post-listing post-19931 post type-post status-publish format-standard has-post-thumbnail hentry  tag-abuse tag-alert tag-dark tag-ketamine tag-law tag-leads tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 17, 2017</span>
@@ -9,7 +9,7 @@ Dark Web Leads to Ketamine Abuse, Law Enforcement in Alert
     <span><a href="https://www.deepdotweb.com/2017/05/17/dark-web-leads-ketamine-abuse-law-enforcement-alert/#comments">1 Comment</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>The dark web has reintroduced ketamine to large markets around the world, including the UK and Taiwan. According to Drugs 2.0 author Mike Power, by early 2014, the supply and operations of ketamine dealers throughout the UK were wiped out. However, the dark web revived the global ketamine market and dealers have begun to supply the drug to larger markets.</p>
     <p>Over the past decade, law enforcement agencies and regulators in various countries focused on the crackdown of ketamine abusers. Some countries have attempted to decrease the supply to ketamine so that only institutional healthcare service providers and hospitals would have stocks of ketamine readily available for emergency use cases.</p>
     <p><img class="wp-image-19937 aligncenter" src="/imgs/2017/05/word-image-79.png" width="699" height="393" srcset="/imgs/2017/05/word-image-79.png 1200w, /imgs/2017/05/word-image-79-300x169.png 300w, /imgs/2017/05/word-image-79-1024x576.png 1024w" sizes="(max-width: 699px) 100vw, 699px" /><br />
@@ -24,6 +24,8 @@ Dark Web Leads to Ketamine Abuse, Law Enforcement in Alert
     <p>In fact, on April 30, DeepDotWeb <a href="https://www.deepdotweb.com/2017/04/30/major-bust-taiwan-police-seized-511-kilograms-ketamine/">reported</a> that Taiwanese authorities seized 511 kilograms of ketamine obtained from the dark web. At the time, local publications reported that the amount of ketamine seized during the operation would have been enough to supply one million people. Upon the closure of the investigation, the Taipei City Police emphasized the large impact the dark web has on the distribution of ketamine in global markets.</p>
     <p>The dark web and anonymous Tor network-based marketplaces have triggered a new wave of ketamine operations and dealerships throughout the world. Law enforcement agencies and authorities are in alert and as seen in the case of the Taiwanese ketamine dealers, international law enforcement agencies aim to focus on the crackdown of dark web operations and darknet marketplaces supplying and distributing ketamine in large markets.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/alert/" rel="tag">alert</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/ketamine/" rel="tag">ketamine</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/leads/" rel="tag">leads</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-17</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/abuse/" rel="tag">abuse</a> <a href="https://www.deepdotweb.com/tag/alert/" rel="tag">alert</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/ketamine/" rel="tag">ketamine</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/leads/" rel="tag">leads</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-17</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    
+    </div>
+</article>
+

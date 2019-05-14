@@ -2,7 +2,7 @@
 MacOS RAT Spotted on the Darknet and Clearnet
 ---
 <article class="post-listing post-18512 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-clearnet tag-darknet tag-macos tag-rat tag-spotted">
+ tag-clearnet tag-macos tag-rat tag-spotted">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
 <span>March 9, 2017</span>
@@ -39,5 +39,7 @@ MacOS RAT Spotted on the Darknet and Clearnet
 <p><img class="wp-image-18524 aligncenter" src="/imgs/2017/03/word-image-7.png" width="937" height="586" srcset="/imgs/2017/03/word-image-7.png 1920w, /imgs/2017/03/word-image-7-300x188.png 300w, /imgs/2017/03/word-image-7-1024x640.png 1024w" sizes="(max-width: 937px) 100vw, 937px"/></p>
 <p>&nbsp;</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/clearnet/" rel="tag">clearnet</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/macos/" rel="tag">macos</a> <a href="https://www.deepdotweb.com/tag/rat/" rel="tag">rat</a> <a href="https://www.deepdotweb.com/tag/spotted/" rel="tag">spotted</a></span> <span style="display:none" class="updated">2017-03-09<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+<span style="display:none"><a href="https://www.deepdotweb.com/tag/clearnet/" rel="tag">clearnet</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/macos/" rel="tag">macos</a> <a href="https://www.deepdotweb.com/tag/rat/" rel="tag">rat</a> <a href="https://www.deepdotweb.com/tag/spotted/" rel="tag">spotted</a></span> <span style="display:none" class="updated">2017-03-09<a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
+</div>
+</article>
 

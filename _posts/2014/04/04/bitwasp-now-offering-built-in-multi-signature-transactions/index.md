@@ -3,6 +3,7 @@ title: "Bitwasp &#8211; Now Offering Built in multi-signature Transactions!"
 ---
 
 Posted by: DeepDotWeb
+
 <span>April 4, 2014</span>
 
 <p>Following our recent <a href="/2014/03/25/interview-with-bitwasp-founder-developer/">interview</a> with the founder and developer of the Bitwasp software, we were just told that the new version is now released and is offering built in multisig transactions, this is pretty good news as we know this software is being used from time to time for marketplaces and had some history of getting hacked with all the bitcoins stolen &#8211; so with this new multisig feature we could at least not worry about this part, this is a repost of the announcement from the bitwasp forum  + the guide for using multisig transactions, you can find the original thread here: http://bit-wasp.org/index.php/topic,215.0.html</p>

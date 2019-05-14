@@ -4,6 +4,7 @@ title: "Weekly Bitcoin Update – 24 August 2014"
 
 
 Posted by: DeepDotWeb
+
 <span>August 24, 2014</span>
 
 

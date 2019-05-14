@@ -3,6 +3,7 @@ title: "Cross-Marketplace Discussion &#038; News: The Hub Forum Is Live!"
 ---
 
 Posted by: DeepDotWeb
+
 <span>January 15, 2014</span>
 
 <p>It seems like its the communities week, just yesterday we posted about the new <a href="/2014/01/14/meet-the-vault-43/">Vault43</a> Community based market and darknet info source, And today its time to release another one, although a bit different.</p>

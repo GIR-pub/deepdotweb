@@ -3,6 +3,7 @@ title: "Q&#038;A Thread With The Silk Road 2 Administration"
 ---
 
 Posted by: DeepDotWeb
+
 <span>June 6, 2014</span>
 
 <p>Yesterday new silk road 2 admins called <strong>Khufu &amp; Sneferu &amp; Djedefre  </strong>chose a great way to introduce themselves to the silk road 2 users and started a thread on the silk road forums (http://silkroad5v7dywlc.onion/index.php?topic=42543.0;topicseen)  offering a Q&amp;A with the Silk road admins for a few hours:</p>

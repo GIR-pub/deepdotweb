@@ -3,9 +3,10 @@ title: "Official: Silk Road 2.0 Admin Charged in Manhattan Federal Court"
 ---
 
 Posted by: DeepDotWeb
+
 <span>November 6, 2014</span>
 
-<p><strong>See all the posts related to this ongoing case</strong> &#8211;  <a href="http://www.deepdotweb.com/tag/silkroad2bust/">Silk road Bust Tag</a></p>
+<p><strong>See all the posts related to this ongoing case</strong> &#8211;  <a href="tag/silkroad2bust/">Silk road Bust Tag</a></p>
 <p><strong>A press release was just posted on <a href="http://www.fbi.gov/newyork/press-releases/2014/operator-of-silk-road-2.0-website-charged-in-manhattan-federal-court">Fbi.gov</a>:</strong></p>
 <blockquote class="twitter-tweet" width="550">
 <p>Details on Silk Road 2.0, including the arrest of Blake Benthall in San Francisco by FBI agents <a href="http://t.co/9vYf8E6Aa0">http://t.co/9vYf8E6Aa0</a></p>

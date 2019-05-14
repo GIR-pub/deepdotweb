@@ -2,17 +2,9 @@
 title: "Deep Web &#038; Law Enforcement: Introduction to Intelligence"
 ---
 
-7950  tag-deep tag-enforcement tag-intelligence tag-introduction tag-law tag-web    
-    
-        
-Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
-    
+Posted by: Allen Hoffmann, JD
     
 <span>December 24, 2014</span>
-    
-    
-<a href="/2014/12/24/deep-web-law-enforcement-introduction-intelligence/#respond">Leave a comment</a></span>
-</p>
     
 <p>Intelligence is not the same as evidence – just because the police have, somehow, found out about some story, this does not make it court admissible evidence on its own. There is a complex system that LE must use to determine how reliable incoming intelligence is, whether it should be listened to at all, and what exactly it means, but rest assured, its all part of a jigsaw puzzle. Read on…</p>
 <p>In the days of old, crime intelligence was developed by hard-nosed, hard-boiled, rule-bending detectives of the stereotype we’re all used to seeing in police procedural dramas, who drank with snitches and prostitutes to gather information on crimes being committed in a typically compact geographic area. It brought about (and indeed, still does bring about) corruption as cops and hardened, often heavy hitting, violent criminals break bread socially, and the lines of professionalism get blurred, but as any cop will tell you, if you call them out on hanging with the bad boys too much, “You don’t catch crooks in Church”.</p>
@@ -24,8 +16,7 @@ Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Alle
 <p>In a jurisdiction I won’t name, a whole team of detectives was looking for two highly dangerous, unidentified criminals. Owing to specific aspects of the modus operandi employed by these two criminals in their prior offences (manner in which people were restrained, the weapons used, the targets hit), they were known, from an intelligence perspective, to be motivated, reasonably professional, and not affiliated with any gangs which would typically give the police better lines to follow. A number of suspects had been identified owing to their connections to previous investigations; obviously, the police’s interest in these parties was not public knowledge. Money only goes so far, and you cannot conduct protracted surveillance operations on a large number of suspects without the intelligence needed to justify it. The police had, in addition to the publicly acknowledged offenses ascribed to this team, deduced that when they were starting out, they had been involved in certain other crimes, including amongst them a particular armed robbery. One day, for very little money (enough to buy some heroin), the detective bought from an amateur, drug using armed robber who he had cultivated a rapport with, the supposed name of the person who had done that particular armed robbery, from the ‘early days’ of these two criminals. Was the fact the drug dealer gave the police a name proof positive (or even close to it) that the guy named was an armed robber? No, but it was crucial for the ongoing investigation the police were working, because the name matched one of those names from the previous investigations. This is what’s called a “parallel connection”, and when intelligence and surveillance assets were made available to investigate the people this parallel pointed to, over a long period of time, it broke the whole case wide open. The name he gave, and two other people connected to that name, went down. Two are doing life. H</p>
 <p>There’s no way of preventing the existence of all intelligence; but you can certainly take proactive steps to prevent exposure to the human aspect of the intelligence machine.</p>
 <p>Next Part: we’ll look at real world and digital informers.</p>
-    
-    
-<a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/intelligence/" rel="tag">intelligence</a> <a href="https://www.deepdotweb.com/tag/introduction/" rel="tag">introduction</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span>				
+
+
 Updated: 2014-12-24    
 

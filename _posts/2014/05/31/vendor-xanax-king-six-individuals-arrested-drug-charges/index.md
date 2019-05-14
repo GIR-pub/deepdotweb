@@ -3,6 +3,7 @@ title: "Vendor &#8220;Xanax King&#8221;: Six Individuals Arrested on Drug Charge
 ---
 
 Posted by: DeepDotWeb
+
 <span>May 31, 2014</span>
 
 <p><strong>As it was published in a press release from the <a href="http://www.justice.gov/dea/divisions/sf/2014/sf053014.shtml">DEA</a>:</strong></p>

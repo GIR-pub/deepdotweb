@@ -1,7 +1,7 @@
 ---
-Law Enforcement Arrested 900 PlayPen Users Worldwide"
+Law Enforcement Arrested 900 PlayPen Users Worldwide
 ---
-<article class="post-listing post-20003 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5454 tag-enforcement tag-law tag-playpen tag-users wide">
+<article class="post-listing post-20003 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5454 tag-law tag-playpen tag-users wide">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 20, 2017</span>
@@ -22,6 +22,8 @@ Law Enforcement Arrested 900 PlayPen Users Worldwide"
     <p><a id="post-20003-_gjdgxs"></a> The 58-year-old <a href="https://www.deepdotweb.com/2016/09/27/playpen-admin-found-guilty/">Steven Chase</a>, who created PlayPen and was the lead administrator of the website, from Florida, was sentenced to 30 years in prison earlier this week, with two other administrators jailed for 20 years. Law enforcement authorities started an investigation against Chase soon after the website launched in the summer of 2014. The Federal Bureau of Investigation stated that they had become aware of the <a href="https://www.deepdotweb.com/2017/04/18/another-school-teacher-found-guilty-child-porn/">child porn</a> website, however, “given the nature of how Tor hidden services work, there was not much we could do about it,&#8221; Special Agent Alfin said. The investigation went on until December 2014, when a gap on the PlayPen website was discovered by foreign law enforcement authorities, who alerted the FBI. The PlayPen site has been down for more than two years, however, the FBI warned that similar sites continue to operate on the dark web providing child pornography content for their users.</p>
     <p>&#8220;It&#8217;s ongoing and we continue to address the threat to the best of our abilities,&#8221; said Alfin. &#8220;It&#8217;s the same with any criminal violation: As they get smarter, we adapt, we find them. It&#8217;s a cat-and-mouse game, except it&#8217;s not a game. Kids are being abused, and it&#8217;s our job to stop that.&#8221;</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/900/" rel="tag">900</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/worldwide/" rel="tag">worldwide</a></span> <span style="display:none" class="updated">2017-05-20</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/900/" rel="tag">900</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/playpen/" rel="tag">playpen</a> <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/worldwide/" rel="tag">worldwide</a></span> <span style="display:none" class="updated">2017-05-20</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    
+    </div>
+</article>
+

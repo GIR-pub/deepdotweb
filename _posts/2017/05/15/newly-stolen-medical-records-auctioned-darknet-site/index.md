@@ -1,7 +1,7 @@
 ---
-Newly Stolen Medical Records Auctioned on Darknet Site"
+Newly Stolen Medical Records Auctioned on Darknet Site
 ---
-<article class="post-listing post-19881 post type-post status-publish format-standard has-post-thumbnail hentry  tag-auctioned tag-darknet tag-medical tag-newly tag-records tag-site tag-stolen">
+<article class="post-listing post-19881 post type-post status-publish format-standard has-post-thumbnail hentry  tag-auctioned tag-medical tag-newly tag-records tag-site tag-stolen">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>May 15, 2017</span>
@@ -9,7 +9,7 @@ Newly Stolen Medical Records Auctioned on Darknet Site"
     <span><a href="https://www.deepdotweb.com/2017/05/15/newly-stolen-medical-records-auctioned-darknet-site/#comments">3 Comments</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>Relatively speaking, Lithuania amassed their fair share of data breaches within the past five years. In many cases, the hacks occurred both inside and outside the medical sector—the medical breaches, though carried less of a foreign impact than the others. However, a Lithuanian plastic surgery clinic recently <a href="https://www.databreaches.net/lithuania-cybercriminals-blackmail-plastic-surgery-clinic-with-stolen-photos/">landed in the spotlight for a data breach</a> that showcased patient pictures on the darknet.</p>
     <p>International media saw Lithuania on the news for a medical data breach not long ago. The “Tsar Team&#8221; aka “Fancy Bear“ hacked the World Anti-Doping Agency (WADA). Confidential medical data of 25 famous athletes made their rounds in the internet. Serena Williams lost her confidential information in that breach and was among the most famous of the victims. The database hack of Lithuanian web host “000webhost” likely rang more alarm bells, however. Hackers dumped 13 million passwords and HaveIbeenpwned activity spiked.</p>
     <p><img class="wp-image-19887 aligncenter" src="/imgs/2017/05/word-image-55.jpeg" srcset="/imgs/2017/05/word-image-55.jpeg 800w, /imgs/2017/05/word-image-55-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
@@ -25,6 +25,8 @@ Newly Stolen Medical Records Auctioned on Darknet Site"
     <p><img class="wp-image-19891 aligncenter" src="/imgs/2017/05/word-image-59.jpeg" srcset="/imgs/2017/05/word-image-59.jpeg 800w, /imgs/2017/05/word-image-59-300x225.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></p>
     <p>The auction is an interesting choice. In addition to auctioning off each patient, they continue to blackmail the plastic surgery clinic. Furthermore​, the price for patient data keeps rising. At the writing of this article, the buyout price is 300BTC. The company has not concretely said anything about their next step. However, at this point, along with statements that call the hackers thugs, not hackers, the chances of a buyout happening look slim.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/auctioned/" rel="tag">auctioned</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/medical/" rel="tag">medical</a> <a href="https://www.deepdotweb.com/tag/newly/" rel="tag">newly</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2017-05-15</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/auctioned/" rel="tag">auctioned</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/medical/" rel="tag">medical</a> <a href="https://www.deepdotweb.com/tag/newly/" rel="tag">newly</a> <a href="https://www.deepdotweb.com/tag/records/" rel="tag">records</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a></span> <span style="display:none" class="updated">2017-05-15</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

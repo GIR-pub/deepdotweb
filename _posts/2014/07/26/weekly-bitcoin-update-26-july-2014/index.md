@@ -4,6 +4,7 @@ title: "Weekly Bitcoin Update – 26 July 2014"
 
 
 Posted by: DeepDotWeb
+
 <span>July 26, 2014</span>
 
 

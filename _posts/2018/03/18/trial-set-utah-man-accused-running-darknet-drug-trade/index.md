@@ -2,7 +2,7 @@
 Trial Set for Utah Man Accused of Running Darknet Drug Trade"
 ---
 <article class="post-listing post-25084 post type-post status-publish format-standard has-post-thumbnail hentry 
- tag-accused tag-darknet tag-man tag-running tag-set tag-trade tag-trial tag-utah">
+ tag-accused tag-man tag-running tag-set tag-trade tag-trial tag-utah">
 <div class="post-inner">
 <span>Posted by: <a href="https://www.deepdotweb.com/author/samjona/" title="">Sam Jona </a></span>
 <span>March 18, 2018</span>

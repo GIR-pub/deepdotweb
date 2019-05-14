@@ -3,10 +3,11 @@ title: "Agora Admin Explains: Why is Agora Always down?"
 ---
 
 Posted by: DeepDotWeb
+
 <span>September 1, 2014</span>
     
 
-<p>For the first time, <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora market</a> (the most successful market at this time) admins offered a complete explanation about &#8220;why the market is down all the time?&#8221; &#8211; an important read for those who are asking this question every time that the market is down.</p>
+<p>For the first time, <a href="marketplace-directory/listing/agora-market">Agora market</a> (the most successful market at this time) admins offered a complete explanation about &#8220;why the market is down all the time?&#8221; &#8211; an important read for those who are asking this question every time that the market is down.</p>
 <p>Original post on Agora forums can be found here: http://lacbzxobeprssrfx.onion/index.php/topic,33275.0.html</p>
 <p><strong>Here is the full quote:</strong></p>
 <blockquote><p>Since you have all recently had to tolerate certain problems with the market availability, we want to address some of your concerns. We don&#8217;t intend to defend the mediocre availability of the market up to this point, and we still assure you that we are frantically working on making the situation much better, but this is just an explanation about why the problems have appeared in the first place, since many of these questions seem to pop up every now and then.</p>

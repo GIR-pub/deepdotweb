@@ -1,7 +1,7 @@
 ---
 Irish Law Enforcement Calls Darknet Drug Trafficking an “Overwhelming Challenge”
 ---
-<article class="post-listing post-17673 post type-post status-publish format-standard has-post-thumbnail hentry  tag-calls tag-challenge tag-darknet tag-enforcement tag-irish tag-law tag-overwhelming tag-trafficking">
+<article class="post-listing post-17673 post type-post status-publish format-standard has-post-thumbnail hentry  tag-calls tag-challenge tag-irish tag-law tag-overwhelming tag-trafficking">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 24, 2017</span>
@@ -18,6 +18,8 @@ Irish Law Enforcement Calls Darknet Drug Trafficking an “Overwhelming Challeng
     <p>“Drugs are indeed sold on the open internet, but the real problem stems from the multi-million-euro global drug trade on ‘Darknet’ marketplaces. Darknets are used for the sale of many illegal commodities and services including firearms and child pornography, but the biggest deal is in drugs, this can be pharmaceutical drugs,” Roberts explained.</p>
     <p>The Gardaí made several power moves in 2014, however. They are among the world’s leading cybercrime and darknet law enforcement agencies, thanks to and international cooperation with <a href="https://www.deepdotweb.com/?s=hyperion">Europol, Interpol, and global law enforcement agencies</a>. “International law enforcement operations are continuing to try to tackle these online platforms, which are regarded as the modern era of drug dealing,” he concluded.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/challenge/" rel="tag">challenge</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/overwhelming/" rel="tag">overwhelming</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-01-24</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/calls/" rel="tag">calls</a> <a href="https://www.deepdotweb.com/tag/challenge/" rel="tag">challenge</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/overwhelming/" rel="tag">overwhelming</a> <a href="https://www.deepdotweb.com/tag/trafficking/" rel="tag">trafficking</a></span> <span style="display:none" class="updated">2017-01-24</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

@@ -1,7 +1,7 @@
 ---
-US Law Enforcement in Investigation of Thieves Stealing &#038; Selling Tax Information on Dark Web"
+US Law Enforcement in Investigation of Thieves Stealing &#038; Selling Tax Information on Dark Web
 ---
-<article class="post-listing post-19974 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-enforcement tag-information tag-investigation tag-law tag-selling tag-stealing tag-tax tag-thieves tag-web">
+<article class="post-listing post-19974 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-information tag-investigation tag-law tag-selling tag-stealing tag-tax tag-thieves tag-web">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/josephyoung/" title="">Joseph Young </a></span>
     <span>May 19, 2017</span>
@@ -9,7 +9,7 @@ US Law Enforcement in Investigation of Thieves Stealing &#038; Selling Tax Infor
     <span><a href="https://www.deepdotweb.com/2017/05/19/us-law-enforcement-in-investigation-of-thieves-stealing/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>US law enforcement is actively investigating into a large number of tax information theft cases involving activities on the dark web.</p>
     <p>In the US, residents are required to submit their tax returns by April 15. Thus, hackers and cyber criminals dealing with tax return forms and data are most active during this time of the year. Over the past few months, an increasing number of employers have reported the loss and theft of tax return forms submitted to their employees.</p>
     <p>Most recently, Brigham Gonzalez who was scouted and appointed by a new company earlier this year, told a local publication in the US called ABC30 that her company was reportedly hacked by an undisclosed group of hackers and her tax returns have been compromised.</p>
@@ -25,6 +25,8 @@ US Law Enforcement in Investigation of Thieves Stealing &#038; Selling Tax Infor
     <p>&nbsp;</p>
     <p>“In 2016, more than 54 million Americans filed their taxes after April 1, providing more opportunity for fraudsters to file on their behalf. IBM X-Force researchers looked into its spam traps for a glimpse into the rise in tax-themed spam, and the numbers are already there. For only two of the examples that we provided in this report, we see over 6000% increase from December 2016 to February 2017,” read the report.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/stealing/" rel="tag">stealing</a> <a href="https://www.deepdotweb.com/tag/tax/" rel="tag">tax</a> <a href="https://www.deepdotweb.com/tag/thieves/" rel="tag">thieves</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-19</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/enforcement/" rel="tag">enforcement</a> <a href="https://www.deepdotweb.com/tag/information/" rel="tag">information</a> <a href="https://www.deepdotweb.com/tag/investigation/" rel="tag">investigation</a> <a href="https://www.deepdotweb.com/tag/law/" rel="tag">law</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/stealing/" rel="tag">stealing</a> <a href="https://www.deepdotweb.com/tag/tax/" rel="tag">tax</a> <a href="https://www.deepdotweb.com/tag/thieves/" rel="tag">thieves</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2017-05-19</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/josephyoung/" title="Posts by Joseph Young" rel="author">Joseph Young</a></strong></div>
-    
+    </div>
+</article>
+

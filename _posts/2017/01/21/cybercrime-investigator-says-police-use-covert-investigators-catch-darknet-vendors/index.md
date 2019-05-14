@@ -1,7 +1,7 @@
 ---
-Cybercrime Investigator Says Police Use “Covert Investigators” to Catch Darknet Vendors"
+Cybercrime Investigator Says Police Use “Covert Investigators” to Catch Darknet Vendors
 ---
-<article class="post-listing post-17642 post type-post status-publish format-standard has-post-thumbnail hentry  tag-catch tag-covert tag-cybercrime tag-darknet tag-investigator tag-investigators tag-police tag-vendors">
+<article class="post-listing post-17642 post type-post status-publish format-standard has-post-thumbnail hentry  tag-catch tag-covert tag-cybercrime tag-investigator tag-investigators tag-police tag-vendors">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/caliens/" title="">C. Aliens </a></span>
     <span>January 21, 2017</span>
@@ -9,7 +9,7 @@ Cybercrime Investigator Says Police Use “Covert Investigators” to Catch Dark
     <span><a href="https://www.deepdotweb.com/2017/01/21/cybercrime-investigator-says-police-use-covert-investigators-catch-darknet-vendors/#respond">Leave a comment</a></span>
     </p>
     <div class="clear"></div>
-    
+    <div class="entry">
     <p>The Attorney General at the <a href="https://www.deepdotweb.com/2015/10/09/new-international-task-force-planned-to-combat-cyber-crime/">Central Office for Combatting Cybercrime</a> (<a href="https://gsta-frankfurt-justiz.hessen.de/irj/GSTA_Internet?cid=66c140a3e2c1e6f75757451f6db4574e">ZIT</a>), spoke with two famed ARD journalists about handling darknet crime. Both reporters, Annette Dittert and Daniel Moßbrucker, previously created a documentary on the darknet. While their <a href="http://www.ndr.de/nachrichten/netzwelt/Wir-setzen-vor-allem-verdeckte-Ermittler-ein,darknet124.html">interview with the ZIT’s Attorney General, Andrew May</a>, covered the same topics, the interview and documentary were separate projects.</p>
     <p>Weapons, drugs, and child pornography topics received the most attention. The interviewers asked May how cybercrime (on the darknet) had changed over time. May talked about methods by which darknet dealers learned to utilize to outsmart the law. Another topic discussed involved how law enforcement dealt with the modern forms of encryption and a criminal’s ability to be nearly anonymous.</p>
     <p><img class="wp-image-17646 aligncenter" src="/imgs/2017/01/word-image-20.jpeg" srcset="/imgs/2017/01/word-image-20.jpeg 568w, /imgs/2017/01/word-image-20-300x169.jpeg 300w" sizes="(max-width: 568px) 100vw, 568px" /> May explained that he started investigating the darknet four years ago. Back then, he said, mostly “soft drugs” populated the marketplaces. During the four years he worked at the ZIT, investigating the darknet, he saw it develop into something much more diverse. An ecosystem instead of forums and marketplaces. People see the darknet as a quick and easy way to turn a profit in the drug market, he said. In the real world, so to speak, the same people avoided these types of situations.</p>
@@ -21,6 +21,8 @@ Cybercrime Investigator Says Police Use “Covert Investigators” to Catch Dark
     At the end of the conversation, the interviewers brought up banning the encryption or tools used to access the darknet. May explained that while the modern technology made law enforcement step their game up, banning said technology or software is not feasible. Plus, he said, the same stuff: drugs, child pornography, and weapons are found on Google—if one looks hard enough.</p>
     <p>weapons from a ZIT operation.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/covert/" rel="tag">covert</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/investigator/" rel="tag">investigator</a> <a href="https://www.deepdotweb.com/tag/investigators/" rel="tag">investigators</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-01-21</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a> <a href="https://www.deepdotweb.com/tag/covert/" rel="tag">covert</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/investigator/" rel="tag">investigator</a> <a href="https://www.deepdotweb.com/tag/investigators/" rel="tag">investigators</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/vendors/" rel="tag">vendors</a></span> <span style="display:none" class="updated">2017-01-21</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/caliens/" title="Posts by C. Aliens" rel="author">C. Aliens</a></strong></div>
-    
+    </div>
+</article>
+

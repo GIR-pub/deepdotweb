@@ -1,7 +1,7 @@
 ---
-Personal Data Of 3.7 Million Voters Stolen In Hong Kong"
+Personal Data Of 3.7 Million Voters Stolen In Hong Kong
 ---
-<article class="post-listing post-19622 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5375 tag-data tag-hong tag-kong tag-million tag-personal tag-stolen tag-voters">
+<article class="post-listing post-19622 post type-post status-publish format-standard has-post-thumbnail hentry  tag-5375 tag-data tag-hong tag-kong tag-million tag-stolen tag-voters">
     <div class="post-inner">
         <span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     <span>May 4, 2017</span>
@@ -23,6 +23,8 @@ Personal Data Of 3.7 Million Voters Stolen In Hong Kong"
     <p>Kwok, the other lawmaker criticizing the work of the authorities in the whole procedure, questioned why such important data would be stored in a room without any guards. He previously sent a letter to Legislative Council President Andrew Leung calling for a special inquiry meeting over the incident, but his request was rejected on reasons, such as it not being a matter of “public interest”. Several local media outlets were furious of this statement of Leung. According to them, the personal information of 3.7 million citizens, all the ones who are officially registered for voting, were stolen and could be leaked any time by the thieves. They state that this is a serious case, and is in the interest of the public since their data was stolen from the computers.</p>
     <p>Lam said he had not been given a chance to talk to the chief electoral officer, adding that the government’s reluctance to cooperate had made it difficult to monitor the situation. He and Kwok vowed to keep pushing the authorities to come clean on the matter.</p>
     </div>
-    <a href="https://www.deepdotweb.com/tag/37/" rel="tag">37</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/hong/" rel="tag">hong</a> <a href="https://www.deepdotweb.com/tag/kong/" rel="tag">kong</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/voters/" rel="tag">voters</a></span> <span style="display:none" class="updated">2017-05-04</span>
+    <span style="display:none"><a href="https://www.deepdotweb.com/tag/37/" rel="tag">37</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/hong/" rel="tag">hong</a> <a href="https://www.deepdotweb.com/tag/kong/" rel="tag">kong</a> <a href="https://www.deepdotweb.com/tag/million/" rel="tag">million</a> <a href="https://www.deepdotweb.com/tag/personal/" rel="tag">personal</a> <a href="https://www.deepdotweb.com/tag/stolen/" rel="tag">stolen</a> <a href="https://www.deepdotweb.com/tag/voters/" rel="tag">voters</a></span> <span style="display:none" class="updated">2017-05-04</span>
     <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-    
+    </div>
+</article>
+

@@ -3,6 +3,7 @@ title: "Silk Road 2 Admin Blake Benthall Released From Prison?!"
 ---
 
 Posted by: DeepDotWeb
+
 <span>November 26, 2014</span>
 
 <p><strong>Update</strong>:  According to the documents on Pacer his status is &#8220;“Detention on consent without prejudice.” (agrees to stay in jail) &amp; According to <a href="https://www.vinelink.com">Vinelink</a>,  he was transferred to an &#8220;Unknown location&#8221;, which explains the &#8220;released&#8221; part fom the BOP site:</p>
@@ -11,8 +12,8 @@ Posted by: DeepDotWeb
 <div id="attachment_8470" style="width: 504px" class="wp-caption aligncenter"><a href="/imgs/2014/11/pacer.jpg"><img class=" wp-image-8470" src="/imgs/2014/11/pacer.jpg" alt="Pacer" width="494" height="639" srcset="/imgs/2014/11/pacer.jpg 1275w, /imgs/2014/11/pacer-232x300.jpg 232w, /imgs/2014/11/pacer-791x1024.jpg 791w" sizes="(max-width: 494px) 100vw, 494px"/></a><p class="wp-caption-text">Pacer</p></div>
 <p>So he was not released, and being held in an &#8220;Unknown location&#8221;. Thanks to Reddit user <a href="http://www.reddit.com/user/World177">World177</a> For confirming the info!</p>
 <p>========Update End============</p>
-<p><strong>**This story is not yet clear and is <span style="color: #ff0000;">not yet </span>verified or explained &#8211; we are trying to figure out what happened here &#8211; if you have any further info please <a title="Contact Us" href="http://www.deepdotweb.com/contact-us/">contact us</a>**</strong></p>
-<p>According to the <a href="http://www.bop.gov/inmateloc/">inmate locator</a>,  Blake Benthall, the <a title="Official: Silk Road 2.0 Admin Charged in Manhattan Federal Court" href="http://www.deepdotweb.com/2014/11/06/official-silk-road-2-0-admin-charged-manhattan-federal-court/" target="_blank">alleged</a> Silk Road 2 admin was released from prison on 11/21/2014, if you will search for his details you will be presented with this info:</p>
+<p><strong>**This story is not yet clear and is <span style="color: #ff0000;">not yet </span>verified or explained &#8211; we are trying to figure out what happened here &#8211; if you have any further info please <a title="Contact Us" href="contact-us/">contact us</a>**</strong></p>
+<p>According to the <a href="http://www.bop.gov/inmateloc/">inmate locator</a>,  Blake Benthall, the <a title="Official: Silk Road 2.0 Admin Charged in Manhattan Federal Court" href="2014/11/06/official-silk-road-2-0-admin-charged-manhattan-federal-court/" target="_blank">alleged</a> Silk Road 2 admin was released from prison on 11/21/2014, if you will search for his details you will be presented with this info:</p>
 <blockquote><p>BLAKE BENTHALL<br/>
     Register Number: 20045-111<br/>
     Age: 26<br/>
